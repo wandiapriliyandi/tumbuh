@@ -1,123 +1,122 @@
 # P0042 — Bagaimana Memastikan Explicit Dependency Benar-Benar Substantive dan Bukan Sekadar Formal Reference?
 
-## Pertanyaan
+## Status
 
-**Jika sebuah dependency sudah dinyatakan secara explicit, bagaimana memastikan bahwa dependency tersebut benar-benar substantive dan bukan sekadar reference yang terlihat formal?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0042  
+**Status:** Revised  
+**Type:** Dependency Validation Inquiry
 
-P0040 menemukan bahwa explicitness penting untuk substantive dan governance-relevant dependency.
+---
 
-P0041 menemukan bahwa traceability gap harus dinilai berdasarkan materialitas dan inspectability.
+## 1. Object of Inquiry
 
-Maka P0042 menguji sisi sebaliknya:
+**Object of Inquiry:** Validitas substantive dependency antara Design Principles dan downstream objects dalam Principles TUMBUH.
 
-> **Apakah explicit reference otomatis berarti substantive dependency?**
+P0040 menemukan bahwa dependency substantif perlu explicit. P0041 menemukan bahwa missing traceability dapat menjadi gap. P0042 menguji sisi sebaliknya: apakah explicit reference benar-benar membuktikan dependency?
 
-Jawabannya: tidak.
+## 2. TUMBUH Question
 
-## 1. Explicit Reference Tidak Sama dengan Dependency
+> **Jika sebuah dependency sudah dinyatakan secara explicit, bagaimana memastikan bahwa dependency tersebut benar-benar substantive dan bukan sekadar reference yang terlihat formal?**
 
-Sebuah reference hanya menunjukkan bahwa dua object memiliki hubungan yang disebutkan.
+## 3. Titik Berangkat
+
+**Explicit reference ≠ automatic substantive dependency.**
 
 Contoh:
 
-**P1 — related to — I1**
+~~~text
+P1 — related to — I1
+~~~
 
-Reference tersebut belum membuktikan bahwa I1:
+Link tersebut belum membuktikan bahwa I1:
 
 - diturunkan dari P1;
 - bergantung pada P1;
 - berubah jika P1 berubah;
 - hanya berlaku karena P1;
-- membutuhkan P1 untuk mempertahankan reasoning-nya.
+- membutuhkan P1 untuk mempertahankan reasoning.
 
-Dengan demikian:
+Reference adalah **claim tentang relationship**, bukan bukti otomatis bahwa dependency substantif ada.
 
-**Reference = claim tentang relationship**
+## 4. Dependency sebagai Claim
 
-bukan otomatis:
-
-**Reference = substantive dependency.**
-
-## 2. Dependency adalah Claim
-
-P0025 dan P0026 telah menetapkan bahwa relationship merupakan claim yang membutuhkan rationale ketika bersifat substantif.
+P0025–P0026 menempatkan relationship sebagai claim yang membutuhkan rationale ketika substantif.
 
 Maka:
 
-**A depends on B**
+~~~text
+I1 depends on P1
+~~~
 
-bukan sekadar metadata.
+merupakan klaim yang perlu dapat dijelaskan.
 
-Ia merupakan klaim bahwa terdapat hubungan tertentu antara A dan B yang memiliki consequence.
+Pertanyaan dasarnya:
 
-Karena itu explicit dependency tetap perlu diperiksa.
+> **Apa consequence dari dependency tersebut?**
 
-## 3. Tiga Kemungkinan
+## 5. Tiga Kemungkinan
 
-Sebuah explicit reference dapat ternyata merupakan:
+Explicit reference dapat ternyata merupakan:
 
 ### Association
 
-Dua object berkaitan secara topik atau konteks, tetapi tidak ada dependency substantif.
+Hubungan topical/contextual tanpa substantive dependency.
 
 ### Relationship
 
-Ada hubungan bermakna, tetapi tidak berarti salah satu object bergantung pada yang lain.
+Hubungan bermakna, tetapi tidak berarti downstream bergantung pada parent.
 
 ### Dependency
 
-Perubahan pada parent dapat mengubah derivation, applicability, meaning, consequence, atau governance downstream.
+Perubahan parent dapat mengubah derivation, applicability, meaning, consequence, atau governance downstream.
 
-Ketiganya tidak boleh diperlakukan identik.
+Ketiganya perlu dibedakan.
 
-## 4. Counterfactual Test
+## 6. Counterfactual Test
 
-Salah satu test paling berguna:
+Pertanyaan diagnosis:
 
-> **Jika parent object berubah atau dihapus, apakah downstream object secara substantif perlu diperiksa ulang?**
+> **Jika parent berubah atau dihapus, apakah downstream object secara substantif perlu diperiksa kembali?**
 
-Jika tidak, dependency mungkin hanya association.
+Jika tidak, dependency perlu dipertanyakan.
 
-Jika iya, perlu diperiksa **mengapa** dan **dalam kondisi apa**.
+Jika iya, reviewer perlu mengidentifikasi mekanisme dan kondisi yang membuat impact tersebut terjadi.
 
-Counterfactual bukan bukti tunggal, tetapi alat diagnosis.
+Counterfactual adalah test, bukan bukti tunggal.
 
-## 5. Contribution Test
+## 7. Contribution Test
 
 Untuk composite dependency:
 
-**P1 + P2 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
-tanyakan:
+perlu ditanyakan:
 
-- Apa kontribusi P1?
-- Apa kontribusi P2?
-- Jika P1 dihilangkan, apakah reasoning I1 berubah?
-- Jika P2 dihilangkan, apakah reasoning I1 berubah?
+- apa kontribusi P1?
+- apa kontribusi P2?
+- apa yang berubah jika P1 dihilangkan?
+- apa yang berubah jika P2 dihilangkan?
 
-Jika salah satu parent tidak memberikan kontribusi substantif, dependency tersebut mungkin redundant.
+Jika salah satu parent tidak memberikan kontribusi substantif, dependency dapat redundant.
 
-Ini melanjutkan contribution test dari P0036.
-
-## 6. Necessity Test
-
-Dependency substantif biasanya memiliki alasan mengapa parent diperlukan.
+## 8. Necessity Test
 
 Pertanyaan:
 
 > **Apakah downstream object masih memiliki derivation dan meaning yang sama tanpa parent tersebut?**
 
-Jika iya, dependency mungkin tidak substantive.
+Jika iya, dependency mungkin hanya association atau supporting relationship.
 
-Jika tidak, ada indikasi dependency substantif.
+Jika tidak, terdapat indikasi dependency substantif.
 
-Namun “necessary” tidak selalu berarti parent adalah satu-satunya sumber reasoning.
+Namun dependency tidak harus berarti parent adalah satu-satunya sumber reasoning.
 
-## 7. Impact Test
+## 9. Impact Test
 
-Dependency dapat dianggap substantif jika perubahan parent memiliki potential impact terhadap downstream.
-
-Impact dapat mengenai:
+Dependency menjadi lebih kuat bila perubahan parent berpotensi mengubah:
 
 - identity;
 - meaning;
@@ -128,89 +127,102 @@ Impact dapat mengenai:
 - acceptance rationale;
 - governance status.
 
-Semakin material consequence, semakin kuat dasar menyebut relationship sebagai dependency.
+Yang dinilai adalah consequence, bukan keberadaan link.
 
-## 8. Derivation Test
+## 10. Derivation Test
 
-Untuk object yang diklaim derived:
+Jika downstream object diklaim sebagai derived object:
 
-**P → I**
+~~~text
+P → I
+~~~
 
 harus dapat dijelaskan:
 
 1. apa yang berasal dari P;
-2. bagaimana reasoning berlangsung;
+2. bagaimana reasoning menghasilkan I;
 3. apa yang berubah jika P berubah.
 
-Jika tidak ada derivation reasoning, label “derived from” mungkin hanya formal reference.
+Tanpa derivation reasoning, label **derived from** dapat menjadi formal reference saja.
 
-## 9. Scope Test
+## 11. Scope Test
 
-Dependency dapat bersifat conditional.
-
-Maka perlu ditanyakan:
-
-> **Apakah dependency berlaku pada seluruh downstream object atau hanya dalam scope tertentu?**
+Dependency dapat conditional.
 
 Contoh:
 
-**P1 → I1 under C1**
+~~~text
+P1 → I1 [Condition C]
+~~~
 
-Jika C1 tidak dicatat, reference dapat terlihat lebih kuat daripada hubungan sebenarnya.
+Reviewer perlu mengetahui apakah dependency berlaku:
 
-Scope membantu mencegah overclaim.
+- system-wide;
+- domain-specific;
+- contextual;
+- conditionally.
 
-## 10. Direction Test
+Tanpa scope/condition, reference dapat membuat relationship tampak lebih luas daripada yang sebenarnya.
 
-P0024 menemukan bahwa relationship memiliki semantics yang dapat directional, symmetric, atau reciprocal.
+## 12. Direction Test
 
-Karena itu:
+P0024 menunjukkan bahwa relationship memiliki semantics berbeda.
 
-**P1 supports I1**
+Contoh:
 
-berbeda dari:
+~~~text
+P1 supports I1
+~~~
 
-**I1 depends on P1**
+tidak identik dengan:
 
-Reference yang sama belum tentu menunjukkan arah dependency yang sama.
+~~~text
+I1 depends on P1
+~~~
 
-Substantiveness harus dinilai berdasarkan semantics relationship, bukan hanya keberadaan link.
+Karena itu substantiveness harus dinilai berdasarkan **arah dan semantics**, bukan sekadar link.
 
-## 11. Relationship-Type Test
+## 13. Relationship-Type Test
 
 Reference:
 
-**Related to: P1**
+~~~text
+Related to: P1
+~~~
 
-terlalu lemah untuk menyimpulkan:
+terlalu lemah untuk langsung menyimpulkan:
 
-**Depends on: P1**
+~~~text
+Depends on: P1
+~~~
 
-Jika dependency memang substantive, relationship type perlu merepresentasikan makna yang benar.
+Jika dependency memang substantif, relation type harus menggambarkan makna sebenarnya.
 
-Tidak semua relationship harus dipaksa menjadi dependency.
+## 14. Rationale Test
 
-## 12. Rationale Test
-
-Pertanyaan penting:
+Pertanyaan utama:
 
 > **Mengapa dependency ini substantive?**
 
-Rationale minimal perlu menjelaskan consequence atau mechanism.
+Rationale sebaiknya menjelaskan mechanism atau consequence.
 
 Contoh:
 
-**Depends on P1 because P1 establishes the condition that makes I1 applicable.**
+~~~text
+Depends on P1 because P1 establishes the condition that makes I1 applicable.
+~~~
 
-Ini lebih informatif daripada:
+Lebih inspectable daripada:
 
-**Depends on P1.**
+~~~text
+Depends on P1.
+~~~
 
-## 13. Evidence Test
+## 15. Evidence Test
 
-Tidak setiap dependency membutuhkan evidence baru.
+Tidak semua dependency membutuhkan evidence baru.
 
-Namun jika dependency membuat empirical claim, causal claim, atau claim yang contested, evidence yang relevan perlu dapat ditelusuri.
+Namun jika dependency membuat empirical, causal, atau contested claim, evidence relevan perlu dapat ditelusuri.
 
 Evidence dapat berasal dari:
 
@@ -220,115 +232,76 @@ Evidence dapat berasal dari:
 - implementation learning;
 - evaluation.
 
-Reference tidak otomatis menjadi evidence.
+Reference bukan evidence.
 
-## 14. Independence Test
+## 16. Independence Test
 
-Tanyakan:
+Downstream object dapat memiliki independent justification sekaligus memiliki dependency tertentu.
 
-> **Apakah downstream object memiliki independent justification yang cukup?**
-
-Independent justification tidak otomatis berarti tidak ada dependency.
-
-Sebuah object dapat memiliki justification sendiri sekaligus bergantung pada parent untuk scope atau design constraint tertentu.
-
-Maka independence harus dibaca secara spesifik:
+Maka independence perlu ditanya secara spesifik:
 
 - independent identity?
 - independent rationale?
 - independent applicability?
 - independent governance?
 
-## 15. Identity Test
-
-Dependency yang substantive tidak selalu berarti parent menentukan identity downstream.
-
-Misalnya:
-
-P1 memberi constraint terhadap I1, tetapi I1 tetap memiliki independent identity.
-
-Maka:
-
 **Dependency ≠ identity ownership.**
 
-Ini penting untuk mencegah dependency dibaca terlalu kuat.
+## 17. Reversibility Test
 
-## 16. Reversibility Test
+Jika reference dihapus, apakah substantive reasoning masih dapat direkonstruksi?
 
-Jika reference dihapus, apakah reasoning tetap dapat direkonstruksi?
+Jika iya, reference mungkin hanya convenience.
 
-Jika iya, explicit reference mungkin hanya convenience.
+Jika penghapusan reference membuat parent substantif tidak dapat ditemukan, reference memiliki traceability value tinggi.
 
-Jika penghapusan reference menyebabkan reviewer tidak dapat mengetahui parent yang substantif, maka reference tersebut memiliki traceability value yang lebih besar.
+Namun traceability value tetap berbeda dari substantiveness.
 
-## 17. Orphan Test
+## 18. Orphan Dependency
 
-Sebuah downstream object yang mengklaim dependency tetapi tidak memiliki rationale atau derivation yang dapat diperiksa dapat menjadi:
+Jika object mengklaim dependency tetapi tidak memiliki rationale atau derivation yang dapat diperiksa, status yang lebih tepat adalah:
 
-> **Potential Orphan Dependency**
+**Potential Orphan Dependency**
 
-Artinya reference ada, tetapi substantive relationship belum terbukti.
+Reference ada, tetapi substantive relationship belum tervalidasi.
 
-Ini berbeda dari orphan object biasa.
+## 19. False Positive dan False Negative
 
-## 18. False Positive Dependency
+Dua kesalahan perlu dideteksi.
 
-Explicitness dapat menghasilkan false positive.
+### False Positive
 
-Contoh:
+Dependency dicatat, tetapi ternyata hanya association.
 
-**I1 — depends on — P1**
+### False Negative
 
-tetapi ternyata P1 hanya disebut karena keduanya berada dalam domain yang sama.
+Dependency tidak dicatat, tetapi reasoning menunjukkan dependency substantif.
 
-Jika relationship tidak memiliki consequence, dependency tersebut sebaiknya tidak dipertahankan hanya karena sudah tertulis.
+P0041 terutama menangani false negative.
 
-## 19. False Negative Dependency
-
-Kebalikannya juga mungkin:
-
-Tidak ada reference, tetapi reasoning menunjukkan:
-
-**P1 → I1**
-
-Ini adalah kasus yang ditemukan P0041 sebagai traceability gap.
-
-Maka review harus dapat mendeteksi kedua jenis kesalahan:
-
-- false positive;
-- false negative.
+P0042 menambahkan pengujian terhadap false positive.
 
 ## 20. Dependency Validation Flow
 
 Working flow:
 
-**Explicit Reference**
-
+~~~text
+Explicit Reference
 ↓
-
-**Semantic Check**
-
+Semantic Check
 ↓
-
-**Counterfactual / Contribution / Impact Test**
-
+Counterfactual / Contribution / Impact Test
 ↓
-
-**Rationale Check**
-
+Rationale Check
 ↓
-
-**Scope & Condition Check**
-
+Scope & Condition Check
 ↓
-
-**Dependency Classification**
-
+Dependency Classification
 ↓
+Confirmed / Reclassified / Rejected
+~~~
 
-**Confirmed / Reclassified / Rejected**
-
-Dengan demikian explicitness menjadi starting point, bukan final proof.
+Explicitness adalah starting point, bukan final proof.
 
 ## 21. Classification Outcome
 
@@ -336,7 +309,7 @@ Working outcomes:
 
 ### Confirmed Dependency
 
-Relationship benar-benar substantive dan dapat dijelaskan.
+Relationship substantive dan dapat dijelaskan.
 
 ### Conditional Dependency
 
@@ -344,37 +317,33 @@ Substantive hanya pada scope/condition tertentu.
 
 ### Related Relationship
 
-Ada relationship bermakna tetapi bukan dependency.
+Relationship bermakna tetapi bukan dependency.
 
 ### Association
 
-Hanya hubungan contextual/topical.
+Hubungan contextual/topical.
 
 ### Redundant Dependency
 
-Dependency tidak memberikan consequence substantif atau dapat digantikan tanpa perubahan berarti.
+Reference tidak memberikan consequence substantif.
 
 ### Rejected Dependency
 
-Reference tidak memiliki dasar yang cukup.
+Claim dependency tidak memiliki dasar yang cukup.
 
-## 22. Apakah Harus Ada Numeric Score?
+## 22. No Numeric Score
 
-Tidak ada dasar untuk membuat skor.
+Tidak ada dasar untuk membuat dependency score.
 
-Lebih tepat menggunakan evidence dan judgment berbasis tests.
-
-Contoh:
+Lebih sesuai menggunakan evidence dan judgment berdasarkan tests:
 
 - rationale sufficient;
 - counterfactual supports dependency;
 - scope defined;
 - consequence material;
-- relationship semantics correct.
+- semantics correct.
 
-## 23. Governance Relevance
-
-Dependency yang menentukan governance harus memiliki validation lebih kuat.
+## 23. Governance-Relevant Dependency
 
 Jika dependency menentukan:
 
@@ -384,59 +353,66 @@ Jika dependency menentukan:
 - reopening;
 - lifecycle action;
 
-maka false positive dan false negative sama-sama berisiko.
+maka validation perlu lebih kuat.
 
-Karena itu governance dependency sebaiknya melalui explicit validation.
+False positive dapat menghasilkan review yang tidak perlu.
 
-## 24. Validation Tidak Harus Menjadi Prosedur Berat
+False negative dapat membuat downstream impact terlewat.
 
-Tidak semua relationship membutuhkan review formal yang sama.
+## 24. Proportional Validation
 
-Depth validation dapat mengikuti materiality:
+Validation depth dapat mengikuti consequence:
 
-**Low consequence**
-→ lightweight semantic check.
+### Low Consequence
 
-**Substantive**
-→ rationale + impact/counterfactual check.
+Light semantic check.
 
-**Governance-critical**
-→ explicit review and confirmation.
+### Substantive Dependency
 
-Ini konsisten dengan pendekatan proportionality pada P0025 dan P0032.
+Rationale + relevant impact/counterfactual check.
+
+### Governance-Critical Dependency
+
+Explicit review and confirmation.
+
+Ini konsisten dengan proportionality yang telah muncul pada inquiry sebelumnya.
 
 ## 25. Temporal Dimension
 
-Dependency dapat benar sekarang tetapi berubah kemudian.
+Dependency bukan necessarily permanent.
 
-Karena itu validation bukan one-time guarantee.
-
-Jika:
+Dependency dapat berubah ketika:
 
 - parent berubah;
-- scope berubah;
 - downstream berubah;
-- relationship berubah;
+- scope berubah;
+- condition berubah;
+- relationship berubah.
 
-dependency dapat perlu divalidasi kembali.
-
-Ini konsisten dengan lifecycle relationship dari P0027.
+Karena itu validation dapat perlu diulang sebagai bagian dari lifecycle relationship.
 
 ## 26. Dependency Identity
 
-Tidak semua dependency perlu memiliki independent object identity.
+Tidak semua dependency membutuhkan independent repository identity.
 
-Namun governance-relevant dependency perlu dapat dibedakan dari sekadar prose.
+Namun governance-relevant dependency harus dapat dibedakan dari prose biasa.
 
-Minimum representation dapat berupa:
+Minimum conceptual representation:
 
-**Parent → Type → Downstream → Rationale → Scope/Condition → Status**
+~~~text
+Parent
+→ Relationship Type
+→ Downstream
+→ Rationale
+→ Scope / Condition
+→ Status
+~~~
 
-Tidak berarti harus langsung dibuat sebagai database entity.
+Belum perlu menjadikannya database entity.
 
 ## 27. Structured Relationship
 
-Jika repository semakin kompleks, structured relationship dapat membantu:
+Structured relationship dapat membantu jika repository membutuhkan:
 
 - consistent semantics;
 - impact analysis;
@@ -444,102 +420,92 @@ Jika repository semakin kompleks, structured relationship dapat membantu:
 - search;
 - tooling.
 
-Tetapi struktur teknis harus mengikuti kebutuhan reasoning, bukan sebaliknya.
+Namun struktur teknis mengikuti kebutuhan reasoning, bukan sebaliknya.
 
-## 28. Relation Type Tidak Boleh Menentukan Substantiveness Sendiri
+## 28. Relation Label Tidak Menentukan Substantiveness
 
 Label:
 
-**depends-on**
+~~~text
+depends-on
+~~~
 
 tidak otomatis membuktikan dependency.
 
-Sebaliknya, hubungan substantive dapat ditemukan sebelum relation type ditetapkan.
+Sebaliknya, substantive dependency dapat ditemukan sebelum relation type final ditentukan.
 
-Maka:
+Working sequence:
 
-**Semantics → validation → classification → representation**
+**Semantics → Validation → Classification → Representation**
 
-lebih aman daripada:
+bukan:
 
-**Label → assumption of substantiveness.**
+**Label → Assumed Substantiveness**
 
-## 29. Traceability dan Validity
+## 29. Traceability: Completeness dan Correctness
 
-Dependency yang valid membantu traceability.
+P0041 menekankan **completeness**:
 
-Tetapi:
+> dependency substantif yang seharusnya ada sudah dapat ditelusuri.
 
-> **Traceability yang lengkap tidak membuktikan bahwa dependency benar.**
+P0042 menambahkan **correctness**:
 
-Sebuah graph yang salah tetap merupakan graph yang salah.
+> dependency yang dicatat benar-benar substantif dan semantics-nya tepat.
 
-Karena itu TUMBUH perlu menjaga dua kualitas:
+Traceability yang baik membutuhkan keduanya.
 
-1. completeness;
-2. correctness.
+## 30. Minimum Validation Questions
 
-## 30. Completeness vs Correctness
+Untuk governance-relevant dependency, reviewer setidaknya dapat bertanya:
 
-### Completeness
-
-Apakah dependency substantif yang seharusnya ada sudah dicatat?
-
-### Correctness
-
-Apakah dependency yang dicatat benar-benar substantive dan semantics-nya tepat?
-
-P0041 terutama membahas completeness.
-
-P0042 menambahkan correctness.
-
-Keduanya harus dijaga.
-
-## 31. Minimum Validation Questions
-
-Untuk setiap governance-relevant dependency, reviewer setidaknya dapat bertanya:
-
-1. Apa object parent?
+1. Apa parent object?
 2. Apa downstream object?
-3. Apa jenis relationship?
-4. Apa alasan relationship?
+3. Apa relationship type?
+4. Mengapa relationship tersebut ada?
 5. Apa consequence jika parent berubah?
-6. Apakah relationship berlaku universal atau conditional?
+6. Pada scope/condition apa dependency berlaku?
 7. Apakah downstream tetap memiliki meaning yang sama tanpa parent?
 8. Apakah reference ini sebenarnya hanya association?
 
 Jika pertanyaan tersebut tidak dapat dijawab, dependency belum cukup tervalidasi.
 
-## 32. Temuan
+## 31. Boundary
 
-1. Explicit reference tidak otomatis berarti substantive dependency.
-2. Dependency merupakan claim tentang relationship dan consequence.
-3. Association, relationship, dan dependency harus dibedakan.
-4. Counterfactual test membantu menguji substantive impact.
-5. Contribution test penting untuk composite dependency.
-6. Necessity dan impact membantu menguji substantiveness.
-7. Derivation claim membutuhkan reasoning yang dapat diperiksa.
-8. Scope dan condition mencegah dependency overclaim.
-9. Direction dan relationship type harus mencerminkan semantics sebenarnya.
-10. Rationale lebih penting daripada sekadar label.
-11. Evidence dapat mendukung dependency tetapi reference bukan evidence.
-12. Dependency tidak identik dengan identity ownership.
-13. Explicit references dapat menjadi false positive.
-14. Missing references dapat menjadi false negative.
-15. Dependency validation sebaiknya menghasilkan classification, bukan sekadar yes/no.
-16. Validation depth dapat proporsional terhadap consequence.
-17. Governance-critical dependencies membutuhkan validation paling kuat.
-18. Dependency dapat berubah dan perlu review ulang.
-19. Structured relationship berguna bila complexity membutuhkannya, tetapi bukan kewajiban awal.
-20. Traceability membutuhkan completeness dan correctness.
+P0042 **tidak**:
 
-## 33. Keputusan Sementara
+- menetapkan numeric score;
+- mewajibkan graph teknis;
+- menganggap setiap reference sebagai dependency;
+- mengubah semua relationship menjadi dependency;
+- atau menetapkan automation sebagai keharusan.
 
-**PASS — EXPLICIT REFERENCE TIDAK OTOMATIS MEMBUKTIKAN SUBSTANTIVE DEPENDENCY. SETIAP DEPENDENCY MATERIAL PERLU DIVALIDASI BERDASARKAN SEMANTICS, RATIONALE, CONSEQUENCE, SCOPE, DAN RELEVANT COUNTERFACTUAL/CONTRIBUTION TESTS.**
+Fokusnya adalah **correctness of dependency claims dalam Principles TUMBUH**.
+
+## 32. Repository Destination
+
+Hasil P0042 diarahkan ke:
+
+**Principles → Design Principles → Design Implications → Dependency / Traceability / Validation**
+
+Dependency record yang matang secara konseptual perlu menjawab:
+
+~~~text
+What
+Between what
+Why
+When
+What happens
+Status
+Trace
+~~~
+
+Bentuk teknis dapat berkembang.
+
+## 33. Implikasi bagi TUMBUH
 
 Working rule:
 
-> **Explicitness membuat dependency dapat diperiksa; validation menentukan apakah dependency tersebut benar-benar substantive.**
+> **Explicitness membuat dependency dapat diperiksa; validation menentukan apakah dependency benar-benar substantive.**
 
 Dengan demikian:
 
@@ -549,32 +515,62 @@ bukan:
 
 **Reference → Automatic Dependency**
 
-## 34. Implikasi bagi Repository
+## 34. Temuan Sementara
 
-Dependency record yang matang idealnya dapat menjawab:
+1. Explicit reference tidak otomatis berarti substantive dependency.
+2. Dependency merupakan claim tentang relationship dan consequence.
+3. Association, relationship, dan dependency harus dibedakan.
+4. Counterfactual membantu menguji substantive impact.
+5. Contribution test penting untuk composite dependency.
+6. Necessity dan impact membantu menguji substantiveness.
+7. Derivation claim membutuhkan reasoning yang dapat diperiksa.
+8. Scope dan condition mencegah dependency overclaim.
+9. Direction dan relationship type harus mencerminkan semantics sebenarnya.
+10. Rationale lebih penting daripada sekadar label.
+11. Evidence dapat mendukung dependency tetapi reference bukan evidence.
+12. Dependency tidak identik dengan identity ownership.
+13. Explicit dependency dapat menjadi false positive.
+14. Missing dependency dapat menjadi false negative.
+15. Validation sebaiknya menghasilkan classification, bukan sekadar yes/no.
+16. Validation depth dapat proporsional terhadap consequence.
+17. Governance-critical dependencies membutuhkan validation paling kuat.
+18. Dependency dapat berubah dan perlu revalidation.
+19. Structured relationship berguna bila complexity membutuhkannya.
+20. Traceability membutuhkan completeness dan correctness.
 
-- **what:** dependency apa;
-- **between what:** parent dan downstream object;
-- **why:** rationale;
-- **when:** scope/condition;
-- **what happens:** consequence;
-- **status:** proposed/confirmed/rejected atau status lifecycle yang relevan;
-- **trace:** source/PROBE bila diperlukan.
+Temuan ini masih provisional.
 
-Namun bentuk teknisnya tetap dapat sederhana.
+## 35. Kesimpulan
 
-## 35. Next Inquiry
+P0042 mendukung:
 
-P0043 akan menguji:
+> **Explicit reference adalah titik awal validasi, bukan bukti substantiveness.**
 
-> **Apakah semua Confirmed Dependency harus diperlakukan sebagai hard dependency, atau TUMBUH membutuhkan distinction antara dependency yang necessary, enabling, constraining, dan conditional?**
+Dependency perlu divalidasi berdasarkan:
 
-Ini membawa inquiry dari **validitas dependency** menuju **jenis dan kekuatan dependency**.
+- semantics;
+- rationale;
+- consequence;
+- scope/condition;
+- derivation;
+- counterfactual atau contribution reasoning yang relevan.
 
-## Status
+Working model:
 
-**P0042 — selesai sebagai inquiry.**
+**Reference → Validation → Classification → Confirmed Dependency**
 
-**Temuan utama:** Explicit reference adalah titik awal validasi, bukan bukti substantiveness. Dependency harus divalidasi berdasarkan semantics, rationale, consequence, scope, dan reasoning yang relevan.
+## 36. Next Inquiry
 
-**Next inquiry:** P0043 — *Apakah Semua Confirmed Dependency Memiliki Kekuatan yang Sama?*
+> **Apakah semua Confirmed Dependency memiliki kekuatan yang sama, atau TUMBUH membutuhkan pembedaan antara dependency yang necessary, enabling, constraining, dan conditional?**
+
+P0043 akan menguji **jenis dan kekuatan dependency**, tanpa mengubah dependency menjadi ranking atau skor.
+
+## 37. Status Inquiry
+
+**Finding:** Explicitness tidak membuktikan substantiveness.
+
+**Working conclusion:** Dependency material perlu validation terhadap semantics, rationale, consequence, scope, dan reasoning yang relevan.
+
+**Boundary:** Technical representation dan automation belum ditetapkan.
+
+**Open question:** Apakah Confirmed Dependency perlu dibedakan menurut jenis/kekuatan fungsionalnya?
