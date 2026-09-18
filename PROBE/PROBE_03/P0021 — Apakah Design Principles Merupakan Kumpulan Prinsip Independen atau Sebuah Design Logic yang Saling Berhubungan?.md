@@ -1,335 +1,365 @@
 # P0021 — Apakah Design Principles Merupakan Kumpulan Prinsip Independen atau Sebuah Design Logic yang Saling Berhubungan?
 
-## Pertanyaan
+## Status
 
-**Apakah Design Principles dalam TUMBUH sebaiknya dipahami sebagai kumpulan prinsip yang berdiri sendiri, atau sebagai bagian dari sebuah Design Logic/Design Grammar yang saling berhubungan?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0021  
+**Status:** Revised  
+**Type:** Design Principles Relational Structure Inquiry
 
-P0011–P0020 menunjukkan bahwa Design Principles memiliki scope, dapat mengalami konflik, dapat menghasilkan lebih dari satu desain, dan dapat diterjemahkan melalui implications, questions, dan criteria. Karena itu, perlu diuji apakah hubungan antar-principle hanya hubungan administratif atau merupakan bagian dari makna desain itu sendiri.
+---
 
-## 1. Titik Berangkat
+## 1. Object of Inquiry
 
-Design Principle tidak berdiri dalam ruang kosong.
+**Object of Inquiry:** Design Principles TUMBUH, khususnya hubungan antar-Design Principles dalam membentuk reasoning desain.
 
-Sebuah candidate principle dapat memiliki hubungan dengan:
-- Core Principles;
-- Design Principles lain;
-- Design Implications;
-- Design Criteria;
-- evidence;
-- constraints;
-- contextual conditions;
-- design decisions.
+P0021 tidak langsung menetapkan Design Logic atau Design Grammar sebagai struktur repository. Fokusnya adalah menguji **apakah hubungan antar-principle merupakan bagian yang diperlukan dari makna dan penggunaan Principles**.
 
-Namun hubungan tersebut belum otomatis berarti bahwa seluruh Design Principles harus disatukan menjadi satu sistem formal.
+## 2. TUMBUH Question
 
-Pertanyaan P0021 adalah apakah hubungan tersebut cukup kuat untuk membentuk Design Logic.
+> **Apakah Design Principles TUMBUH merupakan kumpulan prinsip yang relatif independen, atau lebih tepat dipahami sebagai Principle System yang hubungan antar-prinsipnya merupakan bagian dari design reasoning?**
 
-## 2. Dua Model yang Perlu Dibedakan
+Pertanyaan ini muncul karena P0011–P0020 menunjukkan adanya scope, conditionality, conflict, shared criteria, implications, dan trade-off antar-principle.
 
-### Model A — Kumpulan Principle Independen
+## 3. Dua Kemungkinan
+
+### Model A — Principle Set
 
 Setiap Design Principle diperlakukan sebagai unit relatif mandiri.
 
-Masing-masing memiliki:
+~~~text
+Principle
+→ Implication
+→ Criterion
+→ Evidence
+~~~
 
-Principle → Implication → Criterion → Evidence
+Hubungan antar-principle terutama dicatat ketika diperlukan.
 
-Hubungan antar-principle terutama berupa:
-- traceability;
-- scope;
-- compatibility;
-- conflict;
-- shared criteria.
+### Model B — Principle System
 
-### Model B — Design Logic
+Design Principles dipahami bersama dengan relasi yang mempunyai consequence terhadap reasoning desain.
 
-Design Principles dipahami sebagai node dalam sistem reasoning.
+~~~text
+Principles
+↕
+Relational Structure
+↕
+Design Reasoning
+~~~
 
-Hubungannya dapat berupa:
-- prerequisite;
-- complement;
-- dependency;
-- tension;
-- refinement;
-- conditional relation;
-- reinforcement.
+Model B tidak berarti setiap principle harus berhubungan dengan semua principle.
 
-Dengan demikian, makna sebuah principle sebagian dapat ditentukan oleh relasinya dengan principle lain.
+## 4. Temuan yang Sudah Ada
 
-## 3. Temuan dari PROBE Sebelumnya
+P0011 menunjukkan bahwa dua Design Principles dapat memiliki tension atau genuine trade-off.
 
-P0011 menemukan bahwa konflik antar-Design Principles tidak selalu berarti salah satu harus dihapus. Konflik dapat berasal dari perbedaan scope, level, redundancy, atau genuine trade-off.
+P0012 menunjukkan bahwa Design Principles dapat bersifat conditional dan contextual.
 
-P0012 menemukan bahwa Design Principles dapat bersifat conditional dan contextual.
+P0014 menunjukkan bahwa satu Principle dapat menghasilkan beberapa desain yang valid.
 
-P0014 menemukan bahwa satu Design Principle dapat menghasilkan beberapa desain yang sama-sama valid.
+P0016 menunjukkan bahwa relasi Principle dan Criterion tidak harus one-to-one.
 
-P0016 menemukan bahwa hubungan Principle dan Criterion tidak harus one-to-one.
+P0017–P0020 menunjukkan bahwa struktur Principles tidak perlu dibuat simetris secara paksa.
 
-P0017–P0019 semakin menunjukkan bahwa struktur Principles tidak seharusnya dipaksakan menjadi struktur yang sepenuhnya simetris.
+Temuan tersebut cukup untuk menunjukkan **relational structure**, tetapi belum cukup untuk menetapkan formal Design Grammar.
 
-Temuan-temuan tersebut menunjukkan adanya relational structure, tetapi belum membuktikan bahwa TUMBUH membutuhkan sebuah Design Grammar formal.
+## 5. Design Logic Berbeda dari Daftar Principles
 
-## 4. Design Logic Tidak Sama dengan Daftar Principles
+Daftar Principles menjawab:
 
-Daftar menjawab:
-
-> “Apa saja principles yang dimiliki?”
+> **Apa saja commitment desain yang dimiliki TUMBUH?**
 
 Design Logic menjawab:
 
-> “Bagaimana principles tersebut bekerja bersama ketika desain dibuat?”
+> **Bagaimana commitment tersebut bekerja bersama ketika desain dibuat dan diuji?**
 
-Perbedaan ini penting.
+Jika hubungan antar-principle memengaruhi interpretation, constraint, trade-off, atau design decision, hubungan tersebut merupakan bagian penting dari reasoning meskipun tidak harus menjadi Principle baru.
 
-Dua sistem dapat memiliki daftar principles yang sama tetapi menghasilkan desain berbeda karena hubungan antar-principle ditafsirkan berbeda.
-
-Maka jika hubungan antar-principle memengaruhi keputusan desain, hubungan tersebut merupakan bagian penting dari design reasoning.
-
-## 5. Apakah Semua Principles Harus Saling Terhubung?
+## 6. Apakah Semua Principles Harus Terhubung?
 
 Tidak.
 
-Hubungan dapat bersifat partial.
+Sebuah Principle dapat:
 
-Sebuah Design Principle mungkin:
 - relevan hanya pada domain tertentu;
-- tidak berhubungan langsung dengan principle lain;
-- hanya berhubungan pada kondisi tertentu;
-- berbagi criterion dengan principle lain;
-- berinteraksi hanya ketika terjadi trade-off.
+- tidak memiliki hubungan langsung dengan Principle lain;
+- berhubungan hanya pada kondisi tertentu;
+- berbagi criterion dengan Principle lain;
+- atau berinteraksi ketika trade-off muncul.
 
-Karena itu, model yang lebih masuk akal bukan:
+Maka working rule yang lebih tepat:
 
-> setiap principle harus terhubung dengan semua principle.
+> **Hubungan yang mempunyai consequence terhadap design reasoning perlu dapat ditelusuri; hubungan yang tidak mempunyai consequence tidak perlu dipaksakan.**
 
-Melainkan:
-
-> setiap hubungan yang memiliki konsekuensi terhadap reasoning perlu dapat ditelusuri.
-
-## 6. Relational Structure sebagai Minimum Requirement
-
-Daripada langsung membangun Design Grammar formal, TUMBUH dapat terlebih dahulu membutuhkan relational traceability.
-
-Untuk setiap principle, dapat ditanyakan:
-1. Berasal dari Core Principle atau reasoning apa?
-2. Berhubungan dengan Design Principle apa?
-3. Apakah hubungan tersebut reinforcing, complementary, dependent, atau conflicting?
-4. Dalam scope apa hubungan berlaku?
-5. Apa konsekuensinya terhadap design alternatives?
-6. Apakah hubungan tersebut didukung evidence atau reasoning tertentu?
-
-Ini sudah memberikan struktur tanpa menciptakan formalism yang belum diperlukan.
-
-## 7. Dari Principle Set menuju Principle System
+## 7. Principle Set → Principle System
 
 Working distinction:
 
-Principle Set
-→ kumpulan principles yang diterima.
+**Principle Set**
 
-Principle System
-→ kumpulan principles + relasi yang memiliki konsekuensi terhadap desain.
+→ kumpulan Design Principles yang diterima.
 
-Design Logic
+**Principle System**
+
+→ kumpulan Design Principles + relasi yang memiliki consequence terhadap desain.
+
+**Design Logic**
+
 → cara Principle System digunakan untuk menghasilkan dan mengevaluasi reasoning desain.
 
-Design Grammar
-→ bentuk yang lebih formal, jika terdapat aturan relasional yang cukup stabil untuk menjelaskan bagaimana elemen-elemen desain dapat dikombinasikan.
+**Design Grammar**
 
-Urutan ini penting agar TUMBUH tidak terlalu cepat mengubah konsep menjadi formal framework.
+→ bentuk formal yang menjelaskan pola kombinasi atau relasi jika pola tersebut telah terbukti cukup stabil dan berguna.
 
-## 8. Kapan Design Grammar Diperlukan?
+Keempatnya tidak boleh diperlakukan sebagai sinonim.
 
-Design Grammar baru layak dipertimbangkan jika ditemukan bahwa:
-- hubungan antar-principle berulang secara konsisten;
-- pola hubungan dapat dirumuskan;
-- pola tersebut membantu menghasilkan atau mengevaluasi desain;
-- tanpa pola tersebut, designers sering menghasilkan interpretasi yang tidak konsisten;
-- formalization memberikan manfaat yang jelas.
+## 8. Relational Traceability sebagai Minimum Requirement
 
-Jika bukti tersebut belum ada, istilah Design Grammar sebaiknya tetap menjadi hypothesis, bukan struktur repository yang wajib.
+Sebelum membuat formal Design Grammar, TUMBUH dapat memastikan bahwa relationship yang substantif dapat ditelusuri.
 
-## 9. Risiko Model Principle yang Sepenuhnya Independen
+Untuk sebuah hubungan, pertanyaan minimal:
 
-Jika semua principles dianggap independen, beberapa masalah dapat muncul.
+1. Principle apa yang berhubungan?
+2. Apa jenis hubungannya?
+3. Dalam scope atau kondisi apa hubungan berlaku?
+4. Apa consequence terhadap design reasoning?
+5. Apakah hubungan tersebut memunculkan dependency, complementarity, constraint, atau tension?
+6. Apa basis reasoning atau evidence yang mendukung hubungan tersebut?
 
-### Redundancy
-Dua principles mungkin sebenarnya merupakan dua formulasi dari commitment yang sama.
+Ini cukup untuk menjaga coherence tanpa menambah formalism yang belum diperlukan.
 
-### Hidden conflict
-Trade-off dapat muncul terlambat karena hubungan antar-principle tidak terlihat.
+## 9. Working Vocabulary Relasi
 
-### Fragmentation
-Designer dapat mengoptimalkan satu principle sambil merusak principle lain.
+Untuk inquiry, beberapa label dapat digunakan secara provisional:
 
-### Loss of traceability
-Sulit menjelaskan mengapa dua principles harus dipertimbangkan bersama.
-
-Karena itu, independensi tidak boleh berarti tidak ada relasi.
-
-## 10. Risiko Design Logic yang Terlalu Formal
-
-Sebaliknya, jika semua hubungan dipaksa masuk ke grammar formal:
-- sistem menjadi terlalu kompleks;
-- hubungan yang sebenarnya contextual terlihat universal;
-- design judgment menyempit;
-- dokumentasi berubah menjadi taxonomy;
-- formalism dapat lebih cepat berkembang daripada evidence yang mendukungnya.
-
-Maka relational structure harus tumbuh dari kebutuhan reasoning, bukan dari dorongan membuat struktur yang lengkap.
-
-## 11. Model Kerja yang Lebih Proporsional
-
-Working model yang paling aman pada tahap ini:
-
-Core Principles
-↓
-Design Principles
-↕
-Relational Structure
-↓
-Design Implications / Questions / Criteria
-↓
-Design Alternatives
-↓
-Evidence & Judgment
-↓
-Design Decision
-
-Relational Structure tidak harus menjadi folder atau framework baru.
-
-Ia dapat berupa metadata, bagian dari dokumentasi principle, atau traceability graph jika kebutuhan sudah terbukti.
-
-## 12. Jenis Relasi yang Sementara Dapat Digunakan
-
-Untuk keperluan inquiry, beberapa label relasi dapat digunakan secara provisional:
-
-| Relasi | Makna |
+| Relasi | Fungsi |
 |---|---|
 | supports | satu principle memperkuat penerapan principle lain |
-| complements | keduanya memenuhi fungsi berbeda yang saling melengkapi |
+| complements | keduanya menjalankan fungsi yang saling melengkapi |
 | depends-on | penerapan efektif bergantung pada principle lain |
-| constrains | satu principle membatasi interpretasi/design space principle lain |
+| constrains | satu principle membatasi interpretation/design space principle lain |
 | tensions-with | keduanya dapat menghasilkan trade-off |
 | refines | satu principle mempersempit atau memperjelas principle lain |
-| applies-with | hubungan hanya berlaku pada scope/condition tertentu |
+| applies-with | hubungan berlaku pada scope/condition tertentu |
 
-Daftar ini working vocabulary, bukan taxonomy final TUMBUH.
+Daftar ini **working vocabulary**, bukan taxonomy final TUMBUH.
 
-## 13. Relasi Tidak Sama dengan Hierarki
+## 10. Relasi Tidak Sama dengan Hierarki
 
-Penting untuk tidak mengubah setiap relasi menjadi ranking.
+Relasi tidak otomatis berarti ranking.
 
 Misalnya:
 
+~~~text
 DP-A supports DP-B
+~~~
 
-tidak berarti:
+tidak berarti DP-A lebih tinggi daripada DP-B.
 
-> DP-A lebih tinggi daripada DP-B.
+Demikian pula:
 
-Demikian juga:
-
+~~~text
 DP-A tensions-with DP-B
+~~~
 
-tidak berarti salah satunya harus menjadi “pemenang”.
+tidak berarti salah satunya harus selalu “menang”.
 
-Sebagaimana ditemukan pada P0011, genuine trade-off memerlukan reasoning kontekstual dan tidak menghasilkan universal ranking.
+P0011 sudah menunjukkan bahwa genuine trade-off membutuhkan reasoning berdasarkan scope dan kondisi, bukan universal ranking.
 
-## 14. Relasi dan Conditionality
+## 11. Conditional Relationship
 
-P0012 menunjukkan bahwa sebuah Design Principle dapat berlaku secara conditional.
+P0012 menunjukkan bahwa Principle dapat bersifat conditional.
 
-Karena itu hubungan antar-principle juga dapat conditional.
+Karena itu relationship juga dapat conditional.
 
 Contoh abstrak:
 
-> Dalam kondisi X, DP-A dan DP-B harus diterapkan bersama.
+> Dalam kondisi X, DP-A dan DP-B perlu diterapkan bersama.
 
 Sedangkan:
 
-> Dalam kondisi Y, DP-A dan DP-B dapat mengalami tension.
+> Dalam kondisi Y, DP-A dan DP-B dapat menghasilkan tension.
 
-Ini memperkuat alasan untuk tidak membangun Design Grammar yang terlalu kaku pada tahap awal.
+Ini berarti relational structure TUMBUH harus mampu merepresentasikan **scope dan condition**, bukan hanya hubungan statis.
 
-## 15. Design Logic sebagai Reasoning Infrastructure
+## 12. Risiko Menganggap Principles Sepenuhnya Independen
 
-Jika istilah Design Logic dipertahankan, fungsi utamanya sebaiknya bukan menjadi “dokumen prinsip tambahan”.
+Jika setiap Principle dianggap benar-benar independen:
 
-Fungsinya adalah menjelaskan:
+- redundancy dapat tersembunyi;
+- conflict dapat ditemukan terlambat;
+- designer dapat mengoptimalkan satu Principle sambil merusak Principle lain;
+- alasan mengapa beberapa Principles harus dipertimbangkan bersama menjadi sulit ditelusuri.
 
-> **bagaimana principles berinteraksi ketika TUMBUH menghadapi masalah desain nyata.**
+Jadi “independen” sebaiknya berarti **memiliki identity sendiri**, bukan **tidak memiliki hubungan**.
 
-Ia dapat membantu menjawab:
-- principles mana yang relevan;
-- hubungan apa yang terjadi;
-- trade-off apa yang muncul;
-- criteria mana yang perlu digunakan;
-- kapan suatu principle menjadi dominant constraint;
-- kapan beberapa desain tetap valid.
+## 13. Risiko Terlalu Cepat Membuat Design Grammar
 
-Dengan demikian Design Logic berada pada level reasoning, bukan level SOP.
+Sebaliknya, formalization yang terlalu dini dapat:
 
-## 16. Apakah TUMBUH Perlu Design Grammar Sekarang?
+- menambah kompleksitas;
+- membuat hubungan contextual tampak universal;
+- mempersempit design judgment;
+- menghasilkan taxonomy sebelum pola reasoning terbukti;
+- dan membuat struktur repository lebih rumit daripada kebutuhan desain.
 
-**Belum cukup bukti.**
+Karena itu formalization harus mengikuti evidence dan kebutuhan reasoning.
 
-Yang sudah cukup didukung oleh rangkaian PROBE adalah kebutuhan terhadap:
+## 14. Kapan Design Grammar Layak Dipertimbangkan?
 
-> relational understanding of Design Principles.
+Design Grammar baru layak dipertimbangkan jika ditemukan bahwa:
 
-Belum cukup untuk menyatakan bahwa TUMBUH harus memiliki:
+1. pola hubungan berulang secara konsisten;
+2. pola tersebut dapat dirumuskan tanpa menghilangkan kondisi penting;
+3. pola membantu menghasilkan atau mengevaluasi desain;
+4. ketiadaan pola menyebabkan interpretation yang tidak konsisten;
+5. formalization memberikan manfaat yang jelas.
 
-> formal Design Grammar.
+Tanpa kondisi tersebut, relational traceability sudah cukup sebagai working structure.
 
-Ini perbedaan penting antara finding dan hypothesis.
+## 15. Model Kerja yang Proporsional
 
-## 17. Temuan
+Untuk tahap ini:
+
+~~~text
+Core Principles
+      ↓
+Design Principles
+      ↕
+Relational Structure
+      ↓
+Design Implications / Questions / Criteria
+      ↓
+Design Alternatives
+      ↓
+Evidence / Judgment
+      ↓
+Design Decision
+~~~
+
+Relational Structure tidak harus menjadi folder atau framework baru.
+
+Ia dapat berupa:
+
+- bagian dari dokumentasi Principle;
+- relationship metadata;
+- traceability record;
+- atau graph jika kebutuhan sudah terbukti.
+
+## 16. Design Logic sebagai Reasoning Infrastructure
+
+Jika istilah Design Logic digunakan, fungsinya bukan membuat “dokumen prinsip tambahan”.
+
+Fungsinya adalah membantu menjelaskan:
+
+> **bagaimana Principles berinteraksi ketika TUMBUH menghadapi masalah desain nyata.**
+
+Misalnya:
+
+- Principle mana yang relevan?
+- Apa hubungan antar-principle?
+- Apakah ada dependency?
+- Apakah ada tension?
+- Criterion mana yang terpengaruh?
+- Dalam kondisi apa hubungan berubah?
+- Apakah beberapa desain tetap conform?
+
+Dengan demikian Design Logic berada pada **level reasoning**, bukan level SOP.
+
+## 17. Boundary
+
+P0021 **tidak**:
+
+- menetapkan semua Design Principles harus saling terhubung;
+- membuat ranking antar-principle;
+- menetapkan Design Grammar formal;
+- membuat folder DESIGN_LOGIC;
+- atau mengubah relational structure menjadi governance hierarchy.
+
+Fokusnya hanya:
+
+> **menentukan tingkat struktur relasional yang diperlukan agar Principles dapat digunakan secara coherent dalam design reasoning.**
+
+## 18. Repository Destination
+
+Hasil P0021 diarahkan ke:
+
+**Principles → Design Principles → relational traceability**
+
+Untuk sementara tidak diperlukan folder baru **Design Logic** atau **Design Grammar**.
+
+Jika kebutuhan formalization muncul kemudian, hal tersebut harus berasal dari finding PROBE berikutnya.
+
+## 19. Implication for TUMBUH
+
+Working model:
+
+> **Design Principles memiliki identity masing-masing, tetapi Principles yang memiliki consequence terhadap reasoning desain perlu dipahami dalam relasinya.**
+
+Dengan demikian:
+
+~~~text
+Principle Identity
++
+Relevant Relationship
+=
+Principle System
+~~~
+
+Bukan:
+
+~~~text
+Principle
+=
+isolated rule
+~~~
+
+Dan bukan pula:
+
+~~~text
+Principle System
+=
+formal grammar
+~~~
+
+## 20. Temuan Sementara
 
 1. Design Principles tidak harus diperlakukan sebagai unit yang sepenuhnya independen.
-2. Hubungan antar-principle dapat memengaruhi design reasoning.
-3. Namun tidak semua principles harus saling terhubung.
-4. Relational traceability lebih dahulu diperlukan sebelum formal Design Grammar.
-5. Principle Set, Principle System, Design Logic, dan Design Grammar merupakan tingkat yang berbeda.
-6. Design Logic menjelaskan bagaimana principles bekerja bersama dalam reasoning.
-7. Design Grammar merupakan bentuk formal yang hanya layak jika pola relasional sudah terbukti stabil dan berguna.
-8. Relasi antar-principle bukan otomatis hierarki atau ranking.
-9. Relasi dapat bersifat conditional dan contextual.
-10. TUMBUH sebaiknya menghindari formalization sebelum kebutuhan dan manfaatnya terbukti.
+2. Hubungan antar-principle dapat menjadi bagian penting dari design reasoning.
+3. Tidak semua Principles harus saling terhubung.
+4. Relational traceability merupakan kebutuhan yang lebih awal dan lebih aman daripada formal Design Grammar.
+5. Principle Set, Principle System, Design Logic, dan Design Grammar adalah tingkat yang berbeda.
+6. Relasi tidak otomatis merupakan hierarki atau ranking.
+7. Relasi dapat bersifat conditional dan contextual.
+8. Formalization perlu mengikuti pola reasoning yang benar-benar terbukti.
+9. Design Logic, jika nantinya diperlukan, lebih tepat dipahami sebagai reasoning infrastructure daripada layer preskriptif.
+10. Belum ada dasar cukup untuk menjadikan Design Grammar sebagai komponen wajib TUMBUH.
 
-## 18. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — DESIGN PRINCIPLES MEMERLUKAN RELATIONAL STRUCTURE, TETAPI BELUM TERBUKTI MEMERLUKAN FORMAL DESIGN GRAMMAR.**
+## 21. Kesimpulan
 
-Working rule:
+P0021 mendukung working rule:
 
-> **Design Principles dipahami sebagai Principle System ketika hubungan antar-principle memiliki konsekuensi terhadap design reasoning. Relasi tersebut harus dapat ditelusuri ketika relevan, tetapi tidak perlu dipaksakan menjadi hierarki atau Design Grammar formal sebelum pola dan manfaatnya terbukti.**
+> **Design Principles TUMBUH sebaiknya dipahami sebagai Principle System ketika hubungan antar-principle mempunyai consequence terhadap design reasoning. Hubungan tersebut perlu dapat ditelusuri ketika relevan, tetapi belum perlu diformalkan menjadi Design Grammar.**
 
-## 19. Implikasi bagi Repository
+Dengan demikian TUMBUH menghindari dua ekstrem:
 
-Untuk repository, belum diperlukan folder baru bernama DESIGN_LOGIC atau DESIGN_GRAMMAR.
+**isolated principles** di satu sisi dan **over-formalized grammar** di sisi lain.
 
-Lebih tepat untuk sementara:
-- mempertahankan Design Principles sebagai layer;
-- menyediakan traceability antar-principle bila relevan;
-- mendokumentasikan conflicts, dependencies, dan complementarities;
-- mengembangkan formal Design Logic hanya jika inquiry berikutnya menunjukkan kebutuhan.
+## 22. Next Inquiry
 
-Dengan demikian struktur repository tetap mengikuti fungsi, bukan memaksakan konsep baru hanya karena secara teoritis menarik.
+> **Bagaimana menentukan apakah dua Design Principles benar-benar berbeda, atau sebenarnya merupakan dua formulasi dari commitment atau design logic yang sama?**
 
-## 20. Next Inquiry
+P0022 akan menguji boundary antara **distinct Principle** dan **duplicate/reformulated Principle** agar Principle System tidak mengalami inflation.
 
-P0022 akan menguji pertanyaan berikut:
+## 23. Status Inquiry
 
-> **Bagaimana menentukan apakah dua Design Principles benar-benar berbeda, atau sebenarnya merupakan dua formulasi dari commitment/design logic yang sama?**
+**Finding:** Design Principles memiliki identity sendiri tetapi dapat membentuk relational structure yang relevan terhadap design reasoning.
 
-Pertanyaan ini penting karena semakin relational sebuah Principle System, semakin penting membedakan distinction yang substantif dari sekadar perbedaan redaksi.
+**Working conclusion:** Relational traceability diperlukan sebelum formal Design Logic/Grammar dipertimbangkan.
 
-## Status
+**Boundary:** Tidak menetapkan hierarchy atau formal grammar.
 
-**P0021 — selesai sebagai inquiry.**
-
-**Temuan utama:** Design Principles lebih tepat dipahami sebagai bagian dari Principle System yang memiliki relational structure, tetapi belum ada dasar yang cukup untuk menetapkan formal Design Grammar sebagai komponen wajib TUMBUH.
-
-**Next inquiry:** P0022 — *Bagaimana membedakan dua Design Principles yang benar-benar berbeda dari dua formulasi atas commitment/design logic yang sama?*
+**Open question:** Bagaimana membedakan Principle yang benar-benar berbeda dari dua formulasi atas commitment yang sama?
