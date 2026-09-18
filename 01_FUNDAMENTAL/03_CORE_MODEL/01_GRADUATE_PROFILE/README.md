@@ -9,13 +9,13 @@ Graduate Profile TUMBUH terdiri dari 10 Muwashofat:
 1. Aqidah yang Lurus — Salimul Aqidah — **True Faith**
 2. Ibadah yang Benar — Shahihul Ibadah — **Rightful Worship**
 3. Akhlak yang Mulia — Matinul Khuluq — **Moral Excellence**
-4. Fisik yang Sehat dan Kuat — Qawiyyul Jism
-5. Wawasan yang Luas — Mutsaqqaful Fikr
-6. Mampu Mengendalikan Diri — Mujahadatun Linafsih
-7. Disiplin Mengelola Waktu — Haritsun 'Ala Waqtih
-8. Tertib dan Bertanggung Jawab — Munazhzham fi Syu'unih
-9. Mandiri dan Produktif — Qadirun 'Alal Kasb
-10. Bermanfaat bagi Sesama — Nafi'un Lighairih
+4. Fisik yang Sehat dan Kuat — Qawiyyul Jism — **Physical Strength & Health**
+5. Wawasan yang Luas — Mutsaqqaful Fikr — **Broad Understanding**
+6. Mampu Mengendalikan Diri — Mujahadatun Linafsih — **Self-Mastery**
+7. Disiplin Mengelola Waktu — Haritsun 'Ala Waqtih — **Time Discipline**
+8. Tertib dan Bertanggung Jawab — Munazhzham fi Syu'unih — **Order & Responsibility**
+9. Mandiri dan Produktif — Qadirun 'Alal Kasb — **Independence & Productivity**
+10. Bermanfaat bagi Sesama — Nafi'un Lighairih — **Contribution to Others**
 
 ## Status
 
@@ -33,13 +33,13 @@ Foundation
     ├── 01 Aqidah yang Lurus — True Faith
     ├── 02 Ibadah yang Benar — Rightful Worship
     ├── 03 Akhlak yang Mulia — Moral Excellence
-    ├── 04 Fisik yang Sehat dan Kuat
-    ├── 05 Wawasan yang Luas
-    ├── 06 Mampu Mengendalikan Diri
-    ├── 07 Disiplin Mengelola Waktu
-    ├── 08 Tertib dan Bertanggung Jawab
-    ├── 09 Mandiri dan Produktif
-    └── 10 Bermanfaat bagi Sesama
+    ├── 04 Fisik yang Sehat dan Kuat — Physical Strength & Health
+    ├── 05 Wawasan yang Luas — Broad Understanding
+    ├── 06 Mampu Mengendalikan Diri — Self-Mastery
+    ├── 07 Disiplin Mengelola Waktu — Time Discipline
+    ├── 08 Tertib dan Bertanggung Jawab — Order & Responsibility
+    ├── 09 Mandiri dan Produktif — Independence & Productivity
+    └── 10 Bermanfaat bagi Sesama — Contribution to Others
              ↓
       Core Model / 8 Core Capacities
 ```
