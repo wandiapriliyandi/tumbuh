@@ -1,407 +1,355 @@
 # P0020 — Bagaimana Membuat Design Principles Cukup Operasional tanpa Menjadi Rules atau SOP?
 
-## Pertanyaan
+## Status
 
-**Bagaimana membuat Design Principles cukup operasional untuk digunakan oleh perancang sistem tanpa mengubahnya menjadi design rules, method, atau SOP?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0020  
+**Status:** Revised  
+**Type:** Design Principle Operationalizability Inquiry
 
-P0019 menemukan bahwa Design Principles tidak wajib memiliki indicators. Untuk menggunakannya dalam evaluasi, jalur yang lebih tepat adalah:
+---
 
-**Design Principle → Design Implication → Design Criterion → Evidence → Conformance Judgment.**
+## 1. Object of Inquiry
 
-P0020 menguji bagaimana prinsip bergerak dari tingkat konseptual menuju penggunaan praktis tanpa kehilangan statusnya sebagai principle.
+**Object of Inquiry:** Design Principles TUMBUH.
 
-## 1. Masalah Utama
+P0020 menguji bagaimana Design Principles dapat digunakan dalam perancangan secara nyata tanpa kehilangan karakter sebagai **principle** dan tanpa berubah menjadi rule, method, decision, atau SOP.
 
-Ada dua kegagalan yang berlawanan.
+## 2. TUMBUH Question
+
+> **Bagaimana membuat Design Principles cukup operasional untuk digunakan oleh perancang sistem tanpa mengubahnya menjadi rules atau SOP?**
+
+P0019 menunjukkan bahwa Design Principle tidak membutuhkan Indicator sebagai struktur wajib. Maka persoalan berikutnya adalah memastikan Principle mempunyai **jalur penerjemahan yang cukup untuk digunakan dalam reasoning desain**.
+
+## 3. Dua Kegagalan
 
 ### Terlalu abstrak
 
-Principle menjadi slogan:
+Principle menjadi slogan yang tidak membantu perancang membedakan alternatif desain.
 
-> “Desain harus holistik.”
+Jika Principle hanya mengatakan “desain harus holistik”, perancang belum mengetahui consequence, pertanyaan, atau kondisi yang perlu diuji.
 
-Tetapi perancang tidak tahu:
+### Terlalu preskriptif
 
-- apa konsekuensinya;
-- pertanyaan apa yang harus diajukan;
-- apa yang perlu dihindari;
-- bagaimana menilai alternatif.
+Jika Principle mengatakan “gunakan struktur X, lakukan A lalu B”, ia mulai berfungsi sebagai rule, method, procedure, atau SOP.
 
-### Terlalu operasional
+Targetnya:
 
-Principle berubah menjadi:
+> **cukup operasional untuk mengarahkan reasoning, tetapi tidak terlalu preskriptif hingga menentukan satu prosedur atau satu desain.**
 
-> “Lakukan A, kemudian B, lalu C.”
+## 4. Operationalizable ≠ Operational
 
-Ini sudah mendekati rule, procedure, method, atau SOP.
+Working distinction:
 
-Maka targetnya adalah:
+**Operational** → langsung menentukan tindakan, konfigurasi, atau prosedur.
 
-> **cukup operasional untuk mengarahkan reasoning, tetapi tidak terlalu preskriptif hingga menentukan prosedur.**
-
-## 2. Operationalizable Tidak Sama dengan Operational
-
-P0020 membedakan dua istilah kerja.
-
-**Operational**
-→ langsung menentukan tindakan atau prosedur.
-
-**Operationalizable**
-→ dapat diterjemahkan menjadi pertanyaan, criteria, atau konsekuensi desain yang dapat digunakan dalam praktik.
+**Operationalizable** → dapat diterjemahkan menjadi pertanyaan, implikasi, criteria, atau consequence desain yang dapat digunakan dalam praktik.
 
 Design Principle sebaiknya **operationalizable**, bukan menjadi instruksi operasional.
 
-## 3. Tangga Abstraksi
+## 5. Translational Chain
 
-Working model:
+Rangkaian kerja:
 
-**Core Principle**
-→ komitmen fundamental
+~~~text
+Design Principle
+        ↓
+Design Implication
+        ↓
+Design Question
+        ↓
+Design Criterion
+        ↓
+Evidence / Test
+        ↓
+Design Judgment
+        ↓
+Design Decision
+~~~
 
-**Design Principle**
-→ arah/constraint desain
+Tidak semua Principle harus menghasilkan seluruh node.
 
-**Design Implication**
-→ konsekuensi yang perlu diperhatikan dalam desain
+Yang harus dipertahankan adalah **traceable reasoning** dari commitment menuju keputusan desain.
 
-**Design Question**
-→ pertanyaan yang digunakan perancang
-
-**Design Criterion**
-→ kondisi yang dapat diperiksa
-
-**Design Decision**
-→ pilihan konkret
-
-**Design Rule / Method**
-→ cara standar melakukan sesuatu
-
-**SOP**
-→ prosedur operasional terperinci
-
-Tidak semua proyek harus memiliki setiap tingkat.
-
-Yang penting adalah tidak mencampur fungsi antar-level.
-
-## 4. Design Question sebagai Jembatan
-
-Salah satu cara membuat Design Principle usable tanpa mengubahnya menjadi rule adalah menggunakan **Design Questions**.
-
-Misalnya secara abstrak:
-
-**Design Principle**
-> Desain perlu menjaga keterhubungan antar-dimensi yang secara fungsional saling bergantung.
-
-Tidak langsung menjadi:
-
-> “Gunakan struktur X.”
-
-Tetapi menghasilkan pertanyaan:
-
-- Apakah desain memisahkan sesuatu yang secara konseptual saling bergantung?
-- Jika dipisahkan, mekanisme apa yang menjaga keterhubungannya?
-- Apakah alternatif desain memiliki konsekuensi terhadap integrasi?
-- Bagaimana hubungan tersebut terlihat dalam scenario penggunaan?
-
-Design Question mempertahankan ruang judgment.
-
-## 5. Design Implication
-
-Design Principle juga dapat diterjemahkan menjadi **Design Implication**.
+## 6. Design Implication
 
 Design Implication menjawab:
 
-> **Jika prinsip ini benar-benar dijaga, apa konsekuensinya terhadap desain?**
+> **Jika Principle benar-benar dijaga, apa consequence-nya terhadap desain?**
 
-Ia lebih konkret daripada Principle, tetapi belum menjadi instruction.
+Ia lebih konkret daripada Principle, tetapi belum menetapkan satu tindakan.
 
 Contoh abstrak:
 
-**Principle**
-→ keterhubungan perlu dijaga.
+**Principle** → keterhubungan yang relevan perlu dipertahankan.
 
-**Implication**
-→ arsitektur harus menyediakan mekanisme yang memungkinkan hubungan tersebut tetap terlihat dan berfungsi.
+**Implication** → desain perlu menyediakan mekanisme agar hubungan tersebut tetap terlihat dan berfungsi.
 
-**Decision**
-→ memilih arsitektur tertentu.
+**Decision** → perancang memilih konfigurasi tertentu.
 
-Ini merupakan translational chain yang ditemukan sepanjang P0014–P0019.
+Implication menerjemahkan commitment menjadi consequence tanpa mengambil alih keputusan.
 
-## 6. Design Criterion sebagai Boundary
+## 7. Design Question
 
-Criterion kemudian memberi batas yang dapat diperiksa.
+Design Question membantu Principle menjadi usable tanpa berubah menjadi instruction.
 
 Contoh:
 
-**Principle**
-→ menjaga keterhubungan.
+**Principle:** keterhubungan yang relevan harus dipertahankan.
 
-**Implication**
-→ hubungan antar-komponen harus tetap dapat berfungsi.
+Pertanyaan:
 
-**Criterion**
-→ desain mempertahankan hubungan tersebut pada kondisi yang relevan.
+- Apakah desain memisahkan hal-hal yang secara fungsional saling bergantung?
+- Jika dipisahkan, bagaimana hubungan tersebut tetap dijaga?
+- Apa consequence alternatif desain terhadap integrasi?
+- Pada scenario apa hubungan tersebut harus tetap berfungsi?
 
-Criterion tidak menentukan bagaimana hubungan itu harus diwujudkan.
+Question membuka ruang reasoning; ia tidak menetapkan satu desain.
 
-Dengan demikian, beberapa desain tetap mungkin valid.
+## 8. Design Criterion
 
-## 7. Mengapa Tidak Langsung Menulis Rules?
+Design Criterion menjawab:
 
-Rules memiliki karakter lebih preskriptif.
+> **Kondisi apa yang harus terpenuhi agar desain dapat dinilai conform terhadap Principle?**
 
-Rule dapat berbentuk:
+Rantai:
 
-> “Jika kondisi X terjadi, selalu lakukan Y.”
+~~~text
+Principle
+→ Implication
+→ Criterion
+→ Evidence / Test
+→ Conformance
+~~~
 
-Design Principle seharusnya lebih dekat pada:
+Criterion tidak perlu menentukan bagaimana kondisi tersebut diwujudkan. Karena itu beberapa desain tetap dapat valid.
 
-> “Ketika merancang untuk kondisi X, pertimbangkan Y agar komitmen Z tetap terjaga.”
+## 9. Mengapa Bukan Rule, Method, atau SOP?
 
-Perbedaannya adalah **ruang judgment**.
+**Rule** lebih preskriptif: jika kondisi X, lakukan Y.
 
-Rule mengurangi ruang pilihan.
+**Method** menjawab bagaimana pekerjaan dilakukan.
 
-Principle membentuk ruang pilihan.
+**SOP** menjawab urutan tindakan dalam konteks operasional tertentu.
 
-## 8. Mengapa Tidak Langsung Menulis SOP?
+Design Principle memiliki fungsi berbeda: **membentuk dan mengevaluasi design space**.
 
-SOP menjawab urutan tindakan.
+Sumber struktur TUMBUH menempatkan Workflow, Daily Practices, Institutional Practices, Family Practices, Pesantren Practices, Monitoring, Evaluation, dan Continuous Improvement dalam Implementation Framework. Ini mendukung pemisahan antara prinsip desain dan prosedur implementasi.
 
-Misalnya:
+## 10. Principle Tidak Harus Menghasilkan Satu Desain
 
-**SOP**
-1. buka dokumen;
-2. isi template;
-3. lakukan review;
-4. minta approval;
-5. arsipkan hasil.
+P0014 telah menguji bahwa satu Design Principle dapat menghasilkan lebih dari satu desain yang valid.
 
-Tidak ada alasan Design Principle harus memuat urutan tersebut.
+Maka operationalizability tidak diukur dari kemampuan Principle menghasilkan satu blueprint.
 
-SOP dapat dibuat kemudian sebagai konsekuensi implementation atau operational design yang mengikuti principles dan framework.
+Tes yang lebih tepat:
 
-Struktur TUMBUH sendiri menempatkan **Workflow, Daily Practices, Institutional Practices, Family Practices, Pesantren Practices, Monitoring, Evaluation, dan Continuous Improvement** dalam Implementation Framework, bukan di Principles. fileciteturn15file2L1-L16
+> **Apakah Principle membantu perancang menghasilkan dan mengevaluasi alternatif yang tetap conform?**
 
-Ini mendukung pemisahan antara prinsip desain dan prosedur implementasi.
+Jika ya, Principle berfungsi sebagai reasoning constraint, bukan specification.
 
-## 9. Tidak Semua Design Principle Harus Memiliki Template yang Sama
+## 11. Minimum Viable Structure
 
-Operationalizability tidak berarti setiap principle harus memiliki format identik.
+Tidak semua Design Principle membutuhkan format identik.
 
-Satu principle mungkin terutama membutuhkan:
+Namun Principle sebaiknya dapat menjawab:
 
-- design questions;
-- design criteria;
-- counterexamples.
+1. Apa commitment desainnya?
+2. Apa yang dilindungi atau diarahkan?
+3. Apa consequence desainnya?
+4. Pertanyaan apa yang perlu dipikirkan perancang?
+5. Apa yang dapat diperiksa untuk conformity?
+6. Apa scope atau kondisi validitasnya?
+7. Apa basis dan traceability-nya?
 
-Principle lain mungkin membutuhkan:
+Jika jalur tersebut sama sekali tidak dapat dibangun, Principle mungkin masih terlalu abstrak atau belum cukup terjustifikasi.
 
-- scenarios;
-- constraints;
-- evidence.
+## 12. Tidak Semua Principle Memerlukan Template Sama
 
-Principle lain mungkin cukup memiliki:
+Operationalizability tidak berarti setiap Principle harus memiliki:
 
-- implication;
-- criteria;
-- traceability.
+- jumlah Design Questions yang sama;
+- jumlah Criteria yang sama;
+- indicator yang sama;
+- evidence type yang sama;
+- atau format dokumentasi yang sama.
 
-Format harus mengikuti reasoning.
+Satu Principle mungkin membutuhkan questions dan criteria; Principle lain mungkin membutuhkan scenarios, constraints, atau counterexamples.
 
-## 10. Minimum Viable Structure
+**Functional adequacy** lebih penting daripada template symmetry.
 
-Walaupun format tidak harus seragam, candidate Design Principle sebaiknya minimal dapat menjawab:
-
-1. **Apa prinsipnya?**
-2. **Apa yang dilindungi atau diarahkan?**
-3. **Apa konsekuensi desainnya?**
-4. **Pertanyaan desain apa yang ditimbulkannya?**
-5. **Apa yang dapat diperiksa untuk menilai conformity?**
-6. **Apa batas atau scope-nya?**
-7. **Apa dasar dan traceability-nya?**
-
-Jika pertanyaan-pertanyaan tersebut tidak dapat dijawab, principle mungkin masih terlalu abstrak atau belum cukup terjustifikasi.
-
-## 11. Principle sebagai Generator of Questions
-
-Temuan penting P0020:
-
-> **Design Principle tidak harus menghasilkan satu tindakan; ia harus mampu menghasilkan pertanyaan desain yang tepat.**
-
-Ini merupakan cara menjaga fleksibilitas.
-
-Principle yang baik membantu perancang melihat:
-
-- apa yang harus dijaga;
-- apa yang perlu dipertanyakan;
-- apa yang perlu diuji;
-- apa yang tidak boleh diabaikan.
-
-Ia tidak harus mengatakan desain akhirnya seperti apa.
-
-## 12. Principle sebagai Constraint terhadap Alternatives
-
-Ketika terdapat beberapa alternatif:
-
-**Design A**
-**Design B**
-**Design C**
-
-Design Principle dapat digunakan untuk bertanya:
-
-- apakah A memenuhi implication?
-- apakah B melanggar criterion?
-- apakah C memiliki counterexample?
-
-Dengan demikian, principle menjadi alat reasoning dalam **design space**, bukan instruksi tunggal.
-
-## 13. Kapan Principle Sudah Terlalu Operasional?
-
-Candidate perlu dicurigai jika:
-
-- menentukan langkah secara berurutan;
-- menentukan tool tertentu;
-- menentukan konfigurasi tunggal;
-- berlaku hanya pada satu implementasi;
-- tidak dapat digunakan kembali;
-- lebih cocok dijadikan checklist pekerjaan;
-- langsung dapat dipindahkan ke SOP tanpa kehilangan makna.
-
-Dalam kasus tersebut, candidate mungkin perlu dipindahkan menjadi:
-
-**Design Rule / Method / Operational Procedure / Decision.**
-
-## 14. Kapan Principle Terlalu Abstrak?
-
-Sebaliknya, candidate perlu dicurigai jika:
-
-- tidak menghasilkan design implication;
-- tidak menghasilkan pertanyaan desain;
-- tidak membedakan alternatif apa pun;
-- tidak memiliki consequence yang dapat diperiksa;
-- hanya berupa slogan;
-- tidak memiliki scope atau batas interpretasi.
-
-Jika demikian, candidate belum cukup operationalizable.
-
-## 15. Working Test
-
-Candidate Design Principle dapat diuji melalui dua sisi.
+## 13. Upper dan Lower Boundary Test
 
 ### Upper Boundary Test
 
 > Apakah candidate masih berbeda dari Core Principle?
 
-Jika tidak, candidate mungkin terlalu fundamental atau redundant.
+Jika tidak, candidate mungkin hanya mengulang commitment fundamental.
 
 ### Lower Boundary Test
 
-> Apakah candidate masih berbeda dari rule, method, atau decision?
+> Apakah candidate masih berbeda dari rule, method, decision, atau SOP?
 
-Jika tidak, candidate mungkin terlalu operasional.
+Jika tidak, candidate mungkin terlalu preskriptif.
 
 ### Usability Test
 
-> Apakah seorang designer dapat menggunakan candidate untuk menghasilkan pertanyaan atau menilai alternatif?
+> Apakah perancang dapat menggunakan Principle untuk menghasilkan pertanyaan atau mengevaluasi alternatif?
 
-Jika tidak, candidate mungkin terlalu abstrak.
+Jika tidak, Principle mungkin terlalu abstrak.
 
 ### Flexibility Test
 
-> Apakah lebih dari satu desain masih mungkin setelah principle diterapkan?
+> Apakah masih terdapat lebih dari satu cara yang mungkin untuk memenuhi Principle?
 
-Jika tidak, periksa apakah principle terlalu preskriptif.
+Jika tidak, periksa apakah Principle telah berubah menjadi specification.
+
+## 14. Kapan Terlalu Abstrak?
+
+Candidate perlu diuji jika:
+
+- tidak menghasilkan Design Implication;
+- tidak menghasilkan Design Question;
+- tidak menghasilkan consequence desain;
+- tidak membantu membedakan alternatif;
+- tidak mempunyai scope yang dapat dipahami;
+- hanya menjadi slogan;
+- atau tidak memiliki traceability.
+
+Masalahnya bukan panjang-pendek rumusan.
+
+Masalahnya adalah **tidak adanya jalur dari commitment menuju design reasoning**.
+
+## 15. Kapan Terlalu Operasional?
+
+Candidate perlu dicurigai jika:
+
+- menentukan langkah secara berurutan;
+- menentukan tool tertentu tanpa alasan principle-level;
+- menentukan konfigurasi tunggal;
+- hanya berlaku untuk satu implementasi;
+- lebih cocok menjadi checklist pekerjaan;
+- atau dapat dipindahkan langsung menjadi SOP tanpa kehilangan substansi principle.
+
+Candidate seperti ini mungkin lebih tepat sebagai:
+
+**Design Rule / Method / Decision / Operational Procedure.**
 
 ## 16. Hubungan dengan Assessment
 
-P0020 juga memperjelas bahwa **operationalizability bukan berarti langsung masuk ke Assessment Framework**.
+Operationalizability tidak berarti Principle harus masuk langsung ke Assessment Framework.
 
-Untuk design:
+Untuk desain:
 
-**Principle → Implication → Question/Criterion → Evidence → Design Evaluation**
+~~~text
+Principle
+→ Implication
+→ Question / Criterion
+→ Evidence / Test
+→ Design Evaluation
+~~~
 
-Untuk assessment terhadap capacity:
+Untuk Capacity:
 
-**Capacity → Indicator → Evidence → Assessment**
+~~~text
+Capacity
+→ Indicator
+→ Evidence
+→ Assessment
+~~~
 
-Sumber Capacity Framework memang menempatkan Indicators, Assessment Mapping, Intervention Mapping, Programs, Methods, Tools, dan Evidence sebagai bagian dari struktur capacity. fileciteturn15file0L20-L38
+Kedua jalur memiliki objek berbeda. Karena itu kebutuhan agar Principle “dapat digunakan” bukan alasan untuk memasukkan Assessment terminology ke dalam Principles.
 
-Kedua jalur tidak perlu diseragamkan.
+## 17. Boundary
 
-## 17. Temuan
+P0020 **tidak**:
 
-1. Design Principle harus **operationalizable**, bukan menjadi operational procedure.
-2. Design Question merupakan salah satu jembatan penting dari principle menuju penggunaan praktis.
-3. Design Implication menerjemahkan principle menjadi konsekuensi terhadap desain.
-4. Design Criterion membantu memeriksa conformity tanpa menentukan satu desain.
-5. Rules, methods, dan SOP berada pada tingkat preskriptif yang berbeda.
-6. Implementation Framework merupakan tempat yang lebih tepat untuk workflow dan practices, bukan Principles. fileciteturn15file2L1-L16
-7. Tidak semua Design Principles membutuhkan template operasional yang identik.
-8. Principle yang terlalu abstrak tidak usable; principle yang terlalu preskriptif berubah menjadi rule/specification.
-9. Operationalizability dapat diuji melalui Upper Boundary, Lower Boundary, Usability, dan Flexibility Tests.
-10. Struktur Capacity Framework tidak perlu disalin ke Design Principles hanya karena menggunakan Indicators. fileciteturn15file0L20-L38
+- membuat Design Principles menjadi rules;
+- menetapkan SOP;
+- menetapkan method tertentu;
+- membuat checklist wajib;
+- menetapkan indicator wajib;
+- atau menetapkan satu desain sebagai hasil Principle.
 
-## 18. Keputusan Sementara
+Fokus P0020:
 
-**PASS — DESIGN PRINCIPLES HARUS OPERATIONALIZABLE, BUKAN OPERATIONAL.**
+> **bagaimana commitment pada level Principle dapat diterjemahkan menjadi reasoning desain yang usable tanpa kehilangan ruang judgment.**
 
-Working rule:
+## 18. Repository Destination
 
-> **Design Principle dianggap cukup operationalizable ketika ia dapat diterjemahkan menjadi design implications, design questions, dan/atau design criteria yang membantu perancang menilai alternatif, tetapi tetap meninggalkan ruang bagi design judgment dan tidak berubah menjadi rule, method, atau SOP.**
+Hasil P0020 diarahkan ke:
 
-Ini memberikan batas praktis:
+**Principles → Design Principles → Design Implications / Design Questions / Design Criteria**
 
-**Principle → memberi arah**
+Tidak semua elemen harus menjadi file atau field terpisah.
 
-**Question → membuka reasoning**
+Yang harus dipertahankan:
 
-**Implication → menunjukkan konsekuensi**
+~~~text
+Principle
+→ reasoning
+→ design consequence
+→ criterion
+→ decision
+~~~
 
-**Criterion → memungkinkan pemeriksaan**
+## 19. Implication for TUMBUH
 
-**Decision → memilih desain**
+Working model:
 
-**Rule/SOP → mengatur pelaksanaan**
+> **Design Principle adalah reasoning constraint, bukan operational instruction.**
 
-## 19. Implikasi bagi Repository
+Dengan demikian:
 
-Untuk tahap repository berikutnya, Design Principles dapat diperlakukan sebagai **reasoning layer**.
+**Principle** → memberi arah dan batas.
 
-Belum perlu memaksakan setiap principle memiliki:
+**Question** → membuka reasoning.
 
-- indikator;
-- skor;
-- checklist;
-- SOP;
-- satu desain tertentu.
+**Implication** → menunjukkan consequence.
 
-Yang perlu dipastikan adalah setiap principle memiliki **jalan yang dapat ditelusuri dari komitmen menuju konsekuensi desain**.
+**Criterion** → memungkinkan conformity diperiksa.
 
-Model kerja:
+**Decision** → memilih desain.
 
-**Design Principle**
-→ **Design Implication**
-→ **Design Question**
-→ **Design Criterion**
-→ **Design Evidence**
-→ **Design Judgment**
+**Rule / Method / SOP** → mengatur pelaksanaan ketika memang diperlukan.
 
-Tidak semua node harus diwujudkan sebagai file terpisah.
+## 20. Temuan Sementara
 
-## 20. Next Inquiry
+1. Design Principles perlu **operationalizable**, bukan operational.
+2. Design Implication merupakan jembatan dari commitment menuju consequence desain.
+3. Design Questions membantu perancang menggunakan Principle tanpa menentukan satu desain.
+4. Design Criteria memungkinkan conformity diperiksa.
+5. Rule, Method, Decision, dan SOP memiliki fungsi lebih preskriptif.
+6. Operationalizability tidak mengharuskan satu blueprint.
+7. Tidak semua Principles membutuhkan struktur penerjemahan yang identik.
+8. Functional adequacy lebih penting daripada structural symmetry.
+9. Implementation Practices lebih tepat berada pada Implementation Framework daripada Principles.
+10. Operationalizability tidak berarti Principle harus menjadi assessment instrument.
 
-P0021 akan menguji pertanyaan berikut:
+Temuan ini masih provisional.
 
-> **Apakah Design Principles perlu disusun sebagai kumpulan prinsip yang saling independen, atau sebenarnya lebih tepat dipahami sebagai sebuah Design Logic/Design Grammar yang saling berhubungan?**
+## 21. Kesimpulan
 
-Pertanyaan ini penting karena P0011–P0020 mulai menunjukkan bahwa principles tidak berdiri sendiri: mereka memiliki hubungan, constraints, shared criteria, scope, trade-offs, dan konsekuensi desain.
+P0020 mendukung working rule:
 
-## Status
+> **Design Principle TUMBUH harus cukup operationalizable untuk menghasilkan reasoning yang dapat digunakan—melalui implication, question, criterion, evidence, atau bentuk relevan lainnya—tetapi tidak boleh menjadi rule, method, decision, atau SOP.**
 
-**P0020 — selesai sebagai inquiry.**
+Dengan kata lain:
 
-**Temuan utama:** Design Principles harus cukup operationalizable untuk menghasilkan pertanyaan, implikasi, dan criteria desain, tetapi tidak boleh berubah menjadi rules, methods, decisions, atau SOP. Fungsinya adalah mengarahkan reasoning dalam design space, bukan menentukan satu prosedur atau satu konfigurasi.
+> **Principle tidak harus mengatakan “apa yang harus dilakukan”; Principle harus cukup kuat untuk membuat perancang tahu “apa yang harus dipikirkan, dijaga, dan diuji”.**
 
-**Next inquiry:** P0021 — *Apakah Design Principles merupakan kumpulan prinsip independen atau sebuah Design Logic/Design Grammar yang saling berhubungan?*
+## 22. Next Inquiry
+
+> **Apakah Design Principles TUMBUH sebaiknya dipahami sebagai kumpulan prinsip yang relatif independen, atau sebagai satu Design Logic yang hubungan antar-prinsipnya merupakan bagian dari makna sistem?**
+
+P0021 akan menguji apakah hubungan antar-Design Principles hanya bersifat relational, atau justru merupakan bagian dari struktur Principles itu sendiri.
+
+## 23. Status Inquiry
+
+**Finding:** Design Principles dapat dibuat usable melalui jalur reasoning tanpa menjadi rules atau SOP.
+
+**Working conclusion:** Operationalizability dicapai melalui translation ke consequence, questions, criteria, dan evidence—bukan melalui prescription.
+
+**Boundary:** Tidak menetapkan metode atau prosedur implementasi.
+
+**Open question:** Apakah Design Principles membentuk Design Logic yang saling berhubungan?
