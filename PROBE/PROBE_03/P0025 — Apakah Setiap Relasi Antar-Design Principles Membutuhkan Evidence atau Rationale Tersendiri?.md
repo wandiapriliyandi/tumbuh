@@ -1,78 +1,64 @@
 # P0025 — Apakah Setiap Relasi Antar-Design Principles Membutuhkan Evidence atau Rationale Tersendiri?
 
-## Pertanyaan
+## Status
 
-**Apakah setiap relasi antar-Design Principles membutuhkan evidence atau rationale tersendiri, atau dapat diwariskan dari evidence principles yang dihubungkan?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0025  
+**Status:** Revised  
+**Type:** Relationship Justification Inquiry
 
-P0023 menetapkan bahwa relational traceability diperlukan ketika relasi memiliki konsekuensi terhadap design reasoning. P0024 kemudian menunjukkan bahwa relasi memiliki semantic directionality yang berbeda-beda.
+---
 
-Karena relasi sekarang diperlakukan sebagai objek yang dapat ditelusuri, pertanyaan berikutnya adalah: **apa dasar yang membuat sebuah relasi dinyatakan valid?**
+## 1. Object of Inquiry
 
-## 1. Masalah
+**Object of Inquiry:** Design Principles TUMBUH, khususnya justification atas relationship antar-Design Principles.
 
-Ada dua ekstrem.
+P0023 menetapkan kebutuhan relational traceability. P0024 menunjukkan bahwa relationship memiliki semantic directionality yang dapat berbeda.
 
-### Setiap relasi wajib memiliki evidence baru
+P0025 menguji apa yang membuat sebuah **relationship claim** cukup justified.
 
-Model ini dapat menghasilkan beban dokumentasi yang besar.
+## 2. TUMBUH Question
 
-Jika:
-- Principle A memiliki evidence E1;
-- Principle B memiliki evidence E2;
+> **Apakah setiap relasi antar-Design Principles membutuhkan evidence atau rationale tersendiri, atau dapat diwariskan dari evidence Principles yang dihubungkan?**
 
-tidak otomatis berarti hubungan A–B membutuhkan penelitian baru hanya untuk menyatakan bahwa keduanya berhubungan.
+Fokusnya bukan menambah dokumentasi sebanyak mungkin, tetapi memastikan bahwa relationship yang dicatat benar-benar memiliki dasar.
 
-### Relasi tidak membutuhkan rationale sama sekali
+## 3. Principle Evidence ≠ Relationship Justification
 
-Model ini juga bermasalah.
+Evidence untuk Principle menjawab:
 
-Pernyataan:
+> Mengapa Principle ini layak dipertahankan?
 
-> A supports B
+Relationship justification menjawab:
 
-tanpa alasan dapat menjadi assertion yang tidak dapat diperiksa.
+> Mengapa kita beralasan menyatakan bahwa Principle A memiliki relationship tertentu dengan Principle B?
 
-Maka perlu dibedakan antara:
+Contoh:
 
-**evidence untuk principle**
+~~~text
+E1 → mendukung A
+E2 → mendukung B
+~~~
 
-dan
+tidak otomatis berarti:
 
-**rationale/evidence untuk relationship claim.**
+~~~text
+E1 + E2 → A supports B
+~~~
 
-## 2. Principle Evidence ≠ Relationship Evidence
+Masih diperlukan reasoning tentang relationship A–B.
 
-Evidence yang mendukung sebuah principle menjawab:
+## 4. Rationale sebagai Minimum Requirement
 
-> Mengapa principle ini layak dipertahankan?
+Tidak setiap relationship membutuhkan evidence baru.
 
-Relationship evidence/rationale menjawab:
-
-> Mengapa kita beralasan menyatakan bahwa principle A memiliki hubungan tertentu dengan principle B?
-
-Keduanya dapat berhubungan, tetapi tidak identik.
-
-Contoh abstrak:
-
-**E1 → mendukung A**
-
-**E2 → mendukung B**
-
-Belum otomatis:
-
-**E1 + E2 → membuktikan A supports B**
-
-Hubungan A–B membutuhkan reasoning tambahan.
-
-## 3. Rationale sebagai Minimum Requirement
-
-Tidak semua relationship claim memerlukan evidence baru, tetapi setiap relationship claim yang substantif sebaiknya memiliki **rationale yang dapat ditelusuri**.
+Namun setiap **relationship claim yang substantif** sebaiknya memiliki rationale yang dapat ditelusuri.
 
 Rationale dapat berupa:
 
+- conceptual reasoning;
 - logical relationship;
-- conceptual relationship;
-- derivation;
+- normative reasoning;
 - design consequence;
 - empirical evidence;
 - observed interaction;
@@ -81,146 +67,110 @@ Rationale dapat berupa:
 
 Dengan demikian:
 
-> **rationale lebih universal sebagai requirement daripada evidence baru.**
+> **Rationale lebih universal sebagai requirement daripada evidence baru.**
 
-## 4. Kapan Evidence Baru Diperlukan?
+## 5. Kapan Evidence Baru Diperlukan?
 
-Evidence tambahan lebih diperlukan ketika hubungan tersebut merupakan **empirical claim**.
+Evidence tambahan terutama diperlukan ketika relationship mengandung **empirical claim**.
 
-Contoh:
+Misalnya:
 
-> “Penerapan A secara konsisten meningkatkan kondisi B.”
+> “Penerapan A meningkatkan kondisi B.”
 
-Ini bukan hanya relationship statement; ini claim tentang efek yang membutuhkan evidence yang sesuai.
+Ini merupakan claim tentang efek dan membutuhkan evidence yang sesuai.
 
 Sebaliknya:
 
-> “A refines B karena B merupakan formulasi umum dan A mempersempitnya untuk kondisi X.”
+> “A refines B karena A membatasi scope B pada kondisi X.”
 
-Hubungan tersebut terutama merupakan conceptual/design reasoning. Evidence baru mungkin tidak diperlukan jika reasoning dapat diperiksa langsung dari definisi, scope, dan struktur keduanya.
+Ini terutama merupakan conceptual/design reasoning. Evidence baru tidak selalu diperlukan jika relationship dapat diperiksa dari definisi, scope, dan struktur keduanya.
 
-## 5. Jenis Relationship Claim
+## 6. Jenis Relationship Claim
 
 Working distinction:
 
-| Relationship claim | Dasar utama |
+| Claim relationship | Dasar utama |
 |---|---|
 | conceptual | definisi dan logical analysis |
 | structural | posisi/level dan traceability |
 | normative | Core Principles dan normative reasoning |
 | design | design implication dan consequence |
 | empirical | empirical evidence |
-| contextual | kondisi/scope + evidence/reasoning konteks |
+| contextual | condition/scope + evidence/reasoning |
 | governance | keputusan dan record governance |
 
-Jenis claim menentukan jenis justification yang diperlukan.
+Jenis claim menentukan jenis justification yang relevan.
 
-## 6. Inheritance dari Principle Evidence
+## 7. Evidence Dapat Direferensikan, Bukan Otomatis Diwariskan
 
-Evidence principle dapat **berkontribusi** pada relationship rationale.
+Evidence Principle dapat berkontribusi pada relationship rationale.
 
 Misalnya:
 
-- E1 mendukung A;
-- E2 mendukung B;
-- definisi A dan B menunjukkan complementarity.
+~~~text
+E1 → A
+E2 → B
+conceptual/design reasoning → A complements B
+~~~
 
-Maka relationship rationale dapat menggunakan E1, E2, dan conceptual reasoning.
+E1 dan E2 dapat direferensikan.
 
-Tetapi tidak tepat mengatakan relationship evidence otomatis “diwariskan”.
+Namun tidak tepat mengatakan relationship evidence otomatis **diwariskan**.
 
-Lebih tepat:
+Working rule:
 
-> **evidence dapat direferensikan kembali, sementara relationship claim tetap membutuhkan rationale sendiri.**
+> **Evidence dapat direferensikan kembali, sementara relationship claim tetap membutuhkan rationale sendiri.**
 
-## 7. Shared Evidence
+## 8. Shared Evidence
 
 Satu evidence dapat mendukung:
 
-- lebih dari satu principle;
-- satu principle dan beberapa relationships;
+- beberapa Principles;
+- satu Principle dan beberapa relationships;
 - beberapa relationship claims.
 
-Ini tidak bermasalah selama fungsi evidence tersebut jelas.
+Yang penting:
 
-Traceability harus menunjukkan:
+> **Evidence → Claim**
 
-**Evidence → Claim**
+harus jelas.
 
-bukan sekadar:
+Bukan sekadar:
 
-**Evidence → Principle.**
+> **Evidence → Principle**
 
-Dengan demikian satu sumber dapat memiliki beberapa jalur traceability.
+Satu sumber dapat memiliki beberapa jalur traceability jika setiap jalur memiliki fungsi yang jelas.
 
-## 8. Tidak Semua Relasi Membutuhkan Level Justification yang Sama
+## 9. Proportional Justification
 
-Relasi sederhana dapat memiliki rationale singkat.
+Tidak semua relationship memerlukan tingkat dokumentasi yang sama.
 
-Misalnya:
+Relationship sederhana dapat memiliki rationale singkat.
 
-> A refines B karena A membatasi scope B pada kondisi X.
+Relationship kompleks dapat membutuhkan:
 
-Relasi kompleks mungkin membutuhkan:
 - beberapa evidence;
 - counterexample;
 - scenario analysis;
 - design analysis;
 - review record.
 
-Jadi requirement sebaiknya proporsional terhadap **consequence dan contestability**.
+Kebutuhan justification sebaiknya proporsional terhadap:
 
-## 9. Contestability
-
-Pertanyaan penting:
-
-> Seberapa mudah relationship claim tersebut diperdebatkan?
-
-Semakin contestable sebuah relationship claim, semakin kuat justification yang diperlukan.
-
-Misalnya:
-
-**“A complements B.”**
-
-Jika hubungan konseptualnya jelas, rationale mungkin cukup.
-
-Tetapi:
-
-**“A constrains B under condition X.”**
-
-Jika keputusan ini berdampak besar terhadap architecture, rationale perlu lebih eksplisit.
-
-Dan:
-
-**“A reduces the negative effect of B in practice.”**
-
-membutuhkan evidence empiris jika digunakan sebagai empirical claim.
-
-## 10. Consequence Sensitivity
-
-Justification juga perlu mengikuti dampak hubungan.
-
-Relationship dengan consequence kecil tidak memerlukan dokumentasi sebesar relationship yang:
-
-- mengubah interpretation;
-- menghasilkan constraint;
-- menentukan conflict handling;
-- memengaruhi major design decision;
-- atau memengaruhi banyak principle lain.
+1. **contestability** — seberapa mudah relationship diperdebatkan;
+2. **consequence** — seberapa besar dampaknya terhadap design reasoning.
 
 Working rule:
 
-> **the stronger the consequence, the stronger the required justification.**
+> **The stronger the consequence or contestability, the stronger the required justification.**
 
-Ini bukan scoring.
+Ini merupakan prinsip proporsionalitas dokumentasi, bukan scoring.
 
-Ini adalah prinsip proporsionalitas dokumentasi.
+## 10. Relationship Status
 
-## 11. Relationship Status
+Relationship dapat memiliki status sendiri, terpisah dari status Principle.
 
-Relationship sebaiknya memiliki status yang berbeda dari status principle.
-
-Contoh working status:
+Working status:
 
 - Proposed;
 - Under Review;
@@ -229,156 +179,194 @@ Contoh working status:
 - Conditional;
 - Superseded.
 
-Sebuah relationship dapat berubah tanpa mengubah principle yang dihubungkannya.
+Misalnya A dan B tetap accepted sebagai Principles, tetapi:
 
-Misalnya:
-
-A dan B tetap accepted.
-
-Tetapi:
-
+~~~text
 A supports B
+~~~
 
 dapat kemudian direvisi menjadi:
 
-A complements B under condition X.
+~~~text
+A complements B under condition X
+~~~
 
-Ini menunjukkan bahwa relation merupakan object of reasoning tersendiri.
+Ini menunjukkan bahwa relationship dapat menjadi object of reasoning tersendiri.
 
-## 12. Relationship Rationale Tidak Harus Menjadi File Baru
+## 11. Rationale Tidak Harus Menjadi File Baru
 
-P0023 menetapkan bahwa relational traceability tidak otomatis memerlukan layer atau folder baru.
+P0023 menunjukkan bahwa relational traceability tidak otomatis membutuhkan layer baru.
 
 Hal yang sama berlaku untuk rationale.
 
-Rationale dapat disimpan sebagai:
-- bagian dari file principle;
+Rationale dapat ditempatkan sebagai:
+
+- bagian file Principle;
 - relation table;
 - cross-reference;
 - research note;
 - decision record.
 
-Yang penting adalah traceability.
+Kebutuhan utamanya adalah **traceability**, bukan lokasi dokumentasi tertentu.
 
-## 13. Uji Relationship Justification
+## 12. Uji Relationship Justification
 
-Untuk relationship claim, gunakan pertanyaan:
+Untuk setiap relationship claim substantif, tanyakan:
 
 1. Apa tepatnya claim hubungan yang dibuat?
-2. Mengapa hubungan itu masuk akal?
-3. Apakah rationale bersifat conceptual, normative, design, empirical, contextual, atau governance?
-4. Evidence apa yang mendukung jika diperlukan?
-5. Apakah evidence tersebut benar-benar mendukung relationship claim?
+2. Mengapa hubungan tersebut masuk akal?
+3. Apakah basisnya conceptual, normative, design, empirical, contextual, atau governance?
+4. Evidence apa yang diperlukan?
+5. Apakah evidence benar-benar mendukung relationship claim?
 6. Apa counterexample yang mungkin?
-7. Apa konsekuensi jika hubungan ini salah?
-8. Apakah hubungan berlaku universal atau conditional?
+7. Apa consequence jika relationship ini salah?
+8. Apakah relationship berlaku universal atau conditional?
 
 Jika claim tidak dapat menjawab pertanyaan tersebut, relationship belum cukup justified.
 
-## 14. Kesalahan yang Harus Dihindari
+## 13. Kesalahan yang Harus Dihindari
 
 ### Evidence laundering
 
-Menggunakan evidence yang mendukung A dan B seolah-olah otomatis membuktikan hubungan A–B.
+Evidence yang mendukung A dan B diperlakukan seolah otomatis membuktikan A–B.
 
 ### Citation decoration
 
-Menambahkan sumber pada relationship tanpa menjelaskan bagian mana yang didukung.
+Sumber ditempelkan pada relationship tanpa menjelaskan claim apa yang didukung.
 
 ### Relationship inflation
 
-Membuat terlalu banyak hubungan hanya karena dua principles sama-sama relevan terhadap suatu domain.
+Terlalu banyak relationships dibuat hanya karena dua Principles sama-sama relevan terhadap suatu domain.
 
 ### False inheritance
 
-Menganggap semua evidence principle otomatis menjadi evidence relationship.
+Semua evidence Principle dianggap otomatis menjadi evidence relationship.
 
 ### Unsupported graph
 
-Membuat graph yang terlihat rapi tetapi setiap edge tidak memiliki reasoning yang dapat diperiksa.
+Graph terlihat rapi, tetapi edge tidak memiliki reasoning yang dapat diperiksa.
 
-## 15. Minimum Relationship Record
+## 14. Minimum Relationship Record
 
-Jika suatu saat relational metadata diterapkan, minimum record dapat berupa:
+Jika relational metadata nantinya diterapkan:
 
 | Field | Fungsi |
 |---|---|
-| source | principle asal |
-| relation | jenis hubungan |
-| target | principle tujuan |
-| scope/condition | batas hubungan |
-| rationale | alasan hubungan |
+| source | Principle asal |
+| relation | jenis relationship |
+| target | Principle tujuan |
+| scope/condition | batas relationship |
+| rationale | alasan relationship |
 | evidence | evidence jika diperlukan |
-| consequence | konsekuensi terhadap design reasoning |
+| consequence | consequence terhadap design reasoning |
 | status | status relationship |
 
-Evidence dapat kosong untuk relationship yang terutama bersifat conceptual, selama rationale cukup jelas.
+**Evidence boleh kosong** untuk relationship yang terutama conceptual, selama rationale cukup jelas.
 
-## 16. Model Traceability
+## 15. Traceability Model
+
+Untuk Principle:
+
+~~~text
+Source / Evidence
+↓
+Claim
+↓
+Principle
+~~~
+
+Untuk relationship:
+
+~~~text
+Source / Evidence
+↓
+Relationship Claim
+↓
+Principle A ↔ Principle B
+~~~
+
+Kedua jalur dapat menggunakan sumber yang sama, tetapi fungsi claim-nya harus tetap dibedakan.
+
+## 16. Boundary
+
+P0025 **tidak**:
+
+- mewajibkan evidence baru untuk setiap relationship;
+- menetapkan satu format dokumentasi;
+- menetapkan jumlah minimum sumber;
+- menganggap semua relationship harus empirically proven;
+- atau membuat relational metadata sebagai kewajiban repository saat ini.
+
+Fokusnya adalah **justification relationship yang proporsional dan dapat ditelusuri**.
+
+## 17. Repository Destination
+
+Hasil P0025 diarahkan ke:
+
+**Principles → Design Principles → relational traceability → relationship rationale/evidence**
+
+Untuk tahap sekarang, rationale dapat berada dalam cross-reference atau dokumentasi Principle tanpa membuat folder baru.
+
+## 18. Implikasi bagi TUMBUH
 
 Working model:
 
-**Source / Evidence**
-↓
-**Claim**
-↓
-**Principle**
+~~~text
+Principle A
+    ↕
+Relationship Claim
+    ↕
+Principle B
+    ↓
+Rationale / Evidence
+    ↓
+Design Consequence
+~~~
 
-dan untuk relationship:
+Dengan demikian:
 
-**Source / Evidence**
-↓
-**Relationship Claim**
-↓
-**Principle A ↔ Principle B**
+**evidence Principle ≠ proof relationship**
 
-Kedua jalur dapat bertemu, tetapi tidak boleh disamakan.
+dan:
 
-## 17. Temuan
+**rationale relationship ≠ evidence baru dalam semua kasus.**
 
-1. Principle evidence dan relationship evidence adalah dua fungsi yang berbeda.
-2. Setiap relationship claim substantif sebaiknya memiliki rationale yang dapat ditelusuri.
+## 19. Temuan Sementara
+
+1. Evidence Principle dan relationship justification memiliki fungsi berbeda.
+2. Setiap relationship claim substantif membutuhkan rationale yang dapat ditelusuri.
 3. Tidak setiap relationship membutuhkan evidence baru.
-4. Evidence principle dapat direferensikan dalam relationship rationale, tetapi tidak otomatis diwariskan sebagai proof of relationship.
-5. Empirical relationship claims membutuhkan evidence empiris yang sesuai.
-6. Conceptual/design relationships dapat terutama dijustifikasi melalui reasoning.
-7. Kekuatan justification perlu proporsional terhadap contestability dan consequence.
-8. Relationship dapat memiliki status sendiri dan dapat berubah tanpa mengubah principle.
-9. Relationship rationale tidak memerlukan file baru secara otomatis.
-10. Traceability harus mengikuti claim, bukan sekadar mengumpulkan citation.
+4. Evidence Principle dapat direferensikan dalam relationship rationale.
+5. Evidence tidak otomatis diwariskan sebagai proof relationship.
+6. Empirical relationship claims membutuhkan evidence empiris yang sesuai.
+7. Conceptual/design relationships dapat terutama dijustifikasi melalui reasoning.
+8. Detail justification perlu proporsional terhadap contestability dan consequence.
+9. Relationship dapat memiliki status sendiri.
+10. Rationale tidak memerlukan file baru secara otomatis.
+11. Traceability harus mengikuti claim, bukan sekadar citation.
 
-## 18. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — SETIAP RELATIONSHIP CLAIM SUBSTANTIF MEMBUTUHKAN RATIONALE YANG DAPAT DITELUSURI, TETAPI TIDAK SETIAP RELASI MEMBUTUHKAN EVIDENCE BARU.**
+## 20. Kesimpulan
 
-Working rule:
+P0025 mendukung working rule:
 
-> **Evidence dapat diwariskan sebagai referensi, tetapi justification relationship tidak boleh dianggap otomatis diwariskan. Setiap relationship claim harus memiliki rationale yang menjelaskan mengapa hubungan tersebut dinyatakan; evidence tambahan diperlukan ketika sifat claim dan konsekuensinya menuntut dukungan empiris atau dokumenter.**
+> **Setiap relationship claim substantif harus memiliki rationale yang dapat ditelusuri, tetapi tidak setiap relationship membutuhkan evidence baru. Evidence dapat direferensikan kembali dari Principle atau sumber lain, namun justification atas relationship tidak boleh dianggap otomatis diwariskan.**
 
-## 19. Implikasi bagi Repository
+Dengan demikian relational traceability tetap ringan, tetapi setiap hubungan penting mempunyai dasar reasoning yang dapat diperiksa.
 
-Untuk tahap sekarang:
+## 21. Next Inquiry
 
-- jangan mewajibkan satu evidence baru untuk setiap relationship;
-- jangan membuat relationship tanpa rationale;
-- gunakan kembali evidence yang relevan melalui traceability;
-- bedakan evidence untuk principle dari evidence untuk relationship;
-- tingkatkan detail justification sesuai consequence dan contestability.
+> **Bagaimana membedakan relationship antar-Design Principles yang benar-benar substantif dari association yang hanya muncul karena dua Principles kebetulan digunakan bersama dalam suatu desain?**
 
-Dengan pendekatan ini, relational traceability tetap ringan tetapi tidak menjadi graph tanpa dasar.
+P0026 akan menguji batas antara **substantive relationship** dan **co-occurrence/association** agar relational structure TUMBUH tidak berkembang menjadi daftar hubungan yang tidak memiliki makna design reasoning.
 
-## 20. Next Inquiry
+## 22. Status Inquiry
 
-P0026 akan menguji:
+**Finding:** Relationship claim memiliki kebutuhan justification yang berbeda dari evidence Principle.
 
-> **Bagaimana membedakan relationship yang merupakan bagian dari makna sebuah Design Principle dari relationship yang hanya muncul karena dua principles kebetulan digunakan bersama dalam suatu desain?**
+**Working conclusion:** Rationale merupakan minimum requirement untuk relationship substantif; evidence baru bersifat conditional terhadap jenis claim dan consequence.
 
-Pertanyaan ini penting agar relational structure tidak berkembang menjadi daftar asosiasi yang tidak memiliki makna konseptual.
+**Boundary:** Tidak menetapkan format teknis relational metadata.
 
-## Status
-
-**P0025 — selesai sebagai inquiry.**
-
-**Temuan utama:** setiap relationship claim substantif membutuhkan rationale yang dapat ditelusuri, tetapi tidak setiap relationship membutuhkan evidence baru. Evidence principle dapat direferensikan, namun tidak otomatis menjadi bukti hubungan.
-
-**Next inquiry:** P0026 — *Bagaimana membedakan relationship yang substantif dari association yang hanya kebetulan muncul dalam penggunaan bersama?*
+**Open question:** Kapan sebuah relationship benar-benar substantif bagi Design Principles TUMBUH?
