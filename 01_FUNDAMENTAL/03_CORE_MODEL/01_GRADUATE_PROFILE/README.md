@@ -10,7 +10,7 @@ Graduate Profile TUMBUH terdiri dari 10 Muwashofat:
 2. Ibadah yang Benar — Shahihul Ibadah — **Rightful Worship**
 3. Akhlak yang Mulia — Matinul Khuluq — **Moral Excellence**
 4. Fisik yang Sehat dan Kuat — Qawiyyul Jism — **Physical Strength & Health**
-5. Wawasan yang Luas — Mutsaqqaful Fikr — **Broad Understanding**
+5. Wawasan yang Luas — Mutsaqqaful Fikr — **Intellectual Breadth**
 6. Mampu Mengendalikan Diri — Mujahadatun Linafsih — **Self-Mastery**
 7. Disiplin Mengelola Waktu — Haritsun 'Ala Waqtih — **Time Discipline**
 8. Tertib dan Bertanggung Jawab — Munazhzham fi Syu'unih — **Order & Responsibility**
@@ -34,7 +34,7 @@ Foundation
     ├── 02 Ibadah yang Benar — Rightful Worship
     ├── 03 Akhlak yang Mulia — Moral Excellence
     ├── 04 Fisik yang Sehat dan Kuat — Physical Strength & Health
-    ├── 05 Wawasan yang Luas — Broad Understanding
+    ├── 05 Wawasan yang Luas — Intellectual Breadth
     ├── 06 Mampu Mengendalikan Diri — Self-Mastery
     ├── 07 Disiplin Mengelola Waktu — Time Discipline
     ├── 08 Tertib dan Bertanggung Jawab — Order & Responsibility
