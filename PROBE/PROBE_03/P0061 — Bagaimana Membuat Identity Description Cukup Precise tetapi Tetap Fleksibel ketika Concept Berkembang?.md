@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0061  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Identity / Traceability Inquiry
 
 ---
@@ -391,7 +391,19 @@ Logical identity menjadi anchor yang stabil tetapi tetap evolvable.
 
 ---
 
-## 20. Status Inquiry
+## 20. Repository Destination
+
+**Principles → Design Principles → Identity / Lineage / Relational Traceability**
+
+Identity anchor diperlakukan sebagai substantive metadata konseptual yang menjaga distinction antara object identity dan current representation.
+
+## 21. Next Inquiry
+
+> **Siapa atau mekanisme apa yang seharusnya menetapkan dan memvalidasi identity anchor ketika terjadi perubahan substantif atau disagreement tentang identity?**
+
+P0062 akan menguji mekanisme validasi identity anchor secara khusus dalam konteks Principles TUMBUH, tanpa melebar menjadi teori governance umum.
+
+## 22. Status Inquiry
 
 **Finding:** Identity description harus berupa minimal sufficient identity anchor yang berisi substantive identity-defining properties, bukan seluruh current description.
 
