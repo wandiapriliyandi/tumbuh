@@ -1,250 +1,225 @@
 # P0043 — Apakah Semua Confirmed Dependency Memiliki Kekuatan yang Sama?
 
-## Pertanyaan
+## Status
 
-**Apakah semua Confirmed Dependency dalam sistem TUMBUH memiliki kekuatan yang sama, atau perlu dibedakan antara dependency yang necessary, enabling, constraining, dan conditional?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0043  
+**Status:** Revised  
+**Type:** Dependency Semantics Inquiry
 
-P0042 menemukan bahwa explicit reference tidak otomatis membuktikan substantive dependency. Dependency perlu divalidasi berdasarkan semantics, rationale, consequence, scope, dan reasoning.
+---
 
-Jika dependency telah **Confirmed**, muncul pertanyaan berikutnya:
+## 1. Object of Inquiry
 
-> **Apakah status Confirmed cukup, atau masih perlu memahami jenis dan kekuatan dependency tersebut?**
+**Object of Inquiry:** Semantics dan consequence dari Confirmed Dependency dalam Principles TUMBUH.
 
-## 1. Titik Berangkat
+P0042 menemukan bahwa explicit reference harus divalidasi sebelum disebut substantive dependency. P0043 menguji apakah setelah dependency **Confirmed**, semua dependency dapat diperlakukan dengan semantics yang sama.
 
-P0040–P0042 menunjukkan tiga hal:
+## 2. TUMBUH Question
 
-1. dependency dapat ditemukan melalui inference;
-2. dependency substantif perlu explicit traceability;
-3. explicit dependency tetap perlu divalidasi.
+> **Apakah semua Confirmed Dependency dalam TUMBUH memiliki semantics yang sama, atau perlu dibedakan antara dependency yang necessary, enabling, constraining, dan conditional?**
 
-Namun satu dependency yang confirmed belum tentu memiliki consequence yang sama dengan dependency lain.
+## 3. Titik Berangkat
 
-Contoh:
+Confirmed menjawab:
 
-**P1 → I1**
-
-dapat berarti:
-
-- I1 tidak dapat diturunkan tanpa P1;
-- P1 hanya membuka kemungkinan I1;
-- P1 memberi batas terhadap I1;
-- P1 hanya berlaku ketika kondisi tertentu terpenuhi.
-
-Karena semantics berbeda, governance consequence juga dapat berbeda.
-
-## 2. Confirmed Tidak Berarti Identik
-
-**Confirmed** menjawab pertanyaan:
-
-> Apakah relationship ini benar-benar ada dan dapat dipertanggungjawabkan?
+> **Apakah relationship ini telah tervalidasi dan dapat dipertanggungjawabkan?**
 
 Confirmed belum menjawab:
 
-> **Apa jenis dependency-nya dan seberapa kuat consequence-nya?**
+> **Bagaimana relationship tersebut bekerja dan apa consequence ketika parent berubah?**
 
-Maka lifecycle status dan dependency type sebaiknya dipisahkan.
+Contoh:
 
-## 3. Hard vs Soft Dependency
+~~~text
+P1 → I1
+~~~
 
-Istilah “hard” dan “soft” berguna secara intuitif, tetapi terlalu umum jika digunakan tanpa definisi.
+dapat berarti:
 
-Working distinction:
+- I1 memerlukan P1 untuk derivation;
+- P1 membuka kemungkinan I1;
+- P1 membatasi ruang desain I1;
+- dependency hanya berlaku pada condition tertentu.
 
-### Hard Dependency
+Semantics yang berbeda menghasilkan impact yang berbeda.
 
-Perubahan atau penghilangan parent secara substantif mengharuskan downstream object diperiksa atau diturunkan ulang.
+## 4. Confirmed ≠ Type
 
-### Soft Dependency
+Dua dimensi perlu dipisahkan:
 
-Parent berpengaruh terhadap downstream, tetapi downstream masih dapat mempertahankan identity/meaning tertentu tanpa parent.
+**Status:** Confirmed  
+**Type:** constraining
 
-Namun istilah ini belum cukup untuk seluruh kasus.
+Status menunjukkan state relationship.
 
-## 4. Necessary Dependency
+Type menunjukkan semantics relationship.
 
-Dependency dapat disebut **necessary** jika parent merupakan kondisi yang diperlukan bagi derivation atau applicability tertentu.
+Karena itu lifecycle status dan dependency type tidak boleh dicampur.
 
-Secara konseptual:
+## 5. Necessary Dependency
 
-**P1 tanpa P2 → I tidak dapat dipertahankan dalam bentuk yang sama.**
+Dependency bersifat **necessary** ketika parent merupakan kondisi yang diperlukan bagi derivation atau applicability tertentu.
 
-Necessary tidak berarti P1 adalah satu-satunya alasan bagi I.
+Working test:
 
-Sebuah object dapat memiliki beberapa necessary dependencies.
+> **Jika parent dihilangkan, apakah downstream masih dapat dipertahankan dengan derivation dan applicability yang sama?**
 
-## 5. Enabling Dependency
+Jika tidak, terdapat indikasi necessary dependency.
 
-Parent dapat bersifat **enabling** jika ia membuka atau memungkinkan suatu design implication, tanpa menjadi kondisi tunggal yang harus selalu ada.
+Necessary tidak berarti parent merupakan satu-satunya alasan downstream.
+
+## 6. Enabling Dependency
+
+Dependency bersifat **enabling** ketika parent membuka atau memungkinkan suatu design implication atau option.
+
+Jika parent berubah, option dapat hilang atau berubah, tetapi downstream architecture tidak otomatis invalid secara keseluruhan.
+
+Enabling bukan berarti tidak penting.
+
+## 7. Constraining Dependency
+
+Dependency bersifat **constraining** ketika parent membatasi design space.
 
 Contoh konseptual:
 
-**P1 enables design option I1.**
+~~~text
+P1 constrains I1
+~~~
 
-Jika P1 berubah, option mungkin hilang atau berubah, tetapi downstream architecture belum tentu invalid secara keseluruhan.
+Perubahan P1 dapat mengubah:
 
-Enabling dependency berbeda dari necessary dependency.
+- alternatif desain;
+- batas desain;
+- permissible variation.
 
-## 6. Constraining Dependency
+Namun I1 tidak otomatis harus dihapus.
 
-Parent dapat membatasi ruang desain:
+Ini relevan dengan fungsi Principles sebagai arah dan batas desain.
 
-**P1 constrains I1.**
+## 8. Conditional Dependency
 
-Jika P1 berubah, design space dapat berubah, tetapi tidak berarti I1 otomatis harus dihapus.
+Dependency bersifat **conditional** ketika relationship hanya berlaku pada scope atau condition tertentu.
 
-Ini merupakan dependency penting untuk Design Principles karena Core Principles dan Design Principles sering berfungsi sebagai constraints terhadap pilihan desain.
+~~~text
+P1 → I1 [under C1]
+~~~
 
-## 7. Conditional Dependency
+Conditionality menjelaskan applicability, bukan ranking strength.
 
-Dependency dapat berlaku hanya ketika condition tertentu terpenuhi:
+Conditional dependency dapat sangat consequential pada scope tempat ia berlaku.
 
-**P1 → I1 [under C1]**
+## 9. Supporting Relationship
 
-Di luar C1, relationship tidak berlaku.
+Tidak semua relationship substantif harus disebut dependency strict.
 
-Conditional bukan berarti lebih lemah.
+~~~text
+P1 supports I1
+~~~
 
-Ia berarti **scope applicability-nya terbatas**.
+P1 dapat memberi rationale/support tanpa menjadi condition yang diperlukan bagi I1.
 
-## 8. Supporting Dependency
+Karena itu **supports** tidak otomatis sama dengan **depends-on**.
 
-Ada pula relationship di mana parent memberikan rationale atau support tanpa menjadi condition of derivation.
+## 10. Refinement Relationship
 
-Contoh:
+Jika:
 
-**P1 supports I1.**
+~~~text
+P1 → P2
+~~~
 
-Ini dapat menjadi relationship substantif, tetapi tidak selalu dependency dalam arti strict.
-
-Karena itu “supports” sebaiknya tidak otomatis diperlakukan sebagai “depends-on”.
-
-## 9. Refinement Dependency
-
-P0021 dan P0022 membuka kemungkinan bahwa sebuah Design Principle dapat memperjelas atau mempersempit principle lain.
-
-Dalam kasus:
-
-**P1 → P2**
-
-jika P2 merupakan refinement P1, dependency dapat bersifat:
+dan P2 memperjelas atau mempersempit P1, semantics yang tepat dapat berupa:
 
 **refines**
 
-bukan sekadar:
+bukan necessarily **depends-on**.
 
-**depends-on**.
+P2 dapat memiliki identity sendiri walaupun interpretasinya terkait dengan P1.
 
-P2 mungkin membutuhkan P1 untuk interpretasi, tetapi memiliki identity sendiri.
+## 11. Derivational Dependency
 
-## 10. Derivation Dependency
+Untuk derived object:
 
-Untuk object hasil derivation:
+~~~text
+P1 + P2 → I1
+~~~
 
-**P1 + P2 → I1**
+dependency dapat bersifat **derivational** ketika reasoning I1 secara substantif berasal dari parent.
 
-dependency dapat disebut **derivational** jika reasoning I1 secara substantif berasal dari parent tersebut.
+Ini berbeda dari dependency yang hanya constraining atau supporting.
 
-Ini berbeda dari dependency karena constraint atau support.
+## 12. Hard vs Soft
 
-## 11. Dependency Type dan Lifecycle
+Istilah hard/soft dapat membantu intuisi, tetapi terlalu umum untuk menjadi taxonomy utama.
 
-Dependency type sebaiknya tidak menggantikan lifecycle status.
+Working preference:
 
-Contoh:
+> **Jelaskan semantics dan consequence, bukan sekadar label hard/soft.**
 
-**Type:** constraining  
-**Status:** Confirmed
+## 13. Dependency Strength ≠ Ranking
 
-Relationship tersebut dapat kemudian:
+Membedakan consequence bukan berarti membuat:
 
-**Status:** Superseded
+- strong = better;
+- weak = worse.
 
-Type dan status menjawab pertanyaan berbeda.
+Tujuan taxonomy adalah menjelaskan **apa yang terjadi ketika parent berubah**, bukan menilai kualitas atau importance Principle.
 
-- **Type:** relationship macam apa?
-- **Status:** bagaimana state relationship saat ini?
+## 14. Counterfactual Test
 
-## 12. Dependency Strength Bukan Ranking
+Pertanyaan:
 
-Membedakan strength tidak berarti membuat ranking:
+> **Jika parent berubah atau dihapus, apa yang berubah pada downstream?**
 
-> strong = better  
-> weak = worse
+Possible consequences:
 
-Itu bukan tujuan.
+- identity;
+- meaning;
+- applicability;
+- design space;
+- rationale;
+- derivation.
 
-Strength hanya menjelaskan **consequence ketika parent berubah**.
+Consequence tersebut membantu mengidentifikasi dependency semantics.
 
-Dependency yang enabling dapat sama pentingnya dengan necessary dependency dalam konteks tertentu.
+## 15. Consequence Matrix
 
-## 13. Counterfactual sebagai Test Kekuatan
+Working conceptual model:
 
-Counterfactual dapat membantu:
-
-> **Jika parent berubah atau dihapus, apa yang harus berubah pada downstream?**
-
-Kemungkinan:
-
-### Identity impact
-
-Downstream tidak lagi merupakan object yang sama.
-
-### Meaning impact
-
-Identity tetap, tetapi meaning berubah.
-
-### Applicability impact
-
-Object tetap, tetapi scope penggunaan berubah.
-
-### Design-space impact
-
-Pilihan desain yang tersedia berubah.
-
-### Rationale impact
-
-Object tetap, tetapi justification perlu diperbarui.
-
-Jenis consequence tersebut membantu menentukan dependency semantics.
-
-## 14. Consequence Matrix
-
-Working conceptual matrix:
-
-| Dependency Type | Parent Change Potentially Affects | Typical Consequence |
+| Dependency Type | Potential Consequence | Typical Review Focus |
 |---|---|---|
-| Necessary | derivation / applicability | re-check often required |
-| Enabling | availability of option | option may need re-evaluation |
-| Constraining | design space | alternatives/constraints may change |
-| Conditional | applicability | condition/scope review |
+| Necessary | derivation / applicability | derivation review |
+| Enabling | availability of option | option/design review |
+| Constraining | design space | constraint/alternative review |
+| Conditional | applicability | scope/condition review |
 | Supporting | rationale | justification review |
 | Refinement | interpretation/scope | semantic review |
-| Derivational | derived meaning | re-derivation may be needed |
+| Derivational | derived meaning | re-derivation review |
 
-Ini bukan scoring system dan bukan hierarchy.
+Ini bukan ranking dan bukan scoring.
 
-## 15. One Dependency Can Have More Than One Semantic Role
+## 16. Composite Semantics
 
-Satu relationship dapat memiliki beberapa consequence.
+Satu relationship dapat memiliki lebih dari satu consequence.
 
 Contoh:
 
-**P1 → I1**
+~~~text
+P1 → I1
+~~~
 
 P1 dapat sekaligus:
 
 - constrain I1;
 - support its rationale;
-- condition its applicability.
+- condition applicability.
 
-Maka taxonomy tidak harus memaksa satu label tunggal jika semantics memang composite.
+Namun tidak semua consequence perlu menjadi separate relationship record jika sebenarnya berasal dari satu claim yang sama.
 
-Namun terlalu banyak label juga dapat menghasilkan over-modeling.
+## 17. Primary Relation
 
-## 16. Primary vs Secondary Relation
-
-Untuk menghindari relationship explosion, working approach:
+Untuk mencegah relationship explosion:
 
 ### Primary Relation
 
@@ -252,292 +227,290 @@ Semantics utama yang menjelaskan dependency.
 
 ### Secondary Consequence
 
-Consequence lain yang muncul dari relationship yang sama.
+Consequence tambahan dari relationship yang sama.
 
 Contoh:
 
-**Primary:** constrains  
-**Secondary:** affects applicability
+~~~text
+Primary: constrains
+Secondary: affects applicability
+~~~
 
-Dengan demikian tidak perlu membuat banyak edge yang sebenarnya merepresentasikan claim yang sama.
+Ini menjaga model tetap cukup kaya tanpa over-modeling.
 
-## 17. Necessary Dependency dan Composite Principle
+## 18. Composite Dependency
 
 Jika:
 
-**P1 + P2 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
-dan keduanya necessary, maka perubahan salah satu parent dapat mengubah derivation.
+dan keduanya diklaim necessary, contribution test tetap diperlukan.
 
-Tetapi perlu dibuktikan melalui contribution test.
+Jangan menetapkan necessary hanya karena kedua parent disebut dalam reasoning.
 
-Jangan menyebut keduanya necessary hanya karena keduanya disebut dalam reasoning.
+## 19. Enabling ≠ Optional
 
-## 18. Enabling Tidak Sama dengan Optional
+Enabling dependency dapat membuka design possibility yang sangat penting pada scope tertentu.
 
-Enabling dependency bukan berarti “tidak penting”.
+Karena itu enabling tidak boleh dipahami sebagai “lemah”.
 
-Sebuah enabling principle dapat membuka design possibility yang menjadi sangat penting pada scope tertentu.
+Semantics-nya hanya berbeda: parent membuka possibility, bukan necessarily menjadi condition of derivation.
 
-Maka strength harus dibaca secara consequence-specific, bukan sebagai importance ranking.
+## 20. Constraining ≠ Weak
 
-## 19. Constraining Tidak Sama dengan Weak
+Constraint dapat sangat menentukan ruang desain.
 
-Constraint dapat sangat kuat.
+Sebuah Core Principle dapat membatasi design space secara luas tanpa menjadi derivational parent bagi setiap design object.
 
-Sebuah Core Principle dapat mempersempit design space secara drastis tanpa menjadi necessary derivation parent bagi setiap design object.
+Ini menunjukkan bahwa “strength” lebih baik dijelaskan melalui consequence daripada ranking.
 
-Ini menunjukkan mengapa “strength” lebih baik dijelaskan melalui semantics dan consequence daripada label strong/weak.
+## 21. Conditionality dan Scope
 
-## 20. Conditional Dependency dan Scope
-
-Untuk conditional dependency, representation idealnya dapat menjawab:
+Conditional dependency perlu dapat menjawab:
 
 - condition apa;
 - kapan berlaku;
 - object mana yang terdampak;
-- apa yang berubah ketika condition tidak terpenuhi.
+- apa consequence ketika condition tidak terpenuhi.
 
-Tanpa ini, conditional dependency mudah salah dibaca sebagai universal.
+Tanpa ini, dependency dapat overclaimed sebagai universal.
 
-## 21. Dependency Direction
+## 22. Directionality
 
-P0024 menunjukkan directionality bukan hierarchy.
+P0024 menunjukkan bahwa directionality bukan hierarchy.
 
 Maka:
 
-**P1 constrains I1**
+~~~text
+P1 constrains I1
+~~~
 
-tidak berarti:
-
-**P1 lebih tinggi dari I1.**
+tidak berarti P1 “lebih tinggi” daripada I1.
 
 Direction hanya menunjukkan semantics relationship.
 
-## 22. Dependency dan Impact Propagation
+## 23. Dependency Type dan Impact Propagation
 
-P0039 menetapkan bahwa parent change tidak otomatis memicu review seluruh downstream.
+P0039 menetapkan conditional propagation.
 
-Dependency type membantu memperkirakan jalur impact.
+Dependency type membantu menentukan **jalur impact yang perlu diperiksa**:
 
-Contoh:
+- necessary/derivational → derivation;
+- conditional → scope;
+- constraining → design alternatives;
+- enabling → availability;
+- supporting → rationale;
+- refinement → interpretation.
 
-- necessary/derivational → impact pada derivation;
-- conditional → impact pada scope;
-- constraining → impact pada design alternatives;
-- enabling → impact pada availability;
-- supporting → impact pada rationale.
+Materiality tetap perlu dinilai.
 
-Tetap diperlukan judgment tentang materiality.
-
-## 23. Dependency dan Re-derivation
+## 24. Dependency Type dan Re-derivation
 
 Tidak semua dependency memerlukan re-derivation.
 
-Necessary derivational dependency lebih mungkin membutuhkan re-derivation.
+Working implication:
 
-Constraining dependency mungkin hanya membutuhkan design review.
+- derivational/necessary → re-derivation lebih mungkin;
+- constraining → design review lebih mungkin;
+- conditional → applicability review lebih mungkin;
+- supporting → rationale review lebih mungkin;
+- enabling → option review lebih mungkin.
 
-Supporting dependency mungkin hanya membutuhkan rationale review.
+Ini memperhalus P0038 dan P0039.
 
-Ini memperhalus temuan P0038.
+## 25. Dependency Type dan Acceptance
 
-## 24. Dependency dan Acceptance
-
-Acceptance criteria dapat berbeda menurut dependency type.
-
-Misalnya:
+Validation dapat disesuaikan dengan semantics.
 
 ### Derivational
 
-Harus dapat menunjukkan derivation.
+Derivation harus dapat ditunjukkan.
 
 ### Conditional
 
-Harus menunjukkan condition.
+Condition dan scope harus dapat ditunjukkan.
 
 ### Constraining
 
-Harus menunjukkan design consequence.
+Design consequence harus dapat ditunjukkan.
 
 ### Enabling
 
-Harus menunjukkan apa yang dimungkinkan.
+Apa yang dimungkinkan harus dapat dijelaskan.
 
 ### Supporting
 
-Harus menunjukkan bagaimana support bekerja.
+Bagaimana support bekerja harus dapat dijelaskan.
 
-Dengan demikian validation dapat lebih semantic-specific.
+## 26. Governance Consequence
 
-## 25. Dependency dan Governance
+Parent change tidak harus menghasilkan action yang sama untuk semua dependency.
 
-Governance tidak harus memperlakukan semua dependency dengan prosedur identik.
+Possible review focus:
 
-Perubahan parent dapat menghasilkan:
+- derivation;
+- applicability;
+- design alternatives;
+- rationale;
+- interpretation.
 
-**Review derivation**
+Satu dependency type tidak otomatis menentukan governance action; consequence dan materiality tetap menentukan.
 
-atau:
-
-**Review applicability**
-
-atau:
-
-**Review design alternatives**
-
-atau:
-
-**Review rationale**
-
-atau kombinasi beberapa di antaranya.
-
-Ini lebih presisi daripada “review everything”.
-
-## 26. Apakah TUMBUH Membutuhkan Formal Strength Level?
+## 27. Formal Strength Levels?
 
 Belum ada dasar yang cukup untuk membuat:
 
-- Level 1;
-- Level 2;
-- Level 3;
-
-atau numeric strength score.
-
-Kategori semantic lebih berguna daripada ranking numerik.
+- Level 1/2/3;
+- strong/medium/weak score;
+- numeric dependency strength.
 
 Working direction:
 
 > **Classify semantics and consequence, not rank importance.**
 
-## 27. Minimal Representation
+## 28. Minimal Representation
 
-Untuk dependency yang confirmed, minimum information dapat berupa:
+Untuk confirmed dependency yang material:
 
-**Parent**  
-**Downstream**  
-**Relationship Type**  
-**Rationale**  
-**Scope/Condition bila relevan**  
-**Consequence bila relevan**  
-**Status**
+~~~text
+Parent
+→ Downstream
+→ Relationship Type
+→ Rationale
+→ Scope / Condition bila relevan
+→ Consequence
+→ Status
+~~~
 
-Ini cukup untuk membedakan dependency semantics tanpa memaksakan graph yang terlalu kompleks.
+Tidak semua field harus diisi jika tidak relevan.
 
-## 28. Tidak Semua Relationship Perlu Disebut Dependency
+## 29. Tidak Semua Relationship = Dependency
 
-Jika hubungan hanya:
+Hubungan topical, contextual, illustrative, atau bibliographic tidak perlu dipaksa menjadi dependency.
 
-- topical;
-- contextual;
-- illustrative;
-- bibliographic;
+Dependency sebaiknya digunakan ketika terdapat substantive consequence terhadap downstream jika parent berubah.
 
-maka relationship biasa lebih tepat.
-
-Dependency sebaiknya reserved untuk hubungan yang memiliki consequence ketika parent berubah.
-
-## 29. Validation Flow yang Diperbarui
+## 30. Updated Validation Model
 
 Setelah P0042:
 
-**Reference**
-
+~~~text
+Reference
 ↓
-
-**Semantic Identification**
-
+Semantic Identification
 ↓
-
-**Substantiveness Test**
-
+Substantiveness Validation
 ↓
-
-**Dependency Type**
-
+Dependency Type
 ↓
-
-**Consequence Analysis**
-
+Consequence Analysis
 ↓
-
-**Scope/Condition**
-
+Scope / Condition
 ↓
-
-**Confirmation**
-
+Confirmation
 ↓
+Lifecycle
+~~~
 
-**Lifecycle**
+Dengan demikian Confirmed Dependency mempunyai semantics yang lebih jelas.
 
-Dengan demikian “Confirmed Dependency” memiliki semantic meaning yang lebih jelas.
+## 31. Boundary
 
-## 30. Temuan
+P0043 **tidak**:
 
-1. Semua Confirmed Dependency tidak memiliki semantics yang sama.
-2. Confirmed adalah status validitas relationship, bukan strength/type.
-3. Necessary, enabling, constraining, conditional, supporting, refinement, dan derivational dapat membedakan semantics dependency.
-4. Hard/soft terlalu umum jika berdiri sendiri.
-5. Dependency strength sebaiknya dijelaskan melalui consequence, bukan ranking.
-6. Counterfactual membantu menentukan consequence.
-7. Dependency dapat memiliki primary relation dan secondary consequences.
-8. Composite dependency perlu contribution test.
-9. Conditional dependency membutuhkan scope/condition.
-10. Directionality tidak sama dengan hierarchy.
-11. Dependency type membantu impact propagation.
-12. Tidak semua dependency memerlukan re-derivation.
-13. Acceptance/validation dapat disesuaikan dengan dependency semantics.
-14. Governance action dapat berbeda menurut dependency type.
-15. Belum ada dasar untuk numeric strength score atau formal strength levels.
-16. Minimal representation perlu menjaga semantics, rationale, scope/condition, consequence, dan status bila relevan.
-17. Relationship non-substantive tidak perlu dipaksa menjadi dependency.
-18. Tujuan taxonomy adalah precision of reasoning, bukan ranking.
+- membuat ranking dependency;
+- membuat numeric strength score;
+- menyatakan enabling selalu lebih lemah;
+- menetapkan satu taxonomy final;
+- atau memaksa setiap relationship menjadi dependency.
 
-## 31. Keputusan Sementara
+Fokusnya adalah **semantic differentiation untuk reasoning dan impact analysis Principles TUMBUH**.
 
-**PASS — CONFIRMED DEPENDENCY TIDAK PERLU DIANGGAP MEMILIKI KEKUATAN YANG IDENTIK. TUMBUH SEBAIKNYA MEMBEDAKAN SEMANTICS DEPENDENCY BERDASARKAN JENIS RELATIONSHIP DAN CONSEQUENCE, BUKAN MEMBUAT RANKING KEKUATAN.**
+## 32. Repository Destination
+
+Hasil P0043 diarahkan ke:
+
+**Principles → Design Principles → Design Implications → Dependency / Traceability / Validation**
+
+Repository tidak cukup hanya menyimpan:
+
+~~~text
+Depends on: P1
+~~~
+
+jika semantics lebih spesifik.
+
+Bila material, representation dapat menunjukkan:
+
+~~~text
+Relationship: constrains
+Parent: P1
+Rationale: ...
+Scope/Condition: ...
+Consequence: ...
+Status: Confirmed
+~~~
+
+## 33. Implikasi bagi TUMBUH
 
 Working rule:
 
-> **Confirmed menjawab apakah dependency dapat dipertanggungjawabkan; dependency type menjelaskan bagaimana dependency bekerja; consequence menjelaskan apa yang perlu ditinjau ketika parent berubah.**
+> **Confirmed menjawab apakah dependency dapat dipertanggungjawabkan; dependency type menjelaskan bagaimana relationship bekerja; consequence menjelaskan apa yang perlu diperiksa ketika parent berubah.**
 
-Model kerja:
+Dengan demikian dependency taxonomy menjadi alat **precision of reasoning**, bukan ranking.
 
-**Confirmed Dependency = Type + Rationale + Scope/Condition + Consequence + Status**
+## 34. Temuan Sementara
 
-## 32. Implikasi bagi Repository
+1. Confirmed Dependency tidak memiliki semantics identik.
+2. Confirmed adalah status, bukan type atau strength.
+3. Necessary, enabling, constraining, conditional, supporting, refinement, dan derivational membedakan semantics.
+4. Hard/soft terlalu umum sebagai taxonomy utama.
+5. Dependency strength sebaiknya dijelaskan melalui consequence, bukan ranking.
+6. Counterfactual membantu mengidentifikasi consequence.
+7. Composite dependency membutuhkan contribution test.
+8. Conditional dependency membutuhkan scope/condition.
+9. Directionality tidak sama dengan hierarchy.
+10. Dependency type membantu menentukan impact review focus.
+11. Tidak semua dependency memerlukan re-derivation.
+12. Validation dapat disesuaikan dengan dependency semantics.
+13. Governance action mengikuti consequence dan materiality, bukan label type saja.
+14. Belum ada dasar untuk numeric strength score atau formal strength levels.
+15. Primary relation + secondary consequence dapat mengurangi relationship explosion.
+16. Tidak semua substantive relationship harus dipaksa menjadi dependency.
+17. Minimal representation perlu menjaga type, rationale, scope/condition, consequence, dan status bila relevan.
 
-Repository sebaiknya tidak hanya menyimpan:
+Temuan ini masih provisional.
 
-**Depends on: P1**
+## 35. Kesimpulan
 
-jika semantics-nya lebih spesifik.
+P0043 mendukung:
 
-Bila material, dapat menggunakan:
+> **Confirmed Dependency tidak perlu diperlakukan sebagai kategori yang homogen. TUMBUH sebaiknya membedakan semantics dependency berdasarkan jenis relationship dan consequence, tanpa mengubahnya menjadi ranking kekuatan.**
 
-**Relationship: constrains**  
-**Parent: P1**  
-**Rationale: ...**  
-**Scope/Condition: ...**  
-**Consequence: ...**
+Working model:
 
-Bentuk teknis tetap terbuka.
+**Confirmed = Status**
 
-Yang perlu dijaga adalah semantic clarity.
+**Dependency Type = Semantics**
 
-## 33. Next Inquiry
+**Consequence = Impact Meaning**
 
-P0044 akan menguji:
+**Lifecycle = State**
 
-> **Apakah satu dependency dapat berubah jenis—misalnya dari enabling menjadi constraining—tanpa mengubah identity parent dan downstream object?**
+## 36. Next Inquiry
 
-Pertanyaan ini melanjutkan pemisahan antara **identity principle, relationship identity, dependency type, dan lifecycle**.
+> **Apakah Dependency Type dapat berubah tanpa mengubah identity parent dan downstream object?**
 
-## Status
+P0044 akan menguji hubungan antara **dependency type, relationship identity, dan Principle/object identity** ketika reasoning atau consequence relationship berubah.
 
-**P0043 — selesai sebagai inquiry.**
+## 37. Status Inquiry
 
-**Temuan utama:** Confirmed adalah status relationship, bukan ukuran kekuatan. Dependency perlu dibedakan berdasarkan semantics dan consequence, tanpa membuat ranking atau numeric strength score.
+**Finding:** Confirmed Dependency dapat memiliki semantics dan consequence berbeda.
 
-**Next inquiry:** P0044 — *Apakah Dependency Type Dapat Berubah tanpa Mengubah Identity Parent dan Downstream Object?*
+**Working conclusion:** Dependency type perlu dibedakan secara semantic, bukan diranking.
+
+**Boundary:** Taxonomy final dan technical representation belum ditetapkan.
+
+**Open question:** Apakah perubahan dependency type merupakan perubahan relationship saja, atau dapat memengaruhi identity object?
