@@ -1,23 +1,35 @@
 # P0040 — Apakah Dependency Harus Selalu Explicit atau Dapat Diinferensikan dari Struktur dan Reasoning?
 
-## Pertanyaan
+## Status
 
-**Apakah dependency antara Design Principle dan downstream object harus selalu dinyatakan secara explicit, atau sebagian dependency dapat diinferensikan dari struktur dan reasoning?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0040  
+**Status:** Revised  
+**Type:** Dependency Explicitness and Traceability Inquiry
 
-P0039 menemukan bahwa parent change sebaiknya memicu review berdasarkan **substantive dependency**, bukan otomatis terhadap seluruh downstream repository.
+---
 
-Karena dependency menjadi dasar impact analysis, P0040 menguji bagaimana dependency tersebut harus direpresentasikan.
+## 1. Object of Inquiry
 
-## 1. Titik Berangkat
+**Object of Inquiry:** Dependency antara Design Principles dan downstream objects dalam Principles TUMBUH.
 
-Dalam bentuk sederhana:
+P0039 menemukan bahwa impact review perlu mengikuti **substantive dependency**. P0040 menguji bagaimana dependency tersebut perlu direpresentasikan agar dapat digunakan secara reliable tanpa over-modeling.
 
-**Principle A → Implication X**
+## 2. TUMBUH Question
 
-Jika hubungan tersebut explicit, sistem dapat langsung mengetahui bahwa X bergantung pada A.
+> **Apakah dependency antara Design Principle dan downstream object harus selalu dinyatakan secara explicit, atau sebagian dependency dapat diinferensikan dari struktur dan reasoning?**
 
-Tetapi dalam repository yang kompleks, dependency dapat muncul dari:
+## 3. Titik Berangkat
 
+Contoh sederhana:
+
+~~~text
+Principle A → Implication X
+~~~
+
+Dependency dapat terlihat melalui:
+
+- explicit reference;
 - struktur dokumen;
 - derivation reasoning;
 - references;
@@ -25,222 +37,226 @@ Tetapi dalam repository yang kompleks, dependency dapat muncul dari:
 - criteria;
 - model architecture.
 
-Pertanyaannya:
+Pertanyaan utamanya:
 
-> **Apakah semua dependency harus ditulis secara explicit, atau sebagian dapat dibaca dari konteks?**
+> **Kapan inference cukup, dan kapan explicit traceability diperlukan?**
 
-## 2. Explicit Dependency
+## 4. Explicit Dependency
 
 Explicit dependency berarti hubungan dinyatakan secara langsung.
 
-Contoh konseptual:
+Contoh:
 
-**Parent: P1**
-
-**Derived from: P1**
+~~~text
+Derived from: P1
+~~~
 
 atau:
 
-**P1 + P2 → I1**
+~~~text
+P1 + P2 → I1
+~~~
 
 Keuntungannya:
 
-- mudah ditelusuri;
+- mudah ditemukan;
 - mudah diperiksa;
-- mudah digunakan untuk impact analysis;
+- mendukung impact analysis;
 - mengurangi ambiguity.
 
-## 3. Inferred Dependency
+## 5. Inferred Dependency
 
-Inferred dependency berarti dependency tidak ditulis sebagai relationship formal, tetapi dapat disimpulkan dari:
+Dependency dapat diinferensikan dari:
 
 - struktur;
-- argumentasi;
-- references;
+- prose;
 - wording;
-- position dalam framework.
+- references;
+- posisi dalam framework.
 
 Contoh:
 
-Sebuah Design Implication berada langsung di bawah section Design Principle tertentu dan reasoning-nya menjelaskan derivation.
+~~~text
+Design Principle
+↓
+Design Implications
+~~~
 
-Pembaca dapat menyimpulkan dependency.
+Struktur tersebut membantu pembaca memahami kemungkinan hubungan.
 
-## 4. Inference Tidak Sama dengan Explicit Traceability
+Namun inference bergantung pada interpretasi.
 
-Sebuah dependency dapat **terbaca** tanpa benar-benar **tercatat**.
+## 6. Inference ≠ Explicit Traceability
 
-Ini perbedaan penting.
+Sebuah dependency dapat **terbaca** tetapi belum tentu **tercatat sebagai claim**.
 
-Inference bergantung pada:
+Ini penting untuk TUMBUH karena impact analysis membutuhkan reliability.
 
-- pembaca;
-- konteks;
-- struktur;
-- kemampuan interpretasi.
+Working distinction:
 
-Explicit dependency menghasilkan claim yang lebih inspectable.
+> **Inference membantu discovery; explicitness membantu traceability.**
 
-Karena impact analysis membutuhkan reliability, explicitness memiliki nilai governance.
-
-## 5. Apakah Semua Dependency Harus Formal?
-
-Belum tentu.
+## 7. Tidak Semua Dependency Harus Formal
 
 P0037 menemukan bahwa tidak semua derived implication membutuhkan independent identity.
 
-Maka tidak semua hubungan reasoning perlu menjadi formal graph edge.
+Karena itu tidak semua reasoning relationship perlu menjadi technical graph edge.
 
-Namun dependency yang memiliki **substantive governance consequence** sebaiknya dapat diidentifikasi secara explicit.
+Namun dependency yang memiliki substantive atau governance consequence sebaiknya dapat ditemukan secara explicit.
 
-## 6. Materiality sebagai Pembeda
+## 8. Materiality sebagai Pembeda
 
 Working rule:
 
-> **Semakin besar consequence sebuah dependency terhadap impact analysis, semakin kuat kebutuhan untuk membuat dependency tersebut explicit.**
+> **Semakin besar consequence dependency terhadap impact analysis, semakin kuat kebutuhan untuk explicitness.**
 
-Dependency yang hanya membantu membaca argumentasi dapat tetap berada dalam prose.
+Dependency yang hanya membantu explanatory prose dapat tetap diinferensikan.
 
-Dependency yang menentukan apakah perubahan parent harus memicu review downstream sebaiknya tidak hanya bergantung pada inference.
+Dependency yang menentukan apakah perubahan parent memicu review downstream tidak sebaiknya hanya tersirat.
 
-## 7. Three Levels of Dependency Representation
+## 9. Three Levels of Representation
 
 Working model:
 
 ### Level 1 — Contextual Inference
 
-Dependency dapat dipahami dari prose atau struktur.
+Dependency dipahami dari prose atau structure.
 
 ### Level 2 — Explicit Reference
 
-Dependency dinyatakan melalui reference atau parent declaration.
+Dependency dinyatakan melalui parent declaration atau cross-reference.
 
 ### Level 3 — Structured Relationship
 
-Dependency memiliki relation type, scope, condition, rationale, dan metadata yang dapat diproses untuk governance.
+Dependency memiliki semantics tambahan seperti:
 
-Ketiganya dapat hidup berdampingan.
+- relation type;
+- scope;
+- condition;
+- rationale;
+- metadata.
 
-## 8. Level 1: Contextual Inference
+Ketiganya dapat coexist.
+
+## 10. Level 1 — Contextual Inference
 
 Cocok untuk:
 
-- explanatory reasoning;
 - exploratory PROBE;
-- temporary analysis;
-- hubungan yang belum stabil.
+- temporary reasoning;
+- explanatory material;
+- relationship yang belum stabil.
 
-PROBE memang merupakan ruang inquiry, sehingga hubungan yang masih berupa hypothesis tidak harus langsung diformalkan.
+PROBE adalah ruang inquiry, sehingga candidate dependency tidak harus langsung diformalkan.
 
-## 9. Level 2: Explicit Reference
+## 11. Level 2 — Explicit Reference
 
 Cocok untuk:
 
 - accepted derivations;
-- important downstream dependencies;
-- cross-file references;
-- stable relationships.
+- substantive downstream dependency;
+- stable cross-file relationships.
 
 Contoh:
 
-**Derived from: P0036**
+~~~text
+Derived from: P1, P2
+~~~
 
-Reference seperti ini sudah meningkatkan traceability tanpa membutuhkan graph formal.
+Ini sudah meningkatkan traceability tanpa technical graph.
 
-## 10. Level 3: Structured Relationship
+## 12. Level 3 — Structured Relationship
 
-Diperlukan ketika dependency digunakan untuk:
+Lebih relevan ketika dependency digunakan untuk:
 
 - impact analysis;
-- governance workflow;
 - change propagation;
+- governance workflow;
 - automated checking;
 - complex relational reasoning.
 
-Namun belum ada dasar bahwa TUMBUH harus segera membangun technical dependency graph.
+Belum ada dasar untuk menetapkan technical dependency graph sebagai keharusan arsitektur TUMBUH.
 
-## 11. Explicitness dan PROBE
+## 13. Explicitness dalam PROBE
 
-PROBE menghasilkan reasoning yang dapat berkembang.
+Candidate dependency dalam PROBE dapat memiliki status:
 
-Karena itu explicit dependency dalam PROBE dapat memiliki status:
+- Proposed;
+- Hypothesized;
+- Under Review;
+- Accepted;
+- Rejected.
 
-- proposed;
-- hypothesized;
-- under review;
-- accepted;
-- rejected.
+Tidak semua dependency yang ditemukan selama inquiry harus dianggap established.
 
-Tidak semua dependency yang muncul selama inquiry harus langsung dianggap established.
+Ini konsisten dengan P0025–P0027 bahwa relationship merupakan claim yang perlu dapat direview.
 
-Ini konsisten dengan P0025–P0027 bahwa relationship merupakan claim yang memiliki lifecycle.
+## 14. Explicitness dalam Repository
 
-## 12. Explicitness dan Repository
+Setelah dependency menjadi bagian dari accepted system reasoning, explicit traceability menjadi semakin penting.
 
-Setelah sebuah relationship atau dependency menjadi bagian dari accepted system reasoning, explicit traceability menjadi lebih penting.
+Repository perlu dapat menjawab:
 
-Repository bukan sekadar tempat membaca prose.
+> **Apa yang mungkin terdampak jika object ini berubah?**
 
-Ia juga perlu menjawab:
+Jawaban tersebut lebih reliable jika substantive dependency tidak hanya bergantung pada pembacaan prose.
 
-> **Apa yang akan terdampak jika object ini berubah?**
+## 15. Structure sebagai Discovery Aid
 
-Jawaban tersebut lebih reliable jika dependency dapat ditemukan secara explicit.
+Struktur:
 
-## 13. Structure sebagai Inference Aid
+~~~text
+Design Principle
+↓
+Design Implication
+↓
+Criterion
+~~~
 
-Struktur tetap berguna.
+memberikan initial inference.
 
-Misalnya:
+Namun structure saja belum selalu menjelaskan:
 
-**Design Principle**
-→ **Design Implications**
-→ **Criteria**
+- direct atau contextual dependency;
+- necessary atau contributing parent;
+- conditionality;
+- composite reasoning.
 
-Struktur tersebut memberikan initial inference bahwa implication berkaitan dengan principle.
+Structure membantu discovery, tetapi tidak selalu cukup untuk governance.
 
-Namun structure alone belum selalu menjelaskan:
+## 16. Wording sebagai Discovery Aid
 
-- apakah dependency direct atau contextual;
-- apakah principle necessary;
-- apakah relationship conditional;
-- apakah implication composite.
+Wording seperti:
 
-Karena itu structure dapat membantu, tetapi tidak selalu cukup.
+> “Karena Principle A..., desain perlu...”
 
-## 14. Wording sebagai Inference Aid
+dapat menunjukkan dependency.
 
-Wording juga dapat menunjukkan dependency.
+Namun wording dapat berubah.
 
-Contoh:
+Governance-critical dependency sebaiknya tidak hilang hanya karena kalimat direvisi.
 
-> “Because Principle A requires..., the design should...”
+## 17. Reference sebagai Minimum Explicitness
 
-Namun wording mudah berubah.
+Working minimum:
 
-Jika dependency governance-critical hanya tersirat dalam kalimat, perubahan wording dapat menghilangkan traceability.
-
-Maka important dependency sebaiknya tidak hanya bergantung pada prose.
-
-## 15. Reference sebagai Minimum Explicitness
-
-Salah satu working minimum:
-
-**Derived from: P1, P2**
-
-Reference ini sudah cukup untuk mengidentifikasi parent.
+~~~text
+Derived from: P1, P2
+~~~
 
 Untuk composite implication:
 
-**Derived from: P1 + P2**
+~~~text
+Derived from: P1 + P2
+~~~
 
 Kemudian rationale menjelaskan kontribusi masing-masing.
 
-Ini lebih ringan daripada structured graph.
+Ini lebih ringan daripada formal graph.
 
-## 16. Relation Type
+## 18. Relation Type
 
-Untuk dependency yang lebih kompleks, relation type dapat membantu:
+Jika semantics membutuhkan pembedaan, dapat digunakan:
 
 - derived-from;
 - depends-on;
@@ -248,38 +264,41 @@ Untuk dependency yang lebih kompleks, relation type dapat membantu:
 - conditioned-by;
 - supported-by.
 
-Relation type membuat semantics lebih jelas daripada sekadar reference.
+Relation type tidak perlu ditambahkan jika hanya mengulang makna reference.
 
-Namun relation type harus digunakan hanya jika maknanya benar-benar berbeda.
+## 19. Scope dan Condition
 
-## 17. Scope dan Condition
-
-Explicit dependency sebaiknya dapat mencakup:
+Explicit dependency dapat mencatat:
 
 - scope;
 - condition.
 
-Contoh konseptual:
+Contoh:
 
-**I1 derived from P1 when Condition X applies.**
+~~~text
+I1 derived from P1 under Condition X
+~~~
 
-Ini mencegah dependency dibaca sebagai universal padahal sebenarnya conditional.
+Ini mencegah dependency dibaca sebagai universal jika sebenarnya conditional.
 
-## 18. Dependency Rationale
+## 20. Dependency Rationale
 
-Reference saja belum menjawab:
+Reference menjawab **apa yang menjadi parent**.
+
+Rationale menjawab:
 
 > **Mengapa dependency tersebut substantif?**
 
-Untuk governance-relevant dependency, rationale sebaiknya tersedia.
+Untuk governance-relevant dependency, minimum yang berguna:
 
-Minimum:
+~~~text
+Parent
+→ Dependency Type
+→ Rationale
+→ Downstream Object
+~~~
 
-**Parent → Dependency Type → Rationale → Downstream Object**
-
-Ini konsisten dengan P0025 bahwa relationship claim membutuhkan rationale yang dapat ditelusuri.
-
-## 19. Evidence
+## 21. Evidence
 
 Dependency rationale dapat didukung oleh:
 
@@ -288,33 +307,9 @@ Dependency rationale dapat didukung oleh:
 - source;
 - PROBE.
 
-Tetapi dependency tidak otomatis memiliki evidence baru.
+Evidence tidak otomatis harus baru.
 
-Evidence dapat direferensikan kembali jika relevan.
-
-## 20. Inferred Dependency dan Review Risk
-
-Jika dependency hanya diinferensikan:
-
-- reviewer dapat berbeda interpretasi;
-- impact analysis dapat tidak konsisten;
-- downstream object dapat terlewat;
-- change propagation menjadi unreliable.
-
-Karena itu governance-critical dependencies sebaiknya explicit.
-
-## 21. Explicit Dependency dan Over-Modeling
-
-Sebaliknya, jika semua textual relationship diformalkan:
-
-- repository menjadi berat;
-- graph menjadi noisy;
-- association tercampur dengan dependency;
-- maintenance cost meningkat.
-
-P0026 mengingatkan bahwa tidak semua association adalah substantive relationship.
-
-Maka explicitness harus selektif.
+Relevant existing evidence dapat direferensikan kembali.
 
 ## 22. Dependency Classification
 
@@ -330,147 +325,181 @@ Perubahan parent dapat mengubah meaning, applicability, consequence, atau deriva
 
 ### Governance Dependency
 
-Dependency yang menentukan review, acceptance, impact propagation, atau lifecycle action.
+Dependency menentukan review, acceptance, impact propagation, atau lifecycle action.
 
-Governance dependency sebaiknya selalu explicit.
+Working rule:
 
-Substantive dependency umumnya juga perlu explicit.
-
-Informational dependency dapat tetap berada dalam prose.
+> **Governance dependency harus explicit. Substantive dependency umumnya juga perlu explicit. Informational dependency dapat tetap berada dalam prose.**
 
 ## 23. Explicitness dan Lifecycle
 
-Ketika dependency berubah:
+Perubahan dependency dapat memiliki consequence berbeda:
 
-**Informational**
-→ wording/reference update.
+### Informational
 
-**Substantive**
-→ relationship review.
+Cukup update wording/reference.
 
-**Governance**
-→ impact analysis/review trigger.
+### Substantive
 
-Dengan demikian explicitness membantu menghubungkan dependency dengan lifecycle.
+Perlu relationship review.
 
-## 24. Discovery vs Authority
+### Governance
 
-Inference dapat berguna untuk **discovery**.
+Dapat menjadi impact/review trigger.
 
-Misalnya reviewer menemukan potential dependency dari struktur atau prose.
+Dengan demikian explicit dependency membantu menghubungkan relationship dengan lifecycle.
 
-Tetapi discovery tidak sama dengan established relationship.
+## 24. Discovery vs Established Relationship
 
-Model:
+Inference berguna untuk menemukan candidate:
 
-**Inference**
-→ **Candidate Dependency**
-→ **Review**
-→ **Explicit Accepted Dependency**
+~~~text
+Inference
+↓
+Candidate Dependency
+↓
+Review
+↓
+Explicit Accepted Dependency
+~~~
 
-Ini menjaga epistemic humility.
+Ini membedakan **discovery** dari **establishment**.
 
-## 25. Dependency Extraction
+Inference tidak otomatis menjadi governance authority.
 
-Secara konseptual, future tooling dapat membantu:
+## 25. Future Tooling
+
+Secara konseptual tooling dapat membantu:
 
 - menemukan references;
 - mendeteksi candidate dependencies;
 - membandingkan parent changes;
-- membuat impact candidates.
+- menghasilkan impact candidates.
 
-Namun hasil extraction harus tetap dapat direview.
+Namun hasil extraction tetap perlu review.
 
-Tool inference tidak otomatis menjadi governance authority.
+Tool inference tidak menggantikan governance judgment.
 
-## 26. Repository Design Implication
+## 26. Over-Modeling
 
-Repository tidak perlu langsung memakai technical graph.
+Jika semua textual relationship diformalkan:
 
-Minimum viable approach:
+- repository menjadi berat;
+- graph menjadi noisy;
+- association bercampur dengan dependency;
+- maintenance meningkat.
 
-- explicit parent/reference;
-- relationship type jika diperlukan;
-- rationale;
-- scope/condition;
-- traceability.
+P0026 menegaskan bahwa association tidak otomatis substantive relationship.
 
-Jika complexity meningkat, structured graph dapat dipertimbangkan.
+Maka explicitness harus selektif.
 
 ## 27. Decision Rule
 
 Working sequence:
 
-1. Apakah dependency hanya membantu explanation?
-   - inference cukup.
+**1. Hanya explanatory?**
 
-2. Apakah dependency substantif?
-   - explicit reference dianjurkan.
+→ inference dapat cukup.
 
-3. Apakah dependency memengaruhi governance atau impact propagation?
-   - explicit structured relationship diperlukan secara konseptual.
+**2. Substantive dependency?**
 
-4. Apakah dependency masih hypothetical?
-   - tandai sebagai candidate, bukan established.
+→ explicit reference dianjurkan.
 
-## 28. Temuan
+**3. Governance/impact dependency?**
+
+→ explicit structured representation diperlukan secara konseptual.
+
+**4. Masih hypothetical?**
+
+→ tandai candidate, bukan established dependency.
+
+## 28. Boundary
+
+P0040 **tidak**:
+
+- mewajibkan semua dependency menjadi graph edge;
+- menetapkan technical graph;
+- menganggap inference sebagai governance authority;
+- menetapkan format metadata final;
+- atau menetapkan automation dependency detection.
+
+Fokusnya adalah **tingkat explicitness yang diperlukan untuk menjaga traceability Principles TUMBUH**.
+
+## 29. Repository Destination
+
+Hasil P0040 diarahkan ke:
+
+**Principles → Design Principles → Design Implications → dependency / traceability**
+
+Minimum yang disarankan:
+
+~~~text
+Derived from / Depends on
+→ Relation Type bila diperlukan
+→ Rationale
+→ Scope / Condition bila relevan
+→ Evidence / PROBE
+~~~
+
+Belum diperlukan technical graph sebagai struktur wajib.
+
+## 30. Implikasi bagi TUMBUH
+
+Working model:
+
+> **Inference untuk discovery, explicitness untuk substantive traceability, structured relationship untuk governance-relevant dependency.**
+
+Dengan model ini TUMBUH dapat menjaga impact analysis tanpa membuat seluruh reasoning menjadi metadata formal.
+
+## 31. Temuan Sementara
 
 1. Dependency dapat diinferensikan dari structure dan reasoning.
 2. Inference tidak sama dengan explicit traceability.
 3. Tidak semua dependency perlu menjadi formal graph edge.
-4. Dependency dengan governance consequence sebaiknya explicit.
+4. Governance-relevant dependency sebaiknya selalu explicit.
 5. Substantive dependency umumnya perlu explicit reference.
 6. Informational dependency dapat tetap berada dalam prose.
-7. Ada working levels: contextual inference, explicit reference, structured relationship.
+7. Contextual inference, explicit reference, dan structured relationship merupakan working levels.
 8. PROBE dapat memuat candidate dependencies sebelum accepted.
-9. Repository membutuhkan explicitness yang lebih kuat untuk accepted governance-relevant dependencies.
-10. Structure dan wording membantu discovery tetapi tidak selalu cukup untuk governance.
-11. Reference seperti “Derived from” merupakan minimum explicitness yang berguna.
-12. Relation type dapat ditambahkan jika semantic distinction diperlukan.
-13. Scope dan condition penting untuk conditional dependency.
-14. Rationale dibutuhkan untuk dependency yang substantif.
-15. Evidence dapat mendukung dependency rationale tanpa harus selalu menjadi evidence baru.
-16. Over-modeling harus dihindari.
-17. Inference dapat digunakan untuk discovery, bukan otomatis sebagai authority.
-18. Future tooling dapat membantu menemukan candidate dependencies, tetapi hasilnya tetap perlu review.
-19. Belum ada kebutuhan untuk langsung membangun technical dependency graph.
+9. Structure dan wording membantu discovery tetapi tidak selalu cukup untuk governance.
+10. “Derived from” merupakan minimum explicitness yang berguna.
+11. Relation type digunakan bila semantic distinction memang diperlukan.
+12. Scope dan condition penting untuk conditional dependency.
+13. Rationale diperlukan untuk dependency substantif.
+14. Evidence dapat mendukung rationale tanpa harus selalu menjadi evidence baru.
+15. Over-modeling harus dihindari.
+16. Inference dapat membantu discovery tetapi tidak otomatis menjadi authority.
+17. Future tooling dapat membantu menemukan candidate dependencies.
+18. Belum ada dasar untuk mewajibkan technical dependency graph.
 
-## 29. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — DEPENDENCY TIDAK HARUS SELALU BERUPA STRUCTURED RELATIONSHIP, TETAPI GOVERNANCE-RELEVANT DAN SUBSTANTIVE DEPENDENCIES SEBAIKNYA DINYATAKAN SECARA EXPLICIT.**
+## 32. Kesimpulan
 
-Working rule:
+P0040 mendukung working rule:
 
-> **TUMBUH dapat menggunakan inference untuk exploratory reasoning dan discovery, tetapi dependency yang menentukan derivation, impact analysis, change propagation, atau governance sebaiknya memiliki explicit traceability. Bentuk minimum dapat berupa parent reference dan rationale; structured relationship digunakan ketika semantics dan governance consequence membutuhkan tingkat explicitness yang lebih tinggi.**
+> **Dependency tidak harus selalu berupa structured relationship. TUMBUH dapat menggunakan inference untuk exploratory reasoning dan discovery, explicit reference untuk substantive traceability, dan structured relationship ketika dependency memiliki governance atau impact-analysis consequence yang membutuhkan semantics lebih kaya.**
 
-## 30. Implikasi bagi Repository
+Dengan demikian:
 
-Minimum traceability yang disarankan:
+**Inference → Discovery**
 
-**Derived from / Depends on**
-→ **Relationship Type bila diperlukan**
-→ **Rationale**
-→ **Scope/Condition bila relevan**
-→ **Evidence/PROBE**
+**Explicit Reference → Traceability**
 
-Belum perlu membuat technical graph sebagai keharusan arsitektur.
+**Structured Relationship → Governance-Relevant Dependency**
 
-Repository harus cukup explicit untuk menjawab:
+## 33. Next Inquiry
 
-> **Jika parent berubah, apa yang secara substantif perlu diperiksa?**
+> **Apakah substantive dependency yang belum explicit merupakan gap traceability yang menghalangi sebuah Design Principle atau downstream object dinyatakan Accepted?**
 
-## 31. Next Inquiry
+P0041 akan menguji apakah explicit dependency hanya merupakan kualitas dokumentasi, atau sudah menjadi bagian dari **acceptance readiness** dalam Principles TUMBUH.
 
-P0041 akan menguji:
+## 34. Status Inquiry
 
-> **Apakah dependency yang bersifat substantive tetapi belum explicit dapat dianggap sebagai gap traceability yang harus diperbaiki sebelum sebuah Design Principle atau downstream object dinyatakan Accepted?**
+**Finding:** Dependency dapat ditemukan melalui inference, tetapi dependency substantif dan governance-relevant perlu explicit traceability.
 
-Pertanyaan ini membawa explicitness dari sekadar dokumentasi menuju kemungkinan menjadi **acceptance requirement**.
+**Working conclusion:** Tingkat explicitness mengikuti materiality dan governance consequence.
 
-## Status
+**Boundary:** Format teknis dependency metadata dan automation belum ditetapkan.
 
-**P0040 — selesai sebagai inquiry.**
-
-**Temuan utama:** Dependency dapat diinferensikan untuk discovery dan exploratory reasoning, tetapi substantive dan governance-relevant dependencies sebaiknya explicit. Structured relationship hanya diperlukan ketika complexity dan governance consequence membutuhkannya.
-
-**Next inquiry:** P0041 — *Apakah Substantive Dependency yang Belum Explicit Merupakan Gap Traceability yang Menghalangi Acceptance?*
+**Open question:** Apakah explicit dependency merupakan acceptance requirement?
