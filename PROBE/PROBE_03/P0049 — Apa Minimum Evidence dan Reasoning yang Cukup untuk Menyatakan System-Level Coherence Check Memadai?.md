@@ -1,6 +1,19 @@
 # P0049 — Apa Minimum Evidence dan Reasoning yang Cukup untuk Menyatakan System-Level Coherence Check Memadai?
 
-## Pertanyaan
+## Status
+
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0049  
+**Status:** Revised  
+**Type:** System-Level Coherence Sufficiency Inquiry
+
+---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Kecukupan evidence dan reasoning untuk menghasilkan system-level coherence judgment dalam Principles TUMBUH.
+
+## TUMBUH Question
 
 **Apa minimum evidence dan reasoning yang cukup untuk menyatakan bahwa sebuah System-Level Coherence Check telah memadai?**
 
@@ -656,5 +669,7 @@ Ini melanjutkan inquiry dari **sufficiency of coherence judgment** menuju **inte
 **P0049 — selesai sebagai inquiry.**
 
 **Temuan utama:** System-level coherence cukup bila pemeriksaannya bounded, relevant, evidence/reasoning-based, traceable, dan proportional; tidak diperlukan fixed jumlah sumber atau pembuktian seluruh repository.
+
+**Working rule:** Sufficient coherence is bounded, reasoned, traceable, and proportionate.
 
 **Next inquiry:** P0050 — *Bagaimana Membedakan Systemic Tension yang Dapat Ditoleransi dari Tension yang Membutuhkan Design Resolution atau Principle Reopening?*
