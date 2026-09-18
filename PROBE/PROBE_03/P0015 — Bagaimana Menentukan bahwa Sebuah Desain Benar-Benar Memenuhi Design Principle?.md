@@ -1,312 +1,439 @@
 # P0015 — Bagaimana Menentukan bahwa Sebuah Desain Benar-Benar Memenuhi Design Principle?
 
-## Pertanyaan
+## Status
 
-**Jika satu Design Principle dapat menghasilkan beberapa desain, bagaimana menentukan bahwa sebuah desain benar-benar memenuhi prinsip tersebut?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0015  
+**Status:** Revised  
+**Type:** Design Principle Conformance Inquiry
 
-P0014 menemukan bahwa Design Principle tidak harus menentukan satu bentuk desain. Prinsip dapat membatasi ruang desain sehingga beberapa alternatif tetap mungkin.
+---
 
-Karena itu muncul persoalan baru: jika prinsip tidak menentukan desain secara penuh, diperlukan cara untuk menguji apakah sebuah alternatif masih berada dalam ruang desain yang dapat diterima.
+## 1. Object of Inquiry
 
-## 1. Dari Principle ke Criterion
+**Object of Inquiry:** Design Principles TUMBUH.
 
-Design Principle sendiri merupakan komitmen pengarah. Agar dapat digunakan untuk mengevaluasi desain, prinsip perlu memiliki **design implications** yang dapat diterjemahkan menjadi pertanyaan atau criteria.
+P0015 mengkaji bagaimana TUMBUH menentukan apakah suatu desain **conforming terhadap Design Principle**, setelah P0014 menunjukkan bahwa satu Principle dapat memungkinkan beberapa desain yang berbeda.
 
-Hubungannya:
+---
 
-**Design Principle**
-→ **Design Implication**
-→ **Evaluation Criterion**
-→ **Evidence of Conformity**
-→ **Design Judgment**
+## 2. TUMBUH Question
 
-Ini tidak berarti setiap Principle harus diubah menjadi angka.
+> **Jika satu Design Principle dapat menghasilkan beberapa desain yang valid, apa yang dapat diperiksa untuk menentukan bahwa suatu desain benar-benar memenuhi Principle tersebut?**
 
-Yang diperlukan adalah kemampuan untuk menjelaskan:
+Pertanyaan ini menjaga dua hal sekaligus:
 
-> “Jika prinsip ini benar-benar diterapkan, apa yang seharusnya terlihat atau dapat diperiksa pada desain?”
+- Principle tidak berubah menjadi blueprint tunggal;
+- tetapi Principle juga tidak menjadi slogan yang tidak dapat diuji.
 
-## 2. Principle Tidak Sama dengan Checklist
+---
 
-Ada risiko bahwa setiap principle langsung diterjemahkan menjadi checklist biner:
+## 3. Dari Principle ke Inspectable Consequence
 
-- yes;
-- no.
+Design Principle berada pada tingkat commitment pengarah.
 
-Pendekatan tersebut dapat membantu untuk aspek tertentu, tetapi tidak selalu memadai.
+Agar dapat digunakan untuk menilai desain, perlu ditanyakan:
 
-Beberapa Design Principles bersifat kualitatif dan memerlukan judgment.
+> **Jika commitment ini benar-benar diterapkan, apa konsekuensi yang seharusnya dapat diperiksa pada desain?**
 
-Maka evaluation dapat berbentuk:
+Working chain:
 
-- evidence;
-- argument;
-- comparison;
-- scenario testing;
-- expert judgment;
-- review.
+~~~text
+DESIGN PRINCIPLE
+      ↓
+DESIGN IMPLICATION
+      ↓
+EVALUATION CRITERION
+      ↓
+EVIDENCE / TEST
+      ↓
+CONFORMANCE JUDGMENT
+~~~
 
-Checklist hanyalah salah satu bentuk alat evaluasi, bukan definisi evaluasi itu sendiri.
+Ini tidak berarti setiap Principle harus menjadi angka.
 
-## 3. Conformance vs Quality
+Yang diperlukan adalah **inspectable consequence**.
 
-P0015 perlu membedakan dua pertanyaan:
+---
+
+## 4. Design Implication
+
+Design implication menjelaskan konsekuensi yang muncul ketika Principle diterapkan.
+
+Ia menjawab:
+
+> “Apa yang harus dijaga, dimungkinkan, atau dihindari dalam desain jika Principle ini benar-benar dihormati?”
+
+Implikasi tersebut harus cukup konkret untuk diperiksa, tetapi tidak terlalu detail hingga berubah menjadi specification.
+
+---
+
+## 5. Conformance ≠ Overall Design Quality
+
+P0015 perlu mempertahankan pembedaan:
 
 ### Conformance
 
-> Apakah desain konsisten dengan Design Principle?
+> Apakah desain konsisten dengan Design Principle yang sedang diuji?
 
-### Quality
+### Overall Quality
 
-> Seberapa baik desain tersebut?
+> Seberapa baik desain tersebut secara keseluruhan?
 
-Keduanya tidak identik.
+Keduanya bukan pertanyaan yang sama.
 
-Sebuah desain dapat memenuhi prinsip tetapi masih memiliki kelemahan lain.
+Sebuah desain dapat conforming terhadap satu Principle tetapi tetap memiliki kelemahan lain.
 
-Sebaliknya, desain yang terlihat efektif dalam satu konteks belum tentu memenuhi prinsip TUMBUH.
+Karena itu conformance terhadap Principle tidak boleh digunakan sebagai overall ranking kualitas desain.
 
-Karena itu, evaluasi Design Principle sebaiknya tidak berubah menjadi overall ranking desain.
+---
 
-## 4. Design Principle Harus Menghasilkan Consequence
+## 6. Design Principle Harus Memiliki Design Consequence
 
 Jika tidak ada perbedaan antara:
 
-**design yang memenuhi principle**
+~~~text
+DESIGN YANG MEMENUHI PRINCIPLE
+vs
+DESIGN YANG MELANGGAR PRINCIPLE
+~~~
 
-dan:
+maka Principle perlu ditinjau.
 
-**design yang melanggar principle**
+Kemungkinan masalah:
 
-maka principle tersebut kemungkinan terlalu abstrak atau terlalu lemah.
+- terlalu abstrak;
+- terlalu lemah;
+- formulasi tidak tepat;
+- atau design implication belum berhasil dirumuskan.
 
-Uji praktis:
+Working test:
 
-> **Apakah prinsip ini dapat menghasilkan konsekuensi terhadap keputusan desain?**
+> **Apakah Principle menghasilkan konsekuensi yang relevan bagi desain?**
 
-Jika ya, konsekuensi tersebut menjadi titik awal evaluasi.
+Jika tidak, statusnya sebagai Design Principle menjadi dipertanyakan.
 
-## 5. Uji Necessary Condition
+---
 
-Salah satu cara paling sederhana adalah mencari kondisi yang diwajibkan oleh principle.
+## 7. Evaluation Criterion
 
-Misalnya secara abstrak:
+Design implication dapat diterjemahkan menjadi criterion.
 
-> Prinsip menuntut keterhubungan antar-komponen.
+Criterion tidak harus berbentuk metric.
 
-Maka evaluasi dapat menanyakan:
+Ia dapat berupa pertanyaan evaluatif seperti:
 
-- apakah hubungan tersebut benar-benar ada;
-- apakah hubungan tersebut dapat dipertahankan;
-- apakah desain memutus hubungan yang justru diwajibkan prinsip.
+- apakah kondisi tertentu tersedia;
+- apakah hubungan tertentu dipertahankan;
+- apakah perilaku tertentu dimungkinkan;
+- apakah constraint tertentu tidak dilanggar.
 
-Criterion tidak perlu menentukan satu bentuk arsitektur.
+Dengan demikian:
 
-Ia hanya menguji apakah constraint prinsip dipenuhi.
+> **Criterion adalah cara membuat consequence Principle dapat diperiksa.**
 
-## 6. Uji Multiple Alternatives
+Format awal:
 
-Karena P0014 menunjukkan bahwa multiple designs dapat valid, evaluation sebaiknya tidak hanya menguji satu desain.
+| Principle | Design Implication | Criterion | Evidence |
+|---|---|---|---|
+| Commitment X | Desain menjaga Y | Y terpenuhi | Struktur / test |
+| Commitment Z | Desain memungkinkan A | A dapat terjadi | Behaviour / scenario |
+| Commitment Q | Desain menghindari B | B tidak terjadi pada kondisi relevan | Scenario / test |
 
-Misalnya:
+Tabel ini adalah alat reasoning, bukan format final repository.
 
-**Design A**
-→ memenuhi criterion X
+---
 
-**Design B**
-→ memenuhi criterion X
+## 8. Evidence of Conformity
 
-Maka keduanya tetap dapat valid terhadap Principle X.
+Klaim bahwa suatu desain memenuhi Principle membutuhkan evidence yang relevan.
 
-Kemudian criteria lain atau contextual requirements dapat digunakan untuk memilih.
+Bentuk evidence bergantung pada jenis desain, misalnya:
 
-Ini menjaga perbedaan antara:
-
-**principle conformance**
-
-dan:
-
-**design selection.**
-
-## 7. Evidence of Conformity
-
-Sebuah desain perlu memiliki evidence yang cukup untuk menunjukkan bahwa ia memenuhi prinsip.
-
-Bentuk evidence bergantung pada jenis desain.
-
-Dapat berupa:
-
-- struktur model;
+- struktur atau model;
 - hubungan antar-komponen;
 - behaviour;
 - scenario;
-- test result;
-- documentation;
-- implementation observation.
+- hasil pengujian;
+- dokumentasi;
+- observasi implementasi.
 
-Tidak semua evidence harus empiris dalam arti penelitian formal.
+Tidak semua evidence harus berupa penelitian empiris formal.
 
-Yang penting adalah:
+Prinsip utamanya:
 
-> **Evidence harus relevan terhadap klaim conformity yang dibuat.**
+> **Evidence harus relevan terhadap klaim conformity yang sedang diuji.**
 
-## 8. Scenario Testing
+---
 
-Scenario dapat menjadi alat penting untuk menguji prinsip.
+## 9. Scenario Testing
 
-Pertanyaan:
+Scenario dapat menguji apakah conformity bertahan pada kondisi yang relevan.
 
-> Jika desain digunakan dalam kondisi X, apakah constraint prinsip masih dipenuhi?
+Pertanyaan kerja:
+
+> Jika desain digunakan pada kondisi X, apakah consequence yang dituntut Principle tetap terpenuhi?
 
 Kemudian:
 
-> Bagaimana jika kondisi berubah menjadi Y?
+> Apa yang terjadi ketika kondisi berubah?
 
-Scenario testing membantu menemukan:
+Scenario testing dapat menemukan:
 
 - hidden assumptions;
 - boundary conditions;
 - unintended consequences;
-- principle violations.
+- dan kemungkinan violation.
 
-Ini juga menghubungkan P0014 dengan P0012: prinsip contextual dapat membutuhkan scenario sesuai scope-nya.
+Ini penting khususnya untuk Design Principles yang conditional atau contextual.
 
-## 9. Counterexample
+---
 
-Counterexample tetap penting.
+## 10. Counterexample
 
-Jika sebuah desain diklaim memenuhi principle, cari situasi di mana klaim tersebut gagal.
+Conformance tidak cukup diuji dengan mencari bukti pendukung.
 
-Misalnya:
+Perlu dicari juga kondisi yang dapat membantah klaim.
 
-**Claim**
-→ Design A memenuhi Principle X.
+Pola:
 
-**Counterexample**
-→ Pada kondisi Y, Design A menghasilkan perilaku yang bertentangan dengan X.
+~~~text
+Claim:
+Design A conforms to Principle X.
 
-Maka ada beberapa kemungkinan:
+Counterexample:
+Pada kondisi Y, Design A tidak memenuhi consequence X.
+~~~
+
+Jika counterexample valid, beberapa kemungkinan muncul:
 
 - desain perlu direvisi;
-- scope principle perlu diperjelas;
+- scope Principle perlu dipersempit;
 - criterion perlu diperbaiki;
-- claim conformity terlalu kuat.
+- atau klaim conformity terlalu kuat.
 
-Dengan demikian, evaluation bukan sekadar mencari bukti pendukung.
+Dengan demikian, evaluation harus bersifat **critical**, bukan sekadar confirmatory.
 
-## 10. Principle → Criterion Mapping
+---
 
-Working mapping:
+## 11. Multiple Valid Designs
 
-| Design Principle | Design Implication | Evaluation Criterion | Evidence |
-|---|---|---|---|
-| Komitmen desain X | Desain perlu menjaga Y | Y tetap tersedia/terhubung | Struktur, scenario, test |
-| Komitmen desain Z | Desain perlu memungkinkan A | A dapat dilakukan | Behaviour, observation |
-| Komitmen desain Q | Desain perlu menghindari B | B tidak terjadi pada kondisi relevan | Scenario, test |
+P0014 menunjukkan bahwa beberapa desain dapat sama-sama valid terhadap Principle yang sama.
 
-Tabel ini bukan format final repository. Ia merupakan alat reasoning untuk menguji apakah principle benar-benar memiliki design consequence.
+Maka:
 
-## 11. Siapa yang Menilai?
+~~~text
+Design A → conforms
+Design B → conforms
+Design C → conforms
+~~~
 
-P0010 membedakan epistemic judgment, design judgment, dan governance decision.
+tidak berarti Principle gagal memilih.
 
-P0015 menambahkan:
+Principle memang tidak harus memilih satu desain.
 
-> **Conformance assessment juga merupakan fungsi yang perlu dibedakan dari acceptance principle.**
+Jika perlu memilih antara A, B, dan C, diperlukan pertimbangan tambahan seperti:
 
-Sebuah desain dapat dinilai memenuhi Principle tanpa otomatis mengubah Principle itu sendiri.
+- requirements;
+- contextual constraints;
+- evidence;
+- atau criteria lain.
 
-Sebaliknya, jika berkali-kali ditemukan bahwa criterion tidak dapat digunakan secara konsisten, mungkin Principle perlu ditinjau ulang.
+Ini mempertahankan pemisahan:
 
-## 12. Ketika Principle Sulit Diukur
+**Principle conformance ≠ design selection.**
 
-Tidak semua prinsip dapat direduksi menjadi metric.
+---
 
-Jika principle bersifat normatif atau kualitatif, evaluasi dapat menggunakan structured judgment.
+## 12. Siapa yang Menilai?
 
-Yang penting:
+P0010 membedakan:
+
+- epistemic judgment;
+- design judgment;
+- governance decision.
+
+P0015 menambahkan fungsi lain:
+
+> **Conformance assessment.**
+
+Menilai apakah desain memenuhi Principle adalah aktivitas evaluasi terhadap desain.
+
+Hasil assessment tersebut tidak otomatis mengubah Principle.
+
+Sebaliknya, pola kegagalan assessment yang berulang dapat menjadi alasan untuk membuka kembali Principle atau criterion.
+
+---
+
+## 13. Tidak Semua Principle Harus Terukur Secara Numerik
+
+Principle dapat bersifat kualitatif.
+
+Dalam kasus demikian, structured judgment dapat lebih tepat daripada metric.
+
+Yang perlu dipertahankan:
 
 - criterion jelas;
 - reasoning dapat dijelaskan;
 - evidence relevan;
-- disagreement dapat ditelusuri;
-- counterexample dipertimbangkan.
+- counterexample dipertimbangkan;
+- disagreement dapat ditelusuri.
 
-Dengan demikian, **measurability bukan syarat mutlak sebuah Design Principle**.
+Maka:
 
-## 13. Risiko False Precision
+> **Measurability bukan syarat mutlak Design Principle.**
 
-Memberi skor numerik pada setiap principle dapat menciptakan kesan presisi yang tidak didukung oleh reasoning.
+---
+
+## 14. Hindari False Precision
+
+Scoring numerik tidak otomatis membuat assessment lebih rigorous.
 
 Misalnya:
 
-> Principle conformity = 8.7/10.
+~~~text
+Conformity = 8.7 / 10
+~~~
 
-Angka tersebut baru bermakna jika terdapat model pengukuran yang benar-benar terjustifikasi.
+tidak bermakna jika tidak ada model pengukuran yang terjustifikasi.
 
-Untuk tahap TUMBUH saat ini, lebih aman menggunakan:
+Untuk tahap TUMBUH, status seperti:
 
 - conforming;
 - partially conforming;
 - non-conforming;
 
-atau deskripsi kualitatif yang disertai reasoning dan evidence, bila memang diperlukan.
+dapat digunakan bila sesuai dengan kebutuhan assessment, disertai reasoning dan evidence.
 
-Kategori tersebut juga tidak dimaksudkan sebagai ranking antar-desain, melainkan status conformity terhadap criterion tertentu.
+Status tersebut bukan ranking antar-desain.
 
-## 14. Temuan
+---
 
-1. Design Principle perlu memiliki design implications agar dapat dievaluasi.
-2. Design implication dapat diterjemahkan menjadi evaluation criteria.
-3. Evaluation criteria tidak harus berupa metric atau checklist biner.
-4. Conformance berbeda dari overall design quality.
-5. Evidence of conformity harus relevan dengan klaim yang diuji.
-6. Scenario testing dan counterexample dapat menguji batas conformity.
-7. Multiple valid designs dapat tetap memenuhi Design Principle yang sama.
-8. Principle evaluation tidak otomatis memilih satu desain.
-9. Measurability bukan syarat mutlak Design Principle.
-10. False precision perlu dihindari ketika evidence tidak mendukung scoring numerik.
+## 15. Working Conformance Test
 
-## 15. Keputusan Sementara
+Sebuah desain dapat diuji melalui:
 
-**PASS — DESIGN PRINCIPLE HARUS DAPAT DITERJEMAHKAN MENJADI DESIGN IMPLICATION DAN DIEVALUASI MELALUI CRITERIA YANG DAPAT DIPERTANGGUNGJAWABKAN.**
+### Test 1 — Implication
 
-Working rule:
+Apa design implication dari Principle?
 
-> **Sebuah desain dianggap conforming terhadap Design Principle ketika terdapat reasoning dan evidence yang memadai bahwa konsekuensi desain yang dituntut oleh principle terpenuhi dalam scope dan kondisi penerapannya.**
+### Test 2 — Criterion
 
-Ini bukan berarti semua prinsip harus memiliki metric kuantitatif.
+Apa yang dapat diperiksa untuk implication tersebut?
 
-Yang dibutuhkan adalah **inspectable consequence**: terdapat sesuatu pada desain yang dapat diperiksa, dibandingkan, atau diperdebatkan secara terstruktur.
+### Test 3 — Evidence
 
-## 16. Implikasi bagi Repository
+Evidence apa yang menunjukkan conformity?
 
-Design Principles nantinya sebaiknya tidak hanya ditulis sebagai kalimat normatif.
+### Test 4 — Scope
 
-Jika memungkinkan, dokumentasi principle perlu dapat ditelusuri ke:
+Apakah pengujian berada dalam scope dan condition Principle?
 
-**Principle**
-→ **Design Implication**
-→ **Evaluation Criterion**
-→ **Evidence / Test**
-→ **Design Assessment**
+### Test 5 — Counterexample
 
-Struktur ini dapat menjadi jembatan antara Principles, Core Model, Assessment, dan PROBE.
+Apakah terdapat kondisi relevan yang membantah conformity?
 
-Namun format finalnya masih perlu diuji sebelum dibakukan dalam repository.
+### Test 6 — Consistency
 
-## 17. Next Inquiry
+Apakah klaim conformity konsisten dengan Core Principles dan Principles lain yang relevan?
+
+Ini adalah working test, bukan scoring.
+
+---
+
+## 16. Boundary
+
+P0015 **tidak** sedang:
+
+- menentukan design criteria final TUMBUH;
+- membuat metric universal;
+- memilih desain tertentu;
+- menetapkan ranking antar-desain;
+- atau mengubah Principles menjadi checklist operasional.
+
+Fokusnya hanya:
+
+> **menentukan bagaimana conformity terhadap Design Principle dapat dibuat inspectable dan dipertanggungjawabkan.**
+
+---
+
+## 17. Repository Destination
+
+Hasil P0015 diarahkan ke:
+
+**Principles → Design Principles → design implications and conformance criteria**
+
+Temuan ini menjadi dasar untuk menguji apakah setiap Principle memerlukan criterion tersendiri atau beberapa Principles dapat berbagi criterion.
+
+---
+
+## 18. Implication for TUMBUH
+
+P0015 menghasilkan working chain:
+
+~~~text
+Principle
+→ Implication
+→ Criterion
+→ Evidence / Test
+→ Conformance Judgment
+~~~
+
+Dengan chain ini:
+
+> **Principle tetap berada pada level commitment, sementara conformity diperiksa melalui konsekuensi desain yang dapat diinspeksi.**
+
+Ini memungkinkan beberapa desain berbeda tetap valid terhadap Principle yang sama.
+
+---
+
+## 19. Temuan Sementara
+
+1. **Design Principle perlu menghasilkan design implication yang dapat diperiksa.**
+2. **Design implication dapat menjadi dasar evaluation criterion.**
+3. **Conformance berbeda dari overall design quality.**
+4. **Evidence harus relevan dengan klaim conformity.**
+5. **Scenario testing dan counterexample penting untuk menguji batas conformity.**
+6. **Beberapa desain dapat sama-sama conforming terhadap Principle yang sama.**
+7. **Conformance assessment tidak otomatis menentukan desain yang harus dipilih.**
+8. **Measurability bukan syarat mutlak Principle.**
+9. **False precision melalui scoring yang tidak terjustifikasi perlu dihindari.**
+10. **Repeated assessment failure dapat menjadi sinyal untuk meninjau kembali Principle atau criterion.**
+
+Temuan ini masih provisional.
+
+---
+
+## 20. Kesimpulan
+
+P0015 mendukung working rule:
+
+> **Sebuah desain dapat dinyatakan conforming terhadap Design Principle ketika terdapat reasoning dan evidence yang memadai bahwa design consequences yang dituntut Principle terpenuhi dalam scope dan kondisi penerapannya.**
+
+Dengan demikian, TUMBUH tidak perlu menjadikan setiap Principle sebagai metric.
+
+Yang diperlukan adalah:
+
+> **inspectable consequence + relevant evidence + explicit reasoning.**
+
+---
+
+## 21. Next Inquiry
 
 Pertanyaan berikutnya:
 
-> **Apakah setiap Design Principle membutuhkan Design Criterion sendiri, atau dapat beberapa Design Principles berbagi criterion yang sama?**
+> **Apakah setiap Design Principle TUMBUH membutuhkan Design Criterion sendiri, atau beberapa Design Principles dapat berbagi criterion yang sama?**
 
-P0016 akan menguji hubungan antara **principles, criteria, dan kemungkinan overlap** agar sistem evaluasi TUMBUH tidak menghasilkan terlalu banyak criteria yang redundan.
+Pertanyaan ini diperlukan agar penerjemahan Principles ke evaluasi tidak menghasilkan criteria yang berlebihan atau redundan.
 
-## Status
+---
 
-**P0015 — selesai sebagai inquiry.**
+## 22. Status Inquiry
 
-**Temuan utama:** conformity terhadap Design Principle perlu dapat diperiksa melalui design implications, criteria, evidence, scenario, dan counterexample. Evaluasi tidak harus berupa metric dan tidak otomatis memilih satu desain.
+**Finding:** Conformance terhadap Design Principle harus dapat diperiksa melalui design implication, criterion, evidence, scenario, dan counterexample yang relevan.
 
-**Next inquiry:** P0016 — *Apakah setiap Design Principle membutuhkan criterion sendiri, atau beberapa principles dapat berbagi criterion?*
+**Working conclusion:** Principle tidak perlu menjadi metric, tetapi harus menghasilkan consequence yang inspectable.
+
+**Boundary:** P0015 belum menetapkan struktur criteria final.
+
+**Open question:** Apakah setiap Design Principle membutuhkan criterion sendiri?
