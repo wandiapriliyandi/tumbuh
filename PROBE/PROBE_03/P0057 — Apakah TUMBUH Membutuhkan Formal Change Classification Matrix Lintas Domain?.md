@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0057  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
@@ -330,7 +330,19 @@ Dengan demikian, TUMBUH memperoleh konsistensi lintas repository tanpa kehilanga
 
 ---
 
-## 17. Status Inquiry
+## 17. Repository Destination
+
+**Principles → Design Principles → Relational Traceability → Change Classification / Decision Trace**
+
+Common classification framework diposisikan sebagai cross-cutting convention, bukan architectural layer baru.
+
+## 18. Next Inquiry
+
+> **Bagaimana menentukan domain-specific extension tanpa membuat setiap domain mengembangkan standar substantiveness yang berbeda-beda?**
+
+P0058 akan menguji boundary antara common semantic test dan domain-specific extension.
+
+## 19. Status Inquiry
 
 **Finding:** Common semantic classification framework diperlukan; implementasinya dapat memiliki domain-specific extensions.
 
