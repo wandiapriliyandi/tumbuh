@@ -1,56 +1,68 @@
 # P0038 — Jika Composite Implication Berubah karena Parent Principle Berubah, Apakah Itu Revision atau Re-derivation?
 
-## Pertanyaan
+## Status
 
-**Jika sebuah Composite Design Implication berubah karena salah satu Parent Design Principle berubah, apakah perubahan tersebut merupakan revision atas implication atau hanya re-derivation?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0038  
+**Status:** Revised  
+**Type:** Composite Design Implication Change Inquiry
 
-P0037 membedakan derived reasoning object dari independent normative object. Jika implication diturunkan dari current state beberapa parent principles, maka perubahan parent dapat mengubah hasil derivation tanpa mengubah identity implication sebagai object.
+---
 
-P0038 menguji batas antara **re-derivation** dan **revision**.
+## 1. Object of Inquiry
 
-## 1. Titik Berangkat
+**Object of Inquiry:** Composite Design Implication TUMBUH yang bergantung pada beberapa Design Principles, khususnya perubahan consequence ketika parent berubah.
 
-Model dasar:
+P0037 membedakan derived reasoning object dari independent normative object. P0038 menguji konsekuensi lifecycle dari dependency tersebut.
 
-**Principle A + Principle B → Implication X**
+## 2. TUMBUH Question
 
-Kemudian Principle A berubah:
+> **Jika Composite Design Implication berubah karena salah satu Parent Design Principle berubah, apakah perubahan tersebut merupakan revision atas implication atau hanya re-derivation?**
 
-**Principle A' + Principle B → ?**
+## 3. Dua Kemungkinan
+
+Model:
+
+~~~text
+Principle A + Principle B → Implication X
+~~~
+
+Setelah A berubah:
+
+~~~text
+Principle A' + Principle B → ?
+~~~
 
 Ada dua kemungkinan:
 
 ### Re-derivation
 
-X dihitung atau dirumuskan kembali dari parent state baru.
+X dirumuskan kembali dari parent state terbaru.
 
 ### Revision
 
-Identity atau substantive content X sendiri berubah melalui review.
+Substantive content atau identity X sendiri diubah melalui review.
 
-Keduanya tidak identik.
+Keduanya tidak sama.
 
-## 2. Re-derivation
+## 4. Re-Derivation
 
-Re-derivation berarti:
+Working definition:
 
-> **menghasilkan kembali implication berdasarkan parent principles, relationships, conditions, dan reasoning yang current.**
-
-Jika X hanya merupakan derived consequence, perubahan parent dapat membuat formulation X berubah tanpa berarti X memiliki independent identity yang direvisi.
+> **Re-derivation adalah menghasilkan kembali Design Implication berdasarkan current parent principles, relationships, conditions, scope, dan reasoning.**
 
 Model:
 
-**Parent State 1 → X1**
+~~~text
+Parent State 1 → X1
+Parent State 2 → X2
+~~~
 
-setelah parent berubah:
+Perbedaan X1 dan X2 tidak otomatis berarti X mengalami identity revision.
 
-**Parent State 2 → X2**
+## 5. Revision
 
-X2 adalah current derivation.
-
-## 3. Revision
-
-Revision lebih tepat digunakan ketika X memiliki independent identity sebagai design object dan substantive content-nya sengaja diubah melalui governance review.
+Revision lebih tepat ketika X memiliki independent identity sebagai design object dan substantive content-nya diubah melalui review.
 
 Misalnya X memiliki:
 
@@ -61,267 +73,262 @@ Misalnya X memiliki:
 - independent design consequence;
 - governance status.
 
-Dalam kondisi tersebut perubahan X dapat dicatat sebagai revision.
-
-## 4. Perubahan Parent Tidak Otomatis Menjadi Revision X
-
-P0037 menunjukkan bahwa parent dependency harus dilacak.
+## 6. Parent Change ≠ Automatic Revision
 
 Jika A berubah, pertanyaan pertama:
 
 > **Apakah X masih dapat diturunkan dari current A dan B?**
 
-Bukan langsung:
+Jika ya:
 
-> “Bagaimana kita merevisi X?”
-
-Jika X masih valid:
-
-**Re-derive → Retain current implication**
+~~~text
+Re-derive → Retain
+~~~
 
 Jika tidak:
 
-**Re-derive → Review consequence**
+~~~text
+Re-derive → Impact Review → Determine Outcome
+~~~
 
-Baru kemudian dapat muncul revision, invalidation, atau retirement.
+Outcome dapat berupa revision, invalidation, supersession, atau retirement sesuai status X.
 
-## 5. Dependency Recalculation
+## 7. Dependency Recalculation
 
-Composite implication dapat dipandang sebagai dependent object.
+Composite implication dapat dipahami sebagai dependent object:
 
-Model:
+~~~text
+Parent Principles
++
+Relationships
++
+Conditions
+↓
+Derivation
+↓
+Composite Implication
+~~~
 
-**A + B + Relationship + Conditions**
-→ **Derivation**
-→ **X**
-
-Ketika input berubah, derivation perlu dihitung ulang.
+Ketika input berubah, derivation perlu diperiksa kembali.
 
 Ini lebih dekat dengan **dependency recalculation** daripada automatic revision.
 
-## 6. Contoh Konseptual
+## 8. Formula Change vs Meaning Change
 
-Misalnya:
+Perubahan wording X tidak otomatis berarti meaning berubah.
 
-**P1 + P2 → I1**
+Jika parent formulation berubah tetapi intended consequence tetap sama, current implication dapat dire-express tanpa substantive revision.
 
-P1 berubah hanya pada wording tetapi commitment tetap sama.
+Sebaliknya, jika intended consequence atau design function berubah, revision menjadi lebih tepat untuk independent object.
 
-Kemungkinan:
+## 9. Identity Test
 
-**I1 tetap sama.**
-
-Maka tidak diperlukan substantive revision.
-
-Jika P1 berubah pada commitment yang relevan:
-
-**P1' + P2 → I1?**
-
-I1 harus diuji kembali.
-
-Hasil dapat:
-
-- tetap sama;
-- berubah;
-- tidak lagi valid.
-
-## 7. Identity Test
-
-Untuk menentukan apakah X mengalami revision, tanyakan:
+Untuk X, periksa:
 
 1. Apakah X memiliki independent identity?
 2. Apakah commitment X berubah?
 3. Apakah design function X berubah?
 4. Apakah scope X berubah?
-5. Apakah substantive consequence X berubah?
-6. Apakah governance decision terhadap X berubah?
+5. Apakah substantive consequence berubah?
+6. Apakah governance status X berubah?
 
-Jika X hanya derived object dan tidak memiliki independent commitment, istilah re-derivation lebih tepat.
+Jika X sepenuhnya derived dan tidak memiliki independent commitment, re-derivation lebih tepat.
 
-## 8. Formula Change vs Meaning Change
-
-Perubahan formulation tidak selalu berarti perubahan meaning.
-
-Misalnya parent principle direvisi sehingga wording implication menjadi lebih tepat, tetapi consequence yang dimaksud tetap sama.
-
-Ini dapat menjadi:
-
-**re-expression / re-derivation**
-
-bukan substantive revision.
-
-Sebaliknya, jika intended consequence berubah, revision menjadi lebih tepat.
-
-## 9. Re-derivation dan Scope
+## 10. Scope Change
 
 Jika parent scope berubah:
 
-**Scope(A) + Scope(B) → Scope(X)**
+~~~text
+Scope(A) + Scope(B) → Applicability(X)
+~~~
 
-Current X perlu dihitung kembali.
+current X perlu dihitung kembali.
 
-Jika scope X berubah hanya karena parent applicability berubah, itu dapat menjadi re-derivation.
+Perubahan applicability karena parent berubah dapat merupakan re-derivation.
 
-Jika governance menetapkan scope X baru secara independen, itu dapat menjadi revision.
+Jika X memiliki scope yang ditetapkan secara independen, perubahan scope X dapat memerlukan revision review.
 
-## 10. Re-derivation dan Condition
+## 11. Condition Change
 
-Model:
+Jika:
 
-**A + B + Condition C → X**
+~~~text
+A + B + Condition C → X
+~~~
 
-Jika C berubah karena parent condition berubah, X perlu dievaluasi kembali.
+dan C berubah karena parent condition berubah, X perlu dievaluasi.
 
-Tetapi perubahan tersebut tidak otomatis merupakan revision X.
+Namun perubahan tersebut tidak otomatis menjadi revision X.
 
 Pertanyaan tetap:
 
-> Apakah X memiliki independent condition atau hanya mewarisi applicability dari parent reasoning?
+> **Apakah condition X independent, atau hanya merupakan consequence dari parent state?**
 
-## 11. Re-derivation dan Relationship
+## 12. Relationship Change
 
-P0027 menemukan bahwa relationship memiliki lifecycle relatif independen.
+Jika X bergantung pada relationship A–B:
 
-Jika relationship A-B berubah:
-
-**A + R1 + B → X**
+~~~text
+A + R1 + B → X
+~~~
 
 menjadi:
 
-**A + R2 + B → X?**
+~~~text
+A + R2 + B → X?
+~~~
 
 X perlu dire-derive.
 
-Jika X tetap dapat dipertahankan, tidak ada substantive revision.
+Jika masih valid → retain.
 
-Jika consequence berubah, X dapat memerlukan revision atau retirement.
+Jika consequence berubah secara substantif → review lebih lanjut.
 
-## 12. Re-derivation dan Evidence
+## 13. Evidence Change
 
-Evidence baru dapat mengubah derivation.
+Evidence baru dapat memengaruhi:
 
-Namun perlu dibedakan:
+- parent Principle;
+- relationship;
+- joint reasoning;
+- implication.
 
-- evidence parent berubah;
-- evidence relationship berubah;
-- evidence implication berubah.
+Evidence change tidak otomatis menjadi lifecycle event X.
 
-Jika evidence hanya mengubah basis parent, re-derivation dapat cukup.
+Namun jika evidence materially weakens the derivation, X perlu direview.
 
-Jika evidence langsung menantang X sebagai independent claim, X dapat membutuhkan review sendiri.
+## 14. No Automatic Propagation
 
-## 13. Re-derivation Tidak Berarti Automatic Propagation
+Perubahan parent tidak seharusnya menghasilkan:
 
-Perubahan parent tidak boleh dianggap otomatis mengubah semua downstream objects tanpa pemeriksaan.
+~~~text
+Parent Change → Automatic Rewrite of Everything
+~~~
 
-Working dependency:
+Working flow:
 
-**Parent Change**
-→ **Identify Dependents**
-→ **Re-derive**
-→ **Impact Review**
-→ **Determine Outcome**
+~~~text
+Parent Change
+↓
+Identify Dependents
+↓
+Re-derive
+↓
+Impact Review
+↓
+Determine Outcome
+~~~
 
-Ini lebih aman daripada:
+Ini menjaga perubahan downstream tetap berbasis dependency substantif.
 
-**Parent Change → Automatic Rewrite**
+## 15. Impact Tidak Harus Seragam
 
-## 14. Why Impact Review Matters
+Satu parent Principle dapat memiliki banyak downstream implications.
 
-Satu parent principle dapat memiliki banyak downstream implications.
+Perubahan parent dapat:
 
-Perubahan kecil pada parent mungkin:
-
-- tidak berdampak pada sebagian implications;
-- mengubah sebagian;
+- tidak memengaruhi sebagian;
+- memengaruhi sebagian;
 - membatalkan sebagian;
 - mengubah relationship tertentu.
 
-Karena itu impact harus diperiksa secara individual.
+Karena itu setiap dependent implication perlu dinilai berdasarkan dependency-nya.
 
-## 15. Re-derivation dan Traceability
+## 16. Historical Traceability
 
-Traceability minimum:
+Minimum traceability:
 
-**Parent Version/State**
-→ **Relationship State**
-→ **Condition**
-→ **Derivation Rationale**
-→ **Current Implication**
+~~~text
+Parent State
+↓
+Relationship State
+↓
+Condition
+↓
+Derivation Rationale
+↓
+Current Implication
+~~~
 
-Jika current implication berubah, historical derivation tetap dapat diketahui.
+Dengan demikian perubahan X dapat dipahami dalam konteks parent state yang menghasilkan X.
 
-## 16. Historical Versions
+## 17. Re-Derivation dan Retain
 
-Derived implication dapat memiliki history:
+Jika:
 
-**X@State1**
+~~~text
+Parent Change
+↓
+Re-derive
+↓
+Same valid consequence
+~~~
 
-berasal dari:
+outcome dapat dicatat sebagai **Retain**, sejalan dengan P0031.
 
-**A1 + B1**
+Retain berarti current implication telah diperiksa setelah perubahan dependency.
 
-Kemudian:
+## 18. Re-Derivation dan Revision
 
-**A2 + B1**
+Jika:
 
-menghasilkan:
+~~~text
+Re-derive
+↓
+Different substantive consequence
+↓
+Review
+~~~
 
-**X@State2**
+Untuk fully derived object, current representation dapat diperbarui sebagai hasil derivation baru.
 
-Ini tidak harus dianggap sebagai two independent principles.
+Untuk independent design object, review dapat menghasilkan:
 
-History menunjukkan perubahan derivation state.
+**Revision.**
 
-## 17. Re-derivation dan Retain
-
-Setelah parent change:
-
-**Re-derive**
-→ hasil sama
-
-Outcome dapat dicatat sebagai:
-
-**Retain**
-
-sejalan dengan P0031.
-
-Namun Retain di sini berarti current implication tetap dapat dipertahankan setelah derivation review.
-
-## 18. Re-derivation dan Revision
-
-Jika hasil baru berbeda:
-
-**Re-derive**
-→ **Review**
-→ **Revise X**
-
-jika X independent.
-
-Jika X hanya derived object:
-
-**Re-derive**
-→ **Update current derived representation**
-
-Tidak perlu memaksakan terminology revision jika tidak ada independent identity.
-
-## 19. Re-derivation dan Supersession
+## 19. Supersession
 
 Jika old implication tidak lagi dapat diturunkan:
 
-**X1**
-→ no longer derivable
-→ **Superseded / Retired**
+~~~text
+X1
+↓
+No longer derivable
+↓
+Superseded / Retired
+~~~
 
-Current system menggunakan X2 jika derivation baru menghasilkan consequence berbeda yang diterima.
+Current derivation dapat menghasilkan X2.
 
-Historical X1 tetap penting untuk traceability.
+X1 tetap dipertahankan dalam historical traceability bila diperlukan.
 
-## 20. Re-derivation dan Governance
+## 20. Promotion Changes the Case
 
-Governance role berbeda menurut object type.
+Jika X sebelumnya derived lalu dipromosikan menjadi independent Design Principle, parent change tidak lagi sekadar re-derivation.
 
-### Derived implication
+X sekarang memiliki identity sendiri.
+
+Maka:
+
+~~~text
+Parent Change
+↓
+Impact Review X
+↓
+Possible Revision / Supersession
+~~~
+
+Status object memengaruhi lifecycle semantics.
+
+## 21. Demotion
+
+Jika X ternyata tidak memiliki independent identity dan diturunkan menjadi derived implication, perubahan berikutnya kembali dapat diperlakukan sebagai re-derivation.
+
+Classification history perlu dapat ditelusuri.
+
+## 22. Governance by Object Type
+
+### Fully Derived Implication
 
 Governance terutama memeriksa:
 
@@ -330,7 +337,7 @@ Governance terutama memeriksa:
 - impact;
 - consistency.
 
-### Independent design object
+### Independent Design Object
 
 Governance juga memeriksa:
 
@@ -341,110 +348,114 @@ Governance juga memeriksa:
 - status;
 - acceptance.
 
-Ini konsisten dengan P0028–P0029 tentang differentiated governance.
+Dengan demikian governance intensity mengikuti independence object.
 
-## 21. Promotion Complicates the Case
+## 23. Decision Tree
 
-Jika X sebelumnya hanya derived object kemudian dipromosikan menjadi independent Design Principle, perubahan parent setelah promotion tidak lagi sekadar re-derivation.
+~~~text
+Parent berubah
+↓
+Apakah X dependent?
+├── Tidak → tidak ada automatic action
+└── Ya
+    ↓
+    Apakah X fully derived?
+    ├── Ya → Re-derive
+    │        ↓
+    │        Impact Review
+    │        ↓
+    │        Retain / Update / Invalidate / Retire
+    │
+    └── Tidak → Review independent identity
+             ↓
+             Possible Revision / Supersession
+~~~
 
-X sekarang memiliki identity sendiri.
+Ini merupakan working decision model.
 
-Maka:
+## 24. Boundary
 
-**Parent change → impact review X → possible revision**
+P0038 **tidak**:
 
-Ini menunjukkan bahwa object status memengaruhi lifecycle semantics.
+- menetapkan automatic propagation;
+- menetapkan automation teknis;
+- menjadikan semua downstream objects wajib direview;
+- menetapkan lifecycle teknis final;
+- atau mengubah derived implication menjadi Principle secara otomatis.
 
-## 22. Demotion
+Fokusnya adalah **membedakan re-derivation dan revision pada consequence yang bergantung pada Principles TUMBUH**.
 
-Sebaliknya, jika X ternyata tidak memiliki independent identity dan diturunkan kembali menjadi derived implication:
+## 25. Repository Destination
 
-Perubahan berikutnya dapat kembali diperlakukan sebagai re-derivation.
+Hasil P0038 diarahkan ke:
 
-Karena itu object classification harus dapat ditelusuri.
+**Principles → Design Principles → Design Implications → dependency / derivation / lifecycle traceability**
 
-## 23. Minimal Governance Rule
+Repository perlu dapat menelusuri:
 
-Working rule:
-
-> **Jika object sepenuhnya derived, parent change memicu re-derivation dan impact review. Jika object memiliki independent normative identity, parent change dapat memicu revision review.**
-
-Tidak semua parent change harus menghasilkan governance event yang sama.
-
-## 24. Decision Tree
-
-**Parent berubah?**
-
-→ Apakah X dependent?
-
-Jika tidak → tidak ada automatic action.
-
-Jika ya:
-
-→ Apakah X fully derived?
-
-Jika ya:
-→ re-derive
-→ impact review
-→ retain/update/retire.
-
-Jika tidak:
-→ review independent identity
-→ possible revision/supersession.
-
-## 25. Temuan
-
-1. Parent change tidak otomatis berarti revision atas composite implication.
-2. Fully derived implication lebih tepat mengalami re-derivation.
-3. Re-derivation berarti menghitung atau merumuskan kembali consequence dari current parent state.
-4. Impact review tetap diperlukan setelah re-derivation.
-5. Jika implication memiliki independent identity, parent change dapat memicu revision review.
-6. Formula change tidak selalu berarti meaning change.
-7. Scope dan condition parent change dapat mengubah derived applicability tanpa otomatis merevisi identity.
-8. Relationship change dapat memicu re-derivation.
-9. Evidence change harus dianalisis berdasarkan node yang terdampak.
-10. Parent change tidak boleh menghasilkan automatic propagation tanpa impact review.
-11. Historical derivation perlu dapat ditelusuri.
-12. Re-derivation dapat berakhir dengan Retain.
-13. Jika derivation tidak lagi valid, implication dapat direvisi, invalidated, atau retired.
-14. Promotion menjadi independent object mengubah lifecycle semantics.
-15. Demotion dapat mengembalikan implication ke derived lifecycle.
-16. Object classification menjadi penting bagi governance.
-
-## 26. Keputusan Sementara
-
-**PASS — PERUBAHAN PARENT PADA COMPOSITE DESIGN IMPLICATION YANG SEPENUHNYA DERIVED LEBIH TEPAT DIPERLAKUKAN SEBAGAI RE-DERIVATION + IMPACT REVIEW, BUKAN AUTOMATIC REVISION.**
-
-Working rule:
-
-> **Ketika parent principle, relationship, condition, atau basis reasoning berubah, TUMBUH perlu memeriksa kembali composite implication. Jika implication sepenuhnya derived, current implication dire-derive dari parent state terbaru. Jika hasilnya tetap valid, dapat Retain; jika berubah atau tidak lagi valid, perlu ditentukan outcome yang sesuai. Jika implication memiliki independent identity, perubahan tersebut dapat masuk ke revision lifecycle.**
-
-## 27. Implikasi bagi Repository
-
-Repository sebaiknya menyimpan dependency yang memungkinkan:
-
-- parent change detection;
-- re-derivation;
-- impact review;
-- current representation;
-- historical traceability.
+- parent state;
+- dependency;
+- derivation;
+- current implication;
+- historical implication;
+- review outcome.
 
 Belum diperlukan mekanisme teknis otomatis.
 
-Yang ditemukan adalah kebutuhan **dependency-aware governance**.
+## 26. Implikasi bagi TUMBUH
 
-## 28. Next Inquiry
+Working model:
 
-P0039 akan menguji:
+> **Parent changes should trigger dependency-aware re-derivation, not indiscriminate downstream rewriting.**
 
-> **Apakah perubahan pada satu Design Principle harus otomatis memicu review terhadap seluruh downstream implications, atau hanya implications yang memiliki dependency substantif?**
+Dengan demikian TUMBUH dapat menjaga coherence tanpa menciptakan governance overload.
 
-Pertanyaan ini mempersempit konsep impact analysis dan penting untuk mencegah governance overload.
+## 27. Temuan Sementara
 
-## Status
+1. Parent change tidak otomatis berarti revision.
+2. Fully derived implication lebih tepat mengalami re-derivation.
+3. Re-derivation berarti menghasilkan kembali consequence dari current parent state.
+4. Impact review tetap diperlukan.
+5. Jika derivation tetap valid, outcome dapat Retain.
+6. Jika derivation berubah, current derived representation dapat diperbarui.
+7. Jika X memiliki independent identity, parent change dapat memicu revision review.
+8. Formula change tidak selalu berarti meaning change.
+9. Scope, condition, relationship, dan evidence parent dapat memengaruhi derivation.
+10. Parent change tidak boleh menghasilkan automatic propagation tanpa dependency review.
+11. Historical derivation perlu dapat ditelusuri.
+12. Old implication dapat menjadi superseded atau retired jika tidak lagi derivable.
+13. Promotion menjadi independent object mengubah lifecycle semantics.
+14. Object classification penting untuk governance.
+15. Dependency-aware governance lebih tepat daripada blanket downstream review.
 
-**P0038 — selesai sebagai inquiry.**
+Temuan ini masih provisional.
 
-**Temuan utama:** Perubahan parent pada fully derived Composite Design Implication lebih tepat diperlakukan sebagai re-derivation dan impact review. Revision diperlukan jika implication memiliki independent identity atau hasil re-derivation menunjukkan perubahan substantif yang membutuhkan governance.
+## 28. Kesimpulan
 
-**Next inquiry:** P0039 — *Apakah Parent Change Harus Memicu Review Seluruh Downstream Implications atau Hanya yang Memiliki Dependency Substantif?*
+P0038 mendukung working rule:
+
+> **Ketika Parent Design Principle, relationship, condition, scope, atau basis reasoning berubah, Composite Design Implication perlu diperiksa kembali. Jika implication sepenuhnya derived, perubahan tersebut terutama merupakan re-derivation dan impact review. Jika hasilnya tetap valid, dapat Retain; jika tidak, current derivation perlu diperbarui atau dihentikan. Jika implication memiliki independent identity, perubahan dapat masuk ke revision lifecycle.**
+
+Dengan demikian:
+
+**Parent change → Re-derive → Impact Review → Outcome**
+
+bukan:
+
+**Parent change → Automatic Revision.**
+
+## 29. Next Inquiry
+
+> **Apakah perubahan pada satu Design Principle harus memicu review seluruh downstream implications, atau hanya implications yang memiliki dependency substantif?**
+
+P0039 akan menguji batas **dependency-aware impact analysis** agar perubahan pada Principles tidak menghasilkan review yang terlalu luas maupun terlalu sempit.
+
+## 30. Status Inquiry
+
+**Finding:** Parent change pada fully derived Composite Design Implication lebih tepat diperlakukan sebagai re-derivation + impact review.
+
+**Working conclusion:** Revision bergantung pada independent identity dan substantive change, bukan semata-mata karena parent berubah.
+
+**Boundary:** Mekanisme otomatis untuk dependency detection belum ditetapkan.
+
+**Open question:** Seberapa luas downstream impact review perlu dilakukan?
