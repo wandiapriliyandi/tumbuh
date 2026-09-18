@@ -4,7 +4,7 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0058  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
@@ -343,7 +343,19 @@ Materiality dapat berbeda antar-domain karena consequence berbeda, tanpa menguba
 
 ---
 
-## 17. Status Inquiry
+## 17. Repository Destination
+
+**Principles → Design Principles → Relational Traceability → Change Classification / Domain Extensions**
+
+Domain extensions diposisikan sebagai specialization dari common semantic framework, bukan classification system yang berdiri sendiri.
+
+## 18. Next Inquiry
+
+> **Bagaimana common framework dan domain extensions dapat dipelihara ketika struktur TUMBUH sendiri berubah, tanpa membuat traceability classification ikut rusak?**
+
+P0059 akan menguji dependency dan lifecycle antara common classification framework dan domain extensions.
+
+## 19. Status Inquiry
 
 **Finding:** Domain-specific extension harus menjadi specialization yang traceable ke common semantic framework, bukan independent substantive standard.
 
