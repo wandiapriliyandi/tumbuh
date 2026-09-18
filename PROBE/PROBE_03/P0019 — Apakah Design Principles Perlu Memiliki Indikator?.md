@@ -1,297 +1,211 @@
 # P0019 — Apakah Design Principles Perlu Memiliki Indikator?
 
-## Pertanyaan
+## Status
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0019  
+**Status:** Revised  
+**Type:** Design Principle–Indicator Boundary Inquiry
 
-**Apakah Design Principles perlu memiliki indikator, atau indikator hanya relevan untuk objek yang dinilai dalam Assessment Framework?**
+---
 
-P0018 menemukan bahwa **Indicator** secara kerja lebih dekat dengan tanda atau karakteristik yang dapat diamati, sedangkan **Design Criterion** digunakan untuk menguji conformity terhadap Design Principle.
+## 1. Object of Inquiry
+**Object of Inquiry:** Design Principles TUMBUH.
 
-Sumber struktur TUMBUH secara eksplisit menempatkan **Indicators** di dalam setiap Capacity, bersama Development Levels, Assessment Mapping, Intervention Mapping, dan Evidence. fileciteturn14file0L1-L38
+P0019 menguji apakah setiap Design Principle perlu memiliki Indicator, setelah P0018 membedakan Design Criterion, Indicator, dan Evidence.
 
-P0019 menguji apakah pola yang sama perlu diterapkan pada Design Principles.
+## 2. TUMBUH Question
+> **Apakah Design Principles TUMBUH perlu memiliki indikator sendiri, atau indikator hanya relevan ketika objeknya masuk ke Assessment Framework?**
 
-## 1. Titik Berangkat
+Pertanyaan ini penting agar Principles tetap operasional untuk desain tanpa berubah menjadi instrumen assessment.
 
-Dalam struktur Capacity Framework, Indicators merupakan bagian dari deskripsi capacity. Ini berbeda dari posisi Design Principles dalam arsitektur fundamental TUMBUH.
+## 3. Titik Berangkat dari Struktur TUMBUH
+Struktur Capacity Framework secara eksplisit menempatkan Indicators sebagai bagian dari struktur setiap Capacity, bersama Competencies, Behaviors, Development Levels, Assessment Mapping, Intervention Mapping, dan Evidence.
 
-Karena itu, keberadaan Indicators pada Capacity tidak otomatis membuktikan bahwa Design Principles juga harus memiliki Indicators.
+Namun keberadaan Indicator pada Capacity tidak otomatis berarti Design Principles harus memiliki struktur yang sama.
 
-Pertanyaan yang lebih tepat:
+Perbedaan objek harus dipertahankan:
 
-> **Apakah Design Principle membutuhkan tanda observabel yang disebut indicator, atau cukup memiliki design criteria dan evidence?**
-
-## 2. Indicator dan Design Principle Memiliki Objek Berbeda
-
-Untuk Capacity, indicator membantu menunjukkan karakteristik yang ingin dikembangkan atau diamati.
-
-Secara sederhana:
-
-**Capacity**
-→ characteristic
+~~~text
+CAPACITY
+→ characteristic to develop / observe
 → Indicator
-→ Evidence
 → Assessment
 
-Sedangkan untuk desain:
-
-**Design Principle**
+DESIGN PRINCIPLE
+→ design commitment
 → Design Implication
 → Design Criterion
-→ Evidence
-→ Design Evaluation
+→ Conformance
+~~~
 
-Perbedaan ini menunjukkan bahwa dua jalur tersebut tidak harus menggunakan vocabulary yang identik.
+## 4. Mengapa Indicator Tidak Otomatis Diperlukan?
+Design Principle bukan objek perkembangan manusia. Ia adalah commitment pengarah desain.
 
-## 3. Mengapa “Indicator” Bisa Mengacaukan Design Principle?
+Jika setiap Principle dipaksa memiliki Indicator, terdapat risiko:
+- indicator mengambil fungsi criterion;
+- Principles berubah menjadi checklist;
+- terminology Assessment masuk ke layer Principles;
+- atau indicator dianggap sebagai evidence padahal keduanya berbeda.
 
-Jika setiap Design Principle dipaksa memiliki indicator, istilah indicator dapat mulai mengambil fungsi criterion.
+Karena itu, tidak ada dasar untuk menjadikan Indicator sebagai komponen wajib setiap Design Principle.
 
-Misalnya:
+## 5. Design Criterion Lebih Langsung untuk Conformance
+Jika pertanyaan TUMBUH adalah apakah desain memenuhi Design Principle, rantai yang lebih langsung adalah:
 
-**Design Principle**
-> desain harus menjaga keterhubungan.
+~~~text
+Design Principle
+↓
+Design Implication
+↓
+Design Criterion
+↓
+Evidence / Test
+↓
+Conformance Judgment
+~~~
 
-Lalu dibuat:
+Criterion menjelaskan apa yang diperiksa. Evidence menunjukkan apa yang ditemukan. Indicator, bila digunakan, hanya membantu ketika memang diperlukan sebagai tanda observabel tambahan.
 
-**Indicator**
-> terdapat hubungan antar-komponen.
+## 6. Indicator Tetap Dapat Digunakan pada Level Desain
+P0019 tidak menyimpulkan bahwa istilah Indicator sama sekali dilarang pada desain.
 
-Namun pertanyaan evaluatif sebenarnya adalah:
+Dalam kondisi tertentu, design indicator dapat berguna jika terdapat karakteristik desain yang perlu diamati, indicator memberi informasi yang berbeda dari criterion, membantu pengumpulan evidence, dan tidak mengaburkan boundary dengan Assessment.
 
-> apakah hubungan tersebut memenuhi kondisi yang dituntut principle?
+Namun ini adalah penggunaan khusus, bukan field wajib setiap Principle.
 
-Ini lebih tepat menjadi **criterion**, bukan sekadar indicator.
-
-Jika kemudian evidence berupa diagram atau hasil test digunakan untuk membuktikan kondisi tersebut, indicator menjadi semakin sulit dibedakan dari evidence.
-
-Maka pemakaian istilah indicator pada level desain perlu berhati-hati.
-
-## 4. Indicator Tetap Mungkin Berguna pada Desain
-
-P0019 tidak menunjukkan bahwa indicator sama sekali tidak boleh digunakan pada level desain.
-
-Dalam kondisi tertentu, sebuah design indicator dapat menjadi tanda observabel yang membantu menunjukkan apakah karakteristik desain tertentu hadir.
-
-Misalnya:
-
-**Design Principle**
-→ mempertahankan keterhubungan
-
-**Design Criterion**
-→ hubungan relevan harus tetap terjaga
-
-**Possible Design Indicator**
-→ pada scenario tertentu, hubungan tersebut dapat diamati berfungsi.
-
-Namun ini merupakan **specialized usage** dan belum cukup alasan untuk menjadikan “Design Indicator” sebagai komponen wajib setiap Design Principle.
-
-## 5. Criterion Lebih Fundamental untuk Conformance
-
-Jika tujuan utama adalah menjawab:
-
-> “Apakah desain memenuhi Design Principle?”
-
-maka konsep yang lebih langsung adalah:
-
-**Principle → Criterion → Evidence → Judgment**
-
-Indicator dapat muncul sebagai bagian dari evidence architecture bila memang membantu.
-
-Dengan demikian:
-
-> **Criterion merupakan konsep yang lebih fundamental untuk conformity daripada indicator.**
-
-## 6. Mengapa Capacity Berbeda?
-
-Struktur Capacity Framework menunjukkan bahwa setiap capacity memiliki:
-
-- Definition;
-- Purpose;
-- Core Values;
-- Competencies;
-- Behaviors;
-- Indicators;
-- Development Levels;
-- Assessment Mapping;
-- Intervention Mapping;
-- Programs;
-- Methods;
-- Tools;
-- Evidence. fileciteturn14file0L20-L38
-
-Di sini indicator memiliki fungsi yang jelas karena capacity merupakan objek yang akan dikembangkan dan dinilai.
-
-Design Principle bukan objek perkembangan manusia. Ia merupakan komitmen desain.
-
-Maka tidak tepat melakukan copy-paste struktur Capacity ke Principles.
-
-## 7. Indicator vs Criterion
-
+## 7. Criterion dan Indicator Tidak Sama
 Working distinction:
 
-### Criterion
+**Design Criterion** — kondisi atau consequence desain yang menjadi dasar untuk menilai conformity terhadap Principle.
 
-> Kondisi yang digunakan sebagai dasar untuk menentukan conformity.
+**Design Indicator** — tanda atau karakteristik observabel yang membantu menunjukkan bahwa kondisi desain tertentu hadir.
 
-### Indicator
+Ringkasnya:
 
-> Tanda yang dapat diamati yang membantu menunjukkan keberadaan atau keadaan karakteristik tertentu.
+~~~text
+Criterion → basis of judgment
+Indicator → observable sign
+~~~
 
-Dengan demikian:
+Indicator dapat membantu evidence architecture, tetapi tidak menggantikan criterion.
 
-**Criterion = basis of judgment**
-
-**Indicator = observable sign**
-
-Indicator dapat membantu evidence, tetapi criterion tetap menentukan apa yang dinilai.
-
-## 8. Indicator vs Evidence
-
-Perbedaan juga perlu dipertahankan:
-
-**Indicator**
-→ apa yang dapat diamati.
-
-**Evidence**
-→ bahan aktual yang dikumpulkan untuk mendukung atau menantang claim.
+## 8. Indicator dan Evidence Juga Tidak Sama
+Indicator menunjuk apa yang dapat diamati. Evidence menunjuk bahan aktual yang menunjukkan apa yang ditemukan.
 
 Contoh abstrak:
 
-> Indicator: adanya mekanisme yang mempertahankan hubungan A-B.
+Indicator: mekanisme tertentu dapat diamati dalam desain.
 
-> Evidence: dokumentasi arsitektur, hasil scenario test, atau observasi penggunaan.
+Evidence: dokumentasi arsitektur atau hasil scenario test yang menunjukkan mekanisme tersebut.
 
-Evidence bukan indicator itu sendiri.
+## 9. Mengapa Capacity Berbeda?
+Capacity merupakan characteristic yang dikembangkan dan diamati. Karena itu Indicator mempunyai fungsi yang jelas dalam Capacity Framework.
 
-## 9. Uji Kebutuhan Indicator
+Design Principle memiliki objek berbeda: commitment desain yang harus dijaga.
 
-Sebuah Design Principle baru membutuhkan indicator jika:
+Struktur Capacity tidak boleh disalin secara mekanis ke Principles.
 
-1. terdapat karakteristik desain yang perlu diamati;
-2. indicator memberikan informasi yang berbeda dari criterion;
-3. indicator membantu pengumpulan evidence;
-4. istilah tersebut tidak menciptakan overlap dengan Assessment terminology;
-5. penggunaannya meningkatkan evaluability tanpa menambah complexity yang tidak perlu.
+## 10. Uji Kebutuhan Design Indicator
+Sebuah Design Principle hanya perlu menggunakan Indicator jika:
+1. terdapat karakteristik desain yang memang perlu diamati;
+2. Indicator memberikan informasi yang berbeda dari Design Criterion;
+3. Indicator membantu memperoleh atau mengorganisasikan evidence;
+4. penggunaannya tidak mencampur Design Principle dengan Assessment Indicator;
+5. manfaat observasional lebih besar daripada kompleksitas yang ditambahkan.
 
-Jika kelima kondisi tersebut tidak terpenuhi, Design Criterion + Evidence kemungkinan sudah cukup.
+Ini adalah working test, bukan scoring.
 
-## 10. Risiko Menyamakan Semua Struktur
+## 11. Risiko Structural Symmetry
+TUMBUH memiliki struktur internal berbeda untuk domain berbeda:
 
-TUMBUH memiliki banyak domain:
+~~~text
+Principles → Design Principles
+Capacity → Indicators
+Progression → Development Levels
+Assessment → Criteria / Rubrics / Scoring
+Implementation → Monitoring / Evaluation / Continuous Improvement
+~~~
 
-**Principles**
-→ Design
+Kesamaan field antar-domain bukan tujuan. Yang perlu dijaga adalah functional coherence.
 
-**Capacity**
-→ Indicators
+## 12. Apa yang Dibutuhkan agar Principle Tidak Terlalu Abstrak?
+Jika kekhawatirannya adalah Principles terlalu abstrak, solusi pertama bukan menambahkan Indicator.
 
-**Progression**
-→ Development Levels
+Solusi yang lebih langsung adalah memastikan:
 
-**Assessment**
-→ Rubrics, scoring, reporting, analytics
+~~~text
+Principle
+→ Design Implication
+→ Design Criterion
+→ Evidence / Test
+~~~
 
-**Implementation**
-→ Monitoring, Evaluation, Continuous Improvement. fileciteturn14file2L1-L30
+Jadi operationalizability tidak sama dengan indikatorisasi.
 
-Tidak semua domain membutuhkan vocabulary atau struktur internal yang sama.
+## 13. Boundary
+P0019 tidak:
+- menetapkan indicator TUMBUH tertentu;
+- membuat Design Indicator sebagai field wajib;
+- mendefinisikan Assessment Indicator secara final;
+- atau mengubah Principles menjadi instrumen assessment.
 
-Keseragaman repository bukan tujuan utama. Yang lebih penting adalah **functional coherence**.
+Fokusnya adalah menentukan apakah Indicator merupakan kebutuhan inheren Design Principle atau alat tambahan ketika observability memang diperlukan.
 
-## 11. Model Kerja yang Lebih Bersih
+## 14. Repository Destination
+Hasil P0019 diarahkan ke:
 
-Untuk Design Principles:
+**Principles → Design Principles → Design Implications / Criteria**
 
-**Design Principle**
-↓
-**Design Implication**
-↓
-**Design Criterion**
-↓
-**Evidence**
-↓
-**Conformance Judgment**
+Jika suatu design indicator diperlukan pada tahap berikutnya, hubungannya harus tetap dapat ditelusuri ke criterion dan evidence.
 
-Untuk Capacity:
+Tidak perlu menambahkan field Indicators pada setiap Design Principle berdasarkan P0019.
 
-**Capacity**
-↓
-**Competency / Behavior**
-↓
-**Indicator**
-↓
-**Evidence**
-↓
-**Assessment Judgment**
+## 15. Implication for TUMBUH
+Working model:
 
-Untuk Implementation:
+~~~text
+DESIGN PRINCIPLE
+       ↓
+DESIGN IMPLICATION
+       ↓
+DESIGN CRITERION
+       ↓
+EVIDENCE / TEST
+       ↓
+CONFORMANCE
+~~~
 
-**Objective / Requirement**
-↓
-**Evaluation Criterion / Indicator**
-↓
-**Evidence**
-↓
-**Evaluation**
-↓
-**Continuous Improvement**
+Indicator digunakan bila memberi fungsi observasional tambahan.
 
-Model ini menunjukkan bahwa istilah dapat berbeda karena objek dan fungsi berbeda.
-
-## 12. Temuan
-
-1. Sumber TUMBUH secara eksplisit menggunakan Indicators pada Capacity Framework. fileciteturn14file0L20-L38
-2. Keberadaan Indicator pada Capacity tidak otomatis berarti Design Principles harus memiliki Indicator.
-3. Design Criterion lebih langsung daripada Indicator untuk menguji conformity terhadap Design Principle.
-4. Indicator dapat digunakan pada desain dalam kondisi tertentu, tetapi tidak perlu menjadi komponen wajib.
-5. Indicator, criterion, dan evidence perlu tetap dibedakan.
-6. Struktur setiap domain TUMBUH tidak harus seragam.
+## 16. Temuan Sementara
+1. Indicators merupakan bagian eksplisit dari Capacity Framework TUMBUH.
+2. Keberadaan Indicator pada Capacity tidak otomatis berlaku pada Design Principles.
+3. Design Criterion lebih fundamental untuk menguji conformity terhadap Principle.
+4. Design Indicator dapat berguna pada kondisi tertentu tetapi tidak wajib.
+5. Criterion, Indicator, dan Evidence memiliki fungsi berbeda.
+6. Struktur antar-domain TUMBUH tidak harus simetris.
 7. Functional coherence lebih penting daripada structural symmetry.
+8. Operationalizability dapat dicapai melalui implication dan criterion tanpa wajib menambahkan indicator.
 
-## 13. Keputusan Sementara
+Temuan ini masih provisional.
 
-**PASS — DESIGN PRINCIPLES TIDAK WAJIB MEMILIKI INDICATOR.**
+## 17. Kesimpulan
+P0019 mendukung working rule:
 
-Working rule:
+> **Design Principles TUMBUH tidak wajib memiliki Indicator. Untuk conformity, Design Criterion merupakan mekanisme yang lebih fundamental; Design Indicator hanya digunakan bila memberikan fungsi observasional yang berbeda dan memang diperlukan.**
 
-> **Untuk Design Principles, Design Criterion merupakan mekanisme utama untuk menguji conformity. Design Indicator hanya digunakan bila memang memberikan fungsi observasional yang berbeda dan berguna, bukan sebagai struktur wajib.**
+Dengan demikian, tidak setiap Principle membutuhkan Indicator hanya karena Capacity memiliki Indicator.
 
-Dengan demikian, TUMBUH tidak perlu membuat pola:
+## 18. Next Inquiry
+> **Jika Design Principles tidak memiliki indikator wajib, bagaimana membuatnya cukup operasional untuk digunakan oleh perancang sistem tanpa berubah menjadi rules atau SOP?**
 
-**Setiap Principle → Indicators**
+P0020 akan menguji operationalizability Design Principles melalui design questions, implications, criteria, dan decision support.
 
-hanya karena Capacity Framework menggunakan Indicators.
+## 19. Status Inquiry
+**Finding:** Indicator tidak merupakan komponen inheren yang wajib pada setiap Design Principle.
 
-## 14. Implikasi bagi Repository
+**Working conclusion:** Design Criterion lebih fundamental untuk conformity; Indicator bersifat conditional dan supporting.
 
-Untuk sementara:
+**Boundary:** Tidak menetapkan indicator desain atau assessment indicator final.
 
-**Principles**
-→ Core Principles / Design Principles
-
-**Design evaluation**
-→ Design Implications / Criteria / Evidence
-
-**Capacity Framework**
-→ Indicators tetap dipertahankan sesuai struktur sumber
-
-**Assessment Framework**
-→ assessment criteria, instruments, rubrics, dan judgment
-
-Tidak perlu menambahkan **Design Indicators** sebagai field wajib pada setiap Design Principle.
-
-## 15. Next Inquiry
-
-Pertanyaan berikutnya:
-
-> **Jika Design Principles tidak memiliki indikator wajib, bagaimana memastikan Design Principles tidak menjadi terlalu abstrak untuk digunakan oleh perancang sistem?**
-
-P0020 akan menguji **operationalizability of Design Principles**: bagaimana prinsip diterjemahkan menjadi design questions, criteria, dan keputusan tanpa berubah menjadi rules atau SOP.
-
-## Status
-
-**P0019 — selesai sebagai inquiry.**
-
-**Temuan utama:** Indicator merupakan bagian eksplisit dari Capacity Framework TUMBUH, tetapi tidak otomatis diperlukan pada Design Principles. Untuk desain, Design Criterion lebih fundamental bagi conformity; Design Indicator hanya diperlukan jika memiliki fungsi observasional yang berbeda dan berguna.
-
-**Next inquiry:** P0020 — *Bagaimana membuat Design Principles cukup operasional untuk digunakan tanpa mengubahnya menjadi rules atau SOP?*
+**Open question:** Bagaimana membuat Design Principles cukup operasional tanpa menjadi rules atau SOP?
