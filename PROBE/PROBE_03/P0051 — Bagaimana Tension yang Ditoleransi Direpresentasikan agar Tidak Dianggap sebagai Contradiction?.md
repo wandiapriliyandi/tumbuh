@@ -4,10 +4,18 @@
 
 **Inquiry:** PROBE_03 — Principles  
 **P:** P0051  
-**Status:** Completed  
+**Status:** Revised  
 **Type:** Conceptual / Traceability / Governance Inquiry
 
 ---
+
+## Object of Inquiry
+
+**Object of Inquiry:** Representasi dan lifecycle tolerated tension dalam relational traceability Principles TUMBUH.
+
+## TUMBUH Question
+
+**Bagaimana tension yang ditoleransi harus direpresentasikan agar pada review berikutnya tidak keliru dianggap sebagai contradiction atau unresolved failure?**
 
 ## 1. Pertanyaan
 
@@ -310,5 +318,7 @@ Tolerated tension tidak berarti tension harus dihapus, dan tidak berarti tension
 
 **Working representation:**  
 `Relationship → Scope/Condition → Consequence → Evidence → Reasoning → Disposition → Review Trigger → History`
+
+**Repository destination:** Principles → Design Principles → Relational Traceability → Tension / Coherence / Disposition
 
 **Open question:** Apakah tolerated tension membutuhkan lifecycle dan review mechanism yang sama dengan relationship biasa, atau perlu status khusus karena memiliki governance consequence yang berbeda?
