@@ -1,34 +1,55 @@
 # P0002 — Dari Mana Sebuah Principle TUMBUH Memperoleh Dasar dan Legitimasi?
 
-## Pertanyaan
+## Status
 
-**Jika Principles berada setelah Philosophy, dari mana sebuah Principle TUMBUH memperoleh dasar dan legitimasi? Apakah setiap Principle harus diturunkan dari Philosophy, atau dapat pula lahir dari evidence dan kebutuhan desain sistem?**
-
----
-
-## 1. Mengapa pertanyaan ini penting?
-
-P0001 menghasilkan hipotesis kerja bahwa Principle merupakan komitmen pengarah yang menjembatani Philosophy dengan keputusan sistem.
-
-Jika demikian, muncul persoalan berikutnya:
-
-> Apakah hubungan tersebut berarti setiap Principle harus merupakan deduksi langsung dari Philosophy?
-
-Jika jawabannya ya, Principles berisiko menjadi sekadar pengulangan Philosophy.
-
-Jika jawabannya tidak, muncul pertanyaan lain:
-
-> Sejauh mana evidence, ilmu perkembangan, pengalaman implementasi, atau kebutuhan desain dapat ikut membentuk Principle?
-
-Pertanyaan ini penting karena PROBE bukan sekadar menghasilkan pernyataan yang terdengar masuk akal. PROBE harus membantu membangun rumusan yang dapat ditelusuri dan dipertanggungjawabkan. Sumber PROBE menempatkan alur inquiry sebagai pertanyaan → penyelidikan → evidence → analisis → kritik → sintesis → rumusan, lalu hasilnya menjadi bahan bagi repository. fileciteturn8file0
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0002  
+**Status:** Revised  
+**Type:** Principles Formation Inquiry
 
 ---
 
-## 2. Titik berangkat: posisi Principles
+## 1. Object of Inquiry
 
-Arsitektur konseptual TUMBUH menempatkan:
+**Object of Inquiry:** Principles TUMBUH.
 
-```text
+P0002 mengkaji **asal-usul dan dasar legitimasi candidate Principle TUMBUH** setelah P0001 mengidentifikasi Principles sebagai komitmen normatif yang memberi arah dan batas bagi Sistem TUMBUH.
+
+P0002 tidak sedang membangun teori umum tentang legitimasi prinsip.
+
+---
+
+## 2. TUMBUH Question
+
+> **Jika Principles berfungsi menjembatani Philosophy dengan keputusan sistem, dari mana sebuah candidate Principle TUMBUH memperoleh dasar yang cukup untuk dirumuskan dan dipertahankan sebagai Principle?**
+
+---
+
+## 3. Mengapa Pertanyaan Ini Diperlukan?
+
+P0001 menghasilkan working definition:
+
+> **Principle TUMBUH adalah komitmen normatif yang memberi arah dan batas bagi perumusan serta pengambilan keputusan dalam Sistem TUMBUH.**
+
+Jika demikian, sebuah Principle tidak cukup hanya terdengar baik atau relevan.
+
+Kita perlu mengetahui:
+
+- dari mana commitment tersebut berasal;
+- apa yang membuatnya relevan bagi TUMBUH;
+- bagaimana hubungannya dengan Philosophy;
+- apakah evidence dapat berperan;
+- dan bagaimana kebutuhan desain sistem dapat memunculkan candidate Principle.
+
+Pertanyaan ini diperlukan agar PROBE_03 tidak berubah menjadi proses memilih pernyataan yang menarik lalu menamainya “Principle TUMBUH”.
+
+---
+
+## 4. Titik Berangkat dari Arsitektur TUMBUH
+
+Arsitektur TUMBUH menempatkan Principles setelah Philosophy:
+
+~~~text
 PHILOSOPHY
     ↓
 PRINCIPLES
@@ -40,279 +61,349 @@ PROGRESSION
 ASSESSMENT
     ↓
 INTERVENTION
-```
-
-Urutan ini menunjukkan bahwa Principles memiliki posisi sebagai penghubung antara landasan pemikiran dan bentuk sistem berikutnya.
-
-Namun urutan tersebut **tidak dengan sendirinya membuktikan bahwa seluruh Principles merupakan deduksi logis langsung dari Philosophy**.
-
-Itu harus diuji.
-
----
-
-## 3. Tiga sumber pembentukan Principle
-
-Dari pertanyaan ini, dapat dibedakan setidaknya tiga kemungkinan sumber:
-
-### A. Philosophy
-
-Philosophy memberikan worldview dan pemahaman fundamental yang menjadi arah TUMBUH.
-
-Jika suatu Principle bertentangan dengan Philosophy, maka terjadi masalah koherensi fundamental.
-
-Karena itu, Philosophy dapat berfungsi sebagai **batas dan sumber orientasi** bagi Principles.
-
-### B. Evidence
-
-Evidence dapat menunjukkan bahwa suatu cara tertentu dalam memahami perkembangan, belajar, assessment, intervention, atau perubahan mempunyai konsekuensi tertentu bagi desain sistem.
-
-Evidence karena itu dapat berkontribusi pada **justifikasi atau penyempurnaan** Principle.
-
-Namun evidence tidak otomatis menjadi Principle.
-
-Temuan empiris menjawab apa yang ditemukan dalam kondisi tertentu; Principle menjawab komitmen pengarah apa yang seharusnya digunakan TUMBUH ketika membuat keputusan.
-
-### C. System Design Need
-
-TUMBUH adalah sistem, bukan sekadar kumpulan proposisi filosofis.
-
-Karena itu, ketika Philosophy diterjemahkan ke dalam sistem nyata, muncul kebutuhan desain: bagaimana menjaga konsistensi, bagaimana mengambil keputusan, bagaimana menghubungkan komponen, bagaimana merespons perkembangan, dan bagaimana menjaga agar implementasi tidak menyimpang dari arah fundamental.
-
-Kebutuhan desain dapat memunculkan kandidat Principle.
-
-Tetapi kandidat tersebut tetap harus diuji terhadap Philosophy dan evidence yang relevan.
-
----
-
-## 4. Model hubungan yang lebih tepat
-
-Dengan demikian, hubungan pembentukan Principle lebih tepat dipahami sebagai:
-
-```text
-             PHILOSOPHY
-                  │
-                  ↓
-             ORIENTASI
-                  │
-       ┌──────────┼──────────┐
-       ↓          ↓          ↓
-   EVIDENCE   DESIGN NEED   EXPERIENCE
-       │          │          │
-       └──────────┼──────────┘
-                  ↓
-          PRINCIPLE CANDIDATE
-                  ↓
-        COHERENCE + CRITIQUE
-                  ↓
-         PRINCIPLE FORMULATION
-                  ↓
-              TUMBUH
-```
-
-Ini merupakan **model kerja hasil sintesis P0002**, bukan struktur final yang sudah ditetapkan repository.
-
----
-
-## 5. Mengapa Philosophy tetap menjadi batas penting?
-
-Sumber struktur TUMBUH menempatkan Philosophy sebagai bagian pertama dari arsitektur Fundamental dan Principles sesudahnya. fileciteturn8file1
-
-Posisi ini memberi alasan kuat untuk memperlakukan Philosophy sebagai **constraint tingkat tertinggi** dalam formulasi Principles.
-
-Artinya, sebuah Principle tidak cukup hanya:
-
-- berguna;
-- didukung pengalaman;
-- populer dalam pendidikan; atau
-- menghasilkan desain yang praktis.
-
-Ia juga harus konsisten dengan pandangan dasar yang menjadi identitas TUMBUH.
-
-Jika tidak, Principles justru dapat menarik Core Model ke arah yang bertentangan dengan fondasi sistem.
-
----
-
-## 6. Mengapa Philosophy saja tidak cukup?
-
-Sebaliknya, Philosophy tidak selalu memberikan jawaban desain yang cukup spesifik.
-
-Sebuah worldview dapat mengatakan sesuatu yang sangat mendasar tentang manusia, pendidikan, atau perubahan. Namun ketika TUMBUH harus menentukan:
-
-- bagaimana perkembangan dipahami;
-- bagaimana bukti perkembangan digunakan;
-- bagaimana intervensi dipilih;
-- bagaimana sistem memberi ruang bagi konteks;
-- atau bagaimana komponen sistem saling berhubungan,
-
-dibutuhkan reasoning tambahan.
-
-Di sinilah evidence dan kebutuhan desain mempunyai tempat.
-
-Maka hubungan yang lebih masuk akal bukan:
-
-```text
-Philosophy
     ↓
-semua Principles
-```
+IMPLEMENTATION
+~~~
 
-melainkan:
+Urutan ini mendukung pemahaman bahwa Principles mempunyai hubungan dengan Philosophy.
 
-```text
-Philosophy
-    ↓
-arah + batas
-    ↓
-reasoning
-    ↑
-evidence + design requirements
-    ↓
-Principle
-```
+Namun urutan tersebut **belum membuktikan** bahwa setiap Principle harus merupakan deduksi langsung dari Philosophy.
+
+Karena itu P0002 menguji bentuk hubungan tersebut.
 
 ---
 
-## 7. Principle sebagai hasil translasi
+## 5. Apakah Philosophy Menjadi Sumber Principle?
 
-P0002 menghasilkan hipotesis bahwa Principle dapat dipandang sebagai **hasil translasi dari komitmen fundamental ke kebutuhan keputusan sistem**.
+Working hypothesis P0002:
 
-Translasi berarti bukan sekadar menyalin kalimat Philosophy.
+> **Philosophy merupakan sumber orientasi dan batas fundamental bagi Principles TUMBUH.**
 
-Contohnya secara abstrak:
+Artinya, candidate Principle perlu dapat diperiksa terhadap fondasi Philosophy.
 
-```text
-Philosophical commitment
-        ↓
-Apa konsekuensinya bagi sistem?
-        ↓
-Apa yang harus dijaga?
-        ↓
-Bagaimana keputusan harus diarahkan?
-        ↓
-Principle
-```
+Jika sebuah candidate Principle bertentangan dengan komitmen fundamental TUMBUH, maka terdapat masalah koherensi yang harus diselesaikan sebelum candidate tersebut dapat diterima.
 
-Karena itu, sebuah Principle yang baik seharusnya memiliki **genealogy**:
+Namun “berasal dari Philosophy” tidak harus berarti:
 
-```text
-philosophical basis
-      +
-relevant evidence
-      +
-system reasoning
+~~~text
+kalimat Philosophy
       ↓
-principle
-```
+disalin
+      ↓
+Principle
+~~~
+
+Yang lebih masuk akal untuk diuji adalah:
+
+~~~text
+Philosophy
+    ↓
+commitment / implication
+    ↓
+system question
+    ↓
+Principle candidate
+~~~
+
+Dengan demikian, Principles dapat merupakan **hasil translasi**, bukan sekadar parafrase Philosophy.
 
 ---
 
-## 8. Legitimasi tidak sama dengan satu jenis bukti
+## 6. Apakah Evidence Dapat Menjadi Dasar?
 
-Pertanyaan “apa yang melegitimasi Principle?” ternyata tidak memiliki satu jawaban tunggal.
+Evidence dapat berperan dalam inquiry Principles.
 
-Legitimasi sebuah Principle perlu dilihat dari beberapa sisi:
+Evidence dapat:
+
+- mendukung reasoning;
+- menunjukkan konsekuensi suatu pilihan;
+- menguji candidate Principle;
+- menunjukkan counterexample;
+- atau memperlihatkan bahwa sebuah rumusan perlu diperbaiki.
+
+Namun perlu dibedakan:
+
+~~~text
+Evidence
+≠
+Principle
+~~~
+
+Evidence memberi dasar pengetahuan bagi reasoning.
+
+Principle menyatakan **commitment normatif TUMBUH**.
+
+Karena itu, temuan empiris atau hasil penelitian tidak otomatis berubah menjadi Principle hanya karena evidence tersebut kuat.
+
+---
+
+## 7. Apakah Kebutuhan Desain Sistem Dapat Melahirkan Candidate Principle?
+
+TUMBUH bukan hanya kumpulan gagasan filosofis. Ia merupakan sistem yang harus diterjemahkan ke dalam Core Model dan framework berikutnya.
+
+Karena itu, proses desain dapat menemukan kebutuhan yang belum cukup dijelaskan oleh Philosophy secara langsung.
+
+Misalnya secara abstrak:
+
+~~~text
+Philosophy
+    ↓
+diterjemahkan ke dalam sistem
+    ↓
+muncul persoalan desain
+    ↓
+dibutuhkan commitment pengarah
+    ↓
+candidate Principle
+~~~
+
+Candidate tersebut tidak otomatis sah.
+
+Ia tetap perlu diuji:
+
+- apakah konsisten dengan Philosophy;
+- apakah benar-benar diperlukan oleh TUMBUH;
+- apakah mempunyai fungsi pengarah;
+- apakah tidak sekadar menjadi Rule, Method, Program, atau keputusan lokal;
+- dan apakah dapat ditelusuri reasoning-nya.
+
+---
+
+## 8. Model Pembentukan Candidate Principle
+
+Dari inquiry P0002, model kerja yang lebih tepat adalah:
+
+~~~text
+                 PHILOSOPHY
+                     ↓
+              arah + batas
+                     ↓
+              SYSTEM QUESTION
+                     ↑
+          ┌──────────┴──────────┐
+          │                     │
+       EVIDENCE            DESIGN NEED
+          │                     │
+          └──────────┬──────────┘
+                     ↓
+             CANDIDATE PRINCIPLE
+                     ↓
+              INQUIRY + CRITIQUE
+                     ↓
+              PRINCIPLE FORMULATION
+~~~
+
+Model ini **bukan struktur final repository**.
+
+Ia hanya menunjukkan bagaimana beberapa sumber reasoning dapat bertemu dalam pembentukan candidate Principle.
+
+---
+
+## 9. Dasar ≠ Legitimasi
+
+P0002 menemukan bahwa dua pertanyaan perlu dipisahkan.
+
+### Dasar
+
+> **Apa yang menjadi alasan atau sumber bagi candidate Principle?**
+
+Dasarnya dapat berasal dari:
+
+- Philosophy;
+- kebutuhan sistem;
+- evidence;
+- atau kombinasi beberapa hal tersebut.
+
+### Legitimasi
+
+> **Mengapa candidate tersebut cukup layak dipertahankan sebagai Principle TUMBUH?**
+
+Jadi:
+
+~~~text
+SOURCE / BASIS
+       ↓
+REASONING
+       ↓
+CANDIDATE
+       ↓
+VALIDATION
+       ↓
+LEGITIMACY
+~~~
+
+Sebuah candidate dapat memiliki dasar tetapi belum memiliki justifikasi yang cukup untuk diterima.
+
+---
+
+## 10. Dimensi Pengujian Sementara
+
+P0002 menemukan beberapa dimensi yang tampaknya relevan untuk menguji candidate Principle:
 
 ### Coherence
 
-Apakah ia konsisten dengan Philosophy dan Principles lain?
+Apakah candidate konsisten dengan Philosophy TUMBUH?
 
 ### Relevance
 
-Apakah ia benar-benar menjawab kebutuhan sistem TUMBUH?
+Apakah candidate menjawab kebutuhan nyata Sistem TUMBUH?
 
-### Evidence
+### Design Consequence
 
-Apakah klaim yang menjadi dasar reasoning memiliki dukungan sumber yang memadai?
+Apakah candidate mempunyai konsekuensi terhadap cara sistem dirumuskan atau dirancang?
 
-### Consequence
+### Justification
 
-Apakah Principle tersebut menghasilkan implikasi desain yang masuk akal dan dapat dipahami?
+Apakah reasoning yang menghubungkan dasar dengan candidate dapat dijelaskan?
 
 ### Distinctiveness
 
-Apakah ia benar-benar diperlukan, atau hanya mengulang Principle lain?
+Apakah candidate benar-benar berbeda dari commitment yang sudah ada?
 
 ### Traceability
 
-Apakah proses pembentukannya dapat ditelusuri dari pertanyaan, sumber, reasoning, hingga keputusan?
+Apakah asal-usul dan reasoning candidate dapat ditelusuri?
 
-Belum ada alasan pada P0002 untuk menjadikan enam hal tersebut sebagai **rubric final**. Untuk sementara, semuanya adalah dimensi yang perlu diuji lebih lanjut.
-
----
-
-## 9. Implikasi bagi PROBE 03
-
-P0002 memberikan batas penting bagi inquiry berikutnya.
-
-Kita tidak boleh melakukan:
-
-```text
-cari teori
-    ↓
-ambil pernyataan menarik
-    ↓
-jadikan Principle
-```
-
-Juga tidak cukup:
-
-```text
-baca Philosophy
-    ↓
-parafrase
-    ↓
-jadikan Principle
-```
-
-Sebaliknya:
-
-```text
-pertanyaan sistem
-      ↓
-Philosophy
-      +
-evidence
-      +
-design reasoning
-      ↓
-candidate principle
-      ↓
-uji
-      ↓
-formulasi
-```
-
-Dengan demikian, PROBE menjaga agar Principles tidak berubah menjadi **daftar kutipan yang diberi label prinsip**.
+Enam dimensi ini **belum merupakan rubric penerimaan final**. P0002 hanya menetapkannya sebagai bahan inquiry berikutnya.
 
 ---
 
-## 10. Temuan sementara
+## 11. Uji Counterfactual
+
+Salah satu cara untuk menguji relevansi candidate Principle adalah pertanyaan:
+
+> **Jika commitment ini tidak digunakan dalam TUMBUH, apakah arah atau desain sistem berubah secara substantif?**
+
+Jika jawabannya tidak, maka perlu dipertanyakan apakah candidate tersebut benar-benar memiliki fungsi sebagai Principle.
+
+Jika jawabannya ya, perubahan tersebut perlu dijelaskan.
+
+Counterfactual tidak membuktikan bahwa sebuah candidate benar. Ia membantu menunjukkan **design consequence** dan relevansinya bagi TUMBUH.
+
+---
+
+## 12. Apa yang Tidak Cukup?
+
+P0002 menolak dua jalan pintas:
+
+### Jalan pintas pertama
+
+~~~text
+menemukan pernyataan dalam teori
+        ↓
+menganggapnya Principle TUMBUH
+~~~
+
+### Jalan pintas kedua
+
+~~~text
+mengambil kalimat Philosophy
+        ↓
+memparafrase
+        ↓
+menganggapnya Principle
+~~~
+
+Keduanya melewati pertanyaan yang lebih penting:
+
+> **Apa commitment TUMBUH yang sedang dirumuskan, mengapa commitment itu diperlukan, dan apa konsekuensinya terhadap sistem?**
+
+---
+
+## 13. Temuan Sementara
 
 P0002 menghasilkan empat temuan kerja:
 
-1. **Philosophy merupakan sumber orientasi dan batas fundamental bagi Principles.**
-2. **Evidence dapat memberi dukungan dan konsekuensi bagi formulasi Principle, tetapi evidence tidak otomatis menjadi Principle.**
-3. **Kebutuhan desain sistem dapat melahirkan kandidat Principle, tetapi kandidat tersebut harus diuji terhadap Philosophy dan evidence.**
-4. **Legitimasi Principle bersifat multi-dimensi: coherence, relevance, evidence, consequence, distinctiveness, dan traceability merupakan kandidat dimensi pengujian.**
+1. **Philosophy memberi orientasi dan batas fundamental bagi Principles TUMBUH.**
+2. **Evidence dapat mendukung, menguji, atau memperbaiki reasoning Principle, tetapi evidence tidak otomatis menjadi Principle.**
+3. **Kebutuhan desain sistem dapat menghasilkan candidate Principle ketika Philosophy belum secara langsung menentukan pilihan desain tertentu.**
+4. **Dasar sebuah Principle perlu dibedakan dari legitimasi penerimaannya; candidate membutuhkan reasoning dan pengujian tambahan.**
 
-Keempat temuan ini masih bersifat **provisional**.
-
----
-
-## 11. Pertanyaan yang muncul untuk P0003
-
-Jika Principle dapat dibentuk melalui pertemuan Philosophy, evidence, dan kebutuhan desain, maka pertanyaan berikutnya adalah:
-
-> **Bagaimana membedakan Principle yang benar-benar fundamental bagi TUMBUH dari Principle yang hanya merupakan prinsip desain lokal atau keputusan implementasi?**
-
-Pertanyaan ini diperlukan sebelum kita mulai membangun arsitektur Principles.
+Temuan ini masih provisional.
 
 ---
 
-## Status
+## 14. Boundary
 
-**P0002 — selesai sebagai inquiry.**
+P0002 **tidak** sedang:
 
-**Temuan utama:** Principles tidak seharusnya dipahami sebagai deduksi mekanis dari Philosophy. Philosophy memberi orientasi dan batas; evidence serta kebutuhan desain dapat berkontribusi pada pembentukan dan pengujian kandidat Principle.
+- menetapkan daftar Core Principles;
+- menentukan Principle mana yang sudah diterima;
+- membangun governance Principles;
+- menentukan hierarchy antar-Principles;
+- atau mengembangkan teori legitimasi secara umum.
 
-**Next inquiry:** P0003 — *Bagaimana membedakan Principle fundamental, design principle, dan keputusan implementasi?*
+Fokusnya hanya:
+
+> **memahami dari mana candidate Principle TUMBUH memperoleh dasar dan apa yang membuat dasar tersebut perlu diuji sebelum menjadi rumusan Principle.**
+
+---
+
+## 15. Repository Destination
+
+Hasil P0002 diarahkan ke:
+
+**Principles → dasar pembentukan dan legitimasi Principles**
+
+Temuan ini akan digunakan untuk inquiry berikutnya tentang **perbedaan level Principles dalam TUMBUH**, khususnya ketika sebuah commitment bersifat fundamental bagi sistem versus ketika ia muncul sebagai kebutuhan desain.
+
+---
+
+## 16. Implication for TUMBUH
+
+P0002 memberikan implikasi penting:
+
+> **Principles TUMBUH tidak boleh dibentuk hanya dengan menyalin Philosophy, dan tidak boleh pula dibentuk hanya dari evidence atau kebutuhan desain secara terpisah.**
+
+Candidate Principle perlu ditempatkan dalam hubungan:
+
+~~~text
+PHILOSOPHY
+     +
+SYSTEM NEED
+     +
+RELEVANT EVIDENCE
+     ↓
+REASONING
+     ↓
+CANDIDATE PRINCIPLE
+~~~
+
+Hubungan ini menjaga agar Principles tetap:
+
+- berakar pada identitas TUMBUH;
+- responsif terhadap kebutuhan sistem;
+- terbuka terhadap evidence;
+- dan dapat ditelusuri alasan pembentukannya.
+
+---
+
+## 17. Kesimpulan
+
+P0002 memperjelas bahwa **asal-usul Principle dan legitimasi Principle bukan pertanyaan yang sama**.
+
+Philosophy memberi orientasi dan batas fundamental.
+
+Evidence dapat mendukung dan menguji reasoning.
+
+Kebutuhan desain dapat memunculkan candidate ketika sistem membutuhkan commitment pengarah.
+
+Namun tidak satu pun dari ketiganya secara otomatis menghasilkan Principle yang diterima.
+
+Working model P0002:
+
+> **Philosophy + kebutuhan sistem + evidence → reasoning → candidate Principle → pengujian.**
+
+Karena itu pertanyaan berikutnya perlu kembali ke struktur substantif Principles TUMBUH:
+
+> **Apakah TUMBUH memang membutuhkan lebih dari satu jenis Principle—misalnya commitment yang fundamental bagi identitas sistem dan commitment yang terutama mengarahkan desain—atau seluruh Principles seharusnya berada pada satu level?**
+
+---
+
+## 18. Status Inquiry
+
+**Finding:** Candidate Principle membutuhkan dasar yang dapat ditelusuri dan reasoning yang menghubungkannya dengan kebutuhan Sistem TUMBUH.
+
+**Working distinction:** Dasar pembentukan Principle tidak sama dengan legitimasi penerimaan Principle.
+
+**Next inquiry:** P0003 — *Apakah TUMBUH membutuhkan pembedaan antara Principle yang fundamental bagi sistem dan Principle yang berfungsi terutama sebagai pengarah desain?*
