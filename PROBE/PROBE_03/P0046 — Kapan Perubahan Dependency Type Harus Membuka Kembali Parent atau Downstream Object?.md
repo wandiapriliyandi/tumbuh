@@ -1,52 +1,55 @@
 # P0046 — Kapan Perubahan Dependency Type Harus Membuka Kembali Parent atau Downstream Object?
 
-## Pertanyaan
+## Status
 
-**Kapan perubahan Dependency Type cukup ditangani sebagai revision pada relationship, dan kapan perubahan tersebut harus membuka kembali Parent atau Downstream Object?**
+**Inquiry:** PROBE_03 — Principles  
+**P:** P0046  
+**Status:** Revised  
+**Type:** Relationship Revision and Object Reopening Inquiry
 
-P0045 menemukan bahwa Dependency Type merupakan semantic property relationship yang dapat berevolusi. Perubahan type tidak otomatis mengubah identity object.
+---
 
-P0046 menguji batasnya:
+## 1. Object of Inquiry
 
-> **Kapan semantic change pada relationship menjadi cukup material sehingga identity, meaning, scope, atau justification object perlu ditinjau kembali?**
+**Object of Inquiry:** Batas antara relationship revision dan reopening Design Principle atau downstream object ketika Dependency Type berubah.
 
-## 1. Titik Berangkat
+P0045 menemukan bahwa Dependency Type adalah semantic property relationship yang dapat berevolusi. P0046 menguji kapan perubahan tersebut cukup ditangani pada relationship dan kapan perlu membuka kembali object.
 
-Perubahan:
+## 2. TUMBUH Question
 
-**P1 —[supporting]→ I1**
+> **Kapan perubahan Dependency Type cukup ditangani sebagai revision pada relationship, dan kapan perubahan tersebut harus membuka kembali Parent atau Downstream Object?**
 
-menjadi:
+## 3. Titik Berangkat
 
-**P1 —[constraining]→ I1**
+Contoh:
 
-dapat tetap berada pada level relationship.
+~~~text
+P1 —[supporting]→ I1
+↓
+P1 —[constraining]→ I1
+~~~
 
-Tetapi perubahan tersebut mungkin juga menunjukkan bahwa pemahaman sebelumnya tentang P1 atau I1 tidak lagi memadai.
+Perubahan dapat berhenti pada level relationship.
 
-Maka perlu dibedakan:
+Namun perubahan juga dapat menunjukkan bahwa pemahaman terhadap P1 atau I1 tidak lagi memadai.
 
-**Relationship Revision**
+Karena itu:
 
-dari:
+**Relationship Revision ≠ Object Reopening**
 
-**Object Reopening.**
+## 4. Tidak Ada Automatic Cascade
 
-## 2. Tidak Ada Automatic Cascade
+P0044–P0045 tidak mendukung:
 
-P0044 dan P0045 tidak mendukung aturan:
-
-> setiap perubahan dependency type otomatis membuka parent dan downstream.
-
-Cascade seperti itu terlalu luas.
+> setiap type change otomatis membuka parent dan downstream.
 
 Working direction:
 
-**Type Change → Semantic Impact Analysis → Targeted Review → Reopen Object only if material.**
+**Type Change → Semantic Impact Analysis → Targeted Review → Reopen Object only if material**
 
-## 3. Apa yang Dimaksud Reopen?
+## 5. Apa yang Dimaksud Reopen?
 
-Reopen berarti object yang sebelumnya Accepted/Active kembali masuk ke proses review karena terdapat alasan substantif untuk memeriksa kembali:
+Reopen berarti object yang sebelumnya Accepted/Active kembali masuk review karena terdapat alasan substantif untuk memeriksa kembali:
 
 - identity;
 - commitment;
@@ -59,94 +62,62 @@ Reopen berarti object yang sebelumnya Accepted/Active kembali masuk ke proses re
 
 Reopen bukan berarti object dianggap salah.
 
-## 4. Type Change yang Tidak Memerlukan Reopen
+## 6. Type Change yang Tidak Memerlukan Reopen
 
-Tidak perlu membuka kembali object jika perubahan hanya:
+Object dapat tetap dipertahankan jika perubahan hanya:
 
 - terminology normalization;
 - clarification tanpa perubahan meaning;
 - metadata correction;
-- semantic label correction yang tidak mengubah object consequence;
-- relationship documentation improvement.
+- semantic label correction tanpa perubahan consequence;
+- documentation improvement.
 
-Dalam kasus ini:
+Working result:
 
-**Relationship revised → object retained.**
+**Relationship revised → Object retained**
 
-## 5. Type Change yang Mungkin Membuka Downstream
+## 7. Type Change yang Dapat Membuka Downstream
 
-Downstream object perlu ditinjau jika type change mengubah:
+Downstream object perlu ditinjau jika type change mengubah secara material:
 
 - derivation;
 - design implication;
 - design constraint;
 - applicability;
-- design criteria;
+- design criterion;
 - acceptance rationale.
 
 Contoh:
 
 **supporting → derivational**
 
-dapat menunjukkan bahwa I1 sebenarnya memiliki derivation yang berbeda dari yang sebelumnya dipahami.
+dapat menunjukkan bahwa I1 memiliki derivation berbeda dari yang sebelumnya dipahami.
 
-Maka I1 perlu targeted review.
+## 8. Type Change yang Dapat Membuka Parent
 
-## 6. Type Change yang Mungkin Membuka Parent
-
-Parent perlu ditinjau jika type change menunjukkan bahwa:
+Parent dapat perlu ditinjau jika relationship change menunjukkan:
 
 - commitment parent ditafsirkan terlalu luas;
 - scope parent ternyata berbeda;
-- design function parent tidak sesuai dengan relationship;
+- design function parent tidak konsisten;
 - relationship mengungkap ambiguity dalam parent;
-- consequence relationship menunjukkan conflict dengan parent identity.
+- consequence relationship bertentangan dengan identity-relevant meaning parent.
 
-Dalam kasus seperti ini relationship revision menjadi signal untuk parent review.
-
-## 7. Downstream Reopen karena Identity
-
-Jika perubahan type menunjukkan bahwa downstream object tidak lagi memiliki identity/meaning yang sama, downstream harus dibuka kembali.
-
-Contoh:
-
-I1 sebelumnya dianggap sebagai implementation implication yang hanya didukung P1.
-
-Setelah review ternyata I1 sepenuhnya diturunkan dari P1.
-
-Jika derivation tersebut mengubah definition atau design function I1, identity review diperlukan.
-
-Namun perubahan relationship sendiri bukan bukti otomatis bahwa identity berubah.
-
-## 8. Parent Reopen karena Identity
-
-Hal serupa berlaku pada parent.
-
-Jika relationship change menunjukkan bahwa P1:
-
-- memiliki commitment berbeda;
-- memiliki scope berbeda;
-- memiliki design function berbeda;
-
-maka P1 dapat perlu dibuka kembali.
-
-Tetapi jika hanya relationship semantics yang salah diklasifikasikan, P1 tetap.
+Relationship revision menjadi **signal**, bukan automatic proof, untuk parent review.
 
 ## 9. Meaning Test
 
 Working test:
 
-> **Apakah perubahan dependency type mengubah meaning object ketika object dibaca tanpa relationship tersebut?**
+> **Apakah perubahan dependency type mengubah meaning object ketika object dibaca dalam konteks TUMBUH?**
 
-Jika tidak, object mungkin cukup dipertahankan.
+Jika tidak, relationship revision mungkin cukup.
 
-Jika iya, object perlu review.
-
-Meaning tidak harus berubah seluruhnya; perubahan material pada interpretasi juga dapat cukup untuk reopen.
+Jika iya secara material, object perlu review.
 
 ## 10. Identity Test
 
-Pertanyaan:
+Periksa:
 
 1. Apakah commitment tetap?
 2. Apakah design function tetap?
@@ -154,9 +125,9 @@ Pertanyaan:
 4. Apakah meaning tetap?
 5. Apakah object masih menjawab fungsi sistem yang sama?
 
-Jika semuanya tetap, relationship revision kemungkinan cukup.
+Jika identity-relevant properties tetap, relationship revision kemungkinan cukup.
 
-Jika salah satu identity-relevant property berubah secara material, reopen perlu dipertimbangkan.
+Jika ada perubahan material, reopen perlu dipertimbangkan.
 
 ## 11. Derivation Test
 
@@ -170,35 +141,35 @@ Jika tidak:
 
 dapat diperlukan.
 
-Ini memperluas temuan P0038 bahwa parent change pada derived implication dapat membutuhkan re-derivation.
+Ini memperluas P0038 tentang re-derivation setelah parent change.
 
 ## 12. Scope Test
 
-Jika type change terjadi karena scope:
+Jika relationship berubah dari:
 
 **Universal → Conditional**
 
-maka perlu diperiksa apakah scope object sendiri berubah.
+periksa apakah scope object sendiri berubah.
 
-Jika hanya relationship menjadi conditional:
+Jika hanya relationship yang menjadi conditional:
 
-**Relationship revision**
+**Relationship Revision**
 
-Jika applicability object juga berubah:
+Jika applicability object berubah:
 
-**Object reopen.**
+**Object Reopen**
 
 ## 13. Consequence Test
 
 Tanyakan:
 
-> **Apakah consequence terhadap downstream berubah secara material?**
+> **Apakah consequence terhadap object berubah secara material?**
 
 Misalnya:
 
 **Supporting**
 
-hanya memengaruhi rationale.
+terutama memengaruhi rationale.
 
 Sedangkan:
 
@@ -206,124 +177,104 @@ Sedangkan:
 
 dapat mengubah design space.
 
-Jika consequence baru mengubah design criteria atau architecture, downstream review mungkin diperlukan.
+Jika consequence baru memengaruhi design criteria atau architecture, downstream review mungkin diperlukan.
 
 ## 14. Acceptance Rationale Test
 
-Acceptance P0029 membutuhkan sufficient epistemic justification.
+P0029 menempatkan sufficient justification sebagai bagian dari acceptance.
 
-Jika type change menunjukkan bahwa acceptance rationale sebelumnya menggunakan relationship semantics yang salah, acceptance dapat perlu dibuka kembali.
+Jika type change menunjukkan acceptance rationale sebelumnya bergantung pada semantics yang salah, acceptance perlu ditinjau.
 
-Namun jika rationale tetap valid setelah type correction, object dapat retained.
+Jika rationale tetap valid setelah correction, object dapat retained.
 
 ## 15. Governance Consequence Test
 
-Jika relationship type menentukan:
+Jika type menentukan:
 
 - review trigger;
 - lifecycle action;
 - impact propagation;
 - acceptance condition;
 
-maka type change dapat memengaruhi governance.
+type change dapat memerlukan governance review.
 
-Dalam kasus ini setidaknya governance review diperlukan.
-
-Object reopen tetap bergantung pada consequence.
+Tetapi object reopen tetap bergantung pada actual consequence.
 
 ## 16. Evidence Requirement Test
 
-Type change dapat mengubah evidence requirement.
+Type change dapat mengubah evidence/reasoning requirement.
 
 Contoh:
 
 **supporting → necessary**
 
-mungkin memerlukan argumentasi necessity yang lebih kuat.
+dapat memerlukan argumentasi necessity yang lebih kuat.
 
-Jika evidence baru menunjukkan object tidak lagi cukup justified, object harus dibuka kembali.
+Jika evidence baru menunjukkan justification tidak lagi sufficient:
 
-Jika evidence hanya memperkuat existing reasoning, object dapat retained.
+**Object Reopen**
+
+Jika evidence hanya memperkuat reasoning:
+
+**Object Retain**
 
 ## 17. Parent dan Downstream Tidak Simetris
 
-Type change tidak harus membuka kedua sisi.
+Type change dapat menghasilkan:
 
-Kemungkinan:
+- relationship review only;
+- parent reopen;
+- downstream reopen;
+- both reopen;
+- no object reopen.
 
-**Relationship review only**
-
-atau:
-
-**Parent reopen**
-
-atau:
-
-**Downstream reopen**
-
-atau:
-
-**Both reopen**
-
-atau:
-
-**No object reopen.**
-
-Ini penting agar governance tidak menjadi cascade otomatis.
+Koneksi saja tidak cukup untuk menentukan keduanya harus dibuka.
 
 ## 18. Relationship-Only Revision
 
-Kasus paling sederhana:
+Kasus:
 
-**Type salah, object benar.**
+> **Type salah, object benar.**
 
 Maka:
 
-**Relationship revision → Confirmed → Object retained.**
+**Relationship Revision → Confirmed → Object Retained**
 
 ## 19. Downstream-Only Reopen
 
-Kasus:
+Jika type change menunjukkan derivation downstream salah:
 
-**Relationship type menunjukkan downstream derivation salah.**
-
-Maka:
-
-**Relationship revision → Downstream reopen.**
+**Relationship Revision → Downstream Reopen**
 
 Parent dapat tetap.
 
 ## 20. Parent-Only Reopen
 
-Kasus:
+Jika type change menunjukkan scope atau meaning parent tidak konsisten:
 
-**Relationship type menunjukkan scope/meaning parent tidak konsisten.**
+**Relationship Revision → Parent Reopen**
 
-Maka:
-
-**Relationship revision → Parent reopen.**
-
-Downstream dapat tetap jika setelah parent review tidak ada material impact.
+Downstream dapat tetap jika tidak ada material downstream impact.
 
 ## 21. Both Reopen
 
-Jika relationship change menunjukkan kedua object memiliki interpretasi yang saling bergantung dan keduanya terdampak, keduanya dapat dibuka kembali.
+Jika reasoning menunjukkan kedua object memiliki interpretasi yang saling bergantung dan keduanya terdampak material, keduanya dapat dibuka kembali.
 
-Tetapi ini harus berdasarkan evidence/reasoning, bukan karena keduanya terhubung.
+Namun basisnya harus substantive, bukan sekadar karena keduanya connected.
 
 ## 22. No Reopen
 
-Jika perubahan hanya:
+Perubahan yang hanya:
 
 - vocabulary;
 - formatting;
 - non-substantive clarification;
 
-tidak perlu reopen.
+tidak memerlukan object reopen.
 
 ## 23. Materiality
 
-Reopen threshold sebaiknya berbasis materiality.
+Reopen threshold perlu berbasis materiality.
 
 Working questions:
 
@@ -333,17 +284,17 @@ Working questions:
 - Apakah derivation terpengaruh?
 - Apakah consequence terpengaruh?
 - Apakah acceptance rationale terpengaruh?
-- Apakah governance action terpengaruh?
+- Apakah governance consequence terpengaruh?
 
-Semakin banyak substantive consequences, semakin kuat alasan reopen.
+Tidak ada dasar untuk numeric threshold.
 
 ## 24. Reopen ≠ Revision
 
-P0030 dan P0031 membantu membedakan:
+P0030–P0031 membedakan trigger dari outcome.
 
 **Trigger → Reopen**
 
-kemudian hasil review dapat:
+Kemudian hasil review dapat:
 
 - Retain;
 - Revise;
@@ -353,210 +304,266 @@ kemudian hasil review dapat:
 - Supersede;
 - Reject.
 
-Jadi type change dapat menjadi trigger tanpa menentukan hasil.
+Type change dapat menjadi trigger tanpa menentukan hasil.
 
 ## 25. Reopen ≠ Rejection
 
-Membuka kembali object tidak berarti object ditolak.
+Membuka kembali object hanya berarti:
 
-Ini hanya berarti:
+> **previous acceptance perlu diperiksa kembali karena terdapat material changed interpretation atau information.**
 
-> **previous acceptance perlu diperiksa kembali karena terdapat material new information atau changed interpretation.**
+Object belum dianggap salah atau ditolak.
 
-## 26. Reopen dan Historical Traceability
+## 26. Historical Traceability
 
-Jika object dibuka kembali karena relationship type berubah, history perlu mencatat:
+Jika object dibuka kembali, history perlu mencatat:
 
-- relationship type lama;
+- type lama;
 - type baru;
 - alasan perubahan;
 - affected object;
 - review result;
 - final disposition.
 
-Ini mencegah hubungan antara relationship revision dan object decision hilang.
+Ini menghubungkan relationship revision dengan object decision.
 
 ## 27. Impact Boundary
 
-P0039 menetapkan bahwa impact propagation harus berhenti ketika tidak ada lagi substantive consequence.
+P0039 tetap berlaku:
 
-Untuk type change:
+**Changed Relationship → Direct Review Candidates → Materiality → Conditional Transitive Review**
 
-**Relationship**
-→ direct parent/downstream review candidate
-→ transitive review only if material consequence continues.
+Propagation berhenti ketika substantive consequence berhenti.
 
-Tidak semua connected object perlu diperiksa.
+## 28. Relationship Centrality Bukan Reopen Trigger
 
-## 28. Relationship Centrality Bukan Alasan Reopen
+Jumlah dependency bukan dasar untuk membuka object.
 
-Sebuah principle mungkin memiliki banyak dependency.
+Object dengan banyak relationship tidak otomatis membutuhkan review lebih luas.
 
-Jumlah hubungan tidak menentukan apakah object harus dibuka kembali.
+Yang menjadi dasar adalah:
 
-Yang menentukan adalah:
-
-**substantive consequence.**
-
-Ini mencegah high-connectivity object menjadi automatic governance bottleneck.
+> **substantive consequence**
 
 ## 29. Type Change dan Core Principle
 
-Jika dependency type change menunjukkan conflict dengan Core Principle, maka Design Principle dapat perlu dibuka kembali.
+Jika relationship type change menunjukkan conflict dengan Core Principle, Design Principle dapat perlu dibuka kembali.
 
-Namun Core Principle tidak otomatis ikut dibuka.
+Core Principle tidak otomatis ikut dibuka.
 
-P0040–P0045 menekankan dependency-aware propagation.
-
-Jika conflict ternyata menyentuh identity atau normative commitment Core Principle, barulah review Core Principle dapat dipertimbangkan.
+Core Principle hanya menjadi review candidate jika evidence/reasoning menunjukkan conflict menyentuh identity atau normative commitment-nya.
 
 ## 30. Type Change dan Design Principle
 
-Design Principle paling mungkin dibuka ketika relationship change menunjukkan:
+Design Principle paling mungkin dibuka kembali ketika relationship change menunjukkan:
 
 - commitment tidak konsisten;
 - design function berubah;
 - scope berubah;
-- relationship menjadi essential terhadap principle meaning.
+- relationship ternyata essential terhadap meaning Principle.
 
-Tetapi relationship error saja tidak cukup.
+Relationship classification error saja tidak cukup.
 
 ## 31. Type Change dan Design Implication
 
-Design Implication lebih sensitif terhadap dependency type karena ia sering merupakan downstream derived object.
+Design Implication lebih sensitif terhadap type change ketika relationship menyentuh:
 
-Jika type change menyentuh derivation atau design consequence, implication perlu targeted review.
+- derivation;
+- design consequence;
+- criteria;
+- applicability.
 
-## 32. Acceptance Graph
+Karena itu targeted review pada implication dapat lebih tepat daripada automatic parent reopen.
 
-Jika nantinya TUMBUH menggunakan structured dependency representation, impact analysis dapat berjalan:
+## 32. Acceptance Impact Model
 
-**Changed Relationship**
-→ **Parent / Downstream candidates**
-→ **Materiality test**
-→ **Reopen decision**
+Working model:
 
-Bukan:
+~~~text
+Relationship Type Change
+↓
+Semantic Impact Analysis
+↓
+Affected Object Candidates
+↓
+Materiality Test
+↓
+Relationship-Only / Targeted Reopen / Broader Review
+↓
+Review Outcome
+~~~
 
-**Changed Relationship**
-→ **reopen all connected objects.**
+Ini menjaga separation antara relationship semantics dan object lifecycle.
 
 ## 33. Minimal Reopen Criteria
 
 Working rule:
 
-> **Object dibuka kembali jika perubahan dependency type memberikan credible indication bahwa identity, meaning, scope, derivation, justification, applicability, atau governance consequence object tersebut mungkin telah berubah secara material.**
+> **Object dibuka kembali jika perubahan Dependency Type memberikan credible indication bahwa identity, meaning, scope, derivation, justification, applicability, atau governance consequence object mungkin telah berubah secara material.**
 
-“Credible indication” penting.
+“Credible indication” berarti terdapat reasoning yang cukup untuk membuka review.
 
-Tidak perlu menunggu terbukti salah sebelum review.
-
-Tetapi suspicion tanpa substantive basis juga tidak cukup.
+Suspicion tanpa substantive basis tidak cukup.
 
 ## 34. Review Depth
 
-Tidak semua reopen memiliki kedalaman sama.
-
 ### Lightweight Review
 
-Untuk semantic clarification.
+Untuk terminology atau semantic clarification.
 
 ### Targeted Review
 
-Untuk scope, consequence, atau derivation.
+Untuk scope, consequence, derivation, atau acceptance rationale.
 
 ### Full Re-review
 
 Jika identity, foundational commitment, atau acceptance basis berubah secara material.
 
-Tidak ada dasar untuk menentukan numeric threshold.
+Tidak ada numeric threshold.
 
 ## 35. Decision Tree
 
-Working decision tree:
+~~~text
+Dependency Type Changed?
+        │
+        ├─ No → No specific action
+        │
+        └─ Yes
+             ↓
+      Only terminology/metadata?
+        │
+        ├─ Yes → Relationship update
+        │
+        └─ No
+             ↓
+      Underlying relationship still same?
+        │
+        ├─ No → Replacement/Reclassification
+        │
+        └─ Yes
+             ↓
+      Material object impact?
+        │
+        ├─ No → Relationship revision + retain object
+        │
+        └─ Yes
+             ↓
+      Identify affected side(s)
+        │
+        ├─ Parent
+        ├─ Downstream
+        └─ Both
+             ↓
+      Targeted Reopen
+~~~
 
-**Dependency Type Changed?**
+## 36. Boundary
 
-→ Tidak  
-→ Tidak ada action khusus.
+P0046 **tidak**:
 
-→ Ya  
-**Apakah hanya terminology/metadata?**
+- menetapkan numeric reopen threshold;
+- membuat automatic cascade;
+- menganggap reopen sebagai rejection;
+- mewajibkan kedua sisi relationship dibuka;
+- atau menetapkan workflow governance teknis.
 
-→ Ya → Relationship update.
+Fokusnya adalah **boundary antara relationship revision dan object reopening dalam Principles TUMBUH**.
 
-→ Tidak  
-**Apakah underlying relationship tetap sama?**
+## 37. Repository Destination
 
-→ Tidak → Relationship replacement/reclassification.
+Hasil P0046 diarahkan ke:
 
-→ Ya  
-**Apakah object meaning/identity/scope/derivation/justification/governance terpengaruh secara material?**
+**Principles → Design Principles → Dependency / Relationship → Impact / Reopening / Traceability**
 
-→ Tidak → Relationship revision + retain object.
-
-→ Ya → Targeted reopen affected object(s).
-
-## 36. Temuan
-
-1. Dependency type change tidak otomatis membuka parent atau downstream.
-2. Relationship revision dan object reopening adalah dua keputusan berbeda.
-3. Reopen diperlukan jika terdapat credible indication of material object impact.
-4. Meaning, identity, scope, derivation, justification, applicability, dan governance consequence merupakan trigger utama.
-5. Parent dan downstream dapat dibuka secara independen.
-6. Tidak semua type change membutuhkan PROBE baru.
-7. Reopen tidak sama dengan rejection.
-8. Reopen adalah trigger; hasil review dapat retain, revise, conditionalize, merge, split, supersede, atau reject.
-9. Materiality harus menentukan kedalaman review.
-10. Relationship centrality bukan alasan untuk automatic reopen.
-11. Impact propagation harus berhenti ketika substantive consequence berhenti.
-12. Core Principle tidak otomatis ikut terbuka ketika Design Principle relationship berubah.
-13. Design Implication relatif sensitif terhadap derivation/consequence changes.
-14. Historical traceability perlu menghubungkan relationship change dengan object review.
-15. Tidak ada dasar untuk numeric reopen threshold.
-16. Semantic clarification dapat ditangani dengan lightweight review.
-17. Full re-review hanya diperlukan jika impact menyentuh identity atau acceptance basis secara material.
-
-## 37. Keputusan Sementara
-
-**PASS — PERUBAHAN DEPENDENCY TYPE TIDAK OTOMATIS MEMBUKA PARENT ATAU DOWNSTREAM OBJECT. OBJECT PERLU DIBUKA KEMBALI HANYA JIKA PERUBAHAN TYPE MEMBERIKAN CREDIBLE INDICATION BAHWA IDENTITY, MEANING, SCOPE, DERIVATION, JUSTIFICATION, APPLICABILITY, ATAU GOVERNANCE CONSEQUENCE OBJECT TERPENGARUH SECARA MATERIAL.**
-
-Working model:
-
-**Type Change**
-→ **Semantic Impact Analysis**
-→ **Materiality**
-→ **Targeted Reopen if Needed**
-→ **Review Outcome**
-
-## 38. Implikasi bagi Repository
-
-Repository perlu memisahkan event:
+Repository perlu dapat membedakan:
 
 **Relationship Type Changed**
 
-dari decision:
+dari:
 
 **Object Reopened**
 
-dan hasil:
+dan dari:
 
-**Retain / Revise / Conditionalize / Merge / Split / Supersede / Reject**
+**Review Outcome**
 
-Ini memungkinkan governance memiliki audit trail yang jelas tanpa automatic cascade.
+Contoh:
 
-## 39. Next Inquiry
+~~~text
+Relationship:
+Old Type → New Type
+Reason
+Impact
 
-P0047 akan menguji:
+Object:
+Reopen?
+Affected side
+Review result
+Final disposition
+~~~
 
-> **Jika relationship type berubah dan hanya salah satu object yang dibuka kembali, bagaimana menentukan boundary impact agar object lain yang tetap Accepted tetap konsisten?**
+## 38. Implikasi bagi TUMBUH
 
-Ini membawa inquiry dari **reopen decision** menuju **impact boundary dan consistency management**.
+Working rule:
 
-## Status
+> **Dependency Type change menjadi alasan untuk object review hanya ketika terdapat credible indication of material impact terhadap identity, meaning, scope, derivation, justification, applicability, atau governance consequence.**
 
-**P0046 — selesai sebagai inquiry.**
+Dengan demikian:
 
-**Temuan utama:** Relationship type change hanya menjadi alasan untuk reopen object ketika ada credible indication of material impact terhadap identity, meaning, scope, derivation, justification, applicability, atau governance consequence. Tidak ada automatic cascade.
+**Relationship Semantics** dapat berubah secara lokal.
 
-**Next inquiry:** P0047 — *Bagaimana Menentukan Boundary Impact agar Object yang Tidak Dibuka Kembali Tetap Konsisten?*
+**Object Lifecycle** hanya berubah ketika material impact terbukti cukup untuk membuka review.
+
+## 39. Temuan Sementara
+
+1. Type change tidak otomatis membuka parent/downstream.
+2. Relationship revision dan object reopening merupakan keputusan berbeda.
+3. Reopen membutuhkan credible indication of material impact.
+4. Identity, meaning, scope, derivation, justification, applicability, dan governance consequence adalah trigger utama.
+5. Parent dan downstream dapat dibuka secara independen.
+6. Type correction dapat selesai pada relationship level.
+7. Derivation change lebih mungkin memicu downstream review.
+8. Scope/meaning inconsistency dapat memicu parent review.
+9. Both reopen hanya jika kedua sisi terdampak material.
+10. Reopen tidak sama dengan rejection.
+11. Reopen adalah trigger; outcome tetap dapat Retain, Revise, Conditionalize, Merge, Split, Supersede, atau Reject.
+12. Relationship centrality bukan reopen trigger.
+13. Core Principle tidak otomatis ikut terbuka.
+14. Design Implication relatif sensitif terhadap derivation dan consequence change.
+15. Historical traceability perlu menghubungkan relationship change dan object review.
+16. Tidak ada dasar untuk numeric reopen threshold.
+17. Review depth dapat proportional terhadap materiality.
+18. Impact propagation tetap mengikuti P0039.
+19. Tidak ada automatic version cascade.
+
+Temuan ini masih provisional.
+
+## 40. Kesimpulan
+
+P0046 mendukung:
+
+> **Perubahan Dependency Type tidak otomatis mengubah lifecycle object. Relationship revision cukup jika object identity, meaning, scope, derivation, justification, applicability, dan governance consequence tetap substantively intact.**
+
+Jika terdapat credible indication bahwa salah satu aspek tersebut berubah secara material:
+
+> **Object dibuka kembali untuk targeted review.**
+
+Working model:
+
+**Type Change → Semantic Impact Analysis → Materiality → Targeted Reopen if Needed → Review Outcome**
+
+## 41. Next Inquiry
+
+> **Jika hanya salah satu object yang dibuka kembali setelah Dependency Type berubah, bagaimana menentukan boundary impact agar object lain yang tetap Accepted tetap konsisten?**
+
+P0047 akan menguji **impact boundary dan consistency management** setelah selective reopening.
+
+## 42. Status Inquiry
+
+**Finding:** Type change dapat ditangani pada relationship level jika object tetap substantively intact.
+
+**Working conclusion:** Reopen ditentukan oleh credible indication of material object impact, bukan oleh keberadaan relationship atau perubahan type semata.
+
+**Boundary:** Governance workflow dan technical implementation belum ditetapkan.
+
+**Open question:** Bagaimana menjaga consistency ketika hanya sebagian object dibuka kembali?
