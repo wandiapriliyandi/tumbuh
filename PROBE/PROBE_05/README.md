@@ -8,13 +8,13 @@ PROBE 05 mengkaji **Progression Sistem TUMBUH**.
 
 Progression tidak langsung dipahami sebagai urutan usia, kelas, semester, jenjang, atau daftar level. Inquiry harus menguji apa yang sebenarnya berubah ketika seseorang tumbuh, bagaimana perubahan itu dikenali, bagaimana progression berhubungan dengan capacity, serta bagaimana ia diterjemahkan ke assessment, intervention, implementation, dan graduation.
 
-Struktur repository TUMBUH menempatkan **Progression Framework** dengan ruang kajian Development Stages, Development Levels, Learning Progression, Mastery Progression, Growth Milestones, dan Graduation Standards. Pada Capacity Framework juga terdapat Development Levels, sehingga hubungan capacity–progression menjadi persoalan penting yang perlu dikaji. fileciteturn1file0
+Struktur repository TUMBUH menempatkan **Progression Framework** dengan ruang kajian Development Stages, Development Levels, Learning Progression, Mastery Progression, Growth Milestones, dan Graduation Standards. Pada Capacity Framework juga terdapat Development Levels, sehingga hubungan capacity–progression menjadi persoalan penting yang perlu dikaji.
 
 ---
 
 ## 2. Posisi PROBE 05
 
-Nomor PROBE mengikuti perjalanan inquiry, bukan hierarki konseptual TUMBUH. PROBE adalah ruang inquiry yang menghasilkan kajian, argumentasi, sintesis, dan rumusan bagi repository TUMBUH. fileciteturn1file3
+Nomor PROBE mengikuti perjalanan inquiry, bukan hierarki konseptual TUMBUH. PROBE adalah ruang inquiry yang menghasilkan kajian, argumentasi, sintesis, dan rumusan bagi repository TUMBUH.
 
 ```
 PROBE 05
@@ -78,7 +78,7 @@ Pertanyaan turunan awal:
 - Kapan pola progression menunjukkan kebutuhan intervention?
 - Bagaimana progression diterjemahkan ke learning, mentoring, coaching, program, dan praktik harian?
 
-Pertanyaan tersebut adalah **peta awal**, bukan daftar final. Pertanyaan berikutnya harus lahir dari temuan P sebelumnya. fileciteturn1file12
+Pertanyaan tersebut adalah **peta awal**, bukan daftar final. Pertanyaan berikutnya harus lahir dari temuan P sebelumnya.
 
 ---
 
@@ -134,19 +134,13 @@ Diagram ini **bukan model final**; ia harus diuji oleh inquiry.
 
 ## 6. Hubungan Progression dan Assessment
 
-Assessment Framework TUMBUH mencakup philosophy, architecture, model, instruments, observation, self assessment, peer assessment, mentor assessment, rubrics, scoring, reporting, dan analytics. fileciteturn1file1
+Assessment Framework TUMBUH mencakup philosophy, architecture, model, instruments, observation, self assessment, peer assessment, mentor assessment, rubrics, scoring, reporting, dan analytics.
 
 Karena itu perlu diuji:
 
 > **Apakah assessment hanya mengukur posisi seseorang pada progression, atau menjadi bagian dari proses memahami dan memfasilitasi progression?**
 
 Progression tidak boleh otomatis berubah menjadi tabel skor.
-
-Literatur developmental assessment menunjukkan bahwa perkembangan dapat dipahami sebagai perubahan kompetensi dari waktu ke waktu dan menggunakan progression/progress map sebagai kerangka untuk mengetahui kondisi saat ini serta apa yang diperlukan untuk bergerak lebih lanjut. citeturn0search5
-
-Systems inquiry juga dapat berjalan iteratif dan non-linear: hasil satu tahap dapat mengubah framing dan pertanyaan berikutnya. citeturn0search1turn0search2
-
-Temuan eksternal tersebut adalah **bahan pembanding**, bukan otomatis model Progression TUMBUH.
 
 ---
 
@@ -251,9 +245,9 @@ Apa yang berubah dalam pemahaman atau desain TUMBUH setelah P tersebut?
 
 Sesuai metodologi PROBE:
 
-> **Pertanyaan boleh berkembang; objek kajian tetap menjadi jangkar.** fileciteturn1file5
+> **Pertanyaan boleh berkembang; objek kajian tetap menjadi jangkar.**
 
-Jika pertanyaan hanya menarik secara teoritis tetapi tidak membantu memahami atau merumuskan progression TUMBUH, inquiry tidak perlu diteruskan. fileciteturn1file9
+Jika pertanyaan hanya menarik secara teoritis tetapi tidak membantu memahami atau merumuskan progression TUMBUH, inquiry tidak perlu diteruskan.
 
 ---
 
@@ -281,7 +275,7 @@ PROGRESSION DECISION
 TUMBUH REPOSITORY
 ```
 
-Traceability bukan hanya daftar sumber. Ia harus menunjukkan bagaimana evidence dan reasoning mempengaruhi rumusan TUMBUH. fileciteturn1file8
+Traceability bukan hanya daftar sumber. Ia harus menunjukkan bagaimana evidence dan reasoning mempengaruhi rumusan TUMBUH.
 
 ---
 
@@ -331,7 +325,7 @@ IMPLIKASI BAGI TUMBUH
 PERTANYAAN BERIKUTNYA
 ```
 
-Jumlah P tidak ditentukan sebelumnya. PROBE berhenti ketika inquiry sudah cukup untuk menghasilkan pemahaman dan rumusan repository yang dibutuhkan, bukan ketika seluruh teori tentang progression telah dibahas. fileciteturn1file12
+Jumlah P tidak ditentukan sebelumnya. PROBE berhenti ketika inquiry sudah cukup untuk menghasilkan pemahaman dan rumusan repository yang dibutuhkan, bukan ketika seluruh teori tentang progression telah dibahas.
 
 ---
 
@@ -367,6 +361,6 @@ P pertama dimulai dari:
 
 ## 17. Acuan Metodologis
 
-PROBE 05 mengikuti metodologi PROBE mengenai Object of Inquiry, TUMBUH Question, boundary, emergent questioning, drift check, traceability, repository destination, dan prinsip bahwa inquiry berhenti ketika TUMBUH telah memperoleh jawaban yang dibutuhkan. fileciteturn1file3turn1file6
+PROBE 05 mengikuti metodologi PROBE mengenai Object of Inquiry, TUMBUH Question, boundary, emergent questioning, drift check, traceability, repository destination, dan prinsip bahwa inquiry berhenti ketika TUMBUH telah memperoleh jawaban yang dibutuhkan.
 
-Struktur repository TUMBUH menjadi konteks awal untuk memahami posisi Progression Framework dan hubungannya dengan Capacity, Assessment, Intervention, dan Implementation. fileciteturn1file0turn1file1turn1file2
+Struktur repository TUMBUH menjadi konteks awal untuk memahami posisi Progression Framework dan hubungannya dengan Capacity, Assessment, Intervention, dan Implementation.
