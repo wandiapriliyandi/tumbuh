@@ -1,320 +1,112 @@
-# Institutional Ecology
+# 03 — Ekologi Asrama dan Lembaga (Institutional Ecology)
 
-**Status:** CONCEPTUAL / DESIGNED — bagian dari Growth Ecology
-
-## Apa itu Institutional Ecology?
-
-**Institutional Ecology** menjelaskan bagaimana lembaga menjadi bagian dari lingkungan pertumbuhan manusia.
-
-Pertanyaan sederhananya:
-
-> **Bagaimana kondisi yang diciptakan oleh lembaga ikut membentuk ruang tempat santri dan pendidik bertumbuh?**
-
-Dalam TUMBUH, lembaga bukan hanya gedung, jadwal, atau kumpulan program. Lembaga adalah lingkungan yang memiliki aturan, kebiasaan, tata kelola, budaya, relasi, dan cara mengatur pengalaman sehari-hari.
-
-Karena itu, ketika pertumbuhan seseorang dipahami, kondisi lembaga dapat menjadi bagian dari konteks yang perlu diperhatikan.
+**Status:** SPESIFIKASI KONSEPTUAL RESMI / MODEL INTI TUMBUH v2.0.0  
+**Layer:** `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY`
 
 ---
 
-## 1. Lembaga sebagai lingkungan pertumbuhan
+## 1. Apa itu Ekologi Asrama dan Lembaga?
 
-Lembaga dapat membentuk kondisi tempat pertumbuhan berlangsung melalui:
+**Ekologi Asrama dan Lembaga (*Institutional Ecology*) menjelaskan bagaimana sistem tatanan pondok pesantren—mulai dari aturan, jadwal 24 jam, tata ruang fisik, hingga budaya kepemimpinan—ikut membentuk iklim tempat santri dan guru bertumbuh.**
 
-- kebijakan;
-- tata tertib dan aturan;
-- pengelolaan waktu;
-- organisasi kegiatan;
-- budaya interaksi;
-- pola kepemimpinan;
-- dukungan kepada guru dan musyrif;
-- mekanisme menangani masalah;
-- penyediaan sumber daya;
-- kualitas lingkungan fisik dan sosial.
+Pertanyaan pemandunya:
 
-Ini tidak berarti lembaga selalu menentukan perkembangan santri.
+> **“Bagaimana kondisi dan suasana yang diciptakan oleh sistem pondok ikut membentuk ruang kehidupan tempat santri belajar menjadi manusia beradab?”**
 
-> **Lembaga adalah bagian dari ecology, bukan satu-satunya penjelasan tentang pertumbuhan.**
+Dalam pandangan TUMBUH, lembaga pesantren bukan sekadar deretan gedung asrama, masjid megah, atau tumpukan berkas tata tertib. Lembaga adalah **lingkungan hidup aktif (*living environment*)**: ia bernapas melalui bunyi bel harian, terasa dalam kehangatan sapaan di lorong, tampak dalam kebersihan air wudhu, dan teruji dalam keadilan penegakan aturan.
+
+Kondisi kelembagaan yang sehat melahirkan ketenangan jiwa; sebaliknya sistem kelembagaan yang kacau, menindas, atau tidak realistis akan menciptakan kecemasan massal dan memicu pelanggaran perilaku.
 
 ---
 
-## 2. Mengapa ini penting?
+## 2. Mengapa Sistem Lembaga Wajib Diperiksa Terlebih Dahulu?
 
-Tanpa Institutional Ecology, TUMBUH berisiko terlalu cepat menempatkan persoalan pada individu.
-
-Contoh:
-
-> Santri sering terlambat mengikuti kegiatan.
-
-Respons yang terlalu sempit mungkin hanya berbunyi:
-
-> “Santri kurang disiplin.”
-
-Growth Ecology meminta kita juga melihat kondisi yang mengelilinginya:
-
-- apakah jadwal terlalu padat;
-- apakah waktu perpindahan antaraktivitas realistis;
-- apakah aturan sudah jelas;
-- apakah pengawasan konsisten;
-- apakah santri memahami alasan aturan;
-- apakah ada pola budaya yang membuat keterlambatan dianggap biasa;
-- apakah ada persoalan lain yang perlu dipahami.
-
-Tujuannya bukan membebaskan santri dari tanggung jawab dan bukan pula mencari pihak yang harus disalahkan.
-
-Tujuannya adalah **memahami situasi secara utuh sebelum mengambil keputusan**.
-
----
-
-## 3. Dimensi utama Institutional Ecology
-
-Institutional Ecology dapat dilihat melalui beberapa dimensi konseptual.
-
-### Governance
-
-Bagaimana lembaga membuat dan menjalankan keputusan:
-
-- siapa yang mengambil keputusan;
-- bagaimana tanggung jawab dibagi;
-- bagaimana kebijakan diterapkan;
-- bagaimana masalah ditindaklanjuti;
-- bagaimana keputusan diperbaiki ketika tidak berjalan baik.
-
-### Rules and Policies
-
-Aturan menentukan batas dan ekspektasi kehidupan bersama.
-
-Aturan yang jelas dapat membantu menciptakan keteraturan. Namun aturan perlu dipahami bersama tujuan pendidikan, penerapan, dan dampaknya.
-
-TUMBUH tidak menganggap banyaknya aturan sebagai tanda kualitas lembaga.
-
-### Time and Experience Organization
-
-Lembaga mengatur sebagian besar pengalaman harian melalui:
-
-- jadwal;
-- ritme kegiatan;
-- waktu belajar;
-- waktu istirahat;
-- kegiatan sosial;
-- kegiatan ibadah;
-- kesempatan praktik;
-- kesempatan refleksi.
-
-Cara pengalaman diatur dapat menjadi bagian dari kondisi pertumbuhan.
-
-### Institutional Culture
-
-Budaya lembaga tercermin dalam kebiasaan dan pola interaksi yang berulang.
-
-Misalnya:
-
-- bagaimana kesalahan diperlakukan;
-- bagaimana orang meminta bantuan;
-- bagaimana kritik diterima;
-- bagaimana senior memperlakukan junior;
-- bagaimana guru memberi teladan;
-- bagaimana keberhasilan dan kegagalan dibicarakan.
-
-Budaya tidak selalu sama dengan aturan tertulis. Sesuatu dapat tidak tertulis tetapi tetap menjadi kebiasaan yang kuat.
-
-### Support System
-
-Lembaga juga menyediakan atau tidak menyediakan dukungan, seperti:
-
-- dukungan guru dan musyrif;
-- akses bantuan;
-- pendampingan;
-- koordinasi antarbagian;
-- mekanisme rujukan;
-- dukungan ketika seseorang mengalami kesulitan.
-
-### Problem Handling
-
-Cara lembaga merespons masalah merupakan bagian dari ecology.
-
-Pertanyaan pentingnya:
-
-- apakah masalah hanya dihukum atau juga dipahami;
-- apakah respons konsisten;
-- apakah pihak yang relevan dilibatkan;
-- apakah ada tindak lanjut;
-- apakah pengalaman dari kasus sebelumnya digunakan untuk memperbaiki sistem.
-
-Enam dimensi tersebut adalah **cara membaca ecology**, bukan checklist wajib dan bukan ukuran kualitas universal sebuah lembaga.
-
----
-
-## 4. Hubungan dengan Triad Growth
-
-Institutional Ecology memperdalam sisi **Lembaga** dalam Triad Growth.
+Ketika terjadi pelanggaran atau penurunan adab santri secara massal, pendidik yang bijak **tidak langsung menghakimi moralitas individu santri**, melainkan memeriksa ekologi sistem asramanya terlebih dahulu:
 
 ```text
-Santri ↔ Guru/Musyrif ↔ Lembaga
+CONTOH NYATA DI ASRAMA:
+Banyak santri mengeluh sakit perut, maag, dan sering lemas saat jam pelajaran siang.
+
+Pemeriksaan Dangkal (Menyalahkan Santri):
+"Santri zaman sekarang fisiknya manja dan suka jajan sembarangan di luar!"
+
+Pemeriksaan Ekologi Asrama (TUMBUH):
+Setelah diaudit ekologi kelembagaannya, ditemukan fakta:
+1. Jam makan siang dijadwalkan hanya 20 menit, sementara antrean piring makan 
+   mencapai 150 santri dengan hanya 2 loket saji.
+2. Santri terpaksa menelan makanan terburu-buru tanpa dikunyah halus agar tidak 
+   terlambat masuk kelas siang.
+3. Menu makanan kurang serat dan air minum galon sering kosong di lantai 2.
+
+Hasil Solusi Kelembagaan:
+Lembaga menambah 3 loket saji baru, memperpanjang jeda istirahat makan siang 
+menjadi 45 menit, dan menjamin ketersediaan air minum bersih di setiap lorong. 
+Dalam satu pekan, keluhan sakit pencernaan turun drastis dan santri kembali 
+fokus belajar di kelas.
 ```
 
-“Lembaga” bukan entitas abstrak. Di dalamnya terdapat kondisi nyata yang membentuk pengalaman sehari-hari.
+---
+
+## 3. Lima Dimensi Pokok Ekologi Lembaga Pesantren
+
+Ekosistem asrama pesantren yang menumbuhkan karakter berakar pada lima pilar kelembagaan:
 
 ```text
-Growth Ecology
-      ↓
-   Triad Growth
-      ↓
-     Lembaga
-      ↓
-Governance — Rules — Culture
-Time/Experience — Support — Problem Handling
+       1. KEADILAN TATA TERTIB & DISIPLIN
+       (Aturan transparan, rasional, bebas pasal karet, anti-kekerasan fisik)
+                     ↓
+       2. MANAJEMEN WAKTU & RITME 24 JAM
+       (Jadwal seimbang antara ibadah, belajar, makan, olahraga, dan hak tidur)
+                     ↓
+       3. KUALITAS RUANG FISIK & SANITASI
+       (Air bersih melimpah, ventilasi kamar sehat, kamar mandi higienis)
+                     ↓
+       4. KEPEMIMPINAN BERBASIS KETELADANAN (QUDWAH)
+       (Pengelola adil, mengayomi, bebas feodalisme, mendengar suara santri)
+                     ↓
+       5. SISTEM DUKUNGAN & PERLINDUNGAN SANTRI
+       (Poskestren sigap, konseling BK rahasia, mitigasi perundungan)
 ```
 
-Ini tetap merupakan **peta konseptual**, bukan model sebab-akibat yang sudah tervalidasi.
+### 3.1 Keadilan Tata Tertib dan Disiplin Positif
+Aturan asrama disusun bukan untuk menjebak santri dengan denda atau hukuman, melainkan untuk menjaga kemaslahatan bersama. Aturan harus masuk akal, dijelaskan hikmahnya kepada santri, dan ditegakkan secara adil tanpa memandang apakah pelanggar adalah anak tokoh atau santri biasa. Hukuman fisik dan kekerasan verbal dilarang mutlak.
+
+### 3.2 Manajemen Ritme Waktu 24 Jam
+Pesantren yang baik menghormati ritme biologis tubuh (*circadian rhythm*). Memberi santri waktu tidur malam yang cukup (minimal 6–7 jam) adalah prasyarat neurobiologis agar otak santri mampu mengkonsolidasikan hafalan Al-Qur'an dan ilmu syariat. Memaksa santri tidur hanya 3 jam demi "kesalehan semu" justru merusak kesehatan mental dan memicu stres kronis.
+
+### 3.3 Penataan Ruang Fisik dan Sanitasi Lingkungan
+Masjid diposisikan sebagai jantung peradaban asrama. Kamar asrama memiliki sirkulasi udara dan cahaya matahari yang cukup agar kasur tidak berjamur. Toilet dan tempat wudhu dirawat bersih setiap hari untuk menghormati kesucian ibadah (*thaharah*).
+
+### 3.4 Kepemimpinan Mengayomi Bebas Feodalisme
+Pengelola pondok dan jajaran asatidz memimpin dengan prinsip pelayan umat (*sayyidul qaumi khādimuhum*). Menghilangkan budaya senioritas menindas yang kerap mewariskan tradisi perpeloncoan antargenerasi santri.
+
+### 3.5 Sistem Dukungan dan Perlindungan
+Tersedia ruang Unit Kesehatan Santri (UKS/Poskestren) yang manusiawi, makanan dapur yang halal-thayyib, serta ruang bimbingan konseling yang menjamin kerahasiaan pribadi santri yang sedang menghadapi krisis emosional.
 
 ---
 
-## 5. Hubungan dengan Guru dan Musyrif
+## 4. Batas Pengaman: Lembaga adalah Wadah, Bukan Penentu Mutlak
 
-Guru dan musyrif berada dalam posisi yang unik. Mereka merupakan aktor dalam Triad, tetapi juga bekerja di dalam kondisi institusional tertentu.
+Meskipun sistem lembaga sangat menentukan kualitas iklim asrama, sistem TUMBUH **tidak mendewakan sistem kelembagaan seolah-olah segalanya**:
 
-Contoh:
+> **Sistem kelembagaan terbaik di dunia tetap membutuhkan kesadaran niat santri dan kehangatan hati guru.**
 
-> Seorang musyrif ingin memberikan pendampingan yang lebih baik kepada santri, tetapi waktu pendampingannya sangat terbatas karena beban tugas administratif.
-
-Masalah ini tidak cukup dipahami hanya sebagai “kemampuan musyrif”. Perlu dilihat pula kondisi lembaga yang mengatur:
-
-- pembagian tugas;
-- beban kerja;
-- waktu interaksi;
-- dukungan kepemimpinan;
-- prioritas organisasi.
-
-Institutional Ecology membantu menghubungkan perkembangan individu dengan kondisi sistem **tanpa menghilangkan agency individu**.
+Fasilitas gedung mewah tidak otomatis melahirkan ulama besar jika ruh keikhlasan, keteladanan pendidik, dan kesungguhan tirakat santri hilang. Lembaga bertugas menyiapkan **tanah yang gembur dan subur (*bi'ah shalihah*)**, agar benih fitrah santri dapat merekah dengan indah.
 
 ---
 
-## 6. Lembaga bukan penyebab tunggal
+## 5. Ringkasan Prinsip Institutional Ecology
 
-Institutional Ecology **tidak mengatakan bahwa setiap kondisi lembaga menyebabkan outcome tertentu**.
-
-Contoh:
-
-> Sekolah dengan aturan yang lebih ketat memiliki santri yang lebih tertib.
-
-Pernyataan tersebut belum cukup untuk menyimpulkan bahwa aturan ketat menyebabkan ketertiban.
-
-Masih mungkin terdapat faktor lain, seperti:
-
-- kualitas kepemimpinan;
-- seleksi peserta didik;
-- budaya keluarga;
-- kualitas guru;
-- karakteristik komunitas;
-- sumber daya;
-- atau faktor lain.
-
-Jika ingin membuat klaim kausal, klaim tersebut harus diuji melalui research dan evidence yang sesuai.
+> **Ekologi Lembaga adalah cermin peradaban pondok: memastikan bahwa seluruh aturan, jadwal, sanitasi, dan tata kelola asrama 24 jam dirancang untuk memuliakan fitrah kemanusiaan santri, menjamin rasa aman, dan menopang lahirnya generasi yang kokoh lahir dan batin.**
 
 ---
 
-## 7. Lembaga juga dapat berkembang
+## 6. Status Validasi dan Batas Dokumen
 
-Ecology lembaga tidak hanya menjadi latar bagi pertumbuhan santri. Lembaga sendiri dapat mengalami perkembangan dalam:
+### Status
+**FINAL CONCEPTUAL SPECIFICATION TUMBUH v2.0.0.**  
+Model konseptual kanonikal untuk tata kelola ekosistem kelembagaan pesantren.
 
-- kapasitas sistem;
-- budaya;
-- tata kelola;
-- kualitas dukungan;
-- koordinasi;
-- kemampuan belajar dari pengalaman.
-
-Hal ini sejalan dengan Growth Architecture yang mengenali **Institutional Development** sebagai salah satu jalur perkembangan yang terhubung dengan perkembangan santri dan pendidik.
-
-Namun Institutional Ecology **bukan progression model lembaga**.
-
-Progression tetap berada pada domain **03_PROGRESSION**.
-
----
-
-## 8. Batas konsep
-
-| Konsep | Batasnya |
-|---|---|
-| **Institutional Ecology** | Kondisi lingkungan institusional tempat pertumbuhan berlangsung. |
-| **Institutional Development** | Proses perkembangan kapasitas lembaga. |
-| **Governance Model** | Salah satu aspek ecology, bukan keseluruhan ecology. |
-| **Program** | Kegiatan yang dirancang; berbeda dari kondisi sistem tempat kegiatan berlangsung. |
-| **Intervention** | Respons yang sengaja dirancang terhadap kebutuhan tertentu. Perubahan lingkungan dapat menjadi bagian dari intervensi, tetapi keduanya tetap berbeda. |
-| **Evidence of Effectiveness** | Kondisi lembaga bukan otomatis bukti bahwa suatu pendekatan efektif. |
-
-Batas ini menjaga Institutional Ecology tetap berada sebagai **model konseptual dalam Core Model**.
-
----
-
-## 9. Prinsip kerja
-
-Institutional Ecology memberi beberapa prinsip sederhana:
-
-1. **Jangan menilai individu tanpa melihat kondisi yang relevan di sekitarnya.**
-2. **Jangan menyalahkan lembaga secara otomatis ketika individu mengalami kesulitan.**
-3. **Bedakan aturan tertulis dari budaya yang benar-benar terjadi.**
-4. **Perhatikan bagaimana lembaga mengatur pengalaman sehari-hari.**
-5. **Lihat dukungan dan beban yang diterima guru/musyrif.**
-6. **Gunakan kasus dan pengalaman sebagai bahan pembelajaran sistem.**
-7. **Jangan mengubah hubungan kontekstual menjadi klaim kausal tanpa evidence.**
-
-Prinsip ini adalah prinsip kerja konseptual, **bukan SOP**.
-
----
-
-## 10. Hubungan dengan Philosophy, Principles, dan Core Model
-
-Posisinya dapat dibaca sebagai:
-
-```text
-Philosophy
-    ↓
-Principles
-    ↓
-Core Model
-    ↓
-Growth Ecology
-    ↓
-Institutional Ecology
-```
-
-Institutional Ecology bukan sumber Philosophy baru dan bukan pengganti Principles.
-
-Ia memperdalam salah satu bagian Growth Ecology: **bagaimana kondisi kelembagaan menjadi bagian dari lingkungan pertumbuhan**.
-
----
-
-## 11. Hubungan dengan Evidence dan Research
-
-Institutional Ecology membantu menentukan **apa yang perlu diperhatikan** ketika membaca kondisi sebuah lembaga.
-
-Namun model ini tidak menentukan sebelumnya bahwa karakteristik institusi tertentu pasti efektif atau menyebabkan outcome tertentu.
-
-Jika TUMBUH membuat klaim tentang hubungan karakteristik lembaga dengan outcome tertentu, klaim tersebut perlu diperiksa melalui sumber, evidence, atau research yang sesuai.
-
-Dengan demikian:
-
-**Institutional Ecology → membantu memetakan kondisi institusional.**
-
-**Evidence / Research → membantu memeriksa apa yang dapat disimpulkan tentang pengaruh kondisi tersebut.**
-
----
-
-## 12. Traceability
-
-Ketika Institutional Ecology dikembangkan atau diubah, perubahan perlu dapat ditelusuri:
-
-1. Apa masalah atau kebutuhan yang memunculkan perubahan?
-2. Dimensi ecology apa yang ditambahkan, diubah, atau dibatasi?
-3. Principles mana yang berkaitan?
-4. Apakah ada claim atau evidence yang mendukung atau menantang perubahan?
-5. Komponen Core Model atau layer berikutnya apa yang terdampak?
-
-Traceability menjaga agar perubahan pada praktik atau kebijakan tidak otomatis dianggap sebagai perubahan pada model inti.
-
----
-
-## Ringkasnya
-
-> **Institutional Ecology memastikan bahwa lembaga dipahami bukan hanya sebagai tempat berlangsungnya pendidikan, tetapi sebagai lingkungan yang melalui tata kelola, aturan, budaya, pengaturan pengalaman, dukungan, dan penanganan masalah menjadi bagian dari kondisi tempat manusia bertumbuh—tanpa menganggap lembaga sebagai penyebab tunggal.**
+### Boundary
+- Dokumen ini mendefinisikan **arsitektur ekologi kelembagaan**.
+- Tidak berisi anggaran operasional tahunan yayasan atau tata cara perizinan pendirian bangunan pondok (hal tersebut berada di domain *03_OPERATIONAL*).

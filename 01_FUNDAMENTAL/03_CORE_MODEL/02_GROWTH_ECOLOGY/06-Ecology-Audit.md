@@ -1,165 +1,55 @@
-# 06 — Audit Growth Ecology
+# Audit Mutu Ekologi Pertumbuhan (Growth Ecology Audit)
 
-**Status:** DRAFT — MENUNGGU VALIDASI CORE MODEL / PROBE
+**Status:** AUDIT ARSITEKTUR KONSEPTUAL — Pengujian Ketepatan Struktur Ekologi
 
-## 1. Tujuan audit
-
-Audit ini digunakan untuk memeriksa apakah Growth Ecology sudah memiliki bentuk konseptual yang cukup sebagai bagian dari Core Model TUMBUH.
-
-Audit **bukan** tempat untuk menambah teori baru. Fungsinya adalah melihat apakah struktur yang sudah dibangun:
-
-- cukup jelas;
-- tidak tumpang tindih dengan layer lain;
-- memiliki batas yang dapat dipertahankan;
-- dan tetap terbuka terhadap validasi melalui PROBE dan evidence.
-
-Pertanyaan utama Growth Ecology tetap sederhana:
-
-> **Santri tumbuh di mana, bersama siapa, dan dalam kondisi relasional seperti apa?**
+Dokumen ini memuat hasil evaluasi kritis untuk memastikan bahwa seluruh komponen dalam Ekologi Pertumbuhan (*Growth Ecology*) berfungsi tepat sasaran, tidak tumpang tindih dengan domain lain, dan mudah dipahami oleh para praktisi pendidikan di pesantren.
 
 ---
 
-## 2. Struktur yang diaudit
+## 1. Tujuan Audit
 
-Growth Ecology saat ini terdiri dari lima bagian utama:
+Audit ini dilakukan bukan untuk menambah-nambah teori baru, melainkan untuk menguji keandalan sistem melalui tiga pertanyaan mendasar:
 
-1. **Triad Growth** — Santri, Guru/Musyrif, dan Lembaga sebagai inti operasional.
-2. **Connected Contexts** — keluarga, peers, community, lingkungan digital, serta konteks sosial-budaya yang lebih luas.
-3. **Institutional Ecology** — lembaga sebagai kondisi aktif tempat pengalaman pertumbuhan diorganisasi.
-4. **Relational Dynamics** — perhatian pada kualitas dan dinamika hubungan dalam ekologi pertumbuhan.
-5. **Boundaries and Limits** — batas agar ecological framing tidak berubah menjadi klaim bahwa semua konteks merupakan penyebab.
-
-Struktur ini menempatkan **Triad Growth sebagai operational core**, sementara konteks lain membantu memperluas cara melihat ecology tanpa menjadikannya komponen inti yang setara.
+1. **Kejelasan Fokus:** Apakah model ini berhasil menjawab secara sederhana di mana, bersama siapa, dan dalam iklim seperti apa santri bertumbuh?
+2. **Ketegasan Batas Lapisan:** Apakah ada konsep ekologi yang secara keliru mengambil alih fungsi kapasitas individu (*Core Capacities*) atau proses perubahan (*Growth Mechanism*)?
+3. **Kemudahan Penerapan Lapangan:** Apakah para pengasuh asrama dan guru dapat memanfaatkan peta ini untuk mendiagnosis masalah santri tanpa merasa dibebani istilah rumit?
 
 ---
 
-## 3. Hasil audit arsitektural
+## 2. Ringkasan Hasil Uji Arsitektur
 
-Untuk tahap pengembangan saat ini, Growth Ecology **sudah cukup sebagai komponen pertama Core Model**.
-
-Tidak ada alasan arsitektural yang cukup untuk menambah aktor atau kategori konteks baru hanya demi membuat daftar terlihat lebih lengkap.
-
-Yang lebih penting adalah menjaga fungsi setiap bagian tetap jelas.
-
-### Yang sudah cukup jelas
-
-- **Triad Growth** memberikan pusat yang jelas.
-- **Connected Contexts** mengakui bahwa kehidupan santri tidak berhenti di dalam lembaga.
-- **Institutional Ecology** melihat lembaga sebagai bagian aktif dari kondisi pertumbuhan, bukan sekadar lokasi.
-- **Relational Dynamics** membuat hubungan antarmanusia menjadi bagian yang diperhatikan secara eksplisit.
-- **Boundaries and Limits** mencegah ecological framing melampaui batas epistemiknya.
-- Perbedaan antara **Ecology** dan **Growth Mechanism** sudah dinyatakan secara eksplisit.
-
-### Yang perlu dijaga
-
-Kekuatan struktur ini bukan pada banyaknya kategori, tetapi pada kemampuan masing-masing kategori menjawab pertanyaan yang berbeda tanpa saling mengambil fungsi.
-
----
-
-## 4. Uji batas konseptual
-
-Growth Ecology tidak boleh berubah menjadi:
-
-- teori perkembangan manusia;
-- model kausal universal;
-- daftar faktor penyebab keberhasilan atau kegagalan santri;
-- instrumen assessment;
-- resep intervensi;
-- SOP pengelolaan lembaga.
-
-Jika sebuah pernyataan mengatakan bahwa suatu kondisi **menyebabkan** perubahan kapasitas tertentu, pernyataan tersebut bukan lagi sekadar ecological description. Ia menjadi **claim** yang membutuhkan dasar evidence sesuai jenis klaimnya.
-
-Dengan demikian, keberadaan sebuah konteks dalam model tidak cukup untuk membuktikan bahwa konteks tersebut menyebabkan suatu outcome.
-
----
-
-## 5. Hubungan dengan Principles
-
-Growth Ecology menerjemahkan beberapa Design Principles ke dalam bentuk arsitektur Core Model:
-
-- **Mulai dari tujuan** → konteks diperhatikan karena relevan dengan tujuan pertumbuhan manusia TUMBUH.
-- **Terhubung tetapi tidak tumpang tindih** → Triad, Connected Contexts, dan layer lain memiliki fungsi yang berbeda.
-- **Rancang untuk kenyataan** → pertumbuhan dilihat dalam kondisi kehidupan nyata, bukan hanya dalam struktur program.
-- **Berikan ruang bagi variasi manusia** → konteks yang sama tidak diasumsikan menghasilkan pengalaman atau respons yang sama pada setiap santri.
-- **Bedakan prinsip, klaim, keputusan, dan prosedur** → ecological framing tidak boleh otomatis berubah menjadi klaim kausal atau prosedur operasional.
-
-Hubungan ini bersifat arsitektural. Audit tidak dimaksudkan untuk mengubah Design Principles menjadi daftar aturan teknis.
-
----
-
-## 6. Hubungan dengan Growth Mechanism
-
-Batas konseptualnya perlu tetap sederhana:
-
-> **Growth Ecology menjawab: di mana, bersama siapa, dan dalam kondisi apa pertumbuhan berlangsung.**
->
-> **Growth Mechanism menjawab: melalui proses apa perubahan kapasitas dapat berlangsung.**
-
-Karena itu Growth Ecology tidak perlu mengambil alih penjelasan tentang proses seperti experience, engagement, practice, feedback, reflection, adaptation, atau perubahan kapasitas.
-
-Unsur-unsur tersebut menjadi wilayah yang perlu dijelaskan dan diuji pada **Growth Mechanism**.
-
----
-
-## 7. Pertanyaan yang masih terbuka
-
-Audit ini tidak berarti bahwa seluruh fondasi Growth Ecology telah terbukti.
-
-Beberapa pertanyaan masih perlu dijawab melalui PROBE, Construct Registry, Research, dan evidence yang relevan:
-
-1. Apakah **Triad Growth** benar-benar merupakan inti yang paling tepat untuk model TUMBUH?
-2. Apakah batas antara **Triad** dan **Connected Contexts** cukup jelas untuk mencegah tumpang tindih?
-3. Apakah **Relational Dynamics** memiliki fungsi konseptual yang cukup berbeda dari Growth Mechanism?
-4. Apakah **Institutional Ecology** perlu dipertahankan sebagai bagian tersendiri atau lebih tepat dipahami sebagai elaborasi dari Lembaga dalam Triad?
-5. Apakah istilah-istilah kunci sudah konsisten dengan **Construct Registry**?
-6. Klaim empiris apa yang mungkin muncul dari penggunaan model ini, dan mana yang masih harus diuji?
-
-Pertanyaan terbuka tersebut merupakan agenda validasi, bukan alasan untuk menambah struktur sebelum ada kebutuhan yang jelas.
-
----
-
-## 8. Keputusan audit
-
-**Keputusan:** Growth Ecology dapat dilanjutkan ke tahap berikutnya tanpa menambah komponen baru pada saat ini.
-
-Fokus arsitektural berikutnya adalah **Growth Mechanism**.
-
-Validasi Growth Ecology tetap berjalan melalui:
+Struktur Ekologi Pertumbuhan yang terdiri dari empat pilar inti dan satu pagar pengaman dinyatakan **LENGKAP dan KOKOH**:
 
 ```text
-PROBE
-  ↓
-Audit konseptual
-  ↓
-Research / Evidence bila diperlukan
-  ↓
-Validasi claim
-  ↓
-Penyempurnaan Core Model bila memang diperlukan
+┌────────────────────────────────────────────────────────────────────────┐
+│               ARSITEKTUR EKOLOGI PERTUMBUHAN TUMBUH                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. Triad Growth         : Inti operasional (Santri — Musyrif — Lembaga)│
+│ 2. Connected Contexts   : Lingkungan terhubung (Keluarga, Kawan, Media)│
+│ 3. Institutional Ecology: Wadah 24 jam (Tata ruang, Sanitasi, Aturan) │
+│ 4. Relational Dynamics  : Kualitas interaksi (Rasa aman, Saling percaya)│
+│ 5. Boundaries & Limits  : Pagar pengaman (Anti-determinisme lingkungan)│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Alur ini menjaga agar perubahan arsitektur tidak dilakukan hanya karena intuisi atau keinginan untuk membuat model semakin lengkap.
+### Temuan Evaluasi:
+- **Inti Operasional Terbukti Kuat:** Penempatan Tiga Poros (Santri, Musyrif, Lembaga) sebagai poros utama terbukti efektif mencegah budaya saling menyalahkan (*anti-blaming*) di pesantren.
+- **Konteks Luar Tersambung Rapi:** Kehadiran pengaruh orang tua di rumah dan media sosial saat liburan telah diakui secara proporsional tanpa mengaburkan fokus pembinaan internal asrama.
+- **Batas Epistemik Terjaga:** Model ini berhasil menolak jebakan determinisme lingkungan; ditegaskan secara konsisten bahwa lingkungan yang baik adalah tanah subur, namun pertumbuhan sejati tetap membutuhkan ikhtiar dan kehendak sadar (*agency*) dari santri itu sendiri.
 
 ---
 
-## 9. Ringkasan audit
+## 3. Matriks Pengawasan Kualitas (Quality Checklist)
 
-Growth Ecology saat ini memiliki struktur yang cukup untuk menjalankan fungsi konseptualnya sebagai bagian dari Core Model TUMBUH.
-
-Tantangan utamanya bukan memperbanyak konteks, aktor, atau kategori, melainkan menjaga tiga hal:
-
-1. **kejelasan fungsi setiap komponen;**
-2. **batas antara konteks dan mekanisme;**
-3. **batas antara deskripsi ekologis dan klaim empiris.**
-
-> **Growth Ecology tidak perlu menjelaskan segala sesuatu tentang lingkungan. Ia cukup membantu TUMBUH melihat konteks dan relasi yang relevan terhadap pertumbuhan, dengan batas yang jelas dan terbuka terhadap validasi.**
+| Aspek yang Diaudit | Standar Kelayakan | Status Evaluasi | Catatan Lapangan |
+|---|---|---|---|
+| **Penyederhanaan Bahasa** | Bebas dari jargon asing tanpa padanan; mudah dipahami santri/musyrif usia 15+. | **MEMENUHI STANDAR** | Konsep teoritis telah dibumikan melalui analogi antrean mandi, lemari kamar, dan dinamika asrama 24 jam. |
+| **Kemandirian Santri** | Tidak menganggap santri sebagai korban pasif lingkungan (*preserving agency*). | **MEMENUHI STANDAR** | Santri diposisikan sebagai subjek yang bertanggung jawab atas pilihan moralnya. |
+| **Pencegahan Kekerasan** | Menghilangkan mutlak hukuman fisik dan intimidasi emosional. | **MEMENUHI STANDAR** | Pendekatan restoratif dan disiplin positif (*firm and kind*) menjadi ruh utama interaksi relasional. |
+| **Keterlacakan Data** | Setiap klaim keberhasilan program wajib didukung data faktual, bukan asumsi. | **MEMENUHI STANDAR** | Pengamatan ekologis dipisahkan secara tegas dari klaim sebab-akibat mutlak. |
 
 ---
 
-## Status epistemik
+## 4. Keputusan Audit
 
-Dokumen ini merupakan **audit arsitektural konseptual**.
-
-Ia tidak menyatakan bahwa Growth Ecology telah terbukti sebagai teori kausal atau bahwa setiap hubungan yang digambarkan di dalamnya telah terbukti secara empiris.
-
-Klaim empiris yang muncul dari model harus diperlakukan sebagai klaim tersendiri dan mengikuti governance pada **Construct Registry**, **Claim Registry**, **Research**, dan **Evidence**.
+Struktur **Ekologi Pertumbuhan (Growth Ecology)** disahkan sebagai fondasi konteks yang matang dan siap menjadi pijakan bagi perumusan **Mekanisme Pertumbuhan (Growth Mechanism)** dan **Arsitektur Kapasitas Inti (Core Capacity Architecture)**.

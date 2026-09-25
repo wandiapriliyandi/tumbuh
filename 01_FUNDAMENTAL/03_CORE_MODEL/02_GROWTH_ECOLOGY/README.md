@@ -1,172 +1,84 @@
-# Growth Ecology
+# Ekologi Pertumbuhan (Growth Ecology)
 
-**Status:** PROVISIONAL — CORE MODEL
+**Status:** PANDUAN UTAMA KONSEPTUAL — Arsitektur Lingkungan Tumbuh Santri
 
-Folder ini menjelaskan **konteks ekologis tempat pertumbuhan manusia berlangsung**.
+Folder ini menguraikan seluruh rancang bangun **lingkungan hidup dan relasi sosial** tempat proses pembinaan adab santri berlangsung selama 24 jam sehari di pesantren.
 
-Pertanyaan paling sederhananya:
+---
 
-> **Santri tumbuh di mana, bersama siapa, dan dalam hubungan seperti apa?**
+## 1. Apa itu Ekologi Pertumbuhan?
 
-Growth Ecology membantu TUMBUH melihat manusia bersama lingkungan dan relasinya, tanpa otomatis menganggap setiap konteks sebagai penyebab suatu perubahan.
+Pendidikan karakter tidak pernah terjadi di dalam tabung hampa. Sehebat apa pun kurikulum yang tertulis di atas kertas, santri hidup, bernapas, berinteraksi, dan merespons lingkungan nyatanya: di kamar asrama, di antrean kamar mandi, di selasar masjid, saat makan bersama di nampan, hingga interaksi dengan keluarga di rumah.
 
-## Cara membaca folder ini
+Pertanyaan mendasar yang dijawab oleh **Ekologi Pertumbuhan** adalah:
 
-Growth Ecology sebaiknya dibaca sebagai satu kesatuan. Setiap file memperdalam bagian yang berbeda dari ekologi pertumbuhan:
+> **Di mana, bersama siapa, dan dalam iklim interaksi seperti apa santri berproses menumbuhkan adab dan karakternya?**
+
+Melalui pemahaman ekologi ini, para pengasuh asrama dan guru tidak lagi memandang santri secara terisolasi atau buru-buru melabeli santri yang bermasalah. Kita diajak melihat ekosistem secara utuh: memperbaiki tanah dan iklimnya, agar benih fitrah santri dapat bertumbuh subur.
+
+---
+
+## 2. Peta Berkas dan Alur Pembacaan
+
+Folder ini dirancang berurutan dari pilar yang paling dekat dengan keseharian asrama hingga batas pengaman keilmuannya:
 
 ```text
-Growth Ecology
+Ekologi Pertumbuhan (Growth Ecology)
 │
-├── Triad Growth
-│   └── inti operasional: Santri — Guru/Musyrif — Lembaga
+├── 01_TRIAD_GROWTH.md
+│   └── Tiga Poros Inti: Santri — Guru/Musyrif — Lembaga (Pondasi Anti Saling Menyalahkan)
 │
-├── Connected Contexts
-│   └── keluarga, teman sebaya, komunitas, digital, sosial-budaya
+├── 02_CONNECTED_CONTEXTS.md
+│   └── Lingkungan Luar yang Terhubung: Keluarga, Sahabat Sebaya, Media Digital, & Masyarakat
 │
-├── Institutional Ecology
-│   └── lembaga sebagai lingkungan pertumbuhan
+├── 03_INSTITUTIONAL_ECOLOGY.md
+│   └── Lembaga Sebagai Ekosistem 24 Jam: Tata Ruang Asrama, Sanitasi, Ritme Biologis, & Keadilan
 │
-├── Relational Dynamics
-│   └── bagaimana relasi berubah dan berlangsung dari waktu ke waktu
+├── 04_RELATIONAL_DYNAMICS.md
+│   └── Dinamika Hubungan Antarmanusia: Rasa Aman, Saling Percaya, & Tabayyun dalam Konflik
 │
-├── Boundaries and Limits
-│   └── batas konsep dan batas penggunaannya
+├── 05_BOUNDARIES_AND_LIMITS.md
+│   └── Pagar Pengaman Epistemik: Menjaga Agency Santri dan Menolak Determinisme Lingkungan
 │
-└── Ecology Audit
-    └── pemeriksaan apakah suatu sistem memperhatikan ecology secara memadai
+└── 06-Ecology-Audit.md
+    └── Evaluasi Kualitas Arsitektur: Menjamin Kejelasan Peran dan Keterujian Lapangan
 ```
 
-Bacaan paling mudah dimulai dari **Triad Growth**, kemudian **Connected Contexts**, lalu **Institutional Ecology** dan **Relational Dynamics**. Setelah memahami konsep utamanya, baca **Boundaries and Limits** dan **Ecology Audit**.
+---
 
-## Peta isi folder
+## 3. Matriks Inti: Memahami 5 Komponen Ekologi
 
-| File | Pertanyaan utama | Fungsi |
+| Berkas | Fokus Utama Pertanyaan | Pelajaran Penting untuk Pendidik & Musyrif |
 |---|---|---|
-| `01_TRIAD_GROWTH.md` | Siapa aktor utama dalam ecology pertumbuhan? | Menjelaskan Santri, Guru/Musyrif, dan Lembaga sebagai Triad Growth. |
-| `02_CONNECTED_CONTEXTS.md` | Konteks lain apa yang terhubung dengan kehidupan santri? | Memperluas pandangan ke keluarga, peers, komunitas, lingkungan digital, dan konteks sosial-budaya. |
-| `03_INSTITUTIONAL_ECOLOGY.md` | Bagaimana lembaga menjadi lingkungan pertumbuhan? | Memperdalam governance, aturan, budaya, pengaturan pengalaman, dukungan, dan penanganan masalah. |
-| `04_RELATIONAL_DYNAMICS.md` | Bagaimana hubungan dalam ecology berlangsung dan berubah? | Menjelaskan sifat relasional, timbal balik, kontekstual, dan dinamis. |
-| `05_BOUNDARIES_AND_LIMITS.md` | Sejauh mana Growth Ecology boleh digunakan? | Menjaga batas konseptual dan epistemik model. |
-| `06-Ecology-Audit.md` | Apakah sebuah sistem sudah memperhatikan ecology secara memadai? | Menyediakan kerangka pemeriksaan terhadap penerapan perspektif ekologis. |
+| **01. Triad Growth** | *Siapa saja pelaku utama dalam pembinaan harian?* | Membina santri melibatkan sinergi tiga pihak: Santri, Musyrif/Guru, dan Kebijakan Lembaga. Hentikan budaya saling lempar kesalahan (*anti-blaming*). |
+| **02. Connected Contexts** | *Pengaruh luar apa saja yang dibawa santri ke asrama?* | Pola asuh keluarga di rumah dan konsumsi media digital saat liburan memengaruhi kesiapan belajar santri di pesantren. |
+| **03. Institutional Ecology** | *Bagaimana fisik dan aturan asrama membentuk perilaku?* | Kebersihan toilet, kecukupan air wudhu, dan waktu tidur yang cukup adalah syarat mutlak agar santri tidak mudah stres dan emosional. |
+| **04. Relational Dynamics** | *Bagaimana rasa saling percaya dibangun dan dirawat?* | Pendisiplinan harus diawali dengan membangun sambung rasa (*connection before correction*). Konflik antarsantri adalah laboratorium ukhuwah. |
+| **05. Boundaries & Limits** | *Apa saja batas kesimpulan yang tidak boleh dilanggar?* | Lingkungan yang baik adalah pendukung utama, namun pilihan berbuat baik tetap kembali pada kemauan sadar (*agency*) santri di hadapan Allah SWT. |
 
-## Inti konsep
+---
 
-Growth Ecology berangkat dari gagasan bahwa pertumbuhan tidak berlangsung dalam ruang kosong.
+## 4. Hubungan Ekologi dengan Lapisan Model Inti Lainnya
 
-Secara konseptual:
-
-```text
-                 CONNECTED CONTEXTS
-          keluarga • peers • masyarakat • digital
-                         │
-                         ↓
-                    INSTITUTION
-                         ↕
-          GURU/MUSYRIF ↔ SANTRI
-                         │
-                         ↓
-                 RELATIONAL DYNAMICS
-```
-
-**Triad Growth** menjadi inti operasional, sedangkan konteks yang lebih luas membantu menjelaskan lingkungan yang terhubung dengannya.
-
-Hubungan dalam diagram tersebut adalah **peta konseptual**, bukan bukti hubungan sebab-akibat.
-
-## Posisi Growth Ecology dalam Core Model
-
-Growth Ecology adalah salah satu bagian dari **Core Model TUMBUH**.
-
-Hubungannya dapat dibaca sebagai berikut:
+Agar tidak terjadi kerancuan peran antar-dokumen, perhatikan posisi masing-masing:
 
 ```text
-Philosophy
-    ↓
-Principles
-    ↓
-Core Model
-    ├── Growth Ecology
-    │   ├── Triad Growth
-    │   ├── Connected Contexts
-    │   ├── Institutional Ecology
-    │   └── Relational Dynamics
-    │
-    ├── Growth Mechanism
-    └── Core Capacity Architecture
+┌────────────────────────────────────────────────────────────────────────┐
+│                   ARSITEKTUR MODEL INTI (CORE MODEL)                   │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. Profil Lulusan (Graduate Profile)       : ARAH & CITA-CITA ADAB     │
+│ 2. Ekologi Pertumbuhan (Growth Ecology)    : WADAH & IKLIM HIDUP 24 JAM│
+│ 3. Mekanisme Pertumbuhan (Growth Mechanism): TAHAPAN PROSES BERUBAH    │
+│ 4. Kapasitas Inti (Core Capacity Arch.)   : KEMAMPUAN NYATA SANTRI     │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Growth Ecology menjelaskan **konteks dan relasi tempat pertumbuhan berlangsung**.
+- **Ekologi Pertumbuhan** menjawab: *"Di mana dan bersama siapa santri berinteraksi?"*
+- **Mekanisme Pertumbuhan** menjawab: *"Melalui latihan dan refleksi apa santri berubah?"*
+- **Kapasitas Inti** menjawab: *"Keterampilan berpikir dan regulasi diri apa yang terbentuk?"*
 
-Growth Mechanism menjelaskan **bagaimana perubahan kapasitas dapat berlangsung**.
+---
 
-Core Capacity Architecture menjelaskan **kapasitas apa yang menjadi bagian dari model TUMBUH**.
+## Ringkasan Inti
 
-Ketiganya berhubungan, tetapi tidak boleh dicampur menjadi satu konsep.
-
-## Apa yang bukan Growth Ecology?
-
-Growth Ecology bukan:
-
-- teori kausal universal;
-- progression model;
-- assessment instrument;
-- rubric;
-- intervention procedure;
-- implementation SOP;
-- program pendidikan;
-- atau bukti efektivitas suatu pendekatan.
-
-Jika sebuah pernyataan mulai mengatakan bahwa konteks tertentu **menyebabkan** outcome tertentu, pernyataan tersebut perlu diperlakukan sebagai klaim yang membutuhkan evidence/research yang sesuai.
-
-Jika sebuah gagasan mulai menjelaskan **tindakan yang harus dilakukan**, ia perlu diperiksa apakah sudah masuk ke Intervention, Implementation, atau Operational.
-
-## Hubungan dengan PROBE dan Evidence
-
-Growth Ecology merupakan rumusan pada layer Core Model. Namun, rumusannya tetap dapat diperiksa melalui proses inquiry TUMBUH.
-
-```text
-PROBE
-  ↓
-pertanyaan • kritik • penalaran
-  ↓
-rumusan model
-  ↓
-Growth Ecology
-  ↓
-Research / Evidence
-  ↓
-peninjauan dan revisi bila diperlukan
-```
-
-**PROBE** menyimpan proses penyelidikan dan alasan.
-
-**Research / Evidence** digunakan ketika TUMBUH membuat atau memeriksa klaim empiris.
-
-Growth Ecology sendiri tetap berada sebagai **model konseptual/desain**, bukan pengganti evidence.
-
-## Cara menggunakan folder ini
-
-Ketika menghadapi persoalan pertumbuhan, Growth Ecology membantu memperluas pertanyaan sebelum membuat keputusan:
-
-1. Apa yang sedang terjadi pada santri?
-2. Bagaimana peran Guru/Musyrif dalam situasi tersebut?
-3. Bagaimana kondisi lembaga?
-4. Konteks lain apa yang relevan?
-5. Bagaimana relasi antar pihak berlangsung?
-6. Apa yang benar-benar diketahui dan apa yang masih berupa dugaan?
-7. Apakah kita sedang mendeskripsikan konteks atau sudah membuat klaim sebab-akibat?
-
-Tujuannya bukan membuat analisis menjadi semakin rumit, tetapi **mencegah penyederhanaan yang menghilangkan konteks penting**.
-
-## Status epistemik
-
-Growth Ecology saat ini berstatus:
-
-**PROVISIONAL — CORE MODEL**
-
-Konsep-konsep di dalam folder ini merupakan **model konseptual/desain** yang digunakan untuk membangun arsitektur TUMBUH.
-
-Status ini berarti model dapat digunakan sebagai landasan desain, tetapi rumusan dan batasnya masih dapat diperiksa, diuji, dan direvisi berdasarkan hasil PROBE, research, evidence, serta pengalaman implementasi yang relevan.
-
-## Ringkasnya
-
-> **Growth Ecology membantu TUMBUH memahami pertumbuhan sebagai sesuatu yang berlangsung dalam ekologi manusia—melalui individu, relasi, lembaga, dan konteks yang terhubung—tanpa mencampurkan pemahaman konteks dengan klaim sebab-akibat, mekanisme pertumbuhan, atau prosedur intervensi.**
+> **Ekologi Pertumbuhan memastikan bahwa pembinaan santri di pesantren dipahami sebagai perawatan ekosistem yang utuh. Ketika lembaga adil dan tertib, musyrif mendampingi dengan teladan penuh kasih, dan santri merasa aman secara fisik maupun batin, maka pembiasaan adab akan berakar kuat menjadi karakter yang mandiri.**
