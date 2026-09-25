@@ -24,32 +24,44 @@ Dalam kajian ilmu perkembangan, agensi manusia ini dipahami bekerja dalam hubung
 
 Wawasan ini melengkapi prinsip Islam: santri adalah **pelaku utama dalam perkembangannya sendiri**, bukan sekadar objek pasif yang hanya digerakkan oleh perintah dan ancaman hukuman.
 
+## Fitrah tidak pernah rusak: membedakan kerusakan dari sumbatan
+
+Pandangan tentang fitrah membawa konsekuensi praktis yang sangat besar dalam pengasuhan sehari-hari.
+
+Sering kali ketika seorang santri berulang kali melanggar aturan atau ketahuan berbohong, para pembina tergoda untuk membuat kesimpulan fatalistis: *"Anak ini memang dasarnya nakal, fitrahnya sudah rusak, dan tidak ada harapan lagi."*
+
+TUMBUH menolak cara pandang yang menghakimi seperti itu. Dalam pandangan Islam, **fitrah seorang anak tidak pernah hancur atau rusak permanen**.[^4] Fitrah kesucian itu tetap ada di dalam lubuk jiwanya. Yang sedang terjadi adalah **saluran perkembangannya sedang tersumbat**—bisa karena kelelahan fisik yang kronis, suasana kamar yang tidak aman, rasa cemas yang belum terungkapkan, trauma masa lalu, atau pengaruh buruk lingkungan sebaya.
+
+Tugas pendidik bukanlah menghukum dengan rasa benci seolah-olah sedang membuang benda rusak, melainkan **membantu mengurai dan membuka sumbatan tersebut** agar cahaya fitrahnya kembali memancar. Sikap ini mengubah disposisi batin seorang pendidik: dari rasa frustrasi dan amarah menjadi kesabaran, penyelidikan yang objektif, dan pendampingan yang penuh kasih sayang.
+
 ## Beberapa hal yang perlu kita ingat tentang manusia
 
-Untuk memahami manusia secara utuh, ada lima prinsip dasar yang dipegang dalam TUMBUH:
+Untuk memahami manusia secara utuh, ada enam prinsip dasar yang dipegang dalam TUMBUH:
 
 1. **Martabat (*Karamah*)**  
    Manusia memiliki nilai kehormatan yang melekat dari Allah. Oleh karena itu, santri tidak boleh diperlakukan hanya sebagai angka statistik, alat kebanggaan lembaga, atau sasaran pelampiasan amarah.
 2. **Kapasitas Diri**  
-   Setiap manusia dianugerahi kemampuan dan bakat yang dapat terus diasah dan dikembangkan. Potensi setiap santri tidak selalu sama dan tidak selalu mekar pada waktu yang bersamaan. Ada yang cepat dalam hafalan bahasa, ada yang kuat dalam penalaran logika, dan ada pula yang memiliki kelembutan hati dalam kepedulian sosial.
+   Setiap manusia dianugerahi kemampuan dan bakat yang dapat terus diasah dan dikembangkan. Potensi setiap santri tidak selalu sama dan tidak selalu mekar pada waktu yang bersamaan.
 3. **Agensi (*Kemampuan Memilih*)**  
    Manusia memiliki kehendak sadar (*ikhtiyar*) untuk mengambil keputusan atas tindakannya sendiri. Menjadi agen tidak berarti bebas berbuat sesuka hati tanpa aturan; setiap pilihan selalu membawa tanggung jawab dan konsekuensi.
-4. **Ikhtiar Nyata**  
+4. **Kematangan Bertanggung Jawab (*Rusyd*)**  
+   Kedewasaan manusia dalam Al-Qur'an dipahami sebagai **Rusyd** (QS. An-Nisa' [4]: 6)—yaitu kematangan dalam menggunakan akal budi, kehendak, dan kemampuannya secara bertanggung jawab.[^5] Pribadi yang matang bukan hanya bertambah umur biologisnya, melainkan mampu mempertimbangkan akibat dari perbuatannya, berani mengakui kesalahan, dan tahu kapan harus meminta bantuan.
+5. **Ikhtiar Nyata**  
    Manusia dituntut untuk berusaha sekuat tenaga dan menggunakan akal sehatnya untuk mencapai kebaikan, meskipun hasil akhirnya selalu diserahkan kepada ketentuan Allah.
-5. **Bersifat Relasional**  
+6. **Bersifat Relasional**  
    Manusia tidak hidup dan bertumbuh di ruang hampa yang terisolasi. Manusia hidup dalam tiga hubungan hakiki: hubungan dengan Allah (*hablum minallah*), hubungan dengan sesama manusia (*hablum minannas*), dan hubungan dengan alam lingkungan (*hablum minal 'alam*).
 
 Pengaruh lingkungan pertemanan di asrama sangat menentukan pembentukan karakter santri. Rasulullah Shallallahu 'Alaihi Wasallam memberi perumpamaan yang sangat indah:
 
 > مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَمَثَلِ حَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ
 >
-> *"Perumpamaan teman duduk yang saleh dan teman duduk yang buruk adalah seperti pembawa minyak wangi dan peniup cerobong pandai besi..."* (HR. Al-Bukhari no. 5534 dan Muslim no. 2628)[^4]
+> *"Perumpamaan teman duduk yang saleh dan teman duduk yang buruk adalah seperti pembawa minyak wangi dan peniup cerobong pandai besi..."* (HR. Al-Bukhari no. 5534 dan Muslim no. 2628)[^6]
 
 Oleh karena itu, pesantren harus menjadi lingkungan yang aman (*bi'ah shalihah*), di mana persahabatan yang sehat dan saling menyemangati dalam kebaikan dapat tumbuh subur.
 
 ## Apa akibatnya bagi pendidikan?
 
-Jika santri dipandang sebagai manusia yang sedang bertumbuh, maka pendidikan tidak cukup hanya berupa ceramah satu arah atau tuntutan kepatuhan buta:
+Jika santri dipandang sebagai manusia yang sedang bertumbuh menuju kematangan (*rusyd*), maka pendidikan tidak cukup hanya berupa ceramah satu arah atau tuntutan kepatuhan buta:
 
 Pertama, **santri perlu diberi ruang untuk berlatih bertanggung jawab**. Mereka perlu diberi kesempatan untuk mencoba tugas-tugas nyata, merasakan akibat logis dari pilihannya, menerima masukan yang membangun, dan belajar memperbaiki kesalahan.
 
@@ -70,4 +82,6 @@ Pembahasan tersebut diuraikan pada berkas selanjutnya: `05-Hakikat-Kehidupan-dan
 [^1]: Al-Qur'an al-Karim, Surah Al-Isra' [17] ayat 70.
 [^2]: Bandura, Albert. (2001). Social Cognitive Theory: An Agentic Perspective. *Annual Review of Psychology*, 52(1), 1–26. https://doi.org/10.1146/annurev.psych.52.1.1.
 [^3]: Lerner, Richard M., Brindis, Claire D., Batanova, Milena, & Blum, Robert W. (2017). Adolescent Health Development: A Relational Developmental Systems Perspective. In *Handbook of Life Course Health Development* (hlm. 263–286). Cham: Springer. https://doi.org/10.1007/978-3-319-47143-3_11.
-[^4]: Hadits diriwayatkan oleh Imam Al-Bukhari dalam *Shahih al-Bukhari* (no. 5534) dan Imam Muslim dalam *Shahih Muslim* (no. 2628), dari sahabat Abu Musa al-Asy'ari radhiyallahu 'anhu.
+[^4]: Ibnu Qayyim al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr. (2010). *Tuhfat al-Maudud bi Ahkam al-Maulud*. Damaskus: Dar al-Bayan, hlm. 240–255.
+[^5]: Al-Raghib al-Ashfahani, Al-Husain bin Muhammad. (2009). *Al-Mufradat fi Gharib al-Qur'an*. Damaskus: Dar al-Qalam, hlm. 353 (entri kata *r-sy-d*: keteguhan di atas jalan kebenaran dan kematangan akal budi).
+[^6]: Hadits diriwayatkan oleh Imam Al-Bukhari dalam *Shahih al-Bukhari* (no. 5534) dan Imam Muslim dalam *Shahih Muslim* (no. 2628), dari sahabat Abu Musa al-Asy'ari radhiyallahu 'anhu.

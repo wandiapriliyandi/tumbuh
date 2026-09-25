@@ -64,6 +64,14 @@ Prof. Dr. Syed Muhammad Naquib al-Attas merumuskan bahwa adab adalah pengenalan 
 
 Karya Imam Badruddin Ibnu Jama'ah (*Tadzkirah as-Sami'*) dan Imam Al-Ghazali (*Ihya' 'Ulumiddin*) menegaskan bahwa adab adalah buah nyata dari iman dan ilmu.[^7] Belajar adab harus mendahului belajar ilmu, agar ilmu yang dimiliki tidak melahirkan kesombongan.
 
+## Taubat dan akuntabilitas: kesalahan bukan identitas permanen
+
+Jika manusia dapat tersilap dan kembali ke jalan yang lurus, maka sebuah kesalahan tidak boleh diubah menjadi label atau identitas permanen bagi seorang santri.
+
+Pendidikan yang matang selalu menyediakan ruang untuk bertaubat, mengakui kekeliruan, dan memperbaiki diri.[^8] Namun, taubat sejati tidak berarti menghapus tanggung jawab atau bersikap serba membiarkan (*permisif*). Taubat batiniah memohon ampun kepada Allah, tetapi dampak perbuatan terhadap sesama manusia tetap menuntut penyelesaian nyata.
+
+TUMBUH memadukan dua hal secara seimbang: **kesempatan untuk kembali dan kewajiban menanggung konsekuensi logis**. Ketika seorang santri merusak fasilitas asrama atau menyakiti temannya, ia tidak dicoret masa depannya, namun ia tetap wajib meminta maaf secara tulus dan melakukan perbaikan nyata (*restitusi*) atas kerugian yang ditimbulkan. Dengan cara ini, santri belajar bahwa setiap pilihan hidup selalu membawa akuntabilitas.
+
 ## Ketika prinsip ini masuk ke pendidikan
 
 Pendidikan tidak cukup hanya melahirkan orang yang **bisa** dan terampil. Pendidikan harus membantu santri menggunakan apa yang ia bisa dengan arah yang benar dan bermanfaat.
@@ -71,7 +79,7 @@ Pendidikan tidak cukup hanya melahirkan orang yang **bisa** dan terampil. Pendid
 Karena itu, pembinaan santri mencakup:
 - Melatih kebiasaan mempertimbangkan dampak perbuatan sebelum bertindak;
 - Menjaga kejujuran dalam situasi apa pun, termasuk saat menghadapi ujian;
-- Keberanian mengakui kesalahan dan kesiapan melakukan perbaikan (*restitusi*) secara ksatria; serta
+- Keberanian mengakui kesalahan dan kesiapan melakukan perbaikan secara ksatria; serta
 - Menghargai hak-hak orang lain di lingkungan asrama.
 
 Pada saat yang sama, TUMBUH tidak membalik logika ini dengan menganggap bahwa suatu metode pasti otomatis berhasil hanya karena niatnya baik. Nilai menentukan arah dan batas etika; evaluasi empiris (*evidence*) membantu kita mengetahui apakah cara yang kita pilih benar-benar bekerja secara efektif di lapangan.
@@ -93,3 +101,4 @@ Pembahasan penutup tersebut diuraikan pada berkas selanjutnya: `07-Implikasi-Wor
 [^5]: Izuddin, A., Muhammad, A. N., & Assegaf, A. R. (2023). Adab in Teacher–Student Relations: An Analysis of Al-Ghazali’s Educational Thought. *AL-ADABIYAH: Jurnal Pendidikan Agama Islam*, 7(1), 45–62. https://doi.org/10.35719/adabiyah.v7i1.1263.
 [^6]: Al-Attas, Syed Muhammad Naquib. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM, hlm. 21–25.
 [^7]: Ibnu Jama'ah, Badruddin Muhammad bin Ibrahim. (2012). *Tadzkirah as-Sami' wa al-Mutakallim*. Beirut: Dar al-Basyair al-Islamiyyah, hlm. 22–27.
+[^8]: Ibnu Qayyim al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr. (1996). *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Jilid 1. Beirut: Dar al-Kutub al-Ilmiyyah, hlm. 198–215 (Hakikat Taubat Nasuha dan Restitusi Hak Sesama Hamba).
