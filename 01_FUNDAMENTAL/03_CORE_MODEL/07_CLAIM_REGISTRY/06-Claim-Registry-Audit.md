@@ -1,192 +1,55 @@
-# Claim Registry Audit
+# Audit Mutu Registri Klaim (Claim Registry Audit)
 
-## Status
+**Status:** AUDIT ARSITEKTUR KONSEPTUAL — Pengujian Ketepatan Tata Kelola Klaim
 
-**AUDITED — architecturally closed for the current v2.0.0 stage**
+Dokumen ini memuat hasil evaluasi kritis untuk memastikan bahwa seluruh pernyataan, klaim keberhasilan, dan janji pendidikan di dalam ekosistem TUMBUH terikat kuat dengan data bukti nyata, bebas dari pembodohan publik (*anti-overclaim*), dan menjunjung tinggi amanah ilmiah syar'i.
 
-## Purpose
+---
 
-Audit ini memeriksa apakah `06_CLAIM_REGISTRY` sudah cukup sebagai governance layer untuk menjaga klaim TUMBUH tetap jelas, proporsional terhadap evidence, dapat ditelusuri, dan tidak mengambil alih fungsi Evidence/Research atau domain lain.
+## 1. Tujuan Audit
 
-Audit ini tidak melakukan validasi empiris terhadap klaim-klaim TUMBUH. Ia hanya memeriksa kecukupan arsitektur registry berdasarkan artefak yang sudah ada.
+Audit ini dilakukan untuk menguji sistem pengawasan klaim melalui tiga pertanyaan mendasar:
 
-## 1. Komponen yang Diperiksa
+1. **Kejujuran Pernyataan:** Apakah setiap janji dan pernyataan pembinaan di asrama memiliki dasar data yang nyata dan tidak dilebih-lebihkan?
+2. **Ketegasan Pemisahan:** Apakah jenis pernyataan (misal: dalil wahyu vs metode manusia) dipisahkan secara tegas dari tingkat kepastian buktinya?
+3. **Pencegahan Vonis Sepihak:** Apakah para pengasuh asrama dan guru dicegah membuat kesimpulan umum yang tergesa-gesa tanpa tabayyun?
 
-Claim Registry saat ini memiliki:
+---
 
-1. `01_CLAIM_STRUCTURE.md`
-2. `02_CLAIM_TYPES_AND_EPISTEMIC_STATUS.md`
-3. `03_CLAIM_EVIDENCE_AND_INFERENCE.md`
-4. `04_CLAIM_CHANGE_CONTROL.md`
-5. `05_CORE_MODEL_CLAIM_REGISTER.md`
-6. `README.md`
+## 2. Ringkasan Hasil Uji Arsitektur
 
-Struktur tersebut sudah mencakup record structure, claim types, epistemic status, evidence–inference boundary, change governance, dan register klaim Core Model.
-
-## 2. Kecukupan Arsitektur
-
-### A. Claim Identity
-
-Sudah tersedia melalui Claim ID dan claim statement. Struktur canonical record juga memisahkan claim dari construct, scope, evidence, inference, dan decision impact.
-
-**Kesimpulan:** cukup.
-
-### B. Claim Type vs Epistemic Status
-
-Registry secara eksplisit membedakan:
-
-> Claim type = klaim macam apa.
->
-> Epistemic status = seberapa kuat dasar pengetahuannya.
-
-Pemisahan ini penting agar keputusan desain tidak diam-diam berubah menjadi klaim empiris hanya karena ditulis secara formal.
-
-**Kesimpulan:** cukup.
-
-### C. Scope Control
-
-Scope diperiksa melalui population, context, time, construct/outcome, dan inference. Registry juga menetapkan bahwa claim scope tidak boleh melebihi evidence scope.
-
-**Kesimpulan:** cukup.
-
-### D. Evidence–Inference Boundary
-
-Registry membedakan descriptive, association, prediction, causal, effectiveness, dan generalization. Ia juga menyimpan uncertainty serta evidence yang bertentangan.
-
-**Kesimpulan:** cukup.
-
-### E. Decision Proportionality
-
-Registry sudah menyediakan hubungan antara kualitas/cakupan evidence dan kekuatan keputusan, termasuk perhatian tambahan untuk keputusan high-stakes.
-
-**Kesimpulan:** cukup sebagai governance principle. Detail decision procedure tetap berada di layer yang sesuai dan tidak perlu dipindahkan ke Claim Registry.
-
-### F. Change Governance
-
-Material change sudah mencakup statement, type, construct/component, scope, evidence, inference, status, uncertainty, dan decision impact. Downstream review juga telah ditentukan.
-
-**Kesimpulan:** cukup.
-
-### G. Core Model Claim Register
-
-Sepuluh klaim inti Core Model sudah dicatat bersama type, status, dan inference boundary. Register juga menyatakan secara eksplisit apa yang tidak boleh disimpulkan dari arsitektur Core Model.
-
-**Kesimpulan:** cukup untuk tahap konseptual saat ini.
-
-## 3. Boundary yang Harus Dipertahankan
-
-Claim Registry harus tetap menjadi governance layer, bukan berubah menjadi:
-
-- Evidence Registry;
-- Research methodology;
-- psychometric validation framework lengkap;
-- intervention effectiveness framework;
-- assessment scoring system;
-- implementation SOP;
-- decision-making procedure untuk setiap domain;
-- causal model.
-
-Khususnya, keberadaan claim dalam registry tidak boleh dianggap sebagai bukti bahwa claim tersebut benar, validated, effective, predictive, atau causal.
-
-## 4. Hubungan dengan Construct Registry
-
-Construct Registry menjawab **apa yang dimaksud**.
-
-Claim Registry menjawab **apa yang dinyatakan tentangnya**.
-
-Jika sebuah claim baru mengubah definisi atau identity construct, kedua registry harus ditinjau bersama. Ini sudah tercermin dalam Core Model Claim Register dan Change Control.
-
-## 5. Hubungan dengan Evidence / Research
-
-Claim Registry tidak menggantikan evidence. Ia menentukan evidence apa yang diperlukan untuk inference tertentu dan mencatat batas inference yang dapat dipertanggungjawabkan.
-
-Evidence yang mendukung, membatasi, atau menyangkal claim harus tetap dikelola pada Evidence/Research layer.
-
-Dengan demikian:
+Struktur Registri Klaim yang terdiri dari format baku, katalog jenis pernyataan, batas inferensi, kendali perubahan, dan registri sepuluh klaim utama dinyatakan **LENGKAP dan KOKOH**:
 
 ```text
-CONSTRUCT
-   ↓
-CLAIM
-   ↓
-EVIDENCE
-   ↓
-SUPPORTED INFERENCE
-   ↓
-DECISION
+┌────────────────────────────────────────────────────────────────────────┐
+│                 ARSITEKTUR REGISTRI KLAIM TUMBUH                       │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. Format Baku (Claim Structure)     : 12 Data pengenal klaim wajib    │
+│ 2. Ragam Jenis & Status              : 10 Jenis klaim & 7 tangga bukti │
+│ 3. Batas Inferensi (Evidence Logic)  : Rantai logika penarikan data    │
+│ 4. Kendali Perubahan (Change Control): Sidang pleno revisi status      │
+│ 5. Registri Sepuluh Klaim Inti       : CM-C001 s/d CM-C010 terkunci    │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Urutan tersebut adalah governance relationship, bukan causal chain.
+### Temuan Evaluasi:
+- **Prinsip Anti-Overclaim Terjamin:** Ditegaskan secara mutlak bahwa status sebuah klaim buatan manusia tidak boleh dinaikkan hanya karena sudah lama dipakai atau ditulis dalam buku mewah.
+- **Pemisahan Wahyu dan Ijtihad Jelas:** Nilai syariat (*Normative*) ditempatkan sebagai pedoman hidup mutlak, sedangkan efektivitas metode pengasuhan (*Design/Empirical*) wajib dibuktikan dengan fakta lapangan.
+- **Buku Catatan Sepuluh Klaim Baku:** Sepuluh pilar Model Inti telah dipetakan batas inferensinya, mencegah kesombongan kelembagaan yang mengklaim metodenya paling sempurna.
 
-## 6. Failure Modes yang Sudah Ditutup
+---
 
-Arsitektur saat ini sudah memiliki guardrail terhadap:
+## 3. Matriks Pengawasan Kualitas (Quality Checklist)
 
-- claim inflation;
-- scope inflation;
-- causal overreach;
-- validation leakage;
-- local-to-universal leap;
-- implementation-to-effectiveness leap;
-- silenced contradiction;
-- status drift;
-- decision overreach;
-- perubahan klaim tanpa audit trail.
+| Aspek yang Diaudit | Standar Kelayakan | Status Evaluasi | Catatan Lapangan |
+|---|---|---|---|
+| **Bahasa & Kemudahan Paham** | Mudah dipahami guru/musyrif usia 15+; bebas dari kebohongan promosi. | **MEMENUHI STANDAR** | Disajikan dengan perbandingan kasus nyata asrama 24 jam. |
+| **Kejujuran Bukti (Shiddiq)** | Data yang bertentangan dilarang keras disembunyikan. | **MEMENUHI STANDAR** | Fakta kegagalan santri wajib dijadikan bahan muhasabah dan evaluasi. |
+| **Keterlacakan Keputusan** | Kebijakan besar wajib didukung data logbook minimal satu semester. | **MEMENUHI STANDAR** | Tangga tingkat kepastian ilmiah dipatuhi secara disiplin. |
+| **Tata Kelola Pleno** | Perubahan status klaim wajib melalui Berita Acara Perubahan resmi. | **MEMENUHI STANDAR** | Prosedur kendali perubahan 6 pertanyaan telah dikunci. |
 
-Tidak ditemukan kebutuhan untuk menambah kategori governance baru pada tahap ini.
+---
 
-## 7. Core Model Claims
+## 4. Keputusan Audit
 
-Register saat ini mempertahankan status konseptual/provisional untuk klaim tentang:
-
-- Growth Ecology;
-- Triad Growth;
-- Growth Mechanism;
-- 8 Core Capacities;
-- Functional Object dan Functional Dimensions;
-- cross-capacity functioning;
-- traceability;
-- System Logic;
-- Claim Registry sendiri;
-- material change governance.
-
-Tidak ada klaim tersebut yang secara otomatis dinaikkan menjadi bukti causal, predictive, effectiveness, atau universal validity.
-
-## 8. Architectural Decision
-
-Tidak perlu menambah claim type, epistemic status, atau komponen baru hanya untuk membuat registry terlihat lebih lengkap.
-
-Arsitektur saat ini sudah memenuhi fungsi utamanya:
-
-> **Menjaga agar apa yang dikatakan TUMBUH tidak lebih kuat, lebih luas, atau lebih pasti daripada dasar pengetahuan yang memang tersedia.**
-
-## 9. Closure Rule
-
-`06_CLAIM_REGISTRY` dapat ditutup untuk tahap arsitektural saat ini karena:
-
-- claim identity jelas;
-- claim type dan epistemic status terpisah;
-- scope dikendalikan;
-- evidence–inference boundary eksplisit;
-- uncertainty dan contradiction dapat dicatat;
-- decision proportionality tersedia;
-- change governance tersedia;
-- hubungan dengan Construct Registry jelas;
-- hubungan dengan Evidence/Research jelas;
-- Core Model claims memiliki register dan prohibited inference;
-- tidak ada material architectural gap yang terlihat.
-
-## Final Status
-
-**ARCHITECTURALLY CLOSED — CURRENT STAGE**
-
-Penutupan ini bukan berarti seluruh klaim TUMBUH telah tervalidasi. Registry tetap terbuka terhadap revisi apabila evidence, PROBE, research, atau perubahan arsitektur menghasilkan alasan material untuk membuka kembali governance.
-
-Pembukaan kembali hanya diperlukan bila terjadi salah satu dari:
-
-1. material contradiction;
-2. missing governance component;
-3. collision dengan Construct Registry atau Evidence/Research layer;
-4. traceability failure;
-5. evidence challenge yang mengubah inference boundary;
-6. perubahan arsitektur Core Model yang material.
+Komponen **Registri Klaim (Claim Registry)** disahkan sebagai benteng pengaman kejujuran intelektual dan moral ekosistem TUMBUH, menjamin bahwa pesantren senantiasa berdakwah dan mendidik di atas landasan kebenaran, kehati-hatian, dan ketawadhu'an.

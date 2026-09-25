@@ -1,103 +1,69 @@
-# Claim Evidence and Inference
+# Bukti Pendukung dan Batas Penarikan Kesimpulan Klaim (Claim Evidence and Inference)
 
-## Purpose
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Menjaga Keselarasan Data dan Pernyataan
 
-Claim Registry menghubungkan klaim dengan evidence tanpa menganggap keberadaan evidence sebagai pembenaran otomatis terhadap inference yang lebih kuat.
+Dokumen ini menjelaskan bagaimana sebuah bukti (*evidence*) di asrama pesantren dinilai kelayakannya sebelum digunakan untuk mendukung sebuah pernyataan atau kebijakan pembinaan santri.
 
-## Canonical Logic
+---
 
-```text
-CLAIM
-↓
-REQUIRED EVIDENCE
-↓
-EVIDENCE SCOPE & QUALITY
-↓
-SUPPORTED INFERENCE
-↓
-UNCERTAINTY / LIMITATION
-↓
-DECISION IMPACT
-```
+## 1. Mengapa Satu Bukti Kecil Tidak Boleh Dipakai Menyimpulkan Segala Hal?
 
-## Evidence Fit
+Perhatikan contoh kejadian di asrama:
+> Seorang musyrif melihat dua orang santri berkelahi di dekat tempat jemuran. Musyrif tersebut lalu membuat pengumuman: *"Seluruh santri di asrama ini telah rusak persaudaraannya dan tidak lagi saling menyayangi!"*
 
-Evidence dinilai berdasarkan kecocokannya dengan inference yang hendak dibuat, sekurang-kurangnya pada:
+Musyrif tersebut melakukan kesalahan inferensi yang sangat fatal: ia menggunakan satu insiden kecil antara dua santri untuk menjatuhkan vonis kepada ratusan santri lainnya.
 
-- construct/outcome;
-- population;
-- context;
-- time;
-- design;
-- measurement quality;
-- completeness and consistency;
-- alternative explanations.
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-Registry tidak menggunakan keberadaan satu sumber sebagai alasan cukup untuk semua jenis klaim.
+> **Bagaimana kita memastikan bahwa kesimpulan yang kita ambil benar-benar sepadan dengan luas dan mutu bukti data yang kita miliki di lapangan?**
 
-## Inference Boundaries
+---
 
-### Descriptive
-Data deskriptif dapat mendukung pernyataan tentang apa yang diamati dalam scope tersebut. Ia tidak otomatis mendukung generalisasi universal atau causal claim.
+## 2. Rantai Logika Bukti yang Sah (Canonical Evidence Logic)
 
-### Association
-Hubungan statistik/observasional dapat mendukung klaim association dalam scope tertentu. Ia tidak otomatis membuktikan sebab-akibat.
-
-### Prediction
-Kemampuan prediktif harus dibuktikan dengan evaluasi prediktif yang sesuai. Association atau face validity tidak cukup.
-
-### Causal
-Causal claim membutuhkan evidence yang sesuai dengan pertanyaan sebab-akibat dan pengendalian alternatif penjelasan yang memadai. Desain konseptual TUMBUH sendiri tidak merupakan causal evidence.
-
-### Effectiveness
-Klaim effectiveness membutuhkan evaluasi outcome yang dapat dikaitkan secara defensible dengan intervention/system, bukan sekadar bukti bahwa implementasi berlangsung.
-
-### Generalization
-Generalisasi harus mempertimbangkan apakah evidence mencakup populasi, konteks, usia, budaya, dan kondisi yang menjadi sasaran klaim.
-
-## What Cannot Be Inferred Automatically
+Setiap pengambilan kesimpulan di asrama wajib mengikuti lima mata rantai yang tidak boleh terputus:
 
 ```text
-CONCEPTUAL COHERENCE
-    ≠
-EMPIRICAL VALIDITY
-
-PILOT RESULT
-    ≠
-UNIVERSAL EFFECTIVENESS
-
-ASSOCIATION
-    ≠
-CAUSALITY
-
-IMPLEMENTATION FIDELITY
-    ≠
-OUTCOME EFFECTIVENESS
-
-OBSERVED PERFORMANCE
-    ≠
-CAPACITY CHANGE
+┌────────────────────────────────────────────────────────────────────────┐
+│                   RANTAI LOGIKA BUKTI YANG SEHAT                       │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. PERNYATAAN (Klaim)    : Apa yang ingin kita simpulkan?              │
+│            ↓                                                           │
+│ 2. KEBUTUHAN DATA        : Bukti apa yang sebenarnya disyaratkan?      │
+│            ↓                                                           │
+│ 3. MUTU & LINGKUP DATA   : Apakah datanya jujur, lengkap, dan cukup?   │
+│            ↓                                                           │
+│ 4. KESIMPULAN YANG SAH   : Batas apa saja yang boleh disimpulkan?      │
+│            ↓                                                           │
+│ 5. PENGAKUAN KETERBATASAN: Apa saja yang masih belum kita ketahui?     │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-## Contradictory Evidence
+---
 
-Evidence yang bertentangan tidak boleh dihapus hanya karena tidak sesuai dengan model. Record harus mempertahankan:
+## 3. Menilai Kecocokan Bukti (Evidence Fit)
 
-1. klaim yang dipersoalkan;
-2. evidence yang mendukung;
-3. evidence yang bertentangan;
-4. perbedaan scope/metode yang mungkin menjelaskan konflik;
-5. status uncertainty;
-6. keputusan sementara, bila ada.
+Sebelum sebuah data logbook atau laporan pengasuh digunakan untuk membuat kebijakan, periksa kecocokannya pada lima sumbu:
 
-## Uncertainty
+1. **Kesesuaian Populasi:** Apakah data ini hanya diambil dari santri senior kelas 12, lalu mau dipaksakan berlaku bagi santri baru kelas 7?
+2. **Kesesuaian Suasana (Konteks):** Apakah ketertiban santri saat diawasi di masjid mau disimpulkan berlaku sama saat mereka berada sendirian di kamar malam hari?
+3. **Kesesuaian Rentang Waktu:** Apakah data satu pekan yang baik mau diklaim sebagai karakter yang sudah permanen seumur hidup?
+4. **Mutu Alat Ukur:** Apakah catatan musyrif benar-benar objektif, atau hanya ditulis berdasarkan perasaan suka dan tidak suka pribadi?
+5. **Kemungkinan Sebab Lain:** Apakah santri bangun pagi karena adabnya sudah mandiri, atau hanya karena cuaca kamar sedang sangat panas sehingga mereka tidak bisa tidur?
 
-Uncertainty bukan kegagalan registry. Ia merupakan informasi epistemik yang harus terlihat ketika evidence belum cukup untuk inference yang lebih kuat.
+---
 
-## Decision Boundary
+## 4. Menghadapi Fakta yang Bertentangan (Contradictory Evidence)
 
-Semakin besar konsekuensi keputusan, semakin ketat kebutuhan evidence dan pemeriksaan uncertainty. Untuk keputusan high-stakes, registry harus menandai evidence gap dan inference boundary secara eksplisit.
+Di lapangan, kita sering menemukan fakta yang tidak sesuai dengan harapan program kita: misalnya santri yang rajin mengikuti halaqoh adab ternyata kedapatan mengambil uang kawannya.
 
-## Boundary
+Dalam sistem TUMBUH, **data yang bertentangan dilarang keras disembunyikan atau dihapus demi menjaga nama baik program**.
+- Catat fakta tersebut secara jujur apa adanya;
+- Jadikan bahan muhasabah dan evaluasi bersama para pengasuh;
+- Cari tahu apa yang membuat santri tersebut tergelincir, dan perbaiki pendekatan pendampingan pribadi kepadanya.
 
-> **Evidence mendukung inference tertentu dalam scope tertentu; evidence tidak memberikan izin otomatis untuk memperluas klaim.**
+---
+
+## Ringkasan Inti
+
+> **Kebenaran tidak pernah takut pada data yang jujur. Dengan menakar bukti secara adil dan berhati-hati dalam menarik kesimpulan, para pendidik di pesantren menjaga diri dari kezaliman prasangka, sekaligus merawat proses tarbiyah di atas landasan fakta yang kokoh dan berintegritas.**

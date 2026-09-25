@@ -1,44 +1,42 @@
-# Core Model Claim Register
+# Registri Sepuluh Klaim Utama Model Inti (Core Model Claim Register)
 
-## Purpose
+**Status:** KONSEPTUAL KANONIK — Buku Catatan Sepuluh Klaim Baku TUMBUH
 
-Register ini mencatat klaim inti yang muncul dari arsitektur Core Model v2.0.0. Ia dimaksudkan untuk menjaga perbedaan antara spesifikasi konseptual dan validasi empiris.
+Dokumen ini mencatat sepuluh pernyataan inti yang mendasari rancang bangun Model Inti (*Core Model v2.0.0*), lengkap dengan jenis pernyataan, status kepastiannya, dan batas kesimpulan yang boleh ditarik.
 
-## Canonical Claims
+---
 
-| ID | Claim | Type | Current status | Inference boundary |
+## 1. Tabel Registri Sepuluh Klaim Utama Model Inti
+
+Berikut adalah matriks resmi sepuluh klaim fondasi TUMBUH:
+
+| ID | Isi Pernyataan Klaim | Jenis Pernyataan | Status Kepastian | Batas Kesimpulan yang Sah |
 |---|---|---|---|---|
-| CM-C001 | Growth Ecology menjelaskan konteks dan relasi tempat pertumbuhan berlangsung. | DEFINITIONAL / DESIGN | DESIGNED | Tidak membuktikan efek kausal ecology tertentu. |
-| CM-C002 | Triad Growth menempatkan Santri, Guru/Musyrif, dan Lembaga sebagai inti operational ecology. | DESIGN | DESIGNED | Bukan bukti bahwa triad secara universal cukup untuk semua konteks. |
-| CM-C003 | Growth Mechanism dirumuskan sebagai proses Experience → Engagement → Practice → Feedback ↔ Reflection → Adaptation → Capacity Change, dengan Support dan Environment sebagai kondisi pendukung/pembentuk. | DESIGN / HYPOTHESIS | DESIGNED / PROVISIONAL | Diagram mekanisme bukan causal proof. |
-| CM-C004 | Core Capacity Architecture menggunakan 8 Core Capacities sebagai konstruk inti fungsional. | DESIGN / DEFINITIONAL | DESIGNED — CONCEPTUAL SPECIFICATION | Belum berarti struktur 8 kapasitas tervalidasi secara empiris lintas populasi/konteks. |
-| CM-C005 | Setiap Core Capacity memiliki Functional Object dan Functional Dimensions yang membedakan identitas fungsionalnya. | DEFINITIONAL / DESIGN | DESIGNED | Struktur konseptual tidak otomatis membuktikan discriminant validity empiris. |
-| CM-C006 | Core Capacities dapat berfungsi bersama dalam aktivitas kompleks tanpa harus menjadi konstruk yang sama. | DESIGN / HYPOTHESIS | PROVISIONAL | Tidak boleh dibaca sebagai bukti korelasi, prediksi, atau kausalitas. |
-| CM-C007 | Traceability menghubungkan arah normatif, construct, progression, assessment, intervention, implementation, dan evidence/research. | DESIGN | DESIGNED | Traceability tidak sama dengan validation atau effectiveness. |
-| CM-C008 | System Logic menghubungkan Growth Ecology, Growth Mechanism, dan Core Capacity Architecture sebagai satu Core Model. | DESIGN | DESIGNED | Relasi arsitektural bukan causal graph tervalidasi. |
-| CM-C009 | Claim Registry membatasi scope dan inference klaim berdasarkan evidence yang tersedia. | DESIGN | DESIGNED | Governance tidak membuat klaim benar secara otomatis. |
-| CM-C010 | Perubahan claim/construct yang material perlu meninggalkan audit trail dan meninjau artefak downstream. | DESIGN | DESIGNED | Kepatuhan proses tidak membuktikan kualitas substantif klaim. |
+| **CM-C001** | Ekologi Pertumbuhan (*Growth Ecology*) menjelaskan wadah dan iklim tempat santri berinteraksi selama 24 jam. | Definisi & Pilihan Desain | **TELAH DIRANCANG** (*Designed*) | Menjelaskan peta lingkungan santri, bukan bukti bahwa lingkungan otomatis mengubah akhlak santri tanpa niatnya. |
+| **CM-C002** | Tiga Poros Utama (*Triad Growth*) menempatkan Santri, Guru/Musyrif, dan Lembaga sebagai inti pengasuhan. | Pilihan Desain | **TELAH DIRANCANG** (*Designed*) | Kerangka kerja sama anti-saling menyalahkan, bukan klaim bahwa semua masalah selesai hanya dengan tiga poros ini. |
+| **CM-C003** | Mekanisme Pertumbuhan bergerak melalui alur Pengalaman $\rightarrow$ Keterlibatan $\rightarrow$ Latihan $\rightarrow$ Umpan Balik $\leftrightarrow$ Muhasabah $\rightarrow$ Adaptasi $\rightarrow$ Karakter Membatin. | Desain & Hipotesis Ilmiah | **DIRANCANG SEMENTARA** (*Provisional*) | Alur proses konseptual tarbiyah, bukan rumus matematika sebab-akibat mutlak. |
+| **CM-C004** | Arsitektur Kapasitas Inti menggunakan 8 Kapasitas Inti (CC-01 s/d CC-08) sebagai representasi fungsional adab santri. | Definisi & Desain | **TELAH DIRANCANG** (*Designed*) | Pilihan model kerja sistem TUMBUH, bukan klaim bahwa 8 kapasitas adalah satu-satunya teori di dunia. |
+| **CM-C005** | Setiap Kapasitas Inti memiliki objek fungsi dan cabang dimensi yang membedakan tugasnya secara tegas. | Definisi & Desain | **TELAH DIRANCANG** (*Designed*) | Membedakan wilayah kerja antar-kapasitas, bukan bukti bahwa kapasitas berdiri sendiri secara terisolasi. |
+| **CM-C006** | Berbagai kapasitas inti dapat bekerja sama dalam satu tindakan santri tanpa harus dilebur menjadi satu konsep. | Desain & Hipotesis | **SEMENTARA** (*Provisional*) | Menjelaskan keterpaduan amal, bukan bukti statistik korelasi mutlak. |
+| **CM-C007** | Keterlacakan sistem menghubungkan arah syar'i, profil lulusan, tangga mandiri, hingga catatan logbook musyrif. | Pilihan Desain | **TELAH DIRANCANG** (*Designed*) | Menjamin kejelasan silsilah alasan, bukan jaminan otomatis bahwa program pasti berhasil. |
+| **CM-C008** | Logika Sistem (*System Logic*) memadukan Ekologi, Mekanisme, dan Kapasitas Inti menjadi satu kesatuan yang serasi. | Pilihan Desain | **TELAH DIRANCANG** (*Designed*) | Hubungan tata kelola arsitektur, bukan grafik sebab-akibat mekanik. |
+| **CM-C009** | Registri Klaim mengikat setiap pernyataan keberhasilan dengan bukti nyata di lapangan demi mencegah overclaim. | Pilihan Desain | **TELAH DIRANCANG** (*Designed*) | Tata kelola keterbukaan, bukan jaminan bahwa semua klaim otomatis benar. |
+| **CM-C010** | Setiap perubahan konsep atau klaim wajib meninggalkan jejak tertulis dan meninjau dampaknya ke asrama. | Pilihan Desain | **TELAH DIRANCANG** (*Designed*) | Menjaga stabilitas tata tertib dan kurikulum asrama dari gonta-ganti aturan sepihak. |
 
-## Global Status Boundary
+---
 
-Core Model v2.0.0 pada tahap ini diperlakukan sebagai:
+## 2. Status Menyeluruh Model Inti (Global Status Boundary)
 
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
+Arsitektur Model Inti (*Core Model v2.0.0*) secara keseluruhan berada pada status:
 
-Artinya arsitektur dan definisi yang telah ditetapkan dapat menjadi spesifikasi kanonik TUMBUH, tetapi klaim empiris, psikometrik, prediktif, kausal, efektivitas, dan generalisasi tetap memerlukan penelitian yang sesuai.
+$$\textbf{SPESIFIKASI RANCANGAN KANONIK RESMI} \quad / \quad \textbf{STATUS EMPIRIS PROVISIONAL}$$
 
-## Prohibited Inference
+**Maksudnya bagi Pengasuh dan Guru di Lapangan:**
+- Seluruh definisi, nama 8 kapasitas, dan alur mekanisme pembinaan sudah **resmi ditetapkan sebagai pedoman bersama** bagi seluruh tim pesantren.
+- Namun, efektivitas dan tingkat keberhasilannya di setiap asrama tetap **harus dibuktikan dengan catatan data logbook nyata** dari semester ke semester. Kita tidak boleh merasa sombong bahwa sistem kita sudah paling sempurna tanpa bukti nyata di lapangan.
 
-Dari register ini tidak boleh langsung disimpulkan bahwa:
+---
 
-- 8 kapasitas adalah satu-satunya struktur yang mungkin secara ilmiah;
-- setiap kapasitas independen secara empiris;
-- Growth Mechanism telah terbukti sebagai mekanisme universal;
-- intervensi yang mengikuti Core Model pasti efektif;
-- implementation fidelity menjamin outcome;
-- Graduate Profile atau 10 Muwashofat adalah ukuran empiris kapasitas;
-- hubungan antarkomponen adalah causal graph.
+## Ringkasan Inti
 
-## Review Rule
-
-Setiap klaim baru tentang Core Model harus diperiksa terhadap register ini sebelum diperlakukan sebagai canonical. Jika klaim baru memperkuat inference, memperluas scope, atau mengubah construct identity, Claim Registry dan Construct Registry harus ditinjau bersama.
+> **Buku Catatan Sepuluh Klaim Utama Model Inti adalah cermin kejujuran intelektual pesantren TUMBUH. Kita berani menetapkan pedoman yang jelas dan tegas, sembari tetap rendah hati mengakui batas-batas pembuktian di lapangan demi menjaga kemurnian niat semata-mata mengharap ridha Allah SWT.**

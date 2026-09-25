@@ -1,103 +1,81 @@
-# Claim Types and Epistemic Status
+# Jenis Klaim dan Tingkat Kepastian Pengetahuan (Claim Types and Epistemic Status)
 
-## Purpose
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Membedakan Jenis Pernyataan & Bobot Kebenaran
 
-Claim type dan epistemic status adalah dua dimensi berbeda dan wajib dipisahkan.
+Dokumen ini menjelaskan dua dimensi yang mutlak dipisahkan dalam mengevaluasi setiap pernyataan di lingkungan pesantren: **Jenis Pernyataan (*Claim Type*)** dan **Tingkat Kepastian Buktinya (*Epistemic Status*)**.
 
-> **Claim type = klaim macam apa.**
->
-> **Epistemic status = seberapa kuat dasar pengetahuannya.**
+---
 
-## Canonical Claim Types
+## 1. Mengapa Kita Harus Membedakan Jenis Pernyataan dan Bobot Kebenarannya?
 
-### NORMATIVE
-Pernyataan tentang arah, nilai, atau apa yang seharusnya menjadi tujuan.
+Perhatikan kekeliruan fatal yang sering terjadi dalam dialog pendidikan:
+- *"Karena Al-Qur'an mewajibkan shalat berjamaah, maka metode hukuman push-up bagi santri yang terlambat shalat pasti benar secara syariat!"*
 
-### DEFINITIONAL
-Pernyataan tentang arti istilah atau identitas construct.
+Pernyataan di atas mencampuradukkan dua hal yang sangat berbeda:
+1. **Perintah Syariat Shalat Berjamaah:** Nilai kebenaran mutlak dari wahyu (*Normative Claim*).
+2. **Metode Hukuman Push-up:** Rancangan buatan manusia (*Design/Intervention Claim*) yang belum tentu efektif dan belum tentu sesuai dengan sunnah kasih sayang Nabi.
 
-### DESIGN
-Keputusan rancangan yang dibuat oleh TUMBUH.
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-### EMPIRICAL
-Pernyataan yang memerlukan dukungan observasi atau data empiris.
+> **Pernyataan macam apa yang sedang kita bicarakan, dan seberapa kuat dasar bukti nyata yang menopangnya?**
 
-### CAUSAL
-Pernyataan bahwa perubahan pada suatu faktor menyebabkan perubahan pada outcome tertentu.
+---
 
-### PREDICTIVE
-Pernyataan tentang kemampuan suatu construct, measure, atau model memprediksi outcome.
+## 2. Katalog 10 Jenis Pernyataan Utama (Canonical Claim Types)
 
-### IMPLEMENTATION
-Pernyataan tentang fidelity, feasibility, kondisi, atau proses pelaksanaan.
-
-### OUTCOME
-Pernyataan tentang hasil yang diamati.
-
-### EFFECTIVENESS
-Pernyataan bahwa intervensi atau sistem menghasilkan manfaat tertentu.
-
-### SAFETY
-Pernyataan tentang keamanan, harm, atau risiko.
-
-### HYPOTHESIS
-Pernyataan yang sengaja diajukan untuk diuji dan belum dianggap established.
-
-### SIMULATION
-Hasil dari model atau simulasi; tidak otomatis merupakan temuan lapangan.
-
-## Epistemic Status
-
-Status yang tersedia antara lain:
-
-- `PROPOSED`
-- `DESIGNED`
-- `EXPERT REVIEWED`
-- `PILOT TESTED`
-- `LOCALLY EVALUATED`
-- `EMPIRICALLY SUPPORTED`
-- `PSYCHOMETRICALLY EVALUATED`
-- `IMPLEMENTATION TESTED`
-- `OUTCOME EVALUATED`
-- `CAUSALLY EVALUATED`
-- `REJECTED / NOT SUPPORTED`
-
-Status tidak membentuk tangga otomatis. Sebuah klaim tidak boleh naik status hanya karena melewati waktu, digunakan berulang kali, atau ditempatkan dalam dokumen yang lebih formal.
-
-## Status Interpretation
-
-| Status | Makna minimum |
-|---|---|
-| PROPOSED | Diajukan, belum ditetapkan sebagai desain/temuan |
-| DESIGNED | Ditentukan sebagai bagian rancangan TUMBUH |
-| EXPERT REVIEWED | Ditinjau oleh reviewer yang relevan |
-| PILOT TESTED | Pernah diuji secara terbatas |
-| LOCALLY EVALUATED | Dievaluasi dalam konteks lokal tertentu |
-| EMPIRICALLY SUPPORTED | Memiliki dukungan empiris yang relevan terhadap klaim |
-| PSYCHOMETRICALLY EVALUATED | Construct/measure telah menjalani evaluasi psikometrik yang relevan |
-| IMPLEMENTATION TESTED | Aspek implementasi telah diuji |
-| OUTCOME EVALUATED | Outcome telah dievaluasi sesuai desain |
-| CAUSALLY EVALUATED | Klaim kausal telah diuji dengan desain yang memadai untuk inference tersebut |
-| REJECTED / NOT SUPPORTED | Bukti yang tersedia tidak mendukung klaim sebagaimana dirumuskan |
-
-Status dapat memerlukan beberapa jenis evidence sekaligus. Tidak ada satu status yang otomatis membuktikan semua dimensi validitas.
-
-## Common Confusions
+Di dalam TUMBUH, setiap ucapan dan kebijakan dikelompokkan ke dalam jenisnya masing-masing:
 
 ```text
-DEFINITIONAL ≠ EMPIRICALLY VALIDATED
-DESIGN ≠ EFFECTIVE
-ASSOCIATION ≠ CAUSAL
-PILOT ≠ UNIVERSAL
-IMPLEMENTATION FIDELITY ≠ EFFECTIVENESS
-OUTCOME ≠ CAUSAL ATTRIBUTION
-PSYCHOMETRIC EVIDENCE ≠ SYSTEM EFFECTIVENESS
+┌────────────────────────────────────────────────────────────────────────┐
+│                   KATALOG JENIS PERNYATAAN TUMBUH                      │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. NORMATIF (Syar'i)   : Arah nilai moral & wahyu (Wajib, Sunnah, Adab)│
+│ 2. DEFINISI            : Penjelasan arti sebuah kata atau konsep       │
+│ 3. RANCANGAN (Design)  : Pilihan arsitektur sistem yang kita buat      │
+│ 4. FAKTA LAPANGAN      : Apa yang teramati secara nyata di asrama      │
+│ 5. SEBAB-AKIBAT (Causal): Hubungan bahwa A menyebabkan terjadinya B    │
+│ 6. PREDIKSI            : Perkiraan apa yang akan terjadi di masa depan │
+│ 7. PELAKSANAAN         : Catatan apakah SOP dijalankan dengan disiplin │
+│ 8. HASIL (Outcome)     : Nilai rapor atau perubahan perilaku santri    │
+│ 9. EFEKTIVITAS         : Bukti bahwa program membawa manfaat nyata     │
+│ 10. HIPOTESIS          : Dugaan awal yang sengaja diajukan untuk diuji │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-## Core Model Application
+---
 
-Untuk Core Model v2.0.0, spesifikasi konseptual seperti definisi 8 Core Capacities dapat memiliki status `DESIGNED` atau status konseptual lain yang sesuai. Hal tersebut tidak boleh dipresentasikan sebagai bukti bahwa konstruk telah tervalidasi lintas populasi, budaya, usia, atau konteks.
+## 3. Tangga Tingkat Kepastian Ilmiah (Epistemic Status)
 
-## Boundary
+Tingkat kepastian sebuah pernyataan ilmiah buatan manusia tidak naik secara otomatis hanya karena sering diulang-ulang. Status kepastian bergerak mengikuti kekuatan data bukti:
 
-Claim type memberi tahu bentuk inference yang dibutuhkan. Epistemic status hanya boleh mencerminkan evidence aktual. Keduanya tidak boleh digunakan untuk membuat legitimasi epistemik secara otomatis.
+| Status Kepastian | Makna yang Sebenarnya | Contoh di Asrama Pesantren |
+|---|---|---|
+| **DIAJUKAN (*Proposed*)** | Baru sekadar ide atau usulan dari seorang guru. | Usulan menambah jam tidur siang 30 menit. |
+| **DIRANCANG (*Designed*)** | Sudah disepakati masuk ke dalam buku pedoman asrama. | Sistem piket kamar dibagi menjadi regu pagi dan sore. |
+| **DITINJAU PAKAR (*Expert Reviewed*)** | Sudah diperiksa oleh para ahli pendidikan dan ulama. | Modul kurikulum adab telah ditelaah para pengasuh senior. |
+| **DIUJI COBA TERBATAS (*Pilot Tested*)** | Telah diuji coba di lingkup kecil (1–2 kamar). | Metode jam weker mandiri diuji coba di Kamar Umar bin Khattab. |
+| **DIDUKUNG DATA NYATA (*Empirically Supported*)** | Catatan logbook membuktikan adanya perubahan nyata. | Data 3 bulan menunjukkan angka keterlambatan Subuh turun 70%. |
+| **TERBUKTI EFEKTIF (*Outcome Evaluated*)** | Evaluasi jangka panjang membuktikan manfaat program. | Santri yang lulus tetap menjaga shalat berjamaah di masyarakat. |
+| **DITOLAK / TIDAK TERBUKTI (*Not Supported*)** | Data membuktikan program tidak membawa manfaat. | Terbukti hukuman bentakan justru membuat santri makin membangkang. |
+
+---
+
+## 4. Tujuh Jebakan Logika yang Wajib Dihindari (Common Confusions)
+
+Para pendidik dilarang keras melakukan lompatan kesimpulan keliru berikut:
+
+$$\begin{aligned}
+\text{Definisi di Kertas} &\neq \text{Kenyataan di Hati Santri} \\
+\text{Rancangan Program yang Bagus} &\neq \text{Otomatis Efektif Berhasil} \\
+\text{Dua Kejadian Berbarengan} &\neq \text{Yang Satu Menyebabkan yang Lain} \\
+\text{Sukses di Satu Kamar Asrama} &\neq \text{Pasti Sukses di Seluruh Dunia} \\
+\text{Musyrif Menjalankan SOP} &\neq \text{Santri Otomatis Berakhlak Mulia} \\
+\text{Nilai Ujian Adab Tinggi} &\neq \text{Karakter Santri Sudah Sempurna} \\
+\text{Niat Baik Pendidik} &\neq \text{Metode Pendidik Pasti Benar}
+\end{aligned}$$
+
+---
+
+## Ringkasan Inti
+
+> **Membedakan jenis klaim dan tingkat kepastian ilmiah adalah adab tertinggi para pencari kebenaran. Kita menempatkan dalil syariat pada posisi kehormatan tertinggi sebagai pedoman hidup, sembari bersikap rendah hati dan jujur terhadap keterbatasan metode buatan manusia di lapangan.**

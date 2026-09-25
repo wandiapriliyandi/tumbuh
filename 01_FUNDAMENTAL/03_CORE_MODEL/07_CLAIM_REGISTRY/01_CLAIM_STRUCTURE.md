@@ -1,97 +1,55 @@
-# Claim Structure
+# Struktur Registri Klaim (Claim Structure)
 
-## Purpose
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Format Baku Pencatatan Pernyataan Ilmiah
 
-Dokumen ini menetapkan struktur minimum agar setiap klaim inti TUMBUH dapat dibaca, dibandingkan, ditinjau, dan diaudit tanpa mencampurkan jenis klaim dengan kekuatan evidence.
+Dokumen ini menetapkan struktur standar pencatatan setiap pernyataan atau klaim keberhasilan yang dibuat oleh sistem TUMBUH, agar setiap klaim memiliki dasar bukti yang jujur, terukur, dan bebas dari kebohongan publik (*anti-overclaim*).
 
-## Canonical Record
+---
 
-```text
-CLAIM ID
-↓
-CLAIM STATEMENT
-↓
-CLAIM TYPE
-↓
-AFFECTED CONSTRUCT / COMPONENT
-↓
-SCOPE
-↓
-RATIONALE / LINEAGE
-↓
-EVIDENCE
-↓
-SUPPORTED INFERENCE
-↓
-LIMITATIONS / UNCERTAINTY
-↓
-EPISTEMIC STATUS
-↓
-DECISION IMPACT
-↓
-REVIEW / CHANGE TRACE
-```
+## 1. Mengapa Kita Harus Mencatat Setiap Klaim Secara Rinci?
 
-## Required Fields
+Dalam dunia pendidikan, godaan untuk melebih-lebihkan keberhasilan (*overclaim*) sangatlah besar:
+- *"Metode kami terbukti 100% melenyapkan perundungan santri dalam 3 pekan!"*
+- *"Sistem asrama kami dijamin pasti melahirkan pemimpin umat!"*
 
-| Field | Fungsi |
-|---|---|
-| Claim ID | Identitas stabil klaim |
-| Claim statement | Pernyataan yang benar-benar dibuat |
-| Claim type | Kategori epistemik/operasional klaim |
-| Affected construct/component | Bagian TUMBUH yang terkena |
-| Scope | Populasi, konteks, waktu, construct/outcome |
-| Rationale/lineage | Mengapa klaim dibuat dan berasal dari mana |
-| Evidence | Bukti yang tersedia dan relevan |
-| Supported inference | Kesimpulan yang memang didukung |
-| Limitations/uncertainty | Batas pengetahuan |
-| Epistemic status | Kekuatan dasar pengetahuan saat ini |
-| Decision impact | Keputusan yang bergantung pada klaim |
-| Review/change trace | Jejak perubahan dan peninjauan |
+Pernyataan-pernyataan bombastis seperti ini sering kali tidak memiliki dasar data yang nyata, merusak kejujuran ilmiah (*amanah 'ilmiyyah*), dan menodai wibawa lembaga pesantren.
 
-## Claim Granularity
+Pertanyaan mendasar yang dijawab oleh **Struktur Registri Klaim (*Claim Structure*)** adalah:
 
-Satu record sebaiknya memuat satu proposisi yang dapat diuji atau ditinjau secara jelas. Hindari compound claim yang menggabungkan definisi, efektivitas, dan kausalitas dalam satu kalimat.
+> **Pernyataan apa sebenarnya yang sedang kita buat, bukti nyata apa yang kita miliki untuk mendukungnya, dan sampai batas mana kesimpulan tersebut boleh dipercaya?**
 
-Jika satu kalimat mengandung beberapa inference berbeda, pecah menjadi beberapa Claim ID atau tandai dependency-nya.
+---
 
-## Scope
+## 2. Format Baku Pencatatan Klaim (Canonical Claim Record)
 
-Scope minimum diperiksa pada lima sumbu:
+Setiap pernyataan penting yang diajukan dalam sistem TUMBUH wajib dicatat dalam format 12 kolom baku:
 
-```text
-POPULATION × CONTEXT × TIME × CONSTRUCT/OUTCOME × INFERENCE
-```
+| Kolom Data | Pertanyaan Pemandu | Contoh Kasus Nyata di Asrama |
+|---|---|---|
+| **ID Klaim** | Apa kode pengenal resminya? | `CM-C004` |
+| **Isi Pernyataan** | Apa bunyi klaim yang dibuat? | *"Sistem TUMBUH menggunakan 8 Kapasitas Inti sebagai representasi fungsional pembinaan adab santri."* |
+| **Jenis Klaim** | Termasuk jenis klaim apa? | Pilihan Rancangan Sistem (*Design Choice*). |
+| **Bagian Terdampak** | Komponen mana yang terpengaruh? | Arsitektur Kapasitas Inti (*Core Capacity Architecture*). |
+| **Ruang Lingkup** | Berlaku untuk siapa dan di mana? | Santri usia 12–18 tahun di lingkungan asrama pesantren. |
+| **Silsilah Alasan** | Dari mana dasar pemikiran klaim ini? | Sintesis antara 10 Muwashofat Tarbiyah dengan psikologi perkembangan remaja. |
+| **Rujukan Bukti** | Apa bukti pendukung yang ada? | Dokumen perumusan model dan tinjauan pakar pendidikan Islam. |
+| **Batas Kesimpulan** | Kesimpulan apa yang boleh ditarik? | Delapan kapasitas ini adalah model rancangan kerja yang koheren untuk membimbing santri. |
+| **Keterbatasan / Ketidakpastian** | Apa yang BELUM terbukti? | Belum membuktikan bahwa 8 kapasitas ini adalah satu-satunya model pembinaan di dunia. |
+| **Tingkat Kepastian** | Seberapa kuat status ilmiahnya saat ini? | Telah Dirancang Resmi (*Designed*), belum menjadi hukum alam mutlak. |
+| **Dampak Kebijakan** | Kebijakan apa yang bergantung pada klaim ini? | Penyusunan buku rapor adab santri dan panduan musyrif kamar. |
+| **Jejak Peninjauan** | Kapan terakhir kali dievaluasi? | Ditinjau berkala dalam musyawarah evaluasi kurikulum. |
 
-Scope harus cukup spesifik untuk mencegah generalisasi yang tidak didukung.
+---
 
-## Lineage
+## 3. Aturan Ketat Perumusan Klaim (Granularity Rule)
 
-Lineage menjawab:
+1. **Satu Catatan untuk Satu Pernyataan:**
+   Jangan menggabungkan definisi, efektivitas metode, dan janji hasil dalam satu kalimat panjang yang membingungkan. Pisahkan menjadi catatan klaim tersendiri agar dapat diuji satu per satu.
+2. **Klaim Wajib Lebih Rendah atau Setara dengan Bukti:**
+   Jika bukti yang kita miliki baru berupa uji coba di satu kamar asrama percontohan, kita hanya boleh menyatakan bahwa metode tersebut *telah diuji coba di tingkat lokal*, bukan mengklaimnya *terbukti efektif untuk seluruh pesantren di Indonesia*.
 
-- berasal dari Foundation, Core Model, Progression, Assessment, Intervention, Implementation, atau Research & Evidence;
-- apakah merupakan keputusan desain atau temuan;
-- construct mana yang menjadi prasyarat;
-- klaim mana yang diperhalus, dikualifikasi, atau digantikan.
+---
 
-## Status Discipline
+## Ringkasan Inti
 
-`DESIGNED` dapat berarti rancangan TUMBUH telah ditetapkan. Itu **bukan** sinonim `EMPIRICALLY SUPPORTED`.
-
-Status hanya berubah ketika dasar pengetahuannya berubah secara terdokumentasi.
-
-## Non-Goals
-
-Claim Structure bukan:
-
-- sistem pembuktian otomatis;
-- skor kualitas tunggal;
-- alat untuk menaikkan status klaim;
-- pengganti Evidence Registry atau Research;
-- pengganti penilaian profesional pada keputusan high-stakes.
-
-## Boundary
-
-Prinsip utama:
-
-> **Claim record harus lebih sempit atau setara dengan apa yang benar-benar dapat didukung oleh evidence dan lineage-nya.**
+> **Struktur Registri Klaim adalah perwujudan sifat shiddiq (kejujuran) dalam tata kelola pendidikan Islam. Dengan mencatat setiap pernyataan secara transparan beserta batas-batas buktinya, pesantren membuktikan dirinya sebagai lembaga yang berintegritas tinggi, tawadhu', dan dapat dipercaya oleh umat.**

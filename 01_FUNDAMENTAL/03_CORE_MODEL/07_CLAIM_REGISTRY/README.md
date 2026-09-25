@@ -1,273 +1,79 @@
-# Claim Registry
+# Registri Klaim Resmi TUMBUH (Claim Registry)
 
-## Status
+**Status:** PANDUAN UTAMA KONSEPTUAL — Pengendali Integritas Pernyataan & Bukti Lapangan
 
-**DESIGNED — canonical v2.0.0**
+Folder ini berfungsi sebagai **benteng kejujuran ilmiah (*epistemic governance*)** yang bertugas mencatat, menguji, dan mengendalikan seluruh pernyataan, janji pendidikan, dan klaim keberhasilan yang dibuat oleh ekosistem pesantren TUMBUH.
 
-## Purpose
+---
 
-Claim Registry adalah sumber kanonik untuk mencatat dan mengendalikan **klaim yang dibuat oleh TUMBUH**, beserta jenis klaim, ruang lingkup, status epistemik, dasar bukti, batas inferensi, dan dampak keputusan.
+## 1. Apa itu Registri Klaim?
 
-Registry ini berfungsi sebagai **epistemic governance layer**. Ia tidak menentukan apakah sebuah klaim benar secara otomatis; ia memastikan bahwa jenis klaim, evidence, inference, dan keputusan tidak tercampur.
+Banyak lembaga pendidikan tergoda menggunakan bahasa iklan yang muluk-muluk demi menarik minat calon wali santri: *"Dijamin 100% anak Anda akan hafal Al-Qur'an dan menjadi santri teladan tanpa kenal lelah!"* Janji manis yang berlebihan ini sering kali berujung pada kekecewaan besar saat santri menghadapi kenyataan asrama yang berat.
 
-## Posisi dalam Core Model
+Pertanyaan mendasar yang dijawab dalam folder ini adalah:
 
-```text
-Construct Registry
-        ↓
-Claim Registry
-        ↓
-Evidence Registry
-        ↓
-Decision Log / Changelog
-        ↓
-Domain Specifications
-```
+> **Pernyataan apa saja yang sebenarnya dibuat oleh sistem TUMBUH, bukti nyata apa yang kita miliki untuk mempertanggungjawabkannya, dan bagaimana kita mencegah diri dari kebohongan overclaim?**
 
-**Construct Registry** menjelaskan apa yang dimaksud.
+---
 
-**Claim Registry** mencatat apa yang dinyatakan tentang construct atau sistem.
+## 2. Peta Berkas dan Alur Pembacaan
 
-**Evidence Registry** mencatat bukti yang mendukung, membatasi, atau menyangkal klaim.
-
-## Minimum Canonical Record
-
-Setiap klaim inti sekurang-kurangnya memiliki:
-
-1. **Claim ID**
-2. **Claim statement**
-3. **Claim type**
-4. **Construct / component affected** bila relevan
-5. **Scope / population / context** bila relevan
-6. **Rationale / lineage**
-7. **Evidence reference** bila tersedia
-8. **Supported inference**
-9. **Validation / epistemic status**
-10. **Limitations / uncertainty**
-11. **Decision impact** bila klaim digunakan untuk keputusan sistem
-12. **Last reviewed / change trace** bila tersedia
-
-## Claim Types
-
-TUMBUH membedakan sekurang-kurangnya:
-
-- **NORMATIVE** — apa yang seharusnya menjadi arah/nilai.
-- **DEFINITIONAL** — apa yang dimaksud oleh suatu istilah atau construct.
-- **DESIGN** — keputusan atau rancangan yang dibuat TUMBUH.
-- **EMPIRICAL** — pernyataan yang membutuhkan dukungan data empiris.
-- **CAUSAL** — pernyataan tentang sebab dan akibat.
-- **PREDICTIVE** — pernyataan tentang kemampuan memprediksi outcome.
-- **IMPLEMENTATION** — pernyataan tentang pelaksanaan atau kondisi implementasi.
-- **OUTCOME** — pernyataan tentang hasil yang diamati.
-- **EFFECTIVENESS** — pernyataan bahwa suatu intervention/system menghasilkan manfaat tertentu.
-- **SAFETY** — pernyataan tentang keamanan atau risiko.
-- **HYPOTHESIS** — pernyataan yang masih diajukan untuk diuji.
-- **SIMULATION** — hasil atau inferensi yang berasal dari model/simulasi, bukan otomatis data lapangan.
-
-Satu klaim dapat memerlukan lebih dari satu jenis analisis, tetapi **claim type tidak boleh digunakan untuk menaikkan status evidence secara otomatis**.
-
-## Epistemic Status
-
-Claim type menjawab **“klaim macam apa ini?”**.
-
-Epistemic status menjawab **“seberapa kuat dasar pengetahuannya?”**.
-
-Status yang digunakan harus menunjukkan posisi aktual klaim, misalnya:
-
-- PROPOSED
-- DESIGNED
-- EXPERT REVIEWED
-- PILOT TESTED
-- LOCALLY EVALUATED
-- EMPIRICALLY SUPPORTED
-- PSYCHOMETRICALLY EVALUATED
-- IMPLEMENTATION TESTED
-- OUTCOME EVALUATED
-- CAUSALLY EVALUATED
-- REJECTED / NOT SUPPORTED
-
-Status tidak boleh dinaikkan hanya karena klaim telah lama berada di registry.
-
-## Epistemic Boundary
-
-Hal-hal berikut tidak boleh disamakan:
-
-- keputusan desain TUMBUH ≠ temuan empiris;
-- definisi konseptual ≠ validasi empiris;
-- association ≠ causal proof;
-- hasil lokal ≠ bukti universal;
-- simulasi ≠ data lapangan;
-- performance snapshot ≠ capacity change;
-- implementation fidelity ≠ effectiveness;
-- outcome observation ≠ causal attribution.
-
-Untuk klaim normatif yang bersumber dari worldview Islam dan turats, **otoritas normatif sumber tetap berada pada sumber tersebut**. Claim Registry hanya mengatur bentuk klaim TUMBUH, lineage, scope, dan batas inferensinya.
-
-## Claim Scope Rule
-
-Prinsip utama:
-
-> **Claim scope tidak boleh melebihi evidence scope.**
-
-Pemeriksaan minimal:
+Folder ini dirancang berurutan dari format pencatatan hingga audit kualitasnya:
 
 ```text
-POPULATION
-   ×
-CONTEXT
-   ×
-TIME
-   ×
-CONSTRUCT / OUTCOME
-   ×
-INFERENCE TYPE
+Registri Klaim (Claim Registry)
+│
+├── 01_CLAIM_STRUCTURE.md
+│   └── Format Baku: 12 Data Wajib untuk Mengawal Sebuah Pernyataan
+│
+├── 02_CLAIM_TYPES_AND_EPISTEMIC_STATUS.md
+│   └── Ragam Jenis & Bobot Bukti: Membedakan Dalil Wahyu vs Metode Rancangan Manusia
+│
+├── 03_CLAIM_EVIDENCE_AND_INFERENCE.md
+│   └── Menakar Bukti Nyata: Rantai Logika Penarikan Kesimpulan Berbasis Data Jujur
+│
+├── 04_CLAIM_CHANGE_CONTROL.md
+│   └── Prosedur Sidang Pleno: Syarat Ketat Mengubah Status Kepastian Ilmiah
+│
+├── 05_CORE_MODEL_CLAIM_REGISTER.md
+│   └── Buku Catatan 10 Klaim Utama: Batas-Batas Kepastian Fondasi Model TUMBUH
+│
+└── 06-Claim-Registry-Audit.md
+    └── Evaluasi Kualitas Arsitektur: Menjamin Amanah Ilmiah dan Ketiadaan Overclaim
 ```
 
-Semakin luas klaim dibandingkan evidence, semakin besar risiko overclaim.
+---
 
-Generalisasi lintas usia, konteks, lembaga, budaya, atau populasi membutuhkan dasar evidence yang sesuai.
+## 3. Matriks Inti: Memahami 5 Pilar Registri Klaim
 
-## Claim-to-Evidence Logic
+| Berkas | Fokus Utama Pembahasan | Manfaat Nyata bagi Musyrif & Pengelola |
+|---|---|---|
+| **01. Claim Structure** | *Bagaimana mencatat klaim secara rinci?* | Memastikan setiap klaim memiliki bukti nyata dan batas kesimpulan yang jelas. |
+| **02. Types & Epistemic Status** | *Apa beda dalil wahyu dengan metode asrama?* | Menghindarkan pensakralan metode buatan manusia yang belum tentu efektif. |
+| **03. Evidence & Inference** | *Bolehkah menyimpulkan dari satu kasus?* | Mencegah musyrif memvonis seluruh santri nakal hanya karena melihat satu pertengkaran. |
+| **04. Change Control** | *Kapan status metode boleh dinaikkan?* | Mengharuskan adanya data logbook minimal satu semester sebelum mengklaim metode sukses. |
+| **05. Core Model Register** | *Apa saja 10 klaim baku TUMBUH?* | Mengunci 10 klaim resmi sistem TUMBUH dan menegaskan status empiris sementaranya. |
+
+---
+
+## 4. Posisi Registri Klaim dalam Ekosistem Tata Kelola
+
+Registri Klaim bekerja berdampingan dengan Registri Konstruk dan Evaluasi Bukti:
 
 ```text
-CLAIM
-  ↓
-REQUIRED EVIDENCE
-  ↓
-EVIDENCE SCOPE & QUALITY
-  ↓
-SUPPORTED INFERENCE
-  ↓
-UNCERTAINTY / LIMITATION
-  ↓
-DECISION IMPACT
+┌────────────────────────────────────────────────────────────────────────┐
+│                   ARSITEKTUR TATA KELOLA KEBENARAN                     │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. REGISTRI KONSTRUK (Construct Reg.) : Menjelaskan "APA MAKSUDNYA"   │
+│                 ↓                                                      │
+│ 2. REGISTRI KLAIM    (Claim Reg.)     : Menjelaskan "APA PERNYATAANNYA"│
+│                 ↓                                                      │
+│ 3. REGISTRI BUKTI    (Evidence Reg.)  : Menjelaskan "APA BUKTI NYATANYA│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Evidence tidak hanya dinilai dari keberadaannya, tetapi dari **kecocokan evidence terhadap jenis inference yang dibuat**.
+---
 
-Contoh prinsip:
+## Ringkasan Inti
 
-- data deskriptif dapat mendukung deskripsi, tetapi tidak otomatis causal claim;
-- association dapat mendukung klaim hubungan tertentu, tetapi tidak otomatis sebab-akibat;
-- hasil pilot dapat mendukung pembelajaran lokal, tetapi tidak otomatis efektivitas universal;
-- implementation evidence dapat menunjukkan fidelity atau feasibility, tetapi tidak otomatis outcome effectiveness.
-
-## Decision Proportionality
-
-Kekuatan keputusan harus proporsional terhadap kualitas dan cakupan evidence.
-
-```text
-WEAKER / NARROWER EVIDENCE
-        ↓
-LOWER-INFERENCE / LOWER-STAKES DECISION
-
-STRONGER / BROADER EVIDENCE
-        ↓
-STRONGER-INFERENCE / HIGHER-STAKES DECISION
-```
-
-Claim Registry tidak boleh menjadi mekanisme untuk memberikan legitimasi epistemik kepada keputusan yang evidence-nya tidak memadai.
-
-Untuk keputusan high-stakes, diperlukan pemeriksaan tambahan terhadap uncertainty, harm, reversibility, dan evidence quality.
-
-## Claim Relationships
-
-Klaim dapat memiliki relasi seperti:
-
-- **depends-on** — klaim memerlukan construct/claim lain;
-- **refines** — klaim mempersempit atau memperjelas klaim sebelumnya;
-- **qualifies** — klaim menambahkan batasan;
-- **supports** — evidence/claim lain memberikan dukungan;
-- **contradicts** — evidence/claim lain bertentangan;
-- **supersedes** — klaim baru menggantikan formulasi lama.
-
-Relasi ini adalah governance metadata, bukan bukti kausal.
-
-## Claim Review Checklist
-
-Sebelum klaim inti digunakan untuk keputusan sistem, periksa:
-
-1. Apa sebenarnya yang diklaim?
-2. Term/construct apa yang digunakan dan apakah sesuai Construct Registry?
-3. Jenis klaimnya apa?
-4. Scope-nya siapa, di mana, kapan, dan dalam kondisi apa?
-5. Evidence apa yang tersedia?
-6. Apakah evidence cocok dengan inference yang dibuat?
-7. Apa yang belum dapat disimpulkan?
-8. Apa uncertainty dan limitation-nya?
-9. Apakah klaim terlalu luas dibanding evidence?
-10. Apakah klaim menghasilkan keputusan high-stakes?
-11. Apakah ada claim/evidence yang bertentangan?
-12. Apakah perubahan meninggalkan audit trail?
-
-## Governance
-
-Setiap perubahan klaim inti harus dapat ditelusuri melalui **Decision Log** dan **Changelog**.
-
-Domain document, program, SOP, assessment tool, intervention, atau implementation artifact **tidak boleh diam-diam membuat atau menaikkan klaim validitas, efektivitas, prediksi, atau kausalitas** tanpa traceability ke Claim Registry dan evidence yang sesuai.
-
-Jika claim berubah pada:
-
-- statement;
-- scope;
-- type;
-- evidence basis;
-- supported inference;
-- epistemic status;
-- atau decision impact;
-
-maka perubahan tersebut harus meninggalkan audit trail dan diperiksa terhadap artefak downstream yang terdampak.
-
-## Failure Modes
-
-Registry harus mampu mendeteksi sekurang-kurangnya:
-
-- **claim inflation** — klaim lebih kuat daripada evidence;
-- **scope inflation** — generalisasi melebihi population/context evidence;
-- **causal overreach** — association diperlakukan sebagai causality;
-- **validation leakage** — status construct/alat dipindahkan ke klaim sistem tanpa dasar;
-- **local-to-universal leap** — hasil lokal diperlakukan universal;
-- **implementation-to-effectiveness leap** — fidelity dianggap effectiveness;
-- **silenced contradiction** — evidence yang bertentangan tidak dicatat;
-- **status drift** — status epistemik meningkat tanpa evidence baru;
-- **decision overreach** — keputusan lebih kuat daripada dasar klaim.
-
-## Relationship to TUMBUH Layers
-
-Claim Registry tidak mengambil alih fungsi layer lain.
-
-- Foundation memberi worldview/normative direction.
-- Core Model memberi desain konseptual sistem.
-- Progression menjelaskan perkembangan lintas waktu/tingkat bila ditentukan.
-- Assessment menghasilkan evidence tentang functioning/outcomes sesuai desain assessment.
-- Intervention menghasilkan pengalaman implementasi dan outcome evidence.
-- Implementation menghasilkan evidence tentang fidelity, feasibility, dan kondisi pelaksanaan.
-- Research & Evidence menguji dan memperbarui dasar pengetahuan.
-
-Claim Registry memastikan klaim yang keluar dari atau melintasi layer-layer tersebut tetap memiliki **scope, status, dan inference boundary** yang jelas.
-
-## Validation Boundary
-
-Keberadaan sebuah klaim di registry **tidak berarti klaim tersebut benar, validated, evidence-based, effective, atau causal**.
-
-Registry berstatus:
-
-**DESIGNED — epistemic governance architecture**
-
-Validitas setiap klaim harus ditentukan secara individual berdasarkan evidence yang relevan. Status konseptual tidak boleh dinaikkan secara otomatis.
-
-## Closure Rule
-
-`06_CLAIM_REGISTRY` dapat dinyatakan closed untuk tahap arsitektural apabila:
-
-- claim types jelas;
-- epistemic statuses dibedakan dari claim types;
-- claim scope dibatasi oleh evidence scope;
-- inference boundary eksplisit;
-- decision proportionality tersedia;
-- contradiction dan uncertainty dapat dicatat;
-- governance dan audit trail tersedia;
-- hubungan dengan Construct Registry dan Evidence/Research layer jelas;
-- tidak ada klaim kausal/efektivitas yang muncul hanya dari desain konseptual.
-
-**Status saat ini: DESIGNED — canonical v2.0.0; final conceptual governance specification, empirically provisional.**
+> **Registri Klaim adalah perisai kehormatan pesantren TUMBUH. Dengan menjaga agar setiap ucapan, janji, dan metode senantiasa sepadan dengan bukti data yang jujur, pesantren mendidik santri dan masyarakat dengan keteladanan akhlak mulia, kejujuran sejati, dan ketawadhu'an yang tulus di hadapan Allah SWT.**
