@@ -1,280 +1,63 @@
-# Capacity to Assessment Trace
+# Keterlacakan Kapasitas Menuju Asesmen dan Bukti Perilaku (Capacity to Assessment Trace)
 
-Trace ini menjawab satu pertanyaan sederhana: **kalau kita menilai sesuatu, sebenarnya kita sedang mencari bukti tentang capacity yang mana?**
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Menjaga Kejujuran Alat Penilaian Adab
 
-Karena itu, assessment TUMBUH harus dapat ditelusuri kembali ke construct yang hendak diamati. Instrumen, indikator, atau skor tidak boleh diam-diam menjadi definisi baru bagi Core Capacity.
+Dokumen ini menjelaskan bagaimana sebuah Kapasitas Inti dinilai dan dibuktikan di lapangan secara adil, objektif, dan tidak tereduksi menjadi sekadar angka ujian pilihan ganda di atas kertas.
 
-Assessment adalah cara mengumpulkan dan menafsirkan evidence tentang functioning dalam kondisi tertentu. Ia bukan lapisan yang menentukan apa itu capacity.
+---
 
-## Posisi dalam Arsitektur
+## 1. Mengapa Nilai Ujian Kertas Tidak Cukup Menilai Akhlak?
 
-```text
-Core Capacity Architecture
-        ↓
-Functional Object
-        ↓
-Functional Dimensions
-        ↓
-Observable Manifestations
-        ↓
-Evidence
-        ↓
-Assessment Interpretation
-```
+Tragedi terbesar dalam penilaian adab di sekolah konvensional adalah ketika seorang murid yang mendapat nilai 100 pada ujian tulis mata pelajaran akhlak, ternyata di asrama suka mencuri uang temannya atau membentak guru:
+- Ujian tulis hanya mengukur daya hafal kognitif santri terhadap definisi adab;
+- Ujian tulis sama sekali tidak mampu mengukur getaran batin, ketahanan menahan amarah, atau kejujuran santri saat berada sendirian di kamar.
 
-Hubungannya dengan traceability keseluruhan:
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
+
+> **Bagaimana para pendidik mengumpulkan bukti nyata perkembangan karakter santri secara adil dan berkelanjutan, tanpa menipu diri sendiri dengan angka-angka semu?**
+
+---
+
+## 2. Rantai Bukti Asesmen Adab (Evidence Gathering Chain)
+
+Pengumpulan bukti penilaian karakter di asrama mengikuti alur pembuktian empat tahap:
 
 ```text
-Normative Direction
-        ↓
-Graduate Profile
-        ↓
-Core Capacity
-        ↓
-Functional Representation
-        ↓
-Evidence
-        ↓
-Progression / Assessment / Intervention
+┌────────────────────────────────────────────────────────────────────────┐
+│                   RANTAI BUKTI PENILAIAN KARAKTER                      │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. KAPASITAS INTI (Core Capacity)   : Misal: CC-04 Kolaborasi Ukhuwah  │
+│                ↓                                                       │
+│ 2. SASARAN AMATAN (Observed Action) : Kerja sama piket & berbagi beban │
+│                ↓                                                       │
+│ 3. BUKTI FAKTAL LOGBOOK (Evidence)  : Catatan harian musyrif di kamar  │
+│                ↓                                                       │
+│ 4. KESIMPULAN PERKEMBANGAN (Inference): Evaluasi berkala kematangan adab│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Urutan tersebut adalah **jalur penelusuran**, bukan urutan perkembangan manusia dan bukan pula prosedur assessment yang harus selalu dilakukan secara linear.
+---
 
-## Prinsip Utama
+## 3. Matriks Tiga Sumber Bukti Nyata di Pesantren (Triangulasi Data)
 
-### 1. Construct-first
+Agar penilaian adab tidak berat sebelah atau dipengaruhi rasa suka/tidak suka (*subjektif*), gunakan tiga sumber pengamatan:
 
-Assessment dimulai dari **Core Capacity dan representasi fungsionalnya**, bukan dari instrumen yang kebetulan sudah tersedia.
+| Sumber Bukti | Bentuk Pengamatan di Asrama | Contoh Nyata di Lapangan |
+|---|---|---|
+| **1. Pengamatan Perilaku Harian** | Musyrif mengamati tindakan nyata santri saat bangun tidur, makan bersama di nampan, dan antre mandi. | Zaid tidak menyerobot antrean wudhu dan mempersilakan kawan yang terburu-buru. |
+| **2. Portofolio Catatan Mandiri** | Jurnal muhasabah pribadi santri yang ditulis setiap malam sebelum tidur. | Santri menuliskan permohonan ampunan atas kekhilafan membentak kawan tadi siang. |
+| **3. Umpan Balik Kawan & Guru** | Catatan teman sebaya saat kerja kelompok atau laporan guru saat santri berada di halaqoh. | Kawan sekamar bersaksi bahwa Zaid selalu membantu menyapu lantai saat piket. |
 
-Pertanyaan dasarnya adalah:
+---
 
-> Evidence apa yang diperlukan untuk membuat inferensi yang wajar tentang functioning yang relevan dengan construct ini?
+## 4. Tiga Rambu Pengaman Asesmen
 
-Dengan demikian, instrumen harus mengikuti kebutuhan construct, bukan sebaliknya.
+1. **Satu Insiden Buruk Bukan Vonis Seumur Hidup:** Jika seorang santri suatu hari tergelincir melakukan kesalahan, kesalahan itu dicatat untuk diperbaiki lewat bimbingan, bukan dijadikan alasan melabeli santri tersebut sebagai "anak berakhlak buruk selamanya".
+2. **Kerahasiaan Aib Santri:** Catatan asesmen adab dan catatan konseling adalah dokumen rahasia (*amanah*); dilarang keras dibocorkan kepada santri lain atau diumumkan di papan pengumuman.
+3. **Fokus pada Pertumbuhan, Bukan Perbandingan:** Nilailah perkembangan santri dibandingkan dengan dirinya sendiri di masa lalu (apakah ia makin baik dari bulan kemarin?), bukan membanding-bandingkannya dengan santri lain yang memiliki latar belakang berbeda.
 
-### 2. Function-focused
+---
 
-Assessment mencari bukti tentang **functioning**, bukan sekadar memberi label pada seseorang.
+## Ringkasan Inti
 
-Observable manifestation dapat membantu menunjukkan bagaimana capacity bekerja dalam konteks tertentu, tetapi manifestation tidak identik dengan capacity itu sendiri.
-
-Satu perilaku dapat berkaitan dengan beberapa capacity. Sebaliknya, satu capacity dapat muncul melalui bentuk perilaku yang berbeda pada konteks yang berbeda.
-
-### 3. Context-aware
-
-Evidence harus dibaca bersama kondisi ketika evidence tersebut muncul.
-
-Konteks dapat mencakup:
-
-- usia atau tahap perkembangan;
-- peran dan tuntutan tugas;
-- lingkungan;
-- relasi sosial;
-- norma dan budaya;
-- kondisi fisik dan sosial;
-- sumber daya;
-- dukungan yang tersedia.
-
-Karena itu, perbedaan performance tidak otomatis berarti perbedaan capacity. Assessment perlu menjaga agar kondisi pengamatan tidak hilang ketika evidence ditafsirkan.
-
-### 4. Multi-source when needed
-
-Construct yang kompleks tidak selalu dapat direpresentasikan dengan satu sumber evidence.
-
-Sesuai tujuan assessment, evidence dapat berasal dari lebih dari satu sumber atau bentuk pengamatan. Penggunaan beberapa sumber bukan berarti semua sumber harus selalu digunakan; kebutuhan evidence bergantung pada pertanyaan dan tujuan assessment.
-
-### 5. Inference-limited
-
-Kesimpulan assessment tidak boleh lebih luas daripada evidence yang tersedia.
-
-```text
-Evidence
-   ↓
-Interpretasi yang didukung evidence
-   ↓
-Klaim yang terbatas pada konteks dan tujuan
-```
-
-Semakin jauh sebuah klaim dari evidence langsung, semakin penting menjelaskan dasar inferensinya dan batas ketidakpastiannya.
-
-## Construct → Evidence
-
-Trace assessment perlu dapat menjawab setidaknya:
-
-1. **Capacity apa yang hendak dipahami?**
-2. **Functional Object apa yang relevan?**
-3. **Functional Dimensions apa yang sedang diamati?**
-4. **Manifestasi seperti apa yang dapat menjadi evidence?**
-5. **Dalam konteks apa evidence tersebut muncul?**
-6. **Apa yang sebenarnya dapat dan belum dapat disimpulkan dari evidence tersebut?**
-
-Ini menjaga agar indikator tidak berkembang menjadi construct baru hanya karena mudah diamati atau mudah diberi skor.
-
-## Contoh: Self-Regulation
-
-```text
-Self-Regulation
-      ↓
-Monitoring / Regulation / Reorientation
-      ↓
-Manifestasi dalam konteks tertentu
-      ↓
-Evidence
-      ↓
-Interpretasi assessment
-```
-
-Contoh ini menunjukkan bahwa evidence berada di antara construct dan interpretasi. Kita tidak langsung melakukan lompatan:
-
-```text
-Checklist perilaku
-      ↓
-"Ini berarti Self-Regulation"
-```
-
-Checklist dapat menjadi salah satu sumber evidence, tetapi maknanya tetap harus ditentukan oleh construct, konteks, dan batas inferensi.
-
-## Assessment Score Bukan Capacity
-
-Skor adalah representasi dari hasil pengukuran atau pengkodean tertentu. Skor bukan Core Capacity itu sendiri.
-
-Karena itu:
-
-- skor tinggi tidak otomatis berarti capacity tinggi dalam semua konteks;
-- skor rendah tidak otomatis berarti capacity rendah secara keseluruhan;
-- satu observasi tidak otomatis mewakili construct kompleks;
-- satu tugas tidak otomatis menjadi ukuran universal;
-- total skor tidak otomatis diperlukan untuk menggambarkan keseluruhan arsitektur capacity.
-
-Hal ini sejalan dengan batas arsitektur bahwa **tidak ada automatic total score** untuk delapan Core Capacities.
-
-## Performance ≠ Capacity
-
-Assessment dapat mengamati performance, tetapi performance selalu muncul dalam kondisi tertentu.
-
-```text
-Capacity
-   ↓
-Functioning
-   ↓
-Performance / Manifestation
-   ↓
-Evidence
-   ↓
-Interpretation
-```
-
-Jalur ini tidak berarti bahwa performance adalah cerminan sempurna dari capacity. Performance dapat dipengaruhi tuntutan tugas, lingkungan, dukungan, kesempatan, kondisi fisik/sosial, dan faktor kontekstual lain.
-
-Karena itu, assessment perlu berhati-hati ketika mengubah satu hasil performance menjadi klaim tentang capacity yang lebih luas.
-
-## Assessment Tidak Menjelaskan Sebab Secara Otomatis
-
-Assessment dapat membantu menggambarkan atau memahami functioning. Namun, hasil assessment saja tidak otomatis menjawab **mengapa** perubahan terjadi.
-
-Misalnya, perubahan performance setelah suatu intervensi tidak dengan sendirinya membuktikan bahwa intervensi tersebut menyebabkan perubahan capacity. Untuk klaim kausal diperlukan evidence dan desain inferensi yang sesuai.
-
-Batas ini menjaga hubungan antara Assessment dengan **Growth Mechanism** dan **Intervention** tetap jelas:
-
-- Assessment → mengumpulkan dan menafsirkan evidence;
-- Growth Mechanism → menjelaskan proses perubahan yang dirancang/ditelaah secara konseptual;
-- Intervention → merancang respons terhadap kebutuhan atau kondisi tertentu.
-
-## Hubungan dengan Progression
-
-Assessment dapat menggunakan progression sebagai konteks interpretasi, tetapi assessment tidak boleh mengubah milestone atau gateway menjadi definisi baru capacity.
-
-```text
-Core Capacity
-      ↓
-Progression representation
-      ↓
-Assessment evidence
-      ↓
-Interpretation for a defined purpose
-```
-
-Karena progression tidak selalu linear, evidence assessment juga tidak boleh dibaca sebagai bukti bahwa perkembangan manusia harus selalu bergerak dalam satu arah tanpa fluktuasi.
-
-## Boundary dengan PROBE
-
-PROBE membantu menelusuri dasar konseptual dan evidence di balik keputusan arsitektur. Assessment kemudian menerjemahkan construct ke kebutuhan evidence untuk tujuan tertentu.
-
-```text
-PROBE / SOURCE
-      ↓
-DECISION
-      ↓
-CANONICAL ARTEFACT
-      ↓
-ASSESSMENT REPRESENTATION
-      ↓
-EVIDENCE
-      ↓
-INTERPRETATION
-```
-
-Trace ini tidak menjadikan setiap instrumen assessment sebagai canonical artefact. Instrumen adalah representasi downstream yang harus tetap dapat ditelusuri kembali ke construct.
-
-## Failure Modes yang Perlu Dijaga
-
-Beberapa kegagalan utama dalam trace Capacity → Assessment adalah:
-
-- **Indicator capture** — indikator yang mudah diamati mengambil alih definisi construct;
-- **Performance collapse** — performance pada satu kondisi dianggap sebagai capacity secara keseluruhan;
-- **Instrument-first design** — instrumen yang tersedia menentukan apa yang dianggap penting;
-- **Context blindness** — kondisi ketika evidence muncul diabaikan;
-- **Inference inflation** — klaim dibuat lebih luas daripada evidence;
-- **Score reification** — skor diperlakukan seolah-olah merupakan capacity itu sendiri;
-- **Causal overreach** — hasil assessment dipakai untuk menyimpulkan sebab perubahan tanpa evidence yang sesuai.
-
-Failure mode ini menjadi bahan audit traceability, bukan daftar masalah yang otomatis berarti assessment tertentu salah.
-
-## Minimum Trace Record
-
-Untuk setiap jalur Capacity → Assessment, setidaknya dapat ditelusuri:
-
-| Elemen | Pertanyaan |
-|---|---|
-| Core Capacity | Capacity apa yang hendak dipahami? |
-| Functional Object | Fungsi apa yang menjadi representasi utama? |
-| Functional Dimensions | Dimensi fungsi apa yang relevan? |
-| Manifestation | Bagaimana functioning dapat tampak? |
-| Context | Dalam kondisi apa evidence muncul? |
-| Evidence | Bukti apa yang tersedia? |
-| Interpretation | Apa inferensi yang didukung? |
-| Boundary | Apa yang belum dapat disimpulkan? |
-| Purpose | Untuk keputusan atau pemahaman apa evidence digunakan? |
-| Source / Decision | Dari mana dasar construct dan keputusan berasal? |
-
-## Hubungan dengan Lapisan Lain
-
-### Core Capacity Architecture
-
-Menentukan construct dan representasi fungsional yang menjadi titik awal assessment.
-
-### Progression
-
-Memberikan kerangka perubahan atau milestone yang dapat menjadi konteks interpretasi, tanpa menjadikan assessment sebagai developmental sequence yang kaku.
-
-### Assessment
-
-Mengumpulkan dan menafsirkan evidence untuk tujuan tertentu.
-
-### Intervention
-
-Dapat menggunakan hasil assessment untuk memahami kebutuhan dan merancang respons, tetapi tidak boleh membaca skor sebagai diagnosis universal tentang seseorang.
-
-### Implementation
-
-Menerjemahkan keputusan ke dalam praktik nyata. Implementasi tidak boleh mengubah indikator assessment menjadi definisi baru capacity.
-
-### Evidence & Research
-
-Menguji apakah inferensi, representasi, dan penggunaan assessment didukung evidence yang memadai.
-
-## Status
-
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-Dokumen ini menetapkan logika traceability secara konseptual. Validitas instrumen, kualitas indikator, reliabilitas, dan efektivitas penggunaan assessment tetap merupakan pertanyaan empiris yang perlu ditopang evidence yang sesuai.
+> **Keterlacakan Kapasitas Menuju Asesmen memastikan bahwa evaluasi akhlak di pesantren dilakukan dengan mata hati yang jernih, keadilan syariat, dan bukti data yang jujur. Kita tidak sedang mencari-cari kesalahan santri, melainkan memotret jejak pertumbuhan jiwanya agar para pendidik dapat mengulurkan tangan bimbingan dengan tepat dan penuh kasih sayang.**

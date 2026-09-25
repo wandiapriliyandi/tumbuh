@@ -1,197 +1,70 @@
-# Construct Drift Audit
+# Audit Pencegahan Pergeseran Makna Konsep (Construct Drift Audit)
 
-**Construct drift** terjadi ketika makna sebuah Core Capacity perlahan bergeser karena representasinya di downstream mulai dianggap sebagai construct itu sendiri.
+**Status:** AUDIT ARSITEKTUR KONSEPTUAL — Pengujian Keteguhan Makna Istilah
 
-Drift sering tidak terjadi dalam satu perubahan besar. Ia dapat muncul sedikit demi sedikit ketika perilaku, indikator, skor, program, milestone, atau istilah baru mulai menggantikan definisi awal tanpa keputusan arsitektural yang jelas.
+Dokumen ini memuat prosedur pengawasan berkala untuk memastikan bahwa definisi resmi delapan kapasitas inti tidak mengalami pendangkalan makna (*construct drift*) saat diterapkan menjadi modul pembelajaran, tata tertib asrama, maupun instrumen penilaian musyrif.
 
-Audit ini menjaga agar **identitas construct tetap stabil**, sementara representasi dan penggunaannya boleh berkembang ketika ada alasan yang dapat ditelusuri.
+---
 
-## Apa yang Dijaga Tetap
+## 1. Apa itu Pergeseran Makna Konsep (Construct Drift)?
 
-Construct drift audit terutama menjaga batas antara:
+Pergeseran makna konsep jarang terjadi secara mendadak; ia merayap perlahan-lahan dari hari ke hari:
+- Pada awalnya, *"Regulasi Diri"* dirancang sebagai kemampuan batin mengendalikan emosi dan dorongan hawa nafsu lillahi ta'ala.
+- Setelah beberapa bulan berjalan di asrama, musyrif yang sibuk mulai menyederhanakannya: santri yang diam dan tidak banyak bertanya disebut "regulasi dirinya bagus", padahal santri tersebut diam karena takut dihardik.
+- Tanpa sadar, makna *"Regulasi Diri"* telah bergeser menjadi *"Kepatuhan Pasif karena Takut"*.
 
-```text
-Core Capacity
-      ↓
-Functional Representation
-      ↓
-Observable Manifestation
-      ↓
-Evidence
-      ↓
-Progression / Assessment / Intervention / Implementation
-```
+Pertanyaan mendasar yang dijawab dalam audit ini adalah:
 
-Perubahan pada bagian bawah tidak otomatis berarti definisi bagian atas berubah.
+> **Bagaimana kita mendeteksi dan menghentikan pergeseran makna ini sejak dini, agar pembinaan santri tetap murni sesuai rancangan awal?**
 
-Sebaliknya, jika definisi Core Capacity atau batas construct memang berubah, perubahan tersebut harus diperlakukan sebagai perubahan arsitektural yang dapat ditelusuri.
+---
 
-## Audit Questions
+## 2. Sepuluh Tanda Bahaya Pergeseran Makna di Pesantren
 
-Untuk setiap construct, tanyakan:
-
-1. **Definisi** — Apakah definisi Core Capacity masih sama dengan canonical definition?
-2. **Functional Object** — Apakah Functional Object masih tepat mewakili fungsi utama construct?
-3. **Functional Dimensions** — Apakah dimensions masih berada pada level fungsi yang tepat?
-4. **Construct inflation** — Apakah sebuah dimension mulai diperlakukan sebagai sub-capacity baru tanpa alasan arsitektural?
-5. **Indicator capture** — Apakah indikator yang mudah diamati mulai mendefinisikan construct?
-6. **Performance collapse** — Apakah performance pada satu tugas mulai dianggap sebagai capacity secara keseluruhan?
-7. **Normative collapse** — Apakah harapan normatif mulai menggantikan definisi construct?
-8. **Context blindness** — Apakah bentuk functioning pada satu konteks mulai diperlakukan sebagai definisi universal?
-9. **Program capture** — Apakah program atau intervention mulai menentukan arti capacity?
-10. **Score reification** — Apakah skor mulai diperlakukan seolah-olah merupakan capacity itu sendiri?
-11. **Relationship drift** — Apakah hubungan antar-capacity mulai diperlakukan sebagai hierarchy, causation, dependency, atau sequence tanpa dasar?
-12. **Progression drift** — Apakah milestone atau gateway mulai diperlakukan sebagai definisi capacity atau urutan perkembangan universal?
-13. **Evidence inflation** — Apakah evidence yang terbatas mulai digunakan untuk membuat klaim yang terlalu luas?
-14. **Causal overreach** — Apakah representasi assessment atau hasil intervention mulai digunakan sebagai bukti kausal tanpa evidence yang sesuai?
-
-## Construct Identity vs Representation
-
-Bagian ini penting agar audit tidak menghambat perkembangan repository.
-
-**Construct identity** mencakup hal-hal yang membuat sebuah capacity tetap menjadi capacity yang sama, antara lain:
-
-- nama canonical;
-- definisi;
-- territory atau boundary construct;
-- Functional Object;
-- Functional Dimensions inti;
-- hubungan konseptual yang telah ditetapkan;
-- batas dengan construct lain.
-
-**Representation** mencakup cara construct tersebut diterjemahkan untuk kebutuhan tertentu, misalnya:
-
-- observable manifestations;
-- progression representation;
-- assessment indicators;
-- evidence sources;
-- intervention targets;
-- implementation artefacts.
-
-Representation dapat berubah tanpa otomatis mengubah construct identity.
-
-## Kapan Perubahan Menjadi Material?
-
-Tidak semua edit adalah perubahan arsitektural.
-
-Perubahan editorial seperti memperjelas bahasa, memperbaiki contoh, atau memperbaiki navigasi tidak otomatis memerlukan reopening construct.
-
-Perubahan menjadi **material architectural change** jika memengaruhi hal seperti:
-
-- definisi Core Capacity;
-- Functional Object;
-- Functional Dimensions inti;
-- boundary dengan capacity lain;
-- relationship architecture;
-- territory of evidence;
-- canonical progression logic;
-- atau keputusan yang menyebabkan downstream artefacts harus ditafsirkan ulang secara material.
-
-Perbedaan ini mencegah dua ekstrem: terlalu mudah mengubah arsitektur, atau terlalu takut memperbaiki representasi.
-
-## Minimum Audit Record
-
-Setiap perubahan material minimal dapat dicatat melalui:
+Waspadai sepuluh gejala pergeseran makna (*construct drift*) berikut dalam rapat pengasuhan asrama:
 
 ```text
-WHAT CHANGED
-    ↓
-WHY CHANGED
-    ↓
-WHICH CONSTRUCT / LAYER AFFECTED
-    ↓
-WHAT EVIDENCE OR REASON SUPPORTS THE CHANGE
-    ↓
-WHAT DOWNSTREAM ARTEFACTS ARE AFFECTED
-    ↓
-WHAT CLAIM STATUS CHANGES
-    ↓
-WHAT REMAINS UNVALIDATED
+┌────────────────────────────────────────────────────────────────────────┐
+│                   SEPULUH TANDA PERGESERAN MAKNA ASRAMA                │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. Tersandera Indikator : Menganggap satu perilaku kecil mewakili      │
+│                           seluruh akhlak santri.                       │
+│ 2. Tertipu Performa     : Kepatuhan semu saat diawasi dianggap sudah   │
+│                           menjadi karakter mandiri seumur hidup.       │
+│ 3. Reduksi ke Nilai Angka: Menganggap nilai rapor 95 pasti akhlaknya   │
+│                           lebih mulia dibanding yang nilainya 75.      │
+│ 4. Pengaburan Konteks   : Menyimpulkan santri malas hanya karena tidak │
+│                           tahu bahwa santri tersebut sedang sakit.     │
+│ 5. Tersandera Program   : Menganggap bahwa santri yang ikut seminar    │
+│                           otomatis sudah menguasai materi seminar.     │
+│ 6. Inflasi Istilah      : Sedikit-sedikit menciptakan nama konsep baru │
+│                           yang membingungkan musyrif kamar.            │
+│ 7. Pensakralan Metode   : Menganggap metode buatan manusia sebagai     │
+│                           kebenaran mutlak yang tidak boleh diubah.    │
+│ 8. Vonis Tanpa Tabayyun : Langsung menghukum santri berdasarkan isu    │
+│                           atau laporan sepihak tanpa mendengar langsung│
+│ 9. Mengabaikan Bukti    : Menyembunyikan catatan kegagalan santri demi │
+│                           menjaga gengsi program pesantren.            │
+│ 10. Terputusnya Silsilah: Membuat aturan baru di asrama yang tidak     │
+│                           memiliki kaitan dengan Profil Lulusan santri.│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Catatan ini menghubungkan construct drift audit dengan mekanisme traceability dan governance TUMBUH.
+---
 
-## Audit Across the Architecture
+## 3. Format Pemeriksaan Audit Rutin (Drift Audit Record)
 
-Construct drift tidak hanya diperiksa di file Core Capacity.
+Setiap semester, tim pengasuhan asrama wajib mengadakan musyawarah evaluasi dengan meninjau lima pertanyaan uji:
 
-Audit perlu melihat representasi downstream:
+| Pertanyaan Audit | Standar Kelayakan | Tindakan Jika Terjadi Pergeseran |
+|---|---|---|
+| **1. Definisi Resmi** | Apakah musyrif masih memahami definisi 8 kapasitas sesuai buku pedoman resmi? | Lakukan pelatihan penyegaran (*refreshment*) pemahaman konsep adab bagi seluruh musyrif. |
+| **2. Rubrik Pengamatan** | Apakah instrumen pengamatan di asrama menilai perilaku nyata atau hanya kesan subjektif? | Perbaiki format buku catatan harian logbook musyrif agar berbasis fakta konkret. |
+| **3. Sanksi & Bimbingan** | Apakah sanksi pelanggaran adab masih bersifat restoratif mendidik atau sudah bergeser jadi punitif fisik? | Cabut aturan sanksi fisik dan kembalikan ke prosedur restitusi yang berkeadilan. |
+| **4. Kemandirian Santri** | Apakah santri diuji konsistensinya saat berada di rumah saat liburan? | Libatkan orang tua dalam pengisian mutaba'ah adab di rumah selama masa liburan. |
 
-| Layer | Pertanyaan audit |
-|---|---|
-| Core Capacity | Apakah identitas construct tetap? |
-| Functional Object | Apakah fungsi yang direpresentasikan masih tepat? |
-| Functional Dimensions | Apakah dimensions masih berada pada level yang benar? |
-| Progression | Apakah milestone/gateway tetap representasi, bukan definisi capacity? |
-| Assessment | Apakah indikator dan skor tetap evidence, bukan construct? |
-| Intervention | Apakah target respons tetap berasal dari need/functioning, bukan label capacity? |
-| Implementation | Apakah praktik tidak diam-diam menciptakan definisi baru? |
-| Evidence & Research | Apakah evidence mendukung inferensi yang dibuat? |
+---
 
-## Failure Modes yang Dipantau
+## Ringkasan Inti
 
-Audit secara khusus memantau:
-
-- **Construct drift** — makna construct bergeser secara bertahap;
-- **Indicator capture** — indikator mengambil alih definisi construct;
-- **Program capture** — program mengambil alih definisi construct;
-- **Performance collapse** — performance dianggap sebagai capacity;
-- **Normative collapse** — harapan normatif dianggap sebagai definisi construct;
-- **Context blindness** — konteks diabaikan ketika evidence ditafsirkan;
-- **Causal overreach** — hubungan atau perubahan dianggap kausal tanpa dasar;
-- **Evidence inflation** — evidence terbatas dipakai untuk klaim terlalu luas;
-- **Traceability gap** — perubahan tidak dapat ditelusuri ke sumber dan keputusan.
-
-Failure mode adalah sinyal audit. Ia tidak otomatis membuktikan bahwa sebuah construct atau artefact salah.
-
-## Hubungan dengan PROBE
-
-PROBE membantu menelusuri sumber, pertanyaan, alasan, dan keputusan yang mendasari perubahan.
-
-```text
-PROBE / SOURCE
-      ↓
-DECISION
-      ↓
-CANONICAL ARTEFACT
-      ↓
-DOWNSTREAM REPRESENTATION
-      ↓
-AUDIT
-      ↓
-REVISION / RETAIN
-```
-
-Jika audit menemukan drift material, pertanyaan berikutnya bukan sekadar "file mana yang harus diedit?", tetapi **keputusan arsitektural apa yang berubah dan apa dasar perubahan tersebut?**
-
-## Governance
-
-Jika perubahan memengaruhi definisi, Functional Object, Functional Dimensions, relationship, boundary, atau territory of evidence, perubahan tersebut diperlakukan sebagai **material architectural change**.
-
-Perubahan semacam itu perlu ditelusuri melalui governance yang relevan, termasuk:
-
-- **Construct Registry** — identitas dan definisi construct;
-- **Claim Registry** — status klaim yang dibuat;
-- **Evidence Registry** — evidence yang mendukung klaim;
-- **Decision Log** — alasan dan keputusan perubahan;
-- **Domain Specifications** — representasi downstream yang terdampak.
-
-Audit tidak mengambil alih fungsi registry tersebut. Audit berfungsi sebagai mekanisme pemeriksaan apakah jejak antarartefak masih konsisten.
-
-## Apa yang Tidak Dilakukan Audit Ini
-
-Construct Drift Audit bukan:
-
-- validasi empiris Core Capacity;
-- pengujian efektivitas intervention;
-- penilaian kualitas individu;
-- penentuan skor capacity;
-- atau mekanisme untuk membekukan repository agar tidak dapat berkembang.
-
-Fungsinya adalah menjaga **coherence, boundary, dan traceability** ketika TUMBUH berkembang.
-
-## Status
-
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-Audit ini menetapkan logika pemeriksaan secara konseptual. Apakah construct, representasi, indikator, atau inferensi tertentu valid secara empiris tetap merupakan pertanyaan yang memerlukan evidence dan research yang sesuai.
+> **Audit Pencegahan Pergeseran Makna adalah pagar penjaga kelurusan niat dan metode. Dengan pemeriksaan berkala yang jujur, pesantren terhindar dari formalitas semu, menjamin bahwa setiap kata dan tindakan pembinaan tetap setia mengabdi pada pembentukan karakter santri yang mulia, mandiri, dan diridhai Allah SWT.**

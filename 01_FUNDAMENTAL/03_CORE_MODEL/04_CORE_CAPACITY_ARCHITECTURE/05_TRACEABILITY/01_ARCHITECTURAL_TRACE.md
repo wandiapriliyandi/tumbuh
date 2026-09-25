@@ -1,230 +1,73 @@
-# Architectural Trace
+# Keterlacakan Arsitektur (Architectural Trace)
 
-Architectural Trace memastikan bahwa setiap construct dalam Core Capacity Architecture **tidak berdiri sendiri**. Ia dapat ditelusuri ke arah normatif di atasnya dan ke artefak pengembangan di bawahnya.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Silsilah Keterhubungan dari Nilai ke Perilaku
 
-Tujuannya bukan membuat semua dokumen terlihat saling terhubung. Tujuannya adalah memastikan bahwa ketika sebuah keputusan dibaca atau diubah, kita dapat mengetahui **asalnya, fungsi yang diwakilinya, evidence yang mendasarinya, dan artefak lain yang mungkin terdampak**.
+Dokumen ini menjelaskan bagaimana setiap kapasitas santri di pesantren memiliki silsilah yang utuh: dari nilai syariat di hulu, turun menjadi profil lulusan, diterjemahkan menjadi kapasitas batin, hingga tampak dalam perbuatan nyata di asrama dan tercatat dalam evaluasi guru.
 
-## Canonical Chain
+---
 
-```text
-Worldview / Normative Direction
-        ↓
-Graduate Profile
-        ↓
-Core Capacity
-        ↓
-Functional Object
-        ↓
-Functional Dimensions
-        ↓
-Subfunctions / Resources / Patterns
-        ↓
-Observable Manifestations
-        ↓
-Evidence
-        ↓
-Progression
-        ↓
-Assessment
-        ↓
-Intervention
-        ↓
-Implementation
-        ↓
-Evidence & Research
-        ↺
-Continuous Improvement
-```
+## 1. Mengapa Keterlacakan Ini Mutlak Diperlukan?
 
-Chain ini adalah **traceability mechanism**, bukan developmental sequence, causal chain, atau urutan operasional yang harus selalu berlangsung linear.
+Di banyak lembaga pendidikan, sering kali program yang dijalankan tidak jelas asal-usulnya:
+- Tiba-tiba ada aturan santri harus berbaris tegak selama satu jam di terik matahari; ketika ditanya apa dasarnya, pengasuh menjawab: *"Biar santri disiplin."*
+- Tiba-tiba ada ujian menghafal 100 istilah akhlak di atas kertas; ketika ditanya apa kaitannya dengan adab di kamar asrama, guru tidak bisa menjelaskan.
 
-## Apa yang Harus Bisa Ditelusuri?
+Ketika program tidak memiliki keterlacakan, pembinaan berubah menjadi rutinitas kosong yang menyiksa santri tanpa membawa berkah.
 
-Setiap Core Capacity minimal harus dapat menjawab:
+Pertanyaan mendasar yang dijawab oleh **Keterlacakan Arsitektur (*Architectural Trace*)** adalah:
 
-1. Arah normatif apa yang membuat capacity ini relevan?
-2. Apa canonical definition dan construct identity-nya?
-3. Apa functional object-nya?
-4. Apa functional dimensions-nya?
-5. Bagaimana functioning dapat muncul sebagai manifestation dalam konteks tertentu?
-6. Evidence apa yang dapat mendukung inference tertentu?
-7. Bagaimana perubahan functioning direpresentasikan dalam Progression?
-8. Bagaimana Assessment memperoleh dan menafsirkan evidence?
-9. Bagaimana temuan dapat menginformasikan Intervention?
-10. Bagaimana Intervention diterjemahkan ke Implementation?
-11. Evidence dan research apa yang dapat memperkuat, membatasi, atau membuka kembali keputusan tersebut?
+> **Bagaimana kita memastikan bahwa setiap aturan kamar, bimbingan musyrif, dan penilaian santri memiliki silsilah alasan yang jelas dan dapat dipertanggungjawabkan dari hulu ke hilir?**
 
-Tidak semua jawaban harus berada dalam satu file. Yang penting adalah **jejak antar-artefaknya dapat ditemukan dan diperiksa**.
+---
 
-## Traceability Matrix
+## 2. Rantai Keterlacakan Dua Arah (Forward and Backward Trace)
 
-| Layer | Pertanyaan utama |
-|---|---|
-| Graduate Profile | Manusia seperti apa yang dituju? |
-| Core Capacity | Kapasitas apa yang perlu berkembang dan apa identitasnya? |
-| Functional Object | Kapasitas itu bekerja terhadap apa? |
-| Functional Dimensions | Fungsi penting apa yang membentuknya? |
-| Manifestation | Bagaimana fungsi dapat tampak dalam konteks? |
-| Evidence | Apa dasar untuk inference tentang functioning/capacity? |
-| Progression | Bagaimana perubahan functioning direpresentasikan sepanjang perkembangan/tuntutan? |
-| Assessment | Bagaimana evidence dikumpulkan dan ditafsirkan untuk tujuan tertentu? |
-| Intervention | Respons apa yang relevan berdasarkan evidence dan konteks? |
-| Implementation | Bagaimana respons diwujudkan dalam kondisi nyata? |
-| Evidence & Research | Apa yang mendukung, membatasi, atau menantang keputusan sebelumnya? |
-
-## Forward dan Backward Trace
-
-Traceability berjalan dua arah.
-
-### Forward Trace
-
-Mulai dari construct dan mengikuti bagaimana ia diterjemahkan ke konteks dan praktik:
+Keterlacakan bekerja seperti jembatan dua arah yang kokoh:
 
 ```text
-Core Capacity
- → Functional Object
- → Functional Dimensions
- → Manifestation
- → Evidence
- → Progression / Assessment
- → Intervention
- → Implementation
+┌────────────────────────────────────────────────────────────────────────┐
+│                   RANTAI KETERLACAKAN DUA ARAH                         │
+├────────────────────────────────────────────────────────────────────────┤
+│                    ARAH TURUN (FORWARD TRACE)                          │
+│                                                                        │
+│ 1. Pandangan Hidup Islam ──► Ridha Allah & fitrah hamba                │
+│             ↓                                                          │
+│ 2. Profil Lulusan       ──► 10 Muwashofat karakter santri              │
+│             ↓                                                          │
+│ 3. Kapasitas Inti       ──► 8 Kapasitas fungsional (CC-01 s/d CC-08)   │
+│             ↓                                                          │
+│ 4. Sasaran & Cara Kerja ──► Pengendalian dorongan diri (Monitoring dsb)│
+│             ↓                                                          │
+│ 5. Perbuatan Nyata      ──► Bangun Subuh mandiri, wudhu tertib         │
+│             ↓                                                          │
+│ 6. Catatan Bukti        ──► Logbook musyrif & jurnal mutaba'ah santri  │
+│                                                                        │
+│                    ARAH NAIK (BACKWARD TRACE)                          │
+│ Dari catatan bukti harian, kita selalu bisa menelusuri kembali:        │
+│ "Catatan ini membuktikan kapasitas apa, untuk profil lulusan yang mana,│
+│  dan berpijak pada prinsip syariat yang mana?"                         │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Backward Trace
+---
 
-Mulai dari artefak downstream dan bertanya kembali:
+## 3. Matriks Silsilah Keterlacakan Lapangan
 
-```text
-Program / Indicator / Assessment Item / Practice
-                ↓
-        Evidence yang dimaksud
-                ↓
-        Manifestation yang direpresentasikan
-                ↓
-        Functional Dimension
-                ↓
-        Functional Object
-                ↓
-        Core Capacity
-```
+Perhatikan tabel contoh penelusuran nyata di pesantren berikut:
 
-Backward trace penting karena sebuah program atau indikator dapat menggunakan nama capacity tanpa benar-benar merepresentasikan construct tersebut.
+| Lapisan Sistem | Pertanyaan Pemandu | Contoh Nyata Santri di Pesantren |
+|---|---|---|
+| **Nilai Syar'i** | *Nilai wahyu apa yang mendasari?* | Perintah menjaga shalat fardhu secara berjamaah di masjid tepat waktu. |
+| **Profil Lulusan** | *Karakter lulusan mana yang dituju?* | **Ibadah yang Benar (*Shahihul Ibadah*)** dan **Pengendalian Diri (*Mujahadah*)**. |
+| **Kapasitas Inti** | *Kapasitas batin apa yang dilatih?* | **CC-01: Regulasi Diri (*Self-Regulation*)**. |
+| **Sasaran Kerja** | *Apa yang dikelola oleh santri?* | Mengelola rasa kantuk, kenyamanan tidur, dan gerakan tubuhnya sendiri. |
+| **Cara Kerja** | *Bagaimana batin santri berproses?* | Mendengar adzan Subuh $\rightarrow$ menepis rasa malas $\rightarrow$ bergegas mengambil wudhu. |
+| **Perilaku Nyata** | *Apa tanda luar yang teramati?* | Santri melipat selimut dan berjalan tegap ke masjid tanpa perlu diguncang ranjangnya. |
+| **Bukti Data** | *Catatan apa yang membuktikannya?* | Catatan mutaba'ah asrama menunjukkan santri shalat Subuh tepat waktu 14 hari berturut-turut. |
+| **Tindakan Lanjut** | *Respon apa yang diberikan musyrif?* | Musyrif memberikan doa dan kepercayaan memimpin shaf adzan kepada santri tersebut. |
 
-## Traceability ≠ Validity
+---
 
-```text
-TRACEABLE
-   ≠
-VALIDATED
-   ≠
-CAUSAL
-   ≠
-EFFECTIVE
-```
+## Ringkasan Inti
 
-Traceability menunjukkan bahwa hubungan antar-artefak **ditetapkan dan dapat diperiksa**. Ia tidak membuktikan bahwa construct valid secara empiris, bahwa relationship bersifat kausal, atau bahwa intervention efektif.
-
-Sebuah indikator dapat memiliki trace yang sangat rapi tetapi tetap memiliki evidence validity yang lemah.
-
-## Evidence dan Inference Boundary
-
-Trace harus membedakan sekurang-kurangnya:
-
-- observation atau evidence of functioning;
-- interpretation of evidence;
-- capacity inference;
-- progression judgment;
-- assessment decision;
-- intervention decision;
-- outcome/effectiveness claim.
-
-Kenaikan dari satu level ke level berikutnya tidak boleh dianggap otomatis.
-
-> **Evidence tentang satu tindakan tidak otomatis membuktikan keseluruhan capacity.**
-
-Demikian pula, hasil assessment tidak otomatis membuktikan efektivitas intervention.
-
-## Context Boundary
-
-Manifestasi dapat berubah menurut usia/tahap perkembangan, peran, task, demand, lingkungan, budaya dan norma sosial, relasi, kondisi fisik/sosial, resources, serta support.
-
-Traceability karena itu harus menjaga:
-
-- **construct continuity** — identitas capacity tetap dapat dikenali;
-- **contextual variation** — manifestation dan evidence dapat berbeda menurut konteks.
-
-Evidence dari satu konteks tidak otomatis dapat dipindahkan menjadi klaim universal pada konteks lain.
-
-## Cross-Capacity Trace
-
-Satu episode functioning dapat melibatkan beberapa capacity.
-
-```text
-Conflict Situation
- ├─ Communication
- ├─ Collaboration
- ├─ Social Understanding
- ├─ Self-Regulation
- └─ Problem Solving
-```
-
-Traceability harus memungkinkan multi-capacity involvement tanpa menyimpulkan bahwa capacity tersebut adalah satu construct.
-
-Jika evidence yang sama digunakan untuk beberapa capacity, setiap capacity tetap memerlukan **inference yang sesuai dengan functional identity-nya**.
-
-## Construct Drift
-
-Architectural Trace juga berfungsi sebagai pertahanan terhadap construct drift.
-
-Tanda yang perlu diperiksa:
-
-- definisi downstream berbeda dari canonical definition;
-- indicator mulai diperlakukan sebagai definisi capacity;
-- program dianggap sebagai bentuk baku capacity;
-- satu performance dianggap mewakili capacity secara penuh;
-- normative construct disamakan dengan capacity;
-- konteks lokal ditulis seolah universal;
-- assessment inference lebih luas daripada evidence;
-- intervention diam-diam mengubah definisi capacity;
-- atau istilah capacity berubah makna tanpa decision trail.
-
-Jika identitas construct benar-benar berubah, masalah tersebut harus dikembalikan ke **Core Model governance**, bukan diselesaikan hanya pada dokumen downstream.
-
-## Minimum Trace Record
-
-Untuk perubahan material, trace minimal perlu memungkinkan pembaca menemukan:
-
-```text
-WHAT CHANGED
-    ↓
-WHY CHANGED
-    ↓
-WHICH CONSTRUCT / LAYER AFFECTED
-    ↓
-WHAT EVIDENCE SUPPORTS THE CHANGE
-    ↓
-WHAT DOWNSTREAM ARTEFACTS ARE AFFECTED
-    ↓
-WHAT CLAIM STATUS CHANGES
-    ↓
-WHAT REMAINS UNVALIDATED
-```
-
-Record dapat berada dalam Decision Log atau artefak governance canonical lainnya. Tidak perlu membuat file baru untuk setiap perubahan kecil.
-
-## Boundary terhadap PROBE
-
-PROBE dapat menghasilkan pertanyaan, reasoning, challenge, evidence review, atau keputusan konseptual yang kemudian memengaruhi repository.
-
-Namun hasil PROBE tidak otomatis menjadi validasi empiris. Setelah suatu keputusan masuk ke Core Model, trace harus tetap menunjukkan:
-
-`PROBE / SOURCE → DECISION → CANONICAL ARTEFACT → DOWNSTREAM REPRESENTATION`
-
-Dengan demikian asal-usul keputusan tetap terlihat tanpa mencampurkan ruang inquiry dengan ruang specification.
-
-## Status
-
-**CONCEPTUALLY SPECIFIED / EMPIRICALLY PROVISIONAL**
-
-Architectural Trace adalah mekanisme integritas dan governance lintas-layer. Ia bukan bukti empiris dengan sendirinya.
+> **Keterlacakan Arsitektur adalah kompas yang menjaga agar seluruh ikhtiar pendidikan di pesantren tidak melenceng dari jalan kebenaran. Setiap butir keringat musyrif, setiap teguran kasih sayang guru, dan setiap lembar catatan logbook santri dapat dipertanggungjawabkan silsilahnya semata-mata demi menggapai ridha Allah SWT.**

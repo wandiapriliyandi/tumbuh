@@ -1,130 +1,75 @@
-# Cross-Capacity Functioning
+# Kehadiran Bersama Lintas-Kapasitas (Cross-Capacity Functioning)
 
-Dalam kehidupan nyata, seseorang jarang menggunakan satu capacity saja. Satu aktivitas dapat melibatkan beberapa capacity sekaligus. Ini normal dalam functioning manusia dan **bukan masalah arsitektur** selama identitas masing-masing capacity tetap jelas.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Memahami Tindakan Kompleks Santri
 
-Contoh sederhana: santri harus menyelesaikan proyek kelompok. Dalam satu episode dapat terlihat beberapa fungsi sekaligus:
+Dokumen ini menjelaskan fenomena sehari-hari di asrama di mana satu tindakan nyata seorang santri melibatkan beberapa kapasitas batin sekaligus, serta bagaimana para pengasuh dan guru menilai fenomena tersebut secara adil dan tepat.
 
-```text
-Problem Solving     → memahami dan menangani masalah
-Critical Thinking  → memeriksa informasi dan alasan
-Communication      → membentuk dan memahami pesan
-Collaboration      → menyelaraskan tindakan bersama
-Self-Regulation    → menjaga dan mengatur tindakan diri
-Agency             → memulai dan mengarahkan tindakan
-```
+---
 
-Contoh tersebut menunjukkan bahwa satu aktivitas nyata dapat menjadi tempat beberapa capacity bekerja bersama. Ia **tidak menunjukkan bahwa semua capacity tersebut adalah satu construct**.
+## 1. Satu Perbuatan Nyata, Banyak Kapasitas Bekerja
 
-## Prinsip Dasar
+Dalam kehidupan nyata di pesantren, santri tidak pernah bertindak dalam ruang isolasi laboratorium. Perhatikan contoh berikut:
+> Seorang santri mendamaikan dua orang kawan sekamarnya yang sedang berselisih memperebutkan jemuran pakaian.
 
-Cross-capacity functioning berarti beberapa capacity dapat hadir, berkontribusi, atau berinteraksi dalam satu episode functioning.
+Tindakan mendamaikan kawan tersebut bukanlah keterampilan tunggal. Di balik perbuatan mulia itu, terdapat orkestra beberapa kapasitas batin yang bekerja serentak:
+- **Kepekaan Sosial:** Santri menangkap raut wajah kawan-kawannya yang sedang emosi dan merasa tertekan;
+- **Nalar Kritis:** Santri menimbang pokok masalah secara objektif tanpa berpihak pada sahabat karibnya;
+- **Regulasi Diri:** Santri menjaga nada bicaranya sendiri agar tetap tenang dan tidak ikut terpancing amarah;
+- **Komunikasi Santun:** Santri memilih kata-kata yang mendamaikan (*ishlah al-bain*) dan mengingatkan ayat ukhuwah;
+- **Pemecahan Masalah:** Santri menawarkan jalan keluar konkret: membagi jemuran secara adil sesuai nomor kamar.
 
-Hubungan tersebut perlu dibaca sebagai **functional/relational relationship**, bukan otomatis sebagai hubungan sebab-akibat, hierarki, dependency, atau urutan perkembangan.
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-## Functional Identity Tetap Dibedakan
+> **Bagaimana kita membaca dan menilai perbuatan kompleks santri tanpa melebur delapan kapasitas menjadi satu adonan yang kabur?**
 
-Yang membedakan capacity bukan sekadar perilaku yang tampak, tetapi **fungsi yang dijelaskan oleh construct**:
+---
 
-- **Self-Regulation** → mengelola functioning dan tindakan diri.
-- **Critical Thinking** → memproses dan menilai informasi, klaim, alasan, dan judgment.
-- **Communication** → mengelola pesan dan makna dalam interaksi.
-- **Collaboration** → mengelola tindakan bersama menuju tujuan bersama.
-- **Physical Functioning** → menjalankan fungsi fisik sesuai tuntutan aktivitas.
-- **Social Understanding** → memahami keadaan, perspektif, relasi, dan konteks sosial.
-- **Agency** → memulai, mengarahkan, dan menjalankan tindakan disengaja dalam kondisi nyata.
-- **Problem Solving** → menangani gap, hambatan, dan strategi menuju kondisi yang dituju.
+## 2. Mempertahankan Kemurnian Identitas Masing-Masing Kapasitas
 
-Dengan demikian, satu perilaku dapat menjadi evidence yang relevan bagi lebih dari satu capacity, tetapi **inference untuk masing-masing capacity tetap harus mengikuti functional identity-nya**.
-
-## Contoh Pembacaan
-
-Misalnya santri menyelesaikan konflik dalam kelompok. Episode yang sama dapat memuat:
-
-- **Social Understanding:** memahami perspektif dan keadaan sosial pihak-pihak yang terlibat;
-- **Communication:** menyampaikan dan memahami pesan;
-- **Collaboration:** menyelaraskan tindakan menuju tujuan bersama;
-- **Self-Regulation:** mengelola respons dan tindakan diri;
-- **Problem Solving:** menangani gap dan mencari cara untuk menyelesaikan persoalan;
-- **Agency:** memulai atau mengarahkan tindakan yang disengaja.
-
-Tidak berarti keenam capacity tersebut harus selalu muncul bersama. Yang dibaca adalah **fungsi yang benar-benar didukung oleh evidence**.
-
-## Cross-Capacity ≠ Construct Redundancy
-
-Beberapa capacity dapat tampak sangat dekat dalam aktivitas tertentu. Karena itu, cross-capacity functioning harus selalu diperiksa terhadap:
-
-1. **Construct identity** — apa fungsi inti masing-masing capacity?
-2. **Functional object** — apa yang menjadi objek kerja capacity tersebut?
-3. **Functional dimensions** — fungsi apa yang membentuk capacity tersebut?
-4. **Boundary** — bagian mana yang tidak boleh diambil alih oleh capacity lain?
-
-Jika dua capacity selalu dijelaskan dengan bahasa, objek, dan fungsi yang sama, itu menjadi sinyal untuk **construct-boundary review**, bukan alasan untuk langsung menggabungkannya.
-
-## Cara Menggunakan Cross-Capacity Functioning
-
-Cross-capacity functioning dapat digunakan untuk:
-
-- memahami kompleksitas aktivitas nyata;
-- membaca bagaimana beberapa fungsi capacity hadir dalam satu episode;
-- menyusun evidence yang tidak mereduksi manusia menjadi satu perilaku atau satu label;
-- membantu menghubungkan Core Model dengan Progression, Assessment, dan Intervention tanpa menghapus batas antar-layer.
-
-## Yang Tidak Boleh Disimpulkan
-
-Cross-capacity functioning tidak boleh digunakan sendirian untuk menyatakan bahwa:
-
-- Capacity A menyebabkan Capacity B;
-- Capacity A harus muncul sebelum Capacity B;
-- Capacity A diperlukan pada semua functioning Capacity B;
-- dua capacity memiliki korelasi tertentu;
-- satu capacity merupakan bagian dari capacity lain;
-- semua capacity harus muncul bersama;
-- atau delapan capacity dapat dijumlahkan menjadi satu skor umum.
-
-Klaim semacam itu memerlukan evidence dan epistemic status yang sesuai.
-
-## Evidence dan Inference
-
-Satu episode perilaku dapat menghasilkan beberapa kemungkinan evidence. Namun setiap klaim capacity tetap harus memiliki jalur inference sendiri:
+Meskipun bekerja bersama-sama dalam satu peristiwa, setiap kapasitas tetap memiliki tugas fungsionalnya masing-masing:
 
 ```text
-OBSERVED MANIFESTATION
-        ↓
-EVIDENCE
-        ↓
-FUNCTIONAL INTERPRETATION
-        ↓
-CAPACITY-SPECIFIC INFERENCE
+┌────────────────────────────────────────────────────────────────────────┐
+│                   SATU TINDAKAN: MEDIASI PERSENGKETAAN                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ • KEPEKAAN SOSIAL (Social Und.) : Memahami perasaan kedua belah pihak  │
+│ • NALAR KRITIS (Critical Think.): Mengurai duduk perkara secara adil   │
+│ • REGULASI DIRI (Self-Reg.)     : Menahan diri dari memihak / marah    │
+│ • KOMUNIKASI (Communication)    : Menyampaikan nasihat dengan hikmah   │
+│ • PEMECAHAN MASALAH (Prob. Solv): Menemukan solusi jemuran yang adil   │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Karena itu, **satu perilaku ≠ satu capacity**, tetapi juga **satu perilaku ≠ otomatis semua capacity**.
+> **Rambu Pendidik:**
+> Fakta bahwa lima kapasitas ini bekerja bersama **bukan bukti bahwa kelimanya adalah satu konsep yang sama**. Identitas masing-masing tetap berdiri sendiri: Regulasi diri tetaplah urusan mengendalikan hawa nafsu diri, sedangkan Komunikasi tetaplah urusan menyampaikan pesan.
 
-## Hubungan dengan Assessment
+---
 
-Assessment dapat menangkap functioning yang melibatkan beberapa capacity sekaligus. Namun instrumen atau penilaian tidak boleh menyimpulkan satu skor hanya karena beberapa capacity muncul dalam aktivitas yang sama.
+## 3. Alur Penilaian Bukti Perilaku Kompleks (Evidence Chain)
 
-Jika satu evidence digunakan untuk beberapa inference, setiap inference harus tetap memiliki dasar dan batas interpretasi yang jelas.
+Saat musyrif mengamati santri melakukan tindakan kompleks di asrama, musyrif wajib mengurai pengamatannya melalui empat langkah:
 
-Detail instrumen, rubrik, scoring, cut-off, dan prosedur assessment berada di domain **Assessment**, bukan di dokumen ini.
+```text
+            PERBUATAN NYATA TERLIHAT DI ASRAMA
+         (Santri Mendamaikan Kawan yang Bertengkar)
+                            │
+                            ▼
+               CATATAN FAKTA LAPORAN LOGBOOK
+        ("Zaid mendengar keluhan kedua kawan & usulkan solusi")
+                            │
+                            ▼
+               PENAFSIRAN FUNGSI MASING-MASING
+      (Regulasi Diri: Tenang; Pemecahan Masalah: Solusi Adil)
+                            │
+                            ▼
+               KESIMPULAN CAPAIAN ADAB SPESIFIK
+      (Kemajuan pada Regulasi Diri & Pemecahan Masalah)
+```
 
-## Hubungan dengan Intervention
+Dengan cara ini, penilaian terhadap santri tidak berupa nilai borongan yang kabur (misal: *"Nilai akhlak Zaid 90"*), melainkan catatan bermakna yang memetakan kapasitas mana saja yang sudah matang dan kapasitas mana yang masih perlu pendampingan lebih lanjut.
 
-Satu masalah nyata dapat memerlukan dukungan pada beberapa fungsi sekaligus. Namun kebutuhan tersebut tidak otomatis berarti harus dibuat satu intervensi untuk “semua capacity”. Intervention perlu mengikuti masalah, konteks, evidence, dan target functioning yang relevan.
+---
 
-Dokumen ini menetapkan boundary konseptual, bukan resep intervention.
+## Ringkasan Inti
 
-## Hubungan dengan Growth Mechanism
-
-Growth Mechanism menjelaskan bagaimana pengalaman, engagement, practice, feedback, reflection, adaptation, dan kondisi lingkungan dapat berkontribusi pada perubahan functioning/capacity.
-
-Cross-capacity functioning menjelaskan **keterlibatan beberapa capacity dalam functioning nyata**. Keduanya tidak boleh dicampur menjadi satu konstruk.
-
-## Status
-
-**CONCEPTUALLY SPECIFIED / EMPIRICALLY PROVISIONAL**
-
-Dokumen ini menetapkan cara membaca keterlibatan lintas-capacity secara konseptual. Ia bukan bukti empiris tentang korelasi, kausalitas, dependency, atau universalitas hubungan antar-capacity.
-
-## Source Trail
-
-Core Capacity Architecture, `01_RELATIONSHIP_MAP.md`, `03_RELATIONSHIP_BOUNDARIES.md`, serta rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
+> **Kehadiran Bersama Lintas-Kapasitas membuktikan kekayaan jiwa manusia. Santri yang matang adabnya adalah santri yang seluruh kapasitas batinnya bekerja serasi: hatinya peka, akalnya kritis, lidahnya santun, dan tindakannya menghadirkan kedamaian serta kemaslahatan bagi seluruh penghuni asrama.**

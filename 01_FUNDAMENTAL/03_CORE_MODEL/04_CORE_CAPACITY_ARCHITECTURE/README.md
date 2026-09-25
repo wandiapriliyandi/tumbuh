@@ -32,7 +32,7 @@ Diagram tersebut adalah hubungan arsitektural, bukan causal chain universal.
 
 Agar rantai arsitektur ini mudah dipahami oleh santri, guru, maupun musyrif lapangan, perhatikan analogi sederhana berikut:
 
-| Tingkatan Arsitektur | Pertanyaan Pemantik | Maksud Sederhana | Contoh Nyata Santri di Asrama |
+| Tingkatan Arsitektur | Pertanyaan Pemantik | Penjelasan Ringkas | Contoh Nyata Santri di Asrama |
 |---|---|---|---|
 | **1. Arah Normatif (*Normative Direction*)** | *Nilai apa yang dituju?* | Nilai moral/syariat yang menjadi panduan hidup. | Kewajiban menjaga shalat lima waktu berjamaah tepat waktu di masjid. |
 | **2. Kapasitas Inti (*Core Capacity*)** | *Kemampuan batin apa?* | Daya fungsi batin yang dilatih pada diri santri. | **Regulasi Diri (*Self-Regulation*)**: kemampuan mengatur diri sendiri. |

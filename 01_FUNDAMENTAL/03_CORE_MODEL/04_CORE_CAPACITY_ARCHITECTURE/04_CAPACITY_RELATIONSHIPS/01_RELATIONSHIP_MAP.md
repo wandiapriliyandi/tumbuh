@@ -1,48 +1,62 @@
-# Capacity Relationship Map
+# Peta Hubungan Antar-Kapasitas Inti (Capacity Relationship Map)
 
-Delapan Core Capacities TUMBUH **tidak bekerja sebagai delapan kotak yang terpisah**. Dalam functioning nyata, beberapa capacity dapat muncul bersama, saling melengkapi, atau saling menyediakan kondisi fungsional.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Jaringan Kerja Sama Antar-Kapasitas Santri
 
-## Status Peta
+Dokumen ini menjelaskan bagaimana **Delapan Kapasitas Inti (*8 Core Capacities*)** saling melengkapi, menopang, dan berinteraksi dalam kehidupan nyata santri selama 24 jam di pesantren.
 
-Peta ini adalah **conceptual relevance map**. Ia bukan:
+---
 
-- matriks korelasi empiris;
-- diagram kausal;
-- hierarki kapasitas;
-- bukti bahwa satu capacity menyebabkan capacity lain;
-- atau dasar untuk menjumlahkan seluruh capacity menjadi satu skor umum.
+## 1. Kapasitas Manusia Tidak Bekerja Sendirian
 
-## Relasi Konseptual Utama
+Dalam kenyataan hidup di asrama, manusia tidak pernah menggunakan satu kapasitas batin secara terisolasi seperti kotak-kotak terpisah di lemari. Ketika seorang santri menghadapi perselisihan dengan kawan sekamar, ia tidak bisa hanya menggunakan "komunikasi" saja; ia membutuhkan "regulasi diri" untuk meredam amarah, "kepekaan sosial" untuk memahami perasaan kawan, dan "pemecahan masalah" untuk mencari jalan damai bersama.
 
-| Capacity | Relasi fungsional yang relevan |
-|---|---|
-| Self-Regulation | Agency, Critical Thinking, Problem Solving, Collaboration, Communication |
-| Critical Thinking | Problem Solving, Communication, Self-Regulation, Social Understanding, Agency |
-| Communication | Social Understanding, Collaboration, Critical Thinking, Agency |
-| Collaboration | Communication, Social Understanding, Self-Regulation, Agency, Problem Solving |
-| Physical Functioning | Self-Regulation, Agency, Collaboration, Problem Solving |
-| Social Understanding | Communication, Collaboration, Critical Thinking, Agency |
-| Agency | Self-Regulation, Problem Solving, Communication, Collaboration, Physical Functioning, Social Understanding |
-| Problem Solving | Critical Thinking, Self-Regulation, Agency, Collaboration, Communication |
+Pertanyaan mendasar yang dijawab oleh **Peta Hubungan Antar-Kapasitas (*Relationship Map*)** adalah:
 
-Daftar tersebut menunjukkan **kemungkinan relevansi dalam functioning**, bukan tingkat hubungan statistik.
+> **Bagaimana delapan kapasitas inti ini saling bahu-membahu menopang perilaku santri dalam berbagai episode kehidupan nyata di pesantren?**
 
-## Cara Membaca
+---
 
-Contoh: ketika santri menghadapi konflik kelompok, functioning dapat melibatkan:
+## 2. Matriks Hubungan Fungsional Antar-Kapasitas
 
-`SOCIAL UNDERSTANDING → COMMUNICATION → COLLABORATION → SELF-REGULATION`
+Peta ini adalah **peta relevansi konseptual**, bukan rumus korelasi statistik yang kaku:
 
-Namun pola aktual dapat berbeda menurut konteks, tuntutan, sumber daya, dan kondisi individu.
+| Kapasitas Inti | Kapasitas Rekan yang Paling Sering Mendukung | Contoh Sinergi Nyata di Asrama Pesantren |
+|---|---|---|
+| **CC-01: Regulasi Diri** | Agency, Nalar Kritis, Pemecahan Masalah, Kolaborasi, Komunikasi | Mampu menahan diri dari godaan begadang (*Regulasi Diri*) agar esok pagi memiliki stamina fisik (*Fungsi Jasmani*) untuk shalat Subuh dan hafalan. |
+| **CC-02: Nalar Kritis** | Pemecahan Masalah, Komunikasi, Regulasi Diri, Kepekaan Sosial | Menyaring kabar miring tentang kawan sekamar (*Nalar Kritis*) dengan tabayyun secara lembut (*Komunikasi*) tanpa tersulut prasangka (*Regulasi Diri*). |
+| **CC-03: Komunikasi Terbuka** | Kepekaan Sosial, Kolaborasi, Nalar Kritis, Daya Gerak Mandiri | Berani menyampaikan pendapat saat musyawarah kamar (*Komunikasi & Agency*) dengan memilih kata-kata yang tidak menyinggung perasaan (*Kepekaan Sosial*). |
+| **CC-04: Kolaborasi Ukhuwah** | Komunikasi, Kepekaan Sosial, Regulasi Diri, Pemecahan Masalah | Kompak bekerja bakti membersihkan selasar asrama (*Kolaborasi*), saling berbagi tugas secara adil (*Pemecahan Masalah*), dan saling memaklumi kelemahan kawan (*Regulasi Diri*). |
+| **CC-05: Fungsi Jasmani & Ketahanan** | Regulasi Diri, Daya Gerak Mandiri, Kolaborasi | Menjaga kebersihan pakaian dan pola makan (*Fungsi Jasmani & Regulasi Diri*) agar tubuh bugar menuntut ilmu berjam-jam di halaqoh. |
+| **CC-06: Kepekaan Sosial** | Komunikasi, Kolaborasi, Nalar Kritis, Daya Gerak Mandiri | Menyadari adik kelas sedang menangis rindu rumah (*Kepekaan Sosial*), lalu mendekati dan menghiburnya dengan tutur kata yang menyejukkan (*Komunikasi & Agency*). |
+| **CC-07: Daya Gerak Mandiri (Agency)** | Regulasi Diri, Pemecahan Masalah, Kolaborasi, Fungsi Jasmani | Berinisiatif mematikan kran air yang meluap di tempat wudhu tanpa menunggu disuruh musyrif (*Agency & Pemecahan Masalah*). |
+| **CC-08: Pemecahan Masalah** | Nalar Kritis, Regulasi Diri, Kolaborasi, Komunikasi | Menata ulang jadwal giliran kamar mandi saat air asrama mengalir kecil agar seluruh kawan dapat wudhu tepat waktu (*Pemecahan Masalah & Kolaborasi*). |
 
-## Prinsip
+---
 
-1. Satu capacity dapat berkontribusi pada banyak bentuk functioning.
-2. Satu situasi dapat melibatkan beberapa capacity sekaligus.
-3. Keterlibatan bersama tidak berarti construct-nya sama.
-4. Tidak adanya garis pada peta tidak membuktikan tidak adanya hubungan empiris.
-5. Klaim korelasi, prediksi, mediasi, moderasi, ketergantungan, atau kausalitas memerlukan evidence yang sesuai dan pencatatan di Claim Registry.
+## 3. Studi Kasus Nyata: Sinergi Delapan Kapasitas Saat Piket Jumat
 
-## Status
+> **Piket Akbar Asrama Hari Jumat Pukul 06.00:**
+> Kamar Abu Bakar mendapat giliran membersihkan kamar mandi, lorong asrama, dan kaca musholla dalam waktu 45 menit sebelum halaqoh Al-Qur'an dimulai.
+>
+> 1. **Daya Gerak Mandiri (Agency):** Zaid mengambil inisiatif menyiapkan ember, pel, dan sabun karbol dari gudang asrama tanpa disuruh musyrif.
+> 2. **Pemecahan Masalah & Nalar Kritis:** Menyadari waktu sempit dan peralatan pel hanya ada dua, Zaid dan kawan-kawannya membagi area kerja menjadi tiga regu: regu basah, regu kering, dan regu kaca.
+> 3. **Komunikasi & Kolaborasi:** Selama bekerja, santri saling mengingatkan dengan ramah: *"Akhi, sebelah sini lantainya masih licin, tolong pel sekali lagi ya."* Mereka bekerja dengan riang gembira tanpa ada yang berpangku tangan.
+> 4. **Regulasi Diri & Kepekaan Sosial:** Saat seorang santri junior tidak sengaja menumpahkan air sabun ke sajadah yang sedang dijemur, santri senior tidak membentak. Santri senior menarik napas (*Regulasi Diri*), menatap wajah adiknya yang ketakutan (*Kepekaan Sosial*), lalu berkata tenang: *"Tidak apa-apa, mari kita bilas lagi bersama-sama."*
+> 5. **Fungsi Jasmani:** Seluruh kegiatan fisik ini menuntut ketangkasan gerak, koordinasi tubuh, dan ketahanan fisik yang prima.
+>
+> **Pelajaran:** Dalam satu peristiwa piket 45 menit, seluruh kapasitas inti hadir berpadu harmonis membentuk adab ukhuwah yang nyata.
 
-**Conceptually specified / empirically provisional.**
+---
+
+## 4. Tiga Batas Penting Membaca Peta Hubungan
+
+Agar tidak terjadi kerancuan logika berpikir:
+1. **Hubungan Bukan Sebab-Akibat Otomatis:** Mengetahui bahwa Regulasi Diri sering hadir bersama Komunikasi bukan bukti bahwa Regulasi Diri pasti menyebabkan santri pintar berbicara.
+2. **Tidak Ada Kapasitas yang "Lebih Mulia":** Tidak ada hierarki kasta antar-kapasitas; semua kapasitas sama pentingnya sesuai situasi yang dihadapi santri.
+3. **Kapasitas Tetap Memiliki Identitas Mandiri:** Meskipun bekerja bersama-sama dalam satu tindakan, Regulasi Diri tetaplah urusan mengatur dorongan diri, sedangkan Komunikasi tetaplah urusan menyampaikan pesan.
+
+---
+
+## Ringkasan Inti
+
+> **Peta Hubungan Antar-Kapasitas membuktikan bahwa adab santri di pesantren adalah sebuah orkestra simfoni yang indah. Ketika regulasi diri, nalar kritis, komunikasi santun, dan ukhuwah kolaborasi berpadu harmonis, lahirlah santri yang tangguh, bijaksana, dan siap menjadi pelopor kebaikan di tengah umat.**

@@ -1,167 +1,60 @@
-# Capacity Relationship Boundaries
+# Batas-Batas Hubungan Antar-Kapasitas (Capacity Relationship Boundaries)
 
-Relasi antar-capacity perlu dijelaskan hati-hati. Dalam TUMBUH, **hubungan yang masuk akal secara fungsional tidak otomatis menjadi klaim empiris tentang hubungan antar-construct**.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Rambu-Rambu Menilai Hubungan Karakter
 
-Sederhananya: dua capacity bisa bekerja dalam satu kejadian yang sama tanpa berarti keduanya sama, salah satunya menyebabkan yang lain, atau keduanya harus selalu muncul bersama.
+Dokumen ini menetapkan batasan keilmuan yang tegas agar hubungan saling menopang antar-kapasitas di asrama tidak disalahtafsirkan menjadi kesimpulan yang keliru, overclaim, atau memaksakan kasta nilai yang tidak berdasar.
 
-## Yang Boleh Dikatakan
+---
 
-Secara konseptual, kita dapat mengatakan bahwa dua capacity:
+## 1. Mengapa Rambu Batas Hubungan Ini Mutlak Diperlukan?
 
-- dapat muncul bersama dalam functioning tertentu;
-- dapat saling melengkapi secara fungsional;
-- dapat relevan pada aktivitas atau konteks yang sama;
-- dapat berinteraksi dalam functioning yang kompleks.
+Ketika kita melihat bahwa santri yang pintar berkomunikasi sering kali juga pandai menyelesaikan masalah, muncul godaan untuk membuat kesimpulan tergesa-gesa:
+- *"Santri yang pintar bicara pasti otomatis pintar menyelesaikan masalah!"* (Asumsi keliru);
+- *"Kapasitas berpikir kritis lebih mulia derajatnya daripada kapasitas fungsi jasmani!"* (Hierarki kasta yang keliru).
 
-Pernyataan seperti ini menjelaskan **kemungkinan keterkaitan dalam functioning**, bukan besarnya atau arah hubungan empiris.
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-## Yang Belum Boleh Disimpulkan
+> **Apa saja batas kesimpulan yang boleh ditarik dari hubungan antar-kapasitas, dan apa saja prasangka yang dilarang keras dibuat oleh pendidik?**
 
-Dari relasi konseptual saja kita tidak boleh menyimpulkan bahwa:
+---
 
-- Capacity A menyebabkan Capacity B;
-- Capacity A selalu mendahului Capacity B;
-- Capacity A diperlukan untuk semua functioning Capacity B;
-- kedua capacity memiliki korelasi tertentu;
-- satu capacity dapat menggantikan capacity lainnya;
-- satu capacity merupakan subbagian dari capacity lain;
-- atau semua capacity dapat dijumlahkan menjadi satu skor umum.
+## 2. Enam Pagar Batas Hubungan Antar-Kapasitas
 
-Klaim tersebut membutuhkan evidence yang sesuai dan tidak boleh diselundupkan ke dalam peta relasi konseptual.
-
-## Boundary Test
-
-Sebelum menyatakan suatu relationship, periksa:
-
-1. Apakah yang dibahas **functioning bersama** atau hubungan statistik?
-2. Apakah functional identity kedua capacity masih berbeda?
-3. Apakah functional object keduanya tetap dapat dibedakan?
-4. Apakah klaim tersebut membutuhkan evidence empiris?
-5. Jika ya, apakah evidence dan inference sudah dicatat dengan tepat?
-6. Apakah relationship berlaku pada konteks tertentu atau sedang diklaim umum?
-7. Apakah relationship tersebut menimbulkan risiko construct overlap?
-
-Jika jawaban atas pertanyaan-pertanyaan tersebut tidak jelas, relationship sebaiknya tidak diperkuat menjadi klaim yang lebih besar.
-
-## Construct Identity Tetap Dipertahankan
-
-Contoh:
-
-> **Communication dapat mendukung Collaboration.**
-
-Ini tidak berarti **Communication = Collaboration**.
-
-Communication tetap berfokus pada **pesan dan makna**, sedangkan Collaboration berfokus pada **joint action dan contribution menuju shared goals**.
-
-Demikian pula, ketika Problem Solving dan Critical Thinking muncul dalam satu masalah, keduanya tetap menjelaskan fungsi yang berbeda. Cross-capacity functioning tidak menghapus boundary tersebut.
-
-## Relationship ≠ Sequence
-
-Keterkaitan antar-capacity tidak boleh dibaca sebagai urutan perkembangan otomatis.
+Perhatikan enam rambu pengaman berpikir berikut:
 
 ```text
-CAPACITY A ─────┐
-                ├─ functioning bersama
-CAPACITY B ─────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│               ENAM PAGAR BATAS HUBUNGAN ANTAR-KAPASITAS                │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. HUBUNGAN BUKAN SEBAB-AKIBAT : Sering bareng ≠ Yang satu ciptakan lain│
+│ 2. HUBUNGAN BUKAN HIERARKI KASTA: Tidak ada kapasitas yang "lebih tinggi"│
+│ 3. HUBUNGAN BUKAN PELEBURAN    : Bekerja sama ≠ Menjadi satu konsep    │
+│ 4. HUBUNGAN BUKAN SYARAT MUTLAK: Tidak harus semua muncul sekaligus    │
+│ 5. HUBUNGAN BUKAN TANGGA USIA  : Peta kawan ≠ Urutan mana yang duluan  │
+│ 6. HUBUNGAN BUKAN SKOR BORONGAN: Jangan dijumlah jadi satu angka mati  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Diagram tersebut tidak berarti:
+### 1. Hubungan Bukan Sebab-Akibat (*Relationship ≠ Causation*)
+Melihat seorang santri memiliki regulasi diri yang baik dan sekaligus berani berinisiatif (*agency*) bukan bukti bahwa regulasi diri secara otomatis menciptakan inisiatif. Keduanya adalah dua potensi fitrah yang sama-sama diasah lewat riyadhoh.
 
-```text
-A → B
-```
+### 2. Hubungan Bukan Hierarki Kasta (*Relationship ≠ Hierarchy*)
+Jangan pernah merendahkan kapasitas jasmani (*Physical Functioning*) seolah-olah lebih rendah dibanding nalar kritis (*Critical Thinking*). Menjaga tubuh tetap bugar dan berwudhu dengan sempurna adalah ibadah fisik yang agung dan menjadi syarat sahnya shalat.
 
-atau bahwa A harus berkembang lebih dahulu daripada B.
+### 3. Hubungan Bukan Peleburan Konsep (*Relationship ≠ Identity*)
+Bekerja bakti di asrama membutuhkan kolaborasi dan komunikasi. Namun jangan pernah menyamakan keduanya: *Kolaborasi* adalah urusan menyatukan tenaga menuju tujuan bersama, sedangkan *Komunikasi* adalah urusan menyampaikan pesan dengan santun.
 
-Perubahan functioning sepanjang waktu berada dalam wilayah **Progression** dan evidence perkembangan yang sesuai.
+### 4. Tidak Harus Muncul Serentak (*Not Required Co-occurrence*)
+Jika seorang santri sedang berlari mengelilingi lapangan asrama untuk melatih stamina (*Physical Functioning*), jangan menuntutnya harus sambil mempraktikkan nalar kritis atau pemecahan masalah yang rumit. Setiap situasi memiliki porsi kapasitasnya masing-masing.
 
-## Relationship ≠ Causation
+### 5. Bukan Tangga Urutan Usia (*Relationship ≠ Sequence*)
+Jangan beranggapan bahwa santri harus menguasai regulasi diri dulu 100% baru boleh diajari berpikir kritis. Seluruh kapasitas diasah secara bertahap dan berbarengan sesuai dinamika usia dan tantangan hidup santri.
 
-Jika dua capacity sering muncul bersama, hal itu belum membuktikan bahwa salah satunya menyebabkan yang lain.
+### 6. Bukan Skor Rapor Borongan (*No Single Total Score*)
+Delapan kapasitas ini tidak boleh dirata-rata menjadi satu angka tunggal: *"Skor adab santri ini adalah 82"*. Angka tunggal semacam itu menyembunyikan kenyataan: bisa jadi regulasi dirinya 95 (sangat sabar), namun kepekaan sosialnya 60 (masih agak cuek pada kawan). Catatan pengamatan harus memetakan kelebihan dan area bimbingan secara jujur dan rinci.
 
-Untuk menyatakan korelasi, prediksi, mediasi, moderasi, dependency, atau kausalitas diperlukan desain evidence dan inference yang sesuai. Relationship map tidak menggantikan proses tersebut.
+---
 
-## Relationship ≠ Identity
+## Ringkasan Inti
 
-Kemiripan perilaku atau kemunculan dalam aktivitas yang sama bukan alasan cukup untuk menggabungkan capacity.
-
-Review construct harus kembali kepada:
-
-`CAPACITY → FUNCTIONAL OBJECT → FUNCTIONAL DIMENSIONS → MANIFESTATIONS`
-
-Jika fungsi inti masih berbeda, cross-capacity functioning seharusnya dibaca sebagai keterkaitan, bukan sebagai satu construct baru.
-
-## Relationship ≠ Required Co-occurrence
-
-Tidak semua capacity harus muncul pada setiap aktivitas.
-
-Misalnya, suatu aktivitas dapat sangat menonjolkan Physical Functioning tanpa membutuhkan functioning Social Understanding yang berarti. Aktivitas lain dapat melibatkan banyak capacity sekaligus.
-
-Karena itu, **tidak munculnya satu capacity dalam sebuah episode bukan bukti bahwa capacity tersebut tidak ada atau rendah secara umum**.
-
-## Hubungan dengan Evidence dan Inference
-
-Evidence tentang satu capacity tidak otomatis menjadi evidence tentang relationship-nya dengan capacity lain.
-
-Jalur interpretasinya tetap perlu dipisahkan:
-
-```text
-OBSERVED MANIFESTATION
-        ↓
-EVIDENCE
-        ↓
-CAPACITY-SPECIFIC INFERENCE
-        ↓
-RELATIONSHIP CLAIM?
-```
-
-Langkah terakhir membutuhkan dasar evidence tambahan bila relationship tersebut hendak dinyatakan sebagai klaim empiris.
-
-## Hubungan dengan Claim Registry
-
-Klaim tentang korelasi, prediksi, mediasi, moderasi, dependency, atau kausalitas harus dipisahkan dari peta konseptual dan ditangani melalui **Claim Registry** serta evidence yang sesuai.
-
-Dengan demikian, arsitektur tidak mencampur:
-
-- keputusan konseptual tentang kemungkinan relationship;
-- dengan klaim empiris tentang apakah relationship tersebut benar-benar terjadi, seberapa kuat, dan dalam kondisi apa.
-
-## Governance
-
-Setiap perubahan relationship map perlu diuji terhadap:
-
-- construct identity;
-- functional object;
-- functional dimensions;
-- boundary masing-masing capacity;
-- intended inference;
-- traceability;
-- risiko construct overlap;
-- dan status evidence.
-
-Penambahan relationship baru tidak boleh dilakukan hanya karena dua capacity sering muncul dalam program atau aktivitas yang sama.
-
-Jika sebuah relationship baru dinyatakan sebagai klaim empiris, perubahan tersebut harus dipisahkan dari keputusan arsitektural dan ditelusurkan melalui **Claim Registry**.
-
-## Boundary terhadap Layer TUMBUH
-
-Dokumen ini menjelaskan **hubungan antar-Core Capacities**. Ia bukan:
-
-- Growth Mechanism;
-- Progression sequence;
-- Assessment rubric;
-- Intervention protocol;
-- Implementation procedure;
-- atau norma tentang bagaimana seseorang seharusnya bertindak.
-
-Relationship antar-capacity juga tidak boleh dipakai untuk menentukan nilai seseorang atau menghasilkan label moral.
-
-## Status
-
-**CONCEPTUALLY SPECIFIED / EMPIRICALLY PROVISIONAL**
-
-Boundary ini menetapkan cara membaca relationship secara konseptual. Ia belum menjadi bukti bahwa hubungan antar-capacity terbukti secara empiris, kausal, universal, atau lintas konteks.
-
-## Source Trail
-
-Core Capacity Architecture, `01_RELATIONSHIP_MAP.md`, `02_CROSS_CAPACITY_FUNCTIONING.md`, serta rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
+> **Batas Hubungan Antar-Kapasitas menjaga kejernihan pandangan para pendidik di pesantren. Kita memandang santri sebagai pribadi yang utuh, menghargai setiap potensi kebaikannya secara proporsional, dan mendampingi kekurangannya dengan sabar tanpa pernah menjatuhkan vonis yang zalim atau tergesa-gesa.**

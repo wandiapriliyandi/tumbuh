@@ -86,7 +86,7 @@ Ia adalah **struktur representasi konstruk**: cara untuk menjelaskan dari arah y
 
 Agar rantai di atas mudah dipahami oleh santri, pendidik, dan musyrif lapangan:
 
-| Tingkatan Rantai | Pertanyaan Kunci | Maksud Sederhana | Contoh Nyata Santri di Asrama |
+| Tingkatan Rantai | Pertanyaan Kunci | Penjelasan Ringkas | Contoh Nyata Santri di Asrama |
 |---|---|---|---|
 | **Arah Normatif (*Normative Direction*)** | *Nilai apa yang dituju?* | Nilai moral/syariat yang menjadi panduan hidup. | Kewajiban menjaga shalat lima waktu berjamaah tepat waktu di masjid. |
 | **Kapasitas Inti (*Core Capacity*)** | *Kemampuan batin apa?* | Daya fungsi batin yang dilatih pada diri santri. | **Regulasi Diri (*Self-Regulation*)**: kemampuan mengatur diri sendiri. |
