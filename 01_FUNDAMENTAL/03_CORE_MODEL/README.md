@@ -1,233 +1,99 @@
-# 03 — CORE MODEL
+# Model Inti TUMBUH (Core Model)
 
-## Purpose
+**Status:** SPESIFIKASI KONSEPTUAL RESMI — Jantung Rancang Bangun Pendidikan Karakter Pesantren
 
-**Core Model** adalah bagian fundamental TUMBUH yang menjelaskan bagaimana pertumbuhan dipahami secara konseptual: **arah manusia yang dituju, medan pertumbuhan, proses perubahan, dan kapasitas inti yang menjadi perhatian sistem**, serta aturan hubungan, identitas construct, dan klaim yang menjaga agar model tetap koheren ketika diterjemahkan ke layer berikutnya.
+Dokumen ini merupakan **pintu gerbang utama** yang menjelaskan bagaimana seluruh konsep pembinaan santri di dalam ekosistem TUMBUH dibangun: dari profil lulusan yang dicita-citakan, lingkungan tempat santri hidup, mesin perubahan jiwa santri, hingga delapan kapasitas adab yang ditumbuhkan setiap hari di pesantren.
 
-Core Model bukan program, bukan SOP, bukan instrumen assessment, dan bukan teori kausal universal.
+---
 
-## Posisi dalam Arsitektur TUMBUH
+## 1. Apa itu Model Inti (Core Model)?
 
-```text
-FOUNDATION
-(Worldview / Principles / Normative Direction)
-          ↓
-CORE MODEL
-(Graduate Profile → Ecology → Mechanism → Capacity)
-          ↓
-PROGRESSION
-          ↓
-ASSESSMENT
-          ↓
-INTERVENTION
-          ↓
-IMPLEMENTATION
-          ↓
-EVIDENCE & RESEARCH
-          ↺
-CONTINUOUS IMPROVEMENT
-```
+Jika kita membangun sebuah gedung pesantren, *Worldview* (Pandangan Hidup Islam) adalah tanah tempat gedung itu berdiri, sedangkan **Model Inti (*Core Model*)** adalah cetak biru (*blueprint*) arsitekturnya. Model Inti menjelaskan bagaimana ruangan-ruangan disusun, bagaimana ventilasi udara bekerja, dan bagaimana para penghuninya saling berinteraksi secara aman dan nyaman.
 
-Graduate Profile merupakan titik rujuk normatif yang dibahas terlebih dahulu dalam Core Model, sementara sumber dan otoritas normatif canonical tetap berada di Foundation.
+Pertanyaan mendasar yang dijawab oleh **Model Inti** adalah:
 
-## Struktur Canonical Core Model
+> **Sosok santri seperti apa yang ingin kita lahirkan, di lingkungan seperti apa mereka dibina, melalui proses batin apa mereka berubah, dan keterampilan adab apa saja yang harus mereka miliki agar siap memimpin umat?**
+
+Model Inti bukanlah buku kumpulan jadwal acara (*program*), bukan lembar penilaian angka (*asesmen*), dan bukan aturan hukuman (*SOP*). Model Inti adalah **kerangka berpikir mendasar** yang memastikan bahwa seluruh kegiatan santri selama 24 jam sehari memiliki ruh dan arah yang jelas.
+
+---
+
+## 2. Peta Arsitektur Tujuh Pilar Model Inti
+
+Model Inti TUMBUH terdiri dari empat pilar substantif pembinaan dan tiga pilar tata kelola penjaga mutu:
 
 ```text
-03_CORE_MODEL
-│
-├── 01_GRADUATE_PROFILE
-│   └── Rujukan 10 Muwashofat sebagai arah normatif yang diturunkan dari Foundation
-│
-├── 02_GROWTH_ECOLOGY
-│   └── Medan, konteks, aktor, dan relasi tempat pertumbuhan berlangsung
-│
-├── 03_GROWTH_MECHANISM
-│   └── Proses yang memungkinkan perubahan functioning dan kemungkinan perubahan capacity
-│
-├── 04_CORE_CAPACITY_ARCHITECTURE
-│   └── Construct kapasitas inti dan cara representasinya
-│
-├── 05_SYSTEM_LOGIC
-│   └── Hubungan dan dependency antarbagian sistem
-│
-├── 06_CONSTRUCT_REGISTRY
-│   └── Identitas, definisi, boundary, dan lineage construct
-│
-├── 07_CLAIM_REGISTRY
-│   └── Governance atas klaim, evidence, dan batas inferensi
-│
-└── README.md
+┌────────────────────────────────────────────────────────────────────────┐
+│                   ARSITEKTUR MODEL INTI (CORE MODEL)                   │
+├────────────────────────────────────────────────────────────────────────┤
+│                     EMPAT PILAR SUBSTANTIF PEMBINAAN                   │
+│                                                                        │
+│ 1. PROFIL LULUSAN (01_GRADUATE_PROFILE)                                │
+│    └── Arah Cita-cita: 10 Karakter Adab Santri (10 Muwashofat)         │
+│                 ↓                                                      │
+│ 2. EKOLOGI PERTUMBUHAN (02_GROWTH_ECOLOGY)                             │
+│    └── Wadah & Iklim: Lingkungan Asrama 24 Jam, Triad, & Rasa Aman    │
+│                 ↓                                                      │
+│ 3. MEKANISME PERTUMBUHAN (03_GROWTH_MECHANISM)                         │
+│    └── Mesin Perubahan: Dari Pengalaman, Latihan, Muhasabah, ke Adab  │
+│                 ↓                                                      │
+│ 4. ARSITEKTUR KAPASITAS INTI (04_CORE_CAPACITY_ARCHITECTURE)           │
+│    └── Kotak Perkakas: 8 Kapasitas Fungsional Santri (CC-01 s/d CC-08) │
+│                                                                        │
+│                   TIGA PILAR TATA KELOLA PENJAGA MUTU                  │
+│                                                                        │
+│ 5. LOGIKA SISTEM (05_SYSTEM_LOGIC)                                     │
+│    └── Pengikat Alur: Menyambungkan Hulu ke Hilir & Anti Tabrakan Peran│
+│                                                                        │
+│ 6. REGISTRI KONSTRUK (06_CONSTRUCT_REGISTRY)                           │
+│    └── Kamus Resmi: Menjaga Kemurnian Makna Istilah & Batas Konsep     │
+│                                                                        │
+│ 7. REGISTRI KLAIM (07_CLAIM_REGISTRY)                                  │
+│    └── Benteng Kejujuran: Menolak Overclaim & Mengikat Bukti Lapangan  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-## Empat Komponen Substantif dan Governance
+---
 
-Core Model dibaca dengan urutan substantif:
+## 3. Matriks Peran: Memahami Keterpaduan 7 Folder
 
-### 1. Graduate Profile
+| Folder | Pertanyaan Inti yang Dijawab | Gambaran Nyata di Asrama Pesantren 24 Jam |
+|---|---|---|
+| **`01_GRADUATE_PROFILE`** | *Mau jadi apa santri kita kelak?* | Santri yang aqidahnya lurus, ibadahnya benar, akhlaknya mulia, mandiri, dan bermanfaat bagi masyarakat. |
+| **`02_GROWTH_ECOLOGY`** | *Di mana dan bersama siapa santri hidup?* | Asrama yang bersih, toilet cukup, musyrif yang mengayomi (*in loco parentis*), dan suasana bebas perundungan. |
+| **`03_GROWTH_MECHANISM`** | *Bagaimana jiwa santri bertransformasi?* | Menghadapi masalah kamar $\rightarrow$ keterlibatan sadar $\rightarrow$ riyadhoh $\rightarrow$ tawashi & muhasabah $\rightarrow$ watak membatin. |
+| **`04_CORE_CAPACITY_ARCHITECTURE`** | *Keterampilan apa yang diasah setiap hari?* | Regulasi diri saat marah, nalar kritis saat dengar gosip, ukhuwah saat piket, dan inisiatif mandiri berbuat baik. |
+| **`05_SYSTEM_LOGIC`** | *Bagaimana agar semua guru kompak searah?* | Musyrif, guru kelas, dan pengelola duduk bersama dalam lingkaran evaluasi berkala berbasis fakta logbook. |
+| **`06_CONSTRUCT_REGISTRY`** | *Apakah istilah kita sudah disepakati bersama?* | Memastikan kata "disiplin" tidak disamakan dengan "takut tongkat", dan "tawadhu'" bukan "santri penakut". |
+| **`07_CLAIM_REGISTRY`** | *Apakah laporan keberhasilan kita jujur?* | Mencatat data riil kemajuan santri apa adanya, tidak berbohong demi promosi, dan mengakui kekurangan diri. |
 
-Menjelaskan **manusia/lulusan seperti apa yang menjadi arah normatif TUMBUH**. Graduate Profile bukan taxonomy Core Capacity dan bukan sumber normatif baru; ia merujuk pada arah yang diturunkan dari Foundation.
+---
 
-### 2. Growth Ecology
+## 4. Jembatan Penerjemahan: Dari Nilai Luhur Menuju Perilaku Nyata
 
-Menjelaskan **di mana, bersama siapa, dan dalam kondisi relasional seperti apa pertumbuhan berlangsung**.
+Salah satu keunggulan Model Inti TUMBUH adalah kemampuannya menghubungkan nilai-nilai spiritual yang luhur menjadi perilaku harian yang dapat dilihat dan dibimbing oleh musyrif:
 
-### 3. Growth Mechanism
+$$\begin{aligned}
+\text{Cita-cita Luhur} &\longrightarrow \textbf{Akhlak yang Mulia (Matinul Khuluq)} \\
+\text{Kapasitas Fungsional} &\longrightarrow \textbf{CC-01: Regulasi Diri (Self-Regulation)} \\
+\text{Sasaran Kerja} &\longrightarrow \text{Mengendalikan dorongan amarah saat terjadi gesekan antarteman} \\
+\text{Latihan Nyata di Kamar} &\longrightarrow \text{Tarik napas dalam, berwudhu, dan menahan kata-kata celaan saat sandal tertukar} \\
+\text{Bukti Catatan Logbook} &\longrightarrow \text{Musyrif mencatat santri mampu menyelesaikan perselisihan kamar secara damai}
+\end{aligned}$$
 
-Menjelaskan **melalui proses apa perubahan functioning dan kemungkinan perubahan capacity dapat berlangsung**.
+---
 
-### 4. Core Capacity Architecture
+## 5. Status Keabsahan Sistem (Epistemic Status Boundary)
 
-Menjelaskan **apa yang berkembang pada level Core Capacity** dan bagaimana construct tersebut diuraikan, dibatasi, direlasikan, dan ditelusuri.
+Model Inti TUMBUH memegang teguh adab keilmuan dan kejujuran intelektual:
 
-```text
-GRADUATE PROFILE
-      ↓
-GROWTH ECOLOGY
-      ↓
-GROWTH MECHANISM
-      ↓
-CORE CAPACITY ARCHITECTURE
-```
+$$\textbf{SPESIFIKASI RANCANGAN KANONIK RESMI} \quad / \quad \textbf{STATUS EMPIRIS PROVISIONAL}$$
 
-Hubungan tersebut adalah hubungan arsitektural konseptual, bukan causal chain universal.
+1. **Rancangan Kanonik Resmi:** Seluruh definisi, struktur 8 kapasitas, dan alur mekanisme telah ditetapkan secara matang sebagai pedoman kerja resmi ekosistem TUMBUH.
+2. **Status Empiris Sementara (Provisional):** Efektivitas dan keberhasilan penerapannya di setiap cabang pesantren wajib terus diuji dan dievaluasi melalui catatan logbook nyata dari semester ke semester. Pesantren tidak boleh takabur merasa sistemnya sudah sempurna tanpa adanya bukti data lapangan yang sahih.
 
-Tiga komponen governance melengkapi komponen substantif tersebut:
+---
 
-- **System Logic** — menjelaskan hubungan antar-layer dan arah dependency.
-- **Construct Registry** — menjaga identitas dan batas makna construct.
-- **Claim Registry** — menjaga jenis klaim, evidence, status epistemik, dan batas inference.
+## Ringkasan Inti
 
-Komponen governance tersebut **tidak boleh diperlakukan sebagai teori pertumbuhan tambahan**. Fungsinya adalah integrasi dan governance.
-
-## Graduate Profile
-
-Graduate Profile **harus ada** dalam struktur Core Model karena Core Model perlu memiliki titik rujuk yang jelas terhadap manusia/lulusan yang dituju.
-
-Canonical Graduate Profile TUMBUH terdiri dari **10 Muwashofat**:
-
-1. Aqidah yang Lurus — *Salimul Aqidah*
-2. Ibadah yang Benar — *Shahihul Ibadah*
-3. Akhlak yang Mulia — *Matinul Khuluq*
-4. Fisik yang Sehat dan Kuat — *Qawiyyul Jism*
-5. Wawasan yang Luas — *Mutsaqqaful Fikr*
-6. Mampu Mengendalikan Diri — *Mujahadatun Linafsih*
-7. Disiplin Mengelola Waktu — *Haritsun 'Ala Waqtih*
-8. Tertib dan Bertanggung Jawab — *Munazhzham fi Syu'unih*
-9. Mandiri dan Produktif — *Qadirun 'Alal Kasb*
-10. Bermanfaat bagi Sesama — *Nafi'un Lighairih*
-
-Folder `01_GRADUATE_PROFILE` bukan sumber normatif baru. Ia adalah **rujukan canonical dalam Core Model**; sumber dan otoritas normatifnya tetap berada pada Foundation.
-
-Graduate Profile juga bukan taxonomy Core Capacity. Hubungannya dengan delapan Core Capacities harus dijaga melalui traceability, bukan dengan memaksa hubungan satu-banding-satu.
-
-## Delapan Core Capacities
-
-Core Capacity Architecture saat ini menggunakan delapan Core Capacities:
-
-1. Self-Regulation
-2. Critical Thinking
-3. Communication
-4. Collaboration
-5. Physical Functioning
-6. Social Understanding
-7. Agency
-8. Problem Solving
-
-Kedelapan capacity tersebut adalah **keputusan arsitektural canonical v2.0.0**. Status empirisnya tetap provisional.
-
-## Canonical Construct Representation
-
-Core Capacity direpresentasikan melalui struktur:
-
-```text
-NORMATIVE DIRECTION
-        ↓
-CORE CAPACITY
-        ↓
-FUNCTIONAL OBJECT
-        ↓
-FUNCTIONAL DIMENSIONS
-        ↓
-SUBFUNCTIONS / RESOURCES / PATTERNS
-        ↓
-OBSERVABLE MANIFESTATIONS
-        ↓
-EVIDENCE
-```
-
-Rantai ini adalah arsitektur representasi construct, bukan urutan perkembangan manusia atau SOP assessment.
-
-## Prinsip Boundary
-
-Core Model harus terus menjaga perbedaan antara:
-
-```text
-Normative Direction
-≠
-Graduate Profile
-≠
-Core Capacity
-≠
-Process / Mechanism
-≠
-Resource / Support
-≠
-Context
-≠
-Task
-≠
-Performance
-≠
-Evidence
-≠
-Claim
-≠
-Decision
-≠
-Procedure
-```
-
-Hubungan di antara unsur-unsur tersebut dapat ada, tetapi hubungan tidak boleh menghapus identitas dan fungsi masing-masing.
-
-## Status Epistemik
-
-Seluruh Core Model harus membedakan:
-
-- **conceptual/design decision**;
-- **empirical claim**;
-- **causal claim**;
-- **evidence**;
-- **validated finding**.
-
-Keberadaan suatu komponen dalam Core Model tidak berarti bahwa komponen tersebut telah tervalidasi secara empiris.
-
-```text
-CONCEPTUALLY SPECIFIED
-        ≠
-EMPIRICALLY VALIDATED
-        ≠
-CAUSALLY ESTABLISHED
-        ≠
-PROVEN EFFECTIVE
-```
-
-## Closure Rule
-
-Core Model dapat dianggap **architecturally closed for the current stage** apabila:
-
-1. Graduate Profile dan tiga komponen substantif memiliki batas dan fungsi yang jelas;
-2. System Logic menjelaskan hubungan antarbagian tanpa berubah menjadi causal model;
-3. Construct Registry menjaga identitas construct;
-4. Claim Registry menjaga batas klaim dan inference;
-5. Graduate Profile tersedia sebagai rujukan normatif dan tetap terhubung ke Foundation;
-6. traceability antara upstream dan downstream tersedia;
-7. tidak ada gap arsitektural material yang diketahui;
-8. status empiris tidak dibaca lebih kuat daripada evidence yang tersedia.
-
-Closure bukan berarti Core Model tidak dapat direvisi. Reopening dilakukan bila ditemukan kontradiksi material, boundary collision, kegagalan traceability, atau evidence/research yang secara substantif menantang arsitektur.
-
-## Ringkasan
-
-> **Core Model TUMBUH dimulai dari rujukan manusia/lulusan yang dituju, kemudian menjelaskan medan pertumbuhan, proses perubahan, dan kapasitas yang menjadi perhatian sistem; sedangkan System Logic, Construct Registry, dan Claim Registry menjaga agar seluruh hubungan, makna construct, dan klaim tetap koheren, terbatas, dan dapat ditelusuri.**
-
-**Status: FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
+> **Model Inti TUMBUH adalah perpaduan harmonis antara keteguhan prinsip wahyu dengan keindahan metodologi tarbiyah terapan. Ketika profil lulusan menjadi bintang penuntun, lingkungan asrama merawat rasa aman, mekanisme latihan menghidupkan muhasabah, dan tata kelola dijaga dengan kejujuran data, maka pesantren bertransformasi menjadi taman peradaban yang melahirkan generasi muttaqin yang mandiri, beradab, dan berdaya guna bagi umat manusia.**
