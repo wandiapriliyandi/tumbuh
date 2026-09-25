@@ -20,16 +20,16 @@ Dokumen ini menjadi jembatan konseptual antara Philosophy dan Principles. Ia tid
 
 Core Principles yang sekarang ada dapat dibaca sebagai sintesis lintas-fondasi, terutama:
 
-- development over mere compliance;
-- whole-person development;
-- growth is developmental;
-- context matters;
-- relationship is part of development;
-- evidence-informed development;
-- integration over fragmentation;
-- assessment serves development;
-- intervention should develop, not merely correct;
-- continuous improvement.
+- 1. Pertumbuhan Jiwa Melampaui Kepatuhan Semu (*Development over Mere Compliance*);
+- 2. Perkembangan Manusia Seutuhnya (*Whole-Person Development*);
+- 3. Pertumbuhan Berlangsung Bertahap Melalui Proses (*Growth is Developmental*);
+- 4. Lingkungan dan Konteks Sangat Menentukan (*Context Matters*);
+- 5. Hubungan Kasih Sayang adalah Media Utama Tarbiyah (*Relationship is Part of Development*);
+- 6. Pembangunan Berpijak pada Nilai dan Bukti Faktual (*Evidence-Informed Development*);
+- 7. Keterpaduan Sistem Tanpa Fragmentasi (*Integration over Fragmentation*);
+- 8. Penilaian Berfungsi Memandu Bimbingan (*Assessment Serves Development*);
+- 9. Intervensi Menumbuhkan Kapasitas, Bukan Sekadar Menghukum (*Intervention Should Develop, Not Merely Correct*);
+- 10. Perbaikan Bersinambung Melalui Muhasabah Diri (*Continuous Improvement*).
 
 Pemetaan ini menunjukkan hubungan konseptual. Ia bukan bukti bahwa Philosophy secara logis memaksa satu-satunya daftar prinsip tersebut.
 

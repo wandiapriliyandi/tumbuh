@@ -1,179 +1,136 @@
-# Principle Test
+# 09 — Uji Kelayakan Prinsip (Principle Test)
 
-## Tujuan
+## 1. Mengapa Prinsip Harus Diuji?
 
-Core Principle perlu dapat diuji. Sebuah pernyataan tidak menjadi prinsip inti hanya karena terdengar baik, penting, atau sesuai intuisi. Ia perlu menunjukkan bahwa keberadaannya memiliki fungsi nyata bagi koherensi dan arah TUMBUH.
+Sebuah kalimat yang terdengar indah atau bijak tidak otomatis layak dijadikan **Prinsip Inti (*Core Principle*)** bagi sistem pembinaan TUMBUH. 
 
-Dokumen ini menyediakan **kerangka pengujian awal**. Pengujian substantif tetap merupakan bagian dari PROBE.
+Sering kali dalam rapat pengurus asrama atau dewan pengasuh, seseorang mengusulkan aturan baru dengan penuh semangat: *"Santri wajib memakai peci hitam setiap apel pagi!"* atau *"Setiap santri wajib push-up 20 kali jika terlambat!"* Kalimat-kalimat seperti ini mungkin dianggap penting oleh sebagian orang, namun kalimat tersebut bukanlah prinsip inti. Itu hanyalah aturan tata tertib seragam atau prosedur sanksi teknis.
 
-## 1. Necessity
+Jika semua hal dimasukkan sebagai "prinsip", sistem akan menjadi sangat gemuk, kaku, dan membingungkan. Santri dan pembina tidak akan bisa lagi membedakan mana nilai suci yang tidak boleh ditawar, dan mana aturan teknis yang boleh disesuaikan.
 
-Apakah prinsip ini benar-benar diperlukan untuk menjaga Philosophy dan arah TUMBUH?
+Oleh karena itu, setiap gagasan yang diusulkan menjadi prinsip inti TUMBUH wajib melewati **Sembilan Uji Kelayakan**. Jika sebuah gagasan gagal melewati uji ini, maka ia tidak boleh dimasukkan ke dalam daftar pegangan dasar sistem.[^1]
 
-Jika prinsip dihilangkan, apakah terjadi perubahan mendasar pada cara sistem memahami manusia, perkembangan, atau keputusan desain?
+---
 
-Pertanyaan lanjutan:
-- Apa yang akan hilang jika prinsip ini tidak ada?
-- Apakah kehilangan tersebut bersifat fundamental atau hanya kehilangan satu metode?
-- Apakah prinsip lain sudah cukup menjaga hal yang sama?
-
-## 2. Distinctiveness
-
-Apakah prinsip ini memiliki makna yang cukup berbeda dari prinsip lain?
-
-Jika isinya pada dasarnya sudah tercakup oleh prinsip lain, perlu dipertimbangkan apakah ia benar-benar perlu berdiri sendiri.
-
-Kemiripan kata tidak otomatis berarti overlap. Yang perlu dibandingkan adalah **makna, fungsi, dan konsekuensi sistemiknya**.
-
-## 3. Philosophical Grounding
-
-Apakah prinsip dapat ditelusuri kepada Philosophy TUMBUH?
-
-Core Principle seharusnya merupakan konsekuensi dari worldview dan philosophy, bukan sekadar preferensi desain.
-
-Pengujian perlu dapat menunjukkan jejak:
+## 2. Sembilan Uji Kelayakan Prinsip Inti
 
 ```text
-Philosophy
-   ↓
-Arah TUMBUH
-   ↓
-Core Principle
+                                [ RUMUSAN GAGASAN BARU ]
+                                            │
+    ┌───────────────────┬───────────────────┼───────────────────┬───────────────────┐
+    ▼                   ▼                   ▼                   ▼                   ▼
+[ 1. Uji Keharusan ]  [ 2. Uji Beda ]    [ 3. Uji Akar ]     [ 4. Uji Dampak ]   [ 5. Uji Keputusan ]
+ Apakah mutlak butuh?  Apakah mandiri?    Punya dasar iman?   Mengubah sistem?    Memandu pilihan?
+    │                   │                   │                   │                   │
+    └───────────────────┼───────────────────┴───────────────────┼───────────────────┘
+                        ▼                                       ▼
+               [ 6. Uji Ketahanan ]                   [ 7. Uji Keringkasan ]
+                Tetap kokoh di mana pun?               Padat dan tidak berbelit?
+                        │                                       │
+                        ├───────────────────────────────────────┤
+                        ▼                                       ▼
+               [ 8. Uji Arah Masa Depan ]             [ 9. Uji Anti-Salah Kamar ]
+                Membuka jalan pertumbuhan?            Bukan sekadar SOP atau slogan?
 ```
 
-Arah TUMBUH membantu menjelaskan mengapa prinsip tersebut relevan bukan hanya untuk mempertahankan keadaan yang ada, tetapi juga untuk menjaga kemungkinan perkembangan yang ingin dimungkinkan TUMBUH.
+---
 
-## 4. Systemic Consequence
+### Uji 1: Uji Keharusan Mutlak (*Necessity Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini benar-benar mutlak diperlukan untuk menjaga keselamatan fitrah manusia dan arah pendidikan TUMBUH?*
+- **Cara Menguji:** Bayangkan prinsip ini dicabut dan dihapuskan. Apakah sistem pembinaan akan kehilangan arah atau berubah menjadi zalim?
+- **Contoh Lolos:** *"Pertumbuhan Jiwa Melampaui Kepatuhan Semu"* (Jika prinsip ini dicabut, pesantren akan kembali ke pola lama yang hanya puas dengan santri yang pura-pura taat di depan pengawas).
+- **Contoh Gagal:** *"Santri wajib membawa dua buku catatan bergaris"* (Jika ini dicabut, sistem tarbiyah sama sekali tidak runtuh; ini hanya masalah teknis perlengkapan belajar).
 
-Apakah prinsip memiliki konsekuensi terhadap bagian lain dari sistem?
+---
 
-Prinsip yang benar-benar fundamental semestinya memengaruhi cara model, progression, assessment, intervention, implementation, atau bagian relevan lainnya dirancang.
+### Uji 2: Uji Kemandirian Makna (*Distinctiveness Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini memiliki tugas dan makna yang jelas berbeda dari prinsip-prinsip yang sudah ada?*
+- **Cara Menguji:** Periksa apakah maksud kalimat tersebut sesungguhnya sudah diwakili oleh prinsip lain. Jangan menambah prinsip baru hanya karena menggunakan pilihan kata yang berbeda.
+- **Contoh Gagal:** Mengusulkan prinsip *"Pentingnya Pembinaan Akhlak Santri"*. Gagasan ini tidak perlu berdiri sendiri karena seluruh substansinya sudah tercakup utuh di dalam prinsip *Perkembangan Manusia Seutuhnya* dan *Pertumbuhan Berlangsung Bertahap*.
 
-Jika prinsip tidak memiliki konsekuensi di luar kalimatnya sendiri, statusnya sebagai Core Principle perlu diuji kembali.
+---
 
-## 5. Practical Discrimination
+### Uji 3: Uji Akar Filosofis (*Philosophical Grounding Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini berakar tegak lurus pada pandangan fitrah, tauhid, dan martabat insan dalam syariat Islam?*
+- **Cara Menguji:** Telusuri silsilah pemikirannya: apakah prinsip ini diturunkan dari Al-Qur'an, Sunnah nabawiyyah, dan hikmah para ulama, ataukah sekadar menjiplak tren teori populer yang tidak berakar pada nilai ketuhanan?
+- **Kaidah:** Prinsip inti TUMBUH bukan sekadar teknik manajemen korporat yang ditempelkan di pesantren; ia adalah cermin dari keimanan bahwa manusia adalah hamba Allah yang wajib dimuliakan martabatnya.[^2]
 
-Apakah prinsip membantu membedakan keputusan yang selaras dengan TUMBUH dari keputusan yang tidak selaras?
+---
 
-Pengujian ini bukan berarti prinsip harus menentukan satu praktik wajib. Yang diuji adalah apakah prinsip dapat **mengubah pertimbangan dan keputusan desain**.
+### Uji 4: Uji Dampak Sistemik (*Systemic Consequence Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini memiliki akibat nyata yang mengubah cara seluruh bagian sistem dirancang dan dijalankan?*
+- **Cara Menguji:** Jika prinsip ini diterima, apakah ia mengubah cara musyrif mencatat di logbook? Apakah ia mengubah cara guru mengajar di kelas? Apakah ia mengubah cara dewan pengasuh menyelesaikan perselisihan santri?
+- **Contoh Lolos:** Prinsip *"Lingkungan dan Konteks Sangat Menentukan"*. Konsekuensinya nyata: pengasuh dilarang langsung menyalahkan santri yang mengantuk, melainkan wajib mengaudit jadwal tidur asrama dan ventilasi kamar.
+- **Contoh Gagal:** Kalimat slogan indah seperti *"Kebersihan adalah Pangkal Kesehatan"*. Kalimat ini benar, namun ia tidak memiliki daya arsitektural yang mengubah logika sistem pembinaan secara keseluruhan.
 
-Jika sebuah prinsip tidak pernah mengubah keputusan apa pun, nilainya sebagai guardrail sistem perlu diuji kembali.
+---
 
-## 6. Robustness
+### Uji 5: Uji Pembeda Keputusan Nyata (*Practical Discrimination Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini mampu membantu para pendidik memilih tindakan yang benar ketika menghadapi dilema sulit di lapangan?*
+- **Cara Menguji:** Hadapkan prinsip ini pada situasi nyata di asrama: ketika ada santri yang mencuri atau kabur dari pondok, apakah prinsip ini memberi petunjuk jelas tentang apa yang boleh dilakukan dan apa yang haram dilakukan?
+- **Kaidah:** Prinsip yang baik berfungsi seperti lampu rambu lalu lintas: ia dengan tegas melarang tindakan kekerasan fisik (*lampu merah*), menuntut penyelidikan akar masalah secara adil (*lampu kuning*), dan memandu proses pemulihan hubungan restoratif (*lampu hijau*).[^3]
 
-Apakah prinsip tetap bermakna ketika konteks berubah?
+---
 
-Core Principle seharusnya cukup fundamental sehingga tidak bergantung pada satu program, jenjang, lembaga, teknik, atau bentuk operasional tertentu.
+### Uji 6: Uji Ketahanan Lintas Konteks (*Robustness Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini tetap berlaku benar di berbagai keadaan, tempat, dan zaman yang berbeda?*
+- **Cara Menguji:** Apakah prinsip ini tetap berlaku di pesantren besar dengan ribuan santri maupun pesantren kecil dengan puluhan santri? Apakah tetap berlaku untuk santri jenjang dasar (J1) maupun santri mandiri tingkat atas (J4)?
+- **Kaidah:** Prinsip inti tidak boleh terikat pada alat teknologi tertentu atau kondisi sesaat. Metode pemantauan boleh berganti dari buku kertas menjadi aplikasi gawai pintar, namun prinsip bahwa *"penilaian bertujuan membantu pertumbuhan santri"* tidak pernah basi oleh perkembangan zaman.
 
-Robustness bukan berarti penerapannya harus seragam. Justru prinsip yang robust memungkinkan bentuk penerapan berbeda selama makna fundamentalnya tetap terjaga.
+---
 
-## 7. Parsimony
+### Uji 7: Uji Keringkasan yang Pas (*Parsimony Test*)
+**Pertanyaan Utama:** *Apakah rumusan prinsip ini padat, ringkas, dan mudah dihafal serta dipegang oleh seluruh warga asrama?*
+- **Cara Menguji:** Bisakah seorang santri usia 15 tahun atau musyrif muda memahami dan mengingat prinsip ini tanpa harus membuka buku pedoman setebal ratusan halaman?
+- **Kaidah:** Semakin banyak prinsip yang dibuat, semakin sedikit yang diingat orang. Sepuluh prinsip yang dipegang teguh jauh lebih menyelamatkan daripada lima puluh pasal yang hanya menjadi pajangan dinding perpustakaan.[^4]
 
-Apakah jumlah dan formulasi prinsip tetap cukup ringkas untuk menjadi pegangan bersama?
+---
 
-Lebih banyak prinsip tidak otomatis berarti sistem lebih baik. Prinsip perlu mencakup hal yang diperlukan tanpa memperbanyak pernyataan yang tumpang tindih.
+### Uji 8: Uji Arah Masa Depan (*Future Direction Test*)
+**Pertanyaan Utama:** *Apakah prinsip ini membuka jalan bagi santri untuk bertumbuh menjadi manusia dewasa yang merdeka dan bertanggung jawab di masa depan?*
+- **Cara Menguji:** Apakah prinsip ini mendidik santri agar mampu hidup beradab di tengah masyarakat luas ketika sudah lulus dari pondok, ataukah hanya melatih santri agar patuh selama berada di dalam kurungan pagar asrama?
+- **Kaidah:** Prinsip yang benar menatap masa depan: ia menuntun santri menuju derajat kematangan budi pekerti (*Ar-Rusyd*) yang berakar sepanjang hayat.
 
-Parsimony juga membantu menjaga agar Core Principles tidak berkembang menjadi daftar panjang aturan desain atau SOP.
+---
 
-## 8. Future Direction Test
+### Uji 9: Uji Anti-Salah Kamar (*Anti-Substitution Test*)
+**Pertanyaan Utama:** *Apakah pernyataan ini benar-benar sebuah prinsip, dan bukan hal lain yang salah tempat?*
+- **Cara Menguji:** Periksa apakah pernyataan tersebut sesungguhnya hanyalah salah satu dari enam hal berikut:
+  1. **Bukan Filsafat Murni:** Prinsip adalah pegangan tindakan, bukan sekadar teori asal-usul alam semesta.
+  2. **Bukan Tujuan Akhir:** Ridha Allah dan keselamatan akhirat adalah tujuan akhir (*ghayah*), sedangkan prinsip adalah pegangan jalan menuju ke sana.
+  3. **Bukan Model Konseptual:** Bagan alur jenjang J1–J4 adalah model, bukan prinsip.
+  4. **Bukan Metode Teknis:** Senam pagi, hafalan bersama, dan kerja bakti adalah metode kegiatan, bukan prinsip.
+  5. **Bukan Prosedur SOP:** Mengetuk pintu tiga kali sebelum masuk kamar adalah prosedur sopan santun, bukan prinsip inti sistem.
+  6. **Bukan Angka Indikator:** Target hafal 1 juz per semester adalah indikator capaian, bukan prinsip pembinaan.
 
-Apakah prinsip membantu menjaga kemungkinan masa depan yang ingin dimungkinkan TUMBUH?
+```text
+[ SALAH KAMAR ]                                         [ KAMAR YANG BENAR ]
+"Santri wajib mencuci piring sendiri"   ────────►       Itu Prosedur / SOP Teknis!
+"Santri wajib hafal 100 hadits"         ────────►       Itu Target Kurikulum!
+"Pertumbuhan Membutuhkan Hubungan Baik" ────────►       INILAH PRINSIP INTI (CORE PRINCIPLE)!
+```
 
-Pertanyaan ini tidak digunakan untuk membuat prediksi. Yang diuji adalah arah normatif desain:
+---
 
-> Jika prinsip ini dijaga, kemungkinan perkembangan apa yang ingin tetap terbuka?
+## 3. Matriks Praktis Pengujian: Lolos vs Ditolak
 
-Prinsip yang hanya menjelaskan keadaan sekarang tanpa memberi konsekuensi terhadap arah perkembangan perlu diperiksa kembali apakah ia benar-benar berada pada tingkat Core Principle atau hanya merupakan deskripsi kondisi.
+Tabel berikut memberikan gambaran bagaimana tim perancang TUMBUH menguji usulan ide baru di pesantren:
 
-## 9. Anti-Substitution Test
+| Usulan Pernyataan yang Masuk | Hasil Uji Kelayakan | Status Keputusan | Alasan Keputusan |
+| :--- | :--- | :--- | :--- |
+| *"Santri wajib bangun pukul 04.00 pagi untuk shalat subuh."* | Gagal Uji 1, 6, dan 9. | **DITOLAK sebagai Prinsip.** (Ditempatkan sebagai Prosedur / Jadwal Harian). | Jam 04.00 adalah aturan waktu yang bisa berubah jika waktu subuh bergeser. Ini bukan prinsip inti. |
+| *"Pertumbuhan watak manusia berlangsung bertahap melalui proses latihan dan pengalaman."* | Lolos seluruh 9 Uji. | **DITERIMA sebagai Prinsip Inti.** | Berlaku universal, mengubah desain pendampingan, berakar syariat, dan tidak lekang zaman. |
+| *"Asrama Umar wajib dicat warna hijau daun."* | Gagal Uji 1, 3, 4, 5, 8. | **DITOLAK secara mutlak.** | Preferensi selera dekorasi fisik; tidak ada kaitan dengan pembinaan fitrah. |
+| *"Penilaian perilaku bertujuan memandu bimbingan, bukan sekadar menjatuhkan vonis hukuman."* | Lolos seluruh 9 Uji. | **DITERIMA sebagai Prinsip Inti.** | Menjaga martabat santri, mengubah cara musyrif menggunakan data, dan mencegah kezaliman label negatif. |
 
-Apakah prinsip ini benar-benar prinsip, bukan pengganti untuk hal lain?
+Melalui sembilan saringan uji kelayakan ini, sistem TUMBUH terhindar dari inflasi aturan dan tetap kokoh berdiri di atas pilar-pilar yang esensial, berkeadilan, dan memuliakan manusia.[^5]
 
-Periksa apakah pernyataan tersebut sebenarnya merupakan:
-- nilai atau Philosophy;
-- tujuan perkembangan;
-- framework atau model;
-- metode atau teknik;
-- SOP atau prosedur;
-- indikator assessment;
-- preferensi implementasi.
+---
 
-Jika demikian, pernyataan tersebut mungkin penting, tetapi belum tentu layak ditempatkan sebagai Core Principle.
+### Catatan Kaki
 
-## 10. Traceability Test
-
-Apakah alasan keberadaan prinsip dapat ditelusuri?
-
-Minimal perlu dapat dijelaskan:
-- dari mana prinsip berasal;
-- masalah atau pertanyaan apa yang melatarbelakanginya;
-- bagaimana ia dirumuskan;
-- prinsip atau keputusan apa yang dipengaruhinya;
-- evidence atau reasoning apa yang relevan;
-- apa yang berubah ketika prinsip diperbaiki.
-
-Traceability bukan berarti setiap prinsip harus memiliki banyak referensi. Yang diuji adalah apakah **jejak penalarannya dapat diperiksa**.
-
-## 11. Tension Test
-
-Apakah prinsip tetap memiliki makna ketika berhadapan dengan prinsip lain?
-
-Core Principle tidak perlu bebas dari tension. Yang perlu diuji adalah apakah tension tersebut dapat dipahami tanpa membuat prinsip kehilangan makna atau berubah menjadi slogan.
-
-Jika tension berulang dan tidak dapat dijelaskan dengan baik, hal tersebut menjadi bahan PROBE lebih lanjut.
-
-## 12. Evidence Boundary Test
-
-Apakah jenis klaim dalam prinsip sudah dibedakan dengan benar?
-
-Core Principle dapat memiliki dasar normatif dan philosophical. Evidence dapat mendukung pengujian penerapan atau konsekuensinya, tetapi evidence empiris tidak otomatis mengubah temuan menjadi prinsip normatif.
-
-Karena itu perlu dibedakan:
-- **normative claim** — apa yang dianggap perlu dijaga;
-- **empirical claim** — apa yang ditemukan atau diamati;
-- **design claim** — bagaimana sistem sebaiknya dirancang;
-- **effectiveness claim** — apa yang tampak berhasil dan sejauh mana evidence mendukungnya.
-
-## Hasil Pengujian
-
-Pengujian dapat menghasilkan beberapa kemungkinan status kerja:
-
-- **Retain** — prinsip tetap diperlukan;
-- **Refine** — prinsip diperlukan tetapi formulasi perlu diperbaiki;
-- **Merge** — prinsip memiliki overlap kuat dengan prinsip lain;
-- **Separate** — prinsip ternyata memiliki ruang lingkup berbeda dan perlu dipisahkan;
-- **Remove** — prinsip tidak memenuhi kebutuhan sebagai Core Principle;
-- **Probe Further** — evidence atau reasoning belum cukup untuk mengambil keputusan.
-
-Istilah tersebut merupakan **status kerja**, bukan keputusan otomatis. Hasil akhirnya tetap membutuhkan reasoning dan validasi yang sesuai.
-
-## Hubungan dengan PROBE
-
-Dokumen ini tidak menggantikan PROBE. Ia menyediakan pertanyaan yang dapat digunakan untuk mengarahkan inquiry.
-
-PROBE dapat menguji:
-- apakah prinsip benar-benar diperlukan;
-- apakah formulasi dan batasnya tepat;
-- apakah ada overlap dengan prinsip lain;
-- apakah reasoning dan philosophical grounding cukup kuat;
-- apakah konsekuensi sistemiknya dapat ditunjukkan;
-- apakah evidence dan pengalaman implementasi menimbulkan pertanyaan baru.
-
-Jika hasil PROBE menunjukkan bahwa salah satu Core Principle tidak memenuhi kriteria penting, repository perlu diperbarui mengikuti hasil inquiry tersebut.
-
-## Batas Pengujian
-
-Principle Test tidak boleh digunakan sebagai:
-
-- skor mekanis untuk menentukan kualitas prinsip;
-- pengganti philosophical reasoning;
-- pengganti PROBE;
-- pembenaran untuk mempertahankan prinsip hanya karena sudah lama digunakan;
-- alasan untuk mengubah preferensi desain menjadi prinsip;
-- alat untuk memaksa semua konteks menggunakan bentuk yang sama.
-
-Sebuah prinsip dapat memenuhi banyak pertanyaan secara awal tetapi tetap memerlukan inquiry lebih lanjut. Sebaliknya, satu jawaban yang belum jelas tidak selalu berarti prinsip harus langsung dibuang.
-
-## Status
-
-**DRAFT — WAITING FOR PROBE VALIDATION**
+[^1]: Argyris, C., & Schön, D. A. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley, hlm. 14–29.
+[^2]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Muslim Youth Movement of Malaysia (ABIM), hlm. 22–35.
+[^3]: Nelsen, J. (2006). *Positive Discipline* (Revised ed.). Ballantine Books, hlm. 45–68.
+[^4]: Maeda, J. (2006). *The Laws of Simplicity: Design, Technology, Business, Life*. The MIT Press, hlm. 1–18.
+[^5]: Deming, W. E. (2000). *Out of the Crisis*. The MIT Press, hlm. 86–98.

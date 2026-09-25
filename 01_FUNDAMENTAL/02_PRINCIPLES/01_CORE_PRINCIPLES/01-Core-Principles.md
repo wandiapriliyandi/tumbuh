@@ -1,340 +1,183 @@
-# Core Principles
+# 01 — Prinsip Inti TUMBUH (Core Principles)
 
 ## 1. Pengantar
 
-Core Principles adalah kumpulan prinsip paling mendasar yang menjadi pegangan bersama dalam merancang, mengembangkan, menjalankan, dan mengevaluasi TUMBUH sebagai Human Development System.
+Prinsip Inti (*Core Principles*) adalah sepuluh pegangan paling mendasar yang menjadi **kompas bersama** bagi seluruh ekosistem TUMBUH. Prinsip-prinsip ini memandu bagaimana sistem dirancang, bagaimana pembina asrama mendampingi santri, bagaimana dewan pengarah mengambil keputusan, dan bagaimana seluruh proses tarbiyah dievaluasi.[^1]
 
-Prinsip-prinsip ini berada setelah Philosophy dan sebelum prinsip-prinsip yang lebih spesifik. Karena itu, Core Principles tidak menjelaskan langkah teknis suatu kegiatan. Ia menjelaskan cara TUMBUH harus dipahami dan dijalankan, apa yang harus selalu dijaga, serta batas-batas yang tidak boleh dilanggar ketika sistem diterapkan.
-
-Dengan demikian, Core Principles menjadi jembatan antara gagasan filosofis TUMBUH dan bentuk sistem yang dapat diterapkan.
+Prinsip Inti berada tepat di antara **Landasan Filosofis (*Philosophy*)** dan **Model Nyata Pembinaan (*Core Model*)**:
 
 ```text
-Philosophy
-    ↓
-Core Principles
-    ↓
-Specific Principles
-    ↓
-Framework
-    ↓
-Practice
+01_PHILOSOPHY       ──► Memberi dasar pemahaman: Siapa manusia, apa tujuan hidup, apa itu adab.
+       ↓
+01_CORE_PRINCIPLES  ──► Menjaga apa yang TIDAK BOLEH HILANG saat sistem dirancang.
+       ↓
+02_DESIGN_PRINCIPLES──► Menuntun cara berpikir saat membuat instrumen dan aturan.
+       ↓
+03_CORE_MODEL       ──► Menerjemahkan prinsip menjadi jenjang santri (J1–J4) & sistem asrama.
 ```
 
-Core Principles juga berfungsi sebagai alat untuk menjaga agar pengembangan TUMBUH tidak berjalan secara terpisah-pisah. Perubahan pada assessment, intervention, program, metode, maupun tools tetap harus dapat ditelusuri kembali kepada prinsip-prinsip dasar yang sama.
+Prinsip inti bukanlah aturan teknis yang kaku, melainkan **jiwa yang menghidupkan seluruh aturan**. Suatu peraturan tata tertib boleh direvisi atau disederhanakan, namun sepuluh prinsip inti ini tidak boleh dikurangi, dikompromikan, atau diabaikan oleh siapa pun.
 
-## 2. Mengapa Core Principles Diperlukan?
+---
 
-Philosophy memberi TUMBUH landasan tentang bagaimana manusia dan pertumbuhan dipahami. Tetapi landasan saja belum cukup untuk menentukan bagaimana sebuah sistem harus dibangun.
+## 2. Mengapa Prinsip Inti Diperlukan?
 
-Core Principles menjawab pertanyaan sederhana:
+Landasan filosofis memberi kita pemahaman tentang fitrah dan martabat insan. Namun pemahaman saja belum cukup untuk mencegah terjadinya penyimpangan saat kita berhadapan dengan masalah nyata di asrama.
 
-> **Jika kita benar-benar percaya pada Philosophy TUMBUH, apa yang harus selalu kita jaga ketika membangun sistem?**
+Prinsip Inti menjawab satu pertanyaan mendasar:
+> **"Jika kita benar-benar meyakini bahwa manusia adalah makhluk mulia ciptaan Allah, pegangan apa yang wajib selalu kita jaga dalam mendidik mereka sehari-hari?"**
 
-Karena itu, prinsip bukan sekadar kalimat yang terdengar baik. Prinsip harus dapat membantu ketika TUMBUH menghadapi pilihan, perubahan, perbedaan konteks, atau masalah baru.
+Prinsip berfungsi sebagai **pagar pengaman (*guardrails*)**. Ketika seorang pembina asrama lelah, ketika ada santri yang melanggar aturan berat, atau ketika ada usulan program baru dari pihak luar, prinsip inilah yang menuntun para pendidik agar tidak tergelincir pada jalan pintas yang merusak martabat kemanusiaan.[^2]
 
-## 3. Arah TUMBUH: Bukan Hanya Memperbaiki Masa Lalu
+---
 
-TUMBUH tidak dibangun hanya untuk memperbaiki kelemahan sistem sebelumnya.
-
-Masalah dan pengalaman dari sistem sebelumnya tetap penting karena memberi pelajaran tentang apa yang perlu dihindari, diperbaiki, atau dipertahankan. Namun untuk membangun `v2.0.0`, pertanyaan TUMBUH perlu bergerak lebih jauh:
-
-- Masa depan seperti apa yang ingin dimungkinkan TUMBUH?
-- Manusia seperti apa yang ingin mampu dibentuk melalui proses pertumbuhan?
-- Sistem seperti apa yang diperlukan agar pertumbuhan tersebut menjadi mungkin?
-- Prinsip apa yang harus tetap dijaga agar TUMBUH tidak kehilangan arah ketika berkembang?
-
-Dengan demikian, pengalaman masa lalu menjadi **bahan pembelajaran**, sedangkan kemungkinan masa depan menjadi **arah penyelidikan dan pembangunan**.
+## 3. Sepuluh Prinsip Inti TUMBUH
 
 ```text
-Pengalaman masa lalu
-        ↓
-masalah + pelajaran + batasan
-        ↓
-      PROBE
-        ↑
-kemungkinan masa depan
-        ↓
-prinsip yang perlu dijaga
-        ↓
-keputusan desain TUMBUH
+                                [ SEPULUH PRINSIP INTI TUMBUH ]
+                                              │
+    ┌───────────────────┬─────────────────────┼─────────────────────┬───────────────────┐
+    ▼                   ▼                     ▼                     ▼                   ▼
+[ 1. Jiwa > Patuh ]  [ 2. Manusia Utuh ]  [ 3. Proses Tahap ]   [ 4. Konteks Nyata ]  [ 5. Relasi Hati ]
+    │                   │                     │                     │                   │
+    └───────────────────┼─────────────────────┴─────────────────────┼───────────────────┘
+                        ▼                                           ▼
+             [ 6. Berpijak Bukti ]                       [ 7. Terpadu Satu ]
+                        │                                           │
+    ┌───────────────────┴─────────────────────┬─────────────────────┴───────────────────┐
+    ▼                                         ▼                                         ▼
+[ 8. Asesmen Membimbing ]             [ 9. Intervensi Memulihkan ]             [ 10. Perbaikan Diri ]
 ```
 
-Arah ini penting agar TUMBUH tidak menjadi sekadar versi baru dari sistem lama. TUMBUH perlu memiliki alasan yang jelas mengapa bentuk sistem yang baru diperlukan dan masa depan apa yang ingin dibuat lebih mungkin.
+---
 
-## 4. Kedudukan Core Principles
+### Prinsip 1: Pertumbuhan Jiwa Melampaui Kepatuhan Semu (*Development over Mere Compliance*)
+- **Maksud Sederhananya:** Tujuan utama mendidik santri adalah menumbuhkan kesadaran hati dan tanggung jawab pribadi, bukan sekadar membuat santri takut lalu patuh di depan mata pembina.
+- **Mengapa Ini Penting:** Kepatuhan lahiriah yang dipaksakan lewat ancaman atau rasa takut hanya melahirkan kepura-puraan (*nifaq*). Santri tampak tertib saat ada pengawas, namun melanggar saat pengawas lengah. TUMBUH ingin santri memilih berbuat baik karena cinta kepada Allah dan paham manfaatnya bagi sesama.[^3]
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Membentak santri agar segera ke masjid dengan ancaman rotan. Santri berlari ke masjid karena takut dipukul, namun hatinya jengkel dan shalatnya tergesa-gesa.  
+  *Pola TUMBUH:* Mengajak santri berdialog, membangun kebiasaan bersiap wudhu sebelum adzan, dan menanamkan makna kerinduan bermunajat kepada Allah.
+- **Batas Pengaman:** Dilarang menggunakan metode intimidasi dan hukuman fisik yang hanya mengejar ketertiban semu sesaat.
 
-TUMBUH memiliki beberapa kelompok prinsip:
+---
 
-- Core Principles
-- Design Principles
-- Learning Principles
-- Development Principles
-- Assessment Principles
-- Intervention Principles
-- Implementation Principles
+### Prinsip 2: Perkembangan Manusia Seutuhnya (*Whole-Person Development*)
+- **Maksud Sederhananya:** Santri adalah manusia utuh yang memiliki akal, kalbu, jasad fisik, dan emosi sosial; mereka tidak boleh dinilai hanya dari angka raport atau kecepatan menghafal teks semata.
+- **Mengapa Ini Penting:** Prestasi akademik atau hafalan Al-Qur'an tidak ada artinya jika santri tidak memiliki adab sopan santun, tidak mampu merawat kebersihan diri, atau gemar menyakiti hati temannya di kamar.
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Memuji setinggi langit santri yang hafalannya paling banyak, meskipun ia tidak pernah mau ikut kerja bakti membersihkan kamar mandi dan sering berkata kasar.  
+  *Pola TUMBUH:* Menghargai santri secara utuh: ketekunan belajarnya, kehangatan persaudaraannya, kejujurannya memegang amanah, dan kesediaannya melayani sesama (*khidmah*).
+- **Batas Pengaman:** Sistem pembinaan dilarang mereduksi keberhasilan santri menjadi sekadar angka-angka kuantitatif kaku.
 
-Core Principles merupakan lapisan paling umum di antara seluruh prinsip tersebut.
+---
 
-Jika prinsip-prinsip berikutnya menjawab pertanyaan, "Bagaimana bagian tertentu dari TUMBUH harus dirancang atau dijalankan?", maka Core Principles lebih dahulu menjawab, "Pegangan dasar apa yang harus selalu benar dalam seluruh TUMBUH?"
+### Prinsip 3: Pertumbuhan Berlangsung Bertahap Melalui Proses (*Growth is Developmental*)
+- **Maksud Sederhananya:** Karakter dan kemandirian tidak lahir dalam semalam; santri bertumbuh melalui proses latihan, pembiasaan, keberhasilan kecil, dan bahkan kegagalan yang diperbaiki (*at-tadarruj*).
+- **Mengapa Ini Penting:** Menuntut santri baru untuk langsung bersikap dewasa seperti santri senior adalah hal yang mustahil. Pembinaan menuntut kesabaran memandu langkah demi langkah dari jenjang pemula hingga mandiri.[^4]
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Menganggap santri yang lupa merapikan tempat tidur di bulan pertamanya sebagai anak pemalas yang tidak punya masa depan.  
+  *Pola TUMBUH:* Memahami bahwa merapikan ranjang adalah keterampilan yang butuh dilatih; musyrif mendampingi, memberi contoh, mengapresiasi kemajuan kecil, dan memberi ruang untuk memperbaiki kekeliruan.
+- **Batas Pengaman:** Menolak sistem vonis biner hitam-putih ("anak baik vs anak gagal").
 
-Karena itu, prinsip pada lapisan berikutnya tidak boleh bertentangan dengan Core Principles.
+---
 
-## 5. Fungsi Core Principles
+### Prinsip 4: Lingkungan dan Konteks Sangat Menentukan (*Context Matters*)
+- **Maksud Sederhananya:** Perilaku santri sangat dipengaruhi oleh suasana asrama, jadwal kegiatan, tata ruang kamar, dan perlakuan para pembina; masalah santri tidak boleh dilihat hanya sebagai kesalahan moral individu semata.
+- **Mengapa Ini Penting:** Sering kali santri terlambat atau bertengkar bukan karena mereka jahat, melainkan karena jadwal malam terlalu larut, tempat wudhu tidak memadai, atau kamar terlalu sesak dan bising.
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Langsung menghukum 10 santri yang terlambat shalat subuh dengan tuduhan tidak beriman, tanpa memeriksa bahwa keran air di asrama mereka mati sejak dini hari.  
+  *Pola TUMBUH:* Memeriksa lingkungan terlebih dahulu: perbaiki aliran air, cukupkan waktu tidur malam, dan tata lingkungan fisik asrama agar memudahkan orang berbuat taat.
+- **Batas Pengaman:** Dilarang menghakimi watak pribadi santri sebelum mengaudit kelayakan sistem dan lingkungan di sekitarnya.
 
-### 5.1 Sebagai penjaga arah
+---
 
-Core Principles menjaga agar seluruh pengembangan TUMBUH tetap bergerak sesuai Philosophy dan arah masa depan yang sedang dibangun.
+### Prinsip 5: Hubungan Kasih Sayang adalah Media Utama Tarbiyah (*Relationship is Part of Development*)
+- **Maksud Sederhananya:** Pembinaan berhasil bukan karena kecanggihan modul atau tebalnya buku tata tertib, melainkan karena hadirnya relasi hati yang tulus, amanah, dan penuh kasih sayang antara pendidik dan santri.
+- **Mengapa Ini Penting:** Santri membuka pintu kalbunya untuk menerima nasihat kebaikan hanya kepada guru dan pembina yang mereka percaya, hormati, dan rasakan kasih sayangnya (*mahabbah*).
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Musyrif bersikap dingin seperti sipir penjara yang hanya muncul untuk berpatroli, memeriksa kesalahan, dan membagikan hukuman.  
+  *Pola TUMBUH:* Musyrif hadir sebagai sosok kakak dan orang tua pengganti: duduk melingkar mendengarkan keluh kesah santri, makan bersama, dan menanyakan kabar ketika santri tampak murung.
+- **Batas Pengaman:** Dilarang memperlakukan hubungan pembinaan secara mekanistis dan transaksional.
 
-### 5.2 Sebagai pengikat sistem
+---
 
-Berbagai bagian TUMBUH memiliki fungsi yang berbeda. Assessment tidak sama dengan intervention. Learning tidak sama dengan implementation. Namun semuanya harus berada dalam satu logika sistem.
+### Prinsip 6: Pembangunan Berpijak pada Nilai dan Bukti Faktual (*Evidence-Informed Development*)
+- **Maksud Sederhananya:** Keputusan pembinaan harus memadukan antara petunjuk wahyu syariat, pengalaman bijak para ulama, dan catatan data fakta nyata di lapangan.
+- **Mengapa Ini Penting:** Lembaga tidak boleh mengambil kebijakan besar hanya berdasarkan rumor, prasangka sepihak, atau selera sesaat dewan pengasuh.
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Mengubah jam belajar malam santri menjadi pukul 01.00 dini hari hanya karena mendengar cerita seorang tokoh tanpa memeriksa dampaknya pada kesehatan fisik santri.  
+  *Pola TUMBUH:* Menggunakan data logbook kesehatan dan evaluasi belajar santri: jika data menunjukkan santri banyak yang sakit dan konsentrasinya anjlok, kebijakan tersebut tidak boleh dilanjutkan.
+- **Batas Pengaman:** Dilarang membuat kebijakan pembinaan yang bertentangan dengan dalil syar'i dan fakta empiris yang sahih.[^5]
 
-Core Principles menjadi pengikatnya.
+---
 
-### 5.3 Sebagai dasar pengambilan keputusan
+### Prinsip 7: Keterpaduan Sistem Tanpa Fragmentasi (*Integration over Fragmentation*)
+- **Maksud Sederhananya:** Seluruh bagian pesantren—mulai dari ruang kelas, asrama, bimbingan konseling, hingga dapur umum—harus bekerja dalam satu irama yang selaras dan saling mendukung.
+- **Mengapa Ini Penting:** Jika guru di kelas mengajarkan kelembutan akhlak namun pembina di asrama membiarkan senioritas kekerasan, santri akan mengalami kebingungan nilai dan kehilangan rasa percaya pada lembaga.
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Bagian madrasah dan bagian asrama saling menyalahkan ketika nilai santri turun atau ketika santri melanggar tata tertib.  
+  *Pola TUMBUH:* Pertemuan koordinasi terpadu: guru kelas dan musyrif asrama saling berbagi informasi tentang perkembangan santri untuk memberikan dukungan yang utuh.
+- **Batas Pengaman:** Menolak ego sektoral antar-unit yang mengorbankan keselamatan santri.
 
-Ketika terdapat beberapa pilihan desain, metode, program, atau pendekatan, keputusan tidak semata-mata ditentukan oleh apa yang paling mudah dilakukan. Pilihan harus diperiksa terhadap prinsip dasar TUMBUH.
+---
 
-### 5.4 Sebagai batas
+### Prinsip 8: Penilaian Berfungsi Memandu Bimbingan (*Assessment Serves Development*)
+- **Maksud Sederhananya:** Penilaian, buku catatan pelanggaran, dan rapor karakter dibuat untuk **membantu santri bertumbuh**, bukan untuk melabeli mereka dengan julukan buruk atau mempermalukan martabat mereka.
+- **Mengapa Ini Penting:** Data perilaku adalah kompas diagnostik bagi pendidik: *"Bantuan apa yang dibutuhkan anak ini agar mampu mengatasi kesulitannya?"*, bukan alat vonis: *"Anak ini anak nakal yang harus disingkirkan!"*
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Menempelkan daftar nama santri yang melanggar di papan pengumuman masjid agar mereka merasa malu di depan umum.  
+  *Pola TUMBUH:* Catatan perilaku dibahas secara tertutup dan empatik antara musyrif dan santri bersangkutan untuk merancang langkah perbaikan diri secara bermartabat.
+- **Batas Pengaman:** Dilarang mempublikasikan aib dan catatan kelemahan santri sebagai bentuk sanksi sosial yang mempermalukan.
 
-Prinsip tidak hanya mengatakan apa yang perlu dilakukan. Prinsip juga menjelaskan apa yang tidak sesuai dengan TUMBUH.
+---
 
-Dengan demikian, Core Principles berfungsi sebagai guardrail bagi perkembangan sistem.
+### Prinsip 9: Intervensi Menumbuhkan Kapasitas, Bukan Sekadar Menghukum (*Intervention Should Develop, Not Merely Correct*)
+- **Maksud Sederhananya:** Ketika terjadi pelanggaran adab atau kesalahan, tindakan yang diambil harus bertujuan menyadarkan hati, memulihkan hubungan yang rusak (*ishlah*), dan melatih tanggung jawab, bukan melampiaskan kemarahan.
+- **Mengapa Ini Penting:** Hukuman fisik murni (seperti lari keliling lapangan atau dijemur) hanya menghentikan perilaku sesaat karena takut, namun tidak pernah mengajarkan adab yang benar. Konsekuensi harus logis dan mendidik.[^6]
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Santri yang mencoret-coret lemari dihukum berdiri di depan pintu gerbang selama 2 jam.  
+  *Pola TUMBUH:* Santri diajak menyadari kerugian yang ditimbulkan, meminta maaf, membersihkan coretan tersebut sampai bersih, dan diberi tugas mengecat ulang fasilitas asrama bersama musyrif.
+- **Batas Pengaman:** Mengharamkan segala bentuk kekerasan fisik, kekerasan verbal, dan perundungan dalam seluruh bentuk intervensi.
 
-### 5.5 Sebagai penghubung masa depan dan desain
+---
 
-Core Principles membantu menerjemahkan masa depan yang ingin dimungkinkan menjadi pegangan nyata dalam pembangunan sistem.
+### Prinsip 10: Perbaikan Bersinambung Melalui Muhasabah Diri (*Continuous Improvement*)
+- **Maksud Sederhananya:** Sistem TUMBUH tidak boleh merasa paling sempurna; lembaga harus selalu berendah hati untuk memeriksa kekurangan dirinya, mendengar masukan santri, dan memperbaharui cara kerjanya.
+- **Mengapa Ini Penting:** Zaman terus berubah, tantangan generasi berganti. Lembaga yang menolak belajar dari pengalaman lapangannya sendiri akan segera usang dan ditinggalkan oleh umat.
+- **Contoh Nyata di Asrama:**  
+  *Pola Keliru:* Mempertahankan aturan perizinan yang berbelit-belit dengan dalih: *"Dari zaman dulu aturannya memang sudah begini, jangan diubah-ubah!"*  
+  *Pola TUMBUH:* Melakukan evaluasi berkala terhadap seluruh prosedur: jika sebuah aturan terbukti membuat musyrif kelelahan dan santri tertekan tanpa manfaat yang jelas, aturan tersebut disederhanakan atau dihapuskan.
+- **Batas Pengaman:** Menolak sikap takabbur institusional yang anti-kritik dan anti-evaluasi.
+
+---
+
+## 4. Bagaimana Kesepuluh Prinsip Ini Bekerja Bersama?
+
+Kesepuluh prinsip di atas bukanlah sepuluh potongan aturan yang terpisah, melainkan **satu kesatuan napas pembinaan**:
 
 ```text
-Masa depan yang ingin dimungkinkan
-                ↓
-          Core Principles
-                ↓
-       keputusan desain sistem
+Manusia bernilai mulia & utuh (Prinsip 1 & 2)
+              ↓
+Pertumbuhannya menuntut proses bertahap & lingkungan sehat (Prinsip 3 & 4)
+              ↓
+Digerakkan oleh relasi kasih sayang & data faktual yang sahih (Prinsip 5 & 6)
+              ↓
+Dikelola secara terpadu dalam satu sistem pembinaan (Prinsip 7)
+              ↓
+Dinilai & dibimbing untuk memulihkan kapasitas adab santri (Prinsip 8 & 9)
+              ↓
+Terus diperbaiki secara istiqamah melalui muhasabah bersama (Prinsip 10)
 ```
 
-## 6. Prinsip-Prinsip Inti TUMBUH
+Dengan memegang sepuluh prinsip ini secara teguh, setiap bilik kamar, lorong asrama, dan ruang kelas madrasah bertransformasi menjadi taman persemaian budi pekerti yang menumbuhkan santri menjadi insan yang bertakwa, berilmu, mandiri, dan beradab luhur demi menggapai ridha Allah SWT.
 
-## 6.1 Development over mere compliance
+---
 
-TUMBUH memandang pembinaan manusia sebagai proses perkembangan, bukan sekadar proses menghasilkan kepatuhan terhadap aturan.
+### Catatan Kaki
 
-Kepatuhan tetap memiliki tempat dalam kehidupan pendidikan dan pembinaan. Namun kepatuhan tidak dengan sendirinya menunjukkan bahwa perkembangan manusia telah terjadi.
-
-Karena itu, TUMBUH berusaha bergerak dari pertanyaan, "Apakah seseorang melakukan apa yang diperintahkan?" menuju pertanyaan yang lebih mendalam: "Apakah seseorang sedang berkembang menjadi pribadi yang mampu memahami, memilih, dan menjalankan kebaikan?"
-
-Prinsip ini menjadi salah satu pembeda penting antara sistem pembinaan dan sekadar sistem pengendalian perilaku.
-
-## 6.2 Whole-person development
-
-TUMBUH memandang manusia sebagai pribadi yang utuh.
-
-Perkembangan tidak dipersempit menjadi prestasi akademik, keterampilan tertentu, atau perilaku yang tampak pada satu situasi.
-
-Pengembangan manusia perlu memperhatikan keterhubungan berbagai dimensi kehidupan manusia sebagaimana dirumuskan dalam Graduate Profile dan Capacity Framework TUMBUH.
-
-Karena itu, suatu program tidak seharusnya dinilai hanya dari keberhasilannya menghasilkan satu kemampuan terisolasi. Pertanyaan yang lebih penting adalah: "Bagaimana perkembangan ini berkontribusi terhadap pertumbuhan manusia secara utuh?"
-
-## 6.3 Growth is developmental
-
-Pertumbuhan manusia berlangsung melalui proses.
-
-TUMBUH karena itu tidak memperlakukan perkembangan sebagai kondisi biner: sudah/belum, baik/buruk, atau berhasil/gagal.
-
-Perkembangan perlu dipahami sebagai perjalanan yang memiliki proses, tahapan, pengalaman, penguatan, kemunduran, dan kesempatan untuk bertumbuh kembali.
-
-Prinsip ini menjadi dasar bagi pengembangan Progression Framework dan berbagai bentuk pemetaan perkembangan.
-
-## 6.4 Context matters
-
-Perkembangan manusia tidak berlangsung dalam ruang kosong.
-
-Manusia hidup dalam lingkungan keluarga, pesantren, sekolah, kelompok sebaya, masyarakat, dan berbagai konteks kehidupan lainnya.
-
-Karena itu, TUMBUH tidak semestinya hanya bertanya, "Apa yang salah pada individu?" tetapi juga, "Apa yang terjadi dalam lingkungan dan konteks yang memengaruhi perkembangan individu?"
-
-Prinsip ini penting agar pembinaan tidak secara otomatis meletakkan seluruh persoalan pada individu.
-
-## 6.5 Relationship is part of development
-
-Perkembangan manusia berlangsung melalui hubungan.
-
-Guru, pembina, mentor, orang tua, teman sebaya, dan lingkungan memiliki peran dalam menciptakan pengalaman yang memungkinkan seseorang bertumbuh.
-
-Karena itu, relasi dalam TUMBUH bukan sekadar sarana administratif untuk menyampaikan program. Relasi merupakan bagian dari lingkungan perkembangan itu sendiri.
-
-## 6.6 Evidence-informed development
-
-TUMBUH perlu dibangun berdasarkan perpaduan antara landasan nilai, pengalaman pendidikan, kajian ilmiah, dan bukti dari praktik.
-
-Tidak setiap gagasan yang populer harus otomatis menjadi bagian dari TUMBUH. Demikian pula, sebuah pendekatan tidak cukup diterima hanya karena terlihat menarik atau telah lama digunakan.
-
-Setiap bagian penting dari sistem perlu dapat dijelaskan: apa dasar pemikirannya, apa tujuan yang hendak dicapai, bukti atau pengalaman apa yang mendukungnya, dan bagaimana penerapannya sesuai dengan konteks TUMBUH.
-
-Sumber, teori, dan kajian tetap perlu terdokumentasi pada lapisan research/PROBE sehingga dapat ditelusuri ketika suatu rumusan repository perlu diperiksa kembali.
-
-## 6.7 Integration over fragmentation
-
-TUMBUH merupakan sebuah sistem.
-
-Karena itu, bagian-bagian di dalamnya tidak boleh dikembangkan sebagai kumpulan proyek yang berdiri sendiri.
-
-Philosophy, Principles, Capacity Framework, Progression Framework, Assessment Framework, Intervention Framework, Implementation Framework, Programs, Methods, dan Tools harus memiliki hubungan yang jelas.
-
-Sebuah alat assessment, misalnya, tidak boleh dikembangkan tanpa memahami kapasitas yang dinilai, tahap perkembangan yang digunakan, dan keputusan intervensi yang mungkin dihasilkan.
-
-Setiap bagian perlu menjawab: "Bagaimana bagian ini terhubung dengan keseluruhan sistem?"
-
-## 6.8 Assessment serves development
-
-Assessment dalam TUMBUH bukan tujuan akhir.
-
-Assessment digunakan untuk membantu memahami perkembangan, menemukan kebutuhan, memberikan umpan balik, dan menentukan dukungan yang diperlukan.
-
-Karena itu, assessment tidak seharusnya hanya berfungsi sebagai alat untuk memberi label atau menghasilkan angka.
-
-Data assessment harus memiliki hubungan dengan proses perkembangan dan tindakan berikutnya.
-
-```text
-Assessment
-    ↓
-Understanding
-    ↓
-Feedback
-    ↓
-Decision
-    ↓
-Development
-```
-
-## 6.9 Intervention should develop, not merely correct
-
-Intervensi dalam TUMBUH tidak semata-mata dipahami sebagai tindakan ketika terjadi masalah.
-
-Intervensi dapat bersifat preventif, developmental, corrective, reinforcement, maupun recovery sesuai kebutuhan perkembangan.
-
-Tujuannya bukan sekadar menghilangkan perilaku yang tidak diinginkan, tetapi membantu individu dan lingkungan bergerak menuju kondisi perkembangan yang lebih baik.
-
-## 6.10 Continuous improvement
-
-TUMBUH tidak diperlakukan sebagai sistem yang selesai sekali dibuat.
-
-Pengalaman implementasi, hasil assessment, umpan balik pengguna, perkembangan ilmu pengetahuan, dan perubahan konteks dapat memberikan informasi baru.
-
-Karena itu, TUMBUH perlu memiliki mekanisme untuk belajar dari penerapannya sendiri.
-
-Namun perubahan tidak dilakukan hanya karena sesuatu yang baru sedang populer. Perubahan perlu diuji terhadap:
-
-```text
-Philosophy
-+
-Core Principles
-+
-Evidence
-+
-Experience
-+
-Context
-```
-
-Dengan demikian, TUMBUH dapat berkembang tanpa kehilangan identitas dan arah dasarnya.
-
-## 7. Bagaimana 10 Prinsip Ini Bekerja Bersama?
-
-Sepuluh prinsip di atas tidak dimaksudkan sebagai sepuluh gagasan yang berdiri sendiri. Bersama-sama, prinsip tersebut membentuk cara TUMBUH memandang pembangunan manusia dan pembangunan sistem.
-
-Secara sederhana:
-
-```text
-Manusia perlu berkembang secara utuh
-            ↓
-Perkembangan berlangsung melalui proses
-            ↓
-Perkembangan dipengaruhi konteks dan relasi
-            ↓
-Sistem harus mendukung perkembangan
-            ↓
-Assessment membantu memahami perkembangan
-            ↓
-Intervention membantu pertumbuhan ketika diperlukan
-            ↓
-Semua bagian harus terintegrasi
-            ↓
-Keputusan perlu diinformasikan oleh evidence
-            ↓
-Sistem terus belajar dan diperbaiki
-            ↓
-Semua tetap dijaga oleh Core Principles
-```
-
-Dengan cara ini, Core Principles bukan daftar slogan. Ia menjadi logika yang menghubungkan cara TUMBUH memahami manusia dengan cara TUMBUH membangun sistem.
-
-## 8. Hubungan dengan Prinsip-Prinsip Turunan
-
-Core Principles menjadi dasar bagi kelompok prinsip berikutnya.
-
-```text
-Core Principles
-│
-├── Design Principles
-│   └── bagaimana sistem dirancang
-│
-├── Learning Principles
-│   └── bagaimana proses belajar dirancang
-│
-├── Development Principles
-│   └── bagaimana perkembangan dipahami dan difasilitasi
-│
-├── Assessment Principles
-│   └── bagaimana perkembangan dinilai
-│
-├── Intervention Principles
-│   └── bagaimana dukungan diberikan
-│
-└── Implementation Principles
-    └── bagaimana sistem diterapkan
-```
-
-Prinsip-prinsip tersebut harus dapat ditelusuri kembali kepada Core Principles.
-
-## 9. Core Principles sebagai Guardrail
-
-Ketika terdapat usulan baru untuk TUMBUH, usulan tersebut perlu diuji dengan pertanyaan dasar:
-
-1. Apakah sesuai dengan Philosophy TUMBUH?
-2. Apakah membantu menuju masa depan yang ingin dimungkinkan TUMBUH?
-3. Apakah sesuai dengan Core Principles?
-4. Apakah memperkuat perkembangan manusia secara utuh?
-5. Apakah memiliki dasar yang dapat dipertanggungjawabkan?
-6. Apakah terhubung dengan bagian lain dari sistem?
-7. Apakah dapat diterapkan dalam konteks nyata?
-8. Apakah menghasilkan informasi atau pengalaman yang membantu perkembangan?
-9. Apakah dapat dievaluasi dan diperbaiki?
-
-Jika sebuah gagasan bertentangan dengan prinsip dasar, maka popularitas, kemudahan, atau kebaruan gagasan tersebut tidak cukup menjadi alasan untuk memasukkannya ke dalam sistem.
-
-## 10. Status Dokumen
-
-Dokumen ini merupakan rumusan awal Core Principles TUMBUH.
-
-Rumusan ini belum dianggap final sebelum dibandingkan dengan hasil PROBE yang secara khusus mengkaji Principles.
-
-PROBE berfungsi sebagai ruang kajian dan argumentasi yang menjadi sumber penyusunan repository, sedangkan dokumen ini merupakan hasil rumusan pada lapisan repository.
-
-Karena itu, setelah PROBE Principles tersedia, dokumen ini perlu melalui proses:
-
-```text
-Draft Core Principles
-        ↓
-Comparison with PROBE
-        ↓
-Source & argument tracing
-        ↓
-Conceptual review
-        ↓
-Revision
-        ↓
-Approved Core Principles
-```
-
-**Status: DRAFT — WAITING FOR PROBE VALIDATION**
+[^1]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. ABIM, hlm. 18–34.
+[^2]: Argyris, C., & Schön, D. A. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley, hlm. 20–35.
+[^3]: Nelsen, J. (2006). *Positive Discipline* (Revised ed.). Ballantine Books, hlm. 15–38.
+[^4]: Al-Ghazali, A. H. (2004). *Ihya' 'Ulum al-Din* (Tahqiq: Abu Hafsh Sayyid bin Ibrahim). Dar al-Hadits, jilid 3, hlm. 58–64 (Kitab Riyadhat an-Nafs).
+[^5]: Edmondson, A. C., & McManus, S. E. (2007). “Methodological fit in management field research.” *Academy of Management Review, 32*(4), 1155–1179.
+[^6]: Zehr, H. (2002). *The Little Book of Restorative Justice*. Good Books, hlm. 12–31.
