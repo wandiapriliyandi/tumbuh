@@ -1,198 +1,81 @@
-# Functional Dimensions
+# Dimensi Fungsi Delapan Kapasitas Inti (Functional Dimensions)
 
-## Purpose
+**Status:** PANDUAN UTAMA KONSEPTUAL — Roda Gigi Kerja di Balik Setiap Kapasitas Santri
 
-Functional Dimensions menjelaskan **fungsi utama yang membentuk dan membedakan functioning di dalam setiap Core Capacity**. Dimensi berfungsi sebagai lapisan dekomposisi antara Functional Object dan manifestasi functioning.
+Folder ini menguraikan **dimensi fungsi nyata (*functional dimensions*)** yang menjadi mesin penggerak di dalam setiap Kapasitas Inti (CC-01 s/d CC-08), menjembatani antara nama kapasitas yang abstrak dengan perbuatan nyata santri sehari-hari di asrama 24 jam.
 
-Dimensi harus cukup spesifik untuk memberi batas pada construct, tetapi tidak terlalu spesifik hingga berubah menjadi perilaku tertentu, task, indikator, item instrumen, atau prosedur program.
+---
 
-## Position in the Architecture
+## 1. Apa itu Dimensi Fungsi?
 
-```text
-CORE CAPACITY
-      ↓
-FUNCTIONAL OBJECT
-      ↓
-FUNCTIONAL DIMENSIONS
-      ↓
-SUBFUNCTIONS / RESOURCES / PATTERNS
-      ↓
-OBSERVABLE MANIFESTATIONS
-      ↓
-EVIDENCE
-```
+Jika kita mengibaratkan **Kapasitas Inti** sebagai sebuah jam tangan, maka **Dimensi Fungsi** adalah roda-roda gigi kuningan di dalamnya yang saling bertaut menggerakkan jarum detik, menit, dan jam. Kita tidak bisa melihat waktu bergerak jika roda gigi di dalamnya macet.
 
-Urutan di atas adalah **struktur representasi construct**, bukan tahapan perkembangan dan bukan urutan wajib dalam assessment.
+Pertanyaan mendasar yang dijawab dalam folder ini adalah:
 
-Functional Object menjawab **"apa yang menjadi objek functioning?"**.
-Functional Dimensions menjawab **"fungsi utama apa yang dapat dibedakan di dalam objek tersebut?"**.
+> **Fungsi-fungsi kerja batin apa saja yang berputar di dalam diri santri ketika ia mempraktikkan suatu kapasitas adab di asrama?**
 
-## Canonical Mapping
+Dimensi fungsi bukan sub-kapasitas baru, bukan tahap umur, dan bukan daftar tugas ujian. Dimensi fungsi adalah **cabang fungsi fungsional** yang menjelaskan bagaimana sebuah kapasitas bekerja di lapangan.
 
-| Core Capacity | Functional Object | Functional Dimensions |
-|---|---|---|
-| Self-Regulation | Functioning dan tindakan diri relatif terhadap arah/tujuan yang relevan | Monitoring; Regulation; Reorientation |
-| Critical Thinking | Informasi, klaim, alasan, dan judgment yang relevan bagi keyakinan/tindakan | Examination/Analysis; Evaluation; Inference/Judgment; Explanation/Justification |
-| Communication | Pembentukan, penyampaian, penerimaan, dan pemaknaan pesan dalam interaksi | Formulation; Expression/Transmission; Reception; Interpretation |
-| Collaboration | Tindakan bersama dan kontribusi terkoordinasi menuju tujuan bersama | Contribution; Coordination; Joint Adjustment |
-| Physical Functioning | Functioning fisik yang diperlukan untuk menjalankan aktivitas atau memenuhi tuntutan konteks | Mobility/Movement; Manipulation/Control; Endurance/Function relative to Demand |
-| Social Understanding | Keadaan, perspektif, relasi, dan konteks sosial yang relevan bagi functioning | Perspective Interpretation; Relational Interpretation; Social-Context Interpretation |
-| Agency | Inisiasi dan pengarahan tindakan yang disengaja dalam kondisi nyata | Initiation; Direction; Intentional Action under Conditions |
-| Problem Solving | Kesenjangan antara kondisi aktual dan kondisi tujuan, hambatan, serta strategi untuk menanganinya | Problem Representation; Strategy Generation/Selection; Action Adjustment |
+---
 
-## Interpretation of Dimensions
+## 2. Peta Berkas dan Alur Pembacaan
 
-### 1. Self-Regulation
-
-- **Monitoring** — memantau keadaan diri, tindakan, proses, atau kesesuaian functioning terhadap arah/tujuan yang relevan.
-- **Regulation** — mengatur functioning atau tindakan agar lebih sesuai dengan tuntutan, arah, atau tujuan yang relevan.
-- **Reorientation** — mengubah atau mengembalikan arah tindakan ketika functioning menyimpang, kondisi berubah, atau tujuan perlu ditinjau kembali.
-
-### 2. Critical Thinking
-
-- **Examination/Analysis** — memeriksa dan mengurai informasi, klaim, atau alasan untuk memahami struktur dan relevansinya.
-- **Evaluation** — menilai kualitas, relevansi, kecukupan, atau ketepatan informasi dan alasan.
-- **Inference/Judgment** — membentuk kesimpulan atau judgment berdasarkan informasi dan alasan yang tersedia.
-- **Explanation/Justification** — menjelaskan atau memberi dasar yang dapat dipertanggungjawabkan bagi kesimpulan atau judgment.
-
-### 3. Communication
-
-- **Formulation** — membentuk pesan agar membawa maksud atau makna yang hendak disampaikan.
-- **Expression/Transmission** — mengekspresikan dan menyampaikan pesan melalui bentuk yang relevan dengan konteks.
-- **Reception** — menerima pesan atau informasi dari pihak lain.
-- **Interpretation** — menafsirkan makna pesan dengan mempertimbangkan konteks interaksi.
-
-### 4. Collaboration
-
-- **Contribution** — memberikan kontribusi yang relevan terhadap pekerjaan atau tujuan bersama.
-- **Coordination** — menyelaraskan tindakan, peran, waktu, atau sumber daya dengan pihak lain.
-- **Joint Adjustment** — menyesuaikan tindakan bersama ketika kondisi, kebutuhan, atau hasil berubah.
-
-### 5. Physical Functioning
-
-- **Mobility/Movement** — menggunakan gerak dan mobilitas yang diperlukan untuk menjalankan aktivitas.
-- **Manipulation/Control** — mengendalikan gerak atau manipulasi tubuh/objek sesuai kebutuhan aktivitas.
-- **Endurance/Function relative to Demand** — mempertahankan functioning fisik secara memadai relatif terhadap tuntutan aktivitas dan konteks.
-
-### 6. Social Understanding
-
-- **Perspective Interpretation** — memahami atau menafsirkan perspektif, keadaan, atau posisi pihak lain.
-- **Relational Interpretation** — memahami dinamika dan pola relasi yang relevan terhadap interaksi.
-- **Social-Context Interpretation** — memahami bagaimana norma, situasi, peran, dan konteks sosial memengaruhi makna atau functioning.
-
-### 7. Agency
-
-- **Initiation** — memulai tindakan yang disengaja, bukan hanya merespons secara pasif.
-- **Direction** — menentukan atau mempertahankan arah tindakan terhadap maksud atau tujuan yang relevan.
-- **Intentional Action under Conditions** — menjalankan tindakan yang disengaja sambil merespons keterbatasan, peluang, hambatan, dan kondisi nyata.
-
-### 8. Problem Solving
-
-- **Problem Representation** — membentuk representasi yang memadai tentang kondisi aktual, kondisi tujuan, kesenjangan, dan hambatan.
-- **Strategy Generation/Selection** — menghasilkan atau memilih cara yang relevan untuk menangani masalah.
-- **Action Adjustment** — menyesuaikan tindakan atau strategi berdasarkan informasi, hasil, dan perubahan kondisi.
-
-## Rules for Construct Integrity
-
-1. **Dimension = function, not behavior.** Nama dan definisi dimensi harus menunjuk pada fungsi yang dijalankan, bukan contoh perilaku tertentu.
-2. **Dimension ≠ indicator.** Indikator adalah cara mengamati atau memperoleh evidence; dimensi adalah bagian dari construct.
-3. **Dimension ≠ sub-capacity.** Dimensi tidak otomatis merupakan kapasitas mandiri yang dapat dipisahkan dari Core Capacity induknya.
-4. **Dimension ≠ resource.** Pengetahuan, keterampilan spesifik, strategi, alat, atau dukungan tidak otomatis menjadi dimensi.
-5. **Dimension ≠ normative trait.** Dimensi tidak boleh didefinisikan sebagai sifat ideal seperti "baik", "bertanggung jawab", atau "berakhlak" tanpa spesifikasi fungsi.
-6. **Dimension ≠ developmental stage.** Daftar dimensi tidak menunjukkan bahwa seseorang harus menguasai dimensi A sebelum B.
-7. **Dimension ≠ assessment subscore.** Pemisahan dimensi secara konseptual tidak otomatis membenarkan pemberian skor terpisah.
-8. **Dimension ≠ program component.** Dimensi bukan unit kurikulum, program, intervensi, atau SOP.
-
-## Completeness and Non-Inflation Rules
-
-Sebuah Core Capacity tidak perlu memiliki jumlah dimensi yang sama dengan capacity lain. Jumlah dimensi harus mengikuti struktur fungsi yang dapat dipertanggungjawabkan, bukan kebutuhan simetri tabel.
-
-Menambahkan dimensi baru memerlukan alasan substantif bahwa fungsi tersebut:
-
-- memiliki identitas fungsi yang cukup berbeda;
-- tidak sudah tercakup secara memadai oleh dimensi yang ada;
-- membantu menjelaskan functioning tanpa bergantung pada nama task atau indikator tertentu;
-- tidak sekadar mengulang capacity lain; dan
-- dapat ditelusuri ke Functional Object dan Core Capacity induknya.
-
-Sebaliknya, dua dimensi dapat ditinjau untuk digabung bila perbedaannya tidak cukup substantif atau tidak dapat dipertahankan secara konsisten lintas konteks.
-
-## Cross-Capacity Rule
-
-Satu manifestasi functioning dapat melibatkan lebih dari satu dimensi atau lebih dari satu Core Capacity. Hal ini **tidak** berarti construct harus digabung atau salah satu capacity dihapus.
-
-Contoh: menyelesaikan konflik kelompok dapat melibatkan Communication, Collaboration, Social Understanding, Self-Regulation, dan Problem Solving secara bersamaan. Dimensi membantu mengidentifikasi fungsi yang berbeda di dalam functioning tersebut; ia tidak dimaksudkan untuk memaksa satu perilaku hanya masuk ke satu kotak.
-
-## Context Sensitivity
-
-Manifestasi suatu dimensi dapat berubah menurut usia, peran, lingkungan, tuntutan aktivitas, budaya, relasi, dan kondisi fisik/sosial. Perubahan manifestasi tidak otomatis berarti perubahan construct.
-
-Karena itu:
+Folder ini memuat rincian dimensi fungsi untuk seluruh 8 Kapasitas Inti:
 
 ```text
-SAME FUNCTION
-      ↓
-DIFFERENT CONTEXT
-      ↓
-DIFFERENT MANIFESTATION
+Dimensi Fungsi (Functional Dimensions)
+│
+├── 01_SELF_REGULATION.md
+│   └── Regulasi Diri: Sadar Diri (Monitoring) ──► Atur Respon (Regulation) ──► Pulihkan Arah (Reorientation)
+│
+├── 02_CRITICAL_THINKING.md
+│   └── Nalar Kritis: Periksa Kabar (Analysis) ──► Timbang Bukti (Evaluation) ──► Simpulan Adil ──► Argumen Santun
+│
+├── 03_COMMUNICATION.md
+│   └── Komunikasi: Rumuskan Niat ──► Sampaikan Santun ──► Menyimak Khusyuk (Inshat) ──► Tafsir Empatik
+│
+├── 04_COLLABORATION.md
+│   └── Kolaborasi: Kontribusi Nyata ──► Koordinasi Langkah ──► Saling Menambal Kekurangan (Ta'awun)
+│
+├── 05_PHYSICAL_FUNCTIONING.md
+│   └── Fungsi Jasmani: Adab Gerak Raga (Thaharah) ──► Kendali Higienitas ──► Ketahanan Beramal (Stamina)
+│
+├── 06_SOCIAL_UNDERSTANDING.md
+│   └── Kepekaan Sosial: Menyelami Sudut Pandang ──► Merawat Relasi Kasih Sayang ──► Membaca Adab Tempat
+│
+├── 07_AGENCY.md
+│   └── Daya Gerak Mandiri: Inisiatif Kebaikan ──► Keteguhan Arah Niat ──► Bertahan di Bawah Tantangan
+│
+└── 08_PROBLEM_SOLVING.md
+    └── Pemecahan Masalah: Petakan Masalah Nyata ──► Rumuskan Strategi Damai ──► Sesuaikan Aksi di Lapangan
 ```
 
-Konsistensi construct harus dijaga pada level fungsi, sementara bentuk manifestasi dapat berbeda.
+---
 
-## Evidence Boundary
+## 3. Matriks Lengkap Delapan Kapasitas dan Dimensi Kerjanya
 
-Functional Dimensions menentukan **apa yang perlu dipahami dalam construct**, bukan bukti apa yang otomatis dianggap memadai.
+| Kode | Kapasitas Inti | Sasaran Kerja (*Functional Object*) | Roda Gigi Dimensi Fungsi |
+|---|---|---|---|
+| **CC-01** | **Regulasi Diri** | Sikap, emosi, nafsu, dan tindakan diri terhadap tujuan adab | **1. Pemantauan Diri** (*Monitoring*)<br>**2. Pengendalian Respons** (*Regulation*)<br>**3. Penyelarasan Niat** (*Reorientation*) |
+| **CC-02** | **Nalar Kritis** | Informasi, kabar berita, dalil argumen, dan kesimpulan | **1. Pemeriksaan Kabar** (*Analysis*)<br>**2. Penimbangan Bukti** (*Evaluation*)<br>**3. Perumusan Kesimpulan** (*Inference*)<br>**4. Penjelasan Santun** (*Justification*) |
+| **CC-03** | **Komunikasi Terbuka** | Pesan, makna, dan pertukaran informasi dalam interaksi | **1. Perumusan Pesan** (*Formulation*)<br>**2. Penyampaian Santun** (*Expression*)<br>**3. Penerimaan Terbuka** (*Reception/Inshat*)<br>**4. Penafsiran Empatik** (*Interpretation*) |
+| **CC-04** | **Kolaborasi Ukhuwah** | Tindakan bersama, kontribusi nyata, dan keselarasan kelompok | **1. Kontribusi Nyata** (*Contribution*)<br>**2. Koordinasi Langkah** (*Coordination*)<br>**3. Penyesuaian Bersama** (*Joint Adjustment*) |
+| **CC-05** | **Fungsi Jasmani & Ketahanan** | Gerak raga, kebersihan fisik, dan stamina biologis ibadah | **1. Keterampilan Gerak Adab** (*Mobility*)<br>**2. Kendali Higienitas Raga** (*Control*)<br>**3. Ketahanan Beramal** (*Endurance*) |
+| **CC-06** | **Kepekaan Sosial** | Keadaan batin orang lain, relasi teman, dan adab suasana | **1. Menangkap Sudut Pandang** (*Perspective*)<br>**2. Merawat Relasi Kasih** (*Relational*)<br>**3. Membaca Adab Suasana** (*Social-Context*) |
+| **CC-07** | **Daya Gerak Mandiri** | Inisiasi, arah niat, dan tindakan sadar di kondisi nyata | **1. Inisiatif Kebaikan** (*Initiation*)<br>**2. Keteguhan Arah Niat** (*Direction*)<br>**3. Ketahanan Ikhtiar** (*Intentional Action*) |
+| **CC-08** | **Pemecahan Masalah** | Kesenjangan kondisi nyata vs ideal, hambatan, dan solusi | **1. Pemetaan Masalah** (*Representation*)<br>**2. Perumusan Strategi** (*Generation*)<br>**3. Penyesuaian Aksi** (*Action Adjustment*) |
 
-Evidence untuk suatu dimensi dapat berasal dari berbagai sumber dan konteks. Satu bukti tidak otomatis mewakili seluruh capacity. Sebaliknya, satu manifestasi dapat memberi evidence terhadap beberapa dimensi ketika memang terdapat dasar fungsional yang jelas.
+---
 
-Karena itu:
+## 4. Cara Pengasuh Membaca Dimensi Fungsi di Lapangan
 
-> **Dimension identity ≠ evidence sufficiency ≠ performance snapshot.**
+Ketika musyrif mendampingi santri di kamar asrama:
+1. **Diagnosis Spesifik:** Jangan hanya berkata: *"Santri ini bermasalah!"* Bedah melalui dimensi: apakah ia tidak sadar perilakunya (Monitoring), tidak bisa menahan marah (Regulation), atau putus asa saat salah (Reorientation)?
+2. **Bimbingan Terarah:** Dengan mengetahui dimensi mana yang lemah, musyrif dapat memberikan latihan pembiasaan yang tepat sasaran.
+3. **Pemantauan Bertahap:** Catat kemajuan pada dimensi tersebut dari pekan ke pekan di dalam buku mutaba'ah pengasuhan.
 
-Kecukupan evidence, validitas indikator, keputusan assessment, dan inferensi tentang perkembangan harus ditangani pada layer Assessment dan Evidence/Research.
+---
 
-## Relationship to Other Layers
+## Ringkasan Inti
 
-| Layer | Pertanyaan utama |
-|---|---|
-| Growth Ecology | Di mana dan bersama siapa growth berlangsung? |
-| Growth Mechanism | Bagaimana capacity dapat berubah? |
-| Core Capacity | Kapasitas apa yang sedang direpresentasikan? |
-| Functional Object | Apa objek functioning dari capacity tersebut? |
-| Functional Dimensions | Fungsi utama apa yang dibedakan di dalam objek tersebut? |
-| Progression | Bagaimana functioning dapat dipetakan sepanjang perkembangan? |
-| Assessment | Evidence apa yang digunakan dan inferensi apa yang sah? |
-| Intervention | Respons apa yang dirancang berdasarkan kebutuhan? |
-
-Functional Dimensions berada **di dalam construct architecture**, bukan di dalam progression, assessment, atau intervention.
-
-## Governance
-
-Perubahan pada Functional Dimensions harus diperiksa terhadap:
-
-- definisi Core Capacity;
-- Functional Object;
-- batas antar-dimensi;
-- Capacity Relationships;
-- Construct Registry;
-- Claim Registry;
-- evidence territory;
-- traceability ke layer berikutnya.
-
-Perubahan yang hanya memperjelas wording tanpa mengubah identitas fungsi dapat diperlakukan sebagai editorial clarification. Perubahan yang menambah, menghapus, menggabungkan, atau mengubah fungsi secara material harus diperlakukan sebagai **construct-architecture revision** dan ditelusuri ke artefak yang terdampak.
-
-## Validation Status
-
-Arsitektur Functional Dimensions berstatus **FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**.
-
-Status ini berarti struktur dan batas konseptual telah ditetapkan untuk kebutuhan arsitektur TUMBUH, tetapi tidak boleh dibaca sebagai bukti bahwa:
-
-- semua dimensi telah tervalidasi secara psikometrik;
-- struktur ini universal lintas budaya atau populasi;
-- dimensi merupakan faktor statistik independen;
-- dimensi dapat dijumlahkan menjadi skor umum; atau
-- hubungan antar-dimensi telah terbukti kausal.
-
-## Summary
-
-Functional Dimensions adalah **lapisan dekomposisi fungsional** yang menjelaskan fungsi-fungsi utama di dalam setiap Core Capacity. Ia menjaga construct tetap cukup tajam untuk ditelusuri ke functioning dan evidence, tetapi tetap terpisah dari indikator, task, assessment score, program, resource, normative trait, dan developmental stage.
+> **Dimensi Fungsi adalah peta anatomi karakter santri. Dengan memahami roda-roda gigi kerja di dalam setiap kapasitas, para pendidik di pesantren dapat mendiagnosis kesulitan santri secara tepat, membimbing jiwanya dengan hikmah, dan merawat proses tarbiyah hingga menghasilkan kepribadian santri yang matang lahir dan batin.**
