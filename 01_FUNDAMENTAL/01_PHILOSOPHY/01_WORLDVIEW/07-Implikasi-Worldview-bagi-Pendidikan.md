@@ -1,63 +1,82 @@
 # 07 — Implikasi Worldview bagi Pendidikan
 
-Tujuh pertanyaan sebelumnya akhirnya bertemu pada satu pertanyaan praktis: **kalau manusia, kehidupan, nilai, amanah, dan realitas dipahami seperti itu, lalu pendidikan harus menjadi seperti apa?**
+Tujuh pertanyaan sebelumnya akhirnya bertemu pada satu pertanyaan paling praktis: **jika manusia, kehidupan, nilai, amanah, dan kenyataan dipahami seperti itu, lalu pendidikan pesantren harus menjadi seperti apa?**
 
-Di titik ini Worldview mulai menunjukkan daya kerjanya. Ia belum memberi kita kurikulum, metode, rubrik, atau SOP. Ia memberi alasan mengapa sistem pendidikan TUMBUH harus dibangun dengan cara tertentu.
+Di titik inilah Worldview mulai memperlihatkan daya kerja dan perannya. Worldview belum memberi kita daftar detail mata pelajaran, rubrik asesmen angka, atau formulir izin perizinan santri. Worldview memberi kita **alasan mendasar mengapa sistem pendidikan TUMBUH harus dibangun dengan cara tertentu dan tidak boleh dijalankan dengan cara yang lain**.
 
 ## Pendidikan tidak sekadar membuat manusia mampu
 
-Jika manusia memiliki martabat, kapasitas, pilihan, dan tanggung jawab, maka peserta didik tidak tepat diperlakukan sebagai objek yang tinggal dibentuk dari luar.
+Jika manusia dipahami sebagai makhluk yang memiliki martabat mulia, potensi fitrah, kebebasan memilih, dan tanggung jawab di hadapan Allah, maka santri tidak tepat diperlakukan sekadar sebagai objek kosong yang tinggal dibentuk secara paksa dari luar.
 
-Pendidikan perlu membantu manusia **mengetahui, memahami, mampu bertindak, menggunakan kemampuannya dengan benar, menjalankan amanah, dan terus memperbaiki diri**.
+Pendidikan perlu membantu manusia untuk:
+- Mengetahui dan memahami ilmu yang benar;
+- Mampu bertindak dan berkarya secara cakap;
+- Menggunakan seluruh kemampuannya dengan arah nilai yang baik;
+- Menjalankan amanah dalam kehidupan bermasyarakat; serta
+- Terus belajar memperbaiki kelemahan dirinya sepanjang hayat.
 
-Cara pandang ini memiliki kedekatan dengan tradisi pendidikan Islam yang menempatkan adab dan pembentukan pribadi sebagai bagian dari pendidikan, bukan sebagai tambahan setelah pengetahuan selesai. Kajian atas pemikiran Al-Ghazali, misalnya, menunjukkan perhatian pada keteladanan, kasih sayang, kesabaran, dan tanggung jawab moral dalam relasi pendidik–peserta didik.[^1]
+Cara pandang ini berakar kuat dalam tradisi pendidikan Islam yang menempatkan **Adab** sebagai inti dari pendidikan (*Ta'dib*), bukan sebagai tempelan tambahan setelah ilmu selesai dipelajari.[^1] Kajian atas pemikiran Imam Al-Ghazali menunjukkan bahwa pendidikan sejati bertumpu pada keteladanan nyata, rasa kasih sayang, kesabaran dalam mendampingi, dan tanggung jawab moral dalam hubungan antara guru dan murid.[^2]
 
-Karena itu kemampuan penting, tetapi kemampuan bukan satu-satunya pertanyaan.
+Oleh karena itu, menguasai keahlian teknis itu penting, namun kepandaian bukanlah satu-satunya tujuan yang ingin dicapai di pesantren.
 
 ## Pendidikan juga tidak sekadar membuat manusia patuh
 
-Kepatuhan dapat menjadi bagian dari pendidikan, tetapi kepatuhan mekanis bukan keseluruhan tujuan.
+Kepatuhan santri terhadap aturan asrama memang diperlukan agar kehidupan bersama berjalan tertib. Namun, kepatuhan mekanis yang lahir karena rasa takut atau paksaan semata bukanlah keseluruhan tujuan pendidikan.
 
-Manusia perlu berkembang sehingga ia semakin mampu memahami alasan, mengenali tanggung jawab, membuat pilihan yang tepat, dan bertindak dengan kesadaran. Penelitian tentang agency juga menunjukkan bahwa manusia dapat berperan aktif dalam mengarahkan tindakan dan perkembangannya, meskipun selalu berada dalam jaringan pengaruh sosial dan struktural.[^2]
+Santri perlu dibimbing untuk bertumbuh sehingga ia semakin:
+- Memahami alasan dan hikmah di balik setiap aturan yang ditetapkan;
+- Mengenali hak dan tanggung jawab moralnya kepada sesama;
+- Mampu membuat pilihan tindakan yang tepat secara mandiri; serta
+- Berdisiplin atas dasar kesadaran batin (*muraqabatullah*), bukan hanya patuh ketika sedang diawasi oleh musyrif kamar.
 
-Ini tidak berarti setiap tindakan harus menunggu kesadaran sempurna. Artinya, pendidikan tidak berhenti pada kemampuan membuat orang mengikuti perintah ketika diawasi.
+Penelitian tentang *human agency* oleh Albert Bandura menunjukkan bahwa manusia mampu berperan aktif dalam mengarahkan tindakan dan perkembangannya sendiri.[^3] Ini bukan berarti setiap tindakan harus menunggu kesadaran yang sempurna. Prinsip ini menegaskan bahwa pendidikan tidak boleh berhenti hanya pada kemampuan membuat santri tunduk saat diancam hukuman.
 
 ## Pertumbuhan membutuhkan kehidupan nyata
 
-Kalau manusia berkembang melalui kehidupan nyata, maka pendidikan tidak dapat hanya mengandalkan penyampaian materi.
+Jika manusia berkembang melalui pengalaman hidup nyata, maka pendidikan pesantren tidak dapat hanya mengandalkan penyampaian teori di ruang kelas.
 
-Pengalaman, latihan, relasi, lingkungan, kebiasaan, teladan, umpan balik, kesempatan memperbaiki kesalahan, dan tantangan yang sesuai menjadi bagian dari ruang pendidikan.
+Seluruh dinamika kehidupan santri selama 24 jam adalah ruang pendidikan:
+- Interaksi harian di kamar asrama;
+- Kebiasaan merawat kebersihan tempat tidur dan pakaian sendiri;
+- Keteladanan hidup yang dicontohkan oleh para asatidz dan musyrif (*qudwah hasanah*);
+- Umpan balik yang hangat dan mendidik saat santri menghadapi kesulitan; serta
+- Kesempatan untuk memperbaiki kesalahan (*restorasi*) ketika terjadi perselisihan antarteman.
 
-Literatur perkembangan juga menunjukkan bahwa perkembangan manusia berlangsung melalui hubungan timbal balik antara individu dan konteks. Keluarga, sekolah, teman sebaya, dan komunitas bukan sekadar latar; semuanya dapat menjadi bagian dari proses perkembangan.[^3]
-
-Namun bentuk teknis dari semua itu belum diputuskan di sini. Worldview hanya memberi arah bahwa manusia perlu dipandang sebagai makhluk yang bertumbuh, bukan produk yang selesai setelah melewati serangkaian kegiatan.
+Penelitian perkembangan kontemporer juga menunjukkan bahwa pertumbuhan karakter remaja berlangsung melalui hubungan timbal balik yang dinamis antara individu dengan lingkungan sekitarnya (keluarga, asrama, pergaulan sebaya, dan budaya lembaga).[^4] Pesantren dirancang sebagai lingkungan yang aman secara fisik maupun emosional, tempat di mana santri merasa didukung untuk bertumbuh mekar.
 
 ## Nilai memberi arah, evidence menguji cara
 
-Worldview memberi jawaban **normatif**, yaitu arah tentang apa yang dianggap benar, baik, layak, dan seharusnya. Ia tidak otomatis menjawab apakah sebuah metode efektif.
+Worldview memberikan jawaban **normatif**, yaitu arah tentang apa yang dinilai benar, adil, layak, dan seharusnya menurut syariat. Worldview tidak otomatis menjawab apakah sebuah metode pengajaran atau program pembinaan di asrama berjalan efektif di lapangan.
 
-Misalnya, suatu bentuk pembinaan dapat dianggap sesuai dengan nilai TUMBUH tetapi ternyata tidak menghasilkan perubahan yang diharapkan. Dalam keadaan seperti itu, nilai tidak perlu ditinggalkan; yang perlu diperiksa adalah asumsi, desain, pelaksanaan, atau evidence tentang caranya.
+Sebagai contoh: sebuah program bimbingan belajar malam hari dirancang dengan niat yang sangat mulia untuk meningkatkan hafalan santri. Namun dalam praktiknya, program tersebut ternyata membuat santri kekurangan waktu tidur sehingga mereka mengantuk saat shalat subuh dan daya tahan tubuhnya menurun. Dalam situasi seperti ini, nilai keutamaan menuntut ilmu tidak boleh disalahkan. Yang harus dievaluasi secara objektif adalah desain program, jadwal kegiatan, dan beban fisik santri.
 
-Sebaliknya, metode yang terbukti efektif secara empiris tidak otomatis layak digunakan jika cara tersebut melanggar martabat manusia atau batas normatif yang dipegang TUMBUH.
+Sebaliknya, sebuah cara yang terbukti sangat cepat membuat santri tertib di asrama—misalnya dengan ancaman kekerasan fisik atau sanksi yang mempermalukan santri di depan umum—tidak boleh digunakan dalam sistem TUMBUH, karena cara tersebut nyata-nyata melanggar martabat kemanusiaan dan keadilan syariat.[^5]
 
-Di sinilah worldview dan evidence saling melengkapi tanpa saling menggantikan.
+Di sinilah nilai syariat dan bukti ilmiah (*evidence*) saling melengkapi: **nilai menentukan arah dan batasan moral yang tidak boleh dilanggar, sedangkan bukti ilmiah menguji apakah cara yang kita tempuh benar-benar berhasil membantu santri bertumbuh**.
 
 ## Dari sini, sistem mulai mengambil bentuk
 
-Sampai titik ini kita baru mengetahui **arahnya**. Kita belum menentukan secara rinci manusia seperti apa yang hendak dikembangkan.
+Sampai di titik ini, kita telah menyelesaikan peletakan fondasi: **kita telah mengetahui arah dan cara pandangnya**. Kita belum menentukan rincian teknis mengenai kapasitas apa saja yang ingin dikembangkan pada diri santri.
 
 Pertanyaan berikutnya adalah:
 
-> **Jika pendidikan TUMBUH diarahkan untuk membantu manusia bertumbuh seperti itu, kapasitas apa yang sebenarnya perlu dikembangkan?**
+> **Jika pendidikan TUMBUH diarahkan untuk membantu manusia bertumbuh secara utuh seperti itu, kapasitas dan karakter apa saja yang sebenarnya perlu dikembangkan?**
 
-Pertanyaan tersebut membawa kita keluar dari Worldview menuju **Core Model**, yaitu bagian sistem yang mulai merumuskan manusia dan kapasitas yang hendak dikembangkan beserta hubungan konseptualnya.
+Pertanyaan tersebut membawa kita melangkah keluar dari Worldview menuju **Core Model**, yaitu bagian sistem yang mulai merumuskan:
+- **Profil Lulusan (*Graduate Profile*)**, yaitu gambaran utuh tentang pribadi santri yang dituju sebagai arah akhir pembinaan;
+- **Kapasitas**, yaitu kemampuan-kemampuan kunci yang hendak ditumbuhkan secara bertahap; serta
+- Hubungan konseptual antarkapasitas tersebut.
 
-Di sana TUMBUH perlu mulai merumuskan **graduate profile**, yaitu gambaran manusia yang hendak dicapai sebagai arah pengembangan; **kapasitas**, yaitu kemampuan yang hendak dikembangkan; hubungan antarkapasitas; dan logika sistem. Setelah itu barulah pertanyaan tentang perkembangan, assessment, intervention, implementation, dan program dapat dijawab dengan lebih bertanggung jawab.
+Setelah Core Model berdiri tegak, barulah pertanyaan tentang tahapan usia (*progression*), cara penilaian (*assessment*), metode pendampingan (*intervention*), hingga prosedur operasional harian (*operational*) dapat dirumuskan secara bertanggung jawab.
 
-Jadi Worldview berhenti bukan karena pertanyaannya sudah habis, tetapi karena **pekerjaan berikutnya memang sudah menjadi pekerjaan layer lain**.
+Worldview selesai bukan karena seluruh pertanyaannya sudah habis, melainkan karena tugasnya meletakkan arah telah tuntas, dan pekerjaan berikutnya memang menjadi tugas dari lapisan sistem yang lain.
 
-### Sumber yang digunakan
+---
 
-[^1]: Izuddin, A., Muhammad, A. N., & Assegaf, A. R. *Adab in Teacher–Student Relations: An Analysis of Al-Ghazali’s Educational Thought*. AL-ADABIYAH: Jurnal Pendidikan Agama Islam. https://doi.org/10.35719/adabiyah.v7i1.1263
-[^2]: Bandura, A. (2001). *Social Cognitive Theory: An Agentic Perspective*. Annual Review of Psychology, 52, 1–26. https://doi.org/10.1146/annurev.psych.52.1.1
-[^3]: Lerner, R. M., Brindis, C. D., Batanova, M., & Blum, R. W. (2017). *Adolescent Health Development: A Relational Developmental Systems Perspective*. NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK543703/
+### Sumber yang Digunakan (*Footnotes*)
+
+[^1]: Al-Attas, Syed Muhammad Naquib. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM, hlm. 25–35.
+[^2]: Izuddin, A., Muhammad, A. N., & Assegaf, A. R. (2023). Adab in Teacher–Student Relations: An Analysis of Al-Ghazali’s Educational Thought. *AL-ADABIYAH: Jurnal Pendidikan Agama Islam*, 7(1), 45–62. https://doi.org/10.35719/adabiyah.v7i1.1263.
+[^3]: Bandura, Albert. (2006). Toward a Psychology of Human Agency. *Perspectives on Psychological Science*, 1(2), 164–180. https://doi.org/10.1111/j.1745-6916.2006.00011.x.
+[^4]: Lerner, Richard M., Brindis, Claire D., Batanova, Milena, & Blum, Robert W. (2017). Adolescent Health Development: A Relational Developmental Systems Perspective. In *Handbook of Life Course Health Development* (hlm. 263–286). Cham: Springer. https://doi.org/10.1007/978-3-319-47143-3_11.
+[^5]: Morrison, Brenda. (2007). *Restoring Safe School Communities: A Whole School Approach to Bullying, Violence and Alienation*. Sydney: The Federation Press, hlm. 45–68.

@@ -1,51 +1,73 @@
 # 04 — Manusia dan Kedudukannya sebagai Makhluk
 
-Setelah membahas Allah dan ciptaan, pertanyaan berikutnya sederhana:
+Setelah membahas posisi Allah sebagai Al-Khaliq dan memetakan struktur kenyataan ciptaan-Nya, pertanyaan berikutnya menjadi sangat menentukan bagi pendidikan:
 
-> **Kalau manusia adalah makhluk Allah, lalu siapa manusia yang hendak dikembangkan?**
+> **Jika manusia adalah makhluk Allah, lalu manusia seperti apa yang sebenarnya hendak kita kembangkan di pesantren?**
 
-TUMBUH memandang manusia sebagai makhluk yang memiliki martabat, kemampuan, keterbatasan, pilihan, dan tanggung jawab.
+TUMBUH memandang manusia sebagai ciptaan Allah yang mulia, yang dibekali fitrah kesucian, akal pikiran, kemampuan memilih, dan tanggung jawab moral. Cara sebuah lembaga memandang manusia akan menentukan bagaimana para guru mengajar di kelas, bagaimana musyrif membimbing di asrama, dan bagaimana aturan kedisiplinan ditegakkan.
 
 ## Manusia bukan benda yang tinggal dibentuk
 
-Al-Qur'an menyatakan bahwa anak cucu Adam telah dimuliakan.[^1] Artinya, manusia tidak memperoleh nilai kemanusiaannya hanya setelah berhasil memenuhi standar lembaga. Pendidikan justru harus berangkat dari pengakuan bahwa orang yang sedang dididik sudah memiliki martabat.
+Al-Qur'an menegaskan bahwa seluruh anak cucu Adam telah dimuliakan oleh Allah sejak awal penciptaannya:
 
-Manusia juga bukan benda yang tinggal dibentuk dari luar. Ia bisa belajar. Ia bisa memilih. Ia bisa berubah. Ia juga bisa ikut mengambil keputusan tentang apa yang akan ia lakukan.
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ
+>
+> *"Dan sungguh, Kami telah memuliakan anak cucu Adam..."* (QS. Al-Isra' [17]: 70)[^1]
 
-Gagasan tentang **agency**, yaitu kemampuan seseorang untuk bertindak sebagai pelaku atas hidup dan tindakannya, mendapat perhatian kuat dalam psikologi modern. Bandura menjelaskan bahwa manusia bukan hanya produk lingkungan; manusia juga dapat memengaruhi lingkungan melalui niat, perencanaan, pengaturan diri, dan tindakan.[^2] Dalam kajian perkembangan, agency juga dipahami dalam hubungan timbal balik dengan konteks, bukan sebagai kebebasan yang berdiri di luar keluarga, sekolah, teman sebaya, dan struktur sosial.[^3]
+Artinya, seorang santri tidak baru mendapatkan nilai kemanusiaannya setelah ia berhasil memenuhi seluruh target nilai di pesantren. Pendidikan justru harus berangkat dari pengakuan bahwa santri yang sedang kita didik sudah memiliki martabat yang wajib dihormati.
 
-Temuan ini tidak otomatis menjadi dasar teologis TUMBUH. Ia membantu memperjelas satu hal yang sudah menjadi pilihan worldview: peserta didik perlu dipandang sebagai **pelaku perkembangan**, bukan sekadar objek yang menerima perlakuan.
+Manusia juga bukan benda mati atau adonan tanah liat yang tinggal dicetak dan dipukul secara paksa dari luar. Manusia memiliki jiwa yang berakal dan hati yang merasa. Ia bisa belajar dari pengalaman, bisa berpikir mandiri, bisa memilih tindakan, dan bisa ikut menentukan ke mana arah hidupnya.
+
+Dalam psikologi modern, kemampuan seseorang untuk mengambil peran aktif dalam menentukan arah tindakannya disebut **agency** (*human agency*). Albert Bandura menjelaskan bahwa manusia bukan sekadar hasil bentukan lingkungannya semata; manusia memiliki kemampuan untuk berniat, merencanakan masa depan, mengatur perilakunya sendiri, dan merenungkan kesalahan yang pernah ia perbuat.[^2]
+
+Dalam kajian ilmu perkembangan, agensi manusia ini dipahami bekerja dalam hubungan timbal balik dengan lingkungannya, bukan kebebasan liar yang lepas dari keluarga, sekolah, dan teman sebaya.[^3]
+
+Wawasan ini melengkapi prinsip Islam: santri adalah **pelaku utama dalam perkembangannya sendiri**, bukan sekadar objek pasif yang hanya digerakkan oleh perintah dan ancaman hukuman.
 
 ## Beberapa hal yang perlu kita ingat tentang manusia
 
-**Martabat** berarti manusia memiliki nilai dan kehormatan sebagai manusia. Karena itu ia tidak boleh diperlakukan hanya sebagai angka, alat, atau objek hukuman.
+Untuk memahami manusia secara utuh, ada lima prinsip dasar yang dipegang dalam TUMBUH:
 
-**Kapasitas** berarti manusia memiliki kemampuan yang bisa digunakan dan dikembangkan. Kemampuan itu tidak selalu sama pada setiap orang dan tidak selalu berkembang dengan kecepatan yang sama.
+1. **Martabat (*Karamah*)**  
+   Manusia memiliki nilai kehormatan yang melekat dari Allah. Oleh karena itu, santri tidak boleh diperlakukan hanya sebagai angka statistik, alat kebanggaan lembaga, atau sasaran pelampiasan amarah.
+2. **Kapasitas Diri**  
+   Setiap manusia dianugerahi kemampuan dan bakat yang dapat terus diasah dan dikembangkan. Potensi setiap santri tidak selalu sama dan tidak selalu mekar pada waktu yang bersamaan. Ada yang cepat dalam hafalan bahasa, ada yang kuat dalam penalaran logika, dan ada pula yang memiliki kelembutan hati dalam kepedulian sosial.
+3. **Agensi (*Kemampuan Memilih*)**  
+   Manusia memiliki kehendak sadar (*ikhtiyar*) untuk mengambil keputusan atas tindakannya sendiri. Menjadi agen tidak berarti bebas berbuat sesuka hati tanpa aturan; setiap pilihan selalu membawa tanggung jawab dan konsekuensi.
+4. **Ikhtiar Nyata**  
+   Manusia dituntut untuk berusaha sekuat tenaga dan menggunakan akal sehatnya untuk mencapai kebaikan, meskipun hasil akhirnya selalu diserahkan kepada ketentuan Allah.
+5. **Bersifat Relasional**  
+   Manusia tidak hidup dan bertumbuh di ruang hampa yang terisolasi. Manusia hidup dalam tiga hubungan hakiki: hubungan dengan Allah (*hablum minallah*), hubungan dengan sesama manusia (*hablum minannas*), dan hubungan dengan alam lingkungan (*hablum minal 'alam*).
 
-**Agency** berarti kemampuan seseorang untuk memilih dan mengambil tindakan sebagai pelaku atas apa yang ia lakukan. Agency tidak berarti bebas dari aturan atau akibat. Pilihan tetap membawa tanggung jawab.
+Pengaruh lingkungan pertemanan di asrama sangat menentukan pembentukan karakter santri. Rasulullah Shallallahu 'Alaihi Wasallam memberi perumpamaan yang sangat indah:
 
-**Ikhtiar** berarti usaha sadar yang dilakukan seseorang untuk mencapai atau memperbaiki sesuatu. Manusia dituntut berikhtiar, meskipun hasil akhirnya tidak selalu berada sepenuhnya dalam kendalinya.
+> مَثَلُ الْجَلِيسِ الصَّالِحِ وَالْجَلِيسِ السَّوْءِ كَمَثَلِ حَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ
+>
+> *"Perumpamaan teman duduk yang saleh dan teman duduk yang buruk adalah seperti pembawa minyak wangi dan peniup cerobong pandai besi..."* (HR. Al-Bukhari no. 5534 dan Muslim no. 2628)[^4]
 
-Manusia juga bersifat **relasional**, yaitu hidup dalam hubungan dengan Allah, dengan manusia lain, dan dengan lingkungannya. Perkembangan seseorang karena itu tidak terjadi di ruang kosong. Penelitian perkembangan kontemporer juga banyak menekankan hubungan timbal balik antara karakteristik individu dan konteks keluarga, sekolah, teman sebaya, serta komunitas.[^3]
-
-Ini belum menjadi daftar kemampuan resmi TUMBUH. Kita sedang menentukan cara memandang manusia. Daftar kapasitas yang perlu dikembangkan baru akan dirumuskan setelahnya.
+Oleh karena itu, pesantren harus menjadi lingkungan yang aman (*bi'ah shalihah*), di mana persahabatan yang sehat dan saling menyemangati dalam kebaikan dapat tumbuh subur.
 
 ## Apa akibatnya bagi pendidikan?
 
-Kalau santri dipandang sebagai manusia yang sedang berkembang, maka pendidikan tidak cukup hanya menyampaikan materi atau menuntut kepatuhan.
+Jika santri dipandang sebagai manusia yang sedang bertumbuh, maka pendidikan tidak cukup hanya berupa ceramah satu arah atau tuntutan kepatuhan buta:
 
-Santri perlu mendapat kesempatan untuk mencoba, mengalami akibat dari pilihannya, menerima masukan, memperbaiki kesalahan, mengambil tanggung jawab, dan belajar dari pengalaman. Ini bukan berarti orang dewasa kehilangan peran. Justru orang dewasa perlu menyediakan batas, dukungan, contoh, dan ruang yang aman agar agency berkembang secara bertanggung jawab.
+Pertama, **santri perlu diberi ruang untuk berlatih bertanggung jawab**. Mereka perlu diberi kesempatan untuk mencoba tugas-tugas nyata, merasakan akibat logis dari pilihannya, menerima masukan yang membangun, dan belajar memperbaiki kesalahan.
 
-Pandangan ini juga memberi batas bagi orang dewasa. Guru, musyrif, pimpinan, dan siapa pun yang mendapat kewenangan tidak boleh menggunakan jabatan untuk merendahkan, mempermalukan, memanipulasi, atau menyakiti santri.
+Kedua, **peran orang dewasa adalah membimbing dan memberi teladan**. Ini bukan berarti para guru dan musyrif kehilangan wibawa atau membiarkan segala hal tanpa batas. Justru orang dewasa bertugas menyediakan batasan aturan yang adil, memberikan perlindungan yang aman, dan menunjukkan contoh perilaku yang nyata (*qudwah hasanah*), sehingga kemampuan santri dapat berkembang secara terarah.
 
-Kewenangan pendidikan adalah amanah. Ia dipakai untuk membantu manusia berkembang, bukan untuk membuat manusia tunduk demi kepentingan pribadi orang yang berkuasa.
+Ketiga, **kewenangan pendidik adalah amanah pengasuhan**. Guru, musyrif, dan pimpinan tidak boleh menggunakan jabatan atau senioritasnya untuk merendahkan, mempermalukan, mengintimidasi, atau menyakiti fisik maupun mental santri. Kewenangan hadir untuk melayani pertumbuhan manusia, bukan untuk menindas demi kepuasan pribadi orang yang berkuasa.
 
-TUMBUH juga tidak boleh mengambil satu teori tentang manusia lalu menganggap teori itu sudah menjelaskan manusia secara utuh. Penelitian tentang pikiran, emosi, motivasi, perilaku, dan perkembangan dapat membantu kita memahami bagian-bagian tertentu dari manusia. Tetapi cara TUMBUH memandang manusia lebih luas daripada satu teori ilmiah.
+Keempat, **tidak mereduksi manusia ke dalam satu teori ilmiah semata**. Penelitian tentang cara kerja otak, emosi, dan motivasi sangat bermanfaat untuk membantu kita memahami perilaku anak didik. Namun, cara pandang TUMBUH terhadap manusia tetap berakar pada keluhuran wahyu tauhidi yang memandang manusia memiliki dimensi ruhani yang agung.
 
-Dari sini pertanyaannya berubah: **kalau kita sudah tahu siapa manusia, lalu manusia hidup untuk apa?** Mengetahui manusia saja belum cukup. Kita juga perlu mengetahui arah hidupnya.
+Dari pemahaman tentang siapa manusia ini, pertanyaan berikutnya membawa kita pada tujuan eksistensi: **jika kita sudah tahu siapa manusia, lalu untuk tujuan apa sebenarnya manusia hidup di muka bumi ini?**
 
-### Sumber yang digunakan
+Pembahasan tersebut diuraikan pada berkas selanjutnya: `05-Hakikat-Kehidupan-dan-Tujuan-Penciptaan-Manusia.md`.
 
-[^1]: Al-Qur'an, QS. Al-Isra' [17]: 70.
-[^2]: Bandura, A. (2001). *Social Cognitive Theory: An Agentic Perspective*. Annual Review of Psychology, 52, 1–26. https://doi.org/10.1146/annurev.psych.52.1.1
-[^3]: Lerner, R. M., Brindis, C. D., Batanova, M., & Blum, R. W. (2017). *Adolescent Health Development: A Relational Developmental Systems Perspective*. In Handbook of Life Course Health Development. NCBI Bookshelf. https://www.ncbi.nlm.nih.gov/books/NBK543703/
+---
+
+### Sumber yang Digunakan (*Footnotes*)
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Isra' [17] ayat 70.
+[^2]: Bandura, Albert. (2001). Social Cognitive Theory: An Agentic Perspective. *Annual Review of Psychology*, 52(1), 1–26. https://doi.org/10.1146/annurev.psych.52.1.1.
+[^3]: Lerner, Richard M., Brindis, Claire D., Batanova, Milena, & Blum, Robert W. (2017). Adolescent Health Development: A Relational Developmental Systems Perspective. In *Handbook of Life Course Health Development* (hlm. 263–286). Cham: Springer. https://doi.org/10.1007/978-3-319-47143-3_11.
+[^4]: Hadits diriwayatkan oleh Imam Al-Bukhari dalam *Shahih al-Bukhari* (no. 5534) dan Imam Muslim dalam *Shahih Muslim* (no. 2628), dari sahabat Abu Musa al-Asy'ari radhiyallahu 'anhu.

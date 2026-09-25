@@ -1,51 +1,74 @@
 # 03 — Realitas Gaib dan Realitas yang Teramati
 
-Tidak semua yang nyata dapat diketahui dengan cara yang sama. Bagi TUMBUH, ini bukan persoalan membuat dua dunia yang saling bertentangan, melainkan memahami bahwa **jenis pertanyaan menentukan cara kita mencari pengetahuan tentangnya**.
+Tidak semua hal yang nyata di alam semesta ini dapat diketahui dengan cara yang sama. Bagi TUMBUH, membedakan antara **realitas yang teramati (*alam syahadah*)** dan **realitas gaib (*alam ghaib*)** bukanlah upaya untuk memisahkan kehidupan menjadi dua kubu yang saling bertentangan. Pembedaan ini justru meletakkan dasar berpikir yang sangat tertib: **jenis kenyataan menentukan cara dan alat yang tepat untuk mengetahuinya**.[^1]
+
+Dalam kehidupan pesantren, kekeliruan sering terjadi saat batas ini kabur: hal-hal nyata yang semestinya diselesaikan dengan penelitian dan tata kelola yang baik justru diserahkan pada dugaan mistis, sementara dimensi nilai moral dan keikhlasan niat yang suci justru hendak dipaksakan diukur dengan angka statistik semata.
 
 ## Yang dapat diamati
 
-Sebagian realitas ciptaan dapat kita dekati melalui pengalaman, observasi, pengukuran, dokumentasi, dan penyelidikan **empiris**, yaitu penyelidikan yang bertumpu pada pengalaman atau pengamatan terhadap kenyataan yang dapat diperiksa.
+Sebagian realitas ciptaan Allah dapat kita dekati melalui panca indera, pengalaman langsung, pengukuran, dokumentasi, dan penyelidikan **empiris**, yaitu penyelidikan yang bertumpu pada pengamatan terhadap kenyataan yang dapat diperiksa secara nyata.
 
-Pendidikan banyak bekerja di wilayah ini. Perilaku, interaksi sosial, lingkungan belajar, kondisi fisik, proses pembelajaran, perubahan perilaku, dan outcome tertentu dapat menjadi objek penyelidikan.
+Pendidikan banyak bekerja di wilayah ini:
+- Kesehatan fisik santri, pola makan bergizi, dan kecukupan waktu tidur;
+- Sirkulasi udara dan kebersihan kamar mandi asrama;
+- Cara guru mengajar di depan kelas dan keaktifan santri bertanya;
+- Catatan keterlambatan shalat berjamaah atau pelanggaran tata tertib harian.
 
-Tetapi sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya benar. Dalam filsafat pengetahuan, pengalaman inderawi sendiri dapat keliru; karena itu pengetahuan perlu diperiksa bersama sumber, alasan, dan kualitas pembenarannya.[^3]
+Semua hal di atas adalah fakta nyata yang dapat dilihat dan dihitung. Wilayah ini wajib dikelola dengan memanfaatkan ilmu pengetahuan, manajemen yang rapi, dan teknologi yang bermanfaat.
+
+Namun demikian, sesuatu yang dapat diukur tidak otomatis berarti kesimpulannya selalu benar. Panca indera manusia bisa keliru jika tidak diperiksa bersama akal budi, alasan yang logis, dan bukti yang sahih.[^2]
 
 ## Yang tidak ditangkap oleh indera
 
-Dalam worldview Islam, perkara **gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa, memiliki kedudukan berbeda. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman:
+Di samping hal-hal yang kasat mata, dalam worldview Islam ada **perkara gaib**, yaitu kenyataan mutlak yang berada di luar jangkauan pengamatan inderawi biasa. Al-Qur'an menyebut keimanan kepada yang gaib sebagai bagian dari ciri utama orang yang bertakwa:
 
-> “...beriman kepada yang gaib...”[^1]
+> الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
+>
+> *"(Yaitu) mereka yang beriman kepada yang gaib, melaksanakan shalat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka."* (QS. Al-Baqarah [2]: 3)[^3]
 
-Perkara gaib tidak ditetapkan hanya melalui pengamatan inderawi dan diketahui melalui wahyu yang sahih. Karena itu TUMBUH tidak perlu memaksa perkara gaib menjadi angka hanya agar dapat masuk ke sistem pengukuran.
+Perkara gaib tidak dapat diuji dengan alat ukur laboratorium dan diketahui melalui **wahyu yang sahih (*khabar shadiq*)** yang dibawa oleh para Nabi dan Rasul.[^4] Hal ini mencakup keberadaan malaikat pencatat amal, pertanyaan di alam kubur, hari kiamat, surga dan neraka, serta berkah dari amal kebajikan.
 
-Sebaliknya, sesuatu yang belum dapat dijelaskan secara empiris juga tidak otomatis boleh disebut perkara gaib. Ketidaktahuan kita bukan bukti dengan sendirinya.
+Oleh karena itu, TUMBUH tidak perlu memaksakan perkara gaib menjadi angka-angka hanya agar terlihat ilmiah. Kita tidak bisa dan tidak boleh membuat skor untuk "tingkat keikhlasan hati" atau "kedalaman tawakkal seorang santri", karena niat hati adalah rahasia antara hamba dengan Tuhannya.
 
-Dalam tradisi epistemologi Islam, wahyu, akal, dan pengalaman inderawi dibahas sebagai sumber atau sarana pengetahuan dengan fungsi dan batas yang berbeda. Literatur kontemporer tentang epistemologi Islam juga menekankan pentingnya menjaga hubungan antara wahyu, penalaran, dan pengalaman tanpa mencampuradukkan wilayahnya.[^4]
+Sebaliknya, sesuatu yang belum dapat kita jelaskan secara ilmiah juga tidak otomatis boleh disebut perkara gaib. Ketidaktahuan manusia bukan bukti adanya mukjizat atau gangguan mistis. Jika santri di asrama sering pingsan atau histeria, pengasuh tidak boleh langsung menyimpulkan adanya gangguan makhluk halus sebelum memeriksa ventilasi udara, tingkat kelelahan fisik santri, dan tekanan psikologis yang mungkin sedang dialami santri.
 
 ## Ketika pertanyaan berubah, cara mengetahuinya juga berubah
 
-Ada perbedaan antara bertanya **“apa yang terjadi?”**, **“apa yang seharusnya dilakukan?”**, dan **“apa yang termasuk perkara gaib?”**.
+Untuk menjaga kejernihan berpikir, kita perlu membedakan empat jenis pertanyaan yang sering muncul dalam kehidupan sehari-hari:[^5]
 
-Pertanyaan pertama membutuhkan penyelidikan terhadap kenyataan empiris. Pertanyaan kedua membutuhkan landasan normatif dan penalaran yang sesuai. **Normatif** di sini berarti berkaitan dengan apa yang dinilai benar, baik, layak, atau seharusnya. Pertanyaan ketiga berada pada wilayah yang ditentukan oleh wahyu yang sahih.
+1. **Pertanyaan Faktual: *"Apa yang sedang terjadi?"***  
+   Pertanyaan ini dijawab melalui pengamatan lapangan, catatan logbook musyrif, data kesehatan, atau wawancara langsung. Misalnya: *"Berapa banyak santri yang tidak masuk kelas karena sakit minggu ini?"*
+2. **Pertanyaan Normatif dan Etis: *"Apa yang seharusnya dilakukan?"***  
+   Pertanyaan ini dijawab melalui bimbingan wahyu, hukum syariat, dan prinsip adab. Misalnya: *"Bolehkah kakak kelas menghukum adik kelas dengan pukulan fisik?"* Jawabannya adalah tidak boleh, karena syariat mengharamkan menyakiti sesama dan merendahkan martabat manusia.
+3. **Pertanyaan Efektivitas: *"Apakah cara ini benar-benar berhasil?"***  
+   Pertanyaan ini tidak cukup dijawab dengan niat baik, melainkan membutuhkan bukti dan evaluasi nyata (*evidence*). Misalnya: *"Apakah jam bimbingan belajar tambahan malam hari benar-benar meningkatkan pemahaman santri atau justru membuat mereka kelelahan saat subuh?"*
+4. **Pertanyaan Transendental: *"Apa balasan di akhirat kelak?"***  
+   Pertanyaan ini dijawab dengan keimanan kepada firman Allah dan sabda Rasul-Nya yang shahih.
 
-Lalu ada pertanyaan seperti **“apakah program ini efektif?”**. Pertanyaan semacam ini tidak selesai dengan keyakinan bahwa program tersebut baik. Ia membutuhkan evidence dan evaluasi.
-
-Epistemology kemudian menjadi tempat TUMBUH membahas bagaimana berbagai jenis pengetahuan tersebut diperoleh, diperiksa, dan dinilai. Worldview di sini hanya menetapkan batas agar kita tidak salah memperlakukan jenis realitas dan jenis pertanyaan.
+Mencampuradukkan keempat pertanyaan ini akan menimbulkan kekacauan. Niat yang ikhlas (pertanyaan 4) tidak menggantikan kewajiban membuat metode belajar yang terbukti efektif (pertanyaan 3), dan tujuan yang baik tidak boleh dicapai dengan cara yang melanggar adab syariat (pertanyaan 2).
 
 ## Lalu apa akibatnya bagi pendidikan?
 
-Pendidikan TUMBUH boleh menilai perilaku, kemampuan, performa, dan kondisi belajar ketika hal tersebut relevan dan dapat didefinisikan dengan baik.
+Dengan memahami batas-batas ini, pendidikan pesantren dapat berjalan secara seimbang dan sehat:
 
-Tetapi apa yang mudah diukur tidak otomatis menjadi seluruh tujuan pendidikan. Nilai, amanah, orientasi moral, dan hubungan manusia dengan Allah tidak boleh dianggap hilang hanya karena tidak semuanya dapat direduksi menjadi skor.
+Pertama, **penilaian perilaku santri difokuskan pada adab yang teramati**. Guru dan musyrif menilai hal-hal yang konkret dan jelas: ketepatan waktu hadir, tutur kata yang santun, kepedulian menolong teman, dan kepatuhan pada kesepakatan bersama. Kita tidak menghakimi isi hati seseorang.
 
-Sebaliknya, ketika TUMBUH ingin mengatakan bahwa suatu intervensi memperbaiki perilaku atau meningkatkan outcome tertentu, bahasa worldview saja tidak cukup. Kita harus berpindah ke bahasa konstruk, evidence, assessment, dan research.
+Kedua, **hal yang mudah diukur tidak otomatis menjadi satu-satunya tujuan pendidikan**. Nilai ujian yang tinggi atau piala kejuaraan penting, namun kebersihan hati, kejujuran batin, dan keikhlasan beribadah tetap menjadi ruh utama yang terus disemai di pesantren.
 
-Dengan batas ini, TUMBUH dapat mempertahankan worldview Islam tanpa kehilangan disiplin ketika berhadapan dengan kenyataan yang dapat diteliti.
+Ketiga, **klaim keberhasilan program harus didukung bukti nyata**. Ketika pesantren ingin mengatakan bahwa sebuah program pembinaan berhasil mengurangi perselisihan di asrama, klaim tersebut harus didasarkan pada data dan catatan yang dapat dipertanggungjawabkan, bukan sekadar perasaan atau perkiraan pribadi.
 
-Dari sini pembahasan bergerak kembali kepada manusia: **siapa manusia yang hidup sekaligus dalam realitas yang teramati dan dalam orientasi kehidupan yang melampaui apa yang dapat ditangkap indera?**
+Dengan batas yang tertib ini, TUMBUH dapat memegang teguh aqidah Islam yang luhur tanpa kehilangan disiplin dan profesionalisme dalam mengelola kenyataan hidup santri.
 
-### Sumber yang digunakan
+Dari sini pembahasan bergerak kembali kepada manusia: **siapakah sebenarnya manusia yang hidup di tengah alam yang teramati ini dan sekaligus memiliki orientasi hidup menuju hal-hal yang melampaui dunia materi?**
 
-[^1]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
-[^3]: Stanford Encyclopedia of Philosophy. *Epistemology*, substantive revision 2024, bagian tentang sources of knowledge dan perception. https://plato.stanford.edu/entries/epistemology/
-[^4]: Basri, M., Fadriati, & Suryana, E. (2025). *Sources of Knowledge in Islam: Epistemology of Revelation, Reason, Senses, and Intuition*. At-Tasyrih, 11(2), 178–187. https://doi.org/10.55849/attasyrih.v11i2.353
+Pembahasan tersebut diuraikan pada berkas selanjutnya: `04-Manusia-dan-Kedudukannya-sebagai-Makhluk.md`.
+
+---
+
+### Sumber yang Digunakan (*Footnotes*)
+
+[^1]: Al-Attas, Syed Muhammad Naquib. (1980). *The Concept of Education in Islam*. Kuala Lumpur: ABIM, hlm. 14–22.
+[^2]: Stanford Encyclopedia of Philosophy. (2024). *Epistemology*. Substantive revision by Matthias Steup & Ram Neta. Diakses dari https://plato.stanford.edu/entries/epistemology/.
+[^3]: Al-Qur'an al-Karim, Surah Al-Baqarah [2] ayat 3.
+[^4]: Al-Taftazani, Sa'duddin Mas'ud bin Umar. (1418 H). *Syarh al-'Aqa'id an-Nasafiyyah*. Kairo: Maktabah al-Kulliyyat al-Azhariyyah, hlm. 18–25.
+[^5]: Basri, M., Fadriati, & Suryana, E. (2025). Sources of Knowledge in Islam: Epistemology of Revelation, Reason, Senses, and Intuition. *At-Tasyrih: Jurnal Tarbiyah dan Hukum Islam*, 11(2), 178–187. https://doi.org/10.55849/attasyrih.v11i2.353.

@@ -1,74 +1,95 @@
 # 01 — Definisi Realitas
 
-Sebelum TUMBUH berbicara tentang manusia dan pendidikan, ada pertanyaan yang lebih dasar: **kenyataan seperti apa yang sedang kita bicarakan?**
+Sebelum TUMBUH berbicara tentang manusia dan pendidikan, ada pertanyaan yang paling mendasar: **kenyataan seperti apa yang sebenarnya sedang kita bicarakan?**
 
-Pertanyaan ini bukan sekadar pertanyaan filsafat. Cara kita memandang kenyataan akan memengaruhi cara kita memahami manusia, kehidupan, nilai, dan pendidikan.
+Pertanyaan ini bukan sekadar permainan kata dalam filsafat. Cara kita memandang kenyataan (*realitas*) akan menentukan bagaimana kita memandang diri sendiri, orang lain, dan tujuan hidup. Jika kita memandang kenyataan hanya sebatas apa yang dapat dilihat mata atau dihitung dengan angka, maka kita akan memperlakukan manusia seperti benda atau angka statistik semata. Sebaliknya, jika kita memahami kenyataan secara utuh, kita akan memperlakukan kehidupan dan proses belajar dengan adil, mendalam, dan bertanggung jawab.
 
 ## Realitas tidak berdiri sendiri
 
-TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang kenyataan dan kehidupan. Dalam worldview Islam, **Allah adalah Al-Khaliq**, yaitu Pencipta, sedangkan segala sesuatu selain-Nya adalah **makhluk**, yaitu ciptaan-Nya.
+TUMBUH berangkat dari **worldview**, yaitu cara pandang mendasar tentang kenyataan dan kehidupan. Dalam worldview Islam, **Allah adalah Al-Khaliq**, yaitu Sang Maha Pencipta, sedangkan segala sesuatu selain-Nya adalah **makhluk**, yaitu ciptaan-Nya.[^1]
 
-> “Allah adalah Pencipta segala sesuatu.”[^1]
+Allah Subhanahu wa Ta'ala berfirman:
 
-Karena itu, manusia dan alam tidak dipahami sebagai sesuatu yang ada dengan sendirinya tanpa Pencipta. Kehidupan berlangsung dalam ciptaan Allah yang memiliki keteraturan, batas, dan ketentuan yang tidak seluruhnya berada dalam kendali manusia.
+> اللَّهُ خَالِقُ كُلِّ شَيْءٍ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ وَكِيلٌ
+>
+> *"Allah adalah Pencipta segala sesuatu dan Dia Maha Pemelihara atas segala sesuatu."* (QS. Az-Zumar [39]: 62)[^2]
 
-Manusia sendiri adalah bagian dari ciptaan tersebut. Ia dapat belajar dan berusaha, tetapi kemampuannya terbatas. Ia tidak menciptakan dunia tempat ia hidup, tidak menentukan seluruh keadaan yang dihadapinya, dan tidak menguasai seluruh hasil dari tindakannya.
+Karena Allah adalah Pencipta, maka alam semesta dan manusia tidak terjadi dengan sendirinya secara kebetulan tanpa arah. Kehidupan berlangsung di dalam ciptaan Allah yang memiliki tatanan, hukum keteraturan (*sunnatullah*), dan batasan yang tidak seluruhnya berada di bawah kendali manusia.[^3]
+
+Manusia sendiri adalah bagian dari ciptaan tersebut. Kita dapat belajar, berpikir, dan berusaha sekuat tenaga, tetapi kemampuan kita tetap terbatas. Kita tidak menciptakan dunia tempat kita hidup, tidak menentukan semua keadaan yang kita hadapi, dan tidak menguasai seluruh hasil akhir dari tindakan kita.
+
+Kesadaran ini menumbuhkan dua sikap penting sejak awal: **kesungguhan untuk terus belajar dan kerendahan hati bahwa manusia bukanlah penentu segalanya**.
 
 ## Realitas lebih luas daripada yang terlihat
 
-Sebagian kenyataan dapat kita amati melalui pengalaman, pengukuran, dokumentasi, dan penyelidikan. Tubuh manusia, perilaku, hubungan sosial, lingkungan belajar, proses pembelajaran, dan berbagai perubahan dalam kehidupan pendidikan termasuk di dalamnya.
+Sebagian kenyataan dapat kita amati secara langsung melalui panca indera, pengalaman harian, pengukuran, dan penelitian ilmiah. Tubuh manusia, perilaku lahiriah, pergaulan sosial, kondisi fisik asrama, proses belajar di kelas, serta perubahan nilai ujian adalah hal-hal yang dapat kita lihat, periksa, dan teliti. Ini disebut sebagai **alam syahadah** (realitas yang teramati).[^4]
 
-Namun worldview Islam tidak membatasi kenyataan pada apa yang dapat ditangkap oleh indera. Ada **perkara gaib**, yaitu perkara yang berada di luar jangkauan pengamatan inderawi biasa dan diketahui melalui wahyu yang sahih. Al-Qur'an menyebut iman kepada yang gaib sebagai bagian dari ciri orang beriman.[^2]
+Namun, pandangan hidup Islam tidak mempersempit kenyataan hanya pada hal-hal yang tampak oleh mata atau yang bisa diukur oleh timbangan laboratorium. Di samping yang teramati, ada **perkara gaib** (*alam al-ghaib*), yaitu kenyataan yang berada di luar jangkauan indera lahiriah manusia dan hanya dapat kita ketahui melalui wahyu yang benar (*khabar shadiq*).[^5] Al-Qur'an menegaskan bahwa keimanan kepada yang gaib merupakan ciri utama orang yang bertakwa:
 
-Karena itu, TUMBUH tidak boleh menyamakan “nyata” dengan “bisa diukur”. Tetapi kita juga tidak boleh menyebut sesuatu sebagai perkara gaib hanya karena kita belum mampu menjelaskannya. Tidak tahu bukan berarti gaib.
+> الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ
+>
+> *"(Yaitu) mereka yang beriman kepada yang gaib, melaksanakan shalat, dan menginfakkan sebagian rezeki yang Kami berikan kepada mereka."* (QS. Al-Baqarah [2]: 3)[^6]
 
-Dua sikap perlu berjalan bersama: **serius terhadap kenyataan yang dapat dipelajari dan rendah hati terhadap keterbatasan manusia.**
+Keberadaan malaikat yang mencatat perbuatan, pertanggungjawaban di hari akhirat, keikhlasan niat di dalam hati, serta berkah dan pertolongan Allah adalah kenyataan yang mutlak ada, meskipun tidak dapat kita foto dengan kamera atau kita ukur dengan angka.
+
+Karena itu, TUMBUH menjaga dua sikap yang seimbang:
+- **Jangan menyamakan "nyata" dengan "harus bisa diukur".** Hal-hal penting seperti cinta kasih, ketulusan doa, adab, dan kedamaian hati adalah hal yang sangat nyata, meskipun tidak berbentuk fisik.
+- **Jangan menyebut sesuatu sebagai "perkara gaib" hanya karena kita belum tahu atau malas mencari sebabnya.** Jika seorang santri sering pingsan, sakit, atau sulit berkonsentrasi di asrama, kita tidak boleh langsung menyalahkan hal-hal mistis sebelum memeriksa hal-hal nyata: apakah waktu tidurnya cukup? Apakah ia makan teratur? Dan apakah ada tekanan atau masalah yang sedang ia alami? Ketidaktahuan manusia tidak otomatis menjadikannya perkara gaib.
 
 ## Akal dan wahyu tidak harus ditempatkan sebagai lawan
 
-Tradisi intelektual Islam memiliki perdebatan panjang tentang bagaimana akal, pengalaman, dan wahyu berhubungan. Al-Ghazali, misalnya, menunjukkan bahwa manusia perlu menguji dasar-dasar keyakinannya dan tidak sekadar menerima sesuatu sebagai benar karena kebiasaan atau otoritas. Dalam *Al-Munqidh min al-Dalal*, ia bahkan menguji kembali keandalan pengalaman inderawi dan prinsip-prinsip rasional sebelum membahas tingkat pengetahuan yang lebih tinggi.[^4]
+Dalam sejarah pemikiran Islam, para ulama telah membahas secara mendalam bagaimana akal manusia dan wahyu Ilahi bekerja sama mencari kebenaran.
 
-Ibn Rushd mengambil tekanan yang berbeda: ia menekankan bahwa penggunaan penalaran yang benar tidak perlu dipertentangkan dengan wahyu. Dalam *Fasl al-Maqal*, hubungan antara syariat dan penalaran filosofis dibahas sebagai hubungan yang dapat saling menguatkan ketika masing-masing digunakan secara tepat.[^5]
+Imam Al-Ghazali (w. 505 H) dalam risalahnya *Al-Munqidh min ad-Dalal* menunjukkan bahwa manusia tidak boleh menerima sesuatu begitu saja hanya karena kebiasaan atau ikut-ikutan (*taklid*).[^7] Ia menguji keandalan pengamatan indera dan membuktikan bahwa indera sering kali keliru jika tidak dikoreksi oleh penalaran akal. Namun, Al-Ghazali juga menjelaskan bahwa kemampuan akal memiliki batas kodrati; akal membutuhkan bimbingan wahyu untuk memahami perkara ketuhanan dan keselamatan akhirat. Hubungan keduanya diibaratkan seperti mata dan cahaya: akal bagaikan mata yang sehat, sedangkan wahyu bagaikan cahaya penerang. Mata yang sehat tidak akan dapat melihat kebenaran jika berada dalam ruang yang gelap gulita tanpa cahaya.
 
-Dua tokoh ini tidak boleh diperlakukan seolah-olah mengatakan hal yang sama. Justru perbedaan mereka memperlihatkan bahwa tradisi Islam memiliki sejarah serius dalam membahas **bagaimana manusia mengetahui sesuatu dan apa batas akal**.
+Di sisi lain, Ibnu Rusyd (w. 595 H) dalam karyanya *Fashl al-Maqal* menekankan bahwa penalaran akal yang lurus tidak akan pernah bertentangan dengan syariat yang sahih.[^8] Keduanya berasal dari Allah, dan kebenaran sejati tidak mungkin mendustakan kebenaran lainnya.
 
-Bagi TUMBUH, wawasan ini membantu menjaga dua sikap sekaligus: **jangan mematikan akal atas nama agama, tetapi jangan pula menganggap kemampuan akal manusia tidak memiliki batas.** Pembahasan rinci tentang cara memperoleh dan menilai pengetahuan tetap menjadi pekerjaan Epistemology.
+Bagi TUMBUH, kedua wawasan ini mengajarkan hal yang sangat berharga: **jangan mematikan akal atas nama agama, tetapi jangan pula menganggap akal manusia mampu mengetahui segala hal tanpa bimbingan wahyu.** Santri dididik untuk berpikir kritis, gemar mencari ilmu, dan suka bertanya, sembari tetap menjaga ketundukan hati kepada petunjuk Allah.
 
 ## Dunia memiliki keteraturan, manusia memiliki ikhtiar
 
-Dunia ciptaan Allah memiliki keteraturan yang dapat dipelajari. Manusia dapat memperhatikan sebab dan akibat, belajar dari pengalaman, merencanakan tindakan, dan melakukan **ikhtiar**, yaitu usaha sadar untuk mencapai atau memperbaiki sesuatu.
+Dunia ciptaan Allah memiliki keteraturan yang dapat dipelajari. Api memiliki sifat membakar, air mengalir ke bawah, makanan memberi tenaga, dan belajar menambah pengetahuan. Dengan memahami keteraturan ini, manusia dapat merencanakan tindakan, mengambil pelajaran dari pengalaman, dan melakukan **ikhtiar**, yaitu usaha sadar dan sungguh-sungguh untuk mencapai kebaikan atau memperbaiki keadaan.
 
-Tetapi ikhtiar tidak sama dengan menguasai seluruh hasil. Manusia berusaha dalam kondisi yang tidak seluruhnya ia tentukan. Al-Qur'an mengingatkan bahwa manusia memperoleh sesuai dengan apa yang diusahakannya:
+Tetapi ikhtiar manusia tidak sama dengan menguasai seluruh hasil. Manusia berusaha di tengah berbagai keadaan yang tidak seluruhnya ia tentukan sendiri. Al-Qur'an mengingatkan:
 
-> “...manusia hanya memperoleh apa yang telah diusahakannya...”[^3]
+> وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ ۝ وَأَنَّ سَعْيَهُ سَوْفَ يُرَىٰ
+>
+> *"Dan bahwa manusia hanya memperoleh apa yang telah diusahakannya, dan bahwa usahanya itu kelak akan diperlihatkan (kepadanya)."* (QS. An-Najm [53]: 39–40)[^9]
 
-Bagi TUMBUH, hal ini membuat kita perlu membedakan **usaha, keadaan yang memengaruhi, dan hasil**. Ketiganya berhubungan, tetapi tidak sama.
+Bagi TUMBUH, ayat ini membimbing kita untuk membedakan tiga hal secara adil:[^10]
+1. **Usaha (Ikhtiar)**: Apa yang kita niatkan, pelajari, dan lakukan secara sungguh-sungguh. Inilah wilayah yang dinilai dan dihargai oleh Allah.
+2. **Kondisi yang Memengaruhi (Asbab)**: Lingkungan, latar belakang, kesehatan, dan faktor luar yang memengaruhi perjalanan kita.
+3. **Hasil Akhir (Takdir)**: Ketetapan yang sepenuhnya berada di bawah kekuasaan Allah.
 
-Karena itu keberhasilan tidak otomatis membuktikan bahwa seluruh prosesnya benar. Sebaliknya, kegagalan tidak otomatis berarti seseorang tidak bernilai atau tidak dapat berkembang.
+Dengan pembedaan ini, kita belajar untuk adil dalam memandang diri sendiri dan orang lain. Keberhasilan yang kita raih tidak boleh membuat kita sombong, karena di dalamnya ada pertolongan Allah dan bantuan banyak orang. Sebaliknya, ketika menghadapi kegagalan, kita tidak perlu merasa hancur atau kehilangan harga diri, melainkan menjadikannya bahan evaluasi untuk memperbaiki cara berusaha.
 
 ## Apa akibatnya bagi pendidikan?
 
-Kalau pendidikan berlangsung di dunia nyata, maka kondisi nyata peserta didik harus diperlakukan serius.
+Jika pendidikan berlangsung di dunia nyata, maka kenyataan hidup peserta didik harus diperlakukan secara sungguh-sungguh:
 
-Kualitas pengajaran, lingkungan belajar, relasi sosial, beban kegiatan, kondisi fisik, kesempatan berlatih, dan keadaan hidup peserta didik tidak boleh diabaikan hanya karena pendidikan memiliki orientasi spiritual.
+1. **Memperhatikan Kebutuhan Nyata Santri**  
+   Kesehatan fisik, kecukupan waktu istirahat, suasana kamar yang nyaman, kebersihan sanitasi, hubungan pertemanan yang sehat, dan metode mengajar guru adalah faktor nyata yang wajib diperhatikan. Kita tidak boleh mengabaikan hal-hal mendasar ini hanya dengan alasan bahwa "yang terpenting adalah niat batiniah".
+2. **Tidak Mengukur Manusia Hanya dengan Angka**  
+   Pendidikan tidak selesai hanya karena nilai ujian sudah keluar atau lembar laporan sudah diisi. Manusia memiliki jiwa, niat, adab, dan rasa tanggung jawab yang jauh lebih berharga daripada sekadar deretan angka di atas kertas.
+3. **Menghindari Dua Kesalahan Ekstrem**  
+   - Menganggap hanya hal-hal yang dapat dihitung atau diukur sebagai sesuatu yang penting; dan
+   - Mengabaikan kenyataan ilmiah, kesehatan, dan tata kelola dengan alasan berserah diri kepada takdir.
 
-Pada saat yang sama, pendidikan juga tidak selesai ketika semua hal yang dapat diukur sudah tercatat. Manusia memiliki nilai, amanah, tujuan hidup, dan tanggung jawab yang tidak semuanya dapat direduksi menjadi angka.
+Dengan pijakan ini, pembahasan berikutnya melangkah ke pertanyaan yang lebih terarah: **jika Allah adalah Al-Khaliq dan manusia adalah makhluk, bagaimana relasi ini menentukan martabat manusia, batas kewenangan pengasuhan di pesantren, dan etika memperlakukan sesama?**
 
-Dari sini TUMBUH perlu menghindari dua kesalahan:
+Pembahasan tersebut diuraikan pada berkas selanjutnya: `02-Allah-sebagai-Al-Khaliq-dan-Relasi-Khaliq-Makhluk.md`.
 
-- menganggap hanya yang dapat diukur sebagai sesuatu yang nyata atau penting; dan
-- mengabaikan kenyataan yang dapat dipelajari dengan alasan bahwa pendidikan menyangkut nilai dan spiritualitas.
+---
 
-Dengan pijakan ini, pembahasan berikutnya menjadi lebih spesifik: **jika Allah adalah Al-Khaliq dan manusia adalah makhluk, apa konsekuensinya bagi kedudukan manusia, martabat, kewenangan, dan ikhtiar?**
+### Sumber yang Digunakan (*Footnotes*)
 
-Pembahasan tentang **bagaimana manusia memperoleh dan memeriksa pengetahuan** tidak diselesaikan di sini. Itu menjadi pekerjaan Epistemology.
-
-[^1]: Al-Qur'an, QS. Az-Zumar [39]: 62.
-[^2]: Al-Qur'an, QS. Al-Baqarah [2]: 3.
-[^3]: Al-Qur'an, QS. An-Najm [53]: 39–40.
-[^4]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*). Lihat pembahasan tentang pencarian dasar kepastian dan pemeriksaan terhadap indera serta akal. Sumber teks: ghazali.org, https://www.ghazali.org/md-mcc-2/.
-[^5]: Ibn Rushd, *Fasl al-Maqal fi ma bayna al-Hikmah wa al-Shari'ah min al-Ittisal* (*The Decisive Treatise*). Lihat pembahasan tentang hubungan penalaran dan syariat. Kajian pendukung: Dar al-Ifta' Egypt, https://www.dar-alifta.org/en/article/details/362/islamic-philosophy; Tamtowi, M., *Keselarasan antara Syariah dan Falsafah*, https://jurnal.ar-raniry.ac.id/index.php/islamfutura/article/view/60.
-
-## Sumber yang memperkaya pembahasan
-
-Pembahasan ini menggunakan Al-Qur'an sebagai sumber primer untuk posisi teologis tentang Allah sebagai Pencipta, ciptaan, dan perkara gaib. Al-Ghazali dan Ibn Rushd digunakan untuk memperkaya sejarah pemikiran Islam tentang pengetahuan, akal, dan wahyu. Rumusan mengenai implikasinya bagi sistem TUMBUH merupakan sintesis TUMBUH sendiri.
+[^1]: Al-Attas, Syed Muhammad Naquib. (1995). *Prolegomena to the Metaphysics of Islam*. Kuala Lumpur: ISTAC, hlm. 1–15.
+[^2]: Al-Qur'an al-Karim, Surah Az-Zumar [39] ayat 62. Terjemahan Kementerian Agama RI.
+[^3]: Al-Zarkasyi, Badruddin Muhammad bin Abdullah. (1988). *Al-Burhan fi 'Ulum al-Qur'an*, Jilid 2. Beirut: Dar al-Fikr, hlm. 145–150.
+[^4]: Al-Raghib al-Ashfahani, Al-Husain bin Muhammad. (2009). *Al-Mufradat fi Gharib al-Qur'an*. Damaskus: Dar al-Qalam, hlm. 465 (entri kata *sy-h-d*).
+[^5]: Al-Taftazani, Sa'duddin Mas'ud bin Umar. (1418 H). *Syarh al-'Aqa'id an-Nasafiyyah*. Kairo: Maktabah al-Kulliyyat al-Azhariyyah, hlm. 15–22.
+[^6]: Al-Qur'an al-Karim, Surah Al-Baqarah [2] ayat 3.
+[^7]: Al-Ghazali, Abu Hamid Muhammad bin Muhammad. (1967). *Al-Munqidh min ad-Dalal*. Beirut: Dar al-Andalus, hlm. 65–82.
+[^8]: Ibn Rusyd, Abu al-Walid Muhammad bin Ahmad. (1999). *Fashl al-Maqal fi ma bayna al-Hikmah wa asy-Syari'ah min al-Ittisal*. Kairo: Dar al-Ma'arif, hlm. 29–33.
+[^9]: Al-Qur'an al-Karim, Surah An-Najm [53] ayat 39–40.
+[^10]: Ibnu Rajab al-Hanbali, Zainuddin Abdurrahman bin Ahmad. (2001). *Jami' al-'Ulum wal-Hikam*, Jilid 2. Beirut: Mu'assasah ar-Risalah, hlm. 496–505.
