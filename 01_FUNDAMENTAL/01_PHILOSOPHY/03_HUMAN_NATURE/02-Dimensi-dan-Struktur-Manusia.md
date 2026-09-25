@@ -27,14 +27,21 @@ Manusia diciptakan dengan raga jasmani yang tunduk pada hukum-hukum biologi. San
 ### 2. Akal dan Kapasitas Kognitif (*Al-'Aql*)
 Akal adalah instrumen anugerah Allah untuk memahami teks, menyerap ilmu syariat, mengingat materi, menalar sebab-akibat, dan menimbang maslahat serta mudarat.[^3] Pada masa remaja, bagian otak depan (*prefrontal cortex*) yang berfungsi untuk perencanaan jangka panjang dan pengendalian impuls masih berada dalam fase pematangan intensif (*neuroplasticity*).[^4] Santri sering kali baru mampu memahami konsep secara logis namun masih membutuhkan latihan terstruktur untuk menerapkannya secara konsisten.
 
-### 3. Kehidupan Batin, Ruhani, dan Emosi (*Al-Qalb*)
+### 3. Kehidupan Batin, Ruhani, dan Emosi (*Al-Qalb wa An-Nafs*)
 Dalam khazanah Islam, *qalb* adalah poros terdalam manusia tempat bersemayamnya keimanan, niat, keikhlasan, rasa cinta, empati, serta kecenderungan moral.[^5] Namun kalbu juga mengalami dinamika perubahan (*taqallub*): rasa cemas, rindu rumah (*homesickness*), takut gagal, atau kesedihan akibat perselisihan. Kehidupan emosional dan spiritual ini tidak dapat dipisahkan; santri yang batinnya dipenuhi ketakutan dan tekanan psikologis tidak akan mampu menyerap ilmu dengan tenang (*thuma'ninah*).
+
+Al-Qur'an menggambarkan bahwa batin manusia mengalami tiga tingkatan pergulatan jiwa (*ahwal an-nafs*):[^6]
+- **Nafs Ammarah bis-Su'** (QS. Yusuf [12]: 53): Dorongan hawa nafsu primitif yang mendesak pada kesenangan instan, kemalasan, kemarahan, dan pelanggaran adab.
+- **Nafs Lawwamah** (QS. Al-Qiyamah [75]: 2): Suara hati nurani yang mencela perbuatan buruk diri sendiri dan memantik rasa penyesalan mendalam setelah berbuat khilaf. Bagi santri usia remaja, hadirnya *nafs lawwamah* adalah tanda bahwa fitrah kebaikannya masih sangat hidup.
+- **Nafs Muthma'innah** (QS. Al-Fajr [89]: 27): Jiwa yang telah mencapai ketenangan, kestabilan emosi, dan keteguhan iman yang kokoh dalam berpegang pada keridhaan Allah Ta'ala.
+
+Pendidikan pesantren bertugas mendampingi santri agar mampu menundukkan gejolak *ammarah*, menyuburkan kepekaan *lawwamah*, menuju puncak ketentraman *muthma'innah*.
 
 ### 4. Kehendak, Niat, dan Regulasi Diri (*Al-Iradah*)
 Mengetahui apa yang benar (*'aql*) dan merasakan dorongan kebaikan (*qalb*) belum otomatis mewujud menjadi perbuatan tanpa adanya **iradah**—yakni tekad kehendak untuk memilih dan mengarahkan daya tubuh untuk bertindak (*agency*). Disiplin sejati lahir ketika kehendak santri telah terlatih untuk menahan dorongan hawa nafsu sesaat (*self-regulation*) demi meraih tujuan kebaikan yang lebih luhur.
 
 ### 5. Perilaku Nyata dan Pembiasaan (*Al-'Amal wa al-'Adah*)
-Perbuatan lahiriah adalah muara nyata dari kerja sama antara fisik, akal, kalbu, dan kehendak. Sebuah pilihan baik yang diulang-ulang secara konsisten dalam suasana yang menyenangkan akan membatu menjadi **kebiasaan karakter (*malakah / 'adah*)**.[^6] Karakter mulia (*akhlaq karimah*) bukan sekadar teori yang dihafal, melainkan respon perilaku spontan yang mengalir dari jiwa yang telah terlatih.
+Perbuatan lahiriah adalah muara nyata dari kerja sama antara fisik, akal, kalbu, dan kehendak. Sebuah pilihan baik yang diulang-ulang secara konsisten dalam suasana yang menyenangkan akan membatu menjadi **kebiasaan karakter (*malakah / 'adah*)**.[^7] Karakter mulia (*akhlaq karimah*) bukan sekadar teori yang dihafal, melainkan respon perilaku spontan yang mengalir dari jiwa yang telah terlatih.
 
 ### 6. Relasi Sosial dan Lingkungan Pengasuhan (*Al-Bi'ah*)
 Manusia tidak pernah hidup dalam ruang hampa. Hubungan santri dengan orang tua di rumah, interaksi dengan teman sekamar, kehangatan musyrif, serta iklim budaya asrama secara konstan membentuk cara santri memandang dirinya sendiri. Lingkungan yang aman (*safe environment*), adil, dan penuh keteladanan (*qudwah hasanah*) akan menyuburkan benih-benih fitrah kebaikan santri.
@@ -81,4 +88,6 @@ Pemahaman tentang keutuhan dimensi ini mengantarkan kita pada pembahasan yang le
 
 [^5]: Hadits Riwayat Al-Bukhari no. 52 dan Muslim no. 1599 dari Nu'man bin Basyir radhiyallahu 'anhu: *"Ketahuilah bahwa di dalam tubuh ada segumpal daging; jika ia baik, maka baiklah seluruh tubuh itu, dan jika ia rusak, maka rusaklah seluruh tubuh itu. Ketahuilah, ia adalah kalbu (al-qalb)."*
 
-[^6]: Abu Ali Ahmad bin Muhammad Miskawaih, *Tahdzib al-Akhlaq wa Tath-hir al-A'raq*, diedit oleh 'Imad al-Hilali, Beirut: Dar al-Kutub al-'Ilmiyyah, 2011, hlm. 35–42, mengenai pembentukan malakah akhlaq melalui pembiasaan amal nyata dan latihan jiwa (*riyadhah*).
+[^6]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, diedit oleh Muhammad Hamid al-Fiqi, Beirut: Dar al-Ma'rifah, 1975, Jilid 1, hlm. 74–85 mengenai pembagian tiga martabat nafs dalam Al-Qur'an: *al-ammarah*, *al-lawwamah*, dan *al-muthma'innah*.
+
+[^7]: Abu Ali Ahmad bin Muhammad Miskawaih, *Tahdzib al-Akhlaq wa Tath-hir al-A'raq*, diedit oleh 'Imad al-Hilali, Beirut: Dar al-Kutub al-'Ilmiyyah, 2011, hlm. 35–42, mengenai pembentukan malakah akhlaq melalui pembiasaan amal nyata dan latihan jiwa (*riyadhah*).

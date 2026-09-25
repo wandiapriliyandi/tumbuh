@@ -63,17 +63,27 @@ $$يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَك�
 
 > *"Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya (tabayyun), agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu."* (QS. Al-Hujurat [49]: 6)
 
+## Jabatan Struktural dan Kekuatan Simbolik Bukan Bukti Kebenaran
+
+Dalam dinamika sosial pesantren, penghormatan kepada kiai, asatidz senior, dan pimpinan pondok merupakan bagian luhur dari adab penuntut ilmu. TUMBUH memuliakan tradisi ta'zhim ini. Namun, adab menghormati guru tidak boleh disalahartikan menjadi tirani epistemik yang menutup mata dari kenyataan fakta.[^7]
+
+Ada bahaya laten di mana **kewenangan struktural mengambil keputusan (*authority to decide*)** diam-diam dibelokkan menjadi **hak memonopoli kebenaran (*authority to define truth*)**.[^8] 
+
+Seorang pimpinan pesantren memiliki mandat struktural untuk menetapkan tata tertib asrama, namun mandat jabatan tersebut tidak otomatis menjadikan setiap pendapat pribadinya tentang psikologi santri pasti benar secara ilmiah. Sebaliknya, seorang musyrif muda atau bahkan santri jenjang J2 yang sehari-hari tinggal di kamar asrama mungkin tidak memiliki kuasa administratif, tetapi pengamatan langsungnya mengandung bukti faktual yang jauh lebih akurat tentang apa yang sebenarnya terjadi di kamar mandi atau ranjang asrama.
+
+Oleh sebab itu, TUMBUH menetapkan kaidah: **Kebenaran sebuah klaim empiris ditentukan oleh kesahihan bukti dan kejernihan nalar pembuktiannya, bukan oleh tingginya jabatan atau gelar simbolik orang yang mengucapkannya.** Memeriksa kembali sebuah gagasan lama demi kemaslahatan santri bukanlah bentuk pembangkangan (*su'ul adab*), melainkan puncak kesetiaan terhadap amanah keilmuan yang diajarkan para ulama.
+
 ## Pemeriksaan Ilmiah Tidak Memiliki Satu Resep Tunggal
 
-Dalam sains modern, pengamatan terencana, eksperimen terkontrol, pemodelan matematis, dan pengujian hipotesis adalah pilar utama pengembangan ilmu. Namun, para filsuf sains sepakat bahwa tidak ada satu "resep tunggal" yang kaku dan seragam untuk menjawab seluruh misteri alam dan perilaku manusia.[^7] Pendekatan fisika eksperimental tidak bisa disalin-tempel begitu saja untuk memahami pergulatan batin santri yang mengalami tekanan mental (*homesickness*).
+Dalam sains modern, pengamatan terencana, eksperimen terkontrol, pemodelan matematis, dan pengujian hipotesis adalah pilar utama pengembangan ilmu. Namun, para filsuf sains sepakat bahwa tidak ada satu "resep tunggal" yang kaku dan seragam untuk menjawab seluruh misteri alam dan perilaku manusia.[^9] Pendekatan fisika eksperimental tidak bisa disalin-tempel begitu saja untuk memahami pergulatan batin santri yang mengalami tekanan mental (*homesickness*).
 
-TUMBUH menolak saintisme sempit—yaitu anggapan keliru bahwa sesuatu hanya boleh dianggap bernilai ilmiah jika dapat diukur dalam angka kuantitatif laboratorium. Bagi TUMBUH, tanda keilmiahan sejati bukanlah penggunaan istilah-istilah asing yang rumit atau grafik yang mencolok, melainkan **ketepatan metode dengan persoalan yang diteliti, kejujuran penyajian data, serta kesahihan nalar yang menghubungkan bukti dengan kesimpulan**.[^8]
+TUMBUH menolak saintisme sempit—yaitu anggapan keliru bahwa sesuatu hanya boleh dianggap bernilai ilmiah jika dapat diukur dalam angka kuantitatif laboratorium. Bagi TUMBUH, tanda keilmiahan sejati bukanlah penggunaan istilah-istilah asing yang rumit atau grafik yang mencolok, melainkan **ketepatan metode dengan persoalan yang diteliti, kejujuran penyajian data, serta kesahihan nalar yang menghubungkan bukti dengan kesimpulan**.[^10]
 
 ## Dari Al-Ghazali Kita Belajar Kehati-hatian Epistemik
 
-Hujjatul Islam Imam Al-Ghazali (450–505 H / 1058–1111 M) memberikan teladan agung mengenai kejujuran intelektual dan ketelitian memeriksa dasar keyakinan. Dalam otobiografi intelektualnya, *Al-Munqidh min al-Dalal*, beliau menguji secara radikal segala hal yang semula beliau anggap sebagai kepastian—mulai dari informasi indrawi yang sering menipu hingga dalil-dalil rasional murni—guna menemukan landasan pengetahuan yang kokoh dan bebas dari keraguan (*al-'ilm al-yaqini*).[^9]
+Hujjatul Islam Imam Al-Ghazali (450–505 H / 1058–1111 M) memberikan teladan agung mengenai kejujuran intelektual dan ketelitian memeriksa dasar keyakinan. Dalam otobiografi intelektualnya, *Al-Munqidh min al-Dalal*, beliau menguji secara radikal segala hal yang semula beliau anggap sebagai kepastian—mulai dari informasi indrawi yang sering menipu hingga dalil-dalil rasional murni—guna menemukan landasan pengetahuan yang kokoh dan bebas dari keraguan (*al-'ilm al-yaqini*).[^11]
 
-Lebih lanjut, dalam karya metodologi logikanya, *Mi'yar al-'Ilm* dan *Mihakk an-Nazar*, Al-Ghazali mengajarkan bagaimana membedakan antara argumentasi pembuktian sejati (*burhan*), retorika persuasif (*khitabah*), dialektika perdebatan (*jadal*), dan kerancuan berpikir yang menyesatkan (*mughalathah* / *syubhat*).[^10]
+Lebih lanjut, dalam karya metodologi logikanya, *Mi'yar al-'Ilm* dan *Mihakk an-Nazar*, Al-Ghazali mengajarkan bagaimana membedakan antara argumentasi pembuktian sejati (*burhan*), retorika persuasif (*khitabah*), dialektika perdebatan (*jadal*), dan kerancuan berpikir yang menyesatkan (*mughalathah* / *syubhat*).[^12]
 
 TUMBUH memetik pelajaran berharga dari warisan intelektual Al-Ghazali: **tingkat keyakinan kita terhadap suatu pernyataan harus sepadan dengan kekuatan bukti dan keabsahan dalil yang menopangnya**. Apabila dasar buktinya masih berupa dugaan awal (*zhann*), bahasa kesimpulan kita wajib mencerminkan kehati-hatian tersebut, bukan memaksakan nada kepastian dogmatis.
 
@@ -110,10 +120,14 @@ Dengan kebiasaan epistemik yang berakar kokoh ini, ekosistem TUMBUH terlindungi 
 
 [^6]: C. A. J. Coady, *Testimony: A Philosophical Study*, Oxford: Oxford University Press, 1992; lihat pula Stanford Encyclopedia of Philosophy (SEP), “Epistemological Problems of Testimony,” edisi revisi 2024. https://plato.stanford.edu/entries/testimony-episprob/
 
-[^7]: Stanford Encyclopedia of Philosophy (SEP), “Scientific Method,” edisi revisi 2025, mengenai keanekaragaman metodologi dalam sains serta ketiadaan algoritma universal tunggal bagi penyelidikan ilmiah. https://plato.stanford.edu/entries/scientific-method/
+[^7]: Abu Umar Yusuf bin Abdil Barr, *Jami' Bayan al-'Ilm wa Fadhlih*, diedit oleh Abul Asybal az-Zuhairi, Riyadh: Dar Ibn al-Jauzi, 1994, Jilid 2, bab adab menuntut ilmu dan larangan taqlid buta yang menolak dalil shahih.
 
-[^8]: Susan Haack, *Defending Science—Within Reason: Between Scientism and Cynicism*, Amherst: Prometheus Books, 2003, Bab 1–3 mengenai batas-batas saintisme dan integritas inkuiri empiris.
+[^8]: Penyelidikan arsitektur TUMBUH mengenai relasi kuasa dan pengetahuan diatur pada penyelidikan [P0213](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_02/P0213-Bagaimana-TUMBUH-Mencegah-Kekuatan-Struktural-dan-Simbolik-Menguasai-Pembentukan-Pengetahuan-Bersama.md) dan pedoman [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md).
 
-[^9]: Abu Hamid Al-Ghazali, *Al-Munqidh min al-Dalal wa al-Mufshih 'an al-Ahwal*, diedit oleh Jamil Shaliba & Kamil 'Ayyad, Beirut: Dar al-Andalus, 1967, hlm. 65–75; edisi terjemahan Inggris: *Deliverance from Error*, penerj. Richard J. McCarthy, Boston: Twayne Publishers, 1980.
+[^9]: Stanford Encyclopedia of Philosophy (SEP), “Scientific Method,” edisi revisi 2025, mengenai keanekaragaman metodologi dalam sains serta ketiadaan algoritma universal tunggal bagi penyelidikan ilmiah. https://plato.stanford.edu/entries/scientific-method/
 
-[^10]: Abu Hamid Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Manthiq*, diedit oleh Ahmad Syamsuddin, Beirut: Dar al-Kutub al-'Ilmiyyah, 1990; dan *Mihakk an-Nazar fi al-Manthiq*, diedit oleh Muhammad Badruddin an-Na'sani, Beirut: Dar an-Nahdah al-Haditsah, 1966.
+[^10]: Susan Haack, *Defending Science—Within Reason: Between Scientism and Cynicism*, Amherst: Prometheus Books, 2003, Bab 1–3 mengenai batas-batas saintisme dan integritas inkuiri empiris.
+
+[^11]: Abu Hamid Al-Ghazali, *Al-Munqidh min al-Dalal wa al-Mufshih 'an al-Ahwal*, diedit oleh Jamil Shaliba & Kamil 'Ayyad, Beirut: Dar al-Andalus, 1967, hlm. 65–75; edisi terjemahan Inggris: *Deliverance from Error*, penerj. Richard J. McCarthy, Boston: Twayne Publishers, 1980.
+
+[^12]: Abu Hamid Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Manthiq*, diedit oleh Ahmad Syamsuddin, Beirut: Dar al-Kutub al-'Ilmiyyah, 1990; dan *Mihakk an-Nazar fi al-Manthiq*, diedit oleh Muhammad Badruddin an-Na'sani, Beirut: Dar an-Nahdah al-Haditsah, 1966.

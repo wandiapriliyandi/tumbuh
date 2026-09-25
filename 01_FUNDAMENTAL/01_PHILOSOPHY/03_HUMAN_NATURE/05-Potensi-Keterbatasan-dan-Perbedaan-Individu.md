@@ -51,6 +51,14 @@ $$قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَ�
 
 Imam Badruddin Ibnu Jama'ah (639–733 H) dalam kitab monumentalnya *Tadzkirat as-Sami' wa al-Mutakallim* memberikan wasiat emas kepada para guru pesantren: seorang pendidik wajib mengenali perbedaan watak, daya tangkap, dan kematangan akal setiap muridnya, serta dilarang keras memaksakan satu metode yang kaku kepada semua santri secara seragam.[^5]
 
+## Mengakomodasi Keragaman Neurodivergen dan Jejak Trauma (*Trauma-Informed Care*)
+
+Keberagaman fitrah di pesantren kontemporer menuntut kesadaran psikopedagogis yang lebih peka. Setiap santri yang melangkahkan kaki melewati gerbang pesantren membawa lembaran sejarah hidup yang tidak sama:[^6]
+- **Jejak Trauma Pengasuhan (*Adverse Childhood Experiences / ACEs*)**: Sebagian santri mungkin pernah mengalami kekerasan verbal di rumah, perceraian orang tua yang menyakitkan, atau perundungan berat di sekolah sebelumnya. Santri dengan riwayat luka batin ini sering kali memiliki sistem saraf yang berada dalam mode siaga tinggi (*hyper-vigilance*). Ledakan emosi atau sikap menarik diri yang mereka tunjukkan bukanlah pembangkangan adab, melainkan respon pertahanan diri yang membutuhkan ruang rasa aman (*psychological safety*).
+- **Variasi Pemrosesan Sensori dan Atensi (*Neurodivergence*)**: Sebagian santri memiliki profil neurobiologis yang unik—seperti rentang atensi yang mudah terdistraksi (ADHD) atau hipersensitivitas terhadap kebisingan dan keramaian asrama. Memaksa mereka duduk diam selama berjam-jam tanpa jeda gerak fisik justru memicu kelelahan kognitif ekstrem (*sensory overload*).
+
+Pengasuh TUMBUH memegang kaidah kasih sayang: *"Anak-anak akan berbuat baik jika mereka mampu melakukannya (kids do well if they can)."*[^7] Tugas sistem pembinaan bukanlah melipatgandakan hukuman bagi santri yang terluka, melainkan menyediakan tangga penyesuaian (*reasonable accommodations*) agar setiap jiwa menemukan jalan kembali pada ketenangan fitrahnya.
+
 ## Bahaya Pelabelan Permanen (*Labeling*)
 
 Salah satu kebiasaan buruk yang paling merusak jiwa santri di lingkungan pendidikan adalah kebiasaan memberi label stempel permanen:
@@ -58,7 +66,7 @@ Salah satu kebiasaan buruk yang paling merusak jiwa santri di lingkungan pendidi
 - *"Kamu ini memang kepala batu, tidak akan pernah bisa jadi orang benar!"*
 - *"Dia ini anak pintar kesayangan asrama."*
 
-Dalam psikologi perkembangan modern, pelabelan negatif semacam ini melahirkan racun mental yang disebut **Fixed Mindset** dan **Self-Fulfilling Prophecy** (ramalan yang mewujud karena terus diyakini).[^6] Ketika seorang santri usia 15 tahun berulang kali dicap sebagai "anak nakal", sistem kognitif dan emosionalnya akan menyerah dan meyakini: *"Untuk apa aku berusaha shalat tepat waktu, toh semua orang sudah menganggapku anak rusak."* Label tersebut mengunci pintu pertumbuhannya.
+Dalam psikologi perkembangan modern, pelabelan negatif semacam ini melahirkan racun mental yang disebut **Fixed Mindset** dan **Self-Fulfilling Prophecy** (ramalan yang mewujud karena terus diyakini).[^8] Ketika seorang santri usia 15 tahun berulang kali dicap sebagai "anak nakal", sistem kognitif dan emosionalnya akan menyerah dan meyakini: *"Untuk apa aku berusaha shalat tepat waktu, toh semua orang sudah menganggapku anak rusak."* Label tersebut mengunci pintu pertumbuhannya.
 
 TUMBUH menegakkan disiplin pemisahan yang tegas:
 
@@ -96,4 +104,8 @@ Dari kesadaran akan keterbatasan dan potensi ini, sebuah kenyataan tak terelakka
 
 [^5]: Badruddin Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*, diedit oleh Muhammad Mahdi al-Ajmi, Beirut: Dar al-Basyair al-Islamiyyah, 2012, hlm. 54–60 mengenai etika mu'allim dalam memahami disparitas kemampuan daya tangkap para murid di majelis ilmu.
 
-[^6]: Carol S. Dweck, *Mindset: The New Psychology of Success*, New York: Random House, 2006, Bab 1 & 3; bandingkan dengan Robert K. Merton, *Social Theory and Social Structure*, New York: Free Press, 1968, mengenai konsep sosiologis self-fulfilling prophecy.
+[^6]: Vincent J. Felitti et al., “Relationship of Childhood Abuse and Household Dysfunction to Many of the Leading Causes of Death in Adults: The Adverse Childhood Experiences (ACE) Study,” *American Journal of Preventive Medicine*, Vol. 14, No. 4, 1998, hlm. 245–258; mengenai dampak neurobiologis trauma masa kanak-kanak.
+
+[^7]: Ross W. Greene, *The Explosive Child: A New Approach for Understanding and Parenting Easily Frustrated, Chronically Inflexible Children*, New York: HarperCollins, edisi ke-6, 2021, Bab 1 & 2 mengenai filosofi kolaboratif penanganan anak bermasalah perilaku.
+
+[^8]: Carol S. Dweck, *Mindset: The New Psychology of Success*, New York: Random House, 2006, Bab 1 & 3; bandingkan dengan Robert K. Merton, *Social Theory and Social Structure*, New York: Free Press, 1968, mengenai konsep sosiologis self-fulfilling prophecy.

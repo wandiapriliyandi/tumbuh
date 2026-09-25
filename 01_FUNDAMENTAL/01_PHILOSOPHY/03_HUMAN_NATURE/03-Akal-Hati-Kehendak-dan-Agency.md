@@ -97,6 +97,24 @@ Untuk menumbuhkan agensi mandiri ini, santri tidak cukup hanya dijejali tumpukan
 3. Mengalami konsekuensi logis yang mendidik saat keliru memilih;
 4. Didampingi untuk bermuhasabah mengevaluasi apa yang dapat diperbaiki di masa depan.
 
+## Waspada Kamuflase Adab: Membedakan Pemahaman Sejati dari Kepatuhan Bentuk
+
+Dalam kehidupan asrama yang sarat aturan, para pendidik perlu mewaspadai bahaya **kamuflase adab (*superficial compliance*)**.[^7] Santri yang cerdas secara kognitif dapat dengan cepat belajar menampilkan jawaban lisan dan bahasa tubuh yang menyenangkan musyrif semata-mata demi menghindari teguran atau mencari pujian (*impression management*), padahal batinnya belum memahami nilai hakiki dari adab tersebut.
+
+TUMBUH membedakan tanda kepatuhan bentuk dengan pemahaman sejati melalui tiga indikator operasional:
+
+```text
+DIMENSI UJI          KEPATUHAN BENTUK (KAMUFLASE)          PEMAHAMAN SEJATI (RUSYD)
+─────────────────    ───────────────────────────────       ───────────────────────────────
+Saat Diawasi         Sangat santun & patuh                 Tenang & konsisten
+Saat Sendirian       Kembali melanggar aturan              Tetap menjaga adab (muraqabah)
+Menghadapi Kasus     Bingung atau kaku menerapkan          Mampu menalar maslahat dan
+Baru (Tanpa SOP)     aturan lama secara membabi buta       memilih solusi adab yang bijak
+Alasan Bertindak     "Karena memang disuruh musyrif"       "Karena ini hak sesama & ridha Allah"
+```
+
+Jika seorang santri hanya patuh ketika diawasi, maka agensi kemandiriannya belum terbentuk. Pendidik TUMBUH tidak berpuas diri hanya melihat asrama tampak tenang di permukaan; yang kita bangun adalah **kesadaran tauhid dan regulasi diri di kedalaman kalbu santri** yang akan bertahan seumur hidupnya.
+
 Pertanyaan esensial berikutnya: jika agensi manusia bertumbuh melalui pilihan dan latihan, **sejauh mana pertumbuhan agensi tersebut dipengaruhi oleh kualitas relasi dengan orang lain dan iklim lingkungan tempat santri hidup?**
 
 ---
@@ -114,3 +132,5 @@ Pertanyaan esensial berikutnya: jika agensi manusia bertumbuh melalui pilihan da
 [^5]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-'Aqa'id an-Nasafiyyah*, Kairo: Maktabah al-Kulliyyat al-Azhariyyah, 1420 H / 2000 M, hlm. 78–85, bab *Af'al al-'Ibad wa Mas'alat al-Kasb*, menegaskan bahwa perbuatan hamba diciptakan Allah namun diusahakan (*maksub*) oleh kehendak dan daya pilih manusia yang melahirkan pertanggungjawaban hukum.
 
 [^6]: Laurence Steinberg, *Age of Opportunity: Lessons from the New Science of Adolescence*, Boston: Houghton Mifflin Harcourt, 2014, Bab 3 mengenai dinamika perkembangan sistem sosio-emosional otak remaja dan kerentanan terhadap pengaruh rekan sebaya.
+
+[^7]: Penyelidikan arsitektur TUMBUH mengenai perbedaan antara pemahaman sejati dan kepatuhan kosmetik diatur pada penyelidikan [P0209](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_02/P0209-Bagaimana-TUMBUH-Membedakan-Pemahaman-yang-Benar-benar-Tumbuh-dari-Sekadar-Kepatuhan.md) dan pedoman kemandirian santri pada modul `01_FUNDAMENTAL/`.

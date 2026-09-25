@@ -85,6 +85,15 @@ Ketegasan epistemik TUMBUH diwujudkan dalam etika berbahasa. Penulis dokumen, pe
 
 Kejujuran bahasa ini bukan sekadar persoalan estetika tulisan sastra, melainkan cermin ketaqwaan intelektual (*al-amanah al-'ilmiyyah*) untuk menjaga agar para pembina tidak menipu diri sendiri maupun umat dengan janji-janji semu.
 
+## Menghargai Temuan Negatif: Belajar dari Intervensi yang Gagal
+
+Salah satu penyakit laten dalam institusi pendidikan adalah **bias publikasi (*publication bias*)** atau budaya menutupi kegagalan: laporan program yang berhasil dipamerkan secara berlebihan, sedangkan intervensi yang gagal disembunyikan atau dihapus dari arsip logbook karena dianggap aib kelembagaan.[^5]
+
+TUMBUH memandang data kegagalan secara terhormat:
+- **Temuan Negatif (*Negative Findings*)**: Fakta bahwa sebuah metode pengasuhan tertentu ternyata tidak membuahkan hasil pada santri usia 13 tahun adalah **pengetahuan empiris yang sangat berharga**.
+- Mencatat kegagalan secara transparan melindungi generasi asatidz berikutnya agar tidak mengulangi lubang kezaliman atau kesia-siaan yang sama di masa depan.[^6]
+- Intervensi yang gagal tidak boleh dijadikan alasan untuk menyalahkan santri, melainkan menjadi dasar untuk memeriksa kembali kecocokan instrumen, kesiapan musyrif, dan konteks asrama.
+
 ## Dari Bukti Menuju Pengambilan Keputusan (*Evidence Registry*)
 
 TUMBUH tidak mengoleksi tumpukan bukti dan data sekadar untuk memamerkan kecanggihan administrasi atau arsip akreditasi. Seluruh pencatatan bukti diarahkan untuk melayani pengambilan keputusan pengasuhan yang berkeadilan: mendiagnosis kebutuhan santri, menentukan bentuk pendampingan, mengevaluasi efektivitas halaqah, serta memperbaiki kurikulum pesantren secara berkesinambungan.
@@ -93,7 +102,7 @@ Mata rantai penalarannya tertata secara runtut dan transparan:
 
 $$\text{Pertanyaan Lapangan} \longrightarrow \text{Klaim Awal} \longrightarrow \text{Pengumpulan Evidence} \longrightarrow \text{Penilaian Bobot Bukti} \longrightarrow \text{Penarikan Kesimpulan} \longrightarrow \text{Keputusan Tindakan}$$
 
-Karena setiap tahap dalam rantai tersebut rentan disusupi kealpaan manusia (*human error*), maka sistem TUMBUH mewajibkan penyimpanan jejak penalaran tersebut ke dalam **Evidence Registry**.[^5] 
+Karena setiap tahap dalam rantai tersebut rentan disusupi kealpaan manusia (*human error*), maka sistem TUMBUH mewajibkan penyimpanan jejak penalaran tersebut ke dalam **Evidence Registry**—termasuk di dalamnya mencatat intervensi yang berhasil maupun yang gagal.[^7] 
 
 Dengan adanya buku induk pencatatan bukti ini, setiap keputusan penting di pesantren memiliki jejak rekam yang terang benderang. Apabila di masa mendatang ditemukan data baru yang lebih akurat, pesantren dengan rendah hati dapat meninjau ulang keputusannya tanpa rasa malu, demi kemaslahatan pertumbuhan fitrah santri yang diamanahkan Allah Subhanahu wa Ta'ala.
 
@@ -109,4 +118,8 @@ Dengan adanya buku induk pencatatan bukti ini, setiap keputusan penting di pesan
 
 [^4]: John W. Creswell & Vicki L. Plano Clark, *Designing and Conducting Mixed Methods Research*, edisi ke-3, Thousand Oaks: SAGE Publications, 2018, Bab 2 & 8 tentang prinsip integrasi data kualitatif dan kuantitatif melalui teknik triangulasi konvergen.
 
-[^5]: Pedoman pengelolaan arsitektur evidence dalam TUMBUH diatur pada dokumen fundamental dan operasional repositori, selaras dengan ketentuan keterlacakan keputusan (*decision traceability*) pada [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) dan modul `08_SOURCES_AND_EVIDENCE/`.
+[^5]: Daniele Fanelli, “Negative results are disappearing from most disciplines and countries,” *Scientometrics*, Vol. 90, 2012, hlm. 891–904. DOI: 10.1007/s11192-011-0494-7; mengenai bahaya bias konfirmasi dalam pelaporan ilmiah.
+
+[^6]: Penyelidikan arsitektur TUMBUH mengenai pewarisan pembelajaran dari kegagalan diatur pada penyelidikan [P0199](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_02/P0199-Bagaimana-TUMBUH-Menyimpan-dan-Mewariskan-Pembelajaran-dari-Perubahan-yang-Gagal.md) dan pedoman [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md).
+
+[^7]: Pedoman pengelolaan arsitektur evidence dalam TUMBUH diatur pada dokumen fundamental dan operasional repositori, selaras dengan ketentuan keterlacakan keputusan (*decision traceability*) pada [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) dan modul `08_SOURCES_AND_EVIDENCE/`.

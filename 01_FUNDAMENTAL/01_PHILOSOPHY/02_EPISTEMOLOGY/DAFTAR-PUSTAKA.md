@@ -37,29 +37,31 @@ Seluruh rujukan yang tercantum di bawah ini merupakan sumber primer dan sekunder
 11. **Al-Ghazali, Abu Hamid**. (2004). *Ihya' 'Ulum ad-Din*. 5 Jilid. Kairo: Dar al-Hadits. (Terutama *Kitab al-'Ilm* dan *Kitab 'Aja'ib al-Qalb*).
 12. **Al-Jurjani, Ali bin Muhammad Asy-Syarif**. (1985). *Kitab at-Ta'rifat*. Diedit oleh Ibrahim al-Ibyari. Beirut: Dar al-Kitab al-'Arabi.
 13. **At-Taftazani, Sa'duddin Mas'ud bin Umar**. (1420 H / 2000 M). *Syarh al-'Aqa'id an-Nasafiyyah*. Diedit oleh Ahmad Hijazi as-Saqqa. Kairo: Maktabah al-Kulliyyat al-Azhariyyah.
-14. **Ibnu ash-Shalah, Abu 'Amr 'Utsman bin 'Abdurrahman**. (1986). *'Ulum al-Hadits* (*Muqaddimah Ibn ash-Shalah*). Diedit oleh Nuruddin 'Itr. Damaskus: Dar al-Fikr.
-15. **Ibnu Jama'ah, Badruddin Muhammad bin Ibrahim**. (2012). *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*. Diedit oleh Muhammad Mahdi al-Ajmi. Beirut: Dar al-Basyair al-Islamiyyah.
-16. **Ibnu Rusyd, Abu al-Walid Muhammad bin Ahmad**. (1983). *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*. Diedit oleh Muhammad 'Imarah. Kairo: Dar al-Ma'arif. (Edisi terjemahan Inggris: *The Decisive Treatise*, penerjemah Charles E. Butterworth, Provo: Brigham Young University Press, 2001).
-17. **Ibnu Rusyd, Abu al-Walid Muhammad bin Ahmad**. (1992). *Tahafut at-Tahafut*. Diedit oleh Maurice Bouyges. Beirut: Dar al-Masyriq.
-18. **Basri, M., Fadriati, & Suryana, E**. (2025). “Sources of Knowledge in Islam: Epistemology of Revelation, Reason, Senses, and Intuition.” *At-Tasyrih: Jurnal Pendidikan dan Hukum Islam*, 11(2), 178–187. DOI: 10.55849/attasyrih.v11i2.353.
+14. **Ibnu Abdil Barr, Abu Umar Yusuf bin Abdillah**. (1994). *Jami' Bayan al-'Ilm wa Fadhlih*. Diedit oleh Abul Asybal az-Zuhairi. 2 Jilid. Riyadh: Dar Ibn al-Jauzi.
+15. **Ibnu ash-Shalah, Abu 'Amr 'Utsman bin 'Abdurrahman**. (1986). *'Ulum al-Hadits* (*Muqaddimah Ibn ash-Shalah*). Diedit oleh Nuruddin 'Itr. Damaskus: Dar al-Fikr.
+16. **Ibnu Jama'ah, Badruddin Muhammad bin Ibrahim**. (2012). *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*. Diedit oleh Muhammad Mahdi al-Ajmi. Beirut: Dar al-Basyair al-Islamiyyah.
+17. **Ibnu Rusyd, Abu al-Walid Muhammad bin Ahmad**. (1983). *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*. Diedit oleh Muhammad 'Imarah. Kairo: Dar al-Ma'arif. (Edisi terjemahan Inggris: *The Decisive Treatise*, penerjemah Charles E. Butterworth, Provo: Brigham Young University Press, 2001).
+18. **Ibnu Rusyd, Abu al-Walid Muhammad bin Ahmad**. (1992). *Tahafut at-Tahafut*. Diedit oleh Maurice Bouyges. Beirut: Dar al-Masyriq.
+19. **Basri, M., Fadriati, & Suryana, E**. (2025). “Sources of Knowledge in Islam: Epistemology of Revelation, Reason, Senses, and Intuition.” *At-Tasyrih: Jurnal Pendidikan dan Hukum Islam*, 11(2), 178–187. DOI: 10.55849/attasyrih.v11i2.353.
 
 ---
 
 ## 3. Filsafat Ilmu, Epistemologi, dan Metodologi Ilmiah Kontemporer
 
-19. **AERA, APA, & NCME (American Educational Research Association, American Psychological Association, & National Council on Measurement in Education)**. (2014). *Standards for Educational and Psychological Testing*. Washington DC: AERA.
-20. **Baehr, Jason**. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford: Oxford University Press.
-21. **Coady, C. A. J.**. (1992). *Testimony: A Philosophical Study*. Oxford: Clarendon Press / Oxford University Press.
-22. **Creswell, John W., & Creswell, J. David**. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*. Edisi ke-5. Los Angeles: SAGE Publications.
-23. **Creswell, John W., & Plano Clark, Vicki L.**. (2018). *Designing and Conducting Mixed Methods Research*. Edisi ke-3. Thousand Oaks: SAGE Publications.
-24. **Denzin, Norman K.**. (1970). *The Research Act: A Theoretical Introduction to Sociological Methods*. New York: McGraw-Hill.
-25. **Ertesvåg, S. K.**. (2021). “Integrating data in a complex mixed-methods classroom interaction study.” *British Educational Research Journal*, 47(4), 1017–1038. DOI: 10.1002/berj.3678.
-26. **Haack, Susan**. (2003). *Defending Science—Within Reason: Between Scientism and Cynicism*. Amherst, NY: Prometheus Books.
-27. **Pearl, Judea**. (2009). *Causality: Models, Reasoning, and Inference*. Edisi ke-2. Cambridge: Cambridge University Press.
-28. **Pearl, Judea, Glymour, Madelyn, & Jewell, Nicholas P.**. (2016). *Causal Inference in Statistics: A Primer*. West Sussex: John Wiley & Sons.
-29. **Pearl, Judea, & Mackenzie, Dana**. (2018). *The Book of Why: The New Science of Cause and Effect*. New York: Basic Books.
-30. **Popper, Karl R.**. (2002). *The Logic of Scientific Discovery*. London & New York: Routledge. (Edisi asli terbit 1959).
-31. **Sherbino, J., et al.**. (2026). “Mixed up: evidence of integration in health professions education mixed methods research.” *Advances in Health Sciences Education*, 31(1), 45–62. DOI: 10.1007/s10459-026-10503-5.
+20. **AERA, APA, & NCME (American Educational Research Association, American Psychological Association, & National Council on Measurement in Education)**. (2014). *Standards for Educational and Psychological Testing*. Washington DC: AERA.
+21. **Baehr, Jason**. (2011). *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*. Oxford: Oxford University Press.
+22. **Coady, C. A. J.**. (1992). *Testimony: A Philosophical Study*. Oxford: Clarendon Press / Oxford University Press.
+23. **Creswell, John W., & Creswell, J. David**. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches*. Edisi ke-5. Los Angeles: SAGE Publications.
+24. **Creswell, John W., & Plano Clark, Vicki L.**. (2018). *Designing and Conducting Mixed Methods Research*. Edisi ke-3. Thousand Oaks: SAGE Publications.
+25. **Denzin, Norman K.**. (1970). *The Research Act: A Theoretical Introduction to Sociological Methods*. New York: McGraw-Hill.
+26. **Ertesvåg, S. K.**. (2021). “Integrating data in a complex mixed-methods classroom interaction study.” *British Educational Research Journal*, 47(4), 1017–1038. DOI: 10.1002/berj.3678.
+27. **Fanelli, Daniele**. (2012). “Negative results are disappearing from most disciplines and countries.” *Scientometrics*, 90(3), 891–904. DOI: 10.1007/s11192-011-0494-7.
+28. **Haack, Susan**. (2003). *Defending Science—Within Reason: Between Scientism and Cynicism*. Amherst, NY: Prometheus Books.
+29. **Pearl, Judea**. (2009). *Causality: Models, Reasoning, and Inference*. Edisi ke-2. Cambridge: Cambridge University Press.
+30. **Pearl, Judea, Glymour, Madelyn, & Jewell, Nicholas P.**. (2016). *Causal Inference in Statistics: A Primer*. West Sussex: John Wiley & Sons.
+31. **Pearl, Judea, & Mackenzie, Dana**. (2018). *The Book of Why: The New Science of Cause and Effect*. New York: Basic Books.
+32. **Popper, Karl R.**. (2002). *The Logic of Scientific Discovery*. London & New York: Routledge. (Edisi asli terbit 1959).
+33. **Sherbino, J., et al.**. (2026). “Mixed up: evidence of integration in health professions education mixed methods research.” *Advances in Health Sciences Education*, 31(1), 45–62. DOI: 10.1007/s10459-026-10503-5.
 
 ---
 
