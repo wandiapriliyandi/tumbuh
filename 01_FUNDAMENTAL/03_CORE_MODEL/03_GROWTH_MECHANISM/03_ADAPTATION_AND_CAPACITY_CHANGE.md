@@ -1,356 +1,110 @@
-# Adaptation and Capacity Change
+# Adaptasi dan Perubahan Kapasitas (Adaptation and Capacity Change)
 
-## Posisi dalam Growth Mechanism
+**Status:** KONSEPTUAL / MEKANISME INTI — Muara Proses Pertumbuhan Santri
 
-Dalam Growth Mechanism, **Adaptation** menjelaskan proses penyesuaian cara seseorang bertindak atau berfungsi berdasarkan pengalaman dan informasi yang tersedia.
-
-**Capacity Change** menjelaskan perubahan pada kapasitas fungsional yang cukup bermakna sehingga dapat dipertimbangkan sebagai perkembangan kapasitas.
-
-Pertanyaan utamanya adalah:
-
-> **Kapan proses belajar dari pengalaman mulai terlihat sebagai perubahan functioning yang relevan dengan kapasitas?**
-
-Batas ini penting karena perubahan tindakan sesaat belum tentu berarti kapasitas telah berkembang.
+Dokumen ini menjelaskan bagaimana proses belajar, umpan balik, dan refleksi bermuara pada penyesuaian strategi hidup (*adaptasi / ishlah*) hingga akhirnya membeku menjadi kapasitas diri yang kokoh dan menetap (*perubahan kapasitas sejati*).
 
 ---
 
-## 1. Adaptation — menyesuaikan
+## 1. Kapan Kita Tahu Santri Benar-Benar Berubah?
 
-**Adaptation** terjadi ketika seseorang menyesuaikan cara menghadapi situasi berdasarkan pengalaman, informasi, hasil tindakan, atau kondisi yang dihadapi.
+Banyak pengasuh dan pendidik asrama sering terkecoh oleh kepatuhan semu: melihat santri rapi berbaris saat musyrif berdiri di sampingnya, lalu langsung menyimpulkan bahwa santri tersebut sudah memiliki adab disiplin yang sempurna. Begitu musyrif pergi, barisan bubar dan kekacauan kembali terjadi.
 
-Contoh:
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-> Santri sering lupa membawa perlengkapan belajar. Setelah menyadari polanya, ia mulai menyiapkan perlengkapan pada malam sebelumnya.
+> **Bagaimana membedakan antara santri yang hanya sekadar mengubah perilaku sementara karena terpaksa, dengan santri yang benar-benar mengalami kematangan kapasitas batin yang menetap?**
 
-Perubahan strategi tersebut merupakan contoh adaptation.
-
-Namun adaptation tidak selalu berarti strategi yang dipilih akan berhasil. Strategi baru yang ternyata kurang membantu tetap dapat menghasilkan informasi untuk percobaan berikutnya.
-
-Jadi adaptation lebih tepat dipahami sebagai **proses penyesuaian**, bukan sinonim dari keberhasilan.
-
----
-
-## 2. Adaptation bukan sekadar perubahan
-
-Tidak setiap perubahan merupakan adaptation dalam pengertian Growth Mechanism.
-
-Misalnya:
-
-- jadwal berubah karena aturan lembaga;
-- seseorang berpindah tempat;
-- kondisi sementara berubah;
-- seseorang melakukan sesuatu secara berbeda karena tekanan atau paksaan situasi.
-
-Perubahan tersebut dapat memengaruhi functioning, tetapi belum tentu menunjukkan bahwa seseorang menggunakan pengalaman atau informasi untuk menyesuaikan cara berfungsi.
-
-Karena itu perubahan perlu dibaca bersama proses dan konteksnya.
-
----
-
-## 3. Adaptation bersifat iteratif
-
-Pertumbuhan tidak selalu berhenti setelah satu kali penyesuaian.
-
-Secara sederhana:
+Perjalanan ini melintasi dua tingkatan penting:
 
 ```text
-Mencoba
-  ↓
-Hasil
-  ↓
-Feedback / Reflection
-  ↓
-Adaptation
-  ↓
-Mencoba kembali
-  ↓
-Hasil baru
-  ↓
-Adaptation berikutnya
+┌────────────────────────────────────────────────────────────────────────┐
+│                   DARI ADAPTASI MENUJU KAPASITAS                       │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. ADAPTASI STRATEGI (Adaptation)  : Mengubah cara agar berhasil       │
+│             ↓                                                          │
+│ 2. UJI KONSISTENSI & KEMANDIRIAN   : Melewati berbagai situasi berbeda │
+│             ↓                                                          │
+│ 3. PERUBAHAN KAPASITAS (Capacity)  : Nilai membatin menjadi karakter   │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Siklus tersebut dapat berulang, berhenti sementara, atau berubah arah ketika kondisi berubah.
+---
 
-Karena itu Growth Mechanism lebih tepat dipahami sebagai proses **iteratif dan dinamis**, bukan tangga yang bergerak satu arah.
+## 2. Adaptasi (Adaptation / Ishlah al-Khiththah): Menyesuaikan Strategi
+
+**Adaptasi** terjadi ketika seorang santri—setelah menerima umpan balik atau mengevaluasi kegagalannya—memutuskan untuk mengganti cara bertindaknya dengan cara yang lebih tepat.
+
+### Contoh Adaptasi Nyata di Asrama:
+- **Kasus Santri Hilman:** Hilman sering ditegur karena terlambat masuk kelas pagi. Setelah bermuhasabah, Hilman menyadari penyebabnya: ia selalu mencuci baju seragam sehabis Subuh sehingga antre jemuran dan pakaiannya belum kering.
+- **Langkah Adaptasi Hilman:** Hilman mengubah jadwal mencuci bajunya menjadi sore hari bakda Ashar, dan menyiapkan buku pelajaran serta peci di atas meja belajarnya sebelum tidur malam.
+
+Adaptasi adalah ikhtiar nyata santri untuk mencari jalan keluar. Namun, keberhasilan sebuah adaptasi strategi di satu waktu **belum otomatis membuktikan** bahwa karakter kemandiriannya sudah terbentuk seutuhnya.
 
 ---
 
-## 4. Adaptation tidak otomatis menghasilkan Capacity Change
+## 3. Membedakan Performa Sesaat dengan Perubahan Kapasitas Sejati
 
-Ini merupakan batas utama.
+Inilah pembeda epistemik paling penting di dalam model TUMBUH:
 
-Seseorang dapat menemukan strategi yang berhasil pada satu situasi tanpa menunjukkan perubahan kapasitas yang lebih luas atau relatif konsisten.
-
-Contoh:
-
-> Santri berhasil datang tepat waktu selama satu minggu karena selalu diingatkan oleh musyrif.
-
-Terdapat perubahan performance. Namun belum cukup untuk menyimpulkan bahwa self-regulation santri telah berkembang pada tingkat yang sama dengan performance tersebut.
-
-Untuk membuat inference tentang capacity change diperlukan evidence yang sesuai dengan pertanyaan, kapasitas, konteks, dan cara assessment yang digunakan.
-
----
-
-## 5. Apa yang dimaksud Capacity Change?
-
-**Capacity Change** bukan sekadar:
-
-- nilai yang naik sekali;
-- tugas yang berhasil sekali;
-- perilaku yang muncul karena instruksi langsung;
-- perubahan suasana hati;
-- pengetahuan baru;
-- atau performance yang membaik sesaat.
-
-Capacity change mengarah pada perubahan **functioning yang relevan dengan kapasitas**, dengan tingkat kebermaknaan dan konsistensi yang perlu dibaca berdasarkan evidence yang tersedia.
-
-Karena itu pertanyaan yang lebih tepat bukan hanya:
-
-> “Apakah santri berhasil?”
-
-melainkan:
-
-> **“Apakah terdapat perubahan functioning yang memberikan dasar untuk mempertimbangkan perkembangan kapasitas dalam kondisi yang relevan?”**
-
----
-
-## 6. Performance dan Capacity tidak sama
-
-Hubungan sederhananya dapat digambarkan:
+| Aspek Pembeda | Performa Sesaat (*Temporary Performance*) | Perubahan Kapasitas Sejati (*Capacity Change*) |
+|---|---|---|
+| **Penggerak Utama** | Faktor luar: takut dihukum, ingin dipuji guru, atau ada hadiah langsung. | Kesadaran nilai di dalam hati (*internalized value*) dan dorongan ibadah lillahi ta'ala. |
+| **Ketergantungan Pengawasan** | Tertib hanya jika ada musyrif yang mengawasi; jika musyrif lengah, aturan dilanggar. | Tetap beradab dan tertib meskipun berada sendirian di kamar atau saat liburan di rumah. |
+| **Daya Tahan Situasi** | Hanya berlaku di satu tempat (misal: rajin di masjid pesantren, malas saat di rumah). | Mampu diterapkan dalam berbagai suasana baru dan tantangan hidup yang berbeda (*transferable*). |
+| **Respons Saat Gagal** | Frustrasi, mencari kambing hitam, atau kembali ke kebiasaan buruk lama. | Mampu bangkit, mengevaluasi kesalahan, dan kembali berusaha memperbaiki diri secara mandiri. |
 
 ```text
-CAPACITY
-   ↓
-FUNCTIONING
-   ↓
-PERFORMANCE DALAM KONTEKS TERTENTU
+┌────────────────────────────────────────────────────────────────────────┐
+│                    ILUSTRASI: PERJALANAN WAKTU                         │
+├────────────────────────────────────────────────────────────────────────┤
+│ Pekan 1-2 : Perilaku tertib karena diawasi ketat  [PERFORMA SESAAT]   │
+│ Pekan 3-6 : Menemukan ritme sendiri & coba-coba   [FASE ADAPTASI]     │
+│ Pekan 12+ : Tertib mandiri tanpa perlu disuruh    [KAPASITAS SEJATI]  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Namun hubungan tersebut tidak sesederhana satu arah.
+---
 
-Performance juga dipengaruhi oleh:
+## 4. Studi Kasus Asrama: Transformasi Menjadi Kapasitas Mandiri
 
-- tuntutan tugas;
-- kondisi lingkungan;
-- dukungan;
-- sumber daya;
-- keadaan individu;
-- kesempatan;
-- dan karakteristik situasi.
-
-Karena itu satu performance tidak cukup untuk menggambarkan keseluruhan kapasitas seseorang.
-
-Sebaliknya, pola performance dalam kondisi yang relevan dapat menjadi salah satu sumber evidence ketika kapasitas hendak dipahami melalui assessment yang sesuai.
+> **Kasus di Kamar Khalid bin Walid:**
+> Arif (15 tahun) pada bulan pertama asrama adalah santri yang sangat bergantung pada orang lain. Jam wekernya sering dimatikan, dan ia baru bangun setelah diguncang berkali-kali oleh musyrif kamar.
+>
+> - **Fase 1: Bantuan Luar (Scaffolding):**
+>   Musyrif Faris membuat kesepakatan bersama Arif: meletakkan jam weker di atas lemari yang jauh dari ranjang agar Arif harus berdiri untuk mematikannya, dan menunjuk kawan sekamarnya sebagai mitra bangun pagi (*study buddy*). Arif mulai bisa bangun tepat waktu (ini adalah *adaptasi awal didukung lingkungan*).
+>
+> - **Fase 2: Pelepasan Bantuan Bertahap (Fading):**
+>   Setelah dua bulan, musyrif perlahan tidak lagi ikut membangunkan. Arif diminta bertanggung jawab penuh atas jadwal tidurnya sendiri. Arif sempat dua kali terlambat, namun ia segera bermuhasabah dan tidur lebih awal.
+>
+> - **Fase 3: Kapasitas Sejati Membatin (Capacity Change):**
+>   Pada akhir semester, saat masa liburan dua pekan di rumahnya, orang tua Arif melaporkan dengan takjub: Arif bangun pukul 04.00 pagi tanpa dibangunkan oleh ibunya, mengambil wudhu sendiri, merapikan tempat tidurnya sendiri, dan berangkat ke masjid kampung untuk shalat Subuh berjamaah.
+>
+> **Kesimpulan:** Nilai regulasi diri (*self-regulation*) pada diri Arif telah bertransformasi dari sekadar kepatuhan aturan asrama menjadi **perubahan kapasitas sejati** yang menetap di jiwanya ke mana pun ia pergi.
 
 ---
 
-## 7. Peran Support
+## 5. Bagaimana Kapasitas Sejati Terbentuk?
 
-**Support** dapat membantu seseorang mencapai functioning yang lebih baik daripada yang mungkin dicapai tanpa bantuan.
+Perubahan kapasitas tidak terjadi dalam semalam. Dalam kerangka psikologi kognitif dan pembinaan ruhani Islam, kapasitas sejati terbentuk melalui tahapan yang berkesinambungan:
 
-Contoh:
-
-> Santri mampu menyelesaikan tugas setelah mendapat scaffolding dari musyrif.
-
-Ini merupakan informasi penting tentang functioning dalam kondisi tersebut.
-
-Namun jangan langsung menyimpulkan bahwa capacity change telah terjadi pada tingkat yang sama dengan performance tersebut.
-
-Pertanyaan yang dapat membantu memahami perubahan antara lain:
-
-- apakah santri dapat melakukannya kembali;
-- apakah kebutuhan support berubah atau berkurang;
-- apakah strategi dapat digunakan dalam situasi lain yang relevan;
-- apakah perubahan tetap terlihat ketika kondisi berubah.
-
-Ketika pertanyaan tersebut digunakan untuk membuat inference formal, pembahasannya masuk ke wilayah **evidence dan assessment**.
+1. **Internalisasi Makna (Tashawwur ash-Shahih):** Santri paham *mengapa* suatu adab harus dikerjakan, bukan sekadar *apa* yang harus dikerjakan.
+2. **Pengulangan Latihan di Bawah Ujian (Mujahadah):** Nilai diuji saat menghadapi rintangan nyata: lelah, lapar, cuaca dingin, atau kawan yang memprovokasi.
+3. **Pelepasan Bantuan Pengawas (Scaffolding to Autonomy):** Pengasuh perlahan mengurangi intervensi langsung, memberikan kepercayaan dan tanggung jawab lebih besar kepada santri.
+4. **Pembentukan Watak Alami (Malakah Rasikhah):** Adab tersebut telah menyatu ke dalam sistem saraf dan alam bawah sadar santri, sehingga keluar secara spontan tanpa perlu beban berpikir yang berat.
 
 ---
 
-## 8. Konsistensi dan transfer
+## 6. Panduan Praktis bagi Musyrif dan Pendidik
 
-Dua hal yang dapat membantu membaca apakah perubahan functioning cukup bermakna untuk mempertimbangkan capacity change adalah **konsistensi** dan **transfer**.
-
-### Konsistensi
-
-Apakah perubahan muncul lebih dari sekali dalam kondisi yang relevan?
-
-### Transfer
-
-Apakah kemampuan berfungsi tersebut dapat digunakan pada situasi lain yang relevan, bukan hanya pada satu tugas yang sangat spesifik?
-
-Keduanya bukan cutoff universal.
-
-Kebutuhan evidence bergantung pada kapasitas yang dibahas, tujuan inference, konteks, dan pendekatan assessment yang digunakan.
+1. **Jangan Cepat Puas dengan Kepatuhan Formalitas:**
+   Jangan tergesa-gesa menilai santri sudah mandiri hanya karena kamarnya tampak rapi saat inspeksi pagi. Ujilah kemandiriannya saat musyrif sengaja tidak menginspeksi atau saat santri diberi kebebasan memilih.
+2. **Berikan Ruang untuk Santri Mengambil Keputusan:**
+   Kapasitas tidak akan pernah tumbuh jika semua hal dari bangun tidur hingga tidur lagi diatur secara kaku tanpa memberi ruang sedikit pun bagi santri untuk merencanakan waktunya sendiri.
+3. **Catat Jejak Pertumbuhan Jangka Panjang (Logbook Longitudinal):**
+   Gunakan catatan pengamatan berkala untuk melihat apakah santri mengalami kemajuan dari waktu ke waktu. Fokuslah pada tren pertumbuhan selama hitungan bulan dan semester, bukan fluktuasi harian yang wajar naik-turun.
 
 ---
 
-## 9. Capacity Change tidak harus dramatis
+## Ringkasan Inti
 
-Pertumbuhan tidak selalu terlihat sebagai lompatan besar.
-
-Perubahan yang relatif kecil tetapi cukup konsisten dapat menjadi bagian dari perkembangan.
-
-Sebaliknya, perubahan besar dalam satu kesempatan belum tentu menunjukkan perubahan kapasitas.
-
-Karena itu TUMBUH menghindari dua penyederhanaan:
-
-> **“Perubahan kecil tidak berarti apa-apa.”**
-
-dan
-
-> **“Perubahan besar sekali berarti kapasitas sudah berkembang.”**
-
-Makna perubahan perlu dibaca berdasarkan kapasitas, konteks, arah pertumbuhan, dan evidence yang relevan.
-
----
-
-## 10. Hubungan dengan bagian lain dalam Growth Mechanism
-
-Adaptation biasanya berhubungan dengan Experience, Engagement, Practice, Feedback, dan Reflection.
-
-Secara konseptual:
-
-```text
-EXPERIENCE
-    ↓
-ENGAGEMENT
-    ↓
-PRACTICE
-    ↓
-FEEDBACK ↔ REFLECTION
-    ↓
-ADAPTATION
-    ↓
-EXPERIENCE / PRACTICE BERIKUTNYA
-    ↓
-FUNCTIONING CHANGE
-    ↓
-CAPACITY CHANGE?
-```
-
-Tanda tanya pada bagian terakhir penting.
-
-Growth Mechanism menjelaskan **kemungkinan proses perubahan**, bukan menjamin hasil tertentu.
-
-Selain itu, hubungan antarbagian dapat berputar dan tidak selalu mengikuti urutan yang sama.
-
----
-
-## 11. Adaptation dan agency
-
-Adaptation tidak selalu merupakan keputusan yang sepenuhnya sadar.
-
-Seseorang dapat belajar menyesuaikan diri melalui pengalaman yang berulang tanpa mampu menjelaskan seluruh prosesnya secara verbal.
-
-Pada saat yang sama, **agency** tetap penting. Seseorang dapat merespons kondisi, memilih tindakan, dan mengubah strategi dalam batas kemampuan dan konteks yang tersedia.
-
-Dengan demikian:
-
-> **Adaptation bukan berarti manusia sepenuhnya dikendalikan lingkungan, dan bukan pula berarti setiap perubahan harus merupakan keputusan sadar yang disengaja.**
-
----
-
-## 12. Adaptation bisa gagal atau tidak mendukung arah pertumbuhan
-
-Tidak semua adaptation membantu perkembangan kapasitas yang sedang menjadi perhatian.
-
-Contoh:
-
-> Santri menemukan cara menghindari tugas yang sulit sehingga tekanan jangka pendek berkurang.
-
-Secara situasional, strategi tersebut mungkin terasa berhasil. Namun jika pola tersebut justru mengurangi kesempatan mengembangkan kemampuan menghadapi masalah, adaptation tersebut belum tentu mendukung arah pertumbuhan yang relevan.
-
-Karena itu adaptation perlu dilihat bukan hanya dari apakah situasi menjadi lebih mudah, tetapi juga dari **arah dan fungsi perubahan tersebut**.
-
----
-
-## 13. Arah pertumbuhan tetap penting
-
-TUMBUH tidak mendefinisikan growth sebagai perubahan apa pun.
-
-Perubahan perlu dipahami terhadap arah atau tujuan yang relevan dalam arsitektur TUMBUH.
-
-Secara sederhana:
-
-```text
-ARAH / TUJUAN
-      ↓
-PENGALAMAN
-      ↓
-ADAPTATION
-      ↓
-PERUBAHAN FUNCTIONING
-      ↓
-APAKAH SELARAS DENGAN ARAH?
-```
-
-Pertanyaan tentang keselarasan dengan arah pertumbuhan berbeda dari pertanyaan tentang apakah perubahan itu terjadi. Keduanya perlu dibedakan.
-
-Dokumen ini tidak menetapkan rubrik, skor, atau cutoff untuk menentukan growth.
-
----
-
-## 14. Capacity Change bukan diagnosis atau label pribadi
-
-Perubahan atau tidak adanya perubahan kapasitas dalam satu konteks tidak boleh otomatis digunakan untuk memberi label luas terhadap pribadi seseorang.
-
-Contoh:
-
-> “Dia memang tidak punya kemampuan mengatur diri.”
-
-merupakan kesimpulan yang terlalu luas jika hanya didasarkan pada beberapa performance.
-
-Inference tentang kapasitas perlu memiliki dasar evidence dan batas generalisasi yang jelas.
-
----
-
-## 15. Batas konsep
-
-### Adaptation ≠ Capacity
-
-Adaptation adalah proses penyesuaian; capacity adalah kapasitas fungsional.
-
-### Adaptation ≠ Performance
-
-Perubahan performance dapat menjadi hasil adaptation, tetapi keduanya bukan hal yang sama.
-
-### Capacity Change ≠ Learning Outcome otomatis
-
-Pembelajaran atau pengetahuan baru tidak otomatis berarti semua kapasitas yang relevan telah berubah.
-
-### Capacity Change ≠ Score Increase
-
-Kenaikan skor adalah hasil pengukuran tertentu; maknanya terhadap kapasitas bergantung pada kualitas assessment dan inference.
-
-### Capacity Change ≠ Permanent Change
-
-Growth tidak harus berarti perubahan yang tidak pernah menurun. Functioning dan kapasitas dapat dipengaruhi pengalaman baru dan perubahan konteks.
-
----
-
-## 16. Prinsip praktis
-
-1. **Lihat adaptation sebagai proses penyesuaian, bukan sekadar perubahan perilaku.**
-2. **Jangan menyamakan adaptation dengan keberhasilan.**
-3. **Jangan menyamakan performance sesaat dengan capacity change.**
-4. **Perhatikan konsistensi dan transfer ketika membuat inference tentang kapasitas.**
-5. **Pertimbangkan support dan kondisi lingkungan saat membaca performance.**
-6. **Nilai perubahan terhadap arah pertumbuhan yang relevan.**
-7. **Jangan membuat label luas tentang kapasitas seseorang dari evidence yang sempit.**
-
----
-
-## Status dan batas penggunaan
-
-Status konsep ini adalah **conceptual / designed** sebagai bagian dari **Growth Mechanism**.
-
-Adaptation dan Capacity Change bukan assessment model, progression model, intervention procedure, atau bukti efektivitas.
-
-Klaim tentang kapan dan sejauh mana suatu proses menghasilkan capacity change harus diuji sebagai klaim empiris tersendiri dengan evidence yang sesuai.
-
----
-
-## Ringkasnya
-
-> **Adaptation adalah proses penyesuaian cara berfungsi berdasarkan pengalaman dan informasi. Capacity change baru dapat dipertimbangkan ketika terdapat evidence yang cukup untuk menunjukkan perubahan functioning yang relevan dengan kapasitas yang dimaksud; perubahan sesaat atau performance tunggal belum cukup.**
+> **Adaptasi adalah langkah taktis mengubah cara bertindak di lapangan; sedangkan Perubahan Kapasitas adalah buah manis saat nilai-nilai adab telah menghunjam ke dalam kalbu, berakar menjadi watak, dan melahirkan amal shaleh yang mandiri, konsisten, serta tidak lagi bergantung pada ada atau tidaknya pengawas.**
