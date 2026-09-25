@@ -28,29 +28,26 @@ EVIDENCE & RESEARCH
 
 Diagram tersebut adalah hubungan arsitektural, bukan causal chain universal.
 
-## Canonical Construct Structure
+## Canonical Construct Structure: Jembatan Memahami Arsitektur
 
-Setiap Core Capacity direpresentasikan melalui struktur:
+Agar rantai arsitektur ini mudah dipahami oleh santri, guru, maupun musyrif lapangan, perhatikan analogi sederhana berikut:
 
-```text
-NORMATIVE DIRECTION
-        ↓
-CORE CAPACITY
-        ↓
-FUNCTIONAL OBJECT
-        ↓
-FUNCTIONAL DIMENSIONS
-        ↓
-SUBFUNCTIONS / RESOURCES / PATTERNS
-        ↓
-OBSERVABLE MANIFESTATIONS
-        ↓
-EVIDENCE
-```
+| Tingkatan Arsitektur | Pertanyaan Pemantik | Maksud Sederhana | Contoh Nyata Santri di Asrama |
+|---|---|---|---|
+| **1. Arah Normatif (*Normative Direction*)** | *Nilai apa yang dituju?* | Nilai moral/syariat yang menjadi panduan hidup. | Kewajiban menjaga shalat lima waktu berjamaah tepat waktu di masjid. |
+| **2. Kapasitas Inti (*Core Capacity*)** | *Kemampuan batin apa?* | Daya fungsi batin yang dilatih pada diri santri. | **Regulasi Diri (*Self-Regulation*)**: kemampuan mengatur diri sendiri. |
+| **3. Sasaran Kerja (*Functional Object*)** | *Bekerja mengelola apa?* | Objek yang diatur agar tidak melenceng. | Mengendalikan rasa malas, kantuk, dan tindakan tubuhnya sendiri. |
+| **4. Cara Kerja (*Functional Dimensions*)** | *Bagaimana bekerjanya?* | Tiga fungsi batin: Sadar Diri $\rightarrow$ Atur Respon $\rightarrow$ Pulihkan Arah. | Sadar waktu subuh tiba $\rightarrow$ bangun menepis selimut $\rightarrow$ bersegera ke masjid. |
+| **5. Perilaku Nyata (*Observable Manifestation*)** | *Apa tanda luarnya?* | Perbuatan konkret yang terlihat di asrama. | Santri bergegas melipat kasur dan mengambil wudhu saat adzan berkumandang. |
+| **6. Bukti Catatan (*Evidence*)** | *Apa bukti faktanya?* | Catatan pengamatan nyata, bukan sangkaan. | Catatan mutaba'ah menunjukkan santri hadir di shaf awal 7 hari berturut-turut. |
 
-Struktur ini adalah **construct representation architecture**, bukan urutan perkembangan, bukan urutan assessment, dan bukan resep intervensi.
+Struktur ini adalah **rantai representasi konstruk**, bukan urutan perkembangan usia dan bukan resep intervensi kaku.
 
-## Five Canonical Components
+---
+
+## Lima Komponen Utama Folder Ini
+
+Folder `04_CORE_CAPACITY_ARCHITECTURE` tersusun dari lima subfolder yang saling melengkapi:
 
 ### 01 — Core Capacities
 

@@ -80,7 +80,20 @@ EVIDENCE
 
 Rantai ini **bukan urutan perkembangan**, bukan urutan assessment, dan bukan resep intervensi.
 
-Ia adalah **struktur representasi konstruk**: cara untuk menjelaskan dari arah yang dituju, menuju identitas capacity, lalu ke bentuk functioning yang dapat direpresentasikan dan akhirnya ke evidence.
+Ia adalah **struktur representasi konstruk**: cara untuk menjelaskan dari arah yang dituju, menuju identitas capacity, lalu ke bentuk functioning yang dapat direpresentasikan dan akhirnya ke bukti nyata.
+
+### Jembatan Memahami Rantai Konstruk
+
+Agar rantai di atas mudah dipahami oleh santri, pendidik, dan musyrif lapangan:
+
+| Tingkatan Rantai | Pertanyaan Kunci | Maksud Sederhana | Contoh Nyata Santri di Asrama |
+|---|---|---|---|
+| **Arah Normatif (*Normative Direction*)** | *Nilai apa yang dituju?* | Nilai moral/syariat yang menjadi panduan hidup. | Kewajiban menjaga shalat lima waktu berjamaah tepat waktu di masjid. |
+| **Kapasitas Inti (*Core Capacity*)** | *Kemampuan batin apa?* | Daya fungsi batin yang dilatih pada diri santri. | **Regulasi Diri (*Self-Regulation*)**: kemampuan mengatur diri sendiri. |
+| **Sasaran Kerja (*Functional Object*)** | *Bekerja mengelola apa?* | Objek yang diatur agar tidak melenceng. | Mengendalikan rasa malas, kantuk, dan tindakan tubuhnya sendiri. |
+| **Cara Kerja (*Functional Dimensions*)** | *Bagaimana bekerjanya?* | Tiga fungsi batin: Sadar Diri $\rightarrow$ Atur Respon $\rightarrow$ Pulihkan Arah. | Sadar waktu subuh tiba $\rightarrow$ bangun menepis selimut $\rightarrow$ bersegera ke masjid. |
+| **Perilaku Nyata (*Observable Manifestation*)** | *Apa tanda luarnya?* | Perbuatan konkret yang terlihat di asrama. | Santri bergegas melipat kasur dan mengambil wudhu saat adzan berkumandang. |
+| **Bukti Catatan (*Evidence*)** | *Apa bukti faktanya?* | Catatan pengamatan nyata, bukan sangkaan. | Catatan mutaba'ah menunjukkan santri hadir di shaf awal 7 hari berturut-turut. |
 
 ---
 
