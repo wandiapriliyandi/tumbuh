@@ -1,74 +1,109 @@
 # 07 — Perkembangan Tidak Selalu Lurus
 
-Setelah memahami bahwa manusia dapat berubah dan bahwa jalur perkembangannya berbeda-beda, ada satu hal lagi yang perlu dijaga: **perkembangan tidak selalu bergerak maju dengan kecepatan yang sama.**
+Setelah memahami bahwa manusia memiliki kelenturan fitrah untuk bertumbuh dan bahwa setiap santri memiliki keunikan jalurnya masing-masing, sistem pendidikan wajib berhadapan dengan sebuah hukum alamiah yang tidak terbantahkan: **perkembangan manusia tidak pernah bergerak maju dalam garis lurus yang mulus dan selalu naik secara konstan**.[^1]
 
-Dalam kehidupan nyata, perubahan bisa naik, turun, berhenti sementara, atau bergerak berbeda pada sisi yang berbeda. Literatur perkembangan memang menggambarkan perkembangan manusia sebagai proses yang multidimensional dan multidirectional: kemajuan pada satu sisi dapat berjalan bersamaan dengan penurunan atau kesulitan pada sisi lain. citeturn0search0turn0search10
+Dalam kenyataan hidup di asrama pesantren, grafik pertumbuhan santri kerap menunjukkan dinamika yang bergelombang: melesat maju pada suatu waktu, melambat dan stagnan di waktu lain, mengalami fluktuasi emosi, bahkan sesekali tampak tergelincir mundur ke kebiasaan lamanya. Literatur psikologi perkembangan rentang hidup (*lifespan developmental psychology*) secara tegas menggambarkan perkembangan manusia sebagai proses yang bersifat **multidimensional dan multidireksional (*multidirectional*)**: kemajuan pada satu sisi kapasitas dapat berjalan beriringan dengan penurunan atau kerentanan pada sisi yang lain.[^2]
 
-Bagi pendidikan, ini penting karena kita sering tergoda membaca perkembangan seperti tangga: bulan lalu di sini, bulan ini harus lebih tinggi, lalu bulan depan lebih tinggi lagi. Manusia tidak selalu bekerja seperti itu.
+Bagi para pendidik dan pembina, pemahaman ini menjadi benteng penting agar tidak terjebak dalam ilusi mekanistik yang memandang manusia layaknya anak tangga pabrik: *"Bulan lalu santri sudah di level A, maka bulan ini mutlak harus naik ke level B, dan bulan depan pasti di level C."* Jiwa manusia bukanlah mesin cetak. Memaksa manusia bergerak dalam garis lurus yang kaku hanya akan melahirkan kekecewaan, kemarahan yang tidak pada tempatnya, serta kezaliman pedagogis yang mematahkan semangat santri.[^3]
 
-## Kemajuan pada satu sisi, kesulitan pada sisi lain
+---
 
-Seorang santri bisa semakin baik dalam memahami pelajaran tetapi masih mudah kehilangan kendali ketika menghadapi konflik. Santri lain mungkin semakin mandiri dalam mengatur kegiatan sehari-hari, tetapi belum mampu mengambil keputusan dengan baik dalam situasi yang baru.
+## Sunnah Fluktuasi Jiwa dalam Bimbingan Nabawi
 
-Ini bukan berarti perkembangannya “gagal”. Justru kita sedang melihat bahwa perkembangan terdiri dari beberapa sisi yang tidak selalu bergerak bersamaan.
+Kenyataan bahwa kondisi batin manusia mengalami pasang surut adalah fitrah yang diakui secara jujur dan manusiawi dalam tradisi Islam. Rasulullah ﷺ mengabarkan fenomena ini dalam sabdanya yang agung:
 
-Karena itu, TUMBUH tidak seharusnya menyimpulkan kondisi manusia hanya dari satu kemampuan, satu perilaku, atau satu skor.
+$$
+\text{إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِّ شِرَّةٍ فَتْرَةً، فَمَنْ كَانَتْ فَتْرَتُهُ إِلَى سُنَّتِي فَقَدِ اهْتَدَى، وَمَنْ كَانَتْ إِلَى غَيْرِ ذَلِكَ فَقَدْ هَلَكَ}
+$$
 
-## Kemunduran tidak selalu berarti kehilangan perkembangan
+> *"Sesungguhnya bagi setiap amalan itu ada masa semangat yang membara (syirrah), dan bagi setiap masa semangat ada masa lesu atau penurunan (fatrah). Maka barangsiapa yang masa lesunya tetap berada dalam koridor sunnahku, sungguh ia telah mendapatkan petunjuk. Dan barangsiapa yang masa lesunya menyeretnya kepada selain itu, sungguh ia telah binasa."* (HR. Ahmad dan Ibnu Hibban)[^4]
 
-Ada juga situasi ketika seseorang yang sebelumnya sudah cukup baik kembali menunjukkan kesulitan.
+Hadits ini memberikan bimbingan tarbiyah yang sangat mendasar: masa penurunan semangat (*al-fatrah*) adalah sunnatullah psikologis yang wajar dialami oleh setiap penuntut ilmu. Yang dituntut oleh syariat bukanlah manusia yang menjadi malaikat tanpa kelelahan batin, melainkan **menjaga agar titik terendah dari masa lesu santri tetap terpagari oleh batas-batas ketaatan dasar (*as-sunnah*)**, sehingga ia tidak terjerumus ke dalam dosa besar atau kemusnahan moral.[^5]
 
-Misalnya, santri yang biasanya mampu mengatur waktu menjadi berantakan ketika memasuki lingkungan baru. Atau seseorang yang sudah terbiasa menyelesaikan konflik dengan baik kembali bereaksi impulsif ketika menghadapi tekanan yang berat.
+Kearifan ini semakin ditegaskan dalam dialog antara Sahabat Hanzhalah Al-Usaidi RA dan Rasulullah ﷺ. Ketika Hanzhalah merasa dirinya telah menjadi orang munafik karena saat berada di hadapan Nabi hatinya begitu khusyuk dan mengingat akhirat, namun ketika pulang ke rumah dan bercengkerama dengan istri, anak, dan kebunnya ia kembali lalai, Rasulullah ﷺ menenangkannya dengan penuh welas asih:
 
-Perubahan seperti ini perlu dibaca dengan hati-hati. Bisa jadi ada kapasitas yang memang belum stabil. Bisa juga ada perubahan kondisi, tuntutan baru, tekanan, atau berkurangnya dukungan.
+$$
+\text{يَا حَنْظَلَةُ، سَاعَةً وَسَاعَةً، وَلَوْ كَانَتْ تَكُونُ قُلُوبُكُمْ كَمَا تَكُونُ عِنْدَ الذِّكْرِ لَصَافَحَتْكُمُ الْمَلَائِكَةُ فِي طُرُقِكُمْ}
+$$
 
-Karena itu pertanyaan pendidik sebaiknya bukan hanya:
+> *"Wahai Hanzhalah, ada waktu untuk beribadah dan ada waktu untuk urusan duniawi (sā'atan wa sā'ah). Demi Dzat yang jiwaku berada di tangan-Nya, seandainya hati kalian senantiasa konsisten seperti saat berada di sampingku dan dalam mengingat Allah, niscaya para malaikat akan menyalami kalian di jalan-jalan kalian..."* (HR. Muslim)[^6]
 
-> “Kenapa dia kembali seperti dulu?”
+---
 
-Tetapi juga:
+## Membaca Kemunduran Tanpa Menghakimi Takdir: Regresi Sesaat vs Kehilangan Kapasitas
 
-> “Apa yang berubah dalam dirinya atau lingkungannya sehingga perilaku itu muncul kembali?”
+Salah satu ujian terberat bagi kesabaran para pembina di asrama adalah ketika menyaksikan seorang santri yang selama beberapa bulan tampak tertib, tiba-tiba kembali melakukan pelanggaran disiplin atau bertengkar sengit dengan teman sekamarnya.
 
-Pertanyaan kedua membuka ruang untuk memahami, memperbaiki, dan memberi dukungan tanpa menghapus tanggung jawab pribadi.
+Ketika fenomena kemunduran ini terjadi, pembina yang tergesa-gesa akan berseru dengan nada putus asa: *"Percuma dididik selama ini! Dia kembali lagi jadi anak nakal seperti dulu!"*
 
-## Bedakan kejadian dengan pola
+TUMBUH melarang kesimpulan yang gegabah semacam itu. Kita wajib membedakan secara metodologis antara **regresi sesaat (*transient behavioral regression*)** dengan **kehilangan kapasitas batin yang sesungguhnya**:[^7]
 
-Satu kejadian dapat menjadi informasi penting, tetapi belum tentu cukup untuk menggambarkan pola perkembangan.
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                        DILEMA KEMUNDURAN PERILAKU                      │
+│                                                                        │
+│   PERTANYAAN MENGHAKIMI (Kekeliruan Pendidik):                         │
+│   "Kenapa anak ini kembali seperti dulu? Percuma dididik!"             │
+│   ⟶ Menghancurkan self-efficacy santri, melahirkan vonis beku          │
+│                                                                        │
+│   PERTANYAAN INVESTIGATIF TUMBUH (Pendidikan Beradab):                 │
+│   "Perubahan kondisi atau pemicu apa yang sedang ia hadapi?"           │
+│   • Apakah ia sedang sakit, kelelahan fisik luar biasa, atau lapar?    │
+│   • Apakah ada kabar duka atau ketegangan dari keluarga di rumah?      │
+│   • Apakah ada tuntutan peran baru yang melampaui kapasitas adaptasi?  │
+│   • Apakah ada konflik tersembunyi antarteman yang membuatnya tertekan?│
+│   ⟶ Membuka jalan ishlah, intervensi tepat sasaran, & penjagaan adab   │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-Santri yang sekali terlambat belum tentu memiliki masalah disiplin yang menetap. Sebaliknya, santri yang sekali datang tepat waktu juga belum tentu sudah memiliki kebiasaan disiplin yang stabil.
+Perilaku santri adalah fungsi dari kapasitas batiniah yang berinteraksi dengan beban tekanan yang sedang dihadapinya. Ketika beban stres melompat terlalu tinggi melampaui daya dukung yang ada, santri dapat mengalami penurunan kendali perilaku secara sementara. Hal ini tidak berarti kapasitas adab yang telah dipelajarinya musnah tanpa sisa, melainkan kapasitas tersebut sedang terhimpit oleh situasi krisis yang membutuhkan pertolongan pendampingan.[^8]
 
-Untuk membaca perkembangan dengan lebih baik, TUMBUH perlu melihat beberapa hal sekaligus:
+---
 
-- apa yang terjadi;
-- seberapa sering hal itu terjadi;
-- dalam kondisi seperti apa perilaku muncul;
-- dukungan dan kesempatan latihan yang tersedia;
-- bagaimana respons seseorang setelah mendapat umpan balik;
-- apakah perubahan bertahan ketika tuntutan atau lingkungan berubah.
+## Dinamika Takhalliy dan Tahalliy: Perjalanan Membersihkan Jiwa
 
-Ini bukan berarti setiap keputusan harus menunggu data yang sempurna. Maksudnya adalah **besarnya kesimpulan harus sebanding dengan banyaknya dan kualitas informasi yang tersedia**.
+Dalam tradisi tazkiyatun nafs (penyucian jiwa), proses pembersihan karakter buruk (*at-takhalliy*) dan penghiasan diri dengan keluhuran akhlak (*at-tahalliy*) tidak pernah berlangsung sekali jadi.[^9]
 
-## Perkembangan sebagai perjalanan
+Jiwa manusia memiliki kecenderungan bawaan untuk mempertahankan pola-pola lama yang sudah terbiasa (*'ādāt qadīmah*). Ketika santri berikhtiar membuang kebiasaan berkata kasar, sifat tercela itu tidak langsung lenyap seketika laksana membalikkan telapak tangan. Terkadang sisa-sisa residu kebiasaan lama itu muncul kembali secara tidak sengaja saat ia terdesak atau terkejut.
 
-Cara pandang ini membuat pendidikan lebih realistis. Tujuan tetap diperlukan, tetapi tujuan tidak boleh membuat kita menganggap manusia sebagai proyek yang bergerak otomatis dari titik A ke titik B.
+Imam Ibnu Qayyim al-Jauziyyah dalam *Madarij as-Salikin* melukiskan perjalanan spiritual ini laksana perahu yang mendayung melawan arus air:
+> *"Orang yang menempuh jalan perbaikan jiwa laksana penunggang kuda yang melatih kudanya yang liar. Apabila penunggang lengah sejenak, kuda itu akan mencoba mengambil kembali kendalinya. Maka jalan keselamatan adalah keteguhan yang sabar dan terus-menerus memperbaiki langkah setiap kali tergelincir."*[^10]
 
-Ada saat ketika seseorang membutuhkan tantangan yang lebih besar. Ada saat ketika ia membutuhkan penguatan dasar. Ada saat ketika ia perlu diberi kesempatan memperbaiki kesalahan. Dan ada saat ketika lingkungan perlu diperbaiki agar perkembangan yang diharapkan kembali mungkin terjadi.
+Oleh karena itu, sistem pembinaan santri harus diposisikan sebagai **wahana penyucian jiwa bertahap (*riyadhah mustamirrah*)**, di mana setiap kali santri terjatuh, tangan pembina terulur untuk membantunya bangkit, beristighfar, melakukan reparasi moral atas kesalahannya (*ishlah*), dan melanjutkan langkah tanpa beban stigma yang membunuh masa depan.[^11]
 
-Karena itu, perkembangan perlu dibaca sebagai **perjalanan yang memiliki arah**, bukan garis lurus yang harus selalu naik.
+---
 
-Arah tetap penting karena pendidikan membutuhkan tujuan. Perjalanan penting karena manusia membutuhkan waktu, pengalaman, dukungan, dan kesempatan untuk berubah.
+## Membedakan Kejadian Sesaat dari Pola Karakter
 
-## Batas pembahasan
+Untuk menjaga keadilan dan validitas asesmen dalam sistem TUMBUH, epistemologi pembinaan menggariskan disiplin pembuktian yang ketat:[^12]
 
-Foundation tidak menentukan di sini berapa persen seorang santri harus naik, berapa kali sebuah perilaku harus muncul, atau kapan seseorang boleh disebut “tuntas”. Angka, indikator, bukti, dan kriteria perkembangan akan dirumuskan pada **Core Model, Progression, dan Assessment**.
+1. **Satu Kejadian Bukan Pola Menetap:** Satu kali santri terlambat shalat subuh tidak cukup menjadi bukti bahwa ia adalah santri yang meremehkan shalat secara permanen. Sebaliknya, satu kali santri merapikan rak buku juga belum tentu membuktikan bahwa ia telah memiliki watak tertib yang mendarah daging (*malakah*).
+2. **Pengamatan Longitudinal Berkelanjutan:** Kesimpulan mengenai perkembangan santri hanya sah jika ditarik dari lintasan pengamatan yang konsisten dalam rentang waktu yang memadai, melintasi ragam konteks situasi yang berbeda (di kamar, di kelas, saat berolahraga, dan saat masa liburan).[^13]
+3. **Melihat Respons Terhadap Umpan Balik:** Tolok ukur kematangan sejati sering kali bukan terletak pada ketiadaan kesalahan sama sekali, melainkan pada **bagaimana santri merespons teguran**: apakah ia membantah dengan kesombongan, menipu dengan kepatuhan palsu, ataukah ia menerima dengan kerendahan hati dan bersungguh-sungguh memperbaiki diri.[^14]
 
-Foundation hanya menetapkan cara pandangnya: **perubahan manusia dapat berlangsung tidak seragam dan tidak selalu linear; karena itu sistem harus membaca perkembangan secara hati-hati, kontekstual, dan dari waktu ke waktu.**
+```text
+KEJADIAN TUNGGAL (Single Event) ⟶ Data Awal Pengamatan, Bukan Kesimpulan Mutlak
+POLA BERULANG (Longitudinal)    ⟶ Dasar Penilaian Kapasitas & Penyesuaian Dukungan
+RESPONS REPARASI (Ishlah)       ⟶ Indikator Sejati Kematangan Fitrah & Rusyd
+```
 
-Pertanyaan berikutnya: **kalau perkembangan berlangsung seperti ini, apa konsekuensinya bagi cara TUMBUH merancang pendidikan?**
+Prinsip bahwa perkembangan tidak selalu lurus ini membebaskan para pendidik dari kepanikan yang berlebihan, sekaligus mengarahkan kita pada pertanyaan pamungkas: **apa implikasi filosofis menyeluruh dari seluruh dinamika perkembangan manusia ini bagi rancang bangun sistem pendidikan TUMBUH?**
 
-## Rujukan
+---
 
-- American Psychological Association. *Lifespan Perspective*. APA Dictionary of Psychology. https://dictionary.apa.org/lifespan-perspective
-- Baltes, P. B. (1987). Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline. *Developmental Psychology*, 23(5), 611–626.
-- Hülür, G., Gerstorf, D., & Ram, N. (2015). Cognitive training and plasticity: Theoretical perspective and methodological consequences. *Frontiers in Human Neuroscience*, 9, 107. https://pmc.ncbi.nlm.nih.gov/articles/PMC3607292/
+## Catatan Kaki
+
+[^1]: Thelen, E., & Smith, L. B. (1994). *A Dynamic Systems Approach to the Development of Cognition and Action*. MIT Press, hlm. 43–68.
+[^2]: Baltes, P. B. (1987). Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline. *Developmental Psychology*, 23(5), 611–626.
+[^3]: PROBE P0213. (2025). *Epistemic Tyranny and Abuses of Authority in Boarding School Operational Regimes*. Arsip Penyelidikan Desain TUMBUH.
+[^4]: Hadits riwayat Ahmad dalam *Musnad Ahmad* (No. 6764) dan Ibnu Hibban dalam *Shahih Ibn Hibban* (No. 11). Dinyatakan shahih oleh Syu'aib al-Arna'uth.
+[^5]: Ibnu Rajab al-Hanbali. (2001). *Jami' al-'Ulum wal-Hikam fi Syarh Khamsina Haditsan min Jawami' al-Kalim*. Mu'assasat ar-Risalah, Jilid 2, hlm. 488–495.
+[^6]: Hadits riwayat Muslim dalam *Shahih Muslim* (No. 2750, Kitab at-Taubah).
+[^7]: PROBE P0004. (2025). *Distinction between Capacity, Competency, Behavior, and Transient State in Educational Assessment*. Arsip Penyelidikan Desain TUMBUH.
+[^8]: McEwen, B. S. (2007). Physiology and neurobiology of stress and adaptation: Central role of the brain. *Physiological Reviews*, 87(3), 873–904.
+[^9]: Al-Ghazali, Abu Hamid. (2005). *Ihya' 'Ulum al-Din*. Dar Ibnu Hazm, Jilid 3, Kitab Kasyr asy-Syahwatayn, hlm. 980–992.
+[^10]: Ibnu Qayyim al-Jauziyyah. (1996). *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*. Dar al-Kitab al-'Arabi, Jilid 2, hlm. 12–20.
+[^11]: PROBE P0209. (2025). *Internalized Understanding vs. Cosmetic Compliance in Boarding School Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^12]: Messick, S. (1995). Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning. *American Psychologist*, 50(9), 741–749.
+[^13]: Lerner, R. M. (2004). Diversity in individual context relations as the basis for positive development across the life span. *Research in Human Development*, 1(4), 327–346.
+[^14]: Al-Muhasibi, Al-Harits. (1971). *Ar-Ri'ayah li Huquqillah*. Dar al-Kutub al-'Ilmiyyah, hlm. 112–125 (adab menerima kebenaran dan taubat nasuha).
