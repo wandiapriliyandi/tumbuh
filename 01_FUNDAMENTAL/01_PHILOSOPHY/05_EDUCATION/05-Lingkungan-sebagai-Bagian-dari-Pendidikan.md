@@ -1,94 +1,106 @@
 # 05 — Lingkungan sebagai Bagian dari Pendidikan
 
-Santri tidak hanya belajar ketika guru sedang menjelaskan sesuatu.
+Di lingkungan pesantren, proses belajar tidak pernah dibatasi oleh empat dinding ruang kelas atau jam pelajaran formal belaka. 
 
-Cara aturan diterapkan, cara orang dewasa berbicara, bagaimana teman saling memperlakukan, bagaimana tugas diberikan, bagaimana kesalahan ditanggapi, dan bagaimana kehidupan sehari-hari diatur semuanya memberi pelajaran.
+Seorang santri menyerap pendidikan dari seluruh tarikan napas kehidupannya selama 24 jam sehari: bagaimana aroma kamar tidurnya saat terbangun di waktu fajar, bagaimana para santri senior memperlakukan adik kelasnya di tempat antrean mandi, bagaimana musyrif menyapa saat santri tampak murung, bagaimana kebersihan piring makan dijaga bersama, serta bagaimana aturan ditegakkan saat terjadi perselisihan. Seluruh peristiwa keseharian ini mengirimkan jutaan pesan tak terucap yang merasuk langsung ke relung bawah sadar santri.[^1]
 
-Dalam pesantren, hal ini sangat terasa karena santri hidup dalam lingkungan yang relatif intens. Kelas, asrama, masjid, kegiatan bersama, pelayanan, rutinitas, dan relasi dengan teman sebaya saling bertemu dalam kehidupan sehari-hari.
+Oleh karena itu, ekosistem TUMBUH menegaskan sebuah aksioma mendasar: **lingkungan fisik, sosial, dan kultural pesantren bukan sekadar panggung tempat pendidikan berlangsung, melainkan lingkungan itu sendiri adalah kurikulum hidup yang secara aktif ikut mendidik jiwa manusia**.[^2]
 
-Karena itu lingkungan bukan sekadar tempat pendidikan berlangsung. **Lingkungan ikut mendidik.**
+---
 
-## Apa yang sebenarnya dipelajari dari lingkungan?
+## Kurikulum Tersembunyi (*Hidden Curriculum*) di Lingkungan Asrama
 
-Ada perbedaan antara apa yang tertulis dalam aturan dan apa yang dialami santri setiap hari.
+Dalam sosiologi pendidikan modern, perbedaan antara apa yang diajarkan secara resmi di dalam kelas dan apa yang dialami santri secara nyata dalam kesehariannya dikenal dengan istilah **Kurikulum Tersembunyi (*Hidden Curriculum*)**.[^3]
 
-Sebuah pesantren dapat menulis “disiplin” sebagai nilai. Tetapi santri akan memahami makna disiplin dari pengalaman yang berulang: bagaimana keterlambatan ditangani, apakah orang dewasa sendiri menaati aturan, apakah aturan diterapkan secara konsisten, dan apakah ada kesempatan untuk memperbaiki kesalahan.
+Konsep yang dirintis oleh Philip W. Jackson (1968) ini menyingkap bahwa peserta didik mempelajari nilai, norma, dan keyakinan bukan terutama dari teks buku pelajaran, melainkan dari struktur tata kelola, kebiasaan komunitas, dan pola relasi kekuasaan yang bekerja di sekitarnya.[^4]
 
-Begitu juga dengan tanggung jawab. Jika lembaga terus mengatakan bahwa santri harus mandiri tetapi semua kebutuhan mereka selalu dikerjakan orang dewasa, pesan yang diterima dari lingkungan bisa berbeda dari pesan yang disampaikan dalam kelas.
+| Pesan yang Diajarkan Resmi (*Written Curriculum*) | Kenyataan Lapangan yang Dialami Santri | Pelajaran Sejati yang Tertanam (*Hidden Curriculum*) |
+|---|---|---|
+| Guru mengajarkan bab tentang kebersihan dan kesucian (*thaharah*) di kelas fiqih. | Toilet asrama kotor, air sering mampet, dan tempat sampah meluap tanpa perawatan kelembagaan. | Santri menyimpulkan bahwa kebersihan hanyalah teori ujian, bukan standar hidup nyata yang wajib ditegakkan. |
+| Ustadz mengkhotbahkan ukhuwah Islamiyah dan larangan menzalimi sesama mukmin. | Santri senior mempraktikkan tradisi perpeloncoan, memaki, atau menyuruh junior mencuci bajunya secara paksa. | Santri menyerap hukum rimba feodal: *"Siapa yang kuat berkuasa menindas yang lemah; kelak jika aku senior, giliranku menindas."*[^5] |
+| Lembaga memasang poster kejujuran dan integritas di setiap sudut lorong. | Pengasuh menutupi kasus pencurian demi menjaga nama baik citra pesantren di mata donatur dan publik. | Santri belajar kemunafikan: *"Pencitraan dan gengsi sosial jauh lebih penting daripada menegakkan kebenaran faktual."*[^6] |
 
-Hal yang sama berlaku untuk adab. Jika santri diajarkan untuk menghormati orang lain tetapi melihat orang yang memiliki kewenangan mempermalukan orang yang lebih lemah, mereka mendapat pelajaran yang sangat kuat—meskipun pelajaran itu tidak pernah tertulis dalam buku.
+TUMBUH mengunci dengan sangat tegas: **apabila terjadi pertentangan antara apa yang diajarkan di mimbar dengan apa yang dialami santri di asrama, maka kurikulum tersembunyi di asrama lah yang akan selalu menang dan membentuk karakter santri secara permanen**.[^7]
 
-Inilah yang sering disebut **hidden curriculum**, yaitu pelajaran yang tidak selalu tertulis dalam kurikulum tetapi dipelajari melalui budaya, kebiasaan, hubungan, dan cara lembaga menjalankan kehidupan sehari-hari.[^1]
+---
 
-## Lingkungan bukan hanya bangunan
+## Hakikat Bi'ah Shalihah: Ekosistem Penjaga Fitrah Manusia
 
-Ketika kita berbicara tentang lingkungan pendidikan, yang dimaksud bukan hanya gedung, kamar, halaman, atau fasilitas.
+Dalam khazanah peradaban Islam, penataan atmosfer lingkungan yang kondusif dirumuskan melalui konsep **Bi'ah Shālihah** (lingkungan pergaulan yang luhur dan menyejukkan). Lingkungan adalah medan perjumpaan ruhani yang memiliki daya rembesan batiniah yang amat dahsyat, sebagaimana sabda Rasulullah ﷺ:[^8]
 
-Lingkungan juga mencakup:
+$$
+\text{مَثَلُ الْجَلِيسِ الصَّالِحِ وَالسَّوْءِ، كَحَامِلِ الْمِسْكِ وَنَافِخِ الْكِيرِ...}
+$$
 
-- hubungan antara orang dewasa dan santri;
-- hubungan antarsantri;
-- aturan dan cara aturan diterapkan;
-- pembagian tanggung jawab;
-- kesempatan untuk memilih dan mengambil keputusan;
-- pola penghargaan dan koreksi;
-- kebiasaan yang dilakukan berulang-ulang; dan
-- budaya yang dianggap normal oleh komunitas.
+> *"Perumpamaan kawan duduk yang shalih dan kawan duduk yang buruk laksana pembawa minyak wangi dan peniup cerobong api pandai besi..."* (HR. Al-Bukhari dan Muslim)[^9]
 
-Ilmu perkembangan membantu menjelaskan mengapa hal-hal tersebut penting. Perkembangan manusia berlangsung melalui hubungan timbal balik antara individu dan berbagai lingkungan tempat ia hidup. Keluarga, sekolah, teman sebaya, lembaga, budaya, dan kondisi kehidupan dapat membuka atau membatasi peluang perkembangan.[^2]
+Penerapan hadits ini di dunia pesantren menuntut para pengelola kelembagaan untuk merancang ekosistem asrama yang memancarkan "aroma wangi":
+1. **Kehangatan Sosial yang Inklusif:** Terbebas dari klik-klik primordial kedaerahan, kasta kekayaan ekonomi keluarga, atau polarisasi senior-junior yang menindas;[^10]
+2. **Budaya Amanah dan Kejujuran:** Barang-barang santri yang tercecer dapat ditemukan kembali di pos pengaduan tanpa takut dicuri;
+3. **Atmosfer Syiar Ibadah yang Hidup:** Gema tilawah Al-Qur'an, adzan yang disahuti dengan langkah bergegas menuju shalat berjamaah, serta keheningan malam yang dijaga untuk istirahat dan qiyamul lail.[^11]
 
-Karena itu perubahan pada lingkungan dapat mengubah pengalaman santri. Sebaliknya, tindakan santri juga dapat memengaruhi lingkungan yang ia tempati.
+---
 
-## Budaya lebih kuat daripada poster
+## Rekayasa Lingkungan Fisik: Menghargai Fitrah Biologis Santri
 
-Ini salah satu alasan mengapa pendidikan karakter tidak cukup hanya dengan menambah slogan, poster, atau sesi nasihat.
+Lingkungan bukan hanya soal kata-kata dan adab sosial, melainkan juga menyangkut **rekayasa lingkungan fisik (*physical environmental engineering*)** yang manusiawi.[^12]
 
-Kalau setiap hari santri melihat orang dewasa menepati janji, meminta maaf ketika salah, menjaga kebersihan, dan memperlakukan orang lain dengan hormat, nilai tersebut mendapat dukungan dari lingkungan.
+Banyak kegagalan pembinaan di pesantren sesungguhnya tidak berakar dari kerusakan moral santri, melainkan dipicu oleh pengabaian pengelola kelembagaan terhadap kebutuhan fisik biologis dasar manusia:[^13]
+- **Kualitas Tidur dan Ritme Sirkadian:** Kamar tidur yang terlalu padat, panas tanpa sirkulasi ventilasi yang memadai, atau dipenuhi kutu kasur secara langsung merusak kualitas tidur gelombang lambat (*deep sleep*) santri. Akibatnya, pada siang hari santri mengalami kabut otak (*brain fog*), kehilangan fokus belajar di kelas, dan emosinya menjadi sangat mudah tersulut amarah;[^14]
+- **Rasio Sanitasi yang Manusiawi:** Antrean kamar mandi yang terlalu panjang di waktu subuh memicu stres akut, pertengkaran antarteman, dan keterlambatan shalat berjamaah;
+- **Kecukupan Nutrisi Halal dan Thayyib:** Asupan makanan yang bergizi seimbang merupakan bahan bakar mutlak bagi perkembangan neuroplastisitas otak remaja santri.[^15]
 
-Sebaliknya, jika nilai hanya muncul dalam materi sementara praktik sehari-hari menunjukkan hal yang berbeda, santri harus berhadapan dengan dua pesan yang bertentangan.
+Para pembina senior dan pengelola kelembagaan wajib menyadari bahwa menyediakan ventilasi yang sejuk, kasur yang bersih, dan air yang melimpah di asrama adalah bagian dari **ibadah tarbiyah yang agung**, karena fasilitas fisik itulah yang memungkinkan santri beribadah dan menuntut ilmu dengan khusyuk dan bermartabat.[^16]
 
-Maka ketika TUMBUH berbicara tentang nilai, kita perlu bertanya bukan hanya:
+---
 
-**“Apa yang kita ajarkan?”**
+## Masalah dan Konflik sebagai Laboratorium Pembelajaran Adab
 
-tetapi juga:
+Lingkungan pendidikan yang sehat bukanlah lingkungan artifisial yang steril dari seluruh masalah dan perselisihan manusiawi. 
 
-**“Apa yang sebenarnya dialami santri setiap hari?”**
+Selama puluhan atau ratusan santri hidup bersama dalam satu atap asrama 24 jam, gesekan antarwatak, kesalahpahaman komunikasi, dan pelanggaran disiplin adalah keniscayaan yang wajar terjadi. Namun, pembeda antara pesantren yang beradab dan pesantren yang militeristik terletak pada **bagaimana masalah tersebut ditanggapi oleh para pengasuh**:[^17]
 
-## Masalah juga dapat menjadi pengalaman pendidikan
+```text
+PENDEKATAN PUNITIF / MILITERISTIK:
+Pelanggaran ──> Kemarahan Musyrif ──> Hukuman Fisik / Sanksi Memalukan
+                (Masalah Ditekan Sementara, Dendam Membakar Batin)
 
-Lingkungan pendidikan tidak perlu dibuat seolah-olah tidak pernah ada masalah.
+PENDEKATAN RESTORATIF TUMBUH:
+Pelanggaran ──> Dialog Investigatif ──> Muhasabah & Kesadaran Salah ──> Reparasi Nyata (Ishlah)
+                (Fitrah Diselamatkan, Adab Diinternalisasi, Ukhuwah Dipulihkan)
+```
 
-Konflik, kesalahan, frustrasi, kegagalan, dan perbedaan pendapat tetap akan muncul. Bahkan pengalaman seperti itu dapat menjadi bagian penting dari pendidikan jika ditangani dengan benar.
+TUMBUH memposisikan setiap konflik dan kesalahan santri sebagai **laboratorium tarbiyah yang paling hidup**:[^18]
+- Santri yang berselisih diajak duduk melingkar dalam suasana damai;
+- Masing-masing diberi ruang untuk mendengarkan perspektif saudaranya tanpa memotong pembicaraan (*adab al-istima'*);
+- Pelanggar dibimbing untuk mengakui kesalahannya secara jantan, meminta maaf dengan tulus, dan melakukan tindakan pemulihan yang nyata (*reparation/restitution*), seperti membersihkan area asrama bersama atau mengganti barang yang dirusaknya;
+- Pihak yang dirugikan dibimbing untuk memaafkan dan mengubur dendam demi meraih kemuliaan di sisi Allah SWT (*ishlah al-bain*).[^19]
 
-Santri yang mengalami konflik dapat belajar menyelesaikan masalah. Santri yang melakukan kesalahan dapat belajar memahami akibat dan memperbaikinya. Santri yang gagal dapat belajar mencoba kembali.
+Dengan pendekatan restoratif ini, lingkungan asrama pesantren menjelma menjadi miniatur masyarakat madani tempat santri belajar mempraktikkan keadilan, perdamaian, dan keluhuran adab dalam kehidupan nyata.[^20]
 
-Tetapi hasilnya bergantung pada bagaimana lingkungan merespons. Jika setiap masalah hanya berakhir dengan penghukuman atau penghinaan, santri mungkin belajar menghindari masalah atau menyembunyikan kesalahan. Jika masalah digunakan sebagai kesempatan untuk belajar dengan batas yang tetap jelas, pengalaman tersebut dapat menjadi bagian dari perkembangan.
+Setelah memahami bagaimana ekosistem lingkungan mendidik batin manusia, pertanyaan mendasar berikutnya adalah: **bagaimanakah ilmu pengetahuan, nilai-nilai moral, dan tempaan pengalaman konkret dipadukan menjadi satu kesatuan kapasitas amal yang kokoh?**
 
-Karena itu **lingkungan yang mendidik bukan lingkungan tanpa masalah, tetapi lingkungan yang membantu manusia belajar menghadapi masalah dengan cara yang benar.**
+---
 
-## Lingkungan perlu dirancang, bukan hanya diwarisi
+## Catatan Kaki
 
-Budaya lembaga sering terbentuk dari kebiasaan lama. Karena sudah berlangsung bertahun-tahun, kebiasaan tersebut mudah dianggap sebagai sesuatu yang memang “harus begitu”.
-
-TUMBUH perlu mengajak lembaga memeriksa kembali kebiasaan tersebut.
-
-Apakah aturan membantu tujuan pendidikan? Apakah struktur kewenangan memberi ruang bagi kemandirian? Apakah jadwal memberi kesempatan untuk beristirahat dan belajar? Apakah cara memberi hukuman atau penghargaan mendukung tanggung jawab? Apakah orang dewasa menunjukkan nilai yang sama dengan yang diminta dari santri?
-
-Pertanyaan seperti ini belum menjadi SOP atau desain intervensi. Ia merupakan cara berpikir pada level Foundation: **lingkungan adalah bagian dari sistem pendidikan dan karena itu perlu sengaja diperhatikan.**
-
-Rincian desain lingkungan, governance, pembagian peran, program, dan intervensi akan dibahas pada layer berikutnya.
-
-Dengan demikian, pendidikan berlangsung bukan hanya melalui apa yang pendidik katakan kepada santri, tetapi juga melalui **dunia kecil yang setiap hari mereka alami**.
-
-Pertanyaan berikutnya: **kalau pengalaman sehari-hari ikut mendidik, apa yang membuat sebuah pengalaman benar-benar mengubah pengetahuan, nilai, dan kemampuan seseorang?**
-
-## Catatan kaki
-
-[^1]: Ma'arif, M. A., & Arif, M. (2026). “Sustaining character education in pesantren: A holistic and culturally embedded learning ecosystem.” *Jurnal Cakrawala Pendidikan*, 45(2). https://doi.org/10.21831/cp.v45i2.94968.
-[^2]: Tong, P., & An, I. S. (2023). “Review of studies applying Bronfenbrenner's bioecological theory in international and intercultural education research.” *Frontiers in Psychology*, 14. https://doi.org/10.3389/fpsyg.2023.1233925.
-
-## Rujukan
-
-- Ma'arif, M. A., & Arif, M. (2026). “Sustaining character education in pesantren: A holistic and culturally embedded learning ecosystem.” *Jurnal Cakrawala Pendidikan*, 45(2). https://doi.org/10.21831/cp.v45i2.94968.
-- Tong, P., & An, I. S. (2023). “Review of studies applying Bronfenbrenner's bioecological theory in international and intercultural education research.” *Frontiers in Psychology*, 14. https://doi.org/10.3389/fpsyg.2023.1233925.
+[^1]: Bronfenbrenner, U. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Harvard University Press, hlm. 21–38.
+[^2]: Dewey, J. (1916). *Democracy and Education: An Introduction to the Philosophy of Education*. Macmillan, hlm. 12–26 (pendidikan sebagai fungsi sosial dan pembentukan melalui lingkungan).
+[^3]: Jackson, P. W. (1968). *Life in Classrooms*. Holt, Rinehart and Winston, hlm. 10–35 (konsep kurikulum tersembunyi).
+[^4]: Apple, M. W. (2004). *Ideology and Curriculum* (3rd ed.). RoutledgeFalmer, hlm. 43–62.
+[^5]: PROBE P0227. (2025). *Safeguarding Dignity: Eliminating Feudal Hierarchies in Student Leadership Frameworks*. Arsip Penyelidikan Desain TUMBUH.
+[^6]: PROBE P0213. (2025). *Epistemic Tyranny and Abuses of Authority in Boarding School Operational Regimes*. Arsip Penyelidikan Desain TUMBUH.
+[^7]: PROBE P0209. (2025). *Internalized Understanding vs. Cosmetic Compliance in Boarding School Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^8]: An-Nawawi, Muhyiddin Yahya bin Syaraf. (1972). *Al-Minhaj Syarh Shahih Muslim bin al-Hajjaj*. Dar Ihya' at-Turats al-'Arabi, Jilid 16, hlm. 178.
+[^9]: Hadits riwayat Al-Bukhari dalam *Shahih al-Bukhari* (No. 5534) dan Muslim dalam *Shahih Muslim* (No. 2628).
+[^10]: PROBE P0249. (2025). *Intergenerational Dynamics and Acculturation Stress in Traditional Boarding Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^11]: Al-Ghazali, Abu Hamid. (2005). *Ihya' 'Ulum al-Din*. Dar Ibnu Hazm, Jilid 1, Kitab Adab Tilawat al-Qur'an, hlm. 280–295.
+[^12]: Evans, G. W. (2006). Child development and the physical environment. *Annual Review of Psychology*, 57, 423–451.
+[^13]: PROBE P0199. (2025). *Institutional Failures in Behavioral Interventions: Diagnostic Protocol and Root-Cause Tracking*. Arsip Penyelidikan Desain TUMBUH.
+[^14]: Walker, M. P. (2017). *Why We Sleep: Unlocking the Power of Sleep and Dreams*. Scribner, hlm. 89–108 (urgensi tidur REM dan NREM bagi fungsi kognitif dan kestabilan emosi remaja).
+[^15]: Gomez-Pinilla, F. (2008). Brain foods: The effects of nutrients on brain function. *Nature Reviews Neuroscience*, 9(7), 568–578.
+[^16]: Ibnu Jama'ah, Badruddin. (2012). *Tadzkirat as-Sami' wal-Mutakallim*. Dar al-Basyair al-Islamiyyah, hlm. 88–94 (adab menjaga fasilitas madrasah dan kebersihan asrama).
+[^17]: Morrison, B. E., & Vaandering, D. (2012). Restorative justice: Pedagogical possibilities for school communities. *The Journal of Peace Education and Social Justice*, 6(2), 138–153.
+[^18]: Zehr, H. (2002). *The Little Book of Restorative Justice*. Good Books, hlm. 19–38.
+[^19]: Departemen Agama Republik Indonesia. (2019). *Al-Qur'an dan Terjemahannya*. Lajnah Pentashihan Mushaf Al-Qur'an, QS. Al-Hujurat [49]: 9–10 (perintah ishlah di antara orang-orang beriman).
+[^20]: Al-Mawardi, Ali bin Muhammad. (1987). *Adab ad-Dunya wad-Din*. Dar Maktabat al-Hayah, hlm. 145–156.

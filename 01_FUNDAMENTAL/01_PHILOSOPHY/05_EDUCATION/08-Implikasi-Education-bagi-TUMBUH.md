@@ -1,130 +1,125 @@
 # 08 — Implikasi Education bagi TUMBUH
 
-Pembahasan Education berujung pada satu pertanyaan sederhana: **kalau pendidikan memang dimaksudkan untuk membantu manusia bertumbuh, apa yang harus berubah dalam cara kita merancang sistem TUMBUH?**
+Seluruh penyelidikan filosofis dalam subdomain *Education* bermuara pada satu pertanyaan praktis yang menentukan jalannya sejarah kelembagaan: **apabila hakikat pendidikan adalah menuntun fitrah manusia menuju kematangan sejati (*Ar-Rusyd*), maka apa saja konsekuensi arsitektural yang wajib diwujudkan dalam rancang bangun sistem pendidikan TUMBUH?**[^1]
 
-Jawabannya bukan membuat lebih banyak kegiatan. Yang berubah adalah cara kita melihat seluruh kegiatan pendidikan.
+Jawabannya bukanlah menambah tumpukan agenda seremonial atau memperbanyak pasal-pasal larangan tata tertib. Yang berubah secara radikal adalah **cara pandang kita terhadap manusia santri, cara kita merancang pengalaman belajar, cara kita mengukur keberhasilan, serta etika kita dalam menjalankan amanah kekuasaan di lingkungan pesantren**.[^2]
 
-## Kegiatan harus punya hubungan dengan perkembangan
+Berdasarkan fondasi filosofis *Education*, dirumuskanlah tujuh pilar implikasi sistemik yang mengikat seluruh lapisan arsitektur operasional TUMBUH:
 
-Sebuah kegiatan belum tentu menjadi pendidikan hanya karena ada jadwal, pembimbing, dan target.
+---
 
-TUMBUH perlu menghubungkan kegiatan dengan perubahan yang ingin dibangun pada diri santri. Misalnya, piket kamar bukan hanya soal kamar bersih. Di dalamnya dapat ada latihan tanggung jawab, kerja sama, kepedulian terhadap orang lain, dan kemampuan menyelesaikan tugas tanpa terus-menerus diingatkan.
+## 1. Pergeseran Paradigma: Dari "Programitisme Mekanis" Menuju "Pertumbuhan Kapasitas Batin"
 
-Tetapi kita tidak boleh langsung menyimpulkan bahwa semua kemampuan itu berkembang hanya karena kegiatan sudah dilakukan. Perkembangan perlu dilihat melalui bukti yang sesuai.
+Penyakit kronis yang paling banyak menjangkiti dunia pesantren modern adalah **programitisme**, yakni ilusi menganggap bahwa kesuksesan tarbiyah diukur dari seberapa banyak program kerja yang terlaksana dan seberapa meriah spanduk acara dipajang.[^3]
 
-Jadi sistem tidak berhenti pada pertanyaan:
+TUMBUH menghentikan ilusi administratif tersebut. Sistem TUMBUH mewajibkan setiap aktivitas—mulai dari halaqah shubuh, piket sanitasi kamar, kegiatan olahraga, hingga musyawarah organisasi santri—dihubungkan secara eksplisit dengan **kapasitas adab apa yang sedang dilatihkan pada santri**:[^4]
+- Evaluasi sebuah kegiatan tidak lagi berhenti pada pertanyaan teknis: *"Apakah anggarannya terserap dan acaranya selesai tepat waktu?"*
+- Evaluasi sistemik TUMBUH beralih pada pertanyaan substantif: *"Pengalaman batin apa yang benar-benar dialami oleh santri? Apakah rasa tanggung jawabnya bertambah, apakah kemampuan mengendalikan emosinya terasah, dan apakah ikatan ukhuwahnya semakin erat?"*[^5]
 
-> “Kegiatannya sudah dilaksanakan?”
+Di sinilah **Profil Lulusan (*Graduate Profile*)** dan **Model Inti (*Core Model*)** memegang peranan krusial sebagai kompas pengarah: seluruh program kelembagaan wajib menjadi pelayan bagi terwujudnya kapasitas fitrah yang digariskan dalam Graduate Profile.[^6]
 
-Tetapi bergerak ke pertanyaan:
+---
 
-> “Apa yang sedang dikembangkan, dan bukti apa yang menunjukkan bahwa perkembangan itu terjadi?”
+## 2. Figur Pendidik sebagai Kurikulum Hidup (*Living Curriculum*)
 
-Di sinilah **Graduate Profile** dan **Core Model** menjadi penting. Education memberi arah tentang manusia yang perlu dibantu berkembang. Core Model kemudian merumuskan profil dan kapasitas yang menjadi sasaran pengembangan.
+Di lingkungan pesantren 24 jam, para pengelola kelembagaan, pembina asrama senior, musyrif kamar, guru pengajar, hingga staf dapur bukanlah sekadar operator teknis birokrasi. **Kepribadian, tutur kata, dan cara mereka memperlakukan orang lain adalah kurikulum hidup yang diserap oleh santri setiap detik**.[^7]
 
-## Orang yang mendidik adalah bagian dari pendidikan
+Sebagaimana ditekankan oleh Imam Al-Ghazali dalam *Ihya' 'Ulum al-Din*, anak didik belajar melalui penyerapan visual terhadap akhlak gurunya jauh lebih cepat daripada penyerapan terhadap nasihat lisan sang guru.[^8] Oleh karena itu, sistem TUMBUH menetapkan standar mutu yang ketat bagi integritas para pembina:
+- Program pembinaan karakter secanggih apapun akan runtuh tak bernilai jika musyrifnya sendiri gemar memaki, merokok sembunyi-sembunyi, terlambat shalat berjamaah, atau mempraktikkan kekerasan fisik;[^9]
+- Keteladanan otentik (*Qudwah Hasanah*) adalah kurikulum utama. Pendidik yang adil, jujur, tenang saat menghadapi krisis, dan berani meminta maaf ketika keliru adalah aset tarbiyah yang paling tak ternilai harganya.[^10]
 
-Guru, musyrif, mentor, pengasuh, dan pimpinan bukan hanya pelaksana program. Cara mereka memberi arahan, memberi umpan balik, menegakkan aturan, menghadapi kesalahan, dan memberi kesempatan kepada santri ikut membentuk pengalaman pendidikan.
+---
 
-Tradisi pendidikan Islam memberi perhatian besar pada hal ini. Dalam pembahasan Al-Ghazali tentang adab pendidik dan peserta didik, pendidikan tidak berhenti pada penyampaian ilmu; sikap pendidik, keteladanan, kesabaran, dan tanggung jawab moral juga menjadi bagian penting dari proses pendidikan.[^1]
+## 3. Disiplin Restoratif: Membimbing Tanggung Jawab, Bukan Menebar Teror Ketakutan
 
-Artinya, TUMBUH tidak cukup memiliki program yang baik jika orang yang menjalankannya justru memberi pengalaman yang bertentangan dengan nilai yang ingin dibangun.
+Pesantren membutuhkan ketertiban, batasan yang terang, dan kepastian aturan tata tertib. Namun, TUMBUH menolak keras sistem pendisiplinan yang mengandalkan teror hukuman fisik (*corporal punishment*), pemotongan rambut yang memalukan di depan umum (*public shaming*), atau intimidasi verbal yang meremukkan harga diri santri.[^11]
 
-Karena itu kualitas sistem tidak hanya ditentukan oleh **apa yang dirancang**, tetapi juga oleh **bagaimana manusia di dalam sistem menjalankannya**.
+Riset ilmiah membuktikan bahwa hukuman yang mempermalukan hanya akan melahirkan kepatuhan semu (*cosmetic compliance*) dan dendam batin, tanpa pernah menumbuhkan kesadaran moral sejati.[^12]
 
-## Aturan diperlukan, tetapi bukan tujuan akhir
+TUMBUH mentransformasikan sistem penegakan disiplin menjadi **Disiplin Positif Restoratif (*Restorative Positive Discipline*)**:[^13]
+1. **Pemisahan Perilaku dari Martabat Manusia:** Pelanggarannya dikecam dan ditindak tegas, namun kehormatan santri sebagai hamba Allah tetap dijaga;
+2. **Keterlibatan Santri dalam Memahami Akibat:** Santri dibimbing untuk melihat secara jernih siapa yang dirugikan oleh tindakannya dan bagaimana memulihkan kerusakan tersebut;
+3. **Reparasi Nyata (*Ishlah al-Bain*):** Sanksi bukanlah pembalasan dendam pembina, melainkan tindakan pemulihan moral yang logis dan mendidik (misalnya: mengganti barang yang dirusak, meminta maaf secara tulus, atau berkhidmat membersihkan fasilitas bersama).[^14]
 
-Pesantren membutuhkan aturan. Santri membutuhkan batas, struktur, dan konsekuensi yang jelas.
+---
 
-Namun aturan tidak boleh mengambil alih fungsi pendidikan.
+## 4. Keselarasan Ekologis: Mengeliminasi Disonansi Moral
 
-Santri yang tidak melanggar karena selalu diawasi belum tentu sudah mampu mengatur dirinya. Sebaliknya, santri yang mulai mampu menjaga perilaku ketika pengawasan berkurang menunjukkan perkembangan kapasitas yang lebih dalam.
+Salah satu sumber kebingungan mental santri adalah terjadinya **disonansi pesan moral** di antara berbagai ruang kehidupan pesantren:[^15]
+- Di kelas, guru mengajarkan kejujuran ilmiah dan kelembutan bertutur kata;
+- Di kamar asrama, santri senior membudayakan sarkasme, pemalakan uang jajan, dan tradisi kekerasan fisik;
+- Di ruang rapat, pengelola kelembagaan mengambil keputusan sepihak tanpa transparansi dan menutupi fakta kasus demi menjaga nama baik citra lembaga.[^16]
 
-Karena itu, TUMBUH perlu melihat disiplin sebagai bagian dari proses menuju tanggung jawab, bukan sekadar alat untuk menghasilkan kepatuhan.
+TUMBUH mewajibkan dilakukannya **audit keselarasan ekologis secara berkala**. Seluruh ruang hidup santri—kelas, asrama, masjid, kantin, dan kebijakan pengelola kelembagaan—harus memancarkan satu suara nilai yang sama. Lingkungan fisik (ventilasi, sanitasi, jam tidur) harus ditata agar secara alami mendukung kesehatan mental dan kebugaran ruhani santri.[^17]
 
-Temuan dalam **Self-Determination Theory (SDT)** memberi salah satu pertimbangan ilmiah yang berguna di sini. Tradisi penelitian ini membedakan motivasi yang muncul karena tekanan dari motivasi yang semakin diterima dan dijalankan sebagai bagian dari diri. Dukungan terhadap **autonomy** (rasa memiliki terhadap tindakan sendiri), **competence** (rasa mampu), dan **relatedness** (hubungan yang aman dan bermakna) dikaitkan dengan kualitas motivasi dan keterlibatan belajar yang lebih baik.[^2]
+---
 
-TUMBUH tidak mengambil SDT sebagai teori tunggal. Temuan tersebut digunakan sebagai salah satu bahan ilmiah untuk menguji desain pendidikan:
+## 5. Asesmen Berorientasi Pertumbuhan (*Developmental Assessment*)
 
-> **Apakah cara kita membina santri membantu mereka semakin mampu mengatur diri, atau justru membuat mereka semakin bergantung pada kontrol dari luar?**
+Prinsip pendidikan TUMBUH menegaskan bahwa santri adalah wujud yang sedang bertumbuh, bukan produk mati yang siap diberi stempel vonis.[^18]
 
-## Lingkungan tidak boleh bertentangan dengan pesan pendidikan
+Oleh karena itu, sistem penilaian dalam TUMBUH dirancang dengan kaidah:[^19]
+- **Menolak Reduksionisme Skor Angka Tunggal:** Tidak ada santri yang boleh dirangkum nasib moralnya hanya dengan satu angka angka rapor (misalnya: "Nilai Akhlak 72");
+- **Melihat Pola Lintasan Longitudinal:** Asesmen merekam bagaimana respons santri terhadap bimbingan dari waktu ke waktu, apakah ia menunjukkan ikhtiar perbaikan diri (*trajectory of growth*);
+- **Membedakan Lapisan Fenomena:** Sistem asesmen memisahkan secara disiplin antara kondisi sesaat (*state*), tindakan lahiriah (*behavior*), keterampilan teknis (*competency*), dan watak batin yang telah mendarah daging (*capacity*).[^20]
 
-Kalau nilai yang diajarkan di kelas berbeda dengan apa yang dialami santri di asrama, pesan pendidikan menjadi lemah.
+Hasil asesmen dipergunakan oleh para guru dan musyrif sebagai alat diagnosis untuk menentukan bentuk dukungan pendampingan yang tepat, bukan untuk dipajang sebagai papan pengumuman aib di hadapan khalayak umum.[^21]
 
-Karena itu pendidikan tidak dapat dibebankan hanya kepada guru di kelas.
+---
 
-Budaya kamar, cara senior memperlakukan junior, cara aturan ditegakkan, cara kesalahan diperbaiki, pembagian amanah, sampai cara pimpinan mengambil keputusan semuanya dapat menjadi bagian dari pengalaman pendidikan.
+## 6. Arsitektur Dukungan Bertahap J1–J4 Menuju Ar-Rusyd
 
-Maka desain TUMBUH perlu memperhatikan keselarasan antara:
+TUMBUH mengoperasionalkan prinsip *scaffolding* (dukungan bertahap) dan *Self-Determination Theory* melalui struktur jenjang kemandirian **J1, J2, J3, dan J4**:[^22]
+- **J1:** Perlindungan maksimal dan orientasi terstruktur bagi santri baru;
+- **J2:** Bimbingan terfokus pada penguatan regulasi diri dan dialog hikmah;
+- **J3:** Kemandirian terkawal di mana santri diberi otonomi memecahkan masalahnya sendiri;
+- **J4:** Pencapaian derajat kematangan *Ar-Rusyd*, di mana santri berkhidmat memimpin dan mengayomi adik kelasnya dengan keteladanan yang penuh kasih sayang.[^23]
 
-**apa yang dikatakan → apa yang dilakukan → apa yang terus-menerus dialami santri.**
+TUMBUH mengunci dengan tegas: penempatan jenjang ini adalah panduan alokasi dukungan sistem, bukan kasta kemuliaan manusia dan bukan diskriminasi hak asasi.[^24]
 
-Jika ketiganya bertentangan, santri tetap belajar sesuatu. Hanya saja, yang dipelajari bisa jadi bukan nilai yang secara resmi kita ajarkan.
+---
 
-## Assessment harus mencari bukti perkembangan
+## 7. Jembatan Filosofis Menuju Core Model
 
-Jika tujuan pendidikan adalah perkembangan manusia, maka Assessment nantinya tidak cukup hanya menghitung kehadiran, pelanggaran, atau nilai ujian.
+Dengan tuntasnya subdomain *Education*, berakhirlah seluruh bentangan lapisan pertama sistem: **`01_PHILOSOPHY`** (Worldview ⟶ Epistemology ⟶ Human Nature ⟶ Human Development ⟶ Education).
 
-Bukan berarti data tersebut tidak berguna. Data itu dapat menjadi bagian dari bukti. Tetapi TUMBUH perlu membedakan antara tanda permukaan dan kemampuan yang sebenarnya ingin dikembangkan.
+Seluruh bangunan filosofis ini tidak boleh berhenti sebagai wacana teoritis di atas menara gading. Ia menuntut turunan konkret ke dalam rancang bangun teknis sistem pada lapisan berikutnya: **`01_FUNDAMENTAL/02_CORE_MODEL`**.[^25]
 
-Misalnya, berkurangnya pelanggaran dapat menjadi informasi penting. Namun sistem tetap perlu bertanya: apakah santri mulai memahami alasan sebuah aturan, mampu mengambil keputusan, mampu memperbaiki kesalahan, dan mampu bertindak benar ketika tidak diawasi?
+Di dalam *Core Model*, pertanyaan filosofis *Education* akan diterjemahkan menjadi arsitektur operasional yang presisi:
+1. **Graduate Profile:** Standar profil insan beradab yang menjadi arah kelulusan santri;
+2. **Taksonomi Karakter Berbasis Fitrah:** Pemetaan ranah adab ke dalam dimensi, elemen, dan indikator perilaku yang teramati;
+3. **Kapasitas Inti (*Core Capacities*):** Rumusan daya nalar, ketahanan emosi, dan integritas amanah yang dapat dilatihkan secara terukur dalam kehidupan asrama 24 jam.[^26]
 
-Pertanyaan seperti ini membawa Education secara langsung menuju pekerjaan Assessment. **Epistemology** memberi batas tentang bagaimana pengetahuan dan bukti dinilai, sedangkan **Assessment** akan menentukan bagaimana bukti perkembangan dikumpulkan dan digunakan.
+Dengan demikian, sistem TUMBUH berdiri tegak di atas fondasi yang kokoh: **berakar mendalam pada wahyu Ilahi dan khazanah turats peradaban Islam, diterangi oleh metodologi sains pendidikan kontemporer yang teruji, serta berbuah lebat dalam praktik pengasuhan pesantren yang adil, manusiawi, dan memuliakan martabat manusia.**[^27]
 
-Di sini juga berlaku prinsip penting dari Education 06: pengalaman, pengetahuan, dan nilai tidak boleh dipisahkan dari pertanyaan tentang perkembangan kemampuan. Kegiatan bukan bukti perkembangan hanya karena kegiatan itu terjadi.
+---
 
-## TUMBUH bukan mesin yang menghasilkan manusia seragam
+## Catatan Kaki
 
-Ada satu batas yang perlu dijaga.
-
-Ketika kita mulai menghubungkan pendidikan dengan profil, kapasitas, perkembangan, dan assessment, mudah sekali sistem berubah menjadi mesin produksi: semua santri diberi pengalaman yang sama, dinilai dengan cara yang sama, lalu diharapkan menghasilkan bentuk manusia yang sama.
-
-Itu bukan arah TUMBUH.
-
-TUMBUH membutuhkan arah yang jelas, tetapi manusia tetap memiliki perbedaan kemampuan, pengalaman, kebutuhan, konteks, dan jalur perkembangan. Karena itu sistem harus memiliki tujuan tanpa menghilangkan individualitas manusia.
-
-**Standar memberi arah; perkembangan manusia tetap memiliki variasi.**
-
-Rincian tentang bagaimana variasi itu ditangani akan dibahas pada Core Model, Progression, Assessment, dan Intervention.
-
-## Dari Education menuju bagian berikutnya
-
-Dari seluruh pembahasan Education, satu arah dapat dipertahankan:
-
-> **Pendidikan membantu manusia menjadi semakin mampu menjalani nilai dan tanggung jawabnya dalam kehidupan nyata.**
-
-Karena itu keberhasilan TUMBUH tidak cukup dilihat dari banyaknya program yang terlaksana atau kepatuhan santri selama berada di bawah pengawasan.
-
-Yang perlu dilihat adalah apakah kapasitas mereka berkembang, apakah nilai semakin diwujudkan dalam tindakan, apakah pengalaman menghasilkan pembelajaran, dan apakah bantuan yang diberikan secara bertahap dapat dialihkan menjadi kemampuan mengelola diri.
-
-Education selesai pada titik ini sebagai bagian dari **Foundation**. Ia tidak menentukan seluruh isi Core Model, tidak membuat rubrik Assessment, tidak memilih intervensi, dan tidak menyusun SOP Implementation.
-
-Ia memberikan **cara memahami pendidikan** yang harus menjadi pertimbangan ketika bagian-bagian tersebut dirancang.
-
-Dengan demikian, alurnya menjadi jelas:
-
-**Worldview** memberi cara pandang tentang kenyataan dan kehidupan.
-
-**Epistemology** memberi cara menilai pengetahuan dan bukti.
-
-**Human Nature** membantu memahami siapa manusia.
-
-**Human Development** membantu memahami bagaimana manusia berubah dan bertumbuh.
-
-**Education** menjelaskan bagaimana proses yang disengaja dapat membantu pertumbuhan itu.
-
-Setelah ini, pertanyaan Foundation berikutnya menjadi lebih spesifik:
-
-**Kalau pendidikan adalah proses yang disengaja untuk membantu manusia bertumbuh, siapa yang memimpin proses itu dan seperti apa kepemimpinan yang dibutuhkan?**
-
-### Catatan kaki
-
-[^1]: Al-Ghazali, *Ihya' 'Ulum al-Din*, terutama pembahasan adab pendidik dan peserta didik.
-
-[^2]: Ryan, R. M., & Deci, E. L. (2000). “Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being.” *American Psychologist*, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
-
-## Rujukan
-
-- Al-Ghazali. *Ihya' 'Ulum al-Din*.
-- Ryan, R. M., & Deci, E. L. (2000). “Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being.” *American Psychologist*, 55(1), 68–78. https://doi.org/10.1037/0003-066X.55.1.68
+[^1]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. International Institute of Islamic Thought and Civilization (ISTAC), hlm. 15–28.
+[^2]: PROBE P0213. (2025). *Epistemic Tyranny and Abuses of Authority in Boarding School Operational Regimes*. Arsip Penyelidikan Desain TUMBUH.
+[^3]: Dewey, J. (1938). *Experience and Education*. New York: Macmillan, hlm. 25–40.
+[^4]: PROBE P0004. (2025). *Distinction between Capacity, Competency, Behavior, and Transient State in Educational Assessment*. Arsip Penyelidikan Desain TUMBUH.
+[^5]: Darling-Hammond, L., Flook, L., Cook-Harvey, C., Barron, B., & Osher, D. (2020). Implications for educational practice of the science of learning and development. *Applied Developmental Science*, 24(2), 97–140.
+[^6]: Al-Attas, S. M. N. (1995). *Prolegomena to the Metaphysics of Islam*. ISTAC, hlm. 41–56.
+[^7]: Jackson, P. W. (1968). *Life in Classrooms*. Holt, Rinehart and Winston, hlm. 10–35.
+[^8]: Al-Ghazali, Abu Hamid. (2005). *Ihya' 'Ulum al-Din*. Dar Ibnu Hazm, Jilid 1, Kitab al-'Ilm, hlm. 72–78.
+[^9]: Bandura, A. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Prentice-Hall, hlm. 47–65.
+[^10]: Ibnu Jama'ah, Badruddin. (2012). *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim*. Dar al-Basyair al-Islamiyyah, hlm. 68–85.
+[^11]: Gershoff, E. T. (2002). Corporal punishment by parents and associated child behaviors and experiences: A meta-analytic and theoretical review. *Psychological Bulletin*, 128(4), 539–579.
+[^12]: PROBE P0209. (2025). *Internalized Understanding vs. Cosmetic Compliance in Boarding School Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^13]: Zehr, H. (2002). *The Little Book of Restorative Justice*. Good Books, hlm. 19–38.
+[^14]: Nelsen, J. (2006). *Positive Discipline*. Ballantine Books, hlm. 15–32.
+[^15]: Bronfenbrenner, U. (1979). *The Ecology of Human Development*. Harvard University Press, hlm. 237–258.
+[^16]: PROBE P0199. (2025). *Institutional Failures in Behavioral Interventions: Diagnostic Protocol and Root-Cause Tracking*. Arsip Penyelidikan Desain TUMBUH.
+[^17]: Evans, G. W. (2006). Child development and the physical environment. *Annual Review of Psychology*, 57, 423–451.
+[^18]: Baltes, P. B. (1987). Theoretical propositions of life-span developmental psychology: On the dynamics between growth and decline. *Developmental Psychology*, 23(5), 611–626.
+[^19]: Messick, S. (1995). Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning. *American Psychologist*, 50(9), 741–749.
+[^20]: PROBE P0004. (2025). *Distinction between Capacity, Competency, Behavior, and Transient State in Educational Assessment*. Arsip Penyelidikan Desain TUMBUH.
+[^21]: PROBE P0213. (2025). *Epistemic Tyranny and Abuses of Authority in Boarding School Operational Regimes*. Arsip Penyelidikan Desain TUMBUH.
+[^22]: Ryan, R. M., & Deci, E. L. (2017). *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness*. Guilford Press, hlm. 3–25.
+[^23]: PROBE P0227. (2025). *Safeguarding Dignity: Eliminating Feudal Hierarchies in Student Leadership Frameworks*. Arsip Penyelidikan Desain TUMBUH.
+[^24]: Lerner, R. M. (2004). Diversity in individual context relations as the basis for positive development across the life span. *Research in Human Development*, 1(4), 327–346.
+[^25]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam*. ISTAC, hlm. 33–42.
+[^26]: Dewantara, K. H. (1962). *Bagian Pertama: Pendidikan*. Majelis Luhur Persatuan Taman Siswa, hlm. 19–24.
+[^27]: Ibnu Asyur, M. ath-Thahir. (1984). *Tafsir at-Tahrir wat-Tanwir*. Ad-Dar at-Tunisiyyah lin-Nasyr, Jilid 4, hlm. 238–244.

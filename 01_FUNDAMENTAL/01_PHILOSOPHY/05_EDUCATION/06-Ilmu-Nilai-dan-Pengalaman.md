@@ -1,96 +1,129 @@
 # 06 — Ilmu, Nilai, dan Pengalaman
 
-Pendidikan membutuhkan ilmu, tetapi ilmu saja tidak cukup untuk menentukan bagaimana seseorang seharusnya hidup.
+Pendidikan membutuhkan ilmu pengetahuan, tetapi ilmu semata tidak pernah cukup untuk menentukan bagaimana seseorang seharusnya menjalani kehidupannya dengan bermartabat.[^1]
 
-Seseorang dapat memiliki pengetahuan yang tinggi tetapi menggunakan pengetahuannya dengan cara yang merugikan. Sebaliknya, niat baik tanpa pengetahuan yang memadai juga dapat menghasilkan keputusan yang keliru.
+Seorang manusia dapat memiliki wawasan keilmuan yang sangat tinggi, hafal ribuan dalil syariat atau menguasai rumus-rumus sains yang rumit, namun mempergunakan seluruh kepintarannya itu untuk memanipulasi orang lain, menipu rekan kerjanya, atau melegalkan kezaliman. Sebaliknya, niat yang tulus dan semangat moral yang menggebu tanpa ditopang oleh ilmu yang kokoh sering kali melahirkan keputusan ceroboh yang merusak tatanan kebaikan (*al-fasād min haytsu yurādu ash-shalāh*).[^2]
 
-Karena itu pendidikan perlu mempertemukan setidaknya tiga hal: **apa yang diketahui, apa yang dianggap bernilai, dan bagaimana seseorang bertindak dalam kehidupan nyata.**
+Oleh karena itu, ekosistem pendidikan TUMBUH mempertemukan tiga pilar eksistensial yang wajib berkelindan erat: **apa yang dipahami oleh akal (ilmu), apa yang diyakini dan dijunjung tinggi oleh kalbu (nilai), serta apa yang diuji dan dipraktikkan dalam kenyataan hidup (pengalaman)**.[^3]
 
-## Ilmu memberi pemahaman, nilai memberi arah
+---
 
-Dalam TUMBUH, **ilmu** berarti pengetahuan yang membantu seseorang memahami sesuatu. **Nilai** memberi arah tentang apa yang dianggap baik, benar, patut, atau penting. Keduanya tidak sama.
+## Dialektika Tridimensi: Ilmu, Nilai, dan Pengalaman
 
-Pengetahuan dapat menjelaskan bahwa sebuah tindakan mempunyai akibat tertentu. Nilai membantu menentukan apakah tindakan tersebut patut dilakukan. Karena itu keputusan pendidikan tidak dapat diserahkan hanya kepada pertanyaan “apa yang efektif?”
+Ketiga pilar ini menjalankan fungsi yang berbeda namun saling melengkapi secara organis:[^4]
 
-Dalam tradisi Islam, ilmu tidak dipandang hanya sebagai kumpulan informasi. Ilmu berkaitan dengan kebenaran, adab, dan amal. Pembahasan *ta'dib* dalam pemikiran pendidikan Islam juga menekankan bahwa manusia perlu belajar menempatkan sesuatu secara tepat dan bertindak sesuai dengan nilai yang benar.[^1]
+```text
+                           ┌─────────────────────────┐
+                           │          NILAI          │
+                           │   (Memberikan Arah &    │
+                           │    Kompas Moral Ilahi)  │
+                           └────────────┬────────────┘
+                                        │
+                                        │ Menyinari
+                                        ▼
+┌─────────────────────────┐  Diuji Dalam  ┌─────────────────────────┐
+│          ILMU           │ <───────────> │       PENGALAMAN        │
+│   (Memberikan Terang    │   Kenyataan   │ (Memberikan Tempaan &   │
+│   Pemahaman & Instrumen)│               │  Konteks Pembuktian)    │
+└─────────────────────────┘               └─────────────────────────┘
+```
 
-Namun TUMBUH juga perlu menjaga pembedaan epistemik yang sudah ditetapkan pada bagian **Epistemology**. Pernyataan tentang nilai tidak diperiksa dengan cara yang sama seperti pernyataan empiris. Ketika kita mengatakan “amanah harus dijaga”, dasar normatifnya berbeda dari ketika kita mengatakan “program tertentu berkaitan dengan peningkatan perilaku amanah”. Yang kedua membutuhkan bukti empiris yang sesuai.
+1. **Ilmu Pengetahuan (*Al-'Ilm*):** Memberikan cahaya pemahaman mengenai hakikat sesuatu, hukum-hukum syariat, logika sebab-akibat, serta instrumen teknis untuk memecahkan masalah. Ilmu menjawab pertanyaan: *"Bagaimana sesuatu bekerja, dan apa konsekuensi objektif dari suatu tindakan?"*[^5]
+2. **Nilai Moral Ketuhanan (*Al-Qīmah al-Akhlāqiyyah*):** Memberikan kompas normatif mengenai apa yang benar, apa yang mulia, dan apa yang diridhai oleh Allah SWT. Nilai menjawab pertanyaan eksistensial: *"Apakah tindakan ini patut dan halal dilakukan, untuk tujuan apa kemampuan ini digunakan, dan bagaimana ia dipertanggungjawabkan di hadapan Khaliq?"*[^6]
+3. **Pengalaman Nyata (*Al-Khibrah wal-Mumārasah*):** Menjadi medan tempaan hidup di mana ilmu dan nilai berhadapan dengan kenyataan konkret: benturan emosi, godaan nafsu, dinamika pergaulan teman sebaya, serta konsekuensi dari pilihan tindakan.[^7]
 
-## Pengalaman membuat pengetahuan berhadapan dengan kenyataan
+Pendidikan yang utuh memastikan bahwa ilmu disinari oleh nilai ilahiah, dan nilai dibuktikan melalui ketangguhan pengalaman nyata.
 
-Pengetahuan dan nilai akhirnya perlu digunakan dalam kehidupan.
+---
 
-Santri mungkin sudah tahu bahwa menjaga amanah itu penting. Ia juga memahami bahwa mengambil barang orang lain adalah salah. Tetapi pemahaman itu diuji ketika ia menemukan barang temannya tanpa ada orang yang melihat.
+## Peringatan Ulama Klasik: Bahaya Ilmu Tanpa Amal
 
-Pada titik itu pendidikan tidak lagi hanya berbicara tentang “tahu atau tidak tahu”. Ada pilihan, nilai, godaan, tindakan, dan konsekuensi.
+Khazanah peradaban Islam telah lama membunyikan lonceng bahaya terhadap pendidikan yang berhenti pada tataran teori wacana (*jadal*) tanpa melahirkan integritas amal perbuatan. Hujjatul Islam Imam Al-Ghazali dalam risalah agungnya *Ayyuhal Walad* memberikan nasihat yang mengguncang jiwa:[^8]
 
-John Dewey menekankan pentingnya pengalaman dalam pendidikan. Pengalaman menjadi mendidik ketika pengalaman tersebut membuka kemungkinan untuk belajar dan menghadapi pengalaman berikutnya, bukan sekadar karena sesuatu telah terjadi.[^2]
+> *"Wahai anakku tercinta, seandainya engkau membaca dan mempelajari ilmu selama seratus tahun dan mengumpulkan seribu jilid kitab, engkau tidak akan layak menerima rahmat dan ganjaran dari Allah Ta'ala kecuali dengan mengamalkannya... Ilmu tanpa amal adalah kegilaan, dan amal tanpa ilmu adalah kesia-siaan. Ketahuilah, bahwa ilmu yang tidak menjauhkanmu hari ini dari perbuatan maksiat dan tidak mendorongmu untuk taat kepada Allah, maka ilmu itu tidak akan mampu menjauhkanmu kelak dari siksa api neraka Jahannam!"*[^9]
 
-Karena itu pengalaman pendidikan perlu memberi kesempatan kepada santri untuk mencoba, menerima umpan balik, melihat akibat, berpikir kembali, dan memperbaiki tindakan.
+Peringatan ini dipertegas oleh Prof. Dr. Syed Muhammad Naquib Al-Attas melalui konsep **Ta'dib**. Dalam pandangan beliau, hakikat ilmu dalam Islam meniscayakan hadirnya **Adab**, yakni ketundukan sukarela untuk mempraktikkan ilmu tersebut sesuai derajat kebenarannya.[^10] Seseorang yang mengetahui bahwa korupsi atau mencuri adalah haram, namun ia tetap melakukannya dengan lihai, sesungguhnya adalah orang yang telah kehilangan adab terhadap ilmunya sendiri (*the loss of adab*).[^11]
 
-## Pengalaman tidak otomatis menjadi pembelajaran
+---
 
-Ini bagian yang sering terlewat.
+## Dari Aktivitas Menuju Malakah: Memahami Etape Perubahan Batin
 
-Santri yang berkali-kali mendapat tugas belum tentu menjadi lebih bertanggung jawab. Santri yang berkali-kali ditegur belum tentu belajar mengatur dirinya. Bahkan pengalaman yang berulang dapat membentuk kebiasaan yang salah jika lingkungan terus memberikan pola yang sama.
+Salah satu kesalahan paling jamak dalam desain program di pesantren adalah menyamakan antara **aktivitas fisik** dengan **pembelajaran batiniah**. 
 
-Maka TUMBUH perlu membedakan:
+Sebuah lembaga dapat menyelenggarakan kegiatan yang sangat padat, namun santri tidak mengalami perubahan karakter apapun. Untuk menjaga validitas proses tarbiyah, sistem TUMBUH membedakan empat etape pembentukan kapasitas:[^12]
 
-**aktivitas → pengalaman → pembelajaran → perubahan kemampuan.**
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│               ETAPE TRANSFORMASI PENGALAMAN MENJADI KARAKTER           │
+│                                                                        │
+│   1. AKTIVITAS FORMAL (Program / Agenda Fisik)                         │
+│      "Santri melaksanakan tugas piket membersihkan area kamar mandi"   │
+│                          │                                             │
+│                          ↓ Terjadi Keterlibatan Batin                  │
+│   2. PENGALAMAN NYATA (Felt Experience)                                │
+│      "Santri merasakan lelahnya membersihkan kotoran orang lain &      │
+│       menyadari pentingnya menjaga fasilitas bersama secara jujur"     │
+│                          │                                             │
+│                          ↓ Diolah Melalui Muhasabah                    │
+│   3. PEMBELAJARAN BERMAKNA (Internalized Meaning)                      │
+│      "Santri memahami hakikat kebersihan sebagai ibadah, merasakan     │
+│       empati kepada petugas kebersihan, & berikrar menjaga adab"       │
+│                          │                                             │
+│                          ↓ Terulang Konsisten dalam Sunyi              │
+│   4. KAPASITAS BATIN / MALAKAH (Stable Moral Character)                │
+│      "Watak tertib & bersih mengakar kokoh; santri secara spontan      │
+│       merawat kebersihan di manapun ia berada tanpa perlu diawasi"     │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-Keempatnya berhubungan, tetapi tidak identik.
+Aktivitas baru berubah menjadi pengalaman bermakna apabila santri benar-benar terlibat secara emosional dan intelektual. Pengalaman tersebut baru berubah menjadi pembelajaran apabila santri diberi kesempatan untuk bermuhasabah dan menarik hikmah nilai di baliknya. Dan pembelajaran tersebut baru mengkristal menjadi kapasitas karakter menetap (*malakah*) apabila dipraktikkan secara konsisten melintasi waktu dalam situasi yang berbeda-beda.[^13]
 
-Sebuah kegiatan baru menjadi pengalaman pendidikan yang lebih kuat ketika santri benar-benar terlibat di dalamnya. Pengalaman itu kemudian perlu diolah menjadi pemahaman atau perubahan cara bertindak. Dari proses yang berulang, sebagian kemampuan dapat menjadi lebih stabil dan akhirnya mendukung kemandirian.
+---
 
-Rincian tentang bagaimana kapasitas berkembang, bagaimana pengalaman disusun, dan bagaimana perubahan dinilai akan dibahas pada **Core Model, Progression, Assessment,** dan **Programs**. Foundation hanya menetapkan hubungan konseptualnya.
+## Mengeliminasi Jebakan Verbalisme Moral
 
-## Nilai juga perlu diwujudkan dalam kemampuan
+Prinsip keterpaduan ini menuntut para pendidik di pesantren untuk meninggalkan **jebakan verbalisme moral**, yakni kebiasaan mengajarkan nilai-nilai luhur hanya melalui hafalan teks dan ceramah satu arah:[^14]
 
-Ada risiko lain: pendidikan terlalu banyak berbicara tentang nilai tetapi terlalu sedikit memberi kesempatan untuk mempraktikkannya.
+- Mengajarkan **kejujuran** bukan dengan menyuruh santri menghafal definisi jujur dalam bahasa Arab, melainkan dengan menaruh kepercayaan kepada santri untuk mengelola kas kamar, mendampingi mereka saat menghitung keuangan, dan memberi ruang aman untuk mengakui kekeliruan tanpa rasa takut dibantai saat terjadi selisih angka;[^15]
+- Mengajarkan **musyawarah dan keadilan** bukan dengan ceramah tentang piagam Madinah, melainkan dengan mengajak santri duduk bersama merumuskan aturan pembagian tugas piket kamar dan jadwal mencuci secara adil dan transparan;[^16]
+- Mengajarkan **resiliensi dan kesabaran** bukan dengan memarahi santri saat gagal, melainkan dengan mendampingi mereka menganalisis penyebab kegagalan ujian hafalan, menata ulang strategi muraja'ah, dan bangkit kembali dengan semangat baru.[^17]
 
-Mengajarkan kejujuran, misalnya, tidak cukup dengan meminta santri menghafal definisinya. Mereka perlu berada dalam situasi yang menuntut kejujuran, mendapat batas yang jelas, melihat teladan, dan mengalami bahwa kejujuran memiliki konsekuensi nyata dalam kehidupan.
+Nilai yang tidak pernah diuji dalam medan pengalaman nyata hanyalah fatamorgana moral yang akan lenyap saat diterpa badai kehidupan di luar pesantren.
 
-Begitu pula tanggung jawab. Santri perlu memperoleh tanggung jawab yang nyata dan sesuai dengan kesiapan mereka. Jika semua keputusan selalu diambilkan oleh orang dewasa, nilai kemandirian sulit berubah menjadi kemampuan.
+---
 
-Jadi pendidikan perlu memperhatikan dua arah sekaligus:
+## Kehati-hatian Epistemik: Membedakan Klaim Normatif dan Klaim Empiris
 
-- **nilai harus memberi arah pada kemampuan;** dan
-- **kemampuan harus menjadi jalan untuk mewujudkan nilai dalam tindakan.**
+Dalam merancang dan mengevaluasi keterpaduan ilmu, nilai, dan pengalaman ini, para pengelola kelembagaan wajib memegang teguh disiplin epistemologi yang telah ditetapkan pada bagian `02_EPISTEMOLOGY`:[^18]
 
-## Bukan berarti semua hal harus dibuat “praktik”
+1. **Klaim Normatif Nilai:** Pernyataan mengenai apa yang wajib, halal, haram, atau patut (misalnya: *"Santri wajib menepati janji dan beradab kepada guru"*). Klaim ini bersumber dari wahyu Allah dan konsensus syariat yang kebenarannya bersifat mutlak dan tidak bergantung pada uji statistik.
+2. **Klaim Empiris Efektivitas:** Pernyataan mengenai apakah suatu metode pendidikan benar-benar efektif membangun nilai tersebut (misalnya: *"Penerapan logbook muhasabah harian meningkatkan kejujuran santri sebesar 40%"*). Klaim ini adalah klaim faktual yang tidak boleh diklaim secara sepihak tanpa data lapangan yang valid, instrumen yang teruji, dan metodologi evaluasi yang jujur.[^19]
 
-Penekanan pada pengalaman tidak berarti pengetahuan teoritis atau pembelajaran melalui penjelasan menjadi tidak penting.
+Mencampuradukkan keduanya adalah kecacatan berpikir: tidak boleh mengklaim sebuah metode pasti manjur hanya karena niatnya baik atau karena metode itu dibungkus dengan istilah Arab. Keberhasilan metode pendidikan menuntut pembuktian empiris yang bertanggung jawab.[^20]
 
-Ada hal-hal yang memang perlu dipelajari melalui membaca, menghafal, mendengar penjelasan, berdiskusi, atau mempelajari tradisi keilmuan. Pengalaman praktik juga dapat menyesatkan jika tidak disertai pengetahuan dan refleksi yang memadai.
+Setelah memahami keterpaduan ilmu, nilai, dan pengalaman ini, pertanyaan sentral berikutnya yang menjadi mahkota pendidikan mengemuka: **bagaimanakah seluruh proses ini mengantarkan santri melepaskan ketergantungannya dan melangkah menuju kemandirian hakiki (*Ar-Rusyd*)?**
 
-Karena itu TUMBUH tidak memilih antara **ilmu** dan **pengalaman**. Keduanya perlu saling menguatkan, sementara nilai memberi arah agar keduanya digunakan untuk tujuan pendidikan yang benar.
+---
 
-## Apa artinya bagi TUMBUH?
+## Catatan Kaki
 
-Cara pandang ini membuat TUMBUH tidak cukup bertanya:
-
-**“Materi apa yang sudah diajarkan?”**
-
-TUMBUH juga perlu bertanya:
-
-**“Nilai apa yang sedang diarahkan?”**
-
-**“Pengalaman apa yang diberikan?”**
-
-**“Apa yang dilakukan santri dengan pengetahuan tersebut?”**
-
-**“Apakah ia semakin mampu bertindak secara bertanggung jawab?”**
-
-Pertanyaan-pertanyaan ini menjadi dasar untuk merancang sistem pendidikan yang menghubungkan pembelajaran, pembiasaan, pengalaman, dan perkembangan tanpa mencampur tujuan normatif dengan klaim empiris.
-
-Pertanyaan berikutnya: **bagaimana pendidikan membantu seseorang bergerak dari perilaku yang banyak diarahkan orang lain menuju kemandirian?**
-
-## Catatan kaki
-
-[^1]: Al-Ghazali, *Ihya' 'Ulum al-Din*, khususnya pembahasan tentang ilmu, niat, amal, dan adab. Lihat juga literatur tentang konsep *ta'dib* dalam pemikiran pendidikan Islam.
-[^2]: John Dewey, *Experience and Education* (New York: Macmillan, 1938), tentang hubungan pengalaman, pendidikan, dan pertumbuhan.
-
-## Rujukan
-
-- Al-Ghazali. *Ihya' 'Ulum al-Din*.
-- Dewey, J. (1938). *Experience and Education*. New York: Macmillan.
+[^1]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. International Institute of Islamic Thought and Civilization (ISTAC), hlm. 15–28.
+[^2]: Al-Ghazali, Abu Hamid. (2005). *Ihya' 'Ulum al-Din*. Dar Ibnu Hazm, Jilid 1, Kitab al-'Ilm, hlm. 35–42.
+[^3]: Dewey, J. (1938). *Experience and Education*. New York: Macmillan, hlm. 25–48.
+[^4]: Kolb, D. A. (1984). *Experiential Learning: Experience as the Source of Learning and Development*. Prentice-Hall, hlm. 38–50.
+[^5]: Al-Jurjani, Ali bin Muhammad. (2000). *Kitab at-Ta'rifat*. Dar al-Kutub al-'Ilmiyyah, hlm. 155 (definisi ilmu sebagai keyakinan yang sesuai dengan realitas hakiki).
+[^6]: Al-Attas, S. M. N. (1995). *Prolegomena to the Metaphysics of Islam*. ISTAC, hlm. 41–56.
+[^7]: Bassey, M. O. (2010). Educating for the real world: An illustration of John Dewey’s principles of continuity and interaction. *Educational Studies*, 36(1), 13–20. https://doi.org/10.1080/03055690903148480
+[^8]: Al-Ghazali, Abu Hamid. (1988). *Ayyuhal Walad* (Tahqiq Ali Ahmad Abdul Al). Dar ar-Rasyid, hlm. 22–31.
+[^9]: Al-Ghazali, Abu Hamid. (1988). *Ayyuhal Walad*. Dar ar-Rasyid, hlm. 25.
+[^10]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam*. ISTAC, hlm. 29–35.
+[^11]: Al-Attas, S. M. N. (1978). *Islam and Secularism*. Muslim Youth Movement of Malaysia (ABIM), hlm. 133–142.
+[^12]: PROBE P0004. (2025). *Distinction between Capacity, Competency, Behavior, and Transient State in Educational Assessment*. Arsip Penyelidikan Desain TUMBUH.
+[^13]: Ibnu Khaldun, Abdurrahman. (2001). *Al-Muqaddimah*. Dar al-Fikr, Jilid 1, hlm. 553–558 (pembentukan malakah melalui latihan berulang yang dihayati).
+[^14]: Freire, P. (1970). *Pedagogy of the Oppressed*. Herder and Herder, hlm. 87–96 (kritik terhadap verbalisme yang memisahkan kata dari tindakan nyata).
+[^15]: PROBE P0209. (2025). *Internalized Understanding vs. Cosmetic Compliance in Boarding School Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^16]: Ibnu Jama'ah, Badruddin. (2012). *Tadzkirat as-Sami' wal-Mutakallim*. Dar al-Basyair al-Islamiyyah, hlm. 72–78.
+[^17]: Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. W. H. Freeman, hlm. 79–115.
+[^18]: Al-Ghazali, Abu Hamid. (1961). *Al-Mustashfa min 'Ilm al-Ushul*. Al-Mathba'ah al-Amiriyyah, Jilid 1, hlm. 10–18 (disiplin pemisahan dalil normatif akal-wahyu dari data empiris).
+[^19]: Messick, S. (1995). Validity of psychological assessment: Validation of inferences from persons' responses and performances as scientific inquiry into score meaning. *American Psychologist*, 50(9), 741–749.
+[^20]: PROBE P0199. (2025). *Institutional Failures in Behavioral Interventions: Diagnostic Protocol and Root-Cause Tracking*. Arsip Penyelidikan Desain TUMBUH.

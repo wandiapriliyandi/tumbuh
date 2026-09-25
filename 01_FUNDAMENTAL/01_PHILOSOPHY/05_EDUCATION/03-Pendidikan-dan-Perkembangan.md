@@ -1,74 +1,113 @@
 # 03 — Pendidikan dan Perkembangan
 
-Human Development menjelaskan bahwa manusia berubah melalui waktu. Education membahas bagaimana pendidikan dengan sengaja mengambil bagian dalam proses perubahan tersebut.
+Subdomain *Human Development* telah menjelaskan bahwa manusia berubah dan bertumbuh melintasi rentang waktu secara bertahap, beragam, dan dipengaruhi oleh jalinan ekosistemnya. *Education* menindaklanjuti hukum alamiah tersebut dengan menjawab pertanyaan mendasar: **bagaimana ikhtiar pendidikan secara sengaja mengambil bagian dalam memfasilitasi dan mengawal proses perkembangan alami tersebut?**[^1]
 
-Hubungannya penting, tetapi tidak berarti pendidikan mengendalikan seluruh perkembangan seseorang. Banyak hal berada di luar kendali lembaga pendidikan: keluarga, pengalaman hidup, kondisi fisik dan psikologis, relasi sosial, budaya, dan berbagai kejadian yang tidak direncanakan.
+Hubungan antara pendidikan dan perkembangan adalah hubungan kemitraan yang selaras, bukan hubungan penaklukan. Pendidik bukanlah "pencipta mutlak" yang berkuasa memahat jiwa santri layaknya tukang kayu memotong balok mati. Sebagian besar ranah pembentukan manusia—seperti latar belakang genetik bawaan, riwayat pengasuhan keluarga masa lalu, kondisi biologis saraf, serta peristiwa hidup yang tak terduga—berada di luar kendali lembaga pendidikan.[^2]
 
-Karena itu pendidik bukan “pencetak” manusia. Pendidik menyediakan arah dan menciptakan kondisi yang membuat perkembangan lebih mungkin terjadi: pengalaman, tantangan, dukungan, umpan balik, hubungan yang sehat, dan kesempatan untuk mengambil tanggung jawab.
+Oleh karena itu, pendidik di lingkungan pesantren memposisikan dirinya laksana **seorang petani yang bijaksana (*al-fallāh al-hakīm*)**:
+> Petani tidak pernah menciptakan benih padi, dan ia tidak dapat memaksa butir padi merekah dalam semalam dengan cara menarik pucuk daunnya ke atas. Yang dilakukan petani adalah menggemburkan tanah, mengalirkan air yang bersih, menyiangi gulma yang mengganggu, memberi pupuk yang cukup, dan memagari sawahnya dari serangan hama. Dengan ikhtiar yang penuh kesabaran itu, benih padi akan bertumbuh subur dan menghasilkan bulir-bulir emas sesuai dengan sunnatullah kodratnya sendiri.[^3]
 
-## Pendidikan bekerja melalui pengalaman
+---
 
-Seseorang tidak berkembang hanya karena sebuah materi sudah disampaikan. Ia perlu berhadapan dengan pengalaman yang membuat pengetahuan dan nilai itu digunakan.
+## Dialektika Kodrat dan Bimbingan: Menuntun, Bukan Memaksa
 
-Seorang santri, misalnya, dapat memahami teori tentang tanggung jawab. Tetapi ketika ia diberi tugas mengelola sebuah kegiatan, menghadapi masalah, menerima umpan balik, memperbaiki kesalahan, lalu mencoba lagi, ia mendapat kesempatan untuk mengubah pengetahuan menjadi kemampuan.
+Dalam tradisi pemikiran Nusantara, Ki Hadjar Dewantara mengingatkan bahwa hakikat mendidik adalah **menuntun tumbuhnya kekuatan kodrat** yang telah ada pada diri anak:[^4]
 
-Namun pengalaman tidak otomatis mendidik. Pengalaman yang terlalu mudah mungkin tidak memberi tantangan. Pengalaman yang terlalu berat tanpa dukungan dapat membuat seseorang hanya belajar menghindar. Pengalaman yang tidak pernah dipikirkan kembali juga belum tentu menghasilkan pemahaman.
+> *"Pendidik itu hanya dapat menuntun tumbuhnya atau hidupnya kekuatan kodrat itu, agar dapat memperbaiki lakunya (bukan dasarnya) hidup dan tumbuhnya itu. Dalam menuntun laku dan tumbuhnya kodrat anak, pendidik diibaratkan sebagai petani yang menyemai benih. Bila biji jagung ditanam di tanah yang subur dengan pengairan dan penyinaran matahari yang baik, maka meskipun biji jagung itu kurang baik mutunya, ia dapat tumbuh dengan baik karena perhatian dan perawatan pak tani. Demikian sebaliknya..."*[^5]
 
-Dewey menekankan pentingnya pengalaman yang memiliki hubungan dengan pertumbuhan dan pengalaman berikutnya.[^1] Gagasan ini membantu TUMBUH melihat kegiatan pendidikan bukan hanya dari pertanyaan **“apa yang dilakukan?”**, tetapi juga **“apa yang dipelajari dan dikembangkan melalui pengalaman itu?”**
+Perspektif ini meluruskan dua kekeliruan ekstrem yang kerap merusak dunia pesantren:
+1. **Ekstrem Otoriterianisme (Pencetakan Paksa):** Pendidik memaksakan cetakan seragam kepada seluruh santri tanpa memedulikan batas usia perkembangan, kapasitas biologis saraf, dan keunikan potensinya. Santri dipaksa menghafal di luar batas kemampuan nalar atau dibebani tanggung jawab yang melampaui kesiapannya. Akibatnya, santri mengalami kelelahan mental (*burnout*), keputusasaan, atau melakukan kamuflase adab palsu demi menghindari amukan pembina.[^6]
+2. **Ekstrem Permisivisme (Pembiaran Liar):** Pendidik berdalih "menghargai kebebasan anak" sehingga membiarkan santri hidup tanpa aturan, tanpa batas tata tertib, dan tanpa pembiasaan disiplin. Hal ini merusak fitrah santri karena anak remaja pada dasarnya membutuhkan struktur eksternal yang aman dan terprediksi untuk menertibkan gejolak nafsunya.[^7]
 
-## Perkembangan berbeda pada setiap orang
+Pendidikan TUMBUH mengambil jalan tengah yang berkeadilan: **menetapkan arah nilai yang jelas dan batas tata tertib yang kokoh, seraya memberikan bimbingan kasih sayang yang menghargai tahapan perkembangan santri (*developmentally informed tarbiyah*)**.[^8]
 
-Dalam ilmu perkembangan modern, manusia dipahami dalam hubungan timbal balik dengan lingkungannya. Perkembangan tidak hanya terjadi karena “isi kepala” individu, tetapi melalui hubungan antara individu, keluarga, teman sebaya, lembaga, budaya, dan kondisi kehidupan.[^2]
+---
 
-Artinya, pengalaman pendidikan yang sama tidak selalu menghasilkan perubahan yang sama.
+## Arsitektur Bantuan: Menyelaraskan Tantangan dan Dukungan (*ZPD & Scaffolding*)
 
-Dua santri dapat mengikuti kegiatan yang sama, menerima penjelasan yang sama, dan tetap menunjukkan perkembangan yang berbeda. Bukan berarti salah satunya pasti “tidak mau belajar”. Mereka mungkin datang dengan pengalaman sebelumnya, kesiapan, relasi, dukungan, dan kebutuhan yang berbeda.
+Pendidikan yang efektif adalah pendidikan yang mampu membaca dengan tepat apa yang sedang mekar pada diri santri. Dalam sains perkembangan kognitif, Lev Vygotsky merumuskan konsep **Zona Perkembangan Proksimal (*Zone of Proximal Development* / ZPD)**, yakni wilayah antara apa yang telah mampu dilakukan santri secara mandiri hari ini dengan apa yang baru dapat ia lakukan apabila didampingi oleh orang dewasa atau berkolaborasi dengan teman sebaya yang lebih cakap.[^9]
 
-Ini bukan alasan untuk menurunkan harapan. Justru pendidik perlu lebih cermat membaca apa yang dibutuhkan setiap orang agar tujuan yang sama dapat ditempuh melalui dukungan yang tidak selalu sama.
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                        DIALEKTIKA TANTANGAN & DUKUNGAN                 │
+│                                                                        │
+│   TUNTUTAN MELEBIHI KAPASITAS & TANPA BANTUAN                          │
+│   ⟶ Kecemasan Akut (Anxiety), Frustrasi, Stres Toksik, & Putus Asa     │
+│                                                                        │
+│   TUNTUTAN DI DALAM ZPD DENGAN DUKUNGAN BERKALA (SCAFFOLDING)          │
+│   ⟶ TERCAPAINYA PERTUMBUHAN KAPASITAS KEMANDIRIAN SEJATI (AR-RUSYD)    │
+│                                                                        │
+│   DUKUNGAN BERLEBIHAN PADAHAL KAPASITAS SUDAH MEKAR                    │
+│   ⟶ Kebosanan (Boredom), Ketergantungan Menetap, & Pemandulan Potensi   │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
-## Tantangan dan dukungan perlu bertemu
+Pendidik yang berilmu senantiasa mengukur keseimbangan ini secara dinamis:[^10]
+- **Kapan memberi bantuan intensif (*high support*):** Ketika santri berhadapan dengan tuntutan baru yang belum pernah dialaminya (seperti santri baru J1 yang belajar membagi waktu antara mencuci pakaian mandiri dan menghafal Al-Qur'an). Di sini pembina hadir memberi contoh konkret dan pengingat yang teratur.
+- **Kapan mengurangi bantuan (*fading scaffolding*):** Ketika kebiasaan dasar mulai terbentuk pada jenjang J2 dan J3. Pembina mulai menarik instruksi langsung dan beralih memberikan ruang dialog, umpan balik reflektif, serta kepercayaan bagi santri untuk mengelola dirinya sendiri.[^11]
+- **Kapan melepaskan pengawasan langsung (*handover to autonomy*):** Ketika santri telah mencapai jenjang J4 (*Ar-Rusyd*). Santri tidak lagi diawasi secara melekat, melainkan diberi amanah kepemimpinan dan khidmah untuk membimbing adik-adik kelasnya.[^12]
 
-Pendidikan yang terlalu mudah dapat membuat seseorang tidak banyak berkembang. Sebaliknya, tuntutan yang terlalu tinggi tanpa dukungan dapat menghasilkan kegagalan yang sebenarnya bisa dicegah.
+---
 
-Karena itu pendidik perlu terus membaca perkembangan:
+## Sunnah Keberagaman: Mendidik Manusia Sesuai Kadar Akalnya
 
-- apa yang sudah dapat dilakukan santri sendiri;
-- apa yang baru dapat dilakukan dengan bantuan;
-- tantangan apa yang cukup menantang tetapi masih masuk akal;
-- dukungan apa yang perlu diberikan sekarang; dan
-- kapan bantuan mulai dikurangi agar tanggung jawab berpindah kepada santri.
+Kenyataan bahwa setiap santri memiliki kecepatan dan jalur perkembangan yang berbeda menegaskan kaidah agung dalam tradisi tarbiyah Islam:
 
-Di sinilah prinsip **bertahap** menjadi penting. Dukungan bukan sesuatu yang harus dipertahankan dalam bentuk yang sama selamanya. Jika tujuan pendidikan adalah membantu manusia menjadi lebih mampu dan bertanggung jawab, maka pada saat yang tepat bantuan perlu berubah menjadi kesempatan untuk mandiri.
+$$
+\text{خَاطِبُوا النَّاسَ عَلَى قَدْرِ عُقُولِهِمْ، أَتُحِبُّونَ أَنْ يُكَذَّبَ اللَّهُ وَرَسُولُهُ؟}
+$$
 
-## Pendidik menuntun, bukan menguasai seluruh hasil
+> *"Berbicaralah dan perlakukanlah manusia sesuai dengan kadar kemampuan akal mereka. Apakah kalian suka jika Allah dan Rasul-Nya didustakan (karena kalian memaksakan pemahaman di luar daya tampung mereka)?"* (Atsar Ali bin Abi Thalib RA, diriwayatkan oleh Al-Bukhari)[^13]
 
-Ki Hadjar Dewantara menggunakan gagasan **menuntun** untuk menggambarkan tugas pendidikan: membantu kekuatan yang ada pada diri anak berkembang, bukan memperlakukan anak sebagai bahan yang dapat dibentuk sesuka hati.[^3]
+Kaidah ini melarang para guru dan pembina asrama untuk menerapkan keseragaman metode pembinaan secara membabi buta. Dua santri yang sama-sama berusia 14 tahun bisa membutuhkan pendekatan yang bertolak belakang:
+- Santri pertama memiliki daya refleksi batin yang peka; baginya, satu kali tatapan mata kecewa dari musyrif sudah cukup membuatnya menangis dan memperbaiki diri.
+- Santri kedua memiliki dorongan motorik yang melimpah dan nalar yang kritis; ia membutuhkan dialog argumentatif yang logis, penegasan konsekuensi nyata yang tegas, serta penyaluran energi fisik melalui tanggung jawab kerja lapangan.[^14]
 
-Bagi TUMBUH, gagasan ini perlu dibaca bersama dengan Human Nature dan Human Development. Manusia memiliki kemampuan untuk memilih dan bertindak, tetapi juga memiliki keterbatasan dan dipengaruhi konteks. Karena itu pendidikan perlu menggabungkan **arah yang jelas, tuntutan yang wajar, dukungan, dan penghormatan terhadap manusia sebagai pelaku perkembangan dirinya**.
+Memperlakukan kedua santri ini dengan cara yang persis sama adalah bentuk kezaliman tarbiyah. Pendidik yang bijaksana mengenal betul watak dan bahan tempaan setiap santri binaannya (*ma'ādin an-nās*), lalu memperlakukan masing-masing sesuai pintu masuk fitrahnya.[^15]
 
-Pendidik tetap bertanggung jawab atas kualitas lingkungan dan pengalaman yang dirancang. Tetapi pendidik tidak dapat mengklaim bahwa setiap hasil perkembangan sepenuhnya merupakan hasil dari satu program atau satu guru.
+---
 
-Ini juga menjadi pengingat epistemik. Jika setelah sebuah program nilai seorang santri meningkat, kita tidak boleh langsung menyimpulkan bahwa program itulah satu-satunya penyebab perubahan. Perkembangan berlangsung dalam banyak kondisi yang saling berhubungan. Klaim sebab-akibat membutuhkan bukti dan desain penelitian yang sesuai.
+## Kehati-hatian Epistemik: Menolak Klaim Sebab-Akibat yang Pongah
 
-## Posisi pembahasan ini dalam TUMBUH
+Prinsip keterikatan pendidikan dengan perkembangan juga menuntut kerendahan hati epistemik di kalangan para pengelola kelembagaan pesantren.[^16]
 
-Human Development memberi TUMBUH pemahaman bahwa perkembangan berlangsung bertahap, beragam, dipengaruhi konteks, dan tidak selalu berjalan lurus. Education kemudian mengambil pemahaman tersebut untuk menjawab pertanyaan praktis pada tingkat prinsip: **bagaimana pendidikan seharusnya merancang pengalaman dan dukungan agar perkembangan lebih mungkin terjadi?**
+Ketika sebuah program pembinaan karakter baru diterapkan di asrama dan beberapa bulan kemudian angka pelanggaran santri menurun drastis, para perancang program **dilarang membuat klaim mutlak yang pongah**: *"Program kami 100% terbukti sukses membentuk santri berakhlak mulia!"*
 
-Rincian tentang kapasitas yang dituju, urutan perkembangan, bukti, penilaian, dan intervensi tidak diselesaikan di sini. Hal tersebut menjadi pekerjaan **Core Model, Progression, Assessment,** dan **Intervention**.
+Sains perkembangan mengajarkan bahwa perilaku manusia merupakan hasil dari interaksi multi-faktor:
+- Boleh jadi penurunan pelanggaran terjadi karena santri memang bertambah usia dan secara biologis korteks prefrontalnya semakin matang.
+- Boleh jadi karena ada musyrif baru yang memiliki keteladanan yang sangat hangat di kamar asrama.
+- Boleh jadi pula santri hanya semakin lihai menyembunyikan pelanggarannya dari deteksi kamera (*kamuflase adab*).[^17]
 
-Jadi pendidikan bukan proses untuk membuat semua santri berkembang dengan cara yang sama. Pendidikan menyediakan **arah yang sama, peluang yang bermakna, dan dukungan yang sesuai**, sambil mengakui bahwa jalur perkembangan setiap manusia dapat berbeda.
+Epistemologi TUMBUH menuntut agar setiap evaluasi keberhasilan pendidikan diuji melalui bukti faktual yang triangulatif, pengamatan longitudinal yang jujur, dan pengakuan bahwa taufiq serta hidayah perubahan hakiki pada hati manusia sepenuhnya berada di tangan Allah Subhanahu wa Ta'ala:[^18]
 
-Pertanyaan berikutnya: **kalau perkembangan membutuhkan hubungan dan dukungan, bagaimana relasi antara pendidik dan peserta didik seharusnya dibangun?**
+$$
+\text{إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ ۚ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ}
+$$
 
-## Catatan kaki
+> *"Sesungguhnya engkau (wahai Muhammad) tidak dapat memberi petunjuk kepada orang yang engkau cintai, tetapi Allah memberi petunjuk kepada orang yang Dia kehendaki, dan Dia lebih mengetahui orang-orang yang mau menerima petunjuk."* (QS. Al-Qashash [28]: 56)[^19]
 
-[^1]: John Dewey, *Experience and Education* (New York: Macmillan, 1938). Lihat juga Maria Luísa Branco, “The meaning of democratic education: revisiting the concept of educative experience in John Dewey,” *Educação e Pesquisa*, 36(2), 2010, 599–610. https://doi.org/10.1590/S1517-97022010000200012.
-[^2]: Untuk perspektif perkembangan yang menekankan hubungan timbal balik individu dan konteks, lihat American Psychological Association, pembahasan tentang lifespan developmental perspective dan developmental systems approach.
-[^3]: Ki Hadjar Dewantara menempatkan pendidikan sebagai proses menuntun kekuatan kodrat anak agar berkembang menuju keselamatan dan kebahagiaan. Lihat sumber resmi pendidikan Indonesia tentang gagasan Ki Hadjar Dewantara dan Tri Pusat Pendidikan.
+Setelah memahami bagaimana pendidikan menuntun perkembangan fitrah santri, pilar berikutnya yang harus ditegakkan adalah etika relasional: **bagaimanakah hubungan antara pendidik dan peserta didik seharusnya dibangun agar berwibawa, penuh kasih sayang, dan memuliakan martabat manusia?**
 
-## Rujukan
+---
 
-- Dewey, J. (1938). *Experience and Education*. New York: Macmillan.
-- Branco, M. L. (2010). “The meaning of democratic education: revisiting the concept of educative experience in John Dewey.” *Educação e Pesquisa*, 36(2), 599–610. https://doi.org/10.1590/S1517-97022010000200012.
-- American Psychological Association. *Lifespan Developmental Perspective* dan *Developmental Systems Approach*.
-- Dewantara, K. H. Gagasan tentang pendidikan sebagai tuntunan dan Tri Pusat Pendidikan.
+## Catatan Kaki
+
+[^1]: Lerner, R. M. (2004). Diversity in individual context relations as the basis for positive development across the life span. *Research in Human Development*, 1(4), 327–346.
+[^2]: Bronfenbrenner, U., & Morris, P. A. (2006). The bioecological model of human development. Dalam *Handbook of Child Psychology*, Vol. 1, hlm. 793–828.
+[^3]: Al-Ghazali, Abu Hamid. (2005). *Ihya' 'Ulum al-Din*. Dar Ibnu Hazm, Jilid 3, Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq, hlm. 944–946.
+[^4]: Dewantara, K. H. (1962). *Bagian Pertama: Pendidikan*. Yogyakarta: Majelis Luhur Persatuan Taman Siswa, hlm. 19–24.
+[^5]: Dewantara, K. H. (1962). *Bagian Pertama: Pendidikan*. Majelis Luhur Persatuan Taman Siswa, hlm. 20–21.
+[^6]: PROBE P0209. (2025). *Internalized Understanding vs. Cosmetic Compliance in Boarding School Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^7]: Baumrind, D. (1991). The influence of parenting style on adolescent competence and substance use. *The Journal of Early Adolescence*, 11(1), 56–95.
+[^8]: Darling-Hammond, L., Flook, L., Cook-Harvey, C., Barron, B., & Osher, D. (2020). Implications for educational practice of the science of learning and development. *Applied Developmental Science*, 24(2), 97–140.
+[^9]: Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press, hlm. 84–91.
+[^10]: Wood, D., Bruner, J. S., & Ross, G. (1976). The role of tutoring in problem solving. *Journal of Child Psychology and Psychiatry*, 17(2), 89–100.
+[^11]: PROBE P0004. (2025). *Distinction between Capacity, Competency, Behavior, and Transient State in Educational Assessment*. Arsip Penyelidikan Desain TUMBUH.
+[^12]: PROBE P0227. (2025). *Safeguarding Dignity: Eliminating Feudal Hierarchies in Student Leadership Frameworks*. Arsip Penyelidikan Desain TUMBUH.
+[^13]: Atsar Ali bin Abi Thalib RA diriwayatkan oleh Al-Bukhari dalam *Shahih al-Bukhari* secara mu'allaq dalam Kitab al-'Ilm, Bab Man Khashsha bil-'Ilmi Qauman Duna Qaumin Karahiyata An Laa Yafhamu.
+[^14]: Ibnu Jama'ah, Badruddin. (2012). *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim*. Dar al-Basyair al-Islamiyyah, hlm. 68–74.
+[^15]: Ibnu Qayyim al-Jauziyyah. (1996). *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*. Dar al-Kitab al-'Arabi, Jilid 1, hlm. 312–318.
+[^16]: PROBE P0199. (2025). *Institutional Failures in Behavioral Interventions: Diagnostic Protocol and Root-Cause Tracking*. Arsip Penyelidikan Desain TUMBUH.
+[^17]: Baker, A. E., Galván, A., & Fuligni, A. J. (2025). The connecting brain in context: How adolescent plasticity supports learning and development. *Developmental Cognitive Neuroscience*, 71, 101486.
+[^18]: Al-Muhasibi, Al-Harits. (1971). *Ar-Ri'ayah li Huquqillah*. Dar al-Kutub al-'Ilmiyyah, hlm. 55–64 (kehati-hatian dari ujub dan klaim keberhasilan diri).
+[^19]: Departemen Agama Republik Indonesia. (2019). *Al-Qur'an dan Terjemahannya*. Lajnah Pentashihan Mushaf Al-Qur'an, QS. Al-Qashash [28]: 56.
