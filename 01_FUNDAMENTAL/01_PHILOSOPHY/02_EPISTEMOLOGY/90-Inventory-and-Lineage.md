@@ -38,7 +38,6 @@ Epistemologi TUMBUH dibangun melalui sepuluh pertanyaan fundamental mengenai ilm
     → `10-Prinsip-Epistemik-TUMBUH.md`
 
 Dokumen pendukung tata kelola:
-- `P1-EPI-01-Epistemic-Classification.md` (Ringkasan aturan klasifikasi Wave 1)
 - `90-Inventory-and-Lineage.md` (Dokumen ini)
 - `DAFTAR-PUSTAKA.md` (Bibliografi otoritatif 41 entri)
 - `README.md` (Peta pengantar pembaca)
