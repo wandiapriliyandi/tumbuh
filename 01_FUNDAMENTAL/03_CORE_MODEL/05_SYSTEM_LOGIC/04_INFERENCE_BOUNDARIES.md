@@ -1,59 +1,67 @@
-# Inference Boundaries — Batas Penarikan Kesimpulan
+# Batas Penarikan Kesimpulan (Inference Boundaries)
 
-System Logic mengatur hubungan antarbagian TUMBUH, tetapi tidak memberikan izin untuk menarik kesimpulan yang lebih kuat daripada evidence yang tersedia.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Kehati-hatian Menilai Kondisi Santri
 
-## Boundary Utama
+Dokumen ini menjelaskan batas-batas keilmuan yang harus dijaga agar para pengasuh asrama dan guru tidak menarik kesimpulan yang melampaui data atau fakta nyata yang ada di lapangan.
 
-### 1. Flow ≠ Causality
+---
+
+## 1. Mengapa Kita Harus Berhati-hati Menarik Kesimpulan?
+
+Di dalam kehidupan pesantren, sebuah kesimpulan yang gegabah (*su'udzon* atau overclaim) dapat berakibat fatal bagi masa depan santri:
+- Santri yang sekali tertidur saat shalat Subuh langsung divonis: *"Anak ini sudah rusak aqidahnya!"*
+- Asrama yang santrinya tampak berbaris lurus langsung diklaim: *"Sistem pembinaan kita terbukti paling sempurna di dunia!"*
+
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
+
+> **Sejauh mana sebuah pengamatan di asrama boleh disimpulkan, dan kapan kita dilarang membuat kesimpulan yang berlebihan tanpa bukti yang cukup?**
+
+---
+
+## 2. Lima Batas Penarikan Kesimpulan yang Mutlak Dijaga
+
+Berikut adalah lima batas kehati-hatian (*epistemic boundaries*) di dalam TUMBUH:
 
 ```text
-A → B
+┌────────────────────────────────────────────────────────────────────────┐
+│                   LIMA BATAS KEHATI-HATIAN KESIMPULAN                  │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. ALUR BUKAN SEBAB-AKIBAT : Hubungan di kertas ≠ Bukti pasti di hati  │
+│ 2. PERFORMA BUKAN KARAKTER : Nilai bagus sekali ≠ Akhlak sudah matang  │
+│ 3. PENGAMATAN BUKAN SEBAB  : Tahu santri murung ≠ Tahu pasti sebabnya  │
+│ 4. PROGRAM BUKAN BUKTI     : Sudah buat program ≠ Program pasti sukses │
+│ 5. HASIL BUKAN KLAIM TUNGGAL: Santri sukses ≠ Murni karena satu orang  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-dalam diagram sistem berarti A terhubung atau menjadi dasar bagi B secara arsitektural. Itu bukan otomatis:
+### 1. Hubungan di Atas Kertas Bukan Sebab-Akibat Otomatis (*Flow ≠ Causality*)
+Adanya tanda panah dalam diagram sistem (misal: *Asesmen $\longrightarrow$ Dukungan*) menunjukkan alur rujukan kerja, bukan jaminan bahwa memberi asesmen otomatis membuat santri berubah akhlaknya.
 
-```text
-A causes B
-```
+### 2. Nilai Sesaat Bukan Karakter Permanen (*Performance ≠ Capacity*)
+Santri yang berhasil menyetorkan 1 halaman hafalan hari ini di hadapan ustadz belum membuktikan bahwa ia sudah memiliki ketahanan menghafal mandiri untuk jangka panjang. Karakter membutuhkan uji waktu dan konsistensi.
 
-### 2. Capacity ≠ Performance
+### 3. Mengetahui Perilaku Bukan Berarti Tahu Pasti Niat Hatinya (*Observation ≠ Explanation*)
+Musyrif melihat santri A tidak mau ikut makan bersama di nampan. Pengamatan faktanya adalah: *Santri A tidak makan bersama*. Musyrif tidak boleh langsung menyimpulkan: *"Santri A sombong dan membenci kawan sekamarnya."* Bisa jadi santri tersebut sedang sakit perut, sedang berpuasa sunnah, atau sedang merasa minder. Tanyakan langsung (*tabayyun*) sebelum membuat kesimpulan.
 
-Performance pada satu tugas atau situasi bukan otomatis representasi penuh dari Core Capacity.
+### 4. Menjalankan Kegiatan Belum Tentu Program Tersebut Efektif (*Intervention ≠ Proven Success*)
+Hanya karena pesantren telah mengadakan kegiatan *"Dauroh Adab Sepekan"*, kita tidak boleh langsung membuat klaim publik: *"Santri kami terbukti 100% beradab mulia."* Efektivitas program harus diuji lewat perubahan perilaku nyata dalam waktu yang panjang.
 
-### 3. Assessment ≠ Explanation
+### 5. Keberhasilan Santri Tidak Boleh Diklaim Milik Satu Pihak Saja (*Outcome ≠ Single Attribution*)
+Ketika seorang santri berhasil menjadi juara tahfidz atau memiliki adab yang luhur, keberhasilan itu adalah karunia Allah SWT dan hasil kerja sama banyak pihak: doa orang tua di rumah, keteladanan guru, bimbingan musyrif, dan kesungguhan santri itu sendiri. Lembaga tidak boleh pongah mengklaim bahwa itu murni karena kehebatan sistem internal semata.
 
-Assessment dapat menyediakan evidence tentang functioning. Assessment tidak otomatis menjelaskan penyebab functioning tersebut.
+---
 
-### 4. Intervention ≠ Proven Mechanism
+## 3. Rambu Eskalasi Klaim (Escalation Rule)
 
-Intervention yang dirancang berdasarkan suatu mekanisme belum otomatis membuktikan mekanisme tersebut benar atau intervention efektif.
+Jika seorang guru atau pengasuh ingin membuat pernyataan luas mengenai:
+- *"Metode ini terbukti menaikkan kedisiplinan santri sebesar 90%"*;
+- *"Hukuman denda berhasil menghentikan perkelahian"*;
+- *"Pola asuh ini cocok untuk seluruh cabang pesantren"*;
 
-### 5. Outcome ≠ Attribution
+Pernyataan tersebut **tidak boleh sekadar didasarkan pada intuisi atau perasaan pribadi**. Pernyataan tersebut harus diajukan ke ranah penelitian (*Research & Evidence*) dan dicatat dalam **Registri Klaim (*Claim Registry*)** dengan bukti data lapangan yang sahih.
 
-Perubahan outcome setelah implementation tidak otomatis dapat diatribusikan kepada satu komponen sistem.
+---
 
-## Intended Inference
+## Ringkasan Inti
 
-Setiap keputusan downstream harus menyatakan secara implisit atau eksplisit:
-
-> **Apa yang sebenarnya dapat disimpulkan dari evidence ini?**
-
-Semakin luas inference, semakin besar kebutuhan evidence dan justifikasi.
-
-## Escalation Rule
-
-Jika sebuah dokumen mulai membuat klaim tentang:
-
-- korelasi;
-- prediksi;
-- mediasi atau moderasi;
-- dependency empiris;
-- kausalitas;
-- efektivitas;
-- generalisasi lintas populasi atau konteks;
-
-klaim tersebut harus keluar dari sekadar System Logic dan ditangani melalui **Claim Registry + evidence yang sesuai**.
-
-## Status
-
-**Conceptually specified / empirically provisional.**
+> **Batas Penarikan Kesimpulan mengajarkan kita adab dalam berpikir dan menilai. Jangan mendahului fakta, jangan menghakimi niat tanpa tabayyun, dan jangan membesar-besarkan keberhasilan tanpa bukti nyata. Sikap rendah hati dan kehati-hatian inilah yang menjaga martabat tarbiyah pesantren tetap bersih dan diridhai Allah SWT.**

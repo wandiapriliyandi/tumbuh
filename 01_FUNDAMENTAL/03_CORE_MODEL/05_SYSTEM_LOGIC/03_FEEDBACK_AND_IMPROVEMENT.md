@@ -1,122 +1,71 @@
-# Feedback and Continuous Improvement
+# Umpan Balik dan Perbaikan Sistem Berkelanjutan (Feedback and Continuous Improvement)
 
-TUMBUH bukan sistem sekali jalan. Apa yang terjadi dalam **implementation** dan apa yang ditemukan melalui **evidence & research** dapat digunakan untuk meninjau dan, bila warranted, memperbaiki bagian sistem.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Mekanisme Belajar dan Evaluasi Kelembagaan
 
-Continuous improvement karena itu bukan sekadar "selalu mengubah". Intinya adalah **belajar dari kenyataan tanpa mengubah desain secara gegabah**.
+Dokumen ini menjelaskan bagaimana sebuah lembaga pesantren belajar dari pengalaman nyata di lapangan: bagaimana keluhan santri, catatan musyrif, dan data evaluasi diolah menjadi perbaikan sistem yang bijaksana tanpa merusak stabilitas aturan yang sudah ada.
 
-## Canonical Loop
+---
 
-```text
-DESIGN
-  ↓
-IMPLEMENTATION
-  ↓
-OBSERVATION
-  ↓
-EVIDENCE
-  ↓
-REVIEW
-  ↓
-REVISION WHEN WARRANTED
-  ↺
-```
+## 1. Mengapa Sistem Pesantren Harus Mau Belajar dan Berbenah?
 
-Loop ini adalah logika governance dan pembelajaran sistem. Ia tidak menyatakan bahwa perkembangan manusia sendiri mengikuti siklus linear tersebut.
+Sebuah sistem pendidikan yang menolak belajar dari kenyataan akan segera membeku dan menjadi usang. Di banyak tempat, ketika santri sering melanggar aturan, respon pengelola sering kali hanya: *"Tingkatkan hukuman dan perketat razia!"* Padahal bisa jadi akar masalahnya adalah sistem asrama yang tidak manusiawi (seperti antrean toilet yang terlalu sedikit atau jadwal tidur yang kurang).
 
-## Apa yang Dapat Direvisi?
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-Bergantung pada masalah yang ditemukan dan kekuatan evidence, review dapat mengarah pada:
+> **Bagaimana lembaga pesantren mendengarkan kenyataan di lapangan, mengevaluasi efektivitas aturannya, dan melakukan perbaikan tanpa tergesa-gesa mengubah fondasi dasarnya?**
 
-- construct atau definisi;
-- progression;
-- assessment;
-- intervention;
-- implementation;
-- program;
-- atau keputusan untuk **tidak mengubah** desain.
+---
 
-Tingkat revisi seharusnya mengikuti tingkat masalah. Masalah lokal pada pelaksanaan tidak otomatis memerlukan perubahan pada Core Model.
+## 2. Lingkaran Pembelajaran Kelembagaan (The Canonical Improvement Loop)
 
-## Mulai dari Diagnosis, Bukan dari Revisi
-
-Sebelum mengubah komponen, review perlu membedakan sekurang-kurangnya:
-
-1. **masalah desain** — konsep atau hubungan antarbagian mungkin tidak memadai;
-2. **masalah interpretation/inference** — evidence ditafsirkan melampaui batas yang didukung;
-3. **masalah implementation** — desain mungkin memadai tetapi pelaksanaannya tidak sesuai atau menghadapi kondisi yang tidak terantisipasi;
-4. **masalah context** — kondisi ecology memengaruhi bagaimana desain muncul di lapangan;
-5. **masalah measurement/evidence** — informasi yang tersedia belum cukup untuk mendukung kesimpulan tertentu.
-
-Pembedaan ini mencegah kegagalan pada satu titik langsung dianggap sebagai kegagalan keseluruhan sistem.
-
-## Evidence sebagai Corrective Mechanism
-
-Evidence berfungsi untuk menguji apakah desain dan pelaksanaan TUMBUH masih koheren dengan apa yang ditemukan di lapangan.
-
-Namun:
-
-`OBSERVED CHANGE ≠ CAUSAL PROOF`
-
-Perubahan yang terlihat setelah intervention belum otomatis membuktikan bahwa intervention menyebabkan perubahan tersebut. Evidence perlu dibaca sesuai jenis, kualitas, konteks, dan batas inference yang dimilikinya.
-
-## Governance Loop
+Sistem yang hidup bergerak dalam lingkaran evaluasi yang teratur:
 
 ```text
-EVIDENCE
-   ↓
-REVIEW
-   ↓
-WHAT CHANGED?
-   ↓
-WHY MIGHT IT HAVE CHANGED?
-   ↓
-WHAT LAYER IS AFFECTED?
-   ↓
-WHAT EVIDENCE SUPPORTS REVISION?
-   ↓
-UPDATE / RETAIN
+┌────────────────────────────────────────────────────────────────────────┐
+│               LINGKARAN PERBAIKAN BERKELANJUTAN ASRAMA                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. RANCANG ATURAN & PROGRAM : Tata tertib dan jadwal disusun           │
+│              ↓                                                         │
+│ 2. PELAKSANAAN DI LAPANGAN  : Musyrif & santri menjalani 24 jam        │
+│              ↓                                                         │
+│ 3. PENGAMATAN FAKTA NYATA   : Apa yang benar-benar terjadi di kamar?   │
+│              ↓                                                         │
+│ 4. PENGUMPULAN DATA LOGBOOK : Rekap pelanggaran, keterlambatan, sakit  │
+│              ↓                                                         │
+│ 5. MUSYAWARAH EVALUASI      : Mengapa masalah tersebut muncul?         │
+│              ↓                                                         │
+│ 6. PERBAIKAN SISTEM JIKA PERLU : Menyesuaikan jadwal atau fasilitas    │
+│              ↺                                                         │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Pertanyaan governance tidak harus menghasilkan revisi. **Retain** adalah keputusan yang sah ketika evidence belum cukup, masalah tidak material, atau perubahan justru berisiko mengurangi coherence sistem.
+---
 
-Setiap keputusan perubahan harus dapat ditelusuri dan dicatat sesuai **Construct Registry**, **Claim Registry**, serta governance yang relevan.
+## 3. Menemukan Akar Masalah Sebelum Mengubah Aturan
 
-## Skala Perbaikan
+Ketika muncul masalah di asrama, jangan buru-buru menyalahkan santri atau langsung merombak seluruh kurikulum. Gunakan diagnosis lima tingkat:
 
-Perbaikan dapat terjadi pada tingkat yang berbeda:
+| Tingkat Masalah | Contoh Nyata di Pesantren | Tindakan yang Tepat |
+|---|---|---|
+| **1. Masalah Fasilitas & Konteks** | Santri sering terlambat shalat Subuh karena dari 5 kamar mandi, 3 kran airnya bocor dan air mati. | Perbaiki pompa air dan fasilitas sanitasi, bukan menghukum santri lari. |
+| **2. Masalah Beban Jadwal** | Santri tertidur di kelas karena jadwal halaqoh malam selesai jam 23.30 dan bel Subuh jam 03.30. | Sesuaikan ritme jadwal asrama agar santri mendapat hak tidur minimal 6–7 jam. |
+| **3. Masalah Penegakan (SOP Musyrif)** | Musyrif Kamar A sangat tegas, sedangkan Musyrif Kamar B serba membiarkan pelanggaran. | Selaraskan pelatihan dan koordinasi antar-musyrif agar adil dan konsisten. |
+| **4. Masalah Penafsiran Data** | Santri yang sering menyendiri dianggap depresi, padahal ia sedang khusyuk menghafal bait syair. | Latih musyrif dalam memahami karakter dan psikologi dasar remaja. |
+| **5. Masalah Konsep Dasar** | Aturan asrama menggunakan sistem poin pengurangan yang menstigma santri seumur hidup. | Buka evaluasi kelembagaan untuk mengganti sistem poin dengan keadilan restoratif. |
 
-- **local** — perbaikan pada pelaksanaan atau program tertentu;
-- **layer-specific** — perbaikan pada progression, assessment, intervention, atau bagian lain yang relevan;
-- **architectural** — perubahan pada construct, Core Model, atau hubungan antarbagian.
+---
 
-Semakin dalam dampaknya terhadap arsitektur, semakin kuat kebutuhan akan traceability, evidence, dan governance sebelum perubahan diterima.
+## 4. Prinsip Keseimbangan: Belajar Tanpa Mengguncang Stabilitas
 
-## Prinsip Stabilitas
+Perbaikan berkelanjutan **bukan berarti aturan diganti setiap pekan**. Pergantian aturan yang terlalu sering membuat santri dan pengasuh bingung serta kehilangan rasa aman.
 
-Continuous improvement bukan berarti perubahan tanpa henti.
+Pegang tiga prinsip stabilitas berikut:
+1. **Pertahankan Selama Bermanfaat (*Retain*):** Jika sebuah tradisi atau aturan berjalan baik dan membawa maslahat bagi santri, pertahankan dengan teguh meskipun ada tren baru dari luar.
+2. **Perbaiki Secara Bertahap (*Iterate*):** Lakukan uji coba perbaikan kecil di satu atau dua kamar percontohan sebelum menerapkannya ke seluruh pesantren.
+3. **Dokumentasikan Alasan Perubahan (*Traceability*):** Setiap perubahan jadwal atau aturan harus dicatat alasannya dalam notulen resmi, agar para pendidik di masa depan memahami hikmah di balik kebijakan tersebut.
 
-Sebuah komponen seharusnya dipertahankan ketika:
+---
 
-- tidak ada masalah material;
-- evidence belum cukup untuk revisi;
-- perubahan hanya kosmetik;
-- masalah lebih tepat diselesaikan pada layer lain;
-- atau revisi justru mengurangi coherence sistem.
+## Ringkasan Inti
 
-Stabilitas dan perbaikan bukan dua tujuan yang bertentangan. **Stabilitas menjaga identitas sistem; evidence membuka ruang untuk koreksi ketika memang diperlukan.**
-
-## Boundary
-
-Feedback and Continuous Improvement tidak menjadi:
-
-- metode penelitian;
-- instrumen assessment;
-- prosedur intervention;
-- SOP implementation;
-- atau klaim bahwa setiap perubahan sistem akan menghasilkan perbaikan outcome.
-
-Dokumen ini menetapkan **logika feedback dan governance**, bukan protokol teknis untuk menjalankannya.
-
-## Status
-
-**Conceptually specified / empirically provisional.**
+> **Umpan balik dan perbaikan berkelanjutan adalah bukti ketawadhu'an sebuah lembaga pendidikan. Pesantren yang agung bukanlah pesantren yang merasa sistemnya sudah sempurna tanpa cela, melainkan pesantren yang senantiasa membuka mata terhadap kenyataan, mendengarkan jeritan nurani santri, dan terus menyempurnakan ikhtiarnya demi meraih ridha Allah SWT.**

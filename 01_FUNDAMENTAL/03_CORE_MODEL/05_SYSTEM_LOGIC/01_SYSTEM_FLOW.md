@@ -1,296 +1,95 @@
-# System Flow — Alur Sistem TUMBUH
+# Alur Sistem Utuh TUMBUH (System Flow)
 
-System Flow menjelaskan **bagaimana bagian-bagian TUMBUH saling terhubung sebagai satu sistem**. Ia membantu kita melihat dari mana suatu keputusan berasal, ke bagian mana keputusan tersebut diteruskan, dan bagaimana evidence dapat kembali digunakan untuk memperbaiki sistem.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Peta Alur Keterhubungan Sistem
 
-System Flow adalah **alur ketergantungan dan keterhubungan konseptual**. Ia bukan urutan bahwa manusia selalu tumbuh secara linear, dan bukan pula prosedur operasional yang harus dijalankan persis langkah demi langkah.
-
----
-
-## 1. Canonical Flow
-
-```text
-WORLDVIEW / NORMATIVE DIRECTION
-              ↓
-       GRADUATE PROFILE
-              ↓
-          CORE MODEL
-              ↓
-        PROGRESSION
-              ↓
-         ASSESSMENT
-              ↓
-        INTERVENTION
-              ↓
-       IMPLEMENTATION
-              ↓
-     OBSERVED OUTCOMES
-              ↓
-     EVIDENCE & RESEARCH
-              ↓
-   CONTINUOUS IMPROVEMENT
-              ↺
-```
-
-Flow tersebut menunjukkan hubungan tingkat sistem:
-
-- **Worldview / Normative Direction** memberi arah dan landasan normatif.
-- **Graduate Profile** menerjemahkan arah tersebut menjadi gambaran manusia/lulusan yang dituju.
-- **Core Model** menjelaskan konteks pertumbuhan, mekanisme perubahan, dan kapasitas yang menjadi perhatian sistem.
-- **Progression** merepresentasikan bagaimana functioning capacity dapat berubah sepanjang waktu, tuntutan, atau kondisi yang relevan.
-- **Assessment** menghasilkan evidence untuk inference yang telah ditentukan.
-- **Intervention** menggunakan evidence tersebut sebagai salah satu dasar untuk menentukan respons atau dukungan yang relevan.
-- **Implementation** membawa respons tersebut ke kondisi nyata dengan mempertimbangkan actors, resources, adaptation, fidelity, dan constraints yang relevan.
-- **Observed Outcomes** menunjukkan apa yang terjadi dalam praktik dan apa yang dapat diamati.
-- **Evidence & Research** menelaah evidence tersebut dengan batas inference yang sesuai.
-- **Continuous Improvement** menggunakan hasil review untuk mempertahankan, memperbaiki, atau bila diperlukan membuka kembali bagian sistem yang relevan.
+Dokumen ini menjelaskan bagaimana seluruh bagian di dalam ekosistem TUMBUH saling tersambung secara harmonis: dari cita-cita luhur di hulu, turun menjadi model pembinaan di asrama, hingga evaluasi bukti perbaikan di hilir.
 
 ---
 
-## 2. Di Dalam Core Model
+## 1. Mengapa Kita Butuh Peta Alur Sistem?
 
-Core Model sendiri memiliki tiga komponen substantif utama:
+Bayangkan sebuah pesantren yang memiliki visi besar: *"Mencetak generasi yang mandiri, jujur, dan berakhlak mulia."* Namun dalam keseharian asrama:
+- Musyrif membangunkan santri dengan bentakan kasar;
+- Ujian adab hanya dinilai lewat kertas ujian pilihan ganda;
+- Santri yang terlambat dihukum lari keliling lapangan tanpa diajak berdialog;
+- Pengasuh asrama tidak pernah diajak rapat evaluasi oleh pengelola kelembagaan.
 
-```text
-Growth Ecology
-      ↓
-Growth Mechanism
-      ↓
-Core Capacity Architecture
-```
+Di pesantren tersebut, cita-cita di atas kertas tidak tersambung dengan kenyataan di lapangan. Masing-masing bagian berjalan sendiri-sendiri tanpa arah yang padu.
 
-Ketiganya memiliki fungsi yang berbeda:
+Pertanyaan mendasar yang dijawab oleh **Alur Sistem (*System Flow*)** adalah:
 
-- **Growth Ecology** menjelaskan konteks, lingkungan, dan relasi tempat pertumbuhan berlangsung.
-- **Growth Mechanism** menjelaskan proses melalui mana perubahan functioning/capacity dapat berlangsung.
-- **Core Capacity Architecture** menjelaskan kapasitas yang menjadi construct inti serta bagaimana construct tersebut direpresentasikan melalui functional object dan functional dimensions.
-
-Urutan tersebut tidak berarti Growth Ecology secara sederhana "menyebabkan" Growth Mechanism atau Growth Mechanism secara otomatis "menyebabkan" perubahan capacity. Hubungannya harus dibaca sesuai batas masing-masing layer dan evidence yang tersedia.
+> **Bagaimana memastikan setiap aturan, kegiatan kamar, dan penilaian santri benar-benar berakar dari tujuan syariat dan bermuara pada perbaikan mutu santri secara nyata?**
 
 ---
 
-## 3. Apa Arti Panah?
+## 2. Alur Baku Sistem TUMBUH (Canonical Flow)
 
-Dalam System Flow, panah terutama berarti **arah keterhubungan, dependency, atau penggunaan konseptual**.
-
-Misalnya:
+Perhatikan alur sepuluh langkah yang menghubungkan hulu ke hilir:
 
 ```text
-Progression
-     ↓
-Assessment
-```
-
-Artinya Assessment perlu mengetahui apa yang sedang hendak dipahami dari progression. Ini **tidak berarti progression menyebabkan assessment**.
-
-Demikian pula:
-
-```text
-Assessment
-     ↓
-Intervention
-```
-
-berarti evidence assessment dapat menjadi dasar keputusan intervention bila intended inference dan evidence memadai. Ini tidak berarti setiap hasil assessment otomatis menentukan intervention.
-
-Karena itu:
-
-```text
-A → B
-```
-
-**tidak boleh dibaca otomatis sebagai:**
-
-```text
-A causes B
+┌────────────────────────────────────────────────────────────────────────┐
+│                   ALUR KETERHUBUNGAN SISTEM TUMBUH                     │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. PANDANGAN HIDUP ISLAM (Worldview)   : Fondasi aqidah & nilai syar'i │
+│                 ↓                                                      │
+│ 2. PROFIL LULUSAN (Graduate Profile)   : 10 Karakter adab santri       │
+│                 ↓                                                      │
+│ 3. MODEL INTI (Core Model)             : Wadah, mesin, & kapasitas     │
+│    (Ekologi Pertumbuhan ──► Mekanisme ──► Arsitektur Kapasitas Inti)   │
+│                 ↓                                                      │
+│ 4. TANGGA KEMANDIRIAN (Progression)    : Jenjang tahapan santri (J1–J4)│
+│                 ↓                                                      │
+│ 5. ASESMEN PERILAKU (Assessment)       : Pengamatan adab & logbook     │
+│                 ↓                                                      │
+│ 6. DUKUNGAN TERARAH (Intervention)     : Bimbingan, restitusi, ishlah  │
+│                 ↓                                                      │
+│ 7. PELAKSANAAN LAPANGAN (Implementation): Jadwal 24 jam & SOP asrama   │
+│                 ↓                                                      │
+│ 8. HASIL PERILAKU NYATA (Outcomes)     : Perubahan adab yang terlihat  │
+│                 ↓                                                      │
+│ 9. EVALUASI BUKTI (Evidence & Research): Telaah catatan fakta objektif │
+│                 ↓                                                      │
+│ 10. PERBAIKAN BERKELANJUTAN (Improvement): Menyempurnakan sistem asrama│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 4. Flow Bukan Tahap Perkembangan Manusia
+## 3. Memahami Peran Masing-Masing Lapisan
 
-Canonical Flow tidak menyatakan bahwa setiap individu harus mengalami:
+Agar setiap guru dan musyrif memahami perannya di lapangan:
 
-```text
-A → B → C → D
-```
-
-dalam urutan yang sama.
-
-Pertumbuhan manusia dapat:
-
-- berlangsung tidak seragam;
-- mengalami fluktuasi atau regresi;
-- berbeda menurut context dan demand;
-- dipengaruhi support dan opportunity;
-- memperlihatkan beberapa capacity bekerja bersamaan;
-- menghasilkan evidence yang berbeda antar-kondisi.
-
-Karena itu System Flow harus dibedakan dari **Growth Mechanism** dan **Capacity Progression**.
-
-> **System Flow menjelaskan bagaimana sistem TUMBUH terhubung; ia tidak menetapkan bagaimana manusia pasti tumbuh.**
+1. **Pandangan Hidup Islam (*Worldview*):** Menegaskan bahwa santri adalah hamba Allah yang memiliki fitrah mulia, dan tujuan utama pendidikan adalah meraih ridha Allah SWT.
+2. **Profil Lulusan (*Graduate Profile*):** Menjabarkan 10 muwashofat karakter santri (seperti aqidah lurus, ibadah benar, dan berakhlak mulia).
+3. **Model Inti (*Core Model*):** Menjelaskan tempat santri hidup (*Ekologi*), cara santri berubah (*Mekanisme*), dan keterampilan apa yang dilatih (*Kapasitas Inti*).
+4. **Tangga Kemandirian (*Progression J1–J4*):** Memetakan perkembangan santri dari tahap awal butuh bimbingan penuh (J1) hingga mandiri menjadi penggerak (J4).
+5. **Asesmen Perilaku (*Assessment*):** Mengumpulkan bukti perilaku nyata santri lewat catatan harian musyrif, bukan sekadar nilai angka di atas kertas.
+6. **Dukungan Terarah (*Intervention*):** Memberikan pendampingan yang tepat (bimbingan kamar, mediasi konflik, atau restitusi) berdasarkan hasil pengamatan.
+7. **Pelaksanaan Lapangan (*Implementation*):** Menjalankan tata tertib, jadwal makan, shalat berjamaah, dan piket kamar secara konsisten.
+8. **Hasil Perilaku Nyata (*Outcomes*):** Perubahan nyata yang dirasakan: santri makin tertib shalat, kamar makin bersih, dan tidak ada lagi perundungan.
+9. **Evaluasi Bukti (*Evidence & Research*):** Memeriksa apakah program yang dijalankan benar-benar membawa manfaat atau justru membebani santri.
+10. **Perbaikan Berkelanjutan (*Continuous Improvement*):** Duduk bersama mengevaluasi dan memperbaiki jadwal atau aturan yang kurang pas di lapangan.
 
 ---
 
-## 5. Flow Dapat Memiliki Feedback
+## 4. Makna Tanda Panah: Keterhubungan, Bukan Pemaksaan Otomatis
 
-Walaupun diagram utama ditampilkan dari arah desain menuju evidence, TUMBUH bukan sistem sekali jalan.
+Tanda panah ($\downarrow$) dalam diagram sistem menunjukkan **arah rujukan informasi**, bukan rantai sebab-akibat mekanis:
 
-Contohnya:
-
-```text
-IMPLEMENTATION
-      ↓
-OBSERVATION
-      ↓
-EVIDENCE
-      ↓
-REVIEW
-      ↓
-REVISION WHEN WARRANTED
-      ↺
-```
-
-Evidence dapat memicu review terhadap:
-
-- progression;
-- assessment;
-- intervention;
-- implementation;
-- construct; atau
-- hubungan antar-layer.
-
-Namun feedback tersebut tidak berarti semua evidence otomatis menghasilkan perubahan. Keputusan perubahan mengikuti **governance, traceability, Claim Registry, Construct Registry, dan kecukupan evidence**.
-
-Keputusan yang sah juga dapat berupa:
-
-> **Tidak mengubah desain karena evidence belum cukup.**
+- Contoh: **Asesmen $\longrightarrow$ Dukungan Terarah**
+  Artinya: Saat musyrif mencatat bahwa seorang santri sering murung di pojok asrama (*Asesmen*), musyrif memiliki dasar rujukan untuk mengajaknya mengobrol santai dari hati ke hati (*Dukungan Terarah*). Tanda panah ini bukan berarti asesmen otomatis menyembuhkan santri, melainkan memberi petunjuk tindakan yang bijaksana.
 
 ---
 
-## 6. Forward dan Backward Reading
+## 5. Panduan Praktis bagi Musyrif dan Pengelola
 
-System Flow dapat dibaca dari dua arah.
-
-### Forward Reading
-
-```text
-NORMATIVE DIRECTION
-      ↓
-GRADUATE PROFILE
-      ↓
-CORE MODEL
-      ↓
-PROGRESSION
-      ↓
-ASSESSMENT
-      ↓
-INTERVENTION
-      ↓
-IMPLEMENTATION
-      ↓
-EVIDENCE
-```
-
-Digunakan untuk melihat apakah keputusan downstream masih memiliki dasar yang dapat ditelusuri kembali ke arah dan construct yang mendasarinya.
-
-### Backward Reading
-
-```text
-OBSERVED EVIDENCE
-      ↓
-ASSESSMENT INFERENCE
-      ↓
-FUNCTIONING / CAPACITY
-      ↓
-PROGRESSION
-      ↓
-CORE MODEL
-      ↓
-NORMATIVE DIRECTION
-```
-
-Digunakan untuk memeriksa apakah interpretasi evidence melampaui apa yang sebenarnya didukung oleh construct, inference, dan evidence.
+1. **Jaga Keselarasan Hulu dan Hilir:**
+   Setiap kali membuat aturan baru di asrama, tanyakan: *"Apakah aturan ini benar-benar mendukung Profil Lulusan santri, atau hanya sekadar mempermudah musyrif mengontrol santri?"*
+2. **Tutup Siklus dengan Musyawarah Evaluasi:**
+   Jangan biarkan catatan logbook musyrif menumpuk di lemari tanpa pernah dibahas. Jadwalkan rapat evaluasi bulanan untuk meninjau efektivitas pembinaan asrama.
 
 ---
 
-## 7. Hubungan dengan Traceability
+## Ringkasan Inti
 
-System Flow memberi **peta hubungan tingkat sistem**. Traceability memberikan kemampuan untuk menelusuri hubungan tersebut secara lebih rinci.
-
-Secara sederhana:
-
-```text
-System Flow
-    ↓
-Layer Relationship
-    ↓
-Traceability Record
-    ↓
-Claim / Evidence / Decision
-```
-
-Karena itu, System Flow tidak menggantikan:
-
-- Construct Registry;
-- Claim Registry;
-- Evidence Registry;
-- Decision Log; atau
-- dokumen traceability pada layer lain.
-
----
-
-## 8. Boundary dengan Layer Lain
-
-| Komponen | Fungsi dalam System Flow | Bukan fungsi System Flow |
-|---|---|---|
-| Worldview / Normative Direction | memberi arah | membuktikan klaim empiris |
-| Graduate Profile | memberi arah hasil yang dituju | menjadi daftar skor capacity |
-| Core Model | memberi model pertumbuhan dan construct | menjadi SOP |
-| Progression | merepresentasikan perubahan functioning | menjadi tahap usia universal |
-| Assessment | menghasilkan evidence untuk inference | otomatis menentukan sebab |
-| Intervention | merancang respons terhadap kebutuhan | menjadi protokol universal |
-| Implementation | menjalankan respons dalam kenyataan | menjadi teori pertumbuhan |
-| Evidence & Research | menilai evidence dan claims | sekadar dokumentasi |
-| Continuous Improvement | mengarahkan review/perbaikan | berarti semua komponen harus berubah |
-
----
-
-## 9. Boundary Utama
-
-System Flow bukan:
-
-- causal model;
-- statistical model;
-- developmental stage model;
-- assessment instrument;
-- intervention protocol;
-- implementation SOP;
-- program catalog;
-- atau pengganti Construct Registry dan Claim Registry.
-
-System Flow juga tidak boleh dipakai untuk menghapus batas antara:
-
-```text
-Construct
-Process
-Performance
-Evidence
-Decision
-Procedure
-```
-
-Masing-masing tetap memiliki fungsi dan statusnya sendiri.
-
----
-
-## 10. Status
-
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-System Flow telah ditetapkan sebagai representasi hubungan konseptual tingkat sistem untuk TUMBUH v2.0.0.
-
-Status ini **bukan validasi empiris, bukan bukti kausal, dan bukan klaim bahwa seluruh flow berlaku identik pada setiap individu atau konteks**.
-
-### Inti
-
-> **System Flow membantu memastikan bahwa setiap bagian TUMBUH tahu posisinya, tahu hubungan konseptualnya dengan bagian lain, dan tetap dapat ditelusuri ketika evidence digunakan untuk mengambil keputusan atau memperbaiki sistem.**
+> **Alur Sistem memastikan bahwa tidak ada satu pun ikhtiar di pesantren yang berjalan sia-sia tanpa arah. Ketika pandangan hidup Islam memandu profil lulusan, profil lulusan diterjemahkan dalam keseharian asrama, dan hasil lapangan dievaluasi dengan jujur untuk perbaikan berkelanjutan, maka pesantren menjelma menjadi taman tarbiyah yang hidup dan penuh berkah.**
