@@ -1,62 +1,54 @@
-# Construct Registry — Struktur Registry
+# Struktur Registri Konstruk (Construct Registry Structure)
 
-Construct Registry adalah **daftar resmi construct TUMBUH** agar istilah yang dipakai di berbagai domain memiliki identitas, definisi, posisi, dan batas yang konsisten.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Pedoman Pembakuan Istilah Resmi TUMBUH
 
-Ia menjawab:
+Dokumen ini menjelaskan struktur baku pendaftaran istilah dan konsep (*konstruk*) di dalam ekosistem TUMBUH, agar seluruh pendidik, musyrif, dan pengelola memiliki pemahaman kata yang sama dan tidak saling salah paham.
 
-> **"Istilah ini sebenarnya construct apa, berada di layer mana, dan apa yang bukan bagian darinya?"**
+---
 
-## Registry Minimum
+## 1. Mengapa Kita Membutuhkan Registri Konstruk?
 
-Setiap construct penting minimal memiliki:
+Di dunia pesantren, sering kali satu kata dipahami dengan arti yang berbeda-beda oleh orang yang berbeda:
+- Musyrif A mengartikan *"Kemandirian"* sebagai santri yang tidak pernah mengeluh;
+- Musyrif B mengartikan *"Kemandirian"* sebagai santri yang berani mencuci baju sendiri;
+- Guru kelas mengartikan *"Kemandirian"* sebagai santri yang bisa mengerjakan soal ujian tanpa menyontek.
 
-| Field | Pertanyaan |
-|---|---|
-| ID | Apa identitas stabilnya? |
-| Name | Apa nama canonical-nya? |
-| Layer | Berada di domain mana? |
-| Definition | Apa definisi kerjanya? |
-| Functional Object | Apa objek functioning-nya? |
-| Dimensions | Apa fungsi penting yang membentuknya? |
-| Boundaries | Apa yang bukan construct tersebut? |
-| Related Constructs | Apa construct yang berdekatan? |
-| Evidence Territory | Evidence seperti apa yang relevan? |
-| Status | Seberapa kuat status pengetahuannya? |
+Ketika istilah tidak dibakukan, pembinaan santri menjadi rancu dan penilaian menjadi tidak adil.
 
-## Construct yang Harus Dibedakan
+Pertanyaan mendasar yang dijawab oleh **Registri Konstruk (*Construct Registry*)** adalah:
 
-Registry harus menjaga perbedaan minimal antara:
+> **Istilah ini sebenarnya konsep apa, apa definisi resminya, di mana letak posisinya dalam pembinaan, dan apa saja yang BUKAN menjadi bagian darinya?**
 
-- Graduate Profile / normative construct;
-- Core Capacity;
-- Functional Object;
-- Functional Dimension;
-- process;
-- resource;
-- strategy;
-- pattern;
-- context;
-- demand;
-- performance;
-- evidence;
-- progression construct.
+---
 
-## Prinsip
+## 2. Format Baku Identitas Konstruk (Minimum Registry Record)
 
-Satu istilah yang tampak mirip tidak otomatis merupakan construct yang sama.
+Setiap konsep inti yang didaftarkan ke dalam sistem TUMBUH wajib memiliki sepuluh data pengenal yang jelas:
 
-Jika suatu istilah baru diperkenalkan, pertanyaan pertama bukan **"di mana kita menaruhnya?"**, tetapi:
+| Kolom Data | Pertanyaan Pemandu | Contoh Kasus (Regulasi Diri / Self-Regulation) |
+|---|---|---|
+| **ID Konstruk** | Apa kode unik resminya? | `CC-01` |
+| **Nama Resmi** | Apa nama bakunya? | Regulasi Diri (*Self-Regulation*) |
+| **Letak Lapisan** | Berada di domain mana? | Kapasitas Inti (*Core Capacity*) |
+| **Definisi Resmi** | Apa pengertian ringkasnya? | Kemampuan mengarahkan dorongan diri, emosi, dan tindakan agar selaras dengan tuntutan adab dan ibadah. |
+| **Objek Fungsi** | Apa yang dikelolanya? | Respon emosi, dorongan hawa nafsu, dan pengelolaan waktu santri. |
+| **Dimensi Fungsi** | Apa saja cabang kemampuannya? | Pemantauan diri (*monitoring*), Pengendalian dorongan (*regulation*), dan Penyelarasan niat (*reorientation*). |
+| **Pagar Batas** | Apa yang BUKAN bagian darinya? | Bukan kepatuhan robotik karena takut dihukum musyrif; bukan sikap kaku yang menutup diri dari pergaulan. |
+| **Konsep Terkait** | Apa konsep yang berdekatan? | Daya Gerak Mandiri (*Agency*), Nalar Kritis (*Critical Thinking*). |
+| **Bukti Lapangan** | Bukti perilaku apa yang diamati? | Santri bangun Subuh tepat waktu saat jam weker berbunyi tanpa perlu diguncang musyrif. |
+| **Status Keabsahan**| Seberapa matang konsep ini? | Ditetapkan Resmi (*Canonical Designed*). |
 
-> **"Apakah kita benar-benar membutuhkan construct baru?"**
+---
 
-## Non-Inflation
+## 3. Mencegah Inflasi Istilah (Anti-Construct Inflation)
 
-Construct baru harus memiliki identitas fungsional yang cukup berbeda dan tidak dapat dijelaskan secara memadai oleh construct yang sudah ada.
+Kita tidak boleh sembarangan menciptakan istilah baru hanya agar terdengar hebat atau modern. Menambah istilah baru hanya akan membingungkan para musyrif di lapangan.
 
-## Governance
+Pegang aturan ketat ini:
+> **Sebelum membuat nama konsep baru, tanyakan: "Apakah perilaku santri ini sudah cukup dijelaskan oleh 8 Kapasitas Inti yang sudah ada?" Jika sudah bisa dijelaskan, dilarang keras membuat istilah baru!**
 
-Perubahan definisi material harus ditelusuri melalui Construct Registry, Claim Registry, evidence, dan artefak downstream yang terdampak.
+---
 
-## Status
+## Ringkasan Inti
 
-**Conceptually specified / empirically provisional.**
+> **Registri Konstruk adalah kamus kesepakatan bersama. Dengan adanya registri ini, musyrif di asrama, guru di kelas, dan pengelola pesantren berbicara dalam satu bahasa adab yang sama, sehingga pembinaan santri berjalan tertib, adil, dan terukur.**

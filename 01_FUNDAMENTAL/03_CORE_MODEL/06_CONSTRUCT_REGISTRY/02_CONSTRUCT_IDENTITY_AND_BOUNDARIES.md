@@ -1,60 +1,66 @@
-# Construct Identity and Boundaries
+# Identitas dan Batas-Batas Konsep (Construct Identity and Boundaries)
 
-Construct identity menjaga agar sebuah konsep tetap menjadi dirinya sendiri ketika diterjemahkan ke progression, assessment, intervention, atau program.
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Menjaga Kemurnian Makna Istilah
 
-## Identity Record
+Dokumen ini menjelaskan bagaimana menjaga agar makna sebuah istilah tidak bergeser secara diam-diam (*construct drift*) ketika diterapkan dalam pembuatan jadwal asrama, buku tata tertib, maupun rubrik penilaian musyrif.
 
-Sebuah construct dianggap memiliki identitas yang stabil ketika dapat dijelaskan melalui:
+---
+
+## 1. Mengapa Identitas Konsep Bisa Bergeser?
+
+Dalam praktik sehari-hari, sebuah istilah yang awalnya bermakna luhur sering kali mengalami pendangkalan makna:
+- Kata *"Tawadhu'"* (rendah hati) di asrama sering bergeser maknanya menjadi *"santri penakut yang tidak berani menyampaikan kebenaran"*;
+- Kata *"Sabar"* sering disalahartikan menjadi *"menerima saja perundungan tanpa berani melapor"*;
+- Kata *"Disiplin"* sering dipersempit maknanya menjadi *"tertib saat diawasi tongkat musyrif"*.
+
+Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
+
+> **Bagaimana kita menjaga agar setiap istilah kapasitas santri tetap kokoh pada makna aslinya dan tidak diselewengkan dalam praktik pengasuhan?**
+
+---
+
+## 2. Lima Batas Pembeda yang Mutlak Dijaga
+
+Untuk mencegah pergeseran makna, gunakan lima pembeda arsitektur berikut:
 
 ```text
-NAME
-  ↓
-DEFINITION
-  ↓
-FUNCTIONAL OBJECT
-  ↓
-FUNCTIONAL DIMENSIONS
-  ↓
-BOUNDARIES
-  ↓
-EVIDENCE TERRITORY
+┌────────────────────────────────────────────────────────────────────────┐
+│                   LIMA PEMBEDA MAKNA KAPASITAS                         │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. KAPASITAS BUKAN PROSES    : Hasil kemampuan diri ≠ Tahapan belajar  │
+│ 2. KAPASITAS BUKAN FASILITAS : Kemampuan santri ≠ Buku / Jam weker     │
+│ 3. KAPASITAS BUKAN PERFORMA  : Watak membatin ≠ Tertib sesaat diuji    │
+│ 4. KAPASITAS BUKAN PROFIL    : Keterampilan fungsional ≠ Cita-cita adab│
+│ 5. KAPASITAS BUKAN WADAH     : Karakter santri ≠ Gedung & aturan kamar │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-## Boundary Principles
+### 1. Kapasitas Berbeda dengan Proses Belajar (*Capacity ≠ Process*)
+Latihan (*riyadhoh*), muhasabah, dan umpan balik adalah cara santri belajar (*proses*). Sedangkan kemampuan mengendalikan amarah saat diejek kawan adalah hasil kematangan jiwa (*kapasitas*). Jangan menyamakan cara belajar dengan hasil belajar.
 
-### Capacity ≠ Process
-Learning, practice, reflection, feedback, dan adaptation dapat menjadi bagian dari proses pertumbuhan. Mereka tidak otomatis menjadi Core Capacity.
+### 2. Kapasitas Berbeda dengan Sarana Bantuan (*Capacity ≠ Resource*)
+Jam weker yang canggih, buku catatan harian, atau bimbingan intensif dari musyrif adalah sarana pendukung (*resources*). Kemampuan santri untuk bangun sendiri tanpa dibangunkan orang lain barulah kapasitas sejati (*capacity*).
 
-### Capacity ≠ Resource
-Knowledge, tools, support, scaffold, dan sumber daya lain tidak otomatis merupakan capacity.
+### 3. Kapasitas Berbeda dengan Perilaku Sesaat (*Capacity ≠ Performance*)
+Seorang santri yang hari ini bisa menahan amarah karena sedang ada tamu pengasuh di asrama baru menunjukkan performa sesaat (*performance*). Kapasitas sejati (*capacity*) terbukti jika ia tetap tenang dan sabar ketika diuji berulang kali di tempat sepi.
 
-### Capacity ≠ Performance
-Apa yang seseorang lakukan pada satu tugas bukan keseluruhan construct.
+### 4. Kapasitas Berbeda dengan Cita-cita Luhur (*Capacity ≠ Graduate Profile*)
+Profil Lulusan (seperti *Aqidah yang Lurus* atau *Akhlak yang Mulia*) adalah arah normatif syar'i yang ingin dituju. Sedangkan Kapasitas Inti (seperti *Regulasi Diri* atau *Nalar Kritis*) adalah perangkat berpikir dan bertindak fungsional yang dilatih untuk mewujudkan Profil Lulusan tersebut.
 
-### Capacity ≠ Normative Profile
-Graduate Profile menjelaskan arah manusia yang dituju. Core Capacity menjelaskan kapasitas yang dikembangkan.
+### 5. Kapasitas Berbeda dengan Lingkungan Tempat Tinggal (*Capacity ≠ Context*)
+Kamar asrama yang tenang dan berudara segar adalah kondisi lingkungan (*context*). Kemampuan santri untuk tetap khusyuk belajar meskipun suasana kamar sedang agak berisik adalah kapasitas adaptasi santri.
 
-### Capacity ≠ Context
-Kondisi lingkungan dapat memengaruhi functioning tanpa menjadi bagian dari definisi construct.
+---
 
-## Context Sensitivity
+## 3. Uji Kemurnian Istilah (Boundary Testing)
 
-Manifestasi sebuah construct dapat berubah menurut konteks tanpa harus mengubah identitas construct.
+Jika seorang guru atau pengasuh asrama mengajukan definisi baru, lakukan pengujian cepat:
+- *Apakah definisi baru ini sama saja dengan kepatuhan terhadap aturan asrama?* Jika ya, tolak! Itu aturan SOP, bukan kapasitas.
+- *Apakah definisi baru ini sama saja dengan nilai rapor angka?* Jika ya, tolak! Itu alat ukur asesmen, bukan kapasitas.
+- *Apakah definisi baru ini sudah tercakup dalam 8 Kapasitas Inti?* Jika ya, gabungkan, jangan buat istilah baru!
 
-Karena itu registry menyimpan **construct identity** terpisah dari contoh manifestasi kontekstual.
+---
 
-## Boundary Test
+## Ringkasan Inti
 
-Jika definisi baru membuat construct:
-
-- sama dengan indikator;
-- sama dengan program;
-- sama dengan outcome;
-- sama dengan konteks;
-- atau sama dengan construct lain;
-
-maka definisi harus ditinjau kembali sebelum diterima.
-
-## Status
-
-**Conceptually specified / empirically provisional.**
+> **Identitas dan Batas Konsep menjaga agar bahasa pembinaan di pesantren tidak mengalami kerancuan. Dengan batas yang tegas, para pendidik tidak akan menukar permata adab sejati dengan kepatuhan palsu, dan tidak akan menyamakan fasilitas asrama dengan kematangan jiwa santri.**
