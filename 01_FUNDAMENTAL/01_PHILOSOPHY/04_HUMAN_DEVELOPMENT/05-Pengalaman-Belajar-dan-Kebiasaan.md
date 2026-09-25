@@ -48,7 +48,7 @@ Inilah pembeda mendasar antara sekadar "membuat santri sibuk beraktivitas" denga
 
 ## Hakikat Pembentukan Kebiasaan Karakter (*Malakah*) dalam Turats
 
-Tindakan luhur yang dilakukan berulang kali secara sadar akan mengkristal menjadi pola perilaku yang stabil. Dalam khazanah peradaban Islam, puncak dari pembiasaan adab ini dirumuskan oleh para ulama agung dengan konsep **Malakah** (ملكة).[^7]
+Tindakan luhur yang dilakukan berulang kali secara sadar akan mengkristal menjadi pola perilaku yang stabil. Dalam khazanah peradaban Islam, puncak dari pembiasaan adab ini dirumuskan oleh para ulama agung dengan konsep **Malakah** (مَلَكَةٌ).[^7]
 
 Imam Ibnu Khaldun dalam *Al-Muqaddimah* menjelaskan bahwa *malakah* adalah kualitas atau sifat kejiwaan yang tertanam begitu kokoh dan mengakar mendalam (*shifatun rāsikhatun fin-nafs*) melalui latihan praktik yang terus-menerus (*al-mumārasah wal-i'tiyād*), hingga perbuatan tersebut terpancar darinya secara wajar, mudah, dan spontan tanpa memerlukan pergulatan batin yang melelahkan.[^8]
 

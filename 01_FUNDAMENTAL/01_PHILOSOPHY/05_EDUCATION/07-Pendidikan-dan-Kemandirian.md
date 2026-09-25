@@ -12,7 +12,7 @@ Yang wajib diperhatikan oleh para pendidik adalah **arah dan sifat dari bantuan 
 
 Dalam pandangan sekuler Barat, kemandirian sering kali disamakan dengan otonomi individualistis mutlak (*absolute individual autonomy*), yakni kebebasan seseorang untuk berbuat sesuka hati tanpa terikat oleh norma agama atau kewajiban sosial masyarakat.
 
-TUMBUH menolak pemaknaan kemandirian yang sempit dan liar tersebut. Dalam khazanah peradaban Islam, puncak kemandirian insani dimahkotai oleh konsep **Ar-Rusyd** (الرشد), sebagaimana ditegaskan dalam Al-Qur'an:[^3]
+TUMBUH menolak pemaknaan kemandirian yang sempit dan liar tersebut. Dalam khazanah peradaban Islam, puncak kemandirian insani dimahkotai oleh konsep **Ar-Rusyd** (الرُّشْدُ), sebagaimana ditegaskan dalam Al-Qur'an:[^3]
 
 $$
 \text{وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ...}

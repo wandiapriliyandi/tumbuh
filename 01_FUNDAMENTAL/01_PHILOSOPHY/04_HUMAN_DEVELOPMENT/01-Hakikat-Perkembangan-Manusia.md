@@ -18,7 +18,7 @@ $$
 
 > *"Dialah yang menciptakan kamu dari tanah, kemudian dari setetes mani, lalu dari segumpal darah, kemudian Dia mengeluarkan kamu sebagai anak-anak, kemudian (Dia membiarkan kamu bertumbuh) agar kamu mencapai usia dewasa yang kokoh, kemudian menjadi tua..."* (QS. Ghafir [40]: 67)[^2]
 
-Ayat ini menegaskan bahwa masa kanak-kanak (*tifl*) dan masa kematangan kekuatan fisik-intelektual (*asyuddakum*) adalah etape perkembangan yang telah digariskan oleh *Sunnatullah*. Namun, tujuan akhir dari perkembangan insani melampaui kedewasaan biologis (*al-bulugh*). Sasaran tertinggi dari tarbiyah manusia adalah tercapainya kematangan budi pekerti, kearifan spiritual, dan kecakapan memegang amanah yang dalam istilah Al-Qur'an disebut sebagai **Ar-Rusyd** (الرشد).[^3]
+Ayat ini menegaskan bahwa masa kanak-kanak (*tifl*) dan masa kematangan kekuatan fisik-intelektual (*asyuddakum*) adalah etape perkembangan yang telah digariskan oleh *Sunnatullah*. Namun, tujuan akhir dari perkembangan insani melampaui kedewasaan biologis (*al-bulugh*). Sasaran tertinggi dari tarbiyah manusia adalah tercapainya kematangan budi pekerti, kearifan spiritual, dan kecakapan memegang amanah yang dalam istilah Al-Qur'an disebut sebagai **Ar-Rusyd** (الرُّشْدُ).[^3]
 
 Al-Qur'an secara eksplisit mengaitkan peralihan tanggung jawab mandiri dengan pembuktian hadirnya kematangan budi pekerti ini:
 

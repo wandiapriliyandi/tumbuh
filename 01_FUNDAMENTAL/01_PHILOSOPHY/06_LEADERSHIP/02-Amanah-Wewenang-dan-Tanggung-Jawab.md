@@ -2,7 +2,7 @@
 
 Apabila kepemimpinan didefinisikan sebagai daya pengaruh dan kekuasaan untuk mengarahkan manusia, maka pertanyaan krusial yang menentukan batas keadilan mengemuka: **kapan wewenang itu sah untuk dipergunakan, apa batasan moralnya, dan kepada siapa kekuasaan itu wajib dipertanggungjawabkan?**[^1]
 
-Dalam sistem pendidikan TUMBUH, jawaban atas pertanyaan ini berakar tegak lurus pada konsep **Amanah** (الأمانة). Amanah adalah titipan suci yang membawa konsekuensi hukum, moral, dan spiritual yang amat berat. Jabatan struktural, wewenang pembinaan asrama, keunggulan usia, maupun keluasan ilmu pengetahuan bukanlah milik pribadi seorang pendidik yang boleh dipergunakan sesuka hati untuk memuaskan hawa nafsu kepentingannya.[^2]
+Dalam sistem pendidikan TUMBUH, jawaban atas pertanyaan ini berakar tegak lurus pada konsep **Amanah** (الْأَمَانَةُ). Amanah adalah titipan suci yang membawa konsekuensi hukum, moral, dan spiritual yang amat berat. Jabatan struktural, wewenang pembinaan asrama, keunggulan usia, maupun keluasan ilmu pengetahuan bukanlah milik pribadi seorang pendidik yang boleh dipergunakan sesuka hati untuk memuaskan hawa nafsu kepentingannya.[^2]
 
 Al-Qur'an al-Karim meletakkan dua sendi utama kekuasaan dalam satu tarikan nafas yang agung:
 

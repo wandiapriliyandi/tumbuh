@@ -46,9 +46,9 @@ Dari amanah kenabian ini, para ulama merumuskan tiga dimensi pendidikan:
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-1. **At-Tarbiyah (التربية):** Berakar dari kata *rabba-yarbu* (bertambah, berkembang) dan *rabba-yarubbu* (mengasuh, memelihara). Tarbiyah menekankan proses pemeliharaan, pengasuhan kasih sayang, dan pendampingan bertahap (*at-tadrij*) terhadap potensi fisik, mental, dan emosional santri agar tidak menyimpang dari fitrah penciptaannya.[^7]
-2. **At-Ta'līm (التعليم):** Berfokus pada transmisi pengetahuan, pemahaman konsep, pelurusan nalar berpikir, serta pembekalan keterampilan keilmuan yang membebaskan manusia dari kegelapan kebodohan (*jahl*).[^8]
-3. **At-Ta'dīb (التأديب):** Dimahkotai oleh pemikiran Prof. Dr. Syed Muhammad Naquib Al-Attas sebagai konsep paling paripurna bagi pendidikan Islam. Ta'dib adalah proses penanaman adab ke dalam jiwa manusia. Adab didefinisikan sebagai pengenalan dan pengakuan yang tepat terhadap posisi hakiki segala sesuatu dalam tatanan wujud ciptaan Allah: mengakui keagungan Allah sebagai Khaliq, menghormati para Nabi dan ulama, memperlakukan sesama santri dengan adil dan kasih sayang, serta menjaga kelestarian alam sekitar.[^9]
+1. **At-Tarbiyah (التَّرْبِيَةُ):** Berakar dari kata *rabba-yarbu* (bertambah, berkembang) dan *rabba-yarubbu* (mengasuh, memelihara). Tarbiyah menekankan proses pemeliharaan, pengasuhan kasih sayang, dan pendampingan bertahap (*at-tadrij*) terhadap potensi fisik, mental, dan emosional santri agar tidak menyimpang dari fitrah penciptaannya.[^7]
+2. **At-Ta'līm (التَّعْلِيمُ):** Berfokus pada transmisi pengetahuan, pemahaman konsep, pelurusan nalar berpikir, serta pembekalan keterampilan keilmuan yang membebaskan manusia dari kegelapan kebodohan (*jahl*).[^8]
+3. **At-Ta'dīb (التَّأْدِيبُ):** Dimahkotai oleh pemikiran Prof. Dr. Syed Muhammad Naquib Al-Attas sebagai konsep paling paripurna bagi pendidikan Islam. Ta'dib adalah proses penanaman adab ke dalam jiwa manusia. Adab didefinisikan sebagai pengenalan dan pengakuan yang tepat terhadap posisi hakiki segala sesuatu dalam tatanan wujud ciptaan Allah: mengakui keagungan Allah sebagai Khaliq, menghormati para Nabi dan ulama, memperlakukan sesama santri dengan adil dan kasih sayang, serta menjaga kelestarian alam sekitar.[^9]
 
 TUMBUH memadukan ketiganya secara organis: **Tarbiyah adalah tanah pengasuhannya, Ta'lim adalah air pengetahuannya, dan Ta'dib adalah buah keutamaan akhlak yang dipetik darinya.**[^10]
 
