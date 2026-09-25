@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Pemahaman Sosial?
+## 1. Apa itu Pemahaman Sosial?
 
 **Pemahaman Sosial (*Social Understanding*) adalah kemampuan mata hati dan pikiran seseorang untuk membaca apa yang sedang terjadi dalam pergaulan: mampu merasakan apa yang dialami orang lain (*empati*), memahami dinamika hubungan antarkawan, serta peka terhadap norma dan suasana lingkungan sekitarnya.**
 

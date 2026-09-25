@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Regulasi Diri?
+## 1. Apa itu Regulasi Diri?
 
 **Regulasi Diri (*Self-Regulation*) adalah kemampuan seseorang untuk mengatur, mengendalikan, dan mengarahkan dirinya sendiri.**
 

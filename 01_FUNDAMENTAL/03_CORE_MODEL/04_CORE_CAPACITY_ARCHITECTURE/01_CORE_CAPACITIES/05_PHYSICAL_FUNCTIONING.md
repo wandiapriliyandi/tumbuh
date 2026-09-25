@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Keberfungsian Fisik?
+## 1. Apa itu Keberfungsian Fisik?
 
 **Keberfungsian Fisik (*Physical Functioning*) adalah kemampuan seseorang untuk menggunakan daya gerak, koordinasi motorik, dan ketahanan tubuhnya dalam menuntaskan aktivitas kehidupan sehari-hari secara mandiri dan berdaya guna.**
 

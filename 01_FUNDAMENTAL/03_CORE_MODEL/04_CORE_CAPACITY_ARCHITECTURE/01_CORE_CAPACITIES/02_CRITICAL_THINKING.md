@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Berpikir Kritis?
+## 1. Apa itu Berpikir Kritis?
 
 **Berpikir Kritis (*Critical Thinking*) adalah kemampuan untuk memeriksa kebenaran suatu kabar, alasan, dan bukti secara tenang dan objektif sebelum mempercayai, menyimpulkan, atau bertindak.**
 

@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Kerja Sama?
+## 1. Apa itu Kerja Sama?
 
 **Kerja Sama (*Collaboration*) adalah kemampuan seseorang untuk menyatukan langkah, tenaga, dan pikirannya bersama orang lain demi mencapai tujuan kebaikan bersama.**
 

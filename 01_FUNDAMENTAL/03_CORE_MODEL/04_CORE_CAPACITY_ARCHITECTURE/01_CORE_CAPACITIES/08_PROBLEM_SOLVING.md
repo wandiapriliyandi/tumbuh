@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Pemecahan Masalah?
+## 1. Apa itu Pemecahan Masalah?
 
 **Pemecahan Masalah (*Problem Solving*) adalah kemampuan seseorang untuk mengatasi kesulitan nyata: mengenali apa yang sebenarnya sedang macet, mencari beberapa jalan keluar, memilih langkah terbaik, dan berani memperbaiki cara kerja ketika rencana awal menemui jalan buntu.**
 

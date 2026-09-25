@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Komunikasi?
+## 1. Apa itu Komunikasi?
 
 **Komunikasi (*Communication*) adalah kemampuan untuk bertukar pikiran dan perasaan secara utuh: mampu merangkai pesan dengan jelas, menyampaikannya dengan adab, mendengarkan orang lain dengan sungguh-sungguh, serta memahami maksud pembicara tanpa salah paham.**
 

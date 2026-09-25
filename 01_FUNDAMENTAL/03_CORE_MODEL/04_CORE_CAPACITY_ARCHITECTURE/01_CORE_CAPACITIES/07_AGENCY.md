@@ -5,7 +5,7 @@
 
 ---
 
-## 1. Maksud Sederhana: Apa itu Kemandirian Berinisiatif?
+## 1. Apa itu Kemandirian Berinisiatif?
 
 **Kemandirian Berinisiatif (*Agency*) adalah kapasitas batin seseorang untuk mengambil langkah secara sengaja, menentukan arah tindakannya sendiri, dan berani memulai kebaikan tanpa harus selalu disuruh atau diseret oleh orang lain.**
 
