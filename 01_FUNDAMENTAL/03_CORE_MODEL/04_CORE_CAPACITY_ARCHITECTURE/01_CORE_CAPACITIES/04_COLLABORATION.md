@@ -1,276 +1,208 @@
-# Core Capacity 04 — Collaboration
+# Core Capacity 04 — Kerja Sama dan Sinergi (Collaboration)
 
-## Status
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-**Collaboration adalah kemampuan bekerja bersama orang lain untuk mencapai tujuan bersama.**
-
-Tetapi “bekerja bersama” bukan sekadar berada dalam satu kelompok. Yang penting adalah **memberi kontribusi, menyelaraskan tindakan, dan menyesuaikan tindakan bersama ketika keadaan berubah.**
-
-**Contoh:** dalam proyek kelompok, seseorang mengerjakan bagiannya, menyesuaikan jadwal dengan anggota lain, lalu mengubah pembagian kerja ketika salah satu anggota mengalami kendala.
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL / STATUS EMPIRIS SEMENTARA  
+**Layer:** `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_CORE_CAPACITIES`
 
 ---
 
-## Definisi
+## 1. Maksud Sederhana: Apa itu Kerja Sama?
 
-> **Collaboration adalah kapasitas untuk berkontribusi, berkoordinasi, dan menyesuaikan tindakan bersama dalam proses mencapai tujuan bersama.**
+**Kerja Sama (*Collaboration*) adalah kemampuan seseorang untuk menyatukan langkah, tenaga, dan pikirannya bersama orang lain demi mencapai tujuan kebaikan bersama.**
 
-Collaboration berfokus pada **joint action**. Jadi yang diperhatikan bukan hanya hubungan antarorang, tetapi kemampuan seseorang untuk ikut membangun dan mempertahankan tindakan bersama menuju tujuan yang disepakati atau sedang dikerjakan bersama.
-
----
-
-## Construct Identity
-
-Ruang utama Collaboration adalah **tindakan bersama dan kontribusi individu di dalamnya**.
-
-Collaboration muncul ketika seseorang tidak hanya bertindak sendiri, tetapi perlu menghubungkan tindakannya dengan tindakan orang lain. Karena itu, tiga hal penting adalah:
-
-- memberi kontribusi yang relevan;
-- menyelaraskan tindakan dengan anggota lain;
-- dan menyesuaikan cara bekerja bersama ketika keadaan berubah.
-
-Berada di kelompok, memiliki hubungan baik, atau memimpin kelompok tidak dengan sendirinya menunjukkan Collaboration.
-
----
-
-## Functional Object
-
-**Joint action dan kontribusi menuju tujuan bersama.**
-
-Joint action dapat terjadi dalam belajar, bekerja, menyelesaikan tugas, mengelola kegiatan, atau aktivitas lain yang membutuhkan kontribusi beberapa pihak.
-
-Tujuan bersama tidak harus berarti semua orang memiliki kepentingan yang identik dalam segala hal. Yang penting terdapat aktivitas atau hasil yang perlu dibangun melalui tindakan yang saling terhubung.
-
----
-
-## Functional Dimensions
-
-Collaboration saat ini diuraikan melalui tiga fungsi utama:
-
-### 1. Contribution — berkontribusi
-
-Memberikan bagian, usaha, keputusan, atau sumber daya yang relevan terhadap tujuan bersama.
-
-### 2. Coordination — berkoordinasi
-
-Menyelaraskan peran, waktu, tindakan, informasi, atau sumber daya dengan anggota lain agar tindakan bersama dapat berjalan.
-
-### 3. Joint Adjustment — menyesuaikan bersama
-
-Mengubah cara bekerja atau pengaturan tindakan ketika kondisi, kebutuhan, peran, atau tujuan operasional kelompok berubah.
-
-> **Ketiganya adalah functional dimensions dari satu capacity, bukan tiga capacity yang terpisah.**
-
-Ketiga fungsi tersebut tidak harus berlangsung sebagai urutan kaku. Dalam tindakan bersama, kontribusi dan koordinasi dapat berlangsung bersamaan, lalu memicu penyesuaian ketika kondisi berubah.
-
----
-
-## Yang Sebenarnya Diobservasi
-
-Collaboration tidak dapat diamati secara langsung sebagai capacity. Yang dapat diamati adalah **manifestasi functioning individu dalam konteks joint action**.
-
-Pertanyaan kuncinya:
-
-> **“Apakah orang ini mampu ikut membangun tindakan bersama, bukan hanya hadir dalam kelompok?”**
-
-Karena itu, hasil kelompok harus dibedakan dari functioning masing-masing individu.
-
-> **Kelompok berhasil ≠ otomatis semua anggotanya memiliki Collaboration yang sama.**
-
-> **Kelompok gagal ≠ otomatis setiap anggotanya tidak mampu berkolaborasi.**
-
----
-
-## Observable Manifestations
-
-Manifestasi yang secara konseptual relevan dapat berupa pola seperti:
-
-- memberikan kontribusi yang relevan terhadap pekerjaan bersama;
-- memahami bagian atau peran yang perlu dijalankan dalam joint action;
-- menyelaraskan tindakan dengan anggota lain;
-- menyesuaikan waktu, peran, atau cara kerja ketika dibutuhkan;
-- membantu menjaga kesinambungan tindakan bersama ketika kondisi berubah;
-- dan mengubah pendekatan bersama ketika pengaturan sebelumnya tidak lagi memadai.
-
-Manifestasi tersebut perlu dibaca sebagai functioning dalam konteks tertentu, bukan sebagai sifat tetap seseorang di semua kelompok.
-
----
-
-## Bukan Ini
-
-Collaboration **bukan**:
-
-- sekadar kerja kelompok;
-- sekadar hadir dalam kelompok;
-- sekadar mengikuti instruksi;
-- sekadar ramah atau disukai;
-- otomatis berarti leadership;
-- sekadar mampu berkomunikasi;
-- atau keberhasilan kelompok semata.
-
-Seseorang dapat memimpin tanpa selalu menunjukkan seluruh fungsi Collaboration. Sebaliknya, seseorang dapat berkontribusi dan melakukan koordinasi penting tanpa menjadi pemimpin formal.
-
-> **Leadership ≠ Collaboration.**
-
----
-
-## Boundary terhadap Capacity Lain
-
-Collaboration dapat bekerja bersama capacity lain, tetapi tidak identik dengan mereka:
-
-- **Collaboration:** menyelaraskan tindakan bersama.
-- **Communication:** membentuk, menyampaikan, menerima, dan memaknai pesan.
-- **Social Understanding:** memahami perspektif, relasi, dan konteks sosial.
-- **Agency:** memulai dan mengarahkan tindakan diri.
-- **Self-Regulation:** mengatur functioning dan tindakan diri.
-- **Problem Solving:** menangani kesenjangan antara kondisi yang ada dan kondisi yang dituju.
-
-Contohnya, seseorang dapat menggunakan Communication untuk koordinasi, Social Understanding untuk memahami anggota lain, Self-Regulation untuk mengelola dirinya, dan Agency untuk mengambil inisiatif. Semua dapat hadir dalam satu aktivitas tanpa menjadi satu construct.
-
----
-
-## Boundary terhadap Process, Resource, dan Norm
-
-### Bukan Growth Mechanism
-
-Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation menjelaskan proses yang dapat memungkinkan perubahan capacity. Collaboration adalah salah satu capacity yang dapat mengalami perubahan melalui proses tersebut.
-
-Kerja kelompok dapat menjadi pengalaman yang memicu growth, tetapi **Collaboration bukan nama lain dari Growth Mechanism**.
-
-### Bukan Resource
-
-Struktur tugas, pembagian peran, waktu, alat, teknologi, informasi, kompetensi domain, dan dukungan dapat membantu atau menghambat functioning Collaboration. Semua itu bukan capacity itu sendiri.
-
-### Bukan Normative Construct
-
-Adab, akhlak, aqidah, nilai, dan Muwashofat dapat memberi arah tentang bagaimana seseorang seharusnya memperlakukan orang lain atau menjalankan tujuan bersama. Namun arah normatif tersebut bukan identitas Collaboration.
-
-> **Mampu berkolaborasi ≠ otomatis berperilaku sesuai semua norma yang diharapkan.**
-
----
-
-## Konteks Penting
-
-Manifestasi Collaboration dapat berubah menurut:
-
-- komposisi kelompok;
-- budaya dan bahasa;
-- peran dan pembagian tanggung jawab;
-- posisi atau power;
-- struktur tugas;
-- kejelasan tujuan;
-- accessibility;
-- lingkungan;
-- sumber daya;
-- serta dukungan yang tersedia.
-
-Karena itu, functioning individu tidak boleh dibaca tanpa memperhatikan ecology tempat joint action berlangsung.
-
-> **Kesulitan dalam satu kelompok ≠ otomatis Collaboration rendah secara umum.**
-
-Construct identity dimaksudkan cukup stabil, sementara manifestation dapat berubah menurut konteks.
-
----
-
-## Evidence Territory
-
-Evidence yang relevan dapat mempertimbangkan pola functioning seperti:
-
-- memberi kontribusi;
-- menyelaraskan tindakan dengan anggota lain;
-- menjalankan atau menyesuaikan peran dalam joint action;
-- melakukan koordinasi terhadap waktu, tindakan, atau sumber daya;
-- melakukan penyesuaian bersama ketika kondisi berubah;
-- dan tetap berfungsi ketika pengaturan kelompok mengalami perubahan.
-
-Hubungan antara manifestation, evidence, dan inference perlu dijaga:
+Ini **bukan sekadar berada di dalam satu kelompok**, dan bukan sekadar namanya tercantum di lembar tugas. Intinya adalah **kontribusi nyata (*memberi bagian*)**, **penyelarasan langkah (*koordinasi*)**, dan **kesediaan saling menopang (*penyesuaian bersama*)** ketika ada kawan yang mengalami kesulitan atau situasi mendadak berubah.
 
 ```text
-MANIFESTATION
-      ↓
-EVIDENCE
-      ↓
-INFERENCE
-      ↓
-CAPACITY CLAIM
+CONTOH NYATA DI ASRAMA:
+Menjelang penilaian kebersihan asrama hari Jumat, satu kamar berisi 10 santri 
+harus membersihkan kamar tidur, kamar mandi, dan lorong depan.
+
+Santri yang memiliki kerja sama baik tidak diam berpangku tangan menunggu diperintah 
+ketua kamar. Ia mengambil sapu, membagi tugas dengan kawan di sebelahnya ("Aku sapu 
+bagian dalam, antum bagian teras luar ya"), dan ketika melihat kawan yang bertugas 
+menguras bak mandi kelelahan, ia spontan membantu membawakan ember air.
+
+Fokus kita bukan sekadar kamarnya menjadi bersih, melainkan pada kapasitas kerjasamanya: 
+ia memberi kontribusi nyata, menyelaraskan peran, dan peka menopang beban tim.
 ```
-
-Assessment perlu memisahkan **functioning individu** dari **outcome kelompok**. Satu kerja kelompok tidak otomatis mewakili keseluruhan Collaboration.
-
-Detail instrumen, rubric, scoring, cut-off, dan assessment procedure berada di domain **Assessment**.
 
 ---
 
-## Hubungan dengan Growth Mechanism
+## 2. Definisi Resmi
 
-Growth Mechanism menjelaskan proses yang dapat memungkinkan capacity berubah:
+> **Kerja Sama adalah kapasitas fungsional untuk berkontribusi (*contribute*), berkoordinasi (*coordinate*), dan menyesuaikan tindakan bersama (*jointly adjust*) dalam proses mewujudkan tujuan kebajikan yang disepakati.**
+
+Definisi ini menempatkan Kerja Sama pada **tindakan bersama (*joint action*)**. Fokusnya bukan sekadar perasaan cocok atau pertemanan akrab, melainkan kemampuan santri untuk **menjaga ritme kerja tim agar tetap produktif dan beradab**.
+
+---
+
+## 3. Hakikat Inti Kemampuan (*Construct Identity*)
+
+Ruang lingkup utama Kerja Sama adalah **kemampuan menghubungkan tindakan pribadi dengan tindakan orang lain**.
+
+Yang menjadi perhatian pokok sistem TUMBUH adalah kemampuan santri untuk:
+- menyumbangkan tenaga, ide, atau keahlian terbaiknya demi keberhasilan kelompok;
+- menyelaraskan waktu, pembagian tugas, dan alur komunikasi dengan anggota tim;
+- menahan ego pribadi agar tidak memaksakan kehendak yang merugikan tim; serta
+- sigap mengubah cara kerja tim ketika ada hambatan tak terduga tanpa saling menyalahkan.
+
+---
+
+## 4. Objek Kerja Fungsional (*Functional Object*)
+
+**Objek kerja dari kapasitas ini adalah: tindakan bersama (*joint action*) menuju sasaran kelompok.**
+
+Tindakan bersama ini dapat berwujud piket kebersihan kamar, kerja bakti lingkungan pesantren, proyek belajar kelompok, kepanitiaan lomba muharram, atau organisasi santri. Acara atau kelompok hanyalah wadah; yang diamati adalah **bagaimana santri berinteraksi dan menggerakkan tindakan bersama di dalamnya**.
+
+---
+
+## 5. Tiga Dimensi Fungsional Utama
+
+Kerja Sama tersusun dari tiga pilar fungsional yang bergerak dinamis:
 
 ```text
-Experience → Engagement → Practice
-          → Feedback ↔ Reflection
-          → Adaptation
-          → Capacity Change?
+       1. KONTRIBUSI NYATA (Contribution)
+       "Apa peran dan bagian yang bisa kusumbangkan untuk tim ini?"
+                     ↓
+       2. PENYELARASAN PERAN (Coordination)
+       "Bagaimana pembagian tugasnya? Kapan tenggat waktunya? Siapa mengerjakan apa?"
+                     ↓
+       3. PENYESUAIAN BERSAMA (Joint Adjustment / Takaful)
+       "Rencana awal terhambat/ada kawan sakit. Bagaimana kita saling menopang?"
 ```
 
-Collaboration adalah **salah satu objek capacity** yang dapat mengalami perubahan melalui proses tersebut.
+### 5.1 Contribution (Memberikan Bagian Nyata)
+Kemampuan menjalankan tanggung jawab yang dibebankan kepada dirinya secara tuntas, bukan melempar pekerjaan kepada kawan lain (*free-riding*).
 
-Pengalaman joint action, praktik koordinasi, feedback dari anggota lain, dan reflection dapat menjadi bagian dari proses pertumbuhan. Namun komponen Growth Mechanism tidak menjadi bagian dari definisi Collaboration hanya karena terlibat dalam pertumbuhannya.
+### 5.2 Coordination (Menyelaraskan Langkah)
+Kemampuan berkomunikasi secara aktif, berbagi informasi secara jujur, menyepakati jadwal kerja, dan menghargai peran anggota kelompok lainnya.
 
----
-
-## Batas terhadap Progression dan Assessment
-
-**Progression** nantinya menjelaskan bagaimana functioning Collaboration dapat berubah sepanjang perkembangan, pengalaman, dan tuntutan.
-
-**Assessment** mencari evidence yang cukup untuk inference tertentu tentang functioning atau capacity.
-
-Milestone bukan tahap umur universal. Tingkat kesulitan joint action juga dipengaruhi oleh komposisi kelompok, tugas, dan dukungan.
-
-Assessment perlu memastikan bahwa kontribusi dan functioning individu dapat dibedakan dari kemampuan atau hasil kelompok secara keseluruhan.
+### 5.3 Joint Adjustment (Saling Menopang dan Menyesuaikan Strategi)
+Kemampuan bersikap fleksibel ketika kondisi tidak berjalan sesuai rencana; bersedia membantu tugas kawan yang sedang kesulitan demi menyelamatkan tujuan bersama.
 
 ---
 
-## Batas terhadap Intervention
+## 6. Apa yang Sebenarnya Diamati di Lapangan?
 
-Jika seseorang mengalami kesulitan dalam kerja bersama, jangan langsung menyimpulkan bahwa capacity-nya rendah.
+Pertanyaan kunci bagi para pembina dan musyrif adalah:
 
-Kesulitan dapat berasal dari:
+> **“Apakah santri ini ikut membangun keberhasilan tim, ataukah ia hanya menjadi beban, penonton pasif, atau diktator yang suka memerintah?”**
 
-- struktur kelompok;
-- pembagian peran;
-- aturan atau tuntutan tugas;
-- hubungan antaranggota;
-- lingkungan;
-- accessibility;
-- sumber daya;
-- atau dukungan yang tersedia.
+Perlu dicatat prinsip evaluasi penting:
 
-Intervention dapat diarahkan pada individu, hubungan, struktur tugas, lingkungan, dukungan, atau kombinasi beberapa unsur. Dokumen ini tidak menetapkan resep intervention.
+> **Kelompok berhasil ≠ Otomatis semua anggotanya pandai bekerja sama.**  
+> *(Bisa jadi tugas diselesaikan oleh 1 santri rajin, sementara yang lain hanya menumpang nama).*
+
+> **Kelompok gagal ≠ Otomatis semua anggotanya tidak bisa bekerja sama.**  
+> *(Bisa jadi mereka sudah bekerja sama sangat solid, namun terhambat keterbatasan waktu atau sarana).*
 
 ---
 
-## Hubungan dengan TUMBUH
+## 7. Bukti Nyata yang Bisa Diamati di Keseharian
 
-Collaboration mendukung functioning sosial dan pencapaian tujuan bersama. Ia dapat menjadi salah satu capacity yang membantu seseorang hidup dan bekerja bersama orang lain.
-
-Namun Collaboration **tidak identik dengan adab, akhlak, aqidah, atau Muwashofat tertentu**. Capacity perlu tetap dibedakan dari arah normatif yang menentukan bagaimana kemampuan tersebut seharusnya digunakan.
-
----
-
-## Validation Status
-
-Spesifikasi ini adalah **keputusan arsitektural-konseptual TUMBUH** untuk tahap v2.0.0.
-
-Status empiris tetap **provisional**. Dokumen ini bukan bukti validasi psikometrik, universalitas lintas konteks, hubungan kausal, atau efektivitas intervensi.
+Pola-pola tindakan santri yang menunjukkan kematangan Kerja Sama antara lain:
+- hadir tepat waktu pada saat jadwal piket atau rapat kelompok dimulai;
+- mengerjakan tugas bagiannya dengan sungguh-sungguh tanpa harus ditagih berulang kali;
+- mendengarkan gagasan kawan kelompok dan tidak meremehkan usulan yang berbeda;
+- menawarkan bantuan secara tulus saat melihat kawan sekelompok kewalahan;
+- tidak mengklaim kesuksesan tim sebagai hasil kerja pribadi semata; serta
+- menyelesaikan perselisihan internal kelompok secara musyawarah dan kekeluargaan.
 
 ---
 
-## Source Trail
+## 8. Apa yang BUKAN Kerja Sama? (Batas Pengaman)
 
-Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
+Agar tidak terjebak pada penilaian luaran semata, perhatikan batas pengaman berikut:
+
+| Kerja Sama SEJATI | BUKAN Kerja Sama (Salah Kaprah) |
+|---|---|
+| Mengerjakan tugas bersama dengan **adil dan proporsional**. | **Penumpang gelap (*free-rider*)**: hanya titip nama di lembar tugas. |
+| Memimpin dengan **keteladanan dan melayani**. | Sikap **bos (*bossy*)**: hanya menyuruh-nyuruh tanpa mau kotor. |
+| Membangun **sinergi kebaikan dan taqwa**. | **Kongkalikong (*komplotan*)**: bekerja sama untuk menyontek/melanggar aturan. |
+| Saling menopang dan menghargai peran yang berbeda. | Menuntut semua anggota harus mengerjakan hal yang sama persis. |
+| Menerima keputusan musyawarah dengan lapang dada. | Merajuk dan mogok bekerja ketika pendapatnya tidak diterima. |
 
 ---
 
-## Architectural Audit Result
+## 9. Batasan terhadap Kapasitas Lain
 
-**PASS — construct memiliki identitas yang cukup jelas sebagai capacity untuk berkontribusi, berkoordinasi, dan melakukan penyesuaian dalam joint action, dengan boundary terhadap Communication, Social Understanding, Agency, Self-Regulation, Problem Solving, Growth Mechanism, resource, norm, context, dan group outcome yang dapat ditelusuri.**
+Kerja Sama berkaitan erat dengan kapasitas lain, namun memiliki batas fungsi yang tegas:
+- **Kerja Sama (*Collaboration*)**: Mengkoordinasikan tindakan bersama demi sasaran kelompok.
+- **Komunikasi (*Communication*)**: Mengemas dan menyampaikan pesan secara jelas dan santun.
+- **Pemahaman Sosial (*Social Understanding*)**: Menyelami perasaan, situasi batin, dan relasi antarkawan.
+- **Regulasi Diri (*Self-Regulation*)**: Menahan ego dan rasa malas pribadi demi komitmen tim.
+
+---
+
+## 10. Pengaruh Konteks Lapangan
+
+Tampilan kerja sama santri sangat dipengaruhi oleh struktur lingkungan:
+- **Kejelasan Pembagian Peran**: Kelompok yang tidak diberi instruksi peran yang jelas (*siapa mengerjakan apa*) cenderung ricuh atau pasif.
+- **Dinamika Senioritas**: Di asrama, keberadaan senior yang mendominasi dapat mematikan partisipasi santri junior (*feodalisme kelompok*).
+- **Kecocokan Karakter**: Perbedaan temperamen antaranggota membutuhkan waktu adaptasi lebih lama.
+
+Prinsip TUMBUH menegaskan:
+
+> **Santri yang tampak canggung dalam kelompok yang dominan didikte senior ≠ Otomatis ia tidak memiliki kapasitas kerja sama.**
+
+---
+
+## 11. Wilayah Bukti dan Penarikan Kesimpulan (Evidence Territory)
+
+Dalam menilai kerja sama santri, pembina dilarang membuat vonis instan:
+
+```text
+1. PERILAKU NYATA (Manifestation)
+   "Kelompok mading bahasa Arab kamar Umar tidak berhasil mengumpulkan karyanya tepat waktu."
+                 ↓
+2. FAKTA LAPANGAN (Evidence)
+   "Setelah diperiksa, naskah artikel Umar sudah selesai sejak dua hari lalu, namun anggota yang bertugas menggambar kaligrafi mendadak dirawat di klinik karena demam berdarah."
+                 ↓
+3. PENALARAN CERDAS (Inference)
+   "Keterlambatan ini disebabkan oleh keadaan darurat medis anggota tim, bukan karena Umar dan timnya malas berkoordinasi."
+                 ↓
+4. BATASAN KLAIM (Capacity Claim)
+   "Kapasitas kerja sama dan tanggung jawab Umar terbukti baik; tim hanya membutuhkan perpanjangan waktu yang wajar dan redistribusi tugas kaligrafi."
+```
+
+---
+
+## 12. Hubungan dengan Nilai Islam: Ta'awun dan Ukhuwah
+
+Al-Qur'an secara tegas memerintahkan umat Islam untuk tolong-menolong dalam kebaikan dan melarang kongkalikong dalam kemaksiatan:
+
+> وَتَعَاوَنُوا۟ عَلَى ٱلْبِرِّ وَٱلتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا۟ عَلَى ٱلْإِثْمِ وَٱلْعُدْوَٰنِ
+> 
+> *“Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan.”* (QS. Al-Ma'idah [5]: 2)
+
+Rasulullah ﷺ menggambarkan persatuan kaum mukmin dalam bekerja sama laksana satu bangunan kokoh dan satu tubuh yang saling merasakan:
+
+> الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ يَشُدُّ بَعْضُهُ بَعْضًا
+> 
+> *“Seorang mukmin dengan mukmin lainnya bagaikan satu bangunan yang bagian-bagiannya saling mengokohkan satu sama lain.”* (HR. Al-Bukhari dan Muslim)
+
+---
+
+## 13. Sikap terhadap Konflik Tim (Batas Pendidik)
+
+Jika terjadi perselisihan atau saling lempar tanggung jawab di antara anggota tim santri:
+1. **Duduk Bersama Secara Setara**: Pembina mengumpulkan anggota kelompok tanpa memihak dan meminta masing-masing mengutarakan kendala yang dihadapi secara terbuka.
+2. **Fokus pada Solusi, Bukan Menyalahkan**: Alihkan percakapan dari *"siapa yang salah"* menjadi *"apa yang bisa kita lakukan bersama sekarang untuk menyelesaikan tugas ini"*.
+3. **Didik Budaya Memaafkan dan Apresiasi**: Bimbing santri untuk saling memaafkan kekhilafan dan mengapresiasi sekecil apa pun kontribusi yang telah diberikan oleh kawan.
+
+---
+
+## 14. Ringkasan Karakteristik Kerja Sama
+
+> **Kerja Sama adalah pilar kekuatan jamaah: memampukan santri menundukkan keangkuhan ego demi kemaslahatan tim, saling melengkapi kelebihan dan kekurangan, serta bergotong royong dalam kebaikan demi menggapai ridha Allah.**
+
+---
+
+## 15. Status Validasi dan Batas Dokumen
+
+### Status
+**FINAL CONCEPTUAL SPECIFICATION TUMBUH v2.0.0.**  
+Ketetapan konseptual-arsitektural resmi; status pengujian empiris lapangan bersifat *provisional*.
+
+### Boundary
+- Dokumen ini mendefinisikan **konstruk kapasitas kerja sama**.
+- Tidak berisi struktur bagan organisasi santri atau tata tertib kepanitiaan teknis (hal tersebut berada di domain *03_OPERATIONAL*).

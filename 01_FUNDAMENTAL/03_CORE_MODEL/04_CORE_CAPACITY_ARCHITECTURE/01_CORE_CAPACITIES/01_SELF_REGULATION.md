@@ -1,266 +1,222 @@
-# Core Capacity 01 — Self-Regulation
+# Core Capacity 01 — Regulasi Diri (Self-Regulation)
 
-## Status
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-**Self-Regulation adalah kemampuan mengatur diri sendiri.**
-
-Bukan berarti selalu tenang, selalu patuh, atau tidak pernah salah. Intinya adalah kemampuan untuk **melihat bagaimana diri sedang berjalan, mengatur tindakan, lalu mengubah atau mengembalikan arah ketika diperlukan**.
-
-**Contoh:** seorang santri menyadari waktunya banyak habis untuk bermain gawai, lalu mengurangi penggunaannya dan kembali mengerjakan tugas. Yang penting bukan sekadar hasil akhirnya, tetapi functioning untuk mengenali keadaan, mengatur tindakan, dan melakukan penyesuaian.
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL / STATUS EMPIRIS SEMENTARA  
+**Layer:** `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_CORE_CAPACITIES`
 
 ---
 
-## Definisi
+## 1. Maksud Sederhana: Apa itu Regulasi Diri?
 
-> **Self-Regulation adalah kapasitas untuk memonitor dan mengatur functioning serta tindakan diri agar tetap atau kembali selaras dengan arah atau tujuan yang relevan.**
+**Regulasi Diri (*Self-Regulation*) adalah kemampuan seseorang untuk mengatur, mengendalikan, dan mengarahkan dirinya sendiri.**
 
-Definisi ini menempatkan Self-Regulation sebagai **capacity**, bukan sekadar kebiasaan, teknik, atau kepatuhan terhadap aturan.
-
----
-
-## Construct Identity
-
-Ruang utama Self-Regulation adalah **pengelolaan functioning dan tindakan diri sendiri**.
-
-Yang menjadi perhatian adalah kemampuan seseorang untuk:
-
-- mengenali bagaimana dirinya sedang berfungsi;
-- menyesuaikan respons atau tindakan;
-- mempertahankan arah ketika menghadapi gangguan;
-- dan kembali ke arah ketika terjadi penyimpangan atau perubahan kondisi.
-
-Self-Regulation dapat muncul dalam banyak domain kehidupan. Domain, tugas, atau program bukan bagian dari identitas konstruknya.
-
----
-
-## Functional Object
-
-**Functioning dan tindakan diri relatif terhadap arah atau tujuan yang relevan.**
-
-Artinya, fokusnya bukan menilai apakah seseorang “baik” atau “buruk”, melainkan memahami **bagaimana ia mengelola dirinya ketika sedang menjalankan sesuatu**.
-
----
-
-## Functional Dimensions
-
-Self-Regulation saat ini diuraikan melalui tiga fungsi utama:
-
-### 1. Monitoring — melihat diri
-
-Menyadari keadaan, tindakan, atau kondisi diri yang sedang terjadi dan relevan dengan arah yang sedang dijalankan.
-
-### 2. Regulation — mengatur diri
-
-Mengubah atau mengendalikan respons dan tindakan agar sesuai dengan arah atau tujuan yang relevan.
-
-### 3. Reorientation — mengembalikan arah
-
-Ketika terjadi penyimpangan atau kondisi berubah, mampu melakukan penyesuaian dan kembali ke arah yang relevan.
-
-> **Ketiganya adalah functional dimensions dari satu capacity, bukan tiga capacity berbeda.**
-
----
-
-## Yang Sebenarnya Diobservasi
-
-Pertanyaan sederhananya:
-
-> **“Apakah orang ini mampu mengatur functioning dan tindakannya sendiri ketika menghadapi tuntutan, gangguan, perubahan, atau hambatan?”**
-
-Yang terlihat dalam dunia nyata adalah **manifestasi functioning**, bukan capacity sebagai objek yang dapat diamati secara langsung.
-
-Karena itu, pengamatan perlu dibaca sebagai evidence untuk inference, bukan sebagai identitas capacity itu sendiri.
-
----
-
-## Observable Manifestations
-
-Manifestasi yang secara konseptual relevan dapat berupa pola seperti:
-
-- mengenali keadaan atau pola tindakannya sendiri;
-- menyadari ketika tindakan mulai tidak sesuai arah;
-- melakukan penyesuaian terhadap respons atau tindakan;
-- mempertahankan tindakan yang relevan ketika menghadapi gangguan;
-- kembali ke arah setelah menyimpang;
-- menyesuaikan pengelolaan diri ketika tuntutan atau kondisi berubah.
-
-Satu manifestasi tidak otomatis mewakili keseluruhan Self-Regulation.
-
----
-
-## Bukan Ini
-
-Self-Regulation **bukan**:
-
-- sekadar patuh aturan;
-- sekadar mampu menahan emosi;
-- sekadar punya motivasi atau niat;
-- sekadar mendapat hasil yang baik;
-- trait kepribadian tetap;
-- atau ukuran baik-buruknya seseorang.
-
-Orang dapat patuh karena diawasi atau karena struktur lingkungan sangat ketat. Itu belum otomatis menunjukkan kemampuan mengatur diri sendiri pada kondisi yang lebih luas.
-
-Demikian pula, seseorang dapat mengalami kesulitan dalam satu kondisi tanpa berarti keseluruhan capacity tidak ada.
-
----
-
-## Boundary terhadap Capacity Lain
-
-Self-Regulation perlu dibedakan dari capacity lain:
-
-- **Self-Regulation:** mengatur functioning dan tindakan diri sendiri.
-- **Agency:** memulai dan mengarahkan tindakan secara sengaja.
-- **Critical Thinking:** memeriksa dan menilai informasi atau alasan.
-- **Problem Solving:** menangani kesenjangan antara kondisi sekarang dan kondisi yang dituju.
-
-Dalam satu kejadian beberapa capacity dapat bekerja bersama. Keterlibatan bersama tidak menghapus perbedaan construct identity.
-
----
-
-## Boundary terhadap Process, Resource, dan Norm
-
-Self-Regulation juga perlu dibedakan dari elemen lain dalam arsitektur TUMBUH.
-
-### Bukan Growth Mechanism
-
-Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation menjelaskan proses yang dapat memungkinkan perubahan. Self-Regulation adalah salah satu capacity yang dapat berkembang melalui proses tersebut.
-
-### Bukan Resource
-
-Strategi, checklist, pengetahuan, tools, atau support dapat membantu functioning Self-Regulation. Semua itu tidak otomatis menjadi Self-Regulation itu sendiri.
-
-### Bukan Normative Construct
-
-Arah normatif, nilai, adab, akhlak, Muwashofat, dan Graduate Profile dapat memberi arah atau tujuan yang relevan. Self-Regulation tidak identik dengan salah satu unsur normatif tersebut.
-
-> **Penting bagi pendidikan ≠ otomatis menjadi capacity yang sama dengan nilai atau norma tersebut.**
-
----
-
-## Konteks Penting
-
-Manifestasi Self-Regulation dapat berbeda karena:
-
-- task dan demand;
-- environment;
-- support;
-- aturan dan struktur;
-- relasi sosial;
-- teknologi dan tools;
-- kondisi fisik;
-- resources;
-- atau kesempatan untuk bertindak.
-
-Karena itu:
-
-> **Gagal dalam satu situasi ≠ otomatis Self-Regulation rendah secara umum.**
-
-Sebaliknya, functioning yang baik dalam satu kondisi yang sangat terstruktur juga belum otomatis membuktikan capacity yang stabil lintas konteks.
-
-Construct identity dimaksudkan cukup stabil, sementara manifestation dapat berubah menurut konteks.
-
----
-
-## Evidence Territory
-
-Evidence yang relevan dapat mempertimbangkan pola functioning seperti:
-
-- kemampuan mengenali keadaan diri;
-- kemampuan mengatur tindakan;
-- kemampuan mempertahankan arah;
-- kemampuan kembali ke arah setelah menyimpang;
-- dan kemampuan menyesuaikan pengelolaan diri ketika kondisi berubah.
-
-Evidence perlu dibedakan dari inference.
+Ini **bukan** berarti seseorang harus selalu tenang tanpa emosi, selalu patuh membabi buta, atau tidak pernah berbuat salah sama sekali. Inti dari kemampuan ini adalah:
+1. **Sadar Diri (*Monitoring*)**: Menyadari apa yang sedang ia rasakan, pikirkan, dan lakukan.
+2. **Atur Tindakan (*Regulation*)**: Mengendalikan dorongan sesaat agar tindakannya tetap sejalan dengan tujuan yang baik.
+3. **Kembalikan Arah (*Reorientation*)**: Mampu mengoreksi diri dan kembali ke jalan yang benar ketika sempat tergelincir atau situasi mendadak berubah.
 
 ```text
-MANIFESTATION
-      ↓
-EVIDENCE
-      ↓
-INFERENCE
-      ↓
-CAPACITY CLAIM
+CONTOH NYATA DI ASRAMA:
+Seorang santri menyadari bahwa dirinya sudah keasyikan mengobrol di lorong asrama 
+padahal waktu halaqah Al-Qur'an tinggal 10 menit lagi. 
+
+Ia tidak menunggu ditegur oleh musyrif; ia segera menghentikan obrolannya dengan santun, 
+mengambil mushaf, dan melangkahkan kaki menuju masjid.
+
+Fokus kita bukan semata-mata pada "ia tiba di masjid tepat waktu", melainkan pada 
+proses batinnya: ia mampu menyadari kondisinya, menghentikan distraksi, dan 
+menyesuaikan tindakannya sendiri secara sadar.
 ```
-
-Satu kejadian, satu observasi, atau satu penilaian tidak otomatis cukup untuk membuat klaim tentang keseluruhan capacity.
-
-Detail instrumen, rubrik, scoring, cut-off, dan assessment procedure berada di domain **Assessment**.
 
 ---
 
-## Hubungan dengan Growth Mechanism
+## 2. Definisi Resmi
 
-Growth Mechanism menjelaskan proses yang dapat memungkinkan capacity berubah:
+> **Regulasi Diri adalah kapasitas fungsional untuk memantau (*monitor*), mengendalikan (*regulate*), dan memulihkan (*reorient*) fungsi perilaku serta tindakan diri agar tetap atau kembali selaras dengan arah atau tujuan yang benar.**
+
+Definisi ini menempatkan Regulasi Diri sebagai **kapasitas fungsional (*capacity*)**, bukan sekadar trik manajemen waktu sesaat, bukan kepatuhan karena takut hukuman, dan bukan kepribadian bawaan lahir yang tidak bisa diubah.
+
+---
+
+## 3. Hakikat Inti Kemampuan (*Construct Identity*)
+
+Ruang lingkup utama dari Regulasi Diri adalah **pengelolaan cara kerja perilaku dan tindakan diri sendiri**.
+
+Yang menjadi perhatian pokok sistem TUMBUH adalah kemampuan seseorang untuk:
+- mengenali bagaimana kondisi tubuh, emosi, dan pikirannya sedang bekerja;
+- menyesuaikan respons atau tindakannya di hadapan godaan dan gangguan;
+- mempertahankan fokus ketika menghadapi rasa bosan atau lelah; dan
+- kembali ke arah yang benar ketika terjadi kekeliruan atau perubahan keadaan.
+
+Kemampuan ini berlaku lintas ruang: ia hadir di kelas saat menyimak pelajaran, di kamar saat menahan amarah, di masjid saat menjaga kekhusyukan shalat, dan di ruang privat saat sendirian memegang gawai.
+
+---
+
+## 4. Objek Kerja Fungsional (*Functional Object*)
+
+**Objek kerja dari kapasitas ini adalah: tindakan nyata diri sendiri yang dihubungkan dengan tujuan atau nilai yang hendak dicapai.**
+
+Artinya, sistem TUMBUH tidak menilai *"santri ini pada dasarnya anak nakal atau anak baik"*, melainkan mengamati secara objektif: **bagaimana cara ia mengelola dirinya ketika sedang menghadapi tugas, aturan, atau situasi sulit?**
+
+---
+
+## 5. Tiga Dimensi Fungsional Utama
+
+Regulasi Diri diuraikan ke dalam tiga fungsi batin yang bekerja secara terpadu:
 
 ```text
-Experience → Engagement → Practice
-          → Feedback ↔ Reflection
-          → Adaptation
-          → Capacity Change?
+       1. MELIHAT DIRI (Monitoring)
+       "Di mana posisiku sekarang? Apa yang sedang kulakukan?"
+                     ↓
+       2. MENGATUR DIRI (Regulation)
+       "Kendalikan dorongan! Arahkan tindakan ke tujuan yang benar."
+                     ↓
+       3. MEMULIHKAN ARAH (Reorientation)
+       "Aku sempat terdistraksi/keliru. Sekarang, bangkit dan perbaiki!"
 ```
 
-Self-Regulation adalah **salah satu objek capacity** yang dapat mengalami perubahan melalui proses tersebut.
+### 5.1 Monitoring (Melihat dan Memantau Diri)
+Kemampuan menyadari keadaan fisik, emosi, dan tindakan diri secara jujur (*self-awareness*).  
+*Contoh:* Santri menyadari napasnya memburu dan tangannya mengepal saat tersinggung oleh ejekan teman.
 
-Karena itu:
+### 5.2 Regulation (Mengatur dan Mengendalikan Respons)
+Kemampuan menahan dorongan impulsif dan memilih respons yang tepat (*self-control*).  
+*Contoh:* Santri tersebut memilih menarik napas dalam-dalam, menahan lisannya dari memaki, dan mengambil air wudhu untuk meredakan amarah.
 
-> **Self-Regulation ≠ Adaptation.**
+### 5.3 Reorientation (Memulihkan Arah Ketika Menyimpang)
+Kemampuan menyadari kekeliruan, menerima konsekuensi, dan segera kembali pada rencana awal (*self-correction*).  
+*Contoh:* Santri yang sempat tertidur saat jam belajar malam segera bangkit, mencuci muka, dan melanjutkan menyelesaikan tugas yang tertunda tanpa berlarut-larut dalam rasa bersalah.
 
-Adaptation adalah komponen dalam Growth Mechanism; Self-Regulation adalah construct capacity.
-
----
-
-## Batas terhadap Progression dan Assessment
-
-**Progression** nantinya menjelaskan bagaimana functioning Self-Regulation dapat berubah sepanjang perkembangan.
-
-**Assessment** mencari evidence yang cukup untuk inference tertentu tentang functioning atau capacity.
-
-Milestone bukan aturan universal bahwa pada usia tertentu semua orang harus menunjukkan functioning yang sama. Skor juga bukan keseluruhan capacity.
+> **Catatan Arsitektural:** Ketiganya adalah dimensi kerja dari **satu kapasitas yang sama**, bukan tiga kapasitas yang terpisah-pisah.
 
 ---
 
-## Batas terhadap Intervention
+## 6. Apa yang Sebenarnya Diamati di Lapangan?
 
-Jika seseorang mengalami kesulitan dalam Self-Regulation, jangan langsung menyimpulkan bahwa “capacity-nya rendah”.
+Pertanyaan utama bagi para pembina, guru, dan musyrif asrama adalah:
 
-Kemungkinan yang perlu dibedakan dapat mencakup:
+> **“Apakah santri ini mampu mengatur tindakan dan emosinya sendiri ketika menghadapi kesulitan, godaan, atau perubahan aturan?”**
 
-- tuntutan tugas terlalu tinggi;
-- struktur lingkungan berubah;
-- support tidak sesuai;
-- resources terbatas;
-- kesempatan practice berbeda;
-- atau memang terdapat perubahan functioning yang perlu dipahami lebih lanjut.
+Perlu diingat: **kapasitas batin seseorang tidak bisa dilihat secara kasat mata dengan rontgen**. Yang dapat kita lihat di dunia nyata hanyalah **tampilan perilaku lahiriahnya (*manifestation*)**.
 
-Dokumen ini tidak menentukan intervention atau resep penanganannya.
+Oleh karena itu, satu perilaku yang tampak di permukaan harus ditafsirkan secara hati-hati, bukan dijadikan dasar vonis instan terhadap keseluruhan karakternya.
 
 ---
 
-## Hubungan dengan TUMBUH
+## 7. Bukti Nyata yang Bisa Diamati di Keseharian
 
-Self-Regulation dapat mendukung berbagai tujuan Graduate Profile dan Muwashofat. Namun hubungan tersebut bersifat **traceability**, bukan identitas.
-
-Self-Regulation tidak boleh diperlakukan sebagai nama lain dari satu nilai atau satu Muwashofat tertentu.
-
----
-
-## Validation Status
-
-Spesifikasi ini adalah **keputusan arsitektural-konseptual TUMBUH** untuk tahap v2.0.0.
-
-Status empiris tetap **provisional**. Dokumen ini bukan bukti validasi psikometrik, kausal, universal, atau efektivitas intervensi.
+Pola-pola tindakan santri yang menunjukkan berfungsinya Regulasi Diri antara lain:
+- mampu menyadari ketika tindakannya mulai menyimpang dari jadwal asrama;
+- mampu menghentikan aktivitas bermain ketika waktu ibadah atau belajar tiba;
+- mampu menolak ajakan kawan untuk melanggar tata tertib pondok;
+- tetap tenang dan tidak main hakim sendiri saat terjadi perselisihan;
+- berani mengakui kesalahan dan meminta maaf tanpa perlu dipaksa musyrif; serta
+- mampu mengatur kembali ritme belajarnya setelah masa liburan panjang.
 
 ---
 
-## Source Trail
+## 8. Apa yang BUKAN Regulasi Diri? (Batas Pengaman)
 
-Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
+Agar tidak salah kaprah, pembina asrama harus membedakan Regulasi Diri dari hal-hal berikut:
+
+| Regulasi Diri SEJATI | BUKAN Regulasi Diri (Salah Kaprah) |
+|---|---|
+| Mengatur diri dari **kesadaran nilai batin**. | Kepatuhan semu karena **takut dipukul / dihukum**. |
+| Mengelola dan mengarahkan emosi secara sehat. | Menindas emosi (*represif*) hingga menjadi trauma batin. |
+| Mampu bangkit kembali setelah berbuat salah. | Dituntut sempurna tanpa pernah boleh salah. |
+| Kapasitas yang bisa dilatih dan bertumbuh. | Watak bawaan lahir yang tidak bisa diubah (*bakat patuh*). |
+| Tetap menjaga adab saat berada di ruang privat. | Tertib hanya ketika ada ustadz berdiri di dekatnya. |
+
+Santri yang duduk hening di masjid hanya karena takut dicatat poin pelanggarannya oleh musyrif **belum tentu** memiliki regulasi diri yang matang; ia mungkin hanya sedang menunjukkan *kepatuhan situasional (*compliance*)*.
 
 ---
 
-## Architectural Audit Result
+## 9. Batasan terhadap Kapasitas Lain
 
-**PASS — construct memiliki identitas yang cukup jelas: memonitor, mengatur, dan mengembalikan arah functioning serta tindakan diri, dengan boundary yang dapat dibedakan dari process, resource, norm, domain, performance, dan capacity lain.**
+Regulasi Diri bekerja berdampingan dengan kapasitas inti lainnya, namun memiliki batas fungsi yang tegas:
+
+- **Regulasi Diri (*Self-Regulation*)**: Mengendalikan dan mengatur jalannya tindakan diri sendiri.
+- **Kemandirian Berinisiatif (*Agency*)**: Memulai dan memilih arah tujuan hidup atas kehendak sadar sendiri.
+- **Berpikir Kritis (*Critical Thinking*)**: Memeriksa, menimbang, dan menguji kebenaran suatu informasi atau alasan.
+- **Pemecahan Masalah (*Problem Solving*)**: Mengatasi hambatan dan mencari jalan keluar dari kebuntuan situasi.
+
+*Ilustrasi Kerja Sama:* Ketika menghadapi godaan kecanduan gawai, *Critical Thinking* menyadarkan santri bahaya radiasi dan hilangnya waktu; *Agency* membulatkan tekadnya untuk hidup sehat; dan *Self-Regulation* bertindak sebagai "rem tangan" yang mematikan layar gawai tepat pukul 21.00.
+
+---
+
+## 10. Pengaruh Konteks Lingkungan (Kenyataan Lapangan)
+
+Tampilan regulasi diri seorang santri sangat dipengaruhi oleh situasi di sekelilingnya:
+- **Kondisi Fisik**: Santri yang kurang tidur, kelaparan, atau sedang sakit akan jauh lebih sulit mengendalikan amarahnya dibanding santri yang bugar.
+- **Beban Tugas**: Tugas yang menumpuk di luar batas kesanggupan dapat memicu frustrasi dan merusak ketahanan diri.
+- **Iklim Kamar**: Kamar asrama yang bising, panas, dan penuh konflik antarsantri menyedot banyak energi mental, sehingga regulasi diri santri cepat terkuras (*ego depletion*).
+
+Oleh karena itu, prinsip utama TUMBUH menegaskan:
+
+> **Gagal mengatur diri dalam satu situasi sulit ≠ Santri tersebut otomatis memiliki Regulasi Diri yang rendah secara keseluruhan.**
+
+---
+
+## 11. Wilayah Bukti dan Penarikan Kesimpulan (Evidence Territory)
+
+Dalam mengevaluasi santri, pendidik dilarang menarik kesimpulan serampangan. Alur penalaran harus melewati empat jenjang yang ketat:
+
+```text
+1. PERILAKU NYATA (Manifestation)
+   "Ahmad terlambat masuk kelas 15 menit hari ini."
+                 ↓
+2. FAKTA LAPANGAN (Evidence)
+   "Setelah diperiksa, Ahmad semalam bertugas merawat kawan sekamarnya yang muntah-muntah di UKS."
+                 ↓
+3. PENALARAN CERDAS (Inference)
+   "Ahmad terlambat karena kelelahan setelah menjalankan tugas khidmah, bukan karena sengaja membolos."
+                 ↓
+4. BATASAN KLAIM (Capacity Claim)
+   "Kemampuan regulasi diri Ahmad tidak bermasalah; ia hanya membutuhkan istirahat dan penyesuaian jadwal."
+```
+
+Satu peristiwa tunggal tidak pernah cukup untuk memberi cap bahwa seorang anak memiliki "karakter buruk" atau "regulasi diri lemah".
+
+---
+
+## 12. Hubungan dengan Mekanisme Pertumbuhan (Growth Mechanism)
+
+Regulasi Diri berkembang melalui siklus pengalaman nyata:
+1. **Pengalaman Nyata (*Experience*)**: Menghadapi aturan asrama dan jadwal harian.
+2. **Keterlibatan (*Engagement*)**: Merasakan sendiri tantangan bangun pagi dan menata barang.
+3. **Latihan Berulang (*Practice*)**: Mencoba dan membiasakan diri setiap hari.
+4. **Umpan Balik & Refleksi (*Feedback & Muhasabah*)**: Menyadari di mana kekurangannya setelah dievaluasi pembina atau bermuhasabah sebelum tidur.
+5. **Adaptasi (*Adaptation*)**: Mengubah strategi, misalnya tidur lebih awal agar tidak kesiangan.
+
+Regulasi diri bukanlah sesuatu yang langsung jadi (*instan*), melainkan otot rohani yang semakin kuat bila dilatih terus-menerus dalam lingkungan yang suportif.
+
+---
+
+## 13. Sikap terhadap Pelanggaran (Batas Intervensi)
+
+Ketika seorang santri berulang kali melanggar aturan (misalnya sering terlambat shalat atau kamarnya berantakan), pembina tidak boleh langsung menyalahkan santri dengan vonis *"anak ini memang bebal"*.
+
+Pembina wajib memeriksa rantai penyebabnya:
+- Apakah anak ini sedang mengalami masalah keluarga di rumah?
+- Apakah ia menjadi korban perundungan (*bullying*) kawan sekamarnya sehingga enggan masuk asrama?
+- Apakah ia memiliki kesulitan pemusatan perhatian yang membutuhkan bantuan medis/konseling?
+- Apakah sistem pengingat di asrama sudah berjalan dengan adil dan jelas?
+
+Pendekatan TUMBUH adalah **Disiplin Positif dan Pemulihan (Restoratif)**, bukan mempermalukan anak di depan umum atau menjatuhkan hukuman fisik yang merusak fitrah.
+
+---
+
+## 14. Ringkasan Karakteristik Regulasi Diri
+
+> **Regulasi Diri adalah organ pengendali batin santri: memampukannya melihat kondisi diri dengan jujur, mengendalikan dorongan nafsu dan amarah demi ketaatan kepada Allah, serta cepat bangkit memulihkan diri setiap kali melakukan kekhilafan.**
+
+---
+
+## 15. Status Validasi dan Batas Dokumen
+
+### Status
+**FINAL CONCEPTUAL SPECIFICATION TUMBUH v2.0.0.**  
+Ketetapan konseptual-arsitektural resmi; status pengujian empiris lapangan bersifat *provisional* (terbuka terhadap penyempurnaan riset).
+
+### Boundary
+- Dokumen ini mendefinisikan **konstruk kapasitas**.
+- Tidak berisi rubrik penilaian angka, kunci skor, atau SOP sanksi pelanggaran (hal tersebut menjadi domain *05_ASSESSMENT* dan *03_OPERATIONAL*).

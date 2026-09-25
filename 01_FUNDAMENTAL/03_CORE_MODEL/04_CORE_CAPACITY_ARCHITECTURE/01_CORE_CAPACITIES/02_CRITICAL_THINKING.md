@@ -1,284 +1,206 @@
-# Core Capacity 02 — Critical Thinking
+# Core Capacity 02 — Berpikir Kritis (Critical Thinking)
 
-## Status
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-**Critical Thinking adalah kemampuan memeriksa informasi dan alasan sebelum membentuk atau mempertanggungjawabkan judgment.**
-
-Bukan berarti suka membantah. Bukan pula berarti selalu meragukan semua hal. Intinya adalah tidak menerima klaim begitu saja ketika masih ada alasan yang perlu diperiksa.
-
-**Contoh:** seorang santri mendapat informasi bahwa suatu cara "pasti berhasil". Ia tidak langsung menerima atau menolak. Ia memeriksa apa klaimnya, alasan dan bukti yang tersedia, apakah informasinya cukup dan relevan, lalu membentuk judgment yang sesuai dengan keterbatasan informasi tersebut.
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL / STATUS EMPIRIS SEMENTARA  
+**Layer:** `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_CORE_CAPACITIES`
 
 ---
 
-## Definisi
+## 1. Maksud Sederhana: Apa itu Berpikir Kritis?
 
-> **Critical Thinking adalah kapasitas untuk memeriksa, menganalisis, mengevaluasi, menginferensikan, dan menjelaskan informasi atau alasan secara reflektif untuk membentuk atau mempertanggungjawabkan judgment yang relevan dengan apa yang diyakini atau dilakukan.**
+**Berpikir Kritis (*Critical Thinking*) adalah kemampuan untuk memeriksa kebenaran suatu kabar, alasan, dan bukti secara tenang dan objektif sebelum mempercayai, menyimpulkan, atau bertindak.**
 
-Definisi ini menempatkan Critical Thinking sebagai **capacity**, bukan sekadar pengetahuan, kebiasaan skeptis, teknik akademik, atau hasil jawaban.
-
----
-
-## Construct Identity
-
-Ruang utama Critical Thinking adalah **perlakuan reflektif terhadap informasi, klaim, alasan, dan judgment**.
-
-Yang menjadi perhatian adalah kemampuan seseorang untuk:
-
-- memeriksa informasi dan klaim;
-- mengurai alasan atau hubungan yang relevan;
-- menilai kualitas, relevansi, kecukupan, dan konsistensi informasi atau alasan;
-- membentuk inference atau judgment berdasarkan apa yang tersedia;
-- dan menjelaskan atau mempertanggungjawabkan dasar judgment tersebut.
-
-Pengetahuan domain dapat membantu proses ini, tetapi **pengetahuan bukan identitas Critical Thinking**.
-
----
-
-## Functional Object
-
-**Informasi, klaim, alasan, dan judgment yang relevan dengan apa yang diyakini atau dilakukan.**
-
-Artinya, Critical Thinking bekerja terhadap sesuatu yang perlu dipahami, diperiksa, dinilai, atau dijadikan dasar judgment. Media sosial, buku, percakapan, data, atau soal bukan capacity dan bukan dengan sendirinya Functional Object; semuanya dapat menjadi konteks atau sumber informasi yang diproses.
-
----
-
-## Functional Dimensions
-
-Critical Thinking saat ini diuraikan melalui empat fungsi utama:
-
-### 1. Examination / Analysis — memeriksa
-
-Memeriksa dan mengurai informasi, klaim, atau alasan agar bagian, asumsi, hubungan, dan persoalan yang relevan dapat dikenali.
-
-### 2. Evaluation — menilai
-
-Menilai kualitas, relevansi, kecukupan, konsistensi, atau kekuatan informasi dan alasan terhadap judgment yang hendak dibentuk.
-
-### 3. Inference / Judgment — menyimpulkan
-
-Membentuk kesimpulan atau judgment berdasarkan informasi dan alasan yang tersedia, sambil memperhatikan keterbatasan dan tingkat kepastian yang layak.
-
-### 4. Explanation / Justification — menjelaskan
-
-Menjelaskan atau memberikan alasan yang dapat dipertanggungjawabkan mengenai judgment atau kesimpulan yang dibentuk.
-
-> **Keempatnya adalah functional dimensions dari satu capacity, bukan empat capacity yang terpisah.**
-
-Fungsi-fungsi tersebut juga tidak harus menjadi urutan kaku. Dalam praktiknya seseorang dapat kembali memeriksa informasi setelah mengevaluasi atau membentuk judgment ketika muncul informasi baru.
-
----
-
-## Yang Sebenarnya Diobservasi
-
-Capacity tidak terlihat secara langsung. Yang dapat diamati adalah **manifestasi functioning** dalam konteks tertentu.
-
-Pertanyaan sederhananya:
-
-> **“Apakah orang ini mampu memperlakukan informasi dan alasan secara reflektif, membentuk judgment berdasarkan apa yang tersedia, serta menjelaskan dasar judgment tersebut?”**
-
-Karena itu, observasi atau hasil tugas harus diperlakukan sebagai **evidence untuk inference**, bukan sebagai identitas capacity itu sendiri.
-
----
-
-## Observable Manifestations
-
-Manifestasi yang secara konseptual relevan dapat berupa pola seperti:
-
-- mengenali klaim atau pertanyaan yang perlu diperiksa;
-- membedakan informasi, alasan, asumsi, dan kesimpulan;
-- mencari atau menggunakan informasi yang relevan;
-- membandingkan alasan atau sumber yang berbeda;
-- mengenali ketika bukti belum cukup;
-- menarik kesimpulan yang sesuai dengan informasi yang tersedia;
-- menjelaskan mengapa suatu judgment dibuat;
-- menyesuaikan judgment ketika informasi penting berubah.
-
-Satu jawaban benar atau satu tindakan skeptis tidak otomatis mewakili keseluruhan Critical Thinking.
-
----
-
-## Bukan Ini
-
-Critical Thinking **bukan**:
-
-- sekadar memiliki banyak pengetahuan;
-- kecerdasan umum;
-- prestasi akademik;
-- kemampuan menjawab soal dengan benar;
-- suka membantah atau selalu skeptis;
-- kefasihan berbicara;
-- kemampuan komunikasi;
-- atau nilai moral seseorang.
-
-Seseorang dapat memperoleh jawaban benar karena hafalan, tebakan, atau petunjuk. Sebaliknya, seseorang dapat membuat judgment yang masuk akal tetapi hasil akhirnya salah karena informasi yang tersedia memang terbatas.
-
-Karena itu:
-
-> **Outcome yang benar ≠ otomatis reasoning yang baik.**
-
----
-
-## Boundary terhadap Capacity Lain
-
-Critical Thinking perlu dibedakan dari capacity lain:
-
-- **Critical Thinking:** memeriksa informasi dan alasan serta membentuk judgment.
-- **Problem Solving:** menangani kesenjangan antara kondisi yang ada dan kondisi yang dituju.
-- **Self-Regulation:** mengatur functioning dan tindakan diri.
-- **Agency:** memulai dan mengarahkan tindakan secara sengaja.
-- **Communication:** membentuk, menyampaikan, menerima, dan memaknai pesan.
-- **Social Understanding:** memahami perspektif, relasi, dan konteks sosial.
-
-Dalam satu kejadian beberapa capacity dapat bekerja bersama. Misalnya, seseorang dapat menggunakan Critical Thinking untuk menilai alasan dalam sebuah konflik, Communication untuk menyampaikan judgment, dan Self-Regulation untuk mengelola responsnya. Keterlibatan bersama tidak membuat construct tersebut menjadi satu capacity.
-
----
-
-## Boundary terhadap Process, Resource, dan Norm
-
-### Bukan Growth Mechanism
-
-Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation menjelaskan proses yang dapat memungkinkan perubahan capacity. Critical Thinking adalah salah satu capacity yang dapat mengalami perubahan melalui proses tersebut.
-
-> **Critical Thinking ≠ Reflection.**
-
-Reflection dapat berperan dalam Growth Mechanism; ia bukan nama lain dari Critical Thinking.
-
-### Bukan Resource
-
-Pengetahuan, strategi reasoning, bahasa, tools, data, akses informasi, atau dukungan dapat membantu Critical Thinking. Semua itu tidak otomatis menjadi capacity itu sendiri.
-
-### Bukan Normative Construct
-
-Nilai, aqidah, adab, akhlak, Muwashofat, dan Graduate Profile dapat memberi arah normatif bagi apa yang perlu diyakini atau dilakukan. Critical Thinking tidak identik dengan salah satu unsur tersebut.
-
-> **Penting bagi pendidikan ≠ otomatis menjadi Core Capacity yang sama.**
-
----
-
-## Konteks Penting
-
-Manifestasi Critical Thinking dapat berubah menurut:
-
-- pengetahuan domain;
-- bahasa dan kemampuan memahami informasi;
-- kualitas serta ketersediaan evidence;
-- tuntutan tugas;
-- medium dan teknologi;
-- waktu yang tersedia;
-- dukungan dan scaffolding;
-- budaya dan konteks sosial;
-- serta kesempatan untuk memeriksa dan merevisi judgment.
-
-Karena itu:
-
-> **Gagal menjawab satu soal ≠ otomatis Critical Thinking rendah secara umum.**
-
-Sebaliknya, keberhasilan pada tugas yang sangat familiar atau sangat terstruktur juga belum otomatis membuktikan functioning yang sama pada konteks lain.
-
-Construct identity dimaksudkan cukup stabil, sementara manifestation dapat berubah menurut konteks.
-
----
-
-## Evidence Territory
-
-Evidence yang relevan dapat mempertimbangkan pola functioning seperti:
-
-- pemeriksaan terhadap klaim dan informasi;
-- kualitas analisis terhadap alasan;
-- penggunaan informasi yang relevan;
-- kualitas evaluasi terhadap bukti atau alasan;
-- kesesuaian inference dengan informasi yang tersedia;
-- kemampuan menjelaskan dasar judgment;
-- dan kemampuan memperbarui judgment ketika evidence berubah.
-
-Hubungan antara manifestation, evidence, dan inference perlu dijaga:
+Ini **bukan** berarti menjadi orang yang suka mendebat (*ngeyel*), suka menyangkal nasihat guru, atau meragukan segala hal tanpa dasar. Intinya adalah **tidak mudah menelan informasi mentah-mentah (*tabayyun*)** ketika bukti yang ada belum cukup kuat.
 
 ```text
-MANIFESTATION
-      ↓
-EVIDENCE
-      ↓
-INFERENCE
-      ↓
-CAPACITY CLAIM
+CONTOH NYATA DI ASRAMA:
+Beredar kabar burung di lorong kamar bahwa "Ujian pekan depan dibatalkan karena 
+ada acara pondok mendadak." Sebagian santri langsung bersorak dan menutup buku.
+
+Namun seorang santri yang berpikir kritis tidak langsung percaya. Ia bertanya:
+"Siapa yang pertama kali menyampaikan kabar ini? Apakah ada pengumuman resmi 
+tertulis dari bagian pengajaran?" 
+
+Ketika ia tahu kabar itu hanya berasal dari obrolan santri lain yang salah dengar, 
+ia tetap tenang melanjutkan belajarnya dan mengingatkan kawan sekamarnya agar 
+tidak termakan kabar bohong (hoaks).
+
+Fokus kita bukan sekadar ia "rajin belajar", melainkan pada proses nalarnya: 
+ia mampu memeriksa sumber kabar, menimbang bukti, dan menolak kesimpulan tergesa-gesa.
 ```
-
-Satu item, satu jawaban, atau satu observasi tidak otomatis cukup untuk membuat klaim tentang keseluruhan capacity.
-
-Detail instrumen, rubric, scoring, cut-off, dan assessment procedure berada di domain **Assessment**.
 
 ---
 
-## Hubungan dengan Growth Mechanism
+## 2. Definisi Resmi
 
-Growth Mechanism menjelaskan proses yang dapat memungkinkan capacity berubah:
+> **Berpikir Kritis adalah kapasitas fungsional untuk memeriksa, menganalisis, mengevaluasi bukti, menarik kesimpulan yang adil, dan mempertanggungjawabkan pertimbangan nalar (*judgment*) secara reflektif mengenai apa yang layak diyakini atau dilakukan.**
+
+Definisi ini menempatkan Berpikir Kritis sebagai **kapasitas bernalar (*capacity*)**, bukan sekadar banyaknya hafalan ensiklopedia, bukan kepandaian bersilat lidah, dan bukan sikap sinis terhadap lingkungan.
+
+---
+
+## 3. Hakikat Inti Kemampuan (*Construct Identity*)
+
+Ruang lingkup utama dari Berpikir Kritis adalah **perlakuan sadar dan teliti terhadap informasi, klaim, dalil, dan alasan**.
+
+Yang menjadi perhatian pokok sistem TUMBUH adalah kemampuan seseorang untuk:
+- membedakan antara fakta nyata dengan sekadar opini atau prasangka;
+- mengurai alasan di balik suatu pernyataan atau aturan;
+- menilai apakah bukti yang ada sudah cukup kuat, relevan, dan jujur;
+- menarik kesimpulan yang seimbang dan tidak terburu-buru; serta
+- mampu menjelaskan alasan logis di balik keputusannya dengan bahasa yang santun dan beradab.
+
+---
+
+## 4. Objek Kerja Fungsional (*Functional Object*)
+
+**Objek kerja dari kapasitas ini adalah: informasi, kabar, argumen, dan alasan yang menjadi dasar tindakan atau keyakinan.**
+
+Berpikir Kritis bekerja ketika santri membaca buku pelajaran, mendengar desas-desus di kamar, menerima pesan di media sosial, atau saat diajak mengambil keputusan kelompok. Media sosial, buku, atau soal ujian adalah bahan mentah; yang menjadi fokus kapasitas ini adalah **bagaimana akal santri mengolah bahan mentah tersebut secara jernih**.
+
+---
+
+## 5. Empat Dimensi Fungsional Utama
+
+Berpikir Kritis bekerja melalui empat fungsi akal budi yang berurutan secara lentur:
 
 ```text
-Experience → Engagement → Practice
-          → Feedback ↔ Reflection
-          → Adaptation
-          → Capacity Change?
+       1. MEMERIKSA (Analysis / Tabayyun)
+       "Apa sebenarnya pesan ini? Apa fakta dan asumsi di baliknya?"
+                     ↓
+       2. MENILAI BUKTI (Evaluation)
+       "Apakah buktinya sahih dan cukup? Dari mana sumber aslinya?"
+                     ↓
+       3. MENARIK KESIMPULAN (Inference / Judgment)
+       "Berdasarkan bukti yang ada, kesimpulan apa yang paling adil dan logis?"
+                     ↓
+       4. MENJELASKAN ALASAN (Explanation / Hujjah)
+       "Mengapa aku mengambil keputusan ini? Bagaimana penjelasannya?"
 ```
 
-Critical Thinking adalah **salah satu objek capacity** yang dapat mengalami perubahan melalui proses tersebut.
+### 5.1 Analysis (Memeriksa dan Mengurai Kabar)
+Kemampuan mengurai suatu masalah atau berita menjadi bagian-bagian yang jelas: mana data faktual, mana dugaan pribadi, dan mana motif tersembunyi.
 
-Beberapa komponen Growth Mechanism juga dapat digunakan ketika seseorang melakukan Critical Thinking, tetapi komponen tersebut tidak menjadi bagian dari definisi Critical Thinking hanya karena terlibat dalam prosesnya.
+### 5.2 Evaluation (Menimbang Kekuatan Bukti)
+Kemampuan menguji validitas sumber. Dalam tradisi Islam, ini setara dengan tradisi *takhrij* dan *jarh wa ta'dil*: apakah penyampai kabar dapat dipercaya, apakah informasinya logis, atau ada kontradiksi nyata?
 
----
+### 5.3 Inference (Menyimpulkan Secara Adil dan Proporsional)
+Kemampuan merumuskan kesimpulan sesuai kadar bukti yang tersedia. Jika bukti masih samar, ia berani berkata *"kita belum bisa memastikan"*, tanpa memaksa memvonis salah atau benar secara gegabah.
 
-## Batas terhadap Progression dan Assessment
-
-**Progression** nantinya menjelaskan bagaimana functioning Critical Thinking dapat berubah sepanjang perkembangan, pengalaman, dan tuntutan.
-
-**Assessment** mencari evidence yang cukup untuk inference tertentu tentang functioning atau capacity.
-
-Milestone bukan aturan universal bahwa pada usia tertentu semua orang harus menunjukkan bentuk functioning yang sama. Skor juga bukan keseluruhan capacity.
-
-Assessment terhadap Critical Thinking perlu memperhatikan apakah tugas benar-benar memberi kesempatan untuk menggunakan reasoning yang ingin diinferensikan, termasuk kecukupan informasi dan tuntutan domainnya.
+### 5.4 Explanation (Menjelaskan Alasan dengan Bijak)
+Kemampuan menyampaikan alur berpikirnya secara runtut dan bertanggung jawab, sehingga orang lain memahami mengapa keputusan tersebut diambil tanpa merasa diserang.
 
 ---
 
-## Batas terhadap Intervention
+## 6. Apa yang Sebenarnya Diamati di Lapangan?
 
-Jika seseorang mengalami kesulitan dalam tugas yang menuntut Critical Thinking, jangan langsung menyimpulkan bahwa “capacity-nya rendah”.
+Pertanyaan utama bagi para guru dan pembina asrama adalah:
 
-Kemungkinan yang perlu dibedakan dapat mencakup:
+> **“Apakah santri ini terbiasa menguji alasan dan bukti sebelum bertindak, ataukah ia mudah hanyut oleh omongan orang, kabar viral, dan prasangka?”**
 
-- pengetahuan domain belum memadai;
-- informasi yang tersedia tidak cukup;
-- bahasa atau format tugas menjadi hambatan;
-- tuntutan tugas terlalu tinggi;
-- waktu tidak memadai;
-- dukungan atau scaffolding berbeda;
-- atau memang terdapat pola functioning yang perlu dipahami lebih lanjut.
-
-Dokumen ini tidak menentukan intervention atau resep penanganannya.
+Yang tampak di permukaan hanyalah **tindakan lahiriah (*manifestation*)**, seperti cara ia bertanya di kelas, cara ia menanggapi fitnah di asrama, atau cara ia menyelesaikan soal pemecahan masalah.
 
 ---
 
-## Hubungan dengan TUMBUH
+## 7. Bukti Nyata yang Bisa Diamati di Keseharian
 
-Critical Thinking dapat mendukung proses belajar, pengambilan judgment, pemecahan masalah, dan kontribusi dalam kehidupan bersama. Namun hubungan tersebut harus dibaca sebagai **traceability**, bukan identitas.
-
-Critical Thinking dapat relevan dengan Graduate Profile dan Muwashofat tertentu tanpa menjadi nama lain dari nilai, aqidah, adab, atau Muwashofat tersebut.
-
----
-
-## Validation Status
-
-Spesifikasi ini adalah **keputusan arsitektural-konseptual TUMBUH** untuk tahap v2.0.0.
-
-Status empiris tetap **provisional**. Dokumen ini bukan bukti validasi psikometrik, universalitas lintas konteks, hubungan kausal, atau efektivitas intervensi.
+Pola-pola tindakan santri yang menunjukkan berfungsinya Berpikir Kritis antara lain:
+- tidak langsung membagikan (*share*) berita heboh di asrama sebelum memastikannya ke sumber resmi (*tabayyun*);
+- mampu mengajukan pertanyaan mendalam di kelas (misalnya: *"Ustadz, mengapa kaidah hukum ini berbeda penerapannya dalam kasus A dan B?"*);
+- mengenali cacat logika sederhana (seperti menyamaratakan kesalahan satu orang kepada seluruh kamar);
+- berani mengakui bahwa dirinya keliru ketika diperlihatkan bukti yang lebih kuat dan sahih; serta
+- mampu membedakan mana perkara pokok syariat (*ushul*) yang wajib ditaati dan mana perkara cabang (*furu'*) yang membuka ruang perbedaan pendapat.
 
 ---
 
-## Source Trail
+## 8. Apa yang BUKAN Berpikir Kritis? (Batas Pengaman)
 
-Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
+Agar tidak disalahartikan menjadi bibit pembangkangan atau kesombongan akal, perhatikan perbedaan tegas berikut:
+
+| Berpikir Kritis SEJATI | BUKAN Berpikir Kritis (Salah Kaprah) |
+|---|---|
+| Mencari **kebenaran dan kejelasan fakta**. | Mendebat demi **mempermalukan lawan bicara**. |
+| Bersikap objektif, adil, dan rendah hati (*tawadhu'*). | Merasa diri paling pintar dan meremehkan nasihat guru. |
+| Menerima dalil wahyu yang sahih dengan ketundukan (*taslim*). | Skeptisisme liar yang meragukan pokok-pokok akidah Islam. |
+| Memeriksa bukti sebelum membuat kesimpulan. | Curiga berlebihan dan gemar berprasangka buruk (*su'uzhan*). |
+| Menyampaikan argumen dengan bahasa yang santun dan adab. | Berbicara kasar, memotong ucapan kawan, dan sarkastis. |
 
 ---
 
-## Architectural Audit Result
+## 9. Batasan terhadap Kapasitas Lain
 
-**PASS — construct memiliki identitas yang cukup jelas: pemeriksaan, evaluasi, inference/judgment, dan explanation/justification terhadap informasi serta alasan, dengan boundary yang dapat dibedakan dari knowledge, performance, process, resource, norm, domain, dan capacity lain.**
+Berpikir Kritis memiliki batas wilayah kerja yang jelas dibanding kapasitas lainnya:
+- **Berpikir Kritis (*Critical Thinking*)**: Menimbang kebenaran argumen, menyaring hoaks, dan menguji bukti.
+- **Pemecahan Masalah (*Problem Solving*)**: Merancang langkah teknis mengatasi kesulitan nyata (misal: mencari jalan keluar saat air asrama mati).
+- **Komunikasi (*Communication*)**: Mengemas pesan agar tersampaikan dengan jelas, santun, dan menyentuh hati.
+- **Regulasi Diri (*Self-Regulation*)**: Menahan diri agar tidak emosi saat mendengarkan argumen yang berseberangan.
+
+---
+
+## 10. Pengaruh Konteks Lapangan
+
+Tampilan berpikir kritis santri sangat dipengaruhi oleh lingkungan sekitarnya:
+- **Kultur Kelas**: Jika guru mudah marah setiap kali ada santri yang bertanya kritis, santri akan memilih diam dan pasif (*fear of questioning*).
+- **Tekanan Sebaya (*Peer Pressure*)**: Di asrama, santri kerap ikut-ikutan tren kamar karena takut dikucilkan, meskipun tahu hal itu kurang baik.
+- **Waktu untuk Berpikir**: Kondisi terburu-buru atau kelelahan ekstrem membuat otak cenderung mengambil jalan pintas berpikir (*cognitive shortcuts*), sehingga mudah tertipu.
+
+Prinsip TUMBUH menegaskan:
+
+> **Santri yang salah menjawab dalam satu ujian teka-teki ≠ Otomatis ia tidak memiliki nalar kritis dalam kehidupan nyata.**
+
+---
+
+## 11. Wilayah Bukti dan Penarikan Kesimpulan (Evidence Territory)
+
+Dalam menilai nalar santri, pembina harus menerapkan alur penyelidikan yang objektif:
+
+```text
+1. PERILAKU NYATA (Manifestation)
+   "Faris menolak menandatangani surat protes bersama yang dibuat oleh kawan-kawan kamarnya."
+                 ↓
+2. FAKTA LAPANGAN (Evidence)
+   "Setelah diajak bicara, Faris menjelaskan bahwa isi surat tersebut memuat tuduhan yang belum terbukti kepada pengurus dapur."
+                 ↓
+3. PENALARAN CERDAS (Inference)
+   "Faris tidak menandatangani bukan karena ia pengecut atau anti-kebersamaan, melainkan karena ia menjunjung tinggi adab tabayyun dan keadilan."
+                 ↓
+4. BATASAN KLAIM (Capacity Claim)
+   "Faris menunjukkan kapasitas berpikir kritis dan integritas moral yang sangat tinggi di bawah tekanan sosial sebaya."
+```
+
+---
+
+## 12. Hubungan dengan Nilai Islam: Tabayyun, Tafakkur, dan Tadabbur
+
+Dalam khazanah Islam, Berpikir Kritis adalah bagian integral dari perintah agama:
+- **Tabayyun**: Memeriksa kebenaran kabar orang fasik (QS. Al-Hujurat: 6).
+- **Tafakkur**: Merenungkan keteraturan ciptaan Allah di alam semesta (QS. Ali 'Imran: 190–191).
+- **Tadabbur**: Menyelami kedalaman makna dan petunjuk Al-Qur'an (QS. An-Nisa: 82).
+
+Nalar kritis seorang santri Muslim tidak memisahkan akal dari wahyu, melainkan menjadikan wahyu sebagai cahaya pemandu agar akal tidak tersesat dalam keangkuhan logika semata.
+
+---
+
+## 13. Sikap terhadap Santri yang Kritis (Batas Pendidik)
+
+Guru dan musyrif tidak boleh mematikan daya kritis santri dengan stigma *"anak nakal pembangkang"*. Jika ada santri yang mempertanyakan aturan pondok:
+1. Dengarkan argumennya dengan lapang dada.
+2. Jelaskan hikmah dan alasan di balik aturan tersebut secara logis dan bersahabat.
+3. Bimbing santri tentang **adab bertanya**: bagaimana menyampaikan pandangan kritis dengan tutur kata santun, pada waktu yang tepat, dan tanpa merusak wibawa majelis.
+
+---
+
+## 14. Ringkasan Karakteristik Berpikir Kritis
+
+> **Berpikir Kritis adalah lentera akal santri: memampukannya membedakan kebenaran dari kepalsuan, menyaring kabar dengan tabayyun, menolak prasangka tergesa-gesa, dan mengambil keputusan hidup berlandaskan dalil yang sahih serta akal budi yang sehat.**
+
+---
+
+## 15. Status Validasi dan Batas Dokumen
+
+### Status
+**FINAL CONCEPTUAL SPECIFICATION TUMBUH v2.0.0.**  
+Ketetapan konseptual-arsitektural resmi; status pengujian empiris lapangan bersifat *provisional*.
+
+### Boundary
+- Dokumen ini mendefinisikan **konstruk kapasitas**.
+- Tidak berisi bank soal logika formal atau tes IQ baku (hal tersebut menjadi domain *05_ASSESSMENT*).

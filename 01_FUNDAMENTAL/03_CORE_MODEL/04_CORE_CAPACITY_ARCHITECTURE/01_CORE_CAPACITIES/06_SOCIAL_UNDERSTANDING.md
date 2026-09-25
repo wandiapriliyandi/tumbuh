@@ -1,279 +1,204 @@
-# Core Capacity 06 — Social Understanding
+# Core Capacity 06 — Pemahaman Sosial dan Empati (Social Understanding)
 
-## Status
-**FINAL CONCEPTUAL SPECIFICATION / PROVISIONAL EMPIRICAL STATUS**
-
-**Social Understanding adalah kemampuan memahami apa yang sedang terjadi dalam situasi sosial.**
-
-Bukan sekadar ramah atau pandai bergaul. Fokusnya adalah memahami **orang lain, hubungan antarorang, dan konteks sosial** yang memengaruhi situasi.
-
-**Contoh:** melihat dua teman berselisih. Kita mencoba memahami sudut pandang masing-masing, hubungan mereka, posisi/peran mereka, dan aturan atau konteks yang membuat konflik itu terjadi.
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL / STATUS EMPIRIS SEMENTARA  
+**Layer:** `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_CORE_CAPACITIES`
 
 ---
 
-## Definisi
+## 1. Maksud Sederhana: Apa itu Pemahaman Sosial?
 
-> **Social Understanding adalah kapasitas untuk memahami keadaan, perspektif, relasi, dan konteks sosial yang relevan bagi functioning dalam situasi sosial.**
+**Pemahaman Sosial (*Social Understanding*) adalah kemampuan mata hati dan pikiran seseorang untuk membaca apa yang sedang terjadi dalam pergaulan: mampu merasakan apa yang dialami orang lain (*empati*), memahami dinamika hubungan antarkawan, serta peka terhadap norma dan suasana lingkungan sekitarnya.**
 
-Capacity ini berfokus pada **understanding**, bukan otomatis pada tindakan yang kemudian dipilih. Seseorang dapat memahami situasi sosial dengan baik tetapi tetap memilih tindakan yang berbeda karena pertimbangan capacity, nilai, tujuan, atau kondisi lain.
-
----
-
-## Construct Identity
-
-Ruang utama Social Understanding adalah **pemaknaan terhadap keadaan sosial**.
-
-Yang menjadi perhatian adalah kemampuan memahami:
-
-- perspektif pihak lain;
-- hubungan dan pola relasi;
-- peran dan posisi dalam interaksi;
-- serta konteks sosial yang membuat suatu situasi memiliki makna tertentu.
-
-Informasi sosial sering tidak lengkap dan dapat memiliki lebih dari satu interpretasi. Karena itu, Social Understanding tidak berarti selalu mengetahui isi pikiran orang lain dengan benar.
-
-> **Interpretasi sosial ≠ kepastian tentang apa yang dipikirkan orang lain.**
-
----
-
-## Functional Object
-
-**Keadaan, perspektif, relasi, dan konteks sosial yang relevan bagi functioning.**
-
-Yang dipahami dapat mencakup orang lain sebagai pihak dalam interaksi, hubungan antarorang, peran yang sedang dijalankan, serta kondisi sosial yang membentuk situasi.
-
----
-
-## Functional Dimensions
-
-Social Understanding saat ini diuraikan melalui tiga fungsi utama:
-
-### 1. Perspective Interpretation — memahami perspektif
-
-Memahami posisi, pengalaman, kebutuhan, atau kemungkinan maksud pihak lain tanpa menganggap interpretasi tersebut pasti benar.
-
-### 2. Relational Interpretation — memahami relasi
-
-Memahami hubungan, peran, posisi, dan pola interaksi yang relevan dalam suatu situasi.
-
-### 3. Social-Context Interpretation — memahami konteks
-
-Memahami norma, budaya, struktur, dan kondisi sosial yang relevan bagi pemaknaan suatu situasi.
-
-> **Ketiganya adalah functional dimensions dari satu capacity, bukan tiga capacity yang terpisah.**
-
-Ketiga fungsi tersebut dapat bekerja bersamaan. Memahami perspektif seseorang sering membutuhkan pemahaman terhadap relasi dan konteks sosial tempat perspektif tersebut muncul.
-
----
-
-## Yang Sebenarnya Diobservasi
-
-Social Understanding tidak dapat diamati secara langsung sebagai capacity. Yang dapat diamati adalah **manifestasi functioning ketika seseorang menafsirkan situasi sosial tertentu**.
-
-Pertanyaan kuncinya:
-
-> **“Apakah orang ini mampu memahami situasi sosial, termasuk perspektif orang lain, hubungan yang ada, dan konteksnya?”**
-
-Karena interpretasi sosial tidak selalu dapat diverifikasi secara langsung, evidence perlu dibaca dengan memperhatikan informasi yang tersedia dan ambiguitas situasi.
-
----
-
-## Observable Manifestations
-
-Manifestasi yang secara konseptual relevan dapat berupa pola seperti:
-
-- mengenali pihak-pihak yang relevan dalam suatu situasi sosial;
-- mempertimbangkan perspektif atau pengalaman pihak lain;
-- mengenali peran dan hubungan antarorang;
-- memahami konteks sosial yang memengaruhi interaksi;
-- mempertimbangkan lebih dari satu kemungkinan interpretasi ketika situasi ambigu;
-- memperbaiki pemahaman ketika informasi baru muncul;
-- dan membedakan apa yang diketahui dari apa yang masih merupakan dugaan tentang pihak lain.
-
-Satu interpretasi yang benar tidak otomatis membuktikan keseluruhan capacity.
-
----
-
-## Bukan Ini
-
-Social Understanding **bukan**:
-
-- sekadar ramah atau sociable;
-- sekadar empathy sebagai label;
-- popularitas;
-- kepatuhan terhadap norma sosial;
-- kemampuan membaca satu ekspresi atau isyarat;
-- otomatis berarti berperilaku baik;
-- atau keberhasilan dalam satu kelompok.
-
-Memahami situasi sosial **tidak otomatis berarti memilih tindakan yang benar atau baik**.
-
-> **Understanding ≠ Action.**
-
----
-
-## Boundary terhadap Capacity Lain
-
-Social Understanding dapat bekerja bersama capacity lain, tetapi tidak identik dengan mereka:
-
-- **Social Understanding:** memahami perspektif, relasi, dan konteks sosial.
-- **Communication:** membentuk, menyampaikan, menerima, dan memaknai pesan.
-- **Collaboration:** menyelaraskan tindakan bersama.
-- **Self-Regulation:** mengatur functioning dan tindakan diri.
-- **Agency:** memulai dan mengarahkan tindakan.
-- **Critical Thinking:** memeriksa informasi dan alasan serta membentuk judgment.
-- **Problem Solving:** menangani kesenjangan antara kondisi yang ada dan kondisi yang dituju.
-
-Contohnya, seseorang dapat menggunakan Social Understanding untuk memahami mengapa seorang teman bertindak tertentu, Communication untuk meminta klarifikasi, Critical Thinking untuk menilai informasi yang tersedia, dan Self-Regulation untuk mengelola responsnya. Keterlibatan bersama tidak membuat construct tersebut menjadi satu capacity.
-
----
-
-## Boundary terhadap Process, Resource, dan Norm
-
-### Bukan Growth Mechanism
-
-Experience, Engagement, Practice, Feedback, Reflection, dan Adaptation menjelaskan proses yang dapat memungkinkan perubahan capacity. Social Understanding adalah salah satu capacity yang dapat mengalami perubahan melalui proses tersebut.
-
-Reflection tentang suatu interaksi dapat menjadi bagian dari Growth Mechanism, tetapi **Social Understanding bukan nama lain dari Reflection**.
-
-### Bukan Resource
-
-Pengetahuan tentang budaya, bahasa, pengalaman sosial, informasi kontekstual, dan dukungan dapat membantu interpretasi sosial. Semua itu bukan capacity itu sendiri.
-
-### Bukan Normative Construct
-
-Norma sosial, adab, akhlak, aqidah, nilai, dan Muwashofat dapat memberi arah tentang bagaimana seseorang seharusnya bertindak dalam kehidupan bersama. Namun norma tersebut bukan identitas Social Understanding.
-
-> **Memahami norma sosial ≠ otomatis mematuhinya.**
-
----
-
-## Konteks Penting
-
-Manifestasi Social Understanding dapat berubah menurut:
-
-- budaya;
-- bahasa;
-- hubungan antar pihak;
-- power atau posisi sosial;
-- familiarity dengan situasi atau orang;
-- informasi yang tersedia;
-- pengalaman sebelumnya;
-- serta kondisi dan lingkungan interaksi.
-
-Situasi sosial juga dapat bersifat ambigu, berubah cepat, dan memiliki informasi yang tidak lengkap.
-
-Karena itu:
-
-> **Salah memahami satu situasi ≠ otomatis Social Understanding rendah secara umum.**
-
-Construct identity dimaksudkan cukup stabil, sementara manifestation dapat berubah menurut konteks.
-
----
-
-## Evidence Territory
-
-Evidence yang relevan dapat mempertimbangkan pola functioning seperti:
-
-- memahami perspektif pihak lain;
-- mengenali hubungan dan peran;
-- membaca konteks sosial;
-- mempertimbangkan alternatif interpretasi ketika informasi ambigu;
-- memperbaiki interpretasi ketika informasi baru muncul;
-- serta membedakan evidence sosial dari asumsi tentang orang lain.
-
-Perilaku yang tampak “sosial”, popularitas, banyaknya teman, atau keberhasilan kelompok tidak otomatis membuktikan capacity ini.
-
-Hubungan antara manifestation, evidence, dan inference perlu dijaga:
+Ini **bukan sekadar kepribadian ekstrovert yang banyak bicara** atau mudah akrab dengan siapa saja. Intinya adalah **kepekaan rasa (*radar sosial*)**: tidak egois, mampu melihat suatu masalah dari kacamata orang lain (*perspektif kawan*), dan tahu bagaimana menempatkan diri secara beradab di tengah masyarakat yang majemuk.
 
 ```text
-MANIFESTATION
-      ↓
-EVIDENCE
-      ↓
-INFERENCE
-      ↓
-CAPACITY CLAIM
+CONTOH NYATA DI ASRAMA:
+Seorang santri sekamar tiba-tiba pulang ke asrama dengan wajah murung, 
+melempar tasnya ke ranjang, dan membanting pintu lemari.
+
+Santri yang pemahaman sosialnya tumpul akan langsung membentak tersulut emosi: 
+"Heh! Punya sopan santun nggak? Jangan banting pintu kamar dong!"
+
+Sebaliknya, santri yang memiliki pemahaman sosial matang mampu membaca situasi: 
+ia ingat bahwa tadi siang kawan tersebut dipanggil ke kantor pengasuhan karena 
+ibunya sakit keras di kampung. Ia tidak terpancing marah; ia mengambilkan segelas 
+air putih, duduk di sampingnya, dan bertanya dengan lembut: 
+"Akhi, antum baik-baik saja? Kalau butuh teman cerita atau bantuan, kabari ya."
+
+Fokus kita adalah pada kepekaan batinnya: ia tidak menilai perilaku luar semata, 
+melainkan mampu membaca beban emosional dan konteks yang melatari tindakan kawannya.
 ```
-
-Satu ekspresi, satu percakapan, atau satu konflik tidak otomatis mewakili keseluruhan Social Understanding.
-
-Detail instrumen, rubric, scoring, cut-off, dan assessment procedure berada di domain **Assessment**.
 
 ---
 
-## Hubungan dengan Growth Mechanism
+## 2. Definisi Resmi
 
-Growth Mechanism menjelaskan proses yang dapat memungkinkan capacity berubah:
+> **Pemahaman Sosial adalah kapasitas fungsional untuk menyelami dan memaknai keadaan batin, sudut pandang (*perspektif*), dinamika relasi, dan konteks sosial yang melatari interaksi manusia secara adil dan empatik.**
+
+Definisi ini berfokus pada **pemaknaan yang mendalam (*deep understanding*)**, bukan sekadar basa-basi sosial. Santri yang memiliki pemahaman sosial tinggi tidak cepat menghakimi (*judgmental*), melainkan berusaha mengurai mengapa seseorang bersikap demikian.
+
+---
+
+## 3. Hakikat Inti Kemampuan (*Construct Identity*)
+
+Ruang lingkup utama Pemahaman Sosial adalah **kepekaan membaca realitas sosial antarsesama manusia**.
+
+Yang menjadi perhatian pokok sistem TUMBUH adalah kemampuan santri untuk:
+- membayangkan bagaimana rasanya berada di posisi orang lain (*perspective-taking*);
+- membaca peta hubungan sosial di kamar atau kelas (siapa yang sedang berselisih, siapa yang merasa tersisih);
+- mengenali batasan norma, adat kesantunan, dan etika yang berlaku di lingkungannya; serta
+- tidak menganggap bahwa cara pandang dirinya sendiri adalah satu-satunya kebenaran mutlak dalam urusan muamalah.
+
+---
+
+## 4. Objek Kerja Fungsional (*Functional Object*)
+
+**Objek kerja dari kapasitas ini adalah: perasaan, sudut pandang pikiran, pola relasi, dan iklim sosial dalam pergaulan.**
+
+Situasi perselisihan kamar, candaan antarteman, pemilihan pengurus santri, hingga interaksi dengan masyarakat desa sekitar pondok adalah wadah sosial tempat kapasitas ini bekerja.
+
+---
+
+## 5. Tiga Dimensi Fungsional Utama
+
+Pemahaman Sosial digerakkan oleh tiga organ pemaknaan batin:
 
 ```text
-Experience → Engagement → Practice
-          → Feedback ↔ Reflection
-          → Adaptation
-          → Capacity Change?
+       1. MENYELAMI SUDUT PANDANG KAWAN (Perspective Interpretation)
+       "Bagaimana rasanya jika aku berada di posisinya? Apa yang sedang ia butuhkan?"
+                     ↓
+       2. MEMBACA HUBUNGAN SOSIAL (Relational Interpretation)
+       "Bagaimana relasi antarsantri di kamar ini? Siapa yang merasa tertekan atau tersisih?"
+                     ↓
+       3. MEMAHAMI IKLIM DAN NORMA (Social-Context Interpretation)
+       "Apa adat kesantunan di tempat ini? Kapan waktu tepat untuk bicara dan kapan harus diam?"
 ```
 
-Social Understanding adalah **salah satu objek capacity** yang dapat mengalami perubahan melalui proses tersebut.
+### 5.1 Perspective Interpretation (Menyelami Sudut Pandang Orang Lain)
+Kemampuan menangkap kondisi batin dan maksud kawan, tanpa merasa diri serba tahu isi hati orang lain secara mutlak.
 
-Pengalaman sosial, praktik berinteraksi, feedback, dan reflection dapat menjadi bagian dari proses pertumbuhan. Namun komponen Growth Mechanism tidak menjadi bagian dari definisi Social Understanding hanya karena terlibat dalam pertumbuhannya.
+### 5.2 Relational Interpretation (Membaca Dinamika Relasi)
+Kemampuan mengenali relasi kuasa (*power dynamics*), perbedaan peran (guru–santri, senior–junior, ketua–anggota), dan pola interaksi agar tidak terjadi kecanggungan atau kezaliman sosial.
 
----
-
-## Batas terhadap Progression dan Assessment
-
-**Progression** nantinya menjelaskan bagaimana functioning Social Understanding dapat berubah sepanjang perkembangan, pengalaman, dan kompleksitas situasi sosial.
-
-**Assessment** mencari evidence yang cukup untuk inference tertentu tentang functioning atau capacity.
-
-Assessment perlu membedakan **pemahaman terhadap situasi sosial** dari **tindakan yang kemudian dipilih**. Tindakan yang dianggap baik atau buruk tidak dengan sendirinya membuktikan kualitas Social Understanding.
-
-Milestone bukan tahap umur universal.
+### 5.3 Social-Context Interpretation (Memahami Norma dan Budaya)
+Kepekaan memahami tradisi lokal, sensitivitas budaya santri dari berbagai suku di Indonesia, dan aturan tidak tertulis yang menjaga kerukunan hidup bersama.
 
 ---
 
-## Batas terhadap Intervention
+## 6. Apa yang Sebenarnya Diamati di Lapangan?
 
-Jika seseorang mengalami kesulitan dalam situasi sosial, jangan langsung menyimpulkan bahwa capacity-nya rendah.
+Pertanyaan kunci bagi para pembina dan musyrif adalah:
 
-Kesulitan dapat berasal dari:
+> **“Apakah santri ini peka terhadap perasaan dan kebutuhan kawannya, ataukah ia egois dan acuh tak acuh (*tuna empati*)?”**
 
-- informasi yang tidak lengkap;
-- bahasa;
-- hubungan antar pihak;
-- struktur kelompok;
-- budaya;
-- lingkungan;
-- familiarity;
-- atau dukungan yang tersedia.
-
-Intervention dapat diarahkan pada capacity, konteks, informasi, relasi, lingkungan, dukungan, atau kombinasi beberapa unsur. Dokumen ini tidak menetapkan resep intervention.
+Tampilan pemahaman sosial tercermin pada hal-hal kecil: apakah ia mengecilkan suara saat kawan sekamarnya sedang tertidur lelap? Apakah ia peka ketika ada adik kelas yang menangis rindu keluarga?
 
 ---
 
-## Hubungan dengan TUMBUH
+## 7. Bukti Nyata yang Bisa Diamati di Keseharian
 
-Social Understanding mendukung kehidupan bersama dengan membantu seseorang memahami perspektif, relasi, dan konteks sosial yang dihadapinya.
-
-Namun Social Understanding **tidak identik dengan adab, akhlak, aqidah, atau Muwashofat tertentu**.
-
-Capacity menjelaskan kemampuan memahami situasi; arah normatif TUMBUH membantu menentukan bagaimana pemahaman tersebut seharusnya diterjemahkan ke dalam tindakan.
-
----
-
-## Validation Status
-
-Spesifikasi ini adalah **keputusan arsitektural-konseptual TUMBUH** untuk tahap v2.0.0.
-
-Status empiris tetap **provisional**. Dokumen ini bukan bukti validasi psikometrik, universalitas lintas konteks, hubungan kausal, atau efektivitas intervensi.
+Pola-pola tindakan santri yang menunjukkan kematangan Pemahaman Sosial antara lain:
+- tidak melontarkan lelucon atau candaan yang menyakiti fisik atau latar belakang keluarga kawan;
+- peka merangkul kawan sekamar yang pemalu atau sering menyendiri agar tidak merasa terkucilkan;
+- mampu menjadi penengah yang adil (*juru damai*) saat dua sahabatnya berselisih paham;
+- menghormati privasi dan barang milik kawan, tidak bersikap lancang menggeledah tanpa izin;
+- menyesuaikan volume suara dan tertawa saat berada di dekat mushola atau perpustakaan; serta
+- cepat meminta maaf ketika menyadari ucapannya telah menyinggung hati kawan.
 
 ---
 
-## Source Trail
+## 8. Apa yang BUKAN Pemahaman Sosial? (Batas Pengaman)
 
-Core Capacity Architecture dan rangkaian closure/boundary audit P0001–P0098 di `PROBE/III`.
+Agar tidak disalahartikan menjadi kebiasaan buruk, perhatikan batas pengaman berikut:
+
+| Pemahaman Sosial SEJATI | BUKAN Pemahaman Sosial (Salah Kaprah) |
+|---|---|
+| Peka terhadap **kebutuhan dan luka batin kawan**. | **Kepo dan suka menggunjing (*ghibah*)**: mengorek aib orang lain. |
+| Membaca situasi demi **menciptakan kedamaian (*ishlah*)**. | **Manipulatif (*cari muka*)**: memanfaatkan kelemahan kawan demi keuntungan diri. |
+| Berempati dengan **tetap memegang prinsip kebenaran**. | Menjadi **people pleaser**: berkompromi dengan maksiat agar disukai kawan. |
+| Memahami orang lain tanpa merasa paling tahu isi hati. | Sok tahu (*su'uzhan*) menuduh niat tersembunyi orang lain. |
 
 ---
 
-## Architectural Audit Result
+## 9. Batasan terhadap Kapasitas Lain
 
-**PASS — construct memiliki identitas yang cukup jelas sebagai capacity untuk memahami perspektif, relasi, dan konteks sosial, dengan boundary terhadap Communication, Collaboration, Self-Regulation, Agency, Critical Thinking, Problem Solving, action, norm, resource, dan context yang dapat ditelusuri.**
+Pemahaman Sosial bekerja beriringan dengan kapasitas lain:
+- **Pemahaman Sosial (*Social Understanding*)**: Membaca situasi batin dan peta sosial orang lain.
+- **Komunikasi (*Communication*)**: Memilih kata dan nada suara yang tepat untuk menyapa mereka.
+- **Kerja Sama (*Collaboration*)**: Mengatur pembagian tugas bersama berdasarkan kepekaan terhadap kondisi anggota.
+- **Regulasi Diri (*Self-Regulation*)**: Menahan diri agar tidak tersulut emosi saat kawan sedang sensitif.
+
+---
+
+## 10. Pengaruh Konteks Lapangan
+
+Tampilan pemahaman sosial santri sangat dipengaruhi oleh suasana asrama:
+- **Kultur Kamar yang Toksik**: Jika kamar asrama didominasi oleh budaya ejek-mengejek (*bullying*) yang dianggap hal biasa, empati santri perlahan akan tumpul karena desensitisasi.
+- **Keberagaman Daerah Asal**: Santri dari suku yang terbiasa bicara lugas bisa disalahartikan sebagai "kasar" oleh santri dari suku yang terbiasa bicara halus. Pembina harus menjembatani perbedaan budaya ini.
+
+Prinsip TUMBUH menegaskan:
+
+> **Santri yang pendiam bukan berarti tidak peduli; santri yang ceria belum tentu peka terhadap kesedihan kawannya.**
+
+---
+
+## 11. Wilayah Bukti dan Penarikan Kesimpulan (Evidence Territory)
+
+Dalam menilai empati santri, pembina dilarang membuat kesimpulan dangkal:
+
+```text
+1. PERILAKU NYATA (Manifestation)
+   "Rizky menolak ajakan kawan-kawannya untuk menertawakan sandal jepit sobek milik seorang santri baru."
+                 ↓
+2. FAKTA LAPANGAN (Evidence)
+   "Rizky diam-diam menemui pengurus kamar dan mengusulkan uang kas sisa dialokasikan untuk membelikan sandal baru bagi anak tersebut."
+                 ↓
+3. PENALARAN CERDAS (Inference)
+   "Rizky memiliki kecerdasan empati sosial yang luar biasa: ia tidak hanya menolak perundungan, melainkan bertindak melindungi kehormatan kawannya secara solutif."
+                 ↓
+4. BATASAN KLAIM (Capacity Claim)
+   "Kapasitas pemahaman sosial dan kepemimpinan moral Rizky sangat matang; ia layak dijadikan teladan qudwah di asrama."
+```
+
+---
+
+## 12. Hubungan dengan Nilai Islam: Ukhuwah dan Peka terhadap Mukmin
+
+Rasulullah ﷺ menegaskan bahwa kesempurnaan iman seseorang diukur dari sejauh mana ia mencintai dan peduli pada saudaranya:
+
+> لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ
+> 
+> *“Tidak sempurna iman salah seorang di antara kalian hingga ia mencintai untuk saudaranya apa yang ia cintai untuk dirinya sendiri.”* (HR. Al-Bukhari dan Muslim)
+
+Beliau juga melarang keras tindakan yang meremehkan atau menghina sesama muslim:
+
+> بِحَسْبِ امْرِئٍ مِنَ الشَّرِّ أَنْ يَحْقِرَ أَخَاهُ الْمُسْلِمَ
+> 
+> *“Cukuplah seseorang dianggap berbuat keburukan jika ia meremehkan saudaranya sesama muslim.”* (HR. Muslim)
+
+---
+
+## 13. Sikap terhadap Perundungan / Bullying (Batas Pendidik)
+
+Jika terjadi perundungan di lingkungan pesantren:
+1. **Nol Toleransi terhadap Pelecehan**: Pendidik harus tegas menghentikan ejekan fisik, pemalakan, atau pengucilan sosial tanpa membiarkannya sebagai "candaan anak-anak".
+2. **Edukasi Empati Restoratif**: Pelaku perundungan tidak hanya dihukum, melainkan diajak berdialog mendalam untuk menyadari betapa hancurnya perasaan korban akibat perbuatannya, serta membimbingnya untuk memulihkan hubungan (*ishlah*).
+3. **Lindungi Korban Tanpa Stigma**: Korban perundungan didampingi pemulihan mentalnya dan dijamin rasa aman hidupnya di asrama 24 jam.
+
+---
+
+## 14. Ringkasan Karakteristik Pemahaman Sosial
+
+> **Pemahaman Sosial adalah mata hati pergaulan santri: memampukannya membaca penderitaan sesama, menolak perundungan, merajut ukhuwah islamiyyah yang tulus, serta menebarkan kedamaian dan rahmat di lingkungan asrama.**
+
+---
+
+## 15. Status Validasi dan Batas Dokumen
+
+### Status
+**FINAL CONCEPTUAL SPECIFICATION TUMBUH v2.0.0.**  
+Ketetapan konseptual-arsitektural resmi; status pengujian empiris lapangan bersifat *provisional*.
+
+### Boundary
+- Dokumen ini mendefinisikan **konstruk kapasitas pemahaman sosial**.
+- Tidak berisi tes kepribadian psikometrik tunggal atau instrumen sosiometri (hal tersebut berada di domain *05_ASSESSMENT*).
