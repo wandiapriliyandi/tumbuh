@@ -47,7 +47,7 @@ Pilihan-pilihan yang diambil seorang santri di asrama selalu membawa akibat nyat
 - Mengambil barang teman tanpa izin merusak rasa aman dan ikatan ukhuwah sekamar;
 - Melalaikan amanah piket membebankan kerepotan pada orang lain.
 
-Setiap manusia diciptakan Allah untuk mengemban amanah besar sebagai hamba (*'abd*) dan wakil pemakmur bumi (*khalifah*). Maka kebebasan manusia adalah **kebebasan yang terikat amanah (*responsible agency*)**. Pendidikan Islam mendampingi seorang anak agar mampu mempergunakan kehendak memilihnya secara matang (*rusyd*), bijaksana, dan selaras dengan ridha Allah Subhanahu wa Ta'ala.
+Setiap manusia diciptakan Allah untuk mengemban amanah besar sebagai hamba (*'abd*) dan penegak kemakmuran serta kemaslahatan di bumi (*'imaratul ardh*). Maka kebebasan manusia adalah **kebebasan yang terikat amanah (*responsible agency*)**. Pendidikan Islam mendampingi seorang anak agar mampu mempergunakan kehendak memilihnya secara matang (*rusyd*), bijaksana, dan selaras dengan ridha Allah Subhanahu wa Ta'ala.
 
 ## Dua Pilar Sikap TUMBUH terhadap Manusia
 

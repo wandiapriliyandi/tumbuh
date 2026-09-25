@@ -2,7 +2,7 @@
 
 Perkembangan manusia adalah proses perubahan bermakna yang berlangsung sepanjang rentang kehidupan. Namun, tidak semua perubahan fisik atau pertambahan wawasan dapat secara otomatis disebut sebagai perkembangan manusia dalam makna yang hakiki.
 
-Seorang anak yang bertambah tinggi badannya mengalami perubahan biologis. Seorang santri yang bertambah jumlah hafalan bait nadzom atau ayatnya mengalami penambahan muatan kognitif. Namun, ekosistem pendidikan TUMBUH memandang lebih dalam dari sekadar perubahan lahiriah tersebut: **ke arah mana perubahan itu bergerak, kapasitas batin apa yang sedang mekar, dan apakah perubahan tersebut mengantarkan santri semakin dekat kepada kematangan fitrahnya sebagai hamba Allah dan khalifah di muka bumi?**
+Seorang anak yang bertambah tinggi badannya mengalami perubahan biologis. Seorang santri yang bertambah jumlah hafalan bait nadzom atau ayatnya mengalami penambahan muatan kognitif. Namun, ekosistem pendidikan TUMBUH memandang lebih dalam dari sekadar perubahan lahiriah tersebut: **ke arah mana perubahan itu bergerak, kapasitas batin apa yang sedang mekar, dan apakah perubahan tersebut mengantarkan santri semakin dekat kepada kematangan fitrahnya sebagai hamba Allah dan pengemban amanah pemakmur kehidupan di muka bumi?**
 
 Perkembangan sejati bukanlah sekadar bertambahnya usia kalender atau bertumpuknya catatan pengetahuan di kepala. Perkembangan mewujud dalam cara seseorang memahami hakikat keberadaannya, mengendalikan gejolak dorongan jiwanya, membangun relasi yang adil dan welas asih dengan sesama makhluk, serta mengambil keputusan yang dapat dipertanggungjawabkan di hadapan Khaliq.[^1]
 

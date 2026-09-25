@@ -20,7 +20,7 @@ Ulama besar Ibnu Taimiyyah menjelaskan bahwa ibadah memiliki arti yang sangat lu
 
 Artinya, belajar ilmu pengetahuan, menjaga kebersihan asrama, merawat kesehatan tubuh, menolong kawan sekamar yang kesulitan, dan bertutur kata santun adalah ibadah nyata ketika diniatkan dengan tulus karena Allah.
 
-Selain beribadah secara langsung kepada Allah, manusia juga diberi amanah sebagai khalifah untuk memakmurkan bumi (*'imaratul ardh*) dengan kebaikan dan keadilan (QS. Hud [11]: 61).[^3] 
+Selain beribadah secara langsung kepada Allah, manusia juga diberi amanah mulia untuk memakmurkan bumi (*'imaratul ardh*) dengan kebaikan dan keadilan (QS. Hud [11]: 61).[^3] 
 
 Karena itu, kemampuan seseorang tidak pernah berdiri sendiri. Selalu ada pertanyaan penting tentang arah penggunaannya:
 > **Apa yang mampu dilakukan seseorang?**  

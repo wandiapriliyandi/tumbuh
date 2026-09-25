@@ -16,7 +16,7 @@ Oleh karena itu, TUMBUH menolak keras rumus berpikir mekanistik yang dangkal, se
 
 Pendekatan demokrasi angka semacam itu keliru secara mendasar karena setiap saluran epistemik memiliki ranah kewenangan (*domain competence*) yang berbeda:
 
-- Jika pertanyaannya: **“Apakah manusia diciptakan untuk beribadah dan mengemban amanah kekhalifahan?”** — Maka wahyu adalah sumber tunggal yang berwenang menjawabnya secara mutlak. Angket survei opini publik tidak memiliki hak untuk merevisi tujuan penciptaan ini.
+- Jika pertanyaannya: **“Apakah manusia diciptakan untuk beribadah dan mengemban amanah memakmurkan bumi?”** — Maka wahyu adalah sumber tunggal yang berwenang menjawabnya secara mutlak. Angket survei opini publik tidak memiliki hak untuk merevisi tujuan penciptaan ini.
 - Jika pertanyaannya: **“Berapa persentase santri yang terlambat shalat shubuh dalam sebulan terakhir?”** — Maka kita tidak mencari jawabannya dengan berdebat teologis, melainkan dengan memeriksa buku absensi dan catatan data empiris musyrif di masjid.
 - Jika pertanyaannya: **“Mengapa sebagian santri masih terlambat meskipun sudah ada alarm?”** — Maka angka kehadiran harus diperkaya dengan mendengarkan kesaksian santri (*wawancara*), meninjau jadwal kegiatan malam, dan memeriksa kondisi ventilasi kamar tidur.
 - Jika pertanyaannya: **“Apakah program pembiasaan tidur lebih awal secara langsung meningkatkan fokus santri di kelas pagi?”** — Maka kita membutuhkan penelitian dengan metodologi ilmiah yang teruji guna mengendalikan berbagai faktor pengaruh lainnya.
