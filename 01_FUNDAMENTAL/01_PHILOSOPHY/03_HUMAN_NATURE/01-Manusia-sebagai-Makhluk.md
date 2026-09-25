@@ -24,7 +24,7 @@ $$لَقَدْ خَلَقْنَا الْإِنسَانَ فِي أَحْسَنِ
 
 > *"Sungguh, Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya."* (QS. At-Tin [95]: 4)[^3]
 
-Karena Allah telah memuliakan manusia dalam bentuk dan potensi yang terbaik (*ahsanu taqwim*), maka tidak ada seorang pendidik, musyrif, guru, ataupun pimpinan pesantren yang berhak merendahkan, menghina martabat, atau merusak kehormatan diri seorang santri dengan dalih mendisiplinkan.[^4]
+Karena Allah telah memuliakan manusia dalam bentuk dan potensi yang terbaik (*ahsanu taqwim*), maka tidak ada seorang pendidik, musyrif, guru, ataupun pemegang otoritas kelembagaan yang berhak merendahkan, menghina martabat, atau merusak kehormatan diri seorang santri dengan dalih mendisiplinkan.[^4]
 
 ## Manusia Bukan Objek Bentukan Mekanis
 

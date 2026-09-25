@@ -60,7 +60,7 @@ TUMBUH tidak mempertentangkan antara pendekatan berbasis nilai (*value-based*) d
 
 ## Menyikapi Perbedaan Pandangan: Belajar dari Al-Ghazali dan Ibnu Rusyd
 
-Dalam dinamika keilmuan, perselisihan data atau perbedaan tafsir antarpeneliti dan asatidz adalah keniscayaan manusiawi. TUMBUH melarang penyelesaian perselisihan dengan cara kekuasaan otoriter: *"Pendapat pimpinan harus dianggap paling benar secara ilmiah!"*
+Dalam dinamika keilmuan, perselisihan data atau perbedaan tafsir antarpeneliti dan asatidz adalah keniscayaan manusiawi. TUMBUH melarang penyelesaian perselisihan dengan cara kekuasaan otoriter: *"Pendapat pihak yang memegang kuasa struktural harus otomatis dianggap paling benar secara ilmiah!"*
 
 Apabila catatan musyrif berbeda dengan hasil asesmen psikolog, lakukan audit instrumen dan periksa konteks keduanya. Apabila pengalaman tradisi pesantren tampak bertentangan dengan temuan jurnal pendidikan modern, telitilah jenis klaim masing-masing, batas sampelnya, dan asumsi filosofis yang mendasarinya.
 

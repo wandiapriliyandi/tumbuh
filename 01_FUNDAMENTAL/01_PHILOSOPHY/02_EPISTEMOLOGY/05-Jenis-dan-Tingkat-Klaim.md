@@ -1,6 +1,6 @@
 # 05 Jenis dan Tingkat Klaim
 
-Setiap pernyataan penting yang ditulis dan diucapkan dalam ekosistem TUMBUH wajib memiliki tanda pengenal yang jelas. Tujuannya sangat terang: siapa pun yang membaca dokumen ini—mulai dari santri madrasah aliyah, pembina asrama, asatidz, hingga pimpinan pesantren—harus dapat membedakan secara jernih **mana yang merupakan prinsip nilai abadi, mana yang merupakan definisi kesepakatan istilah, mana yang lahir dari temuan data lapangan, dan mana yang masih berupa dugaan awal yang harus diuji**.
+Setiap pernyataan penting yang ditulis dan diucapkan dalam ekosistem TUMBUH wajib memiliki tanda pengenal yang jelas. Tujuannya sangat terang: siapa pun yang membaca dokumen ini—mulai dari para santri, pembina asrama, asatidz, hingga pengelola kelembagaan—harus dapat membedakan secara jernih **mana yang merupakan prinsip nilai abadi, mana yang merupakan definisi kesepakatan istilah, mana yang lahir dari temuan data lapangan, dan mana yang masih berupa dugaan awal yang harus diuji**.
 
 **Klaim** adalah pernyataan deklaratif yang menegaskan bahwa sesuatu itu benar adanya, berlaku secara sah, saling berhubungan, atau layak dijadikan dasar pijakan tindakan pengasuhan. Tidak semua klaim memiliki bobot, watak, dan cara pembuktian yang serupa. Mencampuradukkan ragam klaim ini akan melahirkan kerancuan berpikir yang fatal di lapangan.
 

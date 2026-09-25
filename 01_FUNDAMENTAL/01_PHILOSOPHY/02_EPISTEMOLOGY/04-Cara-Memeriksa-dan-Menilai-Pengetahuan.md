@@ -65,11 +65,11 @@ $$يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَك�
 
 ## Jabatan Struktural dan Kekuatan Simbolik Bukan Bukti Kebenaran
 
-Dalam dinamika sosial pesantren, penghormatan kepada kiai, asatidz senior, dan pimpinan pondok merupakan bagian luhur dari adab penuntut ilmu. TUMBUH memuliakan tradisi ta'zhim ini. Namun, adab menghormati guru tidak boleh disalahartikan menjadi tirani epistemik yang menutup mata dari kenyataan fakta.[^7]
+Dalam dinamika pendidikan pesantren, penghormatan kepada para pendidik, pembina senior, dan pengasuh kelembagaan merupakan bagian luhur dari adab penuntut ilmu. TUMBUH memuliakan tradisi ta'zhim ini. Namun, adab menghormati guru tidak boleh disalahartikan menjadi tirani epistemik yang menutup mata dari kenyataan fakta.[^7]
 
 Ada bahaya laten di mana **kewenangan struktural mengambil keputusan (*authority to decide*)** diam-diam dibelokkan menjadi **hak memonopoli kebenaran (*authority to define truth*)**.[^8] 
 
-Seorang pimpinan pesantren memiliki mandat struktural untuk menetapkan tata tertib asrama, namun mandat jabatan tersebut tidak otomatis menjadikan setiap pendapat pribadinya tentang psikologi santri pasti benar secara ilmiah. Sebaliknya, seorang musyrif muda atau bahkan santri jenjang J2 yang sehari-hari tinggal di kamar asrama mungkin tidak memiliki kuasa administratif, tetapi pengamatan langsungnya mengandung bukti faktual yang jauh lebih akurat tentang apa yang sebenarnya terjadi di kamar mandi atau ranjang asrama.
+Seorang pemegang kewenangan struktural atau penanggung jawab kelembagaan memiliki mandat untuk menetapkan tata tertib asrama, namun mandat jabatan tersebut tidak otomatis menjadikan setiap pendapat pribadinya tentang psikologi santri pasti benar secara ilmiah. Sebaliknya, seorang musyrif muda atau bahkan santri jenjang J2 yang sehari-hari tinggal di kamar asrama mungkin tidak memiliki kuasa administratif, tetapi pengamatan langsungnya mengandung bukti faktual yang jauh lebih akurat tentang apa yang sebenarnya terjadi di kamar mandi atau ranjang asrama.
 
 Oleh sebab itu, TUMBUH menetapkan kaidah: **Kebenaran sebuah klaim empiris ditentukan oleh kesahihan bukti dan kejernihan nalar pembuktiannya, bukan oleh tingginya jabatan atau gelar simbolik orang yang mengucapkannya.** Memeriksa kembali sebuah gagasan lama demi kemaslahatan santri bukanlah bentuk pembangkangan (*su'ul adab*), melainkan puncak kesetiaan terhadap amanah keilmuan yang diajarkan para ulama.
 

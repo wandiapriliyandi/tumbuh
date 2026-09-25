@@ -61,7 +61,7 @@ Pengetahuan tentang nilai moral, hukum syariat, fakta fisik, kondisi psikologis 
 - Jangan menggunakan survei statistik untuk menentukan apakah mencuri itu boleh atau tidak;
 - Jangan mengubah opini atau pengalaman pribadi satu orang menjadi aturan umum yang dipaksakan kepada semua orang.
 
-TUMBUH tidak mengambil posisi ekstrem: kita tidak menolak pengalaman praktis para kyai dan ustadz senior, namun kita juga tidak menolak penelitian ilmiah modern. Yang kita tegakkan adalah **ketertiban berpikir**: menempatkan setiap jenis pengetahuan pada tempatnya yang tepat (*adab al-ma'rifah*).
+TUMBUH tidak mengambil posisi ekstrem: kita tidak menolak kearifan pengalaman para pendidik dan pembina senior, namun kita juga tidak menolak penelitian ilmiah modern. Yang kita tegakkan adalah **ketertiban berpikir**: menempatkan setiap jenis pengetahuan pada tempatnya yang tepat (*adab al-ma'rifah*).
 
 Pertanyaan berikutnya menjadi sangat penting: **sumber pengetahuan apa saja yang sah dan diakui dalam TUMBUH, serta bagaimana fungsi masing-masing sumber tersebut dalam membangun sistem pendidikan pesantren?**
 

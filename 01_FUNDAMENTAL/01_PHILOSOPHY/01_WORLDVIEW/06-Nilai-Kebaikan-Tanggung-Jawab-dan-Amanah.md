@@ -49,7 +49,7 @@ Rasulullah Shallallahu 'Alaihi Wasallam memperingatkan bahwa mengabaikan amanah 
 >
 > *"Tanda-tanda orang munafik ada tiga: apabila berbicara ia berdusta, apabila berjanji ia mengingkari, dan apabila dipercaya (diberi amanah) ia berkhianat."* (HR. Al-Bukhari no. 33 dan Muslim no. 59)[^4]
 
-Di pesantren, amanah bukan sekadar daftar tugas administratif di atas kertas. Pendidik memegang amanah mendidik dengan tulus. Musyrif memegang amanah menjaga keselamatan fisik dan batin santri di asrama. Pimpinan memegang amanah menegakkan keadilan. Santri memegang amanah menjaga kehormatan diri dan memanfaatkan waktu belajar sebaik-baiknya sebagai bakti kepada orang tua.
+Di pesantren, amanah bukan sekadar daftar tugas administratif di atas kertas. Pendidik memegang amanah mendidik dengan tulus. Musyrif memegang amanah menjaga keselamatan fisik dan batin santri di asrama. Pengelola kelembagaan memegang amanah menegakkan keadilan. Santri memegang amanah menjaga kehormatan diri dan memanfaatkan waktu belajar sebaik-baiknya sebagai bakti kepada orang tua.
 
 ## Adab mempertemukan nilai dengan perilaku
 

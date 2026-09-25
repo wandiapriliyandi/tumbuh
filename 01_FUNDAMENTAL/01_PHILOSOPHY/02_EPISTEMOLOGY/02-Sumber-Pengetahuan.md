@@ -60,7 +60,7 @@ Misalnya: data menunjukkan bahwa santri yang sering minum susu di kantin memilik
 
 ## 5. Kesaksian dan Keterangan Orang Lain (*Testimony / Al-Khabar*)
 
-Kita tidak mungkin mengamati sendiri seluruh kejadian di pesantren sepanjang 24 jam. Pimpinan pesantren mengetahui kondisi santri dari laporan musyrif; musyrif mengetahui masalah kamar dari laporan ketua kamar; dan orang tua mengetahui perkembangan anak dari buku evaluasi lembaga.
+Kita tidak mungkin mengamati sendiri seluruh kejadian di pesantren sepanjang 24 jam. Pengelola kelembagaan mengetahui kondisi santri dari laporan musyrif; musyrif mengetahui masalah kamar dari laporan ketua kamar; dan orang tua mengetahui perkembangan anak dari buku evaluasi lembaga.
 
 Pengetahuan yang diperoleh melalui penuturan orang lain ini sah digunakan, asalkan memenuhi dua syarat utama:[^8]
 1. **Integritas Pembawa Kabar (*'Adalah*)**: Pembawa berita dikenal jujur, tidak gemar berdusta, dan tidak memiliki kepentingan pribadi atau dendam terhadap pihak yang diberitakan;
@@ -68,7 +68,7 @@ Pengetahuan yang diperoleh melalui penuturan orang lain ini sah digunakan, asalk
 
 ## 6. Pengalaman Praktisi Lapangan (*Kearifan Asrama*)
 
-Para kyai, nyai, dan musyrif senior yang telah mengabdi puluhan tahun memiliki kepekaan rasa (*intuisi pedagogis*) yang sangat tajam dalam membaca watak santri. Pengalaman lapangan ini sangat berharga untuk memahami situasi-situasi rumit yang tidak tertulis di buku teks teori.
+Para pendidik dan musyrif senior yang telah mengabdi bertahun-tahun memiliki kepekaan rasa (*intuisi pedagogis*) yang sangat tajam dalam membaca watak santri. Pengalaman lapangan ini sangat berharga untuk memahami situasi-situasi rumit yang tidak tertulis di buku teks teori.
 
 Namun demikian, TUMBUH menjaga agar pengalaman pribadi tidak diubah menjadi hukum mutlak. Pengalaman seorang musyrif dalam menangani satu santri pada masa lalu belum tentu cocok diterapkan kepada santri lain yang memiliki latar belakang keluarga dan psikologis yang berbeda. Pengalaman lapangan harus dipadukan dengan evaluasi yang adil dan prinsip-prinsip umum perlindungan anak.
 

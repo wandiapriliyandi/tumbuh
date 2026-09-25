@@ -58,7 +58,7 @@ SUMBER DATA ───┼── 2. SALING MELENGKAPI (Menjelaskan lapisan berbeda
 
 1. **Selaras (*Convergence*)**: Catatan santri, kesaksian musyrif, dan data absensi sama-sama menunjukkan pola peningkatan ketertiban yang konsisten. Ini memperkuat keyakinan kita terhadap kemajuan santri.
 2. **Saling Melengkapi (*Complementarity*)**: Angka statistik menunjukkan penurunan insiden perkelahian di asrama, sementara transkrip wawancara dengan santri menjelaskan *mengapa* hal itu terjadi (misalnya, santri merasa lebih didengar saat musyawarah kamar). Perpaduan kuantitatif dan kualitatif ini menyajikan gambaran utuh yang bermakna.[^5]
-3. **Berbeda atau Divergen (*Divergence*)**: Muncul kesenjangan mencolok antara apa yang dilaporkan pimpinan dengan apa yang dirasakan santri di barak asrama. Kesenjangan ini tidak boleh ditutup-tutupi, melainkan wajib dijadikan pintu masuk penyelidikan baru (*PROBE*) untuk menemukan titik sumbatan yang belum terdeteksi.
+3. **Berbeda atau Divergen (*Divergence*)**: Muncul kesenjangan mencolok antara apa yang dilaporkan dalam evaluasi formal kelembagaan dengan apa yang dirasakan santri di barak asrama. Kesenjangan ini tidak boleh ditutup-tutupi, melainkan wajib dijadikan pintu masuk penyelidikan baru (*PROBE*) untuk menemukan titik sumbatan yang belum terdeteksi.
 
 ## Tujuh Langkah Metodologis TUMBUH Menggabungkan Pengetahuan
 
@@ -66,7 +66,7 @@ Agar proses integrasi ini tidak menjadi sekadar wacana teoritis di kalangan asat
 
 1. **Tentukan Pertanyaan Inti**: Rumuskan dengan terang apa yang sesungguhnya ingin diketahui dan diperbaiki.
 2. **Identifikasi Jenis Klaim**: Tetapkan apakah persoalan ini berada pada ranah nilai syar'i (normatif), batasan istilah (definisional), fakta lapangan (empiris), atau rancangan teknis (desain).
-3. **Pilih Sumber yang Sah dan Tepat**: Hindari jalan pintas memilih sumber hanya karena mudah didapat atau paling menyenangkan hati pimpinan.
+3. **Pilih Sumber yang Sah dan Tepat**: Hindari jalan pintas memilih sumber hanya karena mudah didapat atau paling menyenangkan pihak pengambil kebijakan.
 4. **Audit Setiap Sumber Secara Mandiri**: Uji keabsahan dalilnya, uji keandalan instrumen angketnya, dan uji kejujuran saksi pelapornya masing-masing.
 5. **Konfrontasikan dan Rajut Korelasi Antardata**: Petakan titik temu yang selaras, bagian yang saling mengisi, dan anomali data yang saling bertolak belakang.
 6. **Tetapkan Batas Kesimpulan secara Rendah Hati**: Nyatakan secara jujur sejauh mana bukti-bukti tersebut sah berlaku, dan sebutkan faktor-faktor yang belum berhasil diketahui.

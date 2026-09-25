@@ -67,7 +67,7 @@ Pertama, **santri perlu diberi ruang untuk berlatih bertanggung jawab**. Mereka 
 
 Kedua, **peran orang dewasa adalah membimbing dan memberi teladan**. Ini bukan berarti para guru dan musyrif kehilangan wibawa atau membiarkan segala hal tanpa batas. Justru orang dewasa bertugas menyediakan batasan aturan yang adil, memberikan perlindungan yang aman, dan menunjukkan contoh perilaku yang nyata (*qudwah hasanah*), sehingga kemampuan santri dapat berkembang secara terarah.
 
-Ketiga, **kewenangan pendidik adalah amanah pengasuhan**. Guru, musyrif, dan pimpinan tidak boleh menggunakan jabatan atau senioritasnya untuk merendahkan, mempermalukan, mengintimidasi, atau menyakiti fisik maupun mental santri. Kewenangan hadir untuk melayani pertumbuhan manusia, bukan untuk menindas demi kepuasan pribadi orang yang berkuasa.
+Ketiga, **kewenangan pendidik adalah amanah pengasuhan**. Guru, musyrif, dan pemegang kewenangan struktural tidak boleh menggunakan jabatan atau senioritasnya untuk merendahkan, mempermalukan, mengintimidasi, atau menyakiti fisik maupun mental santri. Kewenangan hadir untuk melayani pertumbuhan manusia, bukan untuk menindas demi kepuasan pribadi orang yang berkuasa.
 
 Keempat, **tidak mereduksi manusia ke dalam satu teori ilmiah semata**. Penelitian tentang cara kerja otak, emosi, dan motivasi sangat bermanfaat untuk membantu kita memahami perilaku anak didik. Namun, cara pandang TUMBUH terhadap manusia tetap berakar pada keluhuran wahyu tauhidi yang memandang manusia memiliki dimensi ruhani yang agung.
 

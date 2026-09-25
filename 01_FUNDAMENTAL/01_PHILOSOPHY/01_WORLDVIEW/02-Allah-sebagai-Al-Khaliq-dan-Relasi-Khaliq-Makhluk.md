@@ -29,7 +29,7 @@ Prinsip ini sangat penting dalam kehidupan berasrama di pesantren:
 - Santri bukan milik pesantren.
 - Adik kelas bukan milik kakak kelas.
 
-Status senioritas, jabatan ketua kamar, atau posisi pimpinan tidak memberi hak kepada siapa pun untuk memperlakukan orang lain sesuka hati. Santri adalah titipan Allah yang diamanahkan orang tuanya kepada lembaga untuk dibimbing dengan penuh kasih sayang.
+Status senioritas, jabatan ketua kamar, atau posisi otoritas struktural tidak memberi hak kepada siapa pun untuk memperlakukan orang lain sesuka hati. Santri adalah titipan Allah yang diamanahkan orang tuanya kepada lembaga untuk dibimbing dengan penuh kasih sayang.
 
 Rasulullah Shallallahu 'Alaihi Wasallam mengingatkan batas tanggung jawab ini:
 
