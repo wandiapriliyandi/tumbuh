@@ -1,85 +1,89 @@
 # 06 — Bedakan Prinsip, Klaim, Keputusan, dan Prosedur
 
-Dalam sebuah sistem, tidak semua pernyataan memiliki kedudukan yang sama.
+Salah satu kekacauan epistemologis yang paling sering melumpuhkan pembaruan pesantren adalah **pencampuradukan antara nilai prinsip yang suci dan prosedur operasional yang bersifat teknis**. 
 
-**Prinsip** memberi arah yang harus dijaga. **Klaim** adalah pernyataan tentang sesuatu yang kita anggap benar dan mungkin perlu diperiksa. **Keputusan desain** adalah pilihan yang dibuat untuk menerjemahkan prinsip dan pengetahuan ke dalam sistem. **Prosedur** menjelaskan langkah yang harus dilakukan dalam situasi tertentu.
+Ketika sebuah Standar Operasional Prosedur (SOP) atau format buku perizinan yang dibuat dua puluh tahun lalu dikultuskan seolah-olah setara dengan teks wahyu Al-Qur'an, lembaga akan kehilangan kelenturan untuk beradaptasi terhadap tantangan zaman. Para pengurus asrama akan takut mengubah alur piket atau jadwal apel malam yang terbukti melelahkan santri hanya karena khawatir dituduh "merusak ajaran luhur pesantren". Sebaliknya, apabila prinsip moral diperlakukan murahan layaknya prosedur teknis, sebagian pengelola dapat dengan mudah memaklumi praktik kekerasan fisik atau perundungan senior dengan dalih "fleksibilitas metode lapangan".[^1]
 
-Keempatnya dapat saling berhubungan, tetapi tidak boleh dicampur.
+Prinsip **Bedakan Prinsip, Klaim, Keputusan, dan Prosedur** menetapkan bahwa setiap pernyataan, regulasi, dan instrumen dalam ekosistem TUMBUH wajib dipilah secara tegas ke dalam empat lapisan kedudukan yang memiliki fungsi, dasar pengujian, dan derajat kelenturan yang berbeda.[^2]
 
-## Empat Hal yang Berbeda
+---
 
-Pembedaan ini dapat dilihat secara sederhana:
+## 1. Landasan Syariat dan Turats: Membedakan Ushul, Furu', dan Idarah
 
-| Jenis | Fungsi utama | Pertanyaan kunci |
-|---|---|---|
-| Prinsip | Memberi arah yang perlu dijaga | Apa yang harus tetap menjadi pegangan? |
-| Klaim | Menyatakan sesuatu yang dianggap benar | Apa yang kita yakini benar, dan apa dasarnya? |
-| Keputusan desain | Memilih bentuk penerjemahan ke dalam sistem | Mengapa pilihan ini digunakan? |
-| Prosedur | Menjelaskan cara melakukan sesuatu dalam situasi tertentu | Apa yang dilakukan ketika kondisi ini terjadi? |
+Tradisi yurisprudensi dan siyasah syar'iyyah Islam telah lama membangun ketelitian hierarkis dalam membedakan tingkatan norma:
 
-Misalnya, **“martabat santri harus dijaga”** adalah prinsip.
+1. **Teks Wahyu Permanen (*An-Nushūsh ats-Tsābitah*):**  
+   Prinsip akidah, kewajiban ibadah mahdhah, serta kaidah moral perlindungan jiwa (*hifzh an-nafs*) dan kehormatan (*hifzh al-'irdh*) bersifat mutlak, universal, dan tidak boleh diubah oleh zaman mana pun.
+2. **Kaidah Hukum Universal (*Al-Qawā'id al-Fiqhiyyah*):**  
+   Prinsip-prinsip penuntun hukum, seperti *Al-Dhararu Yuzāl* (kemudharatan wajib dihilangkan) dan *Al-Masyaqqatu Tajlibut-Taysīr* (kesulitan mendatangkan kemudahan), menjadi kompas dalam menimbang maslahat.
+3. **Fatwa dan Keputusan Kontekstual (*Al-Ahkām al-Ijtihādiyyah*):**  
+   Keputusan hukum yang lahir dari ijtihad para ulama terhadap masalah baru. Imam Ibnu Qayyim al-Jauziyyah dalam *I'lam al-Muwaqqi'in* menegaskan bahwa fatwa dapat dan harus berubah seturut perubahan zaman, tempat, dan keadaan demi menjaga tujuan syariat.[^3]
+4. **Tata Laksana Administratif (*At-Tandzīmāt al-Idāriyyah*):**  
+   Kebijakan teknis manajerial (seperti pencatatan administrasi baitul mal di era kepemimpinan Sahabat Umar bin Khattab radhiyallahu 'anhu). Kebijakan ini murni sarana keduniawian (*wasā'il dunyawiyyah*) yang sepenuhnya tunduk pada asas kemanfaatan praktis.
 
-**“Cara koreksi tertentu lebih efektif dalam kondisi tertentu”** adalah klaim yang membutuhkan bukti.
+Umar bin Khattab radhiyallahu 'anhu dalam surat peradilan monumentalnya kepada Abu Musa al-Asy'ari meletakkan etika keberanian mengoreksi keputusan teknis masa lalu demi menegakkan kebenaran:
 
-**“TUMBUH menggunakan pendekatan koreksi X dalam konteks Y”** adalah keputusan desain.
+$$\text{وَلَا يَمْنَعَنَّكَ قَضَاءٌ قَضَيْتَهُ بِالْأَمْسِ، فَرَاجَعْتَ فِيهِ نَفْسَكَ وَهُدِيتَ فِيهِ لِرُشْدِكَ، أَنْ تَرْجِعَ فِيهِ إِلَى الْحَقِّ}$$
 
-**“Ketika terjadi situasi Y, lakukan langkah 1, 2, dan 3”** adalah prosedur.
+> *"Dan janganlah sekali-kali suatu keputusan yang engkau putuskan kemarin—lalu engkau merenungkannya kembali dan engkau diberi petunjuk menuju kebenaran—menghalangimu untuk kembali kepada kebenaran itu."*[^4]
 
-Contoh tersebut menunjukkan bahwa satu hal dapat berhubungan dengan hal lain tanpa memiliki kedudukan yang sama.
+---
 
-## Mengapa Pembedaan Ini Penting
+## 2. Teori Pemisahan Kebijakan dan Mekanisme (*Policy vs Mechanism*)
 
-Tanpa pembedaan, keputusan sementara mudah dianggap sebagai prinsip. Hasil penelitian tertentu dapat langsung dianggap sebagai aturan yang berlaku untuk semua keadaan. Sebuah prosedur juga dapat dianggap sebagai bagian yang tidak boleh berubah, padahal prosedur mungkin perlu disesuaikan ketika cara kerja yang lebih baik ditemukan.
+Dalam rekayasa sistem komputer dan arsitektur organisasi modern, Jerome H. Saltzer dan Michael D. Schroeder merumuskan prinsip klasik: *Separation of Policy and Mechanism* (Pemisahan antara Kebijakan dan Mekanisme Pelaksanaan).[^5]
 
-Pembedaan membantu TUMBUH mengetahui apa yang harus dipertahankan, apa yang perlu diperiksa, apa yang dapat dipilih ulang, dan apa yang dapat diperbaiki.
+- **Kebijakan (*Policy*):** Menentukan **apa** yang harus dicapai dan batas nilai apa yang tidak boleh dilanggar.
+- **Mekanisme (*Mechanism*):** Menentukan **bagaimana** cara teknis mewujudkan kebijakan tersebut dalam kondisi tertentu.
 
-## Tidak Semua Hal Berubah dengan Cara yang Sama
-
-Kedudukan yang berbeda juga berarti cara meninjau ulangnya berbeda.
-
-Prinsip tidak otomatis berubah hanya karena satu metode tidak berhasil. Klaim dapat diperbarui ketika bukti baru tersedia. Keputusan desain dapat ditinjau ketika konteks, kebutuhan, atau bukti berubah. Prosedur dapat diubah ketika cara kerja yang lebih baik ditemukan atau kondisi penerapannya berubah.
-
-Ini tidak berarti prinsip selalu tetap dan tiga hal lainnya selalu berubah. Pembedaan ini hanya membantu kita mengetahui **alasan dan dasar yang diperlukan ketika sesuatu dipertahankan atau diubah**.
-
-## Hubungan Antarkeempatnya
-
-Dalam desain TUMBUH, keempatnya dapat membentuk alur yang dapat ditelusuri:
+Jika kebijakan dicampuradukkan ke dalam mekanisme, maka setiap kali sarana teknis diperbaiki, seluruh fondasi sistem akan terguncang. Sebaliknya, sistem yang sehat membiarkan mekanisme teknis berubah secara lincah tanpa pernah mengorbankan kebijakan nilainya.[^6]
 
 ```text
-Prinsip
-   ↓
-Klaim / pengetahuan yang relevan
-   ↓
-Keputusan desain
-   ↓
-Prosedur / penerapan
+[ 1. PRINSIP ]   ──► "Apa yang wajib selalu dijaga?"             (Ketetapan Nilai Abadi)
+       ↓
+[ 2. KLAIM ]     ──► "Fakta atau bukti apa yang terjadi?"         (Laporan Data Teruji)
+       ↓
+[ 3. KEPUTUSAN ] ──► "Rancangan arsitektur apa yang kita pilih?" (Pilihan Desain Terarah)
+       ↓
+[ 4. PROSEDUR ]  ──► "Langkah teknis apa yang harus dijalankan?"  (SOP Operasional Lentur)
 ```
 
-Alur tersebut tidak selalu linear. Bukti dari penerapan dapat memunculkan pertanyaan baru, menguji klaim, atau mendorong peninjauan keputusan desain.
+---
 
-Karena itu, hubungan antarkeempatnya perlu memungkinkan umpan balik tanpa menghapus batas fungsi masing-masing.
+## 3. Matriks Empat Lapisan Kedudukan Sistem TUMBUH
 
-## Status dan Asal-Usul Harus Jelas
+Tabel berikut memperjelas perbedaan hakiki antara keempat lapisan melalui contoh kasus konkret di asrama pesantren:
 
-Desain TUMBUH perlu membuat asal-usul dan status setiap pernyataan atau keputusan cukup jelas. Kita perlu dapat menjawab:
+| Lapisan Sistem | Pertanyaan Kunci | Karakteristik & Sifat Perubahan | Contoh Nyata di Pesantren TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **1. Prinsip (*Principle*)** | *"Apa yang harus tetap benar dan dijaga?"* | **Permanen & Normatif.** Menjadi kompas sistem. Tidak boleh diubah hanya karena ada kesulitan teknis di lapangan. | *"Martabat kemanusiaan santri wajib dimuliakan; kekerasan fisik dan verbal diharamkan mutlak dalam seluruh proses pembinaan."* |
+| **2. Klaim (*Claim*)** | *"Apa yang sesungguhnya terjadi berdasarkan data?"* | **Deskriptif & Teruji.** Statusnya bergantung pada bukti (*evidence*). Dapat dinaikkan atau diturunkan derajat kepastiannya. | *"Berdasarkan catatan rekam medis dan logbook triwulan pertama, 75% perselisihan fisik antarsantri terjadi di lorong belakang pada pukul 21.30–22.30."* |
+| **3. Keputusan (*Decision*)** | *"Pilihan arsitektur desain apa yang kita ambil?"* | **Strategis & Kontekstual.** Pilihan sadar dari beberapa alternatif untuk mewujudkan prinsip berdasarkan klaim bukti. | *"TUMBUH memutuskan untuk merekayasa lorong belakang menjadi ruang belajar terang, memasang meja bersama, dan menempatkan pos pendampingan musyrif."* |
+| **4. Prosedur (*Procedure*)** | *"Langkah operasional apa yang dijalankan hari ini?"* | **Teknis & Sangat Lentur.** SOP harian yang dapat segera disederhanakan atau direvisi jika ditemukan cara kerja yang lebih efektif. | *"Musyrif piket menandatangani lembar kehadiran di meja lorong pada pukul 21.15, menyapa santri yang belajar, dan memastikan lampu kamar padam pukul 22.00."* |
 
-- ini prinsip, klaim, keputusan, atau prosedur?
-- dari mana dasarnya?
-- mengapa dipilih atau dipertahankan?
-- dalam konteks apa berlaku?
-- kapan perlu ditinjau kembali?
-- apa yang berubah jika dasar atau konteksnya berubah?
+---
 
-Kejelasan ini mendukung traceability dan membantu mencegah satu jenis pernyataan mengambil peran jenis lainnya.
+## 4. Kaidah Penerapan dan Pengamanan Lapisan di Pesantren
 
-## Hubungan dengan Layer TUMBUH
+Pemisahan empat lapisan ini menjadi perisai bagi stabilitas dan ketangkasan (*agility*) tata kelola pesantren:
 
-Rincian pengelolaan klaim, evidence, dan keputusan berada pada layer yang sesuai, termasuk **Claim Registry, Evidence Registry, dan Decision Log**.
+1. **Jangan Menghakimi Prinsip karena Kegagalan Prosedur:**  
+   Jika musyrif lupa menandatangani lembar kehadiran atau santri masih berisik di lorong belakang (kegagalan prosedur), jangan buru-buru menyimpulkan bahwa "prinsip disiplin positif tanpa kekerasan telah gagal". Yang gagal adalah prosedur teknisnya yang mungkin kurang praktis; perbaiki prosedurnya, pertahankan prinsipnya.
+2. **Jangan Mengubah SOP Menjadi Berhala Kelembagaan:**  
+   Pengelola asrama berhak dan wajib merevisi formulir perizinan, menata ulang jadwal piket, atau memperbarui aplikasi logbook musyrif jika terbukti prosedur lama membebani warga asrama. Kelenturan prosedur adalah tanda kematangan sistem yang hidup, bukan pengkhianatan terhadap nilai pondok.
+3. **Dokumentasikan Jejak Keputusan Desain (*Decision Traceability*):**  
+   Setiap kali pengelola kelembagaan mengambil keputusan strategis baru (seperti mengubah penjenjangan santri J1–J4), keputusan tersebut wajib dicatat bersama bukti klaim dan prinsip yang melandasinya. Dengan demikian, generasi pembina berikutnya memahami alasan di balik suatu aturan dan tidak meraba-raba dalam kegelapan.[^7]
 
-Foundation tidak mengatur format teknis pencatatan atau prosedur kerja masing-masing. Foundation menetapkan pembedaan konseptual agar sistem tetap jernih ketika pengetahuan, keputusan, dan praktik berkembang.
+Setelah membedakan antara prinsip abadi dan prosedur teknis, tantangan desain berikutnya adalah: **bagaimana memastikan bahwa aturan yang dibuat tidak memaksakan keseragaman mekanis yang mematikan keunikan potensi fitrah santri?** Prinsip memberikan ruang bagi variasi manusia inilah yang diuraikan secara mendalam pada bab berikutnya.
 
-## Batas Prinsip
+---
 
-Prinsip ini tidak menentukan isi dari setiap prinsip, klaim, keputusan, atau prosedur. Ia juga tidak menetapkan prosedur operasional tertentu.
+### Catatan Kaki
 
-Prinsip ini hanya menetapkan disiplin desain: **bedakan apa yang menjadi pegangan, apa yang menjadi klaim, apa yang menjadi pilihan desain, dan apa yang menjadi cara kerja.**
+[^1]: Tyack, D., & Cuban, L. (1995). *Tinkering Toward Utopia: A Century of Public School Reform*. Harvard University Press, hlm. 40–64.
+[^2]: Argyris, C., & Schön, D. A. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley, hlm. 14–29.
+[^3]: Ibnu Qayyim al-Jauziyyah, S. D. (1991). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Tahqiq: Muhammad 'Abdus Salam Ibrahim). Dar al-Kutub al-'Ilmiyyah, jilid 3, hlm. 11–14.
+[^4]: Ibnu Qayyim al-Jauziyyah, *op. cit.*, jilid 1, hlm. 68–72 (Kajian mendalam tentang Risalah Qadha' Umar bin Khattab kepada Abu Musa al-Asy'ari).
+[^5]: Saltzer, J. H., & Schroeder, M. D. (1975). “The protection of information in computer systems.” *Proceedings of the IEEE, 63*(9), 1278–1308. https://doi.org/10.1109/PROC.1975.9939.
+[^6]: Bass, L., Clements, P., & Kazman, R. (2012). *Software Architecture in Practice* (3rd ed.). Addison-Wesley, hlm. 115–138.
+[^7]: Nygard, M. T. (2018). *Release It!: Design and Deploy Production-Ready Software* (2nd ed.). Pragmatic Bookshelf, hlm. 289–302 (Membahas *Architecture Decision Records*).
