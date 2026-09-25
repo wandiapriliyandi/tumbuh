@@ -1,50 +1,105 @@
 # 05 — Membangun Pemimpin
 
-Kalau kepemimpinan hanya berarti mampu mengatur orang lain, maka seseorang bisa saja terlihat kuat tetapi sebenarnya belum tentu mampu memimpin dengan baik. Dalam TUMBUH, pemimpin juga harus mampu mengelola dirinya sendiri dan terus belajar dari pengalaman.
+Kepemimpinan bukanlah bakat gaib yang hanya diwariskan melalui garis darah biologis, dan bukan pula keterampilan instan yang dapat dicetak hanya melalui pelatihan kilat kepemimpinan (*LDK*) selama dua hari akhir pekan.[^1]
 
-Karena itu, membangun pemimpin tidak cukup dengan mengadakan pelatihan lalu menganggap tugas selesai. Seseorang perlu mendapat kesempatan untuk mencoba memimpin, menghadapi persoalan nyata, menerima masukan, memperbaiki kesalahan, dan mencoba lagi.
+Dalam ekosistem pendidikan TUMBUH, kepemimpinan dipahami sebagai **watak kapasitas batin (*malakah rāsikhah*) yang bertumbuh mekar melalui proses magang tanggung jawab nyata (*situated apprenticeship*), perjumpaan dengan tantangan hidup konkret, pendampingan reflektif (*muhasabah*), serta keteguhan mengendalikan diri sendiri sebelum memimpin orang lain**.[^2]
 
-Kemampuan memimpin juga tidak hanya soal keberanian berbicara. Pemimpin perlu belajar membaca situasi, mengambil keputusan, mendengar orang lain, mengelola konflik, menerima umpan balik, dan melihat akibat dari tindakannya. Semua itu tumbuh melalui gabungan pengetahuan, latihan, pengalaman, pendampingan, dan refleksi.
+---
 
-Tradisi pendidikan Islam juga menempatkan pembentukan pribadi pendidik sebagai hal penting. Al-Ghazali, misalnya, menghubungkan ilmu dengan amal dan adab. Pengetahuan yang tidak memengaruhi cara seseorang bertindak belum cukup untuk menunjukkan keberhasilan pendidikan.[^1]
+## Fondasi Pertama: Memimpin Diri Sendiri (*Jihad an-Nafs*)
 
-## Kesempatan memimpin harus nyata
+Kaidah fundamental dalam tradisi tarbiyah Islam menegaskan bahwa seseorang mustahil mampu memimpin orang lain dengan adil apabila ia sendiri belum mampu memimpin gejolak hawa nafsunya sendiri:[^3]
 
-Kaderisasi di pesantren sebaiknya tidak hanya bertanya, “Siapa yang pintar berbicara?” atau “Siapa yang paling berani tampil?”
+$$
+\text{مَنْ عَجَزَ عَنْ سِيَاسَةِ نَفْسِهِ كَانَ عَنْ سِيَاسَةِ غَيْرِهِ أَعْجَزَ}
+$$
 
-Pertanyaan yang lebih penting adalah: siapa yang dapat dipercaya ketika diberi amanah, mampu bekerja dengan orang lain, bersedia belajar dari kesalahan, dan tetap menjaga nilai ketika menghadapi tekanan?
+> *"Barangsiapa yang lemah dan gagal dalam memimpin dirinya sendiri, niscaya ia akan jauh lebih lemah dan gagal lagi dalam memimpin orang lain."*[^4]
 
-Karena itu, pengalaman memimpin perlu diberikan secara bertahap. Santri dapat mulai dari tanggung jawab kecil: mengelola kegiatan, menjadi bagian dari kepanitiaan, memimpin kelompok belajar, melayani kegiatan sosial, atau membantu mengatur kehidupan kamar.
+Seorang santri yang masih gemar melanggar aturan saat sepi, belum tertib mengatur waktu tidurnya, mudah meledak amarahnya saat tersinggung, atau tidak mampu menjaga lisannya dari ghibah, pada hakikatnya **belum memiliki kelayakan moral untuk diangkat memegang amanah kepemimpinan formal di asrama**.[^5] 
 
-Dari pengalaman itu, santri belajar bahwa memimpin bukan hanya memberi instruksi. Ada akibat dari setiap keputusan. Ada orang lain yang terdampak. Ada masalah yang tidak selalu bisa diselesaikan dengan cara yang sama.
+TUMBUH menghentikan kebiasaan salah kaprah yang memilih pemimpin hanya berdasarkan kriteria lahiriah: siapa yang paling lantang berorasi di atas podium, siapa yang paling berani bertindak agresif, atau siapa yang memiliki perawakan tubuh paling besar. Kriteria kepemimpinan sejati berakar pada: **kejujuran (*ash-shidq*), ketenangan jiwa saat menghadapi tekanan (*ath-thuma'ninah*), keadilan memperlakukan kawan, serta kesediaan memikul tanggung jawab tanpa melempar kesalahan kepada orang lain**.[^6]
 
-## Tanggung jawab bertambah seiring kesiapan
+---
 
-Tidak semua orang harus langsung diberi tanggung jawab besar. Orang yang sedang belajar memimpin membutuhkan ruang untuk mencoba, tetapi juga membutuhkan batas dan pendampingan.
+## Mengikis Tuntas Feodalisme Senioritas di Lingkungan Asrama
 
-Pada tahap awal, pendamping mungkin masih sering membantu. Ketika kemampuan mulai terlihat, ruang keputusan dapat diperluas. Jika terjadi kesalahan, pendamping membantu orang tersebut memahami apa yang terjadi dan bagaimana memperbaikinya.
+Salah satu penyakit paling berbahaya yang kerap membusukkan proses kaderisasi santri adalah **feodalisme senioritas**.[^7]
 
-Arahnya sama dengan prinsip kemandirian dalam Education: **dibantu → didampingi → diberi kesempatan → diberi tanggung jawab → mampu mengelola diri.**
+Dalam sistem yang tidak sehat, kenaikan santri ke kelas senior disalahartikan sebagai "kenaikan kasta kekuasaan". Santri senior merasa berhak dilayani, berhak membentak junior, berhak menyuruh adik kelas mencucikan bajunya, bahkan melegalkan kekerasan fisik atas nama "pembentukan mental pengurus". Tradisi jahiliyah ini terbukti secara ilmiah melahirkan lingkaran setan kekerasan (*cycle of violence*): santri yang dulunya menjadi korban perundungan kelak akan menjadi pelaku perundungan yang jauh lebih kejam saat ia menjadi senior.[^8]
 
-Jadi pendampingan bukan untuk membuat calon pemimpin selalu bergantung kepada seniornya. Justru sebaliknya, bantuan harus perlahan berkurang ketika kemampuan bertambah.
+TUMBUH mengharamkan tradisi feodal tersebut dan menggantinya dengan **paradigma kepemimpinan pelayan (*Servant Leadership*) yang beradab**:[^9]
 
-## Pemimpin harus menyiapkan pemimpin berikutnya
+```text
+TRADISI SENIORITAS FEODAL (Jahiliyah):
+Senior = Penguasa yang Menuntut Dilayani & Berhak Menindas Adik Kelas
+⟶ Melahirkan Ketakutan, Dendam Kesumat, & Mental Budaya Kekerasan
 
-Ada ukuran kepemimpinan yang sering terlupakan: apa yang terjadi ketika pemimpin itu tidak lagi memegang jabatan?
+KADERISASI BERADAB TUMBUH (Khidmah Nabawiyyah):
+Senior = Pengayom, Pelindung, & Teladan yang Melayani Kemaslahatan Adik Kelas
+⟶ Melahirkan Rasa Aman, Cinta Kasih Ukhuwah, & Kematangan Ar-Rusyd
+```
 
-Jika semua keputusan, pengetahuan, dan hubungan hanya bergantung pada satu orang, pergantian pemimpin akan menjadi masalah besar. Sebaliknya, jika selama memimpin ia memberi ruang kepada orang lain untuk belajar dan mengambil tanggung jawab, lembaga memiliki lebih banyak orang yang siap melanjutkan amanah.
+Di lingkungan pesantren TUMBUH, semakin tinggi tingkatan santri:
+- Ia justru yang paling awal datang ke masjid untuk memberi teladan shalat di shaf terdepan;
+- Ia yang paling santun dan ramah menyapa adik-adik kelas yang sedang berjuang melawan rasa rindu rumah (*homesick*);
+- Ia yang paling sigap membersihkan fasilitas bersama tanpa gengsi;
+- Wibawanya memancar dari kelembutan kasih sayang dan ketegasan adabnya, bukan dari bentakan atau kepalan tinjunya.[^10]
 
-Karena itu:
+---
 
-> **Pemimpin yang baik tidak membangun ketergantungan kepada dirinya. Ia menyiapkan orang lain agar mampu mengambil amanah setelahnya.**
+## Dialog Ilmiah: Leader Development vs Leadership Development
 
-Penelitian tentang pengembangan kepemimpinan juga menunjukkan bahwa kemampuan memimpin berkembang sepanjang waktu melalui pengalaman, pembelajaran, dan proses perkembangan individu dalam konteks nyata.[^2]
+Temuan mutakhir dalam sains kepemimpinan kontemporer yang dirangkum oleh David V. Day dan rekan-rekannya (2014) dalam *The Leadership Quarterly* membedakan dua dimensi pembangunan kepemimpinan:[^11]
 
-Dengan demikian, kaderisasi bukan kegiatan tambahan yang baru dilakukan ketika seorang pemimpin akan pergi. Kaderisasi adalah bagian dari kepemimpinan itu sendiri.
+1. **Leader Development (Pengembangan Kapasitas Individu):** Membangun modal manusiawi (*human capital*) pada diri calon pemimpin, mencakup kesadaran diri (*self-awareness*), regulasi emosi, keterampilan memecahkan masalah, dan ketahanan moral (*moral character*).
+2. **Leadership Development (Pengembangan Kapasitas Kolektif/Sosial):** Membangun modal sosial (*social capital*) di antara seluruh warga komunitas, mencakup kemampuan membangun kepercayaan timbal-balik (*trust*), kelancaran komunikasi musyawarah, dan komitmen bersama untuk mencapai tujuan organisasi tanpa perlu pemaksaan kekuasaan.[^12]
 
-TUMBUH karena itu melihat pembangunan pemimpin sebagai proses pendidikan: seseorang diberi kesempatan untuk memimpin, dibantu ketika belum mampu, diberi umpan balik, lalu perlahan dipercaya memikul tanggung jawab yang lebih besar.
+TUMBUH mengintegrasikan kedua dimensi ini: mendidik karakter pribadi santri agar memiliki integritas tauhid (*leader development*), sekaligus merancang dinamika kamar asrama dan organisasi santri sebagai jejaring ukhuwah yang solid dan saling menopang (*leadership development*).[^13]
 
-### Catatan kaki
+---
 
-[^1]: Al-Ghazali, *Ihya' 'Ulum al-Din*. Dalam pembahasan pendidikan dan adab, ilmu dikaitkan dengan amal dan pembentukan akhlak.
-[^2]: Day, D. V., Fleenor, J. W., Atwater, L. E., Sturm, R. E., & McKee, R. A. (2014). Advances in leader and leadership development: A review of 25 years of research and theory. *The Leadership Quarterly, 25*(1), 63–82. Kajian ini membahas perkembangan kepemimpinan sepanjang waktu, termasuk peran pengalaman dan pembelajaran dalam konteks nyata.
+## Etape Penjenjangan Kaderisasi Bertahap (J1–J4)
+
+Pembentukan pemimpin dalam TUMBUH bergerak melalui tangga penjenjangan kemandirian **J1 hingga J4** secara bertahap:[^14]
+
+1. **Fase Pengamatan dan Pembiasaan Ketaatan (Jenjang J1):**  
+   Santri baru belajar menjadi pengikut yang beradab (*adab al-mutāba'ah*). Mereka mengamati keteladanan para pembina dan senior, membiasakan diri hidup teratur, dan belajar mematuhi tata tertib atas kesadaran nilai dasar.
+2. **Fase Amanah Mikro Terbimbing (Jenjang J2):**  
+   Santri mulai diberi tanggung jawab kecil yang konkret: memimpin giliran piket kebersihan kamar, mengelola jadwal muraja'ah kelompok kecil, atau menjadi koordinator perpustakaan kamar. Pembina hadir mendampingi dan memberikan umpan balik evaluatif mingguan.
+3. **Fase Inisiatif dan Pengambilan Keputusan (Jenjang J3):**  
+   Santri mulai memegang amanah yang lebih luas: mengorganisasi kepanitiaan acara santri, memediasi perselisihan kecil antarteman sebaya, dan merancang inisiatif kegiatan sosial di lingkungan asrama. Pengawasan pembina mulai ditarik ke belakang sebagai konselor fasilitatif.
+4. **Fase Khidmah Kepemimpinan Penuh (*Ar-Rusyd* / Jenjang J4):**  
+   Santri mencapai puncak kematangan. Mereka diamanahi memimpin roda organisasi santri, mengasuh kamar adik kelas, dan menjadi jembatan komunikasi antara santri dan dewan pembina asrama dengan penuh amanah, welas asih, dan kearifan.[^15]
+
+---
+
+## Tolok Ukur Pamungkas: Melahirkan Pemimpin yang Lebih Baik
+
+Ujian terbesar dari kebesaran seorang pemimpin bukanlah seberapa lama ia mampu mempertahankan jabatannya, melainkan: **apakah ia berhasil menyiapkan generasi penerus yang kelak mampu memimpin dengan jauh lebih bijaksana dan lebih hebat daripadanya?**[^16]
+
+Pemimpin yang egois akan memusatkan seluruh pengetahuan, relasi, dan wewenang pada dirinya sendiri agar ia selalu dibutuhkan dan dipuja. Ketika ia pergi, organisasi tersebut akan limbung dan runtuh. Sebaliknya, pemimpin profetik yang amanah senantiasa membuka ruang, mendelegasikan wewenang, mendidik calon penggantinya, dan berbahagia ketika melihat adik-adik binaannya bertumbuh melampaui capaian dirinya.[^17]
+
+Setelah menata prinsip pembangunan pemimpin yang berkesinambungan ini, pertanyaan penutup mengemuka: **apa sajakah implikasi filosofis dan operasional menyeluruh dari konsep kepemimpinan ini bagi arsitektur sistem TUMBUH?**
+
+---
+
+## Catatan Kaki
+
+[^1]: Day, D. V., Fleenor, J. W., Atwater, L. E., Sturm, R. E., & McKee, R. A. (2014). Advances in leader and leadership development: A review of 25 years of research and theory. *The Leadership Quarterly*, 25(1), 63–82.
+[^2]: Al-Ghazali, Abu Hamid. (2005). *Ihya' 'Ulum al-Din*. Dar Ibnu Hazm, Jilid 3, Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq, hlm. 944–952.
+[^3]: Al-Muhasibi, Al-Harits. (1971). *Ar-Ri'ayah li Huquqillah*. Dar al-Kutub al-'Ilmiyyah, hlm. 82–95 (urgensi mengendalikan dorongan nafsu pribadi sebelum memimpin orang lain).
+[^4]: Al-Mawardi, Ali bin Muhammad. (1987). *Adab ad-Dunya wad-Din*. Beirut: Dar Maktabat al-Hayah, hlm. 128.
+[^5]: PROBE P0209. (2025). *Internalized Understanding vs. Cosmetic Compliance in Boarding School Environments*. Arsip Penyelidikan Desain TUMBUH.
+[^6]: Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. International Institute of Islamic Thought and Civilization (ISTAC), hlm. 33–42.
+[^7]: PROBE P0227. (2025). *Safeguarding Dignity: Eliminating Feudal Hierarchies in Student Leadership Frameworks*. Arsip Penyelidikan Desain TUMBUH.
+[^8]: Bandura, A. (1973). *Aggression: A Social Learning Analysis*. Prentice-Hall, hlm. 43–68 (teori penularan perilaku agresi melalui observasi kekerasan).
+[^9]: Greenleaf, R. K. (1970). *The Servant as Leader*. Robert K. Greenleaf Center, hlm. 1–18.
+[^10]: Ibnu Jama'ah, Badruddin. (2012). *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim*. Dar al-Basyair al-Islamiyyah, hlm. 68–85.
+[^11]: Day, D. V., Fleenor, J. W., Atwater, L. E., Sturm, R. E., & McKee, R. A. (2014). Advances in leader and leadership development: A review of 25 years of research and theory. *The Leadership Quarterly*, 25(1), 63–82. https://doi.org/10.1016/j.leaqua.2013.11.004
+[^12]: Daniëls, E., Hondeghem, A., & Dochy, F. (2019). A review on leadership and leadership development in educational settings. *Educational Research Review*, 27, 110–125. https://doi.org/10.1016/j.edurev.2019.02.003
+[^13]: Lawrason, S. V. C., Shaw, R. B., Turnnidge, J., & Côté, J. (2023). Characteristics of transformational leadership development programs: A scoping review. *Evaluation and Program Planning*, 101, 102354. https://doi.org/10.1016/j.evalprogplan.2023.102354
+[^14]: PROBE P0004. (2025). *Distinction between Capacity, Competency, Behavior, and Transient State in Educational Assessment*. Arsip Penyelidikan Desain TUMBUH.
+[^15]: Ibnu Asyur, M. ath-Thahir. (1984). *Tafsir at-Tahrir wat-Tanwir*. Ad-Dar at-Tunisiyyah lin-Nasyr, Jilid 4, hlm. 238–244 (makna kematangan kemandirian rusyd).
+[^16]: Hargreaves, A., & Fink, D. (2006). *Sustainable Leadership*. Jossey-Bass, hlm. 55–78.
+[^17]: Al-Ghazali, Abu Hamid. (1987). *At-Tibr al-Masbuk fi Nashihat al-Muluk*. Dar al-Kutub al-'Ilmiyyah, hlm. 72–85.
