@@ -1,105 +1,90 @@
 # 09 Klasifikasi Epistemik
 
-Dokumen ini menjadi peta ringkas untuk mengenali **apa sebenarnya yang sedang dikatakan oleh sebuah pernyataan dalam TUMBUH**.
+Dokumen ini berfungsi sebagai peta navigasi ringkas untuk mengenali secara cepat dan tepat: **apa sesungguhnya yang sedang dinyatakan oleh sebuah kalimat atau keputusan dalam sistem TUMBUH?**
 
-Ini penting karena satu kalimat bisa terdengar seperti fakta, padahal sebenarnya sedang menyatakan nilai. Kalimat lain bisa terdengar seperti hasil penelitian, padahal baru merupakan usulan desain. Kalau semuanya diberi perlakuan yang sama, pembaca akan sulit mengetahui mana yang sudah diketahui, mana yang ditetapkan oleh sistem, dan mana yang masih perlu diuji.
+Kejelasan peta ini sangat krusial dalam kehidupan asrama dan manajemen pesantren. Sering kali sebuah kalimat terdengar meyakinkan layaknya fakta ilmiah, padahal sesungguhnya baru sebatas pernyataan nilai moral. Di sisi lain, sebuah gagasan baru terdengar seolah-olah sudah menjadi aturan paten, padahal sebenarnya baru berupa usulan desain yang masih perlu diuji coba. Apabila semua pernyataan diperlakukan secara serampangan, para santri, musyrif, dan asatidz akan kesulitan membedakan mana yang merupakan prinsip syariat abadi, mana yang merupakan kesepakatan istilah, mana yang merupakan temuan empiris di lapangan, dan mana yang masih berupa dugaan awal.
 
-## Tujuh jenis klaim
+## Matriks Tujuh Jenis Klaim TUMBUH
 
-| Jenis | Arti sederhana | Dasar utama | Contoh |
+Setiap klaim yang dirumuskan dalam modul kurikulum, SOP pengasuhan, logbook musyrif, maupun naskah riset TUMBUH dikelompokkan ke dalam tabel klasifikasi berikut:
+
+| Jenis Klaim | Makna Hakiki | Landasan Pengujian Utama | Contoh Konkret di Pesantren |
 |---|---|---|---|
-| **Normative** | apa yang seharusnya | dasar nilai/normatif | pendidikan harus menjaga martabat manusia |
-| **Definitional** | arti istilah yang digunakan | keputusan atau konstruksi sistem | definisi sebuah kapasitas dalam TUMBUH |
-| **Empirical** | apa yang ditemukan dari pengamatan atau penelitian | data/evidence empiris | perubahan perilaku yang teramati |
-| **Design** | bagaimana sistem sebaiknya dirancang | prinsip, kebutuhan, evidence | memilih struktur program tertentu |
-| **Causal** | apakah sesuatu menyebabkan perubahan | desain dan evidence yang sesuai untuk sebab-akibat | program X menyebabkan perubahan Y |
-| **Hypothesis** | dugaan yang masih perlu diuji | alasan awal + pertanyaan penelitian | program X mungkin meningkatkan Y |
-| **Simulation** | apa yang diperkirakan oleh sebuah model | model dan asumsi | proyeksi dari model perkembangan |
+| **Normatif (*Normative*)** | Menegaskan apa yang **seharusnya** diwujudkan menurut fitrah dan syariat | Nash wahyu Al-Qur'an & Sunnah, Maqashid Syari'ah, amanah fitrah | *"Pendidikan pesantren wajib memuliakan santri dan mengharamkan segala bentuk kekerasan fisik."* |
+| **Definisional (*Definitional*)** | Menetapkan **batasan arti** sebuah istilah atau konsep dalam sistem | Ketetapan stipulatif konseptual, kejelasan batas (*al-hadd*), konsistensi | *"Dalam arsitektur TUMBUH, Adab didefinisikan sebagai pengenalan dan pengakuan atas posisi hakiki segala sesuatu sesuai ketetapan Allah."* |
+| **Empiris (*Empirical*)** | Melaporkan fakta faktual yang **teramati atau terukur** di dunia nyata | Data observasi lapangan, logbook terstandar, dokumen riil | *"Pada triwulan pertama, 20 dari 25 santri baru di Asrama Umar telah mampu bangun sebelum adzan shubuh."* |
+| **Desain (*Design*)** | Menjelaskan pilihan **rancangan arsitektur** atau model intervensi | Prinsip fitrah, kelayakan teknis lapangan (*feasibility*), efisiensi | *"TUMBUH membagi jenjang kemandirian santri ke dalam 4 tingkatan (J1 hingga J4) agar pendampingan berlangsung bertahap."* |
+| **Kausal (*Causal*)** | Menyatakan bahwa faktor X secara langsung **menyebabkan** perubahan pada Y | Metodologi riset terkontrol, urutan waktu yang runtut, eliminasi variabel pengganggu | *"Pelaksanaan lingkaran restoratif (ishlah al-bain) secara langsung menurunkan frekuensi konflik antar-santri."* |
+| **Hipotesis (*Hypothesis*)** | Menyatakan **dugaan terarah** yang masuk akal namun belum tuntas diuji | Teori ilmiah awal, analogi logis, pertanyaan riset terbuka | *"Santri yang rutin melakukan olahraga memanah diduga memiliki daya konsentrasi menghafal yang lebih tinggi."* |
+| **Simulasi (*Simulation*)** | Menyatakan **proyeksi skenario** hasil perhitungan model matematis/logika | Asumsi parameter matematis, model komputasi kohort | *"Model simulasi kohort memperkirakan 85% santri akan mandiri pada tahun ke-3 jika rasio musyrif dijaga 1:12."* |
 
-Nama-nama ini bukan label untuk mengatakan bahwa suatu klaim benar atau salah. Label hanya memberi tahu kita **klaim itu harus diperlakukan seperti apa**.
+Label-label klasifikasi di atas bukanlah stempel untuk memvonis benar atau salahnya suatu ucapan. Label tersebut berfungsi memberi tahu kita: **dengan timbangan mana pernyataan tersebut wajib diuji**.
 
-## Jenis klaim berbeda dari tingkat keyakinan
+## Memisahkan Jenis Klaim dari Derajat Keyakinan
 
-Ini bagian yang mudah tertukar.
+Salah satu kerancuan berpikir yang sering terjadi adalah mengacaukan antara *identitas kategori klaim* dengan *derajat kekuatan buktinya*.
 
-Sebuah klaim empirical bisa memiliki evidence yang sangat kuat atau sangat terbatas. Klaim causal bisa masih berupa dugaan atau sudah memperoleh dukungan dari penelitian yang dirancang untuk menguji sebab-akibat.
+Sebuah klaim **empiris** bisa saja didukung oleh ribuan data observasi yang sangat solid, atau sebaliknya hanya didasarkan pada laporan sepintas satu orang santri yang belum tentu benar. Demikian pula, sebuah klaim **kausal** bisa saja baru sebatas dugaan di atas kertas, atau sudah terkonfirmasi melalui penelitian quasi-eksperimental yang ketat selama bertahun-tahun.
 
-Jadi TUMBUH perlu menyimpan setidaknya dua informasi yang berbeda:
+Oleh sebab itu, dalam tata kelola data TUMBUH, setiap catatan pengetahuan wajib memuat dua variabel yang terpisah:
 
-1. **jenis klaim** — klaim ini sebenarnya termasuk apa;
-2. **status atau tingkat dukungan** — seberapa kuat dasar yang kita miliki saat ini.
+$$\text{Status Pengetahuan} = \Big\langle \, \text{Jenis Klaim (Kategori)} \; , \; \text{Tingkat Dukungan Bukti (Derajat Keyakinan)} \, \Big\rangle$$
 
-Dengan pemisahan ini, sebuah klaim dapat berubah status tanpa harus mengubah identitas klaimnya.
+Dengan pemisahan yang jernih ini, sebuah klaim dapat mengalami kenaikan status pembuktian tanpa kehilangan identitas aslinya. Sebagai misal, kalimat *"program pendampingan sebaya membantu menurunkan kecemasan santri baru"* bermula sebagai **hipotesis** dengan tingkat dukungan *"diduga awal"*. Setelah dievaluasi selama satu tahun ajaran melalui asesmen komparatif, statusnya naik menjadi klaim **empiris/desain** dengan tingkat dukungan *"didukung kuat oleh data lapangan"*.
 
-Contohnya, pernyataan “program pendampingan mungkin meningkatkan keteraturan” dapat dimulai sebagai **hypothesis**. Setelah diuji, hasilnya mungkin memberikan evidence yang mendukung. Tetapi hasil tersebut tetap perlu dibaca sesuai konteks dan desain penelitian.
+## Larangan Mencampuradukkan Fakta, Nilai, dan Rancangan Desain
 
-## Jangan mencampur fakta, nilai, dan keputusan desain
+Perhatikan kembali tiga potong kalimat berikut yang kerap diucapkan dalam satu tarikan napas:
 
-Perhatikan tiga kalimat berikut:
+1. *“Martabat kemanusiaan santri wajib dijaga dari segala bentuk perundungan (bullying).”*
+2. *“Dalam tiga bulan terakhir di Asrama B, tercatat ada 4 kasus perselisihan antarkamar.”*
+3. *“Oleh karena itu, TUMBUH menerapkan sistem mediasi restoratif mingguan antarkamar.”*
 
-- “Martabat manusia harus dijaga dalam pendidikan.”
-- “Dalam data sekolah ini, keterlambatan menurun setelah program berjalan.”
-- “Karena itu, TUMBUH menggunakan pendampingan bertahap.”
+Ketiga kalimat di atas saling terkait erat, namun masing-masing memikul tugas epistemik yang sama sekali berbeda:
+- Kalimat pertama adalah **pernyataan nilai (normatif)** yang berpijak pada hukum syariat;
+- Kalimat kedua adalah **pelaporan fakta (empiris)** yang berpijak pada catatan insiden nyata;
+- Kalimat ketiga adalah **pilihan tindakan (desain)** yang merupakan ikhtiar manajerial manusiawi.
 
-Ketiganya berhubungan, tetapi pekerjaannya berbeda.
+Jika ketiga kalimat ini dicampurbaurkan tanpa penjelasan statusnya, seorang pengasuh bisa saja keliru menganggap bahwa "sistem mediasi mingguan" itu hukumnya wajib layaknya shalat lima waktu (mengacaukan desain dengan syariat), atau mengira bahwa larangan perundungan baru berlaku jika angka survei statistik di asrama menunjukkan angka tertentu (mengacaukan nilai normatif dengan fakta empiris). Pembedaan klasifikasi ini menyelamatkan kita dari kerancuan nalar tersebut.
 
-Kalimat pertama adalah **normative**. Kalimat kedua adalah **empirical**. Kalimat ketiga adalah **design**.
+## Tiga Pertanyaan Panduan Operasional di Lapangan
 
-Kalau ketiganya dicampur dalam satu paragraf tanpa penjelasan, pembaca bisa mengira bahwa keputusan desain merupakan fakta ilmiah, atau bahwa sebuah nilai harus dibuktikan dengan statistik. Padahal cara memeriksanya berbeda.
+Ketika seorang musyrif, asatidz, atau santri senior hendak menulis laporan atau mengusulkan kebijakan baru di pesantren, ajukan tiga pertanyaan penuntun ini:
 
-## Bagaimana klasifikasi dipakai?
+1. **Sebenarnya kita sedang berbicara pada tataran apa?**  
+   Apakah kita sedang menetapkan nilai kebaikan? Menjelaskan arti istilah? Melaporkan apa yang terjadi di lapangan? Merancang mekanisme teknis? Mengajukan dugaan penelitian? Atau sedang memproyeksikan skenario masa depan?
+2. **Apa dasar timbangan yang wajib kita gunakan?**  
+   Gunakan dalil syar'i untuk nilai normatif; gunakan instrumen observasi yang sahih untuk fakta empiris; gunakan analisis kebutuhan dan evaluasi dampak untuk rancangan desain.
+3. **Seberapa jauh kita berhak berbicara dan menarik kesimpulan?**  
+   Batasi kesimpulan hanya sejauh data dan dalil yang nyata-nyata tersedia. Jangan pernah melompat pada kesimpulan besar yang melampaui bukti.
 
-Saat sebuah klaim masuk ke dokumen TUMBUH, kita dapat bertanya:
+## Menjaga Ketertiban Bahasa Dokumen
 
-**Pertama, sebenarnya kita sedang mengatakan apa?**
+TUMBUH membakukan panduan pilihan diksi agar pembaca langsung memahami derajat kepastian dari teks yang dibacanya:
 
-Apakah kita sedang menetapkan nilai? Mendefinisikan istilah? Melaporkan temuan? Membuat rancangan? Mengajukan dugaan? Atau membuat model?
+```text
+Ketetapan Syariat/Nilai  ──► "TUMBUH menetapkan...", "Prinsip syariat mewajibkan..."
+Temuan Lapangan Teruji   ──► "Data catatan asrama menunjukkan...", "Riset mengonfirmasi..."
+Keterkaitan Tanpa Kausal ──► "Fenomena A berkorelasi positif dengan fenomena B..."
+Indikasi Awal Sederhana  ──► "Temuan awal ini mengindikasikan bahwa..."
+Dugaan Riset Terbuka     ──► "Kami mengajukan hipotesis bahwa..."
+Proyeksi Matematis       ──► "Model komputasi memperkirakan..."
+Kausalitas Terbukti      ──► "Penerapan intervensi A menyebabkan penurunan B..."
+                             (Hanya jika memenuhi protokol pembuktian kausal)
+```
 
-**Kedua, apa dasar yang kita gunakan?**
+## Terhubung Langsung dengan *Claim Registry*
 
-Setelah jenis klaim dikenali, kita bisa memilih dasar pemeriksaan yang tepat.
+Peta klasifikasi epistemik ini menjadi kerangka acuan utama bagi pengisian instrumen **Claim Registry** di seluruh jaringan lembaga TUMBUH.[^1] 
 
-**Ketiga, seberapa jauh kita boleh berbicara?**
+Setiap entri pengetahuan yang didaftarkan ke dalam sistem akan memiliki rekaman identitas digital yang lengkap:
 
-Kesimpulan harus berhenti pada batas yang memang didukung oleh dasar yang tersedia.
+$$\text{Teks Klaim} \longrightarrow \text{Kategori Klaim} \longrightarrow \text{ID Bukti (Evidence Registry)} \longrightarrow \text{Status Keyakinan} \longrightarrow \text{Batas Keberlakuan} \longrightarrow \text{Keputusan Terkait}$$
 
-Inilah alasan TUMBUH perlu menghindari kalimat seperti **“sudah terbukti”** jika yang tersedia sebenarnya baru data awal, pengalaman praktisi, atau hasil pada konteks terbatas.
+Melalui keteraturan ini, pesantren bertransformasi menjadi komunitas pembelajar (*learning organization*) yang dinamis. Ketika ada temuan riset baru atau evaluasi lapangan yang menuntut penyempurnaan kurikulum, perubahan dapat dilakukan secara elegan, ilmiah, dan beradab tanpa mencederai prinsip-prinsip fitrah yang fundamental.
 
-## Bahasa yang dipakai juga perlu dijaga
+---
 
-Pilihan kata membantu pembaca memahami status pengetahuan.
+## Catatan Kaki
 
-- Untuk keputusan normatif: **“TUMBUH menetapkan...”**
-- Untuk temuan: **“Data menunjukkan...”** atau **“Literatur menemukan...”**
-- Untuk hubungan yang belum jelas sebabnya: **“berkaitan dengan...”**
-- Untuk indikasi awal: **“mengindikasikan...”**
-- Untuk dugaan yang masih diuji: **“kami mengajukan hipotesis...”**
-- Untuk hasil model: **“model memperkirakan...”**
-- Untuk sebab-akibat: gunakan **“menyebabkan”** hanya jika dasar dan desainnya memang memungkinkan kesimpulan tersebut.
-
-Bahasa seperti ini bukan sekadar soal gaya menulis. Ia menjaga agar pembaca tidak menerima tingkat kepastian yang lebih tinggi daripada yang sebenarnya kita miliki.
-
-## Hubungannya dengan Claim Registry
-
-Klasifikasi ini nantinya menjadi bagian dari **Claim Registry**, yaitu tempat TUMBUH mencatat klaim penting yang menjadi dasar sistem.
-
-Setiap klaim idealnya dapat dilacak setidaknya pada:
-
-**klaim → jenis klaim → dasar/evidence → status dukungan → batas penggunaan → keputusan terkait.**
-
-Dengan begitu, ketika sebuah klaim berubah karena penelitian baru atau evaluasi lapangan, perubahan tersebut dapat dilacak tanpa harus membongkar seluruh sistem.
-
-Klasifikasi ini bukan akhir dari proses. Ia justru membuat pertanyaan berikutnya menjadi lebih jelas: **bagaimana TUMBUH memberi status pada sebuah klaim berdasarkan kekuatan evidence yang tersedia?**
-
-## Catatan kaki
-
-[^1]: Stanford Encyclopedia of Philosophy, “Confirmation,” substantive revision 4 August 2025. Evidence dapat memberi dukungan terhadap hipotesis, tetapi kesimpulan dari evidence tetap dapat keliru dan tidak selalu menghasilkan kepastian.
-[^2]: Stanford Encyclopedia of Philosophy, “Ibn Rushd [Averroes],” pembahasan tentang demonstrasi, penalaran, dan berbagai bentuk argumentasi. Lihat juga Ibn Rushd, *The Decisive Treatise*.
-
-### Sumber kunci
-
-- Stanford Encyclopedia of Philosophy, **Confirmation**.
-- Stanford Encyclopedia of Philosophy, **Evidence**.
-- Stanford Encyclopedia of Philosophy, **Ibn Rushd [Averroes]**.
-- Ibn Rushd, *The Decisive Treatise*.
-- Al-Ghazali, *al-Munqidh min al-Dalal* (*Deliverance from Error*).
+[^1]: Stanford Encyclopedia of Philosophy (SEP), “Confirmation,” edisi revisi substantif 2025, mengenai hubungan derajat probabilitas dan penegasan status hipotesis dalam logika induktif. Lihat pula Abu al-Walid Ibnu Rusyd, *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*, Kairo: Dar al-Ma'arif, 1983, tentang klasifikasi proposisi demonstratif, dialektis, dan retoris.

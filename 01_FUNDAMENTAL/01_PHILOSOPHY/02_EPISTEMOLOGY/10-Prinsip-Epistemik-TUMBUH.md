@@ -1,93 +1,99 @@
 # 10 Prinsip Epistemik TUMBUH
 
-Setelah membahas bagaimana pengetahuan diperoleh, diperiksa, dibandingkan, dan digunakan, TUMBUH membutuhkan beberapa kebiasaan yang harus dijaga ketika sistem bekerja.
+Setelah menelusuri bagaimana pengetahuan diperoleh, diperiksa, ditimbang bobot buktinya, digabungkan, dan diklasifikasikan, ekosistem TUMBUH merangkum seluruh adab keilmuan ini ke dalam sepuluh kebiasaan berpikir yang mengikat seluruh civitas pesantren.
 
-Prinsip ini bukan aturan untuk membuat dokumen terlihat ilmiah. Tujuannya lebih sederhana: **jangan mengatakan lebih dari yang kita ketahui, dan jangan menggunakan dasar yang tidak sesuai untuk mengambil keputusan.**
+Prinsip-prinsip ini bukan hiasan teoritis untuk membuat tata kelola tampak rumit dan bergaya akademis. Tujuannya sangat jernih dan membumi: **jangan pernah berbicara melebihi apa yang benar-benar kita ketahui, dan jangan pernah mengambil keputusan pengasuhan santri berdasarkan timbangan yang salah.**
 
-## Prinsip yang perlu dijaga
+## Sepuluh Prinsip Epistemik TUMBUH
 
-1. **Jelaskan jenis klaimnya.**
-   Pembaca perlu tahu apakah sebuah pernyataan bersifat normative, definitional, empirical, design, causal, hypothesis, atau simulation.
+```text
+ 1. Terangkan Jenis Klaimnya       ─── Normatif, Definisional, Empiris, Desain, dsb.
+ 2. Transparansi Landasan Dasar   ─── Dari mana dalil atau buktinya berasal?
+ 3. Tepat Memilih Alat Uji        ─── Gunakan timbangan yang sepadan dengan objeknya.
+ 4. Kesimpulan Seimbang Bukti     ─── Jangan melompat melampaui data yang tersedia.
+ 5. Pilah Fakta, Nilai, & Desain ─── Jangan campur adukkan data dengan dogma kelembagaan.
+ 6. Akui Batas Ketidakpastian     ─── Jangan tutupi celah data dengan kepastian palsu.
+ 7. Fleksibel Menerima Koreksi    ─── Bersedia memperbarui diri saat bukti baru tiba.
+ 8. Jaga Batas Fitrah Sumber Ilmu ─── Hormati fungsi khas wahyu, akal, dan sains empiris.
+ 9. Junjung Kerendahan Hati Ilmiah─── Berani mengakui "kami belum cukup tahu".
+10. Silsilah Keputusan Tertelusur ─── Setiap vonis penting wajib memiliki rekam jejak.
+```
 
-2. **Jelaskan dasar klaimnya.**
-   Klaim penting perlu memiliki sumber, data, alasan, atau keputusan desain yang dapat ditelusuri.
+### 1. Jelaskan Jenis Klaimnya secara Terang
+Setiap pernyataan yang dipublikasikan dalam naskah modul, diumumkan dalam instruksi asrama, atau dicatat dalam logbook harus terang statusnya: apakah ia merupakan klaim normatif, definisional, empiris, desain, kausal, hipotesis, atau hasil simulasi komputasi.
 
-3. **Sesuaikan cara pemeriksaan dengan pertanyaannya.**
-   Pertanyaan tentang nilai, pengalaman lapangan, efektivitas program, dan sebab-akibat tidak dapat diperiksa dengan satu cara yang sama.
+### 2. Jelaskan Landasan Dasarnya secara Terbuka
+Setiap klaim yang memiliki konsekuensi bagi kehidupan santri wajib memiliki akar rujukan yang jelas: apakah dalil syar'i, temuan riset terakreditasi, catatan observasi lapangan, ataukah pertimbangan ijtihad manajerial pesantren.
 
-4. **Jangan membuat kesimpulan lebih besar daripada evidence.**
-   Evidence memberi dukungan sejauh yang memang dapat ditunjukkannya. Evidence yang baik tetap tidak membuat semua kesimpulan menjadi pasti.[^1]
+### 3. Sesuaikan Cara Pemeriksaan dengan Hakikat Pertanyaannya
+Persoalan nilai moral dan syariat diperiksa dengan kaidah istinbath dan tafsir turats; efektivitas program asrama diperiksa dengan observasi data empiris; sedangkan hubungan sebab-akibat diperiksa dengan rancangan penelitian terkontrol. Dilarang memaksakan satu metode untuk semua ranah persoalan.
 
-5. **Bedakan apa yang ditemukan, apa yang dinilai, dan apa yang dirancang.**
-   Data, nilai, dan keputusan desain dapat saling berhubungan, tetapi tidak boleh disamarkan sebagai hal yang sama.
+### 4. Jangan Membuat Kesimpulan Lebih Besar daripada Buktinya
+Sebuah bukti hanya berlaku sejauh apa yang nyata-nyata dibuktikannya. Fakta bahwa sepuluh santri di satu kamar mengalami kemajuan adab tidak boleh digeneralisasikan secara serampangan menjadi klaim mujarab bagi seluruh santri di Indonesia.[^1]
 
-6. **Nyatakan ketidakpastian.**
-   Jika evidence terbatas, konteksnya sempit, hasilnya belum konsisten, atau ada penjelasan alternatif yang masuk akal, pembaca perlu mengetahuinya.
+### 5. Bedakan Antara Apa yang Ditemukan, Apa yang Dinilai, dan Apa yang Dirancang
+Catatan perilaku di asrama (temuan fakta), prinsip kasih sayang terhadap anak (nilai normatif), dan struktur jadwal piket kamar (rancangan desain) saling berhubungan, namun tidak boleh disamarkan sebagai hal yang sama kedudukannya.
 
-7. **Bersedia mengubah kesimpulan.**
-   Ketika evidence baru menunjukkan bahwa sebuah klaim atau desain perlu diperbaiki, TUMBUH harus dapat mengoreksinya. Mempertahankan keputusan lama hanya karena sudah pernah ditulis bukan tanda keteguhan ilmiah.
+### 6. Nyatakan Batas Ketidakpastian secara Jujur
+Apabila data lapangan masih minim, sampel santri masih terbatas, atau ada penjelasan alternatif lain yang masuk akal, pengasuh dan peneliti wajib menyatakannya secara terus terang tanpa rasa cemas akan wibawanya.
 
-8. **Jaga fungsi setiap sumber pengetahuan.**
-   Wahyu, akal, pengalaman, pengamatan, kesaksian, dan penelitian dapat memiliki fungsi yang berbeda. TUMBUH tidak perlu memaksa satu sumber menjawab semua jenis pertanyaan.
+### 7. Bersedia Mengubah Kesimpulan di Hadapan Bukti yang Lebih Kuat
+Ilmu dan sistem pembinaan tumbuh melalui keterbukaan terhadap evaluasi. Jika data lapangan atau riset baru membuktikan bahwa sebuah intervensi asrama tidak efektif, TUMBUH wajib memperbaikinya secara ksatria. Mempertahankan prosedur lama yang terbukti gagal semata-mata demi gengsi kelembagaan adalah pengkhianatan terhadap amanah keilmuan.
 
-9. **Jaga kerendahan hati intelektual.**
-   Ketika informasi belum cukup, lebih baik mengatakan **“belum cukup diketahui”** daripada mengisi kekosongan dengan dugaan yang ditulis seolah-olah fakta.[^2]
+### 8. Jaga Fungsi Unik Setiap Saluran Pengetahuan
+Wahyu ilahi memberi arah kiblat dan nilai abadi; akal sehat merajut logika dan hikmah; indra dan sains empiris memotret realitas fenomena alam; sedangkan kesaksian terpercaya merawat ikatan ukhuwah sosial. TUMBUH tidak memaksakan wahyu menjadi buku teknis eksperimen biologi, dan tidak membiarkan sains meruntuhkan batas-batas akidah dan adab syariat.
 
-10. **Buat keputusan dapat ditelusuri.**
-    Pembaca perlu dapat mengikuti hubungan antara sumber, klaim, evidence, pertimbangan, dan keputusan yang diambil.
+### 9. Junjung Tinggi Kerendahan Hati Intelektual (*Intellectual Humility*)
+Ketika bukti dan informasi belum memadai untuk menjatuhkan penilaian terhadap kondisi seorang santri, ungkapan *"kami belum cukup memiliki data untuk menyimpulkan"* jauh lebih mulia dan beradab daripada menebak-nebak secara gegabah.[^2] Dalam tradisi epistemologi kebajikan (*virtue epistemology*), kerendahan hati intelektual adalah mahkota adab para penuntut ilmu sejati.[^3]
 
-## Prinsip ini bukan berarti semua hal harus dibuat rumit
+### 10. Bangun Keterlacakan Keputusan (*Decision Traceability*)
+Setiap kebijakan strategis di pesantren—terutama yang menyangkut penilaian kelulusan adab, penanganan kasus khusus pelanggaran, atau perubahan kurikulum—wajib memiliki mata rantai penelusuran yang runtut: dari pertanyaan masalah, data mentah, pertimbangan syariat, hingga vonis keputusan yang diambil.
 
-Ada risiko lain yang perlu dihindari: epistemic discipline berubah menjadi birokrasi dokumentasi.
+## Disiplin Epistemik Bukan Birokrasi yang Melelahkan
 
-Tidak setiap percakapan mentor perlu memiliki sepuluh sumber. Tidak setiap keputusan operasional membutuhkan telaah penelitian yang panjang. Tingkat dokumentasi harus sebanding dengan **pentingnya keputusan, risiko kesalahan, dan besarnya klaim**.
+Penerapan prinsip epistemik ini tidak boleh disalahartikan sebagai kewajiban membuat birokrasi persuratan yang berbelit-belit di asrama. Musyrif tidak perlu menulis makalah ilmiah tebal hanya untuk menegur santri yang membuang sampah sembarangan.
 
-Keputusan yang menyangkut keselamatan santri, perubahan besar dalam sistem, atau klaim efektivitas program membutuhkan dasar yang lebih kuat dan jejak keputusan yang lebih jelas daripada keputusan teknis sehari-hari yang risikonya rendah.
+TUMBUH menegakkan prinsip **proporsionalitas risiko (*risk-proportionate rigor*)**:
 
-Jadi prinsip epistemik tidak berarti **“semua harus akademik.”** Prinsipnya adalah **“setiap keputusan perlu memiliki dasar yang cukup untuk tingkat risikonya.”**
+| Tingkat Dampak Keputusan | Tingkat Kedalaman Verifikasi Epistemik |
+|---|---|
+| **Rendah (Rutin Harian)**  <br>*(Contoh: rotasi piket kamar, teguran lisan kerapian)* | Cukup dialog empat mata, keadilan sikap, dan pencatatan sederhana di buku saku. |
+| **Menengah (Program Asrama)**  <br>*(Contoh: penetapan jadwal halaqah baru, evaluasi metode belajar)* | Memerlukan triangulasi data observasi, kuesioner singkat, dan musyawarah evaluasi tim. |
+| **Tinggi (Kasus Kritis & Kebijakan)**  <br>*(Contoh: vonis status adab santri, penanganan kasus perundungan, modifikasi kurikulum inti)* | Wajib memenuhi standar verifikasi penuh: audit bukti (*Evidence Registry*), pelacakan klaim (*Claim Registry*), dan sidang pertimbangan syariat/pedagogis formal. |
 
-## Ketika evidence baru muncul
+Dengan demikian, disiplin epistemik menjadi pelindung keadilan yang fleksibel, bukan beban administratif yang melumpuhkan tindakan.
 
-TUMBUH perlu menganggap pengetahuan sebagai sesuatu yang dapat diperbaiki tanpa kehilangan arah sistem.
+## Memandang Bukti Baru sebagai Sarana Pembelajaran Sistem
 
-Jika penelitian baru memperlihatkan bahwa sebuah intervensi tidak bekerja seperti yang diperkirakan, TUMBUH tidak perlu mempertahankan klaim lama demi konsistensi semu. Yang perlu dipertahankan adalah prinsip dan integritas prosesnya; klaim empiris dan desain dapat diperbarui.
+Dalam perjalanannya, sebuah pesantren pasti akan menjumpai situasi di mana program yang dirancang dengan sangat indah ternyata tidak berjalan mulus di lapangan. Bagi TUMBUH, kenyataan pahit tersebut bukanlah aib yang harus ditutup-tutupi dari wali santri atau yayasan.
 
-Hal yang sama berlaku ketika pengalaman lapangan menunjukkan masalah yang tidak terlihat dalam penelitian sebelumnya. Pengalaman tersebut tidak otomatis membatalkan penelitian, tetapi dapat menjadi alasan untuk memeriksa konteks, pengukuran, atau pertanyaan yang selama ini digunakan.
+Data kegagalan lapangan (*negative findings*) diposisikan sebagai cermin pembelajaran yang sangat berharga. Ia memberi tahu kita bahwa ada sunnatullah perkembangan manusia yang belum kita pahami secara utuh, atau ada kondisi kultural santri yang terlewatkan dalam rancangan awal. Dengan menyambut bukti baru secara lapang dada, sistem TUMBUH senantiasa belajar, memurnikan diri, dan bertumbuh menuju kesempurnaan.
 
-Dengan cara ini, TUMBUH tidak memandang **evidence baru sebagai ancaman terhadap sistem**, melainkan sebagai bagian dari mekanisme belajar sistem.
+## Integrasi Menyeluruh ke Dalam Arsitektur Repositori
 
-## Hubungannya dengan struktur TUMBUH
+Sepuluh prinsip epistemik ini bukanlah teks mati di dalam bab filsafat. Seluruh prinsip ini mengalir langsung dan mengendalikan arsitektur repositori TUMBUH:
 
-Prinsip-prinsip ini kemudian diterjemahkan ke bagian lain dari sistem:
+- **Claim Registry**: Mengunci komitmen transparansi jenis dan status setiap klaim sistem.
+- **Evidence Registry**: Mengarsip bukti nyata dan batasan metodologi yang menopang klaim.
+- **09_RESEARCH/**: Menjadi laboratorium inkuiri mandiri untuk menguji hipotesis dan mengevaluasi intervensi.
+- **Assessment Engine**: Menerjemahkan multi-source triangulasi menjadi rubrik perkembangan santri yang adil.
+- **Intervention Engine**: Memastikan setiap tindakan korektif berakar pada diagnosis kebutuhan yang sahih, bukan emosi sesaat.
+- **Decision Traceability**: Menjamin setiap keputusan dapat dipertanggungjawabkan di hadapan wali santri, lembaga, dan di hadapan mahkamah Allah Subhanahu wa Ta'ala kelak di hari kiamat.
 
-- **Claim Registry** mencatat klaim penting dan jenisnya.
-- **Evidence Registry** mencatat dasar yang digunakan untuk mendukung atau menilai klaim.
-- **Research** menguji pertanyaan yang memang membutuhkan penelitian.
-- **Assessment** menghasilkan evidence tentang perkembangan dan kondisi peserta didik.
-- **Intervention** menggunakan pengetahuan untuk memilih bentuk dukungan yang sesuai.
-- **Implementation** menerjemahkan keputusan ke dalam praktik organisasi.
-- **Decision Log** menjaga jejak mengapa keputusan tertentu diambil dan dapat diperbarui ketika dasar keputusan berubah.
+## Ikrar Epistemik TUMBUH
 
-Dengan demikian, epistemologi tidak berhenti sebagai pembahasan di Foundation. Ia menjadi **cara kerja yang mengalir ke seluruh sistem TUMBUH**.
+Jika sepuluh prinsip di atas dipadatkan menjadi satu pedoman sikap hidup bagi seluruh insan TUMBUH, rumusannya terpatri dalam kalimat hikmah berikut:
 
-## Rumusan singkat
+> **“Pahami dengan jernih apa yang sedang kau katakan, telusuri dengan teliti dari mana dasarmu berpijak, timbanglah dengan alat ukur yang adil dan sepadan, bicaralah secukup bukti yang kau miliki, dan tundukkanlah jiwamu untuk menerima kebenaran ketika bukti yang lebih terang telah nyata.”**
 
-Jika seluruh pembahasan Epistemology TUMBUH harus diringkas menjadi satu kebiasaan, rumusannya adalah:
+Inilah pondasi epistemologi TUMBUH: menyatukan ketundukan mutlak pada wahyu ilahi dengan kejernihan nalar ilmiah yang beradab dan berkeadilan.
 
-> **Ketahui apa yang sedang diklaim, ketahui dari mana dasarnya, periksa apakah dasar itu sesuai, nyatakan kesimpulan secukupnya, dan bersedia memperbaikinya ketika alasan yang lebih baik tersedia.**
+---
 
-Itulah disiplin epistemik yang ingin dibangun TUMBUH.
+## Catatan Kaki
 
-### Catatan kaki
+[^1]: Stanford Encyclopedia of Philosophy (SEP), “Evidence,” edisi revisi substantif 2024; bandingkan dengan prinsip kehati-hatian induktif dalam Stanford Encyclopedia of Philosophy (SEP), “Confirmation,” edisi revisi 2025.
 
-[^1]: Stanford Encyclopedia of Philosophy, “Evidence,” tentang hubungan evidence dengan pembenaran dan dukungan terhadap klaim. Stanford Encyclopedia of Philosophy, “Confirmation,” substantive revision 4 August 2025, juga menekankan bahwa penalaran dari evidence tetap dapat keliru.
-[^2]: Stanford Encyclopedia of Philosophy, “Epistemology,” substantive revision 26 October 2024, tentang sumber pengetahuan, reliabilitas, justifikasi, dan batas pengetahuan.
-[^3]: Stanford Encyclopedia of Philosophy, “Virtue Epistemology,” tentang kebajikan intelektual, tanggung jawab epistemik, dan kualitas agen dalam proses mengetahui.
+[^2]: Stanford Encyclopedia of Philosophy (SEP), “Epistemology,” edisi revisi substantif 2024, bagian Epistemic Justification and Fallibility.
 
-### Sumber kunci
-
-- Stanford Encyclopedia of Philosophy, **Epistemology**.
-- Stanford Encyclopedia of Philosophy, **Evidence**.
-- Stanford Encyclopedia of Philosophy, **Confirmation**.
-- Stanford Encyclopedia of Philosophy, **Virtue Epistemology**.
-- Al-Ghazali, *al-Munqidh min al-Dalal* (*Deliverance from Error*).
+[^3]: Jason Baehr, *The Inquiring Mind: On Intellectual Virtues and Virtue Epistemology*, Oxford: Oxford University Press, 2011; lihat pula Stanford Encyclopedia of Philosophy (SEP), “Virtue Epistemology,” edisi revisi 2024, mengenai kebajikan kerendahan hati intelektual (*intellectual humility*), ketelitian (*open-mindedness*), dan kehati-hatian (*epistemic conscientiousness*).

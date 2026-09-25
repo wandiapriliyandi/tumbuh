@@ -1,98 +1,119 @@
 # 04 Cara Memeriksa dan Menilai Pengetahuan
 
-Memiliki informasi belum berarti kita memiliki pengetahuan yang kuat. Informasi perlu diperiksa.
+Memiliki segudang informasi belum berarti kita memiliki pengetahuan yang kokoh. Di era keterbukaan informasi dan kehidupan asrama yang dinamis, kabar angin, dugaan sepintas, dan angka-angka statistik berseliweran setiap hari. Informasi mentah tersebut tidak boleh langsung ditelan mentah-mentah, melainkan wajib diperiksa secara kritis dan bertanggung jawab.
 
-Pertanyaan dasarnya sederhana: **dari mana informasi ini berasal? Bagaimana informasi diperoleh? Apakah caranya sesuai dengan pertanyaan? Apa yang bisa membuat kita keliru? Dan seberapa jauh kesimpulan boleh dibuat?**
+Pertanyaan dasarnya sangat sederhana dan membumi: **Dari mana informasi ini berasal? Bagaimana cara informasi tersebut diperoleh? Apakah cara pencariannya sesuai dengan pertanyaan yang diajukan? Hal apa saja yang berpeluang membuat kita keliru? Dan seberapa jauh kesimpulan boleh ditarik tanpa melampaui batas bukti?**
 
-Pertanyaan seperti ini sudah lama menjadi perhatian epistemologi. Dalam pembahasan pengetahuan, yang penting bukan hanya apakah sebuah keyakinan benar, tetapi juga apakah ada alasan yang memadai untuk mempercayainya. Dalam epistemologi kontemporer, hal ini dibahas melalui konsep seperti *justification* (alasan yang mendukung keyakinan), evidence, dan reliabilitas sumber. [^1]
+Pertanyaan-pertanyaan kritis semacam ini telah menjadi pokok bahasan epistemologi selama berabad-abad. Dalam menimbang pengetahuan, persoalannya bukan semata apakah suatu keyakinan itu benar secara kebetulan, melainkan apakah terdapat alasan pembenar (*justification*), bukti (*evidence*), dan keandalan sumber (*reliability*) yang memadai untuk mempercayainya secara rasional dan etis.[^1]
 
-## Pemeriksaan mengikuti jenis pengetahuan
+## Pemeriksaan Mengikuti Jenis Pengetahuan
 
-Tidak semua hal perlu diperiksa dengan cara yang sama.
+Salah satu kekeliruan fatal dalam berpikir adalah memperlakukan semua persoalan dengan satu alat ukur yang sama. Menilai ketulusan niat dengan timbangan beras tentu keliru, sebagaimana menilai keabsahan dalil syariat dengan kuesioner survei. Pemeriksaan harus selalu mengikuti hakikat dan watak dari jenis pengetahuan yang sedang ditelaah:
 
-Untuk sebuah **definisi**, kita perlu melihat apakah maknanya jelas, tidak saling bertentangan, dan digunakan secara konsisten.
+1. **Untuk sebuah definisi**, pemeriksaan ditujukan pada kejelasan konsep (*clarity*), ketepatan batas makna, ketiadaan kontradiksi internal, dan konsistensi penggunaannya di seluruh sistem.
+2. **Untuk klaim empiris (fakta lapangan)**, pemeriksaan ditujukan pada metode pengumpulan data, keandalan instrumen observasi, keterwakilan sampel, kecukupan bukti, serta keterbukaan terhadap penjelasan tandingan (*alternative explanations*).
+3. **Untuk klaim normatif (nilai dan hukum moral)**, pemeriksaan ditujukan pada otoritas dan keabsahan dalil syar'i (*nash* wahyu), ketepatan istidlal (metode penarikan hukum), serta prinsip-prinsip maqashid syari'ah, bukan memaksanya tunduk pada persentase mayoritas atau statistik suara terbanyak.
+4. **Untuk keputusan desain arsitektur**, pemeriksaan ditujukan pada keselarasan keputusan dengan prinsip filosofis TUMBUH, kemampuannya menjawab persoalan nyata pengasuhan santri, serta kehati-hatian agar tidak mengklaim kepastian ilmiah yang melebihi bukti yang ada.
 
-Untuk **klaim empiris**, kita perlu melihat bagaimana data dikumpulkan, bagaimana sesuatu diukur, apakah datanya cukup baik, dan apakah ada penjelasan lain yang masuk akal.
+Dengan demikian, metode pengujian harus senantiasa proporsional: **letakkan setiap timbangan pada objek yang tepat**.
 
-Untuk **klaim normatif**, pertanyaannya berbeda. Kita perlu memeriksa sumber dan alasan normatif yang menjadi dasarnya, bukan memaksanya menjadi kesimpulan statistik.
+## Evidence Membantu, tetapi Tidak Berbicara Sendirian
 
-Untuk **keputusan desain**, kita perlu melihat apakah keputusan tersebut mengikuti prinsip TUMBUH, menjawab kebutuhan yang nyata, dan tidak membuat klaim empiris yang lebih kuat daripada evidence yang tersedia.
+Dalam epistemologi modern maupun penelitian lapangan, **evidence** dimaknai sebagai data, fakta, atau informasi terverifikasi yang digunakan untuk menilai kekuatan suatu pernyataan.[^2]
 
-Jadi, pemeriksaan harus mengikuti **jenis pengetahuan yang sedang diperiksa**.
+Namun, data dan angka tidak pernah berbicara sendiri. Manusia yang membaca, menafsirkan, dan memberi makna pada data tersebut. Sekumpulan angka kehadiran tahajud di asrama, misalnya, tidak otomatis menjelaskan tingkat keikhlasan seorang santri; ia hanya mencatat keteraturan fisik hadir di masjid. Informasi yang sama bahkan dapat melahirkan kesimpulan yang bertolak belakang apabila dibaca melalui asumsi atau hipotesis pembanding yang berbeda. Oleh karena itu, kesimpulan yang ditarik dari bukti empiris pada umumnya bersifat terbuka terhadap revisi (*fallible*).[^3]
 
-## Evidence membantu, tetapi tidak berbicara sendirian
+Bagi ekosistem TUMBUH, data logbook musyrif atau skor asesmen santri bukanlah jimat kepastian mutlak. Kita harus selalu bertanya: **apa yang sebenarnya diukur, bagaimana cara mengukurnya di lapangan, apa keterbatasan alat ukurnya, dan kesimpulan apa yang benar-benar sah untuk ditarik?**
 
-**Evidence** berarti bukti atau informasi yang digunakan untuk menilai sebuah pernyataan.
+## Validasi Bukan Berarti “Sudah Pasti Sempurna”
 
-Evidence dapat memperkuat sebuah hipotesis, tetapi tidak otomatis membuat hipotesis pasti benar. Dalam penalaran berbasis evidence, informasi yang sama bahkan dapat dipahami berbeda jika kita memiliki hipotesis atau informasi pembanding yang berbeda. Karena itu, kesimpulan dari evidence pada umumnya tetap memiliki kemungkinan salah. [^2]
+Istilah **validasi** sering kali disalahpahami sebagai stempel pembenaran mutlak yang membuat suatu program atau metode tidak boleh dikritik lagi. Dalam epistemologi ilmiah dan psikometri, validasi adalah proses pengujian sistematis untuk memastikan apakah suatu konsep, instrumen penilaian, atau keputusan tindakan memiliki landasan empiris dan teoretis yang memadai sesuai dengan tujuan spesifik penggunaannya.[^4]
 
-Hal ini penting bagi TUMBUH. Data bukan sekadar kumpulan angka. Kita perlu mengetahui **apa yang diukur, bagaimana mengukurnya, dan apa yang sebenarnya dapat disimpulkan dari hasil pengukuran tersebut**.
+Oleh karena itu, dalam tradisi ilmiah dan tata kelola TUMBUH, frasa mentereng seperti **“sudah tervalidasi”**, **“evidence-based”**, atau **“terbukti ampuh secara ilmiah”** dilarang keras dijadikan sekadar hiasan retorika atau alat pemasar program pembinaan. Pengelola dan pengasuh wajib mampu menerangkan secara jujur:
+- Aspek apa yang sebenarnya diuji?
+- Pada kelompok santri mana uji coba tersebut dilakukan?
+- Berapa lama waktu pengamatannya?
+- Apa saja batas kelemahan instrumen tersebut jika diterapkan di pesantren lain dengan karakteristik budaya yang berbeda?
 
-## Validasi bukan berarti “sudah terbukti”
+Sebuah rubrik adab di kamar asrama mungkin memiliki bukti keandalan yang baik untuk mengukur ketertiban merapikan ranjang bagi santri usia 13–15 tahun. Fakta tersebut tidak otomatis menjadikan rubrik tersebut sah digunakan untuk menghakimi kematangan spiritual santri secara keseluruhan.
 
-**Validasi** berarti proses memeriksa apakah suatu konstruk, instrumen, klaim, atau keputusan memiliki dasar yang memadai sesuai dengan tujuan penggunaannya.
+## Jangan Membuat Kesimpulan Lebih Besar daripada Buktinya
 
-Karena itu kalimat seperti **“sudah tervalidasi”**, **“evidence-based”**, atau **“terbukti efektif”** tidak boleh digunakan sebagai hiasan. Kita harus bisa menjelaskan: apa yang dinilai, untuk tujuan apa, berdasarkan bukti apa, dan apa batas penggunaannya.
+Salah satu bentuk ketidakjujuran intelektual yang paling sering terjadi adalah melompat pada kesimpulan besar dari pijakan bukti yang sangat sempit. TUMBUH menegakkan disiplin penarikan kesimpulan yang sangat ketat:
 
-Dalam TUMBUH, sebuah instrumen misalnya dapat memiliki bukti yang cukup untuk mengukur aspek tertentu pada konteks tertentu. Itu tidak otomatis berarti instrumen tersebut mengukur seluruh karakter manusia.
+1. **Generalisasi Berlebihan (*Hasty Generalization*)**: Jika sebuah metode pendampingan terbukti berhasil mengubah kedisiplinan pada sepuluh santri di satu kamar percontohan, kita dilarang langsung menyimpulkan bahwa metode tersebut "pasti berhasil untuk seluruh 500 santri di pesantren."
+2. **Mengacaukan Korelasi dengan Kausalitas**: Jika dua fenomena terjadi pada waktu yang bersamaan, kita dilarang menyimpulkan bahwa yang satu pasti menjadi penyebab bagi yang lain. Literatur *causal inference* kontemporer menegaskan bahwa hubungan statistik (korelasi) tidak sama dengan hubungan sebab-akibat (*causation*).[^5]
 
-## Jangan membuat kesimpulan lebih besar daripada buktinya
+Sebagai contoh nyata di asrama: data menunjukkan bahwa santri yang rutin minum madu setiap pagi memiliki nilai setoran hafalan Al-Qur'an lebih tinggi daripada santri yang tidak minum madu. Kita tidak boleh langsung membuat klaim kausal: *"Madu secara langsung melipatgandakan kecerdasan memori santri."* Bisa jadi, santri yang rutin minum madu memiliki orang tua yang lebih perhatian, pola tidur yang lebih teratur, atau pendampingan belajar yang lebih intensif di rumah. Mengklaim sebab-akibat menuntut metodologi dan kontrol variabel yang ketat, bukan sekadar melihat dua kurva grafik yang bergerak searah.
 
-Ini salah satu disiplin penting dalam TUMBUH.
+## Sumber yang Dapat Dipercaya Tetap Bisa Keliru
 
-Jika data hanya menunjukkan perubahan pada satu kelompok, kita tidak boleh langsung menyatakan bahwa hasil yang sama pasti berlaku untuk semua santri.
+Sebagian besar pengetahuan manusia dalam kehidupan sehari-hari dan tradisi pendidikan diperoleh melalui **kesaksian (*testimony*)**—baik berupa laporan teman, kesaksian musyrif, keterangan wali santri, maupun naskah kitab rujukan.[^6] Kehidupan pesantren tidak akan bisa berjalan tanpa saling percaya antarmanusia.
 
-Jika dua hal terjadi bersamaan, kita juga tidak boleh langsung menyatakan bahwa yang satu menyebabkan yang lain.
+Namun, menaruh kepercayaan (*tsiqah*) tidak sama dengan bersikap ceroboh (*tasahul*). Manusia yang paling jujur sekalipun tetap memiliki keterbatasan pandangan mata, rentan lupa, dapat keliru menangkap konteks pembicaraan, atau tanpa sadar dipengaruhi oleh suasana hati dan rasa lelah.
 
-Jika sebuah studi menemukan hubungan antara dua variabel, **hubungan** belum otomatis berarti **sebab-akibat**. Klaim kausal membutuhkan asumsi dan desain yang memungkinkan kita menilai kemungkinan penjelasan lain. Literatur *causal inference* menunjukkan bahwa kesimpulan sebab-akibat tidak dapat ditarik hanya dari adanya korelasi. [^3]
+Oleh sebab itu, ketika seorang musyrif melaporkan bahwa seorang santri melakukan pelanggaran adab, sikap epistemik yang beradab adalah:
+- Menghargai kesaksian pelapor tanpa langsung menjatuhkan vonis penghakiman permanen pada santri;
+- Melakukan verifikasi silang (*cross-check*) terhadap sudut pandang santri yang bersangkutan, bukti fisik, dan saksi netral lainnya;
+- Menilai apakah pelapor melihat peristiwa tersebut secara langsung atau hanya mendengar cerita dari pihak ketiga (*hearsay*).
 
-## Sumber yang dapat dipercaya tetap bisa keliru
+Sebagaimana firman Allah Ta'ala mengenai prinsip kehati-hatian menerima berita:
 
-Kesaksian seseorang dapat sangat berguna, tetapi kita tetap perlu mempertimbangkan kompetensi, konteks, kemungkinan kesalahan ingatan, kepentingan, dan konsistensinya dengan informasi lain.
+$$يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ$$
 
-Ini bukan berarti semua kesaksian harus dicurigai. Kehidupan sehari-hari dan ilmu pengetahuan justru sangat bergantung pada informasi dari orang lain. Persoalannya adalah **kapan kita layak mempercayainya dan kapan kita perlu melakukan pemeriksaan tambahan**. [^4]
+> *"Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya (tabayyun), agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu."* (QS. Al-Hujurat [49]: 6)
 
-Hal yang sama berlaku untuk instrumen, laporan, dan hasil penelitian. Sebuah sumber dapat memiliki reputasi baik tetapi tetap memiliki batas pada konteks tertentu. Karena itu, TUMBUH perlu menilai **kecocokan sumber dengan pertanyaan**, bukan hanya nama atau status sumbernya.
+## Pemeriksaan Ilmiah Tidak Memiliki Satu Resep Tunggal
 
-## Pemeriksaan ilmiah tidak memiliki satu resep untuk semua persoalan
+Dalam sains modern, pengamatan terencana, eksperimen terkontrol, pemodelan matematis, dan pengujian hipotesis adalah pilar utama pengembangan ilmu. Namun, para filsuf sains sepakat bahwa tidak ada satu "resep tunggal" yang kaku dan seragam untuk menjawab seluruh misteri alam dan perilaku manusia.[^7] Pendekatan fisika eksperimental tidak bisa disalin-tempel begitu saja untuk memahami pergulatan batin santri yang mengalami tekanan mental (*homesickness*).
 
-Dalam ilmu pengetahuan, pengamatan sistematis, eksperimen, penalaran, pemodelan, dan pengujian hipotesis merupakan bagian penting dari praktik ilmiah. Namun tidak ada satu prosedur tunggal yang cocok untuk semua bidang dan semua pertanyaan. Metode perlu disesuaikan dengan objek dan tujuan penyelidikan. [^5]
+TUMBUH menolak saintisme sempit—yaitu anggapan keliru bahwa sesuatu hanya boleh dianggap bernilai ilmiah jika dapat diukur dalam angka kuantitatif laboratorium. Bagi TUMBUH, tanda keilmiahan sejati bukanlah penggunaan istilah-istilah asing yang rumit atau grafik yang mencolok, melainkan **ketepatan metode dengan persoalan yang diteliti, kejujuran penyajian data, serta kesahihan nalar yang menghubungkan bukti dengan kesimpulan**.[^8]
 
-Bagi TUMBUH, pelajarannya sederhana: jangan menggunakan istilah “ilmiah” hanya karena sebuah prosedur terlihat rumit. Yang lebih penting adalah apakah cara tersebut **sesuai dengan pertanyaan dan mampu memberikan dasar yang layak bagi kesimpulan yang dibuat**.
+## Dari Al-Ghazali Kita Belajar Kehati-hatian Epistemik
 
-## Dari Al-Ghazali kita belajar kehati-hatian
+Hujjatul Islam Imam Al-Ghazali (450–505 H / 1058–1111 M) memberikan teladan agung mengenai kejujuran intelektual dan ketelitian memeriksa dasar keyakinan. Dalam otobiografi intelektualnya, *Al-Munqidh min al-Dalal*, beliau menguji secara radikal segala hal yang semula beliau anggap sebagai kepastian—mulai dari informasi indrawi yang sering menipu hingga dalil-dalil rasional murni—guna menemukan landasan pengetahuan yang kokoh dan bebas dari keraguan (*al-'ilm al-yaqini*).[^9]
 
-Al-Ghazali menunjukkan dalam *Al-Munqidh min al-Dalal* bahwa pencarian pengetahuan membutuhkan pemeriksaan terhadap dasar keyakinan. Ia mempertanyakan apakah sesuatu yang tampak meyakinkan benar-benar memberikan kepastian.
+Lebih lanjut, dalam karya metodologi logikanya, *Mi'yar al-'Ilm* dan *Mihakk an-Nazar*, Al-Ghazali mengajarkan bagaimana membedakan antara argumentasi pembuktian sejati (*burhan*), retorika persuasif (*khitabah*), dialektika perdebatan (*jadal*), dan kerancuan berpikir yang menyesatkan (*mughalathah* / *syubhat*).[^10]
 
-TUMBUH tidak mengambil kesimpulan bahwa semua pengetahuan harus mencapai kepastian mutlak. Pelajaran yang lebih berguna adalah: **tingkat keyakinan harus sepadan dengan dasar yang tersedia**. Jika dasarnya lemah, bahasa kesimpulannya juga harus lebih hati-hati. [^6]
+TUMBUH memetik pelajaran berharga dari warisan intelektual Al-Ghazali: **tingkat keyakinan kita terhadap suatu pernyataan harus sepadan dengan kekuatan bukti dan keabsahan dalil yang menopangnya**. Apabila dasar buktinya masih berupa dugaan awal (*zhann*), bahasa kesimpulan kita wajib mencerminkan kehati-hatian tersebut, bukan memaksakan nada kepastian dogmatis.
 
-## Prinsip pemeriksaan TUMBUH
+## Prinsip Pemeriksaan TUMBUH
 
-Dari pembahasan ini, TUMBUH menggunakan beberapa kebiasaan epistemik:
+Sebagai pedoman praktis bagi para pendidik, musyrif, dan perancang sistem, TUMBUH menetapkan sepuluh disiplin kebiasaan memeriksa pengetahuan:
 
-- bedakan sumber informasi dari kesimpulan yang dibuat;
-- cocokkan cara pemeriksaan dengan jenis pertanyaan;
-- periksa kualitas dan keterbatasan data;
-- bedakan hubungan dari sebab-akibat;
-- perhatikan reliabilitas sumber dan kesaksian;
-- pertimbangkan penjelasan alternatif;
-- nyatakan batas kesimpulan;
-- jangan menggunakan istilah ilmiah lebih kuat daripada evidence yang tersedia.
+1. **Pisahkan antara fakta mentah dengan tafsiran pribadi**: Catat apa yang nyata-nyata terlihat dan terdengar, bukan label sangkaan di dalam kepala.
+2. **Cocokkan timbangan dengan muatannya**: Gunakan dalil syar'i untuk perkara hukum dan nilai; gunakan riset empiris untuk efektivitas teknis program; gunakan kajian konseptual untuk definisi istilah.
+3. **Audit kualitas dan keterbatasan instrumen**: Pahami titik lemah formulir, angket, atau logbook yang digunakan di asrama.
+4. **Tegakkan batas tegas antara korelasi dan kausalitas**: Jangan menuduh suatu faktor sebagai penyebab tunggal tanpa penyelidikan yang terkontrol.
+5. **Uji keandalan dan integritas kesaksian**: Pertimbangkan posisi pengamat, kompetensi keilmuannya, dan potensi benturan kepentingan (*conflict of interest*).
+6. **Buka ruang bagi penjelasan alternatif (*falsifikasi*)**: Tanyakan pada diri sendiri: *"Faktor apa lagi yang mungkin menjelaskan situasi ini di luar dugaan pertama saya?"*
+7. **Cantumkan batas wilayah keberlakuan (*scope and boundaries*)**: Nyatakan dengan jujur untuk siapa dan di bawah kondisi apa suatu kesimpulan berlaku.
+8. **Haramkan overclaim ilmiah**: Jangan menyematkan label "terbukti secara ilmiah" pada gagasan yang baru sebatas asumsi atau uji coba terbatas.
+9. **Dokumentasikan jejak penalaran secara transparan**: Pastikan alur dari pertanyaan, data mentah, pertimbangan, hingga vonis tindakan dapat ditelusuri ulang oleh pihak lain.
+10. **Tundukkan akal pada kerendahan hati (*intellectual humility*)**: Berani berkata *"kami belum memiliki cukup data untuk menyimpulkan"* jauh lebih mulia daripada memproduksi kepastian palsu.
 
-Dengan kebiasaan ini, TUMBUH tidak hanya bertanya apakah sebuah informasi terdengar masuk akal, tetapi juga apakah **dasar, cara pemeriksaan, dan kesimpulannya memang sepadan**.
+Dengan kebiasaan epistemik yang berakar kokoh ini, ekosistem TUMBUH terlindungi dari bahaya fitnah, kecerobohan vonis, dan ilusi keilmuan semu. Setelah memahami cara memeriksa pengetahuan, kita melangkah ke fondasi berikutnya: mengenali ragam jenis klaim dan derajat bobotnya di dalam arsitektur pembinaan TUMBUH.
 
-Setelah cara memeriksa pengetahuan jelas, kita perlu melihat bahwa pernyataan dalam TUMBUH sendiri memiliki jenis yang berbeda. **Jenis klaim menentukan cara kita memeriksanya.**
+---
 
-## Rujukan kunci
+## Catatan Kaki
 
-[^1]: Stanford Encyclopedia of Philosophy, “Epistemology”, terutama pembahasan tentang justification, evidence, dan reliabilitas. https://plato.stanford.edu/entries/epistemology/
+[^1]: Stanford Encyclopedia of Philosophy (SEP), “Epistemology,” edisi revisi substantif 2024, bagian Justification, Epistemic Luck, dan Reliability of Sources. Menguraikan bahwa keyakinan yang benar baru bernilai pengetahuan jika ditopang pembenaran rasional yang absah. https://plato.stanford.edu/entries/epistemology/
 
-[^2]: Stanford Encyclopedia of Philosophy, “Confirmation”, tentang hubungan evidence dengan hipotesis dan sifat fallible dari penalaran berbasis evidence. https://plato.stanford.edu/entries/confirmation/
+[^2]: Stanford Encyclopedia of Philosophy (SEP), “Evidence,” edisi 2024, mengkaji fungsi bukti sebagai landasan normatif rasional dalam menimbang kebenaran suatu proposisi. https://plato.stanford.edu/entries/evidence/
 
-[^3]: Judea Pearl, Madelyn Glymour, dan Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*. Wiley, 2016.
+[^3]: Stanford Encyclopedia of Philosophy (SEP), “Confirmation,” edisi revisi 2025, mengenai relasi induktif bukti terhadap hipotesis serta karakter fallible (dapat keliru) dari inferensi empiris. https://plato.stanford.edu/entries/confirmation/
 
-[^4]: Stanford Encyclopedia of Philosophy, “Epistemological Problems of Testimony”, tentang testimony sebagai sumber pengetahuan dan persoalan reliabilitasnya. https://plato.stanford.edu/entries/testimony-episprob/
+[^4]: American Educational Research Association, American Psychological Association, & National Council on Measurement in Education (AERA, APA, & NCME), *Standards for Educational and Psychological Testing*, Washington DC: AERA, 2014, Bab 1: Validity. Menegaskan bahwa validitas adalah derajat keterdukungan bukti teoretis dan empiris terhadap interpretasi skor tes sesuai tujuan penggunaannya.
 
-[^5]: Stanford Encyclopedia of Philosophy, “Scientific Method”, tentang pengamatan sistematis, eksperimen, penalaran, pemodelan, pengujian hipotesis, dan pluralitas metode ilmiah. https://plato.stanford.edu/entries/scientific-method/
+[^5]: Judea Pearl, Madelyn Glymour, & Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*, West Sussex: John Wiley & Sons, 2016, Bab 1 & 2. Memaparkan perbedaan fundamental antara korelasi observasional murni dengan kausalitas struktural.
 
-[^6]: Al-Ghazali, *Al-Munqidh min al-Dalal* (*Deliverance from Error*), tentang pencarian dasar pengetahuan dan kepastian. https://www.ghazali.org/md-mcc-2/
+[^6]: C. A. J. Coady, *Testimony: A Philosophical Study*, Oxford: Oxford University Press, 1992; lihat pula Stanford Encyclopedia of Philosophy (SEP), “Epistemological Problems of Testimony,” edisi revisi 2024. https://plato.stanford.edu/entries/testimony-episprob/
+
+[^7]: Stanford Encyclopedia of Philosophy (SEP), “Scientific Method,” edisi revisi 2025, mengenai keanekaragaman metodologi dalam sains serta ketiadaan algoritma universal tunggal bagi penyelidikan ilmiah. https://plato.stanford.edu/entries/scientific-method/
+
+[^8]: Susan Haack, *Defending Science—Within Reason: Between Scientism and Cynicism*, Amherst: Prometheus Books, 2003, Bab 1–3 mengenai batas-batas saintisme dan integritas inkuiri empiris.
+
+[^9]: Abu Hamid Al-Ghazali, *Al-Munqidh min al-Dalal wa al-Mufshih 'an al-Ahwal*, diedit oleh Jamil Shaliba & Kamil 'Ayyad, Beirut: Dar al-Andalus, 1967, hlm. 65–75; edisi terjemahan Inggris: *Deliverance from Error*, penerj. Richard J. McCarthy, Boston: Twayne Publishers, 1980.
+
+[^10]: Abu Hamid Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Manthiq*, diedit oleh Ahmad Syamsuddin, Beirut: Dar al-Kutub al-'Ilmiyyah, 1990; dan *Mihakk an-Nazar fi al-Manthiq*, diedit oleh Muhammad Badruddin an-Na'sani, Beirut: Dar an-Nahdah al-Haditsah, 1966.

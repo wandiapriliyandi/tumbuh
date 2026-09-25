@@ -1,132 +1,137 @@
 # 05 Jenis dan Tingkat Klaim
 
-TUMBUH perlu memberi tanda yang jelas pada setiap pernyataan penting. Tujuannya sederhana: pembaca harus bisa membedakan **mana yang merupakan prinsip, mana yang merupakan definisi, mana yang berasal dari temuan, dan mana yang masih berupa dugaan**.
+Setiap pernyataan penting yang ditulis dan diucapkan dalam ekosistem TUMBUH wajib memiliki tanda pengenal yang jelas. Tujuannya sangat terang: siapa pun yang membaca dokumen ini—mulai dari santri madrasah aliyah, pembina asrama, asatidz, hingga pimpinan pesantren—harus dapat membedakan secara jernih **mana yang merupakan prinsip nilai abadi, mana yang merupakan definisi kesepakatan istilah, mana yang lahir dari temuan data lapangan, dan mana yang masih berupa dugaan awal yang harus diuji**.
 
-**Klaim** adalah pernyataan yang mengatakan bahwa sesuatu benar, berlaku, berhubungan, atau layak dijadikan dasar keputusan. Tidak semua klaim memiliki jenis dan cara pemeriksaan yang sama.
+**Klaim** adalah pernyataan deklaratif yang menegaskan bahwa sesuatu itu benar adanya, berlaku secara sah, saling berhubungan, atau layak dijadikan dasar pijakan tindakan pengasuhan. Tidak semua klaim memiliki bobot, watak, dan cara pembuktian yang serupa. Mencampuradukkan ragam klaim ini akan melahirkan kerancuan berpikir yang fatal di lapangan.
 
-## Mengapa jenis klaim perlu dibedakan?
+## Mengapa Jenis Klaim Perlu Dibedakan?
 
-Bayangkan ada tiga kalimat berikut:
+Untuk memahami betapa mendesaknya pembedaan ini bagi usia remaja maupun praktisi pendidikan, perhatikan tiga kalimat sederhana berikut:
 
-- “Pendidikan harus memperlakukan peserta didik dengan bermartabat.”
-- “Regulasi diri adalah kemampuan untuk mengarahkan dan mengendalikan perilaku sesuai tujuan.”
-- “Program pendampingan selama enam bulan meningkatkan regulasi diri santri.”
+1. *“Pendidikan pesantren wajib memuliakan martabat santri sebagai makhluk mulia ciptaan Allah.”*
+2. *“Regulasi diri adalah kapasitas jiwa dan akal santri untuk mengarahkan dorongan nafsu serta mengendalikan perilaku demi mencapai kebaikan yang diridhai Allah.”*
+3. *“Program pendampingan halaqah adab selama satu semester berhasil menurunkan angka perselisihan santri sebesar 40 persen.”*
 
-Ketiganya sama-sama berbentuk pernyataan, tetapi dasarnya berbeda.
+Ketiga kalimat di atas sama-sama tersusun sebagai kalimat berita (*kalam khabari*). Namun, jika kita menyelami hakikat epistemiknya, ketiganya berasal dari ranah yang sama sekali berlainan:
 
-Kalimat pertama adalah **normatif**: ia berbicara tentang apa yang seharusnya.
+- Kalimat pertama adalah **klaim normatif**: berbicara mengenai apa yang seharusnya (*das Sollen*) berdasarkan petunjuk syariat dan etika fitrah manusia. Kebenarannya tidak ditentukan oleh hasil survei suara terbanyak.
+- Kalimat kedua adalah **klaim definisional**: merumuskan batasan makna (*hadd*) bagi suatu konsep dalam sistem pembinaan agar semua pengasuh berbicara dengan bahasa dan pemahaman yang sama.[^1]
+- Kalimat ketiga adalah **klaim empiris**: memberitakan peristiwa faktual di alam nyata (*das Sein*). Kalimat ini wajib dibuktikan dengan data catatan logbook, metode pencatatan yang tertib, dan analisis data yang jujur.
 
-Kalimat kedua adalah **definisional**: ia menetapkan apa yang dimaksud dengan suatu istilah dalam sistem.
+Jika pengasuh memperlakukan kalimat ketiga layaknya kalimat pertama (menganggap penurunan 40 persen itu pasti benar tanpa perlu memeriksa buku catatan insiden), lembaga akan terjebak dalam kebohongan laporan. Sebaliknya, jika kalimat pertama diperlakukan layaknya kalimat ketiga (menunggu survei statistik untuk menentukan apakah santri berhak dimuliakan atau tidak), pesantren telah meruntuhkan pilar moralnya sendiri.
 
-Kalimat ketiga adalah **empiris**: ia membuat pernyataan tentang apa yang terjadi dan karena itu membutuhkan evidence yang sesuai.
+## Tujuh Jenis Klaim dalam Ekosistem TUMBUH
 
-Kalau ketiganya diperlakukan dengan cara yang sama, dokumentasi TUMBUH akan mudah membingungkan pembaca.
+Guna menjaga ketertiban epistemik dalam dokumentasi, riset, dan praktik pengasuhan harian, TUMBUH mengklasifikasikan setiap pernyataan ke dalam tujuh jenis klaim:
 
-## Tujuh jenis klaim TUMBUH
+```text
+1. NORMATIVE   ─── Nilai, amanah, dan hukum apa yang seharusnya diwujudkan
+2. DEFINITIONAL─── Batas makna istilah dan konstruk yang disepakati sistem
+3. EMPIRICAL   ─── Fakta teramati dan temuan data di dunia nyata
+4. DESIGN      ─── Keputusan rancangan arsitektur, SOP, dan instrumen
+5. CAUSAL      ─── Pernyataan bahwa faktor A menyebabkan perubahan B
+6. HYPOTHESIS  ─── Dugaan terarah yang masuk akal namun masih perlu diuji
+7. SIMULATION  ─── Proyeksi skenario hasil perhitungan model matematis
+```
 
-### 1. Normative
+### 1. Klaim Normatif (*Normative Claim*)
 
-Klaim **normatif** berbicara tentang nilai, prinsip, kewajiban, atau apa yang seharusnya dilakukan.
+Klaim normatif berbicara tentang nilai dasar, kebajikan (*fadhilah*), kewajiban syar'i, amanah pengasuhan, atau standar moral yang mengikat.
 
-Contohnya adalah prinsip tentang martabat manusia, amanah, keadilan, atau kewajiban menjaga keselamatan peserta didik.
+- **Contoh di Pesantren**: *"Pengasuhan santri tidak boleh menggunakan kekerasan fisik maupun penghinaan lisan yang melukai jiwa santri."*
+- **Cara Pengujian**: Diperiksa keselarasan dan keabsahan dalilnya dari nash Al-Qur'an, Sunnah shahihah, konsensus para ulama (*ijma'*), kaidah maqashid syari'ah, serta prinsip perlindungan anak. Klaim ini tidak bisa dibatalkan oleh alasan kepraktisan atau tradisi salah kaprah masa lalu.
 
-Klaim seperti ini terutama diperiksa berdasarkan sumber normatif yang memang berwenang untuk persoalan tersebut dan berdasarkan penalaran yang tepat. Ia tidak menjadi benar hanya karena sebuah survei menghasilkan persentase tertentu.
+### 2. Klaim Definisional (*Definitional Claim*)
 
-### 2. Definitional
+Klaim definisional menetapkan batasan arti suatu istilah teknis atau konstruk psikopedagogis yang digunakan dalam ekosistem TUMBUH.[^2]
 
-Klaim **definisional** menetapkan arti istilah atau konstruk yang digunakan TUMBUH.
+- **Contoh di Pesantren**: *"Dalam kurikulum TUMBUH, Rusyd didefinisikan sebagai keterpaduan antara kematangan nalar (intelektual), stabilitas emosional, kecakapan mengelola harta/kebutuhan diri, dan keteguhan memegang adab syariat secara mandiri."*
+- **Cara Pengujian**: Dinilai dari kejelasan batasan kata (*al-haddu al-jami' al-mani'*), ketiadaan kontradiksi dengan prinsip fundamental, dan konsistensi penerapannya di seluruh modul operasional. Definisi bukanlah "temuan laboratorium", melainkan ketetapan konseptual yang diakui bersama.
 
-Misalnya, ketika TUMBUH menetapkan arti “regulasi diri”, “kapasitas”, atau “pertumbuhan”, definisi tersebut perlu jelas, tidak saling bertentangan, dan dapat digunakan secara konsisten di seluruh sistem.
+### 3. Klaim Empiris (*Empirical Claim*)
 
-Definisi bukan temuan penelitian hanya karena menggunakan istilah yang juga ditemukan dalam literatur ilmiah. Namun literatur dapat membantu TUMBUH memilih dan memperbaiki definisi yang akan digunakan.
+Klaim empiris memberitakan fenomena, perilaku, atau kondisi nyata santri dan lingkungan pesantren yang dapat diamati melalui indra atau diukur dengan instrumen yang terstandar.
 
-### 3. Empirical
+- **Contoh di Pesantren**: *"Pada semester ganjil tahun ini, 85 persen santri baru jenjang J1 mengalami gejala homesickness pada tiga pekan pertama masa orientasi."*
+- **Cara Pengujian**: Menuntut verifikasi data faktual: bagaimana data dihimpun, siapa yang melakukan observasi, apakah instrumen angket atau wawancara memiliki validitas isi yang baik, dan seberapa akurat catatan kehadiran asrama.
 
-Klaim **empiris** menyatakan sesuatu tentang kenyataan yang dapat diamati atau diteliti.
+### 4. Klaim Desain (*Design Claim*)
 
-Misalnya: “Santri yang mengikuti program X menunjukkan perubahan pada skor Y.”
+Klaim desain memaparkan pertimbangan rasional mengapa sebuah mekanisme, SOP, kurikulum, alur intervensi, atau struktur kelembagaan TUMBUH dirancang dengan bentuk tertentu.
 
-Klaim seperti ini membutuhkan data dan metode yang sesuai. Kita perlu melihat bagaimana data diperoleh, siapa yang diamati, bagaimana variabel atau konstruk diukur, dan apa keterbatasannya.
+- **Contoh di Pesantren**: *"TUMBUH menetapkan rasio pendampingan asrama 1 musyrif mendampingi maksimal 12 santri agar interaksi keteladanan (qudwah) dan pemantauan afektif dapat berjalan intensif."*
+- **Cara Pengujian**: Menguji relevansi solusi yang ditawarkan terhadap masalah riil di asrama, kelayakan penerapannya (*feasibility*), keselarasan dengan prinsip filosofis, serta evaluasi berkala terhadap beban kerja musyrif. Klaim desain adalah pertimbangan arsitektur yang bijaksana, bukan hukum mutlak alam semesta.
 
-### 4. Design
+### 5. Klaim Kausal (*Causal Claim*)
 
-Klaim **design** menjelaskan keputusan tentang bagaimana TUMBUH dirancang atau dijalankan.
+Klaim kausal menyatakan dengan tegas bahwa suatu peristiwa atau intervensi secara langsung menghasilkan atau menyebabkan perubahan pada peristiwa lain (*A menyebabkan B*).[^3]
 
-Contohnya: “TUMBUH menggunakan lebih dari satu sumber evidence dalam assessment.”
+- **Contoh di Pesantren**: *"Pemberian umpan balik harian secara personal oleh musyrif menyebabkan penurunan frekuensi keterlambatan bangun shubuh santri."*
+- **Cara Pengujian**: Membutuhkan standar metodologi pembuktian yang paling ketat dalam sains. Penguji harus membuktikan adanya urutan waktu yang pasti (*faktor penyebab mendahului akibat*), korelasi yang signifikan, serta mengeliminasi seluruh variabel perancu (*confounding variables*)—misalnya memastikan penurunan keterlambatan tersebut bukan semata karena perubahan cuaca atau jam tidur asrama yang dimajukan.
 
-Keputusan desain tidak selalu dapat disebut sebagai temuan empiris. Ia merupakan keputusan sistem yang seharusnya dapat dijelaskan: prinsip apa yang mendasarinya, kebutuhan apa yang dijawab, dan evidence apa yang relevan jika keputusan tersebut bergantung pada klaim empiris.
+### 6. Klaim Hipotesis (*Hypothesis Claim*)
 
-### 5. Causal
+Hipotesis adalah dugaan sementara yang disusun secara logis dan terarah berdasarkan teori atau pengamatan awal, namun secara sadar diakui belum memiliki bukti pembuktian yang tuntas.
 
-Klaim **causal** menyatakan bahwa suatu hal menyebabkan perubahan pada hal lain.
+- **Contoh di Pesantren**: *"Kami menduga bahwa santri yang rutin melakukan tilawah Al-Qur'an sebelum istirahat malam memiliki kualitas tidur gelombang dalam yang lebih baik dan lebih tenang secara emosional."*
+- **Cara Pengujian**: Menjadi titik berangkat bagi penelitian lanjutan (pada folder `09_RESEARCH`). Hipotesis tidak boleh dijadikan dasar penjatuhan sanksi atau perombakan sistem sebelum diuji melalui protokol ilmiah yang terencana.
 
-Contohnya: “Intervensi X menyebabkan peningkatan regulasi diri.”
+### 7. Klaim Simulasi (*Simulation Claim*)
 
-Bahasa seperti ini jauh lebih kuat daripada sekadar mengatakan bahwa dua hal berkaitan atau muncul bersamaan. Karena itu klaim kausal membutuhkan dasar dan desain yang memungkinkan kita menilai kemungkinan penjelasan lain.
+Klaim simulasi merupakan perkiraan atau proyeksi masa depan yang dihasilkan oleh komputasi, algoritma logika, atau model matematika berdasarkan sekumpulan asumsi awal yang ditentukan perancang.
 
-TUMBUH harus berhati-hati menggunakan kata **menyebabkan**, **menghasilkan**, atau **berdampak**. Jangan memakai bahasa kausal hanya karena hasil sebelum dan sesudah terlihat berbeda.
+- **Contoh di Pesantren**: *"Model simulasi kohort TUMBUH memproyeksikan bahwa jika kapasitas pengasuhan mandiri dinaikkan 15 persen, maka 90 persen santri akan mencapai jenjang kemandirian J3 tepat pada akhir tahun kedua."*
+- **Cara Pengujian**: Menguji kekuatan asumsi dasar matematika dan keterbatasan parameter simulasi. Hasil simulasi adalah peta proyeksi skenario (*what-if analysis*), bukan jaminan pasti kejadian nyata di lapangan. Ia tidak boleh diperlakukan sebagai fakta empiris sebelum divalidasi oleh implementasi riil santri di pesantren.
 
-### 6. Hypothesis
+## Jenis Klaim Berbeda dari Tingkat Kebenaran
 
-**Hipotesis** adalah dugaan yang masih perlu diuji.
+Pembedaan jenis klaim ini kerap disalahpahami. Label **empiris** tidak membuat sebuah pernyataan otomatis benar; suatu laporan empiris bisa saja keliru, bias, atau dipalsukan. Label **normatif** juga tidak berarti setiap orang bebas berbicara moral tanpa dasar syariat yang sahih. Sebaliknya, label **kausal** justru membebankan tuntutan pembuktian yang sangat berat bagi siapa pun yang mengucapkannya.
 
-Hipotesis bukan kesalahan. Justru penelitian dan pengembangan sistem membutuhkan dugaan yang dapat diuji. Yang penting adalah memberi tanda bahwa statusnya masih dugaan.
+Oleh sebab itu, dalam menimbang suatu pernyataan di TUMBUH, kita wajib memisahkan dua pertanyaan mendasar:
 
-Contohnya: “Pendampingan yang lebih konsisten mungkin berkaitan dengan peningkatan kemandirian santri.”
+1. **Pertanyaan Taksonomi**: *Klaim ini masuk dalam kategori apa?* (Menentukan timbangan mana yang harus dipakai).
+2. **Pertanyaan Bobot Epistemik**: *Seberapa kuat dasar dan bukti yang menopang klaim tersebut?* (Menentukan seberapa percaya kita boleh bersandar padanya).
 
-Kalimat tersebut belum boleh diperlakukan sebagai temuan sebelum ada evidence yang memadai.
+## Tingkat Keyakinan Perlu Dinyatakan secara Jujur
 
-### 7. Simulation
+Integritas sebuah institusi pendidikan tampak dari kejujuran bahasanya. TUMBUH tidak menuntut agar semua dokumen berbicara dengan nada kepastian mutlak yang kaku. Sebaliknya, TUMBUH mewajibkan setiap penulis naskah dan asatidz menggunakan frasa pengantar yang proporsional sesuai tingkat kepastian buktinya:
 
-Klaim **simulation** berasal dari pemodelan atau simulasi.
+| Frasa Baku TUMBUH | Status Epistemik yang Dimaksud |
+|---|---|
+| **“TUMBUH menetapkan...”** | Menunjukkan keputusan normatif, prinsip nilai, atau ketetapan desain arsitektur sistem. |
+| **“Kajian turats dan dalil syar'i menegaskan...”** | Menunjukkan landasan hukum wahyu dan pandangan mu'tabar para ulama. |
+| **“Data lapangan pada pesantren X menunjukkan...”** | Menunjukkan temuan fakta empiris yang terikat pada konteks dan sampel tertentu. |
+| **“Temuan asesmen mengindikasikan...”** | Menunjukkan adanya pola awal data, namun belum cukup kuat untuk ditarik kesimpulan umum. |
+| **“Kami mengajukan hipotesis bahwa...”** | Menunjukkan dugaan terarah yang sedang atau akan diteliti dalam program riset. |
+| **“Model simulasi memperkirakan...”** | Menunjukkan proyeksi kemungkinan hasil berdasarkan asumsi komputasi teoritis. |
+| **“Bukti empiris belum memadai untuk menyimpulkan...”** | Menunjukkan kejujuran ilmiah mengakui keterbatasan informasi (*intellectual humility*). |
 
-Simulasi dapat membantu TUMBUH melihat kemungkinan hasil dari suatu skenario. Tetapi hasil simulasi bukan bukti bahwa hal tersebut benar-benar akan terjadi di lapangan.
+Dengan pilihan diksi yang jujur ini, santri dan santriwati sejak usia 15 tahun dilatih memiliki kejernihan nalar: mereka tahu kapan sebuah kalimat bermakna kewajiban moral yang harus dipatuhi, dan kapan sebuah kalimat bermakna informasi riset yang boleh didiskusikan secara kritis.
 
-Misalnya model memprediksi bahwa perubahan rasio pendamping dapat meningkatkan cakupan pembinaan. Itu adalah hasil model berdasarkan asumsi yang digunakan. Untuk menyatakan bahwa perubahan tersebut benar-benar menghasilkan dampak tertentu di pesantren, diperlukan evidence dari implementasi nyata.
+## Tata Kelola Klaim: Mengalir Menuju *Claim Registry*
 
-## Jenis klaim bukan berarti tingkat kebenaran
+Klasifikasi epistemik ini bukan sekadar teori di atas kertas. Di dalam rancangan arsitektur TUMBUH, setiap klaim strategis yang berdampak luas bagi kehidupan santri dicatat secara formal dalam sistem **Claim Registry**.[^4]
 
-Penting untuk tidak salah memahami klasifikasi ini.
+Buku catatan klaim ini memuat identitas ringkas:
+- Apa bunyi klaimnya?
+- Siapa pencetusnya?
+- Termasuk dalam jenis klaim apa dari tujuh kategori di atas?
+- Dokumen evidence mana yang menjadi sandarannya?
+- Apa batas keberlakuannya?
+- Kapan klaim tersebut terakhir kali ditinjau ulang?
 
-Label **empiris** tidak berarti sebuah klaim otomatis benar. Label **normatif** juga tidak berarti setiap pernyataan normatif pasti memiliki dasar yang benar. Label **causal** justru menunjukkan bahwa tuntutan pembuktiannya lebih berat.
+Dengan tata kelola yang teratur ini, TUMBUH mencegah terjadinya *epistemic drift*—kondisi buruk di mana sebuah keputusan desain sementara di masa lalu diam-diam disakralkan menjadi "rukun yang tidak boleh diganggu gugat", atau sebuah hipotesis yang belum teruji diam-diam diperlakukan sebagai dogma kebenaran mutlak.
 
-Jadi ada dua pertanyaan yang harus dipisahkan:
+Setelah kita memahami ragam jenis klaim, muncul pertanyaan paling mendasar bagi penyelidikan lapangan: **Evidence macam apa yang benar-benar memiliki kekuatan pembuktian, dan bagaimana kita menakar derajat bobotnya?**
 
-1. **Klaim ini termasuk jenis apa?**
-2. **Seberapa kuat dasar yang kita miliki untuk menerima klaim tersebut?**
+---
 
-Jenis menjawab pertanyaan pertama. Tingkat keyakinan menjawab pertanyaan kedua.
+## Catatan Kaki
 
-## Tingkat keyakinan perlu dinyatakan secara jujur
+[^1]: Ali bin Muhammad Asy-Syarif Al-Jurjani, *Kitab at-Ta'rifat*, diedit oleh Ibrahim al-Ibyari, Beirut: Dar al-Kitab al-'Arabi, 1405 H / 1985 M, bab "Al-Hadd" dan "Al-Haqiqah". Menguraikan syarat definisi yang presisi (mengumpulkan seluruh elemen esensial dan mencegah masuknya elemen asing).
 
-TUMBUH tidak membutuhkan semua pernyataan berada pada tingkat kepastian yang sama.
+[^2]: Stanford Encyclopedia of Philosophy (SEP), “Definitions,” edisi revisi substantif 2023, mengenai fungsi definisi stipulatif, deskriptif, dan teoretis dalam filsafat ilmu. https://plato.stanford.edu/entries/definitions/
 
-Ada pernyataan yang menjadi prinsip dasar sistem. Ada definisi yang ditetapkan untuk kepentingan desain. Ada temuan yang didukung penelitian. Ada kesimpulan praktis yang masih terbatas pada konteks tertentu. Ada pula hipotesis yang baru akan diuji.
+[^3]: Judea Pearl, *Causality: Models, Reasoning, and Inference*, edisi ke-2, Cambridge: Cambridge University Press, 2009; lihat pula Judea Pearl & Dana Mackenzie, *The Book of Why: The New Science of Cause and Effect*, New York: Basic Books, 2018.
 
-Karena itu bahasa dokumentasi harus mengikuti kekuatan dasarnya.
-
-Misalnya:
-
-- **“TUMBUH menetapkan...”** untuk keputusan atau definisi sistem.
-- **“Literatur menunjukkan...”** ketika ada dukungan dari penelitian atau kajian.
-- **“Data pada konteks ini menunjukkan...”** ketika kesimpulan memang terbatas pada data tertentu.
-- **“Temuan ini mengindikasikan...”** ketika evidence belum cukup untuk pernyataan yang lebih kuat.
-- **“Kami mengajukan hipotesis...”** ketika sesuatu masih perlu diuji.
-
-Dengan cara ini pembaca tidak dipaksa menganggap semua kalimat sebagai fakta dengan tingkat kepastian yang sama.
-
-## Klasifikasi ini akan dipakai di seluruh TUMBUH
-
-Klasifikasi epistemik bukan hanya urusan dokumen Foundation. Ia akan berguna ketika TUMBUH mulai memiliki banyak konstruk, indikator, assessment, intervensi, dan hasil penelitian.
-
-Karena itu setiap klaim penting nantinya dapat dicatat dalam **Claim Registry**, yaitu daftar terkelola yang menunjukkan apa yang diklaim TUMBUH, jenis klaimnya, dasar yang digunakan, dan status pemeriksaannya.
-
-Dengan begitu kita dapat menjaga agar sebuah keputusan desain tidak diam-diam berubah menjadi “fakta”, dan hipotesis tidak diam-diam berubah menjadi prinsip hanya karena sudah lama ditulis dalam dokumen.
-
-Pertanyaan berikutnya menjadi lebih penting: **kalau sebuah klaim membutuhkan evidence, evidence seperti apa yang cukup kuat untuk mendukungnya?**
-
-## Catatan kaki
-
-[^1]: Stanford Encyclopedia of Philosophy, “Epistemology,” tentang pengetahuan, justifikasi, sumber pengetahuan, dan batas keberhasilan kognitif.
-[^2]: Stanford Encyclopedia of Philosophy, “Evidence,” tentang evidence dan perannya dalam mendukung penilaian terhadap klaim.
-[^3]: Judea Pearl, Madelyn Glymour, dan Nicholas P. Jewell, *Causal Inference in Statistics: A Primer*. Wiley, 2016.
+[^4]: Pedoman ini selaras dengan prinsip tata kelola epistemik pada repositori TUMBUH, sebagaimana diatur dalam pedoman [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) dan rancangan registri klaim pada modul `08_SOURCES_AND_EVIDENCE/` serta penyelidikan arsitektur pada folder `PROBE/`.
