@@ -1,7 +1,7 @@
 # 01 — AQIDAH YANG LURUS
 
 **Muwashofat:** Salimul Aqidah  
-**Layer:** `01_FOUNDATION/10 Graduate Profile`  
+**Layer:** `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE` (Arah Normatif Turunan Foundation)  
 **Status:** CANONICAL GRADUATE PROFILE — TUMBUH v2.0.0
 
 ---
