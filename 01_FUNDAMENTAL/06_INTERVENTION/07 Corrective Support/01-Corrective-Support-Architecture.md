@@ -1,225 +1,160 @@
-# Corrective Support Architecture
+# Arsitektur Dukungan Korektif (Corrective Support Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Intervention Corrective Support  
-**Epistemic status:** conceptually specified; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
+**Dokumen Terkait:**  
+- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
+- [02 Tiered Support / 01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
+- [07 Corrective Support / 04-Correction-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/04-Correction-and-Dignity.md)  
+- [09 Recovery & Reintegration / 01-Recovery-and-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-and-Reintegration-Architecture.md)
 
-## 1. Tujuan
+---
 
-Corrective Support digunakan ketika terdapat kebutuhan yang memerlukan respons lebih terarah. Sesuai baseline domain, fokusnya adalah keselamatan, tanggung jawab, perbaikan perilaku, pemulihan relasi, dan pembelajaran.
+> ### Intisari untuk Pendidik & Musyrif
+> **"Koreksi dalam Islam adalah cermin yang membersihkan debu di wajah saudaramu, bukan palu yang meremukkan kepalanya."**  
+> Ketika santri melakukan pelanggaran adab di pesantren—seperti berselisih dengan teman, terlambat shalat, atau melanggar aturan asrama—respons pendidik bukanlah membalas dendam dengan hukuman fisik atau makian yang mempermalukan. *Corrective Support* hadir untuk menghentikan bahaya, mengajak santri bertabayyun, menyadarkan dampak perbuatannya, memulihkan relasi yang terluka (*ishlah*), dan melatihkan adab pengganti yang benar.
 
-Corrective Support bukan sekadar hukuman. Koreksi diarahkan agar individu memahami apa yang perlu diperbaiki, memperbaiki dampak yang relevan, memulihkan relasi bila memungkinkan, dan memperoleh kesempatan untuk belajar serta berfungsi kembali secara lebih tepat.
+---
 
-## 2. Posisi dalam Arsitektur Intervensi
+## 1. Hakikat dan Tujuan Dukungan Korektif
 
-Alur canonical:
+Dukungan korektif (*corrective support*) diaktifkan ketika terjadi penyimpangan adab, disfungsi perilaku, atau situasi berisiko yang menuntut respons terarah dari pengasuh. Sesuai arsitektur inti TUMBUH, fokus utama koreksi adalah:
+1. **Keselamatan (*Safeguarding & Safety*):** Menghentikan segera bahaya fisik atau emosional terhadap santri dan warga pesantren.
+2. **Tanggung Jawab Moral (*Moral Accountability*):** Membantu santri mengakui tindakannya dan memahami akibat perbuatannya terhadap orang lain.
+3. **Perbaikan Dampak (*Restitution & Repair*):** Memperbaiki kerugian atau kerusakan konkret yang ditimbulkan secara adil.
+4. **Pemulihan Hubungan (*Relational Reconciliation / Ishlah*):** Menjahit kembali tali ukhuwah yang retak akibat perselisihan.
+5. **Pembelajaran Adab Pengganti (*Educational Learning*):** Melatih keterampilan regulasi diri agar kesalahan yang sama tidak terulang.
 
-```text
-Evidence
-   ↓
-Tabayyun
-   ↓
-Context / Need Analysis
-   ↓
-Risk & Safeguarding Check
-   ↓
-Corrective Support Selection
-   ↓
-Trial / Implementation
-   ↓
-Monitoring
-   ↓
-Review
-   ↓
-Continue / Adjust / Step Down / Step Up / Stop / Refer
-```
+Koreksi dalam TUMBUH secara mutlak **bukan ajang pelampiasan amarah pendidik**, bukan pembalasan dendam (*retributive punishment*), dan bukan vonis label permanen terhadap kepribadian santri.
 
-Corrective Support berada setelah kebutuhan dan risiko dipahami. Ia tidak boleh muncul hanya karena satu skor, satu laporan, atau satu kejadian tanpa pemeriksaan konteks yang memadai, kecuali respons segera memang diperlukan untuk keselamatan.
+---
 
-## 3. Prinsip Koreksi
+## 2. Alur Rantai Kanonikal Dukungan Korektif
 
-### 3.1 Keselamatan lebih dahulu
-
-Jika terdapat risiko terhadap keselamatan atau safeguarding, tindakan perlindungan yang diperlukan didahulukan daripada proses koreksi biasa.
-
-### 3.2 Koreksi harus proporsional
-
-Respons mempertimbangkan sifat, konteks, dampak, kebutuhan, risiko, usia/peran yang relevan, serta kapasitas individu untuk memahami dan menjalani respons tersebut. Intensitas tidak otomatis berarti kualitas lebih baik.
-
-### 3.3 Fokus pada tindakan dan dampak, bukan label orang
-
-Yang dikoreksi adalah perilaku, keputusan, pola tindakan, atau kondisi yang relevan. Corrective Support tidak menetapkan identitas permanen seperti “anak bermasalah”, “santri nakal”, atau label lain yang melekat pada pribadi.
-
-### 3.4 Tanggung jawab tanpa mempermalukan
-
-Tanggung jawab dapat mencakup mengakui tindakan, memahami dampak, memperbaiki kerusakan yang relevan, dan mengikuti proses pemulihan. Semua itu perlu dilakukan tanpa penghinaan, kekerasan, intimidasi, atau mempermalukan di depan umum.
-
-### 3.5 Koreksi harus mengandung pembelajaran
-
-Respons korektif sebaiknya membantu individu memahami ekspektasi, membangun alternatif perilaku, melatih keterampilan yang dibutuhkan, dan memperoleh feedback.
-
-### 3.6 Pemulihan relasi bila relevan
-
-Jika masalah berdampak pada relasi, proses dapat mencakup pemulihan kepercayaan, komunikasi, tanggung jawab, dan rekonsiliasi yang aman serta sesuai konteks. Pemulihan tidak boleh dipaksakan ketika tidak aman atau tidak tepat.
-
-## 4. Tabayyun Sebelum Koreksi
-
-Sebelum menentukan respons, reviewer perlu membedakan:
-
-- apa yang benar-benar teramati;
-- apa yang dilaporkan dan oleh siapa;
-- construct atau fungsi apa yang relevan;
-- konteks dan tuntutan saat kejadian;
-- dukungan yang sudah tersedia;
-- apakah terdapat perbedaan antar-sumber;
-- apakah evidence cukup untuk inference yang hendak dibuat;
-- apakah terdapat faktor lingkungan atau relasional yang ikut berperan;
-- apakah respons segera diperlukan karena risiko;
-- apa tujuan koreksi yang hendak dicapai.
-
-Tabayyun bukan berarti menunda tindakan perlindungan ketika terdapat risiko yang membutuhkan respons segera.
-
-## 5. Sasaran Corrective Support
-
-Corrective Support dapat diarahkan pada satu atau lebih sasaran:
-
-- **Individu:** pemahaman, keterampilan, regulasi, pengambilan keputusan, atau pola tindakan.
-- **Relasi:** komunikasi, batas, kepercayaan, dan pemulihan interaksi.
-- **Lingkungan:** ekspektasi, rutinitas, struktur, akses, atau kondisi yang ikut mempertahankan masalah.
-- **Kelompok/institusi:** norma, praktik, koordinasi, atau kondisi yang perlu diperbaiki.
-
-Masalah pada perilaku individu tidak otomatis berarti seluruh penyebab berada pada individu.
-
-## 6. Bentuk Respons
-
-Bentuk Corrective Support dapat mencakup, sesuai kebutuhan dan konteks:
-
-- klarifikasi ekspektasi dan konsekuensi yang relevan;
-- coaching atau mentoring korektif;
-- structured practice untuk perilaku/keterampilan alternatif;
-- restorative conversation atau proses pemulihan yang aman;
-- perbaikan dampak atau tanggung jawab yang proporsional;
-- penyesuaian lingkungan atau rutinitas;
-- targeted support;
-- intensive support ketika risiko atau kebutuhan mengharuskannya;
-- koordinasi dengan pihak yang berwenang atau referral ketika kebutuhan berada di luar kompetensi pelaksana.
-
-Daftar tersebut adalah kategori opsi, bukan resep universal.
-
-## 7. Corrective Support dan Tiered Support
-
-Corrective Support dapat diberikan pada tingkat dukungan yang berbeda. Ia tidak identik secara otomatis dengan satu tier tertentu.
+Setiap proses koreksi wajib melewati tahapan sistematis guna menjamin objektivitas, keadilan, dan kasih sayang pendidik:
 
 ```text
-Corrective Support
-        ↓
-Need + Evidence + Risk + Context
-        ↓
-Appropriate Support Intensity
+┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
+│ 1. EVIDENCE     │ ───► │ 2. TABAYYUN     │ ───► │ 3. CONTEXT &    │ ───► │ 4. SAFEGUARDING │
+│ (Bukti Faktual  │      │ (Klarifikasi &  │      │    NEED         │      │    CHECK        │
+│  Teramati)      │      │  Mendengar)     │      │ (Analisis Akar) │      │ (Uji Bahaya)    │
+└─────────────────┘      └─────────────────┘      └─────────────────┘      └────────┬────────┘
+                                                                                    │
+┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐               │
+│ 8. REVIEW       │ ◄─── │ 7. MONITORING   │ ◄─── │ 6. TRIAL &      │ ◄─── 5. SUPPORT       │
+│ (Evaluasi Hasil │      │ (Pemantauan     │      │    IMPLEMENT    │      SELECTION        │
+│  Tindak Lanjut) │      │  Respons)       │      │ (Praktik Nyata) │      (Pilih Respons)  │
+└────────┬────────┘      └─────────────────┘      └─────────────────┘      └────────────────┘
+         │
+         ▼ (Opsi Keputusan Pasca-Review)
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│ [Continue: Lanjutkan] │ [Adjust: Modifikasi] │ [Step Down: Turunkan] │ [Stop: Selesai]    │
+│ [Step Up: Tingkatkan] │ [Refer: Rujuk ke Ahli BK/Medis Profesional]                       │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Tier 1–3 menjelaskan intensitas dukungan dalam arsitektur Tiered Support, sedangkan Corrective Support menjelaskan tujuan/jenis respons. Keduanya tidak boleh dicampur menjadi label tingkat pribadi.
+---
 
-## 8. Hubungan dengan Assessment
+## 3. Enam Pilar Prinsip Koreksi Beradab
 
-Assessment menyediakan evidence dan scoped interpretation. Corrective Support menggunakan hasil tersebut sebagai salah satu dasar keputusan, tetapi tidak mengubah assessment menjadi mesin hukuman.
+| No | Prinsip Inti | Makna Konseptual | Penerapan Lapangan di Pesantren |
+| :---: | :--- | :--- | :--- |
+| **1** | **Keselamatan Utama (*Safety First*)** | Jika ada ancaman fisik/psikologis, tindakan perlindungan didahulukan sebelum tabayyun. | Memisahkan santri yang berkelahi secara aman sebelum memulai dialog mediasi. |
+| **2** | **Koreksi Proporsional (*Proportionality*)** | Beratnya respons harus seimbang dengan sifat kejadian, usia, dan kapasitas santri. | Tidak memberikan sanksi berat (seperti membersihkan seluruh selasar pondok) hanya karena terlambat 5 menit. |
+| **3** | **Fokus Tindakan, Bukan Label Pribadi** | Membedakan antara kekhilafan perbuatan dengan kemuliaan fitrah santri. | Mengatakan *"Perbuatan menyela antrean tadi tidak adil"* daripada *"Kamu memang anak nakal pembuat onar"*. |
+| **4** | **Tanggung Jawab Tanpa Mempermalukan** | Menegakkan konsekuensi logis secara tertutup (*satr al-'aurat*), bebas dari perundungan publik. | Melakukan konseling koreksi di ruang musyrif secara privat, bukan dijemur di lapangan di hadapan seluruh santri. |
+| **5** | **Koreksi Mengandung Pembelajaran** | Setiap tindakan koreksi wajib disertai pelatihan keterampilan alternatif. | Santri yang merusak fasilitas diajak memperbaiki barang tersebut sambil belajar cara merawat sarana wakaf. |
+| **6** | **Pemulihan Relasi (*Ishlah al-Bain*)** | Menuntaskan dendam batin dan memulihkan ukhuwah tanpa pemaksaan yang tidak aman. | Membimbing dialog saling memaafkan dan mengembalikan hak korban dengan tulus saat kedua pihak telah tenang. |
+
+---
+
+## 4. Protokol Tabayyun Sebelum Penetapan Respons
+
+Sebelum menjatuhkan keputusan koreksi, musyrif dan dewan pengasuhan wajib membedakan sembilan aspek kunci:
+1. **Apa yang benar-benar teramati langsung** vs apa yang dilaporkan oleh pihak kedua/ketiga.
+2. **Siapa pelapornya** dan apakah ada potensi konflik kepentingan antar-santri.
+3. **Keterampilan atau fungsi adab apa** yang sedang mengalami hambatan pada santri.
+4. **Konteks situasi dan tuntutan beban** saat peristiwa pelanggaran terjadi (kelelahan, stres ujian, provokasi).
+5. **Dukungan apa yang sudah tersedia** dan apakah fasilitas asrama ikut memicu masalah.
+6. **Perbedaan antar-sumber informasi** (pernyataan pelaku, saksi, dan korban).
+7. **Kecukupan bukti** untuk menarik kesimpulan yang adil tanpa tergesa-gesa.
+8. **Faktor ekologis lingkungan** yang memperburuk situasi (misal tata ruang kamar yang terlalu sempit dan panas).
+9. **Kebutuhan tindakan segera** jika terdapat indikasi pelanggaran perlindungan anak (*child safeguarding*).
+
+---
+
+## 5. Empat Sasaran Komprehensif Dukungan Korektif
+
+Masalah perilaku santri jarang berdiri sendiri. Oleh karena itu, koreksi TUMBUH menyasar empat lapis ekologis:
 
 ```text
-Assessment
-   ↓
-Evidence + Scoped Interpretation
-   ↓
-Intervention Decision
-   ↓
-Corrective Support when appropriate
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ 1. SASARAN INDIVIDU                                                         │
+│    Pemahaman niat, regulasi emosi, keterampilan komunikasi, keputusan moral │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 2. SASARAN RELASI (ANTAR-PRIBADI)                                           │
+│    Batas pergaulan, kepercayaan timbal-balik, rekonsiliasi korban & pelaku  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 3. SASARAN LINGKUNGAN ASRAMA                                                │
+│    Jadwal antrean kamar mandi, pencahayaan lorong, kerapian penyimpanan     │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 4. SASARAN KELOMPOK / KELEMBAGAAN                                           │
+│    Budaya kamar, keteladanan pengurus organisasi santri, konsistensi SOP    │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Satu skor atau satu kejadian tidak otomatis menentukan Corrective Support. Sebaliknya, kebutuhan safeguarding yang jelas dapat memerlukan tindakan sebelum assessment lengkap tersedia.
+---
 
-## 9. Hubungan dengan Progression dan Mastery
+## 6. Bentuk-Bentuk Respons Korektif Terpadu
 
-Corrective Support dapat membantu mengembalikan kondisi agar individu dapat kembali belajar, berlatih, berfungsi, dan berkembang. Namun:
+Bentuk tindakan korektif dipilih secara kasuistik dan proporsional:
+- **Klarifikasi Ekspektasi:** Menjelaskan ulang batasan adab yang dilanggar dan mengapa aturan tersebut penting bagi maslahat bersama.
+- **Coaching Korektif Pribadi:** Dialog reflektif satu-satu (*one-on-one*) bersama musyrif pembina untuk menggali akar masalah batin.
+- **Latihan Terstruktur (*Structured Practice*):** Melatih santri mempraktikkan perilaku benar secara berulang hingga menjadi refleks adab yang kokoh.
+- **Percakapan Restoratif (*Restorative Circle*):** Pertemuan mediasi aman antara pihak yang berkonflik untuk mendengarkan perasaan korban dan menyepakati jalan damai.
+- **Restitusi Proporsional:** Memperbaiki atau mengganti kerugian materiil/moral yang diakibatkan oleh perbuatannya secara wajar.
+- **Penyesuaian Lingkungan:** Mengatur ulang tempat tidur atau jadwal aktivitas santri guna memutus rantai pemicu gesekan.
+- **Dukungan Intensif & Rujukan Spesialis:** Melibatkan guru BK, psikolog, atau dewan pimpinan pesantren jika pelanggaran melibatkan trauma mendalam atau gangguan emosional berat.
 
-- koreksi bukan tahap perkembangan;
-- menerima koreksi bukan indikator kapasitas yang rendah;
-- kebutuhan koreksi bukan bukti kegagalan permanen;
-- berkurangnya koreksi bukan otomatis bukti mastery;
-- perubahan setelah koreksi bukan otomatis bukti efektivitas kausal.
+---
 
-## 10. Monitoring dan Review
+## 7. Integrasi dengan Sistem Tingkat Dukungan (*Tiered Support*)
 
-Corrective Support perlu memiliki tujuan dan indikator review yang proporsional. Monitoring dapat melihat:
+Dukungan korektif dapat berlangsung di tingkat mana pun dalam piramida multi-tier:
+- **Koreksi Tier 1 (Universal):** Pengingat hangat saat santri lupa adab makan di meja makan, koreksi klasikal di kelas, atau penataan ulang rambu-rambu asrama.
+- **Koreksi Tier 2 (Targeted):** Pendampingan kelompok santri yang sering terlambat jamaah, bimbingan resolusi konflik ringan teman sekamar.
+- **Koreksi Tier 3 (Intensive):** Penanganan kasus perundungan (*bullying*), pencurian, atau krisis perilaku berat yang memerlukan manajemen kasus terpadu.
 
-- apakah perilaku atau fungsi yang menjadi sasaran berubah;
-- apakah perubahan konsisten;
-- apakah individu memahami dan dapat menggunakan alternatif yang dipelajari;
-- apakah konteks atau dukungan ikut berubah;
-- apakah risiko menurun atau meningkat;
-- apakah respons masih sesuai atau perlu disesuaikan.
+*Catatan Kritis:* Tier menjelaskan **intensitas bantuan sumber daya**, bukan tingkatan dosa atau label kehinaan pada santri.
 
-Review dapat menghasilkan keputusan untuk melanjutkan, menyesuaikan, mengurangi, meningkatkan, menghentikan, mengumpulkan evidence tambahan, atau melakukan referral.
+---
 
-## 11. Safeguarding, Dignity, dan Fairness
+## 8. Hubungan dengan Asesmen dan Progresi Jenjang
 
-Corrective Support harus menjaga:
+1. **Bukan Mesin Penghukum:** Data asesmen digunakan untuk memahami pola kelemahan santri, bukan untuk mencari-cari kesalahan santri guna dijatuhi sanksi otomatis (*no score-to-punishment engine*).
+2. **Koreksi Bukan Tahap Perkembangan:** Menjalani masa koreksi bukan tanda bahwa santri mengalami penurunan kapasitas fitrah secara permanen.
+3. **Berkurangnya Koreksi Bukan Otomatis Mastery:** Ketiadaan pelanggaran pasca-koreksi bisa jadi hanya bentuk kepatuhan situasional; ketuntasan karakter (*mastery*) menuntut bukti konsistensi longitudinal dan transfer mandiri.
 
-- keselamatan fisik dan psikologis;
-- martabat individu;
-- proporsionalitas respons;
-- aksesibilitas dan kebutuhan yang relevan;
-- privasi dan need-to-know;
-- perlindungan dari kekerasan, penghinaan, intimidasi, dan stigma;
-- fairness dalam penerapan aturan;
-- hak untuk memahami alasan dan proses koreksi sesuai kewenangan dan konteks.
+---
 
-Koreksi tidak boleh menjadi pembenaran untuk kekerasan fisik, penghinaan, ancaman, atau praktik yang merendahkan martabat.
+## 9. Perlindungan Martabat dan Hak Santri (*Safeguarding & Dignity*)
 
-## 12. AI dan Digital Systems
+TUMBUH mengharamkan secara mutlak seluruh bentuk sanksi yang melanggar syariat dan hukum perlindungan anak:
+- **Haram Hukuman Fisik:** Dilarang memukul, menampar, menendang, menyuruh push-up/squat-jump berlebihan, menjemur di bawah terik matahari, atau menyiram air.
+- **Haram Kekerasan Verbal & Psikis:** Dilarang membentak dengan kata kotor, mencela fisik/keluarga, mengintimidasi, mempermalukan di pengumuman masjid/mading, atau mengisolasi santri di ruangan gelap.
+- **Hak Mengetahui Alasan:** Santri berhak menerima penjelasan yang tenang mengenai mengapa tindakannya keliru dan bagaimana cara memperbaikinya.
 
-Sistem digital atau AI dapat membantu merangkum evidence, mendeteksi pola yang perlu ditinjau, atau membantu dokumentasi. Output tersebut bukan kebenaran final dan tidak boleh secara otomatis menentukan hukuman atau label individu.
+---
 
-Keputusan corrective support tetap memerlukan review manusia yang berwenang, terutama pada keputusan yang berisiko tinggi.
+## 10. Penggunaan Sistem Digital dan AI
 
-## 13. Batas Klaim
+Sistem perangkat lunak logbook santri atau asisten AI hanya berfungsi mencatat rekam jejak faktual dan memberikan sinyal pola pengulangan. **AI dilarang keras menjatuhkan sanksi otomatis.** Setiap keputusan koreksi wajib melalui pertimbangan hati nurani, hikmah, dan musyawarah manusiawi dewan asatidz (*human-in-the-loop*).
 
-Arsitektur ini **tidak** dengan sendirinya membuktikan bahwa:
+---
 
-- suatu bentuk corrective support efektif;
-- corrective support tertentu menyebabkan perubahan tertentu;
-- satu metode berlaku universal;
-- kepatuhan sama dengan growth;
-- berkurangnya pelanggaran membuktikan capacity change;
-- satu respons korektif cocok untuk semua individu atau konteks.
+## 11. Pagar Batas Epistemik Arsitektur (*Boundary Rules*)
 
-Klaim efektivitas dan kausalitas memerlukan evidence yang sesuai dan ditelusuri melalui Claim Registry serta Evidence/Research layer.
-
-## 14. Traceability
-
-Setiap keputusan idealnya dapat ditelusuri melalui:
-
-```text
-Need / Construct
-      ↓
-Evidence
-      ↓
-Scoped Interpretation
-      ↓
-Risk / Context Analysis
-      ↓
-Corrective Support Decision
-      ↓
-Implementation
-      ↓
-Monitoring Evidence
-      ↓
-Review Decision
-```
-
-Traceability menjaga agar koreksi tetap dapat dipertanggungjawabkan dan ditinjau kembali.
-
-## 15. Hubungan dengan 10 Muwashofat
-
-10 Muwashofat tetap merupakan arah normatif Graduate Profile. Corrective Support dapat digunakan untuk membantu proses pembinaan menuju arah tersebut, tetapi tidak boleh mengubah Muwashofat menjadi skor empiris, diagnosis, atau label individu.
-
-## 16. Status Arsitektur
-
-Corrective Support telah ditetapkan sebagai komponen arsitektur intervensi pada tahap ini. Detail metode, prosedur lokal, instrumen, ambang keputusan, dan klaim efektivitas tetap memerlukan spesifikasi serta evidence pada layer yang sesuai.
+1. **Bukan Klaim Kausalitas Mutlak:** Penurunan pelanggaran santri pasca-koreksi tidak membuktikan secara mutlak bahwa metode musyrif adalah satu-satunya penyebab perubahan; hidayah dan kematangan santri adalah karunia Allah SWT.
+2. **Bukan Resep Universal Baku:** Apa yang berhasil mendidik seorang santri mungkin tidak cocok untuk santri lain yang memiliki profil kepribadian berbeda.
+3. **Penyelarasan dengan 10 Muwashofat:** Seluruh tindakan koreksi bermuara pada pembentukan 10 karakter muslim sejati (*Graduate Profile*), bukan untuk mencetak santri yang tunduk buta pada otoritas manusia.

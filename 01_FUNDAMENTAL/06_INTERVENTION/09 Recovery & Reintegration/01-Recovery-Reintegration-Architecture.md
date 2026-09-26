@@ -1,269 +1,120 @@
-# Recovery & Reintegration Architecture
+# Arsitektur Pemulihan dan Reintegrasi Komunitas (Recovery & Reintegration Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Intervention Recovery & Reintegration  
-**Epistemic status:** conceptually specified; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
+**Dokumen Terkait:**  
+- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
+- [02 Tiered Support / 05-Tier-3-Intensive-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Tier-3-Intensive-Support.md)  
+- [07 Corrective Support / 01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
+- [10 Case Management / 01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)
 
-## 1. Tujuan
+---
 
-Recovery dan reintegration membantu individu kembali ke fungsi pembelajaran/kehidupan komunitas setelah periode dukungan intensif atau pelanggaran serius, dengan rencana transisi dan monitoring. Ini mengikuti baseline komponen di repo. fileciteturn844file0
+> ### Intisari untuk Pendidik & Musyrif
+> **"Tarbiyah Islamiyah tidak pernah membuang anak yang terluka; tarbiyah membalut lukanya, menuntun langkahnya, dan membukakan pintu rumah agar ia kembali memeluk hangat persaudaraan."**  
+> Ketika seorang santri melewati masa krisis berat—seperti pemulihan pasca-trauma, sanksi pembinaan khusus, atau perselisihan serius—tugas terberat musyrif bukanlah saat memisahkannya, melainkan saat mengembalikannya ke tengah komunitas (*reintegration*). Mengembalikan santri tanpa persiapan ibarat melepas burung yang sayapnya baru sembuh ke tengah badai. Kita harus menyiapkan kesiapan jiwanya, mengkondisikan kehangatan teman sekamarnya, dan menyediakan pendampingan aman agar ia diterima seutuhnya tanpa stigma.
 
-Recovery bukan sekadar mengakhiri intervensi. Reintegration bukan sekadar mengembalikan seseorang ke tempat semula. Keduanya merupakan proses penyiapan, transisi, dukungan, dan pemantauan agar kembalinya fungsi berlangsung aman, bermartabat, dan sesuai kebutuhan.
+---
 
-## 2. Posisi dalam Arsitektur Intervention
+## 1. Hakikat dan Tujuan Pemulihan dan Reintegrasi
 
-Alur canonical:
+Pemulihan (*recovery*) dan reintegrasi (*reintegration*) adalah jembatan pengasuhan yang memastikan santri dapat kembali berfungsi dalam kehidupan ibadah, belajar, dan sosial pesantren secara aman dan bermartabat setelah menjalani masa intervensi intensif (Tier 3) atau krisis perilaku.
+- **Bukan Sekadar Prosedur Administratif:** Mengembalikan santri ke asrama bukan sekadar menandatangani surat izin kembali ke pondok.
+- **Proses Dua Arah:** Keberhasilan transisi menuntut kesiapan santri yang bersangkutan sekaligus kesiapan lingkungan kamar yang menerimanya kembali.
 
-```text
-Current Functioning / Need
-          ↓
-Evidence + Tabayyun
-          ↓
-Recovery Readiness / Context Review
-          ↓
-Transition & Reintegration Plan
-          ↓
-Supported Return
-          ↓
-Monitoring
-          ↓
-Review
-          ↓
-Maintain / Adjust / Step Up / Step Down / Refer
-```
+---
 
-Recovery & Reintegration berhubungan erat dengan Transition Criteria, Tiered Support, Corrective Support, dan Monitoring, tetapi tidak menggantikan fungsi masing-masing.
+## 2. Alur Rantai Kanonikal Pemulihan dan Reintegrasi
 
-## 3. Kapan Digunakan
-
-Recovery dan reintegration dapat relevan setelah:
-
-- periode dukungan intensif;
-- kondisi yang membuat fungsi pembelajaran/kehidupan komunitas terganggu;
-- pelanggaran serius ketika proses pemulihan dan kembalinya fungsi diperlukan;
-- periode pemisahan atau pembatasan yang sah dan perlu ditindaklanjuti;
-- perubahan kondisi yang membutuhkan transisi kembali ke lingkungan sebelumnya atau lingkungan baru.
-
-Tidak semua kasus memerlukan recovery plan formal. Proporsionalitas tetap menjadi prinsip.
-
-## 4. Distinction: Recovery dan Reintegration
-
-### Recovery
-
-Recovery berfokus pada pemulihan fungsi yang relevan, stabilisasi kondisi, pembangunan kembali kapasitas/fungsi yang dibutuhkan, serta kesiapan menghadapi tuntutan yang relevan.
-
-### Reintegration
-
-Reintegration berfokus pada kembalinya individu ke lingkungan pembelajaran atau kehidupan komunitas dengan dukungan, ekspektasi, relasi, dan kondisi lingkungan yang memadai.
-
-Keduanya dapat berlangsung bersamaan dan saling memperkuat.
-
-## 5. Prinsip Dasar
-
-### 5.1 Safety first
-
-Keamanan fisik, psikologis, dan safeguarding harus diperiksa sebelum transisi. Jika kondisi belum aman, rencana perlu disesuaikan.
-
-### 5.2 Dignity
-
-Individu tidak boleh diperlakukan sebagai identitas permanen berdasarkan periode krisis, pelanggaran, atau kebutuhan dukungan sebelumnya.
-
-### 5.3 Readiness is contextual
-
-Kesiapan kembali tidak ditentukan oleh satu skor universal. Ia dipahami berdasarkan tuntutan lingkungan, functioning, support fit, risiko, dan evidence yang relevan.
-
-### 5.4 Gradual when needed
-
-Kembalinya fungsi dapat dilakukan bertahap jika tuntutan atau risiko memerlukannya. Bertahap bukan berarti selalu lebih baik dan tidak selalu diperlukan.
-
-### 5.5 Support before withdrawal
-
-Pengurangan dukungan sebaiknya mempertimbangkan evidence bahwa fungsi dapat dipertahankan dengan tingkat dukungan yang sesuai. Mengurangi dukungan secara cepat bukan ukuran keberhasilan.
-
-### 5.6 Environment matters
-
-Reintegration bukan hanya tugas individu. Lingkungan yang menerima kembali perlu siap: ekspektasi, rutinitas, relasi, akses, pengawasan yang proporsional, dan jalur bantuan harus diperiksa.
-
-## 6. Readiness Review
-
-Sebelum transisi, review dapat mempertimbangkan:
-
-- fungsi saat ini;
-- tuntutan lingkungan tujuan;
-- evidence dari beberapa waktu/sumber bila relevan;
-- kebutuhan dukungan;
-- konsistensi functioning;
-- risiko dan safeguarding;
-- kesiapan lingkungan/caregiver/pendamping yang relevan;
-- aksesibilitas;
-- kebutuhan koordinasi atau referral;
-- rencana jika kondisi memburuk.
-
-Readiness review menghasilkan keputusan yang scoped, bukan label “sudah pulih” yang permanen.
-
-## 7. Transition Plan
-
-Rencana transisi sebaiknya menjelaskan secara proporsional:
-
-1. fungsi atau tujuan yang ingin dipulihkan;
-2. lingkungan dan tuntutan yang akan dihadapi;
-3. dukungan yang tersedia saat kembali;
-4. siapa yang memiliki peran dan kewenangan;
-5. tanda-tanda yang perlu dimonitor;
-6. kapan review dilakukan;
-7. apa yang dilakukan bila dukungan tidak cukup atau risiko meningkat;
-8. bagaimana dukungan dapat dikurangi, dipertahankan, atau ditingkatkan.
-
-Rencana harus dapat ditinjau ulang.
-
-## 8. Supported Return
-
-Kembalinya individu dapat melibatkan:
-
-- orientasi ulang terhadap rutinitas dan ekspektasi;
-- buddy/mentor atau pendamping yang sesuai;
-- structured practice;
-- pengurangan tuntutan sementara bila relevan;
-- peningkatan tuntutan secara bertahap bila diperlukan;
-- dukungan relasional;
-- penyesuaian lingkungan;
-- check-in yang proporsional;
-- koordinasi dengan pihak yang relevan.
-
-Daftar tersebut merupakan kategori opsi, bukan resep universal.
-
-## 9. Monitoring setelah Reintegration
-
-Monitoring berfokus pada fungsi nyata setelah kembali, bukan surveillance.
-
-Hal yang dapat ditinjau:
-
-- functioning dalam tuntutan yang relevan;
-- konsistensi;
-- kebutuhan dukungan;
-- transfer ke konteks baru;
-- relasi dan rasa aman;
-- respons terhadap perubahan tuntutan;
-- risiko/safeguarding;
-- apakah lingkungan mendukung kembalinya fungsi.
-
-Monitoring dapat menghasilkan step down, maintain, adjust, step up, atau referral sesuai evidence dan risiko.
-
-## 10. Hubungan dengan Transition Criteria
-
-Recovery & Reintegration menggunakan logika transition criteria:
+Proses pemulihan bergerak melalui delapan simpul sistematis:
 
 ```text
-Evidence
-   ↓
-Review
-   ↓
-Context Check
-   ↓
-Decision
-   ↓
-Trial / Supported Transition
-   ↓
-Monitor
-   ↓
-Confirm / Adjust / Revert
+┌─────────────────────────┐         ┌─────────────────────────┐         ┌─────────────────────────┐
+│ CURRENT FUNCTION / NEED │ ──────► │   EVIDENCE & TABAYYUN   │ ──────► │    READINESS REVIEW     │
+│ (Kondisi Terkini Pasca- │         │  (Verifikasi Kesiapan   │         │ (Audit Kesiapan Santri  │
+│  Krisis / Pembinaan)    │         │   Batin & Keamanan)     │         │  & Kamar Penerima)      │
+└─────────────────────────┘         └─────────────────────────┘         └────────────┬────────────┘
+                                                                                     │
+┌─────────────────────────┐         ┌─────────────────────────┐         ┌────────────▼────────────┐
+│         REVIEW          │ ◄────── │       MONITORING        │ ◄────── │    SUPPORTED RETURN     │
+│ (Evaluasi Kemandirian   │         │ (Pemantauan Keberfungsian│        │ (Transisi Masuk Kembali │
+│  & Kestabilan Adab)     │         │  Tanpa Mata-matai)      │         │  Didampingi Sahabat/BK) │
+└────────────┬────────────┘         └─────────────────────────┘         └─────────────────────────┘
+             │
+             ▼ (Opsi Keputusan Pasca-Transisi)
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│ [Maintain: Pertahankan] │ [Adjust: Modifikasi Jadwal] │ [Step Down: Sapih Pendamping]   │
+│ [Step Up: Tambah Bantuan Jika Kambuh] │ [Refer: Rujuk ke Layanan Medis/Psikolog Luar]   │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Reintegration tidak dianggap berhasil hanya karena individu kembali secara administratif. Yang dinilai adalah kecocokan transisi dengan fungsi, dukungan, konteks, dan keselamatan.
+---
 
-## 11. Hubungan dengan Tiered Support
+## 3. Distingsi Fundamental: Recovery vs Reintegration
 
-Dukungan dapat bergerak naik atau turun selama recovery. Tier tidak menjadi label individu.
+TUMBUH membedakan dengan tegas dua konsep ini agar tidak terjadi kerancuan penanganan:
 
 ```text
-Recovery Need
-     ↓
-Appropriate Support Intensity
-     ↓
-Evidence of Response
-     ↓
-Review
+┌───────────────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│                RECOVERY (PEMULIHAN)               │            REINTEGRATION (REINTEGRASI)            │
+├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Berfokus pada pemulihan fungsi batin, kestabilan  │ Berfokus pada proses kembalinya santri ke dalam   │
+│ emosi, regulasi diri, dan penyembuhan luka jiwa.  │ dinamika sosial asrama, kelas, dan halaqah.       │
+├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Wilayah: Internal santri dan sesi konseling BK.   │ Wilayah: Eksternal, relasi sebaya, dan tata ruang.│
+├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Indikator: Mampu mengendalikan amarah & tenang.   │ Indikator: Diterima hangat tanpa stigma teman.    │
+└───────────────────────────────────────────────────┴───────────────────────────────────────────────────┘
 ```
 
-Step down tidak selalu berarti “lebih baik”, dan step up tidak berarti kegagalan moral. Keduanya merupakan keputusan support fit.
+---
 
-## 12. Hubungan dengan Corrective Support
+## 4. Enam Prinsip Dasar Transisi Beradab
 
-Pada kasus yang bermula dari pelanggaran serius, corrective process dan recovery/reintegration dapat saling terkait tetapi memiliki fungsi berbeda:
+| No | Prinsip Inti | Makna Konseptual | Penerapan di Pesantren |
+| :---: | :--- | :--- | :--- |
+| **1** | **Keselamatan Utama (*Safety First*)** | Memastikan tidak ada risiko bahaya fisik atau trauma lanjutan bagi korban maupun pelaku. | Memastikan kedua pihak yang pernah bertikai telah saling memaafkan tulus sebelum disatukan kembali. |
+| **2** | **Menjaga Martabat (*Dignity*)** | Menghapus sebutan lama; santri tidak boleh dipandang sebagai mantan pelanggar. | Mengingatkan teman-teman sekamar untuk tidak mengungkit kesalahan masa lalu (*satr al-'aurat*). |
+| **3** | **Kesiapan Kontekstual (*Contextual Readiness*)** | Kesiapan santri diuji berdasarkan beban nyata lingkungan, bukan skor tes di atas kertas. | Melihat apakah santri sanggup menghadapi suasana ramai kantin atau antrean kamar mandi. |
+| **4** | **Transisi Bertahap (*Gradual Re-entry*)** | Memasukkan santri secara bertahap jika beban langsung dianggap terlalu mengejutkan. | Santri mulai bergabung dalam shalat berjamaah, disusul belajar di kelas, lalu tidur penuh di kamar. |
+| **5** | **Dukungan Sebelum Pelepasan** | Menyiapkan sistem pendamping sebelum mengurangi pengawalan musyrif. | Menunjuk santri senior yang bijak sebagai sahabat pendamping (*peer mentor / buddy*). |
+| **6** | **Kesiapan Lingkungan Penerima** | Menyiapkan hati dan sikap warga asrama sebelum santri tersebut tiba di kamar. | Musyrif mengumpulkan penghuni kamar untuk briefing empati dan adab menerima saudara kembali. |
 
-- Corrective Support: memperbaiki tindakan, dampak, tanggung jawab, relasi, dan pembelajaran.
-- Recovery & Reintegration: membantu kembalinya fungsi dan partisipasi secara aman.
+---
 
-Seseorang tidak boleh terus diperlakukan sebagai pelanggar hanya karena pernah menerima corrective support.
+## 5. Rencana Transisi Terpadu (*Transition Plan Structure*)
 
-## 13. Assessment dan Evidence Boundary
+Setiap kepulangan santri pasca-krisis wajib memuat 8 elemen kunci:
+1. **Target Fungsi:** Keterampilan adab apa yang dipulihkan (misal: fokus belajar atau tidur tenang).
+2. **Konteks Tujuan:** Asrama atau kelas mana yang akan dimasuki santri.
+3. **Paket Dukungan:** Siapa musyrif pendamping dan mentor sebaya yang ditunjuk.
+4. **Tanda Peringatan (*Warning Signs*):** Gejala awal jika santri mulai merasa tertekan atau cemas.
+5. **Jadwal Check-in:** Pertemuan santai 10 menit setiap malam antara musyrif dan santri.
+6. **Rencana Kontinjensi (*Contingency Plan*):** Langkah darurat jika terjadi gesekan atau penolakan sosial.
+7. **Jalur Koordinasi:** Komunikasi berkala dengan guru BK dan orang tua di rumah.
+8. **Strategi Pelepasan Mandiri:** Waktu target penyapihan pendampingan menuju kemandirian penuh.
 
-Assessment dapat menyediakan evidence untuk review readiness dan functioning. Namun satu assessment atau satu skor tidak otomatis menentukan bahwa seseorang siap kembali.
+---
 
-```text
-Evidence ≠ Readiness Label
-Evidence ≠ Permanent Recovery Status
-```
+## 6. Monitoring Tanpa Memata-Matai (*Non-Surveillance Monitoring*)
 
-Evidence harus ditafsirkan sesuai konteks, tuntutan, support conditions, dan intended inference.
+Pemantauan setelah reintegrasi berfokus pada **keberfungsian santri**, bukan pengawasan polisi (*surveillance*):
+- **Dilarang *Tajassus*:** Musyrif tidak boleh mengintai secara sembunyi-sembunyi atau memasang santri mata-mata yang membuat suasana kamar mencekam.
+- **Observasi Alami:** Musyrif memperhatikan interaksi saat santri bercengkerama santai, tertawa bersama, atau antre berwudhu.
 
-## 14. Fairness, Privacy, dan Stigma
+---
 
-Reintegration perlu mencegah:
+## 7. Penanganan Kekambuhan (*Relapse Protocol*): Kemunduran Bukan Akhir Segalanya
 
-- stigma permanen;
-- penyebaran informasi masa lalu tanpa kebutuhan;
-- perlakuan berbeda tanpa dasar yang relevan;
-- exclusion yang tidak perlu;
-- akses kembali yang dipersulit oleh label lama;
-- public disclosure yang mempermalukan.
+Jika dalam masa adaptasi santri kembali menunjukkan gejala emosi tidak stabil atau melakukan kekhilafan ringan:
+- **Jangan Dianggap Gagal Total:** Kemunduran sementara (*fluctuation*) adalah bagian normal dari kurva pertumbuhan manusia.
+- **Tingkatkan Dukungan (*Step Up*):** Tambah waktu dialog dan kurangi beban tugas tanpa memarahi atau menjatuhkan sanksi baru yang mempermalukan.
 
-Informasi yang diperlukan untuk keselamatan dan koordinasi tetap dapat dibagikan sesuai kewenangan dan prinsip need-to-know.
+---
 
-## 15. AI dan Digital Systems
+## 8. Pagar Batas Epistemik Arsitektur (*Boundary Rules*)
 
-AI dapat membantu merangkum evidence atau mengidentifikasi pola yang perlu ditinjau. AI tidak boleh menjadi penentu otomatis bahwa individu “siap” atau “tidak siap” untuk reintegration.
-
-Keputusan transisi yang berisiko memerlukan human review dan governance yang sesuai.
-
-## 16. Batas Klaim
-
-Arsitektur ini tidak membuktikan bahwa:
-
-- suatu recovery program efektif secara universal;
-- reintegration tertentu menyebabkan capacity growth;
-- readiness dapat direduksi menjadi satu skor;
-- kembali ke lingkungan selalu menghasilkan reintegration yang berhasil;
-- step down support membuktikan mastery;
-- perubahan setelah reintegration merupakan bukti kausal.
-
-Klaim efektivitas, prediction, atau causality memerlukan evidence yang sesuai.
-
-## 17. Hubungan dengan 10 Muwashofat
-
-10 Muwashofat tetap menjadi arah normatif Graduate Profile. Recovery & Reintegration dapat membantu individu kembali memperoleh kesempatan untuk bertumbuh menuju arah tersebut, tetapi tidak mengubah Muwashofat menjadi recovery score atau readiness score.
-
-## 18. Traceability
-
-```text
-Need / Context
-     ↓
-Evidence
-     ↓
-Scoped Interpretation
-     ↓
-Readiness & Risk Review
-     ↓
-Transition Plan
-     ↓
-Supported Return
-     ↓
-Monitoring Evidence
-     ↓
-Review / Adjustment
-```
-
-Traceability diperlukan agar keputusan reintegration dapat dipertanggungjawabkan dan ditinjau kembali.
-
-## 19. Status Arsitektur
-
-Recovery & Reintegration ditetapkan sebagai komponen arsitektur intervention pada tahap ini. Detail prosedur recovery, indikator readiness, durasi transition, bentuk dukungan, dan klaim efektivitas harus dikembangkan serta divalidasi pada layer yang sesuai.
+1. **Bukan Status Kesembuhan Permanen:** Kelulusan dari proses reintegrasi tidak menjamin santri kebal selamanya dari ujian emosi; pembinaan akhlak adalah proses seumur hidup.
+2. **Bukan Penentu Jenjang Otomatis:** Berhasil kembali ke asrama bukan dasar untuk langsung menaikkan jenjang kemandirian J1-J4 tanpa asesmen portofolio berkala.
+3. **Penyelarasan dengan 10 Muwashofat:** Reintegrasi bertujuan mengembalikan santri ke dalam kafilah penuntut ilmu yang berjuang menggapai profil 10 karakter muslim sejati.

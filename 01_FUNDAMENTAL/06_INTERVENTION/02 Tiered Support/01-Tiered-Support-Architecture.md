@@ -1,266 +1,185 @@
-# Tiered Support Architecture
+# Arsitektur Tingkat Dukungan Berjenjang Tarbiyah Pesantren (Tiered Support Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Intervention Tiered Support
-**Epistemic status:** Conceptually specified; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
+**Dokumen Terkait:**  
+- [02-Tiered-Support-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/02-Tiered-Support-Audit.md)  
+- [03-Tier-Logic-and-Entry.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/03-Tier-Logic-and-Entry.md)  
+- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)  
+- [05-Support-Intensity-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Support-Intensity-and-Fit.md)  
+- [06-Tier-Equity-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/06-Tier-Equity-and-Access.md)  
+- [07-Tier-Safeguarding-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/07-Tier-Safeguarding-and-Escalation.md)  
+- [08-Tier-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/08-Tier-Traceability-and-Governance.md)
 
-## 1. Purpose
+---
 
-Tiered Support mengatur intensitas, cakupan, dan bentuk dukungan berdasarkan kebutuhan serta respons yang terlihat dari evidence. Tujuannya bukan memberi label tingkat kepada seseorang, melainkan memastikan dukungan dapat disesuaikan.
+> ### Intisari untuk Pendidik & Musyrif
+> **"Tingkat dukungan (Tier) adalah takaran bantuan yang disiapkan oleh pondok, BUKAN kasta atau derajat kemuliaan santri."**  
+> Di pesantren, sangat berbahaya jika seorang santri dicap sebagai "anak Tier 3" lalu dijauhi oleh kawan-kawannya dan dipandang sebelah mata oleh dewan asatidz. Sistem multi-tier diadopsi bukan untuk memilah-milah anak menjadi kelompok kasta moral, melainkan untuk memastikan bahwa energi kepengasuhan dialokasikan secara adil dan tepat sasaran.  
+> Dokumen ini menjabarkan **Arsitektur Tingkat Dukungan Berjenjang (Tiered Support Architecture) TUMBUH v2.0.0**: bagaimana membagi spektrum pembinaan menjadi Tier 1 (Universal), Tier 2 (Terarah), dan Tier 3 (Intensif), menjaga agar santri dapat berpindah tingkat secara luwes (*flexible movement*), membedakan tier dukungan dari jenjang kemandirian (J1–J4), serta mencegah timbulnya stigma di asrama.
 
-Baseline TUMBUH membagi dukungan menjadi **universal/preventif, targeted/developmental, dan intensive/corrective-recovery**, dengan kemungkinan tingkat dukungan naik atau turun berdasarkan evidence. fileciteturn835file0L2-L2
+---
 
-## 2. Canonical Position
+## 1. Hakikat dan Tujuan Tingkat Dukungan Berjenjang
 
-```text
-Need / Evidence
-      ↓
-Support Decision
-      ↓
-Tier Selection
-      ↓
-Support Delivery
-      ↓
-Response Evidence
-      ↓
-Review
-   ↙       ↘
-Adjust     Maintain
-   ↘       ↙
-   Tier / Support
-```
+Tingkat Dukungan Berjenjang (*Tiered Support*) adalah kerangka kerja pengorganisasian sumber daya tarbiyah di pesantren untuk merespons kebutuhan santri dengan tingkat intensitas yang proporsional. 
 
-Tier adalah pengaturan dukungan, bukan tingkat kualitas manusia atau tingkat kapasitas seseorang.
-
-## 3. Three Support Levels
-
-### Tier 1 — Universal / Preventive
-
-Dukungan yang tersedia secara luas untuk menciptakan lingkungan yang mendukung perkembangan dan mencegah masalah yang dapat dicegah.
-
-Fokus dapat mencakup:
-
-- kualitas lingkungan;
-- predictable routines;
-- kesempatan belajar dan practice;
-- relational safety;
-- positive guidance;
-- akses terhadap dukungan dasar.
-
-Tier 1 bukan berarti kebutuhan semua orang identik.
-
-### Tier 2 — Targeted / Developmental
-
-Dukungan yang lebih terarah ketika evidence menunjukkan kebutuhan tertentu atau ketika dukungan universal belum memadai.
-
-Dapat mencakup:
-
-- dukungan pada functioning tertentu;
-- practice yang lebih terstruktur;
-- coaching;
-- mentoring;
-- kelompok kecil;
-- penyesuaian lingkungan atau demand.
-
-Targeted tidak berarti individu “bermasalah”; ia berarti dukungan dibuat lebih spesifik terhadap kebutuhan.
-
-### Tier 3 — Intensive / Corrective-Recovery
-
-Dukungan yang lebih intensif ketika kebutuhan, risiko, atau respons terhadap dukungan sebelumnya memerlukannya.
-
-Dapat mencakup:
-
-- dukungan individual intensif;
-- koordinasi lintas pihak;
-- corrective support;
-- recovery;
-- reintegration;
-- case management ketika diperlukan.
-
-Tier 3 memerlukan perhatian lebih kuat pada safeguarding, proportionality, kompetensi pelaksana, dan monitoring.
-
-## 4. Tier Is Not a Label
+Sistem ini didasarkan pada prinsip keadilan Islam dan kerangka *School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)* yang diselaraskan dengan kultur pesantren 24 jam.
 
 ```text
-Tier of Support
-≠
-Level of Person
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM TINGKAT DUKUNGAN KANONIKAL                     │
+│                                                                        │
+│       TIER = TINGKAT BANTUAN SISTEM PENGASUHAN                         │
+│       Bukan ranking watak atau level harga diri manusia.               │
+│                                                                        │
+│       TIER TINGGI BUKAN HUKUMAN, TIER RENDAH BUKAN KELULUSAN MORAL     │
+│       Santri membutuhkan bantuan lebih intensif karena sedang diuji    │
+│       beban adaptasi yang berat, bukan karena ia anak terkutuk.        │
+│                                                                        │
+│       FLEKSIBILITAS DINAMIS LINTAS KONTEKS                             │
+│       Seorang santri bisa butuh Tier 2 untuk adab tidur, tapi cukup    │
+│       Tier 1 untuk ketertiban halaqah Al-Qur'an.                       │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Seseorang dapat membutuhkan Tier 3 pada satu functioning/context dan Tier 1 pada area lain. Kebutuhan dukungan juga dapat berubah dari waktu ke waktu.
+---
 
-J1–J4 pada Progression merupakan arsitektur support/autonomy dan tidak boleh disamakan secara otomatis dengan Tier 1–3 Intervention.
+## 2. Kedudukan Kanonikal dalam Alur Intervensi TUMBUH
 
-## 5. Entry to a Tier
-
-Keputusan masuk tier mempertimbangkan:
-
-- evidence yang relevan;
-- construct/functioning yang membutuhkan dukungan;
-- severity atau significance bila relevan;
-- context dan demand;
-- existing support;
-- response terhadap support sebelumnya;
-- risiko dan safeguarding;
-- tujuan yang ingin dicapai.
-
-Tidak boleh ada aturan “score tertentu = tier tertentu” tanpa evidence dan keputusan governance yang sesuai.
-
-## 6. Stepping Up and Stepping Down
-
-Tier dapat berubah:
+Keputusan penetapan tier bukan tindakan sepihak, melainkan hasil pembacaan bukti lapangan yang bermuara pada kesesuaian bantuan:
 
 ```text
-Evidence
-   ↓
-Review
-   ↓
-Support Fit
-   ↓
-Response
-   ↓
-Adjust Tier
+Bukti Teramati di Lapangan (Evidence from 24h Life)
+                        ↓
+Telaah Kebutuhan & Konteks Ekologis (Need Review)
+                        ↓
+Keputusan Musyawarah Tingkat Dukungan (Tier Decision)
+                        ↓
+Pemberian Bantuan Tarbiyah Terencana (Support Delivery)
+                        ↓
+Pengumpulan Bukti Respons Santri (Response Evidence)
+                        ↓
+Tinjauan Berkala & Refleksi Bersama (Review Meeting)
+          ┌─────────────┴─────────────┐
+          ▼                           ▼
+Penyesuaian Dukungan        Pertahankan Dukungan
+(Naik/Turun Tier)           (Maintain Support)
 ```
 
-Stepping up dapat dipertimbangkan ketika dukungan saat ini tidak memadai atau kebutuhan/risiko meningkat.
+---
 
-Stepping down dapat dipertimbangkan ketika evidence menunjukkan dukungan yang lebih ringan cukup, dengan tetap memantau keberlanjutan functioning.
+## 3. Tiga Tingkat Dukungan Tarbiyah (The Three-Tier Architecture)
 
-Stepping down bukan tujuan moral dan stepping up bukan hukuman.
-
-## 7. Support Fit
-
-Pertanyaan utama bukan hanya “berapa tinggi tier?” tetapi:
-
-- apakah dukungan sesuai dengan kebutuhan;
-- apakah dukungan benar-benar dapat diakses;
-- apakah demand perlu disesuaikan;
-- apakah environment perlu diperbaiki;
-- apakah dukungan membantu functioning;
-- apakah ada unintended harm atau dependency yang perlu diperhatikan.
-
-Support fit dapat lebih penting daripada intensitas semata.
-
-## 8. Relation to Assessment
-
-Assessment menyediakan evidence; tiered support menggunakan evidence tersebut untuk menentukan bentuk dukungan yang proporsional.
+TUMBUH membagi spektrum dukungan menjadi 3 tingkat berjenjang yang saling menopang:
 
 ```text
-Assessment Evidence
-       ↓
-Need Review
-       ↓
-Tier Decision
-       ↓
-Support
-       ↓
-Monitoring
-       ↓
-Reassessment
+               ▲
+              / \
+             /   \     TIER 3 : INTENSIF & INDIVIDUAL (1–5% Santri)
+            / T3  \    Konseling BK, pendampingan khusus, ishlah kasus berat.
+           /-------\
+          /   T2    \  TIER 2 : TERARAH & PERKEMBANGAN (10–15% Santri)
+         /           \ Klinik adab berkala, mentoring asisten musyrif, grup mini.
+        /-------------\
+       /      T1       \ TIER 1 : UNIVERSAL & PREVENTIF (100% Seluruh Santri)
+      /                 \ Bi'ah shalihah, keteladanan qudwah, SOP adab harian.
+     /───────────────────\
 ```
 
-Assessment tidak otomatis menentukan tier. Keputusan tetap membutuhkan review dan kewenangan yang sesuai.
+### 1. Tier 1 — Dukungan Universal & Pencegahan Primer (Universal / Preventive)
+- **Sasaran:** Seluruh santri pondok tanpa terkecuali (100%).
+- **Fokus Pembinaan:** Pembentukan lingkungan yang kondusif (*bi'ah shalihah*), rutinitas asrama yang terprediksi dan menenangkan, keteladanan nyata dari asatidz (*qudwah hasanah*), pengajaran adab secara eksplisit, serta kepastian keselamatan fisik dan emosional di pondok.
+- **Kunci Keberhasilan:** Jika Tier 1 kokoh, maka 80–90% santri akan mampu bertumbuh dengan baik tanpa memerlukan intervensi tambahan.
 
-## 9. Relation to Progression
+### 2. Tier 2 — Dukungan Terarah & Bimbingan Kelompok (Targeted / Developmental)
+- **Sasaran:** Santri yang menunjukkan kesulitan adaptasi adab berulang atau membutuhkan penguatan keterampilan khusus (10–15% santri).
+- **Fokus Pembinaan:** Bimbingan kelompok kecil (*halaqah mini*), klinik adab wudhu/shalat, pendampingan sebaya oleh asisten musyrif senior (J4), serta penyesuaian beban belajar atau tata ruang kamar.
+- **Prinsip Penting:** Masuk ke Tier 2 **bukan aib**; santri hanya memerlukan waktu latihan tambahan yang lebih terstruktur.
 
-Tiered Support dapat berinteraksi dengan progression melalui support requirement dan autonomy.
+### 3. Tier 3 — Dukungan Intensif, Korektif & Pemulihan (Intensive / Corrective-Recovery)
+- **Sasaran:** Santri yang mengalami krisis adab serius, pelanggaran berulang yang berdampak pada keselamatan kawan, atau tidak merespons bimbingan Tier 2 (1–5% santri).
+- **Fokus Pembinaan:** Konseling individual naratif oleh guru BK/asatidz senior, penyusunan Rencana Pendampingan Perilaku Individual (RPPI), pelibatan musyawarah bersama wali santri, mediasi pemulihan hubungan (*ishlah*), dan manajemen kasus (*case management*).
+- **Prinsip Penting:** Tier 3 menuntut standar perlindungan anak (*safeguarding*), kerahasiaan aib, dan proporsionalitas yang paling ketat.
 
-Namun:
+---
 
-- Tier 3 ≠ developmental stage rendah;
-- Tier 1 ≠ mastery;
-- stepping down ≠ completion of development;
-- stepping up ≠ developmental failure.
+## 4. Pembedaan Tegas: Tier Dukungan vs. Jenjang Kemandirian (J1–J4)
 
-## 10. Prevention and Environment
-
-Tiered Support tidak boleh terlalu berfokus pada perubahan individu. Jika evidence menunjukkan environmental factor yang relevan, respons dapat diarahkan pada:
-
-- setting;
-- routines;
-- relationships;
-- demand;
-- accessibility;
-- institutional practice.
-
-Dengan demikian intervention tidak berubah menjadi mekanisme “memperbaiki anak” sementara kondisi yang memengaruhi functioning dibiarkan.
-
-## 11. Fairness and Safeguarding
-
-Tier decisions harus mempertimbangkan:
-
-- accessibility;
-- language dan cultural/contextual fit;
-- power relationship;
-- risiko stigma;
-- proportionality;
-- privacy;
-- safeguarding;
-- kesempatan memperoleh dukungan.
-
-Kebutuhan support tidak boleh diperlakukan sebagai cacat moral.
-
-## 12. Data and Monitoring
-
-Setiap tier decision perlu memiliki alasan yang dapat ditelusuri dan rencana review yang proporsional.
+Sangat penting bagi dewan asatidz untuk **tidak mencampuradukkan** antara *Tier Dukungan Intervensi* dengan *Jenjang Kemandirian (Progression)*:
 
 ```text
-Tier Decision
-   ↓
-Support Plan
-   ↓
-Expected / Relevant Response
-   ↓
-Monitoring Evidence
-   ↓
-Review
+┌────────────────────────────────────────────────────────────────────────┐
+│                   PERBEDAAN FUNDAMENTAL KANONIKAL                      │
+│                                                                        │
+│   JENJANG KEMANDIRIAN (J1–J4) :                                        │
+│   ──> Menggambarkan TINGKAT KEMANDIRIAN ADAB SANTRI                    │
+│       (J1: Bimbingan Terarah, J2: Bimbingan Berkala,                   │
+│        J3: Mandiri Teruji, J4: Teladan Penggerak).                     │
+│                                                                        │
+│   TIER DUKUNGAN (Tier 1–3) :                                           │
+│   ──> Menggambarkan TINGKAT SUMBER DAYA BANTUAN YANG DISIAPKAN SISTEM  │
+│       (Tier 1: Universal, Tier 2: Terarah, Tier 3: Intensif).          │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Data yang tidak dibutuhkan untuk keputusan tidak perlu dikumpulkan.
+Santri yang berada di Jenjang J1 (misal: santri baru kelas 7 yang masih perlu dibimbing wudhu dan merapikan ranjang) adalah santri normal yang berada di **Tier 1 (Dukungan Universal)**. Ia tidak otomatis berada di Tier 3 hanya karena kemandiriannya masih di tahap pemula!
 
-## 13. AI / Automated Triage
+---
 
-Sistem digital atau AI dapat membantu mengorganisasi evidence atau memberi sinyal bahwa review mungkin diperlukan. AI tidak boleh secara mandiri memberi label tier untuk keputusan sensitif tanpa human review dan governance yang sesuai.
+## 5. Dinamika Masuk, Naik, dan Turun Tingkat Dukungan
+
+Tingkat dukungan bersifat cair dan dinamis sesuai dengan grafik perkembangan santri:
+
+### A. Kriteria Masuk Tier (*Tier Entry*)
+Masuk ke Tier 2 atau Tier 3 didasarkan pada musyawarah pengasuhan dengan mempertimbangkan:
+- Frekuensi dan intensitas kesulitan adab dalam logbook 30 hari terakhir.
+- Kegagalan dukungan umum Tier 1 dalam membantu santri mengendalikan diri.
+- Tingkat risiko keselamatan diri santri atau kawan sekamar.
+- Dilarang membuat aturan jalan pintas kaku seperti: *"Skor di bawah 60 otomatis masuk Tier 3"*.
+
+### B. Menaikkan Tingkat Dukungan (*Stepping Up*)
+Dukungan dinaikkan (dari Tier 1 ke Tier 2, atau Tier 2 ke Tier 3) ketika:
+- Data pengamatan membuktikan bahwa bantuan saat ini belum memadai untuk meredakan kesulitan santri.
+- Terjadi eskalasi risiko yang membahayakan ketenteraman asrama.
+- **Kaidah Etis:** *Stepping up* adalah bentuk pertolongan darurat pondok, **bukan sanksi pidana**.
+
+### C. Menurunkan Tingkat Dukungan (*Stepping Down*)
+Dukungan diturunkan (dari Tier 3 ke Tier 2, atau Tier 2 ke Tier 1) ketika:
+- Santri telah menunjukkan konsistensi pengendalian diri selama 3–4 pekan berturut-turut.
+- Santri telah mampu menjalankan rutinitas dengan perancah yang lebih ringan.
+- **Kaidah Etis:** *Stepping down* bukan sertifikat kelulusan mutlak; santri tetap dipantau secara wajar dalam suasana hangat Tier 1.
+
+---
+
+## 6. Kecocokan Dukungan Lebih Penting daripada Intensitas (Support Fit Over Intensity)
+
+Dalam membina santri, **tepatnya obat jauh lebih menentukan daripada mahalnya obat**:
 
 ```text
-Automated Signal
-      ≠
-Final Tier Decision
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM KECOCOKAN BANTUAN (SUPPORT FIT)                │
+│                                                                        │
+│       BANTUAN TEPAT SASARAN > BANTUAN BERLEBIHAN                       │
+│                                                                        │
+│   Jika seorang santri melanggar jam tidur karena ketakutan di kamar    │
+│   yang gelap, memberinya "konseling intensif 3 jam" (Tier 3)           │
+│   tidak akan menyelesaikan masalah. Yang ia butuhkan adalah lampu tidur│
+│   kecil dan teman sekamar yang ramah (Perbaikan Lingkungan Tier 1).    │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 14. Traceability
+Intervensi yang berhasil selalu menanyakan: *"Apakah bentuk dukungan ini benar-benar menjawab kendala batin santri?"*, bukan *"Berapa jam santri harus dihukum?"*.
 
-```text
-Need / Evidence
-   ↓
-Construct / Functioning
-   ↓
-Context / Demand / Support
-   ↓
-Tier Decision
-   ↓
-Support Goal
-   ↓
-Support Action
-   ↓
-Response Evidence
-   ↓
-Review
-   ↓
-Maintain / Adjust / Step Up / Step Down
-```
+---
 
-## 15. Boundary Rules
+## 7. Pagar Batas Epistemik Arsitektur Tier (Boundary Rules)
 
-Tiered Support bukan:
+1. **Bukan Kasta Sosial Pesantren:** Dilarang menyebut atau mengumumkan daftar "santri Tier 3" kepada khalayak pondok.
+2. **Bukan Tangga Hukuman Berjenjang:** Tier 1, 2, dan 3 bukan analogi dari "hukuman ringan, sedang, dan berat", melainkan spektrum pendampingan tarbiyah.
+3. **Mencegah Ketergantungan Bantuan (*Support Dependency*):** Pemberian bantuan khusus tidak boleh membuat santri menjadi manja atau kehilangan daya juang untuk mandiri.
 
-- ranking individu;
-- diagnosis;
-- permanent label;
-- developmental stage model;
-- punishment ladder;
-- automatic score-to-tier algorithm;
-- universal intervention recipe;
-- proof of intervention effectiveness;
-- proof of causality.
+---
 
-**Decision:** Tiered Support is a flexible support-allocation architecture. Specific thresholds, interventions, and tier criteria remain context- and evidence-dependent.
+> **Keputusan Arsitektur:** Arsitektur Tingkat Dukungan Berjenjang (*Tiered Support Architecture*) adalah peta navigasi pengalokasian kasih sayang dan energi asatidz di pesantren. Dengan struktur multi-tier yang luwes, adil, dan manusiawi, setiap santri mendapatkan pertolongan yang pas dengan ukuran bebannya, sehingga tidak ada satu pun anak asuh yang tertinggal atau terzalimi.

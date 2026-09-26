@@ -1,302 +1,90 @@
-# Case Management Architecture
+# Arsitektur Manajemen Kasus Khusus (Case Management Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Intervention Case Management  
-**Epistemic status:** conceptually specified; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
+**Dokumen Terkait:**  
+- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
+- [02 Tiered Support / 05-Tier-3-Intensive-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Tier-3-Intensive-Support.md)  
+- [09 Recovery & Reintegration / 01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
+- [10 Case Management / 05-Roles-Communication-and-Consent.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/05-Roles-Communication-and-Consent.md)
 
-## 1. Tujuan
+---
 
-Case Management mengoordinasikan assessment, rencana dukungan, pihak terkait, monitoring, review, dokumentasi, dan closure untuk kasus yang membutuhkan koordinasi lintas peran. Ini mempertahankan baseline komponen di repo. fileciteturn845file0
+> ### Intisari untuk Pendidik & Musyrif
+> **"Ketika sebuah beban terlalu berat untuk dipikul oleh satu musyrif, satukanlah barisan para pendidik dalam satu tali koordinasi yang kokoh demi menyelamatkan satu jiwa santri."**  
+> Di lingkungan pesantren, terkadang kita menghadapi santri dengan pergulatan hidup yang sangat rumit: trauma masa lalu, konflik keluarga di rumah, penurunan drastis motivasi belajar, hingga krisis emosional berat. Situasi ini tidak boleh ditangani sendirian oleh musyrif kamar. *Case Management* adalah orkestrasi kasih sayang profesional: menyatukan langkah musyrif, guru BK, wali kelas, pimpinan pondok, orang tua, dan tenaga ahli luar agar penanganannya terpadu, tidak tumpang tindih, dan menjaga kehormatan santri seutuhnya.
 
-Case Management bukan intervensi tersendiri yang otomatis diberikan kepada setiap individu. Ia adalah arsitektur koordinasi agar keputusan dan dukungan lintas peran tidak berjalan sendiri-sendiri, kehilangan konteks, atau terputus tanpa review.
+---
 
-## 2. Posisi dalam Arsitektur Intervention
+## 1. Hakikat dan Ruang Lingkup Manajemen Kasus
 
-Alur canonical:
+Manajemen Kasus (*Case Management*) adalah **arsitektur koordinasi lintas peran**, bukan intervensi tunggal yang berdiri sendiri. Fungsinya adalah memastikan seluruh pihak yang terlibat dalam pendampingan santri berkebutuhan intensif (Tier 3) bekerja secara sinergis, terukur, dan transparan.
+- **Kasus Bukan Manusia (*Case ≠ Person*):** Kasus adalah unit koordinasi kebutuhan tertentu dalam batas waktu tertentu; santri tetaplah hamba Allah yang mulia dan bukan kumpulan berkas masalah.
+- **Bukan Mesin Birokrasi Kaku:** Koordinasi hadir untuk mempermudah santri mendapatkan pertolongan yang tepat, bukan untuk mempersulit penanganan dengan formulir berbelit-belit.
 
-```text
-Case Need / Trigger
-       ↓
-Case Intake & Scope
-       ↓
-Evidence / Assessment Review
-       ↓
-Tabayyun + Context / Need Analysis
-       ↓
-Risk & Safeguarding Check
-       ↓
-Case Plan
-       ↓
-Role / Service Coordination
-       ↓
-Implementation
-       ↓
-Monitoring
-       ↓
-Review
-       ↓
-Continue / Adjust / Step Down / Step Up / Refer / Close
-```
+---
 
-Case Management mengoordinasikan berbagai komponen Intervention, tetapi tidak menggantikan fungsi assessment, intervention decision, monitoring, safeguarding, atau referral.
+## 2. Alur Rantai Kanonikal Manajemen Kasus
 
-## 3. Kapan Case Management Diperlukan
-
-Case Management dapat digunakan ketika sebuah kebutuhan memerlukan:
-
-- koordinasi lintas peran;
-- beberapa bentuk dukungan secara bersamaan;
-- monitoring dan review yang berkelanjutan;
-- koordinasi dengan keluarga/caregiver atau pihak eksternal yang berwenang;
-- pengelolaan transisi atau reintegration;
-- safeguarding atau risiko yang membutuhkan koordinasi;
-- dokumentasi dan closure yang terstruktur.
-
-Tidak semua kebutuhan membutuhkan case management formal. Intensitas koordinasi harus proporsional terhadap kompleksitas, risiko, dan kebutuhan.
-
-## 4. Case ≠ Person
-
-Case adalah unit koordinasi untuk kebutuhan tertentu dalam periode tertentu. Case tidak boleh berubah menjadi identitas permanen individu.
+Setiap penanganan kasus khusus wajib bergerak melalui alur koordinasi kanonikal:
 
 ```text
-Person
-  ≠
-Case
-  ≠
-Diagnosis / Label
+┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
+│ 1. CASE INTAKE  │ ───► │  2. EVIDENCE    │ ───► │ 3. TABAYYUN &   │ ───► │ 4. SAFEGUARDING │
+│ (Penerimaan     │      │     REVIEW      │      │    NEED AUDIT   │      │    CHECK        │
+│  Laporan/Sinyal)│      │ (Telaah Fakta)  │      │ (Analisis Akar) │      │ (Uji Bahaya)    │
+└─────────────────┘      └─────────────────┘      └─────────────────┘      └────────┬────────┘
+                                                                                    │
+┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐               │
+│ 8. MONITOR &    │ ◄─── │ 7. IMPLEMENT    │ ◄─── │ 6. ROLE & SVC   │ ◄─── 5. CASE PLAN     │
+│    REVIEW       │      │ (Pelaksanaan    │      │    COORDINATION │      (Rencana Aksi    │
+│ (Evaluasi Kasus)│      │  Dukungan Nyata)│      │ (Bagi Peran Tim)│      │  Terpadu)      │
+└────────┬────────┘      └─────────────────┘      └─────────────────┘      └────────────────┘
+         │
+         ▼ (Opsi Ketetapan Penutupan / Rujukan)
+┌───────────────────────────────────────────────────────────────────────────────────────────┐
+│ [Continue: Lanjutkan] │ [Adjust: Ubah Rencana] │ [Step Down: Turun ke Tier 2/1]           │
+│ [Referral: Rujuk ke Psikiater/RS Luar] │ [Close: Kasus Selesai Tuntas]                    │
+└───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Satu orang dapat memiliki lebih dari satu kebutuhan pada waktu berbeda, sementara satu case dapat melibatkan beberapa pihak dan beberapa domain dukungan.
+---
 
-## 5. Case Intake dan Scope
+## 3. Kapan Manajemen Kasus Formal Diaktifkan?
 
-Pada awal case, perlu ditentukan secara proporsional:
+Manajemen kasus formal tidak diaktifkan untuk pelanggaran ringan sehari-hari, melainkan hanya jika memenuhi kriteria:
+1. **Kompleksitas Multi-Domain:** Masalah melibatkan ranah psikologis, medis, akademis, dan relasi asrama sekaligus.
+2. **Kebutuhan Koordinasi Lintas Pihak:** Membutuhkan keterlibatan simultan antara musyrif, konselor BK, dokter klinik, dan orang tua.
+3. **Risiko Keselamatan (*Safeguarding Alert*):** Adanya indikasi perundungan berat, depresi dengan kecenderungan menyakiti diri (*self-harm*), atau pelecehan.
+4. **Proses Transisi Kritis:** Santri yang sedang menjalani reintegrasi setelah rawat inap medis atau masa istirahat di rumah.
 
-- apa kebutuhan atau alasan koordinasi;
-- siapa yang berwenang menangani;
-- siapa yang perlu dilibatkan;
-- evidence awal yang tersedia;
-- batas scope case;
-- risiko dan safeguarding;
-- tujuan koordinasi;
-- kebutuhan referral atau layanan eksternal;
-- kebutuhan privasi dan data governance.
+---
 
-Case scope perlu mencegah dokumentasi berkembang tanpa tujuan.
+## 4. Pembagian Peran dan Tanggung Jawab Tim (*Role Matrix*)
 
-## 6. Evidence dan Assessment
+Koordinasi yang efektif menuntut kejelasan mandat masing-masing pihak:
 
-Case Management menggunakan evidence dari assessment dan sumber relevan. Namun Case Management tidak boleh mengubah catatan kasus menjadi kumpulan semua data tentang seseorang.
+| Peran Pemangku | Mandat Utama dalam Tim Kasus | Batasan yang Tidak Boleh Dilanggar |
+| :--- | :--- | :--- |
+| **Koordinator Kasus (Guru BK Senior)** | Mengorkestrasi pertemuan, menyusun rencana aksi terpadu, dan memantau timeline. | Dilarang mengambil alih wewenang putusan medis atau wewenang pimpinan pondok. |
+| **Musyrif Kamar** | Mengawal keseharian santri di asrama, menjadi sahabat pendengar, dan mencatat respons harian. | Dilarang melakukan terapi psikologis tanpa supervisi ahli BK. |
+| **Wali Kelas / Asatidz Madrasah** | Menyesuaikan beban tugas akademis dan mengamati interaksi belajar di kelas. | Dilarang menceritakan masalah pribadi santri kepada dewan guru lainnya secara umum. |
+| **Orang Tua / Wali Santri** | Memberikan dukungan kasih sayang dari rumah dan menyelaraskan pola asuh keluarga. | Dilarang mengintervensi independensi keputusan perlindungan anak di pesantren. |
+| **Mitra Ahli Luar (Psikolog/Dokter)** | Memberikan diagnosis klinis dan terapi spesialis yang berada di luar kapasitas internal. | Terikat kode etik kerahasiaan medis dan koordinasi rujukan resmi. |
 
-```text
-Relevant Evidence
-       ↓
-Scoped Interpretation
-       ↓
-Case Coordination
-```
+---
 
-Assessment tetap bertanggung jawab pada construct, evidence, intended inference, dan scoped interpretation. Case Management bertanggung jawab pada koordinasi penggunaan informasi dan tindakan dalam scope case.
+## 5. Tata Kelola Data dan Minimasi Informasi (*Data Minimization*)
 
-## 7. Case Formulation / Need Analysis
+Dalam manajemen kasus, informasi adalah amanah berat yang dilindungi prinsip *Need-to-Know*:
+- **Hanya Informasi Relevan (*Data Minimization*):** Musyrif kamar hanya perlu mengetahui panduan praktis (misal: "Santri butuh istirahat jam 21.30 dan hindari suara keras"), tanpa perlu membaca detail rekam medis masa lalu santri.
+- **Penyimpanan Terkunci:** Seluruh berkas kasus fisik disimpan dalam brankas ruang BK, sedangkan berkas digital dienkripsi dengan kata sandi berlapis.
 
-Analisis case perlu melihat hubungan antara:
+---
 
-- functioning individu;
-- tuntutan konteks;
-- lingkungan;
-- relasi;
-- dukungan yang sudah ada;
-- faktor risiko dan protektif;
-- kebutuhan belajar/perkembangan;
-- kebutuhan pemulihan;
-- kebutuhan safeguarding.
+## 6. Pagar Batas Epistemik Arsitektur (*Boundary Rules*)
 
-Analisis tidak boleh otomatis menganggap individu sebagai satu-satunya sumber masalah.
-
-## 8. Case Plan
-
-Case plan dapat mencakup secara proporsional:
-
-1. tujuan case;
-2. kebutuhan/construct yang relevan;
-3. evidence dan batas inference;
-4. dukungan/intervensi yang dipilih;
-5. pihak yang bertanggung jawab;
-6. urutan atau koordinasi tindakan bila diperlukan;
-7. monitoring plan;
-8. review date/trigger;
-9. risk and safeguarding plan;
-10. referral/coordination pathway;
-11. kriteria step down, step up, atau closure yang dapat ditinjau.
-
-Case plan bukan kontrak permanen dan harus dapat diubah berdasarkan evidence.
-
-## 9. Role and Responsibility
-
-Koordinasi perlu memperjelas:
-
-- siapa case coordinator;
-- siapa pengambil keputusan untuk aspek tertentu;
-- siapa pelaksana dukungan;
-- siapa penyedia evidence;
-- siapa yang perlu menerima informasi;
-- siapa yang memiliki kewenangan referral atau safeguarding.
-
-Case coordinator tidak otomatis menjadi pemilik seluruh keputusan substantif.
-
-## 10. Multi-Disciplinary / Cross-Role Coordination
-
-Ketika beberapa peran terlibat, perbedaan perspektif tidak boleh dihapus hanya demi keseragaman catatan. Perbedaan perlu ditinjau melalui tabayyun, construct/context review, dan batas kompetensi masing-masing.
-
-Koordinasi yang baik menyatukan arah tindakan tanpa memaksa semua pihak memiliki interpretasi identik ketika evidence memang berbeda.
-
-## 11. Tiered Support dan Intervention Mapping
-
-Case Management dapat mengoordinasikan universal, targeted, atau intensive support sesuai keputusan intervention. Tier tetap menunjukkan intensitas dukungan, bukan tingkat pribadi.
-
-Intervention Mapping menyediakan kandidat opsi; Case Management membantu memastikan opsi yang dipilih benar-benar terkoordinasi, memiliki owner, dan dapat dimonitor.
-
-## 12. Safeguarding dan Risk Escalation
-
-Safeguarding memiliki jalur governance khusus. Jika risiko meningkat, case dapat:
-
-- dinaikkan intensitas dukungannya;
-- dialihkan kepada pihak yang memiliki kompetensi/kewenangan;
-- dirujuk ke layanan eksternal yang sesuai;
-- menggunakan tindakan perlindungan yang diperlukan.
-
-Case Management tidak boleh menunda tindakan perlindungan hanya demi melengkapi administrasi case.
-
-## 13. Referral
-
-Referral digunakan ketika kebutuhan berada di luar kompetensi, kewenangan, kapasitas layanan, atau scope tim saat ini.
-
-Referral bukan berarti melepaskan tanggung jawab koordinasi secara otomatis. Bila sesuai kewenangan, perlu ada handoff yang jelas, informasi minimum yang relevan, dan follow-up yang proporsional.
-
-## 14. Monitoring dan Review
-
-Monitoring case melihat apakah:
-
-- tujuan case masih relevan;
-- functioning berubah;
-- dukungan terlaksana;
-- support fit sesuai;
-- risiko berubah;
-- koordinasi berjalan;
-- ada kebutuhan baru;
-- referral menghasilkan tindak lanjut yang diperlukan.
-
-Review dapat menghasilkan continue, maintain, adjust, step down, step up, referral, atau closure.
-
-## 15. Closure
-
-Closure berarti scope case tertentu tidak lagi memerlukan koordinasi formal pada kondisi dan tujuan yang ditetapkan. Closure bukan klaim bahwa individu telah selesai berkembang atau tidak akan membutuhkan dukungan lagi.
-
-Closure dapat terjadi karena:
-
-- tujuan case tercapai sesuai evidence;
-- kebutuhan telah berpindah ke dukungan rutin;
-- case dialihkan/referral secara tepat;
-- kebutuhan tidak lagi berada dalam scope case;
-- keputusan governance menentukan closure.
-
-Jika kebutuhan muncul kembali, case baru atau reactivation dapat dipertimbangkan sesuai governance.
-
-## 16. Documentation dan Data Minimization
-
-Dokumentasi case harus cukup untuk koordinasi dan akuntabilitas, tetapi tidak berarti mengumpulkan semua informasi yang tersedia.
-
-Prinsip:
-
-- purpose limitation;
-- data minimization;
-- need-to-know;
-- accuracy dan traceability;
-- akses berbasis kewenangan;
-- retention sesuai kebutuhan governance;
-- perlindungan informasi sensitif;
-- koreksi terhadap catatan yang terbukti tidak akurat sesuai prosedur yang berlaku.
-
-Catatan case tidak boleh menjadi dossier permanen yang tidak memiliki tujuan.
-
-## 17. Dignity dan Fairness
-
-Case Management perlu menjaga agar dokumentasi dan koordinasi tidak menghasilkan stigma. Bahasa yang digunakan sebaiknya menggambarkan kebutuhan, evidence, konteks, tindakan, dan review, bukan identitas negatif permanen.
-
-Fairness mencakup akses terhadap dukungan, konsistensi proses, proporsionalitas koordinasi, dan perhatian terhadap perbedaan konteks yang relevan.
-
-## 18. AI dan Digital Systems
-
-AI dapat membantu:
-
-- merangkum catatan;
-- mengorganisasi informasi;
-- mengingatkan review date;
-- membantu menemukan pola atau konflik informasi untuk ditinjau.
-
-AI tidak boleh secara otomatis:
-
-- menetapkan diagnosis;
-- menetapkan severity final;
-- menentukan intervention;
-- menentukan safeguarding outcome;
-- menentukan closure;
-- memberi label permanen kepada individu.
-
-Human review dan kewenangan yang sesuai tetap diperlukan.
-
-## 19. Hubungan dengan Progression dan Assessment
-
-Case Management dapat mengoordinasikan evidence untuk progression, transition, atau reassessment, tetapi tidak menentukan capacity progression secara sepihak.
-
-```text
-Assessment → Evidence / Interpretation
-Progression → Change / Transition Logic
-Intervention → Support / Change Action
-Case Management → Coordination
-```
-
-Pemisahan ini mencegah case management menjadi lapisan yang mengambil alih seluruh fungsi sistem.
-
-## 20. Hubungan dengan 10 Muwashofat
-
-10 Muwashofat tetap menjadi arah normatif Graduate Profile. Case Management dapat membantu mengoordinasikan pembinaan menuju arah tersebut, tetapi tidak boleh mengubah Muwashofat menjadi case score, severity score, atau case label.
-
-## 21. Batas Klaim
-
-Arsitektur ini tidak membuktikan bahwa:
-
-- Case Management efektif secara universal;
-- koordinasi yang lebih banyak selalu menghasilkan outcome lebih baik;
-- closure membuktikan recovery atau mastery;
-- case complexity dapat direduksi menjadi satu angka;
-- case records merupakan ukuran kapasitas individu;
-- penggunaan AI dalam case management aman atau efektif tanpa evaluasi khusus.
-
-Klaim effectiveness, causal effect, safety, dan predictive performance memerlukan evidence yang sesuai.
-
-## 22. Traceability
-
-```text
-Case Need
-   ↓
-Relevant Evidence
-   ↓
-Scoped Interpretation
-   ↓
-Case Plan
-   ↓
-Coordinated Intervention
-   ↓
-Monitoring
-   ↓
-Review
-   ↓
-Step / Refer / Close
-```
-
-Traceability memastikan setiap tindakan dapat dikaitkan dengan kebutuhan dan keputusan yang relevan tanpa memperluas scope case secara diam-diam.
-
-## 23. Status Arsitektur
-
-Case Management ditetapkan sebagai komponen koordinasi Intervention pada tahap ini. Detail case forms, role-specific SOP, referral protocols, documentation standards, retention rules, dan effectiveness claims perlu dikembangkan pada layer operasional, governance, evidence, atau research yang sesuai.
+1. **Kasus Bukan Vonis Penyakit Abadi:** Status penanganan kasus adalah sarana bantuan sementara; santri tidak boleh dipandang sebagai "pasien abadi" pesantren.
+2. **AI Dilarang Mengambil Keputusan:** Kecerdasan buatan dilarang menentukan diagnosis kepribadian santri, tingkat keparahan, atau surat rujukan; seluruh ketetapan wajib melalui hati nurani dan musyawarah asatidz.
+3. **Penyelarasan dengan 10 Muwashofat:** Sasaran akhir dari penyelesaian kasus adalah memulihkan santri agar kembali mampu melangkah menuju 10 profil muslim unggul (*Graduate Profile*).

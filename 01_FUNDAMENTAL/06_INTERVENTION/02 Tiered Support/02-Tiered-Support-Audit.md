@@ -1,85 +1,96 @@
-# Tiered Support Audit
+# Audit Arsitektur Tingkat Dukungan Berjenjang (Tiered Support Audit)
 
-**Status:** ARCHITECTURALLY SUFFICIENT — CURRENT STAGE
-**Review type:** Architectural review, not empirical validation.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Architectural Review; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
+**Dokumen Terkait:**  
+- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
+- [03-Tier-Logic-and-Entry.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/03-Tier-Logic-and-Entry.md)  
+- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)
 
-## 1. Review Findings
+---
 
-| Check | Result | Catatan |
-|---|---|---|
-| Layer position | PASS | Tiered Support berada sebagai pengaturan dukungan dalam Intervention. |
-| Three-tier baseline | PASS | Universal/Preventive, Targeted/Developmental, Intensive/Corrective-Recovery tersedia. |
-| Need-based | PASS | Tier dipilih berdasarkan kebutuhan dan evidence. |
-| Flexible movement | PASS | Tier dapat naik atau turun berdasarkan review. |
-| No person labeling | PASS | Tier adalah level dukungan, bukan level manusia. |
-| Assessment boundary | PASS | Evidence tidak otomatis menghasilkan tier tanpa review. |
-| Progression boundary | PASS | Tier tidak disamakan dengan J1–J4 atau tahap perkembangan. |
-| Support fit | PASS | Kesesuaian dukungan diperhatikan, bukan intensitas semata. |
-| Environment | PASS | Respons dapat diarahkan pada lingkungan, demand, dan accessibility. |
-| Fairness | PASS | Accessibility, language, culture, power, dan stigma diperhatikan. |
-| Safeguarding | PASS | Tier intensif memerlukan governance dan safeguarding yang lebih kuat. |
-| Monitoring | PASS | Respons terhadap dukungan menjadi bagian review. |
-| Data minimization | PASS | Pengumpulan data harus proporsional terhadap tujuan. |
-| AI | PASS | Automated signal tidak menjadi final tier decision. |
-| Traceability | PASS | Keputusan tier dapat ditelusurkan dari evidence sampai review. |
-| Effectiveness boundary | PASS | Tier selection tidak membuktikan effectiveness intervention. |
-| Muwashofat boundary | PASS | 10 Muwashofat tidak menjadi tier score otomatis. |
+> ### Intisari untuk Pendidik & Musyrif
+> **"Mengaudit sistem berjenjang memastikan bahwa tangga bantuan tidak berubah menjadi tangga kasta sosial."**  
+> Sistem Multi-Tier (PBIS) yang dirancang di atas kertas sangat rentan diselewengkan di lapangan: musyrif yang malas bisa menjadikan "masuk Tier 3" sebagai alasan untuk melempar tanggung jawab ke guru BK, atau sebaliknya santri yang butuh bantuan dibiarkan terlunta-lunta di Tier 1 karena tidak ada asatidz yang memperhatikan.  
+> Dokumen ini memaparkan **Audit Arsitektur Tingkat Dukungan Berjenjang TUMBUH v2.0.0**: memeriksa secara ketat apakah struktur 3-tier telah memenuhi standar integritas etis dan metodologis, mengidentifikasi titik rawan penyimpangan operasional di pesantren (*failure modes*), serta menetapkan pertanyaan terbuka untuk riset lapangan jangka panjang.
 
-## 2. Architectural Decision
+---
 
-Tidak ditemukan kebutuhan untuk:
+## 1. Temuan Audit Arsitektural (17 Parameter Kepatuhan Sistem)
 
-- menambah tier baru pada level arsitektur;
-- menjadikan tier sebagai ranking individu;
-- membuat score-to-tier universal;
-- menyamakan tier dengan developmental stage;
-- menyamakan tier dengan J1–J4;
-- membuat stepping down sebagai tujuan moral;
-- menjadikan stepping up sebagai hukuman;
-- memindahkan decision ke assessment layer;
-- menjadikan AI sebagai penentu tier otomatis.
+Tinjauan arsitektural menyimpulkan bahwa rancangan Tingkat Dukungan Berjenjang TUMBUH v2.0.0 telah memenuhi seluruh kriteria kelayakan sistem:
 
-**Keputusan:** Tiered Support **cukup dan ditutup untuk tahap arsitektural saat ini**.
+| Parameter Uji | Status | Evaluasi dan Makna Lapangan bagi Pesantren |
+| :--- | :---: | :--- |
+| **1. Posisi Lapis Sistem (*Layer Position*)** | **LULUS** | Tiered Support berfungsi sebagai pengatur alokasi sumber daya di dalam intervensi, bukan lapisan asesmen atau progresi. |
+| **2. Tiga Tingkat Baseline (*Three-Tier Model*)** | **LULUS** | Membagi bantuan menjadi Tier 1 (Universal), Tier 2 (Terarah), dan Tier 3 (Intensif) secara proporsional. |
+| **3. Berbasis Kebutuhan (*Need-Based Allocation*)** | **LULUS** | Penetapan tier diturunkan dari kebutuhan perkembangan dan bukti faktual logbook, bukan dari intuisi sepihak. |
+| **4. Keluwesan Pergerakan (*Flexible Movement*)** | **LULUS** | Santri dapat naik (*step up*) atau turun tier (*step down*) secara luwes berdasarkan evaluasi berkala 14–30 hari. |
+| **5. Anti-Pelabelan Manusia (*No Person Labeling*)** | **LULUS** | Tier adalah level bantuan sistem, bukan cap tingkat keimanan atau kasta harga diri santri. |
+| **6. Batasan Asesmen (*Assessment Boundary*)** | **LULUS** | Data asesmen tidak otomatis menetapkan tier tanpa musyawarah dan penelaahan konteks oleh dewan asatidz. |
+| **7. Batasan Progresi (*Progression Boundary*)** | **LULUS** | Tier 1–3 tidak disamakan dengan jenjang kemandirian J1–J4; santri J1 pemula tetap berada di Tier 1 jika perkembangannya normal. |
+| **8. Kecocokan Dukungan (*Support Fit*)** | **LULUS** | Mengutamakan ketepatan jenis bantuan bagi fitrah santri daripada sekadar memperbanyak jam sanksi/bimbingan. |
+| **9. Rekayasa Lingkungan (*Environmental Focus*)** | **LULUS** | Mengakui perbaikan tata ruang asrama dan jadwal pondok sebagai respons intervensi Tier 1 yang sah. |
+| **10. Keadilan & Akses (*Fairness & Access*)** | **LULUS** | Memastikan santri pendiam memiliki akses bimbingan yang setara, serta mencegah diskriminasi latar belakang sosial. |
+| **11. Perlindungan Tier 3 (*Safeguarding Rigor*)** | **LULUS** | Kasus Tier 3 menuntut tata kelola kerahasiaan aib, perlindungan hak santri, dan pengawasan pimpinan pondok secara ketat. |
+| **12. Pemantauan Berkala (*Response Monitoring*)** | **LULUS** | Setiap penetapan tier wajib disertai jadwal peninjauan bukti respons santri di lapangan. |
+| **13. Minimalisasi Data (*Data Minimization*)** | **LULUS** | Pengumpulan data dibatasi pada fakta yang relevan dengan bimbingan adab; tidak mengorek privasi keluarga yang tidak perlu. |
+| **14. Pengawasan Manusia atas AI (*Human Oversight*)** | **LULUS** | Sinyal peringatan dini dari aplikasi digital dilarang keras menetapkan tier santri secara otomatis. |
+| **15. Keterlacakan Sistem (*Traceability*)** | **LULUS** | Alasan masuk tier, rencana intervensi, dan evaluasi hasil dapat diaudit dengan transparan. |
+| **16. Batas Klaim Efektivitas (*Effectiveness Boundary*)** | **LULUS** | Menempatkan santri di Tier 2 atau Tier 3 bukan jaminan otomatis bahwa santri pasti langsung berubah wataknya. |
+| **17. Batasan Muwashofat (*Muwashofat Boundary*)** | **LULUS** | 10 Karakter Muwashofat tidak dijadikan skor angka penentu tier harian secara mekanis. |
 
-## 3. Open Questions for Evidence / Research
+---
 
-1. Evidence minimum apa yang diperlukan untuk setiap tier decision?
-2. Bagaimana support fit dievaluasi secara empiris?
-3. Kapan stepping up atau stepping down aman dan tepat?
-4. Bagaimana tier criteria berbeda menurut construct dan konteks?
-5. Bagaimana environmental intervention dibandingkan dengan individual support?
-6. Bagaimana bias dan inequitable access memengaruhi tier assignment?
-7. Bagaimana efektivitas masing-masing bentuk support dievaluasi?
-8. Bagaimana intensive support dikelola agar tidak menghasilkan dependency atau stigma?
-9. Bagaimana AI-assisted triage divalidasi untuk intended use?
+## 2. Keputusan Arsitektural Penutupan Tahap
 
-## 4. Failure Modes to Monitor
+Berdasarkan hasil audit menyeluruh, dewan kepengasuhan dan penjamin mutu menetapkan:
+1. Tidak ditemukan kebutuhan untuk menambah tier baru (misal membuat "Tier 4") pada tingkat arsitektur fundamental.
+2. Menolak mutlak rumus pintas konversi nilai angka rapor menjadi penentu tier santri (*score-to-tier shortcut*).
+3. Menegaskan bahwa penurunan tingkat dukungan (*stepping down*) bukan sertifikat kesucian moral, dan kenaikan tingkat dukungan (*stepping up*) bukan vonis hukuman pidana.
+4. **Keputusan Resmi:** Arsitektur Tingkat Dukungan Berjenjang (*Tiered Support*) dinyatakan **CUKUP, KOKOH, dan DITUTUP (*CLOSED*)** untuk tahap arsitektural saat ini.
 
-- tier-as-label;
-- score-to-tier shortcut;
-- intensity-as-quality;
-- stepping-down-as-moral-success;
-- stepping-up-as-punishment;
-- developmental-stage confusion;
-- J1–J4 conflation;
-- child-blaming;
-- environment neglect;
-- support dependency;
-- stigma;
-- unequal access;
-- surveillance creep;
-- AI-as-adjudicator;
-- tier-selection-as-effectiveness-proof.
+---
 
-## 5. Reopening Conditions
+## 3. Sembilan Pertanyaan Terbuka untuk Riset Lapangan Pesantren
 
-Arsitektur dapat dibuka kembali apabila ditemukan:
+Tim riset kepengasuhan mencatat 9 pertanyaan operasional untuk terus diuji dan dikembangkan dalam praktik nyata asrama:
 
-- gap konseptual material;
-- konflik dengan Principles & Ethics atau Assessment/Progression architecture;
-- boundary failure berulang;
-- kegagalan traceability;
-- masalah struktural fairness, accessibility, privacy, atau safeguarding;
-- evidence empiris yang menunjukkan tier architecture tidak memadai.
+1. **Ambang Bukti Minimum:** Seberapa banyak bukti anekdotal logbook yang diperlukan sebelum asatidz memutuskan menaikkan santri ke Tier 2 atau Tier 3?
+2. **Evaluasi Empiris Support Fit:** Bagaimana mengukur apakah sebuah bentuk bimbingan benar-benar cocok dengan tipe kepribadian santri (misal santri kinestetik vs santri pemikir)?
+3. **Waktu Aman Stepping Down:** Berapa lama durasi observasi stabilitas adab yang ideal (apakah 2 pekan, 4 pekan, atau 8 pekan) sebelum santri aman dikembalikan ke Tier 1?
+4. **Karakteristik Konstruks Khusus:** Apakah kriteria tier untuk adab ibadah mahdhah (shalat) harus lebih ketat daripada adab kebersihan lemari pakaian?
+5. **Dampak Intervensi Lingkungan:** Seberapa jauh perbaikan fasilitas air dan sanitasi asrama mampu menurunkan persentase santri yang membutuhkan rujukan Tier 2?
+6. **Mitigasi Bias Subjektif Musyrif:** Bagaimana mencegah agar musyrif tidak terlalu cepat merujuk santri yang tidak disukainya ke Tier 2?
+7. **Efektivitas Bimbingan Kelompok:** Modul halaqah mini seperti apa yang paling efektif bagi santri Tier 2 yang mengalami kesulitan adaptasi sosial?
+8. **Pencegahan Ketergantungan Bantuan (*Support Dependency*):** Bagaimana melatih santri di Tier 3 agar tidak menjadi manja dan tetap memiliki daya juang mandiri?
+9. **Validasi Triage Digital/AI:** Bagaimana memverifikasi ketepatan algoritma peringatan dini pada sistem informasi pondok sebelum diterapkan pada santri nyata?
 
-**Final decision:** CLOSED FOR CURRENT ARCHITECTURAL STAGE.
+---
+
+## 4. Modus Kegagalan Lapangan yang Wajib Diwaspadai (Failure Modes)
+
+Pimpinan pesantren dan tim penjamin mutu wajib mengawasi 12 modus kegagalan implementasi:
+
+- **Tier Sebagai Stempel Kasta (*Tier-as-Label*):** Santri saling mengejek dengan sebutan "kamu anak Tier 3".
+- **Jalan Pintas Nilai Angka (*Score-to-Tier Shortcut*):** Memasukkan santri ke Tier 3 hanya karena nilai ujian adabnya rendah di kertas.
+- **Menganggap Makin Intensif Makin Baik (*Intensity-as-Quality*):** Mengira bahwa mengurung santri seharian di ruang BK lebih bermutu daripada bimbingan bersahabat di asrama.
+- **Pencampuran Konseptual dengan J1–J4 (*J1–J4 Conflation*):** Menganggap santri J1 (Bimbingan Terarah) pasti santri bermasalah yang harus masuk Tier 2/3.
+- **Pengabaian Lingkungan Asrama (*Environment Neglect*):** Terus-menerus menceramahi santri yang mengantuk tanpa memperbaiki kebisingan kamar di malam hari.
+- **Lempar Tanggung Jawab (*Buck-Passing*):** Musyrif asrama lepas tangan dan menyerahkan seluruh pengasuhan santri Tier 2/3 kepada guru BK.
+- **Ketergantungan Fasilitas (*Support Dependency*):** Santri hanya mau beradab jika didampingi khusus oleh asisten musyrif.
+- **Triage Otomatis Tanpa Hati (*AI-as-Adjudicator*):** Menetapkan nasib pembinaan santri hanya berdasarkan notifikasi aplikasi komputer.
+
+---
+
+## 5. Syarat Pembukaan Kembali Arsitektur (Reopening Conditions)
+
+Dokumen arsitektur ini hanya boleh dibuka kembali untuk peninjauan apabila ditemukan:
+1. Terjadi kontradiksi mendasar dengan arsitektur asesmen, model kemandirian J1–J4, atau prinsip etika dasar TUMBUH.
+2. Ditemukan bukti lapangan bahwa sistem 3-tier memicu fenomena pengkastaan atau diskriminasi santri yang tidak terkendali.
+3. Riset empiris membuktikan bahwa kategori 3-tier tidak memadai untuk mewadahi kompleksitas dinamika kehidupan santri di pondok pesantren.
+
+---
+
+> **Keputusan Audit:** Audit Arsitektur Tingkat Dukungan Berjenjang (*Tiered Support Audit*) adalah garda penjaga agar piramida dukungan tarbiyah tetap berfungsi sebagai tangga pertolongan kasih sayang, bukan tangga penghakiman martabat santri di pesantren.

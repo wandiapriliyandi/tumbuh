@@ -1,239 +1,134 @@
-# Reinforcement & Recognition Architecture
+# Arsitektur Penguatan dan Apresiasi (Reinforcement & Recognition Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Intervention Reinforcement & Recognition  
-**Epistemic status:** conceptually specified; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
+**Dokumen Terkait:**  
+- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
+- [06 Developmental Support / 05-Support-Autonomy-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/05-Support-Autonomy-and-Transfer.md)  
+- [08 Reinforcement & Recognition / 03-Recognition-Purpose-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/03-Recognition-Purpose-and-Dignity.md)  
+- [08 Reinforcement & Recognition / 06-Recognition-and-Agency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/06-Recognition-and-Agency.md)
 
-## 1. Tujuan
+---
 
-Reinforcement dan recognition digunakan untuk memperkuat perilaku atau kapasitas yang diharapkan. Sesuai baseline domain, desainnya harus menjaga motivasi, martabat, fairness, dan tidak bergantung pada satu teknik secara universal. fileciteturn843file0
+> ### Intisari untuk Pendidik & Musyrif
+> **"Pujian yang bijak menyalakan rasa syukur dan kerendahan hati; sanjungan yang salah menyulut api riya' dan ketergantungan pada tepuk tangan manusia."**  
+> Di pesantren, tujuan mengapresiasi santri bukanlah untuk melatih lumba-lumba sirkus yang hanya mau melompat saat dilempari ikan, melainkan untuk meneguhkan kebaikan (*tatsbit al-khair*) agar berakar menjadi karakter yang ikhlas karena Allah (*lillahi ta'ala*). Penguatan (*reinforcement*) dan apresiasi (*recognition*) dirancang dengan kehati-hatian tinggi: menghargai proses ikhtiar, menjaga martabat santri yang belum berhasil, dan perlahan-lahan menyapih hadiah materiil menuju kemandirian motivasi batin (*fitrah agency*).
 
-Keduanya dipahami sebagai bagian dari lingkungan pembinaan: membantu individu mengenali perilaku atau fungsi yang bernilai, memperoleh feedback yang bermakna, dan memiliki alasan untuk mempertahankan praktik yang baik. Reinforcement/recognition bukan tujuan akhir pembinaan dan bukan alat untuk mengendalikan semua perilaku.
+---
 
-## 2. Posisi dalam Arsitektur Intervention
+## 1. Hakikat dan Posisi dalam Arsitektur Intervensi
 
-Alur canonical:
+Penguatan (*reinforcement*) dan apresiasi (*recognition*) adalah komponen lingkungan pembinaan adab yang berfungsi membantu santri:
+1. Mengenali perilaku mulia dan keterampilan hidup yang bernilai tinggi bagi maslahat bersama.
+2. Memperoleh umpan balik (*feedback*) yang bermakna dan menghangatkan jiwa dari para asatidz.
+3. Menemukan alasan yang kokoh untuk mempertahankan kebiasaan baik saat menghadapi tantangan hidup.
 
-```text
-Desired Functioning / Construct
-          ↓
-Evidence / Observation
-          ↓
-Context & Need Analysis
-          ↓
-Reinforcement / Recognition Design
-          ↓
-Implementation
-          ↓
-Response Evidence
-          ↓
-Review
-          ↓
-Continue / Adjust / Reduce / Stop
-```
-
-Reinforcement dan recognition merupakan opsi intervensi yang dipilih berdasarkan tujuan, konteks, kebutuhan, dan evidence. Kehadiran sebuah teknik tidak otomatis berarti teknik tersebut tepat.
-
-## 3. Distinction: Reinforcement dan Recognition
-
-### 3.1 Reinforcement
-
-Reinforcement mengacu pada pengaturan konsekuensi atau kondisi yang dimaksudkan untuk meningkatkan kemungkinan suatu perilaku atau praktik yang diharapkan berulang.
-
-Dalam TUMBUH, penggunaan reinforcement harus dipahami secara kontekstual. Perubahan perilaku yang terjadi sesaat tidak otomatis berarti capacity change atau growth.
-
-### 3.2 Recognition
-
-Recognition adalah pemberian pengakuan atau feedback yang menandai usaha, perilaku, kontribusi, perkembangan, atau fungsi yang relevan.
-
-Recognition tidak harus berupa hadiah material. Ia dapat berupa feedback yang spesifik, penghargaan yang bermakna, kesempatan berkontribusi, atau bentuk pengakuan lain yang sesuai konteks.
-
-Recognition juga tidak boleh berubah menjadi label permanen tentang identitas seseorang.
-
-## 4. Prinsip Desain
-
-### 4.1 Spesifik terhadap perilaku atau fungsi
-
-Feedback sebaiknya merujuk pada tindakan, proses, strategi, kontribusi, atau fungsi yang benar-benar terlihat, bukan pujian atau label umum yang tidak informatif.
-
-### 4.2 Memperkuat pembelajaran, bukan sekadar kepatuhan
-
-Reinforcement/recognition idealnya membantu individu memahami mengapa suatu tindakan bernilai dan bagaimana mempertahankannya ketika kondisi berubah.
-
-### 4.3 Menjaga motivasi
-
-Desain tidak boleh membuat individu hanya bertindak ketika reward tersedia. Ketergantungan pada reward harus diperiksa dan, bila relevan, dikurangi secara bertahap sambil membangun pemahaman, agency, dan regulasi yang lebih mandiri.
-
-### 4.4 Menjaga martabat
-
-Recognition tidak boleh mempermalukan pihak yang tidak menerima recognition. Reinforcement tidak boleh menjadi manipulasi, ancaman terselubung, atau bentuk penghinaan.
-
-### 4.5 Fairness
-
-Kriteria dan kesempatan recognition perlu dapat dipahami dan diterapkan secara adil. Perbedaan akses, konteks, kebutuhan, dan kesempatan untuk menunjukkan perilaku perlu diperhatikan.
-
-### 4.6 Proporsional
-
-Bentuk dan intensitas reinforcement/recognition perlu sepadan dengan tujuan. Lebih besar tidak otomatis lebih efektif.
-
-## 5. Construct dan Capacity Boundary
-
-Reinforcement dapat diarahkan pada perilaku atau praktik yang relevan dengan suatu construct atau Core Capacity. Namun:
+Keduanya **bukan tujuan akhir pendidikan** dan **bukan alat pengendali perilaku secara manipulatif**. Alur kanonikal penerapannya adalah sebagai berikut:
 
 ```text
-Observed behavior / functioning
-        ≠
-Whole Core Capacity
+┌─────────────────────────┐         ┌─────────────────────────┐         ┌─────────────────────────┐
+│  DESIRED FUNCTIONING    │ ──────► │  EVIDENCE / OBSERVATION │ ──────► │  CONTEXT & NEED AUDIT   │
+│ (Target Adab & Fitrah)  │         │ (Bukti Teramati Nyata)  │         │ (Analisis Niat & Akses) │
+└─────────────────────────┘         └─────────────────────────┘         └────────────┬────────────┘
+                                                                                     │
+┌─────────────────────────┐         ┌─────────────────────────┐         ┌────────────▼────────────┐
+│         REVIEW          │ ◄────── │    RESPONSE EVIDENCE    │ ◄────── │ REINFORCEMENT / DESIGN  │
+│ (Evaluasi Efek Batin)   │         │ (Respons Konsistensi)   │         │ (Rancang Bentuk Apresiasi│
+└────────────┬────────────┘         └─────────────────────────┘         └─────────────────────────┘
+             │
+             ▼ (Tindak Lanjut)
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│ [Continue: Lanjutkan] │ [Adjust: Modifikasi Bentuk] │ [Reduce: Sapih Hadiah] │ [Stop]   │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Satu perilaku yang mendapat recognition tidak membuktikan bahwa seluruh kapasitas telah dikuasai. Demikian pula, tidak menerima recognition bukan bukti bahwa kapasitas tidak ada.
+---
 
-Hubungan dengan 8 Core Capacities harus tetap melalui Construct Registry dan arsitektur capacity yang canonical.
+## 2. Distingsi Fundamental: Reinforcement vs Recognition
 
-## 6. Evidence dan Assessment
-
-Evidence dapat menunjukkan apakah perilaku/fungsi yang menjadi sasaran muncul, konsisten, dan bertahan dalam konteks yang relevan. Assessment tetap menjadi sumber evidence dan scoped interpretation, bukan mesin pemberian reward.
+TUMBUH membedakan secara tegas antara *reinforcement* dan *recognition*:
 
 ```text
-Evidence
-   ↓
-Scoped Interpretation
-   ↓
-Intervention Decision
-   ↓
-Reinforcement / Recognition when appropriate
+┌───────────────────────────────────────────────────┬───────────────────────────────────────────────────┐
+│            REINFORCEMENT (PENGUATAN)              │             RECOGNITION (APRESIASI)               │
+├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Mengatur konsekuensi lingkungan untuk memperbesar │ Pemberian pengakuan bermakna yang menandai usaha, │
+│ peluang berulangnya suatu tindakan adab positif.  │ proses perjuangan, dan kontribusi nyata santri.   │
+├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Fokus: Frekuensi dan kebiasaan (*habituation*).   │ Fokus: Makna, martabat, dan hubungan (*meaning*). │
+├───────────────────────────────────────────────────┼───────────────────────────────────────────────────┤
+│ Contoh: Mengizinkan bermain bola setelah seluruh  │ Contoh: Musyrif membisikkan doa dan terima kasih  │
+│ anggota kamar selesai merapikan kasur & lemari.   │ atas kesabaran santri merawat teman yang sakit.   │
+└───────────────────────────────────────────────────┴───────────────────────────────────────────────────┘
 ```
 
-Score tidak boleh secara otomatis menentukan reward atau recognition universal.
+---
 
-## 7. Context dan Environment
+## 3. Enam Prinsip Desain Apresiasi Beradab
 
-Reinforcement/recognition perlu dilihat bersama lingkungan tempat perilaku terjadi. Jika perilaku yang diharapkan sulit muncul karena ekspektasi, rutinitas, akses, relasi, atau sumber daya yang tidak mendukung, menambah reward bukan selalu respons yang tepat.
+| No | Prinsip Desain | Landasan Filosofis & Pedagogis | Penerapan di Asrama Pesantren |
+| :---: | :--- | :--- | :--- |
+| **1** | **Spesifik pada Proses (*Process-Focused*)** | Memuji usaha dan strategi, bukan melabeli atribut bawaan anak (*growth mindset*). | *"Ustadz bangga antum tekun mengulang hafalan 5 kali hingga lancar"* bukan *"Kamu memang jenius"*. |
+| **2** | **Orientasi Belajar, Bukan Kepatuhan Buta** | Membantu santri memahami hikmah syariat dan manfaat sosial di balik suatu aturan. | Menjelaskan mengapa merapikan sandal di selasar masjid adalah bentuk menghormati tetamu Allah. |
+| **3** | **Menjaga Kemurnian Niat (*Ikhlas vs Dependency*)** | Mencegah kecanduan hadiah materiil (*overjustification effect*); mengarahkan ke ridha Allah. | Mengurangi pemberian stiker/snack secara bertahap seiring bertambahnya usia dan pemahaman santri. |
+| **4** | **Menjaga Martabat Semua Santri** | Apresiasi pada satu santri tidak boleh menjadi instrumen untuk menyindir atau merendahkan santri lain. | Dilarang memuji santri A dengan membandingkan: *"Lihat A rajin, tidak seperti kalian yang malas!"*. |
+| **5** | **Keadilan Akses (*Fairness of Access*)** | Memberikan kesempatan yang setara bagi seluruh santri untuk diapresiasi, bukan hanya santri populer. | Menghargai kemajuan kecil santri yang sedang berjuang melawan kesulitan belajar (*incremental growth*). |
+| **6** | **Proporsional & Tidak Berlebihan** | Bentuk apresiasi harus wajar; sanjungan berlebihan justru memicu sifat ujub dan sombong. | Rasulullah SAW mengingatkan bahaya memuji berlebihan yang dapat "mematahkan punggung saudaramu". |
 
-Dengan demikian, intervensi dapat mencakup perbaikan environment, kesempatan practice, feedback, atau dukungan lain sebelum atau bersama reinforcement.
+---
 
-## 8. Individual dan Kelompok
-
-Recognition dapat diberikan secara individual maupun kelompok sesuai tujuan. Pilihan tersebut perlu mempertimbangkan:
-
-- tujuan pembinaan;
-- fairness;
-- dinamika kelompok;
-- risiko perbandingan yang tidak sehat;
-- akses terhadap kesempatan;
-- dampak pada relasi;
-- kebutuhan individu.
-
-Recognition tidak boleh menjadi alat untuk membangun kasta status di antara santri atau peserta pembinaan.
-
-## 9. Hubungan dengan Progression dan Mastery
-
-Reinforcement/recognition dapat mendukung practice, consistency, transfer, dan sustained application. Namun ia bukan progression stage dan bukan indikator mastery.
+## 4. Batasan Konstruk: Perilaku Tampak Bukan Keseluruhan Karakter
 
 ```text
-Recognition / Reinforcement
-          ↓
-Support for Practice and Maintenance
-          ↓
-Evidence of Functioning over Time
+┌───────────────────────────────────────────────┐
+│     Observed Behavior / Functioning           │
+│     (Perilaku Teramati di Satu Momen)         │
+└───────────────────────┬───────────────────────┘
+                        │
+                        ▼ (TIDAK SAMA DENGAN)
+┌───────────────────────────────────────────────┐
+│             Whole Core Capacity               │
+│        (Kapasitas Karakter Utuh)              │
+└───────────────────────────────────────────────┘
 ```
 
-Mastery tetap memerlukan evidence yang sesuai dengan kriteria consistency, appropriate independence/support fit, transfer, dan sustained application bila relevan.
+- Santri yang rajin menyapu kamar saat diberi kupon apresiasi **belum tentu** telah memiliki kapasitas adab *kebersihan lingkungan* sejati di dalam jiwanya.
+- Apresiasi diberikan untuk menghargai ikhtiar saat ini, bukan sebagai stempel bahwa santri telah bebas dari nafsu buruk.
 
-## 10. Monitoring dan Fading
+---
 
-Monitoring perlu memperhatikan apakah perilaku/fungsi tetap muncul ketika reinforcement dikurangi atau konteks berubah.
+## 5. Dinamika Individu vs Kelompok: Menghindari Kasta Asrama
 
-Jika sesuai dengan tujuan, desain dapat menggunakan fading:
+Pemberian apresiasi harus dikelola agar tidak memecah belah ukhuwah santri:
+- **Apresiasi Kolektif Lebih Utama:** Sangat dianjurkan memberikan apresiasi berbasis kekompakan kamar (misal: "Kamar Abu Bakar pekan ini paling kompak menjaga shalat tepat waktu, musyrif siapkan jamuan teh hangat bersama").
+- **Larangan Papan Ranking Hierarkis:** Dilarang membuat papan ranking yang memajang santri terburuk di bagian bawah sebagai bentuk hukuman sosial terselubung.
+
+---
+
+## 6. Protokol Penyapihan Hadiah Eksternal (*Gradual Fading of Reinforcement*)
+
+Agar santri tidak mengalami sindrom *"hanya beramal jika ada imbalan"*, TUMBUH menerapkan jadwal penyapihan bertahap:
 
 ```text
-Initial Support
-      ↓
-Practice + Feedback
-      ↓
-Gradual Reduction of External Reinforcement
-      ↓
-More Self-Regulated / Context-Appropriate Functioning
+┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
+│ TAHAP 1: INTENS │ ───► │ TAHAP 2: BERKALA│ ───► │ TAHAP 3: SOSIAL │ ───► │ TAHAP 4: FITRAH │
+│ Bantuan konkrit │      │ Hadiah materiil │      │ Apresiasi lisan │      │ Amal ikhlas     │
+│ & pengingat     │      │ dikurangi; uji  │      │ & pengakuan     │      │ lillahi ta'ala  │
+│ harian musyrif  │      │ inisiatif santri│      │ peran khidmat   │      │ tanpa pamrih    │
+└─────────────────┘      └─────────────────┘      └─────────────────┘      └─────────────────┘
 ```
 
-Fading bukan aturan universal. Kebutuhannya bergantung pada tujuan, konteks, individu, dan evidence.
+---
 
-## 11. Risiko dan Failure Modes
+## 7. AI dan Sistem Digital Logbook
 
-Perlu diwaspadai:
+Aplikasi pemantauan atau asisten AI hanya boleh digunakan untuk merekam frekuensi kebaikan santri secara privat. **AI dilarang keras menjatuhkan vonis kelayakan hadiah secara otomatis.** Musyrif manusia yang mengenal hati santrilah yang berhak menentukan momen terbaik untuk menyampaikan apresiasi.
 
-- reward dependency;
-- kompetisi tidak sehat;
-- favoritisme;
-- recognition berdasarkan akses yang tidak setara;
-- manipulasi atau coercion;
-- public shaming melalui comparison;
-- reward untuk compliance semata;
-- mengabaikan faktor lingkungan;
-- menganggap satu perilaku mewakili seluruh kapasitas;
-- recognition menjadi label identitas permanen;
-- reward diberikan tanpa tujuan yang jelas;
-- reinforcement tetap dipertahankan walau tidak lagi sesuai;
-- perubahan jangka pendek disalahartikan sebagai growth.
+---
 
-## 12. Safeguarding dan Dignity
+## 8. Pagar Batas Epistemik Arsitektur (*Boundary Rules*)
 
-Tidak boleh digunakan sebagai pembenaran untuk:
-
-- penghinaan;
-- ancaman;
-- pemaksaan yang tidak proporsional;
-- membuka informasi pribadi untuk mempermalukan;
-- diskriminasi;
-- menghilangkan kebutuhan dasar sebagai hukuman;
-- praktik yang membahayakan keselamatan.
-
-Pada situasi safeguarding, perlindungan dan governance yang relevan memiliki prioritas lebih tinggi daripada desain reinforcement biasa.
-
-## 13. AI dan Digital Systems
-
-AI atau sistem digital dapat membantu mendeteksi pola perilaku yang relevan atau menyusun ringkasan feedback, tetapi outputnya tidak boleh otomatis menentukan siapa yang layak menerima reward, recognition, atau status tertentu.
-
-Human review tetap diperlukan, terutama ketika keputusan memiliki konsekuensi reputasional, akses, atau status yang signifikan.
-
-## 14. Batas Klaim
-
-Arsitektur ini tidak membuktikan bahwa:
-
-- reward tertentu efektif secara universal;
-- recognition tertentu menyebabkan capacity growth;
-- reward selalu meningkatkan intrinsic motivation;
-- berkurangnya kebutuhan reward membuktikan mastery;
-- suatu teknik cocok untuk semua usia, budaya, atau konteks;
-- perubahan setelah reinforcement merupakan bukti kausal.
-
-Klaim tersebut memerlukan evidence yang sesuai dan harus dicatat melalui Claim Registry serta Evidence/Research layer.
-
-## 15. Hubungan dengan 10 Muwashofat
-
-10 Muwashofat tetap menjadi arah normatif Graduate Profile. Reinforcement/recognition dapat digunakan untuk mendukung pembinaan menuju arah tersebut, tetapi tidak boleh mengubah Muwashofat menjadi daftar skor, ranking, atau reward eligibility yang dianggap sebagai ukuran empiris kapasitas.
-
-## 16. Traceability
-
-```text
-Normative Direction / Construct
-          ↓
-Desired Functioning
-          ↓
-Evidence
-          ↓
-Reinforcement / Recognition Rationale
-          ↓
-Intervention Decision
-          ↓
-Implementation
-          ↓
-Monitoring Evidence
-          ↓
-Review
-```
-
-Setiap desain perlu dapat ditelusuri kembali ke tujuan dan evidence yang relevan.
-
-## 17. Status Arsitektur
-
-Reinforcement & Recognition ditetapkan sebagai komponen arsitektur intervention pada tahap ini. Detail teknik, bentuk reward, mekanisme lokal, threshold, dan klaim efektivitas memerlukan spesifikasi serta evidence pada layer yang sesuai.
+1. **Bukan Bukti Kausalitas Mutlak:** Peningkatan frekuensi ibadah setelah program reward tidak membuktikan bahwa sistem reward adalah penyebab tunggal kebaikan santri; hidayah adalah milik Allah SWT semata.
+2. **Bukan Pengganti Keteladanan (*Qudwah Hasanah*):** Hadiah termewah tidak akan mampu membentuk karakter santri jika musyrif dan asatidz sendiri tidak mencontohkan akhlak mulia dalam keseharian.
+3. **Penyelarasan dengan 10 Muwashofat:** Apresiasi diarahkan untuk menumbuhkan 10 profil muslim unggul, bukan untuk mencetak mentalitas pemburu piala duniawi.

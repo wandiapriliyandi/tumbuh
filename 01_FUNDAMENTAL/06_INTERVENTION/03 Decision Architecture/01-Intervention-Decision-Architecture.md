@@ -1,277 +1,170 @@
-# Intervention Decision Architecture
+# Arsitektur Pengambilan Keputusan Intervensi Tarbiyah Pesantren (Intervention Decision Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Intervention Decision Architecture
-**Epistemic status:** Conceptually specified; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
+**Dokumen Terkait:**  
+- [02-Intervention-Decision-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/02-Intervention-Decision-Audit.md)  
+- [03-Decision-Inputs-and-Authority.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/03-Decision-Inputs-and-Authority.md)  
+- [04-Decision-Options-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/04-Decision-Options-and-Proportionality.md)  
+- [05-Decision-Uncertainty-and-Reversibility.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/05-Decision-Uncertainty-and-Reversibility.md)  
+- [06-Decision-Safeguards-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/06-Decision-Safeguards-and-Fairness.md)  
+- [07-Decision-Review-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/07-Decision-Review-and-Escalation.md)  
+- [08-Decision-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/08-Decision-Traceability-and-Governance.md)
 
-## 1. Purpose
+---
 
-Decision Architecture menjelaskan bagaimana TUMBUH bergerak dari evidence menuju keputusan intervention secara tertelusur, proporsional, dan dapat ditinjau ulang.
+> ### Intisari untuk Pendidik & Musyrif
+> **"Mengambil keputusan pembinaan santri menuntut kejernihan hati dan ketelitian bukti, bukan ketergesa-gesaan amarah di saat lelah."**  
+> Kesalahan terbesar yang sering terjadi di asrama adalah mengambil keputusan intervensi secara terburu-buru: begitu mendengar aduan kawan atau melihat angka nilai rapor santri yang merah, musyrif langsung menjatuhkan vonis sanksi tanpa tabayyun, tanpa meneliti latar belakang kejadian, dan tanpa menimbang dampaknya bagi kondisi psikologis anak.  
+> Dokumen ini menjabarkan **Arsitektur Pengambilan Keputusan Intervensi (Intervention Decision Architecture) TUMBUH v2.0.0**: sebuah alur kanonikal 8 langkah yang menuntun para asatidz bergerak dari bukti teramati (*evidence*), menjalankan tabayyun yang mendalam, menganalisis kebutuhan fitrah dan konteks lingkungan, memeriksa risiko perlindungan anak, memilih tindakan yang proporsional, hingga melakukan peninjauan berkala secara adil dan dapat dikoreksi (*reversible*).
 
-Baseline yang sudah ditetapkan:
+---
 
-```text
-Evidence → Tabayyun → Context/Need Analysis → Risk Check
-→ Intervention Selection → Trial → Monitoring → Review
-```
+## 1. Hakikat dan Posisi Kanonikal Pengambilan Keputusan
 
-Keputusan tidak boleh otomatis berasal dari satu skor atau satu kejadian. fileciteturn836file0L2-L2
+Dalam tradisi tarbiyah Islam, menjatuhkan keputusan bimbingan atau sanksi terhadap santri adalah amanah hisab yang sangat berat. Rasulullah SAW mengingatkan bahwa ketergesa-gesaan berasal dari setan (*al-'ajalatu minasy-syaithan*), sedangkan kehati-hatian berasal dari Allah (*at-ta'anni minallah*).
 
-## 2. Canonical Flow
-
-```text
-EVIDENCE
-   ↓
-TABAYYUN
-   ↓
-CONTEXT / NEED ANALYSIS
-   ↓
-RISK & SAFEGUARDING CHECK
-   ↓
-INTERVENTION SELECTION
-   ↓
-TRIAL / IMPLEMENTATION
-   ↓
-MONITORING
-   ↓
-REVIEW
-   ↙        ↘
-Continue   Adjust / Stop / Escalate / Step Down
-```
-
-Ini adalah arsitektur pengambilan keputusan, bukan resep bahwa setiap kasus harus memiliki urutan operasional identik.
-
-## 3. Evidence
-
-Evidence berasal dari assessment dan sumber relevan lainnya. Evidence harus dibaca bersama construct, context, demand, support, waktu, dan keterbatasan metode.
+Oleh karena itu, sistem TUMBUH menetapkan **Alur Kanonikal 8 Langkah Pengambilan Keputusan**:
 
 ```text
-Evidence ≠ Interpretation ≠ Decision
+1. BUKTI TERAMATI (Evidence Collection)
+   └── Fakta konkret dari logbook, observasi musyrif, dan asesmen multi-sumber.
+                 ↓
+2. TABAYYUN & VERIFIKASI (Clarification & Verification)
+   └── Mendengar keterangan santri secara langsung dan memeriksa keabsahan bukti.
+                 ↓
+3. ANALISIS KEBUTUHAN & KONTEKS (Context & Need Analysis)
+   └── Menelusuri faktor pemicu: kapasitas individu, relasi kawan, atau suasana kamar.
+                 ↓
+4. PEMERIKSAAN RISIKO & PERLINDUNGAN (Risk & Safeguarding Check)
+   └── Memastikan tindakan bebas dari kekerasan fisik, verbal, atau stigma buruk.
+                 ↓
+5. PEMILIHAN INTERVENSI TERUKUR (Intervention Selection)
+   └── Menetapkan bentuk bimbingan dan konsekuensi logis yang paling cocok (*fit*).
+                 ↓
+6. UJI COBA BERJANGKA (Trial / Implementation)
+   └── Melaksanakan intervensi selama masa uji coba 14–30 hari.
+                 ↓
+7. PEMANTAUAN RESPONS HARIAN (Monitoring)
+   └── Mencatat perubahan perilaku santri selama masa intervensi berlangsung.
+                 ↓
+8. SIDANG PENINJAUAN AKHIR (Review & Decision Adjustment)
+   ├── Selesai / Kembali Penuh ke Tier 1 (Step Down)
+   ├── Lanjutkan / Sesuaikan Bentuk Bimbingan (Adjust)
+   └── Tingkatkan jika Terjadi Krisis Darurat (Step Up / Escalate)
 ```
 
-Satu skor, satu observasi, atau satu kejadian tidak dengan sendirinya cukup untuk menyimpulkan kebutuhan intervention.
+Alur ini bukan birokrasi kaku yang memperlambat pertolongan darurat, melainkan kompas kebijaksanaan agar setiap tindakan pendidik dilandasi oleh ilmu dan keadilan (*'ilm wa 'adalah*).
 
-## 4. Tabayyun
+---
 
-Tabayyun adalah tahap memastikan bahwa informasi yang menjadi dasar keputusan dipahami dengan tepat sebelum tindakan dipilih.
+## 2. Prinsip Pemisahan Bukti, Penafsiran, dan Keputusan
 
-Pertanyaan dapat mencakup:
-
-- Apa yang sebenarnya diamati?
-- Construct/functioning apa yang relevan?
-- Dalam konteks dan demand seperti apa?
-- Dukungan apa yang sudah tersedia?
-- Apakah ada perbedaan antar-sumber?
-- Apakah evidence cukup untuk keputusan yang akan dibuat?
-- Apakah ada penjelasan alternatif yang masuk akal?
-
-Tabayyun bukan sekadar administrasi; ia mencegah tindakan yang terburu-buru.
-
-## 5. Context and Need Analysis
-
-Analisis kebutuhan melihat hubungan antara functioning, demand, environment, relationship, accessibility, dan support yang tersedia.
-
-Intervention dapat diarahkan pada:
-
-- individu;
-- kelompok;
-- relasi;
-- lingkungan;
-- demand/tugas;
-- struktur atau praktik kelembagaan;
-- kombinasi beberapa area.
-
-TUMBUH tidak mengasumsikan bahwa setiap kesulitan harus diperbaiki melalui perubahan pada individu.
-
-## 6. Risk Check
-
-Sebelum memilih intervention, perlu diperiksa:
-
-- safeguarding;
-- potensi harm;
-- proportionality;
-- privacy;
-- power relationship;
-- stigma;
-- accessibility;
-- kompetensi pelaksana;
-- kebutuhan koordinasi atau rujukan.
-
-Semakin tinggi konsekuensi keputusan, semakin kuat kebutuhan akan review dan governance.
-
-## 7. Intervention Selection
-
-Pemilihan intervention mempertimbangkan:
-
-1. kebutuhan yang hendak direspons;
-2. tujuan intervention;
-3. evidence yang mendukung pemilihan;
-4. konteks;
-5. support yang sudah tersedia;
-6. feasibility;
-7. risiko dan safeguarding;
-8. cara mengetahui respons terhadap intervention.
-
-Tidak ada satu intervention yang otomatis cocok untuk semua construct, populasi, atau konteks.
-
-## 8. Trial Before Commitment
-
-Bila sesuai dengan tingkat risiko, intervention dapat diperlakukan sebagai trial yang dapat ditinjau.
+Asatidz wajib membedakan dengan tegas tiga entitas yang sering kali dicampuradukkan:
 
 ```text
-Selection
-   ↓
-Trial
-   ↓
-Response Evidence
-   ↓
-Review
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM TRILOGI PEMBUKTIAN TARBIYAH                    │
+│                                                                        │
+│       BUKTI (EVIDENCE)                                                 │
+│       Fakta objektif yang terjadi di lapangan.                         │
+│       Contoh: "Santri Z terlambat shalat shubuh 3 kali pekan ini."     │
+│              ≠                                                         │
+│       PENAFSIRAN (INTERPRETATION)                                      │
+│       Makna dari fakta tersebut dalam konteks tertentu.                │
+│       Contoh: "Santri Z mengalami kesulitan tidur karena kamar bising."│
+│              ≠                                                         │
+│       KEPUTUSAN (DECISION)                                             │
+│       Tindakan tarbiyah yang disepakati untuk menolong santri.         │
+│       Contoh: "Menata jam tenang kamar dan memberi konseling adab J2." │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Trial bukan berarti semua intervention berisiko rendah. Pada kondisi yang memerlukan tindakan segera untuk safeguarding, keputusan harus mengikuti governance yang sesuai.
+Satu catatan pelanggaran **tidak otomatis menentukan vonis intervensi**. Asatidz dilarang langsung meloncat dari bukti ke keputusan tanpa melalui penafsiran yang cermat.
 
-## 9. Monitoring and Review
+---
 
-Monitoring melihat apakah functioning atau kondisi yang relevan berubah setelah intervention dan apakah dukungan tetap sesuai.
+## 3. Makna Mendalam Tabayyun dalam Pengasuhan Asrama
 
-Review dapat menghasilkan:
+Tabayyun adalah fondasi keadilan syar'i (*In ja'akum fasiqun binaba'in fatabayyanu*). Dalam proses intervensi asrama, tabayyun dilakukan dengan mengajukan 6 pertanyaan penyelidikan:
 
-- continue;
-- maintain;
-- adjust;
-- step down;
-- step up/escalate;
-- stop;
-- collect more evidence;
-- refer/coordinate when required.
+1. **Apa fakta kejadian sebenarnya?** Apakah musyrif menyaksikan sendiri peristiwanya, atau hanya mendengar laporan kawan yang mungkin sedang berselisih?
+2. **Kapasitas adab apa yang terhambat?** Apakah masalahnya terletak pada adab kedisiplinan, adab lisan, atau pengendalian emosi?
+3. **Dalam tuntutan dan situasi seperti apa peristiwa itu terjadi?** Apakah santri sedang kelelahan setelah ujian malam, atau sedang dirundung kesedihan?
+4. **Bantuan apa yang sudah pernah diberikan?** Apakah musyrif sudah pernah mengingatkan secara baik-baik, atau langsung marah?
+5. **Apakah ada sudut pandang pembanding?** Bagaimana keterangan guru kelas, teman sekamar, dan santri yang bersangkutan?
+6. **Apakah ada penjelasan alternatif yang masuk akal?** Mungkinkah santri terlambat karena sedang menolong kawan yang sakit di kamar?
 
-Perubahan setelah intervention tidak otomatis membuktikan bahwa intervention menyebabkan perubahan tersebut.
+---
 
-## 10. Decision Reversibility
+## 4. Analisis Konteks Ekologis dan Penataan Lingkungan
 
-Keputusan intervention sedapat mungkin bersifat reviewable dan reversible, kecuali keputusan keselamatan atau governance tertentu mengharuskan tindakan yang berbeda.
+Sistem TUMBUH menolak bias penyalahan individu (*individual-blame bias*). Intervensi tidak selalu diarahkan kepada diri santri semata:
+
+- **Intervensi Individu:** Melatih keterampilan adab wudhu, doa, dan regulasi emosi santri.
+- **Intervensi Relasional:** Memediasi perselisihan antar-teman sekamar dan membangun kembali ukhuwah (*ishlah al-bain*).
+- **Intervensi Lingkungan Asrama:** Mengatur ulang tata letak lemari kamar, memperbaiki lampu yang rusak, dan menegakkan jam tenang malam.
+- **Intervensi Sistemik Pondok:** Mengevaluasi beban jadwal harian pondok yang terlalu padat sehingga santri kelelahan fisik ekstrem.
+
+---
+
+## 5. Pemeriksaan Risiko Perlindungan Santri (Safeguarding & Risk Check)
+
+Sebelum sebuah rencana intervensi disahkan oleh musyrif atau dewan guru, lakukan audit pengamanan 5 poin:
+
+- [ ] **Bebas Kekerasan Fisik:** Apakah tindakan ini aman secara medis dan tidak mencederai raga santri sedikit pun?
+- [ ] **Bebas Kekerasan Verbal:** Apakah bahasa nasihat yang akan dipakai bebas dari kata-kata kotor, hinaan, atau caci maki?
+- [ ] **Bebas Rasa Malu Publik:** Apakah bimbingan dilaksanakan secara privat tanpa mempermalukan santri di depan kawan-kawannya?
+- [ ] **Menjaga Kerahasiaan Aib:** Apakah berkas ini tersimpan aman dari kebocoran ke pihak yang tidak berwenang?
+- [ ] **Kapasitas Pelaksana:** Apakah musyrif yang ditunjuk memiliki kesabaran dan kompetensi untuk membimbing santri hingga tuntas?
+
+---
+
+## 6. Uji Coba Berjangka Sebelum Komitmen Permanen (Trial Before Commitment)
+
+Dalam kasus kesulitan adab tingkat sedang (Tier 2), intervensi diperlakukan sebagai **hipotesis bimbingan yang diuji coba (*trial tarbawi*)**:
 
 ```text
-Decision
-  ↓
-Monitor
-  ↓
-Review
-  ↓
-Revise when justified
+Pemilihan Bimbingan Tertarget (Tier 2)
+                 ↓
+Uji Coba Lapangan 14–30 Hari
+                 ↓
+Evaluasi Bukti Respons Santri
+                 ↓
+Apakah Berhasil? ─── YA ───> Turunkan Bantuan (Step Down)
+                 └── TIDAK ─> Evaluasi Ulang Resep / Ganti Strategi
 ```
 
-Dengan demikian kesalahan keputusan tidak perlu berubah menjadi label permanen terhadap seseorang.
+Pemberian masa uji coba ini mendidik para pendidik agar rendah hati dan menyadari bahwa jika suatu strategi tidak membuahkan hasil, yang salah bukan serta merta santrinya, melainkan resep bimbingannya yang mungkin belum cocok dengan kondisi anak.
 
-## 11. Relation to Tiered Support
+---
 
-Decision Architecture memilih dan meninjau bentuk/tier dukungan berdasarkan kebutuhan.
+## 7. Sifat Keputusan yang Terbuka untuk Dikoreksi (Decision Reversibility)
+
+Manusia tidak pernah luput dari kekhilafan. Oleh karena itu, seluruh keputusan intervensi TUMBUH bersifat **dapat ditinjau ulang dan dapat dibatalkan (*reviewable and reversible*)**:
 
 ```text
-Evidence
-  ↓
-Decision Architecture
-  ↓
-Tier / Support Selection
-  ↓
-Intervention
-  ↓
-Response
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM KEBERANIAN MENGOREKSI KEPUTUSAN                │
+│                                                                        │
+│   JIKA TERBUKTI ADA FAKTA BARU BAHWA SANTRI TIDAK BERSALAH :           │
+│   ──> Dewan asatidz wajib berlapang dada membatalkan sanksi saat itu   │
+│       juga, meminta maaf secara terhormat kepada santri, dan           │
+│       membersihkan nama baik santri di hadapan kawan-kawannya.         │
+│                                                                        │
+│   Ini adalah puncak adab ketakwaan para ulama salafus shalih.          │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Tier bukan keputusan moral, dan stepping up bukan hukuman.
+---
 
-## 12. Relation to Progression and Assessment
+## 8. Pagar Batas Epistemik Arsitektur Keputusan (Boundary Rules)
 
-Assessment menyediakan evidence.
+1. **Bukan Algoritma Keputusan Otomatis:** Keputusan tarbiyah tidak boleh diserahkan kepada mesin atau rumus skor kaku; ia menuntut pertimbangan nurani, hikmah, dan musyawarah asatidz.
+2. **Bukan Forum Pengadilan Pidana:** Tujuan pengambilan keputusan adalah mencari jalan pemulihan jiwa santri (*ishlah*), bukan memuaskan hasrat membalas perbuatan buruk.
+3. **Keputusan Mencoba Bukan Bukti Keberhasilan Mutlak:** Keputusan untuk menerapkan suatu bentuk bimbingan tidak boleh diklaim telah membuktikan efektivitas metode tersebut sebelum diuji oleh bukti respons santri dalam kurun waktu yang cukup.
 
-Progression membantu memahami perubahan functioning dan support requirement.
+---
 
-Intervention Decision Architecture menggunakan keduanya sebagai input, tetapi tidak menghapus kebutuhan akan judgment kontekstual.
-
-```text
-Assessment
-   ↓
-Evidence
-   ↓
-Decision
-   ↑
-Progression / Monitoring Context
-```
-
-## 13. Relation to Intervention Effectiveness
-
-Decision to select an intervention dan evidence bahwa intervention efektif adalah dua hal berbeda.
-
-```text
-Decision to Try
-      ≠
-Evidence of Effectiveness
-      ≠
-Causal Proof
-```
-
-Effectiveness harus diuji dengan desain evaluasi yang sesuai dan tidak boleh diasumsikan hanya karena kondisi membaik setelah intervention.
-
-## 14. Fairness, Dignity, and Safeguarding
-
-Decision-making harus menghindari:
-
-- punishment disguised as intervention;
-- deficit labeling;
-- intervention karena ketidaknyamanan orang dewasa semata;
-- unequal access to support;
-- privacy violations;
-- coercion yang tidak proporsional;
-- penggunaan data di luar tujuan.
-
-Tujuan intervention adalah membantu perkembangan, pemulihan, keselamatan, atau functioning yang relevan sesuai kebutuhan—bukan sekadar membuat individu lebih mudah dikendalikan.
-
-## 15. AI and Automation
-
-AI atau sistem otomatis dapat membantu:
-
-- merangkum evidence;
-- menemukan pola yang perlu ditinjau;
-- membantu dokumentasi;
-- memberi signal untuk review.
-
-Namun:
-
-```text
-AI Signal ≠ Intervention Decision
-```
-
-Keputusan yang sensitif memerlukan human review dan governance yang sesuai.
-
-## 16. Traceability
-
-Setiap keputusan penting idealnya dapat ditelusuri:
-
-```text
-Evidence
-→ Construct / Need
-→ Context Analysis
-→ Risk Check
-→ Decision Rationale
-→ Selected Intervention
-→ Expected Response
-→ Monitoring Evidence
-→ Review Decision
-```
-
-Traceability membuat keputusan dapat dipelajari tanpa menjadikan dokumentasi sebagai beban administratif yang tidak perlu.
-
-## 17. Boundary Rules
-
-Decision Architecture bukan:
-
-- automatic decision engine;
-- diagnosis;
-- punishment framework;
-- permanent labeling system;
-- universal intervention recipe;
-- single-score decision rule;
-- proof of intervention effectiveness;
-- causal inference mechanism.
-
-**Decision:** Intervention decisions are contextual, evidence-informed, proportionate, reviewable, and governed. Specific decision thresholds remain context- and evidence-dependent.
+> **Keputusan Arsitektur:** Arsitektur Pengambilan Keputusan Intervensi (*Intervention Decision Architecture*) adalah benteng keadilan hukum tarbiyah di pesantren. Dengan alur yang teliti, adil, berlandaskan tabayyun, dan terbuka untuk dikoreksi, sistem TUMBUH v2.0.0 menjamin bahwa setiap santri dibimbing dengan timbangan keadilan syari'at yang luhur dan kasih sayang yang hakiki.

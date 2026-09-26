@@ -1,105 +1,91 @@
-# Case Management Audit
+# Audit Arsitektur Manajemen Kasus (Case Management Audit)
 
-**Status:** ARCHITECTURALLY SUFFICIENT — CURRENT STAGE  
-**Review type:** architectural review; not empirical validation
+**Status:** CANONICAL AUDIT REPORT — ARCHITECTURALLY SUFFICIENT  
+**Epistemic Status:** Architectural Review; Not Empirical Validation  
+**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
+**Dokumen Terkait:**  
+- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
+- [04-Case-Planning-and-Coordination.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)  
+- [08 Assessment Quality / 04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
 
-## 1. Review Scope
+---
 
-Audit ini memeriksa kecukupan posisi, struktur, batas, hubungan, dan guardrail Case Management dalam arsitektur Intervention TUMBUH.
+> ### Intisari untuk Pendidik & Musyrif
+> **"Mengaudit manajemen kasus adalah ikhtiar memastikan agar kerja sama para ustadz benar-benar meringankan beban santri, bukan malah membelenggunya dengan jaring birokrasi yang dingin."**  
+> Laporan audit ini adalah instrumen pengawasan tata kelola pesantren untuk menjamin bahwa pembentukan tim khusus penanganan santri tidak berubah menjadi ajang gosip massal di kalangan guru. Setiap pilar diperiksa agar perlindungan privasi santri terjaga, pembagian peran berjalan adil, dan tidak ada santri yang dijadikan 'kelinci percobaan' koordinasi tanpa arah tujuan yang jelas.
 
-## 2. Baseline Alignment
+---
 
-README komponen menetapkan bahwa Case Management mengoordinasikan assessment, rencana dukungan, pihak terkait, monitoring, review, dokumentasi, dan closure untuk kasus yang membutuhkan koordinasi lintas peran. fileciteturn845file0
+## 1. Ruang Lingkup dan Mandat Audit
 
-Arsitektur mempertahankan fungsi tersebut dan memperjelas bahwa Case Management adalah **lapisan koordinasi**, bukan pengganti assessment, intervention decision, safeguarding, progression, atau intervention itu sendiri.
+Audit ini memeriksa kelengkapan posisi, kejelasan wewenang, batasan informasi, dan mitigasi risiko operasional dalam kerangka kerja *Case Management* TUMBUH v2.0.0 guna memastikan koordinasi lintas peran berjalan profesional, empatik, dan berlandaskan perlindungan martabat santri.
 
-## 3. Findings
+---
 
-| Area | Status | Temuan |
-|---|---|---|
-| Posisi | PASS | Case Management ditempatkan sebagai koordinasi lintas peran dalam Intervention. |
-| Scope | PASS | Case intake dan scope mencegah koordinasi berkembang tanpa tujuan. |
-| Case ≠ Person | PASS | Case diperlakukan sebagai unit koordinasi, bukan identitas permanen individu. |
-| Evidence | PASS | Evidence dibedakan dari interpretation dan decision. |
-| Assessment boundary | PASS | Case Management tidak mengambil alih fungsi assessment. |
-| Tabayyun | PASS | Context, source discrepancy, support, need, dan risk ditinjau. |
-| Case formulation | PASS | Individu, relasi, lingkungan, support, risk, dan kebutuhan dapat dipertimbangkan. |
-| Case plan | PASS | Tujuan, evidence, support, owner, monitoring, risk, referral, dan review dapat ditelusuri. |
-| Role clarity | PASS | Coordinator tidak otomatis menjadi pemilik seluruh keputusan substantif. |
-| Cross-role coordination | PASS | Perbedaan perspektif tidak dihapus tanpa review. |
-| Tiered Support | PASS | Tier tetap support intensity, bukan label individu. |
-| Intervention Mapping | PASS | Candidate options tidak berubah menjadi automatic intervention. |
-| Safeguarding | PASS | Risk escalation dan referral tersedia; protection tidak ditunda oleh administrasi. |
-| Referral | PASS | Handoff dan follow-up dapat dikelola tanpa mengklaim seluruh kebutuhan harus ditangani internal. |
-| Monitoring | PASS | Monitoring mencakup tujuan, functioning, support fit, risk, dan coordination. |
-| Closure | PASS | Closure dibatasi pada scope case, bukan klaim selesai berkembang. |
-| Data minimization | PASS | Dokumentasi dibatasi oleh purpose, need-to-know, dan governance. |
-| Privacy | PASS | Akses dan penggunaan informasi dibatasi sesuai kewenangan. |
-| Dignity | PASS | Bahasa dan proses diarahkan untuk mencegah stigma permanen. |
-| Fairness | PASS | Akses, konsistensi proses, dan proporsionalitas diperhatikan. |
-| AI boundary | PASS | AI hanya membantu organisasi informasi/pola; bukan adjudicator. |
-| Progression | PASS | Case Management tidak menentukan capacity progression secara sepihak. |
-| 10 Muwashofat | PASS | Tetap normatif dan tidak menjadi case score/severity score. |
-| Effectiveness boundary | PASS | Arsitektur tidak mengklaim koordinasi efektif secara universal. |
-| Traceability | PASS | Need → evidence → plan → action → monitoring → review dapat ditelusuri. |
+## 2. Matriks Temuan Audit Arsitektur (24 Dimensi Penjaminan Mutu)
 
-## 4. Architectural Decision
+Hasil peninjauan menyeluruh terhadap tata kelola manajemen kasus:
 
-Case Management dinilai **cukup secara arsitektural untuk tahap saat ini**.
+| No | Area Audit | Status | Temuan dan Dasar Verifikasi Arsitektural |
+| :---: | :--- | :---: | :--- |
+| **1** | **Posisi dalam Intervensi** | **LULUS (PASS)** | Ditempatkan sebagai lapisan koordinasi lintas peran, bukan pengganti intervensi inti. |
+| **2** | **Batasan Ruang Lingkup (*Scope*)** | **LULUS (PASS)** | Penerimaan kasus memiliki kriteria ketat guna mencegah koordinasi liar tanpa tujuan. |
+| **3** | **Kaidah Kasus Bukan Pribadi** | **LULUS (PASS)** | Kasus adalah unit koordinasi berkala (*Case ≠ Person*); dilarang menjadi identitas permanen. |
+| **4** | **Pemisahan Bukti & Vonis** | **LULUS (PASS)** | Fakta asesmen dipisahkan secara tegas dari interpretasi dan keputusan tim penanganan. |
+| **5** | **Batas Wewenang Asesmen** | **LULUS (PASS)** | Manajemen kasus tidak mengambil alih fungsi psikometri dan asesmen diagnostik formal. |
+| **6** | **Protokol Tabayyun Multidisiplin** | **LULUS (PASS)** | Memeriksa perbedaan sudut pandang guru, musyrif, dan orang tua secara objektif. |
+| **7** | **Formulasi Masalah Holistik** | **LULUS (PASS)** | Memeriksa interaksi antara diri santri, beban lingkungan, dinamika teman, dan keluarga. |
+| **8** | **Rencana Kasus Terukur (*Plan*)** | **LULUS (PASS)** | Menghubungkan kebutuhan, target capaian, penanggung jawab peran, dan jadwal review. |
+| **9** | **Kejelasan Mandat Peran** | **LULUS (PASS)** | Koordinator kasus dilarang mendominasi atau menganulir putusan ahli medis/BK. |
+| **10** | **Koordinasi Lintas Peran** | **LULUS (PASS)** | Menghargai perbedaan perspektif asatidz tanpa memaksakan narasi tunggal yang prematur. |
+| **11** | **Integrasi Tiered Support** | **LULUS (PASS)** | Menjaga prinsip Tier 1-3 sebagai intensitas sumber daya, bukan label derajat anak. |
+| **12** | **Penyelarasan Pemetaan Intervensi** | **LULUS (PASS)** | Memilih opsi intervensi yang memiliki penanggung jawab jelas dan dapat dipantau. |
+| **13** | **Jalur Eskalasi Bahaya** | **LULUS (PASS)** | Protokol darurat perlindungan anak didahulukan tanpa terhambat kelengkapan dokumen. |
+| **14** | **Tata Kelola Rujukan (*Referral*)** | **LULUS (PASS)** | Rujukan keluar pondok wajib memiliki serah-terima resmi (*handoff*) dan rencana tindak lanjut. |
+| **15** | **Pemantauan Keseharian** | **LULUS (PASS)** | Memantau keberfungsian hidup santri secara wajar tanpa berubah menjadi aksi mata-mata. |
+| **16** | **Kriteria Penutupan (*Closure*)** | **LULUS (PASS)** | Kasus ditutup saat tujuan tercapai; penutupan bukan berarti santri selesai berkembang. |
+| **17** | **Minimasi Data (*Data Minimization*)**| **LULUS (PASS)** | Hanya mengumpulkan dan membagikan data yang benar-benar dibutuhkan oleh peran terkait. |
+| **18** | **Kerahasiaan & Privasi** | **LULUS (PASS)** | Hak akses informasi dibatasi dengan asas *need-to-know* yang sangat ketat. |
+| **19** | **Penjagaan Martabat Insani** | **LULUS (PASS)** | Bahasa notulensi kasus wajib menggunakan kalimat yang bermartabat dan bebas stigma. |
+| **20** | **Keadilan Akses Layanan** | **LULUS (PASS)** | Seluruh santri berhak mendapatkan layanan manajemen kasus tanpa memandang status sosial. |
+| **21** | **Batas Digital & AI** | **LULUS (PASS)** | AI dilarang menjadi penentu diagnosis, skor keparahan, atau pengambil keputusan kasus. |
+| **22** | **Batas Progresi Kemandirian** | **LULUS (PASS)** | Status kasus tidak boleh membatalkan hak santri untuk naik jenjang kemandirian J1-J4. |
+| **23** | **Penyelarasan 10 Muwashofat** | **LULUS (PASS)** | Mengarahkan penyelesaian kasus demi memulihkan karakter muslim sejati santri. |
+| **24** | **Keterlacakan Rekam Jejak** | **LULUS (PASS)** | Seluruh kronologi penanganan kasus tercatat utuh dalam dokumen resmi terverifikasi. |
 
-Tidak diperlukan penambahan:
+---
 
-- case severity score universal;
-- universal case pathway;
-- diagnosis layer;
-- case-specific Core Capacity;
-- intervention decision layer baru;
-- permanent case label;
-- mandatory case management untuk semua kebutuhan;
-- automatic closure engine;
-- AI case adjudicator.
+## 3. Keputusan Penetapan Arsitektur (*Architectural Decision*)
 
-## 5. Open Questions for Evidence / Research
+Kerangka kerja *Case Management* dinyatakan **LENGKAP DAN MEMADAI SECARA ARSITEKTURAL (ARCHITECTURALLY SUFFICIENT)** untuk tahap implementasi saat ini.
 
-1. Kapan Case Management menghasilkan manfaat dibanding koordinasi sederhana?
-2. Bagaimana menentukan kebutuhan case management secara proporsional?
-3. Bagaimana menguji kualitas koordinasi lintas peran?
-4. Bagaimana mengukur outcome tanpa menyamakan koordinasi dengan effectiveness?
-5. Bagaimana memastikan data minimization tetap cukup untuk safeguarding dan continuity?
-6. Bagaimana menilai fairness akses terhadap case management?
-7. Bagaimana menjaga handoff/referral agar tidak terjadi kehilangan informasi atau tanggung jawab?
-8. Bagaimana menguji penggunaan AI dalam dokumentasi dan coordination tanpa menjadikannya decision maker?
+Pesantren **DITOLAK SECARA ARSITEKTURAL** untuk menerapkan:
+- Skor angka tunggal keparahan kasus (*case severity score*).
+- Pewajiban manajemen kasus formal untuk masalah disiplin ringan asrama.
+- Pelabelan berkas santri dengan istilah klinis permanen tanpa izin psikolog resmi.
+- Sistem otomatisasi kecerdasan buatan (AI) yang menutup atau membuka kasus tanpa verifikasi manusia.
 
-Pertanyaan tersebut tetap menjadi wilayah Evidence Registry dan Research.
+---
 
-## 6. Failure Modes to Watch
+## 4. Dua Belas Modus Kegagalan yang Wajib Dicegah (*Failure Modes to Watch*)
 
-- semua kebutuhan diperlakukan sebagai case formal;
-- case menjadi label permanen;
-- coordinator mengambil alih keputusan yang seharusnya berada pada peran lain;
-- dokumentasi menjadi dossier berlebihan;
-- data dikumpulkan tanpa tujuan;
-- assessment score menjadi case severity otomatis;
-- perbedaan antar-peran dipaksa menjadi satu narasi tanpa tabayyun;
-- referral dipakai untuk melepaskan tanggung jawab tanpa handoff;
-- closure dianggap berarti individu “sudah selesai” berkembang;
-- monitoring berubah menjadi surveillance;
-- AI menentukan diagnosis, severity, intervention, safeguarding, atau closure;
-- koordinasi yang banyak dianggap otomatis lebih efektif.
+1. **Hiper-Birokratisasi:** Setiap masalah kecil santri dibuatkan rapat pleno yang melelahkan para ustadz.
+2. **Labeling Kasus Abadi:** Santri terus-menerus disebut sebagai "anak kasus" hingga lulus pondok.
+3. **Dominasi Koordinator:** Koordinator kasus merasa menjadi pimpinan tunggal yang mengabaikan saran guru kelas.
+4. **Dossier Gosip:** Catatan kasus mencatat rumor dan kecurigaan yang tidak terverifikasi kebenarannya.
+5. **Lempar Tanggung Jawab:** Merujuk santri ke psikiater luar pondok hanya demi lepas tangan dari kewajiban membina.
+6. **Kebocoran Aib:** Notulensi rapat kasus tersebar ke grup guru atau terdengar oleh santri lain.
+7. **Keseragaman Buta:** Memaksa semua pihak memiliki pendapat yang sama saat tabayyun masih berjalan.
+8. **Administrasi Menghambat Keselamatan:** Menunda membawa santri depresi ke rumah sakit demi menunggu tanda tangan proposal.
+9. **Penutupan Tanpa Evaluasi:** Menutup kasus secara terburu-buru hanya karena santri tampak pendiam.
+10. **Pemantauan Mata-Mata:** Menggunakan mata-mata antar-santri untuk melaporkan rahasia santri yang dibina.
+11. **Diagnosa Mandiri Tanpa Wewenang:** Musyrif memberi vonis bahwa santri mengidap gangguan bipolar tanpa dasar ahli.
+12. **Asumsi Koordinasi = Keberhasilan:** Mengira bahwa banyaknya rapat kasus membuktikan bahwa santri telah tertolong.
 
-## 7. Reopening Conditions
+---
 
-Arsitektur dapat dibuka kembali apabila ditemukan:
+## 5. Pertanyaan Kritis untuk Agenda Riset Lanjutan
 
-- gap konseptual material;
-- konflik dengan Core Model atau System Logic;
-- boundary failure dengan assessment, intervention, progression, transition, atau safeguarding;
-- masalah struktural terkait privacy, safety, fairness, dignity, accessibility, atau data governance;
-- kegagalan traceability;
-- evidence empiris yang menunjukkan struktur tidak memadai untuk tujuan yang ditetapkan.
-
-## 8. Final Decision
-
-**CLOSED FOR CURRENT ARCHITECTURAL STAGE.**
-
-Penutupan menunjukkan bahwa struktur koordinasi telah cukup untuk melanjutkan pengembangan. Ini bukan klaim bahwa Case Management telah terbukti efektif atau universal.
+1. Bagaimana format dokumentasi kasus yang paling efisien bagi musyrif yang memiliki keterbatasan waktu administrasi di pesantren?
+2. Indikator objektif apa yang menandakan bahwa suatu kasus telah aman untuk diturunkan intensitasnya dari Tier 3 ke Tier 2?
+3. Bagaimana mekanisme koordinasi yang paling efektif antara tim pengasuhan pondok dengan wali santri yang berada di luar pulau?
