@@ -1,17 +1,5 @@
 # Integrasi Asesmen Kapasitas Inti (Core Capacity Assessment Integration)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [01_FUNDAMENTAL/03_CORE_MODEL/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/README.md)  
-- [01_FUNDAMENTAL/04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-- [01_FUNDAMENTAL/06_INTERVENTION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Asesmen bukanlah pulau terpencil yang berdiri sendiri di luar proses pendidikan.**  
 > Asesmen ibarat sistem saraf yang menghubungkan mata, hati, dan tangan seorang pendidik. Ia menghubungkan **Peta Jiwa Santri** (*Core Model*), **Tangga Pertumbuhan Kemandirian J1–J4** (*Progression*), dan **Tindakan Bimbingan Kasih Sayang** (*Intervention*).  
 > Tanpa integrasi ini, asesmen akan menjadi beban administrasi tumpukan kertas yang sia-sia, atau berubah menjadi alat spionase yang menakut-nakuti anak.  

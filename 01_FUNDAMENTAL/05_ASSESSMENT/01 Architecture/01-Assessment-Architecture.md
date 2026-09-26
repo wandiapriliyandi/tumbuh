@@ -1,21 +1,5 @@
 # Arsitektur Asesmen Perkembangan Santri (Assessment Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [03-Construct-and-Inference-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/03-Construct-and-Inference-Architecture.md)  
-- [04-Evidence-and-Interpretation-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/04-Evidence-and-Interpretation-Architecture.md)  
-- [05-Decision-and-Proportionality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/05-Decision-and-Proportionality-Architecture.md)  
-- [06-Context-Support-and-Fairness-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/06-Context-Support-and-Fairness-Architecture.md)  
-- [07-Assessment-Monitoring-and-Reassessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/07-Assessment-Monitoring-and-Reassessment-Architecture.md)  
-- [08-Assessment-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/08-Assessment-Traceability-and-Governance.md)  
-- [Assessment-Integration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/Assessment-Integration.md)  
-- [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Asesmen dalam TUMBUH bukanlah mesin pembuat vonis angka raport, melainkan kompas pengasuhan yang memandu langkah tarbiyah.**  
 > Di banyak sekolah, asesmen dimulai dan diakhiri dengan pertanyaan sempit: *"Berapa nilai ujian anak ini? Dia ranking berapa?"* Pola seperti ini mereduksi jiwa santri yang luas menjadi sekadar angka mati di atas kertas.  
 > Di pesantren TUMBUH, asesmen adalah **seni memahami pertumbuhan adab dan kapasitas santri secara utuh selama 24 jam**:  

@@ -1,19 +1,5 @@
 # Arsitektur Kriteria Transisi (Transition Criteria Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [03-Transition-Criteria-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/03-Transition-Criteria-Design.md)  
-- [04-Transition-Readiness-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/04-Transition-Readiness-and-Fit.md)  
-- [05-Transition-Trial-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/05-Transition-Trial-and-Monitoring.md)  
-- [06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)  
-- [05 Milestones & Gateways/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/README.md)  
-- [01 Growth Architecture/05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Transisi bukanlah kenaikan pangkat otomatis berdasarkan pergantian tahun ajaran.**  
 > Di pesantren TUMBUH, transisi adalah **seni menyesuaikan takaran bantuan pengasuh dengan kesiapan riil santri**:  
 > *"Kapan kita harus melonggarkan pengawasan? Kapan kita harus menguji kemandirian anak? Dan kapan kita harus segera kembali memegangi tangannya saat ia mulai goyah?"*  

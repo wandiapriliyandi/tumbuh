@@ -1,17 +1,5 @@
 # Kalibrasi Penilai, Mitigasi Pergeseran Kriteria, dan Pengelolaan Bias (Rater Calibration & Fairness)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/08 Assessment Quality/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Quality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/01-Assessment-Quality-Architecture.md)  
-- [03-Validity-Reliability-and-Error.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/03-Validity-Reliability-and-Error.md)  
-- [04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)  
-- [01-Rubric-Architecture-and-Principles.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/01-Rubric-Architecture-and-Principles.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Kelemahan terbesar asesmen perilaku bukan pada formulirnya, melainkan pada mata dan hati manusia yang menilainya."**  
 > Di pesantren, fenomena umum terjadi: santri yang tinggal di Asrama A dinilai "belum mandiri" karena musyrifnya bertipe perfeksionis dan sangat disiplin, sementara santri dengan perilaku yang sama di Asrama B dinilai "sangat mandiri" karena musyrifnya santai dan toleran. Jika hal ini dibiarkan, asesmen kehilangan keadilan (*'adalah*), dan santri akan merasa dirugikan.  
 > Dokumen ini menyajikan panduan terpadu mengenai **Kalibrasi Penilai Asatidz (*Rater Calibration*)** dan **Pengelolaan Bias Penilaian (*Fairness & Bias Management*)**: bagaimana melatih para pembina agar memiliki kesamaan frekuensi pandang dalam membaca adab santri, mencegah kriteria yang bergeser karena kelelahan (*rater drift*), serta membersihkan pandangan dari jebakan efek halo (*halo effect*) maupun stereotip budaya.

@@ -1,13 +1,5 @@
 # CC-06 Social Understanding — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-06 Social Understanding (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Pemahaman Sosial (Social Understanding / Empati) bukanlah sekadar kepandaian bergaul atau memiliki banyak kawan.**  
 > Di pesantren, pemahaman sosial adalah **kepekaan batin dalam membaca keadaan dan memuliakan sesama insan**: santri mampu menyelami perasaan dan kesulitan kawannya (*fahmul hal*), peka membaca kepatutan suasana lingkungan asrama (*idrakul bi'ah*), serta tergerak hatinya untuk menolong, menghibur, dan melindungi kawan dengan penuh kasih sayang islami (*tarahum wa ta'athuf*).
 

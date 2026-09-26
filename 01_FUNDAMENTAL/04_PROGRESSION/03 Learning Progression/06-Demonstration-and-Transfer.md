@@ -1,16 +1,5 @@
 # Unjuk Kerja Nyata dan Alih Penerapan (Demonstration and Transfer)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [03 Learning Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/README.md)  
-**Dokumen Terkait:**  
-- [01-Learning-Progression-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/01-Learning-Progression-Architecture.md)  
-- [04-Learning-Experience-and-Practice.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/04-Learning-Experience-and-Practice.md)  
-- [04 Mastery Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Ujian sejati santri bukanlah lembar soal di atas meja madrasah.**  
 > Di pesantren TUMBUH, bukti keberhasilan belajar diukur melalui dua tangga pembuktian:  
 > 1. **Unjuk Kerja Nyata (*Demonstration / Amal Zahir*):** Santri mampu mempraktikkan adab dan keterampilannya dalam tugas nyata sehari-hari di pondok—seperti menjadi imam salat, memimpin piket kamar, atau menengahi konflik kawan secara santun.  

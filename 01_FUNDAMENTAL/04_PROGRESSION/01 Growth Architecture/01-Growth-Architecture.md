@@ -1,17 +1,5 @@
 # Arsitektur Pertumbuhan (Growth Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [09-Developmental-Levels-Alignment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/09-Developmental-Levels-Alignment.md)  
-- [05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)  
-- [03-Development-Tracks.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/03-Development-Tracks.md)  
-- [04-Triad-Growth-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/04-Triad-Growth-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Pimpinan Pesantren
 > **Pertumbuhan manusia bukanlah perakitan mesin pabrik yang seragam dan kaku.**  
 > Di pesantren TUMBUH, pertumbuhan (*Growth Architecture*) dipahami seperti **merawat ekosistem kebun yang subur**:  
 > 1. **Santri** adalah benih tunas yang membawa potensi fitrah ilahi;  

@@ -1,13 +1,5 @@
 # CC-03 Communication — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-03 Communication (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Komunikasi Beradab (Communication) bukanlah sekadar kepandaian berpidato atau banyak bicara.**  
 > Di pesantren, komunikasi adalah **pertukaran makna yang berpusat pada keluhuran adab lisan**: santri membiasakan diri memikirkan kejujuran isi perkataan sebelum berucap (*qaulan sadida*), menyampaikannya dengan tutur kata yang santun, tertata, dan tepat konteks (*qaulan baligha wa layyina*), serta memiliki keikhlasan hati untuk menyimak pembicaraan orang lain secara takzim dan penuh perhatian (*husnut istima'*).
 

@@ -1,15 +1,5 @@
 # Masa Uji Coba dan Pemantauan Transisi (Transition Trial and Monitoring)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06 Transition Criteria/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Keputusan menaikkan kemandirian santri adalah hipotesis cinta yang perlu diuji dengan hati-hati.**  
 > Ketika dewan asatidz memutuskan seorang santri siap mandiri (misal: naik dari J2 ke J3), keputusan tersebut tidak langsung disahkan permanen. Santri diberi **Masa Uji Coba Terpantau (*Trial Period: 2–4 Pekan*)**:  
 > Selama masa uji coba, musyrif memantau apakah santri benar-benar merasa nyaman dan tertib, atau justru cemas dan kewalahan. Pemantauan bukan untuk mencari-cari kesalahan anak, melainkan untuk memastikan bahwa lingkungan barunya aman dan ia sanggup bertumbuh dengan baik.

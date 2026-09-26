@@ -1,17 +1,5 @@
 # Pagar Batas, Mode Kegagalan, dan Tata Kelola Rubrik (Rubric Boundaries and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/03 Rubrics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/README.md)  
-**Dokumen Terkait:**  
-- [01-Rubric-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/01-Rubric-Architecture.md)  
-- [02-Rubric-Design-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/02-Rubric-Design-and-Evidence-Interpretation.md)  
-- [03-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/03-Rater-Calibration-and-Fairness.md)  
-- [05-Exemplar-Adab-Rubrics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/05-Exemplar-Adab-Rubrics.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Rubrik adalah pelayan setia tarbiyah, bukan berhala yang disembah.**  
 > Ketika sebuah lembaga pendidikan menerapkan instrumen rubrik yang rapi, sering kali muncul bahaya laten: para pendidik mulai memperlakukan angka dan centangan rubrik sebagai "hakikat diri santri itu sendiri" (*reification*). Santri yang mendapat skor J1 langsung dicap "anak bermasalah", sementara santri berskor J4 diagung-agungkan meskipun adab aslinya di kamar asrama congkak dan meremehkan kawan.  
 > Dokumen ini menetapkan **sepuluh pagar batas mutlak, analisis enam mode kegagalan penerapan rubrik di lapangan (*failure modes*), dan tata kelola keterlacakan data yang beretika**: memastikan rubrik tetap menjadi sarana bimbingan yang memuliakan manusiawi santri dan tidak berubah menjadi jeratan birokrasi yang dingin.

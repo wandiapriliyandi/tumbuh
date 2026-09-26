@@ -1,18 +1,5 @@
 # Arsitektur Ketuntasan Watak (Mastery Progression Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [03-Mastery-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/03-Mastery-Criteria.md)  
-- [04-Mastery-Evidence-and-Judgment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/04-Mastery-Evidence-and-Judgment.md)  
-- [05-Mastery-Transfer-and-Maintenance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/05-Mastery-Transfer-and-Maintenance.md)  
-- [06-Mastery-Review-and-Reassessment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/06-Mastery-Review-and-Reassessment.md)  
-- [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Asatidz
 > **Mastery (Ketuntasan Watak) bukanlah sekadar nilai 100 di atas kertas rapor.**  
 > Dalam khazanah pesantren, ketuntasan adalah **terbentuknya Malakah (*Al-Malakah al-Rāsikhah*)**:  
 > Adab dan ilmu telah meresap begitu mendalam ke dalam jiwa santri hingga menjadi **refleks kebaikan alami yang spontan**. Santri menjaga salat berjamaah, bertutur kata santun, dan merapikan tempat tidurnya bukan lagi karena takut dibentak musyrif atau ingin dipuji manusia, melainkan karena hal itu telah menjadi bagian tak terpisahkan dari kepribadian hidupnya, baik saat berada di pondok maupun saat berada di tempat sepi.

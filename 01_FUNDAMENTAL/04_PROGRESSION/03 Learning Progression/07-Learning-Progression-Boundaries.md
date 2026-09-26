@@ -1,7 +1,5 @@
 # Learning Progression Boundaries
 
-**Status:** DESIGNED — v2.0.0 / Learning Progression
-
 ## 1. Tujuan
 
 Boundary ini menjaga Learning Progression agar tidak berubah menjadi teori tahap universal, resep pedagogis tunggal, atau shortcut dari aktivitas belajar menuju klaim capacity dan mastery.

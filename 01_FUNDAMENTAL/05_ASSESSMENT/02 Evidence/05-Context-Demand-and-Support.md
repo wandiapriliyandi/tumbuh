@@ -1,19 +1,5 @@
 # Konteks, Tuntutan Tugas, dan Bantuan Pengasuhan (Context, Demand, and Support)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
-**Dokumen Terkait:**  
-- [01-Evidence-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture.md)  
-- [02-Evidence-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/02-Evidence-Audit.md)  
-- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
-- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
-- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)  
-- [07-Evidence-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/07-Evidence-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Perilaku santri tidak pernah muncul di ruang hampa.**  
 > Seorang santri yang tampak tertib ketika musyrif berdiri di sampingnya belum tentu memiliki kemandirian sejati. Sebaliknya, santri yang tampak panik dan gagal menyelesaikan tugas piketnya mungkin bukan karena pemalas, melainkan karena keran air asrama mati sehingga ia harus mengantre ember selama satu jam.  
 > Dokumen ini membedah **Trias Ekologis Asesmen: Konteks (*Context*), Tuntutan (*Demand*), dan Bantuan (*Support*)**. Mencatat perilaku santri tanpa mencatat ketiga faktor ini laksana menghakimi perenang yang tenggelam tanpa melihat apakah airnya tenang atau sedang dilanda ombak badai.

@@ -1,17 +1,5 @@
 # Validitas Bukti, Reliabilitas, dan Pengendalian Galat Pengukuran (Validity, Reliability & Error)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/08 Assessment Quality/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Quality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/01-Assessment-Quality-Architecture.md)  
-- [02-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/02-Rater-Calibration-and-Fairness.md)  
-- [04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)  
-- [01-Evidence-Architecture-and-Principles.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture-and-Principles.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Reliabel belum tentu valid, dan angka yang konsisten belum tentu mengukur hal yang benar."**  
 > Bayangkan sebuah timbangan beras yang jarum penunjuknya macet di angka 50 kg. Siapa pun santri yang menaikinya—baik santri berbadan kecil maupun santri berbadan besar—timbangan tersebut selalu menunjukkan angka 50 kg secara sangat konsisten (*reliable*). Namun, timbangan itu sama sekali tidak mengukur berat badan yang sebenarnya (*invalid*).  
 > Dokumen ini membedah dua konsep fundamental dalam ilmu pengukuran pendidikan yang diterapkan dalam tarbiyah pesantren: **Validitas (ketepatan makna bukti)**, **Reliabilitas (konsistensi pengamatan)**, dan **Pengendalian Galat Pengukuran (*Measurement Error*)**. Tujuannya adalah melindungi para pendidik agar tidak tertipu oleh ilusi angka semu, serta mampu membedakan antara fluktuasi suasana hati sesaat santri dengan perubahan watak sejati mereka.

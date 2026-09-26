@@ -1,13 +1,5 @@
 # CC-01 Self-Regulation — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-01 Self-Regulation (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Regulasi Diri (Self-Regulation) bukanlah kepatuhan buta karena takut hukuman.**  
 > Santri yang memiliki regulasi diri yang baik bukan berarti santri yang selalu diam seribu bahasa. Regulasi diri adalah **kemampuan santri untuk memegang kendali atas dirinya sendiri**: ia sadar kapan harus fokus belajar (*pikiran*), mampu menenangkan diri saat marah atau kecewa (*perasaan*), serta mampu menahan diri dari godaan melanggar adab meskipun musyrif tidak sedang mengawasinya (*perilaku*).
 

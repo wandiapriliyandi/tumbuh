@@ -1,18 +1,5 @@
 # Desain Perumusan Kriteria Transisi (Transition Criteria Design)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [04-Transition-Readiness-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/04-Transition-Readiness-and-Fit.md)  
-- [05-Transition-Trial-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/05-Transition-Trial-and-Monitoring.md)  
-- [06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)  
-- [07-Transition-Boundaries-and-Safeguards.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/07-Transition-Boundaries-and-Safeguards.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Perasaan asatidz" tidak boleh menjadi satu-satunya dasar memindahkan jenjang santri.**  
 > Sering kali kita mendengar ucapan: *"Anak ini kelihatannya sudah siap jadi ketua kamar,"* atau sebaliknya *"Dia belum pantas mandiri."* Namun ketika ditanya apa ukurannya, jawabannya hanya firasat atau kesan sesaat.  
 > Desain Kriteria Transisi adalah **alat bantu bagi dewan asatidz untuk merumuskan syarat perpindahan secara jernih, adil, dan objektif**. Sebuah kriteria transisi yang sehat harus menjawab enam pertanyaan pokok: **Apa** perilaku yang diamati? Dalam **situasi** apa? Dengan **bantuan** apa? Apa **bukti nyata** yang sudah tercatat di logbook? Apa **risiko** yang mungkin timbul? Dan apa **rencana uji cobanya**?  

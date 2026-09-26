@@ -1,15 +1,5 @@
 # Pengalaman Belajar dan Latihan Nyata (Learning Experience and Practice)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [03 Learning Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/README.md)  
-**Dokumen Terkait:**  
-- [01-Learning-Progression-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/01-Learning-Progression-Architecture.md)  
-- [05-Feedback-and-Reflection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/05-Feedback-and-Reflection.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Sekadar hadir di pesantren tidak otomatis membuat santri bertumbuh adabnya.**  
 > Santri membutuhkan dua pilar pembelajaran yang seimbang:  
 > 1. **Pengalaman Belajar yang Bermakna (*Learning Experience*):** Perjumpaan santri dengan keteladanan nyata guru, dialog hangat, dan iklim asrama yang aman.  

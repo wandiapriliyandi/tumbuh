@@ -1,17 +1,5 @@
 # Bukti Temporal, Fluktuasi Perkembangan, dan Rekonsiliasi Perbedaan Data (Temporal & Discrepant Evidence)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
-**Dokumen Terkait:**  
-- [01-Evidence-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture.md)  
-- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
-- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
-- [05-Context-Demand-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/05-Context-Demand-and-Support.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Santri bukanlah robot yang perilakunya selalu rata dan stabil setiap hari.**  
 > Ada hari-hari di mana seorang santri tampak sangat bersemangat dan khusyuk, dan ada hari-hari di mana ia tampak letih atau futur karena kurang tidur atau sedang rindu keluarga (*homesick*).  
 > Selain itu, sering kali terjadi perbedaan laporan antarpengamat: guru kelas madrasah memuji santri karena rajin mencatat, sementara musyrif asrama mengeluhkan santri karena malas piket kamar mandi.  

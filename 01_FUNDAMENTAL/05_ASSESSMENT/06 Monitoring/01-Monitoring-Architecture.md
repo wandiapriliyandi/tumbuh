@@ -1,19 +1,5 @@
 # Arsitektur Pemantauan Perkembangan Berkelanjutan Santri (Monitoring Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [02-Monitoring-Planning-and-Questions.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/02-Monitoring-Planning-and-Questions.md)  
-- [03-Temporal-Evidence-and-Change-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/03-Temporal-Evidence-and-Change-Review.md)  
-- [04-Monitoring-Frequency-and-Intensity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/04-Monitoring-Frequency-and-Intensity.md)  
-- [05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)  
-- [06-Monitoring-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/06-Monitoring-Traceability-and-Governance.md)  
-- [07-Monitoring-Rhythm-Protocol.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/07-Monitoring-Rhythm-Protocol.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Mendidik santri bukan seperti memotret sekali jadi, melainkan seperti merawat tanaman yang bertumbuh setiap hari.**  
 > Jika seorang musyrif hanya menilai santri saat ujian masuk dan saat ujian kelulusan, musyrif tersebut akan kehilangan momen-momen emas ketika anak sedang mengalami kegoyahan iman, kelelahan raga, atau justru sedang mengalami lompatan kesadaran batin.  
 > Pemantauan (*Monitoring*) dalam TUMBUH bukanlah pengawasan mencurigai laksana polisi rahasia (*surveillance*), melainkan **siklus pendampingan kasih sayang berkelanjutan**: mengamati perubahan adab santri melintasi waktu, menangkap sinyal kelelahan lebih awal, serta menyesuaikan uluran tangan bimbingan (*adaptive scaffolding*) sebelum masalah menjadi krisis yang merugikan masa depan santri.

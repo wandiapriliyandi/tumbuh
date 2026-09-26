@@ -1,6 +1,5 @@
 # Learning Progression Audit
 
-**Status:** AUDITED — Wave 3 baseline  
 **Scope:** `03 Learning Progression`  
 **Architecture status:** CLOSED FOR ARCHITECTURAL STAGE — EMPIRICALLY PROVISIONAL
 

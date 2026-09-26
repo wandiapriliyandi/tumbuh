@@ -1,16 +1,5 @@
 # Arsitektur Tingkat Dukungan dan Kemandirian (J1–J4 Support–Autonomy)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [01 Growth Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [09-Developmental-Levels-Alignment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/09-Developmental-Levels-Alignment.md)  
-- [01-Growth-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/01-Growth-Architecture.md)  
-- [06 Transition Criteria](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/README.md)
-
----
-
-> ### Intisari untuk Musyrif & Pengasuh Asrama
 > **Jenjang J1–J4 bukanlah kasta ranking santri pintar vs santri bermasalah.**  
 > J1–J4 adalah **alat panduan kerja musyrif untuk menentukan takaran bantuan**:  
 > - Santri **J1** ibarat anak yang baru belajar naik sepeda, ia butuh roda bantu dan dipegangi dari belakang agar tidak jatuh.  

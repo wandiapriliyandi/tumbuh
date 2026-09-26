@@ -1,18 +1,5 @@
 # Arsitektur Progresi Pembelajaran (Learning Progression Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [04-Learning-Experience-and-Practice.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/04-Learning-Experience-and-Practice.md)  
-- [05-Feedback-and-Reflection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/05-Feedback-and-Reflection.md)  
-- [06-Demonstration-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/06-Demonstration-and-Transfer.md)  
-- [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-- [04 Mastery Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Pengajar Pesantren
 > **Belajar adab bukanlah sekadar mendengarkan ceramah lalu menghafal dalil untuk ujian.**  
 > Di pesantren TUMBUH, belajar adalah **perjalanan transformasi diri yang hidup**:  
 > Dari **Niat & Tujuan yang jelas** $\rightarrow$ merasakan **Pengalaman Belajar langsung** dari keteladanan guru $\rightarrow$ melakukan **Latihan & Pembiasaan (*Riyadhah*)** berulang kali $\rightarrow$ menerima **Nasihat & Koreksi Kasih Sayang (*Feedback*)** $\rightarrow$ merenung dalam **Muhasabah batin** $\rightarrow$ membuktikannya dalam **Amal Nyata di asrama** $\rightarrow$ hingga mampu **Menerapkannya di mana saja (*Transfer*)**, baik di pondok, di rumah bersama orang tua, maupun di tengah masyarakat luas.

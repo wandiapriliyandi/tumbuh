@@ -1,18 +1,5 @@
 # Perancangan dan Pemilihan Instrumen Asesmen (Instrument Design and Selection)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/04 Instruments/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/README.md)  
-**Dokumen Terkait:**  
-- [01-Instrument-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/01-Instrument-Architecture.md)  
-- [03-Administration-and-Scoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/03-Administration-and-Scoring.md)  
-- [04-Quality-and-Validation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/04-Quality-and-Validation.md)  
-- [05-Governance-Ethics-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/05-Governance-Ethics-and-Safeguarding.md)  
-- [06-Sample-Instruments-Toolkit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/06-Sample-Instruments-Toolkit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Jangan membeli baju sebelum tahu ukuran badan santri.**  
 > Di banyak sekolah dan pesantren, sering kali pimpinan mengadopsi formulir evaluasi modern yang populer dari internet atau sekolah umum, lalu memaksakan santri dan musyrif mengisinya. Hasilnya, formulir tersebut menjadi beban yang diisi asal-asalan demi memenuhi tuntutan administrasi semata.  
 > Dokumen ini menetapkan kaidah **Konstruk Karakter yang Utama (*Construct-First Rule*)**: tentukan terlebih dahulu karakter fitrah apa yang hendak dibimbing, baru kemudian memutuskan apakah kita akan **mengadopsi instrumen yang sudah ada (*Adopt*)**, **menyesuaikannya dengan kultur pesantren (*Adapt*)**, atau **merancang instrumen baru dari nol (*Build*)**. Instrumen yang baik bukan yang paling tebal, melainkan yang paling jujur menangkap denyut adab santri dalam kesehariannya.

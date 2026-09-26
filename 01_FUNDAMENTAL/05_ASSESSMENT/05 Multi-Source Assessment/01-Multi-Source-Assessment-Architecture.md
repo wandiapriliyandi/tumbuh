@@ -1,16 +1,5 @@
 # Arsitektur Asesmen Triangulasi Multi-Sumber (Multi-Source Assessment Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/05 Multi-Source Assessment/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/README.md)  
-**Dokumen Terkait:**  
-- [02-Source-Selection-and-Evidence-Weighting.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/02-Source-Selection-and-Evidence-Weighting.md)  
-- [03-Cross-Source-Review-and-Contextual-Integration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/03-Cross-Source-Review-and-Contextual-Integration.md)  
-- [04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Menilai seorang santri hanya dari satu pasang mata laksana melihat gajah dari lubang kunci.**  
 > Guru di kelas madrasah hanya melihat santri saat duduk rapi menyimak pelajaran fiqih. Namun di kamar asrama pada malam hari, musyrif melihat santri saat kelelahan fisik, dan kawan sekamar melihat bagaimana santri bersikap ketika makanan atau jemuran pakaiannya tersenggol. Jika ketiga pihak ini ditanya secara terpisah, masing-masing akan memberikan cerita yang tampak berbeda.  
 > Asesmen Multi-Sumber (*Multi-Source Assessment*) hadir bukan untuk memperbanyak tumpukan formulir, melainkan untuk **merajut sudut-sudut pandang yang berbeda tersebut menjadi sebuah potret kepribadian santri yang utuh dan adil**. Dokumen ini menegaskan kaidah syar'i: **Perbedaan laporan antarsumber bukan tanda error, melainkan bahan untuk *tabayyun* ekologis**. Kita dilarang melakukan pemungutan suara terbanyak (*voting*) atau merata-ratakan skor secara mekanis, melainkan menimbang konteks di mana setiap perilaku itu muncul.

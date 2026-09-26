@@ -1,17 +1,5 @@
 # Arsitektur Pelaporan Perkembangan Santri (Reporting Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
-**Dokumen Terkait:**  
-- [02-Report-Structure-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/02-Report-Structure-and-Evidence-Interpretation.md)  
-- [03-Audience-Decision-Support-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/03-Audience-Decision-Support-and-Access.md)  
-- [04-Reporting-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/04-Reporting-Traceability-and-Governance.md)  
-- [05-Sample-Narrative-Development-Report.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/05-Sample-Narrative-Development-Report.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Laporan perkembangan santri bukanlah vonis raport angka yang dingin, melainkan risalah cinta dan amanah tarbiyah.**  
 > Bagi orang tua santri, lembar laporan adalah jendela utama yang mengabarkan bagaimana buah hati mereka berjuang, menangis, bangkit, dan beradab di pesantren. Jika laporan hanya menyajikan deretan angka statistik (seperti *"Adab: 75"*), orang tua tidak akan pernah tahu di mana letak keindahan akhlak anaknya dan di mana letak kelemahan yang harus dibantu saat liburan di rumah.  
 > Pelaporan (*Reporting*) dalam TUMBUH berfungsi **menerjemahkan bukti faktual dan hasil penelaahan menjadi narasi pertumbuhan yang memuliakan martabat anak**. Dokumen ini menegaskan pemisahan tegas antara bukti teramati, penafsiran berlingkup, dan rekomendasi bimbingan, serta menjamin bahwa laporan tidak pernah berubah menjadi stempel cacat permanen bagi diri santri.

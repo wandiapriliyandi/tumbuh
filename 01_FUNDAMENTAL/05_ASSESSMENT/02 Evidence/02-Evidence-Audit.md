@@ -1,6 +1,5 @@
 # Audit Kelaikan Arsitektur Bukti (Evidence Architecture Audit)
 
-**Status:** CANONICAL AUDIT — TUMBUH v2.0.0  
 **Audit Finding:** ARCHITECTURALLY SUFFICIENT — CURRENT STAGE  
 **Epistemic Status:** Architectural Review & Verification; Empirically Provisional  
 **Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
@@ -14,7 +13,6 @@
 
 ---
 
-> ### Intisari untuk Pendidik & Musyrif
 > **Mengapa sistem pencatatan santri perlu diaudit kelaikannya?**  
 > Di banyak lembaga pendidikan, data santri sering kali dicatat secara serampangan: buku catatan musyrif tercecer, desas-desus dijadikan dasar sanksi, dan satu kesalahan kecil anak diabadikan menjadi "rapor merah" seumur hidup.  
 > Dokumen ini adalah **sertifikat audit dan panduan mutu resmi** yang memastikan bahwa seluruh instrumen pencatatan data santri dalam TUMBUH telah memenuhi standar keadilan, kehati-hatian (*ihtiyath*), dan keterlacakan syar'i. Sistem dinyatakan **layak secara arsitektural (*Architecturally Sufficient*)** karena mampu memisahkan antara fakta dan prasangka, mengharamkan tindakan mencari-cari aib (*tajassus*), dan mewajibkan proses *tabayyun* sebelum keputusan pembinaan diambil.

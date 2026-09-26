@@ -1,13 +1,5 @@
 # CC-05 Physical Functioning — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-05 Physical Functioning (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Keberfungsian Fisik (Physical Functioning) bukanlah sekadar memiliki postur tubuh kekar berotot.**  
 > Di pesantren, tubuh adalah **amanah ilahi (*al-jasad amanah*) untuk menopang ibadah dan thalabul ilmi**: santri mampu merawat kesehatan, kebersihan diri (*thaharah*), dan pola istirahatnya (*kesiapan hayati*); memiliki koordinasi gerak yang tangkas, terampil, dan beradab (*ketangkasan motorik*); serta memiliki daya tahan tubuh dan stamina yang prima (*resiliensi fisik*) dalam menjalani padatnya rutinitas pesantren 24 jam.
 

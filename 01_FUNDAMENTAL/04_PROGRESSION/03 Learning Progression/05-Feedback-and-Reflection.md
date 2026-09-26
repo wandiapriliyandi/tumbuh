@@ -1,16 +1,5 @@
 # Umpan Balik dan Refleksi Batin (Feedback and Reflection)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [03 Learning Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/README.md)  
-**Dokumen Terkait:**  
-- [01-Learning-Progression-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/01-Learning-Progression-Architecture.md)  
-- [04-Learning-Experience-and-Practice.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/04-Learning-Experience-and-Practice.md)  
-- [06-Demonstration-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/06-Demonstration-and-Transfer.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Nasihat guru adalah cermin, dan muhasabah santri adalah pembersih hatinya.**  
 > Di pesantren TUMBUH, umpan balik (*Feedback*) dan refleksi (*Muhasabah*) adalah **denyut nadi tarbiyah**:  
 > - **Umpan Balik (*Nasihat Guru / Feedback*):** Bukan caci maki atau bentakan di depan umum yang mempermalukan anak, melainkan koreksi jujur penuh kasih sayang (*luthf*) yang memberi tahu santri apa yang sudah tepat dan apa yang harus diperbaiki.  

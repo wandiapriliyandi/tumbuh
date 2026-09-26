@@ -1,16 +1,5 @@
 # Pemilihan Sumber Bukti dan Penimbangan Bobot Data Kontekstual (Source Selection and Evidence Weighting)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/05 Multi-Source Assessment/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/README.md)  
-**Dokumen Terkait:**  
-- [01-Multi-Source-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/01-Multi-Source-Assessment-Architecture.md)  
-- [03-Cross-Source-Review-and-Contextual-Integration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/03-Cross-Source-Review-and-Contextual-Integration.md)  
-- [04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Banyaknya data bukan jaminan kebenaran jika sumbernya tidak relevan.**  
 > Mengumpulkan informasi asesmen santri tidak boleh menjadi ajang perlombaan mengoleksi kertas formulir. Bertanya kepada teman sekamar mengenai apakah seorang santri rajin belajar tafsir tentu kurang tepat dibandingkan memeriksa langsung buku catatan portofolio belajarnya di kelas.  
 > Dokumen ini menetapkan kaidah **Komposisi Sumber Minimal yang Memadai (*Minimum Sufficient Composition*)** dan **tata cara menimbang bobot informasi secara kontekstual**: bagaimana memadukan suara nurani santri (*Self*), mata pengamatan musyrif (*Observer*), kesaksian kawan sekelompok (*Peer*), serta unjuk amal nyata (*Performance/Portfolio*) secara adil tanpa terjebak dalam pemungutan suara mayoritas (*voting*) yang menyesatkan.

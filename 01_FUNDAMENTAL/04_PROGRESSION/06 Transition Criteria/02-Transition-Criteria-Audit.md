@@ -1,20 +1,5 @@
 # Laporan Audit Kriteria Transisi (Transition Criteria Audit)
 
-**Status:** DIAUDIT — Baseline Gelombang 3 (Wave 3 Baseline)  
-**Status Epistemik:** Tinjauan Arsitektural Formal; Bukan Pembuktian Empiris Lapangan.  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [03-Transition-Criteria-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/03-Transition-Criteria-Design.md)  
-- [04-Transition-Readiness-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/04-Transition-Readiness-and-Fit.md)  
-- [05-Transition-Trial-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/05-Transition-Trial-and-Monitoring.md)  
-- [06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)  
-- [07-Transition-Boundaries-and-Safeguards.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/07-Transition-Boundaries-and-Safeguards.md)  
-- [08-Transition-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/08-Transition-Traceability.md)
-
----
-
-> ### Intisari untuk Pendidik & Pengelola Lembaga
 > **Laporan audit ini adalah sertifikat kelayakan rancang bangun bagi sistem transisi TUMBUH.**  
 > Dokumen ini memastikan bahwa sistem Kriteria Transisi tidak tergelincir menjadi birokrasi yang kaku, sistem kasta asrama, ataupun sekadar SOP teknis hafalan.  
 > Melalui audit ketat ini, dipastikan bahwa setiap keputusan perpindahan jenjang kemandirian (J1–J4):  

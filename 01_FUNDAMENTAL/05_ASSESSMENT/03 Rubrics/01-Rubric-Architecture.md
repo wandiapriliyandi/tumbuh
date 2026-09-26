@@ -1,17 +1,5 @@
 # Arsitektur Rubrik Asesmen Perkembangan Santri (Rubric Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/03 Rubrics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/README.md)  
-**Dokumen Terkait:**  
-- [02-Rubric-Design-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/02-Rubric-Design-and-Evidence-Interpretation.md)  
-- [03-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/03-Rater-Calibration-and-Fairness.md)  
-- [04-Rubric-Boundaries-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/04-Rubric-Boundaries-and-Governance.md)  
-- [05-Exemplar-Adab-Rubrics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/05-Exemplar-Adab-Rubrics.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Apa sesungguhnya fungsi sebuah rubrik di pesantren?**  
 > Konsep karakter seperti *"ikhlas"*, *"sabar"*, *"tanggung jawab"*, atau *"tawadhu'"* adalah perkara batin yang abstrak. Jika tidak diterjemahkan ke dalam panduan yang jelas, para pembina santri akan menilai hanya berdasarkan selera, kedekatan emosional, atau firasat pribadi semata.  
 > Rubrik hadir sebagai **alat penerjemah yang adil**: menjembatani nilai-nilai karakter luhur ke dalam deskripsi perilaku nyata yang dapat disaksikan mata selama 24 jam hidup di asrama, masjid, dan madrasah. Rubrik TUMBUH tidak dirancang untuk memberi peringkat (*ranking*) siapa santri yang paling hebat, melainkan untuk mengetahui **seberapa besar takaran bimbingan (*scaffolding*) yang masih dibutuhkan oleh setiap anak** agar ia dapat tumbuh mandiri.

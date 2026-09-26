@@ -1,15 +1,5 @@
 # Kriteria Ketuntasan Watak (Mastery Criteria)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04 Mastery Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/README.md)  
-**Dokumen Terkait:**  
-- [01-Mastery-Progression-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/01-Mastery-Progression-Architecture.md)  
-- [04-Mastery-Evidence-and-Judgment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/04-Mastery-Evidence-and-Judgment.md)
-
----
-
-> ### Intisari untuk Pendidik & Penguji Asrama
 > **Kriteria ketuntasan bukan angka mati rapor (seperti "KKM 75"), melainkan bukti kematangan watak.**  
 > Di pesantren TUMBUH, seorang santri dinyatakan telah tuntas (*mencapai malakah*) bukan karena ia berhasil menjawab 10 soal ujian adab, melainkan karena:  
 > 1. Adab tersebut **tampak nyata** dalam perbuatannya sehari-hari;  

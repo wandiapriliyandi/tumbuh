@@ -1,15 +1,5 @@
 # Tata Kelola Bukti dan Pertimbangan Ketuntasan (Mastery Evidence and Judgment)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04 Mastery Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/README.md)  
-**Dokumen Terkait:**  
-- [01-Mastery-Progression-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/01-Mastery-Progression-Architecture.md)  
-- [03-Mastery-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/03-Mastery-Criteria.md)
-
----
-
-> ### Intisari untuk Pendidik & Dewan Asatidz
 > **Catatan pengamatan (*Evidence*) bukanlah vonis mati (*Judgment*).**  
 > Di pesantren TUMBUH, menetapkan apakah seorang santri telah mencapai ketuntasan adab (*malakah*) dilakukan dengan musyawarah yang sangat berhati-hati (*ihtiyath*):  
 > - Satu catatan pelanggaran santri tidak boleh langsung membuat musyrif memvonis: *"Anak ini gagal tuntas"*.  

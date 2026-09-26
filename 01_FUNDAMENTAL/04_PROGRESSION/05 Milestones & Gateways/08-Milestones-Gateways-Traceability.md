@@ -1,6 +1,5 @@
 # Milestones & Gateways Traceability
 
-**Status:** DESIGNED — v2.0.0 / Milestones & Gateways
 **Epistemic status:** conceptually specified; empirically provisional
 
 ## 1. Purpose

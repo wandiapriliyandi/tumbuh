@@ -1,18 +1,5 @@
 # Pagar Batas dan Perlindungan Transisi (Transition Boundaries and Safeguards)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [03-Transition-Criteria-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/03-Transition-Criteria-Design.md)  
-- [04-Transition-Readiness-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/04-Transition-Readiness-and-Fit.md)  
-- [06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)  
-- [01 Growth Architecture/05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Pagar batas bukanlah penghambat jalan, melainkan pagar pengaman balkon asrama lantai dua yang melindungi santri agar tidak terjatuh.**  
 > Ketika sistem pembinaan mulai menerapkan jenjang dukungan (seperti J1 Bimbingan Penuh hingga J4 Teladan Penggerak), godaan terbesar lembaga adalah **mengubah sistem pembinaan menjadi ajang perlombaan kasta dan penindasan baru**:  
 > - Santri J4 merasa dirinya "bangsawan pondok" yang berhak menyuruh adik-adik kelasnya mencuci baju atau membelikan makanan.  

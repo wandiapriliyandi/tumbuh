@@ -1,15 +1,5 @@
 # Desain dan Kriteria Patok Capaian (Milestone Design and Criteria)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05 Milestones & Gateways/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/README.md)  
-**Dokumen Terkait:**  
-- [01-Milestones-Gateways-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/01-Milestones-Gateways-Architecture.md)  
-- [04-Gateway-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/04-Gateway-Decision-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Patok Capaian (*Milestone*) bukanlah sekadar daftar centang administratif.**  
 > Di pesantren TUMBUH, sebuah Milestone adalah **pernyataan kesaksian berbasis bukti**:  
 > *"Santri Fulan terbukti telah mampu menjaga wudu dan salat rawatib secara mandiri selama 30 hari berturut-turut di asrama"*.  

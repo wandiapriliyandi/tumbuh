@@ -1,13 +1,5 @@
 # CC-08 Problem Solving — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-08 Problem Solving (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Pemecahan Masalah (Problem Solving) bukanlah mencari jalan pintas yang menghalalkan segala cara.**  
 > Di pesantren, pemecahan masalah adalah **kecerdasan praktis yang dilandasi keluhuran syariat**: santri bersikap tenang dan tidak panik saat menghadapi kebuntuan, mampu mengurai akar masalah secara jernih (*fahmul musykilah*), merumuskan jalan keluar yang kreatif, halal, dan tidak merugikan orang lain (*ijtihadul hal*), serta gigih mengeksekusi tindakan dan luwes beradaptasi bila rencana awal menemui rintangan baru (*tanfidz wal murunah*).
 

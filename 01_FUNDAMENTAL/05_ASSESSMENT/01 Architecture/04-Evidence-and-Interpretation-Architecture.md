@@ -1,17 +1,5 @@
 # Arsitektur Bukti dan Penafsiran Asesmen (Evidence & Interpretation Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [03-Construct-and-Inference-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/03-Construct-and-Inference-Architecture.md)  
-- [05-Decision-and-Proportionality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/05-Decision-and-Proportionality-Architecture.md)  
-- [02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan mencampuradukkan apa yang engkau lihat dengan apa yang engkau duga."**  
 > Bayangkan seorang musyrif melihat seorang santri berjalan mengendap-endap keluar kamar pada pukul 23.00 malam. Fakta yang tertangkap mata adalah: *anak berjalan di lorong pada pukul 23.00*. Namun jika musyrif langsung menulis di buku pelanggaran: *"Santri hendak kabur dari pondok"*, maka musyrif telah mencampuradukkan fakta dengan prasangka. Ketika ditanya, ternyata santri tersebut sedang mencari air hangat untuk mengompres perut kawan sekamarnya yang sakit.  
 > Dokumen ini memancangkan **pemisahan mutlak antara rekaman fakta lapangan (*evidence*) dengan penafsiran makna (*interpretation*)**: bagaimana memastikan setiap catatan asatidz berpijak pada kebenaran objektif, membaca konteks dengan tabayyun, dan menolak kesimpulan yang melampaui bukti.

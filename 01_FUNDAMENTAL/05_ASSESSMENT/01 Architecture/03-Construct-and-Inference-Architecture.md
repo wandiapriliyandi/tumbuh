@@ -1,17 +1,5 @@
 # Arsitektur Konstruk dan Inferensi Asesmen (Construct & Inference Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [04-Evidence-and-Interpretation-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/04-Evidence-and-Interpretation-Architecture.md)  
-- [05-Decision-and-Proportionality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/05-Decision-and-Proportionality-Architecture.md)  
-- [01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Asesmen dimulai dari apa yang hendak kita pahami pada jiwa anak, bukan dari lembar formulir yang kebetulan tersedia di laci meja.**  
 > Bayangkan seorang dokter di poliklinik pondok. Dokter tidak akan langsung menyuruh santri masuk ke ruang rontgen atau tes darah jika anak tersebut hanya mengeluh tergores duri di kebun asrama. Alat tes dipilih setelah dokter memahami apa keluhan dan tujuannya.  
 > Demikian pula dalam pembinaan santri: musyrif tidak boleh membagikan kuesioner 50 pertanyaan hanya karena formulirnya sudah tercetak. Kita harus bertanya terlebih dahulu: **Kapasitas apa yang sedang kita amati? (Construct)**, dan **Pertanyaan apa yang hendak kita jawab? (Intended Inference)**.  

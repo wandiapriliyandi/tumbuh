@@ -1,17 +1,5 @@
 # Arsitektur Penjaminan Mutu Asesmen Holistik Pesantren (Assessment Quality Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/08 Assessment Quality/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/README.md)  
-**Dokumen Terkait:**  
-- [02-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/02-Rater-Calibration-and-Fairness.md)  
-- [03-Validity-Reliability-and-Error.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/03-Validity-Reliability-and-Error.md)  
-- [04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Menilai adab santri bukan sekadar membuat daftar ceklis, melainkan amanah hisab yang menuntut kehati-hatian, keadilan, dan kejujuran metodologis."**  
 > Mengukur pertumbuhan jiwa, kemandirian adab, dan pengendalian diri santri jauh lebih rumit daripada menilai ujian hafalan kitab. Jika alat ukur kita cacat, musyrif tidak terkalibrasi, atau data dicemari bias suka/tidak suka, maka keputusan pendidikan yang diambil akan menzalimi santri dan mengaburkan fitrah mereka.  
 > Dokumen ini memaparkan **Arsitektur Penjaminan Mutu Asesmen**: bagaimana ekosistem TUMBUH memastikan bahwa seluruh bukti perilaku yang dikumpulkan benar-benar valid, reliabel, adil, bebas dari klaim berlebihan (*anti-overclaim*), dan senantiasa berorientasi pada kemaslahatan pertumbuhan santri di dunia hingga akhirat.

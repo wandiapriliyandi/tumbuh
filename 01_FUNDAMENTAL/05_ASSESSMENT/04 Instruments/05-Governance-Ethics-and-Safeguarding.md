@@ -1,18 +1,5 @@
 # Tata Kelola, Etika, dan Perlindungan Santri dalam Instrumen Asesmen (Governance, Ethics, and Safeguarding)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/04 Instruments/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/README.md)  
-**Dokumen Terkait:**  
-- [01-Instrument-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/01-Instrument-Architecture.md)  
-- [02-Instrument-Design-and-Selection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/02-Instrument-Design-and-Selection.md)  
-- [03-Administration-and-Scoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/03-Administration-and-Scoring.md)  
-- [04-Quality-and-Validation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/04-Quality-and-Validation.md)  
-- [06-Sample-Instruments-Toolkit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/06-Sample-Instruments-Toolkit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Instrumen pengamatan adalah amanah syariat, bukan senjata pengadilan.**  
 > Ketika seorang santri mengisi lembar muhasabah atau seorang musyrif mencatat kelemahan perilaku santri di buku saku, ada batas-batas etika dan hukum perlindungan anak yang wajib dijaga ketat di hadapan Allah.  
 > Dokumen ini menetapkan **kode etik tata kelola data instrumen, perlindungan martabat santri (*safeguarding*), dan mitigasi keputusan berdampak besar**: bagaimana memastikan bahwa pencatatan data tidak berubah menjadi aksi memata-matai (*tajassus*), bagaimana menjamin hak klarifikasi (*tabayyun*) bagi santri, serta bagaimana memastikan catatan pembinaan tidak bocor menjadi sarana perundungan atau stigma sosial.

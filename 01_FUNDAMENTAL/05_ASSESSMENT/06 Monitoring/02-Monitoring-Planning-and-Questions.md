@@ -1,19 +1,5 @@
 # Perencanaan dan Perumusan Pertanyaan Pemantauan Santri (Monitoring Planning and Questions)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)  
-- [03-Temporal-Evidence-and-Change-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/03-Temporal-Evidence-and-Change-Review.md)  
-- [04-Monitoring-Frequency-and-Intensity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/04-Monitoring-Frequency-and-Intensity.md)  
-- [05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)  
-- [06-Monitoring-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/06-Monitoring-Traceability-and-Governance.md)  
-- [07-Monitoring-Rhythm-Protocol.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/07-Monitoring-Rhythm-Protocol.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Pemantauan yang tidak memiliki pertanyaan jelas laksana nahkoda yang berlayar tanpa kompas.**  
 > Musyrif yang berkeliling asrama tanpa tahu apa yang sedang ia cari hanya akan melihat hal-hal yang kebetulan lewat di depan matanya. Akibatnya, catatan harian menjadi campur aduk dan tidak bermakna: mencatat sandal miring, mengeluhkan santri bersuara keras, lalu melupakan anak yang sedang diam menangis memendam luka di dalam kamarnya.  
 > Dokumen ini memandu **cara menyusun rencana pemantauan yang terarah dan merumuskan pertanyaan bimbingan yang tajam**: bagaimana menetapkan fokus karakter yang dipantau, menentukan interval waktu pengamatan yang wajar, serta merancang tindakan tindak lanjut nyata yang memuliakan martabat santri.

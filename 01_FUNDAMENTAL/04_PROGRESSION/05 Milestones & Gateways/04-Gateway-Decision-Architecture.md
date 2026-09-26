@@ -1,16 +1,5 @@
 # Arsitektur Keputusan Gerbang Pembinaan (Gateway Decision Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05 Milestones & Gateways/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/README.md)  
-**Dokumen Terkait:**  
-- [01-Milestones-Gateways-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/01-Milestones-Gateways-Architecture.md)  
-- [03-Milestone-Design-and-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/03-Milestone-Design-and-Criteria.md)  
-- [05-Gateway-Readiness-and-Support-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/05-Gateway-Readiness-and-Support-Fit.md)
-
----
-
-> ### Intisari untuk Pendidik & Dewan Asatidz
 > **Gerbang Keputusan (*Gateway*) bukanlah mahkamah penghakiman santri.**  
 > Di pesantren TUMBUH, Gateway adalah **musyawarah kearifan para asatidz untuk menguji kesiapan dan menjaga keselamatan santri**:  
 > *"Apakah santri ini sudah aman dan matang untuk kita beri amanah baru atau kita kurangi pengawasannya?"*  

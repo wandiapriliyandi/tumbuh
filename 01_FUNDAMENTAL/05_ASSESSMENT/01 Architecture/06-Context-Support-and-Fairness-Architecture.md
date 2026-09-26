@@ -1,17 +1,5 @@
 # Arsitektur Konteks, Bantuan, dan Keadilan Asesmen (Context, Support & Fairness)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [04-Evidence-and-Interpretation-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/04-Evidence-and-Interpretation-Architecture.md)  
-- [05-Decision-and-Proportionality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/05-Decision-and-Proportionality-Architecture.md)  
-- [01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Santri bukanlah benda mati di laboratorium yang dapat diuji dalam ruang hampa udara.**  
 > Perilaku seorang anak selalu menyatu dengan lingkungannya: apakah kamarnya gerah karena mati lampu? Apakah kran air asrama sedang mampet? Apakah ia baru saja menerima kabar orang tuanya sakit? Dan apakah musyrifnya membimbing dengan senyuman atau dengan bentakan?  
 > Menilai adab santri tanpa memperhitungkan konteks di atas adalah bentuk kezaliman. Dokumen ini memancangkan prinsip dasar: **perilaku santri harus dibaca bersama situasi yang melingkupinya (*context*), tingkat kesulitan tugasnya (*demand*), dan takaran bantuan yang menyertainya (*support*)**. Keadilan sejati bukan memperlakukan semua orang secara seragam, melainkan memberikan perlakuan yang tepat agar potensi fitrah setiap santri dapat mekar secara terhormat.

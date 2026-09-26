@@ -1,18 +1,5 @@
 # Perangkat Contoh Format Instrumen Asesmen Siap Pakai (Sample Instruments Toolkit)
 
-**Status:** CANONICAL TOOLKIT — TUMBUH v2.0.0  
-**Epistemic Status:** Illustrative Exemplars; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/04 Instruments/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/README.md)  
-**Dokumen Terkait:**  
-- [01-Instrument-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/01-Instrument-Architecture.md)  
-- [02-Instrument-Design-and-Selection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/02-Instrument-Design-and-Selection.md)  
-- [03-Administration-and-Scoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/03-Administration-and-Scoring.md)  
-- [04-Quality-and-Validation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/04-Quality-and-Validation.md)  
-- [05-Governance-Ethics-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/05-Governance-Ethics-and-Safeguarding.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Teori instrumen yang baik harus berwujud formulir nyata yang mudah diisi di sela kesibukan mengasuh santri.**  
 > Dokumen ini menyediakan **lima format instrumen lapangan siap pakai** yang dirancang khusus untuk ritme hidup 24 jam di pesantren:  
 > 1. **Lembar Saku Pengamatan Anekdotal Musyrif** (Format Pengamat / *Observer*)  

@@ -1,17 +1,5 @@
 # Perangkat Contoh Format Laporan Naratif Perkembangan Santri (Sample Narrative Development Report Toolkit)
 
-**Status:** CANONICAL EXEMPLAR — TUMBUH v2.0.0  
-**Epistemic Status:** Illustrative Exemplars; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
-**Dokumen Terkait:**  
-- [01-Reporting-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/01-Reporting-Architecture.md)  
-- [02-Report-Structure-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/02-Report-Structure-and-Evidence-Interpretation.md)  
-- [03-Audience-Decision-Support-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/03-Audience-Decision-Support-and-Access.md)  
-- [04-Reporting-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/04-Reporting-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Contoh nyata jauh lebih bermakna daripada seribu penjelasan teori.**  
 > Dokumen ini menyajikan **dua contoh format laporan operasional siap pakai** dalam ekosistem pesantren TUMBUH:  
 > 1. **Laporan Naratif Perkembangan Santri Semesteran (Untuk Orang Tua / Wali Santri):** Surat cinta pengasuhan yang memotret perjuangan adab anak secara manusiawi, santun, dan menyertakan suara hati santri;  

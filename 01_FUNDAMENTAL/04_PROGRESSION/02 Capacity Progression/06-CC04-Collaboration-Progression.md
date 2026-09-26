@@ -1,13 +1,5 @@
 # CC-04 Collaboration — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-04 Collaboration (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Kolaborasi (Collaboration / Amal Jama'i) bukanlah sekadar berkumpul ramai-ramai atau membagi tugas di atas kertas.**  
 > Di pesantren, kolaborasi adalah **kekuatan tolong-menolong dalam kebaikan (*ta'awun 'ala al-birri wa al-taqwa*)**: santri mampu meredam keegoisan demi tujuan bersama, menunaikan bagian tugasnya secara tuntas dan amanah tanpa menjadi "penumpang gelap", serta saling menjaga perasaan kawan demi kokohnya tali persaudaraan (*ukhuwah*).
 

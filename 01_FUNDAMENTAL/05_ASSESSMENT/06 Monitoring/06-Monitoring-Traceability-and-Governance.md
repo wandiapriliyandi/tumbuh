@@ -1,19 +1,5 @@
 # Keterlacakan Rekam Jejak dan Tata Kelola Pemantauan Longitudinal (Monitoring Traceability and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)  
-- [02-Monitoring-Planning-and-Questions.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/02-Monitoring-Planning-and-Questions.md)  
-- [03-Temporal-Evidence-and-Change-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/03-Temporal-Evidence-and-Change-Review.md)  
-- [04-Monitoring-Frequency-and-Intensity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/04-Monitoring-Frequency-and-Intensity.md)  
-- [05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)  
-- [07-Monitoring-Rhythm-Protocol.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/07-Monitoring-Rhythm-Protocol.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Data yang terekam sepanjang waktu adalah cermin perjalanan hidup santri, bukan catatan intelijen untuk memata-matai.**  
 > Ketika santri tinggal di pesantren selama bertahun-tahun, data pemantauannya akan menumpuk menjadi arsip longitudinal yang sangat rinci: dari catatan pertama saat ia menangis rindu rumah di kelas 7, hingga saat ia memimpin doa di kelas 12.  
 > Dokumen ini mengatur **rantai keterlacakan (*traceability*) dan tata kelola etika data pemantauan**: bagaimana memastikan setiap catatan perkembangan dapat dipertanggungjawabkan sanad pengamatannya, bagaimana menjaga agar arsip masa lalu tidak dijadikan alat untuk mendiskriminasi santri (*right to be forgiven*), serta bagaimana memastikan data digital tersimpan secara aman dan terenkripsi.

@@ -1,17 +1,5 @@
 # Keterlacakan Rekam Jejak dan Tata Kelola Etika Pelaporan (Reporting Traceability and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
-**Dokumen Terkait:**  
-- [01-Reporting-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/01-Reporting-Architecture.md)  
-- [02-Report-Structure-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/02-Report-Structure-and-Evidence-Interpretation.md)  
-- [03-Audience-Decision-Support-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/03-Audience-Decision-Support-and-Access.md)  
-- [05-Sample-Narrative-Development-Report.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/05-Sample-Narrative-Development-Report.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Setiap kalimat dalam laporan perkembangan santri harus memiliki sanad pembuktian yang dapat dipertanggungjawabkan.**  
 > Ketika seorang musyrif menulis di rapor bahwa santri *"sering berselisih dengan teman sekamar"*, kalimat tersebut tidak boleh lahir dari rumor atau rasa jengkel pribadi. Musyrif harus mampu menunjukkan tanggal kejadiannya, siapa saja saksinya, bagaimana konteks peristiwanya, dan langkah bimbingan apa yang telah dilakukan.  
 > Dokumen ini mengatur **rantai keterlacakan laporan (*traceability chain*)**, **tata kelola privasi keluarga**, **kendali penggunaan kecerdasan buatan (AI) dalam menyusun draf**, serta **protokol hak ralat (*rectification*)** jika di kemudian hari ditemukan kekeliruan pencatatan data santri.

@@ -1,6 +1,5 @@
 # Learning Progression Architecture
 
-**Status:** DESIGNED — v2.0.0 / Learning Progression
 **Epistemic status:** conceptually specified; empirically provisional
 
 ## 1. Tujuan

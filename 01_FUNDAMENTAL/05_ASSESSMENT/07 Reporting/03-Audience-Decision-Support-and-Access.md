@@ -1,17 +1,5 @@
 # Pemangku Kepentingan, Rekomendasi Keputusan, dan Hak Akses Laporan (Audience, Decision Support, and Access Control)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
-**Dokumen Terkait:**  
-- [01-Reporting-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/01-Reporting-Architecture.md)  
-- [02-Report-Structure-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/02-Report-Structure-and-Evidence-Interpretation.md)  
-- [04-Reporting-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/04-Reporting-Traceability-and-Governance.md)  
-- [05-Sample-Narrative-Development-Report.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/05-Sample-Narrative-Development-Report.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Resep obat yang tepat untuk dokter belum tentu tepat jika dibaca langsung oleh pasien."**  
 > Laporan asesmen santri dibaca oleh tiga pihak yang berbeda dengan kebutuhan yang berbeda pula:  
 > 1. Santri sendiri membutuhkan kata-kata penyemangat yang membakar tekadnya untuk memperbaiki diri;  

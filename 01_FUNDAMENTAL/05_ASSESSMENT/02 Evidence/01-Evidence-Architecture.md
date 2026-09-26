@@ -1,19 +1,5 @@
 # Arsitektur Bukti Asesmen (Evidence Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
-**Dokumen Terkait:**  
-- [02-Evidence-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/02-Evidence-Audit.md)  
-- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
-- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
-- [05-Context-Demand-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/05-Context-Demand-and-Support.md)  
-- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)  
-- [07-Evidence-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/07-Evidence-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Bukti asesmen bukanlah ajang mengumpulkan angka rapor sebanyak-banyaknya, melainkan amanah syariat untuk memahami keadaan santri secara jujur, adil, dan objektif.**  
 > Sering kali dalam dunia pendidikan, seorang anak divonis "santri pemalas" hanya karena musyrif melihatnya tertidur di satu pengajian shubuh, tanpa memeriksa apakah malamnya anak tersebut sedang demam atau baru selesai bertugas ronda malam.  
 > Arsitektur ini menetapkan kaidah emas: **Bukti (*Evidence*) bukanlah Penafsiran (*Interpretation*), dan Penafsiran bukanlah Keputusan/Vonis (*Decision*)**. Bukti adalah fakta murni yang teramati dalam situasi nyata. Dari bukti yang sah dan cukup, pendidik menelaah dengan kearifan tarbiyah, menimbang konteks serta bantuan yang ada, baru kemudian merumuskan langkah pembinaan yang memuliakan martabat santri.

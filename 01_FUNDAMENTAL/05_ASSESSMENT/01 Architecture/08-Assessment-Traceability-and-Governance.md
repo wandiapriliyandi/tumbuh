@@ -1,18 +1,5 @@
 # Arsitektur Keterlacakan dan Tata Kelola Asesmen (Traceability & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [03-Construct-and-Inference-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/03-Construct-and-Inference-Architecture.md)  
-- [04-Evidence-and-Interpretation-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/04-Evidence-and-Interpretation-Architecture.md)  
-- [01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/README.md)  
-- [01_FUNDAMENTAL/03_CORE_MODEL/07_CLAIM_REGISTRY/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/07_CLAIM_REGISTRY/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Keterlacakan (*traceability*) adalah sanad keilmuan dalam pembinaan santri.**  
 > Dalam tradisi turats pesantren, sebuah hadits atau fatwa hanya sah diakui jika sanad perawinya tersambung (*muttashil*) tanpa ada mata rantai yang terputus atau perawi yang tidak dikenal (*majhul*).  
 > Demikian pula dalam asesmen santri: sebuah kesimpulan atau keputusan bimbingan tidak boleh muncul tiba-tiba dari ruang hampa. Keputusan tersebut harus memiliki **sanad bukti yang dapat dilacak dua arah**: tersambung ke atas menuju Visi Luhur Profil Lulusan dan 8 Kapasitas Inti TUMBUH, serta tersambung ke bawah menuju catatan pengamatan nyata musyrif di kamar, kelas, dan masjid.  

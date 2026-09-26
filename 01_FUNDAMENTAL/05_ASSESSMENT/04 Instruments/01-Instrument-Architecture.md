@@ -1,18 +1,5 @@
 # Arsitektur Instrumen Asesmen Santri (Instrument Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/04 Instruments/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/README.md)  
-**Dokumen Terkait:**  
-- [02-Instrument-Design-and-Selection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/02-Instrument-Design-and-Selection.md)  
-- [03-Administration-and-Scoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/03-Administration-and-Scoring.md)  
-- [04-Quality-and-Validation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/04-Quality-and-Validation.md)  
-- [05-Governance-Ethics-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/05-Governance-Ethics-and-Safeguarding.md)  
-- [06-Sample-Instruments-Toolkit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/06-Sample-Instruments-Toolkit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Instrumen pengamatan hanyalah alat bantu pena, bukan hakim yang menentukan masa depan anak.**  
 > Sering kali dalam dunia pendidikan, sebuah formulir atau kuesioner dianggap memiliki kesaktian mutlak: begitu dicentang oleh musyrif, santri langsung dicap berhasil atau gagal. Padahal, instrumen hanyalah jendela kecil untuk mengintip bagaimana santri berfungsi dalam situasi tertentu di asrama atau kelas.  
 > Dokumen ini menegaskan prinsip **Konstruk Karakter yang Utama (*Construct-First*)**: kita menentukan terlebih dahulu karakter mulia apa yang hendak kita bimbing pada diri santri, baru kemudian memilih atau merancang formulir pengamatan yang cocok. Instrumen tidak boleh membebani asatidz dengan tumpukan kertas birokrasi, melainkan harus menyatu secara alami dengan denyut kehidupan pesantren 24 jam.

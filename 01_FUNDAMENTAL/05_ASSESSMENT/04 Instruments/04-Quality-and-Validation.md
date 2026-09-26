@@ -1,18 +1,5 @@
 # Mutu, Validitas, dan Reliabilitas Instrumen Asesmen (Quality and Validation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/04 Instruments/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/README.md)  
-**Dokumen Terkait:**  
-- [01-Instrument-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/01-Instrument-Architecture.md)  
-- [02-Instrument-Design-and-Selection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/02-Instrument-Design-and-Selection.md)  
-- [03-Administration-and-Scoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/03-Administration-and-Scoring.md)  
-- [05-Governance-Ethics-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/05-Governance-Ethics-and-Safeguarding.md)  
-- [06-Sample-Instruments-Toolkit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/06-Sample-Instruments-Toolkit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Formulir yang dicetak di atas kertas mengkilap belum tentu instrumen yang bermutu.**  
 > Sering kali dalam dunia pendidikan, sebuah kuesioner dianggap ilmiah dan canggih hanya karena memiliki banyak butir pertanyaan dengan skala angka yang rumit. Namun saat diuji di asrama, pertanyaannya ternyata membingungkan santri, butirnya tidak sesuai dengan realitas kehidupan pesantren, dan dua musyrif yang membaca formulir tersebut menarik kesimpulan yang saling bertentangan.  
 > Dokumen ini mengatur **standar mutu psikometrik dan penjenjangan status validasi instrumen**: bagaimana membuktikan bahwa sebuah lembar observasi benar-benar mengukur karakter yang dimaksud (*validitas*), konsisten jika digunakan oleh pengamat berbeda (*reliabilitas*), serta jujur menyatakan status keabsahan instrumen tanpa klaim berlebihan (*anti-overclaim*).

@@ -1,15 +1,5 @@
 # Ragam Jenis Keputusan Transisi (Transition Decision Types)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06 Transition Criteria/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [05-Transition-Trial-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/05-Transition-Trial-and-Monitoring.md)
-
----
-
-> ### Intisari untuk Pendidik & Dewan Asatidz
 > **Transisi bukan hanya tentang kata "Naik".**  
 > Dalam pembinaan santri, kata "Transisi" tidak selalu berarti menaikkan beban atau melepas pengawasan. Ada kalanya santri butuh **dipertahankan ritmenya (*Maintain*)**, diubah taktik bimbingannya (*Adjust*), ditambah bantuannya (*Support*), atau dikembalikan ke suasana aman sebelumnya (*Revert*).  
 > Seluruh opsi ini adalah **pilihan pengasuhan yang sah, mulia, dan setara**, tergantung pada apa yang benar-benar dibutuhkan oleh santri hari ini.

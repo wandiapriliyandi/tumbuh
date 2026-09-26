@@ -1,6 +1,5 @@
 # Growth Architecture Traceability
 
-**Status:** DESIGNED — v2.0.0 / Growth Architecture
 **Epistemic status:** conceptually specified; empirically provisional
 
 ## 1. Tujuan

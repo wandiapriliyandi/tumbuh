@@ -1,19 +1,5 @@
 # Karakteristik dan Panduan Lima Sumber Bukti (Evidence Sources)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
-**Dokumen Terkait:**  
-- [01-Evidence-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture.md)  
-- [02-Evidence-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/02-Evidence-Audit.md)  
-- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
-- [05-Context-Demand-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/05-Context-Demand-and-Support.md)  
-- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)  
-- [07-Evidence-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/07-Evidence-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Tidak ada satu orang pun yang melihat seluruh kehidupan santri secara sempurna.**  
 > Musyrif melihat santri saat bangun tidur dan mengaji; guru madrasah melihat santri saat menyerap pelajaran kognitif; kawan sekamar melihat santri saat berbagi makanan atau berselisih memperebutkan jemuran; dan santri sendiri yang paling mengetahui gejolak niat serta rasa takut di dalam hatinya.  
 > Dokumen ini membedah **Lima Pilar Sumber Bukti** di pesantren. Setiap sumber memiliki keistimewaan sekaligus titik buta (*blind spot*). Kebijaksanaan seorang pendidik bukan terletak pada memaksakan satu sumber sebagai kebenaran mutlak, melainkan pada seni merajut kelima sudut pandang ini agar potret kepribadian santri tampak utuh dan adil.

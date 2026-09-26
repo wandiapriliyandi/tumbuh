@@ -1,16 +1,5 @@
 # Rekonsiliasi Lintas Sumber dan Integrasi Konteks Ekologis (Cross-Source Review and Contextual Integration)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/05 Multi-Source Assessment/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/README.md)  
-**Dokumen Terkait:**  
-- [01-Multi-Source-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/01-Multi-Source-Assessment-Architecture.md)  
-- [02-Source-Selection-and-Evidence-Weighting.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/02-Source-Selection-and-Evidence-Weighting.md)  
-- [04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Perbedaan pandangan antarsumber bukan tanda kerusakan sistem, melainkan cermin dinamika kepribadian santri yang kaya.**  
 > Sangat wajar bila seorang santri tampak sangat tertib dan khusyuk saat duduk di halaqah masjid, namun tampak riang, banyak bicara, atau bahkan ceroboh saat berada di kamar asrama bersama kawan-kawannya. Jika asatidz membuang salah satu laporan demi keseragaman palsu, kita akan kehilangan pemahaman utuh tentang diri anak.  
 > Dokumen ini memandu **proses rekonsiliasi data lintas sumber (*cross-source review*)** dan **integrasi konteks ekologis (asrama vs madrasah vs masjid)**: bagaimana membedah konvergensi dan divergensi laporan melalui sembilan pertanyaan tabayyun, menimbang pengaruh relasi kuasa, serta merumuskan kesimpulan pembinaan yang adil dan berlingkup jelas.

@@ -1,6 +1,5 @@
 # Mastery Review and Reassessment
 
-**Status:** DESIGNED — v2.0.0 / Mastery Progression  
 **Epistemic status:** conceptually specified; empirically provisional
 
 ## 1. Tujuan

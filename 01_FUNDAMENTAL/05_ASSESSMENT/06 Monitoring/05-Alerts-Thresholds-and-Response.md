@@ -1,19 +1,5 @@
 # Sinyal Peringatan Dini, Ambang Batas, dan Penyesuaian Respons Adaptif (Alerts, Thresholds, and Adaptive Response)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)  
-- [02-Monitoring-Planning-and-Questions.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/02-Monitoring-Planning-and-Questions.md)  
-- [03-Temporal-Evidence-and-Change-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/03-Temporal-Evidence-and-Change-Review.md)  
-- [04-Monitoring-Frequency-and-Intensity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/04-Monitoring-Frequency-and-Intensity.md)  
-- [06-Monitoring-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/06-Monitoring-Traceability-and-Governance.md)  
-- [07-Monitoring-Rhythm-Protocol.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/07-Monitoring-Rhythm-Protocol.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Pemantauan tidak ada gunanya jika data hanya menumpuk di buku saku tanpa melahirkan tindakan nyata.**  
 > Ketika sistem pemantauan mencatat bahwa seorang santri sudah 3 hari berturut-turut tampak murung menyendiri di pojok masjid, atau sudah 4 kali terlambat masuk halaqah, sistem harus segera menyalakan **sinyal peringatan dini (*alert*)** bagi musyrifnya.  
 > Sinyal peringatan **bukanlah surat panggilan pengadilan untuk menghukum santri**, melainkan **ketukan bel kasih sayang yang memanggil pendidik untuk segera mendekap anak asuhnya**. Dokumen ini mengatur bagaimana ambang batas (*thresholds*) ditetapkan secara ilmiah dan bagaimana para asatidz merespons secara adaptif: kapan cukup disapa hangat empat mata, kapan perlu penyesuaian beban tugas, dan kapan harus mengaktifkan protokol perlindungan santri bersama tim BK ma'had.

@@ -1,19 +1,5 @@
 # Penelaahan Bukti Lintas Waktu dan Evaluasi Perubahan Santri (Temporal Evidence and Change Review)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)  
-- [02-Monitoring-Planning-and-Questions.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/02-Monitoring-Planning-and-Questions.md)  
-- [04-Monitoring-Frequency-and-Intensity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/04-Monitoring-Frequency-and-Intensity.md)  
-- [05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)  
-- [06-Monitoring-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/06-Monitoring-Traceability-and-Governance.md)  
-- [07-Monitoring-Rhythm-Protocol.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/07-Monitoring-Rhythm-Protocol.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Jiwa anak manusia bukanlah garis lurus yang kaku; ia berombak seperti pasang surutnya air laut.**  
 > Ada pekan-pekan di mana seorang santri tampak sangat bercahaya: khusyuk shalatnya, cepat hafalannya, dan santun perilakunya. Namun dua pekan berikutnya, santri yang sama tiba-tiba tampak loyo, malas bangun, atau mudah tersinggung.  
 > Jika asatidz hanya membandingkan dua titik angka secara mekanis, santri tersebut akan langsung divonis "mengalami kemunduran akhlak yang parah".  

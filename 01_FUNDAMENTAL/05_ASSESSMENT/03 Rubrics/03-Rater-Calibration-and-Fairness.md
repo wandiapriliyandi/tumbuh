@@ -1,17 +1,5 @@
 # Kalibrasi Penilai, Mitigasi Bias, dan Keadilan Kontekstual (Rater Calibration and Fairness)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/03 Rubrics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/README.md)  
-**Dokumen Terkait:**  
-- [01-Rubric-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/01-Rubric-Architecture.md)  
-- [02-Rubric-Design-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/02-Rubric-Design-and-Evidence-Interpretation.md)  
-- [04-Rubric-Boundaries-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/04-Rubric-Boundaries-and-Governance.md)  
-- [05-Exemplar-Adab-Rubrics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/05-Exemplar-Adab-Rubrics.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Dua pasang mata yang berbeda bisa melihat satu santri dengan dua vonis yang bertolak belakang."**  
 > Mengapa fenomena ini sering terjadi di pesantren? Ada tipe musyrif yang sangat perfeksionis: santri terlambat 1 menit langsung diberi rapor merah. Ada pula musyrif yang sangat santai dan permisif: santri tidur saat waktu shalat dianggap "anak yang sedang lelah belajar".  
 > Perbedaan kacamata subjektif ini dapat merusak rasa keadilan santri dan menimbulkan kecemburuan sosial di asrama. Dokumen ini menetapkan **mekanisme kalibrasi penilai antar-asatidz (*rater calibration*) dan penjagaan keadilan kontekstual (*contextual fairness*)**: bagaimana menyamakan frekuensi pandang seluruh dewan pengasuh, melacak bias terselubung, dan memperlakukan setiap santri secara adil sesuai kondisinya.

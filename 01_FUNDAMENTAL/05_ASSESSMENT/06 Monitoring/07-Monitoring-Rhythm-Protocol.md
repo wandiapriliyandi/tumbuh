@@ -1,18 +1,5 @@
 # Protokol Ritme Pemantauan Harian, Mingguan, dan Bulanan di Pesantren (Monitoring Rhythm Protocol)
 
-**Status:** CANONICAL PROTOCOL — TUMBUH v2.0.0  
-**Epistemic Status:** Operational Protocol; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)  
-- [02-Monitoring-Planning-and-Questions.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/02-Monitoring-Planning-and-Questions.md)  
-- [04-Monitoring-Frequency-and-Intensity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/04-Monitoring-Frequency-and-Intensity.md)  
-- [05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)  
-- [06-Monitoring-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/06-Monitoring-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Keberhasilan pembinaan di pesantren bukan ditentukan oleh gebrakan sesaat, melainkan oleh keistiqamahan ritme harian.**  
 > Ketika pemantauan tidak memiliki jadwal baku, para asatidz akan merasa bingung: *"Kapan saya harus mencatat? Kapan harus berdiskusi dengan rekan musyrif lain? Dan kapan harus melaporkan ke Mudir Pesantren?"*  
 > Dokumen ini menetapkan **tiga ritme baku pemantauan santri 24 jam**:  

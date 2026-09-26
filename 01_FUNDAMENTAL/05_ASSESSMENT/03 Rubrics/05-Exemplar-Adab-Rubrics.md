@@ -1,17 +1,5 @@
 # Katalog Contoh Rubrik Adab Operasional Pesantren 24 Jam (Exemplar Adab Rubrics)
 
-**Status:** CANONICAL EXEMPLAR — TUMBUH v2.0.0  
-**Epistemic Status:** Illustrative Exemplars; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/03 Rubrics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/README.md)  
-**Dokumen Terkait:**  
-- [01-Rubric-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/01-Rubric-Architecture.md)  
-- [02-Rubric-Design-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/02-Rubric-Design-and-Evidence-Interpretation.md)  
-- [03-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/03-Rater-Calibration-and-Fairness.md)  
-- [04-Rubric-Boundaries-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/04-Rubric-Boundaries-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Teori adab yang mulia akan sia-sia jika asatidz tidak tahu bagaimana wujud nyatanya di asrama.**  
 > Dokumen ini menyajikan **katalog contoh rubrik adab operasional 24 jam** yang merentang di seluruh ekosistem pesantren: saat bangun tidur di kamar, belajar kitab di madrasah, bermusyawarah dengan kawan, membersihkan asrama, shalat di masjid, hingga saat menghadapi rasa rindu rumah (*homesick*).  
 > Setiap rubrik menyandingkan perilaku konkret santri dengan takaran bimbingan musyrif (J1–J4). Gunakan contoh-contoh ini sebagai standar rujukan bagi pembina kamar, wali asuh, dan pengasuh halaqah.

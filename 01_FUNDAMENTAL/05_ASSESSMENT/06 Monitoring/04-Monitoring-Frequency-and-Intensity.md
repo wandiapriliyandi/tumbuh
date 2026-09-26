@@ -1,19 +1,5 @@
 # Frekuensi dan Intensitas Pemantauan Berkelanjutan (Monitoring Frequency and Intensity)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)  
-**Dokumen Terkait:**  
-- [01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)  
-- [02-Monitoring-Planning-and-Questions.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/02-Monitoring-Planning-and-Questions.md)  
-- [03-Temporal-Evidence-and-Change-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/03-Temporal-Evidence-and-Change-Review.md)  
-- [05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)  
-- [06-Monitoring-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/06-Monitoring-Traceability-and-Governance.md)  
-- [07-Monitoring-Rhythm-Protocol.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/07-Monitoring-Rhythm-Protocol.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Memantau santri tidak sama dengan mengawasinya selama 24 jam tanpa jeda.**  
 > Ketika musyrif merasa harus mencatat setiap hembusan nafas santri setiap jam, dua bahaya besar akan muncul: pertama, musyrif akan mengalami kelelahan mental yang parah (*burnout*); kedua, santri akan merasa terkekang laksana hidup di dalam penjara dengan kamera pengawas di setiap sudut.  
 > Dokumen ini menetapkan **asas proporsionalitas frekuensi dan intensitas pemantauan**: bagaimana menentukan seberapa sering sebuah perilaku diamati, kapan intensitas bimbingan dinaikkan (*stepping up*) saat santri butuh pertolongan, dan kapan intensitas dilonggarkan (*stepping down*) agar fitrah kemandirian anak dapat mekar secara alami.

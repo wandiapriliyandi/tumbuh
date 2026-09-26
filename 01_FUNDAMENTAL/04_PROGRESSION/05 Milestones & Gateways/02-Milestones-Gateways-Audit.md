@@ -1,6 +1,5 @@
 # Milestones & Gateways Audit
 
-**Status:** AUDITED — Wave 3 baseline  
 **Epistemic status:** Architectural review; not empirical validation.
 
 ## 1. Audit Purpose

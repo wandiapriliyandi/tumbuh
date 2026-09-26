@@ -1,17 +1,5 @@
 # Arsitektur Pemantauan dan Evaluasi Ulang Asesmen (Monitoring & Reassessment)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [05-Decision-and-Proportionality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/05-Decision-and-Proportionality-Architecture.md)  
-- [06-Context-Support-and-Fairness-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/06-Context-Support-and-Fairness-Architecture.md)  
-- [06 Monitoring/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Memantau santri ibarat merawat tanaman kurma yang sedang bersemi.**  
 > Seorang petani yang bijak tidak akan mencabut bibitnya setiap hari hanya untuk memeriksa apakah akarnya sudah tumbuh—perbuatan itu justru akan mematikan bibit tersebut! Petani cukup mengamati kesegaran daunnya, kelembapan tanahnya, dan menyiram air sesuai kebutuhan.  
 > Demikian pula dalam memantau santri: asatidz tidak boleh menguji dan menanyai anak setiap saat hingga anak merasa selalu dicurigai. Dokumen ini menetapkan **batas etika pemantauan berkelanjutan (*monitoring*) dan tata cara evaluasi ulang (*reassessment*)**: bagaimana mendeteksi perubahan adab santri dengan penuh kasih sayang, menghentikan pengawasan yang berlebihan (*anti-surveillance*), dan memperbarui keputusan bimbingan saat kondisi santri telah berubah.

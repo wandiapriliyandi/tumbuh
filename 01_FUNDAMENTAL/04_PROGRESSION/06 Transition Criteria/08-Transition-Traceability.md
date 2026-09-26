@@ -1,18 +1,5 @@
 # Keterlacakan Keputusan Transisi (Transition Traceability)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [03-Transition-Criteria-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/03-Transition-Criteria-Design.md)  
-- [06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)  
-- [07-Transition-Boundaries-and-Safeguards.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/07-Transition-Boundaries-and-Safeguards.md)  
-- [METHODOLOGY/03_DECISION_TRACEABILITY_FRAMEWORK.md](file:///c:/xampp/htdocs/tumbuh/METHODOLOGY/03_DECISION_TRACEABILITY_FRAMEWORK.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Keterlacakan (*traceability*) adalah buku rekam medis pengasuhan santri.**  
 > Bayangkan seorang dokter di klinik pondok. Ketika seorang santri datang berobat karena demam berulang, dokter tidak akan menebak-nebak obatnya dari ingatan samar. Dokter akan membuka lembar rekam medis: obat apa yang pernah diminum, riwayat alerginya, dan dosis apa yang cocok.  
 > Demikian pula dalam pembinaan adab santri: ketika seorang santri tiba-tiba mengalami kemunduran disiplin di tahun kedua atau ketiga, tim asatidz tidak boleh saling menyalahkan musyrif lama atau membuat asumsi sepihak. Dengan adanya **keterlacakan keputusan transisi**, dewan asatidz dapat melacak kembali:  

@@ -1,17 +1,5 @@
 # Desain Kriteria Rubrik dan Penafsiran Bukti Lapangan (Rubric Design and Evidence Interpretation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/03 Rubrics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/README.md)  
-**Dokumen Terkait:**  
-- [01-Rubric-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/01-Rubric-Architecture.md)  
-- [03-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/03-Rater-Calibration-and-Fairness.md)  
-- [04-Rubric-Boundaries-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/04-Rubric-Boundaries-and-Governance.md)  
-- [05-Exemplar-Adab-Rubrics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/05-Exemplar-Adab-Rubrics.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Rubrik bukanlah daftar tilang untuk menghukum santri, melainkan kacamata optik yang membantu mata asatidz melihat pertumbuhan adab secara jernih dan adil.**  
 > Sering kali di pesantren, dua orang musyrif yang menyaksikan santri terlambat shalat shubuh akan mengambil kesimpulan yang bertolak belakang: musyrif yang satu langsung mencap santri *"pemalas dan pembangkang"*, sementara musyrif yang lain maklum karena tahu santri baru saja bergadang merawat temannya yang sakit asma.  
 > Dokumen ini memadukan **seni merancang kriteria deskriptif yang bebas prasangka** dengan **tata cara membaca bukti lapangan**: bagaimana merumuskan indikator yang konkret, bagaimana menyelaraskannya dengan jenjang kemandirian J1–J4, dan bagaimana memanfaatkan hasil rubrik sebagai bahan dialog empat mata yang menyejukkan hati anak.

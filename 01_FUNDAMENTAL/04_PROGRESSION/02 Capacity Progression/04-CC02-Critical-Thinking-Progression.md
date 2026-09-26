@@ -1,13 +1,5 @@
 # CC-02 Critical Thinking — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-02 Critical Thinking (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Berpikir Kritis (Critical Thinking) bukanlah gemar mendebat guru atau bersikap sinis mencari kesalahan orang lain.**  
 > Di pesantren, berpikir kritis adalah **kejernihan nalar dalam mencari kebenaran (*thalabul haqq*) dengan adab yang luhur**: santri tidak mudah termakan kabar burung melainkan terbiasa memeriksa kebenaran sumbernya (*tabayyun*), mampu menghubungkan alasan dan dalil yang sahih (*i'tibar al-hujjah*), serta berani mengambil sikap yang adil dan berlapang dada menerima kebenaran (*ruju' ila al-haqq*).
 

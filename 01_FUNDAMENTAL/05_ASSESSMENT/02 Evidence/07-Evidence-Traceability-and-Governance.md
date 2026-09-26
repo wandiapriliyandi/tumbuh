@@ -1,17 +1,5 @@
 # Keterlacakan dan Tata Kelola Bukti Asesmen (Evidence Traceability & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
-**Dokumen Terkait:**  
-- [01-Evidence-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture.md)  
-- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
-- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
-- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Setiap catatan yang masuk ke dalam berkas perkembangan santri adalah amanah hukum dan syariat.**  
 > Musyrif tidak boleh menulis catatan seperti *"Anak ini suka mencuri"* atau *"Santri ini pemalas"* tanpa dasar tanggal, tempat, saksi, dan konteks kejadian. Jika catatan tersebut keliru dan tersimpan bertahun-tahun, nama baik santri dan keluarganya akan terzalimi selamanya.  
 > Tata Kelola Keterlacakan Bukti (*Evidence Traceability & Governance*) memastikan bahwa setiap data memiliki **rantai asal-usul yang jelas**: siapa yang mencatat, kapan, dalam situasi apa, apa keterbatasan alat ukurnya, dan untuk keputusan apa data tersebut digunakan. Prinsip dasarnya: **Dokumentasi tarbiyah bukanlah spionase (*surveillance*), melainkan ikhtiar pertolongan yang memuliakan privasi dan martabat santri.**

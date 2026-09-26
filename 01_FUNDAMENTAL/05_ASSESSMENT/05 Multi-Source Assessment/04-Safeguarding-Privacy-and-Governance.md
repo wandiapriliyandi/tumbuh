@@ -1,16 +1,5 @@
 # Perlindungan Santri, Kerahasiaan Data, dan Tata Kelola Etika Multi-Sumber (Safeguarding, Privacy, and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/05 Multi-Source Assessment/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/README.md)  
-**Dokumen Terkait:**  
-- [01-Multi-Source-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/01-Multi-Source-Assessment-Architecture.md)  
-- [02-Source-Selection-and-Evidence-Weighting.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/02-Source-Selection-and-Evidence-Weighting.md)  
-- [03-Cross-Source-Review-and-Contextual-Integration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/03-Cross-Source-Review-and-Contextual-Integration.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Ketika kita melibatkan banyak mata untuk mengamati santri, kita memikul amanah moral yang berlipat ganda di hadapan Allah.**  
 > Pelibatan teman sebaya (*peer review*) atau penelusuran informasi dari banyak pihak sangat rentan disalahgunakan menjadi sarana balas dendam sosial, gosip antarkamar (*ghibah*), adu domba (*namimah*), atau pencemaran nama baik anak asuh.  
 > Dokumen ini memancangkan **benteng perlindungan santri (*safeguarding*), kerahasiaan data pribadi, dan tata kelola etika multi-sumber**: bagaimana melindungi martabat anak, memfilter laporan beracun akibat persaingan kawan sebaya, menjamin kesucian jurnal muhasabah batin anak, serta memastikan seluruh proses pengumpulan informasi bermuara pada kebaikan tarbiyah, bukan penghakiman sosial.

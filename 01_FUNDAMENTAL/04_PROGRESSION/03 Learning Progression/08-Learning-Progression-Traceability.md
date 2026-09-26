@@ -1,7 +1,5 @@
 # Learning Progression Traceability
 
-**Status:** DESIGNED — v2.0.0 / Learning Progression
-
 ## 1. Tujuan
 
 Traceability memastikan desain Learning Progression tetap terhubung dengan arah normatif, Core Model, tujuan belajar, evidence, assessment, dan keputusan pembelajaran.

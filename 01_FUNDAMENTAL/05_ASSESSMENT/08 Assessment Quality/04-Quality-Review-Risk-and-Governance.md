@@ -1,17 +1,5 @@
 # Tinjauan Mutu, Mitigasi Risiko Keputusan, dan Tata Kelola Asesmen (Quality Review & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/08 Assessment Quality/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Quality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/01-Assessment-Quality-Architecture.md)  
-- [02-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/02-Rater-Calibration-and-Fairness.md)  
-- [03-Validity-Reliability-and-Error.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/03-Validity-Reliability-and-Error.md)  
-- [01-Multi-Source-Architecture-and-Principles.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/01-Multi-Source-Architecture-and-Principles.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Semakin besar dampak suatu keputusan bagi masa depan dan harga diri santri, semakin tinggi standar pembuktian yang diwajibkan oleh syari'at."**  
 > Menilai kebersihan piket pagi santri tentu tidak memerlukan sidang pleno dewan guru; cukup diamati langsung oleh musyrif kamar. Namun, jika dewan asatidz hendak memutuskan apakah seorang santri siap diangkat menjadi asisten musyrif pembina adik kelas (J4), atau sebaliknya santri harus ditunda kenaikan jenjangnya karena krisis adab berat, maka taruhannya menyangkut masa depan, amanah kepemimpinan, dan martabat jiwa santri.  
 > Dokumen ini menyajikan **Tata Kelola Asesmen Proporsional (*Proportional Governance*)**, **Mitigasi Risiko Keputusan Berdampak Besar (*High-Stakes Decision Safeguards*)**, **Siklus Audit Mutu Semesteran**, serta **Mekanisme Tabayyun dan Perlindungan Privasi Data Santri**. Tujuannya adalah memastikan pesantren memiliki tata kelola kelembagaan yang kokoh, adil, dan terlindung dari kesewenang-wenangan keputusan sepihak.

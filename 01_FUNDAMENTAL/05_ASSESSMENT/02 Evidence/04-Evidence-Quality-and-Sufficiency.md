@@ -1,19 +1,5 @@
 # Mutu dan Kecukupan Bukti Asesmen (Evidence Quality and Sufficiency)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
-**Dokumen Terkait:**  
-- [01-Evidence-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture.md)  
-- [02-Evidence-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/02-Evidence-Audit.md)  
-- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
-- [05-Context-Demand-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/05-Context-Demand-and-Support.md)  
-- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)  
-- [07-Evidence-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/07-Evidence-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Data yang tebal tidak otomatis berarti penilaian yang benar.**  
 > Sering kali musyrif asrama disibukkan oleh tumpukan formulir ceklis centang yang tebal, namun saat ditanya *"Bagaimana kondisi adab santri ini sebenarnya?"*, musyrif tetap merasa ragu dan bingung.  
 > Dokumen ini menjelaskan **tujuh kriteria mutu bukti** dan **ambang kecukupan data yang proporsional**. TUMBUH mengajarkan bahwa lebih baik memiliki 3 catatan perilaku yang spesifik, relevan, dan terkonfirmasi situasinya, daripada memiliki 100 lembar centangan mekanis yang tidak bermakna. Selain itu, mengakui bahwa *"data kita saat ini belum cukup untuk menyimpulkan"* adalah sikap ksatria ilmiah yang menyelamatkan santri dari kezaliman vonis prematur.

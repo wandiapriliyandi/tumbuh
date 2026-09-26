@@ -1,18 +1,5 @@
 # Kesiapan dan Kecocokan Transisi (Transition Readiness and Fit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [01-Transition-Criteria-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/01-Transition-Criteria-Architecture.md)  
-- [03-Transition-Criteria-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/03-Transition-Criteria-Design.md)  
-- [05-Transition-Trial-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/05-Transition-Trial-and-Monitoring.md)  
-- [07-Transition-Boundaries-and-Safeguards.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/07-Transition-Boundaries-and-Safeguards.md)  
-- [01 Growth Architecture/05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Kesiapan santri bukanlah cap bawaan lahir yang menempel di dahi seorang anak.**  
 > Di pesantren TUMBUH, pertanyaan: *"Apakah santri ini sudah siap?"* sering kali keliru jika diarahkan hanya pada anak semata. Pertanyaan yang benar adalah:  
 > **"Apakah santri ini cocok (*fit*) untuk menghadapi tuntutan baru tersebut, di lingkungan kamar yang itu, bersama kawan-kawan yang itu, dan dengan bekal dukungan pembina yang ada?"**  

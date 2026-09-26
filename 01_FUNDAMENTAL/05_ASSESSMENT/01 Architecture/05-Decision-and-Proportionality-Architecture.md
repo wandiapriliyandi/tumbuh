@@ -1,17 +1,5 @@
 # Arsitektur Keputusan dan Proporsionalitas Asesmen (Decision & Proportionality Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/01 Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [03-Construct-and-Inference-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/03-Construct-and-Inference-Architecture.md)  
-- [04-Evidence-and-Interpretation-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/04-Evidence-and-Interpretation-Architecture.md)  
-- [04_PROGRESSION/06 Transition Criteria/06-Transition-Decision-Types.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/06-Transition-Decision-Types.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Asesmen tidak pernah memvonis; manusialah yang mengambil keputusan dengan pertimbangan syariat dan kasih sayang.**  
 > Sebuah sistem penilaian otomatis bisa saja mengeluarkan angka merah untuk santri yang sedang berduka atau kelelahan. Jika asatidz bertindak seperti mesin tanpa nurani, santri tersebut akan langsung dihukum.  
 > Di pesantren TUMBUH, hasil asesmen hanyalah **bahan pertimbangan terikat (*scoped judgment*)** bagi dewan asatidz dalam musyawarah syura:  

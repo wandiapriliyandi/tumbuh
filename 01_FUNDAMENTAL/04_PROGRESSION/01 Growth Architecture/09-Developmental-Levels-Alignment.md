@@ -1,15 +1,5 @@
 # Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [01 Growth Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)  
-- [04_PROGRESSION/02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-- [01_FUNDAMENTAL/04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)
-
----
-
 ## 1. Latar Belakang & Masalah Arsitektural
 
 Dalam perancangan sistem pembinaan pesantren TUMBUH, para asatidz dan perancang sistem sering menemukan tiga model penjenjangan yang berbeda:

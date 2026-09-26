@@ -1,13 +1,5 @@
 # CC-07 Agency — Capacity Progression
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
-**Konstruk Terkait:** [CC-07 Agency (Construct Registry)](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/03_CORE_CAPACITY_REGISTRY.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Agensi (Agency / Inisiatif Mandiri) bukanlah sikap bebas tanpa aturan atau pemberontakan atas nama kebebasan.**  
 > Di pesantren, agensi adalah **kemerdekaan jiwa seorang santri dalam memilih ketaatan dan kebaikan (*ikhtiyar*)**: santri tergerak memulai kebaikan atas kemauan sendiri tanpa perlu disuruh-suruh (*al-mubadarah*), memiliki tekad baja dan kegigihan mengejar target ilmu dan adab (*mujahadah*), serta berjiwa ksatria memikul tanggung jawab atas seluruh perbuatannya tanpa mencari kambing hitam (*muhasabah wal amanah*).
 

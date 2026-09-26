@@ -1,18 +1,5 @@
 # Standarisasi Administrasi, Koding Deskriptif, dan Penafsiran Skor Instrumen (Administration and Scoring)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/04 Instruments/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/README.md)  
-**Dokumen Terkait:**  
-- [01-Instrument-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/01-Instrument-Architecture.md)  
-- [02-Instrument-Design-and-Selection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/02-Instrument-Design-and-Selection.md)  
-- [04-Quality-and-Validation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/04-Quality-and-Validation.md)  
-- [05-Governance-Ethics-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/05-Governance-Ethics-and-Safeguarding.md)  
-- [06-Sample-Instruments-Toolkit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/04%20Instruments/06-Sample-Instruments-Toolkit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Sebuah instrumen pengamatan yang hebat akan kehilangan nilainya jika dilaksanakan secara serampangan.**  
 > Jika musyrif A mengisi lembar amatan santri secara tergesa-gesa saat sedang mengantuk di pos jaga malam, sementara musyrif B mengisi dengan tenang setelah berdialog dari hati ke hati dengan santri, maka catatan keduanya tidak dapat disandingkan secara adil.  
 > Dokumen ini menyatukan **standarisasi administrasi pengumpulan data di asrama** dengan **aturan koding deskriptif berbasis J1–J4**: bagaimana menjaga keajegan pengamatan tanpa merusak kehangatan hubungan asatidz-santri, bagaimana mencatat konteks pendampingan, serta bagaimana menafsirkan hasil secara bijaksana tanpa mereduksi manusia menjadi deretan angka yang dingin.

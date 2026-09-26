@@ -1,18 +1,5 @@
 # Arsitektur Patok Capaian dan Gerbang Pembinaan (Milestones & Gateways Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
-**Dokumen Terkait:**  
-- [03-Milestone-Design-and-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/03-Milestone-Design-and-Criteria.md)  
-- [04-Gateway-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/04-Gateway-Decision-Architecture.md)  
-- [05-Gateway-Readiness-and-Support-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/05-Gateway-Readiness-and-Support-Fit.md)  
-- [06-Gateway-Review-Reversal.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/06-Gateway-Review-Reversal.md)  
-- [06 Transition Criteria/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/README.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Tonggak Capaian (*Milestone*) adalah catatan jejak langkah santri, sedangkan Gerbang (*Gateway*) adalah pintu musyawarah keselamatan.**  
 > - **Milestone (Patok Capaian):** Menjawab pertanyaan *"Capaian adab apa yang sudah berhasil ditunjukkan santri?"* (Misal: santri sudah hafal juz 30 dan terbiasa bangun subuh sendiri).  
 > - **Gateway (Gerbang Keputusan):** Menjawab pertanyaan *"Berdasarkan bukti tersebut, apakah santri sudah siap dan aman untuk diberi tanggung jawab baru atau dilepas mandiri?"* (Misal: apakah santri sudah siap diangkat menjadi ketua kamar?).  

@@ -1,17 +1,5 @@
 # Struktur Laporan Asesmen dan Penafsiran Bukti Naratif (Report Structure and Evidence Interpretation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
-**Dokumen Terkait:**  
-- [01-Reporting-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/01-Reporting-Architecture.md)  
-- [03-Audience-Decision-Support-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/03-Audience-Decision-Support-and-Access.md)  
-- [04-Reporting-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/04-Reporting-Traceability-and-Governance.md)  
-- [05-Sample-Narrative-Development-Report.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/05-Sample-Narrative-Development-Report.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **Sebuah laporan naratif yang baik laksana lukisan pemandangan yang hidup, bukan tabel neraca keuangan.**  
 > Ketika orang tua membaca laporan perkembangan anaknya, mereka ingin merasakan bagaimana perjuangan santri saat berwudhu di pagi buta, bagaimana kehangatan pertemanannya di kamar asrama, dan apa yang sedang menjadi tantangan batinnya. Menulis laporan bukan sekadar mencantumkan kalimat formal, melainkan **merangkai fakta bukti harian menjadi kisah pertumbuhan yang menggugah empati dan harapan**.  
 > Dokumen ini membedah **delapan anatomi baku laporan naratif**, **seni menafsirkan data longitudinal lintas bulan**, **penyelarasan bukti multi-sumber**, serta **kejujuran menyatakan keterbatasan bukti (*uncertainty*)** agar laporan menjadi sarana sinergi tarbiyah yang menenteramkan hati keluarga.
