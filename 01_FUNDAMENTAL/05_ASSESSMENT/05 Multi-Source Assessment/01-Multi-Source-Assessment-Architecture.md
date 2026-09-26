@@ -1,223 +1,179 @@
-# Multi-Source Assessment Architecture
+# Arsitektur Asesmen Triangulasi Multi-Sumber (Multi-Source Assessment Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Assessment Multi-Source
-**Epistemic status:** Conceptually specified; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/05 Multi-Source Assessment/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/README.md)  
+**Dokumen Terkait:**  
+- [02-Source-Selection-and-Evidence-Weighting.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/02-Source-Selection-and-Evidence-Weighting.md)  
+- [03-Cross-Source-Review-and-Contextual-Integration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/03-Cross-Source-Review-and-Contextual-Integration.md)  
+- [04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
 
-## 1. Purpose
+---
 
-Multi-source assessment digunakan ketika satu perspektif belum cukup untuk menjawab intended inference. Ia menggabungkan evidence yang relevan dari lebih dari satu sumber, bukan sekadar menambah jumlah data.
+> ### Intisari untuk Pendidik & Musyrif
+> **Menilai seorang santri hanya dari satu pasang mata laksana melihat gajah dari lubang kunci.**  
+> Guru di kelas madrasah hanya melihat santri saat duduk rapi menyimak pelajaran fiqih. Namun di kamar asrama pada malam hari, musyrif melihat santri saat kelelahan fisik, dan kawan sekamar melihat bagaimana santri bersikap ketika makanan atau jemuran pakaiannya tersenggol. Jika ketiga pihak ini ditanya secara terpisah, masing-masing akan memberikan cerita yang tampak berbeda.  
+> Asesmen Multi-Sumber (*Multi-Source Assessment*) hadir bukan untuk memperbanyak tumpukan formulir, melainkan untuk **merajut sudut-sudut pandang yang berbeda tersebut menjadi sebuah potret kepribadian santri yang utuh dan adil**. Dokumen ini menegaskan kaidah syar'i: **Perbedaan laporan antarsumber bukan tanda error, melainkan bahan untuk *tabayyun* ekologis**. Kita dilarang melakukan pemungutan suara terbanyak (*voting*) atau merata-ratakan skor secara mekanis, melainkan menimbang konteks di mana setiap perilaku itu muncul.
 
-TUMBUH menetapkan bahwa discrepancy antar sumber tidak otomatis berarti error; perbedaan dapat menjadi informasi yang perlu ditabayyun. fileciteturn827file0L2-L2
+---
 
-## 2. Canonical Position
+## 1. Hakikat dan Posisi Asesmen Multi-Sumber
 
-```text
-Construct
-    ↓
-Intended Inference
-    ↓
-Evidence Requirement
-    ↓
-Source Selection
-    ↓
-Evidence Collection
-    ↓
-Cross-Source Review
-    ↓
-Scoped Interpretation
-    ↓
-Decision
-    ↓
-Monitoring / Reassessment
-```
+Dalam arsitektur TUMBUH, asesmen multi-sumber adalah tata kelola triangulasi data pengamatan perkembangan santri dari berbagai pihak yang berinteraksi langsung dalam ritme kehidupan pesantren 24 jam.
 
-Pemilihan sumber harus mengikuti construct dan tujuan inferensi, bukan aturan bahwa semua assessment harus memakai semua sumber.
-
-## 3. Primary Evidence Sources
-
-TUMBUH mengenali lima sumber utama:
+Asesmen multi-sumber digunakan ketika **satu sudut pandang pengamatan belum cukup untuk menarik kesimpulan pembinaan yang adil**.
 
 ```text
-Self
-Observer
-Peer
-Performance
-Portfolio
+Konstruk Karakter Target (CC-01 s/d CC-08)
+                    ↓
+Pertanyaan Asesmen yang Ingin Dijawab (Intended Inference)
+                    ↓
+Kebutuhan Bukti yang Relevan (Evidence Requirement)
+                    ↓
+Pemilihan Kombinasi Sumber yang Pas (Source Selection)
+                    ↓
+Pengumpulan Bukti Nyata Lapangan (Evidence Collection)
+                    ↓
+Penelaahan Lintas Sumber & Tabayyun (Cross-Source Review)
+                    ↓
+Penafsiran Berlingkup Terbatas (Scoped Interpretation)
+                    ↓
+Keputusan Langkah Tarbiyah yang Terukur (Decision)
+                    ↓
+Pemantauan dan Reasesmen Berkala (Monitoring)
 ```
 
-Kelima sumber tersebut bukan hierarki universal. Relevansinya bergantung pada construct, konteks, usia/peran, tujuan assessment, dan jenis evidence yang diperlukan.
+**Kaidah Pokok:** Pemilihan sumber harus dipandu oleh tujuan tarbiyah, bukan aturan kaku bahwa semua anak harus dinilai oleh kelima sumber setiap hari. Mengumpulkan data yang tidak relevan hanya akan menimbulkan kelelahan administratif bagi asatidz dan kecemasan bagi santri.
 
-## 4. Why Multiple Sources
+---
 
-Multi-source dapat membantu:
+## 2. Lima Pilar Sumber Bukti Triangulasi Pesantren
 
-- memperluas perspektif;
-- melihat functioning pada kondisi berbeda;
-- mengidentifikasi pola yang tidak tampak dari satu sumber;
-- memeriksa konsistensi evidence;
-- memahami discrepancy secara lebih baik;
-- mengurangi ketergantungan pada satu pengamat atau metode.
-
-Namun lebih banyak sumber tidak otomatis berarti evidence lebih baik.
-
-## 5. Source Selection
-
-Untuk setiap assessment, dokumentasikan alasan pemilihan sumber:
-
-1. construct target;
-2. intended inference;
-3. evidence yang diperlukan;
-4. akses sumber terhadap functioning yang relevan;
-5. konteks dan demand;
-6. support yang tersedia;
-7. beban pengumpulan data;
-8. risiko bias, privacy, dan safeguarding.
-
-Sumber yang tidak relevan tidak perlu ditambahkan hanya untuk memenuhi jumlah.
-
-## 6. Cross-Source Review
-
-Review dilakukan terhadap:
-
-- convergence — evidence yang saling mendukung;
-- divergence — evidence yang berbeda;
-- context specificity — perbedaan yang mungkin terkait konteks;
-- temporal difference — perbedaan karena waktu pengukuran;
-- source limitation — keterbatasan perspektif atau metode;
-- support/demand difference — perbedaan kondisi dukungan atau tuntutan.
+TUMBUH mengandalkan lima pilar sumber informasi yang saling menopang dalam kehidupan pesantren 24 jam:
 
 ```text
-Source A ─┐
-Source B ─┼→ Cross-Source Review → Scoped Interpretation
-Source C ─┘
+┌──────────────────────────────────────────────────────────────┐
+│                  LIMA PILAR SUMBER BUKTI ASESMEN             │
+├─────────────────┬────────────────────────────────────────────┤
+│ 1. DIRI (Self)  │ Suara nurani santri saat muhasabah batin   │
+├─────────────────┼────────────────────────────────────────────┤
+│ 2. PENGAMAT     │ Catatan observasi Musyrif Asrama & Asatidz │
+│    (Observer)   │ pengampu madrasah/halaqah tahfizh          │
+├─────────────────┼────────────────────────────────────────────┤
+│ 3. SEBAYA (Peer)│ Umpan balik kawan sekamar / regu piket     │
+├─────────────────┼────────────────────────────────────────────┤
+│ 4. KINERJA      │ Tindakan nyata saat memimpin shalat, zikir,│
+│    (Performance)│ mengantre makan, atau ujian hafalan        │
+├─────────────────┼────────────────────────────────────────────┤
+│ 5. PORTOFOLIO   │ Jejak karya, buku mutaba'ah yaumiyah, dan  │
+│    (Portfolio)  │ rekam konsistensi belajar melintasi waktu  │
+└─────────────────┴────────────────────────────────────────────┘
 ```
 
-Review bukan mekanisme memilih sumber “yang benar” secara otomatis.
+Kelima pilar ini tidak memiliki hierarki kaku. Tidak ada satu sumber pun yang otomatis menjadi "standar emas mutlak" untuk seluruh jenis adab.
 
-## 7. Discrepancy as Information
+---
 
-Jika self-report, observer report, performance, dan portfolio menunjukkan pola berbeda, perbedaan tersebut perlu diperiksa sebelum disimpulkan.
+## 3. Mengapa Membutuhkan Multi-Sumber di Pesantren?
 
-Pertanyaan tabayyun dapat meliputi:
+Kehidupan santri di asrama berlangsung 24 jam nonstop, terbagi ke dalam berbagai ruang dan dinamika sosial:
+1. **Memperluas Lensa Pandang:** Menangkap perilaku santri yang tersembunyi dari pandangan guru formal di madrasah.
+2. **Melihat Perilaku Lintas Konteks:** Membedakan antara santri yang hanya patuh di depan musyrif (*false compliance*) dengan santri yang sungguh-sungguh mandiri di balik pintu kamar.
+3. **Mengurangi Ketergantungan pada Subjektivitas Satu Ustadz:** Menjaga santri dari risiko kesimpulan sepihak musyrif yang mungkin sedang kelelahan atau memiliki bias pribadi.
+4. **Memberdayakan Suara Santri (*Student Agency*):** Memberikan hak kepada anak untuk merefleksikan kelemahan dan kemajuan dirinya sendiri di hadapan Allah Ta'ala.
 
-- Apakah konteksnya berbeda?
-- Apakah demand-nya berbeda?
-- Apakah waktunya berbeda?
-- Apakah support berbeda?
-- Apakah construct dipahami dengan cara yang berbeda?
-- Apakah ada keterbatasan metode atau sumber?
-- Apakah evidence memang belum cukup?
+---
 
-Discrepancy tidak boleh dihapus hanya agar hasil tampak konsisten.
+## 4. Kaidah Pemilihan Komposisi Sumber Minimal
 
-## 8. Evidence Integration
-
-Evidence dari berbagai sumber tidak harus dipaksa menjadi satu angka.
-
-Integrasi dapat berupa:
-
-- pola convergence/divergence;
-- profil functioning menurut konteks;
-- perubahan temporal;
-- confidence atau uncertainty statement;
-- evidence summary;
-- scoped judgment.
-
-Jika scoring digunakan, aturan penggabungan harus dinyatakan dan memiliki dasar yang sesuai dengan intended use.
-
-## 9. Context and Support
-
-Perbedaan sumber dapat mencerminkan perbedaan lingkungan, demand, support, atau kesempatan untuk menunjukkan functioning.
-
-Karena itu:
+Asatidz dilarang membebani pengasuhan dengan mengumpulkan kelima sumber untuk setiap hal kecil. Pilih sumber secara proporsional:
 
 ```text
-Different Evidence
-≠ Automatically Contradictory Person
+TINGKAT KONSEKUENSI KEPUTUSAN     KOMPOSISI SUMBER MINIMAL
+─────────────────────────────────────────────────────────────────────────
+1. EVALUASI RUTIN HARIAN          • Cukup 1 Sumber Utama
+   (Ketertiban kamar, piket makan)  (Pengamatan Musyrif Kamar).
+
+2. EVALUASI BERKALA HALAQAH       • 2 Sumber Terpadu
+   (Kenaikan juz tahfizh, adab     (Pengamatan Asatidz + Portofolio
+   kelas madrasah)                  Catatan / Refleksi Diri Santri).
+
+3. TRANSISI JENJANG (J1–J4)       • Minimal 3 Sumber Triangulasi
+   (Kenaikan ke J3 Mandiri atau    (Musyrif Kamar + Refleksi Diri Santri
+   pemberian amanah ketua kamar)    + Umpan Balik Kawan Regu Piket).
+
+4. KASUS KHUSUS / SANKSI BERAT    • Wajib 4 – 5 Sumber Lengkap
+   (Pelanggaran disiplin berat,     (Musyrif + Rekan Sebaya + Pengakuan
+   rekomendasi skorsing/beasiswa)   Santri + Wawancara Mendalam BK).
+─────────────────────────────────────────────────────────────────────────
 ```
 
-Assessment harus menjaga agar perbedaan context tidak berubah menjadi label tetap terhadap individu.
+---
 
-## 10. Relation to Rubrics and Instruments
+## 5. Menelaah Perbedaan Laporan sebagai Sarana Tabayyun
 
-- **Instrument** membantu memperoleh evidence dari sumber tertentu.
-- **Rubric** membantu membaca evidence terhadap criterion.
-- **Multi-source assessment** mengatur bagaimana evidence dari beberapa sumber ditinjau bersama.
-
-Ketiganya tidak boleh disatukan menjadi satu layer yang kehilangan batas fungsi.
-
-## 11. Relation to Progression and Mastery
-
-Multi-source evidence dapat membantu menilai pola consistency, support fit, transfer, atau sustained application bila memang relevan.
-
-Namun:
-
-- banyak sumber ≠ mastery otomatis;
-- convergence ≠ causal proof;
-- divergence ≠ failure otomatis;
-- repeated scores ≠ capacity change otomatis.
-
-Interpretasi tetap harus scoped terhadap evidence dan intended inference.
-
-## 12. Fairness and Dignity
-
-Multi-source assessment harus mempertimbangkan:
-
-- siapa yang memiliki akses untuk memberikan evidence;
-- apakah sumber memiliki kesempatan observasi yang setara;
-- bahasa dan accessibility;
-- bias antar-rater;
-- power relationship;
-- risiko stigma;
-- privacy dan consent/authorization sesuai konteks;
-- safeguarding.
-
-Menambah sumber dapat memperbaiki pemahaman, tetapi juga dapat memperbesar beban, exposure, atau bias jika tidak proporsional.
-
-## 13. Digital / AI Multi-Source
-
-Data dari platform digital, automated observation, atau AI dapat menjadi salah satu sumber evidence bila sesuai tujuan.
-
-Output otomatis tetap perlu diperlakukan sebagai evidence atau processed output yang harus direview. AI tidak menjadi adjudicator tunggal atas discrepancy atau keputusan assessment.
-
-## 14. Traceability
+Ketika laporan Guru Madrasah, Musyrif Asrama, dan Kawan Sekamar menunjukkan perbedaan data, sikap yang diambil adalah **tabayyun ilmiah dan syar'i**:
 
 ```text
-Construct ID
-   ↓
-Intended Inference
-   ↓
-Evidence Requirement
-   ↓
-Source(s)
-   ↓
-Instrument / Method
-   ↓
-Evidence
-   ↓
-Cross-Source Review
-   ↓
-Scoped Interpretation
-   ↓
-Decision
+┌──────────────────────────────────────────────────────────────┐
+│                    HUKUM TABAYYUN MULTI-SUMBER               │
+│                                                              │
+│       PERBEDAAN LAPORAN  ≠  KESALAHAN SISTEM                 │
+│       PERBEDAAN LAPORAN  =  SINYAL PERBEDAAN KONTEKS         │
+│                                                              │
+│  DILARANG MELAKUKAN VOTING SUARA TERBANYAK ATAU MERATA-      │
+│  RATAKAN SKOR ANGKANYA SECARA MEKANIS!                       │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-Setiap sumber yang digunakan harus dapat ditelusurkan alasan dan kontribusinya.
+### Pertanyaan Tabayyun bagi Asatidz:
+- Apakah waktu pengamatannya berbeda (pagi yang segar vs malam yang lelah)?
+- Apakah tuntutan tugasnya berbeda (tekanan ujian kognitif vs santai di kamar)?
+- Apakah ada relasi kuasa yang membuat santri merasa takut atau cemas?
+- Apakah ada perselisihan pribadi antara kawan pelapor dengan santri yang dinilai?
 
-## 15. Boundary Rules
+---
 
-Multi-source assessment bukan:
+## 6. Keterpaduan Tiga Komponen Asesmen TUMBUH
 
-- kewajiban menggunakan lima sumber pada setiap assessment;
-- voting antar pengamat;
-- mekanisme memilih sumber mayoritas sebagai kebenaran;
-- automatic averaging;
-- universal gold-standard hierarchy;
-- diagnosis;
-- total score untuk pribadi;
-- proof of capacity;
-- proof of mastery;
-- proof of causality;
-- proof of intervention effectiveness.
+Pendidik wajib memahami batas pemisahan tiga pilar asesmen:
 
-**Decision:** Multi-source assessment is a governance architecture for combining relevant evidence; specific source combinations and integration rules remain subject to evidence and validation for their intended use.
+```text
+INSTRUMEN           ───> Alat Pengumpul Bukti (Wadah / Formulir Lapangan)
+RUBRIK              ───> Alat Pembanding Kualitas (Kriteria J1–J4)
+MULTI-SOURCE REVIEW ───> Tata Kelola Musyawarah Menyatukan Ragam Bukti
+```
+
+Ketiganya saling melengkapi secara harmonis tanpa saling tumpang tindih.
+
+---
+
+## 7. Pembatasan Penggunaan Teknologi dan AI
+
+Jika pesantren memanfaatkan aplikasi digital atau algoritma analitik multi-sumber:
+- Sistem digital hanya bertugas menampilkan grafik sebaran data dari berbagai pengamat untuk memudahkan telaah.
+- **AI dilarang keras menjadi hakim tunggal** yang memutuskan apakah seorang santri lulus jenjang kemandirian atau harus diberi sanksi.
+- Keputusan final mutlak berada di tangan musyawarah majelis asatidz yang memiliki nurani kasih sayang tarbiyah (*human-in-the-loop*).
+
+---
+
+## 8. Sepuluh Pagar Batas Asesmen Multi-Sumber (*Boundary Rules*)
+
+Asesmen multi-sumber dalam TUMBUH secara mutlak **BUKAN**:
+1. Kewajiban kaku menggunakan kelima sumber untuk setiap perilaku kecil santri;
+2. Pemungutan suara terbanyak (*voting*) antar-pengamat;
+3. Anggapan bahwa pendapat mayoritas otomatis menjadi kebenaran mutlak;
+4. Penghitungan rata-rata aritmatika mekanis atas skor yang berbeda;
+5. Penetapan hierarki permanen bahwa satu sumber selalu mengalahkan sumber lain;
+6. Diagnosis psikiatri atau medis;
+7. Pemberian skor angka tunggal atas nilai kepribadian santri;
+8. Bukti mutlak bahwa sebuah karakter sudah menjadi watak batin abadi (*malakah*);
+9. Bukti mutlak hubungan sebab-akibat program pesantren;
+10. Sarana saling memata-matai (*tajassus*) atau menyebarkan aib anak asuh.
+
+---
+
+## 9. Kalimat Penutup
+
+> **Multi-sumber asesmen laksana jalinan benang-benang tenun.**  
+> Satu helai benang tampak tipis dan rapuh, namun ketika dirajut bersama benang-benang kesaksian lainnya dengan keadilan dan kasih sayang, ia akan membentuk permadani tarbiyah yang kokoh dan memuliakan akhlak generasi santri.

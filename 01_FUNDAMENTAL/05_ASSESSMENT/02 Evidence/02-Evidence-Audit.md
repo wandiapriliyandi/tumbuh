@@ -1,154 +1,123 @@
-# Evidence Architecture Audit
+# Audit Kelaikan Arsitektur Bukti (Evidence Architecture Audit)
 
-## Status
+**Status:** CANONICAL AUDIT — TUMBUH v2.0.0  
+**Audit Finding:** ARCHITECTURALLY SUFFICIENT — CURRENT STAGE  
+**Epistemic Status:** Architectural Review & Verification; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
+**Dokumen Terkait:**  
+- [01-Evidence-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/01-Evidence-Architecture.md)  
+- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
+- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
+- [05-Context-Demand-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/05-Context-Demand-and-Support.md)  
+- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)  
+- [07-Evidence-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/07-Evidence-Traceability-and-Governance.md)
 
-**ARCHITECTURALLY SUFFICIENT — CURRENT STAGE**
+---
 
-**Epistemic status:** Architectural review; not empirical validation.
+> ### Intisari untuk Pendidik & Musyrif
+> **Mengapa sistem pencatatan santri perlu diaudit kelaikannya?**  
+> Di banyak lembaga pendidikan, data santri sering kali dicatat secara serampangan: buku catatan musyrif tercecer, desas-desus dijadikan dasar sanksi, dan satu kesalahan kecil anak diabadikan menjadi "rapor merah" seumur hidup.  
+> Dokumen ini adalah **sertifikat audit dan panduan mutu resmi** yang memastikan bahwa seluruh instrumen pencatatan data santri dalam TUMBUH telah memenuhi standar keadilan, kehati-hatian (*ihtiyath*), dan keterlacakan syar'i. Sistem dinyatakan **layak secara arsitektural (*Architecturally Sufficient*)** karena mampu memisahkan antara fakta dan prasangka, mengharamkan tindakan mencari-cari aib (*tajassus*), dan mewajibkan proses *tabayyun* sebelum keputusan pembinaan diambil.
 
-## 1. Audit Purpose
+---
 
-Audit ini memeriksa apakah `02 Evidence` telah memiliki batas, struktur, sumber, kualitas evidence, dan governance yang cukup untuk menjadi fondasi domain Assessment TUMBUH.
+## 1. Tujuan dan Ruang Lingkup Audit
 
-Audit tidak dimaksudkan untuk membuktikan bahwa sumber atau metode evidence tertentu valid untuk seluruh construct, populasi, atau konteks.
+Audit Arsitektur Bukti ini bertujuan untuk:
+1. Memverifikasi kelengkapan struktural dan batas logis dari seluruh spesifikasi bukti dalam subdirektori `02 Evidence`.
+2. Menilai apakah arsitektur pengumpulan bukti mampu melindungi santri dari kekeliruan vonis (*misjudgment*) dan pelecehan martabat.
+3. Memastikan bahwa sistem bukti terikat erat dengan konstruksi karakter target (*Construct-Linked*), bukan sekadar mencatat data administratif yang mudah didapat.
 
-## 2. Evidence Reviewed
+Audit ini **tidak mengklaim** bahwa seluruh instrumen teknis telah tervalidasi secara psikometrik di ratusan pesantren. Validasi empiris lapangan tetap berstatus *provisional* dan akan terus diuji melalui riset terapan.
 
-Komponen saat ini:
+---
 
-```text
-02 Evidence/
-├── README.md
-├── 01-Evidence-Architecture.md
-└── 02-Evidence-Audit.md
-```
+## 2. Cakupan Berkas yang Ditinjau
 
-README menetapkan lima sumber evidence utama: Self, Observer, Peer, Performance, dan Portfolio, serta menegaskan bahwa tidak ada satu sumber yang otomatis paling benar. fileciteturn173file0L2-L6
-
-## 3. Architectural Findings
-
-### A. Posisi Evidence jelas
-
-Evidence ditempatkan sebagai penghubung antara intended inference dan scoped interpretation dalam Assessment. Ia tidak mengambil alih fungsi Construct Registry, Progression, Intervention, atau Research.
-
-### B. Construct linkage cukup
-
-Arsitektur menghubungkan evidence dengan Core Capacity / Construct, Functional Object, Functional Dimension, Relevant Functioning, dan Intended Inference. Ini menjaga agar evidence tidak dipilih hanya karena mudah dikumpulkan.
-
-### C. Sumber evidence cukup terdefinisi
-
-Lima sumber utama telah dibedakan berdasarkan karakter informasi yang dapat diberikan. Tidak ada gold standard universal.
-
-### D. Evidence quality memiliki boundary
-
-Relevance, sufficiency, consistency, contextual fit, source quality, specificity, dan traceability telah ditempatkan sebagai pertimbangan kualitas. Banyaknya data tidak diperlakukan sebagai sinonim kualitas.
-
-### E. Evidence dibedakan dari interpretation
-
-Arsitektur mempertahankan pemisahan:
+Audit ini meninjau keharmonisan delapan berkas kanonikal dalam subdirektori `02 Evidence`:
 
 ```text
-Evidence → Review → Interpretation → Decision
+01_FUNDAMENTAL/05_ASSESSMENT/02 Evidence/
+├── README.md                                  (Peta Navigasi & Indeks 8 Berkas)
+├── 01-Evidence-Architecture.md                (Kerangka Induk & Rantai Nilai Bukti)
+├── 02-Evidence-Audit.md                       (Sertifikasi Kelaikan & Matriks Audit)
+├── 03-Evidence-Sources.md                     (Karakteristik 5 Sumber Informasi)
+├── 04-Evidence-Quality-and-Sufficiency.md     (7 Kriteria Mutu & Ambang Kecukupan)
+├── 05-Context-Demand-and-Support.md           (Trias Ekologis: Konteks, Tuntutan, Bantuan)
+├── 06-Temporal-and-Discrepant-Evidence.md     (Dinamika Waktu, Fluktuasi, & Tabayyun)
+└── 07-Evidence-Traceability-and-Governance.md (Rantai Lacak Kanonikal & Perlindungan Privasi)
 ```
 
-Hal ini konsisten dengan Assessment Architecture.
+---
 
-### F. Context dan support masuk ke evidence
+## 3. Matriks Hasil Audit Kelaikan Arsitektural
 
-Konteks, demand, support, accessibility, dan kondisi lingkungan dapat menjadi bagian penting dari evidence ketika relevan terhadap inferensi. Ini membantu mencegah performance pada satu kondisi dibaca sebagai capacity secara langsung.
+Berikut adalah hasil verifikasi terhadap 12 dimensi arsitektural sistem bukti:
 
-### G. Temporal evidence tersedia
+| No | Parameter Pemeriksaan | Status Audit | Temuan & Catatan Verifikasi |
+| :-: | :--- | :---: | :--- |
+| **1** | **Keterikatan Konstruk (*Construct Linkage*)** | **LULUS** | Bukti tidak berdiri sendiri; seluruh kebutuhan data diturunkan secara hirarkis dari kapasitas inti santri yang hendak dipahami. |
+| **2** | **Keseimbangan Sumber (*No Gold Standard*)** | **LULUS** | Menolak monopoli kebenaran satu pihak. Mengintegrasikan 5 sumber: Diri, Musyrif, Teman Sebaya, Amal Nyata, dan Portofolio. |
+| **3** | **Pemisahan Tingkat Informasi** | **LULUS** | Rantai *Bukti Murni → Penelaahan → Penafsiran → Keputusan* ditegakkan secara ketat untuk mencegah vonis prematur. |
+| **4** | **Pembedaan Performa vs Kapasitas** | **LULUS** | Mengakui bahwa performa sesaat santri (*transient performance*) bukan cerminan watak sejati (*capacity / malakah*). |
+| **5** | **Integrasi Konteks & Bantuan** | **LULUS** | Data perilaku wajib mencatat suasana lingkungan, tingkat kesulitan tugas, dan pendampingan yang diberikan musyrif. |
+| **6** | **Dinamika Waktu (*Temporal Pattern*)** | **LULUS** | Mengharuskan pengamatan lintas waktu untuk membedakan fase labil, kelelahan sesaat, dan tren pertumbuhan konsisten. |
+| **7** | **Protokol Tabayyun atas Discrepancy** | **LULUS** | Perbedaan laporan antarpengamat dilarang dirata-ratakan secara mekanis; wajib ditelusuri akar penyebab ekologisnya. |
+| **8** | **Kecukupan Data Proporsional** | **LULUS** | Menghilangkan kuota angka mutlak. Semakin berat konsekuensi keputusan pembinaan, semakin tinggi standar kecukupan bukti. |
+| **9** | **Keterlacakan Penuh (*Traceability*)** | **LULUS** | Setiap bukti substantif memiliki rekam jejak minimum: ID, Tanggal, Pengamat, Perilaku Faktual, dan Konteks Kejadian. |
+| **10** | **Perlindungan Martabat & Privasi** | **LULUS** | Mengharamkan mata-mata (*tajassus*), membatasi data yang dicatat (*minimization*), dan melarang stigma permanen. |
+| **11** | **Kendali Otomasi & AI** | **LULUS** | Output sistem digital dan algoritma hanya berfungsi sebagai telaah awal; keputusan mutlak berada di tangan nurani musyrif. |
+| **12** | **Pengakuan Ketidakpastian (*Uncertainty*)** | **LULUS** | Status *"Bukti Belum Cukup"* diakui secara sah untuk mencegah pengambilan keputusan di bawah keraguan. |
 
-Arsitektur menyediakan cara berpikir tentang evidence lintas waktu untuk membedakan fluctuation dari pola perubahan, tanpa mengklaim bahwa banyak titik waktu otomatis membuktikan capacity change.
+---
 
-### H. Discrepancy diperlakukan sebagai informasi
+## 4. Batasan Kritis yang Wajib Dipertahankan
 
-Perbedaan Self, Observer, Peer, Performance, dan Portfolio tidak otomatis dianggap error. Arsitektur mengarahkan discrepancy kepada contextual review dan, bila perlu, evidence tambahan.
-
-### I. Evidence sufficiency proporsional
-
-Tidak ada jumlah evidence universal. Kecukupan bergantung pada construct, intended inference, kualitas sumber, variasi konteks, konsekuensi keputusan, uncertainty, dan risiko kesalahan.
-
-### J. Traceability tersedia
-
-Evidence dapat ditelusuri dari construct sampai penggunaannya dalam interpretation dan decision. Ini menjaga hubungan dengan Claim Registry dan Construct Registry.
-
-### K. Fairness, dignity, privacy, dan safeguarding tersedia
-
-Pengumpulan evidence dibatasi oleh tujuan, proporsionalitas, accessibility, privacy, data minimization, dignity, dan safeguarding.
-
-### L. AI / automation memiliki boundary
-
-Automated output diperlakukan sebagai informasi yang memerlukan human review, context check, dan qualification sebelum digunakan sebagai evidence untuk inferensi.
-
-## 4. Boundary Check
-
-Tidak ditemukan kebutuhan untuk menambah **Core Capacity**, construct category, atau layer assessment baru dari kebutuhan arsitektur Evidence.
-
-Batas berikut harus tetap dipertahankan:
+Audit menegaskan bahwa batas-batas aksiomatik berikut tidak boleh dilanggar dalam operasional pesantren:
 
 ```text
-Evidence ≠ Interpretation
-Evidence ≠ Decision
-Performance ≠ Capacity
-Single Evidence ≠ Capacity Change
-Evidence of Change ≠ Causal Proof
-Automated Output ≠ Truth
-Evidence ≠ Person
+┌──────────────────────────────────────────────────────────────┐
+│                  TUJUH BATAS AKSIOMATIK BUKTI                │
+│                                                              │
+│  [1] Bukti Murni          ≠ Penafsiran Pribadi               │
+│  [2] Bukti Asesmen        ≠ Vonis / Keputusan Sanksi         │
+│  [3] Performa Sesaat      ≠ Kapasitas Watak Sejati           │
+│  [4] Satu Kali Tindakan   ≠ Bukti Perubahan Watak            │
+│  [5] Korelasi Waktu       ≠ Bukti Kausalitas Intervensi      │
+│  [6] Output Sistem/AI     ≠ Kebenaran Hakiki                 │
+│  [7] Data Catatan         ≠ Martabat Diri Santri             │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-## 5. Controlled Open Questions
+---
 
-Hal-hal berikut tetap terbuka untuk Assessment Quality, Research, dan Evidence layer:
+## 5. Agenda Riset Lanjutan Terkendali (*Controlled Open Questions*)
 
-1. Bagaimana kualitas masing-masing sumber diuji untuk setiap construct?
-2. Evidence minimum apa yang diperlukan untuk intended inference tertentu?
-3. Kapan multi-source meningkatkan kualitas inferensi dan kapan tidak?
-4. Bagaimana discrepancy antar sumber sebaiknya dimodelkan pada construct tertentu?
-5. Bagaimana measurement error memengaruhi evidence sufficiency?
-6. Bagaimana fairness dan accessibility diuji lintas kelompok dan konteks?
-7. Kapan temporal evidence cukup untuk mendukung dugaan capacity change?
-8. Bagaimana evidence transfer dan maintenance dinilai secara construct-specific?
-9. Bagaimana AI-assisted evidence extraction diuji terhadap error dan bias?
-10. Bagaimana retention, privacy, dan data minimization diterapkan dalam implementasi nyata?
+Meskipun secara konseptual arsitektur telah lengkap, ada beberapa pertanyaan lapangan yang perlu terus dievaluasi melalui unit riset:
 
-Pertanyaan tersebut tidak memerlukan penambahan arsitektur baru sebelum evidence menunjukkan adanya structural gap.
+1. **Sensitivitas Instrumen:** Bagaimana memastikan instrumen observasi musyrif mudah diisi tanpa menyita waktu istirahat musyrif di asrama?
+2. **Uji Validitas Budaya Pesantren:** Bagaimana mengkalibrasi perbedaan budaya lokal antardaerah terhadap gaya komunikasi dan ekspresi adab santri?
+3. **Pencegahan Bias Subjektif:** Pelatihan apa yang paling efektif bagi musyrif muda untuk membedakan antara mencatat fakta nyata dan menulis prasangka batin?
+4. **Keamanan Data Digital:** Bagaimana memastikan sistem penyimpanan logbook santri aman dari kebocoran dan peretasan?
 
-## 6. Risks to Monitor
+Pertanyaan-pertanyaan di atas tidak menghambat penerapan arsitektur saat ini, melainkan menjadi panduan bagi pengujian empiris lanjutan di `08_SOURCES_AND_EVIDENCE/` dan `09_RESEARCH/`.
 
-- jumlah data diperlakukan sebagai kualitas evidence;
-- performance sesaat diperlakukan sebagai capacity;
-- satu observer menjadi gold standard universal;
-- discrepancy antar sumber dihapus daripada ditabayyun;
-- evidence tanpa konteks digunakan untuk keputusan substantif;
-- evidence collection berubah menjadi surveillance;
-- evidence digunakan sebagai label permanen;
-- AI output diperlakukan sebagai truth;
-- evidence of change diperlakukan sebagai causal proof;
-- evidence requirement berkembang tanpa hubungan dengan construct;
-- data dikumpulkan melebihi tujuan yang sah.
+---
 
-## 7. Architectural Decision
+## 6. Keputusan Audit (*Architectural Decision*)
 
-**Decision: CLOSED FOR CURRENT ARCHITECTURAL STAGE.**
+```text
+STATUS RESMI: CLOSED FOR CURRENT ARCHITECTURAL STAGE
+(Lulus Uji Konseptual untuk Tahap Arsitektur v2.0.0)
+```
 
-`02 Evidence` dinilai cukup secara arsitektural untuk melanjutkan pengembangan komponen Assessment berikutnya.
+Subdirektori `02 Evidence` dinyatakan **LENGKAP, KOKOH, DAN MEMADAI SECARA ARSITEKTURAL** untuk menjadi fondasi pelaksanaan asesmen pada modul-modul berikutnya (Domain, Instrumen, dan Penilaian).
 
-Closure tidak berarti sumber, metode, atau evidence tertentu telah tervalidasi secara empiris. Validitas, reliabilitas, fairness, measurement quality, transfer, causal inference, dan effectiveness tetap empirically provisional.
+Penetapan status ini bukan berarti sistem ini telah sempurna secara mutlak di seluruh medan uji, melainkan menandakan bahwa fondasi epistemik dan etisnya telah tertata rapi sehingga aman untuk diimplementasikan.
 
-## 8. Reopening Conditions
+---
 
-Arsitektur dapat dibuka kembali apabila ditemukan:
+## 7. Pernyataan Penutup
 
-- kebutuhan konseptual evidence yang belum terwakili;
-- konflik substantif dengan Assessment Architecture atau Core Model;
-- boundary failure antara evidence, interpretation, decision, performance, atau capacity;
-- masalah fairness, privacy, accessibility, atau safety yang bersifat struktural;
-- traceability failure;
-- evidence empiris yang menunjukkan struktur evidence tidak memadai.
-
-## 9. Closing Statement
-
-`02 Evidence` melengkapi Assessment Architecture dengan menetapkan prinsip bahwa kualitas assessment bergantung bukan pada banyaknya data, tetapi pada **relevansi, kecukupan, kualitas, konteks, dan batas inferensi evidence**.
-
-Evidence yang baik membantu TUMBUH melihat perkembangan dengan lebih jernih tanpa berpura-pura bahwa setiap hal dapat diketahui secara pasti.
+> **Sistem bukti dalam TUMBUH dibangun di atas asas kehati-hatian, keadilan, dan kasih sayang tarbiyah.**  
+> Dokumen audit ini menjamin bahwa setiap data yang dicatat tentang seorang santri diperlakukan sebagai amanah yang dipertanggungjawabkan di hadapan Allah Ta'ala, demi memuliakan perjalanan tumbuh kembang generasi umat.

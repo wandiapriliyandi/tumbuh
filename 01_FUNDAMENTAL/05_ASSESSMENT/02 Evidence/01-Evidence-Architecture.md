@@ -1,388 +1,236 @@
-# Evidence Architecture
+# Arsitektur Bukti Asesmen (Evidence Architecture)
 
-## Status
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/02 Evidence/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/README.md)  
+**Dokumen Terkait:**  
+- [02-Evidence-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/02-Evidence-Audit.md)  
+- [03-Evidence-Sources.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/03-Evidence-Sources.md)  
+- [04-Evidence-Quality-and-Sufficiency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/04-Evidence-Quality-and-Sufficiency.md)  
+- [05-Context-Demand-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/05-Context-Demand-and-Support.md)  
+- [06-Temporal-and-Discrepant-Evidence.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/06-Temporal-and-Discrepant-Evidence.md)  
+- [07-Evidence-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/02%20Evidence/07-Evidence-Traceability-and-Governance.md)
 
-**DESIGNED — v2.0.0 / Assessment Evidence**
+---
 
-**Epistemic status:** conceptually specified; empirically provisional.
+> ### Intisari untuk Pendidik & Musyrif
+> **Bukti asesmen bukanlah ajang mengumpulkan angka rapor sebanyak-banyaknya, melainkan amanah syariat untuk memahami keadaan santri secara jujur, adil, dan objektif.**  
+> Sering kali dalam dunia pendidikan, seorang anak divonis "santri pemalas" hanya karena musyrif melihatnya tertidur di satu pengajian shubuh, tanpa memeriksa apakah malamnya anak tersebut sedang demam atau baru selesai bertugas ronda malam.  
+> Arsitektur ini menetapkan kaidah emas: **Bukti (*Evidence*) bukanlah Penafsiran (*Interpretation*), dan Penafsiran bukanlah Keputusan/Vonis (*Decision*)**. Bukti adalah fakta murni yang teramati dalam situasi nyata. Dari bukti yang sah dan cukup, pendidik menelaah dengan kearifan tarbiyah, menimbang konteks serta bantuan yang ada, baru kemudian merumuskan langkah pembinaan yang memuliakan martabat santri.
 
-## 1. Purpose
+---
 
-Evidence adalah dasar informasi yang digunakan TUMBUH untuk memahami functioning pada construct tertentu dan membuat interpretasi yang ruang lingkupnya sesuai.
+## 1. Hakikat dan Tujuan Bukti dalam Ekosistem TUMBUH
 
-Evidence bukan keputusan, bukan interpretasi, dan bukan identitas seseorang. Evidence harus selalu dibaca bersama tujuan assessment, konteks, tuntutan, support, serta keterbatasan sumbernya.
+Dalam ekosistem TUMBUH, bukti (*evidence*) adalah landasan informasi faktual yang digunakan untuk memahami keberfungsian (*functioning*) santri pada kapasitas atau karakter tertentu.
 
-Pertanyaan dasarnya bukan hanya **“apa yang terlihat?”**, tetapi:
+Bukti **bukanlah vonis**, **bukan penafsiran pribadi pendidik**, dan **bukan pula identitas mutlak dari diri santri**. Bukti harus selalu dibaca bersama dengan tujuan asesmen, konteks lingkungan, tuntutan tugas, tingkat pendampingan (*support*), serta batas kemampuan alat ukur.
 
-> **“Bukti apa yang diperlukan untuk mendukung inferensi tertentu tentang construct tertentu dalam konteks tertentu?”**
+Pertanyaan mendasar dalam mengumpulkan bukti bukan sekadar *"Apa yang terlihat secara kasat mata?"*, melainkan:
 
-## 2. Position in Assessment
+> **"Bukti otentik apa yang sungguh-sungguh kita perlukan untuk menarik kesimpulan yang adil mengenai perkembangan karakter santri dalam situasi nyata hidupnya?"**
 
-```text
-Construct
-    ↓
-Intended Inference
-    ↓
-Evidence Requirement
-    ↓
-Evidence Collection
-    ↓
-Evidence Review
-    ↓
-Scoped Interpretation
-    ↓
-Decision
-```
+---
 
-Evidence menjadi penghubung antara apa yang hendak dipahami dan apa yang secara sah dapat disimpulkan.
+## 2. Posisi Bukti dalam Rantai Asesmen
 
-## 3. Evidence Is Construct-Linked
-
-Evidence harus diturunkan dari construct dan intended inference.
+Bukti berfungsi sebagai jembatan kokoh antara apa yang ingin kita pahami (konstruk batin) dengan apa yang secara sah dapat kita putuskan (langkah pembinaan).
 
 ```text
-Core Capacity / Construct
+Konstruk / Karakter Target (Construct)
         ↓
-Functional Object
+Inferensi yang Dituju (Intended Inference)
         ↓
-Functional Dimension
+Kebutuhan Bukti Spesifik (Evidence Requirement)
         ↓
-Relevant Functioning
+Pengumpulan Bukti Lapangan (Evidence Collection)
         ↓
-Evidence Requirement
-```
-
-Kemudahan memperoleh suatu data tidak boleh menjadi alasan untuk menjadikan data tersebut sebagai evidence yang relevan bila tidak mewakili construct yang hendak dipahami.
-
-## 4. Five Primary Evidence Sources
-
-TUMBUH menggunakan lima sumber utama:
-
-```text
-SELF
-OBSERVER
-PEER
-PERFORMANCE
-PORTFOLIO
-```
-
-Kelima sumber dapat memberikan jenis informasi yang berbeda.
-
-### Self
-
-Informasi dari refleksi, laporan, atau penilaian diri individu. Berguna terutama ketika pengalaman internal, persepsi, strategi, atau refleksi merupakan bagian relevan dari intended inference.
-
-Self-report tidak otomatis benar atau salah; kualitasnya bergantung pada construct, konteks, tujuan, dan kondisi pengumpulan.
-
-### Observer
-
-Informasi dari pihak yang mengamati functioning dalam konteks tertentu, misalnya guru, musyrif, pembina, atau pihak lain yang relevan.
-
-Observer evidence harus memperhatikan kesempatan observasi, kedekatan dengan konteks, bias pengamatan, dan keterbatasan sudut pandang.
-
-### Peer
-
-Informasi dari teman sebaya atau pihak yang berinteraksi secara relevan dengan individu.
-
-Peer evidence dapat memberi perspektif yang tidak selalu tersedia dari observer formal, tetapi tetap perlu dibaca sesuai konteks hubungan, kesempatan interaksi, dan tujuan inferensi.
-
-### Performance
-
-Bukti dari pelaksanaan tugas atau aktivitas tertentu.
-
-Performance menunjukkan functioning pada kondisi yang diamati. Performance tidak otomatis sama dengan keseluruhan capacity.
-
-### Portfolio
-
-Kumpulan artefak atau jejak perkembangan yang dapat menunjukkan pola functioning dari waktu ke waktu.
-
-Portfolio dapat membantu melihat perubahan, konsistensi, proses, dan hasil, tetapi tidak otomatis lebih valid daripada sumber lain.
-
-## 5. No Universal Gold Standard
-
-Tidak ada satu sumber yang otomatis menjadi **gold standard** untuk seluruh construct atau konteks.
-
-Pemilihan sumber mempertimbangkan:
-
-- construct target;
-- intended inference;
-- konteks;
-- tuntutan;
-- kondisi support;
-- accessibility;
-- kualitas sumber;
-- konsekuensi keputusan.
-
-Satu assessment dapat menggunakan satu sumber bila memang memadai. Multi-source digunakan ketika diperlukan, bukan sekadar karena lebih banyak dianggap selalu lebih baik.
-
-## 6. Evidence Quality
-
-Kualitas evidence dapat ditinjau melalui beberapa pertanyaan:
-
-1. **Relevance** — apakah evidence benar-benar terkait dengan construct dan intended inference?
-2. **Sufficiency** — apakah jumlah dan kedalaman evidence cukup untuk inferensi yang hendak dibuat?
-3. **Consistency** — apakah pola evidence cukup konsisten pada kondisi yang relevan?
-4. **Contextual fit** — apakah konteks, demand, dan support diketahui ketika relevan?
-5. **Source quality** — apakah sumber memiliki kesempatan dan kondisi yang cukup untuk menghasilkan informasi tersebut?
-6. **Specificity** — apakah evidence cukup spesifik untuk membedakan interpretasi yang mungkin?
-7. **Traceability** — apakah evidence dapat ditelusuri ke construct, waktu, konteks, dan metode pengumpulannya?
-
-Kualitas evidence tidak sama dengan banyaknya data.
-
-## 7. Evidence, Observation, Interpretation, Decision
-
-Empat hal berikut harus dibedakan:
-
-```text
-Observation / Raw Evidence
+Penelaahan & Verifikasi Kualitas Bukti (Evidence Review)
         ↓
-Evidence Review
+Penafsiran Berlingkup Terbatas (Scoped Interpretation)
         ↓
-Interpretation
+Keputusan Pembinaan & Tarbiyah (Decision)
+```
+
+Jika rantai ini terputus—misalnya pendidik langsung melompat dari pengamatan kasat mata menuju vonis hukuman tanpa menelaah konteks—maka asesmen telah kehilangan legitimasi tarbiyah dan berisiko menjadi tindakan zhalim.
+
+---
+
+## 3. Bukti Harus Terikat pada Konstruk (*Construct-Linked*)
+
+Bukti tidak boleh dikumpulkan secara serampangan atau sekadar memilih data yang paling mudah dicatat. Data yang gampang dihitung (misalnya jumlah menit keterlambatan shalat) tidak otomatis mewakili kualitas adab batin santri jika tidak terhubung secara sistematis ke konstruk yang dituju.
+
+```text
+Kapasitas Inti / Konstruk (Misal: Tanggung Jawab Amanah)
         ↓
-Decision
+Objek Keberfungsian (Menjaga Kebersihan Kamar Asrama)
+        ↓
+Dimensi Keberfungsian (Inisiatif & Ketuntasan Tugas Piket)
+        ↓
+Perilaku Relevan yang Teramati (Menyapu tanpa Diperintah)
+        ↓
+Kebutuhan Bukti Nyata (Catatan Pengamatan Musyrif & Teman Sekamar)
 ```
 
-Contoh sederhana:
+**Kaidah:** Kemudahan mengumpulkan suatu data tidak pernah menjadi pembenaran untuk menjadikannya bukti asesmen jika data tersebut tidak mencerminkan konstruk yang hendak dipahami.
 
-- **Evidence:** santri menyelesaikan tugas tertentu dengan dua kali prompt.
-- **Interpretation:** pada kondisi tersebut, functioning tampak memerlukan dukungan tertentu.
-- **Decision:** dukungan dipertahankan sambil mengumpulkan evidence tambahan.
+---
 
-Evidence tidak boleh ditulis seolah-olah sudah merupakan kesimpulan tentang pribadi seseorang.
+## 4. Lima Pilar Sumber Bukti (*Five Primary Sources*)
 
-## 8. Context, Demand, and Support
-
-Evidence harus mencatat kondisi yang penting bagi inferensi.
-
-Bila relevan, dokumentasi evidence mempertimbangkan:
-
-- kapan evidence diperoleh;
-- di mana dan dalam konteks apa;
-- tuntutan tugas atau aktivitas;
-- bentuk dan tingkat support;
-- kesempatan latihan atau pengalaman;
-- accessibility conditions;
-- kondisi lingkungan;
-- faktor yang dapat memengaruhi performance.
-
-Hal ini penting karena perubahan performance dapat berasal dari perubahan kondisi, bukan semata-mata perubahan capacity.
-
-## 9. Temporal Evidence
-
-Untuk pertanyaan tentang perkembangan, satu titik waktu sering tidak cukup.
+TUMBUH mengandalkan lima pilar sumber informasi yang saling melengkapi dalam siklus kehidupan pesantren 24 jam:
 
 ```text
-Evidence t1
-   ↓
-Evidence t2
-   ↓
-Evidence t3
-   ↓
-Pattern Review
+┌──────────────────────────────────────────────────────────────┐
+│                  LIMA PILAR SUMBER BUKTI                     │
+│                                                              │
+│  [1] DIRI SANTRI (Self)       ─── Refleksi, Niat & Muhasabah │
+│  [2] PENGAMAT (Observer)      ─── Asatidz, Musyrif, Pembina  │
+│  [3] TEMAN SEBAYA (Peer)      ─── Sahabat Kamar, Regu Halaqah│
+│  [4] AMAL NYATA (Performance) ─── Praktik Langsung, Setoran  │
+│  [5] PORTOFOLIO (Portfolio)   ─── Jejak Karya, Buku Mutaba'ah│
+└──────────────────────────────────────────────────────────────┘
 ```
 
-Evidence temporal membantu membedakan performance fluctuation dari pola perubahan yang lebih stabil.
+1. **Refleksi Diri Santri (*Self*):**  
+   Informasi langsung dari penghayatan batin santri melalui jurnal muhasabah, wawancara bimbingan, atau asesmen mandiri. Sangat berharga untuk memahami niat, pergulatan batin, kesadaran diri, dan strategi santri dalam mengatasi kelemahan dirinya.
+2. **Pengamatan Musyrif/Pendidik (*Observer*):**  
+   Catatan faktual dari asatidz atau musyrif yang mendampingi santri sehari-hari di asrama, masjid, dan ruang kelas. Pengamatan ini harus berfokus pada perilaku nyata, bukan prasangka atau praduga.
+3. **Perspektif Teman Sebaya (*Peer*):**  
+   Informasi dari teman sekamar atau kawan regu halaqah yang berinteraksi secara alami di luar jangkauan pandangan musyrif. Sumber ini membuka dinamika sosial ukhuwah yang jujur dan apa adanya.
+4. **Unjuk Amal Nyata (*Performance*):**  
+   Bukti dari tindakan langsung santri dalam situasi nyata, seperti menjadi imam shalat, memimpin kerja bakti, menyampaikan kultum, atau menyelesaikan tugas problem-solving.
+5. **Jejak Portofolio (*Portfolio*):**  
+   Kumpulan bukti otentik dari waktu ke waktu, seperti lembar mutaba'ah yaumiyah, buku catatan santri, hasil karya tulisan, dan rekam jejak hafalan yang memperlihatkan kurva ketekunan santri.
 
-Namun banyaknya titik waktu tidak otomatis membuktikan capacity change. Interpretasi tetap harus mengikuti construct dan intended inference.
+---
 
-## 10. Discrepancy Between Sources
+## 5. Tidak Ada "Standar Emas Tunggal" (*No Universal Gold Standard*)
 
-Perbedaan antara Self, Observer, Peer, Performance, atau Portfolio tidak otomatis berarti error.
+Dalam arsitektur TUMBUH, **tidak ada satu pun sumber bukti yang secara mutlak paling benar di atas sumber lainnya**.
+
+- Catatan musyrif bisa saja bias jika musyrif sedang lelah atau hanya melihat santri pada saat-saat tertentu.
+- Laporan diri santri bisa saja dipengaruhi oleh rasa malu atau keinginan untuk tampil sempurna di hadapan guru.
+- Laporan teman sebaya bisa terpengaruh oleh sentimen pertemanan atau persaingan antarsantri.
+- Unjuk kerja sesaat bisa dipengaruhi oleh kecemasan panggung (*stage fright*).
+
+Oleh karena itu, penentuan sumber bukti selalu mempertimbangkan:
+- Sifat konstruk yang diukur (apakah ranah kognitif, afektif batin, atau psikomotorik lapangan).
+- Konteks lingkungan dan tingkat tekanan yang dihadapi santri.
+- Besarnya konsekuensi keputusan yang akan diambil (keputusan besar memerlukan konfirmasi multi-sumber).
+
+---
+
+## 6. Tujuh Dimensi Kualitas Bukti (*Evidence Quality*)
+
+Sebelum suatu data dijadikan rujukan untuk menyimpulkan kondisi santri, data tersebut wajib diuji melalui tujuh pertanyaan mutu:
+
+| Dimensi Mutu | Pertanyaan Uji Mutu | Penerapan di Pesantren |
+| :--- | :--- | :--- |
+| **1. Relevansi (*Relevance*)** | Apakah data ini benar-benar mencerminkan karakter yang sedang dinilai? | Nilai ujian hafalan tajwid tertulis tidak serta-merta membuktikan akhlak kejujuran santri saat bertransaksi di kantin. |
+| **2. Kecukupan (*Sufficiency*)** | Apakah jumlah dan kedalaman bukti sudah memadai untuk membuat kesimpulan? | Satu kali santri terlambat shalat shubuh tidak cukup untuk menyimpulkan bahwa ia santri pemalas. |
+| **3. Konsistensi (*Consistency*)** | Apakah perilaku tersebut berulang secara ajeg pada berbagai situasi? | Santri disiplin merapikan tempat tidur baik saat ada inspeksi kamar maupun saat hari libur biasa. |
+| **4. Ketepatan Konteks (*Contextual Fit*)** | Apakah situasi lingkungan, beban tugas, dan bantuan yang ada ikut dicatat? | Mencatat apakah santri sedang mengantuk karena tugas piket malam atau karena memang begadang bermain. |
+| **5. Mutu Pengamat (*Source Quality*)** | Apakah pencatat bukti memiliki kesempatan yang adil untuk melihat secara jelas? | Musyrif yang tinggal bersama santri di lorong asrama memiliki mutu pengamatan yang lebih tinggi daripada tamu yang sekadar lewat. |
+| **6. Kekhususan (*Specificity*)** | Apakah bukti cukup rinci sehingga tidak menimbulkan tafsir ganda? | Catatan *"Santri memukul meja saat diskusi"* jauh lebih bermutu daripada catatan *"Santri tidak beradab"*. |
+| **7. Keterlacakan (*Traceability*)** | Apakah bukti memiliki catatan waktu, tempat, dan saksi yang jelas? | Data dapat ditelusuri kapan kejadiannya dan oleh siapa dicatat, mencegah desas-desus atau gosip tak berdasar. |
+
+---
+
+## 7. Pemisahan Tegas: Bukti, Penelaahan, Penafsiran, dan Keputusan
+
+Pendidik TUMBUH diwajibkan membedakan empat tingkatan dalam memproses informasi santri:
 
 ```text
-Different Sources
-       ↓
-Discrepancy
-       ↓
-Contextual Review
-       ↓
-Possible Explanation / Additional Evidence
-       ↓
-Scoped Interpretation
+1. DATA BUKTI MURNI (Observation / Raw Evidence)
+   "Ahmad tidak hadir halaqah Qur'an sore hari Selasa."
+        ↓
+2. PENELAAHAN BUKTI & KONTEKS (Evidence Review)
+   "Dikonfirmasi bahwa pada jam yang sama, Ahmad sedang berada di pos kesehatan karena demam 38°C."
+        ↓
+3. PENAFSIRAN BERLINGKUP (Scoped Interpretation)
+   "Ketidakhadiran Ahmad bukan disebabkan oleh pembangkangan atau kemalasan, melainkan karena uzur syar'i sakit fisik."
+        ↓
+4. KEPUTUSAN TARBIYAH (Decision)
+   "Mencatat kehadiran Ahmad sebagai izin sakit, memberikan bimbingan istirahat dan obat di UKS, serta menjadwalkan setoran susulan pekan depan."
 ```
 
-Discrepancy dapat menunjukkan perbedaan konteks, perspektif, tuntutan, support, waktu pengamatan, atau aspek functioning yang memang berbeda.
+Pelanggaran fatal terjadi jika pendidik berhenti di tingkat 1 lalu langsung menjatuhkan vonis hukuman tingkat 4 tanpa melalui proses penelaahan tingkat 2 dan 3.
 
-Karena itu, perbedaan sumber sebaiknya menjadi alasan untuk **tabayyun**, bukan langsung memilih sumber yang paling menguntungkan atau paling merugikan individu.
+---
 
-## 11. Evidence Sufficiency
+## 8. Memperhitungkan Konteks, Tuntutan, dan Bantuan (*Context, Demand, Support*)
 
-Tidak ada jumlah evidence universal yang berlaku untuk semua assessment.
+Keberfungsian santri tidak pernah muncul di ruang hampa. Catatan bukti yang bertanggung jawab selalu merekam tiga variabel ekologis:
 
-Kecukupan evidence bergantung pada:
+1. **Konteks Lingkungan (*Context*):** Suasana fisik dan sosial saat perilaku muncul (misal: suhu kamar yang panas, antrean kamar mandi yang padat, atau lampu padam).
+2. **Tuntutan Tugas (*Demand*):** Tingkat kesulitan beban yang diemban santri (misal: santri baru kelas 7 yang pertama kali dituntut mencuci pakaiannya sendiri).
+3. **Bantuan yang Diberikan (*Support*):** Bentuk arahan atau bimbingan yang diterima santri (misal: didampingi musyrif, diberi contoh oleh kakak kelas, atau dibiarkan mandiri sepenuhnya).
 
-- construct;
-- intended inference;
-- kualitas sumber;
-- variasi konteks;
-- konsekuensi keputusan;
-- tingkat uncertainty;
-- risiko jika interpretasi salah.
+Perubahan performa santri sering kali bukan karena watak batinnya yang merosot, melainkan karena tuntutan tugas yang tiba-tiba melonjak atau bantuan pembinaan yang mendadak ditarik.
 
-Semakin besar konsekuensi keputusan, semakin kuat alasan untuk meningkatkan kualitas, keragaman, dan review evidence.
+---
 
-Jika evidence belum memadai, hasil yang sah adalah:
+## 9. Menghargai Keragaman dan Perbedaan Bukti (*Discrepancy Reconciliation*)
 
-> **“Evidence belum cukup untuk inferensi yang dimaksud.”**
+Ketika dua sumber bukti melaporkan hal yang bertolak belakang—misalnya guru madrasah memuji santri karena tenang di kelas, sementara musyrif mengeluh santri suka membuat gaduh di asrama—maka langkah yang diambil adalah **tabayyun**, bukan menghapus salah satu bukti.
 
-## 12. Evidence and Performance
+Perbedaan tersebut mengungkap fakta penting tentang dinamika psikologis santri: santri mungkin memiliki daya kontrol kognitif yang kuat di ruang formal, namun kesulitan mengelola kelelahan emosional di ruang sosial santai asrama. Hal ini menjadi petunjuk berharga bagi intervensi pembinaan yang tepat sasaran.
 
-TUMBUH mempertahankan batas:
+---
 
-```text
-Performance ≠ Capacity
-Single Performance ≠ Capacity Change
-Score ≠ Evidence Quality
-```
+## 10. Etika Asesmen: Perlindungan Martabat, Privasi, dan Larangan Tajassus
 
-Performance adalah evidence tentang functioning dalam kondisi tertentu. Ia menjadi bagian dari evidence architecture, bukan pengganti construct.
+Pengumpulan bukti dalam asrama pesantren 24 jam wajib terikat pada syariat Islam dan kode etik perlindungan anak:
 
-## 13. Evidence for Progression and Mastery
+1. **Bukan Pengintaian/Spionase (*No Tajassus*):**  
+   Pengumpulan bukti dilakukan dalam koridor pembinaan yang wajar dan terbuka. Pendidik dilarang memasang kamera tersembunyi di area privat santri, menyadap pembicaraan pribadi tanpa alasan hukum syar'i, atau mencari-cari aib santri yang tersembunyi (*tajassus* diharamkan secara syar'i).
+2. **Prinsip Minimasi Data (*Data Minimization*):**  
+   Hanya kumpulkan data yang benar-benar relevan dengan program pembinaan santri. Jangan mencatat rahasia pribadi keluarga atau aib masa lalu yang tidak berhubungan dengan target tarbiyah.
+3. **Melindungi Kehormatan Santri (*Safeguarding & Dignity*):**  
+   Catatan kelemahan atau pelanggaran santri tidak boleh dijadikan bahan olok-olok, diumumkan di depan umum (*public shaming*), atau diwariskan sebagai stigma antarangkatan musyrif.
+4. **Hak Koreksi (*Right to Clarification*):**  
+   Santri berhak memberikan klarifikasi dan penjelasan atas catatan pengamatan yang dialamatkan kepada dirinya sebelum keputusan final ditetapkan.
 
-Evidence dapat digunakan untuk mendukung judgment tentang progression, milestone, gateway, mastery, atau transition ketika evidence tersebut sesuai dengan kriteria dan intended inference masing-masing.
+---
 
-```text
-Evidence
-   ↓
-Scoped Judgment
-   ├── Progression
-   ├── Milestone / Gateway
-   ├── Mastery
-   └── Transition
-```
+## 11. Penggunaan Teknologi dan Otomasi dalam Analitik Bukti
 
-Namun satu evidence tidak otomatis membuktikan seluruh kategori tersebut.
+Jika pesantren menggunakan sistem informasi digital (aplikasi logbook asrama atau dasbor perilaku):
+- Hasil rangkuman digital atau rekomendasi algoritma **hanyalah alat bantu telaah awal**, bukan kebenaran mutlak.
+- Setiap keputusan pembinaan yang memiliki dampak serius bagi masa depan santri **wajib ditinjau ulang oleh manusia (*human in the loop*)**, yaitu musyrif, wali kelas, guru BK, dan pimpinan pengasuhan.
+- Mesin tidak memiliki nurani; empati tarbiyah dan kearifan musyrif tetap menjadi penentu akhir penafsiran.
 
-## 14. Evidence for Intervention Decisions
+---
 
-Evidence dapat membantu menentukan apakah support atau intervention perlu dipertahankan, disesuaikan, atau ditinjau.
+## 12. Kaidah Tata Kelola Bukti (*Governance Rules*)
 
-Tetapi:
+1. Bukti wajib memiliki keterkaitan jelas dengan konstruk karakter yang hendak dipahami.
+2. Tidak ada satu sumber pun yang boleh dimutlakkan sebagai standar emas universal.
+3. Catatan bukti faktual harus dipisahkan secara tegas dari penafsiran subjektif dan keputusan sanksi.
+4. Konteks situasi, tuntutan tugas, dan bantuan musyrif wajib dicatat mendampingi data perilaku.
+5. Satu unjuk kerja sesaat tidak pernah sama dengan kapasitas watak sejati.
+6. Tidak ada patokan jumlah data mutlak; kecukupan bukti dinilai secara proporsional sesuai tingkat risiko keputusan.
+7. Perbedaan laporan antarsumber disikapi dengan tabayyun, bukan dirata-ratakan secara mekanis.
+8. Status *"bukti belum cukup"* adalah kesimpulan sah dan jujur demi menghindari vonis zhalim.
+9. Keputusan pembinaan besar memerlukan bukti yang lebih kaya, terverifikasi, dan multi-sumber.
+10. Bukti asesmen dilarang dijadikan label identitas permanen bagi diri santri.
+11. Menjaga privasi, martabat santri, dan kebersihan niat tarbiyah adalah kewajiban mutlak.
 
-```text
-Evidence of Change ≠ Proof of Causality
-```
+---
 
-Perubahan setelah suatu intervention tidak otomatis membuktikan bahwa intervention tersebut menyebabkan perubahan.
+## 13. Batasan Epistemik (*Epistemic Boundary*)
 
-## 15. Evidence and Uncertainty
+Dokumen Arsitektur Bukti ini mendefinisikan kerangka konseptual tata kelola data. Dokumen ini tidak dengan sendirinya membuktikan:
+- Bahwa setiap instrumen yang digunakan di lapangan telah tervalidasi secara psikometrik sempurna.
+- Bahwa semua pengamat bebas dari bias persepsi manusiawi.
+- Bahwa perubahan performa sesaat adalah bukti kausalitas mutlak dari program intervensi tertentu.
 
-Uncertainty harus menjadi bagian eksplisit dari evidence review.
+Validasi empiris dan pengujian efektivitas instrumen harus terus dikaji dan disempurnakan melalui lapisan penelitian berkelanjutan pada [08_SOURCES_AND_EVIDENCE/](file:///c:/xampp/htdocs/tumbuh/08_SOURCES_AND_EVIDENCE/) dan [09_RESEARCH/](file:///c:/xampp/htdocs/tumbuh/09_RESEARCH/).
 
-Status yang mungkin digunakan antara lain:
+---
 
-- evidence cukup untuk inferensi tertentu;
-- evidence belum cukup;
-- evidence terbatas pada konteks tertentu;
-- sumber berbeda memberikan informasi berbeda;
-- perlu evidence tambahan;
-- interpretasi masih provisional.
+## 14. Kalimat Penutup
 
-Tidak boleh ada tekanan administratif untuk mengubah evidence yang ambigu menjadi kepastian palsu.
-
-## 16. Evidence Traceability
-
-Evidence yang digunakan untuk keputusan substantif idealnya dapat ditelusuri melalui:
-
-```text
-Evidence ID
-↓
-Construct / Capacity
-↓
-Functional Object / Dimension
-↓
-Intended Inference
-↓
-Source
-↓
-Method / Task
-↓
-Date / Context
-↓
-Demand / Support
-↓
-Observed Functioning
-↓
-Quality / Limitation
-↓
-Interpretation
-↓
-Decision Use
-```
-
-Tidak semua penggunaan informal memerlukan seluruh field secara administratif, tetapi traceability tidak boleh hilang pada assessment yang memiliki konsekuensi substantif.
-
-## 17. Fairness, Dignity, Privacy, and Safeguarding
-
-Evidence collection harus menjaga:
-
-- martabat individu;
-- fairness;
-- accessibility;
-- privacy;
-- data minimization;
-- safeguarding;
-- kesempatan memberikan koreksi terhadap informasi yang relevan.
-
-Data tidak boleh dikumpulkan hanya karena secara teknis dapat dikumpulkan.
-
-Evidence juga tidak boleh digunakan untuk mempermalukan, mengawasi tanpa tujuan, atau menciptakan label permanen.
-
-## 18. Evidence and AI / Automation
-
-Evidence yang dihasilkan atau dirangkum oleh AI/otomasi harus diperlakukan sebagai informasi yang memerlukan review.
-
-```text
-Automated Extraction / Output
-          ↓
-Human Review
-          ↓
-Context Check
-          ↓
-Evidence Qualification
-          ↓
-Scoped Interpretation
-```
-
-Output otomatis bukan truth dan tidak boleh memperluas inference scope.
-
-## 19. Governance Rules
-
-1. Evidence harus terhubung dengan construct dan intended inference.
-2. Tidak ada source yang otomatis menjadi gold standard universal.
-3. Evidence harus dibedakan dari interpretation dan decision.
-4. Context, demand, dan support dicatat ketika relevan.
-5. Satu performance tidak otomatis membuktikan capacity change.
-6. Tidak ada evidence threshold universal untuk semua construct.
-7. Discrepancy antar sumber harus ditinjau, bukan otomatis dihapus.
-8. Evidence yang belum cukup harus dapat dinyatakan secara eksplisit.
-9. Semakin tinggi konsekuensi keputusan, semakin kuat kebutuhan terhadap evidence dan review.
-10. Evidence tidak boleh digunakan sebagai label permanen tentang individu.
-11. Evidence untuk intervention outcome tidak otomatis menjadi causal proof.
-12. Data collection harus purpose-limited dan proporsional.
-13. Automated evidence/output memerlukan human review.
-14. Perubahan definisi construct tetap tunduk pada Construct Registry.
-15. Klaim yang melampaui evidence harus dikendalikan melalui Claim Registry.
-
-## 20. Epistemic Boundary
-
-Evidence Architecture tidak dengan sendirinya membuktikan:
-
-- validitas construct;
-- reliabilitas sumber atau metode tertentu;
-- measurement invariance;
-- fairness lintas populasi atau konteks;
-- causal impact;
-- predictive validity;
-- effectiveness intervention;
-- universalitas pola evidence;
-- bahwa semua evidence memiliki bobot yang sama.
-
-Validasi dan pengujian memerlukan evidence empiris yang sesuai melalui `08_SOURCES_AND_EVIDENCE/` dan `09_RESEARCH/`.
-
-## 21. Closing Principle
-
-> **Evidence dalam TUMBUH bukan kumpulan angka sebanyak mungkin, tetapi bukti yang relevan dan cukup untuk membantu kita memahami functioning secara bertanggung jawab.**
-
-Evidence yang baik tidak menjanjikan kepastian palsu. Ia justru membuat kita lebih jelas tentang apa yang diketahui, apa yang belum diketahui, dan keputusan apa yang sah dibuat dari keduanya.
+> **Bukti dalam TUMBUH bukanlah tumpukan berkas data untuk menghakimi santri, melainkan suluh penerang yang membantu pendidik melihat potensi fitrah anak secara jernih.**  
+> Bukti yang bermutu tidak menjanjikan kepastian yang kaku, melainkan menghadirkan kejelasan: apa yang sudah nyata tampak, apa yang masih menjadi misteri batin, dan bagaimana membimbing santri melangkah menuju puncak kemandirian hidupnya.

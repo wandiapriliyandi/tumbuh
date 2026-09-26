@@ -1,4 +1,4 @@
-# Kalibrasi Penilai, Mitigasi Bias, dan Keadilan Konteks (Rater Calibration & Fairness)
+# Kalibrasi Penilai, Mitigasi Bias, dan Keadilan Kontekstual (Rater Calibration and Fairness)
 
 **Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
 **Epistemic Status:** Conceptually Specified; Empirically Provisional  
@@ -6,79 +6,119 @@
 **Dokumen Terkait:**  
 - [01-Rubric-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/01-Rubric-Architecture.md)  
 - [02-Rubric-Design-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/02-Rubric-Design-and-Evidence-Interpretation.md)  
-- [04-Rubric-Boundaries-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/04-Rubric-Boundaries-and-Governance.md)
+- [04-Rubric-Boundaries-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/04-Rubric-Boundaries-and-Governance.md)  
+- [05-Exemplar-Adab-Rubrics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/03%20Rubrics/05-Exemplar-Adab-Rubrics.md)
 
 ---
 
 > ### Intisari untuk Pendidik & Musyrif
-> **"Dua mata musyrif yang berbeda bisa melihat satu santri dengan dua kesimpulan yang berlawanan."**  
-> Mengapa hal ini sering terjadi di pesantren? Ada musyrif yang bertipe perfeksionis: santri terlambat 1 menit langsung diberi nilai merah. Ada pula musyrif yang sangat toleran: santri tidak menyapu kamar dianggap "anak kreatif yang asyik membaca buku".  
-> Perbedaan persepsi subjektif ini dapat melukai rasa keadilan santri. Dokumen ini menetapkan **mekanisme kalibrasi penilai antar-asatidz (*rater calibration*) dan penjagaan keadilan kontekstual (*contextual fairness*)**: bagaimana menyamakan frekuensi pandang seluruh pembina, mendeteksi bias tersembunyi, dan memperhitungkan kondisi khusus santri (anak baru, santri berduka, atau santri dengan hambatan fisik) tanpa mengurangi ketegasan tarbiyah.
+> **"Dua pasang mata yang berbeda bisa melihat satu santri dengan dua vonis yang bertolak belakang."**  
+> Mengapa fenomena ini sering terjadi di pesantren? Ada tipe musyrif yang sangat perfeksionis: santri terlambat 1 menit langsung diberi rapor merah. Ada pula musyrif yang sangat santai dan permisif: santri tidur saat waktu shalat dianggap "anak yang sedang lelah belajar".  
+> Perbedaan kacamata subjektif ini dapat merusak rasa keadilan santri dan menimbulkan kecemburuan sosial di asrama. Dokumen ini menetapkan **mekanisme kalibrasi penilai antar-asatidz (*rater calibration*) dan penjagaan keadilan kontekstual (*contextual fairness*)**: bagaimana menyamakan frekuensi pandang seluruh dewan pengasuh, melacak bias terselubung, dan memperlakukan setiap santri secara adil sesuai kondisinya.
 
 ---
 
-## 1. Sumber Variasi dan Bias Pengamatan Antar-Asatidz
+## 1. Anatomi Lima Bias Pengamatan di Lingkungan Pesantren
 
-Variasi penilaian adab di pesantren umumnya bersumber dari lima faktor:
-1. **Bias Kelonggaran vs Keketatan (*Leniency vs Severity Bias*):** Karakter alami musyrif yang terlalu memaklumi atau sebaliknya terlalu menuntut kesempurnaan.
-2. **Efek Halo (*Halo / Horns Effect*):** Menganggap santri yang fasih membaca Al-Qur'an otomatis pasti bersih kamarnya, atau santri yang pendiam otomatis dinilai lamban.
-3. **Keterbatasan Konteks Observasi:** Guru madrasah hanya melihat santri saat duduk tenang mendengarkan materi fiqih, sedangkan musyrif asrama melihat santri saat kelelahan di kamar asrama pada pukul 22.00 malam.
-4. **Familiaritas dan Kedekatan Emosional:** Kecenderungan menilai lebih lunak kepada santri yang sering membantu keperluan musyrif.
-5. **Perbedaan Pemahaman Terhadap Kriteria:** Kurangnya sosialisasi rubrik sehingga istilah "mandiri" dimaknai berbeda-beda oleh tiap ustadz.
-
----
-
-## 2. Alur Kalibrasi Penilaian Berkala (Calibration Review Cycle)
-
-Untuk menjaga keselarasan pandang, dewan pengasuh mengadakan sesi kalibrasi berkala (dua pekanan atau bulanan) dengan alur berikut:
+Sebelum mengadakan penilaian, setiap pendidik dan musyrif wajib menyadari potensi bias manusiawi dalam dirinya:
 
 ```text
-Pengamatan Lapangan Independen oleh Masing-Masing Musyrif
-                           ↓
-Pencatatan Penilaian Awal Menggunakan Format Rubrik Baku
-                           ↓
-Sidang Musyawarah Halaqah: Komparasi Catatan pada Santri yang Sama
-                           ↓
-Pembedahan Perbedaan (*Discrepancy Review*): Mengapa Ustadz A Menilai Berbeda dari Ustadz B?
-                           ↓
-Penyelarasan Persepsi Bersama Berdasarkan Kriteria Objektif
-                           ↓
-Penetapan Catatan Akhir yang Adil, Terverifikasi, dan Disepakati
+┌──────────────────────────────────────────────────────────────┐
+│                LIMA BIAS PENGAMATAN ASESMEN SANTRI           │
+├─────────────────────┬────────────────────────────────────────┤
+│ 1. BIAS KELONGGARAN │ Terlalu memaklumi kesalahan santri     │
+│    (Leniency Bias)  │ karena enggan menegur atau tidak tega. │
+├─────────────────────┼────────────────────────────────────────┤
+│ 2. BIAS KEKETATAN   │ Standar terlalu tinggi & kaku;         │
+│    (Severity Bias)  │ menuntut santri sempurna seperti ustadz│
+├─────────────────────┼────────────────────────────────────────┤
+│ 3. EFEK HALO / HORN │ Terkecoh tampilan luar; santri fasih   │
+│    (Halo / Horns)   │ Qur'an dianggap pasti suci di asrama,  │
+│                     │ atau santri pendiam dicap lamban.      │
+├─────────────────────┼────────────────────────────────────────┤
+│ 4. BIAS KEDEKATAN   │ Menilai lebih tinggi santri yang rajin │
+│    (Proximity Bias) │ membantu urusan pribadi musyrif.       │
+├─────────────────────┼────────────────────────────────────────┤
+│ 5. BIAS KELELAHAN   │ Menilai santri dengan emosi memuncak   │
+│    (Fatigue Bias)   │ saat musyrif kelelahan di akhir piket. │
+└─────────────────────┴────────────────────────────────────────┘
 ```
+
+Mengenali bias-bias ini adalah langkah pertama menuju ketakwaan pengasuhan (*taqwa fi al-hukm*).
 
 ---
 
-## 3. Menjaga Keadilan Kontekstual (Contextual Fairness)
+## 2. Siklus Kalibrasi Penilaian Antar-Asatidz (*The Calibration Cycle*)
 
-Keadilan dalam penilaian adab **bukan berarti memaksakan kondisi yang identik secara buta kepada semua santri**. Keadilan sejati memperhitungkan faktor ekologis:
+Untuk menyelaraskan standar pengamatan di asrama, tim pengasuhan wajib menyelenggarakan **Halaqah Kalibrasi Penilai** secara berkala (dua pekanan atau bulanan):
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                   PRINSIP KEADILAN ASESMEN TUMBUH                      │
-│                                                                        │
-│       KEBUTUHAN DUKUNGAN BUKAN KEKURANGAN MORAL                        │
-│       (Support Need ≠ Capacity Deficit)                                │
-│                                                                        │
-│       PENGURANGAN BANTUAN BUKAN OTOMATIS LEBIH BAIK                    │
-│       (Less Support ≠ Automatically Better)                            │
-└────────────────────────────────────────────────────────────────────────┘
+Langkah 1: Pengamatan Lapangan Mandiri oleh Tiap Musyrif
+                         ↓
+Langkah 2: Pemilihan Kasus Tolok Ukur (Benchmark Case)
+           (Memilih 1-2 profil santri nyata untuk dibedah bersama)
+                         ↓
+Langkah 3: Pembandingan Lembar Rubrik Antar-Musyrif
+           (Melihat sebaran skor yang diberikan oleh Ustadz A vs Ustadz B)
+                         ↓
+Langkah 4: Bedah Perbedaan & Tabayyun Konteks (Discrepancy Analysis)
+           "Mengapa Ustadz A menilai J2 sedangkan Ustadz B menilai J1?"
+                         ↓
+Langkah 5: Penyelarasan Kesepakatan Berdasarkan Indikator Baku
+                         ↓
+Langkah 6: Penetapan Hasil Bersama yang Sah dan Mengikat
 ```
 
-1. **Akses dan Kesempatan yang Sama:** Santri tidak boleh dinilai gagal dalam piket menyapu jika sapu di kamarnya memang rusak atau hilang dan belum diganti inventaris pondok.
-2. **Fase Adaptasi Santri Baru (*Adjustment Period*):** Santri baru yang baru 1 bulan masuk pondok tidak boleh langsung dihakimi dengan standar kemandirian santri tahun ketiga.
-3. **Kondisi Kesehatan dan Psiko-Sosial:** Santri yang sedang mengalami kabar duka dari keluarga, demam, atau masalah emosional wajib dicatat kondisinya sebagai konteks mitigasi, bukan dinilai sebagai pelanggaran adab murni.
+### Simulasi Diskusi Kalibrasi:
+- **Kasus:** Santri Farhan terlambat 10 menit halaqah tahfizh sore.
+- **Ustadz A (Musyrif Asrama):** Memberikan nilai J1 (butuh bimbingan intensif) karena menganggap Farhan malas bangun tidur siang.
+- **Ustadz B (Guru Madrasah):** Memberikan nilai J3 (mandiri) karena Farhan di kelas selalu disiplin dan aktif.
+- **Hasil Kalibrasi:** Setelah dikonfirmasi, ternyata Farhan terlambat karena membantu mengantar temannya yang terkilir ke pos kesehatan. Keduanya sepakat bahwa Farhan berada pada level **J3 (Mandiri & Beradab)**, dan catatan keterlambatannya disertai catatan konteks aksi tolong-menolong.
 
 ---
 
-## 4. Perlindungan Martabat dan Pencegahan Eksklusi Sosial (Safeguarding)
+## 3. Menjaga Keadilan Kontekstual (*Contextual Fairness*)
 
-1. **Dilarang Menjadikan Catatan Rubrik sebagai Bahan Candaan:** Penilaian musyrif tidak boleh dibacakan di depan umum untuk mempermalukan santri (*anti-shaming protocol*).
-2. **Kerahasiaan Berkas Kalibrasi:** Dokumen bedah perbedaan rater hanya untuk konsumsi tim pembina, tidak boleh bocor ke kalangan santri.
-3. **Pemberdayaan Santri Melalui Umpan Balik Empat Mata:** Jika penilaian rubrik menunjukkan santri membutuhkan bimbingan tambahan, musyrif menyampaikannya secara empat mata (*khulwah tarbawiyyah*) dengan nada merangkul dan membangun semangat.
+Keadilan dalam Islam bukanlah membagi rata secara mekanis (*equality* buta), melainkan meletakkan sesuatu tepat pada tempatnya yang berhak (*equity* proporsional).
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│               PRINSIP KEADILAN ASESMEN TUMBUH                │
+│                                                              │
+│     KEBUTUHAN BANTUAN BUKAN CACAT MORAL                      │
+│     (Support Need ≠ Moral Deficit)                           │
+│                                                              │
+│     MEMBERI BANTUAN PADA ANAK YANG MEMBUTUHKAN               │
+│     ADALAH BENTUK KEADILAN TERTINGGI DALAM TARBIYAH          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Pedoman Keadilan Kontekstual di Pesantren:
+1. **Masa Adaptasi Santri Baru (*Adjustment Period*):**  
+   Santri baru kelas 7 yang baru 3 bulan pertama di asrama diberikan masa penyesuaian khusus. Mereka tidak boleh dinilai dengan standar kemandirian santri senior kelas 9 atau 12.
+2. **Kondisi Khusus yang Memerlukan Toleransi Syar'i:**  
+   Santri yang sedang menerima kabar duka keluarga, santri yang mengalami sakit fisik, atau santri yang memiliki hambatan motorik bawaan berhak mendapatkan penyesuaian kriteria tanpa mengurangi kasih sayang pembinaan.
+3. **Ketersediaan Fasilitas Penunjang:**  
+   Santri tidak boleh dinilai gagal mencuci pakaian atau menjaga kebersihan kamar jika fasilitas pondok (air bersih, sabun, jemuran) memang sedang rusak atau tidak memadai.
 
 ---
 
-## 5. Kaidah Emas bagi Musyrif Penilai
+## 4. Perlindungan Martabat dan Etika Sidang Kalibrasi (*Safeguarding*)
 
-> **"Jangan menilai dengan amarah saat engkau lelah, dan jangan menilai dengan prasangka saat engkau belum bertanya."**  
-> Kalibrasi dan keadilan penilaian adalah ibadah menjaga amanah lisan dan pena asatidz agar kelak di yaumil hisab tidak ada hak santri yang terzalimi oleh penilaian yang gegabah.
+Sidang kalibrasi asesmen melibatkan data pribadi dan kehormatan santri. Oleh karena itu, seluruh pembina terikat kode etik ketat:
+
+1. **Kerahasiaan Majelis (*Amanatul Majlis*):**  
+   Seluruh rekaman diskusi kalibrasi adalah rahasia tim pengasuhan. Haram hukumnya membocorkan perbedaan skor atau perdebatan antar-asatidz kepada santri atau pihak luar.
+2. **Larangan Mempermalukan Santri (*No Public Shaming*):**  
+   Data rubrik dilarang keras dipajang di papan pengumuman umum pondok sebagai sarana mempermalukan santri yang nilainya masih rendah.
+3. **Fokus pada Solusi Bimbingan:**  
+   Tujuan akhir kalibrasi bukan untuk menyepakati vonis hukuman, melainkan untuk menyepakati strategi pendampingan terbaik bagi pertumbuhan santri.
+
+---
+
+## 5. Kaidah Emas bagi Setiap Musyrif Penilai
+
+> **"Janganlah kebencianmu atau kejengkelanmu pada suatu perangai santri membuatmu berbuat tidak adil kepadanya."**  
+> *(Adaptasi QS. Al-Ma'idah: 8)*  
+> 
+> Kalibrasi dan keadilan penilaian adalah ibadah menjaga amanah lisan dan goresan pena asatidz, agar kelak di Hari Pertanggungjawaban di hadapan Allah, tidak ada setetes pun hak santri yang terzalimi oleh penilaian yang gegabah.

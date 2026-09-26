@@ -1,250 +1,210 @@
-# Assessment Quality Architecture
+# Arsitektur Penjaminan Mutu Asesmen Holistik Pesantren (Assessment Quality Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Assessment Quality
-**Epistemic status:** Conceptually specified; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/08 Assessment Quality/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/README.md)  
+**Dokumen Terkait:**  
+- [02-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/02-Rater-Calibration-and-Fairness.md)  
+- [03-Validity-Reliability-and-Error.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/03-Validity-Reliability-and-Error.md)  
+- [04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)  
+- [01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)
 
-## 1. Purpose
+---
 
-Assessment Quality memastikan bahwa proses assessment menghasilkan evidence dan interpretasi yang layak digunakan untuk tujuan yang dimaksud.
+> ### Intisari untuk Pendidik & Musyrif
+> **"Menilai adab santri bukan sekadar membuat daftar ceklis, melainkan amanah hisab yang menuntut kehati-hatian, keadilan, dan kejujuran metodologis."**  
+> Mengukur pertumbuhan jiwa, kemandirian adab, dan pengendalian diri santri jauh lebih rumit daripada menilai ujian hafalan kitab. Jika alat ukur kita cacat, musyrif tidak terkalibrasi, atau data dicemari bias suka/tidak suka, maka keputusan pendidikan yang diambil akan menzalimi santri dan mengaburkan fitrah mereka.  
+> Dokumen ini memaparkan **Arsitektur Penjaminan Mutu Asesmen**: bagaimana ekosistem TUMBUH memastikan bahwa seluruh bukti perilaku yang dikumpulkan benar-benar valid, reliabel, adil, bebas dari klaim berlebihan (*anti-overclaim*), dan senantiasa berorientasi pada kemaslahatan pertumbuhan santri di dunia hingga akhirat.
 
-Quality assurance mencakup **Rater Calibration, Bias Management, Validity & Reliability**. Validitas dan reliabilitas bersifat construct- dan use-specific; label “validated” hanya digunakan bila terdapat evidence yang dapat ditelusuri. fileciteturn830file0L2-L2
+---
 
-## 2. Canonical Position
+## 1. Hakikat dan Urgensi Penjaminan Mutu Asesmen Pesantren
 
-```text
-Construct
-    ↓
-Assessment Design
-    ↓
-Evidence Collection
-    ↓
-Quality Review
-    ├── Rater Calibration
-    ├── Bias Management
-    └── Validity & Reliability
-    ↓
-Scoped Interpretation
-    ↓
-Decision
-    ↓
-Monitoring / Reassessment
-```
+Penjaminan mutu asesmen (*Assessment Quality*) adalah proses sistematis untuk memastikan bahwa setiap pengumpulan data, penafsiran catatan perilaku, dan keputusan pembinaan santri memiliki dasar pembuktian yang sah, konsisten, dan dapat dipertanggungjawabkan (*traceable*).
 
-Quality bukan pemeriksaan kosmetik setelah assessment selesai. Quality harus dipikirkan sejak construct, intended inference, evidence requirement, sampai penggunaan hasil.
-
-## 3. Quality Questions
-
-Assessment quality menjawab pertanyaan berbeda dari sekadar “apakah instrumennya bagus?”
-
-- Apakah construct yang dimaksud memang yang dinilai?
-- Apakah evidence relevan dengan intended inference?
-- Apakah prosedur digunakan secara konsisten?
-- Apakah terdapat sumber bias yang material?
-- Apakah hasil cukup reliable untuk intended use?
-- Apakah validity evidence mendukung interpretasi yang dibuat?
-- Apakah assessment fair dan accessible dalam konteks penggunaannya?
-
-## 4. Rater Calibration
-
-Calibration membantu menjaga konsistensi interpretasi ketika assessment melibatkan observer, peer, atau rater.
-
-Calibration dapat mencakup:
-
-- pemahaman construct dan criterion;
-- contoh evidence dan batas interpretasi;
-- latihan penggunaan rubric/instrument;
-- pembahasan discrepancy;
-- pemeriksaan drift dari waktu ke waktu.
-
-Calibration tidak berarti semua rater harus menghasilkan nilai identik pada semua kondisi. Perbedaan dapat muncul secara sah karena konteks atau evidence yang berbeda.
-
-## 5. Bias Management
-
-Bias management bertujuan mengidentifikasi dan mengurangi pengaruh yang tidak relevan terhadap evidence, interpretation, atau decision.
-
-Area yang perlu diperhatikan dapat meliputi:
-
-- rater bias;
-- item/procedure bias;
-- language bias;
-- cultural/contextual mismatch;
-- accessibility barriers;
-- halo/horn effects;
-- expectation bias;
-- power relationship;
-- bias dari automated/AI processing.
-
-Tidak semua perbedaan hasil membuktikan bias. Dugaan bias harus ditinjau dengan evidence yang sesuai.
-
-## 6. Validity
-
-Validity harus dipahami sebagai dukungan evidence terhadap **interpretasi dan penggunaan hasil assessment**, bukan sifat mutlak yang melekat pada sebuah instrumen untuk semua tujuan.
-
-Dokumentasikan setidaknya:
-
-- construct target;
-- intended inference;
-- population;
-- context;
-- evidence supporting interpretation;
-- limitations;
-- intended use.
-
-Instrumen yang memiliki validity evidence untuk satu populasi atau penggunaan tidak otomatis tervalidasi untuk populasi atau penggunaan lain.
-
-## 7. Reliability
-
-Reliability berkaitan dengan konsistensi hasil dalam kondisi yang relevan terhadap intended use.
-
-Pertanyaan dapat mencakup:
-
-- consistency across raters;
-- consistency across occasions;
-- consistency of scoring/coding;
-- measurement error;
-- stability ketika stability memang diharapkan.
-
-Reliability yang tinggi tidak dengan sendirinya membuktikan validity.
+Dalam tradisi pesantren, penjaminan mutu berakar pada prinsip kehati-hatian (*ihtiyath*), keadilan (*'adalah*), dan menjauhi prasangka tanpa bukti (*ihtiraz min az-zhan*). Di ranah psikometri modern, ini sejalan dengan standar pengujian bahwa instrumen tidak boleh diklaim secara mutlak tanpa bukti konteks penggunaannya.
 
 ```text
-Reliable
-≠ Automatically Valid
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM MUTU UTAMA ASESMEN TUMBUH                      │
+│                                                                        │
+│       KUALITAS BUKTI > KUANTITAS DATA                                  │
+│       Data melimpah yang bias tidak ada harganya.                       │
+│                                                                        │
+│       VALIDITAS BERSIFAT SPESIFIK RUANG DAN PENGGUNAAN                 │
+│       Tidak ada label "instrumen valid universal" untuk semua situasi. │
+│                                                                        │
+│       KEADILAN ADALAH HAKIKAT TARBIYAH                                 │
+│       Asesmen tidak boleh menjadi alat diskriminasi atau cap negatif.  │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 8. Fairness and Accessibility
+---
 
-Assessment quality mencakup pertanyaan apakah peserta memiliki kesempatan yang wajar untuk menunjukkan functioning yang dinilai.
+## 2. Kedudukan Kanonikal Penjaminan Mutu dalam Siklus TUMBUH
 
-Review perlu mempertimbangkan:
-
-- bahasa;
-- accessibility;
-- adaptasi yang relevan;
-- kesempatan belajar/practice;
-- konteks sosial dan budaya;
-- demand dan support;
-- dampak keputusan terhadap peserta.
-
-Fairness bukan berarti semua peserta diperlakukan secara identik ketika kebutuhan akses dan kondisi relevan memang berbeda.
-
-## 9. Evidence Quality and Sufficiency
-
-Quality review harus membedakan:
+Penjaminan mutu bukan pemeriksaan kosmetik di akhir tahun setelah rapor dibagikan. Mutu dikawal sejak penetapan definisi kapasitas, perancangan instrumen, pengumpulan bukti harian, hingga pengambilan keputusan transisi jenjang kemandirian (J1–J4).
 
 ```text
-Data Quantity
-≠ Evidence Quality
+Kapasitas Fitrah Terdefinisi (Construct Registry)
+                    ↓
+Desain Asesmen & Instrumen (Assessment Design)
+                    ↓
+Pengumpulan Bukti Lapangan 24 Jam (Evidence Collection)
+                    ↓
+┌─────────────────────────────────────────────────────────┐
+│     TINJAUAN MUTU SISTEMATIS (QUALITY REVIEW)           │
+│     ├── Kalibrasi Penilai Asatidz (Rater Calibration)   │
+│     ├── Mitigasi Bias & Penjagaan Keadilan (Fairness)   │
+│     └── Uji Validitas, Reliabilitas & Galat Pengukuran  │
+└─────────────────────────────────────────────────────────┘
+                    ↓
+Penafsiran Berlingkup & Berkonteks (Scoped Interpretation)
+                    ↓
+Keputusan Tarbiyah & Tingkat Dukungan (Decision)
+                    ↓
+Pemantauan Berkala & Penyesuaian Intervensi (Monitoring)
 ```
 
-Banyak data dapat tetap tidak relevan atau redundant. Sebaliknya, evidence yang sedikit dapat cukup untuk pertanyaan terbatas tertentu bila kualitas dan scope-nya memadai.
+---
 
-## 10. Multi-Source Quality
+## 3. Tujuh Pertanyaan Uji Mutu Asesmen (*Quality Questions*)
 
-Jika beberapa sumber digunakan, quality review perlu melihat:
+Sebelum sebuah instrumen atau rubrik digunakan secara resmi oleh musyrif dan guru di lingkungan pondok, tim penjamin mutu wajib menguji rancangan tersebut dengan 7 pertanyaan kunci:
 
-- convergence;
-- divergence;
-- source limitations;
-- context differences;
-- measurement error;
-- apakah integrasi sumber memiliki dasar yang sesuai.
+| No | Pertanyaan Kunci Penjaminan Mutu | Makna Lapangan bagi Pesantren |
+| :---: | :--- | :--- |
+| **1** | **Apakah kapasitas fitrah yang ditargetkan benar-benar tercermin dalam alat ukur?** | Memastikan kita tidak sedang mengukur kepatuhan lahiriah semu padahal berniat menilai adab keikhlasan dan kemandirian. |
+| **2** | **Apakah bukti yang dikumpulkan relevan dengan kesimpulan yang hendak diambil?** | Catatan nilai rapian kasur tidak boleh dipakai untuk menyimpulkan apakah seorang santri amanah memegang kas asrama. |
+| **3** | **Apakah instrumen digunakan secara konsisten oleh seluruh asatidz?** | Standar musyrif asrama A harus selaras dengan musyrif asrama B; tidak boleh ada musyrif yang terlalu longgar atau terlampau keras. |
+| **4** | **Apakah ada potensi bias atau konflik kepentingan yang mencemari penilaian?** | Apakah penilai memiliki ikatan keluarga, relasi suka/tidak suka, atau stereotip suku terhadap santri yang dinilai? |
+| **5** | **Apakah hasil pengamatan cukup konsisten dalam kondisi yang relevan (*reliable*)?** | Apakah fluktuasi skor mencerminkan perkembangan santri sejati, atau sekadar suasana hati penilai saat lelah ronda malam? |
+| **6** | **Apakah bukti empiris mendukung tujuan pengambilan keputusan (*validity evidence*)?** | Bukti yang cukup untuk bimbingan harian belum tentu cukup untuk memutuskan kenaikan jenjang kemandirian J3 atau J4. |
+| **7** | **Apakah asesmen dapat diakses secara adil oleh seluruh karakter santri (*fair & accessible*)?** | Santri yang pemalu atau santri dengan kemampuan verbal lambat tidak boleh dirugikan dalam instrumen asesmen sosial. |
 
-Tidak boleh menetapkan satu sumber sebagai gold standard universal hanya karena lebih mudah atau lebih familiar.
+---
 
-## 11. Monitoring Quality Over Time
+## 4. Empat Pilar Penjaminan Mutu Asesmen TUMBUH
 
-Quality juga perlu diperiksa ketika assessment digunakan berulang.
-
-Perhatikan:
-
-- rater drift;
-- instrument changes;
-- context changes;
-- population changes;
-- changes in support/demand;
-- changes in intended use.
-
-Perubahan pada assessment system dapat mengubah interpretasi longitudinal bahkan jika skor terlihat serupa.
-
-## 12. Digital and AI Quality
-
-Untuk digital atau AI-supported assessment, quality review perlu mempertimbangkan:
-
-- provenance data;
-- reproducibility yang relevan;
-- model/system error;
-- bias;
-- privacy;
-- accessibility;
-- explainability yang diperlukan untuk intended use;
-- human oversight;
-- version changes.
-
-Output AI tidak boleh dianggap valid hanya karena sistem menghasilkan output secara konsisten.
-
-## 13. Quality and Decision Risk
-
-Semakin tinggi konsekuensi sebuah keputusan, semakin kuat kebutuhan untuk:
-
-- evidence yang relevan;
-- review yang memadai;
-- uncertainty handling;
-- safeguards;
-- human oversight;
-- opportunity for correction/review.
-
-Tidak semua assessment memerlukan tingkat quality assurance yang sama.
-
-## 14. Reporting Quality Status
-
-Setiap penggunaan assessment perlu dapat menyatakan status quality secara jujur, misalnya:
-
-- designed;
-- proposed;
-- pilot tested;
-- locally evaluated;
-- empirically supported;
-- psychometrically evaluated;
-- implementation tested;
-- evidence insufficient.
-
-Label **validated** tidak boleh digunakan tanpa evidence yang dapat ditelusuri untuk intended use. fileciteturn830file0L2-L2
-
-## 15. Traceability
+Sistem penjaminan mutu TUMBUH v2.0.0 berdiri di atas 4 pilar utama yang saling menguatkan:
 
 ```text
-Construct ID
-   ↓
-Intended Inference
-   ↓
-Instrument / Rubric
-   ↓
-Evidence
-   ↓
-Quality Review
-   ├── Rater Calibration
-   ├── Bias Management
-   └── Validity & Reliability
-   ↓
-Scoped Interpretation
-   ↓
-Decision
+                   ┌──────────────────────────────────┐
+                   │    ARSITEKTUR MUTU ASESMEN       │
+                   └─────────────────┬────────────────┘
+         ┌───────────────────────────┼───────────────────────────┐
+         ▼                           ▼                           ▼
+┌──────────────────┐       ┌──────────────────┐       ┌──────────────────┐
+│   PILAR 1 & 2    │       │     PILAR 3      │       │     PILAR 4      │
+│  Kalibrasi Rater │       │ Validitas Bukti  │       │   Tata Kelola    │
+│  & Mitigasi Bias │       │ & Kendali Galat  │       │ & Mitigasi Risiko│
+│  (Inter-Observer)│       │ (Psychometrics)  │       │   (Governance)   │
+└──────────────────┘       └──────────────────┘       └──────────────────┘
 ```
 
-Quality claims harus dapat ditelusurkan ke evidence dan konteks penggunaannya.
+1. **Kalibrasi Penilai Asatidz (*Rater Calibration*):** Menyamakan frekuensi pandang seluruh musyrif dan guru melalui studi kasus anekdotal dan latihan bersama secara berkala (dibahas rinci di [02-Rater-Calibration-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/02-Rater-Calibration-and-Fairness.md)).
+2. **Mitigasi Bias dan Penjagaan Keadilan (*Fairness & Bias Management*):** Menghilangkan efek halo/tanduk (*halo/horns effect*), prasangka kedaerahan, dan memastikan santri dinilai berdasarkan indikator adab yang nyata tanpa diskriminasi.
+3. **Validitas dan Pengendalian Galat Pengukuran (*Validity, Reliability & Error Control*):** Menjaga rantai inferensi bukti agar tidak terjadi klaim berlebihan, serta menyadari batas fluktuasi pengukuran harian santri (dibahas rinci di [03-Validity-Reliability-and-Error.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/03-Validity-Reliability-and-Error.md)).
+4. **Tata Kelola dan Mitigasi Risiko Keputusan (*Governance & Risk Review*):** Membedakan standar pembuktian antara keputusan ringan harian dengan keputusan strategis transisi jenjang kemandirian (dibahas rinci di [04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)).
 
-## 16. Boundary Rules
+---
 
-Assessment Quality bukan:
+## 5. Keadilan Kontekstual dan Aksesibilitas (Fairness & Accessibility)
 
-- jaminan bahwa semua assessment benar;
-- universal validity certificate;
-- universal reliability certificate;
-- proof of fairness tanpa evidence;
-- proof of causality;
-- proof of intervention effectiveness;
-- ranking kualitas peserta;
-- pengganti professional judgment;
-- alasan untuk mengumpulkan data tanpa tujuan.
+Keadilan dalam ekosistem TUMBUH **bukan berarti menyamaratakan perlakuan (*blanket equality*)**, melainkan memberikan kesempatan yang setara bagi setiap santri untuk menunjukkan kapasitas adabnya sesuai dengan latar perkembangan masing-masing (*equitable opportunity*).
 
-**Decision:** Assessment Quality is the quality-governance layer for assessment use. Specific validity, reliability, fairness, calibration, and bias conclusions remain evidence-dependent and use-specific.
+### Area Peninjauan Aksesibilitas di Pesantren:
+- **Kemampuan Bahasa dan Komunikasi:** Santri baru dari luar daerah yang belum lancar berbahasa Indonesia baku atau bahasa Arab tidak boleh divonis "rendah adabnya" hanya karena gaya bicaranya singkat atau kaku.
+- **Tingkat Kemandirian Awal (Baseline Fitrah):** Santri yang sejak kecil terbiasa dilayani di rumah memerlukan kurva adaptasi yang berbeda untuk pembiasaan ranjang asrama dibandingkan santri yang sudah mandiri.
+- **Kondisi Kesehatan Fisik dan Sensoris:** Santri dengan penglihatan kurang atau stamina lemah memerlukan adaptasi yang wajar dalam tugas-tugas ketahanan fisik tanpa mengurangi penilaian atas kesungguhan niatnya (*himmah*).
+- **Keseimbangan Tuntutan dan Dukungan (*Demand vs. Support*):** Asesmen tidak boleh menuntut kemandirian tingkat J3 (Mandiri Penuh) apabila lingkungan pesantren belum menyediakan bimbingan pemodelan (*scaffolding*) yang memadai di tingkat J1 dan J2.
+
+---
+
+## 6. Kualitas Bukti vs. Kuantitas Data (Evidence Quality vs. Data Quantity)
+
+Salah satu godaan terbesar sistem modern adalah mengumpulkan data digital sebanyak-banyaknya (*big data fetishism*). TUMBUH menetapkan kaidah tegas:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM BUKTI PSIKOMETRI ISLAMI                        │
+│                                                                        │
+│       DATA BANYAK ≠ BUKTI BERMUTU                                      │
+│       (Data Quantity ≠ Evidence Quality)                               │
+│                                                                        │
+│   100 catatan centang otomatis tanpa konteks kalah bermutu dari         │
+│   3 catatan anekdotal mendalam yang merekam pergulatan batin santri.   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Data yang banyak sering kali justru menciptakan ilusi kepastian semu (*false sense of certainty*). Penjaminan mutu menuntut agar bukti yang dicatat adalah **perilaku kunci yang bermakna (*critical incidents*)**, relevan dengan tujuan intervensi, dan ditulis tanpa penghakiman emosional.
+
+---
+
+## 7. Penjaminan Mutu Asesmen Multi-Sumber (Multi-Source Quality)
+
+Ketika data dikumpulkan dari berbagai pihak (musyrif asrama, asatidz kelas, muhasabah santri, kawan sebaya, dan wali santri):
+1. **Tidak Ada "Gold Standard" Tunggal Mutlak:** Catatan musyrif bukan satu-satunya kebenaran mutlak yang menafikan suara santri atau pandangan orang tua.
+2. **Menghargai Divergensi Konteks:** Jika santri sangat sopan di hadapan kyai tetapi sering berselisih di kamar asrama, hal ini bukan berarti salah satu data palsu, melainkan bukti bahwa santri sedang menghadapi tekanan dinamika sosial di asrama.
+3. **Verifikasi Silang yang Proporsional:** Pertentangan antar-sumber data harus diselesaikan melalui forum tabayyun dan musyawarah asatidz, bukan dengan merata-ratakan skor secara mekanis.
+
+---
+
+## 8. Penjaminan Mutu Sistem Digital dan Kecerdasan Buatan (Digital & AI Quality)
+
+Apabila pesantren mengadopsi aplikasi digital atau modul analitik berbasis kecerdasan buatan (*AI-supported logbook*):
+
+- **Asal-Usul Data Wajib Jelas (*Data Provenance*):** Setiap data dalam sistem digital harus memiliki jejak pencatat (siapa musyrif yang memasukkan, kapan waktu pencatatan, dalam konteks peristiwa apa).
+- **Larangan Dehumanisasi Santri (*No Automated Profiling*):** Algoritma sistem digital dilarang keras melabeli santri dengan cap permanen (misal: "santri bermasalah", "anak berisiko gagal"). AI hanya bertindak sebagai asisten pengingat pola (*pattern recognition assistant*).
+- **Kewajiban Pengawasan Manusia (*Mandatory Human Oversight*):** Seluruh keputusan penting—khususnya rekomendasi bimbingan intensif Tier 2/Tier 3 atau penetapan jenjang kemandirian—**wajib diputuskan oleh musyawarah asatidz manusia**, bukan oleh algoritma komputer.
+- **Keterjelasan dan Akuntabilitas (*Explainability*):** Jika sistem analitik memberikan saran intervensi, sistem harus mampu menjelaskan alasan dan dasar bukti logisnya kepada dewan pengasuh.
+
+---
+
+## 9. Penyelarasan Mutu dengan Tingkat Risiko Keputusan (Risk-Aligned Quality)
+
+Standar ketelitian penjaminan mutu berbanding lurus dengan konsekuensi keputusan yang akan diambil:
+
+```text
+Tingkat Konsekuensi Keputusan Santri
+         │
+         ├─ TINGGI (High Stakes: Transisi Jenjang J1–J4, Sanksi Disiplin Berat, Tier 3)
+         │  └── Syarat: Triangulasi multi-sumber, review panel musyawarah,
+         │              sidang tabayyun, dan dokumen bukti logbook terlacak.
+         │
+         ├─ SEDANG (Medium Stakes: Intervensi Bimbingan Tier 2, Rotasi Kamar Asrama)
+         │  └── Syarat: Verifikasi pengamatan silang musyrif dan guru kelas.
+         │
+         └─ RENDAH (Low Stakes: Ceklis Kerapian Ranjang Harian, Evaluasi Piket)
+            └── Syarat: Observasi wajar musyrif kamar harian tanpa birokrasi rumit.
+```
+
+---
+
+## 10. Status Mutu Instrumen yang Jujur dan Anti-Overclaim
+
+Repositori TUMBUH melarang keras penggunaan istilah "tervalidasi" (*validated*) tanpa dasar pembuktian empiris yang terdokumentasi. Setiap instrumen atau rubrik wajib mencantumkan status mutunya secara jujur:
+
+| Status Mutu | Arti dan Batasan Penggunaan |
+| :--- | :--- |
+| **`Dirancang (Designed)`** | Instrumen baru selesai dirancang secara teoretis; belum pernah diuji coba di lapangan pesantren. |
+| **`Uji Coba Terbatas (Pilot Tested)`** | Telah diujicobakan pada 1–2 asrama percontohan untuk melihat keterbacaan bahasa dan kemudahan pakai musyrif. |
+| **`Dievaluasi Lokal (Locally Evaluated)`** | Telah digunakan satu semester penuh di pesantren mitra dan dievaluasi secara kualitatif oleh dewan asatidz. |
+| **`Didukung Empiris (Empirically Supported)`** | Memiliki dokumentasi konsistensi antar-musyrif (*inter-rater agreement*) yang baik dalam penggunaan nyata. |
+| **`Dievaluasi Psikometri (Psychometrically Evaluated)`** | Telah melalui analisis reliabilitas statistik dan validitas konstruk formal oleh tim peneliti pendidikan. |
+| **`Bukti Belum Memadai (Evidence Insufficient)`** | Instrumen masih menunjukkan kelemahan di lapangan dan belum boleh digunakan untuk keputusan penting. |
+
+---
+
+## 11. Pagar Batas Epistemik Penjaminan Mutu (Boundary Rules)
+
+Untuk menjaga kemurnian niat dan ruh tarbiyah pesantren, sistem penjaminan mutu menetapkan batas-batas mutlak:
+
+1. **Bukan Sertifikat Kesempurnaan Mutlak:** Label mutu bukan jaminan bahwa hasil asesmen pasti 100% benar; manusia tetap memiliki keterbatasan, sehingga ruang maaf dan pembaruan taubat harus selalu terbuka.
+2. **Bukan Peringkat Angka Kelulusan Akhlak:** Mutu asesmen tidak pernah bertujuan menyusun ranking santri "terbaik hingga terburuk" dari skala 1 sampai 100.
+3. **Bukan Pengganti Kebijaksanaan Ruhani Guru (*Wisdom & Bashirah*):** Dokumen mutu dan angka psikometrik hanyalah cermin pembantu; firasat mukmin dan kasih sayang asatidz tetap menjadi ruh utama pendidikan Islam.
+4. **Bukan Alasan Membebani Musyrif dengan Administrasi Berlebihan:** Penjaminan mutu harus dirancang praktis dan realistis agar musyrif tidak kehabisan waktu mengasuh hanya demi mengisi formulir audit.
+
+---
+
+> **Keputusan Mutu:** Penjaminan mutu asesmen (*Assessment Quality Architecture*) adalah payung tata kelola etis dan metodologis bagi seluruh aktivitas penilaian TUMBUH v2.0.0. Setiap klaim validitas, reliabilitas, dan keadilan wajib berpijak pada bukti empiris lapangan yang terikat pada konteks dan tujuan pembinaan santri.

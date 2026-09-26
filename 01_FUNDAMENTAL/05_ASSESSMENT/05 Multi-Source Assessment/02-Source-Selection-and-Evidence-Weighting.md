@@ -1,4 +1,4 @@
-# Pemilihan Sumber Bukti dan Penimbangan Bobot Data (Source Selection & Evidence Weighting)
+# Pemilihan Sumber Bukti dan Penimbangan Bobot Data Kontekstual (Source Selection and Evidence Weighting)
 
 **Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
 **Epistemic Status:** Conceptually Specified; Empirically Provisional  
@@ -11,70 +11,105 @@
 ---
 
 > ### Intisari untuk Pendidik & Musyrif
-> **"Banyaknya data bukan jaminan kebenaran jika sumbernya tidak relevan."**  
-> Mengumpulkan informasi asesmen santri tidak boleh menjadi ajang perlombaan mengoleksi kertas formulir. Bertanya kepada teman sekamar mengenai apakah seorang santri rajin belajar tafsir tentu kurang tepat dibandingkan melihat langsung catatan portofolio belajarnya di kelas.  
-> Dokumen ini mengatur **cara memilih kombinasi sumber bukti yang paling relevan (*minimum sufficient composition*)** dan **tata cara menimbang bobot informasi secara kualitatif maupun kuantitatif**: bagaimana memadukan suara santri (*Self*), mata musyrif (*Observer*), kesaksian kawan (*Peer*), dan unjuk amal nyata (*Performance/Portfolio*) secara adil tanpa terjebak dalam pemungutan suara mayoritas (*voting*) yang dangkal.
+> **Banyaknya data bukan jaminan kebenaran jika sumbernya tidak relevan.**  
+> Mengumpulkan informasi asesmen santri tidak boleh menjadi ajang perlombaan mengoleksi kertas formulir. Bertanya kepada teman sekamar mengenai apakah seorang santri rajin belajar tafsir tentu kurang tepat dibandingkan memeriksa langsung buku catatan portofolio belajarnya di kelas.  
+> Dokumen ini menetapkan kaidah **Komposisi Sumber Minimal yang Memadai (*Minimum Sufficient Composition*)** dan **tata cara menimbang bobot informasi secara kontekstual**: bagaimana memadukan suara nurani santri (*Self*), mata pengamatan musyrif (*Observer*), kesaksian kawan sekelompok (*Peer*), serta unjuk amal nyata (*Performance/Portfolio*) secara adil tanpa terjebak dalam pemungutan suara mayoritas (*voting*) yang menyesatkan.
 
 ---
 
-## 1. Lima Sumber Bukti Triangulasi Pesantren (The 5 Core Sources)
+## 1. Kaidah Pemilihan Sumber Berbasis Tujuan Tarbiyah
 
-Dalam ekosistem pesantren 24 jam TUMBUH, triangulasi bertumpu pada lima pilar sumber yang saling melengkapi:
-
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                   LIMA SUMBER BUKTI ASESMEN TUMBUH                     │
-├─────────────────┬──────────────────────────────────────────────────────┤
-│ 1. DIRI (Self)  │ Refleksi batin, kesadaran diri santri saat muhasabah │
-├─────────────────┼──────────────────────────────────────────────────────┤
-│ 2. PENGAMAT     │ Catatan observasi berkala Musyrif Asrama dan Asatidz │
-│    (Observer)   │ pengampu materi madrasah 24 jam                      │
-├─────────────────┼──────────────────────────────────────────────────────┤
-│ 3. SEBAYA (Peer)│ Umpan balik kawan sekamar / rekan satu kelompok piket│
-├─────────────────┼──────────────────────────────────────────────────────┤
-│ 4. KINERJA      │ Tindakan nyata saat memimpin zikir, piket, mengantre │
-│    (Performance)│ makan, atau menghadapi ujian hafalan                 │
-├─────────────────┼──────────────────────────────────────────────────────┤
-│ 5. PORTOFOLIO   │ Kumpulan karya tulisan, jurnal adab, dan rekam mutqin│
-│    (Portfolio)  │ yang terhimpun sepanjang kurun waktu belajar          │
-└─────────────────┴──────────────────────────────────────────────────────┘
-```
-
----
-
-## 2. Logika Pemilihan Sumber yang Relevan (Purpose-Driven Selection)
-
-Pemilihan kombinasi sumber wajib mematuhi alur hierarki:
+Pemilihan sumber bukti tidak boleh didasarkan pada kemudahan mengumpulkan data semata, melainkan wajib mengikuti alur logika terarah:
 
 ```text
-Kapasitas yang Hendak Dipahami (Core Construct)
-                 ↓
-Pertanyaan Asesmen Spesifik (Intended Inference)
-                 ↓
-Siapa yang Memiliki Akses Pengamatan Paling Nyata?
-                 ↓
+Kapasitas Inti yang Hendak Dipahami (Core Construct)
+                         ↓
+Pertanyaan Asesmen yang Ingin Dijawab (Intended Inference)
+                         ↓
+Siapa yang Memiliki Akses Pengamatan Paling Nyata & Wajar?
+                         ↓
+Tingkat Risiko dan Dampak Keputusan Tarbiyah
+                         ↓
 Komposisi Sumber Minimal yang Memadai (Minimum Sufficient Composition)
 ```
 
-> **Kaidah Efisiensi Pedagogis:**  
-> Jangan membebani santri dan asatidz dengan mewajibkan seluruh 5 sumber untuk setiap perilaku kecil. Gunakan sumber tambahan hanya jika data yang ada memiliki keraguan atau berdampak pada keputusan besar (seperti transisi jenjang J1–J4 atau penanganan kasus khusus).
+**Kaidah Efisiensi:** Jika satu atau dua sumber sudah cukup untuk memberikan gambaran yang jelas dan meyakinkan untuk evaluasi formatif harian, jangan memaksakan menambah sumber lain yang hanya akan membebani santri dan asatidz.
 
 ---
 
-## 3. Tata Kelola Penimbangan Bobot Data (Evidence Weighting)
+## 2. Prinsip Komposisi Sumber Minimal yang Memadai
+
+TUMBUH membagi komposisi sumber berdasarkan jenjang risiko keputusan:
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                  PANTANGAN BESAR INTEGRASI DATA                        │
-│                                                                        │
-│       JUMLAH SUMBER TERBANYAK ≠ KEBENARAN MUTLAK                       │
-│       (Majority ≠ Truth)                                               │
-│                                                                        │
-│       RATA-RATA MATEMATIS ≠ KAPASITAS HAKIKI SANTRI                    │
-│       (Average Score ≠ Soul Capacity)                                  │
-└────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│           KOMPOSISI SUMBER MINIMAL BERDASARKAN RISIKO        │
+├────────────────────┬────────────────────┬────────────────────┤
+│ TINGKAT KEPUTUSAN  │ KOMPOSISI SUMBER   │ CONTOH PENERAPAN   │
+├────────────────────┼────────────────────┼────────────────────┤
+│ Keputusan Ringan   │ Cukup 1 Sumber     │ Catatan saku piket │
+│ (Umpan Balik Rutin)│ (Musyrif Kamar)    │ musyrif kamar      │
+├────────────────────┼────────────────────┼────────────────────┤
+│ Keputusan Sedang   │ Minimal 2 Sumber   │ Guru Madrasah +    │
+│ (Evaluasi Bulanan) │ (Observer + Portf) │ Lembar Mutaba'ah   │
+├────────────────────┼────────────────────┼────────────────────┤
+│ Keputusan Transisi │ Minimal 3 Sumber   │ Musyrif + Santri   │
+│ (Naik Jenjang J3)  │ (Obs + Self + Peer)│ + Kawan Regu Piket │
+├────────────────────┼────────────────────┼────────────────────┤
+│ Keputusan Berat    │ Wajib 4 - 5 Sumber │ Musyrif + Wawancara│
+│ (Kasus Khusus/BK)  │ (Multi-Sumber Penuh│ BK + Portofolio    │
+└────────────────────┴────────────────────┴────────────────────┘
 ```
 
-1. **Pembobotan Kontekstual:** Jika menilai adab tidur dan bangun malam, pengamatan musyrif asrama memiliki bobot validitas lebih tinggi daripada guru madrasah pagi.
-2. **Integrasi Kualitatif:** Lebih mengutamakan sintesis narasi perkembangan yang koheren daripada sekadar menggabungkan angka-angka mentah.
-3. **Keterbukaan atas Ketidakpastian:** Bila suara santri bertolak belakang dengan laporan rekan sebaya, catat ketidakpastian tersebut sebagai ruang tabayyun, bukan langsung divonis bohong.
+---
+
+## 3. Matriks Pembobotan Bukti Kontekstual (*Evidence Weighting*)
+
+Setiap sumber memiliki bobot pembuktian yang berbeda bergantung pada jenis situasi yang dinilai:
+
+| Dimensi Perilaku Santri | Sumber Berbobot Utama (Primer) | Sumber Berbobot Pendukung (Sekunder) | Alasan Pedagogis Pembobotan |
+| :--- | :--- | :--- | :--- |
+| **Adab Tidur & Bangun Malam** | Musyrif Asrama (*Observer*) | Jurnal Muhasabah Diri (*Self*) | Musyrif memiliki akses pengamatan fisik langsung di kamar asrama pada dini hari. |
+| **Interaksi Sosial & Ukhuwah** | Kawan Regu Piket (*Peer*) | Catatan Musyrif (*Observer*) | Teman sebaya merasakan langsung apakah santri kooperatif, peduli, atau egois saat kerja bakti. |
+| **Ketekunan Belajar Kitab** | Guru Madrasah & Portofolio Catatan | Refleksi Mandiri Santri (*Self*) | Portofolio tulisan dan kesungguhan mencatat mencerminkan ketekunan kognitif yang otentik. |
+| **Kejujuran & Ketulusan Niat** | Refleksi Mandiri Santri (*Self*) | Kesaksian Kawan Terdekat (*Peer*) | Niat berada di hati; pengakuan jujur santri dalam sesi bimbingan empat mata memiliki bobot terdalam. |
+| **Keterampilan Ibadah Praktis** | Unjuk Amal Langsung (*Performance*) | Catatan Harian Musyrif | Membaca doa wudhu atau menjadi imam shalat wajib diuji lewat unjuk kerja nyata di lapangan. |
+
+---
+
+## 4. Bahaya Pemungutan Suara Terbanyak (*The Trap of Majority Voting*)
+
+Dalam dunia tarbiyah pesantren, berlaku hukum mutlak:
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                  HUKUM KEADILAN PENIMBANGAN DATA             │
+│                                                              │
+│       JUMLAH SUARA TERBANYAK  ≠  KEBENARAN MUTLAK            │
+│       (Majority Opinion ≠ Absolute Truth)                    │
+│                                                              │
+│  DILARANG MENGGUNAKAN SISTEM VOTING UNTUK MENILAI AKHLAK!    │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### Mengapa Voting Berbahaya di Asrama?
+Ada kalanya seorang santri yang istiqamah menegakkan sunnah shalat berjamaah justru dijauhi atau diberi laporan negatif oleh kawan-kawan sekamarnya yang malas. Jika asatidz mengambil keputusan berdasarkan suara mayoritas kamar, maka santri yang saleh tersebut akan terzalimi oleh kedengkian kelompok (*peer pressure / scapegoating*).
+
+Oleh karena itu, satu kesaksian jujur yang didukung oleh bukti faktual musyrif memiliki bobot yang jauh lebih tinggi daripada sepuluh laporan kawan yang diwarnai sentimen kelompok.
+
+---
+
+## 5. Integrasi Kualitatif Naratif vs Rata-Rata Aritmatika
+
+TUMBUH melarang penggabungan skor multi-sumber melalui perhitungan rata-rata matematis sederhana:
+- ❌ **Kekeliruan:** Musyrif memberi nilai 80, santri menilai 60, kawan menilai 70, lalu dirata-rata menjadi (80 + 60 + 70)/3 = **70**.
+- ✅ **Pendekatan TUMBUH:** Membaca narasi di balik angka: *"Santri dinilai sangat mandiri oleh musyrif (J3), namun santri sendiri merasa masih cemas dan ragu akan kemampuannya (J2). Hal ini menunjukkan santri memiliki sifat tawadhu' yang tinggi atau sedang mengalami sindrom rasa kurang percaya diri yang membutuhkan dorongan afirmasi dari wali asuh."*
+
+Sintesis naratif kualitatif inilah yang menghasilkan bimbingan yang menyentuh jiwa.
+
+---
+
+## 6. Kalimat Penutup
+
+> **Menimbang bukti laksana menimbang emas di neraca keadilan.**  
+> Bukan banyaknya batu timbangan yang menentukan nilai, melainkan kemurnian emas yang diletakkan di atas piringan neraca tersebut. Pendidik yang adil selalu menimbang setiap kesaksian dengan neraca ilmu, ketakwaan, dan empati tarbiyah.

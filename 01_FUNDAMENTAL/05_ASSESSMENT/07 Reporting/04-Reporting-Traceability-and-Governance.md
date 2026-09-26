@@ -1,77 +1,109 @@
-# Reporting Traceability and Governance
+# Keterlacakan Rekam Jejak dan Tata Kelola Etika Pelaporan (Reporting Traceability and Governance)
 
-**Status:** DESIGNED — v2.0.0 / Assessment Reporting
-**Epistemic status:** Conceptually specified; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
+**Dokumen Terkait:**  
+- [01-Reporting-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/01-Reporting-Architecture.md)  
+- [02-Report-Structure-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/02-Report-Structure-and-Evidence-Interpretation.md)  
+- [03-Audience-Decision-Support-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/03-Audience-Decision-Support-and-Access.md)  
+- [05-Sample-Narrative-Development-Report.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/05-Sample-Narrative-Development-Report.md)
 
-## 1. Purpose
+---
 
-Setiap laporan yang digunakan untuk keputusan penting perlu dapat ditelusurkan kembali ke evidence dan proses interpretation yang mendasarinya.
+> ### Intisari untuk Pendidik & Musyrif
+> **Setiap kalimat dalam laporan perkembangan santri harus memiliki sanad pembuktian yang dapat dipertanggungjawabkan.**  
+> Ketika seorang musyrif menulis di rapor bahwa santri *"sering berselisih dengan teman sekamar"*, kalimat tersebut tidak boleh lahir dari rumor atau rasa jengkel pribadi. Musyrif harus mampu menunjukkan tanggal kejadiannya, siapa saja saksinya, bagaimana konteks peristiwanya, dan langkah bimbingan apa yang telah dilakukan.  
+> Dokumen ini mengatur **rantai keterlacakan laporan (*traceability chain*)**, **tata kelola privasi keluarga**, **kendali penggunaan kecerdasan buatan (AI) dalam menyusun draf**, serta **protokol hak ralat (*rectification*)** jika di kemudian hari ditemukan kekeliruan pencatatan data santri.
 
-## 2. Traceability Chain
+---
 
-```text
-Report ID
-   ↓
-Assessment Purpose
-   ↓
-Construct ID
-   ↓
-Evidence Source(s)
-   ↓
-Evidence Record(s)
-   ↓
-Interpretation
-   ↓
-Uncertainty / Limitation
-   ↓
-Decision
-   ↓
-Next Review
-```
+## 1. Rantai Keterlacakan Pelaporan Kanonikal (*Reporting Traceability Chain*)
 
-## 3. Minimum Reporting Record
-
-Record pelaporan setidaknya dapat mengidentifikasi:
-
-- tujuan assessment;
-- construct/functioning;
-- waktu dan context;
-- sumber evidence;
-- evidence yang menjadi dasar;
-- interpretation;
-- uncertainty/limitation;
-- decision bila ada;
-- pihak yang berwenang;
-- next review bila relevan.
-
-## 4. Governance
-
-Reporting mengikuti governance Assessment, Evidence, Multi-Source Assessment, Monitoring, Construct Registry, dan Claim Registry.
-
-Klaim dalam laporan harus tetap berada dalam scope evidence dan epistemic status yang sesuai.
-
-## 5. Privacy and Data Governance
-
-Traceability bukan alasan untuk menyimpan semua data. Record harus mengikuti purpose limitation, data minimization, privacy, access control, retention yang sesuai, dan safeguarding.
-
-## 6. AI and Provenance
-
-Jika AI membantu menyusun atau merangkum laporan, provenance perlu dapat diketahui dan source evidence tetap dapat diperiksa.
+Setiap lembar laporan perkembangan santri wajib memiliki keterlacakan utuh ke hulu data pengamatannya:
 
 ```text
-AI Draft / Summary
-        ↓
-Human Review
-        ↓
-Final Report
+Nomor Dokumen Laporan Resmi (Report ID)
+                 ↓
+Tujuan Penyusunan Laporan (Evaluasi Semester / Transisi Jenjang)
+                 ↓
+Kapasitas Inti yang Dinilai (Construct ID: CC-01 s/d CC-08)
+                 ↓
+Sumber Data Pengamatan (Observer Logbook, Self, Peer, Portfolio)
+                 ↓
+Rekam Bukti Faktual Asli (Tanggal, Jam, Setting Lingkungan)
+                 ↓
+Proses Penelaahan Bersama (Evidence Review & Tabayyun)
+                 ↓
+Catatan Keterbatasan Data (Uncertainty & Context Limitation)
+                 ↓
+Kesimpulan Rekomendasi Resmi (Signed by Musyrif & Mudir)
 ```
 
-## 7. Correction and Review
+Rantai keterlacakan ini melindungi santri dari fitnah dan melindungi asatidz dari tuduhan bertindak zhalim atau pilih kasih.
 
-Jika ditemukan kesalahan evidence, interpretation, atau reporting, mekanisme koreksi dan review harus tersedia sesuai governance yang berlaku.
+---
 
-## 8. Boundary
+## 2. Sembilan Elemen Rekam Jejak Pelaporan Minimal
 
-Traceability tidak berarti semua proses harus terdokumentasi secara berlebihan. Tujuannya adalah menjaga auditability yang proporsional dan memungkinkan pembaca berwenang memahami asal suatu kesimpulan.
+Arsip laporan yang disimpan ma'had sekurang-kurangnya mendokumentasikan sembilan informasi:
 
-**Decision:** Reporting governance menjaga agar laporan tetap traceable, scoped, reviewable, dan aman digunakan.
+```text
+┌──────────────────────────────────────────────────────────────┐
+│             SEMBILAN ELEMEN REKAM ARSIP PELAPORAN            │
+├────┬────────────────────────┬────────────────────────────────┤
+│ 1  │ Nomor Registrasi Santri│ NIS dan nama lengkap santri    │
+│ 2  │ Periode Pelaporan      │ Semester dan tahun ajaran      │
+│ 3  │ Kapasitas Fokus        │ Rujukan resmi CC-01 s/d CC-08  │
+│ 4  │ Rujukan Logbook Asal   │ Buku catatan saku musyrif      │
+│ 5  │ Ringkasan Narasi Adab  │ Narasi capaian J1 s/d J4       │
+│ 6  │ Catatan Keterbatasan   │ Aspek yang belum teramati utuh │
+│ 7  │ Rekomendasi Sinergi    │ Saran untuk keluarga di rumah  │
+│ 8  │ Otoritas Penanda Tangan│ Nama musyrif dan pimpinan ma'had│
+│ 9  │ Tanggal Sidang Review  │ Kapan hasil disahkan majelis   │
+└────┴────────────────────────┴────────────────────────────────┘
+```
+
+---
+
+## 3. Perlindungan Privasi Data Keluarga (*Data Governance & Privacy*)
+
+Keterlacakan data **bukanlah pembenaran untuk mengumpulkan segala hal tanpa batas**. Tata kelola pelaporan wajib mematuhi:
+1. **Prinsip Pembatasan Tujuan (*Purpose Limitation*):** Laporan hanya mencatat hal-hal yang berkaitan langsung dengan proses pendidikan dan pembinaan adab santri.
+2. **Prinsip Minimasi Data (*Data Minimization*):** Jangan mencantumkan riwayat utang piutang orang tua, aib keluarga di rumah, atau konflik rumah tangga dalam dokumen laporan santri.
+3. **Penyimpanan Aman:** Berkas laporan digital disimpan dengan enkripsi sandi; berkas cetak disimpan dalam map tertutup di kantor pengasuhan.
+
+---
+
+## 4. Kendali Penggunaan AI dalam Penyusunan Laporan
+
+Jika aplikasi ma'had memanfaatkan teknologi AI untuk membantu merangkum data catatan harian musyrif menjadi draf narasi:
+
+```text
+Draf Narasi dari Sistem Digital / AI
+                 ↓
+Penelaahan & Verifikasi Fakta oleh Musyrif Pembina (Human Review)
+                 ↓
+Penyelarasan Rasa Kasih Sayang & Koreksi Halusinasi Mesin
+                 ↓
+Pengesahan Final oleh Mudir Pengasuhan Santri
+```
+
+- Dilarang mempercayai mentah-mentah draf yang dihasilkan AI tanpa memeriksa buku catatan aslinya.
+- AI tidak boleh diberi wewenang menjatuhkan vonis karakter santri.
+
+---
+
+## 5. Protokol Hak Ralat dan Koreksi Data (*Rectification Protocol*)
+
+Manusia adalah tempatnya salah dan lupa. Jika orang tua atau santri menemukan kekeliruan fakta dalam laporan:
+1. **Penyampaian Tabayyun Santun:** Wali santri mengajukan klarifikasi tertulis atau lisan kepada musyrif pembina kamar.
+2. **Pemeriksaan Silang Dokumen Asli:** Tim pengasuhan membuka kembali rekam jejak logbook dan mewawancarai saksi yang bersangkutan.
+3. **Penerbitan Surat Ralat Resmi:** Jika terbukti terjadi kekeliruan pengamatan atau salah ketik nama, lembaga menerbitkan lembar ralat resmi dengan permohonan maaf yang beradab.
+
+---
+
+## 6. Kalimat Penutup
+
+> **Keterlacakan laporan adalah cermin kejujuran sanad tarbiyah.**  
+> Ketika setiap kalimat yang kita tulis dapat dipertanggungjawabkan kebenarannya, tidak ada satu pun jiwa yang dizalimi, dan seluruh ikhtiar pendidikan kita bernilai ibadah yang murni di hadapan Allah Ta'ala.

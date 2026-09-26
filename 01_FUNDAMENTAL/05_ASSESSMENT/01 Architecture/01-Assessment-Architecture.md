@@ -1,412 +1,322 @@
-# Assessment Architecture
+# Arsitektur Asesmen Perkembangan Santri (Assessment Architecture)
 
-## Status
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/README.md)  
+**Dokumen Terkait:**  
+- [03-Construct-and-Inference-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/03-Construct-and-Inference-Architecture.md)  
+- [04-Evidence-and-Interpretation-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/04-Evidence-and-Interpretation-Architecture.md)  
+- [05-Decision-and-Proportionality-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/05-Decision-and-Proportionality-Architecture.md)  
+- [06-Context-Support-and-Fairness-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/06-Context-Support-and-Fairness-Architecture.md)  
+- [07-Assessment-Monitoring-and-Reassessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/07-Assessment-Monitoring-and-Reassessment-Architecture.md)  
+- [08-Assessment-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/08-Assessment-Traceability-and-Governance.md)  
+- [Assessment-Integration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/Assessment-Integration.md)  
+- [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)
 
-**DESIGNED — v2.0.0 / Assessment architecture**
+---
 
-**Epistemic status:** conceptually specified; empirically provisional.
+> ### Intisari untuk Pendidik & Musyrif
+> **Asesmen dalam TUMBUH bukanlah mesin pembuat vonis angka raport, melainkan kompas pengasuhan yang memandu langkah tarbiyah.**  
+> Di banyak sekolah, asesmen dimulai dan diakhiri dengan pertanyaan sempit: *"Berapa nilai ujian anak ini? Dia ranking berapa?"* Pola seperti ini mereduksi jiwa santri yang luas menjadi sekadar angka mati di atas kertas.  
+> Di pesantren TUMBUH, asesmen adalah **seni memahami pertumbuhan adab dan kapasitas santri secara utuh selama 24 jam**:  
+> *"Apa potensi adab yang sedang bertunas pada anak ini? Bantuan seperti apa yang saat ini ia butuhkan dari musyrifnya? Dan bukti nyata apa di kamar, kelas, serta masjid yang membenarkan keputusan pembinaan kita?"*  
+> Asesmen yang beradab tidak mencari-cari kesalahan untuk mempermalukan santri, melainkan **mengumpulkan bukti yang cukup (*evidence*), membacanya secara bijaksana dengan tabayyun (*interpretation*), dan menggunakannya untuk menolong pertumbuhan anak dengan kasih sayang yang terukur (*proportionate support*)**.
 
-## 1. Purpose
+---
 
-Assessment TUMBUH dirancang untuk membantu memahami **functioning dan perkembangannya pada construct tertentu**, kemudian menggunakan evidence tersebut untuk mengambil keputusan dukungan secara proporsional.
+## 1. Hakikat dan Tujuan Asesmen TUMBUH
 
-Assessment bukan tujuan akhir. Nilai assessment terletak pada kualitas pertanyaan yang diajukan, kualitas evidence yang dikumpulkan, ketepatan interpretasi, dan kehati-hatian dalam menggunakan hasilnya.
+Asesmen dalam ekosistem TUMBUH v2.0.0 dirancang untuk memahami **keberfungsian nyata (*observable functioning*) santri pada 8 Kapasitas Inti**, lalu menggunakan bukti tersebut untuk memberikan bimbingan dan penyesuaian bantuan (*scaffolding*) secara adil dan proporsional.
 
-Dengan demikian, assessment tidak dimulai dari pertanyaan **“berapa nilainya?”**, tetapi dari pertanyaan **“apa yang ingin kita pahami, bukti seperti apa yang diperlukan, dan keputusan apa yang secara sah dapat dibuat dari bukti tersebut?”**
+Nilai utama asesmen terletak pada:
+1. **Kualitas Pertanyaan Pedagogis:** Kejelasan mengenai apa yang hendak dipahami dari perkembangan jiwa santri.
+2. **Kualitas Bukti 24 Jam:** Keautentikan data pengamatan yang diperoleh dari ritme hidup nyata di asrama, masjid, dan madrasah.
+3. **Ketepatan Pembacaan Konteks:** Kepekaan dalam melihat situasi, beban tugas, dan kelelahan santri saat pengamatan dilakukan.
+4. **Kehati-hatian dalam Mengambil Keputusan:** Keberanian menahan diri agar tidak tergesa-gesa memberi label permanen pada anak.
 
-## 2. Canonical Assessment Model
+Dengan demikian, asesmen tidak dimulai dari pertanyaan *"Berapa skornya?"*, melainkan dari kesadaran: **"Apa yang hendak kita bantu, bukti apa yang sah membuktikannya, dan bagaimana keputusan ini memuliakan martabat santri?"**
 
-```text
-Construct
-    ↓
-Intended Inference
-    ↓
-Observable Functioning / Indicator
-    ↓
-Evidence Collection
-    ↓
-Evidence Review
-    ↓
-Scoped Interpretation
-    ↓
-Decision
-    ↓
-Monitoring / Reassessment
-```
+---
 
-Setiap bagian mempunyai fungsi berbeda:
+## 2. Model Kanonikal Asesmen TUMBUH (The Canonical Assessment Model)
 
-- **Construct** — apa yang hendak dipahami.
-- **Intended Inference** — kesimpulan apa yang ingin dibuat dari evidence.
-- **Observable Functioning / Indicator** — aspek functioning yang dapat menjadi dasar pengumpulan evidence.
-- **Evidence Collection** — bagaimana evidence diperoleh.
-- **Evidence Review** — pemeriksaan kecukupan, kualitas, konteks, dan konsistensi evidence.
-- **Scoped Interpretation** — interpretasi yang dibatasi oleh evidence yang tersedia.
-- **Decision** — tindakan atau penyesuaian yang relevan dengan tujuan assessment.
-- **Monitoring / Reassessment** — pemeriksaan kembali ketika kondisi, support, demand, atau evidence berubah.
-
-Urutan ini adalah arsitektur governance assessment, bukan prosedur teknis yang harus selalu dilakukan dengan bentuk identik.
-
-## 3. Construct-First Principle
-
-Assessment harus mengikuti construct, bukan sebaliknya.
+Setiap proses asesmen substantif di pesantren TUMBUH wajib melewati siklus delapan langkah terpadu berikut:
 
 ```text
-Construct
-   ↓
-Functional Object / Dimension
-   ↓
-Relevant Functioning
-   ↓
-Evidence Requirement
-   ↓
-Assessment Method
+1. Kapasitas Inti Sasaran (Core Construct: CC-01 s/d CC-08)
+                          ↓
+2. Tujuan Inferensi Spesifik (Intended Pedagogical Inference)
+                          ↓
+3. Indikator Keberfungsian Nyata 24 Jam (Observable Indicators)
+                          ↓
+4. Pengumpulan Bukti Multi-Sumber (Evidence Collection: Self, Observer, Peer, Task, Portfolio)
+                          ↓
+5. Penelaahan Mutu & Tabayyun Data (Evidence Review & Context Check)
+                          ↓
+6. Penafsiran Terbatas Sesuai Lingkup Bukti (Scoped Interpretation)
+                          ↓
+7. Penetapan Keputusan Pembinaan (Proportionate Decision: Support / Adjust / Trial)
+                          ↓
+8. Pemantauan Lanjutan & Evaluasi Ulang (Monitoring & Reassessment)
 ```
 
-Instrumen yang tersedia tidak boleh menjadi alasan untuk mendefinisikan ulang construct agar mudah diukur.
+### Penjelasan Fungsi Tiap Komponen:
+- **Kapasitas Inti (*Construct*):** Ranah adab atau keterampilan yang ingin dipahami (misal: CC-01 Regulasi Diri, CC-04 Kolaborasi).
+- **Tujuan Inferensi (*Intended Inference*):** Batas pertanyaan yang hendak dijawab (misal: *"Apakah santri sudah mampu bangun shubuh mandiri tanpa dibangunkan fisik?"*).
+- **Indikator Teramati (*Observable Indicator*):** Tindakan konkret yang dapat dilihat mata atau didengar telinga.
+- **Pengumpulan Bukti (*Evidence Collection*):** Perekaman data melalui catatan saku musyrif, lembar muhasabah, dan unjuk amal.
+- **Penelaahan Bukti (*Evidence Review*):** Pemeriksaan keabsahan data, apakah ada bias rater atau pengaruh kondisi khusus (misal: sakit).
+- **Penafsiran Berlingkup (*Scoped Interpretation*):** Kesimpulan yang sah ditarik tanpa melebih-lebihkan atau menghakimi watak batin anak.
+- **Keputusan Pembinaan (*Decision*):** Tindakan nyata musyrif (menyesuaikan jadwal tidur, memberi amanah baru, atau menambah pendampingan).
+- **Pemantauan Lanjutan (*Monitoring*):** Memastikan santri beradaptasi dengan baik dan siap dievaluasi kembali secara berkala.
 
-Construct juga tidak boleh diperluas hanya karena suatu indikator mudah diamati.
+---
 
-## 4. Intended Inference
+## 3. Prinsip Mengutamakan Konstruk (Construct-First Principle)
 
-Setiap assessment harus memiliki tujuan inferensi yang cukup jelas.
-
-Contoh jenis pertanyaan:
-
-- Bagaimana functioning saat ini pada aspek tertentu?
-- Apakah terdapat perubahan functioning dari waktu ke waktu?
-- Dukungan seperti apa yang sedang dibutuhkan?
-- Apakah suatu pengalaman belajar atau dukungan perlu disesuaikan?
-- Apakah terdapat evidence yang cukup untuk mempertimbangkan transfer atau maintenance?
-
-Pertanyaan tersebut tidak otomatis menghasilkan klaim tentang keseluruhan pribadi, kapasitas global, sebab-akibat, atau masa depan seseorang.
-
-**Inference scope tidak boleh melampaui evidence scope.**
-
-## 5. Evidence Architecture
-
-Evidence dapat berasal dari berbagai sumber sesuai construct dan tujuan inferensi.
-
-TUMBUH mengenali sumber utama:
+Asesmen wajib tunduk pada hakikat kapasitas yang diukur, bukan pada kemudahan alat ukur semata:
 
 ```text
-Self
-Observer
-Peer
-Performance
-Portfolio
+Kapasitas Inti (Construct)
+           ↓
+Objek & Dimensi Keberfungsian (Functional Dimensions)
+           ↓
+Kebutuhan Bukti Nyata (Evidence Requirement)
+           ↓
+Metode Pengamatan yang Sesuai (Assessment Method)
 ```
 
-Tidak ada satu sumber yang otomatis menjadi **gold standard** untuk semua capacity. Perbedaan antar sumber juga tidak otomatis berarti salah satu sumber salah. Discrepancy dapat menjadi informasi yang perlu ditabayyun dan dibaca bersama konteks.
+> **Peringatan Metodologis:**  
+> Dilarang menyederhanakan definisi kapasitas hanya agar mudah dites dengan kertas ujian!  
+> Adab tawadhu' atau amanah tidak bisa diukur semata-mata dengan soal pilihan ganda fiqih. Bila suatu adab hanya bisa dilihat dalam interaksi asrama 24 jam, maka instrumen pengamatan asramalah yang wajib digunakan.
 
-Pemilihan sumber mempertimbangkan:
+---
 
-- construct target;
-- intended inference;
-- konteks;
-- tuntutan yang dihadapi;
-- kondisi support;
-- aksesibilitas;
-- kualitas dan keterbatasan sumber.
+## 4. Ruang Lingkup Inferensi (Inference Scope ≤ Evidence Scope)
 
-## 6. Performance, Capacity, and Growth
-
-Assessment harus menjaga beberapa batas dasar:
+Sebuah kesimpulan asesmen **tidak boleh melompat lebih jauh daripada bukti yang benar-benar dimiliki**:
 
 ```text
-Performance ≠ Capacity
-Capacity ≠ Growth
-Score ≠ Capacity
-Score ≠ Growth
-Single Observation ≠ Capacity Change
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM BATAS KESIMPULAN ASESMEN                       │
+│                                                                        │
+│       LINGKUP KESIMPULAN HARUS ≤ LINGKUP BUKTI YANG TERSEDIA           │
+│       (Inference Scope Must Never Exceed Evidence Scope)               │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Performance adalah apa yang tampak pada kondisi tertentu. Capacity merupakan construct yang lebih luas dalam Core Capacity Architecture. Growth merupakan perubahan yang perlu ditelusuri melalui evidence dari waktu ke waktu.
+- **Contoh Pelanggaran Batas:** Musyrif melihat santri lupa merapikan sandal di masjid, lalu menyimpulkan: *"Santri ini wataknya fasik dan tidak punya masa depan di pondok."* Ini adalah lompatan inferensi yang zalim dan tidak sah.
+- **Penafsiran Sah TUMBUH:** *"Pada pengamatan hari ini setelah shalat Ashar, santri belum meletakkan sandal di rak. Diperlukan pengingat santun untuk memperkuat kebiasaan tertib sarana ibadah."*
 
-Karena itu, satu performa baik atau buruk tidak dengan sendirinya membuktikan perubahan kapasitas.
+---
 
-## 7. Context and Support
+## 5. Arsitektur Bukti Multi-Sumber 24 Jam (Multi-Source Evidence)
 
-Functioning harus dibaca bersama kondisi yang melingkupinya ketika kondisi tersebut relevan terhadap inferensi.
-
-Assessment dapat mencatat:
-
-- konteks;
-- tuntutan;
-- bentuk dan tingkat support;
-- kondisi lingkungan;
-- kesempatan praktik;
-- hambatan atau accessibility needs;
-- variasi situasi.
-
-Support bukan sekadar “dikurangi agar dianggap berkembang”. Kebutuhan support harus dibaca sesuai fungsi, keselamatan, konteks, dan tujuan pengembangan.
-
-## 8. Multi-Source Assessment
-
-Multi-source assessment digunakan ketika beberapa sumber memberikan informasi yang saling melengkapi atau diperlukan untuk meningkatkan kualitas inferensi.
-
-Prinsipnya:
+TUMBUH tidak mempercayai satu sudut pandang tunggal. Kehidupan santri dipotret secara adil dari lima jendela pengamatan:
 
 ```text
-Multiple Sources
-      ↓
-Compare / Integrate
-      ↓
-Contextual Review
-      ↓
-Scoped Interpretation
+┌────────────────────────────────────────────────────────────────────────┐
+│                   LIMA JENDELA PENGAMATAN ASESMEN                      │
+├─────────────────┬──────────────────────────────────────────────────────┤
+│ 1. DIRI (Self)  │ Muhasabah mandiri, pengakuan jujur santri malam hari │
+├─────────────────┼──────────────────────────────────────────────────────┤
+│ 2. PENGAMAT     │ Catatan observasi berkala Musyrif Asrama dan Asatidz │
+│    (Observer)   │ madrasah di kelas dan lingkungan pondok              │
+├─────────────────┼──────────────────────────────────────────────────────┤
+│ 3. SEBAYA (Peer)│ Kesaksian santun dari rekan sekamar / satu regu piket│
+├─────────────────┼──────────────────────────────────────────────────────┤
+│ 4. AMAL NYATA   │ Kinerja langsung saat diberi tugas memimpin, azan,   │
+│    (Performance)│ memasak, atau menyelesaikan perselisihan kamar       │
+├─────────────────┼──────────────────────────────────────────────────────┤
+│ 5. PORTOFOLIO   │ Kumpulan catatan mutqin Al-Qur'an, karya tulis, dan  │
+│    (Portfolio)  │ lembar refleksi adab yang dihimpun sepanjang semester│
+└─────────────────┴──────────────────────────────────────────────────────┘
 ```
 
-Integrasi sumber tidak berarti melakukan rata-rata mekanis atau memilih sumber yang paling tinggi/rendah. Cara integrasi harus mengikuti construct dan intended inference.
+Tidak ada satu sumber pun yang otomatis menjadi *kebenaran mutlak*. Jika ada perbedaan antara laporan guru kelas dengan musyrif asrama, asatidz mengedepankan **prinsip tabayyun kontekstual**: mencari tahu perbedaan situasi yang memicu perbedaan perilaku tersebut.
 
-## 9. Uncertainty
+---
 
-Ketidakpastian adalah bagian normal dari assessment.
+## 6. Batas Fundamental: Membedakan Performa, Kapasitas, dan Pertumbuhan
 
-Assessment harus memungkinkan pernyataan seperti:
+Asatidz wajib membedakan secara tegas tiga istilah yang sering tertukar:
 
-- evidence cukup untuk inferensi tertentu;
-- evidence belum cukup;
-- terdapat discrepancy antar sumber;
-- hasil terbatas pada konteks tertentu;
-- perlu pengumpulan evidence tambahan;
-- interpretasi masih provisional.
-
-**“Belum tersedia evidence yang cukup” adalah hasil yang sah** ketika evidence memang belum memadai.
-
-Assessment tidak boleh memaksa kepastian hanya karena sistem membutuhkan satu label atau satu angka.
-
-## 10. Decision Architecture
-
-Assessment menghasilkan **scoped judgment**, bukan keputusan otomatis.
+| Istilah | Definisi dalam TUMBUH | Contoh Kasus Lapangan Pesantren |
+| :--- | :--- | :--- |
+| **1. Performa Sesaat (*Performance*)** | Perilaku yang tampak pada satu waktu dan kondisi spesifik. | Santri rajin menyapu kamar hari ini karena tahu ustadz pengasuh sedang inspeksi mendadak (*sidak*). |
+| **2. Kapasitas (*Capacity*)** | Keterampilan dan kematangan daya batin yang telah terintegrasi dalam diri anak. | Santri memiliki kemampuan mengelola waktu dan emosi saat berada di bawah tekanan tugas pondok. |
+| **3. Pertumbuhan Hakiki (*Growth / Malakah*)** | Pola kematangan yang teruji melintasi waktu, stabil, dan menjadi watak otomatis yang mendarah daging. | Santri selalu merapikan kamar secara konsisten selama berbulan-bulan, baik saat dilihat ustadz maupun saat sendirian. |
 
 ```text
-Evidence
-   ↓
-Review
-   ↓
-Scoped Judgment
-   ↓
-Decision Options
-   ↓
-Trial / Action
-   ↓
-Monitor
-   ↓
-Confirm / Adjust / Revert
+Performa Sesaat ≠ Kapasitas Sejati
+Kapasitas Diri ≠ Pertumbuhan Permanen
+Skor Angka Raport ≠ Karakter Hakiki Santri
 ```
 
-Keputusan dapat berupa:
+---
 
-- mempertahankan dukungan;
-- menyesuaikan dukungan;
-- memberikan pengalaman belajar yang berbeda;
-- memberikan tantangan yang relevan;
-- mengumpulkan evidence tambahan;
-- melakukan reassessment.
+## 7. Konteks dan Perancah Bantuan (Context, Demand, and Support)
 
-Assessment result tidak boleh diperlakukan sebagai identitas tetap.
-
-## 11. Proportionality and High-Stakes Use
-
-Semakin besar konsekuensi keputusan, semakin tinggi kebutuhan terhadap:
-
-- kualitas evidence;
-- keragaman sumber yang relevan;
-- review yang sesuai;
-- dokumentasi;
-- kesempatan koreksi atau voice;
-- pemeriksaan konteks;
-- reversibility;
-- safeguarding.
-
-Tidak ada assessment result yang seharusnya menjadi satu-satunya dasar keputusan berisiko tinggi tanpa safeguards yang sesuai.
-
-## 12. Fairness, Dignity, and Safeguarding
-
-Assessment harus memperhatikan:
-
-- fairness;
-- accessibility;
-- dignity;
-- privacy dan data minimization;
-- safeguarding;
-- contextual relevance;
-- kesempatan memberikan koreksi terhadap informasi yang relevan.
-
-Perbedaan functioning tidak boleh otomatis diperlakukan sebagai kekurangan moral atau kegagalan pribadi.
-
-Assessment juga tidak boleh digunakan untuk mempermalukan, memberi label permanen, atau mengawasi tanpa tujuan pembinaan yang jelas.
-
-## 13. Monitoring Boundary
+Santri tidak dinilai dalam ruang hampa. Penilaian adab selalu membaca empat serangkai:
+1. **Perilaku Teramati (*Functioning*):** Apa yang dilakukan anak.
+2. **Konteks Ruang & Waktu (*Context*):** Suasana kamar saat tengah malam, antrean kamar mandi yang padat, atau ruang kelas yang panas.
+3. **Beban Tuntutan (*Demand*):** Tingkat kesulitan tugas yang dibebankan kepada santri.
+4. **Perancah Bantuan (*Support Level*):** Berapa banyak instruksi atau kehadiran fisik musyrif yang mendampingi santri.
 
 ```text
-Monitoring ≠ Surveillance
+┌────────────────────────────────────────────────────────────────────────┐
+│                   KAIDAH PERANCAH BANTUAN ASESMEN                      │
+│                                                                        │
+│       BUTUH BANTUAN BUKAN TANDA CACAT MORAL                            │
+│       (Support Need ≠ Moral Deficit)                                   │
+│                                                                        │
+│       PENGURANGAN BANTUAN BUKAN OTOMATIS LEBIH BAIK                    │
+│       (Pelepasan bantuan prematur adalah bentuk penelantaran anak)     │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Monitoring memiliki tujuan yang jelas: memahami perubahan evidence, memeriksa respons terhadap pembelajaran atau support, dan membantu keputusan lanjutan.
+---
 
-Monitoring harus menerapkan **purpose limitation** dan **data minimization**. Frekuensi, sumber, dan indikator tidak boleh diperluas tanpa alasan yang relevan.
+## 8. Mengelola Ketidakpastian Bukti (Uncertainty Handling)
 
-## 14. Reporting Boundary
+Ketidakpastian (*uncertainty*) adalah realitas ilmiah yang wajar dalam menilai manusia.
+- Asatidz diizinkan menyatakan secara jujur: *"Bukti saat ini belum cukup untuk menyimpulkan kemandirian ananda; observasi akan dilanjutkan 2 pekan ke depan."*
+- **"Belum cukup bukti" adalah kesimpulan yang sah dan terhormat.** Asatidz dilarang memaksakan skor pasti hanya demi mengisi kolom kosong di aplikasi penilaian.
 
-Laporan assessment harus memisahkan setidaknya tiga hal:
+---
+
+## 9. Arsitektur Keputusan Pembinaan (Pedagogical Decision Architecture)
+
+Asesmen menghasilkan pertimbangan bijak (*scoped judgment*), bukan mesin vonis otomatis:
 
 ```text
-Evidence / Observation
-        ↓
-Interpretation
-        ↓
-Decision Implication
+Bukti Terkumpul & Diverifikasi
+              ↓
+Musyawarah Dewan Pembina (Scoped Judgment)
+              ↓
+Pilihan Opsi Keputusan:
+├── Pertahankan Bantuan Saat Ini (Maintain)
+├── Sesuaikan Bentuk Bimbingan (Adjust)
+├── Berikan Pengalaman Belajar Baru (New Learning Experience)
+├── Uji Coba Peningkatan Kemandirian (Trial Advance J1–J4)
+├── Kembalikan Bantuan Pendampingan (Revert)
+└── Kumpulkan Bukti Tambahan (Collect More Evidence)
+              ↓
+Pemantauan Respons Santri di Lapangan
 ```
 
-Laporan sebaiknya menunjukkan:
+---
 
-- scope evidence;
-- konteks;
-- kondisi support;
-- pola functioning;
-- uncertainty;
-- limitations;
-- implikasi keputusan.
-
-**Assessment Profile ≠ Person.**
-
-## 15. Automation and AI
-
-Automated assessment output, termasuk output AI, diperlakukan sebagai **decision support**, bukan truth.
-
-Penggunaannya memerlukan:
-
-- human review;
-- construct alignment;
-- pemeriksaan konteks;
-- pemeriksaan uncertainty;
-- batas penggunaan sesuai intended inference;
-- safeguards yang sesuai terhadap keputusan berkonsekuensi tinggi.
-
-Otomasi tidak boleh memperluas klaim assessment melebihi evidence yang tersedia.
-
-## 16. Relation to Progression
-
-Progression dan Assessment mempunyai fungsi berbeda:
+## 10. Prinsip Proporsionalitas dan Pengamanan Keputusan Berisiko Tinggi
 
 ```text
-Progression
-→ menjelaskan bagaimana perubahan functioning dapat ditelusuri
-
-Assessment
-→ menyediakan evidence dan judgment terikat untuk memahami perubahan tersebut
+┌────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM PROPORSIONALITAS ASESMEN                       │
+│                                                                        │
+│       Semakin besar konsekuensi keputusan bagi masa depan santri,      │
+│       semakin tinggi tuntutan keragaman bukti, validasi silang,        │
+│       dan hak tabayyun yang wajib dipenuhi dewan asatidz.              │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Assessment dapat mendukung milestone, gateway, mastery, dan transition criteria, tetapi tidak boleh menyamakan satu skor dengan salah satu konsep tersebut.
+Keputusan berisiko tinggi (seperti penangguhan kenaikan jenjang, rekomendasi penanganan kasus khusus, atau penetapan sanksi edukatif) tidak boleh diambil hanya berdasarkan 1 lembar catatan sepihak. Keputusan wajib melibatkan majelis asatidz, pemeriksaan mitigasi risiko keselamatan (*safeguarding*), dan hak santri untuk didengar pembelaannya secara adil.
 
-## 17. Relation to Intervention
+---
 
-Assessment dapat memberi dasar untuk menyesuaikan support atau intervention, tetapi:
+## 11. Keadilan, Martabat, dan Perlindungan Anak (Fairness, Dignity & Safeguarding)
+
+1. **Memuliakan Martabat Insani (*Karamah Insaniyyah*):** Setiap santri adalah hamba Allah yang mulia. Profil asesmen tidak boleh dijadikan alat untuk mempermalukan santri (*anti-shaming*) di depan kawan-kawannya.
+2. **Keadilan Akses Pembinaan:** Santri baru, santri dari latar belakang ekonomi lemah, atau santri dengan gaya belajar lambat berhak atas kesempatan bimbingan yang setara.
+3. **Kerahasiaan Data Pribadi:** Catatan konseling emosional dan dinamika kelemahan santri dilindungi kerahasiaannya dan hanya dapat diakses oleh tim pengasuh inti.
+
+---
+
+## 12. Pagar Pembatas Pemantauan: Pemantauan Bukan Spionase (Monitoring ≠ Surveillance)
 
 ```text
-Assessment Result ≠ Intervention Prescription
+┌────────────────────────────────────────────────────────────────────────┐
+│                   BATAS MUTLAK PEMANTAUAN ASESMEN                      │
+│                                                                        │
+│       PEMANTAUAN TARBIYAH BUKAN SPIONASE / PENGINTAIAN AIB             │
+│       (Monitoring ≠ Surveillance / Tajassus)                           │
+│                                                                        │
+│       DILARANG MENCARI-CARI KESALAHAN PRIVASI SANTRI                   │
+│       (Patuhi larangan Al-Qur'an: "Wala tajassasu" - QS. Al-Hujurat: 12│
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Keputusan intervention harus mempertimbangkan context, risk, feasibility, evidence, dan tujuan pembinaan. Assessment tidak membuktikan bahwa suatu intervention pasti efektif hanya karena hasil assessment berubah setelah intervention.
+Pemantauan dilakukan secara terbuka dan bermartabat dalam koridor pendidikan adab harian, bukan dengan cara memasang jebakan atau memata-matai ruang privat anak asuh.
 
-## 18. Relation to 10 Muwashofat
+---
 
-10 Muwashofat merupakan **normative / graduate orientation**.
+## 13. Pagar Pelaporan: Profil Asesmen Bukan Manusia (Assessment Profile ≠ Person)
 
-Assessment tidak boleh secara diam-diam mengubah Muwashofat menjadi covert capacity score.
+Lembar laporan rapor adab hanyalah potret cuplikan perilaku fungsional santri pada masa tertentu. Laporan **bukan penentu nilai takdir manusia di hadapan Allah**. Asatidz dan wali santri dilarang mengunci masa depan anak dengan kalimat: *"Anak ini dari dulu raport adabnya rendah, tidak ada harapan lagi."* Pintu taubat, hidayah, dan perubahan selalu terbuka lebar.
 
-Mapping Muwashofat → Core Capacities dapat membantu traceability fungsional, tetapi mapping tersebut bukan bukti bahwa satu Muwashofat identik dengan satu capacity, bukan scoring rule, dan bukan klaim kausal.
+---
 
-## 19. Assessment Governance
+## 14. Kecerdasan Buatan dan Otomasi (AI as Decision Support, Not Final Truth)
 
-Assessment architecture harus mengikuti governance berikut:
+Jika pesantren menggunakan sistem informasi digital atau analitik berbasis AI dalam mencatat logbook santri:
+- Output AI diperlakukan murni sebagai **alat bantu peringatan dini (*decision support*)**, bukan vonis kebenaran mutlak.
+- **Ketetapan Akhir Wajib Berada di Tangan Manusia (*Human Oversight*):** Asatidz wajib memeriksa kewajaran data sebelum mengambil tindakan. Sistem algoritma tidak boleh menentukan nasib santri secara otomatis.
 
-1. Tentukan construct.
-2. Tentukan intended inference.
-3. Tentukan evidence yang diperlukan.
-4. Pilih sumber/metode yang sesuai.
-5. Kumpulkan evidence dengan konteks yang relevan.
-6. Review kualitas dan kecukupan evidence.
-7. Buat scoped interpretation.
-8. Nyatakan uncertainty dan limitations.
-9. Buat keputusan yang proporsional.
-10. Monitor dan reassess ketika diperlukan.
-11. Revisi keputusan jika evidence baru mengubah dasar inferensi.
+---
 
-Assessment tidak boleh menjadi sumber redefinisi construct secara diam-diam.
+## 15. Hubungan dengan Penjenjangan (Progression) dan Intervensi (Intervention)
 
-## 20. Traceability
+- **Hubungan dengan Penjenjangan ([04_PROGRESSION](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)):** Progression memetakan tangga pertumbuhan (J1–J4), sedangkan Assessment menyediakan data bukti pengamatan riil untuk memandu santri melangkah di tangga tersebut.
+- **Hubungan dengan Intervensi ([06_INTERVENTION](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/)):** Hasil asesmen memicu penyesuaian bantuan, tetapi skor asesmen bukan resep obat otomatis. Intervensi selalu menimbang kesiapan mental santri dan daya dukung asrama.
 
-Setiap assessment yang digunakan untuk keputusan substantif idealnya dapat ditelusuri melalui:
+---
 
-```text
-Normative Direction / Graduate Profile
-        ↓
-Core Capacity / Construct ID
-        ↓
-Functional Object
-        ↓
-Functional Dimension
-        ↓
-Intended Inference
-        ↓
-Evidence Requirement
-        ↓
-Assessment Method / Source
-        ↓
-Evidence
-        ↓
-Scoped Judgment
-        ↓
-Decision
-        ↓
-Monitoring / Reassessment
-```
+## 16. Hubungan dengan 10 Muwashofat Lulusan
 
-Traceability menjaga agar assessment tetap terhubung dengan construct dan tidak berkembang menjadi sistem penilaian yang berdiri sendiri.
+10 Muwashofat Santri (seperti *Salimul Aqidah, Shahihul Ibadah, Matinul Khuluq*) adalah **arah orientasi normatif kelulusan**, bukan instrumen tes harian. Asesmen tidak boleh secara diam-diam memecah Muwashofat menjadi skor angka kaku yang merusak keluhuran orientasi dakwah Islam.
 
-## 21. Non-Equivalence Rules
+---
 
-Hal-hal berikut tidak boleh disamakan secara otomatis:
+## 17. Sepuluh Kaidah Tata Kelola Asesmen (Governance Rules)
 
-| Konsep | Bukan sinonim dengan |
-|---|---|
-| Construct | Indicator |
-| Indicator | Evidence |
-| Evidence | Interpretation |
-| Interpretation | Decision |
-| Performance | Capacity |
-| Score | Growth |
-| Assessment profile | Person |
-| Milestone | Mastery |
-| Gateway | Mastery |
-| Support level | Capacity level |
-| Assessment result | Causal proof |
-| Monitoring | Surveillance |
-| Automated output | Truth |
+1. Tetapkan kapasitas inti yang hendak dipahami (CC-01 s/d CC-08).
+2. Rumuskan tujuan inferensi spesifik sebelum mengamati.
+3. Tentukan jenis bukti riil yang diperlukan.
+4. Pilih kombinasi sumber pengamatan yang relevan (minimal memadai).
+5. Catat bukti bersama konteks ruang, waktu, dan bantuan yang ada.
+6. Lakukan audit mutu dan telaah keabsahan bukti secara berkala.
+7. Rumuskan penafsiran berlingkup yang jujur dan rendah hati.
+8. Nyatakan keterbatasan data (*uncertainty*) secara transparan.
+9. Ambil keputusan pembinaan yang adil dan proporsional.
+10. Pantau perkembangan santri dan siap mengoreksi keputusan bila bukti baru membuktikan sebaliknya.
 
-## 22. Validation Boundary
+---
 
-Arsitektur ini tidak dengan sendirinya membuktikan:
+## 18. Tabel Batas Non-Ekuivalensi (Aturan Larangan Penyetaraan Otomatis)
 
-- validitas construct;
-- reliabilitas instrumen;
-- measurement invariance;
-- fairness lintas kelompok atau konteks;
-- universalitas indikator;
-- validitas prediktif;
-- causal impact;
-- effectiveness intervention;
-- transfer atau maintenance dalam populasi tertentu.
+| Konsep A | ❌ DILARANG DIANGGAP SAMA DENGAN | Konsep B |
+| :--- | :---: | :--- |
+| **Kapasitas Inti (*Construct*)** | ≠ | Indikator Luaran Sesaat (*Indicator*) |
+| **Indikator Teramati** | ≠ | Bukti Otentik Terverifikasi (*Evidence*) |
+| **Bukti Pengamatan** | ≠ | Penafsiran Makna Batin (*Interpretation*) |
+| **Penafsiran Pembina** | ≠ | Keputusan Kelembagaan (*Decision*) |
+| **Performa Hari Ini** | ≠ | Kapasitas Sejati Anak (*Capacity*) |
+| **Skor Angka Raport** | ≠ | Pertumbuhan Watak Malakah (*Growth*) |
+| **Profil Catatan Asesmen** | ≠ | Hakikat Kemuliaan Pribadi Santri (*Person*) |
+| **Tingkat Bantuan (*Support Level*)** | ≠ | Derajat Kasta Kemandirian Santri |
+| **Pemantauan Tarbiyah (*Monitoring*)** | ≠ | Spionase Mencari Aib (*Surveillance*) |
+| **Rekomendasi Algoritma AI** | ≠ | Kebenaran Mutlak Ketetapan Asatidz (*Truth*) |
 
-Klaim tersebut harus memperoleh evidence yang sesuai melalui `08_SOURCES_AND_EVIDENCE/` dan `09_RESEARCH/`.
+---
 
-## 23. Source Trail
+## 19. Status Keabsahan Dokumen (Epistemic Status)
 
-Arsitektur ini dibangun dari keputusan Fundamental TUMBUH yang menghubungkan Core Model, Progression, dan Assessment, serta terutama mempertahankan prinsip Assessment Integration yang sudah ada dalam `Assessment-Integration.md`.
+- **Status:** *Conceptually Specified; Empirically Provisional.*
+- Dokumen ini adalah arsitektur tata kelola penilaian perkembangan adab santri di lingkungan TUMBUH v2.0.0.
+- Klaim validitas empiris, reliabilitas psikometrik, dan efektivitas instrumen di lapangan terus diuji dan dicatat secara terbuka melalui lapisan penelitian `08_SOURCES_AND_EVIDENCE/` dan `09_RESEARCH/`.
 
-## 24. Closing Statement
+---
 
-Assessment TUMBUH bukan mesin untuk menentukan “siapa santri ini” berdasarkan angka. Assessment adalah mekanisme untuk memperoleh evidence yang cukup, membacanya secara hati-hati, dan menggunakannya untuk membantu pertumbuhan dengan keputusan yang proporsional, dapat ditinjau kembali, dan tetap menjaga martabat manusia.
+## 20. Prinsip Penutup
+
+> **Asesmen di pesantren TUMBUH adalah cermin kejujuran cinta para pendidik.**  
+> Asesmen bukan timbangan untuk menentukan siapa santri yang pantas dibuang dan siapa yang diagungkan. Asesmen adalah cara asatidz duduk bersimpuh di hadapan Allah, memohon petunjuk agar mampu menuntun setiap titipan jiwa yang diamanahkan kepada mereka dengan seadil-adilnya bukti dan selembut-lembutnya kasih sayang.

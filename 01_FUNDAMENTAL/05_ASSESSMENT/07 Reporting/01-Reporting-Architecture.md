@@ -1,245 +1,146 @@
-# Reporting Architecture
+# Arsitektur Pelaporan Perkembangan Santri (Reporting Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Assessment Reporting
-**Epistemic status:** Conceptually specified; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05_ASSESSMENT/07 Reporting/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/README.md)  
+**Dokumen Terkait:**  
+- [02-Report-Structure-and-Evidence-Interpretation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/02-Report-Structure-and-Evidence-Interpretation.md)  
+- [03-Audience-Decision-Support-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/03-Audience-Decision-Support-and-Access.md)  
+- [04-Reporting-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/04-Reporting-Traceability-and-Governance.md)  
+- [05-Sample-Narrative-Development-Report.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/07%20Reporting/05-Sample-Narrative-Development-Report.md)
 
-## 1. Purpose
+---
 
-Reporting menerjemahkan evidence dan interpretasi menjadi informasi yang dapat digunakan oleh pihak yang berwenang untuk keputusan pembinaan. Laporan bukan sekadar memindahkan skor dari instrumen ke dokumen.
+> ### Intisari untuk Pendidik & Musyrif
+> **Laporan perkembangan santri bukanlah vonis raport angka yang dingin, melainkan risalah cinta dan amanah tarbiyah.**  
+> Bagi orang tua santri, lembar laporan adalah jendela utama yang mengabarkan bagaimana buah hati mereka berjuang, menangis, bangkit, dan beradab di pesantren. Jika laporan hanya menyajikan deretan angka statistik (seperti *"Adab: 75"*), orang tua tidak akan pernah tahu di mana letak keindahan akhlak anaknya dan di mana letak kelemahan yang harus dibantu saat liburan di rumah.  
+> Pelaporan (*Reporting*) dalam TUMBUH berfungsi **menerjemahkan bukti faktual dan hasil penelaahan menjadi narasi pertumbuhan yang memuliakan martabat anak**. Dokumen ini menegaskan pemisahan tegas antara bukti teramati, penafsiran berlingkup, dan rekomendasi bimbingan, serta menjamin bahwa laporan tidak pernah berubah menjadi stempel cacat permanen bagi diri santri.
 
-Laporan harus menjaga martabat santri, membedakan observasi dari interpretasi, dan menghindari label permanen. fileciteturn829file0L2-L2
+---
 
-## 2. Canonical Position
+## 1. Hakikat dan Posisi Pelaporan dalam Asesmen TUMBUH
 
-```text
-Evidence
-    ↓
-Evidence Review
-    ↓
-Scoped Interpretation
-    ↓
-Uncertainty / Limitations
-    ↓
-Report
-    ↓
-Decision / Support
-    ↓
-Monitoring / Reassessment
-```
+Dalam ekosistem TUMBUH, pelaporan (*reporting*) adalah jembatan komunikasi resmi yang menerjemahkan data bukti lapangan (*evidence*) dan hasil penelaahan (*interpretation*) menjadi informasi yang bermakna bagi pihak yang berwenang (santri, wali santri, dan dewan asatidz).
 
-Reporting tidak mengubah evidence menjadi klaim yang lebih luas daripada yang didukung.
-
-## 3. Report Structure
-
-Laporan assessment minimal membedakan:
-
-1. **Purpose** — mengapa assessment dilakukan.
-2. **Construct / Functioning** — apa yang dinilai.
-3. **Context** — dalam kondisi apa evidence diperoleh.
-4. **Evidence** — apa yang diamati/terkumpul.
-5. **Interpretation** — apa makna evidence dalam scope yang sah.
-6. **Uncertainty / Limitation** — apa yang belum dapat diketahui.
-7. **Decision / Recommendation** — keputusan pembinaan yang relevan bila memang berwenang.
-8. **Next Review** — kapan atau dalam kondisi apa perlu ditinjau kembali.
-
-## 4. Evidence vs Interpretation
-
-Laporan harus membuat pembaca dapat membedakan:
+Pelaporan **bukan sekadar memindahkan angka dari instrumen ke atas kertas**, melainkan proses menyusun narasi edukatif yang membesarkan hati anak, menjaga martabat keluarga, dan membuka jalan sinergi bimbingan.
 
 ```text
-Observed / Collected Evidence
-        ↓
-Interpretation
-        ↓
-Decision
+Data Bukti Nyata Lapangan (Evidence)
+                 ↓
+Penelaahan Konteks & Bantuan (Evidence Review)
+                 ↓
+Penafsiran Berlingkup Terbatas (Scoped Interpretation)
+                 ↓
+Pernyataan Ketidakpastian & Keterbatasan (Uncertainty)
+                 ↓
+Penyusunan Risalah Laporan Naratif (Report)
+                 ↓
+Dukungan Keputusan Tarbiyah Nyata (Decision & Support)
+                 ↓
+Pemantauan dan Reasesmen Lanjutan (Monitoring Loop)
 ```
 
-Contoh struktur bahasa:
+**Kaidah Pokok:** Laporan tidak boleh membuat klaim yang lebih luas daripada bukti yang ada. Satu kekhilafan santri saat lelah tidak boleh dilaporkan seolah-olah seluruh karakternya telah rusak.
 
-- **Evidence:** apa yang dilakukan, dikatakan, dihasilkan, atau tercatat.
-- **Interpretation:** bagaimana evidence tersebut dipahami terhadap construct/functioning.
-- **Decision:** tindakan pembinaan yang dipilih berdasarkan interpretasi dan kewenangan.
+---
 
-Ketiganya tidak boleh dilebur menjadi satu label tentang pribadi seseorang.
+## 2. Delapan Komponen Baku Laporan Perkembangan Santri
 
-## 5. Scope of Interpretation
-
-Interpretasi harus dibatasi oleh:
-
-- construct;
-- population;
-- context;
-- time;
-- evidence sources;
-- evidence quality;
-- intended inference.
+Setiap laporan resmi dalam ekosistem TUMBUH wajib memuat delapan bagian terpadu:
 
 ```text
-Inference Scope ≤ Evidence Scope
+┌──────────────────────────────────────────────────────────────┐
+│             DELAPAN ANATOMI RESMI LAPORAN PERKEMBANGAN       │
+├────┬────────────────────────┬────────────────────────────────┤
+│ 1  │ Tujuan Pelaporan       │ Alasan laporan disusun         │
+│ 2  │ Fokus Kapasitas Inti   │ Rujukan resmi CC-01 s/d CC-08  │
+│ 3  │ Konteks Pengamatan     │ Situasi asrama, kelas, masjid  │
+│ 4  │ Bukti Nyata Terpilih   │ Sampel perilaku konkret santri │
+│ 5  │ Penafsiran Berlingkup  │ Makna perkembangan adab anak   │
+│ 6  │ Kejujuran Keterbatasan │ Catatan aspek yang masih ragu  │
+│ 7  │ Rekomendasi Sinergi    │ Saran praktis untuk keluarga   │
+│ 8  │ Jadwal Review Lanjutan │ Kapan evaluasi berikutnya      │
+└────┴────────────────────────┴────────────────────────────────┘
 ```
 
-Hasil pada satu tugas tidak otomatis menjadi gambaran seluruh kapasitas atau pribadi.
+---
 
-## 6. Reporting Change Over Time
+## 3. Pemisahan Tegas: Bukti vs Penafsiran vs Rekomendasi
 
-Jika laporan bersifat longitudinal, jelaskan:
+Laporan yang profesional dan adil selalu membedakan tiga lapisan bahasa:
 
-- titik pembanding;
-- perubahan evidence;
-- perubahan context/demand/support;
-- pola consistency;
-- evidence yang conflicting;
-- batas interpretasi.
+1. **Bukti Teramati (*Evidence*):** Apa yang nyata-nyata dilakukan, diucapkan, atau dihasilkan oleh santri.  
+   *Contoh:* *"Salman bangun pada pukul 04.05 WIB saat bel pertama berbunyi dan melipat selimutnya sendiri."*
+2. **Penafsiran Berlingkup (*Interpretation*):** Bagaimana bukti tersebut dibaca dalam kacamata jenjang kemandirian (J1–J4).  
+   *Contoh:* *"Salman telah mencapai kemandirian J2 menuju J3 dalam regulasi waktu bangun tidur."*
+3. **Rekomendasi Bimbingan (*Actionable Decision*):** Langkah nyata yang disarankan bagi musyrif dan orang tua.  
+   *Contoh:* *"Ayah dan Bunda disarankan melatih kebiasaan bangun pagi mandiri ini saat liburan semester di rumah."*
 
-Jangan menyimpulkan “berkembang” hanya karena skor berubah. Perubahan skor adalah evidence yang perlu diinterpretasikan.
+Ketiga hal ini dilarang keras dilebur menjadi satu kata sifat pelabelan permanen (seperti: *"Salman anak pemalas"*).
 
-## 7. Multi-Source Reporting
+---
 
-Jika menggunakan beberapa sumber, laporan dapat menampilkan:
+## 4. Pelaporan Lintas Waktu dan Multi-Sumber yang Harmonis
 
-- sumber evidence;
-- area convergence;
-- area divergence;
-- kemungkinan contextual explanation;
-- unresolved discrepancy;
-- confidence/uncertainty.
+Jika laporan menyajikan kurva longitudinal multi-sumber:
+- **Tampilkan Tren, Bukan Skor Beku:** Jelaskan bagaimana santri bertransformasi dari awal masuk pondok hingga akhir semester.
+- **Harmoni Multi-Sumber:** Sebutkan keselarasan pandang antara guru madrasah dan musyrif asrama, serta cantumkan kutipan kalimat dari lembar muhasabah diri santri agar orang tua dapat mendengar suara batin buah hatinya.
+- **Transparansi Perbedaan Data:** Jika kawan sekamar mengeluhkan kerapian santri sementara di kelas santri sangat rapi, jelaskan konteks perbedaannya secara jujur tanpa menjelek-jelekkan anak.
 
-Discrepancy tidak perlu disembunyikan agar laporan terlihat rapi. Bila belum terselesaikan, tuliskan sebagai ketidakpastian atau kebutuhan review.
+---
 
-## 8. Progression, Mastery, and Gateway Reporting
+## 5. Kejujuran Menyatakan Ketidakpastian (*Reporting Uncertainty*)
 
-Laporan dapat memberikan informasi yang relevan untuk:
-
-- progression;
-- milestone;
-- gateway;
-- mastery review;
-- transition.
-
-Namun laporan tidak boleh menyamakan:
-
-- satu score dengan mastery;
-- satu observation dengan capacity change;
-- support reduction dengan keberhasilan universal;
-- satu gateway decision dengan label permanen.
-
-Keputusan tetap berada pada proses governance yang sesuai.
-
-## 9. Reporting for Support and Intervention
-
-Laporan dapat membantu menjawab:
-
-- support apa yang sedang membantu;
-- kondisi apa yang memungkinkan functioning muncul;
-- demand apa yang masih menjadi tantangan;
-- penyesuaian apa yang perlu dipertimbangkan;
-- evidence apa yang perlu dikumpulkan berikutnya.
-
-Laporan tidak boleh menjadikan assessment sebagai pembenaran otomatis untuk intervensi tertentu.
-
-## 10. Audience and Purpose Limitation
-
-Isi laporan harus disesuaikan dengan pihak yang berwenang dan tujuan yang sah.
-
-Tidak semua informasi perlu dibagikan kepada semua pihak. Reporting mengikuti prinsip:
-
-- need-to-know;
-- data minimization;
-- privacy;
-- safeguarding;
-- purpose limitation.
-
-Laporan yang lebih panjang tidak otomatis lebih informatif.
-
-## 11. Language and Dignity
-
-Gunakan bahasa yang:
-
-- spesifik;
-- deskriptif;
-- kontekstual;
-- dapat ditinjau kembali;
-- tidak merendahkan;
-- tidak mengunci identitas seseorang pada satu hasil assessment.
-
-Hindari formulasi yang mengubah hasil assessment menjadi identitas permanen, seperti “anak ini adalah ...” berdasarkan satu evidence.
-
-Lebih tepat menjelaskan functioning dalam kondisi dan waktu tertentu.
-
-## 12. Fairness and Accessibility
-
-Reporting harus mempertimbangkan:
-
-- bahasa yang dipahami penerima;
-- kebutuhan akses;
-- konteks budaya;
-- keterbatasan evidence;
-- bias sumber/rater;
-- kesempatan yang tersedia bagi peserta untuk menunjukkan functioning.
-
-Jika evidence dipengaruhi oleh accessibility barrier, hal tersebut perlu tercermin dalam batas interpretasi.
-
-## 13. Digital / AI-Generated Reporting
-
-AI dapat membantu merangkum evidence atau menyusun draft laporan. Namun:
+Dalam tarbiyah Islam, mengakui bahwa data belum cukup adalah tanda ketakwaan dan keilmuan:
 
 ```text
-AI Summary
-    ≠
-Final Assessment Judgment
+┌──────────────────────────────────────────────────────────────┐
+│                  PRINSIP KEJUJURAN EPISTEMIK                 │
+│                                                              │
+│       KETIDAKPASTIAN DATA BUKANLAH KEGAGALAN SISTEM.         │
+│       IA ADALAH KEJUJURAN MENJAGA BATAS-BATAS KEBENARAN.     │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-Laporan yang melibatkan AI memerlukan human review yang proporsional, pemeriksaan terhadap source evidence, dan perhatian pada privacy, hallucination/error, bias, serta provenance.
+Jika ada kapasitas adab yang belum cukup teramati (misalnya: kemandirian santri dalam mengelola keuangan saku karena baru 2 kali belanja), laporan secara terbuka menyatakan: *"Aspek pengelolaan amanah uang saku masih dalam pemantauan awal dan akan dilaporkan lebih mendalam pada semester berikutnya."*
 
-## 14. Reporting Uncertainty
+---
 
-Ketika evidence belum cukup, laporan dapat secara eksplisit menyatakan:
+## 6. Bahasa yang Memuliakan Martabat Santri (*Qaulan Karima*)
 
-- evidence insufficient;
-- interpretation uncertain;
-- conflicting evidence;
-- context limitation;
-- further evidence needed.
+Bahasa laporan wajib mematuhi adab komunikasi Islam:
+- **Gunakan Bahasa Deskriptif yang Membangun:** Fokus pada kemajuan nyata dan potensi kebaikan fitrah anak.
+- **Hindari Kata Sifat Menghakimi:** Jangan pernah menggunakan kata-kata seperti *"nakal"*, *"pembangkang"*, *"bebal"*, atau *"putus harapan"*.
+- **Setiap Anak Memiliki Pintu Kebaikan:** Awali laporan dengan menyebutkan minimal dua akhlak mulia santri yang patut disyukuri bersama.
 
-Ketidakpastian bukan kegagalan reporting. Ia merupakan bagian dari pelaporan yang jujur terhadap batas evidence.
+---
 
-## 15. Traceability
+## 7. Penggunaan Kecerdasan Buatan (AI) dalam Penyusunan Laporan
 
-```text
-Report ID
-   ↓
-Assessment Purpose
-   ↓
-Construct ID
-   ↓
-Evidence Source(s)
-   ↓
-Evidence Record(s)
-   ↓
-Interpretation
-   ↓
-Uncertainty / Limitation
-   ↓
-Decision
-   ↓
-Next Review
-```
+Jika sistem informasi ma'had menggunakan fitur AI untuk membantu merangkum draf laporan:
+- Rangkuman AI **hanyalah draf awal**, bukan laporan resmi.
+- Musyrif dan wali asuh **wajib membaca, mengoreksi, dan menyelaraskan bahasa draf** dengan kearifan rasa hatinya (*human review mandatory*).
+- Dilarang mengirimkan laporan langsung dari mesin kepada orang tua tanpa verifikasi manusiawi.
 
-Pembaca yang berwenang harus dapat mengetahui dari mana kesimpulan laporan berasal.
+---
 
-## 16. Boundary Rules
+## 8. Sepuluh Pagar Batas Pelaporan (*Boundary Rules*)
 
-Reporting bukan:
+Laporan asesmen dalam TUMBUH secara mutlak **BUKAN**:
+1. Pemeringkatan ranking anak dari nomor 1 sampai nomor 30;
+2. Label stempel watak permanen santri;
+3. Resep sanksi hukum atau vonis pidana pesantren;
+4. Diagnosis medis atau psikiatri klinis;
+5. Alat untuk mempermalukan santri atau keluarganya di depan publik;
+6. Bukti mutlak bahwa sebuah karakter sudah menjadi watak batin abadi (*malakah*);
+7. Bukti mutlak hubungan sebab-akibat program pesantren semata;
+8. Rata-rata angka matematis dingin yang menyamarkan keunikan fitrah;
+9. Hak mutlak mesin otomatis tanpa pertimbangan hati pendidik;
+10. Konsumsi publik yang boleh disebarluaskan di media sosial tanpa izin wali santri.
 
-- construct definition;
-- evidence collection;
-- rubric;
-- instrument;
-- diagnosis;
-- permanent label;
-- universal ranking;
-- automatic decision engine;
-- proof of causality;
-- proof of intervention effectiveness.
+---
 
-**Decision:** Reporting is the communication layer between reviewed evidence, scoped interpretation, and authorized decision-making. Specific report formats remain context- and purpose-dependent.
+## 9. Kalimat Penutup
+
+> **Laporan perkembangan adalah surat cinta dari majelis tarbiyah kepada keluarga santri.**  
+> Di dalamnya tertulis kabar gembira atas kemajuan anak, doa tulus bagi perjuangannya, dan jabat tangan erat antara pondok dan orang tua untuk bersama-sama mengantarkan sang buah hati menjadi insan kamil yang dicintai Allah Ta'ala.
