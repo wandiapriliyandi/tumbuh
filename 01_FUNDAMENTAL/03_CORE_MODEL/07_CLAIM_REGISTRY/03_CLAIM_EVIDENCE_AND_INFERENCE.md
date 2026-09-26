@@ -1,69 +1,107 @@
 # Bukti Pendukung dan Batas Penarikan Kesimpulan Klaim (Claim Evidence and Inference)
 
-**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Menjaga Keselarasan Data dan Pernyataan
-
-Dokumen ini menjelaskan bagaimana sebuah bukti (*evidence*) di asrama pesantren dinilai kelayakannya sebelum digunakan untuk mendukung sebuah pernyataan atau kebijakan pembinaan santri.
-
----
-
-## 1. Mengapa Satu Bukti Kecil Tidak Boleh Dipakai Menyimpulkan Segala Hal?
-
-Perhatikan contoh kejadian di asrama:
-> Seorang musyrif melihat dua orang santri berkelahi di dekat tempat jemuran. Musyrif tersebut lalu membuat pengumuman: *"Seluruh santri di asrama ini telah rusak persaudaraannya dan tidak lagi saling menyayangi!"*
-
-Musyrif tersebut melakukan kesalahan inferensi yang sangat fatal: ia menggunakan satu insiden kecil antara dua santri untuk menjatuhkan vonis kepada ratusan santri lainnya.
-
-Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
-
-> **Bagaimana kita memastikan bahwa kesimpulan yang kita ambil benar-benar sepadan dengan luas dan mutu bukti data yang kita miliki di lapangan?**
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Epistemik TUMBUH v2.0.0  
+**Kode Konstruk:** CEI-v2.0.0  
+**Fungsi Dokumen:** Panduan metodologis pengujian kelayakan bukti (*evidence fit*) dan penegakan batas kesimpulan yang sah (*valid inference boundaries*) guna mencegah generalisasi gegabah di pesantren  
 
 ---
 
-## 2. Rantai Logika Bukti yang Sah (Canonical Evidence Logic)
+## 1. Hakikat Inferensi yang Sah: Menolak Generalisasi Gegabah
 
-Setiap pengambilan kesimpulan di asrama wajib mengikuti lima mata rantai yang tidak boleh terputus:
+Dalam kehidupan asrama 24 jam, salah satu sumber kezaliman terbesar terhadap santri adalah **generalisasi gegabah (*hasty generalization*) dan inferensi berlebihan (*inferential overreach*)**:
+
+> *Seorang musyrif mendapati dua orang santri kelas 8 bertengkar di selasar kamar mandi. Musyrif tersebut langsung menulis laporan resmi: "Program pembinaan adab asrama semester ini gagal total; seluruh santri angkatan 8 telah kehilangan rasa ukhuwah dan memiliki kecenderungan agresif!"*
+
+Laporan musyrif di atas melakukan lompatan kesimpulan yang tidak sah secara metodologis: ia menggunakan satu insiden tunggal pada 2 orang santri untuk menjatuhkan vonis kegagalan moral kepada 80 santri lainnya.
+
+TUMBUH v2.0.0 menegakkan prinsip dasar inferensi:
+
+> **Kekuatan dan luasnya sebuah kesimpulan pembinaan WAJIB sepadan secara presisi dengan mutu, cakupan, dan kedalaman data bukti nyata yang berhasil dihimpun di lapangan. Dilarang keras menarik kesimpulan yang melompat melampaui apa yang secara faktual dibuktikan oleh data.**
+
+---
+
+## 2. Rantai Logika Bukti yang Sah (The 5-Link Evidence Chain)
+
+Setiap penarikan kesimpulan kebijakan atau asesmen adab santri wajib mengikuti lima mata rantai yang tidak boleh terputus:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   RANTAI LOGIKA BUKTI YANG SEHAT                       │
+│             LIMA MATA RANTAI LOGIKA BUKTI YANG SAH                     │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. PERNYATAAN (Klaim)    : Apa yang ingin kita simpulkan?              │
-│            ↓                                                           │
-│ 2. KEBUTUHAN DATA        : Bukti apa yang sebenarnya disyaratkan?      │
-│            ↓                                                           │
-│ 3. MUTU & LINGKUP DATA   : Apakah datanya jujur, lengkap, dan cukup?   │
-│            ↓                                                           │
-│ 4. KESIMPULAN YANG SAH   : Batas apa saja yang boleh disimpulkan?      │
-│            ↓                                                           │
-│ 5. PENGAKUAN KETERBATASAN: Apa saja yang masih belum kita ketahui?     │
+│ 1. RUMUSAN PROPOSISI SPESIFIK (Clear Claim Statement)                  │
+│    Apa sebenarnya pernyataan yang hendak dibuktikan?                   │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 2. KEBUTUHAN DATA BUKTI (Evidence Requirement)                         │
+│    Data apa saja yang secara metodologis disyaratkan untuk mendukungnya?│
+│                 │                                                      │
+│                 ▼                                                      │
+│ 3. UJI MUTU DAN CAKUPAN DATA (Evidence Quality & Representativeness)   │
+│    Apakah data tersebut objektif, cukup representatif, & bebas bias?   │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 4. KESIMPULAN BERPAGAR BATAS (Bounded Valid Inference)                 │
+│    Kesimpulan apa yang secara sah dan adil boleh ditarik dari data?    │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 5. PERNYATAAN KETIDAKPASTIAN (Explicit Uncertainty Disclosure)         │
+│    Hal apa saja yang secara jujur diakui belum terbukti oleh data ini? │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 3. Menilai Kecocokan Bukti (Evidence Fit)
+## 3. Matriks Pengujian Kelayakan Bukti Lima Sumbu (*The 5-Axis Evidence Fit*)
 
-Sebelum sebuah data logbook atau laporan pengasuh digunakan untuk membuat kebijakan, periksa kecocokannya pada lima sumbu:
+Sebelum sebuah data logbook musyrif atau laporan pengasuh digunakan untuk mengesahkan sebuah klaim, data tersebut wajib diuji kelayakannya pada lima sumbu:
 
-1. **Kesesuaian Populasi:** Apakah data ini hanya diambil dari santri senior kelas 12, lalu mau dipaksakan berlaku bagi santri baru kelas 7?
-2. **Kesesuaian Suasana (Konteks):** Apakah ketertiban santri saat diawasi di masjid mau disimpulkan berlaku sama saat mereka berada sendirian di kamar malam hari?
-3. **Kesesuaian Rentang Waktu:** Apakah data satu pekan yang baik mau diklaim sebagai karakter yang sudah permanen seumur hidup?
-4. **Mutu Alat Ukur:** Apakah catatan musyrif benar-benar objektif, atau hanya ditulis berdasarkan perasaan suka dan tidak suka pribadi?
-5. **Kemungkinan Sebab Lain:** Apakah santri bangun pagi karena adabnya sudah mandiri, atau hanya karena cuaca kamar sedang sangat panas sehingga mereka tidak bisa tidur?
-
----
-
-## 4. Menghadapi Fakta yang Bertentangan (Contradictory Evidence)
-
-Di lapangan, kita sering menemukan fakta yang tidak sesuai dengan harapan program kita: misalnya santri yang rajin mengikuti halaqoh adab ternyata kedapatan mengambil uang kawannya.
-
-Dalam sistem TUMBUH, **data yang bertentangan dilarang keras disembunyikan atau dihapus demi menjaga nama baik program**.
-- Catat fakta tersebut secara jujur apa adanya;
-- Jadikan bahan muhasabah dan evaluasi bersama para pengasuh;
-- Cari tahu apa yang membuat santri tersebut tergelincir, dan perbaiki pendekatan pendampingan pribadi kepadanya.
+| Sumbu Pengujian | Pertanyaan Kritis Uji Kelayakan | Contoh Kesalahan Inferensi di Lapangan |
+|---|---|---|
+| **1. Kesesuaian Populasi (*Population Fit*)** | *Apakah karakteristik santri yang diteliti sama dengan santri yang menjadi sasaran klaim?* | Mengklaim metode sukses untuk santri baru (J1) padahal data uji coba hanya diambil dari santri senior kelas 12 (J4). |
+| **2. Kesesuaian Konteks (*Contextual Fit*)** | *Apakah suasana ekologi saat data diambil mencerminkan kondisi kehidupan nyata 24 jam?* | Mengklaim santri telah mandiri secara permanen hanya berdasarkan ketertiban mereka saat diawasi ketat di masjid. |
+| **3. Kesesuaian Waktu (*Temporal Fit*)** | *Apakah rentang waktu pengamatan cukup panjang untuk membuktikan pembiasaan watak?* | Mengklaim santri telah menguasai Regulasi Diri seumur hidup hanya berdasarkan catatan mutaba'ah selama 7 hari. |
+| **4. Ketepatan Alat Ukur (*Measurement Rigor*)** | *Apakah instrumen pengamatan objektif dan bebas dari penilaian emosional pengamat?* | Mengandalkan kesan subjektif musyrif (*"anak ini kelihatannya alim"*) tanpa catatan deskriptif perilaku teramati. |
+| **5. Penjelasan Alternatif (*Alternative Causes*)** | *Apakah ada faktor lain di luar program yang menyebabkan perubahan perilaku santri?* | Mengklaim penurunan pelanggaran tidur malam karena kesadaran adab, padahal karena cuaca asrama sedang dingin membeku. |
 
 ---
 
-## Ringkasan Inti
+## 4. Protokol Menghadapi Fakta yang Bertentangan (*Contradictory Evidence*)
 
-> **Kebenaran tidak pernah takut pada data yang jujur. Dengan menakar bukti secara adil dan berhati-hati dalam menarik kesimpulan, para pendidik di pesantren menjaga diri dari kezaliman prasangka, sekaligus merawat proses tarbiyah di atas landasan fakta yang kokoh dan berintegritas.**
+Di dunia nyata pesantren, kita pasti akan menemukan data yang bertentangan dengan harapan kurikulum: misalnya seorang santri yang hafalannya sangat lancar dan rajin shalat di shaf pertama ternyata kedapatan mengambil barang kawan sekamarnya tanpa izin (*ghashab*).
+
+Dalam ekosistem TUMBUH diberlakukan aturan kejujuran ilmiah mutlak:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│             PROTOKOL PENANGANAN DATA YANG BERTENTANGAN                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. DILARANG KERAS MENYEMBUNYIKAN FAKTA (Zero Suppression Rule)         │
+│    Data anomali atau kegagalan santri dilarang dihapus dari logbook    │
+│    demi menjaga reputasi kamar asrama atau gengsi lembaga.             │
+│                                                                        │
+│ 2. CATAT SEBAGAI ANOMALI PEMBELAJARAN (Document as Disconfirming Data) │
+│    Catat peristiwa secara objektif: apa konteksnya, pemicunya,         │
+│    dan kapasitas mana yang sedang mengalami malfungsi.                 │
+│                                                                        │
+│ 3. TINJAU ULANG BATAS KLAIM (Recalibrate Claim Boundaries)             │
+│    Gunakan data tersebut untuk menyempurnakan program bimbingan dan    │
+│    mengakui bahwa metode yang ada masih memiliki celah perbaikan.      │
+│                                                                        │
+│ 4. RESTORASI EDUKATIF KEPADA SANTRI (Restorative Intervention)         │
+│    Fokuskan energi pada pemulihan adab santri, bukan menghukum         │
+│    atau menutup-nutupi kesalahan dari evaluasi dewan pengasuh.         │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 5. Ringkasan Inti
+
+> **Kejujuran menakar bukti adalah mahkota integritas pesantren. Kita tidak mencari pembenaran atas teori buatan manusia, melainkan mencari kebenaran fakta demi mendampingi jiwa santri secara adil. Dengan membatasi kesimpulan persis di mana data berhenti berbicara, kita menjaga proses tarbiyah tetap suci dari noda kepalsuan dan manipulasi data.**
+
+---
+
+## 6. Status Validasi
+
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Dokumen ini mengikat secara metodologis bagi Tim Peneliti Asesmen, Asesor PBIS, dan Divisi Penjaminan Mutu TUMBUH v2.0.0.

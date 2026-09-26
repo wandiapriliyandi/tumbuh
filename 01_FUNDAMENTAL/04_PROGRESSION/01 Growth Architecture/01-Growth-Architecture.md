@@ -1,301 +1,154 @@
-# Growth Architecture
+# Arsitektur Pertumbuhan (Growth Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Progression Growth Architecture  
-**Epistemic status:** conceptually specified; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
+**Dokumen Terkait:**  
+- [09-Developmental-Levels-Alignment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/09-Developmental-Levels-Alignment.md)  
+- [05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md)  
+- [03-Development-Tracks.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/03-Development-Tracks.md)  
+- [04-Triad-Growth-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/04-Triad-Growth-Architecture.md)
 
-## 1. Tujuan
+---
 
-Growth Architecture mengatur arsitektur pertumbuhan TUMBUH tanpa memaksakan satu urutan tahap universal untuk seluruh manusia. Baseline komponen menetapkan tiga Development Tracks dan J1–J4 sebagai arsitektur tingkat dukungan/kemandirian. fileciteturn846file0
+> ### Intisari untuk Pendidik & Pimpinan Pesantren
+> **Pertumbuhan manusia bukanlah perakitan mesin pabrik yang seragam dan kaku.**  
+> Di pesantren TUMBUH, pertumbuhan (*Growth Architecture*) dipahami seperti **merawat ekosistem kebun yang subur**:  
+> 1. **Santri** adalah benih tunas yang membawa potensi fitrah ilahi;  
+> 2. **Pendidik (Asatidz & Musyrif)** adalah perawat kebun yang memberikan keteladanan, siraman kasih sayang, dan bimbingan terarah;  
+> 3. **Lembaga (Pesantren)** adalah tanah dan iklim (*bi'ah shalihah*) yang menyediakan aturan, fasilitas, dan budaya yang aman.  
+> 
+> Santri tidak dinilai berdasarkan "kasta usia" atau ranking mutlak. Perkembangan mereka dilihat dari **seberapa banyak bantuan eksternal yang masih mereka butuhkan menuju kemandirian penuh (Jenjang J1 hingga J4)**, dengan menyadari bahwa setiap santri memiliki ritme pertumbuhan yang unik dan tidak selalu bergerak lurus.
 
-Growth Architecture menjadi kerangka penghubung antara arah pertumbuhan, jalur perkembangan, kebutuhan dukungan, dan komponen progression lainnya. Ia tidak dimaksudkan menjadi teori tahap perkembangan universal.
+---
 
-## 2. Posisi dalam TUMBUH
+## 1. Tujuan Arsitektur Pertumbuhan
+
+Arsitektur Pertumbuhan (*Growth Architecture*) dirancang untuk:
+1. **Memayungi Ekosistem Tarbiyah:** Menghubungkan cita-cita profil lulusan (*Graduate Profile*) dengan praktik pembinaan harian di asrama, kelas, dan masjid.
+2. **Menjaga Keseimbangan Tiga Aktor Pertumbuhan:** Memastikan pembinaan santri tidak dilihat terpisah dari keteladanan guru (*educator*) dan kematangan sistem pesantren (*institution*).
+3. **Mengatur Dosis Dukungan dan Kemandirian (J1–J4):** Menjadi panduan bagi musyrif dalam menentukan kapan harus mendampingi secara melekat, kapan cukup mengingatkan, dan kapan mempercayakan tanggung jawab mandiri kepada santri.
+4. **Mencegah Jebakan Teori Tahap Kaku (*Anti-Rigid Stage Trap*):** Menolak anggapan bahwa semua anak usia tertentu harus berada di tingkat yang sama persis, atau bahwa santri yang butuh bantuan lebih banyak berarti santri yang "gagal".
+
+---
+
+## 2. Posisi dalam Struktur Fundamental TUMBUH
 
 ```text
-WORLDVIEW / NORMATIVE DIRECTION
+         ARAH NILAI ISLAM (Worldview & Tauhid)
+                          ↓
+        PROFIL LULUSAN (Syakhsiyyah Islamiyyah)
+                          ↓
+             FONDASI INTI (Core Model)
+                          ↓
+             ARSITEKTUR PERTUMBUHAN
+              (Growth Architecture)
+         ┌────────────────┼────────────────┐
+         ↓                ↓                ↓
+   JALUR SANTRI     JALUR PENDIDIK    JALUR LEMBAGA
+   (Pertumbuhan      (Keteladanan &    (Budaya Bi'ah &
+    Kapasitas)         Pengasuhan)       Tata Kelola)
+         └────────────────┬────────────────┘
+                          ↓
+            KOMPONEN PENJENJANGAN RINCI
+       (Capacity, Learning, Mastery, Gateways)
+```
+
+Arsitektur Pertumbuhan berfungsi sebagai **atap konseptual**. Rincian operasional mengenai cara mengukur kapasitas (CC-01 s/d CC-08), cara belajar, patok capaian (*milestones*), dan kriteria pindah jenjang dibahas secara khusus pada subdirektori pendukung di bawahnya.
+
+---
+
+## 3. Tiga Jalur Pertumbuhan (Three Development Tracks)
+
+Pertumbuhan di pesantren tidak bertumpu pada santri semata, melainkan bergerak serempak di tiga jalur:
+
+```text
+               SANTRI DEVELOPMENT
+       (Kapasitas, Adab, Kemandirian, Mastery)
+                         ↕
+              EDUCATOR DEVELOPMENT
+       (Pengasuhan, Keteladanan Qudwah, Bimbingan)
+                         ↕
+            INSTITUTIONAL DEVELOPMENT
+       (Sistem, Budaya Bi'ah, Tata Kelola, Evaluasi)
+```
+
+1. **Jalur Perkembangan Santri (*Santri Development*):**  
+   Fokus pada bagaimana santri mengasah 8 kapasitas intinya, menyerap ilmu, mempraktikkan adab harian, bertumbuh mandiri, hingga adab tersebut mendarah daging menjadi watak (*malakah*).
+2. **Jalur Perkembangan Pendidik (*Educator Development*):**  
+   Fokus pada kematangan asatidz dan musyrif dalam memberikan keteladanan nyata (*qudwah hasanah*), menguasai seni pengasuhan asrama yang penuh kasih (*luthf*), serta memiliki ketegasan berkeadilan tanpa kekerasan.
+3. **Jalur Perkembangan Lembaga (*Institutional Development*):**  
+   Fokus pada kematangan sistem pesantren: tata kelola yang amanah (*governance*), lingkungan fisik yang bersih dan sehat, regulasi perlindungan santri (*child safeguarding*), serta tradisi evaluasi berkelanjutan.
+
+> **Catatan Hubungan:** Ketiga jalur ini saling memengaruhi secara ekologis. Pendidik yang matang dan sistem yang adil memudahkan santri bertumbuh baik. Namun, ketiganya **bukan tahapan berurutan** (tidak perlu menunggu pesantren sempurna 100% baru santri bisa dididik).
+
+---
+
+## 4. Arsitektur Jenjang Dukungan/Kemandirian (J1–J4)
+
+Jenjang J1–J4 adalah **alat ukur dosis bantuan lingkungan**, bukan label kehormatan atau derajat manusia:
+
+| Jenjang | Nama Tingkat | Maksud Praktis di Lapangan | Peran Musyrif / Pembina |
+| :--- | :--- | :--- | :--- |
+| **J1** | **Dukungan Penuh**<br>*(High Structured Support)* | Santri baru beradaptasi; belum menguasai rutinitas; rentan bingung dan cemas jika dibiarkan sendiri. | **Mendampingi secara melekat:** Mencontohkan langsung, membimbing langkah demi langkah, dan memastikan rasa aman. |
+| **J2** | **Bimbingan Terarah**<br>*(Guided Scaffolding)* | Santri sudah paham ritme dasar; mulai mencoba sendiri namun masih sering lupa atau tidak konsisten. | **Memberikan perancah & pengingat:** Memasang jadwal visual (*checklist*), memberikan isyarat santun, dan memeriksa berkala. |
+| **J3** | **Mandiri Terpantau**<br>*(Independent Functioning)* | Santri sudah tertib dan konsisten menjalankan adab harian secara mandiri di lingkungan yang sudah ia kenal. | **Memantau dari jarak aman:** Memberi ruang gerak bebas, musyrif cukup melakukan konfirmasi berkala dan menjadi tempat konsultasi. |
+| **J4** | **Mandiri Kuat & Khidmah**<br>*(Autonomous Stewardship)* | Santri memiliki kemandirian kokoh; stabil di berbagai suasana; tergerak memimpin dan membantu adik kelasnya. | **Mempercayakan amanah kepemimpinan:** Memberikan mandat khidmah (pengurus asrama, imam halaqoh, mentor santri baru). |
+
+---
+
+## 5. Kaidah Utama: J1–J4 Bukan Vonis Kasta Pribadi
+
+Agar sistem ini tidak melukai martabat santri di pesantren, ditetapkan lima kaidah mutlak:
+
+1. **J-Level Bukan Nilai Manusiawi:**  
+   Santri J1 yang bersungguh-sungguh beramal sama mulianya di hadapan Allah dengan santri J4. Jenjang J hanya menunjukkan berapa banyak bantuan yang ia perlukan hari ini, bukan derajat keimanannya.
+2. **J-Level Tidak Mewakili Seluruh Pribadi (*Context-Specific*):**  
+   Seorang santri bisa berstatus **J3** dalam kebersihan kamar (sangat mandiri dan rapi), namun membutuhkan pendampingan **J1** dalam pelajaran nahwu-sharaf (butuh bimbingan intensif guru). Jangan memberi label tunggal pada diri anak.
+3. **Bukan Kasta Usia atau Kelas Otomatis:**  
+   Naik kelas dari kelas 1 ke kelas 2 madrasah tidak otomatis menaikkan santri dari J1 ke J2. Kenaikan jenjang didasarkan pada kesiapan dan bukti perilaku nyata di lapangan.
+4. **Pelepasan Bantuan Bertahap (*Fading Support*):**  
+   Tujuan pembina bukan mengikat santri agar selamanya tergantung pada pengasuh, melainkan secara perlahan melepaskan bantuan (*fading*) seiring bertambahnya kekuatan batin santri.
+5. **Keputusan Bersifat Fleksibel dan Dapat Berbalik (*Reversible*):**  
+   Jika santri yang sudah berada di J3 mengalami musibah keluarga, sakit, atau stres berat sehingga perilakunya sempat menurun, musyrif dapat menghadirkankan kembali dukungan perancah J2 untuk sementara waktu. Ini adalah bentuk **pertolongan kasih sayang**, bukan hukuman turun kasta.
+
+---
+
+## 6. Sifat Pertumbuhan: Non-Linier dan Membumi
+
+Pertumbuhan jiwa santri tidak pernah berjalan seperti garis lurus yang terus menanjak:
+
+```text
+               DINAMIKA PERTUMBUHAN FITRAH
+    Kemajuan ──► Fase Jenuh (Futur) ──► Pemulihan ──► Lompatan Kematangan
+```
+
+- **Santri Bisa Mengalami Fase Futur (Jenuh):** Ada masa di mana santri merasa bosan, lelah, atau rindu rumah. Arsitektur TUMBUH memandang hal ini sebagai dinamika manusiawi yang wajar.
+- **Tugas Musyrif:** Bukan memarahi atau menghakimi santri yang sedang lelah, melainkan menyesuaikan dukungan lingkungan agar santri menemukan kembali energi dan keikhlasannya.
+
+---
+
+## 7. Rantai Keterlacakan Sistemik (Traceability)
+
+Bagaimana sebuah keputusan pembinaan dipertanggungjawabkan dari hulu ke hilir:
+
+```text
+Arah Nilai Syariat & Tauhid
             ↓
-      GRADUATE PROFILE
+Profil Lulusan yang Diharapkan
             ↓
-       CORE MODEL
+Arsitektur Pertumbuhan (Peta Santri - Pendidik - Lembaga)
             ↓
-    GROWTH ARCHITECTURE
-       ↙    ↓     ↘
-   SANTRI  EDUCATOR  INSTITUTIONAL
+Pemantauan Kapasitas Harian (Logbook Musyrif 24 Jam)
             ↓
-     Progression Components
+Kesesuaian Jenjang Dukungan (J1 s/d J4)
             ↓
- Capacity / Learning / Mastery
-            ↓
- Milestones / Gateways / Transition
+Tindakan Pembinaan yang Tepat (Pendampingan Kasih Sayang)
 ```
 
-Growth Architecture memberi struktur umum. Komponen progression berikutnya memberikan aturan dan detail yang lebih spesifik untuk kapasitas, pembelajaran, mastery, milestone, gateway, dan transition.
+---
 
-## 3. Three Development Tracks
+## 8. Status Keabsahan Dokumen (Epistemic Status)
 
-### 3.1 Santri Development
-
-Fokus utamanya adalah perkembangan kapasitas, pembelajaran, kemandirian, dan mastery dalam konteks kehidupan dan pendidikan santri.
-
-### 3.2 Educator Development
-
-Fokusnya adalah perkembangan kapasitas pengasuhan, keteladanan, pembinaan, dan kepemimpinan.
-
-### 3.3 Institutional Development
-
-Fokusnya adalah perkembangan kapasitas sistem, budaya, governance, implementasi, dan continuous improvement.
-
-Ketiga track saling berhubungan. Educator dan institutional development dapat memengaruhi ecology dan opportunities bagi santri; perkembangan santri juga memberi feedback bagi educator dan institution.
-
-Namun ketiganya **bukan tiga tahap yang harus dilalui secara berurutan**.
-
-## 4. Relationship antar-Track
-
-```text
-SANTRI DEVELOPMENT
-       ↕
-EDUCATOR DEVELOPMENT
-       ↕
-INSTITUTIONAL DEVELOPMENT
-```
-
-Hubungan tersebut bersifat ecological dan developmental. Perubahan pada satu track dapat menciptakan kondisi yang mendukung atau menghambat track lain.
-
-Tidak boleh dibuat inferensi bahwa:
-
-- educator yang lebih berkembang selalu menghasilkan santri yang lebih berkembang;
-- institution yang lebih matang otomatis menghasilkan outcome individu tertentu;
-- perkembangan individu membuktikan efektivitas institution;
-- ketiga track memiliki indikator atau tempo perkembangan yang sama.
-
-Hubungan kausal memerlukan evidence tersendiri.
-
-## 5. Jenjang Kemandirian J1–J4
-
-J1–J4 merupakan **arsitektur tingkat dukungan/kemandirian**.
-
-| Jenjang | Makna arsitektural |
-|---|---|
-| **J1 — Dukungan tinggi** | Struktur, arahan, dan pendampingan intensif. |
-| **J2 — Dukungan terarah** | Mulai menjalankan dengan arahan dan monitoring. |
-| **J3 — Kemandirian berkembang** | Mampu menjalankan dengan dukungan minimal pada konteks yang sesuai. |
-| **J4 — Kemandirian kuat** | Mampu mengelola diri dan menjalankan amanah secara relatif mandiri, termasuk menghadapi variasi konteks. |
-
-Definisi ini mengikuti baseline repo dan harus dibaca sebagai arsitektur support/autonomy, bukan ranking nilai manusia. fileciteturn846file0
-
-## 6. J1–J4 Bukan Stage Universal
-
-J1–J4 tidak boleh diperlakukan sebagai:
-
-- hukum perkembangan manusia;
-- developmental psychology stage model;
-- urutan usia;
-- urutan kelas;
-- urutan jenjang pendidikan;
-- ranking individu;
-- skor total kapasitas;
-- label permanen.
-
-Seseorang dapat berada pada tingkat dukungan berbeda untuk fungsi, construct, tuntutan, atau konteks yang berbeda.
-
-```text
-J-level
-   ≠
-Whole Person Level
-```
-
-## 7. Context Dependence
-
-Kemandirian selalu perlu dibaca terhadap tuntutan yang dihadapi.
-
-```text
-Functioning
-    +
-Demand
-    +
-Context
-    +
-Available Support
-    ↓
-Support / Autonomy Fit
-```
-
-Seseorang dapat berfungsi relatif mandiri dalam satu konteks dan membutuhkan dukungan lebih besar dalam konteks lain. Perubahan tuntutan tidak otomatis berarti capacity loss.
-
-## 8. Support Reduction dan Growth
-
-J1–J4 dapat membantu menggambarkan perubahan kebutuhan dukungan, tetapi pengurangan dukungan bukan satu-satunya definisi growth.
-
-```text
-More Support
-     ↓
-Guided Functioning
-     ↓
-Reduced Support when appropriate
-     ↓
-More Appropriate Independence
-```
-
-Pergerakan antar-tingkat perlu ditentukan melalui evidence dan review. Tidak ada asumsi bahwa J4 selalu lebih baik dalam semua situasi atau bahwa kebutuhan support merupakan kegagalan.
-
-## 9. Hubungan dengan Core Capacity Architecture
-
-Core Capacity Architecture menjawab **kapasitas apa** yang menjadi rujukan TUMBUH. Growth Architecture membantu menjelaskan **ruang perkembangan dan dukungan** tempat kapasitas tersebut berkembang.
-
-```text
-Core Capacity
-      ↓
-Functioning in Context
-      ↓
-Support / Autonomy Requirement
-      ↓
-Progression Review
-```
-
-Growth Architecture tidak menambah Core Capacity baru dan tidak mengubah J1–J4 menjadi delapan atau sepuluh level kapasitas.
-
-## 10. Hubungan dengan Progression Components
-
-### Capacity Progression
-
-Menjelaskan perubahan functioning pada Core Capacities melalui progression dimensions seperti scope, consistency, support requirement, complexity, flexibility, transfer, maintenance, dan integration.
-
-### Learning Progression
-
-Menjelaskan perkembangan melalui pengalaman belajar, practice, feedback, reflection, demonstration, dan transfer sesuai tujuan dan konteks.
-
-### Mastery Progression
-
-Menilai perkembangan menuju performance yang konsisten, appropriate independence/support fit, transfer, dan sustained application ketika relevan.
-
-### Milestones & Gateways
-
-Milestone menunjukkan evidence bahwa suatu criterion tercapai. Gateway adalah titik keputusan apakah pengalaman, tuntutan, atau dukungan berikutnya sesuai.
-
-### Transition Criteria
-
-Menentukan bagaimana evidence ditinjau sebelum perubahan dukungan, tuntutan, atau konteks dilakukan.
-
-Growth Architecture menjadi payung konseptual; komponen-komponen tersebut tetap memiliki fungsi masing-masing.
-
-## 11. Developmental Change Tidak Harus Linear
-
-Pertumbuhan dapat mengalami:
-
-- kemajuan;
-- perlambatan;
-- plateau;
-- regresi sementara;
-- variasi antar-konteks;
-- perubahan kebutuhan support;
-- perubahan karena tuntutan yang meningkat.
-
-Karena itu, perpindahan J1 → J2 → J3 → J4 bukan hukum yang harus selalu terjadi secara lurus.
-
-## 12. Reassessment dan Reversibility
-
-Perubahan tingkat dukungan harus dapat ditinjau kembali.
-
-```text
-Evidence
-   ↓
-Review
-   ↓
-Context Check
-   ↓
-Transition Decision
-   ↓
-Trial
-   ↓
-Monitor
-   ↓
-Confirm / Adjust / Revert
-```
-
-Kembali membutuhkan dukungan lebih besar tidak otomatis berarti kegagalan. Ia dapat merupakan respons yang tepat terhadap perubahan tuntutan, konteks, atau kondisi.
-
-## 13. Fairness dan Dignity
-
-Growth Architecture harus menjaga agar perbedaan kebutuhan dukungan tidak menjadi dasar untuk merendahkan martabat individu.
-
-Khususnya:
-
-- support need ≠ deficit;
-- J1 ≠ rendah sebagai manusia;
-- J4 ≠ superior sebagai manusia;
-- perbedaan konteks ≠ ketidakmampuan;
-- perubahan support ≠ perubahan nilai diri.
-
-Bahasa progression harus menggambarkan functioning dan support fit, bukan memberi identitas permanen.
-
-## 14. Assessment Boundary
-
-Assessment dapat menyediakan evidence untuk memahami functioning dan support requirement. Namun Growth Architecture bukan assessment instrument dan tidak menghasilkan skor J1–J4 secara otomatis.
-
-Jika J1–J4 digunakan dalam assessment, operational definition, evidence requirement, dan transition criteria harus ditetapkan secara terpisah dan dapat ditelusuri.
-
-## 15. Intervention Boundary
-
-Growth Architecture dapat mengarahkan kebutuhan dukungan secara konseptual, tetapi tidak otomatis menentukan intervensi.
-
-```text
-Growth Architecture
-      ↓
-Support / Autonomy Understanding
-      ↓
-Evidence + Need Analysis
-      ↓
-Intervention Decision
-```
-
-Pilihan intervensi tetap mengikuti Intervention Decision Architecture dan evidence yang relevan.
-
-## 16. Institutional Development
-
-Institutional Development perlu dipahami sebagai perkembangan kemampuan institusi untuk menyediakan ecology yang lebih baik, menjalankan governance, mendukung educator, dan melakukan continuous improvement.
-
-Perkembangan institusi tidak boleh direduksi menjadi satu skor yang dianggap mewakili kualitas seluruh manusia di dalamnya.
-
-## 17. Educator Development
-
-Educator Development berhubungan dengan kemampuan pengasuhan, keteladanan, pembinaan, dan kepemimpinan. Perkembangan educator perlu dipahami sesuai peran, tuntutan, konteks, dan evidence yang relevan.
-
-Educator development juga tidak boleh dianggap selesai ketika mencapai satu tingkat J tertentu.
-
-## 18. Batas Klaim
-
-Arsitektur ini tidak membuktikan bahwa:
-
-- J1–J4 merupakan tahapan perkembangan universal;
-- usia atau kelas menentukan J-level;
-- J4 selalu lebih baik untuk semua fungsi dan konteks;
-- perpindahan J-level membuktikan capacity growth;
-- educator development secara kausal menentukan santri development;
-- institutional development secara kausal menentukan outcome individu;
-- satu indikator dapat mewakili keseluruhan track development.
-
-Klaim empiris, prediktif, dan kausal memerlukan evidence yang sesuai.
-
-## 19. Traceability
-
-```text
-Normative Direction
-       ↓
-Graduate Profile
-       ↓
-Core Model
-       ↓
-Growth Architecture
-       ↓
-Development Track / Support-Autonomy Context
-       ↓
-Relevant Progression Component
-       ↓
-Evidence
-       ↓
-Review / Transition Decision
-```
-
-## 20. Status Arsitektur
-
-Growth Architecture ditetapkan sebagai kerangka arsitektural Progression untuk tahap ini. Detail indikator, evidence requirements, progression judgments, milestone, gateway, dan transition criteria berada pada komponen masing-masing dan tidak boleh disatukan secara diam-diam ke dalam Growth Architecture.
+- **Status:** *Conceptually Specified; Empirically Provisional.*
+- Dokumen ini adalah kerangka konseptual resmi TUMBUH v2.0.0. Ia tidak boleh dianggap sebagai alat diagnosis psikologis medis, melainkan **pedoman pengasuhan adab yang terstruktur dan berkeadilan** bagi keluarga besar pesantren.

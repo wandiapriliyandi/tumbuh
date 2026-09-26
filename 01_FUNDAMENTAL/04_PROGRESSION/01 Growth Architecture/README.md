@@ -1,45 +1,65 @@
 # 04_PROGRESSION / 01 Growth Architecture
 
-**Status:** RESTRUCTURED — Wave 3 baseline  
-**System version:** TUMBUH v2.0.0
+**Status:** CANONICAL ARCHITECTURE — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)
 
-## Purpose
-Mengatur arsitektur pertumbuhan TUMBUH tanpa memaksakan satu urutan tahap universal untuk seluruh manusia.
+---
 
-## Three Development Tracks
+## 1. Hakikat dan Tujuan Direktori
+
+Direktori `01 Growth Architecture` mengatur kerangka dasar pertumbuhan dalam ekosistem TUMBUH tanpa memaksakan satu urutan tahap universal yang kaku untuk seluruh manusia.
+
+Tujuan utama direktori ini adalah:
+1. **Menghubungkan Tiga Jalur Pertumbuhan (*Three Development Tracks*):** Memastikan perkembangan santri selalu didukung oleh keteladanan pendidik (*educator*) dan kematangan budaya sistem kelembagaan pesantren (*institution*).
+2. **Menata Jenjang Dukungan/Kemandirian (J1–J4):** Menetapkan arsitektur perancah (*scaffolding*) dan pelepasan bantuan bertahap (*fading support*) bagi kemandirian santri.
+3. **Menyelaraskan Beragam Model Penjenjangan Perkembangan:** Menyediakan tabel penyelarasan terpadu antara 10 Tingkat Internalisasi Adab, 5 Tingkat Kapasitas Fungsional, dan Jenjang J1–J4 melalui dokumen khusus.
+
+---
+
+## 2. Tiga Jalur Pertumbuhan (Three Development Tracks)
 
 ```text
-SANTRI DEVELOPMENT
-→ kapasitas, pembelajaran, kemandirian, mastery
-
-EDUCATOR DEVELOPMENT
-→ kapasitas pengasuhan, keteladanan, pembinaan, kepemimpinan
-
-INSTITUTIONAL DEVELOPMENT
-→ kapasitas sistem, budaya, governance, implementasi, continuous improvement
+               SANTRI DEVELOPMENT
+       (Kapasitas, Adab, Kemandirian, Mastery)
+                         ↕
+              EDUCATOR DEVELOPMENT
+       (Pengasuhan, Keteladanan Qudwah, Bimbingan)
+                         ↕
+            INSTITUTIONAL DEVELOPMENT
+       (Sistem, Budaya Bi'ah, Tata Kelola, Evaluasi)
 ```
 
-Ketiga jalur ini dipandang sebagai ruang perkembangan yang saling berhubungan. Hubungan tersebut tidak dimaksudkan sebagai tahap universal atau urutan perkembangan yang harus dilalui dengan cara yang sama oleh setiap individu atau lembaga.
+Ketiga jalur ini saling berkaitan secara ekologis. Perubahan pada keteladanan guru dan kebijakan pesantren menciptakan iklim yang memampukan santri bertumbuh optimal.
 
-## Jenjang Kemandirian J1–J4
-J1–J4 diposisikan sebagai **arsitektur tingkat dukungan/kemandirian**, bukan hukum tahap perkembangan universal dan bukan skor asesmen.
+---
 
-- **J1 — Dukungan tinggi:** struktur, arahan, dan pendampingan intensif.
-- **J2 — Dukungan terarah:** mulai menjalankan dengan arahan dan monitoring.
-- **J3 — Kemandirian berkembang:** mampu menjalankan dengan dukungan minimal pada konteks yang sesuai.
-- **J4 — Kemandirian kuat:** mampu mengelola diri dan menjalankan amanah secara relatif mandiri, termasuk menghadapi variasi konteks.
+## 3. Arsitektur Jenjang Kemandirian (J1–J4)
 
-Definisi rinci, indikator, dan transition criteria harus ditetapkan dalam dokumen progression dan assessment terkait.
+J1–J4 diposisikan sebagai **tingkat intensitas dukungan lingkungan**, bukan kasta nilai manusia:
 
-## Boundary
-Growth Architecture tidak sama dengan developmental psychology stage model. Usia, kelas, atau jenjang pendidikan tidak otomatis menentukan J1–J4.
+- **J1 — Dukungan Tinggi (*High Support*):** Santri membutuhkan struktur, pendampingan intensif, dan instruksi langsung.
+- **J2 — Dukungan Terarah (*Guided Scaffolding*):** Santri mulai menjalankan rutinitas dengan panduan jadwal dan pengingat berkala.
+- **J3 — Kemandirian Berkembang (*Independent Functioning*):** Santri mampu menjalankan fungsi adab secara ajek dengan dukungan minimal di konteks yang akrab.
+- **J4 — Kemandirian Kuat & Khidmah (*Autonomous Stewardship*):** Santri mampu memimpin diri, mengayomi adik kelas, dan menjalankan amanah kelembagaan secara mandiri.
 
-Growth Architecture juga tidak menggantikan **Core Capacity Architecture**. Core Capacity Architecture menetapkan kapasitas inti yang menjadi rujukan TUMBUH; Progression menjelaskan bagaimana perkembangan kapasitas, pembelajaran, kemandirian, dan mastery dapat dipahami serta ditindaklanjuti.
+---
 
-## Related
-- `03_CORE_MODEL/`
-- `04_PROGRESSION/02 Capacity Progression/`
-- `04_PROGRESSION/03 Learning Progression/`
-- `04_PROGRESSION/04 Mastery Progression/`
-- `04_PROGRESSION/05 Milestones & Gateways/`
-- `04_PROGRESSION/06 Transition Criteria/`
+## 4. Penyelarasan Model Penjenjangan (Alignment)
+
+Untuk menjawab kebingungan mengenai banyaknya tingkatan (10 Tingkat Internalisasi Adab, 5 Tingkat Progresi Kapasitas, dan Jenjang J1–J4), direktori ini menyediakan berkas rujukan resmi:
+- **[09-Developmental-Levels-Alignment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/09-Developmental-Levels-Alignment.md):** Membedah ketiga lensa tersebut dan menyajikannya dalam **Tabel Penyelarasan Terpadu (*Master Alignment Table*)**.
+
+---
+
+## 5. Daftar Berkas dalam Direktori Ini
+
+- [01-Growth-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/01-Growth-Architecture.md) — Arsitektur induk pertumbuhan sistemik TUMBUH.
+- [02-Growth-Architecture-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/02-Growth-Architecture-Audit.md) — Laporan audit kecukupan konsep arsitektur pertumbuhan.
+- [03-Development-Tracks.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/03-Development-Tracks.md) — Spesifikasi tiga jalur perkembangan (Santri, Educator, Lembaga).
+- [04-Triad-Growth-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/04-Triad-Growth-Architecture.md) — Dinamika keterpaduan triadik santri-guru-lembaga.
+- [05-J1-J4-Support-Autonomy.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/05-J1-J4-Support-Autonomy.md) — Landasan konseptual arsitektur dukungan/kemandirian J1–J4.
+- [06-Growth-Context-and-Nonlinearity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/06-Growth-Context-and-Nonlinearity.md) — Prinsip dinamika non-linier dan pengaruh konteks ekologis.
+- [07-Growth-Architecture-Boundaries.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/07-Growth-Architecture-Boundaries.md) — Pagar batas epistemik dan pencegahan reduksionisme tahap.
+- [08-Growth-Architecture-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/08-Growth-Architecture-Traceability.md) — Rantai keterlacakan dari filosofi fondasi ke implementasi pertumbuhan.
+- [09-Developmental-Levels-Alignment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01%20Growth%20Architecture/09-Developmental-Levels-Alignment.md) — **Penyelarasan Terpadu 10 Tingkat Internalisasi, 5 Tingkat Kapasitas, dan Jenjang J1–J4.**

@@ -1,102 +1,93 @@
-# Gateway Decision Architecture
+# Arsitektur Keputusan Gerbang Pembinaan (Gateway Decision Architecture)
 
-**Status:** DESIGNED — v2.0.0 / Milestones & Gateways
-**Epistemic status:** conceptually specified; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [05 Milestones & Gateways/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/README.md)  
+**Dokumen Terkait:**  
+- [01-Milestones-Gateways-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/01-Milestones-Gateways-Architecture.md)  
+- [03-Milestone-Design-and-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/03-Milestone-Design-and-Criteria.md)  
+- [05-Gateway-Readiness-and-Support-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/05-Gateway-Readiness-and-Support-Fit.md)
 
-## 1. Purpose
+---
 
-Gateway adalah titik keputusan untuk menentukan apakah pengalaman belajar, dukungan, atau tuntutan berikutnya sesuai dengan evidence dan kondisi saat ini.
+> ### Intisari untuk Pendidik & Dewan Asatidz
+> **Gerbang Keputusan (*Gateway*) bukanlah mahkamah penghakiman santri.**  
+> Di pesantren TUMBUH, Gateway adalah **musyawarah kearifan para asatidz untuk menguji kesiapan dan menjaga keselamatan santri**:  
+> *"Apakah santri ini sudah aman dan matang untuk kita beri amanah baru atau kita kurangi pengawasannya?"*  
+> Jika santri dinyatakan belum siap melewati gerbang tertentu, hal itu **bukanlah hukuman atau vonis gagal**, melainkan tindakan kasih sayang untuk melindungi santri dari beban yang belum sanggup ia pikul, sembari terus memperkuat bimbingan yang ia butuhkan.
 
-Gateway bukan mekanisme kelulusan manusia.
+---
 
-## 2. Decision Flow
+## 1. Alur Musyawarah Keputusan Gerbang (*Gateway Flow*)
 
-```text
-Evidence
-↓
-Milestone / Relevant Functioning
-↓
-Context & Demand Review
-↓
-Support Fit Review
-↓
-Safety / Access Check
-↓
-Gateway Decision
-↓
-Trial / Next Step
-↓
-Monitor
-↓
-Review
-```
-
-## 3. Decision Options
-
-Gateway dapat menghasilkan beberapa keputusan:
-
-- lanjut ke tuntutan berikutnya;
-- pertahankan tuntutan saat ini;
-- tambah dukungan;
-- ubah bentuk dukungan;
-- turunkan atau modifikasi tuntutan;
-- berikan pengalaman tambahan;
-- kumpulkan evidence tambahan;
-- tunda keputusan;
-- review keselamatan atau safeguarding.
-
-## 4. Readiness
-
-Readiness bukan satu angka. Ia merupakan pertimbangan terhadap evidence functioning, tuntutan, konteks, support fit, dan kondisi keselamatan yang relevan.
-
-## 5. Gateway dan Milestone
-
-Milestone memberikan informasi tentang bukti perkembangan. Gateway menggunakan informasi tersebut bersama konteks untuk mengambil keputusan.
-
-Karena itu:
+Pengambilan keputusan di titik Gateway dilakukan secara terstruktur melalui tujuh langkah permufakatan:
 
 ```text
-Milestone → informs Gateway
-Milestone ≠ Gateway
+1. Pengumpulan Bukti Capaian Santri (Milestone & Catatan Lapangan 24 Jam)
+                              ↓
+2. Telaah Beban & Tuntutan Baru yang Akan Diberikan
+                              ↓
+3. Evaluasi Kesiapan Mental & Adab Santri (Readiness Check)
+                              ↓
+4. Pemeriksaan Faktor Keselamatan & Perlindungan (Safeguarding Check)
+                              ↓
+5. Musyawarah Perumusan Keputusan Dewan Asatidz (Gateway Decision)
+                              ↓
+6. Masa Uji Coba Terpantau (Trial Period: 2–4 Pekan)
+                              ↓
+7. Evaluasi Ulang: Pengesahan Mandiri  ATAU  Penyesuaian Bimbingan Kembali
 ```
 
-Tercapainya milestone tidak otomatis memaksa gateway untuk maju.
+---
 
-## 6. Gateway dan J1–J4
+## 2. Beragam Pilihan Keputusan Dewan Asatidz
 
-Informasi J1–J4 dapat membantu memahami kebutuhan dukungan, tetapi tidak boleh menjadi satu-satunya dasar gateway.
+Keputusan Gateway tidak bersifat hitam-putih (hanya lulus vs tidak lulus), melainkan menawarkan opsi yang bijak:
 
-```text
-J-level ≠ Gateway Score
-```
+| Pilihan Keputusan | Kapan Dipilih? | Tindakan Nyata di Pesantren |
+| :--- | :--- | :--- |
+| **Melangkah Maju (*Advance*)** | Bukti kesiapan adab sangat kokoh, mandiri, dan stabil. | Santri dinaikkan ke jenjang tantangan baru (misal: diangkat menjadi ketua kamar atau naik dari J2 ke J3). |
+| **Masa Uji Coba (*Trial Period*)** | Santri menunjukkan potensi baik, namun perlu dilihat responnya pada situasi nyata. | Diberi peran baru selama 2–4 pekan dengan pengawasan berkala dari musyrif pendamping. |
+| **Pertahankan Ritme (*Maintain*)** | Santri sudah nyaman dan butuh pemantapan ritme yang ada agar wataknya mengakar. | Santri tetap berada pada tingkat tugas dan dukungan yang sama tanpa dinaikkan bebannya. |
+| **Sesuaikan Bantuan (*Adjust Support*)** | Santri menemui kesulitan spesifik pada satu aspek rutinitas. | Musyrif mengubah bentuk pendampingan (misal: mengganti jadwal visual atau menata teman sebangku). |
+| **Tahan Demi Keselamatan (*Safeguarding Pause*)** | Santri sedang mengalami tekanan psikososial berat, duka keluarga, atau sakit. | Beban tugas diturunkan sementara; fokus pada pemulihan ketenangan batin santri. |
 
-## 7. Gateway dan Safety
+---
 
-Keselamatan dapat mengubah keputusan meskipun evidence perkembangan terlihat cukup. Gateway harus mempertimbangkan risiko yang relevan terhadap individu, orang lain, dan lingkungan.
+## 3. Faktor Kesiapan (*Readiness*) Bukan Sekadar Usia
 
-## 8. Reversibility
+Kesiapan santri (*readiness*) tidak boleh disimpulkan hanya dari pertambahan usia biologis atau kenaikan kelas formal:
+- **Kesiapan Adab:** Apakah santri sudah mampu mengendalikan emosi dan mandiri dalam ibadah?
+- **Kesiapan Tanggung Jawab:** Apakah santri tidak menyalahgunakan kebebasan saat pengawasan dikurangi?
+- **Kecocokan Lingkungan:** Apakah lingkungan kamar atau kawan sekelompok siap menerima santri dengan peran barunya?
 
-Keputusan gateway harus dapat ditinjau. Setelah trial, evidence baru dapat menunjukkan bahwa keputusan perlu dipertahankan, disesuaikan, atau dibalik.
+---
 
-## 9. Fairness
+## 4. Prioritas Keselamatan & Perlindungan Santri (*Safeguarding First*)
 
-Gateway tidak boleh menggunakan usia, kelas, atau status administratif sebagai proxy tunggal untuk readiness. Perbedaan akses dan dukungan harus dipertimbangkan ketika relevan.
+Bahkan jika santri memiliki prestasi akademik yang sangat tinggi atau telah mencapai banyak Milestone hafalan:
+- **Keselamatan Jiwa & Raga Tetap Nomor Satu:** Jika pemberian peran kepemimpinan atau pengurangan pengawasan berisiko memaparkan santri pada perundungan (*bullying*), stres berat, atau kelelahan ekstrem, dewan asatidz wajib menahan Gateway tersebut demi melindungi santri.
 
-## 10. Governance
+---
 
-Setiap gateway formal perlu mendokumentasikan:
+## 5. Keputusan Dapat Ditinjau Ulang dan Dibalik (*Reversibility*)
 
-- pertanyaan keputusan;
-- evidence yang digunakan;
-- konteks dan tuntutan;
-- support condition;
-- risk/safety consideration;
-- opsi keputusan;
-- alasan keputusan;
-- kondisi review/reversal.
+- Keputusan Gateway bukanlah stempel permanen yang mengunci masa depan anak.
+- Jika dalam masa uji coba peran baru santri terbukti kewalahan atau perilakunya menurun, tim asatidz **dengan penuh kasih sayang menarik kembali santri ke tingkat dukungan sebelumnya**.
+- Proses ini dilakukan dengan **pendekatan tarbiyah yang menenteramkan hati anak**, memastikan santri tidak merasa dipermalukan atau kehilangan harapan.
 
-## 11. Boundary
+---
 
-Gateway bukan ranking, grade, punishment mechanism, diagnosis, atau label permanen.
+## 6. Pagar Batas Epistemik (Negative Boundaries)
 
-Tidak melewati gateway berarti kondisi saat ini belum mendukung keputusan tertentu; bukan berarti individu gagal secara keseluruhan.
+1. **Gateway Bukan Sistem Kasta / Ranking:** Dilarang mengumumkan santri yang belum lolos gateway sebagai "anak bermasalah" di depan umum.
+2. **Bukan Pengganti Pengasuhan:** Gateway adalah alat bantu musyawarah, bukan pengganti kehadiran hangat figur musyrif di tengah santri.
+3. **Dilarang Menjadikan Gateway Alat Intimidasi:** Musyrif tidak boleh mengancam: *"Kalau kamu nakal, ustadz tidak akan meloloskan kamu di gerbang ini!"*. Pendekatan tarbiyah selalu berpijak pada motivasi keimanan dan kasih sayang.
+
+---
+
+## 7. Status Keabsahan Dokumen (Epistemic Status)
+
+- **Status:** *Conceptually Specified; Empirically Provisional.*
+- Dokumen ini adalah pedoman tata kelola pengambilan keputusan pembinaan di pesantren TUMBUH v2.0.0.
+- Menjamin setiap transisi tanggung jawab santri berlangsung secara aman, terukur, adil, dan senantiasa berorientasi pada kemaslahatan pertumbuhan fitrah anak.

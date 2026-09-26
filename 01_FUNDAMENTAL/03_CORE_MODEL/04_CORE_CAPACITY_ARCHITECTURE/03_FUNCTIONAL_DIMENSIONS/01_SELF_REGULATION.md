@@ -1,94 +1,150 @@
 # Dimensi Fungsi 01: Regulasi Diri (Functional Dimensions — Self-Regulation)
 
-**Status:** KONSEPTUAL KANONIK — Roda Gigi Kerja Kapasitas Pengendalian Diri (CC-01)
-
-Dokumen ini membedah bagaimana kapasitas **Regulasi Diri (*Self-Regulation*)** bekerja di dalam jiwa santri: bukan sebagai bakat gaib yang tiba-tiba muncul, melainkan melalui tiga roda gigi fungsi batin yang berputar saling menggerakkan.
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Dimensi Fungsional TUMBUH v2.0.0  
+**Kode Konstruk:** CC-01-FD  
+**Sasaran Kerja (*Functional Object*):** Keberfungsian dan tindakan diri relatif terhadap arah atau tujuan yang relevan  
 
 ---
 
-## 1. Apa itu Dimensi Fungsi Regulasi Diri?
+## 1. Hakikat dan Roda Gigi Kerja Regulasi Diri
 
-Ketika seorang santri mampu bangun tidur saat bel Subuh berbunyi, menepis selimut di udara dingin, lalu melangkah mengambil wudhu tanpa diseret oleh musyrif, di dalam jiwanya terjadi sebuah proses mental yang sangat teratur.
+Ketika seorang santri mampu bangun saat bel sahur atau tarhim berbunyi, menepis selimut tebal di tengah hawa dingin subuh, lalu melangkah tenang mengambil air wudhu tanpa harus diteriaki atau diseret oleh musyrif, peristiwa tersebut bukanlah keajaiban spontan. Di dalam jiwanya terjadi perputaran terkoordinasi dari tiga roda gigi kerja fungsional (*functional dimensions*).
 
-Kemampuan mengendalikan diri ini tidak berdiri sendiri, melainkan ditopang oleh **tiga dimensi fungsi utama**:
+Regulasi Diri (*Self-Regulation*) bukanlah satu lempeng bakat bawaan yang kaku. Kapasitas ini bekerja melalui **tiga serangkai dimensi fungsi (*triad dimensions*)** yang berakar pada tradisi tazkiyatun nafs:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   TIGA DIMENSI KERJA REGULASI DIRI                     │
+│               TRIAD DIMENSI KERJA REGULASI DIRI (CC-01)                │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. PEMANTAUAN DIRI (Monitoring)     : Menyadari apa yang sedang terjadi│
-│                 ↓                                                      │
-│ 2. PENGENDALIAN RESPONS (Regulation): Menahan dorongan & menata aksi   │
-│                 ↓                                                      │
-│ 3. PENYELARASAN ARAH (Reorientation): Mengembalikan haluan saat goyah  │
+│ 1. MONITORING (Pemantauan Diri / Muraqabatun Nafs)                    │
+│    "Di mana posisi batin dan raga saya saat ini terhadap tujuan?"      │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 2. REGULATION (Pengendalian Respons / Mujahadatun Nafs)                │
+│    "Tindakan apa yang harus ditahan, dialihkan, atau dieksekusi?"      │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 3. REORIENTATION (Penyelarasan & Pemulihan Arah / Tajdidul 'Azm)       │
+│    "Bagaimana saya bangkit dan menyelaraskan kompas saat goyah?"       │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-Ketiga dimensi ini bukanlah tiga kapasitas baru yang terpisah, melainkan **tiga langkah kerja batin** pada sasaran kerja yang sama: yaitu *mengelola keadaan dan tindakan diri sendiri agar selaras dengan tuntutan adab dan ibadah*.
+Ketiga dimensi ini bukanlah tahapan usia yang terpisah, melainkan **satu siklus umpan balik batin (*internal feedback loop*)** yang terus berputar saat santri berinteraksi dengan tuntutan adab, godaan syahwat, keletihan fisik, maupun ujian sosial di asrama 24 jam.
 
 ---
 
-## 2. Sasaran Kerja (Functional Object)
+## 2. Landasan Nilai Syar'i dan Akar Turats
 
-> **Sasaran Kerja Regulasi Diri adalah: Sikap, emosi, dorongan hawa nafsu, dan tindakan diri sendiri ketika berhadapan dengan tujuan, gangguan, atau ujian di asrama.**
+Dalam khazanah Turats Islam, regulasi diri diletakkan di atas fondasi *Muraqabah* (pengawasan batin kepada Allah), *Muhasabah* (evaluasi diri), dan *Mujahadah* (kesungguhan menundukkan dorongan hawa nafsu).
 
-Objek yang diatur santri bukanlah orang lain, bukan aturan asrama, dan bukan jam weker; objek yang diaturnya adalah **dirinya sendiri**.
+Imam Al-Ghazali dalam *Ihya' 'Ulum ad-Din* (Kitab al-Muraqabah wa al-Muhasabah) menjelaskan:
 
----
+$$\text{"اعْلَمْ أَنَّ الْعَبْدَ لَا يَسْتَغْنِي عَنِ الْمُحَاسَبَةِ قَبْلَ الْعَمَلِ، وَعِنْدَ الْعَمَلِ، وَبَعْدَ الْعَمَلِ"}$$
+*(Ketahuilah bahwa seorang hamba tidak pernah lepas dari kebutuhan untuk memeriksa dirinya: sebelum beramal [niat], saat beramal [kendali perbuatan], dan setelah beramal [evaluasi & pemulihan arah]).*
 
-## 3. Rincian Tiga Dimensi Fungsi
-
-### Dimensi 1: Pemantauan Diri (*Self-Monitoring*)
-- **Pertanyaan Batin Santri:** *"Apa yang sedang saya rasakan sekarang? Apakah saya sedang marah, mengantuk, atau melamun? Apakah hafalan saya sudah sesuai target?"*
-- **Penjelasan Fungsi:** Kemampuan memasang "radar batin" untuk mengamati keadaan pikiran, detak emosi, dan tindakan tubuhnya sendiri secara jujur.
-- **Contoh Nyata di Asrama:**
-  Santri Zaid sedang mengantre giliran mandi pagi. Santri di dalam kamar mandi mandi terlalu lama padahal waktu iqomah tinggal 10 menit. Radar batin Zaid langsung berbunyi: *"Jantungku berdegup kencang, tanganku mengepal, aku mulai merasa sangat jengkel."* Kemampuan menyadari rasa jengkel ini sebelum meledak menjadi bentakan adalah wujud dari *Pemantauan Diri*.
-
-### Dimensi 2: Pengendalian Respons (*Regulation*)
-- **Pertanyaan Batin Santri:** *"Tindakan apa yang harus saya tahan, dan respons apa yang harus saya pilih agar tetap beradab?"*
-- **Penjelasan Fungsi:** Kemampuan menahan dorongan nafsu spontan (*inhibitory control*) dan mengarahkan energi tubuh ke tindakan yang diridhai Allah SWT.
-- **Contoh Nyata di Asrama:**
-  Setelah menyadari amarahnya yang memuncak di depan pintu kamar mandi, Zaid menarik napas panjang, beristighfar di dalam hati, melepaskan kepalan tangannya, dan memilih mengetuk pintu dengan sopan: *"Akhi, afwan, waktu iqomah sudah dekat, mohon dipercepat ya."* Zaid berhasil mengendalikan dorongan ingin menendang pintu.
-
-### Dimensi 3: Penyelarasan Niat dan Arah (*Reorientation*)
-- **Pertanyaan Batin Santri:** *"Saya tadi sempat lalai atau terpancing emosi, bagaimana cara saya kembali ke jalur kebaikan sekarang?"*
-- **Penjelasan Fungsi:** Kemampuan bangkit kembali (*recovery*) dan mengarahkan ulang kompas jiwa setelah sempat tergelincir, terdistraksi, atau berbuat kelalaian.
-- **Contoh Nyata di Asrama:**
-  Saat jam belajar mandiri malam, santri Farhan sempat tergoda mengobrol dan bercanda selama 15 menit dengan kawan sekamar. Tiba-tiba ia teringat target setoran kitab besok pagi. Farhan tidak larut dalam rasa bersalah yang berkepanjangan; ia tersenyum, berkata pada kawannya: *"Akhi, afwan, kita sambung lagi nanti bakda Isya ya, ana mau fokus selesaikan dua bait ini,"* lalu ia kembali membuka kitabnya.
+Ibnul Qayyim al-Jauziyyah dalam *Madarij as-Salikin* menegaskan bahwa tegaknya istiqamah menuntut dua kekuatan jiwa:
+1. **Quwwatul Iqdam (قُوَّةُ الإِقْدَامِ):** Kekuatan inisiatif untuk melangkah maju menjalankan ketaatan.
+2. **Quwwatul Ihjam (قُوَّةُ الإِحْجَامِ):** Kekuatan rem batin (*inhibitory control*) untuk menahan diri dari kemaksiatan dan dorongan yang merusak.
 
 ---
 
-## 4. Studi Kasus Asrama 24 Jam: Ujian Bangun Sepertiga Malam
+## 3. Spesifikasi Rinci Tiga Dimensi Fungsional
 
-> **Kamar Al-Muhajirin, Pukul 03.30 Pagi:**
-> Udara asrama terasa sangat dingin, hujan rintik-rintik turun di luar, dan selimut tebal terasa sangat hangat. Jam weker berdering nyaring di atas meja kamar.
+### Dimensi 1: Pemantauan Diri (*Self-Monitoring / Muraqabatun Nafs*)
+
+- **Pertanyaan Batin Santri:**
+  *"Apa yang sedang terjadi pada pikiran, detak emosi, dan anggota tubuh saya saat ini? Seberapa jauh jarak antara kondisi aktual saya dengan target adab yang dituju?"*
+- **Mekanisme Kerja Mental & Perilaku:**
+  Kemampuan memasang radar kesadaran (*metacognitive awareness*) terhadap kondisi internal (emosi marah, rasa kantuk, kecemasan, kebosanan) dan keselarasan tindakan jasmani terhadap komitmen target (jadwal halaqoh, target hafalan Al-Qur'an, adab berpakaian).
+- **Manifestasi Keberfungsian Sehat:**
+  Santri menyadari ketika napasnya mulai memburu dan tangannya mengepal saat diserobot kawannya saat antre makan, mengenali sinyal amarah sebelum kata-kata kasar terlontar.
+- **Gejala Malfungsi / Disfungsi (*Under-functioning*):**
+  *Self-blindness* (buta kondisi diri); santri tidak sadar bahwa suaranya sudah sangat keras mengganggu kawan yang sedang tidur, atau tidak sadar bahwa ia telah melamun selama 30 menit saat jam halaqoh.
+
+### Dimensi 2: Pengendalian Respons (*Regulation / Mujahadatun Nafs*)
+
+- **Pertanyaan Batin Santri:**
+  *"Tindakan spontan apa yang harus saya rem sekarang, dan respons beradab apa yang harus saya aktifkan demi menaati syariat?"*
+- **Mekanisme Kerja Mental & Perilaku:**
+  Kemampuan mengoperasikan rem batin (*inhibitory control*), menunda kepuasan sesaat (*delay of gratification*), menekan dorongan reaktif amarah, serta memobilisasi daya eksekutif untuk mengeksekusi tindakan taat yang menuntut disiplin.
+- **Manifestasi Keberfungsian Sehat:**
+  Saat merasa sangat mengantuk saat mendengarkan kajian kitab ba'da Ashar, santri menolak godaan menyandarkan punggung ke dinding, melainkan berdiri sejenak untuk membasuh muka lalu kembali duduk tegak di shaf depan.
+- **Gejala Malfungsi / Disfungsi (*Under-functioning*):**
+  *Impulsivitas mentah*; santri mudah sekali meledak marah, membanting pintu, memotong antrean mandi, atau menyerah pada godaan tidur kembali meski bel asrama telah berdentang.
+
+### Dimensi 3: Penyelarasan & Pemulihan Arah (*Reorientation / Tajdidul 'Azm*)
+
+- **Pertanyaan Batin Santri:**
+  *"Saya tadi sempat tergelincir, malas, atau lalai; bagaimana cara saya bertaubat, bangkit, dan mengembalikan kompas batin saya ke rel tujuan mulia?"*
+- **Mekanisme Kerja Mental & Perilaku:**
+  Kemampuan bangkit dari keterpurukan rasa bersalah (*resilient recovery*), memperbarui niat (*tajdidun niyyah*), mereparasi kesalahan kepada orang lain (*ishlah*), dan mengatur ulang strategi ikhtiar agar tidak jatuh ke lubang kelalaian yang sama.
+- **Manifestasi Keberfungsian Sehat:**
+  Santri yang sempat terhanyut mengobrol sia-sia selama 20 menit saat jam muthala'ah mandiri segera menyadari kekhilafannya, beristighfar, memohon maaf kepada teman bicaranya untuk kembali fokus, lalu membuka kitabnya kembali hingga target tuntas.
+- **Gejala Malfungsi / Disfungsi (*Under-functioning*):**
+  *Despair / Rumination*; santri yang sekali terlambat bangun shalat Subuh langsung merasa dirinya anak durhaka, mogok belajar seharian, bersikap sinis kepada musyrif, dan mengabaikan seluruh kewajiban lainnya.
+
+---
+
+## 4. Dinamika Koordinasi Triad pada Tangga Kemandirian (J1–J4)
+
+Ketiga dimensi tidak berkembang dalam ruang hampa, melainkan bertransformasi secara bertahap seiring pendewasaan santri:
+
+| Jenjang Kemandirian | Monitoring (Pemantauan) | Regulation (Pengendalian) | Reorientation (Pemulihan) | Dukungan Ekologis Pesantren |
+|---|---|---|---|---|
+| **J1: Adaptasi Terpimpin** | Memerlukan *cue* eksternal (misal: teguran lembut musyrif: *"Akhi, sadari posisi dudukmu"*). | Mampu menahan dorongan jika ada figur otoritas yang mengawasi. | Membutuhkan dorongan dan jaminan rasa aman musyrif untuk berani mencoba lagi setelah gagal. | *High External Scaffolding*: Jadwal visual, bel teratur, pendampingan musyrif 1-on-1. |
+| **J2: Pembiasaan Terarah** | Mampu membaca sinyal fisik (rasa lapar, lelah, jengkel) secara mandiri di situasi rutin. | Mampu menerapkan teknik jeda (istighfar, mengambil wudhu) dengan pengingat teman sebaya. | Mampu meminta maaf atas inisiatif sendiri ketika menyadari kesalahannya dalam dinamika kamar. | *Peer Reminders & Musyrif Coaching*: Saling mengingatkan di lingkaran kamar (*halaqoh usrah*). |
+| **J3: Kemandirian Konsisten** | Radar batin aktif otomatis; mampu memantau ritme hafalan dan emosi tanpa diperingatkan. | Mampu menolak ajakan begadang atau obrolan sia-sia meski di luar jangkauan pengawasan musyrif. | Mampu melakukan muhasabah mandiri sebelum tidur dan merancang strategi kompensasi amal esok hari. | *Autonomous Environment*: Memberikan ruang keleluasaan waktu belajar mandiri terjadwal. |
+| **J4: Kepemimpinan & Penggerak** | Memantau bukan hanya diri sendiri, tetapi juga dampak kondisi dirinya terhadap iklim kamar. | Mengendalikan diri demi menjadi teladan (*qudwah hasanah*) di hadapan santri-santri yang lebih muda. | Mengubah kegagalan kelompok menjadi momentum refleksi bersama tanpa mencari kambing hitam. | *Leadership Responsibility*: Menjadi pengurus organisasi santri, pembimbing adik kelas. |
+
+---
+
+## 5. Studi Kasus Asrama 24 Jam: Mengatasi Ujian Dingin Subuh
+
+> **Kamar Al-Fatih, Pukul 04.00 Pagi (Suhu 18°C, Hujan Rintik-Rintik):**
+> Bel listrik asrama berdering panjang menandakan waktu persiapan shalat Subuh telah tiba.
 >
-> 1. **Pemantauan Diri Berjalan:** Santri Salman mendengar bunyi jam weker. Pikirannya menyadari dua hal: tubuhnya masih sangat ingin tidur (*kondisi aktual*), namun ia telah berniat qiyamul lail dan shalat Subuh di shaf pertama (*tujuan normatif*).
-> 2. **Pengendalian Respons Bekerja:** Hawa nafsu membisikkan: *"Tidur 5 menit lagi saja, masih sepi kok."* Salman segera mengaktifkan pengendalian diri: ia menolak bisikan itu, menyingkap selimut dengan tegas, dan segera duduk tegak agar kantuknya hilang.
-> 3. **Penyelarasan Arah Mengunci:** Rasa pusing dan dingin sempat membuat Salman terdiam lunglai di tepi ranjang. Ia segera berdzikir: *"Alhamdulillahilladzi ahyana ba'da ma amatana wa ilaihin nusyur"*, membasuh wajahnya dengan air dingin di wastafel, dan seketika kesadaran serta energinya pulih seutuhnya.
+> 1. **Monitoring Bekerja:** Santri Luqman mendengar bel. Matanya terbuka berat. Sistem batinnya memindai: tubuhnya mengirimkan sinyal kenyamanan selimut (*kondisi aktual*), sementara di benaknya tertera amanah: adab penuntut ilmu adalah bersiap shalat berjamaah di masjid (*target nilai*). Luqman menyadari kesenjangan 100% ini.
+> 2. **Regulation Mengambil Alih:** Hawa nafsu menggoda: *"Tidur 10 menit lagi, musyrif belum tentu memeriksa kamarmu sekarang."* Roda gigi pengendalian respons langsung mengunci: Luqman melafalkan ta'awwudz, menolak bisikan malas, mengibaskan selimut dengan satu sentakan mantap, dan segera duduk bersila agar aliran darahnya terjaga.
+> 3. **Reorientation Mengunci Konsistensi:** Saat kakinya menyentuh ubin yang dingin, rasa gigil sempat membuat tubuhnya lunglai ingin merebahkan kepala lagi ke bantal. Luqman segera mengaktifkan reorientasi: ia berdzikir *"Alhamdulillahilladzi ahyana..."*, melangkah mantap menuju wastafel kamar mandi, membasuh wajah dengan air dingin, dan kompas kesadarannya kembali penuh 100% menghadap Allah.
 
 ---
 
-## 5. Matriks Pengamatan Musyrif di Lapangan
+## 6. Matriks Manifestasi Triadik Lapangan
 
-Gunakan tabel ini untuk mendiagnosis dimensi mana yang sedang macet pada santri yang mengalami kesulitan disiplin:
-
-| Gejala Masalah pada Santri | Dimensi yang Mengalami Hambatan | Bentuk Bimbingan Musyrif |
-|---|---|---|
-| Santri tidak sadar bahwa nada bicaranya sangat kasar dan membuat kawan sekamar takut. | **Pemantauan Diri (*Monitoring*) Lemah:** Santri buta terhadap perilakunya sendiri. | Ajak santri berkaca: *"Akhi, antum sadar tidak tadi saat berbicara urat leher antum tegang dan suaranya sangat keras?"* |
-| Santri tahu perbuatannya salah dan tahu aturan asrama, tapi tidak tahan godaan melanggar saat ada kesempatan. | **Pengendalian Respons (*Regulation*) Lemah:** Kurang latihan menahan dorongan spontan. | Latih teknik jeda 5 detik: tarik napas, baca ta'awwudz, dan minum air putih sebelum merespons situasi pemicu amarah. |
-| Santri jika sekali saja terlambat bangun pagi langsung putus asa, malas seharian, dan merasa dirinya anak gagal. | **Penyelarasan Arah (*Reorientation*) Lemah:** Terjebak dalam rasa bersalah dan kaku. | Tanamkan konsep taubat dan ishlah: *"Terpeleset sekali bukan akhir dunia. Mari kita perbaiki jam tidur malam ini agar besok pagi bangun lebih segar."* |
+| Dimensi Fungsional | Kamar Asrama (Dormitory) | Kelas Madrasah (Classroom) | Masjid & Halaqoh (Sanctuary) |
+|---|---|---|---|
+| **Monitoring** | Menyadari lemari pakaiannya berantakan atau pakaian kotor menumpuk sebelum ditegur. | Menyadari pandangan matanya mulai kabur mengantuk saat ustadz menjelaskan matan nahwu. | Menyadari bacaan Al-Qur'annya mulai tidak tartil karena tergesa-gesa mengejar target halaman. |
+| **Regulation** | Menahan diri dari meminjam sabun atau sandal kawan tanpa izin (*ghashab*). | Menahan dorongan berbicara atau bercanda dengan kawan semeja saat guru menerangkan. | Menahan posisi duduk bersila tetap khusyuk dan punggung tegak selama wirid dan do'a ba'da shalat. |
+| **Reorientation** | Segera merapikan ranjangnya kembali saat tersadar ia terburu-buru meninggalkannya tadi pagi. | Meminta penjelasan ulang dengan santun kepada guru saat menyadari dirinya sempat melamun. | Membaca ulang ayat yang salah harakatnya dengan tenang tanpa merasa putus asa atau malu berlebihan. |
 
 ---
 
-## 6. Pagar Pengaman Batas Dimensi (Boundaries)
+## 7. Panduan Diagnosis Diferensial Musyrif
 
-1. **Bukan Kepatuhan Robotik:** Regulasi Diri sejati lahir dari kesadaran batin santri, bukan kepatuhan palsu karena takut rotan atau ancaman denda musyrif.
-2. **Bukan Karakter Dingin Tanpa Emosi:** Santri yang memiliki regulasi diri tetap bisa merasa sedih, kecewa, atau marah; perbedaannya adalah ia tahu cara menyalurkan emosi tersebut secara terhormat sesuai adab syariat.
-3. **Bukan Tahapan Usia Kaku:** Tiga dimensi ini bekerja bersama-sama pada setiap usia santri, hanya saja pada santri baru dibutuhkan bantuan pendampingan (*scaffolding*) yang lebih intensif dari musyrif.
+Gunakan tabel klinis pengasuhan ini untuk membedah problem perilaku santri secara adil dan tepat sasaran:
+
+| Gejala Perilaku yang Teramati | Dimensi yang Mengalami Hambatan | Analisis Akar Masalah | Tindakan Intervensi Edukatif Musyrif |
+|---|---|---|---|
+| Santri tertawa terbahak-bahak larut malam saat kawan sekamar berusaha tidur, dan kaget saat ditegur. | **Monitoring Lemah** | Santri mengalami disosiasi situasi; tidak memiliki kepekaan sensoris terhadap dampak tindakannya pada lingkungan. | **Mirroring Coaching:** Ajak santri berhenti sejenak, dengarkan keheningan kamar: *"Akhi, perhatikan suara napas kawan-kawanmu. Apa yang sedang mereka lakukan? Bagaimana suara tertawamu terdengar bagi mereka?"* |
+| Santri tahu betul aturan tidak boleh jajan di luar jam izin, mengulang aturan itu dengan lancar, tapi tetap melompat pagar saat ada peluang. | **Regulation Lemah** | Masalah bukan pada *pengetahuan* aturan, melainkan kegagalan sistem rem batin (*inhibitory failure*) menghadapi godaan. | **Implementation Intentions (If-Then Plan):** Latih strategi mitigasi pemicu: *"Jika jam istirahat sore tiba dan rasa ingin jajan muncul, maka saya langsung mengambil Al-Qur'an dan duduk di masjid bersama Zaid."* |
+| Santri sekali melakukan pelanggaran ringan (misal lupa piket kamar), lalu sepanjang pekan menjadi pembangkang, menolak shalat berjamaah, dan bermusuhan dengan musyrif. | **Reorientation Lemah** | Terjebak dalam jebakan kognitif *all-or-nothing*; merasa telah dicap "santri rusak" sehingga tidak melihat jalan keluar bermartabat. | **Restorative Reassurance:** Tegaskan pemisahan antara perbuatan keliru dengan martabat dirinya: *"Kelalaian piket tadi pagi adalah kekeliruan amal yang bisa diperbaiki sekarang. Itu tidak mengubah fakta bahwa antum adalah pemuda mulia yang kami sayangi. Mari selesaikan bersama."* |
 
 ---
 
-## Ringkasan Inti
+## 8. Pagar Batas Konstruk (*Boundaries & Anti-Patterns*)
 
-> **Dimensi Fungsi Regulasi Diri membuktikan bahwa kemampuan mengendalikan diri adalah buah dari radar batin yang peka (sadar diri), kemauan yang kokoh menundukkan nafsu (atur respons), dan kelembutan hati untuk selalu kembali kepada Allah saat tergelincir (pulihkan arah). Ketiganya membentuk perisai adab yang melindungi santri di mana pun ia berada.**
+Agar kapasitas Regulasi Diri tidak didefinisikan secara keliru di lingkungan pesantren:
+
+1. **Bukan Kepatuhan Mekanis / Hipokrisi (*Al-Nifaq al-Sulukiy*):**
+   Santri yang tampak diam dan tertib hanya karena melihat rotan musyrif, namun langsung liar saat pengawasan longgar, **TIDAK MEMILIKI** regulasi diri. Itu adalah kepatuhan semu berbasis rasa takut (*fear-based compliance*).
+2. **Bukan Represi Emosi yang Mematikan Jiwa:**
+   Regulasi diri bukan berarti santri tidak boleh merasa sedih, kecewa, atau lelah. Regulasi diri adalah kecakapan menyadari emosi tersebut (*Monitoring*), menata respon lahiriahnya agar tetap beradab (*Regulation*), dan menyalurkannya melalui do'a serta musyawarah yang sehat (*Reorientation*).
+3. **Bukan Kemampuan Mengatur Orang Lain:**
+   Objek kerja CC-01 adalah keberfungsian **diri sendiri**. Santri yang gemar mengatur dan mengkritik kawan sekamar namun lalai merawat disiplin dirinya sendiri menunjukkan defisit regulasi diri yang parah.
+
+---
+
+## 9. Status Validasi
+
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Dokumen ini menjadi acuan mutlak bagi penyusunan Rubrik Mutaba'ah Adab Harian Musyrif dan instrumen PBIS Pesantren.

@@ -1,225 +1,118 @@
-# Milestones & Gateways Architecture
+# Arsitektur Patok Capaian dan Gerbang Pembinaan (Milestones & Gateways Architecture)
 
-**Status:** DESIGNED — v2.0.0  
-**Epistemic status:** Conceptual architecture; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
+**Dokumen Terkait:**  
+- [03-Milestone-Design-and-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/03-Milestone-Design-and-Criteria.md)  
+- [04-Gateway-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/04-Gateway-Decision-Architecture.md)  
+- [05-Gateway-Readiness-and-Support-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/05-Gateway-Readiness-and-Support-Fit.md)  
+- [06-Gateway-Review-Reversal.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/05%20Milestones%20&%20Gateways/06-Gateway-Review-Reversal.md)  
+- [06 Transition Criteria/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/06%20Transition%20Criteria/README.md)
 
-## 1. Purpose
+---
 
-Milestones & Gateways menyediakan titik yang dapat membantu TUMBUH membaca perkembangan dan menentukan langkah pembinaan berikutnya tanpa menjadikan titik tersebut sebagai label tetap pada individu.
+> ### Intisari untuk Pendidik & Musyrif
+> **Tonggak Capaian (*Milestone*) adalah catatan jejak langkah santri, sedangkan Gerbang (*Gateway*) adalah pintu musyawarah keselamatan.**  
+> - **Milestone (Patok Capaian):** Menjawab pertanyaan *"Capaian adab apa yang sudah berhasil ditunjukkan santri?"* (Misal: santri sudah hafal juz 30 dan terbiasa bangun subuh sendiri).  
+> - **Gateway (Gerbang Keputusan):** Menjawab pertanyaan *"Berdasarkan bukti tersebut, apakah santri sudah siap dan aman untuk diberi tanggung jawab baru atau dilepas mandiri?"* (Misal: apakah santri sudah siap diangkat menjadi ketua kamar?).  
+> 
+> Belum lolos sebuah gerbang (*gateway*) **bukanlah hukuman atau aib kegagalan**, melainkan sinyal penuh kasih sayang bahwa santri masih butuh perancah perlindungan dari para asatidz.
 
-Milestone menjawab: **“Bukti perkembangan apa yang sudah terlihat?”**
+---
 
-Gateway menjawab: **“Berdasarkan bukti tersebut, apakah dukungan, pengalaman belajar, atau tantangan berikutnya layak diberikan?”**
+## 1. Posisi Milestone dan Gateway dalam Pembinaan Pesantren
 
-Keduanya adalah perangkat keputusan dalam progression, bukan tahap perkembangan universal.
-
-## 2. Position in Progression
-
-```text
-Core Capacity
-      ↓
-Capacity / Learning Progression
-      ↓
-Evidence of Functioning
-      ↓
-Milestone
-      ↓
-Gateway Review
-      ↓
-Next Support / Learning Experience / Demand
-      ↓
-New Evidence
-      ↺
-```
-
-Milestone dan Gateway harus tetap terhubung dengan construct serta evidence yang mendasarinya.
-
-## 3. Milestone
-
-Milestone adalah **bukti bahwa kriteria perkembangan tertentu telah tercapai pada construct dan konteks yang didefinisikan**.
-
-Milestone dapat menggambarkan, misalnya:
-
-- functioning tertentu mulai muncul;
-- functioning menjadi lebih konsisten;
-- functioning dapat dilakukan dengan dukungan yang sesuai;
-- functioning dapat digunakan pada variasi tuntutan yang relevan;
-- functioning menunjukkan transfer atau maintenance ketika hal tersebut memang menjadi kriteria.
-
-Milestone tidak berarti seluruh kapasitas telah dikuasai.
-
-## 4. Gateway
-
-Gateway adalah **titik keputusan untuk menentukan apakah kondisi saat ini cukup mendukung pemberian pengalaman, dukungan, atau tuntutan berikutnya**.
-
-Gateway bukan “pintu kelulusan” yang menentukan nilai seseorang.
-
-Gateway dapat menghasilkan keputusan seperti:
+Dalam arsitektur progresi TUMBUH, Milestone dan Gateway menjadi kompas penentu langkah:
 
 ```text
-Lanjut ke tuntutan berikutnya
-        atau
-Pertahankan pengalaman saat ini
-        atau
-Tambahkan / ubah dukungan
-        atau
-Kembali ke pengalaman yang lebih sesuai
-        atau
-Kumpulkan evidence tambahan
+Kapasitas Inti Santri (Core Capacity CC-01 s/d CC-08)
+                       ↓
+Pengamatan Perilaku Nyata di Asrama, Kelas, & Masjid
+                       ↓
+1. PATOK CAPAIAN (Milestone) ──► "Catatan Bukti Bahwa Santri Mampu"
+                       ↓
+2. GERBANG PEMBINAAN (Gateway) ──► "Musyawarah Asatidz: Siapkah Melangkah?"
+                       ↓
+Pilihan Keputusan Bijak:
+┌──────────────────────┬──────────────────────┬──────────────────────┐
+│  a. Beri Amanah Baru │  b. Lanjutkan Ritme  │  c. Kuatkan Bimbingan│
+│   (Tantangan Naik)   │      (Pertahankan)   │     (Perancah Tambah)│
+└──────────────────────┴──────────────────────┴──────────────────────┘
 ```
 
-Keputusan bergantung pada tujuan, evidence, konteks, keselamatan, dan kebutuhan individu.
+Keduanya bekerja bersama: **Milestone menyediakan fakta bukti**, sedangkan **Gateway mengambil keputusan pengasuhan yang bijak**.
 
-## 5. Milestone ≠ Gateway
+---
 
-Milestone adalah **evidence statement**.
+## 2. Pembedahan Perbedaan: Milestone vs Gateway
 
-Gateway adalah **decision point**.
+Pendidik wajib memahami batas pembeda keduanya agar tidak terjadi salah penafsiran:
 
-Sebuah milestone dapat tercapai tetapi gateway belum dilewati bila evidence belum cukup untuk mendukung keputusan berikutnya.
+| Dimensi Pembeda | Patok Capaian (*Milestone*) | Gerbang Keputusan (*Gateway*) |
+| :--- | :--- | :--- |
+| **Hakikat Utama** | **Pernyataan Bukti Kemajuan (*Evidence Statement*)** | **Titik Keputusan Musyawarah (*Decision Point*)** |
+| **Pertanyaan Pokok** | *"Kemampuan apa yang sudah tampak pada santri?"* | *"Apakah santri sudah siap menghadapi tantangan baru secara aman?"* |
+| **Sifat Keputusan** | Bersifat deskriptif, mencatat fakta pencapaian nyata. | Menghasilkan tindakan (melangkah maju, masa uji coba, atau memperkuat perancah). |
+| **Jika Belum Tercapai** | Terus didampingi dan diberi kesempatan berlatih. | Bukan hukuman; menandakan santri masih membutuhkan perlindungan struktural. |
 
-Sebaliknya, keputusan gateway tidak boleh dibuat hanya karena sebuah label milestone telah diberikan tanpa meninjau konteks dan kebutuhan aktual.
+> **Kaidah Emas:** Tercapainya satu Milestone tidak otomatis memaksa Gateway dibuka. Contoh: Seorang santri sudah hafal 5 juz (*Milestone tercapai*), namun jika emosinya masih sangat meledak-ledak saat diejek kawan, ia belum siap dilepas menjadi pengurus keamanan asrama (*Gateway ditahan demi keselamatannya*).
 
-## 6. Minimum Structure
+---
 
-Setiap milestone yang digunakan secara formal sebaiknya dapat ditelusuri melalui:
+## 3. Struktur Baku Pendefinisian Milestone
+
+Agar patok capaian tidak kabur, setiap Milestone formal memiliki identitas yang dapat ditelusuri:
 
 ```text
-Milestone ID
-↓
-Core Capacity / Construct
-↓
-Functional Object
-↓
-Functional Dimension
-↓
-Expected Functioning
-↓
-Context / Demand
-↓
-Support Condition
-↓
-Evidence Requirement
-↓
-Milestone Criterion
-↓
-Inference Boundary
+Identitas Milestone ──► Kapasitas Terkait ──► Perilaku yang Diharapkan ──► Bukti Lapangan ──► Batas Lingkup
 ```
 
-Gateway sekurang-kurangnya memerlukan:
+- **Perilaku yang Diharapkan (*Observable Functioning*):** Menjelaskan tindakan nyata yang dapat diamati musyrif (bukan angan-angan batin).
+- **Kondisi Bantuan (*Support Condition*):** Mencatat apakah capaian tersebut dilakukan dengan bantuan pengingat visual atau sudah mandiri sepenuhnya.
+- **Konteks Pengamatan:** Di kamar tidur, ruang makan, halaqoh masjid, atau kelas madrasah.
 
-```text
-Gateway ID
-↓
-Relevant Milestone / Evidence
-↓
-Decision Question
-↓
-Readiness Conditions
-↓
-Safety / Access Conditions
-↓
-Available Decision Options
-↓
-Review / Reversal Condition
-```
+---
 
-Struktur ini dapat disederhanakan untuk penggunaan praktis selama traceability dan batas inferensi tidak hilang.
+## 4. Beragam Pilihan Keputusan Gerbang (*Gateway Decisions*)
 
-## 7. Evidence Rules
+Musyawarah asatidz di titik Gateway tidak bersikap kaku "hanya lulus atau gagal", melainkan menyediakan spektrum keputusan yang fleksibel:
 
-Milestone dan gateway harus menggunakan evidence yang sesuai dengan construct dan keputusan yang hendak dibuat.
+1. **Melangkah ke Jenjang Berikutnya (*Advance*):** Santri terbukti siap, mandiri, dan dipercaya memikul peran atau tantangan baru.
+2. **Masa Uji Coba Terpantau (*Trial Period: 2–4 Pekan*):** Memberikan santri kesempatan mencoba peran baru di bawah pendampingan khusus sebelum dikonfirmasi permanen.
+3. **Mempertahankan Kondisi Saat Ini (*Maintain Support*):** Santri membutuhkan waktu pemantapan ritme yang ada agar wataknya semakin membatin.
+4. **Menyesuaikan atau Menambah Bantuan (*Adjust Support*):** Mengubah strategi bimbingan, misalnya mengganti teman sekamar atau memberi jadwal visual tambahan.
+5. **Menahan Demi Keselamatan Santri (*Safeguarding Pause*):** Menunda pemberian peran berat karena santri sedang mengalami tekanan psikososial atau masalah kesehatan.
 
-Prinsip dasar:
+---
 
-- satu observasi tidak otomatis cukup;
-- performance sesaat bukan otomatis capacity change;
-- milestone lokal bukan otomatis bukti universal;
-- evidence harus dibaca bersama konteks dan dukungan;
-- kriteria harus cukup jelas untuk ditinjau;
-- ketidakcukupan evidence harus dapat dinyatakan secara eksplisit.
+## 5. Hubungan dengan Jenjang Dukungan J1–J4
 
-Bila evidence belum memadai, keputusan yang tepat dapat berupa **“belum cukup evidence untuk menentukan gateway”**, bukan memaksa individu masuk atau gagal pada suatu kategori.
+- **Bukan Skor Ujian Angka:** Melewati Milestone dan Gateway tidak menghasilkan nilai angka (seperti skor 80 atau 90).
+- **Hubungan dengan J1–J4:** Keputusan Gateway dapat menentukan apakah seorang santri siap bertransisi dari **J1 (Dukungan Penuh)** menuju **J2 (Bimbingan Terarah)**, atau dari **J2** menuju **J3 (Mandiri Terpantau)**.
+- **Usia Bukan Penentu Mutlak:** Kenaikan kelas atau pertambahan usia tidak otomatis membuka Gateway kemandirian jika bukti kesiapan adab belum memadai.
 
-## 8. Gateway and Support
+---
 
-Gateway tidak hanya menentukan apakah tuntutan dinaikkan. Ia juga dapat menentukan apakah dukungan perlu dipertahankan, diubah, atau ditingkatkan.
+## 6. Keputusan Bersifat Dapat Dibalik (Reversibility)
 
-```text
-Evidence
-  ↓
-Review of Need
-  ↓
-Fit between Person × Demand × Support
-  ↓
-Gateway Decision
-```
+Perkembangan fitrah santri bersifat dinamis dan dapat mengalami pasang surut:
+- Jika setelah melewati sebuah Gateway santri mengalami stres berat atau kelelahan mental, tim asatidz dengan penuh kelembutan **dapat menarik kembali santri ke tingkat dukungan sebelumnya**.
+- Langkah ini dilakukan dengan **bahasa kasih sayang dan pengasuhan restoratif**, bukan sanksi disipliner atau penurunan kasta yang mempermalukan santri.
 
-Dengan demikian, belum melewati gateway bukan otomatis berarti individu harus “diperbaiki”. Bisa jadi pengalaman, dukungan, lingkungan, atau tuntutannya yang perlu ditinjau.
+---
 
-## 9. Relation to J1–J4
+## 7. Pagar Batas Epistemik (Negative Boundaries)
 
-J1–J4 adalah arsitektur dukungan dan otonomi. Gateway dapat menggunakan informasi tentang dukungan yang diperlukan, tetapi J1–J4 bukan gateway score.
+Agar Milestone dan Gateway tidak disalahgunakan:
+1. **Dilarang Menjadikannya Kasta Senioritas:** Melewati gateway kepemimpinan (J4) memberi santri mandat untuk berkhidmah dan melayani sesama, bukan hak feodal untuk memerintah atau menindas adik kelas.
+2. **Satu Milestone Bukan Ketuntasan Menyeluruh (*Not Global Mastery*):** Keberhasilan menjuarai pidato atau menghafal kitab tidak boleh membuat ustadz mengabaikan jika santri tersebut melanggar adab kamar.
+3. **Bukan Pengumuman Publik yang Mempermalukan:** Status santri yang belum lolos gateway tidak boleh diumumkan di papan publik pesantren.
 
-```text
-J1–J4 ≠ Milestone Score
-J1–J4 ≠ Gateway Grade
-Age / Class ≠ Gateway
-```
+---
 
-Perubahan support level harus dipertimbangkan bersama evidence functioning dan konteks, bukan dipakai sebagai satu-satunya dasar keputusan.
+## 8. Status Keabsahan Dokumen (Epistemic Status)
 
-## 10. Relation to Mastery
-
-Milestone dapat menjadi evidence menuju mastery, tetapi satu milestone tidak otomatis berarti mastery global.
-
-```text
-Milestone ≠ Mastery
-Gateway ≠ Mastery
-```
-
-Mastery tetap mengikuti kriteria construct-specific yang ditetapkan dalam Mastery Progression.
-
-## 11. Gateway Reviewability
-
-Gateway bersifat dapat ditinjau dan, bila diperlukan, dibalik.
-
-Keputusan sebelumnya tidak mengunci individu pada jalur tertentu. Jika evidence baru menunjukkan bahwa tuntutan terlalu tinggi, dukungan kurang sesuai, atau functioning belum cukup stabil, pathway dapat disesuaikan.
-
-Reviewability penting karena perkembangan manusia tidak selalu bergerak secara lurus dan kondisi dapat berubah.
-
-## 12. Fairness, Dignity, and Safety
-
-Milestone dan gateway tidak boleh digunakan untuk mempermalukan, mengunci identitas, atau mengurangi kesempatan berkembang secara tidak proporsional.
-
-Perbedaan akses, dukungan, kesempatan belajar, konteks sosial, dan kondisi lingkungan harus diperhitungkan ketika relevan.
-
-Keselamatan dapat menjadi alasan untuk menahan, memodifikasi, atau mengubah tuntutan meskipun milestone tertentu telah tercapai.
-
-## 13. Governance Rules
-
-1. Milestone harus terkait dengan construct yang jelas.
-2. Milestone harus memiliki evidence requirement dan inference boundary.
-3. Gateway harus menjelaskan keputusan yang hendak dibuat.
-4. Gateway berbasis evidence dan konteks, bukan usia semata.
-5. Milestone bukan mastery global.
-6. Gateway bukan ranking atau grade.
-7. J1–J4 bukan milestone/gateway score.
-8. Satu observasi tidak otomatis cukup.
-9. Tidak melewati gateway bukan hukuman.
-10. Gateway dapat menghasilkan perubahan dukungan, bukan hanya peningkatan tuntutan.
-11. Keputusan harus dapat direview dan, bila diperlukan, direvisi.
-12. Assessment tidak boleh mengubah construct hanya agar gateway mudah dioperasikan.
-13. Klaim yang melampaui evidence harus dikendalikan melalui Claim Registry.
-
-## 14. Epistemic Boundary
-
-Arsitektur ini tidak dengan sendirinya membuktikan bahwa milestone tertentu valid, bahwa gateway tertentu meningkatkan hasil, atau bahwa jalur tertentu optimal.
-
-Validitas kriteria, reliabilitas keputusan, fairness, transfer, outcome, dan efektivitas implementation memerlukan evidence yang sesuai.
-
-## 15. Closing Principle
-
-Milestone membantu kita mengenali perkembangan. Gateway membantu kita menentukan langkah berikutnya dengan lebih hati-hati.
-
-Keduanya bukan pagar untuk menentukan siapa yang “berhasil” dan siapa yang “gagal”, melainkan titik untuk memastikan bahwa langkah pembinaan berikutnya sesuai dengan bukti, kebutuhan, konteks, dan keselamatan.
+- **Status:** *Conceptually Specified; Empirically Provisional.*
+- Dokumen ini adalah kerangka tata kelola pembinaan adab santri di lingkungan TUMBUH v2.0.0.
+- Tujuannya adalah memastikan bahwa setiap langkah perkembangan santri dikawal secara bijak, adil, mengedepankan keselamatan fisik dan batin santri, serta memuliakan fitrah kemanusiaannya.

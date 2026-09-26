@@ -1,71 +1,146 @@
 # Umpan Balik dan Perbaikan Sistem Berkelanjutan (Feedback and Continuous Improvement)
 
-**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Mekanisme Belajar dan Evaluasi Kelembagaan
+**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Mekanisme Belajar, Evaluasi Kelembagaan, dan Tata Kelola Pembaruan
 
-Dokumen ini menjelaskan bagaimana sebuah lembaga pesantren belajar dari pengalaman nyata di lapangan: bagaimana keluhan santri, catatan musyrif, dan data evaluasi diolah menjadi perbaikan sistem yang bijaksana tanpa merusak stabilitas aturan yang sudah ada.
+Dokumen ini menjelaskan bagaimana ekosistem pendidikan pesantren TUMBUH belajar dari kenyataan hidup di lapangan: bagaimana keluhan santri, dinamika asrama, catatan logbook musyrif, dan data asesmen diolah menjadi perbaikan sistem yang bijaksana tanpa mengorbankan stabilitas aturan dasar.
 
 ---
 
-## 1. Mengapa Sistem Pesantren Harus Mau Belajar dan Berbenah?
+## 1. Landasan Filosofis: Tawadhu' Kelembagaan dan Budaya Musyawarah
 
-Sebuah sistem pendidikan yang menolak belajar dari kenyataan akan segera membeku dan menjadi usang. Di banyak tempat, ketika santri sering melanggar aturan, respon pengelola sering kali hanya: *"Tingkatkan hukuman dan perketat razia!"* Padahal bisa jadi akar masalahnya adalah sistem asrama yang tidak manusiawi (seperti antrean toilet yang terlalu sedikit atau jadwal tidur yang kurang).
+Sebuah lembaga pendidikan Islam yang sehat tidak pernah merasa dirinya maksum (bebas dari kesalahan). Allah SWT berfirman memerintahkan prinsip musyawarah:
+
+$$\text{"وَأَمْرُهُمْ شُورَىٰ بَيْنَهُمْ"}$$
+*(Dan urusan mereka diputuskan dengan musyawarah di antara mereka — QS. Asy-Syura: 38).*
+
+Di banyak pesantren, ketika terjadi pelanggaran adab massal (misalnya puluhan santri tertidur saat halaqoh Subuh), respon pengelola sering kali bersifat reaktif dan dangkal: *"Tambah hukuman lari, sita sarung, atau jemur santri di lapangan!"* Tindakan ini mengabaikan akar masalah sistemik:
+- Apakah antrean kamar mandi terlalu panjang sehingga santri tidur larut malam?
+- Apakah jadwal malam terlalu padat hingga melanggar hak istirahat biologis santri?
+- Apakah sirkulasi udara di ruang halaqoh pengap dan minim oksigen?
 
 Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
 
-> **Bagaimana lembaga pesantren mendengarkan kenyataan di lapangan, mengevaluasi efektivitas aturannya, dan melakukan perbaikan tanpa tergesa-gesa mengubah fondasi dasarnya?**
+> **Bagaimana lembaga pesantren mendengarkan kenyataan di asrama, menganalisis akar masalah secara objektif, dan melakukan perbaikan sistem secara teratur tanpa menimbulkan kekacauan (*disrupsi*) di lapangan?**
 
 ---
 
-## 2. Lingkaran Pembelajaran Kelembagaan (The Canonical Improvement Loop)
+## 2. Tingkatan Pembelajaran Kelembagaan (*Multi-Loop Learning*)
 
-Sistem yang hidup bergerak dalam lingkaran evaluasi yang teratur:
+TUMBUH mengadopsi kerangka pembelajaran kelembagaan berbasis tarbiyah yang membedakan tiga tingkatan belajar:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│               LINGKARAN PERBAIKAN BERKELANJUTAN ASRAMA                 │
+│               TIGA TINGKAT PEMBELAJARAN KELEMBAGAAN ASRAMA             │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. RANCANG ATURAN & PROGRAM : Tata tertib dan jadwal disusun           │
-│              ↓                                                         │
-│ 2. PELAKSANAAN DI LAPANGAN  : Musyrif & santri menjalani 24 jam        │
-│              ↓                                                         │
-│ 3. PENGAMATAN FAKTA NYATA   : Apa yang benar-benar terjadi di kamar?   │
-│              ↓                                                         │
-│ 4. PENGUMPULAN DATA LOGBOOK : Rekap pelanggaran, keterlambatan, sakit  │
-│              ↓                                                         │
-│ 5. MUSYAWARAH EVALUASI      : Mengapa masalah tersebut muncul?         │
-│              ↓                                                         │
-│ 6. PERBAIKAN SISTEM JIKA PERLU : Menyesuaikan jadwal atau fasilitas    │
-│              ↺                                                         │
+│ TINGKAT 1: SINGLE-LOOP LEARNING (Perbaikan Tindakan Operasional)       │
+│ "Bagaimana kita melakukan hal ini dengan lebih baik dan tepat waktu?" │
+│ Contoh: Musyrif mempercepat waktu membunyikan bel bangun pagi 10 menit.│
+│                                                                        │
+│ TINGKAT 2: DOUBLE-LOOP LEARNING (Peninjauan Asumsi & Desain Jadwal)    │
+│ "Apakah aturan, jadwal, atau fasilitas ini masih relevan & manusiawi?"│
+│ Contoh: Mengubah ritme tidur siang dan menambah kran air wudhu asrama. │
+│                                                                        │
+│ TINGKAT 3: TRIPLE-LOOP LEARNING (Refleksi Filosofis & Maqashid Syar'i) │
+│ "Mengapa kita mendidik dengan cara ini? Apakah ini diridhai Allah?"    │
+│ Contoh: Menghapus sistem poin kumulatif dan beralih ke Ishlah Restoratif│
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 3. Menemukan Akar Masalah Sebelum Mengubah Aturan
+## 3. Ritme Evaluasi Sistem Berkala (*The Feedback Cadence*)
 
-Ketika muncul masalah di asrama, jangan buru-buru menyalahkan santri atau langsung merombak seluruh kurikulum. Gunakan diagnosis lima tingkat:
+Umpan balik tidak boleh dibiarkan menunggu krisis besar meledak. Sistem TUMBUH menetapkan empat ritme musyawarah evaluasi yang terstruktur:
 
-| Tingkat Masalah | Contoh Nyata di Pesantren | Tindakan yang Tepat |
-|---|---|---|
-| **1. Masalah Fasilitas & Konteks** | Santri sering terlambat shalat Subuh karena dari 5 kamar mandi, 3 kran airnya bocor dan air mati. | Perbaiki pompa air dan fasilitas sanitasi, bukan menghukum santri lari. |
-| **2. Masalah Beban Jadwal** | Santri tertidur di kelas karena jadwal halaqoh malam selesai jam 23.30 dan bel Subuh jam 03.30. | Sesuaikan ritme jadwal asrama agar santri mendapat hak tidur minimal 6–7 jam. |
-| **3. Masalah Penegakan (SOP Musyrif)** | Musyrif Kamar A sangat tegas, sedangkan Musyrif Kamar B serba membiarkan pelanggaran. | Selaraskan pelatihan dan koordinasi antar-musyrif agar adil dan konsisten. |
-| **4. Masalah Penafsiran Data** | Santri yang sering menyendiri dianggap depresi, padahal ia sedang khusyuk menghafal bait syair. | Latih musyrif dalam memahami karakter dan psikologi dasar remaja. |
-| **5. Masalah Konsep Dasar** | Aturan asrama menggunakan sistem poin pengurangan yang menstigma santri seumur hidup. | Buka evaluasi kelembagaan untuk mengganti sistem poin dengan keadilan restoratif. |
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                       RITME EVALUASI BERKALA ASRAMA                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. HARIAN (Daily Handover / 15 Menit)                                  │
+│    Peserta : Antara musyrif sif siang dan musyrif sif malam.           │
+│    Fokus   : Kondisi santri sakit, konflik kamar, logbook insiden.     │
+│                                                                        │
+│ 2. PEKANAN (Weekly Musyrif Halaqoh / 60 Menit)                         │
+│    Peserta : Seluruh musyrif blok asrama, Kepala Asrama, & Tim BK.     │
+│    Fokus   : Analisis santri Tier 2 (butuh mentoring), progres J1–J4.  │
+│                                                                        │
+│ 3. BULANAN (Monthly Multi-Setting Review / 2 Jam)                      │
+│    Peserta : Kepala Asrama, Kepala Madrasah, Bagian Keamanan, Tim Mutu.│
+│    Fokus   : Rekapitulasi insiden bulanan, beban santri, sarana air.   │
+│                                                                        │
+│ 4. SEMESTERAN (Bi-Annual System Audit / 1 Hari Penuh)                  │
+│    Peserta : Dewan Pengasuh, Majelis Guru, Tim Pengembang Kurikulum.   │
+│    Fokus   : Audit tata tertib, penyempurnaan SOP, peninjauan beban 24 jam.│
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 4. Prinsip Keseimbangan: Belajar Tanpa Mengguncang Stabilitas
+## 4. Protokol Triangulasi Bukti Sebelum Mengubah Kebijakan
 
-Perbaikan berkelanjutan **bukan berarti aturan diganti setiap pekan**. Pergantian aturan yang terlalu sering membuat santri dan pengasuh bingung serta kehilangan rasa aman.
+Untuk mencegah perubahan aturan yang hanya didasarkan pada asumsi sepihak, setiap evaluasi wajib mengumpulkan tiga sumber data (*Triangulasi Bukti*):
 
-Pegang tiga prinsip stabilitas berikut:
-1. **Pertahankan Selama Bermanfaat (*Retain*):** Jika sebuah tradisi atau aturan berjalan baik dan membawa maslahat bagi santri, pertahankan dengan teguh meskipun ada tren baru dari luar.
-2. **Perbaiki Secara Bertahap (*Iterate*):** Lakukan uji coba perbaikan kecil di satu atau dua kamar percontohan sebelum menerapkannya ke seluruh pesantren.
-3. **Dokumentasikan Alasan Perubahan (*Traceability*):** Setiap perubahan jadwal atau aturan harus dicatat alasannya dalam notulen resmi, agar para pendidik di masa depan memahami hikmah di balik kebijakan tersebut.
+```text
+                        LOGBOOK MUSYRIF
+                   (Catatan Perilaku Faktual)
+                              ▲
+                             ╱ ╲
+                            ╱   ╲
+                           ▼     ▼
+    SUARA SANTRI ◄─────────────────► PENGAMATAN GURU MADRASAH
+    (Refleksi & Aspirasi Murid)     (Catatan Fokus & Adab Kelas)
+```
+
+1. **Catatan Faktual Musyrif:** Data harian tentang keterlambatan, interaksi sosial kamar, dan kepatuhan adab harian.
+2. **Suara Santri (*Student Voice*):** Jurnal muhasabah mingguan, kotak saran rahasia, atau forum dengar pendapat santri yang dipandu konselor tanpa intimidasi.
+3. **Pengamatan Guru Madrasah:** Laporan keaktifan belajar, ketahanan fokus, dan gejala mengantuk santri di jam-jam sekolah.
+
+---
+
+## 5. Diagnosis Akar Masalah Lima Tingkat (*Root Cause Analysis*)
+
+Ketika sebuah masalah perilaku muncul berulang kali di asrama, tim evaluasi wajib memeriksa lima tingkat penyebab sebelum menyimpulkan kesalahan santri:
+
+| Tingkatan Akar Masalah | Pertanyaan Diagnostik | Contoh Kasus Nyata | Solusi Arsitektural yang Tepat |
+|---|---|---|---|
+| **Tingkat 1: Fisik & Sarana** | Apakah lingkungan fisik asrama memadai? | Santri berebut kamar mandi hingga bertengkar karena 4 dari 8 kran air rusak. | Perbaiki pipa sanitasi dan tambah kran, bukan memarahi santri. |
+| **Tingkat 2: Beban Ritme & Kronobiologi** | Apakah jadwal menghormati kebutuhan tubuh remaja? | Santri tidur saat kajian Subuh karena kegiatan tahfidz malam baru selesai pukul 23.30. | Mundurkan jam tidur malam ke 22.00 dan sediakan hak istirahat tidur 7 jam. |
+| **Tingkat 3: Kapasitas Musyrif** | Apakah musyrif memiliki keterampilan pendampingan? | Musyrif Kamar A mudah terpancing emosi dan berteriak karena belum dilatih de-eskalasi konflik. | Berikan pelatihan *Positive Discipline* dan bimbingan teknik komunikasi empatik. |
+| **Tingkat 4: Dinamika Sebaya** | Apakah terjadi tekanan kelompok (*peer pressure*) negatif? | Santri baru menolak ikut piket karena diintimidasi oleh santri senior di lorong belakang. | Intervensi dinamika kelompok kamar, bubarkan klik negatif, dan pulihkan rasa aman. |
+| **Tingkat 5: Desain Kebijakan Dasar** | Apakah filosofi aturan asrama keliru sejak awal? | Aturan memberi sanksi denda uang Rp50.000 untuk keterlambatan shalat. | Cabut aturan denda finansial; ganti dengan bimbingan tadabur adzan dan pendampingan musyrif. |
+
+---
+
+## 6. Tata Kelola Pembaruan Dokumen (*Governance Gate*)
+
+Untuk menjaga martabat dan stabilitas ekosistem TUMBUH, perubahan sistem diatur dengan protokol pagar pengaman (*governance gate*):
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│              TATA KELOLA PERUBAHAN DOKUMEN ARSITEKTUR                  │
+├────────────────────────────────────────────────────────────────────────┤
+│ LAPISAN 03_OPERATIONAL (SOP, Format Formulir, Jadwal Kamar)            │
+│ Wewenang : Kepala Asrama bersama Tim Musyrif.                          │
+│ Syarat   : Bukti logbook bulanan + musyawarah internal asrama.         │
+│                                                                        │
+│ LAPISAN 02_IMPLEMENTATION (Struktur Kelembagaan, Tata Pamong)          │
+│ Wewenang : Direktur Pendidikan bersama Kepala Asrama & Madrasah.       │
+│ Syarat   : Laporan evaluasi semesteran + kajian dampak kelembagaan.    │
+│                                                                        │
+│ LAPISAN 01_FUNDAMENTAL (Filosofi, Model Inti, 8 Kapasitas, Prinsip)   │
+│ Wewenang : Majelis Pengasuh / Dewan Masyayikh Tertinggi.               │
+│ Syarat   : Wajib melalui jalur resmi:                                  │
+│            BUKTI (08) ──► RISET (09) ──► PENYELIDIKAN (PROBE)          │
+│            ──► KEPUTUSAN FORMAL ──► PEMBARUAN 01_FUNDAMENTAL           │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> **Aturan Epistemik Mutlak:**
+> Dokumen operasional atau keluhan lapangan **tidak boleh diam-diam mengubah definisi dasar** dalam `01_FUNDAMENTAL`. Jika dirasakan ada definisi karakter atau model kapasitas yang perlu diperbaiki, hal itu harus diajukan melalui dokumen penyelidikan (*PROBE*) sebelum disahkan oleh pimpinan.
 
 ---
 
 ## Ringkasan Inti
 
-> **Umpan balik dan perbaikan berkelanjutan adalah bukti ketawadhu'an sebuah lembaga pendidikan. Pesantren yang agung bukanlah pesantren yang merasa sistemnya sudah sempurna tanpa cela, melainkan pesantren yang senantiasa membuka mata terhadap kenyataan, mendengarkan jeritan nurani santri, dan terus menyempurnakan ikhtiarnya demi meraih ridha Allah SWT.**
+> **Umpan balik dan perbaikan berkelanjutan adalah bukti ketawadhu'an dan kesungguhan sebuah lembaga pendidikan Islam. Pesantren yang unggul bukanlah pesantren yang menutup mata dari kenyataan asramanya, melainkan pesantren yang senantiasa membuka telinga untuk mendengar suara santri, memeriksa fakta dengan jujur melalui musyawarah, dan terus menyempurnakan ikhtiarnya agar setiap detik kehidupan santri mengalirkan pahala dan kemaslahatan nyata.**
+

@@ -1,215 +1,142 @@
-# Mastery Progression Architecture
+# Arsitektur Ketuntasan Watak (Mastery Progression Architecture)
 
-**Status:** DESIGNED — v2.0.0  
-**Epistemic status:** Conceptual architecture; empirically provisional.
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
+**Dokumen Terkait:**  
+- [03-Mastery-Criteria.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/03-Mastery-Criteria.md)  
+- [04-Mastery-Evidence-and-Judgment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/04-Mastery-Evidence-and-Judgment.md)  
+- [05-Mastery-Transfer-and-Maintenance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/05-Mastery-Transfer-and-Maintenance.md)  
+- [06-Mastery-Review-and-Reassessment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/06-Mastery-Review-and-Reassessment.md)  
+- [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)
 
-## 1. Purpose
+---
 
-Mastery Progression menjelaskan bagaimana TUMBUH mengenali perbedaan antara kemampuan yang baru tampak, kemampuan yang mulai stabil, dan penguasaan yang relatif mantap serta dapat digunakan secara tepat pada situasi yang relevan.
+> ### Intisari untuk Pendidik & Asatidz
+> **Mastery (Ketuntasan Watak) bukanlah sekadar nilai 100 di atas kertas rapor.**  
+> Dalam khazanah pesantren, ketuntasan adalah **terbentuknya Malakah (*Al-Malakah al-Rāsikhah*)**:  
+> Adab dan ilmu telah meresap begitu mendalam ke dalam jiwa santri hingga menjadi **refleks kebaikan alami yang spontan**. Santri menjaga salat berjamaah, bertutur kata santun, dan merapikan tempat tidurnya bukan lagi karena takut dibentak musyrif atau ingin dipuji manusia, melainkan karena hal itu telah menjadi bagian tak terpisahkan dari kepribadian hidupnya, baik saat berada di pondok maupun saat berada di tempat sepi.
 
-Mastery bukan sekadar nilai tinggi, performa sesaat, atau label bahwa seseorang telah “selesai berkembang”. Mastery adalah keputusan berbasis bukti bahwa suatu functioning telah menunjukkan kestabilan dan kecocokan dengan tuntutan yang relevan.
+---
 
-## 2. Position in TUMBUH
+## 1. Hakikat Ketuntasan (*Al-Malakah*) dalam TUMBUH
 
-```text
-Graduate Profile / Normative Direction
-                ↓
-        Core Capacity
-                ↓
-      Learning / Development
-                ↓
-        Capacity Progression
-                ↓
-        Mastery Progression
-                ↓
-      Assessment & Evidence
-                ↓
- Support / Learning / Intervention Decision
-```
+Arsitektur Ketuntasan Watak (*Mastery Progression Architecture*) menjelaskan bagaimana pendidik mengenali perbedaan antara:
+- **Kemampuan Baru Muncul (*Emerging Performance*):** Santri baru bisa melakukan adab jika dituntun langkah demi langkah.
+- **Kemampuan yang Mulai Terbiasa (*Developing Habit*):** Santri mulai rutin melakukan adab, namun masih sesekali lupa jika tidak diingatkan.
+- **Ketuntasan Watak Sejati (*Mastery / Malakah*):** Kapasitas adab yang telah mengakar kokoh, mandiri, konsisten lintas hari, dan tahan uji dalam berbagai situasi kehidupan.
 
-Mastery Progression tidak menggantikan Capacity Progression. Capacity Progression menjelaskan perubahan functioning dari waktu ke waktu; Mastery Progression menjelaskan kapan bukti yang tersedia cukup untuk menyatakan bahwa functioning tersebut telah mencapai tingkat penguasaan yang relevan.
+> **Kaidah Utama:** Ketuntasan bukan berarti manusia menjadi makhluk sempurna yang maksum (*infallible*). Santri yang telah mencapai mastery tetaplah manusia biasa yang bisa khilaf, namun ciri utamanya adalah **kecepatan untuk sadar, memohon ampun (*istighfar/taubat*), dan segera memperbaiki diri secara mandiri (*self-correction*)**.
 
-## 3. Mastery Logic
+---
 
-```text
-Performance
-     ↓
-Consistency
-     ↓
-Appropriate Independence / Support Fit
-     ↓
-Transfer
-     ↓
-Sustained Application
-```
+## 2. Lima Tangga Pembuktian Ketuntasan (The 5 Pillars of Mastery)
 
-Kelima unsur tersebut bukan lima tahap universal yang wajib dilalui dengan urutan identik. Untuk construct tertentu, sebagian unsur dapat lebih penting daripada unsur lainnya.
-
-## 4. Meaning of Each Dimension
-
-### 4.1 Performance
-Individu dapat menunjukkan functioning yang relevan dalam suatu tugas atau situasi.
-
-Performance adalah titik awal bukti, bukan bukti mastery dengan sendirinya.
-
-### 4.2 Consistency
-Functioning dapat muncul secara relatif konsisten pada pengulangan dan kondisi yang relevan.
-
-Konsistensi harus dibaca sesuai karakter construct. Variasi yang wajar tidak otomatis berarti tidak menguasai.
-
-### 4.3 Appropriate Independence / Support Fit
-Individu dapat berfungsi dengan tingkat dukungan yang sesuai dengan tujuan, konteks, dan tuntutan.
-
-Independence bukan selalu berarti “tanpa bantuan”. Dukungan yang tepat dapat tetap diperlukan dan tidak otomatis menunjukkan kegagalan mastery.
-
-### 4.4 Transfer
-Functioning dapat digunakan pada situasi lain yang relevan, bukan hanya pada konteks latihan atau demonstrasi awal.
-
-Transfer harus dibuktikan sesuai tuntutan construct; tidak boleh diasumsikan otomatis.
-
-### 4.5 Sustained Application
-Functioning dapat dipertahankan dan diterapkan secara berkelanjutan dalam kondisi yang relevan.
-
-Sustained application tidak berarti performa harus sempurna atau tidak pernah berubah.
-
-## 5. Mastery Is Construct-Specific
-
-Tidak ada satu ambang mastery yang berlaku untuk seluruh delapan Core Capacities.
-
-Kriteria mastery harus diturunkan dari:
+Untuk menyatakan bahwa suatu kapasitas telah mencapai status tuntas (*mastery*), bukti lapangan harus melewati lima tangga pengujian:
 
 ```text
-Core Capacity
-      ↓
-Functional Object
-      ↓
-Functional Dimension
-      ↓
-Relevant Functioning
-      ↓
-Evidence Requirement
-      ↓
-Mastery Criterion
+               ┌─────────────────────────────────────────┐
+               │         1. UNJUK KERJA (Performance)    │
+               │         • Mampu melakukan adab nyata    │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │         2. KONSISTENSI (Consistency)    │
+               │         • Ajek berulang kali lintas hari│
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │    3. KEMANDIRIAN (Appropriate Autonomy)│
+               │    • Bantuan musyrif mulai lepas (Faded)│
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │         4. ALIH SUASANA (Transfer)      │
+               │         • Bertahan di situasi baru/rumah│
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │   5. WATAK MEMBATIN (Sustained Malakah) │
+               │   • Bertahan lama & menjadi tabiat alami│
+               └─────────────────────────────────────────┘
 ```
 
-Dengan demikian, kriteria mastery untuk Self-Regulation tidak boleh disalin begitu saja menjadi kriteria mastery untuk Communication, Physical Functioning, atau Problem Solving.
+1. **Unjuk Kerja Nyata (*Performance*):** Santri membuktikan mampu mempraktikkan adab/kapasitas tersebut dalam tugas konkret (misalnya mampu berwudu sempurna atau mampu menengahi pertengkaran kawan).
+2. **Konsistensi Lintas Hari (*Consistency*):** Perilaku tersebut tidak hanya muncul sekali saat dinilai, melainkan ajek terlihat dalam keseharian asrama selama kurun waktu pemantauan yang wajar.
+3. **Kemandirian yang Tepat (*Appropriate Independence*):** Santri melakukannya atas dorongan inisiatif sendiri; bantuan pengawasan musyrif telah berhasil dilepaskan secara bertahap (*faded support*).
+4. **Alih Suasana (*Transfer*):** Santri mampu mempertahankan adab tersebut saat berpindah kamar, berganti ustadz pembina, atau saat pulang berlibur ke rumahnya.
+5. **Watak Membatin Berkelanjutan (*Sustained Malakah*):** Nilai kebaikan tersebut tetap tegak dalam rentang waktu yang panjang dan menjadi bekal hidupnya ke depan.
 
-## 6. Evidence Requirements
+---
 
-Keputusan mastery perlu mempertimbangkan, bila relevan:
+## 3. Ketuntasan Bersifat Spesifik per-Kapasitas (Construct-Specific)
 
-- lebih dari satu observasi atau sumber bukti;
-- konsistensi functioning;
-- variasi konteks;
-- variasi tuntutan;
-- tingkat dan bentuk dukungan;
-- transfer ke situasi relevan;
-- maintenance atau sustained application;
-- kualitas evidence dan batas inferensinya.
-
-Satu skor atau satu demonstrasi tidak otomatis cukup untuk menyimpulkan mastery.
-
-## 7. Mastery Judgment
-
-Mastery judgment adalah inferensi terbatas terhadap construct tertentu dalam scope tertentu.
+Tidak ada satu ambang batas tunggal yang dapat dipukul rata untuk seluruh 8 Kapasitas Inti (CC-01 s/d CC-08). Setiap kapasitas memiliki karakteristik ketuntasan yang unik:
 
 ```text
-Observed Evidence
-       ↓
-Evidence Quality / Sufficiency
-       ↓
-Construct-Specific Criterion
-       ↓
-Scoped Mastery Judgment
-       ↓
-Decision with Reviewability
+Kapasitas Inti (CC) ──► Sasaran Fungsional ──► Dimensi Triad ──► Kriteria Ketuntasan Unik
 ```
 
-Judgment harus menyatakan ruang lingkupnya. “Menguasai” tidak boleh dibaca sebagai klaim bahwa individu selalu mampu, di semua konteks, tanpa dukungan, atau pada semua tuntutan.
+| Kapasitas Inti | Ciri Utama Ketuntasan Watak (*Malakah*) |
+| :--- | :--- |
+| **CC-01 Regulasi Diri** | Mampu menenangkan diri secara mandiri saat marah atau lelah; tertib beribadah tanpa perlu disuruh. |
+| **CC-02 Berpikir Kritis** | Terbiasa tabayyun secara spontan sebelum mempercayai kabar; berani mengakui kekeliruan jika dalilnya lemah. |
+| **CC-03 Komunikasi** | Menjaga lisan dari perkataan sia-sia (*hifzhul lisan*); mampu menyampaikan nasihat secara santun dan mengena. |
+| **CC-04 Kolaborasi** | Rela meleburkan ego pribadi demi kebaikan tim (*ta'awun*); menuntaskan amanah kelompok tanpa mencari pujian. |
+| **CC-05 Keberfungsian Fisik** | Kebiasaan thaharah dan hidup bersih mendarah daging; stamina bugar menopang ritme 24 jam pesantren. |
+| **CC-06 Pemahaman Sosial** | Sangat peka terhadap perasaan dan kesulitan kawan; spontan menolong santri yang lemah atau terasing. |
+| **CC-07 Agensi** | Memiliki motivasi ibadah dan belajar yang murni dari dalam hati (*ikhlas*); gigih bangkit saat menemui kegagalan. |
+| **CC-08 Pemecahan Masalah** | Bersikap tenang dan tidak panik saat ada krisis; menemukan jalan keluar yang halal dan tidak merugikan orang lain. |
 
-## 8. Mastery and J1–J4
+---
 
-J1–J4 tetap merupakan arsitektur dukungan dan otonomi, bukan mastery score.
+## 4. Membedakan Ketuntasan dari Kasta Nilai
 
-Seseorang dapat menunjukkan mastery dalam suatu functioning sambil tetap membutuhkan dukungan dalam konteks lain. Sebaliknya, berkurangnya dukungan yang dibutuhkan tidak dengan sendirinya membuktikan mastery.
+TUMBUH menegakkan batas-batas epistemik yang tegas agar konsep ketuntasan tidak disalahgunakan:
 
-Karena itu:
+1. **Performa $\neq$ Kapasitas $\neq$ Ketuntasan (*Mastery*):**  
+   Satu kali nilai bagus dalam ujian fiqih belum membuktikan kapasitas penalaran tinggi, dan belum membuktikan ketuntasan adab ibadah.
+2. **Jenjang J1–J4 Bukan Skor Ketuntasan:**  
+   J1–J4 adalah dosis bantuan musyrif, sedangkan Mastery adalah kematangan internal watak santri. Santri yang berada di J2 dalam satu pelajaran bisa saja sudah mencapai mastery dalam adab kebersihan kamar.
+3. **Keputusan Bersifat Dapat Ditinjau Ulang (*Reviewability*):**  
+   Status ketuntasan bukanlah stempel mati abadi. Jika santri mengalami guncangan psikologis berat sehingga adabnya sempat mengendur, pendidik hadir merangkul dan mendampingi kembali tanpa mencabut martabatnya.
+
+---
+
+## 5. Tata Kelola Penentuan Ketuntasan oleh Dewan Asatidz
+
+Penetapan bahwa seorang santri telah mencapai ketuntasan (*malakah*) pada domain tertentu dilakukan melalui musyawarah berkeadilan:
 
 ```text
-J-level ≠ Mastery Level
-Support Reduction ≠ Mastery Proof
-Age / Class ≠ Mastery Level
+Bukti Catatan Lapangan 24 Jam (Logbook Musyrif, Portofolio Santri, Jurnal Halaqoh)
+                                      ↓
+                   Pemeriksaan Kecukupan & Kualitas Bukti
+                                      ↓
+                Musyawarah Sidang Dewan Asatidz & Wali Kamar
+                                      ↓
+     Perumusan Keputusan Ketuntasan Berdasarkan Lingkup yang Jelas (Scoped Judgment)
+                                      ↓
+            Pemberian Amanah Peran Baru / Khidmah Melayani Sesama
 ```
 
-## 9. Mastery and Performance
+Jika bukti belum mencukupi, sidang asatidz secara jujur menyatakan: *"Bukti belum memadai, berikan kesempatan santri berlatih 1 bulan lagi"*—tanpa memberi vonis negatif.
 
-TUMBUH mempertahankan batas berikut:
+---
 
-```text
-Performance ≠ Capacity
-Capacity ≠ Mastery
-Score ≠ Mastery
-Single Observation ≠ Mastery
-```
+## 6. Pagar Batas Epistemik (Negative Boundaries)
 
-Performance adalah manifestasi pada kondisi tertentu. Capacity adalah construct yang dikembangkan. Mastery adalah judgment berbasis evidence mengenai functioning construct tersebut dalam scope tertentu.
+1. **Bukan Kasta Senioritas Feodal:** Santri yang telah mencapai mastery tidak boleh menyombongkan diri atau menindas adik kelas; hakikat malakah melahirkan ketawadukan (*semakin berisi semakin merunduk*).
+2. **Dilarang Menilai dari Satu Kejadian:** Keputusan ketuntasan tidak boleh diambil hanya dari satu kali insiden atau satu kali observasi sepintas.
+3. **Bukan Alat Vonis Permanen:** Santri yang belum mencapai kriteria ketuntasan tertentu tidak boleh dicap "anak gagal", melainkan santri yang sedang berproses pada tahapan belajarnya.
 
-## 10. Mastery, Learning, and Development
+---
 
-Learning dapat menghasilkan pengetahuan, keterampilan, strategi, atau perubahan lain yang relevan. Capacity progression menelusuri perubahan functioning. Mastery Progression menentukan bagaimana bukti penguasaan dipertimbangkan.
+## 7. Status Keabsahan Dokumen (Epistemic Status)
 
-Ketiganya saling terkait tetapi tidak identik.
-
-## 11. Reviewability
-
-Mastery judgment bukan label permanen. Bila konteks, tuntutan, evidence, atau interpretasi construct berubah, judgment dapat ditinjau kembali.
-
-Review dapat menghasilkan:
-
-- mastery tetap didukung;
-- mastery perlu dibatasi pada scope tertentu;
-- evidence belum cukup;
-- kriteria perlu diperiksa kembali;
-- functioning perlu didukung atau dikembangkan lebih lanjut.
-
-## 12. Fairness, Dignity, and Safety
-
-Mastery tidak boleh digunakan untuk merendahkan martabat individu, mengunci identitas, atau membenarkan perlakuan yang tidak proporsional.
-
-Penilaian harus mempertimbangkan kesempatan belajar, konteks, dukungan, kebutuhan akses, variasi manusia yang wajar, serta keselamatan.
-
-Tidak mencapai satu kriteria mastery bukan berarti individu “gagal sebagai manusia” atau tidak memiliki potensi berkembang.
-
-## 13. Governance Rules
-
-1. Mastery harus construct-first.
-2. Kriteria harus dapat ditelusuri ke Functional Object dan Functional Dimension ketika struktur tersebut digunakan.
-3. Tidak ada mastery threshold universal untuk seluruh capacities.
-4. Satu observasi tidak cukup sebagai aturan umum.
-5. Performance tidak boleh langsung diperlakukan sebagai capacity atau mastery.
-6. Transfer dan maintenance tidak boleh diasumsikan tanpa evidence ketika keduanya relevan.
-7. J1–J4 tidak boleh dipakai sebagai mastery score.
-8. Age atau class tidak otomatis menentukan mastery.
-9. Mastery judgment harus memiliki scope dan batas inferensi.
-10. Ketidakcukupan evidence harus dapat dinyatakan secara eksplisit.
-11. Assessment tidak boleh mengubah definisi construct hanya agar mudah dinilai.
-12. Evidence baru dapat membuka kembali kriteria atau arsitektur bila menunjukkan masalah substantif.
-
-## 14. Epistemic Boundary
-
-Arsitektur ini merupakan desain konseptual TUMBUH. Ia belum dengan sendirinya membuktikan:
-
-- validitas mastery criteria;
-- reliabilitas judgment;
-- equivalence lintas konteks;
-- universalitas kriteria;
-- hubungan kausal antara proses belajar dan mastery;
-- efektivitas program tertentu;
-- predictive validity;
-- psychometric properties tertentu.
-
-Semua klaim tersebut memerlukan evidence yang sesuai dan tercatat melalui Claim Registry serta Evidence/Research layer.
-
-## 15. Closing Principle
-
-Mastery dalam TUMBUH bukan tentang membuat manusia berhenti berkembang. Mastery adalah cara yang hati-hati untuk mengenali bahwa suatu kapasitas telah menunjukkan functioning yang relatif stabil, tepat, dapat digunakan pada situasi relevan, dan bertahan cukup lama untuk mendukung keputusan pengembangan berikutnya.
+- **Status:** *Conceptually Specified; Empirically Provisional.*
+- Konsep ini berakar pada teori pembentukan karakter Islam (*nazhariyyat al-malakah*) menurut Ibnu Khaldun dan Imam Al-Ghazali, dipadukan dengan teori ketuntasan belajar (*mastery learning*) dan validitas inferensi asesmen modern.
+- Dokumen ini menjadi pedoman luhur bagi dewan asatidz dalam menilai kematangan sejati para santri sebelum mereka diwisuda dan dilepas berkhidmah di tengah umat.

@@ -1,91 +1,156 @@
 # Dimensi Fungsi 07: Daya Gerak Mandiri (Functional Dimensions — Agency)
 
-**Status:** KONSEPTUAL KANONIK — Roda Gigi Kerja Kapasitas Inisiatif & Kehendak Sadar Santri (CC-07)
-
-Dokumen ini membedah bagaimana kapasitas **Daya Gerak Mandiri (*Agency*)** bekerja di dalam jiwa santri: bukan kemauan memberontak aturan, melainkan kemerdekaan jiwa untuk memulai kebaikan secara sukarela, teguh memegang prinsip, dan berikhtiar sungguh-sungguh demi mencari ridha Allah SWT.
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Dimensi Fungsional TUMBUH v2.0.0  
+**Kode Konstruk:** CC-07-FD  
+**Sasaran Kerja (*Functional Object*):** Inisiasi dan pengarahan tindakan secara sengaja dalam kondisi nyata (*intentional action*)  
 
 ---
 
-## 1. Apa itu Dimensi Fungsi Daya Gerak Mandiri?
+## 1. Hakikat dan Roda Gigi Kerja Daya Gerak Mandiri
 
-Manusia bukanlah robot atau wayang yang hanya bergerak saat ditarik talinya. Allah SWT menciptakan manusia dengan akal, hati nurani, dan kehendak memilih (*ikhtiyar*) yang akan dipertanggungjawabkan di akhirat kelak:
-$$\text{"Katakanlah: 'Kebenaran itu datangnya dari Tuhanmu; maka barangsiapa yang ingin (beriman) hendaklah ia beriman, dan barangsiapa yang ingin (kafir) biarlah ia kafir'..." (QS. Al-Kahfi: 29)}$$
+Santri di pesantren bukanlah robot yang hanya bergerak saat tombol ditekan atau wayang yang menanti tarikan benang dalang. Islam memandang manusia sebagai khalifah yang dibekali akal, kehendak memilih (*al-ikhtiyār*), dan cita-cita luhur (*al-himmah al-'āliyah*) yang melahirkan tindakan nyata secara sukarela demi mencari ridha Allah SWT.
 
-Daya gerak mandiri santri ditopang oleh **tiga dimensi fungsi utama**:
+Daya Gerak Mandiri (*Agency*) bekerja melalui **tiga serangkai dimensi fungsi (*triad dimensions*)**:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│                 TIGA DIMENSI KERJA DAYA GERAK MANDIRI                  │
+│             TRIAD DIMENSI KERJA DAYA GERAK MANDIRI (CC-07)             │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. INISIATIF KEBAIKAN (Initiation)   : Memulai langkah tanpa disuruh   │
-│                 ↓                                                      │
-│ 2. KETEGUHAN ARAH NIAT (Direction)   : Berpijak pada nilai, bukan tren │
-│                 ↓                                                      │
-│ 3. KETAHANAN IKHTIAR (Action)        : Tetap berbuat di bawah tantangan│
+│ 1. ACTION INITIATION (Inisiasi Tindakan Kebaikan / Al-Mubādarah)       │
+│    "Kebaikan apa yang terbengkalai di hadapan saya, dan bagaimana      │
+│     saya mengambil langkah pertama tanpa menunggu diperintah?"         │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 2. INTENTIONAL DIRECTION (Pengarahan Niat & Kompas Nilai / Al-Qashd)   │
+│    "Apakah arah gerak saya berpijak pada prinsip syar'i dan keikhlasan,│
+│     bukan sekadar ikut-ikutan tren kawan atau mencari pujian?"         │
+│                 │                                                      │
+│                 ▼                                                      │
+│ 3. OWNERSHIP & PERSISTENCE (Kepemilikan Amanah & Keteguhan / Tsabāt)   │
+│    "Bagaimana saya memikul tanggung jawab penuh dan gigih menuntaskan  │
+│     ikhtiar hingga garis akhir meski menghadapi badai rintangan?"      │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 2. Sasaran Kerja (Functional Object)
-
-> **Sasaran Kerja Daya Gerak Mandiri adalah: Inisiasi, pengarahan arah niat, dan pelaksanaan tindakan sadar di bawah kondisi nyata di asrama.**
-
-Objek yang dikelola santri adalah **daya kemauan dan keberanian moralnya sendiri untuk berbuat baik secara merdeka**.
+Ketiga dimensi ini membebaskan santri dari mentalitas pasif, sikap berpangku tangan (*takasul*), dan ketergantungan kronis pada pengawasan musyrif.
 
 ---
 
-## 3. Rincian Tiga Dimensi Fungsi
+## 2. Landasan Nilai Syar'i dan Akar Turats
 
-### Dimensi 1: Inisiatif Kebaikan (*Initiation*)
-- **Pertanyaan Batin Santri:** *"Ada kebaikan yang terbengkalai di depan mata saya, mengapa saya harus menunggu disuruh musyrif untuk memperbaikinya?"*
-- **Penjelasan Fungsi:** Kemampuan mengambil langkah pertama secara proaktif untuk berbuat maslahat, tanpa memerlukan perintah, ancaman hukuman, atau iming-iming hadiah.
-- **Contoh Nyata di Asrama:**
-  Santri melihat kran air tempat wudhu masjid bocor dan meluap membuang-buang air. Tanpa menunggu musyrif lewat, santri segera mematikan kran dari stop kran utama dan melaporkannya ke bagian pemeliharaan pesantren.
+Al-Qur'an memerintahkan manusia untuk proaktif berlomba-lomba dalam kebajikan:
 
-### Dimensi 2: Keteguhan Arah Niat (*Direction*)
-- **Pertanyaan Batin Santri:** *"Apa niat lillahi ta'ala di balik perbuatan saya ini? Apakah saya memilih ini karena benar menurut syariat, atau hanya ikut-ikutan tren kawan?"*
-- **Penjelasan Fungsi:** Kemampuan mengarahkan kompas pilihan hidupnya berdasarkan prinsip moral yang kokoh, sehingga tidak mudah goyah oleh bujukan atau cemoohan lingkungan sekitar.
-- **Contoh Nyata di Asrama:**
-  Saat kawan-kawan sekamar asyik begadang mengobrol hal yang sia-sia, santri memilih pamit untuk tidur tepat waktu jam 22.00 karena berniat bangun shalat malam, meskipun sempat disindir: *"Sok alim kamu!"*
+$$\text{"فَاسْتَبِقُوا الْخَيْرَاتِ"}$$
+*(Maka berlomba-lombalah kamu dalam berbagai kebajikan — QS. Al-Baqarah: 148).*
 
-### Dimensi 3: Ketahanan Berikhtiar di Bawah Tantangan (*Intentional Action under Conditions*)
-- **Pertanyaan Batin Santri:** *"Kondisi sedang sulit, lelah, dan banyak godaan; bagaimana saya tetap teguh menyelesaikan amanah ini sampai tuntas?"*
-- **Penjelasan Fungsi:** Daya tahan moral dan keteguhan hati (*istitho'ah*) untuk meneruskan niat baik yang telah dimulai, meskipun menghadapi rintangan rasa malas, dingin, atau godaan kawan.
-- **Contoh Nyata di Asrama:**
-  Santri diberi amanah sebagai koordinator mading asrama. Walaupun tugas belajarnya sedang padat dan dua anggotanya izin sakit, santri tersebut tetap mengatur waktu secara cerdas hingga mading terbit tepat waktu dengan kualitas yang memikat.
+Allah SWT juga menegaskan bahwa perubahan nasib suatu kaum bermula dari inisiatif perubahan jiwa manusia itu sendiri:
+
+$$\text{"إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ"}$$
+*(Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum sebelum mereka mengubah keadaan yang ada pada diri mereka sendiri — QS. Ar-Ra'd: 11).*
+
+Rasulullah SAW berdo'a memohon perlindungan dari kelumpuhan daya gerak:
+
+$$\text{"اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ"}$$
+*(Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelemahan tekad ['ajz] dan kemalasan [kasal] — HR. Bukhari).*
+
+Ibnul Qayyim dalam *Al-Fawa'id* menjelaskan kedudukan *Himmah* (cita-cita dan daya gerak kemauan):
+*"Tingginya kemauan seorang hamba adalah tanda hidupnya kalbu. Orang yang memiliki himmah 'aliyah (kehendak tinggi) tidak akan pernah rela dengan kehinaan amal, tidak akan menanti orang lain membangunkannya, melainkan terbang menuju kemuliaan sebagaimana elang terbang membubung ke angkasa."*
 
 ---
 
-## 4. Studi Kasus Asrama 24 Jam: Santri Penggerak Kebersihan
+## 3. Spesifikasi Rinci Tiga Dimensi Fungsional
 
-> **Lorong Asrama Abu Ubaidah, Ba'da Ashar:**
-> Lorong asrama tampak kotor oleh daun-daun kering yang tertiup angin dan sandal yang berserakan. Sebagian besar santri hanya lewat begitu saja tanpa memedulikannya.
+### Dimensi 1: Inisiasi Tindakan Kebaikan (*Action Initiation / Al-Mubādarah bi al-Khayr*)
+
+- **Pertanyaan Batin Santri:**
+  *"Ada sampah di pelataran musholla, ada kawan yang kesulitan membawa kitab, ada waktu luang sebelum adzan; mengapa saya harus menunggu komando musyrif untuk berbuat baik?"*
+- **Mekanisme Kerja Mental & Perilaku:**
+  Kecakapan meruntuhkan inersia kemalasan, mengambil langkah pertama (*overcoming activation energy*), proaktif mengisi kekosongan maslahat, dan berani memulai aksi kebajikan di lingkungannya tanpa menunggu instruksi resmi.
+- **Manifestasi Keberfungsian Sehat:**
+  Santri melihat pintu gerbang asrama terbuka saat angin kencang berhembus. Tanpa menunggu pengurus keamanan memanggil, ia langsung berdiri dari bangkunya, menghampiri gerbang, menguncinya dengan aman, lalu kembali ke kegiatannya.
+- **Gejala Malfungsi / Disfungsi (*Under-functioning*):**
+  *Kelumpuhan inisiatif (inertia / spectator syndrome)*; santri melihat kran air meluap membanjiri lorong namun hanya lewat begitu saja sambil menonton, berkata: *"Nanti juga ada pengurus yang mematikannya."*
+
+### Dimensi 2: Pengarahan Niat & Kompas Nilai (*Intentional Direction / Tawjīh al-Qashd*)
+
+- **Pertanyaan Batin Santri:**
+  *"Untuk apa saya melakukan perbuatan ini? Apakah saya memilih langkah ini karena meyakini kebenarannya di hadapan Allah, ataukah hanya karena terbawa arus pergaulan teman sebaya?"*
+- **Mekanisme Kerja Mental & Perilaku:**
+  Kecakapan mematok kompas tindakan (*moral autonomous steering*), memurnikan motivasi intrinsik (ikhlas lillahi ta'ala), berani berbeda dari mayoritas kawan jika mayoritas tersebut mengarah pada kesia-siaan, serta menyelaraskan setiap ikhtiar dengan tujuan akhirat.
+- **Manifestasi Keberfungsian Sehat:**
+  Saat kawan-kawan sekamar berkumpul begadang mengobrol hal yang tidak berfaedah seusai jam malam, santri tetap teguh pada kompasnya: ia pamit secara santun untuk tidur tepat waktu karena berniat bangun tahajjud, tidak goyah meski diejek sok alim oleh kawan-kawannya.
+- **Gejala Malfungsi / Disfungsi (*Under-functioning*):**
+  *Mentalitas bunglon / ikut-ikutan (al-imma'ah)*; santri tidak punya prinsip arah sendiri, jika teman-temannya belajar ia ikut belajar, jika teman-temannya membolos ia ikut membolos; kehilangan kendali atas niat dan pilihannya.
+
+### Dimensi 3: Kepemilikan Amanah & Keteguhan (*Ownership & Persistence / Al-Mas'ūliyyah wa Ats-Tsabāt*)
+
+- **Pertanyaan Batin Santri:**
+  *"Tugas ini adalah amanah kehormatan di pundak saya. Ketika rasa lelah datang, rintangan menghadang, atau kawan-kawan mulai mundur, bagaimana saya tetap bertahan menyelesaikannya hingga tuntas?"*
+- **Mekanisme Kerja Mental & Perilaku:**
+  Rasa memiliki tanggung jawab penuh (*psychological ownership*), kegigihan daya juang (*grit / al-jiddiyyah*), menolak mencari-cari alasan kegagalan, dan memiliki daya tahan menghadapi kebosanan rutinitas hingga sasaran terwujud secara sempurna.
+- **Manifestasi Keberfungsian Sehat:**
+  Santri yang diamanahi merawat taman asrama tetap menyirami tanaman setiap sore hari meskipun musim kemarau membuat air sumur harus ditimba dengan susah payah dan kawan seregunya tidak hadir; baginya amanah tanaman itu adalah titipan yang wajib dipertanggungjawabkan di hadapan Allah.
+- **Gejala Malfungsi / Disfungsi (*Under-functioning*):**
+  *Lepas tangan & mudah menyerah (abandonment / quitting)*; baru menemui hambatan kecil langsung berhenti, melempar kesalahan kepada pihak lain (*blaming others*), atau meninggalkan tugas setengah jalan tanpa rasa bersalah.
+
+---
+
+## 4. Dinamika Koordinasi Triad pada Tangga Kemandirian (J1–J4)
+
+| Jenjang Kemandirian | Action Initiation | Intentional Direction | Ownership & Persistence | Iklim Pemberdayaan Pesantren |
+|---|---|---|---|---|
+| **J1: Adaptasi Terpimpin** | Inisiatif masih sangat terbatas; membutuhkan pancingan ajakan hangat dari musyrif (*prompting*). | Arah niat masih sering bercampur dengan keinginan mencari pujian pengasuh atau orang tua. | Ketahanan tugas masih pendek (15-20 menit); mudah teralihkan jika tidak didampingi. | *Positive Reinforcement & Low Friction*: Menghargai inisiatif sekecil apa pun, memberi ruang aman mencoba. |
+| **J2: Pembiasaan Terarah** | Mampu memulai kegiatan rutin (merapikan kasur, mengambil wudhu, membuka kitab) atas jadwal pribadi. | Mulai memahami mengapa ia harus belajar; memiliki cita-cita pribadi yang jelas. | Sanggup menyelesaikan tugas hafalan 1 juz dengan ketekunan pribadi tanpa perlu diancam hukuman. | *Goal-Setting Coaching*: Musyrif membantu santri merumuskan target pribadi dan memantau grafiknya. |
+| **J3: Kemandirian Konsisten** | Menjadi pelopor kebaikan di kamar (*trendsetter*); menggerakkan kawan-kawan untuk menghidupkan sunnah. | Niatnya mandiri dan murni; tidak terpengaruh oleh cemoohan atau godaan lingkungan sekitar. | Memiliki ketangguhan tinggi menuntaskan amanah organisasi santri meskipun mengorbankan waktu istirahat. | *Delegation of Responsibility*: Menyerahkan pengelolaan mading, kebersihan zona, dan kepanitiaan kecil. |
+| **J4: Kepemimpinan & Penggerak** | Melahirkan program-program terobosan baru yang membawa maslahat luas bagi seluruh pondok. | Menjadi suluh keteguhan moral (*moral compass*) yang menginspirasi ratusan adik kelas. | Memikul amanah besar kepengurusan dengan rasa tanggung jawab kenabian (*mas'uliyyah risaliyyah*). | *Stewardship & Mentorship*: Amanah pengurus dewan santri, kaderisasi kepemimpinan umat. |
+
+---
+
+## 5. Studi Kasus Asrama 24 Jam: Santri Penggerak Kebersihan Lorong
+
+> **Asrama Ibnu Khaldun, Pukul 13.30 Siang (Jam Istirahat Bebas):**
+> Hujan deras siang hari menyebabkan atap selasar bocor dan air merembes membasahi lorong kamar. Debu tanah bercampur air membuat lantai becek dan licin membahayakan santri yang melintas menuju musholla. Sebagian santri hanya melompati genangan air sambil mengeluh: *"Pengurus pondok lambat sekali membetulkan genteng!"*
 >
-> 1. **Inisiatif Muncul:** Santri Hafizh (16 tahun) melintas. Alih-alih mengeluh atau menyalahkan petugas kebersihan, Hafizh spontan mengambil sapu lidi di sudut lorong dan mulai menyapu daun-daun tersebut.
-> 2. **Keteguhan Arah Teruji:** Seorang kawan menegurnya: *"Hafizh, kenapa kamu menyapu? Ini kan bukan jatah piket kamarmu!"* Hafizh tersenyum ramah dan menjawab: *"Iya akhi, tapi menyapu lorong masjid dan asrama ini sedekah yang dicintai Allah. Mumpung ada waktu luang, mari kita bersihkan bersama."*
-> 3. **Menggerakkan Kebaikan Bersama:** Melihat keteguhan dan keikhlasan Hafizh, kawan yang menegur tadi merasa terketuk hatinya. Ia ikut mengambil tempat sampah dan membantu menampung daun kering. Dalam waktu 15 menit, lorong asrama menjadi bersih mengilap berkat inisiatif satu orang santri.
+> 1. **Action Initiation Menolak Pasif:** Santri Zakaria (kelas 2 Aliyah) yang baru keluar dari kamar melihat kondisi becek tersebut. Ia tidak ikut mengeluh, dan tidak menunggu jam piket sore. Roda inisiasinya langsung berputar: Zakaria berbalik ke kamar mandi, mengambil ember besar, alat penarik air (*wiper lantai*), dan kain pel tebal.
+> 2. **Intentional Direction Meluruskan Niat:** Saat Zakaria mulai menyeret air ke saluran pembuangan, seorang kawan menyindir: *"Ngapain repot-repot Zak? Itu kan tugas bagian sarpras!"* Zakaria tersenyum ramah dan menjawab tenang di hatinya: *"Menyingkirkan gangguan dari jalan adalah cabang keimanan. Jika ada santri terpeleset, itu saudaraku. Aku membersihkannya karena Allah mencintai kebersihan."* Kompas niat Zakaria tidak bergeser satu milimeter pun.
+> 3. **Ownership & Persistence Menuntaskan Solusi:** Zakaria tidak hanya mengepel lantai hingga kering; ia menaruh ember di bawah titik bocor genteng agar air tidak menggenang kembali, meletakkan papan penanda kecil agar kawan-kawan berhati-hati, lalu melaporkan titik kebocoran ke pos sarpras dengan foto jelas. Melihat keteguhan dan keikhlasan Zakaria, tiga santri lain yang semula hanya menonton merasa malu dan tergerak untuk turun tangan membantunya. Lorong asrama kembali bersih dan aman, lahir dari daya gerak mandiri seorang santri.
 
 ---
 
-## 5. Matriks Pengamatan Musyrif di Lapangan
+## 6. Matriks Manifestasi Triadik Lapangan
 
-| Gejala Masalah pada Santri | Dimensi yang Mengalami Hambatan | Bentuk Bimbingan Musyrif |
-|---|---|---|
-| Santri bertipe robot: baru bergerak jika dibentak atau disuruh musyrif, jika tidak disuruh ia hanya diam melamun. | **Inisiatif Kebaikan (*Initiation*) Lemah:** Kehilangan daya inisiatif diri (*passivity*). | Berikan ruang kepercayaan: *"Ustadz titipkan kebersihan selasar ini pada antum. Tunjukkan kreativitas antum mengaturnya!"* |
-| Santri bermental plin-plan: mudah terpengaruh ajakan buruk kawan sebaya karena takut dijauhi (*peer pressure*). | **Keteguhan Arah Niat (*Direction*) Lemah:** Belum memiliki jati diri dan prinsip. | Tanamkan keberanian bersikap: latih santri berani berkata *"Tidak"* pada ajakan maksiat dengan cara yang santun. |
-| Santri bersemangat di awal saat membuat program, tapi langsung putus asa begitu menemui rintangan pertama. | **Ketahanan Berikhtiar (*Intentional Action*) Lemah:** Daya juang rapuh. | Dampingi dan ajarkan seni memecah masalah besar menjadi langkah-langkah kecil yang bisa diselesaikan bertahap. |
-
----
-
-## 6. Pagar Pengaman Batas Dimensi (Boundaries)
-
-1. **Bukan Pembangkangan terhadap Otoritas:** Daya Gerak Mandiri adalah keberanian mengambil inisiatif kebaikan yang selaras dengan syariat dan aturan pesantren, bukan kebebasan liar untuk melanggar tata tertib asrama.
-2. **Bukan Sikap Egois Individualis:** Memiliki inisiatif mandiri bukan berarti tidak mau diajak musyawarah atau merasa tidak butuh bimbingan guru.
-3. **Pendorong Utama Kepemimpinan:** Santri yang memiliki daya gerak mandiri yang matang adalah calon pemimpin masa depan (*ri'ayah/qiyadah*) yang tidak menunggu disuruh untuk memperbaiki keadaan umat.
+| Dimensi Fungsional | Kamar Asrama (Dormitory) | Kelas Madrasah (Classroom) | Masjid & Halaqoh (Sanctuary) |
+|---|---|---|---|
+| **Action Initiation** | Langsung menyapu lantai kamar saat melihat remah biskuit berserakan tanpa menunggu jadwal piket. | Berinisiatif menghapus papan tulis kelas yang kotor sebelum ustadz masuk ke ruangan. | Mengambil inisiatif mengumandangkan adzan saat waktu shalat tiba dan muadzin utama berhalangan. |
+| **Intentional Direction** | Menolak ikut menonton film ilegal di laptop kawan; memilih menggunakan waktu untuk membaca kitab. | Belajar sungguh-sungguh karena haus akan ilmu syar'i, bukan semata demi ranking atau hadiah semesteran. | Memperbarui niat ikhlas saat shalat sunnah di pojok masjid tanpa peduli apakah dilihat orang atau tidak. |
+| **Ownership & Persistence** | Merawat fasilitas lemari dan ranjang asrama seolah-olah milik pribadi; memperbaikinya jika ada baut longgar. | Mengerjakan tugas makalah madrasah hingga larut malam dengan referensi yang sahih dan tuntas. | Menjaga konsistensi hadir shalat tahajjud setiap malam meskipun cuaca sangat dingin membeku. |
 
 ---
 
-## Ringkasan Inti
+## 7. Panduan Diagnosis Diferensial Musyrif
 
-> **Dimensi Fungsi Daya Gerak Mandiri adalah bara api kepemimpinan di dalam dada santri. Inisiatif kebaikan adalah percikannya, keteguhan arah niat adalah hembusan angin yang membesarkannya, dan ketahanan berikhtiar adalah kayu bakar yang menjaganya tetap menyala menerangi jalan kemaslahatan bagi sesama.**
+| Gejala Masalah pada Santri | Dimensi yang Mengalami Hambatan | Analisis Akar Masalah | Tindakan Intervensi Edukatif Musyrif |
+|---|---|---|---|
+| Santri adalah anak yang sangat penurut, namun bila tidak disuruh ia hanya duduk melamun atau tidur; tidak pernah berinisiatif apa pun. | **Action Initiation Mati** | Ketergantungan psikologis kronis (*learned helplessness*); terbiasa dimanjakan atau ditekan secara otoriter di masa kecil. | **Pemberian Keleluasaan Memilih:** Musyrif menahan instruksi langsung, lalu bertanya: *"Menurut antum, apa yang perlu kita rapikan di ruangan ini? Silakan tentukan dan mulai sendiri."* |
+| Santri sangat aktif berkegiatan, namun perilakunya berubah 180 derajat tergantung siapa yang memimpin; gampang terbawa arus buruk teman. | **Intentional Direction Goyah** | Belum memiliki jangkar nilai (*moral rudderless*); motivasi murni ekstrinsik demi penerimaan kelompok sebaya (*peer validation*). | **Internalisasi Nilai Ikhlas:** Ajak santri berdialog reflektif: *"Untuk siapa antum berlelah-lelah di pondok ini? Apa nilai yang ingin antum pertahankan seumur hidup?"* |
+| Santri sangat bersemangat di awal tugas, melontarkan ide-ide besar, namun setelah tiga hari pekerjaannya ditinggalkan terbengkalai begitu saja. | **Ownership & Persistence Lemah** | Masalah ketahanan daya juang (*low grit / lack of persistence*); terbiasa mencari sensasi awal tanpa disiplin proses. | **Scaffolding Milestone:** Bantu santri memecah proyek besar menjadi target harian kecil; jangan izinkan mengambil amanah baru sebelum amanah lama selesai. |
+
+---
+
+## 8. Pagar Batas Konstruk (*Boundaries & Anti-Patterns*)
+
+Agar kapasitas Daya Gerak Mandiri tidak disalahpahami di pesantren:
+
+1. **Bukan Pembangkangan Aturan (*Rebellion / Indisipliner*):**
+   Inisiatif santri bekerja dalam koridor syariat dan tata tertib pesantren, bukan kebebasan liar untuk melanggar aturan dengan dalih mengekspresikan diri secara mandiri.
+2. **Bukan Keliaran Tanpa Koordinasi (*Rogue Actions*):**
+   Santri yang mengambil tindakan sepihak yang membahayakan keselamatan orang lain atau melangkahi wewenang pimpinan tanpa izin bukanlah santri berdaya gerak, melainkan santri ceroboh (*tasawwur bathil*).
+3. **Bukan Kesombongan Menolak Bantuan:**
+   Mandiri bukan berarti menolak nasihat guru atau menolak kerja sama dengan kawan. Santri yang mandiri justru tahu kapan harus berikhtiar sendiri dan kapan harus bermusyawarah meminta masukan.
+
+---
+
+## 9. Status Validasi
+
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Dokumen ini menjadi standar baku penilaian kemandirian santri, kaderisasi kepemimpinan santri, dan pengujian inisiatif TUMBUH v2.0.0.

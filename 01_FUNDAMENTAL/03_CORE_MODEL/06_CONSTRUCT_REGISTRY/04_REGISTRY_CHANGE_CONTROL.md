@@ -1,61 +1,129 @@
 # Pengendalian Perubahan Registri Konstruk (Construct Change Control)
 
-**Status:** TATA KELOLA ARSITEKTUR — Prosedur Resmi Pembaruan Istilah
-
-Dokumen ini mengatur tata cara dan syarat ketat jika sewaktu-waktu ada usulan untuk mengubah, menambah, atau merevisi definisi konsep di dalam registri istilah TUMBUH.
-
----
-
-## 1. Mengapa Perubahan Istilah Harus Dikendalikan Ketat?
-
-Mengubah definisi konsep di tengah jalan sama bahayanya dengan mengubah rambu lalu lintas saat kendaraan sedang melaju kencang. Jika hari ini kata *"Regulasi Diri"* diubah artinya, maka:
-- Rubrik penilaian musyrif di kamar asrama harus diganti;
-- Buku panduan guru harus dicetak ulang;
-- Data pengamatan santri selama berbulan-bulan sebelumnya akan kehilangan validitasnya.
-
-Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
-
-> **Bagaimana cara mengendalikan agar perubahan istilah hanya dilakukan jika benar-benar mendesak, didukung bukti data yang kuat, dan tidak menimbulkan kebingungan bagi praktisi di lapangan?**
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Konstruk TUMBUH v2.0.0  
+**Kode Konstruk:** CCC-v2.0.0  
+**Fungsi Dokumen:** Protokol tata kelola musyawarah dan syarat ketat pengajuan revisi, penambahan, atau penghapusan konsep di dalam Registri Konstruk Resmi  
 
 ---
 
-## 2. Kriteria Perubahan Mendasar (Material Change)
+## 1. Doktrin Stabilitas Konstruk (*The Construct Stability Rule*)
 
-Sebuah usulan revisi dianggap sebagai **perubahan mendasar (*material change*)** apabila:
-1. Mengubah nama atau kode kapasitas inti;
-2. Mengubah definisi resmi yang menjadi rujukan penilaian santri;
-3. Menggeser batas wilayah konsep sehingga bertabrakan dengan kapasitas lain;
-4. Mengubah bukti perilaku nyata (*evidence territory*) yang wajib dicatat dalam logbook.
+Mengubah definisi atau nama konsep karakter di tengah berjalannya sistem pendidikan adalah tindakan berisiko tinggi. Jika sebuah istilah seperti *"Regulasi Diri"* diubah definisinya di pertengahan semester, maka:
+- Puluhan modul pembinaan musyrif kamar asrama harus ditarik dan dicetak ulang;
+- Seluruh rubrik penilaian digital dalam sistem informasi santri harus diprogram ulang;
+- Rekaman data observasi santri selama berbulan-bulan sebelumnya kehilangan validitas komparatifnya (*broken longitudinal data*);
+- Para musyrif di lapangan akan mengalami kebingungan (*cognitive fatigue*) dan sinisme terhadap manajemen yang gemar latah mengganti istilah.
+
+Oleh karena itu, TUMBUH v2.0.0 menegakkan **Doktrin Stabilitas Konstruk (*The Construct Stability Rule*)**:
+
+> **"Sebuah konsep karakter yang telah terdaftar secara kanonikal TIDAK BOLEH diubah, ditambah, atau dikurangi definisinya kecuali melalui bukti empiris lapangan yang luar biasa kuat, kajian epistemologi syar'i yang mendalam, dan disahkan melalui musyawarah pleno resmi Dewan Pengasuhan Pesantren."**
 
 ---
 
-## 3. Lembar Berita Acara Perubahan Istilah (Change Record)
+## 2. Klasifikasi Perubahan: Material vs. Non-Material
 
-Setiap pengajuan perubahan istilah wajib mengisi formulir resmi dengan 7 pertanyaan kunci:
+Setiap usulan perubahan diklasifikasikan ke dalam dua kategori dengan prosedur yang berbeda:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│               LEMBAR KENDALI PERUBAHAN ISTILAH (CHANGE RECORD)         │
+│               KLASIFIKASI USULAN PERUBAHAN KONSTRUK                    │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. BAGIAN APA YANG DIUBAH?  : Nama konsep, definisi, atau batasannya?  │
-│ 2. APA ALASAN PERUBAHANNYA? : Menemukan masalah apa di lapangan?       │
-│ 3. BUKTI FAKTA PENDUKUNG    : Data asrama atau kajian syar'i apa?      │
-│ 4. KONSEP YANG TERDAMPAK    : Kapasitas mana saja yang ikut terpengaruh│
-│ 5. PERANGKAT YANG DITUKAR   : Rubrik, SOP, atau modul apa yang diganti?│
-│ 6. STATUS KLAIM RESMI       : Apakah mengubah klaim efektivitas metode?│
-│ 7. HAL YANG MASIH BELUM PASTI: Risiko kerancuan apa yang harus dipantau?│
+│ 1. PERUBAHAN MATERIAL (Material Change)                                │
+│    • Mengubah nama resmi tiga bahasa atau kode ID kapasitas.           │
+│    • Mengubah rumusan definisi kanonikal yang menjadi acuan penilaian. │
+│    • Menambah atau menghapus kapasitas dari daftar 8 Kapasitas Inti.   │
+│    • Mengubah struktur triad dimensi fungsi yang mengoperasikannya.    │
+│    • Menggeser pagar batas ontologis antar-kapasitas.                  │
+│    ──► WAJIB MELALUI PROTOKOL 5 LANGKAH SIDANG DEWAN PENGASUHAN.       │
+│                                                                        │
+│ 2. PERUBAHAN NON-MATERIAL / EDITORIAL (Editorial Clarification)        │
+│    • Memperbaiki salah ketik (typo) atau tata bahasa penjelasan.       │
+│    • Memperkaya narasi contoh studi kasus asrama 24 jam.               │
+│    • Menambahkan referensi takhrij hadits atau syarah ulama turats.    │
+│    ──► CUKUP DISETUJUI OLEH KEPALA DIVISI KURIKULUM & PENJAMINAN MUTU. │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 4. Prinsip Menahan Diri (Stability Rule)
+## 3. Protokol 5 Langkah Pengajuan Perubahan Material
 
-Jika seorang pendidik atau peneliti mengusulkan konsep baru namun data lapangannya belum kuat, pengelola kelembagaan wajib memegang **Prinsip Menahan Diri (*Stability Rule*)**:
-> *"Pertahankan istilah lama yang sudah stabil dipahami para musyrif. Catat usulan baru tersebut sebagai hipotesis penelitian yang akan diuji lebih lanjut, tanpa tergesa-gesa mengubah buku pedoman asrama."*
+Usulan perubahan material wajib melewati lima tahapan berurutan tanpa jalan pintas:
+
+```text
+       LANGKAH 1: PENGAJUAN RESMI LEMBAR BERITA ACARA (Change Request)
+  (Pemohon mengisi Formulir Lembar Berita Acara Perubahan secara tertulis)
+                           │
+                           ▼
+       LANGKAH 2: UJI BUKTI EMPIRIS & KAJIAN SYAR'I (Evidence Audit)
+  (Tim audit memeriksa apakah usulan didukung data catatan logbook minimal
+   6 bulan dan tidak bertentangan dengan kaidah fiqih turats)
+                           │
+                           ▼
+       LANGKAH 3: SIDANG PLENO DEWAN PENGASUHAN (Deliberation Council)
+  (Musyawarah pleno melibatkan Direktur Pengasuhan, Pakar Kurikulum Adab,
+   dan Perwakilan Musyrif Senior untuk menguji urgensi perubahan)
+                           │
+                           ▼
+       LANGKAH 4: UJI DAMPAK INSTRUMEN LAPANGAN (Field Impact Analysis)
+  (Menilai kesiapan sistem: biaya cetak modul baru, migrasi database santri,
+   dan waktu pelatihan ulang bagi seluruh musyrif kamar)
+                           │
+                           ▼
+       LANGKAH 5: RATIFIKASI RESMI & SOSIALISASI (Canonical Ratification)
+  (Penerbitan surat keputusan resmi pimpinan, pembaruan versi repository,
+   dan sosialisasi bertahap sebelum diberlakukan di tahun ajaran baru)
+```
 
 ---
 
-## Ringkasan Inti
+## 4. Format Formulir Berita Acara Perubahan (*Canonical Change Record Template*)
 
-> **Pengendalian Perubahan Konsep adalah benteng stabilitas pendidikan pesantren. Dengan prosedur musyawarah yang tertib dan keharusan menyertakan bukti nyata, pesantren terhindar dari penyakit latah gonta-ganti istilah, sehingga energi para musyrif dan guru dapat terfokus sepenuhnya pada pembinaan santri secara berkesinambungan.**
+Setiap usulan perubahan material wajib didokumentasikan dalam format standar berikut:
+
+```markdown
+### FORMULIR BERITA ACARA USULAN PERUBAHAN KONSTRUK (CHANGE RECORD)
+
+- **Nomor Registrasi Usulan:** [CR-YYYY-MM-XXXX]
+- **Tanggal Pengajuan:** [Hari, Tanggal Hijriah & Masehi]
+- **Nama Pengusul & Jabatan:** [Nama Ustadz / Musyrif / Tim Peneliti]
+- **Konstruk Target:** [ID Konstruk & Nama Kanonikal Saat Ini]
+
+#### 1. Deskripsi Perubahan Spesifik
+[Jelaskan kata demi kata bagian mana dari definisi, sasaran kerja, atau triad dimensi yang hendak diubah]
+
+#### 2. Latar Belakang Masalah di Asrama
+[Apa kesulitan nyata atau kebuntuan pembinaan di asrama 24 jam yang melatarbelakangi usulan ini?]
+
+#### 3. Data Bukti Pendukung (Empiris & Turats)
+[Sertakan data logbook lapangan, temuan riset santri, dan rujukan dalil syar'i yang mewajibkan perubahan ini]
+
+#### 4. Analisis Dampak Lintas-Kapasitas
+[Kapasitas apa saja yang akan terpengaruh jika konsep ini diubah? Apakah batasannya menjadi tumpang tindih?]
+
+#### 5. Rencana Migrasi Perangkat Operasional
+[Buku saku apa saja yang harus ditarik? Bagaimana transisi data nilai di rapor digital santri?]
+
+#### 6. Hasil Keputusan Sidang Pleno Musyawarah
+[ ] DITERIMA TANPA SYARAT
+[ ] DITERIMA DENGAN REVISI CATATAN
+[ ] DITOLAK (Tetap Menggunakan Definisi Kanonik Saat Ini)
+
+- **Tanda Tangan Pimpinan Dewan Pengasuhan:** ______________________
+```
+
+---
+
+## 5. Prinsip Menahan Diri (*The Stability Restraint Rule*)
+
+Jika sebuah usulan perubahan konsep diajukan atas dasar gagasan teoritis baru, namun belum memiliki data pembuktian lapangan minimal satu siklus tahun ajaran di pesantren:
+
+> **DEWAN PENGASUHAN WAJIB MENOLAK PERUBAHAN PADA BUKU PEDOMAN RESMI.**  
+> Usulan tersebut dialihkan dan dicatat sebagai **Topik Eksplorasi Khusus** pada folder `09_RESEARCH/` untuk diteliti lebih lanjut pada kelompok santri terbatas, tanpa mengganggu stabilitas bahasa pembinaan harian di asrama.
+
+---
+
+## 6. Status Validasi
+
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Dokumen ini mengikat secara yuridis-kelembagaan bagi Majelis Pengasuh, Tim Litbang, dan Manajemen Pesantren TUMBUH v2.0.0.

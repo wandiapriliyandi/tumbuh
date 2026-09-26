@@ -1,81 +1,114 @@
 # Jenis Klaim dan Tingkat Kepastian Pengetahuan (Claim Types and Epistemic Status)
 
-**Status:** KONSEPTUAL / TATA KELOLA ARSITEKTUR — Membedakan Jenis Pernyataan & Bobot Kebenaran
-
-Dokumen ini menjelaskan dua dimensi yang mutlak dipisahkan dalam mengevaluasi setiap pernyataan di lingkungan pesantren: **Jenis Pernyataan (*Claim Type*)** dan **Tingkat Kepastian Buktinya (*Epistemic Status*)**.
-
----
-
-## 1. Mengapa Kita Harus Membedakan Jenis Pernyataan dan Bobot Kebenarannya?
-
-Perhatikan kekeliruan fatal yang sering terjadi dalam dialog pendidikan:
-- *"Karena Al-Qur'an mewajibkan shalat berjamaah, maka metode hukuman push-up bagi santri yang terlambat shalat pasti benar secara syariat!"*
-
-Pernyataan di atas mencampuradukkan dua hal yang sangat berbeda:
-1. **Perintah Syariat Shalat Berjamaah:** Nilai kebenaran mutlak dari wahyu (*Normative Claim*).
-2. **Metode Hukuman Push-up:** Rancangan buatan manusia (*Design/Intervention Claim*) yang belum tentu efektif dan belum tentu sesuai dengan sunnah kasih sayang Nabi.
-
-Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
-
-> **Pernyataan macam apa yang sedang kita bicarakan, dan seberapa kuat dasar bukti nyata yang menopangnya?**
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Epistemik TUMBUH v2.0.0  
+**Kode Konstruk:** CTE-v2.0.0  
+**Fungsi Dokumen:** Panduan klasifikasi 10 tipologi klaim dan 7 tangga status kepastian ilmiah guna membedakan dalil wahyu dari metode ijtihad buatan manusia  
 
 ---
 
-## 2. Katalog 10 Jenis Pernyataan Utama (Canonical Claim Types)
+## 1. Urgensi Pemisahan Jenis Klaim dan Bobot Bukti
 
-Di dalam TUMBUH, setiap ucapan dan kebijakan dikelompokkan ke dalam jenisnya masing-masing:
+Kekeliruan fatal yang sering terjadi dalam dunia pendidikan Islam adalah **pencampuradukan antara dalil wahyu yang mutlak dengan metode manusiawi yang nisbi**:
+
+$$\text{"Karena shalat Subuh berjamaah adalah wajib, maka metode musyrif menyiram air ke wajah santri yang susah bangun adalah metode yang benar secara syariat!"}$$
+
+Pernyataan di atas melakukan kesalahan fatal dalam mencampuradukkan dua dimensi:
+1. **Perintah Syariat Shalat Subuh:** Adalah kebenaran mutlak wahyu (*Normative Claim*).
+2. **Metode Menyiram Air:** Adalah pilihan teknis manusiawi (*Intervention Claim*) yang berpotensi melanggar adab, mempermalukan santri, dan tidak memiliki dasar sunnah Nabi SAW.
+
+Dokumen ini memisahkan secara tegas antara **Kategori Apa yang Diklaim (*Claim Type*)** dengan **Seberapa Kuat Bukti Ilmiah yang Mendukungnya (*Epistemic Status*)**.
+
+---
+
+## 2. Katalog Sepuluh Jenis Pernyataan Kanonikal (The 10 Claim Types)
+
+Setiap proposisi yang muncul dalam tata kelola TUMBUH wajib diklasifikasikan ke dalam salah satu dari sepuluh tipologi:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   KATALOG JENIS PERNYATAAN TUMBUH                      │
+│             KATALOG SEPULUH JENIS PERNYATAAN KANONIKAL TUMBUH          │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. NORMATIF (Syar'i)   : Arah nilai moral & wahyu (Wajib, Sunnah, Adab)│
-│ 2. DEFINISI            : Penjelasan arti sebuah kata atau konsep       │
-│ 3. RANCANGAN (Design)  : Pilihan arsitektur sistem yang kita buat      │
-│ 4. FAKTA LAPANGAN      : Apa yang teramati secara nyata di asrama      │
-│ 5. SEBAB-AKIBAT (Causal): Hubungan bahwa A menyebabkan terjadinya B    │
-│ 6. PREDIKSI            : Perkiraan apa yang akan terjadi di masa depan │
-│ 7. PELAKSANAAN         : Catatan apakah SOP dijalankan dengan disiplin │
-│ 8. HASIL (Outcome)     : Nilai rapor atau perubahan perilaku santri    │
-│ 9. EFEKTIVITAS         : Bukti bahwa program membawa manfaat nyata     │
-│ 10. HIPOTESIS          : Dugaan awal yang sengaja diajukan untuk diuji │
+│ 1. KLAIM NORMATIF (Syar'i)     : Hukum wahyu, nilai tauhid, & adab     │
+│ 2. KLAIM DEFINISI (Konseptual) : Batasan arti kata & sasaran kerja     │
+│ 3. KLAIM DESAIN (Arsitektur)   : Pilihan rekayasa sistem yang dibuat   │
+│ 4. KLAIM DESKRIPTIF (Fakta)    : Laporan kejadian nyata teramati       │
+│ 5. KLAIM KAUSAL (Sebab-Akibat) : Hubungan intervensi menghasilkan hasil│
+│ 6. KLAIM PREDIKTIF (Prognosis) : Prakiraan perilaku santri ke depan    │
+│ 7. KLAIM PELAKSANAAN (Fidelity): Kepatuhan musyrif menjalankan SOP     │
+│ 8. KLAIM HASIL (Outcome)       : Perubahan capaian jenjang santri      │
+│ 9. KLAIM EFEKTIVITAS (Dampak)  : Bukti keunggulan suatu metode         │
+│ 10. KLAIM HIPOTETIS (Eksploratif: Dugaan awal mekanisme yang diuji    │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 3. Tangga Tingkat Kepastian Ilmiah (Epistemic Status)
-
-Tingkat kepastian sebuah pernyataan ilmiah buatan manusia tidak naik secara otomatis hanya karena sering diulang-ulang. Status kepastian bergerak mengikuti kekuatan data bukti:
-
-| Status Kepastian | Makna yang Sebenarnya | Contoh di Asrama Pesantren |
-|---|---|---|
-| **DIAJUKAN (*Proposed*)** | Baru sekadar ide atau usulan dari seorang guru. | Usulan menambah jam tidur siang 30 menit. |
-| **DIRANCANG (*Designed*)** | Sudah disepakati masuk ke dalam buku pedoman asrama. | Sistem piket kamar dibagi menjadi regu pagi dan sore. |
-| **DITINJAU PAKAR (*Expert Reviewed*)** | Sudah diperiksa oleh para ahli pendidikan dan ulama. | Modul kurikulum adab telah ditelaah para pengasuh senior. |
-| **DIUJI COBA TERBATAS (*Pilot Tested*)** | Telah diuji coba di lingkup kecil (1–2 kamar). | Metode jam weker mandiri diuji coba di Kamar Umar bin Khattab. |
-| **DIDUKUNG DATA NYATA (*Empirically Supported*)** | Catatan logbook membuktikan adanya perubahan nyata. | Data 3 bulan menunjukkan angka keterlambatan Subuh turun 70%. |
-| **TERBUKTI EFEKTIF (*Outcome Evaluated*)** | Evaluasi jangka panjang membuktikan manfaat program. | Santri yang lulus tetap menjaga shalat berjamaah di masyarakat. |
-| **DITOLAK / TIDAK TERBUKTI (*Not Supported*)** | Data membuktikan program tidak membawa manfaat. | Terbukti hukuman bentakan justru membuat santri makin membangkang. |
+| No | Jenis Klaim | Sifat Kebenaran | Contoh Kasus Nyata di Asrama Pesantren |
+|---|---|---|---|
+| **01** | **Normatif (Syar'i)** | Mutlak / Mengikat Ruhani | Menjaga shaf shalat berjamaah tetap lurus dan rapat adalah sunnah muakkadah. |
+| **02** | **Definisi (Konseptual)** | Kesepakatan Istilah | *Regulasi Diri* didefinisikan sebagai kemampuan mengelola dorongan diri lillahi ta'ala. |
+| **03** | **Pilihan Desain** | Rekayasa Manusiawi | Asrama membagi santri ke dalam kelompok usrah berisi 8 anak dengan 1 musyrif. |
+| **04** | **Deskriptif (Fakta)** | Empiris Lapangan | Santri Zaid hadir di masjid pukul 04.10 WIB dan langsung shalat tahiyyatul masjid. |
+| **05** | **Kausal (Sebab-Akibat)**| Membutuhkan Pembuktian| Tidur sebelum pukul 22.00 menyebabkan tingkat keterlambatan shalat Subuh turun. |
+| **06** | **Prediktif (Prognosis)**| Probabilistik | Santri yang terbiasa mandiri di J3 diprediksi akan menjadi pengurus yang amanah. |
+| **07** | **Pelaksanaan (Fidelity)**| Audit Prosedural | 90% musyrif telah mengisi buku catatan mutaba'ah adab kamar secara harian. |
+| **08** | **Hasil (Outcome)** | Bukti Capaian | 85% santri kelas 8 berhasil mencapai kemandirian J2 pada kapasitas higienitas fisik. |
+| **09** | **Efektivitas Komparatif**| Uji Banding Data | Bimbingan restitusi logis terbukti lebih efektif menurunkan konflik dibanding sanksi denda. |
+| **10** | **Hipotesis Ilmiah** | Sementara / Hipotesis | Diduga bahwa hafalan nazham nahwu membantu ketahanan konsentrasi belajar santri. |
 
 ---
 
-## 4. Tujuh Jebakan Logika yang Wajib Dihindari (Common Confusions)
+## 3. Tangga Tingkat Kepastian Ilmiah (The 7-Step Epistemic Progression Ladder)
 
-Para pendidik dilarang keras melakukan lompatan kesimpulan keliru berikut:
+Kecuali klaim normatif wahyu yang mutlak benar, seluruh klaim buatan manusia dalam sistem TUMBUH harus menapaki **Tujuh Tangga Kepastian Ilmiah**:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│             TUJUH TANGGA STATUS KEPASTIAN ILMIAH (EPISTEMIC LADDER)    │
+├────────────────────────────────────────────────────────────────────────┤
+│ TINGKAT 6: TERBUKTI EFEKTIF / OUTCOME EVALUATED                       │
+│            Evaluasi longitudinal jangka panjang membuktikan manfaat.   │
+│                 ▲                                                      │
+│ TINGKAT 5: DIDUKUNG DATA EMPIRIS / EMPIRICALLY SUPPORTED               │
+│            Catatan logbook asrama minimal 1 semester membuktikan hasil.│
+│                 ▲                                                      │
+│ TINGKAT 4: DIUJI COBA TERBATAS / PILOT TESTED                          │
+│            Telah diuji pada 1–2 kamar asrama percontohan terkontrol.   │
+│                 ▲                                                      │
+│ TINGKAT 3: DITINJAU PAKAR / EXPERT REVIEWED                            │
+│            Telah dikaji dan disetujui oleh para ulama & dewan pakar.   │
+│                 ▲                                                      │
+│ TINGKAT 2: TELAH DIRANCANG RESMI / CANONICALLY DESIGNED                │
+│            Telah masuk ke dalam dokumen resmi arsitektur sistem.       │
+│                 ▲                                                      │
+│ TINGKAT 1: DIAJUKAN / PROPOSED                                         │
+│            Baru berupa ide atau usulan rancangan awal dari musyrif.    │
+│                                                                        │
+│ [STATUS KHUSUS: DITOLAK / NOT SUPPORTED]                              │
+│ Data lapangan membuktikan klaim tidak terbukti atau membawa bahaya.   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+> **Rambu Integritas:**  
+> Dilarang menggunakan label `terbukti efektif` (*outcome evaluated*) jika data yang dimiliki baru berada pada tingkat `telah dirancang` (*designed*) atau `ditinjau pakar` (*expert reviewed*). Melanggar urutan tangga ini dikategorikan sebagai **kebohongan ilmiah (*academic dishonesty*)**.
+
+---
+
+## 4. Tujuh Jebakan Logika Ilmiah (*The 7 Epistemic Fallacies*)
+
+Para pendidik, musyrif, dan pengelola pesantren dilarang keras melakukan lompatan kesimpulan keliru berikut:
 
 $$\begin{aligned}
-\text{Definisi di Kertas} &\neq \text{Kenyataan di Hati Santri} \\
-\text{Rancangan Program yang Bagus} &\neq \text{Otomatis Efektif Berhasil} \\
-\text{Dua Kejadian Berbarengan} &\neq \text{Yang Satu Menyebabkan yang Lain} \\
-\text{Sukses di Satu Kamar Asrama} &\neq \text{Pasti Sukses di Seluruh Dunia} \\
-\text{Musyrif Menjalankan SOP} &\neq \text{Santri Otomatis Berakhlak Mulia} \\
-\text{Nilai Ujian Adab Tinggi} &\neq \text{Karakter Santri Sudah Sempurna} \\
-\text{Niat Baik Pendidik} &\neq \text{Metode Pendidik Pasti Benar}
+\text{1. Dalil Syariat Sahih} &\nRightarrow \text{Metode Teknis Musyrif Pasti Efektif} \\
+\text{2. Definisi Indah di Buku} &\nRightarrow \text{Santri Otomatis Berperilaku Nyata} \\
+\text{3. Rancangan Desain Koheren} &\nRightarrow \text{Hasil Langsung Terbukti di Lapangan} \\
+\text{4. Dua Peristiwa Terjadi Bersamaan} &\nRightarrow \text{Yang Satu Menyebabkan yang Lain} \\
+\text{5. Berhasil di 1 Kamar Teladan} &\nRightarrow \text{Pasti Sukses di Seluruh Asrama} \\
+\text{6. Musyrif Menjalankan SOP 100\%} &\nRightarrow \text{Karakter Santri Sudah Membatin} \\
+\text{7. Niat Pengasuh Ikhlas Mulia} &\nRightarrow \text{Cara yang Dipakai Kebal dari Kesalahan}
 \end{aligned}$$
 
 ---
 
-## Ringkasan Inti
+## 5. Status Validasi
 
-> **Membedakan jenis klaim dan tingkat kepastian ilmiah adalah adab tertinggi para pencari kebenaran. Kita menempatkan dalil syariat pada posisi kehormatan tertinggi sebagai pedoman hidup, sembari bersikap rendah hati dan jujur terhadap keterbatasan metode buatan manusia di lapangan.**
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Dokumen ini mengikat secara hukum bagi seluruh tim litbang kurikulum, penyusun publikasi lembaga, dan dewan pengasuhan TUMBUH v2.0.0.

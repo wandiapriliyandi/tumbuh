@@ -1,14 +1,19 @@
 # Logika Sistem TUMBUH (System Logic)
 
-**Status:** PANDUAN UTAMA KONSEPTUAL — Arsitektur Keterpaduan Seluruh Komponen TUMBUH
+**Status:** PANDUAN UTAMA KONSEPTUAL — Arsitektur Keterpaduan, Keterlacakan, dan Tata Kelola Seluruh Komponen TUMBUH
 
-Folder ini menguraikan bagaimana seluruh bagian, pilar, dan lapisan di dalam ekosistem pendidikan pesantren TUMBUH tersambung secara utuh dan serasi: dari landasan nilai syar'i hingga praktik pengasuhan asrama 24 jam.
+Folder ini menguraikan bagaimana seluruh bagian, pilar, dan lapisan di dalam ekosistem pendidikan pesantren TUMBUH tersambung secara utuh, harmonis, dan teratur: dari landasan nilai syar'i hingga praktik pengasuhan asrama 24 jam.
 
 ---
 
 ## 1. Apa itu Logika Sistem?
 
 Sebuah mobil tidak akan bisa melaju jika roda, mesin, setir, dan pedal rem bekerja sendiri-sendiri tanpa ada sistem transmisi yang menghubungkannya. Demikian pula di pesantren: sehebat apa pun visi pendidikan dan selengkap apa pun sarana asrama, semuanya akan sia-sia jika tidak ada aturan main yang menyatukan alur kerja para pengasuh, guru, dan pengelola kelembagaan.
+
+Sayyidina Ali bin Abi Thalib *karramallahu wajhah* menegaskan:
+
+$$\text{"الحَقُّ بِلَا نِظَامٍ يَغْلِبُهُ البَاطِلُ بِنِظَامٍ"}$$
+*(Kebenaran yang tidak diorganisasi dengan rapi dan bersistem akan dikalahkan oleh kebatilan yang terorganisasi dengan rapi).*
 
 Pertanyaan mendasar yang dijawab dalam folder ini adalah:
 
@@ -24,51 +29,55 @@ Folder ini dirancang berurutan dari alur besar hingga pagar pengaman keilmuannya
 Logika Sistem (System Logic)
 │
 ├── 01_SYSTEM_FLOW.md
-│   └── Alur 10 Langkah: Menyambungkan Pandangan Hidup Islam hingga Perbaikan Sistem
+│   └── Alur 10 Langkah: Menyambungkan Pandangan Hidup Islam hingga Perbaikan Berkelanjutan
 │
 ├── 02_LAYER_DEPENDENCIES.md
-│   └── Saling Ketergantungan: Matriks Pembagian Wewenang & Menghindari Tabrakan Peran
+│   └── Saling Ketergantungan: Matriks Vertikal-Horisontal, Wewenang RACI, & Resolusi Tabrakan
 │
 ├── 03_FEEDBACK_AND_IMPROVEMENT.md
-│   └── Belajar dari Lapangan: Lingkaran Evaluasi Berkala Berbasis Fakta & Musyawarah
+│   └── Belajar dari Lapangan: Multi-Loop Learning, Ritme Evaluasi Berkala, & Triangulasi Bukti
 │
 ├── 04_INFERENCE_BOUNDARIES.md
-│   └── Kehati-hatian Menyimpulkan: Menolak Overclaim & Menjaga Kejujuran Menilai Santri
+│   └── Kehati-hatian Menyimpulkan: 5 Pagar Inferensi, Adab Tabayyun, & Menolak Overclaim
 │
 └── 05-System-Logic-Audit.md
-    └── Evaluasi Kualitas Arsitektur: Menjamin Keandalan Keterpaduan Sistem
+    └── Evaluasi Kualitas Arsitektur: 5 Dimensi Keandalan & Standar Mutu Sistemik
 ```
 
 ---
 
-## 3. Matriks Inti: Memahami 4 Pilar Logika Sistem
+## 3. Matriks Inti: Memahami 5 Pilar Logika Sistem
 
 | Berkas | Fokus Utama Pembahasan | Manfaat Praktis bagi Pengasuh & Guru |
 |---|---|---|
-| **01. System Flow** | *Bagaimana cita-cita terhubung ke asrama?* | Menjamin setiap kegiatan santri (bangun pagi, piket, halaqoh) selaras dengan Profil Lulusan yang dituju. |
-| **02. Layer Dependencies** | *Siapa yang berwenang menentukan apa?* | Mencegah musyrif membuat sanksi sepihak dan mencegah guru menilai akhlak hanya lewat ujian kertas. |
-| **03. Feedback & Improvement** | *Bagaimana asrama memperbaiki diri?* | Lembaga secara berkala mendengarkan fakta lapangan dan memperbaiki jadwal asrama yang kurang pas. |
-| **04. Inference Boundaries** | *Kapan kita tidak boleh sok tahu?* | Menghindarkan pendidik dari su'udzon, tidak memvonis niat santri tanpa tabayyun, dan tidak melebih-lebihkan keberhasilan. |
+| [01_SYSTEM_FLOW.md](01_SYSTEM_FLOW.md) | *Bagaimana cita-cita terhubung ke asrama?* | Menjamin setiap kegiatan santri (bangun pagi, piket, halaqoh) selaras dengan Profil Lulusan yang dituju melalui 10 langkah kanonikal. |
+| [02_LAYER_DEPENDENCIES.md](02_LAYER_DEPENDENCIES.md) | *Siapa yang berwenang menentukan apa?* | Mencegah musyrif membuat sanksi sepihak, membatasi wewenang organisasi santri, dan menyelaraskan triad (Asrama $\leftrightarrow$ Madrasah $\leftrightarrow$ Masjid). |
+| [03_FEEDBACK_AND_IMPROVEMENT.md](03_FEEDBACK_AND_IMPROVEMENT.md) | *Bagaimana asrama belajar dan berbenah?* | Menegakkan musyawarah rutin (harian, pekanan, bulanan, semesteran) berbasis fakta logbook nyata tanpa merusak stabilitas aturan. |
+| [04_INFERENCE_BOUNDARIES.md](04_INFERENCE_BOUNDARIES.md) | *Kapan kita dilarang sok tahu menilai santri?* | Menghindarkan pendidik dari su'udzon, mengunci kewajiban tabayyun, mitigasi bias kognitif, dan menolak klaim keberhasilan berlebihan (*overclaim*). |
+| [05-System-Logic-Audit.md](05-System-Logic-Audit.md) | *Bagaimana menjamin keandalan sistem?* | Memastikan arsitektur bebas dari kontradiksi internal, memiliki keterlacakan hulu-ke-hilir, dan layak diterapkan di lapangan (*field-tested*). |
 
 ---
 
-## 4. Hubungan Logika Sistem dengan Tiga Pilar Model Inti
+## 4. Hubungan Logika Sistem dengan Seluruh Pilar Model Inti
 
-Logika Sistem bertindak sebagai "tali pengikat" bagi tiga komponen substantif dalam Model Inti (*Core Model*):
+Logika Sistem bertindak sebagai **"sistem saraf pengikat" (*integrating nervous system*)** bagi seluruh pilar dalam Model Inti (*Core Model*):
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   ARSITEKTUR MODEL INTI (CORE MODEL)                   │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. EKOLOGI PERTUMBUHAN  (Growth Ecology)   : Di mana santri hidup?     │
-│ 2. MEKANISME PERTUMBUHAN (Growth Mechanism): Bagaimana santri berubah? │
-│ 3. KAPASITAS INTI       (Core Capacities)  : Kemampuan apa yang lahir? │
+│                     EMPAT PILAR SUBSTANTIF PEMBINAAN                   │
+│                                                                        │
+│ 1. PROFIL LULUSAN       (01_GP) : Arah cita-cita (10 Muwashofat)       │
+│ 2. EKOLOGI PERTUMBUHAN  (02_GE) : Lingkungan asrama 24 jam yang aman   │
+│ 3. MEKANISME PERTUMBUHAN(03_GM) : Dinamika riyadhoh & perubahan batin  │
+│ 4. KAPASITAS INTI       (04_CCA): 8 Keterampilan adab fungsional       │
 │                                                                        │
 │                      DIIKAT & DIARAHKAN OLEH:                          │
 │                                                                        │
-│ 4. LOGIKA SISTEM        (System Logic)     : Bagaimana semua terpadu?  │
-│ 5. REGISTRI KONSTRUK    (Construct Reg.)   : Istilah apa yang dipakai? │
-│ 6. REGISTRI KLAIM       (Claim Registry)   : Bukti apa yang dimiliki?  │
+│ 5. LOGIKA SISTEM        (05_SL) : Keterpaduan alur & anti-benturan     │
+│ 6. REGISTRI KONSTRUK    (06_CR) : Pembakuan definisi & istilah resmi   │
+│ 7. REGISTRI KLAIM       (07_CL) : Benteng kejujuran & integritas bukti │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -76,4 +85,4 @@ Logika Sistem bertindak sebagai "tali pengikat" bagi tiga komponen substantif da
 
 ## Ringkasan Inti
 
-> **Logika Sistem memastikan bahwa ekosistem pesantren TUMBUH bergerak sebagai satu kesatuan jama'ah yang rapi. Dengan alur yang jernih, pembagian tugas yang adil, keterbukaan untuk terus berbenah, dan kehati-hatian dalam menilai, pesantren hadir sebagai lingkungan tarbiyah yang amanah, profesional, dan penuh berkah.**
+> **Logika Sistem memastikan bahwa ekosistem pesantren TUMBUH bergerak sebagai satu kesatuan jama'ah yang rapi (*kal bunyanil marshush*). Dengan alur yang jernih, pembagian tugas yang adil, keterbukaan untuk terus berbenah melalui musyawarah, serta kehati-hatian dan ketakwaan dalam menilai santri, pesantren menjelma menjadi taman tarbiyah yang amanah, profesional, dan melimpah berkah.**

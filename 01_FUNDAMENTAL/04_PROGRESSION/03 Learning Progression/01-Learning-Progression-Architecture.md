@@ -1,188 +1,154 @@
-# Learning Progression Architecture
+# Arsitektur Progresi Pembelajaran (Learning Progression Architecture)
 
-**Status:** DESIGNED — v2.0.0  
-**Epistemic status:** conceptual architecture; empirically provisional
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [04_PROGRESSION/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/README.md)  
+**Dokumen Terkait:**  
+- [04-Learning-Experience-and-Practice.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/04-Learning-Experience-and-Practice.md)  
+- [05-Feedback-and-Reflection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/05-Feedback-and-Reflection.md)  
+- [06-Demonstration-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/03%20Learning%20Progression/06-Demonstration-and-Transfer.md)  
+- [02 Capacity Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/02%20Capacity%20Progression/README.md)  
+- [04 Mastery Progression/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/04%20Mastery%20Progression/README.md)
 
-## 1. Purpose
+---
 
-Learning Progression menjelaskan bagaimana proses belajar dapat berkembang dari pengalaman belajar awal menuju kemampuan menggunakan hasil belajar dalam situasi yang relevan.
+> ### Intisari untuk Pendidik & Pengajar Pesantren
+> **Belajar adab bukanlah sekadar mendengarkan ceramah lalu menghafal dalil untuk ujian.**  
+> Di pesantren TUMBUH, belajar adalah **perjalanan transformasi diri yang hidup**:  
+> Dari **Niat & Tujuan yang jelas** $\rightarrow$ merasakan **Pengalaman Belajar langsung** dari keteladanan guru $\rightarrow$ melakukan **Latihan & Pembiasaan (*Riyadhah*)** berulang kali $\rightarrow$ menerima **Nasihat & Koreksi Kasih Sayang (*Feedback*)** $\rightarrow$ merenung dalam **Muhasabah batin** $\rightarrow$ membuktikannya dalam **Amal Nyata di asrama** $\rightarrow$ hingga mampu **Menerapkannya di mana saja (*Transfer*)**, baik di pondok, di rumah bersama orang tua, maupun di tengah masyarakat luas.
 
-Ia berbeda dari **Capacity Progression**. Capacity Progression menelusuri perubahan functioning pada Core Capacity; Learning Progression menelusuri perkembangan proses belajar dan hasil belajar yang ditunjukkan melalui pengalaman, latihan, umpan balik, refleksi, demonstrasi, dan transfer.
+---
 
-Learning Progression juga berbeda dari **Mastery Progression**. Mastery Progression membahas apakah penguasaan sudah relatif stabil, mandiri secara tepat, dapat ditransfer, dan dipertahankan.
+## 1. Hakikat dan Tujuan Arsitektur Pembelajaran
 
-## 2. Design Logic
+Arsitektur Progresi Pembelajaran (*Learning Progression Architecture*) menjelaskan bagaimana dinamika proses belajar berlangsung dalam ekosistem pesantren TUMBUH.
 
-Representasi dasar:
+Arsitektur ini membedakan secara tegas tiga domain yang kerap tertukar:
+1. **Capacity Progression (Daya Kapasitas):** Menjelaskan seberapa kuat kematangan fungsi internal santri (seperti regulasi diri, penalaran kritis, atau kepekaan empati).
+2. **Learning Progression (Proses Belajar):** Menjelaskan bagaimana santri berinteraksi dengan ilmu dan adab baru melalui pengalaman, latihan, umpan balik, dan muhasabah.
+3. **Mastery Progression (Ketuntasan Membatin):** Menjelaskan apakah hasil belajar tersebut telah stabil mendarah daging menjadi watak alami (*malakah*) yang bertahan lama.
 
-```text
-TUJUAN BELAJAR
-      ↓
-LEARNING EXPERIENCE
-      ↓
-PRACTICE
-      ↓
-FEEDBACK
-      ↕
-REFLECTION
-      ↓
-DEMONSTRATION
-      ↓
-TRANSFER
-```
+---
 
-Urutan ini adalah **arsitektur desain**, bukan hukum universal tentang bagaimana manusia belajar. Dalam praktiknya, proses dapat berulang, melompat, kembali ke tahap sebelumnya, atau membutuhkan dukungan yang berbeda sesuai tujuan, usia, konteks, materi, dan karakter peserta didik.
+## 2. Alur Desain Pembelajaran Terpadu (The 7-Step Cycle)
 
-## 3. Komponen
-
-### 3.1 Learning Goal
-
-Tujuan belajar menjelaskan apa yang hendak dipahami, dilakukan, atau ditunjukkan melalui proses belajar.
-
-Tujuan harus cukup jelas untuk menentukan pengalaman belajar dan jenis bukti yang relevan.
-
-Tujuan belajar tidak otomatis sama dengan target Core Capacity atau target Graduate Profile.
-
-### 3.2 Learning Experience
-
-Learning Experience adalah pengalaman yang memberi kesempatan peserta didik berinteraksi dengan pengetahuan, praktik, masalah, orang, lingkungan, atau sumber belajar yang relevan.
-
-Exposure terhadap pengalaman tidak dengan sendirinya membuktikan bahwa learning telah terjadi.
-
-### 3.3 Practice
-
-Practice adalah kesempatan menggunakan, mencoba, mengulang, memperbaiki, atau mengembangkan apa yang dipelajari.
-
-Practice bukan sekadar pengulangan mekanis. Bentuk dan tingkat dukungan perlu sesuai dengan tujuan belajar.
-
-### 3.4 Feedback
-
-Feedback menyediakan informasi yang dapat digunakan untuk memahami kualitas atau arah perbaikan suatu usaha atau hasil.
-
-Feedback tidak selalu menghasilkan perbaikan. Relevansi, kualitas, timing, penerimaan, dan kemampuan peserta didik untuk menggunakannya perlu dipertimbangkan.
-
-### 3.5 Reflection
-
-Reflection membantu peserta didik meninjau pengalaman, proses, kesalahan, strategi, alasan, dan kemungkinan perbaikan.
-
-Reflection bukan bukti otomatis bahwa terjadi perubahan kapasitas atau mastery.
-
-### 3.6 Demonstration
-
-Demonstration adalah bukti bahwa peserta didik dapat menunjukkan hasil belajar dalam tugas atau kondisi yang relevan.
-
-Demonstration merupakan bukti learning pada kondisi tertentu; ia tidak otomatis membuktikan transfer atau perubahan Core Capacity.
-
-### 3.7 Transfer
-
-Transfer menunjukkan penggunaan hasil belajar pada situasi lain yang masih relevan tetapi tidak identik dengan situasi belajar sebelumnya.
-
-Transfer harus ditafsirkan sesuai jenis pembelajaran dan konteks. Tidak semua learning menuntut bentuk transfer yang sama.
-
-## 4. Learning Change
-
-Perubahan dalam learning perlu dibedakan dari perubahan performance sesaat.
+Pembelajaran adab dan ilmu di pesantren digerakkan melalui siklus tujuh langkah:
 
 ```text
-Learning Experience
-       ↓
-Observed Performance
-       ↓
-Repeated / Varied Demonstration
-       ↓
-Evidence of Learning Change
+               ┌─────────────────────────────────────────┐
+               │    1. TUJUAN BELAJAR (Hadaf Ta'allum)   │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │    2. PENGALAMAN BELAJAR (Experience)   │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │       3. LATIHAN NYATA (Riyadhah)       │
+               └────────────────────┬────────────────────┘
+                                    │
+                         ┌──────────┴──────────┐
+                         ↓                     ↓
+               ┌───────────────────┐ ┌───────────────────┐
+               │ 4. NASIHAT GURU   │ │ 5. MUHASABAH      │
+               │    (Feedback)     │◄┼►│    (Reflection) │
+               └───────────────────┘ └───────────────────┘
+                         └──────────┬──────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │    6. UNJUK AMAL NYATA (Demonstration)  │
+               └────────────────────┬────────────────────┘
+                                    │
+                                    ↓
+               ┌─────────────────────────────────────────┐
+               │    7. PENERAPAN LUAS (Transfer & Istiqomah)│
+               └─────────────────────────────────────────┘
 ```
 
-Satu keberhasilan atau kegagalan dalam tugas tertentu tidak cukup untuk menyimpulkan adanya atau tidak adanya learning change.
+> **Catatan Pedagogis:** Alur di atas adalah **peta panduan desain pembelajaran**, bukan urutan kaku yang harus selalu berderap searah. Dalam dinamika asrama 24 jam, santri dapat mengalami siklus berulang (misal: setelah muhasabah, ia kembali berlatih), melompat karena mendapat ilham hikmah (*fath*), atau butuh penyesuaian bimbingan sesuai keunikan fitrahnya.
 
-Bukti perlu disesuaikan dengan tujuan belajar dan mempertimbangkan kondisi tugas, dukungan, variasi konteks, serta kemungkinan alternatif penjelasan.
+---
 
-## 5. Relationship to Core Model
+## 3. Pembedahan 7 Komponen Pembelajaran
 
-Learning Progression berada di bawah logika Core Model dan harus tetap konsisten dengan:
+### 3.1 Tujuan Belajar (*Hadaf al-Ta'allum*)
+- **Maksudnya:** Menetapkan sasaran yang jelas mengenai adab, pemahaman syar'i, atau keterampilan apa yang hendak dicapai.
+- **Kaidah:** Tujuan harus konkret dan bermakna bagi kehidupan santri (misal: bukan sekadar *"menghafal adab makan"*, melainkan *"mampu mempraktikkan makan dengan tenang, tangan kanan, dan tidak mencela makanan di kantin"*).
 
-- **Growth Ecology** — learning berlangsung dalam konteks relasional dan institusional tertentu.
-- **Growth Mechanism** — experience, engagement, practice, feedback, reflection, adaptation, dan capacity change menjadi konteks mekanisme yang lebih luas.
-- **Core Capacity Architecture** — hasil belajar dapat berkontribusi pada functioning tertentu, tetapi learning construct tidak boleh otomatis diperlakukan sebagai Core Capacity.
+### 3.2 Pengalaman Belajar (*Learning Experience*)
+- **Maksudnya:** Momen perjumpaan santri dengan sumber ilmu dan keteladanan hidup.
+- **Wujud di Pesantren:** Pengajian kitab kuning (*halaqoh bandongan/sorogan*), menyaksikan kesabaran ustadz saat menghadapi santri nakal, gotong royong membersihkan selokan asrama (*ro'an*), atau diskusi mendalam di teras masjid.
+- **Pagar Batas:** Sekadar hadir mendengarkan ceramah belum membuktikan bahwa santri telah belajar. Pengalaman adalah gerbang pembuka, bukan garis akhir.
 
-Relasi tersebut adalah relasi arsitektural. Dokumen ini tidak menetapkan hubungan kausal universal.
+### 3.3 Latihan Nyata & Pembiasaan (*Deliberate Practice / Riyadhah*)
+- **Maksudnya:** Kesempatan mempraktikkan apa yang dipelajari secara berulang-ulang hingga menjadi keterampilan yang luwes.
+- **Wujud di Pesantren:** Santri mempraktikkan cara berwudu yang sempurna, melatih intonasi adab saat memanggil teman, atau merapikan loker pakaian setiap pagi.
+- **Pagar Batas:** Latihan bukan sekadar pengulangan mekanis tanpa jiwa. Latihan harus dibimbing niat ikhlas dan kesadaran tujuan.
 
-## 6. Learning Progression vs Capacity Progression vs Mastery
+### 3.4 Umpan Balik Menguatkan (*Feedback / Tawashaw bil Haqq*)
+- **Maksudnya:** Koreksi dan apresiasi yang diberikan secara tepat waktu untuk membantu santri mengetahui apa yang sudah baik dan apa yang perlu disempurnakan.
+- **Wujud di Pesantren:** Musyrif menepuk pundak santri seraya berbisik santun: *"Alhamdulillah bacaan Al-Qur'an Antum sudah lancar dan makhrajnya jelas, tinggal perhatikan mad thabi'i pada ayat ini ya"*.
+- **Pagar Batas:** Umpan balik bukan celaan atau caci maki yang mempermalukan anak di depan kawan-kawannya. Umpan balik adalah cermin kejujuran yang dibalut kasih sayang (*luthf*).
 
-| Aspek | Learning Progression | Capacity Progression | Mastery Progression |
-|---|---|---|---|
-| Fokus | perkembangan proses dan hasil belajar | perubahan functioning pada capacity | penguasaan yang relatif stabil dan dapat digunakan secara tepat |
-| Pertanyaan | Apa yang mulai dipahami/dapat dilakukan melalui learning? | Bagaimana functioning berubah lintas tuntutan/konteks? | Apakah penguasaan sudah cukup stabil, transferable, dan sustained? |
-| Bukti utama | demonstration, learning change, transfer bila relevan | pola functioning lintas waktu/konteks/support | consistency, appropriate independence, transfer, sustained application |
-| Tidak otomatis berarti | capacity change | mastery | universal competence |
+### 3.5 Muhasabah Batiniah (*Reflection / Tazkiyatun Nafs*)
+- **Maksudnya:** Momen perenungan batin santri untuk mengevaluasi niat, proses, kesalahan yang terjadi, dan tekad perbaikan diri.
+- **Wujud di Pesantren:** Waktu hening setelah salat malam (*qiyamul lail*), dialog reflektif santri dengan wali kamar, atau penulisan buku catatan muhasabah sebelum tidur.
+- **Pagar Batas:** Muhasabah bukan sekadar penyesalan emosional sesaat, melainkan tekad sadar untuk memperbaiki strategi amal ke depan.
 
-## 7. Support and Context
+### 3.6 Unjuk Amal Nyata (*Demonstration / 'Amal Zahir*)
+- **Maksudnya:** Bukti konkret bahwa santri mampu menjalankan adab dan pengetahuannya dalam tugas atau rutinitas nyata di pesantren.
+- **Wujud di Pesantren:** Santri mampu menjadi imam salat dengan bacaan tartil, mampu menahan amarah saat diejek teman di lapangan olahraga, atau memimpin piket kebersihan kamar.
+- **Pagar Batas:** Satu kali unjuk kerja yang baik belum tentu membuktikan bahwa adab tersebut sudah membatin; unjuk kerja perlu dikonfirmasi secara konsisten.
 
-Learning progression tidak boleh dipahami sebagai urutan kemampuan yang harus dicapai dengan cara yang sama oleh semua peserta didik.
+### 3.7 Penerapan Meluas Lintas Suasana (*Transfer of Learning*)
+- **Maksudnya:** Kemampuan santri membawa nilai dan keterampilan yang dipelajari ke dalam situasi baru yang asing atau tidak ada pengawasan guru.
+- **Wujud Nyata:** Santri tetap bangun subuh tepat waktu, menjaga pandangan mata dari gawai, dan mencium tangan kedua orang tuanya saat berlibur di rumah.
+- **Kaidah:** Transfer adalah ujian sejati dari keberhasilan proses pembelajaran.
 
-Dukungan dapat berubah sepanjang proses belajar. Berkurangnya dukungan dapat menjadi salah satu bukti perubahan, tetapi **independence bukan tujuan universal untuk semua learning task**.
+---
 
-Konteks juga memengaruhi kesempatan belajar dan cara learning ditunjukkan. Perbedaan konteks tidak boleh langsung ditafsirkan sebagai perbedaan kapasitas atau kualitas pribadi peserta didik.
+## 4. Membedakan "Performa Sesaat" dengan "Perubahan Belajar Hakiki"
 
-## 8. Boundaries
-
-Learning Progression:
-
-- bukan curriculum map otomatis;
-- bukan developmental stage model;
-- bukan urutan usia atau kelas;
-- bukan rubric skor universal;
-- bukan Core Capacity taxonomy;
-- bukan assessment instrument;
-- bukan program atau metode pembelajaran;
-- bukan SOP pelaksanaan pembelajaran;
-- bukan bukti otomatis bahwa suatu intervensi efektif;
-- bukan dasar untuk memberi ranking peserta didik.
-
-Program dan metode pembelajaran berada pada layer implementasi/program yang sesuai.
-
-## 9. Evidence and Inference
-
-Setiap judgment tentang learning progression harus menjaga batas antara:
+Pendidik wajib jeli membedakan antara santri yang hanya berakting baik sesaat dengan santri yang benar-benar mengalami transformasi belajar:
 
 ```text
-Learning Evidence
-      ↓
-Learning Judgment
-      ↓
-Progression Decision
+Pengalaman Belajar ──► Performa Sesaat ──► Latihan Konsisten ──► Perubahan Belajar Hakiki
+ (Baru diajarkan)      (Tertib saat dilihat) (Membiasakan diri)   (Membatin jadi karakter)
 ```
 
-Kekuatan judgment tidak boleh melebihi bukti yang tersedia. Bukti lokal tidak otomatis mendukung klaim universal; demonstration tidak otomatis membuktikan transfer; dan performance tidak otomatis membuktikan capacity change.
+| Dimensi Evaluasi | Performa Sesaat (*Fluctuating Performance*) | Perubahan Belajar Hakiki (*Authentic Learning Change*) |
+| :--- | :--- | :--- |
+| **Ketergantungan** | Tertib hanya ketika ada ustadz di dekatnya atau saat dinilai dalam ujian praktik. | Tetap tertib, sopan, dan menjaga kebersihan saat berada di tempat sepi tanpa pengawas. |
+| **Daya Tahan** | Cepat luntur saat jadwal asrama padat, saat kelelahan, atau saat kawan memancing emosi. | Tetap tenang, stabil, dan berpegang pada adab meskipun dalam kondisi letih atau tertekan. |
+| **Sikap terhadap Kesalahan** | Menyembunyikan kesalahan, membela diri, atau panik takut dihukum. | Menyadari kekeliruan dengan jujur (*muhasabah*), memohon ampun, dan aktif berikhtiar memperbaiki diri. |
 
-Jika bukti belum cukup, keputusan harus mempertahankan ketidakpastian daripada memaksakan level progression.
+---
 
-## 10. Governance Rules
+## 5. Hubungan dengan Ekosistem TUMBUH Lainnya
 
-1. Mulai dari tujuan belajar, bukan dari level atau skor.
-2. Gunakan bukti yang relevan dengan construct dan tujuan belajar.
-3. Jangan memaksakan urutan universal.
-4. Jangan memetakan progression secara otomatis ke usia, kelas, atau J1–J4.
-5. Jangan menyimpulkan learning change dari satu observasi.
-6. Bedakan demonstration dari transfer.
-7. Bedakan learning change dari capacity change dan mastery.
-8. Perlakukan support sebagai bagian dari konteks evidence, bukan otomatis sebagai kekurangan.
-9. Hindari ranking dan label tetap terhadap peserta didik.
-10. Pastikan inference tetap berada dalam scope evidence.
-11. Assessment tidak boleh mengubah definisi construct hanya karena mudah diukur.
-12. Evidence baru dapat mengoreksi detail progression tanpa otomatis mengubah arsitektur; perubahan arsitektur memerlukan alasan substantif dan traceability.
+- **Hubungan dengan Capacity Progression:**  
+  Proses belajar (*Learning*) adalah **latihan angkat beban spiritual-mental** yang secara bertahap memperbesar dan mematangkan daya kapasitas internal santri (*Capacity*).
+- **Hubungan dengan Mastery Progression:**  
+  Belajar adalah **perjalanannya**, sedangkan *Mastery* (*Al-Malakah*) adalah **buah ketuntasan dan kematangan alaminya**.
+- **Hubungan dengan Jenjang J1–J4:**  
+  Di awal proses belajar (tahap latihan awal), santri membutuhkan perancah dukungan tinggi (J1/J2). Setelah mampu berdemonstrasi mandiri dan melakukan transfer, perancah perlahan dilepas menuju kemandirian penuh (J3/J4).
 
-## 11. Open Validation Questions
+---
 
-Arsitektur ini masih memerlukan pengujian lebih lanjut untuk:
+## 6. Pagar Batas Epistemik (Negative Boundaries)
 
-- kecukupan komponen pada berbagai jenis tujuan belajar;
-- cara membedakan learning change dari performance fluctuation;
-- bentuk evidence yang memadai untuk transfer;
-- hubungan learning progression dengan perubahan Core Capacity tanpa construct leakage;
-- pengaruh variasi dukungan dan konteks terhadap interpretation;
-- validitas kriteria progression pada konteks pendidikan yang berbeda;
-- apakah sequence perlu berbeda secara construct-specific;
-- fairness dan accessibility dalam penentuan progression judgment.
+Agar arsitektur pembelajaran ini tidak disalahartikan dalam kurikulum pesantren:
+1. **Bukan Daftar Silabus Jam Belajar Statis:** Dokumen ini mengatur logika pedagogis bagaimana adab bertumbuh, bukan jadwal mata pelajaran jam ke-1 atau ke-2 di madrasah.
+2. **Nilai Rapor Angka Bukan Bukti Tunggal:** Angka 90 pada ujian mata pelajaran Adab & Akhlak tidak membuktikan bahwa santri beradab jika di asrama ia masih gemar mencela kawan. Pembelajaran adab dievaluasi melalui perilaku hidup 24 jam.
+3. **Kesalahan Adalah Bagian Alami dari Belajar:** Santri yang keliru saat berlatih bukan berarti anak gagal. Kesalahan adalah informasi penting untuk membimbing santri bermuhasabah dan memperbaiki diri.
 
-Pertanyaan tersebut adalah agenda validation/research, bukan asumsi yang dianggap sudah terbukti.
+---
+
+## 7. Status Keabsahan Dokumen (Epistemic Status)
+
+- **Status:** *Conceptually Specified; Empirically Provisional.*
+- Konsep ini memadukan tradisi pedagogis pesantren klasik (*ta'lim al-muta'allim, riyadhatun nafs, adab suluk*) dengan teori ilmu kognitif dan pembelajaran terarah modern (*deliberate practice, formative feedback, reflective learning*).
+- Indikator di atas dirancang untuk memandu asatidz dalam mendesain pengalaman asrama dan kelas yang benar-benar membekas di hati santri.

@@ -1,51 +1,116 @@
 # Pengendalian Perubahan Status Klaim (Claim Change Control)
 
-**Status:** TATA KELOLA ARSITEKTUR — Tata Cara Pembaruan Status Ilmiah
-
-Dokumen ini mengatur tata cara dan syarat ketat jika sebuah pernyataan atau klaim ilmiah di dalam sistem TUMBUH ingin dinaikkan, diturunkan, atau diubah status kepastiannya berdasarkan data lapangan terbaru.
-
----
-
-## 1. Mengapa Perubahan Status Klaim Harus Dikendalikan?
-
-Status ilmiah sebuah klaim bukan piagam penghargaan yang bisa dibagikan sembarangan. Jika hari ini pesantren mengumumkan bahwa *"Metode Halaqoh Malam Terbukti Efektif Menghilangkan Stress Santri"*, maka seluruh pengasuh asrama akan mengandalkan metode tersebut. Jika ternyata klaim tersebut dinaikkan statusnya tanpa bukti penelitian yang sah, ribuan santri akan menjadi korban salah asuh.
-
-Pertanyaan mendasar yang dijawab dalam dokumen ini adalah:
-
-> **Kapan sebuah pernyataan boleh dinaikkan status kepastian buktinya, kapan harus diturunkan, dan bagaimana prosedur musyawarah pembuktiannya?**
+**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Epistemik TUMBUH v2.0.0  
+**Kode Konstruk:** CCC-Claim-v2.0.0  
+**Fungsi Dokumen:** Protokol tata kelola musyawarah dan syarat ketat pengubahan, penaikan, atau penurunan status kepastian ilmiah (*epistemic progression*) di dalam Registri Klaim Resmi  
 
 ---
 
-## 2. Kriteria Perubahan Status Klaim
+## 1. Doktrin Kehati-hatian Epistemik (*The Epistemic Humility Rule*)
 
-Status sebuah klaim hanya boleh diubah apabila terjadi salah satu dari empat peristiwa penting berikut:
+Status kepastian ilmiah sebuah pernyataan pembinaan karakter bukanlah piagam penghargaan yang bisa dibagikan sesuka hati, melainkan **derajat kepercayaan metodologis yang terikat pada data bukti nyata**. Jika sebuah metode pembiasaan di asrama diklaim secara tergesa-gesa sebagai *"Terbukti Efektif (Outcome Evaluated)"*, padahal baru diuji coba beberapa pekan, maka:
+- Lembaga menanggung dosa kebohongan intelektual di hadapan Allah SWT;
+- Seluruh musyrif asrama akan menggantungkan harapan pada metode yang belum tentu teruji keandalannya;
+- Ketika metode tersebut gagal di lapangan, para pendidik akan cenderung menyalahkan dan mencap santri sebagai "anak yang tidak bisa dididik", padahal yang cacat adalah metode pengasuhannya.
 
-1. **Adanya Bukti Penelitian Baru yang Sah:** Penelitian lapangan selama minimal satu semester membuktikan bahwa metode pembinaan benar-benar membawa perbaikan perilaku yang stabil.
-2. **Ditemukannya Kesalahan Desain:** Terbukti bahwa metode yang dirancang justru memicu kejenuhan (*burnout*) atau pelanggaran sembunyi-sembunyi di kalangan santri.
-3. **Penyempitan Ruang Lingkup:** Data membuktikan bahwa metode tersebut sangat sukses diterapkan pada santri jenjang SMA, namun gagal total jika diterapkan pada santri SMP kelas 7.
-4. **Penolakan oleh Data Lapangan:** Bukti pengamatan berulang kali menunjukkan bahwa klaim awal sama sekali tidak terbukti dalam kenyataan asrama.
+TUMBUH v2.0.0 menegakkan **Doktrin Kehati-hatian Epistemik (*The Epistemic Humility Rule*)**:
+
+> **"Status kepastian sebuah klaim buatan manusia TIDAK BOLEH dinaikkan kecuali melalui data bukti empiris yang mencukupi, teruji melintasi waktu minimal satu semester penuh, dan disahkan melalui Sidang Pleno Dewan Pengasuhan. Jika terdapat keraguan atau data yang berimbang, status klaim WAJIB dipertahankan pada tingkatan yang lebih rendah (konservatif)."**
 
 ---
 
-## 3. Lembar Berita Acara Perubahan Status Klaim
+## 2. Empat Pemicu Resmi Evaluasi Status Klaim
 
-Setiap pengajuan perubahan status klaim wajib melalui sidang pleno evaluasi dengan mengisi 6 pertanyaan resmi:
+Peninjauan status kepastian sebuah klaim hanya dapat dipicu oleh salah satu dari empat kondisi objektif:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│            BERITA ACARA PERUBAHAN STATUS KLAIM (CHANGE CONTROL)        │
+│             EMPAT PEMICU RESMI PENINJAUAN STATUS KLAIM                 │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. KODE KLAIM APA YANG DIAJUKAN? : Contoh: CM-C003                     │
-│ 2. STATUS LAMA ──► STATUS BARU   : Contoh: PROVISIONAL ──► SUPPORTED   │
-│ 3. DATA BUKTI APA YANG DIMILIKI? : Laporan penelitian, logbook asrama  │
-│ 4. BATASAN APA YANG DITETAPKAN?  : Hanya berlaku untuk santri usia 15+ │
-│ 5. RISIKO APA YANG PERLU DIJAGA? : Pantau dampak pada jadwal tidur     │
-│ 6. SIAPA YANG BERTANGGUNG JAWAB? : Tim Litbang & Dewan Pengasuhan      │
+│ 1. ADANYA BUKTI EMPIRIS BARU YANG KOKOH (New Evidence Dossier)         │
+│    Data catatan logbook minimal 1 tahun ajaran membuktikan bahwa       │
+│    metode pembinaan menghasilkan perubahan adab yang stabil.           │
+│                                                                        │
+│ 2. DETEKSI ANOMALI ATAU EFEK SAMPING (Detection of Negative Outcomes)  │
+│    Ditemukan bukti bahwa metode tertentu justru memicu kejenuhan       │
+│    mental (burnout) atau memicu kepatuhan semu karena takut.           │
+│                                                                        │
+│ 3. PENYEMPITAN LINGKUP KEBERLAKUAN (Scope Recalibration)               │
+│    Data membuktikan bahwa metode sangat sukses pada santri jenjang J3, │
+│    namun tidak cocok dan menimbulkan trauma jika dipaksakan di J1.     │
+│                                                                        │
+│ 4. PENOLAKAN OLEH FAKTA LAPANGAN (Empirical Refutation)                │
+│    Pengamatan berulang membuktikan bahwa asumsi awal tidak terbukti;   │
+│    status klaim wajib diturunkan menjadi "Ditolak / Not Supported".    │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Ringkasan Inti
+## 3. Protokol 5 Langkah Sidang Pleno Pengubahan Status Klaim
 
-> **Pengendalian Perubahan Status Klaim menjamin bahwa setiap janji dan pernyataan pesantren selalu berpijak di atas kenyataan. Lembaga tidak silau oleh klaim keberhasilan semu, dan tidak ragu menurunkan status metode yang tidak efektif demi kemaslahatan hakiki para santri di hadapan Allah SWT.**
+Proses penaikan atau penurunan status klaim wajib melalui lima tahapan berurutan:
+
+```text
+       LANGKAH 1: PENGAJUAN RESMI BERITA ACARA (Change Request)
+  (Tim Litbang atau Divisi Pengasuhan mengajukan Berita Acara Perubahan)
+                           │
+                           ▼
+       LANGKAH 2: AUDIT BERKAS DATA BUKTI (Evidence Dossier Audit)
+  (Tim penjamin mutu memeriksa keabsahan logbook, metodologi, & sampel data)
+                           │
+                           ▼
+       LANGKAH 3: SIDANG PLENO DEWAN PENGASUHAN (Deliberation Council)
+  (Musyawarah pleno menguji apakah bukti telah memenuhi syarat tangga klaim)
+                           │
+                           ▼
+       LANGKAH 4: AUDIT DAMPAK KEBIJAKAN & KOMUNIKASI (Policy Audit)
+  (Meninjau dampak perubahan terhadap publikasi buku panduan & modul)
+                           │
+                           ▼
+       LANGKAH 5: RATIFIKASI RESMI & PEMBARUAN REGISTRI (Ratification)
+  (Penerbitan surat ketetapan resmi dan pembaruan catatan registri klaim)
+```
+
+---
+
+## 4. Format Formulir Berita Acara Perubahan Status Klaim
+
+Setiap usulan perubahan status wajib didokumentasikan dalam format baku berikut:
+
+```markdown
+### FORMULIR BERITA ACARA PERUBAHAN STATUS KLAIM (CLAIM CHANGE RECORD)
+
+- **Nomor Registrasi Usulan:** [CCR-YYYY-MM-XXXX]
+- **Tanggal Pengajuan:** [Hari, Tanggal Hijriah & Masehi]
+- **Klaim Target:** [ID Klaim & Bunyi Rumusan Proposisi]
+- **Status Saat Ini:** [Contoh: PILOT TESTED]
+- **Usulan Status Baru:** [Contoh: EMPIRICALLY SUPPORTED]
+
+#### 1. Ringkasan Bukti Baru yang Dihimpun
+[Jelaskan data logbook, jumlah santri yang diamati, durasi waktu pengamatan, dan lokasi asrama tempat pengujian dilakukan]
+
+#### 2. Uji Kelayakan Bukti (5-Axis Fit Analysis)
+- Kesesuaian Populasi: [Jelaskan keterwakilan sampel santri]
+- Kesesuaian Konteks: [Jelaskan situasi ekologi 24 jam yang diamati]
+- Kesesuaian Waktu: [Jelaskan rentang waktu pengamatan]
+- Mutu Alat Ukur: [Jelaskan objektivitas instrumen yang dipakai]
+- Penjelasan Alternatif: [Jelaskan faktor perancu yang telah dikendalikan]
+
+#### 3. Rekalibrasi Batas Inferensi dan Keterbatasan
+[Tuliskan batasan kesimpulan baru apa yang boleh ditarik, dan hal apa saja yang secara jujur diakui belum terbukti]
+
+#### 4. Keputusan Sidang Pleno Dewan Pengasuhan
+[ ] STATUS DINAIKKAN (Bukti Memenuhi Syarat Tangga Ilmiah)
+[ ] STATUS DIPERTAHANKAN (Bukti Belum Cukup Kuat / Masih Perlu Waktu)
+[ ] STATUS DITURUNKAN / DITOLAK (Ditemukan Anomali Data Lapangan)
+
+- **Tanda Tangan Pimpinan Sidang Pleno:** ______________________
+```
+
+---
+
+## 5. Status Validasi
+
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Dokumen ini mengikat secara hukum bagi seluruh pimpinan pesantren, asatidz, peneliti litbang, dan tim penjaminan mutu TUMBUH v2.0.0.
