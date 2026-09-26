@@ -1,16 +1,5 @@
 # Audit Arsitektur Pengambilan Keputusan Intervensi (Intervention Decision Audit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Architectural Review; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [03-Decision-Inputs-and-Authority.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/03-Decision-Inputs-and-Authority.md)  
-- [04-Decision-Options-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/04-Decision-Options-and-Proportionality.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengaudit arsitektur keputusan adalah ikhtiar untuk menjamin bahwa tidak ada santri yang menjadi korban vonis zalim."**  
 > Keputusan tarbiyah menyangkut kehormatan, ketenangan jiwa, dan masa depan anak asuh. Bila mekanisme pengambilan keputusan di pondok cacat—misalnya hanya mengandalkan amarah sepihak musyrif malam tanpa tabayyun—maka lembaga pendidikan akan berubah menjadi lingkungan yang dipenuhi ketakutan dan dendam terselubung.  
 > Dokumen ini menyajikan **Audit Arsitektur Pengambilan Keputusan Intervensi TUMBUH v2.0.0**: memeriksa secara menyeluruh kepatuhan 18 tolok ukur etis dan metodologis keputusan, mengunci prinsip reversibilitas (keberanian mencabut sanksi keliru), serta memetakan modus-modus kegagalan pengambilan keputusan yang wajib dicegah di pesantren.

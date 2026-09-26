@@ -1,16 +1,5 @@
 # Peninjauan Berkala dan Pembaruan Menu Pemetaan Intervensi (Mapping Review & Revision)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [02-Intervention-Mapping-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/02-Intervention-Mapping-Audit.md)  
-- [08-Mapping-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/08-Mapping-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Zaman berganti, tantangan jiwa santri berkembang; metode pembinaan yang usang dan terbukti mandek wajib dievaluasi dan diperbarui."**  
 > Banyak pesantren mengalami kebuntuan pembinaan karena mempertahankan sanksi-sanksi warisan masa lalu yang sudah tidak relevan dengan profil psikologis anak zaman sekarang. Misalnya, terus memaksakan sanksi fisik yang melelahkan bagi santri yang kecanduan game daring, padahal tindakan tersebut terbukti gagal total dan justru memicu pemberontakan. Jika menu intervensi tidak pernah dievaluasi secara ilmiah, pesantren akan tertinggal dalam merawat fitrah generasi masa kini.  
 > Dokumen ini memaparkan **Siklus Peninjauan Berkala (*Mapping Review*)** dan **Protokol Pembaruan Menu Intervensi (*Revision Protocol*)**: bagaimana mengevaluasi tingkat keberhasilan resep-resep bimbingan di setiap akhir semester, membuang metode yang tidak efektif, serta melembagakan inovasi tarbiyah baru para asatidz ke dalam katalog resmi pondok melalui proses pengujian yang terukur.

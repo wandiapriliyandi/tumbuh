@@ -1,17 +1,5 @@
 # Keterlacakan dan Tata Kelola Apresiasi (Recognition Traceability and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01-Reinforcement-Recognition-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/01-Reinforcement-Recognition-Architecture.md)  
-- [05-Recognition-Fairness-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/05-Recognition-Fairness-and-Access.md)  
-- [07-Recognition-Review-and-Adaptation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/07-Recognition-Review-and-Adaptation.md)  
-- [08 Assessment Quality / 04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Catatlah kebaikan santri agar engkau tidak melupakan perjuangan mereka; simpanlah dalam amanah agar catatan itu tidak menjadi berhala riya'."**  
 > Tata kelola apresiasi yang rapi menjaga agar pemberian penghargaan tidak didasarkan pada selera pribadi musyrif semata. Setiap ucapan terima kasih dan piagam pengakuan yang dikeluarkan lembaga memiliki rekam jejak yang transparan, adil, dapat diverifikasi, dan senantiasa menghormati hak privasi serta kerendahan hati santri.
 

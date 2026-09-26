@@ -1,16 +1,5 @@
 # Audit Arsitektur Prinsip dan Etika Intervensi (Intervention Principles Audit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Architectural Review; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [03-Need-Responsiveness-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/03-Need-Responsiveness-and-Proportionality.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04-Dignity-Agency-and-Safeguarding.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Sebuah sistem pembinaan harus diaudit secara berkala agar tidak tergelincir menjadi instrumen kekuasaan yang menindas."**  
 > Di banyak lembaga pendidikan berasrama, niat baik untuk mendisiplinkan santri sering kali secara perlahan berubah menjadi budaya hukuman yang keras, tidak proporsional, dan merendahkan martabat anak asuh.  
 > Dokumen ini memaparkan **Audit Arsitektur Prinsip dan Etika Intervensi TUMBUH v2.0.0**: memeriksa secara ketat apakah rancangan intervensi telah memenuhi 17 tolok ukur etis dan metodologis, mengidentifikasi titik-titik rawan kegagalan lapangan (*failure modes*), serta mengunci prinsip-prinsip dasar agar tidak dapat diubah seenaknya menjadi pembenaran sanksi yang melanggar nilai tarbiyah Islam.

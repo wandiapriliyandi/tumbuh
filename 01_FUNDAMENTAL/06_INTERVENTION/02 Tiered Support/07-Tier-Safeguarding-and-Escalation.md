@@ -1,16 +1,5 @@
 # Pengamanan Tingkat Dukungan dan Protokol Eskalasi Kasus Khusus (Tier Safeguarding & Escalation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [08-Tier-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/08-Tier-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Keselamatan jiwa, raga, dan kehormatan santri berada di atas seluruh program dan jadwal pesantren."**  
 > Ketika santri berada di tingkat intervensi intensif (Tier 3), kerentanan mereka berlipat ganda: mereka bisa jadi korban perundungan yang trauma, pelaku kekerasan yang butuh disadarkan, atau anak yang sedang mengalami depresi berat hingga berniat menyakiti diri sendiri. Dalam situasi krisis seperti ini, asatidz dilarang keras mencoba menyelesaikan masalah sendirian secara amatir atau diam-diam menutupi kasus demi menjaga gengsi lembaga.  
 > Dokumen ini menetapkan **Standar Pengamanan Tingkat Dukungan (*Tier Safeguarding*)** dan **Protokol Eskalasi Kasus Khusus (*Escalation Protocol*)**: memetakan batas kewenangan musyrif, kriteria kapan suatu kasus wajib dinaikkan ke tingkat pimpinan pondok atau tenaga ahli profesional luar, serta tata cara penanganan darurat yang cepat, aman, dan taat hukum.

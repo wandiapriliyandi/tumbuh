@@ -1,16 +1,5 @@
 # Intensitas Bantuan dan Kesesuaian Kebutuhan Santri (Support Intensity & Fit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [03-Tier-Logic-and-Entry.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/03-Tier-Logic-and-Entry.md)  
-- [06-Tier-Equity-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/06-Tier-Equity-and-Access.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Kunci kesembuhan bukan pada seberapa pahit dan seberapa banyak obat yang diminum, melainkan pada ketepatan diagnosis dan kesesuaian resepnya."**  
 > Dalam membimbing santri yang bermasalah, asatidz sering kali mengira bahwa semakin lama waktu bimbingan dan semakin keras sanksi yang dijatuhkan (intensitas tinggi), maka santri akan semakin cepat sadar. Kenyataannya, jika seorang anak melanggar aturan karena merasa diintimidasi oleh teman sekamarnya, menambah hukuman membersihkan masjid selama 3 jam setiap hari tidak akan pernah menyelesaikan masalahnya.  
 > Dokumen ini membedah hubungan antara **Intensitas Bantuan (*Support Intensity*)** dan **Kesesuaian Kebutuhan (*Support Fit*)**: bagaimana memastikan bentuk intervensi benar-benar menyentuh akar masalah psikologis santri, mencegah timbulnya ketergantungan bantuan (*support dependency*), serta menjaga agar bantuan yang diberikan memerdekakan fitrah anak, bukan memanjakannya.

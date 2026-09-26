@@ -1,17 +1,5 @@
 # Antarmuka Progresi dan Ketuntasan Perkembangan (Progression and Mastery Interface)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 06 Developmental Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Developmental-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/01-Developmental-Support-Architecture.md)  
-- [05-Support-Autonomy-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/05-Support-Autonomy-and-Transfer.md)  
-- [01 Architecture / 01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)  
-- [04_PROGRESSION Framework](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tumbuh bukanlah sekadar deretan checklist yang dicentang terburu-buru, melainkan pematangan akar adab yang meresap ke dalam sanubari."**  
 > Ketika seorang santri berhasil merapikan tempat tidurnya selama tiga hari berturut-turut setelah dilatih musyrif, itu adalah *kemajuan perilaku*, namun belum tentu merupakan *ketuntasan karakter (mastery)*. Jangan tergesa-gesa meluluskan santri ke jenjang kemandirian berikutnya hanya karena ia patuh saat didampingi. Progresi sejati memerlukan pembuktian konsistensi, kemandirian saat tanpa perancah, dan penghayatan nilai spiritual yang autentik.
 

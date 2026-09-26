@@ -1,16 +1,5 @@
 # Apresiasi dan Kedaulatan Inisiatif Santri (Recognition and Agency)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01-Reinforcement-Recognition-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/01-Reinforcement-Recognition-Architecture.md)  
-- [04-Reinforcement-and-Learning.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/04-Reinforcement-and-Learning.md)  
-- [06 Developmental Support / 05-Support-Autonomy-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/05-Support-Autonomy-and-Transfer.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Puncak tarbiyah adalah ketika santri berbuat adab bukan karena mencari muka di depan musyrif, melainkan karena jiwanya merasa damai saat tunduk kepada Rabb-nya."**  
 > Apresiasi yang sehat membangkitkan kedaulatan inisiatif (*agency*) di dalam dada santri. Sebaliknya, apresiasi yang manipulatif akan melahirkan generasi perindu validasi manusia (*people-pleaser*) yang rapuh—mereka bersemangat hanya saat ada kamera atau tatapan kagum orang lain, lalu layu tak berdaya saat sendirian dalam kesunyian malam.
 

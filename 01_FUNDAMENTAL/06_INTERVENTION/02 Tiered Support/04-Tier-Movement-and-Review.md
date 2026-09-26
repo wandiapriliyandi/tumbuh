@@ -1,16 +1,5 @@
 # Dinamika Pergerakan Tingkat Dukungan dan Siklus Peninjauan Berkala (Tier Movement & Review)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [03-Tier-Logic-and-Entry.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/03-Tier-Logic-and-Entry.md)  
-- [05-Support-Intensity-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Support-Intensity-and-Fit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tingkat dukungan bukanlah sangkar besi tempat santri dikurung selamanya, melainkan tangga berjalan yang selalu siap menyesuaikan diri dengan irama langkah anak."**  
 > Banyak kegagalan pembinaan di asrama bersumber dari dua ekstrem: pertama, membiarkan santri terjebak di tingkat intervensi intensif (Tier 3) berbulan-bulan tanpa pernah dievaluasi apakah ia sudah pulih; kedua, langsung mencabut seluruh bantuan secara mendadak begitu santri berbuat baik selama dua hari, sehingga anak kebingungan dan akhirnya kambuh kembali.  
 > Dokumen ini memaparkan **Dinamika Pergerakan Tingkat Dukungan (*Tier Movement*)** dan **Siklus Peninjauan Berkala (*Review Rhythm*)**: bagaimana menaikkan tingkat bantuan secara sigap saat santri menghadapi krisis (*stepping up*), menurunkan tingkat bantuan secara bertahap saat kemandirian santri mulai mekar (*stepping down*), serta menyikapi kekhilafan berulang tanpa putus asa.

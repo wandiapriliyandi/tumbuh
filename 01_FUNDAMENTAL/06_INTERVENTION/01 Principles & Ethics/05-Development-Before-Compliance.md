@@ -1,17 +1,5 @@
 # Pertumbuhan Karakter Melampaui Kepatuhan Semu (Development Before Compliance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [03-Need-Responsiveness-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/03-Need-Responsiveness-and-Proportionality.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [01-Progression-Architecture-and-Principles.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/04_PROGRESSION/01-Progression-Architecture-and-Principles.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Kepatuhan lahiriah mudah dipaksakan dengan rasa takut, namun kesadaran beradab hanya bisa ditumbuhkan dengan keteladanan dan pemaknaan batin."**  
 > Banyak pesantren terjebak dalam ilusi kedisiplinan semu: santri tampak sangat tertib, langsung berdiri tegak saat melihat musyrif berjalan di lorong, dan buru-buru membuka mushaf saat bel berbunyi. Namun, begitu santri liburan pulang ke rumah atau saat pengawas tidak ada di kamar, mereka langsung melanggar aturan dan bermalas-malasan. Fenomena ini membuktikan bahwa anak tidak bertumbuh karakternya; mereka hanya belajar cara berpura-pura patuh agar tidak terkena hukuman.  
 > Dokumen ini menegaskan prinsip fundamental tarbiyah: **Pertumbuhan Jiwa Melampaui Kepatuhan Lahiriah (*Development Before Compliance*)**: bagaimana mengarahkan setiap bentuk intervensi pengasuhan agar tidak berhenti pada ketertiban formalitas sesaat, melainkan berbuah menjadi transformasi fitrah yang mandiri, jujur, dan berakar pada muraqabah kepada Allah SWT.

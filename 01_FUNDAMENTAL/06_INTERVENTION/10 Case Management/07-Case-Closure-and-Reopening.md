@@ -1,16 +1,5 @@
 # Penutupan dan Pembukaan Kembali Kasus (Case Closure and Reopening)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [06-Case-Monitoring-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/06-Case-Monitoring-and-Review.md)  
-- [08-Case-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/08-Case-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Menutup kasus adalah merayakan kembalinya kemandirian anak; membuka kembali kasus adalah kesigapan kasih sayang tanpa rasa gengsi."**  
 > Manajemen kasus yang sehat tahu kapan harus berakhir. Jika santri sudah mampu tertawa lepas, menjaga shalatnya dengan tertib, dan rukun bersama teman sekamarnya, maka tim kasus harus membubarkan diri secara resmi dan mengembalikan santri pada pengasuhan wajar. Jangan memelihara kasus hanya demi mempertahankan proyek bimbingan; namun jika suatu hari badai hidup kembali menerpa santri, jangan ragu untuk membuka kembali pintu pendampingan tanpa memandangnya sebagai sebuah kegagalan.
 

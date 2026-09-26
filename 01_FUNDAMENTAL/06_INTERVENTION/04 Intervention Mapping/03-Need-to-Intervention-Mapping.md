@@ -1,16 +1,5 @@
 # Pemetaan Kebutuhan Adab ke Pilihan Intervensi (Need-to-Intervention Mapping)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [04-Intervention-Target-and-Mechanism.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/04-Intervention-Target-and-Mechanism.md)  
-- [05-Context-and-Adaptation-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/05-Context-and-Adaptation-Mapping.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Sebelum memberikan obat pembinaan, kenali terlebih dahulu apakah santri 'belum mampu' atau 'enggan mau'."**  
 > Banyak kegagalan penanganan disiplin di pesantren berakar dari kekeliruan membedakan antara santri yang melanggar karena **belum menguasai keterampilannya (*Skill Deficit / Can't Do*)** dengan santri yang melanggar karena **kehilangan motivasi dan pemaknaan batin (*Performance Deficit / Won't Do*)**. Jika santri belum bisa merapikan kasur karena tidak pernah diajari di rumahnya lalu langsung dimarahi dan dihukum, anak akan merasa terzalimi.  
 > Dokumen ini menjabarkan **Matriks Pemetaan Kebutuhan Adab ke Opsi Intervensi (*Need-to-Intervention Mapping*)**: bagaimana mendiagnosa akar kebutuhan perilaku santri secara tepat pada empat domain utama adab pesantren (ibadah mahdhah, kemandirian fisik asrama, ukhuwah sosial, dan adab belajar), serta memilihkan bentuk bimbingan yang paling selaras dengan fitrah anak asuh.

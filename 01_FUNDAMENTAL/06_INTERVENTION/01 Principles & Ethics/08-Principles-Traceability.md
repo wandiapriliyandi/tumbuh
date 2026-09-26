@@ -1,16 +1,5 @@
 # Keterlacakan Keputusan dan Akuntabilitas Intervensi (Principles Traceability)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [07-Data-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/07-Data-Privacy-and-Governance.md)  
-- [08-Assessment-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/08-Assessment-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Setiap keputusan tarbiyah yang diambil harus dapat dipertanggungjawabkan di hadapan manusia dan di hadapan mahkamah Allah SWT."**  
 > Di banyak pondok pesantren, ketika orang tua santri bertanya: *"Mengapa anak saya diskors dua pekan?"* atau *"Mengapa anak saya belum boleh naik jenjang kemandirian?"*, pihak pengasuhan sering kali kesulitan memberikan jawaban terperinci selain ucapan: *"Anaknya memang nakal, Ustadz"*. Jawaban seperti ini menunjukkan ketiadaan akuntabilitas dan lemahnya dokumentasi pembinaan.  
 > Dokumen ini menetapkan standar **Keterlacakan Keputusan Intervensi (*Intervention Traceability*)**: bagaimana memastikan bahwa setiap tindakan bimbingan, teguran, sanksi logis, maupun pemulihan adab memiliki rekam jejak yang utuh, mulai dari bukti fakta awal, alasan pemilihan tindakan, hingga evaluasi hasilnya di lapangan.

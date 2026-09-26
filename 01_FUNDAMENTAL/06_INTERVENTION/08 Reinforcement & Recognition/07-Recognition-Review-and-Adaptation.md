@@ -1,17 +1,5 @@
 # Peninjauan dan Adaptasi Apresiasi (Recognition Review and Adaptation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01-Reinforcement-Recognition-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/01-Reinforcement-Recognition-Architecture.md)  
-- [04-Reinforcement-and-Learning.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/04-Reinforcement-and-Learning.md)  
-- [06-Recognition-and-Agency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/06-Recognition-and-Agency.md)  
-- [06 Monitoring / 01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tinjau kembali caramu memberi hadiah; apakah itu mendekatkan santri kepada Allah atau justru menjadikannya hamba sanjungan manusia."**  
 > Sebuah program apresiasi yang sukses di bulan pertama bisa saja menjadi racun di bulan ketiga jika santri mulai menuntut imbalan atas setiap kebaikan kecil yang ia lakukan. Musyrif dan dewan asatidz wajib melakukan evaluasi berkala: apakah anak-anak semakin ikhlas dan dewasa, ataukah mulai muncul persaingan tidak sehat di antara mereka? Pendidik sejati berani menghentikan sistem penghargaan bila tanda-tanda ketergantungan mulai terlihat.
 

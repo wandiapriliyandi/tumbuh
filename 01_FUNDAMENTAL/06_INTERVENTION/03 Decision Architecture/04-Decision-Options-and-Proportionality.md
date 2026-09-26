@@ -1,16 +1,5 @@
 # Pilihan Opsi Intervensi dan Proporsionalitas Tindakan (Decision Options & Proportionality)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [03-Need-Responsiveness-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/03-Need-Responsiveness-and-Proportionality.md)  
-- [05-Decision-Uncertainty-and-Reversibility.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/05-Decision-Uncertainty-and-Reversibility.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pilihan intervensi bukanlah hitam-putih antara menghukum keras atau membiarkan santri berbuat semaunya."**  
 > Banyak pembina asrama merasa buntu ketika menghadapi pelanggaran santri: jika santri tidak dihukum fisik, mereka khawatir santri akan meremehkan aturan; namun jika dihukum keras, santri menjadi dendam dan menjauh. Kebuntuan ini terjadi karena pembina mengira pilihan tindakan hanya ada dua: *hukum cambuk* atau *biarkan saja*.  
 > Dokumen ini memaparkan **Spektrum Luas Pilihan Opsi Intervensi (*Decision Options*)** dan **Kaidah Proporsionalitas 3R (Related, Respectful, Realistic)**: bagaimana memperkaya instrumen kepengasuhan dengan konsekuensi logis yang bermakna, memperbaiki lingkungan, memberikan bimbingan keterampilan adab, serta memilih tingkat tindakan yang paling sedikit membatasi santri namun paling efektif menumbuhkan fitrah tanggung jawab mereka.

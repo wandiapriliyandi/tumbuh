@@ -1,7 +1,5 @@
 # Practice, Feedback, and Reflection
 
-**Status:** DESIGNED — v2.0.0 / Developmental Support
-
 Developmental support menggunakan pengalaman yang relevan, kesempatan practice, feedback, dan reflection sebagai bagian dari proses growth.
 
 ```text

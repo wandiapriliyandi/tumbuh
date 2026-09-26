@@ -1,17 +1,5 @@
 # Keterlacakan dan Tata Kelola Manajemen Kasus (Case Traceability and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [04-Case-Planning-and-Coordination.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)  
-- [07-Case-Closure-and-Reopening.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/07-Case-Closure-and-Reopening.md)  
-- [05 Multi-Source Assessment / 04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Dokumentasi kasus yang rapi adalah benteng keadilan; melindungi santri dari fitnah, melindungi musyrif dari tuduhan, dan menjaga muruah pesantren di hadapan hukum dan syariat."**  
 > Manajemen kasus tanpa pencatatan yang tertib akan melahirkan kekacauan: keputusan penting hilang dari ingatan, tugas saling dilempar antar-ustadz, dan saat orang tua menanyakan perkembangan anaknya, lembaga tidak memiliki pegangan yang akurat. Format rekam jejak kasus (*traceability record*) hadir untuk memastikan bahwa setiap keringat perjuangan para pendidik dalam menuntun santri terdokumentasikan secara rapi, sah, dan amanah.
 

@@ -1,16 +1,5 @@
 # Siklus Peninjauan Keputusan dan Protokol Eskalasi Bertahap (Decision Review & Escalation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)  
-- [07-Tier-Safeguarding-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/07-Tier-Safeguarding-and-Escalation.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Sebuah keputusan yang tidak pernah ditinjau ulang akan berubah menjadi hukuman mati perdata bagi santri."**  
 > Salah satu tragedi pembinaan yang sering tidak disadari adalah ketika seorang santri diputuskan masuk ke bimbingan khusus atau dicabut hak pesiarnya, namun para asatidz lupa menetapkan kapan keputusan itu harus dievaluasi. Akibatnya, santri tersebut menjalani masa sanksi berbulan-bulan tanpa kejelasan status, merasa diabaikan, dan akhirnya kehilangan semangat belajar.  
 > Dokumen ini memaparkan **Siklus Peninjauan Keputusan (*Decision Review*)** dan **Protokol Eskalasi Bertahap (*Graduated Escalation*)**: menetapkan kewajiban adanya tanggal evaluasi formal pada setiap keputusan intervensi, memetakan empat hasil keputusan peninjauan (lanjutkan, sesuaikan, selesaikan, atau eskalasikan), serta mengatur tata cara eskalasi kasus darurat ke jenjang otoritas pondok yang lebih tinggi secara tertib.

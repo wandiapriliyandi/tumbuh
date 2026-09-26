@@ -1,17 +1,5 @@
 # Pemantauan dan Asesmen Ulang Transisi (Monitoring and Reassessment)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [04-Transition-to-Reintegration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/04-Transition-to-Reintegration.md)  
-- [07-Relapse-Reversal-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/07-Relapse-Reversal-and-Review.md)  
-- [06 Monitoring / 01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Memantau santri yang baru pulih ibarat ibu yang memperhatikan anaknya belajar berjalan; selalu ada di dekatnya untuk menopang, bukan berdiri jauh dengan tongkat untuk memukul saat ia tersandung."**  
 > Pemantauan pasca-reintegrasi adalah kehadiran yang menenteramkan jiwa. Musyrif mengamati bukan untuk mencari-cari kesalahan santri atau membuktikan keraguan masa lalunya, melainkan untuk memastikan bahwa anak kita merasa aman, memiliki kawan bicara, dan mampu menyesuaikan diri dengan ritme pesantren. Ketika data menunjukkan adanya kesulitan baru, kita tidak menghakiminya, melainkan duduk bersama untuk melakukan penyesuaian bimbingan (*reassessment*).
 

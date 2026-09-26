@@ -1,17 +1,5 @@
 # Keterlacakan dan Dokumentasi Dukungan Perkembangan (Developmental Support Traceability)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 06 Developmental Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Developmental-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/01-Developmental-Support-Architecture.md)  
-- [03-Developmental-Goal-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/03-Developmental-Goal-and-Support.md)  
-- [07-Response-Review-and-Adaptation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/07-Response-Review-and-Adaptation.md)  
-- [08 Assessment Quality / 04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Apa yang dicatat dengan rapi dan niat ikhlas akan menjadi lentera pembimbing; apa yang dibiarkan berserakan dalam ingatan akan pudar ditelan prasangka."**  
 > Keterlacakan (*traceability*) bukan beban birokrasi yang melelahkan musyrif, melainkan ikhtiar profesional untuk menjaga hak santri agar tidak dinilai secara subjektif. Ketika musyrif mencatat apa kesulitan santri, bantuan apa yang telah dicoba, dan bagaimana respons santri dari pekan ke pekan, pesantren memiliki rekam jejak yang adil, penuh kasih sayang, dan dapat dipertanggungjawabkan di hadapan orang tua maupun di hadapan Allah SWT.
 

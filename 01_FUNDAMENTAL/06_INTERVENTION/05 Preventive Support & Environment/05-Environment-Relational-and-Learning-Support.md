@@ -1,7 +1,5 @@
 # Environment, Relational, and Learning Support
 
-**Status:** DESIGNED — v2.0.0 / Preventive Support & Environment
-
 Preventive support dapat memperbaiki kondisi yang memungkinkan functioning berkembang.
 
 Area dapat mencakup:

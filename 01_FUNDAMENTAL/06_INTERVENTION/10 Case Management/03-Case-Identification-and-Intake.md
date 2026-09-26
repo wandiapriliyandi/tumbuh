@@ -1,16 +1,5 @@
 # Identifikasi Kasus dan Penerimaan Awal (Case Identification and Intake)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [04-Case-Planning-and-Coordination.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)  
-- [05-Roles-Communication-and-Consent.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/05-Roles-Communication-and-Consent.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pintu pertolongan harus terbuka lebar bagi santri yang membutuhkan, namun pintu kepo dan penyelidikan liar harus dikunci rapat dengan amanah."**  
 > Proses identifikasi dan penerimaan awal (*intake*) adalah gerbang pertama manajemen kasus. Tujuannya adalah menyaring sinyal kekhawatiran dari musyrif atau guru kelas, memisahkan fakta riil dari asumsi berlebihan, dan menentukan apakah santri benar-benar membutuhkan tim koordinasi khusus. Kita hanya mencatat apa yang relevan untuk menolong anak, tanpa mengorek-orek masa lalu keluarganya yang tidak ada kaitannya dengan pembinaan.
 

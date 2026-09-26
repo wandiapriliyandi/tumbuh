@@ -1,16 +1,5 @@
 # Transisi Menuju Reintegrasi (Transition to Reintegration)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [03-Recovery-Goal-and-Readiness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/03-Recovery-Goal-and-Readiness.md)  
-- [05-Support-Continuity-and-Context.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/05-Support-Continuity-and-Context.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pintu asrama yang terbuka lebar tidak ada artinya jika hati penghuninya terkunci rapat dari memaafkan saudaramu yang kembali."**  
 > Mengembalikan santri ke dalam rutinitas pesantren (*re-entry*) adalah fase yang paling kritis. Kesalahan terbesar musyrif adalah menganggap tugas pendampingan telah selesai saat koper santri diletakkan di kamar. Hari-hari pertama kepulangannya membutuhkan pengawalan halus: menunjuk sahabat sebaya yang ramah untuk menemani makan, memastikan tidak ada tatapan dingin yang mengintimidasi, dan siap menyesuaikan dukungan jika santri merasa gugup.
 

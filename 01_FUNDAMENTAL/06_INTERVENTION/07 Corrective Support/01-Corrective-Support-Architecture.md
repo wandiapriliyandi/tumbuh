@@ -1,17 +1,5 @@
 # Arsitektur Dukungan Korektif (Corrective Support Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
-- [02 Tiered Support / 01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [07 Corrective Support / 04-Correction-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/04-Correction-and-Dignity.md)  
-- [09 Recovery & Reintegration / 01-Recovery-and-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-and-Reintegration-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Koreksi dalam Islam adalah cermin yang membersihkan debu di wajah saudaramu, bukan palu yang meremukkan kepalanya."**  
 > Ketika santri melakukan pelanggaran adab di pesantren—seperti berselisih dengan teman, terlambat shalat, atau melanggar aturan asrama—respons pendidik bukanlah membalas dendam dengan hukuman fisik atau makian yang mempermalukan. *Corrective Support* hadir untuk menghentikan bahaya, mengajak santri bertabayyun, menyadarkan dampak perbuatannya, memulihkan relasi yang terluka (*ishlah*), dan melatihkan adab pengganti yang benar.
 

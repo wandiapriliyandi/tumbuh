@@ -1,17 +1,5 @@
 # Pemantauan Kasus dan Sidang Peninjauan (Case Monitoring and Review)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [04-Case-Planning-and-Coordination.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)  
-- [07-Case-Closure-and-Reopening.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/07-Case-Closure-and-Reopening.md)  
-- [06 Monitoring / 01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Memeriksa perkembangan santri dalam musyawarah adalah wujud cinta; memastikan bahwa setiap ikhtiar pendampingan kita benar-benar membawa manfaat ataukah memerlukan perbaikan arah."**  
 > Pendampingan kasus tidak boleh dibiarkan berjalan tanpa evaluasi berkala (*case review*). Melalui sidang musyawarah kasus mingguan, tim pendamping duduk bersama untuk meninjau: apakah santri sudah mulai ceria dan mau makan bersama kawannya? Apakah obat dari dokter diminum teratur? Apakah beban tugas madrasah sudah disesuaikan? Dari forum inilah keputusan diambil secara bijak dan kolektif.
 

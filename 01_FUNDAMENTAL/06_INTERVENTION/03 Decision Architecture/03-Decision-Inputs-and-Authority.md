@@ -1,16 +1,5 @@
 # Masukan Data Pembuktian dan Matriks Kewenangan Keputusan (Decision Inputs & Authority)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [04-Decision-Options-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/04-Decision-Options-and-Proportionality.md)  
-- [08-Decision-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/08-Decision-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Keputusan yang adil bersumber dari data yang lengkap dan ditetapkan oleh pihak yang memegang amanah kewenangan secara sah."**  
 > Dua kekacauan manajemen yang sering melanda pesantren adalah: pertama, musyrif kamar mengambil tindakan di luar wewenangnya (misalnya memulangkan santri secara sepihak hanya karena jengkel); kedua, musyrif kamar terlalu takut mengambil keputusan bimbingan ringan sehingga hal-hal sepele seperti sandal yang berantakan harus menunggu keputusan rapat pimpinan pondok.  
 > Dokumen ini menetapkan **Empat Masukan Data Pembuktian (*Decision Inputs*)** dan **Matriks Kewenangan Keputusan (*Authority Matrix*)**: memetakan data apa saja yang wajib ditelaah sebelum memutuskan intervensi, serta membagi garis wewenang yang tegas antara musyrif asrama, wali kelas, konselor BK, dan pimpinan dewan kyai agar roda pengasuhan berjalan tertib dan berkeadilan.

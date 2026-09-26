@@ -1,17 +1,5 @@
 # Perencanaan dan Koordinasi Kasus (Case Planning and Coordination)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [03-Case-Identification-and-Intake.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/03-Case-Identification-and-Intake.md)  
-- [05-Roles-Communication-and-Consent.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/05-Roles-Communication-and-Consent.md)  
-- [06-Case-Monitoring-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/06-Case-Monitoring-and-Review.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Rencana yang terpadu menyatukan detak langkah para pendidik; tanpa rencana yang jelas, santri akan bingung karena dinasihati dengan arah yang saling bertentangan oleh guru yang berbeda."**  
 > Santri yang sedang berada dalam krisis tidak boleh menjadi korban dari miskomunikasi asatidz. Jangan sampai musyrif di kamar menyuruh santri beristirahat total, sementara guru di kelas memarahinya karena tidak mengumpulkan tugas. Rencana kasus (*case plan*) adalah kompas bersama yang menyelaraskan tindakan musyrif, wali kelas, guru BK, dan orang tua agar santri merasa dipeluk oleh satu ekosistem asuhan yang utuh.
 

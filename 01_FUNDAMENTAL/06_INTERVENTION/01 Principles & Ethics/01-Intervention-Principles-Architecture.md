@@ -1,20 +1,5 @@
 # Arsitektur Prinsip dan Etika Intervensi Tarbiyah Pesantren (Intervention Principles Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [02-Intervention-Principles-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/02-Intervention-Principles-Audit.md)  
-- [03-Need-Responsiveness-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/03-Need-Responsiveness-and-Proportionality.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [05-Development-Before-Compliance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/05-Development-Before-Compliance.md)  
-- [06-Context-Fairness-and-Accessibility.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/06-Context-Fairness-and-Accessibility.md)  
-- [07-Data-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/07-Data-Privacy-and-Governance.md)  
-- [08-Principles-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/08-Principles-Traceability.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Intervensi tarbiyah bukanlah hukuman untuk melampiaskan kejengkelan, melainkan ikhtiar kasih sayang untuk menuntun fitrah santri yang sedang tersendat."**  
 > Dalam tradisi pesantren, membimbing santri yang berbuat salah atau mengalami kesulitan adab menuntut kearifan (*hikmah*), kelemahlembutan (*rifq*), dan ketegasan yang adil (*'adalah*). Intervensi tidak boleh dijalankan secara serampangan hanya karena seorang musyrif memiliki kuasa untuk memberi sanksi.  
 > Dokumen ini meletakkan **Arsitektur Prinsip dan Etika Intervensi TUMBUH v2.0.0**: bagaimana memastikan setiap tindakan pendampingan, koreksi, dan pemulihan selalu berakar pada kebutuhan perkembangan santri sejati, menjaga kehormatan diri (*karamah insaniyyah*), mengutamakan kesadaran batin di atas kepatuhan lahiriah semu, serta terlindung dari segala bentuk kekerasan fisik dan verbal.

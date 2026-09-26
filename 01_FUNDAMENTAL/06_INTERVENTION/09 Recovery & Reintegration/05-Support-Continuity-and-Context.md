@@ -1,16 +1,5 @@
 # Kesinambungan Dukungan dan Konteks Lingkungan (Support Continuity and Context)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [04-Transition-to-Reintegration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/04-Transition-to-Reintegration.md)  
-- [07-Relapse-Reversal-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/07-Relapse-Reversal-and-Review.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tanaman yang baru dipindahkan ke tanah baru memerlukan keteduhan dan siraman air yang teratur sebelum akarnya kuat menantang terik matahari."**  
 > Santri yang baru kembali dari masa pemulihan menghadapi 'iklim' baru di asrama. Jadwal kegiatan yang padat, riuhnya suara teman sekamar, dan tuntutan hafalan yang menumpuk adalah badai rangsangan (*sensory overload*) yang dapat mengguncang jiwanya. Musyrif yang bijak tidak membiarkan santri berjuang sendirian; ia mengawal kesinambungan dukungan agar transisi dari ruang pemulihan ke gelanggang hidup berjalan mulus.
 

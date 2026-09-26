@@ -1,20 +1,5 @@
 # Arsitektur Tingkat Dukungan Berjenjang Tarbiyah Pesantren (Tiered Support Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [02-Tiered-Support-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/02-Tiered-Support-Audit.md)  
-- [03-Tier-Logic-and-Entry.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/03-Tier-Logic-and-Entry.md)  
-- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)  
-- [05-Support-Intensity-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Support-Intensity-and-Fit.md)  
-- [06-Tier-Equity-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/06-Tier-Equity-and-Access.md)  
-- [07-Tier-Safeguarding-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/07-Tier-Safeguarding-and-Escalation.md)  
-- [08-Tier-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/08-Tier-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tingkat dukungan (Tier) adalah takaran bantuan yang disiapkan oleh pondok, BUKAN kasta atau derajat kemuliaan santri."**  
 > Di pesantren, sangat berbahaya jika seorang santri dicap sebagai "anak Tier 3" lalu dijauhi oleh kawan-kawannya dan dipandang sebelah mata oleh dewan asatidz. Sistem multi-tier diadopsi bukan untuk memilah-milah anak menjadi kelompok kasta moral, melainkan untuk memastikan bahwa energi kepengasuhan dialokasikan secara adil dan tepat sasaran.  
 > Dokumen ini menjabarkan **Arsitektur Tingkat Dukungan Berjenjang (Tiered Support Architecture) TUMBUH v2.0.0**: bagaimana membagi spektrum pembinaan menjadi Tier 1 (Universal), Tier 2 (Terarah), dan Tier 3 (Intensif), menjaga agar santri dapat berpindah tingkat secara luwes (*flexible movement*), membedakan tier dukungan dari jenjang kemandirian (J1–J4), serta mencegah timbulnya stigma di asrama.

@@ -1,16 +1,5 @@
 # Kebutuhan Korektif dan Penetapan Tujuan (Corrective Need and Goal)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [04-Correction-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/04-Correction-and-Dignity.md)  
-- [05-Corrective-Intensity-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/05-Corrective-Intensity-and-Proportionality.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Dokter yang bijak tidak mengobati batuk dengan racun, melainkan mendiagnosis sumber radang dan meresepkan penawar yang menyehatkan."**  
 > Pelanggaran santri di asrama adalah 'gejala batuk', sedangkan akar hambatannya bisa berupa ketidakmampuan mengendalikan amarah, rasa lelah luar biasa, atau kegagalan memahami adab. Menetapkan tujuan koreksi bukanlah menetapkan seberapa berat sanksi yang harus diterima santri agar ia kapok, melainkan merumuskan keterampilan apa yang harus ia pelajari agar ia mampu bersikap mulia di masa depan.
 

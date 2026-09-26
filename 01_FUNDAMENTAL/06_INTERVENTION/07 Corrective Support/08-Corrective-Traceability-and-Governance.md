@@ -1,17 +1,5 @@
 # Keterlacakan dan Tata Kelola Koreksi (Corrective Traceability and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [06-Corrective-Response-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/06-Corrective-Response-and-Monitoring.md)  
-- [07-Corrective-Review-and-Exit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/07-Corrective-Review-and-Exit.md)  
-- [05 Multi-Source Assessment / 04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Keadilan di pesantren tegak ketika setiap teguran memiliki dasar yang jelas, setiap proses terekam dengan jujur, dan martabat santri terlindungi di balik tabir amanah."**  
 > Pencatatan koreksi bukanlah penyusunan 'buku hitam dosa santri', melainkan dokumen akuntabilitas perlindungan. Ketika musyrif mencatat kronologi peristiwa, langkah tabayyun yang ditempuh, hak santri yang didengar, dan kesepakatan perbaikan yang dicapai, pesantren terlindungi dari fitnah, wali santri mendapatkan kejelasan yang menenteramkan, dan santri diperlakukan dengan standar keadilan yang luhur.
 

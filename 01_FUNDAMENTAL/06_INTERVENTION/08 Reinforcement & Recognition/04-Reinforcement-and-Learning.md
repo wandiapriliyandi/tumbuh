@@ -1,16 +1,5 @@
 # Penguatan Perilaku dan Proses Belajar (Reinforcement and Learning)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01-Reinforcement-Recognition-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/01-Reinforcement-Recognition-Architecture.md)  
-- [06 Developmental Support / 04-Practice-Feedback-and-Reflection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/04-Practice-Feedback-and-Reflection.md)  
-- [08 Reinforcement & Recognition / 06-Recognition-and-Agency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/06-Recognition-and-Agency.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Hadiah hanyalah jembatan kayu sementara untuk menyeberangkan anak menuju kebiasaan baik; jangan sampai jembatan itu menjadi tempat tinggal permanen yang membuatnya lupa menapaki tanah kesadaran batin."**  
 > Penguatan eksternal (*reinforcement*)—seperti pujian berkala atau hak istimewa tambahan di asrama—sangat berguna pada masa awal pembiasaan (*ta'wid*), terutama bagi santri baru yang belum terbiasa dengan disiplin pesantren. Namun musyrif harus sadar: berulangnya perilaku karena dorongan hadiah belum tentu membuktikan bahwa adab tersebut telah meresap ke dalam lubuk sanubarinya (*internalized character*).
 

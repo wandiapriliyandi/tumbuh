@@ -1,16 +1,5 @@
 # Audit Arsitektur Tingkat Dukungan Berjenjang (Tiered Support Audit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Architectural Review; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [03-Tier-Logic-and-Entry.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/03-Tier-Logic-and-Entry.md)  
-- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengaudit sistem berjenjang memastikan bahwa tangga bantuan tidak berubah menjadi tangga kasta sosial."**  
 > Sistem Multi-Tier (PBIS) yang dirancang di atas kertas sangat rentan diselewengkan di lapangan: musyrif yang malas bisa menjadikan "masuk Tier 3" sebagai alasan untuk melempar tanggung jawab ke guru BK, atau sebaliknya santri yang butuh bantuan dibiarkan terlunta-lunta di Tier 1 karena tidak ada asatidz yang memperhatikan.  
 > Dokumen ini memaparkan **Audit Arsitektur Tingkat Dukungan Berjenjang TUMBUH v2.0.0**: memeriksa secara ketat apakah struktur 3-tier telah memenuhi standar integritas etis dan metodologis, mengidentifikasi titik rawan penyimpangan operasional di pesantren (*failure modes*), serta menetapkan pertanyaan terbuka untuk riset lapangan jangka panjang.

@@ -1,17 +1,5 @@
 # Penanganan Kekambuhan dan Kemunduran Sementara (Relapse, Reversal, and Review)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [05-Support-Continuity-and-Context.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/05-Support-Continuity-and-Context.md)  
-- [06-Monitoring-and-Reassessment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/06-Monitoring-and-Reassessment.md)  
-- [07 Corrective Support / 01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tersandung saat belajar berjalan bukanlah tanda bahwa anak lumpuh selamanya; itu adalah pengingat agar kita memegang tangannya lebih erat."**  
 > Proses pemulihan jiwa santri tidak pernah bergerak dalam garis lurus yang mulus. Pasti ada hari-hari di mana emosinya kembali meledak, rasa takutnya muncul lagi, atau ia mengulang kekhilafan ringannya. Ketika kemunduran sementara (*relapse/reversal*) terjadi, musyrif yang berjiwa murabbi tidak akan berteriak putus asa atau menjatuhkan vonis vonis gagal. Ia akan merangkul santrinya, memeriksa apa yang memicu goncangan tersebut, dan menguatkan kembali perancah bimbingannya.
 

@@ -1,16 +1,5 @@
 # Audit Arsitektur Dukungan Korektif (Corrective Support Audit)
 
-**Status:** CANONICAL AUDIT REPORT — ARCHITECTURALLY SUFFICIENT  
-**Epistemic Status:** Architectural Review; Not Empirical Validation  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [04-Correction-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/04-Correction-and-Dignity.md)  
-- [08 Assessment Quality / 04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Memeriksa sistem koreksi kita sendiri adalah bukti ketakwaan pendidik; memastikan agar tidak ada satu pun santri yang teraniaya oleh aturan yang kita buat atas nama kedisiplinan."**  
 > Dokumen audit ini adalah cermin penjaminan mutu lembaga. Tujuannya adalah memastikan bahwa sistem penegakan disiplin di pesantren tidak bergeser menjadi rezim penghukum yang kejam (*punishment ladder*). Setiap prosedur diperiksa secara ketat agar senantiasa berpijak pada prinsip keadilan, perlindungan kehormatan santri (*satr al-'aurat*), dan bimbingan fitrah yang mendidik.
 

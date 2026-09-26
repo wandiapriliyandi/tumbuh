@@ -1,16 +1,5 @@
 # Sasaran Pemulihan dan Kesiapan Transisi (Recovery Goal and Readiness)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [04-Transition-to-Reintegration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/04-Transition-to-Reintegration.md)  
-- [05-Support-Continuity-and-Context.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/05-Support-Continuity-and-Context.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan menuntut seseorang berlari jika kakinya baru saja sembuh dari patah tulang; tuntunlah ia berjalan setapak demi setapak hingga kekuatannya pulih sempurna."**  
 > Menetapkan target pemulihan bukanlah menuntut santri langsung menjadi juara kelas atau teladan asrama tanpa cela. Sasaran pemulihan (*recovery goal*) adalah mengembalikan fungsi-fungsi dasar yang sempat terganggu: ketenangan tidur di malam hari, keberanian duduk bersama teman di meja makan, dan kemampuan menahan diri saat emosi memuncak. Kesiapan santri dinilai dari interaksi nyatanya dengan lingkungan, bukan dari label kata-kata di atas kertas.
 

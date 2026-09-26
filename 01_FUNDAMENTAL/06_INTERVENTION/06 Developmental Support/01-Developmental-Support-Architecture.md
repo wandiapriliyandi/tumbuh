@@ -1,6 +1,5 @@
 # Developmental Support Architecture
 
-**Status:** DESIGNED — v2.0.0 / Intervention Developmental Support  
 **Epistemic status:** Conceptually specified; empirically provisional.
 
 ## 1. Purpose

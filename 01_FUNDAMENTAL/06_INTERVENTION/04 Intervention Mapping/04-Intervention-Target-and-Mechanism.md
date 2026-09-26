@@ -1,16 +1,5 @@
 # Tingkat Sasaran Target dan Mekanisme Perubahan Batiniah (Intervention Target & Mechanism)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [03-Need-to-Intervention-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/03-Need-to-Intervention-Mapping.md)  
-- [05-Context-and-Adaptation-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/05-Context-and-Adaptation-Mapping.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Sebuah tindakan bimbingan baru bernilai tarbiyah apabila kita memahami bagian mana yang sedang kita sentuh dan bagaimana tindakan itu menghidupkan hati nurani santri."**  
 > Banyak tindakan pendisiplinan di asrama gagal menghasilkan perubahan watak karena pembina tidak paham mekanisme perubahannya. Musyrif hanya tahu menyuruh anak push-up atau menyapu halaman tanpa tahu apa hubungan antara push-up dengan kebersihan hati atau ketertiban shalat. Tindakan tanpa mekanisme yang jelas adalah kebiasaan membabi-buta (*taqlid 'ama*) yang menguras tenaga tanpa membuahkan akhlak.  
 > Dokumen ini menjabarkan **Empat Tingkat Sasaran Target Intervensi (*Intervention Targets*)** dan **Mekanisme Perubahan Batiniah (*Growth Mechanisms*)**: memadukan wawasan neurosains perkembangan kognitif dengan tazkiyatun nafs Islam untuk menjelaskan bagaimana suatu tindakan pendampingan mengaktifkan kesadaran muraqabah, merekayasa sirkuit kebiasaan baru di otak, dan memulihkan fitrah santri.

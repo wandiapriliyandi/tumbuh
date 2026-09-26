@@ -1,6 +1,5 @@
 # Preventive Support & Environment Audit
 
-**Status:** ARCHITECTURALLY SUFFICIENT — CURRENT STAGE  
 **Review type:** architectural review; not empirical validation.
 
 ## 1. Tujuan Audit

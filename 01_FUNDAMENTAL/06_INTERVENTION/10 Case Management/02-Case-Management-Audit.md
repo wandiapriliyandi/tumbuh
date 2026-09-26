@@ -1,16 +1,5 @@
 # Audit Arsitektur Manajemen Kasus (Case Management Audit)
 
-**Status:** CANONICAL AUDIT REPORT — ARCHITECTURALLY SUFFICIENT  
-**Epistemic Status:** Architectural Review; Not Empirical Validation  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [04-Case-Planning-and-Coordination.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)  
-- [08 Assessment Quality / 04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengaudit manajemen kasus adalah ikhtiar memastikan agar kerja sama para ustadz benar-benar meringankan beban santri, bukan malah membelenggunya dengan jaring birokrasi yang dingin."**  
 > Laporan audit ini adalah instrumen pengawasan tata kelola pesantren untuk menjamin bahwa pembentukan tim khusus penanganan santri tidak berubah menjadi ajang gosip massal di kalangan guru. Setiap pilar diperiksa agar perlindungan privasi santri terjaga, pembagian peran berjalan adil, dan tidak ada santri yang dijadikan 'kelinci percobaan' koordinasi tanpa arah tujuan yang jelas.
 

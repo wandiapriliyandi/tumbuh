@@ -1,6 +1,5 @@
 # Developmental Support Audit
 
-**Status:** ARCHITECTURALLY SUFFICIENT — CURRENT STAGE  
 **Scope:** Review arsitektur Developmental Support pada `06_INTERVENTION`  
 **Nature of review:** Architectural review, bukan empirical validation.
 

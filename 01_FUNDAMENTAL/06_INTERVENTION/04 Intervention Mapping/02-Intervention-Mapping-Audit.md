@@ -1,16 +1,5 @@
 # Audit Arsitektur Pemetaan Intervensi Tarbiyah (Intervention Mapping Audit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Architectural Review; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [03-Need-to-Intervention-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/03-Need-to-Intervention-Mapping.md)  
-- [04-Intervention-Target-and-Mechanism.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/04-Intervention-Target-and-Mechanism.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengaudit pemetaan intervensi adalah memastikan bahwa resep yang diberikan asatidz benar-benar menyembuhkan penyakit, bukan sekadar membius gejalanya."**  
 > Di banyak pondok, para pembina sering kali membanggakan banyaknya program disiplin yang dimiliki pondok tanpa pernah menguji apakah program-program tersebut memiliki dasar logika pedagogis yang kuat. Jika pemetaan intervensi cacat, asatidz akan terus mengulang kesalahan yang sama: memberikan hukuman yang tidak nyambung dengan watak santri, sehingga masalah adab terus berulang dari tahun ke tahun.  
 > Dokumen ini menyajikan **Audit Arsitektur Pemetaan Intervensi TUMBUH v2.0.0**: memeriksa secara ketat kepatuhan 17 parameter desain pemetaan, memastikan pemisahan tegas antara peta pilihan dengan bukti efektivitas nyata di lapangan, serta mengidentifikasi titik rawan kegagalan pencocokan resep tarbiyah di pesantren.

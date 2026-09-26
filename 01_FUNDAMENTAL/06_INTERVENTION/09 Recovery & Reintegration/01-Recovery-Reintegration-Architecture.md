@@ -1,17 +1,5 @@
 # Arsitektur Pemulihan dan Reintegrasi Komunitas (Recovery & Reintegration Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
-- [02 Tiered Support / 05-Tier-3-Intensive-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Tier-3-Intensive-Support.md)  
-- [07 Corrective Support / 01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [10 Case Management / 01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tarbiyah Islamiyah tidak pernah membuang anak yang terluka; tarbiyah membalut lukanya, menuntun langkahnya, dan membukakan pintu rumah agar ia kembali memeluk hangat persaudaraan."**  
 > Ketika seorang santri melewati masa krisis berat—seperti pemulihan pasca-trauma, sanksi pembinaan khusus, atau perselisihan serius—tugas terberat musyrif bukanlah saat memisahkannya, melainkan saat mengembalikannya ke tengah komunitas (*reintegration*). Mengembalikan santri tanpa persiapan ibarat melepas burung yang sayapnya baru sembuh ke tengah badai. Kita harus menyiapkan kesiapan jiwanya, mengkondisikan kehangatan teman sekamarnya, dan menyediakan pendampingan aman agar ia diterima seutuhnya tanpa stigma.
 

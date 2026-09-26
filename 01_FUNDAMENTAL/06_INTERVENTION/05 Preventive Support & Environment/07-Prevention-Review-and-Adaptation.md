@@ -1,7 +1,5 @@
 # Prevention Review and Adaptation
 
-**Status:** DESIGNED — v2.0.0 / Preventive Support & Environment
-
 Preventive support ditinjau berdasarkan evidence respons dan perubahan lingkungan.
 
 ```text

@@ -1,17 +1,5 @@
 # Martabat Santri, Agensi Pertumbuhan, dan Perlindungan Hak Santri (Dignity, Agency & Safeguarding)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [03-Need-Responsiveness-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/03-Need-Responsiveness-and-Proportionality.md)  
-- [05-Development-Before-Compliance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/05-Development-Before-Compliance.md)  
-- [07-Data-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/07-Data-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Kesalahan santri dapat dikoreksi, namun kehormatan dirinya sebagai manusia ciptaan Allah tidak boleh diinjak-injak."**  
 > Salah satu ujian terberat seorang pendidik adalah saat berhadapan dengan santri yang melakukan pelanggaran berulang kali atau menunjukkan sikap membangkang. Dalam situasi marah, sangat mudah bagi asatidz untuk melontarkan kata-kata merendahkan, menghukum di depan seluruh santri pondok agar ia merasa malu, atau mencapnya sebagai anak yang tidak punya masa depan. Cara-cara tersebut bukan sekadar melanggar pedagogi modern, melainkan merusak amanah syari'at dalam menjaga kehormatan seorang muslim.  
 > Dokumen ini menetapkan tiga pilar perlindungan etis: **Pemuliaan Martabat (*Dignity*)**, **Pemberdayaan Agensi Santri (*Agency*)**, dan **Perlindungan Hakiki Santri (*Safeguarding*)**: menjamin bahwa setiap proses pendisiplinan di pesantren selalu memelihara harga diri santri, melibatkan kehendak sadar mereka untuk bertobat dan memperbaiki diri, serta bebas mutlak dari kekerasan fisik dan verbal.

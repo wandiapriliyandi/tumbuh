@@ -1,17 +1,5 @@
 # Intensitas dan Proporsionalitas Koreksi (Corrective Intensity and Proportionality)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [03-Corrective-Need-and-Goal.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/03-Corrective-Need-and-Goal.md)  
-- [04-Correction-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/04-Correction-and-Dignity.md)  
-- [02 Tiered Support / 04-Tier-2-Targeted-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-2-Targeted-Support.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan menggunakan kapak pemotong kayu hanya untuk mengusir lalat di dahi saudaramu."**  
 > Keadilan dalam menegakkan kedisiplinan menuntut timbangan yang presisi. Memberikan sanksi yang berlebihan hanya demi menunjukkan wibawa atau unjuk kekuasaan musyrif adalah bentuk kezaliman; sebaliknya, membiarkan pelanggaran berat tanpa tindakan tegas atas nama kasihan palsu adalah bentuk kelalaian (*neglect*). Koreksi sejati hadir tepat di titik keseimbangan: sepadan dengan peristiwa, selaras dengan kebutuhan santri, dan berorientasi pada perbaikan.
 

@@ -1,16 +1,5 @@
 # Logika Penjenjangan Dukungan dan Kriteria Masuk Tier (Tier Logic & Entry)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)  
-- [05-Support-Intensity-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Support-Intensity-and-Fit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pintu masuk bimbingan khusus bukanlah gerbang penghakiman, melainkan uluran tangan pertolongan yang hangat."**  
 > Di banyak lembaga pendidikan, ketika seorang santri dipanggil menghadap guru BP/BK atau tim kepengasuhan khusus, ia merasa seperti pesakitan yang sedang diseret ke pengadilan. Akibatnya, santri membangun benteng pertahanan psikologis, berbohong, atau menutup diri rapat-rapat.  
 > Dokumen ini menjabarkan **Logika Penjenjangan Dukungan (*Tier Logic*)** dan **Kriteria Masuk (*Entry Criteria*)**: bagaimana merumuskan indikator objektif kapan seorang santri cukup didampingi secara umum (Tier 1), kapan memerlukan bimbingan kelompok terarah (Tier 2), dan kapan harus mendapatkan pendampingan intensif (Tier 3), dengan tetap menjaga suasana penerimaan yang penuh kasih sayang dan bebas dari stigma negatif.

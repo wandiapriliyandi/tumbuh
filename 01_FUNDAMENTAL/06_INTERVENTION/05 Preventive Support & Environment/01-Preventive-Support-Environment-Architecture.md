@@ -1,6 +1,5 @@
 # Preventive Support & Environment Architecture
 
-**Status:** DESIGNED — v2.0.0 / Intervention Preventive Support & Environment  
 **Epistemic status:** conceptually specified; empirically provisional.
 
 ## 1. Purpose

@@ -1,16 +1,5 @@
 # Ekologi Konteks, Keadilan Pembinaan, dan Aksesibilitas Dukungan (Context, Fairness & Accessibility)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [03-Need-Responsiveness-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/03-Need-Responsiveness-and-Proportionality.md)  
-- [05-Preventive-Support-Environment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20&%20Environment/01-Preventive-Support-Environment-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan menghakimi ikan karena tidak bisa memanjat pohon; periksa apakah kolam tempatnya berenang cukup bersih dan mengalir."**  
 > Sering kali pembina pondok dengan cepat mencap seorang santri sebagai "anak pemalas" atau "santri pembangkang", padahal anak tersebut tidur di kamar asrama yang dihuni 20 santri dengan sirkulasi udara buruk, lampu yang terus menyala hingga tengah malam, dan kasur yang penuh kutu. Dalam kondisi lingkungan seperti itu, orang dewasa pun akan mengalami kelelahan ekstrem dan sulit bangun shubuh.  
 > Dokumen ini menjabarkan prinsip **Ekologi Konteks (*Growth Ecology*)**, **Keadilan Tarbiyah Proporsional (*Equity*)**, dan **Aksesibilitas Dukungan**: bagaimana memandang perilaku santri dalam keterhubungannya dengan lingkungan sekitar, memastikan rekayasa lingkungan asrama didahulukan sebelum menghukum santri, serta menjamin seluruh santri mendapatkan hak bimbingan tanpa diskriminasi.

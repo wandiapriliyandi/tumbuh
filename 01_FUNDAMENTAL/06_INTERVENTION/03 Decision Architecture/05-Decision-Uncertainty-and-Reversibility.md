@@ -1,16 +1,5 @@
 # Ketidakpastian Keputusan, Sifat Terbuka Koreksi, dan Pemulihan Nama Baik (Decision Uncertainty & Reversibility)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [02-Intervention-Decision-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/02-Intervention-Decision-Audit.md)  
-- [06-Decision-Safeguards-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/06-Decision-Safeguards-and-Fairness.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengakui kekeliruan dan mencabut sanksi yang salah sasaran bukanlah tanda kelemahan, melainkan bukti ketakwaan dan kemuliaan akhlak seorang murabbi."**  
 > Di lingkungan asrama pesantren 24 jam, peristiwa sering kali terjadi secara cepat dan membingungkan: barang yang hilang di kamar, saksi yang saling bertentangan, atau tuduhan yang dilandasi dendam antar-santri. Tidak jarang asatidz terlanjur menjatuhkan teguran keras kepada seorang santri, padahal belakangan terbukti bahwa santri tersebut tidak bersalah. Ketika hal ini terjadi, sebagian pembina enggan meminta maaf karena takut wibawanya jatuh di depan santri. Sikap ini adalah bencana moral yang menanamkan trauma mendalam di hati anak.  
 > Dokumen ini menetapkan panduan **Pengelolaan Ketidakpastian Bukti (*Decision Uncertainty*)**, **Sifat Keputusan yang Wajib Dapat Dikoreksi (*Decision Reversibility*)**, serta **Protokol Pemulihan Nama Baik (*Rehabilitation Protocol*)**: bagaimana bersikap bijak di tengah bukti yang masih samar-samar dan memulihkan martabat santri secara terhormat ketika terjadi kekeliruan vonis.

@@ -1,17 +1,5 @@
 # Dukungan, Otonomi Bertahap, dan Transfer Kemampuan (Support, Autonomy, and Transfer)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 06 Developmental Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Developmental-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/01-Developmental-Support-Architecture.md)  
-- [04-Practice-Feedback-and-Reflection.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/04-Practice-Feedback-and-Reflection.md)  
-- [06-Progression-and-Mastery-Interface.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/06-Progression-and-Mastery-Interface.md)  
-- [01 Architecture / 01-Assessment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/01%20Architecture/01-Assessment-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tujuan akhir pendampingan bukanlah membuat santri selamanya bergantung pada musyrif, melainkan menyalakan lentera kesadaran di dalam dadanya sehingga ia mampu berdiri tegak dan beradab di mana pun ia berada."**  
 > Mengurangi pengawalan (*fading scaffolding*) ibarat melepas roda bantu pada sepeda santri. Jika dilepas terlalu cepat saat santri belum siap menjaga keseimbangan, ia akan jatuh terhempas; sebaliknya jika roda bantu dipasang selamanya, ia tidak akan pernah belajar mengayuh mandiri. Otonomi sejati terbukti bukan ketika santri patuh karena ditatap musyrif di asrama, melainkan saat ia tetap menjaga shalat dan akhlaknya ketika sedang berlibur di rumah tanpa ada yang mengawasi selain Allah (*muraqabatullah*).
 

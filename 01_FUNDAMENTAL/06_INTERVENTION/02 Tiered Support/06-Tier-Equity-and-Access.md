@@ -1,16 +1,5 @@
 # Keadilan Tingkat Dukungan, Pencegahan Stigma, dan Akses Bimbingan (Tier Equity & Access)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [05-Support-Intensity-and-Fit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Support-Intensity-and-Fit.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tangan pengasuhan harus menjangkau mereka yang paling tersembunyi, dan bantuan tarbiyah tidak boleh menjadi sumber malu bagi yang menerimanya."**  
 > Di banyak pondok pesantren, perhatian para pembina sering kali tersedot oleh dua kelompok ekstrem: santri yang sangat berprestasi (juara tahfiz, ketua organisasi) atau santri yang sangat membuat onar. Santri yang berada di tengah-tengah—terutama anak yang pemalu, pendiam, dan berasal dari keluarga sederhana—sering kali luput dari pandangan (*invisible students*). Selain itu, ketika seorang santri mendapatkan bimbingan khusus dari guru BK, ia sering kali menjadi sasaran ejekan teman-teman sekamarnya sebagai "anak nakal".  
 > Dokumen ini menjabarkan prinsip **Keadilan Tingkat Dukungan (*Tier Equity*)**, **Pencegahan Stigma Sosial (*De-Stigmatization*)**, dan **Pemerataan Akses Bimbingan**: bagaimana memastikan seluruh santri memiliki hak yang setara untuk didampingi, serta menjaga agar program bimbingan terarah (Tier 2) dan intensif (Tier 3) dijalankan secara bermartabat tanpa melahirkan rasa rendah diri pada anak asuh.

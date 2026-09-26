@@ -1,7 +1,5 @@
 # Prevention Traceability and Governance
 
-**Status:** DESIGNED — v2.0.0 / Preventive Support & Environment
-
 ```text
 Need / Risk Signal → Preventive Goal → Environment / Support → Response → Review
 ```

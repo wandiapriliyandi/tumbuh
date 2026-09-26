@@ -1,7 +1,5 @@
 # Early Signals and Response
 
-**Status:** DESIGNED — v2.0.0 / Preventive Support & Environment
-
 Early signal digunakan untuk memicu perhatian dan review, bukan untuk menetapkan diagnosis atau label.
 
 ```text

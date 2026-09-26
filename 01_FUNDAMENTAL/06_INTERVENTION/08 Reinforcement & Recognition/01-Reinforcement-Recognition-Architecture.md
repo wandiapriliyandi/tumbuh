@@ -1,17 +1,5 @@
 # Arsitektur Penguatan dan Apresiasi (Reinforcement & Recognition Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
-- [06 Developmental Support / 05-Support-Autonomy-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/05-Support-Autonomy-and-Transfer.md)  
-- [08 Reinforcement & Recognition / 03-Recognition-Purpose-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/03-Recognition-Purpose-and-Dignity.md)  
-- [08 Reinforcement & Recognition / 06-Recognition-and-Agency.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/06-Recognition-and-Agency.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pujian yang bijak menyalakan rasa syukur dan kerendahan hati; sanjungan yang salah menyulut api riya' dan ketergantungan pada tepuk tangan manusia."**  
 > Di pesantren, tujuan mengapresiasi santri bukanlah untuk melatih lumba-lumba sirkus yang hanya mau melompat saat dilempari ikan, melainkan untuk meneguhkan kebaikan (*tatsbit al-khair*) agar berakar menjadi karakter yang ikhlas karena Allah (*lillahi ta'ala*). Penguatan (*reinforcement*) dan apresiasi (*recognition*) dirancang dengan kehati-hatian tinggi: menghargai proses ikhtiar, menjaga martabat santri yang belum berhasil, dan perlahan-lahan menyapih hadiah materiil menuju kemandirian motivasi batin (*fitrah agency*).
 

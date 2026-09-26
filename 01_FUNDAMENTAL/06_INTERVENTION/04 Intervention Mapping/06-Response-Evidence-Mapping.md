@@ -1,16 +1,5 @@
 # Pemetaan Bukti Respons Santri dan Indikator Keberhasilan (Response Evidence Mapping)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [03-Temporal-Evidence-and-Change-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/03-Temporal-Evidence-and-Change-Review.md)  
-- [07-Mapping-Review-and-Revision.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/07-Mapping-Review-and-Revision.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan meluncurkan anak panah bimbingan tanpa mengetahui di mana papan sasaran keberhasilannya."**  
 > Banyak musyrif menjalankan program pembinaan atau memberikan konsekuensi logis kepada santri tanpa pernah menetapkan sejak awal: *"Tanda-tanda apa yang membuktikan bahwa santri ini sudah membaik?"* Akibatnya, saat ditanya oleh pimpinan pondok apakah santri sudah pulih, musyrif hanya menjawab dengan firasat samar: *"Kayaknya sudah mendingan, Ustadz"*. Jawaban seperti ini tidak memiliki bobot pembuktian dan rentan dicemari oleh prasangka pribadi.  
 > Dokumen ini memaparkan **Pemetaan Bukti Respons Santri (*Response Evidence Mapping*)**: bagaimana menetapkan indikator perilaku teramati (*observable indicators*), indikator afektif batiniah, dan indikator relasi sosial yang wajib dicatat selama masa pendampingan agar evaluasi keberhasilan intervensi berpijak pada data yang nyata, adil, dan transparan.

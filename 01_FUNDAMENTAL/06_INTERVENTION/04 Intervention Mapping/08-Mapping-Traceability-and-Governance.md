@@ -1,17 +1,5 @@
 # Keterlacakan Pemetaan Intervensi dan Tata Kelola Repositori Tarbiyah (Mapping Traceability & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [07-Mapping-Review-and-Revision.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/07-Mapping-Review-and-Revision.md)  
-- [08-Principles-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/08-Principles-Traceability.md)  
-- [08-Decision-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/08-Decision-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Setiap resep bimbingan yang masuk ke dalam katalog pondok wajib memiliki silsilah keilmuan yang jelas, aman dari racun kekerasan, dan teruji manfaatnya."**  
 > Di banyak lembaga pendidikan, pembina baru sering kali bingung harus melakukan apa saat menghadapi santri yang bermasalah, lalu mencoba-coba metode liar yang ia lihat di media sosial atau pengalamannya sendiri saat dahulu menjadi santri junior yang sering dihukum. Jika repositori bimbingan tidak memiliki tata kelola dan keterlacakan yang baku, maka praktik-praktik kekerasan masa lalu akan terus diwariskan secara liar dari generasi ke generasi.  
 > Dokumen ini menetapkan standar **Keterlacakan Pemetaan Intervensi (*Mapping Traceability*)** dan **Tata Kelola Repositori Tarbiyah (*Governance*)**: memetakan rantai audit delapan titik bagi setiap resep bimbingan yang diakui pondok, merancang format Kartu Kendali Resep Intervensi (KKRI), serta mengunci tata kelola pembaruan repositori secara berwibawa.

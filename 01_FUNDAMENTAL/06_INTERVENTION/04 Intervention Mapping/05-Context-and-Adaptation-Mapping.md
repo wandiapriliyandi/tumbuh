@@ -1,16 +1,5 @@
 # Adaptasi Pemetaan Kontekstual Pesantren (Context & Adaptation Mapping)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md)  
-- [03-Need-to-Intervention-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/03-Need-to-Intervention-Mapping.md)  
-- [06-Context-Fairness-and-Accessibility.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/06-Context-Fairness-and-Accessibility.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Kearifan tarbiyah adalah mengetahui bagaimana menyesuaikan pakaian bimbingan agar pas dengan iklim dan ukuran tubuh santri, tanpa merusak jahitannya."**  
 > Dunia pesantren di Indonesia sangat kaya dan beragam: ada pesantren salafiyah tradisional dengan bilik bambu dan pengajian wetonan, ada pesantren modern dengan disiplin bahasa 24 jam yang ketat, ada pula pesantren tahfiz dengan fokus hafalan 30 juz. Memaksakan menu intervensi yang kaku dan seragam tanpa mempertimbangkan tipologi budaya, ketersediaan fasilitas, dan rasio pembina di lapangan hanya akan melahirkan penolakan atau kepura-puraan administratif.  
 > Dokumen ini memaparkan **Adaptasi Pemetaan Kontekstual (*Context & Adaptation Mapping*)**: bagaimana meluaskan daya lentur menu intervensi TUMBUH agar dapat diterapkan secara realistis di berbagai tipologi pesantren, menyesuaikan bimbingan dengan rentang usia santri (MTs vs. MA), sembari tetap menjaga pagar etika non-kekerasan sebagai prinsip harga mati yang tidak boleh ditawar.

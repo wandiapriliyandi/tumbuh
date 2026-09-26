@@ -1,20 +1,5 @@
 # Arsitektur Pemetaan Kebutuhan dan Pilihan Intervensi Tarbiyah (Intervention Mapping Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/04 Intervention Mapping/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md)  
-**Dokumen Terkait:**  
-- [02-Intervention-Mapping-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/02-Intervention-Mapping-Audit.md)  
-- [03-Need-to-Intervention-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/03-Need-to-Intervention-Mapping.md)  
-- [04-Intervention-Target-and-Mechanism.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/04-Intervention-Target-and-Mechanism.md)  
-- [05-Context-and-Adaptation-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/05-Context-and-Adaptation-Mapping.md)  
-- [06-Response-Evidence-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/06-Response-Evidence-Mapping.md)  
-- [07-Mapping-Review-and-Revision.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/07-Mapping-Review-and-Revision.md)  
-- [08-Mapping-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/08-Mapping-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pemetaan intervensi adalah kompas pencocok resep tarbiyah, bukan daftar menu sanksi massal yang dipaksakan kepada semua anak."**  
 > Di banyak pondok pesantren, asatidz sering kali hanya memiliki satu atau dua "resep andalan" untuk semua jenis masalah santri: apa pun pelanggarannya—baik mengantuk di kelas, bertengkar dengan teman, maupun tidak hafal bait nadzom—hukumannya selalu sama: push-up, berdiri di depan masjid, atau lari keliling lapangan. Pendekatan primitif ini membuktikan ketiadaan pemetaan intervensi yang ilmiah dan berkeadaban.  
 > Dokumen ini menjabarkan **Arsitektur Pemetaan Intervensi (Intervention Mapping Architecture) TUMBUH v2.0.0**: bagaimana memetakan antara kebutuhan kapasitas adab santri dengan menu pilihan dukungan yang relevan, menelusuri mekanisme perubahan batiniah yang dituju, memilih target intervensi yang tepat (apakah pada diri anak, teman sekamar, atau suasana kamar asrama), serta menguji keberhasilannya berdasarkan bukti respons lapangan yang nyata.

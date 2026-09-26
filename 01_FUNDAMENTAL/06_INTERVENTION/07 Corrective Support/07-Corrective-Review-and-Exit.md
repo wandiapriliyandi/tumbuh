@@ -1,17 +1,5 @@
 # Peninjauan dan Pengakhiran Koreksi (Corrective Review and Exit)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [03-Corrective-Need-and-Goal.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/03-Corrective-Need-and-Goal.md)  
-- [06-Corrective-Response-and-Monitoring.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/06-Corrective-Response-and-Monitoring.md)  
-- [09 Recovery & Reintegration / 06-Reintegration-and-Belonging.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/06-Reintegration-and-Belonging.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Pintu maaf dan pemulihan dalam Islam senantiasa terbuka lebar; jangan sampai ada santri yang terkunci di dalam kamar bersalah seumur hidupnya di pesantren."**  
 > Pengasuhan yang buruk memperlakukan sanksi sebagai vonis tanpa akhir, di mana santri selamanya diawasi dengan tatapan curiga meski kesalahannya telah lama diselesaikan. Pengakhiran bimbingan korektif (*exit*) adalah momentum suci untuk menyatakan bahwa santri telah tuntas menunaikan tanggung jawabnya, aibnya ditutup, dan hak kehormatannya dipulihkan secara penuh di hadapan asatidz dan teman-temannya.
 

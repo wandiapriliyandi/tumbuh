@@ -1,17 +1,5 @@
 # Keterlacakan Penetapan Tingkat Dukungan dan Tata Kelola Kepengasuhan (Tier Traceability & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)  
-- [04-Tier-Movement-and-Review.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/04-Tier-Movement-and-Review.md)  
-- [07-Tier-Safeguarding-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/07-Tier-Safeguarding-and-Escalation.md)  
-- [08-Principles-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/08-Principles-Traceability.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Keputusan yang menyangkut nasib pembinaan santri tidak boleh bergantung pada ingatan lisan atau prasangka sesaat."**  
 > Ketika seorang santri diputuskan masuk ke bimbingan terarah (Tier 2) atau bimbingan intensif (Tier 3), keputusan tersebut membawa dampak besar bagi rutinitas harian anak, beban tugas pembina, dan komunikasi dengan orang tua. Jika keputusan itu tidak memiliki arsip rekam jejak yang jelas, maka sangat mudah terjadi saling lempar tanggung jawab, sanksi yang berlarut-larut tanpa akhir, atau ketidakadilan yang tidak dapat dikoreksi.  
 > Dokumen ini menetapkan standar **Keterlacakan Penetapan Tingkat Dukungan (*Tier Traceability*)** dan **Tata Kelola Kepengasuhan (*Governance*)**: memastikan bahwa setiap penetapan, pemantauan, dan pemulihan status tier santri terdokumentasi dengan rapi, akuntabel, dan terlindung dalam kerahasiaan amanah yang suci.

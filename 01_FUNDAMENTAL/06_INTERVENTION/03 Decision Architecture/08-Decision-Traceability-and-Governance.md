@@ -1,17 +1,5 @@
 # Keterlacakan Alur Keputusan dan Tata Kelola Sidang Pengasuhan (Decision Traceability & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [02-Intervention-Decision-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/02-Intervention-Decision-Audit.md)  
-- [08-Principles-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/08-Principles-Traceability.md)  
-- [08-Tier-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/08-Tier-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Sebuah keputusan yang bersih dan adil selalu memiliki silsilah pembuktian yang dapat diaudit kapan saja tanpa rasa takut."**  
 > Ketika terjadi perselisihan antara pihak wali santri dengan pihak pondok pesantren perihal sanksi yang dijatuhkan kepada anaknya, lembaga yang memiliki tata kelola lemah akan panik, mencari-cari alasan lisan yang saling bertentangan, atau saling menyalahkan antar-musyrif. Sebaliknya, lembaga yang mengadopsi sistem TUMBUH akan dengan tenang membuka berkas Berita Acara Keputusan Intervensi yang tersusun rapi: memperlihatkan fakta kejadian, waktu tabayyun, pertimbangan risiko, dan evaluasi berkala yang adil.  
 > Dokumen ini menetapkan standar **Keterlacakan Alur Keputusan (*Decision Traceability*)** dan **Tata Kelola Majelis Syura Pengasuhan (*Governance*)**: memetakan sembilan titik jejak audit keputusan dari bukti hingga sidang evaluasi, mengatur tata tertib persidangan musyawarah asatidz, serta mengunci pengamanan dokumen rahasia pembinaan.

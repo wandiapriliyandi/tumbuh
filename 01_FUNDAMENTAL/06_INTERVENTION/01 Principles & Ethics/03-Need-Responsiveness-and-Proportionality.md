@@ -1,17 +1,5 @@
 # Ketanggapan Kebutuhan dan Proporsionalitas Tindakan (Need Responsiveness & Proportionality)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [05-Development-Before-Compliance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/05-Development-Before-Compliance.md)  
-- [01-Tiered-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/01-Tiered-Support-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengobati orang sakit butuh takaran obat yang pas; memberi dosis berlebih justru meracuni tubuh."**  
 > Dalam mengasuh santri, pendidik sering kali tergoda memberikan sanksi yang sangat berat untuk kesalahan yang sebenarnya wajar terjadi pada proses belajar remaja. Misalnya, santri yang baru pertama kali lupa merapikan sandal langsung disuruh membersihkan seluruh kamar mandi pondok selama sepekan. Pendekatan seperti ini tidak mendidik, melainkan menanamkan rasa ketidakadilan dan dendam di hati anak.  
 > Dokumen ini menjabarkan dua pilar operasional intervensi: **Ketanggapan Kebutuhan (*Need-Responsiveness*)** dan **Proporsionalitas Tindakan (*Proportionality*)**: bagaimana mengenali akar persoalan santri secara tepat serta menakar intensitas dan durasi bimbingan agar seimbang dengan kekhilafan yang terjadi demi menumbuhkan tanggung jawab sejati.

@@ -1,16 +1,5 @@
 # Peran, Komunikasi, dan Persetujuan (Roles, Communication, and Consent)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01-Case-Management-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)  
-- [04-Case-Planning-and-Coordination.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)  
-- [01 Principles & Ethics / 07-Data-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/07-Data-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Aib dan rahasia santri adalah titipan suci; koordinasi antar-ustadz bukanlah pintu halal untuk mengumbar cerita santri di meja makan kantor."**  
 > Bekerja sama dalam satu tim bukan berarti seluruh detail keluh kesah santri boleh disebarkan bebas kepada semua ustadz. Setiap peran memiliki koridor informasi yang berbeda. Musyrif di asrama hanya membutuhkan informasi yang relevan untuk mendampingi tidurnya, wali kelas hanya membutuhkan informasi untuk menyesuaikan tugasnya, dan guru BK menjaga rahasia terdalam santri dengan sumpah amanah.
 

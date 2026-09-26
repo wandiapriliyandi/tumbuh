@@ -1,20 +1,5 @@
 # Arsitektur Pengambilan Keputusan Intervensi Tarbiyah Pesantren (Intervention Decision Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [02-Intervention-Decision-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/02-Intervention-Decision-Audit.md)  
-- [03-Decision-Inputs-and-Authority.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/03-Decision-Inputs-and-Authority.md)  
-- [04-Decision-Options-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/04-Decision-Options-and-Proportionality.md)  
-- [05-Decision-Uncertainty-and-Reversibility.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/05-Decision-Uncertainty-and-Reversibility.md)  
-- [06-Decision-Safeguards-and-Fairness.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/06-Decision-Safeguards-and-Fairness.md)  
-- [07-Decision-Review-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/07-Decision-Review-and-Escalation.md)  
-- [08-Decision-Traceability-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/08-Decision-Traceability-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mengambil keputusan pembinaan santri menuntut kejernihan hati dan ketelitian bukti, bukan ketergesa-gesaan amarah di saat lelah."**  
 > Kesalahan terbesar yang sering terjadi di asrama adalah mengambil keputusan intervensi secara terburu-buru: begitu mendengar aduan kawan atau melihat angka nilai rapor santri yang merah, musyrif langsung menjatuhkan vonis sanksi tanpa tabayyun, tanpa meneliti latar belakang kejadian, dan tanpa menimbang dampaknya bagi kondisi psikologis anak.  
 > Dokumen ini menjabarkan **Arsitektur Pengambilan Keputusan Intervensi (Intervention Decision Architecture) TUMBUH v2.0.0**: sebuah alur kanonikal 8 langkah yang menuntun para asatidz bergerak dari bukti teramati (*evidence*), menjalankan tabayyun yang mendalam, menganalisis kebutuhan fitrah dan konteks lingkungan, memeriksa risiko perlindungan anak, memilih tindakan yang proporsional, hingga melakukan peninjauan berkala secara adil dan dapat dikoreksi (*reversible*).

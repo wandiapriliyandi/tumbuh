@@ -1,17 +1,5 @@
 # Tata Kelola Data, Kerahasiaan Aib, dan Etika Digital Intervensi (Data Privacy & Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/01 Principles & Ethics/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Principles-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Intervention-Principles-Architecture.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [08-Principles-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/08-Principles-Traceability.md)  
-- [04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Mencatat kelemahan santri adalah amanah pembinaan, membocorkannya kepada yang tidak berhak adalah pengkhianatan kehormatan."**  
 > Dalam proses bimbingan dan konseling, asatidz sering kali mengetahui rahasia pribadi santri yang sangat sensitif: konflik rumah tangga orang tuanya, pergulatan batin masa pubertas, atau kekhilafan dosa yang pernah dilakukannya di masa lalu. Apabila catatan-catatan ini disimpan secara sembarangan, dibicarakan sebagai lelucon di ruang guru, atau tersebar ke santri lain, maka hancurlah kepercayaan santri kepada lembaga pondok.  
 > Dokumen ini mengatur **Tata Kelola Data Pembinaan (*Intervention Data Governance*)**, **Kewajiban Syar'i Menjaga Kerahasiaan Aib (*Satr al-'Aurat*)**, serta **Etika Penggunaan Sistem Digital dan Kecerdasan Buatan (AI)**: memastikan bahwa setiap bit data pembinaan santri dikelola dengan standar integritas tertinggi, aman dari kebocoran, dan senantiasa berada di bawah kendali hati nurani pendidik.

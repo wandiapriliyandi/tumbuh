@@ -1,17 +1,5 @@
 # Keterlacakan dan Tata Kelola Pemulihan (Recovery Traceability and Governance)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [04-Transition-to-Reintegration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/04-Transition-to-Reintegration.md)  
-- [06-Monitoring-and-Reassessment.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/06-Monitoring-and-Reassessment.md)  
-- [05 Multi-Source Assessment / 04-Safeguarding-Privacy-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/05%20Multi-Source%20Assessment/04-Safeguarding-Privacy-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Dokumen pemulihan santri adalah amanah rahasia antara pendidik dan Allah; menjaganya dengan rapi adalah bukti integritas, menyebarkannya adalah pengkhianatan amanah."**  
 > Pencatatan proses pemulihan dan reintegrasi santri bukan bertujuan membuat arsip aib yang menghantui masa depannya. Dokumentasi ini disusun untuk menjamin bahwa seluruh ikhtiar pemulihan dilakukan secara terencana, hak perlindungan santri dipenuhi, orang tua terinformasi dengan bijak, dan lembaga memiliki panduan yang jelas saat mengevaluasi kesiapan santri hidup mandiri.
 

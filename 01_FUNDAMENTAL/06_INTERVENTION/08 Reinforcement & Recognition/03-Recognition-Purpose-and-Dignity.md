@@ -1,16 +1,5 @@
 # Tujuan Apresiasi dan Martabat Santri (Recognition Purpose and Dignity)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01-Reinforcement-Recognition-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/01-Reinforcement-Recognition-Architecture.md)  
-- [04-Reinforcement-and-Learning.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/04-Reinforcement-and-Learning.md)  
-- [05-Recognition-Fairness-and-Access.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/05-Recognition-Fairness-and-Access.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Ucapkanlah kebaikan atas usaha saudaramu dengan mendoakannya, agar hatinya terpaut pada Allah Sang Pemberi Taufik, bukan terpaut pada pujian bibirmu."**  
 > Apresiasi dalam tradisi pesantren bukanlah penobatan tahta keangkuhan, melainkan pengakuan hangat atas tetesan keringat santri dalam menuntut ilmu dan berkhidmah. Ketika seorang musyrif menatap mata santrinya dan berkata: *"Jazakallahu khairan, Nak, usahamu bangun qiyamul lail semalam sangat membahagiakan hati kami"*, kata-kata itu menyuntikkan energi spiritual tanpa merendahkan santri lain yang masih tertidur lelap.
 

@@ -1,16 +1,5 @@
 # Pagar Pengaman Keputusan dan Penegakan Keadilan Intervensi (Decision Safeguards & Fairness)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)  
-**Dokumen Terkait:**  
-- [01-Intervention-Decision-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/01-Intervention-Decision-Architecture.md)  
-- [04-Dignity-Agency-and-Safeguarding.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/04-Dignity-Agency-and-Safeguarding.md)  
-- [07-Decision-Review-and-Escalation.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/07-Decision-Review-and-Escalation.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Ketimpangan relasi kuasa antara guru dewasa dan santri remaja mewajibkan adanya sistem pagar pengaman agar kekuasaan tidak melahirkan kezaliman."**  
 > Di pesantren, pembina memiliki kekuasaan hampir mutlak: menentukan boleh tidaknya santri tidur, menjatuhkan sanksi, hingga membatasi perizinan pulang. Jika kekuasaan besar ini tidak dipagari oleh prosedur pengamanan yang ketat, seorang musyrif yang sedang marah atau memiliki dendam pribadi dapat dengan mudah menghukum santri secara berlebihan tanpa ada yang berani menegur.  
 > Dokumen ini menetapkan **Lima Lapis Pagar Pengaman Keputusan (*Decision Safeguards*)** dan **Prinsip Keadilan Substantif (*Fairness*)**: menjamin hak santri untuk didengar secara adil (*audi alteram partem*), mencegah konflik kepentingan asatidz, melarang pengusiran santri demi kenyamanan sesaat pengajar, serta menyediakan saluran aduan yang aman bagi santri.

@@ -1,16 +1,5 @@
 # Audit Arsitektur Pemulihan dan Reintegrasi (Recovery & Reintegration Audit)
 
-**Status:** CANONICAL AUDIT REPORT — ARCHITECTURALLY SUFFICIENT  
-**Epistemic Status:** Architectural Review; Not Empirical Validation  
-**Tautan Induk:** [06_INTERVENTION / 09 Recovery & Reintegration / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/README.md)  
-**Dokumen Terkait:**  
-- [01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [04-Transition-to-Reintegration.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/04-Transition-to-Reintegration.md)  
-- [08 Assessment Quality / 04-Quality-Review-Risk-and-Governance.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/08%20Assessment%20Quality/04-Quality-Review-Risk-and-Governance.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Menguji kesiapan reintegrasi santri ibarat memastikan kestabilan perahu sebelum berlayar kembali; jangan biarkan anak kita terombang-ambing di laut lepas tanpa jangkar perlindungan yang kokoh."**  
 > Laporan audit ini adalah jaminan mutu bahwa pesantren tidak sekadar memulangkan atau menerima kembali santri secara serampangan. Kita memeriksa apakah lingkungan asrama telah aman, apakah musyrif dan teman sekamar telah disiapkan hatinya, dan apakah instrumen pemantauan tidak berubah menjadi aksi memata-matai yang merusak kepercayaan santri kepada para ustadznya.
 

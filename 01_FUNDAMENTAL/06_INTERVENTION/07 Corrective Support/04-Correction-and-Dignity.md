@@ -1,17 +1,5 @@
 # Koreksi Beradab dan Martabat Santri (Correction and Dignity)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [03-Corrective-Need-and-Goal.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/03-Corrective-Need-and-Goal.md)  
-- [05-Corrective-Intensity-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/05-Corrective-Intensity-and-Proportionality.md)  
-- [01 Principles & Ethics / 04-Intervention-Ethics-and-Boundaries.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/04-Intervention-Ethics-and-Boundaries.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Nasihatilah saudaramu dalam kesendirian, niscaya engkau menghiasinya; jangan nasihati ia di depan khalayak, karena sesungguhnya itu adalah celaan yang mempermalukan." (Imam Asy-Syafi'i)**  
 > Manusia diciptakan oleh Allah dalam sebaik-baik bentuk dan memiliki kemuliaan fitrah yang suci (*karamah insaniyyah*). Ketika seorang santri tergelincir melakukan kesalahan, yang kita benci dan luruskan adalah perbuatannya, bukan menghancurkan kehormatan jiwanya. Musyrif yang memarahi santri di depan teman-temannya bukan sedang mendidik, melainkan sedang melukai harga dirinya dan menanam benih dendam yang kelak akan meledak menjadi pembangkangan.
 

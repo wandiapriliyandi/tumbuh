@@ -1,17 +1,5 @@
 # Peninjauan Respons dan Adaptasi Intervensi (Response Review and Adaptation)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 06 Developmental Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Developmental-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/01-Developmental-Support-Architecture.md)  
-- [03-Developmental-Goal-and-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/03-Developmental-Goal-and-Support.md)  
-- [05-Support-Autonomy-and-Transfer.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/05-Support-Autonomy-and-Transfer.md)  
-- [06 Monitoring / 05-Alerts-Thresholds-and-Response.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/05-Alerts-Thresholds-and-Response.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan mengubah santri agar cocok dengan rencana kita; ubahlah rencana pendampingan agar selaras dengan denyut perkembangan fitrah santri."**  
 > Jika seorang santri belum menunjukkan perbaikan setelah dua pekan menjalani program pembiasaan adab, musyrif bijak tidak akan buru-buru melabeli santri tersebut sebagai 'keras kepala' atau 'pembangkang'. Musyrif akan duduk meninjau kembali: apakah metode latihannya terlalu rumit? Apakah jadwal pendampingannya berbenturan dengan waktu lelah santri? Atau apakah perancah yang diberikan belum menyentuh akar hambatannya? Pendampingan bukanlah cetakan batu kaku, melainkan seni menyesuaikan layar perahu dengan hembusan angin.
 

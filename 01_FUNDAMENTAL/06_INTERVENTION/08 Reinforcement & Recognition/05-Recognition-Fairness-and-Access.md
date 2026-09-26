@@ -1,16 +1,5 @@
 # Keadilan dan Aksesibilitas Apresiasi (Recognition, Fairness, and Access)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 08 Reinforcement & Recognition / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/README.md)  
-**Dokumen Terkait:**  
-- [01-Reinforcement-Recognition-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/01-Reinforcement-Recognition-Architecture.md)  
-- [03-Recognition-Purpose-and-Dignity.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/08%20Reinforcement%20%26%20Recognition/03-Recognition-Purpose-and-Dignity.md)  
-- [02 Tiered Support / 02-Tier-1-Universal-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/02-Tier-1-Universal-Support.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Keadilan bukanlah memberi ukuran baju yang sama untuk semua anak, melainkan memastikan setiap anak mendapatkan pakaian yang pas dengan ukuran tubuhnya."**  
 > Di pesantren, ada santri yang dianugerahi daya ingat tajam sehingga mudah menghafal Al-Qur'an; namun ada pula santri yang berjuang mati-matian melawan rasa kantuk hanya untuk menghafal satu baris ayat. Jika apresiasi lembaga hanya diberikan kepada mereka yang berotak cemerlang dan bersuara merdu di mimbar, kita sedang memperkuat kezaliman struktural dan memadamkan harapan santri-santri yang berjuang dalam kesunyian.
 

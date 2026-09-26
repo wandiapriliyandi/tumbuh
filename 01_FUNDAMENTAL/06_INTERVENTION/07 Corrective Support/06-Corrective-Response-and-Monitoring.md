@@ -1,17 +1,5 @@
 # Respons Korektif dan Pemantauan (Corrective Response and Monitoring)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 07 Corrective Support / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md)  
-**Dokumen Terkait:**  
-- [01-Corrective-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)  
-- [05-Corrective-Intensity-and-Proportionality.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/05-Corrective-Intensity-and-Proportionality.md)  
-- [07-Corrective-Review-and-Exit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/07-Corrective-Review-and-Exit.md)  
-- [06 Monitoring / 01-Monitoring-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/05_ASSESSMENT/06%20Monitoring/01-Monitoring-Architecture.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Tindakan koreksi yang tidak dipantau ibarat menabur benih lalu ditinggalkan begitu saja; kita tidak akan pernah tahu apakah benih itu tumbuh subur atau mati kekeringan."**  
 > Menjatuhkan sanksi atau bimbingan koreksi bukanlah akhir dari tugas musyrif, melainkan awal dari proses pemantauan yang penuh perhatian. Kita perlu melihat bagaimana santri merespons: apakah ia menerima dengan lapang dada dan belajar memperbaiki diri, ataukah ia memendam rasa sakit hati dan pura-pura patuh di hadapan kita semata. Pemantauan yang beradab membedakan kepatuhan lahiriah dari kesadaran batiniah.
 

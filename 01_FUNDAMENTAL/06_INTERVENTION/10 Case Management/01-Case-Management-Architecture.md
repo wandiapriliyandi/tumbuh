@@ -1,17 +1,5 @@
 # Arsitektur Manajemen Kasus Khusus (Case Management Architecture)
 
-**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
-**Epistemic Status:** Conceptually Specified; Empirically Provisional  
-**Tautan Induk:** [06_INTERVENTION / 10 Case Management / README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/README.md)  
-**Dokumen Terkait:**  
-- [01 Principles & Ethics / 01-Intervention-Principles-and-Ethics.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20%26%20Ethics/01-Intervention-Principles-and-Ethics.md)  
-- [02 Tiered Support / 05-Tier-3-Intensive-Support.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/05-Tier-3-Intensive-Support.md)  
-- [09 Recovery & Reintegration / 01-Recovery-Reintegration-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20%26%20Reintegration/01-Recovery-Reintegration-Architecture.md)  
-- [10 Case Management / 05-Roles-Communication-and-Consent.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/05-Roles-Communication-and-Consent.md)
-
----
-
-> ### Intisari untuk Pendidik & Musyrif
 > **"Ketika sebuah beban terlalu berat untuk dipikul oleh satu musyrif, satukanlah barisan para pendidik dalam satu tali koordinasi yang kokoh demi menyelamatkan satu jiwa santri."**  
 > Di lingkungan pesantren, terkadang kita menghadapi santri dengan pergulatan hidup yang sangat rumit: trauma masa lalu, konflik keluarga di rumah, penurunan drastis motivasi belajar, hingga krisis emosional berat. Situasi ini tidak boleh ditangani sendirian oleh musyrif kamar. *Case Management* adalah orkestrasi kasih sayang profesional: menyatukan langkah musyrif, guru BK, wali kelas, pimpinan pondok, orang tua, dan tenaga ahli luar agar penanganannya terpadu, tidak tumpang tindih, dan menjaga kehormatan santri seutuhnya.
 
