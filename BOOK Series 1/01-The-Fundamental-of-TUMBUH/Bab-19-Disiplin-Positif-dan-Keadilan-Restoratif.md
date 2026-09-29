@@ -149,6 +149,90 @@ Musyrif, para asatidz, dan teman-teman sekamar menyambutnya kembali dengan jabat
 
 ---
 
+### 19.4 Skrip Dialog Fasilitator Lingkaran Restoratif: Kasus Wildan dan Rafi
+
+Agar para musyrif dan konselor memiliki gambaran nyata bagaimana memandu Lingkaran Restoratif tanpa canggung, perhatikan transkrip dialog lapangan berikut:
+
+* **Latar Kasus**: Ba'da ashar, terjadi perkelahian fisik di Kamar Al-Farabi. Wildan (14 tahun) meninju bahu Rafi (14 tahun) hingga terjatuh karena menuduh Rafi merusak ritsleting tas ranselnya saat meminjamnya tanpa izin. Keduanya dipisahkan dan diberi waktu jeda 30 menit untuk stabilisasi emosi.
+* **Waktu Sidang Lingkaran**: Ba'da Isya, dipandu oleh Ustadz Hilman (Musyrif Kamar), dihadiri Wildan, Rafi, dan empat teman sekamarnya.
+
+```text
+               TRANSKRIP LINGKARAN RESTORATIF KAMAR AL-FARABI
+┌────────────────────────────────────────────────────────────────────────┐
+│ USTADZ HILMAN (Memegang Tasbih Kayu / Tongkat Bicara):                 │
+│ "Bismillah walhamdulillah. Malam ini Kamar Al-Farabi berkumpul bukan   │
+│ untuk menghakimi atau mencari siapa yang paling hebat. Kita berkumpul  │
+│ karena kita saling mencintai karena Allah dan ingin memulihkan luka di │
+│ antara kita. Saya serahkan tasbih ini kepada Wildan. Wildan, ceritakan │
+│ apa yang sebenarnya terjadi dari sudut pandangmu tadi sore?"           │
+├────────────────────────────────────────────────────────────────────────┤
+│ WILDAN (Menerima tasbih, menunduk, napas berat):                       │
+│ "Tadi sore saya mau mengambil ransel saya di lemari. Pas saya lihat,    │
+│ ritsleting utamanya sudah jebol robek. Saya tahu Rafi kemarin pinjam   │
+│ tas itu tanpa izin pas saya tidur. Saya langsung emosi, dada saya panas│
+│ karena tas itu dibeliin ayah saya sebelum berangkat. Saya hilang kendali│
+│ dan mendorong Rafi sampai tersungkur."                                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ USTADZ HILMAN:                                                         │
+│ "Terima kasih Wildan atas kejujuranmu. Apa yang kamu rasakan saat ini?"│
+├────────────────────────────────────────────────────────────────────────┤
+│ WILDAN:                                                                │
+│ "Saya merasa bersalah karena telah memukul saudara saya sendiri di     │
+│ kamar ini... Dada saya masih sesak..."                                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ USTADZ HILMAN:                                                         │
+│ "Baik. Sekarang tasbih ini saya serahkan kepada Rafi. Rafi, bagaimana  │
+│ perasaanmu saat Wildan memukulmu dan saat melihat tas itu rusak?"      │
+├────────────────────────────────────────────────────────────────────────┤
+│ RAFI (Menerima tasbih, mata berkaca-kaca):                             │
+│ "Saya mengaku salah, Ustadz. Kemarin saya pinjam tas Wildan tergesa-   │
+│ gesa karena tas saya basah. Pas saya tarik, ritsletingnya macet dan    │
+│ malah robek. Saya takut sekali mau jujur ke Wildan, makanya saya diam- │
+│ diam menaruhnya kembali. Pas Wildan memukul bahu saya, saya sangat     │
+│ kaget dan sakit... tapi saya sadar ini semua gara-gara saya tidak amanah│
+│ meminjam barang orang lain."                                           │
+├────────────────────────────────────────────────────────────────────────┤
+│ USTADZ HILMAN (Mengajukan Pertanyaan Kunci ke Seluruh Lingkaran):       │
+│ "Duhai kawan-kawan sekamar, siapa saja yang terluka dan merasa tidak   │
+│ nyaman akibat perkelahian tadi sore? Dan apa langkah nyata yang bisa   │
+│ kita sepakati bersama agar kamar kita kembali damai dan ransel Wildan   │
+│ kembali berfungsi?"                                                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ RAFI:                                                                  │
+│ "Saya punya tabungan uang saku 50 ribu, Ustadz. Besok sore izin saya   │
+│ bawa tas Wildan ke tukang jahit tas di seberang gerbang pondok untuk   │
+│ diperbaiki sampai seperti semula dengan biaya saya. Dan saya memohon   │
+│ maaf sedalam-dalamnya kepada Wildan atas kelancangan saya."            │
+├────────────────────────────────────────────────────────────────────────┤
+│ WILDAN (Menatap Rafi dengan mata berkaca-kaca, menerima uluran tangan):│
+│ "Saya juga minta maaf sebesar-besarnya, Fi. Saya salah melayangkan     │
+│ pukulan. Saya terima permohonan maaf antum."                           │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Perhatikan hasil lingkaran ini: konflik diselesaikan hingga ke akar batiniahnya. Hubungan ukhuwah pulih, restitusi materi terlaksana, dan tidak ada setetes pun dendam yang tersisa di hati kedua anak.
+
+---
+
+### 19.5 Matriks Konsekuensi Logis vs Hukuman Retributif Arbitrer
+
+Agar tidak ada keraguan bagi musyrif dalam membedakan konsekuensi logis restoratif dengan sanksi fisik yang merusak, tabel berikut menyajikan sepuluh komparasi kasus riil di pesantren:
+
+| No | Jenis Pelanggaran Asrama | Hukuman Retributif Lama (Dilarang Mutlak) | Konsekuensi Logis Restoratif TUMBUH |
+| :---: | :--- | :--- | :--- |
+| **1** | **Ghashab Sandal Kawan** | Dikalungi sandal di leher dan diarak keliling pondok. | Membeli rak sandal tambahan atau merapikan seluruh sandal di depan masjid selama 3 hari. |
+| **2** | **Menumpahkan Makanan di Lantai** | Dipukul tangannya dengan penggaris dan dibentak. | Mengambil kain pel dan ember, membersihkan tumpahan hingga wangi dan kering. |
+| **3** | **Terlambat Masuk Kelas Madrasah** | Berdiri dengan satu kaki di depan kelas sepanjang jam pelajaran. | Menulis resume materi pelajaran yang tertinggal dan menyetorkannya ke guru pengampu. |
+| **4** | **Mencoret-coret Meja Belajar** | Push-up 50 kali di depan teman-temannya. | Mengampelas dan memplitur ulang meja yang dicoret hingga kembali bersih dan mulus. |
+| **5** | **Bergadang Mengobrol Lewat Jam Malam**| Disiram air got dingin atau dijemur saat subuh. | Jam tidur dimajukan lebih awal 30 menit (pukul 21.00) selama 3 hari untuk merestorasi ritme tidur. |
+| **6** | **Menggunakan Kata Kotor / Ujaran Kasar** | Mulut dicabe atau disuruh berdiri mengunyah tembakau. | Menulis 10 kalimat apresiasi santun untuk 10 kawan sekamar dan membacanya di lingkaran kamar. |
+| **7** | **Merusak Buku Perpustakaan Pondok** | Skorsing kepulangan satu pekan ke rumah. | Memperbaiki jilid buku yang rusak atau menggantinya dengan edisi baru yang serupa. |
+| **8** | **Membolos Sesi Halaqah Tahfidz** | Berdiri memegang Al-Qur'an di bawah terik matahari. | Sesi muraja'ah privat empat mata bersama musyrif tahfidz di waktu qailulah untuk menutup target. |
+| **9** | **Menyerobot Antrean Makan Siang** | Tidak diberi jatah makan siang (kelaparan biologis). | Membantu petugas dapur menyajikan makanan dan berada di giliran antrean paling belakang. |
+| **10**| **Mengejek / Merundung Fisik Kawan** | Dicukur botak separuh kepala untuk mempermalukannya. | Fasilitasi Lingkaran Restoratif, meminta maaf secara ksatria, dan mendampingi korban belajar sepekan. |
+
+---
+
 ### Rangkuman Intisari Bab 19
 
 1. **Pergeseran Paradigma Keadilan:** Menggantikan Keadilan Retributif (yang fokus pada sanksi rasa sakit fisik dan pembuktian dosa) dengan Keadilan Restoratif berbasis syariat *Ishlah al-Bain* (yang fokus pada perbaikan luka, pemulihan hubungan, dan pertanggungjawaban nyata).
@@ -159,3 +243,13 @@ Musyrif, para asatidz, dan teman-teman sekamar menyambutnya kembali dengan jabat
 3. **Protokol Lingkaran Restoratif (Restorative Circles):** Praktik mediasi melingkar tanpa meja pembatas, menggunakan tongkat bicara (*talking piece*), keheningan mendengar, dan dipandu oleh lima pertanyaan restoratif penggugah kesadaran kalbu dan empati.
 4. **Eliminasi Total Sanksi Mempermalukan Publik:** Mengharamkan tradisi gundul paksa, kalung papan hinaan, isolasi sosial, atau ekspos aib yang merusak sistem saraf dan memicu dendam batin.
 5. **Protokol Reintegrasi Bermartabat:** Menegakkan prinsip penutupan aib (*satrul 'aurah*), menyambut kembalinya santri dengan majelis ishlah yang hangat, serta memberikan lembaran baru yang bersih tanpa prasangka dan tanpa stigma masa lalu.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Asy-Syura [42]: 40.
+[^2]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 10.
+[^3]: Howard Zehr, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002), hlm. 12–38; John Braithwaite, *Crime, Shame and Reintegration* (Cambridge: Cambridge University Press, 1989), hlm. 54–83 mengenai perbedaan mendasar antara *stigmatizing shaming* (yang melahirkan residivisme) dan *reintegrative shaming* (yang memulihkan ikatan sosial).
+[^4]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah* (Kairo: Dar al-Hadits, 2004), hlm. 165–182 mengenai hak-hak ukhuwah dan tata cara mendamaikan perselisihan antarsaudara.
+[^5]: Jane Nelsen, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 68–95 mengenai perbedaan hukuman (*punishment*) dan konsekuensi logis (*logical consequences*).

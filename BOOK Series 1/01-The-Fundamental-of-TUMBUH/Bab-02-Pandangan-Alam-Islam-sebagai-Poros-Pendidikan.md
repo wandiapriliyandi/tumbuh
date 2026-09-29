@@ -281,6 +281,52 @@ graph LR
 
 Ketika kelima pilar Maqashid Syari'ah ini tegak berdiri di seluruh ruang asrama, pesantren akan menjelma menjadi **Bi'ah Shalihah (Ekosistem Peradaban yang Suci)**—tempat di mana setiap anak manusia merasa aman, dimuliakan martabatnya, dan dituntun menuju derajat ketaqwaan yang hakiki.
 
+---
+
+### 2.7 Rekonseptualisasi Adab: Keadilan Menempatkan Segala Sesuatu pada Kedudukannya
+
+Prof. Dr. Syed Muhammad Naquib al-Attas merumuskan definisi adab yang melampaui sekadar tata krama lahiriah atau etiket sosial permukaan:
+> *"Adab adalah pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud ciptaan Allah tersusun secara hierarkis sesuai tingkat keluhuran dan derajat nilainya, serta pengakuan terhadap kedudukan diri sendiri yang tepat dalam tata susunan wujud tersebut, yang diwujudkan dalam tindakan adil terhadap diri sendiri dan semesta."*[^1]
+
+Ketiadaan adab (*the loss of adab*) selalu bermula dari **Kezaliman (*Azh-Zhulm*)**, yang secara etimologis bermakna: *wad'u syai-in fi ghairi maudhi'ihi* (meletakkan sesuatu bukan pada tempatnya yang hak).
+
+Ketika konsep adab diturunkan ke lantai asrama pesantren 24 jam, kezaliman terjadi manakala:
+1. **Pendidik meletakkan hawa nafsunya di atas syariat**: Menghukum santri karena dorongan dendam atau kemarahan pribadi, namun membungkusnya dengan label "mendidik adab".
+2. **Lembaga meletakkan efisiensi formalitas di atas keselamatan santri**: Mengabaikan fasilitas sanitasi dan jatah istirahat tidur demi mengejar target hafalan yang mentereng di brosur promosi.
+3. **Santri meletakkan egonya di atas persaudaraan**: Mengambil hak saudaranya (*ghashab*), merundung adik kelas demi legitimasi kekuasaan, atau merusak sarana bersama.
+
+Oleh karena itu, menegakkan adab di pesantren bukanlah sekadar melatih santri membungkukkan badan saat berpapasan dengan kyai. Menegakkan adab bermakna **merestorasi tata keadilan Ilahi di seluruh sudut kehidupan**:
+* Memuliakan guru karena keilmuan dan ketakwaannya;
+* Menyayangi santri karena kemuliaan fitrah dan amanah pertumbuhannya;
+* Merawat fasilitas asrama karena kesadaran amanah lingkungan (*'imaratul ardh*);
+* Menghormati waktu istirahat dan sunnatullah tubuh jasmani sebagai bentuk takwa kepada Dzat Yang Maha Menciptakan raga.
+
+---
+
+### 2.8 Manifestasi Pandangan Alam dalam 24 Jam Kehidupan Santri
+
+Bagaimanakah pandangan alam Islam mewujud dalam irama kehidupan konkret santri dari fajar hingga fajar berikutnya? Perhatikan matriks integrasi nilai tauhid ke dalam dua belas siklus rutinitas 24 jam di bawah ini:
+
+| Waktu / Siklus Harian | Aktivitas Nyata Santri | Asumsi Sekuler-Mekanistik (Lama) | Manifestasi Worldview Tauhid TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **03.30 – 04.30** | Bangun Sahur / Qiyam / Fajar | Paksaan fisik dengan teriakan dan gedoran seng; santri bangun dalam keadaan terteror. | Panggilan cinta menyambut rahmat Allah; musyrif membangunkan dengan sentuhan lembut dan doa fajar. |
+| **04.30 – 05.30** | Salat Subuh & Tilawah Fajar | Kewajiban absensi baris saf; terlambat dipukul atau dicukur gundul. | *Hablum Minallah*: Mengokohkan tauhid fajar; penanaman kesadaran hadirnya Allah (*Muraqabah*). |
+| **05.30 – 06.30** | Piket Kebersihan Bilik & Mandi | Beban hukuman kotor; santri berebut kran air dan melakukan ghashab gayung. | *Hifzh al-Mal & Thaharah*: Merawat kebersihan sebagai cabang iman; antre beradab menghormati hak sesama. |
+| **06.30 – 07.00** | Sarapan Pagi Bersama | Porsi makanan terbatas; santri berebut makanan dan menyisakan sampah plastik. | *Syukur & Barakah*: Menghayati rezeki halal; adab makan nampan bersama melatih altruisme dan qana'ah. |
+| **07.00 – 12.00** | Pembelajaran Kelas Madrasah | Menghafal demi nilai ujian kognitif; santri pasif mendengarkan ceramah satu arah. | *Al-Khabar ash-Shadiq & 'Aql*: Memadukan wahyu dan nalar demonstratif; santri aktif bertanya dan berdiskusi. |
+| **12.00 – 13.00** | Salat Zhuhur Berjamaah | Formalitas pengawasan musyrif; santri tidur di saf belakang. | Istirahat ruhani tengah hari; revitalisasi fokus batin setelah dialektika intelektual pagi. |
+| **13.00 – 14.00** | Istirahat Siang (*Qailulah*) | Dianggap waktu malas; sebagian pesantren menghapus qailulah demi tambah materi. | *Sunnatullah Biologis*: Mengamalkan sunnah Rasulullah ﷺ untuk merestorasi neuroplastisitas otak. |
+| **14.00 – 15.30** | Halaqah Pendalaman Kitab / Bahasa | Hafalan kaku tanpa pemahaman konteks sosial kontemporer. | Menghubungkan turats salaf dengan realitas modern; melatih kecakapan hidup dan komunikasi asertif. |
+| **15.30 – 17.00** | Salat Ashar & Olahraga Raga | Waktu bebas tak terkontrol; rawan perkelahian dan perundungan di sudut tersembunyi. | *Hifzh an-Nafs*: Menyalurkan lonjakan hormon androgen melalui panahan, futsal, renang, dan silat beradab. |
+| **17.00 – 18.00** | Mandi Bersih & Persiapan Maghrib | Tergesa-gesa; saling serobot pakaian jemuran. | Menata kerapian lahiriah menyambut waktu hening petang; membaca zikir al-Ma'tsurat petang. |
+| **18.00 – 20.00** | Maghrib, Halaqah Tahfidz & Isya | Menyetor hafalan dengan ancaman berdiri; santri cemas dan panik. | Konsolidasi kalamullah dalam suasana khusyuk; guru menyimak dengan cinta dan kesabaran tarbawi. |
+| **20.00 – 21.30** | Muthala'ah Mandiri & Majlis Kamar | Pengawas merazia dengan rotan; kamar tegang dan hening palsu. | *Majlis al-Ghurfah*: Lingkaran kamar evaluasi hari, saling menguatkan, apresiasi 4:1, dan doa malam. |
+| **21.30 – 03.30** | Padam Lampu & Tidur Lelap (6–7 Jam) | Dipotong hingga larut malam atas nama tirakat semu; santri kekurangan tidur kronis. | *Ibadah Tidur Biologis*: Menjaga sistem glimfatik otak bekerja membersihkan racun saraf demi memori abadi. |
+
+Ketika seluruh siklus hidup 24 jam ini dijalankan dengan penuh kesadaran tauhid, santri tidak lagi merasa "sedang dihukum di penjara pondok", melainkan merasa sedang **hidup di dalam sebuah miniatur kota peradaban Nabawiyyah yang damai, suci, dan memberdayakan**.
+
+---
+
 Dengan tuntasnya peletakan fondasi pandangan alam ini, kita kini memiliki kompas normatif yang kokoh. Namun, bagaimana cara kita memperoleh pengetahuan yang valid dan terpercaya mengenai dinamika jiwa santri? Bagaimana cara kita memadukan khazanah kitab-kitab turats salaf dengan temuan-temuan sains perilaku dan psikologi modern? 
 
 Inilah penjelajahan agung yang akan kita bedah bersama dalam **Bagian II: Epistemologi Pendidikan dan Hakikat Jiwa Insan**.

@@ -164,6 +164,52 @@ graph LR
     end
 ```
 
+---
+
+### 9.6 Etika Tata Kelola Data Digital: Privasi Santri dan Hak Pemutihan Rekam Jejak (*Right to be Forgotten*)
+
+Di era digital kontemporer, sebagian pesantren mulai mengadopsi aplikasi manajemen asrama untuk mencatat kehadiran salat, pelanggaran santri, dan evaluasi kepengasuhan. Namun adopsi teknologi ini kerap melahirkan **Kezaliman Digital (*Digital Injustice*)**: data kenakalan santri disimpan tanpa enkripsi, disebarkan secara sembarangan di grup pengurus, atau tersimpan abadi di server hingga bertahun-tahun setelah santri lulus.
+
+TUMBUH memberlakukan standar etika tata kelola data santri yang sangat ketat:
+
+```mermaid
+graph TD
+    subgraph DUA_PILAR_DATA_TUMBUH["Tata Kelola Data Perlindungan Santri TUMBUH"]
+        direction TB
+        P1["1. HAK PRIVASI & AKSES BERJENJANG (TIERED DATA ACCESS)<br/>Data Pelanggaran HANYA Boleh Diakses Musyrif Terkait & Konselor BK Resmi.<br/>Pengurus Santri Senior DILARANG Mengakses Rekam Medis & Batin Santri."]
+        P2["2. HAK PEMUTIHAN CATATAN (RIGHT TO BE FORGOTTEN)<br/>Setelah Proses Restorasi Tuntas & 6 Bulan Berperilaku Baik,<br/>Catatan Pelanggaran Lama DITUTUP & DIARSIPKAN PERMANEN."]
+    end
+```
+
+#### Hak Pemutihan Rekam Jejak Pasca-Restitusi
+Dalam Islam, seorang hamba yang telah bertaubat dari dosanya diibaratkan laksana orang yang tidak memiliki dosa sama sekali (*at-ta'ibu minadz-dzanbi kaman la dzanba lahu*). Maka secara moral institusional, **haram bagi pesantren menyimpan riwayat hitam santri sebagai berkas terbuka yang dapat diungkit-ungkit di masa depan**.
+
+Jika seorang santri pernah melakukan pelanggaran adab di kelas tujuh (misalnya merokok), lalu ia telah menjalani proses bimbingan FBA, menuntaskan restitusi perbaikan lingkungan, dan menunjukkan istiqamah adab selama enam bulan berikutnya, maka:
+* Sistem logbook kepengasuhan memberikan **status pemulihan penuh (*fully restored status*)**.
+* Catatan detail insiden masa lalu dikunci ke dalam brankas arsip tertutup (*sealed record*) dan tidak boleh dimunculkan kembali dalam rapat pengasuhan mana pun.
+* Santri berhak mencalonkan diri dalam struktur kepemimpinan santri (J4) tanpa ada diskriminasi masa lalu.
+
+---
+
+### 9.7 Protokol Darurat Penanganan Kasus Moral Ekstrem dan Kejahatan Berat
+
+Apabila di lingkungan asrama terjadi insiden luar biasa—seperti dugaan pelecehan seksual, kekerasan fisik yang menimbulkan cedera medis, atau perundungan brutal—para musyrif dilarang keras bertindak sendiri atau berusaha menyelesaikan secara kekeluargaan sempit di pojok asrama.
+
+Manajemen krisis TUMBUH menetapkan **Lima Langkah Darurat (*The Five Immediate Crisis Protocols*)**:
+
+1. **Pengamanan dan Perlindungan Korban Utama (*Victim Protection First*)**:  
+   Tindakan pertama dalam hitungan detik adalah memisahkan korban ke ruang aman (klinik atau rumah pendamping ramah anak). Korban didampingi oleh tenaga medis dan konselor perempuan (jika santriwati) atau konselor laki-laki (jika santriwan) yang berempati. Fokus utama adalah keselamatan raga dan stabilitas emosional korban.
+2. **Pengamanan Saksi dan Tempat Kejadian (*Evidence Preservation*)**:  
+   Mengamankan lokasi kejadian tanpa merusak bukti fisik. Saksi-saksi dimintai keterangan terpisah secara tertutup tanpa saling mempengaruhi.
+3. **Pelaporan Segera ke Satgas Safeguarding Independen Pesantren**:  
+   Dalam tempo maksimal 1 x 24 jam, kasus wajib dilaporkan kepada Komite Etik & Perlindungan Santri independen. Pihak manajemen dilarang mengaburkan fakta demi menjaga nama baik yayasan.
+4. **Pemberitahuan Transparan dan Pendampingan Orang Tua Kandung**:  
+   Orang tua korban dihubungi secara hormat, diundang ke pesantren dalam pertemuan tertutup penuh empati, dan diberikan penjelasan jujur mengenai langkah-langkah medis dan psikologis yang sedang diambil oleh lembaga.
+5. **Kepatuhan pada Koridor Hukum Positif dan Rujukan Medis Profesional**:  
+   Jika kasus terindikasi memuat unsur tindak pidana kejahatan berat (kekerasan seksual atau penganiayaan fisik parah), pesantren **wajib memfasilitasi pelaporan resmi kepada pihak penegak hukum yang berwenang** serta bekerja sama dengan lembaga perlindungan anak negara, tanpa menutup-nutupi kesalahan pelaku demi tegaknya keadilan syariat yang mutlak.
+
+---
+
 Dengan menegakkan tata kelola epistemik yang bersih, menjaga kehormatan aib santri, dan memancangkan akuntabilitas kelembagaan yang kokoh, pesantren telah menegakkan benteng integritasnya secara sempurna.
 
 Kini, seluruh fondasi filosofis (Bagian I), epistemologis (Bagian II), pedagogis (Bagian III), dan integritas etika (Bagian IV) telah berdiri tegak dan kokoh. 

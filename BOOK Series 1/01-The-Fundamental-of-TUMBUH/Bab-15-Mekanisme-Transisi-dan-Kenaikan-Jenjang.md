@@ -134,6 +134,41 @@ Untuk merekatkan ukhuwah islamiyah dan mengubur sekat kasta, sistem TUMBUH mende
 
 ---
 
+### 15.3 Prosedur Operasional Baku (SOP) Sidang Dewan Transisi (Gateway Council)
+
+Sidang Dewan Transisi (*Gateway Council*) adalah mahkamah pedagogis yang menentukan apakah seorang santri telah siap melangkah ke jenjang kemandirian berikutnya. Agar proses ini berjalan secara adil, transparan, dan bebas dari sentimen pribadi musyrif, sidang diselenggarakan melalui **Lima Tahap Terstruktur**:
+
+```mermaid
+graph TD
+    subgraph SIKLUS_SIDANG_GATEWAY["Alur 5 Tahap Sidang Dewan Transisi"]
+        direction TB
+        S1["TAHAP 1: PEMERIKSAAN BERKAS PORTOFOLIO MULTISUMBER<br/>Audit Logbook Musyrif 12 Pekan, Rekam Kehadiran & Masukan Tertutup Sebaya"]
+        S2["TAHAP 2: SIDANG PLENO DEWAN PENGASUHAN TANPA SANTRI<br/>Musyawarah Musyrif, Guru Madrasah & Tim BK Membedah Konsistensi Kapasitas"]
+        S3["TAHAP 3: WAWANCARA DIALOGIS REFLEKTIF BERSAMA SANTRI<br/>Santri Mempresentasikan Jurnal Muhasabah & Menjawab Pertanyaan Hikmah"]
+        S4["TAHAP 4: PENETAPAN STATUS TRANSIFIKASI RESMI<br/>Promosi Penuh / Promosi Bersyarat 30 Hari / Dukungan Konsolidasi"]
+        S5["TAHAP 5: PENYAMPAIAN HASIL KEPADA SANTRI & WALI SANTRI<br/>Pemberian Apresiasi Tertulis & Penandatanganan Akad Amanah Baru"]
+        
+        S1 --> S2 --> S3 --> S4 --> S5
+    end
+```
+
+Format Keputusan Dewan Transisi dituangkan dalam dokumen resmi **Berita Acara Kenaikan Jenjang Kemandirian (BAKJK)** yang mencantumkan skor triangulasi 8 Core Capacities serta rekomendasi area pertumbuhan yang masih perlu diperkuat di jenjang baru.
+
+---
+
+### 15.4 Ritus Simbolik Khidmah: Membasuh Telapak Kaki Adik Asuh
+
+Puncak dari upacara pengukuhan Jenjang J4 adalah tradisi sakral yang bertujuan memusnahkan benih arogansi senioritas hingga ke akar-akarnya: **Ritus Khidmah Pembasuhan Kaki Adik Asuh (*Ghaslul Arjul wal-Khidmah*)**.
+
+Di pelataran masjid pesantren, bakda salat subuh berjamaah di hadapan seluruh santri dan asatidz:
+1. Para santri kelas tujuh (J1) yang baru beberapa bulan tinggal di pondok duduk bersila di atas tikar pandan.
+2. Para santri senior kelas dua belas yang baru saja dikukuhkan sebagai Jenjang J4 melangkah ke depan, membawa baskom tembaga berisi air hangat yang diberi wewangian mawar dan daun bidara.
+3. Di hadapan ratusan pasang mata yang hening membeku, para santri senior tersebut berlutut, menundukkan kepalanya, lalu **dengan kedua tangan mereka sendiri membasuh telapak kaki adik-adik kelas mereka**, membersihkannya dengan handuk bersih, lalu memeluknya seraya berbisik: *"Duhai adikku, kami adalah pelayan kalian. Jika kami bersikap zalim, ingatkanlah kami; dan jika kalian lelah, bersandarlah di pundak kami demi Allah."*
+
+Tangisan haru selalu pecah di seluruh penjuru masjid setiap kali ritus ini berlangsung. Air mata yang tumpah menyapu seluruh bibit dendam dan feodalisme di asrama. Adik-adik kelas belajar arti cinta dan penghormatan tanpa rasa takut; sementara para senior belajar arti kepemimpinan profetik yang sesungguhnya: bahwa semakin tinggi derajat seseorang di sisi Allah, semakin rendah hatinya dalam melayani hamba-hamba-Nya.
+
+---
+
 ### Rangkuman Intisari Bab 15
 
 1. **Paradigma Kenaikan Berbasis Bukti:** Transisi jenjang kemandirian (J1–J4) tidak ditentukan oleh usia kalender atau kelas madrasah (*time-served*), melainkan melalui pembuktian kapasitas adab yang teruji secara stabil (*gateway review*).

@@ -149,6 +149,43 @@ Dengan kejelasan batas arsitektural ini, ekosistem pembinaan pesantren TUMBUH be
 
 ---
 
+### 14.4 Matriks Komparasi 8 Kapasitas Inti: Manifestasi J3 (Mandiri) vs J4 (Teladan Penggerak)
+
+Untuk memberikan panduan konkret bagi para evaluator dan asatidz, tabel di bawah ini membedah lompatan kapasitas dari Jenjang J3 menuju Jenjang J4 pada delapan dimensi kapasitas fitrah:
+
+| Kapasitas Inti | Manifestasi pada Jenjang J3 (Mandiri Berkesadaran) | Manifestasi pada Jenjang J4 (Teladan Penggerak) |
+| :--- | :--- | :--- |
+| **CC-01: Regulasi Diri** | Mampu mengendalikan emosi dan nafsu kemalasan secara mandiri tanpa diawasi musyrif. | Mampu meregulasi atmosfer emosi kelompok dan membantu kawan yang sedang labil menenangkan diri (*co-regulation*). |
+| **CC-02: Komunikasi Beradab** | Bertutur kata santun (*qaulan sadida*), tidak berkata kotor, dan menjauhi ghibah di kamar. | Mampu berbicara persuasif di depan publik, memediasi konflik antar-kelompok, dan memberi masukan empatik. |
+| **CC-03: Nalar Kritis** | Mampu memecahkan masalah belajarnya sendiri dan kritis menyaring informasi hoaks. | Mampu merancang strategi organisasi santri, mengevaluasi efektivitas program, dan memetakan solusi maslahat. |
+| **CC-04: Ibadah & Muraqabah** | Menjaga salat berjamaah tepat waktu dan tilawah Al-Qur'an secara swakarsa di kala sepi. | Memancarkan wibawa kesalehan yang menggerakkan kawan sekamar beribadah, menjadi imam salat, dan teladan zikir. |
+| **CC-05: Kebugaran Jasmani** | Disiplin menjaga kebersihan pakaian dan kamar, serta menjaga ritme tidur sehat 7 jam. | Memelopori gerakan hidup sehat dan kebersihan asrama massal; merawat fasilitas bersama tanpa pamrih. |
+| **CC-06: Kejujuran & Amanah** | Menolak ghashab, mengakui kekhilafan secara ksatria, dan mengembalikan barang temuan. | Memegang amanah keuangan organisasi santri dengan akuntabilitas tinggi; menjadi rujukan integritas pondok. |
+| **CC-07: Empati & Khidmah** | Peka terhadap perasaan kawan sekamar dan bersedia membantu kawan yang sedang kesulitan. | Mengamalkan *Sayyidul Qaumi Khadimuhum*: menjadi kakak asuh santri J1, melayani kebutuhan umat, dan mengayomi adik kelas. |
+| **CC-08: Muhasabah Kalbu** | Rutin melakukan muhasabah batin harian dan segera bertaubat saat menyadari kekhilafan. | Memandu sesi evaluasi reflektif adik asuh, terbuka terhadap kritik, dan senantiasa tawadhu' di tengah pujian. |
+
+---
+
+### 14.5 Studi Kasus Kepemimpinan Servant Leadership J4: Kisah Santri Affan
+
+Untuk melihat bagaimana teori ini bernyawa di lantai asrama, mari kita simak peristiwa riil pembinaan di asrama putra:
+
+Di Kamar Ibnu Rusyd (kamar yang dihuni sepuluh santri baru kelas tujuh Jenjang J1), terjadi krisis adaptasi yang parah pada pekan ketiga tahun ajaran baru. Empat santri menangis setiap malam karena rindu rumah, pakaian kotor menumpuk di pojok bilik, dan dua santri saling melempar gayung saat berebut giliran mandi. 
+
+Musyrif asrama memanggil santri Affan (santri kelas dua belas, Jenjang J4 yang menjabat sebagai salah satu koordinator asrama).
+
+Bagaimana Affan menyikapi situasi tersebut?
+* **Bukan dengan Teriakan Otoriter**: Affan tidak masuk kamar dengan menendang pintu atau membentak adik-adik kelasnya: *"Kalian ini santri baru tidak tahu diuntung, bikin malu asrama saja!"*
+* **Langkah Servant Leadership Affan**:
+  1. Affan membawa sebungkus kurma dan beberapa botol air dingin ke kamar tersebut bakda isya. Ia duduk bersila di tengah karpet bersama anak-anak kelas tujuh tersebut.
+  2. Affan membuka percakapan dengan mendengarkan: *"Adik-adikku, lima tahun yang lalu, Abang Affan juga menangis tersedu-sedu di kamar ini persis seperti kalian. Abang rindu masakan ibu, rindu kamar sendiri di rumah. Menangis itu manusiawi dan bukan aib. Mari kita hadapi bersama."* Saraf anak-anak J1 tersebut seketika merasa aman (*down-regulated*).
+  3. Keesokan paginya saat fajar, Affan bangun tiga puluh menit lebih awal. Ia berdiri di depan pintu kamar mandi Kamar Ibnu Rusyd, membantu mengatur nomor antrean mandi dengan senyuman, lalu menyingsingkan lengan bajunya **membantu santri yang menangis mencuci tumpukan bajunya yang berlumut sabun di ember cuci**.
+  4. Melihat seorang santri senior yang paling dihormati di pondok bersedia mencelupkan tangannya ke dalam air cucian pakaian mereka, rasa malu dan takzim anak-anak J1 membuncah di dalam dada.
+
+Dalam waktu dua pekan, Kamar Ibnu Rusyd bermutasi menjadi kamar paling tertib dan rukun. Transformasi itu tidak diraih dengan rotan atau bentakan pelonco, melainkan dengan air mata keikhlasan dan keteladanan seorang pelayan sejati (*Khadimul Ummah*).
+
+---
+
 ### Rangkuman Intisari Bab 14
 
 1. **Evolusi Karakter pada J3:** Jenjang J3 (*Independent Functioning*) menandai transformasi dari kepatuhan eksternal menuju *internal locus of control* dan internalisasi adab sebagai watak membatin (*malakah*). Ujian keaslian santri J3 adalah konsistensi *muraqabatullah* di kala sendiri (*al-khalwah*), kemampuan manajemen waktu swakarsa, dan inisiatif mendamaikan perselisihan antarteman sekamar.

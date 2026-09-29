@@ -212,6 +212,56 @@ graph LR
 
 Ketika seorang musyrif melatih santri dalam **CC-1 (Regulasi Diri)** dan **CC-7 (Agensi Sadar)**, pada hakikatnya musyrif tersebut sedang menumbuhkan profil **Mujahidun Linafsihi** dan **Nafi'un Lighairihi**. Ketika musyrif melatih santri dalam **CC-3 (Komunikasi Beradab)** dan **CC-4 (Kerja Sama Ukhuwah)**, musyrif tersebut sedang mengukir profil **Matinul Khuluq** ke dalam kalbunya.
 
+---
+
+### 10.6 Matriks Pemetaan Silang: 10 Profil Lulusan vs 8 Core Capacities
+
+Agar para pendidik dan perancang kurikulum pesantren dapat menelusuri korelasi fungsional antara profil lulusan ideal dan kapasitas perilaku harian, perhatikan matriks keterkaitan silang (*cross-mapping matrix*) berikut:
+
+| No | 10 Profil Lulusan Insan Rusyd | Kapasitas Inti Primer (*Primary CC*) | Kapasitas Inti Pendukung (*Supporting CC*) | Bukti Konkret di Lantai Asrama 24 Jam |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Salimul 'Aqidah** (Akidah Lurus) | **CC-2** (Penalaran Kritis) | **CC-1** (Regulasi Diri) | Menolak takhayul, mistisisme syirik, dan hanya takut serta berharap kepada Allah. |
+| **2** | **Shahihul 'Ibadah** (Ibadah Benar) | **CC-1** (Regulasi Diri) | **CC-5** (Keberfungsian Fisik) | Thaharah sempurna dari najis; salat khusyuk tepat waktu di saf awal. |
+| **3** | **Matinul Khuluq** (Akhlak Kokoh) | **CC-3** (Komunikasi Beradab) | **CC-6** (Empati Sosial) | Tutur kata santun (*qaulan karima*), jujur, menepati janji, dan anti-ghashab. |
+| **4** | **Qowiyyul Jism** (Fisik Bugar) | **CC-5** (Keberfungsian Fisik) | **CC-1** (Regulasi Diri) | Disiplin tidur 7 jam, olahraga teratur, menjaga kebersihan diri dan kamar. |
+| **5** | **Mutsaqqoful Fikr** (Wawasan Luas) | **CC-2** (Penalaran Kritis) | **CC-8** (Pemecahan Masalah) | Menguasai kaidah ilmu turats dan sains modern; memverifikasi kebenaran informasi. |
+| **6** | **Mujahidun Linafsihi** (Kuat Menahan Nafsu)| **CC-1** (Regulasi Diri) | **CC-7** (Agensi Sadar) | Mampu menahan amarah, sabar saat lapar/lelah, dan bangkit melawan rasa malas. |
+| **7** | **Harishun 'ala Waqtihi** (Disiplin Waktu) | **CC-7** (Agensi Sadar) | **CC-1** (Regulasi Diri) | Hadir sebelum bel berbunyi; memanfaatkan waktu luang untuk membaca/berzikir. |
+| **8** | **Munazzhamun fi Syu'unihi** (Tertib Urusan) | **CC-8** (Pemecahan Masalah) | **CC-4** (Kerja Sama Ukhuwah) | Lemari dan ranjang rapi simetris; buku tersusun teratur; amanah mengelola uang. |
+| **9** | **Qodirun 'alal Kasbi** (Mandiri Terampil) | **CC-8** (Pemecahan Masalah) | **CC-5** (Keberfungsian Fisik) | Mandiri mencuci baju, merawat fasilitas, dan terampil mencari solusi praktis hidup. |
+| **10**| **Nafi'un Lighairihi** (Bermanfaat bagi Umat) | **CC-4** (Kerja Sama Ukhuwah) | **CC-6** (Empati Sosial) | Aktif berkhidmah menolong kawan, memimpin gotong-royong, dan peduli sesama. |
+
+---
+
+### 10.7 Rubrik Perkembangan Empat Tingkat Kemandirian 8 CC (J1–J4)
+
+Bagaimanakah seorang musyrif mengetahui bahwa seorang santri sedang bertumbuh kapasitas intinya? Sistem TUMBUH menyusun rubrik progresi empat tingkat kemandirian:
+
+```text
+               KONTINUUM PROGRESI KEMANDIRIAN 8 CC TUMBUH
+┌────────────────────────────────────────────────────────────────────────┐
+│ LEVEL 1 (J1): DIBIMBING INTENSIF (Perancah Penuh / High Scaffolding)   │
+│ Santri memerlukan instruksi langsung, teladan nyata & pengawasan ketat.│
+├────────────────────────────────────────────────────────────────────────┤
+│ LEVEL 2 (J2): BERLATIH DENGAN PENDAMPINGAN (Coached & Supported)       │
+│ Santri mulai memahami aturan, namun masih sering goyah saat emosi naik.│
+├────────────────────────────────────────────────────────────────────────┤
+│ LEVEL 3 (J3): MANDIRI BERKESADARAN (Internal Locus of Control)         │
+│ Santri mempraktikkan adab secara konsisten atas dorongan batin sendiri.│
+├────────────────────────────────────────────────────────────────────────┤
+│ LEVEL 4 (J4): TELADAN PENGGERAK (Servant Leader & Culture Builder)     │
+│ Santri mampu menginspirasi, membimbing adik kelas & merawat ekosistem. │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+*Contoh Aplikasi pada CC-1 (Regulasi Diri / Pengendalian Amarah):*
+* **J1 (Pemula)**: Saat marah, santri masih cenderung membanting pintu atau menangis kencang; membutuhkan musyrif untuk menenangkan fisiknya dan membimbing wudhu.
+* **J2 (Berlatih)**: Santri mulai mengenali tanda amarahnya, namun terkadang masih melontarkan kata ketus sebelum akhirnya sadar dan beristighfar setelah diingatkan teman.
+* **J3 (Mandiri)**: Saat tersulut emosi, santri secara otonom menarik napas dalam, diam menahan lisan, dan segera mengambil air wudhu tanpa perlu disuruh siapa pun.
+* **J4 (Penggerak)**: Santri tidak hanya mampu mengendalikan dirinya sendiri, tetapi mampu menjadi penengah damai (*mushlih*) yang meredakan pertengkaran dua temannya di kamar dengan kalimat yang menyejukkan.
+
+---
+
 Dengan adanya Model Inti ini, kurikulum karakter pesantren tidak lagi bersifat abstrak. Para pembina asrama kini memiliki kompas operasional yang sangat jernih: setiap teguran, setiap sesi halaqah, dan setiap dinamika kamar mandi memiliki sasaran kapasitas yang jelas untuk ditumbuhkan.
 
 Lalu, di manakah laboratorium tempat seluruh kapasitas ini diuji dan ditempa? Jawabannya adalah di dalam **ekosistem kehidupan asrama 24 jam**.

@@ -162,7 +162,46 @@ Kapasitas jiwa untuk melihat ke dalam dirinya sendiri (*self-reflection*): menya
 
 ---
 
-### 12.4 Dinamika Pelepasan Bantuan Bertahap (Fading Scaffolding)
+### 12.5 Zona Perkembangan Proksimal (ZPD) dalam Khazanah Tarbiyah Asrama
+
+Konsep perkembangan bertahap ini menemukan landasan psikologis modernnya dalam teori **Zona Perkembangan Proksimal (*Zone of Proximal Development / ZPD*)** yang dirumuskan oleh psikolog Lev Vygotsky[^4].
+
+Vygotsky membagi bentang belajar manusia ke dalam tiga zona:
+
+```mermaid
+graph TD
+    subgraph TIGA_ZONA_BELAJAR["Tiga Zona Belajar Santri di Asrama"]
+        direction TB
+        Z1["1. ZONA NYAMAN (COMFORT ZONE)<br/>Tugas Terlalu Mudah • Tidak Ada Pertumbuhan Jiwa • Melahirkan Kebosanan & Apatis"]
+        Z2["2. ZONA PERKEMBANGAN PROKSIMAL (ZPD - SWEET SPOT)<br/>Tugas Berada Sedikit di Atas Kemampuan Mandiri Santri,<br/>Namun Mampu Dikuasai dengan Bantuan Mentor (Scaffolding) • TEMPAT TERJADINYA TUMBUH!"]
+        Z3["3. ZONA PANIK (PANIC / FRUSTRATION ZONE)<br/>Beban Terlalu Berat • Hipokampus & Rem PFC Lumpuh • Melahirkan Depresi & Pemberontakan"]
+        
+        Z1 --> Z2
+        Z2 --> Z3
+    end
+```
+
+Kunci keberhasilan tarbiyah asrama adalah **menjaga santri senantiasa berada di dalam ZPD**:
+* Memberikan tantangan adab yang berada selangkah di depan kapasitas saat ini: santri J1 yang baru bisa bangun pukul 04.30 diberi tantangan bangun pukul 04.15 dengan pendampingan lembut musyrif.
+* Tidak melempar santri ke Zona Panik: tidak menuntut santri baru yang belum lancar membaca Al-Qur'an untuk langsung menyetorkan 1 juz per hari dengan ancaman takzir berdiri di lapangan.
+* Menyeimbangkan secara presisi antara **Tingkat Tantangan (*High Challenge*)** dan **Tingkat Dukungan Kasih Sayang (*High Support*)**. Jika tantangan tinggi tanpa dukungan, santri akan hancur oleh kecemasan; jika dukungan tinggi tanpa tantangan, santri akan manja dan kerdil.
+
+---
+
+### 12.6 Matriks Pemetaan Triangulasi Tiga Lensa Arsitektur TUMBUH
+
+Untuk memberikan kejelasan mutlak bagi seluruh tim akademis dan pengasuhan dalam memetakan posisi santri, tabel komprehensif berikut menyandingkan Lensa 1, Lensa 2, dan Lensa 3 secara integratif:
+
+| Jenjang Asrama (Lensa 3) | Target Lensa 1 (Tingkat Adab & Peran Jiwa) | Target Lensa 2 (Tingkat Kapasitas Fungsional 8 CC) | Peran Dominan Musyrif Lapangan | Indikator Kunci Kelulusan Jenjang |
+| :---: | :--- | :--- | :--- | :--- |
+| **J1: Pemula** | **Tingkat 1 s/d 3**:<br/>*Tahu $\rightarrow$ Paham $\rightarrow$ Sadar* | **Level 1 (Pemula)**:<br/>Memerlukan perancah penuh dan contoh langsung. | *Perawat & Pelindung Melekat* (Rasio dukungan 80%) | Tuntas masa kritis adaptasi 90 hari; bebas homesickness akut; mampu merapikan loker mandiri. |
+| **J2: Terbimbing** | **Tingkat 4**:<br/>*Pembiasaan Berulang* | **Level 2 (Terbimbing)**:<br/>Mampu menjalankan rutinitas dengan pengingat berkala. | *Pelatih & Pengarah Kamar* (Rasio dukungan 50%) | Konsisten salat berjamaah 40 hari; aktif dalam musyawarah kamar; bebas dari perilaku ghashab. |
+| **J3: Mandiri** | **Tingkat 5**:<br/>*Istiqamah Menetap* | **Level 3 (Mandiri Rutin)**:<br/>Otonom tanpa perlu diawasi atau diingatkan lagi. | *Konsultan & Pemantau Jauh* (Rasio dukungan 20%) | Integritas muraqabatullah saat sendiri; inisiatif belajar malam; mampu meredam konflik kamar. |
+| **J4: Teladan** | **Tingkat 6 & 7**:<br/>*Teladan $\rightarrow$ Penggerak* | **Level 4 & 5 (Tangguh & Menjiwai / Mastery)** | *Mitra Pemberdayaan* (Rasio dukungan 10%) | Menjadi mentor asuh santri J1; memimpin organisasi santri dengan *Servant Leadership*; teladan adab. |
+
+---
+
+### 12.7 Dinamika Pelepasan Bantuan Bertahap (Fading Scaffolding)
 
 Bagaimanakah proses transisi pengasuhan dari J1 menuju J4 dijalankan tanpa membuat santri terkejut atau sebaliknya mengalami kemunduran?
 

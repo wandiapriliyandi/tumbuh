@@ -286,9 +286,58 @@ Untuk memberikan kejelasan mutlak tanpa ruang abu-abu bagi para asatidz dan musy
   3. **Edukasi Sains Adiksi**: Santri diajak mempelajari mekanisme kerja nikotin yang membajak dopamin otak, serta dampak asap rokok terhadap penurunan kapasitas paru-paru santri atletik.
   4. **Restitusi & Layanan Asrama**: Sebagai wujud tanggung jawab atas pencemaran udara asrama yang dilakukannya, santri mendapatkan tugas restoratif yang bernilai manfaat: membersihkan dan menanam tanaman hijau penyaring udara di taman asrama selama sepekan di bawah bimbingan guru lingkungan hidup.
 
+#### Kasus 4: Ghashab Berulang dan Pencurian Uang Saku Kamar
+* **Pendekatan Lama (Retributif)**: Santri yang terbukti mencuri uang atau sandal kawan diarak keliling asrama dengan papan bertuliskan *"SAYA PENCURI"*, dipukul telapak tangannya di depan apel santri, dan langsung diancam dikeluarkan dari pondok dalam tempo 24 jam.
+  * *Dampak*: Hancurnya martabat sosial anak secara permanen. Cap (*labeling*) sebagai pencuri melekat hingga santri menjadi putus asa dari rahmat Allah, terlempar ke dalam asosiasi anak-anak nakal di luar, dan memendam kebencian abadi pada institusi agama.
+* **Protokol Edukasi Restoratif TUMBUH**:
+  1. **Penyelidikan Kausalitas Tertutup**: Musyrif dan konselor memanggil santri secara empat mata tanpa mempermalukannya di depan kamar. Tim mengurai motif tindakan: *Apakah anak tersebut kehabisan uang saku karena kiriman orang tua terlambat dan ia kelaparan biologis? Ataukah terjerat utang jajanan? Ataukah dorongan impulsif kleptomania akibat rasa terasing?*
+  2. **Audit Sistem Lingkungan Kamar**: Mengidentifikasi celah keamanan kamar yang memicu anteseden pencurian: ketiadaan loker berkunci, kebiasaan menaruh dompet sembarangan, serta normalisasi ghashab sandal yang mengikis sensitivitas dosa.
+  3. **Restitusi Tertutup Penuh Kehormatan**: Santri wajib mengembalikan sejumlah uang yang diambil secara utuh. Jika uang telah habis dibelanjakan dan santri tidak memiliki tabungan, santri diberikan pekerjaan berbayar yang bermanfaat di lingkungan pondok (seperti membantu penataan arsip perpustakaan atau pemilahan kompos pertanian) hingga upahnya mencukupi untuk melunasi hak saudaranya secara tertutup.
+  4. **Pemulihan Relasi Personal**: Pelaku menyampaikan permohonan maaf secara pribadi kepada korban dengan disaksikan konselor tanpa mengumumkan aibnya kepada seluruh penghuni kamar, diikuti akad saling menjaga kehormatan.
+
+#### Kasus 5: Penyelundupan Gawai (Smartphone) dan Konsumsi Konten Terlarang
+* **Pendekatan Lama (Retributif)**: Gawai santri dibanting atau dihancurkan dengan palu di depan seluruh santri saat apel akbar, disusul ceramah makian publik mengenai "santri perusak moral asrama", lalu santri dicukur gundul dan dipajang di dekat pos gerbang utama.
+  * *Dampak*: Dendam material karena kerugian harta bernilai jutaan rupiah (yang dibeli dengan jerih payah keringat orang tua), trauma penghinaan publik, serta makin lihainya jaringan santri lain dalam menyembunyikan gawai di tempat yang lebih ekstrem (menggali tanah atau di balik plafon masjid).
+* **Protokol Edukasi Restoratif TUMBUH**:
+  1. **Penyitaan Administratif Tertutup**: Gawai diamankan dengan tanda terima resmi bernomor inventaris, disimpan di brankas pengasuhan, dan hanya dapat diambil oleh orang tua kandung pada jadwal pertemuan khusus.
+  2. **Literasi Neurosains Pembajakan Dopamin**: Santri tidak dicap bejat, melainkan diajak memahami bagaimana industri teknologi digital sengaja merancang algoritma kecanduan (*infinite scroll* dan pornografi) yang membajak *nucleus accumbens* otak remaja dan melumpuhkan reseptor dopamin alami.
+  3. **Detoksifikasi Digital & Pendampingan Muraqabah**: Santri mengikuti program pemulihan konsentrasi batin melalui puasa sunnah, peningkatan zikir *al-Ma'tsurat*, pendampingan halaqah tadabbur Al-Qur'an, dan penyaluran energi fitrah melalui olahraga beladiri atau seni kaligrafi.
+  4. **Kontrak Akuntabilitas Keluarga**: Pertemuan tripartit antara santri, wali santri, dan konselor pondok untuk menyusun kesepakatan penggunaan teknologi secara sehat dan terawasi saat masa liburan di rumah.
+
 ---
 
-### 1.6 Panggilan Nurani Pendidik: Jika Santri Itu Adalah Anak Kandung Kita
+### 1.6 Tabel Komparasi Paradigma: Pendekatan Tradisional Coercive vs Ekosistem Progresif TUMBUH
+
+Untuk melihat gambaran komprehensif perubahan lanskap kelembagaan yang ditawarkan oleh TUMBUH, perhatikan matriks komparasi delapan dimensi fundamental berikut:
+
+| Dimensi Kelembagaan | Pendekatan Tradisional Coercive (Status Quo) | Paradigma Progresif Fitrah TUMBUH |
+| :--- | :--- | :--- |
+| **1. Pandangan tentang Hakikat Santri** | Dipandang sebagai bejana kosong yang berpotensi liar; harus ditundukkan dan dicetak paksa dari luar menggunakan instrumen rasa takut. | Dipandang sebagai makhluk mulia berfitrah tauhid yang membawa potensi adab; tugas pendidik adalah menumbuhkan benih dan menyingkirkan parasit. |
+| **2. Sumber Motivasi Kepatuhan** | Motivasi Ekstrinsik Rendah: Takut rotan pembina, takut dipermalukan di depan umum, atau transaksional poin minus. | Motivasi Intrinsik Luhur: Kesadaran moral bertauhid (*muraqabatullah*), cinta adab, dan rasa tanggung jawab sosial. |
+| **3. Peran Musyrif & Pendidik** | Pengawas keamanan (*warden*), penegak hukum yang dingin, pemburu kesalahan santri, dan hakim penghukum. | Ayah ruhani (*abun rohim*), teladan hidup (*qudwah hasanah*), fasilitator pemulihan, dan mitra tumbuh kembang jiwa. |
+| **4. Cara Menangani Pelanggaran** | Retributif-Punitive: Hukuman fisik, caci maki verbal, cukur gundul, penjemuran di terik matahari, atau skorsing sepihak. | Edukatif-Restoratif: De-eskalasi emosi saraf, audit fungsional (FBA), restitusi nyata memperbaiki kerusakan, dan rekonsiliasi (*ishlah*). |
+| **5. Iklim Sosial Asrama** | Diliputi kecemasan laten, budaya kepura-puraan (*feigned compliance*), feodalisme senior-junior, dan normalisasi ghashab. | Aman secara psikologis (*psychological safety*), transparan, penuh ukhuwah egaliter, dan penghormatan sakral pada hak milik orang lain. |
+| **6. Metrik Keberhasilan Pembinaan** | Ketertiban semu di depan mata pembina, nol suara bising, dan formalitas tuntasnya jadwal harian. | Kematangan regulasi diri (*self-regulation*), integritas moral saat sendirian, dan kecakapan memecahkan masalah hidup. |
+| **7. Ketahanan Karakter Pasca-Lulus** | Rapuh dan rentan meledak; banyak alumni mengalami gegap budaya (*culture shock*) dan menanggalkan nilai-nilai pondok. | Kokoh, adaptif, dan mandiri; nilai-nilai adab tetap menyala terang di tengah arus dinamika modernitas global. |
+| **8. Penjagaan Martabat Kemanusiaan** | Martabat anak kerap dikorbankan demi efisiensi ketertiban lembaga dan wibawa semu figur pembina. | Perlindungan anak (*child safeguarding*) dan kehormatan jiwa santri merupakan pilar syar'i non-negosiabel (*hifzh an-nafs wa al-'irdh*). |
+
+---
+
+### 1.7 Piagam Janji Suci Pendidik TUMBUH (Mīthāq Tarbawī Bi'ah Amānah)
+
+Transformasi peradaban tidak dapat dicapai hanya dengan menuliskan buku tebal; transformasi menuntut ikrar komitmen batin dari setiap jiwa yang memilih jalan mulia sebagai pendidik santri. Seluruh civitas akademika—mulai dari pimpinan pondok, kyai, asatidz, hingga musyrif asrama—mengikatkan jiwanya dalam **Tujuh Ikrar Suci Pendidik TUMBUH**:
+
+1. **Memandang Santri dengan Pandangan Rahmah dan Takzim**: Kami bersumpah memandang setiap santri sebagai amanah suci titipan Allah ﷻ, bukan sebagai objek pelampiasan amarah atau kelelahan emosional pribadi kami.
+2. **Mengharamkan Kekerasan Fisik dan Pelecehan Kehormatan**: Kami bersumpah menolak dan melarang segala bentuk tamparan, pukulan tongkat, tendangan, bentakan yang menghina harga diri, cukur botak pembalasan, serta penjemuran fisik yang merusak raga dan jiwa santri.
+3. **Mendahulukan Hubungan Hati Sebelum Menuntut Kepatuhan (*Connect Before Correct*)**: Kami bersumpah tidak akan pernah menegur atau menghakimi santri dalam keadaan amarah membakar; kami akan meregulasi diri kami sendiri terlebih dahulu dan memulihkan rasa aman santri sebelum membimbing akal budinya.
+4. **Membongkar Akar Masalah di Balik Gejala (*Focus on Needs, Not Just Behaviors*)**: Kami bersumpah tidak malas dalam mendiagnosis kenakalan santri; kami akan mencari akar luka batin, keletihan saraf, atau defisit keterampilan di balik setiap pelanggaran adab yang tampak.
+5. **Menegakkan Keadilan Restoratif yang Menghidupkan Ukhuwah**: Kami bersumpah mengganti pembalasan dendam dengan restitusi nyata yang mendidik tanggung jawab, memulihkan korban yang tersakiti, dan merajut kembali tali persaudaraan (*ishlah al-bain*).
+6. **Menjadi Teladan Hidup Sebelum Menjadi Pengkhotbah (*Qudwah Qabla Da'wah*)**: Kami bersumpah tidak akan menuntut santri jujur jika kami berbohong; kami tidak akan menuntut santri tepat waktu jika kami terlambat; dan kami tidak akan menuntut santri beradab jika lisan kami masih gemar memaki.
+7. **Menjaga Kerahasiaan Aib Santri Sebagaimana Kami Menjaga Aib Diri Sendiri**: Kami bersumpah menjaga kehormatan nama baik santri dan keluarganya, tidak mengumbar kelemahan mereka di media sosial atau forum publik, serta menuntun mereka menuju pintu taubat dengan penuh kasih sayang.
+
+---
+
+### 1.8 Panggilan Nurani Pendidik: Jika Santri Itu Adalah Anak Kandung Kita
 
 Wahai para kyai yang kami muliakan, para asatidz yang ikhlas, para musyrif yang berpeluh keringat di lorong-lorong asrama, serta segenap pengemban amanah pendidikan Islam!
 

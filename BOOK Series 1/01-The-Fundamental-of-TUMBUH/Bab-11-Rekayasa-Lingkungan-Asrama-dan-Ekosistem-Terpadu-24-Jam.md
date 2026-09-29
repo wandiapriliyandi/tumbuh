@@ -166,6 +166,37 @@ TUMBUH meletakkan orang tua sebagai **Mitra Utama Tarbiyah (*Primary Co-Educator
 2. **Penyelarasan Nilai Saat Musim Liburan (*Vacation Continuity Protocol*)**:  
    Sebelum liburan semester tiba, pesantren mengadakan pertemuan dengan orang tua untuk menyepakati kesinambungan adab di rumah: bagaimana orang tua menjaga salat subuh berjamaah, membatasi gawai (*gadget*), dan merawat keteladanan di ruang keluarga, sehingga karakter yang telah dibangun di pondok tidak roboh saat anak berada di rumah.
 
+---
+
+### 11.6 Standar Baku Infrastruktur Fisik Bi'ah Shalihah: Daftar Periksa Kelayakan Asrama
+
+Karakter adab tidak mungkin bersemi di tengah lingkungan fisik yang membusuk. Oleh karena itu, arsitektur TUMBUH menetapkan **Standar Baku Kelayakan Fisik Asrama (*Physical Dormitory Standards*)**:
+
+| Komponen Infrastruktur | Standar Minimum TUMBUH | Dampak terhadap Regulasi Saraf & Adab Santri |
+| :--- | :--- | :--- |
+| **Kepadatan Ruang Tidur** | Minimal $3,5\text{ m}^2$ per santri; jarak antar-ranjang minimal 1 meter. | Menghilangkan rasa sesak (*crowding stress*), menjaga privasi tubuh biologis (*farriqu bainahum*). |
+| **Rasio Sanitasi & Mandi** | 1 kamar mandi untuk maksimal 6 santri; pasokan air mengalir 24 jam. | Menghilangkan antrean panjang yang memicu kepanikan, perkelahian, dan serobot antrean. |
+| **Loker Pribadi Anti-Ghashab** | Setiap santri wajib memiliki 1 lemari terkunci dengan kunci ganda (santri & musyrif). | Mengamankan hak milik kebendaan (*hifzh al-mal*); memutus rantai godaan mencuri/ghashab. |
+| **Pencahayaan & Ventilasi** | Jendela ventilasi silang minimal 15% dari luas lantai; pencahayaan siang >200 lux. | Pasokan oksigen melimpah menyegarkan hipokampus otak; membunuh bakteri kuman kulit (*scabies*). |
+| **Pencahayaan Malam Hari** | Lampu koridor menyala 100%; lampu tidur bilik bertransisi ke warna kuning temaram. | Mencegah ruang gelap titik rawan pelecehan; merangsang pelepasan melatonin alami. |
+
+---
+
+### 11.7 Protokol Patroli Lembut Malam Hari (*The Gentle Night Watch Protocol*)
+
+Salah satu tugas terpenting musyrif asrama adalah mengawal malam (*ar-ri'ayah al-lailiyyah*). Namun dalam paradigma lama, ronda malam sering berubah menjadi operasi militer yang menakutkan: musyrif berjalan membawa pentungan kayu, menyenter wajah santri yang sedang tidur, atau menendang pintu kamar.
+
+TUMBUH memberlakukan **Protokol Patroli Lembut Malam Hari**:
+
+1. **Jadwal Patroli Tiga Gelombang**:  
+   * **Gelombang I (Pukul 22.00 WIB)**: Memastikan seluruh pintu lorong terkunci aman, lampu koridor menyala, dan seluruh santri telah berbaring di tempat tidurnya masing-masing.
+   * **Gelombang II (Pukul 01.30 WIB)**: Musyrif melangkah dengan sandal karet tanpa suara, memeriksa kamar-kamar tidur: merapikan selimut santri yang tersingkap, membetulkan posisi tidur santri yang tertelungkup (karena makruh dalam syariat dan menghambat pernapasan), serta mematikan kran air yang menetes.
+   * **Gelombang III (Pukul 04.00 WIB)**: Memulai prosesi membangunkan fajar dengan salam lembut dan senyuman cinta.
+2. **Sentuhan Kasih Sayang Ayah Ruhani**:  
+   Ketika musyrif melihat seorang santri cilik tidur meringkuk sambil memeluk bantalnya erat karena rindu orang tuanya, musyrif duduk sejenak di tepi ranjangnya, mengusap kepalanya dengan doa kebaikan, dan membetulkan selimutnya. Di dalam tidur lelapnya, alam bawah sadar santri merasakan rasa aman yang mendalam: ia tahu bahwa di asrama ini, ia dicintai dan dilindungi.
+
+---
+
 Ketika arsitektur tata ruang fisik, irama sirkadian biologis, sinergi triad pengasuhan, dan kemitraan orang tua menyatu menjadi satu ekosistem yang hidup, pesantren menjelma menjadi **Bi'ah Shalihah yang Kokoh**.
 
 Di dalam rahim peradaban inilah, santri melangkah menapaki tangga kedewasaannya: dari seorang santri pemula yang membutuhkan bimbingan intensif, bertransformasi langkah demi langkah menuju seorang kader teladan penggerak peradaban.

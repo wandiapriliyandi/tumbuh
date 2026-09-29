@@ -198,7 +198,45 @@ Dengan pendekatan antropologi multidimensi TUMBUH: sakit fisik Farhan disembuhka
 
 ---
 
-### 4.6 Dari Hakikat Insan Menuju Praksis Tarbiyah
+### 4.6 Tazkiyatun Nafs Klasik dan Regulasi Sistem Saraf: Jembatan Turats dan Neurosains
+
+Bagaimanakah tradisi tasawuf klasik para ulama mu'tabar memandang proses penyembuhan jiwa yang sedang terluka atau tergelincir syahwat?
+
+Imam Al-Ghazali dalam *Ihya' 'Ulum ad-Din* meletakkan dua pilar utama penyucian jiwa:
+1. **Al-Mujahadah**: Berperang melawan dorongan hawa nafsu destruktif dengan cara meninggalkan kebiasaan buruk secara sadar dan mematahkan pemicunya (*qath'u asbab asy-syahwat*).
+2. **Ar-Riyadhah**: Pelatihan pembiasaan jiwa melalui pembebanan amal-amal kebajikan yang berlawanan (*'ilaj al-illati bi dhiddiha*), seperti melatih jiwa yang sombong dengan tugas membersihkan sandal jamaah masjid, atau melatih lisan yang kasar dengan memperbanyak zikir istighfar dan diam bertafakur.
+
+Secara menakjubkan, apa yang dirumuskan Al-Ghazali sebagai *riyadhatun nafs* berkorespondensi satu-satu dengan temuan neurosains modern tentang **Regulasi Saraf Otonom (*Autonomic Nervous System Regulation*)** dan **Plastisitas Sinaptik**:
+
+```mermaid
+graph LR
+    subgraph SINTESIS_PENYUCIAN_JIWA["Integrasi Tazkiyah dan Neurosains"]
+        T["TAZKIYATUN NAFS (AL-GHAZALI)<br/>• Riyadhah & Mujahadah<br/>• Zikir Khafi & Munajat Fajar<br/>• Wudhu Air Dingin saat Marah"] 
+        <--> 
+        N["NEUROSAINS KOGNITIF<br/>• Stimulasi Saraf Vagus (Vagal Tone)<br/>• Regulasi Dopamin & Menurunkan Kortisol<br/>• Penguatan Koneksi Inhibitorik PFC-Amigdala"]
+    end
+```
+
+Ketika seorang santri diajarkan berwudhu dengan membasuh air dingin ke wajah saat dadanya mendidih oleh amarah, secara neurobiologis suhu dingin memicu **Mammalian Dive Reflex** yang seketika mengaktifkan saraf parasimpatis, menurunkan detak jantung (*down-regulation*), dan meredam lonjakan adrenalin di amigdala.
+
+Demikian pula ketika santri diajak duduk tafakur melantunkan wirid zikir dengan tarikan napas panjang dan lambat: aktivitas tersebut meningkatkan variabilitas detak jantung (*Heart Rate Variability / HRV*), membanjiri otak dengan hormon oksitosin dan serotonin, serta memulihkan kapasitas neokorteks untuk berpikir jernih. Tazkiyatun nafs bukanlah mistisisme irasional; tazkiyatun nafs adalah sains penyelarasan fitrah ruhani dan biologi raga yang sempurna.
+
+---
+
+### 4.7 Protokol Deteksi Dini Kesehatan Jiwa dan Ruhani Santri Asrama
+
+Dalam ekosistem asrama 24 jam, para musyrif dan wali asrama dilatih untuk memiliki radar kepekaan (*bashirah pengasuhan*) guna mendeteksi santri-santri yang jiwanya sedang mengalami krisis sebelum meledak menjadi pelanggaran terbuka:
+
+| Kategori Tanda Bahaya | Gejala Teramati pada Santri (*Observable Indicators*) | Akar Kebutuhan Jiwa Tersembunyi | Tindakan Pertama Musyrif TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Penarikan Diri Ekstrem (*Social Withdrawal*)** | Santri mengurung diri di ranjang dengan tirai tertutup; tidak mau makan di ruang bersama; menolak berbicara saat disapa. | Mengalami *homesickness* berat, depresi terselubung, atau korban intimidasi geng sekamar. | Musyrif mendekati secara privat; menawarkan air hangat; mendengarkan tanpa menasihati; merujuk ke BK. |
+| **Agresivitas Mendadak (*Sudden Aggression*)** | Santri yang biasanya pendiam tiba-tiba membanting pintu, berteriak saat ditegur, atau menendang lemari. | Sistem saraf mengalami *hyperarousal shutdown* akibat akumulasi beban tugas atau rasa terhina. | Berikan ruang tenang (*cooling-off*); jauhkan dari kerumunan; tunggu denyut jantung stabil sebelum dialog. |
+| **Kemunduran Somatik (*Psychosomatic Complaints*)** | Sering mengeluh sakit perut, mual saat jam halaqah, pusing kepala menjelang ujian tanpa bukti medis infeksi. | Manifestasi fisik dari kecemasan akut (*severe performance anxiety*) terhadap target hafalan. | Audit target hafalan bersama guru tahfidz; pecah target menjadi porsi kecil (*chunking*); redakan kecemasan. |
+| **Penurunan Higienitas Drastis (*Self-Neglect*)** | Berhari-hari tidak mengganti baju; tempat tidur sangat berantakan; tidak mandi berulang kali. | Kehilangan gairah hidup (*apathy*) dan kelelahan mental mendalam (*depressive symptoms*). | Dampingi merapikan tempat tidur bersama musyrif dengan penuh kasih sayang; evaluasi asupan gizi dan tidur. |
+
+---
+
+### 4.8 Dari Hakikat Insan Menuju Praksis Tarbiyah
 
 Kita telah menuntaskan penjelajahan agung dalam **Bagian II**:
 * Dalam **Bab 3**, kita telah menegakkan keadilan berpikir dan epistemologi terpadu antara wahyu, nalar, dan fakta empiris.

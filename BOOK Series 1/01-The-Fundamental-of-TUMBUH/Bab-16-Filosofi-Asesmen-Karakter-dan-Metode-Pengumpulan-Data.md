@@ -189,6 +189,62 @@ Membocorkan catatan pelanggaran santri kepada pihak yang tidak berhak adalah dos
 
 ---
 
+### 16.5 Format Instrumen Rubrik Pengamatan Holistik Musyrif Asrama
+
+Untuk memandu para musyrif lapangan agar tidak bingung mencatat perilaku faktual, arsitektur TUMBUH menyusun format **Logbook Pengamatan Harian Berbasis Bukti**:
+
+```text
+                 LEMBAR PENGAMATAN ADAB HARIAN MUSYRIF (LPAHM)
+┌────────────────────────────────────────────────────────────────────────┐
+│ NAMA SANTRI  : ....................   KAMAR / KELOMPOK : ............. │
+│ MINGGU KE-   : ....................   MUSYRIF PENDAMPING: ............ │
+├────────────────────────────────────────────────────────────────────────┤
+│ TANGGAL/WAKTU │ DESKRIPSI PERILAKU FAKTUAL      │ DOMAIN CC │ KATEGORI │
+│               │ (OBJEKTIF TANPA ASUMSI MORAL)   │ TERKAIT   │ (+ / Δ)  │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Sen, 04.15 WIB│ Bangun sendiri saat azan awal,  │ CC-01     │ (+) Pos  │
+│               │ langsung merapikan sprei ranjang│ CC-05     │          │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Sel, 16.30 WIB│ Meminjamkan gayung mandi kepada │ CC-07     │ (+) Pos  │
+│               │ adik kelas yang belum mandi.    │ (Khidmah) │          │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Rab, 19.45 WIB│ Menolak diajak teman sekamar    │ CC-02     │ (+) Pos  │
+│               │ membicarakan aib teman di bilik.│ (Lisan)   │          │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Kam, 05.00 WIB│ Terlambat masuk saf masbuq 1 ra-│ CC-01     │ (Δ) Butuh│
+│               │ kaat karena mengantuk di wudhu. │           │ Bimbingan│
+├───────────────┴─────────────────────────────────┴───────────┴──────────┤
+│ CATATAN RASIO AFIRMASI PEKANAN: Positif = 6 | Koreksi = 1 (Rasio 6:1)   │
+│ KESIMPULAN DUKUNGAN: Pertahankan penguatan; dampingi jam tidur malam.  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Perhatikan bahwa rasio pencatatan memenuhi standar emas: **minimal 4 pengamatan positif berbanding 1 catatan kebutuhan bimbingan (4:1)**. Hal ini menjamin bahwa musyrif tidak terjebak menjadi "pemburu kesalahan" yang dingin.
+
+---
+
+### 16.6 Seni Umpan Balik Formatif: Teknik "Roti Lapis Adab" (*The Adab Sandwich*)
+
+Bagaimanakah seorang musyrif menyampaikan koreksi kepada santri tanpa memicu reaksi defensif amigdala atau melukai harga dirinya?
+
+TUMBUH melatih para pembina menguasai protokol **Roti Lapis Adab (*The Adab Sandwich Protocol*)**:
+
+```mermaid
+graph TD
+    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Penyampaian Koreksi Beradab"]
+        direction TB
+        L1["LAPIS 1: AFIRMASI FITRAH & APRESIASI TULUS (ROTI ATAS)<br/>'Farhan, Ustadz sangat menghargai caramu membantu adik kelas menyapu kemarin...'"]
+        L2["LAPIS 2: DESKRIPSI KOREKSI SPESIFIK & AKUNTABILITAS (DAGING INTI)<br/>'Namun subuh tadi, antum terlambat 5 menit masuk saf masjid karena mengobrol...'"]
+        L3["LAPIS 3: PENANAMAN HARAPAN & DUKUNGAN MASA DEPAN (ROTI BAWAH)<br/>'Ustadz yakin antum mampu tidur lebih awal malam ini. Mari kita wujudkan bersama!'"]
+        
+        L1 --> L2 --> L3
+    end
+```
+
+Melalui teknik ini, santri mendengarkan koreksi bukan sebagai ancaman pembunuhan karakter, melainkan sebagai wujud kasih sayang seorang ayah ruhani yang percaya penuh pada potensi kebaikan dirinya.
+
+---
+
 ### Rangkuman Intisari Bab 16
 
 1. **Kritik Reduksionisme Pengukuran Angka:** Menolak perangkuman karakter manusia ke dalam angka mati kuantitatif rapor atau sistem poin minus hitam; angka mati melenyapkan konteks, memicu kemunafikan sosial (*nifaq*), dan menjebak anak dalam ramalan penyimpangan permanen (*labeling trap*).

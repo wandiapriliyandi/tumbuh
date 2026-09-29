@@ -166,7 +166,46 @@ Apabila di lingkungan pesantren terdeteksi salah satu dari **Sepuluh Tanda Bahay
 
 ---
 
-### 8.5 Piagam Perlindungan Santri: Ikrar Suci Pengasuh TUMBUH
+### 8.5 Mekanisme Penegakan Akuntabilitas Lembaga: Sanksi bagi Oknum Pendidik Pelaku Kekerasan
+
+Sumpah integritas bukanlah pajangan dinding yang berhenti sebagai retorika moral; sumpah ini memiliki kekuatan hukum dan administratif kelembagaan yang mengikat (*legally and administratively binding*).
+
+Pesantren yang benar-benar berkomitmen melindungi santri wajib memiliki **Prosedur Operasional Standar Penanganan Pelanggaran Etika Pendidik**:
+
+```mermaid
+graph TD
+    subgraph ALUR_AKUNTABILITAS_PENDIDIK["Mekanisme Tindakan atas Oknum Pelaku Kekerasan"]
+        direction TB
+        L["1. Laporan Masuk dari Santri / Wali Santri / Rekan Musyrif"] --> I["2. Tim Independen Perlindungan Santri Melakukan Investigasi 1x24 Jam"]
+        I --> B["3. Pemeriksaan Bukti Fisik Medis & Keterangan Saksi Tanpa Intervensi"]
+        B --> K["4. Klasifikasi Tingkat Pelanggaran Etika Lembaga"]
+        
+        K --> S1["PELANGGARAN RINGAN (Bentakan Kasar / Kata Kotor)<br/>• Teguran Tertulis I, Wajib Mengikuti Pelatihan Regulasi Emosi"]
+        K --> S2["PELANGGARAN SEDANG (Penjemuran / Pencukuran Botak Sepihak)<br/>• Skorsing Tugas Lapangan, Pemotongan Tunjangan, Wajib Minta Maaf"]
+        K --> S3["PELANGGARAN BERAT (Pemukulan Fisik / Pelecehan / Penganiayaan)<br/>• PEMECATAN TIDAK DENGAN HORMAT & PELAPORAN KE PIHAK BERWAJIB"]
+    end
+```
+
+Prinsip keadilan TUMBUH menegaskan: **Tidak ada kekebalan hukum bagi siapa pun di pesantren**. Sekalipun oknum pelaku kekerasan adalah putra kyai (gus), musyrif paling senior, atau pengajar kitab kuning terkemuka, jika ia terbukti memukul atau menganiaya santri, ia wajib menerima sanksi tegas sesuai hukum syariat dan aturan lembaga. Menutupi kejahatan kekerasan atas nama "menjaga nama baik pondok" adalah dosa khianat terbesar di hadapan Allah ﷻ.
+
+---
+
+### 8.6 Saluran Pengaduan Aman Santri (*Safe Reporting Channels*)
+
+Salah satu alasan mengapa kekerasan dan perundungan dapat bertahan selama puluhan tahun di asrama adalah karena **santri tidak memiliki saluran aman untuk melapor tanpa takut diintimidasi atau dibalas dendam**. Santri junior yang berani mengadu kepada musyrif kerap dicap sebagai "anak cepu/pengkhianat" oleh seniornya, lalu dipukuli beramai-ramai pada malam harinya.
+
+TUMBUH memutus rantai intimidasi ini dengan **Tiga Saluran Pengaduan Aman (*The Three Safe Harbor Channels*)**:
+
+1. **Kotak Amanah Rahasia (*The Sealed Confidential Box*)**:  
+   Kotak fisik yang terkunci rapat diletakkan di area-area netral (perpustakaan, lorong klinik, dekat pos satpam) yang tidak disorot kamera pengawas secara intimidatif. Kunci kotak ini hanya dipegang oleh Tim Khusus Perlindungan Santri (bukan musyrif kamar harian). Santri dapat memasukkan surat pengaduan tulisan tangan tanpa nama (*anonymous report*).
+2. **Akses Langsung Konselor BK Independen**:  
+   Santri memiliki hak mutlak untuk meminta sesi konseling tertutup bersama guru BK kapan saja tanpa perlu meminta izin atau persetujuan dari musyrif kamarnya. Ruang BK adalah zona suci kerahasiaan (*sanctuary of confidentiality*).
+3. **Pemberian Sanksi Ekstrem bagi Pelaku Pembalasan Dendam (*Anti-Retaliation Clause*)**:  
+   Lembaga menetapkan aturan besi: barang siapa santri senior atau musyrif yang terbukti melakukan intimidasi, pengancaman, atau perundungan balasan terhadap santri yang melapor, maka pelaku akan **dikenakan sanksi ganda pelanggaran berat dan dikeluarkan dari kepengurusan**.
+
+---
+
+### 8.7 Piagam Perlindungan Santri: Ikrar Suci Pengasuh TUMBUH
 
 Sebagai penutup bab ini, seluruh pendidik, asatidz, dan musyrif dalam ekosistem TUMBUH mengikrarkan **Piagam Perlindungan Santri**:
 
