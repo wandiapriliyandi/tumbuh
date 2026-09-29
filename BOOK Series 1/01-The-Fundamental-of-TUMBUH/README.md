@@ -79,3 +79,10 @@ graph TD
   * [Bab 18: Arsitektur Intervensi Bertingkat (SW-PBIS Multi-Tier di Pesantren)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-18-Arsitektur-Intervensi-Bertingkat-PBIS-Pesantren.md)
   * [Bab 19: Disiplin Positif dan Keadilan Restoratif (*Restorative Justice & Ishlah al-Bain*)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-19-Disiplin-Positif-dan-Keadilan-Restoratif.md)
   * [Bab 20: Safeguarding, Manajemen Krisis, dan Tata Kelola Kelembagaan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-20-Safeguarding-Manajemen-Krisis-dan-Tata-Kelola-Kelembagaan.md)
+
+---
+
+## Berkas Master & Glosarium
+
+* 📖 **[THE_FUNDAMENTAL_OF_TUMBUH_MASTER.md](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/THE_FUNDAMENTAL_OF_TUMBUH_MASTER.md)** — Naskah Utuh Monolitik (20 Bab Lengkap, Glosarium & Bibliografi dalam Satu Berkas Siap Cetak/Ekspor).
+* 📚 **[GLOSARIUM_DAN_BIBLIOGRAFI.md](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/GLOSARIUM_DAN_BIBLIOGRAFI.md)** — Glosarium Master Terminologi Turats, Neurosains & PBIS serta Daftar Pustaka Rujukan Induk.
