@@ -53,29 +53,29 @@ graph TD
 ## Indeks Bab Lengkap
 
 * **BAGIAN I: PROLEGOMENA & WORLDVIEW PENDIDIKAN ISLAM**
-  * Bab 1: Menatap Krisis, Menegakkan Orientasi (Manifesto Transformasi Karakter)
-  * Bab 2: Pandangan Alam Islam (*The Islamic Worldview*) sebagai Poros Pendidikan
+  * [Bab 1: Menatap Krisis, Menegakkan Orientasi (Manifesto Transformasi Karakter)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-I/Bab-01-Menatap-Krisis-Menegakkan-Orientasi.md)
+  * [Bab 2: Pandangan Alam Islam (*The Islamic Worldview*) sebagai Poros Pendidikan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-I/Bab-02-Pandangan-Alam-Islam-sebagai-Poros-Pendidikan.md)
 * **BAGIAN II: EPISTEMOLOGI PENDIDIKAN & HAKIKAT INSAN**
-  * Bab 3: Epistemologi Terpadu: Wahyu, Nalar, dan Fakta Empiris
-  * Bab 4: Antropologi Jiwa Santri: Hakikat Fitrah dan Komponen Kejiwaan
+  * [Bab 3: Epistemologi Terpadu: Wahyu, Nalar, dan Fakta Empiris](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-II/Bab-03-Epistemologi-Terpadu-Wahyu-Nalar-dan-Fakta-Empiris.md)
+  * [Bab 4: Antropologi Jiwa Santri: Hakikat Fitrah dan Komponen Kejiwaan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-II/Bab-04-Antropologi-Jiwa-Santri-Hakikat-Fitrah-dan-Komponen-Kejiwaan.md)
 * **BAGIAN III: FALSAFAH TARBIYAH, PERKEMBANGAN, & KEPEMIMPINAN QUDWAH**
-  * Bab 5: Dinamika Perkembangan Jiwa & Neurosains Remaja
-  * Bab 6: Falsafah Tarbiyah, Ta'dib, dan Ekosistem Keteladanan
-  * Bab 7: Teori Perubahan Perilaku Berkelanjutan (*Theory of Change*)
+  * [Bab 5: Dinamika Perkembangan Jiwa & Neurosains Remaja](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-III/Bab-05-Dinamika-Perkembangan-Jiwa-dan-Neurosains-Remaja.md)
+  * [Bab 6: Falsafah Tarbiyah, Ta'dib, dan Ekosistem Keteladanan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-III/Bab-06-Falsafah-Tarbiyah-Tadib-dan-Ekosistem-Keteladanan.md)
+  * [Bab 7: Teori Perubahan Perilaku Berkelanjutan (*Theory of Change*)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-III/Bab-07-Teori-Perubahan-Perilaku-Berkelanjutan.md)
 * **BAGIAN IV: PRINSIP-PRINSIP INTI & INTEGRITAS SISTEM**
-  * Bab 8: Sumpah Integritas Pendidikan TUMBUH (*The Non-Negotiables*)
-  * Bab 9: Tata Kelola Epistemik dan Etika Pengambilan Keputusan
+  * [Bab 8: Sumpah Integritas Pendidikan TUMBUH (*The Non-Negotiables*)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-IV/Bab-08-Sumpah-Integritas-Pendidikan-TUMBUH.md)
+  * [Bab 9: Tata Kelola Epistemik dan Etika Pengambilan Keputusan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-IV/Bab-09-Tata-Kelola-Epistemik-dan-Etika-Pengambilan-Keputusan.md)
 * **BAGIAN V: ARSITEKTUR MODEL INTI (CORE MODEL) TUMBUH**
-  * Bab 10: Kerangka Struktur Model Inti TUMBUH
-  * Bab 11: Rekayasa Lingkungan Asrama & Ekosistem Terpadu 24 Jam
+  * [Bab 10: Kerangka Struktur Model Inti TUMBUH](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-V/Bab-10-Kerangka-Struktur-Model-Inti-TUMBUH.md)
+  * [Bab 11: Rekayasa Lingkungan Asrama & Ekosistem Terpadu 24 Jam](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-V/Bab-11-Rekayasa-Lingkungan-Asrama-dan-Ekosistem-Terpadu-24-Jam.md)
 * **BAGIAN VI: PROGRESI JENJANG KEMANDIRIAN SANTRI (J1–J4)**
-  * Bab 12: Paradigma Progresi Karakter: Dari Bimbingan Menuju Penggerak
-  * Bab 13: Bedah Jenjang J1 & J2: Adaptasi, Pembiasaan, dan Regulasi Terbimbing
-  * Bab 14: Bedah Jenjang J3 & J4: Otonomi Karakter dan Kepemimpinan Qudwah
-  * Bab 15: Mekanisme Transisi, Portofolio Santri, dan Upacara Kenaikan Jenjang
+  * [Bab 12: Paradigma Progresi Karakter: Dari Bimbingan Menuju Penggerak](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VI/Bab-12-Paradigma-Progresi-Karakter.md)
+  * [Bab 13: Bedah Jenjang J1 & J2: Adaptasi, Pembiasaan, dan Regulasi Terbimbing](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VI/Bab-13-Bedah-Jenjang-J1-dan-J2.md)
+  * [Bab 14: Bedah Jenjang J3 & J4: Otonomi Karakter dan Kepemimpinan Qudwah](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VI/Bab-14-Bedah-Jenjang-J3-dan-J4.md)
+  * [Bab 15: Mekanisme Transisi, Portofolio Santri, dan Upacara Kenaikan Jenjang](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VI/Bab-15-Mekanisme-Transisi-dan-Kenaikan-Jenjang.md)
 * **BAGIAN VII: ARSITEKTUR ASESMEN & SISTEM INTERVENSI BERTINGKAT (PBIS & RESTORATIF)**
-  * Bab 16: Filosofi Asesmen Karakter: Mengukur untuk Menumbuhkan, Bukan Melabeli
-  * Bab 17: Functional Behavior Assessment (FBA) dalam Konteks Kepesantrenan
-  * Bab 18: Arsitektur Intervensi Bertingkat (SW-PBIS Multi-Tier di Pesantren)
-  * Bab 19: Disiplin Positif dan Keadilan Restoratif (*Restorative Justice & Ishlah al-Bain*)
-  * Bab 20: Safeguarding, Manajemen Krisis, dan Tata Kelola Kelembagaan
+  * [Bab 16: Filosofi Asesmen Karakter: Mengukur untuk Menumbuhkan, Bukan Melabeli](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-16-Filosofi-Asesmen-Karakter-dan-Metode-Pengumpulan-Data.md)
+  * [Bab 17: Functional Behavior Assessment (FBA) dalam Konteks Kepesantrenan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-17-Functional-Behavior-Assessment-dalam-Konteks-Pesantren.md)
+  * [Bab 18: Arsitektur Intervensi Bertingkat (SW-PBIS Multi-Tier di Pesantren)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-18-Arsitektur-Intervensi-Bertingkat-PBIS-Pesantren.md)
+  * [Bab 19: Disiplin Positif dan Keadilan Restoratif (*Restorative Justice & Ishlah al-Bain*)](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-19-Disiplin-Positif-dan-Keadilan-Restoratif.md)
+  * [Bab 20: Safeguarding, Manajemen Krisis, dan Tata Kelola Kelembagaan](file:///c:/xampp/htdocs/tumbuh/BOOK%20Series%201/01-The-Fundamental-of-TUMBUH/BAGIAN-VII/Bab-20-Safeguarding-Manajemen-Krisis-dan-Tata-Kelola-Kelembagaan.md)
