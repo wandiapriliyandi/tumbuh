@@ -88,13 +88,13 @@ $$\text{لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ
 > *"Tidak ada ketaatan kepada makhluk mana pun dalam perkara yang bermaksiat kepada Sang Khaliq."*  
 > (HR. Ahmad no. 1095 dan At-Thabarani no. 381, dari Ali bin Abi Thalib رضي الله عنه, sanad shahih)[^4]
 
-Bahkan sahabat termulia, Amirul Mukminin Abu Bakar Ash-Shiddiq رضي الله عنه, dalam pidato pelantikannya sebagai khalifah pertama, dengan lantang mendeklarasikan di hadapan seluruh umat:
+Bahkan sahabat termulia, Amirul Mukminin Abu Bakar Ash-Shiddiq رضي الله عنه, dalam pidato kepemimpinannya setelah wafatnya Rasulullah ﷺ, dengan lantang mendeklarasikan di hadapan seluruh umat:
 
 $$\text{أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ}$$
 
 > *"Taatilah aku selama aku menaati Allah dan Rasul-Nya dalam memimpin kalian. Namun apabila aku bermaksiat kepada Allah dan Rasul-Nya, maka gugurlah kewajiban kalian untuk taat kepadaku!"*[^5]
 
-Jika seorang khalifah agung seperti Abu Bakar Ash-Shiddiq menyatakan bahwa ketaatan rakyat kepadanya bersyarat pada kepatuhannya kepada Allah dan Rasul-Nya, lalu atas hak apa seorang musyrif kamar atau santri senior menuntut kepatuhan buta dari adik kelasnya saat ia memerintahkan hal-hal yang zalim dan merendahkan martabat manusia?
+Jika seorang pemimpin agung dan sahabat termulia seperti Abu Bakar Ash-Shiddiq menyatakan bahwa ketaatan rakyat kepadanya bersyarat pada kepatuhannya kepada Allah dan Rasul-Nya, lalu atas hak apa seorang musyrif kamar atau santri senior menuntut kepatuhan buta dari adik kelasnya saat ia memerintahkan hal-hal yang zalim dan merendahkan martabat manusia?
 
 Dalam ekosistem **TUMBUH**, kepemimpinan para asatidz dan musyrif dibangun di atas prinsip **Khadimul Ummah (Pelayan Santri)** dan **Qudwah Hasanah (Keteladanan Nyata)**. Otoritas seorang pendidik bukan terpancar dari rotan di tangannya, bukan pula dari ancaman su'ul adab yang menakut-nakuti, melainkan terpancar dari keluhuran akhlaknya, keadilan sikapnya, dan ketulusan doanya bagi keselamatan jiwa santri-santrinya.
 
@@ -183,7 +183,7 @@ $$\text{وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَ
 > (QS. Al-Isra' [17]: 70)[^7]
 
 Perhatikan penegasan ayat ini: **وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ** (*Dan sungguh Kami telah memuliakan anak-cucu Adam*).  
-Imam Fakhruddin Ar-Razi dalam tafsir monumentalnya *Mafatih al-Ghaib* menjelaskan bahwa kemuliaan (*al-karamah*) yang dianugerahkan Allah kepada manusia mencakup seluruh dimensinya: rupa fisiknya yang indah dan tegak lurus, akal budinya yang mampu menyingkap rahasia alam, kemampuannya memilih dengan sadar (*al-ikhtiyar*), serta kelayakannya menerima khitab syariat dan menjadi khalifah di muka bumi[^8].
+Imam Fakhruddin Ar-Razi dalam tafsir monumentalnya *Mafatih al-Ghaib* menjelaskan bahwa kemuliaan (*al-karamah*) yang dianugerahkan Allah kepada manusia mencakup seluruh dimensinya: rupa fisiknya yang indah dan tegak lurus, akal budinya yang mampu menyingkap rahasia alam, kemampuannya memilih dengan sadar (*al-ikhtiyar*), serta kelayakannya menerima khitab syariat dan mengemban amanah memakmurkan bumi (*'imaratul ardh*)[^8].
 
 Kemuliaan ini adalah **kemuliaan asasi (*inherent ontological dignity*)**. Kemuliaan ini melekat pada diri seorang santri semata-mata karena ia adalah manusia ciptaan Allah yang ditiupkan ruh ke dalam raganya.
 
@@ -218,14 +218,14 @@ graph TD
     M["TIGA MANDAT EKSISTENSIAL SANTRI TUMBUH"]
     
     M --> M1["1. AL-'IBADAH<br/>Penghambaan Murni & Kesucian Niat<br/>(Hablum Minallah)"]
-    M --> M2["2. AL-KHILAFAH<br/>Amanah Sosial, Tanggung Jawab & Maslahat Lingkungan<br/>(Hablum Minannas)"]
+    M --> M2["2. AL-AMANAH & 'IMARATUL ARDH<br/>Amanah Sosial, Tanggung Jawab & Maslahat Lingkungan<br/>(Hablum Minannas)"]
     M --> M3["3. AR-RUSYD<br/>Kematangan Akal Budi, Otonomi Moral & Kendali Batin<br/>(Hablum Ma'an-Nafs)"]
 ```
 
 #### 1. Mandat Al-'Ibadah: Menegakkan Penghambaan Total
 Santri dibimbing untuk menyadari bahwa tujuan penciptaannya di muka bumi adalah beribadah kepada Allah semata (QS. Adz-Dzariyat [51]: 56). Namun ibadah di sini tidak dipahami secara kerdil hanya sebatas ritual mekanis di atas sajadah. Ibadah dalam ekosistem TUMBUH meluas ke seluruh lorong asrama: menjaga kebersihan tempat tidur adalah ibadah, menyapa saudara sekamar dengan senyuman adalah ibadah sedekah, mematikan kran air yang bocor adalah ibadah menjaga amanah bumi, dan belajar sungguh-sungguh adalah ibadah jihad fi sabilillah.
 
-#### 2. Mandat Al-Khilafah: Mengemban Amanah Memakmurkan Bumi
+#### 2. Mandat Amanah Sosial dan 'Imaratul Ardh: Memakmurkan Bumi
 Santri dididik untuk tidak menjadi manusia yang egois (*individualistic piety*). Kamar asrama adalah laboratorium miniatur peradaban. Di sanalah santri belajar seni bermasyarakat: bagaimana meredam ego pribadi saat berhadapan dengan perbedaan karakter teman, bagaimana berinisiatif menolong kawan yang sakit tanpa diminta, dan bagaimana merawat fasilitas bersama agar tidak rusak. Santri dilatih menjadi insan yang bermanfaat bagi sesamanya (*khairun nasi anfa'uhum lin-nas*).
 
 #### 3. Mandat Ar-Rusyd: Kemandirian Batin Berkesadaran Penuh
