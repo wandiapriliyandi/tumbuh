@@ -1,150 +1,225 @@
 # BAB 13: BEDAH JENJANG J1 & J2: ADAPTASI, PEMBIASAAN, DAN REGULASI TERBIMBING
-## Protokol Pendampingan 90 Hari Pertama, Mitigasi Homesickness, dan Peletakan Fondasi Adab Kamar
+## Protokol Pendampingan 90 Hari Pertama, Mitigasi Homesickness, Pembentukan Kebiasaan Kamar, dan Tata Kelola Pubertas Awal
 
 > يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
 >
 > *"Wahai anakku! Laksanakanlah salat, suruhlah (manusia) berbuat yang makruf dan cegahlah (mereka) dari yang mungkar, serta bersabarlah terhadap apa yang menimpamu. Sesungguhnya yang demikian itu termasuk perkara-perkara yang diutamakan."*  
-> — **Al-Qur'an al-Karim**, Surah Luqman [31]: 17[^1]
+> — **QS. Luqman [31]: 17**[^1]
 
 ---
 
-### 13.1 Fase Kritis 90 Hari Pertama: Anatomi Jiwa Santri Jenjang J1
+### Prolog: Rintik Hujan di Kaca Bilik Santri Baru
 
-Pukul 22.00 malam di pekan kedua tahun ajaran baru. Lampu kamar asrama telah dipadamkan, namun dari balik selimut bergambar kartun milik seorang santri kelas tujuh berusia dua belas tahun, terdengar isak tangis tertahan yang menyayat hati. Anak itu memeluk gulingnya erat-erat, meremas ujung bantalnya, dan berbisik lirih memanggil ibunya: *"Ibu... aku ingin pulang... aku tidak kuat di sini..."*
+Hujan gerimis turun membasahi genting asrama pada pekan kedua bulan Juli. Di bilik tidur berlantai semen abu-abu, aroma khas minyak telon bercampur dengan bau apek kasur busa yang belum sepenuhnya akrab di indera penciuman anak-anak baru. Pukul sembilan malam lewat sedikit; lonceng asrama telah berdentang menandakan saatnya memadamkan lampu utama dan beralih ke lampu tidur kuning temaram.
 
-Di kamar mandi, santri J1 lainnya berdiri kebingungan di depan bak air: ember cucian pakaiannya telah menumpuk kotor selama empat hari, sabun mandinya hilang, dan ia tidak tahu bagaimana cara memeras seragam sekolahnya yang basah kuyup. Keesokan paginya saat jam sarapan tiba, seorang anak J1 mengeluh sakit perut melilit dan muntah-muntah, padahal dokter klinik asrama memastikan tidak ada infeksi bakteri apa pun pada pencernaannya.
+Di ranjang susun nomor empat, seorang anak berusia sebelas tahun setengah bernama Farhan berbaring menyamping menghadap dinding bata. Tubuhnya meringkuk membentuk huruf C, mendekap erat sebuah guling kecil bersarung biru laut yang dibawa dari rumahnya di Tegal. Dari balik selimut, pundaknya berguncang perlahan. Ia berusaha menahan suara isak tangisnya agar tidak terdengar oleh kawan-kawan sekamarnya yang sebagian telah mendengkur karena kelelahan. Air matanya membasahi bantal kapas tipis. Di benaknya berkelebat bayangan meja makan di rumah, suara tawa adiknya, dan belaian tangan ibunya saat menyuapinya bubur hangat ketika ia sakit demam.
 
-Inilah potret nyata **Fase Kritis 90 Hari Pertama Santri Jenjang J1**.
+Tiba-tiba, sebuah telapak tangan yang hangat dan mantap mendarat lembut di atas pundaknya. Farhan tersentak, buru-buru menyeka air matanya dengan ujung selimut karena takut akan dimarahi atau dihukum push-up oleh musyrif piket.
 
-Banyak pengasuh asrama konvensional tidak memahami fenomena ini, lalu melabeli anak-anak J1 sebagai "anak manja, cengeng, dan bermental tempe". Ketika anak menangis rindu orang tua (*homesick*), musyrif menghardiknya: *"Laki-laki tidak boleh menangis! Malu sama umur! Belajar ikhlas dan prihatin!"*
+Namun, suara yang terdengar bukanlah bentakan menggelegar. Yang terdengar adalah bisikan lembut dengan nada kebapakan yang sangat teduh:  
+*"Farhan... jangan disembunyikan air matamu, Nak. Menangis rindu ibu bukanlah aib, bukan pula tanda kelemahan. Itu adalah tanda bahwa hatimu hidup dan penuh cinta. Malam ini, ustadz ada di sini menemani antum. Tarik napas dalam-dalam, minum air hangat ini, dan mari kita berdoa bersama agar Allah melapangkan dadamu."*
 
-Sikap kasar semacam ini adalah bentuk ketidaktahuan medis dan psikologis yang membahayakan jiwa anak.
+Farhan menatap wajah musyrif mudanya, Ustadz Salman. Di mata sang ustadz tidak ada tatapan mencemooh; yang ada adalah ketulusan samudera welas asih. Malam itu, untuk pertama kalinya sejak menginjakkan kaki di pesantren, detak jantung Farhan yang berdegup kencang mereda. Sistem sarafnya merasa aman. Dan di sanalah, di bilik kecil berlantai semen itu, perjalanan metamorfosis fitrahnya resmi dimulai.
 
-Secara psikosomatis dan neurobiologi keterikatan (*Attachment Theory* oleh John Bowlby), anak usia dua belas tahun yang tiba-tiba dipisahkan dari rumahnya sedang mengalami **Krisis Keterputusan Kelekatan (*Attachment Disruption Crisis*)**[^2]:
+---
+
+### 13.1 Fase Kritis 90 Hari Pertama: Anatomi Psikosomatis Jiwa Santri Jenjang J1
+
+Transisi seorang anak dari rumah keluarga menuju kehidupan komunal asrama 24 jam adalah salah satu guncangan eksistensial terdahsyat dalam biografi seorang manusia. Di rumah, anak adalah pusat perhatian: makanannya disiapkan, pakaiannya dicucikan, jadwalnya diingatkan, dan jika ia sedih, ada pelukan hangat orang tua yang siap menyambutnya. 
+
+Di pesantren, dalam hitungan jam, anak terlempar ke dalam mikrokosmos yang serba padat: ia harus berbagi ruang tidur dengan sepuluh hingga dua belas orang anak dari berbagai suku bangsa yang belum ia kenal wataknya, mengantre mandi di waktu subuh yang dingin, mencuci pakaiannya sendiri, dan hidup di bawah dentang jadwal yang bergerak presisi dari menit ke menit.
+
+Bagi anak usia sebelas hingga dua belas tahun, keterkejutan ini memicu fenomena yang dalam sains perkembangan dan psikiatri anak disebut sebagai **Krisis Keterputusan Kelekatan (*Attachment Disruption Crisis*)**[^2].
 
 ```mermaid
 graph TD
-    A["Santri Terpisah dari Pelukan Orang Tua & Rumah Nyaman"] --> B["Amigdala Mendeteksi Kehilangan Figur Lekat Aman"]
-    B --> C["Sistem Saraf Otonom Terlempar ke Status Siaga Bahaya"]
-    C --> D1["Gejala Emosional: Menangis Histeris, Murung, Menarik Diri"]
-    C --> D2["Gejala Somatisasi Fisik: Mual, Pusing, Sakit Perut & Enuresis (Mengompol)"]
-    C --> D3["Disorientasi Ruang: Lupa Menaruh Barang, Sandal Hilang, Pakaian Menumpuk"]
+    A["Santri Terpisah dari Rumah & Pelukan Orang Tua"] --> B["Amigdala Membaca Hilangnya Figur Lekat Aman"]
+    B --> C["Sumbu HPA Melepaskan Hormon Stres (Kortisol & Adrenalin)"]
     
-    D1 & D2 & D3 --> RESPONS_TUMBUH["PROTOKOL HIGH-SUPPORT PENGASUHAN J1:<br/>Musyrif Hadir Sebagai Ayah Pengganti (In Loco Parentis)<br/>Menghadirkan Kehangatan, Dekapan Kasih & Rasa Aman"]
-```
-
-Sakit perut yang dialami santri J1 adalah **Somatisasi Saraf Asli (*Psychosomatic Pain*)**: kecemasan batin yang intens menstimulasi saraf vagus di saluran cerna (*the gut-brain axis*), memicu kram lambung nyata. Anak tersebut tidak sedang berpura-pura sakit untuk membolos! Tubuh biologisnya sedang menjerit membutuhkan rasa aman.
-
-Oleh karena itu, arsitektur TUMBUH menetapkan: **Jenjang J1 (Kemandirian Pemula / Adaptif) adalah fase High Support (Dukungan Maksimal 80%)**. Tugas utama musyrif di jenjang J1 bukanlah menguji ketahanan mental anak dengan kekerasan, melainkan **menghadirkan rahim rasa aman kedua (*the secondary womb of safety*)** di asrama.
-
----
-
-### 13.2 Protokol Pendampingan Musyrif Jenjang J1: Bimbingan Fisik Langsung
-
-Di Jenjang J1, musyrif bertindak sebagai **In Loco Parentis (Orang Tua Pengganti yang Penuh Welas Asih)**. Pendampingan dilakukan melalui **Bimbingan Fisik Nyata (*Hands-On Scaffolding*)** langkah demi langkah:
-
-```mermaid
-graph LR
-    subgraph PROTOKOL_SCAFFOLDING_J1["Empat Langkah Bimbingan Nyata Musyrif J1"]
-        L1["1. I DO, YOU WATCH<br/>Musyrif Mencontohkan Cara Melipat Baju / Mencuci"] --> L2["2. WE DO TOGETHER<br/>Musyrif & Santri Melakukan Bersama di Kamar"]
-        L2 --> L3["3. YOU DO, I WATCH<br/>Santri Melakukan Sendiri Didampingi Senyuman Musyrif"]
-        L3 --> L4["4. CELEBRATE SUCCESS<br/>Musyrif Mengapresiasi Kemandirian Kecil yang Dicapai"]
+    subgraph MANIFESTASI_KRISIS_J1["Tiga Bentuk Reaksi Biologis Santri J1"]
+        C --> D1["1. GEJALA AFEKTIF / EMOSIONAL<br/>Menangis Histeris, Murung, Menarik Diri, Ingin Kabur"]
+        C --> D2["2. GEJALA SOMATISASI FISIK<br/>Kram Lambung, Mual, Sakit Kepala, Demam Semu, Enuresis (Mengompol)"]
+        C --> D3["3. DISORIENTASI EKSEKUTIF KOGNITIF<br/>Lupa Meletakkan Sandal, Pakaian Hilang, Buku Berserakan"]
     end
+
+    D1 & D2 & D3 --> SOLUSI_TUMBUH["PROTOKOL HIGH-SUPPORT PENGASUHAN J1:<br/>Musyrif Sebagai 'In Loco Parentis' (Orang Tua Pengganti)<br/>Menyediakan Rahim Rasa Aman Kedua (Secondary Womb of Safety)"]
 ```
 
-Mari kita periksa bagaimana protokol ini diterapkan pada empat keterampilan dasar santri J1:
+#### 1. Memahami Fenomena Somatisasi Saraf (Bukan Kepura-puraan!)
+Banyak musyrif konvensional mengeluhkan bahwa di bulan-bulan pertama, ruang klinik asrama selalu dipenuhi santri baru yang mengeluh sakit perut melilit, mual, pusing, atau demam ringan, padahal hasil pemeriksaan laboratorium dokter menunjukkan tidak ada infeksi bakteri apa pun. Sebagian pembina dengan sinis menuduh anak-anak itu "pura-pura sakit demi membolos halaqah tahfidz".
 
-#### 1. Adab Thaharah dan Kebersihan Biologis
-Banyak santri baru yang masuk pondok belum memahami fikih bersuci secara benar. Musyrif J1 tidak boleh berasumsi bahwa anak sudah bisa. Musyrif masuk ke kamar mandi bersama santri untuk mengajarkan secara visual: cara beristinja' yang sah dari najis kencing, cara menggosok gigi yang benar, cara mencuci pakaian dalam yang higienis, serta tata cara mandi wajib (*ghusl*) saat santri mengalami mimpi basah pertamanya. Penjelasan diberikan dengan bahasa ilmiah dan syar'i yang menjaga kehormatan anak tanpa rasa risih.
+TUMBUH melarang keras penghakiman yang zalim ini. Sains neurobiologi usus-otak (*the gut-brain axis*) membuktikan bahwa **kram perut yang dialami santri J1 adalah rasa sakit fisik yang nyata (*real psychosomatic pain*)**[^3]. 
 
-#### 2. Manajemen Lemari dan Kepemilikan Barang (Anti-Ghashab Sejak Dini)
-Mengapa sandal dan pakaian santri sering hilang? Karena lemari santri J1 semrawut laksana kapal pecah! Musyrif J1 mendampingi santri menata lemarinya:
-* Mengelompokkan seragam sekolah, pakaian salat, dan pakaian tidur pada rak yang berbeda.
-* Memberi label nama permanen pada seluruh pakaian, handuk, sajadah, dan sandal santri.
-* Mengajarkan aturan emas kamar: *"Barang siapa yang memakai sandal orang lain tanpa izin lisan pemiliknya, ia telah berbuat dosa ghashab yang diharamkan Allah."* Kebiasaan meminta izin ditegakkan secara ketat sejak hari pertama.
+Ketika amigdala anak mendeteksi rasa cemas dan ketakutan akan keterpisahan (*separation anxiety*), sinyal darurat tersebut dikirimkan melalui saraf vagus langsung menuju sistem saraf enterik di dinding lambung dan usus. Lambung merespons dengan memproduksi asam berlebih dan kram otot polos yang sangat menyakitkan. Anak tersebut tidak berbohong; tubuh biologisnya sedang menjerit mencari rasa aman!
 
-#### 3. Ritual Bangun Fajar Penuh Kelembutan
-Musyrif J1 mengharamkan suara gedoran ember atau siraman air dingin. Musyrif berkeliling dari kasur ke kasur: menyentuh pundak santri, mengusap kepalanya, dan membisikkan salam: *"Bangunlah duhai anakku, waktu subuh telah tiba, mari kita bersuci menghadap Allah."* Jika ada anak yang sangat sulit membuka mata karena kelelahan adaptasi, musyrif membantunya duduk, memberinya segelas air putih hangat, dan menuntunnya melangkah ke tempat wudhu.
+Demikian pula dengan fenomena **Enuresis Nokturnal (Mengompol Kembali)** yang kerap dialami anak-anak J1 di bulan-bulan awal. Anak yang di rumahnya sudah bertahun-tahun tidak mengompol, tiba-tiba terbangun dengan kasur yang basah kuyup di asrama. Ini adalah respons regresi saraf bawah sadar (*developmental regression under stress*). 
 
-#### 4. Lingkaran Curhat Malam (*Bedtime Comfort Circle*)
-Setiap malam pukul 21.00 sebelum lampu dipadamkan, musyrif duduk melingkar bersama seluruh anak kamarnya selama 15 menit. Ini adalah sesi katarsis emosi:
-* Musyrif bertanya: *"Apa hal paling menyenangkan yang kalian alami hari ini? Dan siapa yang hari ini merasa sedih atau rindu rumah?"*
-* Santri diberi ruang menangis dengan aman tanpa ditertawakan kawan-kawannya. Musyrif merangkul anak yang menangis, mendoakannya, dan membacakan kisah-kisah keteladanan para nabi dan sahabat yang menuntut ilmu di negeri yang jauh. Anak tidur dalam keadaan jiwa yang tenang (*peaceful closure*).
+Jika musyrif mempermalukan anak tersebut dengan menjemur kasurnya di tengah lapangan atau mengejeknya di depan teman sekamar, harga diri anak itu akan hancur lebur (*toxic shame*). Anak akan mengisolasi diri, membenci pesantren, dan berisiko mengalami depresi masa kanak-kanak.
+
+#### 2. Dosis Pengasuhan J1: High Support (Dukungan Maksimal 80%)
+Oleh karena itu, arsitektur TUMBUH menetapkan hukum mutlak: **Jenjang J1 (Kemandirian Pemula / Adaptif) adalah fase High Support**. 
+
+Di jenjang ini, musyrif tidak boleh menjaga jarak atau bersikap laksana mandor militer yang hanya berdiri berkacak pinggang meniup peluit. Musyrif mengalokasikan 80% energi pengasuhannya untuk memberikan **kehadiran fisik melekat (*embodied physical presence*)**: mendengarkan curahan hati, merangkul, mengajari hal-hal sepele, dan menjadi jangkar ketenangan emosional bagi jiwa-jiwa kecil yang sedang berjuang menata hidup barunya.
 
 ---
 
-### 13.3 Bedah Jenjang J2: Kemandirian Terbimbing (Guided Scaffolding)
+### 13.2 Protokol Operasional 90 Hari Pertama Jenjang J1
 
-Setelah melewati masa krisis 90 hari pertama dan menyelesaikan tahun pertamanya di pondok, santri bertransformasi melangkah ke **Jenjang J2 (Kemandirian Terbimbing / Responsif)**.
+Untuk memandu musyrif dan wali asrama di lapangan, TUMBUH merumuskan kurikulum pengasuhan 90 hari pertama yang terbagi ke dalam tiga etape transisi yang sangat sistematis:
 
-Santri J2 telah kerasan tinggal di asrama, telah hafal seluk-beluk lorong pondok, dan tidak lagi menangis rindu orang tua. Namun, mereka memasuki medan pertempuran perkembangan baru yang tak kalah menantang: **Ledakan Pubertas Awal (Usia 13–14 Tahun)**.
+```text
+              PETA JALAN 90 HARI PERTAMA SANTRI JENJANG J1
+┌───────────────────┬───────────────────┬───────────────────┐
+│ BULAN I (HARI 1-30)│ BULAN II (HARI 31-60)│ BULAN III (HARI 61-90)│
+├───────────────────┼───────────────────┼───────────────────┤
+│ ETAPE PERTAUTAN   │ ETAPE PEMBIASAAN  │ ETAPE KONSOLIDASI │
+│ & RASA AMAN       │ KETERAMPILAN RAGA │ DAN UKHUWAH       │
+├───────────────────┼───────────────────┼───────────────────┤
+│ • Dekapan kasih   │ • Pelatihan wudhu │ • Penataan jadwal │
+│   musyrif & doa.  │   & thaharah sah. │   belajar kamar.  │
+│ • Validasi rindu  │ • Latihan melipat │ • Pembagian piket │
+│   rumah (curhat). │   baju & mencuci. │   kamar mandiri.  │
+│ • Pengenalan peta │ • Labelisasi rak  │ • Pengikatan rasa │
+│   fisik asrama.   │   sandal & lemari.│   persaudaraan.   │
+└───────────────────┴───────────────────┴───────────────────┘
+```
+
+#### 1. Protokol Bimbingan Keterampilan Hidup Nyata (Hands-On Scaffolding)
+Musyrif J1 mendidik dengan metodologi empat langkah kenabian:
+1. **Ustadz Mencontohkan, Santri Memperhatikan (*I Do, You Watch*):** Musyrif duduk di lantai kamar bersama santri, membentangkan kain sarung, dan mendemonstrasikan teknik melipat sarung menjadi balok rapi simetris. Musyrif masuk ke kamar mandi dan mempraktikkan bagaimana cara mengucek kerah baju putih yang terkena noda keringat menggunakan sabun batangan.
+2. **Kita Melakukan Bersama (*We Do Together*):** Musyrif dan santri bersama-sama merapikan seprai ranjang, menarik ujung-ujung kain hingga kencang tanpa kerutan, dan menata tumpukan kitab di atas meja belajar.
+3. **Santri Melakukan Sendiri Didampingi Musyrif (*You Do, I Watch*):** Santri mempraktikkan mandiri melipat pakaian dan mencuci piring makannya, sementara musyrif berdiri di sampingnya dengan senyum hangat, memberikan koreksi lembut jika ada langkah yang keliru.
+4. **Merayakan Keberhasilan Kecil (*Celebrate Small Wins*):** Musyrif memberikan afirmasi positif verbal yang spesifik: *"Masya Allah, Zaid! Lipatan selimutmu pagi ini sudah sangat rapi laksana balok kayu. Ustadz bangga melihat kemandirianmu yang bertumbuh setiap hari!"*
+
+#### 2. Protokol Pemberantasan Budaya Ghashab Sejak Bilik J1
+Budaya *ghashab* (mengambil alas kaki atau ember teman tanpa izin) yang merusak pesantren harus dicegah sejak hari pertama santri J1 menginjakkan kaki di asrama. TUMBUH menerapkan **Tiga Kunci Tertib Kebendaan**:
+- **Labelisasi Permanen Seluruh Aset Pribadi:** Pada pekan pertama, musyrif mendampingi santri menuliskan nama lengkap dan nomor kamar pada setiap helai pakaian, handuk, sajadah, gayung, ember, dan kedua belah sandal jepit menggunakan spidol permanen kain.
+- **Satu Sandal Satu Slot Vertikal:** Setiap santri J1 memiliki slot rak sandal khusus yang diberi label namanya di luar pintu kamar. Sandal wajib diletakkan menghadap ke luar siap pakai.
+- **Doktrin Kehormatan Milik Saudara:** Musyrif menanamkan secara mendalam bahwa memakai sandal saudara tanpa izin lisan bukan tanda keakraban, melainkan dosa kezaliman yang mencabut keberkahan ilmu dan hafalan Al-Qur'an.
+
+#### 3. Ritual Bangun Fajar Penuh Kasih Sayang (The Sacred Dawn Protocol)
+TUMBUH mengharamkan secara mutlak suara gedoran pintu seng, denting ember besi, atau siraman air dingin yang mengagetkan jantung santri saat bangun subuh. 
+
+Pukul 04.00 pagi, musyrif J1 menyalakan lampu tidur remang, memutar lantunan tilawah merdu bersuara lembut, lalu berkeliling dari ranjang ke ranjang. Musyrif menyentuh telapak kaki santri dengan lembut, mengusap dahinya seraya berbisik:  
+$$\text{"Ash-shalātu khairum minan naum... Bangunlah duhai buah hati ustadz, fajar rahmat Allah telah tiba, mari kita bersuci menyambut seruan-Nya."}$$
+
+Jika ada santri yang tubuhnya masih sangat berat karena keletihan, musyrif tidak membentaknya. Musyrif membantunya duduk bersandar, mengusap punggungnya, memberinya segelas air putih hangat untuk membasahi kerongkongannya, lalu menuntun langkahnya menuju tempat wudhu. Dalam kehangatan sentuhan itulah, salat subuh diasosiasikan di otak santri bukan sebagai siksaan yang menakutkan, melainkan sebagai perjumpaan yang indah dengan Rabb Yang Maha Penyayang.
+
+---
+
+### 13.3 Bedah Jenjang J2: Kemandirian Terbimbing (Guided Scaffolding) dan Dinamika Pubertas Awal
+
+Setelah melewati masa kritis 90 hari pertama dan menyelesaikan tahun pertamanya di pondok dengan predikat adaptif yang baik, santri melangkah naik menuju **Jenjang J2 (Kemandirian Terbimbing / Responsif)**. 
+
+Santri J2 tidak lagi menangis rindu rumah; mereka telah kerasan dengan aroma asrama, hafal jalan-jalan tikus di lingkungan pondok, dan mulai terampil mengurus kebutuhan raga dasarnya. Namun, di Jenjang J2 inilah mereka memasuki medan badai biologis baru yang sangat dahsyat: **Fase Pubertas Awal (Usia 13 hingga 14 Tahun / Kelas 8 Madrasah)**.
 
 ```mermaid
 graph TD
-    subgraph DINAMIKA_PERKEMBANGAN_J2["Dinamika Jiwa Santri Jenjang J2"]
-        P["Santri J2 (Usia 13–14 Tahun): Memasuki Masa Pubertas Awal"]
+    subgraph BADAI_PUBERTAS_J2["Trifaktor Kerentanan Santri Jenjang J2"]
+        P["Santri J2 (Usia 13–14 Tahun): Ledakan Pubertas Awal"]
         
-        P --> T1["1. Lonjakan Hormon Seks & Agresivitas (Testosteron / Estrogen)"]
-        P --> T2["2. Eksplorasi Batas Aturan (Boundary Testing & Kenakalan Klandestin)"]
-        P --> T3["3. Pembentukan Klik Teman Sebaya (Peer Cliques & Potensi Pengucilan)"]
+        P --> F1["1. LONJAKAN HORMONAL BIOLOGIS<br/>Testosteron (Putra) / Estrogen (Putri)<br/>Memicu Dorongan Seksual, Energi Berlebih & Agresivitas"]
         
-        T1 & T2 & T3 --> STRATEGI_J2["FOKUS PENGASUHAN J2: GUIDED SCAFFOLDING (50% DUKUNGAN)<br/>• Melatih Regulasi Diri (CC-1) & Komunikasi Beradab (CC-3)<br/>• Manajemen Konflik Kamar Mandiri Didampingi Musyrif<br/>• Penegakan Konsekuensi Logis Konsisten yang Memuliakan"]
+        P --> F2["2. PENGUJIAN BATAS OTORITAS (BOUNDARY TESTING)<br/>Mencoba Aturan Jam Malam, Menyelundupkan Makanan, Menguji Ketegasan Musyrif"]
+        
+        P --> F3["3. DINAMIKA KLIK TEMAN SEBAYA (PEER CLIQUES)<br/>Solidaritas Kelompok Sempit, Ejekan Verbal & Kerapuhan Persahabatan"]
     end
+
+    F1 & F2 & F3 --> STRATEGI_J2["FOKUS PENGASUHAN J2: GUIDED SCAFFOLDING (50% DUKUNGAN)<br/>• Menyalurkan Energi Fisik Melalui Riadah Beladiri & Olahraga Rutin<br/>• Pendelegasian Tata Kelola Kamar Lewat Majlis al-Ghurfah<br/>• Pelatihan Resolusi Konflik Peer-to-Peer Tanpa Kekerasan"]
 ```
 
-#### Karakteristik dan Tantangan Utama Santri J2:
-1. **Pengujian Batas Aturan (*Boundary Testing*)**:  
-   Santri J2 mulai merasa dirinya "bukan anak kecil lagi". Mereka mulai berani menguji ketegasan musyrif: mencoba tidur lebih lambat dari jam malam, menyelundupkan makanan ke dalam kamar secara sembunyi-sembunyi, atau bergurau melewati batas adab kesopanan.
-2. **Kerapuhan Relasi Antarteman Sekamar**:  
-   Di jenjang J2, perselisihan antarteman sekamar meledak lebih sering: saling mengejek kekurangan fisik kawan (*body shaming*), perselisihan jadwal piket menyapu kamar, atau perebutan fasilitas ranjang.
-3. **Pembentukan Klik Eksklusif (*In-Group vs Out-Group*)**:  
-   Santri mulai berkumpul berdasarkan kesamaan daerah asal atau kesamaan hobi, dan kerap mengabaikan atau mengucilkan kawan sekamar yang berkarakter pendiam atau berbeda latar belakang.
+#### 1. Fenomena Pengujian Batas (Boundary Testing)
+Santri J2 mulai mengalami metamorfosis psikologis: mereka merasa dirinya "bukan lagi anak kecil yang bisa disuruh-suruh seenaknya". Amigdala dan sistem pencarian status sosial mereka menyala terang. Mereka mulai berani melakukan eksperimen kenakalan klandestin:
+- Mencoba begadang melewati batas jam malam untuk mengobrol di bawah selimut.
+- Menguji kesabaran musyrif baru dengan melontarkan candaan bernada sarkasme halus.
+- Menyembunyikan mie instan atau makanan ringan di dalam sarung bantal untuk dimakan saat tengah malam.
+
+Bagi musyrif yang tidak memahami psikologi perkembangan, perilaku ini kerap diartikan sebagai "pembangkangan kriminal yang harus diinjak". 
+
+TUMBUH memandang perilaku *boundary testing* ini sebagai **kebutuhan fitrah untuk menguji di mana dinding batas keamanan berada**. Anak remaja membutuhkan kepastian bahwa orang dewasa di sekitarnya memiliki ketegasan yang adil dan dapat dipercaya (*firm and predictable boundaries*).
+
+#### 2. Dinamika Klik dan Kerapuhan Hubungan Sebaya
+Di jenjang J2, persahabatan anak-anak mulai mengelompok ke dalam klik-klik eksklusif berdasarkan daerah asal, minat hobi, atau kesamaan karakter. Kerawanan terbesar di jenjang ini bukanlah perundungan fisik brutal, melainkan **Perundungan Relasional (*Relational Aggression*)**:
+- Menyindir kekurangan fisik teman sekamar (*"Hei si gendut", "Hei si hitam"*).
+- Mengabaikan kawan yang pendiam saat diajak berbicara.
+- Menolak berbagi jemuran atau menolak kawan tertentu masuk ke dalam kelompok belajar.
+
+Luka batin yang dihasilkan oleh perundungan relasional ini sangat perih dan dapat membekas seumur hidup jika tidak dideteksi dan diintervensi secara dini oleh musyrif kamar.
 
 ---
 
-### 13.4 Protokol Pengasuhan Jenjang J2: Memandu Tanggung Jawab Mandiri
+### 13.4 Protokol Pengasuhan Jenjang J2: Menumbuhkan Tanggung Jawab Mandiri
 
-Di Jenjang J2, peran musyrif bergeser dari "orang tua yang melayani fisik" menjadi **Pemandu Perilaku Beradab (*Coaching and Scaffolding*)**:
+Di Jenjang J2, peran musyrif bergeser dari "pelayan fisik" menjadi **Pelatih Kehidupan dan Fasilitator Musyawarah (*Coaching and Scaffolding / Dosis Bantuan 50%)**:
 
-#### 1. Pendelegasian Tata Kelola Kamar Mandiri
-Musyrif tidak lagi mengatur jadwal piket kamar secara sepihak. Musyrif memfasilitasi **Musyawarah Kamar Santri**:
-* Santri J2 bermusyawarah menentukan struktur kamar mereka sendiri: siapa yang menjadi ketua kamar (*raisul ghurfah*), bagaimana pembagian jadwal piket membersihkan lantai, merapikan rak sandal, dan membuang sampah.
-* Santri membuat kesepakatan norma kamar bersama (*Room Norms Agreement*): *"Di kamar kita, tidak boleh ada yang memanggil temannya dengan julukan yang ia benci; di kamar kita, waktu istirahat malam adalah waktu hening yang wajib dihormati."*
-* Ketika santri merumuskan aturannya sendiri, rasa kepemilikan (*sense of ownership*) dan komitmen moral mereka untuk menaatinya melonjak drastis.
+#### 1. Tata Kelola Kamar Mandiri Melalui Majlis al-Ghurfah
+Musyrif tidak lagi membagikan jadwal piket kamar secara otoriter dari atas ke bawah. Musyrif memfasilitasi sidang mingguan kamar yang disebut **Majlis al-Ghurfah (Dewan Musyawarah Kamar)**:
+- Santri J2 duduk melingkar di atas karpet bersama musyrif setiap malam Ahad.
+- Mereka memilih ketua kamar (*raisul ghurfah*) secara demokratis dan bergilir setiap dua bulan sekali, sehingga setiap anak merasakan bagaimana beratnya memikul amanah kepemimpinan.
+- Mereka merumuskan **Piagam Norma Kamar (*Room Norms Agreement*)**:
+  - *"Di kamar kita, tidak ada seorang pun yang boleh memanggil saudaranya dengan nama yang menyakitkan hati."*
+  - *"Di kamar kita, batas jam belajar malam adalah pukul 22.00, setelah itu seluruh bilik wajib hening demi menghormati hak tidur orang lain."*
+  - *"Jika ada kawan yang piketnya berhalangan karena sakit, kita akan menggantikannya dengan ikhlas tanpa menggerutu."*
 
-#### 2. Pelatihan Resolusi Konflik Tingkat Kamar
-Ketika terjadi pertengkaran mulut atau perselisihan di antara santri J2, musyrif tidak langsung datang membagikan hukuman takzir. Musyrif mengaktifkan protokol **Lingkaran Restoratif Sederhana (*Peer Restorative Circle*)**:
-* Musyrif mendudukkan kedua santri yang berselisih saling berhadapan.
-* Musyrif memandu komunikasi: *"Rafi, katakan kepada Zaki apa yang membuatmu tersinggung dengan tenang tanpa membentak."*
-* Zaki diminta mendengarkan tanpa memotong, lalu mengulangi apa yang ia pahami dari perkataan temannya (*active listening*).
-* Musyrif bertanya kepada keduanya: *"Bagaimana solusi adil yang kalian sepakati agar perselisihan ini selesai dan persaudaraan kalian kembali pulih?"*
-* Melalui latihan berulang ini, santri J2 belajar seni beradab mengelola konflik secara dewasa—sebuah keterampilan hidup (*life skill*) yang tak ternilai harganya bagi masa depan mereka.
+Ketika norma kamar lahir dari konsensus musyawarah santri itu sendiri, rasa kepemilikan (*sense of agency*) mereka melonjak drastis. Mereka mematuhi aturan bukan karena takut kepada musyrif, melainkan karena menghormati janji kehormatan yang telah mereka sepakati bersama saudaranya.
+
+#### 2. Protokol Resolusi Konflik Antarteman Sebaya (Peer De-escalation Script)
+Ketika terjadi gesekan atau pertengkaran mulut antarsantri J2, musyrif menghentikan interaksi tersebut dengan tenang, memisahkan keduanya selama 15 menit agar amigdala mereka mendingin, lalu mempertemukan keduanya dalam sesi mediasi meja bundar:
+
+```text
+               NASKAH MEDIASI DIALOG RESTORATIF J2
+┌────────────────────────────────────────────────────────────────────────┐
+│ 1. LANGKAH PENJELASAN FAKTA (Tanpa Memotong)                           │
+│    Musyrif: "Ahmad, sampaikan kepada Zaki apa peristiwa yang membuatmu │
+│    kecewa dengan nada tenang tanpa melabeli."                          │
+├────────────────────────────────────────────────────────────────────────┤
+│ 2. LANGKAH MENDENGARKAN AKTIF (Active Listening Echo)                  │
+│    Musyrif: "Zaki, ulangi apa yang tadi kamu dengar dari penuturan     │
+│    Ahmad, agar kita pastikan tidak ada salah paham."                   │
+├────────────────────────────────────────────────────────────────────────┤
+│ 3. LANGKAH VALIDASI PERASAAN (Empathy Activation)                      │
+│    Musyrif: "Bagaimana perasaanmu, Ahmad, saat bukumu tercoret?        │
+│    Dan bagaimana perasaanmu, Zaki, saat melihat Ahmad bersedih?"       │
+├────────────────────────────────────────────────────────────────────────┤
+│ 4. LANGKAH KESEPAKATAN RESTITUSI (Restorative Agreement)               │
+│    Musyrif: "Apa tindakan nyata yang perlu dilakukan untuk memperbaiki │
+│    buku tersebut dan menghapus ganjalan di antara hati kalian?"        │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Melalui pembiasaan dialog restoratif ini, santri J2 berlatih menguasai kecakapan sosial paling luhur dalam peradaban: **menyelesaikan perselisihan dengan nalar, empati, dan keadilan, tanpa kepalan tinju dan tanpa caci maki.**
 
 ---
 
-### 13.5 Matriks Capaian Delapan Kapasitas Inti pada Jenjang J1 dan J2
+### 13.5 Matriks Komprehensif Capaian 8 Kapasitas Inti (8 CC) Jenjang J1 dan J2
 
-Untuk memberikan panduan evaluasi formatif yang presisi bagi musyrif dan guru asrama, berikut adalah **Matriks Standar Capaian 8 Core Capacities pada Jenjang J1 dan J2**:
+Untuk memastikan objektivitas evaluasi formatif musyrif di asrama, berikut adalah matriks indikator perilaku autentik 8 Core Capacities pada Jenjang J1 dan J2:
 
-| Kapasitas Inti (8 CC) | Standar Capaian Jenjang J1 (Pemula / Adaptif) | Standar Capaian Jenjang J2 (Terbimbing / Responsif) |
+| Kapasitas Inti (8 CC) | Standar Unjuk Kerja Jenjang J1 (Pemula / Adaptif) | Standar Unjuk Kerja Jenjang J2 (Terbimbing / Responsif) |
 | :--- | :--- | :--- |
-| **CC-1: Regulasi Diri (*Self-Regulation*)** | Mampu bangun tidur saat dibangunkan musyrif tanpa merajuk; mampu menenangkan tangisan rindu rumah dengan bantuan pembina. | Mampu bangun fajar dengan alarm kamar; mampu menahan amarah fisik saat diejek teman dan memilih melapor kepada musyrif. |
-| **CC-2: Nalar Kritis (*Critical Thinking*)** | Mampu memahami dan menghafal jadwal harian asrama serta aturan dasar thaharah dan ibadah. | Mampu menjelaskan alasan mengapa budaya *ghashab* dilarang syariat dan merugikan ukhuwah kamar. |
-| **CC-3: Komunikasi Beradab (*Communication*)** | Mampu menyampaikan kebutuhan fisik dan keluhan sakitnya kepada musyrif secara jujur dan santun. | Mampu menggunakan kata *"tolong, maaf, dan terima kasih"*; menjauhi kata-kata kasar dan nama binatang saat bergurau. |
-| **CC-4: Kerja Sama (*Collaboration*)** | Bersedia berbagi ruang ranjang dan tempat jemuran pakaian secara damai dengan teman sekamar. | Menjalankan piket kebersihan kamar tepat waktu sesuai jadwal musyawarah tanpa perlu disuruh berulang kali. |
-| **CC-5: Keberfungsian Fisik (*Physical Functioning*)** | Terampil mencuci pakaian dasar, mandi bersih tepat waktu, dan makan makanan asrama dengan tertib adab makan. | Mampu merawat kerapian lemari sendiri, menjaga pakaian suci dari najis, dan berolahraga sore secara teratur. |
-| **CC-6: Kepekaan Sosial (*Social Understanding*)** | Mengenal nama seluruh kawan sekamarnya dan menghormati barang milik orang lain. | Peka membantu kawan sekamar yang sedang sakit di klinik dan menolak ikut-ikutan menertawakan kawan yang tergelincir. |
-| **CC-7: Agensi & Inisiatif (*Agency*)** | Mulai mengambil inisiatif mencuci piring makannya sendiri setelah selesai santap makan di dapur. | Memungut sampah yang tercecer di lantai kamar tanpa menunggu disuruh ketua kamar atau musyrif. |
-| **CC-8: Pemecahan Masalah (*Problem Solving*)** | Jika barangnya hilang, segera melapor jujur kepada musyrif tanpa menuduh sembarangan kawan sekamar. | Mampu meminta maaf secara ksatria jika berbuat salah dan bersedia mengganti kerugian barang kawan yang ia rusakkan. |
+| **CC-01: Regulasi Diri (*Mujahadah*)** | Mampu bangun saat disentuh musyrif tanpa merajuk; mampu menenangkan tangis rindu rumah dalam dekapan pembina. | Mampu bangun fajar dengan alarm kamar mandiri; mampu menahan dorongan memukul saat diejek teman dan memilih melapor kepada musyrif. |
+| **CC-02: Komunikasi Beradab (*Hifzhul Lisan*)** | Mampu menyampaikan keluhan fisik atau kebutuhan obat kepada musyrif secara santun dan jujur. | Membiasakan kata *"tolong, maaf, terima kasih"*; menolak memanggil kawan dengan julukan binatang atau celaan fisik. |
+| **CC-03: Nalar Kritis (*Al-Hikmah*)** | Mengenali urutan jadwal 24 jam asrama dan mematuhi batas wilayah terlarang pondok. | Mampu menjelaskan alasan syar'i mengapa budaya ghashab sandal merusak keberkahan ilmu dan merugikan teman. |
+| **CC-04: Ibadah & Muraqabah** | Mengikuti salat fardhu berjamaah di masjid tepat waktu dengan pakaian suci berwudhu rapi. | Mulai terbiasa menjalankan salat sunnah rawatib dan tilawah Al-Qur'an setengah juz per hari atas inisiatif pribadi. |
+| **CC-05: Kebugaran Jasmani** | Mampu mandi bersih secara mandiri, mencuci pakaian dasar, dan makan makanan dapur asrama secara tertib. | Mampu merawat kerapian lemari tanpa bantuan, menjemur pakaian hingga kering sempurna, dan aktif dalam olahraga sore. |
+| **CC-06: Kejujuran & Amanah** | Mengakui terus terang jika belum hafal tugas madrasah tanpa mencari-cari alasan palsu. | Segera mengembalikan barang temuan sekecil apa pun ke posko barang hilang (*Lajnah Mafqudat*) tanpa menyembunyikannya. |
+| **CC-07: Empati & Khidmah** | Mengenal nama seluruh teman sekamar dan bersedia berbagi ruang gantungan baju secara adil. | Peka merawat kawan sekamar yang sedang terbaring sakit di kasur: membawakannya makanan dari dapur dan menghiburnya. |
+| **CC-08: Metakognisi & Muhasabah** | Mengisi lembar checklist harian adab kamar bersama musyrif sebelum tidur malam. | Mampu mengidentifikasi pemicu rasa malas belajarnya dan menyepakati target perbaikan pribadi mingguan bersama pembina. |
 
-Ketika fondasi adaptasi di Jenjang J1 tertanam kokoh dalam rasa aman cinta, dan pembiasaan adab di Jenjang J2 tertempa dalam disiplin terbimbing yang adil, santri telah memiliki akar yang sangat kuat untuk bertumbuh mekar.
+---
 
-Lalu, bagaimanakah lompatan transformasi menuju kemandirian penuh tanpa pengawasan (Jenjang J3) dan kepemimpinan teladan penggerak peradaban (Jenjang J4) dirancang dan dikawal?  
-Inilah yang akan kita jelajahi secara mendalam dalam **Bab 14: Bedah Jenjang J3 & J4: Otonomi Karakter dan Kepemimpinan Qudwah**.
+### Rangkuman Intisari Bab 13
+
+1. **Hakikat Krisis 90 Hari Pertama:** Santri Jenjang J1 mengalami krisis keterputusan kelekatan (*attachment disruption*); gejala somatisasi seperti kram lambung dan mengompol adalah respons biologis saraf nyata, bukan kepura-puraan.
+2. **Dosis Pengasuhan J1 (High Support 80%):** Musyrif bertindak sebagai orang tua pengganti (*in loco parentis*) yang menghadirkan rahim rasa aman kedua; mengajari keterampilan hidup melalui demonstrasi fisik langsung (*hands-on scaffolding*).
+3. **Pemberantasan Ghashab dan Ritual Bangun Fajar:** Menegakkan tertib kepemilikan aset kamar melalui labelisasi permanen dan menolak keras gedoran seng saat subuh; menggantinya dengan bisikan salam dan sentuhan kebapakan yang memuliakan.
+4. **Tantangan Pubertas Awal Jenjang J2:** Menghadapi lonjakan hormon seksual, pengujian batas aturan (*boundary testing*), dan kerapuhan perundungan relasional dalam klik teman sebaya.
+5. **Dosis Pengasuhan J2 (Guided Scaffolding 50%):** Mengalihkan energi santri ke arah kepemimpinan mandiri melalui musyawarah kamar (*Majlis al-Ghurfah*) dan melatih resolusi konflik antarteman sebaya melalui naskah dialog restoratif yang adil.
 
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Luqman [31]: 17.
-[^2]: John Bowlby, *Attachment and Loss: Vol. 1. Attachment* (New York: Basic Books, 1969); Mary D. Salter Ainsworth, *Patterns of Attachment: A Psychological Study of the Strange Situation* (Hillsdale: Lawrence Erlbaum Associates, 1978).
+[^2]: John Bowlby, *Attachment and Loss: Vol. 1. Attachment* (New York: Basic Books, 1969), hlm. 177–235; Mary D. Salter Ainsworth, *Patterns of Attachment: A Psychological Study of the Strange Situation* (Hillsdale: Lawrence Erlbaum Associates, 1978).
+[^3]: Emeran A. Mayer, *The Mind-Gut Connection: How the Hidden Conversation Within Our Bodies Impacts Our Mood, Our Choices, and Our Overall Health* (New York: Harper Wave, 2016), hlm. 85–124 mengenai *the gut-brain axis* dan somatisasi kecemasan pada anak.

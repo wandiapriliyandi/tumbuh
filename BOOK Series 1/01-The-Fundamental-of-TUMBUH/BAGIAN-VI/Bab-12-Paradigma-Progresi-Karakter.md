@@ -1,163 +1,208 @@
 # BAB 12: PARADIGMA PROGRESI KARAKTER
-## Dari Bimbingan Intensif Menuju Penggerak Peradaban: Harmonisasi Tiga Lensa Arsitektur
+## Dari Bimbingan Melekat Menuju Penggerak Peradaban: Menyelaraskan Tiga Lensa Arsitektur dan Delapan Kapasitas Inti Fitrah
 
 > لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
 >
 > *"Sungguh, kamu benar-benar akan menapaki tingkatan demi tingkatan (tahap demi tahap dalam kehidupan dan kedewasaan jiwa)."*  
-> — **Al-Qur'an al-Karim**, Surah Al-Insyiqaq [84]: 19[^1]
+> — **QS. Al-Insyiqaq [84]: 19**[^1]
+
+---
+
+### Prolog: Langkah-Langkah Pertama di Bawah Gerbang Kayu
+
+Pagi itu, di bawah gerbang kayu jati bertuliskan kaligrafi kufi di mulut pesantren, dua dunia yang sangat berbeda melintas berdampingan. Di sisi kiri gerbang, seorang anak lelaki berusia sebelas tahun melangkah dengan langkah terseret. Tas punggungnya tampak terlalu besar bagi bahunya yang ringkih. Matanya sembab kemerahan; jemari kecilnya mencengkeram ujung gamis ibunya erat-erat, seolah jika ia melepaskan genggaman itu walau sedetik saja, dunianya akan runtuh berkeping-keping. Anak itu baru saja menempuh perjalanan tujuh jam dari sebuah kota di pesisir, dan hari ini untuk pertama kalinya dalam hidupnya, ia harus tidur di atas dipan susun bersama orang-orang asing tanpa pelukan dan ciuman kening sang ibu sebelum memejamkan mata.
+
+Tepat di sisi kanan gerbang, seorang santri kelas dua belas melangkah dengan tenang dan percaya diri. Langkah kakinya mantap menyapa kerikil halaman. Peci hitamnya terpasang rapi, sorot matanya teduh memancarkan wibawa yang tenang. Ketika ia melihat seorang wali santri baru tampak kebingungan mengangkat kardus perbekalan yang berat dari bagasi mobil, tanpa menunggu komando sang pembina, santri senior itu menghampiri dengan senyum tulus, menundukkan tubuh seraya menyapa: *"Biar saya bantu bawakan ke kamar asrama, Pak. Mari saya antarkan lewat jalan setapak yang teduh."*
+
+Dua anak manusia itu berdiri di bawah naungan pesantren yang sama, menatap kubah masjid yang sama, dan menghirup udara pegunungan yang sama. Namun, jurang kapasitas di antara keduanya terbentang sejauh ufuk timur dan barat. 
+
+Yang satu adalah kuncup fitrah yang baru saja tercabut dari pot kenyamanan rumah, rapuh, cemas, dan bingung bagaimana cara mencuci piringnya sendiri setelah makan. Yang lain adalah pohon adab yang telah kokoh berakar, matang mengendalikan impuls emosinya, tangguh menghadapi kesulitan, dan tangannya selalu terulur untuk melayani sesamanya.
+
+Bagaimanakah seekor ulat yang rapuh bertransformasi menjadi kupu-kupu yang anggun melintasi taman bunga? Bagaimanakah anak kecil yang sembab menangis itu dapat bermutasi menjadi ksatria penggerak kebaikan di asrama?
+
+Bab ini membedah arsitektur agung di balik keajaiban transformasi tersebut. Bab ini membongkar kepalsuan tradisi penyeragaman kaku yang merusak jiwa santri, merumuskan Penyelarasan Tiga Lensa Arsitektur TUMBUH (10 Tingkat Adab, 5 Tingkat Kapasitas, dan 4 Jenjang J1–J4), memetakan Delapan Kapasitas Inti Fitrah (*The 8 Core Capacities*), serta menyajikan seni pedagogis pelepasan bantuan bertahap (*fading scaffolding*) yang mengantarkan santri dari ketergantungan menuju kemerdekaan jiwa sejati.
 
 ---
 
 ### 12.1 Tragedi Penyeragaman Kaku: Mengapa Satu Ukuran Menghancurkan Jiwa?
 
-Di banyak pondok pesantren konvensional, terdapat sebuah kekeliruan sistemik yang telah berlangsung turun-temurun: **Penyamaan Tuntutan Tanpa Memandang Tahapan Kematangan Jiwa (*One-Size-Fits-All Fallacy*)**.
+Di banyak lembaga asrama tradisional maupun modern, terdapat sebuah ilusi pedagogis berbahaya yang telah menelan ribuan korban jiwa anak-anak santri: **Jebakan Penyeragaman Tuntutan Tanpa Memandang Tahapan Kematangan (*The One-Size-Fits-All Fallacy*)**.
 
-Bayangkan sebuah pemandangan harian di lapangan asrama:
-Seorang santri kelas tujuh yang baru berusia dua belas tahun—yang baru dua pekan berpisah dari dekapan hangat ibunya di rumah—dijatuhi sanksi takzir yang sama persis beratnya dengan santri kelas dua belas yang telah berusia delapan belas tahun. Keduanya sama-sama terlambat dua menit masuk masjid saat maghrib, dan keduanya sama-sama disuruh berdiri di depan saf jamaah di bawah tatapan mencemooh dari ratusan pasang mata.
+Bayangkan sebuah pemandangan tragis yang kerap disaksikan di lapangan asrama:
+Seorang santri kelas tujuh yang baru genap dua pekan tinggal di pondok dijatuhi hukuman yang persis sama beratnya dengan santri kelas dua belas. Keduanya sama-sama terlambat dua menit memasuki saf masjid saat salat maghrib. Keduanya disuruh berdiri berjam-jam di depan mimbar masjid di bawah sorot lampu dan tatapan menghakimi dari ratusan pasang mata santri lainnya.
 
-Sang pembina berdalih dengan penuh kebanggaan: *"Hukum di pondok kami tidak pandang bulu! Mau santri baru, mau santri lama, semua diperlakukan sama rata tanpa kecuali!"*
+Ketika dipersoalkan mengenai keadilan perlakuan tersebut, pengurus asrama menjawab dengan nada pongah: *"Di pondok kami hukum ditegakkan seadil-adilnya! Tidak ada anak emas dan tidak ada diskriminasi! Mau santri baru, mau santri lama, semua aturan dipukul rata!"*
 
-Perhatikan kekeliruan fatal di balik ucapan tersebut! Menyamaratakan perlakuan antara dua manusia yang memiliki tingkat kematangan biologis, kognitif, dan adaptasi sosial yang berbeda jauh **bukanlah keadilan; itu adalah hakikat kezaliman yang nyata!**
+Ucapan tersebut terdengar heroik di telinga orang yang awam, namun sesungguhnya mencerminkan kebodohan epistemologis yang sangat fatal. Menyamaratakan tuntutan dan sanksi kepada dua individu yang memiliki tingkat kematangan biologis, kapasitas fungsi eksekutif korteks prafrontal, dan daya adaptasi lingkungan yang berbeda jauh **bukanlah keadilan; itu adalah hakikat kezaliman yang paling nyata!**
 
-Keadilan dalam epistemologi Islam, sebagaimana ditegaskan oleh para ulama ushul dan filosof adab, adalah:
+Keadilan dalam epistemologi Islam, sebagaimana ditegaskan oleh para fukaha ushul dan filosof adab terkemuka, dirumuskan dengan sangat anggun:
 
 $$\text{وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ}$$
 
-> *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat dan layak."*[^2]
+> *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^2]
 
-Meletakkan beban ekspektasi kemandirian santri senior ke atas pundak anak kecil yang baru beradaptasi adalah bentuk ketidakadilan yang meremukkan saraf. Sebaliknya, terus-menerus memperlakukan santri senior kelas dua belas laksana anak balita yang harus diatur hingga detail terkecil dan diteriaki dengan peluit setiap pagi adalah pelecehan terhadap kedewasaan akalnya yang memicu apatisme dan pemberontakan.
+Meletakkan beban ekspektasi kemandirian santri senior ke atas pundak anak kecil yang baru beradaptasi adalah kezaliman pedagogis yang memicu kepanikan saraf (*nervous system flooding*), merusak rasa aman, dan melahirkan trauma kronis. 
 
-Pertumbuhan karakter manusia adalah sebuah **proses perkembangan (*developmental progression*)**. Al-Qur'an al-Karim menegaskan sunnatullah ini dalam firman-Nya: **لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ** (*Sungguh kamu akan menapaki tahap demi tahap*). Karakter tidak melonjak secara instan dari kelalaian langsung menuju kemakrifatan; jiwa santri mendaki tangga demi tangga kebaikan melalui pendampingan yang proporsional.
+Sebaliknya, terus-menerus memperlakukan santri senior kelas dua belas laksana anak balita yang harus dipandu setiap detik, dibangunkan dengan teriakan peluit, dan dicurigai setiap gerak-geriknya adalah pelecehan terhadap martabat akal budinya yang sedang mendambakan tanggung jawab dan kepercayaan. Hal itu mematikan inisiatif, menumpulkan daya cipta, serta melahirkan generasi yang manja dan sinis.
+
+Pertumbuhan karakter manusia adalah sebuah **proses perkembangan bertahap (*developmental progression*)**. Al-Qur'an al-Karim mengukuhkan sunnatullah ini secara sangat tegas: **لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ** (*Sungguh kamu benar-benar akan menapaki tingkatan demi tingkatan*). Jiwa manusia tidak pernah melonjak secara ajaib dari kelalaian langsung menuju kemakrifatan adab; ia mendaki tangga demi tangga kebaikan melalui tempaan yang disesuaikan dengan kapasitas daya tampungnya.
 
 ---
 
 ### 12.2 Penyelarasan Tiga Lensa Arsitektur TUMBUH
 
-Salah satu keunikan dan keunggulan arsitektural ekosistem TUMBUH adalah kemampuannya menyelaraskan berbagai instrumen pembinaan yang selama ini kerap membingungkan para praktisi lapangan. Sering kali para asatidz bertanya: *Mengapa ada 10 tingkat penjenjangan adab? Mengapa ada 5 tingkat kapasitas fungsional? Dan bagaimana hubungannya dengan 4 Jenjang Kemandirian (J1–J4) di asrama? Apakah ketiganya bertentangan?*
+Salah satu keunggulan konseptual paling mendasar dari ekosistem TUMBUH v2.0.0 adalah kemampuannya menertibkan kekacauan terminologi penjenjangan yang selama ini membingungkan para guru dan pengasuh asrama. 
 
-Dokumen Fundamental TUMBUH menegaskan: **Ketiganya sama sekali tidak bertentangan, melainkan bekerja sebagai Tiga Lensa Saling Melengkapi (*The Three Architectural Lenses*)**[^3]:
+Sering kali para asatidz lapangan bertanya dengan nada bingung: *Mengapa di kurikulum disebutkan ada 10 tingkat penjenjangan adab? Mengapa di instrumen asesmen ada 5 tingkat kapasitas fungsional? Dan bagaimana hubungannya dengan 4 Jenjang Dukungan (J1–J4) di asrama? Bukankah penjenjangan yang banyak itu saling bertabrakan?*
 
-```mermaid
-graph TD
-    S["ARSITEKTUR PENJENJANGAN SISTEM TUMBUH"]
-    
-    subgraph TIGA_LENSA_ARSITEKTUR["Tiga Sudut Pandang Komplementer"]
-        S --> L1["LENSA 1: JIWA & PERAN (10 TINGKAT)<br/>'Seberapa dalam nilai meresap ke kalbu dan bagaimana kontribusi perannya?'<br/>• Perspektif: Tarbiyah & Kaderisasi Ruhani<br/>• Menjangkau: Santri Aktif (1–7) hingga Pendidik/Khidmah (8–10)"]
-        
-        S --> L2["LENSA 2: KAPASITAS FUNGSIONAL (5 TINGKAT)<br/>'Seberapa terampil fungsinya saat menghadapi tantangan nyata?'<br/>• Perspektif: Psikologi Kognitif & Asesmen Perilaku<br/>• Mengukur: Kemahiran 8 Core Capacities (Pemula hingga Menjiwai)"]
-        
-        S --> L3["LENSA 3: LINGKUNGAN PENGASUHAN (J1–J4)<br/>'Seberapa besar dukungan & bantuan eksternal yang disiapkan asrama?'<br/>• Perspektif: Operasional Harian Musyrif Asrama 24 Jam<br/>• Mengatur: J1 (Dukungan Penuh) hingga J4 (Otonomi Penggerak)"]
-    end
+TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertentangan, melainkan bekerja sebagai Tiga Lensa Komplementer yang saling melengkapi (*The Three Architectural Lenses*)**[^3].
+
+```text
+                                SISTEM TUMBUH v2.0.0
+                                          │
+         ┌────────────────────────────────┼────────────────────────────────┐
+         ↓                                ↓                                ↓
+   LENSA 1: JIWA & PERAN            LENSA 2: KAPASITAS               LENSA 3: LINGKUNGAN
+        (10 TINGKAT)                   (5 TINGKAT)                         (J1 – J4)
+ "Seberapa dalam nilai meresap    "Seberapa terampil fungsinya      "Berapa banyak bantuan
+  ke kalbu dan peran amalnya?"    saat menghadapi tantangan?"       eksternal yang disiapkan?"
+         │                                │                                │
+ • Perspektif: Tarbiyah & Kader   • Perspektif: Psikologis-Fungsional• Perspektif: Operasional Musyrif
+ • Objek: Jiwa & Gerak Sosial     • Objek: 8 Core Capacities (CC)   • Objek: Tingkat Dukungan/Kemandirian
 ```
 
-Mari kita bedah secara mendalam bagaimana ketiga lensa ini saling berpadu:
-
-#### 1. Lensa 1: 10 Tingkat Internalisasi Adab dan Peran Kader
-Lensa ini memandang perjalanan santri dari sudut kedalaman spiritualitas kalbu dan peran amalnya bagi umat:
-* **Etape 1: Fondasi Pembentukan Pribadi (Santri Aktif di Asrama: Tingkat 1–7)**:
-  1. *Tahu*: Mengetahui informasi dalil adab secara kognitif.
-  2. *Paham*: Memahami alasan, hikmah, dan maslahat di balik aturan adab.
-  3. *Sadar*: Timbul getaran nurani batin (*yaqzhah*) untuk mengamalkannya.
-  4. *Pembiasaan*: Mempraktikkan adab dalam pengulangan terstruktur di asrama.
-  5. *Istiqamah*: Konsisten menjaga adab melampaui masa adaptasi kritis.
-  6. *Teladan*: Perilaku adabnya memancarkan daya tarik yang ditiru kawan sekamarnya.
-  7. *Penggerak*: Mampu memelopori inisiatif kebaikan dan membimbing adik kelas.
-* **Etape 2: Pengabdian dan Peradaban (Di Luar J4 / Pasca-Kelulusan: Tingkat 8–10)**:
-  8. *Pelaksana*: Menjalani masa khidmah pengabdian 1 tahun pasca-kelulusan.
-  9. *Pembina*: Menjadi asatidz/musyrif yang membina generasi santri baru.
-  10. *Pembangun*: Menjadi pimpinan kelembagaan yang merancang ekosistem peradaban umat.
-
-> **Batas Krusial Arsitektur TUMBUH**:  
-> Jenjang pengasuhan santri aktif di asrama **J1–J4 BERPUNCAK PADA TINGKAT 7 (PENGGERAK)**. Tingkat 8 (Pelaksana), 9 (Pembina), dan 10 (Pembangun) berada di luar batas J4, yakni merupakan ranah Pengabdian Alumni (*Khidmah Track*) dan Jalur Pendidik Profesional (*Educator Track*).
-
-#### 2. Lensa 2: 5 Tingkat Perkembangan Kapasitas Fungsional
-Lensa ini memandu para evaluator dan guru BK untuk mengukur kemahiran Delapan Kapasitas Inti (8 CC):
-* *Tingkat 1 (Pemula)*: Menunjukkan perilaku hanya jika diarahkan langsung langkah demi langkah.
-* *Tingkat 2 (Terbimbing)*: Mampu menjalankan adab dengan pengingat (*prompting*) minimal.
-* *Tingkat 3 (Mandiri Rutin)*: Menjalankan kebiasaan baik secara konsisten dalam situasi normal tanpa disuruh.
-* *Tingkat 4 (Tangguh/Adaptif)*: Mampu mempertahankan adab dan meregulasi diri saat berada di bawah tekanan stres, konflik, atau godaan lingkungan.
-* *Tingkat 5 (Menjiwai/Mastery)*: Kapasitas telah menyatu mendarah daging (*malakah*), mampu memecahkan masalah kompleks dan menginspirasi lingkungan sekitarnya.
-
-#### 3. Lensa 3: 4 Jenjang Dukungan Lingkungan Pengasuhan (J1–J4)
-Inilah bahasa kerja harian para musyrif di asrama. Lensa ini tidak melabeli "kasta manusia", melainkan mengatur **Berapa banyak bantuan dan pengawalan yang wajib disiapkan oleh musyrif bagi santri**:
+#### 1. Lensa 1: Sepuluh Tingkat Internalisasi Adab dan Peran Kader (10 Levels of Adab Internalization)
+Lensa ini memandang perjalanan manusia dari perspektif makro-filosofis tarbiyah sepanjang hayat: bagaimana suatu nilai adab bertransformasi dari sekadar informasi di kepala hingga mendarah daging menjadi watak (*malakah*) dan melahirkan peran kepemimpinan peradaban:
 
 ```mermaid
 graph LR
-    subgraph PROGRESI_DUKUNGAN_J1_J4["Dinamika Hubungan Dukungan Musyrif vs Otonomi Santri"]
-        J1["J1: HIGH SUPPORT<br/>Dukungan Penuh Musyrif (80%)<br/>Otonomi Santri (20%)"] --> J2["J2: GUIDED SCAFFOLDING<br/>Pendampingan Terstruktur (50%)<br/>Otonomi Santri (50%)"]
-        J2 --> J3["J3: INDEPENDENT<br/>Pengawasan Minimal (20%)<br/>Kemandirian Santri (80%)"]
-        J3 --> J4["J4: AUTONOMOUS STEWARDSHIP<br/>Konsultasi Kemitraan (10%)<br/>Kepemimpinan Qudwah (90%)"]
+    subgraph SIKLUS_SANTRI["Ranah Santri Aktif di Asrama (Puncak di J4)"]
+        T1["1. Tahu"] --> T2["2. Paham"] --> T3["3. Sadar"] --> T4["4. Pembiasaan"] --> T5["5. Istiqamah"] --> T6["6. Teladan"] --> T7["7. Penggerak"]
+    end
+    
+    subgraph SIKLUS_PASCA_SANTRI["Ranah Pasca-Santri & Pendidik (Di Luar J4)"]
+        T7 -.-> T8["8. Pelaksana (Khidmah 1 Thn)"] --> T9["9. Pembina (Murabbi)"] --> T10["10. Pembangun (Sistem)"]
     end
 ```
 
+* **Ranah Santri Asrama (Tingkat 1 s/d 7)**:
+  1. *Tahu*: Mengetahui dalil dan aturan adab secara kognitif dasar.
+  2. *Paham*: Memahami hikmah, filosofi, dan alasan rasional di balik aturan adab.
+  3. *Sadar*: Timbul getaran afektif nurani batin (*yaqzhah*) bahwa adab itu adalah kebutuhan jiwanya.
+  4. *Pembiasaan*: Mempraktikkan adab dalam latihan motorik berulang-ulang di asrama.
+  5. *Istiqamah*: Mampu konsisten menjaga adab melampaui masa kritis hingga terbentuk watak awal (*malakah*).
+  6. *Teladan (Qudwah)*: Pribadinya memancarkan keindahan adab yang menginspirasi kawan sekamarnya secara alami.
+  7. *Penggerak (Muharrik)*: Mampu memelopori inisiatif kebaikan, memimpin organisasi santri, dan menjadi pelindung adik kelas. **Ini adalah puncak capaian santri aktif selama bermukim di asrama (puncak Jenjang J4).**
+* **Ranah Pasca-Santri & Profesional (Di Luar J4: Tingkat 8 s/d 10)**:
+  8. *Pelaksana*: Santri yang telah lulus dan menjalani masa khidmah pengabdian wajib 1 tahun (guru bantu/staf pengasuhan muda) di bawah supervisi pimpinan.
+  9. *Pembina*: Asatidz tetap, musyrif senior, dan konselor BK profesional yang mengkader generasi santri dan staf muda.
+  10. *Pembangun*: Pengasuh pondok, dewan pakar, dan majelis arsitek yang merancang arah kebijakan, memelihara integritas sistem TUMBUH, dan membangun ekosistem peradaban Islam.
+
+#### 2. Lensa 2: Lima Tingkat Perkembangan Kapasitas Fungsional (5 Functional Capacity Levels)
+Lensa ini digunakan oleh para konselor BK, wali kelas madrasah, dan evaluator untuk memotret performa unjuk kerja santri pada domain kapasitas tertentu secara spesifik:
+* *Tingkat 1 (Pemula / Emerging with High Support)*: Santri hanya mampu menampilkan perilaku adab jika diarahkan langkah demi langkah dan dicontohkan langsung secara visual.
+* *Tingkat 2 (Terbimbing / Guided Practice)*: Mampu menjalankan adab dengan bantuan pengingat berkala (*prompting & cueing*) atau daftar periksa (*checklist*).
+* *Tingkat 3 (Mandiri Rutin / Consistent Autonomy)*: Santri ajek dan konsisten menjalankan adab dalam rutinitas akrab tanpa memerlukan instruksi atau pengawasan orang dewasa.
+* *Tingkat 4 (Tangguh & Adaptif / Resilient & Adaptive)*: Santri mampu mempertahankan integritas adabnya ketika berada di bawah tekanan stres, kelelahan fisik, provokasi konflik, atau godaan lingkungan tak terawasi.
+* *Tingkat 5 (Menjiwai & Qudwah / Mastery & Mentoring)*: Nilai adab telah menyatu sempurna menjadi karakter spontan (*malakah*), mampu memecahkan dilema moral yang rumit, dan mampu membimbing santri lain menemukan ketenangan batin.
+
+#### 3. Lensa 3: Empat Jenjang Dukungan Lingkungan Pengasuhan (J1–J4)
+Inilah instrumen operasional harian para musyrif di asrama. J1–J4 tidak pernah dimaksudkan untuk membuat kasta sosial manusia, melainkan mengatur **Berapa dosis bantuan perancah (*scaffolding*) dan pengawasan yang wajib disiapkan oleh musyrif agar santri aman, tertib, dan bertumbuh optimal**:
+
+| Jenjang | Nama Jenjang | Dosis Peran Musyrif | Dosis Otonomi Santri | Fokus Operasional Asrama 24 Jam |
+| :--- | :--- | :---: | :---: | :--- |
+| **J1** | Kemandirian Pemula *(High Support)* | **80%** (Pendampingan Melekat) | **20%** | Adaptasi transisi rumah-asrama, penanganan homesickness, bimbingan langsung bangun subuh, wudhu, dan kerapian lemari. |
+| **J2** | Kemandirian Terbimbing *(Guided Scaffolding)* | **50%** (Bimbingan Terarah) | **50%** | Membangun konsistensi ibadah mandiri, pembagian tugas piket kamar, latihan musyawarah kamar, dan penyelesaian gesekan kecil. |
+| **J3** | Kemandirian Mandiri *(Independent Functioning)* | **20%** (Pemantauan Jarak Jauh) | **80%** | Muraqabatullah di kala sendiri, swakarsa mengelola waktu belajar malam dan hafalan, menjaga kehormatan tanpa pengawasan. |
+| **J4** | Kemandirian Teladan *(Autonomous Stewardship)* | **10%** (Kemitraan Konsultatif) | **90%** | Kepemimpinan pelayan (*khidmah*), menjadi kakak asuh santri J1, ketua asrama, motor penggerak kebaikan ekosistem pondok. |
+
 ---
 
-### 12.3 Taksonomi Empat Jenjang Kemandirian (J1–J4)
+### 12.3 Anatomi Delapan Kapasitas Inti Karakter (The 8 Core Capacities)
 
-Mari kita bedah karakteristik, tantangan perkembangan, dan fokus pembinaan pada masing-masing jenjang J1 hingga J4:
-
-#### Jenjang J1: Kemandirian Pemula / Adaptif (High Support Environment)
-* **Karakteristik Santri**: Biasanya merupakan santri tahun pertama (fase transisi dari rumah ke pondok). Santri sedang mengalami disorientasi ruang, gegar budaya (*culture shock*), kerinduan rumah (*homesickness*), dan belum terbiasa dengan jadwal asrama yang padat.
-* **Tantangan Utama**: Ketidakmampuan mengelola barang pribadi (sandal sering hilang, pakaian kotor menumpuk), kelelahan fisik bangun subuh, serta kecemasan sosial di kamar baru.
-* **Peran Musyrif Asrama**: **Hadir Sebagai Orang Tua Pengganti (*In Loco Parentis*)**. Musyrif memberikan pendampingan fisik intensif: mengajari cara merapikan lemari, mencontohkan cara mencuci baju, merangkul saat santri menangis rindu keluarga, dan membangunkan subuh dengan usapan kasih sayang.
-* **Target Capaian**: Santri merasa aman (*psychological safety*), kerasan tinggal di pondok, dan hafal alur rutinitas harian asrama.
-
-#### Jenjang J2: Kemandirian Terbimbing / Responsif (Guided Scaffolding)
-* **Karakteristik Santri**: Santri telah melewati masa adaptasi awal (biasanya santri tahun kedua). Fisik dan mentalnya telah terbiasa dengan ritme pondok, namun ia mulai memasuki fase pubertas awal yang sarat dengan pencarian jati diri dan dorongan impulsif.
-* **Tantangan Utama**: Mulai muncul gesekan antarteman sekamar, godaan melanggar aturan secara sembunyi-sembunyi, serta kebosanan terhadap rutinitas asrama.
-* **Peran Musyrif Asrama**: **Pemandu Perilaku Positif (*Coaching and Scaffolding*)**. Musyrif tidak lagi mengawasi setiap detik, melainkan memberikan kerangka pendampingan: memandu rapat kamar, melatih regulasi emosi saat bertengkar, dan mendiskusikan hikmah di balik aturan adab.
-* **Target Capaian**: Santri konsisten menjalankan ibadah wajib dan piket kamar dengan pengingat minimal, serta mampu menyelesaikan konflik kecil di kamar secara damai.
-
-#### Jenjang J3: Kemandirian Mandiri / Berkesadaran (Independent Functioning)
-* **Karakteristik Santri**: Santri telah memiliki kendali moral internal (*Internal Locus of Control*). Ibadah dan adab harian telah menjadi kebutuhan jiwanya sendiri, bukan lagi karena takut teguran musyrif.
-* **Tantangan Utama**: Mempertahankan istiqamah di tengah beban muthala'ah kitab yang semakin berat dan dinamika kelompok sebaya yang semakin kompleks.
-* **Peran Musyrif Asrama**: **Konselor dan Sahabat Diskusi (*Advising and Mentoring*)**. Musyrif memberikan ruang otonomi yang luas: santri dipercaya mengelola waktu belajarnya sendiri dan diberi tanggung jawab mengoordinasikan kegiatan asrama.
-* **Target Capaian**: Santri berdisiplin atas dasar *muraqabatullah* dalam kesendirian, menjaga integritas saat tidak diawasi, dan aktif berkontribusi bagi kebaikan komunitas asrama.
-
-#### Jenjang J4: Kemandirian Teladan / Penggerak (Autonomous Stewardship)
-* **Karakteristik Santri**: Puncak kematangan santri aktif di asrama. Santri tidak hanya mandiri untuk dirinya sendiri, melainkan telah menjadi **Pusat Gravitasi Kebaikan (*Center of Moral Gravity*)** bagi lingkungannya.
-* **Tantangan Utama**: Menjaga keikhlasan niat dari penyakit kesombongan senioritas (*ujub dan kibr*), serta menjaga stamina keteladanan di tengah kesibukan persiapan kelulusan.
-* **Peran Musyrif Asrama**: **Mitra Strategis Pengasuhan (*Collaborative Partner*)**. Musyrif mendelegasikan peran kepemimpinan nyata: santri J4 diangkat menjadi mentor bagi santri J1, memimpin lingkaran restoratif kamar, dan menjadi duta perdamaian asrama.
-* **Target Capaian**: Terwujudnya karakter profil lulusan: santri yang berwawasan luas, mampu mengendalikan hawa nafsu, mandiri, dan menjadi pelopor maslahat bagi sesamanya (*Nafi'un Lighairihi*).
-
----
-
-### 12.4 Menjaga Kemurnian Niat: Tangga Pelayanan (Khidmah), Bukan Tangga Feodalisme Kasta
-
-Salah satu bahaya terbesar dalam merancang sistem penjenjangan di pesantren adalah timbulnya **Kasta Sosial Senioritas Beracun (*Toxic Caste System*)**:
-Santri J4 merasa dirinya adalah "kasta ksatria" yang berhak dilayani, berhak memerintah, dan bebas dari aturan; sementara santri J1 dipandang sebagai "kasta budak" yang wajib menunduk dan mencuci seragam seniornya.
-
-Jika ini yang terjadi, maka sistem penjenjangan telah gagal total dan berubah menjadi sarang kemaksiatan feodal!
-
-Ekosistem TUMBUH menegakkan doktrin pensucian niat penjenjangan:
-
-$$\text{كُلَّمَا ارْتَفَعَتْ دَرَجَتُكَ فِي النِّظَامِ، عَظُمَتْ مَسْئُولِيَّتُكَ فِي الْخِدْمَةِ}$$
-
-> *"Semakin tinggi jenjang kemandirianmu dalam sistem TUMBUH, semakin besar kewajibanmu untuk merendahkan hati dan melayani sesama!"*
+Agar pembinaan adab tidak melayang-layang dalam khayalan konsep yang abstrak, sistem TUMBUH membedah karakter fitrah insan adabi ke dalam **Delapan Kapasitas Inti (*The 8 Core Capacities / 8 CC*)**. Setiap kapasitas memiliki indikator biologis, psikologis, dan syar'i yang terukur lintas jenjang:
 
 ```mermaid
 graph TD
-    subgraph DOKTRIN_TANGGA_KHIDMAH["Paradigma Tangga Pelayanan TUMBUH"]
-        J1_K["SANTRI J1: DILAYANI & DILINDUNGI PENUH"] --> J2_K["SANTRI J2: BELAJAR MEMIKUL TANGGUNG JAWAB DIRI"]
-        J2_K --> J3_K["SANTRI J3: MANDIRI & MEMBANTU SAUDARA SEKOMUNITAS"]
-        J3_K --> J4_K["SANTRI J4: PELAYAN UTAMA & PENJAGA KESELAMATAN ADIK KELAS (KHIDMAH)"]
+    subgraph DELAPAN_KAPASITAS_INTI_TUMBUH["Delapan Kapasitas Inti Fitrah Insan Adabi (8 CC)"]
+        CC1["CC-01: Regulasi Diri & Pengendalian Nafsu (Mujahadatun Nafs)"]
+        CC2["CC-02: Komunikasi Beradab & Kelembutan Lisan (Hifzhul Lisan)"]
+        CC3["CC-03: Nalar Kritis & Pemecahan Masalah Berhikmah (Al-Hikmah)"]
+        CC4["CC-04: Ketundukan Ibadah & Muraqabatullah (Al-Ibadah wal-Muraqabah)"]
+        CC5["CC-05: Kebugaran Jasmani & Ketangguhan Fisik (Al-Quwwah wal-Inshihah)"]
+        CC6["CC-06: Kejujuran Hati & Tanggung Jawab Moral (Ash-Shidq wal-Amanah)"]
+        CC7["CC-07: Empati Sosial & Pelayanan Umat (Al-Ukhuwwah wal-Khidmah)"]
+        CC8["CC-08: Metakognisi & Kejujuran Muhasabah (Tafakkur wal-Muhasabah)"]
     end
 ```
 
-Di pesantren TUMBUH:
-* Santri J4 yang melihat adik kelas J1 kesulitan membawa ember cucian tidak akan menyuruh-nyuruhnya, melainkan segera menghampirinya dan membantu mengangkatnya bersama-sama.
-* Santri J4 menjadi benteng terdepan yang melindungi santri J1 dari segala bentuk perundungan.
-* Kenaikan jenjang dari J1 ke J4 bukanlah perayaan kekuasaan atas orang lain; kenaikan jenjang adalah **sumpah pengabdian (*bai'at al-khidmah*)** untuk menjadi pelayan bagi dakwah dan umat.
+#### CC-01: Regulasi Diri dan Pengendalian Hawa Nafsu (Mujahadatun Nafs)
+Kapasitas biologis dan spiritual santri dalam mengendalikan dorongan impulsif amigdala, menunda kepuasan sesaat (*delay of gratification*), dan menundukkan syahwat kemalasan di bawah pertimbangan nalar iman. Santri yang matang pada CC-01 tidak reaktif saat marah, mampu menahan kantuk di waktu subuh, dan menolak godaan menyelinap keluar asrama demi kenikmatan fana.
 
-Dengan paradigma yang jernih ini, tangga progresi kemandirian TUMBUH memancarkan cahaya tarbiyah yang murni. 
+#### CC-02: Komunikasi Beradab dan Penjagaan Lisan (Hifzhul Lisan)
+Kemampuan memilih kata-kata yang mulia (*qaulan karima*), lembut (*qaulan layyina*), dan tepat sasaran (*qaulan sadida*). Menghilangkan secara mutlak kebiasaan memanggil teman dengan julukan binatang, mengejek fisik (*body shaming*), melontarkan kata-kata kotor, serta menolak terlibat dalam ghibah dan adu domba (*namimah*) di bilik asrama.
 
-Bagaimanakah detail kurikulum pembiasaan, indikator harian, dan teknik pendampingan musyrif di Jenjang J1 dan Jenjang J2 diterapkan di kamar asrama?  
-Inilah yang akan kita bedah secara tuntas dalam **Bab 13: Bedah Jenjang J1 & J2: Adaptasi, Pembiasaan, dan Regulasi Terbimbing**.
+#### CC-03: Nalar Kritis dan Pemecahan Masalah Berhikmah (Al-Hikmah)
+Kapasitas membedakan antara fakta objektif dan asumsi prasangka (*zhann*), menganalisis sebab-akibat suatu persoalan, serta merumuskan jalan keluar yang adil dan bermaslahat ketika menghadapi kebuntuan atau konflik antarteman sekamar tanpa kekerasan.
+
+#### CC-04: Ketundukan Ibadah dan Kesadaran Muraqabatullah
+Kapasitas merasakan kehadiran Allah SWT dalam seluruh gerak hidup. Menjaga salat berjamaah di saf pertama bukan karena takut diabsen musyrif, melainkan karena kerinduan bermunajat kepada Allah; tekun tilawah Al-Qur'an secara swakarsa; dan menjaga kehormatan diri saat berada di tempat yang paling tersembunyi.
+
+#### CC-05: Kebugaran Jasmani dan Ketangguhan Fisik (Al-Quwwah wal-Inshihah)
+Kapasitas merawat amanah tubuh ciptaan Allah: menjaga kebersihan sanitasi diri, mencuci pakaian secara mandiri, berolahraga secara teratur, menjaga porsi makan yang seimbang, serta memiliki daya tahan fisik (*endurance*) yang tangguh menghadapi cuaca dan aktivitas asrama yang padat.
+
+#### CC-06: Kejujuran Hati dan Tanggung Jawab Moral (Ash-Shidq wal-Amanah)
+Keselarasan mutlak antara apa yang ada di dalam kalbu, apa yang diucapkan di bibir, dan apa yang diperbuat dalam tindakan (*shidq al-amal*). Mengakui kesalahan secara ksatria tanpa melempar kambing hitam, mengembalikan barang temuan sekecil apa pun kepada pemiliknya, dan menolak budaya ghashab sandal maupun peralatan mandi.
+
+#### CC-07: Empati Sosial dan Pelayanan Umat (Al-Ukhuwwah wal-Khidmah)
+Kemampuan membaca perasaan kawan yang sedang berduka, merasakan kepedihan orang lain (*Theory of Mind*), dan kesediaan menyingsingkan lengan baju untuk melayani sesama tanpa pamrih. Mengamalkan hadits *Sayyidul Qaumi Khadimuhum* dalam kehidupan nyata kamar asrama.
+
+#### CC-08: Metakognisi dan Kejujuran Muhasabah Kalbu (Tafakkur wal-Muhasabah)
+Kapasitas jiwa untuk melihat ke dalam dirinya sendiri (*self-reflection*): menyadari titik lemah pribadi, mengidentifikasi pemicu amarah diri, menghisab amal sebelum dihisab oleh Allah kelak, serta memiliki kehendak yang membara untuk terus memperbaiki diri (*continuous taubah & self-correction*).
+
+---
+
+### 12.4 Dinamika Pelepasan Bantuan Bertahap (Fading Scaffolding)
+
+Bagaimanakah proses transisi pengasuhan dari J1 menuju J4 dijalankan tanpa membuat santri terkejut atau sebaliknya mengalami kemunduran?
+
+Para pendidik TUMBUH diibaratkan laksana **Penerbang Layang-Layang yang Bijaksana**:
+Ketika layang-layang baru dinaikkan dari tanah di tengah hembusan angin kencang, kedua tangan sang penerbang memegang erat tali benang di jarak dekat. Jika dilepas begitu saja, layang-layang itu akan berputar-putar tak tentu arah lalu menukik tajam menghantam bumi. Namun, ketika layang-layang itu mulai menemukan keseimbangan di udara dan angin stabil mulai mengangkat sayapnya, sang penerbang secara perlahan dan terukur **mengulur gulungan benangnya** semakin panjang ke angkasa.
+
+```text
+               SENI MENGULUR BENANG PENGASUHAN TUMBUH
+┌───────────────────────────────┬───────────────────────────────┐
+│ SAAT SANTRI MASIH DI J1 & J2  │ SAAT SANTRI MEMASUKI J3 & J4  │
+├───────────────────────────────┼───────────────────────────────┤
+│ • Benang dipegang erat        │ • Benang diulur tinggi        │
+│   (Instruksi & ceklis harian).│   (Otonomi & ruang inisiatif).│
+│ • Musyrif berada di depan     │ • Musyrif berada di belakang  │
+│   menjadi penunjuk jalan.     │   menjadi pendoa & konsultan. │
+│ • Pengawasan langsung melekat.│ • Pengawasan berbasis nurani. │
+└───────────────────────────────┴───────────────────────────────┘
+```
+
+Jika terjadi badai goncangan emosi (misalnya santri mengalami krisis kehilangan orang tua atau konflik berat), sang musyrif tidak segan untuk **menarik kembali benang tersebut sejenak (*re-scaffolding*)** agar layang-layang jiwa anak itu tidak terhempas, lalu mengulurnya kembali setelah badai mereda.
+
+Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan; melainkan mendampingi dengan perhitungan ilmu dan welas asih hingga jiwa anak mampu terbang mandiri di bawah langit keridhaan Ilahi.**
+
+---
+
+### Rangkuman Intisari Bab 12
+
+1. **Dekonstruksi Penyeragaman Kaku:** Menolak penyamaan beban tuntutan antara santri baru dan santri lama (*one-size-fits-all*); menegakkan definisi keadilan syariat: *Wadh'u asy-syai' fi maudhi'ihi al-la'iq bih* (meletakkan segala sesuatu pada tempat dan porsinya yang layak).
+2. **Penyelarasan Tiga Lensa Arsitektur:**
+   - *Lensa 1 (10 Tingkat Adab & Peran)*: Memetakan kedalaman batin dan peran amal (Tahu $\rightarrow$ Penggerak di asrama; Pelaksana $\rightarrow$ Pembangun pasca-santri).
+   - *Lensa 2 (5 Tingkat Kapasitas)*: Mengukur kemahiran fungsional (Pemula $\rightarrow$ Menjiwai/Mastery).
+   - *Lensa 3 (4 Jenjang J1–J4)*: Mengatur dosis bantuan dan pengawalan musyrif (High Support $\rightarrow$ Autonomous Stewardship).
+3. **Delapan Kapasitas Inti Fitrah (8 CC):** Memetakan dimensi adab secara konkret: CC-01 Regulasi Diri, CC-02 Komunikasi Beradab, CC-03 Nalar Kritis, CC-04 Ibadah & Muraqabah, CC-05 Kebugaran Jasmani, CC-06 Kejujuran & Amanah, CC-07 Empati & Khidmah, CC-08 Metakognisi & Muhasabah.
+4. **Prinsip Pelepasan Bantuan Bertahap (*Fading Scaffolding*):** Musyrif bertindak laksana penerbang layang-layang: memegang erat di fase awal, mengulur benang saat kapasitas menguat, dan siap menarik kembali secara bermartabat (*re-scaffolding*) jika terjadi badai emosional.
+5. **Kunci Sukses Transisi:** Menjamin santri menapaki setiap jenjang bukan atas dasar umur kalender semata, melainkan atas dasar pembuktian stabilitas kapasitas adab yang teruji secara autentik.
 
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Insyiqaq [84]: 19.
-[^2]: Badruddin Muhammad bin Ibrahim Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 55–62; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145.
-[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md` dan `01-Growth-Architecture.md`.
+[^2]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-Maqashid fi 'Ilm al-Kalam* (Beirut: 'Alam al-Kutub, 1998), Jilid IV, hlm. 285–292; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145 mengenai definisi keadilan dan adab.
+[^3]: Dokumen Kanonikal Arsitektur TUMBUH v2.0.0, *Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)*, berkas induk: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md`.
