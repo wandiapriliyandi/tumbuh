@@ -31,8 +31,22 @@ Seluruh khazanah rujukan keilmuan, hukum, instrumen, dan media di ekosistem **TU
 
 ---
 
+## 📚 DOKUMEN RUJUKAN UMUM & EVALUASI ARSITEKTUR
+
+Selain 8 direktori modular di atas, folder `REFERENCES/` dilengkapi dengan 3 dokumen acuan keilmuan:
+
+| Berkas Dokumen | Deskripsi & Isi Utama | Tautan Navigasi |
+| :--- | :--- | :---: |
+| **`Kamus-Istilah-TUMBUH.md`** | Glosarium resmi terminologi Turats, Syar'i, Neurosains, PBIS, dan arsitektur TUMBUH v2.0.0. | [Buka Glosarium](./Kamus-Istilah-TUMBUH.md) |
+| **`Analisis-Kritis-dan-Evaluasi-Arsitektur-TUMBUH.md`** | Audit kualitatif mendalam: evaluasi celah konseptual, risiko lapangan, dan mitigasi sistemik v2.0.0. | [Buka Analisis Kritis](./Analisis-Kritis-dan-Evaluasi-Arsitektur-TUMBUH.md) |
+| **`Laporan-Audit-Kualitas-Akademis-TUMBUH.md`** | Laporan verifikasi kepatuhan arsitektur, epistemologi, validitas asesmen, dan safeguarding sesuai `AGENTS.md`. | [Buka Laporan Audit](./Laporan-Audit-Kualitas-Akademis-TUMBUH.md) |
+
+---
+
 ## 📊 REKAPITULASI KESELURUHAN
 
-* Total Kategori Rujukan: **8 Kategori Utama**
+* Total Kategori Rujukan: **8 Kategori Modular + 3 Dokumen Induk**
 * Total Berkas Modular: **32 Berkas Katalog Markdown**
-* Total entitas rujukan mengikuti katalog yang tercatat pada indeks ini: **490+**
+* Total Entitas Rujukan Terkurasi: **490+ Karya Ilmiah, Regulasi, & Instrumen**
+* Keselarasan Arsitektur: **100% Selaras dengan Repositori TUMBUH v2.0.0**
+

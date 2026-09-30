@@ -8,7 +8,7 @@
 
 ## 📜 KATALOG 40 LAPORAN REGULASI & SAFE SCHOOL PROTOCOLS
 
-| No | Lembaga Penerbit | Judul Kebijakan / Laporan Resmi | Tahun | Pokok Aturan & Implementasi TUMBUH |
+| No | Lembaga Penerbit | Judul Kebijakan / Laporan Resmi | Tahun | Pokok Aturan & Implementasi TUMBUH v2.0.0 |
 | :---: | :--- | :--- | :---: | :--- |
 | **1** | **Kementerian Agama RI** | *PMA No. 73 Tahun 2022 tentang Pencegahan Kekerasan Seksual Kemenag.* | 2022 | Mandat hukum *Zero Violence* & perlindungan korban 100%. |
 | **2** | **Kementerian PPPA RI** | *Pedoman Standar Pesantren Ramah Anak (PRA).* | 2021 | Standar fisik, lingkungan, & kesehatan mental santri. |

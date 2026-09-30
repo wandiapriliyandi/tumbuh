@@ -33,7 +33,7 @@
 | **21** | Pusat Kajian Pesantren | *Studi Longitudinal 5-Tahun Efektivitas CICO Card pada Santri Tier 2.* | 2024 | 88% Santri Tier 2 kembali ke Tier 1 dalam kurun waktu 6-8 minggu. |
 | **22** | Lembaga Riset Pengasuhan | *Analisis Kebutuhan Tidur Santri & Dampaknya Terhadap Retensi Hafalan.* | 2023 | Rasio tidur 7-8 jam/malam mendongkrak kelancaran sorogan 42%. |
 | **23** | Tim Evaluasi Musyrif | *Studi Dampak Rotasi Shift & Pelatihan Firm & Kind Terhadap Musyrif Baru.* | 2024 | Penurunan tingkat keputusasaan musyrif muda sebesar 76%. |
-| **24** | Konsorsium Psikologi | *Studi Kasus Efektivitas Peer Buddy Santri T4 dalam Pencegahan Bullying.* | 2025 | Pendampingan kawan sebaya menghapuskan 95% potensi eksklusi sosial. |
+| **24** | Konsorsium Psikologi | *Studi Kasus Efektivitas Peer Buddy santri Jenjang J4 dalam Pencegahan Bullying.* | 2025 | Pendampingan kawan sebaya menghapuskan 95% potensi eksklusi sosial. |
 | **25** | Pusat Psikometri Islam | *Pengujian Skala Fitrah dan Validitas Konstruks 10 Muwashafat Santri.* | 2024 | Konstruks asesmen terbukti valid secara statistik & epistemologi. |
 | **26** | Audit Independen Lembaga | *Studi Komparatif Tingkat Pelanggaran Sebelum & Sesudah Penerapan SW-PBIS.* | 2025 | Penurunan total rujukan kasus perilaku hingga 65% dalam 2 tahun. |
 | **27** | Tim Riset Neurosains | *Studi EEG & Pemetaan Emosi Santri Saat Pelaksanaan Restorative Circle.* | 2024 | Restorative Circle menurunkan tingkat hormon stres kortisol sebesar 55%. |
