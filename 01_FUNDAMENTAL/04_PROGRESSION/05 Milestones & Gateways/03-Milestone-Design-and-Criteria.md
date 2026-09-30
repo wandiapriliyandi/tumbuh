@@ -1,78 +1,156 @@
-# Desain dan Kriteria Patok Capaian (Milestone Design and Criteria)
+# Desain dan Kriteria Patok Capaian
+## *Milestone Design and Verification Criteria*
 
-> **Patok Capaian (*Milestone*) bukanlah sekadar daftar centang administratif.**  
-> Di pesantren TUMBUH, sebuah Milestone adalah **pernyataan kesaksian berbasis bukti**:  
-> *"Santri Fulan terbukti telah mampu menjaga wudu dan salat rawatib secara mandiri selama 30 hari berturut-turut di asrama"*.  
-> Kriteria capaian harus jelas, berakar pada kapasitas adab yang dinilai, memperhatikan suasana kamar/kelas, dan tidak boleh dijadikan bahan untuk mempermalukan santri yang proses belajarnya membutuhkan waktu lebih lama.
+**Status Dokumen:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Progresi TUMBUH v2.0.0  
+**Status Epistemik:** Dirancang Secara Konseptual; Sementara Secara Empiris (*Conceptually Specified; Empirically Provisional*)  
+**Kode Konstruk:** MDC-Prog-v2.0.0  
+
+> **Prinsip Utama Musyrif Asrama:**  
+> **"Patok Capaian (*Milestone*) bukanlah lembar centang administratif yang kaku, melainkan kesaksian autentik para pendidik atas kemajuan adab santri."**  
+> Di pesantren TUMBUH v2.0.0, sebuah Milestone dirumuskan dalam kalimat kesaksian berbasis bukti nyata:  
+> *"Santri Fulan terbukti mampu menjaga wudhu, mendirikan salat rawatib secara tertib, dan merapikan tempat tidurnya sendiri selama 30 hari berturut-turut di asrama tanpa perlu ditegur musyrif."*  
+> Kriteria capaian harus terang benderang, berakar pada kapasitas adab yang dilatih, memperhatikan batas kemampuan fisik anak, dan tidak boleh dijadikan sarana mempermalukan santri yang proses belajarnya membutuhkan waktu lebih lama.
 
 ---
 
-## 1. Hakikat Milestone sebagai Pernyataan Bukti
+## 1. Hakikat Milestone sebagai Pernyataan Bukti Autentik
 
-Sebuah Milestone bukanlah angka skor (seperti nilai 85), melainkan **deskripsi kualitatif autentik** yang menyatakan bahwa kriteria adab tertentu telah berhasil dicapai oleh santri dalam rentang pengamatan yang wajar.
+Sebuah Milestone bukanlah angka skor (seperti nilai ujian 80 atau 90), melainkan **deskripsi kualitatif autentik** yang menyatakan bahwa indikator adab tertentu telah berhasil dibuktikan oleh santri dalam rentang pengamatan yang wajar.
+
+Alur pembentukan sebuah pernyataan Milestone bergerak dari nilai konseptual hingga catatan logbook harian:
 
 ```text
-Kapasitas yang Dinilai (Construct)
-             ↓
-Tindakan Nyata yang Diharapkan (Expected Functioning)
-             ↓
-Kriteria Pembuktian Lapangan (Milestone Criteria)
-             ↓
-Bukti Pengamatan Logbook Musyrif 24 Jam (Evidence)
-             ↓
-Pernyataan Capaian Resmi (Milestone Statement)
+┌────────────────────────────────────────────────────────────────────────┐
+│             ALUR PEMBENTUKAN PERNYATAAN BUKTI MILESTONE                │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│   KAPASITAS ADAB YANG DILATIH (Construct)                              │
+│   (Contoh: CC-01 Regulasi Diri / Pengendalian Dorongan)                │
+│                 │                                                      │
+│                 ▼                                                      │
+│   TINDAKAN NYATA YANG DIHARAPKAN (Expected Observable Functioning)     │
+│   (Contoh: Bangun subuh mandiri & merapikan perlengkapan kamar)        │
+│                 │                                                      │
+│                 ▼                                                      │
+│   KRITERIA PEMBUKTIAN LAPANGAN (Milestone Criteria)                    │
+│   (Batas minimal konsistensi: 3 pekan berturut-turut di asrama)        │
+│                 │                                                      │
+│                 ▼                                                      │
+│   CATATAN BUKTI LOGBOOK MUSYRIF 24 JAM (Empirical Evidence Dossier)    │
+│   (Rekaman presensi harian, catatan kamar, dan konfirmasi musyrif)     │
+│                 │                                                      │
+│                 ▼                                                      │
+│   PERNYATAAN RESMI CAPAIAN MILESTONE (Milestone Statement)             │
+│   ("Capaian Mandiri Bangun Subuh dan Ketertiban Ranjang Terverifikasi")│
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 2. Struktur Standar Sebuah Milestone
+## 2. Struktur Anatomi Baku Pendefinisian Milestone
 
-Agar Milestone dapat dipahami dan dipertanggungjawabkan secara seragam oleh seluruh tim pengasuhan, setiap Milestone formal memiliki susunan:
+Agar setiap patok capaian dapat dipahami secara seragam oleh seluruh jajaran pengasuhan dan tidak bergantung pada selera pribadi masing-masing guru, perumusan Milestone formal memiliki enam atribut wajib:
 
-1. **Nama Capaian:** Nama tonggak yang ringkas dan memotivasi santri (Contoh: *"Mandiri Shalat Rawatib & Dzikir"*).
-2. **Kapasitas Terkait:** Merujuk pada Core Capacity yang dilatih (misal: CC-01 Regulasi Diri atau CC-07 Agensi).
-3. **Perilaku yang Diamati:** Tindakan konkret yang terlihat di asrama, kelas, atau masjid.
-4. **Kondisi Pendampingan:** Apakah capaian ini dilakukan saat masih ada pengingat ketua kamar, atau sudah murni mandiri (*faded support*).
-5. **Bukti yang Disyaratkan:** Jumlah catatan observasi positif di logbook musyrif dalam kurun waktu pemantauan minimal (misal: 3–4 pekan berturut-turut).
-6. **Batas Pernyataan:** Menyatakan secara jujur lingkup capaian tersebut (misal: tercapai di asrama, namun masih perlu dipantau saat liburan di rumah).
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│                 ENAM ATRIBUT BAKU STRUKTUR MILESTONE                   │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. NAMA CAPAIAN         │ Nama tonggak yang ringkas dan memotivasi     │
+│ 2. KAPASITAS TERKAIT    │ Kode rujukan kapasitas (CC-01 s/d CC-08)     │
+│ 3. PERILAKU TERAMATI    │ Indikator tindakan konkret di lapangan       │
+│ 4. KONDISI PENDAMPINGAN │ Tingkat bantuan (dengan perancah / mandiri)  │
+│ 5. STANDAR BUKTI        │ Frekuensi & durasi konsistensi di logbook    │
+│ 6. BATAS PERNYATAAN     │ Lingkup konteks tempat adab terbukti muncul  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+### Penjelasan Rinci Atribut:
+1. **Nama Capaian:** Nama tonggak yang jelas dan bermakna (misalnya: *"Kemandirian Salat Rawatib dan Dzikir Pagi-Petang"*).
+2. **Kapasitas Terkait:** Mengaitkan capaian dengan konstruk psikologis dan adab syar'i (misal: CC-01 Regulasi Diri atau CC-03 Komunikasi Beradab).
+3. **Perilaku Teramati (*Observable Functioning*):** Menjelaskan tindakan lahiriah yang dapat disaksikan mata dan dicatat musyrif, bukan dugaan niat batin yang tidak tampak.
+4. **Kondisi Pendampingan (*Support Condition*):** Menguraikan apakah santri melakukannya saat masih ada peringatan bel asrama, arahan ketua kamar, atau murni atas kesadaran mandiri (*faded support*).
+5. **Standar Bukti (*Evidence Requirement*):** Menentukan ambang batas verifikasi, misalnya catatan konsistensi minimal 85% dalam kurun waktu pemantauan empat pekan berturut-turut.
+6. **Batas Pernyataan (*Boundary Scope*):** Menjelaskan secara jujur lingkup keberlakuan capaian tersebut (misalnya: terbukti stabil di lingkungan asrama pesantren, namun belum tentu stabil saat masa liburan di rumah).
 
 ---
 
-## 3. Karakteristik Kriteria Milestone yang Sehat
+## 3. Empat Karakteristik Kriteria Milestone yang Sehat
 
-Sebuah kriteria Milestone yang baik wajib memenuhi lima syarat:
+Perumusan kriteria sebuah Milestone yang baik wajib memenuhi empat kriteria ilmiah dan pedagogis:
 
-- **Konkret & Teramati:** Tidak menggunakan kata-kata batiniah yang abstrak (seperti *"santri sudah ikhlas 100%"*), melainkan tindakan yang terukur (seperti *"santri segera hadir salat tepat waktu tanpa mengeluh"*).
-- **Spesifik per-Kapasitas:** Milestone untuk adab lisan (Komunikasi) tidak boleh disamakan dengan milestone kebersihan loker (Regulasi Diri).
-- **Memperhatikan Variasi Manusiawi:** Kriteria tidak menuntut kesempurnaan mutlak tanpa celah; variasi kelelahan yang wajar tidak otomatis membatalkan capaian.
-- **Dapat Dikonfirmasi:** Musyrif lain yang mengamati santri tersebut akan melihat bukti nyata yang sama.
+1. **Konkret dan Teramati (*Concrete & Observable*):**  
+   Menghindari istilah-istilah batiniah yang abstrak (seperti *"santri sudah ikhlas 100%"* atau *"hati santri sudah bersih"*), melainkan tindakan lahiriah yang dapat diverifikasi (seperti *"santri segera berwudhu dan hadir di masjid sebelum iqomah tanpa mengeluh"*).
+   
+2. **Spesifik per-Kapasitas (*Construct-Specific*):**  
+   Kriteria untuk adab berbicara (Kapasitas Komunikasi) tidak boleh dicampuradukkan dengan kriteria kerapian loker pakaian (Kapasitas Regulasi Diri). Setiap kapasitas dinilai pada jalurnya masing-masing.
+   
+3. **Memperhatikan Variasi Manusiawi (*Human-Centric & Realistic*):**  
+   Kriteria tidak menuntut kesempurnaan mekanik tanpa cela. Jika seorang santri yang biasanya tertib tiba-tiba terlambat satu kali karena baru sembuh dari demam atau kelelahan perjalanan, hal itu dipandang sebagai variasi manusiawi yang wajar, bukan pembatalan otomatis atas capaiannya.
+   
+4. **Dapat Dikonfirmasi Antar-Pendidik (*Inter-Rater Reliability*):**  
+   Kriteria dirumuskan dengan bahasa yang jelas sehingga jika ada musyrif pengganti yang mengamati santri tersebut, ia akan memberikan kesimpulan pembuktian yang serupa.
 
 ---
 
-## 4. Klasifikasi Status Capaian Milestone
+## 4. Klasifikasi Status Capaian Milestone di Pesantren
 
-Dalam mencatat kemajuan santri di logbook pembinaan, musyrif menggunakan status yang mendidik:
+Dalam mencatat perjalanan adab santri pada buku rekam jejak (*logbook*), musyrif menggunakan empat kategori status yang mendidik:
 
 | Status Capaian | Makna Praktis di Pesantren | Tindak Lanjut Pembinaan |
-| :--- | :--- | :--- |
-| **Belum Terlihat (*Not Yet Evidenced*)** | Santri baru beradaptasi; perilaku adab belum muncul secara stabil. | Diberi contoh teladan langsung dan pendampingan intensif (J1). |
-| **Mulai Bertunas (*Emerging Evidence*)** | Adab mulai tampak sesekali, terutama saat ada pengingat dari asatidz. | Diberi apresiasi positif dan latihan pembiasaan terbimbing (J2). |
-| **Terbukti Mantap (*Criterion Evidenced*)** | Santri terbukti mampu menjalankan adab secara konsisten dan mandiri. | Milestone dicatat sah; santri dipersiapkan menghadapi tantangan berikutnya. |
-| **Perlu Pengamatan Ulang (*Requires Review*)** | Sempat mantap, namun perilakunya mengendur karena santri sedang sakit/lelah. | Diajak berdialog empat mata dengan kasih sayang; dicari akar kendalanya. |
+|---|---|---|
+| **Belum Tampak (*Not Yet Evidenced*)** | Santri masih dalam tahap adaptasi; perilaku adab belum muncul secara stabil. | Diberi keteladanan langsung (*qudwah*), arahan ramah, dan pendampingan intensif (Jenjang J1). |
+| **Mulai Bertunas (*Emerging Evidence*)** | Adab mulai tampak sesekali, terutama saat ada pengingat visual atau dorongan asatidz. | Diberi apresiasi tulus (*tasyji'*), penguatan kebiasaan, dan latihan bertahap (Jenjang J2). |
+| **Terbukti Mantap (*Criterion Evidenced*)** | Santri terbukti mampu menjalankan adab secara konsisten dan mandiri tanpa disuruh. | Milestone disahkan di buku induk; santri dipersiapkan menghadapi tantangan adab berikutnya. |
+| **Perlu Peninjauan Ulang (*Requires Review*)** | Sempat konsisten, namun perilakunya mengendur karena santri sedang mengalami masalah/sakit. | Diajak berdialog empat mata dengan kasih sayang; ditelusuri kendala batin atau lingkungan belajarnya. |
 
-> **Perhatian:** Seluruh status di atas **BUKAN KASTA RANKING SANTRI**. Status ini adalah catatan diagnostik untuk memandu tim asatidz memberikan takaran bantuan yang tepat.
-
----
-
-## 5. Pagar Batas Epistemik (Negative Boundaries)
-
-1. **Satu Milestone $\neq$ Ketuntasan Global:** Santri yang telah mencapai milestone hafalan Qur'an tidak otomatis tuntas dalam adab bertutur kata. Setiap kapasitas memiliki jalurnya masing-masing.
-2. **Dilarang Mengorbankan Kriteria Demi Formalitas:** Musyrif dilarang mencentang capaian hanya agar santri terlihat cepat lulus di mata yayasan atau wali santri. Kejujuran data adalah amanah tarbiyah.
-3. **Mencegah Sikap Riya' & Pamer:** Capaian santri dicatat untuk evaluasi pembinaan, bukan untuk dipamerkan atau dijadikan sarana menyombongkan diri di hadapan kawan-kawan.
+> **Peringatan Keras:**  
+> **Status di atas BUKANLAH SISTEM RANKING ATAU KASTA SANTRI.** Seluruh status ini murni catatan diagnostik untuk memandu tim asatidz dalam menentukan dosis bimbingan dan perancah yang tepat bagi setiap anak.
 
 ---
 
-## 6. Status Keabsahan Dokumen (Epistemic Status)
+## 5. Contoh Konkret Penerapan Milestone di Lingkungan Asrama
 
-- **Status:** *Conceptually Specified; Empirically Provisional.*
-- Kriteria ini dirancang untuk mendampingi fitrah santri bertumbuh selangkah demi selangkah (*at-tadarruj*) dengan adab yang kokoh dan penuh berkah.
+Berikut adalah contoh perumusan Milestone formal untuk pembiasaan adab asrama santri baru:
+
+```markdown
+### LEMBAR SPESIFIKASI PATOK CAPAIAN (MILESTONE SPECIFICATION)
+
+- **ID Milestone:** MS-REG-01
+- **Nama Capaian:** Kemandirian Ibadah Subuh dan Kerapian Kamar Tidur
+- **Kapasitas Terkait:** CC-01 Regulasi Diri (*Self-Regulation*)
+- **Jenjang Sasaran:** Santri Transisi J1 menuju J2
+
+#### 1. Deskripsi Perilaku yang Diharapkan
+1. Santri bangun sendiri saat bel/azan subuh pertama berkumandang tanpa perlu disiram air atau ditarik selimutnya oleh musyrif;
+2. Santri mengambil air wudhu dengan tertib, tidak bercanda berlebihan di kamar mandi;
+3. Merapikan tempat tidur (menarik sprei hingga kencang dan melipat selimut rapi di atas bantal) dalam waktu 10 menit setelah bangun.
+
+#### 2. Kondisi Dukungan yang Diberikan
+- Tanpa peringatan lisan khusus dari musyrif;
+- Hanya mengandalkan pengingat alami (jadwal dinding kamar dan suara azan masjid).
+
+#### 3. Standar Bukti Lapangan
+- Tercatat konsisten minimal 25 hari dalam kurun waktu pemantauan 30 hari kalender pada logbook musyrif kamar.
+
+#### 4. Batas Lingkup Pernyataan
+- Capaian ini berlaku untuk kehidupan asrama santri harian di pondok; tidak otomatis menjamin keteraturan serupa saat santri pulang berlibur ke rumah tanpa jadwal rutin.
+```
+
+---
+
+## 6. Pagar Batas Epistemik (Negative Boundaries)
+
+1. **Satu Milestone Bukan Ketuntasan Menyeluruh (*Not Global Mastery*):**  
+   Santri yang telah mencapai milestone hafalan Al-Qur'an 30 juz tidak otomatis tuntas dalam adab kesopanan bertutur kata. Setiap domain karakter memiliki proses pertumbuhannya masing-masing.
+2. **Dilarang Formalitas Mengorbankan Kriteria:**  
+   Musyrif dilarang mencentang kelulusan milestone hanya demi mengejar target laporan yayasan atau menyenangkan hati wali santri. Kejujuran data adalah bagian dari amanah keimanan.
+3. **Mencegah Sikap Sombong dan Pamer (*Riya'*):**  
+   Capaian milestone santri dicatat untuk evaluasi bimbingan para pendidik, bukan untuk dipajang sebagai trofi kebanggaan yang dapat menumbuhkan bibit ujub pada diri santri atau merendahkan kawan sekamarnya.
+
+---
+
+## 7. Status Keabsahan Dokumen (Epistemic Status)
+
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Pedoman desain dan kriteria milestone ini mengikat seluruh jajaran pengasuhan santri di lingkungan TUMBUH v2.0.0.

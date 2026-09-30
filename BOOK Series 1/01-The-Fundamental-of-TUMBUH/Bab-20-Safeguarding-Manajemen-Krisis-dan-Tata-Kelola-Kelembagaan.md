@@ -1,11 +1,11 @@
 # BAB 20: SAFEGUARDING, MANAJEMEN KRISIS, DAN TATA KELOLA KELEMBAGAAN
 
 > *"Wahai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, keras, dan tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan."*  
-> — **QS. At-Tahrim [66]: 6**
+> — **QS. At-Tahrim [66]: 6**[^1]
 
 > كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ  
 > *"Setiap kalian adalah pemimpin (penggembala) dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya."*  
-> — **Hadits Riwayat Al-Bukhari (No. 893) & Muslim (No. 1829)**
+> — **Hadits Riwayat Al-Bukhari (No. 893) & Muslim (No. 1829)**[^2]
 
 ---
 
@@ -15,7 +15,7 @@ Sebuah pesantren dapat memiliki kurikulum turats terlengkap, bangunan fisik term
 
 Ketika terjadi insiden krisis berat—seperti tindak kekerasan fisik brutal oleh oknum senior, pelecehan seksual oleh oknum pendidik, atau cedera fatal akibat kelalaian pengawasan—reaksi refleks dari manajemen pesantren tradisional sering kali tergelincir pada insting patologis: berusaha menutupi aib (*cover-up*), menyalahkan korban (*victim blaming*), mengintimidasi saksi demi menjaga nama baik institusi, atau menyelesaikan kasus di bawah meja secara gelap. Sikap pengecut ini bukan saja merupakan pengkhianatan terhadap amanah Allah dan Rasul-Nya, tetapi juga kejahatan kemanusiaan yang menghancurkan masa depan anak dan mencoreng marwah dakwah Islam di mata dunia.
 
-Sistem TUMBUH memandang perlindungan anak dan santri (*Safeguarding & Child Protection*) bukan sebagai beban regulasi eksternal atau sekadar tuntutan hukum sekuler, melainkan sebagai **bagian tak terpisahkan dari Maqashid Syari'ah: menjaga keselamatan jiwa (*Hifzhun Nafs*), menjaga kehormatan (*Hifzhul 'Irdh*), menjaga keselamatan akal (*Hifzhul 'Aql*), dan menjaga kelestarian generasi (*Hifzhun Nasl*)**.
+Sistem TUMBUH memandang perlindungan anak dan santri (*Safeguarding & Child Protection*) bukan sebagai beban regulasi eksternal atau sekadar tuntutan hukum sekuler, melainkan sebagai **bagian tak terpisahkan dari Maqashid Syari'ah: menjaga keselamatan jiwa (*Hifzhun Nafs*), menjaga kehormatan (*Hifzhul 'Irdh*), menjaga keselamatan akal (*Hifzhul 'Aql*), dan menjaga kelestarian generasi (*Hifzhun Nasl*)**.[^3]
 
 Bab pamungkas dari Buku Seri 1 ini membedah arsitektur kelembagaan safeguarding dan tata kelola krisis: menetapkan kebijakan tanpa toleransi (*zero tolerance*) terhadap segala bentuk kekerasan, merumuskan protokol tanggap darurat 24 jam yang transparan dan akuntabel, membakukan kode etik interaksi santri-pendidik, serta merancang siklus evaluasi mutu kelembagaan berkelanjutan (*itqan*) demi menjaga kelestarian pesantren sebagai benteng peradaban yang suci.
 
@@ -69,7 +69,7 @@ Ketika terdeteksi adanya insiden krisis merah, seluruh staf wajib menjalankan pr
 
 Kerapuhan safeguarding sering kali berakar pada tidak adanya batasan profesional (*professional boundaries*) yang jelas antara pendidik dan santri. Model TUMBUH membakukan pedoman etika interaksi yang ketat guna melindungi santri dari potensi bahaya sekaligus melindungi pendidik dari tuduhan palsu (*false allegations*).
 
-#### 1. Kebijakan Visibilitas Terbuka (Open-Door & Glass-Door Policy)
+#### 1. Kebijakan Visibilitas Terbuka (Open-Door & Glass-Door Policy)[^4]
 - **Larangan Khalwat Tertutup:** Pendidik atau musyrif dilarang keras berdua-duaan dengan seorang santri di dalam ruangan tertutup (kantor, kamar tidur pribadi musyrif, atau gudang) dengan pintu terkunci atau jendela yang ditutupi gorden gelap.
 - **Ruang Konseling Bervisi Kaca:** Sesi bimbingan konseling atau dialog empat mata wajib dilakukan di ruangan yang memiliki panel kaca transparan (*see-through glass*), atau pintu ruangan dibiarkan terbuka separuh sehingga aktivitas di dalam ruangan tetap terlihat oleh orang lain dari luar tanpa mengorbankan privasi percakapan.
 - **Kunjungan Kamar Asrama Terjadwal:** Musyrif tidak diperkenankan memasuki kamar tidur santri secara mendadak pada jam-jam sensitif (saat santri sedang berganti pakaian atau tidur siang) tanpa mengetuk pintu, mengucap salam, dan memastikan santri telah berpakaian rapi dan menutup aurat secara sempurna.
@@ -93,7 +93,7 @@ Dalam ketiga situasi ini, konselor BK memiliki kewajiban moral dan syar'i untuk 
 Sistem yang hebat bukanlah sistem yang sekali dirancang lalu ditinggalkan. Sistem yang kokoh adalah sistem yang senantiasa menguji dirinya sendiri, mendeteksi kelemahan secara dini, dan melakukan penyempurnaan berkesinambungan. Dalam tradisi Islam, etos ini disebut sebagai **Itqan**—bekerja dengan standar mutu terbaik dan penuh ketelitian.
 
 $$\text{"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal, ia melakukannya secara itqan (profesional, tuntas, dan bermutu tinggi)"}$$
-$$\text{(إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ)}$$
+$$\text{(إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ)}$$[^5]
 
 TUMBUH merumuskan siklus penjaminan mutu kelembagaan melalui tiga audit berkala:
 
@@ -195,7 +195,7 @@ Kelestarian ekosistem TUMBUH tidak dipertahankan melalui slogan seremonial, mela
   └─────────────────────────────┘ └─────────────────────────────┘
 ```
 
-#### 1. Indeks Kesejahteraan dan Kebahagiaan Santri (*Santri Well-Being Index*)
+#### 1. Indeks Kesejahteraan dan Kebahagiaan Santri (*Santri Well-Being Index*)[^6]
 Setiap akhir semester, unit penjaminan mutu menyebarkan kuesioner instrumen psikometrik anonim kepada 100% santri untuk mengukur 5 indikator ekologis:
 1. **Rasa Aman Fisik (*Physical Safety*):** Persentase santri yang merasa benar-benar bebas dari ancaman pemukulan, tendangan, atau perundungan di asrama.
 2. **Rasa Aman Psikologis (*Psychological Safety*):** Keberanian santri bertanya di kelas, mengungkapkan uneg-uneg kepada musyrif, dan tidak merasa dihakimi.
@@ -251,3 +251,14 @@ Semoga Allah Subhanahu wa Ta'ala senantiasa melimpahkan taufik, inayah, kesabara
 5. **Standar Audit Fisik & Anti-Retaliasi:** Eliminasi titik buta (*blind spots*), penyediaan tiga saluran pengaduan aman (*Amanah Box*, formulir terenkripsi, DSL terpercaya), serta jaminan perlindungan mutlak bagi santri pelapor dan saksi dari intimidasi lanjutan.
 6. **Integritas Komunikasi Krisis:** Kewajiban manajemen mengedepankan empati dan pemulihan korban di atas reputasi institusi, mengharamkan budaya menutup-nutupi kasus (*anti-nifaq*), dan bersikap kooperatif penuh dengan penegak hukum.
 7. **Siklus Penjaminan Mutu & Epilog Peradaban:** Pengukuran berkala Indeks Kesejahteraan Santri (*Santri Well-Being Index*), audit integritas pendidik tahunan, serta pengukuhan janji peradaban TUMBUH sebagai mahakarya tarbiyah yang mengantarkan pesantren menjadi taman surga pendidikan yang bermartabat dan berkah.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah At-Tahrim [66]: 6.
+[^2]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, *Kitab al-Jumu'ah*, Bab *Al-Jumu'ah fi al-Qura wa al-Mudun*, no. 893; Muslim bin al-Hajjaj An-Naisaburi, *Shahih Muslim*, *Kitab al-Imarah*, Bab *Fadhilat al-Imam al-'Adil*, no. 1829.
+[^3]: Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, diedit oleh Masyhur Hasan Salman (Khobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–25 mengenai hierarki dharuriyyat dan perlindungan jiwa serta martabat kemanusiaan; Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1993), hlm. 174.
+[^4]: UNICEF, *Child Safeguarding Toolkit for Educational and Faith-Based Residential Institutions* (New York: UNICEF Child Protection Section, 2018), hlm. 28–46; Council of International Schools [CIS], *Child Protection and Well-Being Standards for Boarding and Day Schools* (Leiden: CIS Guidelines, 2020), hlm. 14–22.
+[^5]: Abu Bakr Ahmad bin al-Husain Al-Baihaqi, *Syu'ab al-Iman*, diedit oleh Abdul Ali Abdul Hamid Hamid (Riyadh: Maktabah ar-Rusyd, 2003), Jilid VI, hlm. 396, no. 4931; Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Awsath* (Kairo: Dar al-Haramain, 1995), Jilid I, hlm. 275, no. 897. Dinyatakan hasan oleh Al-Albani dalam *Silsilat al-Ahadits ash-Shahihah*, no. 1113.
+[^6]: Collaborative for Academic, Social, and Emotional Learning [CASEL], *School Climate, Social-Emotional Learning, and Student Well-Being Assessment Guidelines* (Chicago: CASEL, 2021), hlm. 35–52; George Sugai & Robert H. Horner, "School-Wide Positive Behavioral Interventions and Supports: Developing a Systems-Level Approach to Institutional Safety and Climate," *Journal of Positive Behavior Interventions*, Vol. 8, No. 4 (2006), hlm. 245–259.

@@ -1,4 +1,4 @@
-# Struktur Registri Konstruk (Construct Registry Structure)
+# 01 — Struktur Registri Konstruk (Construct Registry Structure)
 
 **Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Konstruk TUMBUH v2.0.0  
 **Kode Konstruk:** CRS-v2.0.0  
@@ -20,12 +20,12 @@ Setiap konstruk yang didaftarkan ke dalam Registri Konstruk Resmi wajib memuat s
 
 | No | Parameter Data | Pertanyaan Pemandu Penetapan | Deskripsi Fungsi dalam Arsitektur |
 |---|---|---|---|
-| **01** | **ID Konstruk** | *Apa kode unik identifikasinya?* | Kode alfanumerik kanonik yang tidak boleh diubah (misal: `CC-01`, `CC-05`). |
-| **02** | **Nama Kanonikal** | *Apa nama resmi konstruk ini?* | Nama baku tiga bahasa: Arab (akar turats), Indonesia (bahasa pengantar), dan Inggris (istilah ilmiah internasional). |
+| **01** | **ID Konstruk** | *Apa kode unik identifikasinya?* | Kode alfanumerik kanonik yang tidak boleh diubah (misalnya: `CC-01`, `CC-05`). |
+| **02** | **Nama Kanonikal** | *Apa nama resmi konstruk ini?* | Nama baku tiga bahasa: Arab (akar turats syar'i), Indonesia (bahasa pengantar utama), dan Inggris (istilah ilmiah internasional). |
 | **03** | **Lapisan Arsitektur** | *Di mana letak posisinya dalam sistem?* | Menentukan domain: 01_FUNDAMENTAL (Kapasitas Inti), 02_IMPLEMENTATION, atau 03_OPERATIONAL. |
 | **04** | **Akar Epistemik Turats** | *Dalil syar'i apa yang melandasinya?* | Nash Al-Qur'an, Hadits shahih, dan konsep ushul fiqih/tazkiyatun nafs yang menjadi fondasi teologisnya. |
-| **05** | **Definisi Kanonikal** | *Apa rumusan pengertian bakunya?* | Pernyataan padat, jelas, dan berorientasi keberfungsian manusiawi santri. |
-| **06** | **Sasaran Kerja (*Functional Object*)** | *Apa yang sebenarnya dikelola atau diolah?* | Entitas nyata yang menjadi objek kerja kapasitas (misal: dorongan diri, informasi berita, pesan lisan). |
+| **05** | **Definisi Kanonikal** | *Apa rumusan pengertian bakunya?* | Pernyataan padat, jelas, dan berorientasi pada keberfungsian manusiawi santri. |
+| **06** | **Sasaran Kerja (*Functional Object*)** | *Apa yang sebenarnya dikelola atau diolah?* | Entitas nyata yang menjadi objek kerja kapasitas (misalnya: dorongan diri, informasi berita, pesan lisan). |
 | **07** | **Triad Dimensi Fungsi** | *Tiga roda gigi apa yang menggerakkannya?* | Tiga sub-fungsi fungsional yang berputar terkoordinasi dalam mengoperasikan kapasitas tersebut. |
 | **08** | **Pagar Batas (*Negative Boundaries*)** | *Apa yang secara tegas BUKAN bagian darinya?* | Rambu pembatas negatif yang mencegah salah kaprah, kepatuhan semu, dan pergeseran makna (*anti-drift*). |
 | **09** | **Bukti Teramati di Asrama 24 Jam** | *Perilaku konkret apa yang tampak di lapangan?* | Manifestasi tindakan nyata santri saat bangun tidur, di kamar mandi, meja makan, masjid, dan kelas madrasah. |
@@ -106,7 +106,7 @@ Governance_Status: Conceptually Specified / Empirically Validated (v2.0.0 Final)
 Agar registri tidak membengkak oleh istilah-istilah yang tumpang tindih (*construct proliferation*), diberlakukan aturan baku:
 
 1. **Uji Kebutuhan Baru (*The Redundancy Test*):**  
-   Sebelum mengusulkan konsep baru, pemohon wajib membuktikan bahwa konsep tersebut tidak dapat dijelaskan oleh 8 Kapasitas Inti yang sudah ada. Jika sebuah fenomena dapat dijelaskan oleh gabungan CC yang ada (misal: *"Kerja Keras"* = gabungan CC-01, CC-05, dan CC-07), maka usulan konsep baru **DITOLAK**.
+   Sebelum mengusulkan konsep baru, pemohon wajib membuktikan bahwa konsep tersebut tidak dapat dijelaskan oleh 8 Kapasitas Inti yang sudah ada. Jika sebuah fenomena dapat dijelaskan oleh gabungan CC yang ada (misalnya: *"Kerja Keras"* = gabungan CC-01 Regulasi Diri, CC-05 Fungsi Jasmani, dan CC-07 Daya Gerak Mandiri), maka usulan konsep baru **DITOLAK**.
 2. **Kesesuaian Tiga Bahasa:**  
    Nama konsep wajib memiliki padanan Arab yang bersumber dari Turats Islam, padanan Indonesia yang komunikatif bagi masyarakat pesantren, dan padanan Inggris yang diakui dalam literatur psikologi pendidikan internasional.
 3. **Konsistensi Format ID:**  

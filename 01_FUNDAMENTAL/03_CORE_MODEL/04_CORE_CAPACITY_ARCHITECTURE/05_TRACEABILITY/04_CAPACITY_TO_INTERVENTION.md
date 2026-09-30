@@ -1,4 +1,4 @@
-# Keterlacakan Kapasitas Menuju Tindakan Pendampingan (Capacity to Intervention Trace)
+# 04 — Keterlacakan Kapasitas Menuju Tindakan Pendampingan (Capacity to Intervention Trace)
 
 **Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Keterlacakan TUMBUH v2.0.0  
 **Kode Konstruk:** CIT-v2.0.0  
@@ -10,14 +10,14 @@
 
 Di banyak lembaga pendidikan tradisional, penegakan kedisiplinan sering kali terjebak dalam paradigma **punitif-retributif (pembalasan dendam)**:
 - Santri yang terlambat bangun dipukul betisnya dengan rotan;
-- Santri yang berkelahi dibotaki kepalanya di depan khalayak atau disuruh berdiri berjam-jam di terik matahari;
+- Santri yang berselisih dibotaki kepalanya di depan umum atau dijemur berjam-jam di terik matahari;
 - Santri yang melanggar dihardik dengan kata-kata kasar yang melukai martabat jiwanya.
 
-Praktik semacam ini **HARAM SECARA PEDAGOGIS DAN SYAR'I** dalam ekosistem TUMBUH. Hukuman fisik dan kekerasan verbal tidak pernah menumbuhkan adab batin; ia hanya melahirkan kepatuhan semu berbasis rasa takut, memicu dendam terpendam, merusak fitrah rasa percaya diri anak, dan mendidik santri menjadi pribadi yang gemar melakukan kekerasan saat kelak memegang kekuasaan.
+Praktik semacam ini **DITOLAK SECARA MUTLAK DALAM EKOSISTEM TUMBUH**. Hukuman fisik dan kekerasan verbal tidak pernah menumbuhkan adab batin; ia hanya melahirkan kepatuhan semu berbasis rasa takut, memicu dendam terpendam, merusak fitrah harga diri anak, dan mendidik santri menjadi pribadi yang gemar menggunakan kekerasan saat kelak memegang kekuasaan.
 
 Dalam arsitektur TUMBUH v2.0.0 ditegaskan doktrin penanganan:
 
-> **Pelanggaran adab bukan tanda bahwa seorang santri adalah "anak jahat", melainkan bukti bahwa terdapat salah satu dari Delapan Kapasitas Inti yang sedang mengalami malfungsi, kelelahan, atau belum terlatih. Tugas musyrif bukan melampiaskan amarah, melainkan bertindak sebagai dokter jiwa yang mendiagnosis dan memberikan terapi pemulihan adab (*at-tarbiyah al-ishlāhiyyah*).**
+> **Pelanggaran adab bukanlah vonis bahwa seorang santri adalah "anak jahat", melainkan sinyal bahwa terdapat salah satu dari Delapan Kapasitas Inti yang sedang mengalami malfungsi, kelelahan, atau belum terlatih. Tugas musyrif bukan melampiaskan amarah, melainkan bertindak sebagai dokter jiwa yang mendiagnosis dan memberikan terapi pemulihan adab (*at-tarbiyah al-ishlāhiyyah*).**
 
 ---
 
@@ -26,28 +26,28 @@ Dalam arsitektur TUMBUH v2.0.0 ditegaskan doktrin penanganan:
 Ketika terjadi pelanggaran tata tertib asrama, musyrif mengikuti rantai bimbingan yang terstruktur:
 
 ```text
-       LANGKAH 1: PENDETEKSIAN FAKTUAL PERISTIWA (Event Detection)
-  (Santri tertangkap membuang sampah sisa makanan di bawah ranjang kawan)
-                           │
-                           ▼
-       LANGKAH 2: DIAGNOSIS KAPASITAS YANG RAPUH (Functional Diagnosis)
-  (Malfungsi pada CC-01 Regulasi Diri [malas membuang ke tong] dan
-   CC-06 Kepekaan Sosial [tidak memikirkan bau yang mengganggu kawan])
-                           │
-                           ▼
-       LANGKAH 3: DIALOG TABAYYUN EMPATIK DUA MATA (Empathetic Tabayyun)
-  (Musyrif mengajak santri duduk berdua secara privat ba'da Ashar;
-   mendengarkan motifnya tanpa menghardik, memvalidasi rasa lelahnya)
-                           │
-                           ▼
-       LANGKAH 4: KESEPAKATAN RESTITUSI LOGIS (Logical Restitution)
-  (Konsekuensi logis yang memperbaiki kerusakan: membersihkan seluruh
-   kolong ranjang kamar tidur dan meminta maaf secara ksatria kepada kawan)
-                           │
-                           ▼
-       LANGKAH 5: PEMBIASAAN & REINTEGRASI PENUH (Habituation & Reintegration)
-  (Musyrif mendampingi pembiasaan membuang sampah selama 7 hari, dan
-   memulihkan martabat santri di tengah kamar tanpa cap buruk)
+        LANGKAH 1: PENDETEKSIAN FAKTUAL PERISTIWA (Event Detection)
+   (Santri tertangkap membuang sampah sisa makanan di bawah ranjang kawan)
+                            │
+                            ▼
+        LANGKAH 2: DIAGNOSIS KAPASITAS YANG RAPUH (Functional Diagnosis)
+   (Malfungsi pada CC-01 Regulasi Diri [malas membuang ke tong] dan
+    CC-06 Kepekaan Sosial [tidak memikirkan bau yang mengganggu kawan])
+                            │
+                            ▼
+        LANGKAH 3: DIALOG TABAYYUN EMPATIK DUA MATA (Empathetic Tabayyun)
+   (Musyrif mengajak santri duduk berdua secara privat ba'da Ashar;
+    mendengarkan motifnya tanpa menghardik, memvalidasi rasa lelahnya)
+                            │
+                            ▼
+        LANGKAH 4: KESEPAKATAN RESTITUSI LOGIS (Logical Restitution)
+   (Konsekuensi logis yang memperbaiki kerusakan: membersihkan seluruh
+    kolong ranjang kamar tidur dan meminta maaf secara ksatria kepada kawan)
+                            │
+                            ▼
+        LANGKAH 5: PEMBIASAAN & REINTEGRASI PENUH (Habituation & Reintegration)
+   (Musyrif mendampingi pembiasaan membuang sampah selama 7 hari, dan
+    memulihkan martabat santri di tengah kamar tanpa cap buruk)
 ```
 
 ---
@@ -79,11 +79,11 @@ Sistem intervensi TUMBUH diselaraskan dengan kerangka kerja ilmiah *Positive Beh
 ### Penjabaran Tiga Tingkatan Dukungan:
 
 1. **Tier 1: Pencegahan Primer Semesta (*Universal Bi'ah Shalihah — 100% Santri*):**  
-   Fokus pada penciptaan lingkungan yang kondusif (*environmental engineering*). Menetapkan rutinitas asrama yang jelas, keteladanan asatidz yang bangun paling awal, sistem apresiasi harian (*bintang adab*), dan tata ruang kamar yang rapi. 80-90% santri bertumbuh sehat cukup dengan fondasi Tier 1 ini.
+   Fokus pada penciptaan lingkungan yang kondusif (*environmental engineering*). Menetapkan rutinitas asrama yang jelas, keteladanan asatidz yang bangun paling awal, sistem apresiasi harian (*bintang adab*), dan tata ruang kamar yang rapi. Mayoritas santri (80–90%) bertumbuh sehat cukup dengan fondasi Tier 1 ini.
 2. **Tier 2: Bimbingan Terarah Kelompok Kecil (*Targeted Support — 10–15% Santri*):**  
-   Diberikan kepada santri yang mulai menunjukkan gejala kesulitan adaptasi (sering terlambat bangun, sering menyendiri, atau kesulitan beradaptasi dengan teman sekamar). Bentuk tindakan: halaqoh usrah intensif 3-4 santri, penugasan santri senior sebagai mentor sebaya (*kakak asuh*), dan pendampingan manajemen belajar malam.
+   Diberikan kepada santri yang mulai menunjukkan gejala kesulitan adaptasi (sering terlambat bangun, sering menyendiri, atau kesulitan berbaur dengan teman sekamar). Bentuk tindakan: halaqoh usrah intensif 3–4 santri, penugasan santri senior sebagai mentor sebaya (*kakak asuh*), dan pendampingan manajemen belajar malam.
 3. **Tier 3: Pendampingan Intensif Khusus (*Intensive Individual Support — 1–5% Santri*):**  
-   Diberikan kepada santri yang mengalami krisis perilaku berat (perkelahian fisik berulang, trauma psikologis, homesick akut berkepanjangan, atau pelanggaran moral serius). Bentuk tindakan: konseling pribadi empat mata dengan ustadz konselor BK yang bersertifikasi, terapi pemulihan trauma naratif, pelibatan orang tua secara penuh empati, dan pembuatan kontrak pemulihan perilaku individual (*Individual Restorative Contract*).
+   Diberikan kepada santri yang mengalami krisis perilaku berat (perkelahian fisik berulang, trauma psikologis, homesick akut berkepanjangan, atau pelanggaran moral serius). Bentuk tindakan: konseling pribadi empat mata dengan ustadz konselor BK yang amanah, terapi pemulihan trauma naratif, pelibatan orang tua secara penuh empati, dan pembuatan kontrak pemulihan perilaku individual (*Individual Restorative Contract*).
 
 ---
 
@@ -92,10 +92,10 @@ Sistem intervensi TUMBUH diselaraskan dengan kerangka kerja ilmiah *Positive Beh
 Dalam menegakkan kedisiplinan di asrama, musyrif wajib memegang teguh tiga pilar syariat:
 
 1. **Eliminasi Mutlak Kekerasan Fisik dan Pelecehan Verbal (*Zero Tolerance to Abuse*):**  
-   Rasulullah SAW adalah teladan pengasuh terbaik yang tidak pernah memukul anak atau pembantu seumur hidupnya:
+   Rasulullah SAW adalah teladan pengasuh terbaik yang tidak pernah memukul anak atau pelayan seumur hidupnya:
    $$\text{"مَا ضَرَبَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْئًا قَطُّ بِيَدِهِ، وَلَا امْرَأَةً، وَلَا خَادِمًا"}$$
-   *(Rasulullah SAW sama sekali tidak pernah memukul apa pun dengan tangannya; tidak pernah memukul wanita, dan tidak pernah memukul pelayan/anak — HR. Muslim).*  
-   Setiap bentuk kekerasan fisik (tamparan, pukulan rotan, tendangan) dan kekerasan verbal (cemoohan, kata-kata kotor, merendahkan martabat keluarga) dinyatakan sebagai **pelanggaran hukum berat di pesantren TUMBUH**.
+   *(Rasulullah SAW sama sekali tidak pernah memukul apa pun dengan tangannya; tidak pernah memukul wanita, dan tidak pernah memukul pelayan maupun anak — HR. Muslim).*  
+   Setiap bentuk kekerasan fisik (tamparan, pukulan rotan, tendangan) dan kekerasan verbal (cemoohan, kata-kata kotor, merendahkan martabat keluarga) dinyatakan sebagai **pelanggaran etika berat di pesantren TUMBUH**.
 2. **Keadilan Restoratif (*Restitusi Logis / Ishlāhul Fasād*):**  
    Konsekuensi atas kesalahan harus memiliki hubungan logis yang memperbaiki kerusakan yang ditimbulkan:
    - Jika santri menumpahkan kuah sayur di meja makan, konsekuensinya adalah mengelap meja hingga bersih dan mencuci taplak meja (bukan disuruh lari keliling lapangan);

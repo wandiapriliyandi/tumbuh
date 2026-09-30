@@ -1,13 +1,24 @@
 # Peninjauan Respons dan Adaptasi Intervensi (Response Review and Adaptation)
 
+> **ID Kanonikal Dokumen:** `INT-DEV-REV-v2.0.0`  
+> **Status Lapisan:** `01_FUNDAMENTAL / 06_INTERVENTION / 06 Developmental Support`  
+> **Status Epistemik:** *Conceptually Specified; Empirically Provisional*  
+> **Rujukan Silang Dokumen:** [README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/README.md) | [01-Developmental-Support-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/01-Developmental-Support-Architecture.md) | [08-Developmental-Support-Traceability.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/06%20Developmental%20Support/08-Developmental-Support-Traceability.md)
+
+---
+
+> [!NOTE]
+> ### Intisari untuk Pendidik & Musyrif
 > **"Jangan mengubah santri agar cocok dengan rencana kita; ubahlah rencana pendampingan agar selaras dengan denyut perkembangan fitrah santri."**  
-> Jika seorang santri belum menunjukkan perbaikan setelah dua pekan menjalani program pembiasaan adab, musyrif bijak tidak akan buru-buru melabeli santri tersebut sebagai 'keras kepala' atau 'pembangkang'. Musyrif akan duduk meninjau kembali: apakah metode latihannya terlalu rumit? Apakah jadwal pendampingannya berbenturan dengan waktu lelah santri? Atau apakah perancah yang diberikan belum menyentuh akar hambatannya? Pendampingan bukanlah cetakan batu kaku, melainkan seni menyesuaikan layar perahu dengan hembusan angin.
+> Jika seorang santri belum menunjukkan perbaikan setelah dua pekan menjalani program pembiasaan adab, musyrif bijak tidak akan buru-buru melabeli santri tersebut sebagai anak yang 'bebal' atau 'pembangkang'. Musyrif akan duduk meninjau kembali dengan jernih: apakah metode latihannya terlalu rumit? Apakah jadwal pendampingannya berbenturan dengan waktu lelah santri? Atau apakah perancah yang diberikan belum menyentuh akar hambatannya?  
+> Pendampingan bukanlah cetakan batu kaku, melainkan seni menyesuaikan layar perahu dengan hembusan angin.  
+> Dokumen ini menjabarkan **Peninjauan Respons dan Adaptasi Intervensi (*Response Review and Adaptation*)**: bagaimana mengaudit respons perkembangan santri melalui 6 dimensi pemeriksaan adil, memilih 5 opsi keputusan strategis (Maintain, Adapt, Intensify, Reduce, Stop), serta menetapkan ritme jadwal evaluasi berkala di pesantren.
 
 ---
 
 ## 1. Siklus Peninjauan Respons Perkembangan
 
-Dalam arsitektur TUMBUH, dukungan perkembangan tidak pernah dijalankan secara statis. Setiap bantuan wajib melalui siklus pemantauan berkala guna memastikan intervensi tetap relevan dan bermanfaat nyata bagi santri.
+Dalam arsitektur TUMBUH v2.0.0, dukungan perkembangan tidak pernah dijalankan secara statis atau dibiarkan tanpa evaluasi. Setiap bentuk pendampingan wajib melalui siklus pemantauan berkala guna memastikan intervensi tetap relevan, manusiawi, dan bermanfaat nyata bagi santri:
 
 ```text
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
@@ -36,9 +47,9 @@ Sebelum mengambil keputusan untuk mengubah atau menghentikan dukungan, musyrif d
 | **1. Konteks Lingkungan (*Context*)** | Apakah ada perubahan drastis di asrama yang mempengaruhi ketenangan santri? | Kamar santri sedang mengalami renovasi atap bocor atau terjadi pergantian teman sekamar yang memicu gesekan sosial baru. |
 | **2. Beban Tuntutan (*Demand*)** | Apakah ekspektasi yang dibebankan terlalu tinggi melampaui usia dan kapasitas santri? | Santri kelas VII baru masuk langsung dituntut menghafal 1 juz per pekan sembari mencuci baju sendiri tanpa mesin cuci. |
 | **3. Kesesuaian Bantuan (*Support Fit*)** | Apakah bentuk bantuan yang diberikan benar-benar menyasar hambatan utama santri? | Santri sering terlambat shalat subuh bukan karena malas, melainkan karena memiliki gangguan tidur (*insomnia*) atau kelelahan fisik. |
-| **4. Kesetiaan Pelaksanaan (*Fidelity*)** | Apakah musyrif benar-benar menjalankan pendampingan sesuai jadwal yang disepakati? | Musyrif berencana mendampingi 3 kali sepekan, namun hanya sempat hadir 1 kali karena tugas kepanitiaan lain. |
+| **4. Kesetiaan Pelaksanaan (*Fidelity*)** | Apakah musyrif benar-benar menjalankan pendampingan sesuai jadwal yang disepakati? | Musyrif berencana mendampingi 3 kali sepekan, namun hanya sempat hadir 1 kali karena tugas kepanitiaan pondok. |
 | **5. Kesempatan Berlatih (*Opportunity*)** | Apakah santri diberikan ruang dan waktu yang cukup untuk mempraktikkan adabnya? | Santri ingin belajar menyapu kamar, namun selalu didahului oleh kakak kelas yang terburu-buru mengejar waktu piket. |
-| **6. Kualitas Bukti (*Evidence Quality*)** | Apakah catatan kemajuan santri didasarkan pada data faktual atau sekadar ingatan samar? | Musyrif menyimpulkan santri belum membaik hanya berdasarkan perasaan, tanpa memiliki logbook pencatatan yang rapi. |
+| **6. Kualitas Bukti (*Evidence Quality*)** | Apakah catatan kemajuan santri didasarkan pada data faktual atau sekadar ingatan samar? | Musyrif menyimpulkan santri belum membaik hanya berdasarkan perasaan lelah pribadi, tanpa memiliki logbook pencatatan yang rapi. |
 
 ---
 
@@ -71,9 +82,12 @@ Berdasarkan hasil peninjauan enam dimensi di atas, tim pengasuhan memilih satu d
 
 ## 4. Jadwal Berkala Peninjauan (*Review Cadence*)
 
-1. **Pemeriksaan Cepat Mingguan (*Weekly Pulse Check*):** Musyrif meluangkan waktu 10 menit setiap akhir pekan untuk merefleksikan lembar latihan santri bimbingan.
-2. **Musyawarah Dua Mingguan (*Bi-weekly Case Sync*):** Pertemuan antara musyrif kamar dan guru BK/wali kelas untuk mengkaji santri yang membutuhkan adaptasi strategi.
-3. **Audit Evaluasi Bulanan (*Monthly Milestone Review*):** Evaluasi formal pencapaian target LRPM untuk menentukan apakah program dilanjutkan, dinaikkan, atau ditutup.
+1. **Pemeriksaan Cepat Mingguan (*Weekly Pulse Check*):**  
+   Musyrif meluangkan waktu 10 menit setiap akhir pekan untuk merefleksikan lembar latihan santri bimbingan di kamar asrama.
+2. **Musyawarah Dua Mingguan (*Bi-weekly Case Sync*):**  
+   Pertemuan koordinasi antara musyrif kamar dan guru BK/wali kelas untuk mengkaji santri yang membutuhkan adaptasi strategi perancah.
+3. **Audit Evaluasi Bulanan (*Monthly Milestone Review*):**  
+   Evaluasi formal pencapaian target Lembar Rencana Perkembangan Mandiri (LRPM) untuk menentukan apakah program dilanjutkan, dinaikkan, atau ditutup secara resmi.
 
 ---
 
@@ -82,3 +96,7 @@ Berdasarkan hasil peninjauan enam dimensi di atas, tim pengasuhan memilih satu d
 1. **Korelasi Bukan Kausalitas Mutlak (*Post Hoc Ergo Propter Hoc*):** Perubahan positif pada diri santri setelah intervensi tidak boleh diklaim secara sepihak semata-mata karena kehebatan program bimbingan musyrif. Perkembangan santri adalah karunia taufik dari Allah yang dipengaruhi oleh banyak faktor ekologis (kedewasaan usia, doa orang tua, dukungan teman, dan iklim pesantren).
 2. **Larangan Vonis Tanpa Audit Kesetiaan (*No Blame Without Fidelity Check*):** Pendidik dilarang menyatakan suatu intervensi "gagal pada santri" jika pendidik sendiri tidak menjalankan protokol pendampingan secara konsisten (*low implementation fidelity*).
 3. **Fleksibilitas Beradab:** Rencana pendampingan harus dapat diadaptasi sewaktu-waktu jika santri mengalami peristiwa duka, sakit fisik, atau krisis keluarga tanpa harus menunggu jadwal review bulanan.
+
+---
+
+> **Keputusan Prinsip:** Peninjauan respons dan adaptasi intervensi (*Response Review and Adaptation*) adalah jaminan keadilan dan profesionalisme tarbiyah di pesantren TUMBUH v2.0.0. Dengan keterbukaan mengevaluasi diri dan kepekaan menyesuaikan perancah bimbingan, pesantren memastikan bahwa setiap ikhtiar pendampingan benar-benar menyentuh kebutuhan jiwa anak asuh dengan penuh kasih sayang dan ketepatan sasaran.

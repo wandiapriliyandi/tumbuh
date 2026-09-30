@@ -1,11 +1,11 @@
 # BAB 14: BEDAH JENJANG J3 & J4: OTONOMI KARAKTER DAN KEPEMIMPINAN QUDWAH
 
 > *"Dan bagi tiap-tiap umat ada kiblatnya sendiri yang ia menghadap kepadanya; maka berlomba-lombalah kamu dalam kebaikan."*  
-> — **QS. Al-Baqarah [2]: 148**
+> — **QS. Al-Baqarah [2]: 148**[^1]
 
 > سَيِّدُ الْقَوْمِ خَادِمُهُمْ  
 > *"Pemimpin suatu kaum adalah pelayan bagi mereka."*  
-> — **Hadits Riwayat Al-Baihaqi & Abu Nu'aim**
+> — **Hadits Riwayat Al-Baihaqi & Abu Nu'aim**[^2]
 
 ---
 
@@ -24,15 +24,15 @@ Bab ini membedah secara mendalam dan komprehensif arsitektur psikologis, spiritu
 Jenjang J3 (*Independent Functioning*) menandai pencapaian penting dalam perjalanan santri: etape di mana nilai-nilai adab dan disiplin pondok telah bertransformasi dari sekadar tuntutan eksternal menjadi identitas diri yang disadari. Santri pada jenjang ini tidak lagi digerakkan oleh rasa takut akan sanksi musyrif atau harapan akan pujian teman, melainkan oleh dorongan batin yang melihat keteraturan, ilmu, dan ibadah sebagai kebutuhan eksistensial jiwanya sendiri.
 
 #### 1. Pergeseran Psikologis: Teori Penentuan Diri dan Terbentuknya Malakah
-Dalam perspektif *Self-Determination Theory* (Ryan & Deci, 2000), santri J3 telah melampaui fase regulasi eksternal (*external regulation*) dan regulasi introjeksi (*introjected regulation*). Mereka kini beroperasi pada ranah regulasi teridentifikasi (*identified regulation*) dan regulasi terintegrasi (*integrated regulation*). Santri menghargai salat berjamaah tepat waktu di shaf terdepan bukan karena ada musyrif yang mencatat di pintu masjid, melainkan karena ia mengidentifikasi dirinya sebagai seorang penuntut ilmu yang membutuhkan keridhaan Allah dan ketenangan batin.
+Dalam perspektif *Self-Determination Theory* (Ryan & Deci, 2017), santri J3 telah melampaui fase regulasi eksternal (*external regulation*) dan regulasi introjeksi (*introjected regulation*)[^3]. Mereka kini beroperasi pada ranah regulasi teridentifikasi (*identified regulation*) dan regulasi terintegrasi (*integrated regulation*). Santri menghargai salat berjamaah tepat waktu di shaf terdepan bukan karena ada musyrif yang mencatat di pintu masjid, melainkan karena ia mengidentifikasi dirinya sebagai seorang penuntut ilmu yang membutuhkan keridhaan Allah dan ketenangan batin.
 
-Secara epistemologis turats, pencapaian ini selaras sempurna dengan konsep *malakah* yang diuraikan oleh Al-'Allamah Ibn Khaldun dalam *Muqaddimah*-nya. Ibn Khaldun menjelaskan bahwa suatu kecakapan moral atau keilmuan tidak disebut karakter sejati sampai ia mencapai derajat *malakah*—yaitu kualitas jiwa yang telah meresap demikian mendalam melalui pembiasaan berulang-ulang hingga melahirkan tindakan secara spontan, ringan, dan nikmat, tanpa memerlukan pemikiran panjang atau dorongan paksaan dari luar (*shifatun rasikhatun fil-nafs*). Bagi santri J3:
+Secara epistemologis turats, pencapaian ini selaras sempurna dengan konsep *malakah* yang diuraikan oleh Al-'Allamah Ibn Khaldun dalam *Muqaddimah*-nya[^4]. Ibn Khaldun menjelaskan bahwa suatu kecakapan moral atau keilmuan tidak disebut karakter sejati sampai ia mencapai derajat *malakah*—yaitu kualitas jiwa yang telah meresap demikian mendalam melalui pembiasaan berulang-ulang hingga melahirkan tindakan secara spontan, ringan, dan nikmat, tanpa memerlukan pemikiran panjang atau dorongan paksaan dari luar (*shifatun rasikhatun fil-nafs*). Bagi santri J3:
 - Bangun tidur sebelum fajar bukan lagi pertempuran batin yang menyiksa, melainkan ritme sirkadian tubuh dan kerinduan ruhani yang alamiah.
 - Merapikan tempat tidur, meletakkan kitab pada tempat terhormat, dan membersihkan remah makanan bukan lagi kepatuhan pada daftar periksa (*checklist*), melainkan ekspresi estetika iman dan kebersihan batin.
 - Bersikap santun dalam bertutur kata bukan lagi kepura-puraan sosial di depan guru, melainkan cerminan hati yang telah terbiasa memuliakan sesama hamba Allah.
 
 #### 2. Ujian Tertinggi Muraqabatullah: Adab dalam Ruang Sepi
-Ujian keaslian karakter seorang santri bukanlah saat ia berdiri di bawah sorot lampu panggung pondok atau saat berpapasan dengan pimpinan pesantren di lorong madrasah. Ujian sejati integritas—sebagaimana ditegaskan Imam Al-Ghazali dalam *Ihya' 'Ulumiddin*—terletak pada perilakunya ketika ia berada dalam kesendirian (*al-khalwah*), di mana tidak ada musyrif yang mengawasi, tidak ada mata kawan yang memuji, dan tidak ada ancaman hukuman duniawi yang mengintai.
+Ujian keaslian karakter seorang santri bukanlah saat ia berdiri di bawah sorot lampu panggung pondok atau saat berpapasan dengan pimpinan pesantren di lorong madrasah. Ujian sejati integritas—sebagaimana ditegaskan Imam Al-Ghazali dalam *Ihya' 'Ulumiddin*—terletak pada perilakunya ketika ia berada dalam kesendirian (*al-khalwah*), di mana tidak ada musyrif yang mengawasi, tidak ada mata kawan yang memuji, dan tidak ada ancaman hukuman duniawi yang mengintai[^5].
 
 Santri Jenjang J3 ditempa untuk memiliki kesadaran *muraqabatullah* (merasa senantiasa diawasi oleh Allah Yang Maha Melihat dan Maha Mengetahui):
 - **Menjaga Pandangan dan Perangkat Digital:** Ketika diberi akses fasilitas laboratorium komputer atau perangkat informasi pondok, santri J3 memiliki kendali diri internal (*self-governance*) untuk tidak mengakses konten sia-sia, pornografi, atau melanggar batasan syariat, karena ia sadar bahwa pandangan Allah mendahului pandangan manusia.
@@ -85,7 +85,7 @@ Dalam arsitektur TUMBUH, Jenjang J4 menyelaraskan dua tingkat tertinggi dari eta
 #### 1. Kepemimpinan Pelayan (Servant Leadership / Khidmah) Melawan Feodalisme
 Di banyak lembaga asrama tradisional maupun modern, posisi santri senior di tingkat akhir kerap tergelincir menjadi kasta elite penindas. Kuasa kedudukan sering disalahartikan sebagai hak istimewa untuk dilayani, hak untuk membentak adik kelas, memaksakan kehendak, atau memperbudak santri baru dengan dalih "menegakkan kedisiplinan dan tradisi". Ini adalah penyakit feodalisme asrama yang merusak jiwa santri senior dengan racun kesombongan (*takabbur*) dan melukai jiwa adik kelas dengan rasa takut dan dendam.
 
-Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian:
+Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian dan prinsip *Servant Leadership*[^6]:
 $$\text{"Pemimpin suatu kaum adalah pelayan bagi mereka" (سَيِّدُ الْقَوْمِ خَادِمُهُمْ)}$$
 
 Bagi santri Jenjang J4:
@@ -111,7 +111,7 @@ Oleh karena itu, santri Jenjang J4 dibekali protokol penjagaan hati (*tazkiyatun
 
 ### 14.3 Penegasan Batas Arsitektural: Puncak J4 dan Garis Demarkasi Pasca-Santri
 
-Salah satu penegasan arsitektural terpenting dalam TUMBUH v2.0.0 adalah menjaga batas yang terang benderang antara **Siklus Santri Aktif (J1–J4)** dan **Siklus Pasca-Santri / Pendidik / Kelembagaan (Tahap 8, 9, 10)**. Ketiadaan batas ini dalam model-model lama sering memicu kerancuan tata kelola: santri tingkat akhir dituntut memikul beban operasional selevel staf pengasuhan penuh, atau sebaliknya, staf pengabdian lulusan pesantren diperlakukan layaknya santri asrama yang belum dewasa.
+Salah satu penegasan arsitektural terpenting dalam TUMBUH v2.0.0 adalah menjaga batas yang terang benderang antara **Siklus Santri Aktif (J1–J4)** dan **Siklus Pasca-Santri / Pendidik / Kelembagaan (Tahap 8, 9, 10)**[^7]. Ketiadaan batas ini dalam model-model lama sering memicu kerancuan tata kelola: santri tingkat akhir dituntut memikul beban operasional selevel staf pengasuhan penuh, atau sebaliknya, staf pengabdian lulusan pesantren diperlakukan layaknya santri asrama yang belum dewasa.
 
 Dokumen ini mengunci pemisahan tersebut dengan prinsip-prinsip mutlak berikut:
 
@@ -193,3 +193,15 @@ Dalam waktu dua pekan, Kamar Ibnu Rusyd bermutasi menjadi kamar paling tertib da
 3. **Puncak Siklus Santri pada J4:** Jenjang J4 (*Autonomous Stewardship*) memadukan Tahap 6 (Teladan / Qudwah) dan Tahap 7 (Penggerak / Muharrik). Santri J4 memimpin bukan dengan otoritas paksaan, melainkan melalui paradigma kepemimpinan pelayan (*servant leadership* / *khidmah*), menjadi pelindung adik kelas baru, dan motor penggerak kebaikan asrama.
 4. **Dekonstruksi Feodalisme Asrama:** Menghancurkan kultur senioritas tiranis dan perpeloncoan. Santri J4 dididik untuk mengambil tugas-tugas terberat, melayani sesama santri, serta menjaga hati dari racun *takabbur* dan merasa lebih mulia dari orang lain.
 5. **Demarkasi Arsitektural Mutlak:** Jenjang J1–J4 khusus berlaku bagi santri aktif di asrama pesantren. Santri J4 tidak memiliki kewenangan yudisial menjatuhkan sanksi formal. Pasca-kelulusan pesantren, mereka bertransisi memasuki Tahap 8 (Pelaksana Khidmah Wiyata Bakti), Tahap 9 (Pembina Pendidik), dan Tahap 10 (Pembangun Kelembagaan) yang berdiri di luar kerangka J1–J4.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 148.
+[^2]: Diriwayatkan oleh Al-Baihaqi dalam *Syu'abul Iman*, no. 8624; Abu Nu'aim Al-Ashbahani dalam *Hilyatul Auliya'*, Jilid II, hlm. 55 dari Ibnu Abbas dan Abu Qatadah; dinilai hasan lighairihi oleh para muhadditsin karena banyaknya syawahid penguat.
+[^3]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 179–215 mengenai internalisasi regulasi moral (dari eksternal menuju *integrated regulation*).
+[^4]: Abdurrahman Ibnu Khaldun, *Al-Muqaddimah*, Tahqiq: Dr. Abdullah Muhammad ad-Darwisy (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan *malakah* (watak membatin) melalui pembiasaan berulang.
+[^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid IV, *Kitab Al-Muraqabah wa al-Muhasabah*, hlm. 385–412 mengenai adab saat sendiri (*al-khalwah*) dan kehadiran batin di hadapan Allah.
+[^6]: Robert K. Greenleaf, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (Mahwah: Paulist Press, 1977), hlm. 1–49; Larry C. Spears (Ed.), *Reflections on Servant-Leadership* (New York: John Wiley & Sons, 1995).
+[^7]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md` dan `03-Stage-Demarcation-and-Scope.md`.

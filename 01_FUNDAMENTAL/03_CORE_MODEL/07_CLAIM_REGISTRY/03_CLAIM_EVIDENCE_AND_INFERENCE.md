@@ -1,107 +1,128 @@
-# Bukti Pendukung dan Batas Penarikan Kesimpulan Klaim (Claim Evidence and Inference)
+# Bukti Lapangan dan Batas Penarikan Kesimpulan
+## *Evidence Standards and Valid Inference Boundaries*
 
-**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Epistemik TUMBUH v2.0.0  
-**Kode Konstruk:** CEI-v2.0.0  
-**Fungsi Dokumen:** Panduan metodologis pengujian kelayakan bukti (*evidence fit*) dan penegakan batas kesimpulan yang sah (*valid inference boundaries*) guna mencegah generalisasi gegabah di pesantren  
-
----
-
-## 1. Hakikat Inferensi yang Sah: Menolak Generalisasi Gegabah
-
-Dalam kehidupan asrama 24 jam, salah satu sumber kezaliman terbesar terhadap santri adalah **generalisasi gegabah (*hasty generalization*) dan inferensi berlebihan (*inferential overreach*)**:
-
-> *Seorang musyrif mendapati dua orang santri kelas 8 bertengkar di selasar kamar mandi. Musyrif tersebut langsung menulis laporan resmi: "Program pembinaan adab asrama semester ini gagal total; seluruh santri angkatan 8 telah kehilangan rasa ukhuwah dan memiliki kecenderungan agresif!"*
-
-Laporan musyrif di atas melakukan lompatan kesimpulan yang tidak sah secara metodologis: ia menggunakan satu insiden tunggal pada 2 orang santri untuk menjatuhkan vonis kegagalan moral kepada 80 santri lainnya.
-
-TUMBUH v2.0.0 menegakkan prinsip dasar inferensi:
-
-> **Kekuatan dan luasnya sebuah kesimpulan pembinaan WAJIB sepadan secara presisi dengan mutu, cakupan, dan kedalaman data bukti nyata yang berhasil dihimpun di lapangan. Dilarang keras menarik kesimpulan yang melompat melampaui apa yang secara faktual dibuktikan oleh data.**
+**Status Dokumen:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Registri Klaim TUMBUH v2.0.0  
+**Kode Konstruk:** CEI-Claim-v2.0.0  
+**Fungsi Dokumen:** Panduan lima langkah rantai logika pembuktian, instrumen uji keselarasan bukti lima sumbu (*5-axis evidence fit*), serta protokol penanganan data bertentangan bebas penyembunyian (*zero suppression rule*).
 
 ---
 
-## 2. Rantai Logika Bukti yang Sah (The 5-Link Evidence Chain)
+## 1. Hakikat Hubungan antara Catatan Lapangan dan Kesimpulan
 
-Setiap penarikan kesimpulan kebijakan atau asesmen adab santri wajib mengikuti lima mata rantai yang tidak boleh terputus:
+Sebuah data rekam jejak (*logbook*) asrama tidak serta-merta membuktikan kebenaran sebuah teori pengasuhan. Jika seorang musyrif kamar mencatat: *"Bulan ini seluruh santri kamar Al-Falah bangun tepat waktu sebelum subuh,"* catatan tersebut adalah **fakta mentah**. 
+
+Namun, jika tim pengasuh langsung menyimpulkan: *"Ini bukti bahwa metode ceramah motivasi kita berhasil membentuk kebiasaan bangun pagi santri seumur hidup,"* maka pengasuh telah melakukan **lompatan kesimpulan yang berbahaya (*inferential overreach*)**. Bisa jadi santri bangun pagi bukan karena kesadaran batin dari ceramah, melainkan karena rasa takut akan sanksi menyiram halaman, atau karena adanya santri senior yang membunyikan bel dengan keras.
+
+TUMBUH v2.0.0 menetapkan aturan ketat:
+> **"Kesimpulan ilmiah hanya sah jika ditarik melalui mata rantai logika yang utuh, menguji data melalui lima sumbu keselarasan, dan tidak pernah menyembunyikan data santri yang belum berhasil."**
+
+---
+
+## 2. Rantai Lima Langkah Penarikan Kesimpulan yang Sah
+
+Setiap klaim keberhasilan program pembinaan di lingkungan pesantren wajib melalui lima tahapan berurutan berikut:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│             LIMA MATA RANTAI LOGIKA BUKTI YANG SAH                     │
+│           RANTAI LIMA LANGKAH PENARIKAN KESIMPULAN YANG SAH            │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. RUMUSAN PROPOSISI SPESIFIK (Clear Claim Statement)                  │
-│    Apa sebenarnya pernyataan yang hendak dibuktikan?                   │
+│                                                                        │
+│   [LANGKAH 1: DATA MENTAH LAPANGAN (Raw Observation Data)]             │
+│   • Rekaman catatan harian musyrif, presensi salat, & insiden adab     │
 │                 │                                                      │
 │                 ▼                                                      │
-│ 2. KEBUTUHAN DATA BUKTI (Evidence Requirement)                         │
-│    Data apa saja yang secara metodologis disyaratkan untuk mendukungnya?│
+│   [LANGKAH 2: DATA TERKURASI & BERSIH (Curated Evidence)]              │
+│   • Penyaringan data yang valid, bebas salah catat & subjektivitas     │
 │                 │                                                      │
 │                 ▼                                                      │
-│ 3. UJI MUTU DAN CAKUPAN DATA (Evidence Quality & Representativeness)   │
-│    Apakah data tersebut objektif, cukup representatif, & bebas bias?   │
+│   [LANGKAH 3: TEMUAN POLA PERILAKU (Empirical Behavioral Pattern)]     │
+│   • Kecenderungan konsisten yang tampak melintasi waktu (tren data)    │
 │                 │                                                      │
 │                 ▼                                                      │
-│ 4. KESIMPULAN BERPAGAR BATAS (Bounded Valid Inference)                 │
-│    Kesimpulan apa yang secara sah dan adil boleh ditarik dari data?    │
+│   [LANGKAH 4: PENARIKAN KESIMPULAN TERBATAS (Bounded Inference)]       │
+│   • Kesimpulan yang sadar konteks dan tidak digeneralisasi berlebihan  │
 │                 │                                                      │
 │                 ▼                                                      │
-│ 5. PERNYATAAN KETIDAKPASTIAN (Explicit Uncertainty Disclosure)         │
-│    Hal apa saja yang secara jujur diakui belum terbukti oleh data ini? │
+│   [LANGKAH 5: PENGESAHAN STATUS KLAIM (Status Ratification)]           │
+│   • Penetapan status tangga ilmiah resmi melalui sidang pleno dewan    │
+│                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
+### Penjelasan Tahapan Rantai Pembuktian:
+
+1. **Langkah 1: Data Mentah Lapangan (*Raw Observation Data*):**  
+   Fakta empiris yang dihimpun dari interaksi santri selama 24 jam di asrama, masjid, madrasah, dan kantin. Berupa lembar mutaba'ah amalan yaumiyyah, catatan logbook musyrif, rekaman waktu tahfidz, atau buku saku pelanggaran disiplin.
+   
+2. **Langkah 2: Data Terkurasi dan Terverifikasi (*Curated Evidence*):**  
+   Data mentah yang telah dibersihkan dari bias emosional pengasuh, diverifikasi kebenarannya melalui wawancara konfirmasi (*tabayyun*), serta dipastikan bahwa pengisian logbook dilakukan secara jujur dan konsisten oleh musyrif.
+   
+3. **Langkah 3: Temuan Pola Perilaku (*Empirical Behavioral Pattern*):**  
+   Analisis terhadap kurva kecenderungan santri. Apakah penurunan insiden pertengkaran kamar terjadi stabil selama tiga bulan berturut-turut, atau hanya mereda sementara menjelang liburan pondok?
+   
+4. **Langkah 4: Penarikan Kesimpulan Terbatas (*Bounded Inference*):**  
+   Menyimpulkan keberhasilan dengan membatasi ruang lingkupnya secara presisi. Misalnya: *"Metode mediasi santri sebaya efektif menyelesaikan perselisihan kecil di kamar jenjang J2, namun memerlukan campur tangan penuh musyrif jika menyangkut santri jenjang J1."*
+   
+5. **Langkah 5: Pengesahan Status Tangga Ilmiah (*Status Ratification*):**  
+   Pengajuan dokumen dossier data bukti ke Sidang Pleno Dewan Pengasuhan untuk memutuskan apakah status klaim berhak dinaikkan dari *Pilot Tested* menjadi *Empirically Supported*.
+
 ---
 
-## 3. Matriks Pengujian Kelayakan Bukti Lima Sumbu (*The 5-Axis Evidence Fit*)
+## 3. Matriks Uji Keselarasan Bukti Lima Sumbu (*5-Axis Evidence Fit Matrix*)
 
-Sebelum sebuah data logbook musyrif atau laporan pengasuh digunakan untuk mengesahkan sebuah klaim, data tersebut wajib diuji kelayakannya pada lima sumbu:
+Sebelum sebuah data logbook dijadikan landasan untuk memperkuat suatu klaim, data tersebut wajib diuji melalui lima sumbu filter ilmiah berikut:
 
-| Sumbu Pengujian | Pertanyaan Kritis Uji Kelayakan | Contoh Kesalahan Inferensi di Lapangan |
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│             LIMA SUMBU UJI KESELARASAN BUKTI (5-AXIS FIT)              │
+├────────────────────────────────────────────────────────────────────────┤
+│ 1. KESELARASAN POPULASI SANTRI (Population Fit)                        │
+│    Apakah data berasal dari santri dengan usia & jenjang yang tepat?   │
+│                                                                        │
+│ 2. KESELARASAN KONTEKS EKOLOGIS (Contextual Fit)                       │
+│    Apakah iklim asrama, fasilitas, & rasio musyrif-santri sebanding?  │
+│                                                                        │
+│ 3. KESELARASAN RENTANG WAKTU (Temporal Fit)                            │
+│    Apakah pengamatan berlangsung cukup lama melintasi masa jenuh?      │
+│                                                                        │
+│ 4. KESELARASAN ALAT UKUR (Measurement Fit)                             │
+│    Apakah rubrik penilaian adab objektif dan bebas tafsir ganda?       │
+│                                                                        │
+│ 5. PENGENDALIAN SEBAB ALTERNATIF (Alternative Explanation Fit)         │
+│    Apakah ada faktor lain di luar metode yang memicu perubahan santri? │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+### Tabel Rincian dan Pertanyaan Uji Lima Sumbu:
+
+| Sumbu Pengujian | Pertanyaan Kritis Penjamin Mutu | Contoh Kegagalan Uji Lapangan |
 |---|---|---|
-| **1. Kesesuaian Populasi (*Population Fit*)** | *Apakah karakteristik santri yang diteliti sama dengan santri yang menjadi sasaran klaim?* | Mengklaim metode sukses untuk santri baru (J1) padahal data uji coba hanya diambil dari santri senior kelas 12 (J4). |
-| **2. Kesesuaian Konteks (*Contextual Fit*)** | *Apakah suasana ekologi saat data diambil mencerminkan kondisi kehidupan nyata 24 jam?* | Mengklaim santri telah mandiri secara permanen hanya berdasarkan ketertiban mereka saat diawasi ketat di masjid. |
-| **3. Kesesuaian Waktu (*Temporal Fit*)** | *Apakah rentang waktu pengamatan cukup panjang untuk membuktikan pembiasaan watak?* | Mengklaim santri telah menguasai Regulasi Diri seumur hidup hanya berdasarkan catatan mutaba'ah selama 7 hari. |
-| **4. Ketepatan Alat Ukur (*Measurement Rigor*)** | *Apakah instrumen pengamatan objektif dan bebas dari penilaian emosional pengamat?* | Mengandalkan kesan subjektif musyrif (*"anak ini kelihatannya alim"*) tanpa catatan deskriptif perilaku teramati. |
-| **5. Penjelasan Alternatif (*Alternative Causes*)** | *Apakah ada faktor lain di luar program yang menyebabkan perubahan perilaku santri?* | Mengklaim penurunan pelanggaran tidur malam karena kesadaran adab, padahal karena cuaca asrama sedang dingin membeku. |
+| **1. Populasi (*Population*)** | Apakah sampel santri yang diamati mewakili keragaman karakter santri asrama yang sesungguhnya? | Menguji metode hanya pada 10 santri paling pintar di kamar teladan, lalu mengklaim metode tersebut cocok untuk seluruh santri pondok. |
+| **2. Konteks (*Context*)** | Apakah kondisi lingkungan tempat uji coba sama dengan kondisi asrama pada umumnya? | Uji coba dilakukan di kamar ber-AC dengan rasio 1 musyrif mendampingi 5 santri, lalu metodenya dipaksakan ke asrama umum berkapasitas 30 santri per kamar. |
+| **3. Rentang Waktu (*Temporal*)** | Apakah pembiasaan telah diuji melintasi masa adaptasi, masa ujian, dan masa kepenatan santri? | Mengamati santri hanya selama 2 minggu pertama semester baru saat santri masih dalam fase "santun karena baru masuk". |
+| **4. Alat Ukur (*Measurement*)** | Apakah instrumen pengamatan mengukur perilaku nyata atau sekadar kesan perasaan subjektif musyrif? | Menilai tingkat keikhlasan santri semata-mata dari senyuman santri saat berpapasan dengan ustadz di lorong asrama. |
+| **5. Sebab Alternatif (*Alternative Causes*)** | Apakah perubahan perilaku benar-benar hasil metode baru, ataukah karena ada faktor eksternal lain? | Menyimpulkan metode zikir pagi menurunkan pelanggaran malam, padahal malam itu seluruh santri tidur lelap karena kelelahan kerja bakti sore hari. |
 
 ---
 
-## 4. Protokol Menghadapi Fakta yang Bertentangan (*Contradictory Evidence*)
+## 4. Protokol Data Bertentangan & Aturan Anti-Penyembunyian (*Zero Suppression Rule*)
 
-Di dunia nyata pesantren, kita pasti akan menemukan data yang bertentangan dengan harapan kurikulum: misalnya seorang santri yang hafalannya sangat lancar dan rajin shalat di shaf pertama ternyata kedapatan mengambil barang kawan sekamarnya tanpa izin (*ghashab*).
+TUMBUH v2.0.0 menegakkan doktrin moral yang sangat keras terkait integritas data:
 
-Dalam ekosistem TUMBUH diberlakukan aturan kejujuran ilmiah mutlak:
+> **Aturan Mutlak Anti-Penyembunyian Data (*The Zero Suppression Rule*):**  
+> **"DILARANG KERAS menghapus, mengaburkan, atau membuang data catatan santri yang gagal, melanggar adab, atau tidak mengalami kemajuan setelah intervensi. Setiap data yang bertentangan (*disconfirming data*) adalah amanah ilmu yang wajib dicatat secara jujur sebagai cermin evaluasi sistem."**
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             PROTOKOL PENANGANAN DATA YANG BERTENTANGAN                 │
-├────────────────────────────────────────────────────────────────────────┤
-│ 1. DILARANG KERAS MENYEMBUNYIKAN FAKTA (Zero Suppression Rule)         │
-│    Data anomali atau kegagalan santri dilarang dihapus dari logbook    │
-│    demi menjaga reputasi kamar asrama atau gengsi lembaga.             │
-│                                                                        │
-│ 2. CATAT SEBAGAI ANOMALI PEMBELAJARAN (Document as Disconfirming Data) │
-│    Catat peristiwa secara objektif: apa konteksnya, pemicunya,         │
-│    dan kapasitas mana yang sedang mengalami malfungsi.                 │
-│                                                                        │
-│ 3. TINJAU ULANG BATAS KLAIM (Recalibrate Claim Boundaries)             │
-│    Gunakan data tersebut untuk menyempurnakan program bimbingan dan    │
-│    mengakui bahwa metode yang ada masih memiliki celah perbaikan.      │
-│                                                                        │
-│ 4. RESTORASI EDUKATIF KEPADA SANTRI (Restorative Intervention)         │
-│    Fokuskan energi pada pemulihan adab santri, bukan menghukum         │
-│    atau menutup-nutupi kesalahan dari evaluasi dewan pengasuh.         │
-└────────────────────────────────────────────────────────────────────────┘
-```
+### Langkah Penanganan Data yang Bertentangan (*Disconfirming Evidence*):
+1. **Pencatatan Tanpa Stigma:**  
+   Catat kegagalan santri dengan bahasa deskriptif objektif di logbook, bukan dengan vonis mencela pribadi santri.
+2. **Audit Triad Relasi:**  
+   Telusuri apakah kegagalan santri disebabkan oleh faktor beban santri sendiri, keteladanan musyrif yang kurang, atau tata kelola lingkungan pesantren yang tidak kondusif.
+3. **Penyempitan Batas Keberlakuan Klaim:**  
+   Jika data membuktikan bahwa metode tertentu gagal pada 40% santri jenjang J1, maka batas klaim metode tersebut wajib diturunkan dan diperbaiki, bukan malah menyalahkan santri J1 sebagai anak yang bermasalah.
 
 ---
 
-## 5. Ringkasan Inti
-
-> **Kejujuran menakar bukti adalah mahkota integritas pesantren. Kita tidak mencari pembenaran atas teori buatan manusia, melainkan mencari kebenaran fakta demi mendampingi jiwa santri secara adil. Dengan membatasi kesimpulan persis di mana data berhenti berbicara, kita menjaga proses tarbiyah tetap suci dari noda kepalsuan dan manipulasi data.**
-
----
-
-## 6. Status Validasi
+## 5. Status Validasi
 
 **Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
-Dokumen ini mengikat secara metodologis bagi Tim Peneliti Asesmen, Asesor PBIS, dan Divisi Penjaminan Mutu TUMBUH v2.0.0.
+Standar bukti dan batas inferensi ini mengikat seluruh pengasuh asrama, tim litbang, dan auditor mutu TUMBUH v2.0.0.

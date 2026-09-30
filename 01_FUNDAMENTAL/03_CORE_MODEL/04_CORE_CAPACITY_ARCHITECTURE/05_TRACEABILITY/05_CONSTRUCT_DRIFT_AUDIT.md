@@ -1,4 +1,4 @@
-# Audit Pencegahan Pergeseran Makna Konsep (Construct Drift Audit)
+# 05 — Audit Pencegahan Pergeseran Makna Konsep (Construct Drift Audit)
 
 **Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Keterlacakan TUMBUH v2.0.0  
 **Kode Konstruk:** CDA-v2.0.0  
@@ -8,18 +8,18 @@
 
 ## 1. Hakikat Pergeseran Makna Konsep (*Construct Drift*)
 
-Pergeseran makna konsep (*construct drift*) jarang terjadi secara mendadak melalui pengumuman resmi; ia merayap perlahan-lahan dalam rutinitas keseharian asrama akibat kelelahan pengasuh, pergantian musyrif baru yang belum terlatih, atau tekanan pragmatisme lapangan:
+Pergeseran makna konsep (*construct drift*) jarang terjadi secara mendadak melalui pengumuman resmi; ia merayap perlahan-lahan dalam rutinitas keseharian asrama akibat kelelahan pengasuh, pergantian musyrif baru yang belum terlatih, atau desakan pragmatisme lapangan:
 
 - **Kasus Regulasi Diri (CC-01):**  
-  Pada buku pedoman, *Regulasi Diri* didefinisikan sebagai kemampuan batiniah mengarahkan dorongan nafsu demi ketaatan lillahi ta'ala (*muraqabah & mujahadah*). Namun setelah 6 bulan berjalan di asrama, musyrif yang lelah mulai menyederhanakannya: santri yang diam mematung, menunduk ketakutan, dan tidak pernah bersuara dianggap "regulasi dirinya sangat tinggi". Makna konsep telah bergeser dari **kesadaran otonom** menjadi **kepatuhan pasif berbasis rasa takut (*fear-based compliance*)**.
+  Pada buku pedoman, *Regulasi Diri* didefinisikan sebagai kemampuan batiniah mengarahkan dorongan nafsu demi ketaatan lillahi ta'ala (*muraqabah & mujahadah*). Namun setelah 6 bulan berjalan di asrama, musyrif yang lelah mulai menyederhanakannya: santri yang diam mematung, menunduk ketakutan, dan tidak bersuara dianggap "regulasi dirinya sangat tinggi". Makna konsep telah bergeser dari **kesadaran otonom** menjadi **kepatuhan pasif berbasis rasa takut (*fear-based compliance*)**.
 - **Kasus Nalar Kritis (CC-02):**  
-  Didefinisikan sebagai timbangan ilmiah tabayyun dan pemurnian bukti. Di lapangan bergeser menjadi kelihaian santri berdebat kusir (*jidal*), menyela nasihat ustadz, dan membenarkan pelanggaran dengan silat lidah.
+  Didefinisikan sebagai timbangan ilmiah tabayyun dan pemurnian bukti. Di lapangan bergeser menjadi kelihaian santri berdebat kusir (*jidal*), memotong nasihat ustadz, dan membenarkan pelanggaran dengan silat lidah.
 - **Kasus Kolaborasi (CC-04):**  
   Didefinisikan sebagai *ta'awun* saling memikul beban secara adil. Di lapangan bergeser menjadi pembiaran di mana satu santri rajin mengerjakan seluruh mading asrama sendirian sementara kawan-kawannya tidur.
 
 Pertanyaan mendasar yang dijawab dalam audit ini adalah:
 
-> **"Bagaimana dewan pengasuhan pesantren mendeteksi gejala pendangkalan makna ini sejak dini, mengaudit praktik lapangan secara berkala, dan mengembalikan pemahaman seluruh pendidik kepada kemurnian arsitektur awal?"**
+> **“Bagaimana dewan pengasuhan pesantren mendeteksi gejala pendangkalan makna ini sejak dini, mengaudit praktik lapangan secara berkala, dan mengembalikan pemahaman seluruh pendidik kepada kemurnian arsitektur awal?”**
 
 ---
 
@@ -81,11 +81,11 @@ Setiap akhir semester, Tim Penjaminan Mutu Pengasuhan Pesantren wajib melaksanak
 
 | Sumbu Audit | Aspek yang Diperiksa di Lapangan | Indikator Bebas Drift (Lolos Audit) | Tindakan Korektif Jika Terjadi Drift |
 |---|---|---|---|
-| **Sumbu 1: Integritas Konseptual Musyrif** | Wawancara acak kepada 5 musyrif tentang definisi 8 kapasitas inti. | Musyrif mampu menjelaskan sasaran kerja (*functional object*) dan triad dimensinya tanpa mereduksinya jadi sekadar kepatuhan fisik. | Wajib mengikuti *Workshop Refreshment Arsitektur TUMBUH* selama 3 hari sebelum semester baru dimulai. |
-| **Sumbu 2: Kualitas Logbook Lapangan** | Pemeriksaan 30 sampel entri logbook musyrif kamar secara acak. | Catatan logbook berupa deskripsi faktual perilaku teramati (*evidence-based*), bebas dari pelabelan subjektif emosional. | Bimbingan teknis penulisan narasi logbook objektif oleh konselor senior; format logbook ditinjau ulang. |
+| **Sumbu 1: Integritas Konseptual Musyrif** | Wawancara acak kepada 5 musyrif tentang esensi 8 kapasitas inti. | Musyrif mampu menjelaskan sasaran kerja (*functional object*) dan triad dimensinya tanpa mereduksinya menjadi kepatuhan fisik semata. | Wajib mengikuti *Workshop Refreshment Arsitektur TUMBUH* selama 3 hari sebelum semester baru dimulai. |
+| **Sumbu 2: Kualitas Logbook Lapangan** | Pemeriksaan 30 sampel entri logbook musyrif kamar secara acak. | Catatan logbook berupa deskripsi faktual perilaku teramati (*evidence-based*), bebas dari pelabelan subjektif yang menghakimi. | Bimbingan teknis penulisan narasi logbook objektif oleh konselor senior; format logbook ditinjau ulang. |
 | **Sumbu 3: Kepatuhan Restoratif Sanksi** | Audit buku penanganan kasus pelanggaran santri selama 6 bulan. | 100% kasus diselesaikan dengan restitusi logis dan konseling; 0% kasus kekerasan fisik atau perundungan verbal. | Musyrif yang terbukti melakukan kekerasan fisik dinonaktifkan sementara dan wajib menjalani sidang etik. |
 | **Sumbu 4: Uji Konsistensi Lintas-Ekologi** | Mutaba'ah santri saat liburan di rumah melalui kuesioner wali santri. | Perilaku shalat mandiri, kebersihan, dan tutur kata santri tetap konsisten saat tidak diawasi musyrif di pondok. | Jika santri rajin hanya di pondok namun liar di rumah, evaluasi sistem pengawasan pondok: kurangi kontrol eksternal, perkuat motivasi intrinsik. |
-| **Sumbu 5: Keterlacakan Dokumen Tata Tertib** | Memeriksa seluruh aturan asrama yang tertempel di dinding kamar. | Setiap aturan memiliki nomor kode keterlacakan (*trace code*) menuju Profil Kelulusan dan dalil syar'i. | Seluruh aturan liar yang tidak memiliki silsilah resmi dicopot dan dibatalkan secara tertulis. |
+| **Sumbu 5: Keterlacakan Dokumen Tata Tertib** | Memeriksa seluruh lembar aturan asrama yang tertempel di dinding kamar. | Setiap aturan memiliki nomor kode keterlacakan (*trace code*) menuju Profil Kelulusan dan dalil syar'i. | Seluruh aturan liar yang tidak memiliki silsilah resmi dicopot dan dibatalkan secara tertulis. |
 
 ---
 

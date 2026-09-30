@@ -1,29 +1,40 @@
 # Keterlacakan Penetapan Tingkat Dukungan dan Tata Kelola Kepengasuhan (Tier Traceability & Governance)
 
+**Kode Kanonikal Dokumen:** `INT-Tier-Trace-v2.0.0`  
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [01_FUNDAMENTAL/06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)
+
+---
+
+> ### Intisari untuk Pendidik & Musyrif
 > **"Keputusan yang menyangkut nasib pembinaan santri tidak boleh bergantung pada ingatan lisan atau prasangka sesaat."**  
 > Ketika seorang santri diputuskan masuk ke bimbingan terarah (Tier 2) atau bimbingan intensif (Tier 3), keputusan tersebut membawa dampak besar bagi rutinitas harian anak, beban tugas pembina, dan komunikasi dengan orang tua. Jika keputusan itu tidak memiliki arsip rekam jejak yang jelas, maka sangat mudah terjadi saling lempar tanggung jawab, sanksi yang berlarut-larut tanpa akhir, atau ketidakadilan yang tidak dapat dikoreksi.  
-> Dokumen ini menetapkan standar **Keterlacakan Penetapan Tingkat Dukungan (*Tier Traceability*)** dan **Tata Kelola Kepengasuhan (*Governance*)**: memastikan bahwa setiap penetapan, pemantauan, dan pemulihan status tier santri terdokumentasi dengan rapi, akuntabel, dan terlindung dalam kerahasiaan amanah yang suci.
+> 
+> Dokumen ini menetapkan standar **Keterlacakan Penetapan Tingkat Dukungan (*Tier Traceability*)** dan **Tata Kelola Kepengasuhan (*Governance*)**: memastikan bahwa setiap penetapan, pemantauan, dan pemulihan status tier santri terdokumentasi dengan rapi, akuntabel, dan terlindung dalam kerahasiaan amanah syariat.
 
 ---
 
 ## 1. Urgensi Keterlacakan dalam Sistem Multi-Tier
 
 Keterlacakan (*traceability*) adalah tulang punggung keadilan prosedural di pesantren. Tanpa keterlacakan:
-- Musyrif dapat dengan mudah bersikap zalim dengan menaikkan santri ke Tier 3 hanya karena rasa jengkel pribadi.
-- Santri dapat terjebak di tingkat intervensi intensif selamanya karena tidak ada yang mencatat kapan ia harus dievaluasi untuk keluar.
+- Musyrif dapat dengan mudah bersikap zhalim dengan menaikkan santri ke Tier 3 hanya karena rasa jengkel pribadi;
+- Santri dapat terjebak di tingkat intervensi intensif selamanya karena tidak ada yang mencatat kapan ia harus dievaluasi untuk keluar;
 - Pimpinan pondok kehilangan gambaran riil mengenai peta kebutuhan kesehatan mental dan iklim adab santri secara makro.
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   HUKUM TATA KELOLA MULTI-TIER                         │
+├────────────────────────────────────────────────────────────────────────┤
 │                                                                        │
-│       SETIAP PERUBAHAN TIER WAJIB MEMILIKI SANAD BUKTI                 │
+│   [1] SETIAP PERUBAHAN TIER WAJIB MEMILIKI SANAD BUKTI                 │
 │       Alasan masuk, rencana bantuan, dan evaluasi hasil                │
-│       harus tertulis dan dapat ditelusuri riwayatnya.                  │
+│       harus tertulis dan dapat ditelusuri riwayatnya (*audit trail*).  │
 │                                                                        │
-│       KEPUTUSAN KOLEKTIF, BUKAN OTORITAS TUNGGAL                       │
+│   [2] KEPUTUSAN KOLEKTIF, BUKAN OTORITAS TUNGGAL                       │
 │       Penetapan Tier 2 dan Tier 3 wajib melalui verifikasi musyawarah, │
 │       bukan emosi sepihak seorang pembina.                             │
+│                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -74,18 +85,24 @@ Berkas penetapan tingkat dukungan santri dinyatakan sah apabila memuat 6 data ku
 
 Sistem kepengasuhan menerapkan pemisahan pengelolaan dokumen untuk melindungi aib santri:
 
-- **Arsip Terbuka (Tier 1):** Buku logbook kerapian kamar dan absensi halaqah harian yang disimpan di meja musyrif kamar.
-- **Arsip Terbatas (Tier 2):** Buku rekam bimbingan kelompok dan catatan mentoring yang disimpan di kantor kepengasuhan asrama.
-- **Arsip Rahasia Tertutup (Tier 3):** Berkas konseling kasus berat, rekonsiliasi ishlah, dan data mediasi keluarga yang disimpan dalam lemari berkunci atau database digital terenkripsi yang hanya dapat diakses oleh Mudir dan Konselor BK.
+- **Arsip Terbuka (Tier 1):**  
+  Buku logbook kerapian kamar dan absensi halaqah harian yang disimpan di meja musyrif kamar;
+- **Arsip Terbatas (Tier 2):**  
+  Buku rekam bimbingan kelompok dan catatan mentoring yang disimpan di kantor kepengasuhan asrama;
+- **Arsip Rahasia Tertutup (Tier 3):**  
+  Berkas konseling kasus berat, rekonsiliasi ishlah, dan data mediasi keluarga yang disimpan dalam lemari berkunci atau database digital terenkripsi yang hanya dapat diakses oleh Mudir dan Konselor BK.
 
 ---
 
 ## 5. Pagar Batas Epistemik (Boundary Rules)
 
-1. **Bukan Surat Pidana Berkelakuan Buruk:** Berkas keterlacakan tier adalah dokumen rekam medis tarbiyah (*educational health record*), bukan Surat Catatan Kepolisian yang menghitamkan masa depan anak.
-2. **Kewajiban Pengarsipan Tertutup Pasca-Kelulusan:** Ketika santri telah menyelesaikan masa belajarnya di pondok atau telah pulih sepenuhnya, berkas catatan masa lalunya wajib diarsipkan tertutup dan tidak boleh dilampirkan dalam ijazah kelulusan formal santri.
-3. **Pemberian Hak Akses Membaca bagi Santri dan Wali:** Santri dan wali santri berhak meminta penjelasan resmi mengenai dasar pertimbangan mengapa santri ditempatkan di tingkat dukungan tertentu.
+1. **Bukan Rekam Pidana Berkelakuan Buruk:** Berkas keterlacakan tier adalah dokumen rekam medis tarbiyah (*educational health record*), bukan lembar catatan kriminal yang menghitamkan masa depan anak;
+2. **Kewajiban Pengarsipan Tertutup Pasca-Kelulusan:** Ketika santri telah menyelesaikan masa belajarnya di pondok atau telah pulih sepenuhnya, berkas catatan masa lalunya wajib diarsipkan tertutup dan tidak boleh dilampirkan dalam ijazah kelulusan formal santri;
+3. **Pemberian Hak Akses Transparan bagi Santri dan Wali:** Santri dan wali santri berhak meminta penjelasan resmi mengenai dasar pertimbangan mengapa santri ditempatkan di tingkat dukungan tertentu.
 
 ---
 
-> **Keputusan Prinsip:** Keterlacakan penetapan tingkat dukungan dan tata kelola kepengasuhan (*Tier Traceability & Governance*) adalah jaminan mutu akuntabilitas pesantren. Dengan tata kelola yang rapi, transparan, dan beradab, pondok pesantren mengokohkan dirinya sebagai lembaga pendidikan Islam yang profesional, amanah, dan berkeadilan bagi seluruh santri asuhannya.
+## 6. Kalimat Penutup
+
+> **Keterlacakan penetapan tingkat dukungan dan tata kelola kepengasuhan adalah jaminan mutu akuntabilitas pesantren.**  
+> Dengan tata kelola yang rapi, transparan, dan beradab, pondok pesantren mengokohkan dirinya sebagai lembaga pendidikan Islam yang profesional, amanah, dan berkeadilan bagi seluruh santri asuhannya.

@@ -245,3 +245,4 @@ Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan;
 [^1]: Al-Qur'an al-Karim, Surah Al-Insyiqaq [84]: 19.
 [^2]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-Maqashid fi 'Ilm al-Kalam* (Beirut: 'Alam al-Kutub, 1998), Jilid IV, hlm. 285–292; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145 mengenai definisi keadilan dan adab.
 [^3]: Dokumen Kanonikal Arsitektur TUMBUH v2.0.0, *Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)*, berkas induk: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md`.
+[^4]: Lev S. Vygotsky, *Mind in Society: The Development of Higher Psychological Processes*, diedit oleh Michael Cole dkk. (Cambridge: Harvard University Press, 1978), hlm. 79–91 mengenai konsep *Zone of Proximal Development (ZPD)* dan *scaffolding*.

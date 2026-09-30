@@ -1,8 +1,17 @@
 # Audit Arsitektur Pengambilan Keputusan Intervensi (Intervention Decision Audit)
 
-> **"Mengaudit arsitektur keputusan adalah ikhtiar untuk menjamin bahwa tidak ada santri yang menjadi korban vonis zalim."**  
+**Kode Kanonikal Dokumen:** `INT-Dec-Audit-v2.0.0`  
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [01_FUNDAMENTAL/06_INTERVENTION/03 Decision Architecture/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/03%20Decision%20Architecture/README.md)
+
+---
+
+> ### Intisari untuk Pendidik & Musyrif
+> **"Mengaudit arsitektur keputusan adalah ikhtiar untuk menjamin bahwa tidak ada santri yang menjadi korban vonis zhalim."**  
 > Keputusan tarbiyah menyangkut kehormatan, ketenangan jiwa, dan masa depan anak asuh. Bila mekanisme pengambilan keputusan di pondok cacat—misalnya hanya mengandalkan amarah sepihak musyrif malam tanpa tabayyun—maka lembaga pendidikan akan berubah menjadi lingkungan yang dipenuhi ketakutan dan dendam terselubung.  
-> Dokumen ini menyajikan **Audit Arsitektur Pengambilan Keputusan Intervensi TUMBUH v2.0.0**: memeriksa secara menyeluruh kepatuhan 18 tolok ukur etis dan metodologis keputusan, mengunci prinsip reversibilitas (keberanian mencabut sanksi keliru), serta memetakan modus-modus kegagalan pengambilan keputusan yang wajib dicegah di pesantren.
+> 
+> Dokumen ini menyajikan **Audit Arsitektur Pengambilan Keputusan Intervensi TUMBUH v2.0.0**: memeriksa secara menyeluruh kepatuhan **18 tolok ukur etis dan metodologis keputusan**, mengunci prinsip reversibilitas (keberanian mencabut sanksi keliru), serta memetakan modus-modus kegagalan pengambilan keputusan yang wajib dicegah di pesantren.
 
 ---
 
@@ -36,16 +45,16 @@ Tinjauan arsitektural menyimpulkan bahwa mekanisme pengambilan keputusan interve
 ## 2. Keputusan Arsitektural Penutupan Tahap
 
 Berdasarkan hasil audit menyeluruh, dewan kepengasuhan dan penjamin mutu menetapkan:
-1. Menolak segala bentuk mesin otomatisasi sanksi atau keputusan sepihak tanpa tabayyun.
-2. Menegaskan bahwa setiap santri berhak mendapatkan proses tarbiyah yang adil, manusiawi, dan bermartabat.
-3. Mengunci prinsip bahwa keberanian mengakui kesalahan dan mencabut sanksi yang keliru adalah mahkota akhlak asatidz.
-4. **Keputusan Resmi:** Arsitektur Pengambilan Keputusan Intervensi (*Intervention Decision Architecture*) dinyatakan **CUKUP, KOKOH, dan DITUTUP (*CLOSED*)** untuk tahap arsitektural saat ini.
+1. Menolak segala bentuk mesin otomatisasi sanksi atau keputusan sepihak tanpa tabayyun;
+2. Menegaskan bahwa setiap santri berhak mendapatkan proses tarbiyah yang adil, manusiawi, dan bermartabat;
+3. Mengunci prinsip bahwa keberanian mengakui kesalahan dan mencabut sanksi yang keliru adalah mahkota akhlak asatidz;
+4. **Keputusan Resmi:** Arsitektur Pengambilan Keputusan Intervensi (*Intervention Decision Architecture*) dinyatakan **CUKUP, KOKOH, dan DITUTUP (*CLOSED*)** untuk tahap perancangan fundamental v2.0.0.
 
 ---
 
 ## 3. Delapan Pertanyaan Terbuka untuk Riset Lapangan Pesantren
 
-Tim riset mencatat 8 pertanyaan operasional untuk evaluasi berkelanjutan di lingkungan pondok:
+Tim riset mencatat 8 agenda riset operasional untuk evaluasi berkelanjutan di lingkungan pondok:
 
 1. **Konsistensi Penilaian Tabayyun:** Bagaimana melatih musyrif muda agar mampu membedakan keterangan jujur santri dengan kebohongan pertahanan diri tanpa menggunakan intimidasi?
 2. **Kecukupan Durasi Trial:** Berapa lama durasi uji coba bimbingan yang paling ideal (14 hari atau 30 hari) sebelum asatidz memutuskan mengubah metode pendampingan?
@@ -58,27 +67,35 @@ Tim riset mencatat 8 pertanyaan operasional untuk evaluasi berkelanjutan di ling
 
 ---
 
-## 4. Modus Kegagalan Pengambilan Keputusan (Failure Modes)
+## 4. Dua Belas Modus Kegagalan Pengambilan Keputusan (*Failure Modes*)
 
 Pimpinan pesantren dan tim penjamin mutu wajib mengawasi 12 modus kegagalan keputusan:
 
-- **Vonis Terburu-buru (*Knee-Jerk Reaction*):** Menjatuhkan sanksi dalam hitungan menit saat asatidz sedang emosi tanpa tabayyun.
-- **Jalan Pintas Nilai Angka (*Single-Score Decision Rule*):** Memutuskan skorsing santri semata-mata karena jumlah pelanggaran di aplikasi mencapai angka tertentu.
-- **Kesombongan Institusional (*Irreversible Pride*):** Menolak membatalkan hukuman meskipun terbukti santri tidak bersalah demi "menjaga wibawa guru".
-- **Pengabaian Konteks Asrama (*Context Neglect*):** Menghukum santri yang berkelahi tanpa menyelidiki perundungan sistemik yang memicunya.
-- **Sidang Pidana Semu (*Courtroom Trap*):** Mengubah ruang pengasuhan menjadi meja hijau intimidatif yang membuat santri trauma.
-- **Lempar Tanggung Jawab (*Delegation Vacuum*):** Musyrif enggan mengambil keputusan bimbingan ringan dan selalu melempar masalah ke pimpinan pondok.
-- **Bocornya Kerahasiaan Keputusan (*Confidentiality Breach*):** Hasil sidang keputusan disiplin santri tersebar ke grup wali santri lain.
+1. **Vonis Terburu-buru (*Knee-Jerk Reaction*):** Menjatuhkan sanksi dalam hitungan menit saat asatidz sedang emosi tanpa tabayyun;
+2. **Jalan Pintas Nilai Angka (*Single-Score Decision Rule*):** Memutuskan skorsing santri semata-mata karena jumlah pelanggaran di aplikasi mencapai angka tertentu;
+3. **Kesombongan Institusional (*Irreversible Pride*):** Menolak membatalkan hukuman meskipun terbukti santri tidak bersalah demi "menjaga wibawa guru";
+4. **Pengabaian Konteks Asrama (*Context Neglect*):** Menghukum santri yang berkelahi tanpa menyelidiki perundungan sistemik yang memicunya;
+5. **Sidang Pidana Semu (*Courtroom Trap*):** Mengubah ruang pengasuhan menjadi meja hijau intimidatif yang membuat santri trauma;
+6. **Lempar Tanggung Jawab (*Delegation Vacuum*):** Musyrif enggan mengambil keputusan bimbingan ringan dan selalu melempar masalah ke pimpinan pondok;
+7. **Bocornya Kerahasiaan Keputusan (*Confidentiality Breach*):** Hasil sidang keputusan disiplin santri tersebar ke grup wali santri lain;
+8. **Konflik Kepentingan Pembina (*Vested Interest*):** Musyrif yang sedang marah bertindak sebagai hakim tunggal atas santri yang dibencinya;
+9. **Sanksi Kolektif Kamar (*Collective Blame*):** Menghukum satu kamar atas kekhilafan satu santri yang menyembunyikan makanan;
+10. **Triage Otomatis Tanpa Hati (*Automated Penalty*):** Menyerahkan nasib bimbingan santri kepada algoritma komputer;
+11. **Keputusan Tanpa Tanggal Evaluasi (*Endless Decision*):** Menjatuhkan sanksi tanpa kepastian kapan santri akan dievaluasi untuk bebas;
+12. **Menutup Pintu Rehabilitasi (*Stigma Closure*):** Memperlakukan santri yang pernah salah seolah-olah ia tidak bisa berubah selamanya.
 
 ---
 
 ## 5. Syarat Pembukaan Kembali Arsitektur (Reopening Conditions)
 
 Dokumen arsitektur ini hanya boleh dibuka kembali apabila ditemukan:
-1. Terjadi kontradiksi dengan prinsip dasar keadilan syari'at atau kebijakan perlindungan santri.
-2. Ditemukan bahwa prosedur keputusan terlalu birokratis sehingga menghambat penanganan krisis darurat.
+1. Terjadi kontradiksi dengan prinsip dasar keadilan syari'at atau kebijakan perlindungan santri;
+2. Ditemukan bahwa prosedur keputusan terlalu birokratis sehingga menghambat penanganan krisis darurat;
 3. Riset empiris membuktikan bahwa salah satu tahapan keputusan menimbulkan dampak psikologis negatif bagi santri.
 
 ---
 
-> **Keputusan Audit:** Audit Arsitektur Pengambilan Keputusan Intervensi (*Intervention Decision Audit*) adalah perisai pelindung keadilan tarbiyah. Dengan mengawal setiap keputusan di atas rel pembuktian yang adil dan beradab, pesantren menjaga kemurnian amanah pendidikan dan menjauhkan diri dari dosa kezaliman terhadap anak asuh.
+## 6. Kalimat Penutup
+
+> **Audit Arsitektur Pengambilan Keputusan Intervensi adalah perisai pelindung keadilan tarbiyah.**  
+> Dengan mengawal setiap keputusan di atas rel pembuktian yang adil dan beradab, pesantren menjaga kemurnian amanah pendidikan dan menjauhkan diri dari dosa kezaliman terhadap anak asuh.

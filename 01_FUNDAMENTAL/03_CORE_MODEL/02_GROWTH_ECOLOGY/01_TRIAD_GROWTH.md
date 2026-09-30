@@ -7,126 +7,133 @@
 
 ## 1. Apa itu Ekosistem Tiga Pilar (Triad Growth)?
 
-**Ekosistem Tiga Pilar (*Triad Growth*) adalah cara pandang TUMBUH bahwa pertumbuhan seorang santri tidak pernah terjadi sendirian di ruang hampa. Pertumbuhan selalu lahir dari interaksi timbal-balik antara tiga aktor utama:**
+**Ekosistem Tiga Pilar (*Triad Growth*) adalah cara pandang mendasar TUMBUH bahwa pembentukan karakter dan adab seorang santri tidak pernah berlangsung sendirian di ruang hampa.** Pertumbuhan adab selalu lahir dari interaksi timbal-balik yang terus berdenyut antara tiga pilar utama:
 
-1. **Santri** — manusia yang sedang bertumbuh, belajar, dan berproses.
-2. **Guru dan Musyrif** — pendidik yang mendampingi, mengasuh, memberi teladan (*qudwah*), dan berdialog setiap hari.
-3. **Sistem Asrama / Lembaga** — ekosistem yang mengatur jadwal 24 jam, aturan, fasilitas, budaya, dan rasa aman tempat bertumbuh.
+1. **Santri** — individu yang sedang berproses, belajar mengarahkan fitrah, dan melatih kemauan memilih (*agency*).
+2. **Guru dan Musyrif** — pendidik dan pengasuh yang mendampingi keseharian, memberi keteladanan hidup (*qudwah*), dan menyiramkan kasih sayang asuhan.
+3. **Sistem Asrama / Lembaga** — tatanan lingkungan 24 jam yang mencakup jadwal harian, tata tertib, sarana fisik, budaya asrama, serta rasa aman bersama.
 
-Ketiganya tidak boleh dilihat terpisah laksana pulau-pulau yang terisolasi:
+Ketiga unsur ini saling bertaut dan tidak boleh dipisahkan seperti pulau-pulau yang terasing:
 
 ```text
-                  SISTEM ASRAMA / LEMBAGA
-                 (Jadwal, Aturan, Budaya, Fasilitas)
-                             ↕       ↕
-                            ↕         ↕
-             GURU & MUSYRIF ◄─────────► SANTRI
-            (Keteladanan, Kasih)      (Pilihan Sadar, Ikhtiar)
+                   SISTEM ASRAMA / LEMBAGA
+              (Jadwal, Aturan, Budaya, Fasilitas)
+                         ▲           ▲
+                         │           │
+                         ▼           ▼
+             GURU & MUSYRIF ◄─────► SANTRI
+          (Keteladanan & Asuhan)   (Pilihan Sadar & Ikhtiar)
 ```
 
-Panah dua arah menunjukkan bahwa ketiganya saling memengaruhi secara timbal balik:
-- Cara santri merespons memengaruhi cara musyrif mengasuh;
-- Cara musyrif mendampingi memengaruhi iklim kamar asrama;
-- Kebijakan lembaga menentukan apakah musyrif memiliki waktu cukup untuk berdialog dari hati ke hati dengan santri.
+Panah dua arah menegaskan prinsip **saling memengaruhi secara timbal balik (*reciprocal interaction*)**:
+- Sikap dan respons santri memengaruhi cara musyrif mengasuh;
+- Ketenangan dan keteladanan musyrif menentukan sejuknya suasana kamar asrama;
+- Kebijakan dan ritme lembaga menentukan apakah musyrif memiliki waktu cukup untuk berdialog dari hati ke hati dengan santri, atau justru kelelahan akibat beban birokrasi.
 
 ---
 
 ## 2. Mengapa Tiga Aktor Ini Harus Dilihat Bersama?
 
-Jika kita hanya memusatkan pandangan pada santri sendirian, kita akan mudah terjebak pada cara pandang sempit yang menghakimi:
+Ketika pembinaan hanya berfokus pada santri seorang diri, kita akan sangat mudah tergelincir ke dalam budaya penghakiman sepihak:
 
-> *“Kalau ada santri yang sering melanggar atau terlambat, berarti santrinya yang nakal atau bermasalah.”*
+> *“Kalau ada santri yang melanggar, terlambat, atau tidak beradab, berarti santrinya yang malas, bermasalah, atau bebal.”*
 
-Ekosistem Tiga Pilar mencegah sikap menyalahkan sepihak (*anti-blaming*) dengan mengajak para pendidik memeriksa seluruh mata rantai:
+Ekosistem Tiga Pilar membongkar cara pandang sempit tersebut dengan prinsip **anti-blaming (menolak saling melempar kesalahan)**. Ketika terjadi kendala perilaku, para pendidik diajak memeriksa seluruh rantai ekosistem secara jujur dan adil:
 
 ```text
 CONTOH NYATA DI ASRAMA:
-Beberapa santri di Kamar 3 sering terlambat bangun shalat Subuh.
+Santri di Kamar 3 sering terlambat bangun shalat Subuh berjamaah.
 
-Pendekatan Tradisional yang Menghakimi:
-Musyrif langsung mencatat poin pelanggaran dan menghukum santri push-up di halaman. 
-Hasilnya: santri bangun karena takut, namun memendam rasa benci dan dendam.
+Pendekatan Tradisional (Menghakimi santri saja):
+Musyrif langsung marah di depan pintu kamar, mencatat poin pelanggaran, dan 
+menghukum santri push-up atau lari keliling lapangan.
+Hasilnya: Santri bangun esok hari semata-mata karena takut, sementara di dalam dada 
+tumbuh benih antipati, kepura-puraan, dan rasa dendam.
 
 Pendekatan Ekosistem Tiga Pilar (TUMBUH):
-Musyrif dan pengelola pondok duduk bersama memeriksa tiga pilar:
-1. Sisi Lembaga: Apakah penerangan di kamar memadai? Apakah jadwal tidur malam 
-   terlalu larut karena tugas sekolah menumpuk hingga jam 23.00?
-2. Sisi Musyrif: Bagaimana cara musyrif membangunkan santri? Apakah dengan bentakan 
-   yang memicu stres, atau dengan ketukan hangat dan doa?
-3. Sisi Santri: Apakah santri tidur bergadang mengobrol sembunyi-sembunyi, atau 
-   mengalami masalah kesehatan fisik?
+Musyrif dan pengelola pondok duduk bersama menelusuri akar masalah pada ketiga pilar:
+1. Pilar Lembaga: Apakah jadwal belajar malam selesai terlalu larut (pukul 23.00)? 
+   Apakah penerangan lorong padam sehingga kamar gelap gulita? 
+2. Pilar Musyrif: Bagaimana metode musyrif membangunkan santri? Apakah dengan 
+   gertakan yang memicu ketegangan saraf, atau dengan sentuhan ramah, adzan, dan doa?
+3. Pilar Santri: Apakah santri bergadang mengobrol sembunyi-sembunyi, memiliki kendala 
+   kesehatan fisik, atau mengalami kelelahan belajar yang menumpuk?
 
-Ketika ditemukan bahwa jam belajar malam dari lembaga selesai terlalu larut, lembaga 
-menyesuaikan jadwal tidur menjadi pukul 21.30. Musyrif mendampingi dengan teladan 
-bangun lebih awal, dan santri berkomitmen menepati jam tidur. Masalah selesai di 
-akar penyebabnya tanpa kekerasan fisik.
+Solusi Ekologis Nyata:
+Setelah dievaluasi, lembaga memajukan batas akhir kegiatan malam menjadi pukul 21.30 
+agar santri memperoleh hak tidur minimal 6,5 jam. Musyrif memberi teladan bangun 
+lebih awal, membangunkan kamar dengan lembut, dan santri bersepakat menjaga kesenyapan 
+kamar setelah lampu dimatikan. 
+Masalah keterlambatan teratasi di akar penyebabnya secara bermartabat tanpa kekerasan.
 ```
 
-Dengan demikian, pertumbuhan dipahami sebagai **proses yang berlangsung di dalam relasi nyata**, bukan semata-mata beban moral yang dipikul sendiri oleh santri.
+Melalui pendekatan ini, proses tumbuh dipahami sebagai **ikhtiar bersama di dalam jalinan relasi nyata**, bukan beban moral yang dipikul sendirian oleh santri di pundaknya.
 
 ---
 
 ## 3. Peran Sejati Setiap Aktor
 
 ### 3.1 Santri Bukan Objek Pasif
-Santri bukanlah tanah liat mati yang dibentuk semaunya oleh pembuat gerabah, dan bukan bejana kosong yang tinggal dituangi air. Santri adalah manusia berjiwa yang memiliki akal, fitrah, kehendak (*agency*), dan rasa harga diri.
+Santri bukanlah tanah liat mati yang dibentuk seenaknya oleh cetakan luar, dan bukan bejana kosong yang pasrah dituangi air. Santri adalah hamba Allah yang memiliki akal, fitrah bawaan yang mulia, daya nalar, dan kehendak memilih (*agency*).
 
-TUMBUH menolak model pendidikan satu arah yang otoriter:
+TUMBUH secara tegas menolak pola pembinaan satu arah yang otoriter:
 
 ```text
-MODEL OTORITER (Ditolak) : Lembaga → Musyrif → Santri (Santri pasif ditindas)
+POLA OTORITER (Ditolak) : Lembaga → Musyrif → Santri 
+                          (Santri diposisikan pasif, sekadar pelaksana instruksi)
 
-MODEL TUMBUH (Relasional) : Lembaga ↕ Musyrif ↕ Santri (Saling mendengar & menghargai)
+POLA TUMBUH (Relasional) : Lembaga ↕ Musyrif ↕ Santri 
+                          (Kemitraan tarbiyah, saling mendengar dan menghargai)
 ```
 
-Santri berhak didengar keluh kesahnya, diajak bermusyawarah menata aturan kamar, dan diberi ruang untuk berinisiatif. Kedewasaan adab tidak akan pernah tumbuh pada anak yang selalu diposisikan sebagai robot penerima perintah.
+Santri memiliki hak fitrah untuk didengarkan isi hatinya, diajak bermusyawarah dalam menyepakati ketertiban kamar, serta diberi ruang untuk berlatih mengambil keputusan. Kematangan adab tidak akan pernah mekar pada anak yang diperlakukan seperti robot mekanik.
 
-### 3.2 Guru dan Musyrif: Pengasuh yang Hadir (*In Loco Parentis*)
-Guru dan musyrif bukan sekadar mandor proyek atau polisi penegak sanksi. Kedudukan mereka adalah pengganti orang tua di asrama (*in loco parentis*):
-- memberi keteladanan nyata sebelum menuntut ketaatan (*qudwah qabla da'wah*);
-- menjadi tempat bersandar yang aman ketika santri mengalami kegelisahan jiwa (*secure base*);
-- memberikan koreksi dengan kelembutan dan hikmah (*mau'izhah hasanah*); serta
-- merayakan kemajuan kecil santri dengan apresiasi yang tulus.
+### 3.2 Guru dan Musyrif: Pengasuh yang Mengayomi (*In Loco Parentis*)
+Guru dan musyrif bukan sekadar petugas pengawas keamanan atau mandor penegak sanksi. Mereka memegang amanah sebagai pengganti orang tua selama santri tinggal di asrama (*in loco parentis*):
+- **Mendahulukan Teladan (*Qudwah Qabla Da'wah*):** Mempraktikkan sendiri adab yang diajarkan sebelum menuntut ketaatan dari santri;
+- **Jangkar Ketenangan Jiwa (*Secure Base*):** Menjadi sosok yang aman untuk didatangi ketika santri mengalami kegundahan batin, rindu keluarga, atau kesulitan pelajaran;
+- **Koreksi Penuh Hikmah (*Mau'izhah Hasanah*):** Memperbaiki kekeliruan dengan ketegasan yang dilandasi kasih sayang (*firm and kind*), bukan dengan hardikan yang melukai martabat;
+- **Apresiasi yang Tulus:** Memperhatikan dan merayakan setiap langkah kemajuan adab santri, sekecil apa pun langkah itu.
 
-### 3.3 Lembaga Bukan Sekadar Deretan Gedung
-Lembaga pesantren adalah ekosistem hidup yang mencakup:
-- keadilan tata tertib (aturan yang jelas, adil, dan tidak tebang pilih);
-- manajemen waktu yang manusiawi (tidak membebani santri di luar batas daya tahan tubuh);
-- penyediaan sarana hidup yang bersih dan sehat (air mengalir jernih, makanan bergizi, ventilasi kamar memadai); serta
-- budaya pesantren yang bebas dari feodalisme senioritas dan perundungan.
+### 3.3 Lembaga Bukan Sekadar Deretan Bangunan
+Lembaga pesantren adalah ekosistem hidup yang menjadi payung pelindung bagi seluruh penghuninya:
+- **Keadilan Tata Tertib:** Aturan disusun secara transparan, rasional, bebas pasal multitafsir, dan berlaku adil bagi semua santri tanpa tebang pilih;
+- **Penghormatan Ritme Biologis:** Jadwal kegiatan 24 jam dirancang proporsional, menjamin kecukupan waktu istirahat tidur, makan, mandi, serta jeda bernapas santri;
+- **Kualitas Lingkungan dan Sanitasi:** Menjamin air bersih mengalir lancar, ventilasi udara kamar terjaga sehat, dan makanan bergizi halal-thayyib;
+- **Iklim Budaya yang Memuliakan:** Menghapus feodalisme senioritas, praktik perpeloncoan, dan tradisi kekerasan antargenerasi.
 
 ---
 
 ## 4. Triad adalah Inti Operasional, Bukan Seluruh Dunia Santri
 
-TUMBUH menegaskan bahwa Tiga Pilar ini adalah **inti operasional asrama**, namun bukan keseluruhan dunia kehidupan santri.
+TUMBUH menegaskan bahwa Tiga Pilar ini merupakan **inti operasional asrama sehari-hari**, namun bukan satu-satunya ruang kehidupan santri.
 
-Di luar tembok asrama, santri tetap terhubung dengan ekosistem luar yang sangat memengaruhi jiwanya:
-- **Keluarga**: pola asuh orang tua di rumah, harapan keluarga, dan kondisi ekonomi;
-- **Teman Sebaya (*Peer Group*)**: pertemanan di sekolah dan kamar asrama;
-- **Dunia Digital**: konten media sosial, gawai, dan informasi yang dikonsumsi saat liburan;
-- **Masyarakat Luas**: norma budaya masyarakat tempat santri kelak mengabdi.
+Di luar dinding asrama, santri senantiasa terhubung dengan konteks eksternal yang sangat memengaruhi alam pikir dan perasaannya:
+- **Keluarga di Rumah:** Pola asuh orang tua, ikatan emosional, harapan keluarga, serta dinamika rumah tangga;
+- **Kelompok Teman Sebaya (*Peer Group*):** Rasa penerimaan kawan seangkatan dan tren pergaulan remaja;
+- **Dunia Digital dan Media:** Informasi, hiburan, dan narasi yang diserap santri melalui gawai saat masa liburan;
+- **Masyarakat Luas:** Nilai budaya dan adat istiadat tempat santri berinteraksi dan mengabdi kelak.
 
-Ketika ada masalah santri yang berakar dari luar asrama (misalnya trauma perlakuan orang tua di rumah), sistem TUMBUH memperluas tinjauannya melalui komponen **Connected Contexts**.
+Ketika timbul persoalan santri yang berakar dari pengalaman di luar asrama (seperti trauma kekerasan di masa kecil atau krisis keluarga), sistem TUMBUH memperluas cakrawala pembinaan melalui dokumen pendamping: **Konteks yang Terhubung (*Connected Contexts*)**.
 
 ---
 
 ## 5. Batas Pengaman Model: Bukan Teori Kausal Mekanistik
 
-Model Ekosistem Tiga Pilar dirancang sebagai **kacamata untuk memetakan kenyataan secara jernih**, bukan rumus matematika sebab-akibat yang kaku.
+Model Ekosistem Tiga Pilar dirancang sebagai **lensa pemandu untuk memetakan kenyataan secara jernih dan adil**, bukan rumus matematika sebab-akibat yang kaku.
 
-Model ini tidak mengklaim bahwa:
-- jika fasilitas asrama mewah, santri otomatis pasti menjadi saleh;
-- jika musyrifnya baik, santri dijamin 100% tidak pernah berbuat salah;
-- setiap kesalahan yang diperbuat santri selalu merupakan kesalahan mutlak lembaga.
+Model ini tidak mengklaim hal-hal keliru berikut:
+- Bahwa fasilitas pondok yang serba lengkap otomatis menjadikan santri berakhlak mulia;
+- Bahwa jika musyrifnya alim dan sabar, santri dijamin 100% tidak akan pernah berbuat keliru;
+- Bahwa setiap pelanggaran santri serta-merta merupakan kelalaian mutlak pengelola pondok.
 
-Manusia tetap memiliki kehendak bebas (*ikhtiyar*). Tugas pendidik dan lembaga adalah **membangun iklim pengasuhan yang paling kondusif (*bi'ah shalihah*)**, sembari mendoakan dan mendampingi santri dengan penuh kesabaran tarbiyah.
+Manusia tetap memiliki fitrah akal dan daya kehendak bebas (*ikhtiyar*). Tanggung jawab utama para pendidik dan lembaga adalah **membangun tanah tumbuh yang paling subur dan menyejukkan (*bi'ah shalihah*)**, sembari mengasuh, mendoakan, dan melatih kemandirian santri dengan kesabaran tarbiyah yang panjang.
 
 ---
 
 ## 6. Ringkasan Prinsip Triad Growth
 
-> **Ekosistem Tiga Pilar adalah pilar keadilan asrama: memastikan bahwa pembinaan santri tidak dibangun di atas budaya saling menyalahkan, melainkan sinergi saling menopang antara ikhtiar sadar santri, keteladanan penuh kasih dari musyrif, dan sistem kelembagaan pondok yang adil serta manusiawi.**
+> **Ekosistem Tiga Pilar adalah fondasi keadilan asrama: memastikan pembinaan adab tidak berdiri di atas budaya saling menyalahkan, melainkan bertumpu pada sinergi harmonis antara pilihan sadar santri, keteladanan penuh kasih musyrif, dan tatanan kelembagaan pondok yang adil serta manusiawi.**
 
 ---
 
@@ -136,6 +143,6 @@ Manusia tetap memiliki kehendak bebas (*ikhtiyar*). Tugas pendidik dan lembaga a
 **FINAL CONCEPTUAL SPECIFICATION TUMBUH v2.0.0.**  
 Model konseptual kanonikal untuk memetakan ekosistem pendidikan pesantren.
 
-### Boundary
-- Dokumen ini mendefinisikan **relasi ekologis tiga pilar**.
-- Tidak berisi bagan struktur organisasi pengurus yayasan, slip gaji musyrif, atau anggaran belanja sarana fisik (hal tersebut berada di domain *03_OPERATIONAL*).
+### Batas Dokumen (*Boundary*)
+- Dokumen ini mendefinisikan **relasi ekologis tiga pilar utama**.
+- Tidak berisi bagan hierarki struktural yayasan, ketentuan penggajian musyrif, atau spesifikasi teknis anggaran sarana fisik (hal-hal tersebut diatur pada lapisan operasional di *03_OPERATIONAL*).

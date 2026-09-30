@@ -1,4 +1,4 @@
-# Pengendalian Perubahan Registri Konstruk (Construct Change Control)
+# 04 — Pengendalian Perubahan Registri Konstruk (Construct Change Control)
 
 **Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Konstruk TUMBUH v2.0.0  
 **Kode Konstruk:** CCC-v2.0.0  
@@ -8,15 +8,15 @@
 
 ## 1. Doktrin Stabilitas Konstruk (*The Construct Stability Rule*)
 
-Mengubah definisi atau nama konsep karakter di tengah berjalannya sistem pendidikan adalah tindakan berisiko tinggi. Jika sebuah istilah seperti *"Regulasi Diri"* diubah definisinya di pertengahan semester, maka:
+Mengubah definisi atau nama konsep karakter di tengah berjalannya sistem pendidikan adalah tindakan yang berisiko tinggi. Jika sebuah istilah seperti *"Regulasi Diri"* diubah definisinya di pertengahan semester, maka:
 - Puluhan modul pembinaan musyrif kamar asrama harus ditarik dan dicetak ulang;
 - Seluruh rubrik penilaian digital dalam sistem informasi santri harus diprogram ulang;
 - Rekaman data observasi santri selama berbulan-bulan sebelumnya kehilangan validitas komparatifnya (*broken longitudinal data*);
-- Para musyrif di lapangan akan mengalami kebingungan (*cognitive fatigue*) dan sinisme terhadap manajemen yang gemar latah mengganti istilah.
+- Para musyrif di lapangan akan mengalami kelelahan mental (*cognitive fatigue*) dan sikap sinis terhadap manajemen yang gemar latah mengganti istilah.
 
 Oleh karena itu, TUMBUH v2.0.0 menegakkan **Doktrin Stabilitas Konstruk (*The Construct Stability Rule*)**:
 
-> **"Sebuah konsep karakter yang telah terdaftar secara kanonikal TIDAK BOLEH diubah, ditambah, atau dikurangi definisinya kecuali melalui bukti empiris lapangan yang luar biasa kuat, kajian epistemologi syar'i yang mendalam, dan disahkan melalui musyawarah pleno resmi Dewan Pengasuhan Pesantren."**
+> **“Sebuah konsep karakter yang telah terdaftar secara kanonikal TIDAK BOLEH diubah, ditambah, atau dikurangi definisinya kecuali melalui bukti empiris lapangan yang luar biasa kuat, kajian epistemologi syar'i yang mendalam, dan disahkan melalui musyawarah pleno resmi Dewan Pengasuhan Pesantren.”**
 
 ---
 
@@ -51,28 +51,28 @@ Setiap usulan perubahan diklasifikasikan ke dalam dua kategori dengan prosedur y
 Usulan perubahan material wajib melewati lima tahapan berurutan tanpa jalan pintas:
 
 ```text
-       LANGKAH 1: PENGAJUAN RESMI LEMBAR BERITA ACARA (Change Request)
-  (Pemohon mengisi Formulir Lembar Berita Acara Perubahan secara tertulis)
-                           │
-                           ▼
-       LANGKAH 2: UJI BUKTI EMPIRIS & KAJIAN SYAR'I (Evidence Audit)
-  (Tim audit memeriksa apakah usulan didukung data catatan logbook minimal
-   6 bulan dan tidak bertentangan dengan kaidah fiqih turats)
-                           │
-                           ▼
-       LANGKAH 3: SIDANG PLENO DEWAN PENGASUHAN (Deliberation Council)
-  (Musyawarah pleno melibatkan Direktur Pengasuhan, Pakar Kurikulum Adab,
-   dan Perwakilan Musyrif Senior untuk menguji urgensi perubahan)
-                           │
-                           ▼
-       LANGKAH 4: UJI DAMPAK INSTRUMEN LAPANGAN (Field Impact Analysis)
-  (Menilai kesiapan sistem: biaya cetak modul baru, migrasi database santri,
-   dan waktu pelatihan ulang bagi seluruh musyrif kamar)
-                           │
-                           ▼
-       LANGKAH 5: RATIFIKASI RESMI & SOSIALISASI (Canonical Ratification)
-  (Penerbitan surat keputusan resmi pimpinan, pembaruan versi repository,
-   dan sosialisasi bertahap sebelum diberlakukan di tahun ajaran baru)
+        LANGKAH 1: PENGAJUAN RESMI LEMBAR BERITA ACARA (Change Request)
+   (Pemohon mengisi Formulir Lembar Berita Acara Perubahan secara tertulis)
+                            │
+                            ▼
+        LANGKAH 2: UJI BUKTI EMPIRIS & KAJIAN SYAR'I (Evidence Audit)
+   (Tim audit memeriksa apakah usulan didukung data catatan logbook minimal
+    6 bulan dan tidak bertentangan dengan kaidah fiqih turats)
+                            │
+                            ▼
+        LANGKAH 3: SIDANG PLENO DEWAN PENGASUHAN (Deliberation Council)
+   (Musyawarah pleno melibatkan Direktur Pengasuhan, Pakar Kurikulum Adab,
+    dan Perwakilan Musyrif Senior untuk menguji urgensi perubahan)
+                            │
+                            ▼
+        LANGKAH 4: UJI DAMPAK INSTRUMEN LAPANGAN (Field Impact Analysis)
+   (Menilai kesiapan sistem: biaya cetak modul baru, migrasi database santri,
+    dan waktu pelatihan ulang bagi seluruh musyrif kamar)
+                            │
+                            ▼
+        LANGKAH 5: RATIFIKASI RESMI & SOSIALISASI (Canonical Ratification)
+   (Penerbitan surat keputusan resmi pimpinan, pembaruan versi repository,
+    dan sosialisasi bertahap sebelum diberlakukan di tahun ajaran baru)
 ```
 
 ---

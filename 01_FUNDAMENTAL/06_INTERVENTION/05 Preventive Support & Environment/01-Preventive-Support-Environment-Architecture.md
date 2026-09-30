@@ -1,233 +1,220 @@
-# Preventive Support & Environment Architecture
+# Arsitektur Dukungan Preventif dan Rekayasa Lingkungan Pesantren (Preventive Support & Environment Architecture)
 
-**Epistemic status:** conceptually specified; empirically provisional.
+> **ID Kanonikal Dokumen:** `INT-PREV-ARCH-v2.0.0`  
+> **Status Lapisan:** `01_FUNDAMENTAL / 06_INTERVENTION / 05 Preventive Support & Environment`  
+> **Status Epistemik:** *Conceptually Specified; Empirically Provisional*  
+> **Rujukan Silang Dokumen:** [README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20%26%20Environment/README.md) | [02-Preventive-Support-Environment-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20%26%20Environment/02-Preventive-Support-Environment-Audit.md) | [03-Preventive-Environment-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20%26%20Environment/03-Preventive-Environment-Design.md)
 
-## 1. Purpose
+---
 
-Preventive Support & Environment menjelaskan bagaimana TUMBUH merancang kondisi yang membantu perkembangan dan mengurangi kemungkinan masalah sebelum masalah membesar.
+> [!NOTE]
+> ### Intisari untuk Pendidik & Musyrif
+> **"Tarbiyah preventif bukanlah menciptakan lingkungan tanpa cela yang steril dari kesalahan, melainkan merancang ekosistem yang memudahkan manusia berbuat baik dan menyulitkan hawa nafsu bermaksiat."**  
+> Di banyak pondok pesantren, asatidz sering kali merasa lelah karena harus terus-menerus bertindak sebagai "polisi penindak pelanggaran" yang sibuk memburu kesalahan santri. Padahal, jika kita telaah dengan ilmu, fitrah manusia sangat dipengaruhi oleh suasana tempat ia hidup (*al-insan ibnu bi'atihi*).  
+> Santri yang tidur di kamar asrama yang gelap, panas, bising, dan penuh barang berserakan akan bangun pagi dalam kondisi lelah mental, mudah marah, dan malas melangkah ke masjid. Menghukum santri tersebut dengan push-up atau lari lapangan tidak akan pernah menyelesaikan akar masalah. Yang sesungguhnya dibutuhkan adalah **rekayasa lingkungan preventif**: membuka ventilasi udara, menata jam tenang, memperbaiki antrean sanitasi, dan menghadirkan keteladanan musyrif yang hangat.  
+> Dokumen ini memaparkan **Arsitektur Dukungan Preventif dan Rekayasa Lingkungan TUMBUH v2.0.0**: bagaimana merancang kondisi asrama yang memicu pertumbuhan adab, memperjelas ekspektasi perilaku, mengajarkan keterampilan sebelum menghukum, dan menjaga perlindungan hak santri tanpa spionase yang merusak rasa saling percaya.
 
-Fokusnya bukan membuat semua orang patuh pada satu bentuk lingkungan, tetapi membangun kondisi yang lebih memungkinkan manusia belajar, berlatih, berelasi, mengatur diri, dan berkembang secara aman.
+---
 
-Preventive support dapat diarahkan pada:
-- lingkungan fisik;
-- rutinitas dan struktur waktu;
-- ekspektasi yang jelas;
-- pengajaran perilaku dan keterampilan yang relevan;
-- kualitas relasi;
-- dukungan universal;
-- aksesibilitas dan penyesuaian konteks;
-- kondisi kelompok dan institusi.
+## 1. Hakikat dan Posisi Arsitektural dalam Ekosistem TUMBUH v2.0.0
 
-## 2. Posisi dalam Arsitektur Intervensi
+Dukungan Preventif dan Rekayasa Lingkungan (*Preventive Support & Environment*) adalah komponen arsitektural yang menjelaskan bagaimana sistem TUMBUH **merancang kondisi ekologis yang memfasilitasi perkembangan fitrah santri dan meminimalkan probabilitas terjadinya krisis adab sebelum membesar**.
 
-Alur konseptualnya:
-
-```text
-Worldview / Normative Direction
-        ↓
-Graduate Profile
-        ↓
-Core Model
-        ↓
-Evidence / Need Analysis
-        ↓
-Preventive Target
-        ↓
-Environment / Routine / Relational / Universal Support Design
-        ↓
-Implementation
-        ↓
-Response Evidence
-        ↓
-Review & Adjustment
-```
-
-Preventive Support & Environment berada pada **lapisan intervensi**. Ia tidak menggantikan assessment, progression, atau decision architecture.
-
-## 3. Prinsip Dasar
-
-### 3.1 Prevention bukan Prediksi
-
-Pencegahan berarti mengurangi kondisi yang diketahui atau secara masuk akal dapat meningkatkan hambatan, risiko, atau kebutuhan dukungan. Pencegahan tidak berarti sistem dapat memprediksi siapa yang pasti akan mengalami masalah.
-
-### 3.2 Lingkungan adalah Bagian dari Konteks Pertumbuhan
-
-Masalah perkembangan tidak boleh otomatis dibebankan kepada individu. Lingkungan, relasi, rutinitas, tuntutan, akses, dan dukungan dapat menjadi bagian dari analisis.
-
-### 3.3 Universal bukan Berarti Seragam
-
-Dukungan universal dapat diberikan kepada semua anggota komunitas, tetapi tetap perlu mempertimbangkan variasi kebutuhan, aksesibilitas, tahap pengalaman, dan konteks.
-
-### 3.4 Mengajarkan Lebih Dahulu daripada Menghukum
-
-Ketika perilaku atau keterampilan yang diharapkan belum dikuasai, desain pencegahan perlu mempertimbangkan kejelasan ekspektasi, pengajaran, kesempatan praktik, feedback, dan dukungan sebelum langsung menggunakan respons korektif.
-
-### 3.5 Prevention Harus Proporsional
-
-Intervensi preventif tidak boleh menjadi alasan untuk mengumpulkan data berlebihan, mengawasi semua perilaku secara terus-menerus, atau membatasi kebebasan tanpa kebutuhan yang jelas.
-
-## 4. Area Desain Preventif
-
-### 4.1 Environment Design
-
-Meliputi pengaturan ruang, akses, keamanan, alat, kondisi belajar/kerja, dan karakter lingkungan yang relevan terhadap tujuan.
-
-### 4.2 Routine & Structure
-
-Meliputi rutinitas, transisi, jadwal, struktur kegiatan, dan kejelasan alur yang membantu orang memahami apa yang diharapkan.
-
-### 4.3 Clear Expectations
-
-Ekspektasi perlu cukup jelas, dapat dipahami, konsisten diterapkan, dan sesuai dengan konteks serta kapasitas orang yang menjalankannya.
-
-### 4.4 Teaching & Practice
-
-Perilaku yang diharapkan tidak hanya diumumkan. Jika diperlukan, ia perlu diajarkan, dimodelkan, dipraktikkan, diberi feedback, dan ditinjau kembali.
-
-### 4.5 Relational Climate
-
-Kualitas relasi, rasa aman, penghormatan, komunikasi, dan cara orang dewasa merespons kesalahan merupakan bagian dari lingkungan preventif.
-
-### 4.6 Universal Support
-
-Dukungan dasar dapat dirancang agar tersedia tanpa menunggu seseorang terlebih dahulu dianggap bermasalah.
-
-## 5. Preventive Target
-
-Target pencegahan dapat berada pada beberapa level:
-
-- **Individual:** kondisi atau keterampilan yang relevan bagi individu tertentu;
-- **Relational:** pola interaksi antara orang-orang;
-- **Environmental:** ruang, rutinitas, aturan, akses, atau tuntutan;
-- **Group:** pola dan kondisi kelompok;
-- **Institutional:** kebijakan, struktur, budaya, koordinasi, atau praktik lembaga.
-
-Satu masalah dapat memiliki lebih dari satu target. Karena itu, preventive support tidak otomatis berarti intervensi terhadap individu.
-
-## 6. Hubungan dengan Tiered Support
-
-Preventive support terutama beririsan dengan dukungan **universal/preventif**, tetapi desain lingkungan juga dapat menjadi bagian dari targeted atau intensive support ketika kebutuhan menunjukkan bahwa perubahan lingkungan diperlukan.
-
-Dengan demikian:
+Fokus utama arsitektur ini bukanlah memaksakan kepatuhan mekanis yang seragam kepada seluruh santri, melainkan **membangun kondisi yang memungkinkan santri belajar, berlatih, berinteraksi sosial, mengatur diri (*self-regulation*), dan bertumbuh dalam suasana aman dan berkeadaban**.
 
 ```text
-Preventive Support & Environment ≠ Tier 1 secara mutlak
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 POSISI ARSITEKTURAL DUKUNGAN PREVENTIF                      │
+│                                                                             │
+│   Pandangan Hidup Islam (Worldview Tauhid)                                  │
+│         ↓                                                                   │
+│   Profil Lulusan Santri Beradab (Graduate Profile & 10 Muwashofat)          │
+│         ↓                                                                   │
+│   Model Inti Perkembangan Fitrah (Core Model & CC-01 s/d CC-08)             │
+│         ↓                                                                   │
+│   Analisis Bukti Kebutuhan Asrama (Evidence & Need Analysis)                │
+│         ↓                                                                   │
+│   Penetapan Sasaran Target Preventif (Preventive Target Level 1–5)          │
+│         ↓                                                                   │
+│   [DESAIN DUKUNGAN PREVENTIF: LINGKUNGAN / RUTINITAS / RELASI / UNIVERSAL]  │
+│         ↓                                                                   │
+│   Pelaksanaan Pendampingan di Lapangan Asrama (Implementation)              │
+│         ↓                                                                   │
+│   Pemantauan Bukti Respons Teramati (Response Evidence 14–30 Hari)          │
+│         ↓                                                                   │
+│   Evaluasi & Penyesuaian Desain Preventif (Review & Adaptation)             │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Tier menunjukkan intensitas dan bentuk dukungan berdasarkan kebutuhan serta respons; sedangkan preventive support menjelaskan orientasi desain untuk mencegah atau mengurangi kebutuhan yang lebih berat.
+> **Garis Batas Arsitektural:**  
+> Komponen ini berada pada **lapisan intervensi (Intervention Layer)**. Kehadirannya tidak menggantikan fungsi asesmen (*Assessment*), model progresi kemandirian (*Progression*), maupun arsitektur pengambilan keputusan (*Decision Architecture*).
 
-## 7. Hubungan dengan Decision Architecture
+---
 
-Preventive support tetap mengikuti keputusan yang berbasis kebutuhan dan konteks.
+## 2. Lima Prinsip Dasar Pencegahan Tarbiyah
+
+Arsitektur preventif TUMBUH dibangun di atas 5 prinsip dasar yang kokoh:
 
 ```text
-Evidence / Need
-      ↓
-Tabayyun
-      ↓
-Context & Need Analysis
-      ↓
-Risk / Safeguarding Check
-      ↓
-Preventive Option Selection
-      ↓
-Trial / Implementation
-      ↓
-Monitoring
-      ↓
-Review
+                             ┌────────────────────────┐
+                             │   5 PRINSIP DASAR      │
+                             │  PENCEGAHAN PREVENTIF  │
+                             └───────────┬────────────┘
+         ┌───────────────────────────────┼───────────────────────────────┐
+         ▼                               ▼                               ▼
+┌──────────────────┐           ┌──────────────────┐            ┌──────────────────┐
+│  1. PENCEGAHAN   │           │ 2. LINGKUNGAN    │            │ 3. UNIVERSAL     │
+│     ≠ PREDIKSI   │           │    SEBAGAI MITRA │            │    ≠ SERAGAM     │
+│ Bukan meramal    │           │ Masalah adab     │            │ Memperhatikan    │
+│ nasib santri     │           │ bukan beban anak │            │ kebutuhan khas   │
+└──────────────────┘           └──────────────────┘            └──────────────────┘
+                                         │
+                    ┌────────────────────┴────────────────────┐
+                    ▼                                         ▼
+         ┌──────────────────┐                       ┌──────────────────┐
+         │ 4. MENGAJARKAN   │                       │ 5. PROPORSIONAL  │
+         │    SEBELUM SANKSI│                       │    ANTI-SPIONASE │
+         │ Modeling & latih │                       │ Hadir hangat,    │
+         │ sebelum menuntut │                       │ tolak CCTV kamar │
+         └──────────────────┘                       └──────────────────┘
 ```
 
-Tidak setiap ketidaksesuaian memerlukan intervensi. Jika perubahan lingkungan atau pengajaran sudah memadai, dukungan dapat dipertahankan tanpa menaikkan intensitas.
+### 2.1 Pencegahan Bukan Prediksi Mutlak (*Prevention ≠ Prediction*)
+Pencegahan bermakna mengurangi pemicu masalah yang diketahui dapat meningkatkan risiko pelanggaran adab. Pencegahan tidak berarti sistem mengklaim mampu meramal secara deterministik siapa santri yang pasti akan gagal atau berbuat onar di pondok.
 
-## 8. Hubungan dengan Growth Mechanism
+### 2.2 Lingkungan adalah Bagian dari Konteks Pertumbuhan
+Masalah kedisiplinan dan adab santri tidak boleh otomatis diposisikan sebagai kegagalan moral individu santri. Tata ruang fisik, pencahayaan kamar, kebisingan asrama, kejelasan jadwal, antrean fasilitas sanitasi, dan beban kurikulum pondok wajib diaudit sebagai bagian yang tak terpisahkan dari analisis masalah.
 
-Preventive support menyediakan kondisi yang dapat memperkuat kesempatan untuk:
+### 2.3 Universal Bukan Berarti Seragam Kaku (*Universal ≠ Uniform*)
+Dukungan preventif universal diberikan kepada seluruh santri di pondok. Namun, penerapannya tetap wajib mempertimbangkan variasi tahapan usia (santri MTs vs MA), daya tahan fisik, latar belakang budaya daerah, dan aksesibilitas santri yang memiliki kebutuhan khusus.
+
+### 2.4 Mengajarkan Lebih Dahulu daripada Menghukum (*Teach Before Sanction*)
+Ketika suatu perilaku adab belum dikuasai oleh santri, desain pencegahan menuntut asatidz untuk memperjelas ekspektasi, mencontohkan gerakan (*modeling*), memberikan kesempatan berlatih bersama, dan mendampingi dengan umpan balik sabar sebelum menerapkan respons konsekuensi.
+
+### 2.5 Pencegahan Wajib Proporsional (*Anti-Surveillance Rule*)
+Desain preventif tidak boleh dijadikan alasan oleh pengurus pondok untuk melakukan pengawasan berlebihan (*over-surveillance*), membatasi kemerdekaan fitrah anak tanpa alasan syar'i, atau memasang kamera pengawas di ruang tidur dan area privat santri.
+
+---
+
+## 3. Enam Area Desain Preventif (The 6 Preventive Design Areas)
+
+TUMBUH mengidentifikasi 6 area rekayasa preventif yang wajib dikelola secara terpadu di lingkungan pesantren:
+
+| No | Area Desain Preventif | Fokus Sasaran Lapangan | Contoh Konkret di Pesantren |
+| :-: | :--- | :--- | :--- |
+| **1** | **Rekayasa Lingkungan Fisik (*Environment Design*)** | Tata ruang, pencahayaan, ventilasi udara, keterbukaan garis pandang (*sightlines*), dan eliminasi area gelap. | Kamar tidur berventilasi silang, lampu lorong terang benderang, penataan lemari yang tidak menghalangi pintu, rasio kran wudhu memadai. |
+| **2** | **Rutinitas & Struktur Waktu (*Routine & Structure*)** | Kejelasan alur kegiatan harian, penataan transisi antar-sesi, dan perlindungan jam istirahat. | Jadwal jam tenang tidur malam pukul 22.00, alokasi waktu 45 menit transisi shalat maghrib, batas akhir mencuci pakaian pukul 17.00. |
+| **3** | **Kejelasan Ekspektasi Adab (*Clear Expectations*)** | Standar perilaku yang didefinisikan secara positif, dapat dipahami anak, dan konsisten diterapkan. | Poster adab kamar: *"Bicara dengan suara santun setelah pukul 21.30"* daripada kalimat negatif *"Dilarang ribut dan teriak-teriak!"*. |
+| **4** | **Pengajaran & Latihan Perilaku (*Teaching & Practice*)** | Keterampilan adab diajarkan langkah demi langkah, dipraktikkan, dan dievaluasi secara berkala. | Pekan Masa Ta'aruf Santri Baru: simulasi merapikan ranjang asrama, praktik wudhu sempurna, latihan tata krama bertutur kata kepada guru. |
+| **5** | **Iklim Relasional yang Aman (*Relational Climate*)** | Kualitas hubungan pendidik-santri yang hangat, saling menghormati, dan bebas dari intimidasi. | Musyrif menyapa santri dengan senyum di pintu kamar, mendengarkan curahan hati anak *homesick*, dan melerai perselisihan tanpa emosi. |
+| **6** | **Dukungan Universal Tanpa Syarat (*Universal Support*)** | Fasilitas bimbingan dasar yang dapat diakses oleh seluruh santri tanpa harus menunggu bermasalah. | Ketersediaan klinik konsultasi BK terbuka, kotak saran kamar yang ramah, dan sesi motivasi berkala oleh para kiai sepuh. |
+
+---
+
+## 4. Lima Tingkat Sasaran Target Preventif (Preventive Target Levels)
+
+Intervensi preventif dapat diarahkan pada 5 tingkatan target yang berbeda:
 
 ```text
-Experience → Engagement → Practice → Feedback ↔ Reflection → Adaptation → Capacity Change
+1. TARGET INDIVIDUAL    ──► Melatih keterampilan regulasi diri dan manajemen emosi santri.
+2. TARGET RELASIONAL    ──► Menata pola komunikasi dan ikatan ukhuwah antarteman sekamar.
+3. TARGET LINGKUNGAN    ──► Merombak tata letak kamar, pencahayaan, sirkulasi, dan sarana sanitasi.
+4. TARGET KELOMPOK      ──► Membangun norma positif kamar asrama dan budaya gotong royong (*ro'an*).
+5. TARGET INSTITUSIONAL ──► Meninjau ulang beban jam pelajaran pondok dan rasio musyrif asrama.
 ```
 
-Namun, menyediakan lingkungan atau dukungan **tidak membuktikan** bahwa capacity change pasti terjadi. Respons tetap perlu diamati dan ditinjau melalui evidence.
+> **Kaidah Analisis:**  
+> Satu masalah adab sering kali memiliki pemicu di lebih dari satu tingkatan target. Oleh karena itu, langkah pencegahan tidak boleh otomatis direduksi menjadi penanganan individu semata.
 
-## 9. Evidence dan Monitoring
+---
 
-Evidence preventif dapat mencakup perubahan pada:
-- akses terhadap pengalaman belajar/praktik;
-- kejelasan dan keterlaksanaan rutinitas;
-- partisipasi dan engagement;
-- kualitas relasi atau interaksi;
-- kebutuhan dukungan;
-- kejadian masalah atau risiko yang relevan;
-- functioning yang terkait dengan construct target.
+## 5. Hubungan dengan Tingkat Dukungan Multi-Tier (Tiered Support)
 
-Perubahan pada kejadian masalah tidak otomatis membuktikan perubahan kapasitas. Demikian pula, tidak adanya masalah yang terlihat tidak selalu berarti kapasitas telah berkembang.
-
-## 10. Safeguarding dan Proporsionalitas
-
-Desain preventif harus mempertimbangkan:
-- keselamatan fisik dan psikologis;
-- risiko kekerasan, eksploitasi, atau pelecehan;
-- relasi kuasa;
-- privasi;
-- aksesibilitas;
-- martabat;
-- kompetensi pelaksana;
-- kebutuhan koordinasi atau rujukan.
-
-Jika terdapat risiko safeguarding yang mendesak, prosedur perlindungan yang berlaku dapat mengharuskan tindakan segera. Pencegahan bukan alasan untuk menunda perlindungan.
-
-## 11. Data dan Teknologi
-
-Preventive support tidak membutuhkan surveillance sebagai default.
-
-Jika data digital atau AI digunakan, prinsip dasarnya:
-- tujuan pengumpulan harus jelas;
-- data diminimalkan;
-- akses dibatasi sesuai kebutuhan;
-- output AI diperlakukan sebagai informasi/sinyal yang perlu ditinjau;
-- sistem tidak boleh secara otomatis memberi label masalah atau menentukan tindakan korektif tanpa human review dan governance yang sesuai.
-
-## 12. Fairness dan Dignity
-
-Preventive design perlu diperiksa agar aturan dan dukungan tidak secara sistematis membebani kelompok tertentu, menghukum perbedaan yang sebenarnya merupakan kebutuhan akses, atau mengubah dukungan menjadi stigma.
-
-Dukungan yang diberikan kepada seseorang bukan label tentang nilai atau kualitas dirinya.
-
-## 13. Batasan Klaim
-
-Arsitektur ini **tidak** dengan sendirinya membuktikan bahwa:
-- intervensi preventif tertentu efektif;
-- perubahan lingkungan menyebabkan outcome tertentu;
-- satu desain lingkungan berlaku universal;
-- semua masalah dapat dicegah;
-- semua perilaku yang tidak sesuai berasal dari individu;
-- dukungan universal selalu cukup;
-- monitoring preventif harus berlangsung terus-menerus;
-- AI dapat menentukan risiko atau kebutuhan intervensi secara mandiri.
-
-Hubungan program/intervensi dengan efektivitas empiris harus dibuktikan melalui evidence yang sesuai.
-
-## 14. Traceability
-
-Setiap desain preventif idealnya dapat ditelusuri:
+Dukungan preventif terutama beririsan erat dengan **Tier 1 (Dukungan Universal)**, namun desain lingkungan preventif juga menjadi bagian esensial pada Tier 2 dan Tier 3:
 
 ```text
-Normative Direction
-→ Construct / Need
-→ Evidence
-→ Preventive Target
-→ Design Choice
-→ Rationale
-→ Implementation
-→ Response Evidence
-→ Review / Adjustment
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                   HUKUM PREVENTIF DALAM TIERED SUPPORT                      │
+│                                                                             │
+│       PREVENTIVE SUPPORT & ENVIRONMENT ≠ TIER 1 SECARA MUTLAK               │
+│                                                                             │
+│   • Di Tier 1 : Menjadi atmosfer budaya dasar bagi 100% santri asrama.       │
+│   • Di Tier 2 : Menata ulang posisi tidur atau menugaskan mentor sekamar     │
+│                 bagi kelompok santri yang rentan mengalami perselisihan.    │
+│   • Di Tier 3 : Menciptakan ruang de-eskalasi tenang dan rencana lingkungan │
+│                 khusus bagi santri yang mengalami krisis emosional berat.   │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Traceability menjaga agar desain lingkungan tidak berubah menjadi kebiasaan yang sulit dipertanyakan atau aturan yang tidak lagi jelas tujuannya.
+---
 
-## 15. Ringkasan
+## 6. Hubungan dengan Arsitektur Pengambilan Keputusan (Decision Architecture)
 
-Preventive Support & Environment menempatkan pencegahan sebagai pekerjaan desain: memperbaiki kondisi, memperjelas ekspektasi, mengajarkan keterampilan yang dibutuhkan, membangun relasi yang sehat, dan menyediakan dukungan universal yang proporsional.
+Pelaksanaan dukungan preventif tetap tunduk pada alur pengambilan keputusan yang berbasis data bukti (*evidence-based*) dan tabayyun:
 
-Tujuannya bukan menciptakan lingkungan tanpa kesalahan. Tujuannya adalah membuat lingkungan yang lebih memungkinkan pertumbuhan, mengurangi hambatan yang dapat dicegah, dan menyediakan respons yang lebih dini ketika kebutuhan mulai terlihat.
+```text
+Indikasi Sinyal Dini (Early Signal / Observation)
+                     ↓
+Tabayyun & Klarifikasi Hati ke Hati (Empat Mata)
+                     ↓
+Analisis Konteks & Tuntutan Lingkungan (Context Analysis)
+                     ↓
+Pemeriksaan Risiko & Perlindungan Santri (Safeguarding Check)
+                     ↓
+Pemilihan Solusi Desain Preventif (Preventive Option Selection)
+                     ↓
+Uji Coba Lapangan 14–30 Hari (Trial Delivery)
+                     ↓
+Pemantauan Bukti Respons Santri (Monitoring & Evidence)
+                     ↓
+Sidang Peninjauan & Penyesuaian (Review & Adjustment)
+```
+
+---
+
+## 7. Hubungan dengan Mekanisme Pertumbuhan Jiwa (Growth Mechanism)
+
+Dukungan preventif menyediakan ekosistem yang memperkuat siklus pertumbuhan fitrah:
+
+```text
+Pengalaman Positif (Experience) ──► Keterlibatan Hati (Engagement) ──► Latihan Konsisten (Practice)
+                                                                               │
+                                                                               ▼
+Perubahan Kapasitas Fitrah ◄── Adaptasi Batin ◄── Perenungan Diri ◄── Umpan Balik Kasih Sayang
+      (Capacity Change)          (Adaptation)       (Reflection)              (Feedback)
+```
+
+> **Peringatan Epistemik:**  
+> Menyediakan lingkungan asrama yang ideal **tidak membuktikan secara otomatis** bahwa kapasitas jiwa santri telah berubah. Perubahan sejati tetap wajib diamati melalui bukti respons perilaku nyata di lapangan.
+
+---
+
+## 8. Perlindungan Hak Santri (Safeguarding) dan Pagar Etika
+
+1. **Keselamatan Fisik & Jiwa:** Desain lingkungan wajib menjamin keamanan dari risiko kecelakaan fisik, pelecehan, intimidasi kawan sebaya, dan rasa takut tertekan.
+2. **Kerahasiaan Privasi Santri:** Kamar asrama adalah ruang pribadi anak untuk beristirahat. Pengawasan musyrif dilakukan dengan patroli fisik santun (*warm walk-through*), bukan dengan memasang kamera pengintai digital (CCTV).
+3. **Keadilan dan Ketiadaan Stigma:** Penataan lingkungan preventif tidak boleh membebani kelompok santri tertentu atau melahirkan cap negatif bagi kamar asrama tertentu.
+4. **Prinsip Tanggap Darurat:** Jika ditemukan indikasi bahaya keselamatan mendesak (misal: perundungan fisik atau ancaman cedera), musyrif wajib segera mengambil tindakan perlindungan darurat tanpa menunda-nunda atas dalih "menunggu evaluasi preventif".
+
+---
+
+## 9. Batasan Penggunaan Data Digital dan Kecerdasan Buatan (AI)
+
+Jika pondok pesantren menggunakan sistem informasi digital atau algoritma asisten AI:
+- **Tujuan Terbatas (*Purpose Limitation*):** Data hanya dikumpulkan untuk membantu pemantauan kesehatan ekosistem asrama, bukan untuk membuat profil kecurigaan massal.
+- **Minimasi Data (*Data Minimization*):** Kumpulkan data yang benar-benar relevan dengan kenyamanan asrama; dilarang mencatat percakapan privat santri.
+- **AI Bukan Penentu Vonis (*No Automated Adjudication*):** Sistem digital hanya berfungsi memberi sinyal pengingat dini (*decision support*); keputusan tindakan pembinaan mutlak berada di tangan pertimbangan asatidz manusia.
+
+---
+
+## 10. Batasan Klaim Epistemik (Boundary Rules)
+
+Dokumen arsitektur ini **tidak dengan sendirinya membuktikan** bahwa:
+1. Satu desain lingkungan preventif pasti cocok dan berhasil diterapkan di seluruh jenis pondok pesantren di nusantara.
+2. Seluruh bentuk kenakalan atau pelanggaran santri pasti dapat dicegah seratus persen oleh perbaikan tata ruang fisik.
+3. Tidak adanya pelanggaran teramati di asrama otomatis membuktikan bahwa seluruh santri telah matang adabnya secara batiniah.
+4. Efektivitas intervensi preventif dapat diklaim tanpa adanya data bukti respons lapangan yang konsisten selama minimal 14–30 hari kalender.
+
+---
+
+> **Keputusan Arsitektur:** Arsitektur Dukungan Preventif dan Rekayasa Lingkungan (*Preventive Support & Environment Architecture*) adalah landasan kokoh bagi terbangunnya *Bi'ah Shalihah* di pesantren TUMBUH v2.0.0. Dengan menata ruang fisik yang terang, menghadirkan rutinitas yang menentramkan, dan merajut relasi pembina yang penuh kasih sayang, pesantren menjaga kesucian fitrah santri agar mekar menjadi generasi berakhlak mulia.

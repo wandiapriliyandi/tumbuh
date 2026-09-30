@@ -1,123 +1,142 @@
-# Struktur Registri Klaim (Claim Structure)
+# Format Baku Struktur Klaim (Claim Structure Specification)
 
-**Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Epistemik TUMBUH v2.0.0  
-**Kode Konstruk:** CST-v2.0.0  
-**Fungsi Dokumen:** Format baku skema metadata 12 parameter wajib untuk mencatat, menguji, dan membatasi setiap pernyataan proposisional ilmiah di dalam sistem TUMBUH  
-
----
-
-## 1. Hakikat Skema Baku Entri Klaim
-
-Sebuah pernyataan ilmiah di lingkungan pendidikan hanya bermakna jika dapat diuji (*testable*), memiliki batas lingkup yang jelas (*bounded*), dan menyatakan secara jujur apa yang didukung bukti serta apa yang belum terbukti (*epistemically humble*). Pernyataan yang kabur seperti *"Metode kami sangat hebat"* tidak memiliki nilai arsitektural dan rentan menjadi alat manipulasi.
-
-Untuk memastikan bahwa setiap pernyataan kebijakan, kurikulum, dan pengasuhan santri di pesantren TUMBUH dapat dipertanggungjawabkan secara ilmiah dan syar'i, diberlakukan **Skema Baku Entri Metadata Dua Belas Parameter Wajib (*The 12 Canonical Claim Elements*)**.
+**Status Dokumen:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Registri Klaim TUMBUH v2.0.0  
+**Kode Konstruk:** CSS-Claim-v2.0.0  
+**Fungsi Dokumen:** Standar anatomi baku dua belas parameter metadata klaim dan kaidah pemecahan klaim borongan (*non-bundling rule*) untuk menjamin ketepatan uji ilmiah serta keterlacakan bukti lapangan.
 
 ---
 
-## 2. Dua Belas Parameter Metadata Wajib Entri Klaim
+## 1. Urgensi Format Baku bagi Ekosistem Pesantren
 
-Setiap klaim yang didaftarkan ke dalam Registri Klaim Resmi wajib memuat dua belas data pengenal secara lengkap:
+Dalam tata kelola keilmuan pesantren yang sehat, sebuah pernyataan atau teori pembinaan tidak boleh dirumuskan secara kabur, mengambang, atau menggunakan slogan yang multitafsir. Ketika sebuah modul pembiasaan adab mengklaim: *"Metode ini terbukti membina kedisiplinan santri,"* timbul serangkaian pertanyaan kritis:
+- Disiplin dalam hal apa? Apakah salat berjamaah tepat waktu, merapikan lemari kamar, atau ketenangan saat jam belajar malam?
+- Terbukti pada santri usia berapa? Apakah santri baru jenjang J1 (pemula) atau pengurus santri jenjang J4 (kemandirian penuh)?
+- Apa dasar dalil syar'i dan bukti rekam jejak (*logbook*) yang mendasarinya?
+- Apa batas kesimpulan yang sah, dan apa hal-hal yang secara jujur belum terbukti?
 
-| No | Parameter Data | Pertanyaan Pemandu Penetapan | Deskripsi Fungsi dalam Arsitektur |
-|---|---|---|---|
-| **01** | **ID Klaim** | *Apa kode unik identifikasinya?* | Kode alfanumerik kanonik permanen (misal: `CM-C001`, `CM-C004`). |
-| **02** | **Rumusan Proposisi** | *Apa bunyi pernyataan spesifik yang diajukan?* | Pernyataan proposisional atomik yang jernih, padat, dan bebas dari bahasa iklan yang hiperbolis. |
-| **03** | **Jenis Klaim** | *Termasuk kategori pernyataan yang mana?* | Klasifikasi tipologi (Normatif, Desain, Kausal, Pelaksanaan, Hasil, dll.). |
-| **04** | **Komponen Terdampak** | *Komponen arsitektur mana yang terikat?* | Modul, kapasitas, atau lapisan sistem yang dipengaruhi oleh klaim ini. |
-| **05** | **Ruang Lingkup Keberlakuan** | *Berlaku untuk siapa, di mana, dan kapan?* | Batasan populasi santri (usia, jenjang J1–J4) dan konteks ekologis (kamar, kelas, masjid). |
-| **06** | **Silsilah Teori & Turats** | *Dalil atau konsep apa yang melandasinya?* | Rujukan nash syar'i, kaidah ushul fiqih, atau literatur psikologi perkembangan remaja. |
-| **07** | **Rujukan Bukti Primer** | *Data fakta apa yang mendukung klaim ini?* | Dokumen logbook musyrif, laporan evaluasi semesteran, atau rekaman uji coba terbatas. |
-| **08** | **Batas Inferensi yang Sah** | *Kesimpulan apa saja yang BOLEH ditarik?* | Batas kesimpulan logis yang diizinkan untuk dipercayai berdasarkan bukti yang ada saat ini. |
-| **09** | **Pengakuan Keterbatasan** | *Apa saja yang secara jujur BELUM terbukti?* | Ketidakpastian residu, batas asumsi, dan hal-hal yang tidak boleh diklaim secara sepihak. |
-| **10** | **Status Epistemik Saat Ini** | *Seberapa kuat tingkat kepastian ilmiahnya?* | Status pada tangga kepastian (Proposed, Designed, Pilot Tested, Supported, dll.). |
-| **11** | **Dampak Kebijakan Lapangan** | *SOP atau instrumen apa yang bergantung?* | Pedoman mutaba'ah musyrif, format rapor santri, atau tata tertib kamar asrama. |
-| **12** | **Riwayat Sidang Evaluasi** | *Kapan terakhir kali diuji dan ditinjau?* | Tanggal peninjauan berkala, notulensi sidang pleno, dan penanggung jawab evaluasi. |
+Tanpa format pendataan yang seragam dan terperinci, sebuah sistem pendidikan rentan tergelincir ke dalam **klaim sepihak yang tidak dapat diuji (*unfalsifiable claims*)**. Format Baku Struktur Klaim memastikan setiap pernyataan yang lahir dari rahim TUMBUH v2.0.0 memiliki identitas yang terang, dapat diuji kebenarannya, dan terlacak hingga ke lembar pengamatan musyrif di asrama.
 
 ---
 
-## 3. Contoh Lengkap Rekaman Entri Klaim Kanonikal
+## 2. Dua Belas Parameter Wajib Entri Registri Klaim
 
-Berikut adalah dua contoh penerapan rekaman data penuh sesuai standar registri:
+Setiap klaim yang didaftarkan ke dalam Registri Resmi wajib memuat dua belas atribut metadata berikut tanpa kecuali:
 
-### Contoh Entri 1: CM-C004 (Klaim Delapan Kapasitas Inti)
-
-```yaml
-Claim_ID: CM-C004
-Proposition_Statement: >
-  Delapan Kapasitas Inti (CC-01 s/d CC-08) merupakan model representasi fungsional
-  yang koheren dan memadai untuk memetakan pembinaan adab santri dalam ekosistem
-  asrama pesantren 24 jam.
-Claim_Type: Pilihan Desain & Definisi (Design Choice & Conceptual Definition)
-Target_Component: 01_FUNDAMENTAL / 03_CORE_MODEL / 04_CORE_CAPACITY_ARCHITECTURE
-Scope_of_Application: >
-  Santri usia 12–18 tahun (Madrasah Tsanawiyah dan Aliyah) di lingkungan asrama
-  pesantren yang menerapkan kerangka kerja TUMBUH v2.0.0.
-Theoretical_Turats_Lineage: >
-  Sintesis antara 10 Muwashofat Tarbiyah Islamiyah (Hasan Al-Banna), konsep
-  Tazkiyatun Nafs Imam Al-Ghazali, dan Taksonomi Karakter Berbasis Fitrah.
-Primary_Evidence_References: >
-  Dokumen Spesifikasi Core Capacity Architecture v2.0.0, Laporan Tinjauan Pakar
-  Pendidikan Pesantren (Expert Review 2026), dan Hasil Pemetaan Kurikulum Asrama.
-Valid_Inference_Boundaries: >
-  Delapan Kapasitas Inti adalah model kerja arsitektural yang koheren untuk
-  mendiagnosis dan membina perilaku santri; bukan sekadar daftar teori abstrak.
-Limitations_and_Uncertainties: >
-  Klaim ini TIDAK membuktikan bahwa 8 kapasitas ini adalah satu-satunya model
-  pembinaan yang benar di dunia Islam, dan belum membuktikan bahwa penguasaan
-  seluruh 8 kapasitas menjamin kesuksesan finansial santri di masa depan.
-Current_Epistemic_Status: TELAH DIRANCANG KANONIKAL (Designed / Canonically Specified)
-Policy_Dependencies: >
-  Buku Saku Mutaba'ah Musyrif, Format Rapor Radar Santri, dan Kurikulum Usrah Kamar.
-Audit_History: >
-  Diratifikasi dalam Sidang Pleno Tim Arsitektur TUMBUH v2.0.0 (September 2026).
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│               DUA BELAS PARAMETER BAKU ENTRI KLAIM TUMBUH               │
+├────────────────────────────────────────────────────────────────────────┤
+│ 01. ID KLAIM UNIK              │ Kode identifikasi sistemik             │
+│ 02. RUMUSAN PROPOSISI          │ Pernyataan inti yang lugas dan atomik  │
+│ 03. JENIS KLAIM                │ Tipologi (Normatif/Desain/Hasil/dll.)  │
+│ 04. SILSILAH TURATS & TEORI    │ Akar rujukan nash dan telaah ilmiah    │
+│ 05. LINGKUP KEBERLAKUAN        │ Batas usia, jenjang santri, & konteks  │
+│ 06. STATUS TANGGA EPISTEMIK    │ Tingkat kepastian ilmiah saat ini      │
+│ 07. BERKAS DATA BUKTI          │ Tautan bukti logbook & riset lapangan  │
+│ 08. BATAS INFERENSI YANG SAH   │ Apa yang benar-benar boleh disimpulkan │
+│ 09. KETERBATASAN DIAKUI        │ Pengakuan jujur hal yang belum teruji  │
+│ 10. PEMICU PEMALSUAN/ANOMALI   │ Fakta apa yang dapat menggugurkan klaim│
+│ 11. TANGGAL STATUS & VERSI     │ Riwayat pengesahan & pembaruan resmi   │
+│ 12. PENANGGUNG JAWAB RESMI     │ Dewan/Divisi pemegang otoritas         │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
+### Penjelasan Rinci Parameter Metadata:
+
+1. **ID Klaim Unik (`Claim_ID`):**  
+   Kode identitas permanen yang tidak boleh berubah, misalnya `CM-C001` untuk Model Inti (*Core Model*) atau `OP-C012` untuk Dokumen Operasional Asrama.
+   
+2. **Rumusan Proposisi (`Proposition_Statement`):**  
+   Kalimat deklaratif tunggal yang menyatakan hubungan logis antar-variabel atau ketetapan konseptual. Kalimat wajib disusun secara lugas, bebas dari hiperbola iklan, dan tidak menggabungkan dua fenomena yang berbeda ke dalam satu tarikan nafas.
+   
+3. **Jenis Klaim (`Claim_Type`):**  
+   Klasifikasi ranah pernyataan sesuai katalog 10 jenis klaim (misalnya: *Pilihan Desain Arsitektur, Dalil Normatif Syariat, Hipotesis Mekanisme, Evaluasi Dampak Lapangan*).
+   
+4. **Silsilah Rujukan Turats & Teori Ilmiah (`Lineage_And_Grounding`):**  
+   Jejak sanad keilmuan yang melandasi pernyataan tersebut, baik dari nash Al-Qur'an, Sunnah Nabawiyyah, kitab-kitab turats para ulama mu'tabar (seperti Imam Al-Ghazali atau Imam An-Nawawi), maupun temuan psikologi perkembangan remaja modern.
+   
+5. **Lingkup Keberlakuan (*Scope of Applicability*):**  
+   Batas demografis dan ekologis tempat klaim tersebut berlaku. Menjelaskan secara spesifik jenjang kemandirian santri (J1, J2, J3, atau J4), gender, serta konteks lingkungan asrama 24 jam.
+   
+6. **Status Tangga Kepastian Ilmiah (*Epistemic Status*):**  
+   Tingkat kepercayaan metodologis saat ini berdasarkan 7 tangga kepastian ilmiah TUMBUH (misal: *Canonically Designed, Provisional, atau Outcome Evaluated*).
+   
+7. **Berkas Data Rekam Bukti (*Evidence Dossier Link*):**  
+   Daftar dokumen pendukung berupa catatan logbook musyrif, lembar observasi perilaku, atau laporan evaluasi semesteran yang dapat diperiksa oleh auditor.
+   
+8. **Batas Inferensi yang Sah (*Valid Inference Boundaries / What IS Claimed*):**  
+   Pernyataan tegas mengenai apa saja kesimpulan yang sah ditarik dari klaim ini. Ini adalah rambu pembatas agar pengasuh tidak melompat pada kesimpulan yang tidak didukung data.
+   
+9. **Keterbatasan yang Diakui Secara Terbuka (*Admitted Limitations / What is NOT Claimed*):**  
+   Pernyataan rendah hati mengenai apa saja yang **TIDAK diklaim** atau hal-hal yang belum terbukti. Langkah ini membentengi lembaga dari kesombongan metodologis.
+   
+10. **Kondisi Penggugur Klaim (*Falsification / Disconfirmation Triggers*):**  
+    Kondisi atau temuan lapangan seperti apa yang secara ilmiah dapat membatalkan atau menurunkan status klaim tersebut (misalnya: jika lebih dari 20% santri mengalami kelelahan mental berkepanjangan).
+    
+11. **Riwayat Tanggal dan Versi Pengesahan (`Status_Date_And_History`):**  
+    Catatan kronologis kapan klaim pertama kali dirumuskan, kapan dievaluasi, dan tanggal sidang pleno terakhir yang mengesahkan statusnya.
+    
+12. **Penanggung Jawab dan Otoritas Pengesah (`Custodian_Authority`):**  
+    Majelis Masyayikh, Dewan Pengasuhan Asrama, atau Tim Litbang Pesantren yang bertanggung jawab memelihara integritas klaim tersebut.
+
 ---
 
-### Contoh Entri 2: CM-C003 (Klaim Alur Mekanisme Pertumbuhan)
+## 3. Kaidah Pemecahan Klaim Borongan (*The Non-Bundling Rule*)
 
-```yaml
-Claim_ID: CM-C003
-Proposition_Statement: >
-  Pertumbuhan adab santri terjadi melalui siklus interaktif bertahap:
-  Pengalaman Lapangan ──► Keterlibatan Batin ──► Latihan Riyadhoh ──►
-  Umpan Balik Musyrif ◄──► Muhasabah Diri ──► Adaptasi ──► Watak Membatin (Malakah).
-Claim_Type: Pilihan Desain & Model Mekanistik (Design & Mechanistic Model)
-Target_Component: 01_FUNDAMENTAL / 03_CORE_MODEL / 03_GROWTH_MECHANISM
-Scope_of_Application: >
-  Proses pendampingan santri di seluruh ruang ekologi pesantren (kamar, kelas, masjid).
-Theoretical_Turats_Lineage: >
-  Konsep Riyadhatun Nafs dan Mujahadah Al-Ghazali dipadukan dengan teori
-  pembentukan kebiasaan (habituation loop) dan metakognisi pembelajaran mandiri.
-Primary_Evidence_References: >
-  Dokumen Spesifikasi Growth Mechanism v2.0.0 dan Catatan Uji Coba Pendampingan Usrah.
-Valid_Inference_Boundaries: >
-  Alur ini menjelaskan komponen-komponen yang secara logis diperlukan agar pembiasaan
-  adab membatin menjadi karakter; bukan sekadar hafal teori adab di kelas.
-Limitations_and_Uncertainties: >
-  Klaim ini BUKAN rumus kepastian matematika; siklus ini dapat mengalami jeda,
-  kemunduran sementara (futur), atau hambatan emosional tergantung kesiapan fitrah santri.
-Current_Epistemic_Status: SEMENTARA SECARA EMPIRIS (Provisional / Designed)
-Policy_Dependencies: >
-  SOP Siklus Pembinaan Kamar 24 Jam dan Pelatihan Keterampilan Konseling Musyrif.
-Audit_History: >
-  Ditinjau berkala dalam Rapat Evaluasi Pengasuhan Semester Ganjil 1448 H.
+Salah satu kekeliruan umum dalam dunia pendidikan adalah menyatukan beberapa hipotesis berbeda ke dalam satu pernyataan tunggal yang rumit (*bundled claims*). 
+
+> **Aturan Wajib TUMBUH v2.0.0:**  
+> **"DILARANG KERAS menggabungkan dalil syariat, rekayasa tata ruang, mekanisme pembiasaan psikologis, dan janji capaian santri ke dalam satu entri klaim tunggal. Setiap klaim wajib dipecah menjadi unit-unit atomik (Non-Bundling) agar setiap bagian dapat diverifikasi secara adil dan mandiri."**
+
+### Mengapa Pemecahan Klaim Ini Sangat Penting?
+Jika pengasuh membuat klaim borongan: *"Membangunkan santri pada jam 03.30 pagi untuk Qiyamul Lail secara otomatis meningkatkan daya ingat hafalan Al-Qur'an dan melenyapkan konflik antar-kamar,"* maka pernyataan ini mencampurkan tiga hal yang berbeda:
+1. Anjuran syariat Qiyamul Lail (Hukum Sunnah yang berpahala besar);
+2. Pengaruh tidur dan ritme sirkadian terhadap fungsi memori otak (Aspek Neurosains);
+3. Dinamika relasi sosial dan gesekan emosional antar-santri di asrama (Aspek Psikologi Sosial).
+
+Jika santri tetap mengalami konflik kamar padahal rajin bangun malam, klaim borongan tersebut akan membingungkan pengasuh: apakah syariatnya yang keliru, apakah jam tidurnya yang kurang, ataukah keterampilan komunikasinya yang belum dibina? Dengan memecah pernyataan menjadi klaim-klaim atomik, pengasuh dapat mengevaluasi setiap komponen dengan jernih tanpa mencampuradukkan perkara syariat dengan dinamika biologis dan sosial.
+
+---
+
+## 4. Contoh Nyata Penerapan Pemecahan Klaim Borongan di Asrama
+
+Berikut adalah studi kasus penerapan pemecahan klaim borongan pada program pembiasaan tahajud di asrama santri baru (Jenjang J1):
+
+### Contoh Klaim Borongan yang SALAH (Ditolak Sistem):
+> ❌ *"Bangun jam 03.00 pagi untuk tahajud bersama musyrif terbukti membina ketaatan santri J1, menghapus rasa rindu rumah (homesickness), dan meningkatkan nilai ujian kitab kuning."*  
+> *(Klaim ini menggabungkan amalan ibadah, fenomena adaptasi emosional anak berpisah dari orang tua, dan prestasi akademik ke dalam satu paket yang menyesatkan).*
+
+### Hasil Pemecahan Menjadi Tiga Unit Klaim Atomik yang BENAR:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│             HASIL DEKOMPOSISI MENJADI TIGA UNIT KLAIM ATOMIK           │
+├────────────────────────────────────────────────────────────────────────┤
+│ KLAIM ATOMIK 1 (Normatif Syariat):                                     │
+│ "Qiyamul Lail merupakan amalan sunnah muakkadah yang dianjurkan syariat│
+│  untuk menumbuhkan ketakwaan dan kedekatan diri kepada Allah SWT."    │
+│  Status: NORMATIF TERVERIFIKASI (Akar: QS. Al-Isra: 79)                │
+│                                                                        │
+│ KLAIM ATOMIK 2 (Pilihan Desain & Biologis):                            │
+│ "Jadwal bangun tahajud santri J1 wajib disertai pemajuan jam tidur     │
+│  malam (pukul 21.30) guna menjamin kecukupan istirahat 6-7 jam."      │
+│  Status: TELAH DIRANCANG / KANONIKAL (Akar: Ritme Sirkadian Remaja)    │
+│                                                                        │
+│ KLAIM ATOMIK 3 (Evaluasi Dampak Emosional):                            │
+│ "Homesickness santri baru diatasi melalui pendampingan musyrif kamar, │
+│  bukan otomatis terobati hanya dengan menambah jam ibadah malam."      │
+│  Status: SEMENTARA SECARA EMPIRIS (Akar: Observasi Logbook Kamar)      │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 4. Kaidah Granularitas dan Larangan Pembundelan Klaim (*Granularity Rule*)
-
-Untuk mencegah pembodohan istilah dan memastikan setiap proposisi dapat diuji secara jujur, berlaku **Kaidah Granularitas Ketat (*Strict Granularity & Non-Bundling Rule*)**:
-
-1. **Satu Klaim untuk Satu Proposisi Inti:**  
-   Dilarang menggabungkan klaim definisi, klaim efektivitas metode, dan janji hasil kelulusan dalam satu kalimat borongan. Contoh salah: *"Metode tahfidz kami adalah metode terbaik yang terbukti melahirkan penghafal Qur'an mutqin dalam 1 tahun tanpa rasa jenuh."* Kalimat ini wajib dipecah menjadi 3 klaim terpisah: (a) klaim desain metode, (b) klaim durasi pencapaian, dan (c) klaim ketiadaan kejenuhan psikologis.
-2. **Kesesuaian Klaim dengan Bobot Bukti Terendah:**  
-   Jika sebuah metode baru diuji coba pada 20 santri di satu kamar asrama, maka status klaim yang sah adalah *Diuji Coba Terbatas (Pilot Tested)*. Dilarang menaikkan status menjadi *Terbukti Efektif Secara Luas (Broadly Validated)* sebelum ada replikasi data di seluruh asrama.
+Dengan pemisahan ini:
+- Keagungan ibadah Qiyamul Lail tetap terjaga kemurniannya tanpa dibebani ekspektasi pragmatis yang tidak relevan.
+- Kebutuhan biologis dan perkembangan saraf otak remaja terlindungi melalui penataan jam tidur yang manusiawi.
+- Problem emosional santri baru yang menangis karena rindu orang tua ditangani secara tepat melalui kasih sayang dan pendampingan musyrif (*in loco parentis*), bukan malah dihakimi sebagai santri yang "kurang ikhlas beribadah".
 
 ---
 
 ## 5. Status Validasi
 
 **Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
-Dokumen ini mengikat secara hukum bagi Tim Peneliti Litbang, Divisi Kurikulum, dan Humas Pesantren TUMBUH v2.0.0.
+Format dua belas parameter ini menjadi standar baku yang wajib diterapkan dalam seluruh penulisan dokumen fundamental, modul pelatihan, dan lembar kerja operasional TUMBUH v2.0.0.

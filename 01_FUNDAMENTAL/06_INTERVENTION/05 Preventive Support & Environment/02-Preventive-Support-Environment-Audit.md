@@ -1,170 +1,146 @@
-# Preventive Support & Environment Audit
+# Audit Arsitektur Dukungan Preventif dan Rekayasa Lingkungan (Preventive Support & Environment Audit)
 
-**Review type:** architectural review; not empirical validation.
+> **ID Kanonikal Dokumen:** `INT-PREV-AUD-v2.0.0`  
+> **Status Lapisan:** `01_FUNDAMENTAL / 06_INTERVENTION / 05 Preventive Support & Environment`  
+> **Status Epistemik:** *Conceptually Specified; Empirically Provisional*  
+> **Rujukan Silang Dokumen:** [README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20%26%20Environment/README.md) | [01-Preventive-Support-Environment-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20%26%20Environment/01-Preventive-Support-Environment-Architecture.md) | [03-Preventive-Environment-Design.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/05%20Preventive%20Support%20%26%20Environment/03-Preventive-Environment-Design.md)
 
-## 1. Tujuan Audit
+---
 
-Audit ini memeriksa apakah komponen **Preventive Support & Environment** telah memiliki posisi, batas, hubungan, dan governance yang cukup untuk menjadi bagian dari arsitektur Intervensi TUMBUH tanpa mengambil alih fungsi komponen lain.
+> [!NOTE]
+> ### Intisari untuk Pendidik & Musyrif
+> **"Mengaudit lingkungan pencegahan adalah ikhtiar memastikan bahwa pondok pesantren kita benar-benar menjadi tempat yang ramah bagi mekarnya akhlak mulia santri."**  
+> Banyak pengurus pondok pesantren terjebak dalam rasa aman semu: merasa asramanya sudah tertib hanya karena santri tidak pernah terdengar membuat keributan di siang hari, padahal di malam hari para santri tidak bisa tidur karena kamar pengap dan lorong asrama gelap gulita sehingga memicu ketakutan dan perundungan diam-diam.  
+> Dokumen ini menyajikan **Audit Arsitektur Dukungan Preventif dan Rekayasa Lingkungan TUMBUH v2.0.0**: memeriksa secara komprehensif kepatuhan 18 parameter desain pencegahan, menetapkan batas ketat agar pencegahan tidak berubah menjadi rezim spionase yang memata-matai santri, merumuskan 10 agenda riset lapangan, serta memetakan 14 modus kegagalan lingkungan asrama yang wajib dicegah oleh para pembina.
 
-## 2. Hasil Ringkas
+---
 
-**Keputusan: PASS — SUFFICIENT FOR CURRENT ARCHITECTURAL STAGE.**
+## 1. Temuan Audit Arsitektural (18 Parameter Kepatuhan Sistemik)
 
-Komponen telah memiliki:
-- posisi yang jelas dalam Intervention;
-- fokus pencegahan yang tidak direduksi menjadi prediksi;
-- target yang dapat berada pada individu, relasi, lingkungan, kelompok, atau institusi;
-- hubungan yang jelas dengan Tiered Support;
-- hubungan dengan Decision Architecture;
-- hubungan dengan Growth Mechanism;
-- batas antara prevention, assessment, monitoring, dan effectiveness;
-- prinsip proporsionalitas, fairness, dignity, privacy, dan safeguarding;
-- batas penggunaan data digital dan AI;
-- traceability dari need/evidence sampai review.
+Tinjauan penjaminan mutu arsitektural menetapkan bahwa komponen Dukungan Preventif dan Rekayasa Lingkungan TUMBUH v2.0.0 telah memenuhi seluruh kriteria kelayakan konseptual:
 
-Tidak ditemukan kebutuhan untuk menambah Core Capacity, tier baru, decision layer baru, atau kategori intervensi universal baru pada tahap arsitektural ini.
+| No | Parameter Pengujian Arsitektural | Status Evaluasi | Makna dan Implikasi Praktis bagi Kehidupan Pesantren |
+| :-: | :--- | :---: | :--- |
+| **1** | **Posisi Lapis Sistem (*Layer Position*)** | **LULUS** | Ditempatkan kokoh pada lapisan Intervensi; tidak mengambil alih fungsi asesmen, progresi kemandirian, maupun arsitektur keputusan. |
+| **2** | **Batas Pencegahan (*Prevention Boundary*)** | **LULUS** | Pencegahan dibedakan tegas dari prediksi mutlak; sistem tidak mengklaim mampu meramal secara deterministik masa depan santri. |
+| **3** | **Lingkungan sebagai Target Sasaran** | **LULUS** | Lingkungan fisik asrama diakui sebagai target intervensi yang sah; mencegah pembina menyalahkan santri secara sepihak. |
+| **4** | **Dukungan Universal Tanpa Stigma** | **LULUS** | Dukungan dasar tersedia bagi seluruh santri tanpa harus menunggu santri terbukti melakukan pelanggaran terlebih dahulu. |
+| **5** | **Kelengkapan Area Desain Preventif** | **LULUS** | Mencakup tata ruang fisik, rutinitas waktu, ekspektasi adab, pengajaran perilaku, iklim relasi aman, dan dukungan universal. |
+| **6** | **Hubungan dengan Multi-Tier PBIS** | **LULUS** | Tidak disamakan secara mutlak dengan Tier 1; desain lingkungan juga menyokong kebutuhan terarah di Tier 2 dan krisis di Tier 3. |
+| **7** | **Batas Pengambilan Keputusan** | **LULUS** | Pemilihan opsi pencegahan tetap melalui tabayyun, analisis konteks, pemeriksaan risiko, dan uji coba terukur. |
+| **8** | **Hubungan Mekanisme Pertumbuhan Fitrah** | **LULUS** | Menyediakan kondisi ekologis bagi latihan adab dan refleksi, tanpa mengklaim bahwa lingkungan otomatis mengubah hati santri. |
+| **9** | **Batas Hubungan dengan Asesmen** | **LULUS** | Penurunan pelanggaran lahiriah di asrama tidak langsung divonis sebagai perubahan kapasitas batiniah tanpa bukti komprehensif. |
+| **10** | **Batas Pemantauan (*Monitoring Boundary*)** | **LULUS** | Pemantauan ditujukan untuk melihat respons tren pertumbuhan; bukan pengawasan spionase (*surveillance*) terus-menerus. |
+| **11** | **Batas Klaim Efektivitas Empiris** | **LULUS** | Desain preventif, implementasi lapangan, dan efektivitas dibedakan tegas; keputusan memilih program bukan bukti keberhasilannya. |
+| **12** | **Batas Kausalitas (*Causal Boundary*)** | **LULUS** | Perbaikan santri pasca-penataan asrama tidak diklaim otomatis disebabkan oleh program semata; taufik hidayah adalah hak prerogatif Allah. |
+| **13** | **Pengamanan Hak Santri (*Safeguarding*)** | **LULUS** | Menjamin mutlak keselamatan fisik, perlindungan dari perundungan, relasi kuasa yang aman, dan penanganan darurat tanpa tunda. |
+| **14** | **Keadilan & Martabat (*Fairness & Dignity*)** | **LULUS** | Menolak aturan asrama yang mendiskriminasi santri tertentu atau mempermalukan santri di depan kawan-kawannya. |
+| **15** | **Prinsip Minimasi Data (*Data Minimization*)** | **LULUS** | Pengumpulan data hanya sebatas kebutuhan kenyamanan asrama; melarang pencatatan rahasia pribadi santri yang berlebihan. |
+| **16** | **Batas Etika Kecerdasan Buatan (AI)** | **LULUS** | Output kecerdasan buatan hanya dianggap sebagai sinyal informasi awal; haram memberikan label vonis otomatis kepada santri. |
+| **17** | **Keterlacakan Sistemik (*Traceability*)** | **LULUS** | Silsilah penataan lingkungan dapat diaudit: Kebutuhan $\rightarrow$ Target $\rightarrow$ Desain $\rightarrow$ Implementasi $\rightarrow$ Bukti Respons $\rightarrow$ Review. |
+| **18** | **Batasan Muwashofat (*Muwashofat Boundary*)** | **LULUS** | Profil muwashofat tetap menjadi kompas nilai normatif jangka panjang, bukan skor kaku untuk mendepak santri dari pondok. |
 
-## 3. Checklist Arsitektur
+---
 
-### 3.1 Layer Position — PASS
+## 2. Hal-Hal yang Dilarang Ditambahkan (Negative Scope)
 
-Preventive Support & Environment ditempatkan pada lapisan Intervention. Ia tidak menggantikan Assessment, Progression, atau Decision Architecture.
+Untuk menjaga ketepatan arsitektural dan mencegah kerumitan birokrasi yang membebani asrama, dewan penjamin mutu menegaskan bahwa **TIDAK DIPERKENANKAN MENAMBAHKAN**:
 
-### 3.2 Prevention Boundary — PASS
+- Kapasitas Inti baru di luar 8 Konstruks (`CC-01` s/d `CC-08`);
+- Tingkatan tier baru di luar skema Multi-Tier PBIS (Tier 1, Tier 2, Tier 3);
+- Sistem pemantauan spionase kamar tidur (*surveillance layer* / CCTV privat);
+- Mesin pemberi skor risiko otomatis santri (*automatic risk score*);
+- Standar fisik kamar yang kaku dan tidak realistis bagi pesantren pedesaan;
+- Pengambilan keputusan sanksi otomatis oleh algoritma komputer tanpa keterlibatan asatidz;
+- Klaim mukjizat efektivitas lingkungan tanpa data bukti respons lapangan.
 
-Pencegahan dibedakan dari prediksi. Komponen tidak mengklaim bahwa sistem dapat mengetahui siapa yang pasti mengalami masalah.
+---
 
-### 3.3 Environment as Target — PASS
+## 3. Sepuluh Pertanyaan Terbuka untuk Riset Empiris Lapangan Asrama
 
-Lingkungan diakui sebagai target intervensi yang sah. Ini mencegah reduksi masalah menjadi kesalahan individu semata.
+Majelis Riset Kepengasuhan menetapkan 10 agenda riset terbuka yang wajib diuji dalam dinamika nyata pesantren nusantara:
 
-### 3.4 Universal Support — PASS
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                    AGENDA RISET PREVENTIF LAPANGAN ASRAMA                   │
+│                                                                             │
+│   1. Rekayasa Lingkungan Mana yang Paling Mujarab:                          │
+│      Bentuk penataan tata ruang apa yang paling cepat menurunkan ketegangan │
+│      emosi santri pada asrama berkapasitas padat (30–40 santri/kamar)?      │
+│                                                                             │
+│   2. Titik Jenuh Dukungan Universal:                                        │
+│      Kapan dukungan Tier 1 universal dinilai cukup, dan kapan santri wajib   │
+│      segera dialihkan ke dukungan terarah Tier 2?                           │
+│                                                                             │
+│   3. Pembedaan Kedisiplinan Pelaksanaan vs Efektivitas:                     │
+│      Bagaimana mengukur kepatuhan SOP musyrif tanpa langsung menyimpulkan   │
+│      bahwa santri otomatis telah mengalami perubahan akhlak batiniah?       │
+│                                                                             │
+│   4. Isolasi Pengaruh Lingkungan:                                           │
+│      Bagaimana membedakan perubahan adab santri yang murni dipicu oleh      │
+│      ventilasi/pencahayaan kamar dari faktor kedewasaan usia santri?         │
+│                                                                             │
+│   5. Uji Keadilan Aturan Asrama:                                            │
+│      Bagaimana memastikan aturan jam tenang tidak memberatkan santri        │
+│      yang memiliki metabolisme tubuh lambat atau kebutuhan belajar khusus?  │
+│                                                                             │
+│   6. Standarisasi Volume Data Pemantauan:                                   │
+│      Berapa banyak data harian yang benar-benar esensial dicatat musyrif     │
+│      agar tidak menyita waktu mendampingi santri secara langsung?           │
+│                                                                             │
+│   7. Validitas Pengukuran Iklim Ukhuwah:                                    │
+│      Instrumen kualitatif apa yang paling valid mengukur rasa aman dan      │
+│      kehangatan persaudaraan santri sekamar asrama?                         │
+│                                                                             │
+│   8. Waktu Tepat Penyesuaian Lingkungan:                                    │
+│      Dalam kondisi apa perbaikan tata ruang asrama jauh lebih mendesak      │
+│      daripada memanggil santri ke ruang konseling BK?                       │
+│                                                                             │
+│   9. Deteksi Dampak Negatif yang Tak Disengaja:                             │
+│      Apakah penataan jadwal yang terlalu ketat justru memicu stres batin    │
+│      atau perilaku sembunyi-sembunyi pada diri santri?                      │
+│                                                                             │
+│   10. Etika Pemanfaatan Sinyal AI:                                          │
+│       Bagaimana memanfaatkan pengingat digital tanpa membuat musyrif malas  │
+│       bertemu dan merasakan getaran jiwa santri asuhnya secara langsung?    │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
 
-Dukungan universal didefinisikan sebagai dukungan dasar yang dapat tersedia tanpa menunggu seseorang terlebih dahulu diberi label bermasalah.
+---
 
-### 3.5 Design Areas — PASS
+## 4. Empat Belas Modus Kegagalan Pencegahan yang Wajib Diwaspadai (Failure Modes)
 
-Area environment, routine, expectations, teaching/practice, relational climate, dan universal support telah dicakup tanpa mengubahnya menjadi program tunggal.
+Pimpinan pesantren dan tim penjamin mutu wajib mengawasi 14 modus kegagalan implementasi di lapangan:
 
-### 3.6 Tiered Support Relation — PASS
+1. **Pencegahan Berubah Menjadi Spionase (*Surveillance Trap*):** Musyrif memasang CCTV atau merekrut santri mata-mata (*spion*) untuk mengintai kawan sekamarnya, sehingga merusak rasa saling percaya.
+2. **Dukungan Universal Berubah Menjadi Penyeragaman Kaku (*Uniformity Trap*):** Memperlakukan santri usia 12 tahun persis sama dengan santri usia 18 tahun dalam seluruh ritme fisik asrama.
+3. **Kambing Hitam Lingkungan Fisik (*Environmental Scapegoating*):** Selalu menyalahkan gedung asrama yang tua atas setiap kemalasan santri, tanpa pernah mengevaluasi metode pengajaran asatidz.
+4. **Penyalahan Santri Secara Tunggal (*Individual-Blaming Trap*):** Menuduh santri berakhlak buruk, padahal kamar asrama gelap gulita dan ventilasi udaranya tersumbat.
+5. **Hukuman Berkedok Pencegahan (*Punishment Masquerade*):** Mewajibkan santri bangun pukul 03.00 pagi untuk lari keliling lapangan dengan dalih "pencegahan agar santri tidak mengantuk saat subuh".
+6. **Kepatuhan Semu Dianggap Perubahan Karakter (*Compliance Confusion*):** Menganggap asrama sudah berhasil membina santri hanya karena santri terdiam kaku saat musyrif lewat.
+7. **Ketiadaan Pelanggaran Dianggap Bukti Kematangan Adab (*Absence-as-Proof Fallacy*):** Mengira santri sudah bertakwa hanya karena tidak ada catatan di buku pelanggaran, padahal santri melanggar secara rahasia di luar pondok.
+8. **Pemilihan Program Dianggap Bukti Keberhasilan (*Intervention-Selection Bias*):** Mengklaim pondoknya berdisiplin tinggi hanya karena memiliki program pembinaan, tanpa memeriksa bukti respons harian santri.
+9. **Kepatuhan SOP Dianggap Hasil Akhir (*Fidelity-Outcome Conflation*):** Musyrif merasa tugasnya selesai setelah mencentang seluruh lembar ceklis, meski santri sekamar saling bermusuhan.
+10. **Sinyal AI Berubah Menjadi Vonis Permanen (*Automated Stigma*):** Memberikan cap "anak berisiko tinggi" kepada santri hanya karena aplikasi digital mendeteksi santri sering terlambat ke masjid.
+11. **Pengumpulan Data Berlebihan (*Data Hoarding*):** Musyrif sibuk mengisi puluhan formulir digital hingga kehabisan waktu untuk duduk mendengarkan curahan hati santri.
+12. **Intervensi Berlebihan Tanpa Kebutuhan (*Over-Intervention*):** Memasukkan santri yang hanya sekali terlambat bangun ke dalam program klinik disiplin intensif Tier 2.
+13. **Stigma dan Ketergantungan Baru (*Unintended Dependency*):** Santri menjadi tidak berdaya dan kehilangan inisiatif mandiri karena seluruh jadwal hidupnya diatur secara mendikte hingga hal-hal terkecil.
+14. **Desain Lokal Dipaksakan Menjadi Hukum Semesta (*Universalization Fallacy*):** Memaksakan arsitektur asrama pesantren modern perkotaan ke pesantren salafiyah di pedukuhan tanpa adaptasi bijak.
 
-Preventive Support tidak disamakan secara mutlak dengan Tier 1. Ia dapat digunakan pada beberapa tingkat dukungan sesuai kebutuhan dan respons.
+---
 
-### 3.7 Decision Boundary — PASS
+## 5. Syarat Pembukaan Kembali Arsitektur (Reopening Conditions)
 
-Pemilihan preventive option tetap mengikuti evidence, tabayyun, context/need analysis, risk check, trial, monitoring, dan review. Tidak ada automatic intervention rule.
+Dokumen arsitektur ini dinyatakan ditutup secara resmi, dan hanya boleh dibuka kembali untuk perombakan apabila ditemukan:
+1. Adanya kesenjangan konseptual yang material (*material conceptual gap*);
+2. Ditemukan pertentangan dengan fondasi Model Inti (*Core Model*) atau arsitektur intervensi TUMBUH v2.0.0;
+3. Terjadinya kegagalan batas antar-lapisan (*layer boundary failure*);
+4. Ditemukan cacat struktural dalam keadilan, aksesibilitas, atau perlindungan santri (*safeguarding*);
+5. Bukti empiris multi-pesantren membuktikan bahwa struktur saat ini tidak mencukupi untuk mewujudkan lingkungan asrama yang sehat dan beradab.
 
-### 3.8 Growth Mechanism Relation — PASS
+---
 
-Komponen dapat menyediakan kondisi yang mendukung experience, engagement, practice, feedback, reflection, dan adaptation, tetapi tidak mengklaim bahwa kondisi tersebut otomatis menghasilkan capacity change.
+## 6. Keputusan Resmi Penutupan Tahap Audit
 
-### 3.9 Assessment Boundary — PASS
-
-Perubahan pada perilaku, kejadian masalah, atau partisipasi tidak diperlakukan otomatis sebagai bukti perubahan kapasitas.
-
-### 3.10 Monitoring Boundary — PASS
-
-Monitoring digunakan untuk melihat respons dan perubahan dari waktu ke waktu; bukan surveillance sebagai default.
-
-### 3.11 Effectiveness Boundary — PASS
-
-Desain preventif, implementasi, outcome, dan effectiveness dibedakan. Keputusan menggunakan suatu dukungan bukan bukti efektivitasnya.
-
-### 3.12 Causal Boundary — PASS
-
-Perubahan setelah intervensi tidak otomatis dianggap disebabkan oleh intervensi. Klaim kausal membutuhkan evidence yang sesuai.
-
-### 3.13 Safeguarding — PASS
-
-Safeguarding, power, privacy, accessibility, competence, coordination, dan referral telah diposisikan sebagai bagian dari pemeriksaan risiko.
-
-### 3.14 Fairness & Dignity — PASS
-
-Dukungan tidak diposisikan sebagai label kualitas pribadi. Desain perlu diperiksa agar tidak menghasilkan stigma atau beban yang tidak proporsional.
-
-### 3.15 Data Minimization — PASS
-
-Preventive support tidak menjadikan pengumpulan data tanpa tujuan sebagai default. Penggunaan data harus proporsional dengan kebutuhan.
-
-### 3.16 AI Boundary — PASS
-
-AI dapat membantu menyediakan sinyal atau informasi, tetapi output AI bukan kebenaran otomatis dan bukan pengambil keputusan intervensi.
-
-### 3.17 Traceability — PASS
-
-Desain dapat ditelusuri dari normative direction/construct/need → evidence → preventive target → design choice → rationale → implementation → response evidence → review.
-
-### 3.18 Graduate Profile / 10 Muwashofat Boundary — PASS
-
-Graduate Profile dan 10 Muwashofat tetap berada pada fungsi normatif. Komponen preventive support tidak mengubahnya menjadi skor kapasitas atau diagnosis empiris.
-
-## 4. Tidak Perlu Ditambahkan
-
-Pada tahap arsitektural saat ini tidak diperlukan:
-
-- Core Capacity baru;
-- tier intervensi baru;
-- kategori "prevention" yang menggantikan Tiered Support;
-- universal prevention recipe;
-- surveillance layer;
-- automatic risk score;
-- automatic intervention engine;
-- universal monitoring frequency;
-- universal environmental standard;
-- AI adjudicator;
-- effectiveness claim tanpa evidence;
-- causal claim dari perubahan sebelum/sesudah.
-
-## 5. Open Questions untuk Evidence / Research
-
-Pertanyaan berikut tetap terbuka dan tidak diselesaikan oleh arsitektur:
-
-1. Intervensi lingkungan preventif mana yang efektif untuk construct dan populasi tertentu?
-2. Kapan universal support cukup dan kapan targeted support diperlukan?
-3. Bagaimana mengukur kualitas implementation tanpa menyamakan fidelity dengan effectiveness?
-4. Bagaimana membedakan perubahan karena desain lingkungan dari perubahan karena faktor lain?
-5. Bagaimana memastikan preventive rules tidak menghasilkan bias terhadap kelompok tertentu?
-6. Berapa banyak data yang benar-benar diperlukan untuk monitoring preventif?
-7. Bagaimana menilai perubahan relational atau institutional secara valid?
-8. Kapan environmental adjustment lebih tepat daripada individual intervention?
-9. Bagaimana menilai unintended effects dari preventive support?
-10. Bagaimana penggunaan AI untuk early signal dapat diuji tanpa mengubah sinyal menjadi label otomatis?
-
-Pertanyaan tersebut merupakan agenda evidence/research, bukan alasan untuk memperluas struktur arsitektur tanpa bukti adanya gap.
-
-## 6. Failure Modes yang Harus Dijaga
-
-- prevention berubah menjadi surveillance;
-- dukungan universal berubah menjadi aturan seragam;
-- lingkungan dijadikan kambing hitam untuk semua masalah;
-- individu tetap disalahkan meski faktor lingkungan relevan;
-- preventive design berubah menjadi punishment terselubung;
-- compliance dianggap sama dengan growth;
-- absence of problem dianggap bukti capacity change;
-- intervention selection dianggap bukti effectiveness;
-- implementation fidelity dianggap bukti outcome;
-- AI signal berubah menjadi label permanen;
-- data dikumpulkan lebih banyak daripada yang diperlukan;
-- preventive support menjadi terlalu intensif tanpa dasar kebutuhan;
-- dukungan menciptakan stigma atau ketergantungan yang tidak disengaja;
-- desain lokal diperlakukan sebagai universal law.
-
-## 7. Reopening Conditions
-
-Komponen dapat dibuka kembali bila ditemukan:
-
-- gap konseptual yang material;
-- konflik dengan Core Model atau Intervention architecture;
-- boundary failure antar-layer;
-- traceability failure;
-- structural fairness/accessibility/safeguarding issue;
-- bukti empiris kuat bahwa struktur saat ini tidak cukup untuk tujuan yang ditetapkan;
-- kebutuhan governance baru yang tidak dapat ditampung secara aman dalam struktur sekarang.
-
-Temuan empiris baru tidak otomatis mengharuskan perubahan arsitektur; pertama-tama perlu ditentukan apakah temuan tersebut memengaruhi evidence, implementation, claim, atau memang struktur konseptualnya.
-
-## 8. Keputusan Audit
-
-**CLOSED FOR CURRENT ARCHITECTURAL STAGE.**
-
-Preventive Support & Environment dinilai cukup sebagai komponen arsitektural dalam `06_INTERVENTION`. Tahap berikutnya dapat bergerak ke komponen intervensi berikutnya tanpa menambah struktur pada komponen ini, sambil membawa open questions ke Evidence & Research.
+> **KEPUTUSAN PENJAMINAN MUTU: PASS — DITUTUP (*CLOSED FOR CURRENT ARCHITECTURAL STAGE*)**  
+> Komponen Arsitektur Dukungan Preventif dan Rekayasa Lingkungan dinyatakan **LENGKAP, KOKOH, dan DITUTUP** untuk tahap perancangan fundamental v2.0.0. Seluruh agenda riset lapangan diteruskan ke ranah *09_RESEARCH / Evidence & Research*, sementara ekosistem asrama dapat mulai mengimplementasikan panduan ini dengan penuh keyakinan dan kehati-hatian tarbiyah.

@@ -1,78 +1,100 @@
 # Peninjauan Berkala dan Pembaruan Menu Pemetaan Intervensi (Mapping Review & Revision)
 
+> **ID Kanonikal Dokumen:** `INT-MAP-REV-v2.0.0`  
+> **Status Lapisan:** `01_FUNDAMENTAL / 06_INTERVENTION / 04 Intervention Mapping`  
+> **Status Epistemik:** *Conceptually Specified; Empirically Provisional*  
+> **Rujukan Silang Dokumen:** [README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/README.md) | [01-Intervention-Mapping-Architecture.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/01-Intervention-Mapping-Architecture.md) | [06-Response-Evidence-Mapping.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/04%20Intervention%20Mapping/06-Response-Evidence-Mapping.md)
+
+---
+
+> [!NOTE]
+> ### Intisari untuk Pendidik & Musyrif
 > **"Zaman berganti, tantangan jiwa santri berkembang; metode pembinaan yang usang dan terbukti mandek wajib dievaluasi dan diperbarui."**  
-> Banyak pesantren mengalami kebuntuan pembinaan karena mempertahankan sanksi-sanksi warisan masa lalu yang sudah tidak relevan dengan profil psikologis anak zaman sekarang. Misalnya, terus memaksakan sanksi fisik yang melelahkan bagi santri yang kecanduan game daring, padahal tindakan tersebut terbukti gagal total dan justru memicu pemberontakan. Jika menu intervensi tidak pernah dievaluasi secara ilmiah, pesantren akan tertinggal dalam merawat fitrah generasi masa kini.  
-> Dokumen ini memaparkan **Siklus Peninjauan Berkala (*Mapping Review*)** dan **Protokol Pembaruan Menu Intervensi (*Revision Protocol*)**: bagaimana mengevaluasi tingkat keberhasilan resep-resep bimbingan di setiap akhir semester, membuang metode yang tidak efektif, serta melembagakan inovasi tarbiyah baru para asatidz ke dalam katalog resmi pondok melalui proses pengujian yang terukur.
+> Banyak pesantren mengalami kebuntuan pembinaan karena mempertahankan sanksi-sanksi warisan masa lalu yang sudah tidak relevan dengan profil psikologis anak zaman sekarang. Misalnya, terus memaksakan hukuman fisik push-up bagi santri yang kecanduan gawai, padahal tindakan tersebut terbukti gagal total dan justru memicu dendam tersembunyi.  
+> Jika katalog intervensi tidak pernah dievaluasi secara ilmiah, pesantren akan tertinggal dalam merawat fitrah generasi masa kini. Dokumen ini memaparkan **Siklus Peninjauan Berkala (*Mapping Review*)** dan **Protokol Pembaruan Menu Intervensi (*Revision Protocol*)**: bagaimana mengevaluasi tingkat keberhasilan resep-resep bimbingan di setiap akhir semester, membuang metode yang mandek (*decommissioning*), serta melembagakan inovasi tarbiyah baru para asatidz ke dalam katalog resmi pondok melalui pengujian yang terukur.
 
 ---
 
 ## 1. Hakikat Pembaruan Menu Pemetaan Intervensi
 
-Katalog pemetaan intervensi dalam ekosistem TUMBUH v2.0.0 adalah **dokumen hidup yang senantiasa diperkaya oleh pengalaman empiris lapangan (*living repository*)**, bukan prasasti mati yang diharamkan untuk diubah.
+Katalog pemetaan intervensi dalam ekosistem TUMBUH v2.0.0 adalah **dokumen hidup yang senantiasa diperkaya oleh pengalaman empiris lapangan (*living repository*)**, bukan prasasti mati yang diharamkan untuk diubah atau dikritisi.
 
 ```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                   HUKUM REVISI PEMETAAN KANONIKAL                      │
-│                                                                        │
-│       RESEP YANG BERULANG KALI GAGAL WAJIB DICABUT DARI KATALOG        │
-│       Mempertahankan metode yang terbukti mandek adalah kebodohan.     │
-│                                                                        │
-│       INOVASI TARBIYAH WAJIB DIUJI SEBELUM DITERAPKAN MASSAL           │
-│       Gagasan pembinaan baru harus melalui uji coba terbatas           │
-│       agar tidak menjadikan santri sebagai kelinci percobaan.          │
-└────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                      HUKUM REVISI PEMETAAN KANONIKAL                        │
+│                                                                             │
+│       RESEP YANG BERULANG KALI GAGAL WAJIB DICABUT DARI KATALOG             │
+│       ──► Mempertahankan metode yang terbukti mandek adalah kebodohan       │
+│           yang merugikan masa depan santri asuh.                            │
+│                                                                             │
+│       INOVASI TARBIYAH WAJIB DIUJI SEBELUM DITERAPKAN SECARA MASSAL         │
+│       ──► Setiap gagasan bimbingan baru wajib melalui uji coba terbatas     │
+│           agar santri tidak dijadikan kelinci percobaan liar.               │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+Prinsip ini menegaskan bahwa tradisi tarbiyah Islam senantiasa terbuka terhadap hikmah keilmuan yang bermanfaat (*Al-hikmatu dhallatul mu'min*), sembari menjaga keteguhan prinsip akidah dan akhlak yang tidak boleh bergeser sedikit pun.
 
 ---
 
 ## 2. Siklus Evaluasi Akhir Semester (The Semesterly Mapping Review)
 
-Setiap akhir semester genap dan ganjil, Tim Penjamin Mutu Kepengasuhan menggelar **Majelis Audit Efektivitas Intervensi**:
+Setiap akhir semester genap dan ganjil, Majelis Penjamin Mutu Kepengasuhan bersama pimpinan pondok menggelar **Sidang Evaluasi Efektivitas Intervensi**:
 
 ```text
-Pengumpulan Data Rekap Respons Seluruh Asrama
+1. Pengumpulan Rekapitulasi Data Logbook & Respon Seluruh Asrama
                          ↓
-Analisis Statistik Tingkat Keberhasilan Setiap Resep Bimbingan
+2. Analisis Statistik Keberhasilan Setiap Resep Bimbingan
                          ↓
-Klasifikasi Hasil: Efektif / Perlu Modifikasi / Tidak Efektif
+3. Klasifikasi Tindak Lanjut:
+   ├── Terbukti Efektif  ──► Dibukukan sebagai Standar Praktik Pondok
+   ├── Perlu Modifikasi  ──► Disesuaikan Modul & Rentang Usianya
+   └── Terbukti Mandek   ──► Dicabut Resmi dari Katalog (Decommissioned)
                          ↓
-Pembaruan Resmi Katalog Menu Pemetaan Intervensi Tahun Ajaran Baru
+4. Pengesahan Resmi Katalog Menu Pemetaan Tahun Ajaran Baru oleh Mudir
 ```
 
-### Kategori Tindak Lanjut Resep:
-1. **Resep Terbukti Efektif (*Proven Practices*):** Resep bimbingan yang berhasil membantu perbaikan adab santri di atas 80% kasus (misal: teknik mentoring sebaya J4 untuk adab ranjang) dipertahankan dan dibukukan sebagai panduan standar seluruh musyrif baru.
-2. **Resep Perlu Modifikasi (*Needs Modification*):** Resep yang berhasil pada kelompok santri Aliyah namun gagal pada santri MTs disesuaikan modul pelaksanaannya.
-3. **Resep Dicabut (*Decommissioned*):** Resep yang terbukti menimbulkan resistensi emosional santri, berulang kali gagal, atau berisiko melanggar hak perlindungan anak dicabut secara resmi dari katalog pondok.
+### Tiga Kategori Keputusan Evaluasi Resep:
+1. **Resep Terbukti Efektif (*Proven Practices*):**  
+   Modul bimbingan yang berhasil membantu perbaikan adab santri di atas 80% kasus (misal: *Mentoring Kerapian Lemari oleh Santri J4*) ditetapkan sebagai prosedur standar (*SOP*) yang wajib diajarkan kepada seluruh musyrif baru saat masa orientasi.
+2. **Resep Perlu Modifikasi (*Needs Modification*):**  
+   Modul yang sukses pada kelompok santri usia Aliyah (MA) namun kurang efektif bagi santri Tsanawiyah (MTs) direvisi instruksinya agar lebih konkret dan visual bagi usia yang lebih muda.
+3. **Resep Dicabut / Dihapus (*Decommissioned*):**  
+   Modul yang terbukti berulang kali gagal, menimbulkan resistensi emosional santri, atau berisiko melanggar hak perlindungan anak (*child safeguarding*) dicabut secara resmi dari peredaran dan dilarang digunakan lagi di pondok.
 
 ---
 
-## 3. Protokol 4 Langkah Pengujian Inovasi Intervensi Baru
+## 3. Protokol Empat Tahap Pengujian Inovasi Intervensi Baru
 
-Apabila seorang musyrif atau guru BK menemukan gagasan bimbingan baru yang menjanjikan, gagasan tersebut wajib melewati protokol pengujian 4 tahap sebelum disahkan:
+Apabila seorang musyrif, asatidz, atau konselor BK menemukan gagasan bimbingan baru yang menjanjikan, gagasan tersebut wajib melewati protokol pengujian 4 tahap sebelum disahkan:
 
 ```text
-Tahap 1: Pengajuan Naskah Rasional Pedagogis & Landasan Syar'i
+Tahap 1: Pengajuan Naskah Rasionalitas Pedagogis & Landasan Syar'i
                          ↓
-Tahap 2: Audit Risiko Keselamatan & Safeguarding
+Tahap 2: Audit Risiko Keselamatan & Hak Santri (Safeguarding Audit)
                          ↓
-Tahap 3: Uji Coba Lapangan Terbatas (*Pilot Project* 1 Asrama / 30 Hari)
+Tahap 3: Uji Coba Terbatas di 1 Kamar Asrama Percontohan (Pilot 30 Hari)
                          ↓
-Tahap 4: Sidang Pengesahan Dewan Kurikulum Kepengasuhan Pesantren
+Tahap 4: Sidang Pengesahan & Penerbitan Nomor Kode Resmi (SK Mudir)
 ```
 
-### Rincian 4 Tahap Pengujian:
-1. **Naskah Rasionalitas:** Menguraikan mengapa metode baru ini diusulkan, apa mekanisme batiniah yang dituju, dan apa keunggulannya dibandingkan metode lama.
-2. **Audit Safeguarding:** Memeriksa secara ketat apakah metode baru ini bebas dari potensi kekerasan fisik, manipulasi emosional, atau kebocoran privasi santri.
-3. **Uji Coba Terbatas (*Pilot Testing*):** Diterapkan hanya pada 1 kamar asrama percontohan selama 1 bulan kalender dengan pengawasan intensif konselor BK.
-4. **Sidang Pengesahan Resmi:** Jika data logbook membuktikan adanya respons positif yang nyata tanpa efek samping berbahaya, Mudir menandatangani surat keputusan pengesahan metode tersebut ke dalam katalog resmi TUMBUH.
+### Rincian Empat Tahap Pengujian:
+1. **Tahap 1 (Naskah Rasionalitas):**  
+   Pengusul menyusun naskah ringkas (2–3 halaman) yang menguraikan alasan pengusulan, kapasitas inti (`CC-01` s/d `CC-08`) yang disasar, mekanisme batiniah yang dituju, dan landasan hadits/kitab turats yang menguatkannya.
+2. **Tahap 2 (Audit Safeguarding):**  
+   Tim penjamin mutu memeriksa secara ketat apakah modul baru tersebut bebas dari unsur kekerasan fisik, manipulasi psikologis, pelecehan martabat, atau pelanggaran privasi santri.
+3. **Tahap 3 (Uji Coba Terbatas / Pilot Testing):**  
+   Diterapkan hanya pada 1 kamar asrama percontohan selama 30 hari kalender di bawah pendampingan langsung konselor BK senior. Seluruh bukti respons dicatat harian.
+4. **Tahap 4 (Sidang Pengesahan Resmi):**  
+   Jika data membuktikan tingkat keberhasilan tinggi tanpa ada efek samping negatif, Majelis Pengasuhan menerbitkan Surat Keputusan (SK) dan memberikan Kode Kartu Kendali Resep Intervensi (KKRI) resmi pondok.
 
 ---
 
 ## 4. Pagar Batas Epistemik (Boundary Rules)
 
-1. **Santri Bukan Kelinci Percobaan (*No Unethical Experimentation*):** Dilarang menguji coba metode pembinaan yang aneh-aneh atau berisiko tinggi kepada santri tanpa izin resmi pimpinan pondok.
-2. **Pembaruan Tidak Boleh Menghapus Nilai Turats:** Inovasi modern tidak boleh merusak tradisi adab mulia pesantren yang telah terbukti melahirkan ulama-ulama besar selama berabad-abad.
-3. **Keterlibatan Umpan Balik Santri:** Proses peninjauan efektivitas resep bimbingan wajib meminta masukan jujur dari santri-santri yang telah selesai menjalani bimbingan.
+1. **Santri Bukan Kelinci Percobaan (*No Unethical Experimentation*):** Dilarang keras menguji coba metode pembinaan yang aneh-aneh, ekstrem, atau belum diaudit keselamatannya kepada santri asuh.
+2. **Pembaruan Tidak Boleh Mengikis Nilai Turats:** Inovasi modern harus memperkaya, bukan menggantikan atau merusak tradisi keteladanan akhlak para ulama salafus shalih.
+3. **Mendengar Umpan Balik Santri (*Student Voice*):** Majelis peninjauan wajib menyediakan ruang bagi santri yang telah menyelesaikan masa bimbingan untuk memberikan testimoni jujur mengenai apa yang mereka rasakan selama proses pendampingan.
 
 ---
 

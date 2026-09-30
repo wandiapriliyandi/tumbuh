@@ -1,8 +1,8 @@
-# Identitas dan Batas-Batas Konsep (Construct Identity and Boundaries)
+# 02 — Identitas dan Batas-Batas Konsep (Construct Identity and Boundaries)
 
 **Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Tata Kelola Konstruk TUMBUH v2.0.0  
 **Kode Konstruk:** CIB-v2.0.0  
-**Fungsi Dokumen:** Menegakkan batas-batas ontologis (*negative boundaries*) dan membedakan kapasitas karakter dari proses, fasilitas, performa semu, dan profil lulusan  
+**Fungsi Dokumen:** Menegakkan batas-batas ontologis (*negative boundaries*) dan membedakan kapasitas karakter dari proses, fasilitas, performa semu, dan profil kelulusan  
 
 ---
 
@@ -49,7 +49,7 @@ Dokumen ini menetapkan **Lima Pembeda Ontologis Utama (*The 5 Ontological Distin
 - **Prinsip:**  
   Kapasitas adalah **kemampuan yang melekat pada diri santri**, sedangkan sarana bantuan adalah **fasilitas fisik, teknologi, atau figur pengawas eksternal (*scaffolding*)** yang menopang santri.
 - **Kasus Nyata di Asrama:**  
-  Jam weker digital yang berbunyi kencang di kamar, jadwal piket yang ditempel di pintu, atau teriakan musyrif membangunkan kamar adalah *sarana bantuan*. Santri baru (J1) yang bangun karena ditarik selimutnya oleh musyrif belum memiliki kapasitas regulasi diri mandiri. Kapasitas sejati baru terbukti ketika santri mampu bangun sendiri dan menata selimutnya meskipun musyrif tidak hadir di kamar.
+  Jam weker digital yang berbunyi kencang di kamar, jadwal piket yang ditempel di pintu, atau teriakan musyrif membangunkan kamar adalah *sarana bantuan*. Santri baru (J1) yang bangun karena ditarik selimutnya oleh musyrif belum memiliki kapasitas regulasi diri mandiri. Kapasitas sejati baru terbukti ketika santri mampu bangun sendiri dan merapikan tempat tidurnya meskipun musyrif sedang tidak berada di kamar.
 
 ---
 
@@ -58,7 +58,7 @@ Dokumen ini menetapkan **Lima Pembeda Ontologis Utama (*The 5 Ontological Distin
 - **Prinsip:**  
   Kapasitas adalah **stabilitas karakter yang konsisten melintasi waktu dan tempat**, sedangkan performa sesaat adalah **tindakan situasional yang didorong oleh kehadiran pengawas atau keinginan dipuji (*riya'/sum'ah*)**.
 - **Kasus Nyata di Asrama:**  
-  Seorang santri yang tampak duduk sangat khusyuk dan tertib ketika kepala pondok melintas di selasar baru menunjukkan *performa sesaat*. Jika lima menit kemudian santri tersebut langsung melompat jendela dan mengganggu kawan saat kepala pondok pergi, maka kapasitas regulasi dirinya masih rapuh. Asesmen TUMBUH menolak performa sesaat sebagai bukti sah kematangan adab.
+  Seorang santri yang tampak duduk sangat khusyuk dan tertib ketika kiai atau pimpinan pondok melintas di selasar baru menunjukkan *performa sesaat*. Jika lima menit kemudian santri tersebut langsung melompat jendela dan mengganggu kawan saat kiai pergi, maka kapasitas regulasi dirinya masih rapuh. Asesmen TUMBUH menolak performa sesaat sebagai bukti sah kematangan adab.
 
 ---
 
@@ -67,7 +67,7 @@ Dokumen ini menetapkan **Lima Pembeda Ontologis Utama (*The 5 Ontological Distin
 - **Prinsip:**  
   Profil Kelulusan (*Muwashofat*) adalah **standar normatif cita-cita kepribadian lulusan yang diridhai syariat**, sedangkan Kapasitas Inti adalah **perangkat kerja psikologis-spiritual fungsional** yang dilatih untuk mewujudkan profil tersebut.
 - **Kasus Nyata di Asrama:**  
-  *Shahihul Ibadah* (Ibadah yang Benar) dan *Matinul Khuluq* (Akhlak yang Kokoh) adalah profil lulusan. Untuk mencapai *Shahihul Ibadah*, santri membutuhkan **CC-05 (Fungsi Jasmani)** untuk kesempurnaan gerak wudhu/shalat, dan **CC-01 (Regulasi Diri)** untuk khusyuk menepis pikiran melamun. Profil adalah *tujuan akhir*, kapasitas adalah *mesin penggerak internalnya*.
+  *Shahihul Ibadah* (Ibadah yang Benar) dan *Matinul Khuluq* (Akhlak yang Kokoh) adalah profil kelulusan. Untuk mencapai *Shahihul Ibadah*, santri membutuhkan **CC-05 (Fungsi Jasmani)** untuk kesempurnaan gerak wudhu dan shalat, serta **CC-01 (Regulasi Diri)** untuk khusyuk menepis lamunan batin. Profil adalah *tujuan akhir*, sedangkan kapasitas adalah *mesin penggerak internalnya*.
 
 ---
 
@@ -76,7 +76,7 @@ Dokumen ini menetapkan **Lima Pembeda Ontologis Utama (*The 5 Ontological Distin
 - **Prinsip:**  
   Konteks adalah **lingkungan tata ruang, aturan sosial, dan dinamika iklim ekologis tempat santri berada**, sedangkan kapasitas adalah **kemampuan adaptif santri dalam merespons konteks tersebut**.
 - **Kasus Nyata di Asrama:**  
-  Kamar asrama yang tenang, ber-AC, dan luas adalah *kondisi konteks*. Santri yang hanya bisa belajar khusyuk di ruangan ber-AC namun langsung mengamuk jika listrik padam belum memiliki kapasitas ketahanan belajar (*resilience*). Kapasitas teruji ketika santri tetap beradab dan fokus belajar di tengah keterbatasan fasilitas asrama.
+  Kamar asrama yang tenang, berpendingin udara, dan luas adalah *kondisi konteks*. Santri yang hanya bisa belajar tenang di ruangan berpendingin udara namun langsung mengamuk jika listrik padam belum memiliki kapasitas ketahanan belajar (*resilience*). Kapasitas sejati teruji ketika santri tetap beradab dan fokus belajar di tengah keterbatasan fasilitas asrama.
 
 ---
 

@@ -1,7 +1,16 @@
 # Intensitas Bantuan dan Kesesuaian Kebutuhan Santri (Support Intensity & Fit)
 
+**Kode Kanonikal Dokumen:** `INT-Tier-Fit-v2.0.0`  
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [01_FUNDAMENTAL/06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)
+
+---
+
+> ### Intisari untuk Pendidik & Musyrif
 > **"Kunci kesembuhan bukan pada seberapa pahit dan seberapa banyak obat yang diminum, melainkan pada ketepatan diagnosis dan kesesuaian resepnya."**  
 > Dalam membimbing santri yang bermasalah, asatidz sering kali mengira bahwa semakin lama waktu bimbingan dan semakin keras sanksi yang dijatuhkan (intensitas tinggi), maka santri akan semakin cepat sadar. Kenyataannya, jika seorang anak melanggar aturan karena merasa diintimidasi oleh teman sekamarnya, menambah hukuman membersihkan masjid selama 3 jam setiap hari tidak akan pernah menyelesaikan masalahnya.  
+> 
 > Dokumen ini membedah hubungan antara **Intensitas Bantuan (*Support Intensity*)** dan **Kesesuaian Kebutuhan (*Support Fit*)**: bagaimana memastikan bentuk intervensi benar-benar menyentuh akar masalah psikologis santri, mencegah timbulnya ketergantungan bantuan (*support dependency*), serta menjaga agar bantuan yang diberikan memerdekakan fitrah anak, bukan memanjakannya.
 
 ---
@@ -13,6 +22,7 @@ Dalam ekosistem TUMBUH v2.0.0, efektivitas intervensi ditentukan oleh **kesesuai
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   HUKUM KESESUAIAN BANTUAN TARBIYAH                    │
+├────────────────────────────────────────────────────────────────────────┤
 │                                                                        │
 │       KESESUAIAN RESEP (FIT) > INTENSITAS DOSIS (INTENSITY)            │
 │                                                                        │
@@ -20,6 +30,7 @@ Dalam ekosistem TUMBUH v2.0.0, efektivitas intervensi ditentukan oleh **kesesuai
 │   merusak kesehatan mental santri dan memicu pemberontakan batin.      │
 │   Bimbingan ringan 10 menit yang tepat menyentuh lubuk hati santri     │
 │   jauh lebih ampuh daripada hukuman 5 jam yang salah sasaran.          │
+│                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -42,13 +53,16 @@ Sebelum memutuskan menambah jam atau menaikkan tingkat intervensi santri, asatid
 └──────────────────┘          └──────────────────┘          └──────────────────┘
 ```
 
-1. **Kesesuaian Fungsi Masalah (*Function Fit*):** Apakah bentuk intervensi menjawab motif batin santri? Jika santri berbuat gaduh di kelas untuk mencari perhatian kawan, menyuruhnya berdiri di depan kelas justru memberinya panggung perhatian yang ia cari (*reinforcing the bad behavior*). Intervensi yang tepat adalah memberinya peran positif sebagai pemimpin kelompok.
-2. **Kesesuaian Konteks Lingkungan (*Ecological Fit*):** Apakah intervensi dapat dijalankan secara realistis dalam jadwal harian pesantren 24 jam tanpa merusak waktu tidur, waktu makan, atau waktu shalat santri?
-3. **Kesesuaian Tahap Perkembangan Santri (*Developmental Fit*):** Apakah bahasa, analogi, dan tuntutan tugas sesuai dengan usia perkembangan santri? Santri jenjang awal (usia 12–13 tahun) membutuhkan peraga visual dan bimbingan konkret, sedangkan santri Aliyah (usia 16–17 tahun) membutuhkan dialog nalar filosofis dan kepercayaan tanggung jawab.
+1. **Kesesuaian Fungsi Masalah (*Function Fit*):**  
+   Apakah bentuk intervensi menjawab motif batin santri? Jika santri berbuat gaduh di kelas untuk mencari perhatian kawan, menyuruhnya berdiri di depan kelas justru memberinya panggung perhatian yang ia cari (*reinforcing the bad behavior*). Intervensi yang tepat adalah memberinya peran positif sebagai pemimpin kelompok.
+2. **Kesesuaian Konteks Lingkungan (*Ecological Fit*):**  
+   Apakah intervensi dapat dijalankan secara realistis dalam jadwal harian pesantren 24 jam tanpa merusak waktu tidur, waktu makan, atau waktu shalat santri?
+3. **Kesesuaian Tahap Perkembangan Santri (*Developmental Fit*):**  
+   Apakah bahasa, analogi, dan tuntutan tugas sesuai dengan usia perkembangan santri? Santri jenjang awal (usia 12–13 tahun) membutuhkan peraga visual dan bimbingan konkret, sedangkan santri Aliyah (usia 16–17 tahun) membutuhkan dialog nalar filosofis dan kepercayaan tanggung jawab.
 
 ---
 
-## 3. Matriks Diagnosa Masalah vs. Resep Intervensi yang Cocok
+## 3. Matriks Diagnosa Masalah vs Resep Intervensi yang Cocok
 
 Berikut adalah contoh panduan lapangan bagi musyrif dalam membedakan antara intervensi yang salah sasaran dengan intervensi yang cocok secara fungsional:
 
@@ -67,29 +81,34 @@ Dukungan yang berlebihan tanpa rencana pelepasan yang terukur dapat melahirkan p
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   HUKUM PELEPASAN PERANCAH (SCAFFOLDING)               │
+├────────────────────────────────────────────────────────────────────────┤
 │                                                                        │
 │   BANTUAN DIBERIKAN UNTUK MEMBUAT SANTRI TIDAK MEMBUTUHKAN KITA LAGI   │
 │                                                                        │
 │   Jika seorang santri kelas 9 masih harus dibangunkan shalat dengan    │
 │   cara ditarik tangannya setiap hari, sistem pengasuhan telah gagal    │
 │   menumbuhkan kemandirian fitrahnya.                                   │
+│                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Prinsip Pelepasan Tanggung Jawab Bertahap (*Gradual Release*):
-- **Hari 1–7:** Musyrif mendampingi langsung dan membangunkan santri di ranjangnya.
-- **Hari 8–14:** Musyrif hanya memanggil dari pintu kamar dan santri harus bangkit sendiri.
-- **Hari 15–21:** Santri menyetel jam weker sendiri atau bersepakat bangun bersama teman sekamarnya tanpa campur tangan musyrif.
-- **Hari 22 ke atas:** Santri bangun secara mandiri dan dipercaya menjadi pengingat bagi kawan yang lain.
+### Prinsip Pelepasan Tanggung Jawab Bertahap (*Gradual Release of Responsibility*):
+- **Fase 1 (Pekan 1):** Musyrif mendampingi langsung dan membangunkan santri di samping ranjangnya;
+- **Fase 2 (Pekan 2):** Musyrif hanya memanggil dari pintu kamar dan santri harus bangkit sendiri;
+- **Fase 3 (Pekan 3):** Santri menyetel jam weker sendiri atau bersepakat bangun bersama teman sekamarnya tanpa campur tangan musyrif;
+- **Fase 4 (Pekan 4 ke atas):** Santri bangun secara mandiri dan dipercaya menjadi pengingat bagi kawan yang lain.
 
 ---
 
 ## 5. Pagar Batas Epistemik (Boundary Rules)
 
-1. **Intensitas Tinggi Bukan Ukuran Pahala Pengasuhan:** Musyrif tidak boleh berbangga diri karena berhasil memberi hukuman paling lama atau paling berat di pondok.
-2. **Larangan Intervensi Tanpa Hipotesis Fungsi:** Dilarang memberikan tindakan intervensi apa pun sebelum asatidz merumuskan apa motif dan kebutuhan batiniah di balik perilaku santri.
-3. **Penyelarasan Beban Mental:** Intervensi tidak boleh membebani santri dengan jadwal bimbingan yang begitu padat hingga ia kehilangan waktu bermain dan bersosialisasi yang sehat bersama teman-temannya.
+1. **Intensitas Tinggi Bukan Ukuran Pahala Pengasuhan:** Musyrif dilarang berbangga diri karena berhasil memberi sanksi paling lama atau paling berat di pondok;
+2. **Larangan Intervensi Tanpa Hipotesis Fungsi:** Dilarang memberikan tindakan intervensi apa pun sebelum asatidz merumuskan motif dan kebutuhan batiniah di balik perilaku santri;
+3. **Penyelarasan Beban Mental:** Intervensi tidak boleh membebani santri dengan jadwal bimbingan yang begitu padat hingga ia kehilangan waktu istirahat dan sosialisasi yang sehat.
 
 ---
 
-> **Keputusan Prinsip:** Intensitas bantuan dan kesesuaian kebutuhan (*Support Intensity & Fit*) adalah wujud kecerdasan pedagogis (*hikmah tarbawiyyah*) para asatidz. Dengan mengenali akar kebutuhan secara jernih, bantuan yang kita ulurkan menjadi penawar yang mujarab bagi hati santri, bukan racun yang melemahkan jiwa mereka.
+## 6. Kalimat Penutup
+
+> **Intensitas bantuan dan kesesuaian kebutuhan adalah wujud kecerdasan pedagogis (*hikmah tarbawiyyah*) para asatidz.**  
+> Dengan mengenali akar kebutuhan secara jernih, bantuan yang kita ulurkan menjadi penawar yang mujarab bagi hati santri, bukan racun yang melemahkan jiwa mereka.

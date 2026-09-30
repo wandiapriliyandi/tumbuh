@@ -1,107 +1,144 @@
-# Keterlacakan Rekam Jejak dan Tata Kelola Pemantauan Longitudinal (Monitoring Traceability and Governance)
+# Keterlacakan Rekam Jejak dan Tata Kelola Pemantauan Longitudinal
+## *Monitoring Traceability, Epistemic Alignment, and Anti-Stigma Governance*
 
-> **Data yang terekam sepanjang waktu adalah cermin perjalanan hidup santri, bukan catatan intelijen untuk memata-matai.**  
-> Ketika santri tinggal di pesantren selama bertahun-tahun, data pemantauannya akan menumpuk menjadi arsip longitudinal yang sangat rinci: dari catatan pertama saat ia menangis rindu rumah di kelas 7, hingga saat ia memimpin doa di kelas 12.  
-> Dokumen ini mengatur **rantai keterlacakan (*traceability*) dan tata kelola etika data pemantauan**: bagaimana memastikan setiap catatan perkembangan dapat dipertanggungjawabkan sanad pengamatannya, bagaimana menjaga agar arsip masa lalu tidak dijadikan alat untuk mendiskriminasi santri (*right to be forgiven*), serta bagaimana memastikan data digital tersimpan secara aman dan terenkripsi.
+**Status Dokumen:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Asesmen TUMBUH v2.0.0  
+**Status Epistemik:** Dirancang Secara Konseptual; Sementara Secara Empiris (*Conceptually Specified; Empirically Provisional*)  
+**Kode Konstruk:** MON-Trace-v2.0.0  
+
+> **Kaidah Amanah Keilmuan Pesantren:**  
+> **"Data yang terekam sepanjang waktu adalah cermin perjalanan fitrah santri, bukan berkas intelijen untuk memata-matai atau mengadili masa lalu anak."**  
+> Ketika seorang santri tinggal di pondok pesantren selama bertahun-tahun, data pemantauannya akan menumpuk menjadi arsip longitudinal yang sangat rinci: dari catatan pertama saat ia menangis karena rindu rumah di kelas 7, hingga saat ia berdiri memimpin doa di hadapan ratusan santri di kelas 12.  
+> Dokumen ini mengatur **rantai keterlacakan (*traceability*) dan tata kelola etika data pemantauan**: bagaimana memastikan setiap catatan perkembangan dapat dipertanggungjawabkan sanad pengamatannya, bagaimana menjaga agar arsip masa lalu tidak dijadikan alat untuk mendiskriminasi santri (*right to be forgiven / right to move forward*), serta bagaimana memastikan data digital tersimpan secara aman, terenkripsi, dan bebas manipulasi.
 
 ---
 
-## 1. Rantai Keterlacakan Pemantauan Kanonikal (*Traceability Chain*)
+## 1. Rantai Keterlacakan Pemantauan Kanonikal (*The Traceability Chain*)
 
-Setiap data pemantauan yang digunakan untuk penyesuaian bimbingan santri wajib dapat ditelusuri alur logisnya dari hulu ke hilir:
+Setiap data pemantauan yang digunakan untuk penyesuaian bimbingan santri wajib dapat ditelusuri alur logisnya dari hulu ke hilir tanpa terputus:
 
 ```text
-Tujuan Pemantauan Resmi (Monitoring Purpose)
-                     ↓
-Pertanyaan Pemantauan Terarah (Monitoring Question)
-                     ↓
-Kapasitas Inti Terkait (Construct: CC-01 s/d CC-08)
-                     ↓
-Sumber & Instrumen yang Digunakan (Observer, Self, Peer)
-                     ↓
-Titik Waktu Pengamatan (Timepoint: Tanggal & Jam)
-                     ↓
-Konteks Lingkungan, Beban Tugas, & Bantuan yang Ada
-                     ↓
-Data Bukti Nyata Teramati (Observed Evidence)
-                     ↓
-Telaah Majelis Asatidz (Evidence Review)
-                     ↓
-Penafsiran Perubahan Berlingkup (Change Interpretation)
-                     ↓
-Keputusan Tindak Lanjut Bimbingan (Pedagogical Action)
-                     ↓
-Jadwal Evaluasi Berikutnya (Next Scheduled Review)
+┌────────────────────────────────────────────────────────────────────────┐
+│            RANTAI KETERLACAKAN PEMANTAUAN KANONIKAL TUMBUH             │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│   [1. TUJUAN PEMANTAUAN RESMI (Monitoring Purpose)]                    │
+│   • Menetapkan alasan syar'i & pedagogis pemantauan anak               │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [2. PERTANYAAN PEMANTAUAN TERARAH (Targeted Question)]               │
+│   • Fokus eksplorasi perilaku adab yang dicari                         │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [3. RUJUKAN KAPASITAS INTI KANONIKAL (Construct CC-01 s/d CC-08)]    │
+│   • Tersambung langsung ke Registri Konstruk resmi                     │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [4. SUMBER & INSTRUMEN YANG DIGUNAKAN (Source & Tool)]               │
+│   • Logbook Musyrif, Lembar Muhasabah Diri, atau Apresiasi Sebaya      │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [5. TITIK WAKTU PENGAMATAN (Timestamp: Hari, Tanggal, & Jam)]        │
+│   • Rekaman waktu yang presisi saat pengamatan dilakukan               │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [6. KONTEKS LINGKUNGAN, BEBAN TUGAS, & BANTUAN YANG ADA]             │
+│   • Situasi kamar, kondisi fisik santri, dan arahan asatidz            │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [7. DATA BUKTI NYATA TERAMATI (Observed Empirical Evidence)]         │
+│   • Catatan faktual apa yang dilakukan dan diucapkan santri            │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [8. TELAAH MAJELIS ASATIDZ (Cross-Evidence Review)]                  │
+│   • Musyawarah mingguan untuk membedah data secara bijak               │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [9. PENAFSIRAN PERUBAHAN BERLINGKUP (Scoped Interpretation)]         │
+│   • Pemaknaan tren adab yang sadar konteks tanpa vonis kaku            │
+│                 │                                                      │
+│                 ▼                                                      │
+│   [10. KEPUTUSAN TINDAK LANJUT & JADWAL EVALUASI BERIKUTNYA]           │
+│   • Penyesuaian perancah bimbingan dan jadwal pemantauan lanjutan      │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-Jika ada keputusan bimbingan yang tidak dapat ditelusuri rantai buktinya (misalnya: santri diturunkan jenjangnya hanya berdasarkan "isu di kamar"), maka keputusan tersebut batal secara arsitektural.
+> **Kaidah Hukum:** Jika ada keputusan pengasuhan yang tidak dapat ditelusuri rantai buktinya (misalnya: seorang santri diturunkan jenjang kemandiriannya hanya berdasarkan selentingan isu kamar tanpa rekaman logbook), maka keputusan tersebut **batal secara arsitektural**.
 
 ---
 
-## 2. Sepuluh Komponen Rekam Jejak Pemantauan Minimal (*Minimum Monitoring Record*)
+## 2. Sepuluh Komponen Rekam Jejak Pemantauan Minimal
 
-Setiap lembar catatan pemantauan santri (baik format kertas maupun digital) sekurang-kurangnya memuat sepuluh informasi:
+Setiap lembar catatan pemantauan santri (baik format buku saku fisik maupun aplikasi digital) wajib memuat sepuluh informasi minimum:
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│             10 ELEMEN REKAM JEJAK PEMANTAUAN RESMI           │
-├────┬────────────────────────┬────────────────────────────────┤
-│ 1  │ Identitas Santri       │ Nama lengkap & kamar asrama    │
-│ 2  │ Fokus Kapasitas        │ Kode CC-01 s/d CC-08           │
-│ 3  │ Tanggal & Waktu        │ Kapan perilaku teramati        │
-│ 4  │ Lokasi / Setting       │ Masjid, kamar, kelas, kantin   │
-│ 5  │ Perilaku Teramati      │ Catatan deskriptif faktual     │
-│ 6  │ Konteks Hambatan       │ Suhu, kesehatan, situasi darurat│
-│ 7  │ Bantuan yang Menyertai │ Bantuan penuh / mandiri        │
-│ 8  │ Penilai / Pengamat     │ Nama asatidz penanggung jawab  │
-│ 9  │ Sinyal Peringatan      │ Hijau / Kuning / Merah         │
-│ 10 │ Rencana Tindak Lanjut  │ Langkah konfirmasi berikutnya  │
-└────┴────────────────────────┴────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│             SEPULUH ELEMEN REKAM JEJAK PEMANTAUAN RESMI                │
+├────┬────────────────────────┬──────────────────────────────────────────┤
+│ 01 │ Identitas Santri       │ Nama lengkap santri, kelas, & kamar      │
+│ 02 │ Fokus Kapasitas        │ Rujukan resmi kode CC-01 s/d CC-08       │
+│ 03 │ Tanggal & Waktu        │ Kapan perilaku teramati secara spesifik  │
+│ 04 │ Lokasi Pengamatan      │ Masjid, kamar, madrasah, atau kantin     │
+│ 05 │ Perilaku Teramati      │ Catatan deskriptif faktual (tanpa label) │
+│ 06 │ Konteks Hambatan       │ Suhu kamar, kesehatan, atau situasi lelah│
+│ 07 │ Bantuan yang Menyertai │ Derajat bantuan (penuh, isyarat, mandiri)│
+│ 08 │ Penilai / Pengamat     │ Nama musyrif atau asatidz penanggungjawab│
+│ 09 │ Status Sinyal          │ Level sinyal peringatan: Hijau/Kuning/   │
+│    │                        │ Merah                                    │
+│ 10 │ Rencana Tindak Lanjut  │ Langkah konfirmasi atau jadwal telaah    │
+└────┴────────────────────────┴──────────────────────────────────────────┘
 ```
 
 ---
 
-## 3. Penyelarasan dengan Construct Registry dan Claim Registry
+## 3. Penyelarasan dengan Registri Konstruk dan Registri Klaim
 
-Data pemantauan longitudinal terikat pada disiplin epistemik TUMBUH:
-- **Tunduk pada Construct Registry:** Pemantauan tidak boleh diam-diam menciptakan definisi karakter baru di luar 8 Kapasitas Inti kanonikal.
-- **Tunduk pada Claim Registry:** Mengumpulkan data pengamatan berulang kali selama 1 semester **tidak otomatis membuktikan bahwa sebuah karakter telah mendarah daging secara mutlak (*malakah*)**, dan tidak membuktikan bahwa perubahan tersebut 100% disebabkan oleh suatu program intervensi tertentu. Status klaim tetap dijaga sebagai kesimpulan teramati yang berlingkup (*scoped observational claim*).
+Data pemantauan longitudinal wajib tunduk pada disiplin epistemik TUMBUH v2.0.0:
+- **Tunduk pada Registri Konstruk ([06_CONSTRUCT_REGISTRY](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/06_CONSTRUCT_REGISTRY/)):**  
+  Pemantauan dilarang menciptakan definisi karakter baru secara diam-diam di luar Delapan Kapasitas Inti kanonikal;
+- **Tunduk pada Registri Klaim ([07_CLAIM_REGISTRY](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/03_CORE_MODEL/07_CLAIM_REGISTRY/)):**  
+  Menghimpun data pengamatan berulang selama satu semester **tidak otomatis membuktikan bahwa sebuah karakter telah membatin permanen (*malakah*)**, dan tidak membuktikan bahwa perubahan santri 100% disebabkan oleh suatu metode pelatihan tertentu. Status klaim tetap dijaga sebagai kesimpulan teramati yang berlingkup (*scoped observational claim*).
 
 ---
 
-## 4. Perlindungan Privasi dan Hak Penghapusan Stigma (*Right to Move Forward*)
+## 4. Perlindungan Privasi dan Hak Memulai Lembaran Baru (*Right to Move Forward*)
 
-Data longitudinal berpotensi membentuk profil yang sangat detail mengenai diri seorang santri. Oleh karena itu, berlaku tata kelola perlindungan martabat:
+Data longitudinal berpotensi membentuk profil rekam jejak yang sangat detail mengenai kepribadian anak. Oleh karena itu, TUMBUH menegakkan piagam perlindungan martabat:
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    PRINSIP PERLINDUNGAN MARTABAT             │
-│                                                              │
-│       DATA MASA LALU ADALAH SEJARAH PEMBINAAN,               │
-│       BUKAN SURAT VONIS SEUMUR HIDUP.                        │
-│                                                              │
-│  Santri berhak memulai hari baru dengan prasangka baik       │
-│  setelah ia bertaubat dan memperbaiki adabnya.               │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│                    PRINSIP PERLINDUNGAN MARTABAT SANTRI                │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│       DATA MASA LALU ADALAH SEJARAH TAHAPAN PEMBINAAN,                 │
+│       BUKAN SURAT VONIS SEUMUR HIDUP BAGI SEORANG ANAK.                │
+│                                                                        │
+│  Setiap santri berhak memulai hari baru dengan prasangka baik setelah  │
+│  ia bertaubat, memperbaiki adabnya, dan berusaha menjadi lebih baik.   │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Pedoman Pengamanan Privasi:
-1. **Hak Akses Terbatas (*Role-Based Access*):** Hanya musyrif yang sedang membina santri yang berhak membuka catatan riwayatnya. Alumni atau pengurus organisasi santri dilarang keras mengakses arsip kasus adik kelasnya.
-2. **Pemusnahan Catatan Insiden Ringan:** Catatan pelanggaran adab ringan yang telah selesai dibimbing dan diselesaikan secara tuntas dimusnahkan atau diarsipkan tertutup setiap akhir tahun ajaran.
-3. **Larangan Melabeli Santri:** Dilarang menyebut santri dengan julukan berbasis data masa lalu (seperti *"si langganan sinyal kuning"*).
+### Pedoman Pengamanan Privasi Santri:
+1. **Hak Akses Terbatas Berjenjang (*Role-Based Access Control*):**  
+   Hanya musyrif dan wali asuh yang sedang membina santri yang berhak membuka catatan riwayat perkembangannya. Alumni atau pengurus organisasi santri dilarang keras mengakses arsip kasus adik kelasnya.
+2. **Pemusnahan Catatan Pelanggaran Ringan (*Purging Protocol*):**  
+   Catatan pelanggaran adab ringan yang telah selesai dibimbing dan diperbaiki wajib diarsipkan tertutup atau dimusnahkan pada setiap akhir tahun ajaran, agar tidak menghalangi masa depan anak.
+3. **Larangan Melabeli Santri Berbasis Arsip Masa Lalu:**  
+   Asatidz dilarang keras memanggil santri dengan julukan berbasis data masa lalu (seperti *"si anak sinyal kuning"* atau *"si pembuat onar"*).
 
 ---
 
 ## 5. Tata Kelola Pemantauan Digital dan Otomasi AI
 
-Jika pesantren menerapkan sistem logbook digital:
-- Data santri wajib disimpan dalam server yang aman dengan enkripsi kata sandi.
-- Modul AI hanya berfungsi menampilkan rangkuman grafik keteraturan santri, bukan mengambil keputusan sanksi.
-- Setiap entri catatan yang diubah atau dihapus wajib meninggalkan jejak audit (*audit trail*) untuk mencegah manipulasi data.
+Jika pesantren menerapkan aplikasi logbook digital:
+- Seluruh basis data santri wajib tersimpan dalam server yang aman dengan enkripsi kata sandi berstandar tinggi;
+- Modul AI hanya berfungsi merangkum grafik keteraturan santri untuk mempermudah telaah manusia, bukan mengambil keputusan sanksi atau pemindahan jenjang;
+- Setiap entri catatan yang diubah atau dihapus wajib meninggalkan jejak rekam audit digital (*audit trail*) yang transparan guna mencegah manipulasi data.
 
 ---
 
-## 6. Kalimat Penutup
+## 6. Status Keabsahan Dokumen (Epistemic Status)
 
-> **Tata kelola pemantauan adalah bukti amanah keilmuan para pembina.**  
-> Ketika kita merawat catatan santri dengan rapi, menjaga kerahasiaannya dari mata-mata yang tidak berhak, dan memperlakukannya sebagai sarana berbuat adil, kita sedang mempraktikkan ajaran Islam yang paling luhur tentang menjaga amanah dan memuliakan kehormatan sesama mukmin.
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Pedoman keterlacakan dan tata kelola pemantauan ini mengikat secara hukum bagi seluruh pengasuh asrama dan asatidz di lingkungan TUMBUH v2.0.0.

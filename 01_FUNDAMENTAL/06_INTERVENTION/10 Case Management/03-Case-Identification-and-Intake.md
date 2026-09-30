@@ -1,13 +1,31 @@
 # Identifikasi Kasus dan Penerimaan Awal (Case Identification and Intake)
 
-> **"Pintu pertolongan harus terbuka lebar bagi santri yang membutuhkan, namun pintu kepo dan penyelidikan liar harus dikunci rapat dengan amanah."**  
-> Proses identifikasi dan penerimaan awal (*intake*) adalah gerbang pertama manajemen kasus. Tujuannya adalah menyaring sinyal kekhawatiran dari musyrif atau guru kelas, memisahkan fakta riil dari asumsi berlebihan, dan menentukan apakah santri benar-benar membutuhkan tim koordinasi khusus. Kita hanya mencatat apa yang relevan untuk menolong anak, tanpa mengorek-orek masa lalu keluarganya yang tidak ada kaitannya dengan pembinaan.
+**ID Kanonikal:** `INT-CASE-INT-v2.0.0`  
+**Status Lapisan:** `01_FUNDAMENTAL` (Pedoman Inti Intervensi & Etika Pengasuhan)  
+**Status Epistemik:** *Conceptually Specified; Empirically Provisional* (Memerlukan pembiasaan triase di lapangan)  
+**Rujukan Silang Dokumen:**
+- [Prinsip dan Etika Intervensi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Ethical-Foundations-of-Intervention.md)
+- [Arsitektur Manajemen Kasus](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/01-Case-Management-Architecture.md)
+- [Audit Arsitektur Manajemen Kasus](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/02-Case-Management-Audit.md)
+- [Perencanaan dan Koordinasi Kasus](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/04-Case-Planning-and-Coordination.md)
+- [Peran, Komunikasi, dan Persetujuan](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/10%20Case%20Management/05-Roles-Communication-and-Consent.md)
 
 ---
 
-## 1. Alur Rantai Penerimaan Kasus Kanonikal
+> [!NOTE]
+> ### Intisari untuk Pendidik, Musyrif, dan Tim BK Pesantren
+> 1. **Pintu Masuk Pertolongan:** *"Pintu pertolongan harus terbuka lebar bagi santri yang membutuhkan, namun pintu kepo dan penyelidikan liar harus dikunci rapat dengan amanah."*
+> 2. **Alur Triase Empat Simpul:** Memastikan setiap laporan sinyal kekhawatiran disaring secara objektif (*Signal ➔ Intake ➔ Need Clarification ➔ Case Plan*), membedakan masalah disiplin harian biasa dari krisis khusus Tier 3.
+> 3. **Etika Minimasi Data (*Data Minimization*):** Pendidik wajib menahan diri dari godaan mengorek aib masa lalu atau urusan privat keluarga santri yang tidak memiliki keterkaitan langsung dengan keselamatan dan bimbingan adab anak di pondok.
+> 4. **Bukan Surat Dakwaan:** Lembar penerimaan kasus (*case intake sheet*) adalah instrumen permohonan perlindungan dan pertolongan tarbiyah, bukan berkas perkara pidana penuntutan kesalahan anak.
 
-Proses penerimaan awal bergerak melalui empat simpul triase yang ketat:
+---
+
+## 1. Hakikat dan Alur Rantai Penerimaan Kasus
+
+Proses identifikasi dan penerimaan awal (*case intake*) adalah gerbang pertama dalam sistem manajemen kasus terpadu. Tujuannya adalah menyaring sinyal-sinyal kegelisahan santri yang teramati oleh musyrif kamar atau guru madrasah, memisahkan fakta riil dari prasangka subjektif, dan menentukan apakah kasus tersebut memenuhi syarat eskalasi ke penanganan formal.
+
+Alur penerimaan kasus bergerak melalui empat simpul penalaran sistematis:
 
 ```text
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
@@ -17,36 +35,72 @@ Proses penerimaan awal bergerak melalui empat simpul triase yang ketat:
 └─────────────────┘      └─────────────────┘      └─────────────────┘      └─────────────────┘
 ```
 
-### Penjelasan Simpul Rantai:
-1. **Signal / Referral:** Musyrif kamar atau guru kelas melaporkan indikasi santri yang membutuhkan penanganan intensif (misal: santri tidak mau makan 3 hari atau menarik diri total).
-2. **Case Intake:** Koordinator BK meninjau laporan; memeriksa apakah memenuhi ambang batas Tier 3 atau cukup diselesaikan di tingkat kamar (Tier 2).
-3. **Need Clarification:** Dialog tabayyun dengan pihak pelapor dan santri terkait guna mengidentifikasi kebutuhan inti tanpa prasangka.
-4. **Case Plan:** Jika disetujui, kasus dibuka secara resmi dan tim pendamping dibentuk.
+### Penjabaran Empat Simpul Rantai:
+1. **Signal / Referral (Laporan Sinyal):** Musyrif kamar atau wali kelas mengamati tanda bahaya (misal: santri tidak mau makan 3 hari, menangis histeris di ranjang, atau tubuhnya gemetar ketakutan).
+2. **Case Intake (Penyaringan Triase):** Koordinator BK memeriksa kelayakan laporan: apakah kasus ini tergolong masalah adaptasi ringan yang cukup dibimbing musyrif kamar (Tier 2), ataukah membutuhkan tim terpadu (Tier 3).
+3. **Need Clarification (Tabayyun Kebutuhan):** Dialog santai dan hangat bersama santri untuk memahami apa yang sedang dirasakannya tanpa intimidasi atau nada interogasi.
+4. **Case Plan (Aktivasi Kasus):** Jika terbukti kompleks dan berisiko, status manajemen kasus dibuka secara resmi dan tim pendamping lintas peran dibentuk.
 
 ---
 
-## 2. Kriteria Triase: Kasus Formal vs Bimbingan Rutin
+## 2. Kriteria Triase: Kasus Formal vs Bimbingan Rutin Kamar
 
-Tidak semua masalah santri dijadikan kasus formal manajemen kasus:
+Tidak semua kendala santri harus dijadikan manajemen kasus formal. Lembaga wajib menegakkan batas triase yang jelas:
 
-| Situasi Santri di Pondok | Jalur Penanganan yang Tepat | Alasan Keputusan |
-| :--- | :--- | :--- |
-| **Santri terlambat shalat atau malas mencuci baju** | Bimbingan Rutin Musyrif (Tier 1 & 2) | Masalah pembiasaan adab normal; cukup didampingi musyrif kamar tanpa tim khusus. |
-| **Santri berselisih ringan dengan teman sekamar** | Mediasi Restoratif Kamar (Tier 2) | Dapat diselesaikan dengan ishlah lokal tanpa perlu melibatkan dewan pimpinan pondok. |
-| **Santri mogok belajar total, menangis histeris tiap malam, atau ada indikasi kekerasan seksual** | **Manajemen Kasus Formal (Tier 3)** | Melibatkan risiko psikologis/fisik tinggi; menuntut koordinasi BK, medis, pimpinan, dan orang tua. |
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 MATRIKS TRIASE PENERIMAAN KASUS PESANTREN                   │
+├─────────────────────┬───────────────────────────────┬───────────────────────┤
+│ SITUASI SANTRI      │ JALUR PENANGANAN YANG TEPAT   │ ALASAN PEDAGOGIS      │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ Santri bangun tidur │ Bimbingan Rutin Kamar         │ Pembiasaan adab wajar;│
+│ kesiangan atau lupa │ (Universal Tier 1)            │ cukup diingatkan oleh │
+│ mencuci baju.       │                               │ musyrif kamar harian. │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ Santri berselisih   │ Mediasi Restoratif Asrama     │ Konflik sebaya ringan │
+│ adu mulut karena    │ (Targeted Tier 2)             │ dapat diselesaikan    │
+│ berebut gayung air. │                               │ secara kekeluargaan.  │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ Santri mogok belajar│ Manajemen Kasus Formal        │ Risiko keselamatan &  │
+│ total, depresi berat│ (Intensive Tier 3)            │ psikologis tinggi;    │
+│ atau terindikasi    │                               │ menuntut sinergi BK,  │
+│ disakiti fisik.     │                               │ medis, dan pimpinan.  │
+└─────────────────────┴───────────────────────────────┴───────────────────────┘
+```
 
 ---
 
 ## 3. Prinsip Minimasi Data Saat Penerimaan (*Data Minimization at Intake*)
 
-Pendidik wajib menahan diri dari sifat ingin tahu berlebihan (*curiosity trap*):
-- **Hanya Catat yang Relevan:** Catat gejala perilaku yang teramati, frekuensi kejadian, dan dampak keselamatan.
-- **Larangan Eksplorasi Aib:** Dilarang menanyakan hal-hal pribadi keluarga santri (seperti kondisi ekonomi atau riwayat pernikahan orang tua) kecuali jika secara langsung terbukti menjadi akar masalah santri di pondok.
+Pendidik di pesantren sering kali terjebak dalam perangkap rasa ingin tahu liar (*the curiosity trap*): mengulik urusan pribadi keluarga santri yang sama sekali tidak relevan dengan masalah pondok.
+
+TUMBUH menetapkan etika ketat minimasi data:
+- **Hanya Catat yang Relevan:** Catat gejala perilaku yang tampak secara fisik, frekuensi kemunculannya, durasi berlangsungnya, dan potensi bahaya keselamatannya.
+- **Larangan Eksplorasi Aib Masa Lalu:** Dilarang menanyakan masa lalu rumah tangga orang tua, nominal penghasilan keluarga, atau rahasia pribadi yang tidak menjadi faktor pemicu krisis santri di pondok.
+- **Bahasa Catatan Faktual:** Tulis: *"Santri mengeluhkan sakit kepala dan tidak mau keluar kamar sejak hari Selasa"*, bukan *"Santri malas dan suka cari perhatian ustadz"*.
 
 ---
 
 ## 4. Pagar Batas Epistemik (*Boundary Rules*)
 
-1. **Status Kasus Bukan Label Identitas:** Santri yang tercatat dalam berkas intake tidak boleh dipanggil atau dijuluki sebagai "anak kasus".
-2. **Bukan Surat Dakwaan:** Formulir intake adalah permohonan pertolongan dan perlindungan anak, bukan berkas penuntutan pelanggaran pidana.
-3. **Kerahasiaan Sumber Pelapor:** Jika pelapor adalah santri lain (rekan sebaya), identitasnya wajib dilindungi dari potensi intimidasi.
+1. **Status Kasus Bukan Julukan Identitas:**
+   Santri yang terdaftar dalam formulir intake diharamkan dipanggil atau dijuluki sebagai "santri kasus". Status kasus adalah kode berkas administrasi internal, bukan stempel manusia.
+2. **Bukan Berkas Perkara Kriminal:**
+   Lembar penerimaan kasus adalah dokumen tarbiyah permohonan pertolongan anak, bukan berita acara kepolisian untuk menghukum santri.
+3. **Perlindungan Identitas Pelapor (*Whistleblower Protection*):**
+   Jika laporan awal berasal dari kawan sekamar atau santri junior, identitas pelapor wajib dilindungi secara mutlak guna mencegah intimidasi sosial (*retaliation*).
+
+---
+
+## 5. Ringkasan Hubungan Sistemik
+
+```text
+[INT-CASE-ARCH-v2.0.0] Arsitektur Manajemen Kasus
+         │
+         ▼
+[INT-CASE-INT-v2.0.0] Triase & Penerimaan Kasus (Minimasi Data)
+         │
+         ├────────────────────────────────────────┐
+         ▼                                        ▼
+[INT-CASE-PLN-v2.0.0] Rencana Aksi Kasus Terpadu [INT-CASE-ROL-v2.0.0] Pembatasan Akses
+```

@@ -1,4 +1,4 @@
-# Keterlacakan Arsitektur Dua Arah (Bidirectional Architectural Traceability)
+# 01 — Keterlacakan Arsitektur Dua Arah (Bidirectional Architectural Traceability)
 
 **Status:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Keterlacakan TUMBUH v2.0.0  
 **Kode Konstruk:** BAT-v2.0.0  
@@ -8,7 +8,7 @@
 
 ## 1. Hakikat Silsilah Dua Arah
 
-Dalam arsitektur TUMBUH v2.0.0, pembinaan karakter santri dipandang sebagai jembatan dua arah yang utuh. Setiap keputusan pengasuhan tidak boleh menjadi "kebijakan yatim piatu" yang kehilangan akar dasarnya, dan tidak boleh ada nilai normatif yang mengambang tanpa manifestasi terukur di asrama.
+Dalam arsitektur TUMBUH v2.0.0, pembinaan karakter santri dipandang sebagai jembatan dua arah yang utuh dan saling menguatkan. Setiap keputusan pengasuhan tidak boleh menjadi "kebijakan yatim piatu" yang kehilangan akar dasarnya, dan tidak boleh ada nilai normatif yang mengambang tanpa manifestasi terukur di asrama.
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -32,26 +32,26 @@ Dalam arsitektur TUMBUH v2.0.0, pembinaan karakter santri dipandang sebagai jemb
 ```
 
 1. **Arah Turun (*Forward Trace*):**  
-   Menjamin bahwa setiap aturan tata tertib asrama, jadwal kegiatan, dan tugas santri memiliki legitimasi yang bersumber dari Pandangan Hidup Islam (*Islamic Worldview*) dan Profil Kelulusan Santri.
+   Menjamin bahwa setiap aturan tata tertib asrama, jadwal kegiatan, dan tugas santri memiliki legitimasi yang sah dari Pandangan Hidup Islam (*Islamic Worldview*) dan Profil Kelulusan Santri.
 2. **Arah Naik (*Backward Trace*):**  
-   Menjamin bahwa setiap data asesmen, teguran musyrif, atau catatan mutaba'ah harian dapat diaudit keabsahannya, memastikan bahwa pengasuh tidak menilai berdasarkan selera pribadi atau prasangka subjektif.
+   Menjamin bahwa setiap data asesmen, teguran musyrif, atau catatan mutaba'ah harian dapat diaudit keabsahannya, memastikan bahwa pengasuh tidak menilai berdasarkan selera pribadi, amarah sesaat, atau prasangka subjektif.
 
 ---
 
 ## 2. Matriks Silsilah Keterlacakan Lengkap Delapan Kapasitas Inti
 
-Tabel kanonikal berikut merangkum silsilah keterlacakan penuh dari hulu ke hilir untuk seluruh 8 Kapasitas Inti:
+Tabel kanonikal berikut merangkum silsilah keterlacakan penuh dari hulu ke hilir untuk seluruh Delapan Kapasitas Inti:
 
 | Kode & Kapasitas | Nilai Syar'i Hulu & Dalil Rujukan | Profil Kelulusan (*Muwashofat*) | Sasaran Kerja (*Functional Object*) | Triad Dimensi Fungsi | Bukti Perilaku Nyata di Asrama 24 Jam | Instrumen Operasional Lapangan |
 |---|---|---|---|---|---|---|
-| **CC-01**<br>Regulasi Diri | **Muraqabah & Mujahadah**<br>(QS. An-Nazi'at: 40-41) | *Mujahidun Linafsihi* (Pejuang Kendali Diri) | Keberfungsian dan tindakan diri relatif terhadap arah/tujuan | 1. Monitoring<br>2. Regulation<br>3. Reorientation | Melipat selimut sendiri dan bergegas shalat Subuh saat mendengar adzan tanpa diseret musyrif. | Logbook Kamar Asrama & Jurnal Mutaba'ah Qiyamul Lail |
-| **CC-02**<br>Nalar Kritis | **Tabayyun & Burhan**<br>(QS. Al-Hujurat: 6) | *Mutsaqqaful Fikr* (Wawasan Intelektual Beradab) | Informasi, klaim, alasan, dan *judgment* yang relevan | 1. Info Evaluation<br>2. Reasoning<br>3. Judgment Form. | Memeriksa kebenaran kabar tuduhan pencurian sandal sebelum menghakimi kawan sekamar. | Rubrik Telaah Kritis Halaqoh & Notulensi Musyawarah |
-| **CC-03**<br>Komunikasi | **Qaulan Sadida & Inshat**<br>(QS. Al-Ahzab: 70) | *Husnul Khithab* (Penyampai Pesan Santun) | Pembentukan, penyampaian, penerimaan, & tafsir pesan | 1. Formulation<br>2. Expressive Delivery<br>3. Receptive Interp. | Menegur kawan yang meninggalkan baju kotor dengan nada ramah (*qaulan layyinan*) tanpa membentak. | Lembar Observasi Interaksi Usrah & Penilaian Khitobah |
+| **CC-01**<br>Regulasi Diri | **Muraqabah & Mujahadah**<br>(QS. An-Nazi'at: 40–41) | *Mujahidun Linafsihi* (Pejuang Kendali Diri) | Keberfungsian dan tindakan diri relatif terhadap arah/tujuan | 1. Monitoring<br>2. Regulation<br>3. Reorientation | Melipat selimut sendiri dan bergegas shalat Subuh saat mendengar adzan tanpa perlu diseret musyrif. | Logbook Kamar Asrama & Jurnal Mutaba'ah Qiyamul Lail |
+| **CC-02**<br>Nalar Kritis | **Tabayyun & Burhan**<br>(QS. Al-Hujurat: 6) | *Mutsaqqaful Fikr* (Wawasan Intelektual Beradab) | Informasi, klaim, alasan, dan pertimbangan (*judgment*) | 1. Info Evaluation<br>2. Reasoning<br>3. Judgment Form. | Memeriksa kebenaran kabar tuduhan sebelum menghakimi kawan sekamar yang dituduh mengambil barang. | Rubrik Telaah Kritis Halaqoh & Notulensi Musyawarah |
+| **CC-03**<br>Komunikasi | **Qaulan Sadida & Inshat**<br>(QS. Al-Ahzab: 70) | *Husnul Khithab* (Tutur Kata Santun & Jernih) | Pembentukan, penyampaian, penerimaan, & tafsir pesan | 1. Formulation<br>2. Expressive Delivery<br>3. Receptive Interp. | Menegur kawan yang meninggalkan baju kotor dengan nada ramah (*qaulan layyinan*) tanpa membentak. | Lembar Observasi Interaksi Usrah & Penilaian Khitobah |
 | **CC-04**<br>Kolaborasi | **Ta'awun 'alal Birr**<br>(QS. Al-Ma'idah: 2) | *Nafi'un Lighairihi* (Bermanfaat bagi Jamaah) | Tindakan bersama (*joint action*) & kontribusi terkoordinasi | 1. Goal Alignment<br>2. Contribution Coord.<br>3. Interdependent Exec. | Berbagi tugas piket kebersihan masjid pesantren secara tertib dan saling menambal kekurangan kawan. | Checklist Kerja Bakti Regu & Evaluasi Panitia Santri |
-| **CC-05**<br>Fungsi Jasmani | **Quwwatul Jasad & Thaharah**<br>(HR. Muslim; Hadits Qawiy) | *Qowiyyul Jism* (Kebugaran Raga & Suci) | Keberfungsian fisik untuk ibadah & aktivitas harian | 1. Bio Readiness<br>2. Motoric Execution<br>3. Physical Resilience | Berwudhu sempurna (*isbagh*), menyikat pakaian bersih suci, dan duduk tegak di halaqoh tanpa loyo. | Sidak Higienitas Kamar & Buku Kesehatan Santri |
+| **CC-05**<br>Fungsi Jasmani | **Quwwatul Jasad & Thaharah**<br>(HR. Muslim; Hadits Qawiy) | *Qowiyyul Jism* (Kebugaran Raga & Suci) | Keberfungsian fisik untuk ibadah & aktivitas harian | 1. Bio Readiness<br>2. Motoric Execution<br>3. Physical Resilience | Berwudhu sempurna (*isbagh*), mencuci pakaian bersih suci, dan duduk tegak di halaqoh tanpa loyo. | Sidak Higienitas Kamar & Buku Kesehatan Santri |
 | **CC-06**<br>Kepekaan Sosial | **Rahmah & Husnudzon**<br>(HR. Bukhari; Hadits Jasad) | *Salimush Shadr* (Kelapangan Dada & Empati) | Keadaan, perspektif, relasi, & konteks sosial asrama | 1. Social Cue Percep.<br>2. Perspective Taking<br>3. Relational Nav. | Menghibur dan membawakan makanan hangat untuk adik kelas yang menangis rindu rumah (*homesick*). | Form Catatan Konseling Sebaya & Iklim Usrah |
-| **CC-07**<br>Daya Gerak Mandiri | **Himmah 'Aliyah & Mubadarah**<br>(QS. Al-Baqarah: 148) | *Qadirun 'alal Kasbi* (Mandiri & Berinisiatif) | Inisiasi & pengarahan tindakan secara sengaja (*intentional*) | 1. Action Initiation<br>2. Intentional Direct.<br>3. Ownership & Persist. | Mematikan kran air tempat wudhu yang meluap atas inisiatif sendiri tanpa menunggu komando musyrif. | Logbook Inisiatif Kebaikan & Penghargaan Bintang Adab |
-| **CC-08**<br>Pemecahan Masalah | **Hikmah & Husnut Tadbir**<br>(QS. Al-Baqarah: 269) | *Munazhzhamun fi Syu'unihi* (Tertib & Solutif) | Kesenjangan kondisi aktual vs ideal, rintangan, & strategi | 1. Problem Repres.<br>2. Strategy Generat.<br>3. Adaptive Adjust. | Menata tali gantungan jemuran darurat saat hujan deras agar seragam seluruh kawan sekamar tidak apek. | Lembar Solusi Kasus Kamar & Portofolio Proyek Santri |
+| **CC-07**<br>Daya Gerak Mandiri | **Himmah 'Aliyah & Mubadarah**<br>(QS. Al-Baqarah: 148) | *Qadirun 'alal Kasbi* (Mandiri & Berinisiatif) | Inisiasi & pengarahan tindakan secara sengaja (*intentional*) | 1. Action Initiation<br>2. Intentional Direct.<br>3. Ownership & Persist. | Mematikan kran air tempat wudhu yang meluap atas inisiatif sendiri tanpa menunggu instruksi musyrif. | Logbook Inisiatif Kebaikan & Penghargaan Bintang Adab |
+| **CC-08**<br>Pemecahan Masalah | **Hikmah & Husnut Tadbir**<br>(QS. Al-Baqarah: 269) | *Munazhzhamun fi Syu'unihi* (Tertib & Solutif) | Kesenjangan kondisi aktual vs ideal, rintangan, & strategi | 1. Problem Repres.<br>2. Strategy Generat.<br>3. Adaptive Adjust. | Menata tali jemuran darurat saat hujan deras agar seragam seluruh kawan sekamar tidak basah dan apek. | Lembar Solusi Kasus Kamar & Portofolio Proyek Santri |
 
 ---
 
@@ -60,9 +60,9 @@ Tabel kanonikal berikut merangkum silsilah keterlacakan penuh dari hulu ke hilir
 ### Kasus A: Penelusuran Arah Turun (*Forward Trace*) — Mengapa Ada Sidak Higienitas Kamar?
 
 1. **Tingkat 1 (Nilai Syar'i):**  
-   Rasulullah SAW bersabda: *"Sesungguhnya Allah itu indah dan mencintai keindahan, bersih dan mencintai kebersihan"* (HR. Tirmidzi), serta perintah menjaga thaharah sebagai syarat mutlak sahnya shalat.
+   Rasulullah SAW bersabda: *"Sesungguhnya Allah itu indah dan mencintai keindahan, bersih dan mencintai kebersihan"* (HR. Tirmidzi), serta perintah menjaga kesucian (*thaharah*) sebagai syarat mutlak sahnya shalat.
 2. **Tingkat 2 (Profil Kelulusan):**  
-   Mencetak santri yang berbadan sehat, kuat, dan bersih (*Qowiyyul Jism wa Thahirul Badani*).
+   Mencetak santri yang berbadan sehat, bugar, dan bersih (*Qowiyyul Jism wa Thahirul Badani*).
 3. **Tingkat 3 (Kapasitas Inti):**  
    **CC-05: Fungsi Jasmani dan Ketahanan (*Physical Functioning*)**.
 4. **Tingkat 4 (Sasaran & Dimensi Fungsi):**  
@@ -70,7 +70,7 @@ Tabel kanonikal berikut merangkum silsilah keterlacakan penuh dari hulu ke hilir
 5. **Tingkat 5 (Tangga Kemandirian):**  
    Jenjang J2: Mampu memotong kuku secara rutin setiap Jumat, mencuci pakaian seragam tanpa menumpuk di ember lebih dari dua hari, dan menjemur kasur secara berkala.
 6. **Tingkat 6 (Perilaku Nyata Lapangan):**  
-   Santri menjemur sprei kasur di bawah sinar matahari pagi dan menata loker pakaian dalam kondisi kering wangi.
+   Santri menjemur sprei kasur di bawah terik matahari pagi dan menata loker pakaian dalam kondisi kering dan rapi.
 7. **Tingkat 7 (Instrumen Operasional):**  
    SOP Pengasuhan: Pengecekan berkala kebersihan kamar oleh musyrif setiap Sabtu pagi, dicatat dalam *Buku Mutaba'ah Higienitas Kamar*.
 
@@ -87,23 +87,23 @@ Musyrif menemukan catatan di logbook: *"Santri Zaid dihukum membersihkan selasar
 2. **Ke Sasaran Kerja & Dimensi Fungsi:**  
    Tindakan ini menyangkut sasaran kerja **CC-01 (Regulasi Diri)** pada dimensi *Regulation* (gagal menahan dorongan ingin cepat sampai ke masjid) dan **CC-06 (Kepekaan Sosial)** pada dimensi *Relational Navigation* (merugikan hak kawan sekamar).
 3. **Ke Profil Kelulusan:**  
-   Melatih integritas moral (*Matinul Khuluq*) dan kebersihan harta dari yang syubhat/haram.
+   Melatih integritas moral (*Matinul Khuluq*) dan kebersihan diri dari harta yang syubhat atau haram.
 4. **Ke Landasan Syariat Hulu:**  
    Berpijak pada sabda Rasulullah SAW: *"Tidak halal harta seorang muslim kecuali dengan kerelaan hatinya"* (HR. Ahmad), dan kaidah haramnya perbuatan *ghashab* dalam kitab-kitab fiqih turats.
 5. **Evaluasi Tindakan Lanjut:**  
-   Hukuman membersihkan selasar disesuaikan: selain membersihkan fasilitas umum, Zaid wajib meminta maaf secara langsung kepada Umar dan mengembalikan sandal ke tempat semula dengan bersih (*restitusi restoratif*).
+   Hukuman disesuaikan menjadi restoratif: selain membersihkan fasilitas umum, Zaid wajib meminta maaf secara langsung kepada Umar dan mengembalikan sandal ke tempat semula dengan bersih (*restitusi restoratif*).
 
 ---
 
-## 4. Protokol Uji Keterlacakan Mandiri (*Self-Traceability Audit*)
+## 4. Protokol Uji Keterlacakan Tiga Pertanyaan (*The 3-Trace Test*)
 
-Setiap musyrif atau asatidz yang hendak memberlakukan aturan atau sanksi baru di asrama wajib lolos dari **Uji Keterlacakan Tiga Pertanyaan**:
+Setiap musyrif atau asatidz yang hendak memberlakukan aturan atau tindakan pembinaan baru di asrama wajib lolos dari **Uji Keterlacakan Tiga Pertanyaan**:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │            UJI KETERLACAKAN TIGA PERTANYAAN (THE 3-TRACE TEST)         │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. UJI HULU: "Nash Al-Qur'an, Hadits, atau kaidah fiqih apa yang       │
+│ 1. UJI HULU: "Nash Al-Qur'an, Hadits, atau kaidah syar'i apa yang      │
 │              melandasi aturan atau bimbingan ini?"                     │
 │                                                                        │
 │ 2. UJI TENGAH: "Kapasitas inti mana (CC-01 s/d CC-08) dan dimensi apa  │

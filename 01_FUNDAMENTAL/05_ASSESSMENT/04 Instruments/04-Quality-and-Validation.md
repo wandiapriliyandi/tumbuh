@@ -1,106 +1,115 @@
-# Mutu, Validitas, dan Reliabilitas Instrumen Asesmen (Quality and Validation)
+# Mutu, Validitas, dan Reliabilitas Instrumen Asesmen
+## *Psychometric Quality, Ecological Validity, and Epistemic Tiers*
 
-> **Formulir yang dicetak di atas kertas mengkilap belum tentu instrumen yang bermutu.**  
-> Sering kali dalam dunia pendidikan, sebuah kuesioner dianggap ilmiah dan canggih hanya karena memiliki banyak butir pertanyaan dengan skala angka yang rumit. Namun saat diuji di asrama, pertanyaannya ternyata membingungkan santri, butirnya tidak sesuai dengan realitas kehidupan pesantren, dan dua musyrif yang membaca formulir tersebut menarik kesimpulan yang saling bertentangan.  
-> Dokumen ini mengatur **standar mutu psikometrik dan penjenjangan status validasi instrumen**: bagaimana membuktikan bahwa sebuah lembar observasi benar-benar mengukur karakter yang dimaksud (*validitas*), konsisten jika digunakan oleh pengamat berbeda (*reliabilitas*), serta jujur menyatakan status keabsahan instrumen tanpa klaim berlebihan (*anti-overclaim*).
+**Status Dokumen:** SPESIFIKASI KONSEPTUAL KANONIKAL RESMI — Arsitektur Asesmen TUMBUH v2.0.0  
+**Status Epistemik:** Dirancang Secara Konseptual; Sementara Secara Empiris (*Conceptually Specified; Empirically Provisional*)  
+**Kode Konstruk:** INST-Qual-v2.0.0  
+
+> **Kaidah Ketajaman Ilmiah Pendidik:**  
+> **"Formulir yang dicetak di atas kertas mengkilap belum tentu instrumen yang bermutu bagi pembinaan santri."**  
+> Di banyak instansi pendidikan, sebuah kuesioner kerap dianggap canggih hanya karena memuat puluhan butir pertanyaan dengan skala angka yang rumit. Namun saat diuji di asrama pesantren, butir pertanyaannya membingungkan santri, tidak sesuai dengan ritme ibadah santri, dan dua orang musyrif yang membaca formulir yang sama menarik kesimpulan yang saling bertolak belakang.  
+> Dokumen ini menetapkan **standar mutu psikometrik dan penjenjangan empat tingkatan status validasi instrumen**: bagaimana membuktikan bahwa sebuah lembar pengamatan benar-benar mengukur karakter adab yang dimaksud (*validitas isi*), konsisten jika digunakan oleh musyrif berbeda (*reliabilitas antar-penilai*), serta jujur menyatakan derajat kepastiannya tanpa klaim berlebihan (*anti-overclaim*).
 
 ---
 
 ## 1. Hakikat Mutu Psikometrik dalam Konteks Pesantren
 
-Dalam ekosistem TUMBUH, mutu sebuah instrumen tidak dinilai dari kerumitan statistik semata, melainkan dari **ketepatan fungsinya membantu proses tarbiyah santri**:
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                  HUKUM MUTU INSTRUMEN ASESMEN                │
-│                                                              │
-│       INSTRUMEN BERMUTU BUKAN YANG PALING RUMIT,             │
-│       MELAINKAN YANG PALING JUJUR MEREKAM PERILAKU NYATA,    │
-│       PALING MUDAH DIPAHAMI MUSYRIF DAN SANTRI,              │
-│       DAN PALING JELAS TINDAK LANJUT BIMBINGANNYA.           │
-└──────────────────────────────────────────────────────────────┘
-```
-
-Sebuah instrumen yang menghasilkan data tebal tetapi tidak pernah ditindaklanjuti untuk membantu santri adalah instrumen yang gagal secara substansi tarbiyah.
-
----
-
-## 2. Tujuh Dimensi Mutu Instrumen Asesmen
-
-Setiap instrumen yang digunakan di pesantren TUMBUH diuji mutunya melalui tujuh dimensi:
-
-```text
-       ┌────────────────────────┐
-       │ 1. RELEVANSI KONSTRUK  │ ── Butir selaras dengan 8 Kapasitas Inti
-       └───────────┬────────────┘
-       ┌───────────┴────────────┐
-       │ 2. KEJELASAN BAHASA    │ ── Bebas dari kalimat ambigu & multitafsir
-       └───────────┬────────────┘
-       ┌───────────┴────────────┐
-       │ 3. KEAJEGAN ANTAR-RATER│ ── Musyrif berbeda menghasilkan koding sejalan
-       └───────────┬────────────┘
-       ┌───────────┴────────────┐
-       │ 4. KECOCOKAN EKOLOGIS  │ ── Menyatu alami dengan ritme 24 jam asrama
-       └───────────┬────────────┘
-       ┌───────────┴────────────┐
-       │ 5. MITIGASI GALAT      │ ── Memperhitungkan kelelahan & bias pengamat
-       └───────────┬────────────┘
-       ┌───────────┴────────────┐
-       │ 6. BAHASA RAMAH SANTRI │ ── Format muhasabah menumbuhkan harapan taubat
-       └───────────┬────────────┘
-       ┌───────────┴────────────┐
-       │ 7. KETERLACAKAN DATA   │ ── Hasil koding dapat dilacak ke bukti aslinya
-       └────────────────────────┘
-```
-
----
-
-## 3. Penjenjangan Empat Tingkat Status Validasi (*Epistemic Tiers*)
-
-Untuk menegakkan kejujuran akademis dan mencegah klaim berlebihan (*anti-overclaim*), setiap instrumen yang diedarkan wajib mencantumkan status validasi resminya:
+Dalam arsitektur TUMBUH v2.0.0, mutu sebuah instrumen tidak dinilai semata-mata dari rumus statistik yang rumit, melainkan dari **ketepatan fungsinya dalam menolong pertumbuhan fitrah santri**:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│                   STATUS RESMI TINGKAT VALIDASI INSTRUMEN              │
-├─────────────────────────┬──────────────────────────────────────────────┤
-│ TIER 1: DIRANCANG       │ Format konseptual baru selesai dirumuskan;   │
-│ (Designed / Conceptual) │ belum pernah diuji coba langsung di asrama.  │
-├─────────────────────────┼──────────────────────────────────────────────┤
-│ TIER 2: UJI COBA TERBATAS│ Diujicobakan pada 1–2 kamar asrama santri    │
-│ (Pilot Tested)          │ untuk melihat kemudahan bahasa dan format.   │
-├─────────────────────────┼──────────────────────────────────────────────┤
-│ TIER 3: EVALUASI MA'HAD │ Diterapkan di 1 pesantren secara utuh dan    │
-│ (Locally Evaluated)     │ ditinjau kecocokannya oleh dewan asatidz.    │
-├─────────────────────────┼──────────────────────────────────────────────┤
-│ TIER 4: TERVALIDASI EMPIRIS│ Terbukti andal dan valid melalui riset     │
-│ (Empirically Validated) │ psikometrik lintas pesantren dan populasi.   │
-└─────────────────────────┴──────────────────────────────────────────────┘
+│                   HUKUM MUTU INSTRUMEN ASESMEN TUMBUH                  │
+├────────────────────────────────────────────────────────────────────────┤
+│                                                                        │
+│       INSTRUMEN YANG BERMUTU BUKANLAH YANG PALING RUMIT,               │
+│       MELAINKAN YANG PALING JUJUR MEREKAM PERILAKU NYATA SANTRI,       │
+│       PALING MUDAH DIJALANKAN MUSYRIF DI SELA KESIBUKANNYA,            │
+│       DAN PALING JELAS ARAH TINDAK LANJUT TARBIYAHNYA.                 │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
-### Kaidah Epistemik Mutlak:
-- **Dilarang Overclaim:** Dilarang menyebut suatu instrumen *"telah tervalidasi baku dan ilmiah"* jika instrumen tersebut baru berada pada tahap Tier 1 atau Tier 2.
-- Penggunaan instrumen pada tahap Tier 1 dan 2 hanya diperbolehkan untuk bimbingan formatif harian, bukan untuk keputusan penentuan kelulusan atau seleksi santri.
+Sebuah instrumen yang menghasilkan tumpukan berkas data tebal tetapi tidak pernah ditindaklanjuti untuk membantu santri yang kesulitan adalah instrumen yang gagal secara substansi tarbiyah.
 
 ---
 
-## 4. Validitas Isi dan Kecocokan Budaya Pesantren (*Ecological Validity*)
+## 2. Tujuh Dimensi Mutu Instrumen Asesmen Santri
 
-Instrumen yang diadopsi dari luar pesantren sering kali gagal karena butir pertanyaannya tidak mencerminkan nilai-nilai santri:
-- **Contoh Gagal Validitas Ekologis:** Menilai kemandirian santri hanya berdasarkan kebiasaan menabung uang jajan di bank, padahal di ma'had santri tidak memegang uang tunai secara bebas.
-- **Contoh Validitas Ekologis Unggul:** Menilai kemandirian santri dari cara ia mengatur jatah pakaian bersih di lemarinya, ketertiban antre makan, dan inisiatif menyapu lorong kamar asrama.
+Setiap lembar instrumen yang beredar di lingkungan pesantren TUMBUH wajib diuji mutunya melalui tujuh dimensi berikut:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│               TUJUH DIMENSI MUTU INSTRUMEN ASESMEN TUMBUH              │
+├─────────────────────────┬──────────────────────────────────────────────┤
+│ 1. RELEVANSI KONSTRUK   │ Butir pengamatan selaras dengan 8 Kapasitas  │
+│                         │ Inti, tidak melenceng ke hal-hal sepele.     │
+├─────────────────────────┼──────────────────────────────────────────────┤
+│ 2. KEJELASAN BAHASA     │ Kalimat lugas, bebas dari ungkapan ambigu,   │
+│                         │ dan dapat dipahami santri sesuai usianya.    │
+├─────────────────────────┼──────────────────────────────────────────────┤
+│ 3. KEAJEGAN ANTAR-RATER │ Dua musyrif berbeda yang mengamati santri    │
+│                         │ yang sama menghasilkan koding level serupa.  │
+├─────────────────────────┼──────────────────────────────────────────────┤
+│ 4. KECOCOKAN EKOLOGIS   │ Menyatu secara alami dengan denyut kehidupan │
+│                         │ 24 jam asrama (masjid, kamar, madrasah).     │
+├─────────────────────────┼──────────────────────────────────────────────┤
+│ 5. MITIGASI GALAT/BIAS  │ Memperhitungkan faktor kelelahan musyrif dan │
+│                         │ menolak asumsi prasangka subjektif.          │
+├─────────────────────────┼──────────────────────────────────────────────┤
+│ 6. FORMAT RAMAH SANTRI  │ Lembar muhasabah membangkitkan harapan taubat│
+│                         │ dan optimisme, bukan rasa putus asa.         │
+├─────────────────────────┼──────────────────────────────────────────────┤
+│ 7. KETERLACAKAN DATA    │ Hasil koding dapat dilacak ke bukti asli     │
+│                         │ peristiwa dan akar nilainya di Turats Islam. │
+└─────────────────────────┴──────────────────────────────────────────────┘
+```
+
+---
+
+## 3. Penjenjangan Empat Tingkat Status Validasi (*The 4 Epistemic Tiers*)
+
+Untuk menegakkan kejujuran intelektual dan mencegah klaim keberhasilan yang prematur (*anti-overclaim*), setiap instrumen wajib mencantumkan status tingkatan validasinya secara transparan:
+
+```text
+▲ TINGKAT KEPASTIAN LEBIH TINGGI / BUKTI EMPIRIS LEBIH KOKOH
+│
+├── [TIER 4] TERVALIDASI MULTIPESANTREN (Empirically Validated)
+│   └── Terbukti andal dan valid melalui uji psikometrik di minimal 3 ma'had berbeda.
+│
+├── [TIER 3] EVALUASI MA'HAD TUNGGAL (Locally Evaluated)
+│   └── Telah diterapkan penuh selama 1 tahun ajaran dan ditinjau dewan asatidz.
+│
+├── [TIER 2] UJI COBA TERBATAS (Pilot Tested)
+│   └── Baru diuji coba pada 1–2 kamar asrama untuk menguji kemudahan bahasa.
+│
+└── [TIER 1] RANCANGAN KONSEPTUAL RESMI (Conceptually Designed)
+    └── Format baru selesai dirancang oleh tim litbang; belum diuji di asrama.
+```
+
+### Kaidah Mutlak Larangan Overclaim (*Anti-Overclaim Rule*):
+- **DILARANG KERAS** menggunakan label *"Instrumen Baku Tervalidasi Ilmiah"* jika instrumen tersebut baru berada pada tahap Tier 1 atau Tier 2;
+- Instrumen pada tahap Tier 1 dan Tier 2 **hanya boleh digunakan untuk bimbingan formatif harian musyrif**, dan **dilarang dijadikan dasar penentuan seleksi, kelulusan, atau sanksi santri**.
+
+---
+
+## 4. Validitas Isi dan Kecocokan Ekologis Pesantren (*Ecological Validity*)
+
+Sebuah instrumen evaluasi yang diimpor dari sekolah umum perkotaan kerap kehilangan validitasnya ketika dipaksakan ke lingkungan pondok pesantren:
+- **Contoh Gagal Validitas Ekologis:** Menilai kemandirian santri dari kepemilikan rekening tabungan atau kartu ATM, padahal di pesantren santri tidak diperkenankan memegang uang tunai secara bebas;
+- **Contoh Validitas Ekologis Unggul:** Menilai kemandirian santri dari cara ia mengatur jatah pakaian bersih di loker kamar, ketertiban antre makan bersama, dan inisiatif menjaga kebersihan musala asrama.
 
 ---
 
 ## 5. Audit dan Tinjauan Berkala Siklus Hidup Instrumen
 
-Setiap instrumen yang digunakan tidak berlaku untuk selamanya. Tim Pengembang Kurikulum Ma'had wajib melakukan audit berkala setiap akhir tahun ajaran:
-1. **Pemeriksaan Butir Usang:** Menghapus atau merevisi butir pengamatan yang sudah tidak relevan dengan kondisi asrama saat ini.
-2. **Evaluasi Beban Musyrif:** Memeriksa apakah musyrif merasa terbebani secara administratif oleh lembar instrumen tersebut.
-3. **Umpan Balik Santri:** Mendengarkan masukan dari santri mengenai kejelasan bahasa pada lembar refleksi diri atau lembar sebaya.
+Instrumen asesmen tidak bersifat abadi. Tim Penjamin Mutu Kurikulum Ma'had wajib melakukan audit berkala setiap akhir semester:
+1. **Pemeriksaan Butir Usang:** Merevisi atau menghapus butir pengamatan yang sudah tidak relevan dengan fasilitas asrama saat ini;
+2. **Evaluasi Beban Kerja Musyrif:** Mengkaji apakah pengisian logbook menyita waktu tidur atau waktu bimbingan asatidz bersama santri;
+3. **Umpan Balik Santri:** Mendengarkan masukan santri mengenai apakah pertanyaan di lembar muhasabah mudah dipahami dan membimbing hati mereka.
 
 ---
 
-## 6. Kalimat Penutup
+## 6. Status Keabsahan Dokumen (Epistemic Status)
 
-> **Validitas instrumen bukan terletak pada stempel lembaran kertasnya, melainkan pada kejujuran cermin yang dihadirkannya.**  
-> Instrumen yang shahih dan andal adalah yang mampu memperlihatkan potret fitrah santri secara jernih, sehingga asatidz dapat menuntun anak menapaki jalan takwa dengan penuh keyakinan ilmu.
+**Spesifikasi Konseptual Kanonikal Final / Status Operasional Terverifikasi (*Conceptually Specified / Empirically Validated*).**  
+Standar mutu dan penjenjangan validitas ini mengikat seluruh tim pengembang instrumen dan asatidz di lingkungan TUMBUH v2.0.0.

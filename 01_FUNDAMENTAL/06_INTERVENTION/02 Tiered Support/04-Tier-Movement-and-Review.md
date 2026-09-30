@@ -1,8 +1,17 @@
 # Dinamika Pergerakan Tingkat Dukungan dan Siklus Peninjauan Berkala (Tier Movement & Review)
 
+**Kode Kanonikal Dokumen:** `INT-Tier-Move-v2.0.0`  
+**Status:** CANONICAL SPECIFICATION — TUMBUH v2.0.0  
+**Epistemic Status:** Conceptually Specified; Empirically Provisional  
+**Tautan Induk:** [01_FUNDAMENTAL/06_INTERVENTION/02 Tiered Support/README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/02%20Tiered%20Support/README.md)
+
+---
+
+> ### Intisari untuk Pendidik & Musyrif
 > **"Tingkat dukungan bukanlah sangkar besi tempat santri dikurung selamanya, melainkan tangga berjalan yang selalu siap menyesuaikan diri dengan irama langkah anak."**  
 > Banyak kegagalan pembinaan di asrama bersumber dari dua ekstrem: pertama, membiarkan santri terjebak di tingkat intervensi intensif (Tier 3) berbulan-bulan tanpa pernah dievaluasi apakah ia sudah pulih; kedua, langsung mencabut seluruh bantuan secara mendadak begitu santri berbuat baik selama dua hari, sehingga anak kebingungan dan akhirnya kambuh kembali.  
-> Dokumen ini memaparkan **Dinamika Pergerakan Tingkat Dukungan (*Tier Movement*)** dan **Siklus Peninjauan Berkala (*Review Rhythm*)**: bagaimana menaikkan tingkat bantuan secara sigap saat santri menghadapi krisis (*stepping up*), menurunkan tingkat bantuan secara bertahap saat kemandirian santri mulai mekar (*stepping down*), serta menyikapi kekhilafan berulang tanpa putus asa.
+> 
+> Dokumen ini memaparkan **Dinamika Pergerakan Tingkat Dukungan (*Tier Movement*)** dan **Siklus Peninjauan Berkala (*Review Rhythm*)**: bagaimana menaikkan tingkat bantuan secara sigap saat santri menghadapi krisis (*stepping up*), menurunkan tingkat bantuan secara bertahap saat kemandirian santri mulai mekar (*stepping down*), serta menyikapi kekhilafan berulang (*relapse*) tanpa putus asa.
 
 ---
 
@@ -13,16 +22,18 @@ Prinsip utama sistem multi-tier TUMBUH adalah **keluwesan dinamis (*fluidity*)**
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   HUKUM KELUWESAN TINGKAT DUKUNGAN                     │
+├────────────────────────────────────────────────────────────────────────┤
 │                                                                        │
-│   STATUS TIER BERUBAH MENGIKUTI RESPONS SANTRI                         │
-│   Bantuan dinaikkan saat beban bertambah;                              │
-│   Bantuan dikurangi saat sayap kemandirian santri mulai kuat.          │
+│   [1] STATUS TIER BERUBAH MENGIKUTI RESPONS SANTRI                     │
+│       Bantuan dinaikkan saat beban bertambah;                          │
+│       Bantuan dikurangi saat sayap kemandirian santri mulai kuat.      │
 │                                                                        │
-│   MENURUNKAN TIER BUKAN PIALA MORAL                                    │
-│   Kembali ke Tier 1 adalah hal yang alamiah, bukan akhir ujian hidup.  │
+│   [2] MENURUNKAN TIER BUKAN PIALA MORAL                                │
+│       Kembali ke Tier 1 adalah hal yang alamiah, bukan akhir ujian.    │
 │                                                                        │
-│   MENAIKKAN TIER BUKAN HUKUMAN JERA                                    │
-│   Masuk Tier 3 adalah sinyal cinta pondok untuk menolong anak asuh.    │
+│   [3] MENAIKKAN TIER BUKAN HUKUMAN JERA                                │
+│       Masuk Tier 3 adalah sinyal cinta pondok untuk menolong anak asuh.│
+│                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -32,33 +43,39 @@ Santri yang masuk Tier 2 atau Tier 3 tidak boleh dibiarkan berstatus pasif; sist
 
 ## 2. Kriteria dan Tata Cara Penurunan Tingkat Dukungan (Stepping Down)
 
-Penurunan tingkat dukungan (dari Tier 3 ke Tier 2, atau dari Tier 2 ke Tier 1) adalah proses penyapihan perancah (*fading scaffolding*) agar santri berlatih memikul tanggung jawab secara mandiri.
+Penurunan tingkat dukungan (dari Tier 3 ke Tier 2, atau dari Tier 2 ke Tier 1) adalah proses penyapihan perancah (*fading scaffolding*) agar santri terlatih memikul tanggung jawab secara mandiri:
 
 ```text
 Stabil 14–30 Hari Tanpa Insiden Mayor
                  ↓
-Sidang Musyawarah Musyrif & Konselor
+Sidang Musyawarah Musyrif & Tim Pengasuhan
                  ↓
-Pengurangan Bantuan Bertahap (Fading Support)
+Pengurangan Frekuensi Bantuan Bertahap (Fading Support)
                  ↓
 Kembali Penuh ke Dukungan Universal Tier 1
 ```
 
-### Syarat dan Indikator Stepping Down:
-1. **Bukti Stabilitas Perilaku (14–30 Hari):** Santri menunjukkan konsistensi adab yang ditargetkan selama minimal 2 hingga 4 pekan berturut-turut tanpa pelanggaran mayor.
-2. **Kesiapan Regulasi Diri Santri:** Santri membuktikan mampu bangun shalat, mengelola emosi, atau menyelesaikan piket kamar dengan inisiatif sendiri tanpa perlu dibimbing terus-menerus.
-3. **Larangan Pelepasan Mendadak (*No Cliff-Edge Exit*):** Dilarang menghentikan seluruh pendampingan sekaligus dalam satu malam. Jika santri di Tier 2 didampingi setiap hari, kurangi frekuensinya menjadi 2 kali sepekan, lalu 1 kali sepekan, sebelum resmi kembali sepenuhnya ke Tier 1.
+### Tiga Syarat Utama Stepping Down:
+1. **Bukti Stabilitas Perilaku (14–30 Hari):**  
+   Santri menunjukkan konsistensi adab yang ditargetkan selama minimal 2 hingga 4 pekan berturut-turut tanpa pelanggaran mayor tercatat di logbook.
+2. **Kesiapan Regulasi Diri Santri:**  
+   Santri membuktikan mampu bangun shalat, mengelola emosi, atau menyelesaikan piket kamar dengan inisiatif sendiri tanpa perlu dibimbing terus-menerus.
+3. **Larangan Pelepasan Mendadak (*No Cliff-Edge Exit*):**  
+   Dilarang menghentikan seluruh pendampingan sekaligus dalam satu malam. Jika santri di Tier 2 didampingi setiap hari, kurangi frekuensinya menjadi 2 kali sepekan, lalu 1 kali sepekan, sebelum resmi kembali sepenuhnya ke Tier 1.
 
 ---
 
 ## 3. Kriteria dan Tata Cara Kenaikan Tingkat Dukungan (Stepping Up)
 
-Kenaikan tingkat dukungan (dari Tier 1 ke Tier 2, atau dari Tier 2 ke Tier 3) diaktifkan ketika data lapangan membuktikan bahwa bantuan saat ini tidak cukup kuat untuk menopang santri.
+Kenaikan tingkat dukungan (dari Tier 1 ke Tier 2, atau dari Tier 2 ke Tier 3) diaktifkan ketika data lapangan membuktikan bahwa bantuan saat ini tidak cukup kuat untuk menopang santri:
 
-### Sinyal Kebutuhan Stepping Up:
-- **Eskalasi Pelanggaran:** Frekuensi pelanggaran adab meningkat secara signifikan dalam 14 hari terakhir meskipun telah diberikan teguran bersahabat di Tier 1.
-- **Munculnya Risiko Bahaya Nyata:** Terjadinya kekerasan fisik, ancaman perundungan, atau indikasi krisis depresi akut yang menuntut penanganan konselor profesional (Tier 3).
-- **Respon Negatif Terhadap Bantuan Kelompok:** Santri justru merasa terintimidasi atau menolak bekerja sama dalam bimbingan kelompok Tier 2, sehingga membutuhkan pendekatan empat mata yang lebih intensif di Tier 3.
+### Tiga Sinyal Kebutuhan Stepping Up:
+1. **Eskalasi Pelanggaran Adab:**  
+   Frekuensi pelanggaran adab meningkat secara signifikan dalam 14 hari terakhir meskipun telah diberikan teguran bersahabat di Tier 1.
+2. **Munculnya Risiko Bahaya Nyata:**  
+   Terjadinya perkelahian fisik, indikasi ancaman perundungan, atau krisis depresi akut yang menuntut penanganan konselor profesional (Tier 3).
+3. **Respon Negatif Terhadap Bantuan Kelompok:**  
+   Santri justru merasa terintimidasi atau menolak bekerja sama dalam bimbingan kelompok Tier 2, sehingga membutuhkan pendekatan empat mata yang lebih intensif di Tier 3.
 
 ---
 
@@ -76,22 +93,24 @@ Untuk menjamin agar pergerakan tier berjalan tepat waktu dan tidak terbengkalai,
 
 ## 5. Protokol Menghadapi Kambuh Perilaku (Relapse Protocol)
 
-Dalam perjalanan tarbiyah, wajar terjadi seorang santri yang telah turun dari Tier 2 ke Tier 1 tiba-tiba melakukan kekhilafan serupa sebulan kemudian (*relapse*). Menghadapi hal ini, asatidz dilarang bereaksi berlebihan:
+Dalam perjalanan tarbiyah, wajar terjadi seorang santri yang telah turun dari Tier 2 ke Tier 1 tiba-tiba melakukan kekhilafan serupa sebulan kemudian (*relapse*). Menghadapi hal ini, asatidz dilarang bereaksi panik atau menghakimi:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
 │                   ADAB MENGHADAPI SANTRI YANG KAMBUH                   │
+├────────────────────────────────────────────────────────────────────────┤
 │                                                                        │
-│   1. JANGAN PUTUS ASA & JANGAN MEMVONIS "ANAK TIDAK TAHU DIRI"         │
-│      Kurva pertumbuhan karakter manusia tidak pernah berupa garis lurus│
-│      yang mulus; ada masa naik dan masa terpeleset (*fathrah*).        │
+│   [1] JANGAN PUTUS ASA & JANGAN MEMVONIS "ANAK TIDAK TAHU DIRI"        │
+│       Kurva pertumbuhan karakter manusia tidak pernah berupa garis lurus│
+│       yang mulus; ada masa naik dan masa terpeleset (*fathrah*).       │
 │                                                                        │
-│   2. IDENTIFIKASI PEMICU STRES BARU (Identify New Stressors)           │
-│      Apakah ada kabar buruk dari keluarga? Apakah sedang musim ujian?  │
+│   [2] IDENTIFIKASI PEMICU STRES BARU (Identify New Stressors)          │
+│       Apakah ada kabar duka keluarga? Apakah sedang musim ujian kitab? │
 │                                                                        │
-│   3. AKTIFKAN DUKUNGAN TERFOKUS SINGKAT (Brief Booster Session)        │
-│      Cukup berikan pendampingan pengingat selama 3–7 hari tanpa harus  │
-│      menjatuhkan santri kembali ke status sanksi berat dari awal.       │
+│   [3] AKTIFKAN DUKUNGAN TERFOKUS SINGKAT (Brief Booster Session)       │
+│       Cukup berikan pendampingan pengingat selama 3–7 hari tanpa harus │
+│       menjatuhkan santri kembali ke status sanksi berat dari awal.      │
+│                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -99,10 +118,13 @@ Dalam perjalanan tarbiyah, wajar terjadi seorang santri yang telah turun dari Ti
 
 ## 6. Pagar Batas Epistemik (Boundary Rules)
 
-1. **Dilarang Menjadikan Stepping Down Sebagai Hadiah Negosiasi:** Penurunan tier diberikan berdasarkan bukti perubahan adab yang stabil, bukan karena santri merayu atau wali santri mendesak pihak pondok.
-2. **Stepping Up Bukan Bukti Kegagalan Mutlak Musyrif:** Musyrif asrama tidak perlu merasa bersalah atau dianggap tidak becus jika santri asuhannya harus dinaikkan ke Tier 3; menaikkan tier adalah bentuk kerja sama tim tarbiyah yang sehat.
+1. **Dilarang Menjadikan Stepping Down Sebagai Hadiah Negosiasi:** Penurunan tier diberikan murni berdasarkan bukti perubahan adab yang stabil, bukan karena santri merayu atau wali santri mendesak pihak pondok;
+2. **Stepping Up Bukan Bukti Kegagalan Mutlak Musyrif:** Musyrif asrama tidak perlu merasa bersalah atau dianggap tidak becus jika santri asuhannya harus dinaikkan ke Tier 3; menaikkan tier adalah bentuk kerja sama tim tarbiyah yang sehat;
 3. **Dokumentasi Keputusan Wajib Tertulis:** Setiap keputusan perpindahan tier (naik maupun turun) wajib dicatat dalam berkas logbook resmi asrama dengan tanggal dan tanda tangan musyrif penanggung jawab.
 
 ---
 
-> **Keputusan Prinsip:** Dinamika pergerakan dan peninjauan berkala (*Tier Movement & Review*) adalah denyut nadi tarbiyah yang hidup di pesantren. Dengan pengawasan yang berkesinambungan dan kasih sayang yang sabar, setiap santri dituntun melewati masa-masa sulitnya hingga mereka berdiri tegak menjadi pribadi yang mandiri dan berakhlak mulia.
+## 7. Kalimat Penutup
+
+> **Dinamika pergerakan dan peninjauan berkala adalah denyut nadi tarbiyah yang hidup di pesantren.**  
+> Dengan pengawasan yang berkesinambungan dan kasih sayang yang sabar, setiap santri dituntun melewati masa-masa sulitnya hingga mereka berdiri tegak menjadi pribadi yang mandiri dan berakhlak mulia.

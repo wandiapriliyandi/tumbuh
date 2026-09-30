@@ -1,85 +1,204 @@
 # Keterlacakan dan Tata Kelola Koreksi (Corrective Traceability and Governance)
 
-> **"Keadilan di pesantren tegak ketika setiap teguran memiliki dasar yang jelas, setiap proses terekam dengan jujur, dan martabat santri terlindungi di balik tabir amanah."**  
-> Pencatatan koreksi bukanlah penyusunan 'buku hitam dosa santri', melainkan dokumen akuntabilitas perlindungan. Ketika musyrif mencatat kronologi peristiwa, langkah tabayyun yang ditempuh, hak santri yang didengar, dan kesepakatan perbaikan yang dicapai, pesantren terlindungi dari fitnah, wali santri mendapatkan kejelasan yang menenteramkan, dan santri diperlakukan dengan standar keadilan yang luhur.
+**ID Kanonikal:** `INT-CORR-TRAC-v2.0.0`  
+**Status Lapisan:** `01_FUNDAMENTAL` (Pedoman Inti Intervensi & Etika Pengasuhan)  
+**Status Epistemik:** *Conceptually Specified; Empirically Provisional* (Memerlukan standarisasi tata kelola operasional)  
+**Rujukan Silang Dokumen:**
+- [Prinsip dan Etika Intervensi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Ethical-Foundations-of-Intervention.md)
+- [Arsitektur Dukungan Korektif](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/01-Corrective-Support-Architecture.md)
+- [Audit & Batasan Korektif](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/02-Corrective-Support-Audit.md)
+- [Penetapan Kebutuhan dan Tujuan Koreksi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/03-Corrective-Need-and-Goal.md)
+- [Koreksi dan Perlindungan Martabat Santri](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/04-Correction-and-Dignity.md)
+- [Intensitas dan Proporsionalitas Koreksi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/05-Corrective-Intensity-and-Proportionality.md)
+- [Respons Korektif dan Pemantauan](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/06-Corrective-Response-and-Monitoring.md)
+- [Peninjauan dan Pengakhiran Koreksi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/07-Corrective-Review-and-Exit.md)
 
 ---
 
-## 1. Rantai Keterlacakan Delapan Simpul (*Eight-Node Traceability Chain*)
+> [!NOTE]
+> ### Intisari untuk Pendidik, Musyrif, dan Tim Tata Kelola Pesantren
+> 1. **Hakikat Pencatatan Adab:** *"Keadilan di pesantren tegak ketika setiap teguran berdasar fakta yang jelas, setiap proses terekam secara jujur, dan aib santri terlindungi di balik tabir amanah."* Pencatatan korektif bukan penyusunan 'buku hitam dosa', melainkan dokumen akuntabilitas perlindungan santri dan kepastian hukum syiar lembaga.
+> 2. **Rantai Delapan Simpul:** Setiap penanganan koreksi wajib memenuhi rantai keterlacakan tanpa putus: *Evidence ➔ Need ➔ Goal ➔ Decision ➔ Support ➔ Response ➔ Review ➔ Exit*. Tidak boleh ada tindakan disiplin yang dijatuhkan tanpa kejelasan simpul hulu dan hilirnya.
+> 3. **Instrumen Baku LPKR:** Lembar Penanganan Korektif Restoratif (LPKR) adalah instrumen resmi yang merekam fakta tabayyun, akar masalah, kesepakatan pemulihan, dan hasil monitoring tanpa bahasa yang melabeli pribadi santri.
+> 4. **Kerahasiaan dan Perlindungan Data (*Need-to-Know*):** Informasi penanganan koreksi bersifat sangat rahasia. Dilarang keras menyebarkan catatan kasus santri ke grup WhatsApp umum, media sosial, atau forum santri yang mencemarkan nama baik keluarga santri.
 
-Setiap proses penanganan korektif wajib dapat dilacak secara utuh dari hulu ke hilir:
+---
+
+## 1. Hakikat dan Urgensi Tata Kelola Korektif
+
+Pencatatan dalam dunia pendidikan Islam memiliki akar teologis yang sangat kokoh. Allah Subhanahu wa Ta'ala memerintahkan pencatatan muamalah dan keadilan secara tertulis dalam firman-Nya:
+> *“Wahai orang-orang yang beriman, apabila kamu bermuamalah tidak secara tunai untuk waktu yang ditentukan, hendaklah kamu menuliskannya. Dan hendaklah seorang penulis di antara kamu menuliskannya dengan adil...”* (QS. Al-Baqarah: 282)
+
+Di lingkungan pesantren, tidak adanya sistem pencatatan dan keterlacakan yang baik kerap menimbulkan tiga malapetaka besar:
+1. **Ketidakadilan Subjektif (*Arbitrary Injustice*):** Santri dihukum berdasarkan suasana hati (*mood*) musyrif yang sedang bertugas, tanpa standar yang seragam.
+2. **Ketiadaan Pembelaan Diri (*Lack of Due Process*):** Santri dituduh sepihak tanpa berita acara tabayyun yang sah, memicu rasa dizalimi dan protes keras dari wali santri.
+3. **Penyebaran Fitnah & Rusaknya Kehormatan (*Breach of Confidentiality*):** Catatan pelanggaran tercecer di sembarang tempat, dibaca oleh santri lain, dan dijadikan bahan ejekan yang menghancurkan masa depan anak.
+
+Tata kelola korektif TUMBUH hadir untuk memastikan bahwa setiap intervensi berdiri di atas fakta yang sahih, terukur konsekuensinya, dan terjaga kerahasiaannya.
+
+---
+
+## 2. Rantai Keterlacakan Delapan Simpul (*Eight-Node Traceability Chain*)
+
+Setiap proses penanganan korektif wajib dapat dilacak secara runut dari hulu hingga hilir melalui delapan simpul berkesinambungan:
 
 ```text
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
 │   1. EVIDENCE   │ ───► │    2. NEED      │ ───► │ 3. CORRECTIVE   │ ───► │  4. DECISION    │
-│ (Bukti Faktual  │      │ (Analisis Akar  │      │      GOAL       │      │ (Ketetapan Syura│
-│  Tabayyun)      │      │  Kebutuhan)     │      │ (Target Capaian)│      │  yang Berimbang)│
+│ (Bukti Faktual  │      │ (Analisis Kebutuhan│   │      GOAL       │      │ (Ketetapan Syura│
+│  Hasil Tabayyun)│      │  & Akar Masalah)│      │ (Target Capaian │      │  Konsekuensi 3R)│
+│                 │      │                 │      │  Adab & Ishlah) │      │                 │
 └─────────────────┘      └─────────────────┘      └─────────────────┘      └────────┬────────┘
                                                                                     │
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐               │
 │ 8. EXIT /       │ ◄─── │   7. REVIEW     │ ◄─── │  6. RESPONSE    │ ◄─── 5. SUPPORT       │
-│    REVISION     │      │ (Evaluasi Akhir │      │ (Bukti Respons  │      (Penerapan       │
-│ (Selesai/Ubah)  │      │  Masa Koreksi)  │      │  Nyata Santri)  │       Restitusi/Adab) │
+│    REVISION     │      │ (Evaluasi Bukti │      │ (Observasi Data │      (Pelaksanaan     │
+│ (Tuntas & Bersih│      │  Sidang BK)     │      │  Respons Harian)│       Restitusi &     │
+│  / Modifikasi)  │      │                 │      │                 │       Edukasi Adab)   │
 └─────────────────┘      └─────────────────┘      └─────────────────┘      └────────────────┘
 ```
 
+### Penjabaran Delapan Simpul:
+1. **Evidence (Bukti):** Catatan fakta terverifikasi dari proses tabayyun (apa yang terjadi, siapa yang terlibat, kapan, di mana, dan pengakuan jujur).
+2. **Need (Kebutuhan):** Analisis mengapa santri melakukannya (kelelahan emosi, pengaruh kawan sebaya, dorongan impulsif, atau ketidaktahuan).
+3. **Corrective Goal (Tujuan):** Rumusan target pemulihan yang spesifik (restitusi barang, permintaan maaf tulus, dan penguasaan adab pengganti).
+4. **Decision (Keputusan):** Kesepakatan tindakan koreksi yang lolos uji 3R (*Related, Respectful, Reasonable*), ditetapkan melalui musyawarah musyrif/asatidz.
+5. **Support (Pelaksanaan):** Pendampingan santri dalam menjalankan konsekuensi dan edukasi adab tanpa kekerasan verbal/fisik.
+6. **Response (Respons):** Pemantauan dinamika perilaku santri selama masa perbaikan di lingkungan asrama dan madrasah 24 jam.
+7. **Review (Peninjauan):** Forum berkala untuk memeriksa ketercapaian target bersama santri dan tim pengasuhan.
+8. **Exit / Revision (Pengakhiran / Revisi):** Penutupan berkas secara resmi dengan pemulihan kehormatan (*Clean Slate*) atau penyesuaian strategi jika belum tuntas.
+
 ---
 
-## 2. Struktur Dokumen Lembar Penanganan Korektif Restoratif (LPKR)
+## 3. Format Baku Instrumen Lembar Penanganan Korektif Restoratif (LPKR)
 
-Format baku pencatatan intervensi korektif yang wajib digunakan oleh musyrif dan asatidz:
+Format resmi pencatatan penanganan korektif yang wajib diadministrasikan di tingkat pengasuhan pesantren TUMBUH:
 
 ```text
 ================================================================================
        LEMBAR PENANGANAN KOREKTIF RESTORATIF (LPKR) - PESANTREN TUMBUH
 ================================================================================
-Nomor Berkas      : LPKR-2026-X-042           Tingkat Dukungan : Tier 2 (Targeted)
-Identitas Santri  : [Nama Santri Terkait]     Kamar / Kelas    : [Ali bin Abi Thalib 2 / VIII-A]
-Musyrif Pembina   : [Ust. Salman Al-Farisi]   Tanggal Kejadian : [12 Oktober 2026]
+Nomor Registrasi   : LPKR-2026-X-042           Tingkat Dukungan : Tier 2 (Targeted)
+Identitas Santri   : Ahmad Fulan (NIS: 2024089) Kamar / Kelas    : Abu Bakar 3 / VIII-B
+Musyrif Pembina    : Ust. Salman Al-Farisi      Tanggal Insiden  : 14 Oktober 2026
 --------------------------------------------------------------------------------
-1. FAKTA & PROSES TABAYYUN (Evidence & Verification)
-   - Peristiwa     : Terjadi adu mulut dan saling melempar sandal di depan asrama.
-   - Pihak Terlibat: Santri A dan Santri B.
-   - Hasil Tabayyun: Keduanya lelah setelah ekstrakurikuler; tersinggung karena ejekan.
-   - Pemeriksaan   : Tidak ada cidera fisik berat; kedua pihak telah dipisahkan aman.
+1. FAKTA KEJADIAN & PROSES TABAYYUN (Evidence Node)
+   - Waktu & Lokasi : Pukul 17.15 WIB di selasar kamar mandi asrama barat.
+   - Fakta Lapangan : Terjadi perselisihan saling dorong dan melempar gayung mandi
+                      akibat berebut antrean air bersih menjelang Maghrib.
+   - Pihak Terlibat : Ahmad Fulan dan Zaid Al-Atsary.
+   - Hasil Tabayyun : Keduanya merasa kelelahan setelah olahraga sore dan panik
+                      takut terlambat masuk masjid. Tidak ada luka fisik berdarah.
+                      Keduanya mengakui khilaf berbicara kasar dan melempar barang.
 
-2. AKAR MASALAH & TUJUAN KOREKSI (Need & Goal)
-   - Akar Masalah  : Kesulitan mengelola emosi lelah dan minim adab bertutur kata.
-   - Tujuan Koreksi: Memulihkan hubungan (ishlah), meminta maaf tulus, dan mengganti
-                     sandal yang talinya putus secara adil.
+2. AKAR KEBUTUHAN & TUJUAN KOREKSI (Need & Goal Nodes)
+   - Akar Kebutuhan : Keterampilan regulasi emosi saat lelah (Self-Management)
+                      dan manajemen waktu persiapan shalat berjamaah.
+   - Tujuan Koreksi : (1) Terwujudnya ishlah al-bain (perdamaian tulus) antara
+                      keduanya; (2) Memperbaiki gayung yang pecah; (3) Menguasai
+                      adab antre dan menahan amarah saat lelah.
 
-3. RANCANGAN TINDAKAN KOREKTIF (Support & Restitution)
-   - Tindakan 1    : Sesi mediasi dialog restoratif tertutup dipandu musyrif.
-   - Tindakan 2    : Memperbaiki tali sandal bersama di ruang sarpras pondok.
-   - Edukasi Adab  : Mengkaji bab menahan amarah dari Hadits Arbain An-Nawawiyah.
+3. KESEPAKATAN TINDAKAN KOREKTIF 3R (Decision & Support Nodes)
+   - Tindakan 1 (Related)    : Bersama-sama mengganti gayung mandi yang pecah
+                               menggunakan iuran tabungan kantin masing-masing.
+   - Tindakan 2 (Respectful) : Sesi dialog pemulihan (Restorative Circle) berdua
+                               bersama musyrif di ruang baca asrama; saling memaafkan.
+   - Tindakan 3 (Reasonable) : Mengkaji dan menyalin matan Hadits ke-16 Arbain
+                               (La Taghdhab) beserta maknanya dalam 1 lembar refleksi.
 
-4. PEMANTAUAN RESPONS & PENINJAUAN (Monitoring & Review)
-   - Observasi H+7 : Santri A dan B sudah kembali duduk berdampingan saat makan siang.
-   - Evaluasi BK   : Keduanya menunjukkan penyesalan tulus tanpa dendam lanjutan.
+4. PEMANTAUAN RESPONS LAPANGAN (Response & Review Nodes)
+   - Observasi H+3 : Keduanya terlihat akrab kembali saat makan malam bersama.
+   - Observasi H+7 : Keduanya mampu antre wudhu dengan tertib tanpa insiden dorong.
+   - Sidang Review : Musyrif kamar menilai target adab tercapai dengan sangat baik.
 
-5. PENGAKHIRAN PROGRAM (Exit & Closure)
-   - Status Akhir  : EXIT — TUNTAS & PULIH PENUH (Tanggal: 20 Oktober 2026).
-   - Tindak Lanjut : Berkas ditutup dan diarsipkan rahasia. Hak santri dipulihkan.
+5. PENGAKHIRAN DUKUNGAN (Exit & Closure Node)
+   - Keputusan     : RESMI EXIT — STATUS ADAB TUNTAS & PULIH PENUH.
+   - Tanggal Exit  : 22 Oktober 2026.
+   - Tindak Lanjut : Berkas disegel ke arsip konfidensial BK. Hak santri bersih.
+--------------------------------------------------------------------------------
+Tanda Tangan Santri      Tanda Tangan Musyrif        Mengetahui (Mudir Tarbiyah)
+
+( Ahmad Fulan )          ( Ust. Salman A. )          ( KH. Abdullah Ridwan )
 ================================================================================
 ```
 
 ---
 
-## 3. Matriks Penjaminan Privasi dan Perlindungan Data (*Data Protection Matrix*)
+## 4. Matriks Penjaminan Privasi dan Perlindungan Data (*Data Protection Matrix*)
 
-Informasi dalam berkas korektif memiliki sensitivitas tinggi dan dilindungi oleh prinsip *Need-to-Know*:
+Kerahasiaan catatan pembinaan santri wajib dilindungi dengan prinsip ketat *Need-to-Know*:
 
-| Pihak | Hak Akses | Batas Wewenang dan Larangan |
-| :--- | :--- | :--- |
-| **Santri Terkait** | Berhak membaca dan memahami isi berkas koreksinya. | Berhak memberikan klarifikasi jika ada catatan yang tidak akurat. |
-| **Musyrif Kamar** | Akses penuh selama masa pembinaan aktif. | Dilarang menceritakan isi berkas kepada santri lain atau keluarga pribadi. |
-| **Orang Tua / Wali** | Berhak mendapatkan penjelasan ringkas dan solusi konstruktif. | Diberitahukan secara bijak tanpa menimbulkan kepanikan berlebihan. |
-| **Pihak Luar / Publik** | **TIDAK ADA AKSES (AKSES DITOLAK MUTLAK).** | Dilarang keras menyebarkan berkas koreksi ke media sosial atau publik. |
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 MATRIKS HAK AKSES DAN KERAHASIAN BERKAS                     │
+├─────────────────────┬───────────────────┬───────────────────────────────────┤
+│ PIHAK               │ HAK AKSES BERKAS  │ BATASAN WEWENANG & KEWAJIBAN      │
+├─────────────────────┼───────────────────┼───────────────────────────────────┤
+│ Santri Terkait      │ Hak Baca Penuh    │ Berhak memahami alasan koreksi    │
+│                     │                   │ dan mengklarifikasi jika ada catat│
+│                     │                   │ yang tidak faktual.               │
+├─────────────────────┼───────────────────┼───────────────────────────────────┤
+│ Musyrif Pembina     │ Hak Tulis & Baca  │ Hanya berwenang mengelola selama  │
+│ Kamar               │ Masa Aktif        │ masa pembinaan; haram menyebarkan │
+│                     │                   │ ke santri lain / ruang publik.    │
+├─────────────────────┼───────────────────┼───────────────────────────────────┤
+│ Tim Bimbingan &     │ Hak Simpan & Audit│ Menjaga arsip dalam brankas/server│
+│ Konseling (BK)      │ Konfidensial      │ terenkripsi; mengontrol retensi.  │
+├─────────────────────┼───────────────────┼───────────────────────────────────┤
+│ Orang Tua / Wali    │ Hak Informasi     │ Mendapatkan penjelasan bijak dan  │
+│ Santri              │ Ringkas Edukatif  │ solutif tanpa memicu kepanikan.   │
+├─────────────────────┼───────────────────┼───────────────────────────────────┤
+│ Publik / Medsos /   │ AKSES DITOLAK     │ Dilarang keras menyebarkan data   │
+│ Pihak Luar Lembaga  │ MUTLAK (0%)       │ koreksi santri ke ranah publik.   │
+└─────────────────────┴───────────────────┴───────────────────────────────────┘
+```
 
 ---
 
-## 4. Pagar Batas Epistemik (*Boundary Rules*)
+## 5. Tata Kelola Retensi dan Pemusnahan/Pengarsipan Aman (*Archiving Protocol*)
 
-1. **Bukan Sistem Penghukuman Kriminal (*Not a Penal Code*):** LPKR adalah dokumen pedagogis pembinaan adab, bukan surat dakwaan pidana.
-2. **Bukan Labeling Permanen:** Berkas ini tidak boleh dijadikan dasar untuk memberi label seumur hidup atau membatasi santri dari hak kepemimpinan di pondok pada masa depan.
-3. **Bukan Bukti Kausalitas Mutlak:** Catatan keberhasilan penanganan korektif adalah rekaman ikhtiar manusiawi, bukan jaminan mutlak santri tidak akan pernah melakukan kesalahan lain.
+1. **Penyimpanan Masa Aktif:** Berkas LPKR fisik disimpan di laci berkunci di kantor asrama selama proses bimbingan berlangsung (maksimal 30 hari).
+2. **Pengarsipan Pasca-Exit (*Post-Exit Sealing*):** Setelah status *Exit* ditandatangani, berkas diserahkan ke Tim BK dan diberi label **"TERTUTUP / RAHASIA"**. Berkas fisik disimpan di lemari arsip terkunci dan berkas digital diberi kata sandi (*encrypted*).
+3. **Masa Retensi & Pemusnahan (*De-identification*):**
+   - Catatan pelanggaran Tier 1 dan Tier 2 dimusnahkan secara berkala saat santri lulus dari pesantren, sehingga ijazah dan rekam jejak santri bersih sepenuhnya dari aib masa lalu.
+   - Data penelitian institusi hanya boleh menggunakan data teranonimkan (*anonymized data*) tanpa nama santri, NIS, atau identitas kamar.
+
+---
+
+## 6. Pagar Batas Epistemik (*Boundary Rules*)
+
+1. **Bukan Kitab Dakwaan Pidana (*Not a Penal Record*):**
+   LPKR adalah dokumen pedagogis tarbiyah adab, bukan berita acara pemeriksaan kepolisian atau berkas perkara perdata. Bahasa yang digunakan harus mencerminkan kasih sayang pendidik dan harapan perbaikan, bukan penghakiman dingin.
+2. **Larangan Otomasi Penjatuhan Hukuman (*No Algorithmic Punishment*):**
+   Dilarang keras menggunakan sistem perangkat lunak atau aplikasi AI yang secara otomatis menjatuhkan hukuman pemotongan poin tanpa telaah manusiawi dan tabayyun tatap muka dari musyrif.
+3. **Penyebaran Data sebagai Pelanggaran Etik Berat:**
+   Setiap pendidik atau pengurus asrama yang dengan sengaja membocorkan isi berkas korektif santri kepada pihak yang tidak berhak dapat dikenai sanksi pelanggaran etik berat dan pencopotan amanah pengasuhan.
+
+---
+
+## 7. Ringkasan Hubungan Sistemik Keseluruhan
+
+```text
+                    [INT-CORR-ARCH-v2.0.0] Arsitektur Fondasi
+                               │
+            ┌──────────────────┴──────────────────┐
+            ▼                                     ▼
+ [INT-CORR-AUD-v2.0.0] Audit Batas     [INT-CORR-GOAL-v2.0.0] Penetapan Tujuan
+            │                                     │
+            └──────────────────┬──────────────────┘
+                               │
+            ┌──────────────────┴──────────────────┐
+            ▼                                     ▼
+ [INT-CORR-DIGN-v2.0.0] Kehormatan     [INT-CORR-PROP-v2.0.0] Proporsionalitas 3R
+            │                                     │
+            └──────────────────┬──────────────────┘
+                               │
+            ┌──────────────────┴──────────────────┐
+            ▼                                     ▼
+ [INT-CORR-RESP-v2.0.0] Pemantauan     [INT-CORR-EXIT-v2.0.0] Exit & Clean Slate
+            │                                     │
+            └──────────────────┬──────────────────┘
+                               │
+                               ▼
+        [INT-CORR-TRAC-v2.0.0] Keterlacakan & Tata Kelola LPKR
+```

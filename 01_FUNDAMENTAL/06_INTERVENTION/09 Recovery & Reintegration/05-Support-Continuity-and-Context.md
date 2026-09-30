@@ -1,13 +1,31 @@
 # Kesinambungan Dukungan dan Konteks Lingkungan (Support Continuity and Context)
 
-> **"Tanaman yang baru dipindahkan ke tanah baru memerlukan keteduhan dan siraman air yang teratur sebelum akarnya kuat menantang terik matahari."**  
-> Santri yang baru kembali dari masa pemulihan menghadapi 'iklim' baru di asrama. Jadwal kegiatan yang padat, riuhnya suara teman sekamar, dan tuntutan hafalan yang menumpuk adalah badai rangsangan (*sensory overload*) yang dapat mengguncang jiwanya. Musyrif yang bijak tidak membiarkan santri berjuang sendirian; ia mengawal kesinambungan dukungan agar transisi dari ruang pemulihan ke gelanggang hidup berjalan mulus.
+**ID Kanonikal:** `INT-RECV-CONT-v2.0.0`  
+**Status Lapisan:** `01_FUNDAMENTAL` (Pedoman Inti Intervensi & Etika Pengasuhan)  
+**Status Epistemik:** *Conceptually Specified; Empirically Provisional* (Memerlukan telaah ekologi asrama berkala)  
+**Rujukan Silang Dokumen:**
+- [Prinsip dan Etika Intervensi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/01%20Principles%20&%20Ethics/01-Ethical-Foundations-of-Intervention.md)
+- [Arsitektur Pemulihan dan Reintegrasi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20&%20Reintegration/01-Recovery-Reintegration-Architecture.md)
+- [Audit Arsitektur Pemulihan dan Reintegrasi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20&%20Reintegration/02-Recovery-Reintegration-Audit.md)
+- [Transisi Menuju Reintegrasi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20&%20Reintegration/04-Transition-to-Reintegration.md)
+- [Pemantauan dan Asesmen Ulang Transisi](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/09%20Recovery%20&%20Reintegration/06-Monitoring-and-Reassessment.md)
 
 ---
 
-## 1. Menjaga Kesinambungan Dukungan (*Continuity of Care*)
+> [!NOTE]
+> ### Intisari untuk Pendidik, Musyrif, dan Pengasuh Pesantren
+> 1. **Filosofi Menanam Kembali Bibit Kebaikan:** *"Tanaman yang baru dipindahkan ke tanah baru memerlukan keteduhan dan siraman air yang teratur sebelum akarnya kuat menantang terik matahari."*
+> 2. **Jembatan Dua Alam Pengasuhan:** Menghubungkan rekomendasi medis/psikologis ruang konseling BK dengan praktik pengasuhan nyata di kamar asrama 24 jam agar santri tidak merasa bingung atau terombang-ambing.
+> 3. **Tujuh Dimensi Audit Ekologis:** Menyelaraskan beban lingkungan baru: mulai dari ketersediaan musyrif rujukan, penyesuaian target hafalan susulan, iklim ukhuwah kamar, posisi ranjang tidur, hingga akses wudhu yang tidak terburu-buru.
+> 4. **Peringatan Epistemik Fluktuasi Emosi:** Jika santri tampak murung atau menarik diri di hari-hari awal kembali, jangan buru-buru menyimpulkan karakternya rusak. Itu adalah respons kelelahan adaptasi yang wajar menghadapi riuhnya kehidupan pondok.
 
-Kesinambungan bimbingan mencakup jembatan komunikasi antara tim medis/BK dengan musyrif lapangan:
+---
+
+## 1. Menjaga Kesinambungan Bimbingan (*Continuity of Care*)
+
+Salah satu titik rapuh dalam tata kelola pesantren adalah terputusnya rantai informasi antara **Tim Konseling BK** dengan **Musyrif Lapangan di Asrama**. Sering kali guru BK menyatakan santri telah pulih, namun musyrif asrama tidak diberitahu apa pemicu kecemasan santri dan bagaimana cara mendampinginya. Akibatnya, santri langsung dihadapkan pada benturan sosial yang keras.
+
+TUMBUH membangun jembatan kesinambungan bimbingan tiga simpul:
 
 ```text
 ┌─────────────────────────┐         ┌─────────────────────────┐         ┌─────────────────────────┐
@@ -21,36 +39,81 @@ Kesinambungan bimbingan mencakup jembatan komunikasi antara tim medis/BK dengan 
 
 ## 2. Tujuh Dimensi Peninjauan Konteks Lingkungan Baru
 
-Sebelum menuntut performa penuh dari santri yang baru kembali, musyrif wajib memeriksa tujuh faktor ekologis berikut:
+Sebelum menuntut performa belajar dan disiplin penuh, tim pengasuhan wajib memeriksa tujuh faktor ekologis berikut:
 
-| Dimensi Konteks | Aspek yang Diperiksa di Pesantren | Tindakan Penyesuaian Jika Bermasalah |
-| :--- | :--- | :--- |
-| **1. Dukungan Tersedia (*Available Support*)** | Siapa musyrif piket yang siap diajak bicara saat santri gelisah di malam hari? | Menunjuk satu musyrif rujukan utama agar santri tidak bingung mencari pertolongan. |
-| **2. Beban Tuntutan Baru (*New Demands*)** | Apakah santri langsung dibebani hafalan yang tertinggal selama masa pemulihan? | Memberikan dispensasi jadwal susulan secara bertahap dan fleksibel. |
-| **3. Dinamika Relasi (*Social Climate*)** | Bagaimana sikap teman-teman sekamar; apakah ada ejekan terselubung? | Musyrif hadir lebih sering di kamar saat jam santai ba'da Ashar untuk mencairkan suasana. |
-| **4. Kondisi Spasial Lingkungan** | Apakah posisi ranjang santri berada di dekat pintu keluar yang bising atau dekat jendela sejuk? | Memberikan posisi tempat tidur yang lebih tenang agar santri dapat beristirahat berkualitas. |
-| **5. Aksesibilitas Fasilitas** | Apakah santri memiliki akses wajar ke kamar mandi dan tempat wudhu tanpa terdesak? | Mengizinkan santri bersiap wudhu 15 menit lebih awal sebelum adzan berkumandang. |
-| **6. Kesempatan Berlatih Adab** | Apakah santri diberi peran ringan dalam piket kamar untuk membangun rasa percaya diri? | Memberi amanah sederhana seperti menata rak Al-Qur'an kamar. |
-| **7. Mitigasi Pemicu Kekambuhan** | Apakah hal-hal yang memicu perselisihan masa lalu masih ada di kamar tersebut? | Memisahkan penempatan kamar dengan pihak lawan jika rekonsiliasi belum sepenuhnya tuntas. |
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 TUJUH DIMENSI AUDIT KONTEKS LINGKUNGAN ASRAMA               │
+├─────────────────────┬───────────────────────────────┬───────────────────────┤
+│ DIMENSI KONTEKS     │ ASPEK YANG DIPERIKSA DI PONDOK│ TINDAKAN PENYESUAIAN  │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 1. Dukungan Tersedia│ Siapa musyrif piket rujukan   │ Menunjuk satu musyrif │
+│    (Available Care) │ saat santri gelisah malam?    │ pendamping utama agar │
+│                     │                               │ santri tidak bingung. │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 2. Beban Tuntutan   │ Apakah santri langsung ditagih│ Berikan kelonggaran   │
+│    (New Demands)    │ hafalan yang tertinggal?      │ jadwal susulan hafalan│
+│                     │                               │ secara bertahap.      │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 3. Iklim Relasi     │ Bagaimana sikap warga kamar;  │ Musyrif hadir ba'da   │
+│    (Social Climate) │ apakah ada sindiran rahasia?  │ Ashar untuk mencairkan│
+│                     │                               │ suasana keakraban.    │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 4. Kondisi Spasial  │ Apakah posisi ranjang bising  │ Berikan ranjang yang  │
+│    Kamar Asrama     │ di dekat pintu keluar?        │ lebih tenang dan dekat│
+│                     │                               │ jendela sejuk.        │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 5. Akses Fasilitas  │ Apakah santri terdesak saat   │ Izinkan bersiap wudhu │
+│    Bersama          │ antre mandi sebelum Shubuh?   │ 15 menit lebih awal.  │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 6. Peran Khidmat    │ Apakah santri diberi peran    │ Beri amanah ringan:   │
+│    Bermakna         │ piket untuk percaya diri?     │ menata rak mushaf.    │
+├─────────────────────┼───────────────────────────────┼───────────────────────┤
+│ 7. Mitigasi Pemicu  │ Apakah musuh masa lalu masih  │ Pisahkan gedung kamar │
+│    Kekambuhan       │ berada dalam satu kamar?      │ jika rekonsiliasi     │
+│                     │                               │ belum tuntas penuh.   │
+└─────────────────────┴───────────────────────────────┴───────────────────────┘
+```
 
 ---
 
 ## 3. Peringatan Epistemik: Fluktuasi Perilaku Bukan Kerusakan Karakter
 
+Pendidik wajib memahami kaidah neurobiologis dan psikologis adaptasi santri:
+
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│  Perubahan Konteks Lingkungan  ──►  Mengubah Perilaku Sesaat                │
-│                                (TIDAK SAMA DENGAN)                          │
-│  Kerusakan Kapasitas Jiwa Santri Secara Permanen                            │
+│  Perubahan Konteks Lingkungan Baru  ──►  Memicu Kelelahan Emosi Sesaat      │
+│                                          (TIDAK BOLEH DISIMPULKAN SEBAGAI)  │
+│  Kegagalan Moral / Kerusakan Kapasitas Jiwa Santri Secara Permanen          │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Jika seorang santri tampak murung atau tiba-tiba menarik diri setelah tiga hari kembali ke asrama, jangan terburu-buru menyimpulkan bahwa ia kembali sakit atau gagal moral. Reaksi tersebut sering kali hanyalah **respons kelelahan wajar** dalam beradaptasi dengan ritme pesantren yang padat.
+### Fenomena Kelelahan Adaptasi (*Sensory Overload*):
+Santri yang terbiasa dalam keheningan ruang pemulihan selama 2 pekan akan mengalami lonjakan stimulasi indrawi ketika kembali ke asrama: dering bel asrama yang keras, ratusan santri yang berlari ke masjid, dan riuhnya obrolan kamar. Jika pada hari ke-4 santri tampak murung atau ingin menyendiri, itu adalah **sinyal kebutuhan istirahat sejenak (*decompression need*)**, bukan pembangkangan adab.
 
 ---
 
 ## 4. Pagar Batas Epistemik (*Boundary Rules*)
 
-1. **Larangan Over-Proteksi yang Melumpuhkan:** Memberikan dukungan berkelanjutan bukan berarti memanjakan santri hingga ia tidak mau melakukan tugas-tugas dasar asrama secara mandiri.
-2. **Keseimbangan Hak Santri Lain:** Penyesuaian beban santri yang baru pulih tidak boleh membebani anggota kamar lainnya secara tidak adil; musyrif wajib mengomunikasikan hal ini dengan bijak.
-3. **Pemberian Waktu Adaptasi yang Cukup:** Berikan masa adaptasi minimal 14–21 hari sebelum mengevaluasi kembali performa santri secara formal.
+1. **Larangan Over-Proteksi yang Memanjakan (*No Crippling Over-Protection*):**
+   Memberikan dukungan kesinambungan bukan berarti memanjakan santri hingga ia tidak mau mencuci piringnya sendiri atau menolak piket kamar. Pendampingan dirancang untuk membangun kemandirian, bukan melatih kerapuhan.
+2. **Keseimbangan Keadilan bagi Rekan Sekamar:**
+   Dispensasi beban yang diberikan kepada santri yang baru pulih tidak boleh membebani anggota kamar lainnya secara zalim. Musyrif mengomunikasikan dengan bijak agar warga kamar memandangnya sebagai ladang pahala ukhuwah (*ta'awun*).
+3. **Masa Adaptasi Minimal (14–21 Hari):**
+   Asatidz dilarang melakukan evaluasi formal kelulusan santri sebelum masa adaptasi minimal 14 hingga 21 hari terlampaui.
+
+---
+
+## 5. Ringkasan Hubungan Sistemik
+
+```text
+[INT-RECV-TRN-v2.0.0] Protokol Transisi Terbimbing
+         │
+         ▼
+[INT-RECV-CONT-v2.0.0] Kesinambungan Dukungan & 7 Dimensi Audit Lingkungan
+         │
+         ├────────────────────────────────────────┐
+         ▼                                        ▼
+[INT-RECV-MON-v2.0.0] Pemantauan Peduli        [INT-RECV-REL-v2.0.0] Mitigasi Relapse
+```

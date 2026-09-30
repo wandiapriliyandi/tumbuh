@@ -1,11 +1,11 @@
 # BAB 19: DISIPLIN POSITIF DAN KEADILAN RESTORATIF (RESTORATIVE JUSTICE & ISHLAH AL-BAIN)
 
 > *"Dan balasan suatu kejahatan adalah kejahatan yang serupa, maka barang siapa memaafkan dan berbuat baik maka pahalanya atas (tanggungan) Allah. Sesungguhnya Dia tidak menyukai orang-orang yang zalim."*  
-> — **QS. Asy-Syura [42]: 40**
+> — **QS. Asy-Syura [42]: 40**[^1]
 
 > إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ  
 > *"Sesungguhnya orang-orang mukmin itu bersaudara, karena itu damaikanlah antara kedua saudaramu (yang berselisih) dan bertakwalah kepada Allah agar kamu mendapat rahmat."*  
-> — **QS. Al-Hujurat [49]: 10**
+> — **QS. Al-Hujurat [49]: 10**[^2]
 
 ---
 
@@ -18,7 +18,7 @@ Ketika seorang santri melakukan kesalahan atau pelanggaran di lingkungan pesantr
 
 Paradigma retributif ini memandang pelanggaran semata-mata sebagai pembangkangan terhadap peraturan tertulis lembaga, dan solusinya adalah menimpakan rasa sakit (fisik maupun psikis) kepada pelanggar. Hasilnya sangat tragis: santri yang dihukum tidak belajar tentang rasa tanggung jawab dan empati terhadap korban, melainkan hanya belajar rasa takut, dendam terhadap pembina, dan lihai bersiasat agar tidak tertangkap di kemudian hari.
 
-Sistem TUMBUH merombak paradigma tersebut secara revolusioner dengan menghidupkan kembali konsep syariat **Ishlah al-Bain** yang dipadukan dengan sains perilaku modern ke dalam paradigma **Keadilan Restoratif (Restorative Justice)**. 
+Sistem TUMBUH merombak paradigma tersebut secara revolusioner dengan menghidupkan kembali konsep syariat **Ishlah al-Bain** yang dipadukan dengan sains perilaku modern ke dalam paradigma **Keadilan Restoratif (Restorative Justice)**.[^3] 
 
 Bagi TUMBUH, pelanggaran bukanlah sekadar teks aturan yang robek, melainkan **terlukanya hubungan persaudaraan (*ukhuwah*), terusiknya rasa aman komunitas asrama, dan rusaknya integritas jiwa pelaku itu sendiri**. 
 
@@ -58,7 +58,7 @@ Dalam sistem TUMBUH, proses pemulihan pelanggaran dioperasionalkan ke dalam tiga
 ```
 
 #### 1. Restitusi (Restitution): Memperbaiki Kerusakan Secara Nyata
-Restitusi bukanlah hukuman sewenang-wenang (seperti disuruh lari keliling lapangan atau menyikat WC umum yang tidak ada hubungannya dengan pelanggaran). Restitusi adalah **konsekuensi logis yang relevan secara langsung (*logically related*) dengan dampak pelanggaran**:
+Restitusi bukanlah hukuman sewenang-wenang (seperti disuruh lari keliling lapangan atau menyikat WC umum yang tidak ada hubungannya dengan pelanggaran). Restitusi adalah **konsekuensi logis yang relevan secara langsung (*logically related*) dengan dampak pelanggaran**:[^5]
 - Jika seorang santri merusak lemari kawan saat bertengkar, tindakan restitusi adalah memperbaikinya sendiri dengan bantuan tukang kayu pondok atau menyisihkan uang jajan pribadinya untuk membeli engsel pengganti.
 - Jika seorang santri menyebarkan kabar bohong (*fitnah*) tentang adik kelas, tindakan restitusi adalah mengklarifikasi kebenaran secara jujur di hadapan orang-orang yang telah mendengar kabar bohong tersebut dan memulihkan nama baik adik kelas.
 - Restitusi mengajarkan akuntabilitas nyata: perbuatan salah membawa konsekuensi perbaikan yang harus dituntaskan secara bertanggung jawab.
@@ -69,7 +69,7 @@ Banyak sanksi tradisional gagal karena konflik disapu di bawah karpet setelah hu
 - Musyrif membimbing kedua pihak menyusun **Pakta Perdamaian Kamar**: batasan-batasan apa yang disepakati bersama ke depan, bagaimana cara berkomunikasi jika terjadi perselisihan serupa, dan siapa yang akan mereka hubungi jika merasa emosi mulai memuncak kembali.
 
 #### 3. Rekonsiliasi (Reconciliation): Pemulihan Hati dan Hubungan
-Rekonsiliasi adalah puncak pemulihan batin. Meminta maaf bukan sekadar formalitas ucapan bibir di bawah todongan amarah musyrif (*"Ayo cepat salaman dan bilang maaf!"*). Rekonsiliasi yang bermakna membutuhkan waktu perenungan hingga kalbu pelaku benar-benar merasakan kepedihan yang dialami korban (*empathy activation*), dan korban merasa aman serta divalidasi rasa sakitnya sebelum ia dengan lapang dada memberikan maaf.
+Rekonsiliasi adalah puncak pemulihan batin. Meminta maaf bukan sekadar formalitas ucapan bibir di bawah todongan amarah musyrif (*"Ayo cepat salaman dan bilang maaf!"*). Rekonsiliasi yang bermakna membutuhkan waktu perenungan hingga kalbu pelaku benar-benar merasakan kepedihan yang dialami korban (*empathy activation*), dan korban merasa aman serta divalidasi rasa sakitnya sebelum ia dengan lapang dada memberikan maaf.[^4]
 
 ---
 

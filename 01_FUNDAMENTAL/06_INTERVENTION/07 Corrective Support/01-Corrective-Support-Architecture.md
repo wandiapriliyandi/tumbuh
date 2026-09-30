@@ -1,26 +1,40 @@
-# Arsitektur Dukungan Korektif (Corrective Support Architecture)
+# Arsitektur Dukungan Korektif Beradab dan Restoratif (Corrective Support Architecture)
 
-> **"Koreksi dalam Islam adalah cermin yang membersihkan debu di wajah saudaramu, bukan palu yang meremukkan kepalanya."**  
-> Ketika santri melakukan pelanggaran adab di pesantren—seperti berselisih dengan teman, terlambat shalat, atau melanggar aturan asrama—respons pendidik bukanlah membalas dendam dengan hukuman fisik atau makian yang mempermalukan. *Corrective Support* hadir untuk menghentikan bahaya, mengajak santri bertabayyun, menyadarkan dampak perbuatannya, memulihkan relasi yang terluka (*ishlah*), dan melatihkan adab pengganti yang benar.
+> **ID Kanonikal Dokumen:** `INT-CORR-ARCH-v2.0.0`  
+> **Status Lapisan:** `01_FUNDAMENTAL / 06_INTERVENTION / 07 Corrective Support`  
+> **Status Epistemik:** *Conceptually Specified; Empirically Provisional*  
+> **Rujukan Silang Dokumen:** [README.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/README.md) | [02-Corrective-Support-Audit.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/02-Corrective-Support-Audit.md) | [03-Corrective-Need-and-Goal.md](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/06_INTERVENTION/07%20Corrective%20Support/03-Corrective-Need-and-Goal.md)
 
 ---
 
-## 1. Hakikat dan Tujuan Dukungan Korektif
+> [!NOTE]
+> ### Intisari untuk Pendidik & Musyrif
+> **"Koreksi dalam Islam adalah cermin yang membersihkan debu di wajah saudaramu, bukan palu yang meremukkan kepalanya."**  
+> Ketika santri melakukan pelanggaran adab di pesantren—seperti bertengkar dengan kawan sekamar, melalaikan shalat berjamaah, atau merusak fasilitas asrama—respons pendidik bukanlah membalas dendam dengan hukuman fisik atau makian yang meruntuhkan harga diri anak.  
+> *Corrective Support (Dukungan Korektif)* hadir untuk menghentikan bahaya, mengajak santri bertabayyun dengan adil, menyadarkan dampak perbuatannya terhadap orang lain, memulihkan relasi persaudaraan yang terluka (*ishlah al-bain*), dan melatihkan adab pengganti yang benar.  
+> Dokumen ini menjabarkan **Arsitektur Dukungan Korektif TUMBUH v2.0.0**: rantai 8 simpul kanonikal, 6 pilar prinsip koreksi beradab, 9 aspek tabayyun mendalam, 4 sasaran ekologis, integrasi multi-tier PBIS, serta pagar etika perlindungan hak santri.
 
-Dukungan korektif (*corrective support*) diaktifkan ketika terjadi penyimpangan adab, disfungsi perilaku, atau situasi berisiko yang menuntut respons terarah dari pengasuh. Sesuai arsitektur inti TUMBUH, fokus utama koreksi adalah:
-1. **Keselamatan (*Safeguarding & Safety*):** Menghentikan segera bahaya fisik atau emosional terhadap santri dan warga pesantren.
-2. **Tanggung Jawab Moral (*Moral Accountability*):** Membantu santri mengakui tindakannya dan memahami akibat perbuatannya terhadap orang lain.
-3. **Perbaikan Dampak (*Restitution & Repair*):** Memperbaiki kerugian atau kerusakan konkret yang ditimbulkan secara adil.
-4. **Pemulihan Hubungan (*Relational Reconciliation / Ishlah*):** Menjahit kembali tali ukhuwah yang retak akibat perselisihan.
-5. **Pembelajaran Adab Pengganti (*Educational Learning*):** Melatih keterampilan regulasi diri agar kesalahan yang sama tidak terulang.
+---
 
-Koreksi dalam TUMBUH secara mutlak **bukan ajang pelampiasan amarah pendidik**, bukan pembalasan dendam (*retributive punishment*), dan bukan vonis label permanen terhadap kepribadian santri.
+## 1. Hakikat dan Lima Tujuan Utama Koreksi Restoratif
+
+Dukungan korektif (*corrective support*) diaktifkan ketika terjadi penyimpangan adab, disfungsi perilaku, atau situasi berisiko yang menuntut respons terarah dari pengasuh.
+
+Sesuai arsitektur inti TUMBUH, fokus utama koreksi adalah:
+1. **Keselamatan dan Perlindungan (*Safeguarding & Safety*):** Menghentikan segera bahaya fisik atau emosional terhadap santri dan seluruh warga pesantren.
+2. **Akuntabilitas Moral (*Moral Accountability*):** Membimbing santri mengakui kekhilafannya secara ksatria dan memahami akibat buruk perbuatannya terhadap orang lain.
+3. **Perbaikan Kerusakan Konkret (*Restitution & Repair*):** Memperbaiki atau mengganti kerugian materiil dan moral yang ditimbulkan secara adil dan terukur.
+4. **Pemulihan Hubungan Persaudaraan (*Relational Reconciliation / Ishlah al-Bain*):** Menjahit kembali tali ukhuwah yang retak akibat konflik atau perundungan.
+5. **Pembelajaran Adab Pengganti (*Educational Learning*):** Melatih keterampilan regulasi diri dan komunikasi santun agar kekhilafan yang sama tidak terulang di masa depan.
+
+> **Kaidah Epistemik Mutlak:**  
+> Koreksi dalam TUMBUH secara mutlak **bukan ajang pelampiasan amarah pendidik**, bukan pembalasan dendam (*retributive punishment*), dan bukan vonis label permanen terhadap kepribadian santri.
 
 ---
 
 ## 2. Alur Rantai Kanonikal Dukungan Korektif
 
-Setiap proses koreksi wajib melewati tahapan sistematis guna menjamin objektivitas, keadilan, dan kasih sayang pendidik:
+Setiap proses penanganan koreksi wajib melewati 8 tahapan sistematis guna menjamin objektivitas, keadilan, dan kasih sayang pendidik:
 
 ```text
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
@@ -37,8 +51,8 @@ Setiap proses koreksi wajib melewati tahapan sistematis guna menjamin objektivit
          │
          ▼ (Opsi Keputusan Pasca-Review)
 ┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│ [Continue: Lanjutkan] │ [Adjust: Modifikasi] │ [Step Down: Turunkan] │ [Stop: Selesai]    │
-│ [Step Up: Tingkatkan] │ [Refer: Rujuk ke Ahli BK/Medis Profesional]                       │
+│ [Continue: Lanjutkan] │ [Adjust: Modifikasi] │ [Step Down: Turunkan] │ [Exit: Tuntas]     │
+│ [Step Up: Tingkatkan] │ [Refer: Rujuk ke Ahli Konseling BK / Medis Profesional]           │
 └───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -48,33 +62,33 @@ Setiap proses koreksi wajib melewati tahapan sistematis guna menjamin objektivit
 
 | No | Prinsip Inti | Makna Konseptual | Penerapan Lapangan di Pesantren |
 | :---: | :--- | :--- | :--- |
-| **1** | **Keselamatan Utama (*Safety First*)** | Jika ada ancaman fisik/psikologis, tindakan perlindungan didahulukan sebelum tabayyun. | Memisahkan santri yang berkelahi secara aman sebelum memulai dialog mediasi. |
-| **2** | **Koreksi Proporsional (*Proportionality*)** | Beratnya respons harus seimbang dengan sifat kejadian, usia, dan kapasitas santri. | Tidak memberikan sanksi berat (seperti membersihkan seluruh selasar pondok) hanya karena terlambat 5 menit. |
-| **3** | **Fokus Tindakan, Bukan Label Pribadi** | Membedakan antara kekhilafan perbuatan dengan kemuliaan fitrah santri. | Mengatakan *"Perbuatan menyela antrean tadi tidak adil"* daripada *"Kamu memang anak nakal pembuat onar"*. |
-| **4** | **Tanggung Jawab Tanpa Mempermalukan** | Menegakkan konsekuensi logis secara tertutup (*satr al-'aurat*), bebas dari perundungan publik. | Melakukan konseling koreksi di ruang musyrif secara privat, bukan dijemur di lapangan di hadapan seluruh santri. |
-| **5** | **Koreksi Mengandung Pembelajaran** | Setiap tindakan koreksi wajib disertai pelatihan keterampilan alternatif. | Santri yang merusak fasilitas diajak memperbaiki barang tersebut sambil belajar cara merawat sarana wakaf. |
+| **1** | **Keselamatan Utama (*Safety First*)** | Jika ada ancaman fisik/psikologis nyata, tindakan perlindungan didahulukan sebelum tabayyun. | Memisahkan santri yang berselisih fisik secara aman sebelum memulai dialog mediasi kamar. |
+| **2** | **Koreksi Proporsional (*Proportionality*)** | Beratnya respons harus seimbang dengan sifat kejadian, usia, dan kapasitas santri asuh. | Tidak memberikan sanksi berat (seperti membersihkan seluruh selasar pondok) hanya karena terlambat 5 menit. |
+| **3** | **Fokus Tindakan, Bukan Label Pribadi** | Membedakan antara kekhilafan perbuatan dengan kemuliaan fitrah insan santri (*Correct Action ≠ Label Person*). | Mengatakan *"Perbuatan menyela antrean tadi tidak adil"* daripada *"Kamu memang anak nakal pembuat onar"*. |
+| **4** | **Tanggung Jawab Tanpa Mempermalukan** | Menegakkan konsekuensi logis secara tertutup (*satr al-'aurat*), bebas dari perundungan publik. | Melakukan konseling koreksi di ruang musyrif secara privat, bukan dijemur di lapangan di depan seluruh santri. |
+| **5** | **Koreksi Mengandung Pembelajaran** | Setiap tindakan koreksi wajib disertai pelatihan keterampilan adab pengganti. | Santri yang merusak fasilitas diajak memperbaiki barang tersebut sambil belajar cara merawat sarana wakaf. |
 | **6** | **Pemulihan Relasi (*Ishlah al-Bain*)** | Menuntaskan dendam batin dan memulihkan ukhuwah tanpa pemaksaan yang tidak aman. | Membimbing dialog saling memaafkan dan mengembalikan hak korban dengan tulus saat kedua pihak telah tenang. |
 
 ---
 
-## 4. Protokol Tabayyun Sebelum Penetapan Respons
+## 4. Protokol Sembilan Poin Tabayyun Sebelum Penetapan Respons
 
-Sebelum menjatuhkan keputusan koreksi, musyrif dan dewan pengasuhan wajib membedakan sembilan aspek kunci:
-1. **Apa yang benar-benar teramati langsung** vs apa yang dilaporkan oleh pihak kedua/ketiga.
-2. **Siapa pelapornya** dan apakah ada potensi konflik kepentingan antar-santri.
-3. **Keterampilan atau fungsi adab apa** yang sedang mengalami hambatan pada santri.
-4. **Konteks situasi dan tuntutan beban** saat peristiwa pelanggaran terjadi (kelelahan, stres ujian, provokasi).
-5. **Dukungan apa yang sudah tersedia** dan apakah fasilitas asrama ikut memicu masalah.
-6. **Perbedaan antar-sumber informasi** (pernyataan pelaku, saksi, dan korban).
-7. **Kecukupan bukti** untuk menarik kesimpulan yang adil tanpa tergesa-gesa.
-8. **Faktor ekologis lingkungan** yang memperburuk situasi (misal tata ruang kamar yang terlalu sempit dan panas).
-9. **Kebutuhan tindakan segera** jika terdapat indikasi pelanggaran perlindungan anak (*child safeguarding*).
+Sebelum menjatuhkan keputusan tindakan koreksi, musyrif dan dewan asatidz wajib memeriksa 9 poin tabayyun secara teliti:
+1. **Fakta Teramati Langsung:** Membedakan apa yang benar-benar disaksikan sendiri oleh pembina vs kabar angin atau laporan sepihak.
+2. **Integritas Sumber Pelapor:** Memeriksa siapa pelapornya dan apakah ada potensi dendam atau konflik kepentingan pribadi antar-santri.
+3. **Identifikasi Hambatan Kapasitas:** Mengidentifikasi keterampilan adab apa yang sedang mengalami hambatan pada diri santri.
+4. **Konteks Situasi Lapangan:** Memeriksa faktor kelelahan fisik, stres menjelang ujian, atau adanya provokasi dari pihak lain.
+5. **Audit Daya Dukung Lingkungan:** Memeriksa apakah fasilitas asrama yang tidak memadai ikut memicu masalah (misal antrean kran air yang terlalu sedikit).
+6. **Triangulasi Keterangan:** Mendengarkan penjelasan pelaku, saksi, dan korban secara terpisah dan objektif.
+7. **Kecukupan Bukti Faktual:** Memastikan data yang terkumpul cukup kuat sebelum menarik kesimpulan yang adil.
+8. **Faktor Ekologis Kamar:** Memeriksa apakah tata letak kamar yang sempit dan panas memperburuk emosi santri.
+9. **Kesiapsiagaan Tanggap Darurat:** Segera mengaktifkan prosedur perlindungan santri jika ditemukan indikasi bahaya berat (*safeguarding breach*).
 
 ---
 
 ## 5. Empat Sasaran Komprehensif Dukungan Korektif
 
-Masalah perilaku santri jarang berdiri sendiri. Oleh karena itu, koreksi TUMBUH menyasar empat lapis ekologis:
+Masalah kedisiplinan di asrama jarang berdiri sendiri sebagai kesalahan individu semata. Oleh karena itu, tindakan korektif TUMBUH menyasar 4 lapis ekologis:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -94,55 +108,44 @@ Masalah perilaku santri jarang berdiri sendiri. Oleh karena itu, koreksi TUMBUH 
 
 ---
 
-## 6. Bentuk-Bentuk Respons Korektif Terpadu
+## 6. Ragam Bentuk Tindakan Korektif Restoratif
 
-Bentuk tindakan korektif dipilih secara kasuistik dan proporsional:
-- **Klarifikasi Ekspektasi:** Menjelaskan ulang batasan adab yang dilanggar dan mengapa aturan tersebut penting bagi maslahat bersama.
-- **Coaching Korektif Pribadi:** Dialog reflektif satu-satu (*one-on-one*) bersama musyrif pembina untuk menggali akar masalah batin.
-- **Latihan Terstruktur (*Structured Practice*):** Melatih santri mempraktikkan perilaku benar secara berulang hingga menjadi refleks adab yang kokoh.
-- **Percakapan Restoratif (*Restorative Circle*):** Pertemuan mediasi aman antara pihak yang berkonflik untuk mendengarkan perasaan korban dan menyepakati jalan damai.
-- **Restitusi Proporsional:** Memperbaiki atau mengganti kerugian materiil/moral yang diakibatkan oleh perbuatannya secara wajar.
-- **Penyesuaian Lingkungan:** Mengatur ulang tempat tidur atau jadwal aktivitas santri guna memutus rantai pemicu gesekan.
-- **Dukungan Intensif & Rujukan Spesialis:** Melibatkan guru BK, psikolog, atau dewan pimpinan pesantren jika pelanggaran melibatkan trauma mendalam atau gangguan emosional berat.
+Tindakan korektif dipilih secara bijak sesuai konteks kasus:
+- **Percakapan Restoratif Pribadi (*Restorative Chat 1-on-1*):** Dialog empat mata musyrif bersama santri menggunakan 5 pertanyaan restoratif baku.
+- **Lingkaran Mediasi Restoratif (*Restorative Circle*):** Musyawarah tertutup mempertemukan pelaku, korban, dan perwakilan kamar menggunakan media pemandu bicara (*talking piece*) guna mencapai kesepakatan damai (*ishlah*).
+- **Restitusi Proporsional:** Memperbaiki atau mengganti kerugian materiil/sosial yang ditimbulkan secara wajar dan mandiri oleh santri.
+- **Latihan Terstruktur Adab Pengganti:** Latihan adab konkret (misal: adab antre, teknik menahan marah) selama 7–14 hari kalender.
+- **Rujukan Manajemen Kasus Khusus (Tier 3):** Melibatkan konselor BK, dokter kesehatan jiwa, atau dewan masyaikh jika kasus melibatkan trauma berat, kecanduan, atau pelanggaran syariat serius.
 
 ---
 
-## 7. Integrasi dengan Sistem Tingkat Dukungan (*Tiered Support*)
+## 7. Integrasi dengan Sistem Multi-Tier PBIS Pesantren
 
-Dukungan korektif dapat berlangsung di tingkat mana pun dalam piramida multi-tier:
-- **Koreksi Tier 1 (Universal):** Pengingat hangat saat santri lupa adab makan di meja makan, koreksi klasikal di kelas, atau penataan ulang rambu-rambu asrama.
-- **Koreksi Tier 2 (Targeted):** Pendampingan kelompok santri yang sering terlambat jamaah, bimbingan resolusi konflik ringan teman sekamar.
-- **Koreksi Tier 3 (Intensive):** Penanganan kasus perundungan (*bullying*), pencurian, atau krisis perilaku berat yang memerlukan manajemen kasus terpadu.
+Dukungan korektif bergerak selaras dengan tiga tingkatan dukungan perilaku:
+- **Koreksi Tier 1 (Universal):** Pengingat hangat saat santri melupakan adab makan, koreksi klasikal di kelas, atau penataan ulang rambu kamar asrama.
+- **Koreksi Tier 2 (Terarah):** Pendampingan kelompok santri yang sering terlambat shalat, mediasi konflik ringan antar-kawan sekamar.
+- **Koreksi Tier 3 (Intensif):** Penanganan kasus perundungan berulang (*bullying*), pencurian, atau agresi fisik mencederai melalui Rencana Pendampingan Perilaku Individual (RPPI).
 
-*Catatan Kritis:* Tier menjelaskan **intensitas bantuan sumber daya**, bukan tingkatan dosa atau label kehinaan pada santri.
-
----
-
-## 8. Hubungan dengan Asesmen dan Progresi Jenjang
-
-1. **Bukan Mesin Penghukum:** Data asesmen digunakan untuk memahami pola kelemahan santri, bukan untuk mencari-cari kesalahan santri guna dijatuhi sanksi otomatis (*no score-to-punishment engine*).
-2. **Koreksi Bukan Tahap Perkembangan:** Menjalani masa koreksi bukan tanda bahwa santri mengalami penurunan kapasitas fitrah secara permanen.
-3. **Berkurangnya Koreksi Bukan Otomatis Mastery:** Ketiadaan pelanggaran pasca-koreksi bisa jadi hanya bentuk kepatuhan situasional; ketuntasan karakter (*mastery*) menuntut bukti konsistensi longitudinal dan transfer mandiri.
+> **Prinsip Penting:**  
+> Tingkatan Tier mencerminkan **intensitas sumber daya pendampingan yang dialokasikan**, BUKAN tingkatan dosa atau label kehinaan pada diri santri.
 
 ---
 
-## 9. Perlindungan Martabat dan Hak Santri (*Safeguarding & Dignity*)
+## 8. Perlindungan Hak Santri (Safeguarding) dan Pagar Etika
 
-TUMBUH mengharamkan secara mutlak seluruh bentuk sanksi yang melanggar syariat dan hukum perlindungan anak:
-- **Haram Hukuman Fisik:** Dilarang memukul, menampar, menendang, menyuruh push-up/squat-jump berlebihan, menjemur di bawah terik matahari, atau menyiram air.
-- **Haram Kekerasan Verbal & Psikis:** Dilarang membentak dengan kata kotor, mencela fisik/keluarga, mengintimidasi, mempermalukan di pengumuman masjid/mading, atau mengisolasi santri di ruangan gelap.
-- **Hak Mengetahui Alasan:** Santri berhak menerima penjelasan yang tenang mengenai mengapa tindakannya keliru dan bagaimana cara memperbaikinya.
-
----
-
-## 10. Penggunaan Sistem Digital dan AI
-
-Sistem perangkat lunak logbook santri atau asisten AI hanya berfungsi mencatat rekam jejak faktual dan memberikan sinyal pola pengulangan. **AI dilarang keras menjatuhkan sanksi otomatis.** Setiap keputusan koreksi wajib melalui pertimbangan hati nurani, hikmah, dan musyawarah manusiawi dewan asatidz (*human-in-the-loop*).
+TUMBUH mengharamkan secara mutlak seluruh bentuk sanksi yang melanggar syariat dan hak perlindungan anak:
+- **Haram Hukuman Fisik:** Dilarang keras memukul, menampar, menjemur di terik matahari, menyiram air, atau menyuruh push-up berlebihan.
+- **Haram Kekerasan Verbal & Mental:** Dilarang mencaci maki, menghina keluarga/fisik, membentak di depan umum, atau mengisolasi santri di ruangan gelap.
+- **Etika Penggunaan Sistem Digital & AI:** Sistem logbook digital atau algoritma AI dilarang keras menjatuhkan sanksi otomatis. Keputusan koreksi wajib melalui pertimbangan hati nurani dan musyawarah asatidz manusia (*human oversight*).
 
 ---
 
-## 11. Pagar Batas Epistemik Arsitektur (*Boundary Rules*)
+## 9. Batasan Klaim Epistemik (Boundary Rules)
 
-1. **Bukan Klaim Kausalitas Mutlak:** Penurunan pelanggaran santri pasca-koreksi tidak membuktikan secara mutlak bahwa metode musyrif adalah satu-satunya penyebab perubahan; hidayah dan kematangan santri adalah karunia Allah SWT.
-2. **Bukan Resep Universal Baku:** Apa yang berhasil mendidik seorang santri mungkin tidak cocok untuk santri lain yang memiliki profil kepribadian berbeda.
-3. **Penyelarasan dengan 10 Muwashofat:** Seluruh tindakan koreksi bermuara pada pembentukan 10 karakter muslim sejati (*Graduate Profile*), bukan untuk mencetak santri yang tunduk buta pada otoritas manusia.
+1. **Bukan Bukti Kausalitas Mutlak:** Penurunan pelanggaran santri pasca-koreksi tidak membuktikan secara mutlak bahwa metode musyrif adalah satu-satunya penyebab perubahan; hidayah dan taufik sepenuhnya adalah karunia Allah SWT.
+2. **Bukan Resep Universal yang Pasti Sama:** Apa yang efektif mendidik seorang santri belum tentu cocok bagi santri lain yang memiliki temperamen berbeda.
+3. **Penyelarasan dengan 10 Muwashofat:** Seluruh tindakan koreksi bermuara pada pembentukan 10 karakter muslim sejati (*Graduate Profile*), bukan untuk mencetak santri yang tunduk buta karena takut pada pengawas.
+
+---
+
+> **Keputusan Arsitektur:** Arsitektur Dukungan Korektif (*Corrective Support Architecture*) adalah perwujudan keadilan dan rahmah Islam di pesantren TUMBUH v2.0.0. Dengan menegakkan tabayyun yang teliti, konsekuensi logis 3R yang mendidik, dan pemulihan ukhuwah tanpa stigma, pesantren meluruskan kekhilafan santri sembari menjaga kemuliaan martabat fitrahnya.

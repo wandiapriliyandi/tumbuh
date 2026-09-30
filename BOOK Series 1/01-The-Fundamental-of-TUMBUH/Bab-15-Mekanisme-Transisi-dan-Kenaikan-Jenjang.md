@@ -1,11 +1,11 @@
 # BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
 
 > *"Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa di antara kamu."*  
-> — **QS. Al-Hujurat [49]: 13**
+> — **QS. Al-Hujurat [49]: 13**[^1]
 
 > مَنْ بَطَّأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ  
 > *"Barang siapa yang diperlambat oleh amalnya, maka nasab (atau kedudukannya) tidak akan dapat mempercepatnya."*  
-> — **Hadits Riwayat Muslim (No. 2699)**
+> — **Hadits Riwayat Muslim (No. 2699)**[^2]
 
 ---
 
@@ -21,7 +21,7 @@ Bab ini membedah mekanisme transisi antar-jenjang secara menyeluruh: mulai dari 
 
 ### 15.1 Indikator Kelayakan Transisi Jenjang Berbasis Bukti Autentik
 
-Dalam arsitektur TUMBUH, transisi dari satu jenjang ke jenjang berikutnya (misalnya dari J1 ke J2, atau dari J2 ke J3) dikendalikan oleh gerbang evaluasi ketat yang disebut sebagai **Gerbang Transisi (*Gateway Review*)**. Gerbang ini dirancang untuk memastikan bahwa perancah (*scaffolding*) dukungan eksternal hanya ditarik mundur ketika kapasitas internal santri memang telah terbukti ajek dan stabil.
+Dalam arsitektur TUMBUH, transisi dari satu jenjang ke jenjang berikutnya (misalnya dari J1 ke J2, atau dari J2 ke J3) dikendalikan oleh gerbang evaluasi ketat yang disebut sebagai **Gerbang Transisi (*Gateway Review*)**[^6]. Gerbang ini dirancang untuk memastikan bahwa perancah (*scaffolding*) dukungan eksternal hanya ditarik mundur ketika kapasitas internal santri memang telah terbukti ajek dan stabil.
 
 #### 1. Melampaui Jebakan Waktu Kalender (*Beyond Time-Served Promotion*)
 Prinsip pertama dalam evaluasi transisi TUMBUH adalah: **Waktu menetap di asrama adalah syarat perlu (*necessary condition*), namun bukan syarat cukup (*sufficient condition*) untuk kenaikan jenjang.**
@@ -33,7 +33,7 @@ Dua orang santri yang masuk pondok pada hari yang sama dan duduk di kelas madras
 Memaksa Santri B naik ke jenjang J2 hanya karena "sudah satu semester" adalah kezaliman pedagogis yang membahayakan jiwanya: santri akan merasa kewalahan (*flooded*), kehilangan rasa aman, dan berisiko mengalami kemunduran perilaku drastis karena bantuan musyrif ditarik sebelum kapasitas batinnya terbentuk.
 
 #### 2. Empat Pilar Bukti Portofolio Autentik Santri
-Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara komprehensif melalui portofolio adab multidimensional yang merangkum empat pilar bukti autentik:
+Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara komprehensif melalui portofolio adab multidimensional yang merangkum empat pilar bukti autentik (Wiggins & McTighe, 2005)[^3]:
 
 ```text
                            PORTOFOLIO ADAB MULTIDIMENSIONAL
@@ -66,7 +66,7 @@ Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara ko
    - Mengamati responsnya ketika menghadapi situasi frustrasi, antrean panjang di kantin, atau ketika barang kesayangannya tidak sengaja tersenggol kawan.
 
 #### 3. Tata Kelola Sidang Dewan Pengasuhan (Gateway Committee)
-Keputusan kenaikan jenjang tidak pernah ditentukan secara sepihak oleh satu orang musyrif guna menghindari bias subjektivitas, favoritisme, atau sentimen pribadi. Keputusan diambil dalam **Sidang Dewan Pengasuhan (*Gateway Council*)** yang dihadiri oleh:
+Keputusan kenaikan jenjang tidak pernah ditentukan secara sepihak oleh satu orang musyrif guna menghindari bias subjektivitas, favoritisme, atau sentimen pribadi. Keputusan diambil dalam **Sidang Dewan Pengasuhan (*Gateway Council*)** yang dihadiri oleh seluruh pemangku kepentingan secara syura yang adil (Ibnu Jama'ah, 2012)[^4]:
 - Musyrif Kamar dan Kepala Asrama.
 - Perwakilan Guru Madrasah (pengampu kelas).
 - Konselor Bimbingan Konseling (BK) Pondok.
@@ -109,7 +109,7 @@ Sistem TUMBUH memutus rantai kezaliman kultural ini melalui rekayasa tradisi yan
 ```
 
 #### 1. Rekayasa Upacara Pengukuhan Jenjang (Rites of Passage)
-Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang bukan sebagai perayaan arogansi atau pawai kemegahan diri, melainkan sebagai majelis muhasabah batin, doa khusyuk, dan penyerahan amanah khidmah di hadapan seluruh civitas pondok:
+Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang bukan sebagai perayaan arogansi atau pawai kemegahan diri, melainkan sebagai majelis muhasabah batin, doa khusyuk, dan penyerahan amanah khidmah di hadapan seluruh civitas pondok (van Gennep, 1960)[^5]:
 - **Pelaksanaan Khidmat di Masjid:** Upacara digelar di dalam masjid ba'da salat subuh berjamaah, diawali dengan khataman Al-Qur'an dan zikir bersama untuk mensucikan niat.
 - **Simbolisme Penyerahan Amanah:** Santri yang naik jenjang tidak diberikan atribut-atribut militeristik atau seragam kasta yang mencolok. Mereka menerima simbol amanah pelayanan—seperti mushaf Al-Qur'an saku, selendang khidmah asrama, atau buku panduan bimbingan adik kelas.
 - **Ikrar Khidmah Santri:** Santri yang dikukuhkan mengucapkan janji setia bukan untuk menguasai pondok, melainkan ikrar untuk menjadi pelayan dan pelindung bagi adik-adik kelas mereka:
@@ -176,3 +176,14 @@ Tangisan haru selalu pecah di seluruh penjuru masjid setiap kali ritus ini berla
 3. **Keputusan Dewan Pengasuhan yang Adil:** Sidang Dewan Pengasuhan melibatkan musyrif, guru madrasah, konselor BK, dan pimpinan pondok untuk menghasilkan keputusan obyektif: Promosi Penuh, Promosi Bersyarat dengan Uji Coba, atau Dukungan Konsolidasi tanpa stigma kegagalan.
 4. **Prinsip Reversibilitas Bermartabat:** Penurunan jenjang sementara saat santri mengalami regresi krisis emosional adalah bentuk pemberian perancah bantuan kembali (*re-scaffolding*), bukan penghukuman publik. Dilakukan dengan menjaga kerahasiaan dan martabat santri.
 5. **Anti-Feodalisme dan Budaya Khidmah:** Upacara kenaikan jenjang (*rites of passage*) didesain sebagai penyerahan amanah pelayanan umat (*khidmah*), bukan panggung arogansi kekuasaan. Menghapus seluruh privilese feodal, melarang perbudakan santri junior, serta menyatukan santri senior dan adik kelas dalam ikatan persaudaraan kakak-adik asuh yang saling menguatkan.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 13.
+[^2]: Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab adz-Dzikr wa ad-Du'a' wa at-Taubah, Bab Fadhl al-Ijtima' 'ala Tilawatil Qur'an wa 'ala adz-Dzikr, hadits no. 2699.
+[^3]: Grant Wiggins & Jay McTighe, *Understanding by Design* (Alexandria: ASCD, 2005), hlm. 152–175 mengenai penilaian autentik (*authentic assessment*) dan portofolio bukti unjuk kerja nyata.
+[^4]: Badruddin Muhammad bin Ibrahim Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*, Tahqiq: Dr. Muhammad bin Mahdi al-Ajmi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 82–95 mengenai etika musyawarah para pendidik dalam mengevaluasi murid secara adil.
+[^5]: Arnold van Gennep, *The Rites of Passage*, diterjemahkan oleh Monika B. Vizedom & Gabrielle L. Caffee (Chicago: The University of Chicago Press, 1960), hlm. 1–25 mengenai struktur tiga fase ritus transisi (*separation, liminality, incorporation*).
+[^6]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/06 Transition Criteria/03-Transition-Criteria-Design.md` dan `01-Progression-Gates-and-Thresholds.md`.

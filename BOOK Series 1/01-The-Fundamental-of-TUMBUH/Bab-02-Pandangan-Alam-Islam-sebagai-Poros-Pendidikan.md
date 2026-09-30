@@ -286,7 +286,7 @@ Ketika kelima pilar Maqashid Syari'ah ini tegak berdiri di seluruh ruang asrama,
 ### 2.7 Rekonseptualisasi Adab: Keadilan Menempatkan Segala Sesuatu pada Kedudukannya
 
 Prof. Dr. Syed Muhammad Naquib al-Attas merumuskan definisi adab yang melampaui sekadar tata krama lahiriah atau etiket sosial permukaan:
-> *"Adab adalah pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud ciptaan Allah tersusun secara hierarkis sesuai tingkat keluhuran dan derajat nilainya, serta pengakuan terhadap kedudukan diri sendiri yang tepat dalam tata susunan wujud tersebut, yang diwujudkan dalam tindakan adil terhadap diri sendiri dan semesta."*[^1]
+> *"Adab adalah pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud ciptaan Allah tersusun secara hierarkis sesuai tingkat keluhuran dan derajat nilainya, serta pengakuan terhadap kedudukan diri sendiri yang tepat dalam tata susunan wujud tersebut, yang diwujudkan dalam tindakan adil terhadap diri sendiri dan semesta."*[^11]
 
 Ketiadaan adab (*the loss of adab*) selalu bermula dari **Kezaliman (*Azh-Zhulm*)**, yang secara etimologis bermakna: *wad'u syai-in fi ghairi maudhi'ihi* (meletakkan sesuatu bukan pada tempatnya yang hak).
 
@@ -345,3 +345,4 @@ Inilah penjelajahan agung yang akan kita bedah bersama dalam **Bagian II: Episte
 [^8]: Fakhruddin Muhammad bin Umar Ar-Razi, *Mafatih al-Ghaib* (At-Tafsir al-Kabir) (Beirut: Dar al-Fikr, 1981), Jilid XXI, hlm. 13–18.
 [^9]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an* (Tafsir Al-Qurthubi), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Beirut: Mu'assasah ar-Risalah, 2006), Jilid VI, hlm. 43–48.
 [^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420; Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Masyhur bin Hasan Al Salman (Kobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–32.
+[^11]: Syed Muhammad Naquib al-Attas, *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and the Nature of Reality* (Kuala Lumpur: ISTAC, 1995), hlm. 102–115 mengenai definisi filosofis adab dan kaitannya dengan martabat keadilan (*'adl*).
