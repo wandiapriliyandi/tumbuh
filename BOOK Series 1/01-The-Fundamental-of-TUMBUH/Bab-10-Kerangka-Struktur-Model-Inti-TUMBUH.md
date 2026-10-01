@@ -88,26 +88,33 @@ Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disint
 
 ```mermaid
 graph TD
-    P["PROFIL LULUSAN SANTRI TUMBUH: INSAN RUSYD BERADAB"]
+    P["PROFIL LULUSAN SANTRI: INSAN RUSYD BERADAB"]
     
-    subgraph RANAH_SPIRITUAL["Poros Ruhani & Akal"]
-        P --> K1["1. Salimul 'Aqidah (Akidah yang Lurus & Bersih dari Syirik)"]
-        P --> K2["2. Shahihul 'Ibadah (Ibadah yang Benar Sesuai Sunnah)"]
-        P --> K5["3. Mutsaqqoful Fikr (Wawasan Keilmuan Luas & Kritis)"]
+    subgraph RANAH_SPIRITUAL["1. Poros Ruhani & Nalar"]
+        direction TB
+        K1["Salimul 'Aqidah (Akidah Lurus & Murni)"]
+        --> K2["Shahihul 'Ibadah (Ibadah Benar Sesuai Sunnah)"]
+        --> K5["Mutsaqqoful Fikr (Wawasan Luas & Kritis)"]
     end
     
-    subgraph RANAH_PRIBADI["Poros Kendali Diri & Jasmani"]
-        P --> K4["4. Qowiyyul Jism (Fisik Sehat, Bugar & Terawat)"]
-        P --> K6["5. Mujahidun Linafsihi (Mampu Mengendalikan Hawa Nafsu)"]
-        P --> K7["6. Harishun 'ala Waqtihi (Disiplin Mengelola Waktu)"]
-        P --> K8["7. Munazzhamun fi Syu'unihi (Tertib & Rapi dalam Segala Urusan)"]
+    subgraph RANAH_PRIBADI["2. Poros Kendali Diri & Jasmani"]
+        direction TB
+        K4["Qowiyyul Jism (Fisik Sehat & Bugar)"]
+        --> K6["Mujahidun Linafsihi (Kuat Kendali Nafsu)"]
+        --> K7["Harishun 'ala Waqtihi (Disiplin Waktu)"]
+        --> K8["Munazzhamun fi Syu'unihi (Tertib & Rapi)"]
     end
     
-    subgraph RANAH_SOSIAL["Poros Adab & Kemanfaatan"]
-        P --> K3["8. Matinul Khuluq (Akhlak Mulia & Beradab Luhur)"]
-        P --> K9["9. Qodirun 'alal Kasbi (Mandiri, Tangguh & Produktif)"]
-        P --> K10["10. Nafi'un Lighairihi (Bermanfaat bagi Sesama & Pelopor Maslahat)"]
+    subgraph RANAH_SOSIAL["3. Poros Adab & Kemanfaatan"]
+        direction TB
+        K3["Matinul Khuluq (Akhlak Mulia & Beradab)"]
+        --> K9["Qodirun 'alal Kasbi (Mandiri & Tangguh)"]
+        --> K10["Nafi'un Lighairihi (Pelopor Kebaikan Umat)"]
     end
+
+    P ==> RANAH_SPIRITUAL
+    RANAH_SPIRITUAL ==> RANAH_PRIBADI
+    RANAH_PRIBADI ==> RANAH_SOSIAL
 ```
 
 Mari kita terjemahkan kesepuluh profil ini ke dalam indikator perilaku nyata di lingkungan asrama pesantren 24 jam:
@@ -144,14 +151,24 @@ Kapasitas Inti adalah serangkaian keterampilan eksekutif kognitif, emosional, fi
 ```mermaid
 graph TD
     subgraph DELAPAN_KAPASITAS_INTI_TUMBUH["Delapan Kapasitas Inti TUMBUH (8 CC)"]
-        C1["CC-1: SELF-REGULATION (Regulasi Diri)<br/>Pengendalian Impuls • Penundaan Kepuasan • Manajemen Emosi"]
-        C2["CC-2: CRITICAL THINKING (Penalaran Kritis)<br/>Analisis Argumen • Verifikasi Fakta • Logika Maslahat"]
-        C3["CC-3: COMMUNICATION (Komunikasi Beradab)<br/>Qaulan Sadida • Active Listening • Asertif Santun"]
-        C4["CC-4: COLLABORATION (Kerja Sama Ukhuwah)<br/>Ta'awun Kamar • Manajemen Konflik • Berbagi Peran"]
-        C5["CC-5: PHYSICAL FUNCTIONING (Fungsi Jasmani)<br/>Ketahanan Raga • Higienitas • Manajemen Tidur & Nutrisi"]
-        C6["CC-6: SOCIAL UNDERSTANDING (Empati Sosial)<br/>Perspective Taking • Peka Kebutuhan Kawan • Menolak Bullying"]
-        C7["CC-7: AGENCY (Inisiatif & Kehendak Sadar)<br/>Al-Ikhtiyar • Proaktif Kebaikan • Tanggung Jawab Mandiri"]
-        C8["CC-8: PROBLEM SOLVING (Pemecahan Masalah)<br/>Identifikasi Akar Masalah • Restitusi Kreatif • Solutif"]
+        direction TB
+        subgraph FONDASI_DIRI["Fondasi Kendali Diri & Nalar"]
+            direction TB
+            C1["CC-1: REGULASI DIRI (Mujahadatun Nafs)<br/>Kendali Impuls • Sabar • Regulasi Emosi"]
+            --> C2["CC-2: NALAR KRITIS (Tafakkur Burhani)<br/>Analisis Fakta • Verifikasi Bukti Sahih"]
+            --> C5["CC-5: KESEHATAN RAGA (Quwwatul Jasad)<br/>Nutrisi • Higienitas • Kualitas Tidur"]
+            --> C7["CC-7: AGENSI MANDIRI (Al-Ikhtiyar)<br/>Inisiatif Mandiri • Tanggung Jawab Pribadi"]
+        end
+
+        subgraph FONDASI_SOSIAL["Kapasitas Relasi & Aksi Maslahat"]
+            direction TB
+            C3["CC-3: KOMUNIKASI ADABI (Qaulan Sadida)<br/>Mendengar Aktif • Santun & Asertif"]
+            --> C4["CC-4: KERJA SAMA (Ta'awun Ukhuwah)<br/>Manajemen Konflik • Berbagi Tugas Kamar"]
+            --> C6["CC-6: EMPATI SOSIAL (Tafahum & Khidmah)<br/>Peka Teman • Peduli & Anti-Bullying"]
+            --> C8["CC-8: RESOLUSI MASALAH (Al-Hikmah)<br/>Akar Masalah • Restitusi & Rekonsiliasi"]
+        end
+
+        FONDASI_DIRI ==> FONDASI_SOSIAL
     end
 ```
 

@@ -191,11 +191,11 @@ Dalam tradisi tarbiyah TUMBUH, proses Functional Behavior Assessment tidak dilak
 graph TD
     subgraph ALUR_WAWANCARA_FBA["Alur Wawancara FBA Sokratik Bersama Santri"]
         direction TB
-        W1["LANGKAH 1: MEMBANGUN ALIANSI AMAN & KONEKSI HATI<br/>'Ustadz memanggil antum bukan untuk marah atau menghukum, tapi karena ustadz peduli...'"]
-        W2["LANGKAH 2: MEMBEDAH ANTESEDEN DENGAN PERTANYAAN TERBUKA<br/>'Apa yang sebenarnya terjadi tepat beberapa menit sebelum antum berteriak tadi sore?'"]
-        W3["LANGKAH 3: MENGIDENTIFIKASI EMOSI & SENSASI TUBUH<br/>'Apa rasa yang ada di dada antum saat nama antum dipanggil di depan halaqah?'"]
-        W4["LANGKAH 4: MENGGALI FUNGSI KEBUTUHAN TERSEMBUNYI<br/>'Apakah ada ketakutan ditertawakan kawan? Atau antum sedang sangat lelah?'"]
-        W5["LANGKAH 5: MERUMUSKAN PERILAKU PENGGANTI BERSAMA<br/>'Jika situasi itu terjadi lagi besok, cara beradab apa yang bisa kita sepakati bersama?'"]
+        W1["LANGKAH 1: MEMBANGUN ALIANSI AMAN<br/>'Ustadz memanggil antum bukan untuk marah,<br/>melainkan karena ustadz peduli...'"]
+        W2["LANGKAH 2: MEMBEDAH ANTESEDEN<br/>'Apa yang terjadi tepat beberapa saat<br/>sebelum antum berteriak tadi sore?'"]
+        W3["LANGKAH 3: MENGIDENTIFIKASI EMOSI<br/>'Apa rasa yang ada di dada antum saat<br/>nama antum dipanggil di halaqah?'"]
+        W4["LANGKAH 4: MENGGALI KEBUTUHAN DASAR<br/>'Apakah takut ditertawakan teman,<br/>atau antum sedang sangat lelah?'"]
+        W5["LANGKAH 5: MERUMUSKAN PERILAKU PENGGANTI<br/>'Jika situasi serupa terjadi besok,<br/>cara beradab apa yang kita sepakati bersama?'"]
         
         W1 --> W2 --> W3 --> W4 --> W5
     end

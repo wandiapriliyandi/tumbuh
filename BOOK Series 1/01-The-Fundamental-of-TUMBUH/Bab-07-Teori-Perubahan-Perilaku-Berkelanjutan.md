@@ -71,14 +71,14 @@ Dalam sains psikologi perilaku modern, James Prochaska dan Carlo DiClemente meru
 graph TD
     subgraph TAHAPAN_PERUBAHAN_TUMBUH["Enam Etape Transformasi Karakter Santri TUMBUH"]
         direction TB
-        S1["1. FASE GHAFLAH (PRE-KONTEMPLASI)<br/>Santri Berada dalam Kelalaian & Merasa Perilakunya Normal"]
-        S2["2. FASE YAQZHAH & INABAH (KONTEMPLASI)<br/>Terbangunnya Kesadaran Batin & Muncul Penyesalan Nurani"]
-        S3["3. FASE AZM & NIYYAH (PREPARASI / PERSIAPAN)<br/>Membulatkan Tekad & Menyusun Rencana Perbaikan Bersama Musyrif"]
-        S4["4. FASE MUJAHADAH (AKSI NYATA / RESTITUSI)<br/>Perjuangan Mengubah Kebiasaan, Mengganti Kerugian & Disiplin Positif"]
-        S5["5. FASE ISTIQAMAH (PEMELIHARAAN / MAINTENANCE)<br/>Konsistensi Amal Minimal 6 Bulan Hingga Terbentuk Malakah Watak"]
+        S1["1. FASE GHAFLAH (Lalai)<br/>Belum sadar masalah"]
+        S2["2. FASE YAQZHAH (Sadar)<br/>Muncul penyesalan nurani"]
+        S3["3. FASE AZM (Tekad)<br/>Rencana ishlah bersama musyrif"]
+        S4["4. FASE MUJAHADAH (Aksi)<br/>Ubah kebiasaan & restitusi"]
+        S5["5. FASE ISTIQAMAH (Konsisten)<br/>Amal menetap jadi malakah"]
         
         S1 --> S2 --> S3 --> S4 --> S5
-        S4 -.->|Terjadi Zallah / Khilaf| R["6. FASE TAFAKKUR EVALUATIF (Bukan Vonis Gagal!)"]
+        S4 -.->|Jika Terjadi Zallah / Khilaf| R["6. FASE TAFAKKUR EVALUATIF<br/>(Refleksi & Bangkit Kembali)"]
         R -.-> S3
     end
 ```
@@ -195,16 +195,16 @@ Prinsip arsitektur asrama TUMBUH menetapkan: **Buatlah kebaikan menjadi pilihan 
 
 ```mermaid
 graph TD
-    subgraph ARSITEKTUR_PILIHAN_ASRAMA["Rekayasa Arsitektur Pilihan (Nudge) TUMBUH"]
+    subgraph ARSITEKTUR_PILIHAN_ASRAMA["Rekayasa Pilihan Lingkungan (Nudge)"]
         direction TB
-        E1["MASALAH LAMA: Santri Gemar Ghashab Sandal di Tangga Masjid"]
-        E2["SOLUSI TRADISIONAL GAGAL: Membentak & Mengancam Denda Poin (Ghashab Tetap Marak)"]
-        E3["SOLUSI NUDGE TUMBUH: Rak Sandal Bersekat Bernomor Nama Unik Tepat di Depan Pintu"]
-        E4["HASIL: Pelanggaran Turun 90% Tanpa Ada Satu Bentakan Pun!"]
+        E1["MASALAH LAMA:<br/>Kebiasaan Ghashab Sandal di Tangga"]
+        E2["SOLUSI REPRESIF GAGAL:<br/>Membentak & Denda Poin (Tetap Marak)"]
+        E3["SOLUSI REKAYASA TUMBUH:<br/>Rak Sandal Bersekat & Bernomor Nama"]
+        E4["HASIL NYATA:<br/>Pelanggaran Turun 90% Tanpa Bentakan"]
         
         E1 --> E2
-        E2 -.->|Gagal| E3
-        E3 --> E4
+        E2 -.->|Tidak Efektif| E3
+        E3 ==> E4
     end
 ```
 

@@ -79,14 +79,26 @@ TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertent
 Lensa ini memandang perjalanan manusia dari perspektif makro-filosofis tarbiyah sepanjang hayat: bagaimana suatu nilai adab bertransformasi dari sekadar informasi di kepala hingga mendarah daging menjadi watak (*malakah*) dan melahirkan peran kepemimpinan peradaban:
 
 ```mermaid
-graph LR
-    subgraph SIKLUS_SANTRI["Ranah Santri Aktif di Asrama (Puncak di J4)"]
-        T1["1. Tahu"] --> T2["2. Paham"] --> T3["3. Sadar"] --> T4["4. Pembiasaan"] --> T5["5. Istiqamah"] --> T6["6. Teladan"] --> T7["7. Penggerak"]
+graph TD
+    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif di Asrama (Puncak di J4)"]
+        direction TB
+        T1["1. Tahu (Ta'allum)"]
+        --> T2["2. Paham (Tafahhum)"]
+        --> T3["3. Sadar (Tafakkur)"]
+        --> T4["4. Pembiasaan (Ta'awwud)"]
+        --> T5["5. Istiqamah (Tsabat)"]
+        --> T6["6. Teladan (Qudwah)"]
+        --> T7["7. Penggerak (Raid / Qiyadah)"]
     end
     
-    subgraph SIKLUS_PASCA_SANTRI["Ranah Pasca-Santri & Pendidik (Di Luar J4)"]
-        T7 -.-> T8["8. Pelaksana (Khidmah 1 Thn)"] --> T9["9. Pembina (Murabbi)"] --> T10["10. Pembangun (Sistem)"]
+    subgraph SIKLUS_PASCA_SANTRI["Ranah Pasca-Santri & Kader Khidmah"]
+        direction TB
+        T8["8. Pelaksana Khidmah (1 Tahun)"]
+        --> T9["9. Pembina Asrama (Murabbi)"]
+        --> T10["10. Pembangun Ekosistem (Arsitek Sistem)"]
     end
+
+    T7 -.->|Lulus Menjadi Kader| T8
 ```
 
 * **Ranah Santri Asrama (Tingkat 1 s/d 7)**:
@@ -128,15 +140,25 @@ Agar pembinaan adab tidak melayang-layang dalam khayalan konsep yang abstrak, si
 
 ```mermaid
 graph TD
-    subgraph DELAPAN_KAPASITAS_INTI_TUMBUH["Delapan Kapasitas Inti Fitrah Insan Adabi (8 CC)"]
-        CC1["CC-01: Regulasi Diri & Pengendalian Nafsu (Mujahadatun Nafs)"]
-        CC2["CC-02: Komunikasi Beradab & Kelembutan Lisan (Hifzhul Lisan)"]
-        CC3["CC-03: Nalar Kritis & Pemecahan Masalah Berhikmah (Al-Hikmah)"]
-        CC4["CC-04: Ketundukan Ibadah & Muraqabatullah (Al-Ibadah wal-Muraqabah)"]
-        CC5["CC-05: Kebugaran Jasmani & Ketangguhan Fisik (Al-Quwwah wal-Inshihah)"]
-        CC6["CC-06: Kejujuran Hati & Tanggung Jawab Moral (Ash-Shidq wal-Amanah)"]
-        CC7["CC-07: Empati Sosial & Pelayanan Umat (Al-Ukhuwwah wal-Khidmah)"]
-        CC8["CC-08: Metakognisi & Kejujuran Muhasabah (Tafakkur wal-Muhasabah)"]
+    subgraph DELAPAN_KAPASITAS_INTI_TUMBUH["Delapan Kapasitas Inti Insan Adabi (8 CC)"]
+        direction TB
+        subgraph KELOMPOK_INTEGRITAS["Poros Integritas & Kendali Diri"]
+            direction TB
+            CC1["CC-01: Regulasi Diri (Mujahadatun Nafs)"]
+            --> CC4["CC-04: Muraqabatullah (Al-Ibadah)"]
+            --> CC5["CC-05: Kebugaran Fisik (Al-Quwwah)"]
+            --> CC6["CC-06: Kejujuran Moral (Ash-Shidq)"]
+        end
+
+        subgraph KELOMPOK_SOSIAL_HIKMAH["Poros Hikmah Nalar & Khidmah"]
+            direction TB
+            CC2["CC-02: Komunikasi Santun (Hifzhul Lisan)"]
+            --> CC3["CC-03: Nalar Hikmah (Al-Hikmah)"]
+            --> CC7["CC-07: Empati & Khidmah (Al-Ukhuwwah)"]
+            --> CC8["CC-08: Muhasabah Diri (Tafakkur)"]
+        end
+
+        KELOMPOK_INTEGRITAS ==> KELOMPOK_SOSIAL_HIKMAH
     end
 ```
 
@@ -176,12 +198,9 @@ Vygotsky membagi bentang belajar manusia ke dalam tiga zona:
 graph TD
     subgraph TIGA_ZONA_BELAJAR["Tiga Zona Belajar Santri di Asrama"]
         direction TB
-        Z1["1. ZONA NYAMAN (COMFORT ZONE)<br/>Tugas Terlalu Mudah • Tidak Ada Pertumbuhan Jiwa • Melahirkan Kebosanan & Apatis"]
-        Z2["2. ZONA PERKEMBANGAN PROKSIMAL (ZPD - SWEET SPOT)<br/>Tugas Berada Sedikit di Atas Kemampuan Mandiri Santri,<br/>Namun Mampu Dikuasai dengan Bantuan Mentor (Scaffolding) • TEMPAT TERJADINYA TUMBUH!"]
-        Z3["3. ZONA PANIK (PANIC / FRUSTRATION ZONE)<br/>Beban Terlalu Berat • Hipokampus & Rem PFC Lumpuh • Melahirkan Depresi & Pemberontakan"]
-        
-        Z1 --> Z2
-        Z2 --> Z3
+        Z1["1. ZONA NYAMAN (Comfort Zone)<br/>Tugas terlalu mudah, tiada tantangan,<br/>melahirkan kejenuhan & stagnasi."]
+        --> Z2["2. ZONA PERKEMBANGAN PROKSIMAL (ZPD)<br/>Tantangan bermakna dengan pendampingan mentor<br/>(Scaffolding) — TEMPAT TERJADINYA TUMBUH!"]
+        --> Z3["3. ZONA PANIK (Panic Zone)<br/>Beban berlebihan melumpuhkan nalar PFC,<br/>memicu stres akut & pemberontakan."]
     end
 ```
 

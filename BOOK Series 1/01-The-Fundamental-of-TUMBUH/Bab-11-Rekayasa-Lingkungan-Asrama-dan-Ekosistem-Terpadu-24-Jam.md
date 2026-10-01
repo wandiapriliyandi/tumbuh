@@ -40,12 +40,13 @@ Sebaliknya, jika tata ruang fisik asrama dirancang dengan prinsip **Pengawasan A
 Ekosistem TUMBUH mewajibkan setiap pesantren melakukan audit tata ruang fisik dan menetapkan protokol **Rekayasa Lingkungan Asrama (*Environmental Engineering*)** untuk melenyapkan titik-titik rawan perundungan (*Hotspots Mitigation*)[^3]:
 
 ```mermaid
-graph LR
-    subgraph EMPAT_PILAR_REKAYASA_ASRAMA["Empat Pilar Rekayasa Lingkungan TUMBUH"]
-        P1["1. PENCAHAYAAN OPTIMAL (LIGHTING)<br/>Eliminasi Total Sudut Gelap di Lorong, Tangga & Jemuran"]
-        P2["2. PENGAWASAN ALAMI (NATURAL SURVEILLANCE)<br/>Pintu Berventilasi Kaca, Pos Musyrif di Titik Silang Strategis"]
-        P3["3. PENGENDALIAN AKSES (ACCESS CONTROL)<br/>Gudang & Plafon Terkunci Rapat, Kamar Mandi Bersekat Aman"]
-        P4["4. KELAYAKAN SANITASI & SIRKULASI UDARA<br/>Ventilasi Menenteramkan Saraf, Air Bersih Bebas Najis"]
+graph TD
+    subgraph EMPAT_PILAR_REKAYASA_ASRAMA["Empat Pilar Rekayasa Lingkungan Asrama"]
+        direction TB
+        P1["1. PENCAHAYAAN OPTIMAL (Lighting)<br/>Eliminasi Total Sudut Gelap di Lorong & Tangga"]
+        --> P2["2. PENGAWASAN ALAMI (Natural Surveillance)<br/>Pintu Berventilasi Kaca & Pos Musyrif Strategis"]
+        --> P3["3. PENGENDALIAN AKSES (Access Control)<br/>Gudang Terkunci & Kamar Mandi Bersekat Aman"]
+        --> P4["4. KELAYAKAN SANITASI & SIRKULASI<br/>Sirkulasi Udara Segar & Air Bersih Higienis"]
     end
 ```
 
@@ -134,14 +135,17 @@ Ekosistem TUMBUH menghancurkan sekat tersebut dan menyatukan seluruh pendidik ke
 ```mermaid
 graph TD
     subgraph SINERGI_TRIAD_PENGASUHAN["Triad Pengasuhan Terpadu TUMBUH"]
-        M["1. MUSYRIF ASRAMA (Wali Harian)<br/>• Menjaga Ritme 24 Jam, Tidur, Makan & Piket<br/>• Pendamping Pertama Saat Santri Sakit/Cemas<br/>• Mengamati Adab Praktis Harian di Kamar"]
-        G["2. GURU MADRASAH (Pemandu Nalar)<br/>• Membimbing Nalar Kognitif & Ilmu Syariat<br/>• Mengamati Fokus Belajar & Pemahaman Konsep<br/>• Menghubungkan Teori Kitab dengan Praksis"]
-        B["3. TIM BK & KESEHATAN (Spesialis Jiwa-Raga)<br/>• Intervensi Kasus Khusus Tier 2 & Tier 3<br/>• Pendampingan Trauma, Homesick & Medis<br/>• Penjaga Kerahasiaan Rekam Psikologis"]
+        direction TB
+        M["1. MUSYRIF ASRAMA (Wali Harian)<br/>• Ritme 24 Jam: Tidur, Makan & Piket<br/>• Pendamping Utama Emosi Santri<br/>• Pencatat Adab Harian di Kamar"]
+        G["2. GURU MADRASAH (Pemandu Nalar)<br/>• Bimbingan Kognitif & Ilmu Syariat<br/>• Pemahaman Konsep & Adab Belajar<br/>• Menghubungkan Teori dengan Praksis"]
+        B["3. TIM BK & KESEHATAN (Jiwa-Raga)<br/>• Intervensi Khusus Tier 2 & Tier 3<br/>• Pendampingan Homesick & Trauma<br/>• Kerahasiaan Rekam Psikologis"]
+        M --- G
+        G --- B
     end
 
-    M <-->|Berbagi Data Harian Logbook Terpadu| G
-    G <-->|Rujukan Kasus Hambatan Belajar| B
-    B <-->|Rekomendasi Protokol Pendampingan Kamar| M
+    M <-->|Logbook Data Harian| G
+    G <-->|Rujukan Belajar| B
+    B <-->|Rekomendasi Kamar| M
 ```
 
 #### Rapat Koordinasi Pekanan Terpadu (Weekly Growth Briefing)

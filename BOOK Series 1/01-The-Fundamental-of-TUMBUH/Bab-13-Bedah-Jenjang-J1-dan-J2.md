@@ -35,16 +35,19 @@ Bagi anak usia sebelas hingga dua belas tahun, keterkejutan ini memicu fenomena 
 
 ```mermaid
 graph TD
-    A["Santri Terpisah dari Rumah & Pelukan Orang Tua"] --> B["Amigdala Membaca Hilangnya Figur Lekat Aman"]
-    B --> C["Sumbu HPA Melepaskan Hormon Stres (Kortisol & Adrenalin)"]
+    A["Santri Terpisah dari Rumah & Orang Tua"]
+    --> B["Amigdala Mendeteksi Hilangnya Figur Lekat"]
+    --> C["Sumbu HPA Melepas Kortisol & Adrenalin"]
     
-    subgraph MANIFESTASI_KRISIS_J1["Tiga Bentuk Reaksi Biologis Santri J1"]
-        C --> D1["1. GEJALA AFEKTIF / EMOSIONAL<br/>Menangis Histeris, Murung, Menarik Diri, Ingin Kabur"]
-        C --> D2["2. GEJALA SOMATISASI FISIK<br/>Kram Lambung, Mual, Sakit Kepala, Demam Semu, Enuresis (Mengompol)"]
-        C --> D3["3. DISORIENTASI EKSEKUTIF KOGNITIF<br/>Lupa Meletakkan Sandal, Pakaian Hilang, Buku Berserakan"]
+    subgraph MANIFESTASI_KRISIS_J1["Tiga Reaksi Biologis Santri Baru J1"]
+        direction TB
+        D1["1. AFEKTIF / EMOSIONAL:<br/>Menangis, murung, menarik diri & ingin pulang"]
+        --> D2["2. SOMATISASI FISIK:<br/>Kram lambung, mual, pusing & demam semu"]
+        --> D3["3. DISORIENTASI KOGNITIF:<br/>Lupa menaruh sandal & barang tercecer"]
     end
 
-    D1 & D2 & D3 --> SOLUSI_TUMBUH["PROTOKOL HIGH-SUPPORT PENGASUHAN J1:<br/>Musyrif Sebagai 'In Loco Parentis' (Orang Tua Pengganti)<br/>Menyediakan Rahim Rasa Aman Kedua (Secondary Womb of Safety)"]
+    C ==> MANIFESTASI_KRISIS_J1
+    MANIFESTASI_KRISIS_J1 ==> SOLUSI_TUMBUH["PROTOKOL PENDAMPINGAN TINGGI (J1):<br/>Musyrif sebagai 'In Loco Parentis'<br/>Membangun rahim rasa aman kedua di kamar."]
 ```
 
 #### 1. Memahami Fenomena Somatisasi Saraf (Bukan Kepura-puraan!)
@@ -117,17 +120,15 @@ Santri J2 tidak lagi menangis rindu rumah; mereka telah kerasan dengan aroma asr
 
 ```mermaid
 graph TD
-    subgraph BADAI_PUBERTAS_J2["Trifaktor Kerentanan Santri Jenjang J2"]
-        P["Santri J2 (Usia 13–14 Tahun): Ledakan Pubertas Awal"]
-        
-        P --> F1["1. LONJAKAN HORMONAL BIOLOGIS<br/>Testosteron (Putra) / Estrogen (Putri)<br/>Memicu Dorongan Seksual, Energi Berlebih & Agresivitas"]
-        
-        P --> F2["2. PENGUJIAN BATAS OTORITAS (BOUNDARY TESTING)<br/>Mencoba Aturan Jam Malam, Menyelundupkan Makanan, Menguji Ketegasan Musyrif"]
-        
-        P --> F3["3. DINAMIKA KLIK TEMAN SEBAYA (PEER CLIQUES)<br/>Solidaritas Kelompok Sempit, Ejekan Verbal & Kerapuhan Persahabatan"]
+    subgraph BADAI_PUBERTAS_J2["Trifaktor Kerentanan Santri J2 (13-14 Thn)"]
+        direction TB
+        P["Ledakan Pubertas Awal & Pencarian Jati Diri"]
+        --> F1["1. LONJAKAN HORMON BIOLOGIS:<br/>Energi fisik berlebih & dorongan agresivitas"]
+        --> F2["2. PENGUJIAN BATAS (BOUNDARY TESTING):<br/>Menguji ketegasan aturan & otoritas musyrif"]
+        --> F3["3. DINAMIKA KELOMPOK SEBAYA (PEER GROUP):<br/>Solidaritas kelompok sempit & kerentanan konflik"]
     end
 
-    F1 & F2 & F3 --> STRATEGI_J2["FOKUS PENGASUHAN J2: GUIDED SCAFFOLDING (50% DUKUNGAN)<br/>• Menyalurkan Energi Fisik Melalui Riadah Beladiri & Olahraga Rutin<br/>• Pendelegasian Tata Kelola Kamar Lewat Majlis al-Ghurfah<br/>• Pelatihan Resolusi Konflik Peer-to-Peer Tanpa Kekerasan"]
+    BADAI_PUBERTAS_J2 ==> STRATEGI_J2["FOKUS PENGASUHAN J2 (SCAFFOLDING):<br/>• Penyaluran fisik via olahraga & beladiri terarah<br/>• Tanggung jawab kamar via Majlis al-Ghurfah<br/>• Dialog restoratif sebaya tanpa kekerasan"]
 ```
 
 #### 1. Fenomena Pengujian Batas (Boundary Testing)

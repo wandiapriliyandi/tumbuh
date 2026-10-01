@@ -60,17 +60,21 @@ Dalam kosmologi tauhid, garis demarkasi ontologis antara **Al-Khaliq** dan **Al-
 ```mermaid
 graph TD
     subgraph ONTOLOGI_ISLAM["Garis Batas Ontologis Mutlak"]
-        K["AL-KHALIQ (ALLAH SWT)<br/>Wajib al-Wujud • Maha Mutlak • Pemilik Otoritas Tertinggi • Al-Hakam"]
-        --- DEMARKASI["GARIS BATAS KEMAKHLUKAN (LAISA KAMITSLIHI SYAI')"]
-        DEMARKASI --- M["SELURUH MAKHLUK (AL-ALAM)<br/>Mumkin al-Wujud • Fana • Terbatas • Saling Bergantung"]
+        direction TB
+        K["AL-KHALIQ (ALLAH SWT)<br/>Wajib al-Wujud • Maha Mutlak<br/>Pemilik Otoritas Tertinggi • Al-Hakam"]
+        --- DEMARKASI["GARIS BATAS KEMAKHLUKAN<br/>(Laisa Kamitslihi Syai')"]
+        DEMARKASI --- M["SELURUH MAKHLUK (AL-ALAM)<br/>Mumkin al-Wujud • Fana<br/>Terbatas & Saling Bergantung"]
     end
     
     subgraph KEDUDUKAN_DI_PESANTREN["Kedudukan Manusia di Pesantren"]
-        M --> P1["Pimpinan Pondok / Kyai"]
-        M --> P2["Asatidz & Musyrif Kamar"]
-        M --> P3["Santri Senior (Mudabbir)"]
-        M --> P4["Santri Baru (Junior)"]
+        direction TB
+        P1["Pimpinan Pondok & Pengasuh"]
+        --> P2["Asatidz & Musyrif Kamar"]
+        --> P3["Santri Senior (Mudabbir)"]
+        --> P4["Santri Baru (Junior)"]
     end
+
+    M ==>|Seluruh Insan Tunduk pada Syariat| KEDUDUKAN_DI_PESANTREN
 ```
 
 Allah ﷻ adalah satu-satunya *Rabb*—Sang Pencipta, Pemilik, Pemelihara, dan Pendidik Hakiki seluruh alam semesta. Sementara seluruh manusia di lingkungan pesantren—mulai dari kyai pendiri pondok, direktur pengasuhan, musyrif senior, hingga santri cilik yang baru tiba kemarin sore—semuanya berada pada derajat ontologis yang sama: **mereka semua adalah hamba sahaya Allah (*'ibadullah*)**.
@@ -111,14 +115,16 @@ Pandangan alam Islam memandang bahwa realitas ciptaan Allah merentang dalam dua 
 ```mermaid
 graph TD
     subgraph DUA_REALITAS_ISLAM["Harmoni Pandangan Alam Tauhid"]
-        G["'ALAM AL-GHAIB (Transenden & Metafisik)<br/>• Keimanan kepada Allah, Malaikat Raqib & 'Atid<br/>• Akhirat, Mahkamah Hisab, Surga & Neraka<br/>• Keikhlasan Niat, Keberkahan, Muraqabatullah"]
-        S["'ALAM ASY-SYAHADAH (Empiris & Fisik)<br/>• Sunnatullah Biologis, Kimia Otak & Sirkadian Tubuh<br/>• Kebutuhan Gizi, Higienitas, Anatomi Tidur REM/NREM<br/>• Dinamika Sosial Kelompok Sebaya di Asrama"]
+        direction TB
+        G["'ALAM AL-GHAIB (Transenden & Metafisik)<br/>• Iman kepada Allah, Malaikat Raqib & 'Atid<br/>• Akhirat, Mahkamah Hisab, Surga & Neraka<br/>• Keikhlasan Niat, Barakah & Muraqabatullah"]
+        S["'ALAM ASY-SYAHADAH (Empiris & Fisik)<br/>• Sunnatullah Biologis & Ritme Sirkadian Tubuh<br/>• Kebutuhan Gizi, Higienitas, Tidur REM/NREM<br/>• Dinamika Kelompok Sebaya di Asrama"]
+        G --- S
     end
 
-    G -->|Memberi Makna, Arah Nilai & Sakralitas Niat| T["ARSITEKTUR EKOSISTEM TUMBUH 24 JAM"]
-    S -->|Memberi Ketepatan Metode, Sains Kausalitas & Keadilan Biologis| T
+    G -->|Arah Nilai & Sakralitas Niat| T["ARSITEKTUR EKOSISTEM TUMBUH 24 JAM"]
+    S -->|Ketepatan Metode & Keadilan Biologis| T
 
-    T --> HASIL["Melahirkan Santri Beriman Kokoh, Cerdas Berpikir, dan Sehat Jiwa-Raga"]
+    T --> HASIL["Santri Beriman Kokoh, Cerdas Nalar, & Sehat Jiwa-Raga"]
 ```
 
 1. **'Alam al-Ghaib (Realitas Gaib/Transenden)**: Merupakan ranah metafisika yang diwahyukan: keberadaan Allah, malaikat yang mencatat setiap amal kebajikan dan keburukan, pertanggungjawaban di padang mahsyar, serta balasan surga dan neraka. Realitas gaib memberikan **makna tertinggi (*ultimate meaning*)** dan **kendali moral internal (*muraqabatullah*)**: santri beradab bukan karena takut cctv pengawas, melainkan karena yakin bahwa Allah senantiasa mengawasi gerak-gerik batinnya.
@@ -141,18 +147,16 @@ Ketika santri-santri tersebut di siang hari tampak loyo, tertidur saat guru menj
 Mari kita tatap kebenaran ilmiah berdasarkan **Neurosains Kognitif dan Anatomi Tidur**:
 
 ```mermaid
-sequenceDiagram
-    participant S as Santri Menghafal Ayat Baru di Waktu Siang
-    participant H as Hippocampus (Penyimpanan Sementara Berkapasitas Rendah)
-    participant N as Neokorteks (Penyimpanan Permanen Jangka Panjang)
-    participant G as Sistem Glimfatik (Pembersih Limbah Biologis Otak)
-
-    S->>H: Memasukkan 1 Halaman Hafalan Baru
-    Note over H: Kapasitas Memori Kerja Terisi Penuh & Labil
-    Note over H,N: FASE TIDUR GELOMBANG LAMBAT (NREM STAGE 3-4): 7-8 JAM
-    H->>N: Terjadi Konsolidasi Memori: Ayat Dipindahkan ke Neokorteks Permanen
-    G->>H: Menyapu Racun Beta-Amiloid & Meremajakan Sinapsis Saraf
-    Note over S: Santri Bangun Fajar dengan Otak Segar & Hafalan Menancap Kuat
+graph TD
+    subgraph SIKLUS_KONSOLIDASI_MEMORI["Siklus Konsolidasi Hafalan & Restorasi Otak"]
+        direction TB
+        A["1. WAKTU SIANG: Santri Menghafal Halaman Baru<br/>Masuk Hippocampus (Kapasitas Memori Sementara)"]
+        --> B["2. FASE TIDUR MALAM NREM (7–8 JAM ISTIRAHAT):<br/>Konsolidasi Sinaptik Berjalan Aktif"]
+        
+        B --> C1["Proses A: Konsolidasi Memori<br/>Ayat dipindahkan ke Neokorteks permanen"]
+        --> C2["Proses B: Pembersihan Sistem Glimfatik<br/>Menyapu limbah otak & segarkan sinapsis"]
+        --> D["3. HASIL SUBUH BERKAH:<br/>Santri bangun segar & hafalan menancap kokoh"]
+    end
 ```
 
 Penelitian neurobiologi mutakhir oleh Prof. Matthew Walker dari University of California, Berkeley, dan tim peneliti tidur dunia membuktikan sunnatullah biologis yang sangat menakjubkan[^6]:
@@ -197,13 +201,14 @@ Kemuliaan ini **TIDAK PERNAH HILANG ATAU GUGUR** hanya karena:
 Oleh karena itu, dalam ekosistem **TUMBUH**, seluruh metode pendisiplinan yang bertujuan **menghancurkan harga diri dan meremukkan martabat santri (*mortification of dignity*) diharamkan secara mutlak**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph EMPAT_KEHARAMAN_PENGASUHAN["Empat Bentuk Kezaliman yang Diharamkan Mutlak"]
         direction TB
-        H1["1. Merusak Fisik & Menghinakan Raga<br/>(Memukul, menampar, menjemur terik, membotaki kepala separuh/tidak beraturan)"]
-        H2["2. Pembunuhan Karakter di Depan Umum<br/>(Mengalungkan papan makian, mengarak santri keliling asrama, memaki di mikrofon)"]
-        H3["3. Pelecehan Verbal & Bahasa Kotor<br/>(Memanggil dengan sebutan binatang, merendahkan martabat orang tua/suku)"]
-        H4["4. Perampasan Hak Biologis Asasi<br/>(Menahan jatah makan minum, melarang buang hajat, melarang tidur secara zalim)"]
+        H1["1. Merusak Fisik & Menghinakan Raga<br/>(Memukul, menampar, menjemur terik,<br/>membotaki kepala separuh/tidak teratur)"]
+        H2["2. Pembunuhan Karakter di Depan Publik<br/>(Mengalungkan papan makian, mengarak santri,<br/>memaki santri lewat mikrofon)"]
+        H3["3. Pelecehan Verbal & Bahasa Kotor<br/>(Memanggil sebutan binatang,<br/>merendahkan martabat orang tua/suku)"]
+        H4["4. Perampasan Hak Biologis Asasi<br/>(Menahan jatah makan-minum, melarang buang air,<br/>mengurangi waktu tidur secara zalim)"]
+        H1 --> H2 --> H3 --> H4
     end
 ```
 
@@ -219,9 +224,9 @@ Pendidikan Islam dalam ekosistem TUMBUH bukanlah proses mencetak "robot penurut 
 graph TD
     M["TIGA MANDAT EKSISTENSIAL SANTRI TUMBUH"]
     
-    M --> M1["1. AL-'IBADAH<br/>Penghambaan Murni & Kesucian Niat<br/>(Hablum Minallah)"]
-    M --> M2["2. AL-AMANAH & 'IMARATUL ARDH<br/>Amanah Sosial, Tanggung Jawab & Maslahat Lingkungan<br/>(Hablum Minannas)"]
-    M --> M3["3. AR-RUSYD<br/>Kematangan Akal Budi, Otonomi Moral & Kendali Batin<br/>(Hablum Ma'an-Nafs)"]
+    M --> M1["1. AL-'IBADAH (Hablum Minallah)<br/>Penghambaan Murni & Kesucian Niat"]
+    M1 --> M2["2. AL-AMANAH & 'IMARATUL ARDH (Hablum Minannas)<br/>Amanah Sosial, Khidmah & Maslahat Lingkungan"]
+    M2 --> M3["3. AR-RUSYD (Hablum Ma'an-Nafs)<br/>Kematangan Akal Budi & Kendali Batin Mandiri"]
 ```
 
 #### 1. Mandat Al-'Ibadah: Menegakkan Penghambaan Total
@@ -258,13 +263,14 @@ Ukuran pengujinya adalah **Maqashid Syari'ah (Tujuan-Tujuan Asasi Syariat)** seb
 Mari kita bedah secara mendalam bagaimana kelima pilar Maqashid Syari'ah ini wajib diterjemahkan ke dalam tata kelola asrama pesantren 24 jam:
 
 ```mermaid
-graph LR
+graph TD
     subgraph MAQASHID_PESANTREN["Lima Pilar Maqashid Syari'ah di Asrama"]
+        direction TB
         D["1. Hifzh ad-Din<br/>(Menjaga Agama & Kemurnian Ibadah)"]
-        N["2. Hifzh an-Nafs<br/>(Menjaga Keselamatan Raga & Jiwa)"]
-        A["3. Hifzh al-'Aql<br/>(Menjaga Kebeningan Nalar & Otak)"]
-        I["4. Hifzh al-'Irdh<br/>(Menjaga Kehormatan & Privasi Santri)"]
-        M["5. Hifzh al-Mal<br/>(Menjaga Hak Milik & Keadilan Harta)"]
+        --> N["2. Hifzh an-Nafs<br/>(Menjaga Keselamatan Raga & Jiwa)"]
+        --> A["3. Hifzh al-'Aql<br/>(Menjaga Kebeningan Nalar & Otak)"]
+        --> I["4. Hifzh al-'Irdh<br/>(Menjaga Kehormatan & Privasi Santri)"]
+        --> M["5. Hifzh al-Mal<br/>(Menjaga Hak Milik & Keadilan Harta)"]
     end
 ```
 

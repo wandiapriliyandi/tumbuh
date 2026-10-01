@@ -49,17 +49,17 @@ Islam memandang bahwa manusia dikaruniai **tiga saluran ilmu yang saling menyemp
 
 ```mermaid
 graph TD
-    subgraph SALURAN_PENGETAHUAN["Tiga Saluran Ilmu dalam Epistemologi Islam"]
-        W["1. KHABAR SHADIQ (WAHYU ILAHI & HADITS SHAHIH)<br/>Pemandu Nilai Mutlak • Aksiologi • Maqashid Syari'ah • Realitas Gaib"]
-        A["2. AL-'AQL ASH-SHARIH (AKAL BUDI LURUS & LOGIKA)<br/>Penalaran Demonstratif (Burhan) • Analisis Sebab-Akibat • Sistematika Sistem"]
-        I["3. AL-HAWAS AS-SALIMAH (INDERA SEHAT & EMPIRIS)<br/>Observasi Faktual • Data Lapangan • Neurosains Biologis • Evaluasi Perilaku"]
+    subgraph SALURAN_PENGETAHUAN["Tiga Saluran Ilmu Epistemologi Islam"]
+        direction TB
+        W["1. KHABAR SHADIQ (Wahyu & Hadits Sahih)<br/>Pemandu Nilai Mutlak, Aksiologi & Maqashid"]
+        A["2. AL-'AQL ASH-SHARIH (Akal Budi & Logika)<br/>Penalaran Burhan & Analisis Kausalitas"]
+        I["3. AL-HAWAS AS-SALIMAH (Indera & Empiris)<br/>Observasi Data Lapangan & Bukti Faktual"]
+        W --- A
+        A --- I
     end
 
-    W --> S["SINTESIS EPISTEMIK EKOSISTEM TUMBUH"]
-    A --> S
-    I --> S
-
-    S --> K["Keputusan Kebijakan Pesantren yang Adil, Ilmiah, dan Barakah"]
+    SALURAN_PENGETAHUAN ==> S["SINTESIS EPISTEMIK EKOSISTEM TUMBUH"]
+    S --> K["Keputusan Pesantren yang Adil, Ilmiah & Barakah"]
 ```
 
 #### 1. Al-Khabar ash-Shadiq (Wahyu Ilahi dan As-Sunnah yang Shahih)
@@ -99,10 +99,10 @@ graph TD
     K["KLASIFIKASI KLAIM EPISTEMIK DI PESANTREN"]
     
     K --> K1["1. KLAIM NORMATIF<br/>(Prinsip Syariat & Batasan Etika Mutlak)"]
-    K --> K2["2. KLAIM EMPIRIS<br/>(Laporan Fakta Teramati di Alam Nyata)"]
-    K --> K3["3. KLAIM KAUSAL<br/>(Hubungan Sebab-Akibat yang Teruji)"]
-    K --> K4["4. KLAIM DESAIN<br/>(Pilihan Model, Aturan Teknis & Desain Jadwal)"]
-    K --> K5["5. KLAIM HIPOTESIS<br/>(Dugaan Sementara yang Membutuhkan Pembuktian)"]
+    K1 --> K2["2. KLAIM EMPIRIS<br/>(Laporan Fakta Teramati di Lapangan)"]
+    K2 --> K3["3. KLAIM KAUSAL<br/>(Hubungan Sebab-Akibat yang Teruji)"]
+    K3 --> K4["4. KLAIM DESAIN<br/>(Pilihan Model, Tata Tertib & Desain Jadwal)"]
+    K4 --> K5["5. KLAIM HIPOTESIS<br/>(Dugaan yang Membutuhkan Pembuktian)"]
 ```
 
 Mari kita bedah secara gamblang contoh konkret kelima jenis klaim ini di lingkungan asrama:
@@ -170,16 +170,18 @@ TUMBUH berdiri di atas jalan tengah peradaban yang mulia (*wasathiyyah tamadduni
 Tradisi keilmuan ini memiliki akar sejarah yang panjang dan berbobot. Dua raksasa pemikir Islam terbesar, **Hujjatul Islam Abu Hamid Al-Ghazali** (w. 505 H) dan **Qadhi Abu al-Walid Ibnu Rusyd** (w. 595 H), terlibat dalam dialektika keilmuan yang paling monumental dalam sejarah filsafat peradaban manusia:
 
 ```mermaid
-graph LR
+graph TD
     subgraph SINTESIS_KEILMUAN_ISLAM["Dialektika Turats & Akal Sehat"]
-        G["IMAM AL-GHAZALI (Hujjatul Islam)<br/>• Menjaga Kemurnian Teologis & Batas Akal<br/>• Penekanan pada Tazkiyatun Nafs & Bashirah Kalbu<br/>• Kehati-hatian dari Jebakan Positivisme Ilusi"]
-        R["IMAM IBNU RUSYD (Filsuf & Mujtahid)<br/>• Kewajiban Nalar Demonstratif (Burhan)<br/>• Penyelarasan Hikmah Filsafat dengan Syariat (Fashl al-Maqal)<br/>• Menolak Irasionalitas & Taklid Buta"]
+        direction TB
+        G["IMAM AL-GHAZALI (Hujjatul Islam)<br/>• Kemurnian Teologis & Batas Akal<br/>• Penekanan Tazkiyatun Nafs & Bashirah<br/>• Kehati-hatian dari Jebakan Positivisme"]
+        R["IMAM IBNU RUSYD (Filsuf & Mujtahid)<br/>• Kewajiban Nalar Demonstratif (Burhan)<br/>• Penyelarasan Hikmah & Syariat<br/>• Menolak Irasionalitas & Taklid Buta"]
+        G --- R
     end
 
     G --> S["PENGASUHAN KARAKTER INTEGRATIF TUMBUH"]
     R --> S
 
-    S --> M["Adab Bersumber dari Wahyu, Metode Dibimbing oleh Sains Presisi"]
+    S --> M["Adab Bersumber Wahyu, Metode Dibimbing Sains Presisi"]
 ```
 
 Dalam kitabnya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^7].
@@ -201,20 +203,15 @@ Bagaimanakah seluruh prinsip epistemologi ini dioperasionalkan agar tidak menjad
 Arsitektur TUMBUH mengkodifikasikan prinsip-prinsip ini ke dalam **Rantai Akuntabilitas Keputusan (*The Epistemic Decision Chain*)**:
 
 ```mermaid
-sequenceDiagram
-    participant M as Muncul Isu / Laporan Pelanggaran Santri
-    participant T as 1. Tabayyun & Klasifikasi Bukti (Evidence Registry)
-    participant K as 2. Audit Kausalitas & Nalar (Bukan Praduga)
-    participant S as 3. Pengujian Batas Syariat (Maqashid Test)
-    participant D as 4. Keputusan Restoratif & Tanggung Jawab
-
-    M->>T: Masuk Laporan Kasus
-    Note over T: Periksa Sumber: Siapa yang Melaporkan?<br/>Periksa Metode: Observasi Nyata / Kabar Burung?
-    T->>K: Bukti Terverifikasi Minimal Kuat (Strongly Supported)
-    Note over K: Analisis Sebab-Akibat: Apa Motif Dasar Perilaku? (FBA)<br/>Singkirkan Faktor Emosi Pribadi Musyrif
-    K->>S: Masuk ke Uji Keadilan Syariat
-    Note over S: Apakah Melanggar Martabat (Karamah)?<br/>Apakah Ada Hak Santri yang Terzalimi?
-    S->>D: Eksekusi Keputusan Pembinaan Berkeadilan
+graph TD
+    subgraph ALUR_TABAYYUN_TUMBUH["Empat Gerbang Audit Pengambilan Keputusan"]
+        direction TB
+        M["Laporan Kasus Pelanggaran Masuk"]
+        --> T["1. TABAYYUN & VERIFIKASI FAKTA:<br/>Periksa keabsahan saksi & singkirkan desas-desus"]
+        --> K["2. AUDIT KAUSALITAS & NALAR (FBA):<br/>Temukan motif kebutuhan tersembunyi santri"]
+        --> S["3. PENGUJIAN MAQASHID SYARI'AH:<br/>Pastikan tiada kezaliman & jaga karamah insani"]
+        --> D["4. KEPUTUSAN RESTORATIF:<br/>Pemulihan relasi, restitusi nyata & bimbingan"]
+    end
 ```
 
 Setiap kali terjadi kasus pelanggaran berat di asrama yang menuntut tindakan tegas, pengurus dan musyrif wajib mengisi **Protokol Verifikasi Epistemik** sebelum mengetuk palu keputusan:
@@ -240,9 +237,10 @@ Psikologi kognitif dan ilmu keperilakuan mengidentifikasi tiga bias utama yang p
 graph TD
     subgraph TIGA_BIAS_PEMBINA["Tiga Jebakan Bias Kognitif Pembina Asrama"]
         direction TB
-        B1["1. FUNDAMENTAL ATTRIBUTION ERROR<br/>Menghakimi santri karena tabiat buruk (internal),<br/>namun memaklumi kesalahan diri sendiri karena situasi (eksternal)."]
-        B2["2. CONFIRMATION BIAS (BIAS KONFIRMASI)<br/>Hanya mencari-cari bukti yang membenarkan prasangka awal,<br/>sembari mengabaikan fakta yang membantahnya."]
-        B3["3. HORNS EFFECT (EFEK TANDUK/STIGMA)<br/>Satu kesalahan di masa lalu membuat seluruh kebaikan santri terhapus;<br/>santri dicap abadi sebagai anak nakal."]
+        B1["1. FUNDAMENTAL ATTRIBUTION ERROR<br/>Menghakimi tabiat buruk santri (internal),<br/>namun memaklumi diri sendiri karena situasi."]
+        B2["2. CONFIRMATION BIAS (Bias Konfirmasi)<br/>Hanya mencari bukti pembenar prasangka awal<br/>dan mengabaikan fakta yang membantahnya."]
+        B3["3. HORNS EFFECT (Efek Stigma Negatif)<br/>Satu kesalahan menghapus seluruh kebaikan;<br/>santri dicap permanen sebagai anak bermasalah."]
+        B1 --> B2 --> B3
     end
 ```
 

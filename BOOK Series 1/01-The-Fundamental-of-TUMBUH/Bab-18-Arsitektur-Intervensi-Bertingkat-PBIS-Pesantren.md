@@ -37,14 +37,11 @@ graph TD
     subgraph PIRAMIDA_INTERVENSI_BERTINGKAT["Arsitektur Multi-Tier PBIS Pesantren TUMBUH"]
         direction TB
         
-        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5% SANTRI)<br/>• Kasus Krisis Kompleks, Trauma & Pelanggaran Berat Menetap<br/>• Rencana Intervensi Perilaku Individual (BIP) Berbasis FBA<br/>• Kolaborasi Multidisipliner: Pimpinan, Musyrif, BK, Psikolog & Orang Tua"]
+        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5%)<br/>• Krisis kompleks, trauma & penanganan khusus<br/>• Rencana Intervensi Perilaku Individual (BIP/FBA)<br/>• Kolaborasi: Pimpinan, Musyrif, BK & Orang Tua"]
         
-        T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15% SANTRI)<br/>• Kelompok Santri Berisiko: Homesick Berulang, Kesulitan Adaptasi, Penurunan Motivasi<br/>• Mentoring Terarah: Protokol Check-In / Check-Out (CICO) Harian<br/>• Halaqah Keterampilan Sosio-Emosional (Regulasi Amarah & Asertivitas)"]
+        --> T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15%)<br/>• Santri rentan: homesick & adaptasi sosial<br/>• Mentoring terarah: Check-In/Check-Out (CICO)<br/>• Halaqah keterampilan regulasi emosi & asertif"]
         
-        T1["TIER 1: PENCEGAHAN UNIVERSAL UNTUK SELURUH SANTRI (80–90% POPULASI)<br/>• Pondasi Ekosistem Bi'ah Shalihah di Seluruh Ruang 24 Jam<br/>• Matriks Harapan Adab Pesantren yang Eksplisit & Operasional<br/>• Pengajaran Langsung Perilaku, Keteladanan Qudwah, & Rasio Afirmasi Emas 4:1"]
-        
-        T3 --- T2
-        T2 --- T1
+        --> T1["TIER 1: PENCEGAHAN UNIVERSAL (80–90% POPULASI)<br/>• Fondasi Bi'ah Shalihah di seluruh ruang 24 jam<br/>• Matriks harapan adab yang jelas & eksplisit<br/>• Keteladanan qudwah & rasio afirmasi emas 4:1"]
     end
 ```
 

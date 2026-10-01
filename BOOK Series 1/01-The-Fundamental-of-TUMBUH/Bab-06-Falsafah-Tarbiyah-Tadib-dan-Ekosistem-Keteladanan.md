@@ -31,16 +31,14 @@ Dalam khazanah intelektual peradaban Islam, proses pembentukan manusia dirumuska
 ```mermaid
 graph TD
     subgraph EMPAT_DIMENSI_PENDIDIKAN_ISLAM["Empat Dimensi Tarbiyah Peradaban"]
-        TL["1. TA'LIM<br/>(Transfer Intelektual & Kognitif)<br/>Kaidah Ilmu, Informasi Hukum, Hafalan Matan"]
-        TR["2. TARBIYAH<br/>(Pengasuhan & Pemeliharaan Potensi)<br/>Kesehatan Jasmani, Gizi, Rasa Aman Lingkungan"]
-        TD["3. TA'DIB<br/>(Penanaman Adab & Keadilan Jiwa)<br/>Mengenali Tempat yang Hak, Disiplin Batin, Keluhuran Karakter"]
-        IR["4. IRSYAD / WA'ZH<br/>(Bimbingan Ruhani & Sentuhan Nurani)<br/>Dialog Hati, Nasihat Melembutkan Kalbu, Doa Pengasuhan"]
+        direction TB
+        TL["1. TA'LIM (Transfer Intelektual & Kognitif)<br/>Kaidah Ilmu, Hukum & Hafalan Matan"]
+        --> TR["2. TARBIYAH (Pengasuhan Potensi Diri)<br/>Kesehatan Jasmani, Gizi & Rasa Aman"]
+        --> TD["3. TA'DIB (Penanaman Adab & Keadilan Jiwa)<br/>Disiplin Batin & Keluhuran Karakter"]
+        --> IR["4. IRSYAD / WA'ZH (Sentuhan Nurani)<br/>Dialog Hati, Nasihat Lembut & Doa"]
     end
 
-    TL --> S["INSAN ADABI / INSAN KAMIL"]
-    TR --> S
-    TD --> S
-    IR --> S
+    EMPAT_DIMENSI_PENDIDIKAN_ISLAM ==> S["INSAN ADABI / INSAN KAMIL"]
 ```
 
 #### 1. At-Ta'lim (Pengajaran Intelektual-Kognitif)
@@ -106,19 +104,16 @@ Mengapa keteladanan visual (*qudwah hasanah*) memiliki daya ubah jutaan kali leb
 
 ```mermaid
 graph TD
-    A["MUSYRIF / ASATIDZ / PEMBINA"] -->|Pancaran Perilaku Faktual Lapangan| B["SISTEM NEURON CERMIN SANTRI"]
+    A["MUSYRIF & PEMBINA ASRAMA"]
+    --> B["SISTEM SARAF & NEURON CERMIN SANTRI"]
     
-    subgraph JALUR_KASAR["Jika Figur Otoritas Kasar & Reaktif"]
-        B --> C1["Resonansi Saraf Marah & Curiga"]
-        C1 --> D1["Sistem Saraf Simpatik Santri Siaga Tinggi (Fight/Flight)"]
-        D1 --> E1["Santri Tumbuh Kasar, Hipokrit & Mengintimidasi Adik Kelas"]
+    subgraph MODEL_TRANSFORMASI_ADAB["Dampak Keteladanan Perilaku Pembina"]
+        direction TB
+        Q["JALUR KETELADANAN ADAB (TENANG & TEGAS):<br/>Ko-regulasi saraf melahirkan thuma'ninah,<br/>santri menyerap adab alami, jujur & santun."]
+        --> K["JALUR BENTAKAN KASAR (REAKTIF-EMOSIONAL):<br/>Memicu alarm bahaya (fight/flight),<br/>santri defensif & meniru pola kekerasan."]
     end
-    
-    subgraph JALUR_QUDWAH["Jika Figur Otoritas Tenang, Lembut & Tegas"]
-        B --> C2["Ko-Regulasi Fisiologis (Ventral Vagal)"]
-        C2 --> D2["Sistem Saraf Parasimpatik Santri Tenang (Thuma'ninah)"]
-        D2 --> E2["Santri Menyerap Adab Alami, Sabar, Jujur & Berjiwa Pelayan"]
-    end
+
+    B ==> MODEL_TRANSFORMASI_ADAB
 ```
 
 Neuron cermin adalah sel-sel saraf khusus di korteks premotor dan lobus parietal inferior yang menyala (*fire*) tidak hanya saat seseorang melakukan suatu tindakan, tetapi juga **saat ia mengamati orang lain melakukan tindakan tersebut**. 
@@ -258,13 +253,15 @@ Dalam disiplin sosiologi pendidikan, Philip W. Jackson dan para perancang kuriku
 Penelitian pendidikan sosiologis membuktikan sebuah aksioma yang tak terbantahkan: **Dalam pertarungan jangka panjang, Kurikulum Tersembunyi SELALU MENANG dan melindas Kurikulum Formal!**
 
 ```mermaid
-graph LR
+graph TD
     subgraph KONTRADIKSI_TRADISIONAL["Pertentangan Kurikulum di Asrama Konvensional"]
-        KF["Kurikulum Formal di Kelas (07.00 - 12.00):<br/>Ustadz mengajarkan kitab adab, akhlak mulia, ukhuwah & kebersihan."]
-        KT["Kurikulum Tersembunyi di Asrama (24 Jam):<br/>Musyrif membentak, santri senior memeras, kamar mandi bau pesing, sandal dighashab."]
+        direction TB
+        KF["Kurikulum Formal di Kelas (07.00 - 12.00):<br/>Ustadz mengajarkan kitab adab, akhlak mulia & kebersihan."]
+        KT["Kurikulum Tersembunyi di Asrama (24 Jam):<br/>Musyrif membentak, senior menekan & lingkungan abai adab."]
+        KF --- KT
     end
 
-    KF -.->|Kalah Mutlak oleh Budaya Lapangan| HASIL["HASIL KARAKTER AKHIR SANTRI:<br/>Sinis terhadap teori moral, terampil bermuka dua (nifaq), & meyakini kekerasan sebagai hukum hidup."]
+    KONTRADIKSI_TRADISIONAL -.->|Kalah oleh Budaya Lapangan| HASIL["HASIL KARAKTER AKHIR SANTRI:<br/>Sinis pada teori moral, terampil bermuka dua,<br/>dan menormalisasi kekerasan."]
 ```
 
 Perhatikan kontradiksi tragis yang selama ini menghancurkan efektivitas pendidikan asrama:
@@ -299,11 +296,9 @@ Dalam merancang arah pembinaannya, banyak lembaga pesantren kontemporer mengalam
 graph TD
     M["TIGA MODEL PENGASUHAN DUNIA"]
     
-    M --> M1["1. KUTUB MILITERISTIK (MILITARY BOOT CAMP)<br/>• Kepatuhan buta & komando satu arah<br/>• Pendisiplinan fisik represif & hukuman baris-berbaris<br/>• Mencabut kelembutan kalbu & memadamkan cinta ilmu"]
-    
-    M --> M2["2. KUTUB SEKULER-PERMISIF (LIBERAL BOARDING SCHOOL)<br/>• Individualisme borjuis & relativisme moral<br/>• Hubungan transaksional finansial layaknya hotel<br/>• Kehilangan dimensi akhirat, tazkiyah & ruhul jihad"]
-    
-    M --> M3["3. PARADIGMA TUMBUH (MINIATUR MADINAH NABAWIYYAH)<br/>• Ketegasan Penuh Welas Asih (Kind & Firm)<br/>• Keadilan Restoratif & Kesadaran Muraqabatullah<br/>• Menumbuhkan Fitrah Menuju Insan Adabi Paripurna"]
+    M --> M1["1. KUTUB MILITERISTIK<br/>Kepatuhan buta, fisik represif,<br/>memadamkan kelembutan kalbu & cinta ilmu."]
+    M1 --> M2["2. KUTUB SEKULER-PERMISIF<br/>Relativisme moral, serba bebas,<br/>kehilangan orientasi akhirat & tazkiyah."]
+    M2 --> M3["3. PARADIGMA TUMBUH<br/>Ketegasan penuh kasih (Kind & Firm), keadilan<br/>restoratif & penumbuhan fitrah insan beradab."]
 ```
 
 #### 1. Kutub Ekstrem Militeristik (*The Military Boot Camp Trap*)

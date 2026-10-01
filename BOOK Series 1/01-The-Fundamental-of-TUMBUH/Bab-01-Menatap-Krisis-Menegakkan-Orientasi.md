@@ -104,12 +104,12 @@ Dr. Stephen Porges, perumus **Teori Polivagal (*Polyvagal Theory*)**, menjelaska
 
 ```mermaid
 graph TD
-    V["1. Keadaan Ventral Vagal (Safety & Social Engagement)<br/>Detak jantung stabil, otot wajah rileks. Santri merasa aman, reseptif terhadap nasihat, dan siap belajar menghafal."]
-    S["2. Keadaan Mobilisasi Simpatis (Fight or Flight)<br/>Adrenalin melonjak. Santri tegang, gelisah, melawan secara agresif, atau melarikan diri membolos."]
-    D["3. Keadaan Imobilisasi Dorsal Vagal (Freeze & Collapse)<br/>Sistem saraf mematikan motorik. Santri berdiri mematung, pandangan kosong, menunduk pasif, nalar lumpuh."]
+    V["1. Keadaan Ventral Vagal (Safety & Social Engagement)<br/>Detak jantung stabil, otot wajah rileks.<br/>Santri merasa aman, reseptif, & siap belajar."]
+    S["2. Keadaan Mobilisasi Simpatis (Fight or Flight)<br/>Adrenalin melonjak. Santri tegang, gelisah,<br/>melawan agresif atau melarikan diri membolos."]
+    D["3. Keadaan Imobilisasi Dorsal Vagal (Freeze & Collapse)<br/>Saraf mematikan motorik. Santri berdiri mematung,<br/>pandangan kosong, menunduk pasif, nalar lumpuh."]
 
     V -->|Ancaman Meningkat| S
-    S -->|Ancaman Tak Tertahankan & Tak Ada Jalan Keluar| D
+    S -->|Ancaman Tak Tertahankan| D
 ```
 
 Ketika seorang santri berdiri mematung di hadapan pembina yang membentaknya, tidak membantah sepatah kata pun, dan menundukkan kepalanya dalam-dalam, sebagian besar musyrif merasa puas: *"Lihat, anak ini langsung tunduk dan patuh!"*
@@ -195,18 +195,22 @@ graph TD
     subgraph PARADIGMA_PABRIK["1. PARADIGMA PABRIK (MECHANICAL FABRICATION)"]
         direction TB
         P1["Santri Dipandang Logam Mentah Tanpa Nyawa"]
-        P2["Dipaksa Mengikuti Cetakan Standar Menggunakan Palu Hukuman"]
-        P3["Jika Bengkok: Dihantam Lebih Keras / Dibuang Menjadi Besi Rongsok"]
-        P4["Hasil: Produk Kaku, Menyimpan Tegangan Dalam, Mudah Patah"]
+        P2["Dipaksa Mengikuti Cetakan Standar<br/>Menggunakan Palu Hukuman Represif"]
+        P3["Jika Bengkok: Dihantam Lebih Keras<br/>atau Dibuang Menjadi Besi Rongsok"]
+        P4["Hasil: Produk Kaku, Menyimpan Tegangan Batin,<br/>dan Mudah Patah Saat Terbentur Krisis"]
+        P1 --> P2 --> P3 --> P4
     end
 
     subgraph PARADIGMA_TUMBUH["2. PARADIGMA TUMBUH (BIOLOGICAL CULTIVATION)"]
         direction TB
-        T1["Santri Dipandang Benih Hayati Fitrah yang Membawa Potensi Suci"]
-        T2["Disirami Kasih Sayang, Dipupuk Teladan, Dipagari Batasan Adil"]
-        T3["Jika Layu: Diperiksa Akarnya, Diperbaiki Tanahnya, Dicukupi Kebutuhannya"]
-        T4["Hasil: Pohon Rindang Berakar Kokoh, Berbuah Manis, Tahan Badai"]
+        T1["Santri Dipandang Benih Hayati Fitrah<br/>yang Membawa Potensi Suci"]
+        T2["Disirami Kasih Sayang, Dipupuk Teladan Qudwah,<br/>dan Dipagari Batasan Disiplin yang Adil"]
+        T3["Jika Layu: Diperiksa Akarnya, Diperbaiki Tanahnya,<br/>dan Dicukupi Kebutuhan Jiwa-Raganya"]
+        T4["Hasil: Pohon Rindang Berakar Keyakinan Kokoh,<br/>Berbuah Adab Mulia, dan Tahan Badai Ujian"]
+        T1 --> T2 --> T3 --> T4
     end
+
+    PARADIGMA_PABRIK ==>|Hijrah Paradigma Pengasuhan| PARADIGMA_TUMBUH
 ```
 
 Al-Qur'an al-Karim mengabadikan perumpamaan manusia beriman dan kalimat thayyibah bukan seperti benteng batu yang kaku, melainkan seperti **pohon yang hidup dan bertumbuh**:
@@ -253,20 +257,24 @@ Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu 
 Bagaimana revolusi paradigma ini bekerja dalam praksis kehidupan asrama sehari-hari? Mari kita sandingkan secara terperinci antara pendekatan retributif (lama) dengan pendekatan edukatif-restoratif TUMBUH dalam menangani dinamika nyata pelanggaran santri:
 
 ```mermaid
-graph LR
-    subgraph ALUR_RETRIBUTIF["Alur Pendekatan Retributif (Lama)"]
-        R1["Pelanggaran Terjadi"] --> R2["Fokus: Cari Siapa yang Salah"]
+graph TD
+    subgraph ALUR_RETRIBUTIF["Alur Pendekatan Retributif (Konvensional)"]
+        direction TB
+        R1["Pelanggaran Terjadi di Asrama"] --> R2["Fokus: Mencari Siapa yang Bersalah"]
         R2 --> R3["Jatuhkan Hukuman Fisik / Poin Minus"]
-        R3 --> R4["Pelaku Terhina & Memendam Dendam"]
-        R4 --> R5["Kerusakan Relasi Tidak Pernah Diperbaiki"]
+        R3 --> R4["Santri Terhina & Memendam Dendam"]
+        R4 --> R5["Kerusakan Relasi Tidak Pernah Dipulihkan"]
     end
 
     subgraph ALUR_TUMBUH["Alur Pendekatan Restoratif TUMBUH"]
-        T1["Pelanggaran Terjadi"] --> T2["Regulasi Emosi & De-eskalasi Saraf"]
+        direction TB
+        T1["Pelanggaran Terjadi di Asrama"] --> T2["Regulasi Emosi & De-eskalasi Saraf"]
         T2 --> T3["Dialog Reflektif Nalar: Siapa yang Tersakiti?"]
         T3 --> T4["Restitusi Nyata Memperbaiki Kerusakan"]
         T4 --> T5["Rekonsiliasi Batin & Pemulihan Ukhuwah (Ishlah)"]
     end
+
+    ALUR_RETRIBUTIF -.->|Digantikan oleh Pendekatan Beradab| ALUR_TUMBUH
 ```
 
 Untuk memberikan kejelasan mutlak tanpa ruang abu-abu bagi para asatidz dan musyrif, perhatikan komparasi lima kasus riil lapangan berikut:

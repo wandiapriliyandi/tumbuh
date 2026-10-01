@@ -33,12 +33,12 @@ Sumpah ini adalah **Garis Merah Mutlak (*The Red Line*)** yang mengikat seluruh 
 
 ```mermaid
 graph TD
-    A["PIAGAM INTEGRITAS TUMBUH (THE NON-NEGOTIABLES)"]
+    A["PIAGAM INTEGRITAS TUMBUH (NON-NEGOTIABLES)"]
     
-    A --> P1["1. ELIMINASI MUTLAK KEKERASAN FISIK<br/>Haram Memukul, Menampar, Menjemur Terik & Merusak Raga Santri"]
-    A --> P2["2. ELIMINASI MUTLAK KEKERASAN VERBAL & PSIKOLOGIS<br/>Haram Mempermalukan Publik, Membotaki Botak Separuh & Menghina Asal-usul"]
-    A --> P3["3. KETEGASAN PENUH KASIH (KIND & FIRM)<br/>Tegas Menjaga Batas Adab, Penuh Kelembutan Menghargai Martabat Insan"]
-    A --> P4["4. KEADILAN PROPORSIONAL & TABAYYUN<br/>Tiada Vonis Tanpa Pembuktian Faktual (Asas Praduga Tak Bersalah)"]
+    A --> P1["1. ELIMINASI KEKERASAN FISIK<br/>Haram Memukul, Menampar & Merusak Raga"]
+    P1 --> P2["2. ELIMINASI KEKERASAN VERBAL<br/>Haram Mempermalukan Publik & Menghina"]
+    P2 --> P3["3. KETEGASAN PENUH KASIH (KIND & FIRM)<br/>Tegas Menjaga Batas, Lembut Membimbing"]
+    P3 --> P4["4. KEADILAN & TABAYYUN PROSEDURAL<br/>Tiada Vonis Tanpa Pembuktian Faktual"]
 ```
 
 ---
@@ -110,12 +110,15 @@ Dalam psikologi pengasuhan modern (*Positive Discipline* oleh Dr. Jane Nelsen) d
 
 ```mermaid
 graph TD
-    subgraph EMPAT_KUADRAN_PENGASUHAN["Empat Kuadran Pola Pengasuhan Asrama"]
+    subgraph EMPAT_KUADRAN_PENGASUHAN["Empat Model Pengasuhan Asrama"]
         direction TB
-        A["1. OTORITER-KEJAM (Firm, Not Kind)<br/>Disiplin Tinggi, Tanpa Kasih Sayang<br/>• Bentakan, Hukuman Fisik & Teror Takzir<br/>• Hasil: Kepatuhan Semu, Dendam Batin, Hipokrit"]
-        B["2. PERMISIF-LEMBEK (Kind, Not Firm)<br/>Kasih Sayang Tinggi, Tanpa Batasan Disiplin<br/>• Membiarkan Pelanggaran, Santri Semaunya Sendiri<br/>• Hasil: Santri Manja, Anarki Kamar, Kehilangan Adab"]
-        C["3. ABAL-ABAL / PENGABAIAN (Neither Kind nor Firm)<br/>Tanpa Kasih Sayang, Tanpa Disiplin<br/>• Musyrif Apatis, Asrama Ditinggalkan Tanpa Pengawasan<br/>• Hasil: Kerusakan Moral Total & Kejahatan Asrama"]
-        D["4. PARADIGMA TUMBUH (Both Kind and Firm)<br/>Disiplin Tinggi Berpadu Kasih Sayang Penuh<br/>• Batas Adab Dijaga Ketat, Martabat Insani Dimuliakan<br/>• Hasil: Santri Mandiri, Beradab Otentik, Tangguh & Cinta Guru"]
+        A["1. OTORITER (Firm, Not Kind)<br/>Disiplin Tanpa Kasih: Bentakan & Hukuman Fisik<br/>Hasil: Kepatuhan Semu, Dendam & Hipokrit"]
+        B["2. PERMISIF (Kind, Not Firm)<br/>Kasih Tanpa Ketegasan: Pembiaran Pelanggaran<br/>Hasil: Santri Manja, Anarki & Hilang Adab"]
+        C["3. PENGABAIAN (Neither Kind nor Firm)<br/>Apatis, Tanpa Kasih Maupun Disiplin<br/>Hasil: Kehancuran Moral & Kerawanan Kamar"]
+        D["4. PARADIGMA TUMBUH (Both Kind and Firm)<br/>Disiplin Tinggi Berpadu Kasih Sayang Penuh<br/>Hasil: Santri Mandiri, Beradab & Cinta Guru"]
+        A --- B
+        B --- C
+        C ==> D
     end
 ```
 
@@ -143,13 +146,20 @@ Agar para pimpinan pondok dan dewan pengarah pesantren dapat mengaudit tata kelo
 
 ```mermaid
 graph TD
-    R["RANCANGAN KEBIJAKAN / PRAKSIS ASRAMA"] --> T1["1. Uji Keselarasan Tauhid: Apakah selaras dengan kemuliaan fitrah insan?"]
-    R --> T2["2. Uji Dampak Pertumbuhan: Apakah membantu santri bertumbuh, atau cuma membuat takut?"]
-    R --> T3["3. Uji Konteks Kemanusiaan: Apakah memperhatikan jam tidur 7 jam & gizi santri?"]
-    R --> T4["4. Uji Bukti Faktual: Apakah berdasarkan data sahih, bukan emosi sesaat pengurus?"]
-    R --> T5["5. Uji Keterpaduan Sistem: Apakah sejalan dengan apa yang diajarkan di kelas?"]
-    R --> T6["6. Uji Kemanfaatan Nyata: Apakah formulir/aturan ini benar-benar memulihkan adab?"]
-    R --> T7["7. Uji Keberanian Muhasabah: Apakah berani mencabut aturan jika terbukti gagal?"]
+    R["RANCANGAN ATURAN / PRAKSIS ASRAMA"]
+    
+    subgraph TUJUH_UJI_ETIK["Tujuh Uji Etika Kebijakan TUMBUH"]
+        direction TB
+        T1["1. Uji Tauhid: Selaras dengan kemuliaan fitrah insan?"]
+        --> T2["2. Uji Pertumbuhan: Membantu tumbuh atau sekadar menakuti?"]
+        --> T3["3. Uji Kemanusiaan: Hormati hak tidur 7 jam & gizi?"]
+        --> T4["4. Uji Faktual: Berbasis bukti sahih, bukan emosi?"]
+        --> T5["5. Uji Keterpaduan: Sejalan dengan ajaran madrasah?"]
+        --> T6["6. Uji Kemanfaatan: Nyata memulihkan adab & ukhuwah?"]
+        --> T7["7. Uji Muhasabah: Siap mencabut aturan jika gagal?"]
+    end
+
+    R ==> TUJUH_UJI_ETIK
 ```
 
 #### Sepuluh Tanda Bahaya Lampu Merah (*The Ten Red Flags*)
@@ -178,15 +188,18 @@ Pesantren yang benar-benar berkomitmen melindungi santri wajib memiliki **Prosed
 
 ```mermaid
 graph TD
-    subgraph ALUR_AKUNTABILITAS_PENDIDIK["Mekanisme Tindakan atas Oknum Pelaku Kekerasan"]
+    subgraph ALUR_AKUNTABILITAS_PENDIDIK["Mekanisme Tindakan Oknum Pelanggar"]
         direction TB
-        L["1. Laporan Masuk dari Santri / Wali Santri / Rekan Musyrif"] --> I["2. Tim Independen Perlindungan Santri Melakukan Investigasi 1x24 Jam"]
-        I --> B["3. Pemeriksaan Bukti Fisik Medis & Keterangan Saksi Tanpa Intervensi"]
-        B --> K["4. Klasifikasi Tingkat Pelanggaran Etika Lembaga"]
+        L["1. Laporan Masuk (Santri / Wali / Rekan)"]
+        --> I["2. Investigasi Tim Independen 1x24 Jam"]
+        --> B["3. Verifikasi Bukti Medis & Saksi"]
+        --> K["4. Klasifikasi Tingkat Pelanggaran"]
         
-        K --> S1["PELANGGARAN RINGAN (Bentakan Kasar / Kata Kotor)<br/>• Teguran Tertulis I, Wajib Mengikuti Pelatihan Regulasi Emosi"]
-        K --> S2["PELANGGARAN SEDANG (Penjemuran / Pencukuran Botak Sepihak)<br/>• Skorsing Tugas Lapangan, Pemotongan Tunjangan, Wajib Minta Maaf"]
-        K --> S3["PELANGGARAN BERAT (Pemukulan Fisik / Pelecehan / Penganiayaan)<br/>• PEMECATAN TIDAK DENGAN HORMAT & PELAPORAN KE PIHAK BERWAJIB"]
+        K --> S1["RINGAN (Bentakan Kasar):<br/>Teguran Tertulis & Pelatihan Regulasi Emosi"]
+        K --> S2["SEDANG (Penjemuran / Hukuman Fisik Ringan):<br/>Skorsing Lapangan & Kewajiban Restitusi"]
+        K --> S3["BERAT (Pemukulan / Penganiayaan):<br/>Pemberhentian & Pelaporan Hukum Resmi"]
+        S1 --- S2
+        S2 --- S3
     end
 ```
 

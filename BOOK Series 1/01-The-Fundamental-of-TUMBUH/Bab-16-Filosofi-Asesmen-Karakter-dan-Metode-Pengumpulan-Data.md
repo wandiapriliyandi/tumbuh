@@ -38,11 +38,17 @@ Merangkum seluruh kompleksitas jiwa seorang anak ke dalam angka tunggal kuantita
 
 ```mermaid
 graph TD
-    A["REDUKSI KARAKTER MENJADI ANGKA MATI (85 / NILAI B)"] --> B1["1. KEHILANGAN KONTEKS SITUASIONAL (LOSS OF CONTEXT)<br/>Angka tidak memberi tahu mengapa santri terlambat atau bersedih"]
-    A --> B2["2. MENDORONG KEMUNAFIKAN SOSIAL (FEIGNED COMPLIANCE)<br/>Santri mengejar angka demi dipuji guru, bukan mencari ridha Allah"]
-    A --> B3["3. JEBAKAN PELABELAN PERMANEN (LABELING TRAP)<br/>Cap 'Santri Pembuat Masalah' merusak konsep diri anak seumur hidup"]
+    A["REDUKSI KARAKTER MENJADI ANGKA MATI (85 / NILAI B)"]
     
-    B1 & B2 & B3 --> BENCANA["KERUNTUHAN INTEGRITAS TARBIYAH ASRAMA"]
+    subgraph TIGA_BAHAYA_SKOR_ANGKA["Tiga Bahaya Reduksi Angka Tunggal"]
+        direction TB
+        B1["1. KEHILANGAN KONTEKS (Loss of Context):<br/>Angka tidak menjelaskan motif & kondisi santri."]
+        --> B2["2. MUNCUL KEPATUHAN SEMU (Feigned Compliance):<br/>Santri mengejar poin demi pujian, bukan ridha Allah."]
+        --> B3["3. JEBAKAN PELABELAN (Labeling Trap):<br/>Cap anak bermasalah merusak konsep diri."]
+    end
+
+    A ==> TIGA_BAHAYA_SKOR_ANGKA
+    TIGA_BAHAYA_SKOR_ANGKA ==> BENCANA["KERUNTUHAN INTEGRITAS PENDIDIKAN ASRAMA"]
 ```
 
 #### 1. Kehilangan Konteks Eksistensial (Loss of Contextual Reality)
@@ -113,15 +119,15 @@ Karakter manusia tidak pernah dapat dipotret secara adil jika hanya mengandalkan
 graph TD
     S["TRIANGULASI ASESMEN KARAKTER AUTENTIK"]
     
-    subgraph TIGA_SUMBER_BUKTI["Tiga Pilar Data Perilaku TUMBUH"]
-        S --> D1["1. LOGBOOK PENGAMATAN MUSYRIF<br/>• Catatan Fakta Faktual Bebas Opini<br/>• Rasio Afirmasi Emas Minimal 4:1<br/>• Observasi Alami di 24 Jam Asrama"]
-        
-        S --> D2["2. JURNAL REFLEKSI DIRI SANTRI<br/>• Metakognisi & Muhasabah Kalbu<br/>• Kejujuran Mengakui Hambatan Diri<br/>• Perumusan Rencana Aksi Tobat"]
-        
-        S --> D3["3. VALIDASI SOSIAL SEBAYA<br/>• Masukan Tertutup Teman Sekamar<br/>• Sosiometri Ukhuwah & Iklim Kamar<br/>• Pendeteksian Perilaku Klandestin"]
+    subgraph TIGA_SUMBER_BUKTI["Tiga Pilar Data Perilaku Terpadu"]
+        direction TB
+        D1["1. LOGBOOK PENGAMATAN MUSYRIF:<br/>Catatan fakta 24 jam & rasio afirmasi 4:1"]
+        --> D2["2. JURNAL REFLEKSI DIRI SANTRI:<br/>Muhasabah kalbu & evaluasi hambatan diri"]
+        --> D3["3. VALIDASI SOSIAL SEBAYA:<br/>Iklim kamar, kepedulian & ukhuwah nyata"]
     end
 
-    D1 & D2 & D3 --> HASIL["PROFIL PERKEMBANGAN IPSATIF SANTRI<br/>(Peta Pertumbuhan yang Adil, Presisi & Bermakna Tarbiyah)"]
+    S ==> TIGA_SUMBER_BUKTI
+    TIGA_SUMBER_BUKTI ==> HASIL["PROFIL PERKEMBANGAN IPSATIF SANTRI<br/>(Peta Pertumbuhan Adil, Presisi & Edukatif)"]
 ```
 
 #### 1. Logbook Harian Musyrif: Standar Penulisan Fakta Bebas Opini
@@ -231,13 +237,11 @@ TUMBUH melatih para pembina menguasai protokol **Roti Lapis Adab (*The Adab Sand
 
 ```mermaid
 graph TD
-    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Penyampaian Koreksi Beradab"]
+    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Koreksi Beradab (Sandwich Feedback)"]
         direction TB
-        L1["LAPIS 1: AFIRMASI FITRAH & APRESIASI TULUS (ROTI ATAS)<br/>'Farhan, Ustadz sangat menghargai caramu membantu adik kelas menyapu kemarin...'"]
-        L2["LAPIS 2: DESKRIPSI KOREKSI SPESIFIK & AKUNTABILITAS (DAGING INTI)<br/>'Namun subuh tadi, antum terlambat 5 menit masuk saf masjid karena mengobrol...'"]
-        L3["LAPIS 3: PENANAMAN HARAPAN & DUKUNGAN MASA DEPAN (ROTI BAWAH)<br/>'Ustadz yakin antum mampu tidur lebih awal malam ini. Mari kita wujudkan bersama!'"]
-        
-        L1 --> L2 --> L3
+        L1["LAPIS 1: AFIRMASI & APRESIASI TULUS (Roti Atas)<br/>'Ustadz sangat menghargai caramu membantu<br/>adik kelas menyapu kemarin sore...'"]
+        --> L2["LAPIS 2: DESKRIPSI KOREKSI SPESIFIK (Daging Inti)<br/>'Namun subuh tadi, antum terlambat 5 menit<br/>masuk saf karena masih mengobrol...'"]
+        --> L3["LAPIS 3: HARAPAN & DUKUNGAN (Roti Bawah)<br/>'Ustadz yakin antum bisa tidur lebih awal<br/>malam ini. Mari kita ikhtiarkan bersama!'"]
     end
 ```
 

@@ -156,12 +156,16 @@ Ekosistem TUMBUH menegakkan pilar perlindungan modern berbasis syariat:
    Pimpinan pesantren berani meminta maaf secara terbuka kepada korban dan wali santri jika terbukti terjadi kelalaian sistemik di lingkungan asrama, serta menindak tegas oknum yang bersalah sesuai koridor hukum syariat dan hukum positif yang berlaku.
 
 ```mermaid
-graph LR
+graph TD
     subgraph MEKANISME_AKUNTABILITAS_TUMBUH["Alur Perlindungan Santri Berkeadilan"]
-        L["Santri / Wali Santri Mengalami / Menyaksikan Pelanggaran"] --> K["Saluran Pengaduan Aman & Rahasia (Safe Reporting Channel)"]
-        K --> P["Penyelidikan oleh Komite Etik Independen (Tabayyun & Bukti)"]
-        P --> T["Penegakan Keadilan Restoratif & Perlindungan Korban"]
-        P --> S["Sanksi Tegas bagi Oknum Pembina / Senior yang Melanggar"]
+        direction TB
+        L["Santri / Wali Menyaksikan Pelanggaran"]
+        --> K["Saluran Pengaduan Aman & Rahasia"]
+        --> P["Penyelidikan Komite Etik (Tabayyun & Bukti)"]
+        
+        P --> T["Penegakan Restoratif & Lindungi Korban"]
+        P --> S["Sanksi Tegas bagi Oknum yang Melanggar"]
+        T --- S
     end
 ```
 
@@ -175,10 +179,11 @@ TUMBUH memberlakukan standar etika tata kelola data santri yang sangat ketat:
 
 ```mermaid
 graph TD
-    subgraph DUA_PILAR_DATA_TUMBUH["Tata Kelola Data Perlindungan Santri TUMBUH"]
+    subgraph DUA_PILAR_DATA_TUMBUH["Tata Kelola Data Perlindungan Santri"]
         direction TB
-        P1["1. HAK PRIVASI & AKSES BERJENJANG (TIERED DATA ACCESS)<br/>Data Pelanggaran HANYA Boleh Diakses Musyrif Terkait & Konselor BK Resmi.<br/>Pengurus Santri Senior DILARANG Mengakses Rekam Medis & Batin Santri."]
-        P2["2. HAK PEMUTIHAN CATATAN (RIGHT TO BE FORGOTTEN)<br/>Setelah Proses Restorasi Tuntas & 6 Bulan Berperilaku Baik,<br/>Catatan Pelanggaran Lama DITUTUP & DIARSIPKAN PERMANEN."]
+        P1["1. HAK PRIVASI & AKSES BERJENJANG<br/>Data pelanggaran HANYA diakses Musyrif terkait<br/>dan Konselor BK resmi (bukan santri senior)."]
+        P2["2. HAK PEMUTIHAN CATATAN<br/>Setelah proses restorasi tuntas & 6 bulan konsisten,<br/>catatan lama ditutup & diarsipkan permanen."]
+        P1 ==> P2
     end
 ```
 

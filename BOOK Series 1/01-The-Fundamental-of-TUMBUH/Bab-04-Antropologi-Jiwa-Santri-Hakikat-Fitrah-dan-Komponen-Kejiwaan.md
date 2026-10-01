@@ -59,17 +59,14 @@ Psikologi Barat sekuler—yang berakar pada materialisme—mereduksi manusia sem
 Sebaliknya, khazanah intelektual Islam yang diwariskan oleh **Hujjatul Islam Abu Hamid Al-Ghazali** dalam *Ihya' Ulumiddin* (khususnya *Kitab Syarh 'Aja'ib al-Qalb*) memberikan peta anatomi jiwa yang sangat komprehensif, presisi, dan berlapis-lapis[^2]:
 
 ```mermaid
-graph LR
+graph TD
     subgraph ANATOMI_JIWA_ISLAM["Empat Entitas Utama Jiwa Manusia (Al-Ghazali)"]
-        R["1. AR-RUH<br/>Nafas Hayat Ilahiyah yang Ditiupkan Allah • Sumber Kehidupan Suci • Bersifat Samar & Murni"]
-        Q["2. AL-QALB<br/>Pusat Inti Kemanusiaan • Hakikat Diri • Wadah Iman, Bashirah & Taqallub Emosi"]
-        A["3. AL-'AQL<br/>Cahaya Nalar Pemikir • Pembeda Maslahat & Mudarat • Pelayan & Penasihat bagi Qalb"]
-        N["4. AN-NAFS<br/>Daya Jiwa Hayawaniyah • Wadah Syahwat & Amarah • Medan Ujian Tarbiyah"]
+        direction TB
+        R["1. AR-RUH (Nafas Hayat Ilahi)<br/>Sumber Kehidupan Suci"]
+        --> A["2. AL-'AQL (Cahaya Nalar)<br/>Pembeda Maslahat & Mudarat"]
+        --> Q["3. AL-QALB (Pusat Batin)<br/>Wadah Iman, Empati & Bashirah"]
+        --> N["4. AN-NAFS (Daya Hayawaniyah)<br/>Medan Ujian & Tarbiyah Jiwa"]
     end
-
-    R --- Q
-    A --- Q
-    N --- Q
 ```
 
 Mari kita bedah hakikat dan fungsi masing-masing komponen ini dalam kaitannya dengan pembinaan santri:
@@ -147,12 +144,12 @@ Menolak reduksionisme perilaku, sistem TUMBUH memandang santri melalui **Lensa E
 graph TD
     A["MANUSIA SANTRI UTUH (TUMBUH)"]
     
-    A --> D1["1. JASAD (Fisik-Biologis)<br/>Nutrisi Gizi, Kebutuhan Tidur, Irama Sirkadian & Hormon Pubertas"]
-    A --> D2["2. 'AQL (Kognitif & Nalar)<br/>Pematangan Prefrontal Cortex (PFC), Daya Memori & Logika Maslahat"]
-    A --> D3["3. QALB (Spiritual & Afektif)<br/>Tauhid, Keikhlasan Niat, Empati, Regulasi Emosi & Rasa Aman Batin"]
-    A --> D4["4. IRADAH (Kehendak & Agensi)<br/>Daya Memilih Sadar (Ikhtiyar), Pengendalian Diri & Tanggung Jawab"]
-    A --> D5["5. 'AMAL (Kebiasaan & Malakah)<br/>Pembiasaan Adab Spontan, Perilaku Kongkret di Kamar & Masjid"]
-    A --> D6["6. BI'AH (Relasi & Ekosistem)<br/>Iklim Budaya Kamar, Dinamika Teman Sebaya & Teladan Musyrif"]
+    A --> D1["1. JASAD (Fisik-Biologis)<br/>Nutrisi Gizi, Tidur, Sirkadian & Hormon Pubertas"]
+    D1 --> D2["2. 'AQL (Kognitif & Nalar)<br/>Pematangan PFC, Memori & Logika Maslahat"]
+    D2 --> D3["3. QALB (Spiritual & Afektif)<br/>Tauhid, Keikhlasan, Empati & Regulasi Emosi"]
+    D3 --> D4["4. IRADAH (Kehendak & Agensi)<br/>Ikhtiyar Sadar, Kendali Diri & Tanggung Jawab"]
+    D4 --> D5["5. 'AMAL (Kebiasaan & Malakah)<br/>Pembiasaan Adab Spontan di Kamar & Masjid"]
+    D5 --> D6["6. BI'AH (Relasi & Ekosistem)<br/>Iklim Budaya Kamar, Teman Sebaya & Qudwah"]
 ```
 
 Mari kita urai keterkaitan dinamis keenam dimensi ini dalam kehidupan asrama 24 jam:
@@ -185,15 +182,20 @@ Agar pemahaman antropologi ini menjadi panduan praktis bagi para pendidik, perha
 
 ```mermaid
 graph TD
-    M["Laporan Kasus: Farhan Melamun & Melempar Sandal"] --> U["AUDIT INVESTIGASI MULTIDIMENSI TUMBUH"]
+    M["Kasus: Farhan Melamun & Lempar Sandal"] --> U["AUDIT INVESTIGASI MULTIDIMENSI TUMBUH"]
     
-    U --> F1["1. Uji Dimensi Jasmani<br/>Ditemukan: Farhan mengalami sakit gigi geraham berlubang yang membuatnya tidak bisa tidur selama 4 malam berturut-turut."]
-    U --> F2["2. Uji Dimensi Kognitif<br/>Ditemukan: Materi nahwu bab I'lal terlalu abstrak baginya; ia mengalami kebingungan akut (cognitive overload) namun malu bertanya."]
-    U --> F3["3. Uji Dimensi Afektif<br/>Ditemukan: Farhan merasa sangat tertekan dan takut dicap bodoh oleh kawan-kawannya."]
-    U --> F4["4. Uji Dimensi Bi'ah / Relasi<br/>Ditemukan: Teman sekamarnya mengejeknya 'si gigi ompong' saat antre wudhu sore kemarin, memicu ledakan amarahnya melempar sandal."]
-    U --> F5["5. Uji Dimensi Iradah<br/>Ditemukan: Farhan sebenarnya sangat menyesal melempar sandal, namun ia tidak tahu bagaimana cara meredakan rasa malunya."]
-    
-    F1 & F2 & F3 & F4 & F5 --> SOL["REKOMENDASI INTERVENSI EDUKATIF TERPADU:<br/>1. Pengobatan medis ke dokter gigi pondok.<br/>2. Bimbingan remedial kognitif privat bersama guru nahwu.<br/>3. Lingkaran restoratif kamar untuk menghentikan ejekan fisik.<br/>4. Farhan meminta maaf secara ksatria atas lemparan sandalnya."]
+    subgraph HASIL_AUDIT["Temuan Lima Dimensi Kausalitas"]
+        direction TB
+        F1["1. Jasmani: Sakit gigi geraham berlubang,<br/>tidak tidur nyenyak 4 malam berturut-turut."]
+        F2["2. Kognitif: Cognitive overload materi I'lal nahwu,<br/>bingung namun malu bertanya."]
+        F3["3. Afektif: Tertekan & cemas dicap bodoh."]
+        F4["4. Bi'ah / Relasi: Diejek kawan saat antre wudhu,<br/>memicu ledakan amarah."]
+        F5["5. Iradah: Menyesal melempar sandal,<br/>namun bingung meredakan malu."]
+        F1 --> F2 --> F3 --> F4 --> F5
+    end
+
+    U --> HASIL_AUDIT
+    HASIL_AUDIT --> SOL["SOLUSI RESTORATIF TERPADU:<br/>1. Pengobatan medis dokter gigi pondok.<br/>2. Remedial kognitif privat guru nahwu.<br/>3. Dialog lingkaran restoratif kamar.<br/>4. Farhan meminta maaf secara ksatria."]
 ```
 
 Bandingkan hasil di atas dengan metode penghukuman konvensional!
