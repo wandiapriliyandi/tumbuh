@@ -8,6 +8,8 @@
 
 ---
 
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan doa para hamba *Ar-Rahman* ini: bahwa yang dimaksud *qurrata a'yun* (penyejuk pandangan mata) adalah ketika seorang mukmin melihat keturunannya taat kepada Allah, beradab mulia, dan menjauhi maksiat; tidak ada kebahagiaan yang lebih membuncah di dalam dada seorang mukmin selain menyaksikan anaknya menjadi hamba Allah yang shalih. Sedangkan makna *waj'alna lil-muttaqina imama*—sebagaimana ditegaskan oleh Ibnu Abbas dan Al-Hasan Al-Bashri—adalah agar anak keturunan mereka menjadi para pemimpin dan teladan dalam kebajikan yang diikuti jejak kesalehannya oleh orang-orang yang bertakwa.[^1] Inilah visi profil insan yang menjadi poros Model Inti TUMBUH.
+
 ### 10.1 Dari Filsafat Menuju Cetak Biru: Mengapa Pesantren Memerlukan Model Inti?
 
 Pada empat bagian terdahulu, kita telah meletakkan pilar-pilar fondasi yang kokoh: Pandangan Alam Tauhid (Bagian I), Epistemologi Terpadu dan Antropologi Jiwa (Bagian II), Falsafah Tarbiyah dan Neurosains Remaja (Bagian III), serta Sumpah Integritas Non-Negotiables (Bagian IV). Seluruh fondasi tersebut menjawab pertanyaan: *Mengapa kita mendidik? Siapa yang kita didik? Dan batasan moral apa yang wajib kita jaga?*
@@ -40,6 +42,8 @@ graph TD
 ---
 
 ### 10.2 Tiga Ranah Relasi Asasi: Kosmologi Hubungan Manusia
+
+Tiga ranah hubungan asasi ini bukanlah sekadar pembagian matriks kompetensi modern yang kering, melainkan **tata kosmologi peradaban jiwa manusia**. Hubungan santri dengan Allah (*Hablum Minallah*) adalah akar ruhaniyahnya; hubungan santri dengan sesamanya (*Hablum Minannas*) adalah dahan dan buah kemaslahatannya; dan hubungan santri dengan dirinya sendiri (*Hablum Ma'an-Nafs*) adalah batang kejujuran integritasnya. Jika salah satu poros ini patah, bangunan kepribadian santri akan runtuh. Santri yang rajin bertahajud namun merundung kawannya di kamar sesungguhnya sedang mengalami kepalsuan spiritual (*spiritual hypocrisy*); sebaliknya, santri yang santun dalam pergaulan namun meninggalkan salat sedang memutus nafas hidup hakikinya.
 
 Seluruh gerak kehidupan santri selama dua puluh empat jam di asrama berporos pada **Tiga Ranah Hubungan Asasi (*The Triadic Domains of Relation*)**:
 
@@ -133,7 +137,7 @@ Mari kita terjemahkan kesepuluh profil ini ke dalam indikator perilaku nyata di 
 
 ### 10.4 Arsitektur Delapan Kapasitas Inti (*The Eight Core Capacities - 8 CC*)
 
-Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH menyusun mesin fungsional yang dinamakan **Delapan Kapasitas Inti (*The Eight Core Capacities / 8 CC*)**[^3]. 
+Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH menyusun mesin fungsional yang dinamakan **Delapan Kapasitas Inti (*The Eight Core Capacities / 8 CC*)**[^2]. 
 
 Kapasitas Inti adalah serangkaian keterampilan eksekutif kognitif, emosional, fisik, dan sosial yang **dapat dilatih, diobservasi, dan diukur perkembangannya secara formatif**:
 
@@ -270,10 +274,14 @@ Bagaimanakah tata ruang asrama, titik rawan perundungan (*hotspots*), serta sine
 
 Inilah yang akan kita jelajahi secara mendalam dalam **Bab 11: Rekayasa Lingkungan Asrama & Ekosistem Terpadu 24 Jam**.
 
+Model Inti telah memberikan gambaran paripurna tentang sosok santri yang kita dambakan. Namun, manusia tidak hidup di awang-awang teori; santri hidup di bilik kamar, antrean wastafel, lorong jemuran, dan masjid. Bagaimana lingkungan fisik dan sosial 24 jam ini harus direkayasa agar secara otomatis mendorong adab dan memadamkan bibit perundungan?
+
+Di Bab 11, kita akan membedah Rekayasa Lingkungan Asrama dan Ekosistem Terpadu 24 Jam.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Furqan [25]: 74.
-[^2]: Hasan Al-Banna, *Risalatut Ta'alim*, Kairo: Dar at-Tauzi' wa an-Nasyr al-Islamiyyah, 1992, hlm. 12–18 mengenai sepuluh karakter muwashafat tarbiyah islamiyah; diselaraskan dengan Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE/README.md`.
-[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_ARCHITECTURE_PURPOSE_AND_LOGIC.md` dan `01_CORE_CAPACITIES/README.md`.
+[^2]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_ARCHITECTURE_PURPOSE_AND_LOGIC.md` dan `01_CORE_CAPACITIES/README.md`.
+[^3]: Hasan Al-Banna, *Risalatut Ta'alim*, Kairo: Dar at-Tauzi' wa an-Nasyr al-Islamiyyah, 1992, hlm. 12–18 mengenai sepuluh karakter muwashafat tarbiyah islamiyah; diselaraskan dengan Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE/README.md`.

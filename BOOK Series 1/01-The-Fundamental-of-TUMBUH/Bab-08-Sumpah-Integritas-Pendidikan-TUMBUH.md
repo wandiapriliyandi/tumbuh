@@ -8,7 +8,11 @@
 
 ---
 
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa amanat mencakup seluruh perkara syariat yang dipercayakan Allah kepada hamba-Nya, baik amanat ibadah kepada Allah maupun amanat pemeliharaan hak sesama manusia. Khianat terhadap anak-anak kaum muslimin yang dititipkan di pesantren—dengan memperlakukan mereka secara zalim, meremukkan mentalnya dengan kekerasan, atau membiarkan hak-hak keselamatannya terancam—adalah sebesar-besar pengkhianatan kepada Allah dan Rasul-Nya.[^1]
+
 ### 8.1 Piagam Gerbang Pesantren: Mengapa Sistem Membutuhkan Batas Mutlak?
+
+Sumpah Integritas TUMBUH bukanlah sekadar klausul kepatuhan hukum (*legal compliance*) atau kode etik administratif yang dingin. Sumpah ini adalah **Mīthāq Ghalīzh (Perjanjian yang Amat Berat)** di hadapan Allah ﷻ. Setiap kali seorang santri melangkah melewati gerbang pondok, orang tuanya menyerahkan buah hatinya dengan tetesan air mata doa dan tawakal. Amanah tersebut mengguncang langit; bagaimana mungkin amanah suci itu disambut dengan rotan pemukul, bentakan yang menghina nama orang tua, atau pengabaian keselamatan raga? Sepuluh prinsip inti non-negotiable ini adalah dinding benteng yang menjaga agar lembaga pendidikan tidak berubah menjadi ladang kezaliman yang dimurkai Allah.
 
 Di masa lalu, ketika seorang wali santri mengantarkan putra-putrinya ke pondok pesantren, kerap terlontar sebuah kalimat pasrah yang dianggap sebagai puncak ketakziman: *"Pak Kyai, anak ini saya serahkan sepenuhnya. Mau dipukul, mau dibotaki, mau disuruh apa saja silakan, yang penting pulangnya jadi orang shalih."* 
 
@@ -218,6 +222,10 @@ Inilah sumpah suci yang menjaga benteng pesantren kita dari kemurkaan Allah ﷻ.
 Dengan dipancangkannya Sumpah Integritas ini, kita kini memiliki garis batas yang tak tergoyahkan. Langkah selanjutnya adalah memastikan: *Bagaimanakah tata kelola pengambilan keputusan dan etika penanganan kasus santri dijalankan sehari-hari agar terbebas dari bias personal, fitnah, dan kesewenang-wenangan?*
 
 Inilah yang akan kita bedah secara tuntas dalam **Bab 9: Tata Kelola Epistemik dan Etika Pengambilan Keputusan**.
+
+Sumpah integritas telah kita ikrarkan di hadapan Allah. Namun, bagaimana jika seorang pembina yang berniat baik dan tulus, justru tergelincir menzalimi santri hanya karena ia menggunakan data yang keliru, mempercayai kabar burung, atau tidak sengaja membocorkan aib santri saat rapat pengasuhan?
+
+Di Bab 9, kita akan membedah Tata Kelola Epistemik dan Etika Pengambilan Keputusan—menjaga agar lisan, pena, dan vonis para pendidik tetap suci dari kezaliman yang tak disadari.
 
 ---
 

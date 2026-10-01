@@ -222,6 +222,12 @@ Dengan tim multidisipliner ini, pesantren tidak pernah lagi membuat kebijakan di
 
 ---
 
+Sistem bertingkat PBIS telah memberikan perisai pencegahan dan dukungan yang terukur. Namun, ketika pelanggaran berat atau konflik perselisihan meletus di kamar santri, keadilan seperti apa yang wajib kita tegakkan? Mengapa pembalasan fisik dan skorsing pengucilan justru memperparah luka asrama? 
+
+Di Bab 19, kita akan membedah Disiplin Positif dan Keadilan Restoratif (*Restorative Justice & Ishlah al-Bain*).
+
+---
+
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Ma'idah [5]: 2.

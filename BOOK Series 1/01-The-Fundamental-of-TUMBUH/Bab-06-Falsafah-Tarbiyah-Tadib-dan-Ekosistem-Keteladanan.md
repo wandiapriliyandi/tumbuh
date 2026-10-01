@@ -8,6 +8,8 @@
 
 ---
 
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat yang mulia ini adalah *ashlun kabir* (fondasi agung yang sangat fundamental) dalam meneladani baginda Rasulullah ﷺ dalam segala ucapan, perbuatan, dan seluruh tingkah laku hidup beliau.[^1] Para pendidik santri tidak berhak menuntut adab dari santri jika pribadi mereka sendiri belum mencerminkan keluhuran teladan nubuwah ini.
+
 ### Prolog: Keheningan di Serambi Asrama
 
 Malam telah larut di sebuah pesantren di lereng bukit. Jam dinding di serambi asrama berdentang dua belas kali. Di bilik-bilik asrama yang berderet panjang, dengkur halus anak-anak belia berpadu dengan desau angin pegunungan yang menyusup lewat sela-sela ventilasi kayu. Jika kita melongok ke dalam salah satu bilik tidur, kita akan menyaksikan pemandangan yang menggetarkan nurani: wajah-wajah polos santri usia dua belas dan tiga belas tahun yang terlelap pulas. Sebagian dari mereka memeluk guling erat-erat—mungkin dalam mimpinya mereka sedang memeluk ibunya di kampung halaman yang berjarak ratusan kilometer. Sebagian lainnya tidur dengan kening yang masih tampak berkerut, menanggung keletihan fisik setelah enam belas jam nonstop berjibaku dengan ritme hafalan Al-Qur'an, setoran kaidah nahwu, antrean mandi, dan disiplin yang tak memberi ruang jeda.
@@ -52,7 +54,7 @@ Kata *tarbiyah* berakar dari dua cabang makna kebahasaan: *raba-yarbu* (ربا -
 Tarbiyah adalah perancah pendukung kehidupan jasmani. Namun, jika orientasi pengasuhan asrama hanya berkutat pada urusan logistik—apakah nasi dapur sudah matang, apakah pakaian cucian sudah terlipat, dan apakah kamar mandi sudah disikat—tanpa pernah menyentuh hakikat spiritual anak, maka proses itu tidak ubahnya seperti manajemen peternakan. Tubuh santri membesar, ototnya menguat, namun batinnya kerdil dan miskin makna.
 
 #### 3. At-Ta'dib: Inti Sejati dan Mahkota Pendidikan Islam
-Inilah konsep agung yang ditegaskan kembali oleh Prof. Syed Muhammad Naquib al-Attas sebagai **definisi paling hakiki dan paripurna bagi pendidikan Islam**. Kata *Ta'dib* (تأديب) berakar langsung dari kata **Adab** (أدب). 
+Inilah konsep mendasar yang ditegaskan kembali oleh Prof. Syed Muhammad Naquib al-Attas sebagai **definisi paling hakiki dan paripurna bagi pendidikan Islam**. Kata *Ta'dib* (تأديب) berakar langsung dari kata **Adab** (أدب). 
 
 Sebagaimana disabdakan oleh junjungan kita, Nabi Muhammad ﷺ:
 
@@ -130,7 +132,7 @@ Secara biologis murni, kekerasan verbal dan emosional yang diperagakan oleh pend
 #### 2. Teori Polivagal dan Prinsip Ko-Regulasi Saraf (Co-Regulation)
 Dalam kerangka *Polyvagal Theory* yang dirumuskan oleh Dr. Stephen Porges, sistem saraf manusia pada dasarnya adalah sistem sosial yang dirancang untuk saling berkoordinasi (*co-regulating organism*)[^5]. Seorang anak remaja tidak bisa menenangkan amigdala dan sistem limbiknya yang sedang meledak sendirian; ia membutuhkan kehadiran sistem saraf orang dewasa yang matang dan stabil untuk membimbingnya kembali ke zona aman (*Ventral Vagal Social Engagement State*).
 
-Perhatikan bagaimana hadits agung Ibnu Jama'ah dalam *Tadzkirat as-Sami'* menyelaraskan prinsip ini:
+Perhatikan bagaimana penegasan Ibnu Jama'ah dalam *Tadzkirat as-Sami'* menyelaraskan prinsip ini:
 
 $$\text{أَنْ يَتَمَثَّلَ الْعَالِمُ بِمَا يَدْعُو إِلَيْهِ، فَإِنَّ النَّاسَ يَقْتَدُونَ بِأَفْعَالِهِ أَكْثَرَ مِمَّا يَقْتَدُونَ بِأَقْوَالِهِ}$$
 
@@ -334,6 +336,10 @@ Di dalam Miniatur Madinah Nabawiyyah inilah, setiap santri dihargai fitrahnya, d
 4. **Keamanan Psikologis (Psychological Safety):** Menghidupkan sunnah dialog sokratik-profetik Rasulullah ﷺ sebagaimana beliau membimbing pemuda yang dilanda pergulatan syahwat secara rasional, empatik, dan penuh sentuhan kasih sayang tanpa bentakan.
 5. **Kemenangan Kurikulum Tersembunyi:** Memastikan lingkungan fisik asrama, irama jadwal tidur 7 jam, kebersihan sanitasi, dan keramahan seluruh warga pondok mencerminkan nilai-nilai adab yang diajarkan di kelas, sehingga tidak terjadi disparitas moral (*say-do incongruence*).
 6. **Identitas Miniatur Madinah Nabawiyyah:** Menolak model barak militer yang bengis dan model asrama sekuler yang permisif; menegakkan pesantren sebagai ekosistem ketegasan penuh cinta kasih (*Firm & Kind*) demi mencetak insan adabi sejati.
+
+Keteladanan qudwah dan atmosfer bi'ah shalihah telah kita bentangkan. Namun, bagaimana sesungguhnya proses perubahan perilaku itu berlangsung di dalam diri seorang santri dari waktu ke waktu? Mengapa perubahan karakter santri kerap mengalami pasang-surut dan tidak pernah berjalan linier?
+
+Di Bab 7, kita akan membedah Teori Perubahan Perilaku Berkelanjutan (*Theory of Change*) yang menjadi peta jalan transformasi santri menuju istiqamah.
 
 ---
 

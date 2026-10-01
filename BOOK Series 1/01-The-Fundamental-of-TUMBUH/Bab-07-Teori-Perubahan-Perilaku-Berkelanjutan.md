@@ -8,6 +8,8 @@
 
 ---
 
+Imam Abu Ja'far Ath-Thabari dalam *Jami' al-Bayan* dan Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan bahwa Allah Yang Maha Adil tidak akan mengubah kenikmatan, kehormatan, dan kesejahteraan suatu kaum menjadi kehinaan dan bencana hingga mereka sendiri yang mengubah ketaatan menjadi kemaksiatan; dan sebaliknya, Allah tidak akan mengubah kehinaan dan kemunduran suatu kaum menjadi kemuliaan peradaban hingga mereka mengubah apa yang ada di dalam batin mereka (*maa bi anfusihim*): membersihkan niat, menegakkan tauhid, dan menumbuhkan karakter adab.[^1] Transformasi peradaban berakar mutlak pada transformasi jiwa manusia.
+
 ### 7.1 Ilusi Perubahan Cepat: Menelanjangi "Efek Pegas" dalam Disiplin Asrama
 
 Salah satu godaan paling berbahaya bagi para pengelola pesantren, asatidz, dan musyrif lapangan adalah **obsesi terhadap hasil instan (*the illusion of instant behavioral change*)**. 
@@ -119,7 +121,7 @@ Pendidik TUMBUH menyikapi kekhilafan sementara dengan kearifan seorang dokter sp
 
 Perubahan karakter seorang santri tidak akan pernah mampu bertahan lama jika ia hidup terisolasi di tengah lingkungan kamar asrama yang sarat dengan racun budaya (*toxic culture*). 
 
-Bayangkan seorang santri yang telah bertekad kuat untuk menjaga pandangan matanya dan bertutur kata santun, namun sebelas kawan sekamarnya setiap malam mengobrolkan hal-hal jorok, saling mencaci dengan nama orang tua, dan menertawakan santri yang rajin ke masjid. Dalam waktu kurang dari satu bulan, santri yang berniat baik tersebut niscaya akan menyerah dan terseret kembali ke dalam lumpur kebiasaan mayoritas akibat tekanan konformitas kelompok sebaya (**Peer Conformity Pressure**)[^5].
+Bayangkan seorang santri yang telah bertekad kuat untuk menjaga pandangan matanya dan bertutur kata santun, namun sebelas kawan sekamarnya setiap malam mengobrolkan hal-hal jorok, saling mencaci dengan nama orang tua, dan menertawakan santri yang rajin ke masjid. Dalam waktu kurang dari satu bulan, santri yang berniat baik tersebut niscaya akan menyerah dan terseret kembali ke dalam lumpur kebiasaan mayoritas akibat tekanan konformitas kelompok sebaya (**Peer Conformity Pressure**)[^4].
 
 Oleh karena itu, teori perubahan TUMBUH tidak berhenti pada pembinaan individu per individu, melainkan mengadopsi **Pendekatan Sistemik Dinamis (*Dynamic Systems Thinking*)** dan **Teori Difusi Inovasi Kebudayaan (*Diffusion of Innovations*)** yang dirumuskan oleh sosiolog Everett Rogers[^6]:
 
@@ -174,7 +176,7 @@ Jauh sebelum para ilmuwan Barat memetakan *habit loop*, Imam Ibnu Qayyim al-Jauz
 
 $$\text{دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ شَهْوَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ إِرَادَةً وَعَزِيمَةً، فَإِنْ لَمْ تَدْفَعْهَا صَارَتْ فِعْلًا، فَإِنْ لَمْ تَتَدَارَكْهُ صَارَ عَادَةً، فَيَعْسُرُ عَلَيْكَ الْخُرُوجُ مِنْهَا}$$
 
-> *"Tolaklah lintasan pikiran buruk (*khathrah*), karena jika tidak, ia akan menjadi pikiran (*fikrah*). Tolaklah pikiran itu, karena jika tidak, ia akan menjadi syahwat (*syahwah*). Tolaklah syahwat itu, karena jika tidak, ia akan menjadi kehendak bulat (*iradah wa 'azimath*). Tolaklah kehendak itu, karena jika tidak, ia akan menjelma menjadi tindakan nyata (*fi'l*). Dan jika engkau tidak segera memperbaikinya, tindakan itu akan menjadi kebiasaan (*'adah*), yang kelak akan sangat sulit bagimu untuk melepaskan diri darinya!"*[^8]
+> *"Tolaklah lintasan pikiran buruk (*khathrah*), karena jika tidak, ia akan menjadi pikiran (*fikrah*). Tolaklah pikiran itu, karena jika tidak, ia akan menjadi syahwat (*syahwah*). Tolaklah syahwat itu, karena jika tidak, ia akan menjadi kehendak bulat (*iradah wa 'azimath*). Tolaklah kehendak itu, karena jika tidak, ia akan menjelma menjadi tindakan nyata (*fi'l*). Dan jika engkau tidak segera memperbaikinya, tindakan itu akan menjadi kebiasaan (*'adah*), yang kelak akan sangat sulit bagimu untuk melepaskan diri darinya!"*[^5]
 
 Dalam ekosistem TUMBUH, para pengasuh merekayasa ketiga komponen ini:
 1. **Memperjelas Isyarat (*Make Cues Obvious*)**: Meletakkan rak sandal tepat di depan pintu masuk masjid dengan tanda visual yang rapi; memasang pengingat visual adab wudhu di dekat kran; memperdengarkan lantunan tartil Al-Qur'an 15 menit sebelum waktu salat.
@@ -187,7 +189,7 @@ Dalam ekosistem TUMBUH, para pengasuh merekayasa ketiga komponen ini:
 
 Mengapa di sebagian asrama santri sangat sulit menjaga kebersihan, sementara di asrama yang lain kebersihan tercipta secara alami tanpa perlu diawasi musyrif bersenjata rotan?
 
-Pemenang Hadiah Nobel Ekonomi Richard Thaler dan Cass Sunstein merumuskan konsep **Teori Dorongan Halus (*Nudge Theory*)**: manusia mengambil keputusan bukan berdasarkan instruksi verbal panjang, melainkan berdasarkan **Arsitektur Pilihan (*Choice Architecture*)** yang dirancang di lingkungan sekitarnya[^9].
+Pemenang Hadiah Nobel Ekonomi Richard Thaler dan Cass Sunstein merumuskan konsep **Teori Dorongan Halus (*Nudge Theory*)**: manusia mengambil keputusan bukan berdasarkan instruksi verbal panjang, melainkan berdasarkan **Arsitektur Pilihan (*Choice Architecture*)** yang dirancang di lingkungan sekitarnya[^6].
 
 Prinsip arsitektur asrama TUMBUH menetapkan: **Buatlah kebaikan menjadi pilihan paling mudah dan menyenangkan, serta buatlah kemaksiatan/pelanggaran menjadi pilihan paling sulit dan tidak nyaman (*Make Good Easy, Make Bad Hard*)**:
 
@@ -229,6 +231,10 @@ Oleh karena itu, sebelum kita melangkah lebih jauh merancang arsitektur model da
 
 Inilah benteng suci yang akan kita pancangkan bersama dalam **BAGIAN IV: PRINSIP-PRINSIP INTI & INTEGRITAS SISTEM**.
 
+Jika transformasi perilaku membutuhkan kesadaran batin yang matang dan ekosistem yang sehat, lalu di manakah garis merah suci yang mutlak tidak boleh dilanggar oleh para pendidik saat mendampingi santri? Mengapa integritas moral lembaga harus diikat dalam sumpah yang tidak bisa dinegosiasikan? 
+
+Di Bab 8, kita melangkah ke Bagian IV untuk mendeklarasikan Piagam Sumpah Integritas Pendidikan TUMBUH (*The Non-Negotiables*).
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
@@ -236,9 +242,9 @@ Inilah benteng suci yang akan kita pancangkan bersama dalam **BAGIAN IV: PRINSIP
 [^1]: Al-Qur'an al-Karim, Surah Ar-Ra'd [13]: 11.
 [^2]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Tafsir Ath-Thabari), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Kairo: Dar Hijr, 2001), Jilid XIII, hlm. 118–125.
 [^3]: James O. Prochaska & Carlo C. DiClemente, *The Transtheoretical Approach: Crossing Traditional Boundaries of Therapy* (Homewood: Dow Jones-Irwin, 1984); James O. Prochaska, Wayne F. Velicer, dkk., "The Transtheoretical Model of Health Behavior Change", *American Journal of Health Promotion*, Vol. 12, No. 1 (1997), hlm. 38–48.
-[^4]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid IV, *Kitab at-Taubah* (Kairo: Dar al-Hadits, 2004), hlm. 3–55 mengenai rukun taubat: ilmu, hal (penyesalan batin), dan amal (meninggalkan dosa serta mengganti kerugian); Ibnu Qayyim al-Jauziyyah, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1996), Jilid I, hlm. 178–215 mengenai manzilah Al-Yaqzhah, Al-Inabah, dan At-Taubah.
-[^5]: Solomon E. Asch, "Opinions and Social Pressure", *Scientific American*, Vol. 193, No. 5 (1955), hlm. 31–35; Muzafer Sherif, *The Psychology of Social Norms* (New York: Harper & Row, 1936).
-[^6]: Everett M. Rogers, *Diffusion of Innovations*, Edisi ke-5 (New York: Free Press, 2003), hlm. 219–266 mengenai kurva adopsi inovasi; Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference* (Boston: Little, Brown and Company, 2000).
-[^7]: Charles Duhigg, *The Power of Habit: Why We Do What We Do in Life and Business* (New York: Random House, 2012), hlm. 15–48; James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones* (New York: Avery, 2018), hlm. 45–72 mengenai model sirkuit kebiasaan (*habit loop*).
-[^8]: Syamsuddin Muhammad bin Abi Bakr Ibn Qayyim al-Jauziyyah, *Al-Fawa'id*, diedit oleh Salim bin 'Ied al-Hilali (Riyadh: Dar Ibn al-Jauzi, 2008), hlm. 43–44 mengenai proses terbentuknya karakter dari lintasan pikiran (*khatharah*).
-[^9]: Richard H. Thaler & Cass R. Sunstein, *Nudge: Improving Decisions About Health, Wealth, and Happiness* (New Haven: Yale University Press, 2008), hlm. 1–35 mengenai konsep *choice architecture*.
+[^4]: Solomon E. Asch, "Opinions and Social Pressure", *Scientific American*, Vol. 193, No. 5 (1955), hlm. 31–35; Muzafer Sherif, *The Psychology of Social Norms* (New York: Harper & Row, 1936).
+[^5]: Syamsuddin Muhammad bin Abi Bakr Ibn Qayyim al-Jauziyyah, *Al-Fawa'id*, diedit oleh Salim bin 'Ied al-Hilali (Riyadh: Dar Ibn al-Jauzi, 2008), hlm. 43–44 mengenai proses terbentuknya karakter dari lintasan pikiran (*khatharah*).
+[^6]: Richard H. Thaler & Cass R. Sunstein, *Nudge: Improving Decisions About Health, Wealth, and Happiness* (New Haven: Yale University Press, 2008), hlm. 1–35 mengenai konsep *choice architecture*.
+[^7]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid IV, *Kitab at-Taubah* (Kairo: Dar al-Hadits, 2004), hlm. 3–55 mengenai rukun taubat: ilmu, hal (penyesalan batin), dan amal (meninggalkan dosa serta mengganti kerugian); Ibnu Qayyim al-Jauziyyah, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1996), Jilid I, hlm. 178–215 mengenai manzilah Al-Yaqzhah, Al-Inabah, dan At-Taubah.
+[^8]: Everett M. Rogers, *Diffusion of Innovations*, Edisi ke-5 (New York: Free Press, 2003), hlm. 219–266 mengenai kurva adopsi inovasi; Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference* (Boston: Little, Brown and Company, 2000).
+[^9]: Charles Duhigg, *The Power of Habit: Why We Do What We Do in Life and Business* (New York: Random House, 2012), hlm. 15–48; James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones* (New York: Avery, 2018), hlm. 45–72 mengenai model sirkuit kebiasaan (*habit loop*).

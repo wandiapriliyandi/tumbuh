@@ -14,7 +14,8 @@ Di banyak pondok pesantren, ketika terjadi insiden perundungan fisik antar-santr
 
 Mengapa nasihat agama yang luhur kerap kali tumpul di hadapan realitas asrama?
 
-Jawabannya diungkapkan oleh para pakar sosiologi tata ruang dan kriminologi lingkungan melalui teori **Pencegahan Kejahatan Melalui Desain Lingkungan (*Crime Prevention Through Environmental Design / CPTED*)**[^2]:
+Jawabannya diungkapkan oleh para pakar sosiologi tata ruang dan kriminologi lingkungan melalui teori **Pencegahan Kejahatan Melalui Desain Lingkungan (*Crime Prevention Through Environmental Design / CPTED*)**[^2a]: Al-Bukhari, *Shahih al-Bukhari*, hadits no. 2465; Muslim, *Shahih Muslim*, hadits no. 2121.
+[^2]:
 
 > **“Perilaku manusia tidak semata-mata dibentuk oleh doktrin moral di kepalanya, melainkan sangat ditentukan oleh bagaimana lingkungan fisik di sekitarnya dirancang dan ditata.”**
 
@@ -115,7 +116,7 @@ Perhatikan tiga keunggulan revolusioner dalam jadwal irama TUMBUH di atas:
 1. **Jaminan Waktu Tidur Malam 7 Jam Penuh (21.30 hingga 04.30)**:  
    Lampu kamar asrama wajib dipadamkan tepat pada pukul 21.30 malam. Seluruh aktivitas muthala'ah dan tugas kamar dihentikan. Santri mendapatkan hak biologis tidurnya secara utuh, memungkinkan sistem glimfatik membersihkan racun otak dan memastikan hafalan Al-Qur'an terkonsolidasi dengan kokoh di neokorteksnya.
 2. **Menghidupkan Sunnah Qailulah (Tidur Siang Singkat 20 Menit)**:  
-   Rasulullah ﷺ bersabda: *"Tidurlah qailulah (di siang hari), karena sesungguhnya setan itu tidak pernah tidur qailulah"* (HR. At-Thabarani)[^4]. Tidur siang singkat selama 15–20 menit bakda zuhur terbukti secara ilmiah meremajakan neurotransmiter dopamin dan asetilkolin di otak santri, memulihkan fokus konsentrasi hingga 100% untuk sesi madrasah sore.
+   Rasulullah ﷺ bersabda: *"Tidurlah qailulah (di siang hari), karena sesungguhnya setan itu tidak pernah tidur qailulah"* (HR. At-Thabarani)[^2]. Tidur siang singkat selama 15–20 menit bakda zuhur terbukti secara ilmiah meremajakan neurotransmiter dopamin dan asetilkolin di otak santri, memulihkan fokus konsentrasi hingga 100% untuk sesi madrasah sore.
 3. **Penyediaan Ruang Riadah Fisik Sore Hari (15.45 hingga 17.30)**:  
    Santri usia remaja memiliki akumulasi energi motorik yang sangat besar. Jika energi fisik ini tidak disalurkan secara sehat melalui olahraga sepak bola, memanah, beladiri, atau lari sore, maka energi tersebut akan meledak di malam hari dalam bentuk perkelahian dan kegaduhan kamar mandi. Olahraga sore adalah instrumen katarsis biologis yang menyehatkan jiwa santri.
 
@@ -202,14 +203,19 @@ Ketika arsitektur tata ruang fisik, irama sirkadian biologis, sinergi triad peng
 Di dalam rahim peradaban inilah, santri melangkah menapaki tangga kedewasaannya: dari seorang santri pemula yang membutuhkan bimbingan intensif, bertransformasi langkah demi langkah menuju seorang kader teladan penggerak peradaban.
 
 Bagaimanakah tahapan progresi kemandirian santri dari Jenjang J1 hingga Jenjang J4 dirancang secara taksonomis?  
-Inilah penjelajahan agung yang akan kita masuki bersama dalam **BAGIAN VI: PROGRESI JENJANG KEMANDIRIAN SANTRI (J1–J4)**.
+Inilah tahapan ikhtiar yang akan kita pelajari bersama dalam **BAGIAN VI: PROGRESI JENJANG KEMANDIRIAN SANTRI (J1–J4)**.
+
+Tata ruang dan ekosistem 24 jam telah kita siapkan sebagai tanah yang subur. Kini saatnya kita menatap benih itu sendiri: sang santri. Bagaimana tahapan pertumbuhan jiwa santri bergerak dari hari pertama ia melangkah ke asrama hingga kelak ia lulus sebagai pemimpin peradaban? Mengapa progresi karakter tidak boleh disamakan dengan kenaikan kelas administratif?
+
+Di Bab 12, kita memasuki gerbang Bagian VI untuk membedah Paradigma Progresi Karakter: Pendakian Jiwa Menuju Derajat Rusyd.
 
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Jum'ah, Bab al-Jum'ah fi al-Qura wa al-Mudun, hadits no. 893; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Imarah, Bab Fadhilat al-Imam al-'Adil, hadits no. 1829.
-[^2]: C. Ray Jeffery, *Crime Prevention Through Environmental Design* (Beverly Hills: Sage Publications, 1971); Oscar Newman, *Defensible Space: Crime Prevention Through Urban Design* (New York: Macmillan, 1972), hlm. 1–48.
-[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/02_CONNECTED_CONTEXTS.md` dan `03_INSTITUTIONAL_ECOLOGY.md`.
-[^4]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Ausath* (Kairo: Dar al-Haramain, 1995), Jilid I, hlm. 13, hadits no. 28; dishahihkan oleh Syaikh Al-Albani dalam *Silsilah al-Ahadits ash-Shahihah*, no. 1647.
-[^5]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/01_TRIAD_GROWTH.md` dan `04_RELATIONAL_DYNAMICS.md`.
+[^2]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Ausath* (Kairo: Dar al-Haramain, 1995), Jilid I, hlm. 13, hadits no. 28; dishahihkan oleh Syaikh Al-Albani dalam *Silsilah al-Ahadits ash-Shahihah*, no. 1647.
+[^3]: Al-Bukhari, *Shahih al-Bukhari*, hadits no. 2465; Muslim, *Shahih Muslim*, hadits no. 2121.
+[^4]: C. Ray Jeffery, *Crime Prevention Through Environmental Design* (Beverly Hills: Sage Publications, 1971); Oscar Newman, *Defensible Space: Crime Prevention Through Urban Design* (New York: Macmillan, 1972), hlm. 1–48.
+[^5]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/02_CONNECTED_CONTEXTS.md` dan `03_INSTITUTIONAL_ECOLOGY.md`.
+[^6]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/01_TRIAD_GROWTH.md` dan `04_RELATIONAL_DYNAMICS.md`.

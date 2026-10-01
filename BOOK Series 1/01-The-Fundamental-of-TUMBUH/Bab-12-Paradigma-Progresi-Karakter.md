@@ -8,6 +8,10 @@
 
 ---
 
+Sahabat Abdullah bin Abbas رضي الله عنهما dalam riwayat *Shahih al-Bukhari* menafsirkan firman Allah *latarkabunna thabaqan 'an thabaq*: *"Halan ba'da hal"*—yakni kalian benar-benar akan menapaki keadaan demi keadaan dan fase demi fase dalam perjalanan hidup dan pematangan jiwa.[^1] 
+
+Imam Abu Ja'far Ath-Thabari dan Al-Hafizh Ibnu Katsir menjelaskan bahwa sunnatullah penciptaan manusia senantiasa bergerak melalui tahapan-tahapan bertingkat: dari lemah menuju kuat, dari kebodohan menuju ilmu, dan dari ketergantungan menuju kemandirian akal budi.[^2] Pertumbuhan karakter santri di pesantren adalah manifestasi nyata dari hukum *thabaqan 'an thabaq* ini.
+
 ### Prolog: Langkah-Langkah Pertama di Bawah Gerbang Kayu
 
 Pagi itu, di bawah gerbang kayu jati bertuliskan kaligrafi kufi di mulut pesantren, dua dunia yang sangat berbeda melintas berdampingan. Di sisi kiri gerbang, seorang anak lelaki berusia sebelas tahun melangkah dengan langkah terseret. Tas punggungnya tampak terlalu besar bagi bahunya yang ringkih. Matanya sembab kemerahan; jemari kecilnya mencengkeram ujung gamis ibunya erat-erat, seolah jika ia melepaskan genggaman itu walau sedetik saja, dunianya akan runtuh berkeping-keping. Anak itu baru saja menempuh perjalanan tujuh jam dari sebuah kota di pesisir, dan hari ini untuk pertama kalinya dalam hidupnya, ia harus tidur di atas dipan susun bersama orang-orang asing tanpa pelukan dan ciuman kening sang ibu sebelum memejamkan mata.
@@ -20,7 +24,7 @@ Yang satu adalah kuncup fitrah yang baru saja tercabut dari pot kenyamanan rumah
 
 Bagaimanakah seekor ulat yang rapuh bertransformasi menjadi kupu-kupu yang anggun melintasi taman bunga? Bagaimanakah anak kecil yang sembab menangis itu dapat bermutasi menjadi ksatria penggerak kebaikan di asrama?
 
-Bab ini membedah arsitektur agung di balik keajaiban transformasi tersebut. Bab ini membongkar kepalsuan tradisi penyeragaman kaku yang merusak jiwa santri, merumuskan Penyelarasan Tiga Lensa Arsitektur TUMBUH (10 Tingkat Adab, 5 Tingkat Kapasitas, dan 4 Jenjang J1–J4), memetakan Delapan Kapasitas Inti Fitrah (*The 8 Core Capacities*), serta menyajikan seni pedagogis pelepasan bantuan bertahap (*fading scaffolding*) yang mengantarkan santri dari ketergantungan menuju kemerdekaan jiwa sejati.
+Bab ini membedah ikhtiar dan kaidah di balik proses transformasi tersebut. Bab ini membongkar kepalsuan tradisi penyeragaman kaku yang merusak jiwa santri, merumuskan Penyelarasan Tiga Lensa Arsitektur TUMBUH (10 Tingkat Adab, 5 Tingkat Kapasitas, dan 4 Jenjang J1–J4), memetakan Delapan Kapasitas Inti Fitrah (*The 8 Core Capacities*), serta menyajikan seni pedagogis pelepasan bantuan bertahap (*fading scaffolding*) yang mengantarkan santri dari ketergantungan menuju kemerdekaan jiwa sejati.
 
 ---
 
@@ -39,7 +43,7 @@ Keadilan dalam epistemologi Islam, sebagaimana ditegaskan oleh para fukaha ushul
 
 $$\text{وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ}$$
 
-> *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^2]
+> *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^3]
 
 Meletakkan beban ekspektasi kemandirian santri senior ke atas pundak anak kecil yang baru beradaptasi adalah kezaliman pedagogis yang memicu kepanikan saraf (*nervous system flooding*), merusak rasa aman, dan melahirkan trauma kronis. 
 
@@ -55,7 +59,7 @@ Salah satu keunggulan konseptual paling mendasar dari ekosistem TUMBUH v2.0.0 ad
 
 Sering kali para asatidz lapangan bertanya dengan nada bingung: *Mengapa di kurikulum disebutkan ada 10 tingkat penjenjangan adab? Mengapa di instrumen asesmen ada 5 tingkat kapasitas fungsional? Dan bagaimana hubungannya dengan 4 Jenjang Dukungan (J1–J4) di asrama? Bukankah penjenjangan yang banyak itu saling bertabrakan?*
 
-TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertentangan, melainkan bekerja sebagai Tiga Lensa Komplementer yang saling melengkapi (*The Three Architectural Lenses*)**[^3].
+TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertentangan, melainkan bekerja sebagai Tiga Lensa Komplementer yang saling melengkapi (*The Three Architectural Lenses*)**[^4].
 
 ```text
                                 SISTEM TUMBUH v2.0.0
@@ -164,7 +168,7 @@ Kapasitas jiwa untuk melihat ke dalam dirinya sendiri (*self-reflection*): menya
 
 ### 12.5 Zona Perkembangan Proksimal (ZPD) dalam Khazanah Tarbiyah Asrama
 
-Konsep perkembangan bertahap ini menemukan landasan psikologis modernnya dalam teori **Zona Perkembangan Proksimal (*Zone of Proximal Development / ZPD*)** yang dirumuskan oleh psikolog Lev Vygotsky[^4].
+Konsep perkembangan bertahap ini menemukan landasan psikologis modernnya dalam teori **Zona Perkembangan Proksimal (*Zone of Proximal Development / ZPD*)** yang dirumuskan oleh psikolog Lev Vygotsky[^5].
 
 Vygotsky membagi bentang belajar manusia ke dalam tiga zona:
 
@@ -223,7 +227,7 @@ Ketika layang-layang baru dinaikkan dari tanah di tengah hembusan angin kencang,
 
 Jika terjadi badai goncangan emosi (misalnya santri mengalami krisis kehilangan orang tua atau konflik berat), sang musyrif tidak segan untuk **menarik kembali benang tersebut sejenak (*re-scaffolding*)** agar layang-layang jiwa anak itu tidak terhempas, lalu mengulurnya kembali setelah badai mereda.
 
-Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan; melainkan mendampingi dengan perhitungan ilmu dan welas asih hingga jiwa anak mampu terbang mandiri di bawah langit keridhaan Ilahi.**
+Inilah hakikat tarbiyah yang sesungguhnya: **Bukan memanjakan, bukan pula menelantarkan; melainkan mendampingi dengan perhitungan ilmu dan welas asih hingga jiwa anak mampu terbang mandiri di bawah langit keridhaan Ilahi.**
 
 ---
 
@@ -238,11 +242,16 @@ Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan;
 4. **Prinsip Pelepasan Bantuan Bertahap (*Fading Scaffolding*):** Musyrif bertindak laksana penerbang layang-layang: memegang erat di fase awal, mengulur benang saat kapasitas menguat, dan siap menarik kembali secara bermartabat (*re-scaffolding*) jika terjadi badai emosional.
 5. **Kunci Sukses Transisi:** Menjamin santri menapaki setiap jenjang bukan atas dasar umur kalender semata, melainkan atas dasar pembuktian stabilitas kapasitas adab yang teruji secara autentik.
 
+Kita telah menelaah arah dan tahapan ikhtiar pendakian jiwa ini. Namun, bagaimana fase-fase awal pendakian itu berlangsung saat rintik air mata pertama tumpah di ranjang asrama? Bagaimana mendampingi seorang anak kecil yang rapuh melewati badai homesickness dan pubertas awal tanpa mematahkan harga dirinya?
+
+Di Bab 13, kita membedah secara mendalam Jenjang J1 dan J2: Dari Keterasingan Menuju Keteraturan Berkesadaran.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
-[^1]: Al-Qur'an al-Karim, Surah Al-Insyiqaq [84]: 19.
-[^2]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-Maqashid fi 'Ilm al-Kalam* (Beirut: 'Alam al-Kutub, 1998), Jilid IV, hlm. 285–292; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145 mengenai definisi keadilan dan adab.
-[^3]: Dokumen Kanonikal Arsitektur TUMBUH v2.0.0, *Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)*, berkas induk: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md`.
-[^4]: Lev S. Vygotsky, *Mind in Society: The Development of Higher Psychological Processes*, diedit oleh Michael Cole dkk. (Cambridge: Harvard University Press, 1978), hlm. 79–91 mengenai konsep *Zone of Proximal Development (ZPD)* dan *scaffolding*.
+[^1]: Al-Qur'an al-Karim, Surah Al-Insyiqaq [84]: 19; Al-Bukhari, *Shahih al-Bukhari*, Kitab at-Tafsir, hadits no. 4940.
+[^2]: Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 336–340; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 358–360.
+[^3]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-Maqashid fi 'Ilm al-Kalam* (Beirut: 'Alam al-Kutub, 1998), Jilid IV, hlm. 285–292; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145 mengenai definisi keadilan dan adab.
+[^4]: Dokumen Kanonikal Arsitektur TUMBUH v2.0.0, *Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)*, berkas induk: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md`.
+[^5]: Lev S. Vygotsky, *Mind in Society: The Development of Higher Psychological Processes*, diedit oleh Michael Cole dkk. (Cambridge: Harvard University Press, 1978), hlm. 79–91 mengenai konsep *Zone of Proximal Development (ZPD)* dan *scaffolding*.

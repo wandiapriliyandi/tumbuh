@@ -1,6 +1,8 @@
 # BAB 14: BEDAH JENJANG J3 & J4: OTONOMI KARAKTER DAN KEPEMIMPINAN QUDWAH
 
-> *"Dan bagi tiap-tiap umat ada kiblatnya sendiri yang ia menghadap kepadanya; maka berlomba-lombalah kamu dalam kebaikan."*  
+> وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+>
+> *"Dan bagi tiap-tiap umat ada kiblatnya sendiri yang ia menghadap kepadanya; maka berlomba-lombalah kamu dalam berbagai kebajikan. Di mana saja kamu berada niscaya Allah akan mengumpulkan kamu sekalian. Sesungguhnya Allah Maha Kuasa atas segala sesuatu."*  
 > — **QS. Al-Baqarah [2]: 148**[^1]
 
 > سَيِّدُ الْقَوْمِ خَادِمُهُمْ  
@@ -10,6 +12,8 @@
 ---
 
 ### Pendahuluan
+
+Ayat ke-148 dari Surah Al-Baqarah di atas memancangkan etos tertinggi dalam pendidikan kemandirian Islam. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa perintah *fastabiqul khairat* menyeru kaum beriman untuk bersegera melakukan amal kebajikan yang paling utama dan saling berlomba-lomba dalam kemaslahatan (*al-musara'ah ila ath-tha'at*). Pada Jenjang J3 dan J4, orientasi santri tidak lagi sekadar pasif menaati aturan agar tidak dihukum musyrif; orientasi mereka telah melompat menuju panggilan batin untuk mempersembahkan karya, khidmah, dan keteladanan terbaik bagi peradaban umat.[^1]
 
 Jika perjalanan santri pada Jenjang J1 dan J2 adalah etape peletakan batu fondasi—proses adaptasi dari kenyamanan rumah menuju disiplin asrama, penjinakan impuls kebiasaan lama, serta pembangunan responsivitas melalui pendampingan intensif musyrif—maka Jenjang J3 (*Independent Functioning / Mandiri Berkesadaran*) dan Jenjang J4 (*Autonomous Stewardship / Teladan Penggerak*) adalah fase metamorfosis sejati karakter santri. Pada kedua jenjang ini, pusat gravitasi perilaku bergeser secara radikal: dari ketergantungan pada kendali luar (*external scaffolding*) menuju bekerjanya kompas moral batiniah (*internal locus of control* dan *muraqabatullah*).
 
@@ -111,7 +115,7 @@ Oleh karena itu, santri Jenjang J4 dibekali protokol penjagaan hati (*tazkiyatun
 
 ### 14.3 Penegasan Batas Arsitektural: Puncak J4 dan Garis Demarkasi Pasca-Santri
 
-Salah satu penegasan arsitektural terpenting dalam TUMBUH v2.0.0 adalah menjaga batas yang terang benderang antara **Siklus Santri Aktif (J1–J4)** dan **Siklus Pasca-Santri / Pendidik / Kelembagaan (Tahap 8, 9, 10)**[^7]. Ketiadaan batas ini dalam model-model lama sering memicu kerancuan tata kelola: santri tingkat akhir dituntut memikul beban operasional selevel staf pengasuhan penuh, atau sebaliknya, staf pengabdian lulusan pesantren diperlakukan layaknya santri asrama yang belum dewasa.
+Salah satu penegasan arsitektural terpenting dalam TUMBUH v2.0.0 adalah menjaga batas yang terang benderang antara **Siklus Santri Aktif (J1–J4)** dan **Siklus Pasca-Santri / Pendidik / Kelembagaan (Tahap 8, 9, 10)**[^6]. Ketiadaan batas ini dalam model-model lama sering memicu kerancuan tata kelola: santri tingkat akhir dituntut memikul beban operasional selevel staf pengasuhan penuh, atau sebaliknya, staf pengabdian lulusan pesantren diperlakukan layaknya santri asrama yang belum dewasa.
 
 Dokumen ini mengunci pemisahan tersebut dengan prinsip-prinsip mutlak berikut:
 
@@ -196,6 +200,12 @@ Dalam waktu dua pekan, Kamar Ibnu Rusyd bermutasi menjadi kamar paling tertib da
 
 ---
 
+Tahap kemandirian pada Jenjang J3 dan J4 menuntut kesungguhan ikhtiar yang besar. Namun, bagaimana sebuah lembaga memastikan bahwa kenaikan dari J1 ke J2, J2 ke J3, dan J3 ke J4 tidak jatuh menjadi formalitas birokrasi otomatis atau sekadar pergantian tahun kalender? Standar verifikasi apa yang menjamin kematangan jiwa santri sebelum ia diberi amanah memimpin adik-adiknya? 
+
+Di Bab 15, kita akan membedah Mekanisme Transisi, Portofolio Santri, dan Upacara Kenaikan Jenjang.
+
+---
+
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 148.
@@ -203,5 +213,5 @@ Dalam waktu dua pekan, Kamar Ibnu Rusyd bermutasi menjadi kamar paling tertib da
 [^3]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 179–215 mengenai internalisasi regulasi moral (dari eksternal menuju *integrated regulation*).
 [^4]: Abdurrahman Ibnu Khaldun, *Al-Muqaddimah*, Tahqiq: Dr. Abdullah Muhammad ad-Darwisy (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan *malakah* (watak membatin) melalui pembiasaan berulang.
 [^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid IV, *Kitab Al-Muraqabah wa al-Muhasabah*, hlm. 385–412 mengenai adab saat sendiri (*al-khalwah*) dan kehadiran batin di hadapan Allah.
-[^6]: Robert K. Greenleaf, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (Mahwah: Paulist Press, 1977), hlm. 1–49; Larry C. Spears (Ed.), *Reflections on Servant-Leadership* (New York: John Wiley & Sons, 1995).
-[^7]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md` dan `03-Stage-Demarcation-and-Scope.md`.
+[^6]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md` dan `03-Stage-Demarcation-and-Scope.md`.
+[^7]: Robert K. Greenleaf, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (Mahwah: Paulist Press, 1977), hlm. 1–49; Larry C. Spears (Ed.), *Reflections on Servant-Leadership* (New York: John Wiley & Sons, 1995).

@@ -1,6 +1,8 @@
 # BAB 19: DISIPLIN POSITIF DAN KEADILAN RESTORATIF (RESTORATIVE JUSTICE & ISHLAH AL-BAIN)
 
-> *"Dan balasan suatu kejahatan adalah kejahatan yang serupa, maka barang siapa memaafkan dan berbuat baik maka pahalanya atas (tanggungan) Allah. Sesungguhnya Dia tidak menyukai orang-orang yang zalim."*  
+> وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ ۚ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ
+>
+> *"Dan balasan suatu kejahatan adalah kejahatan yang serupa, maka barang siapa memaafkan dan berbuat ishlah (memperbaiki hubungan) maka pahalanya atas (tanggungan) Allah. Sesungguhnya Dia tidak menyukai orang-orang yang zalim."*  
 > — **QS. Asy-Syura [42]: 40**[^1]
 
 > إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ  
@@ -10,6 +12,8 @@
 ---
 
 ### Pendahuluan
+
+Dua ayat suci di atas meletakkan batu penjuru bagi keadilan Islam. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan bahwa Surah Asy-Syura ayat 40 menetapkan tiga derajat perlakuan terhadap kesalahan: *pertama*, derajat keadilan murni (*al-'adl*) yaitu membalas setimpal tanpa melampaui batas; *kedua*, derajat keutamaan dan ihsan (*al-fadhl*) yaitu memaafkan dan melakukan perbaikan persaudaraan (*fa man 'afa wa ashlaha*), yang pahalanya dijamin langsung oleh Allah; dan *ketiga*, derajat kezaliman (*azh-zhulm*) yang diharamkan Allah yaitu membalas melampaui batas. Paradigma Keadilan Restoratif TUMBUH berdiri kokoh di atas maqam ihsan dan *ishlah al-bain* ini.[^1]
 
 Ketika seorang santri melakukan kesalahan atau pelanggaran di lingkungan pesantren, pertanyaan apa yang pertama kali diajukan oleh pembina asrama? Dalam sistem pengasuhan tradisional yang terjebak dalam paradigma **Keadilan Retributif (Retributive Justice)**, pertanyaan yang diajukan selalu berkutat pada tiga hal yang memvonis:
 1. *Aturan mana yang telah dilanggar?*
@@ -58,7 +62,7 @@ Dalam sistem TUMBUH, proses pemulihan pelanggaran dioperasionalkan ke dalam tiga
 ```
 
 #### 1. Restitusi (Restitution): Memperbaiki Kerusakan Secara Nyata
-Restitusi bukanlah hukuman sewenang-wenang (seperti disuruh lari keliling lapangan atau menyikat WC umum yang tidak ada hubungannya dengan pelanggaran). Restitusi adalah **konsekuensi logis yang relevan secara langsung (*logically related*) dengan dampak pelanggaran**:[^5]
+Restitusi bukanlah hukuman sewenang-wenang (seperti disuruh lari keliling lapangan atau menyikat WC umum yang tidak ada hubungannya dengan pelanggaran). Restitusi adalah **konsekuensi logis yang relevan secara langsung (*logically related*) dengan dampak pelanggaran**:[^4]
 - Jika seorang santri merusak lemari kawan saat bertengkar, tindakan restitusi adalah memperbaikinya sendiri dengan bantuan tukang kayu pondok atau menyisihkan uang jajan pribadinya untuk membeli engsel pengganti.
 - Jika seorang santri menyebarkan kabar bohong (*fitnah*) tentang adik kelas, tindakan restitusi adalah mengklarifikasi kebenaran secara jujur di hadapan orang-orang yang telah mendengar kabar bohong tersebut dan memulihkan nama baik adik kelas.
 - Restitusi mengajarkan akuntabilitas nyata: perbuatan salah membawa konsekuensi perbaikan yang harus dituntaskan secara bertanggung jawab.
@@ -69,7 +73,7 @@ Banyak sanksi tradisional gagal karena konflik disapu di bawah karpet setelah hu
 - Musyrif membimbing kedua pihak menyusun **Pakta Perdamaian Kamar**: batasan-batasan apa yang disepakati bersama ke depan, bagaimana cara berkomunikasi jika terjadi perselisihan serupa, dan siapa yang akan mereka hubungi jika merasa emosi mulai memuncak kembali.
 
 #### 3. Rekonsiliasi (Reconciliation): Pemulihan Hati dan Hubungan
-Rekonsiliasi adalah puncak pemulihan batin. Meminta maaf bukan sekadar formalitas ucapan bibir di bawah todongan amarah musyrif (*"Ayo cepat salaman dan bilang maaf!"*). Rekonsiliasi yang bermakna membutuhkan waktu perenungan hingga kalbu pelaku benar-benar merasakan kepedihan yang dialami korban (*empathy activation*), dan korban merasa aman serta divalidasi rasa sakitnya sebelum ia dengan lapang dada memberikan maaf.[^4]
+Rekonsiliasi adalah puncak pemulihan batin. Meminta maaf bukan sekadar formalitas ucapan bibir di bawah todongan amarah musyrif (*"Ayo cepat salaman dan bilang maaf!"*). Rekonsiliasi yang bermakna membutuhkan waktu perenungan hingga kalbu pelaku benar-benar merasakan kepedihan yang dialami korban (*empathy activation*), dan korban merasa aman serta divalidasi rasa sakitnya sebelum ia dengan lapang dada memberikan maaf.[^5]
 
 ---
 
@@ -246,10 +250,16 @@ Agar tidak ada keraguan bagi musyrif dalam membedakan konsekuensi logis restorat
 
 ---
 
+Keadilan restoratif telah memulihkan relasi ukhuwah dan menyembuhkan luka pelanggaran di kamar santri. Namun, benteng keselamatan pesantren belum tuntas jika kita belum memiliki protokol mitigasi terhadap ancaman krisis terberat: kekerasan ekstrem, pelecehan, intimidasi terstruktur, dan bencana yang mengancam eksistensi lembaga. 
+
+Di Bab 20, kita melangkah ke bab penutup: Safeguarding, Manajemen Krisis, dan Tata Kelola Kelembagaan.
+
+---
+
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Asy-Syura [42]: 40.
 [^2]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 10.
 [^3]: Howard Zehr, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002), hlm. 12–38; John Braithwaite, *Crime, Shame and Reintegration* (Cambridge: Cambridge University Press, 1989), hlm. 54–83 mengenai perbedaan mendasar antara *stigmatizing shaming* (yang melahirkan residivisme) dan *reintegrative shaming* (yang memulihkan ikatan sosial).
-[^4]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah* (Kairo: Dar al-Hadits, 2004), hlm. 165–182 mengenai hak-hak ukhuwah dan tata cara mendamaikan perselisihan antarsaudara.
-[^5]: Jane Nelsen, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 68–95 mengenai perbedaan hukuman (*punishment*) dan konsekuensi logis (*logical consequences*).
+[^4]: Jane Nelsen, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 68–95 mengenai perbedaan hukuman (*punishment*) dan konsekuensi logis (*logical consequences*).
+[^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah* (Kairo: Dar al-Hadits, 2004), hlm. 165–182 mengenai hak-hak ukhuwah dan tata cara mendamaikan perselisihan antarsaudara.

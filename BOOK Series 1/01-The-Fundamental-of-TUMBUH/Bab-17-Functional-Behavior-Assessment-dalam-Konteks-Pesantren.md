@@ -152,7 +152,7 @@ Langkah pertama penanganan bukanlah menghukum, melainkan **memodifikasi antesede
 
 ### 17.4 Mengajarkan Perilaku Pengganti yang Setara secara Fungsional (Replacement Behavior)
 
-Prinsip agung tarbiyah Islam menegaskan bahwa hawa nafsu tidak bisa dibunuh, melainkan harus disalurkan ke jalan yang diridhai Allah (*tasyrif al-hawa fi marbawat asy-syar'i*). Demikian pula dalam sains perilaku: **Sebuah perilaku menyimpang tidak akan pernah padam sampai santri diajarkan perilaku pengganti (*functional replacement behavior*) yang mampu memenuhi fungsi kebutuhan yang sama dengan cara yang beradab dan bermartabat.**
+Prinsip dasar tarbiyah Islam menegaskan bahwa hawa nafsu tidak bisa dibunuh, melainkan harus disalurkan ke jalan yang diridhai Allah (*tasyrif al-hawa fi marbawat asy-syar'i*). Demikian pula dalam sains perilaku: **Sebuah perilaku menyimpang tidak akan pernah padam sampai santri diajarkan perilaku pengganti (*functional replacement behavior*) yang mampu memenuhi fungsi kebutuhan yang sama dengan cara yang beradab dan bermartabat.**
 
 ```text
        MATRIKS PERILAKU PENGGANTI BERBASIS FBA TUMBUH
@@ -230,6 +230,12 @@ Untuk melihat bagaimana FBA membongkar fenomena lapangan secara presisi, perhati
 3. **Analisis Rantai Kausalitas A-B-C:** Mengurai peristiwa Anteseden (pemicu awal), Perilaku (tindakan teramati faktual), dan Konsekuensi (reaksi lingkungan) guna mendeteksi faktor penguat yang tak disengaja (*inadvertent reinforcement*).
 4. **Rekayasa Anteseden Lingkungan:** Memodifikasi lingkungan fisik dan beban tugas sebelum masalah meledak; memecah beban tugas (*chunking*), memberikan rasa aman, dan peringatan transisi (*pre-correction*).
 5. **Pengajaran Perilaku Pengganti yang Beradab:** Mengganti perilaku melanggar dengan keterampilan sosial baru yang setara secara fungsional (*functional replacement behavior*), menyalurkan energi jiwa santri ke jalan kemuliaan adab kenabian.
+
+---
+
+Setelah kita mampu membedah fungsi dan pemicu di balik setiap perilaku, sebuah pertanyaan arsitektural berskala makro menantang kita: *Bagaimana pesantren mengelola ratusan santri dengan kebutuhan yang sangat beragam tanpa membiarkan satu jiwa pun terabaikan? Bagaimana membangun sistem intervensi bertingkat yang menjamin pencegahan universal sekaligus memberikan pendampingan khusus bagi santri yang terluka?* 
+
+Di Bab 18, kita akan membedah Arsitektur Intervensi Bertingkat: SW-PBIS Multi-Tier di Pesantren.
 
 ---
 

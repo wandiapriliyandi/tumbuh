@@ -8,6 +8,10 @@
 
 ---
 
+Imam Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat ini memerintahkan orang-orang beriman untuk melakukan *at-tatsabbut* (verifikasi cermat) terhadap berita yang dibawa oleh seseorang, agar tidak menjatuhkan hukuman atau keputusan yang menzalimi suatu kaum karena ketidaktahuan (*bi jahalah*), yang akhirnya membuahkan penyesalan abadi.[^1] 
+
+Imam Al-Qurthubi dalam *Al-Jami' li Ahkam al-Qur'an* menambahkan bahwa ayat ini adalah dalil ushul paling agung mengenai haramnya berpegang pada persangkaan tanpa verifikasi (*tark al-amal bi azh-zhann al-mujarrad*) dalam urusan kehormatan manusia dan penetapan sanksi.[^2]
+
 ### 3.1 Tragedi Fitnah di Ruang Asrama: Mengapa Epistemologi Menentukan Nasib Santri?
 
 Di sebuah asrama santri putra, jarum jam dinding menunjukkan pukul 21.45. Suasana yang semestinya tenang menjelang jam istirahat malam seketika pecah oleh kegaduhan di Kamar 3. Seorang santri kelas delapan menangis histeris mendapati uang saku bulanannya yang disimpan di dalam saku baju koko di lemari telah raib. Dalam hitungan menit, desas-desus merebak cepat ke seluruh lorong kamar. Beberapa santri senior berbisik bahwa mereka tadi sore melihat Santri R berjalan tergesa-gesa di dekat lemari korban. 
@@ -27,7 +31,9 @@ Ketika seorang pengasuh mengambil keputusan hanya berdasarkan "kabar burung", "f
 $$\text{إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ}$$
 
 > *"Mereka tidak lain hanyalah mengikuti persangkaan belaka (zhann) dan apa yang diingini oleh hawa nafsu mereka, padahal sungguh telah datang petunjuk dari Rabb mereka."*  
-> (QS. An-Najm [53]: 23)[^2]
+> (QS. An-Najm [53]: 23)[^3]
+
+Syaikh Abdurrahman bin Nashir As-Sa'di dalam *Taisir al-Karim ar-Rahman* menjelaskan bahwa ayat ini menelanjangi dua penyakit perusak kebenaran: pertama, mengikuti dugaan semu (*azh-zhann*) yang kosong dari bukti faktual; dan kedua, memperturutkan hawa nafsu (*hawa an-nafs*) yang condong pada kemarahan dan selera pribadi.[^4] Ketika dua penyakit ini menyusup ke dalam ruang pengasuhan, seorang pembina dapat dengan mudah meremukkan masa depan santri semata-mata atas nama firasat palsu.
 
 Dalam ekosistem **TUMBUH**, keadilan berpikir (*epistemic justice*) dan kejujuran metodologis diletakkan sebagai pilar adab yang agung. Tidak boleh ada satu pun vonis disiplin, tidak boleh ada satu pun pelabelan karakter santri, dan tidak boleh ada satu pun program kurikulum baru yang diluncurkan tanpa melewati pertanggungjawaban epistemik yang shahih.
 
@@ -37,7 +43,7 @@ Dalam ekosistem **TUMBUH**, keadilan berpikir (*epistemic justice*) dan kejujura
 
 Peradaban Barat modern terperangkap ke dalam dikotomi epistemik yang tajam: antara **Rasionalisme** yang mendewakan akal murni dan menolak realitas spiritual, serta **Empirisme/Positivisme** yang menolak segala bentuk kebenaran kecuali yang dapat ditimbang dan diukur di laboratorium materi. Di sisi lain, sebagian masyarakat tradisional terjatuh ke dalam **Mistisisme Irasional**: mempercayai mimpi, firasat liar, dan takhayul tanpa pernah mengujinya dengan akal sehat dan dalil syariat.
 
-Epistemologi Islam yang diwariskan oleh para ulama mu'tabar—seperti Imam Abu Hamid Al-Ghazali, Imam Fakhruddin Ar-Razi, dan Prof. Syed Muhammad Naquib al-Attas—menolak seluruh bentuk kepincangan tersebut[^3]. 
+Epistemologi Islam yang diwariskan oleh para ulama mu'tabar—seperti Imam Abu Hamid Al-Ghazali, Imam Fakhruddin Ar-Razi, dan Prof. Syed Muhammad Naquib al-Attas—menolak seluruh bentuk kepincangan tersebut[^5]. 
 
 Islam memandang bahwa manusia dikaruniai **tiga saluran ilmu yang saling menyempurnakan (*The Integrated Channels of Knowledge*)**:
 
@@ -133,7 +139,7 @@ Mari kita bedah secara gamblang contoh konkret kelima jenis klaim ini di lingkun
 
 Salah satu ciri kemunduran peradaban ilmu adalah merebaknya **Dogmatisme Semu (False Absolutism)**—kebiasaan berbicara dengan nada serba mutlak, serba yakin seratus persen, padahal dasar pijakannya sangat rapuh. Di lingkungan pesantren, sering kita dengar kalimat gegabah semacam: *"Pasti anak ini yang mencuri!"*, *"Metode kami sudah terbukti seratus persen paling ampuh di seluruh dunia!"*, atau *"Santri yang tidak ikut metode ini pasti gagal!"*
 
-TUMBUH mengharamkan kesombongan intelektual semacam itu. Para ulama salaf yang paling alim sekalipun selalu mengakhiri fatwanya dengan kalimat penuh tawadhu': *Allahu A'lam bish-Shawab* (Allah yang lebih mengetahui kebenaran yang sesungguhnya). Bahkan Imam Malik bin Anas, sang imam Darul Hijrah, dari empat puluh delapan pertanyaan yang diajukan kepadanya, menjawab tiga puluh dua di antaranya dengan kalimat: *"La Adri"* (Aku belum tahu)[^5].
+TUMBUH mengharamkan kesombongan intelektual semacam itu. Para ulama salaf yang paling alim sekalipun selalu mengakhiri fatwanya dengan kalimat penuh tawadhu': *Allahu A'lam bish-Shawab* (Allah yang lebih mengetahui kebenaran yang sesungguhnya). Bahkan Imam Malik bin Anas, sang imam Darul Hijrah, dari empat puluh delapan pertanyaan yang diajukan kepadanya, menjawab tiga puluh dua di antaranya dengan kalimat: *"La Adri"* (Aku belum tahu)[^6].
 
 Ketika seorang murid bertanya: *"Tidakkah engkau malu menjawab 'tidak tahu' padahal orang-orang datang dari jauh menemuimu?"* Imam Malik menjawab dengan tegas: *"Katakan kepada orang-orang di kampungmu bahwa Malik tidak tahu!"*
 
@@ -161,11 +167,11 @@ Salah satu jebakan terbesar yang membelah dunia pendidikan Islam kontemporer ada
 
 TUMBUH berdiri di atas jalan tengah peradaban yang mulia (*wasathiyyah tamadduniyyah*): **Menghubungkan Hikmah Turats dengan Presisi Sains Modern**.
 
-Tradisi agung ini memiliki akar sejarah yang sangat mengagumkan. Dua raksasa pemikir Islam terbesar, **Hujjatul Islam Abu Hamid Al-Ghazali** (w. 505 H) dan **Qadhi Abu al-Walid Ibnu Rusyd** (w. 595 H), terlibat dalam dialektika keilmuan yang paling monumental dalam sejarah filsafat peradaban manusia:
+Tradisi keilmuan ini memiliki akar sejarah yang panjang dan berbobot. Dua raksasa pemikir Islam terbesar, **Hujjatul Islam Abu Hamid Al-Ghazali** (w. 505 H) dan **Qadhi Abu al-Walid Ibnu Rusyd** (w. 595 H), terlibat dalam dialektika keilmuan yang paling monumental dalam sejarah filsafat peradaban manusia:
 
 ```mermaid
 graph LR
-    subgraph SINTESIS_KEILMUAN_ISLAM["Dialektika Agung Turats & Akal"]
+    subgraph SINTESIS_KEILMUAN_ISLAM["Dialektika Turats & Akal Sehat"]
         G["IMAM AL-GHAZALI (Hujjatul Islam)<br/>• Menjaga Kemurnian Teologis & Batas Akal<br/>• Penekanan pada Tazkiyatun Nafs & Bashirah Kalbu<br/>• Kehati-hatian dari Jebakan Positivisme Ilusi"]
         R["IMAM IBNU RUSYD (Filsuf & Mujtahid)<br/>• Kewajiban Nalar Demonstratif (Burhan)<br/>• Penyelarasan Hikmah Filsafat dengan Syariat (Fashl al-Maqal)<br/>• Menolak Irasionalitas & Taklid Buta"]
     end
@@ -176,11 +182,11 @@ graph LR
     S --> M["Adab Bersumber dari Wahyu, Metode Dibimbing oleh Sains Presisi"]
 ```
 
-Dalam mahakaryanya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^6].
+Dalam kitabnya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^7].
 
-Satu abad kemudian, Imam Ibnu Rusyd hadir dengan karyanya *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal* dan *Tahafut at-Tahafut*. Beliau menegaskan bahwa penalaran rasional demonstratif (*al-burhan al-'aqli*) dan penelitian mendalam atas hukum alam (*sunnatullah*) bukanlah ancaman bagi syariat, melainkan sebuah **kewajiban keagamaan** yang diperintahkan langsung oleh Al-Qur'an (QS. Al-Hasyr [59]: 2: *"Fa'tabiruu yaa ulil abshaar"* — *Maka ambillah pelajaran, wahai orang-orang yang memiliki pandangan nalar!*)[^7]. Ibnu Rusyd membuktikan bahwa kebenaran wahyu yang shahih (*al-haqq*) tidak akan pernah bertentangan dengan kebenaran akal murni dan fakta alam yang terbukti (*al-haqq la yudhaddu al-haqq, bal yuwafiquhu wa yasyhadu lahu*).
+Satu abad kemudian, Imam Ibnu Rusyd hadir dengan karyanya *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal* dan *Tahafut at-Tahafut*. Beliau menegaskan bahwa penalaran rasional demonstratif (*al-burhan al-'aqli*) dan penelitian mendalam atas hukum alam (*sunnatullah*) bukanlah ancaman bagi syariat, melainkan sebuah **kewajiban keagamaan** yang diperintahkan langsung oleh Al-Qur'an (QS. Al-Hasyr [59]: 2: *"Fa'tabiruu yaa ulil abshaar"* — *Maka ambillah pelajaran, wahai orang-orang yang memiliki pandangan nalar!*)[^8]. Ibnu Rusyd membuktikan bahwa kebenaran wahyu yang shahih (*al-haqq*) tidak akan pernah bertentangan dengan kebenaran akal murni dan fakta alam yang terbukti (*al-haqq la yudhaddu al-haqq, bal yuwafiquhu wa yasyhadu lahu*).
 
-Dari dialektika agung kedua begawan ini, TUMBUH menarik kaidah operasional bagi pengasuhan pesantren:
+Dari perjumpaan pemikiran kedua ulama ini, TUMBUH menarik kaidah operasional bagi pengasuhan pesantren:
 1. **Mengambil Metode Terbaik Tanpa Kehilangan Arah Syariat**:  
    Kita tidak perlu ragu memanfaatkan instrumen psikologi modern—seperti *Functional Behavior Assessment* (FBA), *Polyvagal Theory*, atau *Positive Behavioral Interventions and Supports* (PBIS)—selama instrumen tersebut terbukti secara ilmiah membantu kita memahami mekanisme saraf santri dan tidak bertentangan dengan adab Islam. Sains perilaku modern adalah hikmah yang tercecer milik orang beriman; di mana pun ia menemukannya, ia berhak mengambilnya.
 2. **Menolak Reduksionisme Teknokratis Angka**:  
@@ -299,10 +305,12 @@ Inilah yang akan kita jelajahi secara mendalam dalam **Bab 4: Antropologi Jiwa S
 
 ### Catatan Kaki & Rujukan Akademik
 
-[^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 6.
-[^2]: Al-Qur'an al-Karim, Surah An-Najm [53]: 23.
-[^3]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Hamzah bin Zuhair Hafizh (Madinah: Syarikah al-Madinah al-Munawwarah, 1993), Jilid I, hlm. 35–48; Syed Muhammad Naquib al-Attas, *The Epistemology of Islam: A Definition and Framework* (Kuala Lumpur: ISTAC, 1990).
-[^4]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/02_EPISTEMOLOGY/05-Jenis-dan-Tingkat-Klaim.md` dan `08-Implikasi-Epistemology-bagi-TUMBUH.md`.
-[^5]: Abu Umar Yusuf bin Abdil Barr An-Namari Al-Qurthubi, *Jami' Bayan al-'Ilm wa Fadhlihi*, Tahqiq: Abul Asybal Az-Zuhairi (Riyadh: Dar Ibn al-Jauzi, 1994), Jilid II, hlm. 838–842, riwayat no. 1582.
-[^6]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Tahafut al-Falasifah*, diedit oleh Sulaiman Dunya (Kairo: Dar al-Ma'arif, 1972), hlm. 72–89; Abu Hamid Al-Ghazali, *Al-Munqidz min adh-Dhalal*, diedit oleh Dr. Abdul Halim Mahmud (Kairo: Dar al-Kutub al-Haditsah, 1968), hlm. 45–60.
-[^7]: Abu al-Walid Muhammad bin Ahmad bin Rusyd (Averroes), *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*, diedit oleh Dr. Muhammad 'Imarah (Kairo: Dar al-Ma'arif, 1983), hlm. 28–42; George F. Hourani, *Averroes on the Harmony of Religion and Philosophy* (London: Luzac & Co., 1961).
+[^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 6; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 370–372.
+[^2]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an*, Jilid XVI, hlm. 310–314.
+[^3]: Al-Qur'an al-Karim, Surah An-Najm [53]: 23.
+[^4]: Abdurrahman bin Nashir As-Sa'di, *Taisir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan* (Beirut: Mu'assasah ar-Risalah, 2000), hlm. 819.
+[^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Hamzah bin Zuhair Hafizh (Madinah: Syarikah al-Madinah al-Munawwarah, 1993), Jilid I, hlm. 35–48; Syed Muhammad Naquib al-Attas, *The Epistemology of Islam: A Definition and Framework* (Kuala Lumpur: ISTAC, 1990).
+[^6]: Abu Umar Yusuf bin Abdil Barr An-Namari Al-Qurthubi, *Jami' Bayan al-'Ilm wa Fadhlihi*, Tahqiq: Abul Asybal Az-Zuhairi (Riyadh: Dar Ibn al-Jauzi, 1994), Jilid II, hlm. 838–842, riwayat no. 1582.
+[^7]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Tahafut al-Falasifah*, diedit oleh Sulaiman Dunya (Kairo: Dar al-Ma'arif, 1972), hlm. 72–89; Abu Hamid Al-Ghazali, *Al-Munqidz min adh-Dhalal*, diedit oleh Dr. Abdul Halim Mahmud (Kairo: Dar al-Kutub al-Haditsah, 1968), hlm. 45–60.
+[^8]: Abu al-Walid Muhammad bin Ahmad bin Rusyd (Averroes), *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*, diedit oleh Dr. Muhammad 'Imarah (Kairo: Dar al-Ma'arif, 1983), hlm. 28–42; George F. Hourani, *Averroes on the Harmony of Religion and Philosophy* (London: Luzac & Co., 1961).
+[^9]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/02_EPISTEMOLOGY/05-Jenis-dan-Tingkat-Klaim.md` dan `08-Implikasi-Epistemology-bagi-TUMBUH.md`.

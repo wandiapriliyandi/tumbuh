@@ -83,170 +83,9 @@ Masa santri tinggal di asrama (usia 12 hingga 18 tahun) adalah **Jendela Plastis
 
 Maka bergetarlah wahai para pendidik! Setiap perkataan yang kita ucapkan dan setiap perlakuan yang kita berikan kepada santri di lorong asrama bukanlah peristiwa yang hilang ditelan angin; setiap perlakuan itu secara fisik sedang **memahat arsitektur biologis otak generasi penerus umat**.
 
----
+Setelah kita memahami bahwa santri remaja adalah mobil Ferrari bertenaga monster dengan rem sepeda yang rapuh, pertanyaan mendasar segera mengemuka: *Jika ancaman hukuman dan bentakan terbukti merusak otak mereka, metode pendidikan dan ekosistem seperti apa yang mampu memasang 'rem moral' tersebut ke dalam jiwa mereka? Bagaimana falsafah tarbiyah dan ta'dib para nabi melatih karakter tanpa kekerasan?*
 
-### 5.3 Karakteristik Perkembangan Non-Linier: Fenomena Regresi Perkembangan Semu
-
-Banyak pengurus pesantren dan musyrif kamar memiliki ekspektasi yang keliru terhadap dinamika pertumbuhan karakter santri. Mereka membayangkan bahwa perkembangan adab santri akan bergerak laksana **garis lurus menanjak tanpa jeda (*linear progression*)**: bulan pertama santri paham wudhu, bulan kedua tertib bangun subuh, bulan ketiga rajin puasa daud, dan seterusnya tanpa pernah mundur ke belakang.
-
-Ketika pada bulan keempat santri yang awalnya tampak sangat tertib tiba-tiba mengalami kemerosotan—ia mulai terlambat masuk kelas, malas merapikan kasurnya, atau menangis ingin pulang—para pembina kerap merasa frustrasi dan putus asa: *"Percuma dididik! Santri ini ternyata tidak ada perubahan, makin lama di pondok kelakuannya malah makin rusak!"*
-
-Penilaian tersebut adalah kekeliruan besar. Dalam psikologi perkembangan (*Developmental Psychology*), pertumbuhan manusia diakui secara universal **TIDAK PERNAH BERJALAN LINIER**[^6]. 
-
-Pertumbuhan jiwa santri bergerak laksana gelombang spiral yang dinamis: maju dua langkah, tertahan sejenak, terkadang mundur satu langkah untuk menghimpun kekuatan, lalu melompat maju tiga langkah ke depan:
-
-```mermaid
-graph TD
-    A["Fase Adaptasi Awal (Semangat Baru & Kepatuhan Permukaan)"] --> B["Fase Lonjakan Tuntutan (Ujian, Beban Hafalan Meningkat)"]
-    B --> C["REGRESI PERKEMBANGAN SEMU (DEVELOPMENTAL REGRESSION)<br/>(Santri Tampak Rewel, Melanggar Aturan Kecil, Menarik Diri)"]
-    
-    C -->|Respons Lama: Dibentak & Dihukum Keras| D["Trauma Kronis, Karakter Patah & Putus Asa"]
-    C -->|Respons TUMBUH: Scaffolding, Dialog & Dukungan Nutrisi-Istirahat| E["KONSOLIDASI JIWA & MATURASI BARU<br/>(Melompat ke Derajat Kemandirian yang Lebih Tinggi)"]
-```
-
-Fenomena ini dikenal dalam sains perkembangan sebagai **Regresi Perkembangan Semu (*Developmental Regression in Service of the Ego*)**. 
-
-Ketika seorang santri sedang bersiap melangkah ke tingkat kematangan kognitif atau sosial yang lebih kompleks—misalnya ia baru saja dipindahkan ke jenjang kemandirian yang lebih tinggi, atau baru menghadapi beban hafalan matan yang sangat berat—sistem saraf otaknya mengalami kelebihan beban sementara (*temporary cognitive and emotional overload*). Dalam kondisi tersebut, tubuh biologisnya secara alami mencari rasa aman dengan memunculkan kembali perilaku-perilaku kekanak-kanakan masa lalu: mengompol kembali, menangis rindu ibu, atau bersikap manja dan mencari perhatian musyrif secara berlebihan.
-
-Jika musyrif merespons fase regresi ini dengan amarah dan sanksi fisik, santri akan merasa ditolak dan mengalami luka batin yang dalam. 
-
-Namun jika musyrif memahami antropologi perkembangan TUMBUH, musyrif akan menyikapi fase regresi ini dengan senyuman ketenangan: *"Ini bukan tanda kegagalan; ini adalah tanda bahwa jiwa anak ini sedang bertarung menata struktur kapasitas barunya. Yang ia butuhkan saat ini bukanlah hukuman, melainkan sandaran pelukan ketenangan (*scaffolding*) agar sistem sarafnya kembali stabil."*
-
----
-
-### 5.4 Tiga Kebutuhan Psikologis Dasar Santri Remaja (Self-Determination Theory)
-
-Mengapa banyak santri di asrama kehilangan gairah belajar (*demotivated*), apatis terhadap program pondok, atau memberontak secara diam-diam?
-
-Prof. Richard Ryan dan Edward Deci dalam teori motivasi paling berpengaruh di dunia, **Self-Determination Theory (SDT)**, membuktikan bahwa jiwa manusia remaja hanya akan bertumbuh secara sehat dan termotivasi dari dalam (*intrinsically motivated*) jika **Tiga Kebutuhan Psikologis Dasar (*Basic Psychological Needs*)** terpenuhi oleh lingkungannya[^7]:
-
-```mermaid
-graph TD
-    subgraph TIGA_KEBUTUHAN_JIWA["Tiga Kebutuhan Psikologis Asasi Santri (SDT)"]
-        O["1. OTONOMI (AUTONOMY)<br/>Kebutuhan Merasa Memiliki Pilihan Sadar & Tidak Selalu Dikendalikan Seperti Robot"]
-        K["2. KOMPETENSI (COMPETENCE)<br/>Kebutuhan Merasa Mampu Menguasai Tantangan, Melihat Kemajuan Diri & Dihargai Usahanya"]
-        R["3. KETERIKATAN / KASIH SAYANG (RELATEDNESS)<br/>Kebutuhan Merasa Diterima, Dicintai, Aman & Memiliki Saudara yang Tulus"]
-    end
-
-    O --> S["IKLIM ASRAMA PESANTREN TUMBUH"]
-    K --> S
-    R --> S
-
-    S --> M["Lahirnya Santri Mandiri, Cinta Ilmu, Beradab Otentik & Tangguh"]
-```
-
-Mari kita bedah bagaimana ketiga kebutuhan ini wajib dihidupkan di lingkungan pesantren 24 jam:
-
-#### 1. Kebutuhan Otonomi (*Autonomy*)
-Otonomi **bukanlah** kebebasan liar tanpa batas (*unbridled freedom*). Otonomi bermakna **dorongan batin untuk bertindak atas dasar kemauan sadar, bukan karena pemaksaan dari luar**. Santri remaja memiliki kebutuhan biologis untuk merasakan bahwa suaranya didengar dan pilihannya dihargai.
-
-Pesantren yang mematikan otonomi memperlakukan santri laksana pion catur: santri tidak pernah diberi ruang memilih, tidak pernah diajak bermusyawarah, dan seluruh jadwalnya diatur hingga menit demi menit tanpa ada ruang bernapas. Akibatnya, santri merasa hidupnya dijajah, melahirkan sikap pasif-agresif atau pemberontakan liar saat pengawas lengah.
-
-Dalam ekosistem TUMBUH, otonomi santri dilatih secara bertahap:
-* Santri dilibatkan dalam menentukan pembagian tugas kebersihan kamar bersama teman-temannya.
-* Santri diberi ruang memilih target capaian hafalan hariannya dalam rentang yang proporsional.
-* Santri diajak berdialog mengenai hikmah di balik aturan, sehingga ia menaati aturan tersebut bukan karena terpaksa, melainkan karena ia **memilih untuk sepakat** bahwa aturan itu baik bagi keselamatannya.
-
-#### 2. Kebutuhan Kompetensi (*Competence*)
-Setiap santri haus akan rasa pencapaian: *"Aku mampu! Usahaku ada hasilnya!"*
-
-Tragedi di sebagian pesantren adalah digunakannya kurikulum yang menerapkan satu ukuran seragam (*one size fits all*). Santri yang memiliki bakat linguistik dipuji setinggi langit, sementara santri yang lambat dalam nahwu namun sangat terampil dalam kepemimpinan sosial dan seni kaligrafi dicap sebagai "santri bodoh tak berguna". Santri yang merasa dirinya selalu gagal (*learned helplessness*) akan segera mematikan usahanya dan melampiaskan rasa rendah dirinya melalui kenakalan asrama.
-
-TUMBUH merancang sistem penjenjangan yang mengakui keberagaman fitrah (*multiple intelligences*). Kemajuan santri tidak dibandingkan secara kejam dengan santri lain (*norm-referenced comparison*), melainkan dibandingkan dengan rekam jejak dirinya sendiri di masa lalu (*ipsative progress*). Sekecil apa pun kemajuan adab yang ditunjukkan oleh seorang santri diapresiasi secara tulus oleh pembina, memantik hormon dopamin alami yang mendorongnya untuk terus belajar.
-
-#### 3. Kebutuhan Keterikatan dan Kasih Sayang (*Relatedness / Belonging*)
-Inilah kebutuhan yang paling menentukan bagi kelangsungan jiwa santri di asrama. Santri remaja rela melakukan apa saja—bahkan hal-hal yang berbahaya sekalipun—demi merasa **diterima dan tidak dikucilkan oleh kelompok teman sebayanya**.
-
-Jika ekosistem pesantren dingin, sarat dengan kecurigaan antar-kamar, dan para musyrifnya bersikap menjaga jarak laksana komandan militer, santri akan mengalami kelaparan emosional (*emotional starvation*). Kelaparan emosional inilah yang menjadi akar subur merebaknya geng-geng asrama liar, solidaritas sempit senioritas, hingga hubungan pertemanan menyimpang (*toxic attachment*).
-
-TUMBUH merancang arsitektur asrama sebagai sebuah **Keluarga Besar Ruhaniyah (*Bi'ah Ukhuwwah*)**:
-* Musyrif hadir sebagai sosok pengganti ayah (*in loco parentis*) yang hangat dan dapat didekati kapan saja.
-* Tradisi makan bersama dalam satu nampan (*talam halaqah*), lingkaran muhasabah saling mendoakan sebelum tidur, serta kultur saling memaafkan dihidupkan sebagai ritual harian yang mengikat hati mereka dalam ukhuwah imaniyah yang kokoh.
-
----
-
-### 5.5 Integrasi Turats: Tahapan Tamyiz, Murahaqah, dan Baligh dalam Fiqh Tarbiyah
-
-Bagaimanakah khazanah keilmuan Islam memetakan perjalanan usia remaja ini? Jauh sebelum psikologi Barat merumuskan teori perkembangan, para fukaha dan pakar adab Islam telah membagi perjalanan hidup manusia ke dalam tahapan-tahapan yang sangat runtut[^8]:
-
-```mermaid
-graph LR
-    subgraph TAHAPAN_USIA_TURATS["Tahapan Usia Santri dalam Tradisi Islam"]
-        T1["1. SHIBA (Kanak-kanak Awal)<br/>Usia 0–7 Tahun: Bermain, Kehangatan Ibu & Belum Ada Beban Hukum"]
-        T2["2. TAMYIZ (Kecerdasan Membedakan)<br/>Usia 7–10 Tahun: Mulai Dilatih Shalat & Dibiasakan Adab Dasar Lahiriah"]
-        T3["3. MURAHAQAH (Masa Transisi Remaja Menjelang Baligh)<br/>Usia 11–15 Tahun: Pematangan Hormon, Pergolakan Jiwa & Latihan Memikul Beban"]
-        T4["4. BULUGH & RUSYD (Kematangan Taklif Syariat)<br/>Usia 15+ Tahun: Mukallaf Penuh, Menanggung Dosa Sendiri & Menuju Kemandirian Moral"]
-    end
-
-    T1 --> T2 --> T3 --> T4
-```
-
-Para ulama menaruh perhatian yang teramat mendalam pada masa **Al-Murahaqah** (kata yang berakar dari *ra-ha-qa* yang bermakna mendekat, terburu-buru, atau tertutup). Di fase transisi inilah syariat menetapkan sebuah metode pembinaan yang luar biasa proporsional:
-
-Rasulullah ﷺ bersabda dalam hadits pedoman pengasuhan yang sangat populer:
-
-$$\text{مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
-
-> *"Perintahkanlah anak-anakmu mendirikan salat ketika mereka berusia tujuh tahun; dan berikan ketegasan (evaluasi tegas) atas kelalaian mereka saat berusia sepuluh tahun; serta pisahkanlah tempat-tempat tidur mereka."*  
-> (HR. Abu Dawud no. 495 dan Ahmad no. 6689, sanad hasan)[^9]
-
-Perhatikan hikmah pedagogis tingkat tinggi di balik hadits ini!
-1. **Masa Latihan Tiga Tahun Penuh (Usia 7 hingga 10 Tahun)**:  
-   Antara usia tujuh hingga sepuluh tahun terdapat rentang waktu **tiga tahun penuh (lebih dari 1.000 hari dan 5.000 kali salat fardhu)**! Dalam kurun waktu tiga tahun tersebut, perintah salat dilakukan dengan **kelemahlembutan, pengulangan yang sabar, pujian, dan pembiasaan tanpa kekerasan**. Anak dilatih membiasakan raga biologisnya terbiasa dengan ritme wudhu dan sujud.
-2. **Makna Ketegasan pada Usia Sepuluh Tahun**:  
-   Ketika anak telah berusia sepuluh tahun dan telah dilatih selama 5.000 kali salat namun masih malas, barulah syariat mengizinkan adanya ketegasan. Namun para fukaha—seperti Imam Asy-Syafi'i dan Imam An-Nawawi—menegaskan dengan sangat ketat batas-batas ketegasan tersebut: *dharbun ghairu mubarrih* (bukan pukulan yang melukai fisik, bukan pukulan di wajah, tidak boleh meninggalkan bekas memar, tidak boleh mematahkan tulang, dan semata-mata bersifat teguran simbolik untuk menyadarkan keseriusan taklif, bukan pelampiasan nafsu amarah)*[^10].
-3. **Pemisahan Tempat Tidur (*Farriquu Bainahum fil-Madhaaji'*)**:  
-   Ini adalah ketetapan preventif (*environmental safeguarding*) yang sangat agung. Pada usia sepuluh tahun, syariat memerintahkan pemisahan tempat tidur untuk menjaga kesucian pandangan, privasi tubuh, serta mencegah timbulnya gejolak seksual prematur di antara anak-anak asrama.
-
-Pemahaman turats ini menegaskan bahwa: **Islam tidak pernah membenarkan metode "kekerasan instan"**. Sebelum sebuah sanksi tegas dijatuhkan, syariat menuntut adanya proses pengajaran yang berulang, pendampingan yang sabar, dan penataan lingkungan yang aman.
-
----
-
-### 5.6 Fenomena Pergeseran Sirkadian Remaja: Mengapa Santri Sulit Tidur Sebelum Pukul 22.00?
-
-Salah satu keluhan harian yang paling sering membuat musyrif asrama naik pitam adalah kegaduhan santri setelah jam lampu dipadamkan:
-*"Sudah pukul sepuluh malam, tapi anak-anak kamar tiga masih saja berbisik-bisik, cekikikan, dan bergulingan di kasur! Mereka ini memang santri pembangkang yang sengaja menguji kesabaran ustadznya!"*
-
-Sebelum seorang musyrif masuk ke kamar dan melayangkan sanksi push-up, sains kronobiologi modern menyajikan sebuah fakta sunnatullah penciptaan biologis yang mengejutkan: **Pergeseran Fase Melatonin Remaja (*Adolescent Melatonin Phase Delay*)**[^11].
-
-Prof. Mary Carskadon dari Brown University School of Medicine membuktikan bahwa ketika seorang anak memasuki masa pubertas, jam sirkadian biologis di dalam otaknya (*suprachiasmatic nucleus*) secara alami **bergeser mundur sekitar dua jam**:
-
-```mermaid
-graph LR
-    subgraph PERGESERAN_SIRKADIAN_MELATONIN["Pergeseran Hormon Tidur Melatonin"]
-        direction TB
-        A["ANAK USIA SD / DEWASA MATANG<br/>Melatonin Mulai Dilepaskan: 20.00 - 21.00 WIB<br/>Rasa Kantuk Alami Datang Pukul 21.30 WIB"]
-        B["SANTRI USIA REMAJA (12 - 18 TAHUN)<br/>Melatonin Baru Dilepaskan: 22.30 - 23.00 WIB<br/>Rasa Kantuk Alami Baru Tiba Menjelang 23.30 WIB"]
-        
-        A -.->|Terjadi Pergeseran Biologis 2 Jam!| B
-    end
-```
-
-Secara biologis murni, memaksa seorang santri berusia 14 tahun untuk langsung memejamkan mata dan tertidur pulas pada pukul 21.00 adalah sama sulitnya dengan menyuruh orang dewasa tidur pada pukul 19.00 malam! Otak mereka belum memproduksi hormon melatonin dalam jumlah yang cukup untuk menginduksi fase tidur. Santri yang masih terjaga bukan sedang berniat maksiat; gelombang otak mereka masih berada dalam frekuensi beta yang aktif.
-
-Oleh karena itu, tata kelola asrama TUMBUH tidak menggunakan pendekatan ancaman sanksi fisik, melainkan **Rekayasa Lingkungan Sirkadian (*Circadian Hygiene Engineering*)**:
-1. **Peredupan Cahaya Bertahap (*Light Dimming Protocol*)**: Pada pukul 21.00, lampu neon putih asrama yang terang benderang diganti dengan pencahayaan temaram bernuansa kuning hangat (*warm amber light*). Hal ini merangsang kelenjar pineal santri untuk mulai memproduksi melatonin secara alami tanpa hambatan spektrum cahaya biru (*blue light*).
-2. **Ritual Penenangan Saraf (*Down-Regulation Ritual*)**: Pukul 21.00–21.30 diisi dengan tilawah Al-Qur'an bersuara lembut, pembacaan zikir tidur ma'tsur, dan muhasabah kamar yang hening. Aktivitas ini menurunkan frekuensi gelombang otak dari beta menuju alfa dan teta.
-3. **Penjaminan Waktu Bangun Fajar yang Selaras**: Jika santri tidur pukul 22.00, maka bangun pukul 04.30 memberikan waktu tidur penuh 6,5 hingga 7 jam yang memadai untuk menjaga ketahanan hipokampus mereka.
-
----
-
-### 5.7 Matriks Penyelarasan Saraf: Gejala Biologis Remaja vs Respon Musyrif TUMBUH
-
-Untuk memudahkan para praktisi lapangan, tabel di bawah ini merangkum komparasi antara respon tradisional yang merusak versus respon terapeutik berbasis neurosains TUMBUH:
-
-| Fenomena Saraf Remaja | Gejala Nyata di Asrama | Kesalahan Fatal Pembina Lama | Respon Terapeutik Musyrif TUMBUH |
-| :--- | :--- | :--- | :--- |
-| **Hipersensitivitas Limbik terhadap Teman Sebaya** | Santri menjadi sangat berani melanggar aturan jika disoraki atau ditonton kawan sekamarnya. | Mempermalukan santri di depan umum (membuat amigdala meledak dalam perlawanan demi harga diri). | **Teguran Tertutup Empat Mata**: Menjauhkan santri dari penonton teman sebaya, sehingga rem PFC dapat berpikir jernih tanpa tekanan gengsi sosial. |
-| **Kapasitas Memori Kerja Terbatas (*Cognitive Load*)** | Santri melupakan instruksi lisan panjang yang diberikan saat apel pagi asrama. | Mencap santri tidak punya perhatian dan sengaja membangkang perintah guru. | **Instruksi Visual & Singkat**: Menyampaikan instruksi dalam poin-poin visual tertulis di papan pengumuman kamar dan meminta santri mengulang intisarinya. |
-| **Maturasi PFC yang Belum Tuntas (Rem Lemah)** | Santri melontarkan kata-kata pedas secara spontan saat berselisih paham berebut jemuran. | Membalas dengan bentakan lebih keras atau tamparan fisik di wajah. | **Jeda Napas & Penundaan Dialog**: Musyrif menahan diri, memberi jeda 10 menit agar adrenalin santri turun, lalu membimbingnya merestorasi lisan secara beradab. |
-| **Dahaga Eksplorasi Dopamin Instan** | Mencari sensasi menegangkan seperti menyelinap malam hari ke kebun belakang asrama. | Menghukum jemur di terik matahari dan mengancam skorsing sepihak. | **Penyaluran Energi Beradab**: Mengarahkan dahaga petualangan ke kegiatan pramuka alam, panjat tebing, qiyamul lail di alam terbuka, atau panggung teater santri. |
-
----
-
-Memahami dinamika biologis dan ruhaniyah remaja ini menjadi pijakan kokoh bagi kita untuk melangkah ke bab berikutnya: bagaimanakah konsep Tarbiyah, Ta'dib, dan Ta'lim dirajut menjadi sebuah ekosistem keteladanan yang hidup (*Qudwah Hasanah*) di asrama 24 jam? 
-
-Inilah yang akan kita jelajahi dalam **Bab 6: Falsafah Tarbiyah, Ta'dib, dan Ekosistem Keteladanan**.
+Di Bab 6, kita akan menyingkap rahasia keteladanan qudwah dan bi'ah shalihah dalam falsafah tarbiyah dan ta'dib.
 
 ---
 
@@ -257,9 +96,11 @@ Inilah yang akan kita jelajahi dalam **Bab 6: Falsafah Tarbiyah, Ta'dib, dan Eko
 [^3]: Jay N. Giedd dkk., "Brain Development During Childhood and Adolescence: A Longitudinal MRI Study", *Nature Neuroscience*, Vol. 2, No. 10 (1999), hlm. 861–863; Nitin Gogtay dkk., "Dynamic Mapping of Human Cortical Development during Childhood through Early Adulthood", *Proceedings of the National Academy of Sciences (PNAS)*, Vol. 101, No. 21 (2004), hlm. 8174–8179.
 [^4]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Kabir* (Kairo: Maktabah Ibn Taimiyyah, 1994), hadits no. 8645; Abu Bakr Ahmad bin Husain Al-Baihaqi, *Syu'abul Iman* (Riyadh: Maktabah ar-Rusyd, 2003), hadits no. 1658 dari Abu Hurairah dan Hasan Al-Bashri secara mursal shahih lighairihi.
 [^5]: Carla J. Shatz, "Impulse Activity and the Patterning of Connections during CNS Development", *Neuron*, Vol. 5, No. 6 (1990), hlm. 745–756; Donald O. Hebb, *The Organization of Behavior: A Neuropsychological Theory* (New York: John Wiley & Sons, 1949).
-[^6]: Robert B. Cairns & Beverley D. Cairns, *Lifelines and Risks: Pathways of Youth in Our Time* (Cambridge: Cambridge University Press, 1994), hlm. 88–115; Esther Thelen & Linda B. Smith, *A Dynamic Systems Approach to the Development of Cognition and Action* (Cambridge: MIT Press, 1994).
-[^7]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 80–125; Edward L. Deci & Richard M. Ryan, "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry*, Vol. 11, No. 4 (2000), hlm. 227–268.
-[^8]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid III, *Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq* (Kairo: Dar al-Hadits, 2004), hlm. 62–75; Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 48–65.
-[^9]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, Bab Mata Yu'maru al-Ghulam bi ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689, disahihkan oleh Al-Albani dalam *Shahih Abi Dawud*.
-[^10]: Abu Zakariya Muhyiddin Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah, 1344 H), Jilid III, hlm. 11–14; Syamsuddin Muhammad bin Abi al-Abbas Ar-Ramli, *Nihayat al-Muhtaj ila Syarh al-Minhaj* (Beirut: Dar al-Fikr, 1984), Jilid I, hlm. 385–388.
-[^11]: Mary A. Carskadon dkk., "Adolescent Sleep Patterns, Circadian Timing, and Sleepiness at a Transition to Early School Days", *Sleep*, Vol. 21, No. 8 (1998), hlm. 871–881; Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 87–96 mengenai pergeseran fase sirkadian melatonin 2 jam ke depan pada usia remaja.
+[^6]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689.
+[^7]: Ibnu Hajar Al-Asqalani, *Fath al-Bari Syarh Shahih al-Bukhari* (Beirut: Dar al-Ma'rifah, 1379 H), Jilid IX, hlm. 345–347; Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah), Jilid III, hlm. 11–13.
+[^8]: Robert B. Cairns & Beverley D. Cairns, *Lifelines and Risks: Pathways of Youth in Our Time* (Cambridge: Cambridge University Press, 1994), hlm. 88–115; Esther Thelen & Linda B. Smith, *A Dynamic Systems Approach to the Development of Cognition and Action* (Cambridge: MIT Press, 1994).
+[^9]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 80–125; Edward L. Deci & Richard M. Ryan, "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry*, Vol. 11, No. 4 (2000), hlm. 227–268.
+[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid III, *Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq* (Kairo: Dar al-Hadits, 2004), hlm. 62–75; Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 48–65.
+[^11]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, Bab Mata Yu'maru al-Ghulam bi ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689, disahihkan oleh Al-Albani dalam *Shahih Abi Dawud*.
+[^12]: Abu Zakariya Muhyiddin Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah, 1344 H), Jilid III, hlm. 11–14; Syamsuddin Muhammad bin Abi al-Abbas Ar-Ramli, *Nihayat al-Muhtaj ila Syarh al-Minhaj* (Beirut: Dar al-Fikr, 1984), Jilid I, hlm. 385–388.
+[^13]: Mary A. Carskadon dkk., "Adolescent Sleep Patterns, Circadian Timing, and Sleepiness at a Transition to Early School Days", *Sleep*, Vol. 21, No. 8 (1998), hlm. 871–881; Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 87–96 mengenai pergeseran fase sirkadian melatonin 2 jam ke depan pada usia remaja.

@@ -8,6 +8,8 @@
 
 ---
 
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan urutan hikmah pedagogis dari wasiat Luqman kepada putranya: Luqman memulai dengan mendirikan salat sebagai tiang penenang jiwa dan penghubung vertikal dengan Allah, kemudian memerintahkan amar makruf nahi mungkar sebagai latihan kepedulian sosial, lalu memerintahkan bersabar atas cobaan yang niscaya menghadang jalan perjuangan. Luqman memanggil putranya dengan panggilan *Yaa Bunayya*—sebuah sapaan kasih sayang takzim (*at-tashghir li at-tahabbub*) yang menjadi teladan bagaimana musyrif asrama wajib mendekap santri J1 dan J2 yang sedang rapuh.[^1]
+
 ### Prolog: Rintik Hujan di Kaca Bilik Santri Baru
 
 Hujan gerimis turun membasahi genting asrama pada pekan kedua bulan Juli. Di bilik tidur berlantai semen abu-abu, aroma khas minyak telon bercampur dengan bau apek kasur busa yang belum sepenuhnya akrab di indera penciuman anak-anak baru. Pukul sembilan malam lewat sedikit; lonceng asrama telah berdentang menandakan saatnya memadamkan lampu utama dan beralih ke lampu tidur kuning temaram.
@@ -215,6 +217,10 @@ Untuk memastikan objektivitas evaluasi formatif musyrif di asrama, berikut adala
 3. **Pemberantasan Ghashab dan Ritual Bangun Fajar:** Menegakkan tertib kepemilikan aset kamar melalui labelisasi permanen dan menolak keras gedoran seng saat subuh; menggantinya dengan bisikan salam dan sentuhan kebapakan yang memuliakan.
 4. **Tantangan Pubertas Awal Jenjang J2:** Menghadapi lonjakan hormon seksual, pengujian batas aturan (*boundary testing*), dan kerapuhan perundungan relasional dalam klik teman sebaya.
 5. **Dosis Pengasuhan J2 (Guided Scaffolding 50%):** Mengalihkan energi santri ke arah kepemimpinan mandiri melalui musyawarah kamar (*Majlis al-Ghurfah*) dan melatih resolusi konflik antarteman sebaya melalui naskah dialog restoratif yang adil.
+
+Santri J1 dan J2 telah berhasil melewati fase adaptasi dan pembiasaan dasar; akarnya telah menghunjam ke tanah asrama. Namun, ujian sejati baru saja dimulai saat mereka menginjak usia remaja madya dan akhir: *Bagaimana mengubah kepatuhan yang awalnya masih dibimbing musyrif menjadi kesadaran otonom yang merdeka? Bagaimana melatih santri senior agar tidak tergelincir menjadi penindas feodal, melainkan menjadi pemimpin yang melayani (Sayyidul Qaumi Khadimuhum)?*
+
+Di Bab 14, kita akan membedah Jenjang J3 dan J4: Otonomi Karakter dan Kepemimpinan Qudwah.
 
 ---
 

@@ -111,13 +111,17 @@ graph TD
 
 #### 1. Nafs Ammarah bis-Su' (Dorongan Primitif dan Impulsif)
 $$\text{وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي}$$
-> *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^4]
+> *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^2]
+
+Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafsu yang selalu condong mengajak kepada keburukan (*ammarah bis-su'*), kecuali jiwa yang dirahmati dan diteguhkan oleh Allah melalui bimbingan taufik-Nya.[^3] 
 
 Ini adalah kondisi kejiwaan dasar ketika dorongan biologis purba dan hawa nafsu menguasai kendali diri. Pada santri remaja, *nafs ammarah* termanifestasi dalam perilaku impulsif: ingin menang sendiri saat antre mandi, menyembunyikan makanan teman, berbohong demi menghindari tugas piket, atau melampiaskan amarah dengan memukul. Jika santri berada pada tahap ini, menghujamnya dengan hukuman yang menghinakan justru akan mengobarkan api amarahnya dan membuatnya semakin membangkang.
 
 #### 2. Nafs Lawwamah (Gejolak Nurani dan Penyesalan Suci)
 $$\text{وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ}$$
-> *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^5]
+> *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^4]
+
+Imam Al-Hasan Al-Bashri sebagaimana dinukil oleh Imam Ath-Thabari dan Ibnu Katsir menafsirkan *An-Nafs al-Lawwamah* sebagai jiwa seorang mukmin sejati: *"Engkau tidak akan mendapati seorang mukmin sejati melainkan ia senantiasa mencela dirinya: 'Apa maksud ucapanku tadi? Apa maksud perbuatanku tadi? Mengapa aku tergelincir?' Sedangkan orang fajir terus melangkah tanpa pernah menyesali kelalaiannya."*[^5] 
 
 Allah ﷻ bersumpah dengan agung atas kemuliaan *Nafs Lawwamah*! Ini adalah tingkatan jiwa yang sangat istimewa pada usia remaja. Santri pada tahap ini mungkin saja tergelincir melakukan kesalahan adab karena godaan sesaat; namun begitu perbuatan itu selesai, dadanya terasa sesak, nuraninya bergetar mencela dirinya sendiri, dan ia diliputi oleh rasa penyesalan mendalam: *"Mengapa tadi aku membentak temanku? Ya Allah, ampuni dosaku..."*
 
@@ -128,6 +132,8 @@ Tugas pendidik saat santri berada dalam fase *lawwamah* bukanlah mempermalukanny
 #### 3. Nafs Muthma'innah (Puncak Kedamaian dan Keteguhan Adab)
 $$\text{يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً}$$
 > *"Wahai jiwa yang tenang! Kembalilah kepada Rabb-mu dengan hati yang rida dan diridai-Nya..."* (QS. Al-Fajr [89]: 27–28)[^6]
+
+Imam Ath-Thabari meriwayatkan bahwa *An-Nafs al-Muthma'innah* adalah jiwa yang tenang dalam keyakinan tauhid, mantap bahwa Allah adalah Rabb-nya, ridha terhadap takdir dan syariat-Nya, serta teguh dalam ketaatan tanpa keraguan.[^7]
 
 Inilah derajat kematangan tertinggi (*ar-rusyd*): jiwa yang telah mencapai ketenteraman mendalam (*thuma'ninah*). Gejolak syahwat dan amarah telah berhasil dijinakkan oleh cahaya iman dan nalar akal budi. Santri yang telah mencapai derajat ini beribadah dengan penuh kenikmatan batin, beradab luhur secara spontan (*malakah*), dan tetap teguh memegang nilai-nilai kebaikan sekalipun berada sendirian tanpa ada pengawasan musyrif.
 
@@ -238,7 +244,7 @@ Dalam ekosistem asrama 24 jam, para musyrif dan wali asrama dilatih untuk memili
 
 ### 4.8 Dari Hakikat Insan Menuju Praksis Tarbiyah
 
-Kita telah menuntaskan penjelajahan agung dalam **Bagian II**:
+Kita telah menuntaskan telaah dasar dalam **Bagian II**:
 * Dalam **Bab 3**, kita telah menegakkan keadilan berpikir dan epistemologi terpadu antara wahyu, nalar, dan fakta empiris.
 * Dalam **Bab 4**, kita telah membedah kedalaman jiwa santri: melampaui pucuk gunung es perilaku menuju keutuhan enam dimensi jasmani, kognitif, afektif, kehendak, amal, dan ekosistem.
 
@@ -246,18 +252,23 @@ Kini, pertanyaan terbesar dalam peradaban pendidikan kepesantrenan membentang di
 > **Jika manusia santri memiliki kedalaman jiwa dan dinamika perkembangan seperti itu, bagaimanakah cara kita mendidik, menuntun, dan mentransformasi karakternya secara berkelanjutan tanpa merusak fitrahnya?**
 > **Bagaimanakah ilmu neurosains mutakhir berpadu dengan konsep Ta'dib para ulama salaf dalam merancang ekosistem keteladanan (Qudwah Hasanah) 24 jam?**
 
-Inilah cakrawala baru yang akan kita bedah secara tuntas dalam **BAGIAN III: FALSAFAH TARBIYAH, PERKEMBANGAN, & KEPEMIMPINAN QUDWAH**.
+Jika jiwa santri diciptakan suci dengan akal yang mulia, mengapa di usia 12–15 tahun mereka justru kerap berperilaku di luar nalar? Mengapa nasihat yang diulang puluhan kali seolah menguap di depan pintu asrama? 
+
+Sains otak dan neurosains perkembangan di Bab 5 menyingkap tabir biologis ini—membuka mata kita tentang apa yang sesungguhnya sedang terjadi di dalam kepala seorang santri remaja.
 
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Iman, Bab Fadhl Man Istabra'a li Dinihi, hadits no. 52; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Musaqah, Bab Akhdz al-Halal wa Tark asy-Syubuhat, hadits no. 1599.
-[^2]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid III, *Kitab Syarh 'Aja'ib al-Qalb*, hlm. 3–18.
-[^3]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, Tahqiq: Muhammad Hamid al-Fiqi (Beirut: Dar al-Ma'rifah, 1975), Jilid I, hlm. 74–85; Ibnu Qayyim al-Jauziyyah, *Ar-Ruh* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1975), hlm. 210–235.
-[^4]: Al-Qur'an al-Karim, Surah Yusuf [12]: 53.
-[^5]: Al-Qur'an al-Karim, Surah Al-Qiyamah [75]: 2.
+[^2]: Al-Qur'an al-Karim, Surah Yusuf [12]: 53.
+[^3]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid IV, hlm. 396–397.
+[^4]: Al-Qur'an al-Karim, Surah Al-Qiyamah [75]: 2.
+[^5]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 55–58; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 275–277.
 [^6]: Al-Qur'an al-Karim, Surah Al-Fajr [89]: 27–28.
-[^7]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE/02-Dimensi-dan-Struktur-Manusia.md` dan `03-Akal-Hati-Kehendak-dan-Agency.md`.
+[^7]: Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 434–438; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 403–405.
 [^8]: Laurence Steinberg, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Mariner Books, 2015), hlm. 65–94; B.J. Casey, Rebecca M. Jones, & Todd A. Hare, "The Adolescent Brain", *Annals of the New York Academy of Sciences*, Vol. 1124 (2008), hlm. 111–126.
 [^9]: Abu Ali Ahmad bin Muhammad Miskawaih, *Tahdzib al-Akhlaq wa Tath-hir al-A'raq*, Tahqiq: Dr. Imad al-Hilali (Beirut: Dar al-Kutub al-'Ilmiyyah, 2011), hlm. 35–42; Abdurrahman Ibnu Khaldun, *Al-Muqaddimah* (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan malakah melalui latihan berulang (*al-irtiyadh*).
+[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid III, *Kitab Syarh 'Aja'ib al-Qalb*, hlm. 3–18.
+[^11]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, Tahqiq: Muhammad Hamid al-Fiqi (Beirut: Dar al-Ma'rifah, 1975), Jilid I, hlm. 74–85; Ibnu Qayyim al-Jauziyyah, *Ar-Ruh* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1975), hlm. 210–235.
+[^12]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE/02-Dimensi-dan-Struktur-Manusia.md` dan `03-Akal-Hati-Kehendak-dan-Agency.md`.

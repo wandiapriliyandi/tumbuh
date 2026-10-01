@@ -1,6 +1,8 @@
 # BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
 
-> *"Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa di antara kamu."*  
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+>
+> *"Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sesungguhnya yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa di antara kamu. Sungguh, Allah Maha Mengetahui, Maha Teliti."*  
 > — **QS. Al-Hujurat [49]: 13**[^1]
 
 > مَنْ بَطَّأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ  
@@ -10,6 +12,8 @@
 ---
 
 ### Pendahuluan
+
+Surah Al-Hujurat ayat 13 di atas adalah piagam penumbangan segala bentuk kasta feodal. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa seluruh anak cucu Adam setara dalam martabat kemanusiaannya; Allah meruntuhkan kesombongan nasab, senioritas angkatan, dan kasta sosial. Satu-satunya timbangan kemuliaan yang hakiki di sisi Allah adalah ketakwaan (*at-taqwa*). Di hadapan mekanisme transisi jenjang TUMBUH, lamanya seorang santri menetap di pondok tidak bernilai sebutir debu pun jika tidak disertai oleh ketakwaan amal, kejernihan akhlak, dan keluhuran adab melayani sesama.[^1]
 
 Salah satu bahaya terbesar dalam setiap sistem penjenjangan pendidikan asrama adalah jebakan formalisme administratif dan stratifikasi sosial yang feodalistik. Sering kali, perpindahan seorang santri dari tingkat junior ke tingkat senior semata-mata dipicu oleh pergantian tahun kalender atau naiknya kelas akademis di madrasah (*time-served promotion*). Pola kenaikan otomatis ini menciptakan ilusi kematangan: seorang santri mengenakan lencana senioritas padahal kapasitas regulasi diri, adab, dan kestabilan emosinya masih rapuh. Akibatnya, senioritas berubah menjadi hak istimewa kosong yang melahirkan arogansi, relasi kuasa intimidatif terhadap santri baru, dan runtuhnya integritas tarbiyah pesantren.
 
@@ -21,7 +25,7 @@ Bab ini membedah mekanisme transisi antar-jenjang secara menyeluruh: mulai dari 
 
 ### 15.1 Indikator Kelayakan Transisi Jenjang Berbasis Bukti Autentik
 
-Dalam arsitektur TUMBUH, transisi dari satu jenjang ke jenjang berikutnya (misalnya dari J1 ke J2, atau dari J2 ke J3) dikendalikan oleh gerbang evaluasi ketat yang disebut sebagai **Gerbang Transisi (*Gateway Review*)**[^6]. Gerbang ini dirancang untuk memastikan bahwa perancah (*scaffolding*) dukungan eksternal hanya ditarik mundur ketika kapasitas internal santri memang telah terbukti ajek dan stabil.
+Dalam arsitektur TUMBUH, transisi dari satu jenjang ke jenjang berikutnya (misalnya dari J1 ke J2, atau dari J2 ke J3) dikendalikan oleh gerbang evaluasi ketat yang disebut sebagai **Gerbang Transisi (*Gateway Review*)**[^3]. Gerbang ini dirancang untuk memastikan bahwa perancah (*scaffolding*) dukungan eksternal hanya ditarik mundur ketika kapasitas internal santri memang telah terbukti ajek dan stabil.
 
 #### 1. Melampaui Jebakan Waktu Kalender (*Beyond Time-Served Promotion*)
 Prinsip pertama dalam evaluasi transisi TUMBUH adalah: **Waktu menetap di asrama adalah syarat perlu (*necessary condition*), namun bukan syarat cukup (*sufficient condition*) untuk kenaikan jenjang.**
@@ -179,11 +183,17 @@ Tangisan haru selalu pecah di seluruh penjuru masjid setiap kali ritus ini berla
 
 ---
 
+Mekanisme transisi jenjang menuntut bukti-bukti autentik pertumbuhan jiwa santri. Namun, bagaimana cara kita menilai dan mengukur adab tanpa mereduksi keluhuran jiwa manusia menjadi sekadar angka-angka rapor yang mati? Bagaimana filosofi asesmen Islam memandang proses evaluasi karakter tanpa melabeli santri? 
+
+Di Bab 16, kita melangkah ke Bagian VII untuk membedah Filosofi Asesmen Karakter: Mengukur untuk Menumbuhkan, Bukan Melabeli.
+
+---
+
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 13.
 [^2]: Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab adz-Dzikr wa ad-Du'a' wa at-Taubah, Bab Fadhl al-Ijtima' 'ala Tilawatil Qur'an wa 'ala adz-Dzikr, hadits no. 2699.
-[^3]: Grant Wiggins & Jay McTighe, *Understanding by Design* (Alexandria: ASCD, 2005), hlm. 152–175 mengenai penilaian autentik (*authentic assessment*) dan portofolio bukti unjuk kerja nyata.
-[^4]: Badruddin Muhammad bin Ibrahim Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*, Tahqiq: Dr. Muhammad bin Mahdi al-Ajmi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 82–95 mengenai etika musyawarah para pendidik dalam mengevaluasi murid secara adil.
-[^5]: Arnold van Gennep, *The Rites of Passage*, diterjemahkan oleh Monika B. Vizedom & Gabrielle L. Caffee (Chicago: The University of Chicago Press, 1960), hlm. 1–25 mengenai struktur tiga fase ritus transisi (*separation, liminality, incorporation*).
-[^6]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/06 Transition Criteria/03-Transition-Criteria-Design.md` dan `01-Progression-Gates-and-Thresholds.md`.
+[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/06 Transition Criteria/03-Transition-Criteria-Design.md` dan `01-Progression-Gates-and-Thresholds.md`.
+[^4]: Grant Wiggins & Jay McTighe, *Understanding by Design* (Alexandria: ASCD, 2005), hlm. 152–175 mengenai penilaian autentik (*authentic assessment*) dan portofolio bukti unjuk kerja nyata.
+[^5]: Badruddin Muhammad bin Ibrahim Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*, Tahqiq: Dr. Muhammad bin Mahdi al-Ajmi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 82–95 mengenai etika musyawarah para pendidik dalam mengevaluasi murid secara adil.
+[^6]: Arnold van Gennep, *The Rites of Passage*, diterjemahkan oleh Monika B. Vizedom & Gabrielle L. Caffee (Chicago: The University of Chicago Press, 1960), hlm. 1–25 mengenai struktur tiga fase ritus transisi (*separation, liminality, incorporation*).

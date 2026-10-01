@@ -1,6 +1,9 @@
-﻿# THE FUNDAMENTAL OF TUMBUH
+# THE FUNDAMENTAL OF TUMBUH
 ## Landasan Filosofis, Arsitektural, dan Metodologis Transformasi Karakter Pesantren 24 Jam
 ### Master Reference Book — Seri Buku Utama TUMBUH v2.0.0
+
+---
+
 
 ---
 
@@ -192,7 +195,7 @@ Musyrif tidak lagi memiliki waktu untuk duduk bersila di samping tempat tidur sa
 
 Menghadapi jalan buntu antara **represi feodal yang meremukkan saraf** di satu sisi dan **transaksionalisme poin yang mematikan keikhlasan** di sisi lain, ekosistem **TUMBUH** memancangkan panji pembaruan tarbiyah kepesantrenan.
 
-Kata **TUMBUH** bukanlah jargon kosmetik, melainkan kristalisasi dari sebuah filosofi agung tentang hakikat pendidikan Islam: **Pendidikan Karakter adalah Seni Menumbuhkan Benih Hayati, Bukan Proses Menempa Logam Mesin Pabrik**.
+Kata **TUMBUH** bukanlah jargon kosmetik, melainkan kristalisasi dari sebuah ikhtiar pemahaman tentang hakikat pendidikan Islam: **Pendidikan Karakter adalah Seni Menumbuhkan Benih Hayati, Bukan Proses Menempa Logam Mesin Pabrik**.
 
 Perhatikan kontras yang sangat mendasar antara dua pandangan hidup ini:
 
@@ -222,6 +225,10 @@ $$\text{أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَ�
 > *"Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghunjam ke dalam bumi dan cabangnya menjulang tinggi ke langit. Pohon itu menghasilkan buahnya pada setiap musim dengan izin Rabb-nya. Dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka selalu ingat."*  
 > (QS. Ibrahim [14]: 24–25)[^7]
 
+Imam Abu Ja'far Ibnu Jarir Ath-Thabari dalam kitab tafsirnya meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa *syajaratin thayyibah* (pohon yang baik) adalah perumpamaan kalbu dan jiwa seorang mukmin; akarnya yang kokoh menghunjam di bumi adalah keimanan tauhid (*La ilaha illallah*) yang menancap di batinnya, cabangnya yang menjulang ke langit adalah amal shalih dan akhlak mulianya yang diangkat ke haribaan Allah, serta buahnya adalah adab dan kebajikan yang dipetik setiap saat.[^7] 
+
+Penafsiran ini diperkuat oleh Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim*, yang menggarisbawahi bahwa sebagaimana sebatang pohon yang subur menuntut tanah yang bersih, siraman air yang cukup, serta perlindungan dari gulma parasit agar buahnya manis berkelanjutan, demikian pulalah jiwa seorang mukmin: fitrah tauhid di dalam jiwanya menuntut siraman ilmu yang bersih dan ekosistem tarbiyah yang sehat agar akarnya tidak layu dan buah adabnya tidak membusuk.[^8]
+
 Renungkanlah perumpamaan agung ini!
 Seorang petani yang memiliki akal sehat tidak akan pernah memarahi benih mangganya yang baru bersemi karena benih itu belum menghasilkan buah manis. Petani tidak akan memukul tunas pohonnya dengan kayu balok agar tunas itu tumbuh lebih cepat. Petani tidak akan mencabik-cabik kuncup bunga yang belum mekar karena merasa tidak sabar.
 
@@ -239,7 +246,14 @@ Pendidik TUMBUH akan membedah ekosistem kehidupannya:
 * *Apakah jam belajarnya terlalu padat sehingga tubuh biologisnya mengalami kelelahan saraf yang akut?*
 * *Keteladanan apa yang luput kami hadirkan di hadapannya selama ini?*
 
-Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** (HR. Al-Bukhari no. 1358). Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu godam", melainkan **menghilangkan penghalang-penghalang biologis, emosional, dan sosial yang menutupi fitrah tersebut, lalu menyiraminya hingga mekar menjadi pohon adab yang agung**.
+Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** sebagaimana disabdakan oleh Rasulullah ﷺ:
+
+$$\text{ext{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
+
+> *"Setiap anak dilahirkan di atas fitrah (kesucian bertauhid). Maka kedua orang tuanyalah (lingkungan pengasuhnya) yang menjadikannya Yahudi, Nasrani, atau Majusi."*  
+> (HR. Al-Bukhari no. 1358 dan Muslim no. 2658)[^9]
+
+Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu godam", melainkan **menghilangkan penghalang-penghalang biologis, emosional, dan sosial yang menutupi fitrah tersebut, lalu menyiraminya hingga mekar menjadi pohon adab yang kokoh**.
 
 ---
 
@@ -292,11 +306,60 @@ Untuk memberikan kejelasan mutlak tanpa ruang abu-abu bagi para asatidz dan musy
   3. **Edukasi Sains Adiksi**: Santri diajak mempelajari mekanisme kerja nikotin yang membajak dopamin otak, serta dampak asap rokok terhadap penurunan kapasitas paru-paru santri atletik.
   4. **Restitusi & Layanan Asrama**: Sebagai wujud tanggung jawab atas pencemaran udara asrama yang dilakukannya, santri mendapatkan tugas restoratif yang bernilai manfaat: membersihkan dan menanam tanaman hijau penyaring udara di taman asrama selama sepekan di bawah bimbingan guru lingkungan hidup.
 
+#### Kasus 4: Ghashab Berulang dan Pencurian Uang Saku Kamar
+* **Pendekatan Lama (Retributif)**: Santri yang terbukti mencuri uang atau sandal kawan diarak keliling asrama dengan papan bertuliskan *"SAYA PENCURI"*, dipukul telapak tangannya di depan apel santri, dan langsung diancam dikeluarkan dari pondok dalam tempo 24 jam.
+  * *Dampak*: Hancurnya martabat sosial anak secara permanen. Cap (*labeling*) sebagai pencuri melekat hingga santri menjadi putus asa dari rahmat Allah, terlempar ke dalam asosiasi anak-anak nakal di luar, dan memendam kebencian abadi pada institusi agama.
+* **Protokol Edukasi Restoratif TUMBUH**:
+  1. **Penyelidikan Kausalitas Tertutup**: Musyrif dan konselor memanggil santri secara empat mata tanpa mempermalukannya di depan kamar. Tim mengurai motif tindakan: *Apakah anak tersebut kehabisan uang saku karena kiriman orang tua terlambat dan ia kelaparan biologis? Ataukah terjerat utang jajanan? Ataukah dorongan impulsif kleptomania akibat rasa terasing?*
+  2. **Audit Sistem Lingkungan Kamar**: Mengidentifikasi celah keamanan kamar yang memicu anteseden pencurian: ketiadaan loker berkunci, kebiasaan menaruh dompet sembarangan, serta normalisasi ghashab sandal yang mengikis sensitivitas dosa.
+  3. **Restitusi Tertutup Penuh Kehormatan**: Santri wajib mengembalikan sejumlah uang yang diambil secara utuh. Jika uang telah habis dibelanjakan dan santri tidak memiliki tabungan, santri diberikan pekerjaan berbayar yang bermanfaat di lingkungan pondok (seperti membantu penataan arsip perpustakaan atau pemilahan kompos pertanian) hingga upahnya mencukupi untuk melunasi hak saudaranya secara tertutup.
+  4. **Pemulihan Relasi Personal**: Pelaku menyampaikan permohonan maaf secara pribadi kepada korban dengan disaksikan konselor tanpa mengumumkan aibnya kepada seluruh penghuni kamar, diikuti akad saling menjaga kehormatan.
+
+#### Kasus 5: Penyelundupan Gawai (Smartphone) dan Konsumsi Konten Terlarang
+* **Pendekatan Lama (Retributif)**: Gawai santri dibanting atau dihancurkan dengan palu di depan seluruh santri saat apel akbar, disusul ceramah makian publik mengenai "santri perusak moral asrama", lalu santri dicukur gundul dan dipajang di dekat pos gerbang utama.
+  * *Dampak*: Dendam material karena kerugian harta bernilai jutaan rupiah (yang dibeli dengan jerih payah keringat orang tua), trauma penghinaan publik, serta makin lihainya jaringan santri lain dalam menyembunyikan gawai di tempat yang lebih ekstrem (menggali tanah atau di balik plafon masjid).
+* **Protokol Edukasi Restoratif TUMBUH**:
+  1. **Penyitaan Administratif Tertutup**: Gawai diamankan dengan tanda terima resmi bernomor inventaris, disimpan di brankas pengasuhan, dan hanya dapat diambil oleh orang tua kandung pada jadwal pertemuan khusus.
+  2. **Literasi Neurosains Pembajakan Dopamin**: Santri tidak dicap bejat, melainkan diajak memahami bagaimana industri teknologi digital sengaja merancang algoritma kecanduan (*infinite scroll* dan pornografi) yang membajak *nucleus accumbens* otak remaja dan melumpuhkan reseptor dopamin alami.
+  3. **Detoksifikasi Digital & Pendampingan Muraqabah**: Santri mengikuti program pemulihan konsentrasi batin melalui puasa sunnah, peningkatan zikir *al-Ma'tsurat*, pendampingan halaqah tadabbur Al-Qur'an, dan penyaluran energi fitrah melalui olahraga beladiri atau seni kaligrafi.
+  4. **Kontrak Akuntabilitas Keluarga**: Pertemuan tripartit antara santri, wali santri, dan konselor pondok untuk menyusun kesepakatan penggunaan teknologi secara sehat dan terawasi saat masa liburan di rumah.
+
 ---
 
-### 1.6 Panggilan Nurani Pendidik: Jika Santri Itu Adalah Anak Kandung Kita
+### 1.6 Tabel Komparasi Paradigma: Pendekatan Tradisional Coercive vs Ekosistem Progresif TUMBUH
 
-Wahai para kyai yang kami muliakan, para asatidz yang ikhlas, para musyrif yang berpeluh keringat di lorong-lorong asrama, serta segenap pengemban amanah pendidikan Islam!
+Untuk melihat gambaran komprehensif perubahan lanskap kelembagaan yang ditawarkan oleh TUMBUH, perhatikan matriks komparasi delapan dimensi fundamental berikut:
+
+| Dimensi Kelembagaan | Pendekatan Tradisional Coercive (Status Quo) | Paradigma Progresif Fitrah TUMBUH |
+| :--- | :--- | :--- |
+| **1. Pandangan tentang Hakikat Santri** | Dipandang sebagai bejana kosong yang berpotensi liar; harus ditundukkan dan dicetak paksa dari luar menggunakan instrumen rasa takut. | Dipandang sebagai makhluk mulia berfitrah tauhid yang membawa potensi adab; tugas pendidik adalah menumbuhkan benih dan menyingkirkan parasit. |
+| **2. Sumber Motivasi Kepatuhan** | Motivasi Ekstrinsik Rendah: Takut rotan pembina, takut dipermalukan di depan umum, atau transaksional poin minus. | Motivasi Intrinsik Luhur: Kesadaran moral bertauhid (*muraqabatullah*), cinta adab, dan rasa tanggung jawab sosial. |
+| **3. Peran Musyrif & Pendidik** | Pengawas keamanan (*warden*), penegak hukum yang dingin, pemburu kesalahan santri, dan hakim penghukum. | Ayah ruhani (*abun rohim*), teladan hidup (*qudwah hasanah*), fasilitator pemulihan, dan mitra tumbuh kembang jiwa. |
+| **4. Cara Menangani Pelanggaran** | Retributif-Punitive: Hukuman fisik, caci maki verbal, cukur gundul, penjemuran di terik matahari, atau skorsing sepihak. | Edukatif-Restoratif: De-eskalasi emosi saraf, audit fungsional (FBA), restitusi nyata memperbaiki kerusakan, dan rekonsiliasi (*ishlah*). |
+| **5. Iklim Sosial Asrama** | Diliputi kecemasan laten, budaya kepura-puraan (*feigned compliance*), feodalisme senior-junior, dan normalisasi ghashab. | Aman secara psikologis (*psychological safety*), transparan, penuh ukhuwah egaliter, dan penghormatan sakral pada hak milik orang lain. |
+| **6. Metrik Keberhasilan Pembinaan** | Ketertiban semu di depan mata pembina, nol suara bising, dan formalitas tuntasnya jadwal harian. | Kematangan regulasi diri (*self-regulation*), integritas moral saat sendirian, dan kecakapan memecahkan masalah hidup. |
+| **7. Ketahanan Karakter Pasca-Lulus** | Rapuh dan rentan meledak; banyak alumni mengalami gegap budaya (*culture shock*) dan menanggalkan nilai-nilai pondok. | Kokoh, adaptif, dan mandiri; nilai-nilai adab tetap menyala terang di tengah arus dinamika modernitas global. |
+| **8. Penjagaan Martabat Kemanusiaan** | Martabat anak kerap dikorbankan demi efisiensi ketertiban lembaga dan wibawa semu figur pembina. | Perlindungan anak (*child safeguarding*) dan kehormatan jiwa santri merupakan pilar syar'i non-negosiabel (*hifzh an-nafs wa al-'irdh*). |
+
+---
+
+### 1.7 Piagam Janji Suci Pendidik TUMBUH (Mīthāq Tarbawī Bi'ah Amānah)
+
+Transformasi peradaban tidak dapat dicapai hanya dengan menuliskan buku tebal; transformasi menuntut ikrar komitmen batin dari setiap jiwa yang memilih jalan mulia sebagai pendidik santri. Seluruh civitas akademika—mulai dari pimpinan pondok, kyai, asatidz, hingga musyrif asrama—mengikatkan jiwanya dalam **Tujuh Ikrar Suci Pendidik TUMBUH**:
+
+1. **Memandang Santri dengan Pandangan Rahmah dan Takzim**: Kami bersumpah memandang setiap santri sebagai amanah suci titipan Allah ﷻ, bukan sebagai objek pelampiasan amarah atau kelelahan emosional pribadi kami.
+2. **Mengharamkan Kekerasan Fisik dan Pelecehan Kehormatan**: Kami bersumpah menolak dan melarang segala bentuk tamparan, pukulan tongkat, tendangan, bentakan yang menghina harga diri, cukur botak pembalasan, serta penjemuran fisik yang merusak raga dan jiwa santri.
+3. **Mendahulukan Hubungan Hati Sebelum Menuntut Kepatuhan (*Connect Before Correct*)**: Kami bersumpah tidak akan pernah menegur atau menghakimi santri dalam keadaan amarah membakar; kami akan meregulasi diri kami sendiri terlebih dahulu dan memulihkan rasa aman santri sebelum membimbing akal budinya.
+4. **Membongkar Akar Masalah di Balik Gejala (*Focus on Needs, Not Just Behaviors*)**: Kami bersumpah tidak malas dalam mendiagnosis kenakalan santri; kami akan mencari akar luka batin, keletihan saraf, atau defisit keterampilan di balik setiap pelanggaran adab yang tampak.
+5. **Menegakkan Keadilan Restoratif yang Menghidupkan Ukhuwah**: Kami bersumpah mengganti pembalasan dendam dengan restitusi nyata yang mendidik tanggung jawab, memulihkan korban yang tersakiti, dan merajut kembali tali persaudaraan (*ishlah al-bain*).
+6. **Menjadi Teladan Hidup Sebelum Menjadi Pengkhotbah (*Qudwah Qabla Da'wah*)**: Kami bersumpah tidak akan menuntut santri jujur jika kami berbohong; kami tidak akan menuntut santri tepat waktu jika kami terlambat; dan kami tidak akan menuntut santri beradab jika lisan kami masih gemar memaki.
+7. **Menjaga Kerahasiaan Aib Santri Sebagaimana Kami Menjaga Aib Diri Sendiri**: Kami bersumpah menjaga kehormatan nama baik santri dan keluarganya, tidak mengumbar kelemahan mereka di media sosial atau forum publik, serta menuntun mereka menuju pintu taubat dengan penuh kasih sayang.
+
+---
+
+### 1.8 Panggilan Nurani Pendidik: Jika Santri Itu Adalah Anak Kandung Kita
+
+Wahai para guru yang kami muliakan, para asatidz yang ikhlas, para musyrif yang berpeluh keringat di lorong-lorong asrama, serta segenap pengemban amanah pendidikan Islam!
 
 Sebelum kita melangkah lebih jauh membedah lembar demi lembar arsitektur fundamental ini, mari kita letakkan sejenak segala buku catatan kita, pejamkan mata, dan hadirkan sebuah perenungan mendalam ke dalam relung kalbu kita yang paling jujur:
 
@@ -319,13 +382,15 @@ Rasulullah ﷺ yang menjadi teladan agung kita tidak pernah sekalipun memukul an
 $$\text{خَدَمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَشْرَ سِنِينَ، وَاللَّهِ مَا قَالَ لِي أُفًّا قَطُّ، وَلَا قَالَ لِي لِشَيْءٍ لِمَ فَعَلْتَ كَذَا؟ وَهَلَّا فَعَلْتَ كَذَا؟}$$
 
 > *"Aku melayani Rasulullah ﷺ selama sepuluh tahun penuh. Demi Allah, beliau sama sekali tidak pernah berkata 'Ah!' kepadaku; beliau tidak pernah mencelaku atas apa yang telah kulakukan: 'Mengapa engkau berbuat demikian?', dan tidak pernah pula berkata atas apa yang tidak kulakukan: 'Mengapa tidak engkau lakukan begini?'"*  
-> (HR. Al-Bukhari no. 6038 dan Muslim no. 2309)[^8]
+> (HR. Al-Bukhari no. 6038 dan Muslim no. 2309)[^10]
 
 Inilah standar agung tarbiyah nubuwah yang wajib kita hidupkan kembali. Kita menolak kekerasan bukan karena kita bersikap lembek atau permisif; kita menolak kekerasan karena kita tunduk pada teladan baginda Nabi Muhammad ﷺ dan menghormati kemuliaan fitrah ciptaan Allah ﷻ.
 
 Mari kita bulatkan tekad untuk meruntuhkan dinding-dinding tirani lama di asrama kita. Mari kita tegakkan ekosistem pengasuhan yang berwibawa, penuh kehangatan cinta, ditegakkan oleh ketegasan yang adil, serta disinari oleh nalar keilmuan yang terang benderang.
 
 Dari sinilah, babak baru kebangkitan adab pesantren kita mulai melangkah.
+
+Namun, sebelum kita merombak tata kelola fisik dan keseharian asrama, sebuah pertanyaan yang jauh lebih mendasar menghadang nalar kita: *Di atas pandangan alam (worldview) seperti apa sesungguhnya peradaban pesantren ini dibangun? Dan mengapa ketika kacamata tauhid ini retak, seluruh praksis pendidikan kita ikut runtuh dan terseret arus sekularisme tanpa kita sadari?* Di Bab 2, kita akan membongkar poros metafisika terdalam yang menjadi jantung seluruh tarbiyah Islam.
 
 ---
 
@@ -338,8 +403,9 @@ Dari sinilah, babak baru kebangkitan adab pesantren kita mulai melangkah.
 [^5]: Robert M. Sapolsky, *Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and Coping* (New York: Henry Holt and Company, 2004), hlm. 210–235; Sonia J. Lupien dkk., "Effects of Stress Throughout the Lifespan on the Brain, Behaviour and Cognition", *Nature Reviews Neuroscience*, Vol. 10, No. 6 (2009), hlm. 434–445.
 [^6]: Edward L. Deci & Richard M. Ryan, *Intrinsic Motivation and Self-Determination in Human Behavior* (New York: Plenum Press, 1985); Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 120–145.
 [^7]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Tafsir Ath-Thabari), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Kairo: Dar Hijr, 2001), Jilid XIII, hlm. 680–688.
-[^8]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Adab, Bab Husn al-Khuluq wa al-Karam wa ma Yukrahu min al-Bukhl, hadits no. 6038; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Fadhail, Bab Kana Rasulullah ﷺ Ahsana an-Nasi Khuluqan, hadits no. 2309.
-
+[^8]: Imaduddin Ismail bin Umar bin Katsir, *Tafsir al-Qur'an al-'Azhim* (Tafsir Ibnu Katsir), Tahqiq: Sami bin Muhammad as-Salamah (Riyadh: Dar Thayyibah, 1999), Jilid IV, hlm. 490–493.
+[^9]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Jana'iz, Bab Idza Aslama ash-Shabiyyu fa Mata, hadits no. 1358; Muslim bin al-Hajjaj, *Shahih Muslim*, Kitab al-Qadar, hadits no. 2658.
+[^10]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Adab, Bab Husn al-Khuluq wa al-Karam wa ma Yukrahu min al-Bukhl, hadits no. 6038; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Fadhail, Bab Kana Rasulullah ﷺ Ahsana an-Nasi Khuluqan, hadits no. 2309.
 
 ---
 
@@ -398,6 +464,8 @@ $$\text{قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصّ
 > *"Katakanlah: Dialah Allah, Yang Maha Esa. Allah adalah Dzat yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia."*  
 > (QS. Al-Ikhlas [112]: 1–4)[^3]
 
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menjelaskan bahwa makna *Al-Ahad* adalah Yang Maha Esa tanpa sekutu dan tandingan, sedangkan makna *Ash-Shamad*—sebagaimana ditegaskan oleh sahabat Abdullah bin Abbas dan para tabi'in—adalah Penguasa Mutlak yang Maha Sempurna dalam kepemimpinan-Nya, tempat seluruh makhluk menggantungkan segala hajat dan kebutuhan mereka, sementara Dia tidak membutuhkan siapa pun.[^4] Penegasan tauhid ini secara radikal membatalkan klaim kekuasaan mutlak makhluk mana pun di muka bumi.
+
 Dalam kosmologi tauhid, garis demarkasi ontologis antara **Al-Khaliq** dan **Al-Makhluk** bersifat abadi, mutlak, dan tidak akan pernah kabur:
 
 ```mermaid
@@ -431,13 +499,13 @@ Ini adalah perusakan epistemik yang sangat berbahaya! Tradisi keilmuan Islam yan
 $$\text{لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ}$$
 
 > *"Tidak ada ketaatan kepada makhluk mana pun dalam perkara yang bermaksiat kepada Sang Khaliq."*  
-> (HR. Ahmad no. 1095 dan At-Thabarani no. 381, dari Ali bin Abi Thalib رضي الله عنه, sanad shahih)[^4]
+> (HR. Ahmad no. 1095 dan At-Thabarani no. 381, dari Ali bin Abi Thalib رضي الله عنه, sanad shahih)[^5]
 
 Bahkan sahabat termulia, Amirul Mukminin Abu Bakar Ash-Shiddiq رضي الله عنه, dalam pidato kepemimpinannya setelah wafatnya Rasulullah ﷺ, dengan lantang mendeklarasikan di hadapan seluruh umat:
 
 $$\text{أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ}$$
 
-> *"Taatilah aku selama aku menaati Allah dan Rasul-Nya dalam memimpin kalian. Namun apabila aku bermaksiat kepada Allah dan Rasul-Nya, maka gugurlah kewajiban kalian untuk taat kepadaku!"*[^5]
+> *"Taatilah aku selama aku menaati Allah dan Rasul-Nya dalam memimpin kalian. Namun apabila aku bermaksiat kepada Allah dan Rasul-Nya, maka gugurlah kewajiban kalian untuk taat kepadaku!"*[^6]
 
 Jika seorang pemimpin agung dan sahabat termulia seperti Abu Bakar Ash-Shiddiq menyatakan bahwa ketaatan rakyat kepadanya bersyarat pada kepatuhannya kepada Allah dan Rasul-Nya, lalu atas hak apa seorang musyrif kamar atau santri senior menuntut kepatuhan buta dari adik kelasnya saat ia memerintahkan hal-hal yang zalim dan merendahkan martabat manusia?
 
@@ -556,7 +624,7 @@ Santri yang melakukan kesalahan tetap berhak diperlakukan sebagai hamba Allah ya
 
 ### 2.5 Tiga Mandat Eksistensial: Menumbuhkan Insan Menuju Derajat Rusyd
 
-Pendidikan Islam dalam ekosistem TUMBUH bukanlah proses mencetak "robot penurut yang pasif". Tujuan agung tarbiyah adalah menuntun santri agar mampu menyatukan tiga mandat eksistensial kehidupannya secara seimbang:
+Pendidikan Islam dalam ekosistem TUMBUH bukanlah proses mencetak "robot penurut yang pasif". Tujuan hakiki tarbiyah adalah menuntun santri agar mampu menyatukan tiga mandat eksistensial kehidupannya secara seimbang:
 
 ```mermaid
 graph TD
@@ -568,13 +636,20 @@ graph TD
 ```
 
 #### 1. Mandat Al-'Ibadah: Menegakkan Penghambaan Total
-Santri dibimbing untuk menyadari bahwa tujuan penciptaannya di muka bumi adalah beribadah kepada Allah semata (QS. Adz-Dzariyat [51]: 56). Namun ibadah di sini tidak dipahami secara kerdil hanya sebatas ritual mekanis di atas sajadah. Ibadah dalam ekosistem TUMBUH meluas ke seluruh lorong asrama: menjaga kebersihan tempat tidur adalah ibadah, menyapa saudara sekamar dengan senyuman adalah ibadah sedekah, mematikan kran air yang bocor adalah ibadah menjaga amanah bumi, dan belajar sungguh-sungguh adalah ibadah jihad fi sabilillah.
+Santri dibimbing untuk menyadari bahwa tujuan penciptaannya di muka bumi adalah beribadah kepada Allah semata sebagaimana ditegaskan dalam firman-Nya:
+
+$$\text{ext{وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ}$$
+
+> *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."*  
+> (QS. Adz-Dzariyat [51]: 56)[^9]
+
+Imam Ibnu Katsir menukil penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai kalimat *illa liya'budun*, yakni: *illa liya'rifun* (melainkan agar mereka mengenal-Ku, mencintai-Ku, dan menaati perintah-Ku secara sadar dan sukarela). Ibadah bukanlah keterpaksaan budak yang ketakutan, melainkan pengenalan cinta fitrah seorang hamba kepada Rabb-nya.[^9] Namun ibadah di sini tidak dipahami secara kerdil hanya sebatas ritual mekanis di atas sajadah. Ibadah dalam ekosistem TUMBUH meluas ke seluruh lorong asrama: menjaga kebersihan tempat tidur adalah ibadah, menyapa saudara sekamar dengan senyuman adalah ibadah sedekah, mematikan kran air yang bocor adalah ibadah menjaga amanah bumi, dan belajar sungguh-sungguh adalah ibadah jihad fi sabilillah.
 
 #### 2. Mandat Amanah Sosial dan 'Imaratul Ardh: Memakmurkan Bumi
 Santri dididik untuk tidak menjadi manusia yang egois (*individualistic piety*). Kamar asrama adalah laboratorium miniatur peradaban. Di sanalah santri belajar seni bermasyarakat: bagaimana meredam ego pribadi saat berhadapan dengan perbedaan karakter teman, bagaimana berinisiatif menolong kawan yang sakit tanpa diminta, dan bagaimana merawat fasilitas bersama agar tidak rusak. Santri dilatih menjadi insan yang bermanfaat bagi sesamanya (*khairun nasi anfa'uhum lin-nas*).
 
 #### 3. Mandat Ar-Rusyd: Kemandirian Batin Berkesadaran Penuh
-Inilah puncak pencapaian kepribadian dalam arsitektur perkembangan TUMBUH. Istilah **Ar-Rusyd** adalah konsep Al-Qur'an yang menggambarkan tingkat kematangan tertinggi ketika seseorang telah memiliki kecerdasan intelektual, kemandirian emosional, dan integritas moral yang kokoh (QS. An-Nisa' [4]: 6)[^9].
+Inilah puncak pencapaian kepribadian dalam arsitektur perkembangan TUMBUH. Istilah **Ar-Rusyd** adalah konsep Al-Qur'an yang menggambarkan tingkat kematangan tertinggi ketika seseorang telah memiliki kecerdasan intelektual, kemandirian emosional, dan integritas moral yang kokoh (QS. An-Nisa' [4]: 6)[^10].
 
 Insan yang telah mencapai derajat *rusyd* adalah pribadi yang:
 * Tidak lagi memerlukan rotan musyrif untuk melangkah salat subuh, karena nuraninya sendiri yang membangunkannya bermunajat kepada Allah.
@@ -589,7 +664,7 @@ Inilah muara akhir dari seluruh tangga progresi kemandirian TUMBUH (J1 hingga J4
 
 Bagaimana memastikan bahwa tata tertib, sistem perizinan, dan pola pembinaan di pesantren kita benar-benar berdiri di atas syariat Allah dan bukan di atas hawa nafsu pengurus?
 
-Ukuran pengujinya adalah **Maqashid Syari'ah (Tujuan-Tujuan Asasi Syariat)** sebagaimana dirumuskan oleh Imam Al-Ghazali dalam *Al-Mustashfa* dan Imam Asy-Syathibi dalam *Al-Muwafaqat*[^10]. Seluruh syariat Islam diturunkan untuk memelihara lima hak asasi eksistensial manusia (*Ad-Dharuriyyat al-Khamsah*).
+Ukuran pengujinya adalah **Maqashid Syari'ah (Tujuan-Tujuan Asasi Syariat)** sebagaimana dirumuskan oleh Imam Al-Ghazali dalam *Al-Mustashfa* dan Imam Asy-Syathibi dalam *Al-Muwafaqat*[^11]. Seluruh syariat Islam diturunkan untuk memelihara lima hak asasi eksistensial manusia (*Ad-Dharuriyyat al-Khamsah*).
 
 Mari kita bedah secara mendalam bagaimana kelima pilar Maqashid Syari'ah ini wajib diterjemahkan ke dalam tata kelola asrama pesantren 24 jam:
 
@@ -626,9 +701,55 @@ graph LR
 
 Ketika kelima pilar Maqashid Syari'ah ini tegak berdiri di seluruh ruang asrama, pesantren akan menjelma menjadi **Bi'ah Shalihah (Ekosistem Peradaban yang Suci)**—tempat di mana setiap anak manusia merasa aman, dimuliakan martabatnya, dan dituntun menuju derajat ketaqwaan yang hakiki.
 
-Dengan tuntasnya peletakan fondasi pandangan alam ini, kita kini memiliki kompas normatif yang kokoh. Namun, bagaimana cara kita memperoleh pengetahuan yang valid dan terpercaya mengenai dinamika jiwa santri? Bagaimana cara kita memadukan khazanah kitab-kitab turats salaf dengan temuan-temuan sains perilaku dan psikologi modern? 
+---
 
-Inilah penjelajahan agung yang akan kita bedah bersama dalam **Bagian II: Epistemologi Pendidikan dan Hakikat Jiwa Insan**.
+### 2.7 Rekonseptualisasi Adab: Keadilan Menempatkan Segala Sesuatu pada Kedudukannya
+
+Prof. Dr. Syed Muhammad Naquib al-Attas merumuskan definisi adab yang melampaui sekadar tata krama lahiriah atau etiket sosial permukaan:
+> *"Adab adalah pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud ciptaan Allah tersusun secara hierarkis sesuai tingkat keluhuran dan derajat nilainya, serta pengakuan terhadap kedudukan diri sendiri yang tepat dalam tata susunan wujud tersebut, yang diwujudkan dalam tindakan adil terhadap diri sendiri dan semesta."*[^12]
+
+Ketiadaan adab (*the loss of adab*) selalu bermula dari **Kezaliman (*Azh-Zhulm*)**, yang secara etimologis bermakna: *wad'u syai-in fi ghairi maudhi'ihi* (meletakkan sesuatu bukan pada tempatnya yang hak).
+
+Ketika konsep adab diturunkan ke lantai asrama pesantren 24 jam, kezaliman terjadi manakala:
+1. **Pendidik meletakkan hawa nafsunya di atas syariat**: Menghukum santri karena dorongan dendam atau kemarahan pribadi, namun membungkusnya dengan label "mendidik adab".
+2. **Lembaga meletakkan efisiensi formalitas di atas keselamatan santri**: Mengabaikan fasilitas sanitasi dan jatah istirahat tidur demi mengejar target hafalan yang mentereng di brosur promosi.
+3. **Santri meletakkan egonya di atas persaudaraan**: Mengambil hak saudaranya (*ghashab*), merundung adik kelas demi legitimasi kekuasaan, atau merusak sarana bersama.
+
+Oleh karena itu, menegakkan adab di pesantren bukanlah sekadar melatih santri membungkukkan badan saat berpapasan dengan kyai. Menegakkan adab bermakna **merestorasi tata keadilan Ilahi di seluruh sudut kehidupan**:
+* Memuliakan guru karena keilmuan dan ketakwaannya;
+* Menyayangi santri karena kemuliaan fitrah dan amanah pertumbuhannya;
+* Merawat fasilitas asrama karena kesadaran amanah lingkungan (*'imaratul ardh*);
+* Menghormati waktu istirahat dan sunnatullah tubuh jasmani sebagai bentuk takwa kepada Dzat Yang Maha Menciptakan raga.
+
+---
+
+### 2.8 Manifestasi Pandangan Alam dalam 24 Jam Kehidupan Santri
+
+Bagaimanakah pandangan alam Islam mewujud dalam irama kehidupan konkret santri dari fajar hingga fajar berikutnya? Perhatikan matriks integrasi nilai tauhid ke dalam dua belas siklus rutinitas 24 jam di bawah ini:
+
+| Waktu / Siklus Harian | Aktivitas Nyata Santri | Asumsi Sekuler-Mekanistik (Lama) | Manifestasi Worldview Tauhid TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **03.30 – 04.30** | Bangun Sahur / Qiyam / Fajar | Paksaan fisik dengan teriakan dan gedoran seng; santri bangun dalam keadaan terteror. | Panggilan cinta menyambut rahmat Allah; musyrif membangunkan dengan sentuhan lembut dan doa fajar. |
+| **04.30 – 05.30** | Salat Subuh & Tilawah Fajar | Kewajiban absensi baris saf; terlambat dipukul atau dicukur gundul. | *Hablum Minallah*: Mengokohkan tauhid fajar; penanaman kesadaran hadirnya Allah (*Muraqabah*). |
+| **05.30 – 06.30** | Piket Kebersihan Bilik & Mandi | Beban hukuman kotor; santri berebut kran air dan melakukan ghashab gayung. | *Hifzh al-Mal & Thaharah*: Merawat kebersihan sebagai cabang iman; antre beradab menghormati hak sesama. |
+| **06.30 – 07.00** | Sarapan Pagi Bersama | Porsi makanan terbatas; santri berebut makanan dan menyisakan sampah plastik. | *Syukur & Barakah*: Menghayati rezeki halal; adab makan nampan bersama melatih altruisme dan qana'ah. |
+| **07.00 – 12.00** | Pembelajaran Kelas Madrasah | Menghafal demi nilai ujian kognitif; santri pasif mendengarkan ceramah satu arah. | *Al-Khabar ash-Shadiq & 'Aql*: Memadukan wahyu dan nalar demonstratif; santri aktif bertanya dan berdiskusi. |
+| **12.00 – 13.00** | Salat Zhuhur Berjamaah | Formalitas pengawasan musyrif; santri tidur di saf belakang. | Istirahat ruhani tengah hari; revitalisasi fokus batin setelah dialektika intelektual pagi. |
+| **13.00 – 14.00** | Istirahat Siang (*Qailulah*) | Dianggap waktu malas; sebagian pesantren menghapus qailulah demi tambah materi. | *Sunnatullah Biologis*: Mengamalkan sunnah Rasulullah ﷺ untuk merestorasi neuroplastisitas otak. |
+| **14.00 – 15.30** | Halaqah Pendalaman Kitab / Bahasa | Hafalan kaku tanpa pemahaman konteks sosial kontemporer. | Menghubungkan turats salaf dengan realitas modern; melatih kecakapan hidup dan komunikasi asertif. |
+| **15.30 – 17.00** | Salat Ashar & Olahraga Raga | Waktu bebas tak terkontrol; rawan perkelahian dan perundungan di sudut tersembunyi. | *Hifzh an-Nafs*: Menyalurkan lonjakan hormon androgen melalui panahan, futsal, renang, dan silat beradab. |
+| **17.00 – 18.00** | Mandi Bersih & Persiapan Maghrib | Tergesa-gesa; saling serobot pakaian jemuran. | Menata kerapian lahiriah menyambut waktu hening petang; membaca zikir al-Ma'tsurat petang. |
+| **18.00 – 20.00** | Maghrib, Halaqah Tahfidz & Isya | Menyetor hafalan dengan ancaman berdiri; santri cemas dan panik. | Konsolidasi kalamullah dalam suasana khusyuk; guru menyimak dengan cinta dan kesabaran tarbawi. |
+| **20.00 – 21.30** | Muthala'ah Mandiri & Majlis Kamar | Pengawas merazia dengan rotan; kamar tegang dan hening palsu. | *Majlis al-Ghurfah*: Lingkaran kamar evaluasi hari, saling menguatkan, apresiasi 4:1, dan doa malam. |
+| **21.30 – 03.30** | Padam Lampu & Tidur Lelap (6–7 Jam) | Dipotong hingga larut malam atas nama tirakat semu; santri kekurangan tidur kronis. | *Ibadah Tidur Biologis*: Menjaga sistem glimfatik otak bekerja membersihkan racun saraf demi memori abadi. |
+
+Ketika seluruh siklus hidup 24 jam ini dijalankan dengan penuh kesadaran tauhid, santri tidak lagi merasa "sedang dihukum di penjara pondok", melainkan merasa sedang **hidup di dalam sebuah miniatur kota peradaban Nabawiyyah yang damai, suci, dan memberdayakan**.
+
+---
+
+Dengan tuntasnya peletakan fondasi pandangan alam ini, kita kini memiliki kompas normatif yang kokoh. Namun, sebuah teka-teki epistemologis besar segera menghadang nalar kita: *Jika wahyu adalah kebenaran mutlak, bagaimana mendudukkannya di samping nalar akal dan temuan-temuan empiris sains perilaku? Apakah pesantren harus menolak sains psikologi dan neurosains modern demi menjaga kemurnian doktrin, ataukah keduanya dapat dirajut ke dalam satu hierarki kebenaran yang utuh tanpa jatuh ke jurang sekularisme?* 
+
+Di Bab 3, kita akan menelaah integrasi epistemologis antara wahyu, akal budi lurus, dan fakta empiris lapangan.
 
 ---
 
@@ -637,14 +758,16 @@ Inilah penjelajahan agung yang akan kita bedah bersama dalam **Bagian II: Episte
 [^1]: Syed Muhammad Naquib al-Attas, *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education* (Kuala Lumpur: International Institute of Islamic Thought and Civilization [ISTAC], 1980), hlm. 15–28; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: Muslim Youth Movement of Malaysia [ABIM], 1978), hlm. 133–150.
 [^2]: Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab ath-Thaharah, Bab Fadhl al-Wudhu', hadits no. 223.
 [^3]: Al-Qur'an al-Karim, Surah Al-Ikhlas [112]: 1–4.
-[^4]: Ahmad bin Muhammad bin Hanbal, *Al-Musnad*, Tahqiq: Syu'aib al-Arna'uth dkk. (Beirut: Mu'assasah ar-Risalah, 2001), Jilid II, hlm. 333, hadits no. 1095; Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Kabir* (Kairo: Maktabah Ibn Taimiyyah, 1994), Jilid XVIII, hlm. 170.
-[^5]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Tarikh ar-Rusul wa al-Muluk* (Tarikh Ath-Thabari) (Kairo: Dar al-Ma'arif, 1967), Jilid III, hlm. 224; Ibnu Katsir, *Al-Bidayah wa an-Nihayah* (Giza: Dar Hijr, 1997), Jilid VI, hlm. 305–306.
-[^6]: Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 105–142; Robert Stickgold, "Sleep-dependent memory consolidation", *Nature*, Vol. 437 (2005), hlm. 1272–1278; Lulu Xie dkk., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science*, Vol. 342, No. 6156 (2013), hlm. 373–377.
+[^4]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Tahqiq: Sami bin Muhammad as-Salamah (Riyadh: Dar Thayyibah, 1999), Jilid VIII, hlm. 526–530.
+[^5]: Ahmad bin Muhammad bin Hanbal, *Al-Musnad*, Tahqiq: Syu'aib al-Arna'uth dkk. (Beirut: Mu'assasah ar-Risalah, 2001), Jilid II, hlm. 333, hadits no. 1095; Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Kabir* (Kairo: Maktabah Ibn Taimiyyah, 1994), Jilid XVIII, hlm. 170.
+[^6]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Tarikh ar-Rusul wa al-Muluk* (Tarikh Ath-Thabari) (Kairo: Dar al-Ma'arif, 1967), Jilid III, hlm. 224; Ibnu Katsir, *Al-Bidayah wa an-Nihayah* (Giza: Dar Hijr, 1997), Jilid VI, hlm. 305–306.
 [^7]: Al-Qur'an al-Karim, Surah Al-Isra' [17]: 70.
 [^8]: Fakhruddin Muhammad bin Umar Ar-Razi, *Mafatih al-Ghaib* (At-Tafsir al-Kabir) (Beirut: Dar al-Fikr, 1981), Jilid XXI, hlm. 13–18.
-[^9]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an* (Tafsir Al-Qurthubi), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Beirut: Mu'assasah ar-Risalah, 2006), Jilid VI, hlm. 43–48.
-[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420; Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Masyhur bin Hasan Al Salman (Kobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–32.
-
+[^9]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 425–426; Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXII, hlm. 437–440.
+[^10]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an* (Tafsir Al-Qurthubi), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Beirut: Mu'assasah ar-Risalah, 2006), Jilid VI, hlm. 43–48.
+[^11]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420; Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Masyhur bin Hasan Al Salman (Kobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–32.
+[^12]: Syed Muhammad Naquib al-Attas, *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and the Nature of Reality* (Kuala Lumpur: ISTAC, 1995), hlm. 102–115 mengenai definisi filosofis adab dan kaitannya dengan martabat keadilan (*'adl*).
+[^13]: Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 105–142; Robert Stickgold, "Sleep-dependent memory consolidation", *Nature*, Vol. 437 (2005), hlm. 1272–1278; Lulu Xie dkk., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science*, Vol. 342, No. 6156 (2013), hlm. 373–377.
 
 ---
 
@@ -657,6 +780,10 @@ Inilah penjelajahan agung yang akan kita bedah bersama dalam **Bagian II: Episte
 > — **Al-Qur'an al-Karim**, Surah Al-Hujurat [49]: 6[^1]
 
 ---
+
+Imam Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat ini memerintahkan orang-orang beriman untuk melakukan *at-tatsabbut* (verifikasi cermat) terhadap berita yang dibawa oleh seseorang, agar tidak menjatuhkan hukuman atau keputusan yang menzalimi suatu kaum karena ketidaktahuan (*bi jahalah*), yang akhirnya membuahkan penyesalan abadi.[^1] 
+
+Imam Al-Qurthubi dalam *Al-Jami' li Ahkam al-Qur'an* menambahkan bahwa ayat ini adalah dalil ushul paling agung mengenai haramnya berpegang pada persangkaan tanpa verifikasi (*tark al-amal bi azh-zhann al-mujarrad*) dalam urusan kehormatan manusia dan penetapan sanksi.[^2]
 
 ### 3.1 Tragedi Fitnah di Ruang Asrama: Mengapa Epistemologi Menentukan Nasib Santri?
 
@@ -677,7 +804,9 @@ Ketika seorang pengasuh mengambil keputusan hanya berdasarkan "kabar burung", "f
 $$\text{إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ}$$
 
 > *"Mereka tidak lain hanyalah mengikuti persangkaan belaka (zhann) dan apa yang diingini oleh hawa nafsu mereka, padahal sungguh telah datang petunjuk dari Rabb mereka."*  
-> (QS. An-Najm [53]: 23)[^2]
+> (QS. An-Najm [53]: 23)[^3]
+
+Syaikh Abdurrahman bin Nashir As-Sa'di dalam *Taisir al-Karim ar-Rahman* menjelaskan bahwa ayat ini menelanjangi dua penyakit perusak kebenaran: pertama, mengikuti dugaan semu (*azh-zhann*) yang kosong dari bukti faktual; dan kedua, memperturutkan hawa nafsu (*hawa an-nafs*) yang condong pada kemarahan dan selera pribadi.[^4] Ketika dua penyakit ini menyusup ke dalam ruang pengasuhan, seorang pembina dapat dengan mudah meremukkan masa depan santri semata-mata atas nama firasat palsu.
 
 Dalam ekosistem **TUMBUH**, keadilan berpikir (*epistemic justice*) dan kejujuran metodologis diletakkan sebagai pilar adab yang agung. Tidak boleh ada satu pun vonis disiplin, tidak boleh ada satu pun pelabelan karakter santri, dan tidak boleh ada satu pun program kurikulum baru yang diluncurkan tanpa melewati pertanggungjawaban epistemik yang shahih.
 
@@ -687,7 +816,7 @@ Dalam ekosistem **TUMBUH**, keadilan berpikir (*epistemic justice*) dan kejujura
 
 Peradaban Barat modern terperangkap ke dalam dikotomi epistemik yang tajam: antara **Rasionalisme** yang mendewakan akal murni dan menolak realitas spiritual, serta **Empirisme/Positivisme** yang menolak segala bentuk kebenaran kecuali yang dapat ditimbang dan diukur di laboratorium materi. Di sisi lain, sebagian masyarakat tradisional terjatuh ke dalam **Mistisisme Irasional**: mempercayai mimpi, firasat liar, dan takhayul tanpa pernah mengujinya dengan akal sehat dan dalil syariat.
 
-Epistemologi Islam yang diwariskan oleh para ulama mu'tabar—seperti Imam Abu Hamid Al-Ghazali, Imam Fakhruddin Ar-Razi, dan Prof. Syed Muhammad Naquib al-Attas—menolak seluruh bentuk kepincangan tersebut[^3]. 
+Epistemologi Islam yang diwariskan oleh para ulama mu'tabar—seperti Imam Abu Hamid Al-Ghazali, Imam Fakhruddin Ar-Razi, dan Prof. Syed Muhammad Naquib al-Attas—menolak seluruh bentuk kepincangan tersebut[^5]. 
 
 Islam memandang bahwa manusia dikaruniai **tiga saluran ilmu yang saling menyempurnakan (*The Integrated Channels of Knowledge*)**:
 
@@ -783,7 +912,7 @@ Mari kita bedah secara gamblang contoh konkret kelima jenis klaim ini di lingkun
 
 Salah satu ciri kemunduran peradaban ilmu adalah merebaknya **Dogmatisme Semu (False Absolutism)**—kebiasaan berbicara dengan nada serba mutlak, serba yakin seratus persen, padahal dasar pijakannya sangat rapuh. Di lingkungan pesantren, sering kita dengar kalimat gegabah semacam: *"Pasti anak ini yang mencuri!"*, *"Metode kami sudah terbukti seratus persen paling ampuh di seluruh dunia!"*, atau *"Santri yang tidak ikut metode ini pasti gagal!"*
 
-TUMBUH mengharamkan kesombongan intelektual semacam itu. Para ulama salaf yang paling alim sekalipun selalu mengakhiri fatwanya dengan kalimat penuh tawadhu': *Allahu A'lam bish-Shawab* (Allah yang lebih mengetahui kebenaran yang sesungguhnya). Bahkan Imam Malik bin Anas, sang imam Darul Hijrah, dari empat puluh delapan pertanyaan yang diajukan kepadanya, menjawab tiga puluh dua di antaranya dengan kalimat: *"La Adri"* (Aku belum tahu)[^5].
+TUMBUH mengharamkan kesombongan intelektual semacam itu. Para ulama salaf yang paling alim sekalipun selalu mengakhiri fatwanya dengan kalimat penuh tawadhu': *Allahu A'lam bish-Shawab* (Allah yang lebih mengetahui kebenaran yang sesungguhnya). Bahkan Imam Malik bin Anas, sang imam Darul Hijrah, dari empat puluh delapan pertanyaan yang diajukan kepadanya, menjawab tiga puluh dua di antaranya dengan kalimat: *"La Adri"* (Aku belum tahu)[^6].
 
 Ketika seorang murid bertanya: *"Tidakkah engkau malu menjawab 'tidak tahu' padahal orang-orang datang dari jauh menemuimu?"* Imam Malik menjawab dengan tegas: *"Katakan kepada orang-orang di kampungmu bahwa Malik tidak tahu!"*
 
@@ -811,11 +940,11 @@ Salah satu jebakan terbesar yang membelah dunia pendidikan Islam kontemporer ada
 
 TUMBUH berdiri di atas jalan tengah peradaban yang mulia (*wasathiyyah tamadduniyyah*): **Menghubungkan Hikmah Turats dengan Presisi Sains Modern**.
 
-Tradisi agung ini memiliki akar sejarah yang sangat mengagumkan. Dua raksasa pemikir Islam terbesar, **Hujjatul Islam Abu Hamid Al-Ghazali** (w. 505 H) dan **Qadhi Abu al-Walid Ibnu Rusyd** (w. 595 H), terlibat dalam dialektika keilmuan yang paling monumental dalam sejarah filsafat peradaban manusia:
+Tradisi keilmuan ini memiliki akar sejarah yang panjang dan berbobot. Dua raksasa pemikir Islam terbesar, **Hujjatul Islam Abu Hamid Al-Ghazali** (w. 505 H) dan **Qadhi Abu al-Walid Ibnu Rusyd** (w. 595 H), terlibat dalam dialektika keilmuan yang paling monumental dalam sejarah filsafat peradaban manusia:
 
 ```mermaid
 graph LR
-    subgraph SINTESIS_KEILMUAN_ISLAM["Dialektika Agung Turats & Akal"]
+    subgraph SINTESIS_KEILMUAN_ISLAM["Dialektika Turats & Akal Sehat"]
         G["IMAM AL-GHAZALI (Hujjatul Islam)<br/>• Menjaga Kemurnian Teologis & Batas Akal<br/>• Penekanan pada Tazkiyatun Nafs & Bashirah Kalbu<br/>• Kehati-hatian dari Jebakan Positivisme Ilusi"]
         R["IMAM IBNU RUSYD (Filsuf & Mujtahid)<br/>• Kewajiban Nalar Demonstratif (Burhan)<br/>• Penyelarasan Hikmah Filsafat dengan Syariat (Fashl al-Maqal)<br/>• Menolak Irasionalitas & Taklid Buta"]
     end
@@ -826,11 +955,11 @@ graph LR
     S --> M["Adab Bersumber dari Wahyu, Metode Dibimbing oleh Sains Presisi"]
 ```
 
-Dalam mahakaryanya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^6].
+Dalam kitabnya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^7].
 
-Satu abad kemudian, Imam Ibnu Rusyd hadir dengan karyanya *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal* dan *Tahafut at-Tahafut*. Beliau menegaskan bahwa penalaran rasional demonstratif (*al-burhan al-'aqli*) dan penelitian mendalam atas hukum alam (*sunnatullah*) bukanlah ancaman bagi syariat, melainkan sebuah **kewajiban keagamaan** yang diperintahkan langsung oleh Al-Qur'an (QS. Al-Hasyr [59]: 2: *"Fa'tabiruu yaa ulil abshaar"* — *Maka ambillah pelajaran, wahai orang-orang yang memiliki pandangan nalar!*)[^7]. Ibnu Rusyd membuktikan bahwa kebenaran wahyu yang shahih (*al-haqq*) tidak akan pernah bertentangan dengan kebenaran akal murni dan fakta alam yang terbukti (*al-haqq la yudhaddu al-haqq, bal yuwafiquhu wa yasyhadu lahu*).
+Satu abad kemudian, Imam Ibnu Rusyd hadir dengan karyanya *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal* dan *Tahafut at-Tahafut*. Beliau menegaskan bahwa penalaran rasional demonstratif (*al-burhan al-'aqli*) dan penelitian mendalam atas hukum alam (*sunnatullah*) bukanlah ancaman bagi syariat, melainkan sebuah **kewajiban keagamaan** yang diperintahkan langsung oleh Al-Qur'an (QS. Al-Hasyr [59]: 2: *"Fa'tabiruu yaa ulil abshaar"* — *Maka ambillah pelajaran, wahai orang-orang yang memiliki pandangan nalar!*)[^8]. Ibnu Rusyd membuktikan bahwa kebenaran wahyu yang shahih (*al-haqq*) tidak akan pernah bertentangan dengan kebenaran akal murni dan fakta alam yang terbukti (*al-haqq la yudhaddu al-haqq, bal yuwafiquhu wa yasyhadu lahu*).
 
-Dari dialektika agung kedua begawan ini, TUMBUH menarik kaidah operasional bagi pengasuhan pesantren:
+Dari perjumpaan pemikiran kedua ulama ini, TUMBUH menarik kaidah operasional bagi pengasuhan pesantren:
 1. **Mengambil Metode Terbaik Tanpa Kehilangan Arah Syariat**:  
    Kita tidak perlu ragu memanfaatkan instrumen psikologi modern—seperti *Functional Behavior Assessment* (FBA), *Polyvagal Theory*, atau *Positive Behavioral Interventions and Supports* (PBIS)—selama instrumen tersebut terbukti secara ilmiah membantu kita memahami mekanisme saraf santri dan tidak bertentangan dengan adab Islam. Sains perilaku modern adalah hikmah yang tercecer milik orang beriman; di mana pun ia menemukannya, ia berhak mengambilnya.
 2. **Menolak Reduksionisme Teknokratis Angka**:  
@@ -872,6 +1001,73 @@ Setiap kali terjadi kasus pelanggaran berat di asrama yang menuntut tindakan teg
 4. **Uji Maqashid Syari'ah (*Safeguarding Test*)**:  
    Apakah konsekuensi yang akan diberikan berpotensi melanggar hak perlindungan raga (*hifzh an-nafs*) atau meremukkan kehormatan nama baik santri (*hifzh al-'irdh*)? Jika ya, maka bentuk konsekuensi tersebut **wajib dibatalkan seketika dan diganti dengan restitusi yang mendidik**.
 
+---
+
+### 3.7 Bedah Bias Kognitif Pembina: Tiga Jebakan Pikiran yang Merusak Keadilan Asrama
+
+Bahkan seorang musyrif atau ustadz yang paling saleh sekalipun dapat terjatuh ke dalam ketidakadilan epistemik jika tidak menyadari cara kerja otak manusia yang rentan terhadap **Bias Kognitif (*Cognitive Biases*)**.
+
+Psikologi kognitif dan ilmu keperilakuan mengidentifikasi tiga bias utama yang paling sering melahirkan kezaliman di lingkungan pesantren 24 jam:
+
+```mermaid
+graph TD
+    subgraph TIGA_BIAS_PEMBINA["Tiga Jebakan Bias Kognitif Pembina Asrama"]
+        direction TB
+        B1["1. FUNDAMENTAL ATTRIBUTION ERROR<br/>Menghakimi santri karena tabiat buruk (internal),<br/>namun memaklumi kesalahan diri sendiri karena situasi (eksternal)."]
+        B2["2. CONFIRMATION BIAS (BIAS KONFIRMASI)<br/>Hanya mencari-cari bukti yang membenarkan prasangka awal,<br/>sembari mengabaikan fakta yang membantahnya."]
+        B3["3. HORNS EFFECT (EFEK TANDUK/STIGMA)<br/>Satu kesalahan di masa lalu membuat seluruh kebaikan santri terhapus;<br/>santri dicap abadi sebagai anak nakal."]
+    end
+```
+
+#### 1. Kesalahan Atribusi Mendasar (*Fundamental Attribution Error*)
+Ketika seorang santri terlambat bangun salat subuh, pembina dengan cepat menyimpulkan: *"Anak ini pemalas, tidak punya disiplin, dan hatinya keras!"* Pembina mengaitkan kegagalan santri semata-mata dengan faktor watak internal (*dispositional attribution*). Namun ketika pembina itu sendiri suatu hari bangun kesiangan, ia membela dirinya: *"Semalam saya kelelahan karena harus merekap absensi hingga larut malam, ditambah alarm kamar saya mati."* Pembina mengaitkan kegagalan dirinya dengan faktor situasi lingkungan (*situational attribution*).
+
+TUMBUH mewajibkan setiap pendidik untuk menerapkan kaidah husnuzhan epistemik: **Sebelum menghakimi watak internal santri, periksalah terlebih dahulu beban situasi dan lingkungan yang sedang menimpanya.**
+
+#### 2. Bias Konfirmasi (*Confirmation Bias*)
+Ketika seorang musyrif sudah terlanjur memiliki prasangka buruk kepada seorang santri (misalnya Santri Fikri), mata musyrif tersebut secara selektif hanya akan memperhatikan saat Fikri bercanda atau mengantuk di kelas, sembari berbisik: *"Tuh kan, memang Fikri tidak pernah niat belajar!"* Namun di saat yang sama, musyrif tersebut buta terhadap kenyataan bahwa Fikri tadi malam membantu merapikan seprai ranjang kawannya yang sakit. Otak pembina secara otomatis menyaring bukti-bukti yang tidak sesuai dengan prasangkanya.
+
+#### 3. Efek Tanduk dan Pelabelan Permanen (*The Horns Effect & Labeling*)
+Sekali seorang santri pernah melakukan pelanggaran berat (misalnya mencuri sandal atau merokok), cap "santri bermasalah" melekat laksana tato permanen di dahinya. Setiap kali ada sandal hilang atau ada bau asap rokok di kamar mandi, nama dialah yang pertama kali diseret dan diinterogasi. Pelabelan permanen ini secara neurobiologis membunuh harapan anak untuk berubah dan mendorongnya masuk ke dalam ramalan yang terwujud dengan sendirinya (*Self-Fulfilling Prophecy*): *"Toh semua ustadz menganggapku penjahat, jadi buat apa aku bersikap baik?"*
+
+TUMBUH menetapkan aturan ketat: **Setiap hari adalah lembaran putih baru bagi fitrah santri**. Sanksi yang telah diselesaikan dengan restitusi nyata wajib menghapus seluruh catatan noda di mata sosial para pengasuh.
+
+---
+
+### 3.8 Logbook Epistemik Pembina: Standar Triangulasi Bukti Sebelum Putusan Disiplin
+
+Untuk mengeliminasi bias personal dan memastikan setiap keputusan disiplin berdiri di atas landasan yang shahih, tim pengasuhan TUMBUH mengoperasionalkan **Format Logbook Epistemik Triangulasi**:
+
+```text
+               LEMBAR AUDIT VERIFIKASI EPISTEMIK KASUS SANTRI
+┌───────────────────────────────────────────────────────────────────────────┐
+│ NAMA SANTRI   : .......................   KAMAR/ASRAMA : ................ │
+│ TANGGAL/WAKTU : .......................   MUSYRIF AUDITOR: .............. │
+├───────────────────────────────────────────────────────────────────────────┤
+│ 1. DESKRIPSI PERILAKU TERAMATI (FAKTUAL & OBJEKTIF - BUKAN LABEL MORAL):  │
+│    [Tuliskan apa yang terlihat dan terdengar secara konkret tanpa asumsi] │
+│    Contoh: "Santri melempar buku catatan ke lantai dan keluar kelas       │
+│    pukul 09.15 WIB." (BUKAN: "Santri bersikap kurang ajar dan sombong")   │
+├───────────────────────────────────────────────────────────────────────────┤
+│ 2. TRIANGULASI SUMBER BUKTI (MINIMAL 3 TITIK PEMERIKSAAN):                │
+│    [ ] Sumber 1: Kesaksian Pengamatan Langsung Pembina (Bukan desas-desus)│
+│    [ ] Sumber 2: Rekaman Fakta Fisik / Log Absensi / Cek Lingkungan       │
+│    [ ] Sumber 3: Konfirmasi Tertutup dari Santri yang Bersangkutan (Aman) │
+├───────────────────────────────────────────────────────────────────────────┤
+│ 3. UJI DERAJAT KEPASTIAN KLAIM:                                           │
+│    [ ] Didukung Kuat (Strongly Supported) -> Dapat Diproses               │
+│    [ ] Masih Dugaan Hipotesis (Hypothesized) -> WAJIB TABAYYUN LANJUTAN   │
+├───────────────────────────────────────────────────────────────────────────┤
+│ 4. AUDIT ANTESEDEN LINGKUNGAN (APA PEMICU SEBELUM INSIDEN?):              │
+│    - Apakah santri tidur minimal 7 jam semalam? ......................... │
+│    - Apakah ada provokasi / perundungan dari kawan sekamar? ............. │
+│    - Apakah ada kabar duka dari keluarga kandung? ....................... │
+├───────────────────────────────────────────────────────────────────────────┤
+│ 5. REKOMENDASI EDUKATIF-RESTORATIF (RESTITUSI MEMPERBAIKI KERUSAKAN):     │
+│    ...................................................................... │
+└───────────────────────────────────────────────────────────────────────────┘
+```
+
 Dengan tata kelola epistemik yang ketat ini, pesantren terlindungi dari dosa kezaliman institusional. Tidak ada lagi santri yang menjadi korban fitnah asrama; tidak ada lagi air mata keputusasaan anak yang dihukum atas dosa yang tidak pernah ia lakukan.
 
 Dari kebeningan epistemologi ini, kita kini memiliki alat berpikir yang adil dan tajam. Pertanyaan berikutnya menanti kita: *Siapakah sesungguhnya hakikat anak manusia yang sedang kita bimbing ini? Bagaimanakah susunan anatomi jiwa fitrahnya—antara Ruh, Qalb, 'Aql, dan Nafs—bergerak di dalam tubuh biologisnya?*
@@ -882,14 +1078,15 @@ Inilah yang akan kita jelajahi secara mendalam dalam **Bab 4: Antropologi Jiwa S
 
 ### Catatan Kaki & Rujukan Akademik
 
-[^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 6.
-[^2]: Al-Qur'an al-Karim, Surah An-Najm [53]: 23.
-[^3]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Hamzah bin Zuhair Hafizh (Madinah: Syarikah al-Madinah al-Munawwarah, 1993), Jilid I, hlm. 35–48; Syed Muhammad Naquib al-Attas, *The Epistemology of Islam: A Definition and Framework* (Kuala Lumpur: ISTAC, 1990).
-[^4]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/02_EPISTEMOLOGY/05-Jenis-dan-Tingkat-Klaim.md` dan `08-Implikasi-Epistemology-bagi-TUMBUH.md`.
-[^5]: Abu Umar Yusuf bin Abdil Barr An-Namari Al-Qurthubi, *Jami' Bayan al-'Ilm wa Fadhlihi*, Tahqiq: Abul Asybal Az-Zuhairi (Riyadh: Dar Ibn al-Jauzi, 1994), Jilid II, hlm. 838–842, riwayat no. 1582.
-[^6]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Tahafut al-Falasifah*, diedit oleh Sulaiman Dunya (Kairo: Dar al-Ma'arif, 1972), hlm. 72–89; Abu Hamid Al-Ghazali, *Al-Munqidz min adh-Dhalal*, diedit oleh Dr. Abdul Halim Mahmud (Kairo: Dar al-Kutub al-Haditsah, 1968), hlm. 45–60.
-[^7]: Abu al-Walid Muhammad bin Ahmad bin Rusyd (Averroes), *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*, diedit oleh Dr. Muhammad 'Imarah (Kairo: Dar al-Ma'arif, 1983), hlm. 28–42; George F. Hourani, *Averroes on the Harmony of Religion and Philosophy* (London: Luzac & Co., 1961).
-
+[^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 6; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 370–372.
+[^2]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an*, Jilid XVI, hlm. 310–314.
+[^3]: Al-Qur'an al-Karim, Surah An-Najm [53]: 23.
+[^4]: Abdurrahman bin Nashir As-Sa'di, *Taisir al-Karim ar-Rahman fi Tafsir Kalam al-Mannan* (Beirut: Mu'assasah ar-Risalah, 2000), hlm. 819.
+[^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Hamzah bin Zuhair Hafizh (Madinah: Syarikah al-Madinah al-Munawwarah, 1993), Jilid I, hlm. 35–48; Syed Muhammad Naquib al-Attas, *The Epistemology of Islam: A Definition and Framework* (Kuala Lumpur: ISTAC, 1990).
+[^6]: Abu Umar Yusuf bin Abdil Barr An-Namari Al-Qurthubi, *Jami' Bayan al-'Ilm wa Fadhlihi*, Tahqiq: Abul Asybal Az-Zuhairi (Riyadh: Dar Ibn al-Jauzi, 1994), Jilid II, hlm. 838–842, riwayat no. 1582.
+[^7]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Tahafut al-Falasifah*, diedit oleh Sulaiman Dunya (Kairo: Dar al-Ma'arif, 1972), hlm. 72–89; Abu Hamid Al-Ghazali, *Al-Munqidz min adh-Dhalal*, diedit oleh Dr. Abdul Halim Mahmud (Kairo: Dar al-Kutub al-Haditsah, 1968), hlm. 45–60.
+[^8]: Abu al-Walid Muhammad bin Ahmad bin Rusyd (Averroes), *Fashl al-Maqal fima bayna al-Hikmah wa asy-Syari'ah min al-Ittishal*, diedit oleh Dr. Muhammad 'Imarah (Kairo: Dar al-Ma'arif, 1983), hlm. 28–42; George F. Hourani, *Averroes on the Harmony of Religion and Philosophy* (London: Luzac & Co., 1961).
+[^9]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/02_EPISTEMOLOGY/05-Jenis-dan-Tingkat-Klaim.md` dan `08-Implikasi-Epistemology-bagi-TUMBUH.md`.
 
 ---
 
@@ -1006,13 +1203,17 @@ graph TD
 
 #### 1. Nafs Ammarah bis-Su' (Dorongan Primitif dan Impulsif)
 $$\text{وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي}$$
-> *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^4]
+> *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^2]
+
+Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafsu yang selalu condong mengajak kepada keburukan (*ammarah bis-su'*), kecuali jiwa yang dirahmati dan diteguhkan oleh Allah melalui bimbingan taufik-Nya.[^3] 
 
 Ini adalah kondisi kejiwaan dasar ketika dorongan biologis purba dan hawa nafsu menguasai kendali diri. Pada santri remaja, *nafs ammarah* termanifestasi dalam perilaku impulsif: ingin menang sendiri saat antre mandi, menyembunyikan makanan teman, berbohong demi menghindari tugas piket, atau melampiaskan amarah dengan memukul. Jika santri berada pada tahap ini, menghujamnya dengan hukuman yang menghinakan justru akan mengobarkan api amarahnya dan membuatnya semakin membangkang.
 
 #### 2. Nafs Lawwamah (Gejolak Nurani dan Penyesalan Suci)
 $$\text{وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ}$$
-> *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^5]
+> *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^4]
+
+Imam Al-Hasan Al-Bashri sebagaimana dinukil oleh Imam Ath-Thabari dan Ibnu Katsir menafsirkan *An-Nafs al-Lawwamah* sebagai jiwa seorang mukmin sejati: *"Engkau tidak akan mendapati seorang mukmin sejati melainkan ia senantiasa mencela dirinya: 'Apa maksud ucapanku tadi? Apa maksud perbuatanku tadi? Mengapa aku tergelincir?' Sedangkan orang fajir terus melangkah tanpa pernah menyesali kelalaiannya."*[^5] 
 
 Allah ﷻ bersumpah dengan agung atas kemuliaan *Nafs Lawwamah*! Ini adalah tingkatan jiwa yang sangat istimewa pada usia remaja. Santri pada tahap ini mungkin saja tergelincir melakukan kesalahan adab karena godaan sesaat; namun begitu perbuatan itu selesai, dadanya terasa sesak, nuraninya bergetar mencela dirinya sendiri, dan ia diliputi oleh rasa penyesalan mendalam: *"Mengapa tadi aku membentak temanku? Ya Allah, ampuni dosaku..."*
 
@@ -1023,6 +1224,8 @@ Tugas pendidik saat santri berada dalam fase *lawwamah* bukanlah mempermalukanny
 #### 3. Nafs Muthma'innah (Puncak Kedamaian dan Keteguhan Adab)
 $$\text{يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً}$$
 > *"Wahai jiwa yang tenang! Kembalilah kepada Rabb-mu dengan hati yang rida dan diridai-Nya..."* (QS. Al-Fajr [89]: 27–28)[^6]
+
+Imam Ath-Thabari meriwayatkan bahwa *An-Nafs al-Muthma'innah* adalah jiwa yang tenang dalam keyakinan tauhid, mantap bahwa Allah adalah Rabb-nya, ridha terhadap takdir dan syariat-Nya, serta teguh dalam ketaatan tanpa keraguan.[^7]
 
 Inilah derajat kematangan tertinggi (*ar-rusyd*): jiwa yang telah mencapai ketenteraman mendalam (*thuma'ninah*). Gejolak syahwat dan amarah telah berhasil dijinakkan oleh cahaya iman dan nalar akal budi. Santri yang telah mencapai derajat ini beribadah dengan penuh kenikmatan batin, beradab luhur secara spontan (*malakah*), dan tetap teguh memegang nilai-nilai kebaikan sekalipun berada sendirian tanpa ada pengawasan musyrif.
 
@@ -1093,9 +1296,47 @@ Dengan pendekatan antropologi multidimensi TUMBUH: sakit fisik Farhan disembuhka
 
 ---
 
-### 4.6 Dari Hakikat Insan Menuju Praksis Tarbiyah
+### 4.6 Tazkiyatun Nafs Klasik dan Regulasi Sistem Saraf: Jembatan Turats dan Neurosains
 
-Kita telah menuntaskan penjelajahan agung dalam **Bagian II**:
+Bagaimanakah tradisi tasawuf klasik para ulama mu'tabar memandang proses penyembuhan jiwa yang sedang terluka atau tergelincir syahwat?
+
+Imam Al-Ghazali dalam *Ihya' 'Ulum ad-Din* meletakkan dua pilar utama penyucian jiwa:
+1. **Al-Mujahadah**: Berperang melawan dorongan hawa nafsu destruktif dengan cara meninggalkan kebiasaan buruk secara sadar dan mematahkan pemicunya (*qath'u asbab asy-syahwat*).
+2. **Ar-Riyadhah**: Pelatihan pembiasaan jiwa melalui pembebanan amal-amal kebajikan yang berlawanan (*'ilaj al-illati bi dhiddiha*), seperti melatih jiwa yang sombong dengan tugas membersihkan sandal jamaah masjid, atau melatih lisan yang kasar dengan memperbanyak zikir istighfar dan diam bertafakur.
+
+Secara menakjubkan, apa yang dirumuskan Al-Ghazali sebagai *riyadhatun nafs* berkorespondensi satu-satu dengan temuan neurosains modern tentang **Regulasi Saraf Otonom (*Autonomic Nervous System Regulation*)** dan **Plastisitas Sinaptik**:
+
+```mermaid
+graph LR
+    subgraph SINTESIS_PENYUCIAN_JIWA["Integrasi Tazkiyah dan Neurosains"]
+        T["TAZKIYATUN NAFS (AL-GHAZALI)<br/>• Riyadhah & Mujahadah<br/>• Zikir Khafi & Munajat Fajar<br/>• Wudhu Air Dingin saat Marah"] 
+        <--> 
+        N["NEUROSAINS KOGNITIF<br/>• Stimulasi Saraf Vagus (Vagal Tone)<br/>• Regulasi Dopamin & Menurunkan Kortisol<br/>• Penguatan Koneksi Inhibitorik PFC-Amigdala"]
+    end
+```
+
+Ketika seorang santri diajarkan berwudhu dengan membasuh air dingin ke wajah saat dadanya mendidih oleh amarah, secara neurobiologis suhu dingin memicu **Mammalian Dive Reflex** yang seketika mengaktifkan saraf parasimpatis, menurunkan detak jantung (*down-regulation*), dan meredam lonjakan adrenalin di amigdala.
+
+Demikian pula ketika santri diajak duduk tafakur melantunkan wirid zikir dengan tarikan napas panjang dan lambat: aktivitas tersebut meningkatkan variabilitas detak jantung (*Heart Rate Variability / HRV*), membanjiri otak dengan hormon oksitosin dan serotonin, serta memulihkan kapasitas neokorteks untuk berpikir jernih. Tazkiyatun nafs bukanlah mistisisme irasional; tazkiyatun nafs adalah sains penyelarasan fitrah ruhani dan biologi raga yang sempurna.
+
+---
+
+### 4.7 Protokol Deteksi Dini Kesehatan Jiwa dan Ruhani Santri Asrama
+
+Dalam ekosistem asrama 24 jam, para musyrif dan wali asrama dilatih untuk memiliki radar kepekaan (*bashirah pengasuhan*) guna mendeteksi santri-santri yang jiwanya sedang mengalami krisis sebelum meledak menjadi pelanggaran terbuka:
+
+| Kategori Tanda Bahaya | Gejala Teramati pada Santri (*Observable Indicators*) | Akar Kebutuhan Jiwa Tersembunyi | Tindakan Pertama Musyrif TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Penarikan Diri Ekstrem (*Social Withdrawal*)** | Santri mengurung diri di ranjang dengan tirai tertutup; tidak mau makan di ruang bersama; menolak berbicara saat disapa. | Mengalami *homesickness* berat, depresi terselubung, atau korban intimidasi geng sekamar. | Musyrif mendekati secara privat; menawarkan air hangat; mendengarkan tanpa menasihati; merujuk ke BK. |
+| **Agresivitas Mendadak (*Sudden Aggression*)** | Santri yang biasanya pendiam tiba-tiba membanting pintu, berteriak saat ditegur, atau menendang lemari. | Sistem saraf mengalami *hyperarousal shutdown* akibat akumulasi beban tugas atau rasa terhina. | Berikan ruang tenang (*cooling-off*); jauhkan dari kerumunan; tunggu denyut jantung stabil sebelum dialog. |
+| **Kemunduran Somatik (*Psychosomatic Complaints*)** | Sering mengeluh sakit perut, mual saat jam halaqah, pusing kepala menjelang ujian tanpa bukti medis infeksi. | Manifestasi fisik dari kecemasan akut (*severe performance anxiety*) terhadap target hafalan. | Audit target hafalan bersama guru tahfidz; pecah target menjadi porsi kecil (*chunking*); redakan kecemasan. |
+| **Penurunan Higienitas Drastis (*Self-Neglect*)** | Berhari-hari tidak mengganti baju; tempat tidur sangat berantakan; tidak mandi berulang kali. | Kehilangan gairah hidup (*apathy*) dan kelelahan mental mendalam (*depressive symptoms*). | Dampingi merapikan tempat tidur bersama musyrif dengan penuh kasih sayang; evaluasi asupan gizi dan tidur. |
+
+---
+
+### 4.8 Dari Hakikat Insan Menuju Praksis Tarbiyah
+
+Kita telah menuntaskan telaah dasar dalam **Bagian II**:
 * Dalam **Bab 3**, kita telah menegakkan keadilan berpikir dan epistemologi terpadu antara wahyu, nalar, dan fakta empiris.
 * Dalam **Bab 4**, kita telah membedah kedalaman jiwa santri: melampaui pucuk gunung es perilaku menuju keutuhan enam dimensi jasmani, kognitif, afektif, kehendak, amal, dan ekosistem.
 
@@ -1103,22 +1344,26 @@ Kini, pertanyaan terbesar dalam peradaban pendidikan kepesantrenan membentang di
 > **Jika manusia santri memiliki kedalaman jiwa dan dinamika perkembangan seperti itu, bagaimanakah cara kita mendidik, menuntun, dan mentransformasi karakternya secara berkelanjutan tanpa merusak fitrahnya?**
 > **Bagaimanakah ilmu neurosains mutakhir berpadu dengan konsep Ta'dib para ulama salaf dalam merancang ekosistem keteladanan (Qudwah Hasanah) 24 jam?**
 
-Inilah cakrawala baru yang akan kita bedah secara tuntas dalam **BAGIAN III: FALSAFAH TARBIYAH, PERKEMBANGAN, & KEPEMIMPINAN QUDWAH**.
+Jika jiwa santri diciptakan suci dengan akal yang mulia, mengapa di usia 12–15 tahun mereka justru kerap berperilaku di luar nalar? Mengapa nasihat yang diulang puluhan kali seolah menguap di depan pintu asrama? 
+
+Sains otak dan neurosains perkembangan di Bab 5 menyingkap tabir biologis ini—membuka mata kita tentang apa yang sesungguhnya sedang terjadi di dalam kepala seorang santri remaja.
 
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Iman, Bab Fadhl Man Istabra'a li Dinihi, hadits no. 52; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Musaqah, Bab Akhdz al-Halal wa Tark asy-Syubuhat, hadits no. 1599.
-[^2]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid III, *Kitab Syarh 'Aja'ib al-Qalb*, hlm. 3–18.
-[^3]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, Tahqiq: Muhammad Hamid al-Fiqi (Beirut: Dar al-Ma'rifah, 1975), Jilid I, hlm. 74–85; Ibnu Qayyim al-Jauziyyah, *Ar-Ruh* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1975), hlm. 210–235.
-[^4]: Al-Qur'an al-Karim, Surah Yusuf [12]: 53.
-[^5]: Al-Qur'an al-Karim, Surah Al-Qiyamah [75]: 2.
+[^2]: Al-Qur'an al-Karim, Surah Yusuf [12]: 53.
+[^3]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid IV, hlm. 396–397.
+[^4]: Al-Qur'an al-Karim, Surah Al-Qiyamah [75]: 2.
+[^5]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 55–58; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 275–277.
 [^6]: Al-Qur'an al-Karim, Surah Al-Fajr [89]: 27–28.
-[^7]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE/02-Dimensi-dan-Struktur-Manusia.md` dan `03-Akal-Hati-Kehendak-dan-Agency.md`.
+[^7]: Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 434–438; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 403–405.
 [^8]: Laurence Steinberg, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Mariner Books, 2015), hlm. 65–94; B.J. Casey, Rebecca M. Jones, & Todd A. Hare, "The Adolescent Brain", *Annals of the New York Academy of Sciences*, Vol. 1124 (2008), hlm. 111–126.
 [^9]: Abu Ali Ahmad bin Muhammad Miskawaih, *Tahdzib al-Akhlaq wa Tath-hir al-A'raq*, Tahqiq: Dr. Imad al-Hilali (Beirut: Dar al-Kutub al-'Ilmiyyah, 2011), hlm. 35–42; Abdurrahman Ibnu Khaldun, *Al-Muqaddimah* (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan malakah melalui latihan berulang (*al-irtiyadh*).
-
+[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid III, *Kitab Syarh 'Aja'ib al-Qalb*, hlm. 3–18.
+[^11]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, Tahqiq: Muhammad Hamid al-Fiqi (Beirut: Dar al-Ma'rifah, 1975), Jilid I, hlm. 74–85; Ibnu Qayyim al-Jauziyyah, *Ar-Ruh* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1975), hlm. 210–235.
+[^12]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE/02-Dimensi-dan-Struktur-Manusia.md` dan `03-Akal-Hati-Kehendak-dan-Agency.md`.
 
 ---
 
@@ -1207,126 +1452,9 @@ Masa santri tinggal di asrama (usia 12 hingga 18 tahun) adalah **Jendela Plastis
 
 Maka bergetarlah wahai para pendidik! Setiap perkataan yang kita ucapkan dan setiap perlakuan yang kita berikan kepada santri di lorong asrama bukanlah peristiwa yang hilang ditelan angin; setiap perlakuan itu secara fisik sedang **memahat arsitektur biologis otak generasi penerus umat**.
 
----
+Setelah kita memahami bahwa santri remaja adalah mobil Ferrari bertenaga monster dengan rem sepeda yang rapuh, pertanyaan mendasar segera mengemuka: *Jika ancaman hukuman dan bentakan terbukti merusak otak mereka, metode pendidikan dan ekosistem seperti apa yang mampu memasang 'rem moral' tersebut ke dalam jiwa mereka? Bagaimana falsafah tarbiyah dan ta'dib para nabi melatih karakter tanpa kekerasan?*
 
-### 5.3 Karakteristik Perkembangan Non-Linier: Fenomena Regresi Perkembangan Semu
-
-Banyak pengurus pesantren dan musyrif kamar memiliki ekspektasi yang keliru terhadap dinamika pertumbuhan karakter santri. Mereka membayangkan bahwa perkembangan adab santri akan bergerak laksana **garis lurus menanjak tanpa jeda (*linear progression*)**: bulan pertama santri paham wudhu, bulan kedua tertib bangun subuh, bulan ketiga rajin puasa daud, dan seterusnya tanpa pernah mundur ke belakang.
-
-Ketika pada bulan keempat santri yang awalnya tampak sangat tertib tiba-tiba mengalami kemerosotan—ia mulai terlambat masuk kelas, malas merapikan kasurnya, atau menangis ingin pulang—para pembina kerap merasa frustrasi dan putus asa: *"Percuma dididik! Santri ini ternyata tidak ada perubahan, makin lama di pondok kelakuannya malah makin rusak!"*
-
-Penilaian tersebut adalah kekeliruan besar. Dalam psikologi perkembangan (*Developmental Psychology*), pertumbuhan manusia diakui secara universal **TIDAK PERNAH BERJALAN LINIER**[^6]. 
-
-Pertumbuhan jiwa santri bergerak laksana gelombang spiral yang dinamis: maju dua langkah, tertahan sejenak, terkadang mundur satu langkah untuk menghimpun kekuatan, lalu melompat maju tiga langkah ke depan:
-
-```mermaid
-graph TD
-    A["Fase Adaptasi Awal (Semangat Baru & Kepatuhan Permukaan)"] --> B["Fase Lonjakan Tuntutan (Ujian, Beban Hafalan Meningkat)"]
-    B --> C["REGRESI PERKEMBANGAN SEMU (DEVELOPMENTAL REGRESSION)<br/>(Santri Tampak Rewel, Melanggar Aturan Kecil, Menarik Diri)"]
-    
-    C -->|Respons Lama: Dibentak & Dihukum Keras| D["Trauma Kronis, Karakter Patah & Putus Asa"]
-    C -->|Respons TUMBUH: Scaffolding, Dialog & Dukungan Nutrisi-Istirahat| E["KONSOLIDASI JIWA & MATURASI BARU<br/>(Melompat ke Derajat Kemandirian yang Lebih Tinggi)"]
-```
-
-Fenomena ini dikenal dalam sains perkembangan sebagai **Regresi Perkembangan Semu (*Developmental Regression in Service of the Ego*)**. 
-
-Ketika seorang santri sedang bersiap melangkah ke tingkat kematangan kognitif atau sosial yang lebih kompleks—misalnya ia baru saja dipindahkan ke jenjang kemandirian yang lebih tinggi, atau baru menghadapi beban hafalan matan yang sangat berat—sistem saraf otaknya mengalami kelebihan beban sementara (*temporary cognitive and emotional overload*). Dalam kondisi tersebut, tubuh biologisnya secara alami mencari rasa aman dengan memunculkan kembali perilaku-perilaku kekanak-kanakan masa lalu: mengompol kembali, menangis rindu ibu, atau bersikap manja dan mencari perhatian musyrif secara berlebihan.
-
-Jika musyrif merespons fase regresi ini dengan amarah dan sanksi fisik, santri akan merasa ditolak dan mengalami luka batin yang dalam. 
-
-Namun jika musyrif memahami antropologi perkembangan TUMBUH, musyrif akan menyikapi fase regresi ini dengan senyuman ketenangan: *"Ini bukan tanda kegagalan; ini adalah tanda bahwa jiwa anak ini sedang bertarung menata struktur kapasitas barunya. Yang ia butuhkan saat ini bukanlah hukuman, melainkan sandaran pelukan ketenangan (*scaffolding*) agar sistem sarafnya kembali stabil."*
-
----
-
-### 5.4 Tiga Kebutuhan Psikologis Dasar Santri Remaja (Self-Determination Theory)
-
-Mengapa banyak santri di asrama kehilangan gairah belajar (*demotivated*), apatis terhadap program pondok, atau memberontak secara diam-diam?
-
-Prof. Richard Ryan dan Edward Deci dalam teori motivasi paling berpengaruh di dunia, **Self-Determination Theory (SDT)**, membuktikan bahwa jiwa manusia remaja hanya akan bertumbuh secara sehat dan termotivasi dari dalam (*intrinsically motivated*) jika **Tiga Kebutuhan Psikologis Dasar (*Basic Psychological Needs*)** terpenuhi oleh lingkungannya[^7]:
-
-```mermaid
-graph TD
-    subgraph TIGA_KEBUTUHAN_JIWA["Tiga Kebutuhan Psikologis Asasi Santri (SDT)"]
-        O["1. OTONOMI (AUTONOMY)<br/>Kebutuhan Merasa Memiliki Pilihan Sadar & Tidak Selalu Dikendalikan Seperti Robot"]
-        K["2. KOMPETENSI (COMPETENCE)<br/>Kebutuhan Merasa Mampu Menguasai Tantangan, Melihat Kemajuan Diri & Dihargai Usahanya"]
-        R["3. KETERIKATAN / KASIH SAYANG (RELATEDNESS)<br/>Kebutuhan Merasa Diterima, Dicintai, Aman & Memiliki Saudara yang Tulus"]
-    end
-
-    O --> S["IKLIM ASRAMA PESANTREN TUMBUH"]
-    K --> S
-    R --> S
-
-    S --> M["Lahirnya Santri Mandiri, Cinta Ilmu, Beradab Otentik & Tangguh"]
-```
-
-Mari kita bedah bagaimana ketiga kebutuhan ini wajib dihidupkan di lingkungan pesantren 24 jam:
-
-#### 1. Kebutuhan Otonomi (*Autonomy*)
-Otonomi **bukanlah** kebebasan liar tanpa batas (*unbridled freedom*). Otonomi bermakna **dorongan batin untuk bertindak atas dasar kemauan sadar, bukan karena pemaksaan dari luar**. Santri remaja memiliki kebutuhan biologis untuk merasakan bahwa suaranya didengar dan pilihannya dihargai.
-
-Pesantren yang mematikan otonomi memperlakukan santri laksana pion catur: santri tidak pernah diberi ruang memilih, tidak pernah diajak bermusyawarah, dan seluruh jadwalnya diatur hingga menit demi menit tanpa ada ruang bernapas. Akibatnya, santri merasa hidupnya dijajah, melahirkan sikap pasif-agresif atau pemberontakan liar saat pengawas lengah.
-
-Dalam ekosistem TUMBUH, otonomi santri dilatih secara bertahap:
-* Santri dilibatkan dalam menentukan pembagian tugas kebersihan kamar bersama teman-temannya.
-* Santri diberi ruang memilih target capaian hafalan hariannya dalam rentang yang proporsional.
-* Santri diajak berdialog mengenai hikmah di balik aturan, sehingga ia menaati aturan tersebut bukan karena terpaksa, melainkan karena ia **memilih untuk sepakat** bahwa aturan itu baik bagi keselamatannya.
-
-#### 2. Kebutuhan Kompetensi (*Competence*)
-Setiap santri haus akan rasa pencapaian: *"Aku mampu! Usahaku ada hasilnya!"*
-
-Tragedi di sebagian pesantren adalah digunakannya kurikulum yang menerapkan satu ukuran seragam (*one size fits all*). Santri yang memiliki bakat linguistik dipuji setinggi langit, sementara santri yang lambat dalam nahwu namun sangat terampil dalam kepemimpinan sosial dan seni kaligrafi dicap sebagai "santri bodoh tak berguna". Santri yang merasa dirinya selalu gagal (*learned helplessness*) akan segera mematikan usahanya dan melampiaskan rasa rendah dirinya melalui kenakalan asrama.
-
-TUMBUH merancang sistem penjenjangan yang mengakui keberagaman fitrah (*multiple intelligences*). Kemajuan santri tidak dibandingkan secara kejam dengan santri lain (*norm-referenced comparison*), melainkan dibandingkan dengan rekam jejak dirinya sendiri di masa lalu (*ipsative progress*). Sekecil apa pun kemajuan adab yang ditunjukkan oleh seorang santri diapresiasi secara tulus oleh pembina, memantik hormon dopamin alami yang mendorongnya untuk terus belajar.
-
-#### 3. Kebutuhan Keterikatan dan Kasih Sayang (*Relatedness / Belonging*)
-Inilah kebutuhan yang paling menentukan bagi kelangsungan jiwa santri di asrama. Santri remaja rela melakukan apa saja—bahkan hal-hal yang berbahaya sekalipun—demi merasa **diterima dan tidak dikucilkan oleh kelompok teman sebayanya**.
-
-Jika ekosistem pesantren dingin, sarat dengan kecurigaan antar-kamar, dan para musyrifnya bersikap menjaga jarak laksana komandan militer, santri akan mengalami kelaparan emosional (*emotional starvation*). Kelaparan emosional inilah yang menjadi akar subur merebaknya geng-geng asrama liar, solidaritas sempit senioritas, hingga hubungan pertemanan menyimpang (*toxic attachment*).
-
-TUMBUH merancang arsitektur asrama sebagai sebuah **Keluarga Besar Ruhaniyah (*Bi'ah Ukhuwwah*)**:
-* Musyrif hadir sebagai sosok pengganti ayah (*in loco parentis*) yang hangat dan dapat didekati kapan saja.
-* Tradisi makan bersama dalam satu nampan (*talam halaqah*), lingkaran muhasabah saling mendoakan sebelum tidur, serta kultur saling memaafkan dihidupkan sebagai ritual harian yang mengikat hati mereka dalam ukhuwah imaniyah yang kokoh.
-
----
-
-### 5.5 Integrasi Turats: Tahapan Tamyiz, Murahaqah, dan Baligh dalam Fiqh Tarbiyah
-
-Bagaimanakah khazanah keilmuan Islam memetakan perjalanan usia remaja ini? Jauh sebelum psikologi Barat merumuskan teori perkembangan, para fukaha dan pakar adab Islam telah membagi perjalanan hidup manusia ke dalam tahapan-tahapan yang sangat runtut[^8]:
-
-```mermaid
-graph LR
-    subgraph TAHAPAN_USIA_TURATS["Tahapan Usia Santri dalam Tradisi Islam"]
-        T1["1. SHIBA (Kanak-kanak Awal)<br/>Usia 0–7 Tahun: Bermain, Kehangatan Ibu & Belum Ada Beban Hukum"]
-        T2["2. TAMYIZ (Kecerdasan Membedakan)<br/>Usia 7–10 Tahun: Mulai Dilatih Shalat & Dibiasakan Adab Dasar Lahiriah"]
-        T3["3. MURAHAQAH (Masa Transisi Remaja Menjelang Baligh)<br/>Usia 11–15 Tahun: Pematangan Hormon, Pergolakan Jiwa & Latihan Memikul Beban"]
-        T4["4. BULUGH & RUSYD (Kematangan Taklif Syariat)<br/>Usia 15+ Tahun: Mukallaf Penuh, Menanggung Dosa Sendiri & Menuju Kemandirian Moral"]
-    end
-
-    T1 --> T2 --> T3 --> T4
-```
-
-Para ulama menaruh perhatian yang teramat mendalam pada masa **Al-Murahaqah** (kata yang berakar dari *ra-ha-qa* yang bermakna mendekat, terburu-buru, atau tertutup). Di fase transisi inilah syariat menetapkan sebuah metode pembinaan yang luar biasa proporsional:
-
-Rasulullah ﷺ bersabda dalam hadits pedoman pengasuhan yang sangat populer:
-
-$$\text{مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
-
-> *"Perintahkanlah anak-anakmu mendirikan salat ketika mereka berusia tujuh tahun; dan berikan ketegasan (evaluasi tegas) atas kelalaian mereka saat berusia sepuluh tahun; serta pisahkanlah tempat-tempat tidur mereka."*  
-> (HR. Abu Dawud no. 495 dan Ahmad no. 6689, sanad hasan)[^9]
-
-Perhatikan hikmah pedagogis tingkat tinggi di balik hadits ini!
-1. **Masa Latihan Tiga Tahun Penuh (Usia 7 hingga 10 Tahun)**:  
-   Antara usia tujuh hingga sepuluh tahun terdapat rentang waktu **tiga tahun penuh (lebih dari 1.000 hari dan 5.000 kali salat fardhu)**! Dalam kurun waktu tiga tahun tersebut, perintah salat dilakukan dengan **kelemahlembutan, pengulangan yang sabar, pujian, dan pembiasaan tanpa kekerasan**. Anak dilatih membiasakan raga biologisnya terbiasa dengan ritme wudhu dan sujud.
-2. **Makna Ketegasan pada Usia Sepuluh Tahun**:  
-   Ketika anak telah berusia sepuluh tahun dan telah dilatih selama 5.000 kali salat namun masih malas, barulah syariat mengizinkan adanya ketegasan. Namun para fukaha—seperti Imam Asy-Syafi'i dan Imam An-Nawawi—menegaskan dengan sangat ketat batas-batas ketegasan tersebut: *dharbun ghairu mubarrih* (bukan pukulan yang melukai fisik, bukan pukulan di wajah, tidak boleh meninggalkan bekas memar, tidak boleh mematahkan tulang, dan semata-mata bersifat teguran simbolik untuk menyadarkan keseriusan taklif, bukan pelampiasan nafsu amarah)*[^10].
-3. **Pemisahan Tempat Tidur (*Farriquu Bainahum fil-Madhaaji'*)**:  
-   Ini adalah ketetapan preventif (*environmental safeguarding*) yang sangat agung. Pada usia sepuluh tahun, syariat memerintahkan pemisahan tempat tidur untuk menjaga kesucian pandangan, privasi tubuh, serta mencegah timbulnya gejolak seksual prematur di antara anak-anak asrama.
-
-Pemahaman turats ini menegaskan bahwa: **Islam tidak pernah membenarkan metode "kekerasan instan"**. Sebelum sebuah sanksi tegas dijatuhkan, syariat menuntut adanya proses pengajaran yang berulang, pendampingan yang sabar, dan penataan lingkungan yang aman.
-
-Memahami dinamika biologis dan ruhaniyah remaja ini menjadi pijakan kokoh bagi kita untuk melangkah ke bab berikutnya: bagaimanakah konsep Tarbiyah, Ta'dib, dan Ta'lim dirajut menjadi sebuah ekosistem keteladanan yang hidup (*Qudwah Hasanah*) di asrama 24 jam? 
-
-Inilah yang akan kita jelajahi dalam **Bab 6: Falsafah Tarbiyah, Ta'dib, dan Ekosistem Keteladanan**.
+Di Bab 6, kita akan menyingkap rahasia keteladanan qudwah dan bi'ah shalihah dalam falsafah tarbiyah dan ta'dib.
 
 ---
 
@@ -1337,12 +1465,14 @@ Inilah yang akan kita jelajahi dalam **Bab 6: Falsafah Tarbiyah, Ta'dib, dan Eko
 [^3]: Jay N. Giedd dkk., "Brain Development During Childhood and Adolescence: A Longitudinal MRI Study", *Nature Neuroscience*, Vol. 2, No. 10 (1999), hlm. 861–863; Nitin Gogtay dkk., "Dynamic Mapping of Human Cortical Development during Childhood through Early Adulthood", *Proceedings of the National Academy of Sciences (PNAS)*, Vol. 101, No. 21 (2004), hlm. 8174–8179.
 [^4]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Kabir* (Kairo: Maktabah Ibn Taimiyyah, 1994), hadits no. 8645; Abu Bakr Ahmad bin Husain Al-Baihaqi, *Syu'abul Iman* (Riyadh: Maktabah ar-Rusyd, 2003), hadits no. 1658 dari Abu Hurairah dan Hasan Al-Bashri secara mursal shahih lighairihi.
 [^5]: Carla J. Shatz, "Impulse Activity and the Patterning of Connections during CNS Development", *Neuron*, Vol. 5, No. 6 (1990), hlm. 745–756; Donald O. Hebb, *The Organization of Behavior: A Neuropsychological Theory* (New York: John Wiley & Sons, 1949).
-[^6]: Robert B. Cairns & Beverley D. Cairns, *Lifelines and Risks: Pathways of Youth in Our Time* (Cambridge: Cambridge University Press, 1994), hlm. 88–115; Esther Thelen & Linda B. Smith, *A Dynamic Systems Approach to the Development of Cognition and Action* (Cambridge: MIT Press, 1994).
-[^7]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 80–125; Edward L. Deci & Richard M. Ryan, "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry*, Vol. 11, No. 4 (2000), hlm. 227–268.
-[^8]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid III, *Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq* (Kairo: Dar al-Hadits, 2004), hlm. 62–75; Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 48–65.
-[^9]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, Bab Mata Yu'maru al-Ghulam bi ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689, disahihkan oleh Al-Albani dalam *Shahih Abi Dawud*.
-[^10]: Abu Zakariya Muhyiddin Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah, 1344 H), Jilid III, hlm. 11–14; Syamsuddin Muhammad bin Abi al-Abbas Ar-Ramli, *Nihayat al-Muhtaj ila Syarh al-Minhaj* (Beirut: Dar al-Fikr, 1984), Jilid I, hlm. 385–388.
-
+[^6]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689.
+[^7]: Ibnu Hajar Al-Asqalani, *Fath al-Bari Syarh Shahih al-Bukhari* (Beirut: Dar al-Ma'rifah, 1379 H), Jilid IX, hlm. 345–347; Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah), Jilid III, hlm. 11–13.
+[^8]: Robert B. Cairns & Beverley D. Cairns, *Lifelines and Risks: Pathways of Youth in Our Time* (Cambridge: Cambridge University Press, 1994), hlm. 88–115; Esther Thelen & Linda B. Smith, *A Dynamic Systems Approach to the Development of Cognition and Action* (Cambridge: MIT Press, 1994).
+[^9]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 80–125; Edward L. Deci & Richard M. Ryan, "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry*, Vol. 11, No. 4 (2000), hlm. 227–268.
+[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid III, *Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq* (Kairo: Dar al-Hadits, 2004), hlm. 62–75; Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 48–65.
+[^11]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, Bab Mata Yu'maru al-Ghulam bi ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689, disahihkan oleh Al-Albani dalam *Shahih Abi Dawud*.
+[^12]: Abu Zakariya Muhyiddin Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah, 1344 H), Jilid III, hlm. 11–14; Syamsuddin Muhammad bin Abi al-Abbas Ar-Ramli, *Nihayat al-Muhtaj ila Syarh al-Minhaj* (Beirut: Dar al-Fikr, 1984), Jilid I, hlm. 385–388.
+[^13]: Mary A. Carskadon dkk., "Adolescent Sleep Patterns, Circadian Timing, and Sleepiness at a Transition to Early School Days", *Sleep*, Vol. 21, No. 8 (1998), hlm. 871–881; Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 87–96 mengenai pergeseran fase sirkadian melatonin 2 jam ke depan pada usia remaja.
 
 ---
 
@@ -1355,6 +1485,8 @@ Inilah yang akan kita jelajahi dalam **Bab 6: Falsafah Tarbiyah, Ta'dib, dan Eko
 > — **QS. Al-Ahzab [33]: 21**[^1]
 
 ---
+
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat yang mulia ini adalah *ashlun kabir* (fondasi agung yang sangat fundamental) dalam meneladani baginda Rasulullah ﷺ dalam segala ucapan, perbuatan, dan seluruh tingkah laku hidup beliau.[^1] Para pendidik santri tidak berhak menuntut adab dari santri jika pribadi mereka sendiri belum mencerminkan keluhuran teladan nubuwah ini.
 
 ### Prolog: Keheningan di Serambi Asrama
 
@@ -1400,7 +1532,7 @@ Kata *tarbiyah* berakar dari dua cabang makna kebahasaan: *raba-yarbu* (ربا -
 Tarbiyah adalah perancah pendukung kehidupan jasmani. Namun, jika orientasi pengasuhan asrama hanya berkutat pada urusan logistik—apakah nasi dapur sudah matang, apakah pakaian cucian sudah terlipat, dan apakah kamar mandi sudah disikat—tanpa pernah menyentuh hakikat spiritual anak, maka proses itu tidak ubahnya seperti manajemen peternakan. Tubuh santri membesar, ototnya menguat, namun batinnya kerdil dan miskin makna.
 
 #### 3. At-Ta'dib: Inti Sejati dan Mahkota Pendidikan Islam
-Inilah konsep agung yang ditegaskan kembali oleh Prof. Syed Muhammad Naquib al-Attas sebagai **definisi paling hakiki dan paripurna bagi pendidikan Islam**. Kata *Ta'dib* (تأديب) berakar langsung dari kata **Adab** (أدب). 
+Inilah konsep mendasar yang ditegaskan kembali oleh Prof. Syed Muhammad Naquib al-Attas sebagai **definisi paling hakiki dan paripurna bagi pendidikan Islam**. Kata *Ta'dib* (تأديب) berakar langsung dari kata **Adab** (أدب). 
 
 Sebagaimana disabdakan oleh junjungan kita, Nabi Muhammad ﷺ:
 
@@ -1478,7 +1610,7 @@ Secara biologis murni, kekerasan verbal dan emosional yang diperagakan oleh pend
 #### 2. Teori Polivagal dan Prinsip Ko-Regulasi Saraf (Co-Regulation)
 Dalam kerangka *Polyvagal Theory* yang dirumuskan oleh Dr. Stephen Porges, sistem saraf manusia pada dasarnya adalah sistem sosial yang dirancang untuk saling berkoordinasi (*co-regulating organism*)[^5]. Seorang anak remaja tidak bisa menenangkan amigdala dan sistem limbiknya yang sedang meledak sendirian; ia membutuhkan kehadiran sistem saraf orang dewasa yang matang dan stabil untuk membimbingnya kembali ke zona aman (*Ventral Vagal Social Engagement State*).
 
-Perhatikan bagaimana hadits agung Ibnu Jama'ah dalam *Tadzkirat as-Sami'* menyelaraskan prinsip ini:
+Perhatikan bagaimana penegasan Ibnu Jama'ah dalam *Tadzkirat as-Sami'* menyelaraskan prinsip ini:
 
 $$\text{أَنْ يَتَمَثَّلَ الْعَالِمُ بِمَا يَدْعُو إِلَيْهِ، فَإِنَّ النَّاسَ يَقْتَدُونَ بِأَفْعَالِهِ أَكْثَرَ مِمَّا يَقْتَدُونَ بِأَقْوَالِهِ}$$
 
@@ -1683,6 +1815,10 @@ Di dalam Miniatur Madinah Nabawiyyah inilah, setiap santri dihargai fitrahnya, d
 5. **Kemenangan Kurikulum Tersembunyi:** Memastikan lingkungan fisik asrama, irama jadwal tidur 7 jam, kebersihan sanitasi, dan keramahan seluruh warga pondok mencerminkan nilai-nilai adab yang diajarkan di kelas, sehingga tidak terjadi disparitas moral (*say-do incongruence*).
 6. **Identitas Miniatur Madinah Nabawiyyah:** Menolak model barak militer yang bengis dan model asrama sekuler yang permisif; menegakkan pesantren sebagai ekosistem ketegasan penuh cinta kasih (*Firm & Kind*) demi mencetak insan adabi sejati.
 
+Keteladanan qudwah dan atmosfer bi'ah shalihah telah kita bentangkan. Namun, bagaimana sesungguhnya proses perubahan perilaku itu berlangsung di dalam diri seorang santri dari waktu ke waktu? Mengapa perubahan karakter santri kerap mengalami pasang-surut dan tidak pernah berjalan linier?
+
+Di Bab 7, kita akan membedah Teori Perubahan Perilaku Berkelanjutan (*Theory of Change*) yang menjadi peta jalan transformasi santri menuju istiqamah.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
@@ -1698,7 +1834,6 @@ Di dalam Miniatur Madinah Nabawiyyah inilah, setiap santri dihargai fitrahnya, d
 [^9]: Ahmad bin Muhammad bin Hanbal, *Al-Musnad*, Tahqiq: Syu'aib al-Arna'uth dkk. (Beirut: Mu'assasah ar-Risalah, 2001), Jilid XXXVI, hlm. 545–546, hadits no. 22211, sanadnya dinilai shahih sesuai syarat Al-Bukhari dan Muslim.
 [^10]: Philip W. Jackson, *Life in Classrooms* (New York: Holt, Rinehart & Winston, 1968), hlm. 33–55 mengenai konsep orisinil *The Hidden Curriculum*; Michael W. Apple, *Ideology and Curriculum* (New York: Routledge, 2004).
 
-
 ---
 
 # BAB 7: TEORI PERUBAHAN PERILAKU BERKELANJUTAN
@@ -1710,6 +1845,8 @@ Di dalam Miniatur Madinah Nabawiyyah inilah, setiap santri dihargai fitrahnya, d
 > — **Al-Qur'an al-Karim**, Surah Ar-Ra'd [13]: 11[^1]
 
 ---
+
+Imam Abu Ja'far Ath-Thabari dalam *Jami' al-Bayan* dan Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan bahwa Allah Yang Maha Adil tidak akan mengubah kenikmatan, kehormatan, dan kesejahteraan suatu kaum menjadi kehinaan dan bencana hingga mereka sendiri yang mengubah ketaatan menjadi kemaksiatan; dan sebaliknya, Allah tidak akan mengubah kehinaan dan kemunduran suatu kaum menjadi kemuliaan peradaban hingga mereka mengubah apa yang ada di dalam batin mereka (*maa bi anfusihim*): membersihkan niat, menegakkan tauhid, dan menumbuhkan karakter adab.[^1] Transformasi peradaban berakar mutlak pada transformasi jiwa manusia.
 
 ### 7.1 Ilusi Perubahan Cepat: Menelanjangi "Efek Pegas" dalam Disiplin Asrama
 
@@ -1822,7 +1959,7 @@ Pendidik TUMBUH menyikapi kekhilafan sementara dengan kearifan seorang dokter sp
 
 Perubahan karakter seorang santri tidak akan pernah mampu bertahan lama jika ia hidup terisolasi di tengah lingkungan kamar asrama yang sarat dengan racun budaya (*toxic culture*). 
 
-Bayangkan seorang santri yang telah bertekad kuat untuk menjaga pandangan matanya dan bertutur kata santun, namun sebelas kawan sekamarnya setiap malam mengobrolkan hal-hal jorok, saling mencaci dengan nama orang tua, dan menertawakan santri yang rajin ke masjid. Dalam waktu kurang dari satu bulan, santri yang berniat baik tersebut niscaya akan menyerah dan terseret kembali ke dalam lumpur kebiasaan mayoritas akibat tekanan konformitas kelompok sebaya (**Peer Conformity Pressure**)[^5].
+Bayangkan seorang santri yang telah bertekad kuat untuk menjaga pandangan matanya dan bertutur kata santun, namun sebelas kawan sekamarnya setiap malam mengobrolkan hal-hal jorok, saling mencaci dengan nama orang tua, dan menertawakan santri yang rajin ke masjid. Dalam waktu kurang dari satu bulan, santri yang berniat baik tersebut niscaya akan menyerah dan terseret kembali ke dalam lumpur kebiasaan mayoritas akibat tekanan konformitas kelompok sebaya (**Peer Conformity Pressure**)[^4].
 
 Oleh karena itu, teori perubahan TUMBUH tidak berhenti pada pembinaan individu per individu, melainkan mengadopsi **Pendekatan Sistemik Dinamis (*Dynamic Systems Thinking*)** dan **Teori Difusi Inovasi Kebudayaan (*Diffusion of Innovations*)** yang dirumuskan oleh sosiolog Everett Rogers[^6]:
 
@@ -1858,7 +1995,65 @@ Perubahan budaya asrama berhasil dicapai tanpa ada satu tetes pun caci maki atau
 
 ---
 
-### 7.4 Jembatan Menuju Bagian IV: Integritas Sistem dan Batasan Non-Negotiables
+### 7.4 Anatomi Kebiasaan Otomatis (*The Habit Loop*) dalam Pembentukan Malakah Adab
+
+Bagaimanakah sebuah adab yang awalnya terasa berat—seperti bangun fajar, merapikan sandal, atau menundukkan pandangan—dapat bermutasi menjadi watak spontan (*al-malakah*) yang mendarah daging?
+
+Sains perilaku modern (Charles Duhigg dalam *The Power of Habit* dan James Clear dalam *Atomic Habits*) membuktikan bahwa setiap kebiasaan manusia digerakkan oleh sebuah lingkaran saraf yang terdiri atas tiga komponen utama: **Isyarat (*Cue*), Rutinitas (*Routine*), dan Ganjaran (*Reward*)**[^7]:
+
+```mermaid
+graph LR
+    subgraph SIKLUS_KEBIASAAN["Lingkaran Kebiasaan (The Habit Loop)"]
+        C["1. ISYARAT (CUE)<br/>Pemicu Lingkungan / Waktu / Lokasi"] --> R["2. RUTINITAS (ROUTINE)<br/>Tindakan Fisik / Perilaku Nyata"]
+        R --> W["3. GANJARAN (REWARD)<br/>Kepuasan Batin / Dopamin Alami"]
+        W --> C
+    end
+```
+
+Jauh sebelum para ilmuwan Barat memetakan *habit loop*, Imam Ibnu Qayyim al-Jauziyyah dalam *Al-Fawa'id* telah menguraikan rantai kausalitas terbentuknya karakter dengan untaian kalimat yang sangat menggetarkan:
+
+$$\text{دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ شَهْوَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ إِرَادَةً وَعَزِيمَةً، فَإِنْ لَمْ تَدْفَعْهَا صَارَتْ فِعْلًا، فَإِنْ لَمْ تَتَدَارَكْهُ صَارَ عَادَةً، فَيَعْسُرُ عَلَيْكَ الْخُرُوجُ مِنْهَا}$$
+
+> *"Tolaklah lintasan pikiran buruk (*khathrah*), karena jika tidak, ia akan menjadi pikiran (*fikrah*). Tolaklah pikiran itu, karena jika tidak, ia akan menjadi syahwat (*syahwah*). Tolaklah syahwat itu, karena jika tidak, ia akan menjadi kehendak bulat (*iradah wa 'azimath*). Tolaklah kehendak itu, karena jika tidak, ia akan menjelma menjadi tindakan nyata (*fi'l*). Dan jika engkau tidak segera memperbaikinya, tindakan itu akan menjadi kebiasaan (*'adah*), yang kelak akan sangat sulit bagimu untuk melepaskan diri darinya!"*[^5]
+
+Dalam ekosistem TUMBUH, para pengasuh merekayasa ketiga komponen ini:
+1. **Memperjelas Isyarat (*Make Cues Obvious*)**: Meletakkan rak sandal tepat di depan pintu masuk masjid dengan tanda visual yang rapi; memasang pengingat visual adab wudhu di dekat kran; memperdengarkan lantunan tartil Al-Qur'an 15 menit sebelum waktu salat.
+2. **Mempermudah Rutinitas (*Make Routines Easy*)**: Menyediakan sapu dan tempat sampah yang cukup di setiap bilik tidur; mengatur alur antrean kamar mandi yang logis agar tidak terjadi penumpukan; memecah hafalan harian menjadi porsi kecil yang mudah dicerna (*chunking*).
+3. **Menghadirkan Ganjaran Luhur (*Make Rewards Satisfying*)**: Menggantikan ganjaran materi instan dengan **Ganjaran Sosial dan Spiritual**: tatapan mata musyrif yang bangga, tepukan lembut di pundak, doa keberkahan, serta kepuasan batin karena telah memuliakan kalamullah.
+
+---
+
+### 7.5 Arsitektur Pilihan Asrama (*Nudge Theory*): Rekayasa Lingkungan yang Memudahkan Kebaikan
+
+Mengapa di sebagian asrama santri sangat sulit menjaga kebersihan, sementara di asrama yang lain kebersihan tercipta secara alami tanpa perlu diawasi musyrif bersenjata rotan?
+
+Pemenang Hadiah Nobel Ekonomi Richard Thaler dan Cass Sunstein merumuskan konsep **Teori Dorongan Halus (*Nudge Theory*)**: manusia mengambil keputusan bukan berdasarkan instruksi verbal panjang, melainkan berdasarkan **Arsitektur Pilihan (*Choice Architecture*)** yang dirancang di lingkungan sekitarnya[^6].
+
+Prinsip arsitektur asrama TUMBUH menetapkan: **Buatlah kebaikan menjadi pilihan paling mudah dan menyenangkan, serta buatlah kemaksiatan/pelanggaran menjadi pilihan paling sulit dan tidak nyaman (*Make Good Easy, Make Bad Hard*)**:
+
+```mermaid
+graph TD
+    subgraph ARSITEKTUR_PILIHAN_ASRAMA["Rekayasa Arsitektur Pilihan (Nudge) TUMBUH"]
+        direction TB
+        E1["MASALAH LAMA: Santri Gemar Ghashab Sandal di Tangga Masjid"]
+        E2["SOLUSI TRADISIONAL GAGAL: Membentak & Mengancam Denda Poin (Ghashab Tetap Marak)"]
+        E3["SOLUSI NUDGE TUMBUH: Rak Sandal Bersekat Bernomor Nama Unik Tepat di Depan Pintu"]
+        E4["HASIL: Pelanggaran Turun 90% Tanpa Ada Satu Bentakan Pun!"]
+        
+        E1 --> E2
+        E2 -.->|Gagal| E3
+        E3 --> E4
+    end
+```
+
+Contoh nyata penerapan *Nudge* di lingkungan pesantren 24 jam:
+* **Penempatan Tempat Sampah Berjarak 10 Langkah**: Di lorong-lorong asrama, tempat sampah diletakkan pada radius tidak lebih dari 10 langkah perjalanan santri. Ketika tempat sampah berada dalam jangkauan mata dan tangan, membuang sampah sembarangan menjadi tindakan yang membutuhkan energi lebih besar daripada membuangnya ke tempatnya.
+* **Cermin Adab di Pintu Keluar Bilik**: Di setiap pintu keluar kamar tidur, dipasang cermin setinggi badan dengan stiker pengingat hadits Rasulullah ﷺ: *"Rapikan pakaianmu dan senyumlah kepada saudaramu!"* Santri secara otomatis merapikan kancing baju dan sarungnya sebelum melangkah ke luar tanpa perlu diperintah.
+* **Pencahayaan Terang di Titik Rawan (*Hotspots Elimination*)**: Area jemuran belakang dan lorong gudang yang gelap diubah dengan penerangan lampu sensor gerak. Kegelapan yang mengundang godaan maksiat disingkirkan secara fisik, sehingga santri terlindungi dari bisikan hawa nafsu.
+
+---
+
+### 7.6 Jembatan Menuju Bagian IV: Integritas Sistem dan Batasan Non-Negotiables
 
 Kita telah menuntaskan penjelajahan filosofis, neurobiologis, dan metodologis yang teramat luas dan mendalam dalam **Bagian III**:
 * Kita telah membedah bagaimana otak santri remaja bergolak laksana mobil balap Ferrari dengan rem sepeda ontel, serta bagaimana peran musyrif sebagai rem pengaman eksternal yang penuh welas asih (Bab 5);
@@ -1874,6 +2069,10 @@ Oleh karena itu, sebelum kita melangkah lebih jauh merancang arsitektur model da
 
 Inilah benteng suci yang akan kita pancangkan bersama dalam **BAGIAN IV: PRINSIP-PRINSIP INTI & INTEGRITAS SISTEM**.
 
+Jika transformasi perilaku membutuhkan kesadaran batin yang matang dan ekosistem yang sehat, lalu di manakah garis merah suci yang mutlak tidak boleh dilanggar oleh para pendidik saat mendampingi santri? Mengapa integritas moral lembaga harus diikat dalam sumpah yang tidak bisa dinegosiasikan? 
+
+Di Bab 8, kita melangkah ke Bagian IV untuk mendeklarasikan Piagam Sumpah Integritas Pendidikan TUMBUH (*The Non-Negotiables*).
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
@@ -1881,10 +2080,12 @@ Inilah benteng suci yang akan kita pancangkan bersama dalam **BAGIAN IV: PRINSIP
 [^1]: Al-Qur'an al-Karim, Surah Ar-Ra'd [13]: 11.
 [^2]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Tafsir Ath-Thabari), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Kairo: Dar Hijr, 2001), Jilid XIII, hlm. 118–125.
 [^3]: James O. Prochaska & Carlo C. DiClemente, *The Transtheoretical Approach: Crossing Traditional Boundaries of Therapy* (Homewood: Dow Jones-Irwin, 1984); James O. Prochaska, Wayne F. Velicer, dkk., "The Transtheoretical Model of Health Behavior Change", *American Journal of Health Promotion*, Vol. 12, No. 1 (1997), hlm. 38–48.
-[^4]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid IV, *Kitab at-Taubah* (Kairo: Dar al-Hadits, 2004), hlm. 3–55 mengenai rukun taubat: ilmu, hal (penyesalan batin), dan amal (meninggalkan dosa serta mengganti kerugian); Ibnu Qayyim al-Jauziyyah, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1996), Jilid I, hlm. 178–215 mengenai manzilah Al-Yaqzhah, Al-Inabah, dan At-Taubah.
-[^5]: Solomon E. Asch, "Opinions and Social Pressure", *Scientific American*, Vol. 193, No. 5 (1955), hlm. 31–35; Muzafer Sherif, *The Psychology of Social Norms* (New York: Harper & Row, 1936).
-[^6]: Everett M. Rogers, *Diffusion of Innovations*, Edisi ke-5 (New York: Free Press, 2003), hlm. 219–266 mengenai kurva adopsi inovasi; Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference* (Boston: Little, Brown and Company, 2000).
-
+[^4]: Solomon E. Asch, "Opinions and Social Pressure", *Scientific American*, Vol. 193, No. 5 (1955), hlm. 31–35; Muzafer Sherif, *The Psychology of Social Norms* (New York: Harper & Row, 1936).
+[^5]: Syamsuddin Muhammad bin Abi Bakr Ibn Qayyim al-Jauziyyah, *Al-Fawa'id*, diedit oleh Salim bin 'Ied al-Hilali (Riyadh: Dar Ibn al-Jauzi, 2008), hlm. 43–44 mengenai proses terbentuknya karakter dari lintasan pikiran (*khatharah*).
+[^6]: Richard H. Thaler & Cass R. Sunstein, *Nudge: Improving Decisions About Health, Wealth, and Happiness* (New Haven: Yale University Press, 2008), hlm. 1–35 mengenai konsep *choice architecture*.
+[^7]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid IV, *Kitab at-Taubah* (Kairo: Dar al-Hadits, 2004), hlm. 3–55 mengenai rukun taubat: ilmu, hal (penyesalan batin), dan amal (meninggalkan dosa serta mengganti kerugian); Ibnu Qayyim al-Jauziyyah, *Madarij as-Salikin bayna Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*, Tahqiq: Muhammad al-Mu'tashim Billah al-Baghdadi (Beirut: Dar al-Kitab al-'Arabi, 1996), Jilid I, hlm. 178–215 mengenai manzilah Al-Yaqzhah, Al-Inabah, dan At-Taubah.
+[^8]: Everett M. Rogers, *Diffusion of Innovations*, Edisi ke-5 (New York: Free Press, 2003), hlm. 219–266 mengenai kurva adopsi inovasi; Malcolm Gladwell, *The Tipping Point: How Little Things Can Make a Big Difference* (Boston: Little, Brown and Company, 2000).
+[^9]: Charles Duhigg, *The Power of Habit: Why We Do What We Do in Life and Business* (New York: Random House, 2012), hlm. 15–48; James Clear, *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones* (New York: Avery, 2018), hlm. 45–72 mengenai model sirkuit kebiasaan (*habit loop*).
 
 ---
 
@@ -1898,7 +2099,11 @@ Inilah benteng suci yang akan kita pancangkan bersama dalam **BAGIAN IV: PRINSIP
 
 ---
 
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa amanat mencakup seluruh perkara syariat yang dipercayakan Allah kepada hamba-Nya, baik amanat ibadah kepada Allah maupun amanat pemeliharaan hak sesama manusia. Khianat terhadap anak-anak kaum muslimin yang dititipkan di pesantren—dengan memperlakukan mereka secara zalim, meremukkan mentalnya dengan kekerasan, atau membiarkan hak-hak keselamatannya terancam—adalah sebesar-besar pengkhianatan kepada Allah dan Rasul-Nya.[^1]
+
 ### 8.1 Piagam Gerbang Pesantren: Mengapa Sistem Membutuhkan Batas Mutlak?
+
+Sumpah Integritas TUMBUH bukanlah sekadar klausul kepatuhan hukum (*legal compliance*) atau kode etik administratif yang dingin. Sumpah ini adalah **Mīthāq Ghalīzh (Perjanjian yang Amat Berat)** di hadapan Allah ﷻ. Setiap kali seorang santri melangkah melewati gerbang pondok, orang tuanya menyerahkan buah hatinya dengan tetesan air mata doa dan tawakal. Amanah tersebut mengguncang langit; bagaimana mungkin amanah suci itu disambut dengan rotan pemukul, bentakan yang menghina nama orang tua, atau pengabaian keselamatan raga? Sepuluh prinsip inti non-negotiable ini adalah dinding benteng yang menjaga agar lembaga pendidikan tidak berubah menjadi ladang kezaliman yang dimurkai Allah.
 
 Di masa lalu, ketika seorang wali santri mengantarkan putra-putrinya ke pondok pesantren, kerap terlontar sebuah kalimat pasrah yang dianggap sebagai puncak ketakziman: *"Pak Kyai, anak ini saya serahkan sepenuhnya. Mau dipukul, mau dibotaki, mau disuruh apa saja silakan, yang penting pulangnya jadi orang shalih."* 
 
@@ -2056,7 +2261,46 @@ Apabila di lingkungan pesantren terdeteksi salah satu dari **Sepuluh Tanda Bahay
 
 ---
 
-### 8.5 Piagam Perlindungan Santri: Ikrar Suci Pengasuh TUMBUH
+### 8.5 Mekanisme Penegakan Akuntabilitas Lembaga: Sanksi bagi Oknum Pendidik Pelaku Kekerasan
+
+Sumpah integritas bukanlah pajangan dinding yang berhenti sebagai retorika moral; sumpah ini memiliki kekuatan hukum dan administratif kelembagaan yang mengikat (*legally and administratively binding*).
+
+Pesantren yang benar-benar berkomitmen melindungi santri wajib memiliki **Prosedur Operasional Standar Penanganan Pelanggaran Etika Pendidik**:
+
+```mermaid
+graph TD
+    subgraph ALUR_AKUNTABILITAS_PENDIDIK["Mekanisme Tindakan atas Oknum Pelaku Kekerasan"]
+        direction TB
+        L["1. Laporan Masuk dari Santri / Wali Santri / Rekan Musyrif"] --> I["2. Tim Independen Perlindungan Santri Melakukan Investigasi 1x24 Jam"]
+        I --> B["3. Pemeriksaan Bukti Fisik Medis & Keterangan Saksi Tanpa Intervensi"]
+        B --> K["4. Klasifikasi Tingkat Pelanggaran Etika Lembaga"]
+        
+        K --> S1["PELANGGARAN RINGAN (Bentakan Kasar / Kata Kotor)<br/>• Teguran Tertulis I, Wajib Mengikuti Pelatihan Regulasi Emosi"]
+        K --> S2["PELANGGARAN SEDANG (Penjemuran / Pencukuran Botak Sepihak)<br/>• Skorsing Tugas Lapangan, Pemotongan Tunjangan, Wajib Minta Maaf"]
+        K --> S3["PELANGGARAN BERAT (Pemukulan Fisik / Pelecehan / Penganiayaan)<br/>• PEMECATAN TIDAK DENGAN HORMAT & PELAPORAN KE PIHAK BERWAJIB"]
+    end
+```
+
+Prinsip keadilan TUMBUH menegaskan: **Tidak ada kekebalan hukum bagi siapa pun di pesantren**. Sekalipun oknum pelaku kekerasan adalah putra kyai (gus), musyrif paling senior, atau pengajar kitab kuning terkemuka, jika ia terbukti memukul atau menganiaya santri, ia wajib menerima sanksi tegas sesuai hukum syariat dan aturan lembaga. Menutupi kejahatan kekerasan atas nama "menjaga nama baik pondok" adalah dosa khianat terbesar di hadapan Allah ﷻ.
+
+---
+
+### 8.6 Saluran Pengaduan Aman Santri (*Safe Reporting Channels*)
+
+Salah satu alasan mengapa kekerasan dan perundungan dapat bertahan selama puluhan tahun di asrama adalah karena **santri tidak memiliki saluran aman untuk melapor tanpa takut diintimidasi atau dibalas dendam**. Santri junior yang berani mengadu kepada musyrif kerap dicap sebagai "anak cepu/pengkhianat" oleh seniornya, lalu dipukuli beramai-ramai pada malam harinya.
+
+TUMBUH memutus rantai intimidasi ini dengan **Tiga Saluran Pengaduan Aman (*The Three Safe Harbor Channels*)**:
+
+1. **Kotak Amanah Rahasia (*The Sealed Confidential Box*)**:  
+   Kotak fisik yang terkunci rapat diletakkan di area-area netral (perpustakaan, lorong klinik, dekat pos satpam) yang tidak disorot kamera pengawas secara intimidatif. Kunci kotak ini hanya dipegang oleh Tim Khusus Perlindungan Santri (bukan musyrif kamar harian). Santri dapat memasukkan surat pengaduan tulisan tangan tanpa nama (*anonymous report*).
+2. **Akses Langsung Konselor BK Independen**:  
+   Santri memiliki hak mutlak untuk meminta sesi konseling tertutup bersama guru BK kapan saja tanpa perlu meminta izin atau persetujuan dari musyrif kamarnya. Ruang BK adalah zona suci kerahasiaan (*sanctuary of confidentiality*).
+3. **Pemberian Sanksi Ekstrem bagi Pelaku Pembalasan Dendam (*Anti-Retaliation Clause*)**:  
+   Lembaga menetapkan aturan besi: barang siapa santri senior atau musyrif yang terbukti melakukan intimidasi, pengancaman, atau perundungan balasan terhadap santri yang melapor, maka pelaku akan **dikenakan sanksi ganda pelanggaran berat dan dikeluarkan dari kepengurusan**.
+
+---
+
+### 8.7 Piagam Perlindungan Santri: Ikrar Suci Pengasuh TUMBUH
 
 Sebagai penutup bab ini, seluruh pendidik, asatidz, dan musyrif dalam ekosistem TUMBUH mengikrarkan **Piagam Perlindungan Santri**:
 
@@ -2070,6 +2314,10 @@ Dengan dipancangkannya Sumpah Integritas ini, kita kini memiliki garis batas yan
 
 Inilah yang akan kita bedah secara tuntas dalam **Bab 9: Tata Kelola Epistemik dan Etika Pengambilan Keputusan**.
 
+Sumpah integritas telah kita ikrarkan di hadapan Allah. Namun, bagaimana jika seorang pembina yang berniat baik dan tulus, justru tergelincir menzalimi santri hanya karena ia menggunakan data yang keliru, mempercayai kabar burung, atau tidak sengaja membocorkan aib santri saat rapat pengasuhan?
+
+Di Bab 9, kita akan membedah Tata Kelola Epistemik dan Etika Pengambilan Keputusan—menjaga agar lisan, pena, dan vonis para pendidik tetap suci dari kezaliman yang tak disadari.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
@@ -2077,7 +2325,6 @@ Inilah yang akan kita bedah secara tuntas dalam **Bab 9: Tata Kelola Epistemik d
 [^1]: Al-Qur'an al-Karim, Surah Al-Anfal [8]: 27.
 [^2]: Jane Nelsen, *Positive Discipline* (New York: Ballantine Books, 2006), hlm. 15–42; Jane Nelsen & Lynn Lott, *Positive Discipline for Teenagers* (New York: Three Rivers Press, 2012).
 [^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/02_PRINCIPLES/01_CORE_PRINCIPLES/04-Guardrails.md` dan `01-Core-Principles.md`.
-
 
 ---
 
@@ -2134,7 +2381,8 @@ Perhatikan perbedaan mendasar antara dua kalimat yang diucapkan oleh seorang pem
 > **Kalimat B (Pemisahan Identitas dan Perilaku - Menumbuhkan Taubat):**  
 > *"Kamu adalah hamba Allah yang mulia dan santri yang berharga di pondok ini; namun perbuatan mengambil sandal kemarin sore adalah tindakan salah yang melanggar adab dan wajib kamu perbaiki."*
 
-Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut **Ramalan yang Mewujud Sendiri (*The Self-Fulfilling Prophecy / Labeling Theory*)** sebagaimana dirumuskan oleh sosiolog Howard Becker[^3]:
+Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut **Ramalan yang Mewujud Sendiri (*The Self-Fulfilling Prophecy / Labeling Theory*)** sebagaimana dirumuskan oleh sosiolog Howard Becker[^3a]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 377–380.
+[^3]:
 
 ```mermaid
 graph TD
@@ -2151,7 +2399,7 @@ Dalam ajaran Islam yang luhur, **dosa tidak pernah melekat kekal pada zat kemanu
 $$\text{إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ}$$
 
 > *"Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang menyucikan diri."*  
-> (QS. Al-Baqarah [2]: 222)[^4]
+> (QS. Al-Baqarah [2]: 222)[^3]
 
 Oleh karena itu, ekosistem TUMBUH mengharamkan seluruh bentuk penyematan label permanen kepada santri:
 * Dilarang mencatat nama santri di papan pengumuman dengan judul *"Daftar Santri Bermasalah / Santri Nakal"*.
@@ -2166,20 +2414,20 @@ Tradisi hukum Islam yang adil meletakkan sebuah kaidah ushul fiqh universal yang
 
 $$\text{الْيَقِينُ لَا يَزُولُ بِالشَّكِّ}$$
 
-> *"Keyakinan yang pasti tidak dapat digugurkan oleh keragu-raguan (praduga)."*[^5]
+> *"Keyakinan yang pasti tidak dapat digugurkan oleh keragu-raguan (praduga)."*[^4]
 
-Dan kaidah agung:
+Dan kaidah fiqih yang kokoh:
 
 $$\text{الْأَصْلُ بَرَاءَةُ الذِّمَّةِ}$$
 
-> *"Hukum asal pada diri setiap manusia adalah bebas dari kesalahan dan tanggungan (Praduga Tak Bersalah / Presumption of Innocence)."*[^6]
+> *"Hukum asal pada diri setiap manusia adalah bebas dari kesalahan dan tanggungan (Praduga Tak Bersalah / Presumption of Innocence)."*[^5]
 
 Artinya: **Seorang santri wajib dianggap bersih dan tidak bersalah hingga ada bukti faktual yang sah, nyata, dan meyakinkan yang membuktikan kesalahannya.**
 
 Tragedi yang kerap terjadi di asrama adalah **Metode Interogasi Inkuisisi**:
 Ketika ada barang yang hilang, santri yang dicurigai disudutkan di ruang gelap, dikelilingi oleh lima orang musyrif, dibentak dengan suara lantang, ditakut-takuti akan diusir, atau dipukul hingga menangis agar ia mengaku.
 
-Secara neurobiologis dan psikologi forensik, metode interogasi represif semacam ini terbukti menghasilkan **Pengakuan Palsu (*Coerced-Compliant False Confession*)**[^7]. Anak yang sedang berada di bawah ancaman teror fisik akan rela mengakui kejahatan apa pun yang dituduhkan kepadanya—bahkan kejahatan yang tidak pernah ia lakukan—semata-mata agar siksaan dan bentakan tersebut segera berhenti!
+Secara neurobiologis dan psikologi forensik, metode interogasi represif semacam ini terbukti menghasilkan **Pengakuan Palsu (*Coerced-Compliant False Confession*)**[^6]. Anak yang sedang berada di bawah ancaman teror fisik akan rela mengakui kejahatan apa pun yang dituduhkan kepadanya—bahkan kejahatan yang tidak pernah ia lakukan—semata-mata agar siksaan dan bentakan tersebut segera berhenti!
 
 TUMBUH memberlakukan protokol penyelidikan adab:
 1. **Hak Didampingi Guru BK / Wali Asrama**: Santri yang sedang dimintai keterangan berhak didampingi oleh wali kelas atau guru BK yang bersikap netral dan mengayomi.
@@ -2190,7 +2438,7 @@ TUMBUH memberlakukan protokol penyelidikan adab:
 $$\text{ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ}$$
 
 > *"Tolaklah (hindarilah) hukuman dari kaum muslimin semampu kalian. Jika ada celah baginya untuk bebas dari keraguan, maka lepaskanlah dia. Karena sesungguhnya seorang pemimpin yang keliru dalam memaafkan jauh lebih baik daripada ia keliru dalam menjatuhkan hukuman!"*  
-> (HR. At-Tirmidzi no. 1424 dan Al-Hakim dalam *Al-Mustadrak*, sanad shahih lighairihi)[^8]
+> (HR. At-Tirmidzi no. 1424 dan Al-Hakim dalam *Al-Mustadrak*, sanad shahih lighairihi)[^7]
 
 ---
 
@@ -2210,7 +2458,7 @@ Rasulullah ﷺ memberikan peringatan keras kepada orang-orang yang gemar membong
 $$\text{يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ، فَإِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ أَخِيهِ الْمُسْلِمِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ، وَمَنْ تَتَبَّعَ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي جَوْفِ بَيْتِهِ}$$
 
 > *"Wahai orang-orang yang menyatakan Islam dengan lisannya namun keimanan belum meresap ke dalam kalbunya! Janganlah kalian menggunjing kaum muslimin dan janganlah kalian mencari-cari aib rahasia mereka! Karena barangsiapa yang mencari-cari aib saudaranya sesama muslim, niscaya Allah akan membongkar aibnya; dan barangsiapa yang aibnya dibongkar oleh Allah, niscaya Dia akan mempermalukannya sekalipun ia berada di dalam bilik rumahnya sendiri!"*  
-> (HR. Abu Dawud no. 4880 dan At-Tirmidzi no. 2032, sanad shahih)[^9]
+> (HR. Abu Dawud no. 4880 dan At-Tirmidzi no. 2032, sanad shahih)[^8]
 
 Dalam ekosistem TUMBUH, diberlakukan **Doktrin Kerahasiaan Konseling (*Counseling Confidentiality & Sitr al-Muslim*)**:
 1. Catatan pelanggaran, riwayat psikologis, dan penanganan kasus santri berstatus **Dokumen Sangat Rahasia (Confidential)** yang hanya boleh diakses oleh Tim BK resmi, kepala kepengasuhan, dan wali santri yang bersangkutan.
@@ -2247,13 +2495,63 @@ graph LR
     end
 ```
 
+---
+
+### 9.6 Etika Tata Kelola Data Digital: Privasi Santri dan Hak Pemutihan Rekam Jejak (*Right to be Forgotten*)
+
+Di era digital kontemporer, sebagian pesantren mulai mengadopsi aplikasi manajemen asrama untuk mencatat kehadiran salat, pelanggaran santri, dan evaluasi kepengasuhan. Namun adopsi teknologi ini kerap melahirkan **Kezaliman Digital (*Digital Injustice*)**: data kenakalan santri disimpan tanpa enkripsi, disebarkan secara sembarangan di grup pengurus, atau tersimpan abadi di server hingga bertahun-tahun setelah santri lulus.
+
+TUMBUH memberlakukan standar etika tata kelola data santri yang sangat ketat:
+
+```mermaid
+graph TD
+    subgraph DUA_PILAR_DATA_TUMBUH["Tata Kelola Data Perlindungan Santri TUMBUH"]
+        direction TB
+        P1["1. HAK PRIVASI & AKSES BERJENJANG (TIERED DATA ACCESS)<br/>Data Pelanggaran HANYA Boleh Diakses Musyrif Terkait & Konselor BK Resmi.<br/>Pengurus Santri Senior DILARANG Mengakses Rekam Medis & Batin Santri."]
+        P2["2. HAK PEMUTIHAN CATATAN (RIGHT TO BE FORGOTTEN)<br/>Setelah Proses Restorasi Tuntas & 6 Bulan Berperilaku Baik,<br/>Catatan Pelanggaran Lama DITUTUP & DIARSIPKAN PERMANEN."]
+    end
+```
+
+#### Hak Pemutihan Rekam Jejak Pasca-Restitusi
+Dalam Islam, seorang hamba yang telah bertaubat dari dosanya diibaratkan laksana orang yang tidak memiliki dosa sama sekali (*at-ta'ibu minadz-dzanbi kaman la dzanba lahu*). Maka secara moral institusional, **haram bagi pesantren menyimpan riwayat hitam santri sebagai berkas terbuka yang dapat diungkit-ungkit di masa depan**.
+
+Jika seorang santri pernah melakukan pelanggaran adab di kelas tujuh (misalnya merokok), lalu ia telah menjalani proses bimbingan FBA, menuntaskan restitusi perbaikan lingkungan, dan menunjukkan istiqamah adab selama enam bulan berikutnya, maka:
+* Sistem logbook kepengasuhan memberikan **status pemulihan penuh (*fully restored status*)**.
+* Catatan detail insiden masa lalu dikunci ke dalam brankas arsip tertutup (*sealed record*) dan tidak boleh dimunculkan kembali dalam rapat pengasuhan mana pun.
+* Santri berhak mencalonkan diri dalam struktur kepemimpinan santri (J4) tanpa ada diskriminasi masa lalu.
+
+---
+
+### 9.7 Protokol Darurat Penanganan Kasus Moral Ekstrem dan Kejahatan Berat
+
+Apabila di lingkungan asrama terjadi insiden luar biasa—seperti dugaan pelecehan seksual, kekerasan fisik yang menimbulkan cedera medis, atau perundungan brutal—para musyrif dilarang keras bertindak sendiri atau berusaha menyelesaikan secara kekeluargaan sempit di pojok asrama.
+
+Manajemen krisis TUMBUH menetapkan **Lima Langkah Darurat (*The Five Immediate Crisis Protocols*)**:
+
+1. **Pengamanan dan Perlindungan Korban Utama (*Victim Protection First*)**:  
+   Tindakan pertama dalam hitungan detik adalah memisahkan korban ke ruang aman (klinik atau rumah pendamping ramah anak). Korban didampingi oleh tenaga medis dan konselor perempuan (jika santriwati) atau konselor laki-laki (jika santriwan) yang berempati. Fokus utama adalah keselamatan raga dan stabilitas emosional korban.
+2. **Pengamanan Saksi dan Tempat Kejadian (*Evidence Preservation*)**:  
+   Mengamankan lokasi kejadian tanpa merusak bukti fisik. Saksi-saksi dimintai keterangan terpisah secara tertutup tanpa saling mempengaruhi.
+3. **Pelaporan Segera ke Satgas Safeguarding Independen Pesantren**:  
+   Dalam tempo maksimal 1 x 24 jam, kasus wajib dilaporkan kepada Komite Etik & Perlindungan Santri independen. Pihak manajemen dilarang mengaburkan fakta demi menjaga nama baik yayasan.
+4. **Pemberitahuan Transparan dan Pendampingan Orang Tua Kandung**:  
+   Orang tua korban dihubungi secara hormat, diundang ke pesantren dalam pertemuan tertutup penuh empati, dan diberikan penjelasan jujur mengenai langkah-langkah medis dan psikologis yang sedang diambil oleh lembaga.
+5. **Kepatuhan pada Koridor Hukum Positif dan Rujukan Medis Profesional**:  
+   Jika kasus terindikasi memuat unsur tindak pidana kejahatan berat (kekerasan seksual atau penganiayaan fisik parah), pesantren **wajib memfasilitasi pelaporan resmi kepada pihak penegak hukum yang berwenang** serta bekerja sama dengan lembaga perlindungan anak negara, tanpa menutup-nutupi kesalahan pelaku demi tegaknya keadilan syariat yang mutlak.
+
+---
+
 Dengan menegakkan tata kelola epistemik yang bersih, menjaga kehormatan aib santri, dan memancangkan akuntabilitas kelembagaan yang kokoh, pesantren telah menegakkan benteng integritasnya secara sempurna.
 
 Kini, seluruh fondasi filosofis (Bagian I), epistemologis (Bagian II), pedagogis (Bagian III), dan integritas etika (Bagian IV) telah berdiri tegak dan kokoh. 
 
 Saatnya kita melangkah memasuki jantung arsitektur sistem: **Bagaimanakah seluruh nilai luhur ini diterjemahkan ke dalam Bangunan Model Inti (Core Model) TUMBUH? Bagaimanakah rekayasa ekosistem asrama 24 jam ditata secara terpadu?**
 
-Inilah penjelajahan agung yang akan kita masuki bersama dalam **BAGIAN V: ARSITEKTUR MODEL INTI (CORE MODEL) TUMBUH**.
+Inilah telaah konseptual yang akan kita masuki bersama dalam **BAGIAN V: ARSITEKTUR MODEL INTI (CORE MODEL) TUMBUH**.
+
+Benteng etika dan ketelitian data telah kita tegakkan. Namun, seluruh prinsip moral dan kehati-hatian ini masih membutuhkan sebuah 'cetak biru manusia utuh': *Sosok santri seperti apa sesungguhnya yang ingin kita lahirkan? Kapasitas-kapasitas apa saja yang harus kita latihkan ke dalam akal, hati, dan raganya selama 24 jam sehari?*
+
+Di Bab 10, kita melangkah ke Bagian V untuk membedah Kerangka Struktur Model Inti TUMBUH (*The Core Model*).
 
 ---
 
@@ -2261,14 +2559,14 @@ Inilah penjelajahan agung yang akan kita masuki bersama dalam **BAGIAN V: ARSITE
 
 [^1]: Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Birr wa ash-Shilah wa al-Adab, Bab Tahrim azh-Zhulm, hadits no. 2580.
 [^2]: Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven, & Dianne M. Tice, "Ego Depletion: Is the Active Self a Limited Resource?", *Journal of Personality and Social Psychology*, Vol. 74, No. 5 (1998), hlm. 1252–1265; Danziger, Shai, Jonathan Levav, & Liora Avnaim-Pesso, "Extraneous Factors in Judicial Decisions", *Proceedings of the National Academy of Sciences (PNAS)*, Vol. 108, No. 17 (2011), hlm. 6889–6892.
-[^3]: Howard S. Becker, *Outsiders: Studies in the Sociology of Deviance* (New York: Free Press, 1963), hlm. 1–39; Robert K. Merton, "The Self-Fulfilling Prophecy", *The Antioch Review*, Vol. 8, No. 2 (1948), hlm. 193–210.
-[^4]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 222.
-[^5]: Jalaluddin Abdurrahman As-Suyuthi, *Al-Asybah wa an-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (Kairo: Dar al-Hadits, 2005), hlm. 120–135; Zainuddin bin Ibrahim Ibnu Nujaim, *Al-Asybah wa an-Nazha'ir* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1999), hlm. 56–72.
-[^6]: Tajuddin Abdul Wahhab As-Subki, *Al-Asybah wa an-Nazha'ir*, Tahqiq: Adil Ahmad Abdul Maujud (Beirut: Dar al-Kutub al-'Ilmiyyah, 1991), Jilid I, hlm. 142–150.
-[^7]: Saul M. Kassin & Gisli H. Gudjonsson, "The Psychology of Confessions: A Review of the Literature and Issues", *Psychological Science in the Public Interest*, Vol. 5, No. 2 (2004), hlm. 33–67; Richard A. Leo, *Police Interrogation and American Justice* (Cambridge: Harvard University Press, 2008).
-[^8]: Abu Isa Muhammad bin Isa At-Tirmidzi, *Jami' at-Tirmidzi*, Kitab al-Hudud, Bab Ma Jaa'a fi Dar'il Hudud, hadits no. 1424; Abu Abdillah Muhammad bin Abdillah Al-Hakim An-Naisaburi, *Al-Mustadrak 'ala ash-Shahihain* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1990), Jilid IV, hlm. 426, disepakati oleh Adz-Dzahabi.
-[^9]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab al-Adab, Bab fi al-Ghibah, hadits no. 4880; Abu Isa At-Tirmidzi, *Jami' at-Tirmidzi*, hadits no. 2032, dinilai hasan-shahih.
-
+[^3]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 222.
+[^4]: Jalaluddin Abdurrahman As-Suyuthi, *Al-Asybah wa an-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (Kairo: Dar al-Hadits, 2005), hlm. 120–135; Zainuddin bin Ibrahim Ibnu Nujaim, *Al-Asybah wa an-Nazha'ir* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1999), hlm. 56–72.
+[^5]: Tajuddin Abdul Wahhab As-Subki, *Al-Asybah wa an-Nazha'ir*, Tahqiq: Adil Ahmad Abdul Maujud (Beirut: Dar al-Kutub al-'Ilmiyyah, 1991), Jilid I, hlm. 142–150.
+[^6]: Saul M. Kassin & Gisli H. Gudjonsson, "The Psychology of Confessions: A Review of the Literature and Issues", *Psychological Science in the Public Interest*, Vol. 5, No. 2 (2004), hlm. 33–67; Richard A. Leo, *Police Interrogation and American Justice* (Cambridge: Harvard University Press, 2008).
+[^7]: Abu Isa Muhammad bin Isa At-Tirmidzi, *Jami' at-Tirmidzi*, Kitab al-Hudud, Bab Ma Jaa'a fi Dar'il Hudud, hadits no. 1424; Abu Abdillah Muhammad bin Abdillah Al-Hakim An-Naisaburi, *Al-Mustadrak 'ala ash-Shahihain* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1990), Jilid IV, hlm. 426, disepakati oleh Adz-Dzahabi.
+[^8]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab al-Adab, Bab fi al-Ghibah, hadits no. 4880; Abu Isa At-Tirmidzi, *Jami' at-Tirmidzi*, hadits no. 2032, dinilai hasan-shahih.
+[^9]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 377–380.
+[^10]: Howard S. Becker, *Outsiders: Studies in the Sociology of Deviance* (New York: Free Press, 1963), hlm. 1–39; Robert K. Merton, "The Self-Fulfilling Prophecy", *The Antioch Review*, Vol. 8, No. 2 (1948), hlm. 193–210.
 
 ---
 
@@ -2281,6 +2579,8 @@ Inilah penjelajahan agung yang akan kita masuki bersama dalam **BAGIAN V: ARSITE
 > — **Al-Qur'an al-Karim**, Surah Al-Furqan [25]: 74[^1]
 
 ---
+
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan doa para hamba *Ar-Rahman* ini: bahwa yang dimaksud *qurrata a'yun* (penyejuk pandangan mata) adalah ketika seorang mukmin melihat keturunannya taat kepada Allah, beradab mulia, dan menjauhi maksiat; tidak ada kebahagiaan yang lebih membuncah di dalam dada seorang mukmin selain menyaksikan anaknya menjadi hamba Allah yang shalih. Sedangkan makna *waj'alna lil-muttaqina imama*—sebagaimana ditegaskan oleh Ibnu Abbas dan Al-Hasan Al-Bashri—adalah agar anak keturunan mereka menjadi para pemimpin dan teladan dalam kebajikan yang diikuti jejak kesalehannya oleh orang-orang yang bertakwa.[^1] Inilah visi profil insan yang menjadi poros Model Inti TUMBUH.
 
 ### 10.1 Dari Filsafat Menuju Cetak Biru: Mengapa Pesantren Memerlukan Model Inti?
 
@@ -2314,6 +2614,8 @@ graph TD
 ---
 
 ### 10.2 Tiga Ranah Relasi Asasi: Kosmologi Hubungan Manusia
+
+Tiga ranah hubungan asasi ini bukanlah sekadar pembagian matriks kompetensi modern yang kering, melainkan **tata kosmologi peradaban jiwa manusia**. Hubungan santri dengan Allah (*Hablum Minallah*) adalah akar ruhaniyahnya; hubungan santri dengan sesamanya (*Hablum Minannas*) adalah dahan dan buah kemaslahatannya; dan hubungan santri dengan dirinya sendiri (*Hablum Ma'an-Nafs*) adalah batang kejujuran integritasnya. Jika salah satu poros ini patah, bangunan kepribadian santri akan runtuh. Santri yang rajin bertahajud namun merundung kawannya di kamar sesungguhnya sedang mengalami kepalsuan spiritual (*spiritual hypocrisy*); sebaliknya, santri yang santun dalam pergaulan namun meninggalkan salat sedang memutus nafas hidup hakikinya.
 
 Seluruh gerak kehidupan santri selama dua puluh empat jam di asrama berporos pada **Tiga Ranah Hubungan Asasi (*The Triadic Domains of Relation*)**:
 
@@ -2407,7 +2709,7 @@ Mari kita terjemahkan kesepuluh profil ini ke dalam indikator perilaku nyata di 
 
 ### 10.4 Arsitektur Delapan Kapasitas Inti (*The Eight Core Capacities - 8 CC*)
 
-Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH menyusun mesin fungsional yang dinamakan **Delapan Kapasitas Inti (*The Eight Core Capacities / 8 CC*)**[^3]. 
+Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH menyusun mesin fungsional yang dinamakan **Delapan Kapasitas Inti (*The Eight Core Capacities / 8 CC*)**[^2]. 
 
 Kapasitas Inti adalah serangkaian keterampilan eksekutif kognitif, emosional, fisik, dan sosial yang **dapat dilatih, diobservasi, dan diukur perkembangannya secara formatif**:
 
@@ -2486,6 +2788,56 @@ graph LR
 
 Ketika seorang musyrif melatih santri dalam **CC-1 (Regulasi Diri)** dan **CC-7 (Agensi Sadar)**, pada hakikatnya musyrif tersebut sedang menumbuhkan profil **Mujahidun Linafsihi** dan **Nafi'un Lighairihi**. Ketika musyrif melatih santri dalam **CC-3 (Komunikasi Beradab)** dan **CC-4 (Kerja Sama Ukhuwah)**, musyrif tersebut sedang mengukir profil **Matinul Khuluq** ke dalam kalbunya.
 
+---
+
+### 10.6 Matriks Pemetaan Silang: 10 Profil Lulusan vs 8 Core Capacities
+
+Agar para pendidik dan perancang kurikulum pesantren dapat menelusuri korelasi fungsional antara profil lulusan ideal dan kapasitas perilaku harian, perhatikan matriks keterkaitan silang (*cross-mapping matrix*) berikut:
+
+| No | 10 Profil Lulusan Insan Rusyd | Kapasitas Inti Primer (*Primary CC*) | Kapasitas Inti Pendukung (*Supporting CC*) | Bukti Konkret di Lantai Asrama 24 Jam |
+| :---: | :--- | :--- | :--- | :--- |
+| **1** | **Salimul 'Aqidah** (Akidah Lurus) | **CC-2** (Penalaran Kritis) | **CC-1** (Regulasi Diri) | Menolak takhayul, mistisisme syirik, dan hanya takut serta berharap kepada Allah. |
+| **2** | **Shahihul 'Ibadah** (Ibadah Benar) | **CC-1** (Regulasi Diri) | **CC-5** (Keberfungsian Fisik) | Thaharah sempurna dari najis; salat khusyuk tepat waktu di saf awal. |
+| **3** | **Matinul Khuluq** (Akhlak Kokoh) | **CC-3** (Komunikasi Beradab) | **CC-6** (Empati Sosial) | Tutur kata santun (*qaulan karima*), jujur, menepati janji, dan anti-ghashab. |
+| **4** | **Qowiyyul Jism** (Fisik Bugar) | **CC-5** (Keberfungsian Fisik) | **CC-1** (Regulasi Diri) | Disiplin tidur 7 jam, olahraga teratur, menjaga kebersihan diri dan kamar. |
+| **5** | **Mutsaqqoful Fikr** (Wawasan Luas) | **CC-2** (Penalaran Kritis) | **CC-8** (Pemecahan Masalah) | Menguasai kaidah ilmu turats dan sains modern; memverifikasi kebenaran informasi. |
+| **6** | **Mujahidun Linafsihi** (Kuat Menahan Nafsu)| **CC-1** (Regulasi Diri) | **CC-7** (Agensi Sadar) | Mampu menahan amarah, sabar saat lapar/lelah, dan bangkit melawan rasa malas. |
+| **7** | **Harishun 'ala Waqtihi** (Disiplin Waktu) | **CC-7** (Agensi Sadar) | **CC-1** (Regulasi Diri) | Hadir sebelum bel berbunyi; memanfaatkan waktu luang untuk membaca/berzikir. |
+| **8** | **Munazzhamun fi Syu'unihi** (Tertib Urusan) | **CC-8** (Pemecahan Masalah) | **CC-4** (Kerja Sama Ukhuwah) | Lemari dan ranjang rapi simetris; buku tersusun teratur; amanah mengelola uang. |
+| **9** | **Qodirun 'alal Kasbi** (Mandiri Terampil) | **CC-8** (Pemecahan Masalah) | **CC-5** (Keberfungsian Fisik) | Mandiri mencuci baju, merawat fasilitas, dan terampil mencari solusi praktis hidup. |
+| **10**| **Nafi'un Lighairihi** (Bermanfaat bagi Umat) | **CC-4** (Kerja Sama Ukhuwah) | **CC-6** (Empati Sosial) | Aktif berkhidmah menolong kawan, memimpin gotong-royong, dan peduli sesama. |
+
+---
+
+### 10.7 Rubrik Perkembangan Empat Tingkat Kemandirian 8 CC (J1–J4)
+
+Bagaimanakah seorang musyrif mengetahui bahwa seorang santri sedang bertumbuh kapasitas intinya? Sistem TUMBUH menyusun rubrik progresi empat tingkat kemandirian:
+
+```text
+               KONTINUUM PROGRESI KEMANDIRIAN 8 CC TUMBUH
+┌────────────────────────────────────────────────────────────────────────┐
+│ LEVEL 1 (J1): DIBIMBING INTENSIF (Perancah Penuh / High Scaffolding)   │
+│ Santri memerlukan instruksi langsung, teladan nyata & pengawasan ketat.│
+├────────────────────────────────────────────────────────────────────────┤
+│ LEVEL 2 (J2): BERLATIH DENGAN PENDAMPINGAN (Coached & Supported)       │
+│ Santri mulai memahami aturan, namun masih sering goyah saat emosi naik.│
+├────────────────────────────────────────────────────────────────────────┤
+│ LEVEL 3 (J3): MANDIRI BERKESADARAN (Internal Locus of Control)         │
+│ Santri mempraktikkan adab secara konsisten atas dorongan batin sendiri.│
+├────────────────────────────────────────────────────────────────────────┤
+│ LEVEL 4 (J4): TELADAN PENGGERAK (Servant Leader & Culture Builder)     │
+│ Santri mampu menginspirasi, membimbing adik kelas & merawat ekosistem. │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+*Contoh Aplikasi pada CC-1 (Regulasi Diri / Pengendalian Amarah):*
+* **J1 (Pemula)**: Saat marah, santri masih cenderung membanting pintu atau menangis kencang; membutuhkan musyrif untuk menenangkan fisiknya dan membimbing wudhu.
+* **J2 (Berlatih)**: Santri mulai mengenali tanda amarahnya, namun terkadang masih melontarkan kata ketus sebelum akhirnya sadar dan beristighfar setelah diingatkan teman.
+* **J3 (Mandiri)**: Saat tersulut emosi, santri secara otonom menarik napas dalam, diam menahan lisan, dan segera mengambil air wudhu tanpa perlu disuruh siapa pun.
+* **J4 (Penggerak)**: Santri tidak hanya mampu mengendalikan dirinya sendiri, tetapi mampu menjadi penengah damai (*mushlih*) yang meredakan pertengkaran dua temannya di kamar dengan kalimat yang menyejukkan.
+
+---
+
 Dengan adanya Model Inti ini, kurikulum karakter pesantren tidak lagi bersifat abstrak. Para pembina asrama kini memiliki kompas operasional yang sangat jernih: setiap teguran, setiap sesi halaqah, dan setiap dinamika kamar mandi memiliki sasaran kapasitas yang jelas untuk ditumbuhkan.
 
 Lalu, di manakah laboratorium tempat seluruh kapasitas ini diuji dan ditempa? Jawabannya adalah di dalam **ekosistem kehidupan asrama 24 jam**.
@@ -2494,14 +2846,17 @@ Bagaimanakah tata ruang asrama, titik rawan perundungan (*hotspots*), serta sine
 
 Inilah yang akan kita jelajahi secara mendalam dalam **Bab 11: Rekayasa Lingkungan Asrama & Ekosistem Terpadu 24 Jam**.
 
+Model Inti telah memberikan gambaran paripurna tentang sosok santri yang kita dambakan. Namun, manusia tidak hidup di awang-awang teori; santri hidup di bilik kamar, antrean wastafel, lorong jemuran, dan masjid. Bagaimana lingkungan fisik dan sosial 24 jam ini harus direkayasa agar secara otomatis mendorong adab dan memadamkan bibit perundungan?
+
+Di Bab 11, kita akan membedah Rekayasa Lingkungan Asrama dan Ekosistem Terpadu 24 Jam.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Furqan [25]: 74.
-[^2]: Hasan Al-Banna, *Risalatut Ta'alim*, Kairo: Dar at-Tauzi' wa an-Nasyr al-Islamiyyah, 1992, hlm. 12–18 mengenai sepuluh karakter muwashafat tarbiyah islamiyah; diselaraskan dengan Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE/README.md`.
-[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_ARCHITECTURE_PURPOSE_AND_LOGIC.md` dan `01_CORE_CAPACITIES/README.md`.
-
+[^2]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_ARCHITECTURE_PURPOSE_AND_LOGIC.md` dan `01_CORE_CAPACITIES/README.md`.
+[^3]: Hasan Al-Banna, *Risalatut Ta'alim*, Kairo: Dar at-Tauzi' wa an-Nasyr al-Islamiyyah, 1992, hlm. 12–18 mengenai sepuluh karakter muwashafat tarbiyah islamiyah; diselaraskan dengan Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE/README.md`.
 
 ---
 
@@ -2521,7 +2876,8 @@ Di banyak pondok pesantren, ketika terjadi insiden perundungan fisik antar-santr
 
 Mengapa nasihat agama yang luhur kerap kali tumpul di hadapan realitas asrama?
 
-Jawabannya diungkapkan oleh para pakar sosiologi tata ruang dan kriminologi lingkungan melalui teori **Pencegahan Kejahatan Melalui Desain Lingkungan (*Crime Prevention Through Environmental Design / CPTED*)**[^2]:
+Jawabannya diungkapkan oleh para pakar sosiologi tata ruang dan kriminologi lingkungan melalui teori **Pencegahan Kejahatan Melalui Desain Lingkungan (*Crime Prevention Through Environmental Design / CPTED*)**[^2a]: Al-Bukhari, *Shahih al-Bukhari*, hadits no. 2465; Muslim, *Shahih Muslim*, hadits no. 2121.
+[^2]:
 
 > **“Perilaku manusia tidak semata-mata dibentuk oleh doktrin moral di kepalanya, melainkan sangat ditentukan oleh bagaimana lingkungan fisik di sekitarnya dirancang dan ditata.”**
 
@@ -2622,7 +2978,7 @@ Perhatikan tiga keunggulan revolusioner dalam jadwal irama TUMBUH di atas:
 1. **Jaminan Waktu Tidur Malam 7 Jam Penuh (21.30 hingga 04.30)**:  
    Lampu kamar asrama wajib dipadamkan tepat pada pukul 21.30 malam. Seluruh aktivitas muthala'ah dan tugas kamar dihentikan. Santri mendapatkan hak biologis tidurnya secara utuh, memungkinkan sistem glimfatik membersihkan racun otak dan memastikan hafalan Al-Qur'an terkonsolidasi dengan kokoh di neokorteksnya.
 2. **Menghidupkan Sunnah Qailulah (Tidur Siang Singkat 20 Menit)**:  
-   Rasulullah ﷺ bersabda: *"Tidurlah qailulah (di siang hari), karena sesungguhnya setan itu tidak pernah tidur qailulah"* (HR. At-Thabarani)[^4]. Tidur siang singkat selama 15–20 menit bakda zuhur terbukti secara ilmiah meremajakan neurotransmiter dopamin dan asetilkolin di otak santri, memulihkan fokus konsentrasi hingga 100% untuk sesi madrasah sore.
+   Rasulullah ﷺ bersabda: *"Tidurlah qailulah (di siang hari), karena sesungguhnya setan itu tidak pernah tidur qailulah"* (HR. At-Thabarani)[^2]. Tidur siang singkat selama 15–20 menit bakda zuhur terbukti secara ilmiah meremajakan neurotransmiter dopamin dan asetilkolin di otak santri, memulihkan fokus konsentrasi hingga 100% untuk sesi madrasah sore.
 3. **Penyediaan Ruang Riadah Fisik Sore Hari (15.45 hingga 17.30)**:  
    Santri usia remaja memiliki akumulasi energi motorik yang sangat besar. Jika energi fisik ini tidak disalurkan secara sehat melalui olahraga sepak bola, memanah, beladiri, atau lari sore, maka energi tersebut akan meledak di malam hari dalam bentuk perkelahian dan kegaduhan kamar mandi. Olahraga sore adalah instrumen katarsis biologis yang menyehatkan jiwa santri.
 
@@ -2673,23 +3029,58 @@ TUMBUH meletakkan orang tua sebagai **Mitra Utama Tarbiyah (*Primary Co-Educator
 2. **Penyelarasan Nilai Saat Musim Liburan (*Vacation Continuity Protocol*)**:  
    Sebelum liburan semester tiba, pesantren mengadakan pertemuan dengan orang tua untuk menyepakati kesinambungan adab di rumah: bagaimana orang tua menjaga salat subuh berjamaah, membatasi gawai (*gadget*), dan merawat keteladanan di ruang keluarga, sehingga karakter yang telah dibangun di pondok tidak roboh saat anak berada di rumah.
 
+---
+
+### 11.6 Standar Baku Infrastruktur Fisik Bi'ah Shalihah: Daftar Periksa Kelayakan Asrama
+
+Karakter adab tidak mungkin bersemi di tengah lingkungan fisik yang membusuk. Oleh karena itu, arsitektur TUMBUH menetapkan **Standar Baku Kelayakan Fisik Asrama (*Physical Dormitory Standards*)**:
+
+| Komponen Infrastruktur | Standar Minimum TUMBUH | Dampak terhadap Regulasi Saraf & Adab Santri |
+| :--- | :--- | :--- |
+| **Kepadatan Ruang Tidur** | Minimal $3,5\text{ m}^2$ per santri; jarak antar-ranjang minimal 1 meter. | Menghilangkan rasa sesak (*crowding stress*), menjaga privasi tubuh biologis (*farriqu bainahum*). |
+| **Rasio Sanitasi & Mandi** | 1 kamar mandi untuk maksimal 6 santri; pasokan air mengalir 24 jam. | Menghilangkan antrean panjang yang memicu kepanikan, perkelahian, dan serobot antrean. |
+| **Loker Pribadi Anti-Ghashab** | Setiap santri wajib memiliki 1 lemari terkunci dengan kunci ganda (santri & musyrif). | Mengamankan hak milik kebendaan (*hifzh al-mal*); memutus rantai godaan mencuri/ghashab. |
+| **Pencahayaan & Ventilasi** | Jendela ventilasi silang minimal 15% dari luas lantai; pencahayaan siang >200 lux. | Pasokan oksigen melimpah menyegarkan hipokampus otak; membunuh bakteri kuman kulit (*scabies*). |
+| **Pencahayaan Malam Hari** | Lampu koridor menyala 100%; lampu tidur bilik bertransisi ke warna kuning temaram. | Mencegah ruang gelap titik rawan pelecehan; merangsang pelepasan melatonin alami. |
+
+---
+
+### 11.7 Protokol Patroli Lembut Malam Hari (*The Gentle Night Watch Protocol*)
+
+Salah satu tugas terpenting musyrif asrama adalah mengawal malam (*ar-ri'ayah al-lailiyyah*). Namun dalam paradigma lama, ronda malam sering berubah menjadi operasi militer yang menakutkan: musyrif berjalan membawa pentungan kayu, menyenter wajah santri yang sedang tidur, atau menendang pintu kamar.
+
+TUMBUH memberlakukan **Protokol Patroli Lembut Malam Hari**:
+
+1. **Jadwal Patroli Tiga Gelombang**:  
+   * **Gelombang I (Pukul 22.00 WIB)**: Memastikan seluruh pintu lorong terkunci aman, lampu koridor menyala, dan seluruh santri telah berbaring di tempat tidurnya masing-masing.
+   * **Gelombang II (Pukul 01.30 WIB)**: Musyrif melangkah dengan sandal karet tanpa suara, memeriksa kamar-kamar tidur: merapikan selimut santri yang tersingkap, membetulkan posisi tidur santri yang tertelungkup (karena makruh dalam syariat dan menghambat pernapasan), serta mematikan kran air yang menetes.
+   * **Gelombang III (Pukul 04.00 WIB)**: Memulai prosesi membangunkan fajar dengan salam lembut dan senyuman cinta.
+2. **Sentuhan Kasih Sayang Ayah Ruhani**:  
+   Ketika musyrif melihat seorang santri cilik tidur meringkuk sambil memeluk bantalnya erat karena rindu orang tuanya, musyrif duduk sejenak di tepi ranjangnya, mengusap kepalanya dengan doa kebaikan, dan membetulkan selimutnya. Di dalam tidur lelapnya, alam bawah sadar santri merasakan rasa aman yang mendalam: ia tahu bahwa di asrama ini, ia dicintai dan dilindungi.
+
+---
+
 Ketika arsitektur tata ruang fisik, irama sirkadian biologis, sinergi triad pengasuhan, dan kemitraan orang tua menyatu menjadi satu ekosistem yang hidup, pesantren menjelma menjadi **Bi'ah Shalihah yang Kokoh**.
 
 Di dalam rahim peradaban inilah, santri melangkah menapaki tangga kedewasaannya: dari seorang santri pemula yang membutuhkan bimbingan intensif, bertransformasi langkah demi langkah menuju seorang kader teladan penggerak peradaban.
 
 Bagaimanakah tahapan progresi kemandirian santri dari Jenjang J1 hingga Jenjang J4 dirancang secara taksonomis?  
-Inilah penjelajahan agung yang akan kita masuki bersama dalam **BAGIAN VI: PROGRESI JENJANG KEMANDIRIAN SANTRI (J1–J4)**.
+Inilah tahapan ikhtiar yang akan kita pelajari bersama dalam **BAGIAN VI: PROGRESI JENJANG KEMANDIRIAN SANTRI (J1–J4)**.
+
+Tata ruang dan ekosistem 24 jam telah kita siapkan sebagai tanah yang subur. Kini saatnya kita menatap benih itu sendiri: sang santri. Bagaimana tahapan pertumbuhan jiwa santri bergerak dari hari pertama ia melangkah ke asrama hingga kelak ia lulus sebagai pemimpin peradaban? Mengapa progresi karakter tidak boleh disamakan dengan kenaikan kelas administratif?
+
+Di Bab 12, kita memasuki gerbang Bagian VI untuk membedah Paradigma Progresi Karakter: Pendakian Jiwa Menuju Derajat Rusyd.
 
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Jum'ah, Bab al-Jum'ah fi al-Qura wa al-Mudun, hadits no. 893; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Imarah, Bab Fadhilat al-Imam al-'Adil, hadits no. 1829.
-[^2]: C. Ray Jeffery, *Crime Prevention Through Environmental Design* (Beverly Hills: Sage Publications, 1971); Oscar Newman, *Defensible Space: Crime Prevention Through Urban Design* (New York: Macmillan, 1972), hlm. 1–48.
-[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/02_CONNECTED_CONTEXTS.md` dan `03_INSTITUTIONAL_ECOLOGY.md`.
-[^4]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Ausath* (Kairo: Dar al-Haramain, 1995), Jilid I, hlm. 13, hadits no. 28; dishahihkan oleh Syaikh Al-Albani dalam *Silsilah al-Ahadits ash-Shahihah*, no. 1647.
-[^5]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/01_TRIAD_GROWTH.md` dan `04_RELATIONAL_DYNAMICS.md`.
-
+[^2]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Ausath* (Kairo: Dar al-Haramain, 1995), Jilid I, hlm. 13, hadits no. 28; dishahihkan oleh Syaikh Al-Albani dalam *Silsilah al-Ahadits ash-Shahihah*, no. 1647.
+[^3]: Al-Bukhari, *Shahih al-Bukhari*, hadits no. 2465; Muslim, *Shahih Muslim*, hadits no. 2121.
+[^4]: C. Ray Jeffery, *Crime Prevention Through Environmental Design* (Beverly Hills: Sage Publications, 1971); Oscar Newman, *Defensible Space: Crime Prevention Through Urban Design* (New York: Macmillan, 1972), hlm. 1–48.
+[^5]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/02_CONNECTED_CONTEXTS.md` dan `03_INSTITUTIONAL_ECOLOGY.md`.
+[^6]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/01_TRIAD_GROWTH.md` dan `04_RELATIONAL_DYNAMICS.md`.
 
 ---
 
@@ -2703,6 +3094,10 @@ Inilah penjelajahan agung yang akan kita masuki bersama dalam **BAGIAN VI: PROGR
 
 ---
 
+Sahabat Abdullah bin Abbas رضي الله عنهما dalam riwayat *Shahih al-Bukhari* menafsirkan firman Allah *latarkabunna thabaqan 'an thabaq*: *"Halan ba'da hal"*—yakni kalian benar-benar akan menapaki keadaan demi keadaan dan fase demi fase dalam perjalanan hidup dan pematangan jiwa.[^1] 
+
+Imam Abu Ja'far Ath-Thabari dan Al-Hafizh Ibnu Katsir menjelaskan bahwa sunnatullah penciptaan manusia senantiasa bergerak melalui tahapan-tahapan bertingkat: dari lemah menuju kuat, dari kebodohan menuju ilmu, dan dari ketergantungan menuju kemandirian akal budi.[^2] Pertumbuhan karakter santri di pesantren adalah manifestasi nyata dari hukum *thabaqan 'an thabaq* ini.
+
 ### Prolog: Langkah-Langkah Pertama di Bawah Gerbang Kayu
 
 Pagi itu, di bawah gerbang kayu jati bertuliskan kaligrafi kufi di mulut pesantren, dua dunia yang sangat berbeda melintas berdampingan. Di sisi kiri gerbang, seorang anak lelaki berusia sebelas tahun melangkah dengan langkah terseret. Tas punggungnya tampak terlalu besar bagi bahunya yang ringkih. Matanya sembab kemerahan; jemari kecilnya mencengkeram ujung gamis ibunya erat-erat, seolah jika ia melepaskan genggaman itu walau sedetik saja, dunianya akan runtuh berkeping-keping. Anak itu baru saja menempuh perjalanan tujuh jam dari sebuah kota di pesisir, dan hari ini untuk pertama kalinya dalam hidupnya, ia harus tidur di atas dipan susun bersama orang-orang asing tanpa pelukan dan ciuman kening sang ibu sebelum memejamkan mata.
@@ -2715,7 +3110,7 @@ Yang satu adalah kuncup fitrah yang baru saja tercabut dari pot kenyamanan rumah
 
 Bagaimanakah seekor ulat yang rapuh bertransformasi menjadi kupu-kupu yang anggun melintasi taman bunga? Bagaimanakah anak kecil yang sembab menangis itu dapat bermutasi menjadi ksatria penggerak kebaikan di asrama?
 
-Bab ini membedah arsitektur agung di balik keajaiban transformasi tersebut. Bab ini membongkar kepalsuan tradisi penyeragaman kaku yang merusak jiwa santri, merumuskan Penyelarasan Tiga Lensa Arsitektur TUMBUH (10 Tingkat Adab, 5 Tingkat Kapasitas, dan 4 Jenjang J1–J4), memetakan Delapan Kapasitas Inti Fitrah (*The 8 Core Capacities*), serta menyajikan seni pedagogis pelepasan bantuan bertahap (*fading scaffolding*) yang mengantarkan santri dari ketergantungan menuju kemerdekaan jiwa sejati.
+Bab ini membedah ikhtiar dan kaidah di balik proses transformasi tersebut. Bab ini membongkar kepalsuan tradisi penyeragaman kaku yang merusak jiwa santri, merumuskan Penyelarasan Tiga Lensa Arsitektur TUMBUH (10 Tingkat Adab, 5 Tingkat Kapasitas, dan 4 Jenjang J1–J4), memetakan Delapan Kapasitas Inti Fitrah (*The 8 Core Capacities*), serta menyajikan seni pedagogis pelepasan bantuan bertahap (*fading scaffolding*) yang mengantarkan santri dari ketergantungan menuju kemerdekaan jiwa sejati.
 
 ---
 
@@ -2734,7 +3129,7 @@ Keadilan dalam epistemologi Islam, sebagaimana ditegaskan oleh para fukaha ushul
 
 $$\text{وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ}$$
 
-> *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^2]
+> *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^3]
 
 Meletakkan beban ekspektasi kemandirian santri senior ke atas pundak anak kecil yang baru beradaptasi adalah kezaliman pedagogis yang memicu kepanikan saraf (*nervous system flooding*), merusak rasa aman, dan melahirkan trauma kronis. 
 
@@ -2750,7 +3145,7 @@ Salah satu keunggulan konseptual paling mendasar dari ekosistem TUMBUH v2.0.0 ad
 
 Sering kali para asatidz lapangan bertanya dengan nada bingung: *Mengapa di kurikulum disebutkan ada 10 tingkat penjenjangan adab? Mengapa di instrumen asesmen ada 5 tingkat kapasitas fungsional? Dan bagaimana hubungannya dengan 4 Jenjang Dukungan (J1–J4) di asrama? Bukankah penjenjangan yang banyak itu saling bertabrakan?*
 
-TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertentangan, melainkan bekerja sebagai Tiga Lensa Komplementer yang saling melengkapi (*The Three Architectural Lenses*)**[^3].
+TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertentangan, melainkan bekerja sebagai Tiga Lensa Komplementer yang saling melengkapi (*The Three Architectural Lenses*)**[^4].
 
 ```text
                                 SISTEM TUMBUH v2.0.0
@@ -2857,7 +3252,46 @@ Kapasitas jiwa untuk melihat ke dalam dirinya sendiri (*self-reflection*): menya
 
 ---
 
-### 12.4 Dinamika Pelepasan Bantuan Bertahap (Fading Scaffolding)
+### 12.5 Zona Perkembangan Proksimal (ZPD) dalam Khazanah Tarbiyah Asrama
+
+Konsep perkembangan bertahap ini menemukan landasan psikologis modernnya dalam teori **Zona Perkembangan Proksimal (*Zone of Proximal Development / ZPD*)** yang dirumuskan oleh psikolog Lev Vygotsky[^5].
+
+Vygotsky membagi bentang belajar manusia ke dalam tiga zona:
+
+```mermaid
+graph TD
+    subgraph TIGA_ZONA_BELAJAR["Tiga Zona Belajar Santri di Asrama"]
+        direction TB
+        Z1["1. ZONA NYAMAN (COMFORT ZONE)<br/>Tugas Terlalu Mudah • Tidak Ada Pertumbuhan Jiwa • Melahirkan Kebosanan & Apatis"]
+        Z2["2. ZONA PERKEMBANGAN PROKSIMAL (ZPD - SWEET SPOT)<br/>Tugas Berada Sedikit di Atas Kemampuan Mandiri Santri,<br/>Namun Mampu Dikuasai dengan Bantuan Mentor (Scaffolding) • TEMPAT TERJADINYA TUMBUH!"]
+        Z3["3. ZONA PANIK (PANIC / FRUSTRATION ZONE)<br/>Beban Terlalu Berat • Hipokampus & Rem PFC Lumpuh • Melahirkan Depresi & Pemberontakan"]
+        
+        Z1 --> Z2
+        Z2 --> Z3
+    end
+```
+
+Kunci keberhasilan tarbiyah asrama adalah **menjaga santri senantiasa berada di dalam ZPD**:
+* Memberikan tantangan adab yang berada selangkah di depan kapasitas saat ini: santri J1 yang baru bisa bangun pukul 04.30 diberi tantangan bangun pukul 04.15 dengan pendampingan lembut musyrif.
+* Tidak melempar santri ke Zona Panik: tidak menuntut santri baru yang belum lancar membaca Al-Qur'an untuk langsung menyetorkan 1 juz per hari dengan ancaman takzir berdiri di lapangan.
+* Menyeimbangkan secara presisi antara **Tingkat Tantangan (*High Challenge*)** dan **Tingkat Dukungan Kasih Sayang (*High Support*)**. Jika tantangan tinggi tanpa dukungan, santri akan hancur oleh kecemasan; jika dukungan tinggi tanpa tantangan, santri akan manja dan kerdil.
+
+---
+
+### 12.6 Matriks Pemetaan Triangulasi Tiga Lensa Arsitektur TUMBUH
+
+Untuk memberikan kejelasan mutlak bagi seluruh tim akademis dan pengasuhan dalam memetakan posisi santri, tabel komprehensif berikut menyandingkan Lensa 1, Lensa 2, dan Lensa 3 secara integratif:
+
+| Jenjang Asrama (Lensa 3) | Target Lensa 1 (Tingkat Adab & Peran Jiwa) | Target Lensa 2 (Tingkat Kapasitas Fungsional 8 CC) | Peran Dominan Musyrif Lapangan | Indikator Kunci Kelulusan Jenjang |
+| :---: | :--- | :--- | :--- | :--- |
+| **J1: Pemula** | **Tingkat 1 s/d 3**:<br/>*Tahu $\rightarrow$ Paham $\rightarrow$ Sadar* | **Level 1 (Pemula)**:<br/>Memerlukan perancah penuh dan contoh langsung. | *Perawat & Pelindung Melekat* (Rasio dukungan 80%) | Tuntas masa kritis adaptasi 90 hari; bebas homesickness akut; mampu merapikan loker mandiri. |
+| **J2: Terbimbing** | **Tingkat 4**:<br/>*Pembiasaan Berulang* | **Level 2 (Terbimbing)**:<br/>Mampu menjalankan rutinitas dengan pengingat berkala. | *Pelatih & Pengarah Kamar* (Rasio dukungan 50%) | Konsisten salat berjamaah 40 hari; aktif dalam musyawarah kamar; bebas dari perilaku ghashab. |
+| **J3: Mandiri** | **Tingkat 5**:<br/>*Istiqamah Menetap* | **Level 3 (Mandiri Rutin)**:<br/>Otonom tanpa perlu diawasi atau diingatkan lagi. | *Konsultan & Pemantau Jauh* (Rasio dukungan 20%) | Integritas muraqabatullah saat sendiri; inisiatif belajar malam; mampu meredam konflik kamar. |
+| **J4: Teladan** | **Tingkat 6 & 7**:<br/>*Teladan $\rightarrow$ Penggerak* | **Level 4 & 5 (Tangguh & Menjiwai / Mastery)** | *Mitra Pemberdayaan* (Rasio dukungan 10%) | Menjadi mentor asuh santri J1; memimpin organisasi santri dengan *Servant Leadership*; teladan adab. |
+
+---
+
+### 12.7 Dinamika Pelepasan Bantuan Bertahap (Fading Scaffolding)
 
 Bagaimanakah proses transisi pengasuhan dari J1 menuju J4 dijalankan tanpa membuat santri terkejut atau sebaliknya mengalami kemunduran?
 
@@ -2879,7 +3313,7 @@ Ketika layang-layang baru dinaikkan dari tanah di tengah hembusan angin kencang,
 
 Jika terjadi badai goncangan emosi (misalnya santri mengalami krisis kehilangan orang tua atau konflik berat), sang musyrif tidak segan untuk **menarik kembali benang tersebut sejenak (*re-scaffolding*)** agar layang-layang jiwa anak itu tidak terhempas, lalu mengulurnya kembali setelah badai mereda.
 
-Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan; melainkan mendampingi dengan perhitungan ilmu dan welas asih hingga jiwa anak mampu terbang mandiri di bawah langit keridhaan Ilahi.**
+Inilah hakikat tarbiyah yang sesungguhnya: **Bukan memanjakan, bukan pula menelantarkan; melainkan mendampingi dengan perhitungan ilmu dan welas asih hingga jiwa anak mampu terbang mandiri di bawah langit keridhaan Ilahi.**
 
 ---
 
@@ -2894,14 +3328,19 @@ Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan;
 4. **Prinsip Pelepasan Bantuan Bertahap (*Fading Scaffolding*):** Musyrif bertindak laksana penerbang layang-layang: memegang erat di fase awal, mengulur benang saat kapasitas menguat, dan siap menarik kembali secara bermartabat (*re-scaffolding*) jika terjadi badai emosional.
 5. **Kunci Sukses Transisi:** Menjamin santri menapaki setiap jenjang bukan atas dasar umur kalender semata, melainkan atas dasar pembuktian stabilitas kapasitas adab yang teruji secara autentik.
 
+Kita telah menelaah arah dan tahapan ikhtiar pendakian jiwa ini. Namun, bagaimana fase-fase awal pendakian itu berlangsung saat rintik air mata pertama tumpah di ranjang asrama? Bagaimana mendampingi seorang anak kecil yang rapuh melewati badai homesickness dan pubertas awal tanpa mematahkan harga dirinya?
+
+Di Bab 13, kita membedah secara mendalam Jenjang J1 dan J2: Dari Keterasingan Menuju Keteraturan Berkesadaran.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
 
-[^1]: Al-Qur'an al-Karim, Surah Al-Insyiqaq [84]: 19.
-[^2]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-Maqashid fi 'Ilm al-Kalam* (Beirut: 'Alam al-Kutub, 1998), Jilid IV, hlm. 285–292; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145 mengenai definisi keadilan dan adab.
-[^3]: Dokumen Kanonikal Arsitektur TUMBUH v2.0.0, *Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)*, berkas induk: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md`.
-
+[^1]: Al-Qur'an al-Karim, Surah Al-Insyiqaq [84]: 19; Al-Bukhari, *Shahih al-Bukhari*, Kitab at-Tafsir, hadits no. 4940.
+[^2]: Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 336–340; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 358–360.
+[^3]: Sa'duddin Mas'ud bin Umar At-Taftazani, *Syarh al-Maqashid fi 'Ilm al-Kalam* (Beirut: 'Alam al-Kutub, 1998), Jilid IV, hlm. 285–292; Syed Muhammad Naquib al-Attas, *Islam and Secularism* (Kuala Lumpur: ABIM, 1978), hlm. 140–145 mengenai definisi keadilan dan adab.
+[^4]: Dokumen Kanonikal Arsitektur TUMBUH v2.0.0, *Penyelarasan Tingkatan Perkembangan (Developmental Levels Alignment)*, berkas induk: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md`.
+[^5]: Lev S. Vygotsky, *Mind in Society: The Development of Higher Psychological Processes*, diedit oleh Michael Cole dkk. (Cambridge: Harvard University Press, 1978), hlm. 79–91 mengenai konsep *Zone of Proximal Development (ZPD)* dan *scaffolding*.
 
 ---
 
@@ -2914,6 +3353,8 @@ Inilah rahasia keagungan tarbiyah: **Bukan memanjakan, bukan pula menelantarkan;
 > — **QS. Luqman [31]: 17**[^1]
 
 ---
+
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan urutan hikmah pedagogis dari wasiat Luqman kepada putranya: Luqman memulai dengan mendirikan salat sebagai tiang penenang jiwa dan penghubung vertikal dengan Allah, kemudian memerintahkan amar makruf nahi mungkar sebagai latihan kepedulian sosial, lalu memerintahkan bersabar atas cobaan yang niscaya menghadang jalan perjuangan. Luqman memanggil putranya dengan panggilan *Yaa Bunayya*—sebuah sapaan kasih sayang takzim (*at-tashghir li at-tahabbub*) yang menjadi teladan bagaimana musyrif asrama wajib mendekap santri J1 dan J2 yang sedang rapuh.[^1]
 
 ### Prolog: Rintik Hujan di Kaca Bilik Santri Baru
 
@@ -3123,6 +3564,10 @@ Untuk memastikan objektivitas evaluasi formatif musyrif di asrama, berikut adala
 4. **Tantangan Pubertas Awal Jenjang J2:** Menghadapi lonjakan hormon seksual, pengujian batas aturan (*boundary testing*), dan kerapuhan perundungan relasional dalam klik teman sebaya.
 5. **Dosis Pengasuhan J2 (Guided Scaffolding 50%):** Mengalihkan energi santri ke arah kepemimpinan mandiri melalui musyawarah kamar (*Majlis al-Ghurfah*) dan melatih resolusi konflik antarteman sebaya melalui naskah dialog restoratif yang adil.
 
+Santri J1 dan J2 telah berhasil melewati fase adaptasi dan pembiasaan dasar; akarnya telah menghunjam ke tanah asrama. Namun, ujian sejati baru saja dimulai saat mereka menginjak usia remaja madya dan akhir: *Bagaimana mengubah kepatuhan yang awalnya masih dibimbing musyrif menjadi kesadaran otonom yang merdeka? Bagaimana melatih santri senior agar tidak tergelincir menjadi penindas feodal, melainkan menjadi pemimpin yang melayani (Sayyidul Qaumi Khadimuhum)?*
+
+Di Bab 14, kita akan membedah Jenjang J3 dan J4: Otonomi Karakter dan Kepemimpinan Qudwah.
+
 ---
 
 ### Catatan Kaki & Rujukan Akademik
@@ -3131,21 +3576,24 @@ Untuk memastikan objektivitas evaluasi formatif musyrif di asrama, berikut adala
 [^2]: John Bowlby, *Attachment and Loss: Vol. 1. Attachment* (New York: Basic Books, 1969), hlm. 177–235; Mary D. Salter Ainsworth, *Patterns of Attachment: A Psychological Study of the Strange Situation* (Hillsdale: Lawrence Erlbaum Associates, 1978).
 [^3]: Emeran A. Mayer, *The Mind-Gut Connection: How the Hidden Conversation Within Our Bodies Impacts Our Mood, Our Choices, and Our Overall Health* (New York: Harper Wave, 2016), hlm. 85–124 mengenai *the gut-brain axis* dan somatisasi kecemasan pada anak.
 
-
 ---
 
 # BAB 14: BEDAH JENJANG J3 & J4: OTONOMI KARAKTER DAN KEPEMIMPINAN QUDWAH
 
-> *"Dan bagi tiap-tiap umat ada kiblatnya sendiri yang ia menghadap kepadanya; maka berlomba-lombalah kamu dalam kebaikan."*  
-> — **QS. Al-Baqarah [2]: 148**
+> وَلِكُلٍّ وِجْهَةٌ هُوَ مُوَلِّيهَا ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ أَيْنَ مَا تَكُونُوا يَأْتِ بِكُمُ اللَّهُ جَمِيعًا ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+>
+> *"Dan bagi tiap-tiap umat ada kiblatnya sendiri yang ia menghadap kepadanya; maka berlomba-lombalah kamu dalam berbagai kebajikan. Di mana saja kamu berada niscaya Allah akan mengumpulkan kamu sekalian. Sesungguhnya Allah Maha Kuasa atas segala sesuatu."*  
+> — **QS. Al-Baqarah [2]: 148**[^1]
 
 > سَيِّدُ الْقَوْمِ خَادِمُهُمْ  
 > *"Pemimpin suatu kaum adalah pelayan bagi mereka."*  
-> — **Hadits Riwayat Al-Baihaqi & Abu Nu'aim**
+> — **Hadits Riwayat Al-Baihaqi & Abu Nu'aim**[^2]
 
 ---
 
 ### Pendahuluan
+
+Ayat ke-148 dari Surah Al-Baqarah di atas memancangkan etos tertinggi dalam pendidikan kemandirian Islam. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa perintah *fastabiqul khairat* menyeru kaum beriman untuk bersegera melakukan amal kebajikan yang paling utama dan saling berlomba-lomba dalam kemaslahatan (*al-musara'ah ila ath-tha'at*). Pada Jenjang J3 dan J4, orientasi santri tidak lagi sekadar pasif menaati aturan agar tidak dihukum musyrif; orientasi mereka telah melompat menuju panggilan batin untuk mempersembahkan karya, khidmah, dan keteladanan terbaik bagi peradaban umat.[^1]
 
 Jika perjalanan santri pada Jenjang J1 dan J2 adalah etape peletakan batu fondasi—proses adaptasi dari kenyamanan rumah menuju disiplin asrama, penjinakan impuls kebiasaan lama, serta pembangunan responsivitas melalui pendampingan intensif musyrif—maka Jenjang J3 (*Independent Functioning / Mandiri Berkesadaran*) dan Jenjang J4 (*Autonomous Stewardship / Teladan Penggerak*) adalah fase metamorfosis sejati karakter santri. Pada kedua jenjang ini, pusat gravitasi perilaku bergeser secara radikal: dari ketergantungan pada kendali luar (*external scaffolding*) menuju bekerjanya kompas moral batiniah (*internal locus of control* dan *muraqabatullah*).
 
@@ -3160,15 +3608,15 @@ Bab ini membedah secara mendalam dan komprehensif arsitektur psikologis, spiritu
 Jenjang J3 (*Independent Functioning*) menandai pencapaian penting dalam perjalanan santri: etape di mana nilai-nilai adab dan disiplin pondok telah bertransformasi dari sekadar tuntutan eksternal menjadi identitas diri yang disadari. Santri pada jenjang ini tidak lagi digerakkan oleh rasa takut akan sanksi musyrif atau harapan akan pujian teman, melainkan oleh dorongan batin yang melihat keteraturan, ilmu, dan ibadah sebagai kebutuhan eksistensial jiwanya sendiri.
 
 #### 1. Pergeseran Psikologis: Teori Penentuan Diri dan Terbentuknya Malakah
-Dalam perspektif *Self-Determination Theory* (Ryan & Deci, 2000), santri J3 telah melampaui fase regulasi eksternal (*external regulation*) dan regulasi introjeksi (*introjected regulation*). Mereka kini beroperasi pada ranah regulasi teridentifikasi (*identified regulation*) dan regulasi terintegrasi (*integrated regulation*). Santri menghargai salat berjamaah tepat waktu di shaf terdepan bukan karena ada musyrif yang mencatat di pintu masjid, melainkan karena ia mengidentifikasi dirinya sebagai seorang penuntut ilmu yang membutuhkan keridhaan Allah dan ketenangan batin.
+Dalam perspektif *Self-Determination Theory* (Ryan & Deci, 2017), santri J3 telah melampaui fase regulasi eksternal (*external regulation*) dan regulasi introjeksi (*introjected regulation*)[^3]. Mereka kini beroperasi pada ranah regulasi teridentifikasi (*identified regulation*) dan regulasi terintegrasi (*integrated regulation*). Santri menghargai salat berjamaah tepat waktu di shaf terdepan bukan karena ada musyrif yang mencatat di pintu masjid, melainkan karena ia mengidentifikasi dirinya sebagai seorang penuntut ilmu yang membutuhkan keridhaan Allah dan ketenangan batin.
 
-Secara epistemologis turats, pencapaian ini selaras sempurna dengan konsep *malakah* yang diuraikan oleh Al-'Allamah Ibn Khaldun dalam *Muqaddimah*-nya. Ibn Khaldun menjelaskan bahwa suatu kecakapan moral atau keilmuan tidak disebut karakter sejati sampai ia mencapai derajat *malakah*—yaitu kualitas jiwa yang telah meresap demikian mendalam melalui pembiasaan berulang-ulang hingga melahirkan tindakan secara spontan, ringan, dan nikmat, tanpa memerlukan pemikiran panjang atau dorongan paksaan dari luar (*shifatun rasikhatun fil-nafs*). Bagi santri J3:
+Secara epistemologis turats, pencapaian ini selaras sempurna dengan konsep *malakah* yang diuraikan oleh Al-'Allamah Ibn Khaldun dalam *Muqaddimah*-nya[^4]. Ibn Khaldun menjelaskan bahwa suatu kecakapan moral atau keilmuan tidak disebut karakter sejati sampai ia mencapai derajat *malakah*—yaitu kualitas jiwa yang telah meresap demikian mendalam melalui pembiasaan berulang-ulang hingga melahirkan tindakan secara spontan, ringan, dan nikmat, tanpa memerlukan pemikiran panjang atau dorongan paksaan dari luar (*shifatun rasikhatun fil-nafs*). Bagi santri J3:
 - Bangun tidur sebelum fajar bukan lagi pertempuran batin yang menyiksa, melainkan ritme sirkadian tubuh dan kerinduan ruhani yang alamiah.
 - Merapikan tempat tidur, meletakkan kitab pada tempat terhormat, dan membersihkan remah makanan bukan lagi kepatuhan pada daftar periksa (*checklist*), melainkan ekspresi estetika iman dan kebersihan batin.
 - Bersikap santun dalam bertutur kata bukan lagi kepura-puraan sosial di depan guru, melainkan cerminan hati yang telah terbiasa memuliakan sesama hamba Allah.
 
 #### 2. Ujian Tertinggi Muraqabatullah: Adab dalam Ruang Sepi
-Ujian keaslian karakter seorang santri bukanlah saat ia berdiri di bawah sorot lampu panggung pondok atau saat berpapasan dengan pimpinan pesantren di lorong madrasah. Ujian sejati integritas—sebagaimana ditegaskan Imam Al-Ghazali dalam *Ihya' 'Ulumiddin*—terletak pada perilakunya ketika ia berada dalam kesendirian (*al-khalwah*), di mana tidak ada musyrif yang mengawasi, tidak ada mata kawan yang memuji, dan tidak ada ancaman hukuman duniawi yang mengintai.
+Ujian keaslian karakter seorang santri bukanlah saat ia berdiri di bawah sorot lampu panggung pondok atau saat berpapasan dengan pimpinan pesantren di lorong madrasah. Ujian sejati integritas—sebagaimana ditegaskan Imam Al-Ghazali dalam *Ihya' 'Ulumiddin*—terletak pada perilakunya ketika ia berada dalam kesendirian (*al-khalwah*), di mana tidak ada musyrif yang mengawasi, tidak ada mata kawan yang memuji, dan tidak ada ancaman hukuman duniawi yang mengintai[^5].
 
 Santri Jenjang J3 ditempa untuk memiliki kesadaran *muraqabatullah* (merasa senantiasa diawasi oleh Allah Yang Maha Melihat dan Maha Mengetahui):
 - **Menjaga Pandangan dan Perangkat Digital:** Ketika diberi akses fasilitas laboratorium komputer atau perangkat informasi pondok, santri J3 memiliki kendali diri internal (*self-governance*) untuk tidak mengakses konten sia-sia, pornografi, atau melanggar batasan syariat, karena ia sadar bahwa pandangan Allah mendahului pandangan manusia.
@@ -3221,7 +3669,7 @@ Dalam arsitektur TUMBUH, Jenjang J4 menyelaraskan dua tingkat tertinggi dari eta
 #### 1. Kepemimpinan Pelayan (Servant Leadership / Khidmah) Melawan Feodalisme
 Di banyak lembaga asrama tradisional maupun modern, posisi santri senior di tingkat akhir kerap tergelincir menjadi kasta elite penindas. Kuasa kedudukan sering disalahartikan sebagai hak istimewa untuk dilayani, hak untuk membentak adik kelas, memaksakan kehendak, atau memperbudak santri baru dengan dalih "menegakkan kedisiplinan dan tradisi". Ini adalah penyakit feodalisme asrama yang merusak jiwa santri senior dengan racun kesombongan (*takabbur*) dan melukai jiwa adik kelas dengan rasa takut dan dendam.
 
-Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian:
+Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian dan prinsip *Servant Leadership*[^6]:
 $$\text{"Pemimpin suatu kaum adalah pelayan bagi mereka" (سَيِّدُ الْقَوْمِ خَادِمُهُمْ)}$$
 
 Bagi santri Jenjang J4:
@@ -3247,7 +3695,7 @@ Oleh karena itu, santri Jenjang J4 dibekali protokol penjagaan hati (*tazkiyatun
 
 ### 14.3 Penegasan Batas Arsitektural: Puncak J4 dan Garis Demarkasi Pasca-Santri
 
-Salah satu penegasan arsitektural terpenting dalam TUMBUH v2.0.0 adalah menjaga batas yang terang benderang antara **Siklus Santri Aktif (J1–J4)** dan **Siklus Pasca-Santri / Pendidik / Kelembagaan (Tahap 8, 9, 10)**. Ketiadaan batas ini dalam model-model lama sering memicu kerancuan tata kelola: santri tingkat akhir dituntut memikul beban operasional selevel staf pengasuhan penuh, atau sebaliknya, staf pengabdian lulusan pesantren diperlakukan layaknya santri asrama yang belum dewasa.
+Salah satu penegasan arsitektural terpenting dalam TUMBUH v2.0.0 adalah menjaga batas yang terang benderang antara **Siklus Santri Aktif (J1–J4)** dan **Siklus Pasca-Santri / Pendidik / Kelembagaan (Tahap 8, 9, 10)**[^6]. Ketiadaan batas ini dalam model-model lama sering memicu kerancuan tata kelola: santri tingkat akhir dituntut memikul beban operasional selevel staf pengasuhan penuh, atau sebaliknya, staf pengabdian lulusan pesantren diperlakukan layaknya santri asrama yang belum dewasa.
 
 Dokumen ini mengunci pemisahan tersebut dengan prinsip-prinsip mutlak berikut:
 
@@ -3285,6 +3733,43 @@ Dengan kejelasan batas arsitektural ini, ekosistem pembinaan pesantren TUMBUH be
 
 ---
 
+### 14.4 Matriks Komparasi 8 Kapasitas Inti: Manifestasi J3 (Mandiri) vs J4 (Teladan Penggerak)
+
+Untuk memberikan panduan konkret bagi para evaluator dan asatidz, tabel di bawah ini membedah lompatan kapasitas dari Jenjang J3 menuju Jenjang J4 pada delapan dimensi kapasitas fitrah:
+
+| Kapasitas Inti | Manifestasi pada Jenjang J3 (Mandiri Berkesadaran) | Manifestasi pada Jenjang J4 (Teladan Penggerak) |
+| :--- | :--- | :--- |
+| **CC-01: Regulasi Diri** | Mampu mengendalikan emosi dan nafsu kemalasan secara mandiri tanpa diawasi musyrif. | Mampu meregulasi atmosfer emosi kelompok dan membantu kawan yang sedang labil menenangkan diri (*co-regulation*). |
+| **CC-02: Komunikasi Beradab** | Bertutur kata santun (*qaulan sadida*), tidak berkata kotor, dan menjauhi ghibah di kamar. | Mampu berbicara persuasif di depan publik, memediasi konflik antar-kelompok, dan memberi masukan empatik. |
+| **CC-03: Nalar Kritis** | Mampu memecahkan masalah belajarnya sendiri dan kritis menyaring informasi hoaks. | Mampu merancang strategi organisasi santri, mengevaluasi efektivitas program, dan memetakan solusi maslahat. |
+| **CC-04: Ibadah & Muraqabah** | Menjaga salat berjamaah tepat waktu dan tilawah Al-Qur'an secara swakarsa di kala sepi. | Memancarkan wibawa kesalehan yang menggerakkan kawan sekamar beribadah, menjadi imam salat, dan teladan zikir. |
+| **CC-05: Kebugaran Jasmani** | Disiplin menjaga kebersihan pakaian dan kamar, serta menjaga ritme tidur sehat 7 jam. | Memelopori gerakan hidup sehat dan kebersihan asrama massal; merawat fasilitas bersama tanpa pamrih. |
+| **CC-06: Kejujuran & Amanah** | Menolak ghashab, mengakui kekhilafan secara ksatria, dan mengembalikan barang temuan. | Memegang amanah keuangan organisasi santri dengan akuntabilitas tinggi; menjadi rujukan integritas pondok. |
+| **CC-07: Empati & Khidmah** | Peka terhadap perasaan kawan sekamar dan bersedia membantu kawan yang sedang kesulitan. | Mengamalkan *Sayyidul Qaumi Khadimuhum*: menjadi kakak asuh santri J1, melayani kebutuhan umat, dan mengayomi adik kelas. |
+| **CC-08: Muhasabah Kalbu** | Rutin melakukan muhasabah batin harian dan segera bertaubat saat menyadari kekhilafan. | Memandu sesi evaluasi reflektif adik asuh, terbuka terhadap kritik, dan senantiasa tawadhu' di tengah pujian. |
+
+---
+
+### 14.5 Studi Kasus Kepemimpinan Servant Leadership J4: Kisah Santri Affan
+
+Untuk melihat bagaimana teori ini bernyawa di lantai asrama, mari kita simak peristiwa riil pembinaan di asrama putra:
+
+Di Kamar Ibnu Rusyd (kamar yang dihuni sepuluh santri baru kelas tujuh Jenjang J1), terjadi krisis adaptasi yang parah pada pekan ketiga tahun ajaran baru. Empat santri menangis setiap malam karena rindu rumah, pakaian kotor menumpuk di pojok bilik, dan dua santri saling melempar gayung saat berebut giliran mandi. 
+
+Musyrif asrama memanggil santri Affan (santri kelas dua belas, Jenjang J4 yang menjabat sebagai salah satu koordinator asrama).
+
+Bagaimana Affan menyikapi situasi tersebut?
+* **Bukan dengan Teriakan Otoriter**: Affan tidak masuk kamar dengan menendang pintu atau membentak adik-adik kelasnya: *"Kalian ini santri baru tidak tahu diuntung, bikin malu asrama saja!"*
+* **Langkah Servant Leadership Affan**:
+  1. Affan membawa sebungkus kurma dan beberapa botol air dingin ke kamar tersebut bakda isya. Ia duduk bersila di tengah karpet bersama anak-anak kelas tujuh tersebut.
+  2. Affan membuka percakapan dengan mendengarkan: *"Adik-adikku, lima tahun yang lalu, Abang Affan juga menangis tersedu-sedu di kamar ini persis seperti kalian. Abang rindu masakan ibu, rindu kamar sendiri di rumah. Menangis itu manusiawi dan bukan aib. Mari kita hadapi bersama."* Saraf anak-anak J1 tersebut seketika merasa aman (*down-regulated*).
+  3. Keesokan paginya saat fajar, Affan bangun tiga puluh menit lebih awal. Ia berdiri di depan pintu kamar mandi Kamar Ibnu Rusyd, membantu mengatur nomor antrean mandi dengan senyuman, lalu menyingsingkan lengan bajunya **membantu santri yang menangis mencuci tumpukan bajunya yang berlumut sabun di ember cuci**.
+  4. Melihat seorang santri senior yang paling dihormati di pondok bersedia mencelupkan tangannya ke dalam air cucian pakaian mereka, rasa malu dan takzim anak-anak J1 membuncah di dalam dada.
+
+Dalam waktu dua pekan, Kamar Ibnu Rusyd bermutasi menjadi kamar paling tertib dan rukun. Transformasi itu tidak diraih dengan rotan atau bentakan pelonco, melainkan dengan air mata keikhlasan dan keteladanan seorang pelayan sejati (*Khadimul Ummah*).
+
+---
+
 ### Rangkuman Intisari Bab 14
 
 1. **Evolusi Karakter pada J3:** Jenjang J3 (*Independent Functioning*) menandai transformasi dari kepatuhan eksternal menuju *internal locus of control* dan internalisasi adab sebagai watak membatin (*malakah*). Ujian keaslian santri J3 adalah konsistensi *muraqabatullah* di kala sendiri (*al-khalwah*), kemampuan manajemen waktu swakarsa, dan inisiatif mendamaikan perselisihan antarteman sekamar.
@@ -3293,21 +3778,42 @@ Dengan kejelasan batas arsitektural ini, ekosistem pembinaan pesantren TUMBUH be
 4. **Dekonstruksi Feodalisme Asrama:** Menghancurkan kultur senioritas tiranis dan perpeloncoan. Santri J4 dididik untuk mengambil tugas-tugas terberat, melayani sesama santri, serta menjaga hati dari racun *takabbur* dan merasa lebih mulia dari orang lain.
 5. **Demarkasi Arsitektural Mutlak:** Jenjang J1–J4 khusus berlaku bagi santri aktif di asrama pesantren. Santri J4 tidak memiliki kewenangan yudisial menjatuhkan sanksi formal. Pasca-kelulusan pesantren, mereka bertransisi memasuki Tahap 8 (Pelaksana Khidmah Wiyata Bakti), Tahap 9 (Pembina Pendidik), dan Tahap 10 (Pembangun Kelembagaan) yang berdiri di luar kerangka J1–J4.
 
+---
+
+Tahap kemandirian pada Jenjang J3 dan J4 menuntut kesungguhan ikhtiar yang besar. Namun, bagaimana sebuah lembaga memastikan bahwa kenaikan dari J1 ke J2, J2 ke J3, dan J3 ke J4 tidak jatuh menjadi formalitas birokrasi otomatis atau sekadar pergantian tahun kalender? Standar verifikasi apa yang menjamin kematangan jiwa santri sebelum ia diberi amanah memimpin adik-adiknya? 
+
+Di Bab 15, kita akan membedah Mekanisme Transisi, Portofolio Santri, dan Upacara Kenaikan Jenjang.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 148.
+[^2]: Diriwayatkan oleh Al-Baihaqi dalam *Syu'abul Iman*, no. 8624; Abu Nu'aim Al-Ashbahani dalam *Hilyatul Auliya'*, Jilid II, hlm. 55 dari Ibnu Abbas dan Abu Qatadah; dinilai hasan lighairihi oleh para muhadditsin karena banyaknya syawahid penguat.
+[^3]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 179–215 mengenai internalisasi regulasi moral (dari eksternal menuju *integrated regulation*).
+[^4]: Abdurrahman Ibnu Khaldun, *Al-Muqaddimah*, Tahqiq: Dr. Abdullah Muhammad ad-Darwisy (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan *malakah* (watak membatin) melalui pembiasaan berulang.
+[^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid IV, *Kitab Al-Muraqabah wa al-Muhasabah*, hlm. 385–412 mengenai adab saat sendiri (*al-khalwah*) dan kehadiran batin di hadapan Allah.
+[^6]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/01 Growth Architecture/09-Developmental-Levels-Alignment.md` dan `03-Stage-Demarcation-and-Scope.md`.
+[^7]: Robert K. Greenleaf, *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness* (Mahwah: Paulist Press, 1977), hlm. 1–49; Larry C. Spears (Ed.), *Reflections on Servant-Leadership* (New York: John Wiley & Sons, 1995).
 
 ---
 
 # BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
 
-> *"Sesungguhnya orang yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa di antara kamu."*  
-> — **QS. Al-Hujurat [49]: 13**
+> يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
+>
+> *"Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal. Sesungguhnya yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa di antara kamu. Sungguh, Allah Maha Mengetahui, Maha Teliti."*  
+> — **QS. Al-Hujurat [49]: 13**[^1]
 
 > مَنْ بَطَّأَ بِهِ عَمَلُهُ لَمْ يُسْرِعْ بِهِ نَسَبُهُ  
 > *"Barang siapa yang diperlambat oleh amalnya, maka nasab (atau kedudukannya) tidak akan dapat mempercepatnya."*  
-> — **Hadits Riwayat Muslim (No. 2699)**
+> — **Hadits Riwayat Muslim (No. 2699)**[^2]
 
 ---
 
 ### Pendahuluan
+
+Surah Al-Hujurat ayat 13 di atas adalah piagam penumbangan segala bentuk kasta feodal. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa seluruh anak cucu Adam setara dalam martabat kemanusiaannya; Allah meruntuhkan kesombongan nasab, senioritas angkatan, dan kasta sosial. Satu-satunya timbangan kemuliaan yang hakiki di sisi Allah adalah ketakwaan (*at-taqwa*). Di hadapan mekanisme transisi jenjang TUMBUH, lamanya seorang santri menetap di pondok tidak bernilai sebutir debu pun jika tidak disertai oleh ketakwaan amal, kejernihan akhlak, dan keluhuran adab melayani sesama.[^1]
 
 Salah satu bahaya terbesar dalam setiap sistem penjenjangan pendidikan asrama adalah jebakan formalisme administratif dan stratifikasi sosial yang feodalistik. Sering kali, perpindahan seorang santri dari tingkat junior ke tingkat senior semata-mata dipicu oleh pergantian tahun kalender atau naiknya kelas akademis di madrasah (*time-served promotion*). Pola kenaikan otomatis ini menciptakan ilusi kematangan: seorang santri mengenakan lencana senioritas padahal kapasitas regulasi diri, adab, dan kestabilan emosinya masih rapuh. Akibatnya, senioritas berubah menjadi hak istimewa kosong yang melahirkan arogansi, relasi kuasa intimidatif terhadap santri baru, dan runtuhnya integritas tarbiyah pesantren.
 
@@ -3319,7 +3825,7 @@ Bab ini membedah mekanisme transisi antar-jenjang secara menyeluruh: mulai dari 
 
 ### 15.1 Indikator Kelayakan Transisi Jenjang Berbasis Bukti Autentik
 
-Dalam arsitektur TUMBUH, transisi dari satu jenjang ke jenjang berikutnya (misalnya dari J1 ke J2, atau dari J2 ke J3) dikendalikan oleh gerbang evaluasi ketat yang disebut sebagai **Gerbang Transisi (*Gateway Review*)**. Gerbang ini dirancang untuk memastikan bahwa perancah (*scaffolding*) dukungan eksternal hanya ditarik mundur ketika kapasitas internal santri memang telah terbukti ajek dan stabil.
+Dalam arsitektur TUMBUH, transisi dari satu jenjang ke jenjang berikutnya (misalnya dari J1 ke J2, atau dari J2 ke J3) dikendalikan oleh gerbang evaluasi ketat yang disebut sebagai **Gerbang Transisi (*Gateway Review*)**[^3]. Gerbang ini dirancang untuk memastikan bahwa perancah (*scaffolding*) dukungan eksternal hanya ditarik mundur ketika kapasitas internal santri memang telah terbukti ajek dan stabil.
 
 #### 1. Melampaui Jebakan Waktu Kalender (*Beyond Time-Served Promotion*)
 Prinsip pertama dalam evaluasi transisi TUMBUH adalah: **Waktu menetap di asrama adalah syarat perlu (*necessary condition*), namun bukan syarat cukup (*sufficient condition*) untuk kenaikan jenjang.**
@@ -3331,7 +3837,7 @@ Dua orang santri yang masuk pondok pada hari yang sama dan duduk di kelas madras
 Memaksa Santri B naik ke jenjang J2 hanya karena "sudah satu semester" adalah kezaliman pedagogis yang membahayakan jiwanya: santri akan merasa kewalahan (*flooded*), kehilangan rasa aman, dan berisiko mengalami kemunduran perilaku drastis karena bantuan musyrif ditarik sebelum kapasitas batinnya terbentuk.
 
 #### 2. Empat Pilar Bukti Portofolio Autentik Santri
-Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara komprehensif melalui portofolio adab multidimensional yang merangkum empat pilar bukti autentik:
+Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara komprehensif melalui portofolio adab multidimensional yang merangkum empat pilar bukti autentik (Wiggins & McTighe, 2005)[^3]:
 
 ```text
                            PORTOFOLIO ADAB MULTIDIMENSIONAL
@@ -3364,7 +3870,7 @@ Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara ko
    - Mengamati responsnya ketika menghadapi situasi frustrasi, antrean panjang di kantin, atau ketika barang kesayangannya tidak sengaja tersenggol kawan.
 
 #### 3. Tata Kelola Sidang Dewan Pengasuhan (Gateway Committee)
-Keputusan kenaikan jenjang tidak pernah ditentukan secara sepihak oleh satu orang musyrif guna menghindari bias subjektivitas, favoritisme, atau sentimen pribadi. Keputusan diambil dalam **Sidang Dewan Pengasuhan (*Gateway Council*)** yang dihadiri oleh:
+Keputusan kenaikan jenjang tidak pernah ditentukan secara sepihak oleh satu orang musyrif guna menghindari bias subjektivitas, favoritisme, atau sentimen pribadi. Keputusan diambil dalam **Sidang Dewan Pengasuhan (*Gateway Council*)** yang dihadiri oleh seluruh pemangku kepentingan secara syura yang adil (Ibnu Jama'ah, 2012)[^4]:
 - Musyrif Kamar dan Kepala Asrama.
 - Perwakilan Guru Madrasah (pengampu kelas).
 - Konselor Bimbingan Konseling (BK) Pondok.
@@ -3407,7 +3913,7 @@ Sistem TUMBUH memutus rantai kezaliman kultural ini melalui rekayasa tradisi yan
 ```
 
 #### 1. Rekayasa Upacara Pengukuhan Jenjang (Rites of Passage)
-Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang bukan sebagai perayaan arogansi atau pawai kemegahan diri, melainkan sebagai majelis muhasabah batin, doa khusyuk, dan penyerahan amanah khidmah di hadapan seluruh civitas pondok:
+Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang bukan sebagai perayaan arogansi atau pawai kemegahan diri, melainkan sebagai majelis muhasabah batin, doa khusyuk, dan penyerahan amanah khidmah di hadapan seluruh civitas pondok (van Gennep, 1960)[^5]:
 - **Pelaksanaan Khidmat di Masjid:** Upacara digelar di dalam masjid ba'da salat subuh berjamaah, diawali dengan khataman Al-Qur'an dan zikir bersama untuk mensucikan niat.
 - **Simbolisme Penyerahan Amanah:** Santri yang naik jenjang tidak diberikan atribut-atribut militeristik atau seragam kasta yang mencolok. Mereka menerima simbol amanah pelayanan—seperti mushaf Al-Qur'an saku, selendang khidmah asrama, atau buku panduan bimbingan adik kelas.
 - **Ikrar Khidmah Santri:** Santri yang dikukuhkan mengucapkan janji setia bukan untuk menguasai pondok, melainkan ikrar untuk menjadi pelayan dan pelindung bagi adik-adik kelas mereka:
@@ -3432,6 +3938,41 @@ Untuk merekatkan ukhuwah islamiyah dan mengubur sekat kasta, sistem TUMBUH mende
 
 ---
 
+### 15.3 Prosedur Operasional Baku (SOP) Sidang Dewan Transisi (Gateway Council)
+
+Sidang Dewan Transisi (*Gateway Council*) adalah mahkamah pedagogis yang menentukan apakah seorang santri telah siap melangkah ke jenjang kemandirian berikutnya. Agar proses ini berjalan secara adil, transparan, dan bebas dari sentimen pribadi musyrif, sidang diselenggarakan melalui **Lima Tahap Terstruktur**:
+
+```mermaid
+graph TD
+    subgraph SIKLUS_SIDANG_GATEWAY["Alur 5 Tahap Sidang Dewan Transisi"]
+        direction TB
+        S1["TAHAP 1: PEMERIKSAAN BERKAS PORTOFOLIO MULTISUMBER<br/>Audit Logbook Musyrif 12 Pekan, Rekam Kehadiran & Masukan Tertutup Sebaya"]
+        S2["TAHAP 2: SIDANG PLENO DEWAN PENGASUHAN TANPA SANTRI<br/>Musyawarah Musyrif, Guru Madrasah & Tim BK Membedah Konsistensi Kapasitas"]
+        S3["TAHAP 3: WAWANCARA DIALOGIS REFLEKTIF BERSAMA SANTRI<br/>Santri Mempresentasikan Jurnal Muhasabah & Menjawab Pertanyaan Hikmah"]
+        S4["TAHAP 4: PENETAPAN STATUS TRANSIFIKASI RESMI<br/>Promosi Penuh / Promosi Bersyarat 30 Hari / Dukungan Konsolidasi"]
+        S5["TAHAP 5: PENYAMPAIAN HASIL KEPADA SANTRI & WALI SANTRI<br/>Pemberian Apresiasi Tertulis & Penandatanganan Akad Amanah Baru"]
+        
+        S1 --> S2 --> S3 --> S4 --> S5
+    end
+```
+
+Format Keputusan Dewan Transisi dituangkan dalam dokumen resmi **Berita Acara Kenaikan Jenjang Kemandirian (BAKJK)** yang mencantumkan skor triangulasi 8 Core Capacities serta rekomendasi area pertumbuhan yang masih perlu diperkuat di jenjang baru.
+
+---
+
+### 15.4 Ritus Simbolik Khidmah: Membasuh Telapak Kaki Adik Asuh
+
+Puncak dari upacara pengukuhan Jenjang J4 adalah tradisi sakral yang bertujuan memusnahkan benih arogansi senioritas hingga ke akar-akarnya: **Ritus Khidmah Pembasuhan Kaki Adik Asuh (*Ghaslul Arjul wal-Khidmah*)**.
+
+Di pelataran masjid pesantren, bakda salat subuh berjamaah di hadapan seluruh santri dan asatidz:
+1. Para santri kelas tujuh (J1) yang baru beberapa bulan tinggal di pondok duduk bersila di atas tikar pandan.
+2. Para santri senior kelas dua belas yang baru saja dikukuhkan sebagai Jenjang J4 melangkah ke depan, membawa baskom tembaga berisi air hangat yang diberi wewangian mawar dan daun bidara.
+3. Di hadapan ratusan pasang mata yang hening membeku, para santri senior tersebut berlutut, menundukkan kepalanya, lalu **dengan kedua tangan mereka sendiri membasuh telapak kaki adik-adik kelas mereka**, membersihkannya dengan handuk bersih, lalu memeluknya seraya berbisik: *"Duhai adikku, kami adalah pelayan kalian. Jika kami bersikap zalim, ingatkanlah kami; dan jika kalian lelah, bersandarlah di pundak kami demi Allah."*
+
+Tangisan haru selalu pecah di seluruh penjuru masjid setiap kali ritus ini berlangsung. Air mata yang tumpah menyapu seluruh bibit dendam dan feodalisme di asrama. Adik-adik kelas belajar arti cinta dan penghormatan tanpa rasa takut; sementara para senior belajar arti kepemimpinan profetik yang sesungguhnya: bahwa semakin tinggi derajat seseorang di sisi Allah, semakin rendah hatinya dalam melayani hamba-hamba-Nya.
+
+---
+
 ### Rangkuman Intisari Bab 15
 
 1. **Paradigma Kenaikan Berbasis Bukti:** Transisi jenjang kemandirian (J1–J4) tidak ditentukan oleh usia kalender atau kelas madrasah (*time-served*), melainkan melalui pembuktian kapasitas adab yang teruji secara stabil (*gateway review*).
@@ -3440,6 +3981,22 @@ Untuk merekatkan ukhuwah islamiyah dan mengubur sekat kasta, sistem TUMBUH mende
 4. **Prinsip Reversibilitas Bermartabat:** Penurunan jenjang sementara saat santri mengalami regresi krisis emosional adalah bentuk pemberian perancah bantuan kembali (*re-scaffolding*), bukan penghukuman publik. Dilakukan dengan menjaga kerahasiaan dan martabat santri.
 5. **Anti-Feodalisme dan Budaya Khidmah:** Upacara kenaikan jenjang (*rites of passage*) didesain sebagai penyerahan amanah pelayanan umat (*khidmah*), bukan panggung arogansi kekuasaan. Menghapus seluruh privilese feodal, melarang perbudakan santri junior, serta menyatukan santri senior dan adik kelas dalam ikatan persaudaraan kakak-adik asuh yang saling menguatkan.
 
+---
+
+Mekanisme transisi jenjang menuntut bukti-bukti autentik pertumbuhan jiwa santri. Namun, bagaimana cara kita menilai dan mengukur adab tanpa mereduksi keluhuran jiwa manusia menjadi sekadar angka-angka rapor yang mati? Bagaimana filosofi asesmen Islam memandang proses evaluasi karakter tanpa melabeli santri? 
+
+Di Bab 16, kita melangkah ke Bagian VII untuk membedah Filosofi Asesmen Karakter: Mengukur untuk Menumbuhkan, Bukan Melabeli.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 13.
+[^2]: Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab adz-Dzikr wa ad-Du'a' wa at-Taubah, Bab Fadhl al-Ijtima' 'ala Tilawatil Qur'an wa 'ala adz-Dzikr, hadits no. 2699.
+[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/04_PROGRESSION/06 Transition Criteria/03-Transition-Criteria-Design.md` dan `01-Progression-Gates-and-Thresholds.md`.
+[^4]: Grant Wiggins & Jay McTighe, *Understanding by Design* (Alexandria: ASCD, 2005), hlm. 152–175 mengenai penilaian autentik (*authentic assessment*) dan portofolio bukti unjuk kerja nyata.
+[^5]: Badruddin Muhammad bin Ibrahim Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*, Tahqiq: Dr. Muhammad bin Mahdi al-Ajmi (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 82–95 mengenai etika musyawarah para pendidik dalam mengevaluasi murid secara adil.
+[^6]: Arnold van Gennep, *The Rites of Passage*, diterjemahkan oleh Monika B. Vizedom & Gabrielle L. Caffee (Chicago: The University of Chicago Press, 1960), hlm. 1–25 mengenai struktur tiga fase ritus transisi (*separation, liminality, incorporation*).
 
 ---
 
@@ -3534,7 +4091,7 @@ Model TUMBUH merombak paradigma tersebut secara revolusioner dengan menegakkan *
 └─────────────────────────────────┴─────────────────────────────────┘
 ```
 
-Prinsip dasar asesmen formatif berpijak kokoh pada sabda agung baginda Rasulullah ﷺ:
+Prinsip dasar asesmen formatif berpijak kokoh pada sabda baginda Rasulullah ﷺ:
 
 $$\text{الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ}$$
 
@@ -3634,6 +4191,62 @@ Membocorkan catatan pelanggaran santri kepada pihak yang tidak berhak adalah dos
 
 ---
 
+### 16.5 Format Instrumen Rubrik Pengamatan Holistik Musyrif Asrama
+
+Untuk memandu para musyrif lapangan agar tidak bingung mencatat perilaku faktual, arsitektur TUMBUH menyusun format **Logbook Pengamatan Harian Berbasis Bukti**:
+
+```text
+                 LEMBAR PENGAMATAN ADAB HARIAN MUSYRIF (LPAHM)
+┌────────────────────────────────────────────────────────────────────────┐
+│ NAMA SANTRI  : ....................   KAMAR / KELOMPOK : ............. │
+│ MINGGU KE-   : ....................   MUSYRIF PENDAMPING: ............ │
+├────────────────────────────────────────────────────────────────────────┤
+│ TANGGAL/WAKTU │ DESKRIPSI PERILAKU FAKTUAL      │ DOMAIN CC │ KATEGORI │
+│               │ (OBJEKTIF TANPA ASUMSI MORAL)   │ TERKAIT   │ (+ / Δ)  │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Sen, 04.15 WIB│ Bangun sendiri saat azan awal,  │ CC-01     │ (+) Pos  │
+│               │ langsung merapikan sprei ranjang│ CC-05     │          │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Sel, 16.30 WIB│ Meminjamkan gayung mandi kepada │ CC-07     │ (+) Pos  │
+│               │ adik kelas yang belum mandi.    │ (Khidmah) │          │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Rab, 19.45 WIB│ Menolak diajak teman sekamar    │ CC-02     │ (+) Pos  │
+│               │ membicarakan aib teman di bilik.│ (Lisan)   │          │
+├───────────────┼─────────────────────────────────┼───────────┼──────────┤
+│ Kam, 05.00 WIB│ Terlambat masuk saf masbuq 1 ra-│ CC-01     │ (Δ) Butuh│
+│               │ kaat karena mengantuk di wudhu. │           │ Bimbingan│
+├───────────────┴─────────────────────────────────┴───────────┴──────────┤
+│ CATATAN RASIO AFIRMASI PEKANAN: Positif = 6 | Koreksi = 1 (Rasio 6:1)   │
+│ KESIMPULAN DUKUNGAN: Pertahankan penguatan; dampingi jam tidur malam.  │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Perhatikan bahwa rasio pencatatan memenuhi standar emas: **minimal 4 pengamatan positif berbanding 1 catatan kebutuhan bimbingan (4:1)**. Hal ini menjamin bahwa musyrif tidak terjebak menjadi "pemburu kesalahan" yang dingin.
+
+---
+
+### 16.6 Seni Umpan Balik Formatif: Teknik "Roti Lapis Adab" (*The Adab Sandwich*)
+
+Bagaimanakah seorang musyrif menyampaikan koreksi kepada santri tanpa memicu reaksi defensif amigdala atau melukai harga dirinya?
+
+TUMBUH melatih para pembina menguasai protokol **Roti Lapis Adab (*The Adab Sandwich Protocol*)**:
+
+```mermaid
+graph TD
+    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Penyampaian Koreksi Beradab"]
+        direction TB
+        L1["LAPIS 1: AFIRMASI FITRAH & APRESIASI TULUS (ROTI ATAS)<br/>'Farhan, Ustadz sangat menghargai caramu membantu adik kelas menyapu kemarin...'"]
+        L2["LAPIS 2: DESKRIPSI KOREKSI SPESIFIK & AKUNTABILITAS (DAGING INTI)<br/>'Namun subuh tadi, antum terlambat 5 menit masuk saf masjid karena mengobrol...'"]
+        L3["LAPIS 3: PENANAMAN HARAPAN & DUKUNGAN MASA DEPAN (ROTI BAWAH)<br/>'Ustadz yakin antum mampu tidur lebih awal malam ini. Mari kita wujudkan bersama!'"]
+        
+        L1 --> L2 --> L3
+    end
+```
+
+Melalui teknik ini, santri mendengarkan koreksi bukan sebagai ancaman pembunuhan karakter, melainkan sebagai wujud kasih sayang seorang ayah ruhani yang percaya penuh pada potensi kebaikan dirinya.
+
+---
+
 ### Rangkuman Intisari Bab 16
 
 1. **Kritik Reduksionisme Pengukuran Angka:** Menolak perangkuman karakter manusia ke dalam angka mati kuantitatif rapor atau sistem poin minus hitam; angka mati melenyapkan konteks, memicu kemunafikan sosial (*nifaq*), dan menjebak anak dalam ramalan penyimpangan permanen (*labeling trap*).
@@ -3644,6 +4257,12 @@ Membocorkan catatan pelanggaran santri kepada pihak yang tidak berhak adalah dos
 
 ---
 
+Jika asesmen karakter adalah cermin jernih untuk menumbuhkan fitrah, lalu bagaimana kita bersikap ketika cermin tersebut menangkap sebuah pelanggaran adab yang berulang? Mengapa kita tidak boleh terburu-buru menghukum gejala lahiriahnya tanpa memahami motif terdalamnya? 
+
+Di Bab 17, kita akan membedah Functional Behavior Assessment (FBA) dalam Konteks Pesantren: Menemukan Akar Kebutuhan Jiwa di Balik Pelanggaran.
+
+---
+
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah At-Taubah [9]: 105.
@@ -3651,327 +4270,515 @@ Membocorkan catatan pelanggaran santri kepada pihak yang tidak berhak adalah dos
 [^3]: Robert Rosenthal & Lenore Jacobson, *Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development* (New York: Holt, Rinehart & Winston, 1968), hlm. 65–112; Thomas L. Good & Jere E. Brophy, *Looking in Classrooms* (New York: Pearson, 2008).
 [^4]: Diriwayatkan oleh Abu Dawud dalam *Sunan Abi Dawud*, Kitab al-Adab, Bab fi an-Nashihah, hadits no. 4918 dari Abu Hurairah radhiyallahu 'anhu; At-Tirmidzi dalam *Sunan at-Tirmidzi*, no. 1928, sanad hasan.
 [^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah*, Bab Huquq al-Ukhuwwah wa ash-Shuhbah (Kairo: Dar al-Hadits, 2004), hlm. 210–225 mengenai kewajiban menutup aib saudara dan menjaga rahasia persaudaraan.
-
+[^6]: Abu Dawud, *Sunan Abi Dawud*, hadits no. 4918; At-Tirmidzi, *Sunan at-Tirmidzi*, hadits no. 1928.
 
 ---
 
 # BAB 17: FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DALAM KONTEKS KEPESANTRENAN
+## Mendiagnosis Akar Kebutuhan Jiwa di Balik Pelanggaran Santri dan Merumuskan Perilaku Pengganti yang Beradab
 
+> وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
+>
 > *"Dan janganlah kamu mengikuti apa yang kamu tidak mempunyai pengetahuan tentangnya. Sesungguhnya pendengaran, penglihatan, dan hati, semuanya itu akan diminta pertanggungjawabannya."*  
-> — **QS. Al-Isra' [17]: 36**
+> — **QS. Al-Isra' [17]: 36**[^1]
 
-> عَالِجُوا الْعِلَلَ بِأَضْدَادِهَا، وَاعْرِفُوا أُصُولَهَا قَبْلَ فُرُوعِهَا  
-> *"Obatilah berbagai penyakit dengan lawan-lawannya, dan kenalilah akar-akar asalnya sebelum menangani cabang-cabangnya."*  
-> — **Kaidah Kedokteran Jiwa & Thibb Ruhani (Imam Al-Ghazali, Ihya' 'Ulumiddin)**
-
----
-
-### Pendahuluan
-
-Ketika seorang santri melakukan pelanggaran di asrama—misalnya membolos salat subuh, terlibat perkelahian di lorong kamar mandi, atau berbicara kasar kepada adik kelas—reaksi paling lumrah dari pembina tradisional adalah reaksi kemarahan moral: *"Mengapa kamu melanggar? Kamu ini santri malas, tidak tahu adab, dan pembangkang!"*. Reaksi ini diikuti dengan penjatuhan hukuman seketika: disiram air dingin, disuruh berlari keliling lapangan, atau dipukul betisnya dengan rotan.
-
-Namun, apa yang terjadi seminggu kemudian? Santri yang sama mengulangi pelanggaran yang sama, bahkan dengan tingkat kelihaian menyembunyikan diri yang lebih tinggi. Mengapa hukuman keras gagal menghentikan pelanggaran?
-
-Jawabannya terletak pada kegagalan mendiagnosis akar masalah. Dalam sains perilaku modern dan tradisi *tazkiyatun nafs*, **perilaku yang tampak di permukaan hanyalah puncak gunung es (*the tip of the iceberg*)**. Menghukum perilaku tampak tanpa memahami fungsi dan motif di baliknya laksana mengoleskan bedak tebal pada bisul bernanah: ia menutupi luka sesaat, namun membiarkan infeksi membusuk di dalam tubuh hingga akhirnya meledak lebih dahsyat.
-
-Model TUMBUH mengintegrasikan metodologi **Functional Behavior Assessment (FBA) / Asesmen Fungsi Perilaku** ke dalam ekosistem kepengasuhan pesantren. FBA berpijak pada aksioma fundamental: **Setiap perilaku manusia memiliki fungsi, dan perilaku maladaptif sesungguhnya adalah bentuk komunikasi tentang adanya kebutuhan jiwa yang belum terpenuhi (*unmet needs*) atau defisit keterampilan (*skill deficits*).** 
-
-Bab ini membedah bagaimana FBA dioperasionalkan di pesantren: mengungkap empat motif universal perilaku santri, mengurai rantai kausalitas Anteseden-Perilaku-Konsekuensi (Model A-B-C), memutus jebakan penguatan negatif yang tak disengaja, serta merumuskan perilaku pengganti (*replacement behavior*) yang bermartabat dan bernilai ibadah.
+> عَالِجُوا الْعِلَلَ بِأَضْدَادِهَا، وَاعْرِفُوا أُصُولَهَا قَبْلَ فُرُوعِهَا، فَإِنَّ مَنْ دَاوَى عَرَضًا دُونَ مَعْرِفَةِ سَبَبِهِ أَوْشَكَ أَنْ يُهْلِكَ الْمَرِيضَ
+>
+> *"Obatilah berbagai penyakit dengan lawan-lawannya, dan kenalilah akar-akar asalnya sebelum menangani cabang-cabangnya; karena sesungguhnya barang siapa yang mengobati gejala penyakit lahiriah tanpa mengetahui sebab utamanya, niscaya ia hampir pasti mencelakakan si pasien."*  
+> — **Hujjatul Islam Al-Imam Abu Hamid Al-Ghazali**, *Ihya' 'Ulum ad-Din*[^2]
 
 ---
 
-### 17.1 Mengidentifikasi Motif Perilaku: Mengapa Santri Melanggar?
+### Prolog: Teriakan di Sudut Lorong Tahfidz
 
-Dalam perspektif FBA yang diselaraskan dengan hikmah tarbiyah Islam, seorang santri tidak bangun di suatu pagi lalu tiba-tiba memutuskan, *"Hari ini aku ingin menjadi orang jahat dan merusak asramaku"*. Perilaku melanggar muncul sebagai upaya adaptasi atau mekanisme pertahanan diri (*coping mechanism*) yang keliru dalam menghadapi tekanan lingkungan atau pergulatan batin.
+Sore itu, ba'da ashar, suasana serambi masjid pesantren yang biasanya khusyuk oleh dengung ratusan santri yang mendaras Al-Qur'an mendadak hening membeku. Dari sudut halaqah tahfidz nomor tujuh, terdengar suara gebrakan dampar kayu yang membentur tiang pilar, disusul oleh suara teriakan histeris seorang santri kelas delapan bernama Rizki: *"Saya tidak mau setoran! Saya benci halaqah ini! Biar saja saya dihukum!"*
 
-```text
-       GUNUNG ES PERILAKU SANTRI (THE BEHAVIOR ICEBERG)
-                      ▲
-     PERILAKU TAMPAK  │  [Membolos, Membentak, Mencontek, Memukul]
-   (Hanya 10% Terlihat)│  ========================================
-                      │  LAUTAN KEBUTUHAN DAN MOTIF BATIN
-                      │  • Defisit Keterampilan Regulasi Emosi
-      AKAR MASALAH    │  • Kebutuhan Pengakuan Sosial (Validation)
-   (90% Tersembunyi)  │  • Kelelahan Fisik & Beban Kognitif Berat
-                      │  • Trauma / Kecemasan Terhadap Kegagalan
-                      ▼  • Upaya Melarikan Diri dari Rasa Takut
+Mushaf Al-Qur'an bersampul hijau yang ada di genggamannya meluncur jatuh ke atas karpet. Rizki berdiri dengan napas memburu, kedua tangannya mengepal kaku, dan matanya memerah menatap lantai dengan dada naik turun. 
+
+Ustadz pengampu halaqah, seorang ustadz muda yang baru setahun mengabdi, seketika tersulut harga dirinya di hadapan puluhan santri lainnya. Darahnya mendidih, wajahnya memerah padam:  
+*"Lancang sekali kamu, Rizki! Berani-beraninya kamu melempar Al-Qur'an dan membangkang kepada ustadz! Kamu santri durhaka, tidak tahu adab! Ambil sajadahmu, berdiri di terik matahari depan kantor sampai maghrib!"*
+
+Peristiwa semacam ini adalah drama klasik yang berulang ribuan kali di berbagai asrama pesantren. Bagi pembina yang melihat peristiwa tersebut hanya dari kacamata kemarahan moral, kesimpulannya sangat sederhana dan dangkal: *"Rizki adalah anak nakal, pembangkang, tidak beradab, dan pantas dihukum sekeras-kerasnya agar jera!"*
+
+Namun, marilah kita melangkah mundur beberapa langkah dan menyalakan lensa sains perilaku serta thibb ruhani Islam. Apakah Rizki benar-benar bangun di pagi hari itu dengan niat terencana: *"Hari ini aku ingin menghina firman Allah dan mempermalukan ustadzku"?*
+
+Jika kita menyelidiki catatan harian Rizki selama empat puluh delapan jam terakhir, sebuah realitas yang sangat mengharukan akan terkuak:
+Rizki adalah anak yang mengalami kesulitan memproses memori fonologis (*mild dyslexia*). Selama tiga malam berturut-turut, ia hanya tidur tiga jam karena ketakutan setengah mati menghadapi target ujian hafalan surat Al-Kahfi. Kawan-kawan halaqahnya yang memiliki kecepatan menghafal normal sering menertawakan tajwidnya yang terbata-bata saat musyrif berbalik badan. 
+
+Pada sore itu, ketika sang ustadz memanggil namanya di depan halaqah dengan nada ketus: *"Ayo Rizki, giliranmu! Kalau masih tidak lancar seperti kemarin, awas ya!"*, sistem saraf simpatik Rizki mengalami pembajakan amigdala total (*hyperarousal shutdown*). Otak luhurnya lumpuh oleh rasa malu dan kecemasan yang tak tertahankan. Teriakan histerisnya sesungguhnya bukanlah ekspresi kebencian kepada Al-Qur'an; teriakan itu adalah **jeritan panik seorang anak yang harga dirinya sedang terancam hancur berkeping-keping di depan publik**.
+
+Menghukum Rizki dengan menyuruhnya berdiri di lapangan terik matahari tidak akan pernah membuatnya lancar menghafal surat Al-Kahfi. Hukuman itu hanya akan memperdalam rasa trauma, mengukuhkan kebenciannya terhadap majelis Al-Qur'an, dan merusak relasi ruhaninya dengan pendidik.
+
+Inilah mengapa ekosistem TUMBUH mewajibkan penguasaan metodologi **Functional Behavior Assessment (FBA) / Asesmen Fungsi Perilaku**: sebuah ikhtiar ilmiah dan syar'i untuk tidak menghakimi kulit luar, melainkan membedah akar penyakit batin demi menyembuhkan luka jiwa santri.
+
+---
+
+### 17.1 Gunung Es Perilaku Santri: Mengapa Perilaku Adalah Komunikasi?
+
+Aksioma paling fundamental dalam sains perilaku kontemporer dan hikmah tarbiyah Islam menyatakan: **Perilaku manusia adalah bentuk komunikasi (*Behavior is Communication*)**[^3].
+
+Ketika seorang santri melakukan tindakan maladaptif—seperti membolos salat, memukul kawan, mencontek saat ujian, atau membanting pintu—santri tersebut sesungguhnya sedang mengirimkan pesan darurat kepada orang dewasa di sekitarnya: *"Tolong aku! Ada kebutuhan jiwaku yang belum terpenuhi, atau ada beban di pundakku yang melebihi kapasitas daya tampung sarafku!"*.
+
+```mermaid
+graph TD
+    subgraph GUNUNG_ES_PERILAKU["Gunung Es Perilaku Santri (The Behavioral Iceberg)"]
+        direction TB
+        T["PERILAKU TAMPAK (HANYA 10% TERLIHAT)<br/>• Membolos, Berteriak, Mencontek, Memukul, Merusak Barang<br/>• Respons Tradisional: Dibentak, Dihukum Fisik, Dilabeli Nakal"]
+        
+        A["GARIS PERMUKAAN AIR (TABIR KETIDAKTAHUAN PENDIDIK)"]
+        
+        B["AKAR FUNGSI & KEBUTUHAN BATIN (90% TERSEMBUNYI)<br/>1. Menghindari Rasa Malu & Beban Tugas yang Terlalu Berat (Escape)<br/>2. Dahaga Kasih Sayang & Pengakuan Eksistensi Teman Sebaya (Attention)<br/>3. Kelelahan Fisik Kronis, Kurang Tidur & Hipoglikemia Lapar (Physiological)<br/>4. Regulasi Sistem Saraf yang Kewalahan Menahan Stres Asrama (Sensory/Nafs)"]
+        
+        T --- A
+        A --- B
+    end
 ```
 
-Secara umum, terdapat empat fungsi atau motif universal yang menggerakkan perilaku santri di lingkungan asrama pesantren:
+Secara umum, sains perilaku mengklasifikasikan seluruh perilaku menyimpang santri ke dalam **Empat Fungsi Universal (*The Four Universal Functions of Behavior*)**:
 
 #### 1. Menghindari atau Melarikan Diri (Escape / Avoidance)
-Santri melakukan pelanggaran demi menghindari suatu tugas, situasi sosial, atau perasaan tidak nyaman yang melebihi kapasitas daya tampungnya:
-- **Contoh Kasus:** Seorang santri sering pura-pura sakit di ruang kesehatan atau bersembunyi di gudang saat jam halaqah tahfidz sore.
-- **Analisis FBA:** Santri bukan membenci Al-Qur'an atau berniat membangkang kepada ustadz, melainkan mengalami kepanikan ekstrem (*math/reading anxiety*) karena belum menyelesaikan target setoran hafalan dan takut dipermalukan di depan kawan-kawan halaqahnya. Perilaku melarikan diri berfungsi melindungi harga dirinya dari penghakiman publik.
+Santri melanggar aturan demi melepaskan diri dari situasi, tugas, atau lingkungan yang membuatnya merasa tertekan, cemas, atau terhina:
+- *Studi Kasus Asrama:* Santri yang selalu mengunci diri di kamar mandi saat jam musabaqah pidana bahasa Arab, atau santri yang pura-pura sakit di klinik saat jadwal lari pagi.
+- *Analisis FBA:* Santri bukan pemalas; santri mengalami kecemasan sosial (*social anxiety*) atau merasa tidak kompeten. Perilaku melarikan diri berfungsi melindungi konsep dirinya dari rasa malu di depan umum.
 
-#### 2. Mencari Perhatian dan Pengakuan (Attention Seeking / Social Connection)
-Santri berupaya mendapatkan perhatian dari figur otoritas (musyrif/guru) atau pengakuan dari teman sebaya:
-- **Contoh Kasus:** Seorang santri gemar melontarkan lelucon kasar saat muwajjahah malam, menertawakan musyrif baru, atau bertingkah konyol yang memecah konsentrasi belajar.
-- **Analisis FBA:** Santri merasa tidak terlihat (*invisible*) dan kurang berprestasi dalam bidang akademis. Menjadi "badut kelas" atau "pemberontak asrama" adalah satu-satunya cara cepat untuk mendapatkan tepuk tangan dan tawa dari teman-temannya. Bagi santri yang dahaga perhatian, dimarahi atau dihukum oleh musyrif masih jauh lebih baik daripada diabaikan sama sekali.
+#### 2. Mencari Perhatian dan Pengakuan Eksistensi (Attention Seeking / Social Connection)
+Santri melanggar aturan demi mendapatkan tatapan mata, respons emosi, atau pengakuan dari figur otoritas (musyrif) maupun kelompok teman sebaya:
+- *Studi Kasus Asrama:* Santri yang bertindak konyol saat pembina sedang berbicara, melontarkan lelucon kasar saat zikir bersama, atau berani menentang aturan jam malam secara terang-terangan.
+- *Analisis FBA:* Di rumah atau di kelas, santri merasa dirinya "tidak terlihat" (*invisible*) karena kurang berprestasi. Menjadi "badut asrama" atau "anak pemberontak" adalah jalan pintas tercepat untuk mendapatkan panggung tepuk tangan dari teman-temannya. Bagi jiwa yang kelaparan perhatian, dimarahi atau dihukum oleh musyrif masih jauh lebih nikmat daripada diabaikan sama sekali.
 
-#### 3. Mengakses Benda atau Aktivitas yang Diinginkan (Tangible Access)
-Santri melanggar peraturan demi memperoleh akses terhadap barang, makanan, atau kenikmatan tertentu yang dibatasi:
-- **Contoh Kasus:** Menyelundupkan ponsel secara ilegal ke asrama, menyelinap ke dapur pondok saat tengah malam untuk menggoreng mi instan, atau melompati pagar asrama demi membeli makanan di luar pondok.
-- **Analisis FBA:** Dorongan mencari stimulasi instan (*instant dopamine hit*) di tengah rutinitas asrama yang dianggap monoton, atau rasa lapar fisik karena porsi makan malam yang kurang mencukupi kebutuhan fase lonjakan pertumbuhan biologisnya (*growth spurt*).
+#### 3. Mengakses Hak Kebendaan atau Kenikmatan Terlarang (Tangible Access)
+Santri melakukan pelanggaran demi memperoleh akses terhadap makanan, barang, atau aktivitas hiburan yang dibatasi:
+- *Studi Kasus Asrama:* Menyelundupkan ponsel pintar di dalam lipatan kasur, menyelinap ke dapur pondok saat tengah malam untuk menggoreng telur, atau melompati pagar asrama demi membeli kopi di warung luar.
+- *Analisis FBA:* Kebutuhan stimulasi dopamin instan di tengah rutinitas pondok yang monoton, atau rasa lapar biologis nyata akibat lonjakan fase pertumbuhan fisik (*growth spurt*) yang tidak tercukupi oleh porsi dapur umum.
 
-#### 4. Regulasi Sensorik dan Pelepasan Ketegangan Jiwa (Sensory / Emotional Regulation)
-Perilaku terjadi sebagai respons motorik tubuh untuk menstabilkan sistem saraf otonom yang kewalahan:
-- **Contoh Kasus:** Santri gelisah tidak bisa diam, mengetuk-ngetuk meja secara berulang saat jam kelas, memilin-milin sarung, menggigit kuku hingga berdarah, atau tiba-tiba berteriak histeris saat malam hari.
-- **Analisis FBA:** Sistem saraf simpatik santri berada dalam status siaga tinggi (*hyperarousal*) akibat beban stres kognitif yang kronis atau ketidakmampuan memproses stimulasi keramaian asrama (*sensory overload*). Perilaku tersebut adalah upayanya yang kikuk untuk menenangkan diri (*self-soothing*).
+#### 4. Regulasi Sensorik dan Pelepasan Ketegangan Raga (Sensory / Emotional Regulation)
+Perilaku muncul sebagai upaya otonom tubuh untuk menyeimbangkan sistem saraf yang sedang tegang (*self-soothing*):
+- *Studi Kasus Asrama:* Santri yang terus-menerus mengetuk-ngetukkan jari ke meja kayu saat jam muthala'ah, menggigit ujung kerah baju hingga robek, atau mondar-mandir di lorong asrama tanpa tujuan.
+- *Analisis FBA:* Sistem saraf santri mengalami kelebihan stimulasi sensorik (*sensory overload*) akibat kebisingan asrama atau kelelahan kognitif. Tindakan motorik tersebut adalah katarsis fisik untuk melepaskan hormon kortisol yang menyumbat dadanya.
 
 ---
 
-### 17.2 Analisis Rantai Peristiwa Anteseden-Perilaku-Konsekuensi (Model A-B-C)
+### 17.2 Analisis Rantai Kausalitas A-B-C: Membongkar Mekanika Perilaku
 
-Untuk membongkar mekanika terjadinya perilaku melanggar secara presisi, pendidik TUMBUH menggunakan instrumen analisis **A-B-C (Antecedent - Behavior - Consequence)**.
+Untuk menemukan akar masalah secara ilmiah dan tidak terjebak dalam tebakan prasangka, para pendidik TUMBUH menggunakan instrumen analisis **A-B-C (Antecedent - Behavior - Consequence)**[^4]:
 
 ```text
-               RANTAI PERISTIWA PERILAKU (MODEL A-B-C)
+               RANTAI PERISTIWA PERILAKU SANTRI (MODEL A-B-C)
 ┌───────────────────────┬───────────────────────┬───────────────────────┐
 │     A: ANTESEDEN      │      B: PERILAKU      │    C: KONSEKUENSI     │
-│   (Pemicu Awal &      │ (Tindakan Teramati    │  (Peristiwa yang      │
-│   Konteks Situasi)    │  Secara Faktual)      │  Mengikuti Tindakan)  │
+│   (Pemicu Sebelum)    │     (Tindakan Nyata)  │   (Reaksi Lingkungan) │
 ├───────────────────────┼───────────────────────┼───────────────────────┤
-│ Apa yang terjadi      │ Apa yang persisnya    │ Apa reaksi lingkungan │
-│ tepat sebelum         │ dilakukan atau        │ yang memperkuat atau  │
-│ tindakan meletus?     │ dikatakan santri?     │ melemahkan tindakan?  │
+│ Apa kondisi lingkungan│ Apa tindakan fisik    │ Apa respons musyrif / │
+│ atau pemicu tepat     │ spesifik yang         │ kawan sesaat setelah  │
+│ sebelum insiden?      │ dilakukan santri?     │ tindakan berlangsung? │
 └───────────────────────┴───────────────────────┴───────────────────────┘
 ```
 
-#### 1. Membedah Komponen Rantai A-B-C
-1. **Anteseden (*Antecedent / Pemicu*):**  
-   Segala kondisi lingkungan, instruksi, atau interaksi yang terjadi tepat sebelum perilaku muncul. Anteseden terbagi dua:
-   - *Pemicu Langsung (Immediate Trigger):* Bel berbunyi, instruksi guru yang mendadak, ejekan kawan, atau antrean kamar mandi yang diserobot.
-   - *Kondisi Latar Belakang (Setting Events):* Kurang tidur malam sebelumnya, demam ringan, kabar sedih dari rumah, atau perut lapar.
-2. **Perilaku (*Behavior / Tindakan*):**  
-   Deskripsi spesifik tindakan fisik atau ucapan santri yang terukur durasi, intensitas, atau frekuensinya (misal: membanting pintu kamar, menolak membuka kitab, memukul lengan kawan).
-3. **Konsekuensi (*Consequence / Akibat*):**  
-   Reaksi yang terjadi segera setelah tindakan berlangsung: bagaimana respons musyrif, bagaimana reaksi teman sekamar, dan apa perubahan lingkungan yang dirasakan santri. **Konsekuensi inilah yang menentukan apakah perilaku tersebut akan terulang kembali di masa depan atau padam.**
+#### Bahaya Penguatan yang Tidak Disengaja (Inadvertent Reinforcement)
+Dalam banyak insiden asrama, musyrif atau asatidz secara tidak sadar justru menjadi pihak yang memelihara dan memperparah kenakalan santri melalui pemberian konsekuensi yang keliru:
 
-#### 2. Bahaya Penguatan yang Tidak Disengaja (Inadvertent Reinforcement)
-Dalam banyak kasus, asatidz atau musyrif asrama secara tidak sadar justru menjadi pihak yang memelihara dan memperkuat perilaku buruk santri melalui pemberian konsekuensi yang keliru.
+```text
+       CONTOH KASUS 1: PENGUATAN MOTIF MENGHINDARI TUGAS (ESCAPE)
+┌────────────────────────────────────────────────────────────────────────┐
+│ ANTESEDEN (A): Santri diminta membaca kitab kuning yang sulit di depan.│
+│ PERILAKU  (B): Santri bersikap kurang ajar dan mendengus kasar.        │
+│ REAKSI SALAH(C): Guru marah besar: "Keluar kamu dari kelasku sekarang!"│
+├────────────────────────────────────────────────────────────────────────┤
+│ ANALISIS FBA:                                                          │
+│ Guru merasa telah menghukum santri. Padahal dari sudut pandang santri, │
+│ santri MERAIH KEMENANGAN TOTAL! Ia berhasil lolos dari keharusan       │
+│ membaca kitab yang membuatnya takut. Santri belajar bahwa bersikap     │
+│ kurang ajar adalah senjata paling ampuh untuk kabur dari tugas sulit.  │
+└────────────────────────────────────────────────────────────────────────┘
 
-**Contoh Kasus 1: Penguatan Motif Menghindari Tugas (*Escape Reinforcement*)**
-- **Anteseden (A):** Santri diminta berdiri di depan kelas untuk membaca kitab kuning yang sulit.
-- **Perilaku (B):** Santri bersikap tidak sopan dan mendengus kasar kepada guru.
-- **Konsekuensi Salah (C):** Guru marah dan mengusir santri keluar dari kelas: *"Keluar kamu dari kelasku sekarang juga!"*.
-- **Efek FBA:** Guru merasa telah menghukum santri. Padahal, dari sudut pandang santri, ia **berhasil mencapai tujuannya** yaitu lolos dari kewajiban membaca kitab yang membuatnya takut! Santri belajar bahwa cara terbaik untuk menghindari tugas sulit adalah dengan bersikap kasar kepada guru.
-
-**Contoh Kasus 2: Penguatan Motif Pencarian Perhatian (*Attention Reinforcement*)**
-- **Anteseden (A):** Suasana kamar tidur asrama mulai hening menjelang tidur.
-- **Perilaku (B):** Seorang santri melemparkan bantal ke arah kipas angin sehingga membuat gaduh.
-- **Konsekuensi Salah (C):** Musyrif masuk ke kamar dengan wajah memerah, membentak santri tersebut selama 15 menit di depan seluruh teman sekamar.
-- **Efek FBA:** Santri mendapatkan apa yang ia dambakan: panggung pusat perhatian penuh dari musyrif dan tatapan kagum/terhibur dari kawan-kawannya. Amukan musyrif berfungsi sebagai penguat positif (*positive reinforcement*) bagi dahaga eksistensinya.
+       CONTOH KASUS 2: PENGUATAN MOTIF PENCARIAN PERHATIAN (ATTENTION)
+┌────────────────────────────────────────────────────────────────────────┐
+│ ANTESEDEN (A): Kamar tidur asrama mulai hening menjelang tidur malam.  │
+│ PERILAKU  (B): Santri melemparkan sandal ke arah kipas angin hingga    │
+│                membuat suara gaduh dan kawan-kawan tertawa.            │
+│ REAKSI SALAH(C): Musyrif masuk kamar dengan wajah marah, menceramahi   │
+│                santri tersebut selama 20 menit di depan teman-temannya.│
+├────────────────────────────────────────────────────────────────────────┤
+│ ANALISIS FBA:                                                          │
+│ Musyrif mengira ceramah marahnya adalah hukuman. Padahal santri merasa │
+│ sangat puas: ia berhasil menjadi pusat perhatian tunggal selama 20     │
+│ menit penuh! Kemarahan musyrif berfungsi sebagai penguat positif bagi  │
+│ dahaga eksistensinya.                                                  │
+└────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 17.3 Merumuskan Rencana Intervensi Berbasis FBA: Modifikasi Lingkungan dan Perilaku Pengganti
+### 17.3 Merumuskan Hipotesis Fungsional dan Rekayasa Anteseden Lingkungan
 
-Keberhasilan FBA tidak diukur dari seberapa tebal dokumen analisisnya, melainkan dari keberhasilan merumuskan **Hipotesis Fungsional** yang bermuara pada dua tindakan strategis: **Memodifikasi Anteseden** dan **Mengajarkan Perilaku Pengganti**.
+Setelah rantai A-B-C terpetakan, tim pengasuhan merumuskan **Pernyataan Hipotesis Fungsional (*Functional Hypothesis Statement*)** dengan formula matematis perilaku:
+
+$$\text{"Ketika [Anteseden/Konteks], santri cenderung melakukan [Perilaku], dengan tujuan untuk [Fungsi Kebutuhan]."}$$
+
+*Contoh Formulasi Presisi:*  
+*"Ketika santri dihadapkan pada tugas menghafal lebih dari setengah halaman Al-Qur'an pada sesi halaqah tahfidz sore (Anteseden), santri cenderung membuat keributan di kamar mandi dan menolak setoran (Perilaku), dengan tujuan untuk menghindari rasa malu akibat bacaan tajwidnya yang terbata-bata di hadapan teman sebaya (Fungsi Escape)."*
+
+#### Rekayasa Anteseden Lingkungan (Proactive Environmental Engineering)
+Langkah pertama penanganan bukanlah menghukum, melainkan **memodifikasi anteseden pemicu agar situasi krisis tidak meledak**:
+- **Memecah Beban Kognitif (*Chunking Task*):** Mengubah target hafalan Rizki dari 1 halaman sekaligus menjadi 3 baris per sesi, sehingga ia merasakan kemenangan-kemenangan kecil yang menumbuhkan rasa percaya diri (*competence*).
+- **Penataan Posisi dan Privasi Setoran:** Memberikan ruang bagi santri yang pemalu untuk menyetorkan hafalannya secara empat mata di ruang guru tanpa disaksikan oleh puluhan kawan halaqahnya, sampai kesiapan mentalnya terbentuk.
+- **Pemberian Peringatan Transisi (*Pre-Correction*):** Lima menit sebelum jam pergantian halaqah berbunyi, musyrif mendekati meja santri dan berbisik lembut: *"Farhan, lima menit lagi kita akan berpindah ke masjid ya. Silakan mulai merapikan kitabmu dengan tenang."* Sinyal transisi ini memberi ruang bagi korteks prafrontal anak untuk bersiap tanpa kejutan.
+
+---
+
+### 17.4 Mengajarkan Perilaku Pengganti yang Setara secara Fungsional (Replacement Behavior)
+
+Prinsip dasar tarbiyah Islam menegaskan bahwa hawa nafsu tidak bisa dibunuh, melainkan harus disalurkan ke jalan yang diridhai Allah (*tasyrif al-hawa fi marbawat asy-syar'i*). Demikian pula dalam sains perilaku: **Sebuah perilaku menyimpang tidak akan pernah padam sampai santri diajarkan perilaku pengganti (*functional replacement behavior*) yang mampu memenuhi fungsi kebutuhan yang sama dengan cara yang beradab dan bermartabat.**
 
 ```text
-               STRATEGI INTERVENSI BERBASIS FBA
-┌─────────────────────────────────┬─────────────────────────────────┐
-│     PROAKTIF (Mencegah)         │      EDUKATIF (Menumbuhkan)     │
-├─────────────────────────────────┼─────────────────────────────────┤
-│ MODIFIKASI ANTESEDEN            │ PENGAJARAN PERILAKU PENGGANTI   │
-│ (Menghilangkan Pemicu Masalah)  │ (Replacement Behavior)          │
-├─────────────────────────────────┼─────────────────────────────────┤
-│ • Menyesuaikan ritme beban      │ • Mengajarkan cara meminta jeda │
-│   tugas & kelelahan santri.     │   istirahat secara asertif.     │
-│ • Rekayasa tata letak ranjang   │ • Mengajarkan cara regulasi     │
-│   & pembagian kelompok kamar.   │   napas saat amarah memuncak.   │
-│ • Menjelaskan transisi jadwal   │ • Memberikan ruang aktualisasi  │
-│   sebelum lonceng berbunyi.     │   positif bagi pencari panggung.│
-└─────────────────────────────────┴─────────────────────────────────┘
+       MATRIKS PERILAKU PENGGANTI BERBASIS FBA TUMBUH
+┌──────────────────┬──────────────────┬─────────────────────────────────┐
+│ MOTIF KEBUTUHAN  │ PERILAKU LAMA    │ PERILAKU PENGGANTI BARU         │
+│ (FUNCTION)       │ (MALADAPTIF)     │ (REPLACEMENT BEHAVIOR BERADAB)  │
+├──────────────────┼──────────────────┼─────────────────────────────────┤
+│ Ingin Istirahat  │ Membanting pintu │ Mengangkat Kartu Jeda Santun:   │
+│ dari Lelah       │ atau membolos    │ "Ustadz, kepala saya pening,    │
+│ (Escape/Avoid)   │ halaqah.         │ izinkan saya membasuh wajah     │
+│                  │                  │ dengan air wudhu 3 menit."      │
+├──────────────────┼──────────────────┼─────────────────────────────────┤
+│ Butuh Perhatian  │ Melontarkan kata │ Diberi peran kepemimpinan nyata:│
+│ & Pengakuan      │ kotor / membuat  │ Ditunjuk menjadi muazin subuh,  │
+│ (Attention)      │ lelucon asrama.  │ MC lomba muhadharah, atau ketua │
+│                  │                  │ dekorasi panggung asrama.       │
+├──────────────────┼──────────────────┼─────────────────────────────────┤
+│ Ketegangan Saraf │ Memilin sarung / │ Melatih teknik napas diafragma  │
+│ & Amarah Emosi   │ memukul kawan    │ 4-7-8 dipadu istighfar kalbu    │
+│ (Sensory/Nafs)   │ sekamar.         │ dan berwudhu sesuai sunnah.     │
+└──────────────────┴──────────────────┴─────────────────────────────────┘
 ```
 
-#### 1. Perumusan Hipotesis Fungsional (Functional Statement)
-Sebelum merancang tindakan, musyrif dan tim bimbingan merumuskan hipotesis perilaku dengan format baku:
-$$\text{"Ketika [Anteseden/Situasi], santri cenderung melakukan [Perilaku], dengan tujuan untuk [Fungsi/Motif]."}$$
+Ketika seorang santri berhasil menggunakan perilaku pengganti tersebut, musyrif segera memberikan **penguatan positif seketika (*immediate positive affirmation*)**:  
+*"Masya Allah, Rizki! Ustadz sangat menghargai caramu meminta izin dengan santun tadi. Itu adalah tanda adab seorang penuntut ilmu sejati. Silakan berwudhu, segarkan dirimu, dan ustadz tunggu kembali di sini dengan senang hati."*
 
-*Contoh Formulasi:*  
-*"Ketika santri dihadapkan pada tugas hafalan lebih dari 1 halaman (Anteseden), santri cenderung membuat kegaduhan di kamar mandi (Perilaku), dengan tujuan untuk menunda waktu setoran hafalan dan menghindari rasa malu akibat belum lancar (Fungsi Escape)."*
+Dalam detik itulah, jalur saraf lama yang kasar (*neural pathway of aggression*) mulai ditinggalkan dan mengering, digantikan oleh jalur saraf baru yang beradab, anggun, dan memuliakan akhlak kenabian.
 
-#### 2. Modifikasi Anteseden Lingkungan (Proactive Environmental Engineering)
-Daripada menunggu masalah meledak lalu menghukumnya, pendidik merekayasa lingkungan untuk mencegah pemicu muncul:
-- Memecah target hafalan santri menjadi bagian-bagian kecil yang dapat dicapai (*chunking*), misalnya setengah halaman per sesi halaqah.
-- Mengubah posisi duduk santri di kelas atau memindahkan santri dari kamar yang memiliki dinamika pertemanan toksik ke kamar yang lebih kondusif.
-- Memberikan peringatan transisi 5 menit sebelum aktivitas berganti (*pre-correction*), sehingga sistem saraf santri memiliki kesiapan mental untuk beralih.
+---
 
-#### 3. Mengajarkan Perilaku Pengganti yang Setara secara Fungsional (Functional Replacement Behavior)
-Prinsip agung tarbiyah Islam menegaskan bahwa nafsu tidak bisa dimatikan, namun harus disalurkan ke jalan yang halal dan diridhai. Demikian pula dalam sains perilaku: **perilaku bermasalah tidak akan pernah padam sampai santri diajarkan perilaku pengganti yang mampu memenuhi fungsi yang sama dengan cara yang beradab.**
+### 17.5 Protokol Wawancara FBA Sokratik: Menggali Kalbu Tanpa Menghakimi
 
-- Jika santri membutuhkan **pelepasan lelah (*escape*)**: Ajarkan ia mengangkat tangan dan menggunakan kartu jeda sopan: *"Ustadz, kepala saya terasa sangat pening, bolehkah saya membasuh wajah dengan air wudu selama 2 menit?"*.
-- Jika santri membutuhkan **pengakuan dan perhatian (*attention*)**: Berikan ia peran bermartabat yang menjadi pusat perhatian positif, misalnya ditunjuk sebagai muazin utama, pembawa acara perlombaan asrama, atau ketua tim dekorasi panggung pondok.
-- Jika santri mengalami **ketegangan emosional (*sensory overload*)**: Latih teknik pernapasan diafragma 4-7-8 yang dipadukan dengan zikir *istighfar* dan relaksasi otot untuk menurunkan detak jantung dan meredakan letupan amarah.
+Dalam tradisi tarbiyah TUMBUH, proses Functional Behavior Assessment tidak dilakukan laksana interogasi kepolisian yang dingin, melainkan melalui **Wawancara Sokratik Empatik Lima Langkah (*The Five-Step Socratic FBA Interview*)**:
 
-Dengan pendekatan FBA yang berbasis ilmu dan kasih sayang, pembina pesantren tidak lagi memandang santri sebagai musuh yang harus ditaklukkan, melainkan sebagai mutiara jiwa yang sedang berjuang menemukan bentuk kemuliaannya.
+```mermaid
+graph TD
+    subgraph ALUR_WAWANCARA_FBA["Alur Wawancara FBA Sokratik Bersama Santri"]
+        direction TB
+        W1["LANGKAH 1: MEMBANGUN ALIANSI AMAN & KONEKSI HATI<br/>'Ustadz memanggil antum bukan untuk marah atau menghukum, tapi karena ustadz peduli...'"]
+        W2["LANGKAH 2: MEMBEDAH ANTESEDEN DENGAN PERTANYAAN TERBUKA<br/>'Apa yang sebenarnya terjadi tepat beberapa menit sebelum antum berteriak tadi sore?'"]
+        W3["LANGKAH 3: MENGIDENTIFIKASI EMOSI & SENSASI TUBUH<br/>'Apa rasa yang ada di dada antum saat nama antum dipanggil di depan halaqah?'"]
+        W4["LANGKAH 4: MENGGALI FUNGSI KEBUTUHAN TERSEMBUNYI<br/>'Apakah ada ketakutan ditertawakan kawan? Atau antum sedang sangat lelah?'"]
+        W5["LANGKAH 5: MERUMUSKAN PERILAKU PENGGANTI BERSAMA<br/>'Jika situasi itu terjadi lagi besok, cara beradab apa yang bisa kita sepakati bersama?'"]
+        
+        W1 --> W2 --> W3 --> W4 --> W5
+    end
+```
+
+Prinsip utama wawancara ini adalah: **Connect Before Correct (Hubungkan Hati Sebelum Memperbaiki Akal)**. Ketika santri merasakan bahwa gurunya tidak memusuhinya, benteng pertahanan amigdalanya runtuh, dan ia akan dengan jujur mencurahkan isi hatinya yang paling rahasia.
+
+---
+
+### 17.6 Studi Kasus FBA Lapangan: Kasus Santri Danu dan Misteri Gayung Mandi
+
+Untuk melihat bagaimana FBA membongkar fenomena lapangan secara presisi, perhatikan kasus Santri Danu (13 tahun, kelas 7):
+
+* **Laporan Masalah**: Danu dilaporkan oleh santri-santri sekamarnya karena hampir setiap pagi membuat keributan di depan kamar mandi: ia sering melempar gayung ke lantai, memukul pintu seng, dan menolak antre wudhu dengan tertib.
+* **Tindakan Cara Lama (Gagal)**: Musyrif menghukum Danu berdiri di depan masjid dengan memegang gayung basah selama 1 jam. Keesokan harinya, keributan yang sama terulang kembali bahkan Danu mulai berkata kotor kepada kawan-kawannya.
+* **Proses Investigasi FBA TUMBUH**:
+  1. **Anteseden (A)**: Keributan selalu terjadi pada pukul 04.45 WIB, tepat 15 menit menjelang iqamah subuh, saat antrean kamar mandi mencapai puncak kepadatannya (6 santri mengantre di 1 pintu bilik).
+  2. **Perilaku (B)**: Danu memukul pintu, melempar gayung, dan berteriak marah.
+  3. **Konsekuensi (C)**: Kawan-kawan yang mengantre ketakutan dan membiarkan Danu masuk duluan, ATAU musyrif datang dan membawa Danu ke kantor (lolos dari keharusan wudhu subuh berjamaah).
+  4. **Hipotesis FBA**: Danu memiliki riwayat trauma masa kecil di rumah (pernah terkunci di kamar mandi sempit yang gelap). Ketika ia berada di tengah kerumunan antrean kamar mandi yang padat dan sesak, sistem sarafnya mengalami serangan panik klaustrofobia akut (*panic sensory overload*). Amarahnya adalah mekanisme bertahan hidup (*escape from sensory crowding*).
+* **Rencana Intervensi Perilaku (BIP) TUMBUH**:
+  * **Modifikasi Anteseden**: Danu dijadwalkan bangun mandi lebih awal pada pukul 04.00 WIB (sebelum antrean terbentuk), didampingi musyrif dengan pencahayaan kamar mandi yang terang benderang.
+  * **Perilaku Pengganti**: Danu dilatih teknik napas diafragma dan diberi kartu izin khusus jika merasakan kepanikan sensorik.
+  * **Hasil Evaluasi**: Dalam tempo 14 hari, pelemparan gayung dan teriakan amarah turun menjadi **NOL KALI**. Danu menjadi santri yang tertib, tenang, dan kembali ceria di asrama.
 
 ---
 
 ### Rangkuman Intisari Bab 17
 
-1. **Aksioma Dasar FBA:** Perilaku bermasalah adalah bentuk komunikasi (*behavior is communication*). Di balik setiap pelanggaran santri terdapat kebutuhan jiwa yang belum terpenuhi (*unmet needs*) atau defisit keterampilan (*skill deficit*), bukan sekadar niat jahat.
-2. **Empat Fungsi Universal Perilaku:** Menghindari beban/situasi sulit (*escape*), mencari perhatian/pengakuan sosial (*attention*), mengakses barang/kenikmatan fisik (*tangible*), dan upaya menenangkan sistem saraf yang tegang (*sensory/emotional regulation*).
-3. **Analisis Rantai A-B-C:** Mengurai peristiwa Anteseden (pemicu langsung & latar belakang), Perilaku (tindakan objektif santri), dan Konsekuensi (reaksi lingkungan sesudahnya) guna menemukan relasi sebab-akibat yang nyata.
-4. **Waspada Penguatan Tak Disengaja:** Membentak santri di depan publik atau mengusirnya dari kelas sering kali justru memperkuat motif santri (memberikan panggung perhatian atau meloloskannya dari tugas), sehingga memperparah pengulangan masalah.
-5. **Solusi Holistik:** Merumuskan hipotesis fungsional perilaku, merekayasa anteseden lingkungan untuk meminimalkan pemicu stres, serta secara aktif mengajarkan perilaku pengganti (*functional replacement behavior*) yang beradab, bermartabat, dan bernilai ibadah.
+1. **Aksioma Perilaku Adalah Komunikasi:** Perilaku maladaptif santri di asrama adalah bentuk jeritan batin mengenai kebutuhan jiwa yang belum terpenuhi (*unmet needs*) atau defisit keterampilan regulasi diri, bukan sekadar niat jahat.
+2. **Empat Fungsi Universal FBA:** Menghindari situasi/tugas yang menakutkan (*escape*), mencari perhatian dan pengakuan eksistensi (*attention*), mengakses kenikmatan atau barang fisik (*tangible*), serta regulasi mandiri sistem saraf yang tegang (*sensory/emotional regulation*).
+3. **Analisis Rantai Kausalitas A-B-C:** Mengurai peristiwa Anteseden (pemicu awal), Perilaku (tindakan teramati faktual), dan Konsekuensi (reaksi lingkungan) guna mendeteksi faktor penguat yang tak disengaja (*inadvertent reinforcement*).
+4. **Rekayasa Anteseden Lingkungan:** Memodifikasi lingkungan fisik dan beban tugas sebelum masalah meledak; memecah beban tugas (*chunking*), memberikan rasa aman, dan peringatan transisi (*pre-correction*).
+5. **Pengajaran Perilaku Pengganti yang Beradab:** Mengganti perilaku melanggar dengan keterampilan sosial baru yang setara secara fungsional (*functional replacement behavior*), menyalurkan energi jiwa santri ke jalan kemuliaan adab kenabian.
 
+---
+
+Setelah kita mampu membedah fungsi dan pemicu di balik setiap perilaku, sebuah pertanyaan arsitektural berskala makro menantang kita: *Bagaimana pesantren mengelola ratusan santri dengan kebutuhan yang sangat beragam tanpa membiarkan satu jiwa pun terabaikan? Bagaimana membangun sistem intervensi bertingkat yang menjamin pencegahan universal sekaligus memberikan pendampingan khusus bagi santri yang terluka?* 
+
+Di Bab 18, kita akan membedah Arsitektur Intervensi Bertingkat: SW-PBIS Multi-Tier di Pesantren.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Isra' [17]: 36.
+[^2]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid III, *Kitab Riyadhat an-Nafs wa 'Ilaj Amradh al-Qalb* (Kairo: Dar al-Hadits, 2004), hlm. 78–92 mengenai kaidah mengobati penyakit hati dengan mengenali sebab asalnya.
+[^3]: Robert E. O'Neill dkk., *Functional Assessment and Program Development for Problem Behavior: A Practical Handbook* (3rd ed., Stamford: Cengage Learning, 2015), hlm. 12–45; Edward G. Carr, "The Motivation of Self-Injurious Behavior: A Review of Some Hypotheses", *Psychological Bulletin*, Vol. 84, No. 4 (1977), hlm. 800–816.
+[^4]: B.F. Skinner, *Science and Human Behavior* (New York: Macmillan, 1953); Mark W. Steege & T. Steuart Watson, *Conducting School-Based Functional Behavioral Assessments: A Practitioner's Guide* (New York: The Guilford Press, 2009), hlm. 55–89.
 
 ---
 
 # BAB 18: ARSITEKTUR INTERVENSI BERTINGKAT (SW-PBIS MULTI-TIER DI PESANTREN)
+## Menyelaraskan Pencegahan Universal Tier 1, Mentoring Terarah CICO Tier 2, dan Intervensi Intensif Rencana Dukungan Individual Tier 3
 
+> وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
+>
 > *"Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan. Dan bertakwalah kamu kepada Allah, sesungguhnya Allah amat berat siksa-Nya."*  
-> — **QS. Al-Ma'idah [5]: 2**
+> — **QS. Al-Ma'idah [5]: 2**[^1]
 
-> مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى  
-> *"Perumpamaan orang-orang mukmin dalam hal saling mencintai, saling menyayangi, dan saling berlemah-lembut di antara mereka adalah seperti satu tubuh; apabila satu anggota tubuh mengeluh sakit, maka seluruh anggota tubuh yang lain ikut merasakan demam dan tidak dapat tidur."*  
-> — **Hadits Riwayat Al-Bukhari (No. 6011) & Muslim (No. 2586)**
-
----
-
-### Pendahuluan
-
-Dalam banyak sistem pengasuhan asrama tradisional, penanganan disiplin sering kali beroperasi layaknya unit pemadam kebakaran yang pasif: menunggu terjadinya krisis kebakaran besar, baru kemudian panik menyemprotkan air kemarahan dan menjatuhkan sanksi skorsing atau pengeluaran santri. Pendidik menghabiskan 80% energi dan waktunya untuk mengurus 5% santri yang melakukan pelanggaran berat berulang kali, sementara 95% santri lainnya yang berperilaku baik terabaikan tanpa pembinaan intensif.
-
-Pola reaktif ini adalah pemborosan sumber daya pedagogis yang sangat merugikan. Ketika sebuah lembaga hanya fokus "memukul" pelanggar, ia gagal membangun benteng pencegahan yang melindungi seluruh populasi santri dari pengaruh negatif.
-
-Model TUMBUH mengadopsi dan menyelaraskan kerangka kerja **School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)** dengan nilai-nilai kepesantrenan ke dalam **Arsitektur Intervensi Bertingkat (Multi-Tier Support System)**. Sistem ini menstrukturkan dukungan pembinaan ke dalam tiga tingkatan yang proporsional, terukur, dan berbasis data ilmiah: Tier 1 (Dukungan Universal 80–90%), Tier 2 (Dukungan Terarah 10–15%), dan Tier 3 (Dukungan Intensif Individual 1–5%).
-
-Bab ini membedah arsitektur intervensi multi-tier pesantren: mulai dari rekayasa budaya adab massal Tier 1, protokol bimbingan mentoring terarah (*Check-In/Check-Out*) Tier 2, hingga penanganan komprehensif kasus krisis Tier 3 melalui Rencana Dukungan Perilaku Individual (*Behavior Intervention Plan*) yang terpadu.
+> مَثَلُ الْمُؤْمِنِينَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى
+>
+> *"Perumpamaan orang-orang mukmin dalam hal saling mencintai, saling menyayangi, dan saling berlemah-lembut di antara mereka adalah seperti satu tubuh; apabila salah satu anggota tubuh mengeluh sakit, maka seluruh anggota tubuh yang lain ikut merasakan demam dan tidak dapat tidur."*  
+> — **Hadits Riwayat Al-Bukhari (No. 6011) & Muslim (No. 2586)**[^2]
 
 ---
 
-### 18.1 Arsitektur Tiga Tingkat Intervensi TUMBUH
+### Prolog: Lelahnya Pasukan Pemadam Kebakaran
 
-Sistem Intervensi Bertingkat TUMBUH didesain laksana piramida kesehatan masyarakat (*public health model*): pencegahan primer bagi seluruh santri, pencegahan sekunder bagi santri berisiko, dan penanganan tersier bagi santri yang membutuhkan intervensi mendalam.
+Malam itu, di ruang kantor pengasuhan pusat, tumpukan berkas pelanggaran santri menggunung di atas meja kerja. Tiga orang musyrif senior duduk menyandarkan kepala ke dinding dengan mata merah menahan kantuk dan kepenatan yang teramat sangat. Di sudut papan tulis putih, tertulis sepuluh nama santri yang sama—nama-nama yang selama enam bulan terakhir menyita delapan puluh persen rapat malam pengasuhan: Fikri yang membolos lagi, Dani yang tertangkap merokok di belakang dapur, dan Rian yang memukul adik kelasnya.
 
-```text
-               PIRAMIDA INTERVENSI BERTINGKAT TUMBUH
-                                 ▲
-                                / \
-                               /   \
-                              /     \
-                             / TIER  \   1–5% Santri (Kasus Khusus / Krisis)
-                            /    3    \  • Rencana Dukungan Individual (BIP)
-                           /───────────\ • Kolaborasi Tim Ahli, BK, & Orang Tua
-                          /   TIER 2    \ 10–15% Santri (Kelompok Berisiko)
-                         /   Targeted    \ • Mentoring Terarah (Protokol CICO)
-                        /    Support      \ • Halaqah Regulasi Sosio-Emosional
-                       /───────────────────\
-                      /       TIER 1        \ 80–90% Seluruh Populasi Santri
-                     /   Universal Support   \ • Matriks Harapan Adab Pesantren
-                    /   Bi'ah Shalihah Massal \ • Pembelajaran Eksplisit Perilaku
-                   /                           \ • Rasio Afirmasi Penguatan Positif
-                  └─────────────────────────────┘
+Salah seorang musyrif menghela napas panjang seraya berkata:  
+*"Setiap hari kita hanya bertindak seperti petugas pemadam kebakaran. Kita baru berlari pontang-panting menyemprotkan air kemarahan ketika api kebakaran sudah membesar membakar asrama. Kita lelah menghukum, anak-anak itu lelah dihukum, dan besok pagi pelanggaran yang sama terulang kembali. Sementara sembilan puluh persen anak-anak lain yang saleh dan tertib di kamar hampir tidak pernah kita sapa karena seluruh energi kita habis terkuras mengurusi sepuluh anak ini."*
+
+Curahan hati musyrif senior tersebut adalah diagnosis sempurna atas kerapuhan sistem pengasuhan tradisional yang reaktif. Ketika sebuah lembaga pendidikan tidak memiliki **Arsitektur Pencegahan Bertingkat (*Tiered Prevention Framework*)**, para pendidik akan terjebak dalam lingkaran setan *burnout*: memadamkan krisis demi krisis secara sporadis, menghukum tanpa mendidik, dan mengabaikan mayoritas populasi santri yang membutuhkan penguatan budaya kebaikan.
+
+Model TUMBUH menyerap kerangka kerja berbasis bukti ilmiah paling teruji di dunia pendidikan internasional—**School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)**—lalu menyelaraskannya secara koheren dengan khazanah tarbiyah Islam dan realitas asrama 24 jam ke dalam **Arsitektur Intervensi Bertingkat Multi-Tier**. 
+
+Sistem ini memastikan bahwa energi pengasuhan dialokasikan secara proporsional: membangun benteng budaya adab yang kokoh bagi seluruh santri (Tier 1), memberikan perancah pendampingan terarah bagi santri berisiko (Tier 2), serta menyiapkan protokol penanganan klinis-tarbawi intensif bagi santri yang berada dalam pusaran krisis berat (Tier 3).
+
+---
+
+### 18.1 Arsitektur Tiga Tingkat Intervensi Bertingkat TUMBUH
+
+Sistem Intervensi Bertingkat TUMBUH didesain mengadopsi model kesehatan masyarakat (*public health model*): daripada menunggu masyarakat sakit parah lalu mengobatinya di unit gawat darurat, sistem mengutamakan sanitasi lingkungan dan imunisasi massal untuk mencegah wabah penyakit sejak dini[^3].
+
+```mermaid
+graph TD
+    subgraph PIRAMIDA_INTERVENSI_BERTINGKAT["Arsitektur Multi-Tier PBIS Pesantren TUMBUH"]
+        direction TB
+        
+        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5% SANTRI)<br/>• Kasus Krisis Kompleks, Trauma & Pelanggaran Berat Menetap<br/>• Rencana Intervensi Perilaku Individual (BIP) Berbasis FBA<br/>• Kolaborasi Multidisipliner: Pimpinan, Musyrif, BK, Psikolog & Orang Tua"]
+        
+        T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15% SANTRI)<br/>• Kelompok Santri Berisiko: Homesick Berulang, Kesulitan Adaptasi, Penurunan Motivasi<br/>• Mentoring Terarah: Protokol Check-In / Check-Out (CICO) Harian<br/>• Halaqah Keterampilan Sosio-Emosional (Regulasi Amarah & Asertivitas)"]
+        
+        T1["TIER 1: PENCEGAHAN UNIVERSAL UNTUK SELURUH SANTRI (80–90% POPULASI)<br/>• Pondasi Ekosistem Bi'ah Shalihah di Seluruh Ruang 24 Jam<br/>• Matriks Harapan Adab Pesantren yang Eksplisit & Operasional<br/>• Pengajaran Langsung Perilaku, Keteladanan Qudwah, & Rasio Afirmasi Emas 4:1"]
+        
+        T3 --- T2
+        T2 --- T1
+    end
 ```
 
-Prinsip fundamental dari model piramida ini adalah: **Tier 2 dan Tier 3 bukanlah tempat pembuangan santri nakal, melainkan lapisan dukungan tambahan (*additive support*) yang berdiri di atas fondasi Tier 1 yang kokoh.** Seorang santri yang menerima intervensi Tier 2 atau Tier 3 tetap berhak menikmati seluruh ekosistem kebaikan dan hak-hak dasar Tier 1 tanpa diskriminasi.
+#### Kaidah Emas Arsitektur Multi-Tier: Sifat Melengkapi (Additive, Not Subtractive)
+Prinsip arsitektural terpenting dalam sistem TUMBUH adalah: **Tier 2 dan Tier 3 bukanlah tempat pembuangan santri bermasalah, dan bukan pula sistem isolasi kasta yang mencabut hak santri dari kehidupan normal.**
+
+Intervensi Tier 2 dan Tier 3 bersifat **Dukungan Tambahan (*Additive Support*)**:
+- Santri yang menerima pendampingan CICO di Tier 2 tetap tinggal di kamar asramanya, tetap belajar bersama kawan-kawannya di madrasah, dan tetap menikmati seluruh fasilitas Tier 1. Ia hanya mendapatkan dosis bimbingan ekstra dari mentor pribadinya.
+- Demikian pula santri di Tier 3: ia dirangkul dengan intervensi khusus tanpa pernah dicabut martabat fitrah kemanusiaannya sebagai saudara seiman.
 
 ---
 
-### 18.2 Tier 1: Dukungan Universal (Universal Support) untuk Seluruh Santri (80–90%)
+### 18.2 Tier 1: Fondasi Pencegahan Universal untuk Seluruh Santri (80–90%)
 
-Tier 1 adalah jantung peradaban pesantren. Jika ekosistem umum asrama sehat, ramah, tertib, dan sarat keteladanan (*bi'ah shalihah*), maka 80 hingga 90 persen santri akan tumbuh mekar secara mandiri tanpa memerlukan intervensi khusus.
+Tier 1 adalah pilar peradaban pesantren. Jika ekosistem umum asrama tertata bersih, ramah, aman, adil, dan sarat keteladanan (*bi'ah shalihah*), maka secara statistik **delapan puluh hingga sembilan puluh persen santri akan tumbuh mekar secara mandiri tanpa memerlukan intervensi khusus**.
 
-#### 1. Matriks Harapan Adab Pondok (Pesantren Behavioral Matrix)
-Banyak pelanggaran terjadi bukan karena santri berniat jahat, melainkan karena aturan pondok bersifat abstrak, samar, atau tidak dikomunikasikan secara operasional. Tier 1 menetapkan 3 hingga 5 Nilai Inti Pondok (misalnya: **Ikhlas, Jujur, Disiplin, Tangguh, dan Peduli**) yang dijabarkan ke dalam matriks perilaku konkret di seluruh area lingkungan pesantren:
+#### 1. Matriks Harapan Adab Pesantren (School-Wide Behavioral Matrix)
+Banyak pelanggaran di asrama meletus bukan karena santri berniat jahat, melainkan karena peraturan pondok bersifat abstrak, samar-samar, atau dirumuskan dalam kalimat-kalimat larangan negatif (*"Dilarang ini, dilarang itu"*). 
 
-| Area Lingkungan | Nilai: JUJUR | Nilai: DISIPLIN | Nilai: PEDULI |
+Tier 1 mengganti tumpukan larangan negatif tersebut dengan **Matriks Harapan Adab Positif** yang menetapkan 3 hingga 5 Nilai Inti (misalnya: **Ikhlas, Jujur, Disiplin, Tangguh, dan Peduli**) yang dijabarkan ke dalam deskriptor perilaku konkret di setiap jengkal area pesantren:
+
+| Area Lingkungan | Nilai: JUJUR (Ash-Shidq) | Nilai: DISIPLIN (Al-Inthibath) | Nilai: PEDULI (Al-Ukhuwwah) |
 | :--- | :--- | :--- | :--- |
-| **Masjid & Tempat Wudu** | Mengakui kesalahan wudu yang batal dan mengulanginya tanpa pura-pura. | Hadir 10 menit sebelum azan; merapikan sandal menghadap ke luar. | Membantu kawan merapikan sajadah; menjaga ketenangan zikir jamaah. |
-| **Kamar Asrama** | Segera mengembalikan barang kawan yang tertukar tanpa menunggu ditagih. | Merapikan ranjang dan lemari setiap bangun tidur sebelum subuh. | Mematikan kran air yang meluber; menanyakan kabar teman yang murung. |
-| **Ruang Makan / Kantin** | Membayar makanan sesuai jumlah yang diambil secara amanah. | Mengantre dengan sabar dan tertib tanpa menyela antrean kawan. | Mengambil porsi secukupnya; membersihkan remah meja makan bersama. |
-| **Kelas Madrasah** | Mengerjakan tugas dan ujian tanpa mencontek catatan atau bertanya teman. | Mempersiapkan kitab dan alat tulis di meja sebelum ustadz masuk. | Mendengarkan penjelasan guru dengan takzim; menyimak teman bertanya. |
+| **Masjid & Tempat Wudhu** | Mengakui wudhu yang batal secara jujur dan mengulanginya tanpa pura-pura. | Hadir di saf masjid 10 menit sebelum azan; meletakkan sandal di rak menghadap ke luar. | Merapikan sajadah kawan yang bergeser; menjaga keheningan zikir dan tilawah jamaah. |
+| **Bilik Tidur Asrama** | Segera mengembalikan barang kawan yang tertukar tanpa menunggu ditagih. | Merapikan seprai ranjang dan melipat selimut simetris setiap bangun subuh. | Mematikan kran air yang meluap; menyapa dan menanyakan kabar kawan yang murung. |
+| **Ruang Makan / Kantin** | Membayar makanan sesuai jumlah porsi yang diambil secara amanah. | Mengantre dengan sabar dan tertib tanpa menyela antrean saudara lain. | Mengambil porsi makan secukupnya; membersihkan remah meja makan bersama kawan. |
+| **Kelas Madrasah** | Mengerjakan tugas dan ujian mandiri tanpa mencontek catatan atau bertanya kawan. | Mempersiapkan kitab dan alat tulis di meja sebelum ustadz melangkah masuk. | Menyimak penjelasan guru dengan takzim; mendengarkan saat kawan bertanya. |
 
-#### 2. Pengajaran Eksplisit Perilaku Adab (Direct Instruction of Behavior)
-Model TUMBUH menolak asumsi bahwa *"Santri pasti sudah tahu bagaimana cara beradab"*. Adab bukanlah bawaan genetik yang otomatis aktif, melainkan kecakapan hidup yang harus **diajarkan secara eksplisit, dicontohkan secara nyata, dipraktikkan berulang-ulang, dan diapresiasi secara konsisten**:
-- **Pekan Orientasi Adab Awal Tahun:** Di awal semester, seluruh santri mengikuti demonstrasi langsung: cara mencuci piring yang bersih, cara melipat sarung, cara menyapa asatidz di jalan, dan cara meredakan emosi saat tersinggung.
-- **Keteladanan Nyata Asatidz (*Qudwah Hasanah*):** Para musyrif dan guru mempraktikkan matriks adab tersebut dalam keseharian mereka: tidak membuang sampah sembarangan, tidak berteriak saat marah, dan hadir di saf pertama masjid sebelum santri tiba.
+#### 2. Pengajaran Eksplisit Perilaku Adab (Direct Behavioral Instruction)
+TUMBUH menolak asumsi naif bahwa *"Santri pasti sudah tahu bagaimana cara beradab"*. Adab bukanlah bawaan genetik yang otomatis aktif; adab adalah kecakapan hidup yang wajib **diajarkan secara eksplisit, dicontohkan secara nyata, dipraktikkan berulang-ulang, dan diapresiasi secara konsisten**:
+- **Pekan Orientasi Adab Awal Semester:** Di awal tahun ajaran, seluruh santri mengikuti demonstrasi visual nyata: bagaimana cara mengantre wudhu tanpa mencipratkan air, bagaimana etika mengetuk pintu bilik orang lain, dan bagaimana teknik mengatur napas saat amarah tersulut.
+- **Keteladanan Seluruh Civitas (*School-Wide Qudwah*):** Seluruh figur dewasa di pondok—mulai dari satpam di pos gerbang, koki di dapur umum, musyrif asrama, guru madrasah, hingga jajaran masyayikh—mempraktikkan matriks adab tersebut: tidak membuang sampah sembarangan, tidak berteriak saat menegur, dan selalu mengawali perjumpaan dengan senyuman dan salam.
 
-#### 3. Sistem Penguatan Positif Massal (Positive Reinforcement System)
+#### 3. Sistem Afirmasi Positif Massal (The Culture of Encouragement)
 Tier 1 membangun atmosfer apresiatif yang mengikis dominasi budaya serba-menghukum:
-- **Pengakuan Verbal Konkret:** Pendidik terlatih memberikan pujian spesifik: *"Jazakallahu khair, Zaid. Ustadz memperhatikan caramu merapikan sandal adik kelas tadi pagi sangat rapi dan penuh keikhlasan."*
-- **Apresiasi Kamar Teladan Mingguan:** Pemberian penghargaan bergilir bagi kamar terbersih, tersantun, dan terajin salat berjamaah, yang melahirkan kompetisi positif dalam kebajikan (*fastabiqul khairat*) antar-kamar asrama.
+- **Pengakuan Verbal Konkret:** Para pendidik dilatih memberikan pujian yang menyasar ikhtiar: *"Jazakallahu khair, Zaid. Ustadz memperhatikan caramu merapikan sandal adik kelas tadi pagi sangat rapi dan penuh keikhlasan."*
+- **Apresiasi Kamar Teladan Mingguan:** Pemberian penghargaan bergilir bagi bilik terbersih, tersantun, dan terajin salat berjamaah, yang melahirkan kompetisi sehat dalam kebajikan (*fastabiqul khairat*) antarkamar asrama.
 
 ---
 
-### 18.3 Tier 2: Dukungan Terarah (Targeted Support) bagi Kelompok Berisiko (10–15%)
+### 18.3 Tier 2: Dukungan Terarah bagi Kelompok Berisiko (10–15%)
 
-Meskipun Tier 1 telah berjalan optimal, secara statistik akan selalu ada sekitar 10 hingga 15 persen santri yang membutuhkan perancah tambahan. Mereka adalah santri yang mulai menunjukkan tanda-tanda ketertinggalan: sering terlambat bangun pagi, kerap berselisih paham di kamar, mengalami kesulitan adaptasi, atau menunjukkan penurunan prestasi hafalan secara persisten.
+Meskipun fondasi Tier 1 telah berjalan prima, secara alamiah akan selalu ada sekitar 10 hingga 15 persen santri yang membutuhkan perancah tambahan. Mereka adalah santri yang mulai menunjukkan tanda-tanda ketertinggalan: sering terlambat bangun fajar, kerap berselisih paham di kamar, mengalami kesulitan adaptasi homesickness yang berkepanjangan, atau menunjukkan penurunan hafalan secara persisten.
 
 #### 1. Protokol Check-In / Check-Out (CICO) Adaptasi Pesantren
-Salah satu intervensi Tier 2 paling efektif yang terbukti secara empiris dan selaras dengan tradisi tarbiyah Islam adalah protokol **Check-In / Check-Out (CICO)**:
-- **Check-In Pagi (Ba'da Subuh):** Santri bertemu dengan musyrif mentor pribadinya selama 3–5 menit. Musyrif menyapa dengan senyum hangat, menanyakan kabar batin santri, mengecek kesiapan hari itu, menetapkan satu target adab harian (misal: *"Hari ini kita fokus menahan lisan dari kata-kata kasar ya"*), serta mendoakannya. Santri membawa kartu bimbingan adab harian.
-- **Umpan Balik Guru Sepanjang Hari:** Pada setiap pergantian jam kelas atau sesi halaqah, guru memberikan tanda tangan dan skor singkat (0, 1, atau 2) pada kartu bimbingan disertai catatan kalimat positif singkat mengenai ikhtiar santri.
-- **Check-Out Malam (Ba'da Isya):** Santri kembali menemui musyrif mentor untuk mereviu pencapaian hari itu. Musyrif menghitung total persentase keberhasilan santri, memberikan apresiasi atas keberhasilan menahan diri, dan mengevaluasi pemicu jika ada target yang terlewat. Pertemuan ditutup dengan pelukan hangat atau jabat tangan erat dan doa malam.
+Salah satu intervensi Tier 2 paling efektif yang terbukti secara empiris di ribuan sekolah dunia dan selaras sempurna dengan sunnah tarbiyah Islam adalah protokol **Check-In / Check-Out (CICO)**[^4]:
 
-Melalui protokol CICO, santri berisiko menerima kepastian bahwa **ia diperhatikan, disayangi, dan dibimbing setiap hari oleh figur dewasa yang peduli padanya**, sehingga kebutuhan perhatiannya terpenuhi secara positif.
+```text
+               ALUR SIKLUS HARIAN MENTORING CICO ASRAMA
+┌────────────────────────────────────────────────────────────────────────┐
+│ 1. CHECK-IN PAGI (Ba'da Subuh | 05.15 - 05.20 WIB)                    │
+│    • Pertemuan 3–5 menit antara santri dan musyrif mentor pribadinya.  │
+│    • Senyum hangat, menanyakan kabar batin santri, mengecek kesiapan.  │
+│    • Menetapkan 1 target adab harian (misal: "Hari ini fokus menahan   │
+│      lisan dari kata kasar"). Santri membawa Kartu Adab Harian (DPR).  │
+├────────────────────────────────────────────────────────────────────────┤
+│ 2. UMPAN BALIK GURU SEPANJANG HARI (Kelas, Halaqah, Dapur)             │
+│    • Pada setiap pergantian sesi, guru memberikan skor singkat (0,1,2) │
+│      disertai 1 kalimat apresiasi positif atas usaha santri.           │
+├────────────────────────────────────────────────────────────────────────┤
+│ 3. CHECK-OUT MALAM (Ba'da Isya | 20.30 - 20.40 WIB)                   │
+│    • Reviu capaian hari itu bersama musyrif mentor.                    │
+│    • Menghitung persentase keberhasilan (target minimal 80% poin).     │
+│    • Apresiasi atas keberhasilan menahan diri; evaluasi pemicu jika    │
+│      ada target yang terlewat; ditutup dengan doa malam dan pelukan.   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Melalui protokol CICO, santri yang haus perhatian tidak perlu lagi membuat onar untuk dilihat orang; ia menerima kepastian mutlak bahwa **setiap hari, di waktu fajar dan di waktu malam, ada seorang figur dewasa yang menyayangi, memperhatikan, dan mendoakannya secara khusus**.
 
 #### 2. Halaqah Keterampilan Sosio-Emosional (Small-Group Social Skills Halaqah)
-Bagi santri yang memiliki kesulitan bergaul, mudah meledak amarahnya, atau mengalami kecemasan sosial, Tim Bimbingan Konseling (BK) memfasilitasi halaqah kecil berisi 4 hingga 6 santri:
+Bagi santri yang memiliki kesulitan bergaul, mudah meledak amarahnya, atau mengalami kecemasan sosial, Tim Bimbingan Konseling (BK) memfasilitasi halaqah kecil berisi 4 hingga 6 santri yang dipandu dua kali sepekan:
 - Pembelajaran teknik komunikasi asertif tanpa kekerasan.
-- Pelatihan regulasi emosi: mengenali sinyal tubuh saat amarah naik (*somatic awareness*) dan mempraktikkan wudu atau mengubah posisi duduk sesuai sunnah Nabi ﷺ.
+- Pelatihan regulasi emosi: mengenali sinyal tubuh saat amarah naik (*somatic awareness*) dan mempraktikkan wudhu atau mengubah posisi duduk sesuai sunnah Nabi ﷺ.
 - Simulasi peran (*role-play*) memecahkan konflik teman sekamar dengan dialog damai.
 
 ---
 
-### 18.4 Tier 3: Dukungan Intensif Individual (Intensive Individual Support) bagi Kasus Khusus (1–5%)
+### 18.4 Tier 3: Dukungan Intensif Individual bagi Kasus Khusus (1–5%)
 
 Sekitar 1 hingga 5 persen santri menghadapi pergulatan hidup yang sangat kompleks: santri korban trauma masa lalu di keluarga (*adverse childhood experiences*), santri dengan gangguan perilaku menetap (*conduct challenges*), depresi berat, atau santri yang terlibat pelanggaran moral serius. Kelompok ini tidak cukup ditangani oleh Tier 1 maupun bimbingan kelompok Tier 2; mereka membutuhkan **intervensi klinis-tarbawi yang sangat personal, intensif, dan lintas disiplin**.
 
-```text
-               TIM KOLABORASI KASUS TIER 3 (MULTI-DISCIPLINARY TEAM)
-                                        │
-           ┌────────────────────────────┼────────────────────────────┐
-           ↓                            ↓                            ↓
-  PIMPINAN & PENGASUHAN          TIM BK & PSIKOLOG             ORANG TUA SANTRI
-  (Mudir & Musyrif Kamar)       (Konselor Ahli Pondok)        (Keluarga Inti di Rumah)
+```mermaid
+graph TD
+    subgraph TIM_KASUS_TIER_3["Tim Kolaborasi Penanganan Kasus Tier 3"]
+        direction TB
+        M["PIMPINAN PONDOK & WALI ASRAMA<br/>(Kebijakan Struktur & Regulasi Lingkungan)"]
+        BK["TIM BK & PSIKOLOG KLINIS MITRA<br/>(Asesmen FBA Klinis & Konseling Trauma)"]
+        MS["MUSYRIF KAMAR KHUSUS<br/>(Pendampingan Melekat 24 Jam Penuh Empati)"]
+        OT["ORANG TUA KANDUNG SANTRI<br/>(Penyelarasan Pola Asuh Rumah-Asrama)"]
+        
+        M --- BK
+        BK --- MS
+        MS --- OT
+        OT --- M
+    end
 ```
 
 #### 1. Penyusunan Rencana Dukungan Perilaku Individual (Behavior Intervention Plan / BIP)
-Tim kasus Tier 3 merancang dokumen BIP yang komprehensif berbasis data FBA:
+Berdasarkan hasil asesmen FBA yang mendalam, tim menyusun dokumen BIP tertulis yang mengikat seluruh pihak:
 1. **Identifikasi Kebutuhan Dasar:** Membongkar trauma atau luka batin yang mendasari perilaku destruktif santri.
-2. **Modifikasi Ekosistem yang Ekstrem:** Memberikan penyesuaian khusus pada ritme belajar dan kamar asrama santri (misalnya penempatan di kamar dengan musyrif pendamping khusus yang memiliki kematangan emosional tinggi).
-3. **Protokol De-eskalasi Krisis Pribadi:** Panduan langkah demi langkah bagi staf asrama mengenai apa yang harus dilakukan jika santri mengalami ledakan histeris (*meltdown*) atau agresi fisik, guna menjaga keselamatan santri dan orang lain tanpa menggunakan kekerasan fisik balasan.
+2. **Modifikasi Ekosistem Khusus:** Memberikan penyesuaian khusus pada ritme belajar dan penempatan kamar santri (misalnya penempatan di kamar dengan musyrif pendamping yang memiliki kematangan emosional tinggi).
+3. **Protokol De-eskalasi Krisis Pribadi:** Panduan langkah demi langkah bagi staf asrama mengenai apa yang harus dilakukan jika santri mengalami ledakan histeris (*meltdown*) atau agresi fisik, guna menjaga keselamatan santri dan orang lain tanpa kekerasan fisik balasan.
 4. **Sesi Terapi & Konseling Intensif Berkala:** Jadwal konseling mingguan bersama konselor BK pondok atau psikolog klinis profesional yang bekerja sama dengan pesantren.
 
 #### 2. Kemitraan Erat dengan Orang Tua
 Penanganan Tier 3 mustahil berhasil tanpa transparansi dan kolaborasi tulus dengan orang tua santri. Pesantren memposisikan orang tua bukan sebagai terdakwa yang dimarahi atas kenakalan anaknya, melainkan sebagai **mitra setara dalam memulihkan jiwa anak**. Pertemuan berkala dirancang untuk menyelaraskan pola komunikasi di rumah saat masa liburan dengan pola pembinaan di asrama.
 
 #### 3. Monitoring Kemajuan Berbasis Data (Data-Based Progress Monitoring)
-Keberhasilan intervensi Tier 3 dievaluasi setiap 2 hingga 4 pekan:
-- Apakah frekuensi ledakan amarah berkurang dari 5 kali seminggu menjadi 1 kali seminggu?
+Keberhasilan intervensi Tier 3 dievaluasi setiap dua pekan:
+- Apakah frekuensi ledakan amarah berkurang dari lima kali seminggu menjadi satu kali seminggu?
 - Apakah durasi keterlibatan santri dalam pembelajaran meningkat?
 - Jika data menunjukkan perbaikan nyata, dosis bantuan intensif ditarik mundur secara bertahap menuju Tier 2 (*fading support*). Namun jika kondisi jalan di tempat, tim meninjau ulang hipotesis FBA dan menyesuaikan strategi intervensi.
 
 ---
 
+### 18.5 Format Kartu Pantau Harian CICO (Daily Progress Report / DPR)
+
+Agar pendampingan Tier 2 berjalan terukur dan konsisten di seluruh sesi kegiatan 24 jam, santri membawa lembar **Kartu Adab Harian (DPR)** yang diisi secara cepat oleh guru dan musyrif:
+
+```text
+                  KARTU ADAB HARIAN MENTORING CICO TUMBUH
+┌────────────────────────────────────────────────────────────────────────┐
+│ NAMA SANTRI   : .....................  TANGGAL/HARI : ................ │
+│ MUSYRIF MENTOR: .....................  TARGET POIN  : Minimal 80% (38) │
+├────────────────────────────────────────────────────────────────────────┤
+│ SESI KEGIATAN  │ TARGET 1: IKHLAS │ TARGET 2: TERTIB │ TARGET 3: SANTUN│
+│ (24 JAM)       │ (Fokus Penuh)    │ (Tepat Waktu)    │ (Lisan & Sikap) │
+│                │  (0 - 1 - 2)     │   (0 - 1 - 2)    │   (0 - 1 - 2)   │
+├────────────────┼──────────────────┼──────────────────┼─────────────────┤
+│ 1. Subuh-Pagi  │  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│
+│ 2. Kelas Pagi  │  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│
+│ 3. Siang-Zuhur │  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│
+│ 4. Kelas Sore  │  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│
+│ 5. Maghrib-Isya│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│
+│ 6. Belajar Mlm │  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│  [  ]  [  ]  [  ]│
+├────────────────┴──────────────────┴──────────────────┴─────────────────┤
+│ SKOR TOTAL HARI INI : ........ / 48 Poin  (Persentase: ........ %)     │
+│ [ ] TARGET TERCAPAI (≥ 80%)  -> Apresiasi: ........................... │
+│ CATATAN KASIH SAYANG MUSYRIF MALAM:                                    │
+│ "Affan, ustadz bangga sekali antum mampu menahan diri di kelas siang!" │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Skoring dilakukan sangat sederhana (2 = Hebat/Konsisten, 1 = Cukup/Perlu diingatkan sekali, 0 = Membutuhkan bimbingan intensif). Fokus utama kartu ini bukanlah angka matematikanya, melainkan **kesempatan bagi santri untuk menerima 6 kali tatapan mata penuh kehangatan dan kalimat afirmasi dari guru yang berbeda setiap hari**.
+
+---
+
+### 18.6 Tim Kepemimpinan PBIS Multidisipliner: Pengambilan Keputusan Berbasis Analitik
+
+Keberhasilan arsitektur PBIS di pesantren dipandu oleh **Tim Kepemimpinan PBIS Lembaga (*School-Wide PBIS Leadership Team*)** yang bersidang sebulan sekali:
+
+```mermaid
+graph TD
+    subgraph SIKLUS_DATA_PBIS["Siklus Analitik Keputusan Tim PBIS"]
+        direction TB
+        D["1. HIMPUN DATA FAKTUAL LOGBOOK & DISIPLIN BULANAN"] --> A["2. ANALISIS DATA SPASIAL & TEMPORAL (SWIS/Dashboard)"]
+        A --> T["3. IDENTIFIKASI PERTANYAAN KUNCI:<br/>• Di mana hotspot terbanyak? (Kamar mandi? Kantin?)<br/>• Jam berapa insiden memuncak? (16.30 sore? 22.00 malam?)<br/>• Jenis pelanggaran apa yang mendominasi? (Ghashab? Terlambat?)"]
+        T --> I["4. DESAIN INTERVENSI SISTEMIK BARU:<br/>• Rekayasa Lingkungan / Penambahan Penerangan / Modifikasi Jadwal"]
+        I --> E["5. EVALUASI EFEKTIVITAS BULAN BERIKUTNYA"]
+    end
+```
+
+Dengan tim multidisipliner ini, pesantren tidak pernah lagi membuat kebijakan disiplin berdasarkan firasat atau selera subjektif pengurus. Kebijakan lahir dari pembacaan data yang jernih, adil, ilmiah, dan berorientasi pada maslahat pertumbuhan santri.
+
+---
+
 ### Rangkuman Intisari Bab 18
 
-1. **Arsitektur Tiga Tingkat SW-PBIS:** Mengubah pola kepengasuhan pesantren dari reaktif-menghukum menjadi proaktif-bertingkat: Tier 1 Universal (80–90%), Tier 2 Terarah (10–15%), dan Tier 3 Intensif Individual (1–5%).
+1. **Arsitektur Tiga Tingkat SW-PBIS:** Mengubah pola kepengasuhan pesantren dari unit pemadam kebakaran yang reaktif menjadi sistem kesehatan masyarakat yang proaktif: Tier 1 Universal (80–90%), Tier 2 Terarah (10–15%), dan Tier 3 Intensif Individual (1–5%).
 2. **Kekuatan Pencegahan Tier 1:** Menciptakan ekosistem budaya adab massal (*bi'ah shalihah*) melalui Matriks Harapan Adab operasional di setiap area pondok, pembelajaran eksplisit perilaku, keteladanan pendidik, serta iklim afirmasi positif massal.
 3. **Dukungan Mentoring Tier 2:** Memberikan perancah tambahan bagi santri berisiko melalui protokol bimbingan harian *Check-In / Check-Out* (CICO) yang penuh kasih sayang dan halaqah kecil keterampilan sosio-emosional.
 4. **Penanganan Kasus Krisis Tier 3:** Rencana Dukungan Perilaku Individual (BIP) berbasis FBA untuk menangani pergulatan emosional dan perilaku kompleks, melibatkan sinergi musyrif, konselor BK, psikolog, pimpinan pondok, dan orang tua santri.
 5. **Dukungan Bersifat Melengkapi (Additive):** Santri di Tier 2 dan Tier 3 tidak dikucilkan atau dilabeli, melainkan tetap berada dalam dekapan kasih sayang ekosistem Tier 1 dengan penambahan dosis bimbingan yang terukur dan bermartabat.
 
+---
+
+Sistem bertingkat PBIS telah memberikan perisai pencegahan dan dukungan yang terukur. Namun, ketika pelanggaran berat atau konflik perselisihan meletus di kamar santri, keadilan seperti apa yang wajib kita tegakkan? Mengapa pembalasan fisik dan skorsing pengucilan justru memperparah luka asrama? 
+
+Di Bab 19, kita akan membedah Disiplin Positif dan Keadilan Restoratif (*Restorative Justice & Ishlah al-Bain*).
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Al-Ma'idah [5]: 2.
+[^2]: Diriwayatkan oleh Al-Bukhari dalam *Shahih al-Bukhari*, Kitab al-Adab, Bab Rahmat an-Nas wa al-Baha'im, hadits no. 6011; Muslim dalam *Shahih Muslim*, Kitab al-Birr wa ash-Shilah wa al-Adab, hadits no. 2586 dari An-Nu'man bin Basyir radhiyallahu 'anhuma.
+[^3]: George Sugai & Robert H. Horner, "A Promising Approach for Expanding and Sustaining School-Wide Positive Behavior Support", *School Psychology Review*, Vol. 35, No. 2 (2006), hlm. 245–259; Robert H. Horner dkk., "A Randomized, Wait-List Controlled Effectiveness Trial Assessing School-Wide Positive Behavior Support in Elementary Schools", *Journal of Positive Behavior Interventions*, Vol. 11, No. 3 (2009), hlm. 133–144.
+[^4]: Anne W. Todd dkk., "The Effects of a Targeted Intervention to Reduce Problem Behaviors: Elementary School Implementation of Check-In, Check-Out", *Journal of Positive Behavior Interventions*, Vol. 10, No. 1 (2008), hlm. 46–55; Douglas Chen & Jeffrey R. Sprague, *Implementing School-Wide PBIS* (Guilford Press, 2012).
 
 ---
 
 # BAB 19: DISIPLIN POSITIF DAN KEADILAN RESTORATIF (RESTORATIVE JUSTICE & ISHLAH AL-BAIN)
 
-> *"Dan balasan suatu kejahatan adalah kejahatan yang serupa, maka barang siapa memaafkan dan berbuat baik maka pahalanya atas (tanggungan) Allah. Sesungguhnya Dia tidak menyukai orang-orang yang zalim."*  
-> — **QS. Asy-Syura [42]: 40**
+> وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِثْلُهَا ۖ فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ ۚ إِنَّهُ لَا يُحِبُّ الظَّالِمِينَ
+>
+> *"Dan balasan suatu kejahatan adalah kejahatan yang serupa, maka barang siapa memaafkan dan berbuat ishlah (memperbaiki hubungan) maka pahalanya atas (tanggungan) Allah. Sesungguhnya Dia tidak menyukai orang-orang yang zalim."*  
+> — **QS. Asy-Syura [42]: 40**[^1]
 
 > إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ  
 > *"Sesungguhnya orang-orang mukmin itu bersaudara, karena itu damaikanlah antara kedua saudaramu (yang berselisih) dan bertakwalah kepada Allah agar kamu mendapat rahmat."*  
-> — **QS. Al-Hujurat [49]: 10**
+> — **QS. Al-Hujurat [49]: 10**[^2]
 
 ---
 
 ### Pendahuluan
+
+Dua ayat suci di atas meletakkan batu penjuru bagi keadilan Islam. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan bahwa Surah Asy-Syura ayat 40 menetapkan tiga derajat perlakuan terhadap kesalahan: *pertama*, derajat keadilan murni (*al-'adl*) yaitu membalas setimpal tanpa melampaui batas; *kedua*, derajat keutamaan dan ihsan (*al-fadhl*) yaitu memaafkan dan melakukan perbaikan persaudaraan (*fa man 'afa wa ashlaha*), yang pahalanya dijamin langsung oleh Allah; dan *ketiga*, derajat kezaliman (*azh-zhulm*) yang diharamkan Allah yaitu membalas melampaui batas. Paradigma Keadilan Restoratif TUMBUH berdiri kokoh di atas maqam ihsan dan *ishlah al-bain* ini.[^1]
 
 Ketika seorang santri melakukan kesalahan atau pelanggaran di lingkungan pesantren, pertanyaan apa yang pertama kali diajukan oleh pembina asrama? Dalam sistem pengasuhan tradisional yang terjebak dalam paradigma **Keadilan Retributif (Retributive Justice)**, pertanyaan yang diajukan selalu berkutat pada tiga hal yang memvonis:
 1. *Aturan mana yang telah dilanggar?*
@@ -3980,7 +4787,7 @@ Ketika seorang santri melakukan kesalahan atau pelanggaran di lingkungan pesantr
 
 Paradigma retributif ini memandang pelanggaran semata-mata sebagai pembangkangan terhadap peraturan tertulis lembaga, dan solusinya adalah menimpakan rasa sakit (fisik maupun psikis) kepada pelanggar. Hasilnya sangat tragis: santri yang dihukum tidak belajar tentang rasa tanggung jawab dan empati terhadap korban, melainkan hanya belajar rasa takut, dendam terhadap pembina, dan lihai bersiasat agar tidak tertangkap di kemudian hari.
 
-Sistem TUMBUH merombak paradigma tersebut secara revolusioner dengan menghidupkan kembali konsep syariat **Ishlah al-Bain** yang dipadukan dengan sains perilaku modern ke dalam paradigma **Keadilan Restoratif (Restorative Justice)**. 
+Sistem TUMBUH merombak paradigma tersebut secara revolusioner dengan menghidupkan kembali konsep syariat **Ishlah al-Bain** yang dipadukan dengan sains perilaku modern ke dalam paradigma **Keadilan Restoratif (Restorative Justice)**.[^3] 
 
 Bagi TUMBUH, pelanggaran bukanlah sekadar teks aturan yang robek, melainkan **terlukanya hubungan persaudaraan (*ukhuwah*), terusiknya rasa aman komunitas asrama, dan rusaknya integritas jiwa pelaku itu sendiri**. 
 
@@ -4020,7 +4827,7 @@ Dalam sistem TUMBUH, proses pemulihan pelanggaran dioperasionalkan ke dalam tiga
 ```
 
 #### 1. Restitusi (Restitution): Memperbaiki Kerusakan Secara Nyata
-Restitusi bukanlah hukuman sewenang-wenang (seperti disuruh lari keliling lapangan atau menyikat WC umum yang tidak ada hubungannya dengan pelanggaran). Restitusi adalah **konsekuensi logis yang relevan secara langsung (*logically related*) dengan dampak pelanggaran**:
+Restitusi bukanlah hukuman sewenang-wenang (seperti disuruh lari keliling lapangan atau menyikat WC umum yang tidak ada hubungannya dengan pelanggaran). Restitusi adalah **konsekuensi logis yang relevan secara langsung (*logically related*) dengan dampak pelanggaran**:[^4]
 - Jika seorang santri merusak lemari kawan saat bertengkar, tindakan restitusi adalah memperbaikinya sendiri dengan bantuan tukang kayu pondok atau menyisihkan uang jajan pribadinya untuk membeli engsel pengganti.
 - Jika seorang santri menyebarkan kabar bohong (*fitnah*) tentang adik kelas, tindakan restitusi adalah mengklarifikasi kebenaran secara jujur di hadapan orang-orang yang telah mendengar kabar bohong tersebut dan memulihkan nama baik adik kelas.
 - Restitusi mengajarkan akuntabilitas nyata: perbuatan salah membawa konsekuensi perbaikan yang harus dituntaskan secara bertanggung jawab.
@@ -4031,7 +4838,7 @@ Banyak sanksi tradisional gagal karena konflik disapu di bawah karpet setelah hu
 - Musyrif membimbing kedua pihak menyusun **Pakta Perdamaian Kamar**: batasan-batasan apa yang disepakati bersama ke depan, bagaimana cara berkomunikasi jika terjadi perselisihan serupa, dan siapa yang akan mereka hubungi jika merasa emosi mulai memuncak kembali.
 
 #### 3. Rekonsiliasi (Reconciliation): Pemulihan Hati dan Hubungan
-Rekonsiliasi adalah puncak pemulihan batin. Meminta maaf bukan sekadar formalitas ucapan bibir di bawah todongan amarah musyrif (*"Ayo cepat salaman dan bilang maaf!"*). Rekonsiliasi yang bermakna membutuhkan waktu perenungan hingga kalbu pelaku benar-benar merasakan kepedihan yang dialami korban (*empathy activation*), dan korban merasa aman serta divalidasi rasa sakitnya sebelum ia dengan lapang dada memberikan maaf.
+Rekonsiliasi adalah puncak pemulihan batin. Meminta maaf bukan sekadar formalitas ucapan bibir di bawah todongan amarah musyrif (*"Ayo cepat salaman dan bilang maaf!"*). Rekonsiliasi yang bermakna membutuhkan waktu perenungan hingga kalbu pelaku benar-benar merasakan kepedihan yang dialami korban (*empathy activation*), dan korban merasa aman serta divalidasi rasa sakitnya sebelum ia dengan lapang dada memberikan maaf.[^5]
 
 ---
 
@@ -4111,6 +4918,90 @@ Musyrif, para asatidz, dan teman-teman sekamar menyambutnya kembali dengan jabat
 
 ---
 
+### 19.4 Skrip Dialog Fasilitator Lingkaran Restoratif: Kasus Wildan dan Rafi
+
+Agar para musyrif dan konselor memiliki gambaran nyata bagaimana memandu Lingkaran Restoratif tanpa canggung, perhatikan transkrip dialog lapangan berikut:
+
+* **Latar Kasus**: Ba'da ashar, terjadi perkelahian fisik di Kamar Al-Farabi. Wildan (14 tahun) meninju bahu Rafi (14 tahun) hingga terjatuh karena menuduh Rafi merusak ritsleting tas ranselnya saat meminjamnya tanpa izin. Keduanya dipisahkan dan diberi waktu jeda 30 menit untuk stabilisasi emosi.
+* **Waktu Sidang Lingkaran**: Ba'da Isya, dipandu oleh Ustadz Hilman (Musyrif Kamar), dihadiri Wildan, Rafi, dan empat teman sekamarnya.
+
+```text
+               TRANSKRIP LINGKARAN RESTORATIF KAMAR AL-FARABI
+┌────────────────────────────────────────────────────────────────────────┐
+│ USTADZ HILMAN (Memegang Tasbih Kayu / Tongkat Bicara):                 │
+│ "Bismillah walhamdulillah. Malam ini Kamar Al-Farabi berkumpul bukan   │
+│ untuk menghakimi atau mencari siapa yang paling hebat. Kita berkumpul  │
+│ karena kita saling mencintai karena Allah dan ingin memulihkan luka di │
+│ antara kita. Saya serahkan tasbih ini kepada Wildan. Wildan, ceritakan │
+│ apa yang sebenarnya terjadi dari sudut pandangmu tadi sore?"           │
+├────────────────────────────────────────────────────────────────────────┤
+│ WILDAN (Menerima tasbih, menunduk, napas berat):                       │
+│ "Tadi sore saya mau mengambil ransel saya di lemari. Pas saya lihat,    │
+│ ritsleting utamanya sudah jebol robek. Saya tahu Rafi kemarin pinjam   │
+│ tas itu tanpa izin pas saya tidur. Saya langsung emosi, dada saya panas│
+│ karena tas itu dibeliin ayah saya sebelum berangkat. Saya hilang kendali│
+│ dan mendorong Rafi sampai tersungkur."                                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ USTADZ HILMAN:                                                         │
+│ "Terima kasih Wildan atas kejujuranmu. Apa yang kamu rasakan saat ini?"│
+├────────────────────────────────────────────────────────────────────────┤
+│ WILDAN:                                                                │
+│ "Saya merasa bersalah karena telah memukul saudara saya sendiri di     │
+│ kamar ini... Dada saya masih sesak..."                                 │
+├────────────────────────────────────────────────────────────────────────┤
+│ USTADZ HILMAN:                                                         │
+│ "Baik. Sekarang tasbih ini saya serahkan kepada Rafi. Rafi, bagaimana  │
+│ perasaanmu saat Wildan memukulmu dan saat melihat tas itu rusak?"      │
+├────────────────────────────────────────────────────────────────────────┤
+│ RAFI (Menerima tasbih, mata berkaca-kaca):                             │
+│ "Saya mengaku salah, Ustadz. Kemarin saya pinjam tas Wildan tergesa-   │
+│ gesa karena tas saya basah. Pas saya tarik, ritsletingnya macet dan    │
+│ malah robek. Saya takut sekali mau jujur ke Wildan, makanya saya diam- │
+│ diam menaruhnya kembali. Pas Wildan memukul bahu saya, saya sangat     │
+│ kaget dan sakit... tapi saya sadar ini semua gara-gara saya tidak amanah│
+│ meminjam barang orang lain."                                           │
+├────────────────────────────────────────────────────────────────────────┤
+│ USTADZ HILMAN (Mengajukan Pertanyaan Kunci ke Seluruh Lingkaran):       │
+│ "Duhai kawan-kawan sekamar, siapa saja yang terluka dan merasa tidak   │
+│ nyaman akibat perkelahian tadi sore? Dan apa langkah nyata yang bisa   │
+│ kita sepakati bersama agar kamar kita kembali damai dan ransel Wildan   │
+│ kembali berfungsi?"                                                    │
+├────────────────────────────────────────────────────────────────────────┤
+│ RAFI:                                                                  │
+│ "Saya punya tabungan uang saku 50 ribu, Ustadz. Besok sore izin saya   │
+│ bawa tas Wildan ke tukang jahit tas di seberang gerbang pondok untuk   │
+│ diperbaiki sampai seperti semula dengan biaya saya. Dan saya memohon   │
+│ maaf sedalam-dalamnya kepada Wildan atas kelancangan saya."            │
+├────────────────────────────────────────────────────────────────────────┤
+│ WILDAN (Menatap Rafi dengan mata berkaca-kaca, menerima uluran tangan):│
+│ "Saya juga minta maaf sebesar-besarnya, Fi. Saya salah melayangkan     │
+│ pukulan. Saya terima permohonan maaf antum."                           │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+Perhatikan hasil lingkaran ini: konflik diselesaikan hingga ke akar batiniahnya. Hubungan ukhuwah pulih, restitusi materi terlaksana, dan tidak ada setetes pun dendam yang tersisa di hati kedua anak.
+
+---
+
+### 19.5 Matriks Konsekuensi Logis vs Hukuman Retributif Arbitrer
+
+Agar tidak ada keraguan bagi musyrif dalam membedakan konsekuensi logis restoratif dengan sanksi fisik yang merusak, tabel berikut menyajikan sepuluh komparasi kasus riil di pesantren:
+
+| No | Jenis Pelanggaran Asrama | Hukuman Retributif Lama (Dilarang Mutlak) | Konsekuensi Logis Restoratif TUMBUH |
+| :---: | :--- | :--- | :--- |
+| **1** | **Ghashab Sandal Kawan** | Dikalungi sandal di leher dan diarak keliling pondok. | Membeli rak sandal tambahan atau merapikan seluruh sandal di depan masjid selama 3 hari. |
+| **2** | **Menumpahkan Makanan di Lantai** | Dipukul tangannya dengan penggaris dan dibentak. | Mengambil kain pel dan ember, membersihkan tumpahan hingga wangi dan kering. |
+| **3** | **Terlambat Masuk Kelas Madrasah** | Berdiri dengan satu kaki di depan kelas sepanjang jam pelajaran. | Menulis resume materi pelajaran yang tertinggal dan menyetorkannya ke guru pengampu. |
+| **4** | **Mencoret-coret Meja Belajar** | Push-up 50 kali di depan teman-temannya. | Mengampelas dan memplitur ulang meja yang dicoret hingga kembali bersih dan mulus. |
+| **5** | **Bergadang Mengobrol Lewat Jam Malam**| Disiram air got dingin atau dijemur saat subuh. | Jam tidur dimajukan lebih awal 30 menit (pukul 21.00) selama 3 hari untuk merestorasi ritme tidur. |
+| **6** | **Menggunakan Kata Kotor / Ujaran Kasar** | Mulut dicabe atau disuruh berdiri mengunyah tembakau. | Menulis 10 kalimat apresiasi santun untuk 10 kawan sekamar dan membacanya di lingkaran kamar. |
+| **7** | **Merusak Buku Perpustakaan Pondok** | Skorsing kepulangan satu pekan ke rumah. | Memperbaiki jilid buku yang rusak atau menggantinya dengan edisi baru yang serupa. |
+| **8** | **Membolos Sesi Halaqah Tahfidz** | Berdiri memegang Al-Qur'an di bawah terik matahari. | Sesi muraja'ah privat empat mata bersama musyrif tahfidz di waktu qailulah untuk menutup target. |
+| **9** | **Menyerobot Antrean Makan Siang** | Tidak diberi jatah makan siang (kelaparan biologis). | Membantu petugas dapur menyajikan makanan dan berada di giliran antrean paling belakang. |
+| **10**| **Mengejek / Merundung Fisik Kawan** | Dicukur botak separuh kepala untuk mempermalukannya. | Fasilitasi Lingkaran Restoratif, meminta maaf secara ksatria, dan mendampingi korban belajar sepekan. |
+
+---
+
 ### Rangkuman Intisari Bab 19
 
 1. **Pergeseran Paradigma Keadilan:** Menggantikan Keadilan Retributif (yang fokus pada sanksi rasa sakit fisik dan pembuktian dosa) dengan Keadilan Restoratif berbasis syariat *Ishlah al-Bain* (yang fokus pada perbaikan luka, pemulihan hubungan, dan pertanggungjawaban nyata).
@@ -4122,27 +5013,46 @@ Musyrif, para asatidz, dan teman-teman sekamar menyambutnya kembali dengan jabat
 4. **Eliminasi Total Sanksi Mempermalukan Publik:** Mengharamkan tradisi gundul paksa, kalung papan hinaan, isolasi sosial, atau ekspos aib yang merusak sistem saraf dan memicu dendam batin.
 5. **Protokol Reintegrasi Bermartabat:** Menegakkan prinsip penutupan aib (*satrul 'aurah*), menyambut kembalinya santri dengan majelis ishlah yang hangat, serta memberikan lembaran baru yang bersih tanpa prasangka dan tanpa stigma masa lalu.
 
+---
+
+Keadilan restoratif telah memulihkan relasi ukhuwah dan menyembuhkan luka pelanggaran di kamar santri. Namun, benteng keselamatan pesantren belum tuntas jika kita belum memiliki protokol mitigasi terhadap ancaman krisis terberat: kekerasan ekstrem, pelecehan, intimidasi terstruktur, dan bencana yang mengancam eksistensi lembaga. 
+
+Di Bab 20, kita melangkah ke bab penutup: Safeguarding, Manajemen Krisis, dan Tata Kelola Kelembagaan.
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah Asy-Syura [42]: 40.
+[^2]: Al-Qur'an al-Karim, Surah Al-Hujurat [49]: 10.
+[^3]: Howard Zehr, *The Little Book of Restorative Justice* (Intercourse: Good Books, 2002), hlm. 12–38; John Braithwaite, *Crime, Shame and Reintegration* (Cambridge: Cambridge University Press, 1989), hlm. 54–83 mengenai perbedaan mendasar antara *stigmatizing shaming* (yang melahirkan residivisme) dan *reintegrative shaming* (yang memulihkan ikatan sosial).
+[^4]: Jane Nelsen, *Positive Discipline: The Classic Guide to Helping Children Develop Self-Discipline, Responsibility, Cooperation, and Problem-Solving Skills* (New York: Ballantine Books, 2006), hlm. 68–95 mengenai perbedaan hukuman (*punishment*) dan konsekuensi logis (*logical consequences*).
+[^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah* (Kairo: Dar al-Hadits, 2004), hlm. 165–182 mengenai hak-hak ukhuwah dan tata cara mendamaikan perselisihan antarsaudara.
 
 ---
 
 # BAB 20: SAFEGUARDING, MANAJEMEN KRISIS, DAN TATA KELOLA KELEMBAGAAN
 
-> *"Wahai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, keras, dan tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan."*  
-> — **QS. At-Tahrim [66]: 6**
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+>
+> *"Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan."*  
+> — **QS. At-Tahrim [66]: 6**[^1]
 
 > كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ  
 > *"Setiap kalian adalah pemimpin (penggembala) dan setiap kalian akan dimintai pertanggungjawaban atas apa yang dipimpinnya."*  
-> — **Hadits Riwayat Al-Bukhari (No. 893) & Muslim (No. 1829)**
+> — **Hadits Riwayat Al-Bukhari (No. 893) & Muslim (No. 1829)**[^2]
 
 ---
 
 ### Pendahuluan
 
+Amirul Mukminin Ali bin Abi Thalib رضي الله عنه memberikan penafsiran yang sangat mendalam mengenai firman Allah *quu anfusakum wa ahlikum naara*: *"Addibuuhum wa 'allimuuhum"*—yakni didiklah adab kepada mereka dan ajarkanlah ilmu kepada mereka! (diriwayatkan oleh Al-Hakim dalam *Al-Mustadrak* dan dinukil oleh Ibnu Katsir dalam tafsirnya).[^1] Menjaga anak-anak kaum muslimin dari mara bahaya, kekerasan fisik, dan kerusakan moral di lingkungan pesantren adalah pengejawantahan langsung dari perintah ilahi ini. Perlindungan anak (*safeguarding*) adalah kewajiban syar'i non-negotiable.
+
 Sebuah pesantren dapat memiliki kurikulum turats terlengkap, bangunan fisik termegah, dan program tahfidz paling bergengsi. Namun, seluruh kemuliaan itu akan runtuh seketika dalam sekejap mata jika lembaga tersebut gagal melindungi satu hal yang paling asasi: **keselamatan fisik, kehormatan martabat, dan kesehatan jiwa anak-anak santri yang dititipkan oleh umat ke dalam pangkuannya**.
 
 Ketika terjadi insiden krisis berat—seperti tindak kekerasan fisik brutal oleh oknum senior, pelecehan seksual oleh oknum pendidik, atau cedera fatal akibat kelalaian pengawasan—reaksi refleks dari manajemen pesantren tradisional sering kali tergelincir pada insting patologis: berusaha menutupi aib (*cover-up*), menyalahkan korban (*victim blaming*), mengintimidasi saksi demi menjaga nama baik institusi, atau menyelesaikan kasus di bawah meja secara gelap. Sikap pengecut ini bukan saja merupakan pengkhianatan terhadap amanah Allah dan Rasul-Nya, tetapi juga kejahatan kemanusiaan yang menghancurkan masa depan anak dan mencoreng marwah dakwah Islam di mata dunia.
 
-Sistem TUMBUH memandang perlindungan anak dan santri (*Safeguarding & Child Protection*) bukan sebagai beban regulasi eksternal atau sekadar tuntutan hukum sekuler, melainkan sebagai **bagian tak terpisahkan dari Maqashid Syari'ah: menjaga keselamatan jiwa (*Hifzhun Nafs*), menjaga kehormatan (*Hifzhul 'Irdh*), menjaga keselamatan akal (*Hifzhul 'Aql*), dan menjaga kelestarian generasi (*Hifzhun Nasl*)**.
+Sistem TUMBUH memandang perlindungan anak dan santri (*Safeguarding & Child Protection*) bukan sebagai beban regulasi eksternal atau sekadar tuntutan hukum sekuler, melainkan sebagai **bagian tak terpisahkan dari Maqashid Syari'ah: menjaga keselamatan jiwa (*Hifzhun Nafs*), menjaga kehormatan (*Hifzhul 'Irdh*), menjaga keselamatan akal (*Hifzhul 'Aql*), dan menjaga kelestarian generasi (*Hifzhun Nasl*)**.[^3]
 
 Bab pamungkas dari Buku Seri 1 ini membedah arsitektur kelembagaan safeguarding dan tata kelola krisis: menetapkan kebijakan tanpa toleransi (*zero tolerance*) terhadap segala bentuk kekerasan, merumuskan protokol tanggap darurat 24 jam yang transparan dan akuntabel, membakukan kode etik interaksi santri-pendidik, serta merancang siklus evaluasi mutu kelembagaan berkelanjutan (*itqan*) demi menjaga kelestarian pesantren sebagai benteng peradaban yang suci.
 
@@ -4196,7 +5106,7 @@ Ketika terdeteksi adanya insiden krisis merah, seluruh staf wajib menjalankan pr
 
 Kerapuhan safeguarding sering kali berakar pada tidak adanya batasan profesional (*professional boundaries*) yang jelas antara pendidik dan santri. Model TUMBUH membakukan pedoman etika interaksi yang ketat guna melindungi santri dari potensi bahaya sekaligus melindungi pendidik dari tuduhan palsu (*false allegations*).
 
-#### 1. Kebijakan Visibilitas Terbuka (Open-Door & Glass-Door Policy)
+#### 1. Kebijakan Visibilitas Terbuka (Open-Door & Glass-Door Policy)[^4]
 - **Larangan Khalwat Tertutup:** Pendidik atau musyrif dilarang keras berdua-duaan dengan seorang santri di dalam ruangan tertutup (kantor, kamar tidur pribadi musyrif, atau gudang) dengan pintu terkunci atau jendela yang ditutupi gorden gelap.
 - **Ruang Konseling Bervisi Kaca:** Sesi bimbingan konseling atau dialog empat mata wajib dilakukan di ruangan yang memiliki panel kaca transparan (*see-through glass*), atau pintu ruangan dibiarkan terbuka separuh sehingga aktivitas di dalam ruangan tetap terlihat oleh orang lain dari luar tanpa mengorbankan privasi percakapan.
 - **Kunjungan Kamar Asrama Terjadwal:** Musyrif tidak diperkenankan memasuki kamar tidur santri secara mendadak pada jam-jam sensitif (saat santri sedang berganti pakaian atau tidur siang) tanpa mengetuk pintu, mengucap salam, dan memastikan santri telah berpakaian rapi dan menutup aurat secara sempurna.
@@ -4220,7 +5130,7 @@ Dalam ketiga situasi ini, konselor BK memiliki kewajiban moral dan syar'i untuk 
 Sistem yang hebat bukanlah sistem yang sekali dirancang lalu ditinggalkan. Sistem yang kokoh adalah sistem yang senantiasa menguji dirinya sendiri, mendeteksi kelemahan secara dini, dan melakukan penyempurnaan berkesinambungan. Dalam tradisi Islam, etos ini disebut sebagai **Itqan**—bekerja dengan standar mutu terbaik dan penuh ketelitian.
 
 $$\text{"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal, ia melakukannya secara itqan (profesional, tuntas, dan bermutu tinggi)"}$$
-$$\text{(إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ)}$$
+$$\text{(إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ)}$$[^5]
 
 TUMBUH merumuskan siklus penjaminan mutu kelembagaan melalui tiga audit berkala:
 
@@ -4253,30 +5163,162 @@ Jika ditemukan penyimpangan, sistem segera melakukan koreksi struktural dan kali
 
 ---
 
+### 20.4 Standar Audit Fisik, Saluran Pengaduan Aman, dan Kebijakan Anti-Retaliasi (*Whistleblower Protection*)
+
+Perlindungan anak di lingkungan pesantren 24 jam tidak boleh hanya bersandar pada niat baik (*good intentions*) atau kesalehan individual musyrif. Perlindungan sejati membutuhkan **arsitektur fisik yang transparan, saluran pelaporan yang kedap intimidasi, dan perlindungan hukum kelembagaan yang mutlak bagi saksi maupun korban**.
+
+#### 1. Audit Titik Buta Fisik (*Blind-Spot Environmental Audit*)
+Banyak insiden kekerasan asrama terjadi bukan di tempat terbuka, melainkan di area-area abu-abu yang luput dari pengawasan rutin (*hotspots*). Oleh karena itu, Tim Safeguarding Pesantren wajib melakukan audit spasial berkala setiap awal semester:
+- **Penghapusan Titik Buta (Zero Blind-Spot Architecture):** Lorong-lorong asrama, tangga darurat, area penjemuran pakaian, gudang peralatan, dan toilet komunal wajib dilengkapi pencahayaan minimum 150 lux pada malam hari dan ventilasi terbuka.
+- **Kamera Pengawas (CCTV) di Area Publik:** Pemasangan kamera CCTV resolusi tinggi di koridor utama, pintu masuk asrama, gerbang pondok, dan area publik. Kamera **dilarang keras** dipasang di dalam kamar tidur santri, kamar mandi, atau ruang privat ganti pakaian demi menjaga aurat dan kehormatan (*Hifzhul 'Irdh*).
+- **Protokol Akses Kunci Kamar Asrama:** Kamar tidur santri dilarang dipasangi gerendel kunci bagian dalam yang tidak dapat dibuka dari luar oleh kunci master musyrif (*anti-barricade lock system*), guna mencegah intimidasi tertutup di dalam kamar oleh santri senior.
+
+#### 2. Tiga Saluran Pengaduan Aman (*Safe Reporting Channels*)
+Ketakutan terbesar santri korban atau santri saksi adalah **pembalasan dendam (*retaliation*)** dari pelaku atau dicap sebagai "pengkhianat kamar" (*snitch*). TUMBUH menyediakan tiga kanal pelaporan yang menjamin anonimitas dan rasa aman:
+
+1. **Kotak Suara Nurani (*Amanah Box*):** Kotak surat terkunci rapat yang diletakkan di lokasi netral (perpustakaan, ruang BK, atau samping masjid) yang tidak dipantau CCTV secara langsung. Kunci kotak hanya dipegang secara eksklusif oleh Ketua Komite Safeguarding Independen dan dibuka setiap 48 jam. Santri dapat memasukkan surat tanpa mencantumkan nama.
+2. **Kanal Pengaduan Digital Anonim (*Whistleblowing Web/QR*):** Portal formulir digital terenkripsi yang dapat diakses melalui tablet perpustakaan atau ponsel orang tua saat jam sambang. Sistem ini otomatis menghapus metadata identitas pengirim dan memberikan tiket lacak anonim kepada pelapor.
+3. **Personel Pendamping Terpercaya (*Designated Safeguarding Lead - DSL*):** Dua orang figur senior (satu ustadz dan satu ustadzah) yang dipilih bukan berdasarkan jabatan struktural, melainkan rekam jejak integritas, kehangatan empati, dan dipercaya penuh oleh santri sebagai tempat mencurahkan keluhan krisis tanpa takut dihakimi.
+
+#### 3. Kebijakan Mutlak Anti-Retaliasi (*Zero-Retaliation Policy*)
+TUMBUH memberlakukan aturan keras: **Setiap bentuk ancaman, pengucilan, perundungan verbal, atau pembalasan fisik terhadap santri yang melapor atau bersaksi dalam investigasi safeguarding dikategorikan sebagai Pelanggaran Tingkat Kritis (Tier 3 Critical)**. 
+- Pelaku retaliasi—meskipun ia adalah santri berprestasi, ketua organisasi santri, atau bahkan putra kyai—akan langsung dikenakan sanksi penonaktifan hak kepengurusan dan isolasi pembinaan khusus.
+- Lembaga memberikan garansi perlindungan hukum, jaminan kerahasiaan identitas, dan pendampingan konseling penuh hingga santri merasa benar-benar pulih dan aman di lingkungan pondok.
+
+---
+
+### 20.5 Protokol Manajemen Krisis Kelembagaan, Komunikasi Publik, dan Sinergi Eksternal
+
+Ketika badai krisis melanda—sebuah insiden berat terlanjur terjadi dan menyita perhatian publik atau kepolisian—pesantren diuji pada tingkat paling fundamental: **apakah lembaga ini mengabdi kepada Kebenaran (*Al-Haqq*) atau menyembah Reputasi Kelembagaan (*As-Sum'ah*)?**
+
+#### 1. Pembentukan Tim Tanggap Krisis Terpadu (*Incident Management Team*)
+Dalam waktu paling lambat 60 menit setelah insiden krisis merah terkonfirmasi, Pimpinan Pondok wajib mengaktifkan Tim Tanggap Krisis yang terdiri atas:
+- **Ketua Insiden (*Incident Commander*):** Pimpinan Pondok atau Wakil Pengasuh yang memiliki otoritas keputusan tertinggi.
+- **Koordinator Medis & Pendampingan Korban:** Kepala Poskestren dan Konselor Senior BK yang bertanggung jawab penuh atas keselamatan fisik dan stabilitas trauma korban dan keluarganya.
+- **Petugas Kepatuhan Hukum (*Legal & Child Advocacy Officer*):** Praktisi hukum atau konsultan resmi pondok yang memastikan seluruh langkah penanganan mematuhi Undang-Undang Perlindungan Anak dan KUHP secara transparan.
+- **Juru Bicara Resmi (*Public Information Officer*):** Satu-satunya pintu keluar informasi resmi pondok ke media massa, wali santri, dan masyarakat luas.
+
+#### 2. Larangan Pembelaan Buta dan Budaya Menutup-nutupi (*Zero Cover-Up*)
+Pesantren TUMBUH memegang prinsip teologis tegas: **Menutupi tindak pidana dan kezaliman demi menjaga "nama baik pondok" adalah bentuk kemunafikan sistemik (*nifāq tanzhīmī*) yang mendatangkan murka Allah**.
+- Lembaga tidak boleh merusak barang bukti, membungkam saksi, atau menekan keluarga korban agar menandatangani surat damai palsu yang menghapus proses hukum pidana.
+- Lembaga bersikap kooperatif penuh dengan aparat kepolisian, penyidik, dan dinas perlindungan anak, membuka akses pemeriksaan secara objektif dan jujur.
+
+#### 3. Manajemen Komunikasi Publik yang Penuh Integritas
+Jika kasus krisis menjadi konsumsi publik atau viral di media sosial, juru bicara lembaga wajib menerapkan pedoman komunikasi krisis:
+- **Empati Utama kepada Korban:** Pernyataan resmi pertama lembaga harus berfokus pada permohonan maaf yang tulus, simpati mendalam kepada korban dan keluarga, serta komitmen penjaminan biaya perawatan medis dan pemulihan psikologis secara penuh.
+- **Transparansi Fakta yang Terukur:** Menyampaikan fakta kronologis yang telah diverifikasi secara akurat tanpa melanggar privasi korban di bawah umur (tidak mempublikasikan nama, foto, atau identitas korban).
+- **Penjelasan Tindakan Korektif Nyata:** Menjelaskan secara tegas langkah-langkah darurat yang telah diambil lembaga: penonaktifan oknum terduga pelaku, penyerahan berkas kepada pihak berwajib, dan audit komprehensif sistem pengawasan asrama.
+
+---
+
+### 20.6 Siklus Penjaminan Mutu Berkelanjutan (*Total Quality Assurance*) dan Akuntabilitas Dewan Pembina
+
+Kelestarian ekosistem TUMBUH tidak dipertahankan melalui slogan seremonial, melainkan melalui disiplin **Audit Mutu Berkelanjutan** yang melibatkan seluruh pemangku kepentingan:
+
+```text
+               PETA KELOLA PENJAMINAN MUTU INTEGRAL TUMBUH
+  ┌─────────────────────────────────────────────────────────────┐
+  │                 MAJELIS DEWAN PEMBINA PONDOK                │
+  │     (Menerima Laporan Tahunan, Mengesahkan Arah Kebijakan)   │
+  └──────────────────────────────┬──────────────────────────────┘
+                                 │
+                 ┌───────────────┴───────────────┐
+                 ▼                               ▼
+  ┌─────────────────────────────┐ ┌─────────────────────────────┐
+  │    AUDIT MUTU INTERNAL      │ │    AUDIT MUTU EKSTERNAL     │
+  │ • Logbook Mingguan Musyrif  │ │ • Inspeksi Kemenag & Dinsos │
+  │ • Rapat Bulanan PBIS Multi  │ │ • Akreditasi Lembaga Anak   │
+  │ • Survei Kebahagiaan Santri │ │ • Audit Klinis Psikologis   │
+  └─────────────────────────────┘ └─────────────────────────────┘
+```
+
+#### 1. Indeks Kesejahteraan dan Kebahagiaan Santri (*Santri Well-Being Index*)[^6]
+Setiap akhir semester, unit penjaminan mutu menyebarkan kuesioner instrumen psikometrik anonim kepada 100% santri untuk mengukur 5 indikator ekologis:
+1. **Rasa Aman Fisik (*Physical Safety*):** Persentase santri yang merasa benar-benar bebas dari ancaman pemukulan, tendangan, atau perundungan di asrama.
+2. **Rasa Aman Psikologis (*Psychological Safety*):** Keberanian santri bertanya di kelas, mengungkapkan uneg-uneg kepada musyrif, dan tidak merasa dihakimi.
+3. **Keadilan Disiplin (*Perceived Disciplinary Fairness*):** Penilaian santri terhadap keadilan penegakan aturan oleh asatidz (apakah bebas dari pilih kasih dan hukuman arbitrer).
+4. **Kehangatan Ukhuwah Kamar (*Dormitory Cohesion*):** Suasana persaudaraan, saling tolong-menolong, dan ketiadaan kasta senior-junior di kamar.
+5. **Kebahagiaan Ruhani (*Spiritual Flourishing*):** Kenikmatan santri saat melaksanakan ibadah shalat berjamaah, tilawah Qur'an, dan kajian ilmu tanpa rasa terpaksa.
+
+Jika sebuah asrama atau angkatan memperoleh skor indeks di bawah 75%, dewan pengasuhan wajib menerjunkan Satgas Intervensi Ekosistem untuk melakukan bedah budaya (*cultural diagnosis*) dan pendampingan intensif bagi tim musyrif di asrama tersebut.
+
+#### 2. Evaluasi Sumpah Integritas Tahunan Pendidik
+Setiap menjelang tahun ajaran baru, seluruh jajaran dewan guru, musyrif, dan staf pengasuhan menjalani telaah akuntabilitas kinerja:
+- Pendidik yang konsisten menunjukkan keteladanan qudwah, berdisiplin tanpa kekerasan, dan rajin mengisi pembinaan formatif diberikan penghargaan kelembagaan (*TUMBUH Qudwah Award*).
+- Pendidik yang tercatat melakukan pelanggaran etika interaksi atau menggunakan kekerasan fisik/verbal menjalani proses pembinaan etik, kewajiban mengikuti pelatihan ulang (*re-training*), atau pemutusan hubungan kerja jika menunjukkan penolakan terhadap nilai-nilai dasar perlindungan santri.
+
+---
+
 ### Epilog: Meneguhkan Janji Peradaban
 
-Dengan tuntasnya pembahasan Bab 20 ini, rampunglah seluruh bangunan arsitektur agung **Buku Seri 1: The Fundamental of TUMBUH**.
+Dengan tuntasnya pembahasan Bab 20 ini, rampunglah seluruh bangunan landasan fundamental **Buku Seri 1: The Fundamental of TUMBUH**.
 
-Dari penelusuran krisis dehumanisasi di Bab 1, penegakan pandangan alam Islam di Bab 2, integrasi epistemologi wahyu dan sains di Bab 3, pengenalan hakikat fitrah jiwa di Bab 4, eksplorasi neurosains remaja di Bab 5, falsafah ta'dib dan bi'ah shalihah di Bab 6, teori perubahan perilaku di Bab 7, penegakan Sumpah Integritas di Bab 8, tata kelola epistemik di Bab 9, arsitektur model inti di Bab 10, rekayasa lingkungan 24 jam di Bab 11, progresi kemandirian J1 hingga J4 di Bab 12–15, hingga filosofi asesmen formatif, FBA, PBIS Multi-Tier, Keadilan Restoratif, dan Safeguarding di Bab 16–20; kita menyaksikan satu kesatuan mahakarya tarbiyah yang utuh, kokoh, dan berakar mendalam pada bumi tradisi keislaman sekaligus menjulang tinggi memeluk ufuk sains kontemporer.
+Perjalanan intelektual dan spiritual kita yang terbentang melintasi dua puluh bab ini bukanlah sekadar kompilasi wacana teoritis di atas kertas. Kita telah menyusuri lorong panjang peradaban:
+- Bermula di **Bab 1**, kita berani menatap nanar cermin retak dunia pendidikan Islam—mengakui dengan kerendahan hati terdalam adanya krisis dehumanisasi, ironi perundungan di balik jubah kesalehan, dan bahaya fatal kekerasan yang mengikis kemuliaan pesantren.
+- Di **Bab 2**, kita menegakkan kembali tonggak Pandangan Alam Islam (*Islamic Worldview*) sebagai poros penuntun arah, membebaskan kurikulum dari sekularisme terselubung dan meneguhkan konsep tauhid serta adab Al-Attas dan Al-Ghazali ke dalam denyut nadi 24 jam santri.
+- Di **Bab 3**, kita memadukan wahyu, nalar murni, dan fakta empiris ke dalam satu kesatuan epistemologi terpadu, menolak pemisahan semu antara teks turats yang sakral dan data psikometri yang terukur.
+- Di **Bab 4 dan Bab 5**, kita menyelami relung terdalam antropologi jiwa santri—membedah fitrah kebaikan, rahasia tazkiyatun nafs, dinamika badai neurobiologis remaja, hingga pergeseran fase sirkadian melatonin yang menuntut kelembutan fajar dari para pendidik.
+- Di **Bab 6 dan Bab 7**, kita membentangkan falsafah ta'dib dan bi'ah shalihah, merajut seni keteladanan qudwah hasanah dengan hukum pembentukan kebiasaan (*habit loop*) yang kokoh melintasi waktu.
+- Di **Bab 8 dan Bab 9**, kita mematri Sumpah Integritas Pendidik dan etika tata kelola data digital santri, memastikan martabat manusia tetap terlindungi di era kecerdasan buatan dan keterbukaan informasi.
+- Di **Bab 10 dan Bab 11**, kita meletakkan kerangka Model Inti TUMBUH—menyelaraskan 10 Profil Karakter Utama dengan 8 Core Competencies ke dalam rekayasa ekosistem asrama 24 jam yang aman, higienis, dan penuh kasih.
+- Di **Bab 12 hingga Bab 15**, kita menapaki tangga emas progresi kemandirian—menemani langkah tertatih santri J1 yang menahan rindu pelukan ibu, memandu letupan emosi pencarian jati diri santri J2, mengasah kepemimpinan teladan santri J3, hingga menghantarkan kematangan hikmah santri J4 yang bersujud membasuh kaki adik asuhnya dalam ritus khidmah yang mengharukan.
+- Dan akhirnya, di **Bab 16 hingga Bab 20**, kita memperlengkapi para musyrif dengan instrumen-instrumen terdepan: asesmen formatif 4:1 yang memanusiakan, Functional Behavior Assessment (FBA) yang menyembuhkan akar luka jiwa, intervensi bertingkat PBIS Multi-Tier, Lingkaran Keadilan Restoratif yang merajut kembali ukhuwah yang terkoyak, serta protokol Safeguarding yang kedap kompromi.
 
-TUMBUH bukanlah sekadar susunan teks di atas kertas putih. TUMBUH adalah **janji peradaban**. 
+TUMBUH bukanlah sekadar sebuah model manajemen; **TUMBUH adalah janji peradaban**.
 
-Ia adalah komitmen suci kita kepada Allah Subhanahu wa Ta'ala untuk menjaga amanah titipan-Nya yang paling berharga: jiwa-jiwa muda para santri. Kita bertekad mengembalikan pesantren ke khitah aslinya—bukan sebagai tempat pembuangan anak-anak nakal, bukan sebagai penjara berkedok agama yang mematahkan sayap kemandirian, dan bukan pula sebagai menara gading yang melahirkan kesalehan semu.
+Ia adalah ikrar suci kita di hadapan Allah Rabbul 'Alamin untuk memelihara amanah-Nya yang paling mulia: generasi muda umat Islam. Kita menolak dengan tegas kepasrahan atas nasib pesantren. Kita menolak anggapan bahwa ketertiban hanya bisa ditegakkan dengan rotan dan caci maki. Kita menolak keyakinan bahwa kesalehan hanya lahir dari ketakutan.
 
-Pesantren yang digerakkan oleh ruh TUMBUH adalah **taman surga di muka bumi (*raudhah min riyadhil jannah*)**: tempat di mana setiap fitrah disiram dengan air keteladanan, dipupuk dengan ilmu yang berkah, dipagari dengan disiplin yang penuh kasih sayang, dan dibimbing mekar menjadi lentera-lentera peradaban Islam yang menerangi jagat raya dengan rahmat bagi semesta alam (*rahmatan lil-'alamin*).
+Pesantren yang dihidupkan oleh ruh TUMBUH adalah **Raudhah min Riyadhil Jannah**—taman surga di muka bumi tempat fitrah anak-anak kita mekar dengan elok dan bahagia. Di sini, air mata kerinduan santri disambut oleh pelukan hangat musyrif yang bertindak sebagai *in loco parentis*. Di sini, kesalahan santri tidak lagi disambut dengan amarah yang membinasakan, melainkan dijadikan bahan renungan hikmah yang menyadarkan nurani. Di sini, setiap santri dihargai bukan hanya saat ia menghafal berlembar-lembar bait nadham, tetapi saat ia belajar menahan amarah, memungut sampah saudaranya, dan mengulurkan tangan bagi kawannya yang terjatuh.
 
-Semoga Allah merestui, membimbing, dan meneguhkan langkah kita dalam mengikhtiarkan terwujudnya cita-cita mulia ini. *Amin ya Rabbal 'Alamin.*
+Dari dinding-dinding asrama yang bersih, dari sajadah shalat malam yang basah oleh air mata munajat, dari lingkaran halaqah yang hidup dengan dialog kecerdasan akal dan kelembutan adab, ekosistem TUMBUH akan melahirkan generasi baru: pribadi-pribadi yang beriman teguh laksana karang di lautan, berilmu luas melintasi cakrawala peradaban modern, berakhlak mulia menebarkan kasih sayang, dan berdiri tegak dengan penuh percaya diri memimpin kebangkitan dunia Islam menyongsong era kegemilangan.
+
+Semoga Allah Subhanahu wa Ta'ala senantiasa melimpahkan taufik, inayah, kesabaran, dan keikhlasan ke dalam dada setiap mujahid pendidikan yang mengabdikan hidupnya di jalan tarbiyah ini.
+
+*Subhanakallahumma wa bihamdika, asyhadu alla ilaha illa anta, astaghfiruka wa atubu ilaik.*  
+*Walhamdulillahi Rabbil 'Alamin.*
 
 ---
 
 ### Rangkuman Intisari Bab 20
 
-1. **Safeguarding Sebagai Maqashid Syari'ah:** Perlindungan anak dan santri adalah kewajiban agama untuk menjaga keselamatan jiwa (*hifzhun nafs*), akal (*hifzhul 'aql*), dan kehormatan (*hifzhul 'irdh*), bukan sekadar kepatuhan hukum duniawi.
-2. **Kebijakan Tanpa Toleransi (Zero Tolerance):** Penolakan mutlak terhadap segala bentuk kekerasan fisik, kekerasan seksual, perundungan berat, dan eksploitasi santri di seluruh lingkungan pesantren.
-3. **Protokol Tanggap Darurat 24 Jam:** Empat langkah cepat saat krisis merah: pengamanan & pertolongan medis/psikologis korban seketika, isolasi terduga pelaku, pengamanan bukti faktual, serta transparansi pelaporan berjenjang dan koordinasi resmi tanpa menutup-nutupi kasus demi nama baik semu (*no cover-up policy*).
-4. **Etika Interaksi Profesional Pendidik-Santri:** Kebijakan ruangan bervisi kaca (*open-door / glass-door policy*), larangan berduaan di ruang tertutup, batasan kontak fisik yang wajar, etika komunikasi digital resmi, serta batas pengecualian kerahasiaan BK demi melindungi nyawa.
-5. **Penjaminan Mutu Berkelanjutan (Itqan):** Pelaksanaan audit operasi mingguan, audit performa semesteran, dan audit integritas tahunan untuk memastikan kemurnian ekosistem TUMBUH tetap lestari lintas generasi sebagai benteng peradaban yang aman, ramah, dan penuh berkah.
+1. **Safeguarding Sebagai Puncak Maqashid Syari'ah:** Perlindungan anak dan santri adalah pilar agama yang mutlak untuk menjaga keselamatan jiwa (*hifzhun nafs*), akal (*hifzhul 'aql*), dan kehormatan (*hifzhul 'irdh*), bukan sekadar kepatuhan hukum duniawi formal.
+2. **Kebijakan Tanpa Toleransi (Zero Tolerance):** Penolakan mutlak tanpa kompromi terhadap segala bentuk kekerasan fisik, kekerasan seksual, perundungan berat, dan eksploitasi santri di seluruh ruang lingkup pesantren.
+3. **Protokol Tanggap Cepat Krisis 24 Jam:** Empat tindakan darurat seketika: pertolongan medis/psikologis korban, isolasi terduga pelaku, pengamanan bukti faktual, serta pelaporan berjenjang transparan dan pelaporan wajib ke aparat hukum (*no cover-up policy*).
+4. **Etika Interaksi Profesional Pendidik-Santri:** Penerapan kebijakan ruangan bervisi kaca (*open-door / glass-door policy*), larangan berduaan di ruang tertutup, batasan kontak fisik terhormat, etika komunikasi digital resmi, serta pengecualian kerahasiaan konseling demi menyelamatkan nyawa.
+5. **Standar Audit Fisik & Anti-Retaliasi:** Eliminasi titik buta (*blind spots*), penyediaan tiga saluran pengaduan aman (*Amanah Box*, formulir terenkripsi, DSL terpercaya), serta jaminan perlindungan mutlak bagi santri pelapor dan saksi dari intimidasi lanjutan.
+6. **Integritas Komunikasi Krisis:** Kewajiban manajemen mengedepankan empati dan pemulihan korban di atas reputasi institusi, mengharamkan budaya menutup-nutupi kasus (*anti-nifaq*), dan bersikap kooperatif penuh dengan penegak hukum.
+7. **Siklus Penjaminan Mutu & Khatimah:** Pengukuran berkala Indeks Kesejahteraan Santri (*Santri Well-Being Index*), audit integritas pendidik tahunan, serta pengukuhan janji peradaban TUMBUH sebagai ikhtiar tarbiyah yang mengantarkan pesantren menjadi lingkungan pendidikan yang bermartabat dan penuh berkah.
 
+---
+
+### Khatimah: Meneguhkan Niat dan Khidmah Bersama
+
+Dua puluh bab telah kita arungi bersama. Kita telah memulai perjalanan ini dari menatap luka dan retakan di balik pintu gerbang asrama (Bab 1), mendirikan pandangan alam tauhid dan epistemologi terpadu (Bab 2–3), membedah fitrah jiwa dan neurosains remaja (Bab 4–5), meneladani qudwah nubuwah dan teori perubahan (Bab 6–7), mengikrarkan sumpah integritas dan tata kelola epistemik (Bab 8–9), merancang arsitektur model inti dan tata ruang 24 jam (Bab 10–11), mendaki tangga martabat jiwa J1 hingga J4 (Bab 12–15), hingga menegakkan sistem asesmen, FBA, PBIS bertingkat, keadilan restoratif, dan safeguarding perlindungan anak (Bab 16–20).
+
+Kini, seluruh ikhtiar perumusan landasan fundamental ini telah terbentang di hadapan kita.
+
+Buku ini tidak hadir dengan kesombongan hendak menggurui atau merasa paling benar di hadapan khazanah panjang kepesantrenan. Buku ini semata-mata adalah ikhtiar kecil, sebuah wasilah khidmah yang lahir dari rasa cemas, kasih sayang, dan tanggung jawab moral di hadapan Allah ﷻ, demi menjaga agar amanah pengasuhan santri tetap berpijak pada kemurnian adab nubuwah dan keadilan syariat.
+
+Segala kebenaran, kejernihan nilai, dan petunjuk kebaikan yang termaktub di dalam lembaran-lembaran ini adalah semata-mata anugerah taufik dari Allah Yang Maha Mengajar (*Al-'Alim al-Hakim*). Adapun segala kekurangan, kelemahan redaksional, dan keterbatasan nalar di dalamnya adalah murni dari kelemahan kami sebagai hamba yang fakir.
+
+Wahai para guru, asatidz, dan musyrif yang dimuliakan Allah!
+Di pundak kitalah amanah ini dititipkan. Setiap anak yang melangkah melewati pintu gerbang pondok adalah amanah suci titipan Allah. Rengkuhlah mereka dengan kerendahan hati, bimbinglah mereka dengan kesabaran hikmah, dan dampingilah proses tumbuh kembang fitrah mereka dengan doa tulus di keheningan malam.
+
+Semoga Allah ﷻ mengampuni segala kekhilafan kita di masa lalu, meluruskan niat kita semata-mata demi mencari ridha-Nya, serta membimbing setiap langkah kita dalam menuntun santri-santri kaum muslimin menuju derajat insan rusyd yang berakhlak mulia.
+
+*Rabbanā taqabbal minnā, innaka Antas-Samī'ul-'Alīm, wa tub 'alaynā innaka Antat-Tawwābur-Rahīm.*  
+*Walhamdulillāhi Rabbil-'Ālamīn.*
+
+---
+
+### Catatan Kaki & Rujukan Akademik
+
+[^1]: Al-Qur'an al-Karim, Surah At-Tahrim [66]: 6.
+[^2]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, *Kitab al-Jumu'ah*, Bab *Al-Jumu'ah fi al-Qura wa al-Mudun*, no. 893; Muslim bin al-Hajjaj An-Naisaburi, *Shahih Muslim*, *Kitab al-Imarah*, Bab *Fadhilat al-Imam al-'Adil*, no. 1829.
+[^3]: Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, diedit oleh Masyhur Hasan Salman (Khobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–25 mengenai hierarki dharuriyyat dan perlindungan jiwa serta martabat kemanusiaan; Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1993), hlm. 174.
+[^4]: UNICEF, *Child Safeguarding Toolkit for Educational and Faith-Based Residential Institutions* (New York: UNICEF Child Protection Section, 2018), hlm. 28–46; Council of International Schools [CIS], *Child Protection and Well-Being Standards for Boarding and Day Schools* (Leiden: CIS Guidelines, 2020), hlm. 14–22.
+[^5]: Abu Bakr Ahmad bin al-Husain Al-Baihaqi, *Syu'ab al-Iman*, diedit oleh Abdul Ali Abdul Hamid Hamid (Riyadh: Maktabah ar-Rusyd, 2003), Jilid VI, hlm. 396, no. 4931; Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Awsath* (Kairo: Dar al-Haramain, 1995), Jilid I, hlm. 275, no. 897. Dinyatakan hasan oleh Al-Albani dalam *Silsilat al-Ahadits ash-Shahihah*, no. 1113.
+[^6]: Collaborative for Academic, Social, and Emotional Learning [CASEL], *School Climate, Social-Emotional Learning, and Student Well-Being Assessment Guidelines* (Chicago: CASEL, 2021), hlm. 35–52; George Sugai & Robert H. Horner, "School-Wide Positive Behavioral Interventions and Supports: Developing a Systems-Level Approach to Institutional Safety and Climate," *Journal of Positive Behavior Interventions*, Vol. 8, No. 4 (2006), hlm. 245–259.
 
 ---
 
@@ -4418,7 +5460,3 @@ Daftar rujukan ini mendokumentasikan karya-karya klasik turats Islam yang menjad
 ### Catatan Penutup Bibliografi
 
 Seluruh rujukan yang tercantum di atas telah melalui proses kurasi kritis (*tahqiq wa naqd*) guna memastikan bahwa setiap teori psikologi dan sosial-perilaku yang diserap telah disaring dari asumsi materialisme sekuler, serta diselaraskan secara koheren dengan pandangan alam tauhid (*Islamic worldview*) di bawah pedoman tata kelola epistemik repositori TUMBUH v2.0.0.
-
-
----
-

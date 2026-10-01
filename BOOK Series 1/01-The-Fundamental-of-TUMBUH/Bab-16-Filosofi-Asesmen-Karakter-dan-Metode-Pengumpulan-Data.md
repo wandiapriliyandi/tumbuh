@@ -89,7 +89,7 @@ Model TUMBUH merombak paradigma tersebut secara revolusioner dengan menegakkan *
 └─────────────────────────────────┴─────────────────────────────────┘
 ```
 
-Prinsip dasar asesmen formatif berpijak kokoh pada sabda agung baginda Rasulullah ﷺ:
+Prinsip dasar asesmen formatif berpijak kokoh pada sabda baginda Rasulullah ﷺ:
 
 $$\text{الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ}$$
 
@@ -255,6 +255,12 @@ Melalui teknik ini, santri mendengarkan koreksi bukan sebagai ancaman pembunuhan
 
 ---
 
+Jika asesmen karakter adalah cermin jernih untuk menumbuhkan fitrah, lalu bagaimana kita bersikap ketika cermin tersebut menangkap sebuah pelanggaran adab yang berulang? Mengapa kita tidak boleh terburu-buru menghukum gejala lahiriahnya tanpa memahami motif terdalamnya? 
+
+Di Bab 17, kita akan membedah Functional Behavior Assessment (FBA) dalam Konteks Pesantren: Menemukan Akar Kebutuhan Jiwa di Balik Pelanggaran.
+
+---
+
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah At-Taubah [9]: 105.
@@ -262,3 +268,4 @@ Melalui teknik ini, santri mendengarkan koreksi bukan sebagai ancaman pembunuhan
 [^3]: Robert Rosenthal & Lenore Jacobson, *Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development* (New York: Holt, Rinehart & Winston, 1968), hlm. 65–112; Thomas L. Good & Jere E. Brophy, *Looking in Classrooms* (New York: Pearson, 2008).
 [^4]: Diriwayatkan oleh Abu Dawud dalam *Sunan Abi Dawud*, Kitab al-Adab, Bab fi an-Nashihah, hadits no. 4918 dari Abu Hurairah radhiyallahu 'anhu; At-Tirmidzi dalam *Sunan at-Tirmidzi*, no. 1928, sanad hasan.
 [^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah*, Bab Huquq al-Ukhuwwah wa ash-Shuhbah (Kairo: Dar al-Hadits, 2004), hlm. 210–225 mengenai kewajiban menutup aib saudara dan menjaga rahasia persaudaraan.
+[^6]: Abu Dawud, *Sunan Abi Dawud*, hadits no. 4918; At-Tirmidzi, *Sunan at-Tirmidzi*, hadits no. 1928.

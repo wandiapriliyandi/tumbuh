@@ -1,6 +1,8 @@
 # BAB 20: SAFEGUARDING, MANAJEMEN KRISIS, DAN TATA KELOLA KELEMBAGAAN
 
-> *"Wahai orang-orang yang beriman, peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, keras, dan tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan."*  
+> يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنْفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ عَلَيْهَا مَلَائِكَةٌ غِلَاظٌ شِدَادٌ لَا يَعْصُونَ اللَّهَ مَا أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ
+>
+> *"Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak mendurhakai Allah terhadap apa yang diperintahkan-Nya kepada mereka dan selalu mengerjakan apa yang diperintahkan."*  
 > — **QS. At-Tahrim [66]: 6**[^1]
 
 > كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ  
@@ -10,6 +12,8 @@
 ---
 
 ### Pendahuluan
+
+Amirul Mukminin Ali bin Abi Thalib رضي الله عنه memberikan penafsiran yang sangat mendalam mengenai firman Allah *quu anfusakum wa ahlikum naara*: *"Addibuuhum wa 'allimuuhum"*—yakni didiklah adab kepada mereka dan ajarkanlah ilmu kepada mereka! (diriwayatkan oleh Al-Hakim dalam *Al-Mustadrak* dan dinukil oleh Ibnu Katsir dalam tafsirnya).[^1] Menjaga anak-anak kaum muslimin dari mara bahaya, kekerasan fisik, dan kerusakan moral di lingkungan pesantren adalah pengejawantahan langsung dari perintah ilahi ini. Perlindungan anak (*safeguarding*) adalah kewajiban syar'i non-negotiable.
 
 Sebuah pesantren dapat memiliki kurikulum turats terlengkap, bangunan fisik termegah, dan program tahfidz paling bergengsi. Namun, seluruh kemuliaan itu akan runtuh seketika dalam sekejap mata jika lembaga tersebut gagal melindungi satu hal yang paling asasi: **keselamatan fisik, kehormatan martabat, dan kesehatan jiwa anak-anak santri yang dititipkan oleh umat ke dalam pangkuannya**.
 
@@ -214,7 +218,7 @@ Setiap menjelang tahun ajaran baru, seluruh jajaran dewan guru, musyrif, dan sta
 
 ### Epilog: Meneguhkan Janji Peradaban
 
-Dengan tuntasnya pembahasan Bab 20 ini, rampunglah seluruh bangunan arsitektur agung **Buku Seri 1: The Fundamental of TUMBUH**.
+Dengan tuntasnya pembahasan Bab 20 ini, rampunglah seluruh bangunan landasan fundamental **Buku Seri 1: The Fundamental of TUMBUH**.
 
 Perjalanan intelektual dan spiritual kita yang terbentang melintasi dua puluh bab ini bukanlah sekadar kompilasi wacana teoritis di atas kertas. Kita telah menyusuri lorong panjang peradaban:
 - Bermula di **Bab 1**, kita berani menatap nanar cermin retak dunia pendidikan Islam—mengakui dengan kerendahan hati terdalam adanya krisis dehumanisasi, ironi perundungan di balik jubah kesalehan, dan bahaya fatal kekerasan yang mengikis kemuliaan pesantren.
@@ -250,7 +254,27 @@ Semoga Allah Subhanahu wa Ta'ala senantiasa melimpahkan taufik, inayah, kesabara
 4. **Etika Interaksi Profesional Pendidik-Santri:** Penerapan kebijakan ruangan bervisi kaca (*open-door / glass-door policy*), larangan berduaan di ruang tertutup, batasan kontak fisik terhormat, etika komunikasi digital resmi, serta pengecualian kerahasiaan konseling demi menyelamatkan nyawa.
 5. **Standar Audit Fisik & Anti-Retaliasi:** Eliminasi titik buta (*blind spots*), penyediaan tiga saluran pengaduan aman (*Amanah Box*, formulir terenkripsi, DSL terpercaya), serta jaminan perlindungan mutlak bagi santri pelapor dan saksi dari intimidasi lanjutan.
 6. **Integritas Komunikasi Krisis:** Kewajiban manajemen mengedepankan empati dan pemulihan korban di atas reputasi institusi, mengharamkan budaya menutup-nutupi kasus (*anti-nifaq*), dan bersikap kooperatif penuh dengan penegak hukum.
-7. **Siklus Penjaminan Mutu & Epilog Peradaban:** Pengukuran berkala Indeks Kesejahteraan Santri (*Santri Well-Being Index*), audit integritas pendidik tahunan, serta pengukuhan janji peradaban TUMBUH sebagai mahakarya tarbiyah yang mengantarkan pesantren menjadi taman surga pendidikan yang bermartabat dan berkah.
+7. **Siklus Penjaminan Mutu & Khatimah:** Pengukuran berkala Indeks Kesejahteraan Santri (*Santri Well-Being Index*), audit integritas pendidik tahunan, serta pengukuhan janji peradaban TUMBUH sebagai ikhtiar tarbiyah yang mengantarkan pesantren menjadi lingkungan pendidikan yang bermartabat dan penuh berkah.
+
+---
+
+### Khatimah: Meneguhkan Niat dan Khidmah Bersama
+
+Dua puluh bab telah kita arungi bersama. Kita telah memulai perjalanan ini dari menatap luka dan retakan di balik pintu gerbang asrama (Bab 1), mendirikan pandangan alam tauhid dan epistemologi terpadu (Bab 2–3), membedah fitrah jiwa dan neurosains remaja (Bab 4–5), meneladani qudwah nubuwah dan teori perubahan (Bab 6–7), mengikrarkan sumpah integritas dan tata kelola epistemik (Bab 8–9), merancang arsitektur model inti dan tata ruang 24 jam (Bab 10–11), mendaki tangga martabat jiwa J1 hingga J4 (Bab 12–15), hingga menegakkan sistem asesmen, FBA, PBIS bertingkat, keadilan restoratif, dan safeguarding perlindungan anak (Bab 16–20).
+
+Kini, seluruh ikhtiar perumusan landasan fundamental ini telah terbentang di hadapan kita.
+
+Buku ini tidak hadir dengan kesombongan hendak menggurui atau merasa paling benar di hadapan khazanah panjang kepesantrenan. Buku ini semata-mata adalah ikhtiar kecil, sebuah wasilah khidmah yang lahir dari rasa cemas, kasih sayang, dan tanggung jawab moral di hadapan Allah ﷻ, demi menjaga agar amanah pengasuhan santri tetap berpijak pada kemurnian adab nubuwah dan keadilan syariat.
+
+Segala kebenaran, kejernihan nilai, dan petunjuk kebaikan yang termaktub di dalam lembaran-lembaran ini adalah semata-mata anugerah taufik dari Allah Yang Maha Mengajar (*Al-'Alim al-Hakim*). Adapun segala kekurangan, kelemahan redaksional, dan keterbatasan nalar di dalamnya adalah murni dari kelemahan kami sebagai hamba yang fakir.
+
+Wahai para guru, asatidz, dan musyrif yang dimuliakan Allah!
+Di pundak kitalah amanah ini dititipkan. Setiap anak yang melangkah melewati pintu gerbang pondok adalah amanah suci titipan Allah. Rengkuhlah mereka dengan kerendahan hati, bimbinglah mereka dengan kesabaran hikmah, dan dampingilah proses tumbuh kembang fitrah mereka dengan doa tulus di keheningan malam.
+
+Semoga Allah ﷻ mengampuni segala kekhilafan kita di masa lalu, meluruskan niat kita semata-mata demi mencari ridha-Nya, serta membimbing setiap langkah kita dalam menuntun santri-santri kaum muslimin menuju derajat insan rusyd yang berakhlak mulia.
+
+*Rabbanā taqabbal minnā, innaka Antas-Samī'ul-'Alīm, wa tub 'alaynā innaka Antat-Tawwābur-Rahīm.*  
+*Walhamdulillāhi Rabbil-'Ālamīn.*
 
 ---
 

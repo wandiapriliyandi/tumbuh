@@ -186,7 +186,7 @@ Musyrif tidak lagi memiliki waktu untuk duduk bersila di samping tempat tidur sa
 
 Menghadapi jalan buntu antara **represi feodal yang meremukkan saraf** di satu sisi dan **transaksionalisme poin yang mematikan keikhlasan** di sisi lain, ekosistem **TUMBUH** memancangkan panji pembaruan tarbiyah kepesantrenan.
 
-Kata **TUMBUH** bukanlah jargon kosmetik, melainkan kristalisasi dari sebuah filosofi agung tentang hakikat pendidikan Islam: **Pendidikan Karakter adalah Seni Menumbuhkan Benih Hayati, Bukan Proses Menempa Logam Mesin Pabrik**.
+Kata **TUMBUH** bukanlah jargon kosmetik, melainkan kristalisasi dari sebuah ikhtiar pemahaman tentang hakikat pendidikan Islam: **Pendidikan Karakter adalah Seni Menumbuhkan Benih Hayati, Bukan Proses Menempa Logam Mesin Pabrik**.
 
 Perhatikan kontras yang sangat mendasar antara dua pandangan hidup ini:
 
@@ -216,6 +216,10 @@ $$\text{أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَ�
 > *"Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghunjam ke dalam bumi dan cabangnya menjulang tinggi ke langit. Pohon itu menghasilkan buahnya pada setiap musim dengan izin Rabb-nya. Dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka selalu ingat."*  
 > (QS. Ibrahim [14]: 24–25)[^7]
 
+Imam Abu Ja'far Ibnu Jarir Ath-Thabari dalam kitab tafsirnya meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa *syajaratin thayyibah* (pohon yang baik) adalah perumpamaan kalbu dan jiwa seorang mukmin; akarnya yang kokoh menghunjam di bumi adalah keimanan tauhid (*La ilaha illallah*) yang menancap di batinnya, cabangnya yang menjulang ke langit adalah amal shalih dan akhlak mulianya yang diangkat ke haribaan Allah, serta buahnya adalah adab dan kebajikan yang dipetik setiap saat.[^7] 
+
+Penafsiran ini diperkuat oleh Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim*, yang menggarisbawahi bahwa sebagaimana sebatang pohon yang subur menuntut tanah yang bersih, siraman air yang cukup, serta perlindungan dari gulma parasit agar buahnya manis berkelanjutan, demikian pulalah jiwa seorang mukmin: fitrah tauhid di dalam jiwanya menuntut siraman ilmu yang bersih dan ekosistem tarbiyah yang sehat agar akarnya tidak layu dan buah adabnya tidak membusuk.[^8]
+
 Renungkanlah perumpamaan agung ini!
 Seorang petani yang memiliki akal sehat tidak akan pernah memarahi benih mangganya yang baru bersemi karena benih itu belum menghasilkan buah manis. Petani tidak akan memukul tunas pohonnya dengan kayu balok agar tunas itu tumbuh lebih cepat. Petani tidak akan mencabik-cabik kuncup bunga yang belum mekar karena merasa tidak sabar.
 
@@ -233,7 +237,14 @@ Pendidik TUMBUH akan membedah ekosistem kehidupannya:
 * *Apakah jam belajarnya terlalu padat sehingga tubuh biologisnya mengalami kelelahan saraf yang akut?*
 * *Keteladanan apa yang luput kami hadirkan di hadapannya selama ini?*
 
-Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** (HR. Al-Bukhari no. 1358). Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu godam", melainkan **menghilangkan penghalang-penghalang biologis, emosional, dan sosial yang menutupi fitrah tersebut, lalu menyiraminya hingga mekar menjadi pohon adab yang agung**.
+Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** sebagaimana disabdakan oleh Rasulullah ﷺ:
+
+$$\text{ext{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
+
+> *"Setiap anak dilahirkan di atas fitrah (kesucian bertauhid). Maka kedua orang tuanyalah (lingkungan pengasuhnya) yang menjadikannya Yahudi, Nasrani, atau Majusi."*  
+> (HR. Al-Bukhari no. 1358 dan Muslim no. 2658)[^9]
+
+Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu godam", melainkan **menghilangkan penghalang-penghalang biologis, emosional, dan sosial yang menutupi fitrah tersebut, lalu menyiraminya hingga mekar menjadi pohon adab yang kokoh**.
 
 ---
 
@@ -339,7 +350,7 @@ Transformasi peradaban tidak dapat dicapai hanya dengan menuliskan buku tebal; t
 
 ### 1.8 Panggilan Nurani Pendidik: Jika Santri Itu Adalah Anak Kandung Kita
 
-Wahai para kyai yang kami muliakan, para asatidz yang ikhlas, para musyrif yang berpeluh keringat di lorong-lorong asrama, serta segenap pengemban amanah pendidikan Islam!
+Wahai para guru yang kami muliakan, para asatidz yang ikhlas, para musyrif yang berpeluh keringat di lorong-lorong asrama, serta segenap pengemban amanah pendidikan Islam!
 
 Sebelum kita melangkah lebih jauh membedah lembar demi lembar arsitektur fundamental ini, mari kita letakkan sejenak segala buku catatan kita, pejamkan mata, dan hadirkan sebuah perenungan mendalam ke dalam relung kalbu kita yang paling jujur:
 
@@ -362,13 +373,15 @@ Rasulullah ﷺ yang menjadi teladan agung kita tidak pernah sekalipun memukul an
 $$\text{خَدَمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَشْرَ سِنِينَ، وَاللَّهِ مَا قَالَ لِي أُفًّا قَطُّ، وَلَا قَالَ لِي لِشَيْءٍ لِمَ فَعَلْتَ كَذَا؟ وَهَلَّا فَعَلْتَ كَذَا؟}$$
 
 > *"Aku melayani Rasulullah ﷺ selama sepuluh tahun penuh. Demi Allah, beliau sama sekali tidak pernah berkata 'Ah!' kepadaku; beliau tidak pernah mencelaku atas apa yang telah kulakukan: 'Mengapa engkau berbuat demikian?', dan tidak pernah pula berkata atas apa yang tidak kulakukan: 'Mengapa tidak engkau lakukan begini?'"*  
-> (HR. Al-Bukhari no. 6038 dan Muslim no. 2309)[^8]
+> (HR. Al-Bukhari no. 6038 dan Muslim no. 2309)[^10]
 
 Inilah standar agung tarbiyah nubuwah yang wajib kita hidupkan kembali. Kita menolak kekerasan bukan karena kita bersikap lembek atau permisif; kita menolak kekerasan karena kita tunduk pada teladan baginda Nabi Muhammad ﷺ dan menghormati kemuliaan fitrah ciptaan Allah ﷻ.
 
 Mari kita bulatkan tekad untuk meruntuhkan dinding-dinding tirani lama di asrama kita. Mari kita tegakkan ekosistem pengasuhan yang berwibawa, penuh kehangatan cinta, ditegakkan oleh ketegasan yang adil, serta disinari oleh nalar keilmuan yang terang benderang.
 
 Dari sinilah, babak baru kebangkitan adab pesantren kita mulai melangkah.
+
+Namun, sebelum kita merombak tata kelola fisik dan keseharian asrama, sebuah pertanyaan yang jauh lebih mendasar menghadang nalar kita: *Di atas pandangan alam (worldview) seperti apa sesungguhnya peradaban pesantren ini dibangun? Dan mengapa ketika kacamata tauhid ini retak, seluruh praksis pendidikan kita ikut runtuh dan terseret arus sekularisme tanpa kita sadari?* Di Bab 2, kita akan membongkar poros metafisika terdalam yang menjadi jantung seluruh tarbiyah Islam.
 
 ---
 
@@ -381,4 +394,6 @@ Dari sinilah, babak baru kebangkitan adab pesantren kita mulai melangkah.
 [^5]: Robert M. Sapolsky, *Why Zebras Don't Get Ulcers: The Acclaimed Guide to Stress, Stress-Related Diseases, and Coping* (New York: Henry Holt and Company, 2004), hlm. 210–235; Sonia J. Lupien dkk., "Effects of Stress Throughout the Lifespan on the Brain, Behaviour and Cognition", *Nature Reviews Neuroscience*, Vol. 10, No. 6 (2009), hlm. 434–445.
 [^6]: Edward L. Deci & Richard M. Ryan, *Intrinsic Motivation and Self-Determination in Human Behavior* (New York: Plenum Press, 1985); Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 120–145.
 [^7]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Tafsir Ath-Thabari), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Kairo: Dar Hijr, 2001), Jilid XIII, hlm. 680–688.
-[^8]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Adab, Bab Husn al-Khuluq wa al-Karam wa ma Yukrahu min al-Bukhl, hadits no. 6038; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Fadhail, Bab Kana Rasulullah ﷺ Ahsana an-Nasi Khuluqan, hadits no. 2309.
+[^8]: Imaduddin Ismail bin Umar bin Katsir, *Tafsir al-Qur'an al-'Azhim* (Tafsir Ibnu Katsir), Tahqiq: Sami bin Muhammad as-Salamah (Riyadh: Dar Thayyibah, 1999), Jilid IV, hlm. 490–493.
+[^9]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Jana'iz, Bab Idza Aslama ash-Shabiyyu fa Mata, hadits no. 1358; Muslim bin al-Hajjaj, *Shahih Muslim*, Kitab al-Qadar, hadits no. 2658.
+[^10]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Adab, Bab Husn al-Khuluq wa al-Karam wa ma Yukrahu min al-Bukhl, hadits no. 6038; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Fadhail, Bab Kana Rasulullah ﷺ Ahsana an-Nasi Khuluqan, hadits no. 2309.
