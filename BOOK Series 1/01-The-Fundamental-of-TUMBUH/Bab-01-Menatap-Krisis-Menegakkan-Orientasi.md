@@ -191,7 +191,7 @@ Kata **TUMBUH** bukanlah jargon kosmetik, melainkan kristalisasi dari sebuah ikh
 Perhatikan kontras yang sangat mendasar antara dua pandangan hidup ini:
 
 ```mermaid
-graph TD
+graph LR
     subgraph PARADIGMA_PABRIK["1. PARADIGMA PABRIK (MECHANICAL FABRICATION)"]
         direction TB
         P1["Santri Dipandang Logam Mentah Tanpa Nyawa"]
@@ -257,7 +257,7 @@ Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu 
 Bagaimana revolusi paradigma ini bekerja dalam praksis kehidupan asrama sehari-hari? Mari kita sandingkan secara terperinci antara pendekatan retributif (lama) dengan pendekatan edukatif-restoratif TUMBUH dalam menangani dinamika nyata pelanggaran santri:
 
 ```mermaid
-graph TD
+graph LR
     subgraph ALUR_RETRIBUTIF["Alur Pendekatan Retributif (Konvensional)"]
         direction TB
         R1["Pelanggaran Terjadi di Asrama"] --> R2["Fokus: Mencari Siapa yang Bersalah"]

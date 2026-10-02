@@ -202,7 +202,7 @@ Kata **TUMBUH** bukanlah jargon kosmetik, melainkan kristalisasi dari sebuah ikh
 Perhatikan kontras yang sangat mendasar antara dua pandangan hidup ini:
 
 ```mermaid
-graph TD
+graph LR
     subgraph PARADIGMA_PABRIK["1. PARADIGMA PABRIK (MECHANICAL FABRICATION)"]
         direction TB
         P1["Santri Dipandang Logam Mentah Tanpa Nyawa"]
@@ -268,7 +268,7 @@ Tugas kita sebagai pendidik bukanlah "memasukkan karakter dari luar dengan palu 
 Bagaimana revolusi paradigma ini bekerja dalam praksis kehidupan asrama sehari-hari? Mari kita sandingkan secara terperinci antara pendekatan retributif (lama) dengan pendekatan edukatif-restoratif TUMBUH dalam menangani dinamika nyata pelanggaran santri:
 
 ```mermaid
-graph TD
+graph LR
     subgraph ALUR_RETRIBUTIF["Alur Pendekatan Retributif (Konvensional)"]
         direction TB
         R1["Pelanggaran Terjadi di Asrama"] --> R2["Fokus: Mencari Siapa yang Bersalah"]
@@ -2681,32 +2681,31 @@ Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disint
 ```mermaid
 graph TD
     P["PROFIL LULUSAN SANTRI: INSAN RUSYD BERADAB"]
+    P ==> RANAH_SPIRITUAL
+    P ==> RANAH_PRIBADI
+    P ==> RANAH_SOSIAL
     
     subgraph RANAH_SPIRITUAL["1. Poros Ruhani & Nalar"]
         direction TB
-        K1["Salimul 'Aqidah (Akidah Lurus & Murni)"]
-        --> K2["Shahihul 'Ibadah (Ibadah Benar Sesuai Sunnah)"]
-        --> K5["Mutsaqqoful Fikr (Wawasan Luas & Kritis)"]
+        K1["Salimul 'Aqidah<br/>(Akidah Lurus & Murni)"]
+        --> K2["Shahihul 'Ibadah<br/>(Ibadah Benar Sesuai Sunnah)"]
+        --> K5["Mutsaqqoful Fikr<br/>(Wawasan Luas & Kritis)"]
     end
     
     subgraph RANAH_PRIBADI["2. Poros Kendali Diri & Jasmani"]
         direction TB
-        K4["Qowiyyul Jism (Fisik Sehat & Bugar)"]
-        --> K6["Mujahidun Linafsihi (Kuat Kendali Nafsu)"]
-        --> K7["Harishun 'ala Waqtihi (Disiplin Waktu)"]
-        --> K8["Munazzhamun fi Syu'unihi (Tertib & Rapi)"]
+        K4["Qowiyyul Jism<br/>(Fisik Sehat & Bugar)"]
+        --> K6["Mujahidun Linafsihi<br/>(Kuat Kendali Nafsu)"]
+        --> K7["Harishun 'ala Waqtihi<br/>(Disiplin Waktu)"]
+        --> K8["Munazzhamun fi Syu'unihi<br/>(Tertib & Rapi)"]
     end
     
     subgraph RANAH_SOSIAL["3. Poros Adab & Kemanfaatan"]
         direction TB
-        K3["Matinul Khuluq (Akhlak Mulia & Beradab)"]
-        --> K9["Qodirun 'alal Kasbi (Mandiri & Tangguh)"]
-        --> K10["Nafi'un Lighairihi (Pelopor Kebaikan Umat)"]
+        K3["Matinul Khuluq<br/>(Akhlak Mulia & Beradab)"]
+        --> K9["Qodirun 'alal Kasbi<br/>(Mandiri & Tangguh)"]
+        --> K10["Nafi'un Lighairihi<br/>(Pelopor Kebaikan Umat)"]
     end
-
-    P ==> RANAH_SPIRITUAL
-    RANAH_SPIRITUAL ==> RANAH_PRIBADI
-    RANAH_PRIBADI ==> RANAH_SOSIAL
 ```
 
 Mari kita terjemahkan kesepuluh profil ini ke dalam indikator perilaku nyata di lingkungan asrama pesantren 24 jam:
@@ -2741,10 +2740,10 @@ Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH 
 Kapasitas Inti adalah serangkaian keterampilan eksekutif kognitif, emosional, fisik, dan sosial yang **dapat dilatih, diobservasi, dan diukur perkembangannya secara formatif**:
 
 ```mermaid
-graph TD
+graph LR
     subgraph DELAPAN_KAPASITAS_INTI_TUMBUH["Delapan Kapasitas Inti TUMBUH (8 CC)"]
         direction TB
-        subgraph FONDASI_DIRI["Fondasi Kendali Diri & Nalar"]
+        subgraph FONDASI_DIRI["1. Fondasi Kendali Diri & Nalar"]
             direction TB
             C1["CC-1: REGULASI DIRI (Mujahadatun Nafs)<br/>Kendali Impuls • Sabar • Regulasi Emosi"]
             --> C2["CC-2: NALAR KRITIS (Tafakkur Burhani)<br/>Analisis Fakta • Verifikasi Bukti Sahih"]
@@ -2752,7 +2751,7 @@ graph TD
             --> C7["CC-7: AGENSI MANDIRI (Al-Ikhtiyar)<br/>Inisiatif Mandiri • Tanggung Jawab Pribadi"]
         end
 
-        subgraph FONDASI_SOSIAL["Kapasitas Relasi & Aksi Maslahat"]
+        subgraph FONDASI_SOSIAL["2. Kapasitas Relasi & Aksi Maslahat"]
             direction TB
             C3["CC-3: KOMUNIKASI ADABI (Qaulan Sadida)<br/>Mendengar Aktif • Santun & Asertif"]
             --> C4["CC-4: KERJA SAMA (Ta'awun Ukhuwah)<br/>Manajemen Konflik • Berbagi Tugas Kamar"]
@@ -2760,7 +2759,7 @@ graph TD
             --> C8["CC-8: RESOLUSI MASALAH (Al-Hikmah)<br/>Akar Masalah • Restitusi & Rekonsiliasi"]
         end
 
-        FONDASI_DIRI ==> FONDASI_SOSIAL
+        FONDASI_DIRI ==>|Mendasari Aksi Sosial| FONDASI_SOSIAL
     end
 ```
 
@@ -3205,8 +3204,8 @@ TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertent
 Lensa ini memandang perjalanan manusia dari perspektif makro-filosofis tarbiyah sepanjang hayat: bagaimana suatu nilai adab bertransformasi dari sekadar informasi di kepala hingga mendarah daging menjadi watak (*malakah*) dan melahirkan peran kepemimpinan peradaban:
 
 ```mermaid
-graph TD
-    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif<br/>di Asrama (Puncak di J4)"]
+graph LR
+    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif di Asrama (Puncak di J4)"]
         direction TB
         T1["1. Tahu (Ta'allum)"]
         --> T2["2. Paham (Tafahhum)"]
@@ -3224,7 +3223,7 @@ graph TD
         --> T10["10. Pembangun Ekosistem (Arsitek Sistem)"]
     end
 
-    T7 -.->|Lulus Menjadi Kader| T8
+    T7 -.->|Lulus Menjadi Kader Khidmah| T8
 ```
 
 * **Ranah Santri Asrama (Tingkat 1 s/d 7)**:

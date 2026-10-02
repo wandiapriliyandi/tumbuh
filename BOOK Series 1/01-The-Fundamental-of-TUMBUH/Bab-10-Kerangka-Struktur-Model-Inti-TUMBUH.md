@@ -89,32 +89,31 @@ Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disint
 ```mermaid
 graph TD
     P["PROFIL LULUSAN SANTRI: INSAN RUSYD BERADAB"]
+    P ==> RANAH_SPIRITUAL
+    P ==> RANAH_PRIBADI
+    P ==> RANAH_SOSIAL
     
     subgraph RANAH_SPIRITUAL["1. Poros Ruhani & Nalar"]
         direction TB
-        K1["Salimul 'Aqidah (Akidah Lurus & Murni)"]
-        --> K2["Shahihul 'Ibadah (Ibadah Benar Sesuai Sunnah)"]
-        --> K5["Mutsaqqoful Fikr (Wawasan Luas & Kritis)"]
+        K1["Salimul 'Aqidah<br/>(Akidah Lurus & Murni)"]
+        --> K2["Shahihul 'Ibadah<br/>(Ibadah Benar Sesuai Sunnah)"]
+        --> K5["Mutsaqqoful Fikr<br/>(Wawasan Luas & Kritis)"]
     end
     
     subgraph RANAH_PRIBADI["2. Poros Kendali Diri & Jasmani"]
         direction TB
-        K4["Qowiyyul Jism (Fisik Sehat & Bugar)"]
-        --> K6["Mujahidun Linafsihi (Kuat Kendali Nafsu)"]
-        --> K7["Harishun 'ala Waqtihi (Disiplin Waktu)"]
-        --> K8["Munazzhamun fi Syu'unihi (Tertib & Rapi)"]
+        K4["Qowiyyul Jism<br/>(Fisik Sehat & Bugar)"]
+        --> K6["Mujahidun Linafsihi<br/>(Kuat Kendali Nafsu)"]
+        --> K7["Harishun 'ala Waqtihi<br/>(Disiplin Waktu)"]
+        --> K8["Munazzhamun fi Syu'unihi<br/>(Tertib & Rapi)"]
     end
     
     subgraph RANAH_SOSIAL["3. Poros Adab & Kemanfaatan"]
         direction TB
-        K3["Matinul Khuluq (Akhlak Mulia & Beradab)"]
-        --> K9["Qodirun 'alal Kasbi (Mandiri & Tangguh)"]
-        --> K10["Nafi'un Lighairihi (Pelopor Kebaikan Umat)"]
+        K3["Matinul Khuluq<br/>(Akhlak Mulia & Beradab)"]
+        --> K9["Qodirun 'alal Kasbi<br/>(Mandiri & Tangguh)"]
+        --> K10["Nafi'un Lighairihi<br/>(Pelopor Kebaikan Umat)"]
     end
-
-    P ==> RANAH_SPIRITUAL
-    RANAH_SPIRITUAL ==> RANAH_PRIBADI
-    RANAH_PRIBADI ==> RANAH_SOSIAL
 ```
 
 Mari kita terjemahkan kesepuluh profil ini ke dalam indikator perilaku nyata di lingkungan asrama pesantren 24 jam:
@@ -149,10 +148,10 @@ Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH 
 Kapasitas Inti adalah serangkaian keterampilan eksekutif kognitif, emosional, fisik, dan sosial yang **dapat dilatih, diobservasi, dan diukur perkembangannya secara formatif**:
 
 ```mermaid
-graph TD
+graph LR
     subgraph DELAPAN_KAPASITAS_INTI_TUMBUH["Delapan Kapasitas Inti TUMBUH (8 CC)"]
         direction TB
-        subgraph FONDASI_DIRI["Fondasi Kendali Diri & Nalar"]
+        subgraph FONDASI_DIRI["1. Fondasi Kendali Diri & Nalar"]
             direction TB
             C1["CC-1: REGULASI DIRI (Mujahadatun Nafs)<br/>Kendali Impuls • Sabar • Regulasi Emosi"]
             --> C2["CC-2: NALAR KRITIS (Tafakkur Burhani)<br/>Analisis Fakta • Verifikasi Bukti Sahih"]
@@ -160,7 +159,7 @@ graph TD
             --> C7["CC-7: AGENSI MANDIRI (Al-Ikhtiyar)<br/>Inisiatif Mandiri • Tanggung Jawab Pribadi"]
         end
 
-        subgraph FONDASI_SOSIAL["Kapasitas Relasi & Aksi Maslahat"]
+        subgraph FONDASI_SOSIAL["2. Kapasitas Relasi & Aksi Maslahat"]
             direction TB
             C3["CC-3: KOMUNIKASI ADABI (Qaulan Sadida)<br/>Mendengar Aktif • Santun & Asertif"]
             --> C4["CC-4: KERJA SAMA (Ta'awun Ukhuwah)<br/>Manajemen Konflik • Berbagi Tugas Kamar"]
@@ -168,7 +167,7 @@ graph TD
             --> C8["CC-8: RESOLUSI MASALAH (Al-Hikmah)<br/>Akar Masalah • Restitusi & Rekonsiliasi"]
         end
 
-        FONDASI_DIRI ==> FONDASI_SOSIAL
+        FONDASI_DIRI ==>|Mendasari Aksi Sosial| FONDASI_SOSIAL
     end
 ```
 

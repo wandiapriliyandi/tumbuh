@@ -1,4 +1,4 @@
-﻿# BAB 12: PARADIGMA PROGRESI KARAKTER
+# BAB 12: PARADIGMA PROGRESI KARAKTER
 ## Dari Bimbingan Melekat Menuju Penggerak Peradaban: Menyelaraskan Tiga Lensa Arsitektur dan Delapan Kapasitas Inti Fitrah
 
 > لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
@@ -79,8 +79,8 @@ TUMBUH menegaskan secara terang benderang: **Ketiganya sama sekali tidak bertent
 Lensa ini memandang perjalanan manusia dari perspektif makro-filosofis tarbiyah sepanjang hayat: bagaimana suatu nilai adab bertransformasi dari sekadar informasi di kepala hingga mendarah daging menjadi watak (*malakah*) dan melahirkan peran kepemimpinan peradaban:
 
 ```mermaid
-graph TD
-    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif<br/>di Asrama (Puncak di J4)"]
+graph LR
+    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif di Asrama (Puncak di J4)"]
         direction TB
         T1["1. Tahu (Ta'allum)"]
         --> T2["2. Paham (Tafahhum)"]
@@ -98,7 +98,7 @@ graph TD
         --> T10["10. Pembangun Ekosistem (Arsitek Sistem)"]
     end
 
-    T7 -.->|Lulus Menjadi Kader| T8
+    T7 -.->|Lulus Menjadi Kader Khidmah| T8
 ```
 
 * **Ranah Santri Asrama (Tingkat 1 s/d 7)**:

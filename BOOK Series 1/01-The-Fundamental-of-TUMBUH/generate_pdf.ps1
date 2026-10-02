@@ -311,31 +311,25 @@ foreach ($file in $MarkdownFiles) {
 
     /* === DIAGRAM MERMAID === */
     .mermaid {
+      display: block;
+      clear: both;
       text-align: center;
-      margin: 1.6em auto;
+      margin: 1.8em auto;
       page-break-inside: avoid;
       break-inside: avoid;
       background: #ffffff;
-      overflow: visible !important;
     }
     .mermaid svg {
       max-width: 100% !important;
       height: auto !important;
-      overflow: visible !important;
-    }
-    .mermaid foreignObject {
-      overflow: visible !important;
-    }
-    .mermaid foreignObject div {
-      overflow: visible !important;
-      white-space: normal !important;
-      text-align: center;
+      margin: 0 auto;
+      display: block;
     }
     .mermaid .nodeLabel,
     .mermaid .edgeLabel,
     .mermaid .cluster-label {
-      white-space: normal !important;
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+      line-height: 1.35 !important;
     }
 
     /* === CATATAN KAKI (FOOTNOTES) === */
@@ -380,7 +374,7 @@ foreach ($file in $MarkdownFiles) {
       const token = tokens[idx];
       const info = token.info ? token.info.trim() : '';
       if (info === 'mermaid') {
-        return '<div class="mermaid">' + token.content + '</div>';
+        return '<div class="mermaid">' + md.utils.escapeHtml(token.content) + '</div>';
       }
       return defaultFence(tokens, idx, options, env, self);
     };
@@ -403,14 +397,33 @@ foreach ($file in $MarkdownFiles) {
       flowchart: {
         htmlLabels: true,
         useMaxWidth: true,
-        curve: 'basis'
+        curve: 'linear'
       },
       securityLevel: 'loose'
     });
 
-    // Tunggu seluruh webfont selesai dimuat agar pengukuran lebar bounding box Mermaid 100% presisi
+    // Render setiap diagram secara sekuensial agar parser Mermaid tidak menumpuk antar-diagram
+    async function renderAllMermaid() {
+      const elements = document.querySelectorAll('.mermaid');
+      for (let i = 0; i < elements.length; i++) {
+        const el = elements[i];
+        const id = 'mermaid-diagram-' + i;
+        const code = el.textContent.trim();
+        try {
+          const { svg } = await mermaid.render(id, code, el);
+          el.innerHTML = svg;
+        } catch (err) {
+          console.error('Mermaid render error on diagram ' + i, err);
+          el.innerHTML = '<pre style="color:red;border:1px solid red;padding:8px;">Gagal merender diagram ' + i + ': ' + err.message + '</pre>';
+        }
+      }
+      const marker = document.createElement('div');
+      marker.id = 'render-done';
+      document.body.appendChild(marker);
+    }
+
     document.fonts.ready.then(() => {
-      mermaid.run({ nodes: document.querySelectorAll('.mermaid') });
+      renderAllMermaid();
     });
   </script>
 </body>
@@ -423,7 +436,7 @@ foreach ($file in $MarkdownFiles) {
 
     # Hitung estimasi virtual time budget berdasarkan keberadaan diagram mermaid
     $MermaidCount = ([regex]::Matches($rawMarkdown, '```mermaid')).Count
-    $BudgetMs = 6000 + ($MermaidCount * 1200)
+    $BudgetMs = 7000 + ($MermaidCount * 1500)
 
     # Periksa apakah berkas PDF target sedang terkunci oleh viewer (misal: Adobe Acrobat)
     if (Test-Path $TargetPdf) {
