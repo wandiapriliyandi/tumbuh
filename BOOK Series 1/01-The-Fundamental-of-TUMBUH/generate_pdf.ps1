@@ -291,13 +291,18 @@ foreach ($file in $MarkdownFiles) {
       text-align: justify;
     }
 
-    /* === KODE & PREFORMATTED === */
+    /* === KODE & PREFORMATTED (TERMASUK DIAGRAM ASCII/TEXT) === */
     code {
       font-family: 'Cascadia Code', 'Consolas', monospace;
       font-size: 9pt;
       background: #f1f5f9;
       padding: 2px 4px;
       border-radius: 3px;
+    }
+    pre, pre code {
+      font-family: 'Cascadia Code', 'Consolas', monospace !important;
+      font-size: 8.5pt !important;
+      line-height: 1.35 !important;
     }
     pre {
       background: #f8fafc;
@@ -318,26 +323,31 @@ foreach ($file in $MarkdownFiles) {
       page-break-inside: avoid;
       break-inside: avoid;
       background: #ffffff;
-      font-size: 10pt;
+      font-size: 9.5pt;
     }
     .mermaid svg {
-      max-width: 100% !important;
+      max-width: 100%;
       height: auto !important;
       margin: 0 auto;
       display: block;
     }
+    .mermaid svg,
+    .mermaid svg * {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+    }
     .mermaid .nodeLabel,
     .mermaid .edgeLabel,
     .mermaid .label,
-    .mermaid text {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
-      font-size: 10pt !important;
-      line-height: 1.35 !important;
+    .mermaid text,
+    .mermaid tspan {
+      font-size: 9.5pt !important;
+      line-height: 1.3 !important;
     }
     .mermaid .cluster-label span,
-    .mermaid .cluster-label text {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
-      font-size: 11pt !important;
+    .mermaid .cluster-label text,
+    .mermaid .flowchartTitleText,
+    .mermaid .titleText {
+      font-size: 10.5pt !important;
       font-weight: 700 !important;
     }
 
@@ -402,9 +412,9 @@ foreach ($file in $MarkdownFiles) {
       startOnLoad: false,
       theme: 'neutral',
       fontFamily: 'Inter, sans-serif',
-      fontSize: 11,
+      fontSize: 10,
       themeVariables: {
-        fontSize: '11px',
+        fontSize: '10px',
         fontFamily: 'Inter, sans-serif'
       },
       flowchart: {
@@ -425,6 +435,18 @@ foreach ($file in $MarkdownFiles) {
         try {
           const { svg } = await mermaid.render(id, code, el);
           el.innerHTML = svg;
+          const svgEl = el.querySelector('svg');
+          if (svgEl) {
+            const vb = svgEl.viewBox.baseVal;
+            if (vb && vb.width > 0) {
+              // Batasi lebar maksimal ke lebar asli diagram (agar tidak melar melebihi 1:1)
+              // dan maksimal 650px agar pas dengan batas bidang cetak halaman A4.
+              const naturalWidth = vb.width;
+              const maxAllowed = Math.min(naturalWidth, 650);
+              svgEl.style.maxWidth = maxAllowed + 'px';
+              svgEl.style.width = '100%';
+            }
+          }
         } catch (err) {
           console.error('Mermaid render error on diagram ' + i, err);
           el.innerHTML = '<pre style="color:red;border:1px solid red;padding:8px;">Gagal merender diagram ' + i + ': ' + err.message + '</pre>';
