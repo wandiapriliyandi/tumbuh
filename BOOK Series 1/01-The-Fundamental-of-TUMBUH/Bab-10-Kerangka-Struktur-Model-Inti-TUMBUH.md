@@ -1,4 +1,4 @@
-﻿# BAB 10: KERANGKA STRUKTUR MODEL INTI TUMBUH
+# BAB 10: KERANGKA STRUKTUR MODEL INTI TUMBUH
 ## Arsitektur Tiga Ranah Karakter, Sepuluh Profil Lulusan, dan Delapan Kapasitas Inti
 
 > وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
@@ -31,7 +31,7 @@ graph TD
     A["LANDASAN FILOSOFIS & PRINSIP INTI"] --> B["MODEL INTI TUMBUH (CORE MODEL)"]
     
     subgraph ARSITEKTUR_CORE_MODEL["Struktur Tiga Lapis Model Inti"]
-        B --> L1["1. TIGA RANAH HUBUNGAN ASASI<br/>Hablum Minallah • Hablum Minannas • Hablum Ma'an-Nafs"]
+        B --> L1["1. TIGA RANAH HUBUNGAN ASASI<br/>Hablum Minallah • Hablum Minannas<br/>• Hablum Ma'an-Nafs"]
         L1 --> L2["2. SEPULUH PROFIL LULUSAN (GRADUATE PROFILE)<br/>Sosok Utuh Insan Rusyd<br/>Penyejuk Hati Umat"]
         L2 --> L3["3. DELAPAN KAPASITAS INTI (8 CORE CAPACITIES)<br/>Instrumen Kognitif, Afektif,<br/>Fisik, & Sosial"]
     end
@@ -50,9 +50,9 @@ Seluruh gerak kehidupan santri selama dua puluh empat jam di asrama berporos pad
 ```mermaid
 graph TD
     subgraph TIGA_RANAH_HUBUNGAN["Tiga Poros Kehidupan Santri"]
-        M["1. HABLUM MINALLAH<br/>(Relasi dengan Sang Khaliq)<br/>Tauhid Murni • Ibadah Khusyuk • Niat Ikhlas • Muraqabatullah"]
-        N["2. HABLUM MINANNAS<br/>(Relasi dengan Sesama Insan)<br/>Adab Bergaul • Empati Ukhuwah • Amanah Sosial • Ishlah al-Bain"]
-        D["3. HABLUM MA'AN-NAFS<br/>(Relasi dengan Diri Sendiri)<br/>Regulasi Diri • Kesabaran Jiwa • Kebugaran Fisik • Tanggung Jawab"]
+        M["1. HABLUM MINALLAH<br/>(Relasi dengan Sang Khaliq)<br/>Tauhid Murni • Ibadah Khusyuk<br/>Niat Ikhlas • Muraqabatullah"]
+        N["2. HABLUM MINANNAS<br/>(Relasi dengan Sesama Insan)<br/>Adab Bergaul • Empati Ukhuwah<br/>Amanah Sosial • Ishlah al-Bain"]
+        D["3. HABLUM MA'AN-NAFS<br/>(Relasi dengan Diri Sendiri)<br/>Regulasi Diri • Kesabaran Jiwa<br/>Kebugaran Fisik • Tanggung Jawab"]
     end
 
     M --- N
@@ -84,7 +84,7 @@ Ketiga ranah ini tidak boleh dipisah-pisahkan; seorang santri yang menyakiti tem
 
 ### 10.3 Sepuluh Karakter Profil Lulusan: Insan Rusyd yang Menjadi Teladan
 
-Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disintesiskan dengan kebutuhan peradaban kontemporer, ekosistem TUMBUH menetapkan **Sepuluh Karakter Profil Lulusan (*The Ten Graduate Profiles*)** yang menjadi gambaran kepribadian santri saat menyelesaikan masa tarbiyahnya[^2]:
+Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disintesiskan dengan kebutuhan peradaban kontemporer, ekosistem TUMBUH menetapkan **Sepuluh Karakter Profil Lulusan (*The Ten Graduate Profiles*)** yang menjadi gambaran kepribadian santri saat menyelesaikan masa tarbiyahnya[^2],[^3]:
 
 ```mermaid
 graph TD

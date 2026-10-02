@@ -89,7 +89,7 @@ Dalam arsitektur TUMBUH, Jenjang J4 menyelaraskan dua tingkat tertinggi dari eta
 #### 1. Kepemimpinan Pelayan (Servant Leadership / Khidmah) Melawan Feodalisme
 Di banyak lembaga asrama tradisional maupun modern, posisi santri senior di tingkat akhir kerap tergelincir menjadi kasta elite penindas. Kuasa kedudukan sering disalahartikan sebagai hak istimewa untuk dilayani, hak untuk membentak adik kelas, memaksakan kehendak, atau memperbudak santri baru dengan dalih "menegakkan kedisiplinan dan tradisi". Ini adalah penyakit feodalisme asrama yang merusak jiwa santri senior dengan racun kesombongan (*takabbur*) dan melukai jiwa adik kelas dengan rasa takut dan dendam.
 
-Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian dan prinsip *Servant Leadership*[^6]:
+Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian dan prinsip *Servant Leadership*[^6],[^7]:
 $$\text{"Pemimpin suatu kaum adalah pelayan bagi mereka" (سَيِّدُ الْقَوْمِ خَادِمُهُمْ)}$$
 
 Bagi santri Jenjang J4:

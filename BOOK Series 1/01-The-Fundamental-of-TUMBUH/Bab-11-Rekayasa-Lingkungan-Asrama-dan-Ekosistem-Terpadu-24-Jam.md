@@ -1,4 +1,4 @@
-﻿# BAB 11: REKAYASA LINGKUNGAN ASRAMA DAN EKOSISTEM TERPADU 24 JAM
+# BAB 11: REKAYASA LINGKUNGAN ASRAMA DAN EKOSISTEM TERPADU 24 JAM
 ## Environmental Engineering, Mitigasi Hotspots Perundungan, dan Sinergi Triad Pengasuhan
 
 > كُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ: الْإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا...
@@ -14,8 +14,7 @@ Di banyak pondok pesantren, ketika terjadi insiden perundungan fisik antar-santr
 
 Mengapa nasihat agama yang luhur kerap kali tumpul di hadapan realitas asrama?
 
-Jawabannya diungkapkan oleh para pakar sosiologi tata ruang dan kriminologi lingkungan melalui teori **Pencegahan Kejahatan Melalui Desain Lingkungan (*Crime Prevention Through Environmental Design / CPTED*)**[^2a]: Al-Bukhari, *Shahih al-Bukhari*, hadits no. 2465; Muslim, *Shahih Muslim*, hadits no. 2121.
-[^2]:
+Jawabannya diungkapkan oleh para pakar sosiologi tata ruang dan kriminologi lingkungan melalui teori **Pencegahan Kejahatan Melalui Desain Lingkungan (*Crime Prevention Through Environmental Design / CPTED*)**[^4]. Dalam khazanah Islam, menyingkirkan potensi bahaya dari lingkungan fisik adalah bagian integral dari keimanan dan tanggung jawab syar'i (*imathatul adza 'anith thariq*)[^3].
 
 > **“Perilaku manusia tidak semata-mata dibentuk oleh doktrin moral di kepalanya, melainkan sangat ditentukan oleh bagaimana lingkungan fisik di sekitarnya dirancang dan ditata.”**
 
@@ -130,7 +129,7 @@ Salah satu penyakit organisasi yang paling melumpuhkan pesantren adalah **Sekat 
 * Musyrif di asrama merasa diperlakukan sebagai "pekerja kasar kelas dua" yang hanya bertugas mengawasi kebersihan dan ketertiban malam, tanpa pernah diajak berdiskusi mengenai kurikulum akademik santri.
 * Ketika ada santri yang bermasalah, kedua pihak saling melempar tanggung jawab: guru menyalahkan asrama karena santri mengantuk di kelas, sementara musyrif menyalahkan guru karena memberi beban PR yang terlalu berat.
 
-Ekosistem TUMBUH menghancurkan sekat tersebut dan menyatukan seluruh pendidik ke dalam **Sinergi Triad Pengasuhan (*The Triad Growth Alliance*)**[^5]:
+Ekosistem TUMBUH menghancurkan sekat tersebut dan menyatukan seluruh pendidik ke dalam **Sinergi Triad Pengasuhan (*The Triad Growth Alliance*)**[^5],[^6]:
 
 ```mermaid
 graph TD

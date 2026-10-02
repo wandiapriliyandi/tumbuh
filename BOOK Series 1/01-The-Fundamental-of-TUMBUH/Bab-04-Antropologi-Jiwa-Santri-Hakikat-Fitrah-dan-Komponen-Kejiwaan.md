@@ -1,4 +1,4 @@
-﻿# BAB 4: ANTROPOLOGI JIWA SANTRI: HAKIKAT FITRAH DAN KOMPONEN KEJIWAAN
+# BAB 4: ANTROPOLOGI JIWA SANTRI: HAKIKAT FITRAH DAN KOMPONEN KEJIWAAN
 ## Membedah Anatomi Ruh, Qalb, 'Aql, dan Nafs dalam Dinamika Remaja Pesantren 24 Jam
 
 > أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
@@ -56,7 +56,7 @@ Di manakah letak keunggulan tradisi Islam dalam membedah jiwa manusia dibanding 
 
 Psikologi Barat sekuler—yang berakar pada materialisme—mereduksi manusia semata-mata sebagai organisme biologis yang dikendalikan oleh impuls saraf dan kimiawi hormon. Jiwa dianggap tidak lebih dari sekadar aktivitas elektrokimiawi di dalam otak (*mind is merely brain*). Akibatnya, dimensi ketuhanan, sakralitas niat, dan kehidupan akhirat dihapuskan dari diskursus terapi kepribadian.
 
-Sebaliknya, khazanah intelektual Islam yang diwariskan oleh **Hujjatul Islam Abu Hamid Al-Ghazali** dalam *Ihya' Ulumiddin* (khususnya *Kitab Syarh 'Aja'ib al-Qalb*) memberikan peta anatomi jiwa yang sangat komprehensif, presisi, dan berlapis-lapis[^2]:
+Sebaliknya, khazanah intelektual Islam yang diwariskan oleh **Hujjatul Islam Abu Hamid Al-Ghazali** dalam *Ihya' Ulumiddin* (khususnya *Kitab Syarh 'Aja'ib al-Qalb*) memberikan peta anatomi jiwa yang sangat komprehensif, presisi, dan berlapis-lapis[^10]:
 
 ```mermaid
 graph TD
@@ -85,7 +85,7 @@ Al-Qalb dinamai demikian karena sifatnya yang dinamis dan mudah berbolak-balik (
 Akal adalah anugerah cahaya kognitif yang memampukan santri memahami teks wahyu, merenungkan akibat jangka panjang dari tindakannya, dan menimbang maslahat serta mudarat. Akal adalah penasihat setia bagi kalbu. Jika akal santri dilatih berpikir kritis dan merenungi ayat-ayat Allah, akal akan menjadi panglima yang menuntun raga memilih jalan ketakwaan. Namun jika akal dibiarkan tumpul dan dipaksa tunduk pada doktrin kepatuhan buta, akal akan kehilangan fungsinya sebagai benteng moral.
 
 #### 4. An-Nafs (Wadah Gejolak Hayawaniyah)
-Dalam terminologi tasawuf, *An-Nafs* adalah komponen kejiwaan yang menghimpun daya syahwat (hasrat biologis pada makanan, tidur, perhiasan duniawi) dan daya amarah (*ghadhab*—dorongan agresivitas dan pertahanan diri). Nafs adalah kendaraan raga di bumi; nafs tidak diciptakan untuk dimatikan atau dibunuh, melainkan untuk **ditundukkan dan disucikan (*tazkiyah*)** di bawah bimbingan akal dan kalbu.
+Dalam terminologi tasawuf, *An-Nafs* adalah komponen kejiwaan yang menghimpun daya syahwat (hasrat biologis pada makanan, tidur, perhiasan duniawi) dan daya amarah (*ghadhab*—dorongan agresivitas dan pertahanan diri). Nafs adalah kendaraan raga di bumi; nafs tidak diciptakan untuk dimatikan atau dibunuh, melainkan untuk **ditundukkan dan disucikan (*tazkiyah*)**[^11] di bawah bimbingan akal dan kalbu.
 
 ---
 
@@ -152,7 +152,7 @@ graph TD
     D5 --> D6["6. BI'AH (Relasi & Ekosistem)<br/>Iklim Budaya Kamar, Teman Sebaya & Qudwah"]
 ```
 
-Mari kita urai keterkaitan dinamis keenam dimensi ini dalam kehidupan asrama 24 jam:
+Mari kita urai keterkaitan dinamis keenam dimensi ini[^12] dalam kehidupan asrama 24 jam:
 
 #### 1. Dimensi Jasmani (*Al-Jasad*)
 Santri adalah makhluk berjasad fisik yang membutuhkan nutrisi halal dan bergizi seimbang, hidrasi air minum yang cukup, udara kamar yang bersih berventilasi, serta istirahat tidur yang cukup. Pada usia 12–18 tahun, tubuh remaja mengalami lonjakan hormon pertumbuhan (*growth spurt*) dan lonjakan hormon seks (testosteron dan estrogen) yang sangat masif. Mengabaikan keletihan fisik santri dan memaksakan beban hafalan di luar batas biologisnya adalah kezaliman terhadap hak tubuh (*Inna li jasidika 'alayka haqqan*).
@@ -189,7 +189,7 @@ graph TD
         F1["1. Jasmani: Sakit gigi geraham berlubang,<br/>tidak tidur nyenyak 4 malam berturut-turut."]
         F2["2. Kognitif: Cognitive overload<br/>  materi I'lal nahwu,<br/>bingung namun malu bertanya."]
         F3["3. Afektif: Tertekan & cemas dicap bodoh."]
-        F4["4. Bi'ah / Relasi: Diejek kawan saat antre wudhu,<br/>memicu ledakan amarah."]
+        F4["4. Bi'ah / Relasi:<br/>Diejek kawan saat antre wudhu,<br/>memicu ledakan amarah."]
         F5["5. Iradah: Menyesal melempar sandal,<br/>namun bingung meredakan malu."]
         F1 --> F2 --> F3 --> F4 --> F5
     end

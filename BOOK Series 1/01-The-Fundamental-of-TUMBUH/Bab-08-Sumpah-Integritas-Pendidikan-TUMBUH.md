@@ -1,4 +1,4 @@
-﻿# BAB 8: SUMPAH INTEGRITAS PENDIDIKAN TUMBUH
+# BAB 8: SUMPAH INTEGRITAS PENDIDIKAN TUMBUH
 ## Garis Merah Mutlak (*The Non-Negotiables*) dan Sepuluh Prinsip Inti Pengasuhan Pesantren
 
 > يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ
@@ -43,7 +43,7 @@ graph TD
 
 ---
 
-### 8.2 Sepuluh Prinsip Inti TUMBUH (*The Ten Core Principles*)
+### 8.2 Sepuluh Prinsip Inti TUMBUH (*The Ten Core Principles*)[^3]
 
 Prinsip Inti (*Core Principles*) adalah kompas abadi yang menjaga agar seluruh kebijakan, instrumen asesmen, dan intervensi perilaku di asrama tidak pernah melenceng dari pandangan tauhid dan fitrah kemanusiaan.
 
@@ -53,7 +53,7 @@ Perhatikan kedudukan strategis Prinsip Inti dalam hierarki sistem TUMBUH:
 graph TD
     P["01_PHILOSOPHY (Landasan Filosofis)<br/>Worldview Tauhid, Epistemologi Terpadu,<br/>& Martabat Fitrah"] --> C["01_CORE_PRINCIPLES (Sepuluh Prinsip Inti)<br/>Penjaga Batas Integritas<br/>yang TIDAK BOLEH HILANG"]
     C --> D["02_DESIGN_PRINCIPLES (Prinsip Perancangan)<br/>Pemandu Nalar Perumusan<br/>Aturan & Instrumen Asrama"]
-    D --> M["03_CORE_MODEL (Model Inti)<br/>Penerjemahan Menjadi Jenjang Kemandirian (J1–J4) & Ekosistem 24 Jam"]
+    D --> M["03_CORE_MODEL (Model Inti)<br/>Penerjemahan Jenjang J1–J4<br/>& Ekosistem 24 Jam"]
 ```
 
 Sepuluh Prinsip Inti TUMBUH dijabarkan secara rinci sebagai berikut:

@@ -1,4 +1,4 @@
-﻿# BAB 3: EPISTEMOLOGI TERPADU: WAHYU, NALAR, DAN FAKTA EMPIRIS
+# BAB 3: EPISTEMOLOGI TERPADU: WAHYU, NALAR, DAN FAKTA EMPIRIS
 ## Menegakkan Keadilan Berpikir, Validitas Bukti, dan Adab Keilmuan di Pesantren 24 Jam
 
 > يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
@@ -261,7 +261,7 @@ TUMBUH menetapkan aturan ketat: **Setiap hari adalah lembaran putih baru bagi fi
 
 ### 3.8 Logbook Epistemik Pembina: Standar Triangulasi Bukti Sebelum Putusan Disiplin
 
-Untuk mengeliminasi bias personal dan memastikan setiap keputusan disiplin berdiri di atas landasan yang shahih, tim pengasuhan TUMBUH mengoperasionalkan **Format Logbook Epistemik Triangulasi**:
+Untuk mengeliminasi bias personal dan memastikan setiap keputusan disiplin berdiri di atas landasan yang shahih, tim pengasuhan TUMBUH mengoperasionalkan **Format Logbook Epistemik Triangulasi**[^9]:
 
 ```text
                LEMBAR AUDIT VERIFIKASI EPISTEMIK KASUS SANTRI

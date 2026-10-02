@@ -1,4 +1,4 @@
-﻿# BAB 16: FILOSOFI ASESMEN KARAKTER: MENGUKUR UNTUK MENUMBUHKAN, BUKAN MELABELI
+# BAB 16: FILOSOFI ASESMEN KARAKTER: MENGUKUR UNTUK MENUMBUHKAN, BUKAN MELABELI
 ## Menolak Angka Rapor Mati, Membedah Triangulasi Bukti Autentik, dan Menjadikan Evaluasi Adab Sebagai Cermin Kejernihan Fitrah
 
 > وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
@@ -272,4 +272,3 @@ Di Bab 17, kita akan membedah Functional Behavior Assessment (FBA) dalam Konteks
 [^3]: Robert Rosenthal & Lenore Jacobson, *Pygmalion in the Classroom: Teacher Expectation and Pupils' Intellectual Development* (New York: Holt, Rinehart & Winston, 1968), hlm. 65–112; Thomas L. Good & Jere E. Brophy, *Looking in Classrooms* (New York: Pearson, 2008).
 [^4]: Diriwayatkan oleh Abu Dawud dalam *Sunan Abi Dawud*, Kitab al-Adab, Bab fi an-Nashihah, hadits no. 4918 dari Abu Hurairah radhiyallahu 'anhu; At-Tirmidzi dalam *Sunan at-Tirmidzi*, no. 1928, sanad hasan.
 [^5]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid II, *Kitab Adab al-Ulfah wa al-Ukhuwwah*, Bab Huquq al-Ukhuwwah wa ash-Shuhbah (Kairo: Dar al-Hadits, 2004), hlm. 210–225 mengenai kewajiban menutup aib saudara dan menjaga rahasia persaudaraan.
-[^6]: Abu Dawud, *Sunan Abi Dawud*, hadits no. 4918; At-Tirmidzi, *Sunan at-Tirmidzi*, hadits no. 1928.

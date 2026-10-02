@@ -1,4 +1,4 @@
-﻿# BAB 9: TATA KELOLA EPISTEMIK DAN ETIKA PENGAMBILAN KEPUTUSAN
+# BAB 9: TATA KELOLA EPISTEMIK DAN ETIKA PENGAMBILAN KEPUTUSAN
 ## Mencegah Stigmatisasi, Menjaga Kerahasiaan Aib, dan Menegakkan Akuntabilitas Pembina Asrama
 
 > مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ، وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ
@@ -24,10 +24,10 @@ Peristiwa memilukan ini menyadarkan kita akan sebuah aksioma penting: **Kezalima
 
 ```mermaid
 graph TD
-    A["Musyrif Bertugas Nonstop 18–20 Jam Tanpa Istirahat Cukup"] --> B["Kelelahan Saraf Akut<br/>(Decision Fatigue & Ego Depletion)"]
+    A["Musyrif Bertugas Nonstop 18–20 Jam<br/>(Kelelahan Kronis / Burnout)"] --> B["Kelelahan Saraf Akut<br/>(Decision Fatigue & Ego Depletion)"]
     B --> C["Prefrontal Cortex Melemah;<br/>Amigdala Mengambil Alih"]
+    D --> E["LEDAKAN AMARAH DISPROPORSIONAL<br/>(Sanksi Kejam & Zalim)"]
     C --> D["Pelanggaran Ringan Santri<br/>di Larut Malam"]
-    D --> E["LEDAKAN AMARAH DISPROPORSIOAL<br/>(Sanksi Kejam & Zalim)"]
     E --> F["Trauma Batin Santri<br/>& Penyesalan Musyrif"]
 ```
 
@@ -51,8 +51,7 @@ Perhatikan perbedaan mendasar antara dua kalimat yang diucapkan oleh seorang pem
 > **Kalimat B (Pemisahan Identitas dan Perilaku - Menumbuhkan Taubat):**  
 > *"Kamu adalah hamba Allah yang mulia dan santri yang berharga di pondok ini; namun perbuatan mengambil sandal kemarin sore adalah tindakan salah yang melanggar adab dan wajib kamu perbaiki."*
 
-Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut **Ramalan yang Mewujud Sendiri (*The Self-Fulfilling Prophecy / Labeling Theory*)** sebagaimana dirumuskan oleh sosiolog Howard Becker[^3a]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 377–380.
-[^3]:
+Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut **Ramalan yang Mewujud Sendiri (*The Self-Fulfilling Prophecy / Labeling Theory*)** sebagaimana dirumuskan oleh sosiolog Howard Becker[^10].
 
 ```mermaid
 graph TD
@@ -121,7 +120,7 @@ Perhatikan bagaimana aib seorang santri kerap menyebar di lingkungan pesantren:
 * Kejadian tersebut kemudian dibagikan ke dalam grup percakapan WhatsApp pengurus lengkap dengan foto santri yang bersangkutan.
 * Dalam hitungan jam, kabar tersebut bocor ke telinga santri-santri lain, dan anak tersebut menjadi bahan olokan massal di seluruh penjuru pondok.
 
-Ini adalah perbuatan dosa besar yang diharamkan syariat! Mengumbar aib sesama muslim adalah perbuatan ghibah yang diibaratkan Al-Qur'an laksana memakan bangkai saudaranya sendiri (QS. Al-Hujurat: 12).
+Ini adalah perbuatan dosa besar yang diharamkan syariat! Mengumbar aib sesama muslim adalah perbuatan ghibah yang diibaratkan Al-Qur'an laksana memakan bangkai saudaranya sendiri (QS. Al-Hujurat [49]: 12)[^9].
 
 Rasulullah ﷺ memberikan peringatan keras kepada orang-orang yang gemar membongkar aib orang lain:
 

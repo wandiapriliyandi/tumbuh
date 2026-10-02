@@ -104,9 +104,9 @@ Dr. Stephen Porges, perumus **Teori Polivagal (*Polyvagal Theory*)**, menjelaska
 
 ```mermaid
 graph TD
-    V["1. Keadaan Ventral Vagal (Safety & Social Engagement)<br/>Detak jantung stabil, otot wajah rileks.<br/>Santri merasa aman, reseptif, & siap belajar."]
-    S["2. Keadaan Mobilisasi Simpatis (Fight or Flight)<br/>Adrenalin melonjak. Santri tegang, gelisah,<br/>melawan agresif atau melarikan diri membolos."]
-    D["3. Keadaan Imobilisasi Dorsal Vagal (Freeze & Collapse)<br/>Saraf mematikan motorik. Santri berdiri mematung,<br/>pandangan kosong, menunduk pasif, nalar lumpuh."]
+    V["1. Keadaan Ventral Vagal<br/>(Safety & Social Engagement)<br/>Detak jantung stabil, otot rileks.<br/>Santri merasa aman & siap belajar."]
+    S["2. Keadaan Mobilisasi Simpatis<br/>(Fight or Flight)<br/>Adrenalin melonjak. Santri tegang,<br/>melawan atau melarikan diri."]
+    D["3. Keadaan Imobilisasi Dorsal Vagal<br/>(Freeze & Collapse)<br/>Saraf mematikan motorik. Santri mematung,<br/>pandangan kosong, menunduk, nalar lumpuh."]
 
     V -->|Ancaman Meningkat| S
     S -->|Ancaman Tak Tertahankan| D
@@ -197,16 +197,16 @@ graph TD
         P1["Santri Dipandang Logam Mentah Tanpa Nyawa"]
         P2["Dipaksa Mengikuti Cetakan Standar<br/>Menggunakan Palu Hukuman Represif"]
         P3["Jika Bengkok: Dihantam Lebih Keras<br/>atau Dibuang Menjadi Besi Rongsok"]
-        P4["Hasil: Produk Kaku, Menyimpan Tegangan Batin,<br/>dan Mudah Patah Saat Terbentur Krisis"]
+        P4["Hasil: Produk Kaku, Tegangan Batin Tinggi,<br/>dan Mudah Patah Saat Terbentur Krisis"]
         P1 --> P2 --> P3 --> P4
     end
 
     subgraph PARADIGMA_TUMBUH["2. PARADIGMA TUMBUH (BIOLOGICAL CULTIVATION)"]
         direction TB
         T1["Santri Dipandang Benih Hayati Fitrah<br/>yang Membawa Potensi Suci"]
-        T2["Disirami Kasih Sayang, Dipupuk Teladan Qudwah,<br/>dan Dipagari Batasan Disiplin yang Adil"]
-        T3["Jika Layu: Diperiksa Akarnya, Diperbaiki Tanahnya,<br/>dan Dicukupi Kebutuhan Jiwa-Raganya"]
-        T4["Hasil: Pohon Rindang Berakar Keyakinan Kokoh,<br/>Berbuah Adab Mulia, dan Tahan Badai Ujian"]
+        T2["Disirami Kasih Sayang, Dipupuk Qudwah,<br/>dan Dipagari Batasan Disiplin Adil"]
+        T3["Jika Layu: Diperiksa Akarnya,<br/>Diperbaiki Tanahnya, Dicukupi Kebutuhannya"]
+        T4["Hasil: Pohon Berakar Keyakinan Kokoh,<br/>Berbuah Adab Mulia, Tahan Badai Ujian"]
         T1 --> T2 --> T3 --> T4
     end
 

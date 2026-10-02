@@ -1,4 +1,4 @@
-﻿# BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
+# BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
 
 > يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
 >
@@ -37,7 +37,7 @@ Dua orang santri yang masuk pondok pada hari yang sama dan duduk di kelas madras
 Memaksa Santri B naik ke jenjang J2 hanya karena "sudah satu semester" adalah kezaliman pedagogis yang membahayakan jiwanya: santri akan merasa kewalahan (*flooded*), kehilangan rasa aman, dan berisiko mengalami kemunduran perilaku drastis karena bantuan musyrif ditarik sebelum kapasitas batinnya terbentuk.
 
 #### 2. Empat Pilar Bukti Portofolio Autentik Santri
-Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara komprehensif melalui portofolio adab multidimensional yang merangkum empat pilar bukti autentik (Wiggins & McTighe, 2005)[^3]:
+Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara komprehensif melalui portofolio adab multidimensional yang merangkum empat pilar bukti autentik (Wiggins & McTighe, 2005)[^4]:
 
 ```text
                            PORTOFOLIO ADAB MULTIDIMENSIONAL
@@ -70,7 +70,7 @@ Kelayakan seorang santri untuk melangkah ke jenjang berikutnya dinilai secara ko
    - Mengamati responsnya ketika menghadapi situasi frustrasi, antrean panjang di kantin, atau ketika barang kesayangannya tidak sengaja tersenggol kawan.
 
 #### 3. Tata Kelola Sidang Dewan Pengasuhan (Gateway Committee)
-Keputusan kenaikan jenjang tidak pernah ditentukan secara sepihak oleh satu orang musyrif guna menghindari bias subjektivitas, favoritisme, atau sentimen pribadi. Keputusan diambil dalam **Sidang Dewan Pengasuhan (*Gateway Council*)** yang dihadiri oleh seluruh pemangku kepentingan secara syura yang adil (Ibnu Jama'ah, 2012)[^4]:
+Keputusan kenaikan jenjang tidak pernah ditentukan secara sepihak oleh satu orang musyrif guna menghindari bias subjektivitas, favoritisme, atau sentimen pribadi. Keputusan diambil dalam **Sidang Dewan Pengasuhan (*Gateway Council*)** yang dihadiri oleh seluruh pemangku kepentingan secara syura yang adil (Ibnu Jama'ah, 2012)[^5]:
 - Musyrif Kamar dan Kepala Asrama.
 - Perwakilan Guru Madrasah (pengampu kelas).
 - Konselor Bimbingan Konseling (BK) Pondok.
@@ -113,7 +113,7 @@ Sistem TUMBUH memutus rantai kezaliman kultural ini melalui rekayasa tradisi yan
 ```
 
 #### 1. Rekayasa Upacara Pengukuhan Jenjang (Rites of Passage)
-Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang bukan sebagai perayaan arogansi atau pawai kemegahan diri, melainkan sebagai majelis muhasabah batin, doa khusyuk, dan penyerahan amanah khidmah di hadapan seluruh civitas pondok (van Gennep, 1960)[^5]:
+Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang bukan sebagai perayaan arogansi atau pawai kemegahan diri, melainkan sebagai majelis muhasabah batin, doa khusyuk, dan penyerahan amanah khidmah di hadapan seluruh civitas pondok (van Gennep, 1960)[^6]:
 - **Pelaksanaan Khidmat di Masjid:** Upacara digelar di dalam masjid ba'da salat subuh berjamaah, diawali dengan khataman Al-Qur'an dan zikir bersama untuk mensucikan niat.
 - **Simbolisme Penyerahan Amanah:** Santri yang naik jenjang tidak diberikan atribut-atribut militeristik atau seragam kasta yang mencolok. Mereka menerima simbol amanah pelayanan—seperti mushaf Al-Qur'an saku, selendang khidmah asrama, atau buku panduan bimbingan adik kelas.
 - **Ikrar Khidmah Santri:** Santri yang dikukuhkan mengucapkan janji setia bukan untuk menguasai pondok, melainkan ikrar untuk menjadi pelayan dan pelindung bagi adik-adik kelas mereka:

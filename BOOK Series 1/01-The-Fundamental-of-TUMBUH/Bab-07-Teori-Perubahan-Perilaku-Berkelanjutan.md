@@ -1,4 +1,4 @@
-﻿# BAB 7: TEORI PERUBAHAN PERILAKU BERKELANJUTAN
+# BAB 7: TEORI PERUBAHAN PERILAKU BERKELANJUTAN
 ## Menembus Efek Pegas: Dari Kepatuhan Semu Menuju Transformasi Jiwa Berkelanjutan
 
 > إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۗ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ ۚ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ
@@ -65,7 +65,7 @@ $$\text{إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْ�
 
 Perhatikan firman Allah: **مَا بِأَنْفُسِهِمْ (apa yang ada di dalam jiwa batin mereka)**. Ayat ini menegaskan bahwa perilaku lahiriah hanyalah buah dari pohon batin; perubahan yang sejati dan abadi harus diawali oleh transformasi persepsi, kesadaran nilai, dan keputusan kehendak dari dalam kalbu (*internal locus of control*).
 
-Dalam sains psikologi perilaku modern, James Prochaska dan Carlo DiClemente merumuskan **Model Transteoretikal Perubahan Perilaku (*The Transtheoretical Model of Behavior Change / Stages of Change*)**[^3]. Yang sangat menakjubkan bagi kita, tahapan ilmiah modern ini memiliki keselarasan yang sempurna dengan tahapan perjalanan taubat dan pembersihan jiwa (*maqamat at-taubah wa at-tazkiyah*) yang dirumuskan oleh Hujjatul Islam Al-Ghazali dalam *Ihya' Ulumiddin* dan Ibnu Qayyim al-Jauziyyah dalam *Madarij as-Salikin*[^4]:
+Dalam sains psikologi perilaku modern, James Prochaska dan Carlo DiClemente merumuskan **Model Transteoretikal Perubahan Perilaku (*The Transtheoretical Model of Behavior Change / Stages of Change*)**[^3]. Yang sangat menakjubkan bagi kita, tahapan ilmiah modern ini memiliki keselarasan yang sempurna dengan tahapan perjalanan taubat dan pembersihan jiwa (*maqamat at-taubah wa at-tazkiyah*) yang dirumuskan oleh Hujjatul Islam Al-Ghazali dalam *Ihya' Ulumiddin* dan Ibnu Qayyim al-Jauziyyah dalam *Madarij as-Salikin*[^7]:
 
 ```mermaid
 graph TD
@@ -147,7 +147,7 @@ Bagaimanakah seorang musyrif TUMBUH mengubah sebuah kamar asrama yang berpenghun
 
 * **Langkah Salah (Cara Lama)**: Musyrif masuk kamar, membanting pintu, memarahi seluruh santri sekaligus, lalu menghukum mereka semua push-up 100 kali.  
   * *Hasil*: Seluruh santri bersatu membangun solidaritas bawah tanah melawan musyrif (*subculture of resistance*). Begitu musyrif keluar kamar, makian mereka kepada sang musyrif justru semakin kasar.
-* **Langkah Strategis Berbasis Sistem TUMBUH (*The Tipping Point Strategy*)**:
+* **Langkah Strategis Berbasis Sistem TUMBUH (*The Tipping Point Strategy*)**[^8]:
   1. **Pemetaan Sosiometri Kamar**: Musyrif mengamati diam-diam dinamika kamar selama tiga hari untuk menemukan **siapa santri yang menjadi tokoh sentral informal (*opinion leaders*)** di kamar tersebut. Ditemukanlah dua santri (santri A dan santri B) yang perkataannya selalu didengar dan ditiru oleh kawan-kawannya.
   2. **Intervensi Khusus 16% Penggerak Inti**: Musyrif mendekati santri A dan B secara personal. Mengajak mereka makan malam bersama di luar asrama, mendengarkan isi hati mereka, memuliakan martabat mereka, dan memberikan mereka tantangan kepemimpinan: *"Kalian berdua memiliki wibawa luar biasa di kamar ini. Ustadz ingin mempercayakan kepemimpinan kamar ini ke tangan kalian. Maukah kalian bersama Ustadz mengubah kamar kita menjadi kamar paling terhormat di pondok ini?"*
   3. **Pengikatan Komitmen Sahabat**: Santri A dan B merasa dihargai kemanusiaannya. Mereka beralih dari perusuh menjadi sekutu utama musyrif (*allies of change*).
@@ -161,7 +161,7 @@ Perubahan budaya asrama berhasil dicapai tanpa ada satu tetes pun caci maki atau
 
 Bagaimanakah sebuah adab yang awalnya terasa berat—seperti bangun fajar, merapikan sandal, atau menundukkan pandangan—dapat bermutasi menjadi watak spontan (*al-malakah*) yang mendarah daging?
 
-Sains perilaku modern (Charles Duhigg dalam *The Power of Habit* dan James Clear dalam *Atomic Habits*) membuktikan bahwa setiap kebiasaan manusia digerakkan oleh sebuah lingkaran saraf yang terdiri atas tiga komponen utama: **Isyarat (*Cue*), Rutinitas (*Routine*), dan Ganjaran (*Reward*)**[^7]:
+Sains perilaku modern (Charles Duhigg dalam *The Power of Habit* dan James Clear dalam *Atomic Habits*) membuktikan bahwa setiap kebiasaan manusia digerakkan oleh sebuah lingkaran saraf yang terdiri atas tiga komponen utama: **Isyarat (*Cue*), Rutinitas (*Routine*), dan Ganjaran (*Reward*)**[^9]:
 
 ```mermaid
 graph TD

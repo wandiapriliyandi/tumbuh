@@ -1,4 +1,4 @@
-﻿# BAB 5: DINAMIKA PERKEMBANGAN JIWA DAN NEUROSAINS REMAJA
+# BAB 5: DINAMIKA PERKEMBANGAN JIWA DAN NEUROSAINS REMAJA
 ## Memahami Gejolak Maturasi Prefrontal Cortex, Sistem Limbik, dan Plastisitas Adab Santri
 
 > *"Ketahuilah bahwa masa muda (as-syabab) adalah salah satu cabang dari kegilaan (syu'batun min al-junun), karena darah kemudaan yang mendidih mendorong jiwa untuk menerjang hawa nafsu tanpa memedulikan akibatnya, kecuali bagi mereka yang dianugerahi pemeliharaan dan taufik oleh Allah Ta'ala."*  
@@ -25,7 +25,7 @@ Para ilmuwan neurosains kognitif terkemuka dunia, seperti Prof. Laurence Steinbe
 graph TD
     subgraph DUAL_SYSTEMS_MODEL["Model Sistem Ganda Otak Remaja<br/>(Steinberg & Casey)"]
         direction TB
-        L["1. SISTEM SOSIO-EMOSIONAL<br/>/ LIMBIK (MESIN FERRARI)<br/>• Amigdala & Nukleus Akumbens<br/>• Dipicu Lonjakan Hormon Pubertas (Usia 11–13 Tahun)<br/>• Mencari Sensasi, Pengakuan Sebaya,<br/>& Hasrat Dopamin Tinggi"]
+        L["1. SISTEM SOSIO-EMOSIONAL<br/>/ LIMBIK (MESIN FERRARI)<br/>• Amigdala & Nukleus Akumbens<br/>• Dipicu Lonjakan Hormon Pubertas<br/>(Usia 11–13 Tahun)<br/>• Mencari Sensasi, Pengakuan Sebaya,<br/>& Hasrat Dopamin Tinggi"]
         
         P["2. KONTROL KOGNITIF / PFC<br/>(REM SEPEDA)<br/>• Korteks Prafrontal (PFC)<br/>• Kendali Impuls, Nalar Panjang,<br/>& Regulasi Emosi<br/>• Baru Matang Sempurna pada Usia 24–25 Tahun!"]
         
@@ -96,11 +96,3 @@ Di Bab 6, kita akan menyingkap rahasia keteladanan qudwah dan bi'ah shalihah dal
 [^3]: Jay N. Giedd dkk., "Brain Development During Childhood and Adolescence: A Longitudinal MRI Study", *Nature Neuroscience*, Vol. 2, No. 10 (1999), hlm. 861–863; Nitin Gogtay dkk., "Dynamic Mapping of Human Cortical Development during Childhood through Early Adulthood", *Proceedings of the National Academy of Sciences (PNAS)*, Vol. 101, No. 21 (2004), hlm. 8174–8179.
 [^4]: Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Kabir* (Kairo: Maktabah Ibn Taimiyyah, 1994), hadits no. 8645; Abu Bakr Ahmad bin Husain Al-Baihaqi, *Syu'abul Iman* (Riyadh: Maktabah ar-Rusyd, 2003), hadits no. 1658 dari Abu Hurairah dan Hasan Al-Bashri secara mursal shahih lighairihi.
 [^5]: Carla J. Shatz, "Impulse Activity and the Patterning of Connections during CNS Development", *Neuron*, Vol. 5, No. 6 (1990), hlm. 745–756; Donald O. Hebb, *The Organization of Behavior: A Neuropsychological Theory* (New York: John Wiley & Sons, 1949).
-[^6]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689.
-[^7]: Ibnu Hajar Al-Asqalani, *Fath al-Bari Syarh Shahih al-Bukhari* (Beirut: Dar al-Ma'rifah, 1379 H), Jilid IX, hlm. 345–347; Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah), Jilid III, hlm. 11–13.
-[^8]: Robert B. Cairns & Beverley D. Cairns, *Lifelines and Risks: Pathways of Youth in Our Time* (Cambridge: Cambridge University Press, 1994), hlm. 88–115; Esther Thelen & Linda B. Smith, *A Dynamic Systems Approach to the Development of Cognition and Action* (Cambridge: MIT Press, 1994).
-[^9]: Richard M. Ryan & Edward L. Deci, *Self-Determination Theory: Basic Psychological Needs in Motivation, Development, and Wellness* (New York: The Guilford Press, 2017), hlm. 80–125; Edward L. Deci & Richard M. Ryan, "The 'What' and 'Why' of Goal Pursuits: Human Needs and the Self-Determination of Behavior", *Psychological Inquiry*, Vol. 11, No. 4 (2000), hlm. 227–268.
-[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid III, *Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq* (Kairo: Dar al-Hadits, 2004), hlm. 62–75; Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012), hlm. 48–65.
-[^11]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab ash-Shalah, Bab Mata Yu'maru al-Ghulam bi ash-Shalah, hadits no. 495; Ahmad bin Hanbal, *Al-Musnad*, hadits no. 6689, disahihkan oleh Al-Albani dalam *Shahih Abi Dawud*.
-[^12]: Abu Zakariya Muhyiddin Yahya bin Syaraf An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab* (Kairo: Idarah ath-Thiba'ah al-Muniriyyah, 1344 H), Jilid III, hlm. 11–14; Syamsuddin Muhammad bin Abi al-Abbas Ar-Ramli, *Nihayat al-Muhtaj ila Syarh al-Minhaj* (Beirut: Dar al-Fikr, 1984), Jilid I, hlm. 385–388.
-[^13]: Mary A. Carskadon dkk., "Adolescent Sleep Patterns, Circadian Timing, and Sleepiness at a Transition to Early School Days", *Sleep*, Vol. 21, No. 8 (1998), hlm. 871–881; Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 87–96 mengenai pergeseran fase sirkadian melatonin 2 jam ke depan pada usia remaja.

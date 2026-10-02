@@ -1,4 +1,4 @@
-﻿# BAB 2: PANDANGAN ALAM ISLAM SEBAGAI POROS PENDIDIKAN
+# BAB 2: PANDANGAN ALAM ISLAM SEBAGAI POROS PENDIDIKAN
 ## *The Islamic Worldview* dan Implikasinya bagi Ekosistem Pesantren 24 Jam
 
 > *"Pendidikan dalam Islam bukanlah sekadar proses pengajaran informasi atau pelatihan keterampilan teknis, melainkan penanaman adab ke dalam diri manusia (Ta'dib), agar ia mengenali dan mengakui kedudukan dirinya yang tepat dalam tata susunan wujud ciptaan Allah, sehingga melahirkan amal perbuatan yang adil dan benar. Ketiadaan adab (loss of adab) adalah pangkal keruntuhan peradaban umat, dan adab tidak mungkin ditegakkan tanpa pandangan alam (worldview) yang lurus tentang hakikat wujud."*  
@@ -336,7 +336,7 @@ Bagaimanakah pandangan alam Islam mewujud dalam irama kehidupan konkret santri d
 | **17.00 – 18.00** | Mandi Bersih & Persiapan Maghrib | Tergesa-gesa; saling serobot pakaian jemuran. | Menata kerapian lahiriah menyambut waktu hening petang; membaca zikir al-Ma'tsurat petang. |
 | **18.00 – 20.00** | Maghrib, Halaqah Tahfidz & Isya | Menyetor hafalan dengan ancaman berdiri; santri cemas dan panik. | Konsolidasi kalamullah dalam suasana khusyuk; guru menyimak dengan cinta dan kesabaran tarbawi. |
 | **20.00 – 21.30** | Muthala'ah Mandiri & Majlis Kamar | Pengawas merazia dengan rotan; kamar tegang dan hening palsu. | *Majlis al-Ghurfah*: Lingkaran kamar evaluasi hari, saling menguatkan, apresiasi 4:1, dan doa malam. |
-| **21.30 – 03.30** | Padam Lampu & Tidur Lelap (6–7 Jam) | Dipotong hingga larut malam atas nama tirakat semu; santri kekurangan tidur kronis. | *Ibadah Tidur Biologis*: Menjaga sistem glimfatik otak bekerja membersihkan racun saraf demi memori abadi. |
+| **21.30 – 03.30** | Padam Lampu & Tidur Lelap (6–7 Jam) | Dipotong hingga larut malam atas nama tirakat semu; santri kekurangan tidur kronis. | *Ibadah Tidur Biologis*: Menjaga sistem glimfatik otak bekerja membersihkan racun saraf demi memori abadi.[^13] |
 
 Ketika seluruh siklus hidup 24 jam ini dijalankan dengan penuh kesadaran tauhid, santri tidak lagi merasa "sedang dihukum di penjara pondok", melainkan merasa sedang **hidup di dalam sebuah miniatur kota peradaban Nabawiyyah yang damai, suci, dan memberdayakan**.
 
