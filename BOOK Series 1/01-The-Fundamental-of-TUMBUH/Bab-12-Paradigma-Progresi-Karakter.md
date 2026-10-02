@@ -41,8 +41,8 @@ Ucapan tersebut terdengar heroik di telinga orang yang awam, namun sesungguhnya 
 
 Keadilan dalam epistemologi Islam, sebagaimana ditegaskan oleh para fukaha ushul dan filosof adab terkemuka, dirumuskan dengan sangat anggun:
 
-$$\text{وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ}$$
-
+> وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ
+>
 > *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^3]
 
 Meletakkan beban ekspektasi kemandirian santri senior ke atas pundak anak kecil yang baru beradaptasi adalah kezaliman pedagogis yang memicu kepanikan saraf (*nervous system flooding*), merusak rasa aman, dan melahirkan trauma kronis. 

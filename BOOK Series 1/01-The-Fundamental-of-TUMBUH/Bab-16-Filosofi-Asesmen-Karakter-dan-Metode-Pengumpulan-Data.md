@@ -97,8 +97,8 @@ Model TUMBUH merombak paradigma tersebut secara revolusioner dengan menegakkan *
 
 Prinsip dasar asesmen formatif berpijak kokoh pada sabda baginda Rasulullah ﷺ:
 
-$$\text{الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ}$$
-
+> الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ
+>
 > *"Seorang mukmin adalah cermin bagi saudaranya yang mukmin."*  
 > (HR. Abu Dawud no. 4918 dan At-Tirmidzi no. 1928, sanad hasan)[^4]
 

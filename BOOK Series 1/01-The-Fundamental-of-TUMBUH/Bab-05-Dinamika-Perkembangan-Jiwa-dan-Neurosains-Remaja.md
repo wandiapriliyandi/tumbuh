@@ -47,8 +47,8 @@ Dalam ekosistem **TUMBUH**, para asatidz dan musyrif disadarkan akan peran sakra
 
 Rasulullah ﷺ menyampaikan sebuah perumpamaan agung yang telah berusia empat belas abad, namun maknanya semakin berkilau di bawah sorotan mikroskop sains modern:
 
-$$\text{مَثَلُ الَّذِي يَتَعَلَّمُ فِي صِغَرِهِ كَالنَّقْشِ عَلَى الْحَجَرِ، وَمَثَلُ الَّذِي يَتَعَلَّمُ فِي كِبَرِهِ كَالَّذِي يَكْتُبُ عَلَى الْمَاءِ}$$
-
+> مَثَلُ الَّذِي يَتَعَلَّمُ فِي صِغَرِهِ كَالنَّقْشِ عَلَى الْحَجَرِ، وَمَثَلُ الَّذِي يَتَعَلَّمُ فِي كِبَرِهِ كَالَّذِي يَكْتُبُ عَلَى الْمَاءِ
+>
 > *"Perumpamaan orang yang belajar di masa mudanya adalah laksana mengukir di atas batu karang, sedangkan perumpamaan orang yang belajar di masa tuanya adalah laksana menulis di atas air."*  
 > (HR. At-Thabarani dalam *Al-Mu'jam al-Kabir* dan Al-Baihaqi dalam *Syu'abul Iman*)[^4]
 
@@ -58,8 +58,8 @@ Jawabannya terletak pada fenomena biologis yang disebut **Neuroplastisitas Remaj
 
 Di masa pubertas dan remaja, otak santri sedang mengalami rekonstruksi arsitektural terdahsyat kedua sepanjang hidupnya (setelah masa balita). Otak memproduksi miliaran cabang sinapsis baru, lalu melakukan seleksi alamiah berdasarkan hukum biologi saraf:
 
-$$\text{“Neurons that fire together, wire together; neurons that don't, are pruned away.”}$$
-
+> “Neurons that fire together, wire together; neurons that don't, are pruned away.”
+>
 > *"Jaringan sel saraf yang menyala bersama-sama secara berulang akan tersambung secara permanen menjadi sirkuit watak; sementara jaringan sel saraf yang tidak pernah diaktifkan akan dipangkas dan dimatikan oleh otak."*[^5]
 
 ```mermaid

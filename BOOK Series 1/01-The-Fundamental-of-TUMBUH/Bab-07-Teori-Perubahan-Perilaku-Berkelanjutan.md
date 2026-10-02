@@ -58,8 +58,8 @@ Jika pemaksaan instan terbukti membawa malapetaka jangka panjang, bagaimanakah s
 
 Al-Qur'an al-Karim menetapkan kaidah perubahan yang sangat presisi:
 
-$$\text{إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ}$$
-
+> إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ
+>
 > *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri."*  
 > (QS. Ar-Ra'd [13]: 11)[^2]
 
@@ -174,8 +174,8 @@ graph TD
 
 Jauh sebelum para ilmuwan Barat memetakan *habit loop*, Imam Ibnu Qayyim al-Jauziyyah dalam *Al-Fawa'id* telah menguraikan rantai kausalitas terbentuknya karakter dengan untaian kalimat yang sangat menggetarkan:
 
-$$\text{دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ شَهْوَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ إِرَادَةً وَعَزِيمَةً، فَإِنْ لَمْ تَدْفَعْهَا صَارَتْ فِعْلًا، فَإِنْ لَمْ تَتَدَارَكْهُ صَارَ عَادَةً، فَيَعْسُرُ عَلَيْكَ الْخُرُوجُ مِنْهَا}$$
-
+> دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ شَهْوَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ إِرَادَةً وَعَزِيمَةً، فَإِنْ لَمْ تَدْفَعْهَا صَارَتْ فِعْلًا، فَإِنْ لَمْ تَتَدَارَكْهُ صَارَ عَادَةً، فَيَعْسُرُ عَلَيْكَ الْخُرُوجُ مِنْهَا
+>
 > *"Tolaklah lintasan pikiran buruk (*khathrah*), karena jika tidak, ia akan menjadi pikiran (*fikrah*). Tolaklah pikiran itu, karena jika tidak, ia akan menjadi syahwat (*syahwah*). Tolaklah syahwat itu, karena jika tidak, ia akan menjadi kehendak bulat (*iradah wa 'azimath*). Tolaklah kehendak itu, karena jika tidak, ia akan menjelma menjadi tindakan nyata (*fi'l*). Dan jika engkau tidak segera memperbaikinya, tindakan itu akan menjadi kebiasaan (*'adah*), yang kelak akan sangat sulit bagimu untuk melepaskan diri darinya!"*[^5]
 
 Dalam ekosistem TUMBUH, para pengasuh merekayasa ketiga komponen ini:

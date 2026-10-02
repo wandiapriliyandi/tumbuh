@@ -146,8 +146,9 @@ Model TUMBUH melarang mutlak segala bentuk sanksi yang mempermalukan fisik dan p
 ```
 
 Ketika seorang santri telah menuntaskan proses restitusi, menyelesaikan resolusi, dan menyepakati rekonsiliasi, maka statusnya bersih kembali laksana bayi yang baru lahir:
-$$\text{"Orang yang bertobat dari dosanya adalah seperti orang yang tidak mempunyai dosa sama sekali"}$$
-$$\text{(التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ)}$$
+> التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ
+>
+> *"Orang yang bertobat dari dosanya adalah seperti orang yang tidak mempunyai dosa sama sekali."*
 
 Musyrif, para asatidz, dan teman-teman sekamar menyambutnya kembali dengan jabat tangan erat dan pelukan persaudaraan. Tidak ada lagi sindiran, tidak ada tatapan curiga, dan tidak ada pengucilan. Dengan demikian, santri merasakan betapa luasnya pintu ampunan Allah dan betapa indahnya hidup di dalam naungan ukhuwah Islamiyah yang sejati.
 

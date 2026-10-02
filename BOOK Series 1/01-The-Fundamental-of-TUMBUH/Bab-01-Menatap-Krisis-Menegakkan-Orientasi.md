@@ -215,8 +215,8 @@ graph LR
 
 Al-Qur'an al-Karim mengabadikan perumpamaan manusia beriman dan kalimat thayyibah bukan seperti benteng batu yang kaku, melainkan seperti **pohon yang hidup dan bertumbuh**:
 
-$$\text{أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ}$$
-
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+>
 > *"Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghunjam ke dalam bumi dan cabangnya menjulang tinggi ke langit. Pohon itu menghasilkan buahnya pada setiap musim dengan izin Rabb-nya. Dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka selalu ingat."*  
 > (QS. Ibrahim [14]: 24–25)[^7]
 
@@ -243,8 +243,8 @@ Pendidik TUMBUH akan membedah ekosistem kehidupannya:
 
 Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** sebagaimana disabdakan oleh Rasulullah ﷺ:
 
-$$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
-
+> كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ
+>
 > *"Setiap anak dilahirkan di atas fitrah (kesucian bertauhid). Maka kedua orang tuanyalah (lingkungan pengasuhnya) yang menjadikannya Yahudi, Nasrani, atau Majusi."*  
 > (HR. Al-Bukhari no. 1358 dan Muslim no. 2658)[^9]
 
@@ -378,8 +378,8 @@ Santri-santri yang berada di hadapan kita bukanlah angka-angka statistik tanpa j
 
 Rasulullah ﷺ yang menjadi teladan agung kita tidak pernah sekalipun memukul anak-anak atau menghardik pelayannya dengan kata-kata keji. Anas bin Malik رضي الله عنه, yang melayani Rasulullah ﷺ sejak usia sepuluh tahun, memberikan kesaksian abadi yang semestinya membuat setiap pendidik tertunduk malu:
 
-$$\text{خَدَمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَشْرَ سِنِينَ، وَاللَّهِ مَا قَالَ لِي أُفًّا قَطُّ، وَلَا قَالَ لِي لِشَيْءٍ لِمَ فَعَلْتَ كَذَا؟ وَهَلَّا فَعَلْتَ كَذَا؟}$$
-
+> خَدَمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَشْرَ سِنِينَ، وَاللَّهِ مَا قَالَ لِي أُفًّا قَطُّ، وَلَا قَالَ لِي لِشَيْءٍ لِمَ فَعَلْتَ كَذَا؟ وَهَلَّا فَعَلْتَ كَذَا؟
+>
 > *"Aku melayani Rasulullah ﷺ selama sepuluh tahun penuh. Demi Allah, beliau sama sekali tidak pernah berkata 'Ah!' kepadaku; beliau tidak pernah mencelaku atas apa yang telah kulakukan: 'Mengapa engkau berbuat demikian?', dan tidak pernah pula berkata atas apa yang tidak kulakukan: 'Mengapa tidak engkau lakukan begini?'"*  
 > (HR. Al-Bukhari no. 6038 dan Muslim no. 2309)[^10]
 

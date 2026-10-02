@@ -107,7 +107,8 @@ graph TD
 ```
 
 #### 1. Nafs Ammarah bis-Su' (Dorongan Primitif dan Impulsif)
-$$\text{وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي}$$
+> وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
+>
 > *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^2]
 
 Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafsu yang selalu condong mengajak kepada keburukan (*ammarah bis-su'*), kecuali jiwa yang dirahmati dan diteguhkan oleh Allah melalui bimbingan taufik-Nya.[^3] 
@@ -115,7 +116,8 @@ Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafs
 Ini adalah kondisi kejiwaan dasar ketika dorongan biologis purba dan hawa nafsu menguasai kendali diri. Pada santri remaja, *nafs ammarah* termanifestasi dalam perilaku impulsif: ingin menang sendiri saat antre mandi, menyembunyikan makanan teman, berbohong demi menghindari tugas piket, atau melampiaskan amarah dengan memukul. Jika santri berada pada tahap ini, menghujamnya dengan hukuman yang menghinakan justru akan mengobarkan api amarahnya dan membuatnya semakin membangkang.
 
 #### 2. Nafs Lawwamah (Gejolak Nurani dan Penyesalan Suci)
-$$\text{وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ}$$
+> وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+>
 > *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^4]
 
 Imam Al-Hasan Al-Bashri sebagaimana dinukil oleh Imam Ath-Thabari dan Ibnu Katsir menafsirkan *An-Nafs al-Lawwamah* sebagai jiwa seorang mukmin sejati: *"Engkau tidak akan mendapati seorang mukmin sejati melainkan ia senantiasa mencela dirinya: 'Apa maksud ucapanku tadi? Apa maksud perbuatanku tadi? Mengapa aku tergelincir?' Sedangkan orang fajir terus melangkah tanpa pernah menyesali kelalaiannya."*[^5] 
@@ -127,7 +129,8 @@ Para pengasuh pesantren wajib menyadari: **Hadirnya rasa bersalah dan penyesalan
 Tugas pendidik saat santri berada dalam fase *lawwamah* bukanlah mempermalukannya di depan umum, melainkan merangkulnya dengan penuh kasih sayang, mengarahkannya untuk bertaubat (*taubat nasuha*), dan membimbingnya melakukan **restitusi nyata (memperbaiki kesalahan)**.
 
 #### 3. Nafs Muthma'innah (Puncak Kedamaian dan Keteguhan Adab)
-$$\text{يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً}$$
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
+>
 > *"Wahai jiwa yang tenang! Kembalilah kepada Rabb-mu dengan hati yang rida dan diridai-Nya..."* (QS. Al-Fajr [89]: 27–28)[^6]
 
 Imam Ath-Thabari meriwayatkan bahwa *An-Nafs al-Muthma'innah* adalah jiwa yang tenang dalam keyakinan tauhid, mantap bahwa Allah adalah Rabb-nya, ridha terhadap takdir dan syariat-Nya, serta teguh dalam ketaatan tanpa keraguan.[^7]

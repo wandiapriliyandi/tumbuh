@@ -1,4 +1,4 @@
-﻿# THE FUNDAMENTAL OF TUMBUH
+# THE FUNDAMENTAL OF TUMBUH
 ## Landasan Filosofis, Arsitektural, dan Metodologis Transformasi Karakter Pesantren 24 Jam
 ### Master Reference Book â€” Seri Buku Utama TUMBUH v2.0.0
 
@@ -226,8 +226,8 @@ graph LR
 
 Al-Qur'an al-Karim mengabadikan perumpamaan manusia beriman dan kalimat thayyibah bukan seperti benteng batu yang kaku, melainkan seperti **pohon yang hidup dan bertumbuh**:
 
-$$\text{أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ}$$
-
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
+>
 > *"Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghunjam ke dalam bumi dan cabangnya menjulang tinggi ke langit. Pohon itu menghasilkan buahnya pada setiap musim dengan izin Rabb-nya. Dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka selalu ingat."*  
 > (QS. Ibrahim [14]: 24–25)[^7]
 
@@ -254,8 +254,8 @@ Pendidik TUMBUH akan membedah ekosistem kehidupannya:
 
 Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** sebagaimana disabdakan oleh Rasulullah ﷺ:
 
-$$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
-
+> كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ
+>
 > *"Setiap anak dilahirkan di atas fitrah (kesucian bertauhid). Maka kedua orang tuanyalah (lingkungan pengasuhnya) yang menjadikannya Yahudi, Nasrani, atau Majusi."*  
 > (HR. Al-Bukhari no. 1358 dan Muslim no. 2658)[^9]
 
@@ -389,8 +389,8 @@ Santri-santri yang berada di hadapan kita bukanlah angka-angka statistik tanpa j
 
 Rasulullah ﷺ yang menjadi teladan agung kita tidak pernah sekalipun memukul anak-anak atau menghardik pelayannya dengan kata-kata keji. Anas bin Malik رضي الله عنه, yang melayani Rasulullah ﷺ sejak usia sepuluh tahun, memberikan kesaksian abadi yang semestinya membuat setiap pendidik tertunduk malu:
 
-$$\text{خَدَمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَشْرَ سِنِينَ، وَاللَّهِ مَا قَالَ لِي أُفًّا قَطُّ، وَلَا قَالَ لِي لِشَيْءٍ لِمَ فَعَلْتَ كَذَا؟ وَهَلَّا فَعَلْتَ كَذَا؟}$$
-
+> خَدَمْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَشْرَ سِنِينَ، وَاللَّهِ مَا قَالَ لِي أُفًّا قَطُّ، وَلَا قَالَ لِي لِشَيْءٍ لِمَ فَعَلْتَ كَذَا؟ وَهَلَّا فَعَلْتَ كَذَا؟
+>
 > *"Aku melayani Rasulullah ﷺ selama sepuluh tahun penuh. Demi Allah, beliau sama sekali tidak pernah berkata 'Ah!' kepadaku; beliau tidak pernah mencelaku atas apa yang telah kulakukan: 'Mengapa engkau berbuat demikian?', dan tidak pernah pula berkata atas apa yang tidak kulakukan: 'Mengapa tidak engkau lakukan begini?'"*  
 > (HR. Al-Bukhari no. 6038 dan Muslim no. 2309)[^10]
 
@@ -447,8 +447,8 @@ Ini adalah contoh nyata bagaimana **kekeliruan pandangan alam (*worldview distor
 
 Argumen tersebut mencampuradukkan secara sesat antara **zuhud syar'i** (melepaskan keterikatan hati dari gemerlap duniawi) dengan **kotor dan jorok yang bertentangan dengan fitrah**. Pandangan alam Islam yang shahih tidak pernah memuliakan kekumuhan. Rasulullah ﷺ bersabda dengan sangat tegas:
 
-$$\text{الطُّهُورُ شَطْرُ الْإِيمَانِ}$$
-
+> الطُّهُورُ شَطْرُ الْإِيمَانِ
+>
 > *"Kesucian dan kebersihan itu adalah separuh dari keimanan."*  
 > (HR. Muslim no. 223)[^2]
 
@@ -469,8 +469,8 @@ Worldview adalah akar pohon; arsitektur sistem adalah batangnya; dan praksis har
 
 Aksioma ontologis paling agung dan mutlak dalam pandangan alam Islam adalah **Tauhidullah**—pengesaan Allah dalam rububiyyah, uluhiyyah, dan asma' wa shifat-Nya:
 
-$$\text{قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ}$$
-
+> قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
+>
 > *"Katakanlah: Dialah Allah, Yang Maha Esa. Allah adalah Dzat yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia."*  
 > (QS. Al-Ikhlas [112]: 1–4)[^3]
 
@@ -510,15 +510,15 @@ Di sebagian institusi asrama tradisional, sering kali tumbuh subur sebuah kultur
 
 Ini adalah perusakan epistemik yang sangat berbahaya! Tradisi keilmuan Islam yang luhur dibangun di atas argumentasi dalil, dialog keilmuan, dan keadilan moral. Rasulullah ﷺ menggariskan batas ketaatan makhluk dengan kalimat yang menjadi piagam emansipasi kemanusiaan:
 
-$$\text{لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ}$$
-
+> لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ
+>
 > *"Tidak ada ketaatan kepada makhluk mana pun dalam perkara yang bermaksiat kepada Sang Khaliq."*  
 > (HR. Ahmad no. 1095 dan At-Thabarani no. 381, dari Ali bin Abi Thalib رضي الله عنه, sanad shahih)[^5]
 
 Bahkan sahabat termulia, Amirul Mukminin Abu Bakar Ash-Shiddiq رضي الله عنه, dalam pidato kepemimpinannya setelah wafatnya Rasulullah ﷺ, dengan lantang mendeklarasikan di hadapan seluruh umat:
 
-$$\text{أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ}$$
-
+> أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ
+>
 > *"Taatilah aku selama aku menaati Allah dan Rasul-Nya dalam memimpin kalian. Namun apabila aku bermaksiat kepada Allah dan Rasul-Nya, maka gugurlah kewajiban kalian untuk taat kepadaku!"*[^6]
 
 Jika seorang pemimpin agung dan sahabat termulia seperti Abu Bakar Ash-Shiddiq menyatakan bahwa ketaatan rakyat kepadanya bersyarat pada kepatuhannya kepada Allah dan Rasul-Nya, lalu atas hak apa seorang musyrif kamar atau santri senior menuntut kepatuhan buta dari adik kelasnya saat ia memerintahkan hal-hal yang zalim dan merendahkan martabat manusia?
@@ -604,8 +604,8 @@ Siapakah sesungguhnya santri yang kita bimbing di pesantren? Apakah mereka sekad
 
 Al-Qur'an al-Karim menetapkan kedudukan ontologis manusia dengan bahasa yang sangat agung dan memuliakan:
 
-$$\text{وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا}$$
-
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
+>
 > *"Dan sesungguhnya telah Kami muliakan anak-anak keturunan Adam; Kami angkut mereka di daratan dan di lautan, Kami anugerahkan kepada mereka rezeki dari yang baik-baik, dan Kami lebihkan mereka di atas kebanyakan makhluk yang telah Kami ciptakan dengan kelebihan yang sempurna."*  
 > (QS. Al-Isra' [17]: 70)[^7]
 
@@ -653,8 +653,8 @@ graph TD
 #### 1. Mandat Al-'Ibadah: Menegakkan Penghambaan Total
 Santri dibimbing untuk menyadari bahwa tujuan penciptaannya di muka bumi adalah beribadah kepada Allah semata sebagaimana ditegaskan dalam firman-Nya:
 
-$$\text{ext{وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ}$$
-
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
+>
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."*  
 > (QS. Adz-Dzariyat [51]: 56)[^9]
 
@@ -817,8 +817,8 @@ Banyak pendidik dan pengurus pondok tidak menyadari bahwa **Epistemologi bukanla
 
 Ketika seorang pengasuh mengambil keputusan hanya berdasarkan "kabar burung", "firasat subjektif", atau "pengakuan santri di bawah ancaman siksaan", pengasuh tersebut sesungguhnya sedang melakukan kezaliman epistemik yang diharamkan oleh syariat. Al-Qur'an mengecam keras orang-orang yang membangun vonis di atas persangkaan tanpa bukti:
 
-$$\text{إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ}$$
-
+> إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ
+>
 > *"Mereka tidak lain hanyalah mengikuti persangkaan belaka (zhann) dan apa yang diingini oleh hawa nafsu mereka, padahal sungguh telah datang petunjuk dari Rabb mereka."*  
 > (QS. An-Najm [53]: 23)[^3]
 
@@ -1213,7 +1213,8 @@ graph TD
 ```
 
 #### 1. Nafs Ammarah bis-Su' (Dorongan Primitif dan Impulsif)
-$$\text{وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي}$$
+> وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
+>
 > *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^2]
 
 Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafsu yang selalu condong mengajak kepada keburukan (*ammarah bis-su'*), kecuali jiwa yang dirahmati dan diteguhkan oleh Allah melalui bimbingan taufik-Nya.[^3] 
@@ -1221,7 +1222,8 @@ Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafs
 Ini adalah kondisi kejiwaan dasar ketika dorongan biologis purba dan hawa nafsu menguasai kendali diri. Pada santri remaja, *nafs ammarah* termanifestasi dalam perilaku impulsif: ingin menang sendiri saat antre mandi, menyembunyikan makanan teman, berbohong demi menghindari tugas piket, atau melampiaskan amarah dengan memukul. Jika santri berada pada tahap ini, menghujamnya dengan hukuman yang menghinakan justru akan mengobarkan api amarahnya dan membuatnya semakin membangkang.
 
 #### 2. Nafs Lawwamah (Gejolak Nurani dan Penyesalan Suci)
-$$\text{وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ}$$
+> وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
+>
 > *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^4]
 
 Imam Al-Hasan Al-Bashri sebagaimana dinukil oleh Imam Ath-Thabari dan Ibnu Katsir menafsirkan *An-Nafs al-Lawwamah* sebagai jiwa seorang mukmin sejati: *"Engkau tidak akan mendapati seorang mukmin sejati melainkan ia senantiasa mencela dirinya: 'Apa maksud ucapanku tadi? Apa maksud perbuatanku tadi? Mengapa aku tergelincir?' Sedangkan orang fajir terus melangkah tanpa pernah menyesali kelalaiannya."*[^5] 
@@ -1233,7 +1235,8 @@ Para pengasuh pesantren wajib menyadari: **Hadirnya rasa bersalah dan penyesalan
 Tugas pendidik saat santri berada dalam fase *lawwamah* bukanlah mempermalukannya di depan umum, melainkan merangkulnya dengan penuh kasih sayang, mengarahkannya untuk bertaubat (*taubat nasuha*), dan membimbingnya melakukan **restitusi nyata (memperbaiki kesalahan)**.
 
 #### 3. Nafs Muthma'innah (Puncak Kedamaian dan Keteguhan Adab)
-$$\text{يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً}$$
+> يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
+>
 > *"Wahai jiwa yang tenang! Kembalilah kepada Rabb-mu dengan hati yang rida dan diridai-Nya..."* (QS. Al-Fajr [89]: 27–28)[^6]
 
 Imam Ath-Thabari meriwayatkan bahwa *An-Nafs al-Muthma'innah* adalah jiwa yang tenang dalam keyakinan tauhid, mantap bahwa Allah adalah Rabb-nya, ridha terhadap takdir dan syariat-Nya, serta teguh dalam ketaatan tanpa keraguan.[^7]
@@ -1432,8 +1435,8 @@ Dalam ekosistem **TUMBUH**, para asatidz dan musyrif disadarkan akan peran sakra
 
 Rasulullah ﷺ menyampaikan sebuah perumpamaan agung yang telah berusia empat belas abad, namun maknanya semakin berkilau di bawah sorotan mikroskop sains modern:
 
-$$\text{مَثَلُ الَّذِي يَتَعَلَّمُ فِي صِغَرِهِ كَالنَّقْشِ عَلَى الْحَجَرِ، وَمَثَلُ الَّذِي يَتَعَلَّمُ فِي كِبَرِهِ كَالَّذِي يَكْتُبُ عَلَى الْمَاءِ}$$
-
+> مَثَلُ الَّذِي يَتَعَلَّمُ فِي صِغَرِهِ كَالنَّقْشِ عَلَى الْحَجَرِ، وَمَثَلُ الَّذِي يَتَعَلَّمُ فِي كِبَرِهِ كَالَّذِي يَكْتُبُ عَلَى الْمَاءِ
+>
 > *"Perumpamaan orang yang belajar di masa mudanya adalah laksana mengukir di atas batu karang, sedangkan perumpamaan orang yang belajar di masa tuanya adalah laksana menulis di atas air."*  
 > (HR. At-Thabarani dalam *Al-Mu'jam al-Kabir* dan Al-Baihaqi dalam *Syu'abul Iman*)[^4]
 
@@ -1443,8 +1446,8 @@ Jawabannya terletak pada fenomena biologis yang disebut **Neuroplastisitas Remaj
 
 Di masa pubertas dan remaja, otak santri sedang mengalami rekonstruksi arsitektural terdahsyat kedua sepanjang hidupnya (setelah masa balita). Otak memproduksi miliaran cabang sinapsis baru, lalu melakukan seleksi alamiah berdasarkan hukum biologi saraf:
 
-$$\text{“Neurons that fire together, wire together; neurons that don't, are pruned away.”}$$
-
+> “Neurons that fire together, wire together; neurons that don't, are pruned away.”
+>
 > *"Jaringan sel saraf yang menyala bersama-sama secara berulang akan tersambung secara permanen menjadi sirkuit watak; sementara jaringan sel saraf yang tidak pernah diaktifkan akan dipangkas dan dimatikan oleh otak."*[^5]
 
 ```mermaid
@@ -1542,8 +1545,8 @@ Inilah konsep mendasar yang ditegaskan kembali oleh Prof. Syed Muhammad Naquib a
 
 Sebagaimana disabdakan oleh junjungan kita, Nabi Muhammad ﷺ:
 
-$$\text{أَدَّبَنِي رَبِّي فَأَحْسَنَ تَأْدِيبِي}$$
-
+> أَدَّبَنِي رَبِّي فَأَحْسَنَ تَأْدِيبِي
+>
 > *"Rabb-ku telah mendidik adab kepadaku (addabanī), maka Dia telah memperbagus pendidikanku."*  
 > (HR. As-Sam'ani dan Ibnu Sam'un; maknanya shahih dan diakui oleh para muhaqqiq)[^3]
 
@@ -1615,8 +1618,8 @@ Dalam kerangka *Polyvagal Theory* yang dirumuskan oleh Dr. Stephen Porges, siste
 
 Perhatikan bagaimana penegasan Ibnu Jama'ah dalam *Tadzkirat as-Sami'* menyelaraskan prinsip ini:
 
-$$\text{أَنْ يَتَمَثَّلَ الْعَالِمُ بِمَا يَدْعُو إِلَيْهِ، فَإِنَّ النَّاسَ يَقْتَدُونَ بِأَفْعَالِهِ أَكْثَرَ مِمَّا يَقْتَدُونَ بِأَقْوَالِهِ}$$
-
+> أَنْ يَتَمَثَّلَ الْعَالِمُ بِمَا يَدْعُو إِلَيْهِ، فَإِنَّ النَّاسَ يَقْتَدُونَ بِأَفْعَالِهِ أَكْثَرَ مِمَّا يَقْتَدُونَ بِأَقْوَالِهِ
+>
 > *"Hendaklah seorang alim pendidik menjadi personifikasi nyata dari apa yang ia serukan kepada murid-muridnya; karena sesungguhnya manusia itu meneladani perbuatan lahiriahnya jauh lebih banyak dan lebih membekas daripada mereka meneladani untaian kata-katanya!"*[^6]
 
 Ketika seorang musyrif masuk ke kamar asrama yang sedang gaduh dengan wajah yang teduh, tatapan mata yang sejuk, senyum yang mengembang, dan hembusan napas yang panjang dan teratur, sistem saraf musyrif tersebut memancarkan sinyal keselamatan fisiologis (*neuroception of safety*) ke sekeliling ruangan. Detak jantung santri yang semula gelisah melambat, otot-otot yang tegang mengendur, dan suasana gaduh mencair bukan karena ancaman cambuk, melainkan karena kewibawaan ruhani yang menenteramkan. Itulah mukjizat keteladanan yang hidup (*qudwah hayyah*).
@@ -1639,8 +1642,8 @@ Model TUMBUH mengutuk keras pembiaran ini sebagai **penghianatan terhadap risala
 #### 1. Revolusi Doktrin Kenabian: Sayyidul Qaumi Khadimuhum
 TUMBUH mengembalikan tata hubungan kekuasaan di asrama kepada fondasi revolusioner yang dicanangkan oleh Rasulullah ﷺ lebih dari empat belas abad silam:
 
-$$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
-
+> سَيِّدُ الْقَوْمِ خَادِمُهُمْ
+>
 > *"Pemimpin sejati suatu kaum adalah pelayan bagi kaum tersebut!"*  
 > (HR. Al-Baihaqi dalam *Syu'abul Iman* dan Abu Nu'aim dalam *Hilyatul Auliya'*)[^7]
 
@@ -1696,16 +1699,12 @@ Jika sebuah pesantren tidak memiliki keamanan psikologis:
 Bagaimanakah Sang Pendidik Agung Kemanusiaan, baginda Nabi Muhammad ﷺ, membangun keamanan psikologis di tengah komunitas para sahabatnya? Beliau tidak pernah mematikan nalar mereka dengan bentakan otoriter. Beliau mendidik melalui **Dialog Reflektif-Empatik**.
 
 Renungkanlah kembali peristiwa monumental ketika seorang pemuda belia mendatangi majelis Rasulullah ﷺ dengan membawa pergulatan syahwat yang paling tabu. Di hadapan para sahabat yang mulia, pemuda itu berkata tanpa basa-basi:
-
-$$\text{"Wahai Rasulullah, izinkanlah aku untuk berzina!"}$$
-
+> *"Wahai Rasulullah, izinkanlah aku untuk berzina!"*
 Mendengar ucapan yang sangat lancang dan menodai kesucian majelis tersebut, para sahabat sontak marah besar. Mereka berdiri menghardiknya: *"Diam kamu! Lancang sekali mulutmu di hadapan Rasulullah!"*. Amigdala para sahabat terpicu untuk menghukum sang pemuda seketika.
 
 Namun perhatikan bagaimana keagungan akhlak Nabi ﷺ memancarkan keamanan psikologis:
 Beliau tidak melotot, tidak menghantam meja, tidak menyuruh sahabat mengikat pemuda itu. Beliau dengan penuh kasih sayang bersabda:
-
-$$\text{"Mendekatlah kemari, wahai anak muda."}$$
-
+> *"Mendekatlah kemari, wahai anak muda."*
 Pemuda itu melangkah maju hingga duduk berlutut tepat di hadapan lutut Nabi ﷺ. Rasulullah ﷺ kemudian memulai **Dialog Nalar Empatik**:
 - *"Apakah engkau rela perbuatan zina itu menimpa ibumu?"*  
   Pemuda itu terperanjat, nuraninya tersentak: *"Demi Allah, tidak wahai Rasulullah! Semoga Allah menjadikanku tebusan bagimu!"*  
@@ -1719,8 +1718,8 @@ Setiap kali pertanyaan itu dilontarkan dengan nada kebapakan yang tulus, dinding
 
 Setelah nalar pemuda itu terbuka sempurna, Rasulullah ﷺ meletakkan telapak tangan beliau yang mulia dan penuh berkah ke atas dada pemuda itu, menyalurkan kehangatan ko-regulasi spiritual, seraya berdoa ke hadirat Allah:
 
-$$\text{اللَّهُمَّ اغْفِرْ ذَنْبَهُ، وَطَهِّرْ قَلْبَهُ، وَحَصِّنْ فَرْجَهُ}$$
-
+> اللَّهُمَّ اغْفِرْ ذَنْبَهُ، وَطَهِّرْ قَلْبَهُ، وَحَصِّنْ فَرْجَهُ
+>
 > *"Ya Allah! Ampunilah dosanya, sucikanlah kalbunya, dan bentengilah kemaluannya!"*  
 > (HR. Ahmad no. 22211, sanad shahih sesuai syarat Al-Bukhari)[^9]
 
@@ -1899,8 +1898,8 @@ Jika pemaksaan instan terbukti membawa malapetaka jangka panjang, bagaimanakah s
 
 Al-Qur'an al-Karim menetapkan kaidah perubahan yang sangat presisi:
 
-$$\text{إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ}$$
-
+> إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ
+>
 > *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri."*  
 > (QS. Ar-Ra'd [13]: 11)[^2]
 
@@ -2015,8 +2014,8 @@ graph TD
 
 Jauh sebelum para ilmuwan Barat memetakan *habit loop*, Imam Ibnu Qayyim al-Jauziyyah dalam *Al-Fawa'id* telah menguraikan rantai kausalitas terbentuknya karakter dengan untaian kalimat yang sangat menggetarkan:
 
-$$\text{دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ شَهْوَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ إِرَادَةً وَعَزِيمَةً، فَإِنْ لَمْ تَدْفَعْهَا صَارَتْ فِعْلًا، فَإِنْ لَمْ تَتَدَارَكْهُ صَارَ عَادَةً، فَيَعْسُرُ عَلَيْكَ الْخُرُوجُ مِنْهَا}$$
-
+> دَافِعِ الْخَطْرَةَ، فَإِنْ لَمْ تَفْعَلْ صَارَتْ فِكْرَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ شَهْوَةً، فَإِنْ لَمْ تُدَافِعْهَا صَارَتْ إِرَادَةً وَعَزِيمَةً، فَإِنْ لَمْ تَدْفَعْهَا صَارَتْ فِعْلًا، فَإِنْ لَمْ تَتَدَارَكْهُ صَارَ عَادَةً، فَيَعْسُرُ عَلَيْكَ الْخُرُوجُ مِنْهَا
+>
 > *"Tolaklah lintasan pikiran buruk (*khathrah*), karena jika tidak, ia akan menjadi pikiran (*fikrah*). Tolaklah pikiran itu, karena jika tidak, ia akan menjadi syahwat (*syahwah*). Tolaklah syahwat itu, karena jika tidak, ia akan menjadi kehendak bulat (*iradah wa 'azimath*). Tolaklah kehendak itu, karena jika tidak, ia akan menjelma menjadi tindakan nyata (*fi'l*). Dan jika engkau tidak segera memperbaikinya, tindakan itu akan menjadi kebiasaan (*'adah*), yang kelak akan sangat sulit bagimu untuk melepaskan diri darinya!"*[^5]
 
 Dalam ekosistem TUMBUH, para pengasuh merekayasa ketiga komponen ini:
@@ -2411,8 +2410,8 @@ Ketika seorang santri berkali-kali dicap sebagai "anak nakal", "pemalas", atau "
 
 Dalam ajaran Islam yang luhur, **dosa tidak pernah melekat kekal pada zat kemanusiaan seseorang**. Seorang mukmin yang melakukan dosa besar sekalipun tetap memiliki pintu taubat yang terbuka lebar. Allah ﷻ menyebut orang-orang yang bertaubat bukan sebagai mantan penjahat yang hina, melainkan sebagai kekasih-Nya yang mulia:
 
-$$\text{إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ}$$
-
+> إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
+>
 > *"Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang menyucikan diri."*  
 > (QS. Al-Baqarah [2]: 222)[^3]
 
@@ -2427,14 +2426,14 @@ Oleh karena itu, ekosistem TUMBUH mengharamkan seluruh bentuk penyematan label p
 
 Tradisi hukum Islam yang adil meletakkan sebuah kaidah ushul fiqh universal yang mendahului seluruh sistem hukum modern:
 
-$$\text{الْيَقِينُ لَا يَزُولُ بِالشَّكِّ}$$
-
+> الْيَقِينُ لَا يَزُولُ بِالشَّكِّ
+>
 > *"Keyakinan yang pasti tidak dapat digugurkan oleh keragu-raguan (praduga)."*[^4]
 
 Dan kaidah fiqih yang kokoh:
 
-$$\text{الْأَصْلُ بَرَاءَةُ الذِّمَّةِ}$$
-
+> الْأَصْلُ بَرَاءَةُ الذِّمَّةِ
+>
 > *"Hukum asal pada diri setiap manusia adalah bebas dari kesalahan dan tanggungan (Praduga Tak Bersalah / Presumption of Innocence)."*[^5]
 
 Artinya: **Seorang santri wajib dianggap bersih dan tidak bersalah hingga ada bukti faktual yang sah, nyata, dan meyakinkan yang membuktikan kesalahannya.**
@@ -2450,8 +2449,8 @@ TUMBUH memberlakukan protokol penyelidikan adab:
 3. **Standar Pembuktian Triangulasi**: Tuduhan tidak boleh diputuskan hanya berdasarkan kabar burung atau pengakuan sepihak dari santri lain yang memiliki konflik pribadi. Harus ada bukti fisik yang nyata (rekaman, saksi mata terpercaya lebih dari satu, atau barang bukti yang terverifikasi).
 4. **Lebih Baik Keliru Membebaskan daripada Keliru Menghukum**: Rasulullah ﷺ menggariskan prinsip peradilan Islam yang sangat berhati-hati:
 
-$$\text{ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ}$$
-
+> ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ
+>
 > *"Tolaklah (hindarilah) hukuman dari kaum muslimin semampu kalian. Jika ada celah baginya untuk bebas dari keraguan, maka lepaskanlah dia. Karena sesungguhnya seorang pemimpin yang keliru dalam memaafkan jauh lebih baik daripada ia keliru dalam menjatuhkan hukuman!"*  
 > (HR. At-Tirmidzi no. 1424 dan Al-Hakim dalam *Al-Mustadrak*, sanad shahih lighairihi)[^7]
 
@@ -2470,8 +2469,8 @@ Ini adalah perbuatan dosa besar yang diharamkan syariat! Mengumbar aib sesama mu
 
 Rasulullah ﷺ memberikan peringatan keras kepada orang-orang yang gemar membongkar aib orang lain:
 
-$$\text{يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ، فَإِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ أَخِيهِ الْمُسْلِمِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ، وَمَنْ تَتَبَّعَ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي جَوْفِ بَيْتِهِ}$$
-
+> يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ، فَإِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ أَخِيهِ الْمُسْلِمِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ، وَمَنْ تَتَبَّعَ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي جَوْفِ بَيْتِهِ
+>
 > *"Wahai orang-orang yang menyatakan Islam dengan lisannya namun keimanan belum meresap ke dalam kalbunya! Janganlah kalian menggunjing kaum muslimin dan janganlah kalian mencari-cari aib rahasia mereka! Karena barangsiapa yang mencari-cari aib saudaranya sesama muslim, niscaya Allah akan membongkar aibnya; dan barangsiapa yang aibnya dibongkar oleh Allah, niscaya Dia akan mempermalukannya sekalipun ia berada di dalam bilik rumahnya sendiri!"*  
 > (HR. Abu Dawud no. 4880 dan At-Tirmidzi no. 2032, sanad shahih)[^8]
 
@@ -3166,8 +3165,8 @@ Ucapan tersebut terdengar heroik di telinga orang yang awam, namun sesungguhnya 
 
 Keadilan dalam epistemologi Islam, sebagaimana ditegaskan oleh para fukaha ushul dan filosof adab terkemuka, dirumuskan dengan sangat anggun:
 
-$$\text{وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ}$$
-
+> وَضْعُ الشَّيْءِ فِي مَوْضِعِهِ اللَّائِقِ بِهِ
+>
 > *"Meletakkan segala sesuatu pada tempat dan porsinya yang tepat, benar, dan layak."*[^3]
 
 Meletakkan beban ekspektasi kemandirian santri senior ke atas pundak anak kecil yang baru beradaptasi adalah kezaliman pedagogis yang memicu kepanikan saraf (*nervous system flooding*), merusak rasa aman, dan melahirkan trauma kronis. 
@@ -3510,8 +3509,7 @@ Budaya *ghashab* (mengambil alas kaki atau ember teman tanpa izin) yang merusak 
 TUMBUH mengharamkan secara mutlak suara gedoran pintu seng, denting ember besi, atau siraman air dingin yang mengagetkan jantung santri saat bangun subuh. 
 
 Pukul 04.00 pagi, musyrif J1 menyalakan lampu tidur remang, memutar lantunan tilawah merdu bersuara lembut, lalu berkeliling dari ranjang ke ranjang. Musyrif menyentuh telapak kaki santri dengan lembut, mengusap dahinya seraya berbisik:  
-$$\text{"Ash-shalātu khairum minan naum... Bangunlah duhai buah hati ustadz, fajar rahmat Allah telah tiba, mari kita bersuci menyambut seruan-Nya."}$$
-
+> *"Ash-shalātu khairum minan naum... Bangunlah duhai buah hati ustadz, fajar rahmat Allah telah tiba, mari kita bersuci menyambut seruan-Nya."*
 Jika ada santri yang tubuhnya masih sangat berat karena keletihan, musyrif tidak membentaknya. Musyrif membantunya duduk bersandar, mengusap punggungnya, memberinya segelas air putih hangat untuk membasahi kerongkongannya, lalu menuntun langkahnya menuju tempat wudhu. Dalam kehangatan sentuhan itulah, salat subuh diasosiasikan di otak santri bukan sebagai siksaan yang menakutkan, melainkan sebagai perjumpaan yang indah dengan Rabb Yang Maha Penyayang.
 
 ---
@@ -3729,7 +3727,9 @@ Dalam arsitektur TUMBUH, Jenjang J4 menyelaraskan dua tingkat tertinggi dari eta
 Di banyak lembaga asrama tradisional maupun modern, posisi santri senior di tingkat akhir kerap tergelincir menjadi kasta elite penindas. Kuasa kedudukan sering disalahartikan sebagai hak istimewa untuk dilayani, hak untuk membentak adik kelas, memaksakan kehendak, atau memperbudak santri baru dengan dalih "menegakkan kedisiplinan dan tradisi". Ini adalah penyakit feodalisme asrama yang merusak jiwa santri senior dengan racun kesombongan (*takabbur*) dan melukai jiwa adik kelas dengan rasa takut dan dendam.
 
 Sistem TUMBUH meruntuhkan tradisi zalim tersebut hingga ke akar-akarnya melalui penegakan doktrin kenabian dan prinsip *Servant Leadership*[^6],[^7]:
-$$\text{"Pemimpin suatu kaum adalah pelayan bagi mereka" (سَيِّدُ الْقَوْمِ خَادِمُهُمْ)}$$
+> سَيِّدُ الْقَوْمِ خَادِمُهُمْ
+>
+> *"Pemimpin suatu kaum adalah pelayan bagi mereka."*
 
 Bagi santri Jenjang J4:
 - **Kemuliaan Diukur dari Pelayanan:** Kehormatan seorang santri senior tidak terletak pada berapa banyak santri junior yang mencium tangannya sambil menunduk ketakutan, melainkan pada berapa banyak beban adik kelas yang mampu ia ringankan dengan penuh kasih sayang.
@@ -3976,9 +3976,7 @@ Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang buka
 - **Pelaksanaan Khidmat di Masjid:** Upacara digelar di dalam masjid ba'da salat subuh berjamaah, diawali dengan khataman Al-Qur'an dan zikir bersama untuk mensucikan niat.
 - **Simbolisme Penyerahan Amanah:** Santri yang naik jenjang tidak diberikan atribut-atribut militeristik atau seragam kasta yang mencolok. Mereka menerima simbol amanah pelayanan—seperti mushaf Al-Qur'an saku, selendang khidmah asrama, atau buku panduan bimbingan adik kelas.
 - **Ikrar Khidmah Santri:** Santri yang dikukuhkan mengucapkan janji setia bukan untuk menguasai pondok, melainkan ikrar untuk menjadi pelayan dan pelindung bagi adik-adik kelas mereka:
-  $$\text{"Kami berikrar di hadapan Allah untuk merendahkan hati kami di hadapan saudara kami,}$$
-  $$\text{menjadi perisai bagi yang lemah, pembimbing bagi yang lalai,}$$
-  $$\text{dan pelayan kebaikan di seluruh sudut pondok ini demi mencari keridhaan Ilahi."}$$
+  > *"Kami berikrar di hadapan Allah untuk merendahkan hati kami di hadapan saudara kami, menjadi perisai bagi yang lemah, pembimbing bagi yang lalai, dan pelayan kebaikan di seluruh sudut pondok ini demi mencari keridhaan Ilahi."*
 
 #### 2. Dekonstruksi Hak Istimewa Feodal (Eliminasi Privilese Semu)
 Di lingkungan asrama TUMBUH diberlakukan aturan kelembagaan yang tegas untuk membongkar privilese-privilese feodal yang sering disalahgunakan oleh santri senior:
@@ -4158,8 +4156,8 @@ Model TUMBUH merombak paradigma tersebut secara revolusioner dengan menegakkan *
 
 Prinsip dasar asesmen formatif berpijak kokoh pada sabda baginda Rasulullah ﷺ:
 
-$$\text{الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ}$$
-
+> الْمُؤْمِنُ مِرْآةُ أَخِيهِ الْمُؤْمِنِ
+>
 > *"Seorang mukmin adalah cermin bagi saudaranya yang mukmin."*  
 > (HR. Abu Dawud no. 4918 dan At-Tirmidzi no. 1928, sanad hasan)[^4]
 
@@ -4474,9 +4472,7 @@ Dalam banyak insiden asrama, musyrif atau asatidz secara tidak sadar justru menj
 ### 17.3 Merumuskan Hipotesis Fungsional dan Rekayasa Anteseden Lingkungan
 
 Setelah rantai A-B-C terpetakan, tim pengasuhan merumuskan **Pernyataan Hipotesis Fungsional (*Functional Hypothesis Statement*)** dengan formula matematis perilaku:
-
-$$\text{"Ketika [Anteseden/Konteks], santri cenderung melakukan [Perilaku], dengan tujuan untuk [Fungsi Kebutuhan]."}$$
-
+> *"Ketika [Anteseden/Konteks], santri cenderung melakukan [Perilaku], dengan tujuan untuk [Fungsi Kebutuhan]."*
 *Contoh Formulasi Presisi:*  
 *"Ketika santri dihadapkan pada tugas menghafal lebih dari setengah halaman Al-Qur'an pada sesi halaqah tahfidz sore (Anteseden), santri cenderung membuat keributan di kamar mandi dan menolak setoran (Perilaku), dengan tujuan untuk menghindari rasa malu akibat bacaan tajwidnya yang terbata-bata di hadapan teman sebaya (Fungsi Escape)."*
 
@@ -4970,8 +4966,9 @@ Model TUMBUH melarang mutlak segala bentuk sanksi yang mempermalukan fisik dan p
 ```
 
 Ketika seorang santri telah menuntaskan proses restitusi, menyelesaikan resolusi, dan menyepakati rekonsiliasi, maka statusnya bersih kembali laksana bayi yang baru lahir:
-$$\text{"Orang yang bertobat dari dosanya adalah seperti orang yang tidak mempunyai dosa sama sekali"}$$
-$$\text{(التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ)}$$
+> التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ
+>
+> *"Orang yang bertobat dari dosanya adalah seperti orang yang tidak mempunyai dosa sama sekali."*
 
 Musyrif, para asatidz, dan teman-teman sekamar menyambutnya kembali dengan jabat tangan erat dan pelukan persaudaraan. Tidak ada lagi sindiran, tidak ada tatapan curiga, dan tidak ada pengucilan. Dengan demikian, santri merasakan betapa luasnya pintu ampunan Allah dan betapa indahnya hidup di dalam naungan ukhuwah Islamiyah yang sejati.
 
@@ -5188,8 +5185,9 @@ Dalam ketiga situasi ini, konselor BK memiliki kewajiban moral dan syar'i untuk 
 
 Sistem yang hebat bukanlah sistem yang sekali dirancang lalu ditinggalkan. Sistem yang kokoh adalah sistem yang senantiasa menguji dirinya sendiri, mendeteksi kelemahan secara dini, dan melakukan penyempurnaan berkesinambungan. Dalam tradisi Islam, etos ini disebut sebagai **Itqan**—bekerja dengan standar mutu terbaik dan penuh ketelitian.
 
-$$\text{"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal, ia melakukannya secara itqan (profesional, tuntas, dan bermutu tinggi)"}$$
-$$\text{(إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ)}$$[^5]
+> إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
+>
+> *"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal, ia melakukannya secara itqan (profesional, tuntas, dan bermutu tinggi)."*[^5]
 
 TUMBUH merumuskan siklus penjaminan mutu kelembagaan melalui tiga audit berkala:
 

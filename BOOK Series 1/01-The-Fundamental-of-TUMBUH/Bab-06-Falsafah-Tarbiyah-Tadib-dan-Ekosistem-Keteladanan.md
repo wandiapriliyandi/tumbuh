@@ -1,4 +1,4 @@
-﻿# BAB 6: FALSAFAH TARBIYAH, TA'DIB, DAN EKOSISTEM KETELADANAN
+# BAB 6: FALSAFAH TARBIYAH, TA'DIB, DAN EKOSISTEM KETELADANAN
 ## Menghidupkan Sunnah Qudwah Hasanah dan Mentransformasi Ekologi Pengasuhan Pesantren 24 Jam
 
 > لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
@@ -56,8 +56,8 @@ Inilah konsep mendasar yang ditegaskan kembali oleh Prof. Syed Muhammad Naquib a
 
 Sebagaimana disabdakan oleh junjungan kita, Nabi Muhammad ﷺ:
 
-$$\text{أَدَّبَنِي رَبِّي فَأَحْسَنَ تَأْدِيبِي}$$
-
+> أَدَّبَنِي رَبِّي فَأَحْسَنَ تَأْدِيبِي
+>
 > *"Rabb-ku telah mendidik adab kepadaku (addabanī), maka Dia telah memperbagus pendidikanku."*  
 > (HR. As-Sam'ani dan Ibnu Sam'un; maknanya shahih dan diakui oleh para muhaqqiq)[^3]
 
@@ -129,8 +129,8 @@ Dalam kerangka *Polyvagal Theory* yang dirumuskan oleh Dr. Stephen Porges, siste
 
 Perhatikan bagaimana penegasan Ibnu Jama'ah dalam *Tadzkirat as-Sami'* menyelaraskan prinsip ini:
 
-$$\text{أَنْ يَتَمَثَّلَ الْعَالِمُ بِمَا يَدْعُو إِلَيْهِ، فَإِنَّ النَّاسَ يَقْتَدُونَ بِأَفْعَالِهِ أَكْثَرَ مِمَّا يَقْتَدُونَ بِأَقْوَالِهِ}$$
-
+> أَنْ يَتَمَثَّلَ الْعَالِمُ بِمَا يَدْعُو إِلَيْهِ، فَإِنَّ النَّاسَ يَقْتَدُونَ بِأَفْعَالِهِ أَكْثَرَ مِمَّا يَقْتَدُونَ بِأَقْوَالِهِ
+>
 > *"Hendaklah seorang alim pendidik menjadi personifikasi nyata dari apa yang ia serukan kepada murid-muridnya; karena sesungguhnya manusia itu meneladani perbuatan lahiriahnya jauh lebih banyak dan lebih membekas daripada mereka meneladani untaian kata-katanya!"*[^6]
 
 Ketika seorang musyrif masuk ke kamar asrama yang sedang gaduh dengan wajah yang teduh, tatapan mata yang sejuk, senyum yang mengembang, dan hembusan napas yang panjang dan teratur, sistem saraf musyrif tersebut memancarkan sinyal keselamatan fisiologis (*neuroception of safety*) ke sekeliling ruangan. Detak jantung santri yang semula gelisah melambat, otot-otot yang tegang mengendur, dan suasana gaduh mencair bukan karena ancaman cambuk, melainkan karena kewibawaan ruhani yang menenteramkan. Itulah mukjizat keteladanan yang hidup (*qudwah hayyah*).
@@ -153,8 +153,8 @@ Model TUMBUH mengutuk keras pembiaran ini sebagai **penghianatan terhadap risala
 #### 1. Revolusi Doktrin Kenabian: Sayyidul Qaumi Khadimuhum
 TUMBUH mengembalikan tata hubungan kekuasaan di asrama kepada fondasi revolusioner yang dicanangkan oleh Rasulullah ﷺ lebih dari empat belas abad silam:
 
-$$\text{سَيِّدُ الْقَوْمِ خَادِمُهُمْ}$$
-
+> سَيِّدُ الْقَوْمِ خَادِمُهُمْ
+>
 > *"Pemimpin sejati suatu kaum adalah pelayan bagi kaum tersebut!"*  
 > (HR. Al-Baihaqi dalam *Syu'abul Iman* dan Abu Nu'aim dalam *Hilyatul Auliya'*)[^7]
 
@@ -210,16 +210,12 @@ Jika sebuah pesantren tidak memiliki keamanan psikologis:
 Bagaimanakah Sang Pendidik Agung Kemanusiaan, baginda Nabi Muhammad ﷺ, membangun keamanan psikologis di tengah komunitas para sahabatnya? Beliau tidak pernah mematikan nalar mereka dengan bentakan otoriter. Beliau mendidik melalui **Dialog Reflektif-Empatik**.
 
 Renungkanlah kembali peristiwa monumental ketika seorang pemuda belia mendatangi majelis Rasulullah ﷺ dengan membawa pergulatan syahwat yang paling tabu. Di hadapan para sahabat yang mulia, pemuda itu berkata tanpa basa-basi:
-
-$$\text{"Wahai Rasulullah, izinkanlah aku untuk berzina!"}$$
-
+> *"Wahai Rasulullah, izinkanlah aku untuk berzina!"*
 Mendengar ucapan yang sangat lancang dan menodai kesucian majelis tersebut, para sahabat sontak marah besar. Mereka berdiri menghardiknya: *"Diam kamu! Lancang sekali mulutmu di hadapan Rasulullah!"*. Amigdala para sahabat terpicu untuk menghukum sang pemuda seketika.
 
 Namun perhatikan bagaimana keagungan akhlak Nabi ﷺ memancarkan keamanan psikologis:
 Beliau tidak melotot, tidak menghantam meja, tidak menyuruh sahabat mengikat pemuda itu. Beliau dengan penuh kasih sayang bersabda:
-
-$$\text{"Mendekatlah kemari, wahai anak muda."}$$
-
+> *"Mendekatlah kemari, wahai anak muda."*
 Pemuda itu melangkah maju hingga duduk berlutut tepat di hadapan lutut Nabi ﷺ. Rasulullah ﷺ kemudian memulai **Dialog Nalar Empatik**:
 - *"Apakah engkau rela perbuatan zina itu menimpa ibumu?"*  
   Pemuda itu terperanjat, nuraninya tersentak: *"Demi Allah, tidak wahai Rasulullah! Semoga Allah menjadikanku tebusan bagimu!"*  
@@ -233,8 +229,8 @@ Setiap kali pertanyaan itu dilontarkan dengan nada kebapakan yang tulus, dinding
 
 Setelah nalar pemuda itu terbuka sempurna, Rasulullah ﷺ meletakkan telapak tangan beliau yang mulia dan penuh berkah ke atas dada pemuda itu, menyalurkan kehangatan ko-regulasi spiritual, seraya berdoa ke hadirat Allah:
 
-$$\text{اللَّهُمَّ اغْفِرْ ذَنْبَهُ، وَطَهِّرْ قَلْبَهُ، وَحَصِّنْ فَرْجَهُ}$$
-
+> اللَّهُمَّ اغْفِرْ ذَنْبَهُ، وَطَهِّرْ قَلْبَهُ، وَحَصِّنْ فَرْجَهُ
+>
 > *"Ya Allah! Ampunilah dosanya, sucikanlah kalbunya, dan bentengilah kemaluannya!"*  
 > (HR. Ahmad no. 22211, sanad shahih sesuai syarat Al-Bukhari)[^9]
 

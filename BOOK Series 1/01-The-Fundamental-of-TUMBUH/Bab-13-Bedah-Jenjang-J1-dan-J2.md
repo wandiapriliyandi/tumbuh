@@ -106,8 +106,7 @@ Budaya *ghashab* (mengambil alas kaki atau ember teman tanpa izin) yang merusak 
 TUMBUH mengharamkan secara mutlak suara gedoran pintu seng, denting ember besi, atau siraman air dingin yang mengagetkan jantung santri saat bangun subuh. 
 
 Pukul 04.00 pagi, musyrif J1 menyalakan lampu tidur remang, memutar lantunan tilawah merdu bersuara lembut, lalu berkeliling dari ranjang ke ranjang. Musyrif menyentuh telapak kaki santri dengan lembut, mengusap dahinya seraya berbisik:  
-$$\text{"Ash-shalātu khairum minan naum... Bangunlah duhai buah hati ustadz, fajar rahmat Allah telah tiba, mari kita bersuci menyambut seruan-Nya."}$$
-
+> *"Ash-shalātu khairum minan naum... Bangunlah duhai buah hati ustadz, fajar rahmat Allah telah tiba, mari kita bersuci menyambut seruan-Nya."*
 Jika ada santri yang tubuhnya masih sangat berat karena keletihan, musyrif tidak membentaknya. Musyrif membantunya duduk bersandar, mengusap punggungnya, memberinya segelas air putih hangat untuk membasahi kerongkongannya, lalu menuntun langkahnya menuju tempat wudhu. Dalam kehangatan sentuhan itulah, salat subuh diasosiasikan di otak santri bukan sebagai siksaan yang menakutkan, melainkan sebagai perjumpaan yang indah dengan Rabb Yang Maha Penyayang.
 
 ---

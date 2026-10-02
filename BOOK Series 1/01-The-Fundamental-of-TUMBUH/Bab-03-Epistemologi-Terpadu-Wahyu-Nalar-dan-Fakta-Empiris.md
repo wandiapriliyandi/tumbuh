@@ -28,8 +28,8 @@ Banyak pendidik dan pengurus pondok tidak menyadari bahwa **Epistemologi bukanla
 
 Ketika seorang pengasuh mengambil keputusan hanya berdasarkan "kabar burung", "firasat subjektif", atau "pengakuan santri di bawah ancaman siksaan", pengasuh tersebut sesungguhnya sedang melakukan kezaliman epistemik yang diharamkan oleh syariat. Al-Qur'an mengecam keras orang-orang yang membangun vonis di atas persangkaan tanpa bukti:
 
-$$\text{إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ}$$
-
+> إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ
+>
 > *"Mereka tidak lain hanyalah mengikuti persangkaan belaka (zhann) dan apa yang diingini oleh hawa nafsu mereka, padahal sungguh telah datang petunjuk dari Rabb mereka."*  
 > (QS. An-Najm [53]: 23)[^3]
 

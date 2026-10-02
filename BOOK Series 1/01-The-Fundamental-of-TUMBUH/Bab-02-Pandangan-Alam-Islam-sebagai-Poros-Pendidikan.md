@@ -26,8 +26,8 @@ Ini adalah contoh nyata bagaimana **kekeliruan pandangan alam (*worldview distor
 
 Argumen tersebut mencampuradukkan secara sesat antara **zuhud syar'i** (melepaskan keterikatan hati dari gemerlap duniawi) dengan **kotor dan jorok yang bertentangan dengan fitrah**. Pandangan alam Islam yang shahih tidak pernah memuliakan kekumuhan. Rasulullah ﷺ bersabda dengan sangat tegas:
 
-$$\text{الطُّهُورُ شَطْرُ الْإِيمَانِ}$$
-
+> الطُّهُورُ شَطْرُ الْإِيمَانِ
+>
 > *"Kesucian dan kebersihan itu adalah separuh dari keimanan."*  
 > (HR. Muslim no. 223)[^2]
 
@@ -48,8 +48,8 @@ Worldview adalah akar pohon; arsitektur sistem adalah batangnya; dan praksis har
 
 Aksioma ontologis paling agung dan mutlak dalam pandangan alam Islam adalah **Tauhidullah**—pengesaan Allah dalam rububiyyah, uluhiyyah, dan asma' wa shifat-Nya:
 
-$$\text{قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ}$$
-
+> قُلْ هُوَ اللَّهُ أَحَدٌ ۝ اللَّهُ الصَّمَدُ ۝ لَمْ يَلِدْ وَلَمْ يُولَدْ ۝ وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ
+>
 > *"Katakanlah: Dialah Allah, Yang Maha Esa. Allah adalah Dzat yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorang pun yang setara dengan Dia."*  
 > (QS. Al-Ikhlas [112]: 1–4)[^3]
 
@@ -89,15 +89,15 @@ Di sebagian institusi asrama tradisional, sering kali tumbuh subur sebuah kultur
 
 Ini adalah perusakan epistemik yang sangat berbahaya! Tradisi keilmuan Islam yang luhur dibangun di atas argumentasi dalil, dialog keilmuan, dan keadilan moral. Rasulullah ﷺ menggariskan batas ketaatan makhluk dengan kalimat yang menjadi piagam emansipasi kemanusiaan:
 
-$$\text{لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ}$$
-
+> لَا طَاعَةَ لِمَخْلُوقٍ فِي مَعْصِيَةِ الْخَالِقِ
+>
 > *"Tidak ada ketaatan kepada makhluk mana pun dalam perkara yang bermaksiat kepada Sang Khaliq."*  
 > (HR. Ahmad no. 1095 dan At-Thabarani no. 381, dari Ali bin Abi Thalib رضي الله عنه, sanad shahih)[^5]
 
 Bahkan sahabat termulia, Amirul Mukminin Abu Bakar Ash-Shiddiq رضي الله عنه, dalam pidato kepemimpinannya setelah wafatnya Rasulullah ﷺ, dengan lantang mendeklarasikan di hadapan seluruh umat:
 
-$$\text{أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ}$$
-
+> أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ
+>
 > *"Taatilah aku selama aku menaati Allah dan Rasul-Nya dalam memimpin kalian. Namun apabila aku bermaksiat kepada Allah dan Rasul-Nya, maka gugurlah kewajiban kalian untuk taat kepadaku!"*[^6]
 
 Jika seorang pemimpin agung dan sahabat termulia seperti Abu Bakar Ash-Shiddiq menyatakan bahwa ketaatan rakyat kepadanya bersyarat pada kepatuhannya kepada Allah dan Rasul-Nya, lalu atas hak apa seorang musyrif kamar atau santri senior menuntut kepatuhan buta dari adik kelasnya saat ia memerintahkan hal-hal yang zalim dan merendahkan martabat manusia?
@@ -183,8 +183,8 @@ Siapakah sesungguhnya santri yang kita bimbing di pesantren? Apakah mereka sekad
 
 Al-Qur'an al-Karim menetapkan kedudukan ontologis manusia dengan bahasa yang sangat agung dan memuliakan:
 
-$$\text{وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا}$$
-
+> وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
+>
 > *"Dan sesungguhnya telah Kami muliakan anak-anak keturunan Adam; Kami angkut mereka di daratan dan di lautan, Kami anugerahkan kepada mereka rezeki dari yang baik-baik, dan Kami lebihkan mereka di atas kebanyakan makhluk yang telah Kami ciptakan dengan kelebihan yang sempurna."*  
 > (QS. Al-Isra' [17]: 70)[^7]
 
@@ -232,8 +232,8 @@ graph TD
 #### 1. Mandat Al-'Ibadah: Menegakkan Penghambaan Total
 Santri dibimbing untuk menyadari bahwa tujuan penciptaannya di muka bumi adalah beribadah kepada Allah semata sebagaimana ditegaskan dalam firman-Nya:
 
-$$\text{ext{وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ}$$
-
+> وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
+>
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."*  
 > (QS. Adz-Dzariyat [51]: 56)[^9]
 

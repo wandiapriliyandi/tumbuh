@@ -65,8 +65,8 @@ Ketika seorang santri berkali-kali dicap sebagai "anak nakal", "pemalas", atau "
 
 Dalam ajaran Islam yang luhur, **dosa tidak pernah melekat kekal pada zat kemanusiaan seseorang**. Seorang mukmin yang melakukan dosa besar sekalipun tetap memiliki pintu taubat yang terbuka lebar. Allah ﷻ menyebut orang-orang yang bertaubat bukan sebagai mantan penjahat yang hina, melainkan sebagai kekasih-Nya yang mulia:
 
-$$\text{إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ}$$
-
+> إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
+>
 > *"Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang menyucikan diri."*  
 > (QS. Al-Baqarah [2]: 222)[^3]
 
@@ -81,14 +81,14 @@ Oleh karena itu, ekosistem TUMBUH mengharamkan seluruh bentuk penyematan label p
 
 Tradisi hukum Islam yang adil meletakkan sebuah kaidah ushul fiqh universal yang mendahului seluruh sistem hukum modern:
 
-$$\text{الْيَقِينُ لَا يَزُولُ بِالشَّكِّ}$$
-
+> الْيَقِينُ لَا يَزُولُ بِالشَّكِّ
+>
 > *"Keyakinan yang pasti tidak dapat digugurkan oleh keragu-raguan (praduga)."*[^4]
 
 Dan kaidah fiqih yang kokoh:
 
-$$\text{الْأَصْلُ بَرَاءَةُ الذِّمَّةِ}$$
-
+> الْأَصْلُ بَرَاءَةُ الذِّمَّةِ
+>
 > *"Hukum asal pada diri setiap manusia adalah bebas dari kesalahan dan tanggungan (Praduga Tak Bersalah / Presumption of Innocence)."*[^5]
 
 Artinya: **Seorang santri wajib dianggap bersih dan tidak bersalah hingga ada bukti faktual yang sah, nyata, dan meyakinkan yang membuktikan kesalahannya.**
@@ -104,8 +104,8 @@ TUMBUH memberlakukan protokol penyelidikan adab:
 3. **Standar Pembuktian Triangulasi**: Tuduhan tidak boleh diputuskan hanya berdasarkan kabar burung atau pengakuan sepihak dari santri lain yang memiliki konflik pribadi. Harus ada bukti fisik yang nyata (rekaman, saksi mata terpercaya lebih dari satu, atau barang bukti yang terverifikasi).
 4. **Lebih Baik Keliru Membebaskan daripada Keliru Menghukum**: Rasulullah ﷺ menggariskan prinsip peradilan Islam yang sangat berhati-hati:
 
-$$\text{ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ}$$
-
+> ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ
+>
 > *"Tolaklah (hindarilah) hukuman dari kaum muslimin semampu kalian. Jika ada celah baginya untuk bebas dari keraguan, maka lepaskanlah dia. Karena sesungguhnya seorang pemimpin yang keliru dalam memaafkan jauh lebih baik daripada ia keliru dalam menjatuhkan hukuman!"*  
 > (HR. At-Tirmidzi no. 1424 dan Al-Hakim dalam *Al-Mustadrak*, sanad shahih lighairihi)[^7]
 
@@ -124,8 +124,8 @@ Ini adalah perbuatan dosa besar yang diharamkan syariat! Mengumbar aib sesama mu
 
 Rasulullah ﷺ memberikan peringatan keras kepada orang-orang yang gemar membongkar aib orang lain:
 
-$$\text{يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ، فَإِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ أَخِيهِ الْمُسْلِمِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ، وَمَنْ تَتَبَّعَ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي جَوْفِ بَيْتِهِ}$$
-
+> يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ، فَإِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ أَخِيهِ الْمُسْلِمِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ، وَمَنْ تَتَبَّعَ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي جَوْفِ بَيْتِهِ
+>
 > *"Wahai orang-orang yang menyatakan Islam dengan lisannya namun keimanan belum meresap ke dalam kalbunya! Janganlah kalian menggunjing kaum muslimin dan janganlah kalian mencari-cari aib rahasia mereka! Karena barangsiapa yang mencari-cari aib saudaranya sesama muslim, niscaya Allah akan membongkar aibnya; dan barangsiapa yang aibnya dibongkar oleh Allah, niscaya Dia akan mempermalukannya sekalipun ia berada di dalam bilik rumahnya sendiri!"*  
 > (HR. Abu Dawud no. 4880 dan At-Tirmidzi no. 2032, sanad shahih)[^8]
 

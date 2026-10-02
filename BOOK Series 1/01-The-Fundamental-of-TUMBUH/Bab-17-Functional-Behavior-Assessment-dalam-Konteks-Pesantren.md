@@ -1,4 +1,4 @@
-﻿# BAB 17: FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DALAM KONTEKS KEPESANTRENAN
+# BAB 17: FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DALAM KONTEKS KEPESANTRENAN
 ## Mendiagnosis Akar Kebutuhan Jiwa di Balik Pelanggaran Santri dan Merumuskan Perilaku Pengganti yang Beradab
 
 > وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
@@ -136,9 +136,7 @@ Dalam banyak insiden asrama, musyrif atau asatidz secara tidak sadar justru menj
 ### 17.3 Merumuskan Hipotesis Fungsional dan Rekayasa Anteseden Lingkungan
 
 Setelah rantai A-B-C terpetakan, tim pengasuhan merumuskan **Pernyataan Hipotesis Fungsional (*Functional Hypothesis Statement*)** dengan formula matematis perilaku:
-
-$$\text{"Ketika [Anteseden/Konteks], santri cenderung melakukan [Perilaku], dengan tujuan untuk [Fungsi Kebutuhan]."}$$
-
+> *"Ketika [Anteseden/Konteks], santri cenderung melakukan [Perilaku], dengan tujuan untuk [Fungsi Kebutuhan]."*
 *Contoh Formulasi Presisi:*  
 *"Ketika santri dihadapkan pada tugas menghafal lebih dari setengah halaman Al-Qur'an pada sesi halaqah tahfidz sore (Anteseden), santri cenderung membuat keributan di kamar mandi dan menolak setoran (Perilaku), dengan tujuan untuk menghindari rasa malu akibat bacaan tajwidnya yang terbata-bata di hadapan teman sebaya (Fungsi Escape)."*
 

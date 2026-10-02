@@ -96,8 +96,9 @@ Dalam ketiga situasi ini, konselor BK memiliki kewajiban moral dan syar'i untuk 
 
 Sistem yang hebat bukanlah sistem yang sekali dirancang lalu ditinggalkan. Sistem yang kokoh adalah sistem yang senantiasa menguji dirinya sendiri, mendeteksi kelemahan secara dini, dan melakukan penyempurnaan berkesinambungan. Dalam tradisi Islam, etos ini disebut sebagai **Itqan**—bekerja dengan standar mutu terbaik dan penuh ketelitian.
 
-$$\text{"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal, ia melakukannya secara itqan (profesional, tuntas, dan bermutu tinggi)"}$$
-$$\text{(إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ)}$$[^5]
+> إِنَّ اللَّهَ يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
+>
+> *"Sesungguhnya Allah mencintai seseorang di antara kalian yang apabila mengerjakan suatu amal, ia melakukannya secara itqan (profesional, tuntas, dan bermutu tinggi)."*[^5]
 
 TUMBUH merumuskan siklus penjaminan mutu kelembagaan melalui tiga audit berkala:
 

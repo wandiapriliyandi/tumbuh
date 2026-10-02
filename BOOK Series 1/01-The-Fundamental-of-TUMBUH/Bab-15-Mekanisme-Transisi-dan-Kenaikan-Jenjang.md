@@ -117,9 +117,7 @@ Upacara kenaikan jenjang (*Rites of Passage*) di pesantren TUMBUH dirancang buka
 - **Pelaksanaan Khidmat di Masjid:** Upacara digelar di dalam masjid ba'da salat subuh berjamaah, diawali dengan khataman Al-Qur'an dan zikir bersama untuk mensucikan niat.
 - **Simbolisme Penyerahan Amanah:** Santri yang naik jenjang tidak diberikan atribut-atribut militeristik atau seragam kasta yang mencolok. Mereka menerima simbol amanah pelayanan—seperti mushaf Al-Qur'an saku, selendang khidmah asrama, atau buku panduan bimbingan adik kelas.
 - **Ikrar Khidmah Santri:** Santri yang dikukuhkan mengucapkan janji setia bukan untuk menguasai pondok, melainkan ikrar untuk menjadi pelayan dan pelindung bagi adik-adik kelas mereka:
-  $$\text{"Kami berikrar di hadapan Allah untuk merendahkan hati kami di hadapan saudara kami,}$$
-  $$\text{menjadi perisai bagi yang lemah, pembimbing bagi yang lalai,}$$
-  $$\text{dan pelayan kebaikan di seluruh sudut pondok ini demi mencari keridhaan Ilahi."}$$
+  > *"Kami berikrar di hadapan Allah untuk merendahkan hati kami di hadapan saudara kami, menjadi perisai bagi yang lemah, pembimbing bagi yang lalai, dan pelayan kebaikan di seluruh sudut pondok ini demi mencari keridhaan Ilahi."*
 
 #### 2. Dekonstruksi Hak Istimewa Feodal (Eliminasi Privilese Semu)
 Di lingkungan asrama TUMBUH diberlakukan aturan kelembagaan yang tegas untuk membongkar privilese-privilese feodal yang sering disalahgunakan oleh santri senior:

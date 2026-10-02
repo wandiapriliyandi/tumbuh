@@ -398,7 +398,13 @@ foreach ($file in $MarkdownFiles) {
       return defaultFence(tokens, idx, options, env, self);
     };
 
-    document.getElementById('content').innerHTML = md.render(mdContent);
+    // Bersihkan sintaks KaTeX/LaTeX sisa jika ada
+    const cleanedMd = mdContent
+      .replace(/\`$\\`$\\text\{ext\{([\s\S]*?)\}\`$\\`$/g, '`$1')
+      .replace(/\`$\\`$\\text\{([\s\S]*?)\}\`$\\`$/g, '`$1')
+      .replace(/\`$\\`$([\s\S]*?)\`$\\`$/g, '`$1');
+
+    document.getElementById('content').innerHTML = md.render(cleanedMd);
 
     // Tandai teks Arab untuk font & perataan RTL yang akurat
     document.querySelectorAll('blockquote p, p').forEach(el => {
