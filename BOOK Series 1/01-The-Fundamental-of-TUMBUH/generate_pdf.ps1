@@ -401,6 +401,21 @@ foreach ($file in $MarkdownFiles) {
     $MermaidCount = ([regex]::Matches($rawMarkdown, '```mermaid')).Count
     $BudgetMs = 6000 + ($MermaidCount * 1200)
 
+    # Periksa apakah berkas PDF target sedang terkunci oleh viewer (misal: Adobe Acrobat)
+    if (Test-Path $TargetPdf) {
+        $isLocked = $false
+        try {
+            $testStream = [System.IO.File]::Open($TargetPdf, [System.IO.FileMode]::Open, [System.IO.FileAccess]::Write, [System.IO.FileShare]::None)
+            $testStream.Close()
+        } catch {
+            $isLocked = $true
+        }
+        if ($isLocked) {
+            Write-Host " TERKUNCI! (Tutup Adobe Acrobat / PDF Viewer yang sedang membukanya)" -ForegroundColor Red
+            continue
+        }
+    }
+
     # Eksekusi Chromium Headless untuk Print to PDF
     $ProcessArgs = @(
         "--headless",

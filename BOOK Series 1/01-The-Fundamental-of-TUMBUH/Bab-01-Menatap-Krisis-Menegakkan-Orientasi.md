@@ -49,12 +49,12 @@ Di dalam institusi total, manusia mengalami apa yang disebut Goffman sebagai **P
 
 ```mermaid
 graph TD
-    A["Institusi Total & Disiplin Represif"] --> B["Pembunuhan Agensi Pribadi (Mortification of Self)"]
-    B --> C["Santri Patuh Semata Karena Pengawas Eksternal (Musyrif & Rotan)"]
+    A["Institusi Total & Disiplin Represif"] --> B["Pembunuhan Agensi Pribadi<br/>(Mortification of the Self)"]
+    B --> C["Santri Patuh Semata Karena Pengawas Eksternal<br/>(Musyrif, Bel Asrama, & Rotan)"]
     C --> D["Santri Lulus & Keluar dari Gerbang Pondok"]
     D --> E["PENGAWAS EKSTERNAL HILANG SEKETIKA"]
-    E --> F["Ketiadaan Regulasi Moral Internal (Muraqabah Tidak Pernah Tumbuh)"]
-    F --> G["Ledakan Desakralisasi Nilai & Keruntuhan Karakter Bebas"]
+    E --> F["Ketiadaan Regulasi Moral Internal<br/>(Muraqabatullah Tidak Pernah Tumbuh)"]
+    F --> G["Ledakan Desakralisasi Nilai &<br/>Keruntuhan Karakter di Ruang Bebas"]
 ```
 
 Ketika seorang santri lulus dari pesantren semacam ini, **pengawas eksternal (musyrif, bel asrama, ancaman takzir) tiba-tiba lenyap sama sekali**. Karena selama bertahun-tahun di asrama ia tidak pernah dilatih membangun kendali moral internal (*Internal Locus of Control / Muraqabatullah*), jiwanya limbung tanpa arah. Nilai-nilai adab yang dihafalnya tidak pernah mengakar menjadi watak kepribadian sejati; nilai-nilai itu hanyalah seragam formalitas yang ia kenakan demi menghindari hukuman. Begitu seragam ancaman itu dilepas, runtuhlah seluruh bangunan moralitasnya.
@@ -73,9 +73,9 @@ Secara anatomis dan fungsional, otak manusia tersusun atas tiga tingkatan evolus
 graph TD
     subgraph ARSITEKTUR_OTAK["Hierarki Saraf Otak Santri"]
         direction TB
-        PFC["3. PREFRONTAL CORTEX (PFC) & NEOKORTEKS<br/>Pusat Pertimbangan Moral, Nalar Logis, Empati, Regulasi Diri & Hafalan"]
-        LIM["2. SISTEM LIMBIK (AMIGDALA & HIPOKAMPUS)<br/>Pusat Pengolahan Emosi, Memori & Alarm Bahaya Purba"]
-        BRA["1. BATANG OTAK (REPTILIAN BRAIN)<br/>Pusat Detak Jantung, Pernapasan, Tekanan Darah & Refleks Bertahan Hidup"]
+        PFC["3. PREFRONTAL CORTEX (PFC) & NEOKORTEKS<br/>Pusat Pertimbangan Moral, Nalar Logis,<br/>Empati, Regulasi Diri, & Retensi Hafalan"]
+        LIM["2. SISTEM LIMBIK (AMIGDALA & HIPOKAMPUS)<br/>Pusat Pengolahan Emosi, Memori,<br/>& Alarm Bahaya Purba"]
+        BRA["1. BATANG OTAK (REPTILIAN BRAIN)<br/>Pusat Detak Jantung, Pernapasan,<br/>Tekanan Darah, & Refleks Bertahan Hidup"]
         
         BRA --- LIM
         LIM --- PFC
@@ -243,7 +243,7 @@ Pendidik TUMBUH akan membedah ekosistem kehidupannya:
 
 Santri tidak diciptakan sebagai kertas kosong tanpa nilai (*tabula rasa*), bukan pula terlahir membawa kutukan dosa asali. Santri lahir membawa **benih fitrah kesucian bertauhid** sebagaimana disabdakan oleh Rasulullah ﷺ:
 
-$$\text{ext{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
+$$\text{كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ}$$
 
 > *"Setiap anak dilahirkan di atas fitrah (kesucian bertauhid). Maka kedua orang tuanyalah (lingkungan pengasuhnya) yang menjadikannya Yahudi, Nasrani, atau Majusi."*  
 > (HR. Al-Bukhari no. 1358 dan Muslim no. 2658)[^9]

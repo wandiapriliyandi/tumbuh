@@ -58,12 +58,12 @@ Di dalam institusi total, manusia mengalami apa yang disebut Goffman sebagai **P
 
 ```mermaid
 graph TD
-    A["Institusi Total & Disiplin Represif"] --> B["Pembunuhan Agensi Pribadi (Mortification of Self)"]
-    B --> C["Santri Patuh Semata Karena Pengawas Eksternal (Musyrif & Rotan)"]
+    A["Institusi Total & Disiplin Represif"] --> B["Pembunuhan Agensi Pribadi<br/>(Mortification of the Self)"]
+    B --> C["Santri Patuh Semata Karena Pengawas Eksternal<br/>(Musyrif, Bel Asrama, & Rotan)"]
     C --> D["Santri Lulus & Keluar dari Gerbang Pondok"]
     D --> E["PENGAWAS EKSTERNAL HILANG SEKETIKA"]
-    E --> F["Ketiadaan Regulasi Moral Internal (Muraqabah Tidak Pernah Tumbuh)"]
-    F --> G["Ledakan Desakralisasi Nilai & Keruntuhan Karakter Bebas"]
+    E --> F["Ketiadaan Regulasi Moral Internal<br/>(Muraqabatullah Tidak Pernah Tumbuh)"]
+    F --> G["Ledakan Desakralisasi Nilai &<br/>Keruntuhan Karakter di Ruang Bebas"]
 ```
 
 Ketika seorang santri lulus dari pesantren semacam ini, **pengawas eksternal (musyrif, bel asrama, ancaman takzir) tiba-tiba lenyap sama sekali**. Karena selama bertahun-tahun di asrama ia tidak pernah dilatih membangun kendali moral internal (*Internal Locus of Control / Muraqabatullah*), jiwanya limbung tanpa arah. Nilai-nilai adab yang dihafalnya tidak pernah mengakar menjadi watak kepribadian sejati; nilai-nilai itu hanyalah seragam formalitas yang ia kenakan demi menghindari hukuman. Begitu seragam ancaman itu dilepas, runtuhlah seluruh bangunan moralitasnya.
