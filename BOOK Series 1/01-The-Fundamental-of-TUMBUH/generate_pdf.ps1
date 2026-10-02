@@ -388,6 +388,10 @@ foreach ($file in $MarkdownFiles) {
       typographer: true
     }).use(window.markdownitFootnote);
 
+    md.renderer.rules.footnote_caption = function (tokens, idx) {
+      return Number(tokens[idx].meta.id + 1).toString();
+    };
+
     const defaultFence = md.renderer.rules.fence;
     md.renderer.rules.fence = function (tokens, idx, options, env, self) {
       const token = tokens[idx];

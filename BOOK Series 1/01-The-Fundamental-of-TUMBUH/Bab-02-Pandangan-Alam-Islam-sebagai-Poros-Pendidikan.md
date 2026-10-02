@@ -159,7 +159,7 @@ graph TD
     end
 ```
 
-Penelitian neurobiologi mutakhir oleh Prof. Matthew Walker dari University of California, Berkeley, dan tim peneliti tidur dunia membuktikan sunnatullah biologis yang sangat menakjubkan[^6]:
+Penelitian neurobiologi mutakhir oleh Prof. Matthew Walker dari University of California, Berkeley, dan tim peneliti tidur dunia membuktikan sunnatullah biologis yang sangat menakjubkan[^7]:
 
 1. **Fungsi Hipokampus Sebagai Kotak Surat Sementara**:  
    Saat santri menghafal Al-Qur'an di siang hari, ayat-ayat tersebut disimpan di **Hipokampus**—organ penyimpanan sementara yang kapasitasnya sangat terbatas. Jika santri terus dipaksa menghafal tanpa tidur yang cukup, hipokampus mengalami kejenuhan (*saturation*); informasi baru tidak bisa masuk, dan informasi yang baru masuk akan langsung terhapus.
@@ -186,10 +186,10 @@ Al-Qur'an al-Karim menetapkan kedudukan ontologis manusia dengan bahasa yang san
 > وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
 >
 > *"Dan sesungguhnya telah Kami muliakan anak-anak keturunan Adam; Kami angkut mereka di daratan dan di lautan, Kami anugerahkan kepada mereka rezeki dari yang baik-baik, dan Kami lebihkan mereka di atas kebanyakan makhluk yang telah Kami ciptakan dengan kelebihan yang sempurna."*  
-> (QS. Al-Isra' [17]: 70)[^7]
+> (QS. Al-Isra' [17]: 70)[^8]
 
 Perhatikan penegasan ayat ini: **وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ** (*Dan sungguh Kami telah memuliakan anak-cucu Adam*).  
-Imam Fakhruddin Ar-Razi dalam tafsir monumentalnya *Mafatih al-Ghaib* menjelaskan bahwa kemuliaan (*al-karamah*) yang dianugerahkan Allah kepada manusia mencakup seluruh dimensinya: rupa fisiknya yang indah dan tegak lurus, akal budinya yang mampu menyingkap rahasia alam, kemampuannya memilih dengan sadar (*al-ikhtiyar*), serta kelayakannya menerima khitab syariat dan mengemban amanah memakmurkan bumi (*'imaratul ardh*)[^8].
+Imam Fakhruddin Ar-Razi dalam tafsir monumentalnya *Mafatih al-Ghaib* menjelaskan bahwa kemuliaan (*al-karamah*) yang dianugerahkan Allah kepada manusia mencakup seluruh dimensinya: rupa fisiknya yang indah dan tegak lurus, akal budinya yang mampu menyingkap rahasia alam, kemampuannya memilih dengan sadar (*al-ikhtiyar*), serta kelayakannya menerima khitab syariat dan mengemban amanah memakmurkan bumi (*'imaratul ardh*)[^9].
 
 Kemuliaan ini adalah **kemuliaan asasi (*inherent ontological dignity*)**. Kemuliaan ini melekat pada diri seorang santri semata-mata karena ia adalah manusia ciptaan Allah yang ditiupkan ruh ke dalam raganya.
 
@@ -235,15 +235,15 @@ Santri dibimbing untuk menyadari bahwa tujuan penciptaannya di muka bumi adalah 
 > وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِيَعْبُدُونِ
 >
 > *"Dan Aku tidak menciptakan jin dan manusia melainkan supaya mereka beribadah kepada-Ku."*  
-> (QS. Adz-Dzariyat [51]: 56)[^9]
+> (QS. Adz-Dzariyat [51]: 56)[^10]
 
-Imam Ibnu Katsir menukil penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai kalimat *illa liya'budun*, yakni: *illa liya'rifun* (melainkan agar mereka mengenal-Ku, mencintai-Ku, dan menaati perintah-Ku secara sadar dan sukarela). Ibadah bukanlah keterpaksaan budak yang ketakutan, melainkan pengenalan cinta fitrah seorang hamba kepada Rabb-nya.[^9] Namun ibadah di sini tidak dipahami secara kerdil hanya sebatas ritual mekanis di atas sajadah. Ibadah dalam ekosistem TUMBUH meluas ke seluruh lorong asrama: menjaga kebersihan tempat tidur adalah ibadah, menyapa saudara sekamar dengan senyuman adalah ibadah sedekah, mematikan kran air yang bocor adalah ibadah menjaga amanah bumi, dan belajar sungguh-sungguh adalah ibadah jihad fi sabilillah.
+Imam Ibnu Katsir menukil penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai kalimat *illa liya'budun*, yakni: *illa liya'rifun* (melainkan agar mereka mengenal-Ku, mencintai-Ku, dan menaati perintah-Ku secara sadar dan sukarela). Ibadah bukanlah keterpaksaan budak yang ketakutan, melainkan pengenalan cinta fitrah seorang hamba kepada Rabb-nya. Namun ibadah di sini tidak dipahami secara kerdil hanya sebatas ritual mekanis di atas sajadah. Ibadah dalam ekosistem TUMBUH meluas ke seluruh lorong asrama: menjaga kebersihan tempat tidur adalah ibadah, menyapa saudara sekamar dengan senyuman adalah ibadah sedekah, mematikan kran air yang bocor adalah ibadah menjaga amanah bumi, dan belajar sungguh-sungguh adalah ibadah jihad fi sabilillah.
 
 #### 2. Mandat Amanah Sosial dan 'Imaratul Ardh: Memakmurkan Bumi
 Santri dididik untuk tidak menjadi manusia yang egois (*individualistic piety*). Kamar asrama adalah laboratorium miniatur peradaban. Di sanalah santri belajar seni bermasyarakat: bagaimana meredam ego pribadi saat berhadapan dengan perbedaan karakter teman, bagaimana berinisiatif menolong kawan yang sakit tanpa diminta, dan bagaimana merawat fasilitas bersama agar tidak rusak. Santri dilatih menjadi insan yang bermanfaat bagi sesamanya (*khairun nasi anfa'uhum lin-nas*).
 
 #### 3. Mandat Ar-Rusyd: Kemandirian Batin Berkesadaran Penuh
-Inilah puncak pencapaian kepribadian dalam arsitektur perkembangan TUMBUH. Istilah **Ar-Rusyd** adalah konsep Al-Qur'an yang menggambarkan tingkat kematangan tertinggi ketika seseorang telah memiliki kecerdasan intelektual, kemandirian emosional, dan integritas moral yang kokoh (QS. An-Nisa' [4]: 6)[^10].
+Inilah puncak pencapaian kepribadian dalam arsitektur perkembangan TUMBUH. Istilah **Ar-Rusyd** adalah konsep Al-Qur'an yang menggambarkan tingkat kematangan tertinggi ketika seseorang telah memiliki kecerdasan intelektual, kemandirian emosional, dan integritas moral yang kokoh (QS. An-Nisa' [4]: 6)[^11].
 
 Insan yang telah mencapai derajat *rusyd* adalah pribadi yang:
 * Tidak lagi memerlukan rotan musyrif untuk melangkah salat subuh, karena nuraninya sendiri yang membangunkannya bermunajat kepada Allah.
@@ -258,7 +258,7 @@ Inilah muara akhir dari seluruh tangga progresi kemandirian TUMBUH (J1 hingga J4
 
 Bagaimana memastikan bahwa tata tertib, sistem perizinan, dan pola pembinaan di pesantren kita benar-benar berdiri di atas syariat Allah dan bukan di atas hawa nafsu pengurus?
 
-Ukuran pengujinya adalah **Maqashid Syari'ah (Tujuan-Tujuan Asasi Syariat)** sebagaimana dirumuskan oleh Imam Al-Ghazali dalam *Al-Mustashfa* dan Imam Asy-Syathibi dalam *Al-Muwafaqat*[^11]. Seluruh syariat Islam diturunkan untuk memelihara lima hak asasi eksistensial manusia (*Ad-Dharuriyyat al-Khamsah*).
+Ukuran pengujinya adalah **Maqashid Syari'ah (Tujuan-Tujuan Asasi Syariat)** sebagaimana dirumuskan oleh Imam Al-Ghazali dalam *Al-Mustashfa* dan Imam Asy-Syathibi dalam *Al-Muwafaqat*[^12]. Seluruh syariat Islam diturunkan untuk memelihara lima hak asasi eksistensial manusia (*Ad-Dharuriyyat al-Khamsah*).
 
 Mari kita bedah secara mendalam bagaimana kelima pilar Maqashid Syari'ah ini wajib diterjemahkan ke dalam tata kelola asrama pesantren 24 jam:
 
@@ -301,7 +301,7 @@ Ketika kelima pilar Maqashid Syari'ah ini tegak berdiri di seluruh ruang asrama,
 ### 2.7 Rekonseptualisasi Adab: Keadilan Menempatkan Segala Sesuatu pada Kedudukannya
 
 Prof. Dr. Syed Muhammad Naquib al-Attas merumuskan definisi adab yang melampaui sekadar tata krama lahiriah atau etiket sosial permukaan:
-> *"Adab adalah pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud ciptaan Allah tersusun secara hierarkis sesuai tingkat keluhuran dan derajat nilainya, serta pengakuan terhadap kedudukan diri sendiri yang tepat dalam tata susunan wujud tersebut, yang diwujudkan dalam tindakan adil terhadap diri sendiri dan semesta."*[^12]
+> *"Adab adalah pengenalan dan pengakuan tentang hakikat bahwa ilmu dan segala wujud ciptaan Allah tersusun secara hierarkis sesuai tingkat keluhuran dan derajat nilainya, serta pengakuan terhadap kedudukan diri sendiri yang tepat dalam tata susunan wujud tersebut, yang diwujudkan dalam tindakan adil terhadap diri sendiri dan semesta."*[^13]
 
 Ketiadaan adab (*the loss of adab*) selalu bermula dari **Kezaliman (*Azh-Zhulm*)**, yang secara etimologis bermakna: *wad'u syai-in fi ghairi maudhi'ihi* (meletakkan sesuatu bukan pada tempatnya yang hak).
 
@@ -336,7 +336,7 @@ Bagaimanakah pandangan alam Islam mewujud dalam irama kehidupan konkret santri d
 | **17.00 – 18.00** | Mandi Bersih & Persiapan Maghrib | Tergesa-gesa; saling serobot pakaian jemuran. | Menata kerapian lahiriah menyambut waktu hening petang; membaca zikir al-Ma'tsurat petang. |
 | **18.00 – 20.00** | Maghrib, Halaqah Tahfidz & Isya | Menyetor hafalan dengan ancaman berdiri; santri cemas dan panik. | Konsolidasi kalamullah dalam suasana khusyuk; guru menyimak dengan cinta dan kesabaran tarbawi. |
 | **20.00 – 21.30** | Muthala'ah Mandiri & Majlis Kamar | Pengawas merazia dengan rotan; kamar tegang dan hening palsu. | *Majlis al-Ghurfah*: Lingkaran kamar evaluasi hari, saling menguatkan, apresiasi 4:1, dan doa malam. |
-| **21.30 – 03.30** | Padam Lampu & Tidur Lelap (6–7 Jam) | Dipotong hingga larut malam atas nama tirakat semu; santri kekurangan tidur kronis. | *Ibadah Tidur Biologis*: Menjaga sistem glimfatik otak bekerja membersihkan racun saraf demi memori abadi.[^13] |
+| **21.30 – 03.30** | Padam Lampu & Tidur Lelap (6–7 Jam) | Dipotong hingga larut malam atas nama tirakat semu; santri kekurangan tidur kronis. | *Ibadah Tidur Biologis*: Menjaga sistem glimfatik otak bekerja membersihkan racun saraf demi memori abadi. |
 
 Ketika seluruh siklus hidup 24 jam ini dijalankan dengan penuh kesadaran tauhid, santri tidak lagi merasa "sedang dihukum di penjara pondok", melainkan merasa sedang **hidup di dalam sebuah miniatur kota peradaban Nabawiyyah yang damai, suci, dan memberdayakan**.
 
@@ -356,10 +356,10 @@ Di Bab 3, kita akan menelaah integrasi epistemologis antara wahyu, akal budi lur
 [^4]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Tahqiq: Sami bin Muhammad as-Salamah (Riyadh: Dar Thayyibah, 1999), Jilid VIII, hlm. 526–530.
 [^5]: Ahmad bin Muhammad bin Hanbal, *Al-Musnad*, Tahqiq: Syu'aib al-Arna'uth dkk. (Beirut: Mu'assasah ar-Risalah, 2001), Jilid II, hlm. 333, hadits no. 1095; Sulaiman bin Ahmad Ath-Thabarani, *Al-Mu'jam al-Kabir* (Kairo: Maktabah Ibn Taimiyyah, 1994), Jilid XVIII, hlm. 170.
 [^6]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Tarikh ar-Rusul wa al-Muluk* (Tarikh Ath-Thabari) (Kairo: Dar al-Ma'arif, 1967), Jilid III, hlm. 224; Ibnu Katsir, *Al-Bidayah wa an-Nihayah* (Giza: Dar Hijr, 1997), Jilid VI, hlm. 305–306.
-[^7]: Al-Qur'an al-Karim, Surah Al-Isra' [17]: 70.
-[^8]: Fakhruddin Muhammad bin Umar Ar-Razi, *Mafatih al-Ghaib* (At-Tafsir al-Kabir) (Beirut: Dar al-Fikr, 1981), Jilid XXI, hlm. 13–18.
-[^9]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 425–426; Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXII, hlm. 437–440.
-[^10]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an* (Tafsir Al-Qurthubi), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Beirut: Mu'assasah ar-Risalah, 2006), Jilid VI, hlm. 43–48.
-[^11]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420; Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Masyhur bin Hasan Al Salman (Kobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–32.
-[^12]: Syed Muhammad Naquib al-Attas, *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and the Nature of Reality* (Kuala Lumpur: ISTAC, 1995), hlm. 102–115 mengenai definisi filosofis adab dan kaitannya dengan martabat keadilan (*'adl*).
-[^13]: Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 105–142; Robert Stickgold, "Sleep-dependent memory consolidation", *Nature*, Vol. 437 (2005), hlm. 1272–1278; Lulu Xie dkk., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science*, Vol. 342, No. 6156 (2013), hlm. 373–377.
+[^7]: Matthew Walker, *Why We Sleep: Unlocking the Power of Sleep and Dreams* (New York: Scribner, 2017), hlm. 105–142; Robert Stickgold, "Sleep-dependent memory consolidation", *Nature*, Vol. 437 (2005), hlm. 1272–1278; Lulu Xie dkk., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science*, Vol. 342, No. 6156 (2013), hlm. 373–377.
+[^8]: Al-Qur'an al-Karim, Surah Al-Isra' [17]: 70.
+[^9]: Fakhruddin Muhammad bin Umar Ar-Razi, *Mafatih al-Ghaib* (At-Tafsir al-Kabir) (Beirut: Dar al-Fikr, 1981), Jilid XXI, hlm. 13–18.
+[^10]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 425–426; Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXII, hlm. 437–440.
+[^11]: Abu Abdillah Muhammad bin Ahmad Al-Qurthubi, *Al-Jami' li Ahkam al-Qur'an* (Tafsir Al-Qurthubi), Tahqiq: Dr. Abdullah bin Abdul Muhsin At-Turki (Beirut: Mu'assasah ar-Risalah, 2006), Jilid VI, hlm. 43–48.
+[^12]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Tahqiq: Dr. Muhammad Sulaiman al-Asyqar (Beirut: Mu'assasah ar-Risalah, 1997), Jilid I, hlm. 416–420; Abu Ishaq Ibrahim bin Musa Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Tahqiq: Masyhur bin Hasan Al Salman (Kobar: Dar Ibn 'Affan, 1997), Jilid II, hlm. 17–32.
+[^13]: Syed Muhammad Naquib al-Attas, *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and the Nature of Reality* (Kuala Lumpur: ISTAC, 1995), hlm. 102–115 mengenai definisi filosofis adab dan kaitannya dengan martabat keadilan (*'adl*).

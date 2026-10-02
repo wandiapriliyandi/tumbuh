@@ -8,7 +8,7 @@
 
 ---
 
-Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat yang mulia ini adalah *ashlun kabir* (fondasi agung yang sangat fundamental) dalam meneladani baginda Rasulullah ﷺ dalam segala ucapan, perbuatan, dan seluruh tingkah laku hidup beliau.[^1] Para pendidik santri tidak berhak menuntut adab dari santri jika pribadi mereka sendiri belum mencerminkan keluhuran teladan nubuwah ini.
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat yang mulia ini adalah *ashlun kabir* (fondasi agung yang sangat fundamental) dalam meneladani baginda Rasulullah ﷺ dalam segala ucapan, perbuatan, dan seluruh tingkah laku hidup beliau. Para pendidik santri tidak berhak menuntut adab dari santri jika pribadi mereka sendiri belum mencerminkan keluhuran teladan nubuwah ini.
 
 ### Prolog: Keheningan di Serambi Asrama
 

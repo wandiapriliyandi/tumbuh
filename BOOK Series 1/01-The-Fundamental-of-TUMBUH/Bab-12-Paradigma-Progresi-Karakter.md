@@ -8,7 +8,7 @@
 
 ---
 
-Sahabat Abdullah bin Abbas رضي الله عنهما dalam riwayat *Shahih al-Bukhari* menafsirkan firman Allah *latarkabunna thabaqan 'an thabaq*: *"Halan ba'da hal"*—yakni kalian benar-benar akan menapaki keadaan demi keadaan dan fase demi fase dalam perjalanan hidup dan pematangan jiwa.[^1] 
+Sahabat Abdullah bin Abbas رضي الله عنهما dalam riwayat *Shahih al-Bukhari* menafsirkan firman Allah *latarkabunna thabaqan 'an thabaq*: *"Halan ba'da hal"*—yakni kalian benar-benar akan menapaki keadaan demi keadaan dan fase demi fase dalam perjalanan hidup dan pematangan jiwa. 
 
 Imam Abu Ja'far Ath-Thabari dan Al-Hafizh Ibnu Katsir menjelaskan bahwa sunnatullah penciptaan manusia senantiasa bergerak melalui tahapan-tahapan bertingkat: dari lemah menuju kuat, dari kebodohan menuju ilmu, dan dari ketergantungan menuju kemandirian akal budi.[^2] Pertumbuhan karakter santri di pesantren adalah manifestasi nyata dari hukum *thabaqan 'an thabaq* ini.
 

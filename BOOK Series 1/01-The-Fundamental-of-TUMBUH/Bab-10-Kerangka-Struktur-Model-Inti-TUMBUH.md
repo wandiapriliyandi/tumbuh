@@ -8,7 +8,7 @@
 
 ---
 
-Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan doa para hamba *Ar-Rahman* ini: bahwa yang dimaksud *qurrata a'yun* (penyejuk pandangan mata) adalah ketika seorang mukmin melihat keturunannya taat kepada Allah, beradab mulia, dan menjauhi maksiat; tidak ada kebahagiaan yang lebih membuncah di dalam dada seorang mukmin selain menyaksikan anaknya menjadi hamba Allah yang shalih. Sedangkan makna *waj'alna lil-muttaqina imama*—sebagaimana ditegaskan oleh Ibnu Abbas dan Al-Hasan Al-Bashri—adalah agar anak keturunan mereka menjadi para pemimpin dan teladan dalam kebajikan yang diikuti jejak kesalehannya oleh orang-orang yang bertakwa.[^1] Inilah visi profil insan yang menjadi poros Model Inti TUMBUH.
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan doa para hamba *Ar-Rahman* ini: bahwa yang dimaksud *qurrata a'yun* (penyejuk pandangan mata) adalah ketika seorang mukmin melihat keturunannya taat kepada Allah, beradab mulia, dan menjauhi maksiat; tidak ada kebahagiaan yang lebih membuncah di dalam dada seorang mukmin selain menyaksikan anaknya menjadi hamba Allah yang shalih. Sedangkan makna *waj'alna lil-muttaqina imama*—sebagaimana ditegaskan oleh Ibnu Abbas dan Al-Hasan Al-Bashri—adalah agar anak keturunan mereka menjadi para pemimpin dan teladan dalam kebajikan yang diikuti jejak kesalehannya oleh orang-orang yang bertakwa. Inilah visi profil insan yang menjadi poros Model Inti TUMBUH.
 
 ### 10.1 Dari Filsafat Menuju Cetak Biru: Mengapa Pesantren Memerlukan Model Inti?
 
@@ -84,7 +84,7 @@ Ketiga ranah ini tidak boleh dipisah-pisahkan; seorang santri yang menyakiti tem
 
 ### 10.3 Sepuluh Karakter Profil Lulusan: Insan Rusyd yang Menjadi Teladan
 
-Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disintesiskan dengan kebutuhan peradaban kontemporer, ekosistem TUMBUH menetapkan **Sepuluh Karakter Profil Lulusan (*The Ten Graduate Profiles*)** yang menjadi gambaran kepribadian santri saat menyelesaikan masa tarbiyahnya[^2],[^3]:
+Merujuk pada tradisi pembinaan kader Islam yang diwariskan para ulama dan disintesiskan dengan kebutuhan peradaban kontemporer, ekosistem TUMBUH menetapkan **Sepuluh Karakter Profil Lulusan (*The Ten Graduate Profiles*)** yang menjadi gambaran kepribadian santri saat menyelesaikan masa tarbiyahnya[^2]:
 
 ```mermaid
 graph TD
@@ -143,7 +143,7 @@ Mari kita terjemahkan kesepuluh profil ini ke dalam indikator perilaku nyata di 
 
 ### 10.4 Arsitektur Delapan Kapasitas Inti (*The Eight Core Capacities - 8 CC*)
 
-Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH menyusun mesin fungsional yang dinamakan **Delapan Kapasitas Inti (*The Eight Core Capacities / 8 CC*)**[^2]. 
+Untuk merealisasikan Sepuluh Karakter Profil Lulusan di atas, arsitektur TUMBUH menyusun mesin fungsional yang dinamakan **Delapan Kapasitas Inti (*The Eight Core Capacities / 8 CC*)**[^3]. 
 
 Kapasitas Inti adalah serangkaian keterampilan eksekutif kognitif, emosional, fisik, dan sosial yang **dapat dilatih, diobservasi, dan diukur perkembangannya secara formatif**:
 
@@ -299,5 +299,5 @@ Di Bab 11, kita akan membedah Rekayasa Lingkungan Asrama dan Ekosistem Terpadu 2
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Furqan [25]: 74.
-[^2]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_ARCHITECTURE_PURPOSE_AND_LOGIC.md` dan `01_CORE_CAPACITIES/README.md`.
-[^3]: Hasan Al-Banna, *Risalatut Ta'alim*, Kairo: Dar at-Tauzi' wa an-Nasyr al-Islamiyyah, 1992, hlm. 12–18 mengenai sepuluh karakter muwashafat tarbiyah islamiyah; diselaraskan dengan Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE/README.md`.
+[^2]: Hasan Al-Banna, *Risalatut Ta'alim*, Kairo: Dar at-Tauzi' wa an-Nasyr al-Islamiyyah, 1992, hlm. 12–18 mengenai sepuluh karakter muwashafat tarbiyah islamiyah; diselaraskan dengan Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/01_GRADUATE_PROFILE/README.md`.
+[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/01_ARCHITECTURE_PURPOSE_AND_LOGIC.md` dan `01_CORE_CAPACITIES/README.md`.

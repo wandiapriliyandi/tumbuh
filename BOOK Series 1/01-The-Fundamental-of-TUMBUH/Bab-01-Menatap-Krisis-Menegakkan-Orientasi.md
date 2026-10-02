@@ -218,7 +218,7 @@ Al-Qur'an al-Karim mengabadikan perumpamaan manusia beriman dan kalimat thayyiba
 > أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 >
 > *"Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghunjam ke dalam bumi dan cabangnya menjulang tinggi ke langit. Pohon itu menghasilkan buahnya pada setiap musim dengan izin Rabb-nya. Dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka selalu ingat."*  
-> (QS. Ibrahim [14]: 24–25)[^7]
+> (QS. Ibrahim [14]: 24–25)
 
 Imam Abu Ja'far Ibnu Jarir Ath-Thabari dalam kitab tafsirnya meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa *syajaratin thayyibah* (pohon yang baik) adalah perumpamaan kalbu dan jiwa seorang mukmin; akarnya yang kokoh menghunjam di bumi adalah keimanan tauhid (*La ilaha illallah*) yang menancap di batinnya, cabangnya yang menjulang ke langit adalah amal shalih dan akhlak mulianya yang diangkat ke haribaan Allah, serta buahnya adalah adab dan kebajikan yang dipetik setiap saat.[^7] 
 

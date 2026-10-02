@@ -51,7 +51,7 @@ Perhatikan perbedaan mendasar antara dua kalimat yang diucapkan oleh seorang pem
 > **Kalimat B (Pemisahan Identitas dan Perilaku - Menumbuhkan Taubat):**  
 > *"Kamu adalah hamba Allah yang mulia dan santri yang berharga di pondok ini; namun perbuatan mengambil sandal kemarin sore adalah tindakan salah yang melanggar adab dan wajib kamu perbaiki."*
 
-Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut **Ramalan yang Mewujud Sendiri (*The Self-Fulfilling Prophecy / Labeling Theory*)** sebagaimana dirumuskan oleh sosiolog Howard Becker[^10].
+Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut **Ramalan yang Mewujud Sendiri (*The Self-Fulfilling Prophecy / Labeling Theory*)** sebagaimana dirumuskan oleh sosiolog Howard Becker[^3].
 
 ```mermaid
 graph TD
@@ -68,7 +68,7 @@ Dalam ajaran Islam yang luhur, **dosa tidak pernah melekat kekal pada zat kemanu
 > إِنَّ اللَّهَ يُحِبُّ التَّوَّابِينَ وَيُحِبُّ الْمُتَطَهِّرِينَ
 >
 > *"Sesungguhnya Allah menyukai orang-orang yang bertaubat dan menyukai orang-orang yang menyucikan diri."*  
-> (QS. Al-Baqarah [2]: 222)[^3]
+> (QS. Al-Baqarah [2]: 222)[^4]
 
 Oleh karena itu, ekosistem TUMBUH mengharamkan seluruh bentuk penyematan label permanen kepada santri:
 * Dilarang mencatat nama santri di papan pengumuman dengan judul *"Daftar Santri Bermasalah / Santri Nakal"*.
@@ -83,20 +83,20 @@ Tradisi hukum Islam yang adil meletakkan sebuah kaidah ushul fiqh universal yang
 
 > الْيَقِينُ لَا يَزُولُ بِالشَّكِّ
 >
-> *"Keyakinan yang pasti tidak dapat digugurkan oleh keragu-raguan (praduga)."*[^4]
+> *"Keyakinan yang pasti tidak dapat digugurkan oleh keragu-raguan (praduga)."*[^5]
 
 Dan kaidah fiqih yang kokoh:
 
 > الْأَصْلُ بَرَاءَةُ الذِّمَّةِ
 >
-> *"Hukum asal pada diri setiap manusia adalah bebas dari kesalahan dan tanggungan (Praduga Tak Bersalah / Presumption of Innocence)."*[^5]
+> *"Hukum asal pada diri setiap manusia adalah bebas dari kesalahan dan tanggungan (Praduga Tak Bersalah / Presumption of Innocence)."*[^6]
 
 Artinya: **Seorang santri wajib dianggap bersih dan tidak bersalah hingga ada bukti faktual yang sah, nyata, dan meyakinkan yang membuktikan kesalahannya.**
 
 Tragedi yang kerap terjadi di asrama adalah **Metode Interogasi Inkuisisi**:
 Ketika ada barang yang hilang, santri yang dicurigai disudutkan di ruang gelap, dikelilingi oleh lima orang musyrif, dibentak dengan suara lantang, ditakut-takuti akan diusir, atau dipukul hingga menangis agar ia mengaku.
 
-Secara neurobiologis dan psikologi forensik, metode interogasi represif semacam ini terbukti menghasilkan **Pengakuan Palsu (*Coerced-Compliant False Confession*)**[^6]. Anak yang sedang berada di bawah ancaman teror fisik akan rela mengakui kejahatan apa pun yang dituduhkan kepadanya—bahkan kejahatan yang tidak pernah ia lakukan—semata-mata agar siksaan dan bentakan tersebut segera berhenti!
+Secara neurobiologis dan psikologi forensik, metode interogasi represif semacam ini terbukti menghasilkan **Pengakuan Palsu (*Coerced-Compliant False Confession*)**[^7]. Anak yang sedang berada di bawah ancaman teror fisik akan rela mengakui kejahatan apa pun yang dituduhkan kepadanya—bahkan kejahatan yang tidak pernah ia lakukan—semata-mata agar siksaan dan bentakan tersebut segera berhenti!
 
 TUMBUH memberlakukan protokol penyelidikan adab:
 1. **Hak Didampingi Guru BK / Wali Asrama**: Santri yang sedang dimintai keterangan berhak didampingi oleh wali kelas atau guru BK yang bersikap netral dan mengayomi.
@@ -107,7 +107,7 @@ TUMBUH memberlakukan protokol penyelidikan adab:
 > ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ
 >
 > *"Tolaklah (hindarilah) hukuman dari kaum muslimin semampu kalian. Jika ada celah baginya untuk bebas dari keraguan, maka lepaskanlah dia. Karena sesungguhnya seorang pemimpin yang keliru dalam memaafkan jauh lebih baik daripada ia keliru dalam menjatuhkan hukuman!"*  
-> (HR. At-Tirmidzi no. 1424 dan Al-Hakim dalam *Al-Mustadrak*, sanad shahih lighairihi)[^7]
+> (HR. At-Tirmidzi no. 1424 dan Al-Hakim dalam *Al-Mustadrak*, sanad shahih lighairihi)[^8]
 
 ---
 
@@ -127,7 +127,7 @@ Rasulullah ﷺ memberikan peringatan keras kepada orang-orang yang gemar membong
 > يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تَغْتَابُوا الْمُسْلِمِينَ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ، فَإِنَّهُ مَنْ تَتَبَّعَ عَوْرَةَ أَخِيهِ الْمُسْلِمِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ، وَمَنْ تَتَبَّعَ اللَّهُ عَوْرَتَهُ يَفْضَحْهُ وَلَوْ فِي جَوْفِ بَيْتِهِ
 >
 > *"Wahai orang-orang yang menyatakan Islam dengan lisannya namun keimanan belum meresap ke dalam kalbunya! Janganlah kalian menggunjing kaum muslimin dan janganlah kalian mencari-cari aib rahasia mereka! Karena barangsiapa yang mencari-cari aib saudaranya sesama muslim, niscaya Allah akan membongkar aibnya; dan barangsiapa yang aibnya dibongkar oleh Allah, niscaya Dia akan mempermalukannya sekalipun ia berada di dalam bilik rumahnya sendiri!"*  
-> (HR. Abu Dawud no. 4880 dan At-Tirmidzi no. 2032, sanad shahih)[^8]
+> (HR. Abu Dawud no. 4880 dan At-Tirmidzi no. 2032, sanad shahih)[^10]
 
 Dalam ekosistem TUMBUH, diberlakukan **Doktrin Kerahasiaan Konseling (*Counseling Confidentiality & Sitr al-Muslim*)**:
 1. Catatan pelanggaran, riwayat psikologis, dan penanganan kasus santri berstatus **Dokumen Sangat Rahasia (Confidential)** yang hanya boleh diakses oleh Tim BK resmi, kepala kepengasuhan, dan wali santri yang bersangkutan.
@@ -233,11 +233,11 @@ Di Bab 10, kita melangkah ke Bagian V untuk membedah Kerangka Struktur Model Int
 
 [^1]: Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Birr wa ash-Shilah wa al-Adab, Bab Tahrim azh-Zhulm, hadits no. 2580.
 [^2]: Roy F. Baumeister, Ellen Bratslavsky, Mark Muraven, & Dianne M. Tice, "Ego Depletion: Is the Active Self a Limited Resource?", *Journal of Personality and Social Psychology*, Vol. 74, No. 5 (1998), hlm. 1252–1265; Danziger, Shai, Jonathan Levav, & Liora Avnaim-Pesso, "Extraneous Factors in Judicial Decisions", *Proceedings of the National Academy of Sciences (PNAS)*, Vol. 108, No. 17 (2011), hlm. 6889–6892.
-[^3]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 222.
-[^4]: Jalaluddin Abdurrahman As-Suyuthi, *Al-Asybah wa an-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (Kairo: Dar al-Hadits, 2005), hlm. 120–135; Zainuddin bin Ibrahim Ibnu Nujaim, *Al-Asybah wa an-Nazha'ir* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1999), hlm. 56–72.
-[^5]: Tajuddin Abdul Wahhab As-Subki, *Al-Asybah wa an-Nazha'ir*, Tahqiq: Adil Ahmad Abdul Maujud (Beirut: Dar al-Kutub al-'Ilmiyyah, 1991), Jilid I, hlm. 142–150.
-[^6]: Saul M. Kassin & Gisli H. Gudjonsson, "The Psychology of Confessions: A Review of the Literature and Issues", *Psychological Science in the Public Interest*, Vol. 5, No. 2 (2004), hlm. 33–67; Richard A. Leo, *Police Interrogation and American Justice* (Cambridge: Harvard University Press, 2008).
-[^7]: Abu Isa Muhammad bin Isa At-Tirmidzi, *Jami' at-Tirmidzi*, Kitab al-Hudud, Bab Ma Jaa'a fi Dar'il Hudud, hadits no. 1424; Abu Abdillah Muhammad bin Abdillah Al-Hakim An-Naisaburi, *Al-Mustadrak 'ala ash-Shahihain* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1990), Jilid IV, hlm. 426, disepakati oleh Adz-Dzahabi.
-[^8]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab al-Adab, Bab fi al-Ghibah, hadits no. 4880; Abu Isa At-Tirmidzi, *Jami' at-Tirmidzi*, hadits no. 2032, dinilai hasan-shahih.
+[^3]: Howard S. Becker, *Outsiders: Studies in the Sociology of Deviance* (New York: Free Press, 1963), hlm. 1–39; Robert K. Merton, "The Self-Fulfilling Prophecy", *The Antioch Review*, Vol. 8, No. 2 (1948), hlm. 193–210.
+[^4]: Al-Qur'an al-Karim, Surah Al-Baqarah [2]: 222.
+[^5]: Jalaluddin Abdurrahman As-Suyuthi, *Al-Asybah wa an-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (Kairo: Dar al-Hadits, 2005), hlm. 120–135; Zainuddin bin Ibrahim Ibnu Nujaim, *Al-Asybah wa an-Nazha'ir* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1999), hlm. 56–72.
+[^6]: Tajuddin Abdul Wahhab As-Subki, *Al-Asybah wa an-Nazha'ir*, Tahqiq: Adil Ahmad Abdul Maujud (Beirut: Dar al-Kutub al-'Ilmiyyah, 1991), Jilid I, hlm. 142–150.
+[^7]: Saul M. Kassin & Gisli H. Gudjonsson, "The Psychology of Confessions: A Review of the Literature and Issues", *Psychological Science in the Public Interest*, Vol. 5, No. 2 (2004), hlm. 33–67; Richard A. Leo, *Police Interrogation and American Justice* (Cambridge: Harvard University Press, 2008).
+[^8]: Abu Isa Muhammad bin Isa At-Tirmidzi, *Jami' at-Tirmidzi*, Kitab al-Hudud, Bab Ma Jaa'a fi Dar'il Hudud, hadits no. 1424; Abu Abdillah Muhammad bin Abdillah Al-Hakim An-Naisaburi, *Al-Mustadrak 'ala ash-Shahihain* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1990), Jilid IV, hlm. 426, disepakati oleh Adz-Dzahabi.
 [^9]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VII, hlm. 377–380.
-[^10]: Howard S. Becker, *Outsiders: Studies in the Sociology of Deviance* (New York: Free Press, 1963), hlm. 1–39; Robert K. Merton, "The Self-Fulfilling Prophecy", *The Antioch Review*, Vol. 8, No. 2 (1948), hlm. 193–210.
+[^10]: Abu Dawud Sulaiman bin al-Asy'ats as-Sijistani, *Sunan Abi Dawud*, Kitab al-Adab, Bab fi al-Ghibah, hadits no. 4880; Abu Isa At-Tirmidzi, *Jami' at-Tirmidzi*, hadits no. 2032, dinilai hasan-shahih.

@@ -8,7 +8,7 @@
 
 ---
 
-Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan urutan hikmah pedagogis dari wasiat Luqman kepada putranya: Luqman memulai dengan mendirikan salat sebagai tiang penenang jiwa dan penghubung vertikal dengan Allah, kemudian memerintahkan amar makruf nahi mungkar sebagai latihan kepedulian sosial, lalu memerintahkan bersabar atas cobaan yang niscaya menghadang jalan perjuangan. Luqman memanggil putranya dengan panggilan *Yaa Bunayya*—sebuah sapaan kasih sayang takzim (*at-tashghir li at-tahabbub*) yang menjadi teladan bagaimana musyrif asrama wajib mendekap santri J1 dan J2 yang sedang rapuh.[^1]
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan urutan hikmah pedagogis dari wasiat Luqman kepada putranya: Luqman memulai dengan mendirikan salat sebagai tiang penenang jiwa dan penghubung vertikal dengan Allah, kemudian memerintahkan amar makruf nahi mungkar sebagai latihan kepedulian sosial, lalu memerintahkan bersabar atas cobaan yang niscaya menghadang jalan perjuangan. Luqman memanggil putranya dengan panggilan *Yaa Bunayya*—sebuah sapaan kasih sayang takzim (*at-tashghir li at-tahabbub*) yang menjadi teladan bagaimana musyrif asrama wajib mendekap santri J1 dan J2 yang sedang rapuh.
 
 ### Prolog: Rintik Hujan di Kaca Bilik Santri Baru
 

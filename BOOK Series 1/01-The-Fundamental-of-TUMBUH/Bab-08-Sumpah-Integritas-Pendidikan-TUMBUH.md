@@ -8,7 +8,7 @@
 
 ---
 
-Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa amanat mencakup seluruh perkara syariat yang dipercayakan Allah kepada hamba-Nya, baik amanat ibadah kepada Allah maupun amanat pemeliharaan hak sesama manusia. Khianat terhadap anak-anak kaum muslimin yang dititipkan di pesantren—dengan memperlakukan mereka secara zalim, meremukkan mentalnya dengan kekerasan, atau membiarkan hak-hak keselamatannya terancam—adalah sebesar-besar pengkhianatan kepada Allah dan Rasul-Nya.[^1]
+Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* meriwayatkan penafsiran dari sahabat Abdullah bin Abbas رضي الله عنهما mengenai ayat ini: bahwa amanat mencakup seluruh perkara syariat yang dipercayakan Allah kepada hamba-Nya, baik amanat ibadah kepada Allah maupun amanat pemeliharaan hak sesama manusia. Khianat terhadap anak-anak kaum muslimin yang dititipkan di pesantren—dengan memperlakukan mereka secara zalim, meremukkan mentalnya dengan kekerasan, atau membiarkan hak-hak keselamatannya terancam—adalah sebesar-besar pengkhianatan kepada Allah dan Rasul-Nya.
 
 ### 8.1 Piagam Gerbang Pesantren: Mengapa Sistem Membutuhkan Batas Mutlak?
 
@@ -43,7 +43,7 @@ graph TD
 
 ---
 
-### 8.2 Sepuluh Prinsip Inti TUMBUH (*The Ten Core Principles*)[^3]
+### 8.2 Sepuluh Prinsip Inti TUMBUH (*The Ten Core Principles*)[^2]
 
 Prinsip Inti (*Core Principles*) adalah kompas abadi yang menjaga agar seluruh kebijakan, instrumen asesmen, dan intervensi perilaku di asrama tidak pernah melenceng dari pandangan tauhid dan fitrah kemanusiaan.
 
@@ -106,7 +106,7 @@ Banyak pendidik dan pembina asrama konvensional salah memahami seruan anti-keker
 
 Ini adalah kesalahpahaman yang sangat fatal! Paradigma TUMBUH menolak kekerasan **bukan untuk menjadi lembek (*permissive/indulgent*)**. 
 
-Dalam psikologi pengasuhan modern (*Positive Discipline* oleh Dr. Jane Nelsen) dan tradisi kepemimpinan profetik Rasulullah ﷺ, pendekatan TUMBUH dirumuskan dalam satu prinsip agung: **Kind and Firm (Tegas Berwibawa Sekaligus Penuh Kasih Sayang)**[^2]:
+Dalam psikologi pengasuhan modern (*Positive Discipline* oleh Dr. Jane Nelsen) dan tradisi kepemimpinan profetik Rasulullah ﷺ, pendekatan TUMBUH dirumuskan dalam satu prinsip agung: **Kind and Firm (Tegas Berwibawa Sekaligus Penuh Kasih Sayang)**[^3]:
 
 ```mermaid
 graph TD
@@ -142,7 +142,7 @@ Perpaduan *Kind and Firm* terdengar dalam nada suara seorang musyrif yang tenang
 
 ### 8.4 Pagar Pengaman Sistem (*Guardrails*) dan Sepuluh Tanda Bahaya (*Red Flags*)
 
-Agar para pimpinan pondok dan dewan pengarah pesantren dapat mengaudit tata kelola pengasuhan secara mandiri, arsitektur TUMBUH menetapkan **Tujuh Pertanyaan Uji Integritas Sistem (*The Seven Integrity Tests*)**[^3]:
+Agar para pimpinan pondok dan dewan pengarah pesantren dapat mengaudit tata kelola pengasuhan secara mandiri, arsitektur TUMBUH menetapkan **Tujuh Pertanyaan Uji Integritas Sistem (*The Seven Integrity Tests*)**[^4]:
 
 ```mermaid
 graph TD
@@ -245,5 +245,6 @@ Di Bab 9, kita akan membedah Tata Kelola Epistemik dan Etika Pengambilan Keputus
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Al-Qur'an al-Karim, Surah Al-Anfal [8]: 27.
-[^2]: Jane Nelsen, *Positive Discipline* (New York: Ballantine Books, 2006), hlm. 15–42; Jane Nelsen & Lynn Lott, *Positive Discipline for Teenagers* (New York: Three Rivers Press, 2012).
-[^3]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/02_PRINCIPLES/01_CORE_PRINCIPLES/04-Guardrails.md` dan `01-Core-Principles.md`.
+[^2]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/02_PRINCIPLES/01_CORE_PRINCIPLES/01-Core-Principles.md`.
+[^3]: Jane Nelsen, *Positive Discipline* (New York: Ballantine Books, 2006), hlm. 15–42; Jane Nelsen & Lynn Lott, *Positive Discipline for Teenagers* (New York: Three Rivers Press, 2012).
+[^4]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/02_PRINCIPLES/01_CORE_PRINCIPLES/04-Guardrails.md`.

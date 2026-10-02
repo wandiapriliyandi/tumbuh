@@ -13,7 +13,7 @@
 
 ### Pendahuluan
 
-Dua ayat suci di atas meletakkan batu penjuru bagi keadilan Islam. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan bahwa Surah Asy-Syura ayat 40 menetapkan tiga derajat perlakuan terhadap kesalahan: *pertama*, derajat keadilan murni (*al-'adl*) yaitu membalas setimpal tanpa melampaui batas; *kedua*, derajat keutamaan dan ihsan (*al-fadhl*) yaitu memaafkan dan melakukan perbaikan persaudaraan (*fa man 'afa wa ashlaha*), yang pahalanya dijamin langsung oleh Allah; dan *ketiga*, derajat kezaliman (*azh-zhulm*) yang diharamkan Allah yaitu membalas melampaui batas. Paradigma Keadilan Restoratif TUMBUH berdiri kokoh di atas maqam ihsan dan *ishlah al-bain* ini.[^1]
+Dua ayat suci di atas meletakkan batu penjuru bagi keadilan Islam. Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* memaparkan bahwa Surah Asy-Syura ayat 40 menetapkan tiga derajat perlakuan terhadap kesalahan: *pertama*, derajat keadilan murni (*al-'adl*) yaitu membalas setimpal tanpa melampaui batas; *kedua*, derajat keutamaan dan ihsan (*al-fadhl*) yaitu memaafkan dan melakukan perbaikan persaudaraan (*fa man 'afa wa ashlaha*), yang pahalanya dijamin langsung oleh Allah; dan *ketiga*, derajat kezaliman (*azh-zhulm*) yang diharamkan Allah yaitu membalas melampaui batas. Paradigma Keadilan Restoratif TUMBUH berdiri kokoh di atas maqam ihsan dan *ishlah al-bain* ini.
 
 Ketika seorang santri melakukan kesalahan atau pelanggaran di lingkungan pesantren, pertanyaan apa yang pertama kali diajukan oleh pembina asrama? Dalam sistem pengasuhan tradisional yang terjebak dalam paradigma **Keadilan Retributif (Retributive Justice)**, pertanyaan yang diajukan selalu berkutat pada tiga hal yang memvonis:
 1. *Aturan mana yang telah dilanggar?*

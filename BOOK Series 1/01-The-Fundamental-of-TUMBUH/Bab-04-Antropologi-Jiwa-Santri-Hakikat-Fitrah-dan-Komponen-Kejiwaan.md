@@ -56,7 +56,7 @@ Di manakah letak keunggulan tradisi Islam dalam membedah jiwa manusia dibanding 
 
 Psikologi Barat sekuler—yang berakar pada materialisme—mereduksi manusia semata-mata sebagai organisme biologis yang dikendalikan oleh impuls saraf dan kimiawi hormon. Jiwa dianggap tidak lebih dari sekadar aktivitas elektrokimiawi di dalam otak (*mind is merely brain*). Akibatnya, dimensi ketuhanan, sakralitas niat, dan kehidupan akhirat dihapuskan dari diskursus terapi kepribadian.
 
-Sebaliknya, khazanah intelektual Islam yang diwariskan oleh **Hujjatul Islam Abu Hamid Al-Ghazali** dalam *Ihya' Ulumiddin* (khususnya *Kitab Syarh 'Aja'ib al-Qalb*) memberikan peta anatomi jiwa yang sangat komprehensif, presisi, dan berlapis-lapis[^10]:
+Sebaliknya, khazanah intelektual Islam yang diwariskan oleh **Hujjatul Islam Abu Hamid Al-Ghazali** dalam *Ihya' Ulumiddin* (khususnya *Kitab Syarh 'Aja'ib al-Qalb*) memberikan peta anatomi jiwa yang sangat komprehensif, presisi, dan berlapis-lapis[^2]:
 
 ```mermaid
 graph TD
@@ -85,13 +85,13 @@ Al-Qalb dinamai demikian karena sifatnya yang dinamis dan mudah berbolak-balik (
 Akal adalah anugerah cahaya kognitif yang memampukan santri memahami teks wahyu, merenungkan akibat jangka panjang dari tindakannya, dan menimbang maslahat serta mudarat. Akal adalah penasihat setia bagi kalbu. Jika akal santri dilatih berpikir kritis dan merenungi ayat-ayat Allah, akal akan menjadi panglima yang menuntun raga memilih jalan ketakwaan. Namun jika akal dibiarkan tumpul dan dipaksa tunduk pada doktrin kepatuhan buta, akal akan kehilangan fungsinya sebagai benteng moral.
 
 #### 4. An-Nafs (Wadah Gejolak Hayawaniyah)
-Dalam terminologi tasawuf, *An-Nafs* adalah komponen kejiwaan yang menghimpun daya syahwat (hasrat biologis pada makanan, tidur, perhiasan duniawi) dan daya amarah (*ghadhab*—dorongan agresivitas dan pertahanan diri). Nafs adalah kendaraan raga di bumi; nafs tidak diciptakan untuk dimatikan atau dibunuh, melainkan untuk **ditundukkan dan disucikan (*tazkiyah*)**[^11] di bawah bimbingan akal dan kalbu.
+Dalam terminologi tasawuf, *An-Nafs* adalah komponen kejiwaan yang menghimpun daya syahwat (hasrat biologis pada makanan, tidur, perhiasan duniawi) dan daya amarah (*ghadhab*—dorongan agresivitas dan pertahanan diri). Nafs adalah kendaraan raga di bumi; nafs tidak diciptakan untuk dimatikan atau dibunuh, melainkan untuk **ditundukkan dan disucikan (*tazkiyah*)**[^3] di bawah bimbingan akal dan kalbu.
 
 ---
 
 ### 4.3 Tiga Martabat Jiwa Remaja dalam Al-Qur'an
 
-Al-Qur'an al-Karim mengabarkan bahwa pergulatan antara kalbu, akal, dan nafs melahirkan **tiga tingkatan dinamika kejiwaan (*Ahwal an-Nafs*)** yang dialami oleh setiap manusia, khususnya para remaja santri di asrama[^3]:
+Al-Qur'an al-Karim mengabarkan bahwa pergulatan antara kalbu, akal, dan nafs melahirkan **tiga tingkatan dinamika kejiwaan (*Ahwal an-Nafs*)** yang dialami oleh setiap manusia, khususnya para remaja santri di asrama:
 
 ```mermaid
 graph TD
@@ -109,18 +109,18 @@ graph TD
 #### 1. Nafs Ammarah bis-Su' (Dorongan Primitif dan Impulsif)
 > وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي
 >
-> *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^2]
+> *"Dan aku tidak menyatakan diriku bebas dari kesalahan, karena sesungguhnya nafsu itu selalu mendorong kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Rabb-ku..."* (QS. Yusuf [12]: 53)[^4]
 
-Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafsu yang selalu condong mengajak kepada keburukan (*ammarah bis-su'*), kecuali jiwa yang dirahmati dan diteguhkan oleh Allah melalui bimbingan taufik-Nya.[^3] 
+Imam Ibnu Katsir menjelaskan bahwa ayat ini menggambarkan tabiat dasar hawa nafsu yang selalu condong mengajak kepada keburukan (*ammarah bis-su'*), kecuali jiwa yang dirahmati dan diteguhkan oleh Allah melalui bimbingan taufik-Nya.[^5] 
 
 Ini adalah kondisi kejiwaan dasar ketika dorongan biologis purba dan hawa nafsu menguasai kendali diri. Pada santri remaja, *nafs ammarah* termanifestasi dalam perilaku impulsif: ingin menang sendiri saat antre mandi, menyembunyikan makanan teman, berbohong demi menghindari tugas piket, atau melampiaskan amarah dengan memukul. Jika santri berada pada tahap ini, menghujamnya dengan hukuman yang menghinakan justru akan mengobarkan api amarahnya dan membuatnya semakin membangkang.
 
 #### 2. Nafs Lawwamah (Gejolak Nurani dan Penyesalan Suci)
 > وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ
 >
-> *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^4]
+> *"Dan Aku bersumpah demi jiwa yang selalu menyesali (mencela) dirinya sendiri!"* (QS. Al-Qiyamah [75]: 2)[^6]
 
-Imam Al-Hasan Al-Bashri sebagaimana dinukil oleh Imam Ath-Thabari dan Ibnu Katsir menafsirkan *An-Nafs al-Lawwamah* sebagai jiwa seorang mukmin sejati: *"Engkau tidak akan mendapati seorang mukmin sejati melainkan ia senantiasa mencela dirinya: 'Apa maksud ucapanku tadi? Apa maksud perbuatanku tadi? Mengapa aku tergelincir?' Sedangkan orang fajir terus melangkah tanpa pernah menyesali kelalaiannya."*[^5] 
+Imam Al-Hasan Al-Bashri sebagaimana dinukil oleh Imam Ath-Thabari dan Ibnu Katsir menafsirkan *An-Nafs al-Lawwamah* sebagai jiwa seorang mukmin sejati: *"Engkau tidak akan mendapati seorang mukmin sejati melainkan ia senantiasa mencela dirinya: 'Apa maksud ucapanku tadi? Apa maksud perbuatanku tadi? Mengapa aku tergelincir?' Sedangkan orang fajir terus melangkah tanpa pernah menyesali kelalaiannya."*[^7] 
 
 Allah ﷻ bersumpah dengan agung atas kemuliaan *Nafs Lawwamah*! Ini adalah tingkatan jiwa yang sangat istimewa pada usia remaja. Santri pada tahap ini mungkin saja tergelincir melakukan kesalahan adab karena godaan sesaat; namun begitu perbuatan itu selesai, dadanya terasa sesak, nuraninya bergetar mencela dirinya sendiri, dan ia diliputi oleh rasa penyesalan mendalam: *"Mengapa tadi aku membentak temanku? Ya Allah, ampuni dosaku..."*
 
@@ -131,9 +131,9 @@ Tugas pendidik saat santri berada dalam fase *lawwamah* bukanlah mempermalukanny
 #### 3. Nafs Muthma'innah (Puncak Kedamaian dan Keteguhan Adab)
 > يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ ۝ ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً
 >
-> *"Wahai jiwa yang tenang! Kembalilah kepada Rabb-mu dengan hati yang rida dan diridai-Nya..."* (QS. Al-Fajr [89]: 27–28)[^6]
+> *"Wahai jiwa yang tenang! Kembalilah kepada Rabb-mu dengan hati yang rida dan diridai-Nya..."* (QS. Al-Fajr [89]: 27–28)[^8]
 
-Imam Ath-Thabari meriwayatkan bahwa *An-Nafs al-Muthma'innah* adalah jiwa yang tenang dalam keyakinan tauhid, mantap bahwa Allah adalah Rabb-nya, ridha terhadap takdir dan syariat-Nya, serta teguh dalam ketaatan tanpa keraguan.[^7]
+Imam Ath-Thabari meriwayatkan bahwa *An-Nafs al-Muthma'innah* adalah jiwa yang tenang dalam keyakinan tauhid, mantap bahwa Allah adalah Rabb-nya, ridha terhadap takdir dan syariat-Nya, serta teguh dalam ketaatan tanpa keraguan.[^9]
 
 Inilah derajat kematangan tertinggi (*ar-rusyd*): jiwa yang telah mencapai ketenteraman mendalam (*thuma'ninah*). Gejolak syahwat dan amarah telah berhasil dijinakkan oleh cahaya iman dan nalar akal budi. Santri yang telah mencapai derajat ini beribadah dengan penuh kenikmatan batin, beradab luhur secara spontan (*malakah*), dan tetap teguh memegang nilai-nilai kebaikan sekalipun berada sendirian tanpa ada pengawasan musyrif.
 
@@ -141,7 +141,7 @@ Inilah derajat kematangan tertinggi (*ar-rusyd*): jiwa yang telah mencapai keten
 
 ### 4.4 Enam Dimensi Keutuhan Manusia dalam Arsitektur TUMBUH
 
-Menolak reduksionisme perilaku, sistem TUMBUH memandang santri melalui **Lensa Enam Dimensi Holistik (*The Six Dimensions of Human Wholeness*)**[^7]:
+Menolak reduksionisme perilaku, sistem TUMBUH memandang santri melalui **Lensa Enam Dimensi Holistik (*The Six Dimensions of Human Wholeness*)**:
 
 ```mermaid
 graph TD
@@ -155,13 +155,13 @@ graph TD
     D5 --> D6["6. BI'AH (Relasi & Ekosistem)<br/>Iklim Budaya Kamar, Teman Sebaya & Qudwah"]
 ```
 
-Mari kita urai keterkaitan dinamis keenam dimensi ini[^12] dalam kehidupan asrama 24 jam:
+Mari kita urai keterkaitan dinamis keenam dimensi ini[^10] dalam kehidupan asrama 24 jam:
 
 #### 1. Dimensi Jasmani (*Al-Jasad*)
 Santri adalah makhluk berjasad fisik yang membutuhkan nutrisi halal dan bergizi seimbang, hidrasi air minum yang cukup, udara kamar yang bersih berventilasi, serta istirahat tidur yang cukup. Pada usia 12–18 tahun, tubuh remaja mengalami lonjakan hormon pertumbuhan (*growth spurt*) dan lonjakan hormon seks (testosteron dan estrogen) yang sangat masif. Mengabaikan keletihan fisik santri dan memaksakan beban hafalan di luar batas biologisnya adalah kezaliman terhadap hak tubuh (*Inna li jasidika 'alayka haqqan*).
 
 #### 2. Dimensi Kognitif (*Al-'Aql*)
-Pada fase remaja, bagian otak depan (*Prefrontal Cortex / PFC*) masih berada dalam fase konstruksi pematangan sinapsis (*pruning and myelination*). Neurosains membuktikan bahwa **sistem limbik (pusat dorongan emosi dan pencarian sensasi) matang jauh lebih awal dibandingkan PFC (pusat kendali rem impuls)**[^8]. Ketimpangan perkembangan ini menjelaskan mengapa santri remaja kerap bersikap nekat, berani mengambil risiko, dan mudah terhasut oleh teman sebaya. Santri bukan berniat jahat; rem biologis di otaknya memang belum sepenuhnya terpasang sempurna, sehingga ia mutlak membutuhkan bimbingan pendampingan eksternal (*scaffolding*) dari para pembina.
+Pada fase remaja, bagian otak depan (*Prefrontal Cortex / PFC*) masih berada dalam fase konstruksi pematangan sinapsis (*pruning and myelination*). Neurosains membuktikan bahwa **sistem limbik (pusat dorongan emosi dan pencarian sensasi) matang jauh lebih awal dibandingkan PFC (pusat kendali rem impuls)**[^11]. Ketimpangan perkembangan ini menjelaskan mengapa santri remaja kerap bersikap nekat, berani mengambil risiko, dan mudah terhasut oleh teman sebaya. Santri bukan berniat jahat; rem biologis di otaknya memang belum sepenuhnya terpasang sempurna, sehingga ia mutlak membutuhkan bimbingan pendampingan eksternal (*scaffolding*) dari para pembina.
 
 #### 3. Dimensi Spiritual dan Afektif (*Al-Qalb*)
 Kebutuhan jiwa terdalam santri adalah **rasa aman (*psychological safety*)** dan **rasa diterima (*belonging*)**. Santri yang baru meninggalkan rumah orang tuanya kerap mengalami *homesickness* dan kecemasan terisolasi. Jika kebutuhan afektif ini diabaikan, kalbunya akan terkunci dalam mekanisme pertahanan diri, menjadikannya rentan memberontak atau depresi.
@@ -170,7 +170,7 @@ Kebutuhan jiwa terdalam santri adalah **rasa aman (*psychological safety*)** dan
 Santri bukanlah robot yang perilakunya cukup dikendalikan oleh remote kontrol pengurus. Allah menciptakan manusia dengan daya memilih sadar (**Al-Ikhtiyar**). Disiplin sejati lahir ketika kehendak santri telah terlatih untuk memilih kebaikan atas dorongan tanggung jawab pribadi, bukan karena takut dipukul.
 
 #### 5. Dimensi Amal dan Pembiasaan Karakter (*Al-'Amal wa Al-Malakah*)
-Ibnu Miskawaih dalam *Tahdzib al-Akhlaq* dan Ibnu Khaldun dalam *Muqaddimah* menjelaskan bahwa karakter luhur (*al-khuluq al-hasan*) adalah **Al-Malakah**—yakni sifat kejiwaan yang tertanam kokoh sehingga perbuatan baik mengalir darinya secara spontan dan mudah tanpa perlu berpikir berat atau merasa terbebani[^9]. Malakah tidak lahir dari hafalan teori di kelas; malakah lahir dari amal kebajikan yang dipraktikkan secara konsisten berulang-ulang di asrama dalam atmosfer yang membahagiakan.
+Ibnu Miskawaih dalam *Tahdzib al-Akhlaq* dan Ibnu Khaldun dalam *Muqaddimah* menjelaskan bahwa karakter luhur (*al-khuluq al-hasan*) adalah **Al-Malakah**—yakni sifat kejiwaan yang tertanam kokoh sehingga perbuatan baik mengalir darinya secara spontan dan mudah tanpa perlu berpikir berat atau merasa terbebani[^12]. Malakah tidak lahir dari hafalan teori di kelas; malakah lahir dari amal kebajikan yang dipraktikkan secara konsisten berulang-ulang di asrama dalam atmosfer yang membahagiakan.
 
 #### 6. Dimensi Relasi Sosial dan Lingkungan (*Al-Bi'ah*)
 Santri tidak bertumbuh di ruang hampa. Iklim pergaulan di kamar asrama, kehangatan senyuman musyrif, serta budaya saling menghargai antarsantri (*Bi'ah Shalihah*) adalah rahim peradaban tempat karakter bersemi. Sehebat apa pun materi pengajian di kelas, jika kultur di lorong asrama sarat dengan caci maki dan perundungan, maka kultur asramalah yang akan memenangkan pembentukan karakter santri.
@@ -266,14 +266,14 @@ Sains otak dan neurosains perkembangan di Bab 5 menyingkap tabir biologis ini—
 ### Catatan Kaki & Rujukan Akademik
 
 [^1]: Abu Abdillah Muhammad bin Ismail Al-Bukhari, *Shahih al-Bukhari*, Kitab al-Iman, Bab Fadhl Man Istabra'a li Dinihi, hadits no. 52; Muslim bin al-Hajjaj an-Naisaburi, *Shahih Muslim*, Kitab al-Musaqah, Bab Akhdz al-Halal wa Tark asy-Syubuhat, hadits no. 1599.
-[^2]: Al-Qur'an al-Karim, Surah Yusuf [12]: 53.
-[^3]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid IV, hlm. 396–397.
-[^4]: Al-Qur'an al-Karim, Surah Al-Qiyamah [75]: 2.
-[^5]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 55–58; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 275–277.
-[^6]: Al-Qur'an al-Karim, Surah Al-Fajr [89]: 27–28.
-[^7]: Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 434–438; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 403–405.
-[^8]: Laurence Steinberg, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Mariner Books, 2015), hlm. 65–94; B.J. Casey, Rebecca M. Jones, & Todd A. Hare, "The Adolescent Brain", *Annals of the New York Academy of Sciences*, Vol. 1124 (2008), hlm. 111–126.
-[^9]: Abu Ali Ahmad bin Muhammad Miskawaih, *Tahdzib al-Akhlaq wa Tath-hir al-A'raq*, Tahqiq: Dr. Imad al-Hilali (Beirut: Dar al-Kutub al-'Ilmiyyah, 2011), hlm. 35–42; Abdurrahman Ibnu Khaldun, *Al-Muqaddimah* (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan malakah melalui latihan berulang (*al-irtiyadh*).
-[^10]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid III, *Kitab Syarh 'Aja'ib al-Qalb*, hlm. 3–18.
-[^11]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, Tahqiq: Muhammad Hamid al-Fiqi (Beirut: Dar al-Ma'rifah, 1975), Jilid I, hlm. 74–85; Ibnu Qayyim al-Jauziyyah, *Ar-Ruh* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1975), hlm. 210–235.
-[^12]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE/02-Dimensi-dan-Struktur-Manusia.md` dan `03-Akal-Hati-Kehendak-dan-Agency.md`.
+[^2]: Abu Hamid Muhammad bin Muhammad Al-Ghazali, *Ihya' 'Ulum ad-Din* (Kairo: Dar al-Hadits, 2004), Jilid III, *Kitab Syarh 'Aja'ib al-Qalb*, hlm. 3–18.
+[^3]: Ibnu Qayyim al-Jauziyyah, *Ighatsat al-Lahfan min Masha'id asy-Syaithan*, Tahqiq: Muhammad Hamid al-Fiqi (Beirut: Dar al-Ma'rifah, 1975), Jilid I, hlm. 74–85; Ibnu Qayyim al-Jauziyyah, *Ar-Ruh* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1975), hlm. 210–235.
+[^4]: Al-Qur'an al-Karim, Surah Yusuf [12]: 53.
+[^5]: Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid IV, hlm. 396–397.
+[^6]: Al-Qur'an al-Karim, Surah Al-Qiyamah [75]: 2.
+[^7]: Abu Ja'far Muhammad bin Jarir Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 55–58; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 275–277.
+[^8]: Al-Qur'an al-Karim, Surah Al-Fajr [89]: 27–28.
+[^9]: Ath-Thabari, *Jami' al-Bayan*, Jilid XXIV, hlm. 434–438; Ibnu Katsir, *Tafsir al-Qur'an al-'Azhim*, Jilid VIII, hlm. 403–405.
+[^10]: Repositori TUMBUH v2.0.0, Dokumen Fundamental: `01_FUNDAMENTAL/01_PHILOSOPHY/03_HUMAN_NATURE/02-Dimensi-dan-Struktur-Manusia.md` dan `03-Akal-Hati-Kehendak-dan-Agency.md`.
+[^11]: Laurence Steinberg, *Age of Opportunity: Lessons from the New Science of Adolescence* (Boston: Mariner Books, 2015), hlm. 65–94; B.J. Casey, Rebecca M. Jones, & Todd A. Hare, "The Adolescent Brain", *Annals of the New York Academy of Sciences*, Vol. 1124 (2008), hlm. 111–126.
+[^12]: Abu Ali Ahmad bin Muhammad Miskawaih, *Tahdzib al-Akhlaq wa Tath-hir al-A'raq*, Tahqiq: Dr. Imad al-Hilali (Beirut: Dar al-Kutub al-'Ilmiyyah, 2011), hlm. 35–42; Abdurrahman Ibnu Khaldun, *Al-Muqaddimah* (Damaskus: Dar Ya'rub, 2004), Jilid II, hlm. 298–305 mengenai pembentukan malakah melalui latihan berulang (*al-irtiyadh*).

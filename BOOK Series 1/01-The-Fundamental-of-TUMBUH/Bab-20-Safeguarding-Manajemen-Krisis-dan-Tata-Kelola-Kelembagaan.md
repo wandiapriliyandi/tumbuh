@@ -13,7 +13,7 @@
 
 ### Pendahuluan
 
-Amirul Mukminin Ali bin Abi Thalib رضي الله عنه memberikan penafsiran yang sangat mendalam mengenai firman Allah *quu anfusakum wa ahlikum naara*: *"Addibuuhum wa 'allimuuhum"*—yakni didiklah adab kepada mereka dan ajarkanlah ilmu kepada mereka! (diriwayatkan oleh Al-Hakim dalam *Al-Mustadrak* dan dinukil oleh Ibnu Katsir dalam tafsirnya).[^1] Menjaga anak-anak kaum muslimin dari mara bahaya, kekerasan fisik, dan kerusakan moral di lingkungan pesantren adalah pengejawantahan langsung dari perintah ilahi ini. Perlindungan anak (*safeguarding*) adalah kewajiban syar'i non-negotiable.
+Amirul Mukminin Ali bin Abi Thalib رضي الله عنه memberikan penafsiran yang sangat mendalam mengenai firman Allah *quu anfusakum wa ahlikum naara*: *"Addibuuhum wa 'allimuuhum"*—yakni didiklah adab kepada mereka dan ajarkanlah ilmu kepada mereka! (diriwayatkan oleh Al-Hakim dalam *Al-Mustadrak* dan dinukil oleh Ibnu Katsir dalam tafsirnya). Menjaga anak-anak kaum muslimin dari mara bahaya, kekerasan fisik, dan kerusakan moral di lingkungan pesantren adalah pengejawantahan langsung dari perintah ilahi ini. Perlindungan anak (*safeguarding*) adalah kewajiban syar'i non-negotiable.
 
 Sebuah pesantren dapat memiliki kurikulum turats terlengkap, bangunan fisik termegah, dan program tahfidz paling bergengsi. Namun, seluruh kemuliaan itu akan runtuh seketika dalam sekejap mata jika lembaga tersebut gagal melindungi satu hal yang paling asasi: **keselamatan fisik, kehormatan martabat, dan kesehatan jiwa anak-anak santri yang dititipkan oleh umat ke dalam pangkuannya**.
 

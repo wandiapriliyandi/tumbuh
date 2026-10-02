@@ -8,7 +8,7 @@
 
 ---
 
-Imam Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat ini memerintahkan orang-orang beriman untuk melakukan *at-tatsabbut* (verifikasi cermat) terhadap berita yang dibawa oleh seseorang, agar tidak menjatuhkan hukuman atau keputusan yang menzalimi suatu kaum karena ketidaktahuan (*bi jahalah*), yang akhirnya membuahkan penyesalan abadi.[^1] 
+Imam Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* menegaskan bahwa ayat ini memerintahkan orang-orang beriman untuk melakukan *at-tatsabbut* (verifikasi cermat) terhadap berita yang dibawa oleh seseorang, agar tidak menjatuhkan hukuman atau keputusan yang menzalimi suatu kaum karena ketidaktahuan (*bi jahalah*), yang akhirnya membuahkan penyesalan abadi. 
 
 Imam Al-Qurthubi dalam *Al-Jami' li Ahkam al-Qur'an* menambahkan bahwa ayat ini adalah dalil ushul paling agung mengenai haramnya berpegang pada persangkaan tanpa verifikasi (*tark al-amal bi azh-zhann al-mujarrad*) dalam urusan kehormatan manusia dan penetapan sanksi.[^2]
 
@@ -92,7 +92,7 @@ Jika sebuah program pembinaan di pesantren dirancang dengan niat yang sangat mul
 
 Salah satu sumber kerancuan terbesar dalam rapat-rapat pengasuhan dan perumusan kurikulum pesantren adalah **ketidakmampuan membedakan jenis klaim (*epistemic claim classification*)**. Ketika sebuah opini pribadi disamakan statusnya dengan ayat Al-Qur'an, atau ketika data awal yang masih rapuh langsung diyakini sebagai hukum kepastian, maka lahirlah kebijakan-kebijakan yang serampangan.
 
-Dalam arsitektur TUMBUH, setiap kalimat yang terucap di asrama dan tercatat dalam buku panduan wajib diklasifikasikan ke dalam **Lima Derajat Klaim Epistemik**[^4]:
+Dalam arsitektur TUMBUH, setiap kalimat yang terucap di asrama dan tercatat dalam buku panduan wajib diklasifikasikan ke dalam **Lima Derajat Klaim Epistemik**:
 
 ```mermaid
 graph TD
