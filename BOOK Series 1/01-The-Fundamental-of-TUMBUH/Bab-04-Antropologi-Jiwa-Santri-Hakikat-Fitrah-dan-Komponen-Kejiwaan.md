@@ -1,4 +1,4 @@
-# BAB 4: ANTROPOLOGI JIWA SANTRI: HAKIKAT FITRAH DAN KOMPONEN KEJIWAAN
+﻿# BAB 4: ANTROPOLOGI JIWA SANTRI: HAKIKAT FITRAH DAN KOMPONEN KEJIWAAN
 ## Membedah Anatomi Ruh, Qalb, 'Aql, dan Nafs dalam Dinamika Remaja Pesantren 24 Jam
 
 > أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
@@ -28,13 +28,13 @@ Pendidik yang memiliki pemahaman utuh tentang hakikat manusia tidak akan pernah 
 ```mermaid
 graph TD
     subgraph GUNUNG_ES_MANUSIA["Fenomena Gunung Es Jiwa Santri"]
-        Z["PERILAKU LAHIRIAH (10%)<br/>(Terlambat, Menangis, Hafalan Lupa, Menendang Pintu)"]
+        Z["PERILAKU LAHIRIAH (10%)<br/>(Terlambat, Menangis, Lupa Hafalan)"]
         --- PERMUKAAN["GARIS PERMUKAAN LAUT (APA YANG TERLIHAT)"]
-        PERMUKAAN --- J["1. DIMENSI FISIK/JASAD (Kelelahan, Kurang Tidur, Hormon Pubertas)"]
-        J --- A["2. DIMENSI KOGNITIF/'AQL (Beban Nalar, Kapasitas Memori Kerja)"]
-        A --- Q["3. DIMENSI SPIRITUAL & AFEKSI/QALB (Kecemasan, Kerinduan, Rasa Aman)"]
-        Q --- I["4. DIMENSI KEHENDAK/IRADAH (Kematangan Regulasi Diri, Agensi)"]
-        I --- B["5. DIMENSI EKOSISTEM/BI'AH (Dinamika Kamar, Perundungan Sebaya)"]
+        PERMUKAAN --- J["1. DIMENSI FISIK / JASAD<br/>(Kelelahan, Kurang Tidur, Pubertas)"]
+        J --- A["2. DIMENSI KOGNITIF / 'AQL<br/>(Beban Nalar & Memori Kerja)"]
+        A --- Q["3. SPIRITUAL & AFEKSI / QALB<br/>(Kecemasan, Rindu, Rasa Aman)"]
+        Q --- I["4. KEHENDAK / IRADAH<br/>(Regulasi Diri & Agensi Sadar)"]
+        I --- B["5. EKOSISTEM / BI'AH<br/>(Dinamika Kamar & Iklim Sebaya)"]
     end
 ```
 
@@ -97,9 +97,9 @@ Al-Qur'an al-Karim mengabarkan bahwa pergulatan antara kalbu, akal, dan nafs mel
 graph TD
     subgraph TINGKATAN_NAFS_ALQURAN["Tiga Martabat Pergulatan Jiwa Santri"]
         direction TB
-        M["3. NAFS MUTHMA'INNAH (QS. Al-Fajr: 27)<br/>Jiwa yang Tenang, Stabil, Istiqomah dalam Ketaatan & Memiliki Regulasi Batin Mandiri"]
-        L["2. NAFS LAWWAMAH (QS. Al-Qiyamah: 2)<br/>Jiwa yang Berperang Melawan Diri Sendiri, Bersalah Setelah Khilaf, Nurani Masih Hidup"]
-        A["1. NAFS AMMARAH BIS-SU' (QS. Yusuf: 53)<br/>Jiwa yang Dikuasai Dorongan Impulsif, Kesenangan Instan, Amarah & Pembangkangan"]
+        M["3. NAFS MUTHMA'INNAH (QS. Al-Fajr: 27)<br/>Jiwa yang Tenang, Stabil, Istiqomah,<br/>& Memiliki Regulasi Mandiri"]
+        L["2. NAFS LAWWAMAH (QS. Al-Qiyamah: 2)<br/>Jiwa yang Menyesali Khilaf,<br/>Berperang Melawan Hawa Nafsu"]
+        A["1. NAFS AMMARAH BIS-SU' (QS. Yusuf: 53)<br/>Jiwa yang Dikuasai Impulsif,<br/>Kesenangan Instan, & Amarah"]
 
         A -->|Disiplin Positif & Bimbingan Hikmah| L
         L -->|Internalisasi Adab & Keteladanan Qudwah| M
@@ -144,7 +144,7 @@ Menolak reduksionisme perilaku, sistem TUMBUH memandang santri melalui **Lensa E
 graph TD
     A["MANUSIA SANTRI UTUH (TUMBUH)"]
     
-    A --> D1["1. JASAD (Fisik-Biologis)<br/>Nutrisi Gizi, Tidur, Sirkadian & Hormon Pubertas"]
+    A --> D1["1. JASAD (Fisik-Biologis)<br/>Nutrisi Gizi, Kualitas Tidur,<br/>& Keseimbangan Hormon"]
     D1 --> D2["2. 'AQL (Kognitif & Nalar)<br/>Pematangan PFC, Memori & Logika Maslahat"]
     D2 --> D3["3. QALB (Spiritual & Afektif)<br/>Tauhid, Keikhlasan, Empati & Regulasi Emosi"]
     D3 --> D4["4. IRADAH (Kehendak & Agensi)<br/>Ikhtiyar Sadar, Kendali Diri & Tanggung Jawab"]
@@ -187,7 +187,7 @@ graph TD
     subgraph HASIL_AUDIT["Temuan Lima Dimensi Kausalitas"]
         direction TB
         F1["1. Jasmani: Sakit gigi geraham berlubang,<br/>tidak tidur nyenyak 4 malam berturut-turut."]
-        F2["2. Kognitif: Cognitive overload materi I'lal nahwu,<br/>bingung namun malu bertanya."]
+        F2["2. Kognitif: Cognitive overload<br/>  materi I'lal nahwu,<br/>bingung namun malu bertanya."]
         F3["3. Afektif: Tertekan & cemas dicap bodoh."]
         F4["4. Bi'ah / Relasi: Diejek kawan saat antre wudhu,<br/>memicu ledakan amarah."]
         F5["5. Iradah: Menyesal melempar sandal,<br/>namun bingung meredakan malu."]
@@ -217,11 +217,11 @@ Imam Al-Ghazali dalam *Ihya' 'Ulum ad-Din* meletakkan dua pilar utama penyucian 
 Secara menakjubkan, apa yang dirumuskan Al-Ghazali sebagai *riyadhatun nafs* berkorespondensi satu-satu dengan temuan neurosains modern tentang **Regulasi Saraf Otonom (*Autonomic Nervous System Regulation*)** dan **Plastisitas Sinaptik**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph SINTESIS_PENYUCIAN_JIWA["Integrasi Tazkiyah dan Neurosains"]
         T["TAZKIYATUN NAFS (AL-GHAZALI)<br/>• Riyadhah & Mujahadah<br/>• Zikir Khafi & Munajat Fajar<br/>• Wudhu Air Dingin saat Marah"] 
         <--> 
-        N["NEUROSAINS KOGNITIF<br/>• Stimulasi Saraf Vagus (Vagal Tone)<br/>• Regulasi Dopamin & Menurunkan Kortisol<br/>• Penguatan Koneksi Inhibitorik PFC-Amigdala"]
+        N["NEUROSAINS KOGNITIF<br/>• Stimulasi Saraf Vagus (Vagal Tone)<br/>• Regulasi Dopamin & Menurunkan Kortisol<br/>• Penguatan Koneksi PFC-Amigdala"]
     end
 ```
 

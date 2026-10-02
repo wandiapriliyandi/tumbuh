@@ -1,4 +1,4 @@
-# BAB 8: SUMPAH INTEGRITAS PENDIDIKAN TUMBUH
+﻿# BAB 8: SUMPAH INTEGRITAS PENDIDIKAN TUMBUH
 ## Garis Merah Mutlak (*The Non-Negotiables*) dan Sepuluh Prinsip Inti Pengasuhan Pesantren
 
 > يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنْتُمْ تَعْلَمُونَ
@@ -51,8 +51,8 @@ Perhatikan kedudukan strategis Prinsip Inti dalam hierarki sistem TUMBUH:
 
 ```mermaid
 graph TD
-    P["01_PHILOSOPHY (Landasan Filosofis)<br/>Worldview Tauhid, Epistemologi Terpadu & Martabat Fitrah"] --> C["01_CORE_PRINCIPLES (Sepuluh Prinsip Inti)<br/>Penjaga Apa yang TIDAK BOLEH HILANG dalam Pembinaan"]
-    C --> D["02_DESIGN_PRINCIPLES (Prinsip Perancangan)<br/>Pemandu Cara Berpikir Saat Menyusun Aturan & Instrumen"]
+    P["01_PHILOSOPHY (Landasan Filosofis)<br/>Worldview Tauhid, Epistemologi Terpadu,<br/>& Martabat Fitrah"] --> C["01_CORE_PRINCIPLES (Sepuluh Prinsip Inti)<br/>Penjaga Batas Integritas<br/>yang TIDAK BOLEH HILANG"]
+    C --> D["02_DESIGN_PRINCIPLES (Prinsip Perancangan)<br/>Pemandu Nalar Perumusan<br/>Aturan & Instrumen Asrama"]
     D --> M["03_CORE_MODEL (Model Inti)<br/>Penerjemahan Menjadi Jenjang Kemandirian (J1–J4) & Ekosistem 24 Jam"]
 ```
 
@@ -112,7 +112,7 @@ Dalam psikologi pengasuhan modern (*Positive Discipline* oleh Dr. Jane Nelsen) d
 graph TD
     subgraph EMPAT_KUADRAN_PENGASUHAN["Empat Model Pengasuhan Asrama"]
         direction TB
-        A["1. OTORITER (Firm, Not Kind)<br/>Disiplin Tanpa Kasih: Bentakan & Hukuman Fisik<br/>Hasil: Kepatuhan Semu, Dendam & Hipokrit"]
+        A["1. OTORITER (Firm, Not Kind)<br/>Disiplin Tanpa Kasih:<br/>Bentakan & Sanksi Fisik<br/>Hasil: Kepatuhan Semu, Dendam & Hipokrit"]
         B["2. PERMISIF (Kind, Not Firm)<br/>Kasih Tanpa Ketegasan: Pembiaran Pelanggaran<br/>Hasil: Santri Manja, Anarki & Hilang Adab"]
         C["3. PENGABAIAN (Neither Kind nor Firm)<br/>Apatis, Tanpa Kasih Maupun Disiplin<br/>Hasil: Kehancuran Moral & Kerawanan Kamar"]
         D["4. PARADIGMA TUMBUH (Both Kind and Firm)<br/>Disiplin Tinggi Berpadu Kasih Sayang Penuh<br/>Hasil: Santri Mandiri, Beradab & Cinta Guru"]
@@ -150,13 +150,13 @@ graph TD
     
     subgraph TUJUH_UJI_ETIK["Tujuh Uji Etika Kebijakan TUMBUH"]
         direction TB
-        T1["1. Uji Tauhid: Selaras dengan kemuliaan fitrah insan?"]
-        --> T2["2. Uji Pertumbuhan: Membantu tumbuh atau sekadar menakuti?"]
-        --> T3["3. Uji Kemanusiaan: Hormati hak tidur 7 jam & gizi?"]
-        --> T4["4. Uji Faktual: Berbasis bukti sahih, bukan emosi?"]
-        --> T5["5. Uji Keterpaduan: Sejalan dengan ajaran madrasah?"]
-        --> T6["6. Uji Kemanfaatan: Nyata memulihkan adab & ukhuwah?"]
-        --> T7["7. Uji Muhasabah: Siap mencabut aturan jika gagal?"]
+        T1["1. Uji Tauhid: Selaras kemuliaan fitrah?"]
+        --> T2["2. Uji Tumbuh: Mendidik atau menakuti?"]
+        --> T3["3. Uji Insani: Hormati hak tidur & gizi?"]
+        --> T4["4. Uji Fakta: Berbasis bukti sahih?"]
+        --> T5["5. Uji Terpadu: Sejalan ajaran kelas?"]
+        --> T6["6. Uji Manfaat: Pulihkan adab & ukhuwah?"]
+        --> T7["7. Uji Evaluasi: Siap cabut jika keliru?"]
     end
 
     R ==> TUJUH_UJI_ETIK

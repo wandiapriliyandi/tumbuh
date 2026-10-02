@@ -1,4 +1,4 @@
-# THE FUNDAMENTAL OF TUMBUH
+﻿# THE FUNDAMENTAL OF TUMBUH
 ## Landasan Filosofis, Arsitektural, dan Metodologis Transformasi Karakter Pesantren 24 Jam
 ### Master Reference Book — Seri Buku Utama TUMBUH v2.0.0
 
@@ -454,9 +454,9 @@ Ketika pengelola pondok membiarkan santri hidup di tengah lingkungan yang tidak 
 
 ```mermaid
 graph TD
-    A["PANDANGAN ALAM ISLAM (WORLDVIEW)<br/>Tauhid Mutlak, Kemuliaan Insan, Keadilan Syariat"] --> B["PARADIGMA PENGASUHAN PESANTREN<br/>Tarbiyah Bil-Hikmah, In Loco Parentis, Bi'ah Shalihah"]
-    B --> C["ARSITEKTUR LINGKUNGAN ASRAMA 24 JAM<br/>Kamar Bersih, Waktu Tidur Sehat, Disiplin Positif"]
-    C --> D["PRAKSIS HARIAN MUSYRIF & SANTRI<br/>Relasi Penuh Kasih, Dialog Sokratik, Kepatuhan Berkesadaran"]
+    A["PANDANGAN ALAM ISLAM (WORLDVIEW)<br/>Tauhid Mutlak, Kemuliaan Insan,<br/>& Keadilan Syariat"] --> B["PARADIGMA PENGASUHAN PESANTREN<br/>Tarbiyah Bil-Hikmah, In Loco Parentis,<br/>& Bi'ah Shalihah"]
+    B --> C["ARSITEKTUR LINGKUNGAN ASRAMA 24 JAM<br/>Kamar Bersih, Waktu Tidur Sehat,<br/>& Disiplin Positif"]
+    C --> D["PRAKSIS HARIAN MUSYRIF & SANTRI<br/>Relasi Penuh Kasih, Dialog Sokratik,<br/>& Kepatuhan Berkesadaran"]
 ```
 
 Worldview adalah akar pohon; arsitektur sistem adalah batangnya; dan praksis harian musyrif di kamar asrama adalah buahnya. Jika akarnya beracun atau terdistorsi, mustahil pohon tersebut menghasilkan buah karakter yang manis dan menyejukkan umat.
@@ -536,14 +536,14 @@ graph TD
     subgraph DUA_REALITAS_ISLAM["Harmoni Pandangan Alam Tauhid"]
         direction TB
         G["'ALAM AL-GHAIB (Transenden & Metafisik)<br/>• Iman kepada Allah, Malaikat Raqib & 'Atid<br/>• Akhirat, Mahkamah Hisab, Surga & Neraka<br/>• Keikhlasan Niat, Barakah & Muraqabatullah"]
-        S["'ALAM ASY-SYAHADAH (Empiris & Fisik)<br/>• Sunnatullah Biologis & Ritme Sirkadian Tubuh<br/>• Kebutuhan Gizi, Higienitas, Tidur REM/NREM<br/>• Dinamika Kelompok Sebaya di Asrama"]
+        S["'ALAM ASY-SYAHADAH (Empiris & Fisik)<br/>• Sunnatullah Biologis<br/>  & Ritme Sirkadian Tubuh<br/>• Kebutuhan Gizi, Higienitas, Tidur REM/NREM<br/>• Dinamika Kelompok Sebaya di Asrama"]
         G --- S
     end
 
     G -->|Arah Nilai & Sakralitas Niat| T["ARSITEKTUR EKOSISTEM TUMBUH 24 JAM"]
     S -->|Ketepatan Metode & Keadilan Biologis| T
 
-    T --> HASIL["Santri Beriman Kokoh, Cerdas Nalar, & Sehat Jiwa-Raga"]
+    T --> HASIL["Santri Beriman Kokoh,<br/>Cerdas Nalar, & Sehat Jiwa-Raga"]
 ```
 
 1. **'Alam al-Ghaib (Realitas Gaib/Transenden)**: Merupakan ranah metafisika yang diwahyukan: keberadaan Allah, malaikat yang mencatat setiap amal kebajikan dan keburukan, pertanggungjawaban di padang mahsyar, serta balasan surga dan neraka. Realitas gaib memberikan **makna tertinggi (*ultimate meaning*)** dan **kendali moral internal (*muraqabatullah*)**: santri beradab bukan karena takut cctv pengawas, melainkan karena yakin bahwa Allah senantiasa mengawasi gerak-gerik batinnya.
@@ -569,7 +569,7 @@ Mari kita tatap kebenaran ilmiah berdasarkan **Neurosains Kognitif dan Anatomi T
 graph TD
     subgraph SIKLUS_KONSOLIDASI_MEMORI["Siklus Konsolidasi Hafalan & Restorasi Otak"]
         direction TB
-        A["1. WAKTU SIANG: Santri Menghafal Halaman Baru<br/>Masuk Hippocampus (Kapasitas Memori Sementara)"]
+        A["1. WAKTU SIANG: Santri Menghafal Halaman Baru<br/>Masuk Hippocampus<br/>(Kapasitas Memori Sementara)"]
         --> B["2. FASE TIDUR MALAM NREM (7–8 JAM ISTIRAHAT):<br/>Konsolidasi Sinaptik Berjalan Aktif"]
         
         B --> C1["Proses A: Konsolidasi Memori<br/>Ayat dipindahkan ke Neokorteks permanen"]
@@ -626,7 +626,7 @@ graph TD
         H1["1. Merusak Fisik & Menghinakan Raga<br/>(Memukul, menampar, menjemur terik,<br/>membotaki kepala separuh/tidak teratur)"]
         H2["2. Pembunuhan Karakter di Depan Publik<br/>(Mengalungkan papan makian, mengarak santri,<br/>memaki santri lewat mikrofon)"]
         H3["3. Pelecehan Verbal & Bahasa Kotor<br/>(Memanggil sebutan binatang,<br/>merendahkan martabat orang tua/suku)"]
-        H4["4. Perampasan Hak Biologis Asasi<br/>(Menahan jatah makan-minum, melarang buang air,<br/>mengurangi waktu tidur secara zalim)"]
+        H4["4. Perampasan Hak Biologis Asasi<br/>(Menahan jatah makan-minum,<br/>melarang buang air,<br/>mengurangi waktu tidur secara zalim)"]
         H1 --> H2 --> H3 --> H4
     end
 ```
@@ -644,7 +644,7 @@ graph TD
     M["TIGA MANDAT EKSISTENSIAL SANTRI TUMBUH"]
     
     M --> M1["1. AL-'IBADAH (Hablum Minallah)<br/>Penghambaan Murni & Kesucian Niat"]
-    M1 --> M2["2. AL-AMANAH & 'IMARATUL ARDH (Hablum Minannas)<br/>Amanah Sosial, Khidmah & Maslahat Lingkungan"]
+    M1 --> M2["2. AL-AMANAH & 'IMARATUL ARDH<br/>(Hablum Minannas)<br/>Amanah Sosial, Khidmah & Maslahat Lingkungan"]
     M2 --> M3["3. AR-RUSYD (Hablum Ma'an-Nafs)<br/>Kematangan Akal Budi & Kendali Batin Mandiri"]
 ```
 
@@ -846,7 +846,7 @@ graph TD
     end
 
     SALURAN_PENGETAHUAN ==> S["SINTESIS EPISTEMIK EKOSISTEM TUMBUH"]
-    S --> K["Keputusan Pesantren yang Adil, Ilmiah & Barakah"]
+    S --> K["Keputusan Pesantren<br/>yang Adil, Ilmiah, & Barakah"]
 ```
 
 #### 1. Al-Khabar ash-Shadiq (Wahyu Ilahi dan As-Sunnah yang Shahih)
@@ -968,7 +968,7 @@ graph TD
     G --> S["PENGASUHAN KARAKTER INTEGRATIF TUMBUH"]
     R --> S
 
-    S --> M["Adab Bersumber Wahyu, Metode Dibimbing Sains Presisi"]
+    S --> M["Adab Bersumber Wahyu,<br/>Metode Dibimbing Sains Presisi"]
 ```
 
 Dalam kitabnya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^7].
@@ -994,9 +994,9 @@ graph TD
     subgraph ALUR_TABAYYUN_TUMBUH["Empat Gerbang Audit Pengambilan Keputusan"]
         direction TB
         M["Laporan Kasus Pelanggaran Masuk"]
-        --> T["1. TABAYYUN & VERIFIKASI FAKTA:<br/>Periksa keabsahan saksi & singkirkan desas-desus"]
+        --> T["1. TABAYYUN & VERIFIKASI FAKTA:<br/>Periksa keabsahan saksi<br/>& buktikan fakta"]
         --> K["2. AUDIT KAUSALITAS & NALAR (FBA):<br/>Temukan motif kebutuhan tersembunyi santri"]
-        --> S["3. PENGUJIAN MAQASHID SYARI'AH:<br/>Pastikan tiada kezaliman & jaga karamah insani"]
+        --> S["3. PENGUJIAN MAQASHID SYARI'AH:<br/>Cegah kezaliman<br/>& jaga martabat insani"]
         --> D["4. KEPUTUSAN RESTORATIF:<br/>Pemulihan relasi, restitusi nyata & bimbingan"]
     end
 ```
@@ -1026,7 +1026,7 @@ graph TD
         direction TB
         B1["1. FUNDAMENTAL ATTRIBUTION ERROR<br/>Menghakimi tabiat buruk santri (internal),<br/>namun memaklumi diri sendiri karena situasi."]
         B2["2. CONFIRMATION BIAS (Bias Konfirmasi)<br/>Hanya mencari bukti pembenar prasangka awal<br/>dan mengabaikan fakta yang membantahnya."]
-        B3["3. HORNS EFFECT (Efek Stigma Negatif)<br/>Satu kesalahan menghapus seluruh kebaikan;<br/>santri dicap permanen sebagai anak bermasalah."]
+        B3["3. HORNS EFFECT (Efek Stigma Negatif)<br/>Satu kesalahan menghapus seluruh kebaikan;<br/>santri dicap permanen<br/>sebagai anak bermasalah."]
         B1 --> B2 --> B3
     end
 ```
@@ -1132,13 +1132,13 @@ Pendidik yang memiliki pemahaman utuh tentang hakikat manusia tidak akan pernah 
 ```mermaid
 graph TD
     subgraph GUNUNG_ES_MANUSIA["Fenomena Gunung Es Jiwa Santri"]
-        Z["PERILAKU LAHIRIAH (10%)<br/>(Terlambat, Menangis, Hafalan Lupa, Menendang Pintu)"]
+        Z["PERILAKU LAHIRIAH (10%)<br/>(Terlambat, Menangis, Lupa Hafalan)"]
         --- PERMUKAAN["GARIS PERMUKAAN LAUT (APA YANG TERLIHAT)"]
-        PERMUKAAN --- J["1. DIMENSI FISIK/JASAD (Kelelahan, Kurang Tidur, Hormon Pubertas)"]
-        J --- A["2. DIMENSI KOGNITIF/'AQL (Beban Nalar, Kapasitas Memori Kerja)"]
-        A --- Q["3. DIMENSI SPIRITUAL & AFEKSI/QALB (Kecemasan, Kerinduan, Rasa Aman)"]
-        Q --- I["4. DIMENSI KEHENDAK/IRADAH (Kematangan Regulasi Diri, Agensi)"]
-        I --- B["5. DIMENSI EKOSISTEM/BI'AH (Dinamika Kamar, Perundungan Sebaya)"]
+        PERMUKAAN --- J["1. DIMENSI FISIK / JASAD<br/>(Kelelahan, Kurang Tidur, Pubertas)"]
+        J --- A["2. DIMENSI KOGNITIF / 'AQL<br/>(Beban Nalar & Memori Kerja)"]
+        A --- Q["3. SPIRITUAL & AFEKSI / QALB<br/>(Kecemasan, Rindu, Rasa Aman)"]
+        Q --- I["4. KEHENDAK / IRADAH<br/>(Regulasi Diri & Agensi Sadar)"]
+        I --- B["5. EKOSISTEM / BI'AH<br/>(Dinamika Kamar & Iklim Sebaya)"]
     end
 ```
 
@@ -1201,9 +1201,9 @@ Al-Qur'an al-Karim mengabarkan bahwa pergulatan antara kalbu, akal, dan nafs mel
 graph TD
     subgraph TINGKATAN_NAFS_ALQURAN["Tiga Martabat Pergulatan Jiwa Santri"]
         direction TB
-        M["3. NAFS MUTHMA'INNAH (QS. Al-Fajr: 27)<br/>Jiwa yang Tenang, Stabil, Istiqomah dalam Ketaatan & Memiliki Regulasi Batin Mandiri"]
-        L["2. NAFS LAWWAMAH (QS. Al-Qiyamah: 2)<br/>Jiwa yang Berperang Melawan Diri Sendiri, Bersalah Setelah Khilaf, Nurani Masih Hidup"]
-        A["1. NAFS AMMARAH BIS-SU' (QS. Yusuf: 53)<br/>Jiwa yang Dikuasai Dorongan Impulsif, Kesenangan Instan, Amarah & Pembangkangan"]
+        M["3. NAFS MUTHMA'INNAH (QS. Al-Fajr: 27)<br/>Jiwa yang Tenang, Stabil, Istiqomah,<br/>& Memiliki Regulasi Mandiri"]
+        L["2. NAFS LAWWAMAH (QS. Al-Qiyamah: 2)<br/>Jiwa yang Menyesali Khilaf,<br/>Berperang Melawan Hawa Nafsu"]
+        A["1. NAFS AMMARAH BIS-SU' (QS. Yusuf: 53)<br/>Jiwa yang Dikuasai Impulsif,<br/>Kesenangan Instan, & Amarah"]
 
         A -->|Disiplin Positif & Bimbingan Hikmah| L
         L -->|Internalisasi Adab & Keteladanan Qudwah| M
@@ -1248,7 +1248,7 @@ Menolak reduksionisme perilaku, sistem TUMBUH memandang santri melalui **Lensa E
 graph TD
     A["MANUSIA SANTRI UTUH (TUMBUH)"]
     
-    A --> D1["1. JASAD (Fisik-Biologis)<br/>Nutrisi Gizi, Tidur, Sirkadian & Hormon Pubertas"]
+    A --> D1["1. JASAD (Fisik-Biologis)<br/>Nutrisi Gizi, Kualitas Tidur,<br/>& Keseimbangan Hormon"]
     D1 --> D2["2. 'AQL (Kognitif & Nalar)<br/>Pematangan PFC, Memori & Logika Maslahat"]
     D2 --> D3["3. QALB (Spiritual & Afektif)<br/>Tauhid, Keikhlasan, Empati & Regulasi Emosi"]
     D3 --> D4["4. IRADAH (Kehendak & Agensi)<br/>Ikhtiyar Sadar, Kendali Diri & Tanggung Jawab"]
@@ -1291,7 +1291,7 @@ graph TD
     subgraph HASIL_AUDIT["Temuan Lima Dimensi Kausalitas"]
         direction TB
         F1["1. Jasmani: Sakit gigi geraham berlubang,<br/>tidak tidur nyenyak 4 malam berturut-turut."]
-        F2["2. Kognitif: Cognitive overload materi I'lal nahwu,<br/>bingung namun malu bertanya."]
+        F2["2. Kognitif: Cognitive overload<br/>  materi I'lal nahwu,<br/>bingung namun malu bertanya."]
         F3["3. Afektif: Tertekan & cemas dicap bodoh."]
         F4["4. Bi'ah / Relasi: Diejek kawan saat antre wudhu,<br/>memicu ledakan amarah."]
         F5["5. Iradah: Menyesal melempar sandal,<br/>namun bingung meredakan malu."]
@@ -1321,11 +1321,11 @@ Imam Al-Ghazali dalam *Ihya' 'Ulum ad-Din* meletakkan dua pilar utama penyucian 
 Secara menakjubkan, apa yang dirumuskan Al-Ghazali sebagai *riyadhatun nafs* berkorespondensi satu-satu dengan temuan neurosains modern tentang **Regulasi Saraf Otonom (*Autonomic Nervous System Regulation*)** dan **Plastisitas Sinaptik**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph SINTESIS_PENYUCIAN_JIWA["Integrasi Tazkiyah dan Neurosains"]
         T["TAZKIYATUN NAFS (AL-GHAZALI)<br/>• Riyadhah & Mujahadah<br/>• Zikir Khafi & Munajat Fajar<br/>• Wudhu Air Dingin saat Marah"] 
         <--> 
-        N["NEUROSAINS KOGNITIF<br/>• Stimulasi Saraf Vagus (Vagal Tone)<br/>• Regulasi Dopamin & Menurunkan Kortisol<br/>• Penguatan Koneksi Inhibitorik PFC-Amigdala"]
+        N["NEUROSAINS KOGNITIF<br/>• Stimulasi Saraf Vagus (Vagal Tone)<br/>• Regulasi Dopamin & Menurunkan Kortisol<br/>• Penguatan Koneksi PFC-Amigdala"]
     end
 ```
 
@@ -1406,11 +1406,11 @@ Para ilmuwan neurosains kognitif terkemuka dunia, seperti Prof. Laurence Steinbe
 
 ```mermaid
 graph TD
-    subgraph DUAL_SYSTEMS_MODEL["Model Sistem Ganda Otak Remaja (Steinberg & Casey)"]
+    subgraph DUAL_SYSTEMS_MODEL["Model Sistem Ganda Otak Remaja<br/>(Steinberg & Casey)"]
         direction TB
-        L["1. SISTEM SOSIO-EMOSIONAL / LIMBIK (MESIN FERRARI)<br/>• Amigdala & Nukleus Akumbens<br/>• Dipicu Lonjakan Hormon Pubertas (Usia 11–13 Tahun)<br/>• Mencari Sensasi Ekstrem, Pengakuan Teman Sebaya, Hasrat Dopamin Tinggi"]
+        L["1. SISTEM SOSIO-EMOSIONAL<br/>/ LIMBIK (MESIN FERRARI)<br/>• Amigdala & Nukleus Akumbens<br/>• Dipicu Lonjakan Hormon Pubertas (Usia 11–13 Tahun)<br/>• Mencari Sensasi, Pengakuan Sebaya,<br/>& Hasrat Dopamin Tinggi"]
         
-        P["2. SISTEM KONTROL KOGNITIF / PREFRONTAL CORTEX (REM SEPEDA)<br/>• Korteks Prafrontal (PFC)<br/>• Pusat Kendali Impuls, Nalar Jangka Panjang, Regulasi Emosi<br/>• Baru Matang Sempurna pada Usia 24–25 Tahun!"]
+        P["2. KONTROL KOGNITIF / PFC<br/>(REM SEPEDA)<br/>• Korteks Prafrontal (PFC)<br/>• Kendali Impuls, Nalar Panjang,<br/>& Regulasi Emosi<br/>• Baru Matang Sempurna pada Usia 24–25 Tahun!"]
         
         L -.->|Terjadi Kesenjangan Maturasi 10 Tahun!| P
     end
@@ -1446,17 +1446,17 @@ $$\text{“Neurons that fire together, wire together; neurons that don't, are pr
 > *"Jaringan sel saraf yang menyala bersama-sama secara berulang akan tersambung secara permanen menjadi sirkuit watak; sementara jaringan sel saraf yang tidak pernah diaktifkan akan dipangkas dan dimatikan oleh otak."*[^5]
 
 ```mermaid
-graph LR
+graph TD
     subgraph JALUR_TEROR["1. Jika Asrama Dipenuhi Teror & Bentakan"]
         direction TB
         J1["Amigdala Menyala Terus-Menerus"] --> J2["Penguatan Sirkuit Ketakutan & Agresi"]
-        J2 --> J3["Karakter Dewasa: Paranoid, Pemarah, Hipokrit & Keras Hati"]
+        J2 --> J3["Karakter Dewasa:<br/>Paranoid, Pemarah, Hipokrit, & Keras"]
     end
 
     subgraph JALUR_TUMBUH["2. Jika Asrama Dipenuhi Bi'ah Shalihah TUMBUH"]
         direction TB
-        T1["PFC & Sirkuit Empati Dilatih Tiap Hari"] --> T2["Mielinisasi Sirkuit Sabar, Thuma'ninah & Nalar"]
-        T2 --> T3["Karakter Dewasa: Tenang, Beradab Spontan, Kokoh & Berintegritas"]
+        T1["PFC & Sirkuit Empati Dilatih Tiap Hari"] --> T2["Mielinisasi Sirkuit Sabar,<br/>Thuma'ninah, & Nalar"]
+        T2 --> T3["Karakter Dewasa:<br/>Tenang, Beradab Spontan, & Kokoh"]
     end
 ```
 
@@ -1748,8 +1748,8 @@ Penelitian pendidikan sosiologis membuktikan sebuah aksioma yang tak terbantahka
 graph TD
     subgraph KONTRADIKSI_TRADISIONAL["Pertentangan Kurikulum di Asrama Konvensional"]
         direction TB
-        KF["Kurikulum Formal di Kelas (07.00 - 12.00):<br/>Ustadz mengajarkan kitab adab, akhlak mulia & kebersihan."]
-        KT["Kurikulum Tersembunyi di Asrama (24 Jam):<br/>Musyrif membentak, senior menekan & lingkungan abai adab."]
+        KF["Kurikulum Formal di Kelas (07.00 - 12.00):<br/>Ustadz ajarkan kitab adab,<br/>akhlak mulia, & kebersihan."]
+        KT["Kurikulum Tersembunyi di Asrama (24 Jam):<br/>Musyrif membentak, senior menekan,<br/>& lingkungan abai adab."]
         KF --- KT
     end
 
@@ -1883,10 +1883,10 @@ Pegas itu akan **melompat melenting ke udara dengan kecepatan tinggi dan daya le
 graph TD
     subgraph EFEK_PEGAS_DISIPLIN["Fenomena Efek Pegas di Asrama Pesantren"]
         direction TB
-        A["1. TEKANAN KOERSIF EKSTREM<br/>Bentakan, Rotan, Hukuman Menghinakan & Ancaman Takzir"] --> B["2. PEGAS TERTEKAN (KEPATUHAN SEMU)<br/>Santri Terlihat Patuh & Diam Karena Takut Siksaan Fisik"]
-        B --> C["3. AKUMULASI ENERGI DENDAM<br/>Jiwa Merasa Terhina, Dendam Membara, Otak Terbiasa Hipokrit"]
+        A["1. TEKANAN KOERSIF EKSTREM<br/>Bentakan, Rotan, & Ancaman Takzir"] --> B["2. PEGAS TERTEKAN (KEPATUHAN SEMU)<br/>Santri Patuh Semata Takut Sanksi"]
+        B --> C["3. AKUMULASI ENERGI DENDAM<br/>Jiwa Terhina & Otak Hipokrit"]
         C --> D["4. PELEPASAN TEKANAN (LIBURAN / KELULUSAN)<br/>Pengawas Lenyap, Gerbang Asrama Terbuka"]
-        D --> E["5. LEDAKAN PEGAS DESTRUKTIF<br/>Balas Dendam Moral, Melepas Jilbab, Pergaulan Bebas, Narkotika"]
+        D --> E["5. LEDAKAN PEGAS DESTRUKTIF<br/>Balas Dendam Moral & Perilaku Bebas"]
     end
 ```
 
@@ -1916,7 +1916,7 @@ Dalam sains psikologi perilaku modern, James Prochaska dan Carlo DiClemente meru
 
 ```mermaid
 graph TD
-    subgraph TAHAPAN_PERUBAHAN_TUMBUH["Enam Etape Transformasi Karakter Santri TUMBUH"]
+    subgraph TAHAPAN_PERUBAHAN_TUMBUH["Enam Etape Transformasi<br/>Karakter Santri TUMBUH"]
         direction TB
         S1["1. FASE GHAFLAH (Lalai)<br/>Belum sadar masalah"]
         S2["2. FASE YAQZHAH (Sadar)<br/>Muncul penyesalan nurani"]
@@ -1973,14 +1973,14 @@ Bayangkan seorang santri yang telah bertekad kuat untuk menjaga pandangan matany
 Oleh karena itu, teori perubahan TUMBUH tidak berhenti pada pembinaan individu per individu, melainkan mengadopsi **Pendekatan Sistemik Dinamis (*Dynamic Systems Thinking*)** dan **Teori Difusi Inovasi Kebudayaan (*Diffusion of Innovations*)** yang dirumuskan oleh sosiolog Everett Rogers[^6]:
 
 ```mermaid
-graph LR
+graph TD
     subgraph STRATEGI_DIFUSI_ASRAMA["Strategi Perubahan Budaya Kamar TUMBUH"]
         direction TB
-        P["1. KELOMPOK PELOPOR (INNOVATORS: 2,5%)<br/>Santri J4 & Musyrif yang Memiliki Integritas Karakter Puncak"]
-        EA["2. PENGADOPSI AWAL (EARLY ADOPTERS: 13,5%)<br/>Santri J3 yang Memiliki Pengaruh Sosial Kuat di Kamar"]
-        TP["TITIK TEMBUS PERADABAN (THE TIPPING POINT: 16%)<br/>Pergeseran Norma Sosial Kamar Menjadi Positif Secara Alami"]
-        M["3. MASSA MAYORITAS SANTRI (68%)<br/>Mengikuti Arus Budaya Baru Kamar Tanpa Perlu Dipaksa"]
-        L["4. KELOMPOK MEMBUTUHKAN BANTUAN KHUSUS (16%)<br/>Santri Tier 2/Tier 3 yang Didampingi Konseling Intensif"]
+        P["1. PELOPOR (INNOVATORS: 2,5%)<br/>Santri J4 & Musyrif Berintegritas Puncak"]
+        EA["2. PENGADOPSI AWAL (13,5%)<br/>Santri J3 Berpengaruh Sosial Kuat"]
+        TP["TITIK TEMBUS (TIPPING POINT: 16%)<br/>Norma Kamar Bergeser Positif Spontan"]
+        M["3. MASSA MAYORITAS (68%)<br/>Ikuti Arus Budaya Baru Tanpa Dipaksa"]
+        L["4. DUKUNGAN KHUSUS (16%)<br/>Santri Tier 2/3 Didampingi Konseling"]
     end
 
     P --> EA
@@ -2011,7 +2011,7 @@ Bagaimanakah sebuah adab yang awalnya terasa berat—seperti bangun fajar, merap
 Sains perilaku modern (Charles Duhigg dalam *The Power of Habit* dan James Clear dalam *Atomic Habits*) membuktikan bahwa setiap kebiasaan manusia digerakkan oleh sebuah lingkaran saraf yang terdiri atas tiga komponen utama: **Isyarat (*Cue*), Rutinitas (*Routine*), dan Ganjaran (*Reward*)**[^7]:
 
 ```mermaid
-graph LR
+graph TD
     subgraph SIKLUS_KEBIASAAN["Lingkaran Kebiasaan (The Habit Loop)"]
         C["1. ISYARAT (CUE)<br/>Pemicu Lingkungan / Waktu / Lokasi"] --> R["2. RUTINITAS (ROUTINE)<br/>Tindakan Fisik / Perilaku Nyata"]
         R --> W["3. GANJARAN (REWARD)<br/>Kepuasan Batin / Dopamin Alami"]
@@ -2151,8 +2151,8 @@ Perhatikan kedudukan strategis Prinsip Inti dalam hierarki sistem TUMBUH:
 
 ```mermaid
 graph TD
-    P["01_PHILOSOPHY (Landasan Filosofis)<br/>Worldview Tauhid, Epistemologi Terpadu & Martabat Fitrah"] --> C["01_CORE_PRINCIPLES (Sepuluh Prinsip Inti)<br/>Penjaga Apa yang TIDAK BOLEH HILANG dalam Pembinaan"]
-    C --> D["02_DESIGN_PRINCIPLES (Prinsip Perancangan)<br/>Pemandu Cara Berpikir Saat Menyusun Aturan & Instrumen"]
+    P["01_PHILOSOPHY (Landasan Filosofis)<br/>Worldview Tauhid, Epistemologi Terpadu,<br/>& Martabat Fitrah"] --> C["01_CORE_PRINCIPLES (Sepuluh Prinsip Inti)<br/>Penjaga Batas Integritas<br/>yang TIDAK BOLEH HILANG"]
+    C --> D["02_DESIGN_PRINCIPLES (Prinsip Perancangan)<br/>Pemandu Nalar Perumusan<br/>Aturan & Instrumen Asrama"]
     D --> M["03_CORE_MODEL (Model Inti)<br/>Penerjemahan Menjadi Jenjang Kemandirian (J1–J4) & Ekosistem 24 Jam"]
 ```
 
@@ -2212,7 +2212,7 @@ Dalam psikologi pengasuhan modern (*Positive Discipline* oleh Dr. Jane Nelsen) d
 graph TD
     subgraph EMPAT_KUADRAN_PENGASUHAN["Empat Model Pengasuhan Asrama"]
         direction TB
-        A["1. OTORITER (Firm, Not Kind)<br/>Disiplin Tanpa Kasih: Bentakan & Hukuman Fisik<br/>Hasil: Kepatuhan Semu, Dendam & Hipokrit"]
+        A["1. OTORITER (Firm, Not Kind)<br/>Disiplin Tanpa Kasih:<br/>Bentakan & Sanksi Fisik<br/>Hasil: Kepatuhan Semu, Dendam & Hipokrit"]
         B["2. PERMISIF (Kind, Not Firm)<br/>Kasih Tanpa Ketegasan: Pembiaran Pelanggaran<br/>Hasil: Santri Manja, Anarki & Hilang Adab"]
         C["3. PENGABAIAN (Neither Kind nor Firm)<br/>Apatis, Tanpa Kasih Maupun Disiplin<br/>Hasil: Kehancuran Moral & Kerawanan Kamar"]
         D["4. PARADIGMA TUMBUH (Both Kind and Firm)<br/>Disiplin Tinggi Berpadu Kasih Sayang Penuh<br/>Hasil: Santri Mandiri, Beradab & Cinta Guru"]
@@ -2250,13 +2250,13 @@ graph TD
     
     subgraph TUJUH_UJI_ETIK["Tujuh Uji Etika Kebijakan TUMBUH"]
         direction TB
-        T1["1. Uji Tauhid: Selaras dengan kemuliaan fitrah insan?"]
-        --> T2["2. Uji Pertumbuhan: Membantu tumbuh atau sekadar menakuti?"]
-        --> T3["3. Uji Kemanusiaan: Hormati hak tidur 7 jam & gizi?"]
-        --> T4["4. Uji Faktual: Berbasis bukti sahih, bukan emosi?"]
-        --> T5["5. Uji Keterpaduan: Sejalan dengan ajaran madrasah?"]
-        --> T6["6. Uji Kemanfaatan: Nyata memulihkan adab & ukhuwah?"]
-        --> T7["7. Uji Muhasabah: Siap mencabut aturan jika gagal?"]
+        T1["1. Uji Tauhid: Selaras kemuliaan fitrah?"]
+        --> T2["2. Uji Tumbuh: Mendidik atau menakuti?"]
+        --> T3["3. Uji Insani: Hormati hak tidur & gizi?"]
+        --> T4["4. Uji Fakta: Berbasis bukti sahih?"]
+        --> T5["5. Uji Terpadu: Sejalan ajaran kelas?"]
+        --> T6["6. Uji Manfaat: Pulihkan adab & ukhuwah?"]
+        --> T7["7. Uji Evaluasi: Siap cabut jika keliru?"]
     end
 
     R ==> TUJUH_UJI_ETIK
@@ -2376,11 +2376,11 @@ Peristiwa memilukan ini menyadarkan kita akan sebuah aksioma penting: **Kezalima
 
 ```mermaid
 graph TD
-    A["Musyrif Bertugas Nonstop 18–20 Jam Tanpa Istirahat Cukup"] --> B["Kelelahan Saraf Akut (Decision Fatigue & Ego Depletion)"]
-    B --> C["Prefrontal Cortex Musyrif Melemah; Amigdala Mengambil Alih"]
-    C --> D["Santri Melakukan Pelanggaran Ringan di Malam Hari"]
-    D --> E["LEDAKAN AMARAH DISPROPORSIOAL (Hukuman Kejam & Zalim)"]
-    E --> F["Trauma Batin Santri & Penyesalan Rusak Musyrif"]
+    A["Musyrif Bertugas Nonstop 18–20 Jam Tanpa Istirahat Cukup"] --> B["Kelelahan Saraf Akut<br/>(Decision Fatigue & Ego Depletion)"]
+    B --> C["Prefrontal Cortex Melemah;<br/>Amigdala Mengambil Alih"]
+    C --> D["Pelanggaran Ringan Santri<br/>di Larut Malam"]
+    D --> E["LEDAKAN AMARAH DISPROPORSIOAL<br/>(Sanksi Kejam & Zalim)"]
+    E --> F["Trauma Batin Santri<br/>& Penyesalan Musyrif"]
 ```
 
 Secara biologis murni, seorang manusia yang mengalami kelelahan kronis akan kehilangan kapasitas korteks prafrontal (PFC)-nya untuk berpikir jernih, menahan impuls amarah, dan mempertimbangkan keadilan proporsional. Otak purbanya (amigdala) mengambil alih kendali, memperlakukan pelanggaran kecil santri laksana ancaman eksistensial yang harus dihancurkan dengan kekerasan.
@@ -2408,10 +2408,10 @@ Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut 
 
 ```mermaid
 graph TD
-    A["Santri Melakukan Kesalahan Sekali (Misal: Mengambil Makanan)"] --> B["Pembina & Kawan Sekamar Menyematkan Label: 'PENCURI'"]
-    B --> C["Santri Menginternalisasi Label Tersebut ke Konsep Dirinya"]
-    C --> D["Santri Berpikir: 'Toh semua orang sudah menganggapku penjahat, sekalian saja aku berbuat jahat!'"]
-    D --> E["Santri Menjadi Pelaku Kriminal Asrama yang Dingin & Kebal Nasihat"]
+    A["Santri Melakukan Kesalahan Sekali<br/>(Contoh: Mengambil Makanan)"] --> B["Pembina & Kawan Menyematkan<br/>Label Stigma: 'PENCURI'"]
+    B --> C["Santri Menginternalisasi Label<br/>ke dalam Konsep Dirinya"]
+    C --> D["Santri Berpikir:<br/>'Semua orang menganggapku jahat,<br/>sekalian saja aku berbuat jahat!'"]
+    D --> E["Santri Bermutasi Menjadi Pelaku<br/>yang Dingin & Kebal Nasihat"]
 ```
 
 Ketika seorang santri berkali-kali dicap sebagai "anak nakal", "pemalas", atau "pembangkang", otaknya secara bertahap menyerah. Ia berhenti berusaha menjadi anak baik. Ia berkata di dalam hatinya: *"Percuma aku salat di saf pertama, ustadz tetap memandangku sebagai anak nakal. Percuma aku belajar giat, kawan-kawan tetap memanggilku pencuri."* Label tersebut berubah menjadi vonis mati bagi masa depan karakternya.
@@ -2533,8 +2533,8 @@ TUMBUH memberlakukan standar etika tata kelola data santri yang sangat ketat:
 graph TD
     subgraph DUA_PILAR_DATA_TUMBUH["Tata Kelola Data Perlindungan Santri"]
         direction TB
-        P1["1. HAK PRIVASI & AKSES BERJENJANG<br/>Data pelanggaran HANYA diakses Musyrif terkait<br/>dan Konselor BK resmi (bukan santri senior)."]
-        P2["2. HAK PEMUTIHAN CATATAN<br/>Setelah proses restorasi tuntas & 6 bulan konsisten,<br/>catatan lama ditutup & diarsipkan permanen."]
+        P1["1. HAK PRIVASI & AKSES BERJENJANG<br/>Data HANYA diakses<br/>Musyrif terkait<br/>dan Konselor BK resmi (bukan santri senior)."]
+        P2["2. HAK PEMUTIHAN CATATAN<br/>Setelah restorasi tuntas<br/>& 6 bulan konsisten,<br/>catatan lama ditutup & diarsipkan permanen."]
         P1 ==> P2
     end
 ```
@@ -2631,8 +2631,8 @@ graph TD
     
     subgraph ARSITEKTUR_CORE_MODEL["Struktur Tiga Lapis Model Inti"]
         B --> L1["1. TIGA RANAH HUBUNGAN ASASI<br/>Hablum Minallah • Hablum Minannas • Hablum Ma'an-Nafs"]
-        L1 --> L2["2. SEPULUH PROFIL LULUSAN (GRADUATE PROFILE)<br/>Sosok Utuh Insan Rusyd yang Menjadi Penyejuk Hati Umat"]
-        L2 --> L3["3. DELAPAN KAPASITAS INTI (8 CORE CAPACITIES)<br/>Instrumen Fungsional Kognitif, Afektif, Fisik & Sosial Santri"]
+        L1 --> L2["2. SEPULUH PROFIL LULUSAN (GRADUATE PROFILE)<br/>Sosok Utuh Insan Rusyd<br/>Penyejuk Hati Umat"]
+        L2 --> L3["3. DELAPAN KAPASITAS INTI (8 CORE CAPACITIES)<br/>Instrumen Kognitif, Afektif,<br/>Fisik, & Sosial"]
     end
 
     L3 --> C["PROGRESI KEMANDIRIAN J1–J4 & ASESMEN FORMATIF"]
@@ -2647,7 +2647,7 @@ Tiga ranah hubungan asasi ini bukanlah sekadar pembagian matriks kompetensi mode
 Seluruh gerak kehidupan santri selama dua puluh empat jam di asrama berporos pada **Tiga Ranah Hubungan Asasi (*The Triadic Domains of Relation*)**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph TIGA_RANAH_HUBUNGAN["Tiga Poros Kehidupan Santri"]
         M["1. HABLUM MINALLAH<br/>(Relasi dengan Sang Khaliq)<br/>Tauhid Murni • Ibadah Khusyuk • Niat Ikhlas • Muraqabatullah"]
         N["2. HABLUM MINANNAS<br/>(Relasi dengan Sesama Insan)<br/>Adab Bergaul • Empati Ukhuwah • Amanah Sosial • Ishlah al-Bain"]
@@ -2812,7 +2812,7 @@ Mari kita bedah hakikat dan indikator operasional dari masing-masing Kapasitas I
 Perhatikan bagaimana Delapan Kapasitas Inti ini bekerja bukan sebagai kotak-kotak terpisah, melainkan sebagai **sistem jaringan yang saling menguatkan (*synergistic matrix*)**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph KAPASITAS_PENGGERAK["8 Core Capacities (Mesin Pembina)"]
         C1["CC-1: Regulasi Diri"]
         C7["CC-7: Agensi Sadar"]
@@ -2929,10 +2929,10 @@ Jika sebuah pesantren memiliki lorong jemuran pakaian yang gelap gulita di lanta
 
 ```mermaid
 graph TD
-    A["Desain Fisik Asrama yang Buruk (Lorong Gelap, Sudut Terisolasi, Pintu Tertutup Rapat)"] --> B["Terciptanya Titik Rawan Perundungan (Hotspots)"]
-    B --> C["Ketiadaan Pengawasan Alami (Zero Natural Surveillance)"]
-    C --> D["Amigdala & Nafs Primitif Pelaku Merasa Aman Melakukan Pelanggaran"]
-    D --> E["TERJADINYA PERUNDUNGAN, PEMERASAN & KEKERASAN FISIK"]
+    A["Desain Fisik Asrama yang Buruk<br/>(Lorong Gelap & Pintu Tertutup)"] --> B["Terciptanya Titik Rawan<br/>Perundungan (Hotspots)"]
+    B --> C["Ketiadaan Pengawasan Alami<br/>(Zero Surveillance)"]
+    C --> D["Nafs & Amigdala Pelaku Merasa Aman<br/>Melanggar di Sudut Terisolasi"]
+    D --> E["TERJADINYA PERUNDUNGAN,<br/>PEMERASAN, & KEKERASAN FISIK"]
 ```
 
 Ketika seorang santri senior yang sedang dirasuki hawa nafsu amarah melihat ada sudut asrama yang gelap, sepi, dan mustahil terlihat oleh musyrif, ketiadaan pengawasan fisik tersebut seketika menurunkan hambatan psikologisnya (*low perceived risk of detection*). Ia merasa aman untuk melampiaskan kekerasannya kepada adik kelasnya.
@@ -2949,8 +2949,8 @@ Ekosistem TUMBUH mewajibkan setiap pesantren melakukan audit tata ruang fisik da
 graph TD
     subgraph EMPAT_PILAR_REKAYASA_ASRAMA["Empat Pilar Rekayasa Lingkungan Asrama"]
         direction TB
-        P1["1. PENCAHAYAAN OPTIMAL (Lighting)<br/>Eliminasi Total Sudut Gelap di Lorong & Tangga"]
-        --> P2["2. PENGAWASAN ALAMI (Natural Surveillance)<br/>Pintu Berventilasi Kaca & Pos Musyrif Strategis"]
+        P1["1. PENCAHAYAAN OPTIMAL (Lighting)<br/>Eliminasi Sudut Gelap<br/>di Lorong & Tangga"]
+        --> P2["2. PENGAWASAN ALAMI (Natural Surveillance)<br/>Pintu Berventilasi Kaca<br/>& Pos Musyrif Strategis"]
         --> P3["3. PENGENDALIAN AKSES (Access Control)<br/>Gudang Terkunci & Kamar Mandi Bersekat Aman"]
         --> P4["4. KELAYAKAN SANITASI & SIRKULASI<br/>Sirkulasi Udara Segar & Air Bersih Higienis"]
     end
@@ -3214,7 +3214,7 @@ Lensa ini memandang perjalanan manusia dari perspektif makro-filosofis tarbiyah 
 
 ```mermaid
 graph TD
-    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif di Asrama (Puncak di J4)"]
+    subgraph SIKLUS_SANTRI["Tujuh Etape Santri Aktif<br/>di Asrama (Puncak di J4)"]
         direction TB
         T1["1. Tahu (Ta'allum)"]
         --> T2["2. Paham (Tafahhum)"]
@@ -3538,7 +3538,7 @@ graph TD
         P["Ledakan Pubertas Awal & Pencarian Jati Diri"]
         --> F1["1. LONJAKAN HORMON BIOLOGIS:<br/>Energi fisik berlebih & dorongan agresivitas"]
         --> F2["2. PENGUJIAN BATAS (BOUNDARY TESTING):<br/>Menguji ketegasan aturan & otoritas musyrif"]
-        --> F3["3. DINAMIKA KELOMPOK SEBAYA (PEER GROUP):<br/>Solidaritas kelompok sempit & kerentanan konflik"]
+        --> F3["3. DINAMIKA KELOMPOK SEBAYA (PEER GROUP):<br/>Solidaritas sempit<br/>& kerentanan konflik"]
     end
 
     BADAI_PUBERTAS_J2 ==> STRATEGI_J2["FOKUS PENGASUHAN J2 (SCAFFOLDING):<br/>• Penyaluran fisik via olahraga & beladiri terarah<br/>• Tanggung jawab kamar via Majlis al-Ghurfah<br/>• Dialog restoratif sebaya tanpa kekerasan"]
@@ -4014,11 +4014,11 @@ Sidang Dewan Transisi (*Gateway Council*) adalah mahkamah pedagogis yang menentu
 graph TD
     subgraph SIKLUS_SIDANG_GATEWAY["Alur 5 Tahap Sidang Dewan Transisi"]
         direction TB
-        S1["TAHAP 1: PEMERIKSAAN BERKAS PORTOFOLIO MULTISUMBER<br/>Audit Logbook Musyrif 12 Pekan, Rekam Kehadiran & Masukan Tertutup Sebaya"]
-        S2["TAHAP 2: SIDANG PLENO DEWAN PENGASUHAN TANPA SANTRI<br/>Musyawarah Musyrif, Guru Madrasah & Tim BK Membedah Konsistensi Kapasitas"]
-        S3["TAHAP 3: WAWANCARA DIALOGIS REFLEKTIF BERSAMA SANTRI<br/>Santri Mempresentasikan Jurnal Muhasabah & Menjawab Pertanyaan Hikmah"]
-        S4["TAHAP 4: PENETAPAN STATUS TRANSIFIKASI RESMI<br/>Promosi Penuh / Promosi Bersyarat 30 Hari / Dukungan Konsolidasi"]
-        S5["TAHAP 5: PENYAMPAIAN HASIL KEPADA SANTRI & WALI SANTRI<br/>Pemberian Apresiasi Tertulis & Penandatanganan Akad Amanah Baru"]
+        S1["TAHAP 1: PEMERIKSAAN PORTOFOLIO<br/>Audit Logbook Musyrif 12 Pekan,<br/>Rekam Kehadiran, & Umpan Balik Sebaya"]
+        S2["TAHAP 2: SIDANG PLENO PENGASUHAN<br/>Musyawarah Musyrif, Guru, & Tim BK<br/>Membedah Konsistensi Kapasitas Adab"]
+        S3["TAHAP 3: WAWANCARA REFLEKTIF SANTRI<br/>Presentasi Jurnal Muhasabah Pribadi<br/>& Dialog Penggalian Hikmah"]
+        S4["TAHAP 4: STATUS TRANSIFIKASI<br/>Promosi Penuh, Promosi Bersyarat,<br/>atau Dukungan Konsolidasi"]
+        S5["TAHAP 5: PENYERAHAN AMANAH BARU<br/>Pemberian Apresiasi Tertulis Resmi<br/>& Akad Komitmen Khidmah Baru"]
         
         S1 --> S2 --> S3 --> S4 --> S5
     end
@@ -4108,12 +4108,12 @@ Merangkum seluruh kompleksitas jiwa seorang anak ke dalam angka tunggal kuantita
 
 ```mermaid
 graph TD
-    A["REDUKSI KARAKTER MENJADI ANGKA MATI (85 / NILAI B)"]
+    A["REDUKSI KARAKTER<br/>MENJADI ANGKA MATI (NILAI 85/B)"]
     
     subgraph TIGA_BAHAYA_SKOR_ANGKA["Tiga Bahaya Reduksi Angka Tunggal"]
         direction TB
-        B1["1. KEHILANGAN KONTEKS (Loss of Context):<br/>Angka tidak menjelaskan motif & kondisi santri."]
-        --> B2["2. MUNCUL KEPATUHAN SEMU (Feigned Compliance):<br/>Santri mengejar poin demi pujian, bukan ridha Allah."]
+        B1["1. KEHILANGAN KONTEKS (Loss of Context):<br/>Angka tidak jelaskan<br/>motif & kondisi santri."]
+        --> B2["2. KEPATUHAN SEMU (Feigned Compliance):<br/>Santri kejar poin demi pujian,<br/>bukan ridha Allah."]
         --> B3["3. JEBAKAN PELABELAN (Labeling Trap):<br/>Cap anak bermasalah merusak konsep diri."]
     end
 
@@ -4307,10 +4307,10 @@ TUMBUH melatih para pembina menguasai protokol **Roti Lapis Adab (*The Adab Sand
 
 ```mermaid
 graph TD
-    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Koreksi Beradab (Sandwich Feedback)"]
+    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Koreksi Beradab<br/>(Sandwich Feedback)"]
         direction TB
-        L1["LAPIS 1: AFIRMASI & APRESIASI TULUS (Roti Atas)<br/>'Ustadz sangat menghargai caramu membantu<br/>adik kelas menyapu kemarin sore...'"]
-        --> L2["LAPIS 2: DESKRIPSI KOREKSI SPESIFIK (Daging Inti)<br/>'Namun subuh tadi, antum terlambat 5 menit<br/>masuk saf karena masih mengobrol...'"]
+        L1["LAPIS 1: AFIRMASI TULUS (Roti Atas)<br/>'Ustadz sangat menghargai caramu membantu<br/>adik kelas menyapu kemarin sore...'"]
+        --> L2["LAPIS 2: KOREKSI SPESIFIK (Inti)<br/>'Namun subuh tadi, antum terlambat 5 menit<br/>masuk saf karena masih mengobrol...'"]
         --> L3["LAPIS 3: HARAPAN & DUKUNGAN (Roti Bawah)<br/>'Ustadz yakin antum bisa tidur lebih awal<br/>malam ini. Mari kita ikhtiarkan bersama!'"]
     end
 ```
@@ -4393,13 +4393,13 @@ Ketika seorang santri melakukan tindakan maladaptif—seperti membolos salat, me
 
 ```mermaid
 graph TD
-    subgraph GUNUNG_ES_PERILAKU["Gunung Es Perilaku Santri (The Behavioral Iceberg)"]
+    subgraph GUNUNG_ES_PERILAKU["Gunung Es Perilaku Santri<br/>(The Behavioral Iceberg)"]
         direction TB
-        T["PERILAKU TAMPAK (HANYA 10% TERLIHAT)<br/>• Membolos, Berteriak, Mencontek, Memukul, Merusak Barang<br/>• Respons Tradisional: Dibentak, Dihukum Fisik, Dilabeli Nakal"]
+        T["PERILAKU TAMPAK (HANYA 10% TERLIHAT)<br/>• Membolos, Berteriak,<br/>  Mencontek, atau Memukul<br/>• Respons Tradisional:<br/>  Dibentak & Dihukum Fisik"]
         
-        A["GARIS PERMUKAAN AIR (TABIR KETIDAKTAHUAN PENDIDIK)"]
+        A["GARIS PERMUKAAN AIR<br/>(TABIR KETIDAKTAHUAN)"]
         
-        B["AKAR FUNGSI & KEBUTUHAN BATIN (90% TERSEMBUNYI)<br/>1. Menghindari Rasa Malu & Beban Tugas yang Terlalu Berat (Escape)<br/>2. Dahaga Kasih Sayang & Pengakuan Eksistensi Teman Sebaya (Attention)<br/>3. Kelelahan Fisik Kronis, Kurang Tidur & Hipoglikemia Lapar (Physiological)<br/>4. Regulasi Sistem Saraf yang Kewalahan Menahan Stres Asrama (Sensory/Nafs)"]
+        B["AKAR FUNGSI & KEBUTUHAN<br/>(90% TERSEMBUNYI)<br/>1. Hindari Malu & Beban Berlebih (Escape)<br/>2. Dahaga Kasih & Pengakuan (Attention)<br/>3. Kelelahan Fisik & Lapar (Physiological)<br/>4. Regulasi Saraf Tertekan (Sensory/Nafs)"]
         
         T --- A
         A --- B
@@ -4635,11 +4635,11 @@ graph TD
     subgraph PIRAMIDA_INTERVENSI_BERTINGKAT["Arsitektur Multi-Tier PBIS Pesantren TUMBUH"]
         direction TB
         
-        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5%)<br/>• Krisis kompleks, trauma & penanganan khusus<br/>• Rencana Intervensi Perilaku Individual (BIP/FBA)<br/>• Kolaborasi: Pimpinan, Musyrif, BK & Orang Tua"]
+        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5%)<br/>• Krisis kompleks, trauma & penanganan khusus<br/>• Rencana Intervensi Perilaku (BIP/FBA)<br/>• Kolaborasi: Pimpinan, Musyrif, BK, & Ortu"]
         
-        --> T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15%)<br/>• Santri rentan: homesick & adaptasi sosial<br/>• Mentoring terarah: Check-In/Check-Out (CICO)<br/>• Halaqah keterampilan regulasi emosi & asertif"]
+        --> T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15%)<br/>• Santri rentan: homesick & adaptasi sosial<br/>• Mentoring Terarah: CICO<br/>• Halaqah Regulasi Emosi & Asertif"]
         
-        --> T1["TIER 1: PENCEGAHAN UNIVERSAL (80–90% POPULASI)<br/>• Fondasi Bi'ah Shalihah di seluruh ruang 24 jam<br/>• Matriks harapan adab yang jelas & eksplisit<br/>• Keteladanan qudwah & rasio afirmasi emas 4:1"]
+        --> T1["TIER 1: PENCEGAHAN UNIVERSAL<br/>(80–90% POPULASI)<br/>• Fondasi Bi'ah Shalihah di Ruang 24 Jam<br/>• Matriks harapan adab yang jelas & eksplisit<br/>• Keteladanan Qudwah & Rasio Afirmasi 4:1"]
     end
 ```
 
@@ -4796,9 +4796,9 @@ Keberhasilan arsitektur PBIS di pesantren dipandu oleh **Tim Kepemimpinan PBIS L
 graph TD
     subgraph SIKLUS_DATA_PBIS["Siklus Analitik Keputusan Tim PBIS"]
         direction TB
-        D["1. HIMPUN DATA FAKTUAL LOGBOOK & DISIPLIN BULANAN"] --> A["2. ANALISIS DATA SPASIAL & TEMPORAL (SWIS/Dashboard)"]
-        A --> T["3. IDENTIFIKASI PERTANYAAN KUNCI:<br/>• Di mana hotspot terbanyak? (Kamar mandi? Kantin?)<br/>• Jam berapa insiden memuncak? (16.30 sore? 22.00 malam?)<br/>• Jenis pelanggaran apa yang mendominasi? (Ghashab? Terlambat?)"]
-        T --> I["4. DESAIN INTERVENSI SISTEMIK BARU:<br/>• Rekayasa Lingkungan / Penambahan Penerangan / Modifikasi Jadwal"]
+        D["1. HIMPUN DATA FAKTUAL<br/>Logbook & Disiplin Bulanan"] --> A["2. ANALISIS DATA ANALITIK<br/>SWIS & Dashboard Digital"]
+        A --> T["3. IDENTIFIKASI PERTANYAAN KUNCI:<br/>• Di mana hotspot utama?<br/>  (Kamar mandi/Kantin?)<br/>• Kapan waktu rawan? (Sore/Malam?)<br/>• Pola pelanggaran apa yang dominan?"]
+        T --> I["4. DESAIN INTERVENSI SISTEMIK BARU:<br/>• Rekayasa Tata Ruang & Modifikasi Jadwal"]
         I --> E["5. EVALUASI EFEKTIVITAS BULAN BERIKUTNYA"]
     end
 ```

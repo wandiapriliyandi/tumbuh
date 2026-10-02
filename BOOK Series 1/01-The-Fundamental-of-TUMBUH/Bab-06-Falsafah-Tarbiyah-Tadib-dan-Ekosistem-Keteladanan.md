@@ -1,4 +1,4 @@
-# BAB 6: FALSAFAH TARBIYAH, TA'DIB, DAN EKOSISTEM KETELADANAN
+﻿# BAB 6: FALSAFAH TARBIYAH, TA'DIB, DAN EKOSISTEM KETELADANAN
 ## Menghidupkan Sunnah Qudwah Hasanah dan Mentransformasi Ekologi Pengasuhan Pesantren 24 Jam
 
 > لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِمَنْ كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا
@@ -256,8 +256,8 @@ Penelitian pendidikan sosiologis membuktikan sebuah aksioma yang tak terbantahka
 graph TD
     subgraph KONTRADIKSI_TRADISIONAL["Pertentangan Kurikulum di Asrama Konvensional"]
         direction TB
-        KF["Kurikulum Formal di Kelas (07.00 - 12.00):<br/>Ustadz mengajarkan kitab adab, akhlak mulia & kebersihan."]
-        KT["Kurikulum Tersembunyi di Asrama (24 Jam):<br/>Musyrif membentak, senior menekan & lingkungan abai adab."]
+        KF["Kurikulum Formal di Kelas (07.00 - 12.00):<br/>Ustadz ajarkan kitab adab,<br/>akhlak mulia, & kebersihan."]
+        KT["Kurikulum Tersembunyi di Asrama (24 Jam):<br/>Musyrif membentak, senior menekan,<br/>& lingkungan abai adab."]
         KF --- KT
     end
 

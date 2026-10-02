@@ -1,4 +1,4 @@
-# BAB 13: BEDAH JENJANG J1 & J2: ADAPTASI, PEMBIASAAN, DAN REGULASI TERBIMBING
+﻿# BAB 13: BEDAH JENJANG J1 & J2: ADAPTASI, PEMBIASAAN, DAN REGULASI TERBIMBING
 ## Protokol Pendampingan 90 Hari Pertama, Mitigasi Homesickness, Pembentukan Kebiasaan Kamar, dan Tata Kelola Pubertas Awal
 
 > يَا بُنَيَّ أَقِمِ الصَّلَاةَ وَأْمُرْ بِالْمَعْرُوفِ وَانْهَ عَنِ الْمُنْكَرِ وَاصْبِرْ عَلَىٰ مَا أَصَابَكَ ۖ إِنَّ ذَٰلِكَ مِنْ عَزْمِ الْأُمُورِ
@@ -125,7 +125,7 @@ graph TD
         P["Ledakan Pubertas Awal & Pencarian Jati Diri"]
         --> F1["1. LONJAKAN HORMON BIOLOGIS:<br/>Energi fisik berlebih & dorongan agresivitas"]
         --> F2["2. PENGUJIAN BATAS (BOUNDARY TESTING):<br/>Menguji ketegasan aturan & otoritas musyrif"]
-        --> F3["3. DINAMIKA KELOMPOK SEBAYA (PEER GROUP):<br/>Solidaritas kelompok sempit & kerentanan konflik"]
+        --> F3["3. DINAMIKA KELOMPOK SEBAYA (PEER GROUP):<br/>Solidaritas sempit<br/>& kerentanan konflik"]
     end
 
     BADAI_PUBERTAS_J2 ==> STRATEGI_J2["FOKUS PENGASUHAN J2 (SCAFFOLDING):<br/>• Penyaluran fisik via olahraga & beladiri terarah<br/>• Tanggung jawab kamar via Majlis al-Ghurfah<br/>• Dialog restoratif sebaya tanpa kekerasan"]

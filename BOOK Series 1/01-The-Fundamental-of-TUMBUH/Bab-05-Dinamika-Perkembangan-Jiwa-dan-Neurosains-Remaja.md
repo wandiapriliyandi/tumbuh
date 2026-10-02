@@ -1,4 +1,4 @@
-# BAB 5: DINAMIKA PERKEMBANGAN JIWA DAN NEUROSAINS REMAJA
+﻿# BAB 5: DINAMIKA PERKEMBANGAN JIWA DAN NEUROSAINS REMAJA
 ## Memahami Gejolak Maturasi Prefrontal Cortex, Sistem Limbik, dan Plastisitas Adab Santri
 
 > *"Ketahuilah bahwa masa muda (as-syabab) adalah salah satu cabang dari kegilaan (syu'batun min al-junun), karena darah kemudaan yang mendidih mendorong jiwa untuk menerjang hawa nafsu tanpa memedulikan akibatnya, kecuali bagi mereka yang dianugerahi pemeliharaan dan taufik oleh Allah Ta'ala."*  
@@ -23,11 +23,11 @@ Para ilmuwan neurosains kognitif terkemuka dunia, seperti Prof. Laurence Steinbe
 
 ```mermaid
 graph TD
-    subgraph DUAL_SYSTEMS_MODEL["Model Sistem Ganda Otak Remaja (Steinberg & Casey)"]
+    subgraph DUAL_SYSTEMS_MODEL["Model Sistem Ganda Otak Remaja<br/>(Steinberg & Casey)"]
         direction TB
-        L["1. SISTEM SOSIO-EMOSIONAL / LIMBIK (MESIN FERRARI)<br/>• Amigdala & Nukleus Akumbens<br/>• Dipicu Lonjakan Hormon Pubertas (Usia 11–13 Tahun)<br/>• Mencari Sensasi Ekstrem, Pengakuan Teman Sebaya, Hasrat Dopamin Tinggi"]
+        L["1. SISTEM SOSIO-EMOSIONAL<br/>/ LIMBIK (MESIN FERRARI)<br/>• Amigdala & Nukleus Akumbens<br/>• Dipicu Lonjakan Hormon Pubertas (Usia 11–13 Tahun)<br/>• Mencari Sensasi, Pengakuan Sebaya,<br/>& Hasrat Dopamin Tinggi"]
         
-        P["2. SISTEM KONTROL KOGNITIF / PREFRONTAL CORTEX (REM SEPEDA)<br/>• Korteks Prafrontal (PFC)<br/>• Pusat Kendali Impuls, Nalar Jangka Panjang, Regulasi Emosi<br/>• Baru Matang Sempurna pada Usia 24–25 Tahun!"]
+        P["2. KONTROL KOGNITIF / PFC<br/>(REM SEPEDA)<br/>• Korteks Prafrontal (PFC)<br/>• Kendali Impuls, Nalar Panjang,<br/>& Regulasi Emosi<br/>• Baru Matang Sempurna pada Usia 24–25 Tahun!"]
         
         L -.->|Terjadi Kesenjangan Maturasi 10 Tahun!| P
     end
@@ -63,17 +63,17 @@ $$\text{“Neurons that fire together, wire together; neurons that don't, are pr
 > *"Jaringan sel saraf yang menyala bersama-sama secara berulang akan tersambung secara permanen menjadi sirkuit watak; sementara jaringan sel saraf yang tidak pernah diaktifkan akan dipangkas dan dimatikan oleh otak."*[^5]
 
 ```mermaid
-graph LR
+graph TD
     subgraph JALUR_TEROR["1. Jika Asrama Dipenuhi Teror & Bentakan"]
         direction TB
         J1["Amigdala Menyala Terus-Menerus"] --> J2["Penguatan Sirkuit Ketakutan & Agresi"]
-        J2 --> J3["Karakter Dewasa: Paranoid, Pemarah, Hipokrit & Keras Hati"]
+        J2 --> J3["Karakter Dewasa:<br/>Paranoid, Pemarah, Hipokrit, & Keras"]
     end
 
     subgraph JALUR_TUMBUH["2. Jika Asrama Dipenuhi Bi'ah Shalihah TUMBUH"]
         direction TB
-        T1["PFC & Sirkuit Empati Dilatih Tiap Hari"] --> T2["Mielinisasi Sirkuit Sabar, Thuma'ninah & Nalar"]
-        T2 --> T3["Karakter Dewasa: Tenang, Beradab Spontan, Kokoh & Berintegritas"]
+        T1["PFC & Sirkuit Empati Dilatih Tiap Hari"] --> T2["Mielinisasi Sirkuit Sabar,<br/>Thuma'ninah, & Nalar"]
+        T2 --> T3["Karakter Dewasa:<br/>Tenang, Beradab Spontan, & Kokoh"]
     end
 ```
 

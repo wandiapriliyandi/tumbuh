@@ -316,10 +316,26 @@ foreach ($file in $MarkdownFiles) {
       page-break-inside: avoid;
       break-inside: avoid;
       background: #ffffff;
+      overflow: visible !important;
     }
     .mermaid svg {
       max-width: 100% !important;
       height: auto !important;
+      overflow: visible !important;
+    }
+    .mermaid foreignObject {
+      overflow: visible !important;
+    }
+    .mermaid foreignObject div {
+      overflow: visible !important;
+      white-space: normal !important;
+      text-align: center;
+    }
+    .mermaid .nodeLabel,
+    .mermaid .edgeLabel,
+    .mermaid .cluster-label {
+      white-space: normal !important;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
     }
 
     /* === CATATAN KAKI (FOOTNOTES) === */
@@ -384,10 +400,18 @@ foreach ($file in $MarkdownFiles) {
       theme: 'neutral',
       fontFamily: 'Inter, sans-serif',
       fontSize: 12,
+      flowchart: {
+        htmlLabels: true,
+        useMaxWidth: true,
+        curve: 'basis'
+      },
       securityLevel: 'loose'
     });
 
-    mermaid.run({ nodes: document.querySelectorAll('.mermaid') });
+    // Tunggu seluruh webfont selesai dimuat agar pengukuran lebar bounding box Mermaid 100% presisi
+    document.fonts.ready.then(() => {
+      mermaid.run({ nodes: document.querySelectorAll('.mermaid') });
+    });
   </script>
 </body>
 </html>

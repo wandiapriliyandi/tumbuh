@@ -1,4 +1,4 @@
-# BAB 2: PANDANGAN ALAM ISLAM SEBAGAI POROS PENDIDIKAN
+﻿# BAB 2: PANDANGAN ALAM ISLAM SEBAGAI POROS PENDIDIKAN
 ## *The Islamic Worldview* dan Implikasinya bagi Ekosistem Pesantren 24 Jam
 
 > *"Pendidikan dalam Islam bukanlah sekadar proses pengajaran informasi atau pelatihan keterampilan teknis, melainkan penanaman adab ke dalam diri manusia (Ta'dib), agar ia mengenali dan mengakui kedudukan dirinya yang tepat dalam tata susunan wujud ciptaan Allah, sehingga melahirkan amal perbuatan yang adil dan benar. Ketiadaan adab (loss of adab) adalah pangkal keruntuhan peradaban umat, dan adab tidak mungkin ditegakkan tanpa pandangan alam (worldview) yang lurus tentang hakikat wujud."*  
@@ -35,9 +35,9 @@ Ketika pengelola pondok membiarkan santri hidup di tengah lingkungan yang tidak 
 
 ```mermaid
 graph TD
-    A["PANDANGAN ALAM ISLAM (WORLDVIEW)<br/>Tauhid Mutlak, Kemuliaan Insan, Keadilan Syariat"] --> B["PARADIGMA PENGASUHAN PESANTREN<br/>Tarbiyah Bil-Hikmah, In Loco Parentis, Bi'ah Shalihah"]
-    B --> C["ARSITEKTUR LINGKUNGAN ASRAMA 24 JAM<br/>Kamar Bersih, Waktu Tidur Sehat, Disiplin Positif"]
-    C --> D["PRAKSIS HARIAN MUSYRIF & SANTRI<br/>Relasi Penuh Kasih, Dialog Sokratik, Kepatuhan Berkesadaran"]
+    A["PANDANGAN ALAM ISLAM (WORLDVIEW)<br/>Tauhid Mutlak, Kemuliaan Insan,<br/>& Keadilan Syariat"] --> B["PARADIGMA PENGASUHAN PESANTREN<br/>Tarbiyah Bil-Hikmah, In Loco Parentis,<br/>& Bi'ah Shalihah"]
+    B --> C["ARSITEKTUR LINGKUNGAN ASRAMA 24 JAM<br/>Kamar Bersih, Waktu Tidur Sehat,<br/>& Disiplin Positif"]
+    C --> D["PRAKSIS HARIAN MUSYRIF & SANTRI<br/>Relasi Penuh Kasih, Dialog Sokratik,<br/>& Kepatuhan Berkesadaran"]
 ```
 
 Worldview adalah akar pohon; arsitektur sistem adalah batangnya; dan praksis harian musyrif di kamar asrama adalah buahnya. Jika akarnya beracun atau terdistorsi, mustahil pohon tersebut menghasilkan buah karakter yang manis dan menyejukkan umat.
@@ -117,14 +117,14 @@ graph TD
     subgraph DUA_REALITAS_ISLAM["Harmoni Pandangan Alam Tauhid"]
         direction TB
         G["'ALAM AL-GHAIB (Transenden & Metafisik)<br/>• Iman kepada Allah, Malaikat Raqib & 'Atid<br/>• Akhirat, Mahkamah Hisab, Surga & Neraka<br/>• Keikhlasan Niat, Barakah & Muraqabatullah"]
-        S["'ALAM ASY-SYAHADAH (Empiris & Fisik)<br/>• Sunnatullah Biologis & Ritme Sirkadian Tubuh<br/>• Kebutuhan Gizi, Higienitas, Tidur REM/NREM<br/>• Dinamika Kelompok Sebaya di Asrama"]
+        S["'ALAM ASY-SYAHADAH (Empiris & Fisik)<br/>• Sunnatullah Biologis<br/>  & Ritme Sirkadian Tubuh<br/>• Kebutuhan Gizi, Higienitas, Tidur REM/NREM<br/>• Dinamika Kelompok Sebaya di Asrama"]
         G --- S
     end
 
     G -->|Arah Nilai & Sakralitas Niat| T["ARSITEKTUR EKOSISTEM TUMBUH 24 JAM"]
     S -->|Ketepatan Metode & Keadilan Biologis| T
 
-    T --> HASIL["Santri Beriman Kokoh, Cerdas Nalar, & Sehat Jiwa-Raga"]
+    T --> HASIL["Santri Beriman Kokoh,<br/>Cerdas Nalar, & Sehat Jiwa-Raga"]
 ```
 
 1. **'Alam al-Ghaib (Realitas Gaib/Transenden)**: Merupakan ranah metafisika yang diwahyukan: keberadaan Allah, malaikat yang mencatat setiap amal kebajikan dan keburukan, pertanggungjawaban di padang mahsyar, serta balasan surga dan neraka. Realitas gaib memberikan **makna tertinggi (*ultimate meaning*)** dan **kendali moral internal (*muraqabatullah*)**: santri beradab bukan karena takut cctv pengawas, melainkan karena yakin bahwa Allah senantiasa mengawasi gerak-gerik batinnya.
@@ -150,7 +150,7 @@ Mari kita tatap kebenaran ilmiah berdasarkan **Neurosains Kognitif dan Anatomi T
 graph TD
     subgraph SIKLUS_KONSOLIDASI_MEMORI["Siklus Konsolidasi Hafalan & Restorasi Otak"]
         direction TB
-        A["1. WAKTU SIANG: Santri Menghafal Halaman Baru<br/>Masuk Hippocampus (Kapasitas Memori Sementara)"]
+        A["1. WAKTU SIANG: Santri Menghafal Halaman Baru<br/>Masuk Hippocampus<br/>(Kapasitas Memori Sementara)"]
         --> B["2. FASE TIDUR MALAM NREM (7–8 JAM ISTIRAHAT):<br/>Konsolidasi Sinaptik Berjalan Aktif"]
         
         B --> C1["Proses A: Konsolidasi Memori<br/>Ayat dipindahkan ke Neokorteks permanen"]
@@ -207,7 +207,7 @@ graph TD
         H1["1. Merusak Fisik & Menghinakan Raga<br/>(Memukul, menampar, menjemur terik,<br/>membotaki kepala separuh/tidak teratur)"]
         H2["2. Pembunuhan Karakter di Depan Publik<br/>(Mengalungkan papan makian, mengarak santri,<br/>memaki santri lewat mikrofon)"]
         H3["3. Pelecehan Verbal & Bahasa Kotor<br/>(Memanggil sebutan binatang,<br/>merendahkan martabat orang tua/suku)"]
-        H4["4. Perampasan Hak Biologis Asasi<br/>(Menahan jatah makan-minum, melarang buang air,<br/>mengurangi waktu tidur secara zalim)"]
+        H4["4. Perampasan Hak Biologis Asasi<br/>(Menahan jatah makan-minum,<br/>melarang buang air,<br/>mengurangi waktu tidur secara zalim)"]
         H1 --> H2 --> H3 --> H4
     end
 ```
@@ -225,7 +225,7 @@ graph TD
     M["TIGA MANDAT EKSISTENSIAL SANTRI TUMBUH"]
     
     M --> M1["1. AL-'IBADAH (Hablum Minallah)<br/>Penghambaan Murni & Kesucian Niat"]
-    M1 --> M2["2. AL-AMANAH & 'IMARATUL ARDH (Hablum Minannas)<br/>Amanah Sosial, Khidmah & Maslahat Lingkungan"]
+    M1 --> M2["2. AL-AMANAH & 'IMARATUL ARDH<br/>(Hablum Minannas)<br/>Amanah Sosial, Khidmah & Maslahat Lingkungan"]
     M2 --> M3["3. AR-RUSYD (Hablum Ma'an-Nafs)<br/>Kematangan Akal Budi & Kendali Batin Mandiri"]
 ```
 

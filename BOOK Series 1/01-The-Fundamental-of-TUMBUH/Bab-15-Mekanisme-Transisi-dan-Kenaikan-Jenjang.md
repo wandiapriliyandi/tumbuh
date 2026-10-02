@@ -1,4 +1,4 @@
-# BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
+﻿# BAB 15: MEKANISME TRANSISI, PORTOFOLIO SANTRI, DAN UPACARA KENAIKAN JENJANG
 
 > يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
 >
@@ -146,11 +146,11 @@ Sidang Dewan Transisi (*Gateway Council*) adalah mahkamah pedagogis yang menentu
 graph TD
     subgraph SIKLUS_SIDANG_GATEWAY["Alur 5 Tahap Sidang Dewan Transisi"]
         direction TB
-        S1["TAHAP 1: PEMERIKSAAN BERKAS PORTOFOLIO MULTISUMBER<br/>Audit Logbook Musyrif 12 Pekan, Rekam Kehadiran & Masukan Tertutup Sebaya"]
-        S2["TAHAP 2: SIDANG PLENO DEWAN PENGASUHAN TANPA SANTRI<br/>Musyawarah Musyrif, Guru Madrasah & Tim BK Membedah Konsistensi Kapasitas"]
-        S3["TAHAP 3: WAWANCARA DIALOGIS REFLEKTIF BERSAMA SANTRI<br/>Santri Mempresentasikan Jurnal Muhasabah & Menjawab Pertanyaan Hikmah"]
-        S4["TAHAP 4: PENETAPAN STATUS TRANSIFIKASI RESMI<br/>Promosi Penuh / Promosi Bersyarat 30 Hari / Dukungan Konsolidasi"]
-        S5["TAHAP 5: PENYAMPAIAN HASIL KEPADA SANTRI & WALI SANTRI<br/>Pemberian Apresiasi Tertulis & Penandatanganan Akad Amanah Baru"]
+        S1["TAHAP 1: PEMERIKSAAN PORTOFOLIO<br/>Audit Logbook Musyrif 12 Pekan,<br/>Rekam Kehadiran, & Umpan Balik Sebaya"]
+        S2["TAHAP 2: SIDANG PLENO PENGASUHAN<br/>Musyawarah Musyrif, Guru, & Tim BK<br/>Membedah Konsistensi Kapasitas Adab"]
+        S3["TAHAP 3: WAWANCARA REFLEKTIF SANTRI<br/>Presentasi Jurnal Muhasabah Pribadi<br/>& Dialog Penggalian Hikmah"]
+        S4["TAHAP 4: STATUS TRANSIFIKASI<br/>Promosi Penuh, Promosi Bersyarat,<br/>atau Dukungan Konsolidasi"]
+        S5["TAHAP 5: PENYERAHAN AMANAH BARU<br/>Pemberian Apresiasi Tertulis Resmi<br/>& Akad Komitmen Khidmah Baru"]
         
         S1 --> S2 --> S3 --> S4 --> S5
     end

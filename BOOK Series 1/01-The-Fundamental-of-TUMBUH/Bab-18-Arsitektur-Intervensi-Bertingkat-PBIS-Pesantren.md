@@ -1,4 +1,4 @@
-# BAB 18: ARSITEKTUR INTERVENSI BERTINGKAT (SW-PBIS MULTI-TIER DI PESANTREN)
+﻿# BAB 18: ARSITEKTUR INTERVENSI BERTINGKAT (SW-PBIS MULTI-TIER DI PESANTREN)
 ## Menyelaraskan Pencegahan Universal Tier 1, Mentoring Terarah CICO Tier 2, dan Intervensi Intensif Rencana Dukungan Individual Tier 3
 
 > وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ
@@ -37,11 +37,11 @@ graph TD
     subgraph PIRAMIDA_INTERVENSI_BERTINGKAT["Arsitektur Multi-Tier PBIS Pesantren TUMBUH"]
         direction TB
         
-        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5%)<br/>• Krisis kompleks, trauma & penanganan khusus<br/>• Rencana Intervensi Perilaku Individual (BIP/FBA)<br/>• Kolaborasi: Pimpinan, Musyrif, BK & Orang Tua"]
+        T3["TIER 3: DUKUNGAN INTENSIF INDIVIDUAL (1–5%)<br/>• Krisis kompleks, trauma & penanganan khusus<br/>• Rencana Intervensi Perilaku (BIP/FBA)<br/>• Kolaborasi: Pimpinan, Musyrif, BK, & Ortu"]
         
-        --> T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15%)<br/>• Santri rentan: homesick & adaptasi sosial<br/>• Mentoring terarah: Check-In/Check-Out (CICO)<br/>• Halaqah keterampilan regulasi emosi & asertif"]
+        --> T2["TIER 2: DUKUNGAN TERARAH KELOMPOK (10–15%)<br/>• Santri rentan: homesick & adaptasi sosial<br/>• Mentoring Terarah: CICO<br/>• Halaqah Regulasi Emosi & Asertif"]
         
-        --> T1["TIER 1: PENCEGAHAN UNIVERSAL (80–90% POPULASI)<br/>• Fondasi Bi'ah Shalihah di seluruh ruang 24 jam<br/>• Matriks harapan adab yang jelas & eksplisit<br/>• Keteladanan qudwah & rasio afirmasi emas 4:1"]
+        --> T1["TIER 1: PENCEGAHAN UNIVERSAL<br/>(80–90% POPULASI)<br/>• Fondasi Bi'ah Shalihah di Ruang 24 Jam<br/>• Matriks harapan adab yang jelas & eksplisit<br/>• Keteladanan Qudwah & Rasio Afirmasi 4:1"]
     end
 ```
 
@@ -198,9 +198,9 @@ Keberhasilan arsitektur PBIS di pesantren dipandu oleh **Tim Kepemimpinan PBIS L
 graph TD
     subgraph SIKLUS_DATA_PBIS["Siklus Analitik Keputusan Tim PBIS"]
         direction TB
-        D["1. HIMPUN DATA FAKTUAL LOGBOOK & DISIPLIN BULANAN"] --> A["2. ANALISIS DATA SPASIAL & TEMPORAL (SWIS/Dashboard)"]
-        A --> T["3. IDENTIFIKASI PERTANYAAN KUNCI:<br/>• Di mana hotspot terbanyak? (Kamar mandi? Kantin?)<br/>• Jam berapa insiden memuncak? (16.30 sore? 22.00 malam?)<br/>• Jenis pelanggaran apa yang mendominasi? (Ghashab? Terlambat?)"]
-        T --> I["4. DESAIN INTERVENSI SISTEMIK BARU:<br/>• Rekayasa Lingkungan / Penambahan Penerangan / Modifikasi Jadwal"]
+        D["1. HIMPUN DATA FAKTUAL<br/>Logbook & Disiplin Bulanan"] --> A["2. ANALISIS DATA ANALITIK<br/>SWIS & Dashboard Digital"]
+        A --> T["3. IDENTIFIKASI PERTANYAAN KUNCI:<br/>• Di mana hotspot utama?<br/>  (Kamar mandi/Kantin?)<br/>• Kapan waktu rawan? (Sore/Malam?)<br/>• Pola pelanggaran apa yang dominan?"]
+        T --> I["4. DESAIN INTERVENSI SISTEMIK BARU:<br/>• Rekayasa Tata Ruang & Modifikasi Jadwal"]
         I --> E["5. EVALUASI EFEKTIVITAS BULAN BERIKUTNYA"]
     end
 ```

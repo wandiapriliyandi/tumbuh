@@ -1,4 +1,4 @@
-# BAB 3: EPISTEMOLOGI TERPADU: WAHYU, NALAR, DAN FAKTA EMPIRIS
+﻿# BAB 3: EPISTEMOLOGI TERPADU: WAHYU, NALAR, DAN FAKTA EMPIRIS
 ## Menegakkan Keadilan Berpikir, Validitas Bukti, dan Adab Keilmuan di Pesantren 24 Jam
 
 > يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
@@ -59,7 +59,7 @@ graph TD
     end
 
     SALURAN_PENGETAHUAN ==> S["SINTESIS EPISTEMIK EKOSISTEM TUMBUH"]
-    S --> K["Keputusan Pesantren yang Adil, Ilmiah & Barakah"]
+    S --> K["Keputusan Pesantren<br/>yang Adil, Ilmiah, & Barakah"]
 ```
 
 #### 1. Al-Khabar ash-Shadiq (Wahyu Ilahi dan As-Sunnah yang Shahih)
@@ -181,7 +181,7 @@ graph TD
     G --> S["PENGASUHAN KARAKTER INTEGRATIF TUMBUH"]
     R --> S
 
-    S --> M["Adab Bersumber Wahyu, Metode Dibimbing Sains Presisi"]
+    S --> M["Adab Bersumber Wahyu,<br/>Metode Dibimbing Sains Presisi"]
 ```
 
 Dalam kitabnya *Tahafut al-Falasifah*, Imam Al-Ghazali membongkar kepongahan kaum filosof materialis yang mencoba mendefinisikan seluruh rahasia ketuhanan semata-mata dengan nalar spekulatif yang rapuh. Al-Ghazali menegaskan batas wilayah akal manusia dan membuka pintu bagi **penyucian jiwa (*tazkiyatun nafs*) dan kepekaan kalbu (*bashirah*)** sebagai saluran tertinggi untuk menangkap kebenaran sejati[^7].
@@ -207,9 +207,9 @@ graph TD
     subgraph ALUR_TABAYYUN_TUMBUH["Empat Gerbang Audit Pengambilan Keputusan"]
         direction TB
         M["Laporan Kasus Pelanggaran Masuk"]
-        --> T["1. TABAYYUN & VERIFIKASI FAKTA:<br/>Periksa keabsahan saksi & singkirkan desas-desus"]
+        --> T["1. TABAYYUN & VERIFIKASI FAKTA:<br/>Periksa keabsahan saksi<br/>& buktikan fakta"]
         --> K["2. AUDIT KAUSALITAS & NALAR (FBA):<br/>Temukan motif kebutuhan tersembunyi santri"]
-        --> S["3. PENGUJIAN MAQASHID SYARI'AH:<br/>Pastikan tiada kezaliman & jaga karamah insani"]
+        --> S["3. PENGUJIAN MAQASHID SYARI'AH:<br/>Cegah kezaliman<br/>& jaga martabat insani"]
         --> D["4. KEPUTUSAN RESTORATIF:<br/>Pemulihan relasi, restitusi nyata & bimbingan"]
     end
 ```
@@ -239,7 +239,7 @@ graph TD
         direction TB
         B1["1. FUNDAMENTAL ATTRIBUTION ERROR<br/>Menghakimi tabiat buruk santri (internal),<br/>namun memaklumi diri sendiri karena situasi."]
         B2["2. CONFIRMATION BIAS (Bias Konfirmasi)<br/>Hanya mencari bukti pembenar prasangka awal<br/>dan mengabaikan fakta yang membantahnya."]
-        B3["3. HORNS EFFECT (Efek Stigma Negatif)<br/>Satu kesalahan menghapus seluruh kebaikan;<br/>santri dicap permanen sebagai anak bermasalah."]
+        B3["3. HORNS EFFECT (Efek Stigma Negatif)<br/>Satu kesalahan menghapus seluruh kebaikan;<br/>santri dicap permanen<br/>sebagai anak bermasalah."]
         B1 --> B2 --> B3
     end
 ```

@@ -1,4 +1,4 @@
-# BAB 10: KERANGKA STRUKTUR MODEL INTI TUMBUH
+﻿# BAB 10: KERANGKA STRUKTUR MODEL INTI TUMBUH
 ## Arsitektur Tiga Ranah Karakter, Sepuluh Profil Lulusan, dan Delapan Kapasitas Inti
 
 > وَالَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا
@@ -32,8 +32,8 @@ graph TD
     
     subgraph ARSITEKTUR_CORE_MODEL["Struktur Tiga Lapis Model Inti"]
         B --> L1["1. TIGA RANAH HUBUNGAN ASASI<br/>Hablum Minallah • Hablum Minannas • Hablum Ma'an-Nafs"]
-        L1 --> L2["2. SEPULUH PROFIL LULUSAN (GRADUATE PROFILE)<br/>Sosok Utuh Insan Rusyd yang Menjadi Penyejuk Hati Umat"]
-        L2 --> L3["3. DELAPAN KAPASITAS INTI (8 CORE CAPACITIES)<br/>Instrumen Fungsional Kognitif, Afektif, Fisik & Sosial Santri"]
+        L1 --> L2["2. SEPULUH PROFIL LULUSAN (GRADUATE PROFILE)<br/>Sosok Utuh Insan Rusyd<br/>Penyejuk Hati Umat"]
+        L2 --> L3["3. DELAPAN KAPASITAS INTI (8 CORE CAPACITIES)<br/>Instrumen Kognitif, Afektif,<br/>Fisik, & Sosial"]
     end
 
     L3 --> C["PROGRESI KEMANDIRIAN J1–J4 & ASESMEN FORMATIF"]
@@ -48,7 +48,7 @@ Tiga ranah hubungan asasi ini bukanlah sekadar pembagian matriks kompetensi mode
 Seluruh gerak kehidupan santri selama dua puluh empat jam di asrama berporos pada **Tiga Ranah Hubungan Asasi (*The Triadic Domains of Relation*)**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph TIGA_RANAH_HUBUNGAN["Tiga Poros Kehidupan Santri"]
         M["1. HABLUM MINALLAH<br/>(Relasi dengan Sang Khaliq)<br/>Tauhid Murni • Ibadah Khusyuk • Niat Ikhlas • Muraqabatullah"]
         N["2. HABLUM MINANNAS<br/>(Relasi dengan Sesama Insan)<br/>Adab Bergaul • Empati Ukhuwah • Amanah Sosial • Ishlah al-Bain"]
@@ -213,7 +213,7 @@ Mari kita bedah hakikat dan indikator operasional dari masing-masing Kapasitas I
 Perhatikan bagaimana Delapan Kapasitas Inti ini bekerja bukan sebagai kotak-kotak terpisah, melainkan sebagai **sistem jaringan yang saling menguatkan (*synergistic matrix*)**:
 
 ```mermaid
-graph LR
+graph TD
     subgraph KAPASITAS_PENGGERAK["8 Core Capacities (Mesin Pembina)"]
         C1["CC-1: Regulasi Diri"]
         C7["CC-7: Agensi Sadar"]

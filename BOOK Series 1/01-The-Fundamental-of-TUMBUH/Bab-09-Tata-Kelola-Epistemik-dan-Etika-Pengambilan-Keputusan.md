@@ -1,4 +1,4 @@
-# BAB 9: TATA KELOLA EPISTEMIK DAN ETIKA PENGAMBILAN KEPUTUSAN
+﻿# BAB 9: TATA KELOLA EPISTEMIK DAN ETIKA PENGAMBILAN KEPUTUSAN
 ## Mencegah Stigmatisasi, Menjaga Kerahasiaan Aib, dan Menegakkan Akuntabilitas Pembina Asrama
 
 > مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ، وَاللَّهُ فِي عَوْنِ الْعَبْدِ مَا كَانَ الْعَبْدُ فِي عَوْنِ أَخِيهِ
@@ -24,11 +24,11 @@ Peristiwa memilukan ini menyadarkan kita akan sebuah aksioma penting: **Kezalima
 
 ```mermaid
 graph TD
-    A["Musyrif Bertugas Nonstop 18–20 Jam Tanpa Istirahat Cukup"] --> B["Kelelahan Saraf Akut (Decision Fatigue & Ego Depletion)"]
-    B --> C["Prefrontal Cortex Musyrif Melemah; Amigdala Mengambil Alih"]
-    C --> D["Santri Melakukan Pelanggaran Ringan di Malam Hari"]
-    D --> E["LEDAKAN AMARAH DISPROPORSIOAL (Hukuman Kejam & Zalim)"]
-    E --> F["Trauma Batin Santri & Penyesalan Rusak Musyrif"]
+    A["Musyrif Bertugas Nonstop 18–20 Jam Tanpa Istirahat Cukup"] --> B["Kelelahan Saraf Akut<br/>(Decision Fatigue & Ego Depletion)"]
+    B --> C["Prefrontal Cortex Melemah;<br/>Amigdala Mengambil Alih"]
+    C --> D["Pelanggaran Ringan Santri<br/>di Larut Malam"]
+    D --> E["LEDAKAN AMARAH DISPROPORSIOAL<br/>(Sanksi Kejam & Zalim)"]
+    E --> F["Trauma Batin Santri<br/>& Penyesalan Musyrif"]
 ```
 
 Secara biologis murni, seorang manusia yang mengalami kelelahan kronis akan kehilangan kapasitas korteks prafrontal (PFC)-nya untuk berpikir jernih, menahan impuls amarah, dan mempertimbangkan keadilan proporsional. Otak purbanya (amigdala) mengambil alih kendali, memperlakukan pelanggaran kecil santri laksana ancaman eksistensial yang harus dihancurkan dengan kekerasan.
@@ -56,10 +56,10 @@ Secara sosiologi dan psikologi kognitif, Kalimat A memicu fenomena yang disebut 
 
 ```mermaid
 graph TD
-    A["Santri Melakukan Kesalahan Sekali (Misal: Mengambil Makanan)"] --> B["Pembina & Kawan Sekamar Menyematkan Label: 'PENCURI'"]
-    B --> C["Santri Menginternalisasi Label Tersebut ke Konsep Dirinya"]
-    C --> D["Santri Berpikir: 'Toh semua orang sudah menganggapku penjahat, sekalian saja aku berbuat jahat!'"]
-    D --> E["Santri Menjadi Pelaku Kriminal Asrama yang Dingin & Kebal Nasihat"]
+    A["Santri Melakukan Kesalahan Sekali<br/>(Contoh: Mengambil Makanan)"] --> B["Pembina & Kawan Menyematkan<br/>Label Stigma: 'PENCURI'"]
+    B --> C["Santri Menginternalisasi Label<br/>ke dalam Konsep Dirinya"]
+    C --> D["Santri Berpikir:<br/>'Semua orang menganggapku jahat,<br/>sekalian saja aku berbuat jahat!'"]
+    D --> E["Santri Bermutasi Menjadi Pelaku<br/>yang Dingin & Kebal Nasihat"]
 ```
 
 Ketika seorang santri berkali-kali dicap sebagai "anak nakal", "pemalas", atau "pembangkang", otaknya secara bertahap menyerah. Ia berhenti berusaha menjadi anak baik. Ia berkata di dalam hatinya: *"Percuma aku salat di saf pertama, ustadz tetap memandangku sebagai anak nakal. Percuma aku belajar giat, kawan-kawan tetap memanggilku pencuri."* Label tersebut berubah menjadi vonis mati bagi masa depan karakternya.
@@ -181,8 +181,8 @@ TUMBUH memberlakukan standar etika tata kelola data santri yang sangat ketat:
 graph TD
     subgraph DUA_PILAR_DATA_TUMBUH["Tata Kelola Data Perlindungan Santri"]
         direction TB
-        P1["1. HAK PRIVASI & AKSES BERJENJANG<br/>Data pelanggaran HANYA diakses Musyrif terkait<br/>dan Konselor BK resmi (bukan santri senior)."]
-        P2["2. HAK PEMUTIHAN CATATAN<br/>Setelah proses restorasi tuntas & 6 bulan konsisten,<br/>catatan lama ditutup & diarsipkan permanen."]
+        P1["1. HAK PRIVASI & AKSES BERJENJANG<br/>Data HANYA diakses<br/>Musyrif terkait<br/>dan Konselor BK resmi (bukan santri senior)."]
+        P2["2. HAK PEMUTIHAN CATATAN<br/>Setelah restorasi tuntas<br/>& 6 bulan konsisten,<br/>catatan lama ditutup & diarsipkan permanen."]
         P1 ==> P2
     end
 ```

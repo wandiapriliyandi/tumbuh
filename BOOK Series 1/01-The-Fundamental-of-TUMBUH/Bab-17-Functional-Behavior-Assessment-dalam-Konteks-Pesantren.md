@@ -1,4 +1,4 @@
-# BAB 17: FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DALAM KONTEKS KEPESANTRENAN
+﻿# BAB 17: FUNCTIONAL BEHAVIOR ASSESSMENT (FBA) DALAM KONTEKS KEPESANTRENAN
 ## Mendiagnosis Akar Kebutuhan Jiwa di Balik Pelanggaran Santri dan Merumuskan Perilaku Pengganti yang Beradab
 
 > وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
@@ -45,13 +45,13 @@ Ketika seorang santri melakukan tindakan maladaptif—seperti membolos salat, me
 
 ```mermaid
 graph TD
-    subgraph GUNUNG_ES_PERILAKU["Gunung Es Perilaku Santri (The Behavioral Iceberg)"]
+    subgraph GUNUNG_ES_PERILAKU["Gunung Es Perilaku Santri<br/>(The Behavioral Iceberg)"]
         direction TB
-        T["PERILAKU TAMPAK (HANYA 10% TERLIHAT)<br/>• Membolos, Berteriak, Mencontek, Memukul, Merusak Barang<br/>• Respons Tradisional: Dibentak, Dihukum Fisik, Dilabeli Nakal"]
+        T["PERILAKU TAMPAK (HANYA 10% TERLIHAT)<br/>• Membolos, Berteriak,<br/>  Mencontek, atau Memukul<br/>• Respons Tradisional:<br/>  Dibentak & Dihukum Fisik"]
         
-        A["GARIS PERMUKAAN AIR (TABIR KETIDAKTAHUAN PENDIDIK)"]
+        A["GARIS PERMUKAAN AIR<br/>(TABIR KETIDAKTAHUAN)"]
         
-        B["AKAR FUNGSI & KEBUTUHAN BATIN (90% TERSEMBUNYI)<br/>1. Menghindari Rasa Malu & Beban Tugas yang Terlalu Berat (Escape)<br/>2. Dahaga Kasih Sayang & Pengakuan Eksistensi Teman Sebaya (Attention)<br/>3. Kelelahan Fisik Kronis, Kurang Tidur & Hipoglikemia Lapar (Physiological)<br/>4. Regulasi Sistem Saraf yang Kewalahan Menahan Stres Asrama (Sensory/Nafs)"]
+        B["AKAR FUNGSI & KEBUTUHAN<br/>(90% TERSEMBUNYI)<br/>1. Hindari Malu & Beban Berlebih (Escape)<br/>2. Dahaga Kasih & Pengakuan (Attention)<br/>3. Kelelahan Fisik & Lapar (Physiological)<br/>4. Regulasi Saraf Tertekan (Sensory/Nafs)"]
         
         T --- A
         A --- B

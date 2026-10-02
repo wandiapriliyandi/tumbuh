@@ -1,4 +1,4 @@
-# BAB 16: FILOSOFI ASESMEN KARAKTER: MENGUKUR UNTUK MENUMBUHKAN, BUKAN MELABELI
+﻿# BAB 16: FILOSOFI ASESMEN KARAKTER: MENGUKUR UNTUK MENUMBUHKAN, BUKAN MELABELI
 ## Menolak Angka Rapor Mati, Membedah Triangulasi Bukti Autentik, dan Menjadikan Evaluasi Adab Sebagai Cermin Kejernihan Fitrah
 
 > وَقُلِ اعْمَلُوا فَسَيَرَى اللَّهُ عَمَلَكُمْ وَرَسُولُهُ وَالْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَالِمِ الْغَيْبِ وَالشَّهَادَةِ فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ
@@ -38,12 +38,12 @@ Merangkum seluruh kompleksitas jiwa seorang anak ke dalam angka tunggal kuantita
 
 ```mermaid
 graph TD
-    A["REDUKSI KARAKTER MENJADI ANGKA MATI (85 / NILAI B)"]
+    A["REDUKSI KARAKTER<br/>MENJADI ANGKA MATI (NILAI 85/B)"]
     
     subgraph TIGA_BAHAYA_SKOR_ANGKA["Tiga Bahaya Reduksi Angka Tunggal"]
         direction TB
-        B1["1. KEHILANGAN KONTEKS (Loss of Context):<br/>Angka tidak menjelaskan motif & kondisi santri."]
-        --> B2["2. MUNCUL KEPATUHAN SEMU (Feigned Compliance):<br/>Santri mengejar poin demi pujian, bukan ridha Allah."]
+        B1["1. KEHILANGAN KONTEKS (Loss of Context):<br/>Angka tidak jelaskan<br/>motif & kondisi santri."]
+        --> B2["2. KEPATUHAN SEMU (Feigned Compliance):<br/>Santri kejar poin demi pujian,<br/>bukan ridha Allah."]
         --> B3["3. JEBAKAN PELABELAN (Labeling Trap):<br/>Cap anak bermasalah merusak konsep diri."]
     end
 
@@ -237,10 +237,10 @@ TUMBUH melatih para pembina menguasai protokol **Roti Lapis Adab (*The Adab Sand
 
 ```mermaid
 graph TD
-    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Koreksi Beradab (Sandwich Feedback)"]
+    subgraph TEKNIK_ROTI_LAPIS_ADAB["Tiga Lapis Koreksi Beradab<br/>(Sandwich Feedback)"]
         direction TB
-        L1["LAPIS 1: AFIRMASI & APRESIASI TULUS (Roti Atas)<br/>'Ustadz sangat menghargai caramu membantu<br/>adik kelas menyapu kemarin sore...'"]
-        --> L2["LAPIS 2: DESKRIPSI KOREKSI SPESIFIK (Daging Inti)<br/>'Namun subuh tadi, antum terlambat 5 menit<br/>masuk saf karena masih mengobrol...'"]
+        L1["LAPIS 1: AFIRMASI TULUS (Roti Atas)<br/>'Ustadz sangat menghargai caramu membantu<br/>adik kelas menyapu kemarin sore...'"]
+        --> L2["LAPIS 2: KOREKSI SPESIFIK (Inti)<br/>'Namun subuh tadi, antum terlambat 5 menit<br/>masuk saf karena masih mengobrol...'"]
         --> L3["LAPIS 3: HARAPAN & DUKUNGAN (Roti Bawah)<br/>'Ustadz yakin antum bisa tidur lebih awal<br/>malam ini. Mari kita ikhtiarkan bersama!'"]
     end
 ```

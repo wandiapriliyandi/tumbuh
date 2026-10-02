@@ -1,4 +1,4 @@
-# BAB 7: TEORI PERUBAHAN PERILAKU BERKELANJUTAN
+﻿# BAB 7: TEORI PERUBAHAN PERILAKU BERKELANJUTAN
 ## Menembus Efek Pegas: Dari Kepatuhan Semu Menuju Transformasi Jiwa Berkelanjutan
 
 > إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنْفُسِهِمْ ۗ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ ۚ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ
@@ -36,10 +36,10 @@ Pegas itu akan **melompat melenting ke udara dengan kecepatan tinggi dan daya le
 graph TD
     subgraph EFEK_PEGAS_DISIPLIN["Fenomena Efek Pegas di Asrama Pesantren"]
         direction TB
-        A["1. TEKANAN KOERSIF EKSTREM<br/>Bentakan, Rotan, Hukuman Menghinakan & Ancaman Takzir"] --> B["2. PEGAS TERTEKAN (KEPATUHAN SEMU)<br/>Santri Terlihat Patuh & Diam Karena Takut Siksaan Fisik"]
-        B --> C["3. AKUMULASI ENERGI DENDAM<br/>Jiwa Merasa Terhina, Dendam Membara, Otak Terbiasa Hipokrit"]
+        A["1. TEKANAN KOERSIF EKSTREM<br/>Bentakan, Rotan, & Ancaman Takzir"] --> B["2. PEGAS TERTEKAN (KEPATUHAN SEMU)<br/>Santri Patuh Semata Takut Sanksi"]
+        B --> C["3. AKUMULASI ENERGI DENDAM<br/>Jiwa Terhina & Otak Hipokrit"]
         C --> D["4. PELEPASAN TEKANAN (LIBURAN / KELULUSAN)<br/>Pengawas Lenyap, Gerbang Asrama Terbuka"]
-        D --> E["5. LEDAKAN PEGAS DESTRUKTIF<br/>Balas Dendam Moral, Melepas Jilbab, Pergaulan Bebas, Narkotika"]
+        D --> E["5. LEDAKAN PEGAS DESTRUKTIF<br/>Balas Dendam Moral & Perilaku Bebas"]
     end
 ```
 
@@ -69,7 +69,7 @@ Dalam sains psikologi perilaku modern, James Prochaska dan Carlo DiClemente meru
 
 ```mermaid
 graph TD
-    subgraph TAHAPAN_PERUBAHAN_TUMBUH["Enam Etape Transformasi Karakter Santri TUMBUH"]
+    subgraph TAHAPAN_PERUBAHAN_TUMBUH["Enam Etape Transformasi<br/>Karakter Santri TUMBUH"]
         direction TB
         S1["1. FASE GHAFLAH (Lalai)<br/>Belum sadar masalah"]
         S2["2. FASE YAQZHAH (Sadar)<br/>Muncul penyesalan nurani"]
@@ -126,14 +126,14 @@ Bayangkan seorang santri yang telah bertekad kuat untuk menjaga pandangan matany
 Oleh karena itu, teori perubahan TUMBUH tidak berhenti pada pembinaan individu per individu, melainkan mengadopsi **Pendekatan Sistemik Dinamis (*Dynamic Systems Thinking*)** dan **Teori Difusi Inovasi Kebudayaan (*Diffusion of Innovations*)** yang dirumuskan oleh sosiolog Everett Rogers[^6]:
 
 ```mermaid
-graph LR
+graph TD
     subgraph STRATEGI_DIFUSI_ASRAMA["Strategi Perubahan Budaya Kamar TUMBUH"]
         direction TB
-        P["1. KELOMPOK PELOPOR (INNOVATORS: 2,5%)<br/>Santri J4 & Musyrif yang Memiliki Integritas Karakter Puncak"]
-        EA["2. PENGADOPSI AWAL (EARLY ADOPTERS: 13,5%)<br/>Santri J3 yang Memiliki Pengaruh Sosial Kuat di Kamar"]
-        TP["TITIK TEMBUS PERADABAN (THE TIPPING POINT: 16%)<br/>Pergeseran Norma Sosial Kamar Menjadi Positif Secara Alami"]
-        M["3. MASSA MAYORITAS SANTRI (68%)<br/>Mengikuti Arus Budaya Baru Kamar Tanpa Perlu Dipaksa"]
-        L["4. KELOMPOK MEMBUTUHKAN BANTUAN KHUSUS (16%)<br/>Santri Tier 2/Tier 3 yang Didampingi Konseling Intensif"]
+        P["1. PELOPOR (INNOVATORS: 2,5%)<br/>Santri J4 & Musyrif Berintegritas Puncak"]
+        EA["2. PENGADOPSI AWAL (13,5%)<br/>Santri J3 Berpengaruh Sosial Kuat"]
+        TP["TITIK TEMBUS (TIPPING POINT: 16%)<br/>Norma Kamar Bergeser Positif Spontan"]
+        M["3. MASSA MAYORITAS (68%)<br/>Ikuti Arus Budaya Baru Tanpa Dipaksa"]
+        L["4. DUKUNGAN KHUSUS (16%)<br/>Santri Tier 2/3 Didampingi Konseling"]
     end
 
     P --> EA
@@ -164,7 +164,7 @@ Bagaimanakah sebuah adab yang awalnya terasa berat—seperti bangun fajar, merap
 Sains perilaku modern (Charles Duhigg dalam *The Power of Habit* dan James Clear dalam *Atomic Habits*) membuktikan bahwa setiap kebiasaan manusia digerakkan oleh sebuah lingkaran saraf yang terdiri atas tiga komponen utama: **Isyarat (*Cue*), Rutinitas (*Routine*), dan Ganjaran (*Reward*)**[^7]:
 
 ```mermaid
-graph LR
+graph TD
     subgraph SIKLUS_KEBIASAAN["Lingkaran Kebiasaan (The Habit Loop)"]
         C["1. ISYARAT (CUE)<br/>Pemicu Lingkungan / Waktu / Lokasi"] --> R["2. RUTINITAS (ROUTINE)<br/>Tindakan Fisik / Perilaku Nyata"]
         R --> W["3. GANJARAN (REWARD)<br/>Kepuasan Batin / Dopamin Alami"]

@@ -1,4 +1,4 @@
-# BAB 11: REKAYASA LINGKUNGAN ASRAMA DAN EKOSISTEM TERPADU 24 JAM
+﻿# BAB 11: REKAYASA LINGKUNGAN ASRAMA DAN EKOSISTEM TERPADU 24 JAM
 ## Environmental Engineering, Mitigasi Hotspots Perundungan, dan Sinergi Triad Pengasuhan
 
 > كُلُّكُمْ رَاعٍ، وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ: الْإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا...
@@ -23,10 +23,10 @@ Jika sebuah pesantren memiliki lorong jemuran pakaian yang gelap gulita di lanta
 
 ```mermaid
 graph TD
-    A["Desain Fisik Asrama yang Buruk (Lorong Gelap, Sudut Terisolasi, Pintu Tertutup Rapat)"] --> B["Terciptanya Titik Rawan Perundungan (Hotspots)"]
-    B --> C["Ketiadaan Pengawasan Alami (Zero Natural Surveillance)"]
-    C --> D["Amigdala & Nafs Primitif Pelaku Merasa Aman Melakukan Pelanggaran"]
-    D --> E["TERJADINYA PERUNDUNGAN, PEMERASAN & KEKERASAN FISIK"]
+    A["Desain Fisik Asrama yang Buruk<br/>(Lorong Gelap & Pintu Tertutup)"] --> B["Terciptanya Titik Rawan<br/>Perundungan (Hotspots)"]
+    B --> C["Ketiadaan Pengawasan Alami<br/>(Zero Surveillance)"]
+    C --> D["Nafs & Amigdala Pelaku Merasa Aman<br/>Melanggar di Sudut Terisolasi"]
+    D --> E["TERJADINYA PERUNDUNGAN,<br/>PEMERASAN, & KEKERASAN FISIK"]
 ```
 
 Ketika seorang santri senior yang sedang dirasuki hawa nafsu amarah melihat ada sudut asrama yang gelap, sepi, dan mustahil terlihat oleh musyrif, ketiadaan pengawasan fisik tersebut seketika menurunkan hambatan psikologisnya (*low perceived risk of detection*). Ia merasa aman untuk melampiaskan kekerasannya kepada adik kelasnya.
@@ -43,8 +43,8 @@ Ekosistem TUMBUH mewajibkan setiap pesantren melakukan audit tata ruang fisik da
 graph TD
     subgraph EMPAT_PILAR_REKAYASA_ASRAMA["Empat Pilar Rekayasa Lingkungan Asrama"]
         direction TB
-        P1["1. PENCAHAYAAN OPTIMAL (Lighting)<br/>Eliminasi Total Sudut Gelap di Lorong & Tangga"]
-        --> P2["2. PENGAWASAN ALAMI (Natural Surveillance)<br/>Pintu Berventilasi Kaca & Pos Musyrif Strategis"]
+        P1["1. PENCAHAYAAN OPTIMAL (Lighting)<br/>Eliminasi Sudut Gelap<br/>di Lorong & Tangga"]
+        --> P2["2. PENGAWASAN ALAMI (Natural Surveillance)<br/>Pintu Berventilasi Kaca<br/>& Pos Musyrif Strategis"]
         --> P3["3. PENGENDALIAN AKSES (Access Control)<br/>Gudang Terkunci & Kamar Mandi Bersekat Aman"]
         --> P4["4. KELAYAKAN SANITASI & SIRKULASI<br/>Sirkulasi Udara Segar & Air Bersih Higienis"]
     end
