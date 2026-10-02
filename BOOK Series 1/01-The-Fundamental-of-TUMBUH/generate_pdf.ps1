@@ -318,6 +318,7 @@ foreach ($file in $MarkdownFiles) {
       page-break-inside: avoid;
       break-inside: avoid;
       background: #ffffff;
+      font-size: 10pt;
     }
     .mermaid svg {
       max-width: 100% !important;
@@ -327,9 +328,17 @@ foreach ($file in $MarkdownFiles) {
     }
     .mermaid .nodeLabel,
     .mermaid .edgeLabel,
-    .mermaid .cluster-label {
+    .mermaid .label,
+    .mermaid text {
       font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+      font-size: 10pt !important;
       line-height: 1.35 !important;
+    }
+    .mermaid .cluster-label span,
+    .mermaid .cluster-label text {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif !important;
+      font-size: 11pt !important;
+      font-weight: 700 !important;
     }
 
     /* === CATATAN KAKI (FOOTNOTES) === */
@@ -393,7 +402,11 @@ foreach ($file in $MarkdownFiles) {
       startOnLoad: false,
       theme: 'neutral',
       fontFamily: 'Inter, sans-serif',
-      fontSize: 12,
+      fontSize: 11,
+      themeVariables: {
+        fontSize: '11px',
+        fontFamily: 'Inter, sans-serif'
+      },
       flowchart: {
         htmlLabels: true,
         useMaxWidth: true,
