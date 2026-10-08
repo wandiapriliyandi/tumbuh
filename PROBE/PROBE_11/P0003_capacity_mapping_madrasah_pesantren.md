@@ -1,406 +1,365 @@
-# P0003 — Capacity Mapping Lintas Madrasah dan Pesantren
+# P0003 — Pemetaan Graduate Profile dan Core Capacity Lintas Madrasah–Pesantren
 
 ## Object of Inquiry
 
-Arsitektur kurikulum Sistem TUMBUH pada konteks pesantren yang memiliki madrasah formal.
+Arsitektur kurikulum Sistem TUMBUH pada konteks pesantren yang memiliki madrasah formal, khususnya hubungan antara **Graduate Profile**, **Core Capacity**, dan kontribusi curriculum vehicles.
 
 ## TUMBUH Question
 
-Apakah seluruh capacity domains TUMBUH harus dikembangkan melalui madrasah dan pesantren sekaligus, dan bagaimana membedakan kontribusi masing-masing vehicle tanpa menciptakan duplikasi atau kekosongan?
+Jika madrasah dan pesantren merupakan curriculum vehicles yang berbeda dalam satu development system, bagaimana keduanya berkontribusi terhadap **10 Graduate Profiles melalui 8 Core Capacities** tanpa membuat pembagian outcome yang keliru, duplikasi, atau kekosongan?
 
-## Titik Berangkat
+## Koreksi Arsitektural dari Inquiry Sebelumnya
 
-P0002 membedakan **shared developmental core** dari **differentiated curriculum vehicles**.
+P0003 sebelumnya menggunakan istilah *capacity domains* untuk menyebut 10 Muwashofat. Itu **tidak konsisten dengan Core Model TUMBUH v2.0.0**.
 
-Karena Capacity Framework TUMBUH memuat Graduate Profile, Character Architecture, Character Relationships, serta kapasitas yang masing-masing memiliki competencies, behaviors, indicators, development levels, assessment mapping, intervention mapping, programs, methods, tools, dan evidence, maka kapasitas tidak tepat dipetakan hanya berdasarkan mata pelajaran. fileciteturn10file0
+Struktur yang benar adalah:
 
-Pertanyaan yang lebih tepat adalah:
+```
+GRADUATE PROFILE
+10 Muwashofat
+        ↓
+ditopang oleh
+        ↓
+CORE CAPACITIES
+8 kapasitas fungsional
+        ↓
+dikembangkan melalui
+        ↓
+EXPERIENCES / ENVIRONMENTS
+Madrasah — Pesantren — Family — Community
+```
 
-> **Bagaimana setiap curriculum vehicle berkontribusi terhadap perkembangan kapasitas yang sama?**
+### 10 Graduate Profiles
 
-## 1. Semua Capacity Domains adalah Shared Outcomes
+1. Salimul Aqidah — Aqidah yang Lurus
+2. Shahihul Ibadah — Ibadah yang Benar
+3. Matinul Khuluq — Akhlak yang Mulia
+4. Qawiyyul Jism — Fisik yang Sehat dan Kuat
+5. Mutsaqqaful Fikr — Wawasan yang Luas
+6. Mujahadatun Linafsih — Mampu Mengendalikan Diri
+7. Haritsun 'Ala Waqtih — Disiplin Mengelola Waktu
+8. Munazhzham fi Syu'unih — Tertib dan Bertanggung Jawab
+9. Qadirun 'Alal Kasb — Mandiri dan Produktif
+10. Nafi'un Lighairih — Bermanfaat bagi Sesama
 
-Jika graduate profile merupakan profil manusia yang hendak dibentuk TUMBUH, maka capacity domains tidak semestinya dibagi menjadi:
+### 8 Core Capacities
+
+1. Self-Regulation
+2. Critical Thinking
+3. Communication
+4. Collaboration
+5. Physical Functioning
+6. Social Understanding
+7. Agency
+8. Problem Solving
+
+Dengan demikian:
+
+> **Graduate Profile bukan Core Capacity.**
+
+Salimul Aqidah, misalnya, adalah **Graduate Profile**, bukan kapasitas fungsional.
+
+Core Model juga menempatkan hubungan 10 Graduate Profiles × 8 Core Capacities sebagai hubungan **many-to-many**. Satu Graduate Profile ditopang oleh beberapa Core Capacities, dan satu Core Capacity dapat menopang beberapa Graduate Profiles.
+
+## 1. Shared Developmental Outcomes
+
+Dalam konteks madrasah + pesantren, yang perlu menjadi shared outcome bukan “sepuluh capacity domains”, melainkan:
+
+> **10 Graduate Profiles sebagai arah manusia yang sama, yang diwujudkan melalui perkembangan 8 Core Capacities.**
+
+Maka pembagian seperti:
+
+```
+MADRASAH → profil 1–5
+PESANTREN → profil 6–10
+```
+
+tidak sesuai dengan arsitektur TUMBUH.
+
+Begitu pula:
 
 ```
 MADRASAH → capacity A, B, C
 PESANTREN → capacity D, E, F
 ```
 
-Pembagian seperti itu berisiko membuat perkembangan santri terfragmentasi.
+terlalu menyederhanakan hubungan many-to-many yang sudah ditetapkan Core Model.
 
-Lebih koheren:
+Model yang lebih tepat:
 
 ```
-                 TUMBUH CAPACITY
-                       |
-          +------------+------------+
-          |                         |
+                    TUMBUH
+                       │
+              10 GRADUATE PROFILES
+                       │
+              8 CORE CAPACITIES
+                       │
+          ┌────────────┴────────────┐
+          ↓                         ↓
       MADRASAH                  PESANTREN
-     contributes               contributes
-          |                         |
-          +------------+------------+
-                       |
-                SHARED DEVELOPMENT
+     experiences               experiences
+          │                         │
+          └────────────┬────────────┘
+                       ↓
+             DEVELOPMENT OF PERSON
 ```
 
-Artinya **outcome-nya shared, contribution-nya differentiated**.
+## 2. Mengapa Core Capacity Tetap Penting?
 
-## 2. Shared Outcome ≠ Equal Contribution
+Graduate Profile menjawab:
 
-Bahwa dua vehicle sama-sama berkontribusi pada satu kapasitas tidak berarti kontribusinya harus sama besar atau menggunakan metode yang sama.
+> **“Manusia seperti apa yang hendak diwujudkan?”**
 
-Contoh konseptual:
+Core Capacity menjawab:
 
-### Mutsaqqaful Fikr
+> **“Kapasitas fungsional apa yang memungkinkan manusia tersebut berfungsi dan berkembang?”**
 
-Madrasah dapat menjadi vehicle utama untuk:
-
-- pengetahuan;
-- reasoning;
-- academic inquiry;
-- literasi;
-- problem solving.
-
-Pesantren dapat memperkuatnya melalui:
-
-- kajian;
-- diskusi;
-- refleksi;
-- pengambilan keputusan;
-- pemecahan masalah dalam kehidupan nyata.
-
-### Haritsun 'Ala Waqtih
-
-Madrasah dapat memberikan struktur:
-
-- jadwal belajar;
-- deadline;
-- tugas;
-- academic planning.
-
-Pesantren dapat memberikan pengalaman:
-
-- pengelolaan waktu harian;
-- disiplin rutinitas;
-- tanggung jawab terhadap amanah;
-- keseimbangan aktivitas.
-
-Kapasitasnya sama, tetapi **learning evidence dan vehicle contribution berbeda**.
-
-## 3. Contribution Model
-
-Karena itu, TUMBUH membutuhkan distinction:
-
-- **Primary Contributor** — vehicle yang memiliki pengalaman paling langsung atau paling kuat untuk suatu aspek kapasitas.
-- **Supporting Contributor** — vehicle yang memperkuat perkembangan kapasitas.
-- **Contextual Contributor** — lingkungan yang menyediakan konteks penerapan.
-- **Evidence Contributor** — vehicle yang menyediakan bukti perkembangan.
-- **Intervention Contributor** — pihak yang paling relevan melakukan tindak lanjut.
-
-Satu vehicle dapat memiliki lebih dari satu peran.
-
-## 4. Capacity Mapping Bukan Subject Mapping
-
-Kesalahan yang perlu dihindari:
-
-```
-Mathematics → Capacity X
-Fiqh → Capacity Y
-Dormitory → Capacity Z
-```
-
-Model tersebut terlalu linear.
-
-Yang lebih tepat:
-
-```
-CAPACITY
-   |
-   +---- Competency
-   |
-   +---- Behavior
-   |
-   +---- Indicator
-   |
-   +---- Development Level
-   |
-   +---- Evidence
-   |
-   +---- Learning Experiences
-          |
-          +---- Madrasah
-          +---- Pesantren
-          +---- Family
-          +---- Community
-```
-
-Dengan model ini, satu mata pelajaran atau satu program tidak diklaim sebagai pemilik tunggal sebuah kapasitas.
-
-## 5. Sepuluh Kapasitas sebagai Shared Developmental Map
-
-Struktur Capacity Framework yang tersedia saat ini memuat sepuluh domain:
-
-1. Salimul Aqidah
-2. Shahihul Ibadah
-3. Matinul Khuluq
-4. Qawiyyul Jism
-5. Mutsaqqaful Fikr
-6. Mujahadatun Linafsih
-7. Haritsun 'Ala Waqtih
-8. Munazhzham fi Syu'unih
-9. Qadirun 'Alal Kasb
-10. Nafi'un Lighairih
-
-Kesepuluhnya lebih tepat diperlakukan sebagai **shared developmental outcomes** daripada dibagi menjadi “milik madrasah” atau “milik pesantren”. fileciteturn10file0
-
-Namun, shared outcome tidak berarti setiap vehicle harus menyediakan seluruh pengalaman yang sama.
-
-## 6. Hipotesis Contribution Matrix
-
-Sebagai hipotesis awal:
-
-| Capacity Domain | Madrasah | Pesantren | Prinsip |
-|---|---|---|---|
-| Salimul Aqidah | Supporting | Primary | Keduanya dapat memperkuat pemahaman dan penghayatan |
-| Shahihul Ibadah | Supporting | Primary | Pesantren lebih kuat pada praktik dan pembiasaan |
-| Matinul Khuluq | Supporting | Primary | Keduanya memberi konteks; kehidupan bersama memberi evidence kuat |
-| Qawiyyul Jism | Supporting | Supporting | Keduanya dapat menyediakan pengalaman berbeda |
-| Mutsaqqaful Fikr | Primary | Supporting | Madrasah kuat pada structured academic learning |
-| Mujahadatun Linafsih | Supporting | Primary | Pesantren menyediakan banyak konteks pembiasaan dan self-regulation |
-| Haritsun 'Ala Waqtih | Supporting | Primary | Keduanya memberi tuntutan waktu dengan bentuk berbeda |
-| Munazhzham fi Syu'unih | Supporting | Primary | Kehidupan pesantren menyediakan konteks organisasi kehidupan |
-| Qadirun 'Alal Kasb | Primary/Supporting | Supporting/Primary | Bergantung pada desain pengalaman dan program |
-| Nafi'un Lighairih | Supporting | Primary | Keduanya dapat memberi service dan kontribusi sosial |
-
-**Catatan:** matriks ini adalah **hipotesis desain**, bukan keputusan final. Pemetaan final harus diturunkan dari definisi, competencies, behaviors, indicators, dan development levels masing-masing capacity domain.
-
-## 7. Mengapa "Primary" Tidak Berarti Ownership Tunggal?
-
-Istilah **Primary Contributor** tidak boleh berubah menjadi:
-
-> “Kalau pesantren primary, madrasah tidak perlu mengembangkan.”
-
-Itu akan mengulang kesalahan pembagian kurikulum.
-
-Primary hanya berarti:
-
-> **vehicle tersebut memiliki posisi paling strategis untuk menyediakan pengalaman atau konteks tertentu pada aspek kapasitas tersebut.**
-
-Outcome tetap milik Sistem TUMBUH.
-
-## 8. Avoiding Duplication
-
-Duplikasi tidak terjadi karena dua vehicle membahas kapasitas yang sama.
-
-Duplikasi terjadi ketika:
-
-- pengalaman yang sama diulang tanpa fungsi tambahan;
-- outcome yang sama diajarkan berkali-kali tanpa progression;
-- dua pihak menggunakan aktivitas berbeda tetapi menghasilkan evidence yang sama tanpa kebutuhan;
-- program dibuat tanpa mengetahui kontribusi vehicle lain.
-
-Maka prinsipnya:
-
-> **Do not eliminate overlap; eliminate meaningless overlap.**
-
-Overlap yang disengaja dapat menjadi reinforcement.
-
-## 9. Avoiding Gaps
-
-Gap muncul ketika semua pihak menganggap pihak lain bertanggung jawab.
+Karena itu kurikulum tidak seharusnya berhenti pada daftar profil lulusan.
 
 Contoh:
 
-```
-Capacity X
-   ↓
-Madrasah: "pesantren yang menangani"
-Pesantren: "madrasah yang menangani"
-   ↓
-NO OWNER
-   ↓
-NO DEVELOPMENT
-```
+**Mujahadatun Linafsih — Mampu Mengendalikan Diri** merupakan Graduate Profile.
 
-Karena itu setiap capacity domain perlu memiliki **explicit contribution mapping**.
+Salah satu Core Capacity yang sangat terkait dengannya adalah **Self-Regulation**.
 
-Minimal:
+Self-Regulation sendiri memiliki fungsi monitoring, regulation, dan reorientation. Jadi curriculum design tidak cukup berkata:
 
-```
-Capacity
-  ↓
-Primary Contributor
-  ↓
-Supporting Contributors
-  ↓
-Learning Experiences
-  ↓
-Evidence
-  ↓
-Assessment
-  ↓
-Intervention
-```
+> “Program pesantren mengembangkan Mujahadatun Linafsih.”
 
-## 10. Curriculum Mapping Harus Berbasis Progression
+Pertanyaan yang lebih operasional adalah:
 
-Mapping tidak cukup mengatakan:
+> “Pengalaman apa yang memberi kesempatan santri mengembangkan fungsi Self-Regulation pada tahap perkembangan tertentu, dan bagaimana pengalaman itu berkontribusi pada terwujudnya Mujahadatun Linafsih?”
 
-> “Program A mengembangkan capacity X.”
+Dengan cara ini hubungan antara profile dan capacity tidak menjadi slogan.
 
-Pertanyaan yang lebih penting:
+## 3. Capacity Mapping Bukan Subject Mapping
 
-> “Program A mengembangkan aspek capacity X pada development level yang mana?”
-
-Karena Capacity Framework memiliki Development Levels, mapping harus memperhatikan progression. fileciteturn10file0
-
-Dengan demikian:
+Mapping tidak sebaiknya dimulai dari:
 
 ```
-CAPACITY
-   ↓
-DEVELOPMENT LEVEL
-   ↓
+Mata Pelajaran → Graduate Profile
+atau
+Mata Pelajaran → Core Capacity
+```
+
+Karena satu pengalaman belajar dapat berkontribusi pada beberapa kapasitas dan profil sekaligus.
+
+Mapping yang lebih tepat:
+
+```
+GRADUATE PROFILE
+       ↓
+CORE CAPACITY
+       ↓
+FUNCTIONAL DIMENSION
+       ↓
 EXPECTED BEHAVIOR
-   ↓
-EXPERIENCE
-   ↓
-EVIDENCE
-   ↓
-ASSESSMENT
-```
-
-Ini mencegah semua aktivitas dianggap sama pentingnya pada semua usia dan tahap perkembangan.
-
-## 11. Implikasi bagi Assessment
-
-Karena Assessment Framework TUMBUH mencakup observation, self assessment, peer assessment, mentor assessment, rubrics, scoring, reporting, dan analytics, bukti dari madrasah dan pesantren dapat menjadi **multi-source evidence** untuk satu capacity domain. fileciteturn10file0
-
-Namun bukti tidak boleh sekadar dikumpulkan.
-
-Harus ada:
-
-```
-MULTIPLE EVIDENCE
        ↓
-TRIANGULATION
-       ↓
-DEVELOPMENTAL INTERPRETATION
-       ↓
-DECISION
-```
-
-Dengan begitu, santri tidak mempunyai “nilai karakter madrasah” dan “nilai karakter pesantren” yang berdiri sendiri, melainkan satu gambaran perkembangan dengan evidence dari beberapa konteks.
-
-## 12. Implikasi bagi Program
-
-Programs tidak boleh menjadi cara untuk menutup setiap capacity domain dengan kegiatan baru.
-
-Jika sebuah capacity sudah memperoleh pengalaman kuat melalui:
-
-- classroom learning;
-- daily life;
-- mentoring;
-- service;
-- leadership;
-- reflection;
-
-maka belum tentu perlu dibuat program khusus.
-
-Ini menjaga agar curriculum architecture tidak berubah menjadi:
-
-```
-10 capacities
-×
-10 programs
-=
-100 programs
-```
-
-TUMBUH seharusnya mencari **minimum effective architecture**, bukan maksimum jumlah kegiatan.
-
-## 13. Implikasi bagi Roles
-
-Capacity mapping juga menentukan siapa yang perlu memperhatikan perkembangan santri.
-
-Guru madrasah tidak harus menjadi pemilik seluruh assessment.
-
-Pengasuh pesantren juga tidak harus menjadi satu-satunya observer.
-
-Yang diperlukan adalah:
-
-```
-SHARED CAPACITY
-      ↓
-ROLE-SPECIFIC OBSERVATION
-      ↓
-INTEGRATED INTERPRETATION
-```
-
-Peran dapat berbeda, tetapi developmental language tetap dapat sama.
-
-## 14. Implication for TUMBUH
-
-P0003 menghasilkan distinction penting:
-
-> **TUMBUH tidak sebaiknya membagi capacity domains antara madrasah dan pesantren.**
-
-Sebaliknya:
-
-> **Kesepuluh capacity domains merupakan shared developmental outcomes; madrasah dan pesantren memiliki kontribusi yang berbeda terhadap perkembangan, pengalaman, evidence, dan intervention pada masing-masing domain.**
-
-Dengan demikian curriculum mapping TUMBUH perlu bergerak dari:
-
-```
-SUBJECT → CAPACITY
-```
-
-menjadi:
-
-```
-CAPACITY
-   ↓
 DEVELOPMENT LEVEL
-   ↓
-EXPECTED BEHAVIOR
-   ↓
+       ↓
 EXPERIENCE
-   ↓
+       ↓
 CURRICULUM VEHICLE
-   ↓
+       ↓
 EVIDENCE
-   ↓
-ASSESSMENT
-   ↓
-INTERVENTION
+       ↓
+ASSESSMENT / INTERVENTION
 ```
 
-Ini lebih sesuai dengan struktur Capacity Framework dan hubungan Capacity → Progression → Assessment → Intervention yang sudah ada dalam repository. fileciteturn10file0
+Ini mempertahankan hubungan antara Core Model, Progression, Assessment, dan Intervention.
+
+## 4. Shared Outcome ≠ Equal Contribution
+
+Madrasah dan pesantren sama-sama dapat berkontribusi pada perkembangan santri, tetapi kontribusinya tidak harus identik.
+
+### Madrasah
+
+Secara struktural dapat menyediakan pengalaman seperti:
+
+- pembelajaran akademik;
+- inquiry;
+- diskusi;
+- latihan bernalar;
+- proyek;
+- tugas;
+- presentasi;
+- kolaborasi akademik.
+
+### Pesantren
+
+Secara struktural dapat menyediakan pengalaman seperti:
+
+- kehidupan bersama;
+- ibadah berjamaah;
+- mentoring;
+- pembiasaan;
+- tanggung jawab;
+- khidmah;
+- kepemimpinan;
+- praktik kehidupan sehari-hari.
+
+Contoh tersebut **bukan pembagian final ownership**. Fungsinya menunjukkan bahwa satu developmental outcome dapat memperoleh pengalaman dari beberapa vehicle.
+
+## 5. Kontribusi Harus Dibaca melalui Core Capacity
+
+Karena Core Model menggunakan 8 Core Capacities, maka kontribusi madrasah dan pesantren sebaiknya dianalisis pada level kapasitas fungsional.
+
+Contoh:
+
+### Self-Regulation
+
+Madrasah dapat menyediakan konteks:
+
+- mengelola perhatian ketika belajar;
+- menyelesaikan tugas;
+- mengikuti proses belajar;
+- mengelola respons dalam diskusi.
+
+Pesantren dapat menyediakan konteks:
+
+- mengatur diri dalam jadwal harian;
+- mengendalikan respons ketika hidup bersama;
+- kembali ke rutinitas setelah mengalami kegagalan;
+- menjaga perilaku ketika tidak diawasi langsung.
+
+Keduanya dapat menghasilkan bukti berbeda tentang kapasitas yang sama.
+
+### Critical Thinking
+
+Madrasah dapat menyediakan pengalaman inquiry akademik dan evaluasi argumen.
+
+Pesantren dapat menyediakan konteks kajian, diskusi, pengambilan keputusan, dan pembacaan persoalan nyata.
+
+### Communication dan Collaboration
+
+Keduanya dapat menyediakan pengalaman berbeda sesuai konteks, sehingga tidak tepat menetapkan bahwa satu vehicle “memiliki” kapasitas tersebut.
+
+## 6. Peran Curriculum Vehicles
+
+Dari sini dapat dibedakan:
+
+- **Developmental Outcome** — Graduate Profile yang hendak diwujudkan.
+- **Functional Capacity** — Core Capacity yang menopang fungsi perkembangan.
+- **Experience** — pengalaman yang memberi kesempatan kapasitas berkembang.
+- **Curriculum Vehicle** — lingkungan/struktur yang mengorganisasi pengalaman tersebut.
+- **Evidence** — manifestasi yang dapat diamati dan digunakan untuk memahami perkembangan.
+- **Assessment** — proses interpretasi perkembangan berdasarkan evidence.
+- **Intervention** — respons untuk membantu perkembangan berikutnya.
+
+Distinction ini penting agar “madrasah”, “pesantren”, “program”, dan “capacity” tidak diperlakukan sebagai kategori yang sama.
+
+## 7. Implikasi terhadap Duplikasi
+
+Duplikasi bukan terjadi hanya karena madrasah dan pesantren sama-sama menyentuh satu Core Capacity.
+
+Overlap dapat berguna jika memiliki fungsi berbeda atau memberikan reinforcement.
+
+Yang perlu dihindari adalah:
+
+- aktivitas yang sama diulang tanpa fungsi perkembangan tambahan;
+- pengalaman berbeda tetapi tidak memiliki progression;
+- evidence dikumpulkan berulang tanpa meningkatkan pemahaman;
+- program dibuat hanya karena suatu profile belum memiliki nama kegiatan.
+
+Prinsipnya:
+
+> **Eliminate meaningless overlap, not meaningful reinforcement.**
+
+## 8. Implikasi terhadap Gap
+
+Gap muncul jika madrasah dan pesantren menganggap perkembangan santri sebagai tanggung jawab pihak lain.
+
+Karena itu, untuk setiap bagian penting dari development architecture perlu dapat ditelusuri:
+
+```
+Graduate Profile
+      ↓
+Core Capacity
+      ↓
+Development Level
+      ↓
+Experience
+      ↓
+Vehicle
+      ↓
+Evidence
+```
+
+Namun traceability tersebut **tidak berarti harus selalu ada satu vehicle yang menjadi pemilik tunggal**.
+
+## 9. Implikasi terhadap Assessment
+
+Satu Core Capacity dapat menghasilkan evidence dari beberapa konteks.
+
+Karena itu assessment sebaiknya mampu membaca:
+
+```
+MADRASAH EVIDENCE
+       +
+PESANTREN EVIDENCE
+       ↓
+INTEGRATED DEVELOPMENTAL INTERPRETATION
+```
+
+Bukan:
+
+```
+NILAI KARAKTER MADRASAH
++
+NILAI KARAKTER PESANTREN
+=
+NILAI KARAKTER SANTRI
+```
+
+Yang dicari adalah pemahaman perkembangan santri, bukan penjumlahan skor antar-institusi.
+
+## 10. Implikasi terhadap Curriculum Architecture
+
+P0003 memperkuat hipotesis P0002:
+
+> **TUMBUH lebih tepat menggunakan satu developmental logic dengan beberapa curriculum vehicles.**
+
+Namun shared core harus dibaca secara tepat:
+
+```
+SHARED
+├── Graduate Profile
+├── Core Capacity Architecture
+├── Development / Progression Logic
+├── Assessment Logic
+└── Developmental Decisions
+
+DIFFERENTIATED
+├── Content
+├── Experiences
+├── Methods
+├── Environment
+├── Time Structure
+└── Role Structure
+```
+
+Yang diintegrasikan adalah **developmental logic**, bukan seluruh bentuk pendidikan.
 
 ## Pertanyaan Lanjutan
 
-1. Bagaimana menentukan Primary Contributor secara objektif?
-2. Apakah setiap capacity membutuhkan Primary Contributor?
-3. Bagaimana memetakan competencies dan behaviors ke pengalaman madrasah dan pesantren?
-4. Bagaimana memastikan progression antar-jenjang?
-5. Bagaimana menghindari curriculum overload?
-6. Bagaimana satu evidence dapat digunakan lintas assessment contexts?
-7. Bagaimana curriculum map diterjemahkan menjadi timetable?
-8. Bagaimana mapping ini mempengaruhi role guru, musyrif, wali, mentor, dan pengasuh?
+1. Apakah “Primary Contributor” memang perlu ditetapkan pada level Core Capacity?
+2. Jika tidak, pada level apa kontribusi utama seharusnya ditetapkan?
+3. Bagaimana membedakan kontribusi madrasah dan pesantren pada satu Core Capacity?
+4. Bagaimana hubungan Graduate Profile → Core Capacity → Development Level diterjemahkan menjadi curriculum map?
+5. Bagaimana menghindari ownership yang menyebabkan salah satu vehicle melepaskan tanggung jawab terhadap perkembangan santri?
 
 ## Drift Check
 
 **Object of Inquiry:** Curriculum Architecture TUMBUH pada pesantren yang memiliki madrasah.
 
-**TUMBUH Question:** Bagaimana capacity domains dipetakan lintas curriculum vehicles?
+**TUMBUH Question:** Bagaimana 10 Graduate Profiles dan 8 Core Capacities dipetakan lintas madrasah dan pesantren?
 
-**Boundary:** Tidak menyusun silabus atau menetapkan final allocation setiap capacity kepada madrasah/pesantren.
+**Boundary:** Tidak menetapkan pembagian final ownership atau menyusun silabus teknis.
 
-**Repository Destination:** Capacity Framework, Curriculum / Learning Architecture, Progression Framework, Assessment Framework, dan Implementation Framework.
+**Repository Destination:** Curriculum / Learning Architecture, Core Model, Progression, Assessment, Intervention, dan Implementation.
 
-**Exit Back to TUMBUH:** Capacity domains tetap menjadi shared outcomes; contribution, experience, evidence, dan intervention dapat differentiated.
+**Exit Back to TUMBUH:** Graduate Profile menjadi shared developmental direction; Core Capacities menjadi functional developmental architecture; madrasah dan pesantren menjadi differentiated vehicles yang memberikan pengalaman dan evidence dalam satu development system.
 
 ## Status
 
-P0003 — selesai sebagai inquiry awal; contribution matrix perlu diuji melalui inquiry berikutnya.
+P0003 — **REPAIRED**. Terminologi dan arsitektur telah diselaraskan dengan Core Model TUMBUH v2.0.0.
