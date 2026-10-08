@@ -3,7 +3,7 @@ name: pakar-probe-inquiry-tumbuh
 description: >-
   Keahlian, metodologi kerja, dan tata kelola penyelidikan PROBE sebagai mesin inquiry TUMBUH:
   perumusan Object of Inquiry, TUMBUH Questions, penjagaan boundary, mitigasi inquiry drift (Drift Guardrails & Check),
-  navigasi penulisan berkas P (P0001, P0002, dst.), penelusuran sumber (traceability),
+  navigasi penulisan berkas P (P00000, P00001, P00002, dst. dengan 5 digit angka), penelusuran sumber (traceability),
   serta sintesis dan penerjemahan hasil kajian ke repository TUMBUH v2.0.0.
 ---
 
@@ -49,6 +49,8 @@ PROBE berfungsi untuk:
 
 * menggali pertanyaan yang diperlukan TUMBUH;
 * menelusuri dan menguji sumber;
+* **membuka panggung dialektika antar-sumber** (memetakan kubu pemikiran, menimbang dalil yang saling menguatkan [*tashdiq*] vs saling bertolak belakang [*ta'arudh*], serta menetapkan *tarjih* dan rekonsiliasi [*al-jam'u wat-taufiq*]);
+* **memperbarui katalog referensi secara otomatis**: setiap kali berkas PROBE mengkaji kitab, buku teks, jurnal, atau instrumen baru yang belum terdaftar di folder `REFERENCES/`, agen wajib mendaftarkannya ke katalog terkait di `REFERENCES/` lengkap dengan metadata dan implikasi lapis TUMBUH;
 * memahami konsep sebelum merumuskannya;
 * menemukan hubungan antarkonsep;
 * mengidentifikasi persoalan, celah, dan ketegangan;

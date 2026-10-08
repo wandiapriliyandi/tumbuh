@@ -84,3 +84,20 @@ Jika agen diminta memeriksa sitasi dokumen tertentu, jalankan protokol:
 1. Scan seluruh tag `[^n]` dalam teks dan pastikan ada pasangannya di bagian `### 3. Catatan Kaki Akademis (*Footnotes*)`.
 2. Cross-check setiap nama penulis di `Daftar Pustaka` dengan sitasi dalam naskah (*In-Text Citations*).
 3. Verifikasi apakah ada hadits tanpa nomor perawi, lalu lengkapi dengan nomor hadits baku.
+
+---
+
+## 5. Protokol Kurasi & Pembaruan Folder `REFERENCES/` (Auto-Cataloging)
+
+Skill ini bertanggung jawab penuh sebagai **Kustodian Resmi Folder `REFERENCES/`**. Setiap kali berkas PROBE, Fundamental, atau Implementation mengkaji atau mengutip karya baru yang belum terdaftar:
+
+1. **Deteksi Rujukan Baru**: Periksa apakah kitab Turats, buku teks sains, atau jurnal yang dikutip sudah ada dalam katalog di `REFERENCES/` (misalnya `REFERENCES/books/01-Turats-Klasik-dan-Adab-Islam.md`, `REFERENCES/books/04-Falsafah-Sosiologi-dan-Kepemimpinan-Pesantren.md`, `REFERENCES/journals/`, dll.).
+2. **Standardisasi Metadata Entri**:
+   - Nomor urut berikutnya.
+   - Nama Pengarang / Ulama Klasik / Peneliti.
+   - Judul Karya Lengkap.
+   - Abad Hijriyah / Tahun Terbit Masehi.
+   - Fokus Utama Pembahasan & Lokus Integrasi Domain TUMBUH (misal: `01_FUNDAMENTAL/01_PHILOSOPHY`).
+3. **Penyisipan Otomatis ke File Katalog Terkait**: Tambahkan baris baru ke tabel Markdown katalog yang relevan.
+4. **Validasi Anti-Halusinasi**: Pastikan karya yang dimasukkan benar-benar ada dan otentik secara filologis dan akademis sebelum dicatat ke repositori.
+
