@@ -1,353 +1,122 @@
-# PROBE 03 — Principles
+# PROBE 03 — Permasalahan, Ketegangan, dan Penerapan Prinsip TUMBUH
 
-## 1. Purpose
+## 1. Fokus dan Objek Penyelidikan (Object of Inquiry)
 
-PROBE 03 is the inquiry space for understanding and formulating the **Principles of TUMBUH**.
-
-Its purpose is not to list principles that have already been decided. Its purpose is to investigate:
-
-- what principles TUMBUH requires;
-- why each principle is necessary;
-- what problem each principle addresses;
-- what assumptions support it;
-- how principles relate to one another;
-- where a principle applies and where it does not;
-- what evidence, traditions, theories, or prior findings support or challenge it;
-- what consequences a principle has for the design and operation of TUMBUH.
-
-The output of this inquiry becomes intellectual input for:
-
-`01_FUNDAMENTAL/02_PRINCIPLES`
-
-PROBE therefore preserves the **reasoning behind the principles**, while the Foundation preserves the **formulated principles themselves**.
-
----
-
-## 2. Position in TUMBUH
-
-TUMBUH separates inquiry from formulation.
+PROBE 03 mengkaji secara radikal dan mendalam: **Permasalahan, Dilema, dan Ketegangan dalam Prinsip-Prinsip TUMBUH (Core Principles & Design Principles)**.
 
 ```text
-PROBE 03
-   ↓
-inquiry
-   ↓
-evidence
-   ↓
-analysis
-   ↓
-critique
-   ↓
-synthesis
-   ↓
-principle formulation
-   ↓
-01_FUNDAMENTAL/02_PRINCIPLES
+01_PHILOSOPHY (Worldview & Hakikat Insan)
+       ↓
+   PROBE 02 (Penyelidikan Filosofis)
+       ↓
+02_PRINCIPLES (Pegangan Inti & Rancangan)
+       ↓
+   PROBE 03 (Penyelidikan Krisis, Permasalahan, & Ketegangan Prinsip)
+       ↓
+03_CORE_MODEL (Arsitektur Model Santri & Asrama)
+       ↓
+   PROBE 04 (Penyelidikan Core Models)
 ```
 
-This separation is intentional.
+Jika **PROBE 02** menyelidiki akar ontologis dan filosofis tentang hakikat manusia, fitrah, dan tujuan penciptaan, maka **PROBE 03** berada tepat di garis pertempuran penerjemahan filosofi tersebut menjadi pegangan sistemik (*systemic principles*). 
 
-A principle in the Foundation should not appear as an unexplained statement. Its development should be traceable to the inquiry that produced or justified it.
+Pertanyaan sentral yang melahirkan PROBE 03 adalah:
 
-At the same time, PROBE 03 is **not the Principles folder in another form**. PROBE may contain questions, competing interpretations, rejected alternatives, unresolved issues, and reasoning that should not appear in the final Foundation.
+> **"Apa saja permasalahan kritis, ketegangan antar-prinsip, risiko salah tafsir, dan jebakan operasional yang muncul ketika prinsip-prinsip luhur TUMBUH diterjemahkan dan diuji di tengah kerasnya realitas kehidupan pesantren 24 jam?"**
+
+PROBE 03 tidak mengulang teks normatif prinsip. PROBE 03 bertugas menguji ketahanan prinsip, menemukan retakan (*fault lines*), membongkar ilusi teoritis, menelusuri ketegangan bawaan (*built-in tensions*), serta merumuskan parameter batas (*guardrails*) agar prinsip tidak runtuh menjadi jargon hampa atau alat opresi terselubung.
 
 ---
 
-## 3. Scope of Inquiry
+## 2. Mengapa Permasalahan Prinsip Harus Diselidiki Secara Khusus?
 
-PROBE 03 investigates the principles that govern the way TUMBUH is conceived, designed, developed, assessed, implemented, and improved.
+Banyak sistem pendidikan Islam gagal bukan karena ketiadaan filosofi luhur, melainkan karena **kegagalan memahami permasalahan bawaan dari prinsip yang mereka tetapkan sendiri**. 
 
-The current repository identifies the Principles domain within:
+Di lapangan pesantren, prinsip-prinsip yang tampak sangat mulia di atas kertas sering kali melahirkan krisis yang rumit:
+1. **Dilema Pertumbuhan vs Ketertiban (*Development vs Compliance*):** Menuntut pertumbuhan kesadaran batin santri sering disalahartikan sebagai pembiaran ketidaktertiban; sementara penegakan aturan jam asrama kerap jatuh kembali pada represi militeristik.
+2. **Kelelahan Musyrif akibat Tuntutan Manusia Utuh (*Whole-Person Overload*):** Menuntut pendidik melihat santri secara utuh 24 jam tanpa batas operasional yang jelas menciptakan kelelahan mental (*burnout*) massal pada asatidz muda.
+3. **Konflik Bukti vs Kultur Senioritas (*Evidence vs Hierarchical Authority*):** Prinsip pengambilan keputusan berbasis bukti (*evidence-based*) kerap berbenturan keras dengan budaya kultural "kalam kiai" atau perasaan senioritas musyrif asrama.
+4. **Distorsi Restoratif Menjadi Impunitas (*Restorative Drift*):** Prinsip intervensi memulihkan dan tanpa hukuman fisik kerap dituduh oleh wali santri atau santri korban sebagai bentuk kelemahan institusi yang membela pelaku kekerasan.
+5. **Kerumitan Sistem yang Melumpuhkan (*Complexity Paralysis*):** Prinsip integrasi sistem yang terlalu kaku membuat setiap urusan kamar santri membutuhkan birokrasi koordinasi yang bertele-tele.
+
+PROBE 03 menjadi kawah candradimuka untuk membedah seluruh permasalahan ini secara jujur, objektif, berakar pada realitas asrama, dan berbasis argumentasi keilmuan yang kokoh.
+
+---
+
+## 3. Peta Wilayah Penyelidikan (Inquiry Domains)
+
+Penyelidikan di PROBE 03 dikelompokkan ke dalam lima klaster permasalahan strategis:
 
 ```text
-01_FUNDAMENTAL/
-└── 02_PRINCIPLES/
+                        [ WILAYAH PENYELIDIKAN PROBE 03 ]
+                                        │
+    ┌────────────────────┬──────────────┴──────────────┬────────────────────┐
+    ▼                    ▼                             ▼                    ▼
+[ KLASTER 1 ]       [ KLASTER 2 ]                 [ KLASTER 3 ]        [ KLASTER 4 ]
+Status & Epistemik   Ketegangan Antar-             Problem Manusia &    Benturan Budaya
+Prinsip vs Dogma    Core Principles               Kapasitas Pendidik   Kultural Pesantren
+    │                    │                             │                    │
+    └────────────────────┼─────────────────────────────┴────────────────────┘
+                         ▼
+                    [ KLASTER 5 ]
+               Design Principles Crisis:
+              Sederhana vs Kerumitan Sistem
 ```
 
-The inquiry may therefore examine, among other things:
+### Klaster 1: Status Epistemik, Batas, dan Otentisitas Prinsip
+- Membedakan prinsip inti dari dogma yang membatu dan anjuran yang longgar.
+- Menentukan batas kapan suatu prinsip boleh dikontekstualisasikan dan kapan prinsip tersebut haram dikompromikan (*non-negotiable guardrails*).
+- Fenomena *Principle Drift*: bagaimana makna sebuah prinsip luhur membusuk secara perlahan menjadi sekadar ritual administratif.
 
-- **Core Principles**
-- **Design Principles**
-- **Learning Principles**
-- **Development Principles**
-- **Assessment Principles**
-- **Intervention Principles**
-- **Implementation Principles**
+### Klaster 2: Ketegangan Bawaan Antar-Core Principles (*Principle Tensions*)
+- *Development vs Compliance*: Pertumbuhan kesadaran internal versus kebutuhan ketertiban komunal.
+- *Whole-Person vs Practical Focus*: Menghargai seluruh dimensi santri tanpa melumpuhkan efisiensi pengambilan keputusan darurat.
+- *Progression vs Context*: Standar capaian jenjang (J1–J4) versus keunikan latar belakang trauma atau keterlambatan santri.
+- *Evidence vs Contextual Intuition*: Logbook dan data empiris versus firasat tarbiyah musyrif senior.
+- *Restorative Intervention vs Victim Justice & Accountability*: Pemulihan pelaku tanpa mengorbankan rasa keadilan korban dan keamanan komunal.
 
-These categories are an initial map of the repository, not a limitation on inquiry. PROBE may discover that a category needs to be refined, merged, separated, renamed, added, or rejected.
+### Klaster 3: Problem Kapasitas Insani dan Realitas Lapangan
+- *Musyrif Burnout*: Beban psikologis dan emosional ketika pendidik dituntut menjadi figur qudwah sempurna 24 jam.
+- *Disparitas Kompetensi*: Kesenjangan jurang pemahaman antara perumus kurikulum di dewan pengarah dengan musyrif lapangan lulusan baru.
+- *Moral Hypocrisy & Pretending*: Risiko terciptanya kepura-puraan adab pada santri senior demi mempertahankan status jenjang kepemimpinan.
 
-The inquiry must follow what the evidence and architecture require rather than forcing findings into a predetermined structure.
+### Klaster 4: Benturan Budaya dan Ekosistem Pesantren
+- Menjembatani tradisi kharisma kepemimpinan kiai dengan prinsip tata kelola kolegial berbasis data.
+- Menghadapi tekanan wali santri yang menuntut "hasil instan hafalan dan kepatuhan" versus prinsip proses bertahap (*at-tadarruj*).
+- Menghapus tradisi kekerasan warisan senioritas (*feodal dorm culture*) tanpa menghilangkan penghormatan adab antar-angkatan.
 
----
-
-## 4. Central Question
-
-The central question of PROBE 03 is:
-
-> **What principles must govern TUMBUH so that it remains faithful to its fundamental orientation while functioning as a coherent human development system?**
-
-This question generates more specific inquiries.
-
-For example:
-
-```text
-What is a principle in TUMBUH?
-        ↓
-Why does TUMBUH need principles?
-        ↓
-What distinguishes a principle from
-a value, goal, rule, method, or program?
-        ↓
-What principles follow from TUMBUH's philosophy?
-        ↓
-How should principles govern design decisions?
-        ↓
-How should principles govern development?
-        ↓
-How should principles govern assessment and intervention?
-        ↓
-How should principles govern implementation?
-        ↓
-How do we test whether a proposed principle
-is genuinely necessary for TUMBUH?
-```
-
-The actual sequence of P is allowed to evolve from the findings of the inquiry.
+### Klaster 5: Krisis Perancangan Sistem (*Design Principles Breakdown*)
+- Kapan upaya menyederhanakan sistem (*simplicity*) berubah menjadi kedangkalan berbahaya (*simplistic negligence*).
+- Dilema perancangan instrumen asesmen: bagaimana mencatat adab tanpa mereduksi manusia menjadi angka raport skor semata.
+- Menjaga sistem tetap tangguh (*resilient*) saat terjadi pergantian pengasuh asrama atau badai krisis lembaga.
 
 ---
 
-## 5. Inquiry Flow
+## 4. Metodologi Penulisan Berkas P di PROBE 03
 
-PROBE 03 follows an **emergent inquiry** rather than a fixed list of questions.
-
-```text
-P0001
-  ↓
-finding
-  ↓
-new question / gap / tension
-  ↓
-P0002
-  ↓
-finding
-  ↓
-new question / implication
-  ↓
-P0003
-  ↓
-...
-```
-
-A new P should exist because the preceding inquiry creates a meaningful reason to investigate something further.
-
-There is therefore no predetermined number of P files.
-
-PROBE 03 ends when the inquiry is sufficiently developed to support the formulation and maintenance of the Principles domain required by the repository.
+Setiap berkas dalam folder ini mengikuti standar penyelidikan TUMBUH tertinggi:
+- **Panjang & Kedalaman Penuh:** Minimal 400–500+ baris analisis mendalam per berkas.
+- **Struktur Dialektis Multi-Sub-Bab:** Membedah anatomi masalah, akar filosofis/psikologis, studi kasus komparatif nyata di asrama pesantren (Kasus A, B, C, D, E), analisis ketegangan, salah diagnosa umum, dan parameter operasional resolusi.
+- **Integrasi Keilmuan Ganda:** Memadukan turats Islam klasik (Ibnu Sahnun, Al-Qabisi, Al-Ghazali, Ibnu Qayyim, Al-Mawardi) dengan temuan neurosains perkembangan, psikologi perilaku, dan School-Wide PBIS.
+- **Bukan Ringkasan Teori:** Grounded pada denyut nadi kehidupan santri, pergumulan batin musyrif, dan dinamika asrama 24 jam.
 
 ---
 
-## 6. What a P Should Investigate
+## 5. Indeks Aliran Penyelidikan (P0001 s.d. P0010 — Klaster Awal)
 
-A P is a unit of inquiry, not merely a topic heading.
-
-Where relevant, a P should make clear:
-
-1. **Question** — what is being investigated?
-2. **Context** — why does the question matter to TUMBUH?
-3. **Sources / Evidence** — what informs the inquiry?
-4. **Analysis** — what do the sources and reasoning indicate?
-5. **Tensions / Alternatives** — what competing possibilities or unresolved issues exist?
-6. **Synthesis** — what can reasonably be concluded?
-7. **Implication for TUMBUH** — what does the finding mean for the system?
-8. **Repository Trace** — which Foundation file or decision may be affected?
-
-Not every P must have identical depth or structure. The form should serve the inquiry.
+| No Berkas | Judul Penyelidikan | Fokus Utama Permasalahan |
+|---|---|---|
+| **P0001** | Bagaimana TUMBUH Membedakan Prinsip dari Dogma Kaku dan Pedoman Longgar? | Krisis Status Epistemik Prinsip di Pesantren |
+| **P0002** | Ketegangan Pertumbuhan Jiwa (*Development*) vs Kepatuhan Nyata (*Compliance*) | Dilema Ketertiban Asrama vs Kesadaran Kalbu |
+| **P0003** | Problem Pandangan Manusia Seutuhnya (*Whole-Person*) vs Batas Kapasitas Musyrif | Mitigasi Kelelahan Sistemik (*Systemic Burnout*) Asatidz |
+| **P0004** | Pertumbuhan Bertahap (*Progression*) vs Tuntutan Instan Wali Santri & Pimpinan | Manajemen Krisis Ekspektasi Hasil Tarbiyah |
+| **P0005** | Prinsip Konteks Sangat Menentukan (*Context Matters*) vs Godaan Mengkambinghitamkan Moralitas Santri | Mitigasi *Fundamental Attribution Error* di Pengasuhan |
+| **P0006** | Hubungan Kasih Sayang (*Relationship*) vs Kerentanan Batas Otoritas & Favoritisme | Pagar Keberjarakan Sehat & Profesionalisme Pengasuhan |
+| **P0007** | Berpijak pada Bukti (*Evidence-Based*) Berbenturan dengan Tradisi "Kalam Kiai Tanpa Catatan" | Integrasi Data Empiris tanpa Menghilangkan Barakah |
+| **P0008** | Keterpaduan Sistem (*System Integration*) vs Bahaya Kerumitan Birokrasi | Mencegah Kelumpuhan Operasional akibat Over-Engineering |
+| **P0009** | Asesmen yang Membimbing (*Assessment for Growth*) Tergelincir Menjadi Pelabelan Santri | Menjaga Alat Ukur agar Tidak Mengkhianati Niat Awal |
+| **P0010** | Intervensi Memulihkan (*Restorative Intervention*) vs Bahaya Ketiadaan Akuntabilitas | Keadilan Korban, Tanggung Jawab Pelanggar, & Proteksi Komunal |
 
 ---
 
-## 7. Principle Formation
-
-A proposed principle should not be accepted merely because it sounds desirable.
-
-PROBE 03 should test whether it:
-
-- follows coherently from the foundations of TUMBUH;
-- addresses a real design or developmental need;
-- has sufficient conceptual justification;
-- can guide decisions rather than merely describe aspirations;
-- has a clear scope;
-- has meaningful implications for practice;
-- does not duplicate another principle unnecessarily;
-- does not contradict other established principles without an explicit reason;
-- remains useful when applied to real TUMBUH decisions.
-
-The inquiry should also distinguish between:
-
-```text
-principle
-≠ value
-≠ goal
-≠ standard
-≠ rule
-≠ method
-≠ program
-≠ tool
-```
-
-These distinctions matter because TUMBUH is a system. A principle should operate at the appropriate level of abstraction.
-
----
-
-## 8. Relationship with Other Fundamental Domains
-
-Principles do not stand alone.
-
-The intended conceptual flow of the Foundation is:
-
-```text
-PHILOSOPHY
-    ↓
-PRINCIPLES
-    ↓
-CORE MODEL
-    ↓
-PROGRESSION
-    ↓
-ASSESSMENT
-    ↓
-INTERVENTION
-```
-
-Therefore PROBE 03 must continuously examine both directions of fit:
-
-- whether proposed principles are grounded in the Philosophy; and
-- whether proposed principles can meaningfully govern the Core Model and downstream domains.
-
-This prevents Principles from becoming an isolated list of statements.
-
----
-
-## 9. Sources and Evidence
-
-Sources used in PROBE 03 belong to the inquiry and must remain traceable.
-
-The objective is to be able to follow:
-
-```text
-source
-  ↓
-P
-  ↓
-finding / argument
-  ↓
-principle decision
-  ↓
-Foundation file
-```
-
-Sources may include religious texts, classical scholarship, contemporary research, established educational thought, systems thinking, developmental science, institutional experience, and other relevant evidence when justified by the question being investigated.
-
-A source is not treated as proof merely because it is authoritative. Its relevance to the particular inquiry must be examined.
-
----
-
-## 10. Traceability
-
-PROBE 03 should make it possible to answer:
-
-- Where did this principle come from?
-- What question led to it?
-- Which P investigated it?
-- What sources informed the inquiry?
-- What alternatives were considered?
-- Why was the formulation adopted?
-- Which Foundation file contains the resulting principle?
-- What later evidence may require the principle to be revised?
-
-This creates a **decision trace**, not merely a bibliography.
-
----
-
-## 11. Boundary Between PROBE and Foundation
-
-### PROBE 03 contains
-
-- questions;
-- investigation;
-- source interpretation;
-- evidence;
-- analysis;
-- criticism;
-- alternatives;
-- tensions;
-- rejected or provisional ideas;
-- synthesis;
-- reasoning behind decisions.
-
-### `01_FUNDAMENTAL/02_PRINCIPLES` contains
-
-- formulated principles;
-- definitions;
-- scope;
-- relationships;
-- implications;
-- operational meaning;
-- stable references to the supporting inquiry where appropriate.
-
-In short:
-
-> **PROBE explains how we arrived at the principle.**
-
-> **Foundation states the principle that TUMBUH adopts.**
-
----
-
-## 12. Working Standard
-
-PROBE 03 should be:
-
-- rigorous without becoming unnecessarily academic;
-- exploratory without becoming directionless;
-- critical without becoming cynical;
-- grounded in sources without becoming a compilation of quotations;
-- faithful to the worldview and purpose of TUMBUH;
-- open to correction when stronger reasoning or evidence appears;
-- useful for actual system design.
-
-The goal is not to produce the longest possible research trail.
-
-The goal is to produce a **defensible set of principles that can genuinely govern TUMBUH as a system**.
-
----
-
-## 13. Output of PROBE 03
-
-The eventual output is not simply a collection of P files.
-
-The intended chain is:
-
-```text
-P files
-   ↓
-validated findings
-   ↓
-principle candidates
-   ↓
-critical synthesis
-   ↓
-Principles architecture
-   ↓
-01_FUNDAMENTAL/02_PRINCIPLES
-   ↓
-guidance for the rest of TUMBUH
-```
-
-PROBE 03 therefore serves as the intellectual workshop behind the Principles domain.
-
----
-
-## 14. Guiding Statement
-
-> **Principles are not decoration around a system. They are the commitments that govern how the system thinks, chooses, designs, acts, and corrects itself.**
-
-PROBE 03 exists to determine those commitments carefully.
+*Setiap selesai 10 berkas, proses inquiry akan dikonfirmasikan dan ditinjau bersama pengguna sebelum melanjutkan batch berikutnya.*
