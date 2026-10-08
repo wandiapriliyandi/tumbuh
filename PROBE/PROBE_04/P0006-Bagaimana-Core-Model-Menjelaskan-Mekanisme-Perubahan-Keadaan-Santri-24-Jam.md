@@ -129,6 +129,45 @@ Musyrif yang memahami Core Model tidak akan terkejut jika terjadi perselisihan p
 
 ---
 
+## 4A. Analisis Sains Kontemporer: Kronobiologi Ritme Sirkadian dan Polyvagal Theory
+
+Sains kronobiologi dan neurosains otonom modern memberikan penjelasan empiris mendalam atas fluktuasi keadaan santri:
+* **Polyvagal Theory (Stephen Porges)**: Sistem saraf otonom santri beroperasi dalam tiga keadaan fisiologis:
+  1. *Ventral Vagal State (Aman & Terhubung)*: Detak jantung tenang, ekspresi wajah hangat, santri mampu mendengar nasihat musyrif dan berinteraksi sosial dengan empati (Nafs Muthma'innah).
+  2. *Sympathetic State (Mobilisasi Melawan / Lari)*: Kortisol melonjak, detak jantung cepat, santri defensif, mudah meledak marah, atau membantah aturan saat terdesak (Nafs Ammarah).
+  3. *Dorsal Vagal State (Immobilisasi / Membeku)*: Tubuh santri lemas, pandangan kosong, menarik diri, menangis tanpa suara, atau tertidur lemas di pojok kelas akibat kewalahan stres (*shut-down response*).
+* **Ritme Sirkadian & Sirkuit Hormonal (Clifford Saper)**: Siklus melatonin dan kortisol remaja mengalami pergeseran fase (*phase-delay*) 1,5–2 jam lebih lambat dibandingkan orang dewasa. Menuntut santri remaja tidur jam 21.00 dan langsung aktif penuh jam 03.30 menuntut penataan cahaya lampu dan nutrisi yang sangat presisi agar tidak terjadi disritmia biologis kronis.
+
+---
+
+## 4B. Matriks Taksonomi Operasional: Peta Dinamika Keadaan Santri 24 Jam
+
+TUMBUH memetakan siklus 24 jam asrama ke dalam protokol keadaan:
+
+| Waktu Harian | Status Fisiologis Primer | Dominasi Keadaan Jiwa | Titik Rawan Disrupsi | Protokol Tindakan Musyrif |
+| :--- | :--- | :--- | :--- | :--- |
+| **03.30 - 05.00 (Fajar)** | Transisi Tidur-Sadar, Suhu Tubuh Rendah. | Potensi Muthma'innah (Hening, Sakinah). | Santri lambat bangun, pusing tidur terpotong. | Membangunkan dengan sentuhan lembut di pundak, doa, basuhan air wudhu hangat/sejuk. |
+| **06.00 - 07.30 (Pagi)** | Lonjakan Kortisol Pagi, Kebutuhan Gula Darah. | Potensi Ammarah (Tergesa-gesa, Tegang). | Berebut kamar mandi, barang tertukar, terlambat masuk kelas. | Membimbing antrean ramah, memastikan sarapan cukup, melarang bentakan keras. |
+| **07.30 - 15.00 (Siang)**| Beban Kognitif Sekolah, Fluktuasi Glukosa. | Pergulatan Lawwamah (Konsentrasi & Jenuh). | Mengantuk di kelas jam 13.00, kelelahan kognitif. | Memberi jeda qailulah 20 menit setelah dzuhur, pergantian metode belajar aktif. |
+| **16.00 - 17.30 (Ashar)**| Pelepasan Energi Motorik, Dopamin Meningkat. | Relaksasi Sosial & Olahraga. | Perkelahian fisik di lapangan bola, ejekan antar-geng. | Musyrif hadir bermain bersama sebagai wasit adab yang adil dan gembira. |
+| **18.00 - 20.30 (Malam)**| Relaksasi Menjelang Malam, Suasana Halaqah. | Elevasi Ruhani & Refleksi Kalbu. | Percakapan bisik-bisik, melamun, distraksi santai. | Halaqah Al-Qur'an dan dialog adab santai sambil minum teh hangat. |
+| **21.00 - 22.30 (Tidur)** | Deplesi Prefrontal Cortex, Hormon Melatonin Naik.| Kerentanan Emosi & Homesickness. | Santri menangis rindu ibu, kamar gaduh melampiaskan stres. | Mematikan lampu utama, menyalakan lampu tidur temaram, membacakan doa dan memvalidasi batin. |
+
+---
+
+## 4C. Dialektika Penyelidikan: Debat Kritis (Tesis, Antitesis, Sintesis)
+
+### A. Tesis Determinis Biologis Mesin
+*"Manusia hanyalah mesin biokimia. Perilaku buruk santri 100% dipicu oleh hormon dan kurang tidur. Pendidik tidak perlu mengajarkan tauhid dan tobat; cukup beri makan bergizi dan atur jadwal tidur, maka otomatis santri akan menjadi orang baik!"*
+
+### B. Antitesis Voluntarisme Spiritual Murni
+*"Kondisi fisik tidak boleh dijadikan alasan! Santri yang shalih sejati tidak boleh mengantuk atau marah walau tidak makan dan tidak tidur 3 hari! Menyalahkan hormon adalah tanda kelemahan iman dan ajaran liberal."*
+
+### C. Sintesis Arsitektural TUMBUH
+**Kaidah Kesepaduan Jasmaniyah dan Ruhiyah (*I'tibar al-Fitrah al-Jasadiyyah fi Khidmah ar-Ruh*)**. Islam mengajarkan bahwa manusia diciptakan dari tanah (*jasad*) dan ditiupkan ruh ilahi (*ruh*). Mengabaikan kebutuhan biologis jasad santri adalah kebodohan, sebagaimana mereduksi manusia hanya menjadi materi mesin biologis adalah kesesatan. Core Model TUMBUH merawat jasad santri agar sehat dan bugar, sehingga ruh santri memiliki kendaraan yang kuat dan tenang untuk terbang menuju Allah SWT.
+
+---
+
 ## 5. Studi Kasus Komparatif A: Pesantren "Model Statis Vonis" (Penghancuran Identitas)
 
 ### Profil dan Kebijakan

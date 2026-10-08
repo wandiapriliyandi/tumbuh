@@ -74,7 +74,40 @@ Menyamakan regresi adaptif normal dengan krisis patologis adalah awal mula salah
 
 ---
 
-## 3. Empat Akar Pemicu Regresi Santri di Asrama (*The Root Triggers*)
+## 2A. Analisis Sains Kontemporer: Hukum Yerkes-Dodson dan Fase Konsolidasi Sinaptik
+
+Sains kognitif dan neurobiologi perkembangan membuktikan bahwa kemandekan (*plateau*) dan kemunduran sesaat (*dip/regression*) adalah bagian normal dari kurva pembelajaran biologis:
+* **Hukum Yerkes-Dodson (Robert Yerkes & John Dodson)**: Kinerja dan kestabilan perilaku manusia mengikuti kurva lonceng terbalik (*inverted-U curve*) terhadap tingkat stimulasi stres (*arousal*). Ketika santri dibebani target hafalan atau tugas organisasi yang melampaui ambang batas optimalnya, kinerja dan adabnya secara otomatis mengalami penurunan drastis (*performance drop*). Ini bukan pembangkangan moral, melainkan mekanisme perlindungan otomatis sistem saraf dari kerusakan permanen.
+* **Fase Konsolidasi Sinaptik (Synaptic Homeostasis Hypothesis - Tononi & Cirelli)**: Otak manusia tidak bisa terus-menerus membentuk sirkuit sinapsis baru tanpa henti. Ada fase di mana otak berhenti menyerap informasi baru (*plateau*) untuk merapikan, menata, dan mengokohkan sirkuit memori yang sudah ada. Menekan santri pada fase plateau ini dengan ancaman hukuman hanya akan memicu kebingungan kognitif (*cognitive stalling*).
+* **Regresi sebagai Mekanisme Koping Adaptif (Anna Freud)**: Ketika seorang anak remaja mengalami lonjakan kecemasan atau transisi lingkungan yang berat, otaknya secara wajar kembali ke pola perilaku usia sebelumnya (misal: merengek manja, mengompol, atau mencari perlindungan berlebih) sebagai cara mempertahankan rasa aman psikologis.
+
+---
+
+## 2B. Matriks Taksonomi Operasional: Diagnostik Empat Jenis Plateau dan Regresi
+
+TUMBUH memetakan akar kemandekan santri ke dalam instrumen diagnostik:
+
+| Kategori Kemandekan | Karakteristik Perilaku Lapangan | Pemicu Neurobiologis / Lingkungan | Protokol Penanganan TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **1. Plateau Kognitif (Learning Plateau)** | Hafalan Al-Qur'an terhenti di juz yang sama selama 4 pekan, santri tampak bingung. | Kelelahan sinaptik memori kerja (*working memory fatigue*), metode muraja'ah monoton. | **Jeda Hafalan 7 Hari**: Alihkan ke aktivitas motorik/olahraga, ganti metode menyimak visual. |
+| **2. Regresi Emosional Transisional** | Santri J2 yang biasanya mandiri tiba-tiba menangis rindu rumah dan menolak makan. | Lonjakan hormon pubertas, konflik kecil dengan kawan kamar, rasa sepi. | **Sesi Curhat Empati 15 Menit**: Validasi perasaan tanpa mengejek, dampingi makan bersama. |
+| **3. Fenomena Futur Spiritual** | Santri malas bangun tahajjud, mengantuk berat saat dzikir, kehilangan gairah ibadah. | Kejenuhan rutinitas tanpa pemaknaan kalbu (*spiritual burnout*), dosa batiniah tersembunyi. | **Tazkiyah Mahabbah**: Jangan dibentak; ajak tadabbur alam semesta dan doakan di sepertiga malam. |
+| **4. Regresi Krisis Traumatis (Tier 3)** | Santri mengurung diri di lemari, melukai diri sendiri (*self-harm*), histeria massal. | Trauma perundungan fisik terselubung, kabar duka kematian orang tua di rumah. | **Intervensi Darurat Terpadu**: Rujukan ke tim medis/psikolog, perlindungan isolasi aman. |
+
+---
+
+## 2C. Dialektika Penyelidikan: Debat Kritis (Tesis, Antitesis, Sintesis)
+
+### A. Tesis Linearitas Militeristik Kaku
+*"Grafik santri di pondok harus selalu naik lurus ke atas setiap hari! Santri tidak boleh mundur satu milimeter pun. Sekali santri menunjukkan kemalasan atau kemunduran hafalan, langsung cambuk dan hukum lari agar mentalnya tidak lembek!"*
+
+### B. Antitesis Pembiaran Pasif Tanpa Batas
+*"Santri sedang mengalami fase regresi psikologis. Kita tidak boleh menegur atau membatasi apa pun; biarkan mereka tidur seharian dan tidak shalat selama berminggu-minggu sampai mereka sadar sendiri!"*
+
+### C. Sintesis Arsitektural TUMBUH
+**Kaidah Menata Jeda untuk Melompat Lebih Jauh (*At-Tawaqquf al-Mu'aqqat lil-Inthilaq al-Akbar*)**. Pertumbuhan adab diibaratkan pemanah yang menarik anak panahnya: untuk meluncurkan panah ke sasaran tertinggi, tali busur harus ditarik mundur ke belakang sejenak. Regresi dan plateau yang dikelola dengan bijaksana bukanlah tanda kegagalan, melainkan masa inkubasi jiwa untuk mengonsolidasikan kekuatan batinnya sebelum melompat ke jenjang kemandirian yang lebih tinggi. Pendidik hadir memegang busur tersebut dengan kesabaran cinta dan ketegasan arah.
+
+---
 
 Ketika seorang santri yang awalnya tertib tiba-tiba mengalami kemunduran perilaku, Core Model TUMBUH menuntun musyrif untuk melacak empat akar penyebab di balik layar:
 
