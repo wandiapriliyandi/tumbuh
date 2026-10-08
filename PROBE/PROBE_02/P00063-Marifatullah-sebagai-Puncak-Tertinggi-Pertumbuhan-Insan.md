@@ -242,7 +242,6 @@ Penyelidikan P00063 ini mengikat:
 
 ## Penutup
 
-Ma'rifatullah adalah cahaya yang menerangi seluruh alam semesta dan jiwa manusia:
 
 > **Ketika seorang santri telah mengenal Rabbnya dengan sebenar-benar pengenalan, asrama bukan lagi penjara yang mengurungnya, melainkan taman surga tempat ia bercengkerama dengan kalam-Nya; tugas bukan lagi beban yang melelahkannya, melainkan ibadah yang membahagiakannya; dan seluruh hidupnya menjelma menjadi persembahan cinta yang abadi bagi Allah Yang Maha Pengasih.**
 
