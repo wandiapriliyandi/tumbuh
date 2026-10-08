@@ -1,12 +1,12 @@
 # P0005 — Prinsip Konteks Sangat Menentukan (Context Matters) vs Godaan Mengkambinghitamkan Moralitas Santri: Bagaimana Mencegah Kekeliruan Atribusi Fundamental dalam Evaluasi Asrama?
 
-## Pertanyaan
+## Pertanyaan Penyelidikan Lapangan
 
 Prinsip Inti 4 TUMBUH menegaskan kaidah ekologis yang sangat mendasar: **Lingkungan dan Konteks Sangat Menentukan (*Context Matters*)**. Perilaku manusia, terutama anak remaja di asrama pesantren 24 jam, tidak pernah lahir di ruang hampa yang steril dan terisolasi dari dunia luar. Setiap tindakan santri—mulai dari kesegaran bangun shubuh, konsentrasi menghafal Al-Qur'an, hingga terjadinya letupan perkelahian di lorong kamar mandi—selalu berakar dan berinteraksi erat dengan desain fisik tata ruang, sirkulasi udara, keteraturan jadwal tidur malam, kepadatan penghuni kamar, ketersediaan air bersih, kebisingan akustik, hingga iklim emosional yang diciptakan oleh para pembina.
 
-Namun di banyak pesantren konvensional, pimpinan dan musyrif kerap terjangkit bias kognitif akut yang dalam ilmu psikologi sosial disebut **Kekeliruan Atribusi Fundamental (Fundamental Attribution Error - FAE)**:
-* Ketika seorang santri atau sekelompok santri melakukan pelanggaran (misalnya: terlambat shalat shubuh, tertidur di kelas madrasah, atau memukul temannya), para pembina secara spontan dan tergesa-gesa menyimpulkan bahwa penyebab tunggalnya adalah **kebobrokan watak moral internal sang santri**: *"Anak ini pemalas!", "Hatinya keras dan durhaka!", "Imannya lemah!", "Dia anak pembangkang!"*
-* Pembina dan manajemen yayasan malas—atau sengaja enggan—memeriksa realitas ekologis di balik insiden tersebut: bahwa pompa air asrama mati sejak pukul 03.00 pagi sehingga 40 santri harus antre berebut satu ember air; bahwa ventilasi kamar tidur yang sempit dan pengap menyebabkan kadar karbon dioksida tinggi sehingga otak santri mengalami hipoksia ringan dan sakit kepala berat; atau bahwa jadwal kegiatan madrasah semalam dipadatkan hingga pukul 23.30 malam sehingga anak hanya memiliki waktu tidur 4 jam.
+Namun di banyak pesantren konvensional, pimpinan dan musyrif kerap terjangkit bias kognitif akut yang dalam ilmu psikologi sosial disebut **Kekeliruan Atribusi Fundamental (*Fundamental Attribution Error - FAE*)**:
+* Ketika seorang santri atau sekelompok santri melakukan pelanggaran (misalnya: terlambat shalat shubuh, tertidur di kelas madrasah, atau memukul temannya), para pembina secara spontan menyimpulkan bahwa penyebab tunggalnya adalah **kebobrokan watak moral internal sang santri**: *"Anak ini pemalas!", "Hatinya keras dan durhaka!", "Imannya lemah!", "Dia anak pembangkang!"*
+* Pembina dan manajemen yayasan enggan memeriksa realitas ekologis di balik insiden tersebut: bahwa pompa air asrama mati sejak pukul 03.00 pagi sehingga 40 santri harus antre berebut satu ember air; bahwa ventilasi kamar tidur pengap menyebabkan kadar karbon dioksida tinggi sehingga otak santri mengalami hipoksia ringan dan sakit kepala berat; atau bahwa jadwal asrama dipadatkan hingga pukul 23.30 malam sehingga anak hanya tidur 4 jam.
 
 ```text
 KEKELIRUAN ATRIBUSI FUNDAMENTAL DI ASRAMA PESANTREN:
@@ -26,12 +26,7 @@ tetapi masalah terulang esok hari    Sistem & fasilitas diperbaiki,
 karena air wudhu tetap mati!        adab santri tertolong secara adil!
 ```
 
-Kecenderungan mengkambinghitamkan moralitas santri (*moral scapegoating*) ini sangat berbahaya karena menjadi tameng bagi manajemen lembaga untuk melarikan diri dari tanggung jawab menyediakan fasilitas hidup yang layak. Membentak santri dan memberinya hukuman jemur matahari adalah tindakan yang murah dan instan; sementara memperbaiki instalasi pipa saluran air, menambah jumlah toilet, dan merombak jadwal tidur malam menuntut anggaran biaya, koordinasi kerja teknis, dan kerendahan hati manajemen untuk mengakui kekeliruan desainnya sendiri.
-
-Pertanyaannya: **bagaimana TUMBUH menegakkan prinsip Konteks Sangat Menentukan (*Context Matters*) agar para pendidik selalu melakukan audit ekologis dan sistemik terlebih dahulu sebelum menjatuhkan penilaian atas moralitas santri, tanpa membuat santri tergelincir ke dalam mentalitas serba beralasan dan menyalahkan keadaan (*victim mentality*)?**
-
 Prinsip dasarnya:
-
 > **Sebelum menuduh hati seorang santri kotor karena enggan berbuat taat, periksalah terlebih dahulu apakah sistem pengasuhan kita telah menyediakan udara bersih untuk paru-parunya, air yang cukup untuk bersucinya, dan waktu istirahat yang manusiawi bagi pertumbuhan raganya.**
 
 ---
@@ -39,91 +34,105 @@ Prinsip dasarnya:
 ## 1. Anatomi Bias Atribusi: Mengapa Menyalahkan Santri Selalu Lebih Menarik?
 
 Kekeliruan Atribusi Fundamental bukanlah kekhilafan acak, melainkan dorongan psikologis bawaan manusia yang malas berpikir (*cognitive miser*):
-
-1. **Efek Keterlihatan Fisik (Salience Effect):**
-   Santri yang terlambat berdiri nyata di depan mata musyrif dengan tubuhnya yang mengantuk; santri tersebut adalah objek yang sangat mudah dilihat (*salient figure*). Sebaliknya, pipa air yang tersumbat di bawah tanah atau kadar oksigen yang menipis di langit-langit kamar tidur adalah faktor latar belakang yang tidak kasat mata (*invisible background*). Otak manusia secara otomatis menyalahkan objek yang paling jelas terlihat di depannya.
-2. **Kenyamanan Moral Pendidik (Ego Protection):**
-   Jika musyrif mengakui bahwa santri terlambat karena jadwal asrama yang dirancang pengurus terlalu larut malam, musyrif dan pimpinan harus mengakui bahwa merekalah yang bersalah. Menyalahkan santri ("kalian yang tidak bisa membagi waktu!") membebaskan pendidik dari rasa bersalah dan memelihara ilusi bahwa sistem asrama mereka sudah sempurna.
-3. **Ekonomi Kekuasaan dalam Relasi Feodal:**
-   Dalam hierarki pesantren yang tidak setara, musyrif memiliki kekuasaan penuh untuk menghukum santri, sedangkan santri tidak memiliki ruang suara untuk membela diri. Ketimpangan relasi ini membuat tuduhan moral selalu mudah diarahkan ke bawah (kepada santri yang lemah) dan tabu diarahkan ke atas (kepada pimpinan dan fasilitas yayasan).
+1. **Efek Keterlihatan Fisik (*Salience Effect*):** Santri yang terlambat berdiri nyata di depan mata musyrif dengan tubuh mengantuknya; santri adalah objek yang sangat mudah dilihat (*salient figure*). Sebaliknya, pipa air yang tersumbat di bawah tanah atau kadar oksigen yang menipis adalah faktor latar belakang yang tak kasat mata (*invisible background*). Otak manusia secara otomatis menyalahkan objek yang paling jelas terlihat di depannya.
+2. **Kenyamanan Moral Pendidik (*Ego Protection*):** Jika musyrif mengakui bahwa santri terlambat karena jadwal asrama yang terlalu larut malam, pengurus harus mengakui kekeliruan mereka sendiri. Menyalahkan santri membebaskan pendidik dari rasa bersalah.
+3. **Ekonomi Kekuasaan dalam Relasi Feodal:** Dalam hierarki asrama yang tidak setara, musyrif memiliki kuasa menghukum santri, sedangkan santri tidak memiliki ruang membela diri. Tuduhan moral selalu mudah diarahkan ke bawah (kepada santri yang lemah) dan tabu diarahkan ke atas (kepada pimpinan dan fasilitas).
 
 ---
 
 ## 2. Realitas Fisik dan Lingkungan Asrama: Sains Ruang Hidup 24 Jam
 
-Pesantren adalah ekosistem fisik berdensitas tinggi. Temuan psikologi lingkungan (*environmental psychology*) membuktikan betapa dahsyatnya pengaruh faktor fisik terhadap psikologis manusia:
+Pesantren adalah ekosistem fisik berdensitas tinggi. Temuan psikologi lingkungan membuktikan betapa dahsyatnya pengaruh faktor fisik terhadap psikologis manusia:
 
-```text
-FAKTOR LINGKUNGAN ASRAMA DAN DAMPAKNYA PADA PERILAKU SANTRI:
-
-=============================================================================
-FAKTOR LINGKUNGAN FISIK          MEKANISME BIOLOGIS        DAMPAK PERILAKU SANTRI
-=============================================================================
-Kepadatan Ruang (Overcrowding)   Kortisol melonjak tinggi;   Mudah tersinggung, meledak
-> 30 santri dalam 1 kamar kecil  ruang personal terlanggar   marah, tawuran antarkamar.
------------------------------------------------------------------------------
-Ventilasi Buruk & Suhu Panas     Kadar CO2 > 1.500 ppm;      Mengantuk di kelas, sakit
-Udara pengap & lembab            hipoksia otak ringan        kepala, motivasi anjlok.
------------------------------------------------------------------------------
-Sanitasi Tidak Memadai           Stres antrean kamar mandi;  Terlambat shalat berjamaah,
-Rasio 1 toilet : 25 santri       menahan buang air kecil     sembelit, trauma toilet.
------------------------------------------------------------------------------
-Kebisingan Akustik Larut Malam   Gelombang tidur Delta       Lemas di pagi hari, emosi
-Suara genset, jalan, atau kamar  rusak; pemulihan otak gagal labil, daya ingat hafalan rapuh.
-=============================================================================
-```
-
-Jika seorang santri hidup di kamar yang panas, pengap, berisik, dan harus berebut toilet setiap subuh, menuntutnya untuk tampil khusyuk dan berseri-seri menyambut pelajaran tafsir di pagi hari adalah tuntutan yang bertentangan dengan hukum biologi manusia.
+| Faktor Lingkungan Fisik | Mekanisme Neurobiologis | Dampak Perilaku Santri Lapangan |
+| :--- | :--- | :--- |
+| **Kepadatan Ruang (>25 anak/kamar)** | Kortisol melonjak; ruang personal terlanggar | Mudah tersinggung, perkelahian lorong, agresi verbal |
+| **Ventilasi Buruk (CO2 > 1.500 ppm)** | Hipoksia serebral ringan, kelelahan kognitif | Tertidur di shaf shalat, sakit kepala, motivasi drop |
+| **Sanitasi Rendah (1 toilet : 25 anak)** | Stres antrean, menahan buang air kecil | Terlambat shalat berjamaah, sembelit, trauma toilet |
+| **Kebisingan Akustik Larut Malam** | Gelombang tidur Delta rusak; restorasi gagal | Lemas pagi hari, emosi labil, memori hafalan rapuh |
 
 ---
 
-## 3. Landasan Turats: Fiqh *Al-A'dzar* dan Keteladanan Khalifah Umar bin Khattab
+## 3. Analisis Sains Kontemporer: FAE, Broken Windows, dan Epigenetika Lingkungan
 
-Tradisi keilmuan Islam sangat menjunjung tinggi prinsip keadilan kontekstual. Para fuqaha merumuskan bab khusus mengenai **Fiqh al-A'dzar (Fiqh tentang Uzur-uzur yang Menggugurkan Kewajiban atau Sanksi)**:
-* Shalat berjamaah yang hukum asalnya sangat ditekankan, gugur kewajiban menghadirinya di masjid ketika terjadi hujan lebat yang membahayakan, jalanan berlumpur parah, cuaca dingin ekstrem, atau rasa lapar yang sangat mendesak saat makanan telah dihidangkan.
+Sains kognitif sosial dan neurobiologi lingkungan membuktikan mengapa memvonis santri secara moral tanpa melihat konteks adalah kekeliruan fatal:
+1. **Fundamental Attribution Error (Lee Ross, Stanford University):** Kecenderungan kognitif manusia untuk melebih-lebihkan watak moral internal seseorang dan meremehkan faktor situasi eksternal saat menilai perilaku buruk orang lain.
+2. **Broken Windows Theory (Wilson & Kelling):** Satu fasilitas rusak yang dibiarkan mengirimkan sinyal bawah sadar bahwa *"di sini tidak ada yang peduli"*, memicu percepatan pelanggaran adab lainnya. Sebaliknya, lingkungan yang bersih dan terang (*environmental priming*) menstimulasi keteraturan santri secara otomatis.
+3. **Epigenetika Stres Lingkungan (Michael Meaney):** Kepadatan dan kebisingan kronis mengubah ekspresi reseptor glukokortikoid di otak anak, menurunkan kemampuan *hippocampus* mengelola stres. Santri di ruangan pengap secara biologis lebih rentan tersulut emosi amarah.
 
-Kisah paling monumental mengenai keadilan kontekstual dalam sejarah peradaban Islam adalah kebijakan Khalifah Umar bin Khattab radhiyallahu 'anhu pada **Tahun Paceklik dan Kelaparan Hebat ('Am ar-Ramadah)**:
-* Umar menangguhkan penegakan hukuman potong tangan bagi pencuri pada tahun tersebut.
-* Ketika ada budak-budak Hatib bin Abi Balta'ah mencuri unta milik seorang pria dari kabilah Muzaynah dan menyembelihnya untuk dimakan, Umar tidak memotong tangan budak-budak tersebut.
-* Mengapa? Umar melakukan audit kontekstual! Beliau memanggil majikan mereka, Hatib, dan berkata tegas:
+---
+
+## 4. Dialektika Penyelidikan & Debat Kritis: Personalisasi Moral vs Determinis Lingkungan
+
+TUMBUH menguji benturan dua kutub pandangan ekstrem:
+
+### Tesis: Personalisasi Moral Ekstrem
+* **Argumen:** *"Orang saleh sejati akan tetap saleh di mana pun berada, bahkan di penjara sempit! Jika santri mengeluh kamar panas atau antrean mandi, itu tanda santri manja yang tidak punya keikhlasan. Santri yang melanggar harus dihukum moralnya!"*
+* **Kritik TUMBUH:** Menuntut akhlak malaikat dari anak usia 13 tahun yang dimasukkan ke kamar berbau apek dengan rasio 1 toilet untuk 30 anak adalah kezaliman bi'ah yang nyata.
+
+### Antitesis: Determinis Lingkungan Ekstrem
+* **Argumen:** *"Manusia sepenuhnya adalah produk lingkungannya. Santri tidak pernah bersalah atas apa pun; yang salah 100% adalah yayasan. Kita tidak boleh menuntut tanggung jawab santri sebelum pondok menyediakan fasilitas bintang lima!"*
+* **Kritik TUMBUH:** Menghilangkan tanggung jawab moral pribadi santri dan menciptakan mentalitas serba beralasan (*victim mentality*).
+
+### Sintesis Arsitektural TUMBUH
+**Kaidah Tanggung Jawab Moral Berkeadilan Ekologis (*Al-Mas'uliyyah al-Adilah fi Ithari al-Bi'ah*)**. Yayasan dan pembina wajib memikul tanggung jawab pertama: menyediakan lingkungan fisik yang manusiawi, tata kelola yang teratur, dan rasio yang adil. Di dalam ekosistem yang sehat itulah, santri dibimbing untuk memikul tanggung jawab moral pribadi secara bertahap dan bermartabat.
+
+---
+
+## 5. Taksonomi & Matriks Operasional: Investigasi Insiden Tiga Lapis
+
+Ketika terjadi disrupsi adab atau pelanggaran santri, musyrif wajib menginvestigasi menggunakan matriks filter tiga lapis:
+
+| Lapis Investigasi | Pertanyaan Kunci Investigasi | Contoh Fakta Lapangan | Tindakan Perbaikan Sistemik |
+| :--- | :--- | :--- | :--- |
+| **Lapis 1: Filter Konteks Lingkungan** | Apakah ada kegagalan sarana fisik, jadwal bertabrakan, atau kelelahan fisiologis? | Antrean mandi 1 toilet untuk 25 anak; suhu kamar 34°C pengap; lampu mati. | **Perbaiki fasilitas fisik & kurangi beban jadwal**. Bebaskan santri dari sanksi moral. |
+| **Lapis 2: Filter Kapasitas & Keterampilan** | Apakah santri belum memahami cara mengelola waktu atau belum dilatih kebiasaan tersebut? | Santri baru J1 belum terbiasa mencuci pakaian sendiri; belum tahu letak jemuran. | **Lakukan Scaffolding Pembelajaran**: musyrif atau santri J3 membimbing tekniknya. |
+| **Lapis 3: Filter Pilihan Moral Sadar** | Apakah lingkungan sudah kondusif, keterampilan sudah dikuasai, namun santri sengaja melanggar? | Santri dengan sengaja mencuri uang kawan sekamar atau merusak lemari teman karena dendam. | **Tegakkan Protokol Keadilan Restoratif**: ganti rugi materiil 100% dan restitusi adab. |
+
+---
+
+## 6. Landasan Turats: Fiqh *Al-A'dzar* dan Keteladanan Khalifah Umar bin Khattab
+
+Tradisi keilmuan Islam sangat menjunjung tinggi prinsip keadilan kontekstual. Para fuqaha merumuskan **Fiqh al-A'dzar** (Fiqh tentang uzur yang menggugurkan kewajiban atau sanksi):
+* Shalat berjamaah di masjid gugur kewajibannya saat terjadi hujan lebat, cuaca dingin ekstrem, atau rasa lapar mendesak saat makanan telah dihidangkan.
+
+Kisah paling monumental adalah kebijakan Khalifah Umar bin Khattab ra. pada **Tahun Paceklik ('Am ar-Ramadah)**:
+* Umar menangguhkan hukuman potong tangan bagi pencuri.
+* Ketika budak-budak Hatib bin Abi Balta'ah mencuri unta untuk dimakan, Umar tidak memotong tangan mereka. Umar memanggil majikannya dan berkata:
   > *"Demi Allah, aku mengetahui bahwa kalian mempekerjakan mereka dan membuat mereka kelaparan, sampai-sampai sekiranya mereka memakan apa yang diharamkan Allah, itu halal bagi mereka!"*
-* Umar membebaskan para budak dari hukuman, dan justru menjatuhkan denda ganti rugi dua kali lipat harga unta kepada sang majikan karena menelantarkan hak makan para pekerjanya!
-
-Inilah puncak kecerdasan hukum Islam: **Umar menolak mengkambinghitamkan moralitas pencuri yang kelaparan, melainkan mengarahkan keadilan hukum kepada pihak yang menciptakan kondisi kelaparan tersebut**.
+* Umar membebaskan para budak dari hukuman, dan justru menjatuhkan denda ganti rugi kepada majikannya karena menelantarkan hak makan para pekerjanya. Umar menolak mengkambinghitamkan moralitas pencuri yang kelaparan!
 
 ---
 
-## 4. Studi Kasus Komparatif A: Pesantren "Al-Hakim" (Kezaliman Menghakimi Korban Hipoksia)
+## 7. Studi Kasus Komparatif A: Pesantren "Al-Hakim" (Kezaliman Menghakimi Korban Hipoksia)
 
-### Profil dan Insiden
-Di Pesantren Al-Hakim, 28 santri kelas 1 SMP ditempatkan di kamar asrama berukuran 4 x 6 meter dengan jendela kecil yang selalu terkunci rapat karena alasan keamanan. Di lantai kamar dihamparkan karpet tebal yang berdebu.
+### Kasus
+28 santri kelas 1 SMP ditempatkan di kamar berukuran 4 x 6 meter dengan jendela kecil yang selalu terkunci rapat. Karpet kamar tebal dan berdebu.
 
 ### Fakta yang Terjadi
-* Setiap halaqah subuh pukul 05.00, hampir separuh santri di kamar tersebut tertidur pulas dalam posisi duduk bersila. Kepala mereka terkulai dan dengkuran terdengar bersahut-sahutan.
-* Respons Musyrif Keamanan:
-  Musyrif membawa ember berisi air es dan memercikkannya ke wajah santri-santri yang mengantuk, lalu menyuruh mereka berdiri bersedekap di halaman masjid selama 2 jam sambil membaca istighfar. Musyrif berceramah keras: *"Kalian ini generasi cengeng berhati busuk! Duduk mendengarkan kalam ulama saja mengantuk! Hati kalian dipenuhi karat kemaksiatan!"*
-* Investigasi Medis Eksternal:
-  Dua bulan kemudian, seorang dokter wali santri memeriksa kondisi kamar. Hasil pengukuran udara menunjukkan kadar CO2 di dalam kamar pada pukul 04.00 pagi mencapai **2.800 ppm** (ambang batas aman maksimal adalah 1.000 ppm). Anak-anak tersebut tertidur bukan karena "hati berkarat maksiat", melainkan karena **otak mereka keracunan karbon dioksida dan kekurangan oksigen parah (mild cerebral hypoxia)**!
-* **Diagnosis TUMBUH:** Penganiayaan fisik dan penghinaan moral terhadap anak-anak yang sesungguhnya merupakan korban dari kegagalan fasilitas sirkulasi udara pondok.
+* Setiap halaqah subuh, separuh santri di kamar tersebut tertidur pulas dalam posisi duduk bersila.
+* Musyrif menyiram wajah mereka dengan air es dan menjemur mereka di bawah matahari 2 jam sambil berteriak: *"Kalian generasi pemalas berhati busuk!"*
+* Hasil audit medis independen membuktikan: kadar CO2 di dalam kamar mencapai **2.800 ppm** (batas aman 1.000 ppm). Anak-anak tersebut tertidur bukan karena "hati berkarat maksiat", melainkan karena **otak mereka keracunan karbon dioksida dan kekurangan oksigen (*mild cerebral hypoxia*)**!
+* **Diagnosis TUMBUH:** Penganiayaan fisik dan penghinaan moral terhadap anak-anak yang sesungguhnya korban dari kegagalan fasilitas ventilasi pondok.
 
 ---
 
-## 5. Studi Kasus Komparatif B: Pesantren "Serba Manja" (Jebakan Mentalitas Korban)
+## 8. Studi Kasus Komparatif B: Pesantren "Serba Manja" (Jebakan Mentalitas Korban)
 
-### Profil dan Insiden
+### Kasus
 Pesantren B berusaha ramah lingkungan, namun salah mengartikan prinsip konteks menjadi sikap serba memaklumi yang berlebihan.
 
 ### Fakta yang Terjadi
-* Setiap kali santri melanggar tata tertib, mereka diajarkan untuk mencari kambing hitam di luar dirinya: *"Saya terlambat shalat karena sandal saya basah", "Saya memukul teman karena cuaca panas membuat saya stres", "Saya tidak hafal ayat karena lampu asrama temaram".*
-* Musyrif membenarkan seluruh alasan tersebut tanpa pernah menantang santri untuk berikhtiar mengatasi hambatan.
-* Akibatnya: santri tumbuh menjadi generasi yang rapuh (*fragile*), manja, tidak memiliki daya juang, dan selalu merasa dirinya adalah korban dari lingkungan sekitar (*victim mentality*).
-* **Diagnosis TUMBUH:** Pembiasaan kelemahan jiwa yang merusak otonomi moral dan menghilangkan tanggung jawab pribadi santri.
+* Setiap kali santri melanggar, santri diajarkan mencari kambing hitam: *"Saya terlambat karena sandal basah", "Saya memukul teman karena cuaca panas membuat saya stres".*
+* Musyrif membenarkan seluruh alasan tersebut tanpa menantang santri berikhtiar mengatasi hambatan.
+* Santri tumbuh menjadi generasi rapuh (*fragile*), manja, dan selalu merasa dirinya adalah korban dari lingkungan sekitar (*victim mentality*).
+* **Diagnosis TUMBUH:** Pembiasaan kelemahan jiwa yang merusak otonomi moral dan tanggung jawab pribadi santri.
 
 ---
 
-## 6. Studi Kasus Komparatif C: Ekosistem TUMBUH (Audit Ekologis Mendahului Investigasi Moral)
+## 9. Studi Kasus Komparatif C: Ekosistem TUMBUH (Audit Ekologis Mendahului Investigasi Moral)
 
-Pesantren TUMBUH menegakkan keadilan dengan memadukan **Audit Ekologis Sistemik** dengan **Pembentukan Resiliensi Pribadi (Contextual Agency)**:
+Pesantren TUMBUH memadukan **Audit Ekologis Sistemik** dengan **Pembentukan Resiliensi Pribadi (*Contextual Agency*)**:
 
 ```text
 PROTOKOL AUDIT DUA TINGKAT SEBELUM PENILAIAN PERILAKU:
@@ -141,66 +150,96 @@ KESALAHAN MANAJEMEN ASRAMA:         INVESTIGASI ADAB PERSONAL:
 - Manajemen wajib memperbaiki pipa/ - Telusuri motivasi batin (*niyyah*).
   sirkulasi dalam waktu 24 jam.     - Terapkan konsekuensi logis 3R.
 - Pengurus meminta maaf pada santri - Latih pemecahan masalah mandiri.
-  karena fasilitas belum optimal.
 ```
 
-### Dinamika Nyata di Asrama TUMBUH
-Ketika santri di Kamar 3 terlambat shalat shubuh berjamaah:
-1. Musyrif tidak langsung berteriak membentak. Musyrif pertama kali melangkah ke kamar mandi: *"Apakah air mengalir lancar tadi pagi?"*
-2. Santri menjawab: *"Air mengalir lancar ustadz, tapi kami semalam mengobrol bercanda sampai jam 00.30."*
-3. Lingkungan terbukti layak; penyebabnya adalah pelanggaran jam malam sukarela oleh santri.
-4. Musyrif kemudian menindaklanjuti secara restoratif: mengajak santri berdialog mengenai bahaya begadang bagi kesehatan otak, dan santri menyepakati konsekuensi logis: mengumpulkan lampu baca pribadi pada pukul 22.00 selama sepekan ke depan agar tidak tergoda begadang kembali.
-5. Keadilan ditegakkan secara jernih: santri mengakui kesalahannya tanpa merasa dizalimi, karena mereka tahu musyrif selalu memeriksa kebenaran fasilitas terlebih dahulu.
+Keadilan ditegakkan secara jernih: santri mengakui kesalahannya tanpa merasa dizalimi, karena mereka tahu musyrif selalu memeriksa kebenaran fasilitas terlebih dahulu.
 
 ---
 
-## 7. Rekayasa Lingkungan yang Memudahkan Ketaatan (*Choice Architecture*)
+## 10. Rekayasa Lingkungan yang Memudahkan Ketaatan (*Choice Architecture*)
 
-TUMBUH mengadopsi konsep **Arsitektur Pilihan (Choice Architecture)**: merancang lingkungan fisik sedemikian rupa sehingga berbuat taat menjadi hal yang paling mudah dan nyaman dilakukan, sementara berbuat maksiat menjadi hal yang paling sulit dan canggung dilakukan.
-
-Aplikasi nyata di asrama:
-- **Tempat Wudhu Terbuka dan Bersih:** Tempat wudhu dirancang memiliki lantai berundak anti-licin, pencahayaan terang benderang, kran air bertekanan stabil setinggi siku, dan cermin rapi. Santri merasa segar dan nyaman saat membasuh wajahnya di waktu dini hari.
-- **Pemisahan Ruang Tidur dari Ruang Belajar:** Kamar tidur hanya difungsikan untuk tidur dan istirahat hening (lampu redup, tanpa meja belajar); ruang belajar diletakkan di aula terpisah yang terang. Pengkondisian ini melatih refleks otak santri: begitu masuk kamar tidur, otak otomatis memproduksi hormon melatonin untuk tidur nyenyak.
-- **Rak Sandal Terbuka di Pintu Masjid:** Rak sandal dirancang bernomor dan mudah dijangkau, mengeliminasi insiden sandal tertukar yang kerap memicu pertengkaran antar-santri saat keluar masjid.
+TUMBUH merancang lingkungan fisik sedemikian rupa sehingga berbuat taat menjadi hal yang paling mudah dan nyaman dilakukan:
+* **Tempat Wudhu Terbuka dan Bersih:** Lantai berundak anti-licin, pencahayaan terang, kran air bertekanan stabil setinggi siku membuat santri merasa segar saat membasuh wajah di waktu fajar.
+* **Pemisahan Ruang Tidur dari Ruang Belajar:** Kamar tidur hanya difungsikan untuk istirahat hening (lampu redup, tanpa meja belajar), melatih refleks produksi melatonin otak santri untuk tidur nyenyak.
+* **Rak Sandal Bernomor di Pintu Masjid:** Mengeliminasi insiden sandal tertukar yang kerap memicu perkelahian antarsantri.
 
 ---
 
-## 8. Membangun Resiliensi Kontekstual (*Contextual Agency*) pada Diri Santri
+## 11. Membangun Resiliensi Kontekstual (*Contextual Agency*) pada Diri Santri
 
-Menghargai konteks bukan berarti menyerah pada keadaan buruk. TUMBUH melatih santri memiliki **Daya Juang Menghadapi Keterbatasan (Spiritual & Environmental Resilience)**:
+Menghargai konteks bukan berarti menyerah pada keadaan buruk:
+1. **Validasi Realitas (Empati Objektif):** *"Memang benar air hari ini sedang mati karena pipa utama desa pecah. Musyrif memahami situasi tidak nyaman ini."*
+2. **Dorongan Tanggung Jawab Mandiri (Agency Activation):** *"Namun waktu shalat shubuh tidak bisa ditunda. Bagaimana kita menyelesaikan masalah ini bersama-sama? Mari kita timba air di sumur barat dan membaginya secara adil."*
 
-Pendidik mengajarkan dua kaidah hidup:
-1. **Validasi Realitas (Empati Objektif):** *"Memang benar air hari ini sedang mati karena pipa utama desa pecah. Musyrif memahami bahwa ini situasi yang tidak nyaman bagi kalian."*
-2. **Dorongan Tanggung Jawab Mandiri (Agency Activation):** *"Namun waktu shalat shubuh tidak bisa ditunda. Bagaimana kita sebagai pemuda mukmin menyelesaikan masalah ini bersama-sama? Siapa yang mau ikut musyrif menimba air di sumur barat, dan bagaimana kita membagi air ini secara adil untuk wudhu seluruh kamar?"*
-
-Santri belajar bahwa ketika lingkungan sedang diuji dengan keterbatasan, seorang muslim tidak merengek menyalahkan keadaan, melainkan bangkit mencari solusi (*ikhtiar*) dengan penuh kesabaran dan persaudaraan.
+Santri belajar bahwa saat lingkungan terbatas, seorang mukmin tidak merengek menyalahkan keadaan, melainkan bangkit mencari solusi (*ikhtiar*) dengan persaudaraan.
 
 ---
 
-## 9. Kriteria Beban Tanggung Jawab: Kapan Pimpinan yang Wajib Ditegur?
+## 12. Kriteria Akuntabilitas Terbalik: Kapan Pimpinan yang Wajib Ditegur?
 
 TUMBUH menetapkan pedoman akuntabilitas terbalik (*upward accountability*):
 
 | Kasus Perilaku Santri | Akar Masalah Ekologis | Pihak yang Wajib Bertanggung Jawab |
-|---|---|---|
-| 15 santri diare massal dalam satu pekan. | Sanitasi dapur asrama buruk; air minum tidak dimasak mendidih. | **Manajemen Dapur & Direktur Operasional.** Santri dirawat gratis tanpa sanksi apa pun. |
-| Santri terlambat shalat shubuh berjamaah. | Pompa air asrama mati selama lebih dari 4 jam tanpa pasokan darurat. | **Kepala Sarana Prasarana Asrama.** Teguran resmi yayasan dijatuhkan ke pengurus. |
-| Santri berkelahi di lorong asrama pada malam hari. | Lampu lorong mati selama 2 pekan tanpa diganti, menciptakan titik gelap rawan (*hotspot*). | **Musyrif Jaga Malam & Teknisi Listrik.** |
-| Santri mengantuk di kelas jam pertama madrasah. | Jadwal kegiatan asrama semalam dipadatkan pimpinan hingga jam 23.30. | **Pimpinan Yayasan & Perumus Kurikulum.** |
-
-Menegakkan akuntabilitas pimpinan ini adalah bukti bahwa pesantren dikelola dengan prinsip keadilan Islam yang hakiki, bukan tirani kekuasaan.
+| :--- | :--- | :--- |
+| 15 santri diare massal dalam satu pekan | Sanitasi dapur asrama buruk; air minum tidak matang | **Manajemen Dapur & Direktur Operasional** |
+| Santri terlambat shalat shubuh berjamaah | Pompa air asrama mati > 4 jam tanpa pasokan darurat | **Kepala Sarana Prasarana Asrama** |
+| Santri berkelahi di lorong gelap malam hari | Lampu lorong mati 2 pekan tanpa diganti teknisi | **Musyrif Jaga Malam & Teknisi Listrik** |
+| Santri mengantuk di kelas jam pertama madrasah | Jadwal kegiatan dipadatkan pimpinan hingga jam 23.30 | **Pimpinan Yayasan & Perumus Kurikulum** |
 
 ---
 
-## 10. Parameter Batas Pengaman (*Negative Guardrails*)
+## 13. Audit Ergonomi Tidur Santri: Menjaga Hak Fisik Raga
 
-1. **Dilarang Menghukum Sebelum Memeriksa Fasilitas Fisik:** Dilarang menjatuhkan sanksi disiplin apa pun atas keterlambatan santri sebelum musyrif memastikan kelayakan fasilitas air, listrik, dan waktu tidur.
-2. **Dilarang Melakukan Vonis Watak Moral Permanen:** Dilarang memberi label watak ("dasar anak malas", "anak durhaka") atas perilaku santri yang dipicu oleh kejenuhan fisik atau kegagalan lingkungan.
-3. **Wajib Transparansi Anggaran Fasilitas:** Pihak yayasan diharamkan memprioritaskan pembangunan gedung kantor megah jika fasilitas sanitasi dan tempat wudhu santri masih rusak dan tidak mencukupi.
+TUMBUH memberlakukan standar baku istirahat santri:
+* Minimal durasi tidur malam santri adalah 6,5 hingga 7 jam tanpa interupsi bel malam yang tidak perlu.
+* Santri tidak boleh dibebani tugas hafalan tambahan yang merampas jam tidur biologis yang dibutuhkan otak remaja untuk pemulihan sinapsis.
 
 ---
 
-## 11. Sintesis Arsitektural untuk Prinsip 4 TUMBUH
+## 14. Menghapus Budaya Pengkambinghitaman dalam Evaluasi Mingguan Asrama
+
+Dalam rapat evaluasi mingguan pengasuhan:
+* Musyrif dilarang membuka rapat dengan keluhan daftar anak nakal.
+* Rapat wajib diawali dengan **Audit Kesiapan Sarana Bi'ah**: *"Apakah seluruh keran air berfungsi? Apakah ada kamar yang ventilasinya rusak? Apakah menu sarapan pagi memenuhi kalori nutrisi anak?"*
+
+---
+
+## 15. Formulasi Indeks Kelayakan Ekologis Asrama (IKEA)
+
+Secara analitik, TUMBUH menghitung Indeks Kelayakan Ekologis Asrama:
+
+$$\text{IKEA} = \frac{\text{Skor Kelancaran Air} + \text{Skor Kualitas Udara CO2} + \text{Skor Kepatuhan Jam Tidur}}{3}$$
+
+* Kamar asrama dengan skor $\text{IKEA} < 0.7$ dibebaskan dari penjatuhan sanksi keterlambatan kolektif, dan yayasan wajib mencairkan dana perbaikan darurat dalam tempo 48 jam.
+
+---
+
+## 16. Parameter Batas Pengaman Arsitektural (*Negative Guardrails*)
+
+TUMBUH menetapkan larangan keras dalam evaluasi santri:
+1. **Dilarang Menghukum Sebelum Memeriksa Fasilitas Fisik:** Dilarang menjatuhkan sanksi apa pun sebelum musyrif memastikan kelayakan fasilitas air, listrik, dan durasi tidur.
+2. **Dilarang Labeling Watak Moral Permanen:** Dilarang memberi label watak ("dasar pemalas", "anak durhaka") atas perilaku yang dipicu oleh kelelahan fisik atau kegagalan lingkungan.
+3. **Wajib Transparansi Anggaran Sanitasi:** Yayasan diharamkan membangun kantor megah jika fasilitas sanitasi santri masih rusak dan tidak mencukupi.
+
+---
+
+## 17. Desain SOP Audit Sarana Sebelum Adzan
+
+Musyrif asrama wajib menjalankan SOP 30 menit sebelum adzan:
+* Memeriksa bak penampungan air wudhu.
+* Menyalakan saklar pompa cadangan jika debit air melemah.
+* Memastikan seluruh lampu koridor masjid menyala terang.
+
+---
+
+## 18. Edukasi Wali Santri Mengenai Keseimbangan Ekologi dan Tanggung Jawab
+
+Wali santri diberikan pemahaman bahwa pembinaan adab santri berjalan seiring dengan perbaikan ekosistem hidup:
+* Pesantren transparan mengenai kendala fasilitas fisik dan mengajak orang tua bergotong royong (*ta'awun*), bukan saling melempar tuduhan saat terjadi kendala operasional.
+
+---
+
+## 19. Sintesis Arsitektural untuk Prinsip 4 TUMBUH
 
 Dari seluruh telaah dialektis ini, krisis antara prinsip konteks dan godaan menyalahkan moralitas santri diselesaikan dengan kaidah arsitektural:
 
@@ -217,9 +256,15 @@ lalu membimbing jiwa santri untuk memiliki ketangguhan adab menghadapi ujian keh
 
 ---
 
-## 12. Pertanyaan Lanjutan Menuju Berkas Penyelidikan Berikutnya
+## 20. Drift Check dan Emergent Inquiry ke Berkas Berikutnya (P0006)
 
-Memahami konteks lingkungan yang sehat menuntut hadirnya sosok pendidik yang mampu membangun ikatan hati yang hangat dengan santri. Namun relasi hati ini memiliki kerentanan batas tersendiri: bahaya favoritisme dan hilangnya wibawa otoritas.
+### A. Evaluasi Drift Check
+- *Object of Inquiry*: Pencegahan Kekeliruan Atribusi Fundamental dalam evaluasi perilaku santri.
+- *Relevansi Sistem*: Memastikan keadilan ekologis, melindungi hak fisik santri, dan menuntut akuntabilitas manajemen sarana.
+- *Hasil Konkret*: Matriks Investigasi Tiga Lapis, Protokol Audit Dua Tingkat, dan kriteria akuntabilitas terbalik pimpinan.
 
-Hal ini membawa kita pada penyelidikan mendalam di berkas berikutnya:
+### B. Pertanyaan Lanjutan yang Muncul (Emergent Inquiry)
+Memahami konteks lingkungan yang sehat menuntut hadirnya sosok pendidik yang mampu membangun ikatan hati yang hangat dengan santri. Namun relasi hati yang akrab ini membawa kerentanan batas tersendiri: bahaya favoritisme, kedekatan emosional tidak sehat (*unhealthy attachment*), dan hilangnya wibawa otoritas pembina.
+
+Penyelidikan berlanjut di klaster Prinsip Inti ke:
 > **P0006 — Hubungan Kasih Sayang (*Relationship*) vs Kerentanan Batas Otoritas dan Favoritisme: Di Mana Pagar Keberjarakan yang Sehat antara Musyrif dan Santri di Asrama?**
