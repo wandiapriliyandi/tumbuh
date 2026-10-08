@@ -648,7 +648,7 @@ Mulai pengembangan berikutnya:
 
 ---
 
-## 27. Standar Mutu Sejati Berkas P: Bertanya, Menganalisa, Membuktikan (15–20 Bab)
+## 27. Standar Mutu Sejati Berkas P: Bertanya, Menganalisa, Membuktikan (Minimal 15 hingga 20+ Bab)
 
 Sebagaimana dicontohkan dalam berkas-berkas kanonik TUMBUH (seperti `P0231`), **PROBE bukanlah lembar kesimpulan singkat dan bukan pula pedoman kaku**. PROBE adalah proses intelektual yang utuh:
 
@@ -656,7 +656,7 @@ Sebagaimana dicontohkan dalam berkas-berkas kanonik TUMBUH (seperti `P0231`), **
        [ 1. BERTANYA ]                       [ 2. MENGANALISA ]                     [ 3. MEMBUKTIKAN ]
 Dilema Lapangan Asrama 24 Jam       ──►  Bedah Anatomi Ketegangan      ──►  Uji Turats, Sains & Realita
 Teka-teki Nyata Santri & Musyrif         Bongkar Jebakan Ilusi Umum         Studi Kasus Multi-Asrama
-Diagram ASCII Alur Dilema                Dialektika Argumen Bertingkat       Rumuskan Solusi Arsitektural (15–20 Bab)
+Diagram ASCII Alur Dilema                Dialektika Argumen Bertingkat       Solusi Arsitektural (15–20+ Bab)
 ```
 
 ### 27.1. Tiga Pilar Kerja Penyelidikan PROBE
@@ -671,7 +671,7 @@ Diagram ASCII Alur Dilema                Dialektika Argumen Bertingkat       Rum
 3. **MEMBUKTIKAN & MERUMUSKAN (Evidential Grounding & Architecture)**:
    - Menautkan argumentasi ke dalam dalil teks turats berharakat/beristilah syar'i (*Ihya, I'lam al-Muwaqqi'in, Al-Muwafaqat*) dan temuan neurosains/sosiologi.
    - Membuktikan efektivitas model melalui komparasi empiris tiga asrama (Kasus A, B, C).
-   - Menghasilkan 15 hingga 20 bab terstruktur yang mengalir tuntas hingga batas-batas negatif (*negative guardrails*) dan implikasi repositori.
+   - Menghasilkan **minimal 15 hingga 20 bab, dan dapat diperluas melampaui 20 bab (21 hingga 25+ bab)** secara terstruktur yang mengalir tuntas hingga batas-batas negatif (*negative guardrails*) dan implikasi repositori.
 
 ### 27.2. Tiga Komponen Intelektual Wajib dalam Setiap Berkas P
 
@@ -697,7 +697,7 @@ Berkas P dilarang keras menyajikan gagasan sebagai kebenaran sepihak yang dogmat
 - **Pembongkaran Asumsi Terselubung**: Mengkritik bias-bias budaya (seperti *survivorship bias* musyrif sepuh atau ilusi teknologi konsultan modern).
 
 ### 27.3. Indikator Kelayakan Berkas P
-- **Kerapatan Bab**: Mengembangkan penyelidikan secara organik dalam **15 hingga 20 bab bernomor** yang saling terhubung logis.
+- **Kerapatan Bab**: Mengembangkan penyelidikan secara organik dalam **minimal 15 hingga 20 bab bernomor, dan fleksibel diperluas lebih dari 20 bab (21–25+ bab)** sesuai kebutuhan kedalaman materi tanpa batasan kaku di angka 20.
 - **Volume & Kedalaman**: Minimal 350 hingga 500+ baris markdown tanpa filler kosong, di mana setiap kalimat membawa bobot pemikiran dan solusi konkret.
 - **Visualisasi ASCII & Tabel**: Memuat diagram alur berpikir ASCII/Mermaid dan minimal 1–2 tabel matriks operasional komparatif.
 
@@ -716,9 +716,9 @@ Ia menggabungkan:
 * sumber dan traceability;
 * workflow kerja;
 * guardrail untuk mencegah inquiry drift;
-* **serta paradigma Bertanya-Menganalisa-Membuktikan dalam 15–20 bab naratif mendalam.**
+* **serta paradigma Bertanya-Menganalisa-Membuktikan dalam 15 hingga 20+ bab naratif mendalam.**
 
 **Prinsip akhirnya:**
 
-> **PROBE boleh pergi sedalam yang diperlukan, tetapi tidak boleh kehilangan alasan mengapa penyelidikan itu diperlukan oleh Sistem TUMBUH, dan tidak boleh dipangkas menjadi sekadar kesimpulan dangkal.**
+> **PROBE boleh pergi sedalam yang diperlukan (bahkan melampaui 20 bab), tetapi tidak boleh kehilangan alasan mengapa penyelidikan itu diperlukan oleh Sistem TUMBUH, dan tidak boleh dipangkas menjadi sekadar kesimpulan dangkal.**
 
