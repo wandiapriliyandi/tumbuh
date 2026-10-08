@@ -648,7 +648,62 @@ Mulai pengembangan berikutnya:
 
 ---
 
-## 27. Status Dokumen
+## 27. Standar Mutu Sejati Berkas P: Bertanya, Menganalisa, Membuktikan (15–20 Bab)
+
+Sebagaimana dicontohkan dalam berkas-berkas kanonik TUMBUH (seperti `P0231`), **PROBE bukanlah lembar kesimpulan singkat dan bukan pula pedoman kaku**. PROBE adalah proses intelektual yang utuh:
+
+```text
+       [ 1. BERTANYA ]                       [ 2. MENGANALISA ]                     [ 3. MEMBUKTIKAN ]
+Dilema Lapangan Asrama 24 Jam       ──►  Bedah Anatomi Ketegangan      ──►  Uji Turats, Sains & Realita
+Teka-teki Nyata Santri & Musyrif         Bongkar Jebakan Ilusi Umum         Studi Kasus Multi-Asrama
+Diagram ASCII Alur Dilema                Dialektika Argumen Bertingkat       Rumuskan Solusi Arsitektural (15–20 Bab)
+```
+
+### 27.1. Tiga Pilar Kerja Penyelidikan PROBE
+1. **BERTANYA (The Penetrating Question & Real Dilemma)**:
+   - Berkas dibuka langsung dengan pertanyaan tajam yang menyentuh friksi nyata di asrama.
+   - Menggambarkan dilema riil santri/musyrif dalam diagram alur ASCII yang hidup.
+   - Menghadirkan prinsip dasar dalam quote-block penuntun.
+2. **MENGANALISA (Deep Anatomical Deconstruction)**:
+   - Membongkar lapis demi lapis masalah (batin santri, tekanan musyrif, dinamika kamar tidur jam 02.00, kelemahan struktur).
+   - Membedah mengapa solusi-solusi konvensional (misal: sekadar memasang kotak saran, menempel slogan, atau menghukum massal) adalah ilusi yang gagal.
+   - Memetakan spektrum solusi menjadi pilar-pilar arsitektur yang terukur.
+3. **MEMBUKTIKAN & MERUMUSKAN (Evidential Grounding & Architecture)**:
+   - Menautkan argumentasi ke dalam dalil teks turats berharakat/beristilah syar'i (*Ihya, I'lam al-Muwaqqi'in, Al-Muwafaqat*) dan temuan neurosains/sosiologi.
+   - Membuktikan efektivitas model melalui komparasi empiris tiga asrama (Kasus A, B, C).
+   - Menghasilkan 15 hingga 20 bab terstruktur yang mengalir tuntas hingga batas-batas negatif (*negative guardrails*) dan implikasi repositori.
+
+### 27.2. Tiga Komponen Intelektual Wajib dalam Setiap Berkas P
+
+Untuk menjamin mutu akademis, ketajaman dialektika, dan operasionalitas sistem, setiap berkas P **WAJIB memuat tiga komponen inti berikut**:
+
+#### 1. Analisis Sains Kontemporer (Contemporary Scientific Analysis)
+Setiap berkas P tidak boleh hanya mengandalkan argumen normatif moral, melainkan harus dibedah melalui lensa sains kontemporer:
+- **Neurosains Perkembangan & Biologi Kognitif**: Membedah kerja *Prefrontal Cortex* (PFC), sirkuit dopaminergik, fungsi amigdala dalam ancaman stres, regulasi sumbu HPA (*Hypothalamic-Pituitary-Adrenal Axis*), serta ritme sirkadian tidur santri.
+- **Psikologi Perilaku & Belajar**: Mengintegrasikan *Self-Determination Theory* (Deci & Ryan), *Cognitive Load Theory* (Sweller), *Attachment Theory* (Bowlby), serta *Trauma-Informed Care*.
+- **Sosiologi Pendidikan & Teori Sistem Kompleks**: Menggunakan analisis kekuasaan modal simbolik (Bourdieu), *Street-Level Bureaucracy* (Lipsky), *Mission Drift* kelembagaan, serta dinamika kepatuhan sebaya (*peer conformity*).
+
+#### 2. Taksonomi & Matriks Operasional (Taxonomy & Operational Matrices)
+Penyelidikan harus menghasilkan distingsi yang jernih dalam bentuk **tabel klasifikasi dan matriks operasional**:
+- **Matriks Distingsi Konseptual**: Membedakan secara presisi konsep yang selama ini rancu di lapangan (misal: Dogma vs Prinsip vs Pedoman; Hukuman Reaktif vs Konsekuensi Logis; Observasi Sah vs Tajassus).
+- **Taksonomi Bertingkat (Hierarki/Tingkatan)**: Menyediakan tabel klasifikasi level (Tier 1–3, Dosis Intervensi 0–5, atau Jenjang J1–J4) lengkap dengan indikator perilaku, batasan kewenangan, dan protokol tindakannya.
+- **Matriks Batas Merah (Negotiable vs Non-Negotiable)**: Memetakan secara tegas ranah mana yang boleh dikompromikan secara fleksibel oleh praktisi vs batas etis-syar'i mutlak yang haram dilanggar.
+
+#### 3. Dialektika Penyelidikan & Debat Kritis (Critical Inquiry & Dialectical Debate)
+Berkas P dilarang keras menyajikan gagasan sebagai kebenaran sepihak yang dogmatis. Harus ada perdebatan ilmiah yang mengadu sudut pandang:
+- **Tesis (Argumen Konvensional / Teknokrasi / Sikap Ekstrem A)**: Menguraikan argumen terkuat dari kubu yang membela pendekatan lama atau pendekatan kaku.
+- **Antitesis (Argumen Penolakan / Permisivisme / Sikap Ekstrem B)**: Menguraikan kritik balik dan bahaya dari kubu yang berlawanan.
+- **Sintesis Arsitektural TUMBUH**: Merumuskan titik temu berbasis *Hikmah* dan *Maqashid Syari'ah* yang menyelesaikan kontradiksi tanpa mengorbankan martabat manusia dan tujuan tarbiyah.
+- **Pembongkaran Asumsi Terselubung**: Mengkritik bias-bias budaya (seperti *survivorship bias* musyrif sepuh atau ilusi teknologi konsultan modern).
+
+### 27.3. Indikator Kelayakan Berkas P
+- **Kerapatan Bab**: Mengembangkan penyelidikan secara organik dalam **15 hingga 20 bab bernomor** yang saling terhubung logis.
+- **Volume & Kedalaman**: Minimal 350 hingga 500+ baris markdown tanpa filler kosong, di mana setiap kalimat membawa bobot pemikiran dan solusi konkret.
+- **Visualisasi ASCII & Tabel**: Memuat diagram alur berpikir ASCII/Mermaid dan minimal 1–2 tabel matriks operasional komparatif.
+
+---
+
+## 28. Status Dokumen
 
 Dokumen ini menjadi **acuan kerja metodologis PROBE** untuk pengembangan selanjutnya.
 
@@ -660,8 +715,10 @@ Ia menggabungkan:
 * sifat emergent P;
 * sumber dan traceability;
 * workflow kerja;
-* serta guardrail untuk mencegah inquiry drift.
+* guardrail untuk mencegah inquiry drift;
+* **serta paradigma Bertanya-Menganalisa-Membuktikan dalam 15–20 bab naratif mendalam.**
 
 **Prinsip akhirnya:**
 
-> **PROBE boleh pergi sedalam yang diperlukan, tetapi tidak boleh kehilangan alasan mengapa penyelidikan itu diperlukan oleh Sistem TUMBUH.**
+> **PROBE boleh pergi sedalam yang diperlukan, tetapi tidak boleh kehilangan alasan mengapa penyelidikan itu diperlukan oleh Sistem TUMBUH, dan tidak boleh dipangkas menjadi sekadar kesimpulan dangkal.**
+
