@@ -293,9 +293,15 @@ dan seberapa tulus santri membuka pintu hatinya untuk dibimbing menuju ridha All
 
 ---
 
-## 20. Penutup Klaster Penyelidikan PROBE_06 dan Jembatan Menuju PROBE_07
+## 20. Drift Check dan Emergent Inquiry ke Berkas Berikutnya (P0003)
 
-Dengan tuntasnya penyelidikan P0001 dan P0002 di `PROBE_06` (Assessment Framework), dua pilar krisis terbesar dalam asesmen karakter santri 24 jam—bahaya Hukum Goodhart akhlaq performatif dan garis demarkasi observasi pengasuhan vs spionase tajassus—kini telah berdiri kokoh di atas dalil syariat, prinsip turats, sains kontemporer, dan matriks operasional yang presisi.
+### A. Evaluasi Drift Check
+- *Object of Inquiry*: Demarkasi antara observasi pengasuhan yang sah (*al-murawa'ah*) dan spionase aib (*at-tajassus*).
+- *Relevansi Sistem*: Menjaga rasa aman psikologis santri, melindungi kesucian ruang privat asrama, dan mematuhi larangan syariat.
+- *Hasil Konkret*: Matriks Empat Zona Ruang Asrama, Protokol Pemeriksaan Beradab, dan syarat ketat pengecualian darurat.
 
-Penyelidikan kini melangkah ke ruang inquiry pamungkas: bagaimana data asesmen diterjemahkan menjadi tindakan bimbingan, tindakan korektif, dan intervensi adab yang menyembuhkan di **[PROBE_07](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_07) (Intervention Framework)**:
-> **P0001 — Bagaimana Menentukan Dosis Intervensi Terkecil yang Efektif (*Minimal Effective Intervention Dose*) tanpa Merampas Otonomi dan Mematikan Kemandirian Santri?**
+### B. Pertanyaan Lanjutan yang Muncul (Emergent Inquiry)
+Ketika observasi pengasuhan telah dipagari dari tajassus dan Hukum Goodhart, muncul tantangan bagaimana data asesmen dikomunikasikan kembali kepada santri: bagaimana merancang sistem umpan balik (*feedback loop*) harian yang membangkitkan kesadaran muhasabah santri tanpa menciptakan kecemasan evaluatif (*evaluative anxiety*) atau merusak motivasi intrinsik anak?
+
+Penyelidikan berlanjut di klaster Assessment Framework ke:
+> **P0003 — Bagaimana TUMBUH Menyampaikan Umpan Balik Asesmen Adab Harian secara Edukatif tanpa Menimbulkan Kecemasan Evaluatif (*Evaluative Anxiety*) pada Santri?**

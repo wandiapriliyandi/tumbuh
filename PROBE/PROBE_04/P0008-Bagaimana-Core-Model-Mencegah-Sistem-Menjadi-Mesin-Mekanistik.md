@@ -215,7 +215,7 @@ Temuan dari penyelidikan ini mengalir memperkokoh:
 
 ---
 
-## 20. Drift Check dan Emergent Inquiry ke PROBE_05
+## 20. Drift Check dan Emergent Inquiry ke Berkas Berikutnya (P0009)
 
 ### A. Evaluasi Drift Check
 - *Object of Inquiry*: Pencegahan dehumanisasi mekanistik dalam Core Model TUMBUH.
@@ -223,7 +223,7 @@ Temuan dari penyelidikan ini mengalir memperkokoh:
 - *Hasil Konkret*: Matriks batas otomatisasi digital, protokol asrama bebas layar, dan prinsip keutamaan perjumpaan insani.
 
 ### B. Pertanyaan Lanjutan yang Muncul (Emergent Inquiry)
-Ketika Core Model telah kokoh dan terlindungi dari dehumanisasi mekanistik, bagaimana model ini memandu penahapan pertumbuhan santri melintasi waktu: apa hakikat sejati perkembangan dari jenjang J1 hingga J4, dan bagaimana mencegah jenjang tersebut agar tidak berubah menjadi kasta senioritas yang menindas?
+Ketika Core Model telah membentengi sistem dari bahaya mekanistis, penyelidikan perlu membedah dinamika sistemik mikro di kamar santri: bagaimana Core Model memetakan fenomena resonansi emosional dan penularan suasana hati (*emotional contagion*) di antara santri sekamar, dan bagaimana mencegah kecemasan atau kenakalan satu individu menulari seluruh ekosistem kamar?
 
-Penyelidikan bergerak ke klaster penahapan di:
-> **PROBE_05/P0001 — Apa Hakikat Pertumbuhan Jenjang Santri J1 hingga J4 dalam TUMBUH dan Bagaimana Mencegahnya Menjadi Hierarki Kasta Senioritas?**
+Penyelidikan berlanjut di klaster Core Model ke:
+> **P0009 — Bagaimana Core Model Menjelaskan Fenomena Resonansi Emosional dan Penularan Perilaku (Emotional & Behavioral Contagion) dalam Ekologi Kamar Asrama Santri?**

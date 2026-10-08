@@ -271,6 +271,15 @@ menuju bi'ah shalihah yang diridhai Allah SWT."
 
 ---
 
-## 20. Penutup Rangkaian Penyelidikan Fondasi Lapangan TUMBUH
+## 20. Drift Check dan Emergent Inquiry ke Berkas Berikutnya (P0003)
 
-Dengan tuntasnya berkas P0001 dan P0002 di `PROBE_07` (Intervention Framework), seluruh rangkaian berkas penyelidikan fondasi lapangan dari `PROBE_01` hingga `PROBE_07` telah disempurnakan secara menyeluruh. Dokumen-dokumen ini kini menjadi tiang pancang epistemik, teologis, psikologis, dan operasional yang kokoh bagi perumusan dokumen-dokumen Fundamental dan Implementasi TUMBUH v2.0.0 berikutnya.
+### A. Evaluasi Drift Check
+- *Object of Inquiry*: Resolusi ketegangan antara rehabilitasi pelaku dan pemulihan utuh hak korban tanpa impunitas.
+- *Relevansi Sistem*: Menegakkan syariat hak adami, mencegah pemaafan palsu prematur, dan melindungi martabat korban santri.
+- *Hasil Konkret*: Protokol Tiga Pilar Restoratif (3R: Restitution, Resolution, Reconciliation) dan taksonomi batas yurisdiksi Tier 1–3.
+
+### B. Pertanyaan Lanjutan yang Muncul (Emergent Inquiry)
+Ketika keadilan restoratif pasca-konflik telah terstruktur dengan adil, muncul tantangan penanganan saat krisis sedang berkecamuk di lapangan: bagaimana protokol de-eskalasi instan (*Crisis De-escalation Protocol*) saat santri mengalami luapan amarah agresi fisik yang meledak di asrama secara nir-kekerasan (*non-violent physical containment*), tanpa musyrif membalas dengan pukulan fisik dan tanpa kehilangan kewibawaan?
+
+Penyelidikan berlanjut di klaster Intervention Framework ke:
+> **P0003 — Bagaimana TUMBUH Merancang Protokol De-Eskalasi Krisis Agresi Fisik Santri secara Nir-Kekerasan (*Non-Violent Crisis Intervention*) tanpa Membahayakan Keselamatan Santri Lain dan Pembina?**

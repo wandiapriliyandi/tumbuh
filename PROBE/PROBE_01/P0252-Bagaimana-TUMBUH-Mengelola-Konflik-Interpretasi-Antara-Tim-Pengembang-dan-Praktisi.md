@@ -253,7 +253,7 @@ Temuan dari penyelidikan ini mengalir memperkuat:
 
 ---
 
-## 20. Drift Check dan Emergent Inquiry ke PROBE_02
+## 20. Drift Check dan Emergent Inquiry ke Berkas Berikutnya (P0253)
 
 ### A. Evaluasi Drift Check
 - *Object of Inquiry*: Resolusi konflik interpretasi epistemik perancang vs praktisi.
@@ -261,7 +261,7 @@ Temuan dari penyelidikan ini mengalir memperkuat:
 - *Hasil Konkret*: Majelis Uji Realitas, transformasi bahasa turats, dan protokol audit ergonomi musyrif.
 
 ### B. Pertanyaan Lanjutan yang Muncul (Emergent Inquiry)
-Dengan tuntasnya seluruh inquiry tata kelola arsitektural di PROBE_01, penyelidikan wajib melangkah ke jantung epistemologi dan worldview Islam di PROBE_02: bagaimana TUMBUH mendudukkan hubungan dialektis antara akal budi dan wahyu ilahi dalam kurikulum karakter santri tanpa terjebak ke rasionalisme kering atau dogmatisme buta?
+Ketika konflik interpretasi antara tim pengembang dan praktisi telah memiliki mekanisme resolusi deliberatif, muncul tantangan keragaman konteks kelembagaan: bagaimana arsitektur tata kelola TUMBUH menjaga kesinambungan standarnya ketika dihadapkan pada variasi mazhab fiqh pengasuhan, afiliasi ormas Islam, dan tradisi lokal kultural pesantren tanpa kehilangan koherensi arsitektur inti?
 
-Penyelidikan bergerak ke:
-> **PROBE_02/P0351 — Bagaimana TUMBUH Mendudukkan Akal dan Wahyu dalam Arsitektur Pembinaan Karakter Santri tanpa Rasionalisme Kering atau Dogmatisme Buta?**
+Penyelidikan berlanjut di klaster tata kelola arsitektur ke:
+> **P0253 — Bagaimana TUMBUH Menjaga Kesinambungan Standar Arsitektur di Tengah Keragaman Mazhab Fiqh dan Tradisi Kultural Lokal Pesantren?**

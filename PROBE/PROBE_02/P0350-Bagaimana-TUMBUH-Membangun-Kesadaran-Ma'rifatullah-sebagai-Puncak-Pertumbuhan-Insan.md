@@ -237,15 +237,15 @@ Temuan penyelidikan ini mengalir langsung ke:
 
 ---
 
-## 20. Drift Check dan Emergent Inquiry ke PROBE_03
+## 20. Drift Check dan Emergent Inquiry ke Berkas Berikutnya (P0351)
 
 ### A. Evaluasi Drift Check
 - *Object of Inquiry*: Pembangunan kesadaran Ma'rifatullah sebagai puncak pertumbuhan insan.
-- *Relevansi Sistem*: Menyelamatkan jiwa santri dari kekeringan formalisme dan kesesatan mistisisme.
-- *Hasil Konkret*: Tangga progresi tiga tingkat, tiga pilar ibadah hati, dan kurikulum klinis tazkiyatun nafs.
+- *Relevansi Sistem*: Menyelamatkan jiwa santri dari kekeringan formalisme ibadah lahiriah dan jebakan mistisisme liar.
+- *Hasil Konkret*: Tangga progresi tiga tingkat (Islam, Iman, Ihsan), tiga pilar ibadah hati, dan kurikulum klinis tazkiyatun nafs.
 
 ### B. Pertanyaan Lanjutan yang Muncul (Emergent Inquiry)
-Dengan tuntasnya seluruh inquiry fondasi filosofis di PROBE_02, penyelidikan kini melangkah ke ranah ketegangan prinsip di klaster PROBE_03: bagaimana TUMBUH membedakan prinsip arsitektural dari dogma kaku di satu sisi dan pedoman longgar di sisi lain?
+Ketika kesadaran Ma'rifatullah telah ditegakkan sebagai orientasi puncak batiniah, muncul tantangan epistemik mendasar: bagaimana akal budi santri didudukkan bersama wahyu ilahi agar santri tidak jatuh pada rasionalisme sempit yang mendewakan logika di satu sisi, atau fideisme/taklid buta yang mengebiri daya kritis di sisi lain?
 
-Penyelidikan berlanjut ke:
-> **PROBE_03/P0001 — Bagaimana TUMBUH Membedakan Prinsip dari Dogma Kaku dan Pedoman Longgar dalam Menegakkan Adab Asrama?**
+Penyelidikan berlanjut di klaster fondasi filosofis ke:
+> **P0351 — Bagaimana TUMBUH Mendudukkan Hubungan Antara Akal Budi, Fitrah Batiniah, dan Wahyu Ilahi dalam Fondasi Keilmuan Santri tanpa Rasionalisme Kering atau Fideisme Buta?**
