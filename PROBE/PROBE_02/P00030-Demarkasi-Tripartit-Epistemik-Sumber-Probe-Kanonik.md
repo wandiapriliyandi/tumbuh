@@ -2,16 +2,14 @@
 
 ## Pertanyaan
 
-Dalam tata kelola arsitektur repositori TUMBUH v2.0.0, aturan epistemik utama yang digariskan pada dokumen konstitusi [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) menyatakan secara tegas:
+Dalam tata kelola arsitektur pengetahuan dan repositori sistem pendidikan Islam, salah satu sumber kekacauan paling berbahaya adalah **kerancuan kategori epistemik (*epistemic category confusion*)**:
+1. Sebuah kutipan dari kitab klasik abad pertengahan atau artikel jurnal sains Barat yang baru dimasukkan ke lumbung pustaka langsung dianggap sebagai "hukum wajib sistem", tanpa melalui uji kritis apakah konteks kultural dan maqashidnya sesuai dengan realitas asrama santri hari ini.
+2. Draf eksplorasi perdebatan ilmiah yang masih cair di ruang penyelidikan langsung dijadikan pegangan operasional oleh musyrif, menimbulkan kebingungan massal karena ruang penyelidikan berisi dialektika, uji stres, dan pertimbangan kontradiktif yang belum tentu menjadi keputusan final.
+3. Dokumen konstitusi dan prinsip dasar terkontaminasi oleh catatan lapangan mentah atau polemik akademis yang membuatnya kehilangan kestabilan normatif.
 
-> *"Jaga batas setiap lapisan repository. Jangan menjadikan SOP sebagai definisi sistem, evidence sebagai keputusan, atau PROBE sebagai substansi Fundamental... `source/` bukan otomatis source of truth; `REFERENCES/` bukan otomatis keputusan normatif; `PROBE/` bukan pengganti dokumen Fundamental."*
+Jika batas-batas ini kabur, sistem pendidikan akan kehilangan wibawa hukum dan kepastian arah. Musyrif di lapangan menjadi bingung membedakan mana arahan operasional resmi dan mana wacana perdebatan para konseptor.
 
-Mengapa penegasan batas epistemik ini begitu krusial? Kerap kali dalam pengembangan sistem pengetahuan, terjadi **kerancuan status epistemik (epistemic category confusion)**:
-1. Sebuah kutipan dari kitab klasik atau jurnal sains di folder `REFERENCES/` atau `source/` langsung dianggap sebagai "hukum wajib sistem", tanpa melalui uji kritis apakah konteksnya sesuai dengan realitas asrama santri hari ini.
-2. Draf eksplorasi perdebatan yang masih cair di folder `PROBE/` langsung dijadikan pegangan operasional oleh musyrif, menimbulkan kebingungan karena PROBE berisi dialektika dan pertimbangan yang belum tentu menjadi keputusan final.
-3. Dokumen kanonik `01_FUNDAMENTAL` terkontaminasi oleh catatan lapangan mentah atau polemik akademis yang membuatnya kehilangan kestabilan normatif.
-
-Bagaimana TUMBUH menegakkan **Demarkasi Tripartit Epistemik** yang kokoh? **Bagaimana membedakan fungsi ontologis antara Sumber Mentah (*Source/Evidence*), Ruang Pengolahan (*Probe/Inquiry*), dan Keputusan Kanonik (*Fundamental/Normative*) tanpa memutus rantai keterlacakan (*traceability*) di antara ketiganya?**
+Bagaimana TUMBUH menegakkan **Demarkasi Tripartit Epistemik** yang kokoh? **Bagaimana membedakan fungsi ontologis antara Sumber Mentah (*Source/Evidence*), Ruang Pengolahan (*Probe/Inquiry*), dan Keputusan Kanonik (*Fundamental/Normative*) tanpa memutus rantai keterlacakan (*traceability*) di antara ketiganya di ekosistem pesantren 24 jam?**
 
 ```text
 ARSITEKTUR TRIPARTIT EPISTEMIK REPOSITORI TUMBUH v2.0.0:
@@ -40,7 +38,7 @@ Ketika batas tripartit runtuh, tiga kekacauan fatal niscaya melanda repositori d
 
 ```text
 [ PATOLOGI 1: THE RAW-SOURCE FALLACY (MENYEMBAH BAHAN MENTAH) ]
-Mengutip sebaris teks dari kitab abad ke-11 di folder REFERENCES lalu langsung
+Mengutip sebaris teks dari kitab abad ke-11 di folder rujukan lalu langsung
 membuat SOP: "Seluruh santri wajib tidur di lantai tanah tanpa alas!"
 Kesalahan: Menyamakan bahan rujukan historis dengan keputusan normatif sistem.
                           ↓
@@ -50,7 +48,7 @@ lalu musyrif bingung: "Apakah lari pagi ini boleh atau haram? Di PROBE perdebata
 Kesalahan: Menjadikan wacana eksplorasi PROBE sebagai pedoman instruksional praktis.
                           ↓
 [ PATOLOGI 3: THE UNGROUNDED CANON FALLACY (KONSTITUSI TANPA SANAD) ]
-Pimpinan menulis aturan baru di 01_FUNDAMENTAL atau SOP 03_OPERATIONAL secara sepihak
+Pimpinan menulis aturan baru di dokumen fundamental atau SOP operasional secara sepihak
 tanpa ada berkas PROBE yang menyelidikinya dan tanpa ada rujukan turats yang mendukungnya.
 Kesalahan: Penyelundupan aturan liar yang merusak koherensi arsitektur repositori.
 ```
@@ -59,11 +57,10 @@ Kesalahan: Penyelundupan aturan liar yang merusak koherensi arsitektur repositor
 
 ## 2. Landasan Turats: Metodologi Ushul Fiqh (Nash, Ijtihad, dan Taqrir)
 
-Tradisi keilmuan Islam adalah pelopor demarkasi epistemik paling rapi dalam sejarah:
-
-1. **Al-Adillah al-Ijmaliyyah (Bahan Sumber / Dalil Mentah):** Ayat Al-Qur'an dan hadits shahih yang terhimpun dalam mushaf dan kitab hadits. (Setara dengan `source/` & `REFERENCES/`).
-2. **Al-Ijtihad wal-Istinbath (Ruang Pengolahan Nalar Faqih):** Majelis ijtihad tempat illat dicari (*takhrij al-manath*), pertentangan dalil dikomparasikan (*ta'arudh*), dan analogi diuji (*qiyas*). (Setara dengan `PROBE/`).
-3. **Al-Hukm asy-Syar'i al-Mustanbath (Ketetapan Fatwa / Matan Fiqh Kanonik):** Hasil sulingan hukum yang telah bersih dari perdebatan teknis, siap diamalkan oleh umat sebagai panduan halal-haram. (Setara dengan `01_FUNDAMENTAL` & `03_OPERATIONAL`).
+Tradisi keilmuan Islam adalah pelopor demarkasi epistemik paling rapi dalam sejarah peradaban manusia:
+1. **Al-Adillah al-Ijmaliyyah (Bahan Sumber / Dalil Mentah):** Ayat Al-Qur'an dan hadits shahih yang terhimpun dalam mushaf dan kitab-kitab hadits mu'tabar. (Setara dengan Lapisan Sumber & Bahan Rujukan).
+2. **Al-Ijtihad wal-Istinbath (Ruang Pengolahan Nalar Faqih):** Majelis ijtihad tempat illat dicari (*takhrij al-manath*), pertentangan dalil dikomparasikan (*ta'arudh*), dan analogi diuji (*qiyas*). (Setara dengan Lapisan Dapur Penyelidikan PROBE).
+3. **Al-Hukm asy-Syar'i al-Mustanbath (Ketetapan Fatwa / Matan Fiqh Kanonik):** Hasil sulingan hukum yang telah bersih dari perdebatan teknis, siap diamalkan oleh umat sebagai panduan halal-haram yang mantap. (Setara dengan Lapisan Fundamental & SOP Operasional).
 
 Imam Asy-Syafi'i dalam *Ar-Risalah* melarang keras orang awam mengambil hukum langsung dari teks dalil mentah tanpa melalui metodologi ushul fiqh yang matang, agar tidak terjadi salah tafsir yang mencelakakan umat.
 
@@ -72,7 +69,6 @@ Imam Asy-Syafi'i dalam *Ar-Risalah* melarang keras orang awam mengambil hukum la
 ## 3. Analisis Sains Kontemporer: DIKW Hierarchy & Software Architecture Separation of Concerns
 
 Sains manajemen pengetahuan (*Knowledge Management*) dan arsitektur perangkat lunak modern:
-
 1. **Hierarki DIKW (Data -> Information -> Knowledge -> Wisdom):**
    - *Data / Source:* Fakta mentah dan teks rujukan belum memiliki makna operasional.
    - *Information & Knowledge / PROBE:* Data yang telah dikontekstualisasikan, dianalisis, dan diuji hubungannya.
@@ -156,7 +152,7 @@ Untuk menjaga agar batas tidak bocor namun keterlacakan tetap hidup:
 
 ## 9. Bahaya "Semantic Drift": Mencegah SOP Mengubah Definisi Sistem
 
-Aturan penting [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md): *"Dokumen Operational tidak boleh diam-diam membuat definisi baru TUMBUH."*:
+Di lingkungan lapangan sering terjadi pergeseran makna tanpa sadar (*semantic drift*):
 - Musyrif atau pembuat SOP di lapangan tidak berwenang mendefinisikan ulang apa itu "Disiplin", apa itu "Fitrah", atau apa itu "Karakter".
 - Definisi sistem adalah hak prerogatif konstitusi `01_FUNDAMENTAL`. Tugas SOP murni mengeksekusi definisi tersebut ke dalam tindakan fisik.
 
@@ -164,7 +160,7 @@ Aturan penting [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md): *"Dokumen 
 
 ## 10. Peran Folder `REFERENCES/`: Kurasi Tanpa Kultus
 
-Kitab-kitab di folder `REFERENCES/` adalah kekayaan pustaka yang dihormati:
+Kitab-kitab di folder rujukan adalah kekayaan pustaka yang dihormati:
 - Namun keberadaan sebuah kitab di sana bukan berarti seluruh isinya otomatis disahkan sebagai doktrin resmi TUMBUH.
 - Setiap rujukan wajib melewati pintu hisab dan saringan berkas PROBE sebelum diadopsi ke sistem.
 
@@ -231,8 +227,8 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00030):
              3. Lapisan Kanonik (01_FUNDAMENTAL, 02_IMPLEMENTATION, 03_OPERATIONAL) adalah
                 konstitusi normatif dan instrumen operasional resmi sistem.
 - Larangan Arsitektural: Haram menjadikan rujukan mentah langsung sebagai SOP; haram menjadikan
-                         draf PROBE sebagai pedoman instruksional; dan haram menerbitkan dokumen
-                         kanonik tanpa sanad keterlacakan berkas PROBE.
+                          draf PROBE sebagai pedoman instruksional; dan haram menerbitkan dokumen
+                          kanonik tanpa sanad keterlacakan berkas PROBE.
 - Dampak: Seluruh kontributor repositori wajib mematuhi pemisahan fungsional lapisan ini.
 ```
 
