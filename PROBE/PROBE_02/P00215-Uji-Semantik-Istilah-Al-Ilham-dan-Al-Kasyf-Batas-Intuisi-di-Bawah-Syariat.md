@@ -104,18 +104,17 @@ KASUS: Seorang pembina asrama mengusulkan agar Santri Salman (Kelas 9) segera di
        Sang pembina yakin mimpinya adalah "kasyf ilahi" bahwa Salman akan merusak moral seluruh asrama.
 
 [ RESOLUSI SALAH BERDASARKAN DESPOTISME MISTIS ]:
-- Pimpinan langsung memanggil wali santri Salman dan mengeluarkan Salman tanpa menjelaskan bukti pelanggaran.
-- Alasan yang diberikan: "Kami mendapat isyarat langit bahwa anak bapak tidak berjodoh di sini."
-- Dampak: Salman dan keluarganya hancur secara psikologis dan merasa dizalimi; pesantren melanggar hukum syariat
-  karena mencemarkan kehormatan seorang muslim tanpa bukti dosa lahiriah (*qadzf ma'nawi*).
+- Pemberhentian Sepihak: Pimpinan memanggil wali santri dan mengeluarkan santri secara mendadak tanpa menunjukkan bukti pelanggaran peraturan.
+- Alasan Metafisik Subjektif: Pemutusan studi didasarkan pada klaim isyarat gaib dan firasat mimpi pembina.
+- Dampak Institusional: Santri dan keluarga mengalami luka psikologis mendalam, dan lembaga melanggar asas legalitas syariat
+  karena mencemarkan martabat santri tanpa bukti dosa lahiriah (*qadzf ma'nawi*).
 
 [ RESOLUSI TEPAT BERDASARKAN PROTOKOL ARSITEKTUR TUMBUH ]:
-- Penolakan Klaim Gaib: Majelis Pimpinan menolak mentah-mentah usulan drop-out yang berdasar mimpi tersebut.
-- Penegakan Standar Syariat: Ketua Majelis mengingatkan kaidah ushul: "Mimpi bukan hujjah syar'iyyah!"
-- Audit Rekam Jejak Faktual: Tim memeriksa logbook Salman: catatan adabnya baik, nilainya stabil, tidak ada pelanggaran berat.
-- Pendampingan Pembina: Pimpinan mendampingi pembina tersebut untuk mengurai penyebab kecemasannya: ternyata pembina
-  sedang mengalami kelelahan mental akut dan memproyeksikan traumanya di masa lalu kepada sosok Salman.
-- Hasil: Salman tetap belajar dengan aman dan sukses menjadi santri teladan; pembina diberikan hak istirahat untuk memulihkan kesehatan jiwanya.
+- Penolakan Klaim Gaib: Majelis Pimpinan menolak usulan sanksi yang hanya bersandar pada mimpi personal pembina.
+- Penegakan Asas Ushul Syariat: Penegasan konsensus ulama bahwa mimpi personal bukan merupakan hujjah hukum dalam domain publik.
+- Audit Rekam Jejak Faktual: Pemeriksaan menyeluruh terhadap catatan logbook membuktikan bahwa kedisiplinan dan adab santri dalam kondisi stabil.
+- Pendampingan Psikologis Pembina: Tim pimpinan mendampingi pembina untuk mengurai kelelahan mental (*burnout*) yang memicu proyeksi trauma masa lalu.
+- Hasil Penanganan: Hak belajar santri terlindungi penuh, santri terus bertumbuh positif, dan pembina mendapatkan hak pemulihan kesehatan jiwa.
 ```
 
 ---

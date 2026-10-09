@@ -97,18 +97,17 @@ Sikap: Berprasangka baik (Husnuzhan)     Sikap: Menyerahkan urusan batin kepada 
 ## 5. Studi Kasus Lapangan: Tuduhan "Pura-pura Sakit" dan "Riya' Menghafal"
 
 ```text
-KASUS 1: Santri Faris izin tidak ikut kerja bakti membersihkan lapangan karena mengaku pusing dan demam.
-- Penanganan Berbahaya (Inkuisisi Niat): Musyrif membentak: "Halah! Kamu cuma malas kan? Wajahmu tidak kelihatan sakit!
-  Jangan pura-pura munafik di hadapan saya!" Faris dipaksa mencangkul. Dua jam kemudian Faris pingsan dan dilarikan ke RS karena demam berdarah.
-- Penanganan Beradab Sesuai Kaidah: Musyrif menerima keterangan lahiriah Faris, membimbingnya ke klinik pesantren untuk
-  diperiksa suhu tubuhnya secara medis (verifikasi empiris lahiriah). Jika terbukti demam, Faris diistirahatkan dengan penuh kasih sayang.
+KASUS 1: Santri Faris mengajukan izin tidak mengikuti kerja bakti karena mengalami keluhan pusing dan demam.
+- Penanganan Berbahaya (Inkuisisi Niat): Musyrif merespon secara agresif dengan menuduh santri berpura-pura sakit dan memaksanya bekerja fisik.
+  Dua jam kemudian santri pingsan dan harus dilarikan ke rumah sakit akibat infeksi demam berdarah.
+- Penanganan Beradab Sesuai Kaidah: Musyrif menerima keterangan lahiriah santri, memfasilitasi pemeriksaan medis objektif di klinik poskestren,
+  dan memberikan hak istirahat pemulihan sesuai diagnosis fisik tenaga medis.
 
-KASUS 2: Santri Hilman sering tilawah Al-Qur'an dengan suara merdu di teras masjid asrama saat waktu luang.
-- Penanganan Berbahaya: Musyrif menegur di depan kawan-kawannya: "Hilman, kamu tilawah di teras cuma mau pamer biar dilihat santri lain kan?
-  Pindah ke pojok dalam sana, jangan riya'!" Hilman merasa tertuduh, malu, dan akhirnya mogok tilawah selama sebulan.
-- Penanganan Beradab Sesuai Kaidah: Musyrif memuji kebaikan lahiriahnya: "Masya Allah, indah sekali bacaanmu Hilman."
-  Dalam kajian pekanan umum (tanpa menyebut nama Hilman), musyrif mengajarkan adab menjaga keikhlasan hati dalam beramal.
-  Hilman merasa dihargai lahiriahnya dan terdorong memperbaiki batinnya secara sukarela di hadapan Allah.
+KASUS 2: Santri Hilman melantunkan tilawah Al-Qur'an dengan suara merdu di teras masjid asrama pada waktu luang.
+- Penanganan Berbahaya: Musyrif menegur secara publik seraya menuduh santri memamerkan hafalan (riya') demi mencari perhatian kawan,
+  sehingga santri merasa tertekan, malu, dan berhenti membaca Al-Qur'an selama berminggu-minggu.
+- Penanganan Beradab Sesuai Kaidah: Musyrif mengapresiasi kebaikan lahiriah santri secara wajar dan menyampaikan materi pemurnian niat secara umum
+  dalam kajian halaqah tanpa mempermalukan individu, menumbuhkan motivasi ikhlas secara sukarela di dalam kalbu santri.
 ```
 
 ---

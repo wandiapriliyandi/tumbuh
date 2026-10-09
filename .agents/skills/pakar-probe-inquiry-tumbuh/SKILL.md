@@ -660,15 +660,67 @@ Dilema Lapangan / Ketegangan        ──►  Penyelidikan Argumen & Dialektika
 Asrama 24 Jam yang Riil                  (Bukan Kerangka Kaku Seragam)           Distingsi Repositori
 ```
 
-### 27.1. Bahaya "Formulaic Template Trap" (Larangan Format Mekanis)
+### 27.1. Taksonomi Anatomi Berkas Berdasarkan Sub-Klaster (Spesifik & Bebas Penyeragaman Kaku)
 
-Penyelidikan PROBE **dilarang keras** jatuh ke dalam jebakan templat seragam (*cookie-cutter pattern*), seperti memaksa setiap berkas memiliki struktur checklist artifisial:
-- **Dilarang keras menggunakan format naskah drama / 'Dialog Kebapakan Naratif'**: PROBE adalah dokumen penyelidikan ilmiah dan filosofis, bukan naskah lakon teatrikal. Hindari dialog percakapan sandiwara fiktif berlarut-larut. Sebagai gantinya, gunakan **Analisis Interaksi & Dinamika Relasi Pembinaan** (membedah interaksi nyata secara analitis, pola relasi kuasa, disonansi kognitif) serta **Protokol Tindakan Edukatif & Rekomendasi Pendampingan** (langkah konkret, batasan komunikasi pengasuh, dan mitigasi risiko pembinaan).
-- **Larangan Istilah 'Khalifah' dan 'Khilafah'**: Jauhi dan jangan gunakan istilah *khalifah* maupun *khilafah* dalam perumusan profil, peran santri, kurikulum, atau analisis pembinaan TUMBUH. Sebagai gantinya, gunakan istilah yang jernih dan bebas dari distorsi politis/ideologis seperti: **pemakmur bumi (*'imaratul ardh*)**, **pengemban amanah Ilahi (*hamilul amanah*)**, **pelindung/penjaga lingkungan/kemaslahatan umat (*ri'ayah / khidmah*)**, **pemimpin pelayan (*qiyadah khadimah / servant leadership*)**, atau **generasi penggerak adab**. Jika mengutip tokoh sejarah (seperti sahabat Nabi), gunakan sebutan gelar yang netral seperti *Amirul Mukminin* atau *Sayyidina*.
-- **Wajib Koherensi Total: Bab Harus Menjawab Pertanyaan Inti (Anti-Bab Tempelan / Asal Ada)**: Setiap berkas dibuka dengan **TUMBUH Question / Pertanyaan Inti**. Seluruh bab dari awal hingga akhir **wajib fokus dan saling bertautan secara logis (benang merah kuat) untuk membedah dan menjawab pertanyaan tersebut**. Dilarang keras menyisipkan bab-bab klise yang tidak nyambung hanya demi memenuhi format (seperti menempelkan bab PBIS, bab J1–J4, atau bab umum secara mekanis jika tidak langsung berkontribusi memecahkan masalah yang sedang ditanyakan). Setiap bab harus memiliki fungsi penalaran yang jelas: mengurai anatomi masalah, menimbang argumen dialektis, menguji bukti, atau merumuskan sintesis jawaban.
-- **Dilarang memaksakan target jumlah bab kaku** (misalnya mewajibkan minimal 15–20 bab secara mekanis). Jumlah dan judul bab harus **tumbuh secara organik** mengikuti alur penalaran masalah yang sedang dibedah. Sebuah kajian bernalar 6–10 bab yang tajam, jernih, dan orisinal jauh lebih bermutu daripada 20 bab yang diisi dengan template berulang.
-- **Dilarang memaksakan komponen yang tidak relevan**: Jangan memaksakan tabel PBIS Multi-Tier, Taksonomi J1–J4, atau Catatan ADR di setiap berkas jika topik penyelidikan tidak membutuhkannya.
-- **Dilarang menuliskan SOP / Aturan Jadi**: PROBE adalah tempat *mengkaji dan menyelidiki* (mengapa dan bagaimana), bukan tempat menerbitkan aturan praktis final atau menyusun diktum SOP operasional.
+Setiap jenis penyelidikan memiliki sifat epistemik yang berbeda. **Dilarang memaksakan satu format bab seragam ke seluruh jenis berkas**. Struktur bab wajib mengikuti **karakter alamiah sub-klasternya**:
+
+---
+
+#### TIPE A: Sub-Klaster Uji Semantik & Audit Istilah Kanonik (Contoh: P00207 – P00230)
+*Fokus: Membedah satu atau sepasang istilah kunci syariat/bahasa Arab, membersihkan distorsi maknanya di asrama, dan menetapkan definisi operasional kanonik TUMBUH.*
+- **Struktur Alami (8–10 Bab Organik):**
+  1. **Identifikasi Penyelidikan & TUMBUH Questions** (Kode, Istilah yang Diuji, Rumusan Masalah Epistemik).
+  2. **Analisis Filologis & Isytiqaq Turats** (Akar Kata Leksikografi, Kaidah Bahasa, Pergeseran Makna).
+  3. **Visualisasi / Diagram Dilema Semantik Asrama** (Kutub Ekstrem A vs Model Kanonik vs Kutub Ekstrem B).
+  4. **Landasan Epistemologi Turats & Hermeneutika Syariat** (Nash Qur'an, Hadits Shahih, Atsar Salaf).
+  5. **Kritik Reduksionisme & Bahaya Distorsi di Lapangan Asrama** (Mengapa pemahaman salah merusak asrama).
+  6. **Integrasi Neurosains / Psikologi Belajar Terapan** (Jika istilah bersentuhan dengan proses kognisi/afeksi manusiawi).
+  7. **Matriks Komparatif Audit Semantik** (Tabel distingsi makna: Istilah Asli vs Istilah Turunan vs Status TUMBUH).
+  8. **Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan** (Analisis dinamika relasi + Protokol pendampingan konkret).
+  9. **Catatan Keputusan Arsitektural (Format ADR)** (Definisi kanonik yang disahkan dan batasan sistem).
+  10. **Implikasi bagi Repositori & Guardrails Audit Semantik** (Daftar rujukan repositori + 7 butir larangan audit istilah).
+  *(Diakhiri Penutup, Jembatan Pertanyaan Berkas Berikutnya, dan Referensi Terkurasi)*
+
+---
+
+#### TIPE B: Sub-Klaster Uji Filosofis Sains & Teori Besar (Contoh: P00175 – P00192)
+*Fokus: Menguji teori filsafat/sains kontemporer (Popper, Kuhn, Feyerabend, Critical Realism, dll.) terhadap realitas pesantren.*
+- **Struktur Alami (11–13 Bab Komprehensif):**
+  1. Identifikasi Penyelidikan (Kuhn/Popper, TUMBUH Questions).
+  2. Latar Belakang & Akar Teori Filsafat Ilmu Kontemporer.
+  3. Diagram Siklus / Paradigma Epistemik.
+  4. Landasan Turats & Titik Temu dengan Hermeneutika Islam.
+  5. Analisis Sains Kognitif & Sosiologi Pendidikan.
+  6. Matriks Operasional Perbandingan Model.
+  7. Dialektika Penyelidikan: Benturan Paradigma (Tesis, Antitesis, Sintesis).
+  8. Studi Kasus Lapangan Asrama 24 Jam (Narasi Analitis Mendalam Tanpa Dialog Sandiwara).
+  9. Penerapan pada Kerangka Kerja PBIS Multi-Tier di Asrama 24 Jam.
+  10. Audit Mutu Lembaga & Deteksi Kontradiksi SOP Pengasuhan.
+  11. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan.
+  12. Arsitektur Keputusan Rekayasa Sistem (Format ADR).
+  13. Implikasi bagi Repositori TUMBUH (01_FUNDAMENTAL, 02_IMPLEMENTATION, 03_OPERATIONAL) & Batas-Batas Negatif / Guardrails.
+  *(Catatan Epistemik: Taksonomi Jenjang Kemandirian Santri J1–J4 TIDAK dicantumkan secara prematur di PROBE_02 karena pembagian jenjang kemandirian baru diselidiki secara metodologis pada PROBE_05: Progression).*
+
+---
+
+#### TIPE C: Sub-Klaster Studi Kasus Lapangan Epistemik (Contoh: P00193 – P00206)
+*Fokus: Bedah anatomi kasus nyata asrama 24 jam (pencurian, perundungan, pelaporan saksi, konflik kamar).*
+- **Struktur Alami (7–9 Bab Analitis Studi Kasus):**
+  1. Deskripsi Fakta Kasus & Titik Kritis Lapangan.
+  2. Anatomi Masalah: Asimetri Kuasa & Jebakan Investigasi Konvensional.
+  3. Diagram Resolusi Keadilan Restoratif vs Penindakan Punitif.
+  4. Landasan Fiqih Sengketa (*Fiqh al-Qadha' & Adab al-Mu'asyarah*).
+  5. Evaluasi Kritis Respon Musyrif (Deteksi Bias & Malpraktik Pengasuhan).
+  6. Protokol Intervensi Multi-Tier TUMBUH untuk Kasus Tersebut.
+  7. Analisis Dinamika Relasi & Panduan Pendampingan Pasca-Insiden (Tanpa Dialog Sandiwara).
+  8. Keputusan ADR & Kebijakan Pencegahan Berulang (Guardrails Kasus).
+
+---
+
+#### Aturan Mutlak Berlaku untuk Seluruh Tipe:
+- **Dilarang Keras Format Naskah Drama / Dialog Percakapan Sandiwara**: Seluruh studi kasus dan interaksi disajikan dalam narasi deskriptif-analitis (membedah motif, relasi kuasa, dan data faktual).
+- **Larangan Mutlak Istilah 'Khalifah' dan 'Khilafah'**: Wajib menggunakan istilah murni amanah dan peradaban: *'imaratul ardh*, *hamilul amanah*, *qiyadah khadimah*, atau *penggerak adab*.
+- **Koherensi Total**: Seluruh bab wajib mengalir menjawab pertanyaan induk tanpa bab tempelan generik.
 
 ### 27.2. Tiga Pilar Kerja Penyelidikan yang Mengalir
 

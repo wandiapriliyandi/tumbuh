@@ -105,18 +105,18 @@ KASUS: Saat ujian tahfiz berlangsung, Musyrif Faruq merasakan "firasat kuat" bah
        sedang membawa contekan kecil di sakunya karena Harun tampak gelisah dan memegang sakunya berulang kali.
 
 [ TINDAKAN SALAH BERDASARKAN KULTUS FIRASAT ]:
-- Musyrif langsung membentak di depan majelis: "Harun! Firasat saya tidak pernah salah! Kamu pasti menyontek!"
-- Saku Harun digeledah paksa di depan umum. Ternyata di saku Harun hanya ada botol obat asma inhaler yang sedang ia genggam
-  karena asmanya mulai kambuh akibat kedinginan.
-- Dampak: Harun mengalami trauma dan dipermalukan di hadapan seluruh santri; kredibilitas musyrif hancur seketika.
+- Tuduhan Spontan Tanpa Verifikasi: Musyrif langsung menyimpulkan kecurigaannya sebagai kebenaran mutlak di depan umum,
+  menuduh santri berbuat curang hanya berdasarkan tafsir subjektif atas bahasa tubuh santri.
+- Penggeledahan Paksa & Mempermalukan: Saku santri digeledah paksa di hadapan kawan-kawannya, yang ternyata hanya berisi
+  botol obat asma inhaler yang sedang digenggam karena penyakit asmanya mulai kambuh.
+- Dampak Institusional: Santri mengalami trauma psikologis dipermalukan secara publik, dan integritas pembinaan pengasuh runtuh seketika.
 
 [ TINDAKAN BENAR BERDASARKAN PROTOKOL FIRASAT TUMBUH ]:
-- Firasat Muncul: Musyrif menangkap kegelisahan Harun sebagai sinyal ketidakberesan.
-- Respon Empatik (Bukan Tuduhan): Musyrif mendekati Harun secara perlahan dan berbisik lembut:
-  "Harun, antum tampak pucat dan gelisah, apakah antum sedang kurang sehat?"
-- Pengungkapan Fakta: Harun menunjukkan inhalernya sambil terengah-engah mengatakan dadanya sesak.
-- Resolusi Tepat: Musyrif segera mendampingi Harun ke ruang UKS untuk pertolongan medis; ujian ditunda tanpa rasa malu.
-  Firasat berhasil menyelamatkan kondisi fisik santri tanpa melukai martabatnya sedikit pun.
+- Firasat sebagai Radar Kepedulian: Musyrif menangkap kegelisahan fisik santri sebagai sinyal kebutuhan bantuan.
+- Pendekatan Empatik Halus: Musyrif mendekati santri secara tenang tanpa sorotan publik, menanyakan kondisi kesehatannya secara privat.
+- Pengungkapan Fakta Medis: Santri menunjukkan alat bantu pernapasannya yang sedang dibutuhkan saat dada terasa sesak.
+- Resolusi Tepat Cepat: Musyrif segera memfasilitasi pertolongan medis ke poskestren dan menunda ujian santri secara beradab.
+  Kepekaan firasat berhasil menyelamatkan keselamatan fisik santri tanpa melukai martabatnya.
 ```
 
 ---

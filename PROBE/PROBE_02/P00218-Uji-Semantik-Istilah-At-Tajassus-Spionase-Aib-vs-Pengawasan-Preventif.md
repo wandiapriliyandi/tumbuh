@@ -101,15 +101,15 @@ KASUS: Tercium bau asap rokok samar-samar di lorong lantai dua asrama putra seki
   musyrif membara dan santri belajar cara menyembunyikan rokok yang lebih canggih di masa depan.
 
 [ PENDEKATAN AR-RI'AYAH PREVENTIF TUMBUH ]:
-- Musyrif mengetuk pintu kamar secara tegas dan santun seraya mengucapkan salam dengan suara jelas:
-  "Assalamu'alaikum, ikhwah kamar 204, mohon dibuka pintunya, musyrif hendak melakukan kontrol malam."
-- Pintu dibuka oleh santri. Musyrif masuk secara beradab, menyalakan lampu kamar, dan menyampaikan fakta inderawi:
-  "Ustadz mencium bau asap rokok yang kuat di lorong depan kamar ini. Sebagai pengasuh, ustadz bertanggung jawab
-  menjaga kesehatan udara dan keselamatan kamar antum dari bahaya kebakaran."
-- Pemeriksaan Transparan: Musyrif meminta ketua kamar mendampingi untuk memeriksa asbak atau puntung rokok di tempat sampah kamar.
-  Jika santri mengaku, barang bukti diserahkan secara sukarela. Musyrif tidak membongkar diary atau barang intim santri.
-- Resolusi Edukatif: Dialog empat mata dilakukan keesokan harinya di ruang pembinaan; fokus pada kesehatan paru-paru dan
-  komitmen adab tanpa caci maki. Privasi santri dihormati, pelanggaran ditangani, dan wibawa pengasuh tetap terjaga mulia.
+- Prosedur Kontrol Terbuka: Musyrif mengetuk pintu kamar secara tegas dan santun seraya mengucap salam terbuka,
+  memberi jeda waktu yang cukup bagi penghuni kamar untuk merapikan pakaian sebelum pintu dibuka.
+- Penyampaian Fakta Inderawi Objektif: Setelah dipersilakan masuk, musyrif menyalakan lampu kamar dan menyampaikan
+  indikasi bau asap yang tercium di koridor secara tenang, mengaitkannya dengan tanggung jawab keselamatan bersama dari risiko kebakaran.
+- Pemeriksaan Partisipatif & Transparan: Musyrif meminta ketua kamar mendampingi pengecekan area umum kamar dan tempat sampah,
+  menghindari penggeledahan loker pribadi atau buku harian santri.
+- Penanganan Edukatif Restoratif: Klarifikasi dilakukan secara tertutup pada jam dinas keesokan harinya di ruang konseling,
+  berfokus pada edukasi kesehatan fisik, komitmen adab, dan pemulihan kedisiplinan tanpa caci maki di depan umum.
+  Kehormatan privasi terjaga, pelanggaran teratasi, dan wibawa pengasuh tetap dihormati secara tulus.
 ```
 
 ---

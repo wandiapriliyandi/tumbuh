@@ -103,9 +103,9 @@ UJI SARANA BARU DI PESANTREN TUMBUH:
 
 ```text
 KASUS: Pengurus pesantren hendak memodernisasi absensi shalat shubuh santri.
-       Muncul perselisihan tajam di antara para dewan asatidz:
-       - Kubu Konservatif Kaku: "Gunakan kartu manual seperti 50 tahun lalu! Mesin itu bid'ah dan merusak keikhlasan!"
-       - Kubu Modernis Ekstrem: "Pasang pemindai wajah otomatis (Face Recognition) di gerbang masjid, yang tidak terdeteksi langsung kena denda uang Rp 50.000!"
+       Muncul pertentangan paradigma di kalangan pembina:
+       - Faksi Konservatif Kaku: Menuntut pertahanan pencatatan kartu manual era puluhan tahun silam dengan anggapan bahwa adopsi teknologi merusak kemurnian keikhlasan.
+       - Faksi Teknokrasi Ekstrem: Mengusulkan pemindai wajah otomatis tanpa sentuhan figur musyrif, disertai denda finansial instan bagi santri yang tidak terdeteksi.
 
 [ EVALUASI KESALAHAN KEDUA KUBU ]:
 - Kubu Konservatif menyakralkan kertas manual yang sebetulnya lambat dan rawan manipulasi tanda tangan palsu.

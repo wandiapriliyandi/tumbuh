@@ -95,13 +95,13 @@ KASUS: Santri Zayd (Kelas 8) yang biasanya disiplin tiba-tiba selama dua pekan s
        dan nilai ujian hariannya anjlok drastis.
 
 [ PENDEKATAN POSITIVISME KERING ]:
-- Musyrif melihat metrik logbook: "Zayd tidur 6 kali di kelas, nilai di bawah KKM 3 kali berturut-turut."
-- Tindakan mekanis: Diberi poin pelanggaran -30, diwajibkan berdiri di depan kelas, dan dikirim surat peringatan ke wali santri.
-- Akibat: Zayd merasa dipermalukan; ia semakin depresi dan mengurung diri karena penyebab aslinya tidak pernah digali.
+- Reduksi Metrik Mekanis: Musyrif hanya membaca angka logbook mengenai frekuensi tidur di kelas dan penurunan nilai di bawah KKM.
+- Tindakan Punitif Formalistik: Pemberian poin pelanggaran dan surat peringatan tanpa investigasi latar belakang fisik santri.
+- Akibat Institusional: Santri merasa terhakimi secara mekanis, mengalami kecemasan mendalam, dan menutup diri dari lingkungan.
 
 [ PENDEKATAN MISTIS SUBJEKTIF ]:
-- Musyrif mengira-ngira: "Zayd ini hatinya sedang kotor, pasti ada dosa maksiat tersembunyi yang dilakukannya."
-- Tindakan: Dituduh tidak ikhlas belajar dan disuruh membaca istighfar ribuan kali tanpa ditanya masalahnya.
+- Vonis Spekulatif Batin: Musyrif mengasumsikan penurunan prestasi disebabkan oleh kekotoran hati atau dosa tersembunyi santri.
+- Tindakan Tanpa Solusi Riil: Santri dibebani sanksi ritual sepihak tanpa pemeriksaan kesehatan jasmani atau faktor lingkungan kamar.
 
 [ PENDEKATAN INTEGRATIF TUMBUH (HAWAS SALIMAH + HIKMAH) ]:
 - Pengamatan Empiris: Musyrif mencatat fakta fisik tidur di kelas sebagai data awal yang valid (bukan prasangka).
