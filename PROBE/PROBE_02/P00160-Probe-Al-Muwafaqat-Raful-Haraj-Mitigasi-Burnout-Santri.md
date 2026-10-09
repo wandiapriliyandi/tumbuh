@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00160`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Prinsip *Raf'ul Haraj* (Mengangkat Kesempitan/Kepayahan Berlebihan), *Al-Qashdu fil 'Amal* (Moderasi dan Proporsionalitas Beban Ibadah), dan Larangan Ghuluw dalam Kitab *Al-Muwafaqat fi Ushulisy Syari'ah* karya Imam Abu Ishaq Asy-Syathibi.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Asy-Syathibi membuktikan secara induktif (*istiqra' ma'nawi*) bahwa syariat Islam dibangun di atas asas meniadakan masyaqqah yang di luar kesanggupan manusia (*'adam thaqat al-mukallaf*) dan bahwa kepayahan bukanlah tujuan ibadah (*al-masyaqqah laysat bi maqshudah lisy-syari'*?

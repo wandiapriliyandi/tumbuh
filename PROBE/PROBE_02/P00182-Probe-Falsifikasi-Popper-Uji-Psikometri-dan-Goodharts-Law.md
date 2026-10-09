@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00182`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Falsifikasionisme Karl Popper dalam Menguji Validitas Rubrik Perilaku PBIS, Skala Pengukuran Fitrah, dan Instrumen Psikometri Santri: Membongkar Falasi Metrik Pembenaran Diri (*Self-Justifying Metrics* & *Goodhart's Law*) di Asrama 24 Jam.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana prinsip *falsifiability* (keterbantahan) Karl Popper diterapkan untuk menguji instrumen evaluasi perilaku santri agar tidak terjebak dalam *circular reasoning* di mana instrumen selalu membenarkan asumsi awal pembuatnya?

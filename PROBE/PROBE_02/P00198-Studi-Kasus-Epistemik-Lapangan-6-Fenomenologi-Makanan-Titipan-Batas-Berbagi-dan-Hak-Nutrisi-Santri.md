@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00198`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 6: Fenomena Hilangnya Makanan/Bekal Titipan Orang Tua di Kamar Asrama (*The Missing Care-Package Dilemma*), Benturan Antara Tekanan Sosial Berbagi (*Forced Altruism / Toxic Communal Sharing*) Melawan Hak Asasi Nutrisi & Ikatan Emosional Keluarga Santri, serta Desain Tata Kelola Logistik Makanan Sehat di Asrama TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana fenomena "habisnya bekal makanan dalam hitungan menit" terjadi di asrama: mengapa santri yang baru dijenguk orang tuanya sering dipaksa menyerahkan seluruh bekalnya kepada senior/teman sekamar, dan dicap "kikir/bakhil" jika berani menyembunyikan sebagian untuk persediaan mingguan?

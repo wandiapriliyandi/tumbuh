@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00191`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Desain Sekuensial Eksploratori (*Exploratory Sequential Mixed-Methods Design* - QUAL ➔ QUAN), Ekstraksi Kearifan Tacit (*Tacit Knowledge*) dari Sesepuh & Kyai Pengasuh Sepuh Melalui Pendekatan Fenomenologi Islam (*Grounded Theory*), dan Transformasi Hikmah Klasik Menjadi Skala Psikometri Adab Santri yang Tervalidasi Tanpa Tercemar Kolonialisme Metodologis Barat.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa adopsi langsung instrumen psikometri barat (seperti inventori kepribadian Big Five, grit scale, atau kuesioner perilaku adaptif) sering kali mengalami bias kultural dan gagal menangkap esensi spiritual santri seperti adab tawadhu', khasy-yah, dan ikhlas?

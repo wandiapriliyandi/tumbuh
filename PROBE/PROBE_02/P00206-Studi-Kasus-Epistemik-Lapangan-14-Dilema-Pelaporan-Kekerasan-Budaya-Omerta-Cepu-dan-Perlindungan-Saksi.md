@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00206`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 14: Subkultur Bungkam Asrama (*The Code of Silence / Omerta Budaya Santri*), Stigmatisasi Sosial Santri Pelapor Kekerasan ("Cepu / Pengkhianat / Tukang Ngadu"), Teror Balas Dendam Fisik Pasca-Pelaporan (*Retaliation & Peer Intimidation*), dan Rekayasa Sistem Perlindungan Saksi & Korban Santri (*Whistleblower Safeguarding Protocol*).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana norma bawah tanah kelompok sebaya (*peer group code*) di asrama berhasil mengkriminalisasi tindakan mulia amar ma'ruf nahi munkar: mengapa santri yang melaporkan kekerasan fisik atau perundungan justru dikucilkan dan dicap "cepu", sementara pelaku kekerasan diagungkan sebagai "ksatria yang kompak"?

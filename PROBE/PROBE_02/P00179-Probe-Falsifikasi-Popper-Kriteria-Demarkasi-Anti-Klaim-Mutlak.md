@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00179`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Prinsip Falsifikasi (*Falsificationism*), Masalah Demarkasi Sains vs Pseudo-Sains (*The Problem of Demarcation*), dan Larangan Klaim Kebenaran Mutlak yang Kebal Uji (*Unfalsifiable Claims*) karya Sir Karl Popper (1902–1994) dalam Mengevaluasi Asumsi Pengasuhan Asrama Pesantren.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Karl Popper merumuskan bahwa sebuah teori hanya bernilai ilmiah (*scientific*) jika ia terbuka untuk diuji, memiliki potensi untuk salah (*falsifiable*), dan secara spesifik menyatakan kondisi empiris apa yang dapat membantahnya; serta bagaimana beliau mengkritik pseudo-sains yang selalu mencari pembenaran (*verification bias*) dan kebal dari penyangkalan?

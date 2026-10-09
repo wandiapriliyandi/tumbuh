@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00178`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Doktrin Kritik Eksplanatori (*Explanatory Critique*), Pelepasan dari Ilusi Menindas (*Emancipation from False Beliefs*), dan Transisi dari 'Fakta' Menuju 'Nilai' (*From Is to Ought*) dalam *Critical Realism* Roy Bhaskar (1944–2014) dalam Merekonstruksi Sistem Disiplin Asrama Pesantren.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Roy Bhaskar meruntuhkan dikotomi fakta-nilai (*fact-value dichotomy / Hume's Guillotine*) melalui konsep *Explanatory Critique*: membuktikan bahwa ketika sains sosial berhasil menjelaskan bahwa suatu keyakinan keliru (*false belief*) sengaja diproduksi dan dilanggengkan oleh struktur sosial tertentu demi melanggengkan penindasan, maka sains secara niscaya memiliki mandat moral untuk mengubah struktur tersebut (*explanatory critique entails moral imperative to change*)?

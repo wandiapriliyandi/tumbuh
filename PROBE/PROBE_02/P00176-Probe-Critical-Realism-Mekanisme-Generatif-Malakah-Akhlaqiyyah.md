@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00176`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Konsep Kekuatan Kausal (*Causal Powers*), Mekanisme Generatif (*Generative Mechanisms*), Teori Penyembulan (*Emergence*), dan Transformasi Struktur Sosial dalam *Critical Realism* Roy Bhaskar (1944–2014) dalam Menjelaskan Terbentuknya *Malakah Akhlaqiyyah* (Karakter Menetap) Santri.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana konsep *Generative Mechanisms* (kekuatan laten yang melekat pada esensi suatu entitas untuk memicu peristiwa nyata) dalam *Critical Realism* menjelaskan proses pembentukan karakter santri: mengapa pengulangan perilaku lahiriah (*habituasi mekanis*) belum tentu menghasilkan karakter yang kokoh jika mekanisme batinnya (*niat, pemaknaan fitrah, dan relasi sosial*) tidak tersentuh?

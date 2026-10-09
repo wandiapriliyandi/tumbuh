@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00205`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 13: Fenomena Penyelundupan Surat Cinta (*Secret Love Letters / Ghiram Remaja Asrama*), Jebakan Histeria Moral Pengasuh (*Moral Panic*) yang Menyamakan Surat Cinta dengan Kejahatan Zina Besar, Erosi Pemahaman atas Fitrah Perkembangan Biopsikososial Santri Baligh, dan Rekonstruksi Bimbingan Afeksi Berbasis Hikmah Nabawiyyah (*Tawjih al-Mayl al-Fithri*).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa penemuan secarik kertas surat cinta antara santri putra dan santriwati putri di banyak pesantren konvensional direspon dengan kepanikan histeris: kedua santri langsung diarak, dicukur gundul, dipajang di depan umum, atau dikeluarkan (*Drop Out*) seolah-olah telah melakukan pembunuhan berencana?

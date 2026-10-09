@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00165`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Kritik terhadap Kemandulan Silogisme Logika Formal Aristotelian (*Naqdh Al-Mantiq Ash-Shuri*) dan Rekonstruksi Nalar Argumentasi Al-Qur'an (*Qiyas Al-Aula, Qiyas Ad-Dilalah, wa Qiyas Asy-Syibh*) dalam Kitab *Dar'u Ta'arudh Al-'Aql wan-Naql* karya Syaikhul Islam Ibnu Taimiyyah.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa Ibnu Taimiyyah mengkritik silogisme formal Aristotelian (*Qiyas Asy-Syumul*) sebagai model nalar yang tautologis dan mandul—hanya berputar-putar pada apa yang sudah diketahui dalam premis mayor tanpa menambah pengetahuan empiris baru—dan bagaimana Al-Qur'an menawarkan metode pembuktian yang jauh lebih hidup melalui *Qiyas Al-Aula*?

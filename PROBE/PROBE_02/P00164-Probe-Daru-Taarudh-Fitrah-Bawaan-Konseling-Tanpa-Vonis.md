@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00164`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Konsep *Al-Fithrah Al-Munazzalah* (Fitrah Bawaan yang Hanif), *Al-Ma'rifah Al-Fithriyyah* (Pengetahuan Akal Bawaan sebelum Datangnya Nash Khusus), dan Penolakan Doktrin Tabula Rasa Kering dalam Kitab *Dar'u Ta'arudh Al-'Aql wan-Naql* karya Syaikhul Islam Ibnu Taimiyyah.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Ibnu Taimiyyah membuktikan dalam *Dar'u Ta'arudh* bahwa manusia lahir bukan sebagai kertas kosong tanpa arah (*tabula rasa*), melainkan dibekali fitrah primer yang condong secara inheren kepada kebenaran, keadilan, dan ma'rifatullah?

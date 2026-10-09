@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00195`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 3: Dilema Perilaku Mengambil Barang Orang Lain Berulang Kali (*Recurrent Taking of Property*), Demarkasi Epistemik Antara Gangguan Kontrol Impuls Medis (*Kleptomania / ICD-11 & DSM-5*) Melawan Pencurian Kriminal Bermotif Keuntungan (*As-Sariqah al-Jinaiyyah*), Batalnya Unsur Tanggung Jawab Pidana Syar'i (*Raf'ul Qalam & Sukuth al-Uqubah*), dan Protokol Penanganan Klinis-Terapeutik Tanpa Stigmatisasi Asrama.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana membedakan secara tajam antara pencurian biasa (yang didorong oleh motif keserakahan, kebutuhan materiil, atau niat memperkaya diri) dan gangguan kleptomania (yang didorong oleh ketegangan neurobiologis tak tertahankan yang mereda setelah mengambil barang yang sering kali sama sekali tidak dibutuhkan atau tidak berharga)?

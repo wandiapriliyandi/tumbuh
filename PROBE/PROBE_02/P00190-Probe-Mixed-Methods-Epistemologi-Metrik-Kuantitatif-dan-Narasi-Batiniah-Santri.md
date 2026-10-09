@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00190`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Metodologi Riset Terpadu (*Mixed-Methods Research* - John W. Creswell & Abbas Tashakkori), Rekonsiliasi Epistemik Antara Positivisme Kuantitatif (Angka PBIS, Poin Pelanggaran, Jam Mutala'ah) dan Hermeneutika Kualitatif (Catatan Batin Musyrif, Kedalaman Ukhuwah, Makna Doa Santri), serta Desain Penilaian Holistik Ekosistem Asrama 24 Jam.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa evaluasi pembinaan asrama yang hanya mengandalkan angka statistik kuantitatif (*pure quant*) buta terhadap kedalaman dinamika jiwa santri, sementara evaluasi yang murni mengandalkan intuisi kualitatif tanpa angka (*pure qual*) rentan terhadap subjektivitas dan bias konfirmasi pengasuh?

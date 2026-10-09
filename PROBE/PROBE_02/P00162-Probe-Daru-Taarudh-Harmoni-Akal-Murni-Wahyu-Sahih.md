@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00162`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Tesis Sentral Harmoni Akal Murni (*Al-'Aql Ash-Sharih*) dan Wahyu Sahih (*An-Naql Ash-Shahih*) serta Penolakan Doktrin Pertentangan Akal-Wahyu (*Al-Qanun Al-Kulli*) dalam Kitab *Dar'u Ta'arudh Al-'Aql wan-Naql* karya Syaikhul Islam Taqiyyuddin Ahmad bin Taimiyyah (w. 728 H).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Ibnu Taimiyyah membongkar *Al-Qanun Al-Kulli* (kaidah universal teolog kalam yang mendahulukan akal di atas wahyu saat tampak bertentangan) dan membuktikan bahwa pertentangan hakiki antara akal sehat dan dalil sahih adalah kemustahilan ontologis dan epistemologis?

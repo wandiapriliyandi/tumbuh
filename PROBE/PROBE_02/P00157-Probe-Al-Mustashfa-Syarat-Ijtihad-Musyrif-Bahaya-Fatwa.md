@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00157`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Syarat Kapasitas Ijtihad (*Syuruth Al-Ijtihad*), Adab Berfatwa (*Adab Al-Mufti*), dan Bahaya Fatwa Liar Tanpa Kapasitas Keilmuan dalam Kutub Keempat Kitab *Al-Mustashfa min 'Ilmil Ushul* karya Hujjatul Islam Imam Abu Hamid Al-Ghazali.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Al-Ghazali merumuskan syarat-syarat mujtahid (penguasaan nash Al-Qur'an dan Sunnah, ilmu nasikh-mansukh, ijma', qiyas, bahasa Arab, dan kondisi realitas lapangan) dalam *Al-Mustashfa*?

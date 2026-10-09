@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00187`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Teori Ketidakadilan Epistemik (*Epistemic Injustice*) Miranda Fricker, Fokus Khusus: Ketidakadilan Kesaksian (*Testimonial Injustice*), Fenomena Defisit Kredibilitas (*Credibility Deficit*) Berbasis Kasta Senioritas di Asrama, dan Protokol Syar'i Tabayyun Adil Tanpa Bias Usia.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Miranda Fricker mendefinisikan *Testimonial Injustice* sebagai bentuk kezaliman etis dan epistemik di mana kesaksian seseorang dipotong nilai kredibilitasnya semata-mata karena prasangka identitas (*prejudice*) yang melekat pada status sosialnya?

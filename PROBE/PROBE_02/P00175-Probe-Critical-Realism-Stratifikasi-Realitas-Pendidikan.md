@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00175`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Ontologi Realisme Kritis (*Critical Realism*) dan Teori Stratifikasi Tiga Lapis Realitas (*The Empirical, The Actual, and The Real*) karya Roy Bhaskar (1944–2014) dalam Mendekonstruksi Positivisme Kering Pengasuhan Asrama Pesantren.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Roy Bhaskar meruntuhkan kekeliruan epistemik positivisme (*epistemic fallacy*—mereduksi apa yang ada/ontologi menjadi sekadar apa yang dapat diamati manusia/epistemologi) melalui pembedaan tiga domain realitas: *The Empirical* (persepsi teramati), *The Actual* (peristiwa yang terjadi baik teramati maupun tidak), dan *The Real* (mekanisme kausal generatif yang tak kasat mata)?

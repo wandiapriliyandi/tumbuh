@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00201`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 9: Pertarungan Syar'i Antara Keutamaan Menutup Aib Pribadi Saudara Muslim (*Fadhilatus Satr*) Melawan Kewajiban Melindungi Keselamatan Komunitas (*Daf'u Adh-Dharar / Mandatory Reporting*), Batas Kerahasiaan Sesi Curhat/Konseling Guru BK, dan Desain Protokol Eskalasi Bertingkat Penanganan Aib Moral Santri.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana musyrif atau guru BK sering mengalami disonansi etis akut: di satu sisi terikat hadits *"Barangsiapa menutup aib saudaranya maka Allah menutup aibnya"*, namun di sisi lain berhadapan dengan aturan yayasan yang menuntut pelaporan tertulis terbuka atas setiap pelanggaran santri?

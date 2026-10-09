@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00161`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** *Maqashid Al-Mukallaf* (Kesesuaian Niat Hamba dengan Kehendak Syariat) dan Pembongkaran Bahaya *Al-Hiyal Asy-Syar'iyyah* (Trik/Manipulasi Legalitas untuk Mengakali Aturan) dalam Kitab *Al-Muwafaqat fi Ushulisy Syari'ah* karya Imam Abu Ishaq Asy-Syathibi.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Asy-Syathibi merumuskan kaidah wajibnya keselarasan antara maksud mukallaf (*qashdul mukallaf*) dan maksud pembuat syariat (*qashdusy syari'*), di mana amalan yang secara lahiriah tampak sah namun diniatkan untuk membatalkan hakikat hukum dinyatakan batil secara syar'i?

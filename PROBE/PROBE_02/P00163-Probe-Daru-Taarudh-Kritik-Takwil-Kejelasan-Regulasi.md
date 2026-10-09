@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00163`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Kritik Tajam terhadap Hermeneutika Takwil Arbitrer (*At-Ta'wil Al-Fasid*) dan Tuntutan Makna Hakiki yang Lugas (*Bayan al-Ma'na al-Haqiqi*) dalam Kitab *Dar'u Ta'arudh Al-'Aql wan-Naql* karya Syaikhul Islam Ibnu Taimiyyah.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Ibnu Taimiyyah membedakan antara takwil menurut istilah salaf (yaitu tafsir penjelasan dan hakikat realitas yang diwujudkan) versus takwil menurut istilah mutakallimin (yaitu membelokkan lafal dari makna lahiriah yang rajih menuju makna marjuh tanpa qarinah yang qath'i)?

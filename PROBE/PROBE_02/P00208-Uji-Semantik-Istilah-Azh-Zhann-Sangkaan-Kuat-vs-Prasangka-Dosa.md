@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00208`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `Azh-Zhann` (الظَّنُّ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Ushul Fiqih Istilah Kanonik `Azh-Zhann`, Pembedaan Antara Sangkaan Kuat Terukur (*Ghalabatuzh Zhann*) yang Sah Menjadi Dasar Hukum Muamalah Melawan Prasangka Liar Tanpa Bukti (*Az-Zhur / Su'uzh-Zhann*) yang Diharamkan Al-Qur'an, dan Standarisasi Pengambilan Keputusan Disiplin di Pesantren TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00209`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `Asy-Syakk` (الشَّكُّ) & `Al-Wahm` (الوَهْمُ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Epistemologis Istilah Kanonik `Asy-Syakk` (Keraguan Simetris 50:50) dan `Al-Wahm` (Dugaan Lemah Spekulatif <50%), Penerapan Kaidah Ushul Fikih Agung *"Al-Yaqinu La Yazulu Bisy-Syakk"* (Keyakinan Tidak Dapat Dihapus oleh Keraguan), dan Pengharaman Menjatuhkan Vonis Pelanggaran Asrama Berdasarkan Bukti yang Berstatus Ragu atau Asumsi Lemah.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

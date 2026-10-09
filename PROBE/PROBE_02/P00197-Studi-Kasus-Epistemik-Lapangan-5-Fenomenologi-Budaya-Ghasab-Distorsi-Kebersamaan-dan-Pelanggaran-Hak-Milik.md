@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00197`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 5: Fenomenologi Budaya *Ghasab* (Mengambil/Memakai Barang Milik Teman Tanpa Izin dengan Asumsi Maklum), Distorsi Semantik yang Membungkus Pelanggaran Hak Milik dengan Jubah "Kebersamaan / Jiwa Korsa Santri", Erosi Batas Kepemilikan Pribadi (*Boundary Erosion*), dan Desain Rekayasa Ekosistem *Hurmatul Milkiyyah* (Sakralitas Hak Milik Pribadi) di Pesantren TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana kebiasaan mengambil barang teman tanpa izin (seperti sendal jepit wudhu, gayung mandi, gantungan baju, hingga sabun cuci) dinormalisasi di banyak asrama dengan dalih *"santri itu semuanya milik bersama"*, dan bagaimana normalisasi ini menjadi pintu gerbang degradasi moral menuju pencurian nyata?

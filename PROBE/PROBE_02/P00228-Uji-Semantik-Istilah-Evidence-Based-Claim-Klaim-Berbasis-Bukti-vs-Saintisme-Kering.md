@@ -12,8 +12,6 @@
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00228`
 
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
-
 - **Istilah yang Diuji:** `Evidence-Based Claim`
 
 - **Topik Utama:** Menegakkan Klaim Berbasis Bukti Tanpa Terjebak Saintisme Kering dalam Kebijakan Pesantren

@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00204`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 12: Penanganan Dugaan Pelanggaran Asusila/Seksualitas Remaja di Asrama (*Adolescent Sexual Misconduct Investigations*), Benturan Epistemik Antara Kebutuhan Mengetahui Fakta Materiil (*Tatsabbut al-Waqi'ah*) Melawan Larangan Syar'i Menggali Rincian Vulgar Porno (*Isya'at al-Fahsya'*), Bahaya Reviktimisasi dan Voyeurisme Spiritual Pengasuh, serta Protokol Wawancara Forensik Sensitif Trauma (*Trauma-Informed Forensic Protocol*).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana proses interogasi kasus asusila di banyak pesantren sering kali tergelincir menjadi tindakan eksploitasi verbal di mana pengasuh memaksa santri menceritakan detail gerakan fisik intim secara grafis dan vulgar yang menjijikkan?

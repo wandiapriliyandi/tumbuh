@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00186`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Teori Thomas Kuhn tentang Sains Normal Pasca-Revolusi (*Post-Revolutionary Normal Science*), Fenomena Pembekuan Paradigma (*Institutional Sclerosis*), dan Perancangan Mekanisme Pembaruan Diri Berkelanjutan (*Self-Renewing Inquiry Engine*) agar Sistem TUMBUH Tidak Menjadi Dogma Tertutup yang Memfosil di Masa Depan.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Thomas Kuhn mendeskripsikan fase pasca-revolusi ilmiah ketika sebuah paradigma baru berhasil memenangkan hegemoni, dan mengapa fase ini selalu membawa risiko pembakuan ortodoksi baru yang menindas pertanyaan-pertanyaan segar di kemudian hari?

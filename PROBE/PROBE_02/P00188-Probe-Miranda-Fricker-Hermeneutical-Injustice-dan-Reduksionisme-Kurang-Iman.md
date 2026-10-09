@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00188`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Teori Ketidakadilan Hermeneutis (*Hermeneutical Injustice*) Miranda Fricker, Kekosongan Sumber Daya Konseptual Kolektif (*Collective Hermeneutical Lacuna*) di Pesantren, Bahaya Pelabelan Reduksionis ("Kurang Iman", "Kerasukan", "Manja") terhadap Gejala Depresi/Trauma Santri, dan Rekonstruksi Kosakata Emosi Berbasis Turats & Neurosains.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Miranda Fricker mendefinisikan *Hermeneutical Injustice* sebagai situasi tragis di mana seseorang mengalami penderitaan nyata namun tidak mampu menjelaskan penderitaannya secara sosial—atau bahkan kepada dirinya sendiri—karena bahasa kolektif komunitasnya tidak memiliki kategori untuk memahami pengalaman tersebut?

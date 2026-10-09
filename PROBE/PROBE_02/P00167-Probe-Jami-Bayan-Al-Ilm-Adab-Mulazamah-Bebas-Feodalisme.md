@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00167`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Etika Transmisi Ilmu, Adab *Al-Mulazamah* (Pendampingan Guru-Murid 24 Jam), dan Penolakan Feodalisme Kultus Pribadi dalam Kitab *Jami' Bayan Al-'Ilm wa Fadhlih* karya Al-Hafizh Al-Imam Ibnu 'Abdil Barr Al-Andalusi.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Ibnu 'Abdil Barr mendudukkan relasi adab antara guru (*syaikh/mu'allim*) dan murid (*muta'allim*) yang berakar pada keteladanan wibawa moral (*haibah al-haqq*) dan kasih sayang kebapakan, seraya menolak keras kultus individu yang membabi buta (*al-ghuluw fit ta'zhim*)?

@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00169`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Etika Menyikapi Perbedaan Pendapat Ilmiah (*Adab Al-Ikhtilaf*), Pembongkaran Bahaya Fanatisme Buta Madzhab (*Dzammu At-Ta'ashshub Al-A'ma*), dan Kewajiban Menuntut Hujjah Ilmiah dalam Kitab *Jami' Bayan Al-'Ilm wa Fadhlih* karya Al-Hafizh Al-Imam Abu 'Umar Ibnu 'Abdil Barr Al-Andalusi.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Ibnu 'Abdil Barr membedakan antara ikhtilaf yang sah dan terpuji (perbedaan ijtihad para fuqaha yang berlandaskan dalil dan bertujuan mencari kebenaran) versus *al-furuq wal iftiraq* (perpecahan tercela yang dipicu oleh hawa nafsu dan fanatisme sektarian)?

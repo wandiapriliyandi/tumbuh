@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00202`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 10: Praktik Razia/Sidak Massal Mendadak (*Sudden Mass Dormitory Raids*), Pembongkaran Kasar Lemari dan Kasur Santri oleh Tim Keamanan, Dampak Trauma Pelanggaran Rasa Aman (*Violation of Psychological Sanctuary*), Perusakan Barang Pribadi, dan Rekonstruksi Paradigma Menuju Inspeksi Kebersihan Terjadwal (*Scheduled Adab & Hygiene Review*).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana tradisi razia/sidak mendadak yang diwarisi dari model militeristik menciptakan mentalitas narapidana di asrama: mengapa tindakan membongkar isi lemari hingga berhamburan di lantai saat santri sedang belajar di kelas justru memicu dendam sosial dan sinisme santri kepada pengasuh?

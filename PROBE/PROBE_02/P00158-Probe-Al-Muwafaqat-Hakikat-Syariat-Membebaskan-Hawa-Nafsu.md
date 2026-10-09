@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00158`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Hakikat Syariat sebagai Sarana Mengeluarkan Hamba dari Dorongan Hawa Nafsu (*Ikhraj al-Mukallaf 'an Da'iyat Hawahu*) dalam Kitab *Al-Muwafaqat fi Ushulisy Syari'ah* karya Imam Abu Ishaq Ibrahim bin Musa Asy-Syathibi (w. 790 H).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Asy-Syathibi merumuskan tujuan paling fundamental dari pensyariatan hukum (*Maqshidus Syari'ah al-A'dzam*): mengeluarkan manusia dari jeratan hawa nafsu menuju penghambaan sukarela kepada Allah (*liyakuna 'abdan lillahi ikhtiyaran kama huwa 'abdun lahu idhthiraran*)?

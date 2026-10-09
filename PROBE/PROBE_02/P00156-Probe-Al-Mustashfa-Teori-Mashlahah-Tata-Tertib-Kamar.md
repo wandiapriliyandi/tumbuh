@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00156`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Teori *Al-Mashlahah* (Klasifikasi *Mu'tabarah*, *Mulghah*, dan *Mursalah* serta Tiga Tingkatan Kebutuhan: *Dharuriyyat*, *Hajiyyat*, *Tahsiniyyat*) dalam Kitab *Al-Mustashfa min 'Ilmil Ushul* karya Hujjatul Islam Imam Abu Hamid Al-Ghazali.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Al-Ghazali mendefinisikan *mashlahah* bukan sekadar penurutan hawa nafsu atau kenyamanan pragmatis, melainkan *"Muhafazhatu 'ala maqshudisy syar'"* (menjaga tujuan syariat yang lima: agama, jiwa, akal, keturunan, dan harta)?

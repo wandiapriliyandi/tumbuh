@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00199`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 7: Pengelolaan Keuangan Informal di Kamar Asrama (Uang Kas Kamar), Fenomena Hilangnya Dana Bersama Akibat Ketiadaan Pembukuan (*Accountability Void*), Jebakan Solusi Purba "Sumpah Bersama di Bawah Mushaf Al-Qur'an (*Al-Yamin al-Jama'iyyah*)", dan Perancangan Sistem Pembukuan Syar'i Terbuka (Adab Mini-Finansial Santri).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana pengumpulan uang kas kamar yang awalnya bertujuan mulia (membeli sapu, sabun cuci piring, atau menjenguk teman sakit) sering kali berubah menjadi bencana perselisihan ketika uang disimpan di kaleng bekas tanpa catatan pembukuan rapi oleh bendahara kamar?

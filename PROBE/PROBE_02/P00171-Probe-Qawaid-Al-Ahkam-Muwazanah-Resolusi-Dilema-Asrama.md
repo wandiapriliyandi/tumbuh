@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00171`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Kaidah Penimbangan Derajat Maslahat Bertingkat (*Rutab Al-Mashalih*), Penanganan Benturan Maslahat dan Mafsadat (*Idza Ta'aradhat Al-Mashalih wal Mafasid*), serta Pemilihan Risiko Terkecil (*Irtikab Akhaf adh-Dhararayn*) dalam Kitab *Qawa'id Al-Ahkam fi Mashalih Al-Anam* karya Sulthanul 'Ulama Imam 'Izzuddin bin 'Abdissalam.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam 'Izzuddin menyusun algoritma ushul fikih ketika dua maslahat saling berbenturan dan tidak bisa diambil keduanya sekaligus (*Idza tazahamatil mashalih quddima a'lahâ*), atau ketika dua bahaya berbenturan dan tidak bisa dihindari keduanya sekaligus (*Idza tazahamatil mafasid quddima akhāffuhâ*)?

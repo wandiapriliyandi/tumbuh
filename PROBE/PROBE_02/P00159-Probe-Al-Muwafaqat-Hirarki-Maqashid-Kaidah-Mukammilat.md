@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00159`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Hirarki Tiga Tingkatan Kebutuhan (*Kulliyyat Ats-Tsalats: Adh-Dharuriyyat, Al-Hajiyyat, dan At-Tahsiniyyat*) serta Kaidah Penjaga Pelengkap (*Mukammilat al-Maqashid*) dalam Kitab *Al-Muwafaqat fi Ushulisy Syari'ah* karya Imam Abu Ishaq Asy-Syathibi.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Asy-Syathibi merumuskan hubungan fungsional dan struktural antara Dharuriyyat, Hajiyyat, dan Tahsiniyyat, di mana tingkatan yang lebih rendah berfungsi melengkapi (*mukammil*) tingkatan di atasnya?

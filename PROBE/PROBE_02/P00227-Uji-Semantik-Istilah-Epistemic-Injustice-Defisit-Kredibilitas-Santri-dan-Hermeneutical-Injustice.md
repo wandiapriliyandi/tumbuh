@@ -12,8 +12,6 @@
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00227`
 
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
-
 - **Istilah yang Diuji:** `Epistemic Injustice`
 
 - **Topik Utama:** Membongkar Defisit Kredibilitas Santri dan Memulihkan Keadilan Hermeneutis dalam Pengasuhan Asrama

@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00170`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Hakikat Syariat sebagai Mashalih Semata (*Kullusy Syari'ati Mashalih*), Penolakan Kerusakan (*Dar'ul Mafasid*), dan Penarikan Kebaikan (*Jalbul Mashalih*) dalam Kitab *Qawa'id Al-Ahkam fi Mashalih Al-Anam* karya Sulthanul 'Ulama Imam 'Izzuddin bin 'Abdissalam As-Sulami (w. 660 H).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam 'Izzuddin bin 'Abdissalam merumuskan tesis agungnya bahwa seluruh syariat dari awal hingga akhir hakikatnya hanya berputar pada dua hal: *"Ima dar'u mafasid au jalbu mashalih"* (entah menolak kerusakan atau menarik kemaslahatan) baik di dunia maupun di akhirat?

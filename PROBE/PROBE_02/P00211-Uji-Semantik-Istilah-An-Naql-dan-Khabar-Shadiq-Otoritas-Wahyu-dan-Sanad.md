@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00211`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `An-Naql` (النَّقْلُ) & `Khabar Shadiq` (الخَبَرُ الصَّادِقُ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Epistemologis Istilah Kanonik `An-Naql` (Transmisi Teks Wahyu) dan `Khabar Shadiq` (Kabar Benar Terverifikasi Bersanad), Kedudukan Mutlak Wahyu (*Al-Wahyu al-Ma'shum*) sebagai Sumber Epistemik Tertinggi di Atas Akal dan Indra, Metodologi Kritik Sanad & Matan Menghadapi Banjir Disinformasi / Halusinasi AI di Era Digital, dan Perancangan Standar Verifikasi Informasi Asrama TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

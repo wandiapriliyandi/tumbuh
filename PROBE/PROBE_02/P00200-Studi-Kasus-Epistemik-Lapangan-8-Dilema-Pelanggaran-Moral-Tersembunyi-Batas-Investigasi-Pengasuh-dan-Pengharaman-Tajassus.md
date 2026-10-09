@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00200`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 8: Batas Epistemik Pengawasan Moral Asrama (*Epistemic Boundaries of Moral Surveillance*), Pengharaman Mutlak Praktik Spionase (*At-Tajassus*) dan Mengintip (*At-Tashashuth*) Berdasarkan Nash Syar'i, Kisah Amirul Mukminin Umar bin Khattab dan Pemilik Rumah Peminum Khamr, serta Demarkasi Antara Ruang Publik Asrama vs Ruang Intim Kamar Tidur Santri.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana kecemasan berlebihan pengasuh terhadap potensi penyimpangan moral santri sering kali melahirkan mentalitas panoptikon dan praktik intelijen ilegal (seperti mengintip ventilasi kamar, menguping di balik pintu, atau merekrut santri mata-mata (*jasus*)) yang secara eksplisit diharamkan syariat?

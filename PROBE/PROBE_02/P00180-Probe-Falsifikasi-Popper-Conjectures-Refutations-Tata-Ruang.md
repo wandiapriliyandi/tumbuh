@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00180`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Siklus Dugaan Berani dan Penyangkalan Keras (*Conjectures and Refutations*), Metode Belajar dari Kesalahan (*Learning from Our Mistakes*), dan Etika Eksperimentasi Ruang Hidup (*Environmental Engineering Ethics*) karya Sir Karl Popper (1902–1994) dalam Menata Desain Tata Ruang Kamar Asrama Pesantren.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Karl Popper mendefinisikan kemajuan ilmu pengetahuan bukan sebagai akumulasi kepastian dogmatis, melainkan sebagai proses siklikal tiada henti: *P1 (Problem Awal) -> TT (Tentative Theory / Conjectures) -> EE (Error Elimination / Refutations) -> P2 (Problem Baru yang Lebih Mendalam)*?

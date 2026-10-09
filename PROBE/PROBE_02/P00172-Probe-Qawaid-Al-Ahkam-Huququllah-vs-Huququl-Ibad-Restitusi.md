@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00172`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Pembedaan Epistemologis antara Hak Allah yang Murni (*Huququllah Al-Khalishah*), Hak Hamba yang Murni (*Huququl 'Ibad Al-Khalishah*), Percampuran Keduanya (*Al-Murakkab Minhumā*), serta Kewajiban Ganti Rugi Restoratif (*Adh-Dhaman wal-Ibrā'*) dalam Kitab *Qawa'id Al-Ahkam fi Mashalih Al-Anam* karya Sulthanul 'Ulama Imam 'Izzuddin bin 'Abdissalam.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam 'Izzuddin membedakan secara tajam antara Hak Allah (yang berkarakteristik pemaafan, kelapangan, dan gugur dengan taubat nasuha) versus Hak Hamba (yang berkarakteristik ketat, menuntut keadilan, dan tidak gugur sebelum dimaafkan oleh pemilik hak atau diganti kerugiannya secara setara)?

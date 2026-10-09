@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00210`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `Al-Jahl` (الجَهْلُ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Mantiq Istilah Kanonik `Al-Jahl`, Distingsi Epistemologis Antara Kebodohan Sederhana (*Jahl Basith* - Ketidaktahuan Bersahaja Remaja yang Butuh Ta'lim) Melawan Kebodohan Bertingkat (*Jahl Murakkab* - Kesombongan Intelektual Semu yang Merasa Tahu Padahal Keliru), dan Desain Intervensi Pedagogis Berbeda untuk Kedua Kondisi Tersebut.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

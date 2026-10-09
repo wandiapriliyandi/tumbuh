@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00189`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Teori Miranda Fricker tentang Agensi Epistemik (*Epistemic Agency & Participatory Injustice*), Transformasi Santri dari Objek Pasif Pengaturan Menjadi Subjek Kontributor Makna Komunal, dan Pelembagaan Forum Musyawarah Syura Kamar dalam Membangun Kesepakatan Adab Bersama (*Communal Adab Covenant*).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Miranda Fricker dan filsuf kontemporer mengembangkan konsep ketidakadilan partisipatif epistemik (*epistemic participatory injustice*), yakni perampasan hak seseorang untuk ikut menyumbangkan makna, aturan, dan tafsir bagi ruang hidup yang ia tinggali sendiri?

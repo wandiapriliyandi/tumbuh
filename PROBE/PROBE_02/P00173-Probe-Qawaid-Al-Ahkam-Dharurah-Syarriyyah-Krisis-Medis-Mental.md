@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00173`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Doktrin Kedaruratan Syar'i (*Adh-Dharurah Asy-Syar'iyyah*), Pembolehan yang Terlarang demi Menyelamatkan Jiwa (*Adh-Dharuratu Tubihul Mahzhurat*), dan Batas Presisi Kedaruratan (*Adh-Dharuratu Tuqaddaru bi Qadariha*) dalam Kitab *Qawa'id Al-Ahkam fi Mashalih Al-Anam* karya Sulthanul 'Ulama Imam 'Izzuddin bin 'Abdissalam As-Sulami.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam 'Izzuddin mendefinisikan batas ambang kedaruratan (*hadd adh-dharurah*) yang membolehkan gugurnya larangan syar'i atau aturan administratif, serta bagaimana beliau mengunci kaidah tersebut dengan batasan ketat: *"Adh-dharuratu tuqaddaru bi qadariha"* (Kedaruratan hanya diukur sesuai kadar kebutuhannya yang presisi tanpa melampaui batas)?

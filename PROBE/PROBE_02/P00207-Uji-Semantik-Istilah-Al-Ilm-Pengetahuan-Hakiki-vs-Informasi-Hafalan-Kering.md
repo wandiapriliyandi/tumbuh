@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00207`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `Al-'Ilm` (العِلْمُ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Epistemologis Istilah Kanonik `Al-'Ilm`, Demarkasi Antara Pengetahuan Hakiki yang Melahirkan Kasy-yah dan Amal (*Al-'Ilm an-Nafi'*) Melawan Tumpukan Informasi Kognitif Hafalan Tanpa Daya Ubah Batin (*Information Overload / Ilm la Yanfa'*), dan Penataan Arsitektur Kurikulum Keilmuan TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

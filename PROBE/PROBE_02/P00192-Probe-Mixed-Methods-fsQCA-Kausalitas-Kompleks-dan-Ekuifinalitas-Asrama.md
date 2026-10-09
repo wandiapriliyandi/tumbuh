@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00192`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** Metodologi Riset Lintas Batas Kuantitatif-Kualitatif: Analisis Komparatif Kualitatif Himpunan Samar (*Fuzzy-Set Qualitative Comparative Analysis / fsQCA* - Charles Ragin), Pemecahan Kausalitas Kompleks (*Complex Conjunctural Causation*), Multidimensionalitas Iklim Kamar, dan Penolakan Reduksionisme Linier dalam Intervensi Disiplin Pesantren.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa model analisis regresi linier standar sering gagal menjelaskan fenomena kehidupan asrama: mengapa satu intervensi disiplin yang sama persis (misalnya: penambahan jam ta'lim malam) bisa menghasilkan kepatuhan damai di Kamar A, namun memicu kerusuhan dan stres di Kamar B?

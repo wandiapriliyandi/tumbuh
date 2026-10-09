@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00212`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `Al-'Aql as-Salim` (العَقْلُ السَّلِيمُ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Epistemologis Istilah Kanonik `Al-'Aql as-Salim` (Akal Sehat yang Terikat Tali Fitrah), Pembedaan Antara Rasionalitas Islam Berpemandu Wahyu (*Al-'Aqlaniyyah al-Islamiyyah*) Melawan Rasionalisme Otonom Sekuler (*Secular Rationalism / Antroposentrisme*), Harmoni *Dar'u Ta'arudh Al-'Aql wan-Naql* Ibn Taimiyyah, dan Perancangan Pembinaan Nalar Kritis Beradab bagi Santri TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

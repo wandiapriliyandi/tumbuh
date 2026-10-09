@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00230`
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
 - **Istilah yang Diuji:** `Al-Hikmah` (الحِكْمَةُ)
 - **Topik Utama:** Audit Semantik, Filologis, dan Epistemologis Istilah Kanonik `Al-Hikmah` sebagai Mahkota Penutup Klaster Epistemologi (PROBE_02): Mendudukkan Kebijaksanaan Pengasuhan antara Bahaya Kompromisme Permisif (*Toxic Compromise*) dan Bahaya Rigiditas Otoriter (*Ruthless Rigidity*), serta Perumusan Matriks Kebijaksanaan Pengasuhan Pesantren 24 Jam.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**

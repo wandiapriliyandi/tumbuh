@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00203`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 11: Buku Harian (*Personal Diary/Journal*) Santri, Larangan Syar'i Membaca Tulisan Rahasia Orang Lain Tanpa Izin (*Pengharaman Melihat Kitab/Surat Saudara Muslim Tanpa Izin*), Pelanggaran Ruang Katarsis Psiko-Emosional Remaja, dan Demarkasi Antara Penyelidikan Disiplin vs Pemerkosaan Privasi Pikiran Batin (*Mental Privacy Violation*).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana musyrif atau pengurus asrama sering tergiur membuka dan membaca buku catatan harian santri saat melakukan sidak atau saat santri lupa menaruh bukunya, dengan alasan "ingin mengetahui isi hati dan memantau aqidah/moral santri"?

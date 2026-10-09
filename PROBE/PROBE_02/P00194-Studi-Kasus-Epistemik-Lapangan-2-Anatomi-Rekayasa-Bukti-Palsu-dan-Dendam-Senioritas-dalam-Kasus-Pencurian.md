@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00194`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 2: Jebakan Barang Bukti Terselip (*Framing & Planted Evidence*), Anatomi Rekayasa Tuduhan Akibat Dendam Senioritas/Kecemburuan Teman Sebaya, Kerentanan Kognitif Musyrif terhadap Bias Konfirmasi (*Confirmation Bias*), dan Protokol Pembuktian Forensik Syar'i Menembus Jebakan Fakta Semu.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana sebuah barang berharga yang hilang bisa sengaja diselipkan ke dalam lemari santri yang tidak bersalah oleh pelaku sebenarnya demi mengalihkan kecurigaan atau melampiaskan dendam sosial?

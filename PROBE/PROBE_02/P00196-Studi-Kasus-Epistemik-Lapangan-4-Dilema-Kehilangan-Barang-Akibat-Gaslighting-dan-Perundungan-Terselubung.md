@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00196`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 4: Modus Operandi Perundungan Relasional Terselubung (*Relational & Covert Bullying*), Praktik *Gaslighting* Sistemik di Kamar Asrama (Penyembunyian Barang Korban Berulang Kali untuk Merusak Kredibilitas Mentalnya), Kerentanan Pengasuh Menuduh Korban sebagai "Ceroboh/Pelupa", dan Protokol Audit Sosiometris Kamar Asrama TUMBUH.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana mekanisme manipulasi psikologis *Gaslighting* dijalankan oleh sekelompok santri dominan (*peer clique*) terhadap seorang santri sasaran: bagaimana menyembunyikan barang-barang pribadi korban secara sistematis dapat membuat korban meragukan daya ingat dan kewarasannya sendiri (*epistemic self-doubt*)?

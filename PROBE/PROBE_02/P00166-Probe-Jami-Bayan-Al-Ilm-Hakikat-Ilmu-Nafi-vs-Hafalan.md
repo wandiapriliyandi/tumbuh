@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00166`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Hakikat Ilmu yang Bermanfaat (*Al-'Ilm An-Nafi'*), Hubungan Keilmuan dan Tindakan Nyata (*Iqtidha' Al-'Ilm Al-'Amal*), serta Dekonstruksi Penumpukan Informasi Tanpa Jiwa dalam Kitab *Jami' Bayan Al-'Ilm wa Fadhlih* karya Al-Hafizh Al-Imam Abu 'Umar Yusuf bin 'Abdil Barr An-Namari Al-Qurthubi Al-Andalusi (w. 463 H).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Ibnu 'Abdil Barr mendefinisikan batas demarkasi antara ilmu hakiki yang mewariskan rasa takut kepada Allah (*khasyyatullah*) dan kepemilikan informasi tekstual kering (*al-hifzh al-mujarrad*) yang tidak mengubah perilaku penuntutnya?

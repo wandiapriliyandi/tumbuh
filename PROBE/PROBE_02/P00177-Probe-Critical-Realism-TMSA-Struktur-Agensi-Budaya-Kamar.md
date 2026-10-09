@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00177`
-- **Sub-Klaster:** 2.3 Uji Kritis Filsafat Sains Kontemporer (P00175 – P00192)
 - **Topik Utama:** *Transformational Model of Social Activity* (TMSA), Dialektika Struktur Sosial dan Agensi Insani (*Structure and Agency*), serta Teori Morfogenesis Sosial dalam *Critical Realism* Roy Bhaskar (1944–2014) dan Margaret Archer (1943–2023) dalam Memutus Rantai Toksisitas Senioritas Asrama Pesantren.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Roy Bhaskar merumuskan model TMSA: bahwa struktur sosial tidak menciptakan manusia dari ketiadaan, dan manusia tidak menciptakan struktur sosial secara bebas murni, melainkan struktur sosial telah mendahului manusia (*pre-exists*) sebagai kondisi pemungkin/penghambat, sementara manusia mereproduksi (*reproduce*) atau mentransformasi (*transform*) struktur tersebut melalui tindakan agensinya?

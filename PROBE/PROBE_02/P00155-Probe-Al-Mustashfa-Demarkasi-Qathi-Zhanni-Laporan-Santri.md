@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00155`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Demarkasi Epistemologis antara *Al-Qath'i* (Kepastian Aksiomatik/Yakin Mutlak) dan *Azh-Zhanni* (Probabilitas Terkuat/Sangkaan Rajih) dalam Kitab *Al-Mustashfa min 'Ilmil Ushul* karya Imam Abu Hamid Al-Ghazali.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Al-Ghazali membedakan antara dalil yang menghasilkan keyakinan pasti (*al-'ilm al-yaqini*) dan dalil yang hanya menghasilkan sangkaan probabilitas (*al-khabar azh-zhanni*) dalam ushul fikih?

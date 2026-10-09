@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00193`
-- **Sub-Klaster:** 2.4 Studi Kasus Epistemik Lapangan Asrama (P00193 – P00206)
 - **Topik Utama:** Studi Kasus Epistemik Lapangan Bagian 1: Insiden Kehilangan Uang/Barang Berharga di Kamar Asrama, Benturan Antara Tuduhan Berbasis Kecurigaan Subjektif (*Tuhmah*) Melawan Standar Alat Bukti Syar'i (*Al-Bayyinah*), Bahaya Interogasi Intimidatif yang Menghasilkan Pengakuan Palsu (*Forced/False Confession*), dan Rekonstruksi Protokol Penanganan Restoratif Non-Traumatik.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana kronik sosiologis tuduhan pencurian di kamar asrama sering kali berubah menjadi "perburuan penyihir (*witch-hunt*)" yang mengorbankan santri yang paling pendiam, miskin, atau rentan secara sosial?

@@ -12,8 +12,6 @@
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00229`
 
-- **Sub-Klaster:** 2.5 Uji Semantik & Audit Istilah Epistemik & Validasi (P00207 – P00230)
-
 - **Istilah yang Diuji:** `Al-Istiqamah`
 
 - **Topik Utama:** Konsistensi Integritas Adab Lahir-Batin vs Kepatuhan Mekanistik Semu Santri di Asrama

@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00153`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** *Muqaddimah Mantiqiyyah* (Pengantar Logika Aristotelian yang Diislamkan) dalam Kitab *Al-Mustashfa min 'Ilmil Ushul* karya Hujjatul Islam Imam Abu Hamid Al-Ghazali (w. 505 H).
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa Imam Al-Ghazali mewajibkan penguasaan mantiq (silogisme/burhan) sebagai pintu gerbang ilmu ushul fikih, dan mengapa beliau menyatakan: *"Man la ya'rifuhu fala tsiqata bi 'ulumihi ashlan"* (Barang siapa yang tidak menguasai mantiq, ilmunya sama sekali tidak dapat dipercaya)?

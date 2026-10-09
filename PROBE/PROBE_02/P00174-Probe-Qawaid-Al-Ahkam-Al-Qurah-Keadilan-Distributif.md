@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00174`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Doktrin Pengundian Berkeadilan (*Masyru'iyyat Al-Qur'ah*) dalam Pembagian Hak Setara (*Qismatut Tasyāwī*), Tata Kelola Amanah Harta Santri (*Wilāyatul Māl*), dan Pencegahan Favoritisme Struktural dalam Kitab *Qawa'id Al-Ahkam fi Mashalih Al-Anam* karya Sulthanul 'Ulama Imam 'Izzuddin bin 'Abdissalam As-Sulami.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam 'Izzuddin merumuskan kedudukan *Al-Qur'ah* (undian syar'i) bukan sebagai perjudian atau spekulasi nasib, melainkan sebagai instrumen hukum pamungkas untuk memutus kecemburuan sosial (*qath'ul khushūmah*) ketika beberapa pihak memiliki kelayakan hak yang sama persis terhadap fasilitas terbatas?

@@ -5,7 +5,6 @@
 ## 1. Identifikasi Awal Penyelidikan
 
 - **Kode Berkas:** `PROBE/PROBE_02/P00168`
-- **Sub-Klaster:** 2.2 Uji Kritis Kitab Epistemologi Turats (P00153 – P00174)
 - **Topik Utama:** Metodologi Kritik Sumber, Verifikasi Transmisi Riwayat (*Tashhih wa Tadh'if*), dan Penolakan Hadits Palsu/Maudhu' dalam Dakwah Tarbiyah berdasarkan Kitab *Jami' Bayan Al-'Ilm wa Fadhlih* karya Al-Hafizh Al-Imam Abu 'Umar Ibnu 'Abdil Barr Al-Andalusi.
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Imam Ibnu 'Abdil Barr menegakkan standar kritis dalam menerima informasi ilmiah dan periwayatan atsar, serta mengapa beliau mewajibkan penuntut ilmu untuk menyaring riwayat-riwayat yang dibawa oleh para pendongeng (*al-qushshash*) yang gemar mencampuradukkan fabel dengan syariat?
