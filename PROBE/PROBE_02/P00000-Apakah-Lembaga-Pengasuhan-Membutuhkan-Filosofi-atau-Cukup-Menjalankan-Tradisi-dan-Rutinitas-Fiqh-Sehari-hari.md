@@ -423,20 +423,20 @@ Inilah simpul masalah yang menjadi muara penyelidikan berikutnya pada:
 9. **Ibnu Qayyim al-Jauziyyah, Syamsuddin Abu Abdillah.** (2003). *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (3 Jilid). Tahqiq: Nashir bin Sulaiman al-'Umar. Riyadh: Dar 'Alam al-Fawa'id.
 
 ### B. Riset Ilmiah, Neurosains, & Sains Perilaku Modern
-10. **Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S.** (1978). *Patterns of attachment: A psychological study of the strange situation*. Lawrence Erlbaum.
-11. **Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M.** (1998). Ego depletion: Is the active self a limited resource?. *Journal of Personality and Social Psychology*, 74(5), 1252–1265. https://doi.org/10.1037/0022-3514.74.5.1252
-12. **Blakemore, S. J.** (2012). Imaging the developing brain: What have we learned about cognitive development in the adolescent brain?. *NeuroImage*, 61(2), 397–406. https://doi.org/10.1016/j.neuroimage.2011.11.021
+10. **Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S.** (1978). *Patterns of attachment: A psychological study of the strange situation*. Lawrence Erlbaum Associates.
+11. **Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M.** (1998). Ego depletion: Is the active self a limited resource?. *Journal of Personality and Social Psychology*, Vol. 74, No. 5, hlm. 1252–1265.
+12. **Blakemore, S. J.** (2012). Imaging the developing brain: What have we learned about cognitive development in the adolescent brain?. *NeuroImage*, Vol. 61, No. 2, hlm. 397–406.
 13. **Bowlby, J.** (1982). *Attachment and loss: Vol. 1. Attachment* (2nd ed.). Basic Books.
-14. **Dahl, R. E.** (2004). Adolescent brain development: A period of vulnerabilities and opportunities. *Annals of the New York Academy of Sciences*, 1021(1), 1–22. https://doi.org/10.1196/annals.1308.001
-15. **Deci, E. L., & Ryan, R. M.** (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268. https://doi.org/10.1207/S15327965PLI1104_01
-16. **Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B.** (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development*, 82(1), 405–432. https://doi.org/10.1111/j.1467-8624.2010.01564.x
+14. **Dahl, R. E.** (2004). Adolescent brain development: A period of vulnerabilities and opportunities. *Annals of the New York Academy of Sciences*, Vol. 1021, No. 1, hlm. 1–22.
+15. **Deci, E. L., & Ryan, R. M.** (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, Vol. 11, No. 4, hlm. 227–268.
+16. **Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D., & Schellinger, K. B.** (2011). The impact of enhancing students' social and emotional learning: A meta-analysis of school-based universal interventions. *Child Development*, Vol. 82, No. 1, hlm. 405–432.
 17. **Goffman, E.** (1961). *Asylums: Essays on the social situation of mental patients and other inmates*. Anchor Books.
-18. **Horner, R. H., Sugai, G., & Anderson, C. M.** (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
+18. **Horner, R. H., Sugai, G., & Anderson, C. M.** (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, Vol. 42, No. 8, hlm. 1–14.
 19. **Morrison, B.** (2007). *Restoring safe school communities: A whole school approach to bullying, violence and alienation*. Federation Press.
 20. **Nelsen, J.** (2006). *Positive discipline*. Ballantine Books.
 21. **Ryan, R. M., & Deci, E. L.** (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Publications.
 22. **Scharver, C.** (2011). *Boarding school syndrome: The psychological trauma of the 'privileged' child*. Routledge.
-23. **Siegel, D. J.** (2013). *Brainstorm: The power and purpose of the teenage brain*. Penguin.
-24. **Steinberg, L.** (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review*, 28(1), 78–106. https://doi.org/10.1016/j.dr.2007.08.002
-25. **Sugai, G., & Horner, R. H.** (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.
+23. **Siegel, D. J.** (2013). *Brainstorm: The power and purpose of the teenage brain*. Penguin Books.
+24. **Steinberg, L.** (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review*, Vol. 28, No. 1, hlm. 78–106.
+25. **Sugai, G., & Horner, R. H.** (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, Vol. 35, No. 2, hlm. 245–259.
 

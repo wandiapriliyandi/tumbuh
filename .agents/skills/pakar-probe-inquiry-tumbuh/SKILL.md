@@ -789,8 +789,9 @@ Untuk menjamin derajat keilmuan yang kokoh dan dapat dipertanggungjawabkan di ha
    - Menghubungkan secara spesifik dampak hasil penyelidikan ke berkas sasaran di `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`.
    - Menetapkan 7 butir batasan mutlak (*guardrails / batas-batas negatif*) yang haram dilanggar dalam pengelolaan asrama.
 
-9. **Bibliografi Terkurasi Berstandar Akademik (APA 7th Edition & Takhrij Turats)**:
-   - Mencantumkan daftar referensi lengkap: baik kitab-kitab turats rujukan primer (beserta tahqiq dan penerbit) maupun artikel jurnal ilmiah internasional bereputasi (dengan tahun, judul artikel, nama jurnal, dan DOI/identifikasi ilmiah).
+9. **Bibliografi Terkurasi Berstandar Akademik (APA 7th Edition Bersih & Takhrij Turats)**:
+   - Mencantumkan daftar referensi lengkap: baik kitab-kitab turats rujukan primer (beserta tahqiq dan penerbit) maupun artikel jurnal ilmiah internasional bereputasi (dengan tahun, judul artikel, nama jurnal, volume, nomor terbitan, dan rentang halaman).
+   - **PANTANGAN SUMBER BERBAYAR**: **Dilarang mencantumkan tautan/URL `doi.org` berbayar (paywall)**. Referensi wajib dicantumkan dalam format teks sitasi bibliografis bersih (metadata formal lengkap) agar pembaca di lingkungan pesantren tidak terbebani oleh tautan komersial berbayar.
 
 ---
 
@@ -798,7 +799,8 @@ Untuk menjamin derajat keilmuan yang kokoh dan dapat dipertanggungjawabkan di ha
 
 1. **Dilarang Menghasilkan Berkas Ringkasan Dangkal (<300 Baris)**: Berkas PROBE yang hanya berisi 80–150 baris menandakan proses inquiry yang prematur, malas menelaah literatur riset, dan mereduksi kedalaman sains menjadi slogan normatif.
 2. **Dilarang Kloning Teks & Paragraf Boilerplate**: Setiap berkas harus memiliki argumentasi yang unik dan orisinal sesuai pertanyaan panduannya. Penggunaan paragraf yang sama persis secara massal antarberkas dianggap sebagai kegagalan penulisan (*intellectual defect*).
-3. **Dilarang Overclaim Tanpa Rujukan**: Klaim psikologis atau neurosains tidak boleh ditulis tanpa landasan teori atau penelitian yang jelas.
+3. **Dilarang Menggunakan Tautan DOI / Paywall Berbayar**: Dilarang menyertakan link `https://doi.org/...` berbayar. Gunakan sitasi metadata teks bersih (Penulis, Tahun, Judul, Nama Jurnal, Volume/No, Halaman).
+4. **Dilarang Overclaim Tanpa Rujukan**: Klaim psikologis atau neurosains tidak boleh ditulis tanpa landasan teori atau penelitian yang jelas.
 
 ---
 
