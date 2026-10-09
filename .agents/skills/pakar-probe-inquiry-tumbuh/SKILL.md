@@ -661,84 +661,74 @@ Dilema Lapangan / Ketegangan        ──►  Penyelidikan Argumen & Dialektika
 Asrama 24 Jam yang Riil                  (Bukan Kerangka Kaku Seragam)           Distingsi Repositori
 ```
 
-### 27.1. Taksonomi Anatomi Berkas Berdasarkan Sub-Klaster (Spesifik & Bebas Penyeragaman Kaku)
+### 27.1. Paradigma Utama: PROBE sebagai Monograf Jurnal Riset Desain Sistem
 
-Setiap jenis penyelidikan memiliki sifat epistemik yang berbeda. **Dilarang memaksakan satu format bab seragam ke seluruh jenis berkas**. Struktur bab wajib mengikuti **karakter alamiah sub-klasternya**:
+Berkas PROBE bukan sekadar catatan lepas atau draf SOP teknis; **setiap berkas PROBE adalah Monograf Jurnal Riset Desain Sistem (*Applied System Design Journal Paper*)**. 
+
+Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional** (kajian literatur multidisipliner, bukti empiris, dan dialektika kritis) dengan **ketegasan rekayasa sistem pendidikan pesantren** (ADR, guardrails, dan penataan kurikulum/SOP).
+
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│             STRUKTUR BAKU 13 BAGIAN JURNAL RISET DESAIN SISTEM TUMBUH                 │
+│                          (TARGET: 400 s/d 500+ BARIS SUBSTANTIF)                       │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  1. METADATA & PERTANYAAN INTI   : ID Berkas, Klaster, Sub-Klaster, TUMBUH Question    │
+│  2. ABSTRAK & EPISYEMIC TENSION  : Ringkasan masalah, ketegangan, & arah resolusi      │
+│  3. PENDAHULUAN FENOMENOLOGIS    : Realitas asrama 24 jam, bias pengasuhan, dilema     │
+│  4. TINJAUAN PUSTAKA I (TURATS)  : Teks Arab berharakat, takhrij hadits, syarah ulama  │
+│  5. TINJAUAN PUSTAKA II (SAINS)  : Jurnal internasional, neurosains, teori perkembangan│
+│  6. DIALEKTIKA & REKONSILIASI    : Al-Jam'u wat-Taufiq (titik temu syariat & sains)   │
+│  7. PEMBAHASAN & BEDAH KASUS     : Studi kasus asrama analitis tanpa drama skrip       │
+│  8. MATRIKS KOMPARATIF           : Tabel analitis multidimensi / spektrum multi-tier   │
+│  9. PROTOKOL EDUKATIF MUSYRIF    : Panduan konkret pendampingan & de-eskalasi          │
+│ 10. KEPUTUSAN SISTEM (ADR)       : Architectural Decision Record kanonik               │
+│ 11. IMPLIKASI & GUARDRAILS       : Dampak lapis 01/02/03 & 7 batasan mutlak asrama     │
+│ 12. PENUTUP & EMERGENT CHAIN     : Sintesis penutup & jembatan pertanyaan berkas P+1   │
+│ 13. REFERENSI TERKURASI (APA 7th): Pustaka primer dari REFERENCES/ (turats & jurnal)  │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### Penjabaran 13 Bagian Baku Artikel Jurnal Riset PROBE:
+
+1. **Judul & Identifikasi Penyelidikan (Metadata Header)**:
+   - Menetapkan ID berkas 5-digit (`PROBE/PROBE_02/P00xxx`), judul monograf spesifik, nama klaster dan sub-klaster, serta rumusan *TUMBUH Question* sebagai jangkar utama penyelidikan.
+2. **Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)**:
+   - Paragraf abstrak formal (150–250 kata) yang mengikhtisarkan ketegangan konseptual yang diuji, gap penelitian antara tradisi pesantren vs temuan ilmiah, metode sintesis, dan keputusan arsitektural yang dicapai.
+3. **Pendahuluan: Fenomenologi Lapangan & Dilema Asrama 24 Jam**:
+   - Mengurai latar belakang masalah di lapangan: friksi riil kehidupan kamar, kelelahan musyrif, dinamika santri, serta kekeliruan umum pendekatan konvensional (misal: reaksi represif punitif atau simplifikasi mistis).
+4. **Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat**:
+   - Membedah dalil syar'i primer: menyertakan **teks Arab berharakat lengkap**, rawi, derajat hadits, serta syarah ulama mu'tabar (Al-Ghazali, Ibnu Qayyim, Abu Zayd al-Balkhi, Asy-Syathibi, dll.). Membahas dimensi *Maqashid Syari'ah* dan kaidah ushul fiqih yang relevan.
+5. **Tinjauan Pustaka II: Riset Empiris, Psikologi Perkembangan, & Neurosains Modern**:
+   - Mengambil literatur terkurasi dari direktori [REFERENCES/journals/](file:///c:/xampp/htdocs/tumbuh/REFERENCES/journals) dan [REFERENCES/books/](file:///c:/xampp/htdocs/tumbuh/REFERENCES/books).
+   - Mengutip nama ilmuwan otoritatif (misal: Blakemore, Siegel, Deci & Ryan, Sugai & Horner, Nelsen, Bandura), metodologi penelitian, serta mekanisme kognitif/neurobiologis spesifik (fungsi lobus frontal, hormon stres, regulasi dopamin).
+6. **Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)**:
+   - Membenturkan secara tajam: di mana letak ketegangan antara pandangan fiqhiyyah tradisional dan sains modern, serta bagaimana keduanya diselaraskan secara metodologis tanpa sekularisasi dan tanpa pseudosains.
+7. **Pembahasan Analitis & Bedah Kasus Lapangan Asrama**:
+   - Studi kasus fenomenologis yang mendalam. **PANTANGAN MUTLAK**: Dilarang menggunakan format naskah drama sandiwara (*dialogue script*). Wajib disajikan dalam narasi analitis-deskriptif yang membedah *antecedents*, motif batin santri, bias relasi kuasa, dan setting lingkungan.
+8. **Matriks Komparatif & Analisis Multidimensi**:
+   - Menyajikan tabel komparasi komprehensif (misal: Spektrum Perilaku vs Tingkat Intervensi Multi-Tier, Perbandingan Model Punitif vs Model Restoratif, atau Matriks Audit Istilah).
+9. **Analisis Interaksi & Protokol Tindakan Edukatif Musyrif**:
+   - Menjabarkan panduan operasional pendampingan di lapangan: teknik de-eskalasi emosi, langkah validasi perasaan santri, etika percakapan restoratif beradab, dan penjaminan rasa aman.
+10. **Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)**:
+    - Blok keputusan ADR kanonik: mencakup Status, Keputusan Arsitektural, Dasar Pertimbangan Epistemik, dan Batasan Sistem.
+11. **Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails**:
+    - Memetakan implikasi turunan ke `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`.
+    - Merumuskan 7 butir larangan mutlak (*guardrails asrama*) yang haram dilanggar lembaga.
+12. **Penutup & Emergent Chain of Inquiry**:
+    - Paragraf refleksi akhir filosofis dan jembatan pertanyaan eksplisit menuju berkas berikutnya (`P+1`).
+13. **Daftar Pustaka / Referensi Terkurasi Lengkap**:
+    - Sitasi formal standar **APA 7th Edition** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
 
 ---
 
-#### TIPE A: Sub-Klaster Uji Semantik & Audit Istilah Kanonik (Contoh: P00207 – P00230)
-*Fokus: Membedah satu atau sepasang istilah kunci syariat/bahasa Arab, membersihkan distorsi maknanya di asrama, dan menetapkan definisi operasional kanonik TUMBUH.*
-- **Struktur Alami (8–10 Bab Organik):**
-  1. **Identifikasi Penyelidikan & TUMBUH Questions** (Kode, Istilah yang Diuji, Rumusan Masalah Epistemik).
-  2. **Analisis Filologis & Isytiqaq Turats** (Akar Kata Leksikografi, Kaidah Bahasa, Pergeseran Makna).
-  3. **Visualisasi / Diagram Dilema Semantik Asrama** (Kutub Ekstrem A vs Model Kanonik vs Kutub Ekstrem B).
-  4. **Landasan Epistemologi Turats & Hermeneutika Syariat** (Nash Qur'an, Hadits Shahih, Atsar Salaf).
-  5. **Kritik Reduksionisme & Bahaya Distorsi di Lapangan Asrama** (Mengapa pemahaman salah merusak asrama).
-  6. **Integrasi Neurosains / Psikologi Belajar Terapan** (Jika istilah bersentuhan dengan proses kognisi/afeksi manusiawi).
-  7. **Matriks Komparatif Audit Semantik** (Tabel distingsi makna: Istilah Asli vs Istilah Turunan vs Status TUMBUH).
-  8. **Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan** (Analisis dinamika relasi + Protokol pendampingan konkret).
-  9. **Catatan Keputusan Arsitektural (Format ADR)** (Definisi kanonik yang disahkan dan batasan sistem).
-  10. **Implikasi bagi Repositori & Guardrails Audit Semantik** (Daftar rujukan repositori + 7 butir larangan audit istilah).
-  *(Diakhiri Penutup, Jembatan Pertanyaan Berkas Berikutnya, dan Referensi Terkurasi)*
+### 27.2. Fleksibilitas Penekanan Sesuai Karakter Sub-Klaster
+
+Meskipun memegang struktur 13 bagian jurnal di atas, bobot pembahasan disesuaikan secara organik:
+- **Sub-Klaster Audit Istilah (Semantik)**: Memperdalam Bab 4 (Filologi & Isytiqaq Arab) dan Bab 8 (Matriks Audit Semantik).
+- **Sub-Klaster Teori Besar & Sains**: Memperdalam Bab 5 (Kajian Jurnal & Teori Paradigma) dan Bab 6 (Dialektika Kuhn/Popper vs Hermeneutika Islam).
+- **Sub-Klaster Studi Kasus Lapangan**: Memperdalam Bab 3 (Dilema Lapangan), Bab 7 (Bedah Kasus Analitis), dan Bab 9 (Protokol De-eskalasi).
 
 ---
-
-#### TIPE B: Sub-Klaster Uji Filosofis Sains & Teori Besar (Contoh: P00175 – P00192)
-*Fokus: Menguji teori filsafat/sains kontemporer (Popper, Kuhn, Feyerabend, Critical Realism, dll.) terhadap realitas pesantren.*
-- **Struktur Alami (11–13 Bab Komprehensif):**
-  1. Identifikasi Penyelidikan (Kuhn/Popper, TUMBUH Questions).
-  2. Latar Belakang & Akar Teori Filsafat Ilmu Kontemporer.
-  3. Diagram Siklus / Paradigma Epistemik.
-  4. Landasan Turats & Titik Temu dengan Hermeneutika Islam.
-  5. Analisis Sains Kognitif & Sosiologi Pendidikan.
-  6. Matriks Operasional Perbandingan Model.
-  7. Dialektika Penyelidikan: Benturan Paradigma (Tesis, Antitesis, Sintesis).
-  8. Studi Kasus Lapangan Asrama 24 Jam (Narasi Analitis Mendalam Tanpa Dialog Sandiwara).
-  9. Penerapan pada Kerangka Kerja PBIS Multi-Tier di Asrama 24 Jam.
-  10. Audit Mutu Lembaga & Deteksi Kontradiksi SOP Pengasuhan.
-  11. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan.
-  12. Arsitektur Keputusan Rekayasa Sistem (Format ADR).
-  13. Implikasi bagi Repositori TUMBUH (01_FUNDAMENTAL, 02_IMPLEMENTATION, 03_OPERATIONAL) & Batas-Batas Negatif / Guardrails.
-  *(Catatan Epistemik: Taksonomi Jenjang Kemandirian Santri J1–J4 TIDAK dicantumkan secara prematur di PROBE_02 karena pembagian jenjang kemandirian baru diselidiki secara metodologis pada PROBE_05: Progression).*
-
----
-
-#### TIPE C: Sub-Klaster Studi Kasus Lapangan Epistemik (Contoh: P00193 – P00206)
-*Fokus: Bedah anatomi kasus nyata asrama 24 jam (pencurian, perundungan, pelaporan saksi, konflik kamar).*
-- **Struktur Alami (7–9 Bab Analitis Studi Kasus):**
-  1. Deskripsi Fakta Kasus & Titik Kritis Lapangan.
-  2. Anatomi Masalah: Asimetri Kuasa & Jebakan Investigasi Konvensional.
-  3. Diagram Resolusi Keadilan Restoratif vs Penindakan Punitif.
-  4. Landasan Fiqih Sengketa (*Fiqh al-Qadha' & Adab al-Mu'asyarah*).
-  5. Evaluasi Kritis Respon Musyrif (Deteksi Bias & Malpraktik Pengasuhan).
-  6. Protokol Intervensi Multi-Tier TUMBUH untuk Kasus Tersebut.
-  7. Analisis Dinamika Relasi & Panduan Pendampingan Pasca-Insiden (Tanpa Dialog Sandiwara).
-  8. Keputusan ADR & Kebijakan Pencegahan Berulang (Guardrails Kasus).
-
----
-
-#### Aturan Mutlak Berlaku untuk Seluruh Tipe:
-- **Dilarang Keras Format Naskah Drama / Dialog Percakapan Sandiwara**: Seluruh studi kasus dan interaksi disajikan dalam narasi deskriptif-analitis (membedah motif, relasi kuasa, dan data faktual).
-- **Larangan Mutlak Istilah 'Khalifah' dan 'Khilafah'**: Wajib menggunakan istilah murni amanah dan peradaban: *'imaratul ardh*, *hamilul amanah*, *qiyadah khadimah*, atau *penggerak adab*.
-- **Koherensi Total**: Seluruh bab wajib mengalir menjawab pertanyaan induk tanpa bab tempelan generik.
-
-### 27.2. Tiga Pilar Kerja Penyelidikan yang Mengalir
-
-1. **BERTANYA (The Genuine Tension & Inquiry Anchor)**:
-   - Berkas dibuka dengan friksi, paradoks, atau ketegangan nyata di lapangan pesantren atau teori yang sedang dihadapi TUMBUH.
-   - Merumuskan *TUMBUH Question*: Apa hal mendasar yang harus kita pahami di sini agar sistem pembinaan tidak salah arah?
-   - Diagram alur atau visualisasi penalaran digunakan untuk memperjelas simpul masalah, bukan sebagai hiasan formalitas.
-
-2. **MENGANALISA (Dialectical & Multidisciplinary Exploration)**:
-   - **Aliran Penalaran yang Hidup**: Paragraf ditulis mengalir, diskursif, dan membongkar lapis demi lapis masalah tanpa terikat nomor bab yang klise.
-   - **Dialektika Sumber yang Otentik**: Menimbang sudut pandang turats Islam secara jujur dengan temuan sains kognitif/perilaku atau sosiologi modern yang relevan dengan pertanyaan tersebut.
-   - Menghindari jargon kosong; bahasa harus lugas, bermartabat, dan dapat dipahami oleh pendidik pesantren.
-
-3. **MEMBUKTIKAN & MERUMUSKAN (Distinction & Traceable Synthesis)**:
-   - Menghasilkan **distingsi konseptual yang jernih** (membedakan konsep yang selama ini rancu).
-   - Menarik implikasi arsitektural yang jelas: temuan ini akan mempengaruhi bagian mana pada repositori TUMBUH (`01_FUNDAMENTAL`, `02_IMPLEMENTATION`, atau `03_OPERATIONAL`).
-   - Menyediakan jembatan pertanyaan ke berkas berikutnya (*emergent lineage*) yang benar-benar lahir dari celah (*unresolved tension*) berkas saat ini.
 
 ### 27.3. Kriteria Keberhasilan Berkas PROBE
 - Pembaca diajak **berpikir dan memahami akar persoalan**, bukan sekadar disuguhi draf peraturan.
