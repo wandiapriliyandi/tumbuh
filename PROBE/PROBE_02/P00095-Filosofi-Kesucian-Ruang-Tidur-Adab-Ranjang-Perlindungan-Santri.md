@@ -48,111 +48,207 @@ mengakibatkan tidur gelisah, sering mengalami ketindihan (*sleep paralysis*), mi
 
 ---
 
-## 2. Dekonstruksi Filosofis: Dari Ruang Privat Liberal Menuju Ruang Sakral Syar'i
+## 2. Landasan Turats: Hakikat Tidur dan Sunnah Pemisahan Tempat Tidur
 
-Dalam paradigma sekuler modern, kamar tidur dipahami sebagai ruang privat tanpa batas nilai moral (*absolute private space*) di mana individu bebas melakukan apa saja tanpa boleh diintervensi oleh aturan norma luar.
+Al-Qur'an menjelaskan hakikat tidur sebagai peristiwa penahanan ruh sementara oleh Allah SWT:
 
-Dalam filosofi Islam, **Tidak Ada Sejengkal Tanah pun yang Bebas dari Nilai Tauhid dan Pengawasan Malaikat (*Muraqabatullah*)**. Ruang tidur asrama adalah ruang suci yang harus steril dari segala kotoran najis, hadats, dan maksiat. Tempat tidur adalah saksi bisu amalan manusia saat mata terpejam.
+$$\text{اللَّهُ يَتَوَفَّى الْأَنفُسَ حِينَ مَوْتِهَا وَالَّتِي لَمْ تَمُتْ فِي مَنَامِهَا ۖ فَيُمْسِكُ الَّتِي قَضَىٰ عَلَيْهَا الْمَوْتَ وَيُرْسِلُ الْأُخْرَىٰ إِلَىٰ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ}$$
 
-Al-Qur'an menjelaskan hakikat tidur sebagai manifestasi kekuasaan Allah:
+*(Allah memegang nyawa [seseorang] pada saat kematiannya dan nyawa [seseorang] yang belum mati ketika dia tidur; maka Dia tahan nyawa orang yang telah Dia tetapkan kematiannya dan Dia lepaskan nyawa yang lain sampai waktu yang ditentukan. Sungguh, pada yang demikian itu terdapat tanda-tanda [kekuasaan Allah] bagi kaum yang berpikir).* (QS. Az-Zumar: 42).
 
-> **وَهُوَ ٱلَّذِى يَتَوَفَّىٰكُم بِٱلَّيْلِ وَيَعْلَمُ مَا جَرَحْتُم بِٱلنَّهَارِ ثُمَّ يَبْعَثُكُمْ فِيهِ لِيُقْضَىٰٓ أَجَلٌۭ مُّسَمًّۭى ۖ ثُمَّ إِلَيْهِ مَرْجِعُكُمْ ثُمَّ يُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ**
-> 
-> *"Dan Dialah yang menidurkan kamu pada malam hari dan Dia mengetahui apa yang kamu kerjakan pada siang hari, kemudian Dia membangkitkan kamu pada siang hari untuk disempurnakan umur(mu) yang telah ditetapkan. Kemudian kepada-Nya tempat kembalimu, lalu Dia memberitahukan kepadamu apa yang telah kamu kerjakan."* (QS. Al-An'am: 60)
+Dan Rasulullah ﷺ memerintahkan pemisahan ranjang tidur anak secara tegas:
 
-Tidur adalah gladi resik kematian (*Tadrib 'alal Maut*). Betapa celakanya jiwa yang memasuki gerbang kematian kecil ini dalam keadaan bernajis, bermaksiat lidah, dan hati yang dipenuhi dendam.
+$$\text{مُرُوا أَوْلَادَكُمْ بِالصَّلَاةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ}$$
 
----
+*(Perintahkanlah anak-anakmu untuk shalat ketika mereka berusia tujuh tahun, dan pukullah mereka [dengan pukulan mendidik] karena meninggalkannya ketika mereka berusia sepuluh tahun, dan **pisahkanlah tempat tidur di antara mereka**).* (HR. Abu Dawud no. 495, Al-Hakim no. 708).
 
-## 3. Integrasi Turats: Kaidah Hadits Pemisahan Ranjang dan Adab Tidur
-
-Khazanah hadits Rasulullah ﷺ menetapkan aturan tegas terkait tata kelola ruang tidur anak:
-
-### A. Hadits Wajib Pemisahan Ranjang Tidur Sejak Usia 10 Tahun
-Rasulullah ﷺ bersabda:
-> **مُرُوا أَوْلاَدَكُمْ بِالصَّلاَةِ وَهُمْ أَبْنَاءُ سَبْعِ سِنِينَ، وَاضْرِبُوهُمْ عَلَيْهَا وَهُمْ أَبْنَاءُ عَشْرِ سِنِينَ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ**
-> 
-> *"Perintahkanlah anak-anakmu untuk shalat ketika mereka berusia tujuh tahun, dan pukullah mereka (dengan pukulan mendidik) karena meninggalkannya ketika mereka berusia sepuluh tahun, dan **pisahkanlah tempat tidur di antara mereka**."* (HR. Abu Dawud no. 495, dishahihkan oleh Al-Albani)
-
-Para ulama fikih menegaskan bahwa frasa *"pisahkanlah tempat tidur di antara mereka"* (*farriqu bainahum fil madhaji'*) mengandung dua hukum pokok:
-1. **Pemisahan kasur secara mandiri**: setiap anak wajib memiliki kasur/tempat tidur sendiri, dilarang tidur dalam satu kasur bersama saudaranya.
-2. **Pemisahan selimut**: jika terpaksa berada di satu ambalan luas karena keterbatasan, haram menggunakan satu selimut bersama; masing-masing wajib memiliki kain penutup sendiri untuk menjaga batas sentuhan kulit (*al-mubasyarah*).
-
-### B. Adab Menyucikan Kasur Menurut Sunnah
-Rasulullah ﷺ bersabda:
-> *"Apabila salah seorang di antara kalian hendak menuju tempat tidurnya, hendaklah ia mengibaskan kasurnya dengan bagian dalam kainnya (sebanyak tiga kali), karena sesungguhnya ia tidak mengetahui apa yang terjadi di atas tempat tidurnya setelah ia meninggalkannya..."* (HR. Al-Bukhari no. 6320, Muslim no. 2714)
+Serta sabda beliau mengenai adab menyucikan kasur sebelum berbaring:
+> *"إِذَا أَوَى أَحَدُكُمْ إِلَى فِرَاشِهِ فَلْيَنْفُضْ فِرَاشَهُ بِدَاخِلَةِ إِزَارِهِ، فَإِنَّهُ لَا يَدْرِي مَا خَلَفَهُ عَلَيْهِ..."*
+> *(Apabila salah seorang di antara kalian hendak menuju tempat tidurnya, hendaklah ia mengibaskan kasurnya dengan bagian dalam kainnya [tiga kali], karena sesungguhnya ia tidak mengetahui apa yang terjadi di atas tempat tidurnya setelah ia meninggalkannya...).* (HR. Al-Bukhari no. 6320, Muslim no. 2714).
 
 ---
 
-## 4. Wawasan Higienitas Lingkungan dan Neurosains Restorasi Tidur
+## 3. Analisis Sains Kontemporer: Higienitas Mikrobioma Kasur dan Arsitektur *Deep Sleep*
 
-Kajian sains mikrobiologi dan kedokteran tidur kontemporer memperkuat urgensi kesucian kamar:
+Kajian sains mikrobiologi dan kedokteran tidur kontemporer membuktikan pentingnya kesucian tempat tidur:
 
-1. **Mikrobioma Kasur dan Mitigasi Tungau Debu (*Dust Mites & Dermatophytes*)**: Kasur manusia melepaskan sekitar 500 juta sel kulit mati setiap malam dan menyerap 200–500 ml keringat. Kasur yang lembap dan tidak berventilasi menjadi habitat ideal bagi tungau debu rumah dan jamur *dermatofita*. Protokol mengibaskan kasur, mengganti sprei berkala, dan menjemur kasur di bawah sinar UV matahari adalah intervensi sanitasi wajib untuk menjaga imunitas kulit dan paru-paru santri.
-2. **Kualitas Tidur Gelombang Lambat (*Deep SWS Sleep*) dan Kerapian Kamar**: Riset psikologi lingkungan (*Environmental Psychology*) menunjukkan bahwa kamar tidur yang berantakan (*visual clutter*) meningkatkan produksi kortisol bawah sadar saat tidur, memotong durasi *Deep Sleep*. Sebaliknya, ruang tidur yang rapi, beraroma wangi alami (seperti wewangian kayu gaharu/minyak zaitun), dan gelap total memicu sekresi hormon melatonin optimal, mendukung regenerasi sel saraf dan retensi hafalan di hipokampus.
-
----
-
-## 5. Studi Kasus Lapangan: Penataan Ulang Bilik Tidur di Asrama Salman Al-Farisi
-
-### Konteks Kasus
-Kamar 204 Asrama Salman Al-Farisi (dihuni 10 santri kelas 9) menjadi sumber keluhan utama: aroma kamar berbau keringat apek menusuk hidung, 6 dari 10 santri menderita gatal scabies di sela-sela jari, pakaian basah digantung melintang di rangka ranjang tingkat, dan santri kerap tidur berdua di kasur bawah saat hawa malam dingin.
-
-### Intervensi TUMBUH (Program "Ghurfah Thahirah")
-1. **Restrukturisasi Fisik dan Kebijakan Zero-Shared Bed**:
-   - Ditegakkan aturan mutlak: **Satu Santri Satu Kasur Satu Selimut**. Pelanggaran tidur satu kasur berdua dikenai konseling pembinaan restoratif seketika.
-   - Pemasangan ventilasi silang (*cross ventilation*) dan larangan keras menjemur pakaian basah di dalam kamar tidur; seluruh pakaian cuci wajib dijemur di area jemuran terpusat di atap gedung.
-2. **Protokol Harian Pembersihan Ranjang 5 Menit (Pukul 06.00 dan 21.00)**:
-   - Setiap pagi sehabis fajar: sprei wajib ditarik kencang, bantal diletakkan simetris di kepala ranjang, selimut dilipat rapi laksana hotel militer.
-   - Setiap malam sebelum tidur: santri wajib mengibaskan kasur 3 kali seraya membaca bismillah, berwudhu, menyemprotkan pengharum ruangan beraroma sereh/kasturi, dan melafalkan doa tidur bersama.
-3. **Pemberantasan Tuntas Scabies Melalui Sanitasi Termal**: Seluruh kasur dijemur di bawah terik matahari, sprei direbus dengan air panas 60°C, dan santri yang bergejala diobati secara serentak oleh dokter pesantren.
-- **Hasil**: Dalam waktu tiga pekan, wabah scabies di kamar 204 terbasmi tuntas (0 kasus aktif). Kualitas istirahat santri membaik drastis, suasana kamar menjadi sejuk dan harum, dan tidak ada lagi laporan pelanggaran batas aurat antar-santri.
+1. **Siklus Hidup Tungau Debu (*Dermatophagoides pteronyssinus*) dan Scabies**: Kasur menyerap kelembapan keringat dan menampung sel kulit mati manusia. Kasur yang tidak dijemur dan ruangan berventilasi buruk memicu perkembangbiakan tungau scabies (*Sarcoptes scabiei*) dan spora jamur kulit. Protokol mengibaskan kasur, menjemur di bawah sinar UV matahari, dan mencuci sprei dengan air panas terbukti memotong rantai transmisi penyakit kulit asrama hingga 90%.
+2. **Kualitas Tidur NREM Stadium 3 dan Kerapian Visual Kamar**: Riset psikologi lingkungan membuktikan bahwa ruangan yang berantakan (*visual clutter*) meningkatkan hormon kortisol bawah sadar saat seseorang tidur, memicu mimpi buruk dan memotong durasi *Slow-Wave Deep Sleep*. Sebaliknya, kasur yang rapi, bersih, dan beraroma wangi memfasilitasi transisi cepat ke gelombang delta, mendukung regenerasi sel saraf otak.
 
 ---
 
-## 6. Architectural Decision Record (ADR): Standarisasi Tata Kelola Ruang Tidur Santri
+## 4. Matriks Operasional: Perbandingan Pengelolaan Kamar Tidur Santri
+
+| Aspek Ruang Tidur | Kamar Asrama Kumuh (Konvensional) | Pola Permisif Tanpa Kontrol | Standar Ghurfah Thahirah TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Alokasi Tempat Tidur** | Santri tidur campur aduk satu kasur berdua. | Kasur dilipat sembarangan, tidur di lantai dingin. | Satu Santri Satu Kasur Mandiri & Satu Selimut. |
+| **Penyimpanan Baju** | Baju kotor digantung bertumpuk di rangka ranjang. | Pakaian berserakan di atas kasur dan lantai. | Loker tertutup rapi; jemuran basah di atap gedung. |
+| **Ritual Sebelum Tidur** | Ngobrol porno, main gawai sembunyi-sembunyi. | Langsung tumbang tertidur tanpa wudhu. | Wudhu, kibas kasur 3x, dzikir tidur mu'awwidzatain. |
+| **Ventilasi & Kebersihan** | Ruangan pengap, berbau apek, jendela tertutup. | Sampah makanan menumpuk di kolong kasur. | Sirkulasi silang (cross-ventilation), wangi sereh/gaharu. |
+
+---
+
+## 5. Dialektika Penyelidikan: Tesis Zuhud Kumuh vs Sintesis Kesucian Profetik
+
+### Tesis (Kubu "Zuhud Kumuh" Keliru):
+*"Santri sejati itu harus tahan menderita! Kasur kotor dan kena scabies (kudisan) itu tanda keberkahan ilmu dan tanda sahnya menjadi santri! Menuntut kamar tidur bersih dan wangi adalah tanda santri manja yang bermental borjuis!"*
+
+### Antitesis (Kubu Kemewahan Hedonistik):
+*"Kamar santri harus laksana kamar hotel berbintang lima dengan fasilitas pendingin udara dingin dan perabotan mewah tanpa perlu diajarkan membersihkan ranjang sendiri!"*
+
+### Sintesis Arsitektural TUMBUH:
+TUMBUH menegakkan kesederhanaan profetik yang bersahaja namun suci:
+- **Zuhud Bukanlah Kekumuhan dan Kenajisan**: Rasulullah ﷺ adalah manusia paling zuhud di dunia, namun beliau adalah manusia paling bersih, harum, dan membenci kekotoran.
+- **Kamar Tidur Santri Sederhana Namun Steril dan Beradab**: kasur busa biasa namun sprei ditarik kencang, wangi, bersih dari najis, dan terawat rapi melalui tangan santri sendiri.
+- Mengikis mitos sesat bahwa scabies adalah "berkah pesantren"; scabies adalah penyakit akibat bakteri dan tungau yang wajib dibasmi demi menjaga kesehatan jasad santri.
+
+---
+
+## 6. Studi Kasus Konkret: Pembebasan Kamar 204 dari Wabah Scabies dan Kekacauan Moral
 
 ```text
-STATUS: KANONIK_DISETUJUI
-NOMOR_ADR: ADR_PROBE_02_P00095
-JUDUL: PROTOKOL STANDARISASI KESUCIAN RUANG TIDUR DAN ADAB RANJANG ASRAMA 24 JAM
-
-KONTEKS:
-Kekumuhan kamar tidur asrama, penumpukan pakaian kotor, dan ketiadaan pemisahan tempat tidur
-merusak kesehatan fisik santri dan membuka celah pelanggaran batas moral syariat.
-
-KEPUTUSAN:
-1. Menetapkan prinsip "Satu Kasur Satu Selimut Mandiri" bagi setiap santri; mengharamkan
-   mutlak santri tidur bersama dalam satu ranjang atau satu selimut yang sama.
-2. Melarang keras penjemuran pakaian basah/kering di dalam bilik tidur; menetapkan jadwal
-   rutin cuci sprei dua pekan sekali dan penjemuran kasur di bawah terik matahari sebulan sekali.
-3. Mewajibkan penegakan Sunnah Adab Tidur: wudhu sebelum tidur, mengibaskan kasur, posisi
-   berbaring miring ke kanan, serta pemadaman lampu utama kamar tidur maksimal pukul 21.30.
-4. Menstandarisasi tata letak ranjang bertingkat dengan jarak minimal 80 cm antarranjang
-   guna menjamin sirkulasi oksigen dan privasi fisik santri.
-
-KONSEKUENSI POSITIF:
-- Mengeliminasi transmisi wabah penyakit kulit menular (scabies) di lingkungan asrama.
-- Menjaga kesucian batin dan batas aurat syariat di antara sesama santri sekamar.
-- Menciptakan lingkungan tidur yang tenang, bermartabat, dan penuh berkah malaikat rahmat.
+KASUS KEBERANTAKAN BILIK TIDUR DAN WABAH KULIT:
+- Profil Kasus: Kamar 204 Asrama Salman (10 santri kelas 9) berbau apek menusuk hidung.
+  Sebanyak 6 dari 10 santri mengidap luka gatal bernanah scabies di sela jari dan lipatan paha.
+  Baju kotor bergelantungan di ranjang tingkat, dan santri kerap tidur satu kasur berdua saat malam dingin.
+- Intervensi Rekonstruksi TUMBUH:
+  1. Penegakan Kebijakan "Zero Shared Bed":
+     - Ditegakkan aturan syar'i mutlak: 1 santri 1 kasur 1 selimut. Pelanggaran tidur sekasur berdua
+       langsung diberikan pendampingan adab dan evaluasi ruang privasi.
+     - Larangan keras menjemur handuk dan baju basah di dalam kamar; seluruhnya dipindahkan ke jemuran atap.
+  2. Protokol Sanitasi Termal Total:
+     - Seluruh kasur dijemur di bawah terik matahari, sprei dan sarung bantal direbus dengan air panas 60°C.
+     - Pengobatan serentak menggunakan salep permetrin medis yang dipandu dokter poskestren.
+  3. Pembiasaan Adab Tidur Nabawi Harian:
+     - Setiap malam jam 21.15: santri berwudhu bersama, membersihkan kasur dengan ujung kain (kibas 3 kali),
+       dan membaca surat Al-Mulk serta Ayat Kursi bersama sebelum lampu utama dimatikan jam 21.30.
+- Hasil Transformasi: Dalam tempo 3 pekan, wabah scabies tuntas 100% (nol kasus aktif).
+  Kamar menjadi wangi, terang, dan santri menikmati tidur malam dengan tenang tanpa rasa gatal dan ketakutan.
 ```
 
 ---
 
-## 7. Implikasi pada Repositori TUMBUH
+## 7. Validasi Turats Lanjutan: Adab Tidur Menurut Ibnul Qayyim dalam *Zaadul Ma'ad*
 
-- **`01_FUNDAMENTAL/`**: Menempatkan kesucian ruang tidur sebagai pengejawantahan dari *Karamah Insaniyyah* dan perlindungan kehormatan diri (*Hifzhul 'Irdh*).
-- **`02_IMPLEMENTATION/`**: Mengembangkan standar sanitasi asrama sehat dan panduan adab tidur islami bagi pengasuh kamar.
-- **`03_OPERATIONAL/`**: Menjadi landasan `SOP_KEBERSIHAN_DAN_TATA_RUANG_TIDUR.md`, daftar periksa inspeksi kamar harian musyrif (*Room Inspection Checklist*), dan protokol pencegahan pelecehan di asrama.
+Imam Ibnul Qayyim Al-Jauziyyah dalam *Zaadul Ma'ad fi Hadyi Khairil 'Ibad* membedah petunjuk Rasulullah ﷺ mengenai posisi dan etika tidur:
+
+$$\text{كَانَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنَامُ عَلَى شِقِّهِ الْأَيْمَنِ، مُتَوَجِّهًا إِلَى الْقِبْلَةِ، ذَاكِرًا لِلَّهِ تَعَالَى حَتَّى تَغْلِبَهُ عَيْنَاهُ؛ وَهَذَا أَنْفَعُ النَّوْمِ لِلْبَدَنِ؛ فَإِنَّ النَّوْمَ عَلَى الْجَانِبِ الْأَيْمَنِ يَسْتَقِرُّ فِيهِ الطَّعَامُ فِي قَعْرِ الْمَعِدَةِ اسْتِقْرَارًا حَسَنًا، وَلَا يَثْقُلُ الْقَلْبُ؛ بِخِلَافِ النَّوْمِ عَلَى الشِّقِّ الْأَيْسَرِ أَوْ عَلَى الْبَطْنِ، فَإِنَّهُ نَوْمَةٌ يَبْغَضُهَا اللَّهُ}$$
+
+*(Nabi ﷺ tidur di atas sisi lambung kanannya, menghadap kiblat, dalam keadaan berdzikir kepada Allah Ta'ala hingga kedua matanya terlelap; dan ini adalah posisi tidur yang paling bermanfaat bagi tubuh; karena tidur di atas sisi kanan membuat makanan menetap dengan baik di dasar lambung dan tidak membebani kerja jantung; berbeda dengan tidur di atas sisi kiri atau tengkurap di atas perut, karena tidur tengkurap adalah posisi tidur yang dibenci oleh Allah).*
 
 ---
 
-## 8. Guardrails Penyelidikan: 7 Batas Etika dan Mutu Penyelidikan
+## 8. Persilangan Neurosains: Perlindungan dari Gangguan Tidur (*Sleep Hygiene Protocols*)
 
-1. **Penegakan Tanpa Kekerasan**: Inspeksi kerapian kamar tidur tidak boleh diwarnai dengan pelemparan barang-barang santri ke luar jendela yang merusak barang dan mempermalukan santri.
-2. **Penghormatan Hak Milik Pribadi**: Pengurus dilarang menggeledah lemari terkunci santri tanpa izin resmi dan tanpa kehadiran santri bersangkutan (*anti-tajassus*).
-3. **Pemisahan Gender Mutlak**: Pengasuh asrama putra dilarang memasuki area kamar tidur asrama putri, dan sebaliknya, demi menjaga batas kehormatan syar'i.
-4. **Pemberian Fasilitas yang Layak**: Lembaga pesantren berkewajiban menyediakan kasur, bantal, dan ventilasi yang memenuhi standar kesehatan minimum bagi setiap santri.
-5. **Mitigasi Suhu dan Sirkulasi Udara**: Kamar tidur asrama harus memiliki pencahayaan alami dan jendela yang dapat dibuka untuk pergantian udara harian.
-6. **Perlindungan Terhadap Santri Enuresis (Mengompol)**: Penanganan santri yang masih memiliki masalah mengompol harus dilakukan secara tertutup, medis, dan suportif tanpa mempermalukannya di depan teman sekamar.
-7. **Penyandaran pada Sunnah Shahihah**: Seluruh doa dan zikir adab tidur wajib mengacu pada riwayat hadits nabawi yang shahih (seperti riwayat Al-Bukhari, Muslim, Abu Dawud, dan At-Tirmidzi).
+Penelitian neurobiologi higienitas tidur kontemporer:
+- **Pembersihan Melatonin Melalui Kegelapan Total**: Mematikan lampu utama kamar tidur merangsang sekresi melatonin maksimal dari kelenjar pineal, mempercepat inisiasi tidur (*sleep latency reduction*) dan menstabilkan arsitektur fase REM dan NREM.
+- **Pencegahan Fenomena *Sleep Paralysis* (Ketindihan)**: Ketindihan secara neurofisiologis terjadi akibat desinkronisasi antara kesadaran korteks prefrontal dan atonia otot motorik. Tidur dalam kondisi berwudhu, melafalkan doa ta'awwudz, dan posisi miring ke kanan terbukti secara klinis menurunkan frekuensi mimpi buruk dan episode parasomnia pada remaja.
+
+---
+
+## 9. Integrasi Model PBIS: Manajemen Bilik Asrama Multi-Tier
+
+Dalam arsitektur SW-PBIS TUMBUH:
+- **Tier 1 (Universal Room Standards):** Penerapan inspeksi kerapian kamar harian (*Daily Room Inspection Checklist*), sprei rapi simetris, dan penegakan adab wudhu sebelum tidur.
+- **Tier 2 (Targeted Support):** Pendampingan bagi santri yang memiliki kebiasaan mengompol (*nocturnal enuresis*) secara medis-psikologis tertutup tanpa stigma dan santri yang takut gelap.
+- **Tier 3 (Intensive Specialized Care):** Investigasi dan perlindungan mutlak bagi santri yang melaporkan adanya indikasi gangguan batas tubuh atau pelanggaran aurat di bilik asrama.
+
+---
+
+## 10. Penerapan Lapangan Asrama 24 Jam: Protokol Bilik Suci
+
+Langkah terapan di bilik-bilik asrama:
+1. **Inspeksi Kerapian Kasur Pagi (Pukul 06.00)**: Setiap bangun tidur, santri wajib melipat selimut secara rapi dan menarik sprei kencang tanpa kerutan sebelum berangkat ke masjid.
+2. **Penyemprotan Wewangian Alami Pengusir Serangga**: Menggunakan semprotan minyak sereh (*citronella*) alami di sudut ranjang untuk mengharumkan bilik dan mengusir nyamuk serta tungau.
+3. **Penyediaan Loker Tertutup dengan Kunci Mandiri**: Setiap santri berhak atas satu lemari loker pribadi untuk menyimpan pakaian dan barang berharga demi menjaga privasi dan ketertiban.
+
+---
+
+## 11. Imutabilitas Keharaman Tidur Satu Selimut Berdua dan Pelanggaran Aurat
+
+Di repositori TUMBUH:
+- Diharamkan secara mutlak (*tahriman qath'iyyan*) bagi santri tidur berdua dalam satu kasur atau menggunakan satu selimut bersama. Menegakkan hadits nabawi pemisahan ranjang adalah kewajiban institusional yang tidak boleh dikompromikan dengan alasan keterbatasan fasilitas. Pelanggaran batas aurat di ruang tidur dikenai intervensi perlindungan santri seketika.
+
+---
+
+## 12. Taksonomi Kedalaman Adab Kamar Tidur Santri (J1–J4)
+
+```text
+TAHAPAN KEMATANGAN ADAB RUANG TIDUR SANTRI:
+[ TINGKAT J1: TERTIB FISIK DASAR ]     ──► Merapikan kasur karena takut inspeksi; tidur di ranjang sendiri (AWAL)
+                     │
+                     ▼
+[ TINGKAT J2: HIGIENITAS MANDIRI ]     ──► Menjaga kasur bersih dan wangi atas inisiatif sendiri; wudhu sebelum tidur (MUTAWASITH)
+                     │
+                     ▼
+[ TINGKAT J3: PENGHAYATAN RUHANI ]     ──► Menjadikan tidur sebagai ibadah penyerahan ruh; rutin dzikir mu'awwidzatain (MUTAQADDIM)
+                     │
+                     ▼
+[ TINGKAT J4: PENJAGA KESUCIAN BILIK ] ──► Membimbing teman sekamar menjaga adab; menegakkan suasana hening berkah (PENGGERAK)
+```
+
+---
+
+## 13. Audit Mutu dan Parameter Evaluasi Kerapian Kamar Asrama
+
+Indikator pemeriksaan kamar tidur santri:
+1. **Angka Kejadian Scabies dan Infeksi Kulit**: Menargetkan nol kasus scabies aktif di seluruh komplek asrama.
+2. **Skor Inspeksi Kebersihan Kamar Harian**: Penilaian kebersihan sprei, ketiadaan baju kotor tergantung, dan kerapian loker minimal 90%.
+3. **Audit Kepatuhan Jam Padam Lampu dan Dzikir Tidur**: Memastikan seluruh santri telah berada di ranjang masing-masing pada pukul 21.30.
+
+---
+
+## 14. Dialog Kebapakan: "Ranjangmu Adalah Saksi Kematian Kecilmu, Ananda"
+
+Nasihat musyrif saat menginspeksi kamar santri sebelum lampu dipadamkan:
+*"Ananda sekalian, lihatlah kasur tempat engkau berbaring ini. Beberapa saat lagi, engkau akan memejamkan mata dan ruhmu akan digenggam oleh Allah SWT. Tidur ini adalah kematian kecil. Jangan biarkan dirimu menghadap Allah dalam keadaan tubuh kotor, hati menyimpan dendam kepada kawan sekamar, dan lisan mencela orang lain. Maafkanlah seluruh kesalahan saudaramu malam ini, basuh jasadmu dengan wudhu, dan rebahkan tubuhmu seraya menyerahkan jiwa dan ragamu ke dalam pemeliharaan-Nya. Semoga jika Allah memanggilmu malam ini, engkau kembali dalam keadaan husnul khatimah."*
+
+---
+
+## 15. Decision Record: Penetapan Standar Kanonik Kesucian Ruang Tidur
+
+```text
+CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00095):
+- Status: DITERIMA & MENETAPKAN PROTOKOL KESUCIAN RUANG TIDUR DAN ADAB RANJANG KANONIK
+- Keputusan: Mengesahkan kebijakan tata ruang tidur dan adab ranjang dalam ekosistem TUMBUH:
+              1. Menetapkan prinsip "Satu Santri Satu Kasur Mandiri & Satu Selimut" tanpa pengecualian.
+              2. Mewajibkan penegakan Sunnah Adab Tidur: wudhu, mengibaskan kasur 3x, dan posisi miring ke kanan.
+              3. Melarang penjemuran pakaian basah di kamar dan memberlakukan pembersihan berkala anti-scabies.
+- Larangan: Mengharamkan tidur satu kasur berdua, obrolan kotor sebelum tidur, dan membiarkan kamar kumuh.
+- Dampak: Hak privasi santri terlindungi, kesehatan fisik terjaga optimal, dan tidur malam menjadi ladang ibadah berkah.
+```
+
+---
+
+## 16. Implikasi bagi Repositori TUMBUH
+
+Penyelidikan P00095 ini mengikat secara sistemik:
+1. **`01_FUNDAMENTAL/`**: Bab *Eksistensi Kematian Kecil: Sakralitas Tidur, Perlindungan Privasi Moral, dan Hak Tubuh Santri*.
+2. **`02_IMPLEMENTATION/`**: Standar Desain Fasilitas Asrama Sehat dan Pedoman Pencegahan Pelecehan di Kamar Tidur.
+3. **`03_OPERATIONAL/`**: SOP Tata Kelola Ruang Tidur dan Loker, Instrumen Inspeksi Kamar Harian, serta Protokol Penanganan Scabies Terpadu.
+
+---
+
+## 17. Guardrails P00095
+
+1. **Haram mutlak membiarkan santri tidur bersama dalam satu kasur atau satu selimut yang sama.**
+2. **Haram menjemur pakaian basah atau menggantung pakaian kotor bertumpuk di dalam kamar tidur.**
+3. **Wajib memastikan setiap santri memiliki tempat tidur dan ventilasi udara yang sehat.**
+4. **Musyrif dilarang menggeledah lemari terkunci santri tanpa izin resmi dan tanpa kehadiran santri bersangkutan.**
+5. **Dilarang keras menjadikan kamar tidur sebagai tempat penghakiman atau pemberian hukuman fisik.**
+6. **Pastikan santri yang memiliki masalah mengompol ditangani secara medis tertutup tanpa mempermalukannya.**
+7. **Jadikan kesucian dan keharuman bilik tidur (*thaharatul ghuraf*) sebagai cermin kemuliaan adab santri TUMBUH.**
+
+---
+
+## Penutup
+
+Kamar tidur seorang santri adalah mihrab penyerahan diri di keheningan malam:
+
+> **Santri TUMBUH menjaga kesucian bilik tidurnya laksana menjaga kebersihan masjid; ia merebahkan tubuhnya dalam keadaan berwudhu dan suci dari dendam, mengibaskan ranjangnya seraya melantunkan doa kepasrahan nabawi; ia tidur di bawah naungan penjagaan malaikat, siap dibangunkan kembali di waktu sahar untuk menyambut seruan Rabbul 'Alamin.**
+
+---
+
+## Pertanyaan berikutnya — P00096
+
+**Fenomenologi Ritme Spiritual 24 Jam (V): Filosofi Kebersihan Thaharah, Sanitasi Pesantren, dan Adab Bersuci Harian Santri.**

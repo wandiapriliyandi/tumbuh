@@ -48,114 +48,206 @@ kehilangan rasa takut (*khauf*), harap (*raja'*), dan kenikmatan linangan air ma
 
 ---
 
-## 2. Dekonstruksi Filosofis: Dari Jam Mekanis Menuju Ritme Waktu Kualitatif
-
-Peradaban modern mengukur waktu secara kuantitatif-kronologis (*Chronos*): waktu adalah deretan angka jarum jam yang linier dan seragam. Pandangan sekuler ini memandang waktu tidur malam semata-mata sebagai waktu istirahat biologis mesin tubuh.
-
-Sebaliknya, filsafat waktu Islam (*Kairos Ilahiyyah*) membedakan dimensi kualitatif waktu: **Waktu Sahar memiliki derajat kesucian dan resonansi kosmik yang melampaui waktu-waktu lainnya**. Sahar adalah ambang batas transisi kosmik antara gelap malam yang gulita dan fajar yang menyingsing. Di waktu inilah tabir-tabir hijab ghaib diangkat, dan bisikan munajat hamba bersambung langsung dengan Arsy Ilahi.
+## 2. Landasan Turats: Keagungan Waktu Sahar dalam Al-Qur'an dan Sunnah
 
 Al-Qur'an memuji orang-orang bertakwa dengan sifat utama mereka di waktu sahar:
 
-> **كَانُوا۟ قَلِيلًۭا مِّنَ ٱلَّيْلِ مَا يَهْجَعُونَ ۝ وَبِٱلْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ**
-> 
-> *"Mereka sedikit sekali tidur pada waktu malam; dan pada waktu sahar (akhir-akhir malam) mereka memohon ampunan (kepada Allah)."* (QS. Adz-Dzariyat: 17-18)
+$$\text{كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ ۝ وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ}$$
 
-Dan firman-Nya mengenai perintah qiyamullail kepada Baginda Rasulullah ﷺ:
+*(Mereka sedikit sekali tidur pada waktu malam; dan pada waktu sahar [akhir-akhir malam] mereka memohon ampunan kepada Allah).* (QS. Adz-Dzariyat: 17-18).
 
-> **وَمِنَ ٱلَّيْلِ فَتَهَجَّدْ بِهِۦ نَافِلَةًۭ لَّكَ عَسَىٰٓ أَن يَبْعَثَكَ رَبُّكَ مَقَامًۭا مَّحْمُودًۭا**
-> 
-> *"Dan pada sebagian malam, lakukanlah shalat tahajjud (sebagai suatu ibadah) tambahan bagimu; mudah-mudahan Rabb-mu mengangkatmu ke tempat yang terpuji (maqaman mahmuda)."* (QS. Al-Isra': 79)
+Dan firman Allah Ta'ala mengenai perintah qiyamullail kepada Baginda Rasulullah ﷺ:
 
-Tahajjud bukan beban siksaan, melainkan tangga ontologis (*as-sullam al-wujudiy*) menuju maqam kemuliaan sejati.
+$$\text{وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا}$$
 
----
+*(Dan pada sebagian malam, lakukanlah shalat tahajjud [sebagai suatu ibadah] tambahan bagimu; mudah-mudahan Rabb-mu mengangkatmu ke tempat yang terpuji).* (QS. Al-Isra': 79).
 
-## 3. Integrasi Turats: Tradisi Qiyamullail Ulama Salaf dan Kelembutan Pengasuhan
-
-Khazanah Turats Islam mencatat teladan agung bagaimana para ulama mendidik anak asuhnya menyambut waktu sahar:
-
-### A. Tuntunan Imam Al-Ghazali dalam *Ihya' 'Ulumiddin*
-Dalam *Kitab Asrar ash-Shalah wa Muhimmatuha*, Al-Ghazali merinci empat syarat batin dan lahir untuk memudahkan bangun malam (*Asbab al-Muyassirah li Qiyam al-Lail*):
-1. **Tidak banyak makan dan minum di malam hari**: karena lambung yang penuh memicu rasa kantuk yang berat dan mengeraskan kalbu.
-2. **Menghindari kelelahan fisik siang hari dari hal-hal yang sia-sia**.
-3. **Melakukan tidur siang sejenak (*Qailulah*)**: karena qailulah di siang hari membantu qiyamullail sebagaimana sahur membantu puasa.
-4. **Membersihkan hati dari rasa dendam kepada sesama muslim, bid'ah, dan kecemasan duniawi yang berlebihan**.
-
-### B. Nasihat Fudhail bin 'Iyadh dan Hasan Al-Bashri
-Imam Hasan Al-Bashri pernah ditanya: *"Mengapa orang-orang yang gemar bertahajjud memiliki wajah yang paling berseri-seri dan bercahaya di siang hari?"* Beliau menjawab:
-> *"Karena mereka berduaan dengan Ar-Rahman dalam keheningan malam, maka Allah memakaikan kepada mereka sebagian dari cahaya kemuliaan-Nya."*
+Dalam hadits shahih mutawatir, Rasulullah ﷺ mengabarkan turunnya rahmat Allah di sepertiga malam terakhir:
+> *"Rabb kita Tabaraka wa Ta'ala turun setiap malam ke langit dunia ketika tersisa sepertiga malam yang akhir. Dia berfirman: 'Barangsiapa berdoa kepada-Ku niscaya Aku kabulkan, barangsiapa meminta kepada-Ku niscaya Aku beri, dan barangsiapa memohon ampun kepada-Ku niscaya Aku ampuni'."* (HR. Al-Bukhari no. 1145, Muslim no. 758).
 
 ---
 
-## 4. Neurosains Sirkadian dan Neurobiologi Keheningan
+## 3. Analisis Sains Kontemporer: Ritme Sirkadian, Sistem Glimfatik, dan Gelombang Theta
 
-Penelitian neurobiologi tidur dan ritme sirkadian modern memberikan justifikasi saintifik yang memukau terkait keutamaan waktu sahar:
+Kajian neurobiologi tidur dan neurosains kognitif memberikan dasar ilmiah yang mengagumkan:
 
-1. **Struktur Tidur NREM dan Pembersihan Toksin Otak**: Tidur awal malam (antara pukul 21.00 hingga 02.30) didominasi oleh *Slow-Wave Sleep* (Deep Sleep / NREM Stadium 3), di mana sistem glimfatik (*glymphatic system*) bekerja paling aktif menyapu racun protein beta-amiloid dari otak. Ketika santri tidur tepat waktu ba'da Isya (maksimal 21.30), mereka telah merampungkan siklus restorasi neurobiologis utama saat terbangun pada pukul 03.30.
-2. **Kortisol Fajar dan Aktivasi Gelombang Theta**: Bangun perlahan di waktu sahar bertepatan dengan mulainya *Cortisol Awakening Response* (CAR) yang natural. Jika dibangunkan dengan tenang, otak berada pada gelombang alfa-theta (4–8 Hz)—kondisi neurofisiologis yang sangat reseptif untuk meditasi mendalam, kontemplasi ruhiyah (*khusyu'*), dan konsolidasi memori jangka panjang hafalan Qur'an. Sebaliknya, teriakan kasar memicu lonjakan adrenalin liar yang memicu disfungsi kognitif sepanjang hari (*sleep inertia dysfunction*).
-
----
-
-## 5. Studi Kasus Lapangan: Reformasi Protokol Sahar di Asrama Ali bin Abi Thalib
-
-### Konteks Kasus
-Asrama Ali bin Abi Thalib (dihuni 40 santri kelas 8 SMP) memiliki catatan kehadiran tahajjud yang buruk. Setiap malam pengurus kamar menyiramkan percikan air dan memukul pintu lemari besi dengan tongkat kayu untuk membangunkan santri. Hasilnya, terjadi 12 insiden pertengkaran antara santri dan pengurus kamar, 7 santri tertidur di toilet, dan rata-rata santri tidur pulas saat musyrif menyampaikan kultum shubuh.
-
-### Intervensi TUMBUH
-1. **Regulasi Jam Tidur Malam yang Ketat (*Curfew & Sleep Hygiene*)**: Seluruh lampu kamar dipadamkan maksimal pukul 21.30. Kegiatan belajar mandiri dan tugas dihentikan. Musyrif memastikan sirkulasi udara kamar sejuk dan santri telah berwudhu sebelum tidur.
-2. **Protokol Membangunkan Nabawi yang Lembut (*The Gentle Awakening Protocol*)**: 
-   - Pukul 03.30: Pengurus menyalakan lampu koridor temaram hangat (bukan lampu sorot putih yang menyilaukan mata).
-   - Pengurus kamar mendatangi ranjang santri satu per satu, mengusap punggung atau pundak santri dengan lembut, seraya berbisik santun: *"Bismillah, bangun ya Akhi... Ar-Rahman sedang memanggil kita di waktu sahar yang berkah."*
-   - Disediakan air minum hangat di dispenser koridor untuk rehidrasi metabolisme tubuh sebelum berwudhu.
-3. **Pemberian Ruang Intim Tanpa Paksaan Hafalan**: Waktu antara pukul 03.45 hingga 04.20 dialokasikan khusus untuk shalat sunnah mandiri 2–4 rakaat, diselingi istighfar dan munajat hening tanpa instruksi mikro yang kaku.
-- **Hasil**: Dalam empat pekan, tingkat absensi tahajjud turun drastis hingga 0%. Indeks kecemasan santri menurun 64%, dan suasana sholat subuh berjamaah berubah khusyuk dengan linangan air mata taubat yang menghidupkan kembali ruh masjid asrama.
+1. **Pembersihan Toksin Otak oleh Sistem Glimfatik (*Glymphatic Clearance*)**: Riset Maiken Nedergaard membuktikan bahwa selama *Slow-Wave Sleep* (NREM stadium 3 pada pukul 21.30–02.30), ruang interstisial otak membesar 60%, memungkinkan cairan serebrospinal membilas tumpukan protein beracun beta-amiloid. Syarat bangun sahar yang sehat secara biologis adalah **Tidur Awal Tepat Waktu (Maksimal 21.30)**, sehingga proses detoksifikasi otak selesai sebelum santri terbangun pada pukul 03.30.
+2. **Kondisi Neurofisiologis Gelombang Theta (4–8 Hz)**: Bangun perlahan di waktu sahar dalam suasana temaram menempatkan otak pada spektrum gelombang alfa-theta. Pada frekuensi ini, amigdala berada dalam kondisi tenang, sementara korteks serebral sangat reseptif terhadap kontemplasi batin mendalam (*flow state*), memudahkan penghafalan Al-Qur'an dan pemulihan stres emosional santri.
 
 ---
 
-## 6. Architectural Decision Record (ADR): Protokol Standar Ritme Sahar Asrama 24 Jam
+## 4. Matriks Operasional: Perbandingan Metode Bangun Sahar di Asrama
+
+| Aspek Operasional | Metode Militeristik (Cacat) | Metode Permisif (Lemah) | Metode Sahar Profetik TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Media Membangunkan** | Pukulan ember, siraman air, teriakan toa keras. | Membiarkan santri tidur sesukanya tanpa ada kontrol. | Sentuhan lembut di pundak, salam santun, lampu temaram. |
+| **Respon Neurobiologis** | Lonjakan kortisol liar, takikardia, amigdala panik. | Rasa bersalah bawah sadar, kemalasan kronis. | Transisi gelombang theta tenang, pernafasan teratur. |
+| **Manajemen Jam Tidur** | Santri dibiarkan begadang tugas hingga 23.30. | Tidak ada aturan jam tidur malam di asrama. | Curfew ketat: lampu padam total maksimal 21.30. |
+| **Atmosfer Masjid** | Shalat terburu-buru, santri dimarahi saat mengantuk. | Masjid sepi, pengurus asrama ikut tidur. | Tilawah syahdu, jeda munajat hening, musyrif mendampingi. |
+
+---
+
+## 5. Dialektika Penyelidikan: Tesis Disiplin Keras, Antitesis Kebebasan Santai, dan Sintesis Rahmah Nabawi
+
+### Tesis (Kubu Penegakan Militeristik Keras):
+*"Santri itu pemalas dan susah diatur! Kalau tidak digebrak pintunya dan disiram air mukanya, mereka tidak akan pernah bangun malam! Kekerasan adalah satu-satunya jalan membentuk mental baja!"*
+
+### Antitesis (Kubu Permisivisme Bebas):
+*"Shalat tahajjud itu sunnah, bukan wajib! Biarkan santri tidur semau mereka, jangan dipaksa! Membangunkan mereka di waktu sahar melanggar hak tidur remaja!"*
+
+### Sintesis Arsitektural TUMBUH:
+TUMBUH menegakkan disiplin penuh kasih sayang (*Firm and Kind Tarbiyah*):
+- **Qiyamullail adalah Pilar Utama Karakter Pemimpin**: santri wajib dibina mencintai tahajjud sebagai bekal masa depan.
+- **Namun Cara Menegakkannya Wajib Mengikuti Sunnah Nabawiyyah**: Rasulullah ﷺ membangunkan keluarganya dengan kelembutan (*percikkan air lembut penuh cinta jika sulit bangun, bukan menyiram seember penuh*).
+- Menghilangkan teror di waktu sahar; menjadikan sahar sebagai oase ketenangan yang dirindukan, bukan momok yang ditakuti.
+
+---
+
+## 6. Studi Kasus Konkret: Transformasi Kamar Bilal bin Rabah Menghidupkan Sahar
 
 ```text
-STATUS: KANONIK_DISETUJUI
-NOMOR_ADR: ADR_PROBE_02_P00092
-JUDUL: PROTOKOL PENGELOLAAN WAKTU SAHAR DAN KEHENINGAN SPIRITUAL ASRAMA 24 JAM
-
-KONTEKS:
-Praktik kekerasan fisik dan verbal saat membangunkan santri di waktu sahar merusak fitrah
-spiritual dan kesehatan saraf remaja. Diperlukan standarisasi operasional yang menyelaraskan
-adab nubuwah dengan kaidah neurobiologi sirkadian.
-
-KEPUTUSAN:
-1. Mengharamkan mutlak segala bentuk kekerasan verbal (teriakan makian, ketukan pintu keras)
-   dan kekerasan fisik (siraman air, tarikan kasar selimut) dalam membangunkan santri.
-2. Menetapkan jadwal tidur wajib maksimal pukul 21.30 bagi santri jenjang dasar dan menengah
-   demi menjamin pemenuhan tidur gelombang lambat (Slow-Wave Sleep) sebelum waktu sahar.
-3. Mewajibkan metode "Sentuhan Lembut dan Kalimah Thayyibah" (The Gentle Wake Protocol)
-   sebagai satu-satunya standar operasional pengurus asrama saat membangunkan santri.
-4. Menata pencahayaan asrama: menggunakan lampu kuning redup (warm light) saat fase bangun
-   sahar untuk mencegah kejut fotik (photik shock) pada retina mata santri.
-
-KONSEKUENSI POSITIF:
-- Qiyamullail bertransformasi dari trauma menakutkan menjadi kebutuhan ruhani yang dinikmati.
-- Kebugaran kognitif santri di pagi hari meningkat tajam, menghilangkan fenomena santri tertidur massal di kelas.
-- Hubungan kasih sayang dan rasa hormat antara santri dan pengurus kamar terjalin kokoh.
+KASUS PENANGANAN KEKACAUAN BANGUN SAHAR:
+- Profil Kasus: Kamar 102 Asrama Bilal (12 santri kelas 8 SMP) selalu diwarnai kegaduhan setiap jam 03.30.
+  Pengurus kamar biasa mendobrak pintu dan memukul rangka ranjang dengan tongkat rotan.
+  Hasilnya: 4 santri pura-pura pingsan, 2 santri bersembunyi di dalam lemari baju, dan seluruhnya mengantuk parah di masjid.
+- Intervensi Rekonstruksi TUMBUH:
+  1. Audit Pola Tidur Malam: Ditemukan santri sering ngobrol dan makan mie instan hingga jam 23.00.
+     Musyrif menegakkan aturan pemadaman lampu tepat jam 21.30 dan melarang makan berat ba'da Isya.
+  2. Penerapan "The Gentle Wake Protocol":
+     - Pukul 03.30 pengurus menyalakan lampu koridor temaram hangat (bukan lampu kamar utama).
+     - Pengurus mendatangi tiap kasur, mengusap punggung santri perlahan, berbisik: "Bismillah, bangun ya Akhi...
+       mari jemput ampunan Allah di waktu sahar."
+     - Disediakan air putih hangat di meja kamar untuk membasahi kerongkongan sebelum berwudhu.
+  3. Pendampingan di Masjid: Shalat tahajjud dipimpin dengan bacaan ayat-ayat rahmat yang menyentuh kalbu.
+- Hasil Transformasi: Dalam tempo 2 pekan, seluruh 12 santri terbangun dengan tenang tanpa kepanikan.
+  Tingkat santri tertidur saat shubuh turun menjadi 0%, dan kehangatan ukhuwah di kamar terjalin sangat erat.
 ```
 
 ---
 
-## 7. Implikasi pada Repositori TUMBUH
+## 7. Validasi Turats Lanjutan: Tuntunan Al-Ghazali dalam Menyiapkan Diri untuk Bangun Malam
 
-- **`01_FUNDAMENTAL/`**: Memasukkan ritme waktu sahar sebagai bagian dari *Tauhid Wujudiy* dan penanaman adab batiniah tertinggi kepada Allah.
-- **`02_IMPLEMENTATION/`**: Menyelaraskan kurikulum pembinaan asrama dengan siklus fisiologi sirkadian remaja Islam.
-- **`03_OPERATIONAL/`**: Menjadi dasar penulisan `SOP_BANGUN_MALAM_DAN_QIYAMULLAIL.md` dan panduan etika pengurus kamar dalam etika membangunkan santri.
+Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (*Kitab Asrar ash-Shalah*) merinci empat faktor penolong bangun malam:
+
+$$\text{أَسْبَابٌ مُيَسِّرَةٌ لِقِيَامِ اللَّيْلِ: أَنْ لَا يُكْثِرَ الْأَكْلَ فَيَثْقُلَ عَلَيْهِ النَّوْمُ، وَأَنْ لَا يُتْعِبَ نَفْسَهُ بِالنَّهَارِ فِي الْأَعْمَالِ الَّتِي لَا فَائِدَةَ فِيهَا، وَأَنْ لَا يَتْرُكَ الْقَيْلُولَةَ بِالنَّهَارِ، وَأَنْ يَتَجَنَّبَ الْأَوْزَارَ وَالْآثَامَ بِالنَّهَارِ}$$
+
+*(Faktor-faktor yang memudahkan bangun malam: tidak banyak makan di malam hari agar tidak berat tidurnya, tidak melelahkan diri di siang hari dengan pekerjaan yang tidak berguna, tidak meninggalkan tidur siang sejenak [qailulah], dan menjauhi dosa serta maksiat di siang hari).*
+
+Al-Ghazali mengutip perkataan Sufyan Ats-Tsauri: *"Aku terhalang dari bangun malam selama lima bulan hanya karena satu dosa yang pernah aku perbuat!"*
 
 ---
 
-## 8. Guardrails Penyelidikan: 7 Batas Etika dan Mutu Penyelidikan
+## 8. Persilangan Neurosains: Konsolidasi Memori dan Regulasi Emosi di Sepertiga Malam
 
-1. **Anti-Kekerasan Waktu Sahar**: Segala tindakan membangunkan dengan siraman air, tendangan kasur, atau pukulan tongkat dikategorikan sebagai pelanggaran disiplin berat bagi staf pengasuhan.
-2. **Kewajiban Menjaga Hak Tidur Biologis**: Larangan membebani santri dengan jadwal kegiatan malam melebihi pukul 22.00 yang merampas hak tidur 6–7 jam remaja.
-3. **Keteladanan Musyrif Utama**: Musyrif dan asatidz wajib telah bangun dan berwudhu terlebih dahulu sebelum membangunkan para santri (*Qudwah Qabla ad-Da'wah*).
-4. **Fleksibilitas Santri Sakit**: Santri yang terbukti demam, sakit fisik, atau kelelahan medis ekstrem diberikan dispensasi istirahat di bawah pengawasan pos kesehatan.
-5. **Menghindari Riya' Komunal**: Dilarang memamerkan kegiatan tahajjud santri ke siaran langsung media sosial demi konten promosi pondok; menjaga kesucian rahasia munajat hamba dan Allah.
-6. **Suasana Hening Khidmat**: Menjaga keheningan mutlak di masjid dan koridor; melarang obrolan sia-sia dan candaan gurau yang merusak kekhusyukan munajat sahar.
-7. **Penyelarasan Sanad Adab**: Menjaga adab qiyamullail tetap berpijak pada sunnah shahihah Rasulullah ﷺ dan bimbingan fuqaha ahli ibadah.
+Penelitian neurobiologi hafalan Al-Qur'an di waktu sahar:
+- **Pembersihan Interferensi Kognitif**: Waktu sahar adalah momen di mana korteks serebral bebas dari distorsi informasi sensorik eksternal (suara bising dan hiruk pikuk siang). Mengulang hafalan Al-Qur'an pada fase ini memicu *Long-Term Potentiation (LTP)* di hipokampus secara maksimal.
+- **Modulasi Sistem Saraf Otonom Melalui Sujud Panjang**: Posisi sujud menstimulasi baroreseptor di sinus karotis, memicu dominasi saraf parasimpatis (*vagal tone enhancement*) yang menurunkan kadar kecemasan sosial dan mengobati ketidakstabilan suasana hati remaja.
+
+---
+
+## 9. Integrasi Model PBIS: Manajemen Waktu Sahar Multi-Tier
+
+Dalam arsitektur SW-PBIS TUMBUH:
+- **Tier 1 (Universal Cultural Routine):** Penerapan jadwal tidur malam wajib pukul 21.30 dan protokol membangunkan santun serentak di seluruh kamar asrama.
+- **Tier 2 (Targeted Support):** Pendampingan bagi santri dengan gangguan tidur (*sleep difficulty/insomnia*) atau adaptasi santri baru yang mengalami jet-lag kebiasaan rumah melalui terapi nutrisi dan relaksasi wudhu.
+- **Tier 3 (Intensive Specialized Care):** Pemeriksaan medis bagi santri yang terindikasi mengalami gangguan pernafasan tidur (*obstructive sleep apnea*) atau kelelahan kronis bersama dokter pesantren.
+
+---
+
+## 10. Penerapan Lapangan Asrama 24 Jam: Ekosistem Sahar yang Menyejukkan
+
+Implementasi harian di asrama:
+1. **Penyediaan Sandal Khusus dan Jalur Wudhu Hangat**: Di daerah pegunungan berhawa dingin, pesantren menyediakan kran air dengan suhu yang wajar agar wudhu tidak menimbulkan syok hipotermia pada santri.
+2. **Pencahayaan Adaptif (Circadian Lighting)**: Menghindari lampu neon putih terang benderang di lorong asrama saat jam 03.30; menggunakan lampu temaram kekuningan yang ramah retina mata.
+3. **Majelis Istighfar Sahar Berjamaah**: Menghidupkan lantunan istighfar perlahan menjelang adzan shubuh di masjid, meresapi keagungan ampunan Ilahi.
+
+---
+
+## 11. Imutabilitas Keharaman Tindakan Kekerasan dalam Membangunkan Santri
+
+Di repositori TUMBUH:
+- Diharamkan secara mutlak (*tahriman qath'iyyan*) bagi pengurus asrama atau musyrif menggunakan kekerasan fisik (menendang kasur, memukul dengan kayu, menyiram air dingin ke wajah santri yang tidur) atau kekerasan verbal (makian kasar) saat membangunkan santri. Tindakan tersebut dinyatakan sebagai kezaliman yang mencoreng kesucian ibadah dan pelakunya dikenai sanksi pencopotan amanah pengasuhan.
+
+---
+
+## 12. Taksonomi Kedalaman Menikmati Qiyamullail Santri (J1–J4)
+
+```text
+TAHAPAN PERKEMBANGAN KEMANDIRIAN QIYAMULLAIL SANTRI:
+[ TINGKAT J1: DISIPLIN ADAPTASI ]       ──► Bangun karena dibangunkan pengurus; shalat menahan kantuk (AWAL)
+                     │
+                     ▼
+[ TINGKAT J2: KESADARAN KEWAJIBAN ]     ──► Bangun sendiri dengan alarm; shalat dengan tartil dan tertib (MUTAWASITH)
+                     │
+                     ▼
+[ TINGKAT J3: KENIKMATAN MUNAJAT ]      ──► Merindukan waktu sahar; merasakan linangan air mata dalam sujud (MUTAQADDIM)
+                     │
+                     ▼
+[ TINGKAT J4: QUDWAH PENYERU KEBAIKAN ] ──► Membangunkan kawan dengan kasih sayang; menjadi teladan qiyamullail (PENGGERAK)
+```
+
+---
+
+## 13. Audit Mutu dan Evaluasi Pelaksanaan Sahar Asrama
+
+Indikator pemeriksaan manajemen malam:
+1. **Audit Kepatuhan Jam Padam Lampu Malam**: Memastikan seluruh gedung asrama telah hening dan lampu padam pada pukul 21.30.
+2. **Indeks Kebugaran Kognitif Pagi Hari**: Memantau tingkat santri yang mengantuk atau tertidur di kelas jam pelajaran pertama sekolah.
+3. **Pemeriksaan Metode Membangunkan Santri**: Musyrif senior melakukan observasi berkala terhadap etika pengurus kamar saat jam 03.30.
+
+---
+
+## 14. Dialog Kebapakan: "Allah Sedang Menunggumu di Sepertiga Malam, Nak"
+
+Bisikan musyrif saat mengusap pundak santri yang kesulitan membuka mata di waktu sahar:
+*"Bismillah, ananda... bangunlah, Nak. Jangan biarkan kasur empuk ini menipumu dari kemuliaan yang abadi. Di luar sana, Rabb semesta alam sedang turun ke langit dunia menanyakan siapa hamba-Nya yang ingin memohon ampunan. Dinginnya air wudhu ini akan menjadi pemadam api nerakamu kelak; sujudmu malam ini akan menjadi lentera penerang kuburmu. Bangunlah, mari kita bersimpuh bersama di hadapan-Nya."*
+
+---
+
+## 15. Decision Record: Penetapan Standar Kanonik Ritme Sahar dan Qiyamullail
+
+```text
+CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00092):
+- Status: DITERIMA & MENETAPKAN PROTOKOL SAHAR DAN KEHENINGAN SPIRITUAL PROFETIK KANONIK
+- Keputusan: Mengesahkan kebijakan manajemen waktu sahar dan qiyamullail dalam ekosistem TUMBUH:
+              1. Menolak metode kekerasan fisik dan teror verbal dalam membangunkan santri di waktu sahar.
+              2. Menetapkan jadwal tidur wajib maksimal pukul 21.30 guna menjamin siklus Slow-Wave Sleep santri.
+              3. Mewajibkan penerapan "The Gentle Awakening Protocol" (sentuhan lembut dan doa nabawi) di seluruh kamar.
+- Larangan: Mengharamkan siraman air kasar, gebrakan pintu, dan membiarkan santri begadang melewati batas waktu.
+- Dampak: Seluruh SOP asrama diselaraskan dengan etika ibadah nabawiyyah dan kesehatan sirkadian remaja.
+```
+
+---
+
+## 16. Implikasi bagi Repositori TUMBUH
+
+Penyelidikan P00092 ini mengikat secara sistemik:
+1. **`01_FUNDAMENTAL/`**: Bab *Kosmologi Waktu Islam: Sakralitas Waktu Sahar, Fenomenologi Qiyamullail, dan Pembinaan Jiwa Mutaqaddim*.
+2. **`02_IMPLEMENTATION/`**: Manajemen Ritme Sirkadian Pesantren dan Kurikulum Adab Qiyamullail.
+3. **`03_OPERATIONAL/`**: SOP Pengelolaan Bangun Sahar Asrama, Panduan Kebersihan dan Kenyamanan Kamar Tidur Malam, serta Instrumen Supervisi Ronda Malam.
+
+---
+
+## 17. Guardrails P00092
+
+1. **Haram menggunakan kekerasan fisik dan teriakan kasar dalam membangunkan santri di waktu sahar.**
+2. **Haram membiarkan santri tidur larut malam melampaui pukul 22.00 tanpa alasan kedaruratan yang sah.**
+3. **Wajib menjamin hak tidur biologis santri terpenuhi minimal 6–7 jam per hari.**
+4. **Musyrif asrama wajib telah bangun dan berwudhu terlebih dahulu sebelum membangunkan para santri (*qudwah*).**
+5. **Dilarang memamerkan kegiatan tahajjud santri ke siaran media sosial demi menjaga kesucian niat ikhlas.**
+6. **Pastikan santri yang sakit fisik atau kelelahan medis ekstrem diberikan dispensasi istirahat di poskestren.**
+7. **Jadikan manisnya munajat di waktu sahar (*halawatul munajah*) sebagai mahkota tarbiyah ruhiyyah santri TUMBUH.**
+
+---
+
+## Penutup
+
+Waktu sahar adalah taman pertemuan rahasia antara hamba yang fakir dan Rabb Yang Maha Kaya:
+
+> **Santri TUMBUH menyambut panggilan sahar bukan dengan keluhan raga yang lelah, melainkan dengan kerinduan kalbu yang bergetar; ia bangkit membelah dinginnya malam, membasuh wajahnya dengan air wudhu yang menyegarkan, lalu merebahkan keningnya dalam sujud panjang di hadapan Allah SWT demi menyongsong kemuliaan dunia dan akhirat.**
+
+---
+
+## Pertanyaan berikutnya — P00093
+
+**Fenomenologi Ritme Spiritual 24 Jam (II): Filosofi Fajar dan Dzikir Pagi dalam Penyelarasan Energi Ruhani Harian Santri.**

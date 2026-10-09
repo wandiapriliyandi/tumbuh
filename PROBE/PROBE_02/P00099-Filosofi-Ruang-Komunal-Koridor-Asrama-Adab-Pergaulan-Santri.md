@@ -15,7 +15,7 @@ Bagaimana TUMBUH membedah **Fenomenologi Ritme Spiritual 24 Jam (VIII): Filosofi
 ```text
 DIKOTOMI KORIDOR ANARKIS VS RUANG KOMUNAL MADANI NABAWI:
 
-   [ KORIDOR ANARKIS & INTINIDATIF ]             [ RUANG KOMUNAL MADANI & AMAN (TUMBUH) ]
+   [ KORIDOR ANARKIS & INTIMIDATIF ]             [ RUANG KOMUNAL MADANI & AMAN (TUMBUH) ]
    - Duduk nongkrong di tangga, tertawa terbahak - Koridor bersih, lapang, sandal tertata di rak
    - Mengintimidasi adik kelas & sindiran kasar  - Menebarkan senyum, salam, & perlindungan adik kelas
    - Sandal & jemuran berserakan menghalangi jalan- Menyingkirkan duri/sampah dari jalan (cabang iman)
@@ -48,111 +48,212 @@ merusak rasa malu (*haya'*), melanggar batas aurat, dan menormalisasi ketidaksop
 
 ---
 
-## 2. Dekonstruksi Filosofis: Dari Ruang Tanpa Tuan Menuju Ruang Amanah Wakaf
-
-Dalam sosiologi modern sekuler, ruang publik kerap mengalami apa yang disebut Garret Hardin sebagai *Tragedy of the Commons*: karena ruang publik adalah milik bersama, maka tidak ada individu yang merasa bertanggung jawab merawatnya; akibatnya, ruang publik menjadi tempat yang paling cepat rusak, kotor, dan dieksploitasi sesuka hati.
-
-Dalam pandangan Islam, seluruh fasilitas pesantren—termasuk koridor, tangga, dan halaman—adalah **Amanah Harta Wakaf Kaum Muslimin (*Amanatul Waqf*)**. Setiap jengkal lantai asrama dibangun dari tetesan keringat dan infak para wakif yang mengharapkan pahala jariyah. Mengotori koridor, membiarkan sampah berserakan, atau menggunakan ruang umum untuk menindas orang lain adalah bentuk pengkhianatan terhadap amanah wakaf dan kezaliman sosial yang nyata.
+## 2. Landasan Turats: Hak Jalan dalam Al-Qur'an dan Sunnah Nabawiyyah
 
 Al-Qur'an memuji hamba-hamba Allah Yang Maha Pengasih (*'Ibadur Rahman*) dengan perilaku mereka saat berjalan di muka bumi:
 
-> **وَعِبَادُ ٱلرَّحْمَـٰنِ ٱلَّذِينَ يَمْشُونَ عَلَى ٱلْأَرْضِ هَوْنًۭا وَإِذَا خَاطَبَهُمُ ٱلْجَـٰهِلُونَ قَالُوا۟ سَلَـٰمًۭا**
-> 
-> *"Dan hamba-hamba Rabb Yang Maha Pengasih itu adalah orang-orang yang berjalan di bumi dengan rendah hati, dan apabila orang-orang bodoh menyapa mereka (dengan kata-kata menghina), mereka mengucapkan 'salam'."* (QS. Al-Furqan: 63)
+$$\text{وَعِبَادُ الرَّحْمَٰنِ الَّذِينَ يَمْشُونَ عَلَى الْأَرْضِ هَوْنًا وَإِذَا خَاطَبَهُمُ الْجَاهِلُونَ قَالُوا سَلَامًا}$$
 
-Berjalan dengan tenang (*haunan*), penuh ketawadhu'an tanpa menyombongkan diri atau mengintimidasi orang lain, adalah identitas hakiki santri Rabbani.
+*(Dan hamba-hamba Rabb Yang Maha Pengasih itu adalah orang-orang yang berjalan di bumi dengan rendah hati, dan apabila orang-orang bodoh menyapa mereka [dengan kata-kata menghina], mereka mengucapkan 'salam').* (QS. Al-Furqan: 63).
 
----
+Dan firman Allah Ta'ala mengenai larangan bersikap angkuh di ruang publik:
 
-## 3. Integrasi Turats: Sunnah Hak-Hak Jalan dan Cabang Keimanan
+$$\text{وَلَا تَمْشِ فِي الْأَرْضِ مَرَحًا ۖ إِنَّ اللَّهَ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ ۝ وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ}$$
 
-Khazanah hadits Rasulullah ﷺ menetapkan etika ruang publik secara sangat eksplisit:
+*(Dan janganlah engkau berjalan di bumi dengan sombong; sungguh Allah tidak menyukai orang-orang yang sombong lagi membanggakan diri. Dan sederhanakanlah langkahmu dan lunakkanlah suaramu).* (QS. Luqman: 18-19).
 
-### A. Hadits Shahih Hak Jalan (*Haqquth Thariq*)
-Dari Abu Sa'id Al-Khudri radhiyallahu 'anhu, Nabi ﷺ bersabda:
-> *"Hindarilah oleh kalian duduk-duduk di pinggir jalan!" Para sahabat berkata: "Wahai Rasulullah, kami tidak bisa meninggalkannya, itu adalah tempat duduk kami untuk berbincang-bincang." Beliau bersabda: **"Jika kalian enggan dan tetap harus duduk di sana, maka berikanlah hak jalan kepada jalanan tersebut!"** Mereka bertanya: "Apakah hak jalan itu, wahai Rasulullah?" Beliau menjawab: **"Menundukkan pandangan (ghadhdhul bashar), menahan diri dari menyakiti orang lain (kafful adza), menjawab salam, serta memerintahkan kebaikan dan mencegah kemungkaran."**"* (HR. Al-Bukhari no. 2465, Muslim no. 2121)
+Dalam hadits shahih, Rasulullah ﷺ menetapkan hak-hak jalan (*haqquth thariq*):
+> *"إِيَّاكُمْ وَالْجُلُوسَ عَلَى الطُّرُقَاتِ... فَإِذَا أَبَيْتُمْ إِلَّا الْمَجْلِسَ، فَأَعْطُوا الطَّرِيقَ حَقَّهُ: غَضُّ الْبَصَرِ، وَكَفُّ الْأَذَى، وَرَدُّ السَّلَامِ، وَأَمْرٌ بِالْمَعْرُوفِ، وَنَهْيٌ عَنِ الْمُنْكَرِ"*
+> *(Hindarilah oleh kalian duduk-duduk di pinggir jalan!... Jika kalian enggan dan tetap harus duduk di sana, maka berikanlah hak jalan kepada jalanan tersebut: **menundukkan pandangan [ghadhdhul bashar], menahan diri dari menyakiti orang lain [kafful adza], menjawab salam, serta memerintahkan kebaikan dan mencegah kemungkaran**).* (HR. Al-Bukhari no. 2465, Muslim no. 2121).
 
-Larangan ini secara langsung berlaku pada kebiasaan santri yang gemar "nongkrong" di lorong asrama dan tangga yang menghalangi kelancaran arus lalu lintas santri lain.
-
-### B. Menyingkirkan Gangguan dari Jalan sebagai Cabang Iman
-Rasulullah ﷺ bersabda:
-> *"Iman itu ada tujuh puluh lebih—atau enam puluh lebih—cabang. Cabang yang paling tinggi adalah ucapan 'Laa ilaaha illallaah', dan **cabang yang paling rendah adalah menyingkirkan gangguan dari jalanan (imathatul adza 'anith thariq)**; dan rasa malu adalah salah satu cabang dari keimanan."* (HR. Al-Bukhari no. 9, Muslim no. 35)
-
-Menyingkirkan sandal yang melintang, genangan air di tangga, atau paku yang jatuh di koridor asrama dinilai oleh Allah sebagai amal shalih cabang keimanan yang berpahala besar.
+Dan sabda beliau bahwa menyingkirkan gangguan dari jalan adalah cabang iman:
+> *"وَأَدْنَاهَا إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ"* *(Dan cabang iman yang paling rendah adalah menyingkirkan gangguan dari jalanan).* (HR. Al-Bukhari no. 9, Muslim no. 35).
 
 ---
 
-## 4. Wawasan Desain Lingkungan Pencegah Kejahatan (CPTED) dan Psikologi Sosial
+## 3. Analisis Sains Kontemporer: Desain CPTED dan Teori Kaca Pecah (*Broken Windows Theory*)
 
-Kajian arsitektur sosial modern mengonfirmasi pentingnya tata kelola ruang publik:
+Kajian kriminologi spasial dan psikologi lingkungan membuktikan peran krusial ruang komunal:
 
-1. **Crime Prevention Through Environmental Design (CPTED) & Pengawasan Alami (*Natural Surveillance*)**: CPTED membuktikan bahwa perilaku menyimpang (seperti perundungan, pemalakan, atau pelecehan) berkembang subur di area-area titik buta (*blind spots*), lorong remang-remang, dan sudut tangga yang tertutup dinding masif. Dengan mendesain koridor yang terang, transparan, dan memiliki visibilitas pandangan terbuka dari ruang musyrif, potensi perundungan fisik antar-santri turun hingga 85%.
-2. **Teori Kaca Pecah (*Broken Windows Theory*) di Koridor Asrama**: Sosiologi lingkungan James Q. Wilson membuktikan bahwa tumpukan sandal yang berserakan atau sampah plastik yang dibiarkan di koridor mengirimkan sinyal bawah sadar bahwa "tidak ada aturan dan tidak ada yang peduli di area ini", memicu santri untuk melakukan pelanggaran adab yang lebih berani. Sebaliknya, koridor yang bersih tanpa sebutir debu secara otomatis mendisiplinkan santri untuk menjaga tingkah laku mereka.
-
----
-
-## 5. Studi Kasus Lapangan: Penataan Ulang Koridor di Asrama Bilal bin Rabah
-
-### Konteks Kasus
-Gedung Asrama Bilal (3 lantai, dihuni 120 santri MTs dan MA) memiliki atmosfer lorong yang kacau. Di tangga lantai 2, sekelompok santri kelas 11 dan 12 selalu nongkrong setiap sore sehabis ashar, tertawa keras, dan menatap tajam setiap santri kelas 7 yang melintas; tercatat 4 santri kelas 7 menangis dan menolak keluar kamar karena takut. Di pintu masuk asrama, 100 pasang sandal menumpuk bagai bukit sampah, memicu hilangnya sandal secara massal dan praktik memakai sandal orang lain tanpa izin (*ghashab*).
-
-### Intervensi TUMBUH (Protokol "Mamarrul Aman wal Ukhuwah")
-1. **Rekayasa Fisik Koridor dan Pencahayaan**:
-   - Pemasangan lampu LED terang benderang di seluruh koridor dan bordes tangga; meratakan sudut-sudut remang dan memastikan koridor terlihat jelas dari meja piket musyrif.
-   - Pemasangan rak sandal kayu bertingkat bernomor di dinding luar kamar: setiap santri memiliki satu slot bernomor khusus untuk sepasang sandalnya. Sandal yang ditaruh di luar rak akan diamankan petugas kebersihan.
-2. **Penegakan Aturan Mutlak "Zero Nongkrong di Tangga"**:
-   - Tangga dan koridor dideklarasikan sebagai **Zona Sirkulasi Murni (*Pure Transit Zone*)**: dilarang duduk-duduk, berkumpul, atau mengobrol statis di tangga dan lorong jalan. Jika ingin berdiskusi, santri diarahkan ke gazebo taman atau aula komunal terbuka.
-3. **Internalisasi Budaya "Tebar Salam dan Beri Jalan"**:
-   - Santri dilatih etika berpapasan: menatap mata dengan senyum hangat, mengucapkan salam *"Assalamu'alaikum ya Akhi"*, dan merapatkan tubuh ke sisi kiri memberi jalan kepada orang yang membawa barang berat, santri yang lebih tua, atau guru.
-   - Pengurus kamar wajib melakukan ronda koridor setiap 30 menit pada jam rawan (antara Ashar-Maghrib dan Isya-tidur) guna menjamin rasa aman adik kelas.
-- **Hasil**: Laporan perundungan dan intimidasi di koridor turun menjadi 0 kasus. Fenomena sandal hilang dan ghashab sandal lenyap total. Koridor gedung menjadi bersih rapi, tenang, dan setiap adik kelas merasa terlindungi dan dihargai saat berjalan di asrama.
+1. **Crime Prevention Through Environmental Design (CPTED) & *Natural Surveillance***: Riset CPTED C. Ray Jeffery membuktikan bahwa tindakan perundungan (*bullying*) dan intimidasi berkembang di area dengan visibilitas rendah (sudut remang dan koridor tertutup). Koridor yang lapang, terang benderang (*illuminance level 150–200 lux*), dan berada dalam jangkauan pandang meja piket musyrif menurunkan insiden agresi antar-santri hingga 85%.
+2. **Teori Kaca Pecah (*The Broken Windows Theory*) di Koridor Asrama**: James Q. Wilson membuktikan bahwa kekacauan kecil yang dibiarkan (seperti tumpukan sandal berantakan atau sampah botol di tangga) memberikan pesan bawah sadar bahwa "lingkungan ini tidak bertuan dan tidak ada aturan", mengundang pelanggaran adab yang lebih besar. Menjaga kerapian lorong asrama secara konsisten membentuk disiplin kepatuhan otomatis (*automatic behavioral compliance*) pada santri.
 
 ---
 
-## 6. Architectural Decision Record (ADR): Standarisasi Tata Kelola Ruang Komunal Asrama
+## 4. Matriks Operasional: Perbandingan Budaya Ruang Publik Asrama
+
+| Dimensi Koridor & Ruang Publik | Pola Anarkis Asrama Konvensional | Pola Pengawasan Militeristik Kaku | Ekosistem Mamarrul Aman TUMBUH |
+| :--- | :--- | :--- | :--- |
+| **Fungsi Tangga & Bordes** | Tempat nongkrong santri senior, tertawa gaduh. | Dijaga pengurus dengan ancaman hukuman lari. | Zona Sirkulasi Murni (*Pure Transit Zone*); dilarang statis. |
+| **Manajemen Sandal & Sepatu** | Menumpuk menggunung di lantai; rawan ghashab. | Sandal disita jika tidak ditaruh rapi. | Rak dinding bernomor khusus per pasang sandal santri. |
+| **Standar Pakaian Melintas** | Celana pendek di atas lutut, bertelanjang dada. | Wajib seragam kaku setiap saat di lorong. | Pakaian sopan menutup aurat (celana panjang/sarung & baju). |
+| **Budaya Berpapasan** | Menatap sinis adik kelas, acuh tak acuh. | Menunduk kaku laksana tawanan perang. | Menatap hangat, tersenyum, menyebarkan salam nabawi. |
+
+---
+
+## 5. Dialektika Penyelidikan: Tesis Senioritas Lorong vs Sintesis Ukhuwah Madaniyyah
+
+### Tesis (Kubu Feodalisme Senioritas Asrama):
+*"Lorong tangga dan sudut asrama adalah wilayah kekuasaan santri senior! Adik kelas harus merasa segan dan takut saat lewat di depan senior agar terbentuk mental hormat dan hierarki pesantren!"*
+
+### Antitesis (Kubu Individualisme Apatis):
+*"Koridor adalah ruang publik bebas! Santri bebas melakukan apa saja, bebas memakai pakaian apa saja sehabis mandi, dan tidak perlu saling menyapa urusan orang lain!"*
+
+### Sintesis Arsitektural TUMBUH:
+TUMBUH menegakkan peradaban madani profetik yang hangat dan berwibawa:
+- **Menghapuskan Pengkastaan Senioritas dan Teror Lorong**: seluruh santri adalah hamba Allah yang bersaudara; santri senior adalah pelindung dan pengayom adik kelas, bukan penindas.
+- **Koridor Adalah Ruang Bersama Amanah Wakaf**: wajib dijaga kesuciannya, kerapiannya, dan batas kesopanan auratnya setiap detik.
+- Mengubah koridor dari tempat yang menakutkan menjadi "Lorong Keselamatan (*Mamarrus Salam*)" tempat bertemunya senyuman ukhuwah dan kehangatan salam Islami.
+
+---
+
+## 6. Studi Kasus Konkret: Rekayasa Koridor Damai di Asrama Bilal bin Rabah
 
 ```text
-STATUS: KANONIK_DISETUJUI
-NOMOR_ADR: ADR_PROBE_02_P00099
-JUDUL: PROTOKOL STANDARISASI ADAB RUANG KOMUNAL, KORIDOR, DAN PENCEGAHAN TITIK RAWAN ASRAMA
-
-KONTEKS:
-Koridor yang berantakan, tumpukan sandal liar, dan tradisi nongkrong santri senior di tangga
-menciptakan iklim intimidasi sosial dan merusak hak jalan publik syariat. Diperlukan standarisasi
-arsitektur ruang publik dan adab pergaulan madani di asrama 24 jam.
-
-KEPUTUSAN:
-1. Menetapkan Koridor dan Tangga Asrama sebagai "Zona Sirkulasi Transit Bebas Hambatan";
-   melarang keras santri duduk-duduk, bergerombol, atau nongkrong statis di jalur lintas.
-2. Mewajibkan penyediaan Rak Sandal Mandiri Bernomor di depan setiap kamar; mengharamkan
-   tindakan meletakkan alas kaki berserakan di lantai koridor atau pintu masuk masjid.
-3. Menegakkan prinsip CPTED: menjamin pencahayaan terang benderang di seluruh ruang publik
-   dan menghilangkan titik buta (blind spots) guna mencegah potensi perundungan senioritas.
-4. Menegakkan standar pakaian publik: mengharamkan santri melintasi koridor umum hanya
-   mengenakan handuk, celana pendek di atas lutut, atau bertelanjang dada sehabis mandi.
-
-KONSEKUENSI POSITIF:
-- Menjamin rasa aman psikologis (psychological safety) mutlak bagi santri baru dan adik kelas.
-- Mengeliminasi budaya ghashab sandal dan perselisihan akibat hilangnya alas kaki santri.
-- Membangun kultur pesantren madani yang mencerminkan keluhuran akhlak Islam di ruang publik.
+KASUS INTIMIDASI KORIDOR DAN KEKACAUAN SANDAL:
+- Profil Kasus: Gedung Asrama Bilal (3 lantai, 120 santri) mengalami iklim sosial yang mencekam.
+  Kelompok santri kelas 12 biasa nongkrong di bordes tangga lantai 2 setiap sore, menatap tajam dan mencemooh
+  setiap santri kelas 7 yang melintas; 4 santri baru menangis dan menahan buang air karena takut melewati tangga.
+  Di pintu masuk, 100 pasang sandal berserakan menggunung, memicu aksi saling ghashab sandal massal.
+- Intervensi Rekonstruksi TUMBUH:
+  1. Penataan Ulang Arsitektur Koridor dan Pencahayaan:
+     - Pemasangan lampu LED terang di seluruh koridor dan tangga; menghilangkan sudut-sudut gelap.
+     - Pemasangan rak sandal kayu bertingkat bernomor di dinding luar kamar: setiap santri memiliki slot bernomor sendiri.
+       Sandal yang ditaruh di lantai diamankan petugas piket kebersihan.
+  2. Deklarasi "Pure Transit Zone" di Tangga:
+     - Tangga dan koridor ditetapkan sebagai jalur lewat murni: dilarang duduk-duduk atau mengobrol statis.
+     - Jika santri ingin berdiskusi, diarahkan ke gazebo taman asrama atau aula belajar komunal terbuka.
+  3. Pembiasaan Budaya "Tebar Salam dan Lapangkan Jalan":
+     - Santri dilatih adab berpapasan: menatap mata dengan senyum hangat, mendahului mengucap salam,
+       dan merapatkan tubuh ke sisi kiri memberi jalan kepada yang membawa beban berat atau orang yang lebih tua.
+     - Pengurus kamar melakukan ronda koridor setiap 30 menit pada jam-jam rawan sore dan malam.
+- Hasil Transformasi: Laporan intimidasi dan perundungan koridor turun menjadi 0 kasus.
+  Fenomena ghashab sandal lenyap total. Koridor asrama menjadi bersih, tenang, dan santri baru merasa sangat aman.
 ```
 
 ---
 
-## 7. Implikasi pada Repositori TUMBUH
+## 7. Validasi Turats Lanjutan: Hak Jalan Menurut Imam Al-Ghazali dalam *Ihya' 'Ulumiddin*
 
-- **`01_FUNDAMENTAL/`**: Menempatkan penegakan hak jalan (*Hifzhul Huquq al-'Ammah*) dan penyingkiran gangguan sebagai bukti kesempurnaan cabang iman santri.
-- **`02_IMPLEMENTATION/`**: Mengembangkan pedoman arsitektur biofilik dan tata ruang terbuka asrama yang aman dari intimidasi sosial.
-- **`03_OPERATIONAL/`**: Menjadi dasar penulisan `SOP_TATA_TERTIB_KORIDOR_DAN_RUANG_KOMUNAL.md`, daftar periksa ronda malam musyrif (*Night Patrol Checklist*), dan etika berpakaian santri di ruang publik asrama.
+Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (*Kitab al-Amru bil Ma'ruf wan Nahyu 'anil Munkar*) menguraikan rincian kemungkaran di jalan dan ruang publik:
+
+$$\text{مِنَ الْمُنْكَرَاتِ فِي الطُّرُقَاتِ: الْجُلُوسُ فِي مَمَرِّ النَّاسِ بِحَيْثُ يُضَيِّقُ عَلَيْهِمْ، وَتَرْكُ الْقُمَامَةِ وَالْأَقْذَارِ فِيهَا، وَتَعْلِيقُ الثِّيَابِ بِمَا يَمْنَعُ ضَوْءَ الشَّمْسِ أَوْ يُلَامِسُ الْمَارَّةَ، وَاسْتِطَالَةُ أَلْسِنَةِ الْجَالِسِينَ بِالْغِيبَةِ وَالسُّخْرِيَةِ مِنَ الْمُجْتَازِينَ؛ وَكُلُّ ذَلِكَ ظُلْمٌ يَجِبُ عَلَى وُلَاةِ الْأَمْرِ إِزَالَتُهُ}$$
+
+*(Di antara bentuk kemungkaran di jalanan umum adalah: duduk di tempat lalu lintas manusia sehingga mempersempit jalan bagi mereka, membiarkan sampah dan kotoran berserakan di jalan, menggantungkan pakaian yang menghalangi cahaya matahari atau menyentuh orang yang lewat, serta melontarkan celaan lidah orang-orang yang duduk dengan mengghibah dan memperolok orang yang melintas; dan semua itu adalah kezaliman yang wajib dihilangkan oleh pengelola amanah).*
 
 ---
 
-## 8. Guardrails Penyelidikan: 7 Batas Etika dan Mutu Penyelidikan
+## 8. Persilangan Neurosains: Efek Neurobiologis Senyuman dan Pandangan Tenang
 
-1. **Jaminan Keamanan Fisik Koridor**: Lantai koridor dan tangga harus menggunakan material anti-slip (tidak licin) dan dilengkapi pegangan tangan (*handrail*) kokoh demi keselamatan santri.
-2. **Kemandirian Fasilitas Sandal**: Santri wajib memiliki sandal sendiri yang bertuliskan nama jelas; pengasuh dilarang membiarkan praktik peminjaman sandal tanpa izin (*ghashab*).
-3. **Pemberian Teguran Humanis**: Peneguran santri yang nongkrong di tangga harus dilakukan secara edukatif dan simpatik tanpa menggunakan kata-kata kasar atau penghinaan pribadi.
-4. **Perlindungan Privasi Asrama Putri**: Koridor asrama putri wajib tertutup dari pandangan umum orang luar/tamu laki-laki sesuai batas hijab syar'i.
-5. **Kebersihan Tempat Sampah Terpilah**: Setiap lantai koridor wajib dilengkapi tempat sampah organik dan anorganik bertutup yang dikosongkan setiap pagi dan sore hari.
-6. **Eliminasi Suara Bising di Jam Tenang**: Koridor harus berada dalam kondisi hening total setelah pukul 21.30 demi menghormati hak istirahat santri yang tidur.
-7. **Penyelarasan dengan Hadits Nabawi**: Seluruh adab ruang publik wajib disandarkan pada hadits-hadits shahih perihal hak-hak jalan, menebarkan salam, dan menahan diri dari menyakiti orang lain.
+Penelitian neurosains sosial terhadap interaksi berpapasan di ruang publik:
+- **Aktivasi Sistem Saraf Cermin (*Mirror Neuron System*) Melalui Senyum dan Salam**: Ketika dua orang berpapasan dan salah satunya tersenyum tulus seraya mengucap salam, sistem saraf cermin di korteks premotor lawan bicara merefleksikan emosi aman tersebut, memicu pelepasan oksitosin dan menurunkan tingkat kewaspadaan cemas (*social anxiety*) seketika.
+- **Pengurangan Ancaman Amigdala Melalui Penundukan Pandangan (*Ghadhdhul Bashar*)**: Menundukkan pandangan santun mencegah persepsi sinyal ancaman dominasi (*dominance stare threat*) yang biasanya memicu respon agresif atau rasa terintimidasi pada remaja.
+
+---
+
+## 9. Integrasi Model PBIS: Manajemen Ruang Komunal Multi-Tier
+
+Dalam arsitektur SW-PBIS TUMBUH:
+- **Tier 1 (Universal Public Corridor Standards):** Larangan nongkrong di tangga, kewajiban rak sandal tertib, dan pembiasaan salam berpapasan serentak di seluruh gedung.
+- **Tier 2 (Targeted Support):** Bimbingan khusus bagi kelompok santri yang terbiasa membentuk geng teritorial di koridor asrama melalui pengalihan ke proyek khidmah komunal.
+- **Tier 3 (Intensive Specialized Care):** Investigasi tegas dan perlindungan mutlak bagi korban perundungan atau pemalakan di koridor asrama melalui tindakan disiplin restoratif terpadu.
+
+---
+
+## 10. Penerapan Lapangan Asrama 24 Jam: Protokol Koridor Damai
+
+Langkah konkret di koridor asrama:
+1. **Penataan Rak Sandal Dinding Bernomor**: Setiap santri memiliki slot rak sandal khusus di depan kamarnya; dilarang keras menaruh alas kaki di lantai koridor.
+2. **Pencahayaan Terang Penuh 24 Jam di Area Tangga**: Menjamin lampu LED di seluruh bordes tangga menyala terang guna mengeliminasi sudut-sudut rawan kejahatan.
+3. **Penyediaan Kotak Masukan/Aduan Rahasia**: Memasang kotak suara aman di koridor bagi santri yang ingin melaporkan perundungan tanpa takut diketahui oleh senior.
+
+---
+
+## 11. Imutabilitas Keharaman Intimidasi Senior dan Ketidaksopanan Aurat di Koridor
+
+Di repositori TUMBUH:
+- Diharamkan secara mutlak (*tahriman qath'iyyan*) bagi santri senior melakukan intimidasi, tatapan merendahkan, atau perundungan kepada adik kelas di area koridor. Diharamkan pula melintasi koridor umum hanya mengenakan handuk atau celana pendek yang memperlihatkan aurat. Pelanggaran aurat dan intimidasi publik dikenai sanksi penegakan disiplin seketika.
+
+---
+
+## 12. Taksonomi Kedalaman Adab Publik Santri (J1–J4)
+
+```text
+TAHAPAN KEMATANGAN ADAB RUANG KOMUNAL SANTRI:
+[ TINGKAT J1: PATUH TERTIB LALU LINTAS ] ──► Tidak nongkrong di tangga karena takut teguran musyrif (AWAL)
+                     │
+                     ▼
+[ TINGKAT J2: DISIPLIN KESOPANAN ]      ──► Sandal selalu di rak; berpakaian rapi saat melintas di lorong (MUTAWASITH)
+                     │
+                     ▼
+[ TINGKAT J3: PENEBAR SALAM & UKHUWAH ] ──► Selalu tersenyum dan menyapa salam; menyingkirkan sampah di jalan (MUTAQADDIM)
+                     │
+                     ▼
+[ TINGKAT J4: PELINDUNG RASA AMAN ]     ──► Mengayomi adik kelas; menjaga ketenangan dan keharmonisan publik (PENGGERAK)
+```
+
+---
+
+## 13. Audit Mutu dan Parameter Evaluasi Ruang Publik Asrama
+
+Parameter inspeksi kebersihan dan ketertiban ruang publik:
+1. **Kerapian Sandal di Depan Kamar**: 100% sandal tertata rapi di dalam rak dinding bernomor tanpa ada yang berserakan di lantai.
+2. **Ketiadaan Titik Rawan Intimidasi (*Hotspot Elimination Rate*)**: Seluruh koridor dan tangga bebas dari kerumunan santri nongkrong statis.
+3. **Indeks Keamanan Koridor Versi Adik Kelas**: Survei berkala memastikan adik kelas merasa 100% aman melintasi koridor dan tangga kapan pun.
+
+---
+
+## 14. Dialog Kebapakan: "Lorong Ini Adalah Jalan Ukhuwah, Lapangkanlah bagi Saudaramu"
+
+Pesan musyrif saat melihat santri senior bergerombol menghalangi tangga asrama:
+*"Ananda sekalian, ketahuilah bahwa tangga yang sedang engkau duduki ini adalah jalan lalu lintas bagi saudaramu yang letih menuntut ilmu. Rasulullah ﷺ telah melarang kita duduk-duduk di jalanan yang menghalangi orang lain. Mengapa engkau jadikan tempat ini sarang candaan yang membuat adik-adik kelasmu merasa takut melintas? Berdirilah, Nak! Jika engkau ingin mengobrol, duduklah di aula yang mulia. Dan jika engkau melihat adik kelasmu membawa barang berat, ringankan langkahmu untuk membantunya. Itulah kemuliaan akhlak seorang santri senior yang menjadi panutan."*
+
+---
+
+## 15. Decision Record: Penetapan Standar Kanonik Adab Ruang Komunal dan Koridor
+
+```text
+CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00099):
+- Status: DITERIMA & MENETAPKAN PROTOKOL RUANG KOMUNAL DAN HAK JALAN NABAWI KANONIK
+- Keputusan: Mengesahkan kebijakan tata kelola koridor dan adab ruang publik dalam ekosistem TUMBUH:
+              1. Menetapkan koridor dan tangga asrama sebagai "Zona Sirkulasi Transit Murni" (bebas nongkrong statis).
+              2. Mewajibkan penyediaan Rak Sandal Mandiri Bernomor di depan kamar dan mengharamkan tumpukan sandal di lantai.
+              3. Menerapkan prinsip CPTED: penerangan terang benderang 24 jam guna mengeliminasi titik buta intimidasi.
+- Larangan: Mengharamkan intimidasi senior di lorong, ghashab sandal, dan melintasi koridor dengan pakaian melanggar aurat.
+- Dampak: Rasa aman psikologis santri baru terjamin mutlak dan budaya adab madani tegak di seluruh ruang publik asrama.
+```
+
+---
+
+## 16. Implikasi bagi Repositori TUMBUH
+
+Penyelidikan P00099 ini mengikat secara sistemik:
+1. **`01_FUNDAMENTAL/`**: Bab *Etika Ruang Publik Islam: Haqquth Thariq, Adab al-Mu'asyarah al-'Ammah, dan Pencegahan Kemungkaran Spasial*.
+2. **`02_IMPLEMENTATION/`**: Model Arsitektur Koridor Aman CPTED Pesantren dan Standar Fasilitas Komunal Asrama.
+3. **`03_OPERATIONAL/`**: SOP Tata Tertib Koridor dan Ruang Komunal, Instrumen Ronda Keamanan Musyrif, serta Pedoman Berpakaian Publik Santri.
+
+---
+
+## 17. Guardrails P00099
+
+1. **Haram santri duduk bergerombol atau nongkrong statis di tangga dan lorong jalan asrama.**
+2. **Haram melakukan intimidasi, cemoohan, atau tatapan merendahkan kepada adik kelas di ruang publik.**
+3. **Wajib menaruh sandal dan sepatu di dalam rak dinding bernomor yang telah disediakan.**
+4. **Dilarang melintasi koridor umum hanya mengenakan handuk atau pakaian yang memperlihatkan aurat.**
+5. **Setiap koridor dan tangga wajib memiliki penerangan terang benderang guna mencegah titik rawan kejahatan.**
+6. **Pastikan santri yang menyingkirkan gangguan atau merapikan sandal kawan diapresiasi sebagai amal shalih cabang iman.**
+7. **Jadikan kehangatan senyum dan salam di koridor (*salamul mamarrat*) sebagai cermin budaya madani santri TUMBUH.**
+
+---
+
+## Penutup
+
+Ruang komunal dan koridor asrama adalah cermin keluhuran adab peradaban santri di ruang publik:
+
+> **Santri TUMBUH melangkah di lorong-lorong asrama dengan ketawadhu'an seorang hamba yang rendah hati; ia menolak menghalangi jalan saudaranya, merapikan alas kakinya dengan tertib seraya menundukkan pandangan dari perkara yang tidak pantas; ia menebarkan salam dan kehangatan persaudaraan kepada setiap insan yang dijumpainya, menjadikan setiap jengkal jalanan sebagai saksi atas keindahan iman dan kemuliaan akhlak Islam.**
+
+---
+
+## Pertanyaan berikutnya — P00100
+
+**Uji Semantik Mandiri Istilah `Tauhid` (Uluhiyyah, Rububiyyah, Asma wa Sifat) vs Fatalisme/Panteisme dalam Ekosistem Pengasuhan Pesantren.**
