@@ -2,12 +2,12 @@
 
 ## Pertanyaan
 
-Di antara benturan ideologis paling mendasar yang dihadapi oleh generasi muda muslim di abad ke-21 adalah hegemoni filsafat **Materialisme Dialektis dan Materialisme Historis (Karl Marx & Friedrich Engels)** yang telah bermutasi menjadi kesadaran budaya populer. Tesis sentral materialisme menegaskan bahwa materi adalah satu-satunya realitas mutlak yang ada; bahwa kesadaran manusia, moralitas, agama, dan nilai-nilai spiritual hanyalah "epifenomena" (produk sampingan turunan) dari kondisi ekonomi dan moda produksi material; serta bahwa hakikat manusia tidak lebih dari sekadar hewan pekerja (*homo faber*) yang nasibnya sepenuhnya didikte oleh pertarungan materi.
+Dominasi filsafat **Materialisme Dialektis dan Materialisme Historis (Karl Marx & Friedrich Engels)** di abad ke-21 tidak lagi sekadar bersemayam di ruang kuliah teori kritis, melainkan telah bermutasi menjadi kesadaran budaya populer yang mengepung generasi muda muslim. Tesis sentral materialisme menegaskan bahwa materi adalah satu-satunya realitas mutlak; bahwa kesadaran manusia, moralitas, agama, dan nilai spiritual hanyalah epifenomena (produk sampingan) dari moda produksi ekonomi; serta bahwa hakikat manusia tereduksi menjadi hewan pekerja (*homo faber*) yang hidupnya disetir oleh pertarungan materi.
 
-Ketika santri di pesantren asrama 24 jam bersentuhan dengan arus informasi global tanpa perisai filsafat yang tajam, racun materialisme ini mulai merasuk secara halus ke dalam cara pandang mereka terhadap kehidupan:
-- Santri mulai menilai kemuliaan seseorang hanya dari status ekonomi orang tuanya, merk pakaian yang dikenakan, atau kemampuan finansialnya mentraktir teman.
-- Nilai ibadah, hafalan Al-Qur'an, dan penuntut ilmuan turats dipandang dengan nada sinis: *"Untuk apa hafal kitab kuning kalau nanti lulus tidak bisa menghasilkan banyak uang?"*
-- Pesantren dituduh sebagai "pabrik candu masyarakat" yang mengajarkan kesabaran palsu untuk melanggengkan penindasan status quo.
+Ketika arus pemikiran ini merembes ke lingkungan pesantren asrama 24 jam tanpa perisai filsafat yang kokoh, racun materialisme mulai menggerogoti cara pandang santri terhadap hakikat kehidupannya:
+- Santri mulai mengukur kemuliaan seseorang semata-mata dari status ekonomi keluarga, merk busana yang membalut tubuhnya, atau kapasitas finansialnya mentraktir teman.
+- Pelajaran adab, hafalan Al-Qur'an, dan pengkajian kitab kuning dicemooh dengan nada sinis: *"Untuk apa menghabiskan waktu bertahun-tahun di asrama jika ijazahnya tidak langsung menjamin gaji puluhan juta?"*
+- Pesantren dituduh sebagai "lembaga candu" yang membius santri dengan kesabaran palsu demi melanggengkan ketertinggalan ekonomi.
 
 Bagaimana TUMBUH membedah **Dekonstruksi Materialisme Historis di Kalangan Santri (I): Menolak Tesis Manusia sebagai Produk Materi**? **Bagaimana merumuskan arsitektur pengasuhan asrama 24 jam yang meruntuhkan reduksionisme materialistik Marxis, menegaskan kembali hakikat manusia sebagai makhluk ruhani yang diciptakan untuk beribadah kepada Allah, sekaligus mendudukkan materi pada posisinya yang adil sebagai sarana (*wasilah*) ibadah dan bukan tujuan akhir eksistensi?**
 

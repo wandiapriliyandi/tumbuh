@@ -2,14 +2,14 @@
 
 ## Pertanyaan
 
-Di antara metamorfosis paling merusak dari budaya kapitalisme lanjut (*late capitalism*) yang melanda dunia santri di era ledakan media sosial adalah pergeseran dari kesalehan batin menuju **Konsumerisme Berbalut Simbol Agama (*Spiritual Consumerism*)** dan **Budaya Pamer Kemewahan (*The Culture of Flexing*)**.
+Ledakan kapitalisme lanjut (*late capitalism*) dan hegemoni media sosial hari ini telah melahirkan metamorfosis peradaban yang sangat merusak: pergeseran dari kesalehan batin menuju **Konsumerisme Berbalut Simbol Agama (*Spiritual Consumerism*)** dan **Budaya Pamer Kemewahan (*The Culture of Flexing*)**.
 
-Di masa lalu, pesantren dikenal sebagai benteng kesederhanaan (*bazaazah*), keikhlasan tanpa pamrih, dan kerendahan hati. Namun hari ini, di sebagian pesantren asrama 24 jam, mulai merebak fenomena komodifikasi agama yang mencemaskan:
-- Atribut-atribut keshalihan—seperti sorban, gamis, mukena, sajadah, tasbih, dan mushaf Al-Qur'an—diubah menjadi produk gaya hidup mewah (*lifestyle branding*) berharga jutaan rupiah yang dipamerkan di media sosial demi meraih status sosial dan *likes*.
-- Santri saling berlomba memperlihatkan kepemilikan gawai terbaru, sepatu mahal edisi terbatas, atau hampers kiriman orang tua yang melimpah; sementara santri yang hidup bersahaja dipandang sebelah mata sebagai kaum terbelakang.
-- Niat menuntut ilmu dan beribadah terkontaminasi secara fatal oleh penyakit pamer amal (*ar-riya'* dan *as-sum'ah*) demi konten pencitraan personal di ruang digital.
+Pesantren yang selama berabad-abad menjadi benteng pertahanan kesederhanaan (*bazaazah*), keikhlasan amal, dan kerendahan hati (*tawadhu'*), kini menghadapi invasi komodifikasi kesalehan yang merasuki bilik asrama 24 jam:
+- Atribut-atribut ibadah—seperti sorban, gamis, mukena sutra, tasbih kristal, hingga mushaf berbalut emas—ditransformasikan menjadi produk gaya hidup mewah (*lifestyle branding*) demi mendongkrak status sosial dan meraup angka *likes* di dunia digital.
+- Lorong asrama terpolarisasi oleh perlombaan kepemilikan gawai mutakhir, sepatu edisi terbatas, dan paket kiriman mewah orang tua; sementara santri yang hidup bersahaja dipandang rendah dengan tatapan sinis.
+- Keikhlasan menuntut ilmu teracuni secara fatal oleh penyakit pamer (*ar-riya'* dan *as-sum'ah*): ibadah suci diposisikan sekadar sebagai properti visual untuk memoles citra diri di media sosial.
 
-Filsuf sosiologi Jean Baudrillard telah memperingatkan bahaya masyarakat konsumsi (*The Consumer Society*): di mana manusia tidak lagi mengonsumsi benda karena nilai gunanya (*use-value*), melainkan mengonsumsi "tanda dan gengsi semu" (*sign-value*), menciptakan simulasi kesalehan palsu (*simulacra*) yang menenggelamkan substansi iman yang hakiki.
+Sosiolog Jean Baudrillard jauh-jauh hari telah membedah bahaya masyarakat konsumsi (*The Consumer Society*): manusia tidak lagi mengonsumsi benda karena nilai gunanya (*use-value*), melainkan mengejar nilai tanda gengsi (*sign-value*), melahirkan simulasi kesalehan palsu (*simulacra*) yang menenggelamkan substansi iman yang hakiki.
 
 Bagaimana TUMBUH membedah **Dekonstruksi Konsumerisme Hedonistik di Kalangan Santri (II): Jebakan Budaya Flexing dan Komodifikasi Simbol Agama**? **Bagaimana merumuskan ekosistem asrama 24 jam yang membersihkan jiwa santri dari virus narsisme flexing, mengembalikan kesucian simbol-simbol ibadah dari jeratan komodifikasi kapitalistik, dan menghidupkan kembali tradisi kesederhanaan profetik (*Zuhud Nabawiy*) yang berwibawa di hadapan Allah dan manusia?**
 
