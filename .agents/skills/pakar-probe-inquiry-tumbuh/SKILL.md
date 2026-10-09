@@ -717,7 +717,7 @@ Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional*
 12. **Penutup & Emergent Chain of Inquiry**:
     - Paragraf refleksi akhir filosofis dan jembatan pertanyaan eksplisit menuju berkas berikutnya (`P+1`).
 13. **Daftar Pustaka / Referensi Terkurasi Lengkap**:
-    - Sitasi formal standar **APA 7th Edition** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
+    - Sitasi formal standar **APA 7th Edition Bersih (tanpa tautan doi.org berbayar)** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
 
 ---
 

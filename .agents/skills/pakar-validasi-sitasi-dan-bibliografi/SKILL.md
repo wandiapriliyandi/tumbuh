@@ -16,7 +16,7 @@ flowchart TD
     subgraph PilarAuditBibliografi["4 PILAR AUDIT SITASI & BIBLIOGRAFI TUMBUH"]
         P1["1. TAHQIQ & FILOLOGI TURATS<br/>• Verifikasi keaslian matan Arab berharakat.<br/>• Akurasi nomor surat/ayat Al-Qur'an.<br/>• Takhrij hadits: Rawi, Kitab, Bab, No. Hadits, & Derajat Keshahihan."]
         
-        P2["2. STANDARISASI APA 7TH EDITION<br/>• Penulisan daftar pustaka sains jurnal/buku baku.<br/>• Kelengkapan nama penulis, tahun, judul, volume, nomor, & DOI/Penerbit."]
+        P2["2. STANDARISASI APA 7TH EDITION BERSIH (BEBAS PAYWALL)<br/>• Penulisan daftar pustaka sains jurnal/buku baku.<br/>• Kelengkapan nama penulis, tahun, judul, volume, nomor terbitan, & halaman/penerbit.<br/>• DILARANG MENCANTUMKAN TAUTAN DOI.ORG BERBAYAR."]
         
         P3["3. KOVALIDASI FOOTNOTES 1-TO-1<br/>• Memastikan setiap angka sitasi ([^1], [^2], dst.) memiliki pasangan catatan kaki presisi.<br/>• Tidak ada footnote gantung, hilang, atau tidak relevan."]
         
@@ -51,13 +51,14 @@ flowchart TD
   *Contoh Entri Footnote:*  
   `[^2]: Al-Ghazali, Ihya' 'Ulumiddin, Jilid 4, Kitab At-Tauhid wat-Tawakkul, hlm. 245–280.`
 
-### D. Validasi Literatur Sains Global (Standar APA 7th Edition)
-* **Jurnal Peer-Reviewed**:  
-  `Penulis, A. A., & Penulis, B. B. (Tahun). Judul artikel. Nama Jurnal, Volume(Nomor), Halaman. https://doi.org/xxxx`  
+### D. Validasi Literatur Sains Global (Standar APA 7th Edition Bersih)
+* **PANTANGAN MUTLAK DOI.ORG BERBAYAR**: **Dilarang mencantumkan tautan/URL `doi.org` berbayar (*paywall*)**. Seluruh rujukan jurnal ilmiah wajib menggunakan format sitasi bibliografis teks bersih yang memuat metadata lengkap (nama penulis, tahun, judul artikel, nama jurnal, volume, nomor terbitan, dan rentang halaman) tanpa menyertakan pranala komersial berbayar.
+* **Format Baku Jurnal Peer-Reviewed**:  
+  `Penulis, A. A., & Penulis, B. B. (Tahun). Judul artikel. Nama Jurnal, Volume(Nomor), Rentang Halaman.`  
   *Contoh:*  
   `Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation: A 35-year odyssey. American Psychologist, 57(9), 705–717.`
-* **Buku / Monograf**:  
-  `Penulis, C. C. (Tahun). Judul buku (Edisi). Penerbit.`  
+* **Format Baku Buku / Monograf**:  
+  `Penulis, C. C. (Tahun). Judul buku (Edisi). Kota Terbit: Penerbit.`  
   *Contoh:*  
   `Frankl, V. E. (1984). Man's Search for Meaning: An Introduction to Logotherapy. Boston: Beacon Press.`
 
