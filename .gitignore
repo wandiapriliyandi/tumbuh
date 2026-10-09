@@ -10,3 +10,8 @@ Thumbs.db
 # Local notes
 *.tmp
 *.bak
+
+# Temporary / Scratch
+.agents/scratch/
+__pycache__/
+*.pyc

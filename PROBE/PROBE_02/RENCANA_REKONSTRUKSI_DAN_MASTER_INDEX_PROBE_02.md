@@ -9,7 +9,7 @@
 
 ## 1. Rasional Epistemik: Mengapa Menembus 947 Berkas?
 
-Sesuai aturan epistemik pada [AGENTS.md](file:///c:/xampp/htdocs/tumbuh/AGENTS.md):
+Sesuai aturan epistemik pada [AGENTS.md](../../AGENTS.md):
 > *"REFERENCES bukan otomatis keputusan normatif; source bukan otomatis source of truth; evidence tidak otomatis membuktikan klaim di luar konteksnya."*  
 > *"Dokumen harus menjelaskan maksudnya, bukan sekadar memberi label; menggunakan istilah secara konsisten... Dokumen Operational tidak boleh diam-diam membuat definisi baru TUMBUH."*
 
