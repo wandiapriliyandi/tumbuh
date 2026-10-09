@@ -287,4 +287,3 @@ Jika lembaga pengasuhan mutlak memerlukan landasan filosofis, maka dari mana pen
 
 Apakah ia harus ditarik dari puncak deduksi teologis wahyu (*wahy*), digali dari teks-teks khazanah turats ulama, dipetik dari akumulasi pengalaman empiris kiai sepuh, ataukah justru harus berangkat dari jeritan masalah konkret dan fenomena kerapuhan batin santri di bilik asrama 24 jam?
 
-Ketegangan epistemik mengenai titik tolak ini diselidiki dalam **[P00001 — Dari Mana Penyelidikan Filosofi TUMBUH Bermula: Dari Wahyu, Teks Turats, Realitas Lapangan Asrama, atau Masalah Santri?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_02/P00001-Dari-Mana-Penyelidikan-Filosofi-TUMBUH-Bermula.md)**.
