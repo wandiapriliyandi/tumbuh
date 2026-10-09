@@ -88,8 +88,10 @@ Istilah *Al-Hikmah* bukan padanan dari filsafat rasionalistik spekulatif Yunani 
 > *"Al-Hikmah adalah pencapaian kebenaran melalui perpaduan ilmu dan akal budi. Dari sisi Allah Ta'ala, hikmah bermakna pengetahuan tentang hakikat segala sesuatu dan penciptaannya dalam kesempurnaan tertinggi; sedangkan dari sisi manusia, hikmah bermakna kemampuan mengenali realitas maujudat dan mewujudkannya dalam tindakan-tindakan kebajikan secara tepat."*
 
 Hal ini sejalan dengan firman Allah SWT dalam QS. Al-Baqarah: 269:
-$$\text{يُؤْتِي الْحِكْمَةَ مَن يَشَاءُ ۚ وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا}$$
-*(Dia menganugerahkan hikmah kepada siapa yang Dia kehendaki. Dan barangsiapa dianugerahi hikmah, sesungguhnya dia telah dianugerahi kebajikan yang amat banyak).* 
+
+> يُؤْتِي الْحِكْمَةَ مَن يَشَاءُ ۚ وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا
+> 
+> *"Dia menganugerahkan hikmah kepada siapa yang Dia kehendaki. Dan barangsiapa dianugerahi hikmah, sesungguhnya dia telah dianugerahi kebajikan yang amat banyak."* (QS. Al-Baqarah [2]: 269).
 
 Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* (Jilid 1, hlm. 701) menukil dari Ibnu Abbas dan Mujahid bahwa hikmah adalah "kebenaran dalam ucapan dan perbuatan, serta pemahaman mendalam tentang agama (*al-ishabah fil-qaul wal-'amal wal-fahm fid-din*)". Dalam konteks pengasuhan, seorang musyrif yang memiliki hikmah tahu persis kapan harus berbicara lembut, kapan harus bersikap tegas tanpa marah, dan bagaimana membedakan antara santri yang lelah fisik dengan santri yang sengaja membangkang. Tanpa hikmah, syariat ditransformasikan menjadi senjata penindasan.
 
@@ -186,7 +188,9 @@ Sains Perilaku & Neurosains sebagai Alat Baca Lapangan (Wasilah Mu'ashirah)."
 
 ### 5.2. Sintesis Rekonsiliatif: Al-Hikmah sebagai Jangkar Epistemik
 TUMBUH merumuskan jalan tengah integratif (*Al-Jam'u wat-Taufiq*):
-$$\text{Al-Hikmah} = \text{Tauhid & Maqashid (Arah)} + \text{Turats Salaf (Akar Nilai)} + \text{Sains Perkembangan (Alat Baca Empiris)}$$
+
+> **AL-HIKMAH = Tauhid & Maqashid (Arah & Tujuan Hakiki) + Turats Salaf (Akar Nilai & Otentisitas) + Sains Perkembangan (Alat Baca Empiris Lapangan)**
+
 Filosofi bukan filsafat spekulatif metafisika Yunani yang meragukan syariat, melainkan **Hikmah Kenabian**: penalaran reflektif mendalam yang berlandaskan wahyu untuk menempatkan segala sesuatu pada tempatnya yang adil (*wad'u syai'in fi mahallihi*).
 
 ---
