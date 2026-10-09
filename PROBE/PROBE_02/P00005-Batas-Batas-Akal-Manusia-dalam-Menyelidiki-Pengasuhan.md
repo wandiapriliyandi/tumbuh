@@ -30,7 +30,7 @@ DILEMA BATAS AKAL DALAM PENGASUHAN:
 
 Prinsip dasarnya:
 
-> **Akal adalah hamba yang bersujud di hadapan wahyu pada wilayah Ta'abbudi, namun ia adalah khalifah yang berpikir mandiri dan berijtihad secara merdeka pada wilayah Ma'qul al-Ma'na. Celakalah sistem yang lancang merasionalkan ibadah murni, dan meranalah santri jika sistem mensakralkan kebiasaan teknis yang zalim.**
+> **Akal adalah hamba yang bersujud di hadapan wahyu pada wilayah Ta'abbudi, namun ia adalah instrumen amanah yang berpikir mandiri dan berijtihad secara merdeka pada wilayah Ma'qul al-Ma'na. Celakalah sistem yang lancang merasionalkan ibadah murni, dan meranalah santri jika sistem mensakralkan kebiasaan teknis yang zalim.**
 
 ---
 
@@ -201,15 +201,21 @@ Audit ini menjamin sistem tetap murni dari bid'ah sekaligus bersih dari kezalima
 
 ---
 
-## 14. Dialog Kebapakan: Mengajarkan Santri Memahami Dua Wilayah Ini
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Santri santri diajak berdialog agar memahami mengapa mereka harus taat:
-- *"Anakku, shalat subuh dua rakaat tepat waktu adalah perintah Allah, kita sami'na wa atha'na."*
-- *"Tetapi jika kasurmu terasa panas atau antrean kamar mandimu terlalu panjang, bicaralah pada Ustadz. Itu urusan duniawi yang menjadi kewajiban kami untuk memperbaikinya demi kenyamanan antum."*
-Pembedaan ini membuat santri tumbuh menjadi pribadi yang taat pada agama sekaligus kritis terhadap perbaikan lingkungannya.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Mengajarkan Santri Memahami Dua Wilayah Ini* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Menetapkan Batas Otoritas Akal
 
 ```text
@@ -260,3 +266,4 @@ Keseimbangan peradaban Islam berdiri di atas kemampuan mendudukkan wahyu dan aka
 ## Pertanyaan berikutnya — P00006
 
 **Kritik atas Reduksionisme Pragmatis Pesantren: Bahaya Mengelola Jiwa Santri Hanya Mengandalkan SOP Mekanis Tanpa Roh Filosofis.**
+

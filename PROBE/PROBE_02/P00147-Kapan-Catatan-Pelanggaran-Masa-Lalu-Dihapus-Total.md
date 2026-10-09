@@ -267,27 +267,21 @@ Master Auditor Kualitas TUMBUH menguji efektivitas protokol Clean Slate melalui 
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Arsip dan Musyawarah Pesantren TUMBUH menjelang senja. Di atas meja kayu jati, tertata map berkas berwarna hijau bertuliskan *"Keputusan Pemutihan Penuh (Clean Slate Approval)"*. Ustadz Nawawi (Ketua Dewan Keadilan Restoratif, 50 tahun) sedang duduk bersama Fikri (Santri J4, 17 tahun) yang tampak menundukkan kepala dengan haru.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Nawawi:** *(Mengambil map berkas tersebut, membukanya perlahan di hadapan Fikri)* "Fikri... tatap mata Ustadz, Nak. Hari ini tepat satu tahun sejak peristiwa dua tahun lalu, saat kamu tergelincir melakukan pelanggaran berat di asrama."
->
-> **Fikri:** *(Mengangguk perlahan, suaranya tercekat menahan tangis)* "Iya Ustadz... Saya ingat betul betapa kelamnya hari itu. Saya hampir putus asa dan mau keluar dari pondok..."
->
-> **Ustadz Nawawi:** "Tetapi selama satu tahun terakhir ini, para masyayikh dan musyrif menyaksikan perjuangan taubatmu yang luar biasa. Kamu memulihkan hak saudaramu yang tersakiti, kamu mengabdi membersihkan masjid setiap fajar, dan kamu membuktikan keistiqamahan adabmu tanpa pernah mengeluh. Hari ini, Dewan Masyayikh telah menandatangani surat ini: **Seluruh catatan pelanggaran masa lalumu secara resmi DIHAPUS TOTAL dari database pesantren**."
->
-> **Fikri:** *(Tersentak kaget, air matanya menetes membasahi meja, bibirnya bergetar)* "Dihapus total, Ustadz? Tidak ada lagi catatan merah di rapor saya?"
->
-> **Ustadz Nawawi:** *(Menyerahkan surat keputusan pemutihan kepada Fikri seraya tersenyum teduh)* "Tidak ada lagi, anakku! Demi Allah, mulai detik ini, di mata pesantren ini dan di mata seluruh asatidzah, engkau berdiri laksana bayi yang baru dilahirkan dari rahim ibunya; putih, bersih, tanpa noda dosa masa lalu! Jika kelak ada musyrif atau santri yang berani mengungkit kesalahan masa lalumu itu, laporkan kepada Ustadz, dan Ustadz sendiri yang akan menindaknya!"
->
-> **Fikri:** *(Sujud syukur seketika di atas lantai karpet, menangis terisak-isak penuh kebahagiaan)* "Alhamdulillah ya Allah... Segala puji bagi-Mu ya Rabb... Terima kasih Ustadz... Terima kasih telah memberi saya kesempatan untuk hidup kembali..."
->
-> **Ustadz Nawawi:** *(Membangunkan Fikri dan merangkulnya erat)* "Bangkitlah, anakku. Tatap masa depanmu dengan dada tegak dan iman yang membaja. Jadilah pejuang dakwah yang kelak menebarkan rahmat dan pengampunan Allah kepada seluruh umat manusia. Engkau adalah kebanggaan kami."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0147-2026
@@ -337,3 +331,4 @@ Pintu taubat yang Allah bentangkan bagi para hamba-Nya di muka bumi ini terbenta
 ## Pertanyaan berikutnya — P00148
 
 Bagaimana meneliti, membedah secara psikologis-spiritual, dan mengintervensi kesenjangan kronis "tahu tapi tidak mengamalkan" (*the knowing-doing gap / al-fajwah baina al-ma'rifah wal-amal*) pada dinamika adab keseharian santri?
+

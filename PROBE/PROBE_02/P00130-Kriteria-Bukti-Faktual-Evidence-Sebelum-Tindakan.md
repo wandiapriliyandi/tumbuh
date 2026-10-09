@@ -187,27 +187,21 @@ Para fukaha salaf merumuskan bab *Al-Aqdhiyah wal-Bayyinat* dengan prinsip keadi
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang mediasi pengasuhan yang terang dan nyaman. Ustadz Salman (Ketua Komisi Disiplin) duduk bersama Naufal (15 tahun) dan didampingi Ustadz Hanif (musyrif kamar Naufal).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Salman:** *(Tersenyum menenangkan, meletakkan berkas di atas meja)* "Naufal, tarik napas panjang, Nak. Ustadz di sini bukan untuk menghukummu, tapi untuk mencari kebenaran bersama-sama."
->
-> **Naufal:** *(Menunduk gemetar, memilin ujung sarungnya)* "Tapi Ustadz... teman-teman bilang kalau saya dipanggil ke ruang ini artinya saya sudah pasti bersalah dan akan di-DO..."
->
-> **Ustadz Salman:** *(Menatap Naufal dengan tatapan penuh kelembutan)* "Dengar Ustadz, Naufal. Di pesantren TUMBUH ini, kamu adalah anak kami yang kami lindungi kehormatannya. Seseorang tidak pernah dianggap bersalah sampai ada bukti fisik yang nyata tanpa keraguan. Nabi kita ﷺ bersabda: *Tolaklah hukuman jika ada keraguan!* Ustadz tidak akan pernah mengeluarkan seorang santri pun hanya karena desas-desus atau tuduhan sepihak tanpa bukti."
->
-> **Ustadz Hanif:** *(Menyentuh lembut pundak Naufal)* "Ustadz Hanif di sini sebagai pembelamu, Naufal. Ceritakan dengan jujur apa yang sebenarnya terjadi malam itu, tanpa takut."
->
-> **Naufal:** *(Mengangkat wajahnya, menatap kedua ustadznya dengan air mata lega)* "Malam itu jam 22.00 saya memang lewat di depan perpustakaan, Ustadz. Tapi saya lewat karena disuruh Ustadz Medis mengambil kompres air hangat di UKS untuk mengompres Faris yang sedang demam tinggi. Saya tidak pernah menyentuh laptop itu sama sekali..."
->
-> **Ustadz Salman:** *(Mencocokkan dengan catatan)* "Alhamdulillah. Keteranganmu persis sama dengan catatan buku jurnal UKS yang baru saja kami periksa. Alibimu terbukti benar, Naufal. Jam 22.00 kamu sedang berada di UKS beramal shalih menolong saudaramu. Laptop itu sekarang sudah kami amankan dari pihak lain yang bertanggung jawab. Kamu bersih, Naufal. Kamu boleh kembali ke kamarmu dengan kepala tegak."
->
-> **Naufal:** *(Meneteskan air mata bahagia, meremas tangan Ustadz Salman dan Ustadz Hanif)* "Alhamdulillah ya Allah... Terima kasih banyak Ustadz! Terima kasih tidak langsung menuduh saya..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0130-2026
@@ -250,3 +244,4 @@ Ruang mediasi pengasuhan yang terang dan nyaman. Ustadz Salman (Ketua Komisi Dis
 ## Pertanyaan berikutnya — P00131
 
 Bagaimana mendudukkan distingsi dialektis antara *Tsawabit* (Prinsip-Prinsip Syar'i yang Tetap dan Mutlak) dengan *Mutaghayyirat* (Kebijakan Pengasuhan yang Lentur dan Kontekstual) dalam tata kelola asrama pesantren TUMBUH?
+

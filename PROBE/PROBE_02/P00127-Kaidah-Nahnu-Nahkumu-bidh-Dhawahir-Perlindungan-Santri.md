@@ -183,25 +183,21 @@ Para ulama ushul fiqih dan muhaqqiqin salaf telah meletakkan kaidah ini sebagai 
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang taman belakang asrama di sore hari yang teduh. Ustadz Thariq duduk bersama Irfan (15 tahun) yang masih menunduk murung setelah dituduh merokok atas dasar prasangka raut wajah.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Thariq:** *(Menepuk pundak Irfan dengan lembut, menyodorkan segelas jus buah segar)* "Irfan, minumlah dulu, Nak. Ustadz tahu hatimu sangat terluka semalam."
->
-> **Irfan:** *(Mengusap air matanya yang menetes, suaranya tercekat)* "Ustadz... saya sudah berusaha sekuat tenaga berhenti merokok selama tiga bulan ini. Saya shalat taubat tiap malam. Tapi kenapa begitu ada bau rokok, Ustadz Keamanan langsung menatap mata saya dan bilang: *'Hati kamu masih hati pembohong Irfan!'* Kenapa tobat saya tidak pernah dihargai, Ustadz? Kalau begini caranya, rasanya percuma saya berusaha jadi orang baik..."
->
-> **Ustadz Thariq:** *(Menatap Irfan dengan tatapan mata sejajar, penuh empati dan ketegasan prinsip)* "Irfan, dengarkan perkataan Ustadz ini baik-baik dan jangan pernah lupakan: Yang dikatakan Ustadz Keamanan semalam itu salah secara syariat! Rasulullah ﷺ kita bersabda: *Aku tidak diperintahkan untuk membelah hati manusia!* Tidak ada seorang pun di muka bumi ini—mau ustadz, kiai, atau siapa pun—yang punya hak menghakimi isi hatimu. Isi hatimu adalah milik Allah, dan Allah Maha Melihat air mata taubatmu di sepertiga malam."
->
-> **Irfan:** *(Mengangkat wajahnya, menatap Ustadz Thariq dengan mata bergetar haru)* "Jadi... Ustadz percaya saya tidak merokok semalam?"
->
-> **Ustadz Thariq:** "Tadi siang santri tamu yang merokok di toilet sudah mengakui perbuatannya. Kamu terbukti bersih secara lahiriah dan batiniah. Lembaga ini memuliakan perjuangan taubatmu, Irfan. Jangan pernah biarkan kesalahan seorang manusia membuatmu berhenti menuju Allah. Kamu adalah anak yang berani dan jujur. Teruslah melangkah, Ustadz akan selalu berdiri di sampingmu menjaga hakmu."
->
-> **Irfan:** *(Tersenyum lega di antara sisa air matanya, dadanya terasa lapang seketika)* "Terima kasih banyak Ustadz Thariq... Rasa percaya Ustadz menyelamatkan hidup saya hari ini."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0127-2026
@@ -243,3 +239,4 @@ Kaidah *Nahnu Nahkumu bidh-Dhawahir* adalah mahakarya keadilan syariat yang memb
 ## Pertanyaan berikutnya — P00128
 
 Bagaimana menegakkan larangan mutlak atas praktik *At-Tajassus* (Mata-matai Privasi, Mengintip Buku Harian, Memeriksa Tas Diam-diam) dan *Su'uzh-Zhann* dalam operasional pengawasan keamanan asrama pesantren TUMBUH?
+

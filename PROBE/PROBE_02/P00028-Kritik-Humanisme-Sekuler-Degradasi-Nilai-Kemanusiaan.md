@@ -72,7 +72,7 @@ Al-Qur'an meletakkan piagam hak asasi manusia paling agung dan kokoh dalam sejar
 
 Imam Fakhruddin Ar-Razi dalam *Mafatih al-Ghaib* merumuskan bahwa kemuliaan (*karamah*) manusia berakar pada tiga dimensi teologis:
 1. **Tiupan Ruh Ilahi (*Nafkh ar-Ruh*):** Manusia bukan sekadar tanah liat material, melainkan mengemban rahasia tiupan ruh dari Allah (QS. Al-Hijr: 29).
-2. **Amanah Akal dan Khilafah:** Diberi kapasitas akal budi untuk mengenal Allah dan memakmurkan bumi dengan adab.
+2. **Amanah Akal dan Pemakmuran Bumi:** Diberi kapasitas akal budi untuk mengenal Allah dan memakmurkan bumi dengan adab.
 3. **Penundukan Kosmos (*Taskhir al-Akwan*):** Seluruh matahari, bulan, lautan, dan bumi ditundukkan Allah untuk melayani kebutuhan manusia.
 
 Karena Allah yang memuliakan manusia, maka **tidak ada penguasa, sistem, atau musyrif yang berhak merampas dan menginjak-injak martabat santri!**
@@ -218,13 +218,21 @@ Setiap asrama binaan TUMBUH wajib menerapkan protokol perlindungan anak (*Safe S
 
 ---
 
-## 14. Dialog Kebapakan: "Antum Adalah Titipan Mahkota Surga"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Di awal tahun ajaran baru, Mudir menyapa seluruh santri baru:
-- *"Selamat datang anak-anakku di taman peradaban ini. Antum berada di sini bukan sebagai narapidana, bukan pula sebagai konsumen bayaran. Antum adalah amanah terindah dari Allah SWT yang diserahkan oleh ayah dan bunda antum kepada kami. Kami bersumpah demi Allah untuk merawat fisik antum, menjaga kehormatan antum, dan membimbing kalbu antum hingga menjadi mahkota kebanggaan orang tua di surga kelak."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Antum Adalah Titipan Mahkota Surga* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penutupan Sub-Klaster 0.3 dengan Piagam Karamah Insaniyyah
 
 ```text
@@ -270,10 +278,11 @@ Penyelidikan P00028 ini mendasari dokumen di:
 
 Humanisme sekuler mengira ia sedang memahkotai manusia, padahal ia sedang memotong sayap malaikat dari punggungnya dan membiarkannya merayap di tanah laksana binatang; namun Islam mengangkat manusia kembali ke singgasana kemuliaan fitrahnya:
 
-> **Kemuliaan manusia tidak lahir dari penolakannya kepada Tuhan, melainkan dari sujudnya yang tulus di hadapan Sang Pencipta. Di hadapan Allah, santri adalah hamba yang fakir; namun di hadapan alam semesta, santri adalah khalifah yang mulia. Di dalam ekosistem TUMBUH, kita menjaga kemuliaan suci ini dengan segenap jiwa dan raga, mengantarkan setiap santri menjadi Insan Kamil yang memancarkan rahmat dan keagungan Islam ke seluruh penjuru dunia.**
+> **Kemuliaan manusia tidak lahir dari penolakannya kepada Tuhan, melainkan dari sujudnya yang tulus di hadapan Sang Pencipta. Di hadapan Allah, santri adalah hamba yang fakir; namun di hadapan alam semesta, santri adalah pengemban amanah pemakmur yang mulia. Di dalam ekosistem TUMBUH, kita menjaga kemuliaan suci ini dengan segenap jiwa dan raga, mengantarkan setiap santri menjadi Insan Kamil yang memancarkan rahmat dan keagungan Islam ke seluruh penjuru dunia.**
 
 ---
 
 ## Akhir Sub-Klaster 0.3 — Lanjut ke Sub-Klaster 0.4: P00029
 
 **Filosofi Inquiry PROBE: Mengapa Penyelidikan Bertumpu pada Pertanyaan Menukik (TUMBUH Questions) Bukan Jawaban Instan.**
+

@@ -75,7 +75,7 @@ Dalam filsafat sains dan neurobiologi kognitif modern:
 | :--- | :--- | :--- | :--- |
 | **Biologi & Kedokteran** | Tubuh manusia sebagai mesin biologis hasil seleksi alam buta. | Meneliti anatomi tubuh sebagai keajaiban desain hikmah Ilahi (*Ayat Anfus*). | Menjaga kesehatan raga sebagai amanah ibadah; merawat kawan yang sakit dengan ikhlas. |
 | **Fisika & Astronomi** | Hukum alam bekerja mekanis deterministik tanpa campur tangan Tuhan. | Meneliti sunnatullah keteraturan gerak kosmis yang bertasbih kepada Allah (*Ayat Afaq*). | Mengaitkan orbit bintang dengan ketepatan waktu shalat dan kebesaran Khaliq. |
-| **Ekonomi & Manajemen** | Memaksimalkan keuntungan materi individu tanpa batas moral (*homo economicus*). | Mengelola sumber daya sebagai khalifah yang bertanggung jawab atas keadilan (*hifzh al-mal*). | Melatih kejujuran kantin asrama; infaq sukarela dan kepedulian dhuafa. |
+| **Ekonomi & Manajemen** | Memaksimalkan keuntungan materi individu tanpa batas moral (*homo economicus*). | Mengelola sumber daya sebagai pengemban amanah yang bertanggung jawab atas keadilan (*hifzh al-mal*). | Melatih kejujuran kantin asrama; infaq sukarela dan kepedulian dhuafa. |
 | **Sosiologi & Sejarah** | Pertarungan antarkelas materialistis atau dinamika darwinisme sosial. | Meneliti hukum sejarah peradaban (*Sunan at-Tarikh*) dan tegaknya keadilan Qur'ani. | Membangun kohesi ukhuwah asrama tanpa kasta feodal dan tanpa rasisme. |
 
 ---
@@ -141,7 +141,7 @@ Penelitian neurosains kognitif terkini membuktikan:
 ## 9. Integrasi Model PBIS: Meaningful Academic Engagement in Tier 1
 
 Dalam SW-PBIS TUMBUH:
-- **Keterlibatan Akademik Bermakna (*Meaningful Engagement*):** Mengeliminasi kejenuhan belajar dengan mengaitkan setiap topik pelajaran dengan misi kekhalifahan santri. Santri belajar bukan demi selembar angka ujian, melainkan sebagai persiapan memimpin peradaban dan menolong umat (*Liyanqudza ummatan*).
+- **Keterlibatan Akademik Bermakna (*Meaningful Engagement*):** Mengeliminasi kejenuhan belajar dengan mengaitkan setiap topik pelajaran dengan misi pemakmuran peradaban santri. Santri belajar bukan demi selembar angka ujian, melainkan sebagai persiapan memimpin peradaban dan menolong umat (*Liyanqudza ummatan*).
 - Menciptakan penghargaan karya ilmiah integratif bagi santri yang mampu mensintesiskan ayat Al-Qur'an dengan solusi teknologi aplikatif di asrama.
 
 ---
@@ -187,13 +187,21 @@ Auditor memeriksa kurikulum pembelajaran asrama:
 
 ---
 
-## 14. Dialog Kebapakan: "Jadilah Ilmuwan yang Bersujud, Bukan Ilmuwan yang Sombong"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri saat meresmikan laboratorium sains pesantren:
-*"Ananda, ukirlah prestasimu setinggi bintang di langit, pelajari rahasia atom dan galaksi sampai ke ujung akalmu. Namun ingatlah: semakin canggih teleskop yang engkau gunakan, seharusnya membuat dahimu semakin rendah bersujud di atas debu lantai masjid. Jadilah ilmuwan yang lisannya basah bertasbih kepada Allah, yang ilmunya menjadi obat bagi penderitaan sesama, bukan ilmuwan sombong yang ilmunya menjadi racun pemusnah peradaban."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jadilah Ilmuwan yang Bersujud, Bukan Ilmuwan yang Sombong* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Epistemologi Tauhid Al-Faruqi dalam Arsitektur Kurikulum
 
 ```text
@@ -240,3 +248,4 @@ Tauhid adalah nafas peradaban yang menghidupkan akal budi:
 ## Pertanyaan berikutnya — P00069
 
 **Probe Pemikiran Ismail Raji Al-Faruqi (II): Islamisasi Pengetahuan (Islamization of Knowledge) dan Rekonstruksi Kurikulum Disiplin Modern.**
+

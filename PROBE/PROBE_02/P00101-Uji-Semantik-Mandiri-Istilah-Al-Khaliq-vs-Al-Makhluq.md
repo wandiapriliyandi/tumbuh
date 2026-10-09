@@ -197,13 +197,21 @@ Parameter inspeksi dewan penjamin mutu:
 
 ---
 
-## 14. Dialog Kebapakan: "Aku Hanya Manusia Biasa Pembawa Amanah, Anakku"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri yang bersimpuh gemetar di hadapannya:
-*"Ananda, angkatlah kepalamu. Tataplah wajahku. Jangan engkau gemetar di hadapanku seolah-olah aku memegang takdir hidup dan matimu! Aku ini hanyalah manusia biasa, hamba Allah yang fakir dan berlumuran dosa sama sepertimu. Jika aku memerintahkanmu membaca Al-Qur'an dan menegakkan shalat, taatilah karena itu perintah Allah. Namun jika suatu hari engkau melihatku melanggar syariat, ingatkanlah aku dengan adab yang santun! Jangan pernah bergantung pada diriku; gantungkanlah seluruh harapan dan cintamu semata-mata kepada Al-Khaliq Yang Maha Hidup dan tidak pernah mati."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Aku Hanya Manusia Biasa Pembawa Amanah, Anakku* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Batas Khaliq dan Makhluq
 
 ```text
@@ -251,3 +259,4 @@ Pemisahan ontologis Khaliq dan makhluk adalah fajar kemerdekaan sejati bagi pera
 ## Pertanyaan berikutnya — P00102
 
 **Uji Semantik Mandiri Istilah `'Alam asy-Syahadah` vs `'Alam al-Ghaib`: Menyelaraskan Realitas Empiris dan Metafisis dalam Paradigma Pengetahuan Santri.**
+

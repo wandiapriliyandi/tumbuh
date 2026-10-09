@@ -275,33 +275,21 @@ Master Auditor Kualitas TUMBUH menguji integritas kurikulum adab melalui tiga pa
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Pelataran Tempat Wudhu Masjid Pesantren TUMBUH selepas shalat Maghrib. Gemericik air masih menetes dari kran. Ustadz Baihaqi (Musyrif Senior, 46 tahun) sedang duduk bersama Haidar (Santri J2, 15 tahun) yang baru saja menjuarai lomba hafalan matan *Tuhfatul Athfal* dan *Al-Jazariyyah*.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Baihaqi:** *(Menyerahkan handuk kecil kepada Haidar)* "Barakallahu fik, Haidar. Selamat atas juara hafalan tajwidmu tadi sore di aula kabupaten. Seluruh pengurus bangga padamu."
->
-> **Haidar:** *(Tersenyum bangga, dadanya membusung)* "Alhamdulillah Ustadz! Saya hafal semua matan itu tanpa salah satu huruf pun. Jurinya memuji makhraj huruf saya paling sempurna."
->
-> **Ustadz Baihaqi:** *(Tersenyum teduh, menatap Haidar dengan kelembutan yang dalam)* "Masya Allah... Makhraj hurufmu sempurna di panggung, Haidar. Tapi tahukah kamu apa yang Ustadz saksikan lima belas menit yang lalu di tempat wudhu ini?"
->
-> **Haidar:** *(Alisnya terangkat, heran)* "Apa Ustadz?"
->
-> **Ustadz Baihaqi:** "Ustadz melihat seorang juara tajwid yang baru saja berwudhu, lalu menyerobot antrean kran adik kelasmu yang sedang mencuci kaki. Ketika gayung adik kelas itu terjatuh, kamu menendangnya ke sudut dan membentaknya: *'Minggir kamu anak kecil! Ustadz saja menghormati saya!'* Haidar... apakah matan Jazariyyah yang kamu hafal mengajarkan lidahmu untuk melukai sesama penuntut ilmu?"
->
-> **Haidar:** *(Tersentak kaget, wajahnya memucat seketika, menundukkan kepala dalam-dalam)* "Ustadz... saya... saya terburu-buru tadi mau shalat Maghrib di shaf depan..."
->
-> **Ustadz Baihaqi:** *(Merangkul pundak Haidar, berbicara dengan bisikan penuh cinta)* "Haidar, hafalan di kepalamu itu baru *Al-'Ilm*, baru kulit luar. Jika hafalan itu tidak meresap ke dalam hatimu menjadi *Al-Yaqin* bahwa Allah melihat kesombonganmu, maka hafalan itu tidak akan pernah melahirkan *Al-'Amal*. Dan ilmu yang tidak melahirkan adab adalah kayu bakar yang akan membakar pemiliknya sendiri di akhirat. Rasulullah ﷺ bersabda: *'Yang paling berat di timbangan seorang mukmin pada hari kiamat adalah akhlak yang mulia'*, bukan jumlah piala yang dipajang di lemari."
->
-> **Haidar:** *(Air matanya menetes membasahi sajadah di tangannya, tersedu sedan)* "Astaghfirullahal 'azhim... Ustadz... Saya mabuk pujian manusia... Saya lupa bahwa Al-Qur'an ini diturunkan untuk diamalkan, bukan untuk dibanggakan... Tolong bimbing saya Ustadz, bagaimana agar saya bisa mengamalkannya..."
->
-> **Ustadz Baihaqi:** "Alhamdulillah hatimu masih hidup, Haidar. Mulai malam ini, piala itu simpan di lemari kantor. Tugasmu selama satu pekan ke depan adalah berdiri di pintu tempat wudhu ini setiap Maghrib: bukakan kran untuk adik-adik kelasmu, dan bantu keringkan sandal mereka. Basuh hatimu dengan air kerendahan hati. Maukah engkau melakukannya?"
->
-> **Haidar:** *(Mencium tangan Ustadz Baihaqi dengan air mata bercucuran)* "Saya mau Ustadz... Saya sangat mau... Doakan saya agar ilmu ini berkah..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0137-2026
@@ -350,3 +338,4 @@ Ilmu yang sejati dalam peradaban Islam bukanlah perbendaharaan kata-kata yang me
 ## Pertanyaan berikutnya — P00138
 
 Bagaimana mencegah bahaya komodifikasi, komersialisasi, dan sertifikasi adab yang kering (*character credentialism*) di era industri pendidikan modern, agar adab tetap menjadi ibadah ikhlas lil-Lah ta'ala?
+

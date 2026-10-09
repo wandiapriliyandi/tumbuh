@@ -184,25 +184,21 @@ Ulama salaf dan khalaf meletakkan kaidah fundamental dalam menghadapi fitnah dan
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Serambi masjid asrama setelah shalat Isya. Ustadz Harun memanggil Ilham (15 tahun, ketua kamar yang sempat memicu pengucilan Fariq).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Harun:** *(Duduk bersila berhadapan, menyodorkan segelas air hangat)* "Ilham, kamu tahu mengapa Allah menamai tindakan mencari-cari aib orang lain sebagai perbuatan memakan bangkai saudaranya sendiri?"
->
-> **Ilham:** *(Menunduk dalam, jari-jemarinya gemetar)* "Karena... karena menjijikkan dan menyakitkan, Ustadz..."
->
-> **Ustadz Harun:** "Tepat sekali, Nak. Bayangkan rasa sakit yang Fariq rasakan kemarin. Ketika seluruh asrama menjauhinya hanya karena desas-desus yang kamu dengar dari bisik-bisik, lalu kamu sebarkan tanpa tabayyun. Di hadapan Allah, kehormatan seorang muslim itu lebih mulia daripada Ka'bah. Ketika kita merusaknya dengan fitnah, kita sedang merobohkan bangunan Allah."
->
-> **Ilham:** *(Menitikkan air mata)* "Saya sungguh berdosa, Ustadz... Saya panik karena uang kas hilang dan saya merasa bertanggung jawab menjaga kamar dari orang jahat. Tapi saya salah jalan..."
->
-> **Ustadz Harun:** "Niatmu menjaga kamar adalah niat yang baik, Ilham. Tapi cara yang kotor tidak akan pernah melahirkan kebaikan syar'i. Besok pagi, Ustadz akan temani kamu menemui Fariq. Kamu minta maaf secara jantan, dan kamu sendiri yang akan membersihkan nama baiknya di depan teman-temanmu. Kamu berani mengambil tanggung jawab itu?"
->
-> **Ilham:** *(Mengangguk mantap sambil menyeka air matanya)* "Saya siap, Ustadz. Demi Allah, saya tidak akan pernah lagi berburuk sangka dan menyebarkan kabar burung seperti itu."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0112-2026
@@ -244,3 +240,4 @@ Serambi masjid asrama setelah shalat Isya. Ustadz Harun memanggil Ilham (15 tahu
 ## Pertanyaan berikutnya — P00113
 
 Bagaimana membongkar reduksi semantik istilah *Al-Barakah* (keberkahan yang melipatgandakan kebaikan berkelanjutan vs mitos magis pasif / kultus figur) dalam tata kelola harian dan pembinaan santri di pesantren TUMBUH?
+

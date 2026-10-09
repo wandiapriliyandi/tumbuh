@@ -68,7 +68,7 @@ Syariat Islam secara eksplisit mewajibkan penegak keadilan untuk membongkar hege
    Ayat ini menjadi dasar mutlak bahwa status sosial ekonomi santri (anak kaya vs santri miskin) wajib dilepaskan total dari meja peradilan disiplin.
 
 2. **Kewajiban Menyamakan Posisi Duduk dan Pandangan di Majelis Peradilan:**  
-   Dalam risalah peradilannya yang terkenal (*Risalah al-Qadha'*), Khalifah Umar bin Al-Khattab ra menginstruksikan kepada Qadhi Abu Musa Al-Asy'ari:
+   Dalam risalah peradilannya yang terkenal (*Risalah al-Qadha'*), Amirul Mukminin Umar bin Al-Khattab ra menginstruksikan kepada Qadhi Abu Musa Al-Asy'ari:
    ```arabic
    آسِ بَيْنَ النَّاسِ فِي وَجْهِكَ وَمَجْلِسِكَ وَعَدْلِكَ، حَتَّى لَا يَيْأَسَ الضَّعِيفُ مِنْ عَدْلِكَ، وَلَا يَطْمَعَ الشَّرِيفُ فِي حَيْفِكَ
    ```  
@@ -270,33 +270,21 @@ Master Auditor Kualitas TUMBUH menguji integritas keadilan kamar melalui tiga pa
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Bimbingan Konseling Asrama Pesantren TUMBUH ba'da Isya. Ustadz Mahfudz (Musyrif Pembina Senior, 44 tahun) duduk berdua bersama Hilman (Santri J3, Pengurus Kamar Umar bin Khattab, 16 tahun).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Mahfudz:** *(Menatap Hilman dengan pandangan teduh, menyodorkan teh hangat)* "Hilman... Ustadz sengaja memanggilmu sendiri malam ini. Mari kita bicara dari hati ke hati sebagai sesama penuntut ilmu."
->
-> **Hilman:** *(Duduk tegak, menjawab percaya diri)* "Iya Ustadz. Soal sengketa lemari Arkan tadi sore ya Ustadz? Saya tadi sudah jelaskan ke Ustadz Muda bahwa Arkan itu anak baru yang tidak tertib menaruh baju, jadi wajar kalau anak-anak kamar menegurnya agak keras."
->
-> **Ustadz Mahfudz:** *(Tersenyum tenang, menghela napas panjang)* "Hilman... Ustadz tahu kamu santri berprestasi, bicaramu sangat teratur, dan ayahmu adalah orang yang sangat berjasa bagi pondok ini. Tapi tahukah kamu apa yang Ustadz lihat sore tadi?"
->
-> **Hilman:** *(Terdiam sejenak, alisnya berkerut)* "Apa, Ustadz?"
->
-> **Ustadz Mahfudz:** "Ustadz melihat seorang santri kecil berusia 12 tahun yang ketakutan setengah mati, berdiri gemetar di hadapanmu. Bajunya kamu lemparkan ke lantai bukan karena dia tidak tertib, tapi karena dia menolak menyemir sepatumu. Dan ketika Ustadz Muda memanggil kalian berdua tadi sore, kamu berbicara dengan seluruh kepandaian lidahmu, sementara Arkan tidak mampu bersuara karena semalam kamu bisikkan ancaman di telinganya: *'Kalau kamu mengadu, kamu musuh seluruh kamar!'* Benar begitu, Hilman?"
->
-> **Hilman:** *(Wajahnya berubah merah padam, menundukkan pandangan, suaranya tercekat)* "Ustadz... saya..."
->
-> **Ustadz Mahfudz:** *(Merendahkan nada bicara, menyentuh dada Hilman)* "Hilman, dengarkan ayahmu ini, Nak. Rasulullah ﷺ bersabda: *'Sesungguhnya orang yang paling aku benci adalah orang yang pandai bersilat lidah untuk menutupi kezalimannya'*. Kekuasaan yang Allah titipkan padamu di kamar itu adalah amanah untuk memeluk adik-adikmu, bukan pedang untuk menindas mereka yang lemah. Arkan itu anak petani miskin dari pelosok desa, orang tuanya menitipkannya ke mari agar dia merasakan kehangatan Islam. Jika kamu menindasnya, di mana letak berkah hafalan Al-Qur'anmu, Nak?"
->
-> **Hilman:** *(Air matanya menetes deras, pundaknya berguncang)* "Astaghfirullahal 'azhim... Ustadz... Saya sombong, saya merasa lebih berkuasa di kamar... Ampuni saya Ustadz... Saya bersumpah tidak akan mengulanginya..."
->
-> **Ustadz Mahfudz:** "Taubat itu ada jalannya, Hilman. Malam ini, temui Arkan berdua saja di mushalla kamar. Minta maaf padanya dengan tulus, rapikan bajunya kembali ke lemari dengan tanganmu sendiri, dan jadilah pelindungnya mulai detik ini. Maukah kamu melakukannya?"
->
-> **Hilman:** *(Mencium tangan Ustadz Mahfudz seraya terisak)* "Saya mau, Ustadz... Saya akan laksanakan malam ini juga. Jazakallah khair atas teguran ini..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0136-2026
@@ -345,3 +333,4 @@ Keadilan di pesantren bukanlah sekadar ruang persidangan di mana orang yang kuat
 ## Pertanyaan berikutnya — P00137
 
 Bagaimana memetakan progresi derajat pengetahuan santri dari sekadar hafalan kognitif (*al-'Ilm*), menuju keyakinan kalbu yang kokoh (*al-Yaqin*), hingga mewujud dalam tindakan karakter harian yang spontan (*al-'Amal*) dalam ritme kehidupan 24 jam?
+

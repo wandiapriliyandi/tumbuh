@@ -197,13 +197,21 @@ Parameter inspeksi dewan penjamin mutu pengasuhan:
 
 ---
 
-## 14. Dialog Kebapakan: "Hikmah Adalah Menimbang dengan Neraca Keadilan Allah, Nak"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif kepada santri pengurus yang bimbang antara menegur atau mendiamkan kesalahan kawan:
-*"Ananda, jika engkau mendiamkan kesalahan saudaramu karena engkau takut ia membencimu, itu bukanlah hikmah; itu adalah kelemahan jiwamu! Dan jika engkau menegurnya dengan amarah yang membakar demi melampiaskan kejengkelanmu, itu pun bukan hikmah; itu adalah hawa nafsumu! Al-Hikmah adalah engkau memegang tangannya dengan lembut seraya menegakkan kebenaran dengan tegas. Engkau menegurnya karena engkau takut ia disiksa di neraka, dan engkau memeluknya agar ia tahu bahwa engkau mencintainya karena Allah. Letakkanlah ketegasanmu di lisanmu dan simpanlah kasih sayangmu di dalam dadamu; di sanalah hikmah profetik akan memancarkan cahayanya."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Hikmah Adalah Menimbang dengan Neraca Keadilan Allah, Nak* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Konsep Al-Hikmah
 
 ```text
@@ -251,3 +259,4 @@ Al-Hikmah adalah pelita yang menerangi jalan penegakan keadilan dan kasih sayang
 ## Pertanyaan berikutnya — P00111
 
 **Uji Semantik Mandiri Istilah `Al-Ibtila'` & `At-Tamhish`: Ujian Pembersihan Jiwa vs Azab/Kutukan dalam Menghadapi Krisis Santri.**
+

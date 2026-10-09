@@ -183,19 +183,21 @@ Pesantren menyediakan kotak aduan tertutup (*Kotak Keadilan Santri*) yang hanya 
 
 ---
 
-## 14. Dialog Kebapakan: "Takutlah pada Doa Orang yang Teraniaya"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Hadits peringatan Rasulullah ﷺ kepada Mu'adz bin Jabal RA:
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Takutlah pada Doa Orang yang Teraniaya* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-$$\text{وَاتَّقِ دَعْوَةَ الْمَظْلُومِ، فَإِنَّهُ لَيْسَ بَيْنَهَا وَبَيْنَ اللَّهِ حِجَابٌ}$$
-
-*(Dan takutlah engkau terhadap doa orang yang teraniaya, karena sesungguhnya antara doanya dengan Allah tidak ada hijab pembatas sama sekali!).* (HR. Bukhari no. 1496).
-
-Pesan kiai kepada para musyrif:
-*"Ketika tanganmu hendak memukul santri, ingatlah bahwa Allah lebih berkuasa membalasmu. Jangan sampai air mata santri yang teraniaya menjadi sumpah serapah yang meruntuhkan keberkahan keluargamu di dunia dan akhirat."*
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Keadilan Kosmik Ilahi sebagai Acuan Moral
 
 ```text
@@ -244,3 +246,4 @@ Keadilan adalah mahkota peradaban yang menegakkan langit dan bumi kepengasuhan:
 ## Pertanyaan berikutnya — P00052
 
 **Dialektika Qadha, Qadar, dan Ikhtiyar dalam Bimbingan Jiwa: Mengikis Fatalisme Pasif dan Menumbuhkan Tanggung Jawab Moral.**
+

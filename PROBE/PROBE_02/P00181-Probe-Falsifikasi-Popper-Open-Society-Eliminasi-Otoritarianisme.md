@@ -59,7 +59,7 @@ Di lingkungan pesantren, bahaya degenerasi kelembagaan menuju **Closed Society T
 
 Model *Open Society* Popper—yaitu sebuah komunitas yang memiliki mekanisme koreksi terhadap pemimpin tanpa pertumpahan darah—adalah hakikat sejati dari tata kelola Islam yang ditegakkan oleh Khulafaur Rasyidin melalui prinsip **Asy-Syura** dan **Hak Koreksi Kebenaran (*Taqwimul Imām*)**.
 
-Ketika Sayyidina Abu Bakar Ash-Shiddiq radhiyallahu 'anhu dibai'at menjadi khalifah pertama, beliau menyampaikan pidato kenegaraan yang menjadi piagam masyarakat terbuka pertama dalam sejarah:
+Ketika Sayyidina Abu Bakar Ash-Shiddiq radhiyallahu 'anhu dibai'at menjadi pemimpin pertama, beliau menyampaikan pidato kenegaraan yang menjadi piagam masyarakat terbuka pertama dalam sejarah:
 
 > **«أَمَّا بَعْدُ، أَيُّهَا النَّاسُ، فَإِنِّي قَدْ وُلِّيتُ عَلَيْكُمْ وَلَسْتُ بِخَيْرِكُمْ؛ فَإِنْ أَحْسَنْتُ فَأَعِينُونِي، وَإِنْ أَسَأْتُ فَقَوِّمُونِي... الصِّدْقُ أَمَانَةٌ، وَالْكَذِبُ خِيَانَةٌ... أَطِيعُونِي مَا أَطَعْتُ اللَّهَ وَرَسُولَهُ، فَإِذَا عَصَيْتُ اللَّهَ وَرَسُولَهُ فَلَا طَاعَةَ لِي عَلَيْكُمْ»**  
 > *(Sirah Ibnu Hisyam, Jilid 2, Halaman 660 & Al-Bidayah wan Nihayah Ibnu Katsir, Jilid 5, Halaman 248).*
@@ -71,7 +71,7 @@ Dan perkataan Sayyidina Umar bin Al-Khaththab radhiyallahu 'anhu saat berpidato 
 
 ### Takhrij & Kaidah Asas Pengasuhan:
 1. **Hak Koreksi Terhadap Pengasuh (Masyru'iyyatul Taqwim):**  
-   Abu Bakar dan Umar secara tegas menolak kultus kemaksuman diri (*rejection of personal infallibility*). Mereka menuntut rakyat untuk meluruskan penyimpangan pemimpin (*fa qawwimuni*). Jika khalifah teragung saja wajib dikoreksi oleh rakyat biasa, betapa lancangnya musyrif asrama yang menganggap kata-katanya adalah titah mutlak yang tabu dikoreksi oleh santri!
+   Abu Bakar dan Umar secara tegas menolak kultus kemaksuman diri (*rejection of personal infallibility*). Mereka menuntut rakyat untuk meluruskan penyimpangan pemimpin (*fa qawwimuni*). Jika pemimpin teragung saja wajib dikoreksi oleh rakyat biasa, betapa lancangnya musyrif asrama yang menganggap kata-katanya adalah titah mutlak yang tabu dikoreksi oleh santri!
 2. **Kaidah Ketaatan Bersyarat (Tha'ah Masyruthah bil Ma'ruf):**  
    Ketaatan kepada pengurus asrama bukanlah ketaatan buta tanpa batas, melainkan terikat pada ketaatan kepada Allah dan kebaikan syar'i (*mā atha'tullāh*). Instruksi musyrif yang menzalimi santri atau melanggar syariat tidak memiliki hak untuk ditaati.
 
@@ -144,21 +144,21 @@ Di Asrama Al-Qurthubi, Mudir baru menerapkan kebijakan "Disiplin Besi Tertutup":
 
 ---
 
-## 12. Dialog Kebapakan Naratif Hidup
+## 12. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:** Aula pertemuan asrama lantai satu pada malam forum Syura Santri. Kyai Salman (Pimpinan Umum Pesantren) duduk bersila sejajar di atas karpet bersama 150 santri asrama, tanpa panggung tinggi atau meja pemisah.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Kyai Salman:** *(Tersenyum hangat, memegang mikrofon)* "Anak-anakku sekalian, malam ini adalah malam Syura kita bersama. Saya duduk di sini bukan sebagai raja yang ingin dipuji, melainkan sebagai ayah kalian yang ingin mendengar suara hati putra-putranya. Jika ada aturan asrama yang memberatkan raga kalian, jika ada makanan dapur yang kurang layak, atau jika ada perlakuan musyrif—bahkan perlakuan saya sendiri—yang melukai rasa keadilan kalian, bicaralah dengan jujur dan santun. Majelis ini dilindungi oleh Allah, dan saya menjamin demi nama Allah: tidak ada satu pun anakku yang akan dihukum atau dikurangi nilainya karena menyampaikan kebenaran di majelis ini."  
-> **Santri Danu (Kelas 10):** *(Mengacungkan tangan ragu-ragu, lalu berdiri dengan suara bergetar)* "Kyai... bolehkah saya menyampaikan masukan?"  
-> **Kyai Salman:** *(Menatap Danu dengan mata teduh dan penuh kebanggaan)* "Silakan berdiri tegak, Danu anakku. Sampaikan apa yang ada di dadamu."  
-> **Danu:** "Kyai... tiga pekan terakhir ini, menu makan malam kami sering kali hanya berupa tempe goreng dingin dan sayur yang sangat asin. Banyak teman-teman kami yang lambungnya perih, dan uang saku kami habis untuk membeli roti di luar. Kami ingin bertanya: ke mana anggaran makan kami dialokasikan, dan bisakah pihak dapur memperbaiki gizinya agar kami bisa belajar dengan tenang?"  
-> **Suasana Aula:** *(Seketika hening mencekam, beberapa musyrif muda tampak tegang dan gelisah)*  
-> **Kyai Salman:** *(Meneteskan air mata haru, lalu menundukkan kepalanya, menghela nafas panjang)* "Danu... anakku yang mulia. Segala puji bagi Allah yang telah menghadirkan santri pemberani dan jujur sepertimu di pesantren ini. Sayyidina Umar bin Khaththab menangis gembira ketika ada rakyatnya yang berani mengingatkannya dengan pedang terhunus. Malam ini, engkau telah menjadi pedang kejujuran yang mengingatkan kelalaian kami sebagai pengasuh!"  
-> **Kyai Salman:** *(Menoleh ke arah Kepala Dapur dan Direktur Logistik yang duduk di sampingnya)* "Ustadz Lukman, besok pagi periksa seluruh laporan belanja dapur. Panggil tim auditor yayasan. Jika ada kebocoran anggaran atau ketidakjujuran pengadaan bahan makanan, selesaikan saat itu juga! Mulai besok malam, saya ingin menu makan anak-anak kita dipenuhi lauk bergizi, sayur segar, dan buah-buahan yang layak. Danu, terima kasih, anakku. Majulah ke depan, biarkan aku memelukmu sebagai tanda hormatku atas keberanian moralmu malam ini."  
-> **Danu:** *(Menangis haru, melangkah ke depan dan memeluk Kyai Salman diiringi gemuruh takbir dan isak tangis kebahagiaan seluruh santri di aula)* "Allahu Akbar! Alhamdulillah..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 13. Arsitektur Keputusan Rekayasa Lembaga (ADR Format)
 
 - **Judul Keputusan:** ADR-PROBE-0181: Transformasi Tata Kelola Asrama Menuju Ekosistem Komunitas Terbuka Beradab (Open Community) Berbasis Pemikiran Karl Popper dan Prinsip Syura Salaf.
@@ -204,10 +204,11 @@ Dengan rampungnya penulisan kanonik berkas **P00181** ini, genaplah target **50 
 2. **Sub-Klaster 2.2 (P00153 – P00174: 22 Berkas):** Tuntas 100% menguji kritis lima kitab agung turats (*Al-Mustashfa*, *Al-Muwafaqat*, *Dar'u Ta'arudh*, *Jami' Bayan Al-'Ilm*, dan *Qawa'id Al-Ahkam*).
 3. **Sub-Klaster 2.3 (P00175 – P00181: 7 Berkas):** Menembus gerbang filsafat sains kontemporer (*Critical Realism* Roy Bhaskar dan *Falsifikasionisme & Open Society* Karl Popper).
 
-Seluruh berkas berdiri kokoh, bervolume mendalam 15–17 bab bernomor, memuat visualisasi ASCII, teks turats berharakat/takhrij, sains/neurosains kognitif, matriks komparatif, dialektika, studi kasus multi-asrama, PBIS Multi-Tier, ritme 24 jam J1–J4, audit mutu, dialog kebapakan naratif hidup, ADR kanonik, implikasi repositori, guardrails 7 butir, dan pertanyaan pengalir berikutnya.
+Seluruh berkas berdiri kokoh, bervolume mendalam 15–17 bab bernomor, memuat visualisasi ASCII, teks turats berharakat/takhrij, sains/neurosains kognitif, matriks komparatif, dialektika, studi kasus multi-asrama, PBIS Multi-Tier, ritme 24 jam J1–J4, audit mutu, analisis interaksi pembinaan & protokol tindakan edukatif, ADR kanonik, implikasi repositori, guardrails 7 butir, dan pertanyaan pengalir berikutnya.
 
 ---
 
 ## Pertanyaan berikutnya — P00182
 
 Bagaimana prinsip falsifikasi Popper dalam menguji validitas instrumen psikometri, rubrik perilaku PBIS, dan skala pengukuran fitrah santri di asrama 24 jam agar bebas dari falasi *self-justifying metrics*?
+

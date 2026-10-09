@@ -80,8 +80,8 @@ Sains lingkungan dan neurobiologi kontemporer mengonfirmasi hubungan intim antar
 - **Antitesis (Panteisme Alam Semesta / Ekologi Ekstrem Tanpa Syariat):**  
   Mengagungkan alam hingga taraf pemujaan mistis yang mengabaikan pemanfaatan syar'i untuk kemaslahatan manusia, menolak pembangunan fasilitas asrama yang layak demi menjaga kondisi liar alamiah.
 
-- **Sintesis (Khilafah Ekologis Berbasis Tasbih TUMBUH):**  
-  Manusia diamanahkan sebagai khalifah pemakmur bumi (*isti'mar al-ardh*) yang wajib menjaga keselarasan dengan tasbih kosmik alam. Menjadikan kebersihan, kerapian arsitektur, penghematan energi, dan penghijauan asrama sebagai rukun adab thaharah yang terintegrasi langsung dengan keimanan tauhid santri.
+- **Sintesis (Kelestarian Ekologis Berbasis Tasbih TUMBUH):**  
+  Manusia diamanahkan sebagai pengemban amanah pemakmur bumi (*isti'mar al-ardh*) yang wajib menjaga keselarasan dengan tasbih kosmik alam. Menjadikan kebersihan, kerapian arsitektur, penghematan energi, dan penghijauan asrama sebagai rukun adab thaharah yang terintegrasi langsung dengan keimanan tauhid santri.
 
 ---
 
@@ -168,7 +168,7 @@ Ulama turats meletakkan prinsip konservasi alam dan perlindungan makhluk non-man
   Mampu memilah sampah plastik dan organik; merapikan loker pakaian sendiri agar tidak lembap dan berjamur; menjaga kebersihan toilet setelah menggunakannya.
 
 - **J3 (Ta'lim - Internalisasi Nilai):**  
-  Memahami doktrin *At-Tasbih al-Kawni* sebagai dasar tauhid ekologis; aktif menghemat air dan listrik; menjadi motor penggerak kebersihan kamar (*khalifah bi'ah*).
+  Memahami doktrin *At-Tasbih al-Kawni* sebagai dasar tauhid ekologis; aktif menghemat air dan listrik; menjadi motor penggerak kebersihan kamar (*penggerak kelestarian lingkungan*).
 
 - **J4 (Ta'zhim - Kematangan Eksistensial):**  
   Memiliki kepekaan ekologis mendalam; mampu merancang program pemuliaan lingkungan asrama; merawat alam sebagai wujud keintiman spiritual dengan tasbih semesta.
@@ -183,29 +183,21 @@ Ulama turats meletakkan prinsip konservasi alam dan perlindungan makhluk non-man
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Area taman depan asrama di sore hari yang sejuk. Ustadz Ilyas duduk di bangku batu bersama Naufal (13 tahun) yang baru saja memetik dan merontokkan kuncup bunga mawar taman asrama sambil melamun.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Ilyas:** *(Menyapa dengan senyum teduh, menyentuh lembut tangkai bunga yang putus)* "Naufal, bunganya indah sekali ya, Nak?"
->
-> **Naufal:** *(Kaget, menyembunyikan tangannya di balik saku)* "Eh... iya, Ustadz. Maaf, saya tadi cuma iseng meremasnya sambil mikir hafalan..."
->
-> **Ustadz Ilyas:** "Kamu tahu tidak, Naufal, apa yang sedang dilakukan oleh kuncup mawar ini sebelum kamu petik tadi?"
->
-> **Naufal:** *(Mengernyitkan dahi)* "Tumbuh mekar, Ustadz?"
->
-> **Ustadz Ilyas:** "Lebih dari itu, Nak. Bunga ini sedang bertasbih menyebut nama Allah. Seluruh urat daunnya, kelopaknya, getahnya, sedang sujud memuji Rabb semesta alam dengan bahasanya sendiri yang suci. Ketika kita tinggal di asrama ini, kita tidak hidup sendirian di antara dinding semen. Kita sedang hidup bertetangga dengan jutaan makhluk Allah yang sedang shalat. Santri penghafal Al-Qur'an adalah pemimpin dari tasbih alam ini. Kalau pemimpinnya merusak makmumnya tanpa alasan, di mana letak adab kepemimpinannya?"
->
-> **Naufal:** *(Tertegun, memandang kelopak bunga di tanah dengan penuh penyesalan)* "Subhanallah... saya tidak pernah berpikir sampai ke sana, Ustadz. Saya pikir tanaman cuma rumput biasa yang tidak punya perasaan..."
->
-> **Ustadz Ilyas:** "Mulai hari ini, pandanglah sekelilingmu dengan mata tauhid, Naufal. Setiap pohon, setiap tetes air wudhu, adalah saudaramu yang bertasbih. Mari kita ambil gembor air di sana, kita siram teman-teman mawarmu yang lain agar tasbih mereka semakin segar."
->
-> **Naufal:** *(Tersenyum gembira, bangkit dengan sigap)* "Siap, Ustadz! Ayo kita siram sekarang!"
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0115-2026
@@ -220,7 +212,7 @@ Area taman depan asrama di sore hari yang sejuk. Ustadz Ilyas duduk di bangku ba
 
 ## 16. Implikasi bagi Repositori TUMBUH
 
-1. **Dokumen Fundamental (`01_FUNDAMENTAL/`):** Mengukuhkan bab Kosmologi Islam dan Khilafah Ekologis dalam Doktrin Worldview TUMBUH.
+1. **Dokumen Fundamental (`01_FUNDAMENTAL/`):** Mengukuhkan bab Kosmologi Islam dan Kelestarian Ekologis dalam Doktrin Worldview TUMBUH.
 2. **Dokumen Operasional (`03_OPERATIONAL/`):** Menjadi landasan revisi SOP Sanitasi Toilet dan Kebersihan Kamar, Panduan Penghematan Energi Asrama, dan Desain Fasilitas Ramah Lingkungan.
 3. **Dokumen Riset (`09_RESEARCH/`):** Memberikan kerangka kerja untuk mengukur korelasi antara indeks kualitas ruang terbuka hijau asrama dengan kesehatan mental dan retensi memori santri.
 
@@ -247,3 +239,4 @@ Area taman depan asrama di sore hari yang sejuk. Ustadz Ilyas duduk di bangku ba
 ## Pertanyaan berikutnya — P00116
 
 Bagaimana membongkar distorsi semantik istilah *Al-Ajal wal-Hisab* (Batas Waktu Eksistensial dan Hari Perhitungan Amal vs Eskatologi Pasif / Teror Neurotik Kematian) dalam membangun orientasi produktivitas waktu dan manajemen usia muda santri di pesantren TUMBUH?
+

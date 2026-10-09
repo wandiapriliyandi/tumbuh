@@ -269,25 +269,21 @@ Master Auditor Kualitas TUMBUH menguji integritas tata kelola privasi melalui ti
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Konseling Khusus Asrama Pesantren TUMBUH. Pintu tertutup rapat, suasana hening dan tenang. Ustadz Rasyid (Konselor Senior, 45 tahun) duduk berhadapan dengan Farhan (Santri J3, 16 tahun) yang menundukkan kepalanya dalam-dalam, kedua tangannya saling meremas gelisah.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Rasyid:** *(Menyodorkan segelas teh hangat dengan senyum kebapakan yang menenangkan)* "Minum dulu tehnya, Farhan. Tarik napas dalam-dalam, hembuskan perlahan. Di ruangan ini, hanya ada kamu, Ustadz, dan Allah Yang Maha Mendengar."
->
-> **Farhan:** *(Menatap Ustadz Rasyid dengan mata penuh ketakutan)* "Ustadz... apakah kalau saya bercerita, Ustadz akan mencatatnya di buku pelanggaran dan melaporkannya ke Kiai dan orang tua saya? Saya takut sekali dikeluarkan dari pondok, Ustadz..."
->
-> **Ustadz Rasyid:** *(Mengambil selembar map bertuliskan 'Amanah Sirr' dan meletakkan tangannya di atasnya)* "Farhan, dengarkan sumpah ayahmu ini baik-baik, Nak. Demi Allah yang jiwaku berada di tangan-Nya, seluruh hal yang kamu ceritakan di ruangan ini mengenai luka batinmu, kekhilafan masa lalumu, dan perjuanganmu bertaubat, adalah rahasia suci yang terkunci rapat di dalam dada Ustadz. Ustadz tidak akan pernah membagikannya ke grup WA pengurus, tidak akan menceritakannya ke kawan-kawanmu, dan tidak akan menjadikannya alat untuk menghukummu. Di sini, Ustadz adalah dokter jiwamu yang ingin membantumu sembuh dan bangkit, bukan jaksa yang sedang memburu kesalahanmu."
->
-> **Farhan:** *(Air matanya langsung tumpah membasahi pipi, bahunya berguncang hebat)* "Sungguhkah demikian, Ustadz? Ya Allah... selama ini dada saya sesak sekali menanggung beban ini sendirian... Saya takut sekali dicap anak kotor di pondok ini..."
->
-> **Ustadz Rasyid:** *(Merangkul pundak Farhan dengan kehangatan tulus)* "Menangislah, anakku. Basuh lukamu. Rasulullah ﷺ bersabda bahwa orang yang bertaubat dari dosa itu laksana orang yang tidak memiliki dosa sama sekali. Allah menutup aibmu dengan tirai kasih sayang-Nya, maka pantang bagi Ustadz untuk merobek tirai itu. Bicaralah, Farhan. Mari kita cari jalan keluar bersama menuju keridhaan Allah."
->
-> **Farhan:** *(Menatap Ustadz Rasyid dengan pandangan penuh rasa percaya)* "Terima kasih, Ustadz... Hati saya merasa sangat aman di sini. Saya akan ceritakan semuanya..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0142-2026
@@ -336,3 +332,4 @@ Menutupi aib seorang penuntut ilmu bukanlah upaya untuk menyembunyikan kejahatan
 ## Pertanyaan berikutnya — P00143
 
 Bagaimana kriteria kematangan riset luar (*external research maturity threshold*) sebelum suatu teori psikologi, pedagogi modern, atau instrumen neurosains luar diadopsi secara resmi ke dalam kebijakan pengasuhan pesantren TUMBUH?
+

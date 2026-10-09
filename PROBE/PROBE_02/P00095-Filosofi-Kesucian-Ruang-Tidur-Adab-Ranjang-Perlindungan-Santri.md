@@ -198,13 +198,21 @@ Indikator pemeriksaan kamar tidur santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Ranjangmu Adalah Saksi Kematian Kecilmu, Ananda"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif saat menginspeksi kamar santri sebelum lampu dipadamkan:
-*"Ananda sekalian, lihatlah kasur tempat engkau berbaring ini. Beberapa saat lagi, engkau akan memejamkan mata dan ruhmu akan digenggam oleh Allah SWT. Tidur ini adalah kematian kecil. Jangan biarkan dirimu menghadap Allah dalam keadaan tubuh kotor, hati menyimpan dendam kepada kawan sekamar, dan lisan mencela orang lain. Maafkanlah seluruh kesalahan saudaramu malam ini, basuh jasadmu dengan wudhu, dan rebahkan tubuhmu seraya menyerahkan jiwa dan ragamu ke dalam pemeliharaan-Nya. Semoga jika Allah memanggilmu malam ini, engkau kembali dalam keadaan husnul khatimah."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Ranjangmu Adalah Saksi Kematian Kecilmu, Ananda* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Kesucian Ruang Tidur
 
 ```text
@@ -252,3 +260,4 @@ Kamar tidur seorang santri adalah mihrab penyerahan diri di keheningan malam:
 ## Pertanyaan berikutnya — P00096
 
 **Fenomenologi Ritme Spiritual 24 Jam (V): Filosofi Kebersihan Thaharah, Sanitasi Pesantren, dan Adab Bersuci Harian Santri.**
+

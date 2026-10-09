@@ -185,25 +185,21 @@ Para ulama turats terdahulu telah menguraikan keterikatan antara daya nalar otak
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang bimbingan konseling asrama di sore hari yang sejuk. Ustadz Farhan duduk bersama Arif (12 tahun) yang sedang menggambar diagram otaknya di selembar kertas.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Farhan:** *(Menunjuk gambar di kertas sambil tersenyum)* "Wah, bagus sekali gambarmu, Arif. Kamu tahu bagian depan di atas alismu ini namanya apa?"
->
-> **Arif:** *(Tersenyum malu)* "Kata dokter kemarin namanya korteks prefrontal ya Ustadz?"
->
-> **Ustadz Farhan:** "Betul sekali, Nak. Dalam Al-Qur'an Allah menyebutnya *An-Nashiyah*—ubun-ubun. Bagian otak ini seperti 'komandan kecil' yang tugasnya merencanakan tugas, mengingat buku apa yang harus dibawa, dan menahan diri agar tidak buru-buru. Nah, komandan kecil di kepalamu ini usianya baru 12 tahun, Arif. Dia masih latihan, belum sekuat komandan orang dewasa. Wajar kalau kemarin kamu sempat lupa bawa buku."
->
-> **Arif:** *(Matanya berbinar lega)* "Jadi... saya bukan anak bodoh atau anak jahat ya Ustadz?"
->
-> **Ustadz Farhan:** "Sama sekali bukan, Arif! Kamu adalah anak yang cerdas dan disayangi Allah. Tapi komandan kecilmu ini butuh bantuan agar latihannya berhasil. Mulai sore ini, kita pasang daftar buku di lemari kamarmu ya. Setiap malam sebelum tidur, Arif cukup mencentang bukunya satu per satu. Dengan begitu, komandan kecilmu terlatih dan hatimu tetap tenang beribadah. Siap berlatih bersama Ustadz?"
->
-> **Arif:** *(Mengangguk mantap dengan senyum penuh keyakinan)* "Siap, Ustadz! Saya mau latih komandan kecil saya sampai jadi juara!"
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0124-2026
@@ -245,3 +241,4 @@ Ruang bimbingan konseling asrama di sore hari yang sejuk. Ustadz Farhan duduk be
 ## Pertanyaan berikutnya — P00125
 
 Bagaimana melakukan *Dekonstruksi Positivisme Kering* (Kritik atas Metrik Kuantitatif Kaku dan Obsesi Angka Indikator) agar sistem asesmen karakter PBIS di pesantren TUMBUH tetap menjaga kedalaman batin, keikhlasan, dan keutuhan manusiawi santri?
+

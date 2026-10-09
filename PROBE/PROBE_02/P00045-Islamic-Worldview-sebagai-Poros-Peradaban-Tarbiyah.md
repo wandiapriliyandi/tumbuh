@@ -84,7 +84,7 @@ Dalam sosiologi pendidikan dan filsafat ilmu:
 
 | Dimensi Pengasuhan | Worldview Sekuler / Materialistik | Islamic Worldview (TUMBUH) | Dampak pada Jiwa Santri |
 | :--- | :--- | :--- | :--- |
-| **Status Hakiki Santri** | Konsumen pembeli jasa pendidikan / Karyawan masa depan. | Titipan amanah Ilahi, hamba Allah (*'Abdullah*), dan khalifah fil ardh. | Santri merasa dimuliakan fitrahnya dan memiliki harga diri tinggi. |
+| **Status Hakiki Santri** | Konsumen pembeli jasa pendidikan / Karyawan masa depan. | Titipan amanah Ilahi, hamba Allah (*'Abdullah*), dan pemakmur bumi. | Santri merasa dimuliakan fitrahnya dan memiliki harga diri tinggi. |
 | **Tujuan Penegakan Disiplin** | Kepatuhan mutlak, ketertiban mekanik, menjaga citra lembaga. | Tazkiyatun nafs, pemulihan hubungan adab, dan bekal hisab akhirat. | Santri disiplin karena kesadaran batin, bukan karena takut hukuman. |
 | **Kelemahan & Kesalahan Santri** | Anomali yang harus disingkirkan / Pelanggar yang harus dihukum berat. | Fase ibtila' dan proses belajar alami anak yang butuh bimbingan restoratif. | Santri tidak putus asa dan memiliki ruang untuk bertaubat memperbaiki diri. |
 | **Peran Musyrif Asrama** | Pengawas keamanan bergaji rendah / Mandor kamar tidur. | Pewaris tugas kenabian (*Waratsatul Anbiya'*), pelindung jiwa, dan teladan qudwah. | Musyrif bertugas dengan keikhlasan, wibawa, dan kehangatan kasih sayang. |
@@ -144,7 +144,7 @@ Neurosains sosial kognitif membuktikan:
 
 Dalam PBIS sekuler Barat, nilai dasar sering kali cair dan berakar pada konsensus sosial (*social contract theory*). Dalam TUMBUH:
 - Nilai PBIS diikatkan secara mutlak pada wahyu tauhid (*Islamic Worldview Anchor*).
-- Menghormati teman (*Respect*) adalah bagian dari adab ukhuwah imaniyyah; bertanggung jawab (*Responsibility*) adalah wujud amanah khilafah.
+- Menghormati teman (*Respect*) adalah bagian dari adab ukhuwah imaniyyah; bertanggung jawab (*Responsibility*) adalah wujud amanah pemakmuran bumi.
 
 ---
 
@@ -188,13 +188,21 @@ Auditor memeriksa buku pedoman santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Pandanglah Santrimu dengan Pandangan Kasih Sayang Allah"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada para musyrif:
-*"Ketika antum melihat seorang santri yang paling susah diatur di kamarmu, jangan pandang dia dengan mata kebencian. Pandanglah dia dengan pandangan kasih sayang Allah: di dalam dadanya ada fitrah tauhid, di keningnya ada tempat untuk bersujud kepada Rabb semesta alam. Bimbinglah dia pulang ke pangkuan fitrahnya."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Pandanglah Santrimu dengan Pandangan Kasih Sayang Allah* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Pengukuhan Islamic Worldview sebagai Poros Sistem
 
 ```text
@@ -242,3 +250,4 @@ Islamic Worldview adalah fondasi peradaban yang mengubah bilik asrama menjadi ta
 ## Pertanyaan berikutnya — P00046
 
 **Relasi Khaliq-Makhluq dalam Ritme Asrama 24 Jam: Menjaga Batas Ubudiyyah dan Menghidupkan Jiwa Santri.**
+

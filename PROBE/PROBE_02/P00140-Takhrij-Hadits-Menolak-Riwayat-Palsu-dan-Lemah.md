@@ -273,27 +273,21 @@ Master Auditor Kualitas TUMBUH menguji integritas literasi hadits melalui tiga p
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Serambi Belakang Asrama Pesantren TUMBUH selepas shalat Ashar. Angin sore berhembus menyejukkan. Ustadz Mu'adz (Pakar Hadits Pengasuhan, 39 tahun) sedang membaca kitab *Tahdzib at-Tahdzib* bersama Rayhan (Santri J3, 16 tahun) yang tampak termenung memegang catatan kultumnya.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Mu'adz:** *(Menoleh sambil tersenyum)* "Rayhan... Ustadz perhatikan dari tadi kamu menghapus dan menulis ulang catatan kultummu. Ada kesulitan apa, Nak?"
->
-> **Rayhan:** *(Menggaruk kepalanya yang tidak gatal, tersenyum malu)* "Iya Ustadz... Malam ini giliran saya mengisi kultum kamar setelah Isya. Saya tadi mau membawakan cerita tentang pohon yang menangis dan riwayat tentang keutamaan menuntut ilmu yang sering saya dengar di kampung: *'Tinta para ulama lebih utama daripada darah para syuhada'*. Tapi saat saya cek di maktabah digital tadi siang, ternyata riwayat tinta ulama itu dinyatakan maudhu' oleh para muhadditsin. Saya jadi bingung, Ustadz... Kalau saya tidak pakai cerita itu, kultum saya takut tidak menarik dan teman-teman tidak termotivasi."
->
-> **Ustadz Mu'adz:** *(Tersenyum bangga, menepuk lembut pundak Rayhan)* "Alhamdulillah! Demi Allah, Rayhan, Ustadz sangat bangga padamu! Mengetahui sebuah riwayat itu palsu lalu menahan diri untuk tidak menyampaikannya, itu adalah bentuk adab tertinggi kepada Rasulullah ﷺ. Mengapa kamu harus takut kultummu tidak menarik, Nak?"
->
-> **Rayhan:** "Biasanya santri lebih suka cerita-cerita yang heboh dan dramatis, Ustadz."
->
-> **Ustadz Mu'adz:** "Rayhan, dengarkan ayahmu ini. Agama ini dibangun di atas cahaya kebenaran wahyu, bukan di atas dongeng dusta! Rasulullah ﷺ bersabda dalam hadits shahih riwayat Al-Bukhari tentang batang kurma yang menangis merindukan beliau saat beliau berganti mimbar. Itu riwayat shahih mutawatir, disaksikan ratusan sahabat, dan tangisan batang kurma itu jauh lebih mengguncang kalbu daripada cerita palsu mana pun! Bukalah *Shahih Muslim*, carilah hadits tentang para malaikat yang membentangkan sayapnya karena ridha kepada penuntut ilmu. Itu firman kebenaran dari lisan nabi yang ma'shum! Bawakan kebenaran itu dengan ketulusan hatimu, Rayhan. Cahaya kebenaran yang bersumber dari sabda shahih akan menembus hati kawan-kawanmu, tanpa kamu perlu menipu mereka dengan riwayat dusta."
->
-> **Rayhan:** *(Matanya berbinar penuh semangat)* "Masya Allah... Iya Ustadz! Hati saya jadi mantap sekali. Saya akan bawakan hadits sayap malaikat itu malam ini."
->
-> **Ustadz Mu'adz:** "Barakallahu fik, Rayhan. Jadilah pembawa kebenaran yang jujur. Ustadz akan duduk di shaf belakang malam ini untuk mendengarkan kultummu."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0140-2026
@@ -342,3 +336,4 @@ Agama Islam adalah risalah cahaya yang agung, sempurna, dan terjaga; ia berdiri 
 ## Pertanyaan berikutnya — P00141
 
 Bagaimana mendudukkan hukum kausalitas empiris (*sabab-musabbab*) dalam ikhtiar pembinaan karakter santri di asrama tanpa tergelincir ke dalam fatalisme pasif (*jabariyyah*) maupun ilusi otonomi mutlak (*mu'tazilah/qadariyyah*)?
+

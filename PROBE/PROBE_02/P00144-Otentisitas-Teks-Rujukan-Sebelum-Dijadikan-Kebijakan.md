@@ -268,25 +268,21 @@ Master Auditor Kualitas TUMBUH menguji integritas bibliografi melalui tiga param
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Maktabah Manuskrip Pesantren TUMBUH pada sore hari yang tenang. Rak-rak kayu jati dipenuhi kitab-kitab tebal berjilid kulit. Ustadz Danial (Filolog Turats Lembaga, 44 tahun) sedang meneliti naskah bersama Ilham (Santri J4, 17 tahun, Ketua Divisi Bahtsul Masail Santri).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Danial:** *(Menyalakan lampu meja, membuka dua edisi kitab Bidayatul Hidayah di hadapan Ilham)* "Ilham... coba kamu perhatikan baris ketiga pada halaman 42 di kedua kitab ini. Apa yang kamu temukan?"
->
-> **Ilham:** *(Mendekatkan wajahnya, membaca dengan seksama lalu terperanjat)* "Subhanallah... Ustadz! Di kitab cetakan kuning yang biasa kami pakai, tertulis: *'fa'in 'ashaka fadhrib-hu'* (jika ia bermaksiat kepadamu maka pukullah ia). Tapi di edisi tahqiq Syaikh Abdul Fattah Abu Ghuddah yang bersandar pada tiga manuskrip tulisan tangan murid Imam Al-Ghazali, tertulis: *'fa'in 'ashaka fa-a'ridh 'anhu'* (jika ia bermaksiat kepadamu maka berpalinglah darinya / tegurlah dengan menjauhkan diri)! Huruf *dhad* dan *ra'* tertukar dengan *'ain* dan *ra'* karena tintanya pudar!"
->
-> **Ustadz Danial:** *(Tersenyum mendalam, menatap Ilham dengan pandangan berwibawa)* "Allahu akbar! Kamu melihatnya sendiri sekarang, Ilham. Bayangkan betapa dahsyatnya akibat dari satu kesalahan titik penyalin naskah ini! Selama puluhan tahun, sebagian pengurus asrama menggunakan kalimat cetakan yang salah itu untuk memukul santri yang lalai shalat, seraya menuduh bahwa Imam Al-Ghazali memerintahkan pemukulan! Padahal Hujjatul Islam Al-Ghazali menulis sebaliknya: beliau memerintahkan menggunakan sanksi relasional dengan berpaling dan menasihati secara dingin, bukan memukul fisik!"
->
-> **Ilham:** *(Bulu kuduknya meremang, tangannya gemetar memegang ujung kitab)* "Maha Suci Allah... Betapa mengerikannya dosa orang yang menghukum manusia atas dasar teks yang salah cetak ini, Ustadz... Saya merinding memikirkannya."
->
-> **Ustadz Danial:** "Inilah mengapa di pesantren TUMBUH, kita mewajibkan *Tahqiq an-Nushush* sebelum menjadikan teks apa pun sebagai dasar regulasi asrama, Ilham. Menjaga amanah teks ulama salaf adalah bagian dari menjaga kemurnian syariat Islam. Jika kita ceroboh membaca teks, kita sedang menzalimi ulama yang menulisnya, dan menzalimi santri yang kita asuh. Jadilah penuntut ilmu yang teliti, anakku. Jangan pernah keluarkan fatwa atau aturan sebelum engkau yakin seratus persen akan keaslian naskahnya."
->
-> **Ilham:** *(Mencium tangan Ustadz Danial dengan penuh rasa takzim)* "Pelajaran sore ini membuka mata batin saya seumur hidup, Ustadz. Saya berjanji akan selalu meneliti dan menjaga amanah keotentikan ilmu ini ke mana pun saya melangkah."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0144-2026
@@ -335,3 +331,4 @@ Khazanah turats Islam adalah samudra mutiara peradaban yang tiada tara nilainya;
 ## Pertanyaan berikutnya — P00145
 
 Bagaimana menumbuhkan nalar kritis beradab (*at-tafakkur al-qur'ani*) pada diri santri agar mereka mampu membedakan antara argumentasi burhani yang kokoh dengan retorika safsathah (sofisme/falasi logika) kontemporer tanpa kehilangan tawadhu' kepada guru?
+

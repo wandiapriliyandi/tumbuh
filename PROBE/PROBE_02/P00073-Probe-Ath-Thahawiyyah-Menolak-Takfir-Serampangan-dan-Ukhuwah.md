@@ -200,13 +200,21 @@ Auditor memeriksa halaqah-halaqah tertutup santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Rangkullah Saaudaramu, Jangan Menjadi Hakim Neraka"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai kepada santri saat menutup pengajian bab Iman dan Kufur:
-*"Ananda, Allah mengutus Rasulullah ﷺ ke muka bumi sebagai pembawa kabar gembira dan penebar kasih sayang (da'iyan wa rahmatan), bukan sebagai algojo yang membagi-bagi tiket neraka kepada manusia. Jagalah lisanmu dari mengkafirkan saudaramu seiman. Ketika engkau melihat saudaramu terjatuh ke dalam lumpur dosa, ulurkan tanganmu untuk membasuh lukanya dengan nasihat yang lembut; jangan engkau dorong kepalanya semakin dalam ke jurang kebinasaan dengan vonis kafirmu yang sombong."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Rangkullah Saaudaramu, Jangan Menjadi Hakim Neraka* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Kaidah Penolakan Takfir Ath-Thahawiyyah
 
 ```text
@@ -253,3 +261,4 @@ Kaidah Ath-Thahawiyyah adalah payung penyelamat persaudaraan kaum mukminin:
 ## Pertanyaan berikutnya — P00074
 
 **Probe Kitab Qawa'id Al-'Aqa'id Ihya 'Ulumiddin (I): Tahapan Menanamkan Iman pada Anak (Talqin, Taqlid, Istidlal, Tahqiq).**
+

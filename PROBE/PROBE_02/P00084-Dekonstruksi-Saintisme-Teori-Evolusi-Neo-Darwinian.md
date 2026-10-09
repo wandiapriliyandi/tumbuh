@@ -194,13 +194,21 @@ Auditor memeriksa materi ujian dan lembar kerja biologi:
 
 ---
 
-## 14. Dialog Kebapakan: "Nenek Moyangmu Adalah Nabi yang Mulia, Bukan Binatang Purba"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri saat menutup pengajian surat Shad tentang penciptaan Adam AS:
-*"Ananda, dunia sekuler di luar sana mungkin mendoktrinasi kalian bahwa kalian hanyalah hewan primata yang berevolusi secara kebetulan dari lumpur tanpa arti. Namun Al-Qur'an menegakkan kepalamu dengan kemuliaan: nenek moyangmu adalah Nabi Adam 'alaihissalam, manusia agung yang diciptakan langsung oleh Allah dengan kekuasaan-Nya, yang para malaikat diperintahkan bersujud menghormatinya. Jangan pernah rendahkan martabat ruhanmu menjadi serigala yang saling memangsa; hiduplah laksana keturunan para nabi yang memancarkan cahaya adab dan kebaikan ke seluruh penjuru bumi."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Nenek Moyangmu Adalah Nabi yang Mulia, Bukan Binatang Purba* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Kebijakan Didaktik Teori Evolusi
 
 ```text
@@ -248,3 +256,4 @@ Pendekatan TUMBUH membebaskan sains dari dogma materialisme tanpa jatuh ke dalam
 ## Pertanyaan berikutnya — P00085
 
 **Dekonstruksi Saintisme & Naturalisme Metodologis dalam Pendidikan (III): Desakralisasi Fenomena Psikologis Remaja Menjadi Sekadar Reaksi Neurokimiawi.**
+

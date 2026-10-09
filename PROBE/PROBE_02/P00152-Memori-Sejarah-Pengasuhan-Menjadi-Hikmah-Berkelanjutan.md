@@ -266,27 +266,21 @@ Master Auditor Kualitas TUMBUH menguji ketahanan memori institusional melalui ti
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Arsip Sejarah Pesantren TUMBUH pada suatu sore yang tenang. Bau kertas tua dan sampul kulit memenuhi ruangan. Di dinding tergantung foto hitam-putih para pendiri pondok bertahun 1950-an. Ustadz Zulfikar (Kepala Pengasuhan, 52 tahun) sedang berdiri di samping lemari arsip kaca bersama Ustadz Farhan (Musyrif Muda, 24 tahun) yang baru saja diangkat menjadi Kepala Keamanan Asrama.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Zulfikar:** *(Mengeluarkan sebuah buku catatan tebal bersampul kain biru tua, lalu menyerahkannya kepada Ustadz Farhan)* "Farhan... pegang buku ini dengan kedua tanganmu, Nak."
->
-> **Ustadz Farhan:** *(Menerima buku tersebut dengan takzim, membaca tulisan kaligrafi di sampulnya)* "Buku Catatan Hikmah dan Air Mata Pengasuhan... Ini buku apa, Ustadz?"
->
-> **Ustadz Zulfikar:** *(Tersenyum mendalam, tatapan matanya menerawang jauh)* "Buku itu adalah darah, keringat, dan air mata para musyrif di pondok ini selama tiga puluh tahun terakhir, Farhan. Di dalamnya tertulis seluruh kesalahan yang pernah kami perbuat di masa muda kami: saat kami terlalu keras menghukum santri hingga mereka kabur, saat kami ceroboh membiarkan kamar mandi kotor hingga santri wabah penyakit, dan saat kami salah membaca dalil hingga mendzalimi anak yatim. Dan di samping catatan kesalahan itu, para masyayikh menuliskan bagaimana Allah membimbing kami bertaubat, bagaimana sistem ini diperbaiki, dan bagaimana luka-luka itu disembuhkan."
->
-> **Ustadz Farhan:** *(Menatap lembaran-lembaran buku tersebut dengan rasa haru yang bergetar)* "Subhanallah... Kenapa catatan kesalahan masa lalu ini tidak dimusnahkan saja, Ustadz? Bukankah ini aib lembaga?"
->
-> **Ustadz Zulfikar:** *(Menepuk pundak Ustadz Farhan seraya menggelengkan kepala dengan tegas)* "Tidak, Farhan! Menghapus sejarah kegagalan adalah kesombongan iblis yang mengira dirinya suci! Kami menyimpan buku ini agar kamu dan musyrif-musyrif muda hari ini tidak perlu lagi mencicipi kepahitan air mata yang pernah kami tangisi! Kami wariskan buku ini kepadamu agar kamu tidak perlu jatuh ke dalam lubang kegagalan yang sama! Bacalah buku ini setiap malam Jumat sebelum kamu memimpin rapat keamanan kamar. Jadikan setiap kekhilafan masa lalu kami sebagai pelita yang menerangi langkahmu memeluk adik-adik santrimu dengan hikmah dan kasih sayang."
->
-> **Ustadz Farhan:** *(Mendekap buku tebal itu ke dadanya seraya meneteskan air mata haru)* "Allahu Akbar... Jazakallahu khairan katsiran Ustadz... Demi Allah, amanah sejarah ini akan saya jaga dan pelajari dengan sepenuh jiwa. Bimbing kami agar mampu meneruskan estafet hikmah ini."
->
-> **Ustadz Zulfikar:** *(Merangkul Ustadz Farhan dengan senyum kebapakan yang agung)* "Alhamdulillah. Berdirilah di atas pundak kami, Farhan, dan terbanglah membawa santri-santri kita lebih tinggi menuju keridhaan Allah Rabbul 'Alamin."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0152-2026
@@ -335,3 +329,4 @@ Sejarah dalam peradaban Islam bukanlah tumpukan fosil usang yang membatu di muse
 ## Pertanyaan berikutnya — P00153
 
 Bagaimana membedah hierarki dalil, konsep qath'i vs zhanni, serta demarkasi akal dan wahyu dalam Kitab *Al-Mustashfa min 'Ilmil Ushul* karya Hujjatul Islam Al-Ghazali, dan apa implikasi langsungnya bagi arsitektur epistemologi pengasuhan TUMBUH v2.0.0?
+

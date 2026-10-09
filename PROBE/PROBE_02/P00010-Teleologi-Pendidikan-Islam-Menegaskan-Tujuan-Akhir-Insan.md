@@ -8,13 +8,13 @@ Ironisnya, arus reduksionisme sekuler ini perlahan-lahan mulai merasuki dinding-
 - Orientasi pendidikan santri bergeser menjadi sekadar mengejar ijazah formal, kemampuan bahasa asing demi pasar kerja global, atau keahlian digital komersial, sementara pembinaan ruhani dan ketundukan ubudiyyah terabaikan.
 - Muncul pertanyaan pragmatis dari sebagian wali santri dan yayasan: *"Untuk apa santri diajarkan adab, tazkiyah, dan tafaqquh fiddin mendalam jika tidak langsung menghasilkan uang atau karier bergengsi?"*
 
-Bagaimana TUMBUH membedah krisis tujuan akhir (*teleological crisis*) ini? **Apa tujuan sejati penciptaan manusia (*ghayat al-wujud al-insani*) menurut wahyu Islam, bagaimana menegaskan kembali Teleologi Pendidikan Islam sebagai pembentukan Insan Kamil dan Hamba Allah yang bertakwa, dan bagaimana menyeimbangkan antara orientasi abadi akhirat dengan kesiapan mengemban kepemimpinan khalifah di panggung bumi?**
+Bagaimana TUMBUH membedah krisis tujuan akhir (*teleological crisis*) ini? **Apa tujuan sejati penciptaan manusia (*ghayat al-wujud al-insani*) menurut wahyu Islam, bagaimana menegaskan kembali Teleologi Pendidikan Islam sebagai pembentukan Insan Kamil dan Hamba Allah yang bertakwa, dan bagaimana menyeimbangkan antara orientasi abadi akhirat dengan kesiapan mengemban amanah pemakmuran di panggung bumi?**
 
 ```text
 DILEMA TELEOLOGIS PENDIDIKAN ZAMAN KINI:
 
            PARADIGMA UTILITARIAN GLOBAL                 PARADIGMA TELEOLOGI ISLAM (TUMBUH)
-       (Manusia sebagai Komoditas Ekonomi)            (Manusia sebagai 'Abdullah & Khalifah)
+       (Manusia sebagai Komoditas Ekonomi)       (Manusia sebagai 'Abdullah & Pemakmur Bumi)
                        │                                                │
                        ▼                                                ▼
          Tujuan: Efisiensi Pasar & Materi                Tujuan: Ma'rifatullah, Adab, & Akhirat
@@ -62,9 +62,10 @@ Al-Qur'an meletakkan fondasi teleologis yang gamblang dan tidak dapat ditawar:
    > وَمَا خَلَقْتُ الْجِنَّ وَالْإِنْسَ إِلَّا لِيَعْبُدُونِ
    > *"Dan tidaklah Aku menciptakan jin dan manusia melainkan agar mereka beribadah menyembah-Ku."* (QS. Adz-Dzariyat: 56).
    - Ibnu Abbas radhiyallahu 'anhuma menafsirkan *liya'budun* sebagai *liya'rifun* (agar mereka mengenal-Ku dengan ma'rifat sejati).
-2. **Khilafah sebagai Mandat Peradaban di Bumi:**
-   > وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً
-   > *"Dan ingatlah ketika Tuhanmu berfirman kepada para malaikat: 'Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi.'"* (QS. Al-Baqarah: 30).
+2. **Amanah 'Imaratul Ardh sebagai Mandat Pemakmuran Bumi:**
+   > هُوَ أَنْشَأَكُمْ مِنَ الْأَرْضِ وَاسْتَعْمَرَكُمْ فِيهَا
+   > *"Dia telah menciptakan kamu dari bumi (tanah) dan menjadikan kamu pemakmurnya."* (QS. Hud: 61).
+   - Manusia diciptakan untuk memakmurkan bumi dengan keadilan, ilmu pengetahuan, dan kasih sayang, bukan untuk merusaknya dengan eksploitasi hawa nafsu.
 3. **Peringatan Keras Imam Al-Ghazali dalam *Bidayatul Hidayah*:**
    > *"Jika niatmu dalam menuntut ilmu adalah untuk bersaing, berbangga diri, mengalahkan kawan debat, dan menarik perhatian manusia agar menghormatimu serta mengumpulkan serpihan duniawi, maka sesungguhnya engkau sedang merobohkan agamamu, membinasakan dirimu, dan menjual akhiratmu demi duniamu..."*
 
@@ -148,7 +149,7 @@ DIMENSI TELEOLOGIS INSAN KAMIL TUMBUH:
   [ 3. UKHUWAH & KHIDMAT UMMAT (Dimensi Sosial Horizontal) ]
   Mencintai saudara seiman, peduli pada sesama manusia, aktif dalam memecahkan masalah masyarakat.
                              │
-  [ 4. KHALIFAH & ITQAN PROFESI (Dimensi Peradaban Global) ]
+  [ 4. KHIDMAH PERADABAN & ITQAN PROFESI (Dimensi Kebermanfaatan Global) ]
   Menguasai keilmuan mutakhir secara profesional (*itqan*), siap memimpin zaman tanpa terbawa arus.
 ```
 
@@ -212,18 +213,25 @@ KONTINUUM ORIENTASI TELEOLOGIS PENDIDIKAN:
 
 Tim kurikulum TUMBUH meninjau seluruh materi pelajaran sains dan sosial:
 - Mengembalikan konsep biologi, fisika, dan ekonomi ke bawah payung Tauhid Rububiyyah dan Uluhiyyah.
-- Mengajarkan bahwa alam semesta bukan mesin tanpa pencipta yang boleh dieksploitasi sesuka hati, melainkan ayat-ayat Allah yang wajib dijaga dengan amanah kekhalifahan.
+- Mengajarkan bahwa alam semesta bukan mesin tanpa pencipta yang boleh dieksploitasi sesuka hati, melainkan ayat-ayat Allah yang wajib dijaga dengan amanah pemakmuran (*'imaratul ardh*).
 
 ---
 
-## 14. Dialog Kebapakan: "Untuk Apa Antum Diciptakan?"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Secara berkala, musyrif duduk melingkar bersama santri di bawah langit malam:
-- Mengajak mereka merenungi bintang-bintang dan bertanya dari hati ke hati: *"Anakku, apa yang sebenarnya antum cari dalam hidup ini?"*
-- Membimbing kegalauan masa remaja mereka agar tidak tersesat ke dalam perangkap nihilisme atau fatamorgana gemerlap duniawi.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Untuk Apa Antum Diciptakan?* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Pengukuhan Teleologi Kanonik TUMBUH
 
 ```text
@@ -232,7 +240,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00010):
 - Keputusan: Menegaskan bahwa Tujuan Tertinggi (Ghayah al-Ghayat) Pendidikan TUMBUH adalah:
              1. Mencapai Ridha Allah dan Kebahagiaan Akhirat (Al-Falah wal-Akhirah).
              2. Membentuk Insan Kamil yang Beradab dan Mentauhidkan Allah ('Abdullah).
-             3. Mempersiapkan Kader Pemimpin Peradaban yang Memakmurkan Bumi (Khalifatullah).
+             3. Mempersiapkan Kader Pemimpin Peradaban yang Memakmurkan Bumi ('Imaratul Ardh).
 - Larangan: Menolak mutlak paradigma Utilitarianisme Kapitalistik Sekuler yang mereduksi
             santri menjadi sekadar instrumen pasar kerja tanpa ruhani.
 - Penutup Klaster: Berkas P00010 resmi menutup Sub-Klaster 0.1 (Urgensi, Kedudukan Hikmah,
@@ -276,3 +284,4 @@ Dunia ini adalah jembatan yang kita lalui, bukan rumah abadi tempat kita menetap
 ## Akhir Sub-Klaster 0.1 — Lanjut ke Sub-Klaster 0.2: P00011
 
 **Probe Epistemik Tahafut al-Falasifah (Al-Ghazali): Kritik atas Kesombongan Logika Murni yang Mengabaikan Transendensi Wahyu.**
+

@@ -142,20 +142,21 @@ Di Asrama Al-Ghazali, Santri D (kelas 10) ketahuan mengambil uang kas kamar sebe
 
 ---
 
-## 12. Dialog Kebapakan Naratif Hidup
+## 12. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:** Ruang konseling asrama berkarpet tebal dengan jendela menghadap kebun herbal. Ustadz Salman (Konselor Senior) sedang duduk bersila bersama Ryan, santri kelas 11 yang baru saja tertangkap basah mencuri laptop temannya.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ryan:** *(Menunduk dalam, tangannya gemetar, air mata menetes ke celananya)* "Ustadz... langsung keluarkan saya saja dari pondok. Saya memang anak bejat. Dari kecil di rumah saya selalu dipukuli dan dibilang pembawa sial. Sekarang saya membuktikan bahwa saya memang sampah yang tidak pantas berada di pesantren ini."  
-> **Ustadz Salman:** *(Menggeser duduknya mendekat, meletakkan tangannya di atas tangan Ryan yang gemetar, menatapnya dengan kehangatan seorang ayah)* "Ryan, pandang wajahku, nak. Tolong tatap mataku."  
-> **Ryan:** *(Mengangkat kepalanya perlahan, matanya merah sembab penuh kepedihan)*  
-> **Ustadz Salman:** "Ryan, orang-orang di luar sana mungkin memanggilmu dengan nama-nama yang buruk. Masa lalumu mungkin dipenuhi luka pemukulan dan kata-kata yang menusuk jantungmu. Tetapi dengarkan baik-baik apa yang kukatakan kepadamu hari ini: Dzat yang menciptakanmu, Allah Azza wa Jalla, tidak pernah menciptakan sampah!"  
-> **Ryan:** *(Nafasnya tercekat, dadanya naik turun)*  
-> **Ustadz Salman:** "Syaikhul Islam Ibnu Taimiyyah mengajarkan kepada kita bahwa fitrahmu yang hanif, yang ditiupkan Allah saat engkau berada di rahim ibumu, adalah permata yang sangat indah. Hari ini permata itu sedang terbungkus lumpur tebal karena engkau bingung, engkau takut, dan engkau merasa sendirian. Perbuatanmu mencuri laptop adalah perbuatan yang sangat salah dan zalim kepada temanmu, dan kita akan memperbaikinya bersama. Tetapi engkau, dirimu sendiri, bukanlah pencuri permanen! Engkau adalah hamba Allah yang sedang tersesat dan butuh dituntun pulang. Apakah engkau bersedia berjuang bersamaku untuk membersihkan lumpur itu dan mengembalikan permata fitrahmu?"  
-> **Ryan:** *(Tangisnya pecah seketika, ia memeluk Ustadz Salman dengan erat sambil tersedu-sedu)* "Saya mau, Ustadz... Saya mau bertaubat. Demi Allah, saya tidak ingin hidup seperti ini lagi. Tolong bimbing saya, Ustadz..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 13. Arsitektur Keputusan Rekayasa Lembaga (ADR Format)
 
 - **Judul Keputusan:** ADR-PROBE-0164: Transformasi Metodologi Bimbingan Konseling Asrama dari Penegakan Punitif-Stigmatif Menuju Restorasi Fitrah Ibnu Taimiyyah.
@@ -197,3 +198,4 @@ Konsep fitrah bawaan dalam Kitab *Dar'u Ta'arudh Al-'Aql wan-Naql* karya Syaikhu
 ## Pertanyaan berikutnya — P00165
 
 Bagaimana kritik Ibnu Taimiyyah terhadap nalar silogisme Yunani yang mandul (*Al-Qiyas Al-Mantiqi Al-Jami'*) dibandingkan dengan nalar induksi analogis Al-Qur'an (*Qiyas Al-Aula wa Qiyas Ad-Dilalah*) dalam Kitab *Dar'u Ta'arudh* memandu perumusan silabus nalar kritis dan argumentasi adab bagi santri pesantren?
+

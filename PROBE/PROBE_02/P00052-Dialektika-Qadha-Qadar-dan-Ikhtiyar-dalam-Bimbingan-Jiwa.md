@@ -116,7 +116,7 @@ KASUS MANIPULASI TEOLOGI SANTRI PELANGGAR:
 
 ## 7. Validasi Turats: Kaidah Sayyidina Ali bin Abi Thalib tentang Takdir
 
-Ketika seorang kakek bertanya kepada Khalifah Ali bin Abi Thalib RA mengenai perjalanan perang Shiffin: *"Apakah perjalanan kita ini karena takdir Allah?"*
+Ketika seorang kakek bertanya kepada Amirul Mukminin Ali bin Abi Thalib RA mengenai perjalanan perang Shiffin: *"Apakah perjalanan kita ini karena takdir Allah?"*
 
 Sayyidina Ali RA menjawab dengan penegasan aqidah yang sangat terang:
 
@@ -182,19 +182,21 @@ Auditor memeriksa kurikulum akidah:
 
 ---
 
-## 14. Dialog Kebapakan: "Jangan Katakan 'Seandainya', Tetapi Katakan 'Takdir Allah'"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Hadits Rasulullah ﷺ dalam Shahih Muslim:
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jangan Katakan 'Seandainya', Tetapi Katakan 'Takdir Allah* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-$$\text{وَإِنْ أَصَابَكَ شَيْءٌ فَلَا تَقُلْ: لَوْ أَنِّي فَعَلْتُ كَانَ كَذَا وَكَذَا، وَلَكِنْ قُلْ: قَدَرُ اللَّهِ وَمَا شَاءَ فَعَلَ، فَإِنَّ لَوْ تَفْتَحُ عَمَلَ الشَّيْطَانِ}$$
-
-*(Dan jika sesuatu menimpamu, janganlah engkau berkata: "Seandainya aku melakukan ini niscaya akan begini dan begitu," melainkan katakanlah: "Qadarullah wa ma sya'a fa'al (Ini takdir Allah, dan apa yang Dia kehendaki niscaya Dia perbuat)," karena sesungguhnya ucapan "seandainya" membuka pintu perbuatan setan).* (HR. Muslim no. 2664).
-
-Pesan kiai kepada santri yang gagal ujian:
-*"Hapus air matamu, ananda. Jangan katakan 'seandainya aku tidak mengantuk'; katakanlah 'Qadarullah'. Bangkitlah kembali, perbaiki ikhtiarmu hari ini, Allah menyertai orang-orang yang bersungguh-sungguh."*
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Dialektika Qadha, Qadar, dan Ikhtiyar
 
 ```text
@@ -242,3 +244,4 @@ Dialektika takdir dan ikhtiar adalah rahasia ketangguhan jiwa peradaban Islam:
 ## Pertanyaan berikutnya — P00053
 
 **Hikmah Keberagaman Watak Insan di Pesantren: Mengelola Ragam Fitrah Santri Melampaui Standarisasi Monolitik.**
+

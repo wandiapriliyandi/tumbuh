@@ -180,25 +180,21 @@ Ulama mu'tabar meletakkan batasan yang sangat ketat bagi seorang pendidik dalam 
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang refleksi santri. Ustadz Ridwan duduk sejajar dengan Danis (14 tahun) yang baru saja tertangkap mencoret-coret meja perpustakaan dengan spidol permanen.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Ridwan:** *(Memandang Danis dengan teduh, nada bicara tenang tanpa bentakan)* "Danis, kamu tahu kenapa Ustadz mengajakmu duduk di sini?"
->
-> **Danis:** *(Menunduk, menggenggam ujung sarungnya, bersiap dimarahi)* "Tahu, Ustadz... karena saya mencoret meja perpustakaan. Saya siap kalau mau dipukul atau digundul, Ustadz..."
->
-> **Ustadz Ridwan:** *(Tersenyum tipis, menggeleng lembut)* "Danis, tubuhmu adalah amanah Allah, bukan samsak amarah Ustadz. Ustadz tidak akan memukulmu, dan tidak akan menggundul kepalamu. Kita di sini menegakkan keadilan, bukan balas dendam."
->
-> **Danis:** *(Mengangkat kepala dengan heran)* "Tapi saya salah, Ustadz..."
->
-> **Danis:** "Benar, tindakanmu salah karena merusak fasilitas yang dibeli dari infak umat dan mengganggu kenyamanan teman-temanmu yang mau belajar. Keadilan menuntut agar hak meja itu dan hak teman-temanmu dipulihkan. Ini ada cairan pembersih, spons, dan lap. Sore ini, selama satu jam, kamu akan membersihkan coretan itu sampai bersih mengkilap seperti semula. Setelah itu, Ustadz ingin Danis menulis satu halaman tentang bagaimana rasanya menjaga fasilitas wakaf. Apakah konsekuensi ini adil untukmu?"
->
-> **Danis:** *(Menatap Ustadz Ridwan dengan mata berkaca-kaca, merasa dimanusiakan)* "Sangat adil, Ustadz... Saya bersumpah akan bersihkan sampai meja itu kinclong lagi. Terima kasih Ustadz tidak mempermalukan saya..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0114-2026
@@ -240,3 +236,4 @@ Ruang refleksi santri. Ustadz Ridwan duduk sejajar dengan Danis (14 tahun) yang 
 ## Pertanyaan berikutnya — P00115
 
 Bagaimana mengintegrasikan doktrin semantik *At-Tasbih al-Kawni* (Harmoni Ekologi dan Tasbih Alam Semesta vs Antroposentrisme Eksploitatif / Kehancuran Lingkungan) ke dalam etika sanitasi, perawatan lingkungan, dan tata ruang asrama pesantren TUMBUH?
+

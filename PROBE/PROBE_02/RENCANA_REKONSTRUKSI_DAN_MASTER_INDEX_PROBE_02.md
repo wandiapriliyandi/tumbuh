@@ -124,7 +124,7 @@ Jumlah berkas pada masing-masing klaster ditentukan murni oleh tingkat kerumitan
   - P00045: Islamic Worldview sebagai Poros Peradaban Tarbiyah TUMBUH.
   - P00046: Relasi Khaliq-Makhluq dalam Ritme Asrama 24 Jam.
   - P00047: Realitas Syahadah dan Ghaib dalam Memahami Gejala Santri.
-  - P00048: Hakikat Hamba ('Abd) dan Khalifah Fil Ardh.
+  - P00048: Hakikat Hamba ('Abd) dan Pemakmur Bumi ('Imaratul Ardh).
   - P00049: Amanah Ilahiyyah: Santri Bukan Konsumen Pasar.
   - P00050: Mazra'atul Akhirah Melawan Reduksionisme Karir Duniawi.
   - P00051: Keadilan Kosmik ('Adl Ilahi) sebagai Acuan Moral Lembaga.
@@ -166,7 +166,7 @@ Jumlah berkas pada masing-masing klaster ditentukan murni oleh tingkat kerumitan
   - P00102: Uji Semantik Istilah `'Alam asy-Syahadah` vs `'Alam al-Ghaib` dalam Paradigma Pengetahuan.
   - P00103: Uji Semantik Istilah `Al-Ghayah` (Teleologi Hidup) vs Eksistensialisme Absurd.
   - P00104: Uji Semantik Istilah `'Ibadah`: Dari Ritual Formal Menuju Kesadaran Hidup Total.
-  - P00105: Uji Semantik Istilah `Khilafah`: Kepemimpinan Mengelola Bumi vs Ambisi Politik Kekuasaan.
+  - P00105: Uji Semantik Istilah `'Imaratul Ardh`: Kepemimpinan Mengelola Bumi vs Ambisi Politik Kekuasaan.
   - P00106: Uji Semantik Istilah `Amanah`: Titipan Ketuhanan vs Hak Kepemilikan Mutlak Lembaga.
   - P00107: Uji Semantik Istilah `Mazra'atul Akhirah`: Dunia Ladang Akhirat vs Asketisme Pasif.
   - P00108: Uji Semantik Istilah `Al-Qadha' wal Qadar`: Keadilan Ketetapan Ilahi vs Jabariyyah Pasrah.

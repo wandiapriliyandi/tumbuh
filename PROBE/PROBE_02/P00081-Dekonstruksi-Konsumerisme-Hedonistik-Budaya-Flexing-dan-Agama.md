@@ -209,13 +209,21 @@ Auditor memeriksa kamar dan aula makan:
 
 ---
 
-## 14. Dialog Kebapakan: "Kuburlah Kebaikanmu di Bumi Ketidakterkenalan"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri saat menutup kajian Al-Hikam:
-*"Ananda, pohon yang menjulang tinggi ke angkasa adalah pohon yang memiliki akar yang tersembunyi jauh di dalam gelapnya tanah. Jika engkau ingin amal shalihmu kokoh menembus langit penerimaan Allah, kuburlah amalmu di bumi ketidakterkenalan. Jangan engkau obral kebaikan sucimu demi serpihan pujian manusia di media sosial yang akan lenyap dalam hitungan detik. Biarlah penduduk bumi tidak mengenalmu, namun para malaikat di langit berdesak-desakan merindukan harumnya keikhlasan sujudmu."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Kuburlah Kebaikanmu di Bumi Ketidakterkenalan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Dekonstruksi Konsumerisme Hedonistik dan Flexing
 
 ```text
@@ -262,3 +270,4 @@ Dekonstruksi konsumerisme mengembalikan kesucian cahaya keimanan:
 ## Pertanyaan berikutnya — P00082
 
 **Dekonstruksi Materialisme Historis & Konsumerisme Hedonistik di Kalangan Santri (III): Rekonstruksi Etos Kerja Profetik dan Kemandirian Ekonomi.**
+

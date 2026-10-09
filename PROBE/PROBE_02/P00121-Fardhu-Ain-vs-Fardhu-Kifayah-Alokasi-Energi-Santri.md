@@ -184,25 +184,21 @@ Ulama mu'tabar meletakkan kaidah hierarki ilmu dengan sangat tegas untuk menyela
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Serambi masjid asrama yang sepi setelah shalat Isya. Ustadz Mahdi melihat Rasyid (13 tahun) tertidur di atas meja kecilnya dengan wajah pucat dan lingkaran hitam di bawah matanya.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Mahdi:** *(Membangunkan dengan usapan lembut di punggung Rasyid, berbicara berbisik)* "Rasyid... bangun sebentar, Nak. Wajahmu pucat sekali."
->
-> **Rasyid:** *(Tersentak kaget, panik memegang bukunya)* "Astaghfirullah! Maaf Ustadz, saya tidak sengaja tidur! Saya belum hafal 20 bait nadzom untuk setoran nanti malam... kalau tidak hafal saya dihukum berdiri..."
->
-> **Ustadz Mahdi:** *(Menutup buku nadzom itu dengan lembut, menatap Rasyid penuh kasih)* "Rasyid, taruh bukumu dulu. Minum air hangat ini. Malam ini tidak ada setoran nadzom untukmu, dan tidak akan ada yang menghukummu berdiri."
->
-> **Rasyid:** *(Menatap heran dengan mata berkaca-kaca)* "Tapi Ustadz... itu kan tugas wajib dari pondok?"
->
-> **Ustadz Mahdi:** "Dengarkan Ustadz, Rasyid. Nadzom itu ilmu fardhu kifayah yang indah, tapi tidurmu malam ini adalah fardhu 'ain untuk menjaga kesehatan tubuh yang dititipkan Allah kepadamu. Nabi kita ﷺ bersabda bahwa tubuhmu memiliki hak yang wajib kamu tunaikan. Tadi sore Ustadz melihat wudhumu terburu-buru sampai sikumu belum basah sempurna karena takut telat setoran. Itu keliru, Nak. Allah lebih mencintai wudhumu yang sempurna dan shalatmu yang tenang daripada 20 bait hafalan yang kamu baca sambil sekarat menahan kantuk. Malam ini jam 21.00 kamu tidur. Istirahatkan pikiranmu. Besok pagi setelah tubuhmu segar, kita pelajari wudhu yang benar dulu, baru kita cicil nadzomnya per dua baris. Sepakat?"
->
-> **Rasyid:** *(Menarik napas panjang, pundaknya yang tegang seketika luruh, tersenyum haru)* "Sepakat, Ustadz... Terima kasih banyak Ustadz. Kepala saya rasanya ringan sekali mendengar nasihat Ustadz..."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0121-2026
@@ -244,3 +240,4 @@ Serambi masjid asrama yang sepi setelah shalat Isya. Ustadz Mahdi melihat Rasyid
 ## Pertanyaan berikutnya — P00122
 
 Bagaimana mengintegrasikan triangulasi epistemik antara *Naql* (Wahyu Shahih), *'Aql* (Nalar Logis), dan *Tajribah* (Observasi Empiris/Sains Perilaku) dalam perancangan instrumen asesmen dan pembinaan karakter di pesantren TUMBUH?
+

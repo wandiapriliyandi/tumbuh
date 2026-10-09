@@ -186,27 +186,21 @@ Ulama salaf mendefinisikan barakah dengan sangat jernih sebagai kualitas kebaika
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Teras asrama di sore hari yang teduh. Ustadz Manshur duduk bersama Farhan (14 tahun) yang sedang murung karena nilai ujian fiqihnya rendah meskipun ia merasa sudah rajin menyapu serambi ndalem kiai.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Manshur:** *(Tersenyum teduh, menyodorkan kitab Matan Ghayah wat-Taqrib)* "Farhan, kenapa wajahmu ditekuk seperti itu, Nak?"
->
-> **Farhan:** "Ustadz... saya bingung dan sedih. Seminggu sebelum ujian, setiap sore saya bantu bersihkan halaman ndalem Kiai. Saya berharap dapat barakah Kiai supaya ujian fiqih saya lancar. Tapi nilai saya kemarin dapat 55. Apakah Kiai tidak rida dengan saya, Ustadz?"
->
-> **Ustadz Manshur:** *(Mengusap kepala Farhan dengan penuh kasih sayang)* "Farhan, niatmu berbakti kepada orang tua dan guru adalah amal shalih yang sangat mulia. Tapi coba Ustadz tanya: berapa jam kamu duduk membuka kitab ini dan menghafal syarat sah shalat sebelum ujian?"
->
-> **Farhan:** *(Menunduk malu)* "Cuma... cuma setengah jam malam sebelum ujian, Ustadz. Soalnya saya capek setelah bersih-bersih..."
->
-> **Ustadz Manshur:** "Nah, di situlah letak kekeliruannya, Nak. Barakah itu bukan mantra sulap yang menggantikan fungsi otakmu untuk belajar. Allah menciptakan alam semesta ini dengan hukum kausalitas: siapa yang menanam benih belajar, dia yang memetik buah pemahaman. Barakah guru itu hadir menyiram benih ikhtiarmu agar pohon ilmumu berbuah lebat dan bermanfaat bagi umat. Kalau benihnya tidak pernah kamu tanam di kepalamu, apa yang mau disiram oleh barakah itu?"
->
-> **Farhan:** *(Matanya berbinar, tersadar)* "Masya Allah... jadi saya salah paham ya, Ustadz? Berkah itu melipatgandakan ikhtiyar, bukan menggantikan ikhtiyar..."
->
-> **Ustadz Manshur:** "Benar sekali, anakku. Mari, mulai sore ini kita buat jadwal: satu jam khidmah lingkungan, dua jam bedah kitab bersama teman-temanmu. Insya Allah, barakah dan nilai terbaik akan kamu raih bersamaan."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0113-2026
@@ -248,3 +242,4 @@ Teras asrama di sore hari yang teduh. Ustadz Manshur duduk bersama Farhan (14 ta
 ## Pertanyaan berikutnya — P00114
 
 Bagaimana membongkar distorsi semantik istilah *Al-'Adl al-Ilahi* (Keadilan Kosmik Ketuhanan Sebagai Sandaran Disiplin Positif vs Fatalisme Kausalitas & Hukuman Sewenang-wenang) dalam perancangan matriks konsekuensi logis di pesantren TUMBUH?
+

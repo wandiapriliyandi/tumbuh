@@ -201,13 +201,21 @@ Indikator pemeriksaan manajemen ruang belajar pesantren:
 
 ---
 
-## 14. Dialog Kebapakan: "Mushaf Ini Adalah Kalam Rabb Semesta Alam, Muliakanlah, Nak"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif saat melihat santri memegang mushaf Al-Qur'an di bawah pinggang:
-*"Ananda, tahukah engkau lembaran apa yang sedang berada di tanganmu itu? Itu bukan sekadar tumpukan kertas biasa; itu adalah firman Allah SWT, Rabb Yang menciptakan langit dan bumi. Para malaikat merendahkan sayapnya saat ayat-ayat ini dibacakan. Dekaplah mushaf ini di dadamu dengan kedua tanganmu! Angkatlah ia tinggi-tinggi dengan penuh takzim. Jika engkau memuliakan firman-Nya di dunia ini, niscaya Allah akan mengangkat derajatmu setinggi bintang-bintang di langit pada hari kiamat kelak."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Mushaf Ini Adalah Kalam Rabb Semesta Alam, Muliakanlah, Nak* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Sakralitas Ruang Belajar dan Adab Kitab
 
 ```text
@@ -255,3 +263,4 @@ Pemuliaan terhadap mushaf dan kitab adalah kunci pembuka pintu-pintu hikmah para
 ## Pertanyaan berikutnya — P00099
 
 **Fenomenologi Ritme Spiritual 24 Jam (VIII): Filosofi Ruang Komunal, Koridor Asrama, dan Adab Pergaulan Publik Santri.**
+

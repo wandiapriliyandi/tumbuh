@@ -186,25 +186,21 @@ Para ulama salaf meletakkan kaidah agung tentang bagaimana seorang penuntut ilmu
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang tamu ndalem asrama di malam hari. Ustadz Abdullah duduk bersama Faris (16 tahun) yang sedang resah setelah dimusuhi oleh beberapa teman sekelasnya karena ia menolak ikut aksi boikot tidak masuk kelas yang digalang oleh ketua angkatan.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Abdullah:** *(Menyuguhkan teh madu hangat, menatap Faris dengan pandangan bangga)* "Faris, minumlah dulu, Nak. Ustadz tahu punggungmu sedang memikul beban berat malam ini."
->
-> **Faris:** *(Menunduk, suaranya bergetar menahan sedih)* "Ustadz... mereka mencap saya pengkhianat angkatan. Mereka bilang saya tidak punya solidaritas kawan karena tetap masuk kelas. Padahal aksi mereka mogok belajar itu salah, Ustadz. Apakah saya salah mempertahankan kebenaran sendirian?"
->
-> **Ustadz Abdullah:** *(Menatap tajam penuh keteguhan dan kasih sayang)* "Faris, dengarkan perkataan Sayyidina Ali bin Abi Thalib ini baik-baik: *'La tastawhisyu thariqal haqdi li-qillati salikih'—Jangan pernah engkau merasa gentar dan kesepian di jalan kebenaran hanya karena sedikitnya orang yang menapakinya.* Solidaritas dalam kemaksiatan bukanlah persahabatan, melainkan kebatilan yang berserikat."
->
-> **Faris:** "Tapi dijauhi dan disindir satu angkatan itu perih sekali, Ustadz..."
->
-> **Ustadz Abdullah:** "Perih di dunia karena membela Al-Haqq itu jauh lebih mulia dan manis di hadapan Allah daripada bersenang-senang dalam kebatilan bersama kerumunan yang tersesat. Kebenaran tidak diukur dari banyaknya jumlah orang, Faris. Kebenaran diukur dari kesesuaiannya dengan petunjuk Allah dan Rasul-Nya. Malam ini kamu mungkin sendirian di mata teman-temanmu, tapi para malaikat di langit sedang mendoakan keteguhan langkahmu. Berdirilah tegak, jangan dendam pada mereka, dan tetaplah berbuat baik. Suatu saat nanti, mereka akan sadar bahwa kamulah sahabat sejati yang menyelamatkan mereka dari jurang kebatilan."
->
-> **Faris:** *(Menegakkan dadanya, napasnya lega, matanya menyala dengan keyakinan baru)* "Alhamdulillah... hilang semua keraguan di hati saya, Ustadz. Saya akan tetap tegak berdiri di atas Al-Haqq, apa pun resikonya."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0119-2026
@@ -247,3 +243,4 @@ Dengan tuntasnya penyelidikan berkas **P00119**, berakhirlah secara paripurna pe
 
 Penyelidikan kanonik pada Klaster 1 telah selesai secara sempurna. Berkas berikutnya akan melangkah ke babak baru:  
 **KLASTER 2: Fitrah Manusia, Perkembangan, & Psikologi Kognitif Islami (Memulai dari P00120: Hakikat Fitrah Ruhaniah, Aqliah, dan Jasmaniah Santri).**
+

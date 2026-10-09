@@ -193,7 +193,7 @@ Meskipun responsif terhadap lapangan, TUMBUH tidak menafsirkan turats secara ser
 
 Ketika masalah santri didekati dengan teori psikologi modern (misal: CBT, Trauma-Informed, Attachment Theory):
 - TUMBUH melakukan penapisan (*islamization & filtration*): menerima temuan mekanistik empirisnya (selama tidak bertentangan dengan fitrah tauhid), namun mencabut asumsi materialistik dan sekulernya.
-- Manusia dalam psikologi Barat adalah hewan rasional (*homo sapiens*) yang berakhir di tanah; manusia dalam TUMBUH adalah hamba Allah (*'abdullah*) yang mengemban amanah kekhalifahan menuju keabadian akhirat.
+- Manusia dalam psikologi Barat adalah hewan rasional (*homo sapiens*) yang berakhir di tanah; manusia dalam TUMBUH adalah hamba Allah (*'abdullah*) yang mengemban amanah pemakmuran bumi menuju keabadian akhirat.
 
 ---
 

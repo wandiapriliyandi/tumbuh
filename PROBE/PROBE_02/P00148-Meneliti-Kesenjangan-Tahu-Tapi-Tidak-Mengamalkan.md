@@ -273,29 +273,21 @@ Master Auditor Kualitas TUMBUH menguji efektivitas penutupan jurang tahu-amal me
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Pelataran Koridor Asrama Pesantren TUMBUH pada pukul 05.15 pagi selepas shalat Subuh berjamaah. Udara fajar masih basah oleh embun. Ustadz Danu (Musyrif Kamar Al-Kindi, 34 tahun) sedang duduk bersama Zaki (Santri J2, 14 tahun) yang menunduk lesu di samping tiang koridor.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Danu:** *(Menepuk pundak Zaki dengan senyum lembut)* "Zaki... kenapa wajahmu tampak sangat bersalah pagi ini, Nak?"
->
-> **Zaki:** *(Menunduk dalam-dalam, suaranya parau menahan tangis)* "Ustadz... saya malu sekali pada Ustadz. Kemarin saat ujian kitab adab, saya dapat nilai 100. Saya hafal hadits keutamaan shalat Subuh di shaf pertama. Tapi tadi pagi... saya bangun terlambat lagi saat imam sudah ruku' rakaat kedua. Saya merasa diri saya munafik, Ustadz. Kenapa saya tahu dalilnya tapi badan saya begitu berat untuk bangun?"
->
-> **Ustadz Danu:** *(Tersenyum arif, merangkul pundak Zaki)* "Zaki, anakku yang shalih... dengarkan ayahmu ini baik-baik. Kamu bukan munafik, dan kamu bukan anak jahat! Mengetahui dalil dengan akal itu berada di kepalamu, sedangkan menggerakkan raga untuk bangkit dari tempat tidur itu butuh sirkuit kemauan yang bugar dan lingkungan yang mendukung! Tahukah kamu kenapa tadi pagi kamu gagal bangun?"
->
-> **Zaki:** *(Menatap Ustadz Danu dengan bingung)* "Karena iman saya lemah, Ustadz?"
->
-> **Ustadz Danu:** "Bukan hanya soal iman, Zaki! Kemarin malam Ustadz melihat kamu baru tidur jam 23.30 karena belajar dengan lampu redup, tubuhmu kelelahan kronis. Lalu jam alarmmu kamu letakkan persis di bawah bantal ranjangmu! Saat alarm berbunyi jam 04.00, tanganmu mematikannya secara bawah sadar tanpa kepalamu sempat bangun. Kamu sedang melawan hukum biologi tubuhmu sendiri sendirian, Zaki!"
->
-> **Zaki:** *(Tersentak kaget, matanya berbinar)* "Masya Allah... Jadi bukan karena hafalan saya kurang ya Ustadz?"
->
-> **Ustadz Danu:** "Tentu bukan! Ustadz tidak akan menghukummu menghafal hadits lagi. Hari ini kita selesaikan masalahnya dengan hikmah: malam ini, tidur tepat jam 21.45, matikan lampu utama kamar. Dan jam alarm itu, nanti sore kita pasang bersama di dinding seberang kamarmu, di dekat pintu keluar! Saat alarm berbunyi besok fajar, kakimu terpaksa harus melangkah lima langkah untuk mematikannya, dan kantukmu akan hilang seketika saat kakimu menyentuh lantai dingin. Kita ikat untanya dulu, baru kita bertawakkal. Maukah kamu mencobanya bersama Ustadz sore nanti?"
->
-> **Zaki:** *(Tersenyum lebar penuh harapan, mencium tangan Ustadz Danu)* "Mau sekali Ustadz! Sungguh hati saya jadi sangat lega... Terima kasih Ustadz, terima kasih telah mengerti kesulitan kami."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0148-2026
@@ -344,3 +336,4 @@ Pengetahuan di kepala adalah peta jalan yang indah, namun peta tidak akan pernah
 ## Pertanyaan berikutnya — P00149
 
 Bagaimana melembagakan budaya dialog ilmiah terbuka santri-guru (*halaqah tadawul al-ara'*) di asrama, guna mengikis feodalisme ketaatan buta tanpa meruntuhkan wibawa mahabbah dan adab takzim kepada masyayikh?
+

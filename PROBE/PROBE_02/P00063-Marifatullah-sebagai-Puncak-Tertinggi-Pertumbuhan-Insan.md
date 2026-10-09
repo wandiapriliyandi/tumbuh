@@ -81,7 +81,7 @@ Dalam psikologi perkembangan moral dan neurobiologi spiritual:
 | **Jenjang J1 (Ta'aruf Syar'i / Usia 11-13)** | Mengenal Allah melalui keindahan ciptaan semesta (*Ayat Kauniyyah*) dan Asmaul Husna. | Tadabbur alam terbuka, tadabbur fenomena biologis tubuh, pembiasaan shalat dengan gembira. | Bersemangat shalat tepat waktu tanpa diancam; kagum pada ciptaan Allah. |
 | **Jenjang J2 (Tafakkur & Muraqabah / Usia 14-15)** | Menghayati kehadiran Allah yang Maha Melihat (*Al-Bashir*) dan Maha Mendengar (*As-Sami'*). | Hening muhasabah malam, menjaga barang amanah kawan, menahan lisan dari ghibah dalam kamar. | Disiplin menjaga pandangan dan kehormatan diri saat berada sendirian. |
 | **Jenjang J3 (Mahabbah & Khasyyah / Usia 16-17)** | Menyelami keagungan Allah sebagai satu-satunya Sandaran Jiwa (*Ash-Shamad*) dan Kekasih Hakiki. | Menikmati munajat qiyamullail sepertiga malam, berkorban membantu adik kelas (*itsar*). | Ibadah tidak lagi terasa sebagai beban; ikhlas berkhidmat tanpa pujian. |
-| **Jenjang J4 (Ubudiyyah & Khilafah / Usia 18)** | Memandang seluruh dinamika hidup sebagai panggung ketetapan dan hikmah Ilahi (*Qadha wa Qadar*). | Kepemimpinan teladan berbasis khidmat (*servant leadership*), keteguhan membela kebenaran. | Rendah hati luar biasa (*tawadhu'*), ridha atas ujian, berjiwa pejuang peradaban. |
+| **Jenjang J4 (Ubudiyyah & Khidmah Peradaban / Usia 18)** | Memandang seluruh dinamika hidup sebagai panggung ketetapan dan hikmah Ilahi (*Qadha wa Qadar*). | Kepemimpinan teladan berbasis khidmat (*servant leadership*), keteguhan membela kebenaran. | Rendah hati luar biasa (*tawadhu'*), ridha atas ujian, berjiwa pejuang peradaban. |
 
 ---
 
@@ -198,13 +198,21 @@ Auditor memeriksa orientasi pengajaran pesantren:
 
 ---
 
-## 14. Dialog Kebapakan: "Jangan Sampai Engkau Hafal Kitab-Nya tapi Asing dari Pemilik-Nya"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai saat menutup pengajian kitab akidah:
-*"Ananda, sungguh rugi seorang santri yang menghabiskan bertahun-tahun di pesantren, lisannya fasih menyebut sifat-sifat Allah, matanya membaca beribu halaman kalam ulama, namun hatinya kering dan asing dari Allah. Jadikanlah setiap halaman kitab yang engkau buka sebagai tangga untuk semakin mengenal, mencintai, dan tunduk kepada Rabbmu. Karena di hari kiamat kelak, yang menyelamatkanmu bukanlah tumpukan hafalan di kepalamu, melainkan sekeping hati yang selamat dan mengenal Tuhannya."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jangan Sampai Engkau Hafal Kitab-Nya tapi Asing dari Pemilik-Nya* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Ma'rifatullah sebagai Puncak Teleologis Pertumbuhan
 
 ```text
@@ -250,3 +258,4 @@ Penyelidikan P00063 ini mengikat:
 ## Pertanyaan berikutnya — P00064
 
 **Probe Pemikiran Syed Muhammad Naquib Al-Attas (I): Konsep Din, Makna Keberagamaan, dan Tunduk Sukarela.**
+

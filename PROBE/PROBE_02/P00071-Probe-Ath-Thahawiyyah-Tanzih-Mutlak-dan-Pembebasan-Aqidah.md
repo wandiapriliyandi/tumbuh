@@ -193,13 +193,21 @@ Auditor memeriksa materi ceramah dan halaqah musyrif:
 
 ---
 
-## 14. Dialog Kebapakan: "Allah Lebih Dekat Padamu daripada Urat Lehermu Sendiri"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri saat merenungi ayat qurb:
-*"Ananda, jangan pernah engkau mencari Allah dengan membayangkan wujud fisik di balik awan. Carilah Allah dengan ketukan taubat di pintu kalbumu. Ketahuilah bahwa Allah Maha Suci dari ruang dan tempat, namun Dia Maha Dekat mendengar setiap desah keluh kesahmu, Maha Tahu setiap tetes air mata yang jatuh di sajadahmu, dan Dia bersama orang-orang yang bertakwa di mana pun mereka berada."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Allah Lebih Dekat Padamu daripada Urat Lehermu Sendiri* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Kaidah Tanzih Ath-Thahawiyyah dalam Kurikulum Aqidah
 
 ```text
@@ -246,3 +254,4 @@ Tanzih Ath-Thahawiyyah adalah puncak kejernihan akal dan kesucian iman:
 ## Pertanyaan berikutnya — P00072
 
 **Probe Teks Al-Aqidah Ath-Thahawiyyah (II): Hakikat Takdir (Al-Qadar Sirrullah) dan Keseimbangan Antara Ikhtiyar Insan dan Masyi'ah Ilahi.**
+

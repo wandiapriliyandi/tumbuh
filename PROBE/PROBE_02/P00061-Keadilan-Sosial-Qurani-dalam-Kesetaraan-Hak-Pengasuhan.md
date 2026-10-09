@@ -185,13 +185,21 @@ Auditor memeriksa:
 
 ---
 
-## 14. Dialog Kebapakan: "Kalian Semua Adalah Anak-Anak Kandung Pondok Ini"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai dalam pembukaan tahun ajaran baru:
-*"Wahai anak-anakku, ketika kalian melangkah masuk ke gerbang ini, kalian semua adalah anak kandung kami. Tidak ada anak emas di sini, dan tidak ada anak tiri. Baju kalian sama, makanan kalian sama, sajadah kalian sama. Yang membedakan kalian di hadapan Allah hanyalah siapa yang paling bertakwa dan paling tulus mengabdi kepada sesama."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Kalian Semua Adalah Anak-Anak Kandung Pondok Ini* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Keadilan Sosial Qur'ani dalam Pengasuhan
 
 ```text
@@ -240,3 +248,4 @@ Keadilan sosial Qur'ani adalah mahkota kemurnian ukhuwah di bumi pesantren:
 ## Pertanyaan berikutnya — P00062
 
 **Resonansi Ilahiyyah dalam Dialog Musyrif-Santri: Menghadirkan Jiwa Kenabian dalam Komunikasi Pengasuhan.**
+

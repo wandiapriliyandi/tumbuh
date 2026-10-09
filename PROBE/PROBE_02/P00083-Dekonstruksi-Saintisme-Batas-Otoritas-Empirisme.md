@@ -193,13 +193,21 @@ Auditor memeriksa buku teks dan modul pengajaran sains:
 
 ---
 
-## 14. Dialog Kebapakan: "Mikroskop Memperlihatkan Sel, Namun Iman Memperlihatkan Penciptanya"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri saat kunjungan ke laboratorium biologi:
-*"Ananda, lihatlah ke dalam lensa mikroskop itu. Apakah engkau melihat jutaan sel yang bergerak dengan keteraturan yang sangat rapi? Sadarilah bahwa mikroskop hanya memperlihatkan sel-sel itu kepadamu, namun hanya mata imanmu yang mampu melihat keagungan Dzat Yang Merancang sel-sel tersebut. Jangan pernah biarkan kecerdasan sainsmu membutakan mata hatimu dari menyembah Sang Pencipta semesta."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Mikroskop Memperlihatkan Sel, Namun Iman Memperlihatkan Penciptanya* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Dekonstruksi Saintisme dan Naturalisme Metodologis
 
 ```text
@@ -246,3 +254,4 @@ Dekonstruksi saintisme memulihkan martabat akal manusia dan kesucian wahyu:
 ## Pertanyaan berikutnya — P00084
 
 **Dekonstruksi Saintisme & Naturalisme Metodologis dalam Pendidikan (II): Menyikapi Teori Evolusi Neo-Darwinian Tanpa Terjebak Apologetika Konyol.**
+

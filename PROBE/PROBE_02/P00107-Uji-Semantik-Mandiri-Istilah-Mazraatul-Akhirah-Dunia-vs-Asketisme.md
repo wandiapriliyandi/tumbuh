@@ -201,13 +201,21 @@ Parameter inspeksi mutu kelembagaan:
 
 ---
 
-## 14. Dialog Kebapakan: "Taklukkanlah Dunia di Telapak Tanganmu, Jangan Masukkan ke Hatimu"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif kepada santri yang sedang merakit robotika di laboratorium asrama:
-*"Ananda, rakitlah kabel-kabel dan cip mikro ini dengan kecerdasan terbaikmu. Kuasailah teknologi ini hingga engkau mampu menciptakan inovasi yang membebaskan umat dari ketergantungan asing! Jadilah ilmuwan hebat, jadilah pengusaha kaya yang dermawan! Genggamlah dunia ini di telapak tanganmu agar engkau mampu menolong jutaan orang yang kelaparan; namun ingat pesan ayahmu ini, Nak: jangan pernah izinkan dunia ini masuk ke dalam relung kalbumu! Jadikan setiap tetes keringat risetmu ini sebagai bibit pohon kurma yang rindang, yang buah manisnya akan engkau nikmati bersama Rasulullah ﷺ di surga Firdaus kelak."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Taklukkanlah Dunia di Telapak Tanganmu, Jangan Masukkan ke Hatimu* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Konsep Mazra'atul Akhirah
 
 ```text
@@ -215,7 +223,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00107):
 - Status: DITERIMA & MENETAPKAN PRINSIP AD-DUNYA MAZRA'ATUL AKHIRAH KANONIK
 - Keputusan: Mengesahkan penegasan orientasi dunia sebagai ladang investasi akhirat dalam ekosistem TUMBUH:
               1. Menolak asketisme pasif yang mematikan etos sains dan menolak materialisme sekuler yang melupakan hisab.
-              2. Menegaskan dunia sebagai media khilafah, pemakmuran peradaban, dan penanaman amal jariyah ukhrawi.
+              2. Menegaskan dunia sebagai media ibadah dan pemakmuran, pemakmuran peradaban, dan penanaman amal jariyah ukhrawi.
               3. Mewajibkan pembinaan etos profesionalisme, keunggulan sains-teknologi, dan kemandirian finansial santri.
 - Larangan: Mengharamkan kemalasan berdalih zuhud, mengharamkan budaya minta-minta proposal, dan mengharamkan flexing hedonis.
 - Dampak: Terciptanya generasi santri yang mandiri, unggul secara saintifik, berjiwa dermawan, dan kokoh aqidah ukhrawinya.
@@ -255,3 +263,4 @@ Memandang dunia sebagai ladang akhirat membebaskan santri dari keputusasaan dan 
 ## Pertanyaan berikutnya — P00108
 
 **Uji Semantik Mandiri Istilah `Al-Qadha' wal Qadar`: Keadilan Ketetapan Ilahi vs Jabariyyah Pasrah dalam Bimbingan Jiwa Santri.**
+

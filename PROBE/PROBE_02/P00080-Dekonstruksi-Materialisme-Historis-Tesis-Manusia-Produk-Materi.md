@@ -16,7 +16,7 @@ DIKOTOMI PARADIGMA HAKIKAT EKSISTENSI MANUSIA:
 
    [ MATERIALISME HISTORIS (MARXIS SEKULER) ]     [ ANTROPOLOGI QUR'ANI (TUMBUH) ]
    - Materi adalah satu-satunya realitas mutlak  - Realitas mencakup Syahadah (materi) & Ghaib (ruhani)
-   - Manusia = hewan pekerja produk ekonomi      - Manusia = 'Abdullah & Khalifah pembawa amanah Ilahi
+   - Manusia = hewan pekerja produk ekonomi      - Manusia = 'Abdullah & Pemakmur Bumi pembawa amanah Ilahi
    - Agama dianggap candu pembius penderitaan    - Agama adalah cahaya fitrah pembebas belenggu nafsu
    - Kebahagiaan diukur dari penguasaan modal    - Kebahagiaan diukur dari kesucian iman & ma'rifatullah
 ```
@@ -188,13 +188,21 @@ Auditor memeriksa dinamika pergaulan santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Jangan Tukar Mahkota Akhiratmu dengan Debu Emas Dunia"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri yang merasa minder karena berasal dari keluarga petani miskin:
-*"Ananda, tegakkan kepalamu! Di hadapan Allah Yang Maha Mulia, engkau tidak dinilai dari merk sepatumu atau seberapa tebal dompet ayahmu. Engkau dinilai dari seberapa bersih hatimu dari dengki dan seberapa basah lisanmu menyebut nama-Nya. Ayahmu seorang petani yang mencangkul tanah dengan keringat halal; keringat itu jauh lebih mulia di sisi Allah daripada miliaran uang haram para koruptor. Jadilah santri yang kaya ruhaninya; karena orang yang kaya jiwanya tidak akan pernah bisa dibeli oleh seluruh emas di dunia."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jangan Tukar Mahkota Akhiratmu dengan Debu Emas Dunia* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Dekonstruksi Materialisme Historis
 
 ```text
@@ -241,3 +249,4 @@ Dekonstruksi materialisme membebaskan manusia dari perbudakan materi:
 ## Pertanyaan berikutnya — P00081
 
 **Dekonstruksi Materialisme Historis & Konsumerisme Hedonistik di Kalangan Santri (II): Jebakan Budaya Flexing dan Komodifikasi Simbol Agama.**
+

@@ -266,29 +266,21 @@ Master Auditor Kualitas TUMBUH menguji integritas adopsi teori melalui tiga indi
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Rapat Senat Pesantren TUMBUH menjelang Dhuhur. Di atas meja tersusun brosur mewah dari vendor luar bertuliskan *"Quantum DNA Activation for Student Character"*. Kiai Subhan (Pengasuh Pondok, 58 tahun) sedang berdiskusi dengan Ustadz Haris (Kepala Bidang Kurikulum Muda, 28 tahun).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Haris:** *(Mempresentasikan brosur dengan antusias)* "Kiai... vendor ini menawarkan program yang sangat menarik. Mereka bilang bisa mengaktifkan potensi DNA santri melalui gelombang suara kuantum sehingga santri bisa hafal Al-Qur'an 30 juz dalam satu bulan tanpa lelah. Banyak sekolah Islam elite di kota besar yang sudah memakainya, Kiai. Kalau kita pakai ini, pondok kita akan viral dan modern!"
->
-> **Kiai Subhan:** *(Mendengarkan dengan sabar, tersenyum teduh seraya meletakkan kacamata tuanya)* "Haris, anakku yang bersemangat... Duduklah di samping Kiai. Mari kita timbang proposal mewah ini di atas neraca ilmu yang lurus."
->
-> **Ustadz Haris:** "Maksud Kiai bagaimana?"
->
-> **Kiai Subhan:** "Apakah vendor ini bisa menunjukkan jurnal kedokteran mana yang membuktikan bahwa gelombang suara bisa mengubah susunan DNA anak untuk menghafal kitab? Apakah ada satu saja nabi atau ulama salaf yang menempuh jalan pintas magis seperti ini untuk menjadi orang saleh?"
->
-> **Ustadz Haris:** *(Tergagap)* "Eh... mereka menunjukkan testimoni kepala sekolah lain di brosur, Kiai... tapi kalau jurnal risetnya saya belum periksa."
->
-> **Kiai Subhan:** *(Menepuk pundak Ustadz Haris dengan penuh kasih sayang)* "Haris, dengarkan petuah Kiai, Nak. Menuntut ilmu dan membentuk akhlak itu adalah jalan mujahadah, jalan sabar, jalan keringat, dan tetesan air mata di sepertiga malam. Menghafal Al-Qur'an itu berkah karena santri mengulang-ulang ayatnya ribuan kali dengan bibir yang basah oleh zikir, bukan dengan sulap gelombang suara kuantum! Di pesantren TUMBUH ini, kita memuliakan sains modern yang sahih—kita pakai riset neurosains tidur, kita perbaiki gizi makanan santri—tetapi kita haram menelan dongeng pseudo-sains yang menjual nama sains demi memeras uang pondok! Jangan jadikan santri-santri titipan umat ini sebagai kelinci percobaan fatamorgana modernitas. Paham, Haris?"
->
-> **Ustadz Haris:** *(Menundukkan kepala dalam-dalam, wajahnya memerah menyadari kecerobohannya)* "Astaghfirullahal 'azhim... Kiai... Saya mohon maaf. Saya silau oleh istilah-istilah modern di brosur itu tanpa memeriksa kebenaran ilmiahnya. Terima kasih telah menyelamatkan saya dan pondok ini dari jebakan penipuan ini, Kiai."
->
-> **Kiai Subhan:** "Alhamdulillah. Tolak proposal itu dengan sopan. Gunakan anggaran itu untuk merenovasi perpustakaan dan membeli kitab-kitab hadits baru untuk anak-anak kita. Itu jauh lebih berkah dan nyata manfaatnya."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0143-2026
@@ -337,3 +329,4 @@ Keterbukaan terhadap ilmu pengetahuan adalah watak sejati peradaban Islam sejak 
 ## Pertanyaan berikutnya — P00144
 
 Bagaimana menguji keaslian, keotentikan teks (*tahqiq an-nushush*), dan integritas naskah kitab rujukan klasik sebelum dijadikan rujukan normatif kebijakan asrama di lingkungan TUMBUH?
+

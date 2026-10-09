@@ -198,13 +198,21 @@ Auditor memeriksa materi kuliah dan naskah lomba santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Al-Qur'an Adalah Bintang Kompasmu di Tengah Samudera Gelap"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri saat wisuda kelulusan Madrasah Aliyah:
-*"Ananda, engkau melangkah keluar dari gerbang asrama ini menuju dunia modern yang sedang mabuk oleh racun relativisme; dunia yang menyatakan bahwa tidak ada kebenaran mutlak, tidak ada batas suci dan najis, tidak ada surga dan neraka. Di tengah samudra badai keraguan itu, dekaplah Al-Qur'an ini erat-erat di dadamu! Ia adalah bintang kompas kebenaran abadi yang tidak pernah bergeser. Selama engkau berpegang teguh pada tali wahyu Allah ini, engkau tidak akan pernah tersesat menjadi buih nihilisme yang terombang-ambing tanpa arah."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Al-Qur'an Adalah Bintang Kompasmu di Tengah Samudera Gelap* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Dekonstruksi Postmodernisme dan Relativisme Moral
 
 ```text
@@ -251,3 +259,4 @@ Dekonstruksi postmodernisme membebaskan manusia dari kegilaan nihilisme teks:
 ## Pertanyaan berikutnya — P00087
 
 **Dekonstruksi Postmodernisme, Relativisme Moral, dan Nihilisme Nilai (II): Menolak Kematian Meta-Narasi Lyotard dan Menegaskan Narasi Agung Risalah Nabawiyyah.**
+

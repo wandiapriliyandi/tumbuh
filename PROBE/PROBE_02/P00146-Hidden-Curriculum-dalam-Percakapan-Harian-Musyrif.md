@@ -269,25 +269,21 @@ Master Auditor Kualitas TUMBUH menguji integritas kurikulum tersembunyi melalui 
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Teras Depan Pos Jaga Asrama Pesantren TUMBUH pada malam yang tenang bertabur bintang. Angin semilir berhembus lembut. Ustadz Ilyas (Musyrif Senior, 47 tahun) sedang duduk menikmati teh jahe bersama Ustadz Bagas (Musyrif Baru, 21 tahun) yang tampak termenung menatap halaman asrama.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Ilyas:** *(Menyeruput teh jahe pelan seraya tersenyum)* "Bagas... Ustadz perhatikan dari kemarin kamu tampak sangat menjaga bicaramu saat santri-santri lewat di depan pos ini. Kenapa, Dik?"
->
-> **Ustadz Bagas:** *(Tersenyum santun, menundukkan pandangan)* "Iya Ustadz... Dulu waktu saya mondok di tempat lama, para pembina kalau malam hari sering bercanda kasar, saling mengejek nama orang tua santri, dan menertawakan santri yang lewat. Waktu itu kami kira itu hal wajar dan akrab. Tapi sejak saya ditugaskan di TUMBUH dan diajarkan konsep *Hidden Curriculum*, saya baru sadar betapa bahayanya candaan semacam itu. Tapi kadang-kadang saya bingung Ustadz, bagaimana caranya kita tetap akrab dan hangat dengan santri tanpa tergelincir menjadi kaku seperti tentara?"
->
-> **Ustadz Ilyas:** *(Menatap Ustadz Bagas dengan pandangan kebapakan yang sangat teduh)* "Masya Allah... Pertanyaan yang sangat dewasa, Bagas. Ketahuilah, Rasulullah ﷺ adalah manusia yang paling banyak tersenyum dan paling hangat kepada para pemuda. Beliau bercanda dengan Anas bin Malik, memanggilnya dengan candaan sayang: *'Wahai yang memiliki dua telinga!'* Beliau mencandai nenek tua bahwa di surga tidak ada orang tua, seraya tersenyum menjelaskan bahwa di surga semua orang kembali muda. Candaan beliau adalah madu yang menghangatkan jiwa, bukan racun yang melukai hati!"
->
-> **Ustadz Bagas:** *(Mengangguk takzim)* "Indah sekali ya Ustadz..."
->
-> **Ustadz Ilyas:** "Sangat indah, Bagas. Duduklah bersama mereka, dengarkan cerita lucu mereka tentang sandal yang tertukar atau hafalan yang salah sambung, tertawalah bersama mereka dengan tulus! Tetapi jaga hatimu: jangan pernah sentuh kekurangan fisik mereka, jangan pernah tertawakan penderitaan mereka, dan jangan gunakan kata-kata kotor. Ketika santri melihat ustadznya bisa tertawa lepas seraya lisannya tetap bersih dari dosa, di saat itulah santri belajar adab yang paling hakiki tanpa kita perlu berceramah satu kalimat pun. Paham maksud Ustadz, Bagas?"
->
-> **Ustadz Bagas:** *(Matanya berbinar haru, mencium tangan Ustadz Ilyas)* "Paham sekali, Ustadz. Nasihat ini menjadi kompas hidup saya selama bertugas di asrama ini. Terima kasih banyak, Ustadz."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0146-2026
@@ -336,3 +332,4 @@ Pendidikan karakter sejati bukanlah indoktrinasi kata-kata yang dihafalkan santr
 ## Pertanyaan berikutnya — P00147
 
 Kapan, dengan syarat apa, dan bagaimana mekanisme syar'i pembersihan total rekam jejak pelanggaran masa lalu santri (*clean slate / mahwus-sijillat*) diberlakukan di asrama, guna memutus permanensi stigma dan memberikan hak taubat nasuha yang utuh?
+

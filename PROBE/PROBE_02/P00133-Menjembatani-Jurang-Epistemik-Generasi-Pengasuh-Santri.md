@@ -281,25 +281,21 @@ Master Auditor Kualitas TUMBUH mengukur kesehatan relasi antargenerasi melalui t
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Balkon Asrama Lantai 2, selepas qiyamullail sepertiga malam terakhir. Udara dingin pegunungan menyelimuti asrama. KH. Abdullah (Pengasuh Sepuh, 62 tahun) menghampiri Fajar (Santri J4, 17 tahun, Ketua Organisasi Santri) yang sedang termenung menatap bintang.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Kiai Abdullah:** *(Duduk di samping Fajar seraya menyodorkan segelas teh jahe hangat)* "Minum dulu tehnya, Fajar. Dingin sekali malam ini. Sedang memikirkan apa, Nak? Wajahmu tampak menanggung beban seluruh isi pondok."
->
-> **Fajar:** *(Tersentak kaget, segera mencium tangan sang Kiai dengan takzim)* "Afwan Kiai... Mengganggu istirahat Kiai. Saya sedang kepikiran rapat semalam dengan adik-adik kelas 10 dan 11. Mereka banyak yang mengeluh jenuh dengan metode halaqah kitab yang hanya membaca dan memaknai gandul tanpa ada sesi tanya jawab bebas. Tapi saya tidak berani menyampaikan ini ke Ustadz senior, Kiai... Takut dianggap santri su'ul adab yang mau mengganti metode salaf."
->
-> **Kiai Abdullah:** *(Tersenyum teduh, menepuk lembut pundak Fajar)* "Masya Allah... Fajar, dengarkan kakekmu ini bicara, Nak. Metode memaknai kitab kuning itu adalah warisan sanad yang agung, itu jalan berkah kita menyambung sanad ke para ulama mu'allif. Tetapi mengira bahwa metode itu haram ditambah dengan diskusi dan dialog, itu adalah kesalahpahaman kita yang sudah tua ini."
->
-> **Fajar:** *(Menatap Kiai Abdullah dengan mata berbinar)* "Sungguhkah demikian, Kiai?"
->
-> **Kiai Abdullah:** "Tentu, Fajar. Dahulu Rasulullah ﷺ duduk bersama para sahabat muda seperti Ibnu Abbas dan Mu'adz bin Jabal, beliau membuka pintu bertanya seluas-luasnya. Sayyidina Ali berpesan: *didiklah anakmu sesuai zamannya, karena mereka diciptakan untuk zaman yang berbeda dengan zamanmu*. Generasi Kiai dahulu ditempa dengan cara lama karena tantangan zamannya berbeda. Kalian hari ini menghadapi badai pemikiran dunia lewat ujung jari kalian. Jika di pondok ini kalian tidak diberi ruang bertanya, lalu di mana lagi kalian akan menemukan benteng kebenaran? Besok pagi, pimpin rapat bersama Ustadz-Ustadz muda. Buat format baru: 45 menit pertama membaca kitab salaf, 30 menit berikutnya buka halaqah diskusi tanya jawab. Kiai sendiri yang akan menandatangani persetujuannya."
->
-> **Fajar:** *(Meneteskan air mata haru, memeluk tangan Kiai Abdullah erat)* "Alhamdulillah... Jazakallahu khairan katsiran Kiai. Sungguh hati kami menjadi sangat lapang. Nasihat Kiai membuka kebuntuan kami semua."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0133-2026
@@ -348,3 +344,4 @@ Jurang generasi di pesantren bukanlah takdir permusuhan yang harus berakhir deng
 ## Pertanyaan berikutnya — P00134
 
 Bagaimana mengintegrasikan dialog dinamis antara teks fikih formal (*dhawabith fiqhiyyah*) dengan pertimbangan Maqashid Syari'ah dalam perumusan buku tata tertib dan sanksi kedisiplinan asrama?
+

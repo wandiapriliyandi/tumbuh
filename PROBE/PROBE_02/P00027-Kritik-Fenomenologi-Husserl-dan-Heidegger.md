@@ -212,13 +212,21 @@ Musyrif secara berkala melakukan observasi ruang:
 
 ---
 
-## 14. Dialog Kebapakan: "Ustadz Mendengar Antum, Namun Allah yang Menyembuhkan"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Ketika musyrif selesai mendengarkan beban emosi santri yang sangat berat:
-- Musyrif memegang kedua tangannya: *"Anakku, telinga Ustadz selalu ada untuk mendengarkan antum, dan pundak Ustadz selalu ada untuk antum menangis. Namun ketahuilah, Ustadz adalah manusia lemah yang tidak bisa menyelesaikan semua masalah antum. Mari kita hamparkan sajadah ini bersama-sama, kita serahkan seluruh beban ini kepada Allah SWT Yang Maha Mendengar dan Maha Kuasa."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Ustadz Mendengar Antum, Namun Allah yang Menyembuhkan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Batas Epistemik Fenomenologi dalam TUMBUH
 
 ```text
@@ -269,3 +277,4 @@ Fenomenologi memberikan kita mata yang lembut untuk melihat bagaimana santri men
 ## Pertanyaan berikutnya — P00028
 
 **Kritik Humanisme Sekuler: Mengapa Humanisme Tanpa Ketuhanan Berujung pada Degradasi Nilai Kemanusiaan Santri.**
+

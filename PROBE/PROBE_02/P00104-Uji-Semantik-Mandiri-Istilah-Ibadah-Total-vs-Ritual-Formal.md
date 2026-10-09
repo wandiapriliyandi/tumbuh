@@ -193,13 +193,21 @@ Parameter inspeksi karakter penjaminan mutu:
 
 ---
 
-## 14. Dialog Kebapakan: "Sapu yang Engkau Pegang Ini Bernilai Pahala, Nak"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif saat melihat santri yang menyapu halaman asrama dengan wajah murung:
-*"Ananda, tahukah engkau bahwa para nabi dan orang-orang shalih terdahulu adalah manusia yang paling gemar berkhidmah melayani sesamanya? Rasulullah ﷺ di rumahnya senantiasa membantu menyapu lantai, menjahit bajunya yang sobek, dan memerah susu kambingnya sendiri. Sapu yang sedang engkau pegang ini bukan tanda kerendahan derajatmu; jika engkau mengayunkannya seraya melantunkan istighfar dan berniat membahagiakan saudaramu yang melintas di jalan ini, setiap debu yang engkau singkirkan akan menjadi saksi pembelaanmu di hadapan Allah pada hari kiamat kelak. Ibadah bukan hanya saat engkau mengangkat takbir; ibadah adalah saat kalbumu ikhlas mempersembahkan yang terbaik bagi agamamu di mana pun engkau berada."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Sapu yang Engkau Pegang Ini Bernilai Pahala, Nak* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Konsep 'Ibadah Syamilah
 
 ```text
@@ -246,4 +254,5 @@ Pemahaman ibadah yang utuh mengubah seluruh kehidupan santri menjadi samudera pa
 
 ## Pertanyaan berikutnya — P00105
 
-**Uji Semantik Mandiri Istilah `Khilafah`: Kepemimpinan Mengelola Bumi vs Ambisi Politik Kekuasaan dalam Tarbiyah Santri.**
+**Uji Semantik Mandiri Istilah `'Imaratul Ardh`: Kepemimpinan Mengelola Bumi vs Ambisi Politik Kekuasaan dalam Tarbiyah Santri.**
+

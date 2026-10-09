@@ -220,13 +220,21 @@ Pengasuh asrama memberikan pembekalan literasi pemikiran kontemporer bagi santri
 
 ---
 
-## 14. Dialog Kebapakan: "Al-Qur'an Adalah Jangkar Kapal Jiwamu"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Musyrif berpesan kepada santri di akhir majelis:
-- *"Anakku, dunia di luar sana laksana samudra yang sedang dilanda badai gelombang keraguan. Semua orang terombang-ambing karena mereka telah memutuskan sauh kapal mereka. Pegang erat-erat Al-Qur'an dan Sunnah ini; ia adalah sauh yang menancap kokoh di dasar samudra kebenaran Ilahi. Selama sauh ini terpasang di dadamu, perahu jiwamu tidak akan pernah karam ditiup badai relativisme zaman."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Al-Qur'an Adalah Jangkar Kapal Jiwamu* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Dekonstruksi Kanonik Postmodernisme dan Dekonstruksi Derrida
 
 ```text
@@ -277,3 +285,4 @@ Postmodernisme telah membongkar seluruh pilar peradaban Barat dan meninggalkan m
 ## Pertanyaan berikutnya — P00027
 
 **Kritik atas Fenomenologi Husserl & Heidegger: Membedakan Pengalaman Subjektif Manusia dari Otoritas Sabda Wahyu.**
+

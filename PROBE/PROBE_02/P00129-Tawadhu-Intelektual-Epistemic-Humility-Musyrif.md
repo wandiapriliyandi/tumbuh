@@ -110,7 +110,7 @@ Para imam mazhab dan ulama salaf menjadikan ucapan "La Adri" sebagai mahkota kem
    > *"Katakan kepada mereka: Sesungguhnya Malik tidak tahu jawabannya!"*  
    Imam Malik menegaskan: *"Tameng seorang berilmu adalah ucapan 'La Adri', jika ia melalaikannya maka ia akan terkena panah pembunuh dirinya sendiri."*
 
-2. **Kisah Khalifah Umar bin Al-Khaththab dan Wanita yang Mengoreksinya:**  
+2. **Kisah Amirul Mukminin Umar bin Al-Khaththab dan Wanita yang Mengoreksinya:**  
    Ketika Umar berkhutbah membatasi mahar wanita, seorang wanita Quraisy berdiri dan mengoreksi beliau dengan membaca QS. An-Nisa' ayat 20. Seketika itu juga Umar mengakui kekeliruannya di atas mimbar di depan ribuan jamaah:  
    ```arabic
    أَصَابَتِ امْرَأَةٌ وَأَخْطَأَ عُمَرُ! كُلُّ أَحَدٍ أَفْقَهُ مِنْ عُمَرَ
@@ -190,25 +190,21 @@ Para imam mazhab dan ulama salaf menjadikan ucapan "La Adri" sebagai mahkota kem
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang perpustakaan asrama yang tenang di pagi hari. Ustadz Fauzi duduk berhadapan dengan Farhan (15 tahun) sambil membuka kitab *Al-Bidayah wan-Nihayah* karya Ibnu Katsir.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Fauzi:** *(Tersenyum tulus, menyodorkan cangkir teh manis ke hadapan Farhan)* "Farhan, Ustadz sengaja mengajakmu duduk berdua di sini pagi ini."
->
-> **Farhan:** *(Menunduk takzim, agak cemas)* "Iya, Ustadz... Apakah koreksi saya kemarin tentang status hadits membuat Ustadz tersinggung? Demi Allah saya tidak ada niat merendahkan Ustadz di depan teman-teman..."
->
-> **Ustadz Fauzi:** *(Menggeleng lembut, tatapannya berkaca-kaca penuh kehangatan)* "Farhan, dengarkan Ustadz, Nak. Kemarin saat kamu menunjukkan kitab itu di kantor, setan sempat membisikkan rasa gengsi ke telinga Ustadz: *'Kamu ini lulusan universitas ternama, masa dikoreksi oleh anak umur 15 tahun?'* Tapi bisikan itu langsung luruh saat Ustadz mengingat sabda Nabi ﷺ bahwa kesombongan adalah menolak kebenaran dan merendahkan manusia. Ustadz justru ingin berterima kasih sedalam-dalamnya padamu, Farhan."
->
-> **Farhan:** *(Mengangkat wajahnya, terharu)* "Ustadz berterima kasih pada saya?"
->
-> **Ustadz Fauzi:** "Tentu saja, Nak. Kamu telah menyelamatkan lisan Ustadz dari berdusta atas nama Rasulullah ﷺ! Dan pengumuman ralat yang Ustadz sampaikan di masjid tadi sore adalah ikhtiyar Ustadz untuk meneladani Sayyidina Umar yang tidak malu mengakui kebenaran seorang wanita. Guru sejati itu, Farhan, bukan orang yang tidak pernah salah. Guru sejati adalah orang yang paling pertama tunduk ketika kebenaran ditegakkan di hadapannya. Teruslah membaca, teruslah kritis, dan jangan pernah kehilangan adabmu yang santun ini ya, Nak."
->
-> **Farhan:** *(Meneteskan air mata haru, menunduk mencium tangan Ustadz Fauzi dengan penuh ta'zhim yang tulus)* "Jazakallahu khair Ustadz Fauzi... Teladan tawadhu' Ustadz hari ini adalah pelajaran kitab yang paling agung yang pernah saya dapatkan seumur hidup saya."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0129-2026
@@ -250,3 +246,4 @@ Ruang perpustakaan asrama yang tenang di pagi hari. Ustadz Fauzi duduk berhadapa
 ## Pertanyaan berikutnya — P00130
 
 Bagaimana menyusun standarisasi *Kriteria Bukti Faktual (Evidence-Based Threshold)* sebelum Dewan Pengasuhan mengambil tindakan pendisiplinan berat di pesantren TUMBUH?
+

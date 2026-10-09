@@ -183,13 +183,21 @@ Tim penjamin mutu lingkungan secara berkala melakukan inspeksi:
 
 ---
 
-## 14. Dialog Kebapakan: "Jadikan Kamarmu Sebagai Mihrab Kebaikan"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada para santri di bilik asrama:
-*"Ananda, kamarmu ini adalah saksi bisu amal perbuatanmu. Setiap sudut lantainya akan bersaksi di padang mahsyar apakah ia dipijak oleh kaki-kaki penuntut ilmu yang beradab atau diinjak oleh kelalaian. Bersihkan ia, wangikan ia, hidupkan ia dengan ayat-ayat suci Al-Qur'an."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jadikan Kamarmu Sebagai Mihrab Kebaikan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Resakralisasi Ruang Asrama dan Belajar
 
 ```text
@@ -238,3 +246,4 @@ Resakralisasi ruang adalah jalan mengembalikan barakah ke dalam bilik-bilik pesa
 ## Pertanyaan berikutnya — P00056
 
 **Konsep Waktu Islam (Ajal, Barakah, Hisab) vs Jam Mekanis Sekuler: Merajut Ritme Hidup Santri Menuju Abadi.**
+

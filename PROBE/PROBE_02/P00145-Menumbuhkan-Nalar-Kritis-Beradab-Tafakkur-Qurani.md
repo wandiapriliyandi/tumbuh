@@ -277,27 +277,21 @@ Master Auditor Kualitas TUMBUH menguji ekosistem nalar kritis melalui tiga indik
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Taman Belakang Asrama Pesantren TUMBUH di bawah naungan pohon rindang ba'da Ashar. Ustadz Salman (Guru Mantiq & Ushuluddin, 38 tahun) sedang duduk di bangku batu bersama Hasyim (Santri J3, 16 tahun) yang tampak bingung memegang buku catatan filsafatnya.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Salman:** *(Menyodorkan buah kurma kepada Hasyim seraya tersenyum ramah)* "Makan dulu kurmanya, Hasyim. Wajahmu tampak kusut sekali, Nak. Apa yang sedang memenuhi kepalamu?"
->
-> **Hasyim:** *(Menghela napas panjang, menatap Ustadz Salman dengan ragu-ragu)* "Ustadz... semalam di kamar kami berdebat sampai larut malam. Teman-teman bilang, santri pondok itu tidak boleh kritis. Kalau santri terlalu banyak berpikir logis, nanti imannya luntur dan kualat pada kiai. Apa benar berpikir kritis itu berbahaya bagi iman kita, Ustadz?"
->
-> **Ustadz Salman:** *(Tertawa kecil, tatapan matanya berbinar penuh kehangatan)* "Masya Allah... Pertanyaan yang sangat indah, Hasyim. Dengarkan baik-baik nasehat Ustadz, Nak. Tahukah kamu bahwa Al-Qur'an diturunkan kepada kaum Quraisy yang saat itu sangat taklid buta kepada nenek moyang mereka? Al-Qur'an datang justru meruntuhkan doktrin pasrah buta itu dengan seruan: *'Afala ta'qilun? Tidakkah kalian menggunakan akal kalian? Afala tatadabbarun? Tidakkah kalian merenung?'* Islam tidak pernah takut pada akal sehat, Hasyim, karena kebenaran Islam itu bercahaya dan selaras sempurna dengan fitrah akal manusia!"
->
-> **Hasyim:** *(Matanya membesar, antusias)* "Lalu kenapa ada orang yang bilang berpikir kritis bisa merusak adab, Ustadz?"
->
-> **Ustadz Salman:** "Yang merusak adab itu bukan berpikir kritisnya, Nak, melainkan KESOMBONGAN HATINYA! Iblis itu cerdas berlogika, ia menggunakan analogi: *'Aku lebih baik dari Adam, Engkau ciptakan aku dari api dan dia dari tanah'*. Logikanya tampak pintar, tapi hatinya dipenuhi takabur dan pembangkangan kepada Allah! Berpikir kritis yang diajarkan Islam adalah *Tafakkur Qur'ani*: akalmu dipakai untuk membedah kebenaran, untuk menyaring kebohongan, tetapi hatimu tetap bersujud menyadari betapa agungnya Allah dan betapa mulianya ilmu para ulama. Akalmu setajam elang di angkasa, tetapi sayap akhlakmu menaungi bumi dengan kelembutan. Paham bedanya, Hasyim?"
->
-> **Hasyim:** *(Tersenyum lega, dadanya terasa lapang seketika)* "Paham sekali, Ustadz! Jadi kita boleh kritis, asalkan hati kita tetap tawadhu' dan penuh adab?"
->
-> **Ustadz Salman:** *(Merangkul pundak Hasyim)* "Tepat sekali, anakku! Jadilah elang kebenaran yang terbang tinggi di langit ilmu, dan jadilah pohon rindang yang meneduhkan manusia dengan buah adabmu. Ayo, sekarang kita ke masjid bersiap shalat Maghrib."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0145-2026
@@ -346,3 +340,4 @@ Akal manusia adalah lentera agung yang Allah nyalakan di dalam dada manusia agar
 ## Pertanyaan berikutnya — P00146
 
 Bagaimana meneliti, mengaudit, dan mengendalikan kurikulum tersembunyi (*hidden curriculum*) dalam percakapan harian, candaan santai, dan dinamika informal para musyrif di asrama agar tidak merusak nilai adab formal yang diajarkan di kelas?
+

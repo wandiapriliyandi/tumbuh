@@ -192,13 +192,21 @@ Auditor memeriksa tata kelola koperasi dan vokasi santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Jadilah Tangan di Atas yang Memberi, Ananda"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri yang baru menyelesaikan proyek kebun mandiri:
-*"Ananda, lihatlah sayuran segar yang kalian panen hari ini. Keringat yang menetes dari dahimu saat mencangkul tanah ini jauh lebih wangi di sisi Allah daripada semprotan parfum seorang pemalas. Jadilah santri yang memiliki tangan di atas; belajarlah dengan tekun agar kelak engkau menjadi dokter yang menggratiskan orang miskin, insinyur yang membangun jembatan peradaban, atau saudagar kaya yang hartanya menjadi benteng perjuangan Islam. Jangan pernah biarkan tanganmu menengadah meminta belas kasihan dunia!"*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jadilah Tangan di Atas yang Memberi, Ananda* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Paradigma Etos Kerja Profetik
 
 ```text
@@ -245,3 +253,4 @@ Etos kerja profetik mengembalikan kejayaan dan kehormatan para pejuang Islam:
 ## Pertanyaan berikutnya — P00083
 
 **Dekonstruksi Saintisme & Naturalisme Metodologis dalam Pendidikan (I): Batas Otoritas Empirisme dan Penolakan Reduksionisme Materi.**
+

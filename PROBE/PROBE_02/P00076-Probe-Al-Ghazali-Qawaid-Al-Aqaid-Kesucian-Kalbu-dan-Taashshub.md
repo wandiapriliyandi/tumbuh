@@ -199,13 +199,21 @@ Auditor memeriksa materi ajar dan media sosial asatidz:
 
 ---
 
-## 14. Dialog Kebapakan: "Bawalah Hati yang Bersih Menghadap Allah, Bukan Baju Ormasmu"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai kepada santri saat peringatan Nisfu Sya'ban di masjid jami':
-*"Ananda, ketika kelak kita dipanggil menghadap Allah di padang mahsyar, Allah tidak akan bertanya apa nama seragam organisasimu, apa bendera perkumpulanmu di dunia. Allah hanya berfirman: 'Kecuali orang yang datang menghadap Allah dengan Hati yang Selamat (Qalbun Salim)'. Maka jangan kotori hatimu dengan membenci saudaramu yang melafalkan Laa Ilaaha Illallah. Bersihkan hatimu malam ini; peluk saudaramu, maafkan kesalahannya, agar pintu rahmat Allah terbuka lebar menaungi hidup kita semua."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Bawalah Hati yang Bersih Menghadap Allah, Bukan Baju Ormasmu* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Kaidah Kesucian Kalbu Al-Ghazali
 
 ```text
@@ -252,3 +260,4 @@ Manhaj Al-Ghazali memancarkan cahaya kesejukan iman yang hakiki:
 ## Pertanyaan berikutnya — P00077
 
 **Probe Konsep Fitrah Ibn Taimiyyah (I): Fitrah sebagai Kapasitas Alami Mengenal Allah (Bukan Tabula Rasa).**
+

@@ -186,25 +186,21 @@ Ulama mu'tabar telah memperingatkan bahaya mengukur agama semata-mata dari bentu
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Serambi belakang masjid asrama di bawah temaram sinar lampu malam. Ustadz Mu'adz duduk berdampingan dengan Faiz (15 tahun, santri yang sempat terobsesi mengejar skor aplikasi).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Mu'adz:** *(Menatap langit malam yang tenang, berbicara dengan suara teduh)* "Faiz, kamu tahu bintang yang paling terang di atas sana?"
->
-> **Faiz:** *(Menunjuk)* "Yang itu ya Ustadz? Bintang kejora?"
->
-> **Ustadz Mu'adz:** "Iya, Nak. Bintang itu bersinar sangat terang bukan karena ada teleskop manusia yang sedang menilainya dan memberinya skor 100. Dia bersinar karena memang tabiat ciptaannya untuk memancarkan cahaya, ada atau tidak ada manusia yang melihatnya."
->
-> **Faiz:** *(Menunduk, tersentuh)* "Ustadz... saya merasa malu sekali akhir-akhir ini. Kemarin waktu aplikasi poin itu masih ada, saya sibuk sekali mencari muka di depan musyrif. Begitu aplikasi itu dihapus oleh Pondok, saya merasa hampa dan malas berbuat baik lagi. Kenapa saya jadi seperti ini ya Ustadz?"
->
-> **Ustadz Mu'adz:** *(Merangkul pundak Faiz dengan penuh kehangatan batin)* "Itu namanya jebakan metrik duniawi, Faiz. Jiwamu sempat kecanduan pujian angka dari manusia. Ketika kita berbuat baik demi skor aplikasi, hati kita sedang disembelih oleh riya' tanpa kita sadari. Allah sangat menyayangimu, Nak, makanya sistem angka itu kita hentikan agar Faiz bisa menemukan kembali manisnya keikhlasan. Kebaikan yang sejati itu tidak butuh tepuk tangan manusia dan tidak butuh grafik komputer. Kebaikan sejati adalah saat kamu memungut duri di jalanan asrama dalam gelap malam, tidak ada seorang pun musyrif yang tahu, tapi hatimu berbisik bahagia: *'Ya Allah, ini untuk-Mu'*. Maukah Faiz menjadi bintang yang bersinar tulus seperti itu?"
->
-> **Faiz:** *(Meneteskan air mata, mengangguk mantap)* "Saya mau sekali, Ustadz... Tolong bimbing hati saya agar bisa ikhlas karena Allah semata."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0125-2026
@@ -246,3 +242,4 @@ Serambi belakang masjid asrama di bawah temaram sinar lampu malam. Ustadz Mu'adz
 ## Pertanyaan berikutnya — P00126
 
 Bagaimana melakukan *Dekonstruksi Mistisisme Irasional* (Kritik atas Firasat Liar, Klaim Mimpi, dan Tuduhan Ghaib Sepihak) dalam pengambilan keputusan disiplin dan operasional asrama di pesantren TUMBUH?
+

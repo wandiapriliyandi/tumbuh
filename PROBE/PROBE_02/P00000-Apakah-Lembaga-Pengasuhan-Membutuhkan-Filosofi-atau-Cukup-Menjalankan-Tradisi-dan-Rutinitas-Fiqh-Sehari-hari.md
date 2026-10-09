@@ -224,7 +224,7 @@ TUMBUH menegaskan bahwa filosofi pengasuhan harus digali secara otentik dari **s
 
 Bagi para musyrif dan pembina asrama, filosofi pengasuhan adalah sumber ketahanan spiritual:
 - Musyrif yang memandang tugasnya hanya sebagai "pekerjaan menjaga jadwal" akan mudah jenuh, sinis, dan mengalami kelelahan mental akut (*compassion fatigue*).
-- Musyrif yang memahami filosofi tarbiyah memandang setiap interaksi dengan santri sebagai **kelanjutan dari risalah kenabian (*khilafah nubuwwah*) dalam membina jiwa manusia**. Kelelahan fisik mereka berubah menjadi amal jariyah yang bernilai tinggi di sisi Allah SWT.
+- Musyrif yang memahami filosofi tarbiyah memandang setiap interaksi dengan santri sebagai **kelanjutan dari risalah kenabian (*amanah nubuwwah*) dalam membina jiwa manusia**. Kelelahan fisik mereka berubah menjadi amal jariyah yang bernilai tinggi di sisi Allah SWT.
 
 ---
 

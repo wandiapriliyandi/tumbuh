@@ -103,7 +103,7 @@ Oknum musyrif keamanan memasang kamera pengawas tersembunyi (*spy cam*) berukura
 
 Para ulama mu'tabar telah mengabadikan kisah keteladanan para sahabat dalam menolak tajassus kendati mereka memiliki kekuasaan penuh:
 
-1. **Kisah Khalifah Umar bin Al-Khaththab dan Abdurrahman bin 'Auf:**  
+1. **Kisah Amirul Mukminin Umar bin Al-Khaththab dan Abdurrahman bin 'Auf:**  
    Suatu malam Umar memergoki sebuah rumah yang terdengar suara gaduh di dalamnya. Umar hendak memanjat dinding untuk melihatnya, lalu Abdurrahman bin 'Auf memegang tangannya dan menegur:  
    ```arabic
    قَدْ نَهَانَا اللَّهُ فَقَالَ: «وَلَا تَجَسَّسُوا»، فَقَدْ تَجَسَّسْنَا! فَانْصَرَفَ عُمَرُ وَتَرَكَهُمْ
@@ -186,29 +186,21 @@ Para ulama mu'tabar telah mengabadikan kisah keteladanan para sahabat dalam meno
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang musyrif asrama setelah shalat Ashar. Ustadz Fathuruddin memanggil Hilman (15 tahun, santri yang ditawari oleh oknum pembina magang untuk menjadi mata-mata kamar).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Fathuruddin:** *(Tersenyum hangat, menyodorkan piring kurma)* "Hilman, duduk di sini dekat Ustadz, Nak. Ada hal penting yang ingin Ustadz luruskan denganmu."
->
-> **Hilman:** *(Duduk ragu-ragu, menunduk)* "Iya, Ustadz... Ada apa ya?"
->
-> **Ustadz Fathuruddin:** "Ustadz mendengar kemarin pembina magang memintamu untuk mencatat dan melaporkan secara diam-diam siapa saja teman sekamarmu yang merokok atau membawa barang terlarang, dengan janji kamu akan dibebaskan dari piket kebersihan. Betul begitu, Hilman?"
->
-> **Hilman:** *(Wajahnya memerah, mengangguk pelan)* "Betul Ustadz... tapi saya belum lapor apa-apa. Saya bingung rasanya seperti mengkhianati teman sendiri..."
->
-> **Ustadz Fathuruddin:** *(Menatap Hilman dengan pandangan bangga)* "Alhamdulillah nuranimu masih sangat bersih, Hilman! Ustadz bangga padamu karena kamu merasa ragu. Dengarkan nasihat Ustadz ini baik-baik: Lembaga TUMBUH ini mengharamkan tindakan memata-matai saudaranya sendiri! Allah berfirman di dalam Al-Qur'an: *Wa la tajassasu—Janganlah kalian memata-matai!* Kita tidak sedang mendidik santri menjadi agen intelijen yang licik. Kita mendidik kalian menjadi ksatria yang saling mencintai karena Allah."
->
-> **Hilman:** *(Matanya melebar terkejut)* "Jadi... saya boleh menolak tugas itu, Ustadz?"
->
-> **Ustadz Fathuruddin:** "Bukan cuma boleh, Nak, kamu **wajib** menolaknya! Pembina magang tersebut sudah Ustadz tegur keras karena melanggar kode etik pengasuhan. Jika kamu melihat teman sekamarmu berbuat salah, jalan ksatria bukan mengintipnya lalu lapor diam-diam. Jalan ksatria adalah kamu rangkul pundaknya empat mata, kamu bisikkan nasihat: *'Sahabatku, perbuatan ini dilarang pondok dan tidak diridhai Allah, mari kita hentikan bersama-sama'*. Itulah persaudaraan sejati yang diajarkan Rasulullah ﷺ. Paham maksud Ustadz, anakku?"
->
-> **Hilman:** *(Tersenyum lega luar biasa, dadanya terasa lapang)* "Paham sekali Ustadz Fathur! Saya sangat bersyukur... Saya tidak mau jadi mata-mata yang mengkhianati teman saya. Saya mau jadi sahabat yang mengingatkan kebaikan secara jantan."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0128-2026
@@ -251,3 +243,4 @@ Ruang musyrif asrama setelah shalat Ashar. Ustadz Fathuruddin memanggil Hilman (
 ## Pertanyaan berikutnya — P00129
 
 Bagaimana menanamkan doktrin *Tawadhu' Intelektual (Epistemic Humility)* pada musyrif dan asatidz (keberanian mengakui ketidaktahuan, keterbukaan pada kritik santri, dan dekonstruksi arogansi sanad) di lingkungan pesantren TUMBUH?
+

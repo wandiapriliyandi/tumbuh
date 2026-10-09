@@ -146,18 +146,21 @@ Di Asrama Al-Qabisi, terjadi kebakaran kecil akibat korsleting kabel dispenser d
 
 ---
 
-## 12. Dialog Kebapakan Naratif Hidup
+## 12. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:** Ruang kerja Direktur Kepengasuhan pagi hari usai peristiwa semalam. Ustadz Mahfuzh (Direktur) memanggil Ustadz Satria, musyrif muda yang semalam nekat memecahkan kaca jendela kantor sarpras untuk mengambil tabung oksigen demi menolong santri asma.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Satria:** *(Berdiri tertunduk, menyerahkan surat pertanggungjawaban)* "Ustadz, saya siap menerima sanksi potong gaji atas perusakan kaca jendela kantor sarpras tadi malam. Tabung oksigen di klinik habis, dan satu-satunya cadangan terkunci di dalam ruangan sarpras. Santri Wildan sudah membiru bibirnya, jadi saya hancurkan kacanya dengan batu bata."  
-> **Ustadz Mahfuzh:** *(Berdiri dari kursinya, melangkah mendekati Ustadz Satria, lalu merangkulnya dengan erat)* "Satria, pandang mataku, saudaraku... Mengapa engkau mengira aku akan memotong gajimu?"  
-> **Ustadz Satria:** *(Tercengang, bingung)* "Karena saya telah merusak inventaris pondok dan melanggar SOP penjagaan sarana prasarana, Ustadz."  
-> **Ustadz Mahfuzh:** *(Tersenyum bangga, menepuk dada Ustadz Satria)* "Satria, jika engkau tadi malam diam mematung di depan pintu terkunci itu dan membiarkan Wildan meninggal dunia demi menjaga selembar kaca jendela tetap utuh, detik ini juga aku yang akan memecatmu dari pesantren ini! Pagi ini, dokter IGD memberi tahu saya: jika Wildan terlambat mendapatkan oksigen 3 menit saja, otaknya akan mengalami kerusakan permanen atau ia meninggal dunia. Engkau telah mempraktikkan ajaran Sulthanul 'Ulama Imam 'Izzuddin bin 'Abdissalam: *Irtikab akhaffidh dhararayn*—memecahkan kaca seharga dua ratus ribu rupiah demi menyelamatkan nyawa anak titipan umat yang tak ternilai harganya! Pesantren ini tidak akan memotong gajimu satu rupiah pun. Lembaga ini berhutang budi pada keberanianmu. Engkau adalah contoh nyata musyrif yang berakal tajam dan berhati emas."  
-> **Ustadz Satria:** *(Air matanya tumpah, mencium tangan Ustadz Mahfuzh dengan rasa syukur yang mendalam)* "Alhamdulillah... Terima kasih, Ustadz. Saya hanya memikirkan nyawa anak itu tadi malam."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 13. Arsitektur Keputusan Rekayasa Lembaga (ADR Format)
 
 - **Judul Keputusan:** ADR-PROBE-0171: Pembentukan Protokol Diskresi Kedaruratan Lapangan Berbasis Kaidah Muwazanah Imam 'Izzuddin bin 'Abdissalam.
@@ -199,3 +202,4 @@ Kaidah *Muwazanah* dan resolusi dilema dalam Kitab *Qawa'id Al-Ahkam* karya Sult
 ## Pertanyaan berikutnya — P00172
 
 Bagaimana pembedaan antara hak Allah yang murni (*Huququllah Al-Khalishah*), hak hamba yang murni (*Huququl 'Ibad Al-Khalishah*), dan percampuran keduanya dalam Kitab *Qawa'id Al-Ahkam* karya Imam 'Izzuddin memandu penegakan keadilan restoratif dan restitusi kerugian santri di asrama 24 jam?
+

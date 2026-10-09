@@ -195,13 +195,21 @@ Auditor memeriksa kurikulum kelas dan asrama:
 
 ---
 
-## 14. Dialog Kebapakan: "Akalmu Adalah Cahaya Karunia Tuhanmu, Jangan Padamkan Ia"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri yang terpilih menjadi ketua tim olimpiade sains pesantren:
-*"Ananda, asahlah akalmu setajam pedang, terbanglah menembus cakrawala ilmu pengetahuan seluas semesta. Jangan pernah takut bahwa ilmumu akan menjauhkanmu dari Allah; karena semakin tinggi akalmu terbang, engkau akan semakin takjub menyaksikan betapa agungnya rancangan Sang Maha Pencipta. Jadikan akalmu laksana Sayyidina Ali bin Abi Thalib: tajam tak tertandingi di medan dialektika, namun basah air matanya saat bersujud di hadapan keagungan kalam Tuhannya."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Akalmu Adalah Cahaya Karunia Tuhanmu, Jangan Padamkan Ia* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Epistemologi Dar'u Ta'arudh Ibn Taimiyyah
 
 ```text
@@ -248,3 +256,4 @@ Epistemologi Ibn Taimiyyah memancarkan kejayaan nalar peradaban Islam:
 ## Pertanyaan berikutnya — P00079
 
 **Probe Konsep Fitrah Ibn Taimiyyah (III): Ibadah sebagai Kebutuhan Eksistensial Jiwa (Bukan Beban Hukum Semata).**
+

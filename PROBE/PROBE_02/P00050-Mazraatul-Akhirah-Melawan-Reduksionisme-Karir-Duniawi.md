@@ -187,13 +187,21 @@ Auditor memeriksa materi motivasi santri:
 
 ---
 
-## 14. Dialog Kebapakan: "Jangan Tukar Mutiara Akhirat dengan Kaca Dunia"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai saat santri galau memikirkan masa depan:
-*"Ananda, rezekimu telah dijamin oleh Allah sejak engkau berada di rahim ibumu; tidak akan pernah tertukar dan tidak akan pernah berkurang satu suap pun. Yang belum dijamin adalah surga atau nerakamu! Maka jangan engkau cemaskan apa yang telah dijamin, lalu melalaikan apa yang dituntut darimu."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Jangan Tukar Mutiara Akhirat dengan Kaca Dunia* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Paradigma Mazra'atul Akhirah
 
 ```text
@@ -245,3 +253,4 @@ Mazra'atul Akhirah adalah mahkota kejernihan hidup yang membebaskan manusia dari
 ## Pertanyaan berikutnya — P00051
 
 **Keadilan Kosmik ('Adl Ilahi) sebagai Acuan Moral Lembaga: Menegakkan Standar Keadilan Hakiki Melampaui Birokrasi Legalistik.**
+

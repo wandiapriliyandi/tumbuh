@@ -286,29 +286,21 @@ Master Auditor Kualitas TUMBUH menguji kesehatan arsitektur kebijakan asrama mel
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Serambi Masjid Jami' Pesantren TUMBUH selepas shalat Isya. Angin malam berhembus lembut. Ustadz Ridwan (Musyrif Senior, 42 tahun) sedang duduk bersila melipat sajadah bersama Salman (Santri J3, 16 tahun, Ketua Kamar Al-Farabi) yang tampak gundah.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Ridwan:** *(Memandang wajah Salman dengan senyum hangat)* "Salman, Ustadz perhatikan dahimu berkerut sejak Maghrib tadi. Ada beban apa di kamarmu, Nak?"
->
-> **Salman:** *(Menghela napas pelan, menundukkan pandangan)* "Ustadz... anak-anak di kamar semalam bersitegang. Teman-teman merasa jadwal mencuci baju jam 16.30 sangat sempit karena bentrok dengan persiapan shalat Maghrib dan tilawah. Fikri dan Ziyad usul agar jadwal mencuci digeser ke jam 21.00 setelah belajar malam. Tapi Ustadz Asisten bilang: *'Tidak boleh! Jadwal mencuci jam 16.30 itu sudah aturan baku dari zaman pondok berdiri, siapa yang mencuci jam sembilan malam disanksi!'* Anak-anak jadi menggerutu, Ustadz. Mereka merasa aturan pondok ini seperti penjara beku yang tidak mau mengerti keadaan santri."
->
-> **Ustadz Ridwan:** *(Tersenyum arif, merangkul pundak Salman)* "Alhamdulillah kamu menyampaikan ini dengan jujur, Salman. Dengar baik-baik pesan Ustadz, Nak. Di pesantren kita ini, ada hal-hal yang kokoh bagai gunung karang, tidak boleh bergeser walau sejengkal. Itu namanya *Tsawabit*. Apa contohnya? Shalat lima waktu berjamaah, menutup aurat, jujur, dan haramnya mencela sesama saudara. Itu hukum Allah, Ustadz dan kamu tidak punya hak sedikit pun untuk mengubahnya."
->
-> **Salman:** *(Mengangguk takzim)* "Iya Ustadz, kami paham kalau soal shalat dan adab tidak bisa ditawar."
->
-> **Ustadz Ridwan:** "Nah, tapi ada hal-hal lain yang sifatnya seperti air mengalir, lentur mengikuti wadahnya. Itu namanya *Mutaghayyirat*. Urusan jam mencuci baju, letak ember, atau teknis ronda kamar, itu bukan firman Allah, melainkan kesepakatan teknis manusia untuk menjaga ketertiban. Tujuan kita apa? Pakaian bersih dan kalian tidak masbuk shalat Maghrib. Kalau mencuci jam 16.30 justru membuat kalian tergesa-gesa ke masjid, maka jadwal mencucinya yang harus kita evaluasi bersama!"
->
-> **Salman:** *(Matanya berbinar, tersenyum lega)* "Masya Allah... Jadi boleh diubah jamnya, Ustadz?"
->
-> **Ustadz Ridwan:** "Tentu boleh! Nanti malam, pimpin musyawarah kamarmu. Sepakati bersama jam mencuci yang paling nyaman agar kalian bisa tiba di masjid 15 menit sebelum adzan Maghrib. Besok pagi, bawa draf kesepakatan kamar itu ke meja Ustadz, kita tanda tangani bersama. Ingat pesan Ustadz: kita tegas pada prinsip adab, tetapi kita bijak dan lentur pada sarana teknisnya. Paham, Salman?"
->
-> **Salman:** *(Mencium tangan Ustadz Ridwan dengan mata berkaca-kaca)* "Paham sekali, Ustadz! Hati saya jadi tenang... Terima kasih banyak telah mengajari kami hikmah ini."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0131-2026
@@ -356,3 +348,4 @@ Serambi Masjid Jami' Pesantren TUMBUH selepas shalat Isya. Angin malam berhembus
 ## Pertanyaan berikutnya — P00132
 
 Bagaimana menguji dan membersihkan konstruk asesmen perkembangan santri dari bias konfirmasi (*confirmation bias*) dan prasangka subjektif pengasuh dalam sistem observasi harian TUMBUH?
+

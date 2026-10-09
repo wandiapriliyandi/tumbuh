@@ -194,13 +194,21 @@ Auditor memeriksa tata kelola penugasan dan beasiswa pesantren:
 
 ---
 
-## 14. Dialog Kebapakan: "Darahmu Mungkin Berbeda, Namun Sujudmu Adalah Satu"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai saat melepas rombongan santri pengabdian masyarakat ke berbagai pulau:
-*"Ananda, ketika engkau melangkah keluar dari gerbang pesantren ini menuju pelosok negeri, jangan pernah memandang masyarakat dengan kacamata sukumu yang sempit. Pandanglah mereka dengan tatapan mata Rasulullah ﷺ yang penuh kasih sayang kepada seluruh umatnya. Rangkullah mereka sebagai saudaramu seiman. Ingatlah bahwa warna kulit dan bahasamu hanyalah tanda kebesaran Allah, namun jantung imanmu berdetak dengan kalimat yang sama: Tiada Tuhan selain Allah dan Muhammad adalah utusan Allah."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Darahmu Mungkin Berbeda, Namun Sujudmu Adalah Satu* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Sosiologi Tauhid Al-Faruqi dalam Tata Kelola Asrama
 
 ```text
@@ -247,3 +255,4 @@ Tauhid adalah tali simpul yang merajut persaudaraan sejati manusia:
 ## Pertanyaan berikutnya — P00071
 
 **Probe Teks Al-Aqidah Ath-Thahawiyyah (I): Tanzih Mutlak Allah dan Pembebasan Aqidah Santri dari Antropomorfisme (Tasybih/Tajsim).**
+

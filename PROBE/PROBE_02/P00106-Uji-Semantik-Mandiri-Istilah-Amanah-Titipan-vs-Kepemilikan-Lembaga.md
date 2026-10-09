@@ -201,13 +201,21 @@ Parameter inspeksi penjaminan mutu kelembagaan:
 
 ---
 
-## 14. Dialog Kebapakan: "Anak Ini Bukan Milik Kita, Ustadz, Dia Adalah Titipan Allah"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan pimpinan pesantren dalam rapat kerja evaluasi pengasuhan asrama:
-*"Para asatidz dan musyrif yang saya cintai karena Allah... pandanglah wajah santri-santri kecil yang sedang tertidur lelap di kamar-kamar asrama malam ini. Ayah dan ibu mereka melepaskan mereka dengan linangan air mata doa di pintu gerbang pondok ini. Mereka mempercayakan belahan jiwa mereka kepada kita! Jangan pernah ada di antara kita yang merasa bahwa anak-anak itu adalah milik kita yang boleh kita bentak sesuka hati atau kita telantarkan saat mereka demam menggigil! Jika kita meneteskan air mata mereka karena kezaliman kita, Allah sendiri yang akan menjadi musuh kita di padang mahsyar kelak! Jagalah titipan suci ini dengan segenap cinta dan tanggung jawab; rawatlah mereka sebagaimana engkau merawat anak kandungmu sendiri."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Anak Ini Bukan Milik Kita, Ustadz, Dia Adalah Titipan Allah* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Hakikat Amanah Pengasuhan
 
 ```text
@@ -255,3 +263,4 @@ Penegakan amanah adalah benteng pertahanan moral yang menjaga kesucian peradaban
 ## Pertanyaan berikutnya — P00107
 
 **Uji Semantik Mandiri Istilah `Mazra'atul Akhirah`: Dunia Ladang Akhirat vs Asketisme Pasif dalam Etos Produktivitas Santri.**
+

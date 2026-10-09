@@ -204,13 +204,21 @@ Indikator pemeriksaan manajemen gizi dan ruang makan:
 
 ---
 
-## 14. Dialog Kebapakan: "Seberapapun Sederhana Makananmu, Hargailah Keringat Orang Tuamu"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan musyrif saat melihat santri yang enggan menyentuh piring karena lauknya sederhana:
-*"Ananda, ketahuilah bahwa di luar sana, jutaan anak seusiamu tidur dalam keadaan menahan perihnya rasa lapar karena ketiadaan makanan. Setiap butir beras yang ada di piringmu ini adalah tetesan keringat ayah dan ibumu yang bekerja keras membanting tulang demi membiayai studimu di pesantren ini. Jangan pernah mencela rezeki Allah! Suaplah makanan ini dengan basmalah, kunyahlah dengan rasa syukur, dan niatkan setiap kalorinya menjadi tenaga untuk menghafal firman-Nya. Di sanalah letak keberkahan yang akan menerangi jalan masa depanmu."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Seberapapun Sederhana Makananmu, Hargailah Keringat Orang Tuamu* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Adab Makan Berjamaah
 
 ```text
@@ -258,3 +266,4 @@ Adab di meja makan adalah cermin dari kebersihan kalbu dan keagungan karakter se
 ## Pertanyaan berikutnya — P00098
 
 **Fenomenologi Ritme Spiritual 24 Jam (VII): Filosofi Sakralitas Ruang Belajar, Adab Meja Tilawah, dan Penghormatan Terhadap Mushaf serta Kitab.**
+

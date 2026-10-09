@@ -270,31 +270,21 @@ Master Auditor Kualitas TUMBUH menguji integritas penegakan bukti asrama melalui
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Teras Masjid Asrama Pesantren TUMBUH ba'da Ashar. Langit cerah berawan. Ustadz Manshur (Kepala Pengasuhan Senior, 52 tahun) memanggil Ustadz Rian (Musyrif Muda, 23 tahun) yang baru saja selesai menginterogasi seorang santri.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Manshur:** *(Duduk bersila, menuangkan teh hangat untuk Ustadz Rian)* "Rian, Ustadz perhatikan dari tadi siang kamu bolak-balik memanggil Wildan ke kantor keamanan. Ada masalah apa dengan Wildan?"
->
-> **Ustadz Rian:** *(Minum teh tergesa-gesa, menjawab penuh keyakinan)* "Ustadz... saya yakin sekali Wildan yang merusak sound system masjid tadi malam. Firasat saya sangat kuat! Setiap kali saya tanya, matanya berkedip cepat dan dia menelan ludah. Hati saya mengatakan dia pelakunya, Ustadz!"
->
-> **Ustadz Manshur:** *(Tersenyum arif, menatap Ustadz Rian dengan pandangan mendalam)* "Rian... apakah kamu punya rekaman CCTV koridor? Apakah ada saksi santri lain yang melihat Wildan memegang kabel sound system? Atau ada obeng di tas Wildan?"
->
-> **Ustadz Rian:** "Belum ada bukti fisik, Ustadz. Tapi firasat saya..."
->
-> **Ustadz Manshur:** *(Memotong lembut, meletakkan tangan di pundak Ustadz Rian)* "Rian, dengarkan baik-baik nasehat Ustadz. Firasat seorang mukmin itu memang ada, tetapi Rasulullah ﷺ mengajarkan kita: beban pembuktian itu ada pada penuduh. Rasulullah yang menerima wahyu langit saja tidak pernah memotong tangan pencuri hanya karena wahyu batin beliau, melainkan menunggu bukti nyata dan saksi! Tahukah kamu mengapa Wildan berkedip cepat dan gemetar di depanmu?"
->
-> **Ustadz Rian:** *(Tertegun)* "Kenapa, Ustadz?"
->
-> **Ustadz Manshur:** "Tadi pagi ibunya menelepon Ustadz, mengabarkan bahwa ayah Wildan masuk ruang ICU rumah sakit di kampung. Wildan gemetar bukan karena mencuri, Wildan gemetar karena cemas memikirkan ayahnya dan takut diinterogasi olehmu! Bayangkan jika tadi kamu menghukumnya atas dasar firasatmu, betapa hancurnya hati anak itu, dan betapa besarnya dosa kezaliman yang kamu pikul di hadapan Allah!"
->
-> **Ustadz Rian:** *(Terduduk lemas, wajahnya pucat pasi, meneteskan air mata penyesalan)* "Astaghfirullahal 'azhim... Astaghfirullah... Saya hampir saja menzalimi anak yatim, Ustadz... Maafkan saya..."
->
-> **Ustadz Manshur:** "Jadikan ini pelajaran seumur hidupmu, Rian. Gunakan firasatmu untuk mendekap dan menyayangi santri, tetapi gunakan bukti faktual yang kokoh sebelum kamu berani menjatuhkan hukuman. Ayo, sekarang temani Wildan ke kantor, telepon ibunya, dan mari kita doakan kesembuhan ayahnya bersama-sama."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0135-2026
@@ -343,3 +333,4 @@ Firasat seorang mukmin adalah pelita yang Allah nyalakan di dalam dada orang-ora
 ## Pertanyaan berikutnya — P00136
 
 Bagaimana menangani ketimpangan narasi (*narrative asymmetry*) dan dinamika kekuasaan antarsantri (senior vs junior, anak donatur vs santri beasiswa) pada penyelidikan sengketa kamar di asrama?
+

@@ -61,7 +61,7 @@ Prof. S.M.N. Al-Attas membedah bahwa manusia disebut **Al-Insan** karena memilik
 2. Berasal dari kata **Nisyan (Lupa)**: Manusia rentan lupa terhadap perjanjian primordial (*mitsaq*) yang diikrarkannya di alam arwah (*Alastu bi Rabbikum*).
 
 Struktur jiwa manusia menurut rumusan Al-Attas (mengintegrasikan pemikiran Al-Ghazali dan Ibn Sina):
-- **An-Nafs an-Nathiqah (Jiwa Rasional / Ruhani)**: Substansi non-materi yang menjadi tempat bersemayamnya akal (*al-'aql*), kalbu (*al-qalb*), dan rahasia batin (*as-sirr*). Jiwa inilah yang menjadi subjek mukallaf dan memikul amanah khilafah.
+- **An-Nafs an-Nathiqah (Jiwa Rasional / Ruhani)**: Substansi non-materi yang menjadi tempat bersemayamnya akal (*al-'aql*), kalbu (*al-qalb*), dan rahasia batin (*as-sirr*). Jiwa inilah yang menjadi subjek mukallaf dan memikul amanah pemakmuran bumi.
 - **An-Nafs al-Hayawaniyyah (Jiwa Hewani)**: Dimensi jasmaniah yang memiliki dua daya penggerak:
   - *Al-Quwwah asy-Syahwaniyyah*: Daya tarik untuk mencari kenikmatan biologis (makan, minum, seks).
   - *Al-Quwwah al-Ghadhabiyyah*: Daya tolak untuk mempertahankan diri dari bahaya (kemarahan, dominasi).
@@ -195,13 +195,21 @@ Auditor memeriksa ritme harian asrama:
 
 ---
 
-## 14. Dialog Kebapakan: "Engkau Adalah Pangeran Ruhani, Jangan Menjadi Budak Hewani"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan musyrif saat mendampingi santri yang sedang berjuang menundukkan godaan syahwat:
-*"Ananda, di dalam dadamu bertarung dua kekuatan: bisikan ruh suci yang merindukan surga, dan tarikan insting tanah yang mengajak pada kenikmatan sesaat. Ingatlah siapa dirimu: engkau adalah khalifah Allah, makhluk mulia yang para malaikat bersujud di hadapan nenek moyangmu. Jangan pernah gadaikan kemuliaan ruhanmu hanya demi kenikmatan syahwat 5 menit yang berujung pada penyesalan dan kehinaan abadi."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Engkau Adalah Pangeran Ruhani, Jangan Menjadi Budak Hewani* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Antropologi Metafisik Insan Al-Attas
 
 ```text
@@ -249,3 +257,4 @@ Pendidikan Islam adalah pemuliaan manusia menuju derajat Insan Kamil:
 ## Pertanyaan berikutnya — P00067
 
 **Probe Pemikiran Syed Muhammad Naquib Al-Attas (IV): Makna Kebahagiaan (Sa'adah) vs Kesenangan Fana (Laddzah).**
+

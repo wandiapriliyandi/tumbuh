@@ -100,7 +100,7 @@ KASUS PENYEBARAN WABAH SKABIES (KUDIS) MASAL:
 
 ## 7. Validasi Turats: Nasihat Umar bin Khattab tentang Berpindah dari Satu Takdir ke Takdir Lain
 
-Ketika terjadi wabah Tha'un di Syam, Khalifah Umar bin Al-Khattab RA memutuskan mundur dan tidak masuk ke wilayah wabah. Sahabat Abu Ubaidah bin Al-Jarrah bertanya: *"Apakah engkau lari dari takdir Allah?"*
+Ketika terjadi wabah Tha'un di Syam, Amirul Mukminin Umar bin Al-Khattab RA memutuskan mundur dan tidak masuk ke wilayah wabah. Sahabat Abu Ubaidah bin Al-Jarrah bertanya: *"Apakah engkau lari dari takdir Allah?"*
 
 Umar RA menjawab dengan ketegasan hikmah yang abadi:
 
@@ -172,19 +172,21 @@ Auditor memastikan:
 
 ---
 
-## 14. Dialog Kebapakan: "Ikat Untamu, Lalu Bertawakallah"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Hadits Rasulullah ﷺ kepada seorang Badui yang melepas untanya:
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Ikat Untamu, Lalu Bertawakallah* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-$$\text{اعْقِلْهَا وَتَوَكَّلْ}$$
-
-*(Ikatlah untamu itu terlebih dahulu, kemudian bertawakallah kepada Allah).* (HR. Tirmidzi no. 2517).
-
-Nasihat kiai kepada musyrif:
-*"Kunci pintu asramamu, jaga santrimu dengan mata terjaga, lalu basahi sajadahmu dengan doa; jangan engkau tidur mendengkur lalu mengaku bertawakal pada keselamatan santri."*
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Audit Semantik Al-'Illah wal Ma'lul
 
 ```text
@@ -233,3 +235,4 @@ Kausalitas Hikmah adalah harmoni agung antara keringat ikhtiar di bumi dengan pe
 ## Pertanyaan berikutnya — P00040
 
 **Uji Semantik Mandiri Istilah `Ad-Dalil` wal `Madlul` (Argumen Pembuktian dan Realitas yang Dibuktikan).**
+

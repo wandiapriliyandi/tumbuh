@@ -140,7 +140,7 @@ STUDI KASUS BAHAYA PRAGMATISME PASAR DI PESANTREN VOKASI:
 ## 7. Melawan Mentalitas "Human Resources": Santri Bukan Sumber Daya Alam yang Ditambang
 
 Istilah kapitalistik *Human Resources* (Sumber Daya Manusia) mereduksi manusia menjadi bahan mentah setara batu bara atau minyak bumi yang dieksploitasi demi laba korporasi:
-- TUMBUH menggantinya dengan istilah Qur'ani: **Insan Kamil / Khalifatullah**.
+- TUMBUH menggantinya dengan istilah Qur'ani: **Insan Kamil / Pemakmur Bumi Rabbani**.
 - Setiap santri adalah entitas mulia yang memiliki martabat fitrah (*karamah insaniyyah*), bukan komoditas pasar yang diukur dari nilai tukar rupiahnya.
 
 ---
@@ -184,7 +184,7 @@ Mengadopsi metode pragmatisme tindakan namun menyucikannya dengan niat ibadah:
 ```text
 HIERARKI TUJUAN KOMPETENSI PRAKTIS SANTRI:
 
-  [ TINGKAT 4: KHALIFAH PERADABAN & WAKAF ]
+  [ TINGKAT 4: PENGGERAK PERADABAN & WAKAF ]
   Keahlian digunakan untuk membangun institusi peradaban umat dan membebaskan dhuafa.
                           ▲
   [ TINGKAT 3: KHIDMAH SOSIAL & DAKWAH ]
@@ -207,13 +207,21 @@ Ketika pesantren bekerja sama dengan mitra dunia usaha/industri:
 
 ---
 
-## 14. Dialog Kebapakan: Memaknai Keberhasilan Hidup
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Di hadapan santri yang akan diwisuda kelulusan:
-- Mudir berpesan: *"Anak-anakku, kami bangga jika kelak antum menjadi insinyur, dokter, atau pengusaha sukses. Tetapi ketahuilah, kebanggaan terbesar kami di hadapan Allah adalah jika di tengah kesibukan antum memimpin proyek besar, antum tetap meninggalkan meja kerja antum saat adzan berkumandang untuk bersujud di shaf pertama, dan tangan antum senantiasa terbuka menolong anak-anak yatim."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Memaknai Keberhasilan Hidup* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Dekonstruksi Kanonik Pragmatisme John Dewey
 
 ```text
@@ -264,3 +272,4 @@ Pendidikan yang hanya melatih tangan manusia untuk bekerja namun membiarkan kalb
 ## Pertanyaan berikutnya — P00024
 
 **Kritik atas Behaviorisme Radikal B.F. Skinner: Menolak Pandangan Manusia sebagai Mesin Respon Stimulus Tanpa Ruh.**
+

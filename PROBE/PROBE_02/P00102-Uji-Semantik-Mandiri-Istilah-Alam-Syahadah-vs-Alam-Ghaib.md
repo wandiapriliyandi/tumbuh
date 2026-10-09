@@ -203,13 +203,21 @@ Indikator pemeriksaan tata kelola asrama:
 
 ---
 
-## 14. Dialog Kebapakan: "Allah Maha Melihatmu di Mana Pun Engkau Berada, Nak"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan musyrif saat mendapati santri yang takut berjalan di lorong malam hari:
-*"Ananda, mengapa engkau gemetar takut kepada bayangan gelap itu? Jin dan setan adalah makhluk lemah yang tidak mampu mencelakakanmu sebutir debu pun tanpa izin Allah. Yang semestinya engkau takuti bukanlah kegelapan malam, melainkan kemaksiatan yang engkau lakukan saat sendirian di balik pintu kamar! Ketahuilah, di tempat yang paling sunyi sekalipun, malaikat Raqib dan 'Atid tidak pernah tidur mencatat setiap gerak-gerikmu, dan Allah Al-'Alim senantiasa mengawasimu. Berjalanlah dengan mantap seraya membaca ta'awwudz; selama imanmu terpaut pada Al-Khaliq, seluruh alam gaib dan alam syahadah tunduk di bawah kekuasaan Rabbmu."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Allah Maha Melihatmu di Mana Pun Engkau Berada, Nak* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Penyelarasan Syahadah dan Ghaib
 
 ```text
@@ -257,3 +265,4 @@ Penyelarasan alam syahadah dan alam gaib melahirkan generasi muslim yang cerdas 
 ## Pertanyaan berikutnya — P00103
 
 **Uji Semantik Mandiri Istilah `Al-Ghayah` (Teleologi Hidup) vs Eksistensialisme Absurd dalam Orientasi Masa Depan Santri.**
+

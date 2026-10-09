@@ -271,29 +271,21 @@ Master Auditor Kualitas TUMBUH menguji integritas kemitraan keluarga melalui tig
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Tamu Khusus Pengasuhan Pesantren TUMBUH. Ruangan sejuk beralas karpet tebal dengan meja bundar kayu jati. Di atas meja tersaji sepoci teh melati hangat dan kue tradisional. Ustadz Harun (Kepala Pengasuhan, 49 tahun) sedang duduk bersama Bapak Bambang (Ayahanda dari Santri Rizal, J2, 14 tahun) yang awalnya datang dengan wajah tegang.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Harun:** *(Menuangkan secangkir teh hangat ke cangkir Pak Bambang seraya tersenyum teduh)* "Bismillah... Silakan diminum tehnya, Pak Bambang. Jauh-jauh dari Surabaya, tentu perjalanan cukup melelahkan nggih?"
->
-> **Pak Bambang:** *(Menyeruput teh sedikit, wajahnya masih tampak cemas)* "Alhamdulillah, Ustadz... Matur nuwun. Terus terang saya dan istri dari kemarin tidak bisa tidur nyenyak, Ustadz. Ketika Ustadz mengundang kami ke mari, kami takut sekali Rizal berbuat kriminal atau dikeluarkan dari pondok... Apakah Rizal berbuat hal yang memalukan keluarga, Ustadz?"
->
-> **Ustadz Harun:** *(Tertawa kecil menenangkan, meletakkan tangannya di atas meja dengan hangat)* "Masya Allah, Pak Bambang... Tenangkan hati Bapak. Dengarkan kabar gembira ini terlebih dahulu: Rizal itu anak yang sangat jujur, hafalan Al-Qur'annya bertambah dua juz semester ini dengan tajwid yang sangat indah, dan dia disukai kawan-kawan sekamarnya karena selalu ringan tangan membantu merapikan sajadah mushalla!"
->
-> **Pak Bambang:** *(Napasnya tercekat, matanya berkaca-kaca menatap Ustadz Harun)* "Sungguhkah demikian, Ustadz? Ya Allah... Alhamdulillah..."
->
-> **Ustadz Harun:** "Iya, Pak Bambang. Rizal anak yang baik. Nah, adapun alasan kami mengundang Bapak ke mari dengan penuh hormat adalah karena dua pekan terakhir ini, kami melihat Rizal tampak murung dan dua kali tertangkap melamun di waktu shalat malam. Saat kami ajak bicara dari hati ke hati, Rizal menangis menceritakan bahwa ia sangat rindu pada Bapak, dan ia merasa bersalah karena sebelum berangkat ke pondok sempat membentak ibunya saat meminta dibelikan sepatu baru. Rasa bersalah itu mengganjal di dadanya dan membuatnya sulit fokus."
->
-> **Pak Bambang:** *(Air matanya menetes di pipi, menundukkan kepala haru)* "Astaghfirullahal 'azhim... Rizal... Iya Ustadz, waktu liburan kemarin dia memang sempat berselisih dengan ibunya soal sepatu... Kami tidak menyangka beban itu ia bawa sampai ke pondok..."
->
-> **Ustadz Harun:** "Inilah mengapa kami mengundang Bapak ke mari, bukan untuk menghakimi Rizal atau memarahi Bapak, melainkan untuk merajut kembali tali kasih sayang itu bersama-sama. Rizal ada di ruang sebelah, menanti kedatangan Bapak. Mari kita peluk dia bersama, kita basuh air matanya, dan kita beri dia kekuatan bahwa ayah dan ibunya selalu mendoakannya. Kemitraan cinta kitalah yang akan membuat Rizal tumbuh menjadi ulama besar di masa depan. Bersediakah Bapak menemui Rizal sekarang?"
->
-> **Pak Bambang:** *(Menyeka air matanya, bangkit berdiri seraya memeluk Ustadz Harun erat)* "Jazakallah khair katsir Ustadz... Demi Allah, saya belum pernah melihat pesantren yang memuliakan martabat orang tua dan mendidik anak dengan kasih sayang seindah ini... Mari kita temui anak saya, Ustadz."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0150-2026
@@ -342,3 +334,4 @@ Pendidikan Islam bukanlah sebuah transaksi pemindahan beban di mana orang tua me
 ## Pertanyaan berikutnya — P00151
 
 Bagaimana mengidentifikasi, mengaudit, dan mengeliminasi bias asal daerah (*regional tribalism/ashabiyyah kedaerahan*) dan perbedaan status sosial-ekonomi santri dalam seluruh proses pengamatan, pembinaan, dan penegakan keadilan asrama?
+

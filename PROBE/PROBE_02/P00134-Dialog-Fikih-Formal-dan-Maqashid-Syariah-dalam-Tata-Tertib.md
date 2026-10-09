@@ -274,27 +274,21 @@ Master Auditor Kualitas TUMBUH menguji keadilan tata tertib asrama melalui tiga 
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Sidang Disiplin Asrama Pesantren TUMBUH. Jam dinding menunjukkan pukul 14.00. Ustadz Harun (Ketua Komisi Disiplin, 45 tahun) duduk bersama Daffa (Santri J2, 14 tahun) yang tertunduk cemas menanti hukuman karena kedapatan memecahkan kaca jendela kantor asrama akibat tendangan bola plastiknya.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Harun:** *(Menaruh secangkir air mineral di hadapan Daffa, berbicara dengan nada tenang)* "Daffa... minumlah dulu airnya. Tenangkan hatimu."
->
-> **Daffa:** *(Mengambil gelas dengan tangan bergetar, meminum seteguk lalu menunduk)* "Ustadz... saya minta maaf. Saya siap dihukum apa saja... Apakah saya akan diskors dan disuruh berdiri seharian di lapangan seperti di pondok lama saya?"
->
-> **Ustadz Harun:** *(Tersenyum lembut seraya menggelengkan kepala)* "Daffa, tatap mata Ustadz, Nak. Di pesantren ini, tata tertib dibuat bukan untuk membalas dendam atau mempermalukan santri. Pasal larangan bermain bola di lorong kamar itu dibuat untuk apa? Untuk menjaga ketenangan belajar kawan-kawanmu dan menjaga keselamatan fasilitas umum pondok. Itu fikihnya, dan maqashidnya adalah menjaga rasa aman dan amanah harta wakaf umat."
->
-> **Daffa:** *(Mengangguk perlahan, air matanya mulai menetes)* "Iya Ustadz... Saya sangat bersalah, saya tadi terburu-buru dan tidak sabar menunggu jam olahraga sore."
->
-> **Ustadz Harun:** "Keadilan syariat menuntut dua hal: pengakuan taubat dan pemulihan kerugian (*restitusi*). Ustadz tidak akan menghukum fisikmu, tidak akan mempermalukanmu di depan apel, dan tidak akan mencukur rambutmu. Tetapi jendela itu harus diperbaiki agar kantor tidak kemasukan hujan. Ustadz ingin kamu belajar bertanggung jawab. Bersediakah kamu menyisihkan separuh uang jajarmu bulan ini untuk membantu membeli kaca baru, dan membantu Pak Tukang memasang kaca itu sore nanti?"
->
-> **Daffa:** *(Wajahnya berubah lega bercampur takzim, menyeka air matanya)* "Saya sangat bersedia, Ustadz! Sungguh saya sangat bersyukur... Saya berjanji tidak akan mengulangi bermain bola di lorong lagi."
->
-> **Ustadz Harun:** *(Merangkul pundak Daffa)* "Alhamdulillah. Ingat pesan ini, Daffa: aturan Allah dan aturan pesantren ada untuk mendidik jiwamu tumbuh menjadi laki-laki yang ksatria dan bertanggung jawab, bukan untuk meremukkan kehormatanmu. Kembalilah ke kamarmu dan bersiap shalat Ashar."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0134-2026
@@ -343,3 +337,4 @@ Hukum dalam Islam tidak pernah diturunkan sebagai belenggu yang mencekik kehidup
 ## Pertanyaan berikutnya — P00135
 
 Bagaimana mendudukkan derajat kebenaran firasat mukmin (*al-firasah al-imananyyah*) pengasuh di bawah kendali pembuktian faktual empiris dalam peradilan disiplin santri di lingkungan TUMBUH?
+

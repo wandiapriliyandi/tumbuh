@@ -116,15 +116,15 @@ KASUS KEHANCURAN WIBAWA DI PESANTREN AL-FULUS:
 
 ---
 
-## 7. Validasi Turats: Nasihat Imam Malik kepada Khalifah Harun Ar-Rasyid
+## 7. Validasi Turats: Nasihat Imam Malik kepada Sultan Harun Ar-Rasyid
 
-Ketika Khalifah Harun Ar-Rasyid meminta Imam Malik bin Anas datang ke istana untuk mengajarkan kitab *Al-Muwaththa'* kepada anak-anak khalifah, Imam Malik menolak dengan wibawa agung:
+Ketika Sultan Harun Ar-Rasyid meminta Imam Malik bin Anas datang ke istana untuk mengajarkan kitab *Al-Muwaththa'* kepada anak-anak sang penguasa, Imam Malik menolak dengan wibawa agung:
 
 $$\text{يَا أَمِيرَ الْمُؤْمِنِينَ، إِنَّ الْعِلْمَ يُؤْتَى وَلَا يَأْتِي}$$
 
 *(Wahai Amirul Mukminin, sesungguhnya ilmu itu didatangi, bukan mendatangi).*
 
-Khalifah tunduk dan memerintahkan putra-putranya duduk bersimpuh bersama santri biasa di Masjid Nabawi. Inilah muru'ah ilmu: ilmu dan adab tidak bisa diperintah oleh kekuasaan materi.
+sang penguasa tunduk dan memerintahkan putra-putranya duduk bersimpuh bersama santri biasa di Masjid Nabawi. Inilah muru'ah ilmu: ilmu dan adab tidak bisa diperintah oleh kekuasaan materi.
 
 ---
 
@@ -184,13 +184,21 @@ Auditor memeriksa laporan keuangan:
 
 ---
 
-## 14. Dialog Kebapakan: "Kami Menerima Jiwanya, Bukan Sekadar Hartanya"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai kepada wali santri baru:
-*"Bapak dan Ibu yang kami hormati, simpanlah kebanggaan atas harta dan jabatan di luar gerbang ini. Di dalam pondok ini, putra bapak adalah ananda kami, hamba Allah yang kami sayangi setara dengan anak-anak lainnya. Kami memohon doa dan kerelaan hati agar kami dapat menunaikan amanah berat ini di hadapan Allah Ta'ala."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Kami Menerima Jiwanya, Bukan Sekadar Hartanya* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Asas Santri sebagai Amanah Ilahiyyah
 
 ```text
@@ -240,3 +248,4 @@ Menjaga santri sebagai amanah Ilahiyyah adalah mahkota kehormatan peradaban pesa
 ## Pertanyaan berikutnya — P00050
 
 **Mazra'atul Akhirah Melawan Reduksionisme Karir Duniawi: Menata Orientasi Pendidikan Menuju Keabadian.**
+

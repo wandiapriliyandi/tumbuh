@@ -178,13 +178,21 @@ Auditor sistem secara berkala melakukan penelusuran vertikal (*vertical traceabi
 
 ---
 
-## 14. Dialog Kebapakan: "Pahami Pohonnya Sebelum Memetik Daunnya"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada pengurus santri:
-*"Jangan engkau sibuk mencambuki santri karena satu helai daun yang rontok, sementara engkau sendiri tidak mengerti bahwa batang pohon tarbiyah ini ditegakkan untuk memayungi mereka dengan cinta dan ketakwaan."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Pahami Pohonnya Sebelum Memetik Daunnya* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Audit Semantik Al-Kulliyyat vs Al-Juz'iyyat
 
 ```text
@@ -234,3 +242,4 @@ Harmoni antara Al-Kulliyyat dan Al-Juz'iyyat adalah rahasia ketahanan peradaban 
 ## Pertanyaan berikutnya — P00038
 
 **Uji Semantik Mandiri Istilah `Al-Jawhar` vs `Al-'Aradh` (Substansi Inti Tarbiyah vs Bentuk Luar Aksidental).**
+

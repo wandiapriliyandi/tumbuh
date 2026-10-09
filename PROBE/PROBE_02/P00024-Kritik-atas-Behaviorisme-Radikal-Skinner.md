@@ -218,14 +218,21 @@ TUMBUH mengaudit buku catatan musyrif:
 
 ---
 
-## 14. Dialog Kebapakan: Menyapa Hati di Ujung Hari
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Di waktu malam, musyrif duduk di samping santri yang baru saja melakukan kesalahan:
-- *"Ustadz tahu antum anak yang baik. Kesalahan tadi siang bukan cermin dari siapa diri antum sesungguhnya. Mari kita berwudhu, memohon ampun kepada Allah, dan esok pagi kita mulai kembali dengan hati yang bersih."*
-- Kelembutan ini membangkitkan kesadaran taubat yang tidak akan pernah bisa dilahirkan oleh seribu kali sengatan pengkondisian Skinner.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Menyapa Hati di Ujung Hari* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Dekonstruksi Kanonik Behaviorisme Radikal
 
 ```text
@@ -277,3 +284,4 @@ Manusia adalah mahakarya ciptaan Allah yang ditiupkan ruh ke dalam jasadnya, dim
 ## Pertanyaan berikutnya — P00025
 
 **Dekonstruksi Marxisme & Teori Kritis Frankfurt School: Membedakan Kesadaran Keadilan Qur'ani dari Dendam Perjuangan Kelas.**
+

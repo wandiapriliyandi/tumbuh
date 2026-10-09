@@ -114,7 +114,7 @@ KASUS KEJAHATAN DAKWAH HOROR DI PESANTREN X:
 
 ## 7. Validasi Turats: Nasihat Umar bin Abdul Aziz tentang Ziarah Kubur Hati
 
-Khalifah Umar bin Abdul Aziz menasihati para penasihat mudanya:
+Amirul Mukminin Umar bin Abdul Aziz menasihati para penasihat mudanya:
 
 $$\text{أَكْثِرْ ذِكْرَ الْمَوْتِ، فَإِنَّكَ إِنْ ذَكَرْتَهُ فِي ضِيقٍ وَسَّعَهُ عَلَيْكَ، وَإِنْ ذَكَرْتَهُ فِي سَعَةٍ ضَيَّقَهُ عَلَيْكَ}$$
 
@@ -180,13 +180,21 @@ Auditor memeriksa materi ceramah asrama:
 
 ---
 
-## 14. Dialog Kebapakan: "Kematian Adalah Jembatan Perjumpaan dengan Kekasih"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai kepada santri saat merenungi umur:
-*"Ananda, kematian bukanlah jurang kemusnahan; bagi orang beriman, kematian adalah jembatan emas yang mempertemukan seorang kekasih dengan Dzat Yang Paling Dicintainya, Allah Rabbul 'Alamin. Berbekallah dengan ketakwaan, jadikan setiap harimu indah dengan amal kebajikan, agar saat panggilan itu tiba, engkau tersenyum menyambutnya."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Kematian Adalah Jembatan Perjumpaan dengan Kekasih* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Pedagogi Kematian dan Akhirat
 
 ```text
@@ -234,3 +242,4 @@ Kematian dalam Islam adalah fajar keabadian yang menyinari setiap detik kehidupa
 ## Pertanyaan berikutnya — P00061
 
 **Keadilan Sosial Qur'ani dalam Kesetaraan Hak Pengasuhan: Menghapus Kastaisasi Santri di Asrama 24 Jam.**
+

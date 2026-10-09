@@ -155,19 +155,21 @@ Di Asrama Al-Mundziri, terdapat tradisi rahasia bernama "Apel Jam Satu Malam": s
 
 ---
 
-## 12. Dialog Kebapakan Naratif Hidup
+## 12. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:** Gazebo halaman tengah asrama ba'da Isya. Ustadz Syarif (Direktur Pengasuhan) sedang duduk bersama Haidar, santri kelas 11 yang baru saja dipukuli oleh kawan-kawan seangkatannya karena membela adik kelas yang hendak dirundung di kamar mandi.
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Syarif:** *(Mengompres memar di pelipis Haidar dengan es batu, menatapnya dengan pandangan penuh rasa bangga dan haru)* "Haidar, anakku... Apakah pelipismu terasa sangat sakit?"  
-> **Haidar:** *(Tersenyum getir menahan nyeri)* "Sedikit perih, Ustadz. Tapi yang lebih sakit adalah hati saya. Kawan-kawan seangkatan saya menyebut saya pengkhianat angkatan hanya karena saya menarik adik kelas 7 itu keluar dari kamar mandi saat hendak diguyur air kopi oleh mereka. Mereka bilang saya merusak tradisi angkatan."  
-> **Ustadz Syarif:** *(Menghela nafas dalam, menggenggam tangan Haidar dengan erat)* "Haidar... Ketahuilah, Rasulullah ﷺ bersabda: *Unshur akhāka zhāliman au mazhlūman*—Tolonglah saudaramu baik yang dizalimi maupun yang berbuat zalim. Ketika sahabat bertanya bagaimana cara menolong orang yang zalim, beliau menjawab: cegahlah dia dari perbuatan zalimnya! Malam ini, engkau tidak sedang mengkhianati kawan-kawan seangkatanmu; engkau justru telah menyelamatkan mereka dari siksa api neraka karena engkau mencegah tangan mereka menzalimi anak yatim titipan Allah itu!"  
-> **Haidar:** *(Menatap Ustadz Syarif, matanya mulai berkaca-kaca)* "Benarkah begitu, Ustadz?"  
-> **Ustadz Syarif:** "Demi Allah, benar! Seorang sosiolog besar bernama Roy Bhaskar mengajarkan bahwa sejarah peradaban manusia selalu diubah oleh orang-orang seperti engkau: orang-orang yang memiliki keberanian agensi (*agency*) untuk berkata 'CUKUP!' pada rantai kezaliman masa lalu. Sangat mudah untuk ikut arus menjadi penindas bersama kawan-kawanmu; orang pengecut pun bisa melakukannya. Tetapi dibutuhkan jiwa kesatria yang merdeka, pemuda yang memiliki iman sejati, untuk berdiri sendirian di depan badai tradisi jahiliyyah dan memutus rantai dendam itu dengan dadanya sendiri. Luka di pelipismu malam ini adalah medali kehormatan seorang pejuang keadilan di hadapan Allah. Kami bangga padamu, dan seluruh pimpinan pesantren berdiri kokoh di belakangmu untuk melindungi langkahmu."  
-> **Haidar:** *(Air matanya menetes, namun senyum kemenangan terpancar dari wajahnya yang memar)* "Alhamdulillah... Rasa sakit di pelipis saya hilang seketika, Ustadz. Saya berjanji tidak akan pernah mundur selangkah pun membela adik-adik kelas saya."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 13. Arsitektur Keputusan Rekayasa Lembaga (ADR Format)
 
 - **Judul Keputusan:** ADR-PROBE-0177: Penerapan Transformational Model of Social Activity (TMSA) dalam Pemberantasan Senioritas Toksik dan Transformasi Budaya Kamar Asrama.
@@ -209,3 +211,4 @@ Penerapan *Transformational Model of Social Activity* (TMSA) Roy Bhaskar dalam e
 ## Pertanyaan berikutnya — P00178
 
 Bagaimana konsep *Explanatory Critique* (Kritik Eksplanatori) Roy Bhaskar Bagian 4—bahwa ilmu sosial tidak boleh sekadar netral menjelaskan masalah melainkan wajib membongkar ilusi struktur yang melahirkan penderitaan manusia—memandu perombakan sistem reward-punishment asrama yang diskriminatif?
+

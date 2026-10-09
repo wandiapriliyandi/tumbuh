@@ -197,13 +197,21 @@ Parameter inspeksi penjaminan mutu:
 
 ---
 
-## 14. Dialog Kebapakan: "Untuk Apa Engkau Bangun Pagi Ini, Anakku?"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif saat melihat santri yang mengeluh lelah menghafal di serambi masjid:
-*"Ananda, jika engkau menghafal lembaran ini hanya demi selembar piagam syahadah yang akan menguning di dinding kamarmu, lelahmu ini terlalu mahal dan sia-sia. Namun jika engkau membacanya seraya membayangkan hari kiamat kelak—saat engkau memakaikan mahkota cahaya kemuliaan di kepala ayah dan ibumu di hadapan seluruh umat manusia, dan Allah berfirman: 'Bacalah dan naiklah ke tingkatan surga!'-apakah engkau masih merasa lelah? Ingatlah tujuan akhirmu, Nak! Kelelahan di dunia ini hanya sebentar, namun kemuliaan di sisi Rabbmu abadi selama-lamanya."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Untuk Apa Engkau Bangun Pagi Ini, Anakku?* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Teleologi Hidup (Al-Ghayah)
 
 ```text
@@ -211,7 +219,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00103):
 - Status: DITERIMA & MENETAPKAN PRINSIP TELEOLOGI RABBANI (AL-GHAYAH AL-WUJUDIYYAH) KANONIK
 - Keputusan: Mengesahkan penegasan orientasi tujuan hidup transenden dalam ekosistem TUMBUH:
               1. Menolak klaim eksistensialisme absurd (nihilisme) dan menolak komersialisasi sekuler pendidikan.
-              2. Menegaskan Al-Ghayah Al-Wujudiyyah (ibadah, khilafah, dan ridha Ilahi) sebagai kompas penggerak seluruh aktivitas asrama 24 jam.
+              2. Menegaskan Al-Ghayah Al-Wujudiyyah (ibadah, pemakmuran bumi, dan ridha Ilahi) sebagai kompas penggerak seluruh aktivitas asrama 24 jam.
               3. Mewajibkan pembinaan motivasi intrinsik otonom berbasis akhirat dalam modul bimbingan santri.
 - Larangan: Mengharamkan pembentukan santri berorientasi materialistis murni dan mengharamkan pembiaran keputusasaan eksistensial.
 - Dampak: Terciptanya generasi santri bermental pejuang (himmah 'aliyyah), tangguh menghadapi kesulitan, dan fokus pada keabadian surga.
@@ -251,3 +259,4 @@ Penegasan Al-Ghayah adalah obor abadi yang menerangi perjalanan panjang seorang 
 ## Pertanyaan berikutnya — P00104
 
 **Uji Semantik Mandiri Istilah `'Ibadah`: Dari Sekadar Ritual Formal Menuju Kesadaran Hidup Total Santri.**
+

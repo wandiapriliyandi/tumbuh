@@ -203,13 +203,21 @@ Parameter inspeksi manajemen pagi pesantren:
 
 ---
 
-## 14. Dialog Kebapakan: "Matahari Telah Bersujud, Jangan Sampai Engkau Tertidur, Nak"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat musyrif kepada santri yang hendak kembali ke kasur sehabis shubuh:
-*"Ananda, lihatlah ufuk timur itu... matahari sedang merangkak naik memancarkan sinarnya untuk bertasbih memuji Allah. Burung-burung telah terbang meninggalkan sarangnya demi menjemput rezeki yang telah dihamparkan. Apakah engkau rela mengubur masa mudamu di balik selimut lusuh ini di saat para malaikat sedang membagikan berkah dan ampunan? Pagi ini adalah awal dari masa depanmu yang gemilang. Basuh wajahmu dengan air segar, tataplah cakrawala, dan katakan pada jiwamu: 'Hari ini aku hidup untuk mempersembahkan karya terbaik bagi agamaku!'."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Matahari Telah Bersujud, Jangan Sampai Engkau Tertidur, Nak* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik Ritme Fajar dan Dzikir Pagi
 
 ```text
@@ -257,3 +265,4 @@ Waktu fajar adalah pintu gerbang terbitnya kemuliaan dan keberkahan hidup seoran
 ## Pertanyaan berikutnya — P00094
 
 **Fenomenologi Ritme Spiritual 24 Jam (III): Filosofi Ghurub (Senja) dan Transisi Maghrib dalam Pemulihan Ketenangan Batin Santri.**
+

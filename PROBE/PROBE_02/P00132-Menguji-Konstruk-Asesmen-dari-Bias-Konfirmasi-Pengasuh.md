@@ -279,25 +279,21 @@ Master Auditor Kualitas TUMBUH menguji keandalan sistem asesmen melalui empat pa
 
 ---
 
-## 14. Dialog Kebapakan (Narasi Musyrif-Santri)
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-**Latar:**  
-Ruang Musyawarah Musyrif Pesantren TUMBUH menjelang senja. Ustadz Zulkifli (Master Auditor Pengasuhan, 48 tahun) sedang memegang buku catatan milik Ustadz Wildan (Musyrif Muda Asrama Salman Al-Farisi, 24 tahun).
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dinamika Relasi Musyrif dan Santri di Lapangan* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
 
-> **Ustadz Zulkifli:** *(Menatap Ustadz Wildan dengan pandangan teduh, membuka lembaran logbook)* "Ustadz Wildan... mari kita renungkan sejenak catatan kamarmu selama dua bulan terakhir ini. Ustadz perhatikan, nama Danis tercatat melakukan 24 kali pelanggaran kecil. Dari mulai sandal miring, mengantuk di halaqah, sampai terlambat mandi tiga menit. Tetapi mengapa tidak ada satu pun catatan kebaikannya yang tertulis di sini?"
->
-> **Ustadz Wildan:** *(Terdiam sejenak, membela diri pelan)* "Afwan Ustadz... Danis itu memang dari awal masuk sudah keras kepala. Kakaknya dulu juga alumni yang bermasalah. Saya mengamati dia setiap hari, gerak-geriknya selalu mencurigakan. Kalau tidak saya catat ketat, dia akan semakin liar."
->
-> **Ustadz Zulkifli:** *(Menarik napas panjang, meletakkan tangannya di atas tangan Ustadz Wildan)* "Ustadz Wildan, saudaraku yang dimuliakan Allah... dengarkan firman Allah ini baik-baik: *'Dan janganlah kebencianmu terhadap suatu kaum mendorongmu berlaku tidak adil'*. Apakah kamu sedang mencatat Danis, atau kamu sedang memburu kepuasan hatimu untuk membuktikan bahwa tebakanmu tentang Danis itu benar?"
->
-> **Ustadz Wildan:** *(Terperanjat, menundukkan kepala)* "Astaghfirullah..."
->
-> **Ustadz Zulkifli:** "Tadi siang Ustadz sengaja shalat di samping Danis. Seusai shalat, Ustadz melihat dia dengan sabar merapikan barisan sandal para asatidzah di pelataran masjid selama lima belas menit di bawah terik matahari, tanpa ada yang menyuruh, dan tanpa ia tahu ada yang melihatnya. Mengapa kebaikan seindah ini luput dari matamu, Wildan? Karena matamu telah dipenuhi oleh kabut prasangka. Hatimu hanya mencari celah salahnya. Jika seorang pendidik sudah terjebak bias konfirmasi, maka madrasah ini bukan lagi tempat tumbuh, melainkan ruang eksekusi jiwa. Maukah engkau membersihkan kacamata hatimu hari ini?"
->
-> **Ustadz Wildan:** *(Meneteskan air mata, mencium tangan Ustadz Zulkifli)* "Astaghfirullah al-'Azhim... jazakallah khairan katsiran Ustadz atas teguran keras ini. Sungguh saya telah zalim kepada Danis. Saya khilaf... bimbing saya agar menjadi pendidik yang adil."
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Standar Kanonik (ADR Lengkap)
 
 - **Nomor Keputusan:** ADR-PROBE-0132-2026
@@ -346,3 +342,4 @@ Asesmen dalam peradaban TUMBUH bukanlah instrumen audit kepolisian untuk mengump
 ## Pertanyaan berikutnya — P00133
 
 Bagaimana menjembatani jurang epistemik antargenerasi (*epistemic generation gap*) antara dewan pengasuh senior dengan santri generasi baru dalam memaknai adab, otoritas, dan ruang ekspresi di pesantren modern?
+

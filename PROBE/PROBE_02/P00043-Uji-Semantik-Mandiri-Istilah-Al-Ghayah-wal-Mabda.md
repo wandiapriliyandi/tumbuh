@@ -26,7 +26,7 @@ BUSUR EKSISTENSIAL AL-MABDA' DAN AL-GHAYAH DALAM TARBIYAH TUMBUH:
    [ AL-MASAR (JALUR PERJALANAN ASRAMA 24 JAM) ]
    - Kehidupan Asrama sebagai Mihrab Ibadah & Khidmah
    - Pembersihan Nafsu (Tazkiyah) & Penataan Adab
-   - Sinergi Menjadi 'Abdullah & Khalifah Fil Ardh
+   - Sinergi Menjadi 'Abdullah & Pemakmur Bumi Fil Ardh
                      │
                      ▼ Bermuara pada Titik Akhir Abadi
    [ AL-GHAYAH (TUJUAN AKHIR PERJALANAN INSAN) ] ──► Puncak Keridhaan Ilahi
@@ -196,13 +196,21 @@ Auditor memeriksa materi ajar:
 
 ---
 
-## 14. Dialog Kebapakan: "Ingatlah ke Mana Engkau Akan Pulang"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai saat melepas wisuda santri:
-*"Dunia ini luas, ananda. Terbanglah sejauh yang engkau mampu, jadilah pemimpin dan ahli ilmu yang menerangi semesta. Namun jangan pernah lupa: bumi ini bukan rumah abadimu. Rumah sejatimu adalah surga Allah; pastikan setiap langkah kakimu berderap menuju ke sana."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Ingatlah ke Mana Engkau Akan Pulang* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Audit Semantik Al-Ghayah wal Mabda'
 
 ```text
@@ -253,3 +261,4 @@ Al-Ghayah wal Mabda' adalah kompas agung yang menyelamatkan jiwa manusia dari ba
 ## Pertanyaan berikutnya — P00044
 
 **Uji Semantik Mandiri Istilah `Nidzam al-Wujud` (Keteraturan Kosmis dan Harmoni Ekosistem Pengasuhan).**
+

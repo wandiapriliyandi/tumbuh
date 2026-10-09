@@ -77,7 +77,7 @@ Dalam psikologi naratif (*Narrative Psychology*) dan filsafat moral (Alasdair Ma
 | Parameter Eksistensial | Pendekatan Terfragmentasi Postmodern (Kerdil) | Pendekatan Meta-Narasi TUMBUH (Agung) | Implementasi di Asrama 24 Jam |
 | :--- | :--- | :--- | :--- |
 | **Memandang Asal Usul Diri** | Produk kebetulan acak biologi tanpa tujuan awal (*no origin*). | Hamba Allah yang ruhnya berikrar di alam mitsaq (*Alastu bi Rabbikum*). | Menanamkan rasa berharga dan syukur atas anugerah wujud kehidupan. |
-| **Memandang Tugas Hidup** | Bertahan hidup, mencari kesenangan mikro, menghindari penderitaan. | Memikul amanah Khilafah: memakmurkan bumi dan menebar keadilan. | Santri dilatih menjadi inisiator perubahan sosial dan pejuang kebajikan. |
+| **Memandang Tugas Hidup** | Bertahan hidup, mencari kesenangan mikro, menghindari penderitaan. | Memikul amanah Ilahi: memakmurkan bumi dan menebar keadilan. | Santri dilatih menjadi inisiator perubahan sosial dan pejuang kebajikan. |
 | **Memandang Ujian & Sakit** | Kemalangan nasib yang sia-sia dan mengesalkan (*absurd pain*). | Tahapan pembersihan jiwa (*tamhish*) dan tangga kenaikan derajat di surga. | Santri menghadapi kesulitan belajar dengan sabar dan optimisme tinggi. |
 | **Memandang Akhir Sejarah** | Kemusnahan kosmis yang dingin tanpa makna (*cosmic void*). | Pengadilan Keadilan Sempurna (*Yawmul Qiyamah*) dan kemenangan Al-Haqq. | Seluruh amal kebaikan di asrama dicatat abadi dan dibalas berlipat ganda. |
 
@@ -170,7 +170,7 @@ Implementasi konkret di lingkungan santri:
 ## 11. Imutabilitas Keharaman Mengerdilkan Risalah Islam Menjadi Sekadar Urusan Privat
 
 Di repositori TUMBUH:
-- Diharamkan secara mutlak mendidik santri menjadi manusia apatis yang hanya peduli pada keshalihan ritual pribadi tanpa kepedulian terhadap nasib umat dan keadilan publik. Sikap apatis ini adalah pengkhianatan terhadap perintah amar ma'ruf nahi munkar dan sifat kepemimpinan khilafah.
+- Diharamkan secara mutlak mendidik santri menjadi manusia apatis yang hanya peduli pada keshalihan ritual pribadi tanpa kepedulian terhadap nasib umat dan keadilan publik. Sikap apatis ini adalah pengkhianatan terhadap perintah amar ma'ruf nahi munkar dan sifat kepemimpinan pelayan (*khidmah*).
 
 ---
 
@@ -187,7 +187,7 @@ TINGKATAN VISI HIDUP DI ASRAMA TUMBUH:
 [ LEVEL 3: ALTRUISME SOSIAL ]     ──► Aktif menolong sesama, peduli lingkungan sekitar (HASAN)
                  │
                  ▼
-[ LEVEL 4: KHALIFAH PERADABAN ]   ──► Mewakafkan hidup bagi tegaknya narasi agung Islam di semesta (PROFETIK)
+[ LEVEL 4: PENGGERAK PERADABAN ]   ──► Mewakafkan hidup bagi tegaknya narasi agung Islam di semesta (PROFETIK)
 ```
 
 ---
@@ -199,13 +199,21 @@ Auditor memeriksa orientasi bimbingan musyrif:
 
 ---
 
-## 14. Dialog Kebapakan: "Engkau Ditakdirkan Menjadi Elang yang Menembus Badai"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Pesan kiai kepada santri yang merasa minder menghadapi tantangan zaman:
-*"Ananda, ayam di kandang merasa puas hanya dengan mematuk remah-remah dedak di tanah; namun burung elang dilahirkan untuk terbang tinggi menembus badai petir menatap matahari. Jangan pernah kerdilkan jiwamu menjadi ayam yang hanya memikirkan perutnya sendiri. Engkau adalah elang peradaban Islam; kepakkan sayap iman dan ilmumu, terbanglah tinggi menaungi umat ini dari terik kezaliman, dan jangan pernah berhenti mengepak hingga engkau mendarat di pelataran surga Firdaus milik Tuhanmu."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Engkau Ditakdirkan Menjadi Elang yang Menembus Badai* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Penegasan Meta-Narasi Risalah Nabawiyyah
 
 ```text
@@ -214,7 +222,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00087):
 - Keputusan: Mengesahkan kritik penolakan terhadap kematian Meta-Narasi Lyotard dalam TUMBUH:
               1. Menolak klaim bahwa narasi agung telah mati dan menolak fragmentasi hidup mikro nihilistik.
               2. Menegaskan Risalah Islamiyah sebagai Satu-satunya Meta-Narasi Kosmis Sejati yang Universal dan Abadi.
-              3. Menetapkan Visi Khilafah Peradaban dan Khairu Ummah sebagai poros kurikulum pembinaan santri 24 jam.
+              3. Menetapkan Visi Penggerak Peradaban dan Khairu Ummah sebagai poros kurikulum pembinaan santri 24 jam.
 - Larangan: Mengharamkan apatisme sosial santri dan mengharamkan reduksionisme agama menjadi urusan privat belaka.
 - Dampak: Seluruh asrama TUMBUH wajib menerapkan Program Heroic Visioning dan Peta Sejarah Peradaban Islam.
 ```
@@ -252,3 +260,4 @@ Penegasan meta-narasi profetik menyalakan kembali api kejayaan di dalam jiwa san
 ## Pertanyaan berikutnya — P00088
 
 **Dekonstruksi Postmodernisme, Relativisme Moral, dan Nihilisme Nilai (III): Melawan Dekadensi Moral "Woke Culture" dan Menjaga Kesucian Fitrah Seksualitas.**
+

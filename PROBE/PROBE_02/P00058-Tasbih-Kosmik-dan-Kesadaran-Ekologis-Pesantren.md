@@ -23,7 +23,7 @@ DIAGRAM HARMONI EKOLOGIS SANTRI DAN ALAM DALAM TUMBUH:
                  ┌──────────────────┴──────────────────┐
                  ▼                                     ▼
         [ ALAM SEMESTA (KOSMOS) ]            [ MANUSIA (SANTRI) ]
-        - Bertasbih Tanpa Henti              - Mengemban Mandat Khalifah
+        - Bertasbih Tanpa Henti              - Mengemban Mandat Pemakmuran
         - Ayat Kauniyyah Ciptaan Allah       - Dituntut Menjaga Keseimbangan (Mizan)
         - Menjadi Sahabat Ruhani             - Dilarang Berbuat Fasad & Israf
                  │                                     │
@@ -130,7 +130,7 @@ TRAGEDI KELALAIAN EKOLOGIS DI ASRAMA DARUL KUMUH:
 
 ## 7. Validasi Turats: Nasihat Sayyidina Abu Bakar Ash-Shiddiq kepada Pasukan Militer
 
-Bahkan di medan perang sekalipun, Khalifah pertama Abu Bakar Ash-Shiddiq RA memberikan instruksi perlindungan lingkungan yang mencengangkan dunia:
+Bahkan di medan perang sekalipun, Amirul Mukminin Abu Bakar Ash-Shiddiq RA memberikan instruksi perlindungan lingkungan yang mencengangkan dunia:
 
 $$\text{لَا تَقْطَعُوا شَجَرًا مُثْمِرًا، وَلَا تُخَرِّبُوا عَامِرًا، وَلَا تَعْقِرُوا شَاةً وَلَا بَعِيرًا إِلَّا لِمَأْكَلَةٍ، وَلَا تُحْرِقُوا نَخْلًا وَلَا تُغْرِقُوهُ}$$
 
@@ -201,13 +201,21 @@ Auditor memeriksa secara berkala:
 
 ---
 
-## 14. Dialog Kebapakan: "Dengarkanlah Tasbih Dedaunan Ini"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai saat mengajak santri berjalan di kebun pondok saat fajar:
-*"Ananda, dengarkanlah gemerisik dedaunan yang disapa angin fajar ini. Mereka sedang bertasbih memuji Allah dengan bahasa yang tak engkau pahami. Jangan engkau patahkan rantingnya tanpa hak, jangan engkau kotori akarnya dengan sampah. Bersujudlah bersama mereka, jadilah hamba yang membawa damai bagi semesta."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Dengarkanlah Tasbih Dedaunan Ini* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Kesadaran Ekologis Tasbih Kosmik
 
 ```text
@@ -257,3 +265,4 @@ Tasbih kosmik adalah simfoni peradaban yang menyatukan dzikir di lisan santri de
 ## Pertanyaan berikutnya — P00059
 
 **Ujian Eksistensial (Ibtila' wa Tamhish) di Asrama: Mentransformasi Kesulitan Santri Menjadi Kematangan Karakter.**
+

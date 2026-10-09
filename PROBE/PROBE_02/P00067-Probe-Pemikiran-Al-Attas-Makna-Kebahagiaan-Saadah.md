@@ -207,13 +207,21 @@ Auditor memeriksa kesejahteraan psikologis asrama:
 
 ---
 
-## 14. Dialog Kebapakan: "Kebahagiaan Itu Ada di Dalam Hatimu Sendiri, Ananda"
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Nasihat kiai kepada santri yang mengeluhkan kesederhanaan menu makanan asrama:
-*"Ananda, orang yang paling kaya di muka bumi bukanlah orang yang memiliki lemari pakaian termahal atau memakan hidangan termewah; orang yang paling kaya dan paling bahagia adalah orang yang memiliki hati yang qana'ah, mampu tidur lelap tanpa membawa dendam kepada sesama, dan bangun subuh dengan lisan yang basah memuji kebesaran Tuhannya. Surga kebahagiaan itu ada di dalam dadamu; jangan pernah mencarinya di dalam etalase toko dunia yang fana."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Kebahagiaan Itu Ada di Dalam Hatimu Sendiri, Ananda* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Penetapan Filosofi Sa'adah Al-Attas dalam Asesmen Kesejahteraan
 
 ```text
@@ -260,3 +268,4 @@ Kebahagiaan dalam Islam adalah fajar kedamaian yang tak pernah terbenam:
 ## Pertanyaan berikutnya — P00068
 
 **Probe Pemikiran Ismail Raji Al-Faruqi (I): Tauhid sebagai Prinsip Utama Pandangan Alam dan Epistemologi.**
+

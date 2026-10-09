@@ -217,13 +217,21 @@ Pesantren TUMBUH menerapkan keadilan Qur'ani di dalam rumah tangganya sendiri:
 
 ---
 
-## 14. Dialog Kebapakan: Memadamkan Api Dendam Batin
+## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
 
-Ketika ada santri miskin yang merasa sakit hati karena pernah diejek oleh kawan sekamar:
-- Musyrif merangkulnya: *"Anakku, jangan biarkan racun dendam mengotori kalbumu yang suci. Kawanmu keliru dan sistem akan mendidiknya dengan adil. Buktikan kemuliaan dirimu dengan prestasi, akhlak, dan pemaafan yang agung. Jadilah seperti pohon yang dilempari batu namun membalasnya dengan menjatuhkan buah yang manis."*
+### A. Analisis Dinamika Relasi & Disonansi Pembinaan
+Penyelidikan pada fokus *Memadamkan Api Dendam Batin* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
+1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
+2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
+3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+
+### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
+Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
+1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
+2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
+3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
 
 ---
-
 ## 15. Decision Record: Dekonstruksi Kanonik Marxisme dan Teori Kritis
 
 ```text
@@ -273,3 +281,4 @@ Keadilan sejati tidak pernah lahir dari rahim dendam materialisme Karl Marx, mel
 ## Pertanyaan berikutnya — P00026
 
 **Dekonstruksi Postmodernisme & Dekonstruksionisme Derrida: Menolak Relativisme Moral dan Penafian Kebenaran Mutlak.**
+
