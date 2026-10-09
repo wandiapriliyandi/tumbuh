@@ -132,11 +132,11 @@ Di Asrama Al-Kindi, Santri Z (kelas 10, peraih medali olimpiade fisika) bertanya
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Sahar (Muhasabah Nalar):** Santri diajak merenungkan keteraturan orbit bintang dan pergantian malam-siang sebagai bukti keesaan Allah (*Al-Burhan Al-Inni wal Limmi*).
 - **KBM Siang (Harmoni Materi):** Pelajaran matematika dan IPA diajarkan sebagai bagian dari ibadah mengagumi hukum sunnatullah, menghapus dikotomi ilmu agama versus ilmu umum.
-- **Kemandirian Berpikir (J3 ke J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih menyusun esai kritis yang membantah ateisme kontemporer menggunakan argumen burhani turats dan sains mutakhir.
+- **Kemandirian Berpikir (Tahap Menengah ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh** dilatih menyusun esai kritis yang membantah ateisme kontemporer menggunakan argumen burhani turats dan sains mutakhir.
 
 ---
 

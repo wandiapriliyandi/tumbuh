@@ -157,7 +157,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00212):
 - Keputusan:
   1. Menetapkan definisi kanonik Al-'Aql as-Salim: "Daya pikir analitis kritis fitrah yang terikat
      secara sukarela pada petunjuk wahyu dan berorientasi pada pencapaian ridha Allah."
-  2. Mewajibkan kurikulum Logika Adab (Mantiq Terapan) dan Metode Riset Kritis bagi santri J2-J4.
+  2. Mewajibkan kurikulum Logika Adab (Mantiq Terapan) dan Metode Riset Kritis bagi santri tahap transisi-Tahap Mandiri Penuh.
   3. Mengharamkan pembungkaman rasa ingin tahu santri dengan dalih "dilarang banyak tanya".
 - Konsekuensi: Menghasilkan profil lulusan santri yang berpikiran tajam, saintifik, berdaya cipta tinggi,
                namun memiliki ketundukan spiritual yang mutlak di hadapan syariat Islam.

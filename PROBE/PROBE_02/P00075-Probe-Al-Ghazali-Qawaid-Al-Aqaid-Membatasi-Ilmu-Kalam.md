@@ -83,9 +83,9 @@ Dalam psikologi kognitif dan ilmu komunikasi modern:
 
 | Tingkatan Audiens Santri | Pendekatan Teologis TUMBUH | Porsi Ilmu Kalam | Fokus Pembinaan Utama di Asrama |
 | :--- | :--- | :--- | :--- |
-| **Mayoritas Santri (J1–J3 / Awam)** | **Akidah Qur'aniyyah Salafiyyah**: Membaca Al-Qur'an, tadabbur semesta, zikir Asmaul Husna. | **0% (Diharamkan)**: Tidak boleh terpapar dialektika kalam dan istilah jauhar-'aradh. | Pembiasaan shalat khusyuk, adab kamar, birrul walidain, dan kebersihan diri. |
+| **Mayoritas Santri (Tahap Awal–Tahap Mandiri Awal / Awam)** | **Akidah Qur'aniyyah Salafiyyah**: Membaca Al-Qur'an, tadabbur semesta, zikir Asmaul Husna. | **0% (Diharamkan)**: Tidak boleh terpapar dialektika kalam dan istilah jauhar-'aradh. | Pembiasaan shalat khusyuk, adab kamar, birrul walidain, dan kebersihan diri. |
 | **Santri Mengalami Keraguan Batin (Krisis Syubhat)** | **Konseling Akidah Empat Mata**: Menjawab keraguan secara personal dengan dalil yang tepat. | **Dosis Terukur Terbatas**: Hanya diberikan jawaban spesifik sesuai penyakit keraguannya. | De-eskalasi kecemasan, pendampingan musyrif senior, doa pemulihan fitrah. |
-| **Santri Tingkat Lanjut (J4 Khusus Peneliti)** | **Kajian Kritis Kalam Defensif**: Membedah metodologi kalam untuk membentengi umat dari ateisme. | **Terkontrol Bersanad**: Mempelajari kalam tingkat tinggi di bawah bimbingan guru mursyid. | Riset ilmiah tandingan ateisme modern, penulisan karya ilmiah, adab tawadhu'. |
+| **Santri Tingkat Lanjut (Tahap Mandiri Penuh Khusus Peneliti)** | **Kajian Kritis Kalam Defensif**: Membedah metodologi kalam untuk membentengi umat dari ateisme. | **Terkontrol Bersanad**: Mempelajari kalam tingkat tinggi di bawah bimbingan guru mursyid. | Riset ilmiah tandingan ateisme modern, penulisan karya ilmiah, adab tawadhu'. |
 
 ---
 
@@ -221,9 +221,9 @@ Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 
 CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00075):
 - Status: DITERIMA & MENETAPKAN PRINSIP PROTEKSI AKIDAH AWAM KANONIK
 - Keputusan: Mengesahkan kaidah pembatasan ilmu kalam Kitab Qawa'id Al-'Aqa'id Imam Al-Ghazali dalam TUMBUH:
-              1. Menolak eksploitasi perdebatan ilmu kalam di kalangan santri awam dan pemula (J1–J3).
+              1. Menolak eksploitasi perdebatan ilmu kalam di kalangan santri awam dan pemula (Tahap Awal–Tahap Mandiri Awal).
               2. Menolak pengabaian total terhadap kalam pertahanan; menetapkannya sebagai fardhu kifayah
-                 khusus bagi kader peneliti terpilih di jenjang akhir (J4) untuk membendung ateisme modern.
+                 khusus bagi kader peneliti terpilih di jenjang akhir (Tahap Mandiri Penuh) untuk membendung ateisme modern.
               3. Menetapkan Akidah Qur'aniyyah berbasis tadabbur semesta dan zikir sebagai makanan pokok seluruh santri.
 - Larangan: Mengharamkan khutbah/ceramah umum yang memuat perdebatan kalam sektarian rumit di hadapan santri.
 - Dampak: Seluruh buku teks aqidah santri di asrama 24 jam difokuskan pada penanaman iman hidup dan pembersihan jiwa.

@@ -126,10 +126,10 @@ Di Asrama Al-Qayrawan, Kamar 12 dihuni oleh 8 santri: 4 santri berasal dari kelu
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Shalat Berjamaah Subuh:** Menegakkan adab: jika imam qunut, makmum mengaminkan dengan santun; jika imam tidak qunut, makmum sujud bersama tanpa menggerutu. Santri diajarkan adab kebersamaan saf shalat.
-- **Transisi Kedewasaan (J1 ke J4):** Santri jenjang **J1 (Pondasi)** diajarkan mempraktikkan fikih dasarnya dengan tenang; santri jenjang **J4 (Mandiri Penuh)** dilatih memoderasi diskusi fiqih perbandingan dan menjadi jembatan ukhuwah di asrama.
+- **Transisi Kedewasaan (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** diajarkan mempraktikkan fikih dasarnya dengan tenang; santri jenjang **Tahap Mandiri Penuh** dilatih memoderasi diskusi fiqih perbandingan dan menjadi jembatan ukhuwah di asrama.
 - **Malam Keakraban Akhir Pekan:** Menggelar pentas seni dan jamuan bersama yang merayakan keberagaman asal daerah dan tradisi nusantara dalam bingkai akidah tauhid yang satu.
 
 ---

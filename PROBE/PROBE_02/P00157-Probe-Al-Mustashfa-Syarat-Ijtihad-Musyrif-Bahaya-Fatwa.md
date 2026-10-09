@@ -126,10 +126,10 @@ Di Asrama Al-Biruni, Santri Y (kelas 10) memiliki bakat luar biasa dalam melukis
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
-- **Ba'da Ashar (Halaqah Adab):** Musyrif fokus membacakan kitab adab praktis (*Taisirul Khalaq* atau *Adabul Alim wal Muta'allim*) tanpa menambah-nambahi tafsiran spekulatif pribadi yang membingungkan santri jenjang **J1 (Pondasi)**.
-- **Malam Hari (Diskusi Santri Senior):** Santri jenjang **J4 (Mandiri Penuh)** diajarkan metodologi perbandingan madzhab secara objektif agar mereka terbiasa berlapang dada menghadapi perbedaan pendapat fikih di masyarakat.
+- **Ba'da Ashar (Halaqah Adab):** Musyrif fokus membacakan kitab adab praktis (*Taisirul Khalaq* atau *Adabul Alim wal Muta'allim*) tanpa menambah-nambahi tafsiran spekulatif pribadi yang membingungkan santri jenjang **Tahap Awal (Pondasi)**.
+- **Malam Hari (Diskusi Santri Senior):** Santri jenjang **Tahap Mandiri Penuh** diajarkan metodologi perbandingan madzhab secara objektif agar mereka terbiasa berlapang dada menghadapi perbedaan pendapat fikih di masyarakat.
 - **Rapat Koordinasi Mingguan:** Evaluasi terhadap ucapan dan nasihat musyrif selama sepekan untuk memastikan tidak ada fatwa-fatwa liar yang meresahkan kehidupan asrama.
 
 ---

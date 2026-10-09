@@ -94,7 +94,7 @@ Abu Bakar mendudukkan istiqamah pertama-tama pada kemurnian tauhid dan keikhlasa
 
 
 
-Sementara itu, Khalifah Umar bin Al-Khattab radhiyallahu 'anhu memberikan penegasan moral yang tajam:
+Sementara itu, Amirul Mukminin Umar bin Al-Khattab radhiyallahu 'anhu memberikan penegasan moral yang tajam:
 
 
 
@@ -196,7 +196,7 @@ MODEL PENDISTRIBUSIAN PROGRESI ISTIQAMAH TUMBUH:
 
 
 
-       [ TAHAP AWAL (J1): PEMBIASAAN DENGAN PENDAMPINGAN AFATIF ]
+       [ TAHAP AWAL (Tahap Awal): PEMBIASAAN DENGAN PENDAMPINGAN AFATIF ]
 
        Fokus: Membangun kenyamanan ritme harian; penguatan motivasi intrinsik;
 
@@ -206,7 +206,7 @@ MODEL PENDISTRIBUSIAN PROGRESI ISTIQAMAH TUMBUH:
 
                                   ▼
 
-       [ TAHAP PENENGAHAN (J2-J3): INTERNALISASI MAKNA & MURAQABAH ]
+       [ TAHAP PENENGAHAN (Tahap Menengah): INTERNALISASI MAKNA & MURAQABAH ]
 
        Fokus: Memahami hikmah di balik setiap adab; refleksi harian berkala;
 
@@ -216,7 +216,7 @@ MODEL PENDISTRIBUSIAN PROGRESI ISTIQAMAH TUMBUH:
 
                                   ▼
 
-       [ TAHAP LANJUT (J4): KEMANDIRIAN MORAL & KEPEMIMPINAN ADAB ]
+       [ TAHAP LANJUT (Tahap Mandiri Penuh): KEMANDIRIAN MORAL & KEPEMIMPINAN ADAB ]
 
        Fokus: Istiqamah lahir dari kesadaran tauhid; santri menjadi teladan
 

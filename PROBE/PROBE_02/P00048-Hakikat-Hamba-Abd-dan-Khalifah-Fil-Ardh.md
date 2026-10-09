@@ -145,11 +145,11 @@ Dalam SW-PBIS TUMBUH:
 
 ---
 
-## 10. Penerapan Lapangan Asrama 24 Jam: Program Khidmah Berjenjang (J1 - J4)
+## 10. Penerapan Lapangan Asrama 24 Jam: Program Khidmah Berjenjang Berdasarkan Tahap Kematangan
 
 Di kurikulum kepengasuhan TUMBUH:
-1. Santri Jenjang 1 (J1): Fokus pada kematangan peran 'Abdullah (kemandirian pribadi, adab melayani diri sendiri).
-2. Santri Jenjang 4 (J4): Diberi amanah peran kepemimpinan khidmah (membimbing adik kelas, menginisiasi proyek wakaf lingkungan).
+1. Santri Tahap Awal: Fokus pada kematangan peran 'Abdullah (kemandirian pribadi, adab melayani diri sendiri).
+2. Santri Tahap Mandiri Akhir: Diberi amanah peran kepemimpinan khidmah (membimbing adik kelas, menginisiasi proyek wakaf lingkungan).
 
 ---
 

@@ -12,7 +12,7 @@ Hujjatul Islam Imam Abu Hamid Al-Ghazali dalam kitab monumentalnya *Ihya' 'Ulumi
 3. **Al-Istidlal al-Basith (Pembuktian Nalar Sederhana & Tadabbur Semesta)**: Menopang keyakinan tersebut dengan mengamati ayat-ayat kauniyyah dan keajaiban alam semesta.
 4. **At-Tahqiq wa al-Kasyf (Penyingkapan Rasa Iman Hakiki / Dzawq)**: Puncak di mana iman menghunjam ke dasar kalbu melalui amal shalih, mujahadatun nafs, dan cahaya ma'rifatullah.
 
-Bagaimana TUMBUH membedah **Kitab Qawa'id Al-'Aqa'id Ihya 'Ulumiddin tentang Tahapan Menanamkan Iman pada Anak (Talqin, Taqlid, Istidlal, Tahqiq)**? **Bagaimana merumuskan kurikulum progresi akidah di asrama pesantren (J1–J4) yang selaras dengan sunnatullah perkembangan usia anak—sehingga pembelajaran akidah menjadi pengalaman ruhani yang mengalir alami, memikat akal budi, dan mengakar kokoh menjadi benteng kepribadian santri sepanjang masa?**
+Bagaimana TUMBUH membedah **Kitab Qawa'id Al-'Aqa'id Ihya 'Ulumiddin tentang Tahapan Menanamkan Iman pada Anak (Talqin, Taqlid, Istidlal, Tahqiq)**? **Bagaimana merumuskan kurikulum progresi akidah di asrama pesantren (Tahap Awal hingga Tahap Lanjut) yang selaras dengan sunnatullah perkembangan usia anak—sehingga pembelajaran akidah menjadi pengalaman ruhani yang mengalir alami, memikat akal budi, dan mengakar kokoh menjadi benteng kepribadian santri sepanjang masa?**
 
 ```text
 DIKOTOMI METODOLOGI PENGAJARAN AKIDAH ANAK:
@@ -82,10 +82,10 @@ Dalam psikologi perkembangan kognitif dan teori belajar modern:
 
 | Jenjang Santri | Tahapan Al-Ghazali | Karakteristik Kognitif & Ruhani | Desain Pembelajaran & Asrama TUMBUH | Output Karakter yang Terbentuk |
 | :--- | :--- | :--- | :--- | :--- |
-| **Jenjang J1 (Usia 11-13 Tahun)** | **At-Talqin & At-Taqlid** | Meniru figur idola; menyerap hafalan teks dengan cepat; butuh keteladanan nyata. | Mendengarkan kisah-kisah nabi dan sahabat; melafalkan Asmaul Husna; melihat musyrif yang khusyuk shalat. | Cinta kepada Allah dan Rasul-Nya; senang shalat berjamaah. |
-| **Jenjang J2 (Usia 14-15 Tahun)** | **Al-Fahm & Al-Istidlal al-Basith** | Mulai bertanya "mengapa"; nalar kritis mulai aktif; peka terhadap fenomena alam. | Tadabbur sains dan keteraturan alam semesta; mengaitkan rumus biologi/fisika dengan kekuasaan Khaliq. | Keyakinan rasional yang kokoh; bangga menjadi muslim terpelajar. |
-| **Jenjang J3 (Usia 16-17 Tahun)** | **At-Tahsin bil A'mal wa al-Mujahadah** | Gejolak emosi masa pubertas; pencarian identitas jati diri; butuh jangkar moral. | Latihan qiyamullail sepertiga malam; puasa sunnah; khidmat sosial melayani adik kelas di asrama. | Kepekaan kalbu (*dzawq*); kontrol diri menghadapi godaan syahwat. |
-| **Jenjang J4 (Usia 18 Tahun)** | **At-Tahqiq wa al-Ma'rifah** | Kematangan berpikir abstrak; kesiapan memimpin dan memikul tanggung jawab dakwah. | Kajian kritis syarah akidah komparatif; penulisan karya ilmiah tauhid; muhasabah muraqabah mandiri. | Keteguhan akidah (*istiqamah*); kematangan Insan Kamil yang beradab. |
+| **jenjang tahap awal (Usia 11-13 Tahun)** | **At-Talqin & At-Taqlid** | Meniru figur idola; menyerap hafalan teks dengan cepat; butuh keteladanan nyata. | Mendengarkan kisah-kisah nabi dan sahabat; melafalkan Asmaul Husna; melihat musyrif yang khusyuk shalat. | Cinta kepada Allah dan Rasul-Nya; senang shalat berjamaah. |
+| **jenjang transisi (Usia 14-15 Tahun)** | **Al-Fahm & Al-Istidlal al-Basith** | Mulai bertanya "mengapa"; nalar kritis mulai aktif; peka terhadap fenomena alam. | Tadabbur sains dan keteraturan alam semesta; mengaitkan rumus biologi/fisika dengan kekuasaan Khaliq. | Keyakinan rasional yang kokoh; bangga menjadi muslim terpelajar. |
+| **jenjang mandiri awal (Usia 16-17 Tahun)** | **At-Tahsin bil A'mal wa al-Mujahadah** | Gejolak emosi masa pubertas; pencarian identitas jati diri; butuh jangkar moral. | Latihan qiyamullail sepertiga malam; puasa sunnah; khidmat sosial melayani adik kelas di asrama. | Kepekaan kalbu (*dzawq*); kontrol diri menghadapi godaan syahwat. |
+| **jenjang mandiri penuh (Usia 18 Tahun)** | **At-Tahqiq wa al-Ma'rifah** | Kematangan berpikir abstrak; kesiapan memimpin dan memikul tanggung jawab dakwah. | Kajian kritis syarah akidah komparatif; penulisan karya ilmiah tauhid; muhasabah muraqabah mandiri. | Keteguhan akidah (*istiqamah*); kematangan Insan Kamil yang beradab. |
 
 ---
 
@@ -149,8 +149,8 @@ Dalam neurobiologi perkembangan emosi dan memori:
 
 Dalam SW-PBIS TUMBUH:
 - **Perancah Perilaku Berbasis Usia (*Developmental Behavioral Scaffolding*):** 
-  - Santri J1 dipandu dengan pembiasaan ritme harian yang menyenangkan dan penuh pujian afirmatif.
-  - Santri J4 dipandu dengan refleksi integritas moral mandiri dan tanggung jawab sosial membimbing adik kelas.
+  - santri tahap awal dipandu dengan pembiasaan ritme harian yang menyenangkan dan penuh pujian afirmatif.
+  - santri tahap mandiri dipandu dengan refleksi integritas moral mandiri dan tanggung jawab sosial membimbing adik kelas.
 - Menghindari tuntutan kematangan instan yang tidak realistis terhadap anak baru gede di asrama.
 
 ---
@@ -158,16 +158,16 @@ Dalam SW-PBIS TUMBUH:
 ## 10. Penerapan Lapangan Asrama 24 Jam: Mengintegrasikan Halaqah Iman dan Ruang Tidur
 
 Implementasi konkret di lingkungan santri:
-1. **Dongeng Siroh Pra-Tidur (Nightly Prophetic Bedtime Stories)**: Musyrif mendatangi kamar santri J1 setiap malam selama 15 menit sebelum tidur untuk menceritakan kisah-kisah keteladanan para nabi dan sahabat yang menyejukkan hati.
-2. **Karya Tadabbur Alam Mingguan**: Santri J2 diwajibkan menulis satu lembar jurnal refleksi mingguan: *"Keajaiban ciptaan Allah apa yang paling membuatku kagum pekan ini?"*
-3. **Malam Khalwat Dzikir Santri Senior**: Santri J3 dan J4 memiliki jadwal tahajjud mandiri terpantau untuk melatih kemesraan munajat bersama Allah di mihrab masjid.
+1. **Dongeng Siroh Pra-Tidur (Nightly Prophetic Bedtime Stories)**: Musyrif mendatangi kamar santri tahap awal setiap malam selama 15 menit sebelum tidur untuk menceritakan kisah-kisah keteladanan para nabi dan sahabat yang menyejukkan hati.
+2. **Karya Tadabbur Alam Mingguan**: santri tahap transisi diwajibkan menulis satu lembar jurnal refleksi mingguan: *"Keajaiban ciptaan Allah apa yang paling membuatku kagum pekan ini?"*
+3. **Malam Khalwat Dzikir Santri Senior**: santri tahap menengah dan Tahap Mandiri Penuh memiliki jadwal tahajjud mandiri terpantau untuk melatih kemesraan munajat bersama Allah di mihrab masjid.
 
 ---
 
 ## 11. Imutabilitas Keharaman Memaksakan Perdebatan Kalam Ekstrem pada Anak
 
 Di repositori TUMBUH:
-- Diharamkan secara mutlak mengajarkan perdebatan sekte-sekte teologi kalam, bantahan filsafat rumit, dan istilah-istilah logika silogisme yang membingungkan kepada santri di bawah usia 15 tahun (J1 dan J2). Pendidik yang melanggar ditegur karena merusak tahapan fitrah anak.
+- Diharamkan secara mutlak mengajarkan perdebatan sekte-sekte teologi kalam, bantahan filsafat rumit, dan istilah-istilah logika silogisme yang membingungkan kepada santri di bawah usia 15 tahun (Tahap Awal dan Tahap Transisi). Pendidik yang melanggar ditegur karena merusak tahapan fitrah anak.
 
 ---
 
@@ -219,7 +219,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00074):
 - Keputusan: Mengesahkan metodologi penanaman iman 4 Tahap Kitab Qawa'id Al-'Aqa'id Imam Al-Ghazali dalam TUMBUH:
               1. Menolak skolastisisme kalam instan yang memaksakan logika rumit kepada santri usia dini.
               2. Menolak pengajaran akidah yang memisahkan materi tauhid dari keteladanan amal dan kelembutan adab.
-              3. Menetapkan progresi alami: Talqin dan Taqlid pada J1, Istidlal Basith pada J2-J3, dan Tahqiq pada J4.
+              3. Menetapkan progresi alami: Talqin dan Taqlid pada Tahap Awal, Istidlal Basith pada Tahap Menengah, dan Tahqiq pada Tahap Mandiri Penuh.
 - Larangan: Mengharamkan materi perdebatan teologi kalam ekstrem bagi santri di bawah usia 15 tahun.
 - Dampak: Seluruh silabus mata pelajaran aqidah pesantren asrama 24 jam dirombak mengikuti 4 Tahapan Al-Ghazali.
 ```
@@ -229,7 +229,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00074):
 ## 16. Implikasi bagi Repositori TUMBUH
 
 Penyelidikan P00074 ini mengikat:
-1. **`01_FUNDAMENTAL/`**: Bab *Pedagogi Fitrah: Tahapan Penanaman Iman, Metodologi Al-Ghazali, dan Matriks Progresi J1–J4*.
+1. **`01_FUNDAMENTAL/`**: Bab *Pedagogi Fitrah: Tahapan Penanaman Iman, Metodologi Al-Ghazali, dan Matriks Progresi Tahap Awal hingga Tahap Lanjut*.
 2. **`03_OPERATIONAL/`**: Silabus Pembelajaran Aqidah Bertahap, SOP Dongeng Siroh Pra-Tidur Asrama, dan Panduan Jurnal Tadabbur Alam Santri.
 
 ---

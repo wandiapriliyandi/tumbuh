@@ -130,11 +130,11 @@ Di Asrama Al-Majriti, pengurus menyelenggarakan agenda tahunan "Pekan Prestasi S
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Transisi Siang (12.30 – 14.00):** Menegakkan waktu makan siang dan istirahat sejenak (*qoilulah*) sebagai hak hajiyyat yang tidak boleh dipotong oleh rapat pengurus atau tugas tambahan santri.
 - **Transisi Sore (17.00 – 18.00):** Menjaga jeda senja sebelum Maghrib sebagai waktu persiapan spiritual yang tenang, bebas dari hiruk-pikuk aktivitas fisik yang melelahkan.
-- **Kemandirian Pengaturan Waktu (J1 ke J4):** Santri jenjang **J1 (Pondasi)** dibimbing menaati jadwal dasar; santri jenjang **J4 (Mandiri Penuh)** dilatih menyusun *Personal Time Budget* berbasis skala prioritas dharuriyyat-hajiyyat-tahsiniyyat.
+- **Kemandirian Pengaturan Waktu (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** dibimbing menaati jadwal dasar; santri jenjang **Tahap Mandiri Penuh** dilatih menyusun *Personal Time Budget* berbasis skala prioritas dharuriyyat-hajiyyat-tahsiniyyat.
 
 ---
 

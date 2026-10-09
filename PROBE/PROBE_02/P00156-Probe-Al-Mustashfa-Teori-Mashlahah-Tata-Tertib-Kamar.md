@@ -136,10 +136,10 @@ Di Asrama Al-Khawarizmi, Musyrif Kamar 3 membuat aturan internal baru: *"Demi me
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Siang Hari (Qoilulah 13.00 – 14.00):** Menjaga maslahat istirahat sejenak (*qoilulah*) untuk memulihkan energi otak santri sebelum kegiatan sore; musyrif dilarang menggunakan waktu ini untuk hukuman piket tambahan.
-- **Sore Hari (Kebersihan Kamar):** Santri jenjang **J1 (Pondasi)** diajarkan langkah teknis mencuci piring dan melipat baju, sedangkan santri jenjang **J3 (Mandiri Awal)** memimpin audit kebersihan kamar secara mandiri.
+- **Sore Hari (Kebersihan Kamar):** Santri jenjang **Tahap Awal (Pondasi)** diajarkan langkah teknis mencuci piring dan melipat baju, sedangkan santri jenjang **Tahap Mandiri Awal** memimpin audit kebersihan kamar secara mandiri.
 - **Malam Hari (Jam Malam 22.00):** Menegakkan batas ketenangan (*quiet hours*) kamar demi melindungi maslahat hak tidur seluruh santri tanpa terkecuali.
 
 ---

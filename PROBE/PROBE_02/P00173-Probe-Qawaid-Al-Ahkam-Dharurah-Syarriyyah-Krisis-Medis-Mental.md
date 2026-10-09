@@ -132,10 +132,10 @@ Di Asrama Al-Baqillani, Santri T (kelas 8) memiliki riwayat alergi kacang parah 
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Manajemen Obat Rutin:** Santri yang mengonsumsi obat resep psikiater atau obat kronis lainnya menitipkan obat di klinik asrama dan meminumnya di hadapan perawat klinik untuk mencegah penyalahgunaan (*safeguarding protocol*).
-- **Kemandirian Mengelola Kesehatan (J1 ke J4):** Santri jenjang **J1 (Pondasi)** diawasi penuh oleh musyrif; santri jenjang **J4 (Mandiri Penuh)** dilatih mengenali gejala awal kelelahan atau kambuhnya penyakit teman sekamar dan sigap melapor ke klinik.
+- **Kemandirian Mengelola Kesehatan (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** diawasi penuh oleh musyrif; santri jenjang **Tahap Mandiri Penuh** dilatih mengenali gejala awal kelelahan atau kambuhnya penyakit teman sekamar dan sigap melapor ke klinik.
 - **Pemeriksaan Suhu & Triage Fajar:** Santri yang tidak mampu bangun Subuh karena demam tinggi langsung diperiksa oleh perawat asrama sebelum jam shalat selesai untuk memisahkan antara kondisi darurat medis dan kemalasan tidur.
 
 ---

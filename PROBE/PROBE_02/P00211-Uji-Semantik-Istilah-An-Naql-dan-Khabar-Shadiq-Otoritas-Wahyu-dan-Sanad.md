@@ -162,7 +162,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00211):
            relativisme post-truth, dan maraknya hoaks digital di kalangan santri generasi baru.
 - Keputusan:
   1. Menegaskan An-Naql (Al-Qur'an dan Sunnah Sahihah) sebagai sumber epistemik kanonik tertinggi lembaga.
-  2. Mewajibkan kurikulum Takhrij Hadits dan Verifikasi Sanad bagi seluruh santri jenjang mandiri (J3-J4).
+  2. Mewajibkan kurikulum Takhrij Hadits dan Verifikasi Sanad bagi seluruh santri jenjang mandiri (Tahap Mandiri Awal-Tahap Mandiri Penuh).
   3. Mengadopsi Protokol Verifikasi Informasi Asrama (Anti-Hoaks) dalam kehidupan harian 24 jam.
 - Konsekuensi: Menjaga kemurnian akidah dan syariat santri, menumbuhkan nalar kritis berbasis sanad,
                dan membentengi peradaban pesantren dari racun relativisme pasca-kebenaran modern.

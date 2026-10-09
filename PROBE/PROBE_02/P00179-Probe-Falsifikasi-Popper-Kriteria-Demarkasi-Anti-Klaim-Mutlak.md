@@ -132,10 +132,10 @@ Di Asrama Al-Maghili, Koordinator Bahasa mewajibkan metode "Kalung Sandal Pelang
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Evaluasi Dwi-Mingguan Halaqah:** Musyrif menguji efektivitas metode bimbingan halaqahnya: jika santri tampak lesu dan bosan, musyrif mengakui bahwa gaya mengajarnya perlu diubah, bukan menyalahkan santri mengantuk.
-- **Kemandirian Berpikir Kritis Santri (J3 ke J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih menyusun proyek penelitian mini untuk menguji efektivitas tata tertib kamar tidur mereka sendiri menggunakan metode ilmiah Popperian.
+- **Kemandirian Berpikir Kritis Santri (Tahap Menengah ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh** dilatih menyusun proyek penelitian mini untuk menguji efektivitas tata tertib kamar tidur mereka sendiri menggunakan metode ilmiah Popperian.
 - **Kultur Apresiasi Kritik:** Memberikan penghargaan kepada santri atau musyrif yang berhasil menunjukkan kelemahan suatu SOP secara argumentatif dan berbasis data lapangan yang valid.
 
 ---

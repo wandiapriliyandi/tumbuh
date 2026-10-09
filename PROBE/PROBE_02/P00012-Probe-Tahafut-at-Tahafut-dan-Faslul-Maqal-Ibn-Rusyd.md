@@ -134,7 +134,7 @@ STUDI KASUS PEMBELAJARAN ASTRONOMI DI DUA KELAS PESANTREN:
 
 Ibn Rusyd memperingatkan bahaya menyampaikan takwil filosofis rumit kepada mereka yang belum siap kognisinya:
 - Menyampaikan perdebatan filsafat berat kepada santri tingkat awal (usia 12-14 tahun) yang fondasi imannya belum kokoh hanya akan memicu keraguan dan kebingungan (*fitnah*).
-- Kurikulum TUMBUH menerapkan **tahapan berjenjang (J1–J4)**:
+- Kurikulum TUMBUH menerapkan **tahapan kematangan berjenjang**:
   - Jenjang Pemula: Pembiasaan amal, kisah teladan, dan aqidah tauhid yang menentramkan jiwa.
   - Jenjang Lanjut: Pelatihan manthiq, perbandingan mazhab, kritik filsafat, dan metodologi burhani.
 

@@ -247,7 +247,22 @@ Ketika krisis besar terjadi di pesantren (misalnya: perkelahian massal, kasus ke
 
 ---
 
-## 15. Implikasi Arsitektural bagi Repositori TUMBUH
+## 15. Catatan Keputusan Arsitektural (ADR-P00000)
+
+```text
+CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00000):
+- Status: DITERIMA SEBAGAI LANDASAN ONTOLOGIS PENYELIDIKAN TUMBUH
+- Konteks: Menjawab skeptisisme bahwa pesantren cukup menjalankan rutinitas fiqh dan tradisi tanpa perlu filosofi.
+- Keputusan:
+  1. Menetapkan bahwa lembaga pengasuhan mutlak membutuhkan fondasi filosofi (Al-Hikmah) yang eksplisit.
+  2. Menolak formalisme fiqh mekanistik yang mematikan jiwa dan menolak manajemen teknokratik sekuler tanpa ruh.
+  3. Menjadikan filosofi sebagai kompas pengendali seluruh tata tertib, SOP musyrif, dan relasi santri.
+- Konsekuensi: Pembukaan penyelidikan komprehensif PROBE untuk merumuskan seluruh bangunan sistem TUMBUH v2.0.0.
+```
+
+---
+
+## 16. Implikasi Arsitektural bagi Repositori TUMBUH
 
 Penyelidikan P00000 ini mengikat secara sistemik ke dalam tiga lapisan repositori:
 
@@ -260,7 +275,7 @@ Penyelidikan P00000 ini mengikat secara sistemik ke dalam tiga lapisan repositor
 
 ---
 
-## 16. Sintesis Epistemik & Batas Negatif (Guardrails) Penyelidikan
+## 17. Sintesis Epistemik & Batas Negatif (Guardrails) Penyelidikan
 
 Lembaga pengasuhan tidak pernah bisa memilih untuk "tidak berfilosofi". Lembaga yang mengklaim tidak memiliki filosofi sebetulnya sedang menjalankan filosofi terburuk secara diam-diam: **filosofi kepasrahan buta pada kebiasaan (*unconscious fatalism*)**.
 
@@ -281,9 +296,8 @@ Tradisi adalah lentera yang menyala dari masa lalu, namun rutinitas tanpa jiwa a
 
 ---
 
-## Alur Inquiry Berikutnya — Menuju P00001
+## Pertanyaan berikutnya — P00001
 
-Jika lembaga pengasuhan mutlak memerlukan landasan filosofis, maka dari mana penyelidikan filosofis itu harus bermula?
+**Dari Mana Penyelidikan Filosofi TUMBUH Bermula: Dari Wahyu, Teks Turats, Realitas Lapangan Asrama, ataukah Masalah Santri?**
 
-Apakah ia harus ditarik dari puncak deduksi teologis wahyu (*wahy*), digali dari teks-teks khazanah turats ulama, dipetik dari akumulasi pengalaman empiris kiai sepuh, ataukah justru harus berangkat dari jeritan masalah konkret dan fenomena kerapuhan batin santri di bilik asrama 24 jam?
 

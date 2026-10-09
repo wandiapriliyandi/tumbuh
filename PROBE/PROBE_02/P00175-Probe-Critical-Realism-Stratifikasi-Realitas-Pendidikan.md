@@ -128,10 +128,10 @@ Di Asrama Al-Khazin, Santri B (kelas 9) tercatat dalam buku pelanggaran musyrif 
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Audit Suasana Kamar Malam Hari:** Musyrif memeriksa kualitas tidur santri (apakah ada yang mendengkur parah, gelisah, atau ketakutan) untuk mendeteksi mekanisme fisiologis laten sebelum menjadi masalah di siang hari.
-- **Kemandirian Menyelami Diri Sendiri (J1 ke J4):** Santri jenjang **J3 (Mandiri Awal)** dan **J4 (Mandiri Penuh)** dilatih melakukan *Self-Reflection* berbasis tiga lapis: membedakan antara apa yang mereka rasakan sepintas (*Empirical*), apa yang mereka lakukan (*Actual*), dan apa motif niat hakiki di balik tindakan mereka (*The Real*).
+- **Kemandirian Menyelami Diri Sendiri (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Awal** dan **Tahap Mandiri Penuh** dilatih melakukan *Self-Reflection* berbasis tiga lapis: membedakan antara apa yang mereka rasakan sepintas (*Empirical*), apa yang mereka lakukan (*Actual*), dan apa motif niat hakiki di balik tindakan mereka (*The Real*).
 - **Rapat Evaluasi Mingguan Pengasuh:** Mengganti agenda "pembacaan daftar santri pelanggar" dengan sesi analisis studi kasus sistemik: meneliti apakah fasilitas asrama, jadwal kegiatan, atau menu makanan berkontribusi terhadap munculnya masalah perilaku santri.
 
 ---

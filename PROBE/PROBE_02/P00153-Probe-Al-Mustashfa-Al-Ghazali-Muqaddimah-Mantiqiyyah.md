@@ -135,10 +135,10 @@ Musyrif F melakukan dua kesalahan logis fatal:
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Fajar (04.00 – 06.00):** Evaluasi ketepatan waktu subuh tidak boleh menggunakan label global ("kamar pemalas"), melainkan data faktual jumlah santri yang butuh pendampingan bangun.
-- **Siang (13.00 – 15.00):** Halaqah logika dasar bagi santri jenjang **J3 (Mandiri Awal)** dan **J4 (Mandiri Penuh / Mudabbir)** agar santri senior mampu menasihati adik kelas tanpa menggunakan falasi ad hominem atau intimidasi senioritas.
+- **Siang (13.00 – 15.00):** Halaqah logika dasar bagi santri jenjang **Tahap Mandiri Awal** dan **Tahap Mandiri Penuh (Mandiri Penuh / Mudabbir)** agar santri senior mampu menasihati adik kelas tanpa menggunakan falasi ad hominem atau intimidasi senioritas.
 - **Malam (20.00 – 22.00):** Rapat evaluasi harian musyrif wajib menggunakan lembar *Mantiq Audit*: meninjau apakah ada sanksi yang dijatuhkan hari itu yang bersumber dari amarah atau asumsi subjektif belaka.
 
 ---

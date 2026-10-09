@@ -251,6 +251,6 @@ Sintesis kritis turats adalah mahakarya rekonsiliasi peradaban Islam yang meraju
 
 ---
 
-## Akhir Sub-Klaster 0.2 — Lanjut ke Sub-Klaster 0.3: P00021
+## Pertanyaan berikutnya — P00021
 
 **Dekonstruksi Positivisme Logis & Saintisme: Menolak Anggapan Bahwa Hanya yang Terukur Secara Fisik yang Dianggap Nyata.**

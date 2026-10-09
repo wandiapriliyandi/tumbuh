@@ -79,9 +79,9 @@ Dalam psikologi eksistensial dan neuropsikologi:
 
 | Jenjang Usia Santri | Fokus Materi Kematian & Akhirat | Pendekatan Pedagogis TUMBUH | Larangan yang Diharamkan |
 | :--- | :--- | :--- | :--- |
-| **Jenjang Awal (Usia 11-13 Tahun / J1)** | Keindahan surga, luasnya rahmat Allah, perjumpaan dengan Rasulullah ﷺ di telaga Al-Kautsar. | Dongeng kisah teladan nabawi, menanamkan rasa rindu kepada surga dan cinta amal shalih. | Diharamkan mencekoki anak dengan deskripsi horor siksa kubur yang memicu trauma. |
-| **Jenjang Menengah (Usia 14-16 Tahun / J2-J3)** | Kepastian ajal, makna hisab atas waktu dan perbuatan, bahaya kezaliman kepada sesama. | Refleksi muhasabah malam, tadabbur ayat-ayat kiamat secara ilmiah, ziarah kubur beradab. | Dilarang menakuti tanpa memberikan solusi jalan taubat dan harapan ampunan. |
-| **Jenjang Akhir (Usia 17-18 Tahun / J4)** | Kematangan visi akhirat, persiapan amal jariyah peradaban, keberanian moral membela kebenaran. | Diskusi eksistensial: *"Warisan kebaikan apa yang ingin engkau tinggalkan sebelum wafat?"* | Dilarang membiarkan santri terjebak dalam angan-angan panjang keduniawian. |
+| **Jenjang Awal (Usia 11-13 Tahun / Tahap Awal)** | Keindahan surga, luasnya rahmat Allah, perjumpaan dengan Rasulullah ﷺ di telaga Al-Kautsar. | Dongeng kisah teladan nabawi, menanamkan rasa rindu kepada surga dan cinta amal shalih. | Diharamkan mencekoki anak dengan deskripsi horor siksa kubur yang memicu trauma. |
+| **Jenjang Menengah (Usia 14-16 Tahun / Tahap Menengah)** | Kepastian ajal, makna hisab atas waktu dan perbuatan, bahaya kezaliman kepada sesama. | Refleksi muhasabah malam, tadabbur ayat-ayat kiamat secara ilmiah, ziarah kubur beradab. | Dilarang menakuti tanpa memberikan solusi jalan taubat dan harapan ampunan. |
+| **Jenjang Akhir (Usia 17-18 Tahun / Tahap Mandiri Penuh)** | Kematangan visi akhirat, persiapan amal jariyah peradaban, keberanian moral membela kebenaran. | Diskusi eksistensial: *"Warisan kebaikan apa yang ingin engkau tinggalkan sebelum wafat?"* | Dilarang membiarkan santri terjebak dalam angan-angan panjang keduniawian. |
 
 ---
 

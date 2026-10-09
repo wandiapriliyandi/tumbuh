@@ -132,11 +132,11 @@ Di Asrama Al-Farabi, Musyrif K membuat aturan baru secara sepihak: santri dilara
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
-- **Pagi Hari (06.00 – 07.30):** Kedisiplinan persiapan sekolah dikelola sebagai latihan manajemen waktu (*nidzamul waqt*), bukan ritual keagamaan sakral. Santri jenjang **J1 (Pondasi)** dibimbing dengan instruksi bertahap.
+- **Pagi Hari (06.00 – 07.30):** Kedisiplinan persiapan sekolah dikelola sebagai latihan manajemen waktu (*nidzamul waqt*), bukan ritual keagamaan sakral. Santri jenjang **Tahap Awal (Pondasi)** dibimbing dengan instruksi bertahap.
 - **Sore Hari (16.00 – 17.30):** Waktu mubah (olahraga, rileksasi, hobi) dijaga haknya sesuai kaidah *al-ashlu fil asy-ya' al-ibahah*; pengasuh dilarang menyita hak waktu istirahat santri untuk kegiatan mendadak yang tidak darurat.
-- **Malam Hari (21.00 – 22.00):** Santri jenjang **J4 (Mandiri Penuh)** diberikan ruang syura untuk memberikan masukan terhadap efektivitas tata tertib asrama yang sedang berjalan, melatih mereka memahami filosofi di balik setiap peraturan.
+- **Malam Hari (21.00 – 22.00):** Santri jenjang **Tahap Mandiri Penuh** diberikan ruang syura untuk memberikan masukan terhadap efektivitas tata tertib asrama yang sedang berjalan, melatih mereka memahami filosofi di balik setiap peraturan.
 
 ---
 

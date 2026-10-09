@@ -127,10 +127,10 @@ Di Asrama Al-Mawardi, Santri F (kelas 10) meminjam laptop milik Santri N (anak y
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Inventarisasi Kamar Mingguan:** Santri memeriksa barang pribadi masing-masing dan menyelesaikan pinjam-meminjam secara transparan sebelum liburan akhir pekan.
-- **Kemandirian Bertanggung Jawab (J1 ke J4):** Santri jenjang **J1 (Pondasi)** dibimbing mengakui kesalahan perusakan mainan; santri jenjang **J4 (Mandiri Penuh)** dilatih memimpin proses mediasi ganti rugi antar-adik kelas dengan adil dan bijaksana.
+- **Kemandirian Bertanggung Jawab (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** dibimbing mengakui kesalahan perusakan mainan; santri jenjang **Tahap Mandiri Penuh** dilatih memimpin proses mediasi ganti rugi antar-adik kelas dengan adil dan bijaksana.
 - **Momentum Islah Idul Fitri / Pergantian Semester:** Mengadakan majelis saling membebaskan hak (*tahalul wa ibra'*) secara sadar dan sukarela, bukan sekadar basa-basi seremonial.
 
 ---

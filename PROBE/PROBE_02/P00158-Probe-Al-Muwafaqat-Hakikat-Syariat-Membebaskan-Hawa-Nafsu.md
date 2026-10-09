@@ -123,10 +123,10 @@ Di Asrama Ibnu Rusyd, Santri M (kelas 8) tertangkap diam-diam membeli mie instan
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Sahar (03.30 – 04.30):** Bangun malam dilatih sebagai momentum kemenangan batin santri atas rasa kantuk demi cinta kepada Allah (*qahr an-nafs bi mahabbatillah*), bukan karena takut diguyur air dingin oleh pengurus.
-- **Transisi Mandiri (Jenjang J1 ke J4):** Santri jenjang **J1 (Pondasi)** membutuhkan pengingat fisik dari musyrif; santri jenjang **J3 (Mandiri Awal)** mulai mengelola jadwal tidurnya sendiri; santri jenjang **J4 (Mandiri Penuh)** menjadi teladan (*qudwah*) yang menularkan ketenangan jiwa kepada adik-adik kelasnya.
+- **Transisi Mandiri (jenjang tahap awal ke Tahap Mandiri Penuh):** Santri jenjang **Tahap Awal (Pondasi)** membutuhkan pengingat fisik dari musyrif; santri jenjang **Tahap Mandiri Awal** mulai mengelola jadwal tidurnya sendiri; santri jenjang **Tahap Mandiri Penuh** menjadi teladan (*qudwah*) yang menularkan ketenangan jiwa kepada adik-adik kelasnya.
 - **Waktu Luang Akhir Pekan:** Santri diajarkan mengisi waktu luang dengan hobi yang mendidik, menyalurkan energi muda secara halal agar tidak tersalurkan pada perilaku destruktif.
 
 ---
@@ -182,7 +182,7 @@ Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 
 4. **Dilarang keras** mempermalukan santri di hadapan umum sebagai instrumen efek jera (*public shaming*).
 5. **Wajib** menghargai dan mengapresiasi kejujuran pengakuan sukarela santri dengan memberikan keringanan sanksi dan pendampingan kehormatan.
 6. **Dilarang keras** membuat aturan asrama yang mematikan kebutuhan fitrah manusiawi santri (bermain wajar, bersosialisasi, makan, dan istirahat).
-7. **Wajib** melatih santri secara bertahap menuju kemandirian penuh (J1 hingga J4) agar siap memimpin dirinya sendiri di luar asrama.
+7. **Wajib** melatih santri secara bertahap menuju kemandirian penuh (Tahap Awal hingga Tahap Mandiri Penuh) agar siap memimpin dirinya sendiri di luar asrama.
 
 ---
 

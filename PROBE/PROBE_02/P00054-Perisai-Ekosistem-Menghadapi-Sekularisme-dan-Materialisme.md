@@ -87,8 +87,8 @@ Dalam psikologi sosial dan komunikasi modern:
 
 ### Sintesis Arsitektural TUMBUH:
 TUMBUH menetapkan kaidah **Tadarruj Ta'shiliyyah (Bertahap Berbasis Kematangan Fondasi)**:
-- Pada **Jenjang Awal (J1 - J2)**: Santri fokus memperkokoh fondasi akidah tauhid, bahasa Arab, dan pemurnian adab (*at-ta'shil wal-hifzh*). Paparan wacana syubhat dibatasi ketat agar fitrahnya mengakar kokoh.
-- Pada **Jenjang Lanjutan (J3 - J4)**: Santri dibimbing secara intensif membedah pemikiran Barat kontemporer (sekularisme, relativisme, gender) melalui kacamata *Islamic Worldview* (*al-muwaajahah wal-istidlal*). Santri dilatih menjadi penakluk syubhat, bukan korban syubhat.
+- Pada **Jenjang Awal (Tahap Awal - Tahap Transisi)**: Santri fokus memperkokoh fondasi akidah tauhid, bahasa Arab, dan pemurnian adab (*at-ta'shil wal-hifzh*). Paparan wacana syubhat dibatasi ketat agar fitrahnya mengakar kokoh.
+- Pada **Jenjang Lanjutan (Tahap Mandiri Awal - Tahap Mandiri Penuh)**: Santri dibimbing secara intensif membedah pemikiran Barat kontemporer (sekularisme, relativisme, gender) melalui kacamata *Islamic Worldview* (*al-muwaajahah wal-istidlal*). Santri dilatih menjadi penakluk syubhat, bukan korban syubhat.
 
 ---
 

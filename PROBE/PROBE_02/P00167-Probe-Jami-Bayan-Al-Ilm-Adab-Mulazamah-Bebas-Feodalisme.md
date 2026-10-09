@@ -122,11 +122,11 @@ Di Asrama Al-Wansyarisi, Musyrif Kamar K memberlakukan tradisi "Khidmah Musyrif"
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Makan Bersama:** Musyrif mengambil makanan bersama di barisan antrean yang sama dengan santri, menghapus privilese feodal pemisahan meja makan mewah bagi pengurus.
-- **Kerja Bakti Asrama (Jumat Bersih):** Musyrif memimpin dengan mencangkul dan menyapu terlebih dahulu, mendidik santri jenjang **J1–J4** melalui kekuatan keteladanan fisik (*al-qudwah bil 'amal*).
-- **Adab Berdialog Santri Senior (J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih memimpin adik kelas dengan gaya kepemimpinan melayani, memutus rantai balas dendam perpeloncoan senioritas masa lalu.
+- **Kerja Bakti Asrama (Jumat Bersih):** Musyrif memimpin dengan mencangkul dan menyapu terlebih dahulu, mendidik santri jenjang **Tahap Awal hingga Tahap Lanjut** melalui kekuatan keteladanan fisik (*al-qudwah bil 'amal*).
+- **Adab Berdialog Santri Senior (Tahap Mandiri Penuh):** Santri jenjang **Tahap Mandiri Penuh** dilatih memimpin adik kelas dengan gaya kepemimpinan melayani, memutus rantai balas dendam perpeloncoan senioritas masa lalu.
 
 ---
 

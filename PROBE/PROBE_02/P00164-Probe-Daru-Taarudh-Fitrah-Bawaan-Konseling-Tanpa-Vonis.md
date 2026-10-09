@@ -125,10 +125,10 @@ Di Asrama Al-Ghazali, Santri D (kelas 10) ketahuan mengambil uang kas kamar sebe
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Refleksi Senja:** Mengajak santri merenungkan nikmat fitrah dan memohon ampunan Allah atas kekhilafan harian dalam suasana keheningan zikir bersama.
-- **Kemandirian Moral (J1 ke J4):** Santri jenjang **J1 (Pondasi)** membutuhkan bimbingan eksternal untuk mengenali emosi; santri jenjang **J3 (Mandiri Awal)** mulai melatih kepekaan nurani (*dhamir*); santri jenjang **J4 (Mandiri Penuh)** dilatih menjadi konselor sebaya (*peer counselor*) yang mendengarkan keluh kesah adik kelas tanpa menghakimi.
+- **Kemandirian Moral (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** membutuhkan bimbingan eksternal untuk mengenali emosi; santri jenjang **Tahap Mandiri Awal** mulai melatih kepekaan nurani (*dhamir*); santri jenjang **Tahap Mandiri Penuh** dilatih menjadi konselor sebaya (*peer counselor*) yang mendengarkan keluh kesah adik kelas tanpa menghakimi.
 - **Etika Kamar Konseling:** Ruang BK asrama dirancang nyaman, sejuk, dan tidak menakutkan, menghapus citra bahwa ruang BK adalah "ruang interogasi polisi".
 
 ---

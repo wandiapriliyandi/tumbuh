@@ -281,7 +281,7 @@ Dunia ini adalah jembatan yang kita lalui, bukan rumah abadi tempat kita menetap
 
 ---
 
-## Akhir Sub-Klaster 0.1 — Lanjut ke Sub-Klaster 0.2: P00011
+## Pertanyaan berikutnya — P00011
 
 **Probe Epistemik Tahafut al-Falasifah (Al-Ghazali): Kritik atas Kesombongan Logika Murni yang Mengabaikan Transendensi Wahyu.**
 

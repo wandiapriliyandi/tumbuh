@@ -157,7 +157,7 @@ Dalam SW-PBIS TUMBUH:
 ## 10. Penerapan Lapangan Asrama 24 Jam: Klub Debat Ilmiah dan Filsafat Beradab
 
 Implementasi konkret di lingkungan santri:
-1. **Halaqah Dar'u Ta'arudh Mingguan**: Forum diskusi santri tingkat menengah dan akhir (J3-J4) untuk membedah isu-isu sains kontemporer (seperti kecerdasan buatan, kloning genetik, teori multiverse) di bawah bimbingan asatidz multidisipliner.
+1. **Halaqah Dar'u Ta'arudh Mingguan**: Forum diskusi santri tingkat menengah dan akhir (Tahap Mandiri Awal-Tahap Mandiri Penuh) untuk membedah isu-isu sains kontemporer (seperti kecerdasan buatan, kloning genetik, teori multiverse) di bawah bimbingan asatidz multidisipliner.
 2. **Karya Ilmiah Integratif Wajib**: Setiap santri yang hendak diwisuda diwajibkan menulis karya ilmiah yang mengintegrasikan satu dalil naqli shahih dengan temuan sains empiris modern.
 3. **Penyediaan Buku-Buku Epistemologi Islam Terbaik**: Memastikan perpustakaan pesantren mengoleksi karya Ibn Taimiyyah, Al-Ghazali, Ibn Rusyd, serta filsuf sains muslim kontemporer.
 

@@ -130,10 +130,10 @@ Di Asrama Al-Khathib, Musyrif M (musyrif kamar baru) memberikan kultum malam seb
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Kultum Ba'da Subuh (Fajar):** Tema difokuskan pada etos kerja, semangat menuntut ilmu, dan keutamaan adab pergaulan berbasis hadits shahih.
-- **Tausiyah Senja / Ba'da Maghrib:** Pembacaan kitab hadits shahih (*Riyadhus Shalihin*) dengan syarah makna yang aplikatif bagi santri jenjang **J1–J4**.
+- **Tausiyah Senja / Ba'da Maghrib:** Pembacaan kitab hadits shahih (*Riyadhus Shalihin*) dengan syarah makna yang aplikatif bagi santri jenjang **Tahap Awal hingga Tahap Lanjut**.
 - **Nasihat Sebelum Tidur (21.30 – 21.45):** Wajib berupa narasi yang menenangkan batin (*soothing bedtime reflection*): kisah kasih sayang Rasulullah ﷺ, ampunan Allah, dan doa-doa ma'tsurat yang menghadirkan ketenangan tidur.
 
 ---

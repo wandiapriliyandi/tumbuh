@@ -9,7 +9,7 @@
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Bagaimana Roy Bhaskar merumuskan model TMSA: bahwa struktur sosial tidak menciptakan manusia dari ketiadaan, dan manusia tidak menciptakan struktur sosial secara bebas murni, melainkan struktur sosial telah mendahului manusia (*pre-exists*) sebagai kondisi pemungkin/penghambat, sementara manusia mereproduksi (*reproduce*) atau mentransformasi (*transform*) struktur tersebut melalui tindakan agensinya?
   2. Bagaimana fenomena "kutukan lingkaran setan senioritas" di asrama—di mana santri yang dahulunya menjadi korban perpeloncoan saat kelas 7, secara otomatis bertransformasi menjadi pelaku penindas yang kejam saat naik ke kelas 12 karena terkungkung oleh struktur budaya kamar yang toksik?
-  3. Bagaimana mengoperasionalkan model TMSA ke dalam kurikulum kepemimpinan santri (*Student Agency Empowerment*) agar santri jenjang J3–J4 memiliki daya agensi transformatif (*transformative agency*) untuk membongkar tradisi feodalisme kamar dan merestorasi budaya *Ukhuwah Bi'ah Shalihah*?
+  3. Bagaimana mengoperasionalkan model TMSA ke dalam kurikulum kepemimpinan santri (*Student Agency Empowerment*) agar santri jenjang mandiri awal–Tahap Mandiri Penuh memiliki daya agensi transformatif (*transformative agency*) untuk membongkar tradisi feodalisme kamar dan merestorasi budaya *Ukhuwah Bi'ah Shalihah*?
 
 ---
 
@@ -115,7 +115,7 @@ Tradisi senioritas keras di asrama adalah hukum alam yang tidak bisa diubah; jik
 Santri senior harus dilarang berinteraksi sama sekali dengan adik kelas; asrama harus disekat tembok beton kedap per angkatan agar tidak ada komunikasi lintas usia.
 
 ### Sintesis TUMBUH:
-Menerapkan *Transformational Model of Social Activity* (TMSA) Roy Bhaskar. Interaksi lintas angkatan tidak dihapus, melainkan **strukturnya ditransformasi secara total dari dominasi kekuasaan feodal menjadi kemitraan persaudaraan asuh (*Ukhuwah Mentorship Structure*)**. Santri senior jenjang J4 diberdayakan sebagai agen transformatif yang memiliki mandat pelindung (*guardian brothers*), di mana ukuran wibawa mereka diukur dari seberapa aman dan berkembang adik-adik kelas di bawah naungan bimbingan mereka.
+Menerapkan *Transformational Model of Social Activity* (TMSA) Roy Bhaskar. Interaksi lintas angkatan tidak dihapus, melainkan **strukturnya ditransformasi secara total dari dominasi kekuasaan feodal menjadi kemitraan persaudaraan asuh (*Ukhuwah Mentorship Structure*)**. Santri senior jenjang mandiri penuh diberdayakan sebagai agen transformatif yang memiliki mandat pelindung (*guardian brothers*), di mana ukuran wibawa mereka diukur dari seberapa aman dan berkembang adik-adik kelas di bawah naungan bimbingan mereka.
 
 ---
 
@@ -132,16 +132,16 @@ Di Asrama Al-Mundziri, terdapat tradisi rahasia bernama "Apel Jam Satu Malam": s
 
 ## 9. Penerapan pada Ekosistem PBIS Multi-Tier di Asrama
 
-1. **Tier 1 (Universal):** Program Kakak Asuh Rabbani (*Rabbani Peer Mentoring System*). Setiap santri baru (J1) dipasangkan dengan seorang santri senior (J4) yang telah lulus uji kompetensi empati dan adab untuk mendampingi adaptasi asrama, membalik relasi dari penindasan menjadi perlindungan.
+1. **Tier 1 (Universal):** Program Kakak Asuh Rabbani (*Rabbani Peer Mentoring System*). Setiap santri baru (Tahap Awal) dipasangkan dengan seorang santri senior (Tahap Mandiri Penuh) yang telah lulus uji kompetensi empati dan adab untuk mendampingi adaptasi asrama, membalik relasi dari penindasan menjadi perlindungan.
 2. **Tier 2 (Targeted):** Restrukturisasi Kamar Rawan Hierarki Toksik. Membubarkan formasi kamar yang terbukti memiliki dinamika hegemoni kelompok tertentu dan menyusun formasi kamar majemuk yang dipimpin oleh agen transformatif teruji.
 3. **Tier 3 (Intensive):** Sidang De-Radikalisasi Tradisi Kekerasan bagi Senior Pelanggar. Santri senior yang tertangkap mempraktikkan tradisi perpeloncoan dicabut hak kepengurusannya, menjalani program konseling dekonstruksi ego toksik, dan diwajibkan melakukan khidmah restoratif melayani komunitas asrama.
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Apel Malam Berbasis Apresiasi:** Mengubah apel malam kamar dari ajang mencari kesalahan adik kelas menjadi forum apresiasi: santri senior mengapresiasi kerapian dan kesungguhan belajar adik-adik kelasnya.
-- **Kemandirian Kepemimpinan (J3 ke J4):** Santri jenjang **J4 (Mandiri Penuh / Mudabbir)** dilatih teknik fasilitasi syura, de-eskalasi konflik, dan komunikasi non-kekerasan (*Nonviolent Communication - NVC*).
+- **Kemandirian Kepemimpinan (Tahap Menengah ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh (Mandiri Penuh / Mudabbir)** dilatih teknik fasilitasi syura, de-eskalasi konflik, dan komunikasi non-kekerasan (*Nonviolent Communication - NVC*).
 - **Halaqah Ukhuwah Akhir Pekan:** Kegiatan santai bersama antar-angkatan (futsal ceria, masak bersama) untuk meruntuhkan sekat kecanggungan sosial dan membangun persaudaraan tulus.
 
 ---
@@ -195,7 +195,7 @@ Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 
 2. **Dilarang keras** bagi musyrif melegitimasi kekerasan senioritas dengan dalih pembentukan mental atau tradisi lama asrama.
 3. **Wajib** memberikan sanksi tegas tanpa pandang bulu kepada santri senior yang terbukti melakukan perundungan terhadap adik kelas.
 4. **Dilarang keras** membiarkan santri yang berani melapor atau membela keadilan menjadi korban intimidasi atau pengucilan oleh kelompok seangkatannya.
-5. **Wajib** melatih santri senior jenjang J4 keterampilan kepemimpinan empatik persuasif dan komunikasi tanpa kekerasan.
+5. **Wajib** melatih santri senior jenjang mandiri penuh keterampilan kepemimpinan empatik persuasif dan komunikasi tanpa kekerasan.
 6. **Dilarang keras** menciptakan hierarki fasilitas yang memisahkan hak-hak dasar antara santri senior dan santri junior di asrama.
 7. **Wajib** mengevaluasi iklim budaya kamar secara berkala melalui instrumen audit rasa aman santri independen.
 

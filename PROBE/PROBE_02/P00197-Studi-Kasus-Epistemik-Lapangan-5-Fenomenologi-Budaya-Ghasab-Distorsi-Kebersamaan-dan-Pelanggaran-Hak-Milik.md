@@ -139,7 +139,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00197):
 - Keputusan:
   1. Menegaskan status hukum syar'i ghasab sebagai pelanggaran adab berat di asrama.
   2. Menyediakan infrastruktur sendal komunal wakaf di seluruh fasilitas wudhu dan masjid.
-  3. Mengintegrasikan kurikulum Adab al-Milkiyyah wal-Isti'dzan dalam pembiasaan harian J1-J4.
+  3. Mengintegrasikan kurikulum Adab al-Milkiyyah wal-Isti'dzan dalam pembiasaan harian Tahap Awal hingga Tahap Lanjut.
 - Konsekuensi: Menghapus mata rantai ghasab, menciptakan rasa aman kepemilikan barang bagi
                setiap santri, dan menanamkan integritas anti-korupsi sejak dini.
 ```

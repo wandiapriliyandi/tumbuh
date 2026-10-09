@@ -98,7 +98,7 @@ Al-Qur'an mengajarkan bahwa validitas kesaksian tidak ditentukan oleh otoritas s
 
 
 
-Imam Al-Bukhari meriwayatkan dialog antara Khalifah Umar bin Al-Khattab radhiyallahu 'anhu dengan para sahabat senior mengenai tafsir surat An-Nashr. Umar menyertakan Abdullah bin Abbas radhiyallahu 'anhuma yang saat itu masih berusia sangat belia di tengah-tengah para veteran Perang Badar. Ketika sebagian sahabat senior mempertanyakan kehadiran anak muda tersebut, Umar membuktikan bahwa kedalaman pemahaman Ibnu Abbas melampaui usia fisiknya. Hal ini menegaskan bahwa dalam peradaban Islam, kapasitas epistemik seseorang tidak boleh dibonsai oleh prasangka umur.
+Imam Al-Bukhari meriwayatkan riwayat agung mengenai Amirul Mukminin Umar bin Al-Khattab radhiyallahu 'anhu dengan para sahabat senior mengenai tafsir surat An-Nashr. Umar menyertakan Abdullah bin Abbas radhiyallahu 'anhuma yang saat itu masih berusia sangat belia di tengah-tengah para veteran Perang Badar. Ketika sebagian sahabat senior mempertanyakan kehadiran pemuda tersebut, Umar membuktikan bahwa kedalaman pemahaman Ibnu Abbas melampaui usia fisiknya. Hal ini menegaskan bahwa dalam peradaban Islam, kapasitas epistemik seseorang tidak boleh dibonsai oleh prasangka umur.
 
 
 

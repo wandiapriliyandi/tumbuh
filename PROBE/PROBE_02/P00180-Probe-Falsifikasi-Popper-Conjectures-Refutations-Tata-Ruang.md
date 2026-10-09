@@ -131,10 +131,10 @@ Di Asrama Al-Farghani, Kamar 8 berukuran 5x7 meter dihuni oleh 16 santri. Ruanga
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Audit Udara Pagi Hari (Ba'da Subuh):** Membuka seluruh jendela dan pintu kamar selebar-lebarnya untuk membuang udara malam dan memasukkan sinar matahari fajar yang kaya vitamin D dan ion negatif pembersih udara.
-- **Kemandirian Merawat Bi'ah (J1 ke J4):** Santri jenjang **J1 (Pondasi)** diajarkan membuka tirai jendela setiap pagi; santri jenjang **J4 (Mandiri Penuh)** dilatih memimpin audit tata ruang kamar dan mengusulkan perbaikan desain secara mandiri kepada pihak sarana prasarana.
+- **Kemandirian Merawat Bi'ah (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** diajarkan membuka tirai jendela setiap pagi; santri jenjang **Tahap Mandiri Penuh** dilatih memimpin audit tata ruang kamar dan mengusulkan perbaikan desain secara mandiri kepada pihak sarana prasarana.
 - **Transisi Cahaya Malam (21.00 – 22.00):** Mematikan lampu putih neon dan menyalakan lampu kuning hangat (*warm amber light*) 1 jam sebelum tidur untuk memicu pelepasan alami hormon melatonin pada otak remaja.
 
 ---

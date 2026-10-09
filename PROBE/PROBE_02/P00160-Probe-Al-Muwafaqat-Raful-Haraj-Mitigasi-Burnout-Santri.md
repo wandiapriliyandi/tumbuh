@@ -131,9 +131,9 @@ Di Asrama Al-Junaid, Musyrif I memberlakukan program "Karantina Ruhani Ekstrem" 
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
-- **Transisi Bangun Malam (Tahajud):** Diatur bertahap: santri jenjang **J1 (Pondasi)** cukup bangun 20 menit sebelum Subuh; santri jenjang **J3 (Mandiri Awal)** mulai melatih qiyamullail 30 menit; santri jenjang **J4 (Mandiri Penuh)** mengelola jadwal bangun malamnya secara sukarela (*ikhtiyari*).
+- **Transisi Bangun Malam (Tahajud):** Diatur bertahap: santri jenjang **Tahap Awal (Pondasi)** cukup bangun 20 menit sebelum Subuh; santri jenjang **Tahap Mandiri Awal** mulai melatih qiyamullail 30 menit; santri jenjang **Tahap Mandiri Penuh** mengelola jadwal bangun malamnya secara sukarela (*ikhtiyari*).
 - **Tarwih An-Nafs (Rileksasi Jiwa Sore Hari):** Memberikan hak waktu 45 menit sebelum Maghrib untuk berolahraga, bercengkerama santai, atau menikmati alam guna menyegarkan otak santri.
 - **Kaidah Dawam al-'Amal:** Menanamkan semboyan bahwa shalat malam 2 rakaat yang dikerjakan istiqamah seumur hidup jauh lebih mulia daripada 11 rakaat yang hanya bertahan satu pekan lalu ditinggalkan selamanya.
 

@@ -282,7 +282,7 @@ Humanisme sekuler mengira ia sedang memahkotai manusia, padahal ia sedang memoto
 
 ---
 
-## Akhir Sub-Klaster 0.3 — Lanjut ke Sub-Klaster 0.4: P00029
+## Pertanyaan berikutnya — P00029
 
 **Filosofi Inquiry PROBE: Mengapa Penyelidikan Bertumpu pada Pertanyaan Menukik (TUMBUH Questions) Bukan Jawaban Instan.**
 

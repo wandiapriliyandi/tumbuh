@@ -131,10 +131,10 @@ Di Asrama Al-Qasimi, diberlakukan sistem "Papan Aib Hitam": nama-nama santri yan
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Evaluasi Diri Lembaga Mingguan:** Menggelar forum refleksi terbuka musyrif setiap malam Senin untuk mengkritisi apakah ada kebijakan pekan lalu yang menyulitkan atau menzalimi santri tanpa sengaja.
-- **Kemandirian Berdaya Suara (J1 ke J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih melakukan riset aspirasi santri (*Student Participatory Action Research*) untuk memberikan masukan konstruktif bagi perbaikan gizi dapur dan fasilitas sanitasi.
+- **Kemandirian Berdaya Suara (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh** dilatih melakukan riset aspirasi santri (*Student Participatory Action Research*) untuk memberikan masukan konstruktif bagi perbaikan gizi dapur dan fasilitas sanitasi.
 - **Ritme Senja Reflektif:** Mengganti apel teguran keras senja hari dengan doa bersama dan muhasabah yang menenangkan batin.
 
 ---

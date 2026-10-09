@@ -122,15 +122,15 @@ Di Asrama Al-Qurthubi, Mudir baru menerapkan kebijakan "Disiplin Besi Tertutup":
 ## 9. Penerapan pada Ekosistem PBIS Multi-Tier di Asrama
 
 1. **Tier 1 (Universal):** Pelembagaan Forum Syura Santri-Musyrif (*Weekly Town Hall Shura*). Menggelar pertemuan rutin setiap dua pekan di aula asrama di mana perwakilan kamar dapat mengajukan pertanyaan, saran perbaikan fasilitas, dan klarifikasi aturan secara langsung kepada pimpinan kepengasuhan dalam suasana penuh adab dan kasih sayang.
-2. **Tier 2 (Targeted):** Dewan Mediasi Independen Pengaduan Santri (*Student Ombudsman Board*). Membentuk komisi independen yang terdiri dari asatidz senior dan perwakilan santri jenjang J4 untuk menangani keluhan santri terhadap kesewenang-wenangan oknum pengasuh tanpa rasa takut akan pembalasan.
+2. **Tier 2 (Targeted):** Dewan Mediasi Independen Pengaduan Santri (*Student Ombudsman Board*). Membentuk komisi independen yang terdiri dari asatidz senior dan perwakilan santri jenjang mandiri penuh untuk menangani keluhan santri terhadap kesewenang-wenangan oknum pengasuh tanpa rasa takut akan pembalasan.
 3. **Tier 3 (Intensive):** Transformasi Budaya bagi Pengasuh Otoriter. Musyrif yang terbiasa menggunakan gaya represi militeristik diwajibkan mengikuti re-edukasi kepemimpinan restoratif dan pendampingan psikologis untuk menyembuhkan luka ego kekuasaannya.
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
-- **Transisi Kamar Berbasis Syura:** Keputusan pembagian tugas piket kamar dan jam belajar malam disepakati melalui musyawarah internal kamar yang dipimpin santri jenjang **J3 (Mandiri Awal)**, bukan didekte sepihak dari luar.
-- **Kemandirian Bernalar Kritis (J1 ke J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih membedakan antara kritik yang beradab (*an-nashihah ash-shadiqah*) dan celaan yang menghancurkan (*at-tajrih al-hadam*), mematangkan kapasitas kepemimpinan negarawan muslim mereka.
+- **Transisi Kamar Berbasis Syura:** Keputusan pembagian tugas piket kamar dan jam belajar malam disepakati melalui musyawarah internal kamar yang dipimpin santri jenjang **Tahap Mandiri Awal**, bukan didekte sepihak dari luar.
+- **Kemandirian Bernalar Kritis (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh** dilatih membedakan antara kritik yang beradab (*an-nashihah ash-shadiqah*) dan celaan yang menghancurkan (*at-tajrih al-hadam*), mematangkan kapasitas kepemimpinan negarawan muslim mereka.
 - **Waktu Akses Informasi Terbuka Terkurasi:** Menyediakan akses perpustakaan digital dan ruang baca berkala yang menyajikan wawasan perkembangan sains, teknologi, dan isu kemanusiaan global di bawah bimbingan guru pembina.
 
 ---
@@ -203,7 +203,7 @@ Dengan rampungnya penulisan kanonik berkas **P00181** ini, genaplah target **50 
 2. **Sub-Klaster 2.2 (P00153 – P00174: 22 Berkas):** Tuntas 100% menguji kritis lima kitab agung turats (*Al-Mustashfa*, *Al-Muwafaqat*, *Dar'u Ta'arudh*, *Jami' Bayan Al-'Ilm*, dan *Qawa'id Al-Ahkam*).
 3. **Sub-Klaster 2.3 (P00175 – P00181: 7 Berkas):** Menembus gerbang filsafat sains kontemporer (*Critical Realism* Roy Bhaskar dan *Falsifikasionisme & Open Society* Karl Popper).
 
-Seluruh berkas berdiri kokoh, bervolume mendalam 15–17 bab bernomor, memuat visualisasi ASCII, teks turats berharakat/takhrij, sains/neurosains kognitif, matriks komparatif, dialektika, studi kasus multi-asrama, PBIS Multi-Tier, ritme 24 jam J1–J4, audit mutu, analisis interaksi pembinaan & protokol tindakan edukatif, ADR kanonik, implikasi repositori, guardrails 7 butir, dan pertanyaan pengalir berikutnya.
+Seluruh berkas berdiri kokoh, bervolume mendalam 15–17 bab bernomor, memuat visualisasi ASCII, teks turats berharakat/takhrij, sains/neurosains kognitif, matriks komparatif, dialektika, studi kasus multi-asrama, PBIS Multi-Tier, ritme 24 jam Tahap Awal hingga Tahap Lanjut, audit mutu, analisis interaksi pembinaan & protokol tindakan edukatif, ADR kanonik, implikasi repositori, guardrails 7 butir, dan pertanyaan pengalir berikutnya.
 
 ---
 

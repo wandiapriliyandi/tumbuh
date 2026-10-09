@@ -93,7 +93,7 @@ Dalam genetika, endokrinologi, dan neurobiologi perkembangan seksual:
 | **Pemisahan Ranjang Tidur** | Santri tidur berdua di satu kasur atau menggelar karpet massal tanpa sekat. | **Satu Santri Satu Kasur Wajib**: Jarak antar-kasur minimal 60 cm; dilarang tidur bertumpuk. | Patroli kamar musyrif setiap 60 menit di waktu malam (Lampu tidur remang di lorong). |
 | **Adab Mandi & Bersuci** | Santri mandi telanjang bersama di bak kolam terbuka (*mandi massal*). | **Bilik Mandi Tertutup Individual**: Wajib menutup aurat; dilarang mandi berdua dalam satu bilik. | Pemeriksaan rutin pintu dan slot kunci kamar mandi asrama. |
 | **Kemitraan Senior-Junior** | Dibiarkan santri senior mengangkat junior menjadi "adik angkat kesayangan" eksklusif. | Melarang hubungan proteksi eksklusif yang mencurigakan (*toxic grooming prevention*). | Audit relasi pertemanan kamar; rotasi partner belajar secara transparan. |
-| **Edukasi Seksualitas Syar'i** | Tabu membahas seks; membiarkan santri mencari info dari internet liar. | **Tarbiyah Jinsiyyah Terstruktur**: Mengajarkan fiqih thaharah, mimpi basah, dan bahaya zina/liwath. | Halaqah Baligh khusus santri putra dan putri di awal jenjang J2. |
+| **Edukasi Seksualitas Syar'i** | Tabu membahas seks; membiarkan santri mencari info dari internet liar. | **Tarbiyah Jinsiyyah Terstruktur**: Mengajarkan fiqih thaharah, mimpi basah, dan bahaya zina/liwath. | Halaqah Baligh khusus santri putra dan putri di awal jenjang transisi. |
 
 ---
 

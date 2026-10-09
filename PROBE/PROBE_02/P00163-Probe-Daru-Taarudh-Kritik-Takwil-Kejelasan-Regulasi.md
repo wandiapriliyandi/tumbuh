@@ -128,10 +128,10 @@ Di Asrama Al-Farisi, Buku Tata Tertib memuat Pasal 14 ayat 2 yang berbunyi: *"Sa
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Instruksi Apel Pagi:** Musyrif memberikan arahan dengan kalimat perintah yang spesifik dan jelas (misal: *"Rapikan rak sepatu dengan menghadapkan ujung sepatu ke arah dinding sebelum jam 07.00"*), bukan instruksi abstrak (misal: *"Tolong semuanya beradab pagi ini"*).
-- **Pendampingan Santri Mandiri (J1 ke J4):** Santri jenjang **J1 (Pondasi)** membutuhkan panduan langkah visual (*visual checklist*); santri jenjang **J4 (Mandiri Penuh)** dilatih merumuskan SOP kepanitiaan dengan standar bahasa ilmiah yang presisi.
+- **Pendampingan Santri Mandiri (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** membutuhkan panduan langkah visual (*visual checklist*); santri jenjang **Tahap Mandiri Penuh** dilatih merumuskan SOP kepanitiaan dengan standar bahasa ilmiah yang presisi.
 - **Evaluasi Malam:** Musyrif dilarang mengevaluasi santri dengan sindiran, kalimat sarkas, atau teka-teki moral yang membingungkan jiwa anak.
 
 ---

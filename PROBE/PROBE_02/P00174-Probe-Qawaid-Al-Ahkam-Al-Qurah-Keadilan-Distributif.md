@@ -126,10 +126,10 @@ Di Asrama Al-Jurjani, Kamar 5 berukuran 6x6 meter dihuni oleh 12 santri. Terdapa
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Distribusi Porsi Makan Siang:** Petugas dapur menakar porsi dengan timbangan atau sendok ukur standar agar tidak ada ketimpangan porsi antar-santri.
-- **Transparansi Kas Kamar (J1 ke J4):** Santri jenjang **J3 (Mandiri Awal)** bertindak sebagai bendahara kamar yang mencatat pengeluaran harian; santri jenjang **J4 (Mandiri Penuh)** mengaudit laporan pertanggungjawaban di hadapan seluruh anggota kamar.
+- **Transparansi Kas Kamar (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Awal** bertindak sebagai bendahara kamar yang mencatat pengeluaran harian; santri jenjang **Tahap Mandiri Penuh** mengaudit laporan pertanggungjawaban di hadapan seluruh anggota kamar.
 - **Rotasi Fasilitas Mingguan:** Giliran memakai fasilitas rekreasi (seperti meja tenis atau akses lab komputer) diatur melalui jadwal rotasi yang disepakati bersama tanpa dominasi senioritas.
 
 ---

@@ -116,10 +116,10 @@ Musyrif melakukan kesalahan fatal dengan **menaikkan derajat qarinah lemah (bera
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Sahar & Subuh:** Menghindari vonis pura-pura sakit (*malingering*) hanya berdasarkan dugaan musyrif; santri yang mengeluh sakit wajib diperiksa suhu tubuhnya secara medis (mengubah *zhann* menjadi data objektif).
-- **Sore Hari (Evaluasi Halaqah):** Musyrif mendampingi santri jenjang **J2 (Transisi)** dan **J3 (Mandiri Awal)** untuk melatih kejujuran berbicara tanpa melebih-lebihkan cerita (*tahrif al-waqi'*).
+- **Sore Hari (Evaluasi Halaqah):** Musyrif mendampingi santri jenjang **Tahap Transisi** dan **Tahap Mandiri Awal** untuk melatih kejujuran berbicara tanpa melebih-lebihkan cerita (*tahrif al-waqi'*).
 - **Malam Hari (Penutupan Buku Piket):** Catatan logbook harian musyrif wajib diverifikasi oleh kepala asrama untuk memisahkan antara kolom "Fakta Lapangan" dan kolom "Catatan Analisis Pribadi".
 
 ---

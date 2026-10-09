@@ -100,7 +100,7 @@ TUMBUH mengadopsi dua desain *Mixed-Methods* untuk keperluan evaluasi asrama:
 2. DESAIN KONVERGEN PARALEL (QUAN + QUAL):
    - Bersamaan mengumpulkan skor rubrik kemandirian harian (kuantitatif) dan narasi jurnal
      reflektif santri serta catatan observasi afektif musyrif (kualitatif).
-   - Data dipertemukan dalam Matriks Triangulasi untuk menentukan Jenjang Kemandirian (J1-J4).
+   - Data dipertemukan dalam Matriks Triangulasi untuk menentukan Jenjang Kemandirian (Tahap Awal hingga Tahap Lanjut).
 ```
 
 ---

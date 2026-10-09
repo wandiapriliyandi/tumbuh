@@ -160,7 +160,7 @@ Dalam SW-PBIS TUMBUH:
 ## 10. Penerapan Lapangan Asrama 24 Jam: Bedah Pemikiran Filsafat Kritis Terjadwal
 
 Implementasi konkret di lingkungan santri:
-1. **Kajian Ghazu al-Fikr Kontemporer**: Membedah tren filsafat Barat (postmodernisme, dekonstruksi, relativisme moral) secara objektif dan ilmiah di kelas-kelas akhir santri (J4).
+1. **Kajian Ghazu al-Fikr Kontemporer**: Membedah tren filsafat Barat (postmodernisme, dekonstruksi, relativisme moral) secara objektif dan ilmiah di kelas-kelas akhir santri (Tahap Mandiri Penuh).
 2. **Pelatihan Metodologi Ushul Fiqih Berbasis Matan**: Membimbing santri membaca kitab ushul fiqih klasik (Al-Waraqat, Ghayatul Wushul, Al-Mustashfa) agar memahami bagaimana para ulama menjaga kepastian hukum wahyu.
 3. **Penyuluhan Bahaya Skeptisisme Digital**: Melatih santri menyaring konten media sosial yang kerap memelintir ayat-ayat Al-Qur'an demi agenda dekonstruksi nilai keluarga dan moralitas.
 

@@ -9,7 +9,7 @@
 - **Pertanyaan Kritis Penyelidikan (TUMBUH Questions):**
   1. Mengapa Ibnu Taimiyyah mengkritik silogisme formal Aristotelian (*Qiyas Asy-Syumul*) sebagai model nalar yang tautologis dan mandul—hanya berputar-putar pada apa yang sudah diketahui dalam premis mayor tanpa menambah pengetahuan empiris baru—dan bagaimana Al-Qur'an menawarkan metode pembuktian yang jauh lebih hidup melalui *Qiyas Al-Aula*?
   2. Bagaimana fenomena debat kusir verbal (*jadal 'aqim*) dan silogisme kering di kalangan musyrif dan santri senior yang mahir merangkai premis logika formal di atas kertas, namun lumpuh dalam memecahkan masalah keadaban nyata di lorong dan kamar asrama?
-  3. Bagaimana mengoperasionalkan nalar argumentasi Qur'ani ala Ibnu Taimiyyah ke dalam silabus nalar kritis dan komunikasi persuasif santri jenjang J3–J4 agar mereka mampu menasihati dan memimpin kawan sebaya dengan logika fitrah yang menyentuh kalbu?
+  3. Bagaimana mengoperasionalkan nalar argumentasi Qur'ani ala Ibnu Taimiyyah ke dalam silabus nalar kritis dan komunikasi persuasif santri jenjang mandiri awal–Tahap Mandiri Penuh agar mereka mampu menasihati dan memimpin kawan sebaya dengan logika fitrah yang menyentuh kalbu?
 
 ---
 
@@ -124,16 +124,16 @@ Di Asrama Al-Idrisi, Bagian Keamanan OSIS dipimpin oleh Santri T (kelas 12 yang 
 
 ## 9. Penerapan pada Ekosistem PBIS Multi-Tier di Asrama
 
-1. **Tier 1 (Universal):** Kurikulum Komunikasi Persuasif Qur'ani (*Hikmah & Burhan Curriculum*). Santri jenjang J2–J4 diajarkan seni berdialog menggunakan perumpamaan Al-Qur'an dan metode sokratik untuk menyelesaikan friksi harian tanpa kekerasan verbal.
+1. **Tier 1 (Universal):** Kurikulum Komunikasi Persuasif Qur'ani (*Hikmah & Burhan Curriculum*). Santri jenjang transisi–Tahap Mandiri Penuh diajarkan seni berdialog menggunakan perumpamaan Al-Qur'an dan metode sokratik untuk menyelesaikan friksi harian tanpa kekerasan verbal.
 2. **Tier 2 (Targeted):** Mediasi Sengketa Kamar Berbasis Nalar Kontekstual. Musyrif memandu santri yang berselisih untuk melihat masalah dari kacamata analogi keutamaan (*Qiyas Al-Aula*), menuntun mereka menemukan solusi menang-menang (*win-win solution*) yang adil.
 3. **Tier 3 (Intensive):** Dewan Pertimbangan Kasus Eksepsional (*Contextual Justice Board*). Memastikan seluruh kasus pelanggaran diuji bersama konteks partikularnya, melarang penjatuhan sanksi otomatis yang buta terhadap kondisi kedaruratan manusiawi.
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Halaqah Ba'da Maghrib:** Melatih santri mentadabburi ayat-ayat perumpamaan (*amtsalul qur'an*) dan mengaitkannya dengan peristiwa nyata di kamar asrama seharian.
-- **Transisi Kepemimpinan (J3 ke J4):** Santri jenjang **J4 (Mandiri Penuh / Mudabbir)** dilarang menggunakan gaya komando militeristik; mereka dilatih menyampaikan instruksi menggunakan analogi yang menginspirasi (*motivational framing*).
+- **Transisi Kepemimpinan (Tahap Menengah ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh (Mandiri Penuh / Mudabbir)** dilarang menggunakan gaya komando militeristik; mereka dilatih menyampaikan instruksi menggunakan analogi yang menginspirasi (*motivational framing*).
 - **Diskusi Kamar Sebelum Tidur:** Mengganti obrolan kosong malam hari dengan refleksi analogis: mengambil hikmah dari satu insiden harian untuk membangun kedewasaan bersama.
 
 ---

@@ -130,11 +130,11 @@ Di Asrama Al-Ghafiqi, sistem penilaian adab santri menggunakan buku mutaba'ah be
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Pagi Hari (Piket Asrama):** Musyrif tidak sekadar memeriksa kebersihan lantai dengan checklist di tangan, melainkan ikut menyapu bersama santri untuk mencontohkan keikhlasan bekerja tanpa pamrih.
 - **Sore Hari (Evaluasi Integritas Diri):** Santri diajarkan memvalidasi amalan hariannya di hadapan Allah dalam doa senja, menanamkan kesadaran muraqabatullah yang melenyapkan mentalitas munafik.
-- **Jenjang Kemandirian (J1 ke J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih menjadi teladan yang berani menolak ajakan manipulasi celah aturan dari teman sebaya, menjadi benteng integritas moral di asrama.
+- **Jenjang Kemandirian (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh** dilatih menjadi teladan yang berani menolak ajakan manipulasi celah aturan dari teman sebaya, menjadi benteng integritas moral di asrama.
 
 ---
 
@@ -168,7 +168,7 @@ Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 
 - **Keputusan:**
   1. Menetapkan bahwa penilaian kepatuhan tata tertib berpijak pada substansi maqashid aturan, bukan sekadar kepatuhan hurufiah yang manipulatif.
   2. Menghapus sistem insentif kuantitatif pada ibadah mahdhah yang memicu pemalsuan data mutaba'ah.
-  3. Memasukkan uji integritas moral (*adab as-sidq*) sebagai indikator utama kenaikan jenjang kemandirian santri (J1–J4).
+  3. Memasukkan uji integritas moral (*adab as-sidq*) sebagai indikator utama kenaikan jenjang kemandirian santri (Tahap Awal hingga Tahap Lanjut).
 - **Konsekuensi:** Perubahan format pembinaan kedisiplinan, pelatihan komunikasi reflektif bagi musyrif, dan penyederhanaan Buku Tata Tertib Santri.
 
 ---

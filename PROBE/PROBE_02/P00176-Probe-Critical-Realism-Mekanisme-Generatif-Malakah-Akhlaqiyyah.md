@@ -136,13 +136,13 @@ Di Asrama Al-Jurjawi, diberlakukan sistem kedisiplinan ketat "Zero Tolerance": s
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
-- **Transisi Jenjang J1 ke J4 (Dari Heteronomi Menuju Otonomi):**
-  - **J1 (Pondasi):** Didampingi penuh dengan pengingat ramah dari musyrif (*External Scaffolding*).
-  - **J2 (Transisi):** Melatih pemantauan diri mandiri dengan checklist refleksi (*Co-Regulation*).
-  - **J3 (Mandiri Awal):** Mempraktikkan adab secara konsisten tanpa perlu diingatkan musyrif (*Emerging Malakah*).
-  - **J4 (Mandiri Penuh):** Menjadi teladan yang menginspirasi dan menggerakkan adik-adik kelasnya (*Established Malakah / Qudwah Rabbaniyyah*).
+- **Transisi jenjang tahap awal ke Tahap Mandiri Penuh (Dari Heteronomi Menuju Otonomi):**
+  - **Tahap Awal (Pondasi):** Didampingi penuh dengan pengingat ramah dari musyrif (*External Scaffolding*).
+  - **Tahap Transisi:** Melatih pemantauan diri mandiri dengan checklist refleksi (*Co-Regulation*).
+  - **Tahap Mandiri Awal:** Mempraktikkan adab secara konsisten tanpa perlu diingatkan musyrif (*Emerging Malakah*).
+  - **Tahap Mandiri Penuh:** Menjadi teladan yang menginspirasi dan menggerakkan adik-adik kelasnya (*Established Malakah / Qudwah Rabbaniyyah*).
 - **Halaqah Senja Tadabbur Adab:** Waktu 15 menit ba'da Maghrib untuk mendiskusikan rasa dan hikmah di balik peristiwa harian kamar.
 
 ---
@@ -178,7 +178,7 @@ Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 
   1. Menetapkan pembentukan *Malakah Akhlaqiyyah* (watak menetap internal) sebagai tujuan akhir seluruh kurikulum pengasuhan asrama 24 jam.
   2. Mewajibkan integrasi antara pengulangan latihan fisik (*mumarasah*), pemahaman hikmah maqashidi (*tahqiq al-fahm*), dan penguatan spiritual kalbu (*tazkiyatun nafs*).
   3. Mengeliminasi pendekatan hukuman kekerasan fisik dan pengawasan militeristik yang terbukti merusak mielinisasi kemandirian moral santri.
-- **Konsekuensi:** Restrukturisasi silabus pelatihan musyrif, pembaruan rubrik evaluasi kemandirian santri (J1–J4), dan monitoring retensi karakter pasca-asrama.
+- **Konsekuensi:** Restrukturisasi silabus pelatihan musyrif, pembaruan rubrik evaluasi kemandirian santri (Tahap Awal hingga Tahap Lanjut), dan monitoring retensi karakter pasca-asrama.
 
 ---
 
@@ -198,7 +198,7 @@ Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 
 4. **Dilarang keras** mengabaikan pembinaan iklim budaya asrama (*bi'ah*) yang menjadi struktur pendukung mekarnya mekanisme generatif fitrah santri.
 5. **Wajib** memadukan latihan kebiasaan fisik dengan pendampingan refleksi batin dan keteladanan akhlak nyata dari musyrif (*qudwah*).
 6. **Dilarang keras** melabeli santri yang lambat membentuk kebiasaan sebagai anak gagal; proses internalisasi malakah menuntut kesabaran dan pentahapan (*tadarruj*).
-7. **Wajib** memfasilitasi kenaikan jenjang kemandirian (J1 hingga J4) agar santri secara bertahap melepaskan ketergantungan pada pengawasan eksternal.
+7. **Wajib** memfasilitasi kenaikan jenjang kemandirian (Tahap Awal hingga Tahap Mandiri Penuh) agar santri secara bertahap melepaskan ketergantungan pada pengawasan eksternal.
 
 ---
 

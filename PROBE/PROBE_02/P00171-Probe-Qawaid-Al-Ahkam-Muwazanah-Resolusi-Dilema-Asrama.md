@@ -129,10 +129,10 @@ Di Asrama Al-Qabisi, terjadi kebakaran kecil akibat korsleting kabel dispenser d
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Kritis Malam Hari (00.00 – 04.00):** Menetapkan rantai komando darurat (*on-call emergency chain*) yang jelas di mana musyrif piket malam memiliki wewenang penuh mengambil tindakan medis darurat tanpa menunggu persetujuan pimpinan.
-- **Kemandirian Mengambil Keputusan Santri Senior (J4):** Santri jenjang **J4 (Mudabbir)** diajarkan prinsip muwazanah agar mampu menunda apel malam atau piket jika mendapati adik kelasnya butuh pertolongan darurat.
+- **Kemandirian Mengambil Keputusan Santri Senior (Tahap Mandiri Penuh):** Santri jenjang **Tahap Mandiri Penuh (Mudabbir)** diajarkan prinsip muwazanah agar mampu menunda apel malam atau piket jika mendapati adik kelasnya butuh pertolongan darurat.
 - **Integrasi Fasilitas Darurat:** Seluruh kunci pintu darurat dan kotak P3K wajib diletakkan di kotak kaca yang mudah dipecahkan (*break-glass box*) di setiap lantai asrama.
 
 ---

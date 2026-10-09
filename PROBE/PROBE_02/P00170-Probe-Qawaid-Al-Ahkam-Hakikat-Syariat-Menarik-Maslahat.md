@@ -129,10 +129,10 @@ Di Asrama Al-Mu'tamid, Direktur Sarana Prasarana baru memutuskan untuk menghemat
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Waktu Makan (Logistik Sehat):** Mengaudit menu dapur asrama setiap pekan untuk memastikan asupan gizi memenuhi standar kalori pertumbuhan remaja (maslahat fisik dharuriyyah).
-- **Kemandirian Evaluasi Lingkungan (J1 ke J4):** Santri jenjang **J4 (Mandiri Penuh)** dilatih melakukan audit kenyamanan fasilitas kamar dan menyampaikan aspirasi maslahat kepada pengurus secara ilmiah dan beradab.
+- **Kemandirian Evaluasi Lingkungan (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Mandiri Penuh** dilatih melakukan audit kenyamanan fasilitas kamar dan menyampaikan aspirasi maslahat kepada pengurus secara ilmiah dan beradab.
 - **Manajemen Sampah & Lingkungan:** Menjadikan program pengolahan sampah asrama sebagai sarana menolak mafsadat lingkungan (*hifzhul bi'ah*) yang bernilai ibadah.
 
 ---

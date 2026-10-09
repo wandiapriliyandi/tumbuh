@@ -138,7 +138,7 @@ TUMBUH merancang integrasi struktural yang membedakan antara kompetensi asasi se
 
 | :--- | :--- | :--- | :--- |
 
-| **FARDHU 'AIN (Fondasi Wajib Seluruh Santri)** | - Aqidah Tauhid Rabbani & Ma'rifatullah.<br>- Adab Harian, Thaharah, & Fiqih Ibadah Praktis.<br>- Tazkiyatun Nafs & Pengendalian Emosi.<br>- Tahsin & Tahfiz Juz Pilihan Al-Qur'an. | Seluruh santri (Jenjang J1–J4) wajib tuntas 100% tanpa kompromi; menjadi syarat kelulusan adab. | Asesmen Formatif Perilaku 24 Jam (Evaluasi Kualitatif Kematangan Karakter). |
+| **FARDHU 'AIN (Fondasi Wajib Seluruh Santri)** | - Aqidah Tauhid Rabbani & Ma'rifatullah.<br>- Adab Harian, Thaharah, & Fiqih Ibadah Praktis.<br>- Tazkiyatun Nafs & Pengendalian Emosi.<br>- Tahsin & Tahfiz Juz Pilihan Al-Qur'an. | Seluruh santri (Jenjang Tahap Awal hingga Tahap Lanjut) wajib tuntas 100% tanpa kompromi; menjadi syarat kelulusan adab. | Asesmen Formatif Perilaku 24 Jam (Evaluasi Kualitatif Kematangan Karakter). |
 
 | **FARDHU KIFAYAH (Spesialisasi Berbasis Bakat Fitrah)** | **Jalur 1: Taffaquh Fiddin** (Hadits, Ushul Fiqh, Turats).<br>**Jalur 2: Sains & Teknologi** (Coding, Robotik, Biologi).<br>**Jalur 3: Sosial & Khidmah** (Komunikasi, Bahasa Global). | Santri memilih fokus sesuai potensi fitrah uniknya; saling melengkapi dalam satu ekosistem asrama. | Asesmen Portofolio Karya Nyata, Riset Lapangan, dan Proyek Manfaat Peradaban. |
 
@@ -276,9 +276,9 @@ KASUS: Santri Wildan (Kelas 10) memiliki ketertarikan tinggi pada pemrograman mi
 
 1. **Standarisasi Capaian Fardhu 'Ain Sebelum Penjurusan**:
 
-   - Setiap santri wajib lulus uji kompetensi Fardhu 'Ain (Aqidah lurus, Fiqih Ibadah Sahih, dan Adab Pribadi) pada akhir jenjang J2 (Kelas 8).
+   - Setiap santri wajib lulus uji kompetensi Fardhu 'Ain (Aqidah lurus, Fiqih Ibadah Sahih, dan Adab Pribadi) pada akhir jenjang transisi (Kelas 8).
 
-   - Setelah fondasi Fardhu 'Ain kokoh, santri diberikan kebebasan memilih rumpun peminatan Fardhu Kifayah pada jenjang J3–J4.
+   - Setelah fondasi Fardhu 'Ain kokoh, santri diberikan kebebasan memilih rumpun peminatan Fardhu Kifayah pada jenjang mandiri awal–Tahap Mandiri Penuh.
 
 2. **Bimbingan Konseling Bakat Fitrah**: Musyrif BK melakukan pemetaan profil minat bakat santri sejak awal masuk untuk mengarahkan penjurusan fardhu kifayah secara tepat tanpa paksaan orang tua.
 

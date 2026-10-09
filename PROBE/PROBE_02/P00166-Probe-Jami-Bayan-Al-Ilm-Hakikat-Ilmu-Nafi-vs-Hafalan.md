@@ -131,10 +131,10 @@ Di Asrama Al-Qadhi Iyadh, Santri E (kelas 12) adalah bintang sekolah: juara 1 Mu
 
 ---
 
-## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (J1–J4)
+## 10. Penerapan dalam Ritme 24 Jam Asrama & Taksonomi Kemandirian (Tahap Awal hingga Tahap Lanjut)
 
 - **Pagi Hari (Amaliah Nyata):** Santri diajarkan mempraktikkan doa bangun tidur bukan sekadar hafalan lisan, melainkan langsung beranjak merapikan tempat tidur sebagai wujud syukur fisik.
-- **Jenjang Kemandirian (J1 ke J4):** Santri jenjang **J1 (Pondasi)** dinilai dari kepatuhan adab dasar; santri jenjang **J4 (Mandiri Penuh)** dinilai dari kesediaannya melayani (*khidmah*) dan melindungi adik-adik kelasnya tanpa merasa lebih tinggi ilmunya.
+- **Jenjang Kemandirian (Tahap Awal ke Tahap Mandiri):** Santri jenjang **Tahap Awal (Pondasi)** dinilai dari kepatuhan adab dasar; santri jenjang **Tahap Mandiri Penuh** dinilai dari kesediaannya melayani (*khidmah*) dan melindungi adik-adik kelasnya tanpa merasa lebih tinggi ilmunya.
 - **Halaqah Ba'da Isya:** Musyrif mengevaluasi keseharian santri dengan pertanyaan: *"Hadits apa yang telah kita amalkan hari ini?"*, bukan sekadar *"Berapa hadits yang telah kalian hafal hari ini?"*.
 
 ---
