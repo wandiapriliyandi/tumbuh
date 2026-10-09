@@ -188,7 +188,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00236):
 
 Penyelidikan atas ikhtiyar dan taklif moral menegaskan kemuliaan martabat santri sebagai mukallaf:
 
-> **Islam tidak memandang santri sebagai budak tanpa kehendak, bukan pula raja yang bebas bertindak semaunya; Islam memandang santri sebagai khalifah moral yang memegang kemudi pilihannya sendiri. Di pesantren TUMBUH, kita tidak mencetak robot-robot yang patuh saat dipelototi; kita membina jiwa-jiwa merdeka yang memilih bersujud kepada Allah karena kesadaran akal dan kalbunya, memikul amanah hidup dengan gagah berani di hadapan mahkamah keadilan Ilahi.**
+> **Islam tidak memandang santri sebagai budak tanpa kehendak, bukan pula raja yang bebas bertindak semaunya; Islam memandang santri sebagai pemakmur bumi moral yang memegang kemudi pilihannya sendiri. Di pesantren TUMBUH, kita tidak mencetak robot-robot yang patuh saat dipelototi; kita membina jiwa-jiwa merdeka yang memilih bersujud kepada Allah karena kesadaran akal dan kalbunya, memikul amanah hidup dengan gagah berani di hadapan mahkamah keadilan Ilahi.**
 
 ---
 

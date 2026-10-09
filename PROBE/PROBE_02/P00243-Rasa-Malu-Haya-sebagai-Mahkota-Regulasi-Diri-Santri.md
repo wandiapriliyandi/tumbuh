@@ -185,7 +185,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00243):
 
 Penyelidikan atas hakikat rasa malu memancarkan keagungan akhlak profetik:
 
-> **Rasa malu adalah pakaian kemuliaan seorang mukmin; ketika rasa malu itu tanggal, manusia kehilangan rem jiwanya dan meluncur jatuh ke derajat yang lebih rendah dari binatang melata. Namun ketika rasa malu syar'i bersemi di dalam kalbu santri, ia menjelma menjadi permata keanggunan: menjaga kesucian kehormatannya dalam sunyi, memancarkan wibawa tauhid dalam pergaulan, dan mengantarkannya melangkah dengan kepala tegak sebagai khalifah moral di muka bumi.**
+> **Rasa malu adalah pakaian kemuliaan seorang mukmin; ketika rasa malu itu tanggal, manusia kehilangan rem jiwanya dan meluncur jatuh ke derajat yang lebih rendah dari binatang melata. Namun ketika rasa malu syar'i bersemi di dalam kalbu santri, ia menjelma menjadi permata keanggunan: menjaga kesucian kehormatannya dalam sunyi, memancarkan wibawa tauhid dalam pergaulan, dan mengantarkannya melangkah dengan kepala tegak sebagai pemakmur bumi moral di muka bumi.**
 
 ---
 

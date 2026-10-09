@@ -187,7 +187,7 @@ CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00254):
 
 Penyelidikan atas integrasi SDT dan Maqashid jiwa memancarkan kecemerlangan peradaban tarbiyah Islam:
 
-> **Islam tidak pernah mendidik manusia untuk menjadi robot-robot pasif yang hanya bergerak saat tombol perintah dipijit; Islam membina para khalifah peradaban yang memiliki bara inisiatif di dalam dadanya, ketangkasan karya di tangannya, dan keterikatan cinta kepada Rabbnya. Ketika benteng perlindungan syariat berpadu harmonis dengan sayap otonomi dan kompetensi fitrah, santri TUMBUH tumbuh laksana pohon kurma yang akarnya menancap kuat menghujam bumi perlindungan, dahannya menjulang bebas merengkuh langit kemandirian, dan buahnya senantiasa memberkahi semesta alam.**
+> **Islam tidak pernah mendidik manusia untuk menjadi robot-robot pasif yang hanya bergerak saat tombol perintah dipijit; Islam membina para pemakmur bumi peradaban yang memiliki bara inisiatif di dalam dadanya, ketangkasan karya di tangannya, dan keterikatan cinta kepada Rabbnya. Ketika benteng perlindungan syariat berpadu harmonis dengan sayap otonomi dan kompetensi fitrah, santri TUMBUH tumbuh laksana pohon kurma yang akarnya menancap kuat menghujam bumi perlindungan, dahannya menjulang bebas merengkuh langit kemandirian, dan buahnya senantiasa memberkahi semesta alam.**
 
 ---
 
