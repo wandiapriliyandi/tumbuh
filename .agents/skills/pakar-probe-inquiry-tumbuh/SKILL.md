@@ -3,7 +3,8 @@ name: pakar-probe-inquiry-tumbuh
 description: >-
   Keahlian, metodologi kerja, dan tata kelola penyelidikan PROBE sebagai mesin inquiry TUMBUH:
   perumusan Object of Inquiry, TUMBUH Questions, penjagaan boundary, mitigasi inquiry drift (Drift Guardrails & Check),
-  navigasi penulisan berkas P (P00000, P00001, P00002, dst. dengan 5 digit angka), penelusuran sumber (traceability),
+  navigasi penulisan berkas P (P00000 s/d P00946 dengan 5 digit angka), penelusuran sumber (traceability),
+  standarisasi kedalaman riset ilmiah empiris dan turats klasik berbobot tinggi (target 400–500+ baris substantif anti-boilerplate),
   serta sintesis dan penerjemahan hasil kajian ke repository TUMBUH v2.0.0.
 ---
 
@@ -743,6 +744,86 @@ Setiap jenis penyelidikan memiliki sifat epistemik yang berbeda. **Dilarang mema
 - Pembaca diajak **berpikir dan memahami akar persoalan**, bukan sekadar disuguhi draf peraturan.
 - Berkas memiliki suara intelektual yang utuh dan kontekstual terhadap topik yang dibahas.
 - Memiliki keterlacakan (*traceability*) argumen yang jernih dari pertanyaan menuju sintesis.
+
+---
+
+### 27.4. Standar Kedalaman Penelitian Ilmiah & Ketentuan Volume Konten (Target 400–500+ Baris)
+
+Berkas PROBE adalah **makalah penyelidikan ilmiah komprehensif (*comprehensive research monograph paper*)**, bukan lembar ringkasan eksekutif (*executive summary*), bukan checklist administratif, dan bukan draf singkat 80–120 baris. 
+
+Untuk menjamin derajat keilmuan yang kokoh dan dapat dipertanggungjawabkan di hadapan para pakar pendidikan Islam, psikolog perkembangan, dan pengasuh pesantren, setiap berkas PROBE kanonik **wajib memenuhi ketentuan kedalaman dan volume konten berikut**:
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│              STANDAR VOLUME & RIGOR PENELITIAN KANONIK PROBE                │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 1. Volume Target     : 400 s/d 500+ baris markdown substantif per berkas    │
+│ 2. Kedalaman Riset   : Mengintegrasikan literatur sains empiris mutakhir    │
+│                        (jurnal internasional, neurosains, psikologi)        │
+│ 3. Kekayaan Turats   : Teks Arab berharakat, takhrij hadits, syarah klasik  │
+│ 4. Dialektika Asrama : Studi kasus fenomenologi analitis tanpa drama skrip  │
+│ 5. Rekayasa Sistem   : Matriks komparatif multidimensi, ADR, & guardrails   │
+│ 6. Anti-Boilerplate  : Dilarang kloning kalimat seragam antarberkas         │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+#### Komponen Wajib untuk Mencapai Standar Penelitian Mendalam (400–500+ Baris):
+
+1. **Kajian Literatur Riset Empiris & Neurosains Terapan (Ekstensif)**:
+   - Wajib mengutip nama ilmuwan/peneliti otoritatif dan temuan kunci mereka (misalnya dalam psikologi remaja, *self-determination theory*, regulasi emosi, psikometri PBIS, atau adiksi digital).
+   - Membedah mekanisme neurobiologis/kognitif riil (misalnya: jalur amigdala-prefrontal korteks, fluktuasi neurotransmiter dopamin/kortisol, *executive functioning*, atau memori kerja) yang melandasi perilaku santri.
+   - Membandingkan berbagai model intervensi empiris kontemporer dan mengevaluasi kelemahan/kelebihannya di lingkungan asrama tertutup (*total institution*).
+
+2. **Kajian Turats Otentik, Filologi Teks, & Hermeneutika Syariat (Mendalam)**:
+   - Menyertakan **teks Arab berharakat lengkap** dari ayat Al-Qur'an, matan hadits shahih (dengan nama rawi dan takhrij kitab), serta kutipan karya ulama mu'tabar (seperti Al-Ghazali, Ibnu Qayyim al-Jauziyyah, Al-Muhasibi, Al-Mawardi, Abu Zayd al-Balkhi, Asy-Syathibi, Ibnu Rajab al-Hanbali, dll.).
+   - Menganalisis makna leksikal (*isytiqaq*) dan kaidah ushul fiqih/maqashid syariah (*hifzhun nafs, hifzhul 'aql, hifzhud din*) untuk menunjukkan bahwa solusi TUMBUH berakar murni pada tradisi keilmuan Islam, bukan adopsi buta teori barat.
+
+3. **Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)**:
+   - Membenturkan secara kritis tesis konvensional pesantren (yang kerap terjebak pendekatan mistis klenik atau penindakan punitif) dengan temuan sains modern.
+   - Merumuskan sintesis epistemik: bagaimana syariat dan sains saling memvalidasi dan melengkapi dalam merawat fitrah santri.
+
+4. **Fenomenologi Lapangan & Studi Kasus Asrama 24 Jam (Narasi Analitis Mendalam)**:
+   - Menggali anatomi kasus nyata kehidupan asrama santri (dinamika kamar, relasi sebaya, tekanan hafalan, kejenuhan, krisis identitas, relasi kuasa senior-junior, bias persepsi musyrif).
+   - **PANTANGAN MUTLAK**: Dilarang menggunakan format naskah drama atau dialog sandiwara percakapan (*script dialogue*). Seluruh studi kasus disajikan dalam **narasi deskriptif-analitis objektif** yang membedah akar motif, faktor pemicu lingkungan (*setting events & antecedents*), dan dinamika psikologis para pihak.
+
+5. **Matriks Komparatif & Tabel Analisis Multidimensi**:
+   - Setiap berkas menyajikan tabel/matriks yang kaya data: membandingkan spektrum perilaku, distingsi semantik, tingkatan intervensi Multi-Tier (Tier 1 Universal, Tier 2 Terarah, Tier 3 Intensif), atau perbandingan konsekuensi punitif vs konsekuensi logis restoratif.
+
+6. **Analisis Interaksi & Protokol Tindakan Edukatif Musyrif**:
+   - Menjabarkan langkah taktis pendampingan lapangan bagi pengasuh secara detail: langkah de-eskalasi emosi, panduan percakapan restoratif beradab, teknik validasi perasaan tanpa membenarkan pelanggaran, dan perlindungan privasi santri.
+
+7. **Architectural Decision Record (ADR) Komprehensif**:
+   - Mengkodifikasikan keputusan desain dalam format ADR yang lengkap: mencakup konteks masalah, keputusan kanonik, dasar pertimbangan epistemologis, risiko mitigasi, dan kriteria evaluasi keberhasilan.
+
+8. **Implikasi Berlapis Repositori & 7 Butir Guardrails**:
+   - Menghubungkan secara spesifik dampak hasil penyelidikan ke berkas sasaran di `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`.
+   - Menetapkan 7 butir batasan mutlak (*guardrails / batas-batas negatif*) yang haram dilanggar dalam pengelolaan asrama.
+
+9. **Bibliografi Terkurasi Berstandar Akademik (APA 7th Edition & Takhrij Turats)**:
+   - Mencantumkan daftar referensi lengkap: baik kitab-kitab turats rujukan primer (beserta tahqiq dan penerbit) maupun artikel jurnal ilmiah internasional bereputasi (dengan tahun, judul artikel, nama jurnal, dan DOI/identifikasi ilmiah).
+
+---
+
+### 27.5. Larangan Keras Terhadap Berkas Dangkal & Format Skeleton
+
+1. **Dilarang Menghasilkan Berkas Ringkasan Dangkal (<300 Baris)**: Berkas PROBE yang hanya berisi 80–150 baris menandakan proses inquiry yang prematur, malas menelaah literatur riset, dan mereduksi kedalaman sains menjadi slogan normatif.
+2. **Dilarang Kloning Teks & Paragraf Boilerplate**: Setiap berkas harus memiliki argumentasi yang unik dan orisinal sesuai pertanyaan panduannya. Penggunaan paragraf yang sama persis secara massal antarberkas dianggap sebagai kegagalan penulisan (*intellectual defect*).
+3. **Dilarang Overclaim Tanpa Rujukan**: Klaim psikologis atau neurosains tidak boleh ditulis tanpa landasan teori atau penelitian yang jelas.
+
+---
+
+### 27.6. Audit Mandiri Volume & Rigor Sebelum Commit
+
+Sebelum berkas PROBE disahkan atau di-commit, lakukan verifikasi:
+```text
+[ ] Apakah jumlah baris berkas ini telah menembus 400–500+ baris?
+[ ] Apakah terdapat kutipan literatur riset ilmiah (nama peneliti, teori, mekanisme)?
+[ ] Apakah terdapat teks turats berbahasa Arab berharakat dengan takhrij yang jelas?
+[ ] Apakah terdapat tabel/matriks komparatif yang substantif dan mendalam?
+[ ] Apakah studi kasus disajikan secara naratif-analitis murni (tanpa format naskah drama)?
+[ ] Apakah seluruh paragraf bebas dari boilerplate copy-paste generik?
+[ ] Apakah implikasi arsitektur (ADR, Repositori, Guardrails) terumuskan dengan tegas?
+```
 
 ---
 
