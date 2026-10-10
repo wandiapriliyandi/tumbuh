@@ -1,246 +1,246 @@
-# P00033 — Uji Semantik Mandiri Istilah `Al-Hikmah` (Kebijaksanaan Tertinggi Menempatkan Sesuatu pada Haknya)
+# P00033 — Uji Semantik Mandiri Istilah Al-Hikmah: Menolak Reduksi Menjadi Sekadar Kebijaksanaan Pragmatis Duniawi dan Menegaskan Hakikat Pemaduan Wahyu, Nalar, dan Amal Shalih
 
-## Pertanyaan
+**ID Berkas:** `PROBE/PROBE_02/P00033`  
+**Klaster:** 0 — Meta-Filosofi, Pandangan Alam, dan Epistemologi  
+**Sub-Klaster:** 0.5 — Uji Semantik Mandiri Istilah Metafisika & Epistemologi Klasik  
+**TUMBUH Question:** *Bagaimana repositori TUMBUH membedah secara leksikal, teologis, dan operasional istilah agung Al-Hikmah guna membebaskannya dari distorsi semantik sekuler yang mereduksinya menjadi sekadar kompromi pragmatis penakut atau retorika manis belaka, serta menegaskan kembali hakikat Al-Hikmah sebagai ketepatan menempatkan segala sesuatu pada maqamnya (wad'u syai'in fi mahallihi) dalam ritme pengasuhan asrama 24 jam?*
 
-Dalam leksikon pendidikan Islam dan tradisi kepemimpinan pesantren, kata **Al-Hikmah** kerap diucapkan sebagai mahkota pengasuhan santri. Namun dalam kenyataan sehari-hari, istilah agung ini sering mengalami reduksi semantik yang sangat merugikan:
-- Di sebagian kalangan, hikmah disempitkan sekadar menjadi "sikap mengalah", "kompromi tanpa prinsip", atau "pembiaran pelanggaran demi menjaga suasana damai semu". Musyrif yang mendiamkan perundungan di kamar asrama berdalih: *"Kita harus bersikap bijak (hikmah), jangan buru-buru menegur."*
-- Di kalangan lain, hikmah dipahami semata-mata sebagai kepiawaian retorika berceramah dan susunan kata-kata manis yang menghipnotis pendengar, namun hampa dari keadilan tindakan dan ketepatan sistemik.
+---
 
-Kekeliruan semantik ini menimbulkan bahaya besar: jika hikmah dimaknai sebagai pasifisme permisif, asrama santri akan hancur oleh kezaliman terselubung. Sebaliknya, jika hikmah diabaikan demi menegakkan aturan yang kaku tanpa perasaan, pesantren berubah menjadi penjara militer yang mematikan fitrah kelembutan jiwa.
+## 1. Abstrak & Pernyataan Masalah Epistemik (Epistemic Tension)
 
-Bagaimana TUMBUH melakukan **Uji Semantik Mandiri terhadap Istilah Al-Hikmah**? **Bagaimana mendefinisikan batas leksikal, ontologis, dan operasional Al-Hikmah sebagai penempatan segala sesuatu tepat pada hak, proporsi, dan maqamnya (*wad'u syai'in fi mahallihi*) di ekosistem pesantren 24 jam, sehingga mampu memadukan ketegasan hukum dengan kelembutan kasih sayang secara presisi?**
+### Abstrak
+Kata *Al-Hikmah* menempati posisi sentral dalam leksikon Al-Qur'an dan tradisi tarbiyah Islamiah, namun dalam praksis lembaga pendidikan modern kata ini kerap mengalami reduksi semantik yang parah. Dalam banyak wacana keasramaan, hikmah terdistorsi menjadi justifikasi atas pasifisme permisif—sikap mendiamkan pelanggaran adab demi menjaga ketenangan semu—atau sebaliknya, disempitkan menjadi sekadar kelihaian orasi dan siasat diplomasi tanpa pijakan keadilan substantif. Berkas pembuka Sub-Klaster 0.5 ini melakukan uji semantik mandiri (*independent semantic audit*) terhadap istilah *Al-Hikmah*. Dengan menelusuri akar filologis dalam *Mu'jam Maqayis al-Lughah* dan *Lisan al-'Arab*, serta sintesis tafsir para ulama mu'tabar (Ibn Jarir At-Thabari, Ar-Raghib Al-Isfahani, dan Ibnul Qayyim), kajian ini merekonstruksi hakikat *Al-Hikmah* sebagai perpaduan organik antara ketepatan ilmu yang bersumber dari wahyu (*al-'ilmu ash-shahih*), kematangan nalar (*al-'aqlu ash-sharih*), dan ketepatan tindakan (*al-'amal ash-shalih*) dalam menempatkan sesuatu pada tempatnya secara berkeadilan (*wad'u syai'in fi mahallihi*). Kajian ini memformulasikan implikasi arsitektural istilah tersebut ke dalam tata kelola diskresi pengasuh di asrama santri 24 jam.
+
+**Kata Kunci:** *Al-Hikmah, Uji Semantik, Wad'u Syai'in fi Mahallihi, Ibnul Qayyim, Phronesis, Diskresi Musyrif, Tarbiyah Bil-Adl.*
+
+### Pernyataan Masalah Epistemik (Epistemic Tension)
+Ketegangan epistemik mendasar dalam operasionalisasi konsep *Al-Hikmah* di pesantren bermula dari pertentangan antara:
+1. **Reduksionisme Permisif (The Permissive Reduction):** Pemaknaan keliru yang mengidentikkan hikmah dengan kelemahan jiwa, keraguan bertindak, dan kompromi tanpa batas terhadap pelanggaran syariat santri dengan dalih "menjaga perasaan anak" atau "mengutamakan kedamaian lembaga".
+2. **Kekakuan Legalisme Kering (The Rigid Legalism):** Penerapan aturan dan sanksi secara mekanistik, hitam-putih, tanpa mempertimbangkan kesiapan nalar, dinamika psikologis, dan latar belakang fitrah santri, yang mengklaim ketegasan mutlak sebagai satu-satunya bentuk ketundukan syariat.
+
+TUMBUH menegaskan bahwa *Al-Hikmah* bukanlah kompromi penakut dan bukan pula kekejaman legalistik, melainkan ketepatan menakar dosis ketegasan dan kasih sayang seturut timbangan wahyu dan Maqashid Syari'ah.
+
+---
+
+## 2. Pendahuluan: Fenomenologi Lapangan & Dilema Asrama 24 Jam
+
+Di dalam kehidupan asrama pesantren 24 jam, para musyrif dan pengasuh setiap hari dihadapkan pada ratusan persimpangan moral yang membutuhkan keputusan cepat. Seringkali, kata "bijaksana" atau "hikmah" dilontarkan di ruang musyawarah pengasuh, namun dengan makna yang saling bertolak belakang. 
+
+Fenomena pertama terjadi ketika seorang santri senior tertangkap basah melakukan pemalakan dan intimidasi terhadap santri junior di bilik asrama. Ketika musyrif muda hendak memproses pelanggaran tersebut secara adil, sebagian pembina senior mencegahnya dengan dalih: *"Harus bersikap bijak (hikmah), jangan buru-buru dihukum, kita nasihati saja diam-diam agar nama baik asrama tidak tercoreng."* Akibat pemaknaan hikmah yang permisif ini, kezaliman dibiarkan merajalela, korban trauma menahun tanpa perlindungan, dan pelaku merasa kebal hukum. Hikmah di sini telah diturunkan derajatnya menjadi alat pemutih dosa institusi (*evasion of institutional accountability*).
+
+Fenomena kedua terjadi di kubu sebaliknya. Seorang santri baru berusia 12 tahun menangis tersedu-sedu pada minggu pertama kedatangannya karena kerinduan mendalam pada ibunya (*homesick*), sehingga ia terlambat bangun untuk shalat tahajud berjamaah. Musyrif kamar yang menganut legalisme kaku langsung menjatuhkan hukuman berdiri di lapangan malam hari dan menyiram santri tersebut dengan air dingin, seraya membela diri: *"Tata tertib harus ditegakkan secara mutlak tanpa pandang bulu; inilah ketegasan Islam!"* Tindakan ini bukan hikmah, melainkan kezaliman yang membunuh motivasi ibadah anak dan memicu keputusasaan mental.
+
+Kekacauan di lapangan ini berakar dari kaburnya definisi semantik *Al-Hikmah*. Ketika konsep kunci kehilangan batasan semantiknya, para pelaksana di lapangan kehilangan kompas moral dan bertindak semata-mata seturut dorongan hawa nafsu atau amarah sesaat.
+
+---
+
+## 3. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
+
+Secara etimologis, Ibnu Faris dalam *Mu'jam Maqayis al-Lughah* (Jilid 2, Hal. 138) menjelaskan bahwa akar kata *ha-ka-ma* (ح-ك-م) memiliki makna dasar *al-man'u* (mencegah dari kerusakan dan keburukan). Dari akar ini lahir kata *hakamah* (حَكَمَة), yakni besi kekang pada tali kendali kuda yang mencegah binatang tersebut bertindak liar dan mencelakakan penunggangnya. Maka secara kebahasaan, *Al-Hikmah* adalah instrumen pengontrol nalar dan jiwa yang mencegah manusia dari kebodohan dan kezaliman.
+
+Al-Qur'an memuliakan kedudukan *Al-Hikmah* sebagai anugerah Ilahi yang teramat agung:
+
+يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ ۚ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ
+
+*"Allah menganugerahkan Al-Hikmah kepada siapa yang Dia kehendaki. Dan barangsiapa yang dianugerahi Al-Hikmah, sungguh ia telah dianugerahi kebaikan yang sangat banyak. Dan tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang berakal murni."* (QS. Al-Baqarah: 269).
+
+Ibnu Jarir At-Thabari dalam *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* menukil pandangan para sahabat dan tabi'in bahwa *Al-Hikmah* dalam ayat ini mencakup pemahaman mendalam terhadap Al-Qur'an, pemilikan ilmu syariat yang benar, serta keselarasan antara ucapan dan perbuatan. 
+
+Imam Ar-Raghib Al-Isfahani dalam *Al-Mufradat fi Gharib al-Qur'an* (Hal. 249) mendefinisikan *Al-Hikmah* bagi manusia:
+
+الْحِكْمَةُ مِنَ الْإِنْسَانِ: مَعْرِفَةُ الْمَوْجُودَاتِ، وَفِعْلُ الْخَيْرَاتِ؛ وَذَلِكَ هُوَ الَّذِي وُصِفَ بِهِ أَنَّهُ أُوتِيَ خَيْرًا كَثِيرًا
+
+*"Al-Hikmah pada diri manusia adalah: mengetahui hakikat wujud segala sesuatu (secara benar), dan mengamalkan kebajikan-kebajikan; dan itulah yang disifati bahwa ia telah dianugerahi kebaikan yang melimpah."*
+
+Puncak kristalisasi definisi operasional *Al-Hikmah* dirumuskan secara gemilang oleh Imam Ibnul Qayyim Al-Jauziyyah dalam *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Jilid 2, Hal. 448):
+
+الْحِكْمَةُ: فِعْلُ مَا يَنْبَغِي، عَلَى الْوَجْهِ الَّذِي يَنْبَغِي، فِي الْوَقْتِ الَّذِي يَنْبَغِي
+
+*"Al-Hikmah adalah: melakukan apa yang semestinya, dengan cara yang semestinya, pada waktu yang semestinya."*
+
+Ibnul Qayyim menjelaskan bahwa *Al-Hikmah* menuntut kesempurnaan tiga rukun:
+1. Ketepatan Sasaran Tindakan (*Maa Yanbaghi*): Mengetahui apa yang dituntut oleh syariat dalam kasus tersebut.
+2. Ketepatan Kaifiyat/Metode (*Al-Wajhi al-Ladzi Yanbaghi*): Menjalankan tindakan dengan takaran adil, proporsional, dan bebas dari amarah pribadi.
+3. Ketepatan Waktu/Konteks (*Al-Waqti al-Ladzi Yanbaghi*): Tidak tergesa-gesa sebelum masanya (*al-isti'jal*) dan tidak menunda-nunda ketika saatnya tiba (*at-taswif*).
+
+Definisi Ibnul Qayyim ini menegaskan bahwa *Al-Hikmah* adalah padanan identik dari kaidah adil: *Wad'u syai'in fi mahallihi* (menempatkan segala sesuatu tepat pada tempat dan porsinya).
+
+---
+
+## 4. Tinjauan Pustaka II: Phronesis Aristotelian, Contextual Intelligence & Teori Regulasi Moral
+
+Dalam diskursus filsafat etika dan psikologi kognitif modern, konsep ketepatan tindakan moral memiliki titik temu sekaligus titik pisah yang tajam dengan tradisi Islam:
+
+### 4.1 Phronesis (Practical Wisdom) dalam Etika Kebajikan
+Aristoteles dalam *Nicomachean Ethics* (Buku VI) membedakan antara *sophia* (kebijaksanaan teoritis murni) dan *phronesis* (kebijaksanaan praktis). *Phronesis* adalah kapasitas intelektual untuk menimbang dan mengambil keputusan tindakan yang benar dalam situasi partikular yang sarat ketidakpastian. Menurut Aristoteles, kebajikan moral selalu berada di titik tengah (*the golden mean*) di antara dua ekstrem cacat: keberanian berada di antara kepengecutan dan kenekatan. Namun, *phronesis* Yunani bersifat antroposentris dan terbatas pada horizon kehidupan duniawi, sementara *Al-Hikmah* Qur'ani berakar pada wahyu ilahi dan berdimensi akhirat (*ukhrawi*).
+
+### 4.2 Contextual Intelligence & Adaptive Decision Making
+Dalam sains kepemimpinan modern, Kutz (2008) mengembangkan teori *Contextual Intelligence* (Kecerdasan Kontekstual), yakni kemampuan seorang pemimpin untuk mengintegrasikan pengetahuan masa lalu, membaca variabel dinamis lingkungan saat ini, dan memproyeksikan konsekuensi masa depan sebelum mengambil tindakan. Seorang pengasuh yang memiliki kecerdasan kontekstual tidak menerapkan aturan secara mekanistik, melainkan mengevaluasi faktor biologis, kelelahan, dan latar belakang keluarga anak sebelum menentukan bentuk bimbingan.
+
+### 4.3 Cognitive Flexibility & De-escalation
+Riset neurosains kognitif (Diamond, 2013) menunjukkan bahwa fleksibilitas kognitif (*cognitive flexibility*)—yang berpusat di prefrontal cortex—adalah kunci utama dalam meregulasi respon amarah dan mencegah eskalasi konflik. Pengasuh yang kaku (*cognitively rigid*) cenderung merespon pembangkangan anak dengan agresi balik karena ketidakmampuan mengubah perspektif kognitif, sedangkan pengasuh yang matang mampu melakukan de-eskalasi konflik secara tenang dan penuh otoritas wibawa.
+
+---
+
+## 5. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq)
+
+### Pandangan Kubu Permisisme Pragmatis Duniawi
+Kubu ini mereduksi hikmah menjadi seni diplomasi politik yang lentur tanpa batas. Demi menghindari friksi sosial dan menjaga popularitas, mereka siap mengorbankan penegakan amar ma'ruf nahi munkar. Konsep hikmah diselewengkan menjadi alasan untuk membenarkan pembiaran maksiat dan kompromi dengan kemungkaran di asrama pondok.
+
+### Pandangan Kubu Radikalisme Legalis Kering
+Kubu ini menuduh setiap bentuk pertimbangan kontekstual dan kelembutan sebagai kelemahan iman. Mereka menuntut penegakan teks hukum secara literal tanpa memandang maqashid, tingkat usia, atau kondisi darurat santri. Bagi mereka, hikmah identik dengan kekerasan fisik dan pemaksaan tanpa dialog.
+
+### Rekonsiliasi Epistemik TUMBUH (Al-Jam'u wat-Taufiq)
+TUMBUH mengembalikan istilah *Al-Hikmah* ke poros kanoniknya:
+- *Al-Hikmah* berdiri tegak di atas dua tiang: **Ilmu Wahyu yang Sahih** dan **Keadilan Penempatan Proporsi**.
+- Meletakkan kelembutan pada tempat yang menuntut ketegasan adalah kebodohan; meletakkan ketegasan pada tempat yang menuntut kelembutan adalah kezaliman.
+- Hikmah menolak kompromi dalam prinsip (*tsawabit*), namun membuka ruang kelenturan dalam metode penerapan (*mutaghayyirat*).
 
 ```text
-DISTORSI MAKNA VS HAKIKAT HIKMAH KANONIK:
+DIALECTICAL BALANCE OF AL-HIKMAH (WAD'U SYAI'IN FI MAHALLIHI)
 
-   [ DISTORSI PERMISIF ]             [ AL-HIKMAH KANONIK TUMBUH ]             [ DISTORSI TEKSTUAL KAKU ]
-   "Mendiamkan maksiat/           وضع الشيء في موضعه بحق وعدل            "Menghukum santri tanpa
-    bullying demi damai"    ──► Menempatkan ketegasan & kelembutan ◄──  melihat latar belakang jiwa
-   (Kelemahan Jiwa)              pada tempat dan porsinya                 dan kesiapan akalnya"
-                                     (Tarbiyah Berkeadilan)                  (Kekejaman Jahiliyyah)
-```
-
-Prinsip dasarnya:
-
-> **Al-Hikmah bukanlah kompromi penakut dan bukan pula amarah yang dibungkus syariat; Al-Hikmah adalah ketepatan menakar dosis rahmat dan disiplin seturut timbangan wahyu.**
-
----
-
-## 1. Anatomi Reduksi Semantik: Tiga Kesalahan Memahami Hikmah di Pesantren
-
-Di lingkungan asrama pondok, istilah hikmah sering disalahgunakan:
-
-```text
-[ REDUKSI 1: HIKMAH SEBAGAI EVASION OF ACCOUNTABILITY (PENGHINDARAN HUKUM) ]
-Pelanggaran berat santri ditutup-tutupi oleh oknum pembina dengan dalih:
-"Ambil hikmahnya saja, jangan dibuka ke publik atau diproses disiplin."
-                          ↓
-[ REDUKSI 2: HIKMAH SEBAGAI RETORIKA POLITIS ]
-Pimpinan berpidato manis tentang hikmah, namun tidak menyediakan fasilitas
-dan rasio musyrif-santri yang adil di asrama.
-                          ↓
-[ REDUKSI 3: HIKMAH SEBAGAI PASIFISME MUTLAK ]
-Musyrif takut menegur santri yang membangkang karena khawatir dicap "tidak bijaksana"
-atau melanggar konsep kasih sayang.
+   [ EKSTREM KIRI: PERMISIF ]         [ AL-HIKMAH KANONIK TUMBUH ]         [ EKSTREM KANAN: TEKSTUAL KAKU ]
+   - Mendiamkan kezaliman               (Ibnul Qayyim & As-Salaf)           - Menghukum membabi buta
+   - Kompromi tanpa prinsip       ──►  وضع الشيء في موضعه بحق وعدل  ◄──    - Tanpa empati psikologis
+   - Takut menegakkan adab             "Menakar Dosis Rahmat & Adab        - Kekerasan berkedok syariat
+   (Kelemahan Moral / Khurun)           Sesuai Timbangan Wahyu"             (Kekejaman Jiwa / Ghulw)
 ```
 
 ---
 
-## 2. Landasan Turats: Hakikat Al-Hikmah dalam Tafsir dan Mu'jam
+## 6. Pembahasan Analitis & Bedah Kasus Lapangan Asrama 24 Jam
 
-Secara etimologi, *Al-Hikmah* berakar dari kata *hakama* (menahan dari keburukan), serumpun dengan *hakamah* (tali kekang kuda yang mencegahnya liar).
+### Deskripsi Kasus Lapangan
+Di Pesantren Nurul Iman, seorang santri jenjang kedua (usia 14 tahun, yatim piatu) tertangkap membawa rokok dan merokok di pojok kamar mandi asrama pada pukul 22.30 malam. Santri ini memiliki prestasi hafalan Al-Qur'an yang baik, namun baru saja menerima kabar bahwa rumah peninggalan orang tuanya digusur sengketa tanah.
 
-Allah Ta'ala berfirman:
+### Komparasi Tiga Model Pendekatan
 
-$$\text{يُؤْتِي الْحِكْمَةَ مَنْ يَشَاءُ ۚ وَمَنْ يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا ۗ وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ}$$
+#### 1. Model Permisisme Berkedok Hikmah (Abai Terhadap Kerusakan)
+Musyrif kamar menemukan santri tersebut, namun memilih pura-pura tidak melihat dan tidak menegurnya. Di ruang pengasuh, musyrif tersebut berkata: *"Santri itu sedang tertimpa musibah berat, kasihan kalau ditegur sekarang, biarkan saja dia menenangkan diri, kita harus bijak."* Akibatnya, santri tersebut merasa perbuatannya dibenarkan secara diam-diam. Dalam dua minggu berikutnya, ia mulai mengajak teman sekamarnya merokok bersama, dan kebiasaan buruk tersebut menular ke separuh kamar.
 
-*(QS. Al-Baqarah: 269).*
+#### 2. Model Legalis Kering Tanpa Hikmah (Punitif Destruktif)
+Musyrif langsung menyeret santri tersebut ke lapangan tengah malam, membangkitkan seluruh santri asrama untuk menyaksikan, lalu mencukur habis rambutnya dan menjatuhkan sanksi skorsing satu semester tanpa mendengar alasannya. Pembina menyatakan: *"Hukum pondok harus tegak tanpa ampun!"* Akibat tindakan ini, santri mengalami depresi berat, merasa kehormatannya dihancurkan di depan publik, putus asa dari rahmat Allah, dan memutuskan keluar dari pesantren dengan memendam kebencian mendalam terhadap syariat.
 
-Imam Ibnul Qayyim dalam *Madarijus Salikin* mendefinisikan Al-Hikmah dengan definisi kanonik paling presisi:
-
-$$\text{فِعْلُ مَا يَنْبَغِي، عَلَى الْوَجْهِ الَّذِي يَنْبَغِي، فِي الْوَقْتِ الَّذِي يَنْبَغِي}$$
-
-*(Melakukan apa yang semestinya, dengan cara yang semestinya, pada waktu yang semestinya).*
-
-Hikmah menuntut tiga pilar serentak: sasaran yang benar (*al-ghayah ash-shahihah*), metode yang benar (*al-kaifiyyah ash-shahihah*), dan ketepatan waktu (*al-waqt al-munasib*).
-
----
-
-## 3. Analisis Sains Kontemporer: Contextual Intelligence & Phronesis
-
-Dalam sains manajemen modern dan filsafat etika:
-1. **Phronesis Aristotelian (Practical Wisdom):** Kebijaksanaan praktis untuk mengambil keputusan moral yang tepat dalam situasi partikular yang rumit di mana aturan kaku tidak dapat diterapkan secara buta.
-2. **Contextual Intelligence (Kutz, 2008):** Kemampuan membaca variabel dinamis lingkungan sebelum melancarkan intervensi. Musyrif yang berhikmah membaca bahasa tubuh dan kesiapan mental santri sebelum menyampaikan nasihat mendalam.
+#### 3. Model Al-Hikmah Kanonik TUMBUH (Presisi, Adil, dan Memulihkan)
+Musyrif menerapkan protokol *Al-Hikmah* (Ibnul Qayyim):
+- **Sasaran yang Benar (*Maa Yanbaghi*):** Rokok disita dan pelanggaran ditegaskan sebagai perbuatan haram yang merusak fisik dan melanggar adab kesucian pondok. Pelanggaran tidak didiamkan sedikit pun.
+- **Cara yang Benar (*Al-Wajhi al-Ladzi Yanbaghi*):** Peneguran dilakukan secara privat tanpa mempermalukan di depan teman sebaya. Musyrif mendengarkan luapan duka santri perihal rumah orang tuanya dengan penuh empati (*co-regulation*), merangkulnya, lalu menghadirkan tim bimbingan konseling untuk pendampingan advokasi keluarganya.
+- **Waktu yang Benar (*Al-Waqti al-Ladzi Yanbaghi*):** Konsekuensi edukatif restoratif dijatuhkan secara proporsional—yakni berkhidmah membersihkan perpustakaan dan mengikuti pembinaan kesehatan—setelah kondisi mental anak stabil. Hasilnya: santri bertaubat dengan tulus, berhenti merokok, dan rasa takzimnya kepada pesantren semakin mendalam.
 
 ---
 
-## 4. Matriks Operasional: Spektrum Hikmah dalam Pendampingan Santri
+## 7. Matriks Komparatif & Analisis Multidimensi
 
-| Dimensi Kasus | Respon Non-Hikmah (Ekstrem Kiri / Kanan) | Respon Hikmah Beradab TUMBUH | Dalil & Kaidah Maqashid |
+### Tabel 7.1: Matriks Perbandingan Makna Hikmah: Sekuler vs Permisif vs TUMBUH
+
+| Parameter Analisis | Konsep Kebijaksanaan Sekuler (Pragmatic Wisdom) | Konsep Permisisme Populer (False Wisdom) | Hakikat Al-Hikmah Kanonik TUMBUH |
 | :--- | :--- | :--- | :--- |
-| **Santri Baru Menangis (Homesick)** | Menghukum push-up karena cengeng / Mendiamkan berhari-hari. | Memeluk, mendengarkan empatik, dan menugaskan mentor sebaya. | *Ar-Rahmah bil dhu'afa* (Kasih sayang kepada yang rapuh). |
-| **Pencurian di Kamar Asrama** | Mengarak santri keliling pondok / Menyembunyikan kasus tanpa ganti rugi. | Penyelidikan rahasia, restitusi finansial, konseling restoratif, dan perlindungan privasi. | Menegakkan hak korban tanpa menghancurkan masa depan pelaku. |
-| **Santri Malas Shalat Subuh** | Memukul santri dengan rotan / Membiarkan santri tidur lelap. | Membangunkan dengan sentuhan lembut dan percikan air sejuk, diiringi evaluasi jam tidur malam. | Evaluasi hulu lingkungan (*environmental setting*). |
+| **Sumber Otoritas** | Akal manusia, kalkulasi utilitas materi, dan konsensus sosial. | Hawa nafsu, ketakutan konflik, dan pembelaan ego. | Wahyu Al-Qur'an, Sunnah Nabawiyyah, dan nalar sehat (*aql salim*). |
+| **Tujuan Akhir (Ghayah)** | Efisiensi temporal, keuntungan duniawi, dan stabilitas politik. | Ketenangan semu dan penghindaran pertanggungjawaban. | Keselamatan akhirat (*mardhatillah*) dan tegaknya keadilan adab. |
+| **Sikap pada Prinsip** | Relatif, dapat dinegosiasikan demi kompromi kepentingan. | Longgar dan mudah menyerah di hadapan desakan pelanggar. | Kokoh pada prinsip (*tsawabit*), lentur dalam sarana (*mutaghayyirat*). |
+| **Dampak bagi Jiwa Santri** | Melahirkan kepribadian oportunis dan manipulatif. | Melahirkan santri manja yang tidak menghargai aturan syariat. | Melahirkan insan beradab yang tangguh, adil, dan takut kepada Allah. |
+
+### Tabel 7.2: Matriks Tiga Dimensi Al-Hikmah Ibnul Qayyim dalam Praksis Asrama
+
+| Dimensi Hikmah | Kaidah Bahasa Arab | Manifestasi Operasional di Asrama 24 Jam | Contoh Pelanggaran Kaidah |
+| :--- | :--- | :--- | :--- |
+| **1. Ketepatan Substansi** | *Fi'lu Maa Yanbaghi* | Menjatuhkan tindakan yang relevan secara logis dengan pelanggaran. | Menyuruh push-up 100 kali untuk santri yang lupa membaca wirid dzikir. |
+| **2. Ketepatan Kaifiyat** | *'Alal Wajhi al-Ladzi Yanbaghi* | Menegur dengan suara tenang, privat, berwibawa, tanpa caci maki. | Meneriaki santri dengan kata-kata kasar di koridor umum asrama. |
+| **3. Ketepatan Waktu** | *Fil Waqti al-Ladzi Yanbaghi* | Menunggu reda amarah amigdala santri sebelum menyampaikan nasihat akal. | Memaksa mendebat santri yang sedang histeris menangis atau panik. |
+
+### Tabel 7.3: Matriks Demarkasi Diskresi Musyrif Berbasis Al-Hikmah
+
+| Area Pengasuhan | Batas Wajib Tegas (Tsawabit - Tanpa Kompromi) | Ruang Diskresi Hikmah (Mutaghayyirat - Kontekstual) |
+| :--- | :--- | :--- |
+| **Kewajiban Shalat Fardhu** | Wajib ditunaikan tepat waktu secara berjamaah oleh seluruh santri. | Cara membangunkan: sentuhan lembut, percikan air, atau panggilan bertahap. |
+| **Pelanggaran Kekerasan Fisik** | Wajib dihentikan seketika dan diproses secara hukum perlindungan anak. | Penetapan bentuk restitusi perbaikan hubungan antara pelaku dan korban. |
+| **Pencapaian Target Hafalan** | Kualitas tajwid dan adab terhadap mushaf dilarang diturunkan standarnya. | Penyesuaian ritme setoran harian bagi santri yang mengalami kelelahan kognitif. |
+| **Kebersihan Kamar Tidur** | Standar sanitasi kamar bebas najis dan rapi adalah mutlak. | Pembagian rotasi piket harian yang disepakati secara musyawarah internal kamar. |
 
 ---
 
-## 5. Dialektika Penyelidikan: Apakah Hikmah Relatif atau Absolut?
+## 8. Analisis Interaksi & Protokol Tindakan Edukatif Musyrif
 
-### Tesis:
-*"Hikmah itu relatif tergantung selera musyrif. Apa yang bijak bagi musyrif A belum tentu bijak bagi musyrif B!"*
-
-### Antitesis:
-*"Hikmah itu kaku! SOP harus mengatur setiap gerak hingga ke detik dan sentimeter, tidak boleh ada diskresi musyrif!"*
-
-### Sintesis Arsitektural TUMBUH:
-Hikmah memiliki **prinsip absolut (*al-ashl al-kulli*)** yang terikat syariat, namun memiliki **aplikasi fleksibel (*al-far'u al-juz'i*)** di lapangan:
-- Prinsip mutlak: Perlindungan jiwa, kehormatan, dan tegaknya syariat santri tidak boleh dikompromikan.
-- Aplikasi dinamis: Pilihan kata, nada suara, dan tempo intervensi disesuaikan dengan kondisi emosional anak.
-
----
-
-## 6. Studi Kasus Malapraktik: Menyamarkan Kelemahan sebagai "Hikmah" di Asrama Bilal
+Guna mengejawantahkan hakikat *Al-Hikmah* ke dalam tindakan nyata pengasuh, TUMBUH merumuskan **Protokol Tindakan Edukatif Berbasis Hikmah (Nama-4T)**:
 
 ```text
-KASUS KELEMAHAN PEMBINA BERKEDOK HIKMAH:
-- Situasi: Kelompok santri senior memalak uang jajan santri junior setiap malam Jumat.
-- Respon Musyrif: Mengetahui hal itu tetapi enggan menindak, beralasan: "Kita harus berhikmah, jangan sampai senior merasa tidak dihargai; biarkan mereka belajar kedewasaan secara alami."
-- Bencana: Pemalakan meningkat menjadi kekerasan fisik; seorang junior dilarikan ke rumah sakit.
-- Audit TUMBUH: Musyrif dinyatakan bersalah karena melakukan tadhli' syar'i (menyelewengkan konsep hikmah). Mendiamkan kezaliman adalah kezaliman itu sendiri. Hikmah sejati mewajibkan intervensi tegas menghentikan kezaliman demi menolong pelaku dan korban.
+ALUR PROTOKOL TINDAKAN EDUKATIF BERBASIS HIKMAH (NAMA-4T):
+
+ [ TENANGKAN JIWA ] ──► [ TAKAR PROPORSI ] ──► [ TEMPATKAN HAK ] ──► [ TUNTASKAN MASLAHAT ]
+ Redakan Emosi         Evaluasi Konteks         Berikan Hak Korban      Tutup dengan Evaluasi
+ Musyrif & Santri       Usia & Kesiapan         dan Hak Pembinaan        Pencegahan Berulang
 ```
 
----
+### 1. Tahap 1: Tenangkan Jiwa (Self-Regulation & De-escalation)
+Sebelum merespon pelanggaran santri, musyrif wajib memastikan kestabilan jiwanya sendiri. Musyrif dilarang menjatuhkan konsekuensi dalam keadaan amarah memuncak (*la yaqdhi al-qadhi wa huwa ghadhban*). Musyrif menenangkan amigdala santri dengan nada suara rendah dan postur tubuh terbuka.
 
-## 7. Validasi Turats: Nasihat Lukman Al-Hakim dalam Membimbing Anak
+### 2. Tahap 2: Takar Proporsi (Contextual Assessment)
+Musyrif menimbang variabel kasus secara menyeluruh: usia perkembangan anak, status baligh atau belum, riwayat pengasuhan keluarga, tingkat kelelahan fisik malam hari, dan kadar kesengajaan perbuatan. Musyrif membedakan secara tegas antara lupa bawaan (*nisyan*), kelemahan daya tahan (*dha'f*), dan pembangkangan sengaja (*tamarrud*).
 
-Lukman digelari Al-Hakim bukan karena ia raja bermahkota, melainkan karena tutur katanya yang menempatkan tauhid sebagai prioritas pertama, disusul shalat, amar ma'ruf nahi munkar, kesabaran, dan adab berjalan:
+### 3. Tahap 3: Tempatkan Hak (Rightful Alignment - Wad'u Syai'in fi Mahallihi)
+Musyrif menempatkan segala sesuatu pada haknya: hak Allah ditegakkan melalui bimbingan taubat; hak korban dipulihkan melalui restitusi ganti rugi atau permintaan maaf yang terhormat; dan hak pelaku dilindungi dari kehancuran masa depan serta perlakuan aniaya.
 
-$$\text{يَا بُنَيَّ لَا تُشْرِكْ بِاللَّهِ ۖ إِنَّ الشِّرْكَ لَظُلْمٌ عَظِيمٌ}$$
-
-*(QS. Luqman: 13).*
-
-Hikmah mendahulukan fondasi iman sebelum menuntut cabang-cabang kepatuhan lahiriah.
-
----
-
-## 8. Persilangan Neurosains: Integrasi Emosi-Kognisi di Ventromedial PFC
-
-Riset neurokognitif membuktikan:
-1. Hikmah lahir dari konektivitas matang antara *Ventromedial Prefrontal Cortex* (vmPFC) dengan sistem limbik.
-2. Musyrif yang bijak mampu menahan reaksi reaktif instan (*amygdala hijack*) dan memilih respons pedagogis berbobot jangka panjang.
+### 4. Tahap 4: Tuntaskan Maslahat (Maqashid Closure)
+Musyrif menyelesaikan proses pendampingan dengan menetapkan langkah pencegahan jangka panjang: memperbaiki tata ruang kamar, menata jadwal tidur santri, dan mendoakan kebaikan bagi santri di sepertiga malam terakhir.
 
 ---
 
-## 9. Integrasi Model PBIS: Proaktif dan Berbasis Proporsi Kebutuhan
+## 9. Catatan Keputusan Arsitektural (ADR-P00033)
 
-Dalam kerangka PBIS, Al-Hikmah termanifestasi dalam sistem Multi-Tier:
-- Memberikan Tier 1 universal bagi 80% santri,
-- Tidak membebani 80% anak dengan pengawasan ketat Tier 3,
-- Namun tidak menelantarkan 5% anak yang membutuhkan bimbingan intensif Tier 3.
-- Inilah wujud nyata menempatkan sesuatu pada tempatnya.
+### Status: ACCEPTED
+**Tanggal Berlaku:** 2026-10-10  
+**Domain Arsitektur:** Terminologi Filosofis, Epistemologi Tarbiyah, dan Pengambilan Keputusan Asrama TUMBUH v2.0.0
 
----
+### Konteks
+Istilah *Al-Hikmah* sering digunakan secara serampangan di lingkungan pengasuhan pesantren untuk melegitimasi pembiaran kezaliman atau sebaliknya digunakan untuk membenarkan tindakan otoriter tanpa empati. Repositori TUMBUH membutuhkan ketetapan semantik yang presisi dan mengikat secara sistemik.
 
-## 10. Penerapan Lapangan Asrama 24 Jam: SOP Pengambilan Keputusan Musyrif
+### Keputusan
+1. Menetapkan definisi kanonik **Al-Hikmah** di seluruh repositori TUMBUH v2.0.0 seturut rumusan Imam Ibnul Qayyim: *Fi'lu maa yanbaghi, 'alal wajhi al-ladzi yanbaghi, fil waqti al-ladzi yanbaghi* (Melakukan apa yang semestinya, dengan cara yang semestinya, pada waktu yang semestinya), yang termanifestasi dalam prinsip keadilan syar'i: *Wad'u syai'in fi mahallihi*.
+2. Melarang keras penggunaan istilah *Al-Hikmah* untuk menjustifikasi kompromi terhadap pelanggaran syariat, penutupan kasus kekerasan fisik/seksual, atau pembiaran kezaliman di lingkungan asrama pesantren.
+3. Melarang penegakan aturan secara mekanistik yang menafikan pertimbangan usia, latar belakang psikologis, dan kesiapan fitrah santri, karena kekakuan tanpa empati adalah antitesis dari *Al-Hikmah*.
+4. Menjadikan empat tahap protokol *Al-Hikmah* (Nama-4T) sebagai acuan standar dalam menyusun SOP diskresi musyrif di folder `03_OPERATIONAL/`.
 
-Sebelum musyrif menjatuhkan konsekuensi edukatif:
-1. Tanyakan: *Apakah tindakan ini lahir dari amarah pribadi atau demi maslahat santri?*
-2. Tanyakan: *Apakah cara ini mencerminkan qudwah nabawiyyah?*
-3. Tanyakan: *Apakah momentumnya tepat atau anak sedang dalam kondisi kelelahan ekstrem?*
-
----
-
-## 11. Imutabilitas Definisi Kanonik Al-Hikmah
-
-Di repositori TUMBUH:
-- Istilah Al-Hikmah haram digunakan untuk melegalkan kompromi atas maksiat, kekerasan, atau kezaliman hak santri.
+### Konsekuensi
+- **Positif:** Mengeliminasi bias kepemimpinan permisif dan tirani legalis; memberikan panduan diskresi yang seimbang, adil, dan berwibawa bagi seluruh jajaran pengasuh.
+- **Keterbatasan:** Menuntut pelatihan intensif (*capacity building*) bagi para musyrif agar memiliki kematangan emosional dan ketajaman nalar dalam menakar proporsi kasus di lapangan.
 
 ---
 
-## 12. Taksonomi Tingkatan Manifestasi Hikmah Pengasuh
+## 10. Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails
 
-```text
-TINGKATAN HIKMAH PENGASUH ASRAMA:
-[ LEVEL 1: TERTIB SYARIAT ] ──► Tahu batasan halal, haram, dan adab dasar
-             │
-             ▼
-[ LEVEL 2: PEKA KONTEKS ] ──► Mampu membaca situasi kejiwaan santri
-             │
-             ▼
-[ LEVEL 3: TEPAT TAKARAN ] ──► Menyeimbangkan ketegasan & kasih sayang
-             │
-             ▼
-[ LEVEL 4: INSPIRATIF RUHANI ] ──► Gerak-geriknya memancarkan qudwah sejati
-```
+### Implikasi Arsitektural Antar-Folder
+1. **Implikasi bagi `01_FUNDAMENTAL/`:** Dokumen filosofis menjadikan *Al-Hikmah* sebagai poros penyeimbang antara pilar Tauhid, Maqashid Syari'ah, dan realitas fitrah manusia.
+2. **Implikasi bagi `02_IMPLEMENTATION/`:** Kerangka manajemen lembaga wajib memberikan ruang diskresi yang terukur bagi kepala asrama, bukan sistem kontrol mekanik kaku.
+3. **Implikasi bagi `03_OPERATIONAL/`:** Standar Operasional Prosedur (SOP) tidak boleh disusun secara kaku tanpa panduan penanganan kasuistik; setiap SOP disiplin wajib mencantumkan rubrik penilaian konteks pelanggaran.
 
----
-
-## 13. Audit Semantik Dokumen: Menghapus Label Kosong
-
-Auditor repositori bertugas mencoret penggunaan kata "bijaksana" dalam draf SOP yang tidak disertai parameter operasional terukur.
+### 7 Butir Guardrails Uji Semantik Istilah Al-Hikmah
+1. **Dilarang Menyamakan Hikmah dengan Pembiaran Dosa:** Haram berdalih hikmah untuk membiarkan kemungkaran, perundungan, atau penindasan santri di asrama.
+2. **Dilarang Menyamakan Hikmah dengan Kekejaman Legalistik:** Haram menjatuhkan sanksi punitif tanpa mempedulikan kondisi fisik dan kematangan nalar santri.
+3. **Dilarang Meremehkan Hakikat Bahasa Arab Turats:** Istilah syariat haram didefinisikan secara sembarangan menurut selera logika modern tanpa merujuk mu'jam mu'tabar.
+4. **Dilarang Mengabaikan Dimensi Waktu Intervensi:** Peneguran wajib memperhatikan kesiapan mental anak; haram mendebat santri yang sedang dalam krisis emosional.
+5. **Dilarang Mengambil Keputusan dalam Amarah Memuncak:** Musyrif wajib menunda pemberian sanksi hingga emosinya kembali tenang dan stabil.
+6. **Dilarang Menghilangkan Martabat Pribadi Santri:** Penegakan hikmah wajib melindungi kehormatan diri anak dan dilarang mempermalukannya di depan publik.
+7. **Dilarang Menjadikan Hikmah sebagai Retorika Tanpa Keadilan:** Kebijakan lembaga wajib mencerminkan keadilan nyata, bukan sekadar pidato manis tanpa bukti di lapangan.
 
 ---
 
-## 14. Analisis Interaksi & Protokol Tindakan Edukatif Pembinaan
+## 11. Penutup & Emergent Chain of Inquiry
 
-### A. Analisis Dinamika Relasi & Disonansi Pembinaan
-Penyelidikan pada fokus *Pegang Pedang Keadilan dengan Tangan Kasih Sayang* mengungkap relasi kuasa dan friksi psikologis antara ekspektasi pendidik dan kesiapan santri:
-1. **Disonansi Otoritas vs Kebutuhan Fitrah**: Ketegangan di asrama kerap dipicu oleh pendekatan legalistik-mekanis yang menuntut kepatuhan buta tanpa menyentuh akar afektif dan latar belakang masalah santri.
-2. **Dekonstruksi Relasi Feodal**: Transformasi pembinaan menuntut pergeseran peran musyrif dari mandor pengawas menjadi fasilitator hikmah yang mendengarkan secara empatik (*active listening*) dan memvalidasi martabat santri.
-3. **Pemulihan Kepercayaan Relasional**: Setiap insiden pelanggaran adalah sinyal disonansi perkembangan yang memerlukan pendampingan restoratif, bukan permaluan publik yang merusak konsep diri santri.
+Rekonstruksi semantik terhadap istilah *Al-Hikmah* dalam berkas P00033 ini telah berhasil meletakkan tapal batas yang kokoh antara kebijaksanaan sejati berlandaskan wahyu dengan permisisme pragmatis duniawi. *Al-Hikmah* ditegaskan sebagai mahkota tindakan tarbiyah yang menempatkan keadilan pada hakikatnya yang tertinggi.
 
-### B. Protokol Tindakan Edukatif & Rekomendasi Pendampingan
-Untuk mengoperasionalkan hikmah tersebut secara terukur di lingkungan asrama 24 jam:
-1. **Protokol De-eskalasi & Validasi Awal**: Menahan respon emosional/punitif seketika; memisahkan santri ke ruang tenang, menurunkan tensi kecemasan, dan mendengarkan alibi secara objektif.
-2. **Eksplorasi Akar Masalah & Dialog Kesadaran**: Mengarahkan santri merefleksikan konsekuensi tindakannya terhadap diri sendiri dan komunitas kamar melalui pertanyaan reflektif terbimbing.
-3. **Kesepakatan Restitusi & Rencana Pertumbuhan Mandiri**: Merumuskan tindakan perbaikan konkret (*restorative action*) yang disepakati bersama, disertai monitoring berkala tanpa stigmatisasi masa lalu.
-
----
-## 15. Decision Record: Audit Semantik Kanonik Al-Hikmah
-
-```text
-CATATAN KEPUTUSAN ARSITEKTURAL (ADR-P00033):
-- Status: DITERIMA & MENETAPKAN DEFINISI KANONIK AL-HIKMAH
-- Keputusan: Mengesahkan definisi resmi Al-Hikmah dalam repositori TUMBUH:
-             "Al-Hikmah adalah kematangan ilmu, adab, dan bashirah dalam menempatkan
-              setiap keputusan pendidikan pada tempatnya yang hak, proporsional, dan tepat waktu,
-              berlandaskan neraca wahyu dan ma'rifat akan realitas jiwa santri."
-- Larangan: Mengharamkan penggunaan istilah Al-Hikmah untuk melegitimasi pembiaran kezaliman,
-            kekerasan tersembunyi, atau penghindaran pertanggungjawaban institusional.
-- Dampak: Seluruh dokumen fundamental dan SOP wajib merujuk pada standar semantik ini.
-```
+Namun, dalam sejarah diskursus intelektual Islam, istilah *Al-Hikmah* kerap dipertukarkan, dibenturkan, atau disamakan dengan istilah serapan Yunani, yakni *Al-Falsafah*. Sebagian kalangan menganggap keduanya identik, sementara kalangan lain menolak mutlak falsafah dan hanya menerima hikmah. Bagaimana demarkasi semantik yang tepat antara keduanya di dalam arsitektur repositori TUMBUH? Oleh karena itu, rantai penyelidikan kanonik secara teratur berlanjut ke berkas berikutnya: **P00034 — Uji Semantik Mandiri Istilah Al-Falsafah: Genealogi Serapan Hikmah Yunani, Purifikasi Islam, dan Batas Pemanfaatannya dalam Desain Sistem Pendidikan Pesantren**.
 
 ---
 
-## 16. Implikasi bagi Repositori TUMBUH
+## 12. Daftar Pustaka & Referensi Terkurasi
 
-Penyelidikan P00033 ini mengunci:
-1. **`01_FUNDAMENTAL/`**: Bab *Prinsip Utama Hikmah Tarbiyyah*.
-2. **`03_OPERATIONAL/`**: Menghilangkan diskresi liar musyrif yang berlindung di balik kata hikmah.
-
----
-
-## 17. Guardrails P00033
-
-1. **Haram menjadikan dalih Al-Hikmah untuk menoleransi perundungan, pemalakan, atau pelecehan.**
-2. **Haram menerapkan disiplin kaku tanpa menimbang kesiapan psikologis dan usia santri.**
-3. **Wajib mendasarkan setiap tindakan hikmah pada perpaduan wahyu dan data perilaku riil.**
-4. **Musyrif dilarang mengeksekusi konsekuensi disiplin saat sedang dikuasai amarah meluap.**
-5. **Setiap tindakan hikmah harus dapat dipertanggungjawabkan di hadapan syariat dan dewan pengasuh.**
-6. **Pastikan santri memahami alasan hikmah di balik setiap teguran yang ia terima.**
-7. **Jadikan Al-Hikmah sebagai sarana mengantarkan jiwa santri menuju keridhaan Allah Ta'ala.**
-
----
-
-## Penutup
-
-Al-Hikmah adalah lentera peradaban yang memandu pengasuhan di tengah kegelapan hawa nafsu:
-
-> **Bukanlah hikmah jika engkau mematahkan ranting yang melengkung hingga patah; dan bukanlah hikmah jika engkau membiarkannya tumbuh liar menutupi jalan. Hikmah adalah menyangganya dengan lembut hingga ia tegak menjulang ke angkasa.**
-
----
-
-## Pertanyaan berikutnya — P00034
-
-**Uji Semantik Mandiri Istilah `Al-Falsafah` (Refleksi Rasional Kritis Mendalam).**
-
+Al-Isfahani, Ar-Raghib. (2009). *Al-Mufradat fi Gharib al-Qur'an* (Tahqiq: Shafwan Adnan Dawudi). Damaskus: Dar Al-Qalam.  
+Aristotle. (2009). *The Nicomachean Ethics* (Terjemahan David Ross, Diedit oleh Lesley Brown). Oxford: Oxford University Press.  
+At-Thabari, Abu Ja'far Muhammad bin Jarir. (2001). *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Tahqiq: Abdullah bin Abdul Muhsin At-Turki, 26 Jilid). Kairo: Dar Hijr.  
+Diamond, A. (2013). Executive functions. *Annual Review of Psychology*, 64, 135–168.  
+Ibn Faris, Abu Al-Husain Ahmad. (1979). *Mu'jam Maqayis al-Lughah* (Tahqiq: Abdussalam Muhammad Harun, 6 Jilid). Beirut: Dar Al-Fikr.  
+Ibn Manzhur, Muhammad bin Mukarram. (1994). *Lisan al-'Arab* (15 Jilid). Beirut: Dar Shadir.  
+Ibnul Qayyim Al-Jauziyyah, Syamsuddin Muhammad bin Abi Bakr. (2003). *Madarijus Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* (Tahqiq: Muhammad Al-Mu'tashim Billah Al-Baghdadi, 3 Jilid). Beirut: Dar Al-Kitab Al-Arabi.  
+Kutz, M. R. (2008). Contextual intelligence: The secret to leadership success. *Leadership*, 4(1), 5–19.  
+Zarkasyi, Hamid Fahmy. (2020). *Kausalitas: Hukum Alam atau Kehendak Tuhan (Tinjauan Teologis Al-Ghazali)*. Ponorogo: UNIDA Gontor Press.
