@@ -35,6 +35,11 @@ Temuan PROBE ini berpotensi menjadi dasar bagi pengembangan bagian kurikulum, le
 
 Pertanyaan boleh berkembang mengikuti hasil inquiry, tetapi setiap P harus tetap kembali kepada Object of Inquiry dan kebutuhan Sistem TUMBUH. Setiap hasil substantif perlu menghasilkan implikasi bagi TUMBUH dan dapat ditelusuri menuju repository.
 
+## Dokumen Perencanaan & Master Index
+
+- **Grand Master Blueprint Kanonik**: [RENCANA_INQUIRY_DAN_MASTER_INDEX_PROBE_11.md](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_11/RENCANA_INQUIRY_DAN_MASTER_INDEX_PROBE_11.md)
+- **Total Proyeksi Penyelidikan**: **850 Berkas Kanonik (`P0001` – `P0850`)** terbagi dalam 16 Klaster Asimetris Paripurna.
+
 ## Status
 
-PROBE 11 — aktif.
+PROBE 11 — Aktif & Terencana (Berkas P0001–P0009 telah tersedia sebagai fondasi Klaster 0; P0010+ dalam tahap eksekusi berbasis Grand Master Plan Ensiklopedis).
