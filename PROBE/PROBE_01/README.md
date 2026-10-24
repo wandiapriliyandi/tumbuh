@@ -65,6 +65,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 ### Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH
 - [`P00022` — Mengapa Foundation Menjadi Pintu Gerbang Pertama Seluruh Bangunan Arsitektur TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00022-Mengapa-Foundation-Menjadi-Pintu-Gerbang-Pertama.md)
 - [`P00023` — Logika Pembagian Foundation Menjadi 9 Domain Filosofis: Alasan Epistemik dan Urutan Dependensinya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00023-Logika-Pembagian-Foundation-Menjadi-9-Domain-Filosofis.md)
+- [`P00024` — Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md)
 
 
 
