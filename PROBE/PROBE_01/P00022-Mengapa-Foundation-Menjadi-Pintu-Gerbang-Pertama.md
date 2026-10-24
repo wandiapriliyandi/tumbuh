@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan urgensi ontologis, rasionalitas struktural, dan keniscayaan epistemik penempatan direktori `Foundation` sebagai pintu gerbang paling pertama dari seluruh bangunan arsitektur konseptual TUMBUH v2.0.0. Dalam sejarah rekayasa sistem pendidikan dan desain kurikulum karakter, kegagalan terbesar yang paling sering berulang adalah fenomena *pragmatic inversion* atau *technocratic rush*, yaitu ketergesa-gesaan para pengelola lembaga untuk langsung merumuskan daftar aturan tata tertib, tabel skor pelanggaran, jadwal harian santri, dan indikator perilaku teknis tanpa terlebih dahulu mendefinisikan secara tuntas fondasi filosofis yang melandasinya. Pendekatan dangkal yang melompati fondasi ini niscaya melahirkan bangunan sistem yang rapuh, mudah roboh saat diterpa krisis moral, dan menghasilkan santri yang sekadar menampilkan kepatuhan semu mekanistis (*performative compliance*) tanpa kesadaran spiritual yang mengakar.
 
-Penyelidikan kanonik ini membuktikan secara aksiomatis prinsip *Foundation-First*: sistem pendidikan karakter Islam hanya dapat berdiri kokoh apabila seluruh perangkat instrumennya diturunkan secara deduktif dari fondasi ontologis (*Worldview*), epistemologis (*Epistemology*), dan antropologis (*Human Nature & Development*). Melalui sintesis antara tamsil Qur'ani mengenai pohon yang berakar teguh (*syajarah thayyibah ashluha tsabit* dalam QS. Ibrahim: 24–25), kaidah ushul fikih seputar keniscayaan fondasi atas cabang (*al-bina' 'ala al-asas*) menurut Imam al-Ghazali dan Ibnu Taimiyyah, konsep *Ta'dib* Syed Muhammad Naquib al-Attas, dengan teori rekayasa perangkat lunak modern mengenai *Conceptual Integrity* (Frederick Brooks, 1975) dan *Strategic Design in Domain-Driven Design* (Eric Evans, 2003), dokumen ini menetapkan bahwa lapisan `Foundation` memegang kedudukan sebagai *Root of Meaning* (akar makna) bagi ekosistem TUMBUH. Dokumen ini merumuskan protokol tata kelola fondasi 5 tahap, skrip linter arsitektur otomatis, serta mengunci keputusan kanonik bahwa **segala perumusan teknis kurikulum yang tidak bertumpu pada Foundation dinyatakan cacat arsitektur secara mutlak**.
+Penyelidikan kanonik ini membuktikan secara aksiomatis prinsip *Foundation-First*: sistem pendidikan karakter Islam hanya dapat berdiri kokoh apabila seluruh perangkat instrumennya diturunkan secara deduktif dari fondasi ontologis (*Worldview*), epistemologis (*Epistemology*), dan antropologis (*Human Nature & Development*). Melalui sintesis antara tamsil Qur'ani mengenai pohon yang berakar teguh (*syajarah thayyibah ashluha tsabit* dalam QS. Ibrahim: 24–25), kaidah ushul fikih seputar keniscayaan fondasi atas cabang (*al-bina' 'ala al-asas*) menurut Imam al-Ghazali dan Ibnu Taimiyyah, konsep *Ta'dib* Syed Muhammad Naquib al-Attas, dengan teori rekayasa perangkat lunak modern mengenai *Conceptual Integrity* (Frederick Brooks, 1975) dan *Strategic Design in Domain-Driven Design* (Eric Evans, 2003), dokumen ini menetapkan bahwa lapisan `Foundation` memegang kedudukan sebagai *Root of Meaning* (akar makna) bagi ekosistem TUMBUH[^1]. Dokumen ini merumuskan protokol tata kelola fondasi 5 tahap, skrip linter arsitektur otomatis, serta mengunci keputusan kanonik bahwa **segala perumusan teknis kurikulum yang tidak bertumpu pada Foundation dinyatakan cacat arsitektur secara mutlak**.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & CONCEPTUAL ARCHITECTURE SPECIFICATION`
@@ -65,7 +65,7 @@ Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitab monumentalnya *Ihya' 'Ulumi
 
 > *"Dan ketahuilah bahwa barang siapa yang memulai dari cabang-cabang teknis dan amalan-amalan lahiriah anggota tubuh sebelum mengokohkan fondasi-fondasi pokok (al-ushūl) dan makrifat kesadaran kalbu, posisinya laksana orang yang membangun tembok-tembok dinding di atas tanah tanpa fondasi; maka tidak berselang lama bangunannya pasti akan runtuh lebur. Sesungguhnya nilai suatu amal lahiriah hanyalah sebatas sejauh mana ia bersandar pada makrifat yang menghunjam kokoh tentang Allah, tentang hakikat manusia, dan tentang tempat kembalinya di akhirat."* (Al-Ghazali, *Ihya' 'Ulumiddin*, Tahqiq Badawi Ahmad Thaba'anah, Dar Ihya' al-Kutub al-'Arabiyyah, Kairo, 1957).
 
-Syaikhul Islam Ibn Taimiyyah dalam *Dar'u Ta'arudhil 'Aql wa an-Naql* (Jilid 1, hlm. 142–145) menegaskan bahwa penalaran akal sehat dan dalil syar'i senantiasa mewajibkan penataan ilmu secara hierarkis:
+Syaikhul Islam Ibn Taimiyyah dalam *Dar'u Ta'arudhil 'Aql wa an-Naql* (Jilid 1, hlm. 142–145[^6]) menegaskan bahwa penalaran akal sehat dan dalil syar'i senantiasa mewajibkan penataan ilmu secara hierarkis:
 
 ```text
 إِنَّ الْبِنَاءَ لَا يَكُونُ إِلَّا بَعْدَ الْأَسَاسِ، وَتَفْرِيعَ الْمَسَائِلِ إِنَّمَا يَصِحُّ بَعْدَ تَقْرِيرِ أُصُولِهَا؛ فَمَنْ تَكَلَّمَ فِي دَقِيقِ الْعِلْمِ وَتَفَاصِيلِ الْأَحْكَامِ قَبْلَ أَنْ يُحْكِمَ الْجُمَلَ وَالْأُصُولَ الَّتِي تَنْبَنِي عَلَيْهَا، كَانَ قَوْلُهُ مُضْطَرِبًا وَتَدْبِيرُهُ مَفْسَدَةً
@@ -364,19 +364,21 @@ Tujuh prinsip penegakan fondasi yang wajib ditaati:
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan pemisahan keprihatinan antarlapisan repositori.
 - `PROBE/PROBE_01/P00012-Demarkasi-Lapisan-01-FUNDAMENTAL.md`: Menegaskan perlindungan konstitusi fundamental dari polusi teknis.
 - `PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md`: Mengunci sistem pertahanan otomatis yang menjaga integritas repositori.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
-- Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-- Al-Ghazali, A. H. (1957). *Ihya' 'ulum ad-din* (B. A. Thaba'anah, Ed.; Jilid 1). Dar Ihya' al-Kutub al-'Arabiyyah.
-- Aristotle. (1999). *Metaphysics* (W. D. Ross, Trans.). Batoche Books.
-- Brooks, F. P. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley.
-- Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
-- Ibn Taimiyyah, A. (1991). *Dar'u ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed.; Jilid 1). Jami'ah al-Imam Muhammad bin Sa'ud al-Islamiyyah.
-- Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.
-- Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Rev. ed.). Doubleday.
-- Steinberg, L. (2014). *Age of opportunity: Lessons from the new science of adolescence*. Eamon Dolan/Houghton Mifflin Harcourt.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Al-Ghazali, A. H. (1957). *Ihya' 'ulum ad-din* (B. A. Thaba'anah, Ed.; Jilid 1). Dar Ihya' al-Kutub al-'Arabiyyah.
+[^2]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
+[^3]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^4]: Brooks, F. P. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley.
+[^5]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
+[^6]: Ibn Taimiyyah, A. (1991). *Dar'u ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed.; Jilid 1). Jami'ah al-Imam Muhammad bin Sa'ud al-Islamiyyah.
+[^7]: Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.
+[^8]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Rev. ed.). Doubleday.
+[^9]: Steinberg, L. (2014). *Age of opportunity: Lessons from the new science of adolescence*. Eamon Dolan/Houghton Mifflin Harcourt.
 
 ---
 

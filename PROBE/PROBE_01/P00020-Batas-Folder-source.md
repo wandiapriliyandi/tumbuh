@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan status ontologis, batasan yurisdiksi, dan tata kelola integritas data bagi direktori `source/` dalam repositori TUMBUH v2.0.0. Dalam sistem rekayasa perangkat lunak dan manajemen pengetahuan modern, salah satu kesalahan paling destruktif adalah kegagalan membedakan antara "bahan mentah yang dikumpulkan di lapangan" (*raw ingestion data*) dan "kebenaran otoritatif yang telah diverifikasi dan disahkan oleh sistem" (*canonical single source of truth*). Aturan dasar epistemik dalam konstitusi `AGENTS.md` v2.0.0 menetapkan prinsip fundamental: *"source/ bukan otomatis source of truth"*. 
 
-Penyelidikan kanonik ini menetapkan demarkasi yang tegas antara **fakta kasar yang terekam** (*unprocessed sensory & documentary evidence*) dan **ketetapan sistemik yang sah** (*verified canonical decisions*). Melalui sintesis antara ilmu kritik periwayatan hadits turats (*Naqd al-Khabar wa 'Ilm at-Tahammul wa al-Ada'*) menurut Al-Imam Ibnu ash-Shalah dan Al-Qasimi dengan teori arsitektur data enterprise kontemporer (*Data Lake Ingestion vs Curated Enterprise Warehouse*, standar *DAMA-DMBOK*, dan prinsip *Garbage In, Garbage Out / GIGO*), dokumen ini membedah risiko epistemic fallacy yang timbul jika catatan lapangan mentah, rekaman audio wawancara, draf coretan tangan, atau dokumen eksternal di dalam `source/` disalahartikan sebagai undang-undang resmi pesantren. Dokumen ini merumuskan protokol kurasi data mentah 5 tahap, skrip linter CI otomatis penangkal dependensi ilegal (*raw source reference blocker*), serta panduan verifikasi faktual bagi seluruh kontributor repositori.
+Penyelidikan kanonik ini menetapkan demarkasi yang tegas antara **fakta kasar yang terekam** (*unprocessed sensory & documentary evidence*) dan **ketetapan sistemik yang sah** (*verified canonical decisions*). Melalui sintesis antara ilmu kritik periwayatan hadits turats (*Naqd al-Khabar wa 'Ilm at-Tahammul wa al-Ada'*) menurut Al-Imam Ibnu ash-Shalah dan Al-Qasimi dengan teori arsitektur data enterprise kontemporer (*Data Lake Ingestion vs Curated Enterprise Warehouse*, standar *DAMA-DMBOK*, dan prinsip *Garbage In, Garbage Out / GIGO*), dokumen ini membedah risiko epistemic fallacy yang timbul jika catatan lapangan mentah, rekaman audio wawancara, draf coretan tangan, atau dokumen eksternal di dalam `source/` disalahartikan sebagai undang-undang resmi pesantren[^1]. Dokumen ini merumuskan protokol kurasi data mentah 5 tahap, skrip linter CI otomatis penangkal dependensi ilegal (*raw source reference blocker*), serta panduan verifikasi faktual bagi seluruh kontributor repositori.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & DATA GOVERNANCE SPECIFICATION`
@@ -114,9 +114,9 @@ Prinsip fundamental ilmu komputasi GIGO menegaskan: jika data masukan yang dimas
 
 DAMA International. (2017). *DAMA-DMBOK: Data management body of knowledge* (2nd ed.). Technics Publications.
 
-Inmon, W. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
+Inmon, W[^4]. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
 
-Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
+Kimball, R[^5]., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
 
 Oleh karena itu, direktori `source/` dikarantina secara ketat agar data sampah (*garbage*) tidak pernah bocor langsung ke lapisan inti pembinaan santri.
 
@@ -364,19 +364,22 @@ Tujuh prinsip tata kelola bahan mentah yang wajib ditaati:
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan stratifikasi repositori.
 - `PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md`: Memetakan hulu aliran data dari `source/` menuju muara `Praktik`.
 - `PROBE/PROBE_01/P00015-Kedudukan-Lapisan-08_SOURCES_AND_EVIDENCE.md`: Menjelaskan bagaimana bukti formal dipisahkan dari keputusan otomatis.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Baqillani, M. T. (1993). *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi* (M. Z. al-Kautsari, Ed.). Mu'assasah al-Khanji.
-- Al-Qasimi, J. (1979). *Qawa'id at-tahdits min funun musthalah al-hadits*. Dar al-Kutub al-'Ilmiyyah.
-- DAMA International. (2017). *DAMA-DMBOK: Data management body of knowledge* (2nd ed.). Technics Publications.
-- Ibnu ash-Shalah, U. (1986). *Ma'rifat anwa' 'ilm al-hadits: Muqaddimah Ibn ash-Shalah* (N. 'Itr, Ed.). Dar al-Fikr.
-- Ibnu Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 10). Majma' al-Malik Fahd.
-- Inmon, W. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
-- Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
-- Loshin, D. (2010). *Master data management*. Morgan Kaufmann.
-- Redman, T. C. (2008). *Data driven: Profiting from your most important business asset*. Harvard Business Press.
-- Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
-- Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Ibnu ash-Shalah, U. (1986). *Ma'rifat anwa' 'ilm al-hadits: Muqaddimah Ibn ash-Shalah* (N. 'Itr, Ed.). Dar al-Fikr.
+[^2]: Ibnu Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 10). Majma' al-Malik Fahd.
+[^3]: Al-Qasimi, J. (1979). *Qawa'id at-tahdits min funun musthalah al-hadits*. Dar al-Kutub al-'Ilmiyyah.
+[^4]: Inmon, W. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
+[^5]: Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
+[^6]: Al-Baqillani, M. T. (1993). *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi* (M. Z. al-Kautsari, Ed.). Mu'assasah al-Khanji.
+[^7]: Loshin, D. (2010). *Master data management*. Morgan Kaufmann.
+[^8]: Redman, T. C. (2008). *Data driven: Profiting from your most important business asset*. Harvard Business Press.
+[^9]: Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
+[^10]: Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
 
 ---
 

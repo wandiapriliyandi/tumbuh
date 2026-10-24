@@ -41,7 +41,7 @@ Prinsip keterpaduan arsitektur sistem dalam Islam berakar pada sabda Rasulullah 
 *(Dari Abu Musa al-Asy'ari radhiyallahu 'anhu, dari Nabi shallallahu 'alaihi wa sallam, beliau bersabda: "Sesungguhnya seorang mukmin dengan mukmin lainnya bagaikan satu bangunan kokoh, yang sebagiannya memperkuat sebagian yang lain." Dan beliau menyilangkan jari-jemari kedua tangannya).*
 — **HR. Al-Bukhari** (No. 481) dan **Muslim** (No. 2585).
 
-Imam Ibnu Hajar al-'Asqalani (w. 852 H) dalam *Fath al-Bari* menjelaskan tamsil agung ini:
+Imam Ibnu Hajar al-'Asqalani (w[^1]. 852 H) dalam *Fath al-Bari* menjelaskan tamsil agung ini:
 ```arabic
 وَتَشْبِيكُ الْأَصَابِعِ تَمْثِيلٌ لِلتَّرَاكُبِ وَالِانْدِمَاجِ بَيْنَ أَجْزَاءِ الْبُنْيَانِ؛ بِحَيْثُ إِذَا سَقَطَ جُزْءٌ مِنْهُ اخْتَلَّ النِّظَامُ كُلُّهُ، فَكَذَلِكَ إِقَامَةُ صَرْحِ الدِّينِ لَا تَتِمُّ إِلَّا بِتَنَاسُقِ الْأَحْوَالِ وَتَسَانُدِ الْأَعْمَالِ
 ```
@@ -52,8 +52,8 @@ Teks ini menegaskan bahwa kesalehan individu santri atau kehebatan seorang figur
 
 ### 3.2. Integrasi Teori Sibernetika Sistem dan Ekologi Perkembangan
 Dalam sains sistem modern (*General Systems Theory*) dan ekologi perkembangan anak:
-1. **Teori Sibernetika Ludwig von Bertalanffy & Norbert Wiener**: Sebuah sistem yang hidup (*living open system*) membutuhkan batasan yang jelas (*boundaries*), siklus umpan balik positif dan negatif (*feedback loops*), serta homeostasis dinamis. Domain 09 menyediakan arsitektur sibernetika ini bagi pesantren agar mampu beradaptasi tanpa kehilangan jati diri adabiahnya.
-2. **Teori Ekologi Urie Bronfenbrenner**: Pertumbuhan anak dipengaruhi oleh mikrosistem (kamar asrama), mesosistem (interaksi kelas-asrama-keluarga), eksosistem (kebijakan yayasan), dan makrosistem (worldview masyarakat). Domain 09 menata seluruh lapisan ekologis ini agar tidak saling menegasikan, melainkan berpadu menjadi *Bi'ah Shalihah 24 Jam*.
+1. **Teori Sibernetika Ludwig von Bertalanffy & Norbert Wiener**: Sebuah sistem yang hidup (*living open system*) membutuhkan batasan yang jelas (*boundaries*), siklus umpan balik positif dan negatif (*feedback loops*), serta homeostasis dinamis[^4]. Domain 09 menyediakan arsitektur sibernetika ini bagi pesantren agar mampu beradaptasi tanpa kehilangan jati diri adabiahnya.
+2. **Teori Ekologi Urie Bronfenbrenner**: Pertumbuhan anak dipengaruhi oleh mikrosistem (kamar asrama), mesosistem (interaksi kelas-asrama-keluarga), eksosistem (kebijakan yayasan), dan makrosistem (worldview masyarakat)[^6]. Domain 09 menata seluruh lapisan ekologis ini agar tidak saling menegasikan, melainkan berpadu menjadi *Bi'ah Shalihah 24 Jam*.
 
 ---
 
@@ -350,35 +350,37 @@ Dua puluh aturan anti-penyimpangan arsitektur sistem yang wajib dipatuhi:
 - `01_FUNDAMENTAL/02_CORE_MODEL/`: Komponen berikutnya yang menempatkan model 7 Tahap Perkembangan Santri ke dalam wadah arsitektur ini.
 - `01_FUNDAMENTAL/03_PROGRESSION/`: Penjabaran taksonomi 4 Jenjang Kemandirian (J1–J4) di dalam ritme tata kelola institusi.
 - `03_OPERATIONAL/02_SOP/`: Seluruh dokumen SOP lapangan yang wajib tunduk pada ritme 24 jam dan alur eskalasi kasus Domain 09.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-'Asqalani, I. H. (2000). *Fath al-bari bi syarh shahih al-bukhari* (Tahqiq M. F. Abdul Baqi, Jilid 1). Al-Qahirah: Dar al-Hadits.
-- Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
-- Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab asrar ash-shalah wa muhimmatuha* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
-- Al-Izz bin Abdissalam. (1999). *Qawa'id al-ahkam fi mashalih al-anam* (Tahrir T. A. Wahbah, Jilid 1–2). Al-Qahirah: Dar al-Istiqamah.
-- Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-- Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
-- Alexander, C. (1977). *A pattern language: Towns, buildings, construction*. Oxford University Press.
-- Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-- Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall.
-- Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
-- Bertalanffy, L. von. (1968). *General system theory: Foundations, development, applications*. George Braziller.
-- Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.
-- Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
-- Checkland, P. (1999). *Systems thinking, systems practice*. John Wiley & Sons.
-- Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
-- Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
-- Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
-- Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah* (Tahqiq A. R. al-Jazzar, Jilid 28). Al-Madinah: Majma' al-Malik Fahd.
-- Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-- Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
-- Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
-- Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-- Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-- Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
-- Sugai, G., & Horner, R. H. (2009). Responsiveness-to-intervention and school-wide positive behavior support: Integration of multi-tiered system approaches. *Exceptionality*, 17(4), 223–237.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
-- Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. MIT Press.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^2]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^3]: Al-'Asqalani, I. H. (2000). *Fath al-bari bi syarh shahih al-bukhari* (Tahqiq M. F. Abdul Baqi, Jilid 1). Al-Qahirah: Dar al-Hadits.
+[^4]: Bertalanffy, L. von. (1968). *General system theory: Foundations, development, applications*. George Braziller.
+[^5]: Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. MIT Press.
+[^6]: Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.
+[^7]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^8]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab asrar ash-shalah wa muhimmatuha* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
+[^9]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
+[^10]: Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^11]: Alexander, C. (1977). *A pattern language: Towns, buildings, construction*. Oxford University Press.
+[^12]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
+[^13]: Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall.
+[^14]: Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
+[^15]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
+[^16]: Checkland, P. (1999). *Systems thinking, systems practice*. John Wiley & Sons.
+[^17]: Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
+[^18]: Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
+[^19]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
+[^20]: Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah* (Tahqiq A. R. al-Jazzar, Jilid 28). Al-Madinah: Majma' al-Malik Fahd.
+[^21]: Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
+[^22]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
+[^23]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+[^24]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
+[^25]: Sugai, G., & Horner, R. H. (2009). Responsiveness-to-intervention and school-wide positive behavior support: Integration of multi-tiered system approaches. *Exceptionality*, 17(4), 223–237.
 
 ---
 

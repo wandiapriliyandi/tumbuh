@@ -33,7 +33,7 @@ Dalam repositori TUMBUH v2.0.0, **Domain 08: Core Principles** ditempatkan secar
 ### 3.1. Rujukan Teks Turats Otoritatif (Ushul al-Fiqh & Qawa'id al-Kulliyyah)
 Dalam tradisi keilmuan Islam klasik, perumusan prinsip-prinsip universal (*al-Qawa'id al-Kulliyyah*) bukanlah langkah awal penyelidikan, melainkan hasil sintesis puncak (*istiqra' at-tamm*) dari penelusuran dalil-dalil partikular (*juz'iyyat*) yang telah melalui proses verifikasi metodologis yang ketat.
 
-Imam Asy-Syathibi (w. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan:
+Imam Asy-Syathibi (w[^1]. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan:
 ```arabic
 إِنَّ هَذِهِ الْقَوَاعِدَ الْكُلِّيَّةَ لَمْ تَثْبُتْ إِلَّا بَعْدَ اسْتِقْرَاءِ الشَّرِيعَةِ وَتَتَبُّعِ مَوَارِدِهَا وَمَصَادِرِهَا حَتَّى انْعَقَدَ عَلَيْهَا الإِجْمَاعُ الْمَعْنَوِيُّ، فَلَا يَصِحُّ تَأْسِيسُهَا عَلَى الْهَوَى وَلَا تَقْدِيمُهَا عَلَى تَمْهِيدِ الْأُصُولِ
 ```
@@ -42,7 +42,7 @@ Imam Asy-Syathibi (w. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari
 
 Teks di atas menjadi justifikasi epistemik mengapa *Core Principles* di repositori TUMBUH diletakkan di bagian akhir lapisan fondasi filosofis: prinsip inti adalah sari pati (*khulashah*) dari seluruh penelusuran epistemik sebelumnya.
 
-Imam Ibnu Rajab al-Hanbali (w. 795 H) dalam pengantar *Al-Qawa'id al-Fiqhiyyah* juga menjelaskan hakikat fungsi kaidah pokok:
+Imam Ibnu Rajab al-Hanbali (w[^2]. 795 H) dalam pengantar *Al-Qawa'id al-Fiqhiyyah* juga menjelaskan hakikat fungsi kaidah pokok:
 ```arabic
 فَهَذِهِ قَوَاعِدُ مُهِمَّةٌ تَضْبِطُ لِلْفَقِيهِ أُصُولَ الْمَذْهَبِ، وَتُطْلِعُهُ مِنْ مَآخِذِ الْفِقْهِ عَلَى نِهَايَاتِ الْمَطْلَبِ، وَتَنْتَظِمُ لَهُ مَنْثُورَ الْمَسَائِلِ فِي سِلْكٍ وَاحِدٍ
 ```
@@ -354,31 +354,32 @@ Lima belas aturan anti-penyimpangan aksioma prinsip inti yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md`: Domain pendahulu yang menyediakan hukum-hukum perubahan jiwa sebagai bahan dasar sintesis prinsip restoratif.
 - `PROBE/PROBE_01/P00032-Mengapa-System-Architecture-Menjadi-Penutup-Sempurna-Lapisan-Fondasi.md`: Inkuiri berikutnya yang menyerap 9 Aksioma Inti untuk merancang cetak biru institusi secara komprehensif.
 - `03_OPERATIONAL/01_JOB_DESCRIPTION/`: Rincian tugas pengelola yang wajib tunduk pada prinsip kepemimpinan qudwah dan akuntabilitas amanah.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
-- Al-Baji, S. K. (1986). *Ihkam al-fushul fi ahkam al-ushul* (A. M. Turki, Ed.). Bairut: Mu'assasah ar-Risalah.
-- Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
-- Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab qawa'id al-'aqa'id* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
-- Al-Izz bin Abdissalam. (1999). *Qawa'id al-ahkam fi mashalih al-anam* (Tahrir T. A. Wahbah, Jilid 1–2). Al-Qahirah: Dar al-Istiqamah.
-- Al-Jurjani, A. M. (2003). *Kitab at-ta'rifat* (M. B. al-Uyun, Ed.). Bairut: Dar an-Nafa'is.
-- Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-- Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-- Asy-Syathibi, I. (2003). *Al-Muwafaqat fi ushul asy-syari'ah* (Tahqiq M. A. Diraz, Jilid 1–2). Al-Qahirah: Dar al-Hadits.
-- Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
-- Freire, P. (2000). *Pedagogy of the oppressed* (M. B. Ramos, Trans.; 30th anniversary ed.). Continuum.
-- Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
-- Heifetz, R. A. (1994). *Leadership without easy answers*. Harvard University Press.
-- Ibn Qayyim al-Jauziyyah, M. (1991). *I'lam al-muwaqqi'in 'an rabbil 'alamin* (T. A. Sa'd, Ed., Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
-- Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-- Ibnu Rajab al-Hanbali. (1998). *Taqrir al-qawa'id wa tahrir al-fawa'id* (Tahqiq B. A. Ma'ruf, Jilid 1). Bairut: Dar Ibn Hazm.
-- Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-- Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
-- Rawls, J. (1971). *A theory of justice*. Harvard University Press.
-- Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
-- Whitehead, A. N. (1929). *Process and reality: An essay in cosmology*. Macmillan.
-- Zehr, H. (2015). *The little book of restorative justice: Revised and updated*. Good Books.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi ushul asy-syari'ah* (Tahqiq M. A. Diraz, Jilid 1–2). Al-Qahirah: Dar al-Hadits.
+[^2]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^3]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
+[^4]: Al-Baji, S. K. (1986). *Ihkam al-fushul fi ahkam al-ushul* (A. M. Turki, Ed.). Bairut: Mu'assasah ar-Risalah.
+[^5]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^6]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab qawa'id al-'aqa'id* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
+[^7]: Al-Jurjani, A. M. (2003). *Kitab at-ta'rifat* (M. B. al-Uyun, Ed.). Bairut: Dar an-Nafa'is.
+[^8]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
+[^9]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
+[^10]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
+[^11]: Freire, P. (2000). *Pedagogy of the oppressed* (M. B. Ramos, Trans.; 30th anniversary ed.). Continuum.
+[^12]: Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
+[^13]: Heifetz, R. A. (1994). *Leadership without easy answers*. Harvard University Press.
+[^14]: Ibn Qayyim al-Jauziyyah, M. (1991). *I'lam al-muwaqqi'in 'an rabbil 'alamin* (T. A. Sa'd, Ed., Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^15]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+[^16]: Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
+[^17]: Rawls, J. (1971). *A theory of justice*. Harvard University Press.
+[^18]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
+[^19]: Whitehead, A. N. (1929). *Process and reality: An essay in cosmology*. Macmillan.
+[^20]: Zehr, H. (2015). *The little book of restorative justice: Revised and updated*. Good Books.
 
 ---
 

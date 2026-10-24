@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan filosofis, metodologis, dan pedago
 
 Kekeliruan paling umum dalam perancangan kurikulum pesantren kontemporer adalah **reduksionisme pedagogis**: pendidikan disempitkan sekadar menjadi *Ta'lim* (transfer instruksi pengetahuan kognitif dan hafalan teks) atau *Tarbiyah* jasmaniah mekanik, seraya meminggirkan esensi tertinggi pendidikan Islam yaitu **Ta'dib** (penanaman dan pengenalan adab ke dalam jiwa). Akibatnya, lahir institusi pesantren yang mempraktikkan model "pendidikan gaya bank" (*banking model of education*), di mana guru bertindak sebagai depositor informasi dan santri diperlakukan sebagai wadah pasif yang hanya wajib mencatat, menghafal, dan mengulang tanpa keterlibatan kalbu.
 
-Melalui penelusuran turats ulama tarbiyah klasik—khususnya risalah *Ayyuha al-Walad* karya Imam Al-Ghazali, *Adab al-Mu'allimin* karya Imam Sahnun, serta karya seminal Syed Muhammad Naquib al-Attas (*The Concept of Education in Islam*)—yang dipadukan dengan teori konstruktivisme sosial (*Zone of Proximal Development*) dan *Self-Determination Theory*, penyelidikan ini membuktikan bahwa pendidikan Islam yang sejati adalah proses pembebasan jiwa dari kebodohan dan kezaliman menuju keadilan penempatan segala sesuatu sesuai tatanan wujud (*Adab*).
+Melalui penelusuran turats ulama tarbiyah klasik—khususnya risalah *Ayyuha al-Walad* karya Imam Al-Ghazali, *Adab al-Mu'allimin* karya Imam Sahnun, serta karya seminal Syed Muhammad Naquib al-Attas (*The Concept of Education in Islam*)—yang dipadukan dengan teori konstruktivisme sosial (*Zone of Proximal Development*) dan *Self-Determination Theory*, penyelidikan ini membuktikan bahwa pendidikan Islam yang sejati adalah proses pembebasan jiwa dari kebodohan dan kezaliman menuju keadilan penempatan segala sesuatu sesuai tatanan wujud (*Adab*)[^1].
 
 Hasil inkuiri dituangkan ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 05 sebagai fondasi pedagogis resmi repositori TUMBUH. Ditetapkan bahwa seluruh desain instruksional kelas, silabus adab asrama, dan interaksi musyrif-santri wajib berakar pada integrasi tripartit: **Tarbiyah (Pengasuhan Kasih Sayang)**, **Ta'lim (Pengajaran Intelektual Terpadu)**, dan **Ta'dib (Penanaman Adab & Kebajikan Kalbu)**.
 
@@ -77,7 +77,7 @@ Hujjatul Islam Imam Abu Hamid al-Ghazali (w. 505 H) dalam risalah terkenalnya *A
 > *(Ayyuha al-Walad, Tahqiq Ali Muhyiddin al-Qarahdaghi, Dar al-Basyair al-Islamiyyah, hlm. 24–27)*  
 > **Artinya**: *"Wahai anakku, ilmu tanpa amal adalah kegilaan, dan amal tanpa ilmu adalah kesia-siaan. Ketahuilah bahwa ilmu yang tidak menjauhkanmu hari ini dari kemaksiatan dan tidak mendorongmu untuk taat, niscaya tidak akan mampu menjauhkanmu esok hari dari api neraka... Wahai anakku, berapa banyak malam yang engkau hidupkan dengan mengulang-ulang ilmu dan menelaah kitab-kitab, serta engkau haramkan tidur atas dirimu; maka aku tidak tahu apa motif pendorongmu? Jika motifmu adalah demi memburu kemilau dunia dan menarik remah-remahnya, maka celakalah engkau, kemudian celakalah engkau!"*
 
-Imam Badruddin Ibn Jama'ah (w. 733 H) dalam karyanya yang sangat masyhur *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim* menguraikan sifat kasih sayang yang wajib dimiliki seorang pendidik sejati:
+Imam Badruddin Ibn Jama'ah (w[^3]. 733 H) dalam karyanya yang sangat masyhur *Tadzkirat as-Sami' wal Mutakallim fi Adab al-'Alim wal Muta'allim* menguraikan sifat kasih sayang yang wajib dimiliki seorang pendidik sejati:
 
 > **يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَقْصِدَ بِتَعْلِيمِهِ وَتَهْذِيبِهِ وَجْهَ اللَّهِ تَعَالَى، وَنَشْرَ الْعِلْمِ، وَإِحْيَاءَ الشَّرِيعَةِ، وَدَوَامَ خَيْرِ الْأُمَّةِ. وَأَنْ يُعَامِلَ الْمُتَعَلِّمِينَ بِمَا يُعَامِلُ بِهِ أَعَزَّ أَوْلَادِهِ مِنَ الشَّفَقَةِ وَالْمَحَبَّةِ وَاللُّطْفِ، وَالصَّبْرِ عَلَى جَفَائِهِمْ وَسُوءِ أَدَبِهِمْ فِي بَعْضِ الْأَحْيَانِ، فَيَرُدَّهُمْ بِالرِّفْقِ لَا بِالْعُنْفِ.**  
 > *(Tadzkirat as-Sami' wal Mutakallim, Tahqiq Muhammad Hasyim an-Nadwi, Dar al-Kutub al-'Ilmiyyah, hlm. 48–50)*  
@@ -86,22 +86,22 @@ Imam Badruddin Ibn Jama'ah (w. 733 H) dalam karyanya yang sangat masyhur *Tadzki
 Syed Muhammad Naquib al-Attas (1980) dalam naskah monumentalnya *The Concept of Education in Islam* merumuskan definisi definitif Ta'dib:
 > *"Education is the instillation of adab into man (*Ta'dib*). Adab is the recognition and acknowledgement of the proper places of things in the order of creation, leading to the recognition and acknowledgement of the proper place of God in the order of being and existence. Ta'dib includes within its semantic structure knowledge (*'ilm*), instruction (*ta'lim*), and good breeding (*tarbiyah*); hence it is the most precise and comprehensive term for Islamic education."* *(The Concept of Education in Islam, hlm. 21–25)*.
 
-Hadratussyaikh KH Muhammad Hasyim Asy'ari (w. 1366 H) dalam kitab monumentalnya *Adab al-'Alim wal Muta'allim* menegaskan bahwa kasih sayang pendidik kepada santri merupakan fondasi mutlak keberkahan ilmu:
+Hadratussyaikh KH Muhammad Hasyim Asy'ari (w[^6]. 1366 H) dalam kitab monumentalnya *Adab al-'Alim wal Muta'allim* menegaskan bahwa kasih sayang pendidik kepada santri merupakan fondasi mutlak keberkahan ilmu:
 
 > **يَنْبَغِي لِلْعَالِمِ أَنْ يَكُونَ شَفِيقًا عَلَى الْمُتَعَلِّمِينَ، حَرِيصًا عَلَى تَعْلِيمِهِمْ وَتَفْهِيمِهِمْ، نَاصِحًا لَهُمْ فِي أُمُورِ دِينِهِمْ وَدُنْيَاهُمْ، وَأَنْ يُنْزِلَهُمْ مَنْزِلَةَ أَوْلَادِهِ فِي الشَّفَقَةِ عَلَيْهِمْ وَالْبِرِّ بِهِمْ وَالصَّبْرِ عَلَى مَا يَبْدُو مِنْ جَفَائِهِمْ، وَلَا يَتَرَفَّعَ عَلَيْهِمْ، بَلْ يَتَوَاضَعَ لَهُمْ؛ فَإِنَّ التَّوَاضُعَ لِلْمُتَعَلِّمِ رِفْعَةٌ لِلْمُعَلِّمِ.**  
 > *(Adab al-'Alim wal Muta'allim, Maktabah at-Turats al-Islami, hlm. 28–30)*  
 > **Artinya**: *"Seyogianya bagi seorang yang berilmu (guru) bersikap sangat penyayang kepada para muridnya, bersungguh-sungguh dalam mengajarkan dan memahamkan mereka, tulus menasihati mereka dalam urusan agama dan dunia mereka, serta memposisikan mereka seperti anak-anak kandungnya sendiri dalam hal kasih sayang, kebaikan, dan kesabaran atas kekasaran tabiat mereka yang sesekali muncul. Dan janganlah ia menyombongkan diri di hadapan mereka, melainkan bertawadhu'-lah kepada mereka; karena sesungguhnya sikap rendah hati seorang guru kepada muridnya adalah kemuliaan sejati bagi sang guru."*
 
-Imam Abu al-Hasan al-Mawardi (w. 450 H) dalam *Adab ad-Dunya wa ad-Din* menguraikan keharusan menyeimbangkan pengajaran dengan kelapangan jiwa:
+Imam Abu al-Hasan al-Mawardi (w[^7]. 450 H) dalam *Adab ad-Dunya wa ad-Din* menguraikan keharusan menyeimbangkan pengajaran dengan kelapangan jiwa:
 
 > **إِذَا أَرَادَ الْمُعَلِّمُ أَنْ يَثْبُتَ عِلْمُهُ فِي قَلْبِ صَاحِبِهِ، فَلْيَبْسُطْ لَهُ وَجْهَهُ، وَلْيُلْطِفْ لَهُ كَلَامَهُ، وَلَا يُعَنِّفْهُ إِذَا قَصُرَ فَهْمُهُ، فَإِنَّ الْعُنْفَ مَنْفَرَةٌ لِلْقُلُوبِ، وَسَبَبٌ لِانْقِطَاعِ الطَّالِبِ عَنِ التَّحْصِيلِ.**  
 > *(Adab ad-Dunya wa ad-Din, Dar al-Kutub al-'Ilmiyyah, hlm. 94)*  
 > **Artinya**: *"Apabila seorang pendidik menghendaki ilmunya tertanam kokoh di dalam kalbu muridnya, maka hendaknya ia membentangkan wajah yang berseri-seri kepadanya, memperhalus tutur katanya, dan tidak bersikap kasar manakala pemahaman muridnya terbatas. Karena sesungguhnya kekasaran itu adalah hal yang membuat hati lari menjauh, dan menjadi sebab terputusnya penuntut ilmu dari meraih keberhasilan."*
 
-### 3.2. Integrasi Teori Pedagogi Modern: Dari Vygotsky hingga Paulo Freire
-Kritik tajam Paulo Freire (1970) terhadap *Banking Concept of Education* sangat relevan dengan pembenahan pendidikan pesantren. Freire menunjukkan bahwa pendidikan yang menindas menempatkan murid sebagai objek pasif, menciptakan budaya bisu (*culture of silence*), dan melahirkan kepribadian terbelah (*split personality*).
+### 3.2. Integrasi Teori Pedagogi Modern: Dari Vygotsky[^8] hingga Paulo Freire
+Kritik tajam Paulo Freire (1970) terhadap *Banking Concept of Education* sangat relevan dengan pembenahan pendidikan pesantren[^9]. Freire menunjukkan bahwa pendidikan yang menindas menempatkan murid sebagai objek pasif, menciptakan budaya bisu (*culture of silence*), dan melahirkan kepribadian terbelah (*split personality*).
 
-Epistemologi TUMBUH memadukan kritik Freire dengan teori *Zone of Proximal Development (ZPD)* dari Lev Vygotsky (1978) dan *Self-Determination Theory* dari Deci & Ryan (2000):
+Epistemologi TUMBUH memadukan kritik Freire dengan teori *Zone of Proximal Development (ZPD)* dari Lev Vygotsky (1978) dan *Self-Determination Theory* dari Deci[^10] & Ryan (2000):
 1. **Otonomi (*Autonomy*)**: Santri didorong menjalankan adab bukan karena takut rotan musyrif, melainkan atas dorongan kesadaran batin (*ikhtiyar*) yang dibangun lewat pemahaman hikmah.
 2. **Keterhubungan (*Relatedness*)**: Santri merasa aman dan dikasihi oleh gurunya, sehingga nasihat masuk ke dalam kalbu tanpa resistensi psikologis.
 3. **Kompetensi (*Competence*)**: Santri diberikan tantangan adab yang sesuai dengan kapasitas jenjang usianya (J1 hingga J4), tidak dibebani target yang mustahil dicapai.
@@ -350,25 +350,28 @@ Sepuluh aturan perlindungan filosofi pendidikan Ta'dib yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00027-Mengapa-Human-Development-Perkembangan-Insan-Ditempatkan-Setelah-Human-Nature.md`: Memberikan batasan kapasitas kesiapan usia yang mendasari metode pendidikan ini.
 - `PROBE/PROBE_01/P00029-Mengapa-Leadership-Keteladanan-Qudwah-Menjadi-Keniscayaan-Setelah-Domain-Pendidikan.md`: Inkuiri berikutnya yang membedah kepemimpinan qudwah guru sebagai penggerak pendidikan.
 - `02_IMPLEMENTATION/01_CURRICULUM/`: Berkas desain kurikulum operasional yang wajib menyerap prinsip Ta'dib ini.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. International Institute of Islamic Thought and Civilization (ISTAC).
-- Al-Bukhari, M. I. (2001). *Al-Adab al-mufrad* (M. F. Abdul Baqi, Ed.). Dar al-Basyair al-Islamiyyah.
-- Al-Ghazali, A. H. (1998). *Ayyuha al-walad* (A. M. al-Qarahdaghi, Ed.). Dar al-Basyair al-Islamiyyah.
-- Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (M. as-Saqqa, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Al-Qabisi, A. H. (1986). *Ar-Risalah al-mufashshalah li ahwal al-mu'allimin wa ahkam al-mu'allimin wal muta'allimin* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
-- Al-Zarnuji, B. D. (2002). *Ta'lim al-muta'allim thariq at-ta'allum* (M. Abdul Qadir, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Asy-Syatibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (Jilid 2). Dar al-Ma'rifah.
-- Asy'ari, K. H. M. H. (1995). *Adab al-'alim wal muta'allim*. Maktabah at-Turats al-Islami.
-- Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (A. M. Syakir, Ed.). Musthafa al-Babi al-Halabi.
-- An-Nawawi, Y. S. (1994). *At-Tibyan fi adab hamalat al-qur'an* (M. al-Hajjar, Ed.). Dar Ibn Hazm.
-- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.
-- Freire, P. (1970). *Pedagogy of the oppressed*. Herder and Herder.
-- Ibn Jama'ah, B. D. (2012). *Tadzkirat as-sami' wal mutakallim fi adab al-'alim wal muta'allim* (M. H. an-Nadwi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Ibn Sahnun, M. (1972). *Adab al-mu'allimin* (M. al-Arousi, Ed.). Al-Jaza'ir: Syarikah al-Wathaniyyah.
-- Ibn Taimiyyah, A. H. (1986). *Dar' ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed.). Jami'at al-Imam.
-- Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Al-Ghazali, A. H. (1998). *Ayyuha al-walad* (A. M. al-Qarahdaghi, Ed.). Dar al-Basyair al-Islamiyyah.
+[^2]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^3]: Ibn Jama'ah, B. D. (2012). *Tadzkirat as-sami' wal mutakallim fi adab al-'alim wal muta'allim* (M. H. an-Nadwi, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Ibn Sahnun, M. (1972). *Adab al-mu'allimin* (M. al-Arousi, Ed.). Al-Jaza'ir: Syarikah al-Wathaniyyah.
+[^5]: Ibn Taimiyyah, A. H. (1986). *Dar' ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed.). Jami'at al-Imam.
+[^6]: Asy'ari, K. H. M. H. (1995). *Adab al-'alim wal muta'allim*. Maktabah at-Turats al-Islami.
+[^7]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (M. as-Saqqa, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^8]: Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
+[^9]: Freire, P. (1970). *Pedagogy of the oppressed*. Herder and Herder.
+[^10]: Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227–268.
+[^11]: Al-Bukhari, M. I. (2001). *Al-Adab al-mufrad* (M. F. Abdul Baqi, Ed.). Dar al-Basyair al-Islamiyyah.
+[^12]: Al-Qabisi, A. H. (1986). *Ar-Risalah al-mufashshalah li ahwal al-mu'allimin wa ahkam al-mu'allimin wal muta'allimin* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
+[^13]: Al-Zarnuji, B. D. (2002). *Ta'lim al-muta'allim thariq at-ta'allum* (M. Abdul Qadir, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^14]: Asy-Syatibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (Jilid 2). Dar al-Ma'rifah.
+[^15]: Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (A. M. Syakir, Ed.). Musthafa al-Babi al-Halabi.
+[^16]: An-Nawawi, Y. S. (1994). *At-Tibyan fi adab hamalat al-qur'an* (M. al-Hajjar, Ed.). Dar Ibn Hazm.
 
 ---
 

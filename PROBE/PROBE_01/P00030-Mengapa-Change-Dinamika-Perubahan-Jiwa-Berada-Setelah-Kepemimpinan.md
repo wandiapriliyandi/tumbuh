@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan ontologis, psikologis, dan metodol
 
 Kelemahan paling kronis dalam tata kelola kedisiplinan pesantren konvensional adalah **ilusi perubahan mekanik instan (*the myth of instantaneous change*)**: pengasuh menuntut santri baru yang baru saja datang dari latar belakang keluarga permisif untuk langsung menjadi "santri ideal" dalam waktu 24 jam. Setiap ketergelinciran, kekhilafan adaptasi, atau kebiasaan lama yang kambuh disikapi dengan kepanikan dan sanksi hukuman fisik yang represif. Pendekatan mekanik ini melanggar sunnatullah perubahan bertahap (*at-tadarruj*) dan justru memicu kepura-puraan perilaku (*nifaq amali*), pemberontakan laten, atau keputusasaan batin santri.
 
-Melalui telaah mendalam terhadap literatur suluk dan tazkiyatun nafs klasik—terutama karya monumental Ibn Qayyim al-Jauziyyah (*Madarij as-Salikin*), Imam Al-Ghazali (*Ihya' 'Ulum al-Din* pada Kitab at-Taubah), dan Syaikh Abu Isma'il al-Harawi (*Manazil as-Sa'irin*)—yang dipadukan dengan teori perubahan perilaku kontemporer (*Transtheoretical Model of Change* dari Prochaska & DiClemente serta *Force Field Analysis* dari Kurt Lewin), penyelidikan ini membuktikan bahwa transformasi jiwa manusia bergerak melintasi empat stasiun utama: **Yaqzhah (Kebangkitan Kesadaran)**, **Taubah / Inabah (Orientasi Ulang Niat & Taubat)**, **Mujahadah / Riyadhah (Latihan Pembiasaan Berulang)**, hingga mencapai **Istiqamah (Keteguhan Watak Adab / Malakah)**.
+Melalui telaah mendalam terhadap literatur suluk dan tazkiyatun nafs klasik—terutama karya monumental Ibn Qayyim al-Jauziyyah (*Madarij as-Salikin*), Imam Al-Ghazali (*Ihya' 'Ulum al-Din* pada Kitab at-Taubah), dan Syaikh Abu Isma'il al-Harawi (*Manazil as-Sa'irin*)—yang dipadukan dengan teori perubahan perilaku kontemporer (*Transtheoretical Model of Change* dari Prochaska & DiClemente serta *Force Field Analysis* dari Kurt Lewin), penyelidikan ini membuktikan bahwa transformasi jiwa manusia bergerak melintasi empat stasiun utama: **Yaqzhah (Kebangkitan Kesadaran)**, **Taubah / Inabah (Orientasi Ulang Niat & Taubat)**, **Mujahadah / Riyadhah (Latihan Pembiasaan Berulang)**, hingga mencapai **Istiqamah (Keteguhan Watak Adab / Malakah)**[^1].
 
 Penyelidikan ini menghasilkan *Architectural Decision Record (ADR)* yang mengunci Domain 07 sebagai panduan kanonik dinamika perubahan santri. Ditetapkan bahwa seluruh SOP pendisiplinan asrama, program konseling bimbingan santri, dan sistem mutaba'ah perilaku wajib mematuhi kaidah tahapan perubahan bertahap, menyediakan ruang aman bagi santri untuk memperbaiki kekhilafan (*restitusi restoratif*), serta mengharamkan vonis kegagalan permanen atas santri yang sedang berproses.
 
@@ -361,24 +361,26 @@ Tiga belas aturan anti-penyimpangan dinamika perubahan yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00029-Mengapa-Leadership-Keteladanan-Qudwah-Menjadi-Keniscayaan-Setelah-Domain-Pendidikan.md`: Menyediakan keteladanan kepemimpinan yang menjadi motor penggerak perubahan jiwa ini.
 - `PROBE/PROBE_01/P00031-Mengapa-Core-Principles-Diletakkan-Setelah-Dinamika-Perubahan.md`: Inkuiri berikutnya yang menyarikan prinsip inti operasional sistem setelah dinamika perubahan tuntas dipahami.
 - `03_OPERATIONAL/02_SOP/`: Standar operasional prosedur pengasuhan santri yang wajib menyerap alur empat stasiun perubahan jiwa.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab at-taubah wa syurutuha* (Tahqiq A. Ali, Jilid 4). Dar asy-Sya'b.
-- Al-Harawi, A. I. (1988). *Manazil as-sa'irin ila al-haqq al-mubin*. Al-Qahirah: Dar al-Kitab al-Lubnani.
-- Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-- Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
-- Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman and Company.
-- Clear, J. (2018). *Atomic habits: An easy & proven way to build good habits & break bad ones*. Avery.
-- Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row.
-- Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
-- Ibn Qayyim al-Jauziyyah, M. (1996). *Madarij as-salikin baina manazil iyyaka na'budu wa iyyaka nasta'in* (M. al-Baghdadi, Ed., Jilid 1). Dar al-Kitab al-'Arabi.
-- Ibnu Rajab al-Hanbali. (2001). *Jami' al-'ulum wa al-hikam fi syarh khamsina haditsan min jawami' al-kalim*. Mu'assasah ar-Risalah.
-- Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
-- Lewin, K. (1951). *Field theory in social science: Selected theoretical papers*. Harper & Row.
-- Miller, W. R., & Rollnick, S. (2012). *Motivational interviewing: Helping people change* (3rd ed.). Guilford Press.
-- Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390–395.
-- Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Publications.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Ibn Qayyim al-Jauziyyah, M. (1996). *Madarij as-salikin baina manazil iyyaka na'budu wa iyyaka nasta'in* (M. al-Baghdadi, Ed., Jilid 1). Dar al-Kitab al-'Arabi.
+[^2]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab at-taubah wa syurutuha* (Tahqiq A. Ali, Jilid 4). Dar asy-Sya'b.
+[^3]: Al-Harawi, A. I. (1988). *Manazil as-sa'irin ila al-haqq al-mubin*. Al-Qahirah: Dar al-Kitab al-Lubnani.
+[^4]: Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390–395.
+[^5]: Lewin, K. (1951). *Field theory in social science: Selected theoretical papers*. Harper & Row.
+[^6]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
+[^7]: Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^8]: Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman and Company.
+[^9]: Clear, J. (2018). *Atomic habits: An easy & proven way to build good habits & break bad ones*. Avery.
+[^10]: Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row.
+[^11]: Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
+[^12]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
+[^13]: Miller, W. R., & Rollnick, S. (2012). *Motivational interviewing: Helping people change* (3rd ed.). Guilford Press.
+[^14]: Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Publications.
 
 ---
 

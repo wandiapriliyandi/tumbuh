@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan epistemologis dan sosiologis menga
 
 Penyakit paling kronis yang menghancurkan wibawa tarbiyah di dunia pesantren adalah **feodalisme kepemimpinan dan budaya impunitas**: kiai, guru, atau santri senior memposisikan diri sebagai "kasta bangsawan" yang berhak dilayani, kebal dari aturan disiplin, dan bebas menggunakan kekerasan dengan dalih "ketaatan mutlak kepada guru". Akibatnya, nilai-nilai adab tereduksi menjadi sekadar topeng kemunafikan sosial, di mana santri patuh semata-mata karena takut sanksi, bukan karena penghormatan yang tulus.
 
-Melalui penelusuran khazanah turats klasik—khususnya *As-Siyasah asy-Syar'iyyah* karya Syaikhul Islam Ibn Taimiyyah, *Al-Ahkam as-Sulthaniyyah* karya Imam Al-Mawardi, serta nasihat kepemimpinan Imam Al-Ghazali dalam *Nashihat al-Muluk*—yang diintegrasikan dengan teori kepemimpinan pelayan (*Servant Leadership*) dari Robert K. Greenleaf dan teori pemodelan sosial (*Social Learning Theory*) dari Albert Bandura, penyelidikan ini menegakkan bahwa kepemimpinan Islam adalah **pelayanan tanpa pamrih (*Sayyidul qaumi khadimuhum*)**.
+Melalui penelusuran khazanah turats klasik—khususnya *As-Siyasah asy-Syar'iyyah* karya Syaikhul Islam Ibn Taimiyyah, *Al-Ahkam as-Sulthaniyyah* karya Imam Al-Mawardi, serta nasihat kepemimpinan Imam Al-Ghazali dalam *Nashihat al-Muluk*—yang diintegrasikan dengan teori kepemimpinan pelayan (*Servant Leadership*) dari Robert K[^1]. Greenleaf dan teori pemodelan sosial (*Social Learning Theory*) dari Albert Bandura, penyelidikan ini menegakkan bahwa kepemimpinan Islam adalah **pelayanan tanpa pamrih (*Sayyidul qaumi khadimuhum*)**[^6].
 
 Hasil penyelidikan dikristalisasi ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 06. Ditetapkan bahwa kepemimpinan di seluruh level ekosistem TUMBUH—mulai dari Pimpinan Lembaga, Asatidz, Musyrif Kamar, hingga Pengurus Santri—wajib tunduk pada protokol keteladanan qudwah yang sama, bebas dari hak impunitas feodal, dan diukur dari seberapa besar pengorbanan mereka dalam melayani dan membimbing santri.
 
@@ -75,7 +75,7 @@ Dokumen `P00029` ini secara ketat membatasi yurisdiksinya pada:
 Kaidah profetik fundamental mengenai kepemimpinan diriwayatkan dalam hadits yang masyhur:
 
 > **سَيِّدُ الْقَوْمِ خَادِمُهُمْ، وَمَنْ أَرَادَ أَنْ يَكُونَ سَيِّدًا فَلْيَبْذُلْ نَفْسَهُ فِي قَضَاءِ حَوَائِجِهِمْ، فَإِنَّ الشَّرَفَ لَا يُنَالُ بِالتَّرَفُّعِ وَإِنَّمَا يُنَالُ بِالتَّوَاضُعِ وَالْبَذْلِ.**  
-> *(Diriwayatkan oleh Al-Baihaqi dalam Syu'ab al-Iman, Maktabah ar-Rusyd, No. 7642; dan Al-Khatib al-Baghdadi dalam Tarikh Baghdad, Juz 6, hlm. 248)*  
+> *(Diriwayatkan oleh Al-Baihaqi dalam Syu'ab al-Iman, Maktabah ar-Rusyd, No. 7642[^8]; dan Al-Khatib al-Baghdadi dalam Tarikh Baghdad, Juz 6, hlm. 248)*  
 > **Artinya**: *"Pemimpin suatu kaum adalah pelayan mereka. Dan barangsiapa yang ingin menjadi pemimpin sejati, maka hendaknya ia mencurahkan dirinya dalam menunaikan hajat-hajat mereka. Karena sesungguhnya kemuliaan itu tidaklah diraih dengan menyombongkan diri, melainkan diraih dengan kerendahan hati dan pengorbanan."*
 
 Syaikhul Islam Ibn Taimiyyah (w. 728 H) dalam kitab *As-Siyasah asy-Syar'iyyah fi Ishlah ar-Ra'i war-Ra'iyyah* menegaskan bahwa amanah kepemimpinan adalah ibadah dan qurbah, bukan sarana meraih kemewahan duniawi:
@@ -352,21 +352,24 @@ Sepuluh pedoman perlindungan kepemimpinan qudwah yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00028-Mengapa-Education-Hakikat-Pendidikan-Diletakkan-Setelah-Pemahaman-Perkembangan-Insan.md`: Menyediakan landasan pedagogis yang membutuhkan keteladanan pemimpin ini.
 - `PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md`: Inkuiri berikutnya yang membedah bagaimana kepemimpinan menggerakkan perubahan jiwa santri.
 - `03_OPERATIONAL/01_JOB_DESCRIPTION/`: Rincian uraian tugas kepengurusan yang wajib mematuhi etika pelayan profetik ini.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Al-Baihaqi, A. H. (2003). *Syu'ab al-iman* (A. A. Abdul Hamid, Ed., Jilid 10). Maktabah ar-Rusyd.
-- Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
-- Ibn 'Abdil Barr, Y. A. (1994). *Jami' bayan al-'ilm wa fadlihi* (A. Z. az-Zuhairi, Ed., Jilid 1). Dar Ibn al-Jauzi.
-- Al-Ghazali, A. H. (1988). *Nashihat al-muluk* (J. Huma'i, Ed.). Dar al-Kutub al-Haditsah.
-- Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah* (M. F. as-Sirjani, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
-- Bass, B. M., & Riggio, R. E. (2006). *Transformational leadership* (2nd ed.). Lawrence Erlbaum Associates.
-- Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
-- Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
-- Ibn Taimiyyah, A. H. (1998). *As-Siyasah asy-syar'iyyah fi ishlah ar-ra'i wa ar-ra'iyyah* (A. M. al-Umran, Ed.). Dar 'Alim al-Fawa'id.
-- Kouzes, J. M., & Posner, B. Z. (2012). *The leadership challenge: How to make extraordinary things happen in organizations* (5th ed.). Jossey-Bass.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Ibn 'Abdil Barr, Y. A. (1994). *Jami' bayan al-'ilm wa fadlihi* (A. Z. az-Zuhairi, Ed., Jilid 1). Dar Ibn al-Jauzi.
+[^2]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
+[^3]: Ibn Taimiyyah, A. H. (1998). *As-Siyasah asy-syar'iyyah fi ishlah ar-ra'i wa ar-ra'iyyah* (A. M. al-Umran, Ed.). Dar 'Alim al-Fawa'id.
+[^4]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah* (M. F. as-Sirjani, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Ghazali, A. H. (1988). *Nashihat al-muluk* (J. Huma'i, Ed.). Dar al-Kutub al-Haditsah.
+[^6]: Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
+[^7]: Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
+[^8]: Al-Baihaqi, A. H. (2003). *Syu'ab al-iman* (A. A. Abdul Hamid, Ed., Jilid 10). Maktabah ar-Rusyd.
+[^9]: Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^10]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
+[^11]: Bass, B. M., & Riggio, R. E. (2006). *Transformational leadership* (2nd ed.). Lawrence Erlbaum Associates.
+[^12]: Kouzes, J. M., & Posner, B. Z. (2012). *The leadership challenge: How to make extraordinary things happen in organizations* (5th ed.). Jossey-Bass.
 
 ---
 

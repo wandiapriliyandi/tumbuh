@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan logis, biologis, dan pedagogis men
 
 Kegagalan fatal yang lazim terjadi di dunia pesantren adalah **anakronisme ekspektasi perkembangan (*developmental mismatch*)**: para pengasuh dan guru memperlakukan santri usia 12–15 tahun (fase *murahaqah* / transisi baligh) seolah-olah mereka adalah orang dewasa yang telah memiliki kematangan nalar penuh (*rusyd*). Tuntutan kedisiplinan yang kaku, sanksi yang berat, dan kurikulum yang mengabaikan dinamika neurokognitif remaja memicu ledakan stres, pelarian perilaku, atau sikap hipokrit.
 
-Melalui integrasi teks turats otoritatif—khususnya *Tuhfat al-Maudud bi Ahkam al-Maulud* karya Ibn Qayyim al-Jauziyyah dan wawasan sosiologis Ibn Khaldun—dengan temuan mutakhir neurosains mengenai pematangan *Prefrontal Cortex (PFC)*, penyelidikan ini menegakkan tahapan perkembangan Islam: dari **Thufulah (Kanak-kanak)**, **Tamyiz (Pembeda)**, **Murahaqah (Adolescence)**, **Bulugh (Kesiapan Taklif Penuh)**, hingga **Rusyd (Kematangan Holistik)**.
+Melalui integrasi teks turats otoritatif—khususnya *Tuhfat al-Maudud bi Ahkam al-Maulud* karya Ibn Qayyim al-Jauziyyah dan wawasan sosiologis Ibn Khaldun—dengan temuan mutakhir neurosains mengenai pematangan *Prefrontal Cortex (PFC)*, penyelidikan ini menegakkan tahapan perkembangan Islam: dari **Thufulah (Kanak-kanak)**, **Tamyiz (Pembeda)**, **Murahaqah (Adolescence)**, **Bulugh (Kesiapan Taklif Penuh)**, hingga **Rusyd (Kematangan Holistik)**[^1].
 
 Hasil penyelidikan dikristalisasi dalam *Architectural Decision Record (ADR)* yang mengunci Domain 04. Ditetapkan bahwa seluruh kurikulum adab santri jenjang J1 hingga J4, tata tertib asrama, dan penugasan organisasi santri wajib disesuaikan secara proporsional dengan kapasitas fase perkembangan usia biologis dan spiritual santri.
 
@@ -87,14 +87,14 @@ Ibn Khaldun (w. 808 H) dalam *Al-Muqaddimah* bab *Fi anna asy-Syiddata 'ala al-M
 > *(Muqaddimah Ibn Khaldun, Tahqiq Abdullah Muhammad ad-Darwisy, Dar Ya'rub, Juz 2, hlm. 370)*  
 > **Artinya**: *"Sesungguhnya bersikap terlalu keras dalam mendidik sangat membahayakan bagi pelajar, terlebih lagi pada anak-anak kecil, karena hal itu termasuk metode pengasuhan yang buruk. Barangsiapa yang tumbuh dalam asuhan paksaan dan kekerasan, niscaya hal itu akan mendorongnya berbuat dusta dan berperangai buruk—yaitu menampakkan sikap yang berbeda dari isi hatinya—karena takut pada kekerasan fisik yang menimpanya. Hal itu mengajarinya berbuat makar dan tipu daya, serta merusak hakikat kemanusiaan yang ada di dalam dirinya."*
 
-Imam Fakhruddin ar-Razi (w. 606 H) dalam *Tafsir al-Kabir* saat menafsirkan firman Allah *Hatta idza balagha asyuddahu wa balagha arba'ina sanah* (QS. Al-Ahqaf: 15) menjelaskan tahapan pertumbuhan akal manusia:
+Imam Fakhruddin ar-Razi (w[^3]. 606 H) dalam *Tafsir al-Kabir* saat menafsirkan firman Allah *Hatta idza balagha asyuddahu wa balagha arba'ina sanah* (QS. Al-Ahqaf: 15) menjelaskan tahapan pertumbuhan akal manusia:
 
 > **الْإِنْسَانُ لَا يَكْمُلُ عَقْلُهُ دَفْعَةً وَاحِدَةً، بَلْ يَتَدَرَّجُ مِنْ حَالَةِ الضَّعْفِ إِلَى حَالَةِ الْقُوَّةِ شَيْئًا فَشَيْئًا، فَالصَّبِيُّ قَبْلَ التَّمْيِيزِ فِي رُتْبَةِ الْعَاجِزِ، فَإِذَا مَيَّزَ اسْتَعَدَّ لِلتَّأْدِيبِ، فَإِذَا بَلَغَ لَزِمَهُ التَّكْلِيفُ، فَإِذَا بَلَغَ الْأَشُدَّ كَمُلَ رَأْيُهُ وَتَمَّتْ خِبْرَتُهُ.**  
 > *(At-Tafsir al-Kabir / Mafatih al-Ghaib, Dar al-Fikr, Juz 28, hlm. 17)*  
 > **Artinya**: *"Manusia tidaklah sempurna akalnya secara sekaligus, melainkan ia berproses bertahap dari kondisi lemah menuju kondisi kuat sedikit demi sedikit. Anak kecil sebelum tamyiz berada pada martabat orang yang tak berdaya. Apabila ia telah tamyiz, ia siap menerima pendidikan adab (ta'dib). Apabila ia telah baligh, mulailah wajib beban taklif syar'i atasnya. Dan apabila ia mencapai puncak kematangan (asyudd), sempurnalah pandangan nalar dan tuntaslah pengalamannya."*
 
 ### 3.2. Integrasi Neurosains Perkembangan: Dual-Systems Model Remaja
-Neurosains kontemporer (Steinberg, 2008; Casey et al., 2008) membuktikan bahwa selama masa remaja (usia 11–18 tahun), otak manusia mengalami perkembangan yang tidak sinkron (*developmental mismatch*):
+Neurosains kontemporer (Steinberg, 2008; Casey et al[^4]., 2008) membuktikan bahwa selama masa remaja (usia 11–18 tahun), otak manusia mengalami perkembangan yang tidak sinkron (*developmental mismatch*):
 1. **Sistem Sosio-Emosional (Limbic System / Amygdala)**: Matang lebih cepat di awal masa pubertas. Ini menyebabkan remaja sangat sensitif terhadap penghargaan sosial, dorongan teman sebaya, dan gejolak emosi intens.
 2. **Sistem Kontrol Kognitif (Prefrontal Cortex / PFC)**: Bertanggung jawab atas perencanaan jangka panjang, kontrol impuls, dan pertimbangan risiko. Bagian otak ini mengalami reorganisasi sinaptik (*synaptic pruning & myelination*) dan baru matang sempurna sekitar usia 20–25 tahun.
 
@@ -104,7 +104,7 @@ Mengabaikan fakta neurokognitif ini di lingkungan pesantren akan membuat musyrif
 
 ## 4. Analisis Komparatif: Tahapan Perkembangan Islam vs Model Sekuler
 
-| Dimensi Tahapan | Paradigma Perkembangan Islam (TUMBUH Domain 04) | Teori Psikoseksual Sekuler (Sigmund Freud) | Teori Psikososial Modern (Erik Erikson) | Bahaya jika Salah Paham di Pesantren |
+| Dimensi Tahapan | Paradigma Perkembangan Islam (TUMBUH Domain 04) | Teori Psikoseksual Sekuler (Sigmund Freud) | Teori Psikososial Modern (Erik Erikson[^6]) | Bahaya jika Salah Paham di Pesantren |
 |:---|:---|:---|:---|:---|
 | **Titik Awal Pertumbuhan** | Perjanjian Azali di Alam Ruh (*Mithaq*), lahir dalam fitrah tauhid suci. | Tahap Oral & Anal berbasis dorongan libido seksual hewani bawaan. | Konflik Kepercayaan vs Ketidakpercayaan (*Trust vs Mistrust*). | Memandang santri lahir dengan beban dosa atau dorongan jahat yang harus ditekan keras. |
 | **Peralihan Usia 7 Tahun** | Fase Tamyiz: pembiasaan adab dan shalat secara persuasif (*Amru bil Luthf*). | Fase Phallic / Oedipal Complex (konflik bawah sadar anak-orang tua). | Autonomi vs Rasa Malu/Ragu (*Autonomy vs Shame*). | Mewajibkan anak kecil berpuasa penuh atau menghafal kitab tebal tanpa kesiapan nalar. |
@@ -368,17 +368,20 @@ Sepuluh pedoman pencegahan penyimpangan perkembangan insan yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00026-Mengapa-Human-Nature-Hakikat-Insan-Berada-Tepat-Setelah-Epistemology.md`: Landasan ontologis jiwa manusia yang berkembang melintasi waktu.
 - `PROBE/PROBE_01/P00028-Mengapa-Education-Diletakkan-Setelah-Pemahaman-Perkembangan-Insan.md`: Inkuiri berikutnya yang menyusun metode pedagogi berdasarkan kesiapan fase usia ini.
 - `02_IMPLEMENTATION/01_CURRICULUM/`: Direktori implementasi jenjang kemandirian J1–J4 yang diturunkan dari domain ini.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain. *Annals of the New York Academy of Sciences*, 1124(1), 111–126.
-- Erikson, E. H. (1968). *Identity: Youth and crisis*. W. W. Norton & Company.
-- Fakhruddin ar-Razi, M. (1981). *Mafatih al-ghaib / At-Tafsir al-kabir* (Juz 28). Dar al-Fikr.
-- Ibn Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. M. ad-Darwisy, Ed., Jilid 2). Dar Ya'rub.
-- Ibn Qayyim al-Jauziyyah, M. (1997). *Tuhfat al-maudud bi ahkam al-maulud* (A. Q. al-Arnauth, Ed.). Maktabah Dar al-Bayan.
-- Piaget, J. (1972). *The psychology of the child*. Basic Books.
-- Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review*, 28(1), 78–106.
-- Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Ibn Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. M. ad-Darwisy, Ed., Jilid 2). Dar Ya'rub.
+[^2]: Ibn Qayyim al-Jauziyyah, M. (1997). *Tuhfat al-maudud bi ahkam al-maulud* (A. Q. al-Arnauth, Ed.). Maktabah Dar al-Bayan.
+[^3]: Fakhruddin ar-Razi, M. (1981). *Mafatih al-ghaib / At-Tafsir al-kabir* (Juz 28). Dar al-Fikr.
+[^4]: Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review*, 28(1), 78–106.
+[^5]: Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain. *Annals of the New York Academy of Sciences*, 1124(1), 111–126.
+[^6]: Erikson, E. H. (1968). *Identity: Youth and crisis*. W. W. Norton & Company.
+[^7]: Piaget, J. (1972). *The psychology of the child*. Basic Books.
+[^8]: Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
 
 ---
 

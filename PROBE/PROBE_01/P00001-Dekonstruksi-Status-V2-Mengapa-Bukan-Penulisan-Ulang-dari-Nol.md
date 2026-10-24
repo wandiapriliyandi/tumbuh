@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini membedah kesesatan berpikir umum dalam evolusi kelembagaan pendidikan yang memandang pembaruan versi (V2) sebagai pemutusan total terhadap masa lalu (*clean-slate fallacy* atau ilusi kanvas kosong). Dalam rekayasa sistem pengetahuan pesantren, kecenderungan membuang seluruh artefak awal sering kali dipicu oleh rasa frustrasi terhadap kekacauan format perintisan, yang secara keliru disamakan dengan kegagalan isi substansi. Melalui integrasi kaidah ushul fiqih *al-istishhab* dan kesinambungan amal shalih (*sunnah hasanah*), kritik Al-Mawardi terhadap suksesi regulasi kelembagaan (*Al-Ahkam as-Sulthaniyyah*), teori *Second-System Effect* oleh Fred Brooks (*The Mythical Man-Month*), serta metodologi *refactoring* Martin Fowler, monograf ini membuktikan bahwa penulisan ulang dari nol (*ground-up rewrite*) adalah resep kehancuran yang memutus sanad legitimasi moral dan mengulangi kesalahan-kesalahan elementer masa lalu. Sebagai resolusi epistemik, penyelidikan ini menetapkan paradigma **Penyempurnaan Integratif Berkelanjutan (*Integrative Evolutionary Refinement*)**: V2 tidak membatalkan nilai-nilai luhur V1, melainkan memilah intisari fitrah yang abadi, membersihkannya dari utang desain teknis, dan menempatkannya ke dalam stratifikasi lapisan arsitektur yang teruji dan terlacak.
+Penyelidikan ini membedah kesesatan berpikir umum dalam evolusi kelembagaan pendidikan yang memandang pembaruan versi (V2) sebagai pemutusan total terhadap masa lalu (*clean-slate fallacy* atau ilusi kanvas kosong). Dalam rekayasa sistem pengetahuan pesantren, kecenderungan membuang seluruh artefak awal sering kali dipicu oleh rasa frustrasi terhadap kekacauan format perintisan, yang secara keliru disamakan dengan kegagalan isi substansi. Melalui integrasi kaidah ushul fiqih *al-istishhab* dan kesinambungan amal shalih (*sunnah hasanah*), kritik Al-Mawardi terhadap suksesi regulasi kelembagaan (*Al-Ahkam as-Sulthaniyyah*), teori *Second-System Effect* oleh Fred Brooks (*The Mythical Man-Month*), serta metodologi *refactoring* Martin Fowler, monograf ini membuktikan bahwa penulisan ulang dari nol (*ground-up rewrite*) adalah resep kehancuran yang memutus sanad legitimasi moral dan mengulangi kesalahan-kesalahan elementer masa lalu[^1]. Sebagai resolusi epistemik, penyelidikan ini menetapkan paradigma **Penyempurnaan Integratif Berkelanjutan (*Integrative Evolutionary Refinement*)**: V2 tidak membatalkan nilai-nilai luhur V1, melainkan memilah intisari fitrah yang abadi, membersihkannya dari utang desain teknis, dan menempatkannya ke dalam stratifikasi lapisan arsitektur yang teruji dan terlacak.
 
 **Kata Kunci:** *Clean-Slate Fallacy, Second-System Effect, Refactoring Arsitektural, Istishhab, Sanad Intelektual, Absorptive Capacity, TUMBUH v2.0.0.*
 
@@ -81,7 +81,7 @@ DIALEKTIKA TURATS: AS-SUNNAH AL-HASANAH DAN PENYEMPURNAAN SANAD
 ```
 
 ### 3.1. Hadits Penyempurnaan Bangunan Kenabian
-Rasulullah ﷺ memberikan tamsil agung mengenai bagaimana sebuah sistem risalah peradaban diselesaikan melalui kesinambungan penyempurnaan, sebagaimana diriwayatkan dalam *Shahih al-Bukhari* (Kitab al-Manaqib, Bab Khatam an-Nabiyyin, No. 3535) dan *Shahih Muslim* (No. 2286):
+Rasulullah ﷺ memberikan tamsil agung mengenai bagaimana sebuah sistem risalah peradaban diselesaikan melalui kesinambungan penyempurnaan, sebagaimana diriwayatkan dalam *Shahih al-Bukhari* (Kitab al-Manaqib, Bab Khatam an-Nabiyyin, No. 3535[^5]) dan *Shahih Muslim* (No. 2286[^6]):
 
 > مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ بَنَى بَيْتًا فَأَحْسَنَهُ وَأَجْمَلَهُ، إِلَّا مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ، فَجَعَلَ النَّاسُ يَطُوفُونَ بِهِ وَيَعْجَبُونَ لَهُ، وَيَقُولُونَ: هَلَّا وُضِعَتْ هَذِهِ اللَّبِنَةُ؟ قَالَ: فَأَنَا اللَّبِنَةُ، وَأَنَا خَاتِمُ النَّبِيِّينَ
 > 
@@ -92,7 +92,7 @@ Secara epistemologis, hadits ini mengajarkan prinsip agung: **Penyempurna tidak 
 Dalam skala repositori manusiawi, tim pengembang V2 harus memiliki ketundukan moral serupa: naskah V1 adalah rumah perintisan yang telah meletakkan bata-bata awal perjuangan; tugas V2 adalah merapikan strukturnya, menyemen kerapuhannya, dan memasang bata-bata kanonik yang belum lengkap, bukan merobohkan seluruh bangunan tersebut.
 
 ### 3.2. Kaidah Ushul Fiqih: Al-Ashlu Baqa'u ma Kana 'ala ma Kana
-Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 51) menetapkan kaidah universal:
+Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 51[^7]) menetapkan kaidah universal:
 
 > الأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ
 > 
@@ -147,16 +147,16 @@ Martin Fowler (2018) dalam *Refactoring: Improving the Design of Existing Code* 
 Fowler merekomendasikan strategi pembaruan evolutif: mempertahankan perilaku dan nilai inti sistem, seraya merestrukturisasi desain internalnya agar mudah dipahami, lentur terhadap perubahan, dan murah biaya perawatannya. Inilah hakikat V2: **Architectural Refactoring**, bukan *Reckless Rewrite*.
 
 ### 4.3. Teori Kapasitas Serap Organisasi (*Absorptive Capacity*)
-Wesley M. Cohen dan Daniel A. Levinthal (1990) dalam studi klasik mereka di *Administrative Science Quarterly* membuktikan bahwa kemampuan suatu organisasi untuk mengenali nilai informasi baru, mengasimilasikannya, dan menerapkannya secara komersial/operasional sangat bergantung pada **pengetahuan awal yang telah dimiliki (*prior related knowledge*)**.
+Wesley M. Cohen dan Daniel A[^8]. Levinthal (1990) dalam studi klasik mereka di *Administrative Science Quarterly* membuktikan bahwa kemampuan suatu organisasi untuk mengenali nilai informasi baru, mengasimilasikannya, dan menerapkannya secara komersial/operasional sangat bergantung pada **pengetahuan awal yang telah dimiliki (*prior related knowledge*)**.
 
 Jika sebuah lembaga membuang seluruh dokumen V1, lembaga tersebut secara efektif menghancurkan *absorptive capacity*-nya sendiri. Para pengasuh, musyrif, dan guru akan mengalami disonansi kognitif karena mereka kehilangan pijakan pengetahuan lama yang menjadi jembatan untuk memahami sistem baru.
 
 ### 4.4. Teori Paradigma Ilmiah Thomas S. Kuhn
-Thomas S. Kuhn (1962) dalam *The Structure of Scientific Revolutions* memaparkan bahwa pergeseran paradigma (*paradigm shift*) dalam sejarah sains tidak terjadi dengan menghapus fakta-fakta yang ditemukan oleh paradigma lama. Teori Relativitas Einstein tidak membatalkan hukum gravitasi Newton dalam skala makroskopis; Einstein menginkorporasikan fisika Newton ke dalam kerangka ruang-waktu yang lebih luas dan presisi. 
+Thomas S. Kuhn (1962) dalam *The Structure of Scientific Revolutions* memaparkan bahwa pergeseran paradigma (*paradigm shift*) dalam sejarah sains tidak terjadi dengan menghapus fakta-fakta yang ditemukan oleh paradigma lama[^9]. Teori Relativitas Einstein tidak membatalkan hukum gravitasi Newton dalam skala makroskopis; Einstein menginkorporasikan fisika Newton ke dalam kerangka ruang-waktu yang lebih luas dan presisi. 
 
 Demikian pula TUMBUH V2: ia tidak menyatakan bahwa pandangan V1 tentang adab adalah salah, melainkan menempatkan pandangan tersebut ke dalam kerangka sistemik yang lebih teratur, terlacak, dan terintegrasi dengan neurosains.
 
-### 4.5. Teori Pembelajaran Dua Jalur Chris Argyris (*Single-Loop vs Double-Loop Learning*)
+### 4.5. Teori Pembelajaran Dua Jalur Chris Argyris[^10] (*Single-Loop vs Double-Loop Learning*)
 Chris Argyris dan Donald Schön (1978) dalam *Organizational Learning: A Theory of Action Perspective* membedakan dua tingkatan pembelajaran organisasi:
 1. **Single-Loop Learning**: Memperbaiki tindakan atau aturan teknis untuk mengatasi kesalahan tanpa pernah mempertanyakan nilai-nilai dasar, asumsi, atau tujuan yang mendasari aturan tersebut. Pada fase V1, pesantren kerap terjebak pada single-loop learning: mengganti hukuman botak kepala dengan lari keliling lapangan tanpa pernah mengkaji mengapa santri bangun terlambat.
 2. **Double-Loop Learning**: Menguji kembali asumsi filosofis, norma dasar, dan kerangka desain yang melahirkan masalah tersebut. 
@@ -384,28 +384,27 @@ Dengan tegaknya prinsip bahwa V2 adalah kesinambungan yang disempurnakan, timbul
 Pertanyaan rekayasa teknis ini membuka jembatan penalaran emergent menuju berkas berikutnya:  
 $$\Downarrow$$  
 **Lanjut ke Penyelidikan:** [`P00002` — Hakikat Git Branch sebagai Penanda Fase Arsitektural dan Bukan Sekadar Utilitas Teknis Perangkat Lunak](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00002-Hakikat-Git-Branch-sebagai-Penanda-Fase-Arsitektural.md)
-
 ---
 
-## 12. Referensi Terkurasi Lengkap (APA 7th Edition Bersih)
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-### Khazanah Turats Islam Klasik
-- Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 4). Dar Thuq an-Najah.
-- Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-- Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-- As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-- Asy-Syathibi, I. (2003). *Al-Muwafaqat fi Ushulisy-Syari'ah* (M. H. Salman, Tahqiq; Jilid 2). Dar Ibn 'Affan.
-- Ibnu Abdil Barr, Y. A. (1994). *Jami' Bayan al-'Ilmi wa Fadhlih* (A. Z. Az-Zuhairi, Tahqiq; Jilid 2). Dar Ibn al-Jauzi.
-- Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 2). Dar Thayyibah.
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-### Literatur Teori Sistem & Rekayasa Perangkat Lunak
-- Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-- Arthur, W. B. (1994). *Increasing returns and path dependence in the economy*. University of Michigan Press.
-- Brooks, F. P., Jr. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley Publishing Company.
-- Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovation. *Administrative Science Quarterly*, 35(1), 128–152.
-- Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
-- Fowler, M. (2020). *Patterns of distributed systems and branching architectures*. Martin Fowler Signature Series.
-- Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
-- Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
-- Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
-- Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
+[^1]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^2]: Brooks, F. P., Jr. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley Publishing Company.
+[^3]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+[^4]: Fowler, M. (2020). *Patterns of distributed systems and branching architectures*. Martin Fowler Signature Series.
+[^5]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 4). Dar Thuq an-Najah.
+[^6]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 2). Dar Thayyibah.
+[^7]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^8]: Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovation. *Administrative Science Quarterly*, 35(1), 128–152.
+[^9]: Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
+[^10]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
+[^11]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^12]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi Ushulisy-Syari'ah* (M. H. Salman, Tahqiq; Jilid 2). Dar Ibn 'Affan.
+[^13]: Ibnu Abdil Barr, Y. A. (1994). *Jami' Bayan al-'Ilmi wa Fadhlih* (A. Z. Az-Zuhairi, Tahqiq; Jilid 2). Dar Ibn al-Jauzi.
+[^14]: Arthur, W. B. (1994). *Increasing returns and path dependence in the economy*. University of Michigan Press.
+[^15]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
+[^16]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
+[^17]: Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
+

@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan status ontologis, batasan normatif, dan tata kelola epistemik direktori `08_SOURCES_AND_EVIDENCE/` dalam ekosistem TUMBUH v2.0.0. Dalam desain repositori modern, kesalahan fatal yang sering terjadi pada organisasi berbasis pengetahuan adalah *naive empiricism* atau *technocratic reductionism*, yaitu anggapan keliru bahwa data statistik, temuan uji coba lapangan, atau bukti ilmiah kontemporer secara otomatis memiliki daya paksa (*self-executing authority*) untuk langsung mengubah arah filosofi dan konstitusi sistem. Aturan dasar dalam `AGENTS.md` v2.0.0 secara tegas menyatakan: *"Evidence tidak otomatis membuktikan klaim di luar konteksnya"* dan *"Evidence bukan keputusan"*. 
 
-Penyelidikan kanonik ini menetapkan demarkasi yang kokoh antara **fakta/bukti** (*what is observed*) dan **keputusan/klaim normatif** (*what ought to be decided*). Melalui sintesis antara epistemologi pembuktian Islam klasik (*Nazhariyyat al-Itsbat fi asy-Syari'ah al-Islamiyyah* dan *at-Turuq al-Hukmiyyah*) dengan filsafat sains kritis kontemporer (*Critical Realism* Roy Bhaskar dan kritik Gert Biesta terhadap dogma *evidence-based practice*), dokumen ini membedah bagaimana sebuah bukti empiris harus diperiksa derajat validitasnya, diuji batas konteksnya, dan ditimbang melalui majelis deliberasi kepakaran (*shura tarbawiyyah*) sebelum dapat dipromosikan menjadi dasar revisi pada `01_FUNDAMENTAL/` atau `02_IMPLEMENTATION/`.
+Penyelidikan kanonik ini menetapkan demarkasi yang kokoh antara **fakta/bukti** (*what is observed*) dan **keputusan/klaim normatif** (*what ought to be decided*). Melalui sintesis antara epistemologi pembuktian Islam klasik (*Nazhariyyat al-Itsbat fi asy-Syari'ah al-Islamiyyah* dan *at-Turuq al-Hukmiyyah*) dengan filsafat sains kritis kontemporer (*Critical Realism* Roy Bhaskar dan kritik Gert Biesta terhadap dogma *evidence-based practice*), dokumen ini membedah bagaimana sebuah bukti empiris harus diperiksa derajat validitasnya, diuji batas konteksnya, dan ditimbang melalui majelis deliberasi kepakaran (*shura tarbawiyyah*) sebelum dapat dipromosikan menjadi dasar revisi pada `01_FUNDAMENTAL/` atau `02_IMPLEMENTATION/`[^1].
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & EPISTEMIC GOVERNANCE SPECIFICATION`
@@ -50,7 +50,7 @@ Kerentanan ini menuntut adanya regulasi tegas di repositori: direktori `08_SOURC
 
 Dalam peradaban hukum Islam klasik, para ulama ushul dan pakar kehakiman (*qadha'*) telah membangun disiplin pembuktian yang sangat matang untuk membedakan antara alat bukti (*al-bayyinah/al-qarinah*) dan penetapan hukum (*al-hukm/al-qadla'*). Bukti empiris tidak pernah memiliki otoritas mandiri yang lepas dari proses verifikasi (*tahqiq*), pengujian integritas perawi (*ta'dil*), dan pertimbangan hikmah syariat (*al-ijtihad wa al-istinbath*).
 
-Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam karya monumentalnya *at-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah* (hlm. 16–18) mendefinisikan hakikat bukti (*al-bayyinah*) sebagai penjelas kebenaran yang menuntut kecermatan hakim dalam mengonstruksi konteks:
+Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam karya monumentalnya *at-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah* (hlm. 16–18[^4]) mendefinisikan hakikat bukti (*al-bayyinah*) sebagai penjelas kebenaran yang menuntut kecermatan hakim dalam mengonstruksi konteks:
 
 ```text
 الْبَيِّنَةُ اسْمٌ لِكُلِّ مَا يُبَيِّنُ الْحَقَّ وَيُظْهِرُهُ، وَالْحَاكِمُ إِذَا ظَهَرَ لَهُ الْحَقُّ بِأَيِّ طَرِيقٍ كَانَ قَضَى بِهِ، وَلَكِنْ لَا يَكُونُ الدَّلِيلُ الْمُجَرَّدُ حُكْمًا بِنَفْسِهِ حَتَّى يُقَارِنَهُ نَظَرُ الْمُجْتَهِدِ وَتَحْقِيقُ الْمَنَاطِ وَاعْتِبَارُ الْمَآلَاتِ
@@ -66,9 +66,9 @@ Lebih jauh, Imam Tajuddin as-Subki dalam *Jam'ul Jawami'* menjelaskan pembagian 
 الدَّلِيلُ الظَّنِّيُّ لَا يُوجِبُ الْعِلْمَ الْقَطْعِيَّ، وَإِنَّمَا يُفِيدُ رُجْحَانًا يَجُوزُ نَقِيضُهُ عَقْلًا، فَلَا يَجُوزُ هَدْمُ الْأَصْلِ الْمُتَيَقَّنِ بِالْأَمْرِ الْمَظْنُونِ الْمُحْتَمَلِ
 ```
 
-> *"Dalil yang bersifat zhanni (praduga/probabilistik seperti data empiris dan inferensi induktif) tidak memberikan keyakinan yang pasti mutlak (al-'ilm al-qath'i), melainkan hanya menghasilkan kecenderungan kuat yang secara rasional masih mengandung kemungkinan sebaliknya. Maka dari itu, tidak diperbolehkan merobohkan fondasi yang telah diyakini kepastiannya (al-ashl al-mutayaqqan) hanya dengan bersandarkan pada perkara praduga empiris yang masih sarat probabilitas."* (As-Subki, *Jam'ul Jawami' bi Syarh al-Mahalli*, Jilid 1, hlm. 142).
+> *"Dalil yang bersifat zhanni (praduga/probabilistik seperti data empiris dan inferensi induktif) tidak memberikan keyakinan yang pasti mutlak (al-'ilm al-qath'i), melainkan hanya menghasilkan kecenderungan kuat yang secara rasional masih mengandung kemungkinan sebaliknya. Maka dari itu, tidak diperbolehkan merobohkan fondasi yang telah diyakini kepastiannya (al-ashl al-mutayaqqan) hanya dengan bersandarkan pada perkara praduga empiris yang masih sarat probabilitas."* (As-Subki, *Jam'ul Jawami' bi Syarh al-Mahalli*, Jilid 1, hlm. 142[^5]).
 
-Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1, hlm. 35–38) mempertegas konsep *al-Istiqra' al-Ma'nawi* (induksi tematis universal). Beliau memaparkan bahwa hukum-hukum fundamental syariat dibangun di atas himpunan dalil universal yang saling menguatkan hingga mencapai derajat pasti (*tawatur ma'nawi*), sehingga data partikular yang tampak bertentangan harus ditakwilkan atau diteliti ulang batas-batasnya:
+Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1, hlm. 35–38[^6]) mempertegas konsep *al-Istiqra' al-Ma'nawi* (induksi tematis universal). Beliau memaparkan bahwa hukum-hukum fundamental syariat dibangun di atas himpunan dalil universal yang saling menguatkan hingga mencapai derajat pasti (*tawatur ma'nawi*), sehingga data partikular yang tampak bertentangan harus ditakwilkan atau diteliti ulang batas-batasnya:
 
 ```text
 وَإِنَّمَا الْعُمْدَةُ عَلَى تَظَافُرِ الْأَدِلَّةِ وَتَوَارُدِهَا عَلَى مَعْنًى وَاحِدٍ حَتَّى يَحْصُلَ مِنْهَا الْعِلْمُ الْقَطْعِيُّ، فَلَا تَقْدَحُ فِيهَا الْآحَادُ وَلَا الْجُزْئِيَّاتُ النَّادِرَةُ الَّتِي تُخَالِفُ فِي الظَّاهِرِ
@@ -362,21 +362,24 @@ Tujuh penjaga gerbang epistemik bukti yang wajib ditaati:
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan stratifikasi repositori yang memisahkan bukti dari keputusan normatif.
 - `PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md`: Menegaskan posisi hulu-hilir di mana bukti berada pada posisi penengah sebelum keputusan diambil.
 - `PROBE/PROBE_01/P00014-Batas-Kewenangan-Lapisan-03-OPERATIONAL.md`: Menjelaskan bagaimana instrumen operasional lapangan harus steril dari manipulasi data sepihak.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-- As-Subki, T. (1999). *Jam'ul jawami' fi ushul al-fiqh bi syarh al-mahalli* (A. A. al-Muzayyad, Ed.; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-- Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
-- Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
-- Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
-- Biesta, G. (2010). *Good education in an age of measurement: Ethics, politics, democracy*. Routledge.
-- Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide to doing it better*. Oxford University Press.
-- Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
-- Ibn Qayyim al-Jauziyyah, M. (2007). *At-Turuq al-hukmiyyah fi as-siyasah asy-syar'iyyah* (J. M. Sayyid, Ed.). Dar 'Alam al-Fawa'id.
-- Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
-- Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, 312(7023), 71–72.
-- Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas: An exposition of the original concept of Islamization*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
+[^2]: Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
+[^3]: Biesta, G. (2010). *Good education in an age of measurement: Ethics, politics, democracy*. Routledge.
+[^4]: Ibn Qayyim al-Jauziyyah, M. (2007). *At-Turuq al-hukmiyyah fi as-siyasah asy-syar'iyyah* (J. M. Sayyid, Ed.). Dar 'Alam al-Fawa'id.
+[^5]: As-Subki, T. (1999). *Jam'ul jawami' fi ushul al-fiqh bi syarh al-mahalli* (A. A. al-Muzayyad, Ed.; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^6]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
+[^7]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^8]: Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide to doing it better*. Oxford University Press.
+[^9]: Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
+[^10]: Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
+[^11]: Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, 312(7023), 71–72.
+[^12]: Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21.
 
 ---
 

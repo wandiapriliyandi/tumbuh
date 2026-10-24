@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan demarkasi yurisdiksi, batasan fungsional, dan tata kelola epistemik direktori `METHODOLOGY/` dalam repositori TUMBUH v2.0.0. Dalam arsitektur sistem berbasis pengetahuan terpadu, pemisahan antara "tata cara menjalankan penyelidikan" (*procedural research standards*) dan "substansi materi keilmuan yang diselidiki" (*substantive domain models*) merupakan syarat mutlak agar sistem tidak terjebak dalam totalitarianisme metodologis (*methodological imperialism*). Kerentanan sistemik yang kerap muncul adalah ketika instrumen tata cara kerja secara diam-diam (*stealthily*) mengambil alih fungsi filosofis: sebuah pedoman penulisan sitasi atau panduan audit riset menyelundupkan asumsi doktrinal yang mendikte apa yang boleh dan tidak boleh diyakini oleh sistem, atau sebaliknya, mendikte batasan kurikulum pengasuhan. Aturan dasar dalam `AGENTS.md` v2.0.0 menegaskan: *"METHODOLOGY/ adalah pedoman penelitian, sitasi, decision traceability, dan tata kelola dokumentasi"*, bukan sumber penetapan substantif nilai TUMBUH.
 
-Penyelidikan kanonik ini menetapkan prinsip subordinasi instrumental: direktori `METHODOLOGY/` berkedudukan murni sebagai **Ilmu Alat Prosedural (Instrumental Metasystem)** yang mengatur "bagaimana proses penelitian, verifikasi sitasi, pelacakan keputusan, dan penulisan dokumen dijalankan secara ilmiah dan transparan" (*how to inquire rigorously*), namun diharamkan secara mutlak untuk mengatur "apa hakikat filosofi fitrah, model tahapan kemandirian (J1–J4), dan prinsip adab santri" (*what the core substance of TUMBUH is*). Melalui sintesis antara distingsi ushul turats antara ilmu alat (*'ulum al-alah*) dan ilmu tujuan (*'ulum al-maqashid*) menurut Ibnu Khaldun, Imam asy-Syathibi, dan Imam Fakhruddin ar-Razi dengan standar rekayasa sistem modern (*ISO/IEC/IEEE 15288: Systems Life Cycle Processes*), dokumen ini membedah batas kewenangan metodologi, merumuskan protokol tata kelola panduan riset 5 tahap, serta membangun skrip audit *Continuous Integration* (CI) penangkal penyelundupan doktrin substantif (*substantive doctrine filter*).
+Penyelidikan kanonik ini menetapkan prinsip subordinasi instrumental: direktori `METHODOLOGY/` berkedudukan murni sebagai **Ilmu Alat Prosedural (Instrumental Metasystem)** yang mengatur "bagaimana proses penelitian, verifikasi sitasi, pelacakan keputusan, dan penulisan dokumen dijalankan secara ilmiah dan transparan" (*how to inquire rigorously*), namun diharamkan secara mutlak untuk mengatur "apa hakikat filosofi fitrah, model tahapan kemandirian (J1–J4), dan prinsip adab santri" (*what the core substance of TUMBUH is*). Melalui sintesis antara distingsi ushul turats antara ilmu alat (*'ulum al-alah*) dan ilmu tujuan (*'ulum al-maqashid*) menurut Ibnu Khaldun, Imam asy-Syathibi, dan Imam Fakhruddin ar-Razi dengan standar rekayasa sistem modern (*ISO/IEC/IEEE 15288: Systems Life Cycle Processes*), dokumen ini membedah batas kewenangan metodologi, merumuskan protokol tata kelola panduan riset 5 tahap, serta membangun skrip audit *Continuous Integration* (CI) penangkal penyelundupan doktrin substantif (*substantive doctrine filter*)[^1].
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & METAGOVERNANCE SPECIFICATION`
@@ -115,7 +115,7 @@ Standar rekayasa sistem global *ISO/IEC/IEEE 15288:2015 (Systems and software en
 Standar ISO 15288 menegaskan bahwa dokumen proses dilarang memuat spesifikasi desain produk (*process standards must not dictate domain product requirements*). Jika pedoman proses mulai mengatur isi produk, sistem akan mengalami *Process Bloat* yang membunuh inovasi.
 
 ### 4.2. Popper vs Kuhn: Metodologi Kritis vs Paradigma Substantif
-Karl Popper (1959) dalam *The Logic of Scientific Discovery* menekankan bahwa metodologi ilmiah hanyalah aturan main (*demarcation criteria*) untuk menguji apakah suatu klaim dapat difalsifikasi atau diuji kebenarannya. Metodologi tidak pernah menentukan apa isi teori yang harus dihasilkan. Sementara Thomas Kuhn (1962) dalam *The Structure of Scientific Revolutions* memperingatkan bahaya komunitas ilmuwan yang terlalu memuja "ilmu normal" (*normal science*) berbasis aturan baku hingga menolak paradigma baru yang lebih mencerahkan.
+Karl Popper (1959) dalam *The Logic of Scientific Discovery* menekankan bahwa metodologi ilmiah hanyalah aturan main (*demarcation criteria*) untuk menguji apakah suatu klaim dapat difalsifikasi atau diuji kebenarannya[^4]. Metodologi tidak pernah menentukan apa isi teori yang harus dihasilkan. Sementara Thomas Kuhn (1962) dalam *The Structure of Scientific Revolutions* memperingatkan bahaya komunitas ilmuwan yang terlalu memuja "ilmu normal" (*normal science*) berbasis aturan baku hingga menolak paradigma baru yang lebih mencerahkan[^5].
 
 ISO/IEC/IEEE. (2015). *Systems and software engineering — System life cycle processes* (ISO/IEC/IEEE Standard No. 15288:2015). IEEE.
 
@@ -360,23 +360,24 @@ Tujuh penjaga gerbang metodologi yang wajib ditaati:
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan filosofi stratifikasi repositori.
 - `PROBE/PROBE_01/P00014-Batas-Kewenangan-Lapisan-03-OPERATIONAL.md`: Menjelaskan bagaimana instrumen operasional lapangan diatur tata kerjanya.
 - `PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md`: Menjadi acuan standar kurasi bibliografis yang diatur prosedurnya oleh metodologi.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Amidi, S. (2003). *Al-Ihkam fi ushul al-ahkam* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-- Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
-- Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 1). Mu'assasah ar-Risalah.
-- Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
-- Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approaches* (4th ed.). SAGE Publications.
-- Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
-- Feyerabend, P. (2010). *Against method* (4th ed.). Verso.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-- Ibnu Khaldun, A. (2004). *Al-Muqaddimah* (A. M. ad-Darwisy, Ed.). Dar Ya'rub.
-- ISO/IEC/IEEE. (2015). *Systems and software engineering — System life cycle processes* (ISO/IEC/IEEE Standard No. 15288:2015). IEEE.
-- Kuhn, T. S. (2012). *The structure of scientific revolutions* (4th ed.). University of Chicago Press.
-- Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
-- Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
-- Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
+[^1]: Ibnu Khaldun, A. (2004). *Al-Muqaddimah* (A. M. ad-Darwisy, Ed.). Dar Ya'rub.
+[^2]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
+[^3]: Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 1). Mu'assasah ar-Risalah.
+[^4]: Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
+[^5]: Kuhn, T. S. (2012). *The structure of scientific revolutions* (4th ed.). University of Chicago Press.
+[^6]: Al-Amidi, S. (2003). *Al-Ihkam fi ushul al-ahkam* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^7]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
+[^8]: Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approaches* (4th ed.). SAGE Publications.
+[^9]: Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
+[^10]: Feyerabend, P. (2010). *Against method* (4th ed.). Verso.
+[^11]: Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
+[^12]: Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.
 
 ---
 

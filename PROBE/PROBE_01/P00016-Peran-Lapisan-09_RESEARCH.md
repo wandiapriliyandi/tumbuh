@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan demarkasi fungsional, tata kelola isolasi (*sandbox governance*), dan protokol transisi pengetahuan bagi direktori `09_RESEARCH/` dalam repositori TUMBUH v2.0.0. Dalam ekosistem pengembangan sistem berbasis pengetahuan terpadu (*integrated knowledge ecosystem*), terdapat tegangan inheren antara dua kebutuhan institusional: di satu sisi, sistem membutuhkan kebebasan eksperimentasi akademik yang dinamis, eksploratif, dan berani menguji hipotesis baru (*exploratory research*); di sisi lain, tata kelola pesantren membutuhkan kepastian hukum, stabilitas pedoman pengasuhan, dan perlindungan ketat agar santri tidak dijadikan kelinci percobaan oleh gagasan-gagasan mentah yang belum teruji secara matang. Aturan konstitusional dalam `AGENTS.md` v2.0.0 menetapkan prinsip fundamental: *"Research tidak otomatis mengubah sistem"*.
 
-Penyelidikan kanonik ini menetapkan status ontologis `09_RESEARCH/` sebagai **Laboratorium Eksplorasi Terisolasi (Epistemic Sandbox)**. Melalui perpaduan antara prinsip pembagian peran kepemimpinan syar'i menurut Imam al-Qarafi (*al-Furuq bayna Tasyrifat al-Imam wa al-Mufti*) dengan teori manajemen inovasi modern (*Pasteur's Quadrant* oleh Stokes dan *Exploration vs Exploitation Architecture* oleh March), dokumen ini membedakan secara tegas antara "penyelidikan ilmiah yang bersifat bebas dan hipotetis" dengan "ketetapan kebijakan resmi yang bersifat mengikat (*legally and procedurally binding*)". Dokumen ini merancang protokol tata kelola riset 5 tahap, mekanisme penyaringan komisi etik pesantren, serta skrip validasi *Continuous Integration* (CI) guna menjamin tidak adanya klaim regulatif liar yang bocor (*sandbox leakage*) dari laboratorium riset ke lantai operasional asrama.
+Penyelidikan kanonik ini menetapkan status ontologis `09_RESEARCH/` sebagai **Laboratorium Eksplorasi Terisolasi (Epistemic Sandbox)**. Melalui perpaduan antara prinsip pembagian peran kepemimpinan syar'i menurut Imam al-Qarafi (*al-Furuq bayna Tasyrifat al-Imam wa al-Mufti*) dengan teori manajemen inovasi modern (*Pasteur's Quadrant* oleh Stokes dan *Exploration vs Exploitation Architecture* oleh March), dokumen ini membedakan secara tegas antara "penyelidikan ilmiah yang bersifat bebas dan hipotetis" dengan "ketetapan kebijakan resmi yang bersifat mengikat (*legally and procedurally binding*)"[^1]. Dokumen ini merancang protokol tata kelola riset 5 tahap, mekanisme penyaringan komisi etik pesantren, serta skrip validasi *Continuous Integration* (CI) guna menjamin tidak adanya klaim regulatif liar yang bocor (*sandbox leakage*) dari laboratorium riset ke lantai operasional asrama.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & R&D GOVERNANCE SPECIFICATION`
@@ -66,7 +66,7 @@ Kaidah al-Qarafi ini menjadi fondasi teologis yang sangat presisi bagi Repositor
 - Berkas-berkas di dalam `09_RESEARCH/` berada pada derajat **al-Bahts wa al-Futya** (kajian eksploratif keilmuan). Dokumen ini sah dan mulia secara ilmiah, namun sifatnya murni informatif dan sama sekali tidak memiliki daya paksa kelembagaan (*la ilzama fiha*).
 - Dokumen pada `01_FUNDAMENTAL/` dan ketetapan ADR kanonik berada pada derajat **at-Tasharruf bi al-Imamah** (ketetapan konstitusi kepemimpinan resmi) yang mengikat seluruh unit dan praktisi di bawah naungan ekosistem TUMBUH.
 
-Lebih lanjut, Syaikhul Islam Ibn Taimiyyah dalam *Majmu' al-Fatawa* (Jilid 19, hlm. 203) mengingatkan agar umat tidak memaksakan pendapat ilmiah yang masih bersifat ijtihadiah sebagai aturan baku:
+Lebih lanjut, Syaikhul Islam Ibn Taimiyyah dalam *Majmu' al-Fatawa* (Jilid 19, hlm. 203[^4]) mengingatkan agar umat tidak memaksakan pendapat ilmiah yang masih bersifat ijtihadiah sebagai aturan baku:
 
 ```text
 وَلَيْسَ لِأَحَدٍ أَنْ يُلْزِمَ النَّاسَ بِقَوْلِهِ وَلَا بِقَوْلِ عَالِمٍ مُعَيَّنٍ فِي مَسَائِلِ الِاجْتِهَادِ، حَتَّى تَقُومَ الْحُجَّةُ النَّيِّرَةُ وَيَجْتَمِعَ عَلَيْهَا أَهْلُ الْحَلِّ وَالْعَقْدِ
@@ -362,21 +362,23 @@ Tujuh prinsip tata kelola riset yang wajib ditaati oleh seluruh peneliti TUMBUH:
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan filosofi dasar pemisahan keprihatinan antarlapisan repositori.
 - `PROBE/PROBE_01/P00014-Batas-Kewenangan-Lapisan-03-OPERATIONAL.md`: Menjelaskan bagaimana instrumen operasional asrama harus terlindungi dari kebocoran draf riset.
 - `PROBE/PROBE_01/P00015-Kedudukan-Lapisan-08_SOURCES_AND_EVIDENCE.md`: Mengatur tata cara konversi dari temuan riset menjadi catatan bukti formal.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Qarafi, S. (1998). *Al-Furuq: Anwar al-buruq fi anwa' al-furuq* (K. Manshur, Ed.; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-- Christensen, C. M. (1997). *The innovator's dilemma: When new technologies cause great firms to fail*. Harvard Business Review Press.
-- Creswell, J. W., & Guetterman, T. C. (2019). *Educational research: Planning, conducting, and evaluating quantitative and qualitative research* (6th ed.). Pearson.
-- Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
-- Dewey, J. (1938). *Logic: The theory of inquiry*. Henry Holt and Company.
-- Ibn Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 19). Majma' al-Malik Fahd.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-- March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
-- Mertens, D. M. (2020). *Research and evaluation in education and psychology: Integrating diversity with quantitative, qualitative, and mixed methods* (5th ed.). SAGE Publications.
-- Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing research and development at the intersection of practice and design: Design-based implementation research. *Teachers College Record*, 113(12), 2698–2718.
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-- Stokes, D. E. (1997). *Pasteur's quadrant: Basic science and technological innovation*. Brookings Institution Press.
-- Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications.
+[^1]: Al-Qarafi, S. (1998). *Al-Furuq: Anwar al-buruq fi anwa' al-furuq* (K. Manshur, Ed.; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^2]: Stokes, D. E. (1997). *Pasteur's quadrant: Basic science and technological innovation*. Brookings Institution Press.
+[^3]: March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
+[^4]: Ibn Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 19). Majma' al-Malik Fahd.
+[^5]: Christensen, C. M. (1997). *The innovator's dilemma: When new technologies cause great firms to fail*. Harvard Business Review Press.
+[^6]: Creswell, J. W., & Guetterman, T. C. (2019). *Educational research: Planning, conducting, and evaluating quantitative and qualitative research* (6th ed.). Pearson.
+[^7]: Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
+[^8]: Dewey, J. (1938). *Logic: The theory of inquiry*. Henry Holt and Company.
+[^9]: Mertens, D. M. (2020). *Research and evaluation in education and psychology: Integrating diversity with quantitative, qualitative, and mixed methods* (5th ed.). SAGE Publications.
+[^10]: Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing research and development at the intersection of practice and design: Design-based implementation research. *Teachers College Record*, 113(12), 2698–2718.
+[^11]: Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications.
 
 ---
 

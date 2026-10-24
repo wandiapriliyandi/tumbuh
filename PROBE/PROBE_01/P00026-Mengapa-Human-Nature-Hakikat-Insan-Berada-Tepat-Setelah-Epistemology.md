@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan ontologis dan psikologis mengapa *
 
 Melompat langsung ke psikologi perkembangan remaja (*Human Development*) atau kurikulum pengajaran (*Education*) tanpa memahami hakikat dasar manusia telah terbukti melahirkan malapraktik pedagogis yang masif di lingkungan pesantren. Tanpa fondasi Hakikat Insan yang berakar pada konsepsi Fitrah dan anatomi kalbu, santri diperlakukan secara reduksionistik: entah sebagai mesin biologis yang dimodifikasi perilakunya lewat hukuman jasmaniah ala behaviorisme ekstrem, atau sebagai bejana kosong intelektual yang hanya dijejali hafalan teks tanpa sentuhan tazkiyatun nafs.
 
-Melalui telaah komparatif berbasis turats klasik—khususnya karya Imam Al-Ghazali (*Syarh 'Aja'ib al-Qalb*), Ibn Qayyim al-Jauziyyah (*Ighatsat al-Lahfan* dan *Kitab ar-Ruh*), serta perumusan kontemporer Syed Muhammad Naquib al-Attas (*The Nature of Man*)—penyelidikan ini membuktikan bahwa manusia adalah kesatuan integral dwitunggal antara **Jasad Fisik (*al-jasad al-maddi*)** dan **Substansi Ruhani Ketuhanan (*al-lathifah ar-rabbaniyyah ar-ruhaniyyah*)** yang memiliki empat daya kejiwaan utama: **Ruh**, **Qalb**, **'Aql**, dan **Nafs**.
+Melalui telaah komparatif berbasis turats klasik—khususnya karya Imam Al-Ghazali (*Syarh 'Aja'ib al-Qalb*), Ibn Qayyim al-Jauziyyah (*Ighatsat al-Lahfan* dan *Kitab ar-Ruh*), serta perumusan kontemporer Syed Muhammad Naquib al-Attas (*The Nature of Man*)—penyelidikan ini membuktikan bahwa manusia adalah kesatuan integral dwitunggal antara **Jasad Fisik (*al-jasad al-maddi*)** dan **Substansi Ruhani Ketuhanan (*al-lathifah ar-rabbaniyyah ar-ruhaniyyah*)** yang memiliki empat daya kejiwaan utama: **Ruh**, **Qalb**, **'Aql**, dan **Nafs**[^1].
 
 Hasil penyelidikan ini dituangkan ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 03 sebagai konstitusi antropologi resmi TUMBUH v2.0.0. Ditetapkan bahwa seluruh desain intervensi perilaku di asrama dilarang memperlakukan santri semata-mata dari aspek fisik jasmani, melainkan wajib ditujukan untuk menyentuh, membersihkan, dan menumbuhkan kesadaran fitrah kalbu santri.
 
@@ -89,7 +89,7 @@ Imam Ibn Qayyim al-Jauziyyah (w. 751 H) dalam kitab *Ighatsat al-Lahfan min Masy
 > *(Ighatsat al-Lahfan, Tahqiq Muhammad Hamid al-Fiqi, Dar al-Ma'rifah, Juz 1, hlm. 12–15)*  
 > **Artinya**: *"Kalbu itu terbagi atas tiga macam: Kalbu yang sehat dan selamat (salim), yang tidak akan selamat pada hari kiamat kecuali orang yang datang kepada Allah dengannya... Kalbu yang mati tak ada kehidupan padanya, yang tidak mengenal Rabb-nya dan tidak menyembah-Nya sesuai perintah-Nya... Dan kalbu yang padanya ada kehidupan namun sekaligus ada penyakit; ia memiliki dua pasokan yang silih berganti: adakalanya dipasok oleh materi kehidupan berupa iman dan ikhlas, dan adakalanya dipasok oleh materi kebinasaan berupa syahwat, ambisi serakah, dan kesombongan; dan ia akan menjadi milik mana saja dari dua pasokan yang paling mendominasinya."*
 
-Imam Ar-Raghib al-Isfahani (w. 502 H) dalam *Adz-Dzari'ah ila Makarim asy-Syari'ah* menegaskan keterkaitan antara martabat insan dan tugas ibadah:
+Imam Ar-Raghib al-Isfahani (w[^8]. 502 H) dalam *Adz-Dzari'ah ila Makarim asy-Syari'ah* menegaskan keterkaitan antara martabat insan dan tugas ibadah:
 
 > **الْإِنْسَانُ إِنَّمَا خُلِقَ لِعِمَارَةِ الْأَرْضِ بِالْخِلَافَةِ، وَلَا تَصِحُّ خِلَافَتُهُ إِلَّا بِتَزْكِيَةِ نَفْسِهِ، وَتَزْكِيَةُ النَّفْسِ إِنَّمَا تَكُونُ بِقَهْرِ قُوَّتَيِ الشَّهْوَةِ وَالْغَضَبِ وَتَسْخِيرِهِمَا لِقُوَّةِ الْعَقْلِ وَالْعِلْمِ.**  
 > *(Adz-Dzari'ah ila Makarim asy-Syari'ah, Tahqiq Abu al-Yazid al-'Ajami, Dar ash-Shahwah, hlm. 28)*  
@@ -106,7 +106,7 @@ Syaikhul Islam Ahmad bin Taimiyyah (w. 728 H) dalam *Majmu' al-Fatawa* menegaska
 
 ### 3.2. Integrasi Teori Sains: Kritik Terhadap Reduksionisme Sekuler
 Antropologi Barat modern terpecah ke dalam paradigma yang mereduksi kemanusiaan:
-1. **Behaviorisme Radikal (B.F. Skinner)**: Menolak eksistensi kehendak bebas (*free will*) dan dimensi jiwa. Manusia dianggap seperti merpati atau tikus yang perilakunya sepenuhnya bisa diprogram melalui sistem insentif (*positive/negative reinforcement*). Model ini jika diterapkan di pesantren akan melahirkan "santri sirkus" yang hanya patuh saat ada pengawas.
+1. **Behaviorisme Radikal (B.F. Skinner)**: Menolak eksistensi kehendak bebas (*free will*) dan dimensi jiwa[^9]. Manusia dianggap seperti merpati atau tikus yang perilakunya sepenuhnya bisa diprogram melalui sistem insentif (*positive/negative reinforcement*). Model ini jika diterapkan di pesantren akan melahirkan "santri sirkus" yang hanya patuh saat ada pengawas.
 2. **Psikoanalisis Ortodoks (Sigmund Freud)**: Memandang manusia sebagai budak dari dorongan biologis tak sadar (*id / libido*) yang amoral, di mana moralitas (*superego*) hanyalah bentukan sosial yang mengekang. Pandangan ini menolak adanya fitrah suci Ilahiah.
 3. **Kognitivisme Dingin (Piaget/Kohlberg)**: Menitikberatkan perkembangan nalar moral secara abstrak tanpa mengikutsertakan kekuatan iman, doa, dzikir, dan penyakit-penyakit kalbu (seperti hasad, riya', dan takabbur).
 
@@ -359,22 +359,25 @@ Sepuluh pedoman perlindungan martabat fitrah insan yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md`: Fondasi ontologis yang mendefinisikan asal-usul penciptaan manusia oleh Allah.
 - `PROBE/PROBE_01/P00025-Mengapa-Epistemology-Wajib-Diletakkan-Langsung-Setelah-Worldview.md`: Saluran ilmu yang menghubungkan akal dan kalbu manusia dengan kebenaran wahyu.
 - `PROBE/PROBE_01/P00027-Mengapa-Human-Development-Ditempatkan-Setelah-Human-Nature.md`: Inkuiri berikutnya yang membedah bagaimana hakikat insan ini tumbuh melalui tahapan usia.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Attas, S. M. N. (1990). *The nature of man and the psychology of the human soul*. International Institute of Islamic Thought and Civilization (ISTAC).
-- Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab syarh 'aja'ib al-qalb* (Tahqiq A. Ali, Jilid 3). Dar asy-Sya'b.
-- Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
-- Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila makarim asy-syari'ah* (A. Y. al-'Ajami, Ed.). Dar ash-Shahwah.
-- Al-Muhasibi, A. H. (1986). *Ar-Ri'ayah li huquqillah* (A. A. Abdul Qadir, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
-- Frankl, V. E. (1984). *Man's search for meaning*. Washington Square Press.
-- Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-- Ibn Qayyim al-Jauziyyah, M. (2003). *Ighatsat al-lahfan min masyayid asy-syaithan* (M. H. al-Fiqi, Ed., Jilid 1). Dar al-Ma'rifah.
-- Ibn Miskawaih, A. A. (1966). *Tahdzib al-akhlaq wa tathhir al-a'raq* (K. Zurayk, Ed.). American University of Beirut.
-- Ibn Sina, A. A. (1952). *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
-- Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa* (A. R. an-Najdi, Ed., Jilid 16). Mujamma' al-Malik Fahd.
-- Skinner, B. F. (1971). *Beyond freedom and dignity*. Knopf.
-- Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+
+[^1]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab syarh 'aja'ib al-qalb* (Tahqiq A. Ali, Jilid 3). Dar asy-Sya'b.
+[^2]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^3]: Ibn Qayyim al-Jauziyyah, M. (2003). *Ighatsat al-lahfan min masyayid asy-syaithan* (M. H. al-Fiqi, Ed., Jilid 1). Dar al-Ma'rifah.
+[^4]: Ibn Miskawaih, A. A. (1966). *Tahdzib al-akhlaq wa tathhir al-a'raq* (K. Zurayk, Ed.). American University of Beirut.
+[^5]: Ibn Sina, A. A. (1952). *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
+[^6]: Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa* (A. R. an-Najdi, Ed., Jilid 16). Mujamma' al-Malik Fahd.
+[^7]: Al-Attas, S. M. N. (1990). *The nature of man and the psychology of the human soul*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^8]: Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila makarim asy-syari'ah* (A. Y. al-'Ajami, Ed.). Dar ash-Shahwah.
+[^9]: Skinner, B. F. (1971). *Beyond freedom and dignity*. Knopf.
+[^10]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
+[^11]: Al-Muhasibi, A. H. (1986). *Ar-Ri'ayah li huquqillah* (A. A. Abdul Qadir, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^12]: Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
+[^13]: Frankl, V. E. (1984). *Man's search for meaning*. Washington Square Press.
 
 ---
 

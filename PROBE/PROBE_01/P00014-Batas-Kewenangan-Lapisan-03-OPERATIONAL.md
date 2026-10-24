@@ -46,7 +46,7 @@ Kerentanan struktural ini membuktikan bahwa tanpa batas kewenangan yang dikodifi
 
 Dilema hierarki regulasi dan penjagaan batas kewenangan aturan pelaksana telah menjadi perhatian mendalam dalam tradisi ushul fikih dan siyasah syar'iyyah klasik. Dalam disiplin ushul fikih, hubungan antara prinsip dasar (*al-ashl*) dan ketentuan teknis cabang (*al-far'*) diatur oleh metodologi *Takhrij al-Furu' 'ala al-Ushul*. Cabang sama sekali tidak memiliki legitimasi independen; validitasnya bersandar secara mutlak pada kemampuannya untuk mencerminkan dan mengabdi kepada kaidah induknya.
 
-Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 5, hlm. 21) menegaskan prinsip kepatuhan cabang terhadap pokok:
+Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 5, hlm. 21[^1]) menegaskan prinsip kepatuhan cabang terhadap pokok:
 
 ```text
 الْفَرْعُ لَا يَجُوزُ أَنْ يَعُودَ عَلَى الْأَصْلِ بِالْإِبْطَالِ، لِأَنَّ صِحَّةَ الْفَرْعِ مُسْتَفَادَةٌ مِنْ صِحَّةِ الْأَصْلِ، فَلَوْ أَبْطَلَ الْفَرْعُ أَصْلَهُ لَلَزِمَ مِنْ صِحَّتِهِ عَدَمُ صِحَّتِهِ، وَهُوَ مُحَالٌ
@@ -56,7 +56,7 @@ Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 5, hlm. 
 
 Kaidah epistemik ini secara langsung mengikat relasi antara `01_FUNDAMENTAL/` (sebagai *al-ashl*) dan `03_OPERATIONAL/` (sebagai *al-far'*). SOP lapangan tidak boleh memuat mekanisme yang membatalkan atau meniadakan prinsip keadilan, kasih sayang mendidik (*rahmah tarbawiyyah*), dan perlindungan martabat kemanusiaan santri yang telah dikunci pada level fundamental.
 
-Lebih lanjut, Hujjatul Islam Imam Abu Hamid al-Ghazali dalam *al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 287) memetakan hierarki maslahat dan keterikatan sarana teknis terhadap perlindungan nilai inti:
+Lebih lanjut, Hujjatul Islam Imam Abu Hamid al-Ghazali dalam *al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 287[^2]) memetakan hierarki maslahat dan keterikatan sarana teknis terhadap perlindungan nilai inti:
 
 ```text
 وَكُلُّ مَا يُؤَدِّي إِلَى حِفْظِ هَذِهِ الْأُصُولِ الْخَمْسَةِ فَهُوَ مَصْلَحَةٌ، وَكُلُّ مَا يُفَوِّتُهَا فَهُوَ مَفْسَدَةٌ وَدَفْعُهَا مَصْلَحَةٌ، وَلَا يَجُوزُ لِلْوَسَائِلِ الْإِجْرَائِيَّةِ أَنْ تَنْقُضَ مَا وُضِعَتْ لِأَجْلِ حِمَايَتِهِ
@@ -64,13 +64,13 @@ Lebih lanjut, Hujjatul Islam Imam Abu Hamid al-Ghazali dalam *al-Mustashfa min '
 
 > *"Dan segala sarana yang menghantarkan pada pemeliharaan lima pilar pokok (agama, jiwa, akal, keturunan, dan harta) adalah maslahat, sedangkan segala hal yang merusak atau mengabaikannya adalah mafsadat, dan menolaknya adalah maslahat. Oleh karena itu, sarana-sarana prosedural operasional sama sekali tidak boleh membatalkan nilai pokok yang sejak awal ia dirancang untuk melindunginya."* (Al-Ghazali, *al-Mustashfa*, Tahqiq Muhammad Sulaiman al-Asyqar, Mu'assasah ar-Risalah, Beirut, 1997).
 
-Imam asy-Syathibi dalam mahakaryanya *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 3, hlm. 118) menjelaskan bahaya membiarkan sarana teknis menyimpang dari tujuan esensialnya:
+Imam asy-Syathibi dalam mahakaryanya *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 3, hlm. 118[^3]) menjelaskan bahaya membiarkan sarana teknis menyimpang dari tujuan esensialnya:
 
 ```text
 كُلُّ وَسِيلَةٍ نَزَلَتْ مَنْزِلَةَ الْمَقَاصِدِ فَهِيَ بَاطِلَةٌ، وَكُلُّ ذَرِيعَةٍ أَدَّتْ إِلَى إِبْطَالِ الْمَقْصُودِ الشَّرْعِيِّ فَهِيَ مَمْنُوعَةٌ شَرْعًا بِاتِّفَاقِ الْعُقَلَاءِ
 ```
 
-> *"Setiap sarana teknis (wasilah) yang diangkat kedudukannya setara dengan tujuan substansial (al-maqashid), maka sarana itu menjadi batil. Dan setiap perantara teknis yang berujung pada pembatalan maksud syar'i yang hakiki, maka perantara tersebut terlarang secara syar'i menurut kesepakatan para cendekiawan yang berakal sehat."* (Asy-Syathibi, *al-Muwafaqat*, Tahqiq Masyhur Hasan Salman, Dar Ibn 'Affan, Khobar, 1997).
+> *"Setiap sarana teknis (wasilah) yang diangkat kedudukannya setara dengan tujuan substansial (al-maqashid), maka sarana itu menjadi batil. Dan setiap perantara teknis yang berujung pada pembatalan maksud syar'i yang hakiki, maka perantara tersebut terlarang secara syar'i menurut kesepakatan para cendekiawan yang berakal sehat."* (Asy-Syathibi, *al-Muwafaqat*, Tahqiq Masyhur Hasan Salman, Dar Ibn 'Affan, Khobar, 1997)[^4].
 
 Bahkan Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Jilid 3, hlm. 14) mengingatkan bahaya para pelaksana teknis yang membuat aturan operasional tanpa pemahaman mendalam terhadap tujuan syariat:
 
@@ -89,7 +89,7 @@ Dalam konteks repositori TUMBUH v2.0.0, dokumen-dokumen di dalam `03_OPERATIONAL
 Kajian hukum ketatanegaraan modern, sosiologi birokrasi, dan teori sistem informasi memperkuat kaidah turats tersebut. 
 
 ### 4.1. Teori Jenjang Norma (Stufenbautheorie)
-Hans Kelsen (1967) dalam bukunya *Pure Theory of Law* (*Reine Rechtslehre*) merumuskan teori jenjang norma (*Stufenbautheorie*), yang menyatakan bahwa tata urutan hukum adalah suatu sistem norma yang berjenjang di mana norma hukum yang lebih rendah tingkatannya bersumber dari dan tidak boleh bertentangan dengan norma hukum yang lebih tinggi (*lex superior derogat legi inferiori*).
+Hans Kelsen (1967) dalam bukunya *Pure Theory of Law* (*Reine Rechtslehre*) merumuskan teori jenjang norma (*Stufenbautheorie*), yang menyatakan bahwa tata urutan hukum adalah suatu sistem norma yang berjenjang di mana norma hukum yang lebih rendah tingkatannya bersumber dari dan tidak boleh bertentangan dengan norma hukum yang lebih tinggi (*lex superior derogat legi inferiori*)[^5].
 
 ```text
 +---------------------------------------------------------+
@@ -111,7 +111,7 @@ Hans Kelsen (1967) dalam bukunya *Pure Theory of Law* (*Reine Rechtslehre*) meru
 ```
 
 ### 4.2. Sosiologi Pelaksana Garis Depan (Street-Level Bureaucracy)
-Sosiolog politik Michael Lipsky (1980) dalam mahakaryanya *Street-Level Bureaucracy: Dilemmas of the Individual in Public Services* mengungkap dinamika kritis para pekerja garis depan (seperti guru, polisi, pekerja sosial, dan dalam konteks ini: musyrif asrama). Lipsky membuktikan bahwa:
+Sosiolog politik Michael Lipsky (1980) dalam mahakaryanya *Street-Level Bureaucracy: Dilemmas of the Individual in Public Services* mengungkap dinamika kritis para pekerja garis depan (seperti guru, polisi, pekerja sosial, dan dalam konteks ini: musyrif asrama)[^6]. Lipsky membuktikan bahwa:
 1. Pekerja garis depan memiliki tingkat diskresi (*discretionary power*) yang luar biasa tinggi dalam interaksi langsung sehari-hari dengan subjek binaan.
 2. Di bawah tekanan beban kerja yang berat, keterbatasan waktu, dan sumber daya yang minim, pekerja garis depan secara alami mengembangkan rutinitas pertahanan diri (*coping routines*) dan menyederhanakan prosedur (*shortcuts*).
 3. Melalui penyederhanaan prosedur inilah, pekerja garis depan secara de facto menjadi "pembuat kebijakan yang sesungguhnya" (*the real policymakers*), yang kerap kali mengubah total filosofi kebijakan resmi tanpa pernah disetujui oleh pucuk pimpinan.
@@ -121,7 +121,7 @@ Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in publ
 Dalam ekosistem TUMBUH, musyrif asrama adalah tipikal *street-level bureaucrats*. Tanpa instrumen operasional yang membatasi diskresi negatif dan tanpa sistem pemantauan berbasis kepatuhan semantik, para musyrif akan secara alamiah menciptakan mekanisme pertahanan diri berupa disiplin punitif yang praktis namun destruktif bagi jiwa santri.
 
 ### 4.3. Kesetiaan Intervensi dalam Implementation Science
-Dalam literatur *Implementation Science*, Fixsen et al. (2005) serta Durlak dan DuPre (2008) mengkaji fenomena *intervention fidelity* (kesetiaan intervensi). Riset mereka membuktikan bahwa kegagalan program-program intervensi perilaku di lingkungan pendidikan 70% bukan disebabkan oleh kelemahan teori dasar, melainkan karena *program drift* pada tingkat implementasi operasional harian. Ketika para fasilitator lapangan memodifikasi komponen inti (*core components*) intervensi tanpa memahami mekanisme kausalnya, efektivitas positif program merosot drastis dan sering kali menimbulkan efek sampingan yang membahayakan (*iatrogenic harm*).
+Dalam literatur *Implementation Science*, Fixsen et al[^7]. (2005) serta Durlak dan DuPre (2008) mengkaji fenomena *intervention fidelity* (kesetiaan intervensi)[^8]. Riset mereka membuktikan bahwa kegagalan program-program intervensi perilaku di lingkungan pendidikan 70% bukan disebabkan oleh kelemahan teori dasar, melainkan karena *program drift* pada tingkat implementasi operasional harian. Ketika para fasilitator lapangan memodifikasi komponen inti (*core components*) intervensi tanpa memahami mekanisme kausalnya, efektivitas positif program merosot drastis dan sering kali menimbulkan efek sampingan yang membahayakan (*iatrogenic harm*).
 
 Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
 
@@ -361,22 +361,24 @@ Tujuh prinsip pencegahan penyimpangan operasional yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md`: Memetakan hulu-hilir perpindahan status dari bahan mentah hingga eksekusi SOP.
 - `PROBE/PROBE_01/P00012-Demarkasi-Lapisan-01-FUNDAMENTAL.md`: Menegaskan konstitusi fundamental yang tidak boleh diubah oleh lapisan operasional.
 - `PROBE/PROBE_01/P00013-Translasi-Konseptual-ke-Lapisan-02-IMPLEMENTATION.md`: Memetakan bagaimana regulasi institusional menjadi jembatan antara fundamental dan operasional.
+---
 
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
-- Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah*. Dar al-Kutub al-'Ilmiyyah.
-- Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 5). Mu'assasah ar-Risalah.
-- Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 3). Dar Ibn 'Affan.
-- Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
-- Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
-- Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
-- Kelsen, H. (1967). *Pure theory of law* (M. Knight, Trans.). University of California Press.
-- Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in public services*. Russell Sage Foundation.
-- Meyers, D. C., Durlak, J. A., & Wandersman, A. (2012). The quality implementation framework: A synthesis of critical steps in the implementation process. *American Journal of Community Psychology*, 50(3–4), 462–480.
-- Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
-- Pressman, J. L., & Wildavsky, A. (1984). *Implementation: How great expectations in Washington are dashed in Oakland* (3rd ed.). University of California Press.
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
+[^1]: Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 5). Mu'assasah ar-Risalah.
+[^2]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
+[^3]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 3). Dar Ibn 'Affan.
+[^4]: Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
+[^5]: Kelsen, H. (1967). *Pure theory of law* (M. Knight, Trans.). University of California Press.
+[^6]: Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in public services*. Russell Sage Foundation.
+[^7]: Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
+[^8]: Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
+[^9]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah*. Dar al-Kutub al-'Ilmiyyah.
+[^10]: Meyers, D. C., Durlak, J. A., & Wandersman, A. (2012). The quality implementation framework: A synthesis of critical steps in the implementation process. *American Journal of Community Psychology*, 50(3–4), 462–480.
+[^11]: Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
+[^12]: Pressman, J. L., & Wildavsky, A. (1984). *Implementation: How great expectations in Washington are dashed in Oakland* (3rd ed.). University of California Press.
 
 ---
 

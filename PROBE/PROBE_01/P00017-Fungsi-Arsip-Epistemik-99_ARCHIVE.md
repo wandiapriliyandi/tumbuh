@@ -49,7 +49,7 @@ Direktori `99_ARCHIVE/` hadir sebagai solusi arsitektural elegan: ia menjadi mus
 
 Urgensi memelihara teks yang telah dibatalkan atau digantikan telah dicontohkan secara luar biasa dalam tradisi ulama Islam melalui disiplin *'Ilm an-Nasikh wa al-Mansukh* dan kodifikasi sanad hadits. Dalam Al-Qur'an dan Sunnah, ketika suatu hukum dimansukh (dihapuskan atau digantikan oleh hukum yang lebih maslahat), ayat atau riwayat hadits tersebut **sama sekali tidak dihapus dari mushaf atau kitab induk hadits**.
 
-Imam Abu Ja'far an-Nahhas (w. 338 H) dalam kitab monumentalnya *an-Nasikh wa al-Mansukh fi al-Qur'an al-Karim* (hlm. 12–15) menjelaskan hikmah agung mengapa teks yang hukumnya telah digantikan tetap wajib diabadikan dan dibaca:
+Imam Abu Ja'far an-Nahhas (w[^1]. 338 H) dalam kitab monumentalnya *an-Nasikh wa al-Mansukh fi al-Qur'an al-Karim* (hlm. 12–15) menjelaskan hikmah agung mengapa teks yang hukumnya telah digantikan tetap wajib diabadikan dan dibaca:
 
 ```text
 وَأَمَّا مَا نُسِخَ حُكْمُهُ وَبَقِيَ رَسْمُهُ وَتِلَاوَتُهُ، فَإِنَّ فِي بَقَائِهِ حِكَمًا بَالِغَةً؛ مِنْهَا: مَعْرِفَةُ تَدَرُّجِ التَّشْرِيعِ، وَكَيْفَ نَقَلَ اللَّهُ عِبَادَهُ مِنَ الشِّدَّةِ إِلَى الرَّحْمَةِ أَوْ مِنَ الْأَخَفِّ إِلَى الْأَكْمَلِ، وَمِنْهَا: الِاعْتِبَارُ بِسُنَنِ التَّرْبِيَةِ، وَلَوْ سَقَطَ الرَّسْمُ لَانْقَطَعَتِ السِّلْسِلَةُ وَجَهِلَ النَّاسُ مَبْدَأَ أَمْرِهِمْ
@@ -57,7 +57,7 @@ Imam Abu Ja'far an-Nahhas (w. 338 H) dalam kitab monumentalnya *an-Nasikh wa al-
 
 > *"Adapun teks syariat yang hukum praktisnya telah dimansukh namun lafazh dan bacaannya tetap diabadikan dalam mushaf, sesungguhnya dalam pengekalan teks tersebut terdapat hikmah-hikmah yang sangat agung. Di antaranya: untuk mengetahui tahapan bertahap pensyariatan (tadarruj at-tasyri'), bagaimana Allah memindahkan para hamba-Nya dari situasi yang berat menuju rahmat atau dari perkara yang ringan menuju kesempurnaan. Di antaranya pula: untuk mengambil pelajaran mendalam mengenai hukum-hukum tarbiyah peradaban. Andaikan teks lama tersebut digugurkan atau dihapus lenyap, niscaya terputuslah mata rantai sejarah silsilah keilmuan dan manusia akan menjadi bodoh tentang bagaimana awal mula sistem mereka dibangun."* (An-Nahhas, *an-Nasikh wa al-Mansukh*, Tahqiq Dr. Sulaiman al-Lahiq, Mu'assasah ar-Risalah, Beirut, 1991).
 
-Imam Jalaluddin as-Suyuthi dalam *al-Itqan fi 'Ulum al-Qur'an* (Jilid 2, hlm. 705) mempertegas bahwa memahami dokumen pembatal (*an-nasikh*) adalah mustahil tanpa merawat dan mempelajari dokumen yang dibatalkan (*al-mansukh*):
+Imam Jalaluddin as-Suyuthi dalam *al-Itqan fi 'Ulum al-Qur'an* (Jilid 2, hlm. 705[^2]) mempertegas bahwa memahami dokumen pembatal (*an-nasikh*) adalah mustahil tanpa merawat dan mempelajari dokumen yang dibatalkan (*al-mansukh*):
 
 ```text
 لَا يَجُوزُ لِأَحَدٍ أَنْ يَفْسُرَ كِتَابَ اللَّهِ حَتَّى يَعْلَمَ النَّاسِخَ مِنَ الْمَنْسُوخِ، وَلَا يَتِمُّ الْعِلْمُ بِالنَّاسِخِ إِلَّا بِحِفْظِ الْمَنْسُوخِ وَمَعْرِفَةِ مَحَلِّهِ وَتَارِيخِ نُزُولِهِ، فَبَقَاءُ الْمَنْسُوخِ مِعْيَارٌ لِصِحَّةِ فَهْمِ النَّاسِخِ
@@ -65,7 +65,7 @@ Imam Jalaluddin as-Suyuthi dalam *al-Itqan fi 'Ulum al-Qur'an* (Jilid 2, hlm. 70
 
 > *"Tidak halal bagi siapa pun untuk menafsirkan Kitabullah sampai ia mengetahui mana yang nasikh dan mana yang mansukh. Dan tidak akan sempurna pengetahuan mengenai hukum yang baru (an-nasikh) kecuali dengan menghafal dan memelihara teks lama yang dimansukh, mengetahui konteks lokusnya, serta tarikh masa turunnya. Maka lestarinya teks mansukh adalah barometer bagi kebenaran pemahaman terhadap hukum baru."* (As-Suyuthi, *al-Itqan*, Tahqiq Markaz al-Dirasat al-Qur'aniyyah, Madinah, 2005).
 
-Lebih jauh lagi, dalam tradisi *'Ilm al-Jarh wa at-Ta'dil* dan kodifikasi rijalul hadits, para ahli hadits seperti Al-Imam al-Bukhari dalam *at-Tarikh al-Kabir* dan Al-Hafizh Ibnu Hajar al-Asqalani dalam *Tahdzib at-Tahdzib* mencatat secara utuh nama-nama perawi yang lemah (*adh-dhu'afa'*), perawi yang ditinggalkan (*al-matrukin*), dan riwayat-riwayat yang mungkar. Al-Hafizh Ibnu Hajar menjelaskan alasan mengapa riwayat yang tidak diamalkan tetap wajib dibukukan dalam museum sanad:
+Lebih jauh lagi, dalam tradisi *'Ilm al-Jarh wa at-Ta'dil* dan kodifikasi rijalul hadits, para ahli hadits seperti Al-Imam al-Bukhari dalam *at-Tarikh al-Kabir* dan Al-Hafizh Ibnu Hajar al-Asqalani dalam *Tahdzib at-Tahdzib* mencatat secara utuh nama-nama perawi yang lemah (*adh-dhu'afa'*), perawi yang ditinggalkan (*al-matrukin*), dan riwayat-riwayat yang mungkar[^3]. Al-Hafizh Ibnu Hajar menjelaskan alasan mengapa riwayat yang tidak diamalkan tetap wajib dibukukan dalam museum sanad:
 
 ```text
 وَإِنَّمَا صَنَّفَ الْأَئِمَّةُ فِي الرُّوَاةِ الضُّعَفَاءِ وَالْمَتْرُوكِينَ لِئَلَّا يَشْتَبِهَ الصَّحِيحُ بِالسَّقِيمِ، فَلَوْ حُذِفَ ذِكْرُهُمْ لَظَنَّ الْجَاهِلُ أَنَّ السَّاقِطَ غَيْرُ مَوْجُودٍ أَوْ أَنَّهُ مَقْبُولٌ لِعَدَمِ الطَّعْنِ، فَكَانَ حِفْظُ الْمَرْجُوحِ صِيَانَةً لِلرَّاجِحِ
@@ -108,7 +108,7 @@ Standar internasional kearsipan digital *Open Archival Information System* (OAIS
 ### 4.2. Pola Arsitektur Tombstoning & Soft Deletion
 Dalam rekayasa sistem terdistribusi dan *event-driven systems*, menghapus baris data secara fisik (*hard delete*) dianggap sebagai pola buruk (*anti-pattern*) karena merusak konsistensi relasional dan jejak audit (*audit trails*). Sebaliknya, arsitektur modern menggunakan pola *Tombstone*: entitas data tetap berada di penyimpanan, namun diberi tanda "batu nisan" (*tombstoned*) yang menandakan bahwa ia tidak lagi aktif dieksekusi.
 
-Foucault, M. (1972). *The archaeology of knowledge and the discourse on language* (A. M. Sheridan Smith, Trans.). Pantheon Books.
+Foucault, M[^4]. (1972). *The archaeology of knowledge and the discourse on language* (A. M. Sheridan Smith, Trans.). Pantheon Books.
 
 ISO. (2012). *Space data and information transfer systems — Open archival information system (OAIS) — Reference model* (ISO Standard No. 14721:2012). International Organization for Standardization.
 
@@ -360,23 +360,23 @@ Tujuh prinsip tata kelola kearsipan yang wajib dipatuhi:
 - `PROBE/PROBE_01/P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md`: Menjelaskan pemisahan branch v2.0.0 sebagai evolusi dari fondasi warisan v1.
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan arsitektur stratifikasi repositori.
 - `PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md`: Menjelaskan tata cara pengarsipan proyek riset yang telah selesai masa aktifnya.
+---
 
-### 11.2. Bibliografi Pustaka Rujukan Terkurasi (APA 7th Edition)
-- Al-Bukhari, M. I. (1986). *At-Tarikh al-kabir* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-- An-Nahhas, A. J. (1991). *An-Nasikh wa al-mansukh fi al-Qur'an al-karim* (S. al-Lahiq, Ed.). Mu'assasah ar-Risalah.
-- As-Suyuthi, J. (2005). *Al-Itqan fi 'ulum al-Qur'an* (Jilid 2). Markaz al-Dirasat al-Qur'aniyyah.
-- Duranti, L. (1998). *Diplomatics: New uses for an old science*. Scarecrow Press.
-- Foucault, M. (1972). *The archaeology of knowledge and the discourse on language* (A. M. Sheridan Smith, Trans.). Pantheon Books.
+## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-- Ibn Hajar al-Asqalani, A. (1984). *Tahdzib at-tahdzib* (Jilid 1). Dar al-Fikr.
-- ISO. (2012). *Space data and information transfer systems — Open archival information system (OAIS) — Reference model* (ISO Standard No. 14721:2012). International Organization for Standardization.
-- Jenkinson, H. (1937). *A manual of archive administration* (2nd ed.). Percy Lund, Humphries & Co.
-- Lavoie, B. (2014). *The Open Archival Information System (OAIS) reference model: Introductory guide* (2nd ed.). Digital Preservation Coalition.
-- Millar, L. A. (2017). *Archives: Principles and practices* (2nd ed.). Neal-Schuman Publishers.
-- National Archives and Records Administration. (2020). *Records management guidance for agency leaders*. NARA.
+Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-- Pearce-Moses, R. (2005). *A glossary of archival and records terminology*. Society of American Archivists.
-- Schellenberg, T. R. (2003). *Modern archives: Principles and techniques* (Original work published 1956). Society of American Archivists.
+[^1]: An-Nahhas, A. J. (1991). *An-Nasikh wa al-mansukh fi al-Qur'an al-karim* (S. al-Lahiq, Ed.). Mu'assasah ar-Risalah.
+[^2]: As-Suyuthi, J. (2005). *Al-Itqan fi 'ulum al-Qur'an* (Jilid 2). Markaz al-Dirasat al-Qur'aniyyah.
+[^3]: Al-Bukhari, M. I. (1986). *At-Tarikh al-kabir* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Foucault, M. (1972). *The archaeology of knowledge and the discourse on language* (A. M. Sheridan Smith, Trans.). Pantheon Books.
+[^5]: Duranti, L. (1998). *Diplomatics: New uses for an old science*. Scarecrow Press.
+[^6]: Ibn Hajar al-Asqalani, A. (1984). *Tahdzib at-tahdzib* (Jilid 1). Dar al-Fikr.
+[^7]: Jenkinson, H. (1937). *A manual of archive administration* (2nd ed.). Percy Lund, Humphries & Co.
+[^8]: Lavoie, B. (2014). *The Open Archival Information System (OAIS) reference model: Introductory guide* (2nd ed.). Digital Preservation Coalition.
+[^9]: Millar, L. A. (2017). *Archives: Principles and practices* (2nd ed.). Neal-Schuman Publishers.
+[^10]: Pearce-Moses, R. (2005). *A glossary of archival and records terminology*. Society of American Archivists.
+[^11]: Schellenberg, T. R. (2003). *Modern archives: Principles and techniques* (Original work published 1956). Society of American Archivists.
 
 ---
 
