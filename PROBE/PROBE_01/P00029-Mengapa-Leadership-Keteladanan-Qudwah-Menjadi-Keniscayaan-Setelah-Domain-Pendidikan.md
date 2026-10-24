@@ -27,7 +27,7 @@ Hasil penyelidikan dikristalisasi ke dalam *Architectural Decision Record (ADR)*
 2. **Khadimul Ummah (Pemimpin Pelayan)**: Paradigma kepemimpinan profetik di mana kekuasaan dipandang sebagai beban amanah pengorbanan untuk melayani kebutuhan ruhani, moral, dan fisik orang-orang yang dipimpin (*In Loco Parentis*).
 3. **Feodalisme Pesantren (*Feudal Authoritarianism*)**: Distorsi budaya kelembagaan di mana pengasuh atau santri senior menuntut penghormatan buta, meminta fasilitas istimewa tanpa kerja, dan menganggap diri mereka berada di atas tata tertib asrama.
 4. **Kurikulum Berjalan (*The Living Curriculum*)**: Perilaku faktual, cara berbicara, cara merespons kemarahan, dan ketepatan waktu ibadah para guru yang menjadi bahan ajar visual utama yang diserap oleh santri selama 24 jam.
-5. **Impunitas Kepemimpinan (*Leadership Impunity*)**: Kondisi cacat struktural di mana pengurus atau pengasuh yang melakukan pelanggaran tata tertib tidak pernah disanksi, sehingga meruntuhkan legitimasi moral seluruh sistem kedisiplinan[^1][^2].
+5. **Impunitas Kepemimpinan (*Leadership Impunity*)**: Kondisi cacat struktural di mana pengurus atau pengasuh yang melakukan pelanggaran tata tertib tidak pernah disanksi, sehingga meruntuhkan legitimasi moral seluruh sistem kedisiplinan[^1].
 
 ### 2.2. Latar Belakang Masalah Lapangan
 Penyelidikan mendalam terhadap kasus-kasus pembangkangan santri dan runtuhnya wibawa pesantren menemukan bahwa akar masalahnya hampir selalu bermuara pada krisis kepemimpinan:
@@ -54,7 +54,7 @@ Dokumen `P00029` ini secara ketat membatasi yurisdiksinya pada:
                                           v
          +-------------------------------------------------------------------+
          |               EMPAT PILAR KEPEMIMPINAN PROFETIK                   |
-         |                   (TUMBUH Domain 06: Leadership)                  |
+         |                   (TUMBUH Domain 06: Leadership)                  |[^2]
          +-------------------------------------------------------------------+
          |  1. AL-KHIDMAH  : Sayyidul Qaumi Khadimuhum (Pelayan Santri)      |
          |  2. AL-'ADALAH  : Kesetaraan Hukum Tanpa Impunitas Feodal         |
@@ -96,21 +96,27 @@ Amirul Mukminin Umar bin al-Khattab radhiyallahu 'anhu dalam surat monumentalnya
 > *(Diriwayatkan oleh Ad-Daraquthni dalam Sunan-nya, Juz 4, hlm. 206; dan Al-Baihaqi dalam As-Sunan al-Kubra, Juz 10, hlm. 150)*  
 > **Artinya**: *"Samakanlah kedudukan manusia di hadapanmu: dalam pandangan wajahmu, dalam majelismu, dan dalam keputusan hukummu; sehingga orang yang lemah tidak berputus asa dari keadilanmu, dan orang yang terpandang tidak tamak mengharapkan keberpihakanmu yang curang. Bukti dibebankan kepada pihak yang menuduh dan sumpah kepada pihak yang mengingkari. Dan perdamaian (ishlah) adalah sah di antara kaum muslimin kecuali perdamaian yang menghalalkan yang haram atau mengharamkan yang halal."*
 
-Imam Al-Qadhi Abu Ya'la al-Farra' (w. 458 H) dalam *Al-Ahkam as-Sulthaniyyah* menguraikan bahwa syarat utama seorang pemimpin adalah kesanggupan menegakkan keadilan dan melayani kepentingan umat di atas kepentingan pribadi:[^5][^6]
+Imam Al-Qadhi Abu Ya'la al-Farra' (w. 458 H) dalam *Al-Ahkam as-Sulthaniyyah* menguraikan bahwa syarat utama seorang pemimpin adalah kesanggupan menegakkan keadilan dan melayani kepentingan umat di atas kepentingan pribadi:[^5]
 
 > **يَلْزَمُ وَالِيَ الْأَمْرِ أَنْ يَتَفَقَّدَ أُمُورَ رَعِيَّتِهِ بِنَفْسِهِ، وَلَا يَعْتَمِدَ عَلَى تَفْوِيضِ ذَلِكَ إِلَى النُّوَّابِ دُونَ إِشْرَافٍ، فَإِنَّ الْأَمَانَةَ تَقْتَضِي النُّصْحَ، وَالنُّصْحُ لَا يَتِمُّ مَعَ الْغَفْلَةِ وَالتَّرَفُّعِ عَنِ الْمُبَاشَرَةِ.**  
 > *(Al-Ahkam as-Sulthaniyyah, Tahqiq Muhammad Hamid al-Fiqi, Dar al-Kutub al-'Ilmiyyah, hlm. 27)*  
 > **Artinya**: *"Wajib bagi pemegang kepemimpinan untuk memeriksa langsung urusan rakyatnya dengan dirinya sendiri, dan janganlah ia bersandar semata-mata pada pelimpahan wewenang kepada para wakil tanpa pengawasan langsung. Karena sesungguhnya amanah itu menuntut ketulusan nasihat, dan ketulusan nasihat tidak akan pernah sempurna jika disertai kelalaian dan sikap menyombongkan diri dari terjun langsung ke lapangan."*
 
 ### 3.2. Integrasi Teori Kepemimpinan Modern: Dari Greenleaf hingga Bandura
-Teori *Servant Leadership* yang dipopulerkan oleh Robert K. Greenleaf (1977) memiliki keselarasan luar biasa dengan ajaran Islam. Greenleaf merumuskan bahwa ujian sejati dari seorang pemimpin pelayan adalah: *Apakah orang-orang yang dipimpinnya bertumbuh sebagai manusia? Apakah mereka menjadi lebih sehat, lebih bijak, lebih merdeka, dan lebih terdorong untuk melayani sesama?*[^7]
+Teori *Servant Leadership* yang dipopulerkan oleh Robert K. Greenleaf (1977) memiliki keselarasan luar biasa dengan ajaran Islam. Greenleaf merumuskan bahwa ujian sejati dari seorang pemimpin pelayan adalah: *Apakah orang-orang yang dipimpinnya bertumbuh sebagai manusia? Apakah mereka menjadi lebih sehat, lebih bijak, lebih merdeka, dan lebih terdorong untuk melayani sesama?*[^6]
 
-Sementara itu, *Social Learning Theory* dari Albert Bandura (1977) membuktikan secara empiris bahwa proses belajar manusia yang paling dominan terjadi melalui **pengamatan (*modeling*)** dan **peniruan (*vicarious reinforcement*)**. Santri di asrama tidak belajar kejujuran dari buku fiqh, melainkan dari apakah mereka melihat musyrifnya jujur mengakui kesalahan saat keliru membagi jatah makan. Jika figur pemimpin menampilkan hipokrisi, maka seluruh materi kurikulum adab otomatis kehilangan kekuatan transformasinya[^8].
+Sementara itu, *Social Learning Theory* dari Albert Bandura (1977) membuktikan secara empiris bahwa proses belajar manusia yang paling dominan terjadi melalui **pengamatan (*modeling*)** dan **peniruan (*vicarious reinforcement*)**. Santri di asrama tidak belajar kejujuran dari buku fiqh, melainkan dari apakah mereka melihat musyrifnya jujur mengakui kesalahan saat keliru membagi jatah makan. Jika figur pemimpin menampilkan hipokrisi, maka seluruh materi kurikulum adab otomatis kehilangan kekuatan transformasinya[^7].
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibn 'Abdil Barr dalam *Jami' bayan al-'ilm wa fadlihi*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9][^10][^11].
+Landasan epistemik ini diperkuat oleh pemikiran Ibn 'Abdil Barr dalam *Jami' bayan al-'ilm wa fadlihi*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
 
-Landasan epistemik ini diperkuat oleh pemikiran Al-Baihaqi dalam *Syu'ab al-iman*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^12].
+Landasan epistemik ini diperkuat oleh pemikiran Al-Baihaqi dalam *Syu'ab al-iman*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^10].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^11].
+
+Landasan epistemik ini diperkuat oleh pemikiran Abu Ya'la al-Farra' dalam *Al-Ahkam as-sulthaniyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^12].
 
 
 ## 4. Analisis Komparatif: Kepemimpinan Qudwah Islam vs Feodalisme Otoriter Sekuler
@@ -367,13 +373,13 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^3]: Ibn Taimiyyah, A. H. (1998). *As-Siyasah asy-syar'iyyah fi ishlah ar-ra'i wa ar-ra'iyyah* (A. M. al-Umran, Ed.). Dar 'Alim al-Fawa'id.
 [^4]: Al-Ghazali, A. H. (1988). *Nashihat al-muluk* (J. Huma'i, Ed.). Dar al-Kutub al-Haditsah.
 [^5]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah* (M. F. as-Sirjani, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^6]: Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^7]: Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
-[^8]: Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
-[^9]: Ibn 'Abdil Barr, Y. A. (1994). *Jami' bayan al-'ilm wa fadlihi* (A. Z. az-Zuhairi, Ed., Jilid 1). Dar Ibn al-Jauzi.
-[^10]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
-[^11]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
-[^12]: Al-Baihaqi, A. H. (2003). *Syu'ab al-iman* (A. A. Abdul Hamid, Ed., Jilid 10). Maktabah ar-Rusyd.
+[^6]: Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
+[^7]: Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
+[^8]: Ibn 'Abdil Barr, Y. A. (1994). *Jami' bayan al-'ilm wa fadlihi* (A. Z. az-Zuhairi, Ed., Jilid 1). Dar Ibn al-Jauzi.
+[^9]: Al-Baihaqi, A. H. (2003). *Syu'ab al-iman* (A. A. Abdul Hamid, Ed., Jilid 10). Maktabah ar-Rusyd.
+[^10]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
+[^11]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
+[^12]: Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

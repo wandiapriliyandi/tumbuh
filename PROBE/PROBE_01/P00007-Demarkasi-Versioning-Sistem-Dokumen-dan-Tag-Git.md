@@ -20,7 +20,7 @@ Penyelidikan ini mendekonstruksi kerancuan penomoran versi (*versioning conflati
 
 ## 2. Pendahuluan: Fenomenologi Lapangan & Dilema Sistemik
 
-Di lingkungan pesantren yang mulai mengadopsi teknologi digital, sering kali terjadi distorsi persepsi akibat pencampuradukan berbagai jenis penomoran versi dokumen. Fenomena ini melahirkan apa yang disebut sebagai **Anarki Semantik Versi (*Version Semantic Anarchy*)**:[^1][^2]
+Di lingkungan pesantren yang mulai mengadopsi teknologi digital, sering kali terjadi distorsi persepsi akibat pencampuradukan berbagai jenis penomoran versi dokumen. Fenomena ini melahirkan apa yang disebut sebagai **Anarki Semantik Versi (*Version Semantic Anarchy*)**:[^1]
 
 ```text
 DILEMA SEMANTIK PENOMORAN VERSI DI PESANTREN
@@ -65,9 +65,9 @@ DIALEKTIKA TURATS: STRATIFIKASI TABAQAT AN-NUSAKH DAN ADAB PERIWAYATAN
 
           TABAQAT AN-NUSAKH                              TAMYIZ AL-MARATIB
   ┌─────────────────────────────────┐               ┌─────────────────────────────────┐
-  │ 1. Al-Ashl al-Umm (Kanon Induk) │               │ Kaidah Syihabuddin Al-Qarafi:   │[^3]
+  │ 1. Al-Ashl al-Umm (Kanon Induk) │               │ Kaidah Syihabuddin Al-Qarafi:   │[^2]
   │ 2. Al-Far' / An-Naskhah (Salinan│               │ Membedakan Maqam Pokok, Maqam   │
-  │ 3. Asy-Syarah (Eksplanasi Luas) │               │ Penjabaran, dan Catatan Pinggir │[^4]
+  │ 3. Asy-Syarah (Eksplanasi Luas) │               │ Penjabaran, dan Catatan Pinggir │[^3]
   │ 4. Al-Hasyiyah (Glosarium Kritis│               │ agar tidak tertukar kedudukan   │
   │ 5. Al-Mukhtashar (Ikhtisar Saku)│               │ hukum dan derajat otoritasnya.  │
   └─────────────────────────────────┘               └─────────────────────────────────┘
@@ -80,7 +80,7 @@ DIALEKTIKA TURATS: STRATIFIKASI TABAQAT AN-NUSAKH DAN ADAB PERIWAYATAN
 ```
 
 ### 3.1. Tradisi Tabaqat an-Nusakh dalam Filologi Islam
-Imam Al-Hafizh Jamaluddin Abu al-Hajjaj Yusuf Al-Mizzi dalam mukaddimah *Tahdzib al-Kamal fi Asma' ar-Rijal* (Jilid 1, hlm. 142–150) dan disempurnakan oleh Al-Hafizh Ibnu Hajar Al-'Asqalani dalam *Tahdzib at-Tahdzib* menetapkan hierarki naskah yang sangat disiplin:[^5][^6]
+Imam Al-Hafizh Jamaluddin Abu al-Hajjaj Yusuf Al-Mizzi dalam mukaddimah *Tahdzib al-Kamal fi Asma' ar-Rijal* (Jilid 1, hlm. 142–150) dan disempurnakan oleh Al-Hafizh Ibnu Hajar Al-'Asqalani dalam *Tahdzib at-Tahdzib* menetapkan hierarki naskah yang sangat disiplin:[^4]
 1. **Al-Ashl al-Mu'tamad (Naskah Asal yang Terakreditasi)**: Naskah tulisan tangan penulis asli (*khatt al-mu'allif*) atau naskah yang telah dibacakan dan ditashih langsung di hadapan penulis (*qira'atan 'alal mu'allif*).
 2. **An-Nusakh al-Far'iyyah (Naskah Salinan Turunan)**: Salinan murid yang memiliki catatan rantai periwayatan (*balaghat wa sama'at*).
 3. **Asy-Syuruh wal-Hawasyi (Penjelasan dan Catatan Kritis)**: Teks komentar yang wajib diletakkan terpisah di margin luar (*hamisy*) atau dalam jilid tersendiri, diharamkan keras disisipkan langsung ke dalam teks matan asli untuk mencegah pemalsuan (*idraj*).
@@ -96,12 +96,18 @@ Imam Al-Qarafi dalam *Al-Furuq* (Jilid 1, hlm. 204, *Al-Farq ats-Tsalits*) merum
 Mencampuradukkan nomor versi sistem konseptual (yang mencerminkan pergeseran filosofis) dengan nomor commit Git (yang semata-mata mencerminkan tanda terima teknis mesin) adalah pelanggaran langsung terhadap kaidah *Tamyiz al-Maratib*. Hal ini merendahkan martabat fatwa kurikulum adab menjadi sekadar urusan kode biner.
 
 ### 3.3. Adab Taqyid wa Dhabth as-Sima' menurut Al-Khatib Al-Baghdadi
-Dalam *Taqyid al-'Ilm* (hlm. 89–95), Al-Khatib Al-Baghdadi menjelaskan adab pemberian catatan kaki tanggal dan identitas:[^7]
+Dalam *Taqyid al-'Ilm* (hlm. 89–95), Al-Khatib Al-Baghdadi menjelaskan adab pemberian catatan kaki tanggal dan identitas:[^5]
 - Setiap kali seorang muhaddits menambahkan catatan atau mengoreksi kata dalam kitabnya, ia wajib membubuhkan stempel waktu (*tarikh ad-dhabth*) dan paraf saksi di samping baris yang diperbaiki.
 - Tujuannya adalah agar generasi penerus dapat menelusuri secara presisi kapan suatu revisi terjadi tanpa merusak kredibilitas naskah induk.
 
 ---
-Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^8][^9][^10].
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Hajar Al-'Asqalani dalam *Tahdzib at-Tahdzib*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Semantic Versioning, & Git Metadata
@@ -112,7 +118,7 @@ Dalam sains rekayasa perangkat lunak modern, standardisasi versi merupakan instr
 DIAGRAM TEORI SISTEM: ARSITEKTUR VERSIONING TRIPARTIT TUMBUH
 
 ┌─────────────────────────────────────────────────────────────────────────────────┐
-│ LEVEL 1: SYSTEM CONCEPTUAL VERSION (SemVer: MAJOR.MINOR.PATCH)                   │
+│ LEVEL 1: SYSTEM CONCEPTUAL VERSION (SemVer: MAJOR.MINOR.PATCH)                   │[^10]
 │ Contoh: v2.0.0 (Mengikat Seluruh Repositori, Paradigma Filosofis, & Landasan)    │
 └────────────────────────────────────────┬────────────────────────────────────────┘
                                          │ Mengatur & Membawahi
@@ -221,7 +227,11 @@ Tragedi Pesantren Madani menegaskan mandat mutlak bagi seluruh jajaran TUMBUH:
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13][^14][^15].
+Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
+
+Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
+
+Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -396,17 +406,17 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Preston-Werner, T. (2013). *Semantic versioning 2.0.0*. Creative Commons Specification.
-[^2]: Spinellis, D. (2012). *Git version control system*. IEEE Software, 29(3), 100–101.
-[^3]: Al-Qarafi, A. I. (1998). *Al-Furuq wa Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Manshur, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^4]: As-Suyuthi, J. (1989). *Tadrib ar-Rawi fi Syarah Taqrib an-Nawawi* (A. A. Al-Muthallibi, Tahqiq; Jilid 2). Dar al-'Ashimah.
-[^5]: Al-Mizzi, Y. A. (1980). *Tahdzib al-Kamal fi Asma' ar-Rijal* (B. A. Ma'ruf, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^6]: Ibnu Hajar Al-'Asqalani, A. A. (1984). *Tahdzib at-Tahdzib* (M. A. Khalil, Tahqiq; Jilid 1). Dar al-Fikr.
-[^7]: Al-Khatib Al-Baghdadi, A. (1974). *Taqyid al-'Ilm* (Y. Al-'Usysy, Tahqiq; Jilid 1). Dar Ihya' as-Sunnah an-Nabawiyyah.
-[^8]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^9]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^10]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^2]: Al-Qarafi, A. I. (1998). *Al-Furuq wa Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Manshur, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^3]: As-Suyuthi, J. (1989). *Tadrib ar-Rawi fi Syarah Taqrib an-Nawawi* (A. A. Al-Muthallibi, Tahqiq; Jilid 2). Dar al-'Ashimah.
+[^4]: Al-Mizzi, Y. A. (1980). *Tahdzib al-Kamal fi Asma' ar-Rijal* (B. A. Ma'ruf, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^5]: Al-Khatib Al-Baghdadi, A. (1974). *Taqyid al-'Ilm* (Y. Al-'Usysy, Tahqiq; Jilid 1). Dar Ihya' as-Sunnah an-Nabawiyyah.
+[^6]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^7]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^8]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^9]: Ibnu Hajar Al-'Asqalani, A. A. (1984). *Tahdzib at-Tahdzib* (M. A. Khalil, Tahqiq; Jilid 1). Dar al-Fikr.
+[^10]: Spinellis, D. (2012). *Git version control system*. IEEE Software, 29(3), 100–101.
 [^11]: Chacon, S., & Straub, B. (2014). *Pro Git: Everything you need to know about Git* (2nd ed.). Apress.
 [^12]: Conway, M. E. (1968). *How do committees invent?*. Datamation, 14(4), 28–31.
 [^13]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
-[^14]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
-[^15]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^14]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^15]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.

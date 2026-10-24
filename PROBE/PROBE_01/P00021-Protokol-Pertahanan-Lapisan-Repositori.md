@@ -79,7 +79,7 @@ Prinsip *Sadd adz-Dzara'i'* ini menjadi legitimasi teologis tertinggi bagi pembe
 Kajian rekayasa perangkat lunak modern dan keamanan sistem informasi telah membuktikan bahwa arsitektur yang berkelanjutan memerlukan mekanisme penjagaan otomatis (*automated governance*).
 
 ### 4.1. Fungsi Kebugaran Arsitektural (Architectural Fitness Functions)
-Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam buku penting mereka *Building Evolutionary Architectures* merumuskan konsep *Architectural Fitness Function*:
+Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam buku penting mereka *Building Evolutionary Architectures* merumuskan konsep *Architectural Fitness Function*:[^4]
 - Fitness function adalah pengujian otomatis (*automated test*) yang dirancang untuk mengukur dan memverifikasi integritas karakteristik arsitektur sistem secara berkelanjutan.
 - Berbeda dari unit test yang menguji fungsionalitas fitur individual, *Architectural Fitness Function* menguji batas-batas struktural: keterikatan modul (*coupling*), arah dependensi (*acyclic dependency*), dan kepatuhan lapisan (*layering compliance*).
 - Setiap kali seorang pengembang melakukan komit atau membuat *pull request*, fitness function berjalan secara otomatis. Jika ditemukan pelanggaran aturan arsitektur (misal: berkas pada lapisan operasional mengimpor berkas mentah secara ilegal), proses build otomatis ditolak (*broken build*).
@@ -107,9 +107,9 @@ Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam buku penting mereka *Bu
 ```
 
 ### 4.2. Prinsip Keamanan Saltzer-Schroeder: Defense-in-Depth
-Jerome Saltzer dan Michael Schroeder (1975) dalam makalah klasik *The Protection of Information in Computer Systems* menetapkan prinsip *Economy of Mechanism* dan *Complete Mediation*: setiap akses dan relasi antarmodul wajib diperiksa secara menyeluruh tanpa pengecualian (*complete mediation*), dan sistem pertahanan harus berlapis (*Defense-in-Depth*)[^4].
+Jerome Saltzer dan Michael Schroeder (1975) dalam makalah klasik *The Protection of Information in Computer Systems* menetapkan prinsip *Economy of Mechanism* dan *Complete Mediation*: setiap akses dan relasi antarmodul wajib diperiksa secara menyeluruh tanpa pengecualian (*complete mediation*), dan sistem pertahanan harus berlapis (*Defense-in-Depth*)[^5].
 
-Prinsip pertahanan berlapis ini disintesiskan dengan teori arsitektur evolusioner oleh Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam *Building Evolutionary Architectures*, yang menuntut adanya fungsi kebugaran (*architectural fitness functions*) otomatis untuk menguji kepatuhan desain pada setiap siklus integrasi[^5]. Sementara itu, Jilles van Gurp dan Jan Bosch (2002) dalam kajian *design erosion* mengingatkan bahwa tanpa pagar pembatas yang ditegakkan secara ketat, integritas arsitektur sistem akan mengalami erosi bertahap hingga akhirnya runtuh menjadi tatanan monolitik yang rapuh[^6].
+Prinsip pertahanan berlapis ini disintesiskan dengan teori arsitektur evolusioner oleh Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam *Building Evolutionary Architectures*, yang menuntut adanya fungsi kebugaran (*architectural fitness functions*) otomatis untuk menguji kepatuhan desain pada setiap siklus integrasi. Sementara itu, Jilles van Gurp dan Jan Bosch (2002) dalam kajian *design erosion* mengingatkan bahwa tanpa pagar pembatas yang ditegakkan secara ketat, integritas arsitektur sistem akan mengalami erosi bertahap hingga akhirnya runtuh menjadi tatanan monolitik yang rapuh.
 
 
 
@@ -163,7 +163,11 @@ Tabel berikut menetapkan aturan konstitusional gerbang interaksi (*interface rul
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7][^8].
+Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^6].
+
+Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
+
+Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Sistem Pertahanan Terpadu Repositori (Defense-in-Depth)
 
@@ -379,8 +383,8 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^4]: Ford, N., Parsons, R., & Kua, P. (2017). *Building evolutionary architectures: Support constant change*. O'Reilly Media.
 [^5]: Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
 [^6]: Bass, L., Clements, P., & Kazman, R. (2012). *Software architecture in practice* (3rd ed.). Addison-Wesley.
-[^7]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley.
-[^8]: Martin, R. C. (2018). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^7]: Martin, R. C. (2018). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^8]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Administrator dan Pengembang TUMBUH
 

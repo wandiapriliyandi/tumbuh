@@ -181,7 +181,9 @@ Untuk menjamin kelengkapan fondasi, repositori menstrukturkan lapisan `Foundatio
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Steinberg dalam *Age of opportunity: Lessons from the new science of adolescence* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7][^8].
+Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Steinberg dalam *Age of opportunity: Lessons from the new science of adolescence* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
+
+Dalam literatur rekayasa sistem kontemporer, Steinberg dalam *Age of opportunity: Lessons from the new science of adolescence* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Perumusan dan Kodifikasi Dokumen Foundation
 

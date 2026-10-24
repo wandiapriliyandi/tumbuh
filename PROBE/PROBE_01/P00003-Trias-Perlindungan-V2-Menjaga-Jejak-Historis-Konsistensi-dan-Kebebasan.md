@@ -124,12 +124,20 @@ Imam Al-Qarafi dalam *Al-Ihkam* (hlm. 110) menegaskan:[^4]
 Kutipan ini menjadi fondasi teologis bagi pilar ketiga Trias Perlindungan V2: kebebasan rekayasa sistem tidak boleh diharamkan selama berpijak pada pemahaman maqashid yang lurus.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Khatib al-Baghdadi dalam *al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* menegaskan standarisasi adab dan integritas moral transmisi keilmuan sebagai pilar utama pelestarian tradisi pendidikan Islam. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^5][^6][^7][^8][^9].
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Khatib al-Baghdadi dalam *al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* menegaskan standarisasi adab dan integritas moral transmisi keilmuan sebagai pilar utama pelestarian tradisi pendidikan Islam. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^5].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Mawardi dalam *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Imam Al-Khatib al-Baghdadi dalam *al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* menegaskan standarisasi adab dan integritas moral transmisi keilmuan sebagai pilar utama pelestarian tradisi pendidikan Islam[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Tata Kelola Pengetahuan, & Version Control
 
-Dalam literatur rekayasa perangkat lunak (*software engineering*) dan manajemen pengetahuan organisasi (*knowledge management*), tantangan mengelola evolusi sistem skala besar telah melahirkan prinsip-prinsip sains modern yang kokoh[^10][^11].
+Dalam literatur rekayasa perangkat lunak (*software engineering*) dan manajemen pengetahuan organisasi (*knowledge management*), tantangan mengelola evolusi sistem skala besar telah melahirkan prinsip-prinsip sains modern yang kokoh[^10].
 
 ```text
 DIAGRAM: TIGA PILAR PERLINDUNGAN V2 DALAM PERSPEKTIF TEORI SISTEM
@@ -139,8 +147,8 @@ DIAGRAM: TIGA PILAR PERLINDUNGAN V2 DALAM PERSPEKTIF TEORI SISTEM
      ┌───────────────────────────┼───────────────────────────┐
      ▼                           ▼                           ▼
 [PILAR 1: SEJARAH]          [PILAR 2: KONSISTENSI]      [PILAR 3: KEBEBASAN]
-Organizational Memory       Lehman's 2nd Law            Clean Architecture[^12][^13]
-(Walsh & Ungson, 1991)      (Complexity Control)        (Robert C. Martin, 2017)
+Organizational Memory       Lehman's 2nd Law            Clean Architecture[^11]
+(Walsh & Ungson, 1991)      (Complexity Control)        (Robert C. Martin, 2017)[^12]
 Jejak Sanad v1 Terpelihara  Audit Otomatis Lintas-Lapisan Hak Rekayasa Tanpa Hambatan
 di folder 99_ARCHIVE/.      via Standard Linting/CI.    di dalam Branch v2.0.0.
 ```
@@ -159,7 +167,7 @@ James P. Walsh dan Gerardo Rivera Ungson (1991) dalam karya kanoniknya *Organiza
 - Trias Perlindungan V2 mewajibkan setiap artefak lama dipindahkan ke `99_ARCHIVE/` dengan riwayat Git yang utuh, sehingga repositori bertindak sebagai memori eksternal yang permanen bagi pesantren.
 
 ### 4.3. Teori Penciptaan Pengetahuan SECI (*Nonaka & Takeuchi Model*)
-Ikujiro Nonaka dan Hirotaka Takeuchi (1995) dalam *The Knowledge-Creating Company* memodelkan spiral penciptaan pengetahuan melalui empat modus: *Socialization, Externalization, Combination,* dan *Internalization* (SECI).
+Ikujiro Nonaka dan Hirotaka Takeuchi (1995) dalam *The Knowledge-Creating Company* memodelkan spiral penciptaan pengetahuan melalui empat modus: *Socialization, Externalization, Combination,* dan *Internalization* (SECI)[^13].
 - Dokumen V1 merupakan fase *Externalization* awal dari pengalaman musyrif di lapangan.
 - Rekonstruksi V2 adalah fase *Combination*: menghubungkan potongan-potongan draf lama ke dalam kerangka konsep yang lebih tinggi dan sistematis.
 - Agar proses kombinasi ini berhasil, para perancang membutuhkan **kebebasan rekayasa konseptual** tanpa dibebani keharusan mempertahankan tata letak folder yang cacat.
@@ -242,7 +250,9 @@ Branch v2.0.0 dirancang secara spesifik untuk memutus siklus tragedi seperti di 
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14][^15].
+Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
+
+Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -400,13 +410,13 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^3]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
 [^4]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
 [^5]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^6]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^7]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^8]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^9]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^6]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^7]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^8]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^9]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
 [^10]: Lehman, M. M. (1996). *Laws of software evolution revisited*. Software Process: Improvement and Practice, 2(4), 223–233.
-[^11]: Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
-[^12]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
-[^13]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^11]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
+[^12]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^13]: Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
 [^14]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
 [^15]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.

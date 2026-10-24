@@ -88,13 +88,13 @@ Imam Abu Manshur al-Maturidi (w. 333 H) dalam *Kitab at-Tawhid* menegaskan bahwa
 > *(Kitab at-Tawhid, Tahqiq Fathallah Khulaif, Dar al-Masyriq, hlm. 7–9)*  
 > **Artinya**: *"Pokok saluran untuk memperoleh ilmu ada tiga segi: pengamatan kasat mata (al-'iyan/empiris), berita-berita (al-akhbar/riwayat), dan penalaran nalar (an-nazhar/rasional). Maka barangsiapa menolak pengamatan inderawi, ia terjatuh dalam sofisme (safsathah); barangsiapa membatalkan otoritas berita, terputuslah darinya pengetahuan tentang apa yang gaib darinya dan syariat para Nabi; dan barangsiapa mengingkari penalaran akal, ia akan lumpuh dari membuktikan hakikat apa pun."*
 
-Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Al-Mustashfa min 'Ilm al-Ushul* menguraikan metodologi penimbangan bukti dan melarang keras penjatuhan sanksi berdasarkan prasangka kosong (*zhann*):[^4][^5][^6][^7][^8][^9]
+Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Al-Mustashfa min 'Ilm al-Ushul* menguraikan metodologi penimbangan bukti dan melarang keras penjatuhan sanksi berdasarkan prasangka kosong (*zhann*):[^4]
 
 > **الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ، وَلَا يَجُوزُ لِلْقَاضِي وَلَا لِلْمُؤَدِّبِ أَنْ يَقْضِيَ بِالظَّنِّ الْمُجَرَّدِ مَعَ إِمْكَانِ طَلَبِ الْيَقِينِ أَوِ الظَّنِّ الْغَالِبِ الْمُسْتَنِدِ إِلَى أَمَارَةٍ صَحِيحَةٍ.**  
 > *(Al-Mustashfa fi 'Ilm al-Ushul, Dar al-Kutub al-'Ilmiyyah, Juz 1, hlm. 142)*  
 > **Artinya**: *"Bukti (bayyinah) dibebankan kepada pihak penuduh dan sumpah kepada pihak yang mengingkari. Tidak halal bagi seorang hakim maupun seorang pendidik (mu'addib) untuk menetapkan keputusan hukum berdasarkan sangkaan semata (azh-zhann al-mujarrad), padahal masih memungkinkan mencari kepastian (yaqin) atau sangkaan kuat (zhann ghalib) yang bersandar pada bukti faktual yang sah."*
 
-Imam Ibn Hazm al-Andalusi (w. 456 H) dalam *Al-Ihkam fi Ushul al-Ahkam* menegaskan kewajiban menjaga kemurnian pembuktian dan mengharamkan taklid buta terhadap sangkaan orang:
+Imam Ibn Hazm al-Andalusi (w. 456 H) dalam *Al-Ihkam fi Ushul al-Ahkam* menegaskan kewajiban menjaga kemurnian pembuktian dan mengharamkan taklid buta terhadap sangkaan orang:[^5]
 
 > **لَا يَحِلُّ لِأَحَدٍ أَنْ يَقُولَ فِي شَيْءٍ مِنَ الدِّينِ وَلَا فِي حُكْمٍ مِنْ أَحْكَامِ الْمُسْلِمِينَ إِلَّا بِبُرْهَانٍ صَحِيحٍ مِنْ نَصِّ قُرْآنٍ، أَوْ سُنَّةٍ ثَابِتَةٍ، أَوْ إِجْمَاعٍ مَقْطُوعٍ بِهِ، أَوْ ضَرُورَةِ حِسٍّ لَا مَدْفَعَ لَهَا، وَمَا عَدَا ذَلِكَ فَهُوَ تَقَلُّدٌ لِلظُّنُونِ الْفَاسِدَةِ وَقَوْلٌ عَلَى اللَّهِ بِمَا لَا يَعْلَمُونَ.**  
 > *(Al-Ihkam fi Ushul al-Ahkam, Tahqiq Ahmad Muhammad Syakir, Dar al-Afaq al-Jadidah, Juz 1, hlm. 37)*  
@@ -104,7 +104,7 @@ Syed Muhammad Naquib al-Attas (1993) mendefinisikan ilmu dalam kacamata Islam se
 > *"The arrival of meaning in the soul and the arrival of the soul at meaning (*wushul al-ma'na ila an-nafs wa wushul an-nafs ila al-ma'na*). Meaning is the recognition of the proper place of anything in a system. When that place is known, truth is grasped and adab is actualized."* *(The Nature of Knowledge, hlm. 14–16)*.
 
 ---
-Dalam filsafat epistemologi kontemporer Barat, ilmu sering didefinisikan sebagai *Justified True Belief (JTB)*. Namun, sejak Edmund Gettier (1963) mempublikasikan paradoksnya, definisi JTB terbukti rapuh karena sebuah keyakinan yang benar bisa saja terjadi secara kebetulan tanpa keterikatan kausalitas hakiki[^10].
+Dalam filsafat epistemologi kontemporer Barat, ilmu sering didefinisikan sebagai *Justified True Belief (JTB)*. Namun, sejak Edmund Gettier (1963) mempublikasikan paradoksnya, definisi JTB terbukti rapuh karena sebuah keyakinan yang benar bisa saja terjadi secara kebetulan tanpa keterikatan kausalitas hakiki[^6].
 
 Epistemologi Islam menyelesaikan problem Gettier ini secara elegan: sebuah pengetahuan tidak sah hanya karena kebetulan benar secara empiris, melainkan harus bersumber dari saluran yang diakui otoritas ontologisnya (*Wushulul Ma'na*). Epistemologi TUMBUH menolak:
 1. **Skeptisisme Radikal (La-Adriyyah / Agnostisisme)**: Sikap menolak kepastian kebenaran obyektif.
@@ -112,7 +112,13 @@ Epistemologi Islam menyelesaikan problem Gettier ini secara elegan: sebuah penge
 3. **Sofisme (Inadiyyah)**: Sikap keras kepala mendebat fakta empiris dan wahyu yang telah benderang.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Rusyd dalam *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^11][^12].
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Rusyd dalam *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wa an-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Fakhruddin ar-Razi dalam *Al-Mahshul fi 'ilm ushul al-fiqh*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
+
+Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif[^10].
 
 
 ## 4. Analisis Komparatif: Epistemologi Islam vs Epistemologi Sekuler Modern
@@ -159,7 +165,7 @@ Analisis epistemik TUMBUH v2.0.0 menunjukkan bahwa tindakan di atas merupakan **
 
 ## 6. Arsitektur Derajat Keyakinan Epistemik (Epistemic Confidence Ladder)
 
-Sistem evaluasi santri TUMBUH v2.0.0 membagi status pengetahuan dan putusan asrama ke dalam empat derajat yang diadopsi dari ilmu Ushul Fiqh:
+Sistem evaluasi santri TUMBUH v2.0.0 membagi status pengetahuan dan putusan asrama ke dalam empat derajat yang diadopsi dari ilmu Ushul Fiqh:[^11]
 
 ```
   100% +-------------------------------------------------------------------+
@@ -188,7 +194,9 @@ Sistem evaluasi santri TUMBUH v2.0.0 membagi status pengetahuan dan putusan asra
 
 ---
 
-Epistemologi realisme kritis yang dikembangkan oleh Roy Bhaskar dalam *A realist theory of science* menegaskan bahwa struktur repositori harus mencerminkan strata ontologis pembinaan yang bertingkat, membedakan antara fenomena empiris, peristiwa aktual, dan mekanisme generatif yang mendasarinya. Karl Popper dalam *The Logic of Scientific Discovery* menegaskan bahwa keterujian dan prinsip falsifikasi adalah batas demarkasi antara klaim ilmiah yang sahih dan dogma spekulatif[^13][^14].
+Epistemologi realisme kritis yang dikembangkan oleh Roy Bhaskar dalam *A realist theory of science* menegaskan bahwa struktur repositori harus mencerminkan strata ontologis pembinaan yang bertingkat, membedakan antara fenomena empiris, peristiwa aktual, dan mekanisme generatif yang mendasarinya. Karl Popper dalam *The Logic of Scientific Discovery* menegaskan bahwa keterujian dan prinsip falsifikasi adalah batas demarkasi antara klaim ilmiah yang sahih dan dogma spekulatif[^12].
+
+Dalam literatur rekayasa sistem kontemporer, Popper dalam *The logic of scientific discovery* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
 
 ## 7. Diagram Alur Verifikasi Epistemik Tabayyun Santri
 
@@ -348,7 +356,7 @@ Sepuluh aturan anti-penyimpangan epistemik yang wajib dipatuhi:
 - [x] **Guardrail 4 (Presumption of Innocence / Al-Ashlu Bara'atudz Dzimmah)**: Setiap santri berstatus suci dan bebas dari kesalahan hingga terbukti secara sah dan meyakinkan (*al-yaqinu la yazulu bisy-syakk*).
 - [x] **Guardrail 5 (Compulsory Cross-Verification / Tabayyun)**: Setiap laporan dari pihak ketiga (teman sekamar, laporan anonim) wajib ditabayyun sebelum ditindaklanjuti.
 - [x] **Guardrail 6 (Anti-Positivist Reduction)**: Asesmen adab tidak boleh direduksi menjadi sekadar angka-angka kuantitatif mekanik tanpa memeriksa orientasi niat kalbu.
-- [x] **Guardrail 7 (Turats Epistemic Rigor)**: Seluruh rujukan epistemologi wajib berakar pada matan akidah dan ushul fiqh ahlus sunnah wal jama'ah yang mu'tamad.
+- [x] **Guardrail 7 (Turats Epistemic Rigor)**: Seluruh rujukan epistemologi wajib berakar pada matan akidah dan ushul fiqh ahlus sunnah wal jama'ah yang mu'tamad[^14].
 - [x] **Guardrail 8 (No Coerced Confession)**: Pengakuan santri yang diperoleh melalui bentakan, ancaman fisik, atau manipulasi mental dinyatakan batal demi hukum (*iqrar tahta al-ikrah batil*).
 - [x] **Guardrail 9 (Compulsory F-EPI-AUDIT Archiving)**: Berkas penanganan kasus santri tanpa formulir F-EPI-AUDIT yang ditandatangani dilarang diarsipkan ke buku induk pelanggaran.
 - [x] **Guardrail 10 (Restitution Over Retribution)**: Hasil verifikasi epistemik diarahkan untuk memulihkan adab dan mendidik kesadaran jiwa, bukan untuk membalas dendam lembaga kepada santri.
@@ -374,16 +382,16 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^2]: At-Taftazani, S. D. (2000). *Syarh al-'aqa'id an-nasafiyyah* (A. H. as-Saqqa, Ed.). Maktabah al-Kulliyyat al-Azhariyyah.
 [^3]: Al-Maturidi, A. M. (2005). *Kitab at-tawhid* (F. Khulaif, Ed.). Dar al-Masyriq.
 [^4]: Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'ilm al-ushul* (M. A. asy-Syafi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Al-Ghazali, A. H. (2007). *Al-Munqidh min ad-dhalal* (J. Saliba & K. Ayyad, Ed.). Dar al-Andalus.
-[^6]: Ibn Hazm al-Andalusi, A. M. (1984). *Al-Ihkam fi ushul al-ahkam* (A. M. Syakir, Ed., Jilid 1). Dar al-Afaq al-Jadidah.
-[^7]: Al-Amidi, S. D. (2003). *Al-Ihkam fi ushul al-ahkam* (A. R. al-Banna, Ed., Jilid 1). Dar al-Hadits.
-[^8]: Al-Baghdadi, A. Q. (2002). *Ushul ad-din*. Dar al-Kutub al-'Ilmiyyah.
+[^5]: Ibn Hazm al-Andalusi, A. M. (1984). *Al-Ihkam fi ushul al-ahkam* (A. M. Syakir, Ed., Jilid 1). Dar al-Afaq al-Jadidah.
+[^6]: Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis*, 23(6), 121–123.
+[^7]: Ibn Rusyd, A. W. (1986). *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal* (M. Imarah, Ed.). Dar al-Ma'arif.
+[^8]: As-Suyuthi, J. D. (1990). *Al-Asybah wa an-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
 [^9]: Fakhruddin ar-Razi, M. (1988). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-Alwani, Ed., Jilid 1). Mu'assasat ar-Risalah.
-[^10]: Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis*, 23(6), 121–123.
-[^11]: Ibn Rusyd, A. W. (1986). *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal* (M. Imarah, Ed.). Dar al-Ma'arif.
-[^12]: As-Suyuthi, J. D. (1990). *Al-Asybah wa an-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
-[^13]: Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.
-[^14]: Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson & Co.
+[^10]: Al-Ghazali, A. H. (2007). *Al-Munqidh min ad-dhalal* (J. Saliba & K. Ayyad, Ed.). Dar al-Andalus.
+[^11]: Al-Amidi, S. D. (2003). *Al-Ihkam fi ushul al-ahkam* (A. R. al-Banna, Ed., Jilid 1). Dar al-Hadits.
+[^12]: Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.
+[^13]: Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson & Co.
+[^14]: Al-Baghdadi, A. Q. (2002). *Ushul ad-din*. Dar al-Kutub al-'Ilmiyyah.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

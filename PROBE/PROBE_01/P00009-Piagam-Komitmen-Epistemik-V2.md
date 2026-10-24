@@ -102,7 +102,9 @@ Imam Abu Zakariyya Yahya bin Syaraf An-Nawawi dalam mukaddimah *Al-Majmu' Syarah
 - Penulis wajib jujur mengakui keterbatasan pengetahuannya dan mencantumkan kalimat tarjih yang adil ketika membandingkan pendapat yang berbeda.
 
 ---
-Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6][^7].
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
 
 
 ## 4. Tinjauan Pustaka II: Teori Filsafat Ilmu, Epistemic Vigilance, & Software Craftsmanship
@@ -120,7 +122,7 @@ DIAGRAM TEORI SISTEM: LINGKARAN PENGAWASAN EPISTEMIK (EPISTEMIC VIGILANCE CYCLE)
   └───────────────────────────────────┬────────────────────────────────────┘
                                       │
                                       ▼ HASIL KANONIK
-                 SOFTWARE CRAFTSMANSHIP (ROBERT C. MARTIN)[^9][^10]
+                 SOFTWARE CRAFTSMANSHIP (ROBERT C. MARTIN)[^9]
   ┌────────────────────────────────────────────────────────────────────────┐
   │ "Bukan Sekadar Berfungsi, Tetapi Dirancang dengan Indah;                │
   │  Bukan Sekadar Selesai, Tetapi Menjadi Warisan Keahlian Profesional."  │
@@ -142,7 +144,7 @@ Ekonom Charles Goodhart (1975) merumuskan aksioma monumental:
 Jika tim repositori menargetkan "harus selesai 10 berkas per hari", para penulis akan tergoda memangkas analisis dan menghasilkan naskah-naskah dangkal. Piagam V2 menetapkan bahwa **mutu kedalaman substantif ($\ge 400$ baris berbobot) adalah kendala mutlak (*hard constraint*) yang tidak boleh ditawar demi target kecepatan**.
 
 ### 4.3. Manifesto Keahlian Perangkat Lunak (*Software Craftsmanship Manifesto*)
-Robert C. Martin et al. (2009) mendeklarasikan bahwa rekayasa sistem bukan sekadar pekerjaan buruh ketik, melainkan panggilan keahlian (*craftsmanship*):
+Robert C. Martin et al. (2009) mendeklarasikan bahwa rekayasa sistem bukan sekadar pekerjaan buruh ketik, melainkan panggilan keahlian (*craftsmanship*):[^10]
 - Bukan hanya dokumen yang selesai (*working software*), melainkan **dokumen yang dirancang dengan keindahan struktur (*well-crafted artifacts*)**.
 - Bukan hanya merespons perubahan, melainkan **menjaga kesinambungan nilai (*steadily adding value*)**.
 - Bukan hanya hubungan transaksional kerja, melainkan **komunitas para ahli yang saling menjaga amanah (*a community of professionals*)**.
@@ -223,7 +225,9 @@ Tragedi As-Salam adalah cermin abadi bagi seluruh kontributor repositori TUMBUH:
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Merton dalam *The sociology of science: Theoretical and empirical investigations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strathern dalam *'Improving ratings': Audit in the British University system* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12][^13].
+Dalam literatur rekayasa sistem kontemporer, Merton dalam *The sociology of science: Theoretical and empirical investigations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strathern dalam *'Improving ratings': Audit in the British University system* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
+
+Dalam literatur rekayasa sistem kontemporer, Strathern dalam *'Improving ratings': Audit in the British University system* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
 
 ## 7. Tujuh Sumpah Piagam Komitmen Epistemik V2 (*The 7 Oaths of the V2 Charter*)
 

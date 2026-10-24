@@ -49,7 +49,7 @@ DILEMA EKSEKUSI TRANSISI DI LEMBAGA PENDIDIKAN PESANTREN
 
 Di lapangan asrama, ditemukan tiga pola kerentanan transisi yang melumpuhkan pembinaan:
 1. **Sindrom Kevakuman Otoritas (*Authority Vacuum Syndrome*)**: Ketika pimpinan mengumumkan "aturan lama tidak berlaku lagi", namun aturan baru belum dipahami oleh musyrif, tercipta ruang hampa hukum (*legal vacuum*). Santri yang cerdik membaca kevakuman ini dan melakukan pelanggaran adab secara leluasa karena musyrif ragu-ragu menindak.
-2. **Kelebihan Beban Kognitif Musyrif (*Cognitive Overload Paralysis*)**: Musyrif yang sudah kelelahan menjaga santri dari subuh hingga tengah malam tiba-tiba disodori dokumen tebal berisi puluhan formulir dan istilah asing baru. Akibatnya, mereka mengalami kelelahan mental (*burnout*) dan secara diam-diam memboikot sistem baru dengan mengisi laporan palsu (*compliance theatre*)[^1][^2].
+2. **Kelebihan Beban Kognitif Musyrif (*Cognitive Overload Paralysis*)**: Musyrif yang sudah kelelahan menjaga santri dari subuh hingga tengah malam tiba-tiba disodori dokumen tebal berisi puluhan formulir dan istilah asing baru. Akibatnya, mereka mengalami kelelahan mental (*burnout*) dan secara diam-diam memboikot sistem baru dengan mengisi laporan palsu (*compliance theatre*)[^1].
 3. **Friksi Antar-Generasi Pengurus (*Intergenerational Friction*)**: Musyrif senior yang terbiasa dengan metode lama merasa dihakimi dan dipinggirkan oleh musyrif muda yang mengusung sistem baru, melahirkan faksionalisme internal yang merusak ukhuwah pengasuhan.
 
 Oleh karena itu, pertanyaan epistemik yang wajib dijawab adalah: **Bagaimana merancang arsitektur transisi yang manusiawi, bertahap, dan terlacak, yang mampu menurunkan beban kognitif praktisi lapangan tanpa mengorbankan ketegasan pembaruan arsitektural v2?**
@@ -79,7 +79,7 @@ DIALEKTIKA TURATS: SUNNAH AT-TADRIJ DAN HIKMAH KHALIFAH
 ```
 
 ### 3.1. Sunnah At-Tadrij fit-Tasyri' (Metodologi Pentahapan Syariat)
-Imam Abu Ishaq Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 94–108) merumuskan bahwa syariat tidak diturunkan sekaligus dalam bentuk beban penuh (*daf'atan wahidan*), melainkan secara berangsur-angsur (*tadriji*):[^3]
+Imam Abu Ishaq Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 94–108) merumuskan bahwa syariat tidak diturunkan sekaligus dalam bentuk beban penuh (*daf'atan wahidan*), melainkan secara berangsur-angsur (*tadriji*):[^2]
 - Pengharaman khamr melalui empat fase: penjelasan manfaat dan mudharat (QS. Al-Baqarah: 219), larangan shalat saat mabuk (QS. An-Nisa: 43), pengharaman mutlak (QS. Al-Ma'idah: 90–91), hingga penegakan sanksi hadd.
 - Hikmah ilahiyyah di balik pentahapan ini adalah melatih jiwa manusia agar mampu melepaskan kebiasaan lama yang telah mendarah daging tanpa mengalami guncangan psikologis (*al-luthfu bin-nufus*).
 
@@ -96,7 +96,7 @@ Imam Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 102) meriwayatkan dialog m
 Atsar monumental ini adalah piagam metodologis bagi Branch v2.0.0: memaksakan sistem v2 secara tergesa-gesa kepada musyrif yang belum siap justru akan memicu penolakan massal terhadap sistem baru itu sendiri.
 
 ### 3.3. Kaidah Ushul Ma La Yudraku Kulluh
-Kaidah fiqhiyyah yang dirumuskan Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 159):[^4]
+Kaidah fiqhiyyah yang dirumuskan Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 159):[^3]
 > مَا لَا يُدْرَكُ كُلُّهُ لَا يُتْرَكُ جُلُّهُ
 > 
 > *"Apa yang tidak dapat dicapai/diterapkan seluruhnya secara sempurna, tidak boleh ditinggalkan bagian pokoknya yang mayoritas."*
@@ -104,7 +104,17 @@ Kaidah fiqhiyyah yang dirumuskan Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* 
 Dalam masa transisi, jika suatu pesantren mitra belum mampu mengimplementasikan seluruh instrumen digital v2 secara sempurna, lembaga tetap diwajibkan menerapkan prinsip keadilan restoratif dan penghapusan kekerasan fisik (bagian pokok yang paling maslahat), seraya menyempurnakan aspek administratif teknis secara bertahap.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Muslim dalam *Shahih Muslim*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5][^6][^7][^8][^9][^10].
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Muslim dalam *Shahih Muslim*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
+
+Landasan epistemik ini diperkuat oleh pemikiran Muslim dalam *Shahih Muslim*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
+
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Qarafi dalam *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Mawardi dalam *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Psikologi Kognitif, & Change Management
@@ -114,7 +124,7 @@ Disiplin rekayasa perangkat lunak modern dan psikologi organisasi menyediakan mo
 ```text
 DIAGRAM TEORI SISTEM: TIGA FASE TRANSISI SISTEMIK
 
-      FASE 1: UNFREEZE               FASE 2: CHANGE (DUAL-RUN)             FASE 3: REFREEZE[^11]
+      FASE 1: UNFREEZE               FASE 2: CHANGE (DUAL-RUN)             FASE 3: REFREEZE[^10]
   ┌───────────────────────┐         ┌───────────────────────────────┐     ┌───────────────────────┐
   │ Mencairkan Kebiasaan  │         │ Sistem v1 & v2 Berjalan       │     │ Membekukan Sistem v2  │
   │ Lama v1; Membangun    │────────►│ Berdampingan (Shadow Run)     │────►│ sebagai Baseline      │
@@ -124,19 +134,19 @@ DIAGRAM TEORI SISTEM: TIGA FASE TRANSISI SISTEMIK
 ```
 
 ### 4.1. Model Tiga Langkah Perubahan Kurt Lewin (*Unfreeze-Change-Refreeze*)
-Kurt Lewin (1947) membuktikan bahwa sistem sosial memiliki kelembaman (*inertia*) yang menolak perubahan. Migrasi yang sukses wajib melalui tiga tahapan:[^12]
+Kurt Lewin (1947) membuktikan bahwa sistem sosial memiliki kelembaman (*inertia*) yang menolak perubahan. Migrasi yang sukses wajib melalui tiga tahapan:[^11]
 1. **Unfreeze (Pencairan)**: Membuka kesadaran para asatidz mengenai bahaya laten format v1 (menunjukkan data luka santri dan utang teknis) agar mereka merasa membutuhkan pembaruan.
 2. **Change / Transition (Perubahan Dinamis)**: Mengintroduksikan sistem v2 secara bertahap melalui pendampingan intensif, modul tutorial singkat, dan toleransi belajar.
 3. **Refreeze (Pembekuan Ulang)**: Mengunci sistem v2 menjadi budaya baru lembaga melalui regulasi resmi yayasan, sehingga praktisi tidak kembali ke kebiasaan lama.
 
 ### 4.2. Arsitektur Dual-Run dan Eksekusi Bayangan (*Shadow Deployment*)
-Martin Fowler (2018) dan Jez Humble (2010) menetapkan prinsip transisi tanpa henti layanan (*zero-downtime migration*):[^13]
+Martin Fowler (2018) dan Jez Humble (2010) menetapkan prinsip transisi tanpa henti layanan (*zero-downtime migration*):[^12]
 - Jangan pernah mematikan sistem lama sebelum sistem baru terbukti stabil di lingkungan nyata.
 - Gunakan pola **Dual-Run / Parallel Run**: sistem v1 tetap menjadi pencatat resmi sementara sistem v2 dijalankan secara paralel di latar belakang (*shadow mode*) pada satu asrama percontohan (*pilot cohort*).
 - Setelah data membuktikan bahwa sistem v2 beroperasi tanpa cacat dan musyrif merasa nyaman, dilakukan pengalihan beban kerja secara mulus (*canary cut-over*).
 
 ### 4.3. Teori Beban Kognitif (*Cognitive Load Theory*) John Sweller
-John Sweller (1988, diperbarui 2011) memetakan tiga jenis beban memori kerja otak manusia:
+John Sweller (1988, diperbarui 2011) memetakan tiga jenis beban memori kerja otak manusia:[^13]
 - *Intrinsic Load*: Kompleksitas alami dari materi pembinaan adab santri.
 - *Extraneous Load*: Beban sia-sia yang ditimbulkan oleh format dokumen yang ruwet dan instruksi yang membingungkan.
 - *Germane Load*: Energi mental yang digunakan untuk membangun skema pemahaman jangka panjang.
@@ -219,7 +229,9 @@ Branch v2.0.0 menetapkan garansi keselamatan transisi:
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Rogers dalam *Diffusion of innovations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14][^15].
+Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Rogers dalam *Diffusion of innovations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
+
+Dalam literatur rekayasa sistem kontemporer, Rogers dalam *Diffusion of innovations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -396,17 +408,17 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Sweller, J. (1988). *Cognitive load during problem solving: Effects on learning*. Cognitive Science, 12(2), 257–285.
-[^2]: Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer Science & Business Media.
-[^3]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^4]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^6]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^7]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^8]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^9]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^10]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 1–2). Dar Thayyibah.
-[^11]: Kotter, J. P. (1996). *Leading change*. Harvard Business Review Press.
-[^12]: Lewin, K. (1947). *Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change*. Human Relations, 1(1), 5–41.
-[^13]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^3]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^5]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 1–2). Dar Thayyibah.
+[^6]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^7]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^8]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^9]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^10]: Kotter, J. P. (1996). *Leading change*. Harvard Business Review Press.
+[^11]: Lewin, K. (1947). *Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change*. Human Relations, 1(1), 5–41.
+[^12]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+[^13]: Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer Science & Business Media.
 [^14]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
 [^15]: Rogers, E. M. (2003). *Diffusion of innovations* (5th ed.). Free Press.

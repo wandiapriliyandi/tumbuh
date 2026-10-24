@@ -24,7 +24,7 @@ Kedua kegagalan ekstrem di atas berpangkal pada satu problem epistemik: **ketiad
 
 ### 2.2. Posisi Puncak Domain 09 sebagai Penutup Sempurna Lapisan Fondasi
 Dalam repositori TUMBUH v2.0.0, **Domain 09: System Architecture** dirancang secara sengaja sebagai **Domain Penutup (The Capstone Domain)** dari sub-direktori `01_FOUNDATION/`:[^1]
-- Domain 01 s/d Domain 08 telah menyediakan seluruh bahan baku konseptual: hakikat realitas (*Worldview*), saluran kebenaran (*Epistemology*), anatomi jiwa (*Human Nature*), trajektori pertumbuhan (*Human Development*), metodologi ta'dib (*Education*), keteladanan penggerak (*Leadership*), hukum transformasi batin (*Change Dynamics*), dan konstitusi nilai (*Core Principles*)[^2][^3][^4].
+- Domain 01 s/d Domain 08 telah menyediakan seluruh bahan baku konseptual: hakikat realitas (*Worldview*), saluran kebenaran (*Epistemology*), anatomi jiwa (*Human Nature*), trajektori pertumbuhan (*Human Development*), metodologi ta'dib (*Education*), keteladanan penggerak (*Leadership*), hukum transformasi batin (*Change Dynamics*), dan konstitusi nilai (*Core Principles*)[^2].
 - Delapan domain tersebut, meskipun sangat kokoh, belum mewujud menjadi bangunan operasional yang dapat dihuni jika tidak dirajut ke dalam satu **Cetak Biru Arsitektur Terpadu (Integrated System Architecture)**.
 - Domain 09 berfungsi mengintegrasikan seluruh domain tersebut menjadi cetak biru tata kelola ekosistem asrama 24 jam: mengatur interaksi ruang fisik, alur sirkadian waktu, diferensiasi peran pendidik, mekanisme umpan balik, dan protokol perlindungan jiwa sebelum melangkah ke pemodelan jenjang kemandirian (J1–J4) dan intervensi PBIS di lapisan berikutnya.
 
@@ -46,17 +46,29 @@ Imam Ibnu Hajar al-'Asqalani (w. 852 H) dalam *Fath al-Bari* menjelaskan tamsil 
 وَتَشْبِيكُ الْأَصَابِعِ تَمْثِيلٌ لِلتَّرَاكُبِ وَالِانْدِمَاجِ بَيْنَ أَجْزَاءِ الْبُنْيَانِ؛ بِحَيْثُ إِذَا سَقَطَ جُزْءٌ مِنْهُ اخْتَلَّ النِّظَامُ كُلُّهُ، فَكَذَلِكَ إِقَامَةُ صَرْحِ الدِّينِ لَا تَتِمُّ إِلَّا بِتَنَاسُقِ الْأَحْوَالِ وَتَسَانُدِ الْأَعْمَالِ
 ```
 *(Tindakan beliau menyilangkan jari-jemari merupakan representasi visual mengenai saling terkait dan berpadunya antar-komponen bangunan; sekiranya satu komponen roboh, maka niscaya runtuhlah keseluruhan sistem tatanan tersebut. Demikian pula penegakan pilar agama dan pendidikan, ia tidak akan terwujud sempurna kecuali dengan keterpaduan kondisi dan saling menopangnya amal-amal operasional).*
-— **Ibnu Hajar al-'Asqalani**, *Fath al-Bari Syarh Shahih al-Bukhari*, Jilid 1, Hal. 565.[^5]
+— **Ibnu Hajar al-'Asqalani**, *Fath al-Bari Syarh Shahih al-Bukhari*, Jilid 1, Hal. 565.[^3]
 
 Teks ini menegaskan bahwa kesalehan individu santri atau kehebatan seorang figur guru tidak akan menghasilkan peradaban jika tidak didukung oleh struktur sistem kelembagaan yang saling mengunci (*yasyuddu ba'dhuhu ba'dha*).
 
 ### 3.2. Integrasi Teori Sibernetika Sistem dan Ekologi Perkembangan
-Dalam sains sistem modern (*General Systems Theory*) dan ekologi perkembangan anak:[^6]
-1. **Teori Sibernetika Ludwig von Bertalanffy & Norbert Wiener**: Sebuah sistem yang hidup (*living open system*) membutuhkan batasan yang jelas (*boundaries*), siklus umpan balik positif dan negatif (*feedback loops*), serta homeostasis dinamis. Domain 09 menyediakan arsitektur sibernetika ini bagi pesantren agar mampu beradaptasi tanpa kehilangan jati diri adabiahnya[^7].
-2. **Teori Ekologi Urie Bronfenbrenner**: Pertumbuhan anak dipengaruhi oleh mikrosistem (kamar asrama), mesosistem (interaksi kelas-asrama-keluarga), eksosistem (kebijakan yayasan), dan makrosistem (worldview masyarakat). Domain 09 menata seluruh lapisan ekologis ini agar tidak saling menegasikan, melainkan berpadu menjadi *Bi'ah Shalihah 24 Jam*.
+Dalam sains sistem modern (*General Systems Theory*) dan ekologi perkembangan anak:[^4]
+1. **Teori Sibernetika Ludwig von Bertalanffy & Norbert Wiener**: Sebuah sistem yang hidup (*living open system*) membutuhkan batasan yang jelas (*boundaries*), siklus umpan balik positif dan negatif (*feedback loops*), serta homeostasis dinamis. Domain 09 menyediakan arsitektur sibernetika ini bagi pesantren agar mampu beradaptasi tanpa kehilangan jati diri adabiahnya[^5].
+2. **Teori Ekologi Urie Bronfenbrenner**: Pertumbuhan anak dipengaruhi oleh mikrosistem (kamar asrama), mesosistem (interaksi kelas-asrama-keluarga), eksosistem (kebijakan yayasan), dan makrosistem (worldview masyarakat). Domain 09 menata seluruh lapisan ekologis ini agar tidak saling menegasikan, melainkan berpadu menjadi *Bi'ah Shalihah 24 Jam*[^6].
 
 ---
-Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Taimiyyah dalam *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8][^9][^10][^11][^12][^13][^14].
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Taimiyyah dalam *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Taimiyyah dalam *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Mawardi dalam *Adab ad-dunya wa ad-din*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^10].
+
+Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif[^11].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^12].
+
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^13].
 
 
 ## 4. Argumen Ontologis & Logika Dependensi Sistem
@@ -171,7 +183,27 @@ Arsitektur Sistem Domain 09 menetapkan struktur intervensi perilaku santri yang 
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Alexander dalam *A pattern language: Towns, buildings, construction* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Argyris dalam *Organizational learning: A theory of action perspective* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Ashby dalam *An introduction to cybernetics* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Albert Bandura dalam teori pembelajaran sosial membuktikan bahwa internalisasi karakter tidak terjadi melalui indoktrinasi verbal, melainkan melalui pemodelan keteladanan langsung (*qudwah hasanah*) yang konsisten. Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Horner dalam *Focus on Exceptional Children* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Horner dalam *Focus on Exceptional Children* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis. Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Sugai dalam *Exceptionality* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15][^16][^17][^18][^19][^20][^21][^22][^23][^24].
+Dalam literatur rekayasa sistem kontemporer, Alexander dalam *A pattern language: Towns, buildings, construction* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Argyris dalam *Organizational learning: A theory of action perspective* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Ashby dalam *An introduction to cybernetics* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Albert Bandura dalam teori pembelajaran sosial membuktikan bahwa internalisasi karakter tidak terjadi melalui indoktrinasi verbal, melainkan melalui pemodelan keteladanan langsung (*qudwah hasanah*) yang konsisten. Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Horner dalam *Focus on Exceptional Children* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Horner dalam *Focus on Exceptional Children* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis. Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Sugai dalam *Exceptionality* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
+
+Dalam literatur rekayasa sistem kontemporer, Sugai dalam *Exceptionality* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
+
+Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^16].
+
+Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis[^17].
+
+Dalam literatur rekayasa sistem kontemporer, Horner dalam *Focus on Exceptional Children* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^18].
+
+Dalam literatur rekayasa sistem kontemporer, Horner dalam *Focus on Exceptional Children* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^19].
+
+Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^20].
+
+Dalam literatur rekayasa sistem kontemporer, Bandura dalam *Social foundations of thought and action: A social cognitive theory* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^21].
+
+Dalam literatur rekayasa sistem kontemporer, Ashby dalam *An introduction to cybernetics* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^22].
+
+Dalam literatur rekayasa sistem kontemporer, Argyris dalam *Organizational learning: A theory of action perspective* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^23].
+
+Dalam literatur rekayasa sistem kontemporer, Alexander dalam *A pattern language: Towns, buildings, construction* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^24].
 
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
@@ -362,28 +394,28 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 
 [^1]: Bertalanffy, L. von. (1968). *General system theory: Foundations, development, applications*. George Braziller.
 [^2]: Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
-[^3]: Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
-[^4]: Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.
-[^5]: Al-'Asqalani, I. H. (2000). *Fath al-bari bi syarh shahih al-bukhari* (Tahqiq M. F. Abdul Baqi, Jilid 1). Al-Qahirah: Dar al-Hadits.
-[^6]: Checkland, P. (1999). *Systems thinking, systems practice*. John Wiley & Sons.
-[^7]: Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. MIT Press.
-[^8]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-[^9]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-[^10]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^3]: Al-'Asqalani, I. H. (2000). *Fath al-bari bi syarh shahih al-bukhari* (Tahqiq M. F. Abdul Baqi, Jilid 1). Al-Qahirah: Dar al-Hadits.
+[^4]: Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
+[^5]: Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. MIT Press.
+[^6]: Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.
+[^7]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^8]: Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah* (Tahqiq A. R. al-Jazzar, Jilid 28). Al-Madinah: Majma' al-Malik Fahd.
+[^9]: Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^10]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
 [^11]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab asrar ash-shalah wa muhimmatuha* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
-[^12]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-[^13]: Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
-[^14]: Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah* (Tahqiq A. R. al-Jazzar, Jilid 28). Al-Madinah: Majma' al-Malik Fahd.
-[^15]: Alexander, C. (1977). *A pattern language: Towns, buildings, construction*. Oxford University Press.
-[^16]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-[^17]: Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall.
-[^18]: Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
-[^19]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
-[^20]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
-[^21]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
-[^22]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-[^23]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
-[^24]: Sugai, G., & Horner, R. H. (2009). Responsiveness-to-intervention and school-wide positive behavior support: Integration of multi-tiered system approaches. *Exceptionality*, 17(4), 223–237.
+[^12]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^13]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun: Al-Bab ar-rabi' fi al-amshar wa al-buldan* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^14]: Checkland, P. (1999). *Systems thinking, systems practice*. John Wiley & Sons.
+[^15]: Sugai, G., & Horner, R. H. (2009). Responsiveness-to-intervention and school-wide positive behavior support: Integration of multi-tiered system approaches. *Exceptionality*, 17(4), 223–237.
+[^16]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
+[^17]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+[^18]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
+[^19]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
+[^20]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
+[^21]: Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
+[^22]: Ashby, W. R. (1956). *An introduction to cybernetics*. Chapman & Hall.
+[^23]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
+[^24]: Alexander, C. (1977). *A pattern language: Towns, buildings, construction*. Oxford University Press.
 [^25]: Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH

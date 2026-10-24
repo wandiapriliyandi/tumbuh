@@ -21,7 +21,7 @@ Penyelidikan ini menghasilkan *Architectural Decision Record (ADR)* yang menetap
 ## 2. Definisi Istilah, Latar Belakang Epistemik, & Cakupan Yurisdiksi
 
 ### 2.1. Definisi Istilah Teknis Operasional
-1. **Pandangan Alam Islam (*Ru'yatul Islam lil Wujud / Islamic Worldview*)**: Visi komprehensif tentang hakikat realitas wujud dan kebenaran yang diproyeksikan oleh ajaran tauhid Islam ke dalam jiwa seorang muslim, mencakup pandangan tentang Tuhan, penciptaan, alam semesta, manusia, ilmu, dan tujuan akhir hidup di akhirat[^1][^2].
+1. **Pandangan Alam Islam (*Ru'yatul Islam lil Wujud / Islamic Worldview*)**: Visi komprehensif tentang hakikat realitas wujud dan kebenaran yang diproyeksikan oleh ajaran tauhid Islam ke dalam jiwa seorang muslim, mencakup pandangan tentang Tuhan, penciptaan, alam semesta, manusia, ilmu, dan tujuan akhir hidup di akhirat[^1].
 2. **Kacamata Metafisika (*Metaphysical Framework*)**: Kerangka apriori yang menentukan apa yang dianggap riil, apa yang bermakna, dan apa yang berharga, yang bekerja sebagai penyaring primer (*foundational filter*) terhadap seluruh data empiris dan teori ilmiah.
 3. **Reduksionisme Sekuler (*Secular Reductionism*)**: Jebakan epistemik yang mereduksi realitas wujud hanya sebatas fenomena fisik, biologis, dan sosial yang terukur secara indrawi (materialistik-positivistik), dengan mengabaikan dimensi ruhani, malaikat, wahyu, dan hisab akhirat.
 4. **Hierarki Realitas Bertingkat (*Stratified Reality*)**: Struktur ontologis yang mengakui keberadaan dua alam yang saling terhubung secara harmonis: Alam Syahadah (*the visible/physical realm*) dan Alam Gaib (*the unseen/transcendent realm*), di mana Alam Gaib menjadi sumber makna dan penentu hakikat bagi Alam Syahadah.
@@ -72,22 +72,22 @@ Penyelidikan `P00024` ini secara khusus menetapkan yurisdiksi:
 
 ### 3.1. Teks Turats Otoritatif Berharakat & Takhrij Matan
 
-Kewajiban mendahulukan ma'rifatullah dan pandangan alam yang benar sebelum bertindak ditegaskan oleh para ulama salaf. Imam Abu Hanifah (w. 150 H) dalam kitab monumentalnya *Al-Fiqh al-Akbar* menyatakan:[^3]
+Kewajiban mendahulukan ma'rifatullah dan pandangan alam yang benar sebelum bertindak ditegaskan oleh para ulama salaf. Imam Abu Hanifah (w. 150 H) dalam kitab monumentalnya *Al-Fiqh al-Akbar* menyatakan:[^2]
 
 > **أَصْلُ التَّوْحِيدِ وَمَا يَصِحُّ الِاعْتِقَادُ عَلَيْهِ يَجِبُ أَنْ يَقُولَ: آمَنْتُ بِاللَّهِ وَمَلَائِكَتِهِ وَكُتُبِهِ وَرُسُلِهِ وَالْبَعْثِ بَعْدَ الْمَوْتِ وَالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللَّهِ تَعَالَى، وَالْحِسَابِ وَالْمِيزَانِ وَالْجَنَّةِ وَالنَّارِ، وَحَقٌّ كُلُّهُ.**  
 > *(Al-Fiqh al-Akbar bi Syarh 'Ali al-Qari, Maktabah al-Bisyra, hlm. 24)*  
 > **Artinya**: *"Pokok tauhid dan apa yang wajib diyakini secara sah adalah hendaknya seseorang berkata: Aku beriman kepada Allah, malaikat-malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari berbangkit setelah mati, takdir yang baik dan yang buruk adalah dari Allah Ta'ala, serta hisab, mizan, surga, dan neraka, dan semuanya itu adalah hakiki."*
 
-Imam Fakhruddin ar-Razi (w. 606 H) dalam *Al-Matalib al-'Aliyah min al-'Ilm al-Ilahi* menegaskan bahwa seluruh cabang ilmu dan tindakan manusia bergantung sepenuhnya pada kesempurnaan ma'rifat tentang wujud Tuhan:[^4]
+Imam Fakhruddin ar-Razi (w. 606 H) dalam *Al-Matalib al-'Aliyah min al-'Ilm al-Ilahi* menegaskan bahwa seluruh cabang ilmu dan tindakan manusia bergantung sepenuhnya pada kesempurnaan ma'rifat tentang wujud Tuhan:[^3]
 
 > **إِنَّ أَشْرَفَ الْعُلُومِ وَأَعْلَاهَا هُوَ الْعِلْمُ بِاللَّهِ تَعَالَى وَصِفَاتِهِ وَأَفْعَالِهِ، وَسَائِرُ الْعُلُومِ إِنَّمَا تُطْلَبُ لِأَجْلِهِ وَتَسْتَمِدُّ كَمَالَهَا مِنْهُ، فَكُلُّ عِلْمٍ لَا يَرْتَبِطُ بِمَعْرِفَةِ الْخَالِقِ فَهُوَ نَاقِصُ الْغَايَةِ ضَائِعُ السَّعْيِ.**  
 > *(Al-Matalib al-'Aliyah, Tahqiq Ahmad Hijazi as-Saqqa, Dar al-Kutub al-'Ilmiyyah, Juz 1, hlm. 35)*  
 > **Artinya**: *"Sesungguhnya ilmu yang paling mulia dan paling luhur adalah ilmu tentang Allah Ta'ala, sifat-sifat-Nya, dan perbuatan-perbuatan-Nya. Seluruh ilmu lainnya dicari demi ilmu ini dan mengambil kesempurnaannya darinya. Maka setiap ilmu yang tidak terhubung dengan ma'rifat kepada Sang Pencipta adalah cacat tujuannya dan sia-sia usahanya."*
 
-Syed Muhammad Naquib al-Attas (1995) merumuskan secara definitif bahwa dalam Islam:[^5]
+Syed Muhammad Naquib al-Attas (1995) merumuskan secara definitif bahwa dalam Islam:[^4]
 > *"The worldview of Islam is not a worldview that is based upon philosophical speculations formulated by human reason alone, nor is it merely a cultural vision. It is the vision of reality and truth that appears before the mind's eye of the Muslim, revealing what existence is all about; for it is the world of existence in its totality that the Islamic vision projects. The Islamic worldview is projected by the ontological structure of the Qur'an and Sunnah."* *(Prolegomena to the Metaphysics of Islam, hlm. 1–3)*.
 
-Hujjatul Islam Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Ihya' 'Ulum al-Din* menegaskan bahaya memisahkan kesadaran ukhrawi dari pengelolaan aktivitas duniawi:[^6]
+Hujjatul Islam Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Ihya' 'Ulum al-Din* menegaskan bahaya memisahkan kesadaran ukhrawi dari pengelolaan aktivitas duniawi:[^5]
 
 > **اعْلَمْ أَنَّ الدُّنْيَا مَنْزِلٌ مِنْ مَنَازِلِ السَّائِرِينَ إِلَى اللَّهِ تَعَالَى، وَلَيْسَتْ بِدَارِ إِقَامَةٍ وَلَا قَرَارٍ، وَإِنَّمَا أُنْشِئَتْ لِيَتَزَوَّدَ مِنْهَا لِلْآخِرَةِ، فَمَنْ جَعَلَهَا غَايَةَ هِمَّتِهِ وَمُنْتَهَى أَمَلِهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا، وَكُلُّ تَدْبِيرٍ لَا يُقْصَدُ بِهِ الْفَوْزُ بِالْآخِرَةِ فَهُوَ هَبَاءٌ مَنْثُورٌ.**  
 > *(Ihya' 'Ulum al-Din, Tahqiq Badawi Thahanah, Dar al-Ma'rifah, Juz 3, hlm. 210)*  
@@ -100,7 +100,7 @@ Imam Asy-Syatibi (w. 790 H) dalam *Al-Muwafaqat* menegaskan bahwa pemeliharaan a
 > **Artinya**: *"Sesungguhnya maksud-maksud syari'at dibangun di atas ketetapan bahwa agama adalah pokok yang paling agung. Setiap kemaslahatan duniawi yang bertentangan dengan penjagaan agama dan tauhid kepada Rabb semesta alam adalah tertolak dan batil menurut hukum syara'."*
 
 ### 3.2. Integrasi Teori Sains & Realisme Kritis Kontemporer
-Realisme Kritis (*Critical Realism*) yang dikembangkan oleh Roy Bhaskar (1975) memberikan dukungan epistemik yang sangat kuat terhadap perlunya fondasi ontologi sebelum metode. Bhaskar membagi realitas ke dalam tiga tingkatan (*stratified ontology*):[^7]
+Realisme Kritis (*Critical Realism*) yang dikembangkan oleh Roy Bhaskar (1975) memberikan dukungan epistemik yang sangat kuat terhadap perlunya fondasi ontologi sebelum metode. Bhaskar membagi realitas ke dalam tiga tingkatan (*stratified ontology*):[^6]
 1. **The Empirical**: Wilayah pengalaman indrawi dan observasi subjektif (apa yang dilihat musyrif di kamar asrama).
 2. **The Actual**: Peristiwa-peristiwa yang terjadi di dunia nyata, baik yang teramati maupun tidak teramati.
 3. **The Real**: Struktur, mekanisme kausalitas mendalam, dan hukum-hukum fundamental yang menghasilkan peristiwa-peristiwa tersebut.
@@ -108,7 +108,7 @@ Realisme Kritis (*Critical Realism*) yang dikembangkan oleh Roy Bhaskar (1975) m
 Dalam pandangan alam Islam, *The Real* tidak hanya mencakup hukum fisika atau biologi, melainkan berpuncak pada *Sunnatullah*, takdir, fitrah ruhani, dan kekuasaan mutlak Allah Azza wa Jalla. Tanpa mendefinisikan lapisan *The Real* melalui Worldview Islam pada Domain 01, sebuah sistem pendidikan hanya akan beroperasi pada lapisan *The Empirical* yang dangkal, terjebak dalam ilusi bahwa perilaku santri hanyalah respons refleks terhadap stimulus lingkungan fisik.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Taimiyyah dalam *Dar' ta'arudh al-'aql wa an-naql*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Taimiyyah dalam *Dar' ta'arudh al-'aql wa an-naql*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
 
 
 ## 4. Analisis Komparatif: Worldview Islam vs Paradigma Pendidikan Sekuler
@@ -216,7 +216,7 @@ Dokumen `01_FUNDAMENTAL/01_FOUNDATION/01_WORLDVIEW.md` diwajibkan memuat tujuh e
 
 ---
 
-Thomas Kuhn dalam *The Structure of Scientific Revolutions* memetakan bagaimana pergeseran paradigma terjadi ketika anomali sistemik tidak lagi dapat ditampung oleh kerangka kerja lama[^9].
+Thomas Kuhn dalam *The Structure of Scientific Revolutions* memetakan bagaimana pergeseran paradigma terjadi ketika anomali sistemik tidak lagi dapat ditampung oleh kerangka kerja lama[^8].
 
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
@@ -332,7 +332,7 @@ Worldview Islam menanamkan pemahaman bahwa nilai diri seorang santri tidak diten
 ## 9. Architectural Decision Record (ADR): Penguncian Domain 01 Worldview
 
 ### Context
-Upaya mendirikan sistem pendidikan karakter pesantren sering kali terkontaminasi oleh teori-teori pendidikan sekuler yang memisahkan dunia dari akhirat, mereduksi manusia menjadi entitas biologis belaka, dan mengganti orientasi takwa dengan efisiensi materialistis. Diperlukan ketetapan arsitektural yang mengikat secara mutlak bahwa seluruh bangunan sistem TUMBUH wajib berakar pada Pandangan Alam Islam (*Islamic Worldview*).
+Upaya mendirikan sistem pendidikan karakter pesantren sering kali terkontaminasi oleh teori-teori pendidikan sekuler yang memisahkan dunia dari akhirat, mereduksi manusia menjadi entitas biologis belaka, dan mengganti orientasi takwa dengan efisiensi materialistis. Diperlukan ketetapan arsitektural yang mengikat secara mutlak bahwa seluruh bangunan sistem TUMBUH wajib berakar pada Pandangan Alam Islam (*Islamic Worldview*)[^9].
 
 ### Decision
 Ditetapkan secara definitif dan permanen bahwa:
@@ -380,14 +380,14 @@ Sepuluh pedoman pencegahan penyimpangan (*anti-pattern guardrails*) untuk menjag
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^2]: Nasr, S. H. (1993). *An introduction to Islamic cosmological doctrines*. State University of New York Press.
-[^3]: Abu Hanifah, A. N. (1998). *Al-Fiqh al-akbar bi syarh 'Ali al-qari* (A. H. al-Bisyra, Ed.). Maktabah al-Bisyra.
-[^4]: Al-Razi, F. D. (1987). *Al-Matalib al-'aliyah min al-'ilm al-ilahi* (A. H. as-Saqqa, Ed., Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Al-Attas, S. M. N. (1995). *Prolegomena to the metaphysics of Islam: An exposition of the underlying foundations of Islam and the world*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^6]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din* (Tahqiq A. M. al-Baqari, Jilid 1). Dar al-Hadits.
-[^7]: Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.
-[^8]: Ibn Taimiyyah, A. H. (1986). *Dar' ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed., Jilid 1). Jami'at al-Imam Muhammad bin Sa'ud al-Islamiyyah.
-[^9]: Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
+[^2]: Abu Hanifah, A. N. (1998). *Al-Fiqh al-akbar bi syarh 'Ali al-qari* (A. H. al-Bisyra, Ed.). Maktabah al-Bisyra.
+[^3]: Al-Razi, F. D. (1987). *Al-Matalib al-'aliyah min al-'ilm al-ilahi* (A. H. as-Saqqa, Ed., Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Al-Attas, S. M. N. (1995). *Prolegomena to the metaphysics of Islam: An exposition of the underlying foundations of Islam and the world*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^5]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din* (Tahqiq A. M. al-Baqari, Jilid 1). Dar al-Hadits.
+[^6]: Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.
+[^7]: Ibn Taimiyyah, A. H. (1986). *Dar' ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed., Jilid 1). Jami'at al-Imam Muhammad bin Sa'ud al-Islamiyyah.
+[^8]: Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
+[^9]: Nasr, S. H. (1993). *An introduction to Islamic cosmological doctrines*. State University of New York Press.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

@@ -58,12 +58,12 @@ Oleh karena itu, pertanyaan epistemik yang wajib dijawab adalah: **Mengapa repos
 
 ## 3. Tinjauan Pustaka I: Khazanah Turats Klasik & Tradisi Kodifikasi Teks
 
-Dalam khazanah peradaban Islam, pengklasifikasian ilmu dan pemisahan derajat kedudukan teks merupakan tradisi keilmuan yang dipelopori oleh para ulama ushul dan filolog terkemuka[^1][^2].
+Dalam khazanah peradaban Islam, pengklasifikasian ilmu dan pemisahan derajat kedudukan teks merupakan tradisi keilmuan yang dipelopori oleh para ulama ushul dan filolog terkemuka[^1].
 
 ```text
-DIALEKTIKA TURATS: STRATIFIKASI TINGKATAN ILMU IMAM AL-GHAZALI[^3]
+DIALEKTIKA TURATS: STRATIFIKASI TINGKATAN ILMU IMAM AL-GHAZALI[^2]
 
-             1. AL-USHUL (POKOK MUTLAK)            ──► Landasan Tauhid & Maqashid Syar'i
+             1. AL-USHUL (POKOK MUTLAK)            ──► Landasan Tauhid & Maqashid Syar'i[^3]
                      │
                      ▼
              2. AL-FURU' (CABANG HUKUM)            ──► Penerapan Konseptual pada Lembaga
@@ -99,7 +99,15 @@ Kaidah ushuliyyah yang disepakati ulama madzhab:
 Kaidah ini menjadi fondasi hukum bagi aturan dependensi repositori TUMBUH: dokumen di lapisan bawah (*Operational*) boleh berubah setiap bulan mengikuti dinamika asrama, namun perubahannya wajib mengikuti arahan hukum dari lapisan atas (*Fundamental*).
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4][^5][^6][^7][^8].
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
+
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Qarafi dalam *Al-Furuq wa Anwa' al-Buruq fi Anwa' al-Furuq*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Perangkat Lunak, Clean Architecture, & System Cohesion
@@ -107,7 +115,7 @@ Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukh
 Dalam ilmu rekayasa perangkat lunak modern, pemisahan perhatian merupakan prinsip utama untuk menciptakan sistem yang tahan terhadap perubahan zaman dan mudah dipelihara (*maintainable*).
 
 ```text
-DIAGRAM TEORI SISTEM: ALIRAN DEPENDENSI CLEAN ARCHITECTURE TUMBUH[^9][^10]
+DIAGRAM TEORI SISTEM: ALIRAN DEPENDENSI CLEAN ARCHITECTURE TUMBUH[^9]
 
 ┌────────────────────────────────────────────────────────────────────────┐
 │ 01_FUNDAMENTAL (Enterprise Business Rules / Core Domain Policy)        │
@@ -128,7 +136,7 @@ DIAGRAM TEORI SISTEM: ALIRAN DEPENDENSI CLEAN ARCHITECTURE TUMBUH[^9][^10]
 ```
 
 ### 4.1. Prinsip Pemisahan Perhatian (*Separation of Concerns - SoC*) Dijkstra
-Edsger W. Dijkstra (1974) dalam *On the Role of Scientific Thought* merumuskan bahwa satu-satunya cara bagi pikiran manusia untuk mengelola kompleksitas sistem besar adalah dengan memfokuskan perhatian pada satu aspek secara terisolasi tanpa terdistraksi oleh aspek lain:[^11]
+Edsger W. Dijkstra (1974) dalam *On the Role of Scientific Thought* merumuskan bahwa satu-satunya cara bagi pikiran manusia untuk mengelola kompleksitas sistem besar adalah dengan memfokuskan perhatian pada satu aspek secara terisolasi tanpa terdistraksi oleh aspek lain:[^10]
 - *Concern A* (Filosofi & Kebijakan): Menjawab pertanyaan *mengapa* (*why*) sistem diciptakan.
 - *Concern B* (Implementasi Kelembagaan): Menjawab pertanyaan *apa* (*what*) struktur yang mewadahinya.
 - *Concern C* (Operasional Praktis): Menjawab pertanyaan *bagaimana* (*how*) prosedur dijalankan di lapangan.
@@ -145,7 +153,7 @@ Di repositori TUMBUH:
 - Lapisan `01_FUNDAMENTAL` **TIDAK BOLEH BERGANTUNG PADA LAPISAN MANA PUN**. Fondasi filosofis harus tetap murni dan tidak boleh tahu-menahu tentang bagaimana bentuk kertas formulir di kamar santri.
 
 ### 4.3. Kohesi Tinggi dan Kopling Longgar (*High Cohesion & Low Coupling*)
-Larry Constantine dan Edward Yourdon (1979) membuktikan bahwa sistem yang sehat memiliki dua sifat:[^12]
+Larry Constantine dan Edward Yourdon (1979) membuktikan bahwa sistem yang sehat memiliki dua sifat:[^11]
 1. **High Cohesion (Kohesi Tinggi)**: Setiap direktori repositori hanya mengurusi satu domain tanggung jawab yang spesifik. Berkas-berkas di dalam `01_FUNDAMENTAL` seluruhnya berfokus pada substansi konsep inti.
 2. **Low Coupling (Kopling Longgar)**: Perubahan pada formulir di `03_OPERATIONAL` tidak memicu efek domino yang mengharuskan revisi pada dokumen `01_FUNDAMENTAL`. Musyrif bebas menyempurnakan alur piket tanpa merusak konstitusi pondok.
 
@@ -225,7 +233,11 @@ Tragedi Ulul Albab menjadi alasan mutlak mengapa repositori TUMBUH v2.0.0 menera
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Parnas dalam *On the criteria to be used in decomposing systems into modules* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Shaw dalam *Software architecture: Perspectives on an emerging discipline* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13][^14].
+Dalam literatur rekayasa sistem kontemporer, Parnas dalam *On the criteria to be used in decomposing systems into modules* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Shaw dalam *Software architecture: Perspectives on an emerging discipline* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
+
+Dalam literatur rekayasa sistem kontemporer, Shaw dalam *Software architecture: Perspectives on an emerging discipline* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
+
+Dalam literatur rekayasa sistem kontemporer, Parnas dalam *On the criteria to be used in decomposing systems into modules* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -397,16 +409,16 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
-[^3]: Al-Ghazali, A. H. (2005). *Ihya' 'Ulumiddin* (Jilid 1). Dar Ibnu Hazm.
+[^2]: Al-Ghazali, A. H. (2005). *Ihya' 'Ulumiddin* (Jilid 1). Dar Ibnu Hazm.
+[^3]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
 [^4]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^5]: Al-Qarafi, A. I. (1998). *Al-Furuq wa Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Manshur, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^6]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^7]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^8]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^5]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^6]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^7]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^8]: Al-Qarafi, A. I. (1998). *Al-Furuq wa Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Manshur, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
 [^9]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-[^10]: Richards, M. (2015). *Software architecture patterns*. O'Reilly Media.
-[^11]: Dijkstra, E. W. (1982). *On the role of scientific thought*. Selected Writings on Computing: A Personal Perspective, 60–66. Springer New York.
-[^12]: Constantine, L. L., & Yourdon, E. (1979). *Structured design: Fundamentals of a discipline of computer program and systems design*. Prentice-Hall.
-[^13]: Parnas, D. L. (1972). *On the criteria to be used in decomposing systems into modules*. Communications of the ACM, 15(12), 1053–1058.
-[^14]: Shaw, M., & Garlan, D. (1996). *Software architecture: Perspectives on an emerging discipline*. Prentice Hall.
+[^10]: Dijkstra, E. W. (1982). *On the role of scientific thought*. Selected Writings on Computing: A Personal Perspective, 60–66. Springer New York.
+[^11]: Constantine, L. L., & Yourdon, E. (1979). *Structured design: Fundamentals of a discipline of computer program and systems design*. Prentice-Hall.
+[^12]: Richards, M. (2015). *Software architecture patterns*. O'Reilly Media.
+[^13]: Shaw, M., & Garlan, D. (1996). *Software architecture: Perspectives on an emerging discipline*. Prentice Hall.
+[^14]: Parnas, D. L. (1972). *On the criteria to be used in decomposing systems into modules*. Communications of the ACM, 15(12), 1053–1058.

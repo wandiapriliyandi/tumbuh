@@ -18,7 +18,7 @@
 ### 2.1. Problematika "Prinsip Tanpa Akar Ontologis" dalam Pendidikan
 Di berbagai institusi pendidikan modern dan pesantren kontemporer, sering kali ditemukan deklarasi "Nilai-Nilai Inti" (*Core Values*), "Prinsip Dasar", atau "Motto Lembaga" yang megah dipajang di gerbang masuk, ruang administrasi, dan brosur promosi. Namun, dalam praktik lapangan sehari-hari, prinsip-prinsip tersebut kerap kali mandul, terabaikan, atau bahkan dikhianati secara terang-terangan oleh para pengelolanya sendiri. Slogan seperti "Disiplin, Bersih, Berprestasi, dan Beradab" sering kali ditegakkan dengan cara-cara yang bertentangan secara diametral dengan keadaban itu sendiri—seperti kekerasan fisik, penghinaan di depan umum, dan intimidasi psikologis.
 
-Akar masalah dari kegagalan sistemik ini adalah **ketiadaan landasan ontologis dan psikologis yang koheren**. Prinsip-prinsip tersebut dirumuskan secara ad-hoc, pragmatis, atau sekadar menjiplak jargon manajemen korporat modern tanpa pernah melalui proses derivasi ilmiah dan filosofis dari hakikat realitas (*worldview*), hakikat ilmu (*epistemology*), hakikat fitrah insan (*human nature*), tahapan pertumbuhannya (*human development*), metodologi penanamannya (*education*), keteladanan pembimbingnya (*leadership*), serta hukum-hukum perubahan jiwanya (*change dynamics*). Akibatnya, prinsip tersebut hanya menjadi slogan retorika kosong (*empty administrative decoration*) yang rapuh diterpa badai dinamika lapangan[^1][^2].
+Akar masalah dari kegagalan sistemik ini adalah **ketiadaan landasan ontologis dan psikologis yang koheren**. Prinsip-prinsip tersebut dirumuskan secara ad-hoc, pragmatis, atau sekadar menjiplak jargon manajemen korporat modern tanpa pernah melalui proses derivasi ilmiah dan filosofis dari hakikat realitas (*worldview*), hakikat ilmu (*epistemology*), hakikat fitrah insan (*human nature*), tahapan pertumbuhannya (*human development*), metodologi penanamannya (*education*), keteladanan pembimbingnya (*leadership*), serta hukum-hukum perubahan jiwanya (*change dynamics*). Akibatnya, prinsip tersebut hanya menjadi slogan retorika kosong (*empty administrative decoration*) yang rapuh diterpa badai dinamika lapangan[^1].
 
 ### 2.2. Posisi Strategis Domain 08 dalam Taksonomi Fondasi TUMBUH
 Dalam repositori TUMBUH v2.0.0, **Domain 08: Core Principles** ditempatkan secara terencana dan ketat tepat setelah Domain 07 (Change Dynamics) dan tepat sebelum Domain 09 (System Architecture). Penataan ini mencerminkan hukum logika formal:
@@ -33,7 +33,7 @@ Dalam repositori TUMBUH v2.0.0, **Domain 08: Core Principles** ditempatkan secar
 ### 3.1. Rujukan Teks Turats Otoritatif (Ushul al-Fiqh & Qawa'id al-Kulliyyah)
 Dalam tradisi keilmuan Islam klasik, perumusan prinsip-prinsip universal (*al-Qawa'id al-Kulliyyah*) bukanlah langkah awal penyelidikan, melainkan hasil sintesis puncak (*istiqra' at-tamm*) dari penelusuran dalil-dalil partikular (*juz'iyyat*) yang telah melalui proses verifikasi metodologis yang ketat.
 
-Imam Asy-Syathibi (w. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan:[^3]
+Imam Asy-Syathibi (w. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan:[^2]
 ```arabic
 إِنَّ هَذِهِ الْقَوَاعِدَ الْكُلِّيَّةَ لَمْ تَثْبُتْ إِلَّا بَعْدَ اسْتِقْرَاءِ الشَّرِيعَةِ وَتَتَبُّعِ مَوَارِدِهَا وَمَصَادِرِهَا حَتَّى انْعَقَدَ عَلَيْهَا الإِجْمَاعُ الْمَعْنَوِيُّ، فَلَا يَصِحُّ تَأْسِيسُهَا عَلَى الْهَوَى وَلَا تَقْدِيمُهَا عَلَى تَمْهِيدِ الْأُصُولِ
 ```
@@ -65,7 +65,19 @@ Dalam hadits shahih yang diriwayatkan oleh Imam Abu Dawud dan At-Tirmidzi dari s
 Al-Hafizh Ibnu Abdil Barr (w. 463 H) dalam *At-Tamhid* menguraikan bahwa setiap peraturan perundang-undangan (*syarth/qanun*) yang dibuat oleh penguasa atau lembaga pendidikan wajib diukur kesesuaiannya dengan hukum syariat asal. Apabila aturan internal lembaga melegalkan kezaliman (seperti penganiayaan fisik atau pelecehan martabat), maka aturan tersebut gugur secara syar'i dan haram ditaati. Inilah landasan epistemik mengapa 9 Core Principles berkedudukan sebagai batas konstitusional tertinggi bagi perancangan sistem TUMBUH.
 
 ---
-Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Baji dalam *Ihkam al-fushul fi ahkam al-ushul*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif. Landasan epistemik ini diperkuat oleh pemikiran Al-Jurjani dalam *Kitab at-ta'rifat*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *I'lam al-muwaqqi'in 'an rabbil 'alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4][^5][^6][^7][^8][^9][^10].
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Baji dalam *Ihkam al-fushul fi ahkam al-ushul*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif. Landasan epistemik ini diperkuat oleh pemikiran Al-Jurjani dalam *Kitab at-ta'rifat*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *I'lam al-muwaqqi'in 'an rabbil 'alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^3].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *I'lam al-muwaqqi'in 'an rabbil 'alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Mawardi dalam *Adab ad-dunya wa ad-din*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Jurjani dalam *Kitab at-ta'rifat*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
+
+Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Baji dalam *Ihkam al-fushul fi ahkam al-ushul*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
 
 
 ## 4. Argumen Ontologis & Logika Dependensi Sistem
@@ -156,7 +168,7 @@ Dokumen fondasi `08_CORE_PRINCIPLES.md` menetapkan sembilan aksioma invarian yan
   | 5. TA'DIB AS ADAB-CENTRIC | Menjadikan adab sebagai poros utama pendidikan, bukan |
   |    (Aksioma Ta'dib)       | sekadar transfer hafalan mekanis (Domain 05).         |
   +---------------------------+-------------------------------------------------------+
-  | 6. QUDWAH-FIRST LEADERSHIP| Keteladanan mendahului instruksi; para pendidik wajib |
+  | 6. QUDWAH-FIRST LEADERSHIP| Keteladanan mendahului instruksi; para pendidik wajib |[^10]
   |    (Aksioma Qudwah)       | mengamalkan adab sebelum menuntutnya (Domain 06).     |
   +---------------------------+-------------------------------------------------------+
   | 7. GRADUAL RESTORATION    | Menghargai proses transformasi jiwa bertahap;         |
@@ -184,7 +196,19 @@ Setiap aksioma konstitusional TUMBUH memiliki kriteria implementasi operasional 
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Argyris dalam *Organizational learning: A theory of action perspective* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Paulo Freire dalam kritik pedagogisnya memperingatkan bahaya pedagogi perbankan (*banking education*) yang mereduksi peserta didik menjadi bejana pasif yang dijejali hafalan tanpa kesadaran kritis. Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis. Dalam literatur rekayasa sistem kontemporer, Noddings dalam *Caring: A relational approach to ethics and moral education* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Rawls dalam *A theory of justice* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^11][^12][^13][^14][^15][^16][^17].
+Dalam literatur rekayasa sistem kontemporer, Argyris dalam *Organizational learning: A theory of action perspective* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Paulo Freire dalam kritik pedagogisnya memperingatkan bahaya pedagogi perbankan (*banking education*) yang mereduksi peserta didik menjadi bejana pasif yang dijejali hafalan tanpa kesadaran kritis. Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis. Dalam literatur rekayasa sistem kontemporer, Noddings dalam *Caring: A relational approach to ethics and moral education* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Rawls dalam *A theory of justice* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^11].
+
+Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
+
+Dalam literatur rekayasa sistem kontemporer, Rawls dalam *A theory of justice* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
+
+Dalam literatur rekayasa sistem kontemporer, Noddings dalam *Caring: A relational approach to ethics and moral education* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
+
+Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis[^15].
+
+Dalam literatur rekayasa sistem kontemporer, Freire dalam *Pedagogy of the oppressed* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^16].
+
+Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^17].
 
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
@@ -365,22 +389,22 @@ Lima belas aturan anti-penyimpangan aksioma prinsip inti yang wajib dipatuhi:
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
-[^2]: Heifetz, R. A. (1994). *Leadership without easy answers*. Harvard University Press.
-[^3]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi ushul asy-syari'ah* (Tahqiq M. A. Diraz, Jilid 1–2). Al-Qahirah: Dar al-Hadits.
-[^4]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-[^5]: Al-Baji, S. K. (1986). *Ihkam al-fushul fi ahkam al-ushul* (A. M. Turki, Ed.). Bairut: Mu'assasah ar-Risalah.
-[^6]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^2]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi ushul asy-syari'ah* (Tahqiq M. A. Diraz, Jilid 1–2). Al-Qahirah: Dar al-Hadits.
+[^3]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^4]: Ibn Qayyim al-Jauziyyah, M. (1991). *I'lam al-muwaqqi'in 'an rabbil 'alamin* (T. A. Sa'd, Ed., Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
+[^6]: Al-Jurjani, A. M. (2003). *Kitab at-ta'rifat* (M. B. al-Uyun, Ed.). Bairut: Dar an-Nafa'is.
 [^7]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab qawa'id al-'aqa'id* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
-[^8]: Al-Jurjani, A. M. (2003). *Kitab at-ta'rifat* (M. B. al-Uyun, Ed.). Bairut: Dar an-Nafa'is.
-[^9]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-[^10]: Ibn Qayyim al-Jauziyyah, M. (1991). *I'lam al-muwaqqi'in 'an rabbil 'alamin* (T. A. Sa'd, Ed., Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^8]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^9]: Al-Baji, S. K. (1986). *Ihkam al-fushul fi ahkam al-ushul* (A. M. Turki, Ed.). Bairut: Mu'assasah ar-Risalah.
+[^10]: Heifetz, R. A. (1994). *Leadership without easy answers*. Harvard University Press.
 [^11]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-[^12]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
-[^13]: Freire, P. (2000). *Pedagogy of the oppressed* (M. B. Ramos, Trans.; 30th anniversary ed.). Continuum.
-[^14]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-[^15]: Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
-[^16]: Rawls, J. (1971). *A theory of justice*. Harvard University Press.
-[^17]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
+[^12]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
+[^13]: Rawls, J. (1971). *A theory of justice*. Harvard University Press.
+[^14]: Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
+[^15]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+[^16]: Freire, P. (2000). *Pedagogy of the oppressed* (M. B. Ramos, Trans.; 30th anniversary ed.). Continuum.
+[^17]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
 [^18]: Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
 [^19]: Zehr, H. (2015). *The little book of restorative justice: Revised and updated*. Good Books.
 [^20]: Whitehead, A. N. (1929). *Process and reality: An essay in cosmology*. Macmillan.

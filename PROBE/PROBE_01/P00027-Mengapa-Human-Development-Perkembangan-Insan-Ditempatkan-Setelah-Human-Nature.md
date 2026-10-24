@@ -94,7 +94,7 @@ Imam Fakhruddin ar-Razi (w. 606 H) dalam *Tafsir al-Kabir* saat menafsirkan firm
 > **Artinya**: *"Manusia tidaklah sempurna akalnya secara sekaligus, melainkan ia berproses bertahap dari kondisi lemah menuju kondisi kuat sedikit demi sedikit. Anak kecil sebelum tamyiz berada pada martabat orang yang tak berdaya. Apabila ia telah tamyiz, ia siap menerima pendidikan adab (ta'dib). Apabila ia telah baligh, mulailah wajib beban taklif syar'i atasnya. Dan apabila ia mencapai puncak kematangan (asyudd), sempurnalah pandangan nalar dan tuntaslah pengalamannya."*
 
 ### 3.2. Integrasi Neurosains Perkembangan: Dual-Systems Model Remaja
-Neurosains kontemporer (Steinberg, 2008; Casey et al., 2008) membuktikan bahwa selama masa remaja (usia 11–18 tahun), otak manusia mengalami perkembangan yang tidak sinkron (*developmental mismatch*):[^5][^6]
+Neurosains kontemporer (Steinberg, 2008; Casey et al., 2008) membuktikan bahwa selama masa remaja (usia 11–18 tahun), otak manusia mengalami perkembangan yang tidak sinkron (*developmental mismatch*):[^5]
 1. **Sistem Sosio-Emosional (Limbic System / Amygdala)**: Matang lebih cepat di awal masa pubertas. Ini menyebabkan remaja sangat sensitif terhadap penghargaan sosial, dorongan teman sebaya, dan gejolak emosi intens.
 2. **Sistem Kontrol Kognitif (Prefrontal Cortex / PFC)**: Bertanggung jawab atas perencanaan jangka panjang, kontrol impuls, dan pertimbangan risiko. Bagian otak ini mengalami reorganisasi sinaptik (*synaptic pruning & myelination*) dan baru matang sempurna sekitar usia 20–25 tahun.
 
@@ -190,7 +190,9 @@ Repositori TUMBUH v2.0.0 membakukan lima tahapan perkembangan fitrah santri yang
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Erikson dalam *Identity: Youth and crisis* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
+Dalam literatur rekayasa sistem kontemporer, Erikson dalam *Identity: Youth and crisis* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^6].
+
+Dalam literatur rekayasa sistem kontemporer, Casey dalam *Annals of the New York Academy of Sciences* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
 
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
@@ -381,8 +383,8 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^3]: Ibn Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. M. ad-Darwisy, Ed., Jilid 2). Dar Ya'rub.
 [^4]: Fakhruddin ar-Razi, M. (1981). *Mafatih al-ghaib / At-Tafsir al-kabir* (Juz 28). Dar al-Fikr.
 [^5]: Steinberg, L. (2008). A social neuroscience perspective on adolescent risk-taking. *Developmental Review*, 28(1), 78–106.
-[^6]: Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain. *Annals of the New York Academy of Sciences*, 1124(1), 111–126.
-[^7]: Erikson, E. H. (1968). *Identity: Youth and crisis*. W. W. Norton & Company.
+[^6]: Erikson, E. H. (1968). *Identity: Youth and crisis*. W. W. Norton & Company.
+[^7]: Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The adolescent brain. *Annals of the New York Academy of Sciences*, 1124(1), 111–126.
 [^8]: Piaget, J. (1972). *The psychology of the child*. Basic Books.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH

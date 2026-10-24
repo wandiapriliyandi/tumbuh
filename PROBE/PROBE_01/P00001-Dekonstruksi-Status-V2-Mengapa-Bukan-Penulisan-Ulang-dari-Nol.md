@@ -81,7 +81,7 @@ DIALEKTIKA TURATS: AS-SUNNAH AL-HASANAH DAN PENYEMPURNAAN SANAD
 ```
 
 ### 3.1. Hadits Penyempurnaan Bangunan Kenabian
-Rasulullah ﷺ memberikan tamsil agung mengenai bagaimana sebuah sistem risalah peradaban diselesaikan melalui kesinambungan penyempurnaan, sebagaimana diriwayatkan dalam *Shahih al-Bukhari* (Kitab al-Manaqib, Bab Khatam an-Nabiyyin, No. 3535) dan *Shahih Muslim* (No. 2286):[^3][^4]
+Rasulullah ﷺ memberikan tamsil agung mengenai bagaimana sebuah sistem risalah peradaban diselesaikan melalui kesinambungan penyempurnaan, sebagaimana diriwayatkan dalam *Shahih al-Bukhari* (Kitab al-Manaqib, Bab Khatam an-Nabiyyin, No. 3535) dan *Shahih Muslim* (No. 2286):[^3]
 
 > مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ بَنَى بَيْتًا فَأَحْسَنَهُ وَأَجْمَلَهُ، إِلَّا مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ، فَجَعَلَ النَّاسُ يَطُوفُونَ بِهِ وَيَعْجَبُونَ لَهُ، وَيَقُولُونَ: هَلَّا وُضِعَتْ هَذِهِ اللَّبِنَةُ؟ قَالَ: فَأَنَا اللَّبِنَةُ، وَأَنَا خَاتِمُ النَّبِيِّينَ
 > 
@@ -92,7 +92,7 @@ Secara epistemologis, hadits ini mengajarkan prinsip agung: **Penyempurna tidak 
 Dalam skala repositori manusiawi, tim pengembang V2 harus memiliki ketundukan moral serupa: naskah V1 adalah rumah perintisan yang telah meletakkan bata-bata awal perjuangan; tugas V2 adalah merapikan strukturnya, menyemen kerapuhannya, dan memasang bata-bata kanonik yang belum lengkap, bukan merobohkan seluruh bangunan tersebut.
 
 ### 3.2. Kaidah Ushul Fiqih: Al-Ashlu Baqa'u ma Kana 'ala ma Kana
-Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 51) menetapkan kaidah universal:[^5]
+Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 51) menetapkan kaidah universal:[^4]
 
 > الأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ
 > 
@@ -101,13 +101,13 @@ Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiq
 Kaidah *istishhab* ini menjadi rem epistemologis yang mencegah radikalisme pembongkaran repositori. Setiap konsep, istilah, dan instrumen yang telah dirumuskan dalam V1 diposisikan sah dan benar secara asal (*prima facie valid*), kecuali jika dalam penyelidikan PROBE diuji dan terbukti mengandung kontradiksi filosofis, kelemahan metodologis, atau dampak mudharat bagi santri. Perubahan dalam V2 harus didorong oleh bukti dan penalaran (*burhan*), bukan oleh nafsu merombak demi kebaruan (*syahwat at-tajdid az-za'ifah*).
 
 ### 3.3. Tata Kelola Suksesi Regulasi Kelembagaan menurut Al-Mawardi
-Dalam magnum opusnya *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (Fashl fi Wilayat al-Qadha, hlm. 95–98), Imam Abul Hasan Ali bin Muhammad Al-Mawardi membahas etika seorang hakim atau administrator baru yang menggantikan pejabat lama:[^6]
+Dalam magnum opusnya *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (Fashl fi Wilayat al-Qadha, hlm. 95–98), Imam Abul Hasan Ali bin Muhammad Al-Mawardi membahas etika seorang hakim atau administrator baru yang menggantikan pejabat lama:[^5]
 > *"Bagi penguasa atau qadhi yang baru diangkat, tidak halal baginya membatalkan seluruh ketetapan, putusan hukum, dan administrasi pejabat pendahulunya secara membabi buta semata-mata karena ia ingin menunjukkan kekuasaannya yang baru. Wajib baginya meneliti putusan pendahulunya: apa yang sejalan dengan kebenaran dan keadilan harus dipertahankan dan ditegakkan; sedangkan apa yang terbukti menyimpang dari nash atau ijma' wajib diperbaiki secara adil tanpa mencemarkan kehormatan pribadi pendahulunya."*
 
 Al-Mawardi meletakkan standar etika kelembagaan Islam: pembaruan administratif haram lahir dari arogansi generasi baru yang ingin menghapus jejak pendahulu. V2 mengadopsi adab ini secara ketat dalam memperlakukan repositori V1.
 
 ### 3.4. Kaidah Sunnah Hasanah dan Keberkahan Perintisan
-Rasulullah ﷺ bersabda dalam *Shahih Muslim* (Kitab az-Zakah, No. 1017):
+Rasulullah ﷺ bersabda dalam *Shahih Muslim* (Kitab az-Zakah, No. 1017):[^6]
 > مَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً حَسَنَةً فَلَهُ أَجْرُهَا وَأَجْرُ مَنْ عَمِلَ بِهَا بَعْدَهُ
 > 
 > *"Barangsiapa memulai suatu jalan kebaikan (sunnah hasanah) dalam Islam, maka baginya pahala perbuatannya dan pahala orang-orang yang mengamalkannya setelahnya."*
@@ -115,7 +115,9 @@ Rasulullah ﷺ bersabda dalam *Shahih Muslim* (Kitab az-Zakah, No. 1017):
 Para perintis V1 yang mencurahkan pikiran pertama kali merumuskan konsep TUMBUH telah menorehkan *sunnah hasanah*. Tim V2 bertugas melanjutkan pahala jariyah tersebut dengan menyempurnakan wadahnya, bukan memutuskan talian sanadnya.
 
 ---
-Imam Asy-Syathibi dalam *al-Muwafaqat* merumuskan bahwa setiap aturan operasional yang bertentangan dengan kemaslahatan umum (*al-mashlahah al-'ammah*) secara otomatis kehilangan legitimasi syar'iyyah. Imam Ibnu Abdil Barr dalam *Jami' Bayan al-'Ilmi wa Fadhlih* menegaskan keutamaan memadukan keteguhan sanad riwayah dengan kedalaman pemahaman dirayah dalam setiap transmisi tarbiyah[^7][^8].
+Imam Asy-Syathibi dalam *al-Muwafaqat* merumuskan bahwa setiap aturan operasional yang bertentangan dengan kemaslahatan umum (*al-mashlahah al-'ammah*) secara otomatis kehilangan legitimasi syar'iyyah. Imam Ibnu Abdil Barr dalam *Jami' Bayan al-'Ilmi wa Fadhlih* menegaskan keutamaan memadukan keteguhan sanad riwayah dengan kedalaman pemahaman dirayah dalam setiap transmisi tarbiyah[^7].
+
+Imam Ibnu Abdil Barr dalam *Jami' Bayan al-'Ilmi wa Fadhlih* menegaskan keutamaan memadukan keteguhan sanad riwayah dengan kedalaman pemahaman dirayah dalam setiap transmisi tarbiyah[^8].
 
 
 ## 4. Tinjauan Pustaka II: Teori Sistem, Rekayasa Perangkat Lunak, & Pembelajaran Organisasi
@@ -143,10 +145,10 @@ Dalam karya monumental *The Mythical Man-Month: Essays on Software Engineering* 
 Peringatan Brooks ini menjadi landasan mengapa V2 di repositori TUMBUH tidak boleh ditulis dari nol secara liar. V2 harus dipagari oleh batas-batas disiplin: ia hanya menyempurnakan struktur V1, bukan melampiaskan fantasi teoritis yang mengorbankan keterbacaan musyrif di asrama.
 
 ### 4.2. Refactoring vs Rewrite oleh Martin Fowler & Kent Beck
-Martin Fowler (2018) dalam *Refactoring: Improving the Design of Existing Code* membedakan secara tegas antara perombakan arsitektural terarah (*refactoring*) dengan penulisan ulang total (*ground-up rewrite*):[^9][^10]
+Martin Fowler (2018) dalam *Refactoring: Improving the Design of Existing Code* membedakan secara tegas antara perombakan arsitektural terarah (*refactoring*) dengan penulisan ulang total (*ground-up rewrite*):[^9]
 > *"Menulis ulang sistem besar dari awal adalah tindakan yang tampak menggoda namun hampir selalu merupakan ilusi berbahaya. Ketika Anda menulis ulang, Anda membuang seluruh pembelajaran bertahun-tahun yang terkandung di dalam sistem lama, dan Anda harus menghadapi kembali ratusan bug tersembunyi yang dulu pernah diselesaikan oleh tim sebelumnya."*
 
-Fowler merekomendasikan strategi pembaruan evolutif: mempertahankan perilaku dan nilai inti sistem, seraya merestrukturisasi desain internalnya agar mudah dipahami, lentur terhadap perubahan, dan murah biaya perawatannya. Inilah hakikat V2: **Architectural Refactoring**, bukan *Reckless Rewrite*.
+Fowler merekomendasikan strategi pembaruan evolutif: mempertahankan perilaku dan nilai inti sistem, seraya merestrukturisasi desain internalnya agar mudah dipahami, lentur terhadap perubahan, dan murah biaya perawatannya. Inilah hakikat V2: **Architectural Refactoring**, bukan *Reckless Rewrite*[^10].
 
 ### 4.3. Teori Kapasitas Serap Organisasi (*Absorptive Capacity*)
 Wesley M. Cohen dan Daniel A. Levinthal (1990) dalam studi klasik mereka di *Administrative Science Quarterly* membuktikan bahwa kemampuan suatu organisasi untuk mengenali nilai informasi baru, mengasimilasikannya, dan menerapkannya secara komersial/operasional sangat bergantung pada **pengetahuan awal yang telah dimiliki (*prior related knowledge*)**[^11].
@@ -159,7 +161,7 @@ Thomas S. Kuhn (1962) dalam *The Structure of Scientific Revolutions* memaparkan
 Demikian pula TUMBUH V2: ia tidak menyatakan bahwa pandangan V1 tentang adab adalah salah, melainkan menempatkan pandangan tersebut ke dalam kerangka sistemik yang lebih teratur, terlacak, dan terintegrasi dengan neurosains.
 
 ### 4.5. Teori Pembelajaran Dua Jalur Chris Argyris (*Single-Loop vs Double-Loop Learning*)
-Chris Argyris dan Donald Schön (1978) dalam *Organizational Learning: A Theory of Action Perspective* membedakan dua tingkatan pembelajaran organisasi:[^13][^14]
+Chris Argyris dan Donald Schön (1978) dalam *Organizational Learning: A Theory of Action Perspective* membedakan dua tingkatan pembelajaran organisasi:[^13]
 1. **Single-Loop Learning**: Memperbaiki tindakan atau aturan teknis untuk mengatasi kesalahan tanpa pernah mempertanyakan nilai-nilai dasar, asumsi, atau tujuan yang mendasari aturan tersebut. Pada fase V1, pesantren kerap terjebak pada single-loop learning: mengganti hukuman botak kepala dengan lari keliling lapangan tanpa pernah mengkaji mengapa santri bangun terlambat.
 2. **Double-Loop Learning**: Menguji kembali asumsi filosofis, norma dasar, dan kerangka desain yang melahirkan masalah tersebut. 
 
@@ -250,7 +252,13 @@ Ketika TUMBUH merancang Branch V2, tim tidak membuang naskah V1. Tim duduk menel
 
 ---
 
-W. Brian Arthur dalam teori ketergantungan jalur (*path dependence*) mengingatkan bahwa keputusan arsitektural awal menciptakan penguncian institusional (*lock-in*) yang sangat sulit diubah di kemudian hari bila tidak dirancang secara cermat. John Kotter dalam studi kepemimpinan transformasi membuktikan bahwa pembaruan kelembagaan berskala besar akan mengalami kegagalan fatal bila tidak didukung oleh rasa urgensi yang mendalam dan koalisi pengarah yang solid. Dalam literatur rekayasa sistem kontemporer, Lehman dalam *Programs, life cycles, and laws of software evolution* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15][^16][^17].
+W. Brian Arthur dalam teori ketergantungan jalur (*path dependence*) mengingatkan bahwa keputusan arsitektural awal menciptakan penguncian institusional (*lock-in*) yang sangat sulit diubah di kemudian hari bila tidak dirancang secara cermat. John Kotter dalam studi kepemimpinan transformasi membuktikan bahwa pembaruan kelembagaan berskala besar akan mengalami kegagalan fatal bila tidak didukung oleh rasa urgensi yang mendalam dan koalisi pengarah yang solid. Dalam literatur rekayasa sistem kontemporer, Lehman dalam *Programs, life cycles, and laws of software evolution* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
+
+Dalam literatur rekayasa sistem kontemporer, Lehman dalam *Programs, life cycles, and laws of software evolution* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
+
+John Kotter dalam studi kepemimpinan transformasi membuktikan bahwa pembaruan kelembagaan berskala besar akan mengalami kegagalan fatal bila tidak didukung oleh rasa urgensi yang mendalam dan koalisi pengarah yang solid[^16].
+
+Edgar Schein dalam kajian budaya organisasi menekankan bahwa artefak dan aturan tertulis tidak akan berdaya tanpa transformasi pada tingkat asumsi dasar (*basic underlying assumptions*) para pendidik di lapangan[^17].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -397,9 +405,9 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^1]: Brooks, F. P., Jr. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley Publishing Company.
 [^2]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
 [^3]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 4). Dar Thuq an-Najah.
-[^4]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 2). Dar Thayyibah.
-[^5]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^6]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^4]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^6]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 2). Dar Thayyibah.
 [^7]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi Ushulisy-Syari'ah* (M. H. Salman, Tahqiq; Jilid 2). Dar Ibn 'Affan.
 [^8]: Ibnu Abdil Barr, Y. A. (1994). *Jami' Bayan al-'Ilmi wa Fadhlih* (A. Z. Az-Zuhairi, Tahqiq; Jilid 2). Dar Ibn al-Jauzi.
 [^9]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
@@ -407,7 +415,7 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^11]: Cohen, W. M., & Levinthal, D. A. (1990). Absorptive capacity: A new perspective on learning and innovation. *Administrative Science Quarterly*, 35(1), 128–152.
 [^12]: Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
 [^13]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-[^14]: Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
-[^15]: Arthur, W. B. (1994). *Increasing returns and path dependence in the economy*. University of Michigan Press.
+[^14]: Arthur, W. B. (1994). *Increasing returns and path dependence in the economy*. University of Michigan Press.
+[^15]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
 [^16]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
-[^17]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
+[^17]: Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.

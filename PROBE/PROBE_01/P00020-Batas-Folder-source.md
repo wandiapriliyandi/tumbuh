@@ -86,9 +86,9 @@ Landasan epistemik ini diperkuat oleh pemikiran Al-Baqillani dalam *Al-Inshaf fi
 Dalam ilmu komputer, rekayasa data (*data engineering*), dan arsitektur sistem informasi enterprise modern, pembagian zona data (*data tiering architecture*) adalah prinsip baku untuk menjaga akurasi informasi organisasi.
 
 ### 4.1. Arsitektur Data: Data Lake Ingestion vs Curated Warehouse
-Arsitek data enterprise (seperti W. H. Inmon, Ralph Kimball, dan kerangka kerja DAMA International dalam DAMA-DMBOK2) merumuskan bahwa data yang masuk ke organisasi harus melalui tiga zona bertingkat:[^5][^6]
+Arsitek data enterprise (seperti W. H. Inmon, Ralph Kimball, dan kerangka kerja DAMA International dalam DAMA-DMBOK2) merumuskan bahwa data yang masuk ke organisasi harus melalui tiga zona bertingkat:[^5]
 1. **Raw Ingestion Zone (Data Lake / Landing Zone)**: Tempat penampungan seluruh data mentah apa adanya dalam format aslinya (file log, csv, rekaman audio, sensor IoT). Zona ini sarat dengan noise, data duplikat, dan galat (*unreliable*). Inilah analogi arsitektural bagi direktori `source/`.
-2. **Standardized & Verified Zone (Data Warehouse / Curated Layer)**: Data mentah yang telah diekstrak, dibersihkan (*cleansed*), divalidasi skemanya, dan diaudit reliabilitasnya. Inilah analogi arsitektural bagi direktori `08_SOURCES_AND_EVIDENCE/`.
+2. **Standardized & Verified Zone (Data Warehouse / Curated Layer)**: Data mentah yang telah diekstrak, dibersihkan (*cleansed*), divalidasi skemanya, dan diaudit reliabilitasnya. Inilah analogi arsitektural bagi direktori `08_SOURCES_AND_EVIDENCE/`[^6].
 3. **Golden Master / Core Domain Model (Production Truth)**: Ketetapan final yang disahkan sebagai acuan tunggal kebenaran (*Single Source of Truth / SSOT*) yang menjadi dasar operasional sistem. Inilah analogi bagi direktori `01_FUNDAMENTAL/` dan `02_IMPLEMENTATION/`[^7].
 
 ```text
@@ -190,7 +190,11 @@ Mengutip berkas mentah tanpa verifikasi menimbulkan 8 risiko sistemik yang dapat
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Redman dalam *Data driven: Profiting from your most important business asset* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strong dalam *Communications of the ACM* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Wang dalam *Journal of Management Information Systems* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8][^9][^10].
+Dalam literatur rekayasa sistem kontemporer, Redman dalam *Data driven: Profiting from your most important business asset* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strong dalam *Communications of the ACM* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Wang dalam *Journal of Management Information Systems* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
+
+Dalam literatur rekayasa sistem kontemporer, Wang dalam *Journal of Management Information Systems* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9].
+
+Dalam literatur rekayasa sistem kontemporer, Strong dalam *Communications of the ACM* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^10].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Pengolahan Bahan Mentah Menjadi Pengetahuan Sahih
 
@@ -380,8 +384,8 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^6]: Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
 [^7]: Loshin, D. (2010). *Master data management*. Morgan Kaufmann.
 [^8]: Redman, T. C. (2008). *Data driven: Profiting from your most important business asset*. Harvard Business Press.
-[^9]: Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
-[^10]: Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
+[^9]: Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
+[^10]: Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Manajemen Repositori dan Petugas Data Pesantren
 

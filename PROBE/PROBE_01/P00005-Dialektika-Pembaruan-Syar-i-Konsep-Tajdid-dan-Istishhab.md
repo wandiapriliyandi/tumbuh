@@ -83,20 +83,20 @@ Diriwayatkan dari sahabat Abu Hurairah radhiyallahu 'anhu, Rasulullah ﷺ bersab
 > *"Sesungguhnya Allah membangkitkan untuk umat ini pada setiap pengujung seratus tahun orang yang memperbarui (melakukan tajdid terhadap) urusan agamanya."*  
 > (HR. Abu Dawud no. 4291; dinilai shahih oleh Al-Hakim dalam *Al-Mustadrak* 4/522 dan Al-Albani dalam *Silsilah al-Ahadits ash-Shahihah* no. 599).
 
-Imam Jalaluddin As-Suyuthi dalam risalahnya *At-Tanbi'ah bi Man Yab'atsuhullah 'ala Ra'si Kulli Mi'ah* (hlm. 15–22) menjelaskan bahwa makna *tajdid* bukanlah menciptakan agama baru, melainkan:[^1][^2]
+Imam Jalaluddin As-Suyuthi dalam risalahnya *At-Tanbi'ah bi Man Yab'atsuhullah 'ala Ra'si Kulli Mi'ah* (hlm. 15–22) menjelaskan bahwa makna *tajdid* bukanlah menciptakan agama baru, melainkan:[^1]
 1. Menghilangkan bid'ah dan penyimpangan yang disusupkan orang-orang jahil ke dalam agama.
 2. Menghidupkan kembali sunnah nabi dan nilai-nilai adab yang telah ditinggalkan umat.
-3. Merumuskan metodologi dan instrumen baru untuk menyebarkan risalah Islam sesuai tingkat pemahaman generasi kontemporer[^3].
+3. Merumuskan metodologi dan instrumen baru untuk menyebarkan risalah Islam sesuai tingkat pemahaman generasi kontemporer[^2].
 
 ### 3.2. Ontologi Tajdid Shah Waliullah Ad-Dahlawi
-Dalam magnum opusnya *Hujjatullah al-Balighah* (Jilid 1, hlm. 8–19), Imam Al-Muhaddits Shah Waliullah Ad-Dahlawi menjelaskan bahwa syariat memiliki dua dimensi:[^4]
+Dalam magnum opusnya *Hujjatullah al-Balighah* (Jilid 1, hlm. 8–19), Imam Al-Muhaddits Shah Waliullah Ad-Dahlawi menjelaskan bahwa syariat memiliki dua dimensi:[^3]
 - **Al-Jauhar al-Ashli (Hakikat Substantif)**: Perbaikan jiwa (*tazkiyatun nafs*), penegakan keadilan (*iqamatul 'adl*), dan penghambaan diri kepada Allah (*al-'ubudiyyah*). Dimensi ini bersifat mutlak dan tidak mengenal perubahan.
 - **Ash-Shurah at-Tanzhimiyyah (Bentuk Organisasional)**: Hukum-hukum partikular, format dokumentasi, dan perangkat birokrasi yang dipengaruhi oleh adat istiadat (*irtifaqat*) dan perkembangan sosiologis manusia.
 
 Ad-Dahlawi menegaskan bahwa jika suatu generasi membiarkan *Shurah Tanzhimiyyah* menjadi usang dan tidak mampu lagi mengawal *Jauhar Ashli*, maka generasi tersebut berdosa karena membiarkan risalah Islam kehilangan daya transformasinya.
 
 ### 3.3. Kaidah Istishhab dan Batas-Batasnya
-Imam Abu Hamid Al-Ghazali dalam *Al-Mustashfa* (Jilid 1, hlm. 217–225) mendefinisikan *istishhab* sebagai dalil hukum terakhir yang digunakan ketika tidak ditemukan dalil pengubah (*dalilul mughayyir*):[^5]
+Imam Abu Hamid Al-Ghazali dalam *Al-Mustashfa* (Jilid 1, hlm. 217–225) mendefinisikan *istishhab* sebagai dalil hukum terakhir yang digunakan ketika tidak ditemukan dalil pengubah (*dalilul mughayyir*):[^4]
 > الاِسْتِصْحَابُ هُوَ التَّمَسُّكُ بِالْعَدَمِ الأَصْلِيِّ أَوْ بِالْحُكْمِ الثَّابِتِ حَتَّى يَثْبُتَ تَغَيُّرُهُ
 > 
 > *"Istishhab adalah berpegang teguh pada ketiadaan hukum asal atau hukum yang telah tetap hingga terdapat dalil sah yang membuktikan perubahannya."*
@@ -106,12 +106,14 @@ Dalam arsitektur TUMBUH, istishhab berfungsi sebagai penjaga gerbang (*gatekeepe
 - Pembaruan di Branch V2 bukan didasari nafsu membongkar hukum asal, melainkan didasari oleh adanya *dalil mughayyir* berupa audit data lapangan dan kaidah penolakan mudharat.
 
 ### 3.4. Distingsi Bid'ah menurut Imam Asy-Syathibi
-Dalam *Al-I'tisham* (Jilid 1, hlm. 37–52), Imam Asy-Syathibi membedakan antara:[^6][^7]
+Dalam *Al-I'tisham* (Jilid 1, hlm. 37–52), Imam Asy-Syathibi membedakan antara:[^5]
 1. **Al-Bid'ah fil-'Ibadah (Bid'ah dalam Peribadatan)**: Mengada-adakan tata cara baru dalam ritual mahdhah tanpa dalil; ini adalah kesesatan mutlak (*kullu bid'atin dhalalah*).
 2. **Al-Mashalih al-Mursalah wal-Wasa'il al-Mustahdatsah (Sarana Baru yang Maslahat)**: Mengembangkan metode pencatatan, sistem kontrol versi, kurikulum berjenjang, dan manajemen asrama. Hal ini tidak termasuk bid'ah yang tercela, melainkan sunnah hasanah yang dianjurkan sepanjang bermuara pada penjagaan maqashid syariat.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Al-Hakim An-Naisaburi dalam *Al-Mustadrak 'ala ash-Shahihain*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+Landasan epistemik ini diperkuat oleh pemikiran Al-Hakim An-Naisaburi dalam *Al-Mustadrak 'ala ash-Shahihain*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *At-Tanbi'ah bi Man Yab'atsuhullah 'ala Ra'si Kulli Mi'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Paradigma Sains, & Punctuated Equilibrium
@@ -119,7 +121,7 @@ Landasan epistemik ini diperkuat oleh pemikiran Al-Hakim An-Naisaburi dalam *Al-
 Dalam teori sistem kompleks dan filsafat sains modern, dinamika antara stabilitas dan revolusi arsitektural dianalisis secara sangat presisi.
 
 ```text
-DIAGRAM: PUNCTUATED EQUILIBRIUM & PARADIGM SHIFT DALAM REPOSITORI TUMBUH[^9]
+DIAGRAM: PUNCTUATED EQUILIBRIUM & PARADIGM SHIFT DALAM REPOSITORI TUMBUH
 
     KUALITAS SISTEM
           ▲
@@ -139,21 +141,21 @@ DIAGRAM: PUNCTUATED EQUILIBRIUM & PARADIGM SHIFT DALAM REPOSITORI TUMBUH[^9]
 ```
 
 ### 4.1. Teori Punctuated Equilibrium (Stephen Jay Gould & Niles Eldredge, 1972)
-Gould dan Eldredge membuktikan bahwa evolusi biologis dan sistemik tidak berjalan secara gradual merata (*phyletic gradualism*), melainkan melalui pola **Punctuated Equilibrium**:[^10]
+Gould dan Eldredge membuktikan bahwa evolusi biologis dan sistemik tidak berjalan secara gradual merata (*phyletic gradualism*), melainkan melalui pola **Punctuated Equilibrium**:[^8]
 - Periode stabilitas yang panjang (*stasis/equilibrium*), di mana sistem beroperasi tanpa perubahan struktural yang berarti. Ini adalah padanan ilmiah dari **Kaidah Istishhab**.
 - Diselingi oleh letupan pembaruan yang cepat dan radikal (*punctuation/speciation*), di mana sistem menata ulang kode genetik arsitekturnya untuk merespons krisis lingkungan baru. Ini adalah padanan ilmiah dari **Lompatan Tajdid v2.0.0**.
 
 Jika repositori TUMBUH hanya mengandalkan perbaikan kecil yang gradual (*patching*), sistem akan lumpuh karena penumpukan anomali. Diperlukan lompatan arsitektural terkonsentrasi di Branch V2 untuk melahirkan spesies sistem yang tangguh.
 
 ### 4.2. Teori Pergeseran Paradigma (*Structure of Scientific Revolutions*) Thomas Kuhn
-Thomas S. Kuhn (1962) membedakan dua fase sains:[^11]
+Thomas S. Kuhn (1962) membedakan dua fase sains:[^9]
 1. **Normal Science**: Para ilmuwan bekerja di bawah paradigma yang ada, memecahkan teka-teki (*puzzle-solving*) kecil tanpa menggugat kerangka dasar.
 2. **Revolutionary Science (Paradigm Shift)**: Ketika anomali di lapangan menumpuk tak tertahankan, paradigma lama runtuh dan digantikan oleh paradigma baru yang lebih komprehensif.
 
 Branch v2.0.0 adalah *Paradigm Shift* dalam perancangan pendidikan pesantren: dari paradigma pencatatan insidental di atas kertas menuju paradigma rekayasa pengetahuan terverifikasi di atas kontrol versi Git.
 
 ### 4.3. Teori Inovasi Arsitektural (*Architectural Innovation Theory*) Henderson & Clark
-Rebecca M. Henderson dan Kim B. Clark (1990) mengidentifikasi empat tipe inovasi: *Incremental, Modular, Radical,* dan *Architectural*[^12].
+Rebecca M. Henderson dan Kim B. Clark (1990) mengidentifikasi empat tipe inovasi: *Incremental, Modular, Radical,* dan *Architectural*[^10].
 - **Architectural Innovation** didefinisikan sebagai inovasi yang mempertahankan konsep-konsep inti komponen yang ada (*core concepts preserved*), namun mengubah cara komponen-komponen tersebut dihubungkan dan berinteraksi satu sama lain (*linkages between components redesigned*).
 - Inilah hakikat sejati Branch v2.0.0: nilai-nilai tarbiyah, adab santri, dan keilmuan turats (komponen inti) dipertahankan 100%, namun arsitektur hubungannya (struktur direktori, lapisan repositori, siklus hidup dokumen) ditata ulang secara radikal.
 
@@ -233,7 +235,7 @@ Tragedi Ihyaus Sunnah menegaskan prinsip fundamental TUMBUH:
 
 ---
 
-Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis[^13].
+Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis[^11].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -304,7 +306,7 @@ ALUR PROTOKOL TAJDID SYAR'I REPOSITORI TUMBUH
 
  [1. NAQLI GATE]      ──►  [2. MAQASHIDI AUDIT] ──►  [3. USHULI FILTER]
  Verifikasi ketiadaan      Uji perlindungan 5 pokok   Penyelarasan dengan
- benturan nash qath'i.    kemaslahatan dharuriyyah.  kaidah ushul fiqih.
+ benturan nash qath'i.    kemaslahatan dharuriyyah.  kaidah ushul fiqih[^12].
                                                               │
                                                               ▼
  [5. PERPETUAL ISNAD] ◄──  [4. MASYAIKH SYURA]  ──────────────┘
@@ -317,7 +319,7 @@ ALUR PROTOKOL TAJDID SYAR'I REPOSITORI TUMBUH
 2. **Tahap 2: Audit Maqashidi (*Maqashidi Audit Gate*)**: Dewan pakar menguji dampak inovasi terhadap perlindungan lima hal primer (*kulliyyat al-khams*): agama (*din*), jiwa (*nafs*), akal (*'aql*), keturunan/kehormatan (*nasl/irdh*), dan harta (*mal*) santri.
 3. **Tahap 3: Penyaringan Kaidah Ushul (*Ushuli Filter Gate*)**: Menimbang inovasi dengan neraca kaidah ushul: apakah termasuk wasa'il yang maslahat, apakah memenuhi kriteria *dar'ul mafasid*, dan apakah terbebas dari *syubhat bid'ah idhafiyyah*.
 4. **Tahap 4: Musyawarah Majelis Masyaikh (*Masyaikh Syura Gate*)**: Draf monograf dipaparkan di hadapan dewan kiai sepuh untuk memastikan bahwa istilah dan pendekatan baru dapat diterima oleh kultur santri dan tidak memicu fitnah persepsi di pesantren.
-5. **Tahap 5: Pengikatan Sanad Kriptografis (*Perpetual Isnad Gate*)**: Keputusan yang telah lolos verifikasi dikomit ke dalam Branch `v2.0.0` dengan tanda tangan kriptografis, mengikat keputusan tersebut ke dalam silsilah ijtihad yang abadi[^14].
+5. **Tahap 5: Pengikatan Sanad Kriptografis (*Perpetual Isnad Gate*)**: Keputusan yang telah lolos verifikasi dikomit ke dalam Branch `v2.0.0` dengan tanda tangan kriptografis, mengikat keputusan tersebut ke dalam silsilah ijtihad yang abadi[^13].
 
 ---
 
@@ -345,8 +347,8 @@ ALUR PROTOKOL TAJDID SYAR'I REPOSITORI TUMBUH
 │                                                                                        │
 │ 2. DASAR PERTIMBANGAN EPISTEMIK:                                                       │
 │    a. Melaksanakan mandat hadits Rasulullah ﷺ mengenai keniscayaan tajdid peradaban    │
-│       setiap seratus tahun (HR. Abu Dawud no. 4291).                                   │[^15]
-│    b. Menyelaraskan evolusi sistem dengan teori Punctuated Equilibrium (Gould) dan     │
+│       setiap seratus tahun (HR. Abu Dawud no. 4291).                                   │[^14]
+│    b. Menyelaraskan evolusi sistem dengan teori Punctuated Equilibrium (Gould) dan     │[^15]
 │       Inovasi Arsitektural (Henderson & Clark) untuk mencegah kerapuhan repositori.    │
 │    c. Mencegah bencana kezaliman asrama akibat jumudisme sebagaimana terbukti pada     │
 │       studi kasus Pesantren Ihyaus Sunnah.                                             │
@@ -395,18 +397,18 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^2]: As-Suyuthi, J. (1996). *At-Tanbi'ah bi Man Yab'atsuhullah 'ala Ra'si Kulli Mi'ah* (A. A. Al-Muthallibi, Tahqiq; Jilid 1). Maktabah at-Turats al-Islami.
-[^3]: Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (A. M. Syakir, Tahqiq; Jilid 1). Maktabah al-Halabi.
-[^4]: Ad-Dahlawi, S. W. (2005). *Hujjatullah al-Balighah* (M. S. Al-Uwaidzi, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^6]: Asy-Syathibi, I. M. (1992). *Al-I'tisham* (M. R. Ridha, Tahqiq; Jilid 1–2). Dar al-Ma'rifah.
-[^7]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^8]: Al-Hakim An-Naisaburi, M. A. (1990). *Al-Mustadrak 'ala ash-Shahihain* (M. A. 'Atha, Tahqiq; Jilid 4). Dar al-Kutub al-'Ilmiyyah.
-[^9]: Eldredge, N., & Gould, S. J. (1972). *Punctuated equilibria: An alternative to phyletic gradualism*. In T. J. M. Schopf (Ed.), Models in Paleobiology (pp. 82–115). Freeman, Cooper & Co.
-[^10]: Gould, S. J. (2002). *The structure of evolutionary theory*. Harvard University Press.
-[^11]: Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
-[^12]: Henderson, R. M., & Clark, K. B. (1990). *Architectural innovation: The reconfiguration of existing product technologies and the failure of established firms*. Administrative Science Quarterly, 35(1), 9–30.
-[^13]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-[^14]: Al-Albani, M. N. (1995). *Silsilah al-Ahadits ash-Shahihah* (Jilid 2). Maktabah al-Ma'arif.
-[^15]: Abu Dawud, S. A. (2009). *Sunan Abi Dawud* (S. Al-Arnauth, Tahqiq; Jilid 6). Dar ar-Risalah al-'Alamiyyah.
+[^2]: Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (A. M. Syakir, Tahqiq; Jilid 1). Maktabah al-Halabi.
+[^3]: Ad-Dahlawi, S. W. (2005). *Hujjatullah al-Balighah* (M. S. Al-Uwaidzi, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^5]: Asy-Syathibi, I. M. (1992). *Al-I'tisham* (M. R. Ridha, Tahqiq; Jilid 1–2). Dar al-Ma'rifah.
+[^6]: Al-Hakim An-Naisaburi, M. A. (1990). *Al-Mustadrak 'ala ash-Shahihain* (M. A. 'Atha, Tahqiq; Jilid 4). Dar al-Kutub al-'Ilmiyyah.
+[^7]: As-Suyuthi, J. (1996). *At-Tanbi'ah bi Man Yab'atsuhullah 'ala Ra'si Kulli Mi'ah* (A. A. Al-Muthallibi, Tahqiq; Jilid 1). Maktabah at-Turats al-Islami.
+[^8]: Eldredge, N., & Gould, S. J. (1972). *Punctuated equilibria: An alternative to phyletic gradualism*. In T. J. M. Schopf (Ed.), Models in Paleobiology (pp. 82–115). Freeman, Cooper & Co.
+[^9]: Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
+[^10]: Henderson, R. M., & Clark, K. B. (1990). *Architectural innovation: The reconfiguration of existing product technologies and the failure of established firms*. Administrative Science Quarterly, 35(1), 9–30.
+[^11]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+[^12]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^13]: Al-Albani, M. N. (1995). *Silsilah al-Ahadits ash-Shahihah* (Jilid 2). Maktabah al-Ma'arif.
+[^14]: Abu Dawud, S. A. (2009). *Sunan Abi Dawud* (S. Al-Arnauth, Tahqiq; Jilid 6). Dar ar-Risalah al-'Alamiyyah.
+[^15]: Gould, S. J. (2002). *The structure of evolutionary theory*. Harvard University Press.
 [^16]: Rogers, E. M. (2003). *Diffusion of innovations* (5th ed.). Free Press.

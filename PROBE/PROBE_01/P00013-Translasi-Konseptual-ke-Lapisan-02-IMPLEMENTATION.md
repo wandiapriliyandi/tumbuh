@@ -105,7 +105,17 @@ Kaidah ushuliyyah yang dirumuskan para fuqaha:
 Pesantren salafiyah di pedesaan memiliki infrastruktur yang berbeda dengan pesantren modern di perkotaan; lapisan `02_IMPLEMENTATION` memberikan ruang bagi penyesuaian institusional (*institutional customization*) tanpa mencederai prinsip dasar di `01_FUNDAMENTAL`.
 
 ---
-Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Syaikhul Islam Ibnu Taimiyyah dalam *Dar'u Ta'arudh al-'Aql wan-Naql* menegaskan bahwa dalil syar'i yang shahih dan akal sehat yang murni tidak akan pernah bertentangan, sehingga pembaharuan sistem wajib menjaga keotentikan naqliyyah sekaligus ketepatan aqliyyah. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^3][^4][^5][^6][^7][^8].
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Syaikhul Islam Ibnu Taimiyyah dalam *Dar'u Ta'arudh al-'Aql wan-Naql* menegaskan bahwa dalil syar'i yang shahih dan akal sehat yang murni tidak akan pernah bertentangan, sehingga pembaharuan sistem wajib menjaga keotentikan naqliyyah sekaligus ketepatan aqliyyah. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^3].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Qarafi dalam *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Mawardi dalam *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Syaikhul Islam Ibnu Taimiyyah dalam *Dar'u Ta'arudh al-'Aql wan-Naql* menegaskan bahwa dalil syar'i yang shahih dan akal sehat yang murni tidak akan pernah bertentangan, sehingga pembaharuan sistem wajib menjaga keotentikan naqliyyah sekaligus ketepatan aqliyyah[^8].
 
 
 ## 4. Tinjauan Pustaka II: Rekayasa Sistem, Hexagonal Architecture, & Enterprise Translation
@@ -400,11 +410,11 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^1]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 1 & 4). Dar al-Jil.
 [^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 4). Dar al-Kutub al-'Ilmiyyah.
 [^3]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^4]: Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (A. M. Al-Jazzar, Tahqiq; Jilid 28). Majma' al-Malik Fahd.
-[^5]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^4]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
 [^6]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^7]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^8]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^7]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^8]: Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (A. M. Al-Jazzar, Tahqiq; Jilid 28). Majma' al-Malik Fahd.
 [^9]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley Professional.
 [^10]: Cockburn, A. (2005). *Hexagonal architecture: Ports and adapters*. Alistair Cockburn Pattern Series.
 [^11]: Kahn, R. L., Wolfe, D. M., Quinn, R. P., Snoek, J. D., & Rosenthal, R. A. (1964). *Organizational stress: Studies in role conflict and ambiguity*. John Wiley & Sons.

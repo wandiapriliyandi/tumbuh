@@ -67,7 +67,7 @@ DIALEKTIKA TURATS: RANTAI TRANSMISI HUKUM DARI NUKILAN HINGGA AMAL
   2. AD-DHABTH WAL-MUQABALAH (Verifikasi)    ──► Menguji naskah dan mengkritik perawi (Jarh wa Ta'dil).
           │
           ▼
-  3. AD-DIRAYAH WAL-ISTINBATH (Penalaran)    ──► Menyelidiki 'illat dan konteks dalil (Ushul Fiqh)[^1][^2].
+  3. AD-DIRAYAH WAL-ISTINBATH (Penalaran)    ──► Menyelidiki 'illat dan konteks dalil (Ushul Fiqh)[^1].
           │
           ▼
   4. AT-TASHDĪQ WAL-FATWA (Ketetapan Hukum)  ──► Mengeluarkan fatwa resmi yang mengikat (Qadha).
@@ -77,11 +77,11 @@ DIALEKTIKA TURATS: RANTAI TRANSMISI HUKUM DARI NUKILAN HINGGA AMAL
 ```
 
 ### 3.1. Rantai Tahammul wa Ada' menurut Al-Khatib Al-Baghdadi
-Al-Hafizh Abu Bakar Ahmad bin Ali Al-Khatib Al-Baghdadi dalam *Al-Kifayah fi 'Ilm ar-Riwayah* (hlm. 18–32) menetapkan bahwa sebuah informasi mentah (*khabar*) tidak boleh diamalkan sebelum melalui lima mata rantai verifikasi:[^3]
+Al-Hafizh Abu Bakar Ahmad bin Ali Al-Khatib Al-Baghdadi dalam *Al-Kifayah fi 'Ilm ar-Riwayah* (hlm. 18–32) menetapkan bahwa sebuah informasi mentah (*khabar*) tidak boleh diamalkan sebelum melalui lima mata rantai verifikasi:[^2]
 1. *Shihhat as-Sanad*: Pemeriksaan ketersambungan rantai pembawa informasi tanpa ada yang terputus.
 2. *'Adalat ar-Ruwat*: Pengujian integritas moral dan ketiadaan motif fasik pada pembawa kabar.
 3. *Dhabth ar-Ruwat*: Pengujian ketelitian ingatan dan keakuratan catatan pembawa kabar.
-4. *'Adam asy-Syudzudz*: Memastikan kabar tersebut tidak bertentangan dengan dalil-dalil yang lebih shahih dan kuat[^4].
+4. *'Adam asy-Syudzudz*: Memastikan kabar tersebut tidak bertentangan dengan dalil-dalil yang lebih shahih dan kuat[^3].
 5. *'Adam al-'Illah al-Qadihah*: Memastikan tidak ada cacat tersembunyi yang merusak kredibilitas naskah.
 
 Dalam repositori TUMBUH, bahan mentah di folder `source/` adalah khabar yang belum teruji; ia dilarang keras langsung dijadikan dasar tindakan sebelum melalui uji 'illat di folder `PROBE/` dan `08_SOURCES_AND_EVIDENCE/`.
@@ -95,7 +95,7 @@ Kaidah mantik dan ushuliyyah yang masyhur:
 Seseorang diharamkan mengeluarkan regulasi atau sanksi terhadap santri sebelum ia memiliki *tashawwur* (gambaran komprehensif, data faktual, dan penyelidikan objektif) mengenai akar masalah yang terjadi. Tindakan musyrif yang menghukum tanpa *tashawwur* adalah kezaliman jahiliyah yang diharamkan syariat.
 
 ### 3.3. Adab Penetapan Keputusan menurut Al-Qadhi 'Iyadh
-Al-Qadhi Abu al-Fadhl 'Iyadh bin Musa Al-Yahshubi dalam *Al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (hlm. 72–79) menjelaskan bahwa seorang hakim atau mufti dilarang memutuskan perkara dalam keadaan marah, terburu-buru, atau hanya mendengarkan pengaduan dari satu pihak:[^5]
+Al-Qadhi Abu al-Fadhl 'Iyadh bin Musa Al-Yahshubi dalam *Al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (hlm. 72–79) menjelaskan bahwa seorang hakim atau mufti dilarang memutuskan perkara dalam keadaan marah, terburu-buru, atau hanya mendengarkan pengaduan dari satu pihak:[^4]
 > لَا يَقْضِيَنَّ حَاكِمٌ بَيْنَ اثْنَيْنِ وَهُوَ غَضْبَانُ، وَلَا يَقْضِي حَتَّى يَسْمَعَ مِنَ الآخَرِ كَمَا سَمِعَ مِنَ الأَوَّلِ
 > 
 > *"Janganlah sekali-kali seorang hakim memutuskan perkara antara dua orang dalam keadaan marah; dan janganlah ia memutuskan perkara sampai ia mendengar keterangan pihak kedua sebagaimana ia telah mendengar keterangan pihak pertama."*
@@ -103,7 +103,13 @@ Al-Qadhi Abu al-Fadhl 'Iyadh bin Musa Al-Yahshubi dalam *Al-Ilma' ila Ma'rifat U
 Alur epistemik repositori TUMBUH adalah penerjemahan digital dari adab peradilan Islam ini: ia memaksa setiap pengambil keputusan untuk menempuh tahapan penyelidikan yang tenang, adil, dan objektif.
 
 ---
-Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^6][^7][^8].
+Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^5].
+
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Yahshubi dalam *Al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, DIKW Hierarchy, & Traceability
@@ -114,9 +120,9 @@ Dalam sains sistem informasi dan manajemen pengetahuan modern, transformasi data
 DIAGRAM TEORI SISTEM: PIRAMIDA DIKW DAN PEMETAAN ALUR REPOSITORI TUMBUH
 
                 /\
-               /  \     WISDOM (Hikmah Kebijaksanaan)   ──► 01_FUNDAMENTAL & PRAKTIK[^9][^10]
+               /  \     WISDOM (Hikmah Kebijaksanaan)   ──► 01_FUNDAMENTAL & PRAKTIK[^9]
               /    \
-             /------\   KNOWLEDGE (Pengetahuan Teruji)  ──► 02_IMPL & 03_OPERATIONAL[^11]
+             /------\   KNOWLEDGE (Pengetahuan Teruji)  ──► 02_IMPL & 03_OPERATIONAL[^10]
             /        \
            /----------\ INFORMATION (Data Berkonteks)   ──► PROBE & EVIDENCE
           /            \
@@ -128,7 +134,7 @@ Russell Ackoff (1989) memodelkan tingkatan kognitif sistem pengetahuan:
 1. **Data**: Fakta mentah tanpa konteks (misal: rekaman CCTV, log presensi mentah). Belum memiliki arti.
 2. **Information**: Data yang telah diproses, diberi label, dan dianalisis hubungannya (*who, what, where, when*).
 3. **Knowledge**: Informasi yang diintegrasikan dengan kaidah pemahaman (*know-how*) dan pengalaman empiris.
-4. **Wisdom**: Pengetahuan yang diuji dengan nilai-nilai moral, etika, dan tujuan jangka panjang (*know-why*).
+4. **Wisdom**: Pengetahuan yang diuji dengan nilai-nilai moral, etika, dan tujuan jangka panjang (*know-why*)[^11].
 
 Di repositori TUMBUH:
 - Folder `source/` berada di level Data.
@@ -397,16 +403,16 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
-[^3]: Al-Baghdadi, A. A. K. (1988). *Al-Kifayah fi 'Ilm ar-Riwayah* (A. A. Al-Muthallibi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^4]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^5]: Al-Yahshubi, 'I. M. (1978). *Al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (A. Saqr, Tahqiq; Jilid 1). Dar at-Turats.
-[^6]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^2]: Al-Baghdadi, A. A. K. (1988). *Al-Kifayah fi 'Ilm ar-Riwayah* (A. A. Al-Muthallibi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^3]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^4]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^6]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
 [^7]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^8]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^8]: Al-Yahshubi, 'I. M. (1978). *Al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (A. Saqr, Tahqiq; Jilid 1). Dar at-Turats.
 [^9]: Ackoff, R. L. (1989). *From data to wisdom*. Journal of Applied Systems Analysis, 16(1), 3–9.
-[^10]: Rowley, J. (2007). *The wisdom hierarchy: Representations of the DIKW hierarchy*. Journal of Information Science, 33(2), 163–180.
-[^11]: Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
+[^10]: Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
+[^11]: Rowley, J. (2007). *The wisdom hierarchy: Representations of the DIKW hierarchy*. Journal of Information Science, 33(2), 163–180.
 [^12]: Womack, J. P., & Jones, D. T. (1996). *Lean thinking: Banish waste and create wealth in your corporation*. Simon & Schuster.
 [^13]: Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and systems traceability*. Springer Science & Business Media.
 [^14]: Davenport, T. H., & Prusak, L. (1998). *Working knowledge: How organizations manage what they know*. Harvard Business School Press.

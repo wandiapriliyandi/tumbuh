@@ -66,7 +66,7 @@ DIALEKTIKA TURATS: PRINSIP PENETAPAN HUKUM ATAS KEBIASAAN LAMA
   ┌───────────────────────────────────────┐         ┌───────────────────────────────────────┐
   │ Dipertahankan & Diintegrasikan        │         │ Wajib Dibatalkan & Dihapuskan         │
   │ Kaidah: Al-'Adah Muhakkamah           │         │ Kaidah: Al-'Adah at-Tu'athiru fil-    │
-  │ (Tradisi baik diakui sebagai hukum)   │         │ Fasad Wajibatu az-Zawal (Asy-Syathibi)│[^2][^3]
+  │ (Tradisi baik diakui sebagai hukum)   │         │ Fasad Wajibatu az-Zawal (Asy-Syathibi)│[^2]
   └───────────────────────────────────────┘         └───────────────────────────────────────┘
                      │                                                 │
                      ▼                                                 ▼
@@ -83,7 +83,7 @@ Kaidah fiqhiyyah universal yang disepakati seluruh madzhab:
 Ketika mempertahankan format lama mendatangkan kenyamanan administratif (maslahat parsial), namun di sisi lain melanggengkan kekaburan hukuman fisik santri dan merusak kejelasan sistem (mafsadat sistemik), maka syariat mewajibkan pemutusan format lama tersebut demi menutup pintu kerusakan (*saddu adz-dzara'i'*).
 
 ### 3.2. Doktrin Ibthal al-'Adat al-Fasidah menurut Imam Asy-Syathibi
-Dalam *Al-I'tisham* (Jilid 2, hlm. 115–128), Imam Asy-Syathibi menganalisis hukum tradisi dan format peribadatan/muamalah:
+Dalam *Al-I'tisham* (Jilid 2, hlm. 115–128), Imam Asy-Syathibi menganalisis hukum tradisi dan format peribadatan/muamalah:[^3]
 - Tradisi terbagi menjadi *al-'adah ash-shalihah* (tradisi yang selaras dengan dalil dan maqashid) dan *al-'adah al-fasidah* (tradisi yang bertentangan dengan tujuan syariat atau melahirkan mafsadat laten).
 - Terhadap tradisi yang fasid, syariat tidak pernah berkompromi dengan cara "kompatibilitas sinkretis". Rasulullah ﷺ secara tegas merombak tradisi adopsi anak jahiliyah (*tabanni*), praktik riba terselubung, dan peradilan balas dendam kesukuan.
 - Keterikatan psikologis umat terhadap tradisi lama tidak boleh dijadikan alasan untuk menunda pembatalan format yang merusak akidah atau akhlak.
@@ -107,7 +107,13 @@ Imam Ibnu Hajar Al-'Asqalani dalam *Nukhbat al-Fikar* dan disyarah dalam *Nuzhat
 Namun bila istilah lama menimbulkan percampuran makna (*talbis*) yang fatal, maka perombakan istilah menjadi kewajiban fardhu kifayah bagi para muallif.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6][^7][^8][^9].
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Qarafi dalam *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Software Architecture, & SemVer
@@ -124,7 +130,7 @@ DIAGRAM TEORI SISTEM: SIKLUS UTANG TEKNIS DAN STRANGLER FIG
   └─────────────────────────────────────────────────────────────────┘
                                    │
                                    ▼ SOLUSI KANONIK
-              POLA STRANGLER FIG (MARTIN FOWLER, 2004)[^10][^11]
+              POLA STRANGLER FIG (MARTIN FOWLER, 2004)[^10]
   ┌─────────────────────────────────────────────────────────────────┐
   │ 1. Sistem Baru V2 Dibangun Paralel di Luar Struktur Lama        │
   │ 2. Fungsionalitas Dialihkan Bertahap dari V1 ke V2              │
@@ -133,12 +139,12 @@ DIAGRAM TEORI SISTEM: SIKLUS UTANG TEKNIS DAN STRANGLER FIG
 ```
 
 ### 4.1. Teori Utang Teknis (*Technical Debt Theory*) Ward Cunningham
-Ward Cunningham (1992) merumuskan konsep utang teknis: setiap kali pengembang mengambil jalan pintas kompromistis demi kenyamanan jangka pendek (seperti mempertahankan struktur folder lama yang berantakan), ia sedang menarik pinjaman utang teknis[^12].
+Ward Cunningham (1992) merumuskan konsep utang teknis: setiap kali pengembang mengambil jalan pintas kompromistis demi kenyamanan jangka pendek (seperti mempertahankan struktur folder lama yang berantakan), ia sedang menarik pinjaman utang teknis[^11].
 - Seiring berjalannya waktu, bunga utang tersebut (*interest*) harus dibayar dalam bentuk bertambahnya waktu untuk memahami dokumen, tingginya tingkat kesalahan, dan sulitnya menambah modul baru.
 - Jika pokok utang (*principal*) tidak pernah dilunasi melalui *refactoring* radikal (*breaking changes*), bunga utang akan menelan seluruh produktivitas organisasi hingga sistem bangkrut total.
 
 ### 4.2. Pola Pencekikan Arsitektur (*Strangler Fig Pattern*) Martin Fowler
-Martin Fowler (2004) memperkenalkan metafora pohon ara pencekik (*Strangler Fig*) dari hutan hujan Australia: biji pohon ara jatuh di dahan pohon inang tua, tumbuh melingkari batangnya secara perlahan, dan akhirnya menggantikan seluruh pohon inang yang telah lapuk.
+Martin Fowler (2004) memperkenalkan metafora pohon ara pencekik (*Strangler Fig*) dari hutan hujan Australia: biji pohon ara jatuh di dahan pohon inang tua, tumbuh melingkari batangnya secara perlahan, dan akhirnya menggantikan seluruh pohon inang yang telah lapuk[^12].
 - Dalam migrasi repositori TUMBUH, Branch `v2.0.0` berperan sebagai pohon ara pencekik: ia hidup berdampingan secara paralel dengan rilis lama, menyerap seluruh fungsi substantif ke dalam struktur 13 bagian jurnal riset, lalu mematikan (*strangle*) seluruh tata letak folder lama secara bersih.
 
 ### 4.3. Semantik Penomoran Versi (*Semantic Versioning - SemVer 2.0.0*)
@@ -401,12 +407,12 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^4]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
 [^5]: Ibnu Hajar Al-'Asqalani, A. A. (2000). *Nuzhat an-Nazhar fi Tawdhih Nukhbat al-Fikar fi Musthalah Ahl al-Atsar* (N. 'Itr, Tahqiq; Jilid 1). Matba'ah as-Sabah.
 [^6]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^7]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^7]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
 [^8]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^9]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^9]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
 [^10]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-[^11]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
-[^12]: Cunningham, W. (1992). *The WyCash portfolio management system*. ACM SIGPLAN OOPS Messenger, 4(2), 29–30.
+[^11]: Cunningham, W. (1992). *The WyCash portfolio management system*. ACM SIGPLAN OOPS Messenger, 4(2), 29–30.
+[^12]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
 [^13]: Preston-Werner, T. (2013). *Semantic versioning 2.0.0*. Creative Commons Specification.
 [^14]: Foote, B., & Yoder, J. (1997). *Big ball of mud*. Pattern Languages of Program Design 4, 654–692.
 [^15]: Seemann, M. (2021). *Code that fits in your head: Heuristics for software engineering*. Addison-Wesley Professional.

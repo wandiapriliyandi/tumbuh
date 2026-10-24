@@ -65,7 +65,7 @@ Imam Jalaluddin as-Suyuthi dalam *al-Itqan fi 'Ulum al-Qur'an* (Jilid 2, hlm. 70
 
 > *"Tidak halal bagi siapa pun untuk menafsirkan Kitabullah sampai ia mengetahui mana yang nasikh dan mana yang mansukh. Dan tidak akan sempurna pengetahuan mengenai hukum yang baru (an-nasikh) kecuali dengan menghafal dan memelihara teks lama yang dimansukh, mengetahui konteks lokusnya, serta tarikh masa turunnya. Maka lestarinya teks mansukh adalah barometer bagi kebenaran pemahaman terhadap hukum baru."* (As-Suyuthi, *al-Itqan*, Tahqiq Markaz al-Dirasat al-Qur'aniyyah, Madinah, 2005).
 
-Lebih jauh lagi, dalam tradisi *'Ilm al-Jarh wa at-Ta'dil* dan kodifikasi rijalul hadits, para ahli hadits seperti Al-Imam al-Bukhari dalam *at-Tarikh al-Kabir* dan Al-Hafizh Ibnu Hajar al-Asqalani dalam *Tahdzib at-Tahdzib* mencatat secara utuh nama-nama perawi yang lemah (*adh-dhu'afa'*), perawi yang ditinggalkan (*al-matrukin*), dan riwayat-riwayat yang mungkar. Al-Hafizh Ibnu Hajar menjelaskan alasan mengapa riwayat yang tidak diamalkan tetap wajib dibukukan dalam museum sanad:[^4][^5]
+Lebih jauh lagi, dalam tradisi *'Ilm al-Jarh wa at-Ta'dil* dan kodifikasi rijalul hadits, para ahli hadits seperti Al-Imam al-Bukhari dalam *at-Tarikh al-Kabir* dan Al-Hafizh Ibnu Hajar al-Asqalani dalam *Tahdzib at-Tahdzib* mencatat secara utuh nama-nama perawi yang lemah (*adh-dhu'afa'*), perawi yang ditinggalkan (*al-matrukin*), dan riwayat-riwayat yang mungkar. Al-Hafizh Ibnu Hajar menjelaskan alasan mengapa riwayat yang tidak diamalkan tetap wajib dibukukan dalam museum sanad:[^4]
 
 ```text
 وَإِنَّمَا صَنَّفَ الْأَئِمَّةُ فِي الرُّوَاةِ الضُّعَفَاءِ وَالْمَتْرُوكِينَ لِئَلَّا يَشْتَبِهَ الصَّحِيحُ بِالسَّقِيمِ، فَلَوْ حُذِفَ ذِكْرُهُمْ لَظَنَّ الْجَاهِلُ أَنَّ السَّاقِطَ غَيْرُ مَوْجُودٍ أَوْ أَنَّهُ مَقْبُولٌ لِعَدَمِ الطَّعْنِ، فَكَانَ حِفْظُ الْمَرْجُوحِ صِيَانَةً لِلرَّاجِحِ
@@ -76,15 +76,17 @@ Lebih jauh lagi, dalam tradisi *'Ilm al-Jarh wa at-Ta'dil* dan kodifikasi rijalu
 Dalam peradaban pesantren, santri dan ustadz diajarkan sanad keilmuan (*musalsalat*). Kitab-kitab turats tidak pernah membakar catatan lama para ulama terdahulu; mereka mencatatnya dalam *hamisy* (catatan pinggir) atau bab khusus ikhtilaf. Direktori `99_ARCHIVE/` adalah perwujudan digital dari prinsip *Hifzh al-Mansukh wa Ri'ayat as-Silsilah* (memelihara teks yang telah digantikan demi menjaga kemurnian silsilah sejarah).
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Hajar al-Asqalani dalam *Tahdzib at-tahdzib*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
+
 
 ## 4. Landasan Ilmiah Kontemporer: OAIS ISO 14721 & Software Tombstoning
 
 Kajian manajemen rekam jejak digital (*Digital Records Management*) dan rekayasa perangkat lunak modern menempatkan preservasi arsip sebagai komponen penting dari integritas sistem[^6].
 
 ### 4.1. Model Referensi OAIS (ISO 14721)
-Standar internasional kearsipan digital *Open Archival Information System* (OAIS - ISO 14721:2012) mendefinisikan sistem pengarsipan yang andal melalui siklus penanganan informasi:[^7][^8]
+Standar internasional kearsipan digital *Open Archival Information System* (OAIS - ISO 14721:2012) mendefinisikan sistem pengarsipan yang andal melalui siklus penanganan informasi:[^7]
 1. **Ingest**: Proses penerimaan dokumen yang telah selesai masa edarnya dari lingkungan operasional aktif.
-2. **Archival Storage**: Penyimpanan dalam format berkas abadi (*Open Formats* seperti Markdown/Plain Text) yang tidak bergantung pada perangkat lunak komersial tertentu.
+2. **Archival Storage**: Penyimpanan dalam format berkas abadi (*Open Formats* seperti Markdown/Plain Text) yang tidak bergantung pada perangkat lunak komersial tertentu[^8].
 3. **Data Management & Preservation**: Pembuatan paket metadata deskriptif (*Archival Information Package / AIP*) yang mencatat: Siapa pembuat aslinya, tanggal pensiun, alasan pemindahan, dan dokumen apa yang menggantikannya (*superseded-by link*).
 4. **Access**: Penyediaan akses baca (*read-only*) bagi komunitas pengguna untuk tujuan audit, riset sejarah, dan akreditasi kelembagaan.
 

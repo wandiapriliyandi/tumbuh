@@ -68,7 +68,13 @@ Abu Nashr al-Farabi (w. 339 H) dalam mahakarya metodologisnya *Ihsha' al-'Ulum* 
 Kaidah epistemik para begawan turats ini menjadi landasan ontologis yang kokoh bagi perumusan **Sembilan Domain Filosofis TUMBUH**. Setiap domain memiliki batas kajian (*maudhu'*), tujuan operasional (*ghayah*), dan ketergantungan mutlak pada domain sebelumnya.
 
 ---
-Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Asy-Syatibi dalam *Al-Muwafaqat fi ushul asy-syari'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5][^6][^7][^8].
+Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Asy-Syatibi dalam *Al-Muwafaqat fi ushul asy-syari'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
+
+Landasan epistemik ini diperkuat oleh pemikiran Asy-Syatibi dalam *Al-Muwafaqat fi ushul asy-syari'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
 
 
 ## 4. Landasan Ilmiah Kontemporer: Directed Acyclic Graph (DAG) & Cognitive Hierarchy
@@ -376,9 +382,9 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^3]: Al-Ghazali, A. H. (1988). *Ar-Risalah al-ladunniyyah fi ma'rifat al-haqiqah* (M. Basyir, Ed.). Dar al-Kutub al-'Ilmiyyah.
 [^4]: Al-Farabi, A. N. (1949). *Ihsha' al-'ulum* (U. Amin, Ed.). Dar al-Fikr al-'Arabi.
 [^5]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (M. as-Saqqa, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^6]: Asy-Syatibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. U. Darraz, Ed., Jilid 2). Dar al-Ma'rifah.
+[^6]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
 [^7]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
-[^8]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^8]: Asy-Syatibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. U. Darraz, Ed., Jilid 2). Dar al-Ma'rifah.
 [^9]: Jaques, E. (1989). *Creativity and work*. International Universities Press.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH

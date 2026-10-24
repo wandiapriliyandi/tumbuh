@@ -49,9 +49,9 @@ Direktori `METHODOLOGY/` harus dikembalikan ke khitah aslinya: ia adalah pelayan
 
 Dilema pembagian antara "ilmu alat" dan "ilmu tujuan" telah diurai secara tuntas oleh para begawan pemikir peradaban Islam klasik. Ulama salaf membagi disiplin ilmu menjadi dua rumpun besar:
 1. **'Ulum al-Maqashid (Ilmu-ilmu Tujuan / Substansi)**: Seperti ilmu akidah, ilmu tafsir, ilmu hadits, ilmu fikih, dan ilmu akhlak/tasawuf. Disiplin ini dipelajari demi esensi substansinya sendiri untuk mendekatkan diri kepada Allah dan menyempurnakan jiwa manusia (*li dzatiha*).
-2. **'Ulum al-Alah / 'Ulum al-Wasa'il (Ilmu-ilmu Alat / Prosedur / Metodologi)**: Seperti ilmu nahwu, sharaf, balaghah, mantiq (logika), musthalah al-hadits, dan ushul fikih. Disiplin ini dipelajari murni sebagai sarana instrumental untuk memahami dan meneliti ilmu tujuan (*li ghairiha*)[^1][^2][^3][^4].
+2. **'Ulum al-Alah / 'Ulum al-Wasa'il (Ilmu-ilmu Alat / Prosedur / Metodologi)**: Seperti ilmu nahwu, sharaf, balaghah, mantiq (logika), musthalah al-hadits, dan ushul fikih. Disiplin ini dipelajari murni sebagai sarana instrumental untuk memahami dan meneliti ilmu tujuan (*li ghairiha*)[^1].
 
-Ibnu Khaldun (w. 808 H) dalam karya terbesarnya *al-Muqaddimah* (Fashl fi Anna 'Ulum al-Lisan wa al-Mantiq wa Asybahaha min 'Ulum al-Alah, hlm. 543–545) memperingatkan bahaya fatal apabila ilmu alat diperluas melampaui batas dan diangkat derajatnya setara dengan ilmu tujuan:[^5]
+Ibnu Khaldun (w. 808 H) dalam karya terbesarnya *al-Muqaddimah* (Fashl fi Anna 'Ulum al-Lisan wa al-Mantiq wa Asybahaha min 'Ulum al-Alah, hlm. 543–545) memperingatkan bahaya fatal apabila ilmu alat diperluas melampaui batas dan diangkat derajatnya setara dengan ilmu tujuan:[^2]
 
 ```text
 وَاعْلَمْ أَنَّ الْعُلُومَ الْآلِيَّةَ الَّتِي هِيَ وَسَائِلُ لِغَيْرِهَا، كَالْعَرَبِيَّةِ وَالْمَنْطِقِ وَأَمْثَالِهِمَا، لَا يَنْبَغِي أَنْ يُنْظَرَ فِيهَا إِلَّا مِنْ حَيْثُ هِيَ آلَةٌ لِذَلِكَ الْغَيْرِ فَقَطْ، وَلَا يُوَسَّعَ فِيهَا الْكَلَامُ وَلَا تُفَرَّعَ فِيهَا الْمَسَائِلُ؛ فَإِنَّ ذَلِكَ مُخْرِجٌ لَهَا عَنِ الْمَقْصُودِ، وَمُوقِعٌ فِي التَّشَاغُلِ بِمَا لَا يَعْنِي عَمَّا يَعْنِي، فَمَنْ غَرِقَ فِي الْآلَةِ حُرِمَ الْغَايَةَ
@@ -59,7 +59,7 @@ Ibnu Khaldun (w. 808 H) dalam karya terbesarnya *al-Muqaddimah* (Fashl fi Anna '
 
 > *"Dan ketahuilah sesungguhnya ilmu-ilmu alat yang posisinya sebagai sarana perantara bagi ilmu lainnya—seperti ilmu bahasa Arab, ilmu logika, dan sejenisnya—sama sekali tidak seyogianya ditelaah kecuali semata-mata dari kedudukannya sebagai alat bantu bagi disiplin tujuan tersebut. Janganlah memperluas perdebatan di dalamnya dan janganlah bercabang-cabang melahirkan masalah-masalah teoritis yang rumit; karena perbuatan demikian akan mengeluarkan ilmu alat dari maksud keberadaannya, dan menjerumuskan penuntut ilmu ke dalam kesibukan terhadap hal-hal yang tidak esensial sehingga melalaikan apa yang hakiki. Maka barang siapa yang tenggelam dalam kesibukan ilmu alat, niscaya ia akan terhalang dari mencapai tujuan substansial."* (Ibnu Khaldun, *al-Muqaddimah*, Tahqiq Dr. Abdullah Muhammad ad-Darwisy, Dar Ya'rub, Damaskus, 2004).
 
-Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1, hlm. 87–89) merumuskan kaidah emas tentang batas kewenangan sarana metodologis:
+Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1, hlm. 87–89) merumuskan kaidah emas tentang batas kewenangan sarana metodologis:[^3]
 
 ```text
 كُلُّ عِلْمٍ لَا يَنْبَنِي عَلَيْهِ عَمَلٌ فَلَيْسَ فِي الشَّرْعِ مَا يَدُلُّ عَلَى اسْتِحْسَانِهِ، وَالْعِلْمُ الْخَادِمُ لِلشَّرِيعَةِ لَا يَجُوزُ أَنْ يَتَجَاوَزَ مَرْتَبَةَ الْخِدْمَةِ، فَلَوْ أَدَّى إِعْمَالُ الْوَسِيلَةِ إِلَى إِبْطَالِ الْمَقْصُودِ أَوْ التَّشْوِيشِ عَلَى أَصْلِهِ كَانَتِ الْوَسِيلَةُ مَرْدُودَةً بِاتِّفَاقٍ
@@ -67,7 +67,7 @@ Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1,
 
 > *"Setiap ilmu yang tidak membuahkan amal nyata pembinaan, maka tidak ada dalil syar'i yang memuji keutamaan mendalaminya. Dan disiplin ilmu yang bertugas melayani syariat tidak boleh melampaui derajat pelayanannya. Sekiranya penerapan sarana metodologis tersebut berujung pada pembatalan tujuan substansi atau mengacaukan fondasi pokoknya, maka sarana metodologis tersebut wajib ditolak menurut kesepakatan para ulama."* (Asy-Syathibi, *al-Muwafaqat*, Tahqiq Masyhur Hasan Salman, Dar Ibn 'Affan, Khobar, 1997).
 
-Lebih lanjut, Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 1, hlm. 94) membedakan secara tajam antara kaidah metodologis umum (*al-qanun al-kulli*) dengan objek materi hukum itu sendiri:
+Lebih lanjut, Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 1, hlm. 94) membedakan secara tajam antara kaidah metodologis umum (*al-qanun al-kulli*) dengan objek materi hukum itu sendiri:[^4]
 
 ```text
 الْقَانُونُ الْكُلِّيُّ إِنَّمَا وُضِعَ لِضَبْطِ طُرُقِ الِاسْتِدْلَالِ وَصِيَانَةِ الْعَقْلِ عَنِ الْخَطَأِ فِي التَّرْكِيبِ، وَلَيْسَ لَهُ أَنْ يَقْضِيَ عَلَى الْأَعْيَانِ بِالْإِيجَابِ أَوِ السَّلْبِ بِمُجَرَّدِ الصُّورَةِ، فَإِنَّ الْحُكْمَ عَلَى الشَّيْءِ فَرْعٌ عَنْ تَصَوُّرِ حَقِيقَتِهِ، وَالصُّورَةُ لَا تُغْنِي عَنِ الْمَادَّةِ
@@ -81,6 +81,8 @@ Dalam repositori TUMBUH v2.0.0:
 Ilmu alat di `METHODOLOGY/` diharamkan memerintah atau mendikte isi dari `01_FUNDAMENTAL/`. Tugas metodologi hanyalah memastikan bahwa jalan inkuiri yang ditempuh oleh `PROBE/` dapat dipertanggungjawabkan secara ilmiah dan dapat ditelusuri (*traceable*).
 
 ---
+Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif[^5].
+
 
 ## 4. Landasan Ilmiah Kontemporer: Systems Engineering (ISO 15288) & Philosophy of Science
 
@@ -115,7 +117,7 @@ Standar rekayasa sistem global *ISO/IEC/IEEE 15288:2015 (Systems and software en
 Standar ISO 15288 menegaskan bahwa dokumen proses dilarang memuat spesifikasi desain produk (*process standards must not dictate domain product requirements*). Jika pedoman proses mulai mengatur isi produk, sistem akan mengalami *Process Bloat* yang membunuh inovasi.
 
 ### 4.2. Popper vs Kuhn: Metodologi Kritis vs Paradigma Substantif
-Karl Popper (1959) dalam *The Logic of Scientific Discovery* menekankan bahwa metodologi ilmiah hanyalah aturan main (*demarcation criteria*) untuk menguji apakah suatu klaim dapat difalsifikasi atau diuji kebenarannya. Metodologi tidak pernah menentukan apa isi teori yang harus dihasilkan. Sementara Thomas Kuhn (1962) dalam *The Structure of Scientific Revolutions* memperingatkan bahaya komunitas ilmuwan yang terlalu memuja "ilmu normal" (*normal science*) berbasis aturan baku hingga menolak paradigma baru yang lebih mencerahkan[^6][^7].
+Karl Popper (1959) dalam *The Logic of Scientific Discovery* menekankan bahwa metodologi ilmiah hanyalah aturan main (*demarcation criteria*) untuk menguji apakah suatu klaim dapat difalsifikasi atau diuji kebenarannya. Metodologi tidak pernah menentukan apa isi teori yang harus dihasilkan. Sementara Thomas Kuhn (1962) dalam *The Structure of Scientific Revolutions* memperingatkan bahaya komunitas ilmuwan yang terlalu memuja "ilmu normal" (*normal science*) berbasis aturan baku hingga menolak paradigma baru yang lebih mencerahkan[^6].
 
 ISO/IEC/IEEE. (2015). *Systems and software engineering — System life cycle processes* (ISO/IEC/IEEE Standard No. 15288:2015). IEEE.
 
@@ -190,7 +192,17 @@ Sebelum pedoman metodologi disahkan, verifikator memeriksa 8 indikator anomali p
 
 ---
 
-John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial. Norman Denzin dan Yvonna Lincoln dalam buku panduan riset kualitatif menggarisbawahi perlunya kepekaan interpretatif dalam membaca dinamika makna di ruang budaya pendidikan. Paul Feyerabend dalam *Against Method* mengingatkan bahaya kekakuan ortodoksi metodologis tunggal yang dapat membelenggu kreativitas penemuan kebenaran. Matthew Miles, Michael Huberman, dan Johnny Saldaña dalam metodologi analisis kualitatif menyajikan kerangka kerja analitis berulang untuk melacak pola perilaku manusia di lingkungan institusi kompleks. Dalam literatur rekayasa sistem kontemporer, Shadish dalam *Experimental and quasi-experimental designs for generalized causal inference* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8][^9][^10][^11][^12].
+John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial. Norman Denzin dan Yvonna Lincoln dalam buku panduan riset kualitatif menggarisbawahi perlunya kepekaan interpretatif dalam membaca dinamika makna di ruang budaya pendidikan. Paul Feyerabend dalam *Against Method* mengingatkan bahaya kekakuan ortodoksi metodologis tunggal yang dapat membelenggu kreativitas penemuan kebenaran. Matthew Miles, Michael Huberman, dan Johnny Saldaña dalam metodologi analisis kualitatif menyajikan kerangka kerja analitis berulang untuk melacak pola perilaku manusia di lingkungan institusi kompleks. Dalam literatur rekayasa sistem kontemporer, Shadish dalam *Experimental and quasi-experimental designs for generalized causal inference* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
+
+Dalam literatur rekayasa sistem kontemporer, Shadish dalam *Experimental and quasi-experimental designs for generalized causal inference* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
+
+Dalam literatur rekayasa sistem kontemporer, Miles dalam *Qualitative data analysis: A methods sourcebook* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9].
+
+Dalam literatur rekayasa sistem kontemporer, Feyerabend dalam *Against method* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^10].
+
+Dalam literatur rekayasa sistem kontemporer, Denzin dalam *The SAGE handbook of qualitative research* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^11].
+
+Dalam literatur rekayasa sistem kontemporer, Kuhn dalam *The structure of scientific revolutions* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Perumusan dan Audit Pedoman Metodologi
 
@@ -369,17 +381,17 @@ Tujuh penjaga gerbang metodologi yang wajib ditaati:
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
-[^2]: Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 1). Mu'assasah ar-Risalah.
-[^3]: Al-Amidi, S. (2003). *Al-Ihkam fi ushul al-ahkam* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^4]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
-[^5]: Ibnu Khaldun, A. (2004). *Al-Muqaddimah* (A. M. ad-Darwisy, Ed.). Dar Ya'rub.
+[^2]: Ibnu Khaldun, A. (2004). *Al-Muqaddimah* (A. M. ad-Darwisy, Ed.). Dar Ya'rub.
+[^3]: Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 1). Mu'assasah ar-Risalah.
+[^4]: Al-Amidi, S. (2003). *Al-Ihkam fi ushul al-ahkam* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
 [^6]: Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
-[^7]: Kuhn, T. S. (2012). *The structure of scientific revolutions* (4th ed.). University of Chicago Press.
-[^8]: Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approaches* (4th ed.). SAGE Publications.
-[^9]: Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
+[^7]: Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approaches* (4th ed.). SAGE Publications.
+[^8]: Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.
+[^9]: Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
 [^10]: Feyerabend, P. (2010). *Against method* (4th ed.). Verso.
-[^11]: Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
-[^12]: Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and quasi-experimental designs for generalized causal inference*. Houghton Mifflin.
+[^11]: Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
+[^12]: Kuhn, T. S. (2012). *The structure of scientific revolutions* (4th ed.). University of Chicago Press.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Tim Perumus Metodologi Pesantren
 

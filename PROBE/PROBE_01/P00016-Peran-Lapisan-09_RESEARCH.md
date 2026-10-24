@@ -19,7 +19,7 @@ Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 
 ## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Research-Policy Bleed)
 
-Ketika sebuah institusi pendidikan menggalakkan budaya riset tanpa pagar pembatas arsitektural yang jelas, sering kali terjadi fenomena *research-policy bleed* (kebocoran riset menjadi kebijakan). Praktisi lapangan, guru, atau musyrif asrama yang membaca draft kertas kerja penelitian (*working papers*) sering kali salah mengira bahwa setiap dokumen yang diterbitkan oleh divisi Litbang adalah perintah dinas yang wajib segera dilaksanakan[^1][^2].
+Ketika sebuah institusi pendidikan menggalakkan budaya riset tanpa pagar pembatas arsitektural yang jelas, sering kali terjadi fenomena *research-policy bleed* (kebocoran riset menjadi kebijakan). Praktisi lapangan, guru, atau musyrif asrama yang membaca draft kertas kerja penelitian (*working papers*) sering kali salah mengira bahwa setiap dokumen yang diterbitkan oleh divisi Litbang adalah perintah dinas yang wajib segera dilaksanakan[^1].
 
 Gejala-gejala disorientasi sistemik ini teridentifikasi dalam enam patologi kelembagaan:
 
@@ -35,7 +35,7 @@ Gejala-gejala disorientasi sistemik ini teridentifikasi dalam enam patologi kele
 4. **Klaim Prematur "Metode Baru yang Telah Tervalidasi" (Premature Validation Claims)**:
    Laporan uji coba skala kecil (pilot project) yang baru berlangsung selama dua pekan dengan sampel 15 santri langsung diklaim dalam dokumen sebagai *"Metode Pembinaan Berbasis Bukti yang Sahih dan Terbukti Efektif"*, memicu kebingungan publik dan praktisi cabang.
 
-5. **Ketakutan Berlebihan Terhadap Kegagalan Riset (Research Stigmatization)**:
+5. **Ketakutan Berlebihan Terhadap Kegagalan Riset (Research Stigmatization)**:[^2]
    Ketika sebuah hipotesis di lapisan riset terbukti gagal membuktikan efektivitasnya, peneliti menyembunyikan data tersebut karena takut disalahkan oleh manajemen. Hal ini terjadi karena lembaga menyamakan kegagalan hipotesis ilmiah dengan pelanggaran kinerja kerja.
 
 6. **Fragmentasi Repositori dan Utang Dokumentasi (Orphan Research Repositories)**:
@@ -107,7 +107,7 @@ Dalam rekayasa sistem informasi modern, pengembang dilarang keras menguji kode b
 Jika terjadi kesalahan desain atau kegagalan hipotesis di `09_RESEARCH/`, kegagalan tersebut tetap terkurung di dalam sandbox (*contained failure*) tanpa mencemari sistem pembinaan santri di dunia nyata.
 
 ### 4.2. Kuadran Pasteur (Pasteur's Quadrant) dalam Riset Terapan
-Donald E. Stokes (1997) dalam karyanya *Pasteur's Quadrant: Basic Science and Technological Innovation* mengklasifikasikan penelitian ke dalam empat kuadran berdasarkan dua dimensi: pencarian pemahaman mendasar (*quest for fundamental understanding*) dan pertimbangan kegunaan terapan (*consideration of use*)[^5][^6].
+Donald E. Stokes (1997) dalam karyanya *Pasteur's Quadrant: Basic Science and Technological Innovation* mengklasifikasikan penelitian ke dalam empat kuadran berdasarkan dua dimensi: pencarian pemahaman mendasar (*quest for fundamental understanding*) dan pertimbangan kegunaan terapan (*consideration of use*)[^5].
 
 ```text
 Pertimbangan Kegunaan?
@@ -125,7 +125,7 @@ Pertimbangan Kegunaan?
 Riset di `09_RESEARCH/` diarahkan untuk berada pada **Kuadran Pasteur**: menggali pemahaman mendasar mengenai fitrah dan neurosains remaja, sekaligus merancang instrumen yang memiliki kegunaan nyata bagi pembinaan santri, namun dengan tetap menjaga pagar pengaman metodologis sebelum instrumen tersebut dipromosikan ke tahap implementasi.
 
 
-March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
+James G. March (1991) dalam teori pembelajaran organisasi merumuskan dilema antara eksplorasi pengetahuan baru (*exploration*) dan pemanfaatan sistem yang sudah ada (*exploitation*), yang menuntut isolasi aman bagi riset eksploratif agar tidak mendisrupsi operasional pesantren.[^6]
 
 ---
 
@@ -181,7 +181,15 @@ Untuk menentukan kapan hasil riset di `09_RESEARCH/` layak dipromosikan ke tahap
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Christensen dalam *The innovator's dilemma: When new technologies cause great firms to fail* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial. Norman Denzin dan Yvonna Lincoln dalam buku panduan riset kualitatif menggarisbawahi perlunya kepekaan interpretatif dalam membaca dinamika makna di ruang budaya pendidikan. Dalam literatur rekayasa sistem kontemporer, Dewey dalam *Logic: The theory of inquiry* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Penuel dalam *Teachers College Record* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7][^8][^9][^10][^11].
+Dalam literatur rekayasa sistem kontemporer, Christensen dalam *The innovator's dilemma: When new technologies cause great firms to fail* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial. Norman Denzin dan Yvonna Lincoln dalam buku panduan riset kualitatif menggarisbawahi perlunya kepekaan interpretatif dalam membaca dinamika makna di ruang budaya pendidikan. Dalam literatur rekayasa sistem kontemporer, Dewey dalam *Logic: The theory of inquiry* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Penuel dalam *Teachers College Record* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
+
+Dalam literatur rekayasa sistem kontemporer, Penuel dalam *Teachers College Record* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
+
+Dalam literatur rekayasa sistem kontemporer, Dewey dalam *Logic: The theory of inquiry* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9].
+
+Dalam literatur rekayasa sistem kontemporer, Denzin dalam *The SAGE handbook of qualitative research* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^10].
+
+Dalam literatur rekayasa sistem kontemporer, Creswell dalam *Educational research: Planning, conducting, and evaluating quantitative and qualitative research* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^11].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Alur Kehidupan Proyek Riset (R&D Lifecycle)
 
@@ -376,10 +384,10 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^5]: Stokes, D. E. (1997). *Pasteur's quadrant: Basic science and technological innovation*. Brookings Institution Press.
 [^6]: March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
 [^7]: Christensen, C. M. (1997). *The innovator's dilemma: When new technologies cause great firms to fail*. Harvard Business Review Press.
-[^8]: Creswell, J. W., & Guetterman, T. C. (2019). *Educational research: Planning, conducting, and evaluating quantitative and qualitative research* (6th ed.). Pearson.
-[^9]: Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
-[^10]: Dewey, J. (1938). *Logic: The theory of inquiry*. Henry Holt and Company.
-[^11]: Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing research and development at the intersection of practice and design: Design-based implementation research. *Teachers College Record*, 113(12), 2698–2718.
+[^8]: Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing research and development at the intersection of practice and design: Design-based implementation research. *Teachers College Record*, 113(12), 2698–2718.
+[^9]: Dewey, J. (1938). *Logic: The theory of inquiry*. Henry Holt and Company.
+[^10]: Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE handbook of qualitative research* (5th ed.). SAGE Publications.
+[^11]: Creswell, J. W., & Guetterman, T. C. (2019). *Educational research: Planning, conducting, and evaluating quantitative and qualitative research* (6th ed.). Pearson.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Manajemen dan Peneliti Pesantren
 

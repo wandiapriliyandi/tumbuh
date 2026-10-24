@@ -87,7 +87,7 @@ Allah Subhanahu wa Ta'ala berfirman:
 > 
 > *"Dan ujilah anak-anak yatim itu sampai mereka cukup umur untuk menikah. Kemudian jika menurut pendapatmu mereka telah cerdas/matang (rusydan), maka serahkanlah kepada mereka harta-hartanya."* (QS. An-Nisa: 6).
 
-Imam Fakhruddin Ar-Razi dalam *Mafatih al-Ghaib* (Jilid 9, hlm. 182–186) dan Al-Qadhi Abu Bakar Ibnul 'Arabi dalam *Ahkam al-Qur'an* (Jilid 1, hlm. 334) menjelaskan bahwa kata *ar-rusyd* mencakup dua dimensi mutlak:[^1][^2]
+Imam Fakhruddin Ar-Razi dalam *Mafatih al-Ghaib* (Jilid 9, hlm. 182–186) dan Al-Qadhi Abu Bakar Ibnul 'Arabi dalam *Ahkam al-Qur'an* (Jilid 1, hlm. 334) menjelaskan bahwa kata *ar-rusyd* mencakup dua dimensi mutlak:[^1]
 1. *Shalahun fid-Din (Integritas Agama)*: Kemurnian niat dan ketaatan kepada syariat.
 2. *Shalahun fil-Mal wal-Tadbir (Kemahiran Manajerial)*: Kemampuan mengelola urusan secara tepat, tidak boros, dan tidak mudah tertipu.
 
@@ -102,7 +102,7 @@ Kaidah ushuliyyah yang disepakati seluruh imam madzhab:
 Promosi Branch v2.0.0 ke Branch Main adalah penetapan hukum eksekutif pesantren (*tasharruf bil-qadha*). Syarat sahnya (seperti tuntasnya 120 berkas PROBE, validasi sanad turats, dan ketiadaan tautan rusak) wajib terbukti ada secara meyakinkan, dan penghalangnya (seperti inkonsistensi semantik atau resistensi masyaikh) wajib terbukti hilang secara mutlak.
 
 ### 3.3. Kaidah Al-Yaqinu La Yazulu Bisy-Syakk
-Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 50) mengutip kaidah fundamental:[^3]
+Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 50) mengutip kaidah fundamental:[^2]
 > الْيَقِينُ لَا يَزُولُ بِالشَّكِّ
 > 
 > *"Keyakinan tidak dapat dihilangkan oleh keraguan."*
@@ -110,7 +110,13 @@ Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 50) mengutip kaidah fundame
 Status operasional yang sedang berjalan (v1) adalah kenyataan pasti (*yaqin*), sedangkan klaim keunggulan sistem baru (v2) yang masih berada di draf eksperimen adalah dugaan (*zhann/syakk*). Sesuatu yang pasti tidak boleh digantikan oleh sesuatu yang masih diragukan kelayakannya sampai status keunggulan dan kematangan v2 itu sendiri mencapai derajat kepastian (*'ilmul yaqin*) melalui audit ketat.
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4][^5][^6][^7].
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^3].
+
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
+
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^5].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Qarafi dalam *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
 
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Capability Maturity Models, & Release Engineering
@@ -128,7 +134,7 @@ DIAGRAM TEORI SISTEM: TINGKATAN KEMATANGAN REPOSITORI (CMMI FOR REPOSITORIES)
 ```
 
 ### 4.1. Model Kematangan Kapabilitas (*Capability Maturity Model Integration - CMMI*)
-Watts Humphrey dan Software Engineering Institute (SEI, 1993, diperbarui 2018) merumuskan lima tingkatan kematangan proses rekayasa:[^8]
+Watts Humphrey dan Software Engineering Institute (SEI, 1993, diperbarui 2018) merumuskan lima tingkatan kematangan proses rekayasa:[^7]
 - *Level 1 (Initial)*: Proses kacau, sporadis, dan bergantung pada pahlawan individu.
 - *Level 2 (Managed)*: Proyek dikelola pada tingkat dasar, ada pelacakan versi.
 - *Level 3 (Defined)*: Seluruh proses distandarisasi, didokumentasikan, dan diintegrasikan ke dalam repositori baku organisasi.
@@ -138,16 +144,16 @@ Watts Humphrey dan Software Engineering Institute (SEI, 1993, diperbarui 2018) m
 Branch v2.0.0 menetapkan bahwa repositori tidak boleh dipromosikan ke Main sebelum mencapai **CMMI Level 3 (Defined)** secara penuh pada seluruh modul, dan mendekati **Level 4** pada kehandalan instrumen kepengasuhan.
 
 ### 4.2. Gerbang Kesiapan Rilis (*Release Readiness Review - RRR*)
-Jez Humble dan David Farley (2010) dalam *Continuous Delivery* merumuskan bahwa transisi dari *staging/candidate* ke *production* wajib melalui evaluasi dewan rilis (*Release Cabal / RRR*):[^9]
+Jez Humble dan David Farley (2010) dalam *Continuous Delivery* merumuskan bahwa transisi dari *staging/candidate* ke *production* wajib melalui evaluasi dewan rilis (*Release Cabal / RRR*):[^8]
 - Tidak boleh ada "promosi diam-diam" yang dilakukan oleh satu pengembang di larut malam.
 - Setiap rilis mayor wajib memiliki daftar centang kelayakan (*Go/No-Go Checklist*) yang disetujui bersama oleh perwakilan arsitek, tim keamanan, dan praktisi operasional.
 
 ### 4.3. Disiplin Definisi Selesai (*Definition of Done - DoD*)
-Ken Schwaber dan Jeff Sutherland (2020) menegaskan bahwa artefak tidak boleh dianggap "selesai" hanya karena teksnya telah diketik. Definisi selesai untuk berkas riset sistem TUMBUH mencakup:[^10]
+Ken Schwaber dan Jeff Sutherland (2020) menegaskan bahwa artefak tidak boleh dianggap "selesai" hanya karena teksnya telah diketik. Definisi selesai untuk berkas riset sistem TUMBUH mencakup:[^9]
 1. Memenuhi 13 bagian jurnal riset tanpa ada yang dilewati.
 2. Volume fisik $\ge 400$ baris substantif (anti-boilerplate).
 3. Teks turats Arab berharakat lengkap dengan takhrij kitab dan juz.
-4. Rujukan ilmiah bebas tautan paywall berbayar (*Clean APA 7th*)[^11].
+4. Rujukan ilmiah bebas tautan paywall berbayar (*Clean APA 7th*)[^10].
 5. ADR berstatus `APPROVED / LOCKED`.
 6. Tidak ada tautan markdown yang patah (*zero dead links*).
 
@@ -181,7 +187,7 @@ di Pesantren Mitra     santri dan dibatalkan kiai.      tersandera sistem lama s
    **Bantahan Epistemik TUMBUH**: Ini adalah bentuk pengkhianatan terhadap amanah ilmiah (*khianat al-amanah al-'ilmiyyah*). Mempromosikan naskah yang belum matang adalah menipu umat dan menjerumuskan musyrif ke dalam kekacauan asrama. Jika naskah ternyata cacat dan memicu sanksi yang salah kepada santri, pimpinan yang memaksakan rilis menanggung dosa kezaliman tersebut di hadapan hisab Allah Ta'ala.
 2. **Pembongkaran Model Prokrastinasi Akademik ("Jangan Pernah Rilis Sebelum Sempurna Mutlak")**:
    Sebagian peneliti terjebak dalam sindrom perfeksionisme berlebihan sehingga menolak mempromosikan sistem bertahun-tahun.  
-   **Bantahan Epistemik TUMBUH**: Kesempurnaan mutlak hanya milik Allah Ta'ala. Menunda rilis yang telah memenuhi syarat objektif berarti membiarkan santri terus terzalimi oleh sistem lama yang jelas-jelas rusak. Menahan maslahat yang sudah nyata adalah kebodohan ushul[^12].
+   **Bantahan Epistemik TUMBUH**: Kesempurnaan mutlak hanya milik Allah Ta'ala. Menunda rilis yang telah memenuhi syarat objektif berarti membiarkan santri terus terzalimi oleh sistem lama yang jelas-jelas rusak. Menahan maslahat yang sudah nyata adalah kebodohan ushul[^11].
 
 ### 5.2. Sintesis Rekonsiliatif: Al-Jam'u wat-Taufiq
 TUMBUH menetapkan titik temu kanonik:
@@ -229,7 +235,7 @@ Tragedi At-Taqwa melahirkan komitmen baja di repositori TUMBUH:
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Chrissis dalam *CMMI for development: Guidelines for process integration and product improvement* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
+Dalam literatur rekayasa sistem kontemporer, Chrissis dalam *CMMI for development: Guidelines for process integration and product improvement* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -346,7 +352,7 @@ ALUR PROTOKOL PROMOSI KANONIK BRANCH V2 MENUJU MAIN
 │       Masyaikh dan dikunci menggunakan Annotated Git Tag bertanda tangan kriptografis. │
 │                                                                                        │
 │ 2. DASAR PERTIMBANGAN EPISTEMIK:                                                       │
-│    a. Mengamalkan doktrin Al-Qur'an mengenai kewajiban menguji kematangan (rusyd)      │
+│    a. Mengamalkan doktrin Al-Qur'an mengenai kewajiban menguji kematangan (rusyd)      │[^13]
 │       sebelum penyerahan amanah kepemimpinan (QS. An-Nisa: 6).                         │
 │    b. Menjalankan kaidah ushul Tahaqquq asy-Syuruth wa Intifa' al-Mawani' dan         │
 │       kaidah Al-Yaqinu La Yazulu Bisy-Syakk demi menjaga kepastian hukum santri.       │
@@ -398,15 +404,15 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Ar-Razi, F. D. (1981). *Mafatih al-Ghaib (At-Tafsir al-Kabir)* (Jilid 9). Dar al-Fikr.
-[^2]: Ibnul 'Arabi, A. B. M. (2003). *Ahkam al-Qur'an* (M. A. 'Atha, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^3]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^4]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^5]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^6]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^7]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^8]: Humphrey, W. S. (1989). *Managing the software process*. Addison-Wesley Professional.
-[^9]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
-[^10]: Schwaber, K., & Sutherland, J. (2020). *The Scrum guide: The definitive guide to Scrum: The rules of the game*. Scrum.org.
-[^11]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-[^12]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^13]: Chrissis, M. B., Konrad, M., & Shrum, S. (2011). *CMMI for development: Guidelines for process integration and product improvement* (3rd ed.). Addison-Wesley Professional.
+[^2]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^3]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^4]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^5]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^6]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^7]: Humphrey, W. S. (1989). *Managing the software process*. Addison-Wesley Professional.
+[^8]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
+[^9]: Schwaber, K., & Sutherland, J. (2020). *The Scrum guide: The definitive guide to Scrum: The rules of the game*. Scrum.org.
+[^10]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^11]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^12]: Chrissis, M. B., Konrad, M., & Shrum, S. (2011). *CMMI for development: Guidelines for process integration and product improvement* (3rd ed.). Addison-Wesley Professional.
+[^13]: Ibnul 'Arabi, A. B. M. (2003). *Ahkam al-Qur'an* (M. A. 'Atha, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
