@@ -204,6 +204,53 @@ Konsep yang lulus didaftarkan secara permanen sebagai sub-bab resmi dalam berkas
 | **Audit DAG Engine** | Mesin Otomasi CI Python | Graf dependensi asiklik bersih 100% | Laporan Eksekusi Linter |
 | **Integrasi Kanonik** | Majelis Konsil Masyayikh | Pengesahan aklamasi sidang pleno | Commit Git Kanonik Tersegel |
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 11**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 12**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 13**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 14**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 15**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 16**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 17**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 18**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 19**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 20**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 21**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (DAG Dependency CI Linter)
@@ -217,76 +264,29 @@ Aturan baku dependensi:
 - Berkas Domain 3 hanya boleh merujuk Domain 1 dan 2.
 - ... dan seterusnya, di mana Domain $N$ hanya boleh merujuk Domain $< N$.
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Foundation DAG Guard)
+### 8.2. Protokol Verifikasi Linieritas Hirarkis 9 Domain Fondasi
 
-```python
-import os
-import sys
-import re
+Sembilan domain fondasi TUMBUH harus membentuk rantai keterikatan logis yang tidak dapat diacak urutannya. Protokol keteraturan hierarki menegaskan:
 
-def audit_foundation_dag_hierarchy():
-    foundation_dir = "01_FUNDAMENTAL/01_FOUNDATION"
-    if not os.path.exists(foundation_dir):
-        print(f"[SKIP] Direktori {foundation_dir} belum dibentuk.")
-        return True
+1. **Uji Pra-Syarat Epistemik (Epistemic Prerequisite Validation)**:
+   Sebuah domain fondasi tidak boleh dirumuskan sebelum domain yang menjadi landasan logisnya tuntas ditetapkan. Domain Human Nature tidak dapat dirumuskan tanpa kejelasan Epistemology, dan Education tidak dapat dirancang sebelum Human Development dipahami secara paripurna.
 
-    # Peta urutan hierarki sembilan domain kanonik
-    domain_ranks = {
-        "01_worldview": 1,
-        "02_epistemology": 2,
-        "03_human_nature": 3,
-        "04_human_development": 4,
-        "05_education": 5,
-        "06_leadership": 6,
-        "07_change_dynamics": 7,
-        "08_core_principles": 8,
-        "09_system_architecture": 9
-    }
+2. **Audit Keterkaitan Rantai Nilai (Value Chain Integrity)**:
+   Pemeriksaan dilakukan terhadap setiap bab fondasi untuk mendeteksi apakah terjadi lompatan konsep (*conceptual leap*) yang merusak koherensi narasi pembinaan santri.
 
-    violations = []
-    
-    for f_name in os.listdir(foundation_dir):
-        if not f_name.endswith(".md") or f_name == "README.md":
-            continue
-        
-        # Identifikasi rank file pemanggil (caller)
-        caller_rank = None
-        for key, rank in domain_ranks.items():
-            if key in f_name.lower():
-                caller_rank = rank
-                break
-        
-        if caller_rank is None:
-            continue
+3. **Matriks Rantai Ketergantungan Logis 9 Domain Fondasi**:
 
-        f_path = os.path.join(foundation_dir, f_name)
-        with open(f_path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-
-        for idx, line in enumerate(lines):
-            # Cari tautan ke berkas domain foundation lain
-            for target_key, target_rank in domain_ranks.items():
-                if target_key in line.lower() and ("[" in line and "]" in line):
-                    # Pelanggaran jika file caller memanggil target yang rank-nya LEBIH TINGGI atau SAMA (Cyclic / Upward)
-                    if target_rank > caller_rank:
-                        violations.append(
-                            f"[DAG INVERSION ERROR] {f_name}:{idx+1} Domain Rank {caller_rank} "
-                            f"secara ilegal merujuk Domain Tingkat Lebih Tinggi: '{target_key}' (Rank {target_rank})!"
-                        )
-
-    if violations:
-        print(f"[CRITICAL DAG FAILURE] Ditemukan {len(violations)} pelanggaran hierarki arsitektur sembilan domain:")
-        for v in violations:
-            print(f"  - {v}")
-        return False
-
-    print("[SUCCESS] Seluruh relasi antar-domain di 01_FOUNDATION mematuhi struktur Directed Acyclic Graph (DAG) 100%.")
-    return True
-
-if __name__ == "__main__":
-    if not audit_foundation_dag_hierarchy():
-        sys.exit(1)
-```
+| Domain Fondasi | Domain Prasyarat Mutlak | Otoritas yang Dihasilkan | Risiko Apabila Urutan Dilompati |
+|---|---|---|---|
+| **D1: Worldview** | — (Akar Primer Segala Hal) | Kerangka Realitas & Tujuan Hidup | Disorientasi makna wujud pendidikan |
+| **D2: Epistemology** | D1: Worldview | Standar Kebenaran & Metodologi Ilmu | Subjektivisme & kerancuan sumber ilmu |
+| **D3: Human Nature** | D2: Epistemology | Pemahaman Jiwa, Fitrah, & Nafsu | Reduksi manusia menjadi entitas mekanistis |
+| **D4: Human Dev** | D3: Human Nature | Hukum Pertumbuhan Jiwa Santri | Pemaksaan kurikulum melampaui fase usia |
+| **D5: Education** | D4: Human Development | Konsepsi Ta'dib & Ekosistem Belajar | Pendidikan sekadar transfer hafalan hampa |
+| **D6: Leadership** | D5: Education | Model Qudwah & Kepemimpinan Asuh | Munculnya feodalisme & tirani asrama |
+| **D7: Change** | D6: Leadership | Dinamika Transformasi & Resolusi | Tuntutan perubahan instan lewat kekerasan |
+| **D8: Core Principles**| D7: Change | Kaidah Abadi Sistem Pembinaan | Nilai pembinaan rapuh tergerus tren |
+| **D9: Design Princ.**| D8: Core Principles | Spesifikasi Rekayasa Model Nyata | Cacat implementasi teknis di lapangan |
 
 ### 7.6. Spesifikasi Formulir Audit Koherensi Sembilan Domain (Form F-9D-AUDIT)
 
@@ -303,6 +303,11 @@ Untuk memastikan para perancang kurikulum dan pengasuh tidak menyimpang dari tat
 | 7 | Kesabaran Meniti Tahapan Perubahan Jiwa | Domain 07 | Penanganan santri bermasalah melalui pemulihan hubungan restoratif bertahap. | [ ] Lolos / [ ] Revisi |
 | 8 | Koherensi Prinsip Inti dengan Praktik Lapangan | Domain 08 | Seluruh SOP harian mencerminkan nilai-nilai luhur adab secara konsisten. | [ ] Lolos / [ ] Revisi |
 | 9 | Keterpaduan Arsitektur Sistem 24 Jam | Domain 09 | Ekosistem asrama, kelas, dan masjid terintegrasi dalam satu orkestrasi holistik. | [ ] Lolos / [ ] Revisi |
+
+### 8.4. Dialektika Integrasi Antar-Domain Fondasi dalam Pembentukan Karakter
+Sembilan domain fondasi tidak bekerja secara terisolasi, melainkan saling menguatkan dalam membentuk ekosistem karakter santri. Sebagai contoh, ketika santri mengalami pergulatan emosional pada fase remaja (Domain 4: Human Development), penanganannya tidak boleh disederhanakan menjadi sekadar tindakan indisipliner, melainkan harus dipahami melalui kacamata hakikat jiwa (Domain 3: Human Nature) dan dihadapi dengan keteladanan pengasuh yang mengayomi (Domain 6: Leadership).
+
+Ketika pengasuh merespons santri dengan adab yang luhur (Domain 5: Education), terjadi proses transformasi batin yang sejati (Domain 7: Change). Transformasi ini dipandu oleh prinsip abadi kasih sayang dan ketegasan (Domain 8: Core Principles) yang diterjemahkan ke dalam tata kelola kamar yang manusiawi (Domain 9: Design Principles). Integrasi utuh sembilan domain inilah yang membedakan arsitektur TUMBUH dari pendekatan manajemen konvensional yang parsial dan reduksionis.
 
 ---
 

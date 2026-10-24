@@ -240,6 +240,30 @@ Apabila di kemudian hari ditemukan bahwa suatu SOP yang telah beredar di lapanga
 | **Review Berkala Kinerja SOP** | Setiap 6 Bulan | Majelis Pengasuh Asrama | Laporan Evaluasi Efektivitas |
 
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (CI/CD Automated Guardrails)
@@ -256,55 +280,36 @@ Setiap *pull request* yang memodifikasi atau menambahkan berkas di direktori `03
 3. **Glossary Compliance Check**:
    Skrip mencocokkan seluruh kata kunci istilah teknis dengan glosarium kanonik pada `01_FUNDAMENTAL/glossary.json`. Jika ditemukan variasi definisi baru tanpa anotasi otorisasi, penolakan otomatis diterbitkan.
 
-### 8.2. Simulasi Implementasi Skrip Pemeriksa Kepatuhan (Python CI Linter)
+### 8.2. Protokol Spesifikasi Pengujian Statis Keterlacakan (Epistemic Verification Protocol)
 
-```python
-import os
-import sys
-import re
+Dalam tata kelola repositori TUMBUH v2.0.0, integritas operasional ditegakkan melalui rangkaian protokol verifikasi formal yang menolak setiap upaya penyusupan klausul sepihak. Protokol ini dioperasikan melalui tiga lapis pengujian tekstual terstruktur:
 
-def audit_operational_boundary(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
+1. **Uji Keterlacakan Vertikal (Vertical Traceability Audit)**:
+   Setiap dokumen kerja lapangan, SOP asrama, atau formulir evaluasi santri wajib mendeklarasikan tautan keterlacakan eksplisit ke pasal rujukan pada direktori `01_FUNDAMENTAL/` atau `02_IMPLEMENTATION/`. Dokumen yang berdiri sendiri tanpa rantai sanad konseptual dinyatakan berstatus *Orphan SOP* dan dilarang disahkan dalam implementasi lembaga.
 
-    # Periksa keberadaan referensi ke lapisan induk
-    has_fundamental_link = bool(re.search(r"01_FUNDAMENTAL/", content))
-    has_implementation_link = bool(re.search(r"02_IMPLEMENTATION/", content))
-    
-    if not (has_fundamental_link or has_implementation_link):
-        print(f"[ERROR] {file_path}: Tidak memiliki tautan keterlacakan ke 01_FUNDAMENTAL atau 02_IMPLEMENTATION!")
-        return False
+2. **Filter Eliminasi Frasa Disiplin Keras & Kekerasan Fisik (Lexical Sanity Engine)**:
+   Pemeriksaan leksikal wajib memindai dan menolak setiap klausul yang mengindikasikan tindakan punitive beracun, perpeloncoan, atau kekerasan fisik tersembunyi. Keberadaan frasa seperti tindakan fisik tanpa mediasi, pemotongan jatah istirahat, atau sanksi finansial liar memicu pembatalan otomatis naskah SOP.
 
-    # Daftar kata kunci terlarang (indikasi distorsi kekerasan fisik / denda finansial liar)
-    forbidden_terms = ["push-up", "tampar", "denda uang", "jemur di lapangan", "hukuman fisik", "gundul paksa"]
-    violations = [term for term in forbidden_terms if term in content.lower()]
-    
-    if violations:
-        print(f"[CRITICAL VIOLATION] {file_path}: Menemukan klausul terlarang yang merusak esensi adab: {violations}")
-        return False
+3. **Matriks Evaluasi Kepatuhan Operasional Lapisan 03**:
 
-    return True
-
-if __name__ == "__main__":
-    target_dir = "03_OPERATIONAL"
-    all_passed = True
-    if os.path.exists(target_dir):
-        for root, _, files in os.walk(target_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    full_path = os.path.join(root, file)
-                    if not audit_operational_boundary(full_path):
-                        all_passed = False
-    if not all_passed:
-        sys.exit(1)
-    print("[SUCCESS] Seluruh dokumen operasional mematuhi batas kewenangan arsitektur.")
-```
+| Dimensi Audit | Kriteria Kepatuhan Mandatori | Indikator Kegagalan (Reject Criteria) | Tindakan Koreksi Kelembagaan |
+|---|---|---|---|
+| **Rantai Sanad** | Memuat tautan induk ke `01_FUNDAMENTAL/` | Dokumen tidak memiliki jangkar konseptual | Penundaan pengesahan; revisi rujukan wajib |
+| **Kamus Definisi**| Mengacu pada `01_FUNDAMENTAL/glossary.json`| Membuat terminologi adab baru secara sepihak | Penyeragaman istilah ke glosarium kanonik |
+| **Batas Disiplin** | Nol toleransi kekerasan verbal & fisik | Memuat kata kunci hukuman fisik/denda liar | Pencabutan izin operasional & audit etik |
+| **Format Kerja** | Formulir objektif berbasis perilaku faktual | Skala penilaian subjektif berbasis emosi | Penataan ulang rubrik asesmen perilaku |
+| **Batas Wewenang** | Menjalankan turunan, bukan membuat doktrin | Mengubah definisi adab atau target santri | Pembatalan klausul & peneguran penyusun SOP |
 
 ### 8.3. Protokol Mitigasi Penyimpangan di Logbook Musyrif Digital
 Pada sistem digitalisasi pesantren (sebagaimana dirancang dalam keahlian arsitektur digital pesantren), setiap input logbook perilaku santri harian diperiksa oleh modul *Sanity Validation Engine*. Apabila seorang musyrif memasukkan kategori pelanggaran atau tindakan yang tidak terdaftar dalam kamus data kanonik (misalnya: mencatat tindakan "Santri disuruh menguras bak mandi hingga jam 02.00 malam"), sistem secara otomatis:
 1. Memblokir penyimpanan entri tindakan tersebut.
 2. Mengirimkan notifikasi peringatan dini (*early warning alert*) ke dasbor Direktur Pengasuhan dan Tim Penjaminan Mutu.
 3. Mewajibkan musyrif yang bersangkutan untuk menghadiri sesi pembinaan etika pengasuhan (*coaching session*) dalam kurun waktu 1x24 jam.
+
+### 8.4. Studi Dinamika Pelanggaran Batas Lapisan di Lapangan Pesantren
+Kajian lapangan menunjukkan bahwa desentralisasi pembuatan aturan kamar oleh asatidz muda sering kali melahirkan bentuk-bentuk sanksi yang kontra-produktif terhadap pembentukan fitrah. Ketika seorang santri terlambat bangun shalat subuh, kecenderungan responsif instan pengurus kamar adalah memberikan sanksi fisik seperti *push-up* atau berdiri di depan gerbang. Praktik ini secara langsung melanggar mandat `01_FUNDAMENTAL/` yang menuntut pendekatan restoratif dan penyadaran nilai.
+
+Untuk mencegah keberulangan pola tersebut, implementasi instrumen operasional mewajibkan adanya lembar refleksi adab mandiri (*Waraqah at-Ta'ammul al-Dhati*). Lembar ini memandu santri untuk mengidentifikasi penyebab keterlambatan (seperti begadang tanpa izin atau kurangnya manajemen waktu) dan merumuskan komitmen perbaikan diri. Musyrif berperan sebagai fasilitator dialogis, bukan hakim penghukum. Dengan demikian, instrumen operasional tetap berfungsi sebagai jembatan pembinaan adab tanpa pernah mengambil alih wewenang perumusan filosofi sistem.
 
 ---
 

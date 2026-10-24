@@ -230,6 +230,39 @@ Draf yang lolos disahkan oleh Konsil Ahli TUMBUH, diberi penomoran kanonik metod
 | **Tim Analis PROBE** | Memberikan umpan balik kepraktisan instrumen | Menguji kelayakan metodologi di lapangan | 7 Hari Kerja |
 | **Konsil Ahli TUMBUH** | Mengesahkan pedoman metodologi secara kolegial | Mengikatkan standar ke seluruh repositori | 2 Hari Kerja |
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Methodology Linter CI)
@@ -242,57 +275,24 @@ Setiap pull request yang memodifikasi atau menambah berkas di direktori `METHODO
 2. **Procedural Purity Verification**: Memastikan dokumen berfokus pada alur kerja, standar teknis, dan verifikasi integritas data.
 3. **Mandatory Scope Disclaimer**: Setiap dokumen metodologi wajib memuat pernyataan batasan ruang lingkup prosedural pada bab pengantarnya.
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Methodology Guard)
+### 8.2. Protokol Audit Metodologis & Matriks Pemisahan Tata Cara vs Doktrin
 
-```python
-import os
-import sys
-import re
+Direktori `METHODOLOGY/` berfungsi mengatur tata cara penyelidikan tanpa boleh mendiktekan substansi doktrin filosofis sistem. Protokol tata kelola metodologi menegakkan aturan berikut:
 
-def audit_methodology_boundaries():
-    target_dir = "METHODOLOGY"
-    if not os.path.exists(target_dir):
-        print("[SKIP] Direktori METHODOLOGY belum dibentuk.")
-        return True
+1. **Uji Kemurnian Prosedural (Procedural Neutrality Audit)**:
+   Setiap berkas dalam `METHODOLOGY/` diaudit untuk memastikan ia hanya memuat panduan langkah kerja, format sitasi, kaidah penomoran, dan etika riset. Jika ditemukan pasal yang mendefinisikan hakikat jiwa santri atau doktrin tarbiyah, materi tersebut dipindahkan ke `01_FUNDAMENTAL/`.
 
-    violations = []
-    # Frasa-frasa terlarang: indikasi metodologi mencoba menjadi perumus substansi/doktrin sistem
-    forbidden_substantive_phrases = [
-        "filosofi tumbuh adalah",
-        "hakikat fitrah santri didefinisikan sebagai",
-        "tata tertib santri menetapkan",
-        "hukum syar'i dari tindakan ini adalah",
-        "kurikulum adab wajib memuat"
-    ]
+2. **Konsistensi Standar Penulisan Akademis**:
+   Pedoman metodologi menjadi tolok ukur pemeriksaan mutu seluruh naskah monograf PROBE, mencakup kepatuhan struktur 13 bagian jurnal, penulisan kutipan teks Arab berharakat, dan format tabel komparatif.
 
-    for root, _, files in os.walk(target_dir):
-        for file in files:
-            if file.endswith(".md"):
-                file_path = os.path.join(root, file)
-                with open(file_path, "r", encoding="utf-8") as f:
-                    content = f.read().lower()
+3. **Matriks Demarkasi Regulasi Metodologis vs Filosofis**:
 
-                for phrase in forbidden_substantive_phrases:
-                    if phrase in content:
-                        violations.append(f"{file_path}: Menemukan klaim substantif terlarang: '{phrase}'")
-
-                # Periksa keberadaan klausul penafian yurisdiksi prosedural
-                if not re.search(r"(prosedural|tata cara|tata kelola|metodologi|keterlacakan)", content):
-                    violations.append(f"{file_path}: Dokumen tidak mencerminkan karakteristik pedoman prosedural!")
-
-    if violations:
-        print(f"[REJECTED] Ditemukan {len(violations)} pelanggaran batas yurisdiksi di METHODOLOGY/:")
-        for v in violations:
-            print(f"  - {v}")
-        return False
-
-    print("[SUCCESS] Seluruh dokumen di METHODOLOGY/ mematuhi batas kewenangan prosedural.")
-    return True
-
-if __name__ == "__main__":
-    if not audit_methodology_boundaries():
-        sys.exit(1)
-```
+| Ranah Regulasi | Direktori Sah Berwenang | Cakupan Materi yang Diizinkan | Cakupan Materi Terlarang |
+|---|---|---|---|
+| **Tata Cara Kerja** | `METHODOLOGY/` | Pedoman riset, format monograf, etika sitasi | Definisi fitrah, model tahapan, SOP asrama |
+| **Konstitusi Nilai** | `01_FUNDAMENTAL/` | Worldview, hakikat insan, prinsip inti | Teknis kompilasi berkas, panduan linter |
+| **Konteks Lembaga** | `02_IMPLEMENTATION/` | Kerangka tata kelola, struktur pengasuhan | Perumusan filsafat ilmu dasar |
+| **Instrumen Praktis** | `03_OPERATIONAL/` | Formulir observasi, alur piket, panduan musyrif| Aturan umum metodologi riset repositori |
 
 ### 8.3. Spesifikasi Struktur Berkas Metodologi Baku (Methodological Guide Schema)
 Setiap naskah panduan metodologi yang disimpan di direktori `METHODOLOGY/` wajib menyertakan kotak pembatas yurisdiksi:
@@ -304,6 +304,12 @@ Setiap naskah panduan metodologi yang disimpan di direktori `METHODOLOGY/` wajib
 > Dokumen ini TIDAK BERWENANG merumuskan doktrin filosofis, nilai adab, atau kurikulum pembinaan santri.
 > Seluruh substansi materi mengacu mutlak pada konstitusi di `01_FUNDAMENTAL/`.
 ```
+
+### 8.4. Standarisasi Verifikasi Keterlacakan Silang Antar-Dokumen
+Pedoman metodologis menetapkan mekanisme penulisan tautan silang (*cross-referencing*) yang tahan terhadap restrukturisasi repositori. Setiap perujuk diwajibkan menggunakan jalur tautan relatif terstandarisasi yang diverifikasi secara berkala:
+1. **Format Penautan Kanonik**: Tautan antar-dokumen menggunakan format markdown standar `[Nama Dokumen](file:///path/relatif)` tanpa penyisipan karakter liar.
+2. **Penetapan Anchor Spesifik**: Perujukan ke pasal atau sub-bab tertentu wajib menyertakan penanda jangkar (*heading anchor*) spesifik agar pembaca langsung diarahkan pada substansi bahasan yang relevan.
+3. **Pemberitahuan Migrasi Berkas**: Apabila terjadi pemindahan atau pemecahan berkas kajian, berkas asal wajib mempertahankan catatan pengalihan (*redirection notice*) minimal selama satu siklus rilis penuh sebelum dihapus secara definitif.
 
 ---
 

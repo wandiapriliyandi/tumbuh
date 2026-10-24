@@ -215,6 +215,39 @@ graph TD
     PRIN -.->|"Constitutional Filter & Invariance Audit"| IMP
 ```
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Spesifikasi Formulir Audit Prinsip Inti (Form F-PRIN-AUDIT)
@@ -234,57 +267,24 @@ Formulir ini wajib digunakan oleh Komite Pengawas Kebijakan Pesantren dan Audito
 | 8 | **Ukhuwah Solidarity** | Iklim Bebas Bullying/Feodalisme | Apakah regulasi menghapus perpeloncoan, senioritas zalim, dan kasta sosial? | [ ] Nol Feodalisme |
 | 9 | **Invariant Accountability** | Keterbukaan & Anti-Tirani | Apakah keputusan sanksi dapat diaudit, diverifikasi, dan bebas dari amarah personal? | [ ] Tervalidasi |
 
-### 8.2. Skrip Validasi Kepatuhan Prinsip Inti (`audit_core_principles_invariance.py`)
-Skrip otomatis ini mengaudit naskah SOP operasional guna mendeteksi kata-kata terlarang yang melanggar 9 Aksioma Inti:
+### 8.2. Protokol Penegakan Prinsip Inti & Matriks Invarian Kebijakan
 
-```python
-#!/usr/bin/env python3
-"""
-Validator Otomatis: Kepatuhan Terhadap 9 Core Principles TUMBUH
-Branch: v2.0.0
-"""
+Prinsip inti sistem TUMBUH dipertahankan dari kompromi pragmatis jangka pendek melalui protokol perlindungan nilai:
 
-import sys
-from pathlib import Path
+1. **Uji Kepatuhan Prinsip Abadi (Core Invariant Validation)**:
+   Setiap kebijakan baru yang diusulkan oleh musyrif atau pengurus yayasan diuji kesesuaiannya dengan prinsip inti anti-kekerasan dan pengasuhan berbasis fitrah.
 
-FORBIDDEN_PATTERNS = {
-    "hukuman fisik": "Pelanggaran Prinsip 3 (Fitrah Affirmation) & Prinsip 7 (Gradual Restoration)",
-    "cambuk": "Pelanggaran Prinsip 3 & Prinsip 7",
-    "tampar": "Pelanggaran Prinsip 3 & Prinsip 7",
-    "botak paksa": "Pelanggaran Prinsip 3 (Merendahkan Martabat Santri)",
-    "jemur terik matahari": "Pelanggaran Prinsip 3 & Prinsip 4",
-    "drop out sepihak": "Pelanggaran Prinsip 7 & Prinsip 9 (Ketiadaan Proses Restoratif)",
-    "kasta santri": "Pelanggaran Prinsip 8 (Ukhuwah Solidarity & Anti-Feodalisme)",
-    "senioritas mutlak": "Pelanggaran Prinsip 8 (Penghapusan Senioritas Zalim)",
-    "target instan": "Pelanggaran Prinsip 4 (Developmental Pacing & Sunatullah Tadarruj)",
-}
+2. **Pencegahan Distorsi Pragmatis**:
+   Menolak pembenaran tindakan represif atas nama ketertiban darurat atau efisiensi waktu pembinaan.
 
-def audit_operational_documents_against_principles(directory_path: str) -> bool:
-    target_dir = Path(directory_path)
-    if not target_dir.exists():
-        print(f"[SKIP] Direktori target {directory_path} belum dibuat.")
-        return True
+3. **Matriks Evaluasi Kebijakan Berbasis Prinsip Inti TUMBUH**:
 
-    violations = []
-    for md_file in target_dir.rglob("*.md"):
-        content = md_file.read_text(encoding="utf-8").lower()
-        for pattern, explanation in FORBIDDEN_PATTERNS.items():
-            if pattern in content:
-                violations.append((md_file.name, pattern, explanation))
-
-    if violations:
-        print("[CRITICAL ERROR] Ditemukan pelanggaran terhadap 9 Core Principles TUMBUH:")
-        for file_name, pattern, exp in violations:
-            print(f"  - File: {file_name} | Pola Terlarang: '{pattern}' -> {exp}")
-        return False
-
-    print("\n[SUCCESS] Seluruh dokumen operasional lulus audit keselarasan 9 Core Principles 100%.")
-    return True
-
-if __name__ == "__main__":
-    if not audit_operational_documents_against_principles("03_OPERATIONAL"):
-        sys.exit(1)
-```
+| Prinsip Inti | Kriteria Pengujian Kebijakan | Tanda Pelanggaran Prinsip | Tindakan Pembatalan Otomatis |
+|---|---|---|---|
+| **Firm & Kind (Tegas-Penuh Kasih)**| Batas disiplin jelas tanpa kekerasan fisik | Memukul santri untuk mendisiplinkan | Pembatalan klausul & penindakan etik |
+| **Restoratif vs Retributif** | Fokus memperbaiki kerusakan & relasi | Menghukum untuk melampiaskan amarah | Rekonstruksi sanksi menjadi restitusi |
+| **Keterlacakan Sanad** | Memiliki landasan dalil & riset sah | Aturan dibuat atas dasar emosi sesaat | Pencabutan aturan liar tak berdasar |
+| **Penjagaan Aib Santri** | Kerahasiaan konseling dijaga ketat | Mengumumkan aib santri di pengeras suara | Sanksi pelanggaran kerahasiaan konseling |
 
 ### 8.3. Protokol Yudisial Pembatalan Dokumen Inkonstitusional
 Apabila dalam proses audit berkala ditemukan pasal tata tertib atau klausul SOP yang melanggar salah satu dari 9 Core Principles, maka berlaku protokol penegakan yudisial berikut:
@@ -292,6 +292,11 @@ Apabila dalam proses audit berkala ditemukan pasal tata tertib atau klausul SOP 
 2. **Pemberlakuan Moratorium Operasional Seketika (*Immediate Suspension*)**: Pasal atau aturan yang bermasalah dibekukan penerapannya seketika itu juga; musyrif dilarang menjatuhkan sanksi berdasarkan pasal tersebut.
 3. **Penyusunan Klausul Pengganti Berbasis Restoratif (*Restorative Remediation*)**: Tim penyusun SOP diberikan tenggat waktu maksimal 14 hari kalender untuk merumuskan ulang klausul pengganti yang selaras dengan nilai-nilai adab dan disahkan melalui verifikasi form `F-PRIN-AUDIT`.
 4. **Deklarasi Pemulihan Hak Santri (*Restitution of Rights*)**: Jika ada santri yang terlanjur menjadi korban sanksi inkonstitusional (seperti disanksi push-up berlebih atau dicukur botak), pihak pimpinan asrama wajib menyampaikan permohonan maaf tertulis dan memulihkan nama baik santri yang bersangkutan di hadapan rekan-rekannya.
+
+### 8.4. Audit Independen dan Mekanisme Whistleblowing Perlindungan Santri
+Kepatuhan terhadap Prinsip-Prinsip Inti TUMBUH diawasi secara independen oleh Tim Penjaminan Mutu dan Advokasi Santri. Pesantren mitra wajib menyediakan kanal pengaduan rahasia (*secure whistleblowing channel*) yang memungkinkan santri, wali santri, maupun asatidz untuk melaporkan setiap indikasi pelanggaran prinsip perlindungan anak tanpa rasa takut akan intimidasi atau pembalasan.
+
+Setiap laporan yang masuk wajib diinvestigasi secara objektif dalam waktu maksimal 2x24 jam oleh tim khusus yang terdiri dari unsur pimpinan pesantren, pakar konseling, dan perwakilan wali santri. Apabila terbukti terjadi pelanggaran berat terhadap prinsip anti-kekerasan, lembaga secara tegas menjatuhkan sanksi administratif dan pendampingan pemulihan psikologis bagi korban, menegaskan komitmen nol kompromi terhadap keselamatan fitrah santri.
 
 ---
 

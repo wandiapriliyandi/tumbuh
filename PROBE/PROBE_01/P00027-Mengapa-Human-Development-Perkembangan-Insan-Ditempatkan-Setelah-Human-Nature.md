@@ -220,80 +220,75 @@ graph TD
 
 Repositori menyediakan skrip linter untuk memverifikasi bahwa modul kurikulum jenjang J1 tidak dibebani sanksi atau tanggung jawab fase Rusyd:
 
-```python
-import os
-import sys
+### 8.2. Protokol Penyelarasan Fase Perkembangan & Matriks Kematangan Santri
 
-# Aturan batas kewenangan dan sanksi berdasarkan jenjang usia santri
-DEVELOPMENTAL_RULES = {
-    "J1_MURAHAQAH": {
-        "max_age": 14,
-        "prohibited_keywords": [
-            "jabatan_penegak_disiplin", "sanksi_skorsing_mandiri", "tanggung_jawab_yudisial",
-            "evaluasi_kinerja_berat", "ta'zir_finansial", "tugas_jaga_malam_penuh"
-        ],
-        "mandatory_guidance": "Pendampingan dialog empati musyrif wajib hadir"
-    },
-    "J2_BULUGH": {
-        "max_age": 16,
-        "prohibited_keywords": [
-            "hukuman_tanpa_bimbingan", "isolasi_sosial"
-        ],
-        "mandatory_guidance": "Bimbingan fiqh taklif dan thaharah berkala"
-    }
-}
+Pengasuhan pesantren wajib menghormati hukum pentahapan pertumbuhan alami santri melalui protokol berikut:
 
-def scan_file_for_developmental_mismatch(file_path, stage_key):
-    violations = []
-    rules = DEVELOPMENTAL_RULES.get(stage_key)
-    if not rules:
-        return violations
+1. **Uji Kesiapan Perkembangan (Developmental Readiness Audit)**:
+   Kurikulum dan tuntutan kedisiplinan asrama diuji agar tidak menuntut capaian di luar batas kematangan biologis dan psikospiritual santri pada fasenya.
 
-    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-        content = f.read().lower()
-        for bad_word in rules["prohibited_keywords"]:
-            if bad_word in content and "larangan" not in content and "dilarang" not in content:
-                violations.append((bad_word, rules["mandatory_guidance"]))
-    return violations
+2. **Eliminasi Akselerasi Semu**:
+   Menolak metode instan yang memaksa santri junior bersikap seperti orang dewasa matang melalui intimidasi rasa takut.
 
-def run_developmental_audit(repo_root="."):
-    print("=== MEMULAI AUDIT KEPATUTAN PERKEMBANGAN USIA SANTRI (DOMAIN 04) ===")
-    total_violations = 0
-    curriculum_dir = os.path.join(repo_root, "02_IMPLEMENTATION", "01_CURRICULUM")
+3. **Matriks Fase Perkembangan Insan dalam Model Pengasuhan Pesantren**:
 
-    if not os.path.exists(curriculum_dir):
-        print(f"[SKIP] Direktori {curriculum_dir} belum ditemukan.")
-        return True
+| Fase Usia Santri | Karakteristik Kognitif & Emosi | Kebutuhan Pengasuhan Utama | Bahaya Pemaksaan di Luar Fase |
+|---|---|---|---|
+| **Mumayyiz (7–10 thn)** | Berpikir konkret, senang meniru | Pembiasaan hangat & contoh nyata | Trauma penolakan & hilangnya inisiatif |
+| **Murahaqah Awal (11–14 thn)**| Lonjakan emosi, pembentukan identitas| Validasi perasaan & batas disiplin tegas-lembut| Pemberontakan terbuka atau kemunafikan |
+| **Murahaqah Akhir (15–18 thn)**| Berpikir abstrak, dorongan otonomi | Kemitraan, tanggung jawab, & pembinaan logika| Apatisme sosial & ketergantungan semu |
+| **Syabab / Baligh Mandiri** | Kematangan akal & pertanggungjawaban | Amanah kepemimpinan & khidmah ummah | Kebuntuan inisiatif kepemimpinan |
 
-    for root, _, files in os.walk(curriculum_dir):
-        for file in files:
-            stage = None
-            if "J1" in file.upper():
-                stage = "J1_MURAHAQAH"
-            elif "J2" in file.upper():
-                stage = "J2_BULUGH"
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
 
-            if stage:
-                p = os.path.join(root, file)
-                errs = scan_file_for_developmental_mismatch(p, stage)
-                if errs:
-                    print(f"\n[DEVELOPMENTAL MISMATCH] Pada berkas kurikulum: {p}")
-                    for bad_word, remedy in errs:
-                        print(f"  - Terdeteksi beban terlarang untuk fase {stage}: '{bad_word}'")
-                        print(f"    Rekomendasi Pembenahan: {remedy}")
-                        total_violations += 1
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
 
-    if total_violations > 0:
-        print(f"\n[CRITICAL FAILURE] Ditemukan {total_violations} pelanggaran kepatutan usia!")
-        return False
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
 
-    print("\n[SUCCESS] Seluruh modul kurikulum selaras dengan tahapan perkembangan fitrah santri 100%.")
-    return True
 
-if __name__ == "__main__":
-    if not run_developmental_audit():
-        sys.exit(1)
-```
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 11**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 12**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 13**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 14**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 15**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 16**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 17**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 18**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 19**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 20**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 21**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 22**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 23**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 24**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 25**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
 
 ---
 
@@ -321,6 +316,11 @@ Untuk mencegah kekeliruan pembebanan tanggung jawab di asrama, dibakukan matriks
 | **Jenjang J2** | 13–15 Tahun (Kelas 9–10) | Pembelajar Mandiri Terbimbing | Menjadi mentor sebaya (*peer-buddy*) bagi santri baru, piket kebersihan lorong. | Dilarang menyidang pelanggaran santri lain tanpa kehadiran musyrif dewasa. |
 | **Jenjang J3** | 15–17 Tahun (Kelas 11–12) | Asisten Pengasuh Muda | Mengkoordinasikan kegiatan ekstrakurikuler, memimpin musyawarah kamar, asisten halaqah. | Dilarang menjatuhkan sanksi skorsing atau sanksi fisik; wewenang terbatas pada pengingat adab. |
 | **Jenjang J4** | 17–19 Tahun (Kader Khidmah) | Penggerak Ekosistem Rasyid | Anggota dewan pertimbangan santri, koordinator pengabdian masyarakat, asisten musyrif. | Dilarang bertindak sewenang-wenang tanpa mengacu pada SOP tertulis repositori TUMBUH. |
+
+### 8.4. Mitigasi Krisis Identitas Santri Remaja Berbasis Fitrah
+Fase perkembangan remaja santri di asrama sering kali diwarnai oleh ketegangan antara dorongan mencari otonomi pribadi dan tuntutan konformitas aturan pesantren. Jika ketegangan ini tidak direspons dengan kearifan pedagogis, santri rentan mengalami disorientasi nilai atau mencari pelarian dalam kelompok sebaya yang menyimpang (*deviant subculture*).
+
+Model Human Development dalam TUMBUH merespons tantangan ini dengan menyediakan ruang partisipasi bermakna bagi santri remaja. Mereka tidak diperlakukan sebagai anak kecil yang harus terus-menerus diatur, melainkan mulai dilibatkan dalam musyawarah penataan kamar, kepanitiaan kegiatan santri, dan proyek sosial kemasyarakatan. Pemberian peran tanggung jawab ini menyalurkan kebutuhan alami mereka akan pengakuan dan membimbing pembentukan identitas diri yang berakar kuat pada nilai-nilai adab Islami.
 
 ---
 

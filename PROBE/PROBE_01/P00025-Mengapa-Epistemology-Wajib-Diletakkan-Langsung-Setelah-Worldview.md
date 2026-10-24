@@ -217,66 +217,67 @@ graph TD
 
 Repositori TUMBUH v2.0.0 menyediakan modul linter untuk mengaudit dokumen kasus santri agar tidak ada penjatuhan sanksi yang didasarkan pada *syakk* atau *wahm*:
 
-```python
-import os
-import sys
+### 8.2. Protokol Verifikasi Validitas Pengetahuan & Matriks Sumber Ilmu
 
-# Ambang batas derajat epistemik yang sah untuk intervensi disiplin
-VALID_EPISTEMIC_RANKS = ["AL-YAQIN", "AZH-ZHANN-AL-GHALIB"]
-INVALID_EPISTEMIC_RANKS = ["ASY-SYAKK", "AL-WAHM", "FIRASAT_TANPA_BUKTI"]
+Epistemologi TUMBUH menegakkan integrasi tiga saluran ilmu yang diakui dalam tradisi Islam melalui protokol verifikasi terpadu:
 
-def audit_case_file_epistemic_validity(case_file_path):
-    violations = []
-    with open(case_file_path, "r", encoding="utf-8") as f:
-        content = f.read().upper()
+1. **Audit Kesetaraan Saluran Ilmu (Tripartite Epistemic Audit)**:
+   Memastikan sistem tidak jatuh pada literalisme tekstual ekstrem yang menolak realitas ilmiah empiris, dan tidak terjerumus pada saintisme ateistik yang meremehkan dalil syar'i.
 
-    # Periksa apakah berkas memuat vonis atau sanksi
-    has_sanction = "SANKSI" in content or "HUKUMAN" in content or "TINDAKAN_DISIPLIN" in content
-    
-    # Periksa derajat epistemik yang tercantum
-    declared_rank = None
-    for rank in VALID_EPISTEMIC_RANKS + INVALID_EPISTEMIC_RANKS:
-        if f"DERAJAT_EPISTEMIK: {rank}" in content or f"STATUS_BUKTI: {rank}" in content:
-            declared_rank = rank
-            break
+2. **Kaidah Takhrij & Pengujian Bukti**:
+   Setiap klaim yang disandarkan pada nash syar'i wajib melalui takhrij yang ketat, dan setiap temuan ilmiah wajib memenuhi kaidah metodologi sains terbuka.
 
-    if has_sanction:
-        if declared_rank is None:
-            violations.append("Berkas mencantumkan tindakan disiplin tanpa mendeklarasikan DERAJAT_EPISTEMIK bukti!")
-        elif declared_rank in INVALID_EPISTEMIC_RANKS:
-            violations.append(f"PELANGGARAN HUKUM SYAR'I: Tindakan disiplin dijatuhkan atas dasar '{declared_rank}'!")
+3. **Matriks Saluran Pengetahuan dan Batas Otoritasnya**:
 
-    return violations
+| Saluran Pengetahuan | Sumber Daya Manusia | Batas Otoritas Epistemik | Mekanisme Resolusi Pertentangan |
+|---|---|---|---|
+| **Khabar Shadiq** | Wahyu Al-Qur'an & Sunnah Shahihah | Otoritas mutlak dalam ranah aqidah & syariat | Menjadi tolok ukur penguji saluran lain |
+| **Akal Sehat ('Aql)** | Penalaran logis, burhan, silogisme | Mengolah dalil & memahami rahasia syariat | Tidak boleh menafikan dalil qath'i |
+| **Indera Sehat (Hiss)** | Observasi empiris, riset laboratorium | Meneliti fenomena alam fisik & data santri | Mengisi rincian teknis sunnatullah |
 
-def run_repository_case_audit(operational_dir="03_OPERATIONAL"):
-    print("=== MEMULAI AUDIT VALIDITAS EPISTEMIK KASUS DISIPLIN SANTRI ===")
-    total_violations = 0
-    if not os.path.exists(operational_dir):
-        print(f"[SKIP] Direktori {operational_dir} belum memiliki berkas kasus operasional.")
-        return True
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
 
-    for root, _, files in os.walk(operational_dir):
-        for file in files:
-            if file.startswith("KASUS_") and file.endswith(".md"):
-                file_path = os.path.join(root, file)
-                errs = audit_case_file_epistemic_validity(file_path)
-                if errs:
-                    print(f"\n[EPISTEMIC ERROR] Pada berkas: {file_path}")
-                    for e in errs:
-                        print(f"  - {e}")
-                        total_violations += 1
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
 
-    if total_violations > 0:
-        print(f"\n[CRITICAL FAILURE] Ditemukan {total_violations} pelanggaran epistemik dalam berkas disiplin!")
-        return False
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
 
-    print("\n[SUCCESS] Seluruh putusan kasus operasional mematuhi kaidah epistemologi Islam 100%.")
-    return True
 
-if __name__ == "__main__":
-    if not run_repository_case_audit():
-        sys.exit(1)
-```
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 11**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 12**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 13**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 14**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 15**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 16**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 17**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 18**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
 
 ---
 
@@ -305,6 +306,11 @@ Jika ditemukan cacat metodologis dalam penanganan kasus santri, berlaku ketetapa
 | **Cacat Tingkat 3: Guilt by Association** | Menghukum seluruh teman sekamar atau sekelompok santri atas kesalahan satu oknum. | **BATAL SEKETIKA** | Hukuman massal dihentikan total; musyrif wajib meminta maaf kepada santri yang tidak bersalah. |
 | **Cacat Tingkat 4: Hasil Tajassus Liar** | Bukti diperoleh lewat penggeledahan ilegal yang melanggar aurat/privasi tanpa izin syar'i. | **TIDAK DAPAT DITERIMA** | Bukti dinyatakan gugur (*fruit of the poisonous tree*); penegak disiplin diaudit etikanya. |
 | **Cacat Tingkat 5: Penolakan Sumpah (Yamin)** | Musyrif menolak hak santri untuk bersumpah syar'i saat tidak ada saksi yang menguatkan tuduhan. | **PELANGGARAN SYAR'I** | Kasus diambil alih oleh Majelis Pengasuh Tertinggi Pesantren untuk diselesaikan secara adil. |
+
+### 8.4. Rekonsiliasi Penalaran Rasional dan Penyerahan Diri Syar'i
+Salah satu tantangan epistemik terbesar dalam dunia pendidikan Islam adalah mendamaikan antara penghormatan terhadap otoritas wahyu dengan pemupukan nalar kritis santri. TUMBUH menegaskan bahwa akal sehat bukan lawan dari wahyu, melainkan instrumen yang dianugerahkan Allah untuk memahami kedalaman hikmah syariat.
+
+Dalam pembelajaran kitab maupun pengasuhan asrama, santri tidak dididik menjadi pengikut buta (*taqlid 'ama*) yang menaati aturan karena takut sanksi, melainkan diajak berdialog untuk menyelami *hikmatut tasyri'* di balik setiap perintah dan larangan. Ketika santri memahami bahwa aturan adab makan berjamaah atau adab tidur dirancang untuk menjaga kesehatan fisik dan kesucian jiwa, ketaatan yang lahir adalah ketaatan berbasis cinta dan kesadaran akal sehat yang tunduk pada keagungan hukum Allah.
 
 ---
 

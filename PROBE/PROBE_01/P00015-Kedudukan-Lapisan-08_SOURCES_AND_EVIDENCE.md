@@ -218,6 +218,29 @@ Jika konsil menyetujui, diterbitkan *Architectural Decision Record* (ADR) kanoni
 | **Konsil Epistemik (Syura)** | Memutuskan penerimaan atau penolakan bukti | Memegang hak veto terhadap perubahan nilai |
 | **Arsitek Repositori** | Mengeksekusi pembaruan berkas git via ADR | Hanya bergerak atas dasar ketetapan syura |
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Skrip Linter Repositori (Evidence Boundary CI)
@@ -232,52 +255,24 @@ Setiap berkas markdown bukti wajib memenuhi skema metadata berikut:
 - `external_validity_bounds`: Pernyataan eksplisit mengenai batas generalisasi temuan.
 - `regulatory_status`: Wajib diset `INFORMATIONAL_EVIDENCE` (Dilarang berstatus `NORMATIVE_MANDATE`).
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Boundary Checker)
+### 8.2. Protokol Evaluasi Integritas Bukti & Filter Klaim Normatif
 
-```python
-import os
-import sys
-import re
+Bukti empiris pada direktori `08_SOURCES_AND_EVIDENCE` diposisikan secara ketat sebagai bahan telaah ilmiah yang tidak memiliki otoritas normatif otomatis. Untuk mencegah terjadinya loncatan epistemik dari sekadar temuan data menjadi aturan wajib, sistem menetapkan protokol verifikasi bukti tiga tahap:
 
-def validate_evidence_file(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
+1. **Uji Batasan Konteks (Context Bounding Invariant)**:
+   Setiap berkas pencatatan bukti lapangan wajib mencantumkan sub-bab eksplisit mengenai batas-batas validitas data, mencakup demografi santri, karakteristik kultural pesantren lokasi pengujian, rasio musyrif-santri, dan faktor lingkungan yang memengaruhi hasil observasi.
 
-    # Periksa larangan deklarasi kebijakan normatif di dalam folder bukti
-    forbidden_declarations = [
-        "dengan ini menetapkan",
-        "wajib diterapkan di seluruh unit",
-        "mengubah definisi resmi",
-        "kebijakan baru berlaku",
-        "adalah aturan baku"
-    ]
-    
-    found_violations = [clause for clause in forbidden_declarations if clause in content.lower()]
-    if found_violations:
-        print(f"[ERROR] {file_path}: Folder 08_SOURCES_AND_EVIDENCE dilarang memuat klaim normatif sepihak: {found_violations}")
-        return False
+2. **Penapisan Frasa Normatif Selevel Kebijakan (Anti-Prescriptive Filter)**:
+   Naskah bukti dilarang menggunakan kalimat imperatif seperti "wajib diberlakukan di seluruh pesantren", "dengan ini menetapkan aturan baru", atau "menggantikan panduan terdahulu". Berkas yang memuat klaim normatif sepihak dikembalikan untuk dibersihkan bahasanya menjadi laporan faktual-deskriptif.
 
-    # Periksa keberadaan bagian batasan validitas (Limitations & Context Bounding)
-    has_limitations = bool(re.search(r"## .*?(batasan|limitasi|validitas|contextual bounds)", content, re.IGNORECASE))
-    if not has_limitations:
-        print(f"[WARNING] {file_path}: Berkas bukti tidak memiliki bab Batasan Validitas / Konteks!")
-        return False
+3. **Matriks Uji Kualifikasi Bukti Lapangan Repositori**:
 
-    return True
-
-if __name__ == "__main__":
-    target_dir = "08_SOURCES_AND_EVIDENCE"
-    all_passed = True
-    if os.path.exists(target_dir):
-        for root, _, files in os.walk(target_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    if not validate_evidence_file(os.path.join(root, file)):
-                        all_passed = False
-    if not all_passed:
-        sys.exit(1)
-    print("[SUCCESS] Seluruh berkas di 08_SOURCES_AND_EVIDENCE mematuhi batas epistemik.")
-```
+| Tahapan Uji | Indikator Metodologis | Ciri Dokumen Sah (Valid Evidence) | Ciri Pelanggaran Batas (Boundary Breach) |
+|---|---|---|---|
+| **Tahap I: Validitas Data** | Keaslian instrumen & kejelasan sampel | Riwayat observasi faktual & transkrip nyata | Data buatan, fabrikasi angka, generalisasi semu |
+| **Tahap II: Batasan Konteks** | Keberadaan bab limitasi & kondisi lokal | Menjelaskan secara jujur kelemahan metode | Mengklaim keberhasilan absolut tanpa batas |
+| **Tahap III: Netralitas Bahasa**| Gaya penulisan analitis objektif | Narasi deskriptif temuan lapangan | Penggunaan bahasa instruktif atau ketetapan hukum |
+| **Tahap IV: Keterlacakan** | Tautan silang ke kajian PROBE terkait | Terhubung ke berkas inkuiri dialektis | Bukti terisolasi tanpa relevansi ke sistem |
 
 ### 8.3. Spesifikasi Anatomi Berkas Bukti Kanonik (Evidence Artifact Schema)
 Setiap dokumen bukti yang didaftarkan ke dalam repositori wajib mengikuti struktur anatomi standar berikut:
@@ -309,6 +304,14 @@ PENTING: Temuan ini berlaku eksklusif pada karakteristik santri usia awal remaja
 | **Pemisahan Data Mentah** | Tautan ke CSV terenkripsi di source | Review Metodolog | Pengembalian Draf |
 | **Pernyataan Limitasi** | Ada bab batasan validitas eksplisit | Komisi Etik | Revisi Dokumen |
 
+
+### 8.4. Metodologi Triangulasi Data Lapangan dan Validasi Silang
+Dalam memastikan bahwa data yang dihimpun di `08_SOURCES_AND_EVIDENCE/` memiliki reliabilitas tinggi, sistem menerapkan prosedur triangulasi data tiga sumber:
+1. **Pencatatan Observasi Faktual Harian**: Data perilaku santri yang dicatat oleh musyrif secara objektif tanpa interpretasi emosional.
+2. **Wawancara Reflektif Berkala**: Sesi dialog mendalam bersama santri untuk memahami motif batin dan dinamika psikologis di balik tindakan mereka.
+3. **Konfirmasi Sivitas Lingkungan**: Masukan dari rekan sebaya, guru kelas, dan staf pendukung asrama untuk memperoleh gambaran holistik.
+
+Hasil triangulasi ini diklasifikasikan ke dalam matriks varians perilaku guna mendeteksi apakah suatu insiden merupakan deviasi individual kasuistik ataukah merupakan indikator kegagalan sistem tata ruang asrama. Dokumen sintesis bukti hanya mencatat pola-pola yang terkonfirmasi secara konsisten dan secara eksplisit menolak penarikan kesimpulan yang melampaui data faktual yang ada.
 
 ---
 

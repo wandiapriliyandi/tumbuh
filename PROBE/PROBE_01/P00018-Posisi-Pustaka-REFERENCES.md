@@ -223,6 +223,36 @@ Literatur yang disetujui diberi nomor indeks kanonik (misal: `REF-TUR-012` atau 
 | **Pakar Epistemologi Islam** | Menguji keselarasan ontologi & worldview | Memberikan hak veto ideologis | 4 Hari Kerja |
 | **Pustakawan Repositori** | Memperbarui katalog indeks kanonik | Mengelola penomoran REF-XXX | 1 Hari Kerja |
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Citation Integrity CI)
@@ -235,55 +265,24 @@ Setiap kali ada penambahan entri di berkas `REFERENCES/`, skrip CI menguji:
 2. **Anti-Hallucination Regex Check**: Memastikan tidak ada format sitasi buatan AI yang tidak mencantumkan penerbit atau mencampuradukkan nama pengarang secara acak.
 3. **Turats Tahqiq Mandatory Field**: Setiap entri kitab Arab wajib memiliki informasi pentahqiq (*Muhaqqiq / Editor*).
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Citation Checker)
+### 8.2. Protokol Verifikasi Bibliografi Terkurasi & Eliminasi Pranala Komersial
 
-```python
-import os
-import sys
-import re
+Folder `REFERENCES/` memegang kedudukan sakral sebagai khazanah literatur terkurasi. Demi menjamin kemudahan akses bagi asatidz dan sivitas pesantren di berbagai penjuru, protokol verifikasi referensi menetapkan:
 
-def validate_references_directory():
-    ref_dir = "REFERENCES"
-    if not os.path.exists(ref_dir):
-        print("[SKIP] Direktori REFERENCES belum dibuat.")
-        return True
+1. **Larangan Tautan Komersial Berbayar (Paywall-Free Policy)**:
+   Kutipan jurnal internasional diharamkan mencantumkan tautan langsung ke vendor komersial berbayar yang membatasi akses ilmu pengetahuan. Verifikasi dilakukan berbasis kelengkapan metadata tekstual bersih (Penulis, Tahun, Judul, Jurnal, Volume, Halaman) serta pemanfaatan repositori terbuka yang sah.
 
-    violations = []
-    # Pola dasar sitasi APA 7th: Penulis. (Tahun). Judul...
-    apa_pattern = re.compile(r"^[A-Z][a-zA-Z\s\.\,\'\-]+ \([12][0-9]{3}\)\..+")
+2. **Demarkasi Sumber Turats Mu'tabar**:
+   Rujukan khazanah Islam klasik wajib diverifikasi keabsahan sanad penulisannya, popularitas tahqiq yang digunakan di kalangan ulama pesantren, dan kejelasan nomor juz serta halaman kitab fisik.
 
-    for root, _, files in os.walk(ref_dir):
-        for file in files:
-            if file.endswith(".md") and file != "README.md":
-                file_path = os.path.join(root, file)
-                with open(file_path, "r", encoding="utf-8") as f:
-                    lines = f.readlines()
-                
-                for idx, line in enumerate(lines):
-                    line_str = line.strip()
-                    # Periksa entri bibliografi bertanda strip (-)
-                    if line_str.startswith("- ") and len(line_str) > 10:
-                        entry = line_str[2:].strip()
-                        # Verifikasi format sitasi standar
-                        if not ("(" in entry and ")" in entry and "." in entry):
-                            violations.append(f"{file_path}:{idx+1} Format sitasi cacat: {entry[:50]}...")
-                        # Larangan menggunakan rujukan blog bebas atau wikipedia
-                        if any(b in entry.lower() for b in ["wikipedia.org", "blogspot.", "wordpress.", "kompasiana."]):
-                            violations.append(f"{file_path}:{idx+1} Rujukan tidak kredibel terdeteksi: {entry[:50]}...")
+3. **Matriks Penjenjangan Otoritas Pustaka Rujukan**:
 
-    if violations:
-        print(f"[ERROR] Ditemukan {len(violations)} pelanggaran tata kelola bibliografi:")
-        for v in violations:
-            print(f"  - {v}")
-        return False
-
-    print("[SUCCESS] Seluruh berkas di REFERENCES mematuhi standar bibliografi akademis.")
-    return True
-
-if __name__ == "__main__":
-    if not validate_references_directory():
-        sys.exit(1)
-```
+| Strata Pustaka | Sumber Literatur | Kriteria Keterandalan | Prosedur Verifikasi Keabsahan |
+|---|---|---|---|
+| **Tingkat I (Turats Asli)** | Nash Al-Qur'an, Kitab Hadits Shahih, Syarah | Sanad mu'tabar & edisi tahqiq terpercaya | Takhrij hadits & konfirmasi lafaz Arab |
+| **Tingkat II (Karya Ulama)**| Kitab fiqh, tasawuf akhlak, tarbiyah klasik | Penerimaan luas di tradisi pesantren | Pengecekan teks asli berharakat |
+| **Tingkat III (Jurnal Sains)**| Artikel riset psikologi & sistem terindeks | Metodologi valid & sampel representatif| Verifikasi DOI terbuka & peer-review |
+| **Tingkat IV (Buku Teks)** | Monograf akademik tepercaya ber-ISBN | Otoritas akademis penulis bidang terkait | Audit kesesuaian kutipan kontekstual |
 
 ### 8.3. Format Baku Entri Bibliografi Kanonik (APA 7th & Turats Standards)
 Berikut adalah format baku yang wajib diterapkan untuk setiap entri rujukan:
@@ -305,6 +304,12 @@ Sebelum mengajukan naskah riset atau modul pembinaan ke repositori, setiap penul
 5. Apakah setiap kutipan langsung telah diverifikasi nomor halamannya secara presisi?
 
 ```
+
+### 8.4. Panduan Transliterasi dan Standarisasi Teks Arab Turats
+Dalam menyusun pustaka terkurasi pada `REFERENCES/`, penulisan kutipan kitab klasik mengikuti pedoman transliterasi Arab-Indonesia baku yang ditetapkan oleh Keputusan Bersama Menteri Agama dan Menteri Pendidikan dan Kebudayaan Republik Indonesia, dengan penyesuaian untuk ketepatan istilah terminologi tasawuf dan fiqh tarbiyah:
+1. **Penyertaan Vokalisasi Harakat Lengkap**: Setiap kutipan nash Al-Qur'an dan matan hadits wajib diberi harakat lengkap untuk menghindari distorsi makna fonetis maupun gramatikal.
+2. **Keterangan Tahqiq dan Penerbit**: Penyebutan karya ulama klasik wajib menyertakan identitas pentahqiq (*muhaqqiq*), nomor cetakan, nama penerbit (*dar an-nasyr*), kota terbit, dan tahun terbit guna memastikan autentisitas naskah rujukan.
+3. **Anotasi Kontekstual Maqashid**: Setiap bab referensi dilengkapi catatan ringkas mengenai konteks sosial di masa pengarang kitab menyusun karyanya, membedakan antara hukum syariat yang universal (*tsawabit*) dan ijtihad kontekstual (*mutaghayyirat*).
 
 ---
 

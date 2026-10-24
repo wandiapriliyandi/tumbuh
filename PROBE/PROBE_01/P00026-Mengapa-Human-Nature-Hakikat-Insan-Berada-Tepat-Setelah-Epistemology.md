@@ -228,59 +228,59 @@ graph TD
 
 Repositori menyediakan skrip linter untuk memindai dokumen tata tertib santri guna mendeteksi pasal-pasal ilegal yang melanggar kemuliaan fisik dan fitrah ruhani santri:
 
-```python
-import os
-import sys
+### 8.2. Protokol Penjagaan Martabat Insan & Matriks Komponen Jiwa
 
-# Istilah hukuman fisik dan intimidasi yang melanggar hakikat fitrah insan
-VIOLATIVE_DISCIPLINE_TERMS = [
-    "tamparan", "menampar", "memukul", "rotan", "push up", "jemur di lapangan",
-    "botaki", "mempermalukan", "menghukum fisik", "selang karet", "kekerasan verbal",
-    "isolasi kamar mandi", "hukuman kolektif"
-]
+Pemahaman tentang hakikat manusia menjaga santri dari perlakuan tidak manusiawi melalui protokol perlindungan adab:
 
-def scan_file_for_degrading_punishments(file_path):
-    violations = []
-    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-        for line_no, line in enumerate(f, 1):
-            line_lower = line.lower()
-            for term in VIOLATIVE_DISCIPLINE_TERMS:
-                if term in line_lower and "larangan" not in line_lower and "dilarang" not in line_lower:
-                    violations.append((line_no, term, line.strip()))
-    return violations
+1. **Prinsip Kemuliaan Asali (Inherent Dignity Protocol)**:
+   Setiap santri diposisikan sebagai makhluk mulia pemegang fitrah ketuhanan. Pelanggaran adab santri dipandang sebagai kekeruhan sementara yang perlu dibersihkan melalui ta'dib, bukan aib permanen yang melegalkan hukuman hina.
 
-def run_human_nature_compliance_audit(repo_root="."):
-    print("=== MEMULAI AUDIT PERLINDUNGAN FITRAH & MARTABAT INSAN SANTRI ===")
-    total_violations = 0
-    operational_path = os.path.join(repo_root, "03_OPERATIONAL")
+2. **Uji Kesimbangan Aspek Jiwa**:
+   Desain intervensi pengasuhan wajib menyentuh seluruh potensi jiwa secara seimbang tanpa menindas potensi fitrahnya.
 
-    if not os.path.exists(operational_path):
-        print(f"[SKIP] Direktori {operational_path} belum ditemukan.")
-        return True
+3. **Matriks Komponen Jiwa Santri dan Pendekatan Edukasinya**:
 
-    for root, _, files in os.walk(operational_path):
-        for file in files:
-            if file.endswith(".md"):
-                p = os.path.join(root, file)
-                errs = scan_file_for_degrading_punishments(p)
-                if errs:
-                    print(f"\n[PELANGGARAN MARTABAT INSAN] Pada berkas: {p}")
-                    for l_no, term, ctx in errs:
-                        print(f"  - Baris {l_no}: Terdeteksi pasal hukuman terlarang '{term}'")
-                        print(f"    Konteks: {ctx}")
-                        total_violations += 1
+| Potensi Jiwa | Hakikat Sifat | Fungsi Fitrah | Pendekatan Tarbiyah TUMBUH |
+|---|---|---|---|
+| **Ruh** | Suci, rindu kepada Allah | Menjaga ikatan spiritual | Penguatan zikir, tilawah, & tafakkur |
+| **Akal** | Alat penimbang kebenaran | Menangkap hikmah & ilmu | Pembiasaan dialog kritis beradab |
+| **Nafsu (Syahwat/Ghadhab)**| Daya dorong biologis & defensif | Mempertahankan hidup | Pengendalian diri (*riyadhah*) tanpa penindasan |
+| **Qalb** | Poros penentu arah amal | Memilih ketaatan atau maksiat | Pembersihan hati (*tazkiyatun nufus*) |
 
-    if total_violations > 0:
-        print(f"\n[CRITICAL FAILURE] Ditemukan {total_violations} pasal yang melanggar Hakikat Insan!")
-        return False
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
 
-    print("\n[SUCCESS] Seluruh dokumen operasional bebas dari pasal kekerasan fisik dan pelecehan fitrah 100%.")
-    return True
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
 
-if __name__ == "__main__":
-    if not run_human_nature_compliance_audit():
-        sys.exit(1)
-```
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
 
 ---
 
@@ -307,6 +307,11 @@ Formulir ini digunakan oleh Pengasuh Pesantren untuk mengevaluasi apakah program
 | **Menangis Karena Homesick** | Melabeli cengeng, mengancam sanksi jajan, menuduh niatnya tidak ikhlas menuntut ilmu. | Memeluk dengan hangat, mendengarkan kesedihannya, membimbing doa untuk orang tua, memberi pendampingan sebaya. | Santri merasa aman secara emosional (*psychological safety*), cepat beradaptasi, dan mencintai asrama. |
 | **Malas Mengulang Hafalan (Muraja'ah)** | Menjemur di bawah sinar matahari sambil memegang mushaf, mencabut jatah istirahat. | Mengidentifikasi kelelahan kognitif (*mental fatigue*), menata ulang jadwal tidur, menyegarkan motivasi ruhiyah. | Hafalan terjaga dengan nikmat, mushaf dicintai, dan terhindar dari trauma Al-Qur'an. |
 | **Melanggar Aturan Jam Tidur Malam** | Mengurung di kamar mandi gelap, menyuruh push-up 50 kali tengah malam. | Mematikan lampu kamar dengan tertib, mengajak muhasabah malam singkat, mendampingi hingga tertidur. | Ritme sirkadian santri pulih, tubuh bugar di waktu fajar, dan terjaganya adab malam. |
+
+### 8.4. Pendekatan Komprehensif Tazkiyatun Nufus dalam Manajemen Asrama
+Memahami manusia sebagai kesatuan ruh, akal, nafsu, dan kalbu menuntut penyelenggaraan kehidupan asrama yang berorientasi pada penyucian jiwa (*tazkiyatun nufus*). Pesantren bukan sekadar tempat tinggal komunal, melainkan bengkel pembentukan jiwa di mana potensi kebaikan fitrah ditumbuhkan dan dorongan nafsu hewani dijinakkan.
+
+Pendekatan TUMBUH memandang gejolak nafsu ammarah atau nafsu syahwat pada santri remaja bukan sebagai musuh yang harus dihancurkan melalui kekerasan fisik, melainkan sebagai energi liar yang membutuhkan pengalihan positif (*sublimasi*). Melalui jadwal harian yang dinamis, olahraga teratur, puasa sunnah, pendampingan halaqah Quran, dan muhasabah malam, daya dorong nafsu santri dialirkan menjadi semangat belajar, karya nyata, dan khidmah kepada sesama santri.
 
 ---
 

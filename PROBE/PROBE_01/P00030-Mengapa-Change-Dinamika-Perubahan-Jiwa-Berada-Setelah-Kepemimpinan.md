@@ -226,59 +226,54 @@ graph TD
 
 Repositori TUMBUH menyediakan modul linter Python untuk memindai dokumen tata tertib dan SOP guna memastikan tidak ada aturan yang menuntut kepatuhan instan tanpa tahapan adaptasi:
 
-```python
-import os
-import sys
+### 8.2. Protokol Pemantauan Dinamika Perubahan Perilaku Santri
 
-# Istilah tuntutan perubahan instan dan sanksi represif yang melanggar Domain 07
-PROHIBITED_INSTANT_CHANGE_TERMS = [
-    "kepatuhan_instan_tanpa_toleransi", "pemecatan_bulan_pertama", "dilarang_beradaptasi",
-    "sanksi_maksimal_pelanggaran_perdana", "nol_toleransi_santri_baru", "skorsing_tanpa_konseling",
-    "karantina_tanpa_dialog", "vonis_abadi"
-]
+Transformasi karakter santri adalah proses bertahap (*tadarruj*) yang dipantau melalui protokol evaluasi perubahan psikospiritual:
 
-def scan_file_for_unrealistic_expectations(file_path):
-    violations = []
-    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-        for line_no, line in enumerate(f, 1):
-            line_clean = line.lower().strip()
-            for term in PROHIBITED_INSTANT_CHANGE_TERMS:
-                if term in line_clean and "larangan" not in line_clean and "dilarang" not in line_clean:
-                    violations.append((line_no, term, line.strip()))
-    return violations
+1. **Uji Realisme Harapan Perubahan (Expectation Calibration Audit)**:
+   Sistem menolak tuntutan perubahan instan yang mengharapkan santri baru langsung beradab sempurna dalam hitungan pekan.
 
-def run_change_dynamics_compliance_audit(repo_root="."):
-    print("=== MEMULAI AUDIT KESELARASAN DINAMIKA PERUBAHAN JIWA (DOMAIN 07) ===")
-    total_violations = 0
-    operational_path = os.path.join(repo_root, "03_OPERATIONAL")
+2. **Deteksi Fenomena Kepatuhan Semu (Surveillance Compliance Detection)**:
+   Pemeriksaan dilakukan untuk membedakan apakah santri taat karena takut sanksi pembina atau karena kesadaran muraqabah internal.
 
-    if not os.path.exists(operational_path):
-        print(f"[SKIP] Direktori {operational_path} belum ditemukan.")
-        return True
+3. **Matriks Spektrum Kematangan Perubahan Jiwa Santri**:
 
-    for root, _, files in os.walk(operational_path):
-        for file in files:
-            if file.endswith(".md"):
-                file_full = os.path.join(root, file)
-                errs = scan_file_for_unrealistic_expectations(file_full)
-                if errs:
-                    print(f"\n[CHANGE DYNAMICS ERROR] Pada berkas: {file_full}")
-                    for l_no, term, context in errs:
-                        print(f"  - Baris {l_no}: Terdeteksi tuntutan instan terlarang '{term}'")
-                        print(f"    Konteks: {context}")
-                        total_violations += 1
+| Tingkat Kesadaran | Ciri Perilaku Lapangan | Dorongan Motivasi Utama | Pendekatan Pendampingan Musyrif |
+|---|---|---|---|
+| **Tahap Penolakan / Shock** | Melanggar aturan, homesick berat | Gelisah, merasa terkekang | Pendampingan empatik & regulasi rasa aman |
+| **Tahap Kepatuhan Eksternal**| Tertib hanya bila ada pembina | Takut hukuman / ingin pujian | Penguatan dialog nilai & refleksi diri |
+| **Tahap Internalisasi Nilai** | Disiplin mandiri di kamar & masjid | Merasakan manisnya keteraturan | Pemberian kepercayaan & apresiasi bermakna |
+| **Tahap Muraqabah Penuh** | Menjadi teladan bagi adik kelas | Mengharap ridha Allah semata | Pengkaderan menjadi duta adab sebaya |
 
-    if total_violations > 0:
-        print(f"\n[CRITICAL FAILURE] Ditemukan {total_violations} pasal yang melanggar hukum dinamika perubahan jiwa!")
-        return False
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
 
-    print("\n[SUCCESS] Seluruh dokumen operasional selaras dengan kaidah perubahan bertahap 100%.")
-    return True
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
 
-if __name__ == "__main__":
-    if not run_change_dynamics_compliance_audit():
-        sys.exit(1)
-```
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
 
 ---
 
@@ -306,6 +301,14 @@ Berikut adalah protokol tindak lanjut bagi musyrif dalam merespons kekhilafan sa
 | **Pertengkaran / Konflik Antarsantri** | Ketidakmatangan regulasi emosi amarah (*ghadhab*), perebutan wilayah privasi | Kedua pihak langsung dipukul rotan atau digunduli rambutnya | Mediasi *Ishlah Dzatil Bain*, dialog refleksi empati perasaan korban, penugasan proyek kebajikan bersama selama 7 hari |
 | **Penyelundupan Gawai / Gadget Ilegal** | Sindrom *fear of missing out* (FOMO), kecanduan media sosial, kesepian | Perangkat dibanting di depan santri, pelaku dijemur di terik matahari | Dialog stasiun Yaqzhah tentang makna hakikat fokus thalabul ilmi, pengembalian perangkat kepada orang tua dengan komitmen tertulis santri |
 | **Penurunan Hafalan Al-Qur'an (Futur)** | Beban kognitif berlebih (*cognitive overload*), ketiadaan makna hafalan | Santri dicap bodoh/malas, diancam dikeluarkan dari kelas tahfidz | Detoksifikasi mental sejenak, kajian *Fadhailul Qur'an*, penyesuaian target hafalan bertahap (*micro-targets*) hingga motivasi pulih |
+
+### 8.4. Penanganan Resistensi Budaya dalam Siklus Perubahan Pesantren
+Setiap upaya transformasi menuju sistem pengasuhan modern yang beradab hampir selalu berhadapan dengan resistensi dari sebagian pihak yang terbiasa dengan metode konvensional berbasis hukuman fisik. Pihak-pihak yang resisten sering berdalih bahwa tradisi keras masa lalu adalah kunci sukses pembentukan ketangguhan santri.
+
+Domain Change dalam TUMBUH memberikan strategi dialektis untuk mengatasi resistensi ini secara bijaksana tanpa konfrontasi yang memecah belah:
+1. **Penjelasan Hermeneutika Syar'i**: Memaparkan kembali dalil-dalil shahih mengenai kelembutan Rasulullah ﷺ dalam mendidik para shahabat muda, membuktikan bahwa metode kekerasan bukanlah sunnah tarbiyah.
+2. **Penyajian Bukti Data Nyata**: Menunjukkan data empiris bahwa pendekatan disiplin positif restoratif menghasilkan santri yang lebih berprestasi, memiliki resiliensi batin yang tangguh, dan angka residivisme pelanggaran yang jauh lebih rendah.
+3. **Pemberian Pelatihan Berkelanjutan**: Mengedukasi musyrif dengan keterampilan praktis manajemen kelas positif dan de-eskalasi konflik, sehingga mereka tidak lagi merasa tidak berdaya saat menghadapi santri yang menantang aturan.
 
 ---
 

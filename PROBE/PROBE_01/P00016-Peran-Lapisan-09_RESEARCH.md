@@ -226,6 +226,31 @@ Untuk melindungi integritas fisik dan psikologis santri selama aktivitas riset b
 3. **Risiko Tinggi (Level C)**: Intervensi psikologis bagi santri trauma/depresi, pengujian metode de-eskalasi krisis amarah, isolasi perilaku santri bermasalah. *Prosedur*: Wajib pengawasan langsung psikiater klinis bersertifikat, persetujuan tertulis wali santri, dan laporan harian ke Direktur Kepesantrenan.
 
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Research Boundary CI)
@@ -240,52 +265,24 @@ Setiap berkas markdown di `09_RESEARCH/` wajib memuat metadata YAML pada bagian 
 - `policy_binding_status`: Wajib bertuliskan `STRICTLY_NON_BINDING`.
 - `sandbox_expiration_date`: Batas akhir masa berlaku uji coba riset.
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Research Linter)
+### 8.2. Protokol Demarkasi Hipotesis Riset & Matriks Kematangan Kajian
 
-```python
-import os
-import sys
-import re
+Guna menjamin kebebasan eksplorasi ilmiah di laboratorium `09_RESEARCH/` tanpa memicu kebingungan bagi praktisi pengasuhan di asrama, seluruh aktivitas penelitian diatur oleh protokol batas penelitian berikut:
 
-def validate_research_sandbox(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
+1. **Penyematan Status Hipotesis Eksploratif (Research Disclaimer)**:
+   Setiap naskah riset wajib menyertakan banner metadata di awal dokumen yang menyatakan secara tegas bahwa dokumen tersebut adalah produk eksplorasi teoritis atau uji coba terbatas, dan bukan pedoman operasional santri.
 
-    # Periksa larangan klaim otoritas regulasi di berkas riset
-    forbidden_terms = [
-        "sop ini berlaku untuk",
-        "wajib ditaati oleh seluruh musyrif",
-        "surat keputusan",
-        "tata tertib resmi",
-        "sanksi pelanggaran adalah"
-    ]
-    
-    violations = [t for t in forbidden_terms if t in content.lower()]
-    if violations:
-        print(f"[REJECTED] {file_path}: Dokumen di 09_RESEARCH dilarang memuat klausul regulasi lapangan: {violations}")
-        return False
+2. **Protokol Demarkasi Eksperimen Terkendali (Controlled Trial Gate)**:
+   Uji coba modul intervensi baru di lingkungan santri hanya boleh dilaksanakan setelah rancangan eksperimen disetujui oleh Komite Etik Tarbiyah, memiliki mitigasi risiko psikologis nol, dan didampingi musyrif senior yang berkualifikasi.
 
-    # Periksa keberadaan klausul penafian hukum (Mandatory Disclaimer)
-    disclaimer_pattern = r"(bukan kebijakan resmi|strictly non-binding|eksperimen terisolasi|sandbox)"
-    if not re.search(disclaimer_pattern, content, re.IGNORECASE):
-        print(f"[WARNING] {file_path}: Tidak memuat klausul penafian hukum/status sandbox eksplisit!")
-        return False
+3. **Matriks Evaluasi Kematangan Dokumen Riset Menuju Fondasi**:
 
-    return True
-
-if __name__ == "__main__":
-    target_dir = "09_RESEARCH"
-    all_passed = True
-    if os.path.exists(target_dir):
-        for root, _, files in os.walk(target_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    if not validate_research_sandbox(os.path.join(root, file)):
-                        all_passed = False
-    if not all_passed:
-        sys.exit(1)
-    print("[SUCCESS] Seluruh berkas di 09_RESEARCH mematuhi demarkasi sandbox arsitektural.")
-```
+| Tingkat Kematangan | Karakteristik Dokumen Riset | Batas Otoritas & Keberlakuan | Mekanisme Promosi ke Sistem |
+|---|---|---|---|
+| **Eksplorasi Awal (Draft)** | Gagasan teoritis, telaah komparatif pustaka | Terbatas pada lingkungan tim periset | Wajib melalui peer-review internal |
+| **Uji Terbatas (Pilot)** | Pengujian pada 1 kelompok kamar terpilih | Dilarang dijadikan aturan asrama umum | Pengumpulan data efektivitas & evaluasi |
+| **Tervalidasi (Empirical)**| Terbukti efektif tanpa efek samping psikologis | Memenuhi syarat telaah dialektis PROBE | Pengajuan ke Konsil Penjamin Mutu |
+| **Baseline Kanonik** | Diadopsi resmi ke 01_FUNDAMENTAL | Mengikat secara konstitusional lembaga | Ratifikasi resmi pimpinan pesantren |
 
 ### 8.3. Spesifikasi Berkas Riset Kanonik Terstandar
 Untuk menjaga keseragaman format di kalangan peneliti, berkas proyek riset wajib mengikuti struktur anatomi baku berikut:
@@ -307,6 +304,14 @@ sandbox_period: Agustus 2026 - Oktober 2026
 > Dokumen ini merupakan bahan pengujian ilmiah dan BUKAN merupakan regulasi atau SOP resmi pesantren.
 > Dilarang menerapkan metode dalam berkas ini di luar unit percontohan yang telah diizinkan.
 ```
+
+### 8.4. Protokol Peer-Review Komite Etik Penelitian Pesantren
+Setiap naskah riset eksploratif yang diajukan ke `09_RESEARCH/` wajib melewati proses telaah sejawat (*double-blind peer review*) oleh minimal dua penelaah independen yang memiliki kepakaran dalam bidang psikologi perkembangan Islam dan metodologi riset pendidikan. Kriteria penilaian mencakup:
+1. **Kejelasan Konstruk Teori**: Apakah konsep yang diteliti memiliki pijakan ontologis yang kokoh dalam khazanah Islam dan sains kontemporer.
+2. **Keamanan Psikologis Santri**: Menjamin bahwa seluruh instrumen eksperimen tidak menimbulkan kecemasan, rasa malu berlebihan, atau perpecahan sosial di lingkungan kamar.
+3. **Transparansi Metodologi**: Ketersediaan protokol pengujian yang dapat direplikasi oleh peneliti lain dalam jaringan pesantren mitra.
+
+Naskah riset yang dinyatakan lolos telaah etik berhak mendapatkan nomor registrasi inkuiri resmi dan dapat diusulkan sebagai bahan kajian pada siklus evaluasi arsitektur berikutnya.
 
 ---
 

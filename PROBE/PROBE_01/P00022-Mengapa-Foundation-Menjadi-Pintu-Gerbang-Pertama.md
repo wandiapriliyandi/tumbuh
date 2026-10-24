@@ -237,6 +237,29 @@ final_decision: APPROVED FOR CANONICAL CURRICULUM INTEGRATION
 ```
 
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Foundation Anchor CI Linter)
@@ -248,50 +271,24 @@ Skrip CI menguji dua hal mendasar:
 1. **No Free-Floating Concepts**: Setiap konsep utama yang digunakan dalam kurikulum (misal: "Jenjang Kemandirian", "Restorative Ta'zir", "Fitrah Base") wajib memiliki definisi rujukan pada salah satu dari sembilan domain di `01_FOUNDATION/`.
 2. **Downward Dependency Validation**: Memastikan tidak ada berkas di dalam `01_FOUNDATION/` yang merujuk balik (*reverse dependency*) ke dokumen operasional di `03_OPERATIONAL/`.
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Foundation Anchor Linter)
+### 8.2. Protokol Verifikasi Ketahanan Fondasi & Matriks Integritas Arsitektur
 
-```python
-import os
-import sys
-import re
+Kekokohan Foundation sebagai fondasi seluruh bangunan TUMBUH diaudit melalui parameter evaluasi arsitektural yang ketat. Protokol verifikasi fondasi mencakup:
 
-def audit_foundation_integrity():
-    foundation_dir = "01_FUNDAMENTAL/01_FOUNDATION"
-    violations = []
+1. **Uji Konsistensi Aksiomatis (Axiomatic Consistency Test)**:
+   Setiap prinsip yang diletakkan pada Foundation diuji apakah ia mampu menopang beban desain pada Core Model dan Implementation tanpa memunculkan kontradiksi internal. Apabila sebuah prinsip kurikulum di hilir bertentangan dengan konsepsi fitrah di hulu, prinsip hilir wajib digugurkan.
 
-    # 1. Pastikan direktori Foundation eksis dan memiliki berkas kanonik
-    if not os.path.exists(foundation_dir):
-        print(f"[CRITICAL ERROR] Direktori inti {foundation_dir} tidak ditemukan!")
-        return False
+2. **Demarkasi Teologis & Perlindungan Nilai Fitrah**:
+   Fondasi filosofis harus bersih dari eklektisisme liar yang mencampuradukkan teori sekuler reduksionistik tanpa purifikasi epistemik Islam.
 
-    foundation_files = [f for f in os.listdir(foundation_dir) if f.endswith(".md")]
-    if len(foundation_files) < 9:
-        print(f"[WARNING] Direktori Foundation baru memiliki {len(foundation_files)} domain (Target Kanonik: 9 Domain Filosofis).")
+3. **Matriks Evaluasi Kesiapan Fondasi Sistem TUMBUH**:
 
-    # 2. Periksa ketiadaan dependensi terbalik di dalam berkas Foundation
-    for f_name in foundation_files:
-        f_path = os.path.join(foundation_dir, f_name)
-        with open(f_path, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-        
-        for idx, line in enumerate(lines):
-            # Dilarang merujuk operasional atau bahan mentah langsung
-            if re.search(r"\[.*?\]\(.*?(03_OPERATIONAL|source\/).*?\)", line, re.IGNORECASE):
-                violations.append(f"[REVERSE LINK ERROR] {f_path}:{idx+1} Dokumen Foundation merujuk lapisan bawah: {line.strip()}")
-
-    if violations:
-        print(f"[FAILURE] Ditemukan {len(violations)} pelanggaran integritas lapisan Foundation:")
-        for v in violations:
-            print(f"  - {v}")
-        return False
-
-    print("[SUCCESS] Lapisan 01_FOUNDATION mematuhi seluruh protokol integritas arsitektural.")
-    return True
-
-if __name__ == "__main__":
-    if not audit_foundation_integrity():
-        sys.exit(1)
-```
+| Komponen Fondasi | Kriteria Keabsahan Epistemik | Ciri Kelemahan Desain (Design Flaw) | Mitigasi Korektif Arsitektur |
+|---|---|---|---|
+| **Worldview Islam** | Berakar pada tauhid & akhirat | Merujuk sekularisme/materialisme | Purifikasi ontologis komprehensif |
+| **Epistemologi** | Mengakui wahyu, akal, & indera sehat | Mereduksi kebenaran hanya ke angka empiris | Rekonsiliasi adab al-Jam'u wat-Taufiq |
+| **Hakikat Insan** | Fitrah hanif dengan potensi ganda | Memandang santri sebagai lembaran kosong | Restorasi doktrin martabat fitrah |
+| **Prinsip Desain** | Mendorong muraqabah mandiri | Mengandalkan ketakutan hukuman fisik | Rekayasa ekosistem disiplin positif |
 
 ### 8.3. Spesifikasi Skema Keterlacakan Domain Fondasi (AST Dependency Graph Check)
 Setiap naskah modul turunan di `02_IMPLEMENTATION/` wajib memiliki metadata keterikatan fondasi pada frontmatter dokumennya:
@@ -309,6 +306,14 @@ foundation_anchors:
     concept_ref: Marhalah at-Tamyiz wa at-Tadarruj J1
 ---
 ```
+
+### 8.4. Analisis Titik Gagal Rekayasa Sistem Tanpa Fondasi yang Kokoh
+Sejarah reformasi pendidikan pesantren mencatat banyak inisiatif pembaruan yang kandas di tengah jalan akibat kegagalan membangun fondasi filosofis yang utuh. Kegagalan-kegagalan tersebut umumnya berpola pada tiga sindrom desain:
+1. **Sindrom Adopsi Parsial (Eclectic Fragility)**: Mengambil metode manajemen modern (seperti ISO atau KPI) tanpa menyelaraskannya dengan pandangan alam tauhid, sehingga pembinaan santri berubah menjadi transaksi mekanistis yang kering dari keberkahan.
+2. **Sindrom Romantisisme Tanpa Struktur**: Mengagungkan nilai-nilai luhur kepesantrenan di masa lampau namun menolak merumuskan prinsip desain operasional yang terukur, sehingga pengasuhan bergantung mutlak pada figuritas kiai tanpa sistem yang dapat diwariskan.
+3. **Sindrom Reaktivitas Aturan**: Membuat regulasi baru setiap kali terjadi kasus pelanggaran di asrama, yang berujung pada tumpukan aturan tambal sulam yang saling bertentangan dan memicu kebingungan santri.
+
+Kehadiran Lapisan Foundation di gerbang pertama TUMBUH v2.0.0 membedah dan menuntaskan akar persoalan ini dengan menyediakan fondasi aksiomatis yang menyatukan keluhuran nilai syariat dengan kejelasan rekayasa sistem pendidikan modern.
 
 ---
 

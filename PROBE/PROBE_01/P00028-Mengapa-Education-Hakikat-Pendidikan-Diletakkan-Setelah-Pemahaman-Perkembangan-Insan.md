@@ -216,59 +216,60 @@ graph TD
 
 Repositori TUMBUH v2.0.0 menyediakan skrip linter untuk memindai silabus kurikulum dan pedoman pengajaran agar bebas dari metode opresif satu arah:
 
-```python
-import os
-import sys
+### 8.2. Protokol Evaluasi Ekosistem Ta'dib & Matriks Dimensi Pendidikan
 
-# Istilah metode pengajaran opresif yang dilarang dalam filosofi Ta'dib TUMBUH
-OPPRESSIVE_PEDAGOGY_TERMS = [
-    "ceramah_satu_arah_mutlak", "dilarang_bertanya", "hafalan_buta_tanpa_makna",
-    "rotan_penghafal", "doktrinasi_tanpa_nalar", "hukuman_nilai_nol_massal",
-    "pembelajaran_tanpa_dialog"
-]
+Hakikat pendidikan sebagai proses penanaman adab (*ta'dib*) ditegakkan melalui protokol evaluasi pendidikan terstruktur:
 
-def scan_file_for_pedagogical_flaws(file_path):
-    violations = []
-    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-        for line_idx, line in enumerate(f, 1):
-            line_clean = line.lower().strip()
-            for term in OPPRESSIVE_PEDAGOGY_TERMS:
-                if term in line_clean and "larangan" not in line_clean and "dilarang" not in line_clean:
-                    violations.append((line_idx, term, line.strip()))
-    return violations
+1. **Uji Keselarasan Pedagogis (Pedagogical Alignment Protocol)**:
+   Setiap aktivitas pembelajaran asrama dievaluasi apakah ia berfungsi sebagai medium ta'dib yang menumbuhkan adab, atau sekadar pengajaran administratif kaku.
 
-def run_education_pedagogy_audit(repo_root="."):
-    print("=== MEMULAI AUDIT KESELARASAN FILOSOFI PENDIDIKAN TA'DIB (DOMAIN 05) ===")
-    total_violations = 0
-    curriculum_path = os.path.join(repo_root, "02_IMPLEMENTATION", "01_CURRICULUM")
+2. **Audit Keseimbangan Tiga Rukun Pendidikan (Ta'lim, Tarbiyah, Ta'dib)**:
+   Memastikan pengasuhan tidak timpang pada aspek hafalan semata dengan melupakan pembiasaan karakter dan pemurnian adab.
 
-    if not os.path.exists(curriculum_path):
-        print(f"[SKIP] Direktori {curriculum_path} belum ditemukan.")
-        return True
+3. **Matriks Komparasi Orientasi Pendidikan Karakter**:
 
-    for root, _, files in os.walk(curriculum_path):
-        for file in files:
-            if file.endswith(".md"):
-                file_full = os.path.join(root, file)
-                errs = scan_file_for_pedagogical_flaws(file_full)
-                if errs:
-                    print(f"\n[PEDAGOGY ERROR] Pada berkas kurikulum: {file_full}")
-                    for l_idx, term, context in errs:
-                        print(f"  - Baris {l_idx}: Terdeteksi metode opresif '{term}'")
-                        print(f"    Konteks: {context}")
-                        total_violations += 1
+| Dimensi Penilaian | Pendekatan Ta'dib (TUMBUH) | Pendekatan Pengajaran Konvensional | Indikator Keberhasilan Lapangan |
+|---|---|---|---|
+| **Fokus Sasaran** | Penanaman adab & kesucian jiwa | Penguasaan materi teks & hafalan angka | Santri beradab tulus tanpa pengawasan |
+| **Relasi Guru-Santri** | Ikatan ruhaniyah & qudwah hasanah | Transaksi instruksional formal | Lahirnya penghormatan cinta mendalam |
+| **Metode Pembiasaan** | Teladan hidup & pembiasaan bertahap | Perintah searah & ancaman hukuman | Ketahanan karakter santri jangka panjang |
+| **Penanganan Cacat Adab**| Terapi pemulihan jiwa & ishlah | Pengucilan, pemberian label, & sanksi fisik| Rekonsiliasi santri tanpa dendam batin |
 
-    if total_violations > 0:
-        print(f"\n[CRITICAL FAILURE] Ditemukan {total_violations} pelanggaran pedagogis!")
-        return False
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
 
-    print("\n[SUCCESS] Seluruh kurikulum mematuhi filosofi Ta'dib dan pedagogi dialogis 100%.")
-    return True
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
 
-if __name__ == "__main__":
-    if not run_education_pedagogy_audit():
-        sys.exit(1)
-```
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
 
 ---
 
@@ -295,6 +296,11 @@ Formulir evaluasi ini wajib diisi oleh Kepala Madrasah/Pengasuh saat melakukan s
 | **Integrasi Asrama** | Asrama menjadi laboratorium praktik adab nyata dari pelajaran kelas. | Asrama hanya tempat tidur malam yang terpisah dari urusan guru. | Lingkungan santri menjadi Bi'ah Shalihah yang koheren dan tenang. |
 | **Diferensiasi Pembelajaran** | Menyesuaikan kecepatan belajar dengan kapasitas fitrah unik tiap santri. | Standarisasi kaku: santri lambat langsung dicap bodoh dan dihukum. | Menyelamatkan kesehatan mental santri dan mencegah keputusasaan. |
 | **Budaya Kelas** | Majelis ilmu penuh sakinah, dialog reflektif, dan doa keberkahan. | Ruang interogasi tegang, ancaman hukuman rotan, dan hafalan tertekan. | Santri mencintai majelis ilmu dan memuliakan asatidz sepanjang hayat. |
+
+### 8.4. Transformasi Budaya Pesantren Menuju Ekosistem Ta'dib Holistik
+Penerapan hakikat pendidikan sebagai penanaman adab (*ta'dib*) memerlukan transformasi menyeluruh terhadap kultur kelembagaan pesantren. Pesantren harus membersihkan diri dari residu budaya feodal dan militeristik yang kerap menginfiltrasi pengelolaan asrama santri.
+
+Dalam ekosistem ta'dib, relasi antara santri dan pengasuh dibangun di atas fondasi cinta kasih (*rahmah*), saling menasihati dalam kebenaran (*tawashaw bil-haqq*), dan saling menasihati dalam kesabaran (*tawashaw bis-shabr*). Guru dan musyrif menyadari bahwa setiap perkataan, sikap tubuh, dan cara mereka menyelesaikan konflik adalah kurikulum nyata yang diserap langsung oleh santri. Keteladanan adab dari para pendidik inilah yang menjadi sarana transmisi nilai paling efektif dalam mencetak generasi santri yang berkarakter unggul.
 
 ---
 

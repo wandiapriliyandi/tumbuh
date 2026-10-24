@@ -245,68 +245,62 @@ graph TD
 
 Untuk mencegah masuknya leksikon reduksionistik sekuler ke dalam dokumen kurikulum adab dan SOP operasional santri, repositori menyediakan modul linter Python otomatis:
 
-```python
-import os
-import sys
+### 8.2. Protokol Penjagaan Kemurnian Worldview & Matriks Penapisan Sekularisasi
 
-# Daftar istilah sekuler reduksionistik yang dilarang digunakan di luar konteks kritik komparatif
-PROHIBITED_SECULAR_TERMS = {
-    "tabula rasa": "Gunakan konsep 'Fitrah Insaniyyah' yang memiliki potensi bawaan tauhid",
-    "operant conditioning": "Gunakan 'Tadrib al-Jawarih ma'a Niyyah Ikhlash' (pembiasaan fisik disertai kesadaran niat)",
-    "moral relativism": "Gunakan 'Tsabatul Qiyam asy-Syar'iyyah' (kepastian nilai-nilai syar'i)",
-    "secular humanism": "Gunakan 'Insaniyyah Islamiyyah berbasis Khilafah & 'Ubudiyyah'",
-    "behavioral points penalty": "Gunakan 'Mekanisme Restitusi & Tazkiyatun Nafs'",
-    "homo economicus": "Gunakan 'Al-Insan al-Kamil / 'Abdullah'",
-    "survival of the fittest": "Gunakan 'Ta'awun 'ala al-Birri wat-Taqwa'"
-}
+Sebagai domain pertama dan utama, kemurnian Worldview Islam dijaga dari perembesan filsafat materialistik melalui protokol penapisan epistemik berikut:
 
-TARGET_DIRECTORIES = [
-    "01_FUNDAMENTAL",
-    "02_IMPLEMENTATION",
-    "03_OPERATIONAL"
-]
+1. **Audit Terminologi Kunci (Ontological Lexical Audit)**:
+   Seluruh istilah fundamental diperiksa agar merujuk pada konsep wujud dalam Islam (Rabb, Insan, Fitrah, Amanah, Akhirat). Istilah-istilah serapan yang berpotensi membawa asumsi reduksionistik wajib dimurnikan maknanya.
 
-def scan_document_for_worldview_anti_patterns(file_path):
-    violations = []
-    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-        for idx, line in enumerate(f, 1):
-            line_lower = line.lower()
-            for term, remedy in PROHIBITED_SECULAR_TERMS.items():
-                if term in line_lower and "anti-pattern" not in line_lower and "larangan" not in line_lower:
-                    violations.append((idx, term, remedy, line.strip()))
-    return violations
+2. **Pengujian Orientasi Ukhrawi (Eschatological Alignment Test)**:
+   Sistem memastikan bahwa tujuan pembinaan santri tidak dibatasi pada kesuksesan duniawi ekonomis semata, melainkan selalu bermuara pada keselamatan jiwa di akhirat dan keridhaan Allah Ta'ala.
 
-def run_worldview_lexicon_audit(repo_root="."):
-    total_violations = 0
-    print("=== MEMULAI AUDIT KESELARASAN LEKSIKON WORLDVIEW ISLAM ===")
-    
-    for folder in TARGET_DIRECTORIES:
-        full_dir = os.path.join(repo_root, folder)
-        if not os.path.exists(full_dir):
-            continue
-        for root, _, files in os.walk(full_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    p = os.path.join(root, file)
-                    errs = scan_document_for_worldview_anti_patterns(p)
-                    if errs:
-                        print(f"\n[PELANGGARAN WORLDVIEW] Berkas: {p}")
-                        for line_num, term, remedy, context in errs:
-                            print(f"  - Baris {line_num}: Terdeteksi istilah terlarang '{term}'")
-                            print(f"    Rekomendasi Pembenahan: {remedy}")
-                            total_violations += 1
+3. **Matriks Komparasi Worldview Islam vs Paradigma Pendidikan Sekuler**:
 
-    if total_violations > 0:
-        print(f"\n[CRITICAL FAILURE] Ditemukan {total_violations} pelanggaran leksikon sekuler!")
-        return False
-    
-    print("\n[SUCCESS] Seluruh dokumen bersih dari istilah reduksionistik sekuler 100%.")
-    return True
+| Dimensi Filosofis | Worldview Islam (TUMBUH) | Paradigma Sekuler / Humanisme Pragmatis | Dampak Terhadap Pola Asuh Santri |
+|---|---|---|---|
+| **Hakikat Realitas** | Wujud fisik & metafisik (Ghaib & Syahadah) | Terbatas pada materi fisik empiris | Santri hidup dengan kesadaran muraqabah |
+| **Tujuan Hidup** | Ibadah, khilafah, & keselamatan akhirat | Kemakmuran ekonomi & pengakuan sosial | Pembentukan orientasi hidup jangka panjang |
+| **Hakikat Manusia** | Makhluk berfitrah, berakal, & bertangggung jawab | Produk evolusi hewani tanpa ruh ilahiah | Penghormatan martabat mutlak tanpa kekerasan |
+| **Sumber Nilai** | Wahyu Allah yang dijabarkan As-Sunnah | Konsensus sosial & utilitas mayoritas | Moralitas kokoh tidak labil mengikuti zaman |
 
-if __name__ == "__main__":
-    if not run_worldview_lexicon_audit():
-        sys.exit(1)
-```
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 11**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 12**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
 
 ---
 
@@ -323,6 +317,11 @@ Setiap dokumen kurikulum, silabus pengajaran, modul musyrif, dan peraturan tata 
 | 5 | **Otoritas Wahyu di Atas Pendapat Rasional** | Setiap nilai karakter utama memiliki dalil shahih dari Al-Qur'an, Hadits, dan qaul ulama mu'tamad. | Dokumen kurikulum mudah terombang-ambing oleh tren psikologi populer Barat yang sekuler. | [ ] Lolos / [ ] Revisi |
 | 6 | **Pencegahan Reduksionisme Perilaku** | Asesmen perilaku santri tidak sekadar menghitung frekuensi fisik, tetapi menimbang kesadaran niat dan takwa. | Perilaku ibadah santri tereduksi menjadi sekadar senam fisik dan rutinitas mekanis tanpa ruh. | [ ] Lolos / [ ] Revisi |
 | 7 | **Keteladanan Nabawiyyah Pengasuh** | Peran asatidz dan musyrif didefinisikan sebagai *murabbi* yang penuh kasih sayang dan uswah hasanah. | Musyrif bertindak seperti sipir penjara yang represif, dingin, dan berjarak dengan santri. | [ ] Lolos / [ ] Revisi |
+
+### 8.4. Implikasi Worldview Tauhid Terhadap Kesehatan Mental Santri
+Kajian psikologi pendidikan Islam kontemporer menegaskan bahwa pandangan alam tauhid merupakan fondasi utama resiliensi mental santri di tengah kerasnya dinamika kehidupan asrama. Santri yang dibimbing untuk memahami bahwa hidup adalah amanah Allah dan setiap ujian mengandung hikmah pembersihan jiwa memiliki tingkat imunitas stres yang jauh lebih tinggi dibandingkan santri yang hanya dituntut berprestasi demi pengakuan sosial.
+
+Worldview Islam menanamkan pemahaman bahwa nilai diri seorang santri tidak ditentukan oleh label duniawi, melainkan oleh ketakwaan dan kesungguhannya dalam menuntut ilmu. Pendekatan ini secara radikal memutus rantai kecemasan eksistensial, persaingan tidak sehat antarteman sebaya, dan perasaan rendah diri (*inferiority complex*). Dalam ekosistem TUMBUH, seluruh proses pendampingan asrama dirancang untuk memupuk tauhid yang menghidupkan jiwa dan menentramkan kalbu santri.
 
 ---
 

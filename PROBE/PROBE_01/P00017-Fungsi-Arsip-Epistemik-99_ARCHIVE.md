@@ -226,6 +226,34 @@ Untuk menentukan masa simpan dan perlakuan khusus terhadap artefak, ditetapkan m
 | **Laporan Akreditasi & Sertifikasi Mutu**| 5 Tahun | `99_ARCHIVE/historical_charters/`| Abadi Akreditasi (*Statutory*) |
 
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Archival Integrity CI)
@@ -240,52 +268,24 @@ Setiap berkas di `99_ARCHIVE/` wajib memiliki frontmatter YAML standar:
 - `archival_rationale`: Alasan mengapa dokumen ini dipensiunkan.
 - `immutability_state`: Wajib bernilai `SEALED_READ_ONLY`.
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Archival Linter)
+### 8.2. Protokol Validasi Tombstone & Matriks Penguncian Artefak Usang
 
-```python
-import os
-import sys
-import re
+Pengelolaan artefak historis pada direktori `99_ARCHIVE/` diatur oleh prinsip pemeliharaan silsilah pengetahuan tanpa mencemari operasional aktif. Protokol pemeliharaan arsip mencakup:
 
-def audit_archival_isolation():
-    active_dirs = ["01_FUNDAMENTAL", "02_IMPLEMENTATION", "03_OPERATIONAL", "08_SOURCES_AND_EVIDENCE", "09_RESEARCH"]
-    archive_dir = "99_ARCHIVE"
-    violations_found = False
+1. **Kewajiban Banner Tombstone Lengkap**:
+   Setiap berkas yang dipindahkan ke arsip wajib disematkan catatan kepala (*tombstone banner*) yang merinci tanggal pemindahan, alasan pengusangan (*deprecated rationale*), identitas berkas pengganti yang aktif, dan catatan historis relevan.
 
-    # 1. Pindai seluruh file aktif: Dilarang mengimpor atau merujuk 99_ARCHIVE sebagai rujukan normatif
-    for act_dir in active_dirs:
-        if not os.path.exists(act_dir):
-            continue
-        for root, _, files in os.walk(act_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    file_path = os.path.join(root, file)
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        lines = f.readlines()
-                    for idx, line in enumerate(lines):
-                        if "99_ARCHIVE/" in line and not ("sejarah" in line.lower() or "legacy" in line.lower() or "archive" in line.lower()):
-                            print(f"[REVERSE DEPENDENCY VIOLATION] {file_path}:{idx+1} Dokumen aktif merujuk arsip sebagai dependensi: {line.strip()}")
-                            violations_found = True
+2. **Pemutusan Dependensi Aktif (Dependency Severance Invariant)**:
+   Dokumen yang berada di folder aktif (`01_FUNDAMENTAL`, `02_IMPLEMENTATION`, `03_OPERATIONAL`) dilarang menjadikan berkas di `99_ARCHIVE/` sebagai dependensi operasional harian. Hubungan ke arsip hanya diizinkan untuk keperluan studi komparasi sejarah pemikiran.
 
-    # 2. Pindai berkas arsip: Wajib memiliki kotak peringatan tombstone
-    if os.path.exists(archive_dir):
-        for root, _, files in os.walk(archive_dir):
-            for file in files:
-                if file.endswith(".md") and file != "README.md":
-                    arch_path = os.path.join(root, file)
-                    with open(arch_path, "r", encoding="utf-8") as f:
-                        content = f.read()
-                    if not ("> [!CAUTION]" in content or "> [!WARNING]" in content or "tombstone" in content.lower()):
-                        print(f"[UNMARKED ARCHIVE WARNING] {arch_path}: Berkas arsip tidak memiliki peringatan tombstone resmi!")
-                        violations_found = True
+3. **Matriks Kategori Pengarsipan Repositori TUMBUH**:
 
-    return not violations_found
-
-if __name__ == "__main__":
-    if not audit_archival_isolation():
-        sys.exit(1)
-    print("[SUCCESS] Seluruh tata kelola direktori 99_ARCHIVE mematuhi protokol isolasi.")
-```
+| Kategori Arsip | Definisi Dokumen | Syarat Pemindahan ke Arsip | Prosedur Audit Integritas |
+|---|---|---|---|
+| **Superseded Document** | Dokumen yang telah digantikan versi mutakhir | Telah terbit dokumen pengganti definitif | Pemeriksaan tautan berkas pengganti |
+| **Deprecated Paradigm**| Pendekatan yang terbukti tidak kompatibel | Rekomendasi kajian inkuiri PROBE | Penjelasan bahaya atau kelemahan konsep |
+| **Historical Milestone**| Draf rilis awal penanda tonggak evolusi | Berkas berstatus beku (*immutable freeze*) | Penguncian izin penulisan berkas |
+| **Failed Experiment** | Catatan riset atau modul yang gagal diuji | Evaluasi pasca-uji coba lapangan | Penjelasan objektif faktor kegagalan |
 
 ### 8.3. Spesifikasi Banner Peringatan Tombstone Baku
 Setiap dokumen yang dimuseumkan wajib menaruh kotak peringatan visual tepat di bawah judul utama dokumen:
@@ -305,6 +305,11 @@ Sebelum mengeksekusi komit pemindahan berkas ke `99_ARCHIVE/`, operator kearsipa
 3. Seluruh commit message menggunakan konvensi baku: `chore(archive): move <file> to 99_ARCHIVE due to <reason>`.
 4. Berkas pengganti di lapisan aktif telah memiliki tag rilis resmi dan lolos uji linter CI.
 
+
+### 8.4. Prosedur Audit Komparasi Sejarah Epistemik
+Folder `99_ARCHIVE/` bukan sekadar tempat pembuangan naskah usang, melainkan laboratorium sejarah pemikiran sistem TUMBUH. Tim pengembang sistem secara berkala mengadakan sesi *Historical Architecture Retrospective* untuk menganalisis mengapa suatu paradigma masa lalu ditinggalkan dan bagaimana paradigma baru berhasil menyelesaikan kebuntuan tersebut.
+
+Melalui telaah berkas arsip, pengembang baru dapat memahami konteks sosio-historis di balik keputusan-keputusan arsitektural penting. Sebagai contoh, pergeseran dari sistem poin pelanggaran (v1) menuju arsitektur multi-tier PBIS restoratif (v2) dapat dipelajari secara utuh melalui catatan kegagalan sistem poin dalam menekan angka pelanggaran residivis. Pembelajaran institusional ini melindungi ekosistem pesantren dari bahaya mengulang kesalahan desain yang sama di masa depan.
 
 ---
 

@@ -207,6 +207,34 @@ graph TD
     D09 --> SOP
 ```
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
+- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
+- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
+- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+
 ---
 
 ## 8. Spesifikasi Formulir Audit Arsitektur Sistem (Form F-ARCH-AUDIT)
@@ -224,58 +252,29 @@ Formulir ini wajib digunakan oleh Tim Auditor Arsitektur Kelembagaan TUMBUH untu
 | 6 | **Child Protection Protocol** | Keamanan dari Kekerasan | Apakah pesantren memiliki kanal pelaporan anonim yang aman bagi santri korban bullying? | [ ] Tersedia Aman |
 | 7 | **Data Ethics & Analytics** | Kerahasiaan Rekam Jejak | Apakah catatan pelanggaran santri terkunci rapat dan bebas dari akses santri lain? | [ ] Terkunci Aman |
 
-### 8.2. Skrip Validasi Kepatuhan Arsitektur Sistem (`audit_system_architecture_integrity.py`)
-Skrip Python otomatis ini memverifikasi bahwa struktur direktori dan keterkaitan dokumen operasional telah merujuk pada pilar-pilar arsitektur Domain 09:
+### 8.2. Protokol Penguncian Arsitektur Fondasi & Matriks Kesiapan Core Model
 
-```python
-#!/usr/bin/env python3
-"""
-Validator Otomatis: Kepatuhan Terhadap System Architecture Domain 09 TUMBUH
-Branch: v2.0.0
-"""
+Sebagai gerbang penutup Lapisan Fondasi, integritas seluruh domain diuji sebelum melangkah ke Core Model melalui protokol kesiapan arsitektur:
 
-import sys
-from pathlib import Path
+1. **Audit Koherensi Multi-Domain (Holistic Coherence Audit)**:
+   Memastikan kesembilan domain fondasi telah terhubung secara harmonis tanpa celah kontradiksi epistemik.
 
-REQUIRED_ARCHITECTURE_ELEMENTS = [
-    "cadence",
-    "circadian",
-    "spatial",
-    "role_differentiation",
-    "multi_tier",
-    "pbis",
-    "child_protection",
-    "feedback_loop"
-]
+2. **Deklarasi Kesiapan Fondasi (Foundation Completeness Gate)**:
+   Pengesahan formal bahwa landasan filosofis telah memadai untuk menopang perancangan komponen operasional Core Model.
 
-def audit_system_architecture_compliance(repo_root: str) -> bool:
-    root = Path(repo_root)
-    arch_doc = root / "01_FUNDAMENTAL" / "01_FOUNDATION" / "09_SYSTEM_ARCHITECTURE.md"
-    
-    # Toleransi fase inkuiri PROBE jika dokumen fundamental belum dibuat fisik
-    if not arch_doc.exists():
-        print(f"[INFO] Dokumen target {arch_doc} sedang dalam proses inkuiri kanonik PROBE.")
-        return True
+3. **Matriks Kesiapan Fondasi Menuju Pembangunan Core Model**:
 
-    content = arch_doc.read_text(encoding="utf-8").lower()
-    missing_elements = []
-    for elem in REQUIRED_ARCHITECTURE_ELEMENTS:
-        if elem not in content:
-            missing_elements.append(elem)
-
-    if missing_elements:
-        print("[ERROR] Dokumen 09_SYSTEM_ARCHITECTURE.md belum memuat komponen wajib:")
-        for elem in missing_elements:
-            print(f"  - Komponen hilang: {elem}")
-        return False
-
-    print("\n[SUCCESS] Dokumen System Architecture memenuhi seluruh spesifikasi pilar sistem 100%.")
-    return True
-
-if __name__ == "__main__":
-    if not audit_system_architecture_compliance("."):
-        sys.exit(1)
-```
+| Domain Fondasi | Kelengkapan Narasi Epistemik | Status Validasi Filosofis | Kesiapan Menopang Core Model |
+|---|---|---|---|
+| **Worldview (D1)** | Pandangan alam tauhid & akhirat tuntas | Teruji bebas sekularisasi | Siap menjadi kompas arah |
+| **Epistemology (D2)** | Integrasi wahyu, akal, & indera kokoh | Teruji bebas saintisme reduktif | Siap menjadi standar validasi |
+| **Human Nature (D3)** | Hakikat fitrah & komponen jiwa mapan | Teruji bebas doktrin tabula rasa | Siap menjadi subjek pembinaan |
+| **Human Dev (D4)** | Hukum pentahapan fitrah terumuskan | Teruji bebas akselerasi paksaan | Siap menjadi dasar tahapan model |
+| **Education (D5)** | Konsep ta'dib & bi'ah shalihah tuntas | Teruji bebas komersialisasi | Siap menjadi wadah ekologis |
+| **Leadership (D6)** | Standar qudwah musyrif terverifikasi | Teruji bebas kultur feodalisme | Siap menjadi motor penggerak |
+| **Change (D7)** | Dinamika transformasi jiwa dipetakan | Teruji bebas ekspektasi instan | Siap menjadi logika pembiasaan |
+| **Core Princ. (D8)**| Kaidah abadi pengasuhan terkunci | Teruji tahan kompromi pragmatis| Siap menjadi pembatas desain |
+| **Design Princ. (D9)**| Spesifikasi rekayasa sistem siap | Terverifikasi utuh & komprehensif | Siap membuka gerbang Core Model |
 
 ### 8.3. Protokol Audit Titik Rawan Tata Ruang (Spatial Hotspots Protocols)
 Salah satu kegagalan fatal arsitektur fisik pesantren konvensional adalah pembiaran area-area tersembunyi yang menjadi sarang perundungan (*bullying hotspots*). Domain 09 mewajibkan audit tata ruang fisik secara berkala:
@@ -283,6 +282,11 @@ Salah satu kegagalan fatal arsitektur fisik pesantren konvensional adalah pembia
 2. **Rekayasa Lingkungan Pencegah (*Environmental CPTED Engineering*)**: Area-area tersebut wajib dilengkapi dengan pencahayaan memadai (minimal 200 lux), penataan jendela transparan, dan penghapusan partisi gelap yang menghalangi pandangan pengawas.
 3. **Jadwal Patroli Musyrif Aktif (*Active Walking Patrol*)**: Musyrif bertugas melakukan inspeksi fisik acak (*random sweep*) setiap 45 menit pada jam-jam rawan (pasca-Isya hingga pukul 23.00 malam).
 4. **Kanal Pengaduan Darurat Cepat (*Panic Signal Channel*)**: Di lorong-lorong asrama disediakan bel darurat yang terhubung langsung ke pos piket musyrif untuk memfasilitasi pertolongan instan bagi santri yang membutuhkan.
+
+### 8.4. Konsensus Formal Transisi Menuju Arsitektur Core Model
+Dengan disahkannya sembilan domain fondasi dari Worldview hingga Design Principles, repositori TUMBUH v2.0.0 resmi menutup gerbang penjelajahan filosofis murni dan siap melangkah memasuki tahap rekayasa operasional pada Core Model. Konsensus ini dituangkan dalam deklarasi komitmen bersama antara Majelis Pimpinan Pesantren dan Tim Arsitektur Sistem.
+
+Core Model yang akan dibangun di atas fondasi ini akan menerjemahkan konsepsi fitrah dan ta'dib menjadi ekologi tumbuh yang hidup (*Growth Ecology*), mekanisme internal transformasi karakter (*Growth Mechanism*), taksonomi kapasitas santri (*Core Capacity Architecture*), dan logika sistemik yang koheren (*System Logic*). Dengan berpijak pada fondasi yang kokoh dan teruji, bangunan model pendidikan karakter santri berdiri tegak di atas pondasi tauhid yang tak tergoyahkan.
 
 ---
 

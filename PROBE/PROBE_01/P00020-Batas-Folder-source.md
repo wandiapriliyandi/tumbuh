@@ -242,6 +242,29 @@ recommendation: APPROVED FOR EPITEMIC PROMOTION TO LAYER 08
 ```
 
 
+### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
+1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
+   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
+2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
+   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
+3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
+   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
+
+Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
+
+
+### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
+Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
+- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
+- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
+- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
+- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
+- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
+- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Source Boundary CI Guard)
@@ -254,48 +277,24 @@ Skrip CI menjalankan tiga pengujian ketat:
 2. **Raw File Naming & Warning Check**: Memastikan setiap subfolder di `source/` memiliki berkas `README.md` dengan peringatan raksasa bahwa isi folder tersebut adalah bahan mentah non-otoritatif.
 3. **Sensitive PII Detection**: Memindai kemunculan nomor induk santri atau nama lengkap santri pada berkas teks terbuka di folder `source/`.
 
-### 8.2. Skrip Pemeriksa Kepatuhan Otomatis (Python CI Source Guard)
+### 8.2. Protokol Triage Bahan Sumber Mentah & Matriks Isolasi Data Lapangan
 
-```python
-import os
-import sys
-import re
+Bahan mentah di direktori `source/` wajib dikarantina agar tidak disalahartikan sebagai kebenaran resmi (*not source of truth*). Protokol penanganan bahan mentah meliputi:
 
-def audit_source_boundary_isolation():
-    root_dirs = ["01_FUNDAMENTAL", "02_IMPLEMENTATION", "03_OPERATIONAL"]
-    violations = []
-    
-    # Pola deteksi tautan terlarang yang merujuk langsung ke folder source/
-    direct_source_link_pattern = re.compile(r"(\[.*?\]\(.*?source\/.*?\))", re.IGNORECASE)
+1. **Prosedur Anonimisasi & Perlindungan Adab**:
+   Seluruh catatan lapangan, rekaman suara wawancara santri, atau dokumentasi buku pelanggaran lama wajib melalui proses penyamaran identitas (*de-identification*) guna melindungi kehormatan pribadi santri dan sivitas pesantren sesuai etika Islam anti-tajassus.
 
-    for r_dir in root_dirs:
-        if not os.path.exists(r_dir):
-            continue
-        for root, _, files in os.walk(r_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    file_path = os.path.join(root, file)
-                    with open(file_path, "r", encoding="utf-8") as f:
-                        lines = f.readlines()
-                    
-                    for idx, line in enumerate(lines):
-                        if direct_source_link_pattern.search(line):
-                            violations.append(f"[ILLEGAL DIRECT SOURCE LINK] {file_path}:{idx+1} Dokumen operasional/fundamental merujuk langsung ke folder source/: {line.strip()}")
+2. **Larangan Rujukan Langsung ke Dokumen Kebijakan**:
+   Naskah kebijakan di `01_FUNDAMENTAL` dan panduan di `03_OPERATIONAL` dilarang membuat rujukan langsung ke berkas mentah di `source/`. Seluruh data mentah harus disaring dan diuji terlebih dahulu melalui kajian dialektis `PROBE/` dan dicatat keterbatasannya di `08_SOURCES_AND_EVIDENCE`.
 
-    if violations:
-        print(f"[CRITICAL ARTIFACT ERROR] Ditemukan {len(violations)} pelanggaran batas folder source/:")
-        for v in violations:
-            print(f"  - {v}")
-        print("\nSOLUSI: Bahan mentah di folder source/ wajib diproses menjadi bukti di 08_SOURCES_AND_EVIDENCE/ terlebih dahulu!")
-        return False
+3. **Matriks Penapisan Bahan Sumber Menuju Repositori**:
 
-    print("[SUCCESS] Seluruh lapisan repositori terlindungi dari ketergantungan langsung terhadap folder source/.")
-    return True
-
-if __name__ == "__main__":
-    if not audit_source_boundary_isolation():
-        sys.exit(1)
-```
+| Status Bahan | Karakteristik Dokumen | Hak Akses & Distribusi | Syarat Pengolahan Lanjutan |
+|---|---|---|---|
+| **Raw Intake** | Catatan harian kasar, transkrip musyrif | Terbatas pada tim peneliti inti | Anonimisasi identitas santri & musyrif |
+| **Processed Corpus** | Bahan mentah terindeks & terkategori | Lingkungan kerja inkuiri internal | Pengecekan silang bukti lapangan |
+| **Evidence Synthesis**| Data tervalidasi di lapis 08 | Sivitas perancang sistem repositori | Uji batasan konteks & limitasi data |
+| **Ketetapan Sistem** | Prinsip fundamental hasil sintesis | Terbuka untuk seluruh jaringan pesantren| Melalui dialektika monograf PROBE |
 
 ### 8.3. Spesifikasi Banner Peringatan Wajib Direktori source/
 Setiap subdirektori di dalam folder `source/` diwajibkan memiliki berkas `README.md` yang memuat banner peringatan resmi:
@@ -309,6 +308,12 @@ Setiap subdirektori di dalam folder `source/` diwajibkan memiliki berkas `README
 > 2. Dilarang keras menerapkan isi berkas di folder ini sebagai SOP atau peraturan asrama santri.
 > 3. Dokumen di folder ini tidak boleh dirujuk langsung oleh berkas di `01_FUNDAMENTAL/` atau `03_OPERATIONAL/`.
 ```
+
+### 8.4. Protokol Etika Digital dan Dekontaminasi Data Mentah
+Proses pengolahan bahan mentah di direktori `source/` tunduk pada prinsip kehati-hatian tingkat tinggi terkait perlindungan data pribadi santri (*Personal Data Protection*). Tim pengumpul data lapangan wajib mematuhi protokol dekontaminasi digital berikut:
+1. **Pemisahan Identitas Langsung**: Nama asli, nomor induk santri, identitas wali, dan nama daerah asal dihapus dan digantikan dengan kode pseudonim acak yang hanya dapat didekripsi oleh Komite Etik Pengasuhan.
+2. **Penghapusan Metadata Media Digital**: Rekaman audio atau foto dokumentasi kegiatan kamar dibersihkan dari metadata EXIF (informasi lokasi GPS, waktu presisi, dan model perangkat perekam) guna mencegah kebocoran privasi asrama.
+3. **Batas Masa Simpan Bahan Kasar**: Rekaman wawancara dan catatan mentah yang telah ditranskrip dan disintesis ke dalam laporan bukti diwajibkan untuk diarsipkan secara terenkripsi dan dihapus dari ruang kerja harian setelah periode retensi 12 bulan terpenuhi.
 
 ---
 
