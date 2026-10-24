@@ -37,3 +37,4 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 
 - [`P00000` — Mengapa Ekosistem TUMBUH Membutuhkan Branch V2? Dialektika Kontinuitas Historis (Lineage) dan Kebebasan Restrukturisasi Arsitektural](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md)
 - [`P00001` — Dekonstruksi Status V2: Mengapa V2 Bukan Penulisan Ulang dari Nol (Clean-Slate Fallacy) Melainkan Penyempurnaan Berkelanjutan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00001-Dekonstruksi-Status-V2-Mengapa-Bukan-Penulisan-Ulang-dari-Nol.md)
+- [`P00002` — Hakikat Git Branch sebagai Penanda Fase Arsitektural dan Bukan Sekadar Utilitas Teknis Perangkat Lunak](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00002-Hakikat-Git-Branch-sebagai-Penanda-Fase-Arsitektural.md)
