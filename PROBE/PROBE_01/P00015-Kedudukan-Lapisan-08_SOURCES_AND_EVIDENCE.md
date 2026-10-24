@@ -117,7 +117,7 @@ Pakar filsafat pendidikan Gert Biesta (2007, 2010) mengkritik keras ilusi teknok
 - Sains empiris sama sekali **tidak mampu menjawab pertanyaan normatif dan etis**: *"Apakah tujuan itu bernilai baik secara moral?"* (*what is educationally and ethically desirable*).
 - Menjadikan bukti empiris sebagai pengambil keputusan otomatis merupakan bentuk dehumanisasi pendidikan, karena menggeser pertimbangan nilai etika (*value judgment*) menjadi sekadar perhitungan kalkulatif efisiensi.
 
-Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22. https://doi.org/10.1007/s11217-006-9006-7
+Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
 
 Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
 
@@ -368,14 +368,14 @@ Tujuh penjaga gerbang epistemik bukti yang wajib ditaati:
 - As-Subki, T. (1999). *Jam'ul jawami' fi ushul al-fiqh bi syarh al-mahalli* (A. A. al-Muzayyad, Ed.; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
 - Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
 - Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
-- Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22. https://doi.org/10.1007/s11217-006-9006-7
+- Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
 - Biesta, G. (2010). *Good education in an age of measurement: Ethics, politics, democracy*. Routledge.
 - Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide to doing it better*. Oxford University Press.
 - Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
 - Ibn Qayyim al-Jauziyyah, M. (2007). *At-Turuq al-hukmiyyah fi as-siyasah asy-syar'iyyah* (J. M. Sayyid, Ed.). Dar 'Alam al-Fawa'id.
 - Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
-- Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, 312(7023), 71–72. https://doi.org/10.1136/bmj.312.7023.71
-- Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21. https://doi.org/10.3102/0013189x031007015
+- Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, 312(7023), 71–72.
+- Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21.
 - Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas: An exposition of the original concept of Islamization*. ISTAC.
 
 ---

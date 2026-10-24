@@ -115,9 +115,9 @@ Jeffrey Beall (2012) dan Eriksson & Helgesson (2017) memetakan kriteria jurnal p
 - Janji publikasi kilat berbayar tanpa revisi substantif.
 - Dewan redaksi fiktif atau pencantuman nama ilmuwan besar tanpa izin mereka.
 
-Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71. https://doi.org/10.1136/bmj.n71
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71.
 
-Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170. https://doi.org/10.1080/08989621.2016.1264873
+Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170.
 
 Pustaka di direktori `REFERENCES/` diwajibkan bebas 100% dari penerbit predator, dan setiap rujukan wajib memiliki metadata DOI atau ISBN yang dapat diverifikasi secara daring.
 
@@ -289,7 +289,7 @@ Berikut adalah format baku yang wajib diterapkan untuk setiap entri rujukan:
 
 ```markdown
 ### Rujukan Sains Modern
-- Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14. https://doi.org/10.17161/fec.v42i8.6906
+- Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
 
 ### Rujukan Turats Klasik Berharakat
 - Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1–4). Dar Ibn 'Affan.
@@ -365,14 +365,14 @@ Tujuh prinsip tata kelola bibliografi yang wajib ditaati:
 - Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
 - Al-Khatib al-Baghdadi, A. B. (1974). *Taqyid al-'ilm* (Y. al-'Usy, Ed.). Dar Ihya' as-Sunnah an-Nabawiyyah.
 - Al-Qadhi 'Iyadh, I. M. (1970). *Al-Ilma' ila ma'rifat ushul ar-riwayah wa taqyid as-sama'* (A. Shaqr, Ed.). Dar at-Turats.
-- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). https://doi.org/10.1037/0000165-000
-- Beall, J. (2012). Predatory publishers are corrupting open access. *Nature*, 489(7415), 179. https://doi.org/10.1038/489179a
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.).
+- Beall, J. (2012). Predatory publishers are corrupting open access. *Nature*, 489(7415), 179.
 - Booth, A., Sutton, A., & Papaioannou, D. (2016). *Systematic approaches to a successful literature review* (2nd ed.). SAGE Publications.
 - Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
-- Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170. https://doi.org/10.1080/08989621.2016.1264873
+- Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170.
 - Ibnu Jama'ah, B. (2012). *Tadzkirat as-sami' wa al-mutakallim fi adab al-'alim wa al-muta'allim* (M. H. an-Nadwi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-- Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews*, 4(1), Article 1. https://doi.org/10.1186/2046-4053-4-1
-- Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71. https://doi.org/10.1136/bmj.n71
+- Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews*, 4(1), Article 1.
+- Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71.
 - Saldaña, J. (2016). *The coding manual for qualitative researchers* (3rd ed.). SAGE Publications.
 - Wan Mohd Nor Wan Daud. (1998). *The educational philosophy and practice of Syed Muhammad Naquib al-Attas*. ISTAC.
 

@@ -371,7 +371,7 @@ Tujuh prinsip tata kelola kearsipan yang wajib dipatuhi:
 - Ibn Hajar al-Asqalani, A. (1984). *Tahdzib at-tahdzib* (Jilid 1). Dar al-Fikr.
 - ISO. (2012). *Space data and information transfer systems — Open archival information system (OAIS) — Reference model* (ISO Standard No. 14721:2012). International Organization for Standardization.
 - Jenkinson, H. (1937). *A manual of archive administration* (2nd ed.). Percy Lund, Humphries & Co.
-- Lavoie, B. (2014). *The Open Archival Information System (OAIS) reference model: Introductory guide* (2nd ed.). Digital Preservation Coalition. https://doi.org/10.7207/twr14-02
+- Lavoie, B. (2014). *The Open Archival Information System (OAIS) reference model: Introductory guide* (2nd ed.). Digital Preservation Coalition.
 - Millar, L. A. (2017). *Archives: Principles and practices* (2nd ed.). Neal-Schuman Publishers.
 - National Archives and Records Administration. (2020). *Records management guidance for agency leaders*. NARA.
 

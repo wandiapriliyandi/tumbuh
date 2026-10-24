@@ -111,9 +111,9 @@ Jerome Saltzer dan Michael Schroeder (1975) dalam makalah klasik *The Protection
 
 Ford, N., Parsons, R., & Kua, P. (2017). *Building evolutionary architectures: Support constant change*. O'Reilly Media.
 
-Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308. https://doi.org/10.1109/proc.1975.9939
+Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
 
-van Gurp, J., & Bosch, J. (2002). Design erosion: Problems and causes. *Journal of Systems and Software*, 61(2), 105–119. https://doi.org/10.1016/s0164-1212(01)00152-2
+van Gurp, J., & Bosch, J. (2002). Design erosion: Problems and causes. *Journal of Systems and Software*, 61(2), 105–119.)00152-2
 
 Dalam ekosistem TUMBUH, *Defense-in-Depth* diwujudkan melalui 3 lapis filter: pre-commit hook lokal di komputer kontributor, linter pipeline di GitHub Actions, dan audit mutu berkala oleh Majelis Pakar.
 
@@ -374,9 +374,9 @@ Tujuh prinsip pertahanan repositori yang wajib dijaga tanpa kompromi:
 - Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
 
 - Martin, R. C. (2018). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-- Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes*, 17(4), 40–52. https://doi.org/10.1145/141874.141884
-- Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308. https://doi.org/10.1109/proc.1975.9939
-- van Gurp, J., & Bosch, J. (2002). Design erosion: Problems and causes. *Journal of Systems and Software*, 61(2), 105–119. https://doi.org/10.1016/s0164-1212(01)00152-2
+- Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes*, 17(4), 40–52.
+- Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
+- van Gurp, J., & Bosch, J. (2002). Design erosion: Problems and causes. *Journal of Systems and Software*, 61(2), 105–119.)00152-2
 
 ---
 

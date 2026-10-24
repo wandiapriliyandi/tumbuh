@@ -375,8 +375,8 @@ Tujuh prinsip tata kelola bahan mentah yang wajib ditaati:
 - Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
 - Loshin, D. (2010). *Master data management*. Morgan Kaufmann.
 - Redman, T. C. (2008). *Data driven: Profiting from your most important business asset*. Harvard Business Press.
-- Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110. https://doi.org/10.1145/253769.253773
-- Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33. https://doi.org/10.1080/07421222.1996.11518099
+- Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
+- Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
 
 ---
 

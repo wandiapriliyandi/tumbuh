@@ -123,7 +123,7 @@ Dalam ekosistem TUMBUH, musyrif asrama adalah tipikal *street-level bureaucrats*
 ### 4.3. Kesetiaan Intervensi dalam Implementation Science
 Dalam literatur *Implementation Science*, Fixsen et al. (2005) serta Durlak dan DuPre (2008) mengkaji fenomena *intervention fidelity* (kesetiaan intervensi). Riset mereka membuktikan bahwa kegagalan program-program intervensi perilaku di lingkungan pendidikan 70% bukan disebabkan oleh kelemahan teori dasar, melainkan karena *program drift* pada tingkat implementasi operasional harian. Ketika para fasilitator lapangan memodifikasi komponen inti (*core components*) intervensi tanpa memahami mekanisme kausalnya, efektivitas positif program merosot drastis dan sering kali menimbulkan efek sampingan yang membahayakan (*iatrogenic harm*).
 
-Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350. https://doi.org/10.1007/s10464-008-9165-0
+Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
 
 Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
 
@@ -368,12 +368,12 @@ Tujuh prinsip pencegahan penyimpangan operasional yang wajib dipatuhi:
 - Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah*. Dar al-Kutub al-'Ilmiyyah.
 - Ar-Razi, F. (1997). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-'Alwani, Ed.; Jilid 5). Mu'assasah ar-Risalah.
 - Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 3). Dar Ibn 'Affan.
-- Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350. https://doi.org/10.1007/s10464-008-9165-0
+- Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
 - Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
 - Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
 - Kelsen, H. (1967). *Pure theory of law* (M. Knight, Trans.). University of California Press.
 - Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in public services*. Russell Sage Foundation.
-- Meyers, D. C., Durlak, J. A., & Wandersman, A. (2012). The quality implementation framework: A synthesis of critical steps in the implementation process. *American Journal of Community Psychology*, 50(3–4), 462–480. https://doi.org/10.1007/s10464-012-9522-x
+- Meyers, D. C., Durlak, J. A., & Wandersman, A. (2012). The quality implementation framework: A synthesis of critical steps in the implementation process. *American Journal of Community Psychology*, 50(3–4), 462–480.
 - Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
 - Pressman, J. L., & Wildavsky, A. (1984). *Implementation: How great expectations in Washington are dashed in Oakland* (3rd ed.). University of California Press.
 

@@ -126,7 +126,7 @@ Riset di `09_RESEARCH/` diarahkan untuk berada pada **Kuadran Pasteur**: menggal
 
 Stokes, D. E. (1997). *Pasteur's quadrant: Basic science and technological innovation*. Brookings Institution Press.
 
-March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87. https://doi.org/10.1287/orsc.2.1.71
+March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
 
 ---
 
@@ -371,9 +371,9 @@ Tujuh prinsip tata kelola riset yang wajib ditaati oleh seluruh peneliti TUMBUH:
 - Dewey, J. (1938). *Logic: The theory of inquiry*. Henry Holt and Company.
 - Ibn Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 19). Majma' al-Malik Fahd.
 
-- March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87. https://doi.org/10.1287/orsc.2.1.71
+- March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
 - Mertens, D. M. (2020). *Research and evaluation in education and psychology: Integrating diversity with quantitative, qualitative, and mixed methods* (5th ed.). SAGE Publications.
-- Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing research and development at the intersection of practice and design: Design-based implementation research. *Teachers College Record*, 113(12), 2698–2718. https://doi.org/10.1177/016146811111301201
+- Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing research and development at the intersection of practice and design: Design-based implementation research. *Teachers College Record*, 113(12), 2698–2718.
 
 - Stokes, D. E. (1997). *Pasteur's quadrant: Basic science and technological innovation*. Brookings Institution Press.
 - Yin, R. K. (2018). *Case study research and applications: Design and methods* (6th ed.). SAGE Publications.
