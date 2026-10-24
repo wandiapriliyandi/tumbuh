@@ -78,6 +78,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00034` — Mengapa Tahap 1 Dinamakan Tahap Pembiasaan Dasar?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00034-Mengapa-Tahap-1-Dinamakan-Tahap-Pembiasaan-Dasar.md)
 - [`P00035` — Mengapa Tahap 2 Dinamakan Tahap Penyadaran Nilai?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00035-Mengapa-Tahap-2-Dinamakan-Tahap-Penyadaran-Nilai.md)
 - [`P00036` — Mengapa Tahap 3 Dinamakan Tahap Penguatan Karakter?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00036-Mengapa-Tahap-3-Dinamakan-Tahap-Penguatan-Karakter.md)
+- [`P00037` — Mengapa Tahap 4 Dinamakan Tahap Kemandirian Terbimbing?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00037-Mengapa-Tahap-4-Dinamakan-Tahap-Kemandirian-Terbimbing.md)
 
 
 
