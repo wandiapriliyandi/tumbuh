@@ -70,6 +70,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00026` — Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00026-Mengapa-Human-Nature-Hakikat-Insan-Berada-Tepat-Setelah-Epistemology.md)
 - [`P00027` — Mengapa Human Development (Perkembangan Insan) Ditempatkan Setelah Human Nature?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00027-Mengapa-Human-Development-Perkembangan-Insan-Ditempatkan-Setelah-Human-Nature.md)
 - [`P00028` — Mengapa Education (Hakikat Pendidikan) Diletakkan Setelah Pemahaman Perkembangan Insan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00028-Mengapa-Education-Hakikat-Pendidikan-Diletakkan-Setelah-Pemahaman-Perkembangan-Insan.md)
+- [`P00029` — Mengapa Leadership (Keteladanan Qudwah) Menjadi Keniscayaan Setelah Domain Pendidikan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00029-Mengapa-Leadership-Keteladanan-Qudwah-Menjadi-Keniscayaan-Setelah-Domain-Pendidikan.md)
 
 
 
