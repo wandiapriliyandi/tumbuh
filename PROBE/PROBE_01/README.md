@@ -57,6 +57,8 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00016` — Peran Lapisan 09_RESEARCH: Membedakan Penelitian Eksploratif Mandiri dari Regulasi Kebijakan Resmi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md)
 - [`P00017` — Fungsi Arsip Epistemik 99_ARCHIVE: Mengelola Museum Dokumen Usang Tanpa Memutus Silsilah Sejarah](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00017-Fungsi-Arsip-Epistemik-99_ARCHIVE.md)
 - [`P00018` — Posisi Pustaka REFERENCES/: Tata Kelola Bibliografi Rujukan Terkurasi Lintas Disiplin Ilmu](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md)
+- [`P00019` — Kedudukan Direktori METHODOLOGY/: Mengatur Tata Cara Kerja Penyelidikan Tanpa Mengatur Isi Substansi Sistem](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md)
+
 
 
 
