@@ -36,3 +36,4 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 *(Daftar berkas akan diperbarui secara otomatis seiring selesainya penulisan tiap-tiap monograf kanonik).*
 
 - [`P00000` — Mengapa Ekosistem TUMBUH Membutuhkan Branch V2? Dialektika Kontinuitas Historis (Lineage) dan Kebebasan Restrukturisasi Arsitektural](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md)
+- [`P00001` — Dekonstruksi Status V2: Mengapa V2 Bukan Penulisan Ulang dari Nol (Clean-Slate Fallacy) Melainkan Penyempurnaan Berkelanjutan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00001-Dekonstruksi-Status-V2-Mengapa-Bukan-Penulisan-Ulang-dari-Nol.md)
