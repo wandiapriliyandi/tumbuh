@@ -64,31 +64,54 @@ flowchart TD
 
 ---
 
-## 3. Checklist Audit Mutu Bibliografi (Quality Gate Sitasi)
+## 3. 4 Kaidah Emas Penempatan Sitasi Akademis (Golden Rules)
 
-Sebelum berkas monograf dinyatakan **🌟 A+**, Auditor Sitasi wajib memverifikasi checklist berikut:
+Pakar Validasi Sitasi menegakkan 4 kaidah baku filologi dan tipografi ilmiah modern tanpa kompromi:
+
+1. **Aturan Anti-Sitasi Bertumpuk (Anti-Stacked Citations Rule)**:
+   * Dilarang keras menumpuk dua atau lebih nomor catatan kaki pada ujung satu kalimat atau satu titik tanda baca (`[^1][^2]` atau `[^5][^6]`).
+   * Setiap rujukan wajib melekat secara spesifik pada klausa, karya, atau proposisi kalimat yang memang dibahas oleh pengarang tersebut secara mandiri. Bila dua pengarang dikutip berurutan, pisahkan menjadi dua kalimat atau dua paragraf mandiri.
+2. **Aturan Penempatan Gramatikal Eksak (Grammatical Precision Rule)**:
+   * Nomor superskrip catatan kaki (`[^n]`) wajib diletakkan di luar tanda kurung atau tepat setelah tanda baca penutup (titik atau koma).
+   * Dilarang keras menyelipkan tag di dalam kurung halaman (misal: `hlm. 21[^1]` adalah keliru; yang benar `hlm. 21).[^1]`), nomor hadits (`No. 3535[^5]` adalah keliru; yang benar `No. 3535).[^5]`), atau penamaan versi/branch teknis (misal: `v2[^1].0.0` adalah keliru fatal; yang benar `v2.0.0`).
+3. **Aturan Eliminasi Teks Mentah APA di Tubuh Narasi (No Raw Floating References)**:
+   * Seluruh entri sitasi bibliografis lengkap (Nama, Tahun, Judul, Penerbit) hanya boleh berada di **Bagian 11 (Catatan Kaki Akademis & Bibliografi Terkurasi)**.
+   * Di dalam paragraf tubuh narasi (Bagian 1 s/d 10), nama tokoh dan tahun cukup dirujuk secara kontekstual disertai superskrip `[^n]`, tidak boleh ada baris mentah APA yang tercecer di tengah teks.
+4. **Aturan Keterurutan Kronologis Mutlak (Strictly Sequential 1-to-N)**:
+   * Urutan kemunculan nomor sitasi di dalam teks tubuh wajib mengalir secara berurutan: `[^1]`, lalu `[^2]`, lalu `[^3]`, hingga `[^N]`.
+   * Daftar catatan kaki pada Bagian 11 wajib disusun dalam urutan yang sama persis 1-to-1 dengan urutan pemanggilannya di dalam teks.
+
+---
+
+## 4. Checklist Audit Mutu Bibliografi (Quality Gate Sitasi)
+
+Sebelum berkas monograf dinyatakan lolos verifikasi sempurna, Auditor Sitasi wajib memverifikasi checklist berikut:
 
 | No | Parameter Audit Sitasi | Kriteria Lolos Mutlak | Status Verifikasi |
 | :---: | :--- | :--- | :---: |
-| 1 | **Kuantitas Rujukan Primer** | Minimal memuat **10 hingga 15 entri daftar pustaka primer** pada Bagian III. | [ ] |
-| 2 | **Kuantitas Footnotes** | Minimal memuat **12 hingga 18 sitasi catatan kaki** (`[^1]` s/d `[^16]`) yang terhubung 1-to-1. | [ ] |
-| 3 | **Kesesuaian Takhrij Hadits** | Setiap hadits mencantumkan perawi dan nomor hadits valid yang dapat dilacak. | [ ] |
-| 4 | **Keotentikan Teks Arab** | Matan Arab berharakat rapi tanpa kesalahan tipografi nash syar'i. | [ ] |
-| 5 | **Standarisasi Format APA 7th**| Penulisan jurnal dan buku modern konsisten mengikuti kaidah APA 7th Edition. | [ ] |
-| 6 | **Zero Fake Citation** | Seluruh nama tokoh dan judul riset adalah literatur yang benar-benar ada secara akademis. | [ ] |
-| 7 | **Glosarium Istilah** | Memuat minimal **10 entri glosarium** dengan definisi operasional yang jelas. | [ ] |
+| 1 | **Kesesuaian 1-to-1 Presisi** | Setiap `[^n]` di teks memiliki pasangan di Bagian 11, tanpa ada tag/entri gantung. | [ ] |
+| 2 | **Zero Stacked Citations** | Tidak ada sitasi ganda bertumpuk (`[^a][^b]`). Setiap sitasi berdiri pada kalimat mandiri. | [ ] |
+| 3 | **Keterurutan Kronologis** | Seluruh nomor sitasi mengalir urut $1, 2, 3, \dots, N$ dari awal bab ke akhir bab. | [ ] |
+| 4 | **Ketepatan Posisi Gramatikal** | Tag sitasi berada setelah tanda baca atau di luar kurung (bebas dari angka halaman/hadits). | [ ] |
+| 5 | **Kuantitas Rujukan Primer** | Memuat minimal **10 hingga 25 entri pustaka primer** yang disintesiskan secara substantif. | [ ] |
+| 6 | **Kesesuaian Takhrij Hadits** | Setiap hadits mencantumkan perawi, nomor hadits baku, dan derajat keshahihan minimal Hasan. | [ ] |
+| 7 | **Keotentikan Teks Arab** | Matan Arab berharakat rapi tanpa kesalahan tipografi nash syar'i. | [ ] |
+| 8 | **Standarisasi APA 7th Bersih** | Bebas mutlak dari tautan komersial berbayar `doi.org`; metadata lengkap teks bersih. | [ ] |
+| 9 | **Zero Raw Floating Lines** | Tidak ada baris daftar pustaka mentah yang tercecer di dalam paragraf narasi. | [ ] |
+| 10 | **Glosarium Terminologi** | Memuat minimal 10 entri istilah kunci dengan definisi operasional komprehensif. | [ ] |
 
 ---
 
-## 4. Perintah Khusus Pemeriksaan Cepat (Fast Verification Routine)
+## 5. Perintah Khusus Pemeriksaan Cepat (Fast Verification Routine)
 Jika agen diminta memeriksa sitasi dokumen tertentu, jalankan protokol:
-1. Scan seluruh tag `[^n]` dalam teks dan pastikan ada pasangannya di bagian `### 3. Catatan Kaki Akademis (*Footnotes*)`.
-2. Cross-check setiap nama penulis di `Daftar Pustaka` dengan sitasi dalam naskah (*In-Text Citations*).
-3. Verifikasi apakah ada hadits tanpa nomor perawi, lalu lengkapi dengan nomor hadits baku.
+1. Scan seluruh tag `[^n]` dalam teks dan pastikan ada pasangannya di bagian `## 11. Catatan Kaki Akademis (*Footnotes*)`.
+2. Pastikan tidak ada satupun pola regex `\[\^\d+\]\[\^\d+\]` (sitasi bertumpuk).
+3. Cross-check setiap nama penulis di `Daftar Pustaka` dengan sitasi dalam naskah (*In-Text Citations*).
+4. Verifikasi bahwa penomoran in-text berjalan strictly sequential dari 1 hingga N.
 
 ---
 
-## 5. Protokol Kurasi & Pembaruan Folder `REFERENCES/` (Auto-Cataloging)
+## 6. Protokol Kurasi & Pembaruan Folder `REFERENCES/` (Auto-Cataloging)
 
 Skill ini bertanggung jawab penuh sebagai **Kustodian Resmi Folder `REFERENCES/`**. Setiap kali berkas PROBE, Fundamental, atau Implementation mengkaji atau mengutip karya baru yang belum terdaftar:
 
@@ -101,4 +124,3 @@ Skill ini bertanggung jawab penuh sebagai **Kustodian Resmi Folder `REFERENCES/`
    - Fokus Utama Pembahasan & Lokus Integrasi Domain TUMBUH (misal: `01_FUNDAMENTAL/01_PHILOSOPHY`).
 3. **Penyisipan Otomatis ke File Katalog Terkait**: Tambahkan baris baru ke tabel Markdown katalog yang relevan.
 4. **Validasi Anti-Halusinasi**: Pastikan karya yang dimasukkan benar-benar ada dan otentik secara filologis dan akademis sebelum dicatat ke repositori.
-
