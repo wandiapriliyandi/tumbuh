@@ -55,6 +55,8 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00014` — Batas Kewenangan Lapisan 03_OPERATIONAL: Menjamin Perangkat SOP Lapangan Tidak Diam-Diam Mengubah Definisi TUMBUH](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00014-Batas-Kewenangan-Lapisan-03-OPERATIONAL.md)
 - [`P00015` — Kedudukan Lapisan 08_SOURCES_AND_EVIDENCE: Mengapa Bukti Empiris Bukan Keputusan Otomatis Sistem](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00015-Kedudukan-Lapisan-08_SOURCES_AND_EVIDENCE.md)
 - [`P00016` — Peran Lapisan 09_RESEARCH: Membedakan Penelitian Eksploratif Mandiri dari Regulasi Kebijakan Resmi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md)
+- [`P00017` — Fungsi Arsip Epistemik 99_ARCHIVE: Mengelola Museum Dokumen Usang Tanpa Memutus Silsilah Sejarah](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00017-Fungsi-Arsip-Epistemik-99_ARCHIVE.md)
+
 
 
 
