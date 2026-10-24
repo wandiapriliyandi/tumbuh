@@ -62,6 +62,10 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00020` — Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00020-Batas-Folder-source.md)
 - [`P00021` — Protokol Pertahanan Lapisan Repositori: Mekanisme Verifikasi Otomatis untuk Mencegah Kebocoran Antarlayer](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md)
 
+### Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH
+- [`P00022` — Mengapa Foundation Menjadi Pintu Gerbang Pertama Seluruh Bangunan Arsitektur TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00022-Mengapa-Foundation-Menjadi-Pintu-Gerbang-Pertama.md)
+
+
 
 
 
