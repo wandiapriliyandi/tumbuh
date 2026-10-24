@@ -49,3 +49,4 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 
 ### Pilar 2: Stratifikasi Lapisan Repositori & Separation of Concerns
 - [`P00010` — Mengapa Repositori TUMBUH Dipisahkan Berdasarkan Fungsi Lapisan Epistemik (Separation of Epistemic Concerns)?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md)
+- [`P00011` — Anatomi Alur Epistemik Repositori: Dari Bahan Sumber Mentah (Source) Menuju Tindakan Nyata (Praktik)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md)
