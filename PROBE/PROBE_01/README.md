@@ -47,3 +47,5 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00008` — Kriteria Kematangan Promosi Branch: Kapan Status V2 Layak Ditetapkan Menjadi Baseline Kanonik Pengganti Main](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00008-Kriteria-Kematangan-Promosi-Branch-V2-ke-Main.md)
 - [`P00009` — Piagam Komitmen Epistemik V2: Menolak Kompromi Pragmatis yang Merendahkan Martabat Keilmuan Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00009-Piagam-Komitmen-Epistemik-V2.md)
 
+### Pilar 2: Stratifikasi Lapisan Repositori & Separation of Concerns
+- [`P00010` — Mengapa Repositori TUMBUH Dipisahkan Berdasarkan Fungsi Lapisan Epistemik (Separation of Epistemic Concerns)?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md)
