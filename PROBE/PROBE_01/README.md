@@ -68,6 +68,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00024` — Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md)
 - [`P00025` — Mengapa Epistemology Wajib Diletakkan Langsung Setelah Worldview?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00025-Mengapa-Epistemology-Wajib-Diletakkan-Langsung-Setelah-Worldview.md)
 - [`P00026` — Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00026-Mengapa-Human-Nature-Hakikat-Insan-Berada-Tepat-Setelah-Epistemology.md)
+- [`P00027` — Mengapa Human Development (Perkembangan Insan) Ditempatkan Setelah Human Nature?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00027-Mengapa-Human-Development-Perkembangan-Insan-Ditempatkan-Setelah-Human-Nature.md)
 
 
 
