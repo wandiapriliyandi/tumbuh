@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan sintesis pamungkas bagi Pilar 2 (Stratifikasi Lapisan Repositori & *Separation of Concerns*) dengan menetapkan **Protokol Pertahanan Lapisan Repositori (Repository Boundary Defense Protocol)** dalam ekosistem TUMBUH v2.0.0. Sepanjang sejarah rekayasa sistem informasi dan tata kelola korpus pengetahuan, musuh terbesar dari sistem yang terstruktur rapi bukanlah serangan terbuka dari luar, melainkan fenomena pembusukan arsitektural internal yang berlangsung perlahan (*architectural erosion, boundary leakage, and design decay*). Ketika batas-batas antarlapisan repositori hanya diatur di atas kertas sebagai imbauan moral tanpa penegakan otomatis berbasis kode, praktisi lapangan dan kontributor repositori akan secara alamiah melanggar demarkasi lapisan demi mengejar kepraktisan jangka pendek: SOP lapangan mulai mendikte filosofi fundamental, catatan kasar lapangan disamakan dengan kebenaran mutlak, dan eksperimen riset yang belum teruji bocor menjadi regulasi mengikat santri.
 
-Penyelidikan kanonik ini menetapkan benteng pertahanan terpadu (*defense-in-depth architecture*) untuk menjamin pemisahan keprihatinan epistemik secara permanen dan otomatis. Melalui integrasi antara prinsip syariat *Sadd adz-Dzara'i'* (menutup rapat segala celah yang menghantarkan pada kerusakan sistemik) dan kaidah ushul fikih *Dar'ul Mafasid Muqaddamun 'ala Jalbil Mashalih* dengan teori rekayasa perangkat lunak modern mengenai *Architectural Fitness Functions* (Ford, Parsons, & Kua, 2017) dan prinsip keamanan sistem Saltzer-Schroeder (1975), dokumen ini membangun mesin verifikasi berlapis (*multi-tier verification engine*)[^1]. Dokumen ini merumuskan protokol pertahanan 5 tahap, skrip master linter CI pemeriksa kebocoran lapisan (*Master Architectural Boundary Linter*), matriks audit kesehatan lapisan berkala, serta mengunci keputusan kanonik bahwa **Pilar 2 Repositori Branch v2.0.0 resmi ditutup dan dikokohkan secara permanen**.
+Penyelidikan kanonik ini menetapkan benteng pertahanan terpadu (*defense-in-depth architecture*) untuk menjamin pemisahan keprihatinan epistemik secara permanen dan otomatis. Melalui integrasi antara prinsip syariat *Sadd adz-Dzara'i'* (menutup rapat segala celah yang menghantarkan pada kerusakan sistemik) dan kaidah ushul fikih *Dar'ul Mafasid Muqaddamun 'ala Jalbil Mashalih* dengan teori rekayasa perangkat lunak modern mengenai *Architectural Fitness Functions* (Ford, Parsons, & Kua, 2017) dan prinsip keamanan sistem Saltzer-Schroeder (1975), dokumen ini membangun mesin verifikasi berlapis (*multi-tier verification engine*). Dokumen ini merumuskan protokol pertahanan 5 tahap, skrip master linter CI pemeriksa kebocoran lapisan (*Master Architectural Boundary Linter*), matriks audit kesehatan lapisan berkala, serta mengunci keputusan kanonik bahwa **Pilar 2 Repositori Branch v2.0.0 resmi ditutup dan dikokohkan secara permanen**.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & COMPREHENSIVE DEFENSE SPECIFICATION`
@@ -19,7 +19,7 @@ Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 
 ## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Architectural Erosion)
 
-Dalam siklus hidup organisasi pendidikan berasrama yang beroperasi 24 jam, korpus regulasi dan dokumen operasional senantiasa mengalami tekanan degradasi. Perry dan Wolf (1992) serta van Gurp dan Bosch (2002) mengidentifikasi bahwa sebuah arsitektur yang dirancang dengan sangat indah pada fase awal akan mengalami erosi arsitektural (*architectural drift and erosion*) seiring bergantinya personel, bertambahnya dokumen darurat, dan masuknya kontributor baru yang tidak memahami filosofi stratifikasi lapisan[^3].
+Dalam siklus hidup organisasi pendidikan berasrama yang beroperasi 24 jam, korpus regulasi dan dokumen operasional senantiasa mengalami tekanan degradasi. Perry dan Wolf (1992) serta van Gurp dan Bosch (2002) mengidentifikasi bahwa sebuah arsitektur yang dirancang dengan sangat indah pada fase awal akan mengalami erosi arsitektural (*architectural drift and erosion*) seiring bergantinya personel, bertambahnya dokumen darurat, dan masuknya kontributor baru yang tidak memahami filosofi stratifikasi lapisan[^1].
 
 Di lingkungan pesantren modern, patologi pembusukan arsitektur repositori termanifestasi dalam enam gejala sistemik:
 
@@ -49,7 +49,7 @@ Kondisi kritis ini membuktikan bahwa **peraturan tertulis tanpa penegakan otomat
 
 Dalam khazanah ushul fikih Islam, mekanisme preventif yang menutup celah penyimpangan sebelum terjadi kerusakan nyata telah dikodifikasikan secara mendalam melalui doktrin *Sadd adz-Dzara'i'* (menutup sarana menuju mafsadat) dan kaidah *Dar'ul Mafasid*.
 
-Imam Syihabuddin al-Qarafi dalam *al-Furuq* (Jilid 2, hlm. 32–34[^4]) membagi sarana (*adz-dzara'i'*) ke dalam tiga kategori:
+Imam Syihabuddin al-Qarafi dalam *al-Furuq* (Jilid 2, hlm. 32–34) membagi sarana (*adz-dzara'i'*) ke dalam tiga kategori:[^2]
 1. Sarana yang disepakati wajib ditutup karena secara pasti mengantarkan pada kerusakan besar (*dzari'ah mafsadah qath'iyyah*).
 2. Sarana yang disepakati boleh dibuka karena maslahatnya jauh lebih dominan (*dzari'ah maslahah rajihah*).
 3. Sarana yang berada di antara keduanya, di mana para ulama menimbang secara cermat apakah ia berpotensi menjadi celah bagi penyusupan kerusakan hukum.
@@ -62,7 +62,7 @@ Al-Qarafi menegaskan kaidah agung ini:
 
 > *"Sadd adz-Dzara'i' (menutup celah sarana) adalah pilar agung dari pilar-pilar syariat. Hakikatnya adalah memelihara ketentuan pokok syar'i (al-ashl) dari penyusupan kerusakan yang masuk melalui pintu perantara (al-wasa'il). Sesungguhnya segala sesuatu yang apabila pintunya dibiarkan terbuka akan secara alami berujung pada retaknya kepemimpinan pokok dan kacaunya tatanan sistem, maka wajib atas pemimpin dan mujtahid untuk menguncinya rapat-rapat demi membendung mafsadat dan menjaga keutuhan pilar-pilar universal."* (Al-Qarafi, *al-Furuq*, Tahqiq Khalil Manshur, Dar al-Kutub al-'Ilmiyyah, Beirut, 1998).
 
-Lebih lanjut, Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Jilid 3, hlm. 135–138[^5]) mengulas secara spesifik bagaimana syariat meletakkan 99 contoh benteng pencegahan sistemik:
+Lebih lanjut, Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Jilid 3, hlm. 135–138) mengulas secara spesifik bagaimana syariat meletakkan 99 contoh benteng pencegahan sistemik:[^3]
 
 ```text
 فَإِنَّ الشَّارِعَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ طُرُقَهُ وَمَوَاصِلَهُ الْمُفْضِيَةَ إِلَيْهِ، وَإِذَا أَوْجَبَ أَمْرًا حَصَّنَهُ بِمَا يَمْنَعُ انْتِقَاضَهُ؛ فَمَنْ فَرَّقَ بَيْنَ الْغَايَاتِ وَالْوَسَائِلِ فِي الْحِمَايَةِ، فَقَدْ جَهِلَ حِكْمَةَ التَّشْرِيعِ، وَكَانَ كَمَنْ بَنَى قَصْرًا وَفَتَحَ فِيهِ ثُغْرَةً لِلُّصُوصِ
@@ -107,13 +107,12 @@ Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam buku penting mereka *Bu
 ```
 
 ### 4.2. Prinsip Keamanan Saltzer-Schroeder: Defense-in-Depth
-Jerome Saltzer dan Michael Schroeder (1975) dalam makalah klasik *The Protection of Information in Computer Systems* menetapkan prinsip *Economy of Mechanism* dan *Complete Mediation*: setiap akses dan relasi antarmodul wajib diperiksa secara menyeluruh tanpa pengecualian (*complete mediation*), dan sistem pertahanan harus berlapis (*Defense-in-Depth*).
+Jerome Saltzer dan Michael Schroeder (1975) dalam makalah klasik *The Protection of Information in Computer Systems* menetapkan prinsip *Economy of Mechanism* dan *Complete Mediation*: setiap akses dan relasi antarmodul wajib diperiksa secara menyeluruh tanpa pengecualian (*complete mediation*), dan sistem pertahanan harus berlapis (*Defense-in-Depth*)[^4].
 
-Ford, N., Parsons, R., & Kua, P. (2017). *Building evolutionary architectures: Support constant change*. O'Reilly Media.
+Prinsip pertahanan berlapis ini disintesiskan dengan teori arsitektur evolusioner oleh Neal Ford, Rebecca Parsons, dan Patrick Kua (2017) dalam *Building Evolutionary Architectures*, yang menuntut adanya fungsi kebugaran (*architectural fitness functions*) otomatis untuk menguji kepatuhan desain pada setiap siklus integrasi[^5]. Sementara itu, Jilles van Gurp dan Jan Bosch (2002) dalam kajian *design erosion* mengingatkan bahwa tanpa pagar pembatas yang ditegakkan secara ketat, integritas arsitektur sistem akan mengalami erosi bertahap hingga akhirnya runtuh menjadi tatanan monolitik yang rapuh[^6].
 
-Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
 
-van Gurp, J., & Bosch, J. (2002). Design erosion: Problems and causes. *Journal of Systems and Software*, 61(2), 105–119.)00152-2
+
 
 Dalam ekosistem TUMBUH, *Defense-in-Depth* diwujudkan melalui 3 lapis filter: pre-commit hook lokal di komputer kontributor, linter pipeline di GitHub Actions, dan audit mutu berkala oleh Majelis Pakar.
 
@@ -163,6 +162,8 @@ Tabel berikut menetapkan aturan konstitusional gerbang interaksi (*interface rul
 | **METHODOLOGY/** | $\rightarrow$ Mengatur Isi Doktrin Nilai| **DIHARAMKAN SECARA MUTLAK (Strict Ban)** | *Methodological Imperialism* |
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7][^8].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Sistem Pertahanan Terpadu Repositori (Defense-in-Depth)
 
@@ -296,7 +297,7 @@ Integritas arsitektur repositori TUMBUH v2.0.0 tidak diserahkan pada asumsi subj
 | **`01_FUNDAMENTAL`** | `REFERENCES/`, kajian `PROBE/` | `03_OPERATIONAL/`, `source/` | Polusi teknis; pembatalan naskah |
 | **`02_IMPLEMENTATION`**| `01_FUNDAMENTAL/`, `REFERENCES/` | `source/` langsung tanpa lapis 08 | Loncatan epistemik; revisi rujukan |
 | **`03_OPERATIONAL`** | `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/` | `source/`, `99_ARCHIVE/` aktif | Hilang sanad; SOP batal demi hukum |
-| **`08_SOURCES...`** | `source/` (sebagai data kajian) | Deklarasi regulasi normatif | Overclaim; penurunan derajat dokumen |
+| **`08_SOURCES.`** | `source/` (sebagai data kajian) | Deklarasi regulasi normatif | Overclaim; penurunan derajat dokumen |
 | **`09_RESEARCH`** | Seluruh lapisan (sebagai ruang uji) | Mengesahkan kebijakan resmi lembaga | Kerancuan wewenang; karantina naskah |
 | **`METHODOLOGY`** | Prosedur riset & tata kelola naskah | Merumuskan doktrin filosofis | Melampaui mandat; pemurnian pasal |
 
@@ -365,22 +366,21 @@ Tujuh prinsip pertahanan repositori yang wajib dijaga tanpa kompromi:
 - `PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md`: Kurasi pustaka rujukan lintas disiplin.
 - `PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md`: Penegasan fungsi metodologi sebagai pelayan instrumental.
 - `PROBE/PROBE_01/P00020-Batas-Folder-source.md`: Penegasan bahwa bahan mentah bukan Single Source of Truth.
+
 ---
 
 ## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Ford, N., Parsons, R., & Kua, P. (2017). *Building evolutionary architectures: Support constant change*. O'Reilly Media.
-[^2]: Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
-[^3]: Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes*, 17(4), 40–52.
-[^4]: Al-Qarafi, S. (1998). *Al-Furuq: Anwar al-buruq fi anwa' al-furuq* (K. Manshur, Ed.; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
+[^1]: Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes*, 17(4), 40–52.
+[^2]: Al-Qarafi, S. (1998). *Al-Furuq: Anwar al-buruq fi anwa' al-furuq* (K. Manshur, Ed.; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^3]: Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
+[^4]: Ford, N., Parsons, R., & Kua, P. (2017). *Building evolutionary architectures: Support constant change*. O'Reilly Media.
+[^5]: Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
 [^6]: Bass, L., Clements, P., & Kazman, R. (2012). *Software architecture in practice* (3rd ed.). Addison-Wesley.
 [^7]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley.
 [^8]: Martin, R. C. (2018). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-
----
 
 ## 12. Rekomendasi Aksi Nyata Bagi Administrator dan Pengembang TUMBUH
 

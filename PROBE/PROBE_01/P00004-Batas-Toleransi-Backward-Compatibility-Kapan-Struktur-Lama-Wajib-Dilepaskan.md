@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini membedah ambang batas toleransi kompatibilitas ke belakang (*backward compatibility threshold*) dalam repositori sistem pendidikan pesantren TUMBUH v2.0.0. Dalam rekayasa sistem sosial-keagamaan, terdapat ilusi kenyamanan (*compatibility trap*) yang mengasumsikan bahwa sistem baru harus selalu dapat menampung, membaca, dan menyesuaikan diri dengan seluruh konvensi format masa lalu tanpa henti. Di pesantren, kompromi semu ini berakibat fatal: istilah-istilah warisan yang ambigu dipertahankan, folder-folder tumpang tindih dibiarkan, dan logika sanksi yang keliru terus diselundupkan atas nama "menjaga kesinambungan". Melalui integrasi kaidah ushul fiqih *dar'ul mafasid muqaddamun 'ala jalbil mashalih*, doktrin pembatalan tradisi yang rusak (*ibthal al-'adah al-fasidah* menurut Imam Asy-Syathibi dalam *Al-I'tisham*), teori utang teknis (*Technical Debt Theory* oleh Ward Cunningham), pola pencekikan arsitektur (*Strangler Fig Pattern* oleh Martin Fowler), dan prinsip perubahan struktural mayor (*Semantic Versioning Breaking Changes*), monograf ini merumuskan **Batas Toleransi Arsitektural V2**[^1]. Penyelidikan ini menetapkan bahwa ketika suatu struktur lama terbukti menimbulkan kekaburan epistemik (*epistemic ambiguity*) dan menghambat perlindungan martabat santri, mempertahankan kompatibilitas adalah kezaliman sistemik. Resolusi ini dituangkan ke dalam kriteria audit pelepasan struktur dan *Architectural Decision Record* (ADR) kanonik yang melegitimasi pelepasan struktur lama secara terukur dan bermartabat.
+Penyelidikan ini membedah ambang batas toleransi kompatibilitas ke belakang (*backward compatibility threshold*) dalam repositori sistem pendidikan pesantren TUMBUH v2.0.0. Dalam rekayasa sistem sosial-keagamaan, terdapat ilusi kenyamanan (*compatibility trap*) yang mengasumsikan bahwa sistem baru harus selalu dapat menampung, membaca, dan menyesuaikan diri dengan seluruh konvensi format masa lalu tanpa henti. Di pesantren, kompromi semu ini berakibat fatal: istilah-istilah warisan yang ambigu dipertahankan, folder-folder tumpang tindih dibiarkan, dan logika sanksi yang keliru terus diselundupkan atas nama "menjaga kesinambungan". Melalui integrasi kaidah ushul fiqih *dar'ul mafasid muqaddamun 'ala jalbil mashalih*, doktrin pembatalan tradisi yang rusak (*ibthal al-'adah al-fasidah* menurut Imam Asy-Syathibi dalam *Al-I'tisham*), teori utang teknis (*Technical Debt Theory* oleh Ward Cunningham), pola pencekikan arsitektur (*Strangler Fig Pattern* oleh Martin Fowler), dan prinsip perubahan struktural mayor (*Semantic Versioning Breaking Changes*), monograf ini merumuskan **Batas Toleransi Arsitektural V2**. Penyelidikan ini menetapkan bahwa ketika suatu struktur lama terbukti menimbulkan kekaburan epistemik (*epistemic ambiguity*) dan menghambat perlindungan martabat santri, mempertahankan kompatibilitas adalah kezaliman sistemik. Resolusi ini dituangkan ke dalam kriteria audit pelepasan struktur dan *Architectural Decision Record* (ADR) kanonik yang melegitimasi pelepasan struktur lama secara terukur dan bermartabat.
 
 **Kata Kunci:** *Backward Compatibility, Technical Debt, Strangler Fig Pattern, Dar'ul Mafasid, Ibthal al-'Adah al-Fasidah, Breaking Changes, Semantic Versioning, TUMBUH v2.0.0.*
 
@@ -43,7 +43,7 @@ DILEMA ARSITEKTURAL: PERANGKAP KOMPATIBILITAS DI PESANTREN
                                                    ▼
                                          RESOLUSI KANONIK V2.0.0:
                              "Demarkasi Ambang Batas Toleransi Kompatibilitas:
-                             Pelepasan Terukur via Strangler Fig & Deprecation Gate"
+                             Pelepasan Terukur via Strangler Fig & Deprecation Gate"[^1]
 ```
 
 Fenomena lapangan menunjukkan bahaya laten dari **Perangkap Kompatibilitas (*Compatibility Trap*)**:
@@ -66,7 +66,7 @@ DIALEKTIKA TURATS: PRINSIP PENETAPAN HUKUM ATAS KEBIASAAN LAMA
   ┌───────────────────────────────────────┐         ┌───────────────────────────────────────┐
   │ Dipertahankan & Diintegrasikan        │         │ Wajib Dibatalkan & Dihapuskan         │
   │ Kaidah: Al-'Adah Muhakkamah           │         │ Kaidah: Al-'Adah at-Tu'athiru fil-    │
-  │ (Tradisi baik diakui sebagai hukum)   │         │ Fasad Wajibatu az-Zawal (Asy-Syathibi)│
+  │ (Tradisi baik diakui sebagai hukum)   │         │ Fasad Wajibatu az-Zawal (Asy-Syathibi)│[^2][^3]
   └───────────────────────────────────────┘         └───────────────────────────────────────┘
                      │                                                 │
                      ▼                                                 ▼
@@ -91,7 +91,7 @@ Dalam *Al-I'tisham* (Jilid 2, hlm. 115–128), Imam Asy-Syathibi menganalisis hu
 Dalam repositori TUMBUH, berkas warisan V1 yang mencampuradukkan ta'zir kekerasan dengan bimbingan adab adalah bentuk *'adah fasidah* yang wajib dibatalkan status hukumnya, bukan dipertahankan demi kompatibilitas.
 
 ### 3.3. Batas Istishlah dan Maslahah Mursalah menurut Imam Al-Ghazali
-Hujjatul Islam Abu Hamid Al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 286–292[^7]) menetapkan bahwa suatu maslahat baru dapat melegitimasi perubahan besar apabila memenuhi tiga kriteria mutlak:
+Hujjatul Islam Abu Hamid Al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 286–292) menetapkan bahwa suatu maslahat baru dapat melegitimasi perubahan besar apabila memenuhi tiga kriteria mutlak:[^4]
 1. **Dharuriyyah (Kebutuhan Primer)**: Menjaga eksistensi dan integritas pendidikan santri.
 2. **Qath'iyyah (Kepastian Hukum)**: Bukan sekadar dugaan spekulatif.
 3. **Kulliyyah (Bersifat Universal)**: Menyangkut kemaslahatan seluruh santri dan ekosistem pesantren, bukan kepentingan segelintir pengurus.
@@ -99,7 +99,7 @@ Hujjatul Islam Abu Hamid Al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* (Jili
 Melepaskan struktur lama di repositori TUMBUH memenuhi ketiga syarat ini: ia dharuri untuk mencegah kekerasan, qath'i berdasarkan audit data lapangan, dan kulli demi masa depan seluruh lembaga mitra.
 
 ### 3.4. Kaidah Perubahan Terminologi: La Musyahhata fil-Ishthilah
-Imam Ibnu Hajar Al-'Asqalani dalam *Nukhbat al-Fikar* dan disyarah dalam *Nuzhat an-Nazhar* (hlm. 45[^8]) mengutip adab ushul:
+Imam Ibnu Hajar Al-'Asqalani dalam *Nukhbat al-Fikar* dan disyarah dalam *Nuzhat an-Nazhar* (hlm. 45) mengutip adab ushul:[^5]
 > لَا مُشَاحَّةَ فِي الِاصْطِلَاحِ إِذَا عُرِفَتِ الْمَعَانِي
 > 
 > *"Tidak boleh diperdebatkan secara kaku suatu istilah teknis, apabila makna dan hakikat maksudnya telah dipahami secara jelas dan benar."*
@@ -107,6 +107,8 @@ Imam Ibnu Hajar Al-'Asqalani dalam *Nukhbat al-Fikar* dan disyarah dalam *Nuzhat
 Namun bila istilah lama menimbulkan percampuran makna (*talbis*) yang fatal, maka perombakan istilah menjadi kewajiban fardhu kifayah bagi para muallif.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6][^7][^8][^9].
+
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Software Architecture, & SemVer
 
@@ -122,7 +124,7 @@ DIAGRAM TEORI SISTEM: SIKLUS UTANG TEKNIS DAN STRANGLER FIG
   └─────────────────────────────────────────────────────────────────┘
                                    │
                                    ▼ SOLUSI KANONIK
-              POLA STRANGLER FIG (MARTIN FOWLER, 2004)
+              POLA STRANGLER FIG (MARTIN FOWLER, 2004)[^10][^11]
   ┌─────────────────────────────────────────────────────────────────┐
   │ 1. Sistem Baru V2 Dibangun Paralel di Luar Struktur Lama        │
   │ 2. Fungsionalitas Dialihkan Bertahap dari V1 ke V2              │
@@ -131,7 +133,7 @@ DIAGRAM TEORI SISTEM: SIKLUS UTANG TEKNIS DAN STRANGLER FIG
 ```
 
 ### 4.1. Teori Utang Teknis (*Technical Debt Theory*) Ward Cunningham
-Ward Cunningham (1992) merumuskan konsep utang teknis: setiap kali pengembang mengambil jalan pintas kompromistis demi kenyamanan jangka pendek (seperti mempertahankan struktur folder lama yang berantakan), ia sedang menarik pinjaman utang teknis.
+Ward Cunningham (1992) merumuskan konsep utang teknis: setiap kali pengembang mengambil jalan pintas kompromistis demi kenyamanan jangka pendek (seperti mempertahankan struktur folder lama yang berantakan), ia sedang menarik pinjaman utang teknis[^12].
 - Seiring berjalannya waktu, bunga utang tersebut (*interest*) harus dibayar dalam bentuk bertambahnya waktu untuk memahami dokumen, tingginya tingkat kesalahan, dan sulitnya menambah modul baru.
 - Jika pokok utang (*principal*) tidak pernah dilunasi melalui *refactoring* radikal (*breaking changes*), bunga utang akan menelan seluruh produktivitas organisasi hingga sistem bangkrut total.
 
@@ -140,12 +142,12 @@ Martin Fowler (2004) memperkenalkan metafora pohon ara pencekik (*Strangler Fig*
 - Dalam migrasi repositori TUMBUH, Branch `v2.0.0` berperan sebagai pohon ara pencekik: ia hidup berdampingan secara paralel dengan rilis lama, menyerap seluruh fungsi substantif ke dalam struktur 13 bagian jurnal riset, lalu mematikan (*strangle*) seluruh tata letak folder lama secara bersih.
 
 ### 4.3. Semantik Penomoran Versi (*Semantic Versioning - SemVer 2.0.0*)
-Tom Preston-Werner (2013) menetapkan aturan baku penomoran `MAJOR[^10].MINOR.PATCH`:
+Tom Preston-Werner (2013) menetapkan aturan baku penomoran `MAJOR.MINOR.PATCH`:[^13]
 - **MAJOR version (v2.0.0)**: Wajib dinaikkan ketika dilakukan perubahan yang tidak kompatibel ke belakang (*incompatible/breaking API changes*).
 - Status penamaan Branch `v2.0.0` adalah deklarasi resmi kepada seluruh ekosistem bahwa kompatibilitas struktur lama **TELAH DIBATALKAN SECARA SAH**. Mengharapkan Branch V2 dapat membaca tata letak V1 adalah pelanggaran langsung terhadap hukum SemVer.
 
 ### 4.4. Sindrom Bola Lumpur Raksasa (*The Big Ball of Mud*) Foote & Yoder
-Brian Foote dan Joseph Yoder (1997) dalam karya arsitektural klasik *Big Ball of Mud* membuktikan bahwa ketiadaan batas toleransi kompatibilitas menghasilkan sistem yang tidak memiliki arsitektur yang dapat dikenali: tambal sulam kode/dokumen liar yang saling berkelindan rumit, di mana perubahan di satu tempat memicu ledakan kerusakan di tempat lain[^11].
+Brian Foote dan Joseph Yoder (1997) dalam karya arsitektural klasik *Big Ball of Mud* membuktikan bahwa ketiadaan batas toleransi kompatibilitas menghasilkan sistem yang tidak memiliki arsitektur yang dapat dikenali: tambal sulam kode/dokumen liar yang saling berkelindan rumit, di mana perubahan di satu tempat memicu ledakan kerusakan di tempat lain[^14].
 
 ---
 
@@ -222,6 +224,8 @@ Tragedi Darul Ulum menjadi peringatan mutlak bagi seluruh arsitek TUMBUH:
 - Musyrif diwajibkan menggunakan taksonomi baru yang tegas, terukur, dan transparan demi melindungi martabat kemanusiaan santri.
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Seemann dalam *Code that fits in your head: Heuristics for software engineering* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -391,19 +395,18 @@ $$\Downarrow$$
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Asy-Syathibi, I. M. (1992). *Al-I'tisham* (M. R. Ridha, Tahqiq; Jilid 2). Dar al-Ma'rifah.
-[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^3]: Cunningham, W. (1992). *The WyCash portfolio management system*. ACM SIGPLAN OOPS Messenger, 4(2), 29–30.
-[^4]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-[^5]: Fowler, M. (2004). *Strangler fig application*. Martin Fowler Architecture Patterns Series.
-[^6]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
-[^7]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^8]: Ibnu Hajar Al-'Asqalani, A. A. (2000). *Nuzhat an-Nazhar fi Tawdhih Nukhbat al-Fikar fi Musthalah Ahl al-Atsar* (N. 'Itr, Tahqiq; Jilid 1). Matba'ah as-Sabah.
-[^9]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^10]: Preston-Werner, T. (2013). *Semantic versioning 2.0.0*. Creative Commons Specification.
-[^11]: Foote, B., & Yoder, J. (1997). *Big ball of mud*. Pattern Languages of Program Design 4, 654–692.
-[^12]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^13]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^14]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^1]: Fowler, M. (2004). *Strangler fig application*. Martin Fowler Architecture Patterns Series.
+[^2]: Asy-Syathibi, I. M. (1992). *Al-I'tisham* (M. R. Ridha, Tahqiq; Jilid 2). Dar al-Ma'rifah.
+[^3]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^5]: Ibnu Hajar Al-'Asqalani, A. A. (2000). *Nuzhat an-Nazhar fi Tawdhih Nukhbat al-Fikar fi Musthalah Ahl al-Atsar* (N. 'Itr, Tahqiq; Jilid 1). Matba'ah as-Sabah.
+[^6]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^7]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^8]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^9]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^10]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^11]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+[^12]: Cunningham, W. (1992). *The WyCash portfolio management system*. ACM SIGPLAN OOPS Messenger, 4(2), 29–30.
+[^13]: Preston-Werner, T. (2013). *Semantic versioning 2.0.0*. Creative Commons Specification.
+[^14]: Foote, B., & Yoder, J. (1997). *Big ball of mud*. Pattern Languages of Program Design 4, 654–692.
 [^15]: Seemann, M. (2021). *Code that fits in your head: Heuristics for software engineering*. Addison-Wesley Professional.
-

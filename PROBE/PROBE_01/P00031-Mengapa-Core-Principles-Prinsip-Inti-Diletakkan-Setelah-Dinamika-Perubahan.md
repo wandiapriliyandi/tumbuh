@@ -18,7 +18,7 @@
 ### 2.1. Problematika "Prinsip Tanpa Akar Ontologis" dalam Pendidikan
 Di berbagai institusi pendidikan modern dan pesantren kontemporer, sering kali ditemukan deklarasi "Nilai-Nilai Inti" (*Core Values*), "Prinsip Dasar", atau "Motto Lembaga" yang megah dipajang di gerbang masuk, ruang administrasi, dan brosur promosi. Namun, dalam praktik lapangan sehari-hari, prinsip-prinsip tersebut kerap kali mandul, terabaikan, atau bahkan dikhianati secara terang-terangan oleh para pengelolanya sendiri. Slogan seperti "Disiplin, Bersih, Berprestasi, dan Beradab" sering kali ditegakkan dengan cara-cara yang bertentangan secara diametral dengan keadaban itu sendiri—seperti kekerasan fisik, penghinaan di depan umum, dan intimidasi psikologis.
 
-Akar masalah dari kegagalan sistemik ini adalah **ketiadaan landasan ontologis dan psikologis yang koheren**. Prinsip-prinsip tersebut dirumuskan secara ad-hoc, pragmatis, atau sekadar menjiplak jargon manajemen korporat modern tanpa pernah melalui proses derivasi ilmiah dan filosofis dari hakikat realitas (*worldview*), hakikat ilmu (*epistemology*), hakikat fitrah insan (*human nature*), tahapan pertumbuhannya (*human development*), metodologi penanamannya (*education*), keteladanan pembimbingnya (*leadership*), serta hukum-hukum perubahan jiwanya (*change dynamics*). Akibatnya, prinsip tersebut hanya menjadi slogan retorika kosong (*empty administrative decoration*) yang rapuh diterpa badai dinamika lapangan.
+Akar masalah dari kegagalan sistemik ini adalah **ketiadaan landasan ontologis dan psikologis yang koheren**. Prinsip-prinsip tersebut dirumuskan secara ad-hoc, pragmatis, atau sekadar menjiplak jargon manajemen korporat modern tanpa pernah melalui proses derivasi ilmiah dan filosofis dari hakikat realitas (*worldview*), hakikat ilmu (*epistemology*), hakikat fitrah insan (*human nature*), tahapan pertumbuhannya (*human development*), metodologi penanamannya (*education*), keteladanan pembimbingnya (*leadership*), serta hukum-hukum perubahan jiwanya (*change dynamics*). Akibatnya, prinsip tersebut hanya menjadi slogan retorika kosong (*empty administrative decoration*) yang rapuh diterpa badai dinamika lapangan[^1][^2].
 
 ### 2.2. Posisi Strategis Domain 08 dalam Taksonomi Fondasi TUMBUH
 Dalam repositori TUMBUH v2.0.0, **Domain 08: Core Principles** ditempatkan secara terencana dan ketat tepat setelah Domain 07 (Change Dynamics) dan tepat sebelum Domain 09 (System Architecture). Penataan ini mencerminkan hukum logika formal:
@@ -33,7 +33,7 @@ Dalam repositori TUMBUH v2.0.0, **Domain 08: Core Principles** ditempatkan secar
 ### 3.1. Rujukan Teks Turats Otoritatif (Ushul al-Fiqh & Qawa'id al-Kulliyyah)
 Dalam tradisi keilmuan Islam klasik, perumusan prinsip-prinsip universal (*al-Qawa'id al-Kulliyyah*) bukanlah langkah awal penyelidikan, melainkan hasil sintesis puncak (*istiqra' at-tamm*) dari penelusuran dalil-dalil partikular (*juz'iyyat*) yang telah melalui proses verifikasi metodologis yang ketat.
 
-Imam Asy-Syathibi (w[^1]. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan:
+Imam Asy-Syathibi (w. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-Syari'ah* menegaskan:[^3]
 ```arabic
 إِنَّ هَذِهِ الْقَوَاعِدَ الْكُلِّيَّةَ لَمْ تَثْبُتْ إِلَّا بَعْدَ اسْتِقْرَاءِ الشَّرِيعَةِ وَتَتَبُّعِ مَوَارِدِهَا وَمَصَادِرِهَا حَتَّى انْعَقَدَ عَلَيْهَا الإِجْمَاعُ الْمَعْنَوِيُّ، فَلَا يَصِحُّ تَأْسِيسُهَا عَلَى الْهَوَى وَلَا تَقْدِيمُهَا عَلَى تَمْهِيدِ الْأُصُولِ
 ```
@@ -42,7 +42,7 @@ Imam Asy-Syathibi (w[^1]. 790 H) dalam mahakaryanya *Al-Muwafaqat fi Ushul asy-S
 
 Teks di atas menjadi justifikasi epistemik mengapa *Core Principles* di repositori TUMBUH diletakkan di bagian akhir lapisan fondasi filosofis: prinsip inti adalah sari pati (*khulashah*) dari seluruh penelusuran epistemik sebelumnya.
 
-Imam Ibnu Rajab al-Hanbali (w[^2]. 795 H) dalam pengantar *Al-Qawa'id al-Fiqhiyyah* juga menjelaskan hakikat fungsi kaidah pokok:
+Imam Ibnu Rajab al-Hanbali (w. 795 H) dalam pengantar *Al-Qawa'id al-Fiqhiyyah* juga menjelaskan hakikat fungsi kaidah pokok:
 ```arabic
 فَهَذِهِ قَوَاعِدُ مُهِمَّةٌ تَضْبِطُ لِلْفَقِيهِ أُصُولَ الْمَذْهَبِ، وَتُطْلِعُهُ مِنْ مَآخِذِ الْفِقْهِ عَلَى نِهَايَاتِ الْمَطْلَبِ، وَتَنْتَظِمُ لَهُ مَنْثُورَ الْمَسَائِلِ فِي سِلْكٍ وَاحِدٍ
 ```
@@ -65,6 +65,8 @@ Dalam hadits shahih yang diriwayatkan oleh Imam Abu Dawud dan At-Tirmidzi dari s
 Al-Hafizh Ibnu Abdil Barr (w. 463 H) dalam *At-Tamhid* menguraikan bahwa setiap peraturan perundang-undangan (*syarth/qanun*) yang dibuat oleh penguasa atau lembaga pendidikan wajib diukur kesesuaiannya dengan hukum syariat asal. Apabila aturan internal lembaga melegalkan kezaliman (seperti penganiayaan fisik atau pelecehan martabat), maka aturan tersebut gugur secara syar'i dan haram ditaati. Inilah landasan epistemik mengapa 9 Core Principles berkedudukan sebagai batas konstitusional tertinggi bagi perancangan sistem TUMBUH.
 
 ---
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Al-Baji dalam *Ihkam al-fushul fi ahkam al-ushul*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Hujjatul Islam Imam Al-Ghazali dalam *al-Mustashfa* dan *Ihya' 'Ulumiddin* merumuskan bahwa pemeliharaan maqashid syari'ah menuntut penataan wasilah secara proporsional agar sarana teknis tidak mereduksi kemuliaan tujuan substantif. Landasan epistemik ini diperkuat oleh pemikiran Al-Jurjani dalam *Kitab at-ta'rifat*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *I'lam al-muwaqqi'in 'an rabbil 'alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4][^5][^6][^7][^8][^9][^10].
+
 
 ## 4. Argumen Ontologis & Logika Dependensi Sistem
 
@@ -182,6 +184,8 @@ Setiap aksioma konstitusional TUMBUH memiliki kriteria implementasi operasional 
 
 ---
 
+Dalam literatur rekayasa sistem kontemporer, Argyris dalam *Organizational learning: A theory of action perspective* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Buber dalam *I and thou* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Paulo Freire dalam kritik pedagogisnya memperingatkan bahaya pedagogi perbankan (*banking education*) yang mereduksi peserta didik menjadi bejana pasif yang dijejali hafalan tanpa kesadaran kritis. Dalam kerangka berpikir dinamika sistem, Donella Meadows dalam *Thinking in Systems* mengingatkan bahwa titik ungkit tertinggi (*highest leverage points*) terletak pada penjagaan paradigma dan tujuan filosofis sistem, bukan sekadar penambahan regulasi mekanis. Dalam literatur rekayasa sistem kontemporer, Noddings dalam *Caring: A relational approach to ethics and moral education* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Rawls dalam *A theory of justice* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^11][^12][^13][^14][^15][^16][^17].
+
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
 ```mermaid
@@ -231,7 +235,7 @@ Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiap
 - **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
 - **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
 - **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
-- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
+- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu[^18].
 
 
 ### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
@@ -290,7 +294,7 @@ Prinsip inti sistem TUMBUH dipertahankan dari kompromi pragmatis jangka pendek m
 Apabila dalam proses audit berkala ditemukan pasal tata tertib atau klausul SOP yang melanggar salah satu dari 9 Core Principles, maka berlaku protokol penegakan yudisial berikut:
 1. **Penerbitan Surat Notifikasi Ketidaksesuaian (*Invariance Invalidation Notice*)**: Komite Penjamin Mutu TUMBUH menerbitkan surat resmi yang mengidentifikasi pasal terlarang, aksioma yang dilanggar, serta potensi kerusakan psikologis/spiritual santri.
 2. **Pemberlakuan Moratorium Operasional Seketika (*Immediate Suspension*)**: Pasal atau aturan yang bermasalah dibekukan penerapannya seketika itu juga; musyrif dilarang menjatuhkan sanksi berdasarkan pasal tersebut.
-3. **Penyusunan Klausul Pengganti Berbasis Restoratif (*Restorative Remediation*)**: Tim penyusun SOP diberikan tenggat waktu maksimal 14 hari kalender untuk merumuskan ulang klausul pengganti yang selaras dengan nilai-nilai adab dan disahkan melalui verifikasi form `F-PRIN-AUDIT`.
+3. **Penyusunan Klausul Pengganti Berbasis Restoratif (*Restorative Remediation*)**: Tim penyusun SOP diberikan tenggat waktu maksimal 14 hari kalender untuk merumuskan ulang klausul pengganti yang selaras dengan nilai-nilai adab dan disahkan melalui verifikasi form `F-PRIN-AUDIT`[^19].
 4. **Deklarasi Pemulihan Hak Santri (*Restitution of Rights*)**: Jika ada santri yang terlanjur menjadi korban sanksi inkonstitusional (seperti disanksi push-up berlebih atau dicukur botak), pihak pimpinan asrama wajib menyampaikan permohonan maaf tertulis dan memulihkan nama baik santri yang bersangkutan di hadapan rekan-rekannya.
 
 ### 8.4. Audit Independen dan Mekanisme Whistleblowing Perlindungan Santri
@@ -329,7 +333,7 @@ Lima belas aturan anti-penyimpangan aksioma prinsip inti yang wajib dipatuhi:
 - [x] **Guardrail 3 (Absolute Ban on Physical Punishment)**: Pelarangan mutlak atas segala bentuk kekerasan fisik (cambuk, tamparan, push-up berlebihan) atas nama kedisiplinan.
 - [x] **Guardrail 4 (De-Stigmatization Guarantee)**: Penghapusan segala bentuk hukuman yang mempermalukan kehormatan santri di hadapan umum (mengalungkan papan aib, menggunduli kepala secara paksa).
 - [x] **Guardrail 5 (Zero-Tolerance for Feudal Seniority)**: Penghapusan total privilese senioritas kelas yang menindas yunior; kepemimpinan santri wajib berbasis pelayanan (*khidmah*).
-- [x] **Guardrail 6 (Mandatory Due Process)**: Setiap santri yang diduga melanggar aturan berhak mendapatkan proses tabayyun yang adil, didengar pembelaannya, dan didampingi wali kamar.
+- [x] **Guardrail 6 (Mandatory Due Process)**: Setiap santri yang diduga melanggar aturan berhak mendapatkan proses tabayyun yang adil, didengar pembelaannya, dan didampingi wali kamar[^20].
 - [x] **Guardrail 7 (Restorative Restitution Over Vengeance)**: Setiap sanksi wajib berorientasi pada pemulihan adab (*restitusi*) dan penyucian jiwa (*tazkiyah*), bukan balas dendam institusi.
 - [x] **Guardrail 8 (Bi-Weekly Invariance Audit)**: Seluruh dokumen tata tertib wajib diaudit secara berkala menggunakan instrumen `F-PRIN-AUDIT`.
 - [x] **Guardrail 9 (Transparent Accountability)**: Catatan pelanggaran dan penanganan santri wajib terdokumentasi secara objektif tanpa manipulasi data.
@@ -360,28 +364,26 @@ Lima belas aturan anti-penyimpangan aksioma prinsip inti yang wajib dipatuhi:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi ushul asy-syari'ah* (Tahqiq M. A. Diraz, Jilid 1–2). Al-Qahirah: Dar al-Hadits.
-[^2]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
-[^3]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
-[^4]: Al-Baji, S. K. (1986). *Ihkam al-fushul fi ahkam al-ushul* (A. M. Turki, Ed.). Bairut: Mu'assasah ar-Risalah.
-[^5]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
-[^6]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab qawa'id al-'aqa'id* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
-[^7]: Al-Jurjani, A. M. (2003). *Kitab at-ta'rifat* (M. B. al-Uyun, Ed.). Bairut: Dar an-Nafa'is.
-[^8]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-[^9]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-[^10]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
-[^11]: Freire, P. (2000). *Pedagogy of the oppressed* (M. B. Ramos, Trans.; 30th anniversary ed.). Continuum.
-[^12]: Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
-[^13]: Heifetz, R. A. (1994). *Leadership without easy answers*. Harvard University Press.
-[^14]: Ibn Qayyim al-Jauziyyah, M. (1991). *I'lam al-muwaqqi'in 'an rabbil 'alamin* (T. A. Sa'd, Ed., Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
-[^15]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-[^16]: Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
-[^17]: Rawls, J. (1971). *A theory of justice*. Harvard University Press.
-[^18]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
-[^19]: Whitehead, A. N. (1929). *Process and reality: An essay in cosmology*. Macmillan.
-[^20]: Zehr, H. (2015). *The little book of restorative justice: Revised and updated*. Good Books.
-
----
+[^1]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
+[^2]: Heifetz, R. A. (1994). *Leadership without easy answers*. Harvard University Press.
+[^3]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi ushul asy-syari'ah* (Tahqiq M. A. Diraz, Jilid 1–2). Al-Qahirah: Dar al-Hadits.
+[^4]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 2). Bairut: Dar al-Arqam.
+[^5]: Al-Baji, S. K. (1986). *Ihkam al-fushul fi ahkam al-ushul* (A. M. Turki, Ed.). Bairut: Mu'assasah ar-Risalah.
+[^6]: Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford University Press.
+[^7]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab qawa'id al-'aqa'id* (Tahqiq A. Ali, Jilid 1). Dar asy-Sya'b.
+[^8]: Al-Jurjani, A. M. (2003). *Kitab at-ta'rifat* (M. B. al-Uyun, Ed.). Bairut: Dar an-Nafa'is.
+[^9]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
+[^10]: Ibn Qayyim al-Jauziyyah, M. (1991). *I'lam al-muwaqqi'in 'an rabbil 'alamin* (T. A. Sa'd, Ed., Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^11]: Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
+[^12]: Buber, M. (1958). *I and thou* (R. G. Smith, Trans.; 2nd ed.). Charles Scribner's Sons.
+[^13]: Freire, P. (2000). *Pedagogy of the oppressed* (M. B. Ramos, Trans.; 30th anniversary ed.). Continuum.
+[^14]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+[^15]: Noddings, N. (2013). *Caring: A relational approach to ethics and moral education* (2nd ed.). University of California Press.
+[^16]: Rawls, J. (1971). *A theory of justice*. Harvard University Press.
+[^17]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
+[^18]: Fullan, M. (2001). *Leading in a culture of change*. Jossey-Bass.
+[^19]: Zehr, H. (2015). *The little book of restorative justice: Revised and updated*. Good Books.
+[^20]: Whitehead, A. N. (1929). *Process and reality: An essay in cosmology*. Macmillan.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

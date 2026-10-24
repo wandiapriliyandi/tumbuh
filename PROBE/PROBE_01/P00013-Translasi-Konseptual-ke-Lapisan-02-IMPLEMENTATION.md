@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini merumuskan teori dan metodologi translasi arsitektural (*architectural translation methodology*) yang menghubungkan lapisan konstitusi filosofis `01_FUNDAMENTAL` menuju lapisan perangkat kerja praktis `03_OPERATIONAL` melalui perantaraan **Lapisan 02_IMPLEMENTATION**. Dalam perancangan kurikulum pesantren, kegagalan fatal yang kerap terjadi adalah **Jurang Translasi Kelembagaan (*Institutional Translation Void*)**: lembaga memiliki rumusan visi-misi dan dalil fitrah yang sangat indah di atas kertas, namun para musyrif di kamar asrama kebingungan bagaimana menerapkannya dalam rutinitas santri 24 jam. Tanpa lapisan penerjemah perantara, prinsip filosofis yang luhur terdegradasi menjadi tafsir bebas individual yang liar, atau sebaliknya, diabaikan sama sekali dan digantikan oleh naluri hukuman fisik masa lalu. Melalui sintesis doktrin ushul fiqih mengenai penelusuran fakta konteks (*Tahqiq al-Manath al-Khashsh* menurut Imam Asy-Syathibi dalam *Al-Muwafaqat*), dialektika pemahaman realitas dan hukum (*Fahm al-Waqi' wa Fahm al-Wajib fil-Waqi'* Ibnu Qayyim Al-Jauziyyah), pola arsitektur heksagonal dan adaptor (*Ports and Adapters / Hexagonal Architecture* Alistair Cockburn), serta kerangka arsitektur enterprise (*TOGAF & Zachman Frameworks*), monograf ini membuktikan bahwa lapisan `02_IMPLEMENTATION` adalah **Adaptor Kelembagaan Kanonik (*The Canonical Institutional Adapter*)**[^1]. Lapisan ini menerjemahkan taksonomi adab dan fitrah universal menjadi struktur tata kelola pondok, profil lulusan, penjenjangan kemandirian santri J1–J4, dan deskripsi kerja musyrif tanpa mereduksi ruh spiritualnya. Resolusi ini dituangkan ke dalam *Architectural Decision Record* (ADR) kanonik v2.
+Penyelidikan ini merumuskan teori dan metodologi translasi arsitektural (*architectural translation methodology*) yang menghubungkan lapisan konstitusi filosofis `01_FUNDAMENTAL` menuju lapisan perangkat kerja praktis `03_OPERATIONAL` melalui perantaraan **Lapisan 02_IMPLEMENTATION**. Dalam perancangan kurikulum pesantren, kegagalan fatal yang kerap terjadi adalah **Jurang Translasi Kelembagaan (*Institutional Translation Void*)**: lembaga memiliki rumusan visi-misi dan dalil fitrah yang sangat indah di atas kertas, namun para musyrif di kamar asrama kebingungan bagaimana menerapkannya dalam rutinitas santri 24 jam. Tanpa lapisan penerjemah perantara, prinsip filosofis yang luhur terdegradasi menjadi tafsir bebas individual yang liar, atau sebaliknya, diabaikan sama sekali dan digantikan oleh naluri hukuman fisik masa lalu. Melalui sintesis doktrin ushul fiqih mengenai penelusuran fakta konteks (*Tahqiq al-Manath al-Khashsh* menurut Imam Asy-Syathibi dalam *Al-Muwafaqat*), dialektika pemahaman realitas dan hukum (*Fahm al-Waqi' wa Fahm al-Wajib fil-Waqi'* Ibnu Qayyim Al-Jauziyyah), pola arsitektur heksagonal dan adaptor (*Ports and Adapters / Hexagonal Architecture* Alistair Cockburn), serta kerangka arsitektur enterprise (*TOGAF & Zachman Frameworks*), monograf ini membuktikan bahwa lapisan `02_IMPLEMENTATION` adalah **Adaptor Kelembagaan Kanonik (*The Canonical Institutional Adapter*)**. Lapisan ini menerjemahkan taksonomi adab dan fitrah universal menjadi struktur tata kelola pondok, profil lulusan, penjenjangan kemandirian santri J1–J4, dan deskripsi kerja musyrif tanpa mereduksi ruh spiritualnya. Resolusi ini dituangkan ke dalam *Architectural Decision Record* (ADR) kanonik v2.
 
 **Kata Kunci:** *02_IMPLEMENTATION, Tahqiq al-Manath, Fahm al-Waqi', Hexagonal Architecture, Adapter Pattern, Jenjang Kemandirian J1-J4, Translasi Kelembagaan, TUMBUH v2.0.0.*
 
@@ -82,8 +82,8 @@ DIALEKTIKA TURATS: DUA PENGETAHUAN MUTLAK PENETAPAN HUKUM (IBNU QAYYIM)
 ```
 
 ### 3.1. Doktrin Dua Fikih menurut Ibnu Qayyim Al-Jauziyyah
-Imam Syamsuddin Ibnu Qayyim Al-Jauziyyah dalam magnum opusnya *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (Jilid 1, hlm. 87–92) menegaskan bahwa tidak ada seorang pun yang mampu menjadi mufti, hakim, atau pendidik yang adil melainkan dengan menguasai dua jenis pemahaman:
-1. **Fahm al-Wajib fil-Waqi' (Memahami Ketetapan Syariat)**: Pengetahuan mendalam tentang wahyu, kaidah ushul, dan taksonomi adab nabawi. Ini adalah representasi dari lapisan `01_FUNDAMENTAL`.
+Imam Syamsuddin Ibnu Qayyim Al-Jauziyyah dalam magnum opusnya *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (Jilid 1, hlm. 87–92) menegaskan bahwa tidak ada seorang pun yang mampu menjadi mufti, hakim, atau pendidik yang adil melainkan dengan menguasai dua jenis pemahaman:[^1]
+1. **Fahm al-Wajib fil-Waqi' (Memahami Ketetapan Syariat)**: Pengetahuan mendalam tentang wahyu, kaidah ushul, dan taksonomi adab nabawi. Ini adalah representasi dari lapisan `01_FUNDAMENTAL`[^2].
 2. **Fahm al-Waqi' (Memahami Realitas Kontekstual)**: Pengetahuan faktual mengenai karakter zaman, psikologi perkembangan remaja, dinamika sosial kamar asrama, dan kultur lembaga.
 3. **At-Tanzil (Translasi / Penerapan)**: Mengawinkan antara hukum syariat dengan realitas faktual sehingga lahir kebijakan yang membawa maslahat nyata tanpa menimbulkan kemudaratan baru. Inilah peran sejati lapisan `02_IMPLEMENTATION`.
 
@@ -105,6 +105,8 @@ Kaidah ushuliyyah yang dirumuskan para fuqaha:
 Pesantren salafiyah di pedesaan memiliki infrastruktur yang berbeda dengan pesantren modern di perkotaan; lapisan `02_IMPLEMENTATION` memberikan ruang bagi penyesuaian institusional (*institutional customization*) tanpa mencederai prinsip dasar di `01_FUNDAMENTAL`.
 
 ---
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Syaikhul Islam Ibnu Taimiyyah dalam *Dar'u Ta'arudh al-'Aql wan-Naql* menegaskan bahwa dalil syar'i yang shahih dan akal sehat yang murni tidak akan pernah bertentangan, sehingga pembaharuan sistem wajib menjaga keotentikan naqliyyah sekaligus ketepatan aqliyyah. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^3][^4][^5][^6][^7][^8].
+
 
 ## 4. Tinjauan Pustaka II: Rekayasa Sistem, Hexagonal Architecture, & Enterprise Translation
 
@@ -113,7 +115,7 @@ Dalam disiplin rekayasa perangkat lunak modern dan arsitektur enterprise, pemisa
 ```text
 DIAGRAM TEORI SISTEM: ARSITEKTUR ADAPTOR HEKSAGONAL TUMBUH
 
-            01_FUNDAMENTAL (Core Domain Logic / Pure Ports)
+            01_FUNDAMENTAL (Core Domain Logic / Pure Ports)[^9]
                                  │
                                  ▼ Panggilan Kontrak
       ┌─────────────────────────────────────────────────────┐
@@ -129,7 +131,7 @@ DIAGRAM TEORI SISTEM: ARSITEKTUR ADAPTOR HEKSAGONAL TUMBUH
 ```
 
 ### 4.1. Arsitektur Heksagonal dan Pola Port-and-Adapters (*Alistair Cockburn*)
-Alistair Cockburn (2005) merumuskan pola *Ports and Adapters*:
+Alistair Cockburn (2005) merumuskan pola *Ports and Adapters*:[^10]
 - *Core Domain (Inside)*: Berisi aturan bisnis murni yang tidak boleh tercemar oleh detail teknologi eksternal (diwakili oleh `01_FUNDAMENTAL`).
 - *Ports*: Titik antarmuka konseptual yang menyatakan kontrak apa yang dibutuhkan sistem.
 - *Adapters (Outside)*: Komponen penerjemah yang menghubungkan kontrak port ke dunia nyata. Lapisan `02_IMPLEMENTATION` bertindak sebagai adaptor institusional: ia mengambil konsep "Adab Berbicara" dari port Fundamental, lalu menerjemahkannya menjadi modul pelatihan bicara santri dan kriteria penilaian musyrif.
@@ -140,7 +142,7 @@ TOGAF membagi arsitektur enterprise ke dalam empat lapis: *Business Architecture
 - Lapisan `02_IMPLEMENTATION` menyusun pemetaan kapabilitas santri: dari Santri Pemula (Tahap Pengenalan / J1) bertumbuh menuju Santri Mandiri (J2), Santri Teladan (J3), hingga Santri Penggerak (J4).
 
 ### 4.3. Teori Peran dan Kejelasan Tanggung Jawab (*Role Theory & Ambiguity Reduction*)
-Robert L. Kahn et al[^7]. (1964) dalam *Organizational Stress: Studies in Role Conflict and Ambiguity* membuktikan bahwa konflik peran (*role conflict*) dan ketidakjelasan tugas (*role ambiguity*) adalah penyebab utama stres, penurunan kinerja, dan kebrutalan perilaku di kalangan staf pengasuh:
+Robert L. Kahn et al. (1964) dalam *Organizational Stress: Studies in Role Conflict and Ambiguity* membuktikan bahwa konflik peran (*role conflict*) dan ketidakjelasan tugas (*role ambiguity*) adalah penyebab utama stres, penurunan kinerja, dan kebrutalan perilaku di kalangan staf pengasuh:[^11]
 - Ketika seorang musyrif tidak memiliki deskripsi kerja yang jelas, ia cenderung merespons ketidakpastian dengan tindakan agresif dan otoriter terhadap bawahannya (santri).
 - Lapisan `02_IMPLEMENTATION` memangkas *role ambiguity* dengan menerbitkan deskripsi tugas baku bagi setiap jenjang pengasuhan di pesantren.
 
@@ -219,6 +221,8 @@ Tragedi Nurul Furqan membuktikan keharusan mutlak adanya lapisan `02_IMPLEMENTAT
 - Musyrif tidak diizinkan menafsirkan fitrah sesuka hati; setiap kamar wajib mengikuti indikator capaian kemandirian yang seragam dan disahkan dewan masyaikh.
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Zachman dalam *A framework for information systems architecture* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
 
 ## 7. Matriks Komparatif & Arsitektur Lapisan 02_IMPLEMENTATION
 
@@ -339,7 +343,7 @@ Dalam repositori TUMBUH v2.0.0, skrip pengujian translasi kelembagaan memvalidas
 │    b. Melarang keras penerapan nilai fundamental secara langsung ke kamar santri      │
 │       tanpa melalui standar translasi kelembagaan yang baku (Anti-Rogue Hermeneutics).│
 │    c. Menetapkan bahwa lapisan 02_IMPLEMENTATION tunduk mutlak pada aturan arah        │
-│       dependensi Clean Architecture: mengacu ke 01, dan diacu oleh 03.                 │
+│       dependensi Clean Architecture: mengacu ke 01, dan diacu oleh 03.                 │[^13]
 │                                                                                        │
 │ 2. DASAR PERTIMBANGAN EPISTEMIK:                                                       │
 │    a. Menjalankan doktrin Ibnu Qayyim Al-Jauziyyah mengenai kewajiban memadukan       │
@@ -393,17 +397,16 @@ $$\Downarrow$$
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 4). Dar al-Kutub al-'Ilmiyyah.
-[^2]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^3]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 1 & 4). Dar al-Jil.
+[^1]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 1 & 4). Dar al-Jil.
+[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 4). Dar al-Kutub al-'Ilmiyyah.
+[^3]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
 [^4]: Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (A. M. Al-Jazzar, Tahqiq; Jilid 28). Majma' al-Malik Fahd.
-[^5]: Cockburn, A. (2005). *Hexagonal architecture: Ports and adapters*. Alistair Cockburn Pattern Series.
-[^6]: Zachman, J. A. (1987). *A framework for information systems architecture*. IBM Systems Journal, 26(3), 276–292.
-[^7]: Kahn, R. L., Wolfe, D. M., Quinn, R. P., Snoek, J. D., & Rosenthal, R. A. (1964). *Organizational stress: Studies in role conflict and ambiguity*. John Wiley & Sons.
-[^8]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^9]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^10]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^11]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^12]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley Professional.
+[^5]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^6]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^7]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^8]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^9]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley Professional.
+[^10]: Cockburn, A. (2005). *Hexagonal architecture: Ports and adapters*. Alistair Cockburn Pattern Series.
+[^11]: Kahn, R. L., Wolfe, D. M., Quinn, R. P., Snoek, J. D., & Rosenthal, R. A. (1964). *Organizational stress: Studies in role conflict and ambiguity*. John Wiley & Sons.
+[^12]: Zachman, J. A. (1987). *A framework for information systems architecture*. IBM Systems Journal, 26(3), 276–292.
 [^13]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-

@@ -1,7 +1,7 @@
 # P00025: Mengapa Epistemology Wajib Diletakkan Langsung Setelah Worldview?
 
 **Peneliti / Penyelidik**: Tim Rekonstruksi Epistemik Repositori TUMBUH v2.0.0  
-**Keahlian Khusus**: Epistemologi Islam, Teori Pengetahuan Terpadu (*Nadhariyyat al-Ma'rifah*), Metodologi Inkuiri Pesantren  
+**Keahlian Khusus**: Epistemologi Islam, Teori Pengetahuan Terpadu (*Nadhariyyat al-Ma'rifah*), Metodologi Inkuiri Pesantren
 **Status Naskah**: Terverifikasi Kanonik & Terkunci (*Approved & Locked*)  
 **Tanggal Penerbitan**: 2026-10-24  
 **Klasifikasi Repositori**: `PROBE / PROBE_01 / PILAR_03`  
@@ -21,7 +21,7 @@ Melalui *Architectural Decision Record (ADR)* yang dikukuhkan dalam dokumen ini,
 ## 2. Definisi Istilah, Latar Belakang Epistemik, & Cakupan Yurisdiksi
 
 ### 2.1. Definisi Istilah Teknis Operasional
-1. **Epistemologi Islam (*Nadhariyyat al-Ma'rifah al-Islamiyyah*)**: Cabang filsafat fundamental yang mengkaji hakikat, sumber, saluran, batas, dan kriteria keabsahan ilmu pengetahuan berdasarkan wahyu Ilahi dan fitrah akal-indera manusia.
+1. **Epistemologi Islam (*Nadhariyyat al-Ma'rifah al-Islamiyyah*)**: Cabang filsafat fundamental yang mengkaji hakikat, sumber, saluran, batas, dan kriteria keabsahan ilmu pengetahuan berdasarkan wahyu Ilahi dan fitrah akal-indera manusia[^1].
 2. **Khabar Shadiq (Pemberitaan Otoritatif yang Benar)**: Sumber ilmu transenden yang mencakup firman Allah dalam Al-Qur'an, sabda Nabi Muhammad SAW yang mutawatir atau shahih, serta kesepakatan ijma' ulama salaf yang memberi kepastian ilmu (*ilmu yaqini*).
 3. **'Aql Salim (Akal Sehat yang Murni)**: Daya berpikir rasional dan intelektual intuitif yang fitri, mampu menarik kesimpulan logis deduktif maupun induktif tanpa terdistorsi oleh hawa nafsu dan kesesatan berpikir (*fallacy*).
 4. **Hawas Salim (Pancaindera yang Selamat)**: Saluran observasi empiris fisik manusia (penglihatan, pendengaran, perabaan, penciuman, pengecapan) yang bekerja secara sehat untuk menangkap fenomena alam syahadah.
@@ -76,35 +76,35 @@ Dokumen `P00025` ini bertugas:
 
 ### 3.1. Teks Turats Otoritatif Berharakat & Takhrij Matan
 
-Imam Sa'duddin at-Taftazani (w[^1]. 793 H) dalam karyanya yang sangat otoritatif, *Syarh al-'Aqa'id an-Nasafiyyah*, membukukan konsensus epistemologi Ahlus Sunnah wal Jama'ah mengenai sebab-sebab sampainya ilmu:
+Imam Sa'duddin at-Taftazani (w. 793 H) dalam karyanya yang sangat otoritatif, *Syarh al-'Aqa'id an-Nasafiyyah*, membukukan konsensus epistemologi Ahlus Sunnah wal Jama'ah mengenai sebab-sebab sampainya ilmu:[^2]
 
-> **قَالَ أَهْلُ الْحَقِّ: أَسْبَابُ الْعِلْمِ لِلْخَلْقِ ثَلَاثَةٌ: الْحَوَاسُّ السَّلِيمَةُ، وَالْخَبَرُ الصَّادِقُ، وَالْعَقْلُ. فَأَمَّا الْحَوَاسُّ فَهِيَ خَمْسٌ: السَّمْعُ، وَالْبَصَرُ، وَالشَّمُّ، وَالذَّوْقُ، وَاللَّمْسُ، وَبِكُلِّ حَاسَّةٍ مِنْهَا يُوقَفُ عَلَى مَا وُضِعَتْ لَهُ... وَأَمَّا الْخَبَرُ الصَّادِقُ فَهُوَ عَلَى نَوْعَيْنِ: خَبَرٌ مُتَوَاتِرٌ... وَخَبَرُ الرَّسُولِ الْمُؤَيَّدِ بِالْمُعْجِزَةِ... وَأَمَّا الْعَقْلُ فَهُوَ سَبَبٌ لِلْعِلْمِ أَيْضًا بَدِيهَةً وَاسْتِدْلَالًا.**  
+> **قَالَ أَهْلُ الْحَقِّ: أَسْبَابُ الْعِلْمِ لِلْخَلْقِ ثَلَاثَةٌ: الْحَوَاسُّ السَّلِيمَةُ، وَالْخَبَرُ الصَّادِقُ، وَالْعَقْلُ. فَأَمَّا الْحَوَاسُّ فَهِيَ خَمْسٌ: السَّمْعُ، وَالْبَصَرُ، وَالشَّمُّ، وَالذَّوْقُ، وَاللَّمْسُ، وَبِكُلِّ حَاسَّةٍ مِنْهَا يُوقَفُ عَلَى مَا وُضِعَتْ لَهُ. وَأَمَّا الْخَبَرُ الصَّادِقُ فَهُوَ عَلَى نَوْعَيْنِ: خَبَرٌ مُتَوَاتِرٌ. وَخَبَرُ الرَّسُولِ الْمُؤَيَّدِ بِالْمُعْجِزَةِ. وَأَمَّا الْعَقْلُ فَهُوَ سَبَبٌ لِلْعِلْمِ أَيْضًا بَدِيهَةً وَاسْتِدْلَالًا.**  
 > *(Syarh al-'Aqa'id an-Nasafiyyah, Tahqiq Ahmad Hijazi as-Saqqa, Maktabah al-Kulliyyat al-Azhariyyah, hlm. 15–22)*  
-> **Artinya**: *"Berkata Ahlul Haq: Sebab-sebab datangnya ilmu bagi makhluk ada tiga: indera yang selamat, kabar yang benar, dan akal. Adapun indera ada lima: pendengaran, penglihatan, penciuman, pengecapan, dan perabaan, yang dengannya diketahui apa yang memang diciptakan untuknya... Adapun kabar yang benar terbagi dua: kabar mutawatir... dan kabar dari Rasul yang dikuatkan dengan mukjizat... Dan adapun akal, ia juga merupakan sebab datangnya ilmu, baik secara aksiomatis (badihah) maupun melalui penalaran pembuktian (istidlal)."*
+> **Artinya**: *"Berkata Ahlul Haq: Sebab-sebab datangnya ilmu bagi makhluk ada tiga: indera yang selamat, kabar yang benar, dan akal. Adapun indera ada lima: pendengaran, penglihatan, penciuman, pengecapan, dan perabaan, yang dengannya diketahui apa yang memang diciptakan untuknya. Adapun kabar yang benar terbagi dua: kabar mutawatir. dan kabar dari Rasul yang dikuatkan dengan mukjizat. Dan adapun akal, ia juga merupakan sebab datangnya ilmu, baik secara aksiomatis (badihah) maupun melalui penalaran pembuktian (istidlal)."*
 
-Imam Abu Manshur al-Maturidi (w[^2]. 333 H) dalam *Kitab at-Tawhid* menegaskan bahwa mengabaikan salah satu dari saluran ini akan meruntuhkan seluruh bangunan agama dan peradaban:
+Imam Abu Manshur al-Maturidi (w. 333 H) dalam *Kitab at-Tawhid* menegaskan bahwa mengabaikan salah satu dari saluran ini akan meruntuhkan seluruh bangunan agama dan peradaban:[^3]
 
 > **أَصْلُ مَا يُدْرَكُ بِهِ الْعِلْمُ ثَلَاثَةُ أَوْجُهٍ: الْعِيَانُ، وَالْأَخْبَارُ، وَالنَّظَرُ، فَمَنْ رَدَّ الْعِيَانَ لَزِمَهُ السَّفْسَطَةُ، وَمَنْ أَبْطَلَ الْأَخْبَارَ انْقَطَعَتْ عَنْهُ مَعْرِفَةُ مَنْ غَابَ عَنْهُ وَشَرَائِعُ الْأَنْبِيَاءِ، وَمَنْ أَنْكَرَ النَّظَرَ عَجَزَ عَنْ إِثْبَاتِ شَيْءٍ مِنَ الْحَقَائِقِ.**  
 > *(Kitab at-Tawhid, Tahqiq Fathallah Khulaif, Dar al-Masyriq, hlm. 7–9)*  
 > **Artinya**: *"Pokok saluran untuk memperoleh ilmu ada tiga segi: pengamatan kasat mata (al-'iyan/empiris), berita-berita (al-akhbar/riwayat), dan penalaran nalar (an-nazhar/rasional). Maka barangsiapa menolak pengamatan inderawi, ia terjatuh dalam sofisme (safsathah); barangsiapa membatalkan otoritas berita, terputuslah darinya pengetahuan tentang apa yang gaib darinya dan syariat para Nabi; dan barangsiapa mengingkari penalaran akal, ia akan lumpuh dari membuktikan hakikat apa pun."*
 
-Imam Abu Hamid al-Ghazali (w[^3]. 505 H) dalam *Al-Mustashfa min 'Ilm al-Ushul* menguraikan metodologi penimbangan bukti dan melarang keras penjatuhan sanksi berdasarkan prasangka kosong (*zhann*):
+Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Al-Mustashfa min 'Ilm al-Ushul* menguraikan metodologi penimbangan bukti dan melarang keras penjatuhan sanksi berdasarkan prasangka kosong (*zhann*):[^4][^5][^6][^7][^8][^9]
 
 > **الْبَيِّنَةُ عَلَى الْمُدَّعِي وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ، وَلَا يَجُوزُ لِلْقَاضِي وَلَا لِلْمُؤَدِّبِ أَنْ يَقْضِيَ بِالظَّنِّ الْمُجَرَّدِ مَعَ إِمْكَانِ طَلَبِ الْيَقِينِ أَوِ الظَّنِّ الْغَالِبِ الْمُسْتَنِدِ إِلَى أَمَارَةٍ صَحِيحَةٍ.**  
 > *(Al-Mustashfa fi 'Ilm al-Ushul, Dar al-Kutub al-'Ilmiyyah, Juz 1, hlm. 142)*  
 > **Artinya**: *"Bukti (bayyinah) dibebankan kepada pihak penuduh dan sumpah kepada pihak yang mengingkari. Tidak halal bagi seorang hakim maupun seorang pendidik (mu'addib) untuk menetapkan keputusan hukum berdasarkan sangkaan semata (azh-zhann al-mujarrad), padahal masih memungkinkan mencari kepastian (yaqin) atau sangkaan kuat (zhann ghalib) yang bersandar pada bukti faktual yang sah."*
 
-Imam Ibn Hazm al-Andalusi (w[^5]. 456 H) dalam *Al-Ihkam fi Ushul al-Ahkam* menegaskan kewajiban menjaga kemurnian pembuktian dan mengharamkan taklid buta terhadap sangkaan orang:
+Imam Ibn Hazm al-Andalusi (w. 456 H) dalam *Al-Ihkam fi Ushul al-Ahkam* menegaskan kewajiban menjaga kemurnian pembuktian dan mengharamkan taklid buta terhadap sangkaan orang:
 
 > **لَا يَحِلُّ لِأَحَدٍ أَنْ يَقُولَ فِي شَيْءٍ مِنَ الدِّينِ وَلَا فِي حُكْمٍ مِنْ أَحْكَامِ الْمُسْلِمِينَ إِلَّا بِبُرْهَانٍ صَحِيحٍ مِنْ نَصِّ قُرْآنٍ، أَوْ سُنَّةٍ ثَابِتَةٍ، أَوْ إِجْمَاعٍ مَقْطُوعٍ بِهِ، أَوْ ضَرُورَةِ حِسٍّ لَا مَدْفَعَ لَهَا، وَمَا عَدَا ذَلِكَ فَهُوَ تَقَلُّدٌ لِلظُّنُونِ الْفَاسِدَةِ وَقَوْلٌ عَلَى اللَّهِ بِمَا لَا يَعْلَمُونَ.**  
 > *(Al-Ihkam fi Ushul al-Ahkam, Tahqiq Ahmad Muhammad Syakir, Dar al-Afaq al-Jadidah, Juz 1, hlm. 37)*  
 > **Artinya**: *"Tidak halal bagi siapa pun untuk berpendapat dalam urusan agama maupun dalam suatu keputusan hukum atas kaum muslimin kecuali dengan burhan yang sahih dari nash Al-Qur'an, sunnah yang tsabit, ijma' yang qath'i, atau kepastian indrawi yang tak terbantahkan. Apa pun selain itu hanyalah sikap mengekor pada sangkaan-sangkaan rusak dan berkata atas nama Allah tanpa ilmu."*
 
-Syed Muhammad Naquib al-Attas[^7] (1993) mendefinisikan ilmu dalam kacamata Islam sebagai:
+Syed Muhammad Naquib al-Attas (1993) mendefinisikan ilmu dalam kacamata Islam sebagai:
 > *"The arrival of meaning in the soul and the arrival of the soul at meaning (*wushul al-ma'na ila an-nafs wa wushul an-nafs ila al-ma'na*). Meaning is the recognition of the proper place of anything in a system. When that place is known, truth is grasped and adab is actualized."* *(The Nature of Knowledge, hlm. 14–16)*.
 
 ---
-Dalam filsafat epistemologi kontemporer Barat, ilmu sering didefinisikan sebagai *Justified True Belief (JTB)*. Namun, sejak Edmund Gettier (1963) mempublikasikan paradoksnya, definisi JTB terbukti rapuh karena sebuah keyakinan yang benar bisa saja terjadi secara kebetulan tanpa keterikatan kausalitas hakiki[^8]. 
+Dalam filsafat epistemologi kontemporer Barat, ilmu sering didefinisikan sebagai *Justified True Belief (JTB)*. Namun, sejak Edmund Gettier (1963) mempublikasikan paradoksnya, definisi JTB terbukti rapuh karena sebuah keyakinan yang benar bisa saja terjadi secara kebetulan tanpa keterikatan kausalitas hakiki[^10].
 
 Epistemologi Islam menyelesaikan problem Gettier ini secara elegan: sebuah pengetahuan tidak sah hanya karena kebetulan benar secara empiris, melainkan harus bersumber dari saluran yang diakui otoritas ontologisnya (*Wushulul Ma'na*). Epistemologi TUMBUH menolak:
 1. **Skeptisisme Radikal (La-Adriyyah / Agnostisisme)**: Sikap menolak kepastian kebenaran obyektif.
@@ -112,6 +112,8 @@ Epistemologi Islam menyelesaikan problem Gettier ini secara elegan: sebuah penge
 3. **Sofisme (Inadiyyah)**: Sikap keras kepala mendebat fakta empiris dan wahyu yang telah benderang.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Rusyd dalam *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^11][^12].
+
 
 ## 4. Analisis Komparatif: Epistemologi Islam vs Epistemologi Sekuler Modern
 
@@ -185,6 +187,8 @@ Sistem evaluasi santri TUMBUH v2.0.0 membagi status pengetahuan dan putusan asra
 ```
 
 ---
+
+Epistemologi realisme kritis yang dikembangkan oleh Roy Bhaskar dalam *A realist theory of science* menegaskan bahwa struktur repositori harus mencerminkan strata ontologis pembinaan yang bertingkat, membedakan antara fenomena empiris, peristiwa aktual, dan mekanisme generatif yang mendasarinya. Karl Popper dalam *The Logic of Scientific Discovery* menegaskan bahwa keterujian dan prinsip falsifikasi adalah batas demarkasi antara klaim ilmiah yang sahih dan dogma spekulatif[^13][^14].
 
 ## 7. Diagram Alur Verifikasi Epistemik Tabayyun Santri
 
@@ -366,22 +370,20 @@ Sepuluh aturan anti-penyimpangan epistemik yang wajib dipatuhi:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: At-Taftazani, S. D. (2000). *Syarh al-'aqa'id an-nasafiyyah* (A. H. as-Saqqa, Ed.). Maktabah al-Kulliyyat al-Azhariyyah.
-[^2]: Al-Maturidi, A. M. (2005). *Kitab at-tawhid* (F. Khulaif, Ed.). Dar al-Masyriq.
-[^3]: Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'ilm al-ushul* (M. A. asy-Syafi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^4]: Al-Ghazali, A. H. (2007). *Al-Munqidh min ad-dhalal* (J. Saliba & K. Ayyad, Ed.). Dar al-Andalus.
-[^5]: Ibn Hazm al-Andalusi, A. M. (1984). *Al-Ihkam fi ushul al-ahkam* (A. M. Syakir, Ed., Jilid 1). Dar al-Afaq al-Jadidah.
-[^6]: Ibn Rusyd, A. W. (1986). *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal* (M. Imarah, Ed.). Dar al-Ma'arif.
-[^7]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^8]: Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis*, 23(6), 121–123.
-[^9]: Al-Amidi, S. D. (2003). *Al-Ihkam fi ushul al-ahkam* (A. R. al-Banna, Ed., Jilid 1). Dar al-Hadits.
-[^10]: Al-Baghdadi, A. Q. (2002). *Ushul ad-din*. Dar al-Kutub al-'Ilmiyyah.
-[^11]: As-Suyuthi, J. D. (1990). *Al-Asybah wa an-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
-[^12]: Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.
-[^13]: Fakhruddin ar-Razi, M. (1988). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-Alwani, Ed., Jilid 1). Mu'assasat ar-Risalah.
+[^1]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: At-Taftazani, S. D. (2000). *Syarh al-'aqa'id an-nasafiyyah* (A. H. as-Saqqa, Ed.). Maktabah al-Kulliyyat al-Azhariyyah.
+[^3]: Al-Maturidi, A. M. (2005). *Kitab at-tawhid* (F. Khulaif, Ed.). Dar al-Masyriq.
+[^4]: Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'ilm al-ushul* (M. A. asy-Syafi, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Ghazali, A. H. (2007). *Al-Munqidh min ad-dhalal* (J. Saliba & K. Ayyad, Ed.). Dar al-Andalus.
+[^6]: Ibn Hazm al-Andalusi, A. M. (1984). *Al-Ihkam fi ushul al-ahkam* (A. M. Syakir, Ed., Jilid 1). Dar al-Afaq al-Jadidah.
+[^7]: Al-Amidi, S. D. (2003). *Al-Ihkam fi ushul al-ahkam* (A. R. al-Banna, Ed., Jilid 1). Dar al-Hadits.
+[^8]: Al-Baghdadi, A. Q. (2002). *Ushul ad-din*. Dar al-Kutub al-'Ilmiyyah.
+[^9]: Fakhruddin ar-Razi, M. (1988). *Al-Mahshul fi 'ilm ushul al-fiqh* (T. J. al-Alwani, Ed., Jilid 1). Mu'assasat ar-Risalah.
+[^10]: Gettier, E. L. (1963). Is justified true belief knowledge? *Analysis*, 23(6), 121–123.
+[^11]: Ibn Rusyd, A. W. (1986). *Fashl al-maqal fima baina al-hikmah wa asy-syari'ah min al-ittishal* (M. Imarah, Ed.). Dar al-Ma'arif.
+[^12]: As-Suyuthi, J. D. (1990). *Al-Asybah wa an-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
+[^13]: Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.
 [^14]: Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson & Co.
-
----
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

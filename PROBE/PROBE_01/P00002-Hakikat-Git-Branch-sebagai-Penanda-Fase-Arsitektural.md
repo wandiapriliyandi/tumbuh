@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini mendekonstruksi reduksionisme teknologis yang memandang sistem kontrol versi terdistribusi (*Git*) semata-mata sebagai utilitas teknis para pemrogram komputer (*programmer-only tooling*) yang tidak memiliki relevansi epistemologis bagi perancangan sistem pendidikan pesantren. Di banyak lembaga pendidikan Islam, kegagalan tata kelola dokumen kerap kali bersumber dari ketiadaan pemisahan yang tegas antara draf eksplorasi yang masih mentah dengan keputusan kanonik yang telah mengikat, sehingga memicu sengketa fatwa kepengasuhan dan keresahan wali santri. Melalui integrasi distingsi ushuliyyah Imam Al-Qarafi mengenai maqam fatwa (*Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam*), tradisi filologi naskah *muswaddah* versus *mubayyadhah* (Imam An-Nawawi), teori integritas kriptografis pohon Merkle (*Merkle Tree Immutability*), serta metodologi *Release Management & Maturity Gates* (Jez Humble & David Farley), monograf ini membuktikan bahwa sebuah *branch* dalam Git pada hakikatnya adalah **pagar pembatas epistemik (*epistemic boundary gate*)**[^1]. Percabangan branch `v2.0.0` berfungsi mengisolasi diskursus kritis dan dialektika tingkat tinggi di ranah penelitian agar tidak mengontaminasi kepastian hukum operasional di kamar asrama santri. Sebagai resolusi epistemik, penyelidikan ini menetapkan protokol percabangan berlandaskan adab sanad (*isnad-driven branching lifecycle*) yang menjamin setiap baris dokumen memiliki catatan riwayat yang mustahil dipalsukan (*tamper-proof audit trail*).
+Penyelidikan ini mendekonstruksi reduksionisme teknologis yang memandang sistem kontrol versi terdistribusi (*Git*) semata-mata sebagai utilitas teknis para pemrogram komputer (*programmer-only tooling*) yang tidak memiliki relevansi epistemologis bagi perancangan sistem pendidikan pesantren. Di banyak lembaga pendidikan Islam, kegagalan tata kelola dokumen kerap kali bersumber dari ketiadaan pemisahan yang tegas antara draf eksplorasi yang masih mentah dengan keputusan kanonik yang telah mengikat, sehingga memicu sengketa fatwa kepengasuhan dan keresahan wali santri. Melalui integrasi distingsi ushuliyyah Imam Al-Qarafi mengenai maqam fatwa (*Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam*), tradisi filologi naskah *muswaddah* versus *mubayyadhah* (Imam An-Nawawi), teori integritas kriptografis pohon Merkle (*Merkle Tree Immutability*), serta metodologi *Release Management & Maturity Gates* (Jez Humble & David Farley), monograf ini membuktikan bahwa sebuah *branch* dalam Git pada hakikatnya adalah **pagar pembatas epistemik (*epistemic boundary gate*)**. Percabangan branch `v2.0.0` berfungsi mengisolasi diskursus kritis dan dialektika tingkat tinggi di ranah penelitian agar tidak mengontaminasi kepastian hukum operasional di kamar asrama santri. Sebagai resolusi epistemik, penyelidikan ini menetapkan protokol percabangan berlandaskan adab sanad (*isnad-driven branching lifecycle*) yang menjamin setiap baris dokumen memiliki catatan riwayat yang mustahil dipalsukan (*tamper-proof audit trail*).
 
 **Kata Kunci:** *Git Branching, Pohon Merkle, Muswaddah vs Mubayyadhah, Al-Ihkam Al-Qarafi, Maturity Gates, Sanad Digital, Traceability, TUMBUH v2.0.0.*
 
@@ -74,7 +74,7 @@ DIALEKTIKA TURATS: DEMARKASI MAQAM IJTIHAD DAN KODIFIKASI DOKUMEN
 ```
 
 ### 3.1. Demarkasi Maqam Fatwa dan Hukum menurut Imam Al-Qarafi
-Imam Syihabuddin Abu al-Abbas Ahmad bin Idris Al-Qarafi dalam magnum opusnya *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (hlm. 28–35) membedakan secara tajam antara:
+Imam Syihabuddin Abu al-Abbas Ahmad bin Idris Al-Qarafi dalam magnum opusnya *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (hlm. 28–35) membedakan secara tajam antara:[^1][^2]
 1. **Tasharruf bil-Futya (Tindakan Fatwa/Wacana Keilmuan)**: Ruang penjelasan hukum yang bersifat dinamis, terbuka bagi perbedaan pendapat (*ikhtilaf*), dan merupakan hasil penalaran seorang mujtahid yang belum memiliki daya paksa kelembagaan.
 2. **Tasharruf bil-Qadha wal-Imamah (Tindakan Putusan Hukum & Kepemimpinan)**: Ruang penetapan regulasi resmi yang mengikat secara publik (*hukmul hakim yarfa'ul khilaf* — putusan otoritas pemimpin mengangkat silang sengketa dan wajib ditaati).
 
@@ -83,14 +83,14 @@ Al-Qarafi memperingatkan bencana fatal jika wacana fatwa yang masih diperdebatka
 Dalam arsitektur repositori TUMBUH, **Branch V2 adalah Maqam al-Futya wal-Mudzakarah**: ruang tempat para pakar mendebat teori, membongkar istilah, dan menguji bukti di folder PROBE; sedangkan **Branch Main adalah Maqam al-Qadha wal-Ilzam**: ruang tempat dokumen Fundamental dan SOP yang telah disahkan berlaku mengikat bagi santri.
 
 ### 3.2. Tradisi Filologi Muswaddah vs Mubayyadhah
-Imam Abu Zakariyya Yahya bin Syaraf An-Nawawi dalam *At-Taqrib wat-Taisir li Ma'rifat Sunan al-Basyir an-Nadzir* (hlm. 82–84) dan disyarah oleh Imam As-Suyuthi dalam *Tadrib ar-Rawi* (Jilid 2, hlm. 68–72[^5]) menjelaskan disiplin kodifikasi naskah para muhadditsin:
+Imam Abu Zakariyya Yahya bin Syaraf An-Nawawi dalam *At-Taqrib wat-Taisir li Ma'rifat Sunan al-Basyir an-Nadzir* (hlm. 82–84) dan disyarah oleh Imam As-Suyuthi dalam *Tadrib ar-Rawi* (Jilid 2, hlm. 68–72) menjelaskan disiplin kodifikasi naskah para muhadditsin:[^3][^4][^5]
 - **Al-Muswaddah (Naskah Hitam/Draf Kasar)**: Buku catatan kerja tempat seorang ulama menuliskan hadits beserta berbagai varian sanadnya, mencoret kalimat yang ragu, memberi tanda tanya, dan menimbang riwayat yang saling bertentangan. Naskah ini dilarang keras diajarkan kepada murid pemula sebelum ditahqiq.
 - **Al-Mubayyadhah (Naskah Putih/Kanonik Bersih)**: Naskah final yang ditulis rapi setelah melalui proses pembacaan ulang (*mu'aradhah*), perbandingan salinan (*muqabalah*), dan pemberian ijazah sanad resmi di hadapan majelis masyaikh.
 
 Sebuah Git Branch adalah perwujudan digital dari naskah *Muswaddah*: ia memberi hak bagi pengembang untuk menulis draf, menguji argumen, dan melakukan revisi berkali-kali tanpa takut mencemari kemurnian naskah *Mubayyadhah* yang menjadi rujukan santri di branch utama.
 
 ### 3.3. Peringatan Ibnu Qayyim Al-Jauziyyah tentang Bahaya Draf Mentah
-Dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (Jilid 4, hlm. 165–170), Ibnu Qayyim al-Jauziyyah melarang seorang mufti menyebarkan catatan draf ijtihadnya yang belum tuntas kepada masyarakat:
+Dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (Jilid 4, hlm. 165–170), Ibnu Qayyim al-Jauziyyah melarang seorang mufti menyebarkan catatan draf ijtihadnya yang belum tuntas kepada masyarakat:[^6]
 > *"Barangsiapa mengeluarkan fatwa atau draf aturan kepada khalayak ramai padahal masalah tersebut masih dalam tahap penimbangan dalil dan belum mantap dalam hatinya, maka ia telah melakukan kezaliman terhadap dirinya sendiri dan telah membuka pintu fitnah di tengah umat manusia."*
 
 Branch V2 adalah benteng pelindung adab ini: ia memastikan perdebatan ilmiah tetap terisolasi di dalam bilik telaah PROBE hingga mencapai derajat keyakinan yang mantap.
@@ -104,13 +104,15 @@ Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 142) mengutip kaidah fiqih 
 Sebuah draf dokumen di branch eksplorasi tidak boleh dinisbatkan sebagai "sikap resmi pesantren". Lembaga hanya bertanggung jawab terhadap dokumen yang telah melalui proses merge dan tag rilis kanonik resmi.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Khatib al-Baghdadi dalam *al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* menegaskan standarisasi adab dan integritas moral transmisi keilmuan sebagai pilar utama pelestarian tradisi pendidikan Islam. Landasan epistemik ini diperkuat oleh pemikiran Muslim dalam *Shahih Muslim*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7][^8][^9].
+
 
 ## 4. Tinjauan Pustaka II: Teori Sistem Informasi, Kriptografi Pohon Merkle, & Release Management
 
 Teknologi kontrol versi terdistribusi modern menyediakan perangkat matematis dan manajerial yang mengukuhkan adab transmisi tersebut secara presisi.
 
 ```text
-DIAGRAM: INTEGRITAS KRIPTOGRAFIS POHON MERKLE DALAM GIT
+DIAGRAM: INTEGRITAS KRIPTOGRAFIS POHON MERKLE DALAM GIT[^10]
 
     ROOT HASH (Commit SHA: e.g., 28f7ec1a) ──► Kunci Integritas Repositori Kanonik
            │
@@ -123,7 +125,7 @@ DIAGRAM: INTEGRITAS KRIPTOGRAFIS POHON MERKLE DALAM GIT
 ```
 
 ### 4.1. Integritas Kriptografis Pohon Merkle (*Merkle Tree Immutability*)
-Ralph C. Merkle (1979) mempatenkan struktur data pohon pohon hash (*Merkle Tree*), yang menjadi jantung dari sistem Git yang diciptakan Linus Torvalds (2005)[^8]. Dalam repositori Git:
+Ralph C. Merkle (1979) mempatenkan struktur data pohon pohon hash (*Merkle Tree*), yang menjadi jantung dari sistem Git yang diciptakan Linus Torvalds (2005). Dalam repositori Git:[^11]
 - Setiap paragraf dokumen disimpan sebagai objek data (*blob*) yang diberi label matematis berupa Secure Hash Algorithm (SHA-1 / SHA-256).
 - Setiap *commit* mengikat seluruh kondisi repositori ke dalam graf asiklik terarah (*Directed Acyclic Graph - DAG*).
 - **Konsekuensi Kriptografis**: Tidak ada satu orang pun—bahkan pimpinan lembaga sekalipun—yang dapat mengubah satu titik, satu kata, atau tanggal keputusan di masa lalu tanpa mengubah seluruh tanda tangan hash kriptografisnya.
@@ -131,19 +133,19 @@ Ralph C. Merkle (1979) mempatenkan struktur data pohon pohon hash (*Merkle Tree*
 Bagi pesantren, ini adalah **Sanad Digital yang Bersifat Mutawatir**: dokumen tata tertib santri di Branch V2 memiliki jaminan keotentikan matematis yang menolak pemalsuan (*tamper-proof auditability*), jauh melampaui keamanan lembar kertas stempel basah yang mudah dimanipulasi.
 
 ### 4.2. Pola Percabangan dan Stabilitas Batang (*Branching Patterns & Trunk Stability*)
-Martin Fowler[^9] (2020) dan Jez Humble & David Farley (2010) dalam *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation* menetapkan prinsip stabilitas garis utama (*Trunk/Main Stability*):
+Martin Fowler (2020) dan Jez Humble & David Farley (2010) dalam *Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation* menetapkan prinsip stabilitas garis utama (*Trunk/Main Stability*):[^12][^13][^14]
 - Garis utama (*main branch*) harus senantiasa berada dalam kondisi siap rilis (*production-ready*) dan tidak boleh terkontaminasi oleh kode atau dokumen yang masih eksperimental.
 - Ketika sistem menghadapi perubahan skala besar yang mengubah fondasi (*architectural overhaul*), pengembang wajib menggunakan pola **Milestone/Release Branching**.
 - Percabangan ini berfungsi sebagai ruang inkubasi tertutup tempat seluruh komponen baru disinkronkan, diaudit, dan diuji kestabilannya sebelum digabungkan kembali (*merge*) ke jalur utama.
 
 ### 4.3. Konsep Pintu Gerbang Kematangan (*Maturity Gates*)
-Gene Kim, Jez Humble, Patrick Debois, dan John Willis (2016) dalam *The DevOps Handbook* merumuskan bahwa transisi artefak antar-lingkungan wajib melewati gerbang kualitas (*quality gates*)[^10]. Sebuah dokumen di Branch V2 tidak boleh dipromosikan ke dokumen operasional pesantren sebelum memenuhi:
+Gene Kim, Jez Humble, Patrick Debois, dan John Willis (2016) dalam *The DevOps Handbook* merumuskan bahwa transisi artefak antar-lingkungan wajib melewati gerbang kualitas (*quality gates*). Sebuah dokumen di Branch V2 tidak boleh dipromosikan ke dokumen operasional pesantren sebelum memenuhi:[^15]
 1. *Verification Gate*: Audit kelengkapan 13 bagian jurnal riset.
 2. *Authenticity Gate*: Takhrij sanad turats dan pengecekan DOI bebas paywall.
 3. *Usability Gate*: Uji keterbacaan oleh musyrif lapangan.
 
 ### 4.4. Teori Komunikasi Sistem Niklas Luhmann (*Autopoietic Social Systems*)
-Sosiolog Niklas Luhmann (1984) dalam teori sistem sosial membuktikan bahwa sebuah organisasi mempertahankan eksistensinya melalui penutupan operasional (*operational closure*) dan seleksi informasi[^11]. Sebuah lembaga pendidikan membutuhkan mekanisme demarkasi yang menyaring mana sinyal internal yang masih berupa perdebatan wacana dan mana sinyal eksternal yang telah menjadi keputusan sistem. Branch V2 adalah mekanisme seleksi Luhmannian yang melindungi kesadaran santri dari kebisingan perdebatan internal para perancang sistem.
+Sosiolog Niklas Luhmann (1984) dalam teori sistem sosial membuktikan bahwa sebuah organisasi mempertahankan eksistensinya melalui penutupan operasional (*operational closure*) dan seleksi informasi. Sebuah lembaga pendidikan membutuhkan mekanisme demarkasi yang menyaring mana sinyal internal yang masih berupa perdebatan wacana dan mana sinyal eksternal yang telah menjadi keputusan sistem. Branch V2 adalah mekanisme seleksi Luhmannian yang melindungi kesadaran santri dari kebisingan perdebatan internal para perancang sistem[^16].
 
 ---
 
@@ -227,6 +229,8 @@ Branch V2 di repositori TUMBUH adalah instrumen keselamatan kelembagaan:
 - Para peneliti dan asatidz memiliki kebebasan akademik penuh untuk menguji dalil dan fakta lapangan di Branch V2 tanpa takut memicu kegaduhan publik.
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Chacon dalam *Pro Git: Everything you need to know about Git* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^17].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -337,7 +341,7 @@ ALUR PROTOKOL SIKLUS HIDUP PERCABANGAN (BRANCHING LIFECYCLE)
 │                                                                                        │
 │ 2. DASAR PERTIMBANGAN EPISTEMIK:                                                       │
 │    a. Melindungi santri dan masyarakat awam dari fitnah kebocoran draf mentah yang     │
-│       belum tuntas dikaji, sesuai kaidah Al-Qarafi dan larangan Ibnu Qayyim[^7].           │
+│       belum tuntas dikaji, sesuai kaidah Al-Qarafi dan larangan Ibnu Qayyim.           │
 │    b. Mengadopsi tradisi filologi para muhadditsin dalam memisahkan muswaddah dari     │
 │       mubayyadhah demi menjaga kemurnian dan wibawa fatwa lembaga.                     │
 │    c. Memanfaatkan keunggulan matematis pohon Merkle sebagai sanad digital modern      │
@@ -390,20 +394,19 @@ $$\Downarrow$$
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^2]: An-Nawawi, Y. S. (1985). *At-Taqrib wat-Taisir li Ma'rifat Sunan al-Basyir an-Nadzir* (M. U. Danasyari, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^3]: Merkle, R. C. (1979). *Secrecy, authentication, and public key systems* (Doctoral dissertation, Stanford University). Stanford University Press.
-[^4]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
-[^5]: As-Suyuthi, J. (1989). *Tadrib ar-Rawi fi Syarah Taqrib an-Nawawi* (A. A. Al-Muthallibi, Tahqiq; Jilid 2). Dar al-'Ashimah.
-[^6]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^7]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^8]: Torvalds, L., & Hamano, J. C. (2005). *Git: Fast version control system*. Kernel.org Foundation.
-[^9]: Fowler, M. (2020). *Patterns of distributed systems and branching architectures*. Martin Fowler Signature Series.
-[^10]: Kim, G., Humble, J., Debois, P., & Willis, J. (2016). *The DevOps handbook: How to create world-class agility, reliability, and security in technology organizations*. IT Revolution Press.
-[^11]: Luhmann, N. (1984). *Soziale systeme: Grundriß einer allgemeinen theorie*. Suhrkamp Verlag.
-[^12]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 4). Dar Thuq an-Najah.
-[^13]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^14]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^15]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 2). Dar Thayyibah.
-[^16]: Chacon, S., & Straub, B. (2014). *Pro Git: Everything you need to know about Git* (2nd ed.). Apress.
-[^17]: Hammant, P. (2013). *Trunk-based development and branch by abstraction in agile architectures*. Continuous Delivery Series.
-
+[^2]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^3]: An-Nawawi, Y. S. (1985). *At-Taqrib wat-Taisir li Ma'rifat Sunan al-Basyir an-Nadzir* (M. U. Danasyari, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^4]: As-Suyuthi, J. (1989). *Tadrib ar-Rawi fi Syarah Taqrib an-Nawawi* (A. A. Al-Muthallibi, Tahqiq; Jilid 2). Dar al-'Ashimah.
+[^5]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^6]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^7]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 4). Dar Thuq an-Najah.
+[^8]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^9]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 2). Dar Thayyibah.
+[^10]: Merkle, R. C. (1979). *Secrecy, authentication, and public key systems* (Doctoral dissertation, Stanford University). Stanford University Press.
+[^11]: Torvalds, L., & Hamano, J. C. (2005). *Git: Fast version control system*. Kernel.org Foundation.
+[^12]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
+[^13]: Fowler, M. (2020). *Patterns of distributed systems and branching architectures*. Martin Fowler Signature Series.
+[^14]: Hammant, P. (2013). *Trunk-based development and branch by abstraction in agile architectures*. Continuous Delivery Series.
+[^15]: Kim, G., Humble, J., Debois, P., & Willis, J. (2016). *The DevOps handbook: How to create world-class agility, reliability, and security in technology organizations*. IT Revolution Press.
+[^16]: Luhmann, N. (1984). *Soziale systeme: Grundriß einer allgemeinen theorie*. Suhrkamp Verlag.
+[^17]: Chacon, S., & Straub, B. (2014). *Pro Git: Everything you need to know about Git* (2nd ed.). Apress.

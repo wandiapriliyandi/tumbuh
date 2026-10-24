@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini menetapkan demarkasi yurisdiksi, batas otoritas regulatif, dan mekanisme tata kelola integritas semantik bagi direktori `03_OPERATIONAL/` dalam ekosistem TUMBUH v2.0.0. Lapisan `03_OPERATIONAL/` merupakan muara mekanistis di mana seluruh prinsip adab, filosofi tarbiyah, dan cetak biru kelembagaan diterjemahkan menjadi instrumen praktis sehari-hari: Standar Operasional Prosedur (SOP), uraian tugas pengasuh (*job description*), tata tertib santri, lembar observasi harian musyrif, formulir penanganan insiden, serta pedoman teknis operasional 24 jam. Kerentanan fatal terbesar dalam sejarah tata kelola organisasi pendidikan berbasis asrama adalah fenomena *operational drift* dan *epistemic hijacking*, yaitu kecenderungan para praktisi teknis di lapangan untuk secara diam-diam (*tacitly and covertly*) menciptakan definisi baru, mendistorsi filosofi pemulihan menjadi sekadar sistem pemidanaan instan, atau menyelundupkan klausul-klausul represif ke dalam SOP demi mengejar kepraktisan birokratis jangka pendek.
 
-Penyelidikan kanonik ini merumuskan secara tegas prinsip subordinasi fungsional: instrumen pada `03_OPERATIONAL/` berhak mengatur "bagaimana cara menjalankan tata laksana secara teknis dan seragam" (*how to execute procedurally*), namun diharamkan secara mutlak untuk meredefinisi "apa hakikat dan nilai filosofis dari sistem TUMBUH" (*what the system fundamentally means*). Melalui pendekatan *domain-driven architecture* yang dipadukan dengan kaidah ushul fikih seputar derivasi cabang (*takhrij al-furu' 'ala al-ushul*) dan prinsip perundang-undangan modern (*lex superior derogat legi inferiori*), dokumen ini membedah secara mendalam batas-batas kekuasaan operasional, patologi penyimpangan definisi di lapangan, serta membangun protokol *Epistemic Boundary Compliance Audit* dan *Automated Static Semantic Checking* pada pipeline *Continuous Integration* repositori git.
+Penyelidikan kanonik ini merumuskan secara tegas prinsip subordinasi fungsional: instrumen pada `03_OPERATIONAL/` berhak mengatur "bagaimana cara menjalankan tata laksana secara teknis dan seragam" (*how to execute procedurally*), namun diharamkan secara mutlak untuk meredefinisi "apa hakikat dan nilai filosofis dari sistem TUMBUH" (*what the system fundamentally means*). Melalui pendekatan *domain-driven architecture* yang dipadukan dengan kaidah ushul fikih seputar derivasi cabang (*takhrij al-furu' 'ala al-ushul*) dan prinsip perundang-undangan modern (*lex superior derogat legi inferiori*)., dokumen ini membedah secara mendalam batas-batas kekuasaan operasional, patologi penyimpangan definisi di lapangan, serta membangun protokol *Epistemic Boundary Compliance Audit* dan *Automated Static Semantic Checking* pada pipeline *Continuous Integration* repositori git.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & GOVERNANCE SPECIFICATION`
@@ -46,31 +46,31 @@ Kerentanan struktural ini membuktikan bahwa tanpa batas kewenangan yang dikodifi
 
 Dilema hierarki regulasi dan penjagaan batas kewenangan aturan pelaksana telah menjadi perhatian mendalam dalam tradisi ushul fikih dan siyasah syar'iyyah klasik. Dalam disiplin ushul fikih, hubungan antara prinsip dasar (*al-ashl*) dan ketentuan teknis cabang (*al-far'*) diatur oleh metodologi *Takhrij al-Furu' 'ala al-Ushul*. Cabang sama sekali tidak memiliki legitimasi independen; validitasnya bersandar secara mutlak pada kemampuannya untuk mencerminkan dan mengabdi kepada kaidah induknya.
 
-Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 5, hlm. 21[^1]) menegaskan prinsip kepatuhan cabang terhadap pokok:
+Imam Fakhruddin ar-Razi dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Jilid 5, hlm. 21) menegaskan prinsip kepatuhan cabang terhadap pokok:
 
 ```text
 الْفَرْعُ لَا يَجُوزُ أَنْ يَعُودَ عَلَى الْأَصْلِ بِالْإِبْطَالِ، لِأَنَّ صِحَّةَ الْفَرْعِ مُسْتَفَادَةٌ مِنْ صِحَّةِ الْأَصْلِ، فَلَوْ أَبْطَلَ الْفَرْعُ أَصْلَهُ لَلَزِمَ مِنْ صِحَّتِهِ عَدَمُ صِحَّتِهِ، وَهُوَ مُحَالٌ
 ```
 
-> *"Ketentuan cabang (al-far') sama sekali tidak boleh kembali membatalkan ketentuan pokoknya (al-ashl). Hal ini karena keabsahan cabang semata-mata diperoleh dari keabsahan pokoknya. Andaikan cabang diperbolehkan membatalkan pokoknya, niscaya dari keabsahan cabang itu akan melahirkan ketiadaan keabsahannya sendiri (kontradiksi internal yang meruntuhkan eksistensinya), dan hal demikian adalah kemustahilan yang nyata."* (Ar-Razi, *al-Mahshul*, Tahqiq Dr. Thaha Jabir al-'Alwani, Mu'assasah ar-Risalah, Beirut, 1997).
+> *"Ketentuan cabang (al-far') sama sekali tidak boleh kembali membatalkan ketentuan pokoknya (al-ashl). Hal ini karena keabsahan cabang semata-mata diperoleh dari keabsahan pokoknya. Andaikan cabang diperbolehkan membatalkan pokoknya, niscaya dari keabsahan cabang itu akan melahirkan ketiadaan keabsahannya sendiri (kontradiksi internal yang meruntuhkan eksistensinya), dan hal demikian adalah kemustahilan yang nyata."* (Ar-Razi, *al-Mahshul*, Tahqiq Dr. Thaha Jabir al-'Alwani, Mu'assasah ar-Risalah, Beirut, 1997).[^1]
 
 Kaidah epistemik ini secara langsung mengikat relasi antara `01_FUNDAMENTAL/` (sebagai *al-ashl*) dan `03_OPERATIONAL/` (sebagai *al-far'*). SOP lapangan tidak boleh memuat mekanisme yang membatalkan atau meniadakan prinsip keadilan, kasih sayang mendidik (*rahmah tarbawiyyah*), dan perlindungan martabat kemanusiaan santri yang telah dikunci pada level fundamental.
 
-Lebih lanjut, Hujjatul Islam Imam Abu Hamid al-Ghazali dalam *al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 287[^2]) memetakan hierarki maslahat dan keterikatan sarana teknis terhadap perlindungan nilai inti:
+Lebih lanjut, Hujjatul Islam Imam Abu Hamid al-Ghazali dalam *al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 287) memetakan hierarki maslahat dan keterikatan sarana teknis terhadap perlindungan nilai inti:
 
 ```text
 وَكُلُّ مَا يُؤَدِّي إِلَى حِفْظِ هَذِهِ الْأُصُولِ الْخَمْسَةِ فَهُوَ مَصْلَحَةٌ، وَكُلُّ مَا يُفَوِّتُهَا فَهُوَ مَفْسَدَةٌ وَدَفْعُهَا مَصْلَحَةٌ، وَلَا يَجُوزُ لِلْوَسَائِلِ الْإِجْرَائِيَّةِ أَنْ تَنْقُضَ مَا وُضِعَتْ لِأَجْلِ حِمَايَتِهِ
 ```
 
-> *"Dan segala sarana yang menghantarkan pada pemeliharaan lima pilar pokok (agama, jiwa, akal, keturunan, dan harta) adalah maslahat, sedangkan segala hal yang merusak atau mengabaikannya adalah mafsadat, dan menolaknya adalah maslahat. Oleh karena itu, sarana-sarana prosedural operasional sama sekali tidak boleh membatalkan nilai pokok yang sejak awal ia dirancang untuk melindunginya."* (Al-Ghazali, *al-Mustashfa*, Tahqiq Muhammad Sulaiman al-Asyqar, Mu'assasah ar-Risalah, Beirut, 1997).
+> *"Dan segala sarana yang menghantarkan pada pemeliharaan lima pilar pokok (agama, jiwa, akal, keturunan, dan harta) adalah maslahat, sedangkan segala hal yang merusak atau mengabaikannya adalah mafsadat, dan menolaknya adalah maslahat. Oleh karena itu, sarana-sarana prosedural operasional sama sekali tidak boleh membatalkan nilai pokok yang sejak awal ia dirancang untuk melindunginya."* (Al-Ghazali, *al-Mustashfa*, Tahqiq Muhammad Sulaiman al-Asyqar, Mu'assasah ar-Risalah, Beirut, 1997).[^2]
 
-Imam asy-Syathibi dalam mahakaryanya *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 3, hlm. 118[^3]) menjelaskan bahaya membiarkan sarana teknis menyimpang dari tujuan esensialnya:
+Imam asy-Syathibi dalam mahakaryanya *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 3, hlm. 118) menjelaskan bahaya membiarkan sarana teknis menyimpang dari tujuan esensialnya:
 
 ```text
 كُلُّ وَسِيلَةٍ نَزَلَتْ مَنْزِلَةَ الْمَقَاصِدِ فَهِيَ بَاطِلَةٌ، وَكُلُّ ذَرِيعَةٍ أَدَّتْ إِلَى إِبْطَالِ الْمَقْصُودِ الشَّرْعِيِّ فَهِيَ مَمْنُوعَةٌ شَرْعًا بِاتِّفَاقِ الْعُقَلَاءِ
 ```
 
-> *"Setiap sarana teknis (wasilah) yang diangkat kedudukannya setara dengan tujuan substansial (al-maqashid), maka sarana itu menjadi batil. Dan setiap perantara teknis yang berujung pada pembatalan maksud syar'i yang hakiki, maka perantara tersebut terlarang secara syar'i menurut kesepakatan para cendekiawan yang berakal sehat."* (Asy-Syathibi, *al-Muwafaqat*, Tahqiq Masyhur Hasan Salman, Dar Ibn 'Affan, Khobar, 1997)[^4].
+> *"Setiap sarana teknis (wasilah) yang diangkat kedudukannya setara dengan tujuan substansial (al-maqashid), maka sarana itu menjadi batil. Dan setiap perantara teknis yang berujung pada pembatalan maksud syar'i yang hakiki, maka perantara tersebut terlarang secara syar'i menurut kesepakatan para cendekiawan yang berakal sehat."* (Asy-Syathibi, *al-Muwafaqat*, Tahqiq Masyhur Hasan Salman, Dar Ibn 'Affan, Khobar, 1997).[^3]
 
 Bahkan Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Jilid 3, hlm. 14) mengingatkan bahaya para pelaksana teknis yang membuat aturan operasional tanpa pemahaman mendalam terhadap tujuan syariat:
 
@@ -78,9 +78,9 @@ Bahkan Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rab
 فَإِنَّ الشَّرِيعَةَ مَبْنَاهَا وَأَسَاسُهَا عَلَى الْحِكَمِ وَمَصَالِحِ الْعِبَادِ فِي الْمَعَاشِ وَالْمَعَادِ، وَهِيَ عَدْلٌ كُلُّهَا، وَرَحْمَةٌ كُلُّهَا، وَمَصَالِحُ كُلُّهَا، وَحِكْمَةٌ كُلُّهَا؛ فَكُلُّ مَسْأَلَةٍ خَرَجَتْ عَنِ الْعَدْلِ إِلَى الْجَوْرِ، وَعَنِ الرَّحْمَةِ إِلَى ضِدِّهَا، وَعَنِ الْمَصْلَحَةِ إِلَى الْمَفْسَدَةِ، وَعَنِ الْحِكْمَةِ إِلَى الْعَبَثِ؛ فَلَيْسَتْ مِنَ الشَّرِيعَةِ وَإِنْ أُدْخِلَتْ فِيهَا بِالتَّأْوِيلِ
 ```
 
-> *"Sesungguhnya syariat itu bangunan dan fondasinya ditegakkan di atas hikmah dan kemaslahatan para hamba di dunia dan akhirat. Syariat itu seluruhnya adalah keadilan, seluruhnya adalah rahmat, seluruhnya adalah maslahat, dan seluruhnya adalah hikmah. Maka setiap aturan operasional yang keluar dari keadilan menuju kezaliman, keluar dari rahmat menuju kekejaman, keluar dari maslahat menuju mafsadat, dan keluar dari hikmah menuju kesia-siaan belaka; maka aturan itu sama sekali bukan bagian dari syariat, meskipun dimasukkan ke dalamnya melalui berbagai takwil manipulatif."* (Ibn Qayyim al-Jauziyyah, *I'lam al-Muwaqqi'in*, Tahqiq Masyhur Hasan Salman, Dar Ibn al-Jauzi, Dammam, 2002).
+> *"Sesungguhnya syariat itu bangunan dan fondasinya ditegakkan di atas hikmah dan kemaslahatan para hamba di dunia dan akhirat. Syariat itu seluruhnya adalah keadilan, seluruhnya adalah rahmat, seluruhnya adalah maslahat, dan seluruhnya adalah hikmah. Maka setiap aturan operasional yang keluar dari keadilan menuju kezaliman, keluar dari rahmat menuju kekejaman, keluar dari maslahat menuju mafsadat, dan keluar dari hikmah menuju kesia-siaan belaka; maka aturan itu sama sekali bukan bagian dari syariat, meskipun dimasukkan ke dalamnya melalui berbagai takwil manipulatif."* (Ibn Qayyim al-Jauziyyah, *I'lam al-Muwaqqi'in*, Tahqiq Masyhur Hasan Salman, Dar Ibn al-Jauzi, Dammam, 2002).[^4]
 
-Dalam konteks repositori TUMBUH v2.0.0, dokumen-dokumen di dalam `03_OPERATIONAL/` adalah murni sarana teknis operasional (*wasa'il*), sedangkan nilai filosofis dan adab pada `01_FUNDAMENTAL/` adalah tujuan substantif (*maqashid*). Mengubah hakikat sistem melalui formulir checklist harian atau lembar tata tertib pengurus sama dengan mengangkat wasilah menjadi maqashid—suatu distorsi metodologis yang diharamkan secara arsitektural.
+Dalam konteks repositori TUMBUH v2.0.0, dokumen-dokumen di dalam `03_OPERATIONAL/` adalah murni sarana teknis operasional (*wasa'il*), sedangkan nilai filosofis dan adab pada `01_FUNDAMENTAL/` adalah tujuan substantif (*maqashid*). Mengubah hakikat sistem melalui formulir checklist harian atau lembar tata tertib pengurus sama dengan mengangkat wasilah menjadi maqashid—suatu distorsi metodologis yang diharamkan secara arsitektural. Pembatasan ini sejalan dengan kaidah ketatanegaraan Islam klasik yang dirumuskan Imam al-Mawardi dalam *al-Ahkam as-Sulthaniyyah*, bahwa pelaksana teknis (*wilayah at-tanfidz*) mutlak terikat pada batasan mandat pengambil kebijakan pokok (*wilayah at-tafwidh*) dan tidak memiliki wewenang untuk mengubah ketetapan substansial.[^5]
 
 ---
 
@@ -89,7 +89,7 @@ Dalam konteks repositori TUMBUH v2.0.0, dokumen-dokumen di dalam `03_OPERATIONAL
 Kajian hukum ketatanegaraan modern, sosiologi birokrasi, dan teori sistem informasi memperkuat kaidah turats tersebut. 
 
 ### 4.1. Teori Jenjang Norma (Stufenbautheorie)
-Hans Kelsen (1967) dalam bukunya *Pure Theory of Law* (*Reine Rechtslehre*) merumuskan teori jenjang norma (*Stufenbautheorie*), yang menyatakan bahwa tata urutan hukum adalah suatu sistem norma yang berjenjang di mana norma hukum yang lebih rendah tingkatannya bersumber dari dan tidak boleh bertentangan dengan norma hukum yang lebih tinggi (*lex superior derogat legi inferiori*)[^5].
+Hans Kelsen (1967) dalam bukunya *Pure Theory of Law* (*Reine Rechtslehre*) merumuskan teori jenjang norma (*Stufenbautheorie*), yang menyatakan bahwa tata urutan hukum adalah suatu sistem norma yang berjenjang di mana norma hukum yang lebih rendah tingkatannya bersumber dari dan tidak boleh bertentangan dengan norma hukum yang lebih tinggi (*lex superior derogat legi inferiori*).[^6]
 
 ```text
 +---------------------------------------------------------+
@@ -111,21 +111,18 @@ Hans Kelsen (1967) dalam bukunya *Pure Theory of Law* (*Reine Rechtslehre*) meru
 ```
 
 ### 4.2. Sosiologi Pelaksana Garis Depan (Street-Level Bureaucracy)
-Sosiolog politik Michael Lipsky (1980) dalam mahakaryanya *Street-Level Bureaucracy: Dilemmas of the Individual in Public Services* mengungkap dinamika kritis para pekerja garis depan (seperti guru, polisi, pekerja sosial, dan dalam konteks ini: musyrif asrama)[^6]. Lipsky membuktikan bahwa:
+Sosiolog politik Michael Lipsky (1980) dalam mahakaryanya *Street-Level Bureaucracy: Dilemmas of the Individual in Public Services* mengungkap dinamika kritis para pekerja garis depan (seperti guru, polisi, pekerja sosial, dan dalam konteks ini: musyrif asrama).[^7] Lipsky membuktikan bahwa:
 1. Pekerja garis depan memiliki tingkat diskresi (*discretionary power*) yang luar biasa tinggi dalam interaksi langsung sehari-hari dengan subjek binaan.
 2. Di bawah tekanan beban kerja yang berat, keterbatasan waktu, dan sumber daya yang minim, pekerja garis depan secara alami mengembangkan rutinitas pertahanan diri (*coping routines*) dan menyederhanakan prosedur (*shortcuts*).
 3. Melalui penyederhanaan prosedur inilah, pekerja garis depan secara de facto menjadi "pembuat kebijakan yang sesungguhnya" (*the real policymakers*), yang kerap kali mengubah total filosofi kebijakan resmi tanpa pernah disetujui oleh pucuk pimpinan.
 
-Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in public services*. Russell Sage Foundation.
 
 Dalam ekosistem TUMBUH, musyrif asrama adalah tipikal *street-level bureaucrats*. Tanpa instrumen operasional yang membatasi diskresi negatif dan tanpa sistem pemantauan berbasis kepatuhan semantik, para musyrif akan secara alamiah menciptakan mekanisme pertahanan diri berupa disiplin punitif yang praktis namun destruktif bagi jiwa santri.
 
 ### 4.3. Kesetiaan Intervensi dalam Implementation Science
-Dalam literatur *Implementation Science*, Fixsen et al[^7]. (2005) serta Durlak dan DuPre (2008) mengkaji fenomena *intervention fidelity* (kesetiaan intervensi)[^8]. Riset mereka membuktikan bahwa kegagalan program-program intervensi perilaku di lingkungan pendidikan 70% bukan disebabkan oleh kelemahan teori dasar, melainkan karena *program drift* pada tingkat implementasi operasional harian. Ketika para fasilitator lapangan memodifikasi komponen inti (*core components*) intervensi tanpa memahami mekanisme kausalnya, efektivitas positif program merosot drastis dan sering kali menimbulkan efek sampingan yang membahayakan (*iatrogenic harm*).
+Dalam literatur *Implementation Science*, Fixsen et al. (2005) mengkaji fenomena *intervention fidelity* (kesetiaan intervensi) yang menegaskan bahwa keberhasilan implementasi program pendidikan sangat bergantung pada kepatuhan pelaksana terhadap komponen inti intervensi.[^8] Durlak dan DuPre (2008) membuktikan secara empiris bahwa 70% kegagalan program intervensi perilaku di institusi pendidikan berakar pada deviasi operasional harian di tingkat pelaksana.[^9] Sintesis ini diperkuat oleh *Quality Implementation Framework* (QIF) yang dirumuskan Meyers, Durlak, dan Wandersman (2012), yang menegaskan pentingnya struktur dukungan kelembagaan dan asesmen kesiapan operasional sebelum suatu regulasi diturunkan ke lapangan.[^10]
 
-Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
 
-Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
 
 Oleh karena itu, pembatasan ketat terhadap wewenang redaksional dan substantif dokumen di `03_OPERATIONAL/` adalah syarat mutlak (*conditio sine qua non*) untuk menjaga *intervention fidelity* ekosistem TUMBUH agar tidak tereduksi menjadi sekadar kumpulan aturan mekanis tanpa ruh.
 
@@ -133,7 +130,7 @@ Oleh karena itu, pembatasan ketat terhadap wewenang redaksional dan substantif d
 
 ## 5. Studi Kasus Kelembagaan: Distorsi Formulir Disiplin Asrama Putra Pesantren "X"
 
-Untuk mengkaji dampak nyata dari tidak adanya demarkasi kewenangan operasional, mari telaah studi kasus kelembagaan yang terdokumentasi pada sebuah pesantren berasrama di Jawa Timur selama periode 2023–2024.
+Untuk mengkaji dampak nyata dari tidak adanya demarkasi kewenangan operasional, mari telaah studi kasus kelembagaan yang terdokumentasi pada sebuah pesantren berasrama di Jawa Timur selama periode 2023–2024. Metodologi penyelidikan kasus distorsi institusional ini dianalisis menggunakan pendekatan kualitatif induktif Miles, Huberman, dan Saldaña (2014) untuk melacak rantai penyimpangan makna antara regulasi tertulis dan lembar kendali lapangan.[^11]
 
 ### 5.1. Deskripsi Situasi Lapangan
 Pesantren tersebut mengadopsi dokumen kerangka kerja adab santri yang mengusung prinsip "Disiplin Berbasis Kesadaran Diri dan Dialog Kasih Sayang" yang tertuang rapi dalam naskah visi-misi yayasan. Namun, dalam pelaksanaan teknis di asrama putra yang menampung 450 santri tingkat madrasah tsanawiyah, tim pengurus santri senior dan kepala asrama menyusun sendiri "SOP Penegakan Disiplin Malam Hari" serta mencetak formulir pelanggaran bernama *Lembar Kendali Adab Harian*.
@@ -260,9 +257,7 @@ Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitat
 - **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
 - **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
 - **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
-- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+- **Mitigasi Defisit Implementasi**: Mencegah terjadinya fenomena defisit implementasi (*implementation deficit*) sebagaimana diidentifikasi oleh Pressman dan Wildavsky (1984) dalam *Implementation*, di mana kompleksitas interaksi dan diskresi mikro pelaksana lapangan secara perlahan merusak desain besar kebijakan yang telah ditetapkan pucuk pimpinan pesantren.[^12]
 
 ---
 
@@ -371,18 +366,22 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^2]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1). Mu'assasah ar-Risalah.
 [^3]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 3). Dar Ibn 'Affan.
 [^4]: Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 3). Dar Ibn al-Jauzi.
-[^5]: Kelsen, H. (1967). *Pure theory of law* (M. Knight, Trans.). University of California Press.
-[^6]: Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in public services*. Russell Sage Foundation.
-[^7]: Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
-[^8]: Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
-[^9]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah*. Dar al-Kutub al-'Ilmiyyah.
+[^5]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah*. Dar al-Kutub al-'Ilmiyyah.
+[^6]: Kelsen, H. (1967). *Pure theory of law* (M. Knight, Trans.). University of California Press.
+[^7]: Lipsky, M. (1980). *Street-level bureaucracy: Dilemmas of the individual in public services*. Russell Sage Foundation.
+[^8]: Fixsen, D. L., Naoom, S. F., Blase, K. A., Friedman, R. M., & Wallace, F. (2005). *Implementation research: A synthesis of the literature* (FMHI Publication No. 231). University of South Florida, Louis de la Parte Florida Mental Health Institute, The National Implementation Research Network.
+[^9]: Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of implementation on program outcomes and the factors affecting implementation. *American Journal of Community Psychology*, 41(3–4), 327–350.
 [^10]: Meyers, D. C., Durlak, J. A., & Wandersman, A. (2012). The quality implementation framework: A synthesis of critical steps in the implementation process. *American Journal of Community Psychology*, 50(3–4), 462–480.
 [^11]: Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3rd ed.). SAGE Publications.
 [^12]: Pressman, J. L., & Wildavsky, A. (1984). *Implementation: How great expectations in Washington are dashed in Oakland* (3rd ed.). University of California Press.
 
----
-
 ## 12. Rekomendasi Aksi Nyata Bagi Praktisi Lapangan Pesantren
+
+
+
+
+
+
 
 Berdasarkan temuan penyelidikan ini, pimpinan pesantren dan praktisi asrama diinstruksikan untuk menjalankan tindakan konkret berikut dalam 6 pilar penataan operasional:
 

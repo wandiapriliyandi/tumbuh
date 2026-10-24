@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan ontologis dan psikologis mengapa *
 
 Melompat langsung ke psikologi perkembangan remaja (*Human Development*) atau kurikulum pengajaran (*Education*) tanpa memahami hakikat dasar manusia telah terbukti melahirkan malapraktik pedagogis yang masif di lingkungan pesantren. Tanpa fondasi Hakikat Insan yang berakar pada konsepsi Fitrah dan anatomi kalbu, santri diperlakukan secara reduksionistik: entah sebagai mesin biologis yang dimodifikasi perilakunya lewat hukuman jasmaniah ala behaviorisme ekstrem, atau sebagai bejana kosong intelektual yang hanya dijejali hafalan teks tanpa sentuhan tazkiyatun nafs.
 
-Melalui telaah komparatif berbasis turats klasik—khususnya karya Imam Al-Ghazali (*Syarh 'Aja'ib al-Qalb*), Ibn Qayyim al-Jauziyyah (*Ighatsat al-Lahfan* dan *Kitab ar-Ruh*), serta perumusan kontemporer Syed Muhammad Naquib al-Attas (*The Nature of Man*)—penyelidikan ini membuktikan bahwa manusia adalah kesatuan integral dwitunggal antara **Jasad Fisik (*al-jasad al-maddi*)** dan **Substansi Ruhani Ketuhanan (*al-lathifah ar-rabbaniyyah ar-ruhaniyyah*)** yang memiliki empat daya kejiwaan utama: **Ruh**, **Qalb**, **'Aql**, dan **Nafs**[^1].
+Melalui telaah komparatif berbasis turats klasik—khususnya karya Imam Al-Ghazali (*Syarh 'Aja'ib al-Qalb*), Ibn Qayyim al-Jauziyyah (*Ighatsat al-Lahfan* dan *Kitab ar-Ruh*), serta perumusan kontemporer Syed Muhammad Naquib al-Attas (*The Nature of Man*)—penyelidikan ini membuktikan bahwa manusia adalah kesatuan integral dwitunggal antara **Jasad Fisik (*al-jasad al-maddi*)** dan **Substansi Ruhani Ketuhanan (*al-lathifah ar-rabbaniyyah ar-ruhaniyyah*)** yang memiliki empat daya kejiwaan utama: **Ruh**, **Qalb**, **'Aql**, dan **Nafs**.
 
 Hasil penyelidikan ini dituangkan ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 03 sebagai konstitusi antropologi resmi TUMBUH v2.0.0. Ditetapkan bahwa seluruh desain intervensi perilaku di asrama dilarang memperlakukan santri semata-mata dari aspek fisik jasmani, melainkan wajib ditujukan untuk menyentuh, membersihkan, dan menumbuhkan kesadaran fitrah kalbu santri.
 
@@ -23,7 +23,7 @@ Hasil penyelidikan ini dituangkan ke dalam *Architectural Decision Record (ADR)*
 ## 2. Definisi Istilah, Latar Belakang Epistemik, & Cakupan Yurisdiksi
 
 ### 2.1. Definisi Istilah Teknis Operasional
-1. **Hakikat Insan (*Mahiuyyatul Insan / Human Nature*)**: Esensi ontologis manusia dalam pandangan Islam sebagai makhluk ciptaan Allah yang dimuliakan (*mukarram*), memikul amanah fitrah tauhid, tersusun atas jasad materi dan ruhaniyah immateri.
+1. **Hakikat Insan (*Mahiuyyatul Insan / Human Nature*)**: Esensi ontologis manusia dalam pandangan Islam sebagai makhluk ciptaan Allah yang dimuliakan (*mukarram*), memikul amanah fitrah tauhid, tersusun atas jasad materi dan ruhaniyah immateri[^1].
 2. **Fitrah Insaniyyah**: Potensi asal penciptaan manusia yang secara apriori condong kepada tauhidullah, kebenaran (*al-haqq*), kebaikan moral (*al-khair*), dan keindahan adab (*al-husn*).
 3. **Al-Lathifah ar-Rabbaniyyah**: Esensi spiritual hakiki manusia yang berasal dari tiupan ruh ciptaan Allah, yang menjadi pusat kesadaran, penerima beban taklif syar'i, dan sasaran hisab ukhrawi.
 4. **Empat Dimensi Jiwa (*Arba'atun Min Quwa an-Nafs*)**:
@@ -77,19 +77,19 @@ Dokumen `P00026` ini membatasi fokus pembahasannya pada:
 
 ### 3.1. Teks Turats Otoritatif Berharakat & Takhrij Matan
 
-Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam mahakaryanya *Ihya' 'Ulum al-Din* pada bab *Syarh 'Aja'ib al-Qalb* menguraikan hakikat sejati manusia:
+Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam mahakaryanya *Ihya' 'Ulum al-Din* pada bab *Syarh 'Aja'ib al-Qalb* menguraikan hakikat sejati manusia:[^2]
 
 > **إِنَّ شَرَفَ الْإِنْسَانِ وَفَضِيلَتَهُ الَّتِي بَانَ بِهَا عَنْ أَصْنَافِ الْحَيَوَانِ هُوَ اسْتِعْدَادُهُ لِمَعْرِفَةِ اللَّهِ سُبْحَانَهُ، الَّتِي هِيَ فِي الدُّنْيَا جَمَالُهُ وَكَمَالُهُ وَفَخْرُهُ، وَفِي الْآخِرَةِ عُدَّتُهُ وَذُخْرُهُ. وَإِنَّمَا اسْتَعَدَّ لِلْمَعْرِفَةِ بِقَلْبِهِ لَا بِجَارِحَةٍ مِنْ جَوَارِحِهِ، فَالْقَلْبُ هُوَ الْعَالِمُ بِاللَّهِ، وَهُوَ الْمُتَقَرِّبُ إِلَى اللَّهِ، وَهُوَ الْعَامِلُ لِلَّهِ، وَهُوَ السَّاعِي إِلَى اللَّهِ، وَإِنَّمَا الْجَوَارِحُ أَتْبَاعٌ وَخَدَمٌ وَآلَاتٌ يَسْتَخْدِمُهَا الْقَلْبُ اسْتِخْدَامَ الْمَلِكِ لِلْعَبِيدِ.**  
 > *(Ihya' 'Ulum al-Din, Tahqiq Ahmad Ali, Dar asy-Sya'b, Juz 3, hlm. 2)*  
 > **Artinya**: *"Sesungguhnya kemuliaan manusia dan keutamaannya yang membedakannya dari segala jenis hewan adalah kesiapannya untuk mengenal Allah Subhanahu wa Ta'ala, yang mana ma'rifat itu di dunia merupakan keindahan, kesempurnaan, dan kebanggaannya, sedangkan di akhirat menjadi bekal dan simpanannya. Sesungguhnya manusia siap menerima ma'rifat dengan kalbunya, bukan dengan salah satu anggota jasad kasarnya. Maka kalbu itulah yang mengenal Allah, yang mendekat kepada Allah, yang beramal karena Allah, dan yang bergegas menuju Allah. Sedangkan anggota badan hanyalah pengikut, pelayan, dan perkakas yang digunakan oleh kalbu sebagaimana seorang raja memperkerjakan budak-budaknya."*
 
-Imam Ibn Qayyim al-Jauziyyah (w. 751 H) dalam kitab *Ighatsat al-Lahfan min Masyayid asy-Syaithan* membagi kondisi kalbu manusia ke dalam tiga kategori yang wajib dipahami oleh setiap pengasuh santri:
+Imam Ibn Qayyim al-Jauziyyah (w. 751 H) dalam kitab *Ighatsat al-Lahfan min Masyayid asy-Syaithan* membagi kondisi kalbu manusia ke dalam tiga kategori yang wajib dipahami oleh setiap pengasuh santri:[^3][^4]
 
-> **الْقَلْبُ عَلَى ثَلَاثَةِ أَنْوَاعٍ: قَلْبٌ صَحِيحٌ سَلِيمٌ، لَا يَنْجُو يَوْمَ الْقِيَامَةِ إِلَّا مَنْ أَتَى اللَّهَ بِهِ... وَقَلْبٌ مَيِّتٌ لَا حَيَاةَ بِهِ، فَلَا يَعْرِفُ رَبَّهُ، وَلَا يَعْبُدُهُ بِأَمْرِهِ... وَقَلْبٌ لَهُ حَيَاةٌ وَبِهِ عِلَّةٌ، فَلَهُ مَادَّتَانِ تُمِدَّانِهِ: تَارَةً تُمِدُّهُ مَادَّةُ الْحَيَاةِ مِنَ الْإِيمَانِ وَالْإِخْلَاصِ، وَتَارَةً تُمِدُّهُ مَادَّةُ الْمَوْتِ مِنَ الشَّهْوَةِ وَالْحِرْصِ وَالْكِبْرِ، وَهُوَ لِمَا غَلَبَ عَلَيْهِ مِنْهُمَا.**  
+> **الْقَلْبُ عَلَى ثَلَاثَةِ أَنْوَاعٍ: قَلْبٌ صَحِيحٌ سَلِيمٌ، لَا يَنْجُو يَوْمَ الْقِيَامَةِ إِلَّا مَنْ أَتَى اللَّهَ بِهِ. وَقَلْبٌ مَيِّتٌ لَا حَيَاةَ بِهِ، فَلَا يَعْرِفُ رَبَّهُ، وَلَا يَعْبُدُهُ بِأَمْرِهِ. وَقَلْبٌ لَهُ حَيَاةٌ وَبِهِ عِلَّةٌ، فَلَهُ مَادَّتَانِ تُمِدَّانِهِ: تَارَةً تُمِدُّهُ مَادَّةُ الْحَيَاةِ مِنَ الْإِيمَانِ وَالْإِخْلَاصِ، وَتَارَةً تُمِدُّهُ مَادَّةُ الْمَوْتِ مِنَ الشَّهْوَةِ وَالْحِرْصِ وَالْكِبْرِ، وَهُوَ لِمَا غَلَبَ عَلَيْهِ مِنْهُمَا.**  
 > *(Ighatsat al-Lahfan, Tahqiq Muhammad Hamid al-Fiqi, Dar al-Ma'rifah, Juz 1, hlm. 12–15)*  
-> **Artinya**: *"Kalbu itu terbagi atas tiga macam: Kalbu yang sehat dan selamat (salim), yang tidak akan selamat pada hari kiamat kecuali orang yang datang kepada Allah dengannya... Kalbu yang mati tak ada kehidupan padanya, yang tidak mengenal Rabb-nya dan tidak menyembah-Nya sesuai perintah-Nya... Dan kalbu yang padanya ada kehidupan namun sekaligus ada penyakit; ia memiliki dua pasokan yang silih berganti: adakalanya dipasok oleh materi kehidupan berupa iman dan ikhlas, dan adakalanya dipasok oleh materi kebinasaan berupa syahwat, ambisi serakah, dan kesombongan; dan ia akan menjadi milik mana saja dari dua pasokan yang paling mendominasinya."*
+> **Artinya**: *"Kalbu itu terbagi atas tiga macam: Kalbu yang sehat dan selamat (salim), yang tidak akan selamat pada hari kiamat kecuali orang yang datang kepada Allah dengannya. Kalbu yang mati tak ada kehidupan padanya, yang tidak mengenal Rabb-nya dan tidak menyembah-Nya sesuai perintah-Nya. Dan kalbu yang padanya ada kehidupan namun sekaligus ada penyakit; ia memiliki dua pasokan yang silih berganti: adakalanya dipasok oleh materi kehidupan berupa iman dan ikhlas, dan adakalanya dipasok oleh materi kebinasaan berupa syahwat, ambisi serakah, dan kesombongan; dan ia akan menjadi milik mana saja dari dua pasokan yang paling mendominasinya."*
 
-Imam Ar-Raghib al-Isfahani (w[^8]. 502 H) dalam *Adz-Dzari'ah ila Makarim asy-Syari'ah* menegaskan keterkaitan antara martabat insan dan tugas ibadah:
+Imam Ar-Raghib al-Isfahani (w. 502 H) dalam *Adz-Dzari'ah ila Makarim asy-Syari'ah* menegaskan keterkaitan antara martabat insan dan tugas ibadah:[^5]
 
 > **الْإِنْسَانُ إِنَّمَا خُلِقَ لِعِمَارَةِ الْأَرْضِ بِالْخِلَافَةِ، وَلَا تَصِحُّ خِلَافَتُهُ إِلَّا بِتَزْكِيَةِ نَفْسِهِ، وَتَزْكِيَةُ النَّفْسِ إِنَّمَا تَكُونُ بِقَهْرِ قُوَّتَيِ الشَّهْوَةِ وَالْغَضَبِ وَتَسْخِيرِهِمَا لِقُوَّةِ الْعَقْلِ وَالْعِلْمِ.**  
 > *(Adz-Dzari'ah ila Makarim asy-Syari'ah, Tahqiq Abu al-Yazid al-'Ajami, Dar ash-Shahwah, hlm. 28)*  
@@ -98,7 +98,7 @@ Imam Ar-Raghib al-Isfahani (w[^8]. 502 H) dalam *Adz-Dzari'ah ila Makarim asy-Sy
 Syed Muhammad Naquib al-Attas (1990) menggarisbawahi bahwa nama *Al-Insan* memiliki signifikansi ganda: berakar dari kata *uns* (kelembutan, keramahan, keakraban) dan *nisyan* (sifat pelupa terhadap perjanjian azali di alam *alastu bi rabbikum*):
 > *"Man is called insan because, having witnessed upon himself the truth of the primordial covenant (*mithaq*), he forgets (*nasiya*) it. The core purpose of Islamic education (*ta'dib*) is to remind (*tadhkir*) the soul of this forgotten covenant, so that it may return to its original nature (*fitrah*) in state of peaceful submission."* *(The Nature of Man, hlm. 4–6)*.
 
-Syaikhul Islam Ahmad bin Taimiyyah (w. 728 H) dalam *Majmu' al-Fatawa* menegaskan bahwa fitrah manusia sejak awal penciptaan dirancang untuk mencintai kebenaran dan mengenal Penciptanya:
+Syaikhul Islam Ahmad bin Taimiyyah (w. 728 H) dalam *Majmu' al-Fatawa* menegaskan bahwa fitrah manusia sejak awal penciptaan dirancang untuk mencintai kebenaran dan mengenal Penciptanya:[^6]
 
 > **فِطْرَةُ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا تَقْتَضِي مَحَبَّةَ الْحَقِّ وَإِيثَارَهُ، وَمَعْرِفَةَ رَبِّ الْعَالَمِينَ وَعِبَادَتَهُ، وَإِنَّمَا تَفْسُدُ هَذِهِ الْفِطْرَةُ بِالشُّبُهَاتِ الْمُضِلَّةِ وَالشَّهَوَاتِ الْغَالِبَةِ، فَإِذَا أُزِيلَتْ عَنْهَا هَذِهِ الْعَوَارِضُ رَجَعَتْ إِلَى حَالَتِهَا الْأَصْلِيَّةِ مِنْ قَبُولِ الْحَقِّ وَالِاسْتِقَامَةِ عَلَيْهِ.**  
 > *(Majmu' al-Fatawa, Jami'at al-Malik Su'ud, Juz 16, hlm. 344)*  
@@ -106,13 +106,15 @@ Syaikhul Islam Ahmad bin Taimiyyah (w. 728 H) dalam *Majmu' al-Fatawa* menegaska
 
 ### 3.2. Integrasi Teori Sains: Kritik Terhadap Reduksionisme Sekuler
 Antropologi Barat modern terpecah ke dalam paradigma yang mereduksi kemanusiaan:
-1. **Behaviorisme Radikal (B.F. Skinner)**: Menolak eksistensi kehendak bebas (*free will*) dan dimensi jiwa[^9]. Manusia dianggap seperti merpati atau tikus yang perilakunya sepenuhnya bisa diprogram melalui sistem insentif (*positive/negative reinforcement*). Model ini jika diterapkan di pesantren akan melahirkan "santri sirkus" yang hanya patuh saat ada pengawas.
+1. **Behaviorisme Radikal (B.F. Skinner)**: Menolak eksistensi kehendak bebas (*free will*) dan dimensi jiwa. Manusia dianggap seperti merpati atau tikus yang perilakunya sepenuhnya bisa diprogram melalui sistem insentif (*positive/negative reinforcement*). Model ini jika diterapkan di pesantren akan melahirkan "santri sirkus" yang hanya patuh saat ada pengawas[^7].
 2. **Psikoanalisis Ortodoks (Sigmund Freud)**: Memandang manusia sebagai budak dari dorongan biologis tak sadar (*id / libido*) yang amoral, di mana moralitas (*superego*) hanyalah bentukan sosial yang mengekang. Pandangan ini menolak adanya fitrah suci Ilahiah.
 3. **Kognitivisme Dingin (Piaget/Kohlberg)**: Menitikberatkan perkembangan nalar moral secara abstrak tanpa mengikutsertakan kekuatan iman, doa, dzikir, dan penyakit-penyakit kalbu (seperti hasad, riya', dan takabbur).
 
 Epistemologi TUMBUH menempatkan sains kognitif modern dan neurosains bukan sebagai pendefinisi hakikat manusia, melainkan sebagai penjelas mekanisme kerja jasad biologis yang mengabdi kepada kepemimpinan kalbu spiritual.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Ibn Miskawaih dalam *Tahdzib al-akhlaq wa tathhir al-a'raq*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Sina dalam *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-Ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8][^9][^10][^11].
+
 
 ## 4. Analisis Komparatif: Antropologi Islam vs Model Manusia Sekuler
 
@@ -201,6 +203,8 @@ Dokumen fondasi `03_HUMAN_NATURE.md` diwajibkan menjabarkan interaksi empat daya
 ```
 
 ---
+
+Albert Bandura dalam teori pembelajaran sosial membuktikan bahwa internalisasi karakter tidak terjadi melalui indoktrinasi verbal, melainkan melalui pemodelan keteladanan langsung (*qudwah hasanah*) yang konsisten. Dalam literatur rekayasa sistem kontemporer, Frankl dalam *Man's search for meaning* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12][^13].
 
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
@@ -365,21 +369,19 @@ Sepuluh pedoman perlindungan martabat fitrah insan yang wajib dipatuhi:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab syarh 'aja'ib al-qalb* (Tahqiq A. Ali, Jilid 3). Dar asy-Sya'b.
-[^2]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^3]: Ibn Qayyim al-Jauziyyah, M. (2003). *Ighatsat al-lahfan min masyayid asy-syaithan* (M. H. al-Fiqi, Ed., Jilid 1). Dar al-Ma'rifah.
-[^4]: Ibn Miskawaih, A. A. (1966). *Tahdzib al-akhlaq wa tathhir al-a'raq* (K. Zurayk, Ed.). American University of Beirut.
-[^5]: Ibn Sina, A. A. (1952). *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
+[^1]: Al-Attas, S. M. N. (1990). *The nature of man and the psychology of the human soul*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab syarh 'aja'ib al-qalb* (Tahqiq A. Ali, Jilid 3). Dar asy-Sya'b.
+[^3]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Ibn Qayyim al-Jauziyyah, M. (2003). *Ighatsat al-lahfan min masyayid asy-syaithan* (M. H. al-Fiqi, Ed., Jilid 1). Dar al-Ma'rifah.
+[^5]: Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila makarim asy-syari'ah* (A. Y. al-'Ajami, Ed.). Dar ash-Shahwah.
 [^6]: Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa* (A. R. an-Najdi, Ed., Jilid 16). Mujamma' al-Malik Fahd.
-[^7]: Al-Attas, S. M. N. (1990). *The nature of man and the psychology of the human soul*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^8]: Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila makarim asy-syari'ah* (A. Y. al-'Ajami, Ed.). Dar ash-Shahwah.
-[^9]: Skinner, B. F. (1971). *Beyond freedom and dignity*. Knopf.
+[^7]: Skinner, B. F. (1971). *Beyond freedom and dignity*. Knopf.
+[^8]: Ibn Miskawaih, A. A. (1966). *Tahdzib al-akhlaq wa tathhir al-a'raq* (K. Zurayk, Ed.). American University of Beirut.
+[^9]: Ibn Sina, A. A. (1952). *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
 [^10]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
 [^11]: Al-Muhasibi, A. H. (1986). *Ar-Ri'ayah li huquqillah* (A. A. Abdul Qadir, Ed.). Dar al-Kutub al-'Ilmiyyah.
 [^12]: Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
 [^13]: Frankl, V. E. (1984). *Man's search for meaning*. Washington Square Press.
-
----
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

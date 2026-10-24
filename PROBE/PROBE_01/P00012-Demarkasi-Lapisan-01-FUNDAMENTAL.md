@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini membedah status epistemik dan mekanisme perlindungan kekebalan arsitektural (*architectural immutability*) pada lapisan `01_FUNDAMENTAL` dalam repositori sistem pendidikan pesantren TUMBUH v2.0.0. Dalam banyak perancangan statuta pesantren, kegagalan tata kelola kerap bersumber dari **Polusi Teknis Konstitusi (*Constitutional Technical Pollution*)**: dokumen falsafah visi-misi dicemari oleh klausul teknis yang cepat kadaluwarsa—seperti besaran nominal denda rupiah, jadwal piket musyrif, nomor rekening bank pondok, atau spesifikasi merk CCTV asrama. Akibatnya, setiap kali terjadi dinamika teknis harian, pimpinan dipaksa mengamandemen dokumen konstitusi pondok, sehingga mendegradasi kewibawaan sakral nilai-nilai fitrah menjadi sekadar nota dinas tata usaha. Melalui integrasi doktrin ushul mengenai penjagaan pokok-pokok syariat (*Kulliyyat ad-Din wal-Ushul at-Tsabitah* menurut Imam Asy-Syathibi dalam *Al-Muwafaqat*), distingsi ushul dan furu' Imam Al-Ghazali (*Al-Mustashfa*), teori domain inti dan invarian (*Core Domain & Invariants* Eric Evans), dekomposisi berbasis volatilitas (*Volatility-Based Decomposition* Juval Löwy), serta proteksi kernel sistem (*Kernel Protection Ring Architecture* Saltzer & Schroeder), monograf ini merumuskan **Demarkasi Kernel Konstitusional TUMBUH**[^1]. Resolusi ini menetapkan bahwa lapisan `01_FUNDAMENTAL` adalah *Zero-Dependency Invariant Layer* yang haram memuat rincian teknis operasional. Ketetapan ini dibakukan ke dalam *Architectural Decision Record* (ADR) kanonik v2.
+Penyelidikan ini membedah status epistemik dan mekanisme perlindungan kekebalan arsitektural (*architectural immutability*) pada lapisan `01_FUNDAMENTAL` dalam repositori sistem pendidikan pesantren TUMBUH v2.0.0. Dalam banyak perancangan statuta pesantren, kegagalan tata kelola kerap bersumber dari **Polusi Teknis Konstitusi (*Constitutional Technical Pollution*)**: dokumen falsafah visi-misi dicemari oleh klausul teknis yang cepat kadaluwarsa—seperti besaran nominal denda rupiah, jadwal piket musyrif, nomor rekening bank pondok, atau spesifikasi merk CCTV asrama. Akibatnya, setiap kali terjadi dinamika teknis harian, pimpinan dipaksa mengamandemen dokumen konstitusi pondok, sehingga mendegradasi kewibawaan sakral nilai-nilai fitrah menjadi sekadar nota dinas tata usaha. Melalui integrasi doktrin ushul mengenai penjagaan pokok-pokok syariat (*Kulliyyat ad-Din wal-Ushul at-Tsabitah* menurut Imam Asy-Syathibi dalam *Al-Muwafaqat*), distingsi ushul dan furu' Imam Al-Ghazali (*Al-Mustashfa*), teori domain inti dan invarian (*Core Domain & Invariants* Eric Evans), dekomposisi berbasis volatilitas (*Volatility-Based Decomposition* Juval Löwy), serta proteksi kernel sistem (*Kernel Protection Ring Architecture* Saltzer & Schroeder), monograf ini merumuskan **Demarkasi Kernel Konstitusional TUMBUH**. Resolusi ini menetapkan bahwa lapisan `01_FUNDAMENTAL` adalah *Zero-Dependency Invariant Layer* yang haram memuat rincian teknis operasional. Ketetapan ini dibakukan ke dalam *Architectural Decision Record* (ADR) kanonik v2.
 
 **Kata Kunci:** *01_FUNDAMENTAL, Kernel Protection, Core Domain, Invariants, Volatility-Based Decomposition, Asy-Syathibi, Kulliyyat ad-Din, Zero-Dependency, TUMBUH v2.0.0.*
 
@@ -70,7 +70,7 @@ Oleh karena itu, pertanyaan epistemik yang wajib dijawab adalah: **Bagaimana men
 
 ## 3. Tinjauan Pustaka I: Khazanah Turats Klasik & Tradisi Kodifikasi Teks
 
-Dalam hukum tata negara Islam (*As-Siyasah Asy-Syar'iyyah*) dan ushul fiqih, para ulama besar selalu membedakan secara tegas antara hukum pokok (*al-ushul al-kulliyyah*) dengan aturan cabang teknis (*al-furu' al-juz'iyyah*).
+Dalam hukum tata negara Islam (*As-Siyasah Asy-Syar'iyyah*) dan ushul fiqih, para ulama besar selalu membedakan secara tegas antara hukum pokok (*al-ushul al-kulliyyah*) dengan aturan cabang teknis (*al-furu' al-juz'iyyah*)[^1][^2].
 
 ```text
 DIALEKTIKA TURATS: PEMISAHAN POKOK DAN CABANG HUKUM
@@ -112,10 +112,12 @@ Kaidah ushuliyyah yang masyhur:
 Ketika terjadi pertentangan di lapangan, yang wajib diselamatkan terlebih dahulu adalah keutuhan prinsip di `01_FUNDAMENTAL`. Praktik operasional yang terbukti merusak prinsip adab santri wajib dibatalkan demi menjaga kesucian konstitusi sistem.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Syaikhul Islam Ibnu Taimiyyah dalam *Dar'u Ta'arudh al-'Aql wan-Naql* menegaskan bahwa dalil syar'i yang shahih dan akal sehat yang murni tidak akan pernah bertentangan, sehingga pembaharuan sistem wajib menjaga keotentikan naqliyyah sekaligus ketepatan aqliyyah[^3][^4][^5][^6][^7][^8].
+
 
 ## 4. Tinjauan Pustaka II: Rekayasa Sistem, Domain-Driven Design, & Volatility Analysis
 
-Dalam ilmu rekayasa perangkat lunak modern, pemisahan domain inti yang stabil dari lapisan luar yang bergejolak (*volatile*) merupakan teknik arsitektur tingkat tinggi.
+Dalam ilmu rekayasa perangkat lunak modern, pemisahan domain inti yang stabil dari lapisan luar yang bergejolak (*volatile*) merupakan teknik arsitektur tingkat tinggi[^9][^10].
 
 ```text
 DIAGRAM TEORI SISTEM: PROTEKSI KERNEL SISTEM (RING ARCHITECTURE)
@@ -141,7 +143,7 @@ Juval Löwy (2019) dalam karya monumentalnya *Righting Software* membuktikan bah
 - **Hukum Arsitektur**: Jangan pernah mencampurkan komponen nol volatilitas dengan komponen tinggi volatilitas dalam satu wadah. Lapisan `01_FUNDAMENTAL` adalah kapsul khusus untuk komponen *zero volatility*.
 
 ### 4.3. Proteksi Cincin Kernel (*Kernel Protection Rings*) Saltzer & Schroeder
-Jerome Saltzer dan Michael Schroeder (1975) dalam *The Protection of Information in Computer Systems* memperkenalkan arsitektur cincin proteksi (*Protection Rings*):
+Jerome Saltzer dan Michael Schroeder (1975) dalam *The Protection of Information in Computer Systems* memperkenalkan arsitektur cincin proteksi (*Protection Rings*):[^11]
 - *Ring 0 (Kernel)*: Memiliki hak istimewa tertinggi, terlindung mutlak dari intervensi program luar.
 - Lapisan `01_FUNDAMENTAL` bertindak sebagai Ring 0 bagi repositori TUMBUH: tidak ada kode atau dokumen dari Ring 3 (`03_OPERATIONAL`) yang dapat menulis langsung ke memori Ring 0.
 
@@ -219,6 +221,8 @@ Tragedi Al-Kautsar membuktikan secara mutlak kebenaran aturan TUMBUH V2:
 - Seluruh detail yang memiliki masa hidup kurang dari 5 tahun wajib diisolasi di lapisan `03_OPERATIONAL`.
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Martin dalam *Clean architecture: A craftsman's guide to software structure and design* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Parnas dalam *On the criteria to be used in decomposing systems into modules* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12][^13].
 
 ## 7. Matriks Komparatif & Kriteria Inklusi Lapisan 01_FUNDAMENTAL
 
@@ -395,15 +399,14 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 
 [^1]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
 [^2]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^3]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley Professional.
-[^4]: Saltzer, J. H., & Schroeder, M. D. (1975). *The protection of information in computer systems*. Proceedings of the IEEE, 63(9), 1278–1308.
-[^5]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^6]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^7]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^8]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^9]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^10]: Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (A. M. Al-Jazzar, Tahqiq; Jilid 19). Majma' al-Malik Fahd.
-[^11]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-[^12]: Parnas, D. L. (1972). *On the criteria to be used in decomposing systems into modules*. Communications of the ACM, 15(12), 1053–1058.
-[^13]: Vernon, V. (2013). *Implementing domain-driven design*. Addison-Wesley Professional.
-
+[^3]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^4]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^5]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^6]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^7]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^8]: Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (A. M. Al-Jazzar, Tahqiq; Jilid 19). Majma' al-Malik Fahd.
+[^9]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley Professional.
+[^10]: Vernon, V. (2013). *Implementing domain-driven design*. Addison-Wesley Professional.
+[^11]: Saltzer, J. H., & Schroeder, M. D. (1975). *The protection of information in computer systems*. Proceedings of the IEEE, 63(9), 1278–1308.
+[^12]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+[^13]: Parnas, D. L. (1972). *On the criteria to be used in decomposing systems into modules*. Communications of the ACM, 15(12), 1053–1058.

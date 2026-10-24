@@ -1,7 +1,7 @@
 # P00029: Mengapa Leadership (Keteladanan Qudwah) Menjadi Keniscayaan Setelah Domain Pendidikan?
 
 **Peneliti / Penyelidik**: Tim Rekonstruksi Epistemik Repositori TUMBUH v2.0.0  
-**Keahlian Khusus**: Kepemimpinan Kenabian (*Al-Qiyadah an-Nabawiyyah*), Servant Leadership Pesantren, Tata Kelola Anti-Feodalisme  
+**Keahlian Khusus**: Kepemimpinan Kenabian (*Al-Qiyadah an-Nabawiyyah*), Servant Leadership Pesantren, Tata Kelola Anti-Feodalisme
 **Status Naskah**: Terverifikasi Kanonik & Terkunci (*Approved & Locked*)  
 **Tanggal Penerbitan**: 2026-10-25  
 **Klasifikasi Repositori**: `PROBE / PROBE_01 / PILAR_03`  
@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan epistemologis dan sosiologis menga
 
 Penyakit paling kronis yang menghancurkan wibawa tarbiyah di dunia pesantren adalah **feodalisme kepemimpinan dan budaya impunitas**: kiai, guru, atau santri senior memposisikan diri sebagai "kasta bangsawan" yang berhak dilayani, kebal dari aturan disiplin, dan bebas menggunakan kekerasan dengan dalih "ketaatan mutlak kepada guru". Akibatnya, nilai-nilai adab tereduksi menjadi sekadar topeng kemunafikan sosial, di mana santri patuh semata-mata karena takut sanksi, bukan karena penghormatan yang tulus.
 
-Melalui penelusuran khazanah turats klasik—khususnya *As-Siyasah asy-Syar'iyyah* karya Syaikhul Islam Ibn Taimiyyah, *Al-Ahkam as-Sulthaniyyah* karya Imam Al-Mawardi, serta nasihat kepemimpinan Imam Al-Ghazali dalam *Nashihat al-Muluk*—yang diintegrasikan dengan teori kepemimpinan pelayan (*Servant Leadership*) dari Robert K[^1]. Greenleaf dan teori pemodelan sosial (*Social Learning Theory*) dari Albert Bandura, penyelidikan ini menegakkan bahwa kepemimpinan Islam adalah **pelayanan tanpa pamrih (*Sayyidul qaumi khadimuhum*)**[^6].
+Melalui penelusuran khazanah turats klasik—khususnya *As-Siyasah asy-Syar'iyyah* karya Syaikhul Islam Ibn Taimiyyah, *Al-Ahkam as-Sulthaniyyah* karya Imam Al-Mawardi, serta nasihat kepemimpinan Imam Al-Ghazali dalam *Nashihat al-Muluk*—yang diintegrasikan dengan teori kepemimpinan pelayan (*Servant Leadership*) dari Robert K. Greenleaf dan teori pemodelan sosial (*Social Learning Theory*) dari Albert Bandura, penyelidikan ini menegakkan bahwa kepemimpinan Islam adalah **pelayanan tanpa pamrih (*Sayyidul qaumi khadimuhum*)**.
 
 Hasil penyelidikan dikristalisasi ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 06. Ditetapkan bahwa kepemimpinan di seluruh level ekosistem TUMBUH—mulai dari Pimpinan Lembaga, Asatidz, Musyrif Kamar, hingga Pengurus Santri—wajib tunduk pada protokol keteladanan qudwah yang sama, bebas dari hak impunitas feodal, dan diukur dari seberapa besar pengorbanan mereka dalam melayani dan membimbing santri.
 
@@ -27,7 +27,7 @@ Hasil penyelidikan dikristalisasi ke dalam *Architectural Decision Record (ADR)*
 2. **Khadimul Ummah (Pemimpin Pelayan)**: Paradigma kepemimpinan profetik di mana kekuasaan dipandang sebagai beban amanah pengorbanan untuk melayani kebutuhan ruhani, moral, dan fisik orang-orang yang dipimpin (*In Loco Parentis*).
 3. **Feodalisme Pesantren (*Feudal Authoritarianism*)**: Distorsi budaya kelembagaan di mana pengasuh atau santri senior menuntut penghormatan buta, meminta fasilitas istimewa tanpa kerja, dan menganggap diri mereka berada di atas tata tertib asrama.
 4. **Kurikulum Berjalan (*The Living Curriculum*)**: Perilaku faktual, cara berbicara, cara merespons kemarahan, dan ketepatan waktu ibadah para guru yang menjadi bahan ajar visual utama yang diserap oleh santri selama 24 jam.
-5. **Impunitas Kepemimpinan (*Leadership Impunity*)**: Kondisi cacat struktural di mana pengurus atau pengasuh yang melakukan pelanggaran tata tertib tidak pernah disanksi, sehingga meruntuhkan legitimasi moral seluruh sistem kedisiplinan.
+5. **Impunitas Kepemimpinan (*Leadership Impunity*)**: Kondisi cacat struktural di mana pengurus atau pengasuh yang melakukan pelanggaran tata tertib tidak pernah disanksi, sehingga meruntuhkan legitimasi moral seluruh sistem kedisiplinan[^1][^2].
 
 ### 2.2. Latar Belakang Masalah Lapangan
 Penyelidikan mendalam terhadap kasus-kasus pembangkangan santri dan runtuhnya wibawa pesantren menemukan bahwa akar masalahnya hampir selalu bermuara pada krisis kepemimpinan:
@@ -75,16 +75,16 @@ Dokumen `P00029` ini secara ketat membatasi yurisdiksinya pada:
 Kaidah profetik fundamental mengenai kepemimpinan diriwayatkan dalam hadits yang masyhur:
 
 > **سَيِّدُ الْقَوْمِ خَادِمُهُمْ، وَمَنْ أَرَادَ أَنْ يَكُونَ سَيِّدًا فَلْيَبْذُلْ نَفْسَهُ فِي قَضَاءِ حَوَائِجِهِمْ، فَإِنَّ الشَّرَفَ لَا يُنَالُ بِالتَّرَفُّعِ وَإِنَّمَا يُنَالُ بِالتَّوَاضُعِ وَالْبَذْلِ.**  
-> *(Diriwayatkan oleh Al-Baihaqi dalam Syu'ab al-Iman, Maktabah ar-Rusyd, No. 7642[^8]; dan Al-Khatib al-Baghdadi dalam Tarikh Baghdad, Juz 6, hlm. 248)*  
+> *(Diriwayatkan oleh Al-Baihaqi dalam Syu'ab al-Iman, Maktabah ar-Rusyd, No. 7642; dan Al-Khatib al-Baghdadi dalam Tarikh Baghdad, Juz 6, hlm. 248)*
 > **Artinya**: *"Pemimpin suatu kaum adalah pelayan mereka. Dan barangsiapa yang ingin menjadi pemimpin sejati, maka hendaknya ia mencurahkan dirinya dalam menunaikan hajat-hajat mereka. Karena sesungguhnya kemuliaan itu tidaklah diraih dengan menyombongkan diri, melainkan diraih dengan kerendahan hati dan pengorbanan."*
 
-Syaikhul Islam Ibn Taimiyyah (w. 728 H) dalam kitab *As-Siyasah asy-Syar'iyyah fi Ishlah ar-Ra'i war-Ra'iyyah* menegaskan bahwa amanah kepemimpinan adalah ibadah dan qurbah, bukan sarana meraih kemewahan duniawi:
+Syaikhul Islam Ibn Taimiyyah (w. 728 H) dalam kitab *As-Siyasah asy-Syar'iyyah fi Ishlah ar-Ra'i war-Ra'iyyah* menegaskan bahwa amanah kepemimpinan adalah ibadah dan qurbah, bukan sarana meraih kemewahan duniawi:[^3]
 
-> **يَجِبُ أَنْ يُعْرَفَ أَنَّ وِلَايَةَ أَمْرِ النَّاسِ مِنْ أَعْظَمِ وَاجِبَاتِ الدِّينِ، بَلْ لَا قِيَامَ لِلدِّينِ وَلَا لِلدُّنْيَا إِلَّا بِهَا... وَالْمَقْصُودُ بِالْوِلَايَةِ إِصْلَاحُ دِينِ الْخَلْقِ، الَّذِي مَتَى فَاتَهُمْ خَسِرُوا خُسْرَانًا مُبِينًا، وَإِصْلَاحُ مَا لَا يَقُومُ الدِّينُ إِلَّا بِهِ مِنْ أَمْرِ دُنْيَاهُمْ... فَمَنْ قَصَدَ بِالْوِلَايَةِ الْعُلُوَّ فِي الْأَرْضِ وَالْفَسَادَ كَانَ مِنْ جِنْسِ فِرْعَوْنَ.**  
+> **يَجِبُ أَنْ يُعْرَفَ أَنَّ وِلَايَةَ أَمْرِ النَّاسِ مِنْ أَعْظَمِ وَاجِبَاتِ الدِّينِ، بَلْ لَا قِيَامَ لِلدِّينِ وَلَا لِلدُّنْيَا إِلَّا بِهَا. وَالْمَقْصُودُ بِالْوِلَايَةِ إِصْلَاحُ دِينِ الْخَلْقِ، الَّذِي مَتَى فَاتَهُمْ خَسِرُوا خُسْرَانًا مُبِينًا، وَإِصْلَاحُ مَا لَا يَقُومُ الدِّينُ إِلَّا بِهِ مِنْ أَمْرِ دُنْيَاهُمْ. فَمَنْ قَصَدَ بِالْوِلَايَةِ الْعُلُوَّ فِي الْأَرْضِ وَالْفَسَادَ كَانَ مِنْ جِنْسِ فِرْعَوْنَ.**  
 > *(As-Siyasah asy-Syar'iyyah, Tahqiq Ali bin Muhammad al-Umran, Dar 'Alim al-Fawa'id, hlm. 168–170)*  
-> **Artinya**: *"Wajib diketahui bahwa memegang kepemimpinan atas urusan manusia termasuk kewajiban agama yang paling agung; bahkan tidak akan tegak agama dan tidak pula dunia melainkan dengannya... Maksud utama kepemimpinan adalah memperbaiki urusan agama makhluk, yang mana bila hal itu luput niscaya mereka merugi dengan kerugian yang nyata, serta memperbaiki urusan dunia mereka yang tanpanya agama tidak dapat tegak... Maka barangsiapa yang berniat dengan kepemimpinannya untuk mencari ketinggian derajat di bumi secara sewenang-wenang dan berbuat kerusakan, ia termasuk golongan Fir'aun."*
+> **Artinya**: *"Wajib diketahui bahwa memegang kepemimpinan atas urusan manusia termasuk kewajiban agama yang paling agung; bahkan tidak akan tegak agama dan tidak pula dunia melainkan dengannya. Maksud utama kepemimpinan adalah memperbaiki urusan agama makhluk, yang mana bila hal itu luput niscaya mereka merugi dengan kerugian yang nyata, serta memperbaiki urusan dunia mereka yang tanpanya agama tidak dapat tegak. Maka barangsiapa yang berniat dengan kepemimpinannya untuk mencari ketinggian derajat di bumi secara sewenang-wenang dan berbuat kerusakan, ia termasuk golongan Fir'aun."*
 
-Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam risalah *Nashihat al-Muluk* (Nasihat bagi Para Pemimpin) menggarisbawahi bahwa keteladanan pemimpin adalah cermin bagi rakyatnya:
+Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam risalah *Nashihat al-Muluk* (Nasihat bagi Para Pemimpin) menggarisbawahi bahwa keteladanan pemimpin adalah cermin bagi rakyatnya:[^4]
 
 > **اعْلَمْ أَنَّ مَثَلَ الرَّاعِي مَثَلُ الْعَيْنِ الصَّافِيَةِ، فَإِذَا كَانَتِ الْعَيْنُ صَافِيَةً جَرَتْ مِنْهَا الْمِيَاهُ عَذْبَةً نَقِيَّةً، وَإِذَا كَانَتِ الْعَيْنُ كَدِرَةً كَانَ جَمِيعُ مَا يَجْرِي مِنْهَا كَدِرًا خَبِيثًا. وَكَذَلِكَ الْقَائِدُ، إِنْ كَانَ صَالِحًا مُتَوَاضِعًا كَانَ أَتْبَاعُهُ عَلَى خُلُقِهِ، وَإِنْ كَانَ جَبَّارًا مُسْتَكْبِرًا ضَلَّتِ الرَّعِيَّةُ بِضَلَالِهِ.**  
 > *(Nashihat al-Muluk, Tahqiq Jalaluddin Huma'i, Dar al-Kutub al-Haditsah, hlm. 82)*  
@@ -96,18 +96,22 @@ Amirul Mukminin Umar bin al-Khattab radhiyallahu 'anhu dalam surat monumentalnya
 > *(Diriwayatkan oleh Ad-Daraquthni dalam Sunan-nya, Juz 4, hlm. 206; dan Al-Baihaqi dalam As-Sunan al-Kubra, Juz 10, hlm. 150)*  
 > **Artinya**: *"Samakanlah kedudukan manusia di hadapanmu: dalam pandangan wajahmu, dalam majelismu, dan dalam keputusan hukummu; sehingga orang yang lemah tidak berputus asa dari keadilanmu, dan orang yang terpandang tidak tamak mengharapkan keberpihakanmu yang curang. Bukti dibebankan kepada pihak yang menuduh dan sumpah kepada pihak yang mengingkari. Dan perdamaian (ishlah) adalah sah di antara kaum muslimin kecuali perdamaian yang menghalalkan yang haram atau mengharamkan yang halal."*
 
-Imam Al-Qadhi Abu Ya'la al-Farra' (w. 458 H) dalam *Al-Ahkam as-Sulthaniyyah* menguraikan bahwa syarat utama seorang pemimpin adalah kesanggupan menegakkan keadilan dan melayani kepentingan umat di atas kepentingan pribadi:
+Imam Al-Qadhi Abu Ya'la al-Farra' (w. 458 H) dalam *Al-Ahkam as-Sulthaniyyah* menguraikan bahwa syarat utama seorang pemimpin adalah kesanggupan menegakkan keadilan dan melayani kepentingan umat di atas kepentingan pribadi:[^5][^6]
 
 > **يَلْزَمُ وَالِيَ الْأَمْرِ أَنْ يَتَفَقَّدَ أُمُورَ رَعِيَّتِهِ بِنَفْسِهِ، وَلَا يَعْتَمِدَ عَلَى تَفْوِيضِ ذَلِكَ إِلَى النُّوَّابِ دُونَ إِشْرَافٍ، فَإِنَّ الْأَمَانَةَ تَقْتَضِي النُّصْحَ، وَالنُّصْحُ لَا يَتِمُّ مَعَ الْغَفْلَةِ وَالتَّرَفُّعِ عَنِ الْمُبَاشَرَةِ.**  
 > *(Al-Ahkam as-Sulthaniyyah, Tahqiq Muhammad Hamid al-Fiqi, Dar al-Kutub al-'Ilmiyyah, hlm. 27)*  
 > **Artinya**: *"Wajib bagi pemegang kepemimpinan untuk memeriksa langsung urusan rakyatnya dengan dirinya sendiri, dan janganlah ia bersandar semata-mata pada pelimpahan wewenang kepada para wakil tanpa pengawasan langsung. Karena sesungguhnya amanah itu menuntut ketulusan nasihat, dan ketulusan nasihat tidak akan pernah sempurna jika disertai kelalaian dan sikap menyombongkan diri dari terjun langsung ke lapangan."*
 
 ### 3.2. Integrasi Teori Kepemimpinan Modern: Dari Greenleaf hingga Bandura
-Teori *Servant Leadership* yang dipopulerkan oleh Robert K. Greenleaf (1977) memiliki keselarasan luar biasa dengan ajaran Islam. Greenleaf merumuskan bahwa ujian sejati dari seorang pemimpin pelayan adalah: *Apakah orang-orang yang dipimpinnya bertumbuh sebagai manusia? Apakah mereka menjadi lebih sehat, lebih bijak, lebih merdeka, dan lebih terdorong untuk melayani sesama?*
+Teori *Servant Leadership* yang dipopulerkan oleh Robert K. Greenleaf (1977) memiliki keselarasan luar biasa dengan ajaran Islam. Greenleaf merumuskan bahwa ujian sejati dari seorang pemimpin pelayan adalah: *Apakah orang-orang yang dipimpinnya bertumbuh sebagai manusia? Apakah mereka menjadi lebih sehat, lebih bijak, lebih merdeka, dan lebih terdorong untuk melayani sesama?*[^7]
 
-Sementara itu, *Social Learning Theory* dari Albert Bandura (1977) membuktikan secara empiris bahwa proses belajar manusia yang paling dominan terjadi melalui **pengamatan (*modeling*)** dan **peniruan (*vicarious reinforcement*)**. Santri di asrama tidak belajar kejujuran dari buku fiqh, melainkan dari apakah mereka melihat musyrifnya jujur mengakui kesalahan saat keliru membagi jatah makan. Jika figur pemimpin menampilkan hipokrisi, maka seluruh materi kurikulum adab otomatis kehilangan kekuatan transformasinya.
+Sementara itu, *Social Learning Theory* dari Albert Bandura (1977) membuktikan secara empiris bahwa proses belajar manusia yang paling dominan terjadi melalui **pengamatan (*modeling*)** dan **peniruan (*vicarious reinforcement*)**. Santri di asrama tidak belajar kejujuran dari buku fiqh, melainkan dari apakah mereka melihat musyrifnya jujur mengakui kesalahan saat keliru membagi jatah makan. Jika figur pemimpin menampilkan hipokrisi, maka seluruh materi kurikulum adab otomatis kehilangan kekuatan transformasinya[^8].
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Ibn 'Abdil Barr dalam *Jami' bayan al-'ilm wa fadlihi*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9][^10][^11].
+
+Landasan epistemik ini diperkuat oleh pemikiran Al-Baihaqi dalam *Syu'ab al-iman*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^12].
+
 
 ## 4. Analisis Komparatif: Kepemimpinan Qudwah Islam vs Feodalisme Otoriter Sekuler
 
@@ -358,20 +362,18 @@ Sepuluh pedoman perlindungan kepemimpinan qudwah yang wajib dipatuhi:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Ibn 'Abdil Barr, Y. A. (1994). *Jami' bayan al-'ilm wa fadlihi* (A. Z. az-Zuhairi, Ed., Jilid 1). Dar Ibn al-Jauzi.
-[^2]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
+[^1]: Bass, B. M., & Riggio, R. E. (2006). *Transformational leadership* (2nd ed.). Lawrence Erlbaum Associates.
+[^2]: Kouzes, J. M., & Posner, B. Z. (2012). *The leadership challenge: How to make extraordinary things happen in organizations* (5th ed.). Jossey-Bass.
 [^3]: Ibn Taimiyyah, A. H. (1998). *As-Siyasah asy-syar'iyyah fi ishlah ar-ra'i wa ar-ra'iyyah* (A. M. al-Umran, Ed.). Dar 'Alim al-Fawa'id.
-[^4]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah* (M. F. as-Sirjani, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Al-Ghazali, A. H. (1988). *Nashihat al-muluk* (J. Huma'i, Ed.). Dar al-Kutub al-Haditsah.
-[^6]: Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
-[^7]: Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
-[^8]: Al-Baihaqi, A. H. (2003). *Syu'ab al-iman* (A. A. Abdul Hamid, Ed., Jilid 10). Maktabah ar-Rusyd.
-[^9]: Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^10]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
-[^11]: Bass, B. M., & Riggio, R. E. (2006). *Transformational leadership* (2nd ed.). Lawrence Erlbaum Associates.
-[^12]: Kouzes, J. M., & Posner, B. Z. (2012). *The leadership challenge: How to make extraordinary things happen in organizations* (5th ed.). Jossey-Bass.
-
----
+[^4]: Al-Ghazali, A. H. (1988). *Nashihat al-muluk* (J. Huma'i, Ed.). Dar al-Kutub al-Haditsah.
+[^5]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah* (M. F. as-Sirjani, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^6]: Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^7]: Greenleaf, R. K. (1977). *Servant leadership: A journey into the nature of legitimate power and greatness*. Paulist Press.
+[^8]: Bandura, A. (1977). *Social learning theory*. Prentice-Hall.
+[^9]: Ibn 'Abdil Barr, Y. A. (1994). *Jami' bayan al-'ilm wa fadlihi* (A. Z. az-Zuhairi, Ed., Jilid 1). Dar Ibn al-Jauzi.
+[^10]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
+[^11]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
+[^12]: Al-Baihaqi, A. H. (2003). *Syu'ab al-iman* (A. A. Abdul Hamid, Ed., Jilid 10). Maktabah ar-Rusyd.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

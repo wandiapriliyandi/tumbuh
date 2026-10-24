@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan rasionalitas struktural, rantai keterikatan logis (*transitive dependency graph*), dan keniscayaan epistemik pembagian lapisan `Foundation` ke dalam **Sembilan Domain Filosofis Bertingkat (Nine Tiered Philosophical Domains)** dalam ekosistem TUMBUH v2.0.0. Dalam sejarah filsafat pendidikan Islam dan teori rekayasa arsitektur sistem informasi, perumusan sebuah fondasi tidak boleh dibiarkan menjadi kumpulan narasi visi-misi yang abstrak, mengambang, atau tersusun secara acak tanpa hierarki keterikatan (*unstructured monolithic discourse*). Ketiadaan tata urut yang ketat (*tartib manthiqi*) terbukti melahirkan anomali fatal: misalnya mengajarkan kepemimpinan (*Leadership*) sebelum santri memahami hakikat jiwa manusia (*Human Nature*), yang niscaya melahirkan kepemimpinan otoriter feodalistik; atau merumuskan strategi perubahan perilaku (*Change Dynamics*) sebelum menetapkan hakikat pendidikan (*Education*), yang mereduksi pembinaan santri menjadi sekadar teknik modifikasi perilaku tanpa ruh.
 
-Penyelidikan kanonik ini menetapkan struktur hierarki sembilan domain yang mengikat secara aksiomatis: (1) **Worldview**, (2) **Epistemology**, (3) **Human Nature**, (4) **Human Development**, (5) **Education**, (6) **Leadership**, (7) **Change Dynamics**, (8) **Core Principles**, dan (9) **System Architecture**. Melalui sintesis antara metodologi klasifikasi ilmu turats Islam (*Maratib al-'Ulum wa Tartibuha*) menurut Imam Abu Hamid al-Ghazali dalam *ar-Risalah al-Ladunniyyah* dan Al-Farabi dalam *Ihsha' al-'Ulum* dengan teori arsitektur graf keterikatan terarah (*Directed Acyclic Graph / DAG Architecture*) dan *Taxonomic Hierarchy in Systems Thinking*, dokumen ini membedah hubungan kausal antar-domain[^1]. Dokumen ini merumuskan protokol verifikasi integrasi fondasi 5 tahap, skrip linter CI otomatis penangkal siklus ketergantungan (*cyclic dependency blocker*), serta mengunci keputusan kanonik bahwa **urutan sembilan domain fondasi bersifat invarian dan wajib menjadi peta jalan pembentukan seluruh kurikulum TUMBUH**.
+Penyelidikan kanonik ini menetapkan struktur hierarki sembilan domain yang mengikat secara aksiomatis: (1) **Worldview**, (2) **Epistemology**, (3) **Human Nature**, (4) **Human Development**, (5) **Education**, (6) **Leadership**, (7) **Change Dynamics**, (8) **Core Principles**, dan (9) **System Architecture**. Melalui sintesis antara metodologi klasifikasi ilmu turats Islam (*Maratib al-'Ulum wa Tartibuha*) menurut Imam Abu Hamid al-Ghazali dalam *ar-Risalah al-Ladunniyyah* dan Al-Farabi dalam *Ihsha' al-'Ulum* dengan teori arsitektur graf keterikatan terarah (*Directed Acyclic Graph / DAG Architecture*) dan *Taxonomic Hierarchy in Systems Thinking*, dokumen ini membedah hubungan kausal antar-domain. Dokumen ini merumuskan protokol verifikasi integrasi fondasi 5 tahap, skrip linter CI otomatis penangkal siklus ketergantungan (*cyclic dependency blocker*), serta mengunci keputusan kanonik bahwa **urutan sembilan domain fondasi bersifat invarian dan wajib menjadi peta jalan pembentukan seluruh kurikulum TUMBUH**.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & PHILOSOPHICAL DOMAIN TAXONOMY`
@@ -19,9 +19,9 @@ Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 
 ## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Unordered Philosophies)
 
-Ketika sebuah institusi pendidikan Islam merumuskan landasan filosofis tanpa struktur tata urut yang logis, gagasan-gagasan luhur yang tertuang dalam dokumen visi-misi yayasan sering kali menjadi pedang bermata dua yang memicu kekacauan orientasi para pendidik di lapangan.
+Ketika sebuah institusi pendidikan Islam merumuskan landasan filosofis tanpa struktur tata urut yang logis, gagasan-gagasan luhur yang tertuang dalam dokumen visi-misi yayasan sering kali menjadi pedang bermata dua yang memicu kekacauan orientasi para pendidik di lapangan[^1].
 
-Gejala disorientasi sistemik akibat ketiadaan stratifikasi sembilan domain teridentifikasi dalam enam patologi kelembagaan:
+Gejala disorientasi sistemik akibat ketiadaan stratifikasi sembilan domain teridentifikasi dalam enam patologi kelembagaan:[^2]
 
 1. **Inversi Fatal Kepemimpinan Mendahului Kemanusiaan (Premature Leadership Inversion)**:
    Lembaga menggembar-gemborkan program kaderisasi kepemimpinan santri (*Leadership Training*) sejak tahun pertama masuk asrama, sebelum santri dibekali pemahaman mendalam tentang hakikat fitrah manusia (*Human Nature*) dan kerendahan hati syar'i. Akibatnya, santri senior yang menjadi pengurus asrama memperlakukan santri adik kelas dengan intimidasi verbal, hukuman fisik sepihak, dan gaya kepemimpinan feodal yang meniru tirani militeristik.
@@ -49,7 +49,7 @@ Pathologi sistemik ini membuktikan bahwa meletakkan fondasi filosofis tidak cuku
 
 Tradisi intelektual Islam klasik adalah pelopor dunia dalam bidang klasifikasi keilmuan (*maratib al-'ulum wa ashnaf al-ma'arif*). Para ulama telah menyusun tata urut penalaran yang ketat untuk memastikan bahwa pemikiran manusia dibangun dari yang paling mendasar (*al-asasi/al-kulli*) menuju yang cabang (*al-far'i/al-juz'i*).
 
-Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitabnya *ar-Risalah al-Ladunniyyah* (hlm. 38–41) menetapkan tata urut hierarki makrifat manusia yang selaras dengan tatanan sembilan domain TUMBUH:
+Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitabnya *ar-Risalah al-Ladunniyyah* (hlm. 38–41) menetapkan tata urut hierarki makrifat manusia yang selaras dengan tatanan sembilan domain TUMBUH:[^3]
 
 ```text
 وَتَرْتِيبُ الْعُلُومِ وَاجِبٌ فِي التَّعَلُّمِ وَالتَّأْسِيسِ؛ فَيَنْبَغِي أَنْ يُبْدَأَ أَوَّلًا بِمَعْرِفَةِ اللَّهِ تَعَالَى وَصِفَاتِهِ وَحَقِيقَةِ الْوُجُودِ (وَهُوَ عِلْمُ الْعَقِيدَةِ وَالرُّؤْيَةِ الْكَوْنِيَّةِ)، ثُمَّ بِمَعْرِفَةِ طُرُقِ الْعِلْمِ وَمَوَازِينِ الْحَقِّ (وَهُوَ عِلْمُ النَّظَرِ وَالِاسْتِدْلَالِ)، ثُمَّ بِمَعْرِفَةِ النَّفْسِ الْإِنْسَانِيَّةِ وَقُوَاهَا وَأَمْرَاضِهَا (وَهُوَ حَقِيقَةُ الْإِنْسَانِ)، ثُمَّ بِمَعْرِفَةِ تَدَرُّجِ أَحْوَالِهَا (وَهُوَ التَّطَوُّرُ)، ثُمَّ بِعِلْمِ التَّهْذِيبِ وَالتَّرْبِيَةِ، ثُمَّ بِعِلْمِ السِّيَاسَةِ وَالْقِيَادَةِ؛ فَمَنْ نَكَّسَ هَذَا التَّرْتِيبَ فَارَقَ الْحِكْمَةَ وَأَفْسَدَ نِظَامَ التَّعْلِيمِ
@@ -57,7 +57,7 @@ Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitabnya *ar-Risalah al-Ladunniyy
 
 > *"Dan tata urut susunan disiplin ilmu adalah suatu kewajiban dalam proses belajar dan pembangunan fondasi sistem. Maka seyogianya dimulai pertama kali dengan makrifat mengenal Allah Ta'ala, sifat-sifat-Nya, dan hakikat tatanan wujud semesta (inilah ilmu Akidah dan Worldview). Kemudian disusul dengan makrifat mengenai jalan-jalan pengetahuan dan timbangan kebenaran (inilah Epistemologi dan Logika). Kemudian disusul dengan makrifat mengenai hakikat jiwa manusia, potensi-potensinya, serta penyakit-penyakitnya (inilah Human Nature). Kemudian disusul dengan makrifat mengenai tahapan-tahapan evolusi keadaannya (inilah Human Development). Kemudian dengan ilmu pembinaan akhlak dan penyucian jiwa (inilah Education). Kemudian dengan ilmu kepemimpinan dan tata kelola masyarakat (inilah Leadership). Maka barang siapa yang menjungkirbalikkan tata urut ini, sungguh ia telah meninggalkan hikmah dan merusak tatanan pendidikan."* (Al-Ghazali, *ar-Risalah al-Ladunniyyah*, Tahqiq Dr. Mahmud Basyir, Dar al-Kutub al-'Ilmiyyah, Beirut, 1988).
 
-Abu Nashr al-Farabi (w. 339 H) dalam mahakarya metodologisnya *Ihsha' al-'Ulum* (hlm. 51–53) menegaskan bahwa ilmu tentang tata kelola manusia (*al-'ilm al-madani wa as-siyasah*) mustahil dapat dirumuskan secara adil tanpa bertumpu pada ilmu metafisika (*al-'ilm al-ilahi*) dan ilmu tentang daya-daya jiwa (*'ilm an-nafs*):
+Abu Nashr al-Farabi (w. 339 H) dalam mahakarya metodologisnya *Ihsha' al-'Ulum* (hlm. 51–53) menegaskan bahwa ilmu tentang tata kelola manusia (*al-'ilm al-madani wa as-siyasah*) mustahil dapat dirumuskan secara adil tanpa bertumpu pada ilmu metafisika (*al-'ilm al-ilahi*) dan ilmu tentang daya-daya jiwa (*'ilm an-nafs*):[^4]
 
 ```text
 إِنَّ الْعِلْمَ الْمَدَنِيَّ الَّذِي يَنْظُرُ فِي سِيَاسَةِ النَّاسِ وَقِيَادَتِهِمْ إِلَى السَّعَادَةِ مَبْنِيٌّ عَلَى الْعِلْمِ بِقُوَى النَّفْسِ وَأَفْعَالِهَا، وَعِلْمُ النَّفْسِ مَبْنِيٌّ عَلَى الْعِلْمِ بِالْمَبَادِئِ الْقُصْوَى لِلْوُجُودِ؛ فَإِذَا انْقَطَعَتِ الصِّلَةُ بَيْنَ سِيَاسَةِ النَّاسِ وَبَيْنَ حَقِيقَةِ الْوُجُودِ، تَحَوَّلَتِ الرِّئَاسَةُ إِلَى تَغَلُّبٍ وَقَهْرٍ، وَصَارَ التَّعْلِيمُ ضَرْبًا مِنَ التَّرْوِيضِ الْبَهِيمِيِّ
@@ -68,6 +68,8 @@ Abu Nashr al-Farabi (w. 339 H) dalam mahakarya metodologisnya *Ihsha' al-'Ulum* 
 Kaidah epistemik para begawan turats ini menjadi landasan ontologis yang kokoh bagi perumusan **Sembilan Domain Filosofis TUMBUH**. Setiap domain memiliki batas kajian (*maudhu'*), tujuan operasional (*ghayah*), dan ketergantungan mutlak pada domain sebelumnya.
 
 ---
+Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Asy-Syatibi dalam *Al-Muwafaqat fi ushul asy-syari'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5][^6][^7][^8].
+
 
 ## 4. Landasan Ilmiah Kontemporer: Directed Acyclic Graph (DAG) & Cognitive Hierarchy
 
@@ -107,16 +109,13 @@ Dalam ilmu komputasi, *Directed Acyclic Graph* (DAG) adalah struktur graf berara
 Aturan invarian dari arsitektur DAG ini adalah: **Domain tingkat $N$ hanya boleh mengonsumsi konsep dari domain tingkat $N-1$ ke atas, dan diharamkan secara mutlak bergantung pada domain di bawahnya.** Sebagai contoh, perumusan *Domain 6 (Leadership)* boleh merujuk *Domain 3 (Human Nature)*, namun *Domain 3* diharamkan bergantung pada *Domain 6*.
 
 ### 4.2. Teori Hirarki Sistem Bertingkat (Stratified Systems Theory)
-Elliott Jaques (1989) dalam *Creativity and Work* merumuskan *Stratified Systems Theory* (SST), yang membuktikan bahwa organisasi yang efektif membagi tata kelolanya ke dalam lapisan kapasitas kognitif bertingkat:
+Elliott Jaques (1989) dalam *Creativity and Work* merumuskan *Stratified Systems Theory* (SST), yang membuktikan bahwa organisasi yang efektif membagi tata kelolanya ke dalam lapisan kapasitas kognitif bertingkat:[^9]
 - Lapisan Tertinggi (Domain 1–2): Mengelola makna eksistensial abstrak, orientasi jangka panjang, dan kriteria kebenaran nilai.
 - Lapisan Menengah (Domain 3–5): Memetakan realitas kodrat manusia, tahapan pertumbuhan alami, dan seni pedagogi pembinaan.
 - Lapisan Eksekusi (Domain 6–9): Merancang dinamika keteladanan, strategi transformasi perilaku, prinsip etika baku, dan integrasi cetak biru sistem.
 
-Jaques, E[^3]. (1989). *Creativity and work*. International Universities Press.
 
-Al-Farabi, A. N. (1949). *Ihsha' al-'ulum* (U. Amin, Ed.). Dar al-Fikr al-'Arabi.
 
-Al-Ghazali, A. H. (1988). *Ar-Risalah al-ladunniyyah fi ma'rifat al-haqiqah* (M. Basyir, Ed.). Dar al-Kutub al-'Ilmiyyah.
 
 Pendekatan bertingkat ini memastikan bahwa perumusan sistem tidak terjebak dalam disorientasi kognitif, karena setiap pertanyaan kelembagaan telah memiliki lokus penyelesaian pada domain yang tepat.
 
@@ -156,8 +155,8 @@ Tabel berikut menetapkan spesifikasi ontologis, fokus kajian, landasan dalil tur
 | **Domain 1** | **Worldview** | Hakikat Wujud, Tauhid, Alam Semesta, dan Akhirat | QS. Al-Baqarah: 1–5, *Ihya'* Kitab Qawa'id al-'Aqa'id | Visi Transendental & Penolak Sekularisme |
 | **Domain 2** | **Epistemology** | Sumber Pengetahuan, Otoritas Wahyu, Akal, & Indera | QS. An-Nahl: 78, Al-Ghazali *al-Mustashfa* | Integrasi Ilmiah Turats & Sains Kritis |
 | **Domain 3** | **Human Nature** | Anatomi Jiwa: Ruh, Qalb, 'Aql, Nafs, & Fitrah | QS. Ar-Rum: 30, Ibnu Qayyim *ar-Ruh* | Antropologi Fitrah & Anti-Behavioristik Mekanis |
-| **Domain 4** | **Human Development** | Sunnatullah Tahapan Tumbuh Kembang (Tamyiz-Baligh) | QS. Al-Hajj: 5, Al-Mawardi[^4] *Adab ad-Dunya wa ad-Din* | Gradasi Kemandirian 4 Tahap (J1–J4) |
-| **Domain 5** | **Education** | Esensi Ta'dib, Tarbiyah, Tazkiyah, & Ta'lim | QS. Al-Jumu'ah: 2, Al-Attas[^5] *Concept of Education* | Kurikulum Karakter Berbasis Pemuliaan Jiwa |
+| **Domain 4** | **Human Development** | Sunnatullah Tahapan Tumbuh Kembang (Tamyiz-Baligh) | QS. Al-Hajj: 5, Al-Mawardi *Adab ad-Dunya wa ad-Din* | Gradasi Kemandirian 4 Tahap (J1–J4) |
+| **Domain 5** | **Education** | Esensi Ta'dib, Tarbiyah, Tazkiyah, & Ta'lim | QS. Al-Jumu'ah: 2, Al-Attas *Concept of Education* | Kurikulum Karakter Berbasis Pemuliaan Jiwa |
 | **Domain 6** | **Leadership** | Kepemimpinan Berbasis Qudwah & Khadimul Ummah | Hadits Bukhari *Kullukum Ra'in*, Al-Ahkam as-Sulthaniyyah | Transformasi Musyrif dari Polisi Jadi Murabbi |
 | **Domain 7** | **Change Dynamics** | Hukum Perubahan Jiwa, Kebiasaan, & Iklim Bi'ah | QS. Ar-Ra'd: 11, Ibnu Khaldun *al-Muqaddimah* | Metodologi Pembiasaan Karakter Tanpa Represi |
 | **Domain 8** | **Core Principles** | Aksioma Etika Mutlak Sistem (Non-Negotiable) | Kaidah Fiqhiyyah *La Dharara wa La Dhirar* | Piagam Perlindungan Santri & Batas Etika |
@@ -262,7 +261,7 @@ Aturan baku dependensi:
 - Berkas Domain 1 dilarang merujuk Domain 2 s/d 9.
 - Berkas Domain 2 hanya boleh merujuk Domain 1.
 - Berkas Domain 3 hanya boleh merujuk Domain 1 dan 2.
-- ... dan seterusnya, di mana Domain $N$ hanya boleh merujuk Domain $< N$.
+- . dan seterusnya, di mana Domain $N$ hanya boleh merujuk Domain $< N$.
 
 ### 8.2. Protokol Verifikasi Linieritas Hirarkis 9 Domain Fondasi
 
@@ -361,6 +360,7 @@ Tujuh prinsip tata kelola sembilan domain fondasi yang wajib dipatuhi:
 
 ### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
 - `01_FUNDAMENTAL/01_FOUNDATION/`: Direktori target utama yang distrukturkan ke dalam 9 domain oleh dokumen penyelidikan kanonik ini.
+
 - `PROBE/PROBE_01/P00022-Mengapa-Foundation-Menjadi-Pintu-Gerbang-Pertama.md`: Menjelaskan mengapa Foundation mendahului seluruh bangunan sistem.
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan filosofi pemisahan keprihatinan repositori.
 - `PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md`: Menegakkan protokol pertahanan otomatis yang menjaga batas repositori.
@@ -371,17 +371,15 @@ Tujuh prinsip tata kelola sembilan domain fondasi yang wajib dipatuhi:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Al-Ghazali, A. H. (1988). *Ar-Risalah al-ladunniyyah fi ma'rifat al-haqiqah* (M. Basyir, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^2]: Al-Farabi, A. N. (1949). *Ihsha' al-'ulum* (U. Amin, Ed.). Dar al-Fikr al-'Arabi.
-[^3]: Jaques, E. (1989). *Creativity and work*. International Universities Press.
-[^4]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (M. as-Saqqa, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^1]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
+[^3]: Al-Ghazali, A. H. (1988). *Ar-Risalah al-ladunniyyah fi ma'rifat al-haqiqah* (M. Basyir, Ed.). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Al-Farabi, A. N. (1949). *Ihsha' al-'ulum* (U. Amin, Ed.). Dar al-Fikr al-'Arabi.
+[^5]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (M. as-Saqqa, Ed.). Dar al-Kutub al-'Ilmiyyah.
 [^6]: Asy-Syatibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. U. Darraz, Ed., Jilid 2). Dar al-Ma'rifah.
-[^7]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
-[^8]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
-[^9]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-
----
+[^7]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
+[^8]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^9]: Jaques, E. (1989). *Creativity and work*. International Universities Press.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

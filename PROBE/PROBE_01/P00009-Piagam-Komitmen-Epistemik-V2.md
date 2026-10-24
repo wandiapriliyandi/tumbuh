@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini memformulasikan pakta integritas dan doktrin filosofis penutup Pilar 1 melalui **Piagam Komitmen Epistemik V2 (*The V2 Epistemic Charter*)**. Dalam pengembangan sistem pendidikan Islam, ancaman paling berbahaya terhadap keberlangsungan peradaban bukanlah ketiadaan teknologi, melainkan **Degradasi Integritas Akademik (*Epistemic Corruption*)**: godaan pragmatis untuk memotong kompas penelitian, menghasilkan naskah-naskah ringkasan dangkal (*superficial boilerplate*), melakukan salin-tempel tanpa sanad, serta merekayasa data perilaku santri demi mengejar kecepatan pemenuhan laporan birokrasi semu (*vanity metrics*). Sikap kompromistis ini merendahkan harkat pesantren dari rahim peradaban ilmu menjadi sekadar pabrik legalitas kertas administratif. Melalui integrasi doktrin *Mitsaq al-Ulama* (QS. Ali 'Imran: 187), etika penuntut ilmu Imam Al-Ajurri (*Akhlaq al-'Ulama*), adab pentahqiqan Imam An-Nawawi (*Al-Majmu'*), integritas Imam Malik bin Anas menolak intervensi penguasa, teori kewaspadaan epistemik (*Epistemic Vigilance Theory* Dan Sperber), hukum Goodhart (*Goodhart's Law*), serta manifesto keahlian profesional (*Software Craftsmanship Manifesto*), monograf ini mengunci tujuh sumpah komitmen epistemik pengembang[^1]. Resolusi ini dituangkan ke dalam *Architectural Decision Record* (ADR) kanonik v2 yang menutup rapat pintu bagi kompromi murahan di repositori TUMBUH.
+Penyelidikan ini memformulasikan pakta integritas dan doktrin filosofis penutup Pilar 1 melalui **Piagam Komitmen Epistemik V2 (*The V2 Epistemic Charter*)**. Dalam pengembangan sistem pendidikan Islam, ancaman paling berbahaya terhadap keberlangsungan peradaban bukanlah ketiadaan teknologi, melainkan **Degradasi Integritas Akademik (*Epistemic Corruption*)**: godaan pragmatis untuk memotong kompas penelitian, menghasilkan naskah-naskah ringkasan dangkal (*superficial boilerplate*), melakukan salin-tempel tanpa sanad, serta merekayasa data perilaku santri demi mengejar kecepatan pemenuhan laporan birokrasi semu (*vanity metrics*). Sikap kompromistis ini merendahkan harkat pesantren dari rahim peradaban ilmu menjadi sekadar pabrik legalitas kertas administratif. Melalui integrasi doktrin *Mitsaq al-Ulama* (QS. Ali 'Imran: 187), etika penuntut ilmu Imam Al-Ajurri (*Akhlaq al-'Ulama*), adab pentahqiqan Imam An-Nawawi (*Al-Majmu'*), integritas Imam Malik bin Anas menolak intervensi penguasa, teori kewaspadaan epistemik (*Epistemic Vigilance Theory* Dan Sperber), hukum Goodhart (*Goodhart's Law*), serta manifesto keahlian profesional (*Software Craftsmanship Manifesto*), monograf ini mengunci tujuh sumpah komitmen epistemik pengembang. Resolusi ini dituangkan ke dalam *Architectural Decision Record* (ADR) kanonik v2 yang menutup rapat pintu bagi kompromi murahan di repositori TUMBUH.
 
 **Kata Kunci:** *Piagam Komitmen Epistemik, Mitsaq al-Ulama, Goodhart's Law, Epistemic Vigilance, Akhlaq al-'Ulama, Anti-Boilerplate, Software Craftsmanship, TUMBUH v2.0.0.*
 
@@ -49,7 +49,7 @@ DILEMA MORAL DALAM PENYUSUNAN SISTEM PENDIDIKAN PESANTREN
 
 Fenomena lapangan menunjukkan tiga bentuk pengkhianatan epistemik yang kerap terjadi:
 1. **Sindrom Naskah Kulit Bawang (*The Onion Skin Syndrome*)**: Dokumen tebal puluhan halaman yang jika dibaca turns out hanya berisi pengulangan paragraf шаблон (boilerplate), kata-kata mutiara tanpa operasionalisasi, dan kutipan ayat/hadits tempelan tanpa ada analisis korelasi dengan masalah nyata santri.
-2. **Korupsi Metrik Ilmiah (Hukum Goodhart)**: Ketika target "jumlah berkas selesai" dijadikan ukuran kinerja utama, para penulis menurunkan standar secara drastis: mereka memecah satu topik utuh menjadi belasan berkas kecil dangkal (bervolume 50–100 baris) semata-mata demi mengejar angka pencapaian statistik di depan pimpinan.
+2. **Korupsi Metrik Ilmiah (Hukum Goodhart)**: Ketika target "jumlah berkas selesai" dijadikan ukuran kinerja utama, para penulis menurunkan standar secara drastis: mereka memecah satu topik utuh menjadi belasan berkas kecil dangkal (bervolume 50–100 baris) semata-mata demi mengejar angka pencapaian statistik di depan pimpinan[^1].
 3. **Plagiasi Taksonomi Sekuler Tanpa Islamisasi**: Menyalin bulat-bulat rubrik perilaku dari internet tanpa memeriksa apakah konsep tersebut bertentangan dengan fitrah dan adab Islam, melahirkan kurikulum hibrida yang merusak kepribadian santri.
 
 Oleh karena itu, pertanyaan epistemik penutup Pilar 1 yang wajib dijawab adalah: **Bagaimana membentengi seluruh perumus repositori TUMBUH dari godaan kompromi instan, dan bagaimana merumuskan piagam moral yang mewajibkan setiap berkas dipertanggungjawabkan bukan hanya di hadapan asesor manusia, melainkan di hadapan Mahkamah Ilahi (*Hisab Akhirat*)?**
@@ -85,10 +85,10 @@ Allah Subhanahu wa Ta'ala berfirman:
 > 
 > *"Dan (ingatlah), ketika Allah mengambil janji dari orang-orang yang telah diberi kitab: 'Hendaklah kamu menerangkan isi kitab itu kepada manusia, dan jangan kamu menyembunyikannya,' lalu mereka melemparkan janji itu ke belakang punggung mereka dan mereka menukarnya dengan harga yang sedikit. Amatlah buruk tukaran yang mereka terima."* (QS. Ali 'Imran: 187).
 
-Imam Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* (Jilid 2, hlm. 177[^5]) menjelaskan bahwa ayat ini adalah ancaman keras bagi siapa pun yang memiliki ilmu namun memilih bersikap kompromistis, menyembunyikan kebenaran metodologis, atau menghasilkan tulisan yang tidak bermutu demi menyenangkan atasan atau mengejar imbalan materi fana.
+Imam Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* (Jilid 2, hlm. 177) menjelaskan bahwa ayat ini adalah ancaman keras bagi siapa pun yang memiliki ilmu namun memilih bersikap kompromistis, menyembunyikan kebenaran metodologis, atau menghasilkan tulisan yang tidak bermutu demi menyenangkan atasan atau mengejar imbalan materi fana[^2].
 
 ### 3.2. Adab Penulis Kitab menurut Imam Al-Ajurri
-Imam Abu Bakar Muhammad bin al-Husain Al-Ajurri dalam *Akhlaq al-'Ulama* (hlm. 43–48) menetapkan sifat wajib bagi seorang penyusun pedoman umat:
+Imam Abu Bakar Muhammad bin al-Husain Al-Ajurri dalam *Akhlaq al-'Ulama* (hlm. 43–48) menetapkan sifat wajib bagi seorang penyusun pedoman umat:[^3]
 - Niat semata-mata mencari keridhaan Allah Ta'ala (*Ikhlash an-Niyyah*).
 - Menghindari sifat tergesa-gesa memamerkan karya sebelum diuji secara tuntas (*at-ta'anni wat-tatsabbut*).
 - Menolak keras mencuri karya orang lain (*al-intihal*) atau mengklaim hasil pemikiran orang terdahulu sebagai temuannya sendiri tanpa menyebutkan sanad perawinya.
@@ -96,19 +96,21 @@ Imam Abu Bakar Muhammad bin al-Husain Al-Ajurri dalam *Akhlaq al-'Ulama* (hlm. 4
 Al-Ajurri memperingatkan bahwa penulis yang menyebarkan panduan rusak kepada murid-murid di madrasah akan memikul dosa seluruh murid yang tersesat akibat panduannya hingga hari kiamat.
 
 ### 3.3. Adab Tahqiq Imam An-Nawawi dalam Mukaddimah Al-Majmu'
-Imam Abu Zakariyya Yahya bin Syaraf An-Nawawi dalam mukaddimah *Al-Majmu' Syarah al-Muhadzdzab* (Jilid 1, hlm. 35–42) merumuskan etika kepenulisan ilmiah:
-- Penulis tidak boleh merasa cukup dengan nukilan sekunder; ia wajib menelusuri naskah ke sumber aslinya (*tahqiq al-ushul*).
+Imam Abu Zakariyya Yahya bin Syaraf An-Nawawi dalam mukaddimah *Al-Majmu' Syarah al-Muhadzdzab* (Jilid 1, hlm. 35–42) merumuskan etika kepenulisan ilmiah:[^4]
+- Penulis tidak boleh merasa cukup dengan nukilan sekunder; ia wajib menelusuri naskah ke sumber aslinya (*tahqiq al-ushul*)[^5].
 - Diharamkan meringkas teks penting jika peringkasan tersebut mencederai keutuhan makna dan menimbulkan salah paham bagi pembaca.
 - Penulis wajib jujur mengakui keterbatasan pengetahuannya dan mencantumkan kalimat tarjih yang adil ketika membandingkan pendapat yang berbeda.
 
 ---
+Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^6][^7].
+
 
 ## 4. Tinjauan Pustaka II: Teori Filsafat Ilmu, Epistemic Vigilance, & Software Craftsmanship
 
 Dalam filsafat ilmu kontemporer dan etika rekayasa perangkat lunak modern, benteng pertahanan terhadap penurunan mutu dibangun di atas prinsip-prinsip etika keilmuan yang sangat ketat.
 
 ```text
-DIAGRAM TEORI SISTEM: LINGKARAN PENGAWASAN EPISTEMIK (EPISTEMIC VIGILANCE CYCLE)
+DIAGRAM TEORI SISTEM: LINGKARAN PENGAWASAN EPISTEMIK (EPISTEMIC VIGILANCE CYCLE)[^8]
 
                      AUDIT EPISTEMIK AKTIF (SPERBER ET AL.)
   ┌────────────────────────────────────────────────────────────────────────┐
@@ -118,7 +120,7 @@ DIAGRAM TEORI SISTEM: LINGKARAN PENGAWASAN EPISTEMIK (EPISTEMIC VIGILANCE CYCLE)
   └───────────────────────────────────┬────────────────────────────────────┘
                                       │
                                       ▼ HASIL KANONIK
-                 SOFTWARE CRAFTSMANSHIP (ROBERT C. MARTIN)
+                 SOFTWARE CRAFTSMANSHIP (ROBERT C. MARTIN)[^9][^10]
   ┌────────────────────────────────────────────────────────────────────────┐
   │ "Bukan Sekadar Berfungsi, Tetapi Dirancang dengan Indah;                │
   │  Bukan Sekadar Selesai, Tetapi Menjadi Warisan Keahlian Profesional."  │
@@ -140,7 +142,7 @@ Ekonom Charles Goodhart (1975) merumuskan aksioma monumental:
 Jika tim repositori menargetkan "harus selesai 10 berkas per hari", para penulis akan tergoda memangkas analisis dan menghasilkan naskah-naskah dangkal. Piagam V2 menetapkan bahwa **mutu kedalaman substantif ($\ge 400$ baris berbobot) adalah kendala mutlak (*hard constraint*) yang tidak boleh ditawar demi target kecepatan**.
 
 ### 4.3. Manifesto Keahlian Perangkat Lunak (*Software Craftsmanship Manifesto*)
-Robert C. Martin et al[^7]. (2009) mendeklarasikan bahwa rekayasa sistem bukan sekadar pekerjaan buruh ketik, melainkan panggilan keahlian (*craftsmanship*):
+Robert C. Martin et al. (2009) mendeklarasikan bahwa rekayasa sistem bukan sekadar pekerjaan buruh ketik, melainkan panggilan keahlian (*craftsmanship*):
 - Bukan hanya dokumen yang selesai (*working software*), melainkan **dokumen yang dirancang dengan keindahan struktur (*well-crafted artifacts*)**.
 - Bukan hanya merespons perubahan, melainkan **menjaga kesinambungan nilai (*steadily adding value*)**.
 - Bukan hanya hubungan transaksional kerja, melainkan **komunitas para ahli yang saling menjaga amanah (*a community of professionals*)**.
@@ -163,7 +165,7 @@ Standar Kedalaman      Dangkal (50–100 baris); penuh    Sangat panjang bertele
 Naskah Berkas          klise dan salin-tempel internet. namun hampa instrumen praktis.   lengkap 13 bagian jurnal riset.
 
 Sikap terhadap Dalil   Ayat dan hadits dijadikan ornamen Filosofis sekuler murni tanpa    Teks Arab berharakat, takhrij
-dan Sains Empiris      tempelan tanpa takhrij shahih.   merujuk pada khazanah turats.    mu'tamad, dipadu sains APA 7th bersih.
+dan Sains Empiris      tempelan tanpa takhrij shahih.   merujuk pada khazanah turats.    mu'tamad, dipadu sains APA 7th bersih[^11].
 
 Pertanggungjawaban     Di depan atasan kantor yayasan;  Di hadapan komunitas seminar     Di hadapan hisab Mahkamah Allah Ta'ala
 Akhir Dokumen          asal bos senang naskah disahkan. dan jurnal akademik eksternal.   dan amanah keadilan bagi santri.
@@ -220,6 +222,8 @@ Tragedi As-Salam adalah cermin abadi bagi seluruh kontributor repositori TUMBUH:
 - Repositori TUMBUH memegang teguh martabat keilmuan; setiap baris teks adalah kesaksian moral.
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Merton dalam *The sociology of science: Theoretical and empirical investigations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strathern dalam *'Improving ratings': Audit in the British University system* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12][^13].
 
 ## 7. Tujuh Sumpah Piagam Komitmen Epistemik V2 (*The 7 Oaths of the V2 Charter*)
 
@@ -393,17 +397,16 @@ $$\Downarrow$$
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Al-Ajurri, M. H. (1987). *Akhlaq al-'Ulama* (F. Ahmad, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^2]: An-Nawawi, Y. S. (1995). *Al-Majmu' Syarah al-Muhadzdzab* (M. N. Al-Muthallibi, Tahqiq; Jilid 1). Dar 'Alam al-Kutub.
-[^3]: Sperber, D., Clément, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). *Epistemic vigilance*. Mind & Language, 25(4), 359–393.
-[^4]: Goodhart, C. A. (1975). *Monetary relationships: A view from Threadneedle Street*. Papers in Monetary Economics, 1(1), 1–32.
-[^5]: Ibnu Katsir, I. U. (1999). *Tafsir al-Qur'an al-'Azhim* (S. H. Salamah, Tahqiq; Jilid 2). Dar Thayyibah.
+[^1]: Goodhart, C. A. (1975). *Monetary relationships: A view from Threadneedle Street*. Papers in Monetary Economics, 1(1), 1–32.
+[^2]: Ibnu Katsir, I. U. (1999). *Tafsir al-Qur'an al-'Azhim* (S. H. Salamah, Tahqiq; Jilid 2). Dar Thayyibah.
+[^3]: Al-Ajurri, M. H. (1987). *Akhlaq al-'Ulama* (F. Ahmad, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^4]: An-Nawawi, Y. S. (1995). *Al-Majmu' Syarah al-Muhadzdzab* (M. N. Al-Muthallibi, Tahqiq; Jilid 1). Dar 'Alam al-Kutub.
+[^5]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
 [^6]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^7]: Martin, R. C. (2009). *The software craftsmanship manifesto*. Craftsmanship Community.
-[^8]: Martin, R. C. (2011). *The clean coder: A code of conduct for professional programmers*. Prentice Hall.
-[^9]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^10]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^11]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^7]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^8]: Sperber, D., Clément, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). *Epistemic vigilance*. Mind & Language, 25(4), 359–393.
+[^9]: Martin, R. C. (2009). *The software craftsmanship manifesto*. Craftsmanship Community.
+[^10]: Martin, R. C. (2011). *The clean coder: A code of conduct for professional programmers*. Prentice Hall.
+[^11]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
 [^12]: Merton, R. K. (1973). *The sociology of science: Theoretical and empirical investigations*. University of Chicago Press.
 [^13]: Strathern, M. (1997). *'Improving ratings': Audit in the British University system*. European Review, 5(3), 305–321.
-

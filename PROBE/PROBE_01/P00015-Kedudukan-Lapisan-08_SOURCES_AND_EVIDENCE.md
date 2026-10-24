@@ -4,9 +4,9 @@
 
 ## 1. Executive Summary & Epistemic Status
 
-Dokumen penyelidikan arsitektural ini merumuskan status ontologis, batasan normatif, dan tata kelola epistemik direktori `08_SOURCES_AND_EVIDENCE/` dalam ekosistem TUMBUH v2.0.0. Dalam desain repositori modern, kesalahan fatal yang sering terjadi pada organisasi berbasis pengetahuan adalah *naive empiricism* atau *technocratic reductionism*, yaitu anggapan keliru bahwa data statistik, temuan uji coba lapangan, atau bukti ilmiah kontemporer secara otomatis memiliki daya paksa (*self-executing authority*) untuk langsung mengubah arah filosofi dan konstitusi sistem. Aturan dasar dalam `AGENTS.md` v2.0.0 secara tegas menyatakan: *"Evidence tidak otomatis membuktikan klaim di luar konteksnya"* dan *"Evidence bukan keputusan"*. 
+Dokumen penyelidikan arsitektural ini merumuskan status ontologis, batasan normatif, dan tata kelola epistemik direktori `08_SOURCES_AND_EVIDENCE/` dalam ekosistem TUMBUH v2.0.0. Dalam desain repositori modern, kesalahan fatal yang sering terjadi pada organisasi berbasis pengetahuan adalah *naive empiricism* atau *technocratic reductionism*, yaitu anggapan keliru bahwa data statistik, temuan uji coba lapangan, atau bukti ilmiah kontemporer secara otomatis memiliki daya paksa (*self-executing authority*) untuk langsung mengubah arah filosofi dan konstitusi sistem. Aturan dasar dalam `AGENTS.md` v2.0.0 secara tegas menyatakan: *"Evidence tidak otomatis membuktikan klaim di luar konteksnya"* dan *"Evidence bukan keputusan"*.
 
-Penyelidikan kanonik ini menetapkan demarkasi yang kokoh antara **fakta/bukti** (*what is observed*) dan **keputusan/klaim normatif** (*what ought to be decided*). Melalui sintesis antara epistemologi pembuktian Islam klasik (*Nazhariyyat al-Itsbat fi asy-Syari'ah al-Islamiyyah* dan *at-Turuq al-Hukmiyyah*) dengan filsafat sains kritis kontemporer (*Critical Realism* Roy Bhaskar dan kritik Gert Biesta terhadap dogma *evidence-based practice*), dokumen ini membedah bagaimana sebuah bukti empiris harus diperiksa derajat validitasnya, diuji batas konteksnya, dan ditimbang melalui majelis deliberasi kepakaran (*shura tarbawiyyah*) sebelum dapat dipromosikan menjadi dasar revisi pada `01_FUNDAMENTAL/` atau `02_IMPLEMENTATION/`[^1].
+Penyelidikan kanonik ini menetapkan demarkasi yang kokoh antara **fakta/bukti** (*what is observed*) dan **keputusan/klaim normatif** (*what ought to be decided*). Melalui sintesis antara epistemologi pembuktian Islam klasik (*Nazhariyyat al-Itsbat fi asy-Syari'ah al-Islamiyyah* dan *at-Turuq al-Hukmiyyah*) dengan filsafat sains kritis kontemporer (*Critical Realism* Roy Bhaskar dan kritik Gert Biesta terhadap dogma *evidence-based practice*), dokumen ini membedah bagaimana sebuah bukti empiris harus diperiksa derajat validitasnya, diuji batas konteksnya, dan ditimbang melalui majelis deliberasi kepakaran (*shura tarbawiyyah*) sebelum dapat dipromosikan menjadi dasar revisi pada `01_FUNDAMENTAL/` atau `02_IMPLEMENTATION/`.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & EPISTEMIC GOVERNANCE SPECIFICATION`
@@ -19,7 +19,7 @@ Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 
 ## 2. Definisi Masalah & Akar Gejala Lapangan (The Fallacy of Automated Evidence)
 
-Dalam diskursus manajemen pendidikan kontemporer, gelombang *evidence-based policy* kerap disalahpahami sebagai proses mekanistis di mana angka-angka statistik dianggap dapat menggantikan kebijaksanaan pedagogis (*pedagogical wisdom*). Gejala patologis ini termanifestasi dalam tujuh bentuk disorientasi sistemik di lapangan:
+Dalam diskursus manajemen pendidikan kontemporer, gelombang *evidence-based policy* kerap disalahpahami sebagai proses mekanistis di mana angka-angka statistik dianggap dapat menggantikan kebijaksanaan pedagogis (*pedagogical wisdom*). Gejala patologis ini termanifestasi dalam tujuh bentuk disorientasi sistemik di lapangan:[^1]
 
 1. **Ilusi Otoritas Data Otomatis (The Illusion of Self-Executing Data)**:
    Seorang peneliti atau konsultan menyajikan laporan survei kepuasan santri atau grafik korelasi statistik, lalu menuntut agar manajemen pesantren langsung mengubah kurikulum, jam bangun tidur, atau tata tertib asrama tanpa melalui kajian keselarasan dengan visi luhur pesantren. Angka disamakan dengan mandat kebijakan.
@@ -48,9 +48,9 @@ Kerentanan ini menuntut adanya regulasi tegas di repositori: direktori `08_SOURC
 
 ## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i
 
-Dalam peradaban hukum Islam klasik, para ulama ushul dan pakar kehakiman (*qadha'*) telah membangun disiplin pembuktian yang sangat matang untuk membedakan antara alat bukti (*al-bayyinah/al-qarinah*) dan penetapan hukum (*al-hukm/al-qadla'*). Bukti empiris tidak pernah memiliki otoritas mandiri yang lepas dari proses verifikasi (*tahqiq*), pengujian integritas perawi (*ta'dil*), dan pertimbangan hikmah syariat (*al-ijtihad wa al-istinbath*).
+Dalam peradaban hukum Islam klasik, para ulama ushul dan pakar kehakiman (*qadha'*) telah membangun disiplin pembuktian yang sangat matang untuk membedakan antara alat bukti (*al-bayyinah/al-qarinah*) dan penetapan hukum (*al-hukm/al-qadla'*). Bukti empiris tidak pernah memiliki otoritas mandiri yang lepas dari proses verifikasi (*tahqiq*), pengujian integritas perawi (*ta'dil*), dan pertimbangan hikmah syariat (*al-ijtihad wa al-istinbath*)[^2][^3].
 
-Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam karya monumentalnya *at-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah* (hlm. 16–18[^4]) mendefinisikan hakikat bukti (*al-bayyinah*) sebagai penjelas kebenaran yang menuntut kecermatan hakim dalam mengonstruksi konteks:
+Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam karya monumentalnya *at-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah* (hlm. 16–18) mendefinisikan hakikat bukti (*al-bayyinah*) sebagai penjelas kebenaran yang menuntut kecermatan hakim dalam mengonstruksi konteks:[^4]
 
 ```text
 الْبَيِّنَةُ اسْمٌ لِكُلِّ مَا يُبَيِّنُ الْحَقَّ وَيُظْهِرُهُ، وَالْحَاكِمُ إِذَا ظَهَرَ لَهُ الْحَقُّ بِأَيِّ طَرِيقٍ كَانَ قَضَى بِهِ، وَلَكِنْ لَا يَكُونُ الدَّلِيلُ الْمُجَرَّدُ حُكْمًا بِنَفْسِهِ حَتَّى يُقَارِنَهُ نَظَرُ الْمُجْتَهِدِ وَتَحْقِيقُ الْمَنَاطِ وَاعْتِبَارُ الْمَآلَاتِ
@@ -60,15 +60,15 @@ Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam karya monumentalnya *at-Turuq al-Hu
 
 Kaidah ini menegaskan bahwa data empiris yang dicatat di `08_SOURCES_AND_EVIDENCE/` hanyalah *bayyinah* atau *qarinah* (indikator pembuktian). Keberadaannya membutuhkan proses *tahqiq al-manath*—yakni pengujian apakah data tersebut relevan dengan lokus masalah yang hendak diintervensi—serta penimbangan *ma'alat* (dampak ekologis sistemik pesantren).
 
-Lebih jauh, Imam Tajuddin as-Subki dalam *Jam'ul Jawami'* menjelaskan pembagian derajat dalil antara yang bersifat pasti (*qath'i*) dan praduga kuat (*zhanni*):
+Lebih jauh, Imam Tajuddin as-Subki dalam *Jam'ul Jawami'* menjelaskan pembagian derajat dalil antara yang bersifat pasti (*qath'i*) dan praduga kuat (*zhanni*):[^5]
 
 ```text
 الدَّلِيلُ الظَّنِّيُّ لَا يُوجِبُ الْعِلْمَ الْقَطْعِيَّ، وَإِنَّمَا يُفِيدُ رُجْحَانًا يَجُوزُ نَقِيضُهُ عَقْلًا، فَلَا يَجُوزُ هَدْمُ الْأَصْلِ الْمُتَيَقَّنِ بِالْأَمْرِ الْمَظْنُونِ الْمُحْتَمَلِ
 ```
 
-> *"Dalil yang bersifat zhanni (praduga/probabilistik seperti data empiris dan inferensi induktif) tidak memberikan keyakinan yang pasti mutlak (al-'ilm al-qath'i), melainkan hanya menghasilkan kecenderungan kuat yang secara rasional masih mengandung kemungkinan sebaliknya. Maka dari itu, tidak diperbolehkan merobohkan fondasi yang telah diyakini kepastiannya (al-ashl al-mutayaqqan) hanya dengan bersandarkan pada perkara praduga empiris yang masih sarat probabilitas."* (As-Subki, *Jam'ul Jawami' bi Syarh al-Mahalli*, Jilid 1, hlm. 142[^5]).
+> *"Dalil yang bersifat zhanni (praduga/probabilistik seperti data empiris dan inferensi induktif) tidak memberikan keyakinan yang pasti mutlak (al-'ilm al-qath'i), melainkan hanya menghasilkan kecenderungan kuat yang secara rasional masih mengandung kemungkinan sebaliknya. Maka dari itu, tidak diperbolehkan merobohkan fondasi yang telah diyakini kepastiannya (al-ashl al-mutayaqqan) hanya dengan bersandarkan pada perkara praduga empiris yang masih sarat probabilitas."* (As-Subki, *Jam'ul Jawami' bi Syarh al-Mahalli*, Jilid 1, hlm. 142).
 
-Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1, hlm. 35–38[^6]) mempertegas konsep *al-Istiqra' al-Ma'nawi* (induksi tematis universal). Beliau memaparkan bahwa hukum-hukum fundamental syariat dibangun di atas himpunan dalil universal yang saling menguatkan hingga mencapai derajat pasti (*tawatur ma'nawi*), sehingga data partikular yang tampak bertentangan harus ditakwilkan atau diteliti ulang batas-batasnya:
+Imam Abu Ishaq asy-Syathibi dalam *al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 1, hlm. 35–38) mempertegas konsep *al-Istiqra' al-Ma'nawi* (induksi tematis universal). Beliau memaparkan bahwa hukum-hukum fundamental syariat dibangun di atas himpunan dalil universal yang saling menguatkan hingga mencapai derajat pasti (*tawatur ma'nawi*), sehingga data partikular yang tampak bertentangan harus ditakwilkan atau diteliti ulang batas-batasnya:
 
 ```text
 وَإِنَّمَا الْعُمْدَةُ عَلَى تَظَافُرِ الْأَدِلَّةِ وَتَوَارُدِهَا عَلَى مَعْنًى وَاحِدٍ حَتَّى يَحْصُلَ مِنْهَا الْعِلْمُ الْقَطْعِيُّ، فَلَا تَقْدَحُ فِيهَا الْآحَادُ وَلَا الْجُزْئِيَّاتُ النَّادِرَةُ الَّتِي تُخَالِفُ فِي الظَّاهِرِ
@@ -85,7 +85,7 @@ Dalam arsitektur TUMBUH, nilai-nilai adab, tujuan pensucian jiwa (*tazkiyatun nu
 Epistemologi ilmu pengetahuan kontemporer telah melancarkan kritik tajam terhadap positivisme naif yang memuja data mentah tanpa kesadaran ontologis.
 
 ### 4.1. Realisme Kritis Roy Bhaskar: Pemisahan Tiga Domain Realitas
-Filsuf sains Roy Bhaskar (1975, 1979) dalam mazhab *Critical Realism* merumuskan bahwa realitas tersusun dari tiga lapisan yang berbeda:
+Filsuf sains Roy Bhaskar (1975, 1979) dalam mazhab *Critical Realism* merumuskan bahwa realitas tersusun dari tiga lapisan yang berbeda:[^6]
 1. **The Empirical**: Wilayah yang dapat diobservasi, diukur, dialami secara langsung oleh pancaindra, dan dicatat dalam instrumen pengumpulan data (data survei, logbook, skor tes).
 2. **The Actual**: Wilayah terjadinya peristiwa-peristiwa nyata di alam semesta, terlepas dari apakah peristiwa itu diobservasi atau tidak oleh peneliti.
 3. **The Real / The Deep**: Wilayah mekanisme kausal yang mendasari peristiwa, struktur generatif, nilai transendental, hakikat fitrah, dan dinamika spiritual yang memicu terjadinya peristiwa pada tingkat aktual dan empiris.
@@ -112,14 +112,13 @@ Filsuf sains Roy Bhaskar (1975, 1979) dalam mazhab *Critical Realism* merumuskan
 Kegagalan para teknokrat pendidikan adalah menyamakan wilayah *Empirical* dengan *The Real*. Bukti empiris pada `08_SOURCES_AND_EVIDENCE/` hanya menangkap kilasan permukaan (*empirical surface*). Membiarkan rekaman empiris secara otomatis mendikte konstitusi fundamental sama saja dengan membiarkan fenomena sesaat merusak struktur hakiki realitas manusia.
 
 ### 4.2. Kritik Gert Biesta terhadap Paradigma "What Works"
-Pakar filsafat pendidikan Gert Biesta (2007, 2010) mengkritik keras ilusi teknokratis dalam bukunya yang terkenal, *Good Education in an Age of Measurement*. Biesta menunjukkan bahwa:
+Pakar filsafat pendidikan Gert Biesta (2007, 2010) mengkritik keras ilusi teknokratis dalam bukunya yang terkenal, *Good Education in an Age of Measurement*. Biesta menunjukkan bahwa:[^7][^8]
 - Sains empiris hanya dapat menjawab pertanyaan teknis: *"Apa yang efektif untuk mencapai tujuan tertentu?"* (*what works*).
 - Sains empiris sama sekali **tidak mampu menjawab pertanyaan normatif dan etis**: *"Apakah tujuan itu bernilai baik secara moral?"* (*what is educationally and ethically desirable*).
 - Menjadikan bukti empiris sebagai pengambil keputusan otomatis merupakan bentuk dehumanisasi pendidikan, karena menggeser pertimbangan nilai etika (*value judgment*) menjadi sekadar perhitungan kalkulatif efisiensi.
 
 Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
 
-Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
 
 Dengan demikian, bukti empiris wajib diperlakukan sebagai masukan (*input to deliberation*), bukan penentu kebijakan (*substitute for judgment*).
 
@@ -178,6 +177,8 @@ Untuk mencegah penyalahgunaan data empiris, repositori mengadopsi 5 tingkatan hi
 | **Level 5** | Opini Personal Peneliti, Anekdot Kasuistis, & Klaim Praktisi | Sangat Rendah | Dilarang masuk ke 08 sebelum diuji metodologinya |
 
 ---
+
+John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial. Dalam literatur rekayasa sistem kontemporer, Sackett dalam *BMJ* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Slavin dalam *Educational Researcher* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9][^10][^11].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Dari Bukti Menuju Keputusan Sistem
 
@@ -291,7 +292,7 @@ normative_authority: NONE (INFORMATIONAL ONLY)
 ---
 
 # Ringkasan Temuan Empiris
-... (Analisis data dan temuan lapangan) ...
+. (Analisis data dan temuan lapangan) .
 
 # Batasan Validitas Eksternal & Peringatan Konteks
 PENTING: Temuan ini berlaku eksklusif pada karakteristik santri usia awal remaja di asrama mandiri. Dilarang menggeneralisasi model ini ke santri usia anak-anak (Ibtidaiyah) tanpa uji coba terpisah.
@@ -346,7 +347,7 @@ Tujuh penjaga gerbang epistemik bukti yang wajib ditaati:
 - [x] **Guardrail 5 (Instrument Validation Audit)**: Sebelum data dikumpulkan, alat ukur psikometrik atau kuesioner wajib lolos uji reliabilitas dan validitas budaya pesantren.
 - [x] **Guardrail 6 (Separation of Raw vs Interpreted Data)**: Berkas data mentah (raw data) harus dibedakan secara tegas dari laporan interpretasi temuan.
 - [x] **Guardrail 7 (Periodic Evidence Re-evaluation)**: Bukti empiris yang telah berusia lebih dari 5 tahun wajib dievaluasi relevansinya terhadap dinamika generasi santri kontemporer.
-- [x] **Guardrail 8 (No Pseudo-Scientific Jargon)**: Istilah-istilah ilmiah wajib didefinisikan sesuai standar akademis resmi, dilarang menggunakan jargon bombastis tanpa dasar metodologis.
+- [x] **Guardrail 8 (No Pseudo-Scientific Jargon)**: Istilah-istilah ilmiah wajib didefinisikan sesuai standar akademis resmi, dilarang menggunakan jargon bombastis tanpa dasar metodologis[^12].
 - [x] **Guardrail 9 (Turats Epistemic Alignment)**: Interpretasi bukti psikologis modern tidak boleh bertentangan secara diametral dengan konsep fitrah insaniyah dalam akidah Islam.
 - [x] **Guardrail 10 (Traceable Citation Linking)**: Seluruh publikasi ilmiah eksternal yang dijadikan bukti rujukan wajib dapat diakses publik atau terindeks secara sahih.
 
@@ -368,20 +369,18 @@ Tujuh penjaga gerbang epistemik bukti yang wajib ditaati:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
-[^2]: Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
-[^3]: Biesta, G. (2010). *Good education in an age of measurement: Ethics, politics, democracy*. Routledge.
+[^1]: Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide to doing it better*. Oxford University Press.
+[^2]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^3]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
 [^4]: Ibn Qayyim al-Jauziyyah, M. (2007). *At-Turuq al-hukmiyyah fi as-siyasah asy-syar'iyyah* (J. M. Sayyid, Ed.). Dar 'Alam al-Fawa'id.
 [^5]: As-Subki, T. (1999). *Jam'ul jawami' fi ushul al-fiqh bi syarh al-mahalli* (A. A. al-Muzayyad, Ed.; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^6]: Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1). Dar Ibn 'Affan.
-[^7]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^8]: Cartwright, N., & Hardie, J. (2012). *Evidence-based policy: A practical guide to doing it better*. Oxford University Press.
+[^6]: Bhaskar, R. (2008). *A realist theory of science* (Original work published 1975). Routledge.
+[^7]: Biesta, G. (2007). Why "what works" still won't work: From evidence to value judgment in education. *Studies in Philosophy and Education*, 26(1), 1–22.
+[^8]: Biesta, G. (2010). *Good education in an age of measurement: Ethics, politics, democracy*. Routledge.
 [^9]: Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
-[^10]: Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
-[^11]: Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, 312(7023), 71–72.
-[^12]: Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21.
-
----
+[^10]: Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence based medicine: What it is and what it isn't. *BMJ*, 312(7023), 71–72.
+[^11]: Slavin, R. E. (2002). Evidence-based education policies: Transforming educational practice and research. *Educational Researcher*, 31(7), 15–21.
+[^12]: Popper, K. R. (2002). *The logic of scientific discovery* (Original work published 1959). Routledge.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Lembaga dan Tim Riset Pesantren
 

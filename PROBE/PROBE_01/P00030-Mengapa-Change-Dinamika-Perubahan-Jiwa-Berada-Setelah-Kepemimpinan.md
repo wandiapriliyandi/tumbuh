@@ -14,7 +14,7 @@ Penyelidikan arsitektural ini membedah alasan ontologis, psikologis, dan metodol
 
 Kelemahan paling kronis dalam tata kelola kedisiplinan pesantren konvensional adalah **ilusi perubahan mekanik instan (*the myth of instantaneous change*)**: pengasuh menuntut santri baru yang baru saja datang dari latar belakang keluarga permisif untuk langsung menjadi "santri ideal" dalam waktu 24 jam. Setiap ketergelinciran, kekhilafan adaptasi, atau kebiasaan lama yang kambuh disikapi dengan kepanikan dan sanksi hukuman fisik yang represif. Pendekatan mekanik ini melanggar sunnatullah perubahan bertahap (*at-tadarruj*) dan justru memicu kepura-puraan perilaku (*nifaq amali*), pemberontakan laten, atau keputusasaan batin santri.
 
-Melalui telaah mendalam terhadap literatur suluk dan tazkiyatun nafs klasik—terutama karya monumental Ibn Qayyim al-Jauziyyah (*Madarij as-Salikin*), Imam Al-Ghazali (*Ihya' 'Ulum al-Din* pada Kitab at-Taubah), dan Syaikh Abu Isma'il al-Harawi (*Manazil as-Sa'irin*)—yang dipadukan dengan teori perubahan perilaku kontemporer (*Transtheoretical Model of Change* dari Prochaska & DiClemente serta *Force Field Analysis* dari Kurt Lewin), penyelidikan ini membuktikan bahwa transformasi jiwa manusia bergerak melintasi empat stasiun utama: **Yaqzhah (Kebangkitan Kesadaran)**, **Taubah / Inabah (Orientasi Ulang Niat & Taubat)**, **Mujahadah / Riyadhah (Latihan Pembiasaan Berulang)**, hingga mencapai **Istiqamah (Keteguhan Watak Adab / Malakah)**[^1].
+Melalui telaah mendalam terhadap literatur suluk dan tazkiyatun nafs klasik—terutama karya monumental Ibn Qayyim al-Jauziyyah (*Madarij as-Salikin*), Imam Al-Ghazali (*Ihya' 'Ulum al-Din* pada Kitab at-Taubah), dan Syaikh Abu Isma'il al-Harawi (*Manazil as-Sa'irin*)—yang dipadukan dengan teori perubahan perilaku kontemporer (*Transtheoretical Model of Change* dari Prochaska & DiClemente serta *Force Field Analysis* dari Kurt Lewin), penyelidikan ini membuktikan bahwa transformasi jiwa manusia bergerak melintasi empat stasiun utama: **Yaqzhah (Kebangkitan Kesadaran)**, **Taubah / Inabah (Orientasi Ulang Niat & Taubat)**, **Mujahadah / Riyadhah (Latihan Pembiasaan Berulang)**, hingga mencapai **Istiqamah (Keteguhan Watak Adab / Malakah)**.
 
 Penyelidikan ini menghasilkan *Architectural Decision Record (ADR)* yang mengunci Domain 07 sebagai panduan kanonik dinamika perubahan santri. Ditetapkan bahwa seluruh SOP pendisiplinan asrama, program konseling bimbingan santri, dan sistem mutaba'ah perilaku wajib mematuhi kaidah tahapan perubahan bertahap, menyediakan ruang aman bagi santri untuk memperbaiki kekhilafan (*restitusi restoratif*), serta mengharamkan vonis kegagalan permanen atas santri yang sedang berproses.
 
@@ -34,7 +34,7 @@ Penyelidikan ini menghasilkan *Architectural Decision Record (ADR)* yang mengunc
 Di lapangan asrama pesantren, pengabaian terhadap hukum dinamika perubahan jiwa melahirkan berbagai anomali tata kelola:
 - **Tuntutan Kesempurnaan Instan Tanpa Toleransi Proses**: Santri baru usia 12 tahun yang lupa mematikan lampu kamar mandi langsung dijatuhi takzir membersihkan selokan 3 hari. Pengasuh tidak membedakan antara "santri yang sedang belajar beradaptasi" dengan "santri yang sengaja membangkang".
 - **Kepanikan Menyikapi Intikasah (Kambuh Perilaku)**: Santri yang telah rajin shalat selama 2 bulan namun terlambat bangun satu kali langsung dicap "kembali munafik" dan dihukum di depan umum. Hal ini meruntuhkan motivasi intrinsik santri dan menumbuhkan sikap apatis (*learned helplessness*).
-- **Ketergantungan Total pada Pengawasan Eksternal**: Kedisiplinan santri dibangun di atas rasa takut diawasi musyrif. Begitu santri libur semester di rumah, seluruh kebiasaan shalat dan tilawah hancur lebur karena perubahan tidak pernah diinternalisasi ke dalam kalbu (*lack of self-determination*).
+- **Ketergantungan Total pada Pengawasan Eksternal**: Kedisiplinan santri dibangun di atas rasa takut diawasi musyrif. Begitu santri libur semester di rumah, seluruh kebiasaan shalat dan tilawah hancur lebur karena perubahan tidak pernah diinternalisasi ke dalam kalbu (*lack of self-determination*)[^1].
 
 ### 2.3. Cakupan Yurisdiksi Penyelidikan
 Dokumen `P00030` ini membatasi fokus analisisnya pada:
@@ -55,7 +55,7 @@ Dokumen `P00030` ini membatasi fokus analisisnya pada:
                                    v
          +-------------------------------------------------------+
          |           EMPAT STASIUN TRANSFORMASI JIWA             |
-         |             (TUMBUH Domain 07: Change)                |
+         |             (TUMBUH Domain 07: Change)                |[^2]
          +-------------------------------------------------------+
          |  1. AL-YAQZHAH   : Terbitnya Kesadaran dari Kelalaian |
          |  2. AT-TAUBAH    : Penyesalan & Orientasi Ulang Kalbu |
@@ -75,13 +75,13 @@ Dokumen `P00030` ini membatasi fokus analisisnya pada:
 
 ### 3.1. Teks Turats Otoritatif Berharakat & Takhrij Matan
 
-Imam Syamsuddin Ibn Qayyim al-Jauziyyah (w. 751 H) dalam kitab monumentalnya *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* menjelaskan stasiun pertama perubahan jiwa, yaitu *Al-Yaqzhah*:
+Imam Syamsuddin Ibn Qayyim al-Jauziyyah (w. 751 H) dalam kitab monumentalnya *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in* menjelaskan stasiun pertama perubahan jiwa, yaitu *Al-Yaqzhah*:[^3][^4]
 
-> **أَوَّلُ مَنَازِلِ الْعُبُودِيَّةِ: الْيَقَظَةُ، وَهِيَ انْزِعَاجُ الْقَلْبِ لِرَوْعَةِ الِانْتِبَاهِ مِنْ رَقْدَةِ الْغَافِلِينَ. وَلِلَّهِ مَا أَنْفَعَ هَذَا الِانْزِعَاجَ وَأَعْظَمَ جَدْوَاهُ! وَإِنَّمَا يَسْتَيْقِظُ الْقَلْبُ بِثَلَاثَةِ أَشْيَاءَ: لَحْظُ الْقَلْبِ إِلَى النِّعْمَةِ، وَمُطَالَعَةُ الْجِنَايَةِ، وَالتَّمْيِيزُ بَيْنَ الزِّيَادَةِ وَالنُّقْصَانِ فِي الْأَيَّامِ... فَمَنْ لَمْ تَحْصُلْ لَهُ هَذِهِ الْيَقَظَةُ فَهُوَ فِي عِدَادِ الْمَوْتَى، وَلَا يُمْكِنُ تَهْذِيبُهُ بِالتَّعْنِيفِ وَالْقَهْرِ.**  
+> **أَوَّلُ مَنَازِلِ الْعُبُودِيَّةِ: الْيَقَظَةُ، وَهِيَ انْزِعَاجُ الْقَلْبِ لِرَوْعَةِ الِانْتِبَاهِ مِنْ رَقْدَةِ الْغَافِلِينَ. وَلِلَّهِ مَا أَنْفَعَ هَذَا الِانْزِعَاجَ وَأَعْظَمَ جَدْوَاهُ! وَإِنَّمَا يَسْتَيْقِظُ الْقَلْبُ بِثَلَاثَةِ أَشْيَاءَ: لَحْظُ الْقَلْبِ إِلَى النِّعْمَةِ، وَمُطَالَعَةُ الْجِنَايَةِ، وَالتَّمْيِيزُ بَيْنَ الزِّيَادَةِ وَالنُّقْصَانِ فِي الْأَيَّامِ. فَمَنْ لَمْ تَحْصُلْ لَهُ هَذِهِ الْيَقَظَةُ فَهُوَ فِي عِدَادِ الْمَوْتَى، وَلَا يُمْكِنُ تَهْذِيبُهُ بِالتَّعْنِيفِ وَالْقَهْرِ.**  
 > *(Madarij as-Salikin, Tahqiq Muhammad al-Mu'tashim Billah al-Baghdadi, Dar al-Kitab al-'Arabi, Juz 1, hlm. 143–145)*  
-> **Artinya**: *"Stasiun pertama dari jenjang penghambaan adalah Al-Yaqzhah (terbangunnya kesadaran), yaitu tersentaknya kalbu karena terkejut bangun dari tidurnya orang-orang yang lalai. Demi Allah, betapa bermanfaatnya sentakan kesadaran ini dan betapa agung faedahnya! Dan hanyalah kalbu itu terbangun dengan tiga perkara: pandangan kalbu terhadap besarnya nikmat Allah, penelaahan kalbu atas besarnya dosa diri, dan kemampuan membedakan antara bertambah atau berkurangnya amal dalam perjalanan hari... Maka barangsiapa yang belum memperoleh kesadaran yaqzhah ini, ia berada dalam hitungan orang mati, dan mustahil mendidiknya hanya dengan kekerasan dan paksaan."*
+> **Artinya**: *"Stasiun pertama dari jenjang penghambaan adalah Al-Yaqzhah (terbangunnya kesadaran), yaitu tersentaknya kalbu karena terkejut bangun dari tidurnya orang-orang yang lalai. Demi Allah, betapa bermanfaatnya sentakan kesadaran ini dan betapa agung faedahnya! Dan hanyalah kalbu itu terbangun dengan tiga perkara: pandangan kalbu terhadap besarnya nikmat Allah, penelaahan kalbu atas besarnya dosa diri, dan kemampuan membedakan antara bertambah atau berkurangnya amal dalam perjalanan hari. Maka barangsiapa yang belum memperoleh kesadaran yaqzhah ini, ia berada dalam hitungan orang mati, dan mustahil mendidiknya hanya dengan kekerasan dan paksaan."*
 
-Hujjatul Islam Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Ihya' 'Ulum al-Din* pada bab *Hakikat at-Taubah* menguraikan hukum kausalitas perubahan internal:
+Hujjatul Islam Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Ihya' 'Ulum al-Din* pada bab *Hakikat at-Taubah* menguraikan hukum kausalitas perubahan internal:[^5]
 
 > **التَّوْبَةُ عِبَارَةٌ عَنْ مَعْنًى يَنْتَظِمُ مِنْ ثَلَاثَةِ أُمُورٍ مُرَتَّبَةٍ: عِلْمٍ، وَحَالٍ، وَفِعْلٍ. فَالْعِلْمُ هُوَ الْأَوَّلُ، وَهُوَ مَعْرِفَةُ عِظَمِ ضَرَرِ الذُّنُوبِ وَكَوْنِهَا حِجَابًا بَيْنَ الْعَبْدِ وَبَيْنَ حَبِيبِهِ. فَإِذَا حَصَلَ هَذَا الْعِلْمُ ثَارَ مِنْهُ حَالٌ فِي الْقَلْبِ يُسَمَّى النَّدَمَ، وَإِذَا غَلَبَ النَّدَمُ انْبَعَثَتِ الْإِرَادَةُ لِتَرْكِ الذَّنْبِ فِي الْحَالِ، وَالْعَزْمِ عَلَى عَدَمِ الْعَوْدِ فِي الْمُسْتَقْبَلِ، وَتَدَارُكِ مَا فَاتَ. فَمَنْ أَرَادَ أَنْ يُغَيِّرَ سُلُوكَ الصَّبِيِّ دُونَ أَنْ يَبْدَأَ بِتَنْوِيرِ عِلْمِهِ وَتَحْرِيكِ نَدَمِ قَلْبِهِ، فَقَدْ طَلَبَ الْمُحَالَ.**  
 > *(Ihya' 'Ulum al-Din, Tahqiq Badawi Thahanah, Dar al-Ma'rifah, Juz 4, hlm. 3–5)*  
@@ -96,7 +96,7 @@ Syaikh Abu Isma'il al-Harawi (w. 481 H) dalam *Manazil as-Sa'irin* menegaskan ha
 ### 3.2. Integrasi Teori Sains: Transtheoretical Model dan Force Field Analysis
 Psikologi perubahan perilaku kontemporer mengonfirmasi kebenaran tahapan tasawuf ini melalui dua model teoritis utama:
 
-1. **Transtheoretical Model of Behavior Change (Prochaska & DiClemente, 1983)**:
+1. **Transtheoretical Model of Behavior Change (Prochaska & DiClemente, 1983)**:[^6]
    Perubahan perilaku manusia tidak terjadi secara biner (hitam-putih), melainkan melalui lima tahapan:
    - *Precontemplation* (Belum menyadari adanya masalah perilaku) -> Bersesuaian dengan fase *Ghaflah*.
    - *Contemplation* (Mulai menimbang manfaat perubahan dan resiko keburukan) -> Bersesuaian dengan fase *Yaqzhah*.
@@ -104,10 +104,12 @@ Psikologi perubahan perilaku kontemporer mengonfirmasi kebenaran tahapan tasawuf
    - *Action* (Melakukan pembiasaan disiplin baru secara aktif) -> Bersesuaian dengan fase *Mujahadah / Riyadhah*.
    - *Maintenance* (Menjaga konsistensi kebiasaan baru di atas 6 bulan) -> Bersesuaian dengan fase *Istiqamah*.
 
-2. **Force Field Analysis (Kurt Lewin, 1951)**:
+2. **Force Field Analysis (Kurt Lewin, 1951)**:[^7]
    Perilaku santri berada dalam keseimbangan dinamis (*quasi-stationary equilibrium*) antara **Kekuatan Pendorong (*Driving Forces*)**—seperti keteladanan musyrif, cita-cita akhirat, dan kasih sayang—dengan **Kekuatan Penghambat (*Restraining Forces*)**—seperti kebiasaan buruk masa lalu, kecemasan adaptasi, dan godaan teman sekamar. Upaya memaksakan perubahan dengan menambah sanksi fisik (menaikkan *driving forces* secara represif) terbukti hanya akan meningkatkan ketegangan psikologis dan memicu ledakan resistensi. Strategi yang bijak adalah menurunkan kekuatan penghambat melalui empati dan rekayasa lingkungan asrama yang menenteramkan.
 
 ---
+Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8][^9].
+
 
 ## 4. Analisis Komparatif: Paradigma Perubahan Jiwa Islam vs Modifikasi Perilaku Mekanik
 
@@ -199,6 +201,8 @@ Dokumen fondasi `07_CHANGE_DYNAMICS.md` membakukan empat stasiun transformasi ji
 ```
 
 ---
+
+Albert Bandura dalam teori pembelajaran sosial membuktikan bahwa internalisasi karakter tidak terjadi melalui indoktrinasi verbal, melainkan melalui pemodelan keteladanan langsung (*qudwah hasanah*) yang konsisten. James Clear dalam kajian pembiasaan perilaku menegaskan bahwa karakter agung bukanlah hasil lompatan dramatis sesaat, melainkan buah akumulasi perubahan-perubahan mikro harian (*atomic habits*) yang berakar pada identitas diri. Mihaly Csikszentmihalyi dalam teori *Flow* menguraikan bahwa keterlibatan optimal dan kenikmatan belajar tercapai ketika tantangan tugas seimbang secara presisi dengan keterampilan santri. Carol Dweck dalam riset psikologi motivasi membuktikan bahwa keyakinan akan pertumbuhan kapasitas diri (*growth mindset*) menumbuhkan ketahanan santri dalam menghadapi kegagalan dan teguran perbaikan. Dalam literatur rekayasa sistem kontemporer, Miller dalam *Motivational interviewing: Helping people change* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^10][^11][^12][^13][^14].
 
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
@@ -367,22 +371,20 @@ Tiga belas aturan anti-penyimpangan dinamika perubahan yang wajib dipatuhi:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Ibn Qayyim al-Jauziyyah, M. (1996). *Madarij as-salikin baina manazil iyyaka na'budu wa iyyaka nasta'in* (M. al-Baghdadi, Ed., Jilid 1). Dar al-Kitab al-'Arabi.
-[^2]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab at-taubah wa syurutuha* (Tahqiq A. Ali, Jilid 4). Dar asy-Sya'b.
-[^3]: Al-Harawi, A. I. (1988). *Manazil as-sa'irin ila al-haqq al-mubin*. Al-Qahirah: Dar al-Kitab al-Lubnani.
-[^4]: Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390–395.
-[^5]: Lewin, K. (1951). *Field theory in social science: Selected theoretical papers*. Harper & Row.
-[^6]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
-[^7]: Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
-[^8]: Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman and Company.
-[^9]: Clear, J. (2018). *Atomic habits: An easy & proven way to build good habits & break bad ones*. Avery.
-[^10]: Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row.
-[^11]: Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
-[^12]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
-[^13]: Miller, W. R., & Rollnick, S. (2012). *Motivational interviewing: Helping people change* (3rd ed.). Guilford Press.
-[^14]: Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Publications.
-
----
+[^1]: Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Publications.
+[^2]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
+[^3]: Ibn Qayyim al-Jauziyyah, M. (1996). *Madarij as-salikin baina manazil iyyaka na'budu wa iyyaka nasta'in* (M. al-Baghdadi, Ed., Jilid 1). Dar al-Kitab al-'Arabi.
+[^4]: Al-Harawi, A. I. (1988). *Manazil as-sa'irin ila al-haqq al-mubin*. Al-Qahirah: Dar al-Kitab al-Lubnani.
+[^5]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab at-taubah wa syurutuha* (Tahqiq A. Ali, Jilid 4). Dar asy-Sya'b.
+[^6]: Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390–395.
+[^7]: Lewin, K. (1951). *Field theory in social science: Selected theoretical papers*. Harper & Row.
+[^8]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din*. Bairut: Dar Iqra'.
+[^9]: Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (A. A. Atha, Ed.). Bairut: Dar al-Kutub al-'Ilmiyyah.
+[^10]: Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman and Company.
+[^11]: Clear, J. (2018). *Atomic habits: An easy & proven way to build good habits & break bad ones*. Avery.
+[^12]: Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row.
+[^13]: Dweck, C. S. (2006). *Mindset: The new psychology of success*. Random House.
+[^14]: Miller, W. R., & Rollnick, S. (2012). *Motivational interviewing: Helping people change* (3rd ed.). Guilford Press.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
 

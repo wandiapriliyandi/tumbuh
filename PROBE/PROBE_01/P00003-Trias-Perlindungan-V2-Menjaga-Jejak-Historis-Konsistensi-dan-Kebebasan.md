@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini merumuskan kerangka pertahanan arsitektural repositori TUMBUH v2.0.0 melalui formulasi **Trias Perlindungan V2 (*The V2 Protection Triad*)**: perlindungan jejak historis (*historical lineage preservation*), perlindungan konsistensi pengembangan (*developmental consistency preservation*), dan perlindungan kebebasan rekayasa sistem (*system engineering freedom*). Dalam tata kelola kelembagaan pesantren, pembaruan kurikulum dan tata tertib sering kali terjerembap ke dalam dua kutub destruktif: amnesia sejarah intelektual (*intellectual historic amnesia*) di mana warisan nalar pendahulu dibuang semena-mena demi modernisasi semu, atau paralisis birokratis (*bureaucratic stagnation paralysis*) di mana sistem disandera oleh format lama yang sudah tidak relevan atas nama tabarruk membabi buta. Melalui sintesis kaidah ushul fiqih *al-muhafazhah 'alal qadim ash-shalih wal akhdzu bil jadid al-ashlah*, teori evolusi hukum Islam Imam Asy-Syathibi (*Al-Muwafaqat*), sosiologi transmisi pengetahuan Ibnu Khaldun (*Muqaddimah*), serta teori evolusi perangkat lunak Lehman (*Lehman's Laws of Software Evolution*) dan manajemen memori organisasi (*Organizational Memory Theory*), monograf ini membuktikan bahwa branch `v2[^1].0.0` dirancang dengan arsitektur trias yang menjamin ketiga dimensi tersebut saling mengunci dan saling menopang. Resolusi ini dituangkan ke dalam protokol perlindungan multi-lapis dan *Architectural Decision Record* (ADR) kanonik yang menjaga kemurnian sanad repositori tanpa mematikan daya kreasi ijtihad arsitektural.
+Penyelidikan ini merumuskan kerangka pertahanan arsitektural repositori TUMBUH v2.0.0 melalui formulasi **Trias Perlindungan V2 (*The V2 Protection Triad*)**: perlindungan jejak historis (*historical lineage preservation*), perlindungan konsistensi pengembangan (*developmental consistency preservation*), dan perlindungan kebebasan rekayasa sistem (*system engineering freedom*). Dalam tata kelola kelembagaan pesantren, pembaruan kurikulum dan tata tertib sering kali terjerembap ke dalam dua kutub destruktif: amnesia sejarah intelektual (*intellectual historic amnesia*) di mana warisan nalar pendahulu dibuang semena-mena demi modernisasi semu, atau paralisis birokratis (*bureaucratic stagnation paralysis*) di mana sistem disandera oleh format lama yang sudah tidak relevan atas nama tabarruk membabi buta. Melalui sintesis kaidah ushul fiqih *al-muhafazhah 'alal qadim ash-shalih wal akhdzu bil jadid al-ashlah*, teori evolusi hukum Islam Imam Asy-Syathibi (*Al-Muwafaqat*), sosiologi transmisi pengetahuan Ibnu Khaldun (*Muqaddimah*), serta teori evolusi perangkat lunak Lehman (*Lehman's Laws of Software Evolution*) dan manajemen memori organisasi (*Organizational Memory Theory*), monograf ini membuktikan bahwa branch `v2.0.0` dirancang dengan arsitektur trias yang menjamin ketiga dimensi tersebut saling mengunci dan saling menopang. Resolusi ini dituangkan ke dalam protokol perlindungan multi-lapis dan *Architectural Decision Record* (ADR) kanonik yang menjaga kemurnian sanad repositori tanpa mematikan daya kreasi ijtihad arsitektural.
 
 **Kata Kunci:** *Trias Perlindungan V2, Amnesia Sejarah, Konsistensi Repositori, Kebebasan Rekayasa, Hifzh at-Turats, Hukum Lehman, Organizational Memory, TUMBUH v2.0.0.*
 
@@ -46,7 +46,7 @@ TRILEMA DESTRUKTIF TATA KELOLA TRADISIONAL DI PESANTREN
                      └──────────────────────────┘
 ```
 
-1. **Amnesia Sejarah Intelektual (*Intellectual Historic Amnesia*)**: Tim perumus baru datang dengan semangat perombakan total, mencampakkan seluruh berkas, notula, dan fatwa masa lalu. Akibatnya, lembaga kehilangan memori kelembagaan (*institutional memory*), mengulangi kesalahan fatal yang pernah terjadi sepuluh tahun silam, dan merobek ikatan takzim terhadap guru perintis. Dalam psikologi organisasi, hilangnya rantai sejarah ini menciptakan sindrom *rootlessness* di kalangan musyrif muda yang merasa kehilangan pegangan moral.
+1. **Amnesia Sejarah Intelektual (*Intellectual Historic Amnesia*)**: Tim perumus baru datang dengan semangat perombakan total, mencampakkan seluruh berkas, notula, dan fatwa masa lalu. Akibatnya, lembaga kehilangan memori kelembagaan (*institutional memory*), mengulangi kesalahan fatal yang pernah terjadi sepuluh tahun silam, dan merobek ikatan takzim terhadap guru perintis. Dalam psikologi organisasi, hilangnya rantai sejarah ini menciptakan sindrom *rootlessness* di kalangan musyrif muda yang merasa kehilangan pegangan moral[^1].
 2. **Paralisis Birokrasi & Kultus Bentuk (*Bureaucratic Stagnation & Format Cult*)**: Lembaga menolak setiap upaya penataan folder dan perbaikan istilah, beralasan bahwa "apa yang diwariskan dari guru sepuh tidak boleh disentuh satu titik pun". Sikap ini menyamakan antara substansi tauhid/syariat yang abadi dengan instrumen administratif yang nisbi, sehingga lembaga menjadi rapuh dan lumpuh di tengah tuntutan zaman. Upaya perbaikan tata ruang asrama atau de-eskalasi konflik santri terhambat oleh keharusan meminta stempel izin berlapis yang memakan waktu berbulan-bulan.
 3. **Anarki Pengembangan (*Developmental Chaos*)**: Tanpa regulasi arsitektural yang jelas, pengurus mengembangkan sub-sistem secara sporadis. Format berkas bertabrakan, definisi adab berbeda di setiap jenjang, dan repositori berubah menjadi tumpukan dokumen liar yang tidak koheren. Kondisi ini melahirkan ketidakadilan distributif di mana santri di kamar A diperlakukan dengan standar disiplin yang bertolak belakang dengan santri di kamar B.
 
@@ -103,20 +103,20 @@ Kaidah ini bukan sekadar slogan retoris, melainkan hukum arsitektur:
 - *Al-Jadid al-Ashlah* memberikan mandat kebebasan rekayasa sistem untuk mengadopsi format markdown, kontrol versi Git, taksonomi modern, dan metrik PBIS yang belum ada di masa lalu.
 
 ### 3.2. Doktrin Maqashid Syari'ah Imam Asy-Syathibi: Tsabat al-Maqashid wa Taghayyur al-Wasa'il
-Imam Abu Ishaq Ibrahim bin Musa Asy-Syathibi dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 2, hlm. 51–64) meletakkan distingsi tajam antara *maqashid* (tujuan syariat) dan *wasa'il* (sarana operasional):
+Imam Abu Ishaq Ibrahim bin Musa Asy-Syathibi dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 2, hlm. 51–64) meletakkan distingsi tajam antara *maqashid* (tujuan syariat) dan *wasa'il* (sarana operasional):[^2]
 1. **Tsabat al-Maqashid (Keteguhan Tujuan)**: Tujuan tarbiyah Islamiyah (menjaga fitrah, membentuk syakhshiyyah islamiyyah, menumbuhkan adab) bersifat tetap, mutlak, dan tidak boleh diubah oleh generasi mana pun.
 2. **Taghayyur al-Wasa'il (Dinamika Sarana)**: Format dokumen, struktur direktori, formulir evaluasi, dan instrumen kepengasuhan adalah wasa'il yang harus terus berevolusi mengikuti kebutuhan zaman dan realitas sosiologis objek binaan.
 
 Asy-Syathibi menegaskan bahwa memperlakukan sarana administratif seolah-olah tujuan syariat yang sakral adalah bentuk kerancuan berpikir (*al-jahl bil-maqashid*) yang melahirkan kebekuan peradaban.
 
 ### 3.3. Teori Transmisi Keilmuan Ibnu Khaldun (*Hifzh al-Malakah*)
-Dalam *Al-Muqaddimah* (hlm. 429–435 pada bab *Fi anna al-Qur'an ashlu at-ta'lim*), Ibnu Khaldun menganalisis bagaimana keilmuan ditransmisikan lintas generasi:
+Dalam *Al-Muqaddimah* (hlm. 429–435 pada bab *Fi anna al-Qur'an ashlu at-ta'lim*), Ibnu Khaldun menganalisis bagaimana keilmuan ditransmisikan lintas generasi:[^3]
 - Bila suatu komunitas melupakan sejarah metode para pendahulunya, kemahiran (*malakah*) keilmuan mereka akan mengalami degradasi hebat (*fasad al-malakah*).
 - Namun jika mereka hanya meniru (*taqlid*) tanpa memahami 'illat (sebab hukum) dan konteks sejarahnya, mereka tidak akan mampu menjawab fenomena baru.
 - Penjagaan memori historis yang dipadukan dengan kebebasan analisis nalar adalah syarat mutlak keberlangsungan sebuah peradaban ilmiah.
 
 ### 3.4. Kaidah Tasharruf Imam Al-Qarafi: Taghayyur al-Ahkam bi Taghayyur al-Azminah
-Imam Al-Qarafi dalam *Al-Ihkam* (hlm. 110[^6]) menegaskan:
+Imam Al-Qarafi dalam *Al-Ihkam* (hlm. 110) menegaskan:[^4]
 > الْجُمُودُ عَلَى الْمَنْقُولَاتِ أَبَدًا ضَلَالٌ فِي الدِّينِ وَجَهْلٌ بِمَقَاصِدِ عُلَمَاءِ الْمُسْلِمِينَ وَالسَّلَفِ الْمَاضِينَ
 > 
 > *"Bersikap beku (jumud) di atas teks-teks kutipan semata secara abadi adalah kesesatan dalam agama dan kebodohan terhadap maksud para ulama Muslim dan generasi salaf terdahulu."*
@@ -124,10 +124,12 @@ Imam Al-Qarafi dalam *Al-Ihkam* (hlm. 110[^6]) menegaskan:
 Kutipan ini menjadi fondasi teologis bagi pilar ketiga Trias Perlindungan V2: kebebasan rekayasa sistem tidak boleh diharamkan selama berpijak pada pemahaman maqashid yang lurus.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Khatib al-Baghdadi dalam *al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* menegaskan standarisasi adab dan integritas moral transmisi keilmuan sebagai pilar utama pelestarian tradisi pendidikan Islam. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Jalaluddin as-Suyuthi dalam *al-Asybah wan-Nazha'ir* merumuskan kaidah-kaidah asasi fikih yang mengunci stabilitas hukum dasar di tengah fleksibilitas furu'iyyah[^5][^6][^7][^8][^9].
+
 
 ## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Tata Kelola Pengetahuan, & Version Control
 
-Dalam literatur rekayasa perangkat lunak (*software engineering*) dan manajemen pengetahuan organisasi (*knowledge management*), tantangan mengelola evolusi sistem skala besar telah melahirkan prinsip-prinsip sains modern yang kokoh.
+Dalam literatur rekayasa perangkat lunak (*software engineering*) dan manajemen pengetahuan organisasi (*knowledge management*), tantangan mengelola evolusi sistem skala besar telah melahirkan prinsip-prinsip sains modern yang kokoh[^10][^11].
 
 ```text
 DIAGRAM: TIGA PILAR PERLINDUNGAN V2 DALAM PERSPEKTIF TEORI SISTEM
@@ -137,8 +139,8 @@ DIAGRAM: TIGA PILAR PERLINDUNGAN V2 DALAM PERSPEKTIF TEORI SISTEM
      ┌───────────────────────────┼───────────────────────────┐
      ▼                           ▼                           ▼
 [PILAR 1: SEJARAH]          [PILAR 2: KONSISTENSI]      [PILAR 3: KEBEBASAN]
-Organizational Memory       Lehman's 2nd Law            Clean Architecture
-(Walsh & Ungson, 1991)      (Complexity Control)        (Robert C[^7]. Martin, 2017)
+Organizational Memory       Lehman's 2nd Law            Clean Architecture[^12][^13]
+(Walsh & Ungson, 1991)      (Complexity Control)        (Robert C. Martin, 2017)
 Jejak Sanad v1 Terpelihara  Audit Otomatis Lintas-Lapisan Hak Rekayasa Tanpa Hambatan
 di folder 99_ARCHIVE/.      via Standard Linting/CI.    di dalam Branch v2.0.0.
 ```
@@ -157,13 +159,13 @@ James P. Walsh dan Gerardo Rivera Ungson (1991) dalam karya kanoniknya *Organiza
 - Trias Perlindungan V2 mewajibkan setiap artefak lama dipindahkan ke `99_ARCHIVE/` dengan riwayat Git yang utuh, sehingga repositori bertindak sebagai memori eksternal yang permanen bagi pesantren.
 
 ### 4.3. Teori Penciptaan Pengetahuan SECI (*Nonaka & Takeuchi Model*)
-Ikujiro Nonaka dan Hirotaka Takeuchi (1995) dalam *The Knowledge-Creating Company* memodelkan spiral penciptaan pengetahuan melalui empat modus: *Socialization, Externalization, Combination,* dan *Internalization* (SECI)[^9].
+Ikujiro Nonaka dan Hirotaka Takeuchi (1995) dalam *The Knowledge-Creating Company* memodelkan spiral penciptaan pengetahuan melalui empat modus: *Socialization, Externalization, Combination,* dan *Internalization* (SECI).
 - Dokumen V1 merupakan fase *Externalization* awal dari pengalaman musyrif di lapangan.
 - Rekonstruksi V2 adalah fase *Combination*: menghubungkan potongan-potongan draf lama ke dalam kerangka konsep yang lebih tinggi dan sistematis.
 - Agar proses kombinasi ini berhasil, para perancang membutuhkan **kebebasan rekayasa konseptual** tanpa dibebani keharusan mempertahankan tata letak folder yang cacat.
 
 ### 4.4. Prinsip Arsitektur Bersih (*Clean Architecture & Separation of Concerns*)
-Robert C. Martin (2017) menekankan bahwa sistem yang sehat harus memisahkan kebijakan tingkat tinggi (*high-level policy*) dari mekanisme detail teknis (*low-level details*)[^8]. Menjaga konsistensi berarti memastikan ketergantungan mengalir satu arah: dokumen operasional bergantung pada dokumen fundamental, bukan sebaliknya.
+Robert C. Martin (2017) menekankan bahwa sistem yang sehat harus memisahkan kebijakan tingkat tinggi (*high-level policy*) dari mekanisme detail teknis (*low-level details*). Menjaga konsistensi berarti memastikan ketergantungan mengalir satu arah: dokumen operasional bergantung pada dokumen fundamental, bukan sebaliknya.
 
 ---
 
@@ -239,6 +241,8 @@ Branch v2.0.0 dirancang secara spesifik untuk memutus siklus tragedi seperti di 
 - Kebebasan rekayasa dialokasikan di Branch v2.0.0, memberi ruang bagi arsitek untuk merombak struktur tanpa mengganggu jalannya kepengasuhan santri sehari-hari.
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Fowler dalam *Refactoring: Improving the design of existing code* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14][^15].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -391,19 +395,18 @@ $$\Downarrow$$
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^2]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^3]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^4]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
-[^5]: Lehman, M. M. (1996). *Laws of software evolution revisited*. Software Process: Improvement and Practice, 2(4), 223–233.
-[^6]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^7]: Walsh, J. P., & Ungson, G. R. (1991). *Organizational memory*. Academy of Management Review, 16(1), 57–91.
-[^8]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
-[^9]: Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
-[^10]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^11]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^12]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^13]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^1]: Walsh, J. P., & Ungson, G. R. (1991). *Organizational memory*. Academy of Management Review, 16(1), 57–91.
+[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
+[^3]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
+[^4]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
+[^5]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
+[^6]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^7]: Al-Khatib Al-Baghdadi, A. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^8]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
+[^9]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
+[^10]: Lehman, M. M. (1996). *Laws of software evolution revisited*. Software Process: Improvement and Practice, 2(4), 223–233.
+[^11]: Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
+[^12]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
+[^13]: Martin, R. C. (2017). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
 [^14]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
 [^15]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
-

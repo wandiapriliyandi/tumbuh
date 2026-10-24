@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan kedudukan ontologis, kriteria kurasi bibliografis, dan tata kelola epistemik bagi direktori `REFERENCES/` dalam repositori TUMBUH v2.0.0. Dalam sistem pengetahuan berbasis riset dan tradisi keilmuan pesantren yang luhur, daftar pustaka dan khazanah literatur memiliki posisi yang sangat terhormat sebagai saksi dialog intelektual antardisiplin ilmu. Namun, ketiadaan tata kelola bibliografi yang ketat sering kali melahirkan dua patologi: *bibliographic inflation* (pencantuman ratusan judul buku dan artikel jurnal secara serampangan demi menciptakan ilusi akademis tanpa pernah dibaca atau diuji relevansinya) serta *normative conflation* (anggapan keliru bahwa setiap teks atau teori yang tercantum di dalam direktori referensi secara otomatis menjadi keputusan resmi yang mengikat sistem). Aturan konstitusional dalam `AGENTS.md` v2.0.0 menetapkan kaidah tegas: *"REFERENCES/ bukan otomatis keputusan normatif"*.
 
-Penyelidikan kanonik ini menetapkan status ontologis `REFERENCES/` sebagai **Khazanah Pustaka Rujukan Terkurasi (Curated Epistemic Library)** yang berfungsi sebagai sumber primer dan sekunder bagi pembentukan argumentasi di lapisan `PROBE/` dan `01_FUNDAMENTAL/`. Melalui sintesis antara adab filologi turats Islam klasik (*Adab Khizanat al-Kutub wa Intiqo' al-Mushannafat*) menurut Imam Badruddin Ibnu Jama'ah dan Al-Qadhi 'Iyadh dengan metodologi penelaahan literatur sistematis modern (*PRISMA 2020 Guidelines* dan *Critical Appraisal Skills Programme / CASP*), dokumen ini membedah bagaimana literatur turats klasik, sains empiris kontemporer, dan regulasi pendidikan harus disaring secara ketat dari jurnal predator, divalidasi keaslian naskahnya, dan diintegrasikan dengan standar sitasi APA 7th Edition yang bebas dari halusinasi bibliografis[^1]. Dokumen ini merumuskan protokol kurasi 5 tahap, skrip linter CI otomatis pemeriksa integritas sitasi (*citation validity checker*), serta panduan literasi kepustakaan bagi civitas akademika pesantren.
+Penyelidikan kanonik ini menetapkan status ontologis `REFERENCES/` sebagai **Khazanah Pustaka Rujukan Terkurasi (Curated Epistemic Library)** yang berfungsi sebagai sumber primer dan sekunder bagi pembentukan argumentasi di lapisan `PROBE/` dan `01_FUNDAMENTAL/`. Melalui sintesis antara adab filologi turats Islam klasik (*Adab Khizanat al-Kutub wa Intiqo' al-Mushannafat*) menurut Imam Badruddin Ibnu Jama'ah dan Al-Qadhi 'Iyadh dengan metodologi penelaahan literatur sistematis modern (*PRISMA 2020 Guidelines* dan *Critical Appraisal Skills Programme / CASP*), dokumen ini membedah bagaimana literatur turats klasik, sains empiris kontemporer, dan regulasi pendidikan harus disaring secara ketat dari jurnal predator, divalidasi keaslian naskahnya, dan diintegrasikan dengan standar sitasi APA 7th Edition yang bebas dari halusinasi bibliografis. Dokumen ini merumuskan protokol kurasi 5 tahap, skrip linter CI otomatis pemeriksa integritas sitasi (*citation validity checker*), serta panduan literasi kepustakaan bagi civitas akademika pesantren.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & BIBLIOGRAPHIC GOVERNANCE SPECIFICATION`
@@ -47,7 +47,7 @@ Direktori `REFERENCES/` didesain untuk menyudahi seluruh anarki intelektual ini:
 
 ## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i
 
-Islam adalah peradaban teks dan transmisi sanad (*hadharat an-nash wa al-isnad*). Para ulama salaf telah merumuskan etika yang sangat ketat dalam menyusun, menyeleksi, dan mengutip kitab-kitab rujukan. Salah satu rujukan klasik paling komprehensif mengenai adab kepustakaan adalah mahakarya Qadhi al-Qudhat Syaikhul Islam Badruddin Ibnu Jama'ah al-Kinani (w. 733 H), *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*.
+Islam adalah peradaban teks dan transmisi sanad (*hadharat an-nash wa al-isnad*). Para ulama salaf telah merumuskan etika yang sangat ketat dalam menyusun, menyeleksi, dan mengutip kitab-kitab rujukan. Salah satu rujukan klasik paling komprehensif mengenai adab kepustakaan adalah mahakarya Qadhi al-Qudhat Syaikhul Islam Badruddin Ibnu Jama'ah al-Kinani (w. 733 H), *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*[^1][^2].
 
 Dalam Bab Ketiga (*Fi Adab al-Kutub allati hiya Alat al-'Ilm*), hlm. 164–168, Imam Ibnu Jama'ah menetapkan kaidah emas dalam memilih dan memelihara kitab rujukan (*Intiqo' al-Kutub*):
 
@@ -57,7 +57,7 @@ Dalam Bab Ketiga (*Fi Adab al-Kutub allati hiya Alat al-'Ilm*), hlm. 164–168, 
 
 > *"Seyogianya bagi penuntut ilmu sejati untuk memusatkan perhatiannya dalam mengoleksi kitab-kitab yang benar-benar ia butuhkan untuk verifikasi keilmuan (tahqiq al-'ilm) dan pengokohan prinsip dasar (ta'shilihi). Janganlah ia menjadikan obsesinya sekadar memperbanyak tumpukan buku demi pamer dan mencari reputasi semu (istitsmar al-kutub riya'an wa sum'atan). Dan hendaklah ia berhati-hati dari memasukkan kitab-kitab yang bermasalah (al-kutub al-madkhulah) yang memuat syubhat yang merusak akidah atau yang menukil pendapat-pendapat secara serampangan tanpa verifikasi sanad (bighayri tahqiq). Sesungguhnya buku yang palsu dan rancu itu laksana kawan yang buruk perilakunya."* (Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim*, Tahqiq Muhammad Hasyim an-Nadwi, Dar al-Kutub al-'Ilmiyyah, Beirut, 2012).
 
-Lebih lanjut, Al-Qadhi 'Iyadh bin Musa al-Yahshubi (w. 544 H) dalam mahakaryanya mengenai metodologi penukilan dan periwayatan, *al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (hlm. 148–150), menegaskan kewajiban melakukan *Muqabalah* (pencocokan silang antarnaskah) guna menjamin kemurnian teks rujukan:
+Lebih lanjut, Al-Qadhi 'Iyadh bin Musa al-Yahshubi (w. 544 H) dalam mahakaryanya mengenai metodologi penukilan dan periwayatan, *al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (hlm. 148–150), menegaskan kewajiban melakukan *Muqabalah* (pencocokan silang antarnaskah) guna menjamin kemurnian teks rujukan:[^3][^4]
 
 ```text
 وَاعْلَمْ أَنَّ الْكِتَابَ إِذَا كُتِبَ وَلَمْ يُعَارَضْ بِمَا كُتِبَ مِنْهُ، أَوْ لَمْ تُقَابَلْ نُسْخَتُهُ بِأَصْلٍ صَحِيحٍ مُعْتَمَدٍ، كَانَ كَالرَّجُلِ الَّذِي لَا يَثْبُتُ عَلَى حَالٍ؛ فَرُبَّمَا سَقَطَتْ مِنْهُ كَلِمَةٌ أَوْ حَرْفٌ يَنْقَلِبُ بِهِ الْمَعْنَى مِنَ الْحِلِّ إِلَى الْحُرْمَةِ، فَالْمُقَابَلَةُ حَيَاةُ الْكِتَابِ وَعِمَادُ صِحَّتِهِ
@@ -65,7 +65,7 @@ Lebih lanjut, Al-Qadhi 'Iyadh bin Musa al-Yahshubi (w. 544 H) dalam mahakaryanya
 
 > *"Dan ketahuilah bahwa sebuah buku, apabila telah ditulis namun tidak dicocokkan silang (mu'aradhah) dengan naskah sumbernya, atau salinannya tidak dihadapkan langsung (muqabalah) dengan naskah induk yang sahih dan otoritatif, maka posisinya laksana orang yang goyah pendiriannya. Betapa sering gugur dari teks tersebut satu kata atau satu huruf saja, yang dengannya makna berbalik total dari halal menjadi haram. Maka pencocokan silang naskah (al-muqabalah) adalah nyawa bagi sebuah buku dan pilar utama bagi keabsahannya."* (Al-Qadhi 'Iyadh, *al-Ilma'*, Tahqiq as-Sayyid Ahmad Shaqr, Dar at-Turats, Kairo, 1970).
 
-Al-Hafizh Abu Bakr Ahmad bin 'Ali al-Khatib al-Baghdadi (w[^3]. 463 H) dalam kitab monumentalnya *Taqyid al-'Ilm* (hlm. 112–115) mempertegas bahaya menukil tanpa verifikasi:
+Al-Hafizh Abu Bakr Ahmad bin 'Ali al-Khatib al-Baghdadi (w. 463 H) dalam kitab monumentalnya *Taqyid al-'Ilm* (hlm. 112–115) mempertegas bahaya menukil tanpa verifikasi:
 
 ```text
 مَنْ نَقَلَ مِنْ كِتَابٍ لَمْ يُقَابَلْ بِأَصْلٍ مُعْتَمَدٍ، أَوْ عَزَا حَدِيثًا أَوْ خَبَرًا إِلَى غَيْرِ مَظَانِّهِ الصَّحِيحَةِ، فَقَدْ جَنَى عَلَى الْعِلْمِ وَخَانَ الْأَمَانَةَ، وَإِنَّمَا تُعْرَفُ صِحَّةُ الْعِلْمِ بِصِحَّةِ نَقَلَتِهِ وَنَقَاءِ مَصَادِرِهِ
@@ -82,7 +82,7 @@ Berdasarkan kaidah turats ini, repositori TUMBUH v2.0.0 menetapkan bahwa seluruh
 Dalam metodologi penelitian kontemporer, penanganan literatur rujukan telah berkembang menjadi sains tersendiri yang memiliki standar pengukuran kualitas yang ketat.
 
 ### 4.1. Protokol PRISMA 2020 (Preferred Reporting Items for Systematic Reviews)
-Pedoman internasional PRISMA 2020 (Page et al[^4]., 2021) merumuskan 4 fase seleksi literatur yang ketat guna memastikan bibliografi yang digunakan dalam riset memiliki validitas tinggi:
+Pedoman internasional PRISMA 2020 (Page et al., 2021) merumuskan 4 fase seleksi literatur yang ketat guna memastikan bibliografi yang digunakan dalam riset memiliki validitas tinggi:[^5]
 1. **Identification**: Penjaringan literatur dari pangkalan data terindeks bereputasi (seperti Scopus, Web of Science, PubMed, atau indeks kitab turats digital terpercaya).
 2. **Screening**: Penyaringan judul dan abstrak untuk membuang duplikasi dan publikasi yang tidak relevan dengan objek inkuiri.
 3. **Eligibility**: Pengujian kelayakan teks lengkap (*full-text appraisal*) menggunakan kriteria inklusi dan eksklusi yang transparan (misal: integritas desain riset, kejelasan metodologi, kecukupan sampel).
@@ -110,14 +110,12 @@ Pedoman internasional PRISMA 2020 (Page et al[^4]., 2021) merumuskan 4 fase sele
 ```
 
 ### 4.2. Deteksi Publikasi Predator dan Jargon Semu
-Jeffrey Beall[^5] (2012) dan Eriksson & Helgesson (2017) memetakan kriteria jurnal predator:
+Jeffrey Beall (2012) dan Eriksson & Helgesson (2017) memetakan kriteria jurnal predator:[^6][^7]
 - Ketiadaan proses *peer-review* yang kredibel.
 - Janji publikasi kilat berbayar tanpa revisi substantif.
 - Dewan redaksi fiktif atau pencantuman nama ilmuwan besar tanpa izin mereka.
 
-Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D[^7]. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71.
 
-Eriksson, S[^6]., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170.
 
 Pustaka di direktori `REFERENCES/` diwajibkan bebas 100% dari penerbit predator, dan setiap rujukan wajib memiliki metadata DOI atau ISBN yang dapat diverifikasi secara daring.
 
@@ -185,6 +183,8 @@ Sebelum literatur disetujui masuk ke direktori `REFERENCES/`, verifikator wajib 
 | 10 | Penulis tunggal tanpa afiliasi institusi yang jelas | Perlu Klarifikasi | Peer-Review Mandiri |
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Moher dalam *Systematic Reviews* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8]. Dalam literatur rekayasa sistem kontemporer, Booth dalam *Systematic approaches to a successful literature review* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9]. John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial[^10].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Pengusulan dan Kurasi Pustaka Rujukan
 
@@ -356,6 +356,10 @@ Tujuh prinsip tata kelola bibliografi yang wajib ditaati:
 - `REFERENCES/`: Direktori target utama yang diatur tata kelola dan kurasinya oleh monograf penyelidikan ini.
 - `01_FUNDAMENTAL/`: Mengambil legitimasi filosofis dari khazanah turats dan sains yang telah disaring di `REFERENCES/`.
 - `PROBE/`: Laboratorium inkuiri yang mengkaji dan memperdebatkan literatur rujukan sebelum dipromosikan ke tingkat konstitusi.
+
+
+
+
 - `METHODOLOGY/citation_verification_protocol.md`: Panduan teknis penulisan sitasi dan verifikasi nomor halaman.
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan pemisahan keprihatinan antarlapisan repositori.
 - `PROBE/PROBE_01/P00015-Kedudukan-Lapisan-08_SOURCES_AND_EVIDENCE.md`: Membedakan catatan bukti lapangan dari pustaka rujukan terkurasi.
@@ -367,17 +371,15 @@ Tujuh prinsip tata kelola bibliografi yang wajib ditaati:
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Ibnu Jama'ah, B. (2012). *Tadzkirat as-sami' wa al-mutakallim fi adab al-'alim wa al-muta'allim* (M. H. an-Nadwi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^2]: Al-Qadhi 'Iyadh, I. M. (1970). *Al-Ilma' ila ma'rifat ushul ar-riwayah wa taqyid as-sama'* (A. Shaqr, Ed.). Dar at-Turats.
-[^3]: Al-Khatib al-Baghdadi, A. B. (1974). *Taqyid al-'ilm* (Y. al-'Usy, Ed.). Dar Ihya' as-Sunnah an-Nabawiyyah.
-[^4]: Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71.
-[^5]: Beall, J. (2012). Predatory publishers are corrupting open access. *Nature*, 489(7415), 179.
-[^6]: Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170.
-[^7]: Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews*, 4(1), Article 1.
-[^8]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^3]: Al-Qadhi 'Iyadh, I. M. (1970). *Al-Ilma' ila ma'rifat ushul ar-riwayah wa taqyid as-sama'* (A. Shaqr, Ed.). Dar at-Turats.
+[^4]: Al-Khatib al-Baghdadi, A. B. (1974). *Taqyid al-'ilm* (Y. al-'Usy, Ed.). Dar Ihya' as-Sunnah an-Nabawiyyah.
+[^5]: Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71.
+[^6]: Beall, J. (2012). Predatory publishers are corrupting open access. *Nature*, 489(7415), 179.
+[^7]: Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170.
+[^8]: Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews*, 4(1), Article 1.
 [^9]: Booth, A., Sutton, A., & Papaioannou, D. (2016). *Systematic approaches to a successful literature review* (2nd ed.). SAGE Publications.
 [^10]: Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
-
----
 
 ## 12. Rekomendasi Aksi Nyata Bagi Dewan Pakar Bibliografi Pesantren
 

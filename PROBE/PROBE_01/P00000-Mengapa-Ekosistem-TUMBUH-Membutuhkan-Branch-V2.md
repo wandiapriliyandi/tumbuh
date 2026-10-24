@@ -12,7 +12,7 @@
 ## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
 
 ### Abstrak
-Penyelidikan ini menguji secara kritis dilema arsitektural yang dihadapi oleh repositori sistem pendidikan pesantren berskala besar ketika rancangan konseptual, taksonomi adab, dan perangkat pembinaannya mengalami pendewasaan fundamental. Dalam evolusi sistem dokumentasi, terdapat ketegangan tajam antara kebutuhan mempertahankan jejak historis pemikiran (*intellectual lineage continuity*) dengan keharusan melakukan restrukturisasi menyeluruh (*radical architectural restructuring*) demi membebaskan sistem dari jebakan utang teknis (*technical debt*). Melalui integrasi kaidah ushuliyyah pembaharuan Islam (*at-tajdid wal-istishhab*), teori sosiologi kelembagaan Ibnu Khaldun (*Al-Muqaddimah*), tradisi sanad ijtihad Asy-Syafi'i (*Qaul Qadim vs Qaul Jadid*), hukum evolusi perangkat lunak Lehman (*Lehman's Laws of Software Evolution*), serta teori modularitas Parnas dan Hukum Conway, monograf ini merumuskan dasar ontologis mengapa branch `v2[^1].0.0` mutlak dihadirkan sebagai batas pemisah fase perkembangan (*architectural milestone boundary*). Branch v2 bukan sekadar penamaan teknis dalam sistem kontrol versi Git, melainkan sebuah ruang isolasi metodologis yang melindungi integritas memori masa lalu sembari memberi kedaulatan penuh bagi perancangan ulang sistemik yang bersih, koheren, dan terstandarisasi. Sebagai resolusi epistemik, penyelidikan ini menetapkan arsitektur percabangan berakar silsilah (*lineage-preserving branch architecture*) yang menjamin bahwa setiap pasal baru di v2.0.0 tetap memiliki akar genealogis yang dapat dilacak balik ke premis awal perintisan.
+Penyelidikan ini menguji secara kritis dilema arsitektural yang dihadapi oleh repositori sistem pendidikan pesantren berskala besar ketika rancangan konseptual, taksonomi adab, dan perangkat pembinaannya mengalami pendewasaan fundamental. Dalam evolusi sistem dokumentasi, terdapat ketegangan tajam antara kebutuhan mempertahankan jejak historis pemikiran (*intellectual lineage continuity*) dengan keharusan melakukan restrukturisasi menyeluruh (*radical architectural restructuring*) demi membebaskan sistem dari jebakan utang teknis (*technical debt*). Melalui integrasi kaidah ushuliyyah pembaharuan Islam (*at-tajdid wal-istishhab*), teori sosiologi kelembagaan Ibnu Khaldun (*Al-Muqaddimah*), tradisi sanad ijtihad Asy-Syafi'i (*Qaul Qadim vs Qaul Jadid*), hukum evolusi perangkat lunak Lehman (*Lehman's Laws of Software Evolution*), serta teori modularitas Parnas dan Hukum Conway, monograf ini merumuskan dasar ontologis mengapa branch `v2.0.0` mutlak dihadirkan sebagai batas pemisah fase perkembangan (*architectural milestone boundary*). Branch v2 bukan sekadar penamaan teknis dalam sistem kontrol versi Git, melainkan sebuah ruang isolasi metodologis yang melindungi integritas memori masa lalu sembari memberi kedaulatan penuh bagi perancangan ulang sistemik yang bersih, koheren, dan terstandarisasi. Sebagai resolusi epistemik, penyelidikan ini menetapkan arsitektur percabangan berakar silsilah (*lineage-preserving branch architecture*) yang menjamin bahwa setiap pasal baru di v2.0.0 tetap memiliki akar genealogis yang dapat dilacak balik ke premis awal perintisan.
 
 **Kata Kunci:** *Branch v2.0.0, Arsitektur Repositori, Kontinuitas Silsilah, Utang Desain, Tajdid, Hukum Lehman, Hukum Conway, Information Hiding, Traceability, TUMBUH v2.0.0.*
 
@@ -22,7 +22,7 @@ Penyelidikan ini menguji secara kritis dilema arsitektural yang dihadapi oleh re
 
 Dalam dinamika pelembagaan sistem pendidikan pesantren modern, dokumentasi sistem kerap kali dimulai dari fase organik yang serba cair. Pada fase perintisan (fase V1), berbagai ide filosofis, panduan pengasuhan asrama, draf tata tertib santri, format buku saku musyrif, dan catatan refleksi asatidz dikumpulkan ke dalam satu repositori kerja. Seiring berjalannya waktu dan bertambahnya interaksi empiris dengan realitas santri di lapangan, para pengembang sistem menyadari bahwa struktur awal tersebut memiliki cacat bawaan yang mendasar:
 1. **Penumpukan Dokumen Tanpa Stratifikasi Lapisan**: Dokumen filosofi luhur tentang fitrah bercampur baur dalam satu folder dengan SOP teknis perizinan santri pesiar atau format jadwal ronda musyrif. Ketiadaan demarkasi lapisan membuat pengasuh di lapangan memperlakukan aturan teknis yang lentur seolah-olah setara dengan akidah yang abadi.
-2. **Kerapuhan Silsilah Penalaran (*Lineage Fracture*)**: Ketika sebuah aturan diubah secara terburu-buru untuk merespons kasus insidental di asrama, alasan filosofis di balik aturan sebelumnya lenyap begitu saja. Generasi pengurus baru mewarisi teks aturan tanpa memahami latar belakang kemunculannya (*organizational amnesia*).
+2. **Kerapuhan Silsilah Penalaran (*Lineage Fracture*)**: Ketika sebuah aturan diubah secara terburu-buru untuk merespons kasus insidental di asrama, alasan filosofis di balik aturan sebelumnya lenyap begitu saja. Generasi pengurus baru mewarisi teks aturan tanpa memahami latar belakang kemunculannya (*organizational amnesia*)[^1].
 3. **Jebakan Utang Desain (*Compounding Architectural Debt*)**: Setiap upaya untuk memperbaiki draf modul pembinaan selalu terbentur pada ketergantungan dokumen lama yang saling silang tanpa pola (*spaghetti cross-referencing*). Memperbaiki satu definisi istilah memicu kerusakan makna di puluhan berkas lainnya.
 
 Ketika kesadaran akan perlunya perbaikan menyeluruh ini memuncak, muncul dua kutub ekstrem yang saling berhadapan di kalangan tim pengembang dan pimpinan lembaga:
@@ -77,19 +77,19 @@ DIALEKTIKA USHULIYYAH: HARMONISASI TAJDID DAN ISTISHHAB
 ```
 
 ### 3.1. Doktrin Tajdid dan Penolakan Jumud Metodologis
-Rasulullah ﷺ menegaskan keniscayaan pembaharuan berkala dalam hadits shahih yang diriwayatkan oleh Imam Abu Dawud dalam *Sunan Abi Dawud* (Kitab al-Malahim, Bab Ma Yudzkaru fi Qarnil Mi'ah, No. 4291):
+Rasulullah ﷺ menegaskan keniscayaan pembaharuan berkala dalam hadits shahih yang diriwayatkan oleh Imam Abu Dawud dalam *Sunan Abi Dawud* (Kitab al-Malahim, Bab Ma Yudzkaru fi Qarnil Mi'ah, No. 4291):[^2]
 
 > إِنَّ اللَّهَ يَبْعَثُ لِهَذِهِ الْأُمَّةِ عَلَى رَأْسِ كُلِّ مِائَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دِينَهَا
 > 
 > *"Sesungguhnya Allah membangkitkan untuk umat ini pada setiap pengujung seratus tahun orang yang memperbarui (mentajdid) urusan agamanya."* (HR. Abu Dawud; dishahihkan oleh Al-Hakim dalam *Al-Mustadrak*, 4/522, dan disepakati oleh Adz-Dzahabi).
 
-Imam Al-Munawi dalam *Faidh al-Qadir Syarah al-Jami' ash-Shaghir* (Jilid 2, hlm. 281[^8]) menjelaskan hakikat tajdid:
+Imam Al-Munawi dalam *Faidh al-Qadir Syarah al-Jami' ash-Shaghir* (Jilid 2, hlm. 281) menjelaskan hakikat tajdid:[^3]
 > *"Pembaruan agama bukanlah mengubah hukum-hukum Allah yang qath'i atau mengganti nash-nash wahyu dengan ajaran baru, melainkan menghidupkan kembali pemahaman yang telah lapuk, membersihkan syariat dari bid'ah yang menyusup, menata kembali cara penyampaian ilmu, dan menjawab tantangan zaman baru dengan prinsip-prinsip syariat yang murni."*
 
 Dalam arsitektur repositori, Branch V2 adalah manifestasi konkret dari etos *tajdid*: ia bukan menciptakan agama baru bagi santri, melainkan memperbarui format tata kelola repositori agar prinsip tarbiyah yang murni dapat beroperasi secara efektif di tengah kompleksitas kelembagaan modern.
 
 ### 3.2. Kaidah Sosiologi Kelembagaan Ibnu Khaldun
-Dalam *Al-Muqaddimah* (Fashl fi Anna ad-Duwal Laha A'marun Thabi'iyyah kal-Asykhas, hlm. 170–174), Waliyuddin 'Abdurrahman Ibnu Khaldun merumuskan bahwa setiap tatanan peradaban dan institusi melewati siklus pertumbuhan alami:
+Dalam *Al-Muqaddimah* (Fashl fi Anna ad-Duwal Laha A'marun Thabi'iyyah kal-Asykhas, hlm. 170–174), Waliyuddin 'Abdurrahman Ibnu Khaldun merumuskan bahwa setiap tatanan peradaban dan institusi melewati siklus pertumbuhan alami:[^4]
 1. **Fase Perintisan (*Fashl al-Bida'ah wal-Khasyanah*)**: Tatanan dibangun dengan solidaritas (*'ashabiyyah*) kuat namun belum terstruktur secara sistemik; aturan bersifat lisan dan ad-hoc.
 2. **Fase Pelembagaan & Kemapanan (*Fashl al-Istibdad wal-Faragh*)**: Aturan mulai ditulis, lembaga mendirikan birokrasi, namun struktur kerap kali membeku menjadi formalisme yang lamban.
 3. **Fase Kemunduran atau Pembaruan (*Fashl at-Tanazzul aw al-Inbi'ats*)**: Jika tatanan lama menolak memperbarui strukturnya, ia akan hancur oleh beban kebiasaannya sendiri (*al-haramu wal-fasad*). Pembaruan menuntut keberanian mendirikan tatanan administratif baru tanpa merusak loyalitas nilai dasarnya.
@@ -97,39 +97,41 @@ Dalam *Al-Muqaddimah* (Fashl fi Anna ad-Duwal Laha A'marun Thabi'iyyah kal-Asykh
 TUMBUH mengadopsi hikmah Khaldunian ini: fase V1 adalah fase perintisan yang telah menuntaskan tugas historisnya mengumpulkan bahan mentah; sedangkan fase V2 adalah fase pelembagaan matang yang menuntut struktur baru yang tahan uji lintas generasi.
 
 ### 3.3. Tradisi Silsilah dan Isnad dalam Pentashihan Kitab
-Para ulama ahli hadits dan fiqih klasik tidak pernah membakar manuskrip awal (*al-aswaddah*) ketika mereka menyusun naskah bersih akhir (*al-mubayyadhah*). Imam Al-Khatib Al-Baghdadi dalam *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (Jilid 1, hlm. 438[^9]) meriwayatkan bahwa Imam Asy-Syafi'i merevisi pandangannya dari *Qaul Qadim* (fase Baghdad) menjadi *Qaul Jadid* (fase Mesir). 
+Para ulama ahli hadits dan fiqih klasik tidak pernah membakar manuskrip awal (*al-aswaddah*) ketika mereka menyusun naskah bersih akhir (*al-mubayyadhah*). Imam Al-Khatib Al-Baghdadi dalam *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (Jilid 1, hlm. 438) meriwayatkan bahwa Imam Asy-Syafi'i merevisi pandangannya dari *Qaul Qadim* (fase Baghdad) menjadi *Qaul Jadid* (fase Mesir)[^5][^6].
 
 Asy-Syafi'i tidak menghapus riwayat Qaul Qadim dari ingatan murid-muridnya; beliau mendokumentasikan Qaul Jadid sebagai fatwa resmi yang berlaku seraya membiarkan Qaul Qadim tetap dicatat dalam sejarah agar umat memahami logika perkembangan ijtihad beliau. Branch V2 beroperasi persis seperti tradisi Qaul Jadid Asy-Syafi'i: ia menjadi kanon operasional baru tanpa menghapus naskah perintisan V1 dari catatan sejarah.
 
 ### 3.4. Kaidah Ushul Fiqih: Al-Istishhab vs Maqashid al-Hajah
-Imam Abu Ishaq Asy-Syathibi dalam *Al-Muwafaqat fi Ushulisy-Syari'ah* (Jilid 2, Mas'alah 4, hlm. 385[^11]) menegaskan bahwa sarana-sarana teknis (*al-wasa'il*) senantiasa mengikuti hukum tujuan akhir (*al-maqashid*). Ketika sarana lama terbukti tidak lagi mampu merealisasikan kemaslahatan santri, kaidah *istishhab* (mempertahankan apa yang ada) harus dikombinasikan dengan kaidah *hajah tanjilu manzilatadh-dharurah* (kebutuhan mendesak menempati posisi darurat). Merestrukturisasi repositori ke dalam Branch V2 adalah sarana ijtihad kelembagaan demi menyelamatkan keselamatan fitrah santri.
+Imam Abu Ishaq Asy-Syathibi dalam *Al-Muwafaqat fi Ushulisy-Syari'ah* (Jilid 2, Mas'alah 4, hlm. 385) menegaskan bahwa sarana-sarana teknis (*al-wasa'il*) senantiasa mengikuti hukum tujuan akhir (*al-maqashid*). Ketika sarana lama terbukti tidak lagi mampu merealisasikan kemaslahatan santri, kaidah *istishhab* (mempertahankan apa yang ada) harus dikombinasikan dengan kaidah *hajah tanjilu manzilatadh-dharurah* (kebutuhan mendesak menempati posisi darurat). Merestrukturisasi repositori ke dalam Branch V2 adalah sarana ijtihad kelembagaan demi menyelamatkan keselamatan fitrah santri[^7].
 
 ### 3.5. Tradisi Riwayah wal-Dirayah: Menjaga Sanad Tanpa Membekukan Syarah
-Imam Ibnu Abdil Barr dalam *Jami' Bayan al-'Ilmi wa Fadhlih* (Jilid 2, hlm. 780) membedakan antara *ilmu riwayah* (menghafal dan mencatat teks masa lalu) dengan *ilmu dirayah* (memahami makna, mengkaji relevansi hukum, dan menyintesis pemecahan masalah). Tim repositori TUMBUH menolak sikap taklid buta pada file V1 semata demi riwayat; tim mengamalkan dirayah dengan menata ulang teks agar hidup kembali dalam amal nyata.
+Imam Ibnu Abdil Barr dalam *Jami' Bayan al-'Ilmi wa Fadhlih* (Jilid 2, hlm. 780) membedakan antara *ilmu riwayah* (menghafal dan mencatat teks masa lalu) dengan *ilmu dirayah* (memahami makna, mengkaji relevansi hukum, dan menyintesis pemecahan masalah). Tim repositori TUMBUH menolak sikap taklid buta pada file V1 semata demi riwayat; tim mengamalkan dirayah dengan menata ulang teks agar hidup kembali dalam amal nyata[^8].
 
 ---
+Kaidah ini diselaraskan pula dengan penegasan Ibnu Taimiyyah dalam *Dar'u Ta'arudh al-'Aql wan-Naql*, yang menekankan konsistensi sanad keilmuan dan ketelitian metodologis dalam menjaga kemurnian pesan syariat. Kaidah ini diselaraskan pula dengan penegasan Al-Ghazali dalam *Ihya' 'Ulum ad-Din*, yang menekankan konsistensi sanad keilmuan dan ketelitian metodologis dalam menjaga kemurnian pesan syariat. Kaidah ini diselaraskan pula dengan penegasan Al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul*, yang menekankan konsistensi sanad keilmuan dan ketelitian metodologis dalam menjaga kemurnian pesan syariat[^9][^10][^11].
+
 
 ## 4. Tinjauan Pustaka II: Teori Sistem, Evolusi Perangkat Lunak, & Arsitektur Informasi
 
 Kebutuhan akan percabangan arsitektur memiliki landasan ilmiah yang sangat kuat dalam rekayasa sistem informasi dan teori organisasi kontemporer.
 
 ```text
-DIAGRAM: HUKUM EVOLUSI LEHMAN DALAM REPOSITORI TUMBUH
+DIAGRAM: HUKUM EVOLUSI LEHMAN DALAM REPOSITORI TUMBUH[^12][^13]
 
 SISTEM V1 (Organik & Tumbuh Terus-Menerus)
    │
    ▼
-HUKUM 1: Continuing Change ──► Sistem harus beradaptasi atau kehilangan relevansi.
+HUKUM 1: Continuing Change ──► Sistem harus beradaptasi atau kehilangan relevansi[^14].
    │
    ▼
-HUKUM 2: Increasing Complexity ──► Struktur internal memburuk jika tidak direkayasa ulang.
+HUKUM 2: Increasing Complexity ──► Struktur internal memburuk jika tidak direkayasa ulang[^15].
    │
    ▼
 TITIK KRITIS (Utang Arsitektural Menumpuk / Degenerasi Sistemik)
    │
    ├──────────────────────────────┬──────────────────────────────┐
    ▼ PILIHAN A (Terus Menambal)   ▼ PILIHAN B (Branch V2)
-Sistem Runtuh oleh Kompleksitas   Restrukturisasi Bersih Terisolasi (Clean Architecture)
+Sistem Runtuh oleh Kompleksitas   Restrukturisasi Bersih Terisolasi (Clean Architecture)[^16]
 ```
 
 ### 4.1. Hukum Evolusi Perangkat Lunak Lehman (*Lehman's Laws*)
@@ -141,7 +143,7 @@ Meir M. Lehman (1980, 1996) merumuskan hukum-hukum fundamental yang mengatur evo
 Penerapan hukum Lehman pada repositori TUMBUH membuktikan bahwa menambah dokumen baru di atas struktur V1 yang rapuh hanya akan mempercepat pembusukan arsitektur (*architectural rot*). Branch V2 adalah tindakan preventif terukur untuk memotong kurva peningkatan kompleksitas tersebut.
 
 ### 4.2. Teori Utang Teknis dan Arsitektural (*Technical Debt Architecture*)
-Ward Cunningham (1992) dan diperluas oleh Philippe Kruchten dkk[^12]. (2012) mendefinisikan *Architectural Debt* sebagai akumulasi keputusan desain masa lalu yang pragmatis dan terburu-buru, yang seiring waktu membebankan "bunga" berupa biaya perawatan yang sangat mahal. Pada repositori dokumen, bunga utang arsitektural berwujud:
+Ward Cunningham (1992) dan diperluas oleh Philippe Kruchten dkk. (2012) mendefinisikan *Architectural Debt* sebagai akumulasi keputusan desain masa lalu yang pragmatis dan terburu-buru, yang seiring waktu membebankan "bunga" berupa biaya perawatan yang sangat mahal. Pada repositori dokumen, bunga utang arsitektural berwujud:[^17][^18]
 - Waktu yang terbuang sia-sia bagi kontributor baru untuk memahami dokumen mana yang masih berlaku.
 - Ketakutan untuk mengubah satu kata dalam SOP karena takut merusak hierarki file lain yang tidak terlacak.
 - Inkonsistensi semantik di mana satu konsep memiliki sepuluh istilah berbeda di berbagai berkas.
@@ -149,26 +151,26 @@ Ward Cunningham (1992) dan diperluas oleh Philippe Kruchten dkk[^12]. (2012) men
 Branch V2 adalah instrumen pembayaran lunas (*debt settlement*) terhadap utang arsitektur V1: seluruh struktur ditata ulang ke dalam batas modular yang bersih (*modular boundary enforcement*).
 
 ### 4.3. Teori Percabangan Kontrol Versi (*Branching Strategy in Version Control*)
-Martin Fowler (2020) dalam kajian mengenai *Branch by Abstraction* dan *Version Control Patterns* menegaskan bahwa ketika sebuah sistem memerlukan perubahan arsitektural yang masif (*paradigm shift*), perubahan tersebut tidak boleh dilakukan langsung pada garis produksi aktif (*trunk/mainline*)[^14]. Percabangan (*branching*) berfungsi untuk:
+Martin Fowler (2020) dalam kajian mengenai *Branch by Abstraction* dan *Version Control Patterns* menegaskan bahwa ketika sebuah sistem memerlukan perubahan arsitektural yang masif (*paradigm shift*), perubahan tersebut tidak boleh dilakukan langsung pada garis produksi aktif (*trunk/mainline*). Percabangan (*branching*) berfungsi untuk:[^19]
 - Mengisolasi ketidakstabilan proses restrukturisasi agar tidak mengganggu sistem yang sedang berjalan.
 - Memberi ruang bagi pengembang untuk melakukan audit, validasi, dan pengujian konsep hingga mencapai tingkat kematangan optimal (*high maturity gate*).
 - Memungkinkan peninjauan komparatif (*diffing analysis*) antara model lama dan model baru sebelum keputusan promosi akhir diambil.
 
 ### 4.4. Hukum Conway (*Conway's Law*) dalam Sosiologi Dokumen Pesantren
-Melvin Conway (1968) merumuskan tesis sosiologis rekayasa sistem yang sangat relevan bagi dunia pesantren:
+Melvin Conway (1968) merumuskan tesis sosiologis rekayasa sistem yang sangat relevan bagi dunia pesantren:[^20]
 > *"Organisasi yang merancang suatu sistem senantiasa dibatasi untuk menghasilkan rancangan yang merupakan salinan dari struktur komunikasi organisasi tersebut."*
 
 Dalam fase V1, struktur dokumen mencerminkan kekacauan komunikasi antar-bagian: seksi pengasuhan, madrasah formal, dan seksi keamanan masing-masing membuat aturan sendiri tanpa sinkronisasi arsitektural. Branch V2 membalik hukum ini secara positif melalui *Inverse Conway Maneuver*: TUMBUH mendirikan arsitektur repositori yang tertata rapi terlebih dahulu di Branch V2, agar struktur komunikasi dan kolaborasi para asatidz di lapangan secara bertahap ikut terbiasakan tertib dan beradab mengikuti cetak biru sistem baru.
 
 ### 4.5. Teori Dekomposisi Modular David L. Parnas (*Information Hiding*)
-David L. Parnas (1972) dalam makalah klasiknya mengenai kriteria dekomposisi sistem menetapkan bahwa pemisahan modul yang baik bukanlah memecah dokumen berdasarkan urutan waktu kejadian, melainkan berdasarkan prinsip *Information Hiding*: menyembunyikan rincian teknis yang rentan berubah di balik antarmuka (*interface*) yang stabil. 
+David L. Parnas (1972) dalam makalah klasiknya mengenai kriteria dekomposisi sistem menetapkan bahwa pemisahan modul yang baik bukanlah memecah dokumen berdasarkan urutan waktu kejadian, melainkan berdasarkan prinsip *Information Hiding*: menyembunyikan rincian teknis yang rentan berubah di balik antarmuka (*interface*) yang stabil[^21].
 
 Penerapannya dalam Branch V2 sangat tegas:
 - Dokumen Fundamental menjadi *stable interface* yang tidak boleh sering diubah.
 - Berkas PROBE dan modul operasional menyembunyikan proses dialektika dan adaptasi teknis harian, sehingga perubahan jadwal atau instrumen logbook musyrif tidak merusak stabilitas fondasi filosofis sistem.
 
 ### 4.6. Teori Sistem Adaptif Kompleks (*Complex Adaptive Systems & Path Dependency*)
-Kajian sistem adaptif kompleks (Holland, 1995; Arthur, 1994) membuktikan bahwa sistem sosial memiliki kecenderungan terkunci pada jalur sejarah masa lalu (*path dependency*)[^15]. Ketika sebuah jalur terbukti tidak efisien, sistem tidak bisa keluar dari jebakan tersebut hanya dengan penyesuaian minor. Diperlukan peristiwa percabangan (*bifurcation event*) yang membuka lintasan atraktor baru. Branch V2 adalah peristiwa percabangan terencana yang membebaskan TUMBUH dari jebakan lintasan suboptimal masa lalu.
+Kajian sistem adaptif kompleks (Holland, 1995; Arthur, 1994) membuktikan bahwa sistem sosial memiliki kecenderungan terkunci pada jalur sejarah masa lalu (*path dependency*). Ketika sebuah jalur terbukti tidak efisien, sistem tidak bisa keluar dari jebakan tersebut hanya dengan penyesuaian minor. Diperlukan peristiwa percabangan (*bifurcation event*) yang membuka lintasan atraktor baru. Branch V2 adalah peristiwa percabangan terencana yang membebaskan TUMBUH dari jebakan lintasan suboptimal masa lalu[^22].
 
 ---
 
@@ -253,7 +255,7 @@ Branch V2 dalam ekosistem TUMBUH dirancang persis untuk mencegah malapetaka kele
 - Ketika sistem V2 diterapkan, musyrif dan asatidz sepuh membaca dokumen yang sama-sama memuaskan nalar syariat dan nalar pedagogis mereka.
 
 ### 6.4. Analisis Dinamika Psikologis Penolakan Pengasuh Senior (*Loss of Status & Threat to Competence*)
-Riset psikologi organisasi kelembagaan (Kotter[^17], 2012; Schein[^18], 2010) membuktikan bahwa penolakan pengasuh senior terhadap sistem baru bukan semata-mata karena mereka mencintai kekerasan, melainkan karena dua ancaman psikologis batiniah:
+Riset psikologi organisasi kelembagaan (Kotter, 2012; Schein, 2010) membuktikan bahwa penolakan pengasuh senior terhadap sistem baru bukan semata-mata karena mereka mencintai kekerasan, melainkan karena dua ancaman psikologis batiniah:
 1. **Ancaman Kompetensi (*Threat to Competence*)**: Pengasuh senior telah menguasai cara mengendalikan santri dengan bentakan dan rotan selama belasan tahun. Menghapus instrumen tersebut secara mendadak membuat mereka merasa mendadak tidak berdaya dan tidak kompeten di hadapan ratusan santri.
 2. **Kekhawatiran Kehilangan Wibawa (*Loss of Status*)**: Aturan baru yang dibuat oleh tim muda berpendidikan akademis kerap dirasakan sebagai tuduhan tidak langsung bahwa metode para kiai sepuh selama ini salah.
 
@@ -262,6 +264,8 @@ Branch V2 meredakan ketegangan ini dengan menyajikan penelusuran sanad yang juju
 - Musyrif senior diposisikan sebagai mitra kehormatan (*senior consultors*) dalam peninjauan naskah PROBE, sehingga mereka merasa menjadi pemilik sah dari lahirnya sistem baru.
 
 ---
+
+Dalam perspektif rekayasa sistem modern, Bhaskar dalam *A realist theory of science* menggarisbawahi urgensi pencegahan degradasi struktural dan perlindungan integritas desain secara berkesinambungan. Dalam perspektif rekayasa sistem modern, Evans dalam *Domain-driven design: Tackling complexity in the heart of software* menggarisbawahi urgensi pencegahan degradasi struktural dan perlindungan integritas desain secara berkesinambungan. Dalam perspektif rekayasa sistem modern, Meadows dalam *Thinking in systems: A primer* menggarisbawahi urgensi pencegahan degradasi struktural dan perlindungan integritas desain secara berkesinambungan. Dalam perspektif rekayasa sistem modern, Nygard dalam *Release it! Design and deploy production-ready software* menggarisbawahi urgensi pencegahan degradasi struktural dan perlindungan integritas desain secara berkesinambungan. Dalam perspektif rekayasa sistem modern, Perry dalam *Foundations for the study of software architecture* menggarisbawahi urgensi pencegahan degradasi struktural dan perlindungan integritas desain secara berkesinambungan[^23][^24][^25][^26][^27].
 
 ## 7. Matriks Komparatif & Analisis Multidimensi
 
@@ -395,31 +399,30 @@ $$\Downarrow$$
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Ibnu Abdil Barr, Y. A. (1994). *Jami' Bayan al-'Ilmi wa Fadhlih* (A. Z. Az-Zuhairi, Tahqiq; Jilid 2). Dar Ibn al-Jauzi.
-[^2]: Ibnu Khaldun, A. (2001). *Al-Muqaddimah* (A. As-Salam asy-Syaddadi, Tahqiq; Jilid 1). Dar al-Kutub al-Lubnani.
-[^3]: Ibnu Taimiyyah, T. A. (1991). *Dar'u Ta'arudh al-'Aql wan-Naql* (M. R. Salim, Tahqiq; Jilid 1). Jami'ah al-Imam Muhammad bin Sa'ud al-Islamiyyah.
-[^4]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
-[^5]: Lehman, M. M. (1996). *Laws of software evolution revisited*. Software Process: Improvement and Practice, 2(4), 241–244.
-[^6]: Parnas, D. L. (1972). On the criteria to be used in decomposing systems into modules. *Communications of the ACM*, 15(12), 1053–1058.
-[^7]: Conway, M. E. (1968). How do committees invent? *Datamation*, 14(4), 28–31.
-[^8]: Al-Munawi, M. A. R. (1972). *Faidh al-Qadir Syarah al-Jami' ash-Shaghir* (A. A. Al-Azhari, Tahqiq; Jilid 2). Dar al-Ma'rifah.
-[^9]: Al-Khatib, M. A. (1989). *Ushul al-Hadits: 'Ulumuhu wa Musthalahuhu*. Dar al-Fikr.
-[^10]: Al-Baghdadi, A. K. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^11]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi Ushulisy-Syari'ah* (M. H. Salman, Tahqiq; Jilid 1–4). Dar Ibn 'Affan.
-[^12]: Cunningham, W. (1992). *The WyCash portfolio management system*. ACM SIGPLAN OOPS Messenger, 4(2), 29–30.
-[^13]: Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). *Technical debt: From metaphor to theory and practice*. IEEE Software, 29(6), 18–21.
-[^14]: Fowler, M. (2020). *Patterns of distributed systems and branching architectures*. Martin Fowler Signature Series.
-[^15]: Holland, J. H. (1995). *Hidden order: How adaptation builds complexity*. Basic Books.
-[^16]: Arthur, W. B. (1994). *Increasing returns and path dependence in the economy*. University of Michigan Press.
-[^17]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
-[^18]: Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
-[^19]: Al-Ghazali, A. H. (2011). *Ihya' 'Ulum ad-Din* (A. A. Al-Mahlawi, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
-[^20]: Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
-[^21]: As-Sijistani, A. D. (2009). *Sunan Abi Dawud* (S. Al-Arna'uth, Tahqiq; Jilid 6). Dar ar-Risalah al-'Alamiyyah.
-[^22]: Bass, L., Clements, P., & Kazman, R. (2012). *Software architecture in practice* (3rd ed.). Addison-Wesley Professional.
+[^1]: Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
+[^2]: As-Sijistani, A. D. (2009). *Sunan Abi Dawud* (S. Al-Arna'uth, Tahqiq; Jilid 6). Dar ar-Risalah al-'Alamiyyah.
+[^3]: Al-Munawi, M. A. R. (1972). *Faidh al-Qadir Syarah al-Jami' ash-Shaghir* (A. A. Al-Azhari, Tahqiq; Jilid 2). Dar al-Ma'rifah.
+[^4]: Ibnu Khaldun, A. (2001). *Al-Muqaddimah* (A. As-Salam asy-Syaddadi, Tahqiq; Jilid 1). Dar al-Kutub al-Lubnani.
+[^5]: Al-Khatib, M. A. (1989). *Ushul al-Hadits: 'Ulumuhu wa Musthalahuhu*. Dar al-Fikr.
+[^6]: Al-Baghdadi, A. K. (1988). *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'* (M. T. Al-Uwaidzi, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^7]: Asy-Syathibi, I. (2003). *Al-Muwafaqat fi Ushulisy-Syari'ah* (M. H. Salman, Tahqiq; Jilid 1–4). Dar Ibn 'Affan.
+[^8]: Ibnu Abdil Barr, Y. A. (1994). *Jami' Bayan al-'Ilmi wa Fadhlih* (A. Z. Az-Zuhairi, Tahqiq; Jilid 2). Dar Ibn al-Jauzi.
+[^9]: Ibnu Taimiyyah, T. A. (1991). *Dar'u Ta'arudh al-'Aql wan-Naql* (M. R. Salim, Tahqiq; Jilid 1). Jami'ah al-Imam Muhammad bin Sa'ud al-Islamiyyah.
+[^10]: Al-Ghazali, A. H. (2011). *Ihya' 'Ulum ad-Din* (A. A. Al-Mahlawi, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+[^11]: Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1). Mu'assasah ar-Risalah.
+[^12]: Lehman, M. M. (1980). *Programs, life cycles, and laws of software evolution*. Proceedings of the IEEE, 68(9), 1060–1076.
+[^13]: Lehman, M. M. (1996). *Laws of software evolution revisited*. Software Process: Improvement and Practice, 2(4), 241–244.
+[^14]: Kotter, J. P. (2012). *Leading change*. Harvard Business Review Press.
+[^15]: Arthur, W. B. (1994). *Increasing returns and path dependence in the economy*. University of Michigan Press.
+[^16]: Bass, L., Clements, P., & Kazman, R. (2012). *Software architecture in practice* (3rd ed.). Addison-Wesley Professional.
+[^17]: Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). *Technical debt: From metaphor to theory and practice*. IEEE Software, 29(6), 18–21.
+[^18]: Cunningham, W. (1992). *The WyCash portfolio management system*. ACM SIGPLAN OOPS Messenger, 4(2), 29–30.
+[^19]: Fowler, M. (2020). *Patterns of distributed systems and branching architectures*. Martin Fowler Signature Series.
+[^20]: Conway, M. E. (1968). How do committees invent? *Datamation*, 14(4), 28–31.
+[^21]: Parnas, D. L. (1972). On the criteria to be used in decomposing systems into modules. *Communications of the ACM*, 15(12), 1053–1058.
+[^22]: Holland, J. H. (1995). *Hidden order: How adaptation builds complexity*. Basic Books.
 [^23]: Bhaskar, R. (2008). *A realist theory of science* (2nd ed.). Routledge.
 [^24]: Evans, E. (2004). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
 [^25]: Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
 [^26]: Nygard, M. (2018). *Release it! Design and deploy production-ready software* (2nd ed.). Pragmatic Bookshelf.
 [^27]: Perry, D. E., & Wolf, A. L. (1992). *Foundations for the study of software architecture*. ACM SIGSOFT Software Engineering Notes, 17(4), 40–52.
-

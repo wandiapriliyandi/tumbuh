@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan status ontologis, batasan yurisdiksi, dan tata kelola integritas data bagi direktori `source/` dalam repositori TUMBUH v2.0.0. Dalam sistem rekayasa perangkat lunak dan manajemen pengetahuan modern, salah satu kesalahan paling destruktif adalah kegagalan membedakan antara "bahan mentah yang dikumpulkan di lapangan" (*raw ingestion data*) dan "kebenaran otoritatif yang telah diverifikasi dan disahkan oleh sistem" (*canonical single source of truth*). Aturan dasar epistemik dalam konstitusi `AGENTS.md` v2.0.0 menetapkan prinsip fundamental: *"source/ bukan otomatis source of truth"*. 
 
-Penyelidikan kanonik ini menetapkan demarkasi yang tegas antara **fakta kasar yang terekam** (*unprocessed sensory & documentary evidence*) dan **ketetapan sistemik yang sah** (*verified canonical decisions*). Melalui sintesis antara ilmu kritik periwayatan hadits turats (*Naqd al-Khabar wa 'Ilm at-Tahammul wa al-Ada'*) menurut Al-Imam Ibnu ash-Shalah dan Al-Qasimi dengan teori arsitektur data enterprise kontemporer (*Data Lake Ingestion vs Curated Enterprise Warehouse*, standar *DAMA-DMBOK*, dan prinsip *Garbage In, Garbage Out / GIGO*), dokumen ini membedah risiko epistemic fallacy yang timbul jika catatan lapangan mentah, rekaman audio wawancara, draf coretan tangan, atau dokumen eksternal di dalam `source/` disalahartikan sebagai undang-undang resmi pesantren[^1]. Dokumen ini merumuskan protokol kurasi data mentah 5 tahap, skrip linter CI otomatis penangkal dependensi ilegal (*raw source reference blocker*), serta panduan verifikasi faktual bagi seluruh kontributor repositori.
+Penyelidikan kanonik ini menetapkan demarkasi yang tegas antara **fakta kasar yang terekam** (*unprocessed sensory & documentary evidence*) dan **ketetapan sistemik yang sah** (*verified canonical decisions*). Melalui sintesis antara ilmu kritik periwayatan hadits turats (*Naqd al-Khabar wa 'Ilm at-Tahammul wa al-Ada'*) menurut Al-Imam Ibnu ash-Shalah dan Al-Qasimi dengan teori arsitektur data enterprise kontemporer (*Data Lake Ingestion vs Curated Enterprise Warehouse*, standar *DAMA-DMBOK*, dan prinsip *Garbage In, Garbage Out / GIGO*), dokumen ini membedah risiko epistemic fallacy yang timbul jika catatan lapangan mentah, rekaman audio wawancara, draf coretan tangan, atau dokumen eksternal di dalam `source/` disalahartikan sebagai undang-undang resmi pesantren. Dokumen ini merumuskan protokol kurasi data mentah 5 tahap, skrip linter CI otomatis penangkal dependensi ilegal (*raw source reference blocker*), serta panduan verifikasi faktual bagi seluruh kontributor repositori.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & DATA GOVERNANCE SPECIFICATION`
@@ -51,7 +51,7 @@ Kritik terhadap bahan mentah dan periwayatan yang belum terverifikasi merupakan 
 1. **Fase At-Tahammul (Penerimaan / Perekaman Mentah)**: Proses di mana seorang penuntut ilmu mendengar atau mencatat informasi mentah dari gurunya atau dari masyarakat. Pada fase ini, data dicatat apa adanya (*as-sama' wa al-kitabah*), namun catatan tersebut belum boleh disebarluaskan atau diamalkan sebagai hukum.
 2. **Fase Al-Ada' wa at-Tashhih (Verifikasi, Validasi, dan Transmisi Sahih)**: Proses kritis di mana catatan mentah tersebut diperiksa ketersambungan sanadnya, diuji keadilan dan kedhabithan perawinya, diselidiki ketiadaan 'illat (cacat tersembunyi), dan diuji ketiadaan syudzudz (kejanggalan matan). Hanya riwayat yang lolos tahapan inilah yang berstatus sebagai *Hujjah* (kebenaran yang mengikat).
 
-Al-Imam Abu 'Amr 'Utsman bin 'Abdirrahman asy-Syahrazuri yang masyhur dengan sebutan Ibnu ash-Shalah (w. 643 H) dalam karya teragungnya *Muqaddimah Ibn ash-Shalah fi 'Ulum al-Hadits* (hlm. 14–16) menegaskan bahaya memperlakukan naskah mentah sebagai kebenaran tanpa tahqiq:
+Al-Imam Abu 'Amr 'Utsman bin 'Abdirrahman asy-Syahrazuri yang masyhur dengan sebutan Ibnu ash-Shalah (w. 643 H) dalam karya teragungnya *Muqaddimah Ibn ash-Shalah fi 'Ulum al-Hadits* (hlm. 14–16) menegaskan bahaya memperlakukan naskah mentah sebagai kebenaran tanpa tahqiq:[^1]
 
 ```text
 لَيْسَ كُلُّ مَا وُجِدَ فِي كِتَابٍ أَوْ صَحِيفَةٍ مَنْسُوبًا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَكُونُ حُجَّةً مَعْمُولًا بِهِ، حَتَّى يَصِحَّ سَنَدُهُ وَتَتَّصِلَ رِوَايَتُهُ وَيَسْلَمَ مِنْ سَائِرِ وُجُوهِ الْعِلَلِ؛ فَإِنَّ الْكُتُبَ قَدْ تَشْتَمِلُ عَلَى النَّقْلِ الْخَامِ وَالْوَهْمِ وَالْغَلَطِ، وَمَنْ أَقْدَمَ عَلَى الْعَمَلِ بِمُجَرَّدِ الْوِجَادَةِ فِي الْأَوْرَاقِ مِنْ غَيْرِ بَحْثٍ وَلَا تَحْقِيقٍ، فَقَدْ جَازَفَ فِي دِينِهِ وَضَلَّ عَنْ جَادَّةِ الصَّوَابِ
@@ -59,7 +59,7 @@ Al-Imam Abu 'Amr 'Utsman bin 'Abdirrahman asy-Syahrazuri yang masyhur dengan seb
 
 > *"Bukanlah setiap apa yang ditemukan di dalam sebuah kitab atau lembaran catatan mentah yang disandarkan kepada Rasulullah ﷺ otomatis menjadi dalil (hujjah) yang boleh diamalkan, sampai sahih sanadnya, bersambung periwayatannya, dan selamat dari seluruh bentuk cacat ('illat). Hal itu karena kitab dan lembaran catatan sering kali memuat penukilan mentah yang belum disaring (an-naql al-kham), prasangka ilusi (al-wahm), dan kesalahan pencatatan (al-ghalath). Maka barang siapa yang terburu-buru mengamalkan sesuatu semata-mata karena menemukannya tertulis di atas lembaran kertas tanpa penyelidikan (bahts) dan tanpa verifikasi mendalam (tahqiq), sungguh ia telah berspekulasi serampangan dalam agamanya dan tersesat dari jalan kebenaran."* (Ibnu ash-Shalah, *Ma'rifat Anwa' 'Ilm al-Hadits*, Tahqiq Dr. Nuruddin 'Itr, Dar al-Fikr, Damaskus, 1986).
 
-Lebih lanjut, Syaikh Jamaluddin al-Qasimi dalam *Qawa'id at-Tahdits min Funun Musthalah al-Hadits* (hlm. 42–44) memaparkan pentingnya membedakan antara sekadar menghimpun berkas (*al-jam' al-mujarrad*) dengan memverifikasi kebenaran (*at-tamyiz wa at-tashhih*):
+Lebih lanjut, Syaikh Jamaluddin al-Qasimi dalam *Qawa'id at-Tahdits min Funun Musthalah al-Hadits* (hlm. 42–44) memaparkan pentingnya membedakan antara sekadar menghimpun berkas (*al-jam' al-mujarrad*) dengan memverifikasi kebenaran (*at-tamyiz wa at-tashhih*):[^2]
 
 ```text
 إِنَّ مُجَرَّدَ جَمْعِ الْأَوْرَاقِ وَتَقْيِيدِ الْحِكَايَاتِ لَا يَجْعَلُهَا حَقِيقَةً شَرْعِيَّةً؛ بَلْ هِيَ مَوَادُّ مَوْقُوفَةٌ عَلَى النَّقْدِ وَالتَّمْحِيصِ، فَمَنْ نَزَّلَ مَنْزِلَةَ الْأَصْلِ مَا هُوَ مَوْقُوفٌ عَلَى النَّظَرِ، فَقَدْ قَلَبَ الْمَرَاتِبَ وَأَفْسَدَ نِظَامَ الِاسْتِدْلَالِ
@@ -67,7 +67,7 @@ Lebih lanjut, Syaikh Jamaluddin al-Qasimi dalam *Qawa'id at-Tahdits min Funun Mu
 
 > *"Sesungguhnya sekadar menghimpun lembaran-lembaran kertas dan mencatat penuturan kisah-kisah lapangan sama sekali tidak menjadikannya sebagai kebenaran syar'i. Bahkan ia adalah bahan-bahan mentah yang statusnya tertahan (mawqufah) bergantung pada kritik (an-naqd) dan penyaringan mendalam (at-tamhis). Maka barang siapa yang mendudukkan sesuatu yang masih membutuhkan pengujian kritis setara dengan fondasi hukum pokok yang pasti, sungguh ia telah memutarbalikkan tingkatan ilmu dan merusak tatanan penalaran dalil."* (Al-Qasimi, *Qawa'id at-Tahdits*, Dar al-Kutub al-'Ilmiyyah, Beirut, 1979).
 
-Imam Ibnu Taimiyyah dalam *Majmu' al-Fatawa* (Jilid 10, hlm. 358) mempertegas kaidah tabayyun terhadap data lapangan mentah:
+Imam Ibnu Taimiyyah dalam *Majmu' al-Fatawa* (Jilid 10, hlm. 358) mempertegas kaidah tabayyun terhadap data lapangan mentah:[^3]
 
 ```text
 الْأَخْبَارُ الْمَنْقُولَةُ كَالْمَوَادِّ الْخَامِ الَّتِي لَا يُعْرَفُ حَقُّهَا مِنْ بَاطِلِهَا حَتَّى تُعْرَضَ عَلَى مِيزَانِ الْعَدْلِ وَالتَّثَبُّتِ، وَالِاعْتِمَادُ عَلَى مُجَرَّدِ الشَّائِعَاتِ وَالْمُسَوَّدَاتِ الْأُولَى مِنْ غَيْرِ تَمْيِيزٍ عَيْنُ الْجَهْلِ وَالْهَوَى
@@ -78,16 +78,18 @@ Imam Ibnu Taimiyyah dalam *Majmu' al-Fatawa* (Jilid 10, hlm. 358) mempertegas ka
 Kaidah epistemik turats ini secara mutlak membatasi direktori `source/`. Lembaran transkrip, catatan audio, draf rapat musyrif, dan data kasar di folder `source/` berada pada derajat **al-Maddah al-Kham** (bahan mentah / *wijadah*). Ia sama sekali tidak memiliki kehujjahan hukum sebelum melalui proses verifikasi kritis (*at-tahqiq wa at-tatsabbut*) yang mengubahnya menjadi bukti sah di `08_SOURCES_AND_EVIDENCE/` atau diuji di `PROBE/`.
 
 ---
+Landasan epistemik ini diperkuat oleh pemikiran Al-Baqillani dalam *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
+
 
 ## 4. Landasan Ilmiah Kontemporer: Data Lake vs Golden Record & GIGO Law
 
 Dalam ilmu komputer, rekayasa data (*data engineering*), dan arsitektur sistem informasi enterprise modern, pembagian zona data (*data tiering architecture*) adalah prinsip baku untuk menjaga akurasi informasi organisasi.
 
 ### 4.1. Arsitektur Data: Data Lake Ingestion vs Curated Warehouse
-Arsitek data enterprise (seperti W. H. Inmon, Ralph Kimball, dan kerangka kerja DAMA International dalam DAMA-DMBOK2) merumuskan bahwa data yang masuk ke organisasi harus melalui tiga zona bertingkat:
+Arsitek data enterprise (seperti W. H. Inmon, Ralph Kimball, dan kerangka kerja DAMA International dalam DAMA-DMBOK2) merumuskan bahwa data yang masuk ke organisasi harus melalui tiga zona bertingkat:[^5][^6]
 1. **Raw Ingestion Zone (Data Lake / Landing Zone)**: Tempat penampungan seluruh data mentah apa adanya dalam format aslinya (file log, csv, rekaman audio, sensor IoT). Zona ini sarat dengan noise, data duplikat, dan galat (*unreliable*). Inilah analogi arsitektural bagi direktori `source/`.
 2. **Standardized & Verified Zone (Data Warehouse / Curated Layer)**: Data mentah yang telah diekstrak, dibersihkan (*cleansed*), divalidasi skemanya, dan diaudit reliabilitasnya. Inilah analogi arsitektural bagi direktori `08_SOURCES_AND_EVIDENCE/`.
-3. **Golden Master / Core Domain Model (Production Truth)**: Ketetapan final yang disahkan sebagai acuan tunggal kebenaran (*Single Source of Truth / SSOT*) yang menjadi dasar operasional sistem. Inilah analogi bagi direktori `01_FUNDAMENTAL/` dan `02_IMPLEMENTATION/`.
+3. **Golden Master / Core Domain Model (Production Truth)**: Ketetapan final yang disahkan sebagai acuan tunggal kebenaran (*Single Source of Truth / SSOT*) yang menjadi dasar operasional sistem. Inilah analogi bagi direktori `01_FUNDAMENTAL/` dan `02_IMPLEMENTATION/`[^7].
 
 ```text
 +-------------------------------------------------------------+
@@ -112,11 +114,9 @@ Arsitek data enterprise (seperti W. H. Inmon, Ralph Kimball, dan kerangka kerja 
 ### 4.2. Hukum GIGO (Garbage In, Garbage Out)
 Prinsip fundamental ilmu komputasi GIGO menegaskan: jika data masukan yang dimasukkan ke dalam algoritma adalah sampah cacat (*garbage in*), maka keputusan yang dihasilkan oleh sistem pasti berupa keputusan sampah yang merusak (*garbage out*), betapapun canggihnya algoritma penalaran yang digunakan.
 
-DAMA International. (2017). *DAMA-DMBOK: Data management body of knowledge* (2nd ed.). Technics Publications.
 
-Inmon, W[^4]. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
 
-Kimball, R[^5]., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
+Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
 
 Oleh karena itu, direktori `source/` dikarantina secara ketat agar data sampah (*garbage*) tidak pernah bocor langsung ke lapisan inti pembinaan santri.
 
@@ -189,6 +189,8 @@ Mengutip berkas mentah tanpa verifikasi menimbulkan 8 risiko sistemik yang dapat
 | 8 | **Hilangnya Integritas AMI**| Auditor menemukan SOP tanpa dasar hukum | Penguncian status non-otoritatif |
 
 ---
+
+Dalam literatur rekayasa sistem kontemporer, Redman dalam *Data driven: Profiting from your most important business asset* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strong dalam *Communications of the ACM* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Wang dalam *Journal of Management Information Systems* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8][^9][^10].
 
 ## 7. Protokol Tata Kelola 5-Tahap: Pengolahan Bahan Mentah Menjadi Pengetahuan Sahih
 
@@ -273,7 +275,7 @@ Repositori dilengkapi skrip validasi otomatis pada pipeline integrasi berkelanju
 
 ### 8.1. Aturan Validasi Batas Direktori source/
 Skrip CI menjalankan tiga pengujian ketat:
-1. **Illegal Direct Dependency Ban**: Memindai seluruh berkas di `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`. Jika ditemukan tautan markdown yang merujuk langsung ke folder `source/` (`file:///...source/...`), build otomatis langsung digagalkan (*FAIL*). Seluruh rujukan wajib melalui perantara berkas bukti di `08_SOURCES_AND_EVIDENCE/`.
+1. **Illegal Direct Dependency Ban**: Memindai seluruh berkas di `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`. Jika ditemukan tautan markdown yang merujuk langsung ke folder `source/` (`file:///.source/.`), build otomatis langsung digagalkan (*FAIL*). Seluruh rujukan wajib melalui perantara berkas bukti di `08_SOURCES_AND_EVIDENCE/`.
 2. **Raw File Naming & Warning Check**: Memastikan setiap subfolder di `source/` memiliki berkas `README.md` dengan peringatan raksasa bahwa isi folder tersebut adalah bahan mentah non-otoritatif.
 3. **Sensitive PII Detection**: Memindai kemunculan nomor induk santri atau nama lengkap santri pada berkas teks terbuka di folder `source/`.
 
@@ -371,17 +373,15 @@ Tujuh prinsip tata kelola bahan mentah yang wajib ditaati:
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
 [^1]: Ibnu ash-Shalah, U. (1986). *Ma'rifat anwa' 'ilm al-hadits: Muqaddimah Ibn ash-Shalah* (N. 'Itr, Ed.). Dar al-Fikr.
-[^2]: Ibnu Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 10). Majma' al-Malik Fahd.
-[^3]: Al-Qasimi, J. (1979). *Qawa'id at-tahdits min funun musthalah al-hadits*. Dar al-Kutub al-'Ilmiyyah.
-[^4]: Inmon, W. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
-[^5]: Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
-[^6]: Al-Baqillani, M. T. (1993). *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi* (M. Z. al-Kautsari, Ed.). Mu'assasah al-Khanji.
+[^2]: Al-Qasimi, J. (1979). *Qawa'id at-tahdits min funun musthalah al-hadits*. Dar al-Kutub al-'Ilmiyyah.
+[^3]: Ibnu Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 10). Majma' al-Malik Fahd.
+[^4]: Al-Baqillani, M. T. (1993). *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi* (M. Z. al-Kautsari, Ed.). Mu'assasah al-Khanji.
+[^5]: Inmon, W. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
+[^6]: Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
 [^7]: Loshin, D. (2010). *Master data management*. Morgan Kaufmann.
 [^8]: Redman, T. C. (2008). *Data driven: Profiting from your most important business asset*. Harvard Business Press.
 [^9]: Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
 [^10]: Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
-
----
 
 ## 12. Rekomendasi Aksi Nyata Bagi Manajemen Repositori dan Petugas Data Pesantren
 

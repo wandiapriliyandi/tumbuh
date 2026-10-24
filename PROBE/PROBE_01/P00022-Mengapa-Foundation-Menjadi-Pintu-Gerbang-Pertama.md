@@ -6,7 +6,7 @@
 
 Dokumen penyelidikan arsitektural ini merumuskan urgensi ontologis, rasionalitas struktural, dan keniscayaan epistemik penempatan direktori `Foundation` sebagai pintu gerbang paling pertama dari seluruh bangunan arsitektur konseptual TUMBUH v2.0.0. Dalam sejarah rekayasa sistem pendidikan dan desain kurikulum karakter, kegagalan terbesar yang paling sering berulang adalah fenomena *pragmatic inversion* atau *technocratic rush*, yaitu ketergesa-gesaan para pengelola lembaga untuk langsung merumuskan daftar aturan tata tertib, tabel skor pelanggaran, jadwal harian santri, dan indikator perilaku teknis tanpa terlebih dahulu mendefinisikan secara tuntas fondasi filosofis yang melandasinya. Pendekatan dangkal yang melompati fondasi ini niscaya melahirkan bangunan sistem yang rapuh, mudah roboh saat diterpa krisis moral, dan menghasilkan santri yang sekadar menampilkan kepatuhan semu mekanistis (*performative compliance*) tanpa kesadaran spiritual yang mengakar.
 
-Penyelidikan kanonik ini membuktikan secara aksiomatis prinsip *Foundation-First*: sistem pendidikan karakter Islam hanya dapat berdiri kokoh apabila seluruh perangkat instrumennya diturunkan secara deduktif dari fondasi ontologis (*Worldview*), epistemologis (*Epistemology*), dan antropologis (*Human Nature & Development*). Melalui sintesis antara tamsil Qur'ani mengenai pohon yang berakar teguh (*syajarah thayyibah ashluha tsabit* dalam QS. Ibrahim: 24–25), kaidah ushul fikih seputar keniscayaan fondasi atas cabang (*al-bina' 'ala al-asas*) menurut Imam al-Ghazali dan Ibnu Taimiyyah, konsep *Ta'dib* Syed Muhammad Naquib al-Attas, dengan teori rekayasa perangkat lunak modern mengenai *Conceptual Integrity* (Frederick Brooks, 1975) dan *Strategic Design in Domain-Driven Design* (Eric Evans, 2003), dokumen ini menetapkan bahwa lapisan `Foundation` memegang kedudukan sebagai *Root of Meaning* (akar makna) bagi ekosistem TUMBUH[^1]. Dokumen ini merumuskan protokol tata kelola fondasi 5 tahap, skrip linter arsitektur otomatis, serta mengunci keputusan kanonik bahwa **segala perumusan teknis kurikulum yang tidak bertumpu pada Foundation dinyatakan cacat arsitektur secara mutlak**.
+Penyelidikan kanonik ini membuktikan secara aksiomatis prinsip *Foundation-First*: sistem pendidikan karakter Islam hanya dapat berdiri kokoh apabila seluruh perangkat instrumennya diturunkan secara deduktif dari fondasi ontologis (*Worldview*), epistemologis (*Epistemology*), dan antropologis (*Human Nature & Development*). Melalui sintesis antara tamsil Qur'ani mengenai pohon yang berakar teguh (*syajarah thayyibah ashluha tsabit* dalam QS. Ibrahim: 24–25), kaidah ushul fikih seputar keniscayaan fondasi atas cabang (*al-bina' 'ala al-asas*) menurut Imam al-Ghazali dan Ibnu Taimiyyah, konsep *Ta'dib* Syed Muhammad Naquib al-Attas, dengan teori rekayasa perangkat lunak modern mengenai *Conceptual Integrity* (Frederick Brooks, 1975) dan *Strategic Design in Domain-Driven Design* (Eric Evans, 2003), dokumen ini menetapkan bahwa lapisan `Foundation` memegang kedudukan sebagai *Root of Meaning* (akar makna) bagi ekosistem TUMBUH. Dokumen ini merumuskan protokol tata kelola fondasi 5 tahap, skrip linter arsitektur otomatis, serta mengunci keputusan kanonik bahwa **segala perumusan teknis kurikulum yang tidak bertumpu pada Foundation dinyatakan cacat arsitektur secara mutlak**.
 
 Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 - **Epistemic Status**: `CANONICAL INVESTIGATION & CONCEPTUAL ARCHITECTURE SPECIFICATION`
@@ -19,7 +19,7 @@ Status kanonik dari dokumen ini ditetapkan sebagai berikut:
 
 ## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Foundation-Less Education)
 
-Dalam lanskap pendidikan Islam dan pesantren kontemporer, dorongan untuk menampilkan hasil yang cepat (*quick fixes and instant metrics*) sering kali menjebak pimpinan lembaga dalam ilusi pragmatisme teknokratis. Ketika sebuah pesantren didirikan atau direstrukturisasi, rapat-rapat kerja awal biasanya langsung disibukkan dengan perdebatan mengenai jam bangun tidur, jenis seragam santri, tabel poin pelanggaran, atau desain buku saku catatan pelanggaran harian.
+Dalam lanskap pendidikan Islam dan pesantren kontemporer, dorongan untuk menampilkan hasil yang cepat (*quick fixes and instant metrics*) sering kali menjebak pimpinan lembaga dalam ilusi pragmatisme teknokratis. Ketika sebuah pesantren didirikan atau direstrukturisasi, rapat-rapat kerja awal biasanya langsung disibukkan dengan perdebatan mengenai jam bangun tidur, jenis seragam santri, tabel poin pelanggaran, atau desain buku saku catatan pelanggaran harian[^1].
 
 Gejala patologis dari sistem pendidikan yang kehilangan fondasi filosofis teridentifikasi dalam enam krisis kelembagaan:
 
@@ -57,7 +57,7 @@ Al-Qur'an al-Karim telah memberikan tamsil arsitektural yang abadi mengenai keni
 
 Ayat ini merumuskan hukum kausalitas tarbiyah: buah amal adab yang manis (*tu'tī ukulahā*) dan cabang perilaku yang menjulang mulia (*far'uhā fi as-samā'*) adalah **akibat mutlak dari akar fondasi yang menghunjam kokoh ke dalam tanah (*ashluhā tsābit*)**. Mengharapkan lahirnya buah adab santri tanpa merawat akar fondasinya adalah kebodohan metodologis yang bertentangan dengan sunnatullah.
 
-Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitab monumentalnya *Ihya' 'Ulumiddin* (Kitab al-'Ilm, Jilid 1, hlm. 28–30) menegaskan bahwa menuntut buah perbaikan perilaku sebelum mematangkan pengenalan hakikat wujud dan tauhid adalah kekeliruan fatal:
+Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitab monumentalnya *Ihya' 'Ulumiddin* (Kitab al-'Ilm, Jilid 1, hlm. 28–30) menegaskan bahwa menuntut buah perbaikan perilaku sebelum mematangkan pengenalan hakikat wujud dan tauhid adalah kekeliruan fatal:[^2]
 
 ```text
 وَاعْلَمْ أَنَّ مَنْ بَدَأَ بِالْفُرُوعِ وَالْأَعْمَالِ الْجَارِحِيَّةِ قَبْلَ أَنْ يُحْكِمَ الْأُصُولَ وَالْمَعَارِفَ الْقَلْبِيَّةَ، كَانَ كَمَنْ بَنَى حِيطَانًا عَلَى غَيْرِ أَسَاسٍ، فَلَا يَلْبَثُ بُنْيَانُهُ أَنْ يَنْهَارَ. وَإِنَّمَا قِيمَةُ الْعَمَلِ الظَّاهِرِ بِقَدْرِ مَا يَسْتَنِدُ إِلَيْهِ مِنَ الْمَعْرِفَةِ الرَّاسِخَةِ بِاللَّهِ وَبِحَقِيقَةِ الْإِنْسَانِ وَمَصِيرِهِ
@@ -65,7 +65,7 @@ Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitab monumentalnya *Ihya' 'Ulumi
 
 > *"Dan ketahuilah bahwa barang siapa yang memulai dari cabang-cabang teknis dan amalan-amalan lahiriah anggota tubuh sebelum mengokohkan fondasi-fondasi pokok (al-ushūl) dan makrifat kesadaran kalbu, posisinya laksana orang yang membangun tembok-tembok dinding di atas tanah tanpa fondasi; maka tidak berselang lama bangunannya pasti akan runtuh lebur. Sesungguhnya nilai suatu amal lahiriah hanyalah sebatas sejauh mana ia bersandar pada makrifat yang menghunjam kokoh tentang Allah, tentang hakikat manusia, dan tentang tempat kembalinya di akhirat."* (Al-Ghazali, *Ihya' 'Ulumiddin*, Tahqiq Badawi Ahmad Thaba'anah, Dar Ihya' al-Kutub al-'Arabiyyah, Kairo, 1957).
 
-Syaikhul Islam Ibn Taimiyyah dalam *Dar'u Ta'arudhil 'Aql wa an-Naql* (Jilid 1, hlm. 142–145[^6]) menegaskan bahwa penalaran akal sehat dan dalil syar'i senantiasa mewajibkan penataan ilmu secara hierarkis:
+Syaikhul Islam Ibn Taimiyyah dalam *Dar'u Ta'arudhil 'Aql wa an-Naql* (Jilid 1, hlm. 142–145) menegaskan bahwa penalaran akal sehat dan dalil syar'i senantiasa mewajibkan penataan ilmu secara hierarkis:[^3]
 
 ```text
 إِنَّ الْبِنَاءَ لَا يَكُونُ إِلَّا بَعْدَ الْأَسَاسِ، وَتَفْرِيعَ الْمَسَائِلِ إِنَّمَا يَصِحُّ بَعْدَ تَقْرِيرِ أُصُولِهَا؛ فَمَنْ تَكَلَّمَ فِي دَقِيقِ الْعِلْمِ وَتَفَاصِيلِ الْأَحْكَامِ قَبْلَ أَنْ يُحْكِمَ الْجُمَلَ وَالْأُصُولَ الَّتِي تَنْبَنِي عَلَيْهَا، كَانَ قَوْلُهُ مُضْطَرِبًا وَتَدْبِيرُهُ مَفْسَدَةً
@@ -73,9 +73,8 @@ Syaikhul Islam Ibn Taimiyyah dalam *Dar'u Ta'arudhil 'Aql wa an-Naql* (Jilid 1, 
 
 > *"Sesungguhnya sebuah bangunan tidak akan pernah bisa tegak kecuali setelah adanya fondasi, dan merinci cabang-cabang masalah hanyalah sah setelah ditetapkannya prinsip-prinsip pokoknya. Maka barang siapa yang berbicara mengenai rincian teknis ilmu dan detail-detail peraturan sebelum ia mengokohkan kaidah-kaidah universal dan fondasi-fondasi yang mendasarinya, niscaya perkataannya akan senantiasa kacau-balau dan tata kelolanya akan mendatangkan kerusakan."* (Ibn Taimiyyah, *Dar'u Ta'arudh*, Tahqiq Dr. Muhammad Rasyad Salim, Jami'ah al-Imam Muhammad bin Sa'ud, Riyadh, 1991).
 
-Dalam diskursus filsafat pendidikan Islam kontemporer, Prof. Syed Muhammad Naquib al-Attas (1980, 1993) merumuskan bahwa esensi pendidikan Islam adalah *Ta'dib*, yaitu penanaman adab (*instillation of adab*) yang mencerminkan pengenalan dan pengakuan terhadap posisi hakiki segala sesuatu dalam tatanan wujud (*recognition and acknowledgement of the proper places of things in the order of reality*). Al-Attas menegaskan bahwa adab terhadap manusia, guru, dan ilmu mustahil terwujud tanpa didahului oleh pemahaman mendalam tentang *Worldview* Islam dan hakikat jiwa manusia (*an-nafs al-natiqah*).
+Dalam diskursus filsafat pendidikan Islam kontemporer, Prof. Syed Muhammad Naquib al-Attas (1980, 1993) merumuskan bahwa esensi pendidikan Islam adalah *Ta'dib*, yaitu penanaman adab (*instillation of adab*) yang mencerminkan pengenalan dan pengakuan terhadap posisi hakiki segala sesuatu dalam tatanan wujud (*recognition and acknowledgement of the proper places of things in the order of reality*). Al-Attas menegaskan bahwa adab terhadap manusia, guru, dan ilmu mustahil terwujud tanpa didahului oleh pemahaman mendalam tentang *Worldview* Islam dan hakikat jiwa manusia (*an-nafs al-natiqah*)[^4].
 
-Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
 
 Dalam repositori TUMBUH v2.0.0, direktori `01_FUNDAMENTAL/01_FOUNDATION/` adalah kristalisasi dari konsep *al-Asas* tersebut. Tanpa adanya fondasi yang terkunci, seluruh modul intervensi, kurikulum adab, dan SOP musyrif kehilangan legitimasi maknawi dan rentan runtuh menjadi sekadar represi mekanis.
 
@@ -86,7 +85,7 @@ Dalam repositori TUMBUH v2.0.0, direktori `01_FUNDAMENTAL/01_FOUNDATION/` adalah
 Kajian filsafat ilmu, sains kognitif, dan rekayasa perangkat lunak arsitektural enterprise modern membuktikan kebenaran mutlak dari prinsip *Foundation-First*.
 
 ### 4.1. Integritas Konseptual (Conceptual Integrity) Frederick Brooks
-Frederick P. Brooks Jr. (1975) dalam mahakaryanya mengenai rekayasa sistem kompleks, *The Mythical Man-Month*, merumuskan adagium arsitektural yang paling terkenal dalam sejarah ilmu komputer:
+Frederick P. Brooks Jr. (1975) dalam mahakaryanya mengenai rekayasa sistem kompleks, *The Mythical Man-Month*, merumuskan adagium arsitektural yang paling terkenal dalam sejarah ilmu komputer:[^5]
 
 > *"Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas."* (Brooks, 1975, p. 42).
 
@@ -117,13 +116,10 @@ Dalam epistemologi Aristotelian dan sains modern, *First Principles Thinking* (p
 Jika perancang sistem melompat langsung ke tingkat paling bawah (*Intervention & SOP*) tanpa memahami *First Principles*, mereka akan terjebak dalam *Reasoning by Analogy* yang dangkal: sekadar meniru tata tertib sekolah lain tanpa memahami mengapa aturan tersebut ada dan apa dampak psikologisnya terhadap fitrah santri.
 
 ### 4.3. Strategic Design dalam Domain-Driven Design (Eric Evans)
-Eric Evans (2003) dalam *Domain-Driven Design: Tackling Complexity in the Heart of Software* menekankan bahwa keberhasilan perangkat lunak skala enterprise bersandar pada *Strategic Core Domain*: model konseptual inti yang mendefinisikan bahasa persatuan (*Ubiquitous Language*) dan batasan makna (*Bounded Context*). Lapisan `Foundation` dalam TUMBUH berfungsi persis sebagai *Core Domain* yang mengikat seluruh istilah dan modul agar berbicara dalam satu frekuensi semantik yang seragam.
+Eric Evans (2003) dalam *Domain-Driven Design: Tackling Complexity in the Heart of Software* menekankan bahwa keberhasilan perangkat lunak skala enterprise bersandar pada *Strategic Core Domain*: model konseptual inti yang mendefinisikan bahasa persatuan (*Ubiquitous Language*) dan batasan makna (*Bounded Context*). Lapisan `Foundation` dalam TUMBUH berfungsi persis sebagai *Core Domain* yang mengikat seluruh istilah dan modul agar berbicara dalam satu frekuensi semantik yang seragam[^6].
 
-Brooks, F. P. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley.
 
-Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
 
-Aristotle. (1999). *Metaphysics* (W. D. Ross, Trans.). Batoche Books.
 
 ---
 
@@ -185,6 +181,8 @@ Untuk menjamin kelengkapan fondasi, repositori menstrukturkan lapisan `Foundatio
 
 ---
 
+Dalam literatur rekayasa sistem kontemporer, Senge dalam *The fifth discipline: The art and practice of the learning organization* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Steinberg dalam *Age of opportunity: Lessons from the new science of adolescence* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7][^8].
+
 ## 7. Protokol Tata Kelola 5-Tahap: Perumusan dan Kodifikasi Dokumen Foundation
 
 Untuk menjamin bahwa seluruh berkas yang masuk ke dalam lapisan `01_FOUNDATION/` memiliki kualitas filsafat yang jernih, otoritatif, dan bebas dari kontradiksi internal, diberlakukan siklus hidup 5 tahap:
@@ -202,7 +200,7 @@ graph TD
 Tim perumus menggali teks-teks otoritatif Al-Qur'an, Sunnah, dan karya-karya mualif salaf (seperti Al-Ghazali, Asy-Syathibi, Ibnu Taimiyyah, Ibnu Qayyim, dan Ibnu Khaldun) untuk menetapkan aksioma-aksioma ontologis mengenai hakikat wujud, manusia, ilmu, dan amal.
 
 ### 7.2. Tahap 2: Sintesis Multidisipliner dengan Sains Perkembangan
-Aksioma turats disintesiskan secara kritis dengan temuan neurosains kognitif, teori perkembangan remaja (Adolescent Development), dan sains motivasi intrinsik (Self-Determination Theory), dengan tetap memposisikan turats sebagai penyaring kebenaran tertinggi (*supreme filter*).
+Aksioma turats disintesiskan secara kritis dengan temuan neurosains kognitif, teori perkembangan remaja (Adolescent Development), dan sains motivasi intrinsik (Self-Determination Theory), dengan tetap memposisikan turats sebagai penyaring kebenaran tertinggi (*supreme filter*)[^9].
 
 ### 7.3. Tahap 3: Uji Dialektika Kritis di Jalur PROBE
 Draf fondasi diuji secara tajam di klaster `PROBE/` (khususnya `PROBE_01` ini) untuk mendeteksi potensi cacat logika, celah distorsi semantik, dan kerentanan lapangan.
@@ -360,6 +358,9 @@ Tujuh prinsip penegakan fondasi yang wajib ditaati:
 - `01_FUNDAMENTAL/01_FOUNDATION/`: Direktori target utama yang ditetapkan kedudukannya oleh monograf penyelidikan kanonik ini.
 - `01_FUNDAMENTAL/02_CORE_MODEL/`: Lapisan model inti perkembangan kemandirian santri yang diturunkan langsung dari Foundation.
 - `02_IMPLEMENTATION/`: Lapisan institusional yang menerjemahkan prinsip-prinsip fondasi ke dalam tata pamong pesantren.
+
+
+
 - `03_OPERATIONAL/`: Lapisan instrumen kerja harian musyrif yang wajib tunduk secara mutlak pada panduan nilai Foundation.
 - `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan pemisahan keprihatinan antarlapisan repositori.
 - `PROBE/PROBE_01/P00012-Demarkasi-Lapisan-01-FUNDAMENTAL.md`: Menegaskan perlindungan konstitusi fundamental dari polusi teknis.
@@ -370,17 +371,15 @@ Tujuh prinsip penegakan fondasi yang wajib ditaati:
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
-[^1]: Al-Ghazali, A. H. (1957). *Ihya' 'ulum ad-din* (B. A. Thaba'anah, Ed.; Jilid 1). Dar Ihya' al-Kutub al-'Arabiyyah.
-[^2]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
-[^3]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^4]: Brooks, F. P. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley.
-[^5]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
-[^6]: Ibn Taimiyyah, A. (1991). *Dar'u ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed.; Jilid 1). Jami'ah al-Imam Muhammad bin Sa'ud al-Islamiyyah.
-[^7]: Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.
-[^8]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Rev. ed.). Doubleday.
-[^9]: Steinberg, L. (2014). *Age of opportunity: Lessons from the new science of adolescence*. Eamon Dolan/Houghton Mifflin Harcourt.
-
----
+[^1]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: Al-Ghazali, A. H. (1957). *Ihya' 'ulum ad-din* (B. A. Thaba'anah, Ed.; Jilid 1). Dar Ihya' al-Kutub al-'Arabiyyah.
+[^3]: Ibn Taimiyyah, A. (1991). *Dar'u ta'arudh al-'aql wa an-naql* (M. R. Salim, Ed.; Jilid 1). Jami'ah al-Imam Muhammad bin Sa'ud al-Islamiyyah.
+[^4]: Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
+[^5]: Brooks, F. P. (1975). *The mythical man-month: Essays on software engineering*. Addison-Wesley.
+[^6]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
+[^7]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Rev. ed.). Doubleday.
+[^8]: Steinberg, L. (2014). *Age of opportunity: Lessons from the new science of adolescence*. Eamon Dolan/Houghton Mifflin Harcourt.
+[^9]: Ryan, R. M., & Deci, E. L. (2017). *Self-determination theory: Basic psychological needs in motivation, development, and wellness*. Guilford Press.
 
 ## 12. Rekomendasi Aksi Nyata Bagi Mudir dan Tim Perumus Kurikulum Pesantren
 
