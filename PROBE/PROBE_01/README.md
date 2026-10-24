@@ -52,4 +52,6 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00011` — Anatomi Alur Epistemik Repositori: Dari Bahan Sumber Mentah (Source) Menuju Tindakan Nyata (Praktik)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md)
 - [`P00012` — Demarkasi Lapisan 01_FUNDAMENTAL: Menjaga Konstitusi Filosofi, Prinsip, dan Inti Model dari Polusi Teknis Operasional](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00012-Demarkasi-Lapisan-01-FUNDAMENTAL.md)
 - [`P00013` — Translasi Konseptual ke Lapisan 02_IMPLEMENTATION: Menjembatani Inti Teori Menjadi Desain Kelembagaan Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00013-Translasi-Konseptual-ke-Lapisan-02-IMPLEMENTATION.md)
+- [`P00014` — Batas Kewenangan Lapisan 03_OPERATIONAL: Menjamin Perangkat SOP Lapangan Tidak Diam-Diam Mengubah Definisi TUMBUH](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00014-Batas-Kewenangan-Lapisan-03-OPERATIONAL.md)
+
 
