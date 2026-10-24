@@ -92,6 +92,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00046` — Arsitektur Multi-Tier PBIS Berbasis Nilai Pesantren: Integrasi Universal, Targeted, dan Intensif](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00046-Arsitektur-Multi-Tier-PBIS-Berbasis-Nilai-Pesantren.md)
 - [`P00047` — Functional Behavior Assessment (FBA) Berbasis Fitrah & Adab: Membedah Motif Perilaku Tanpa Menghakimi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00047-Functional-Behavior-Assessment-FBA-Berbasis-Fitrah-dan-Adab.md)
 - [`P00048` — Rubrik Asesmen Perilaku Faktual Bebas Bias Musyrif: Skala BARS & Kalibrasi Penilai Adab](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00048-Rubrik-Asesmen-Perilaku-Faktual-Bebas-Bias-Musyrif.md)
+- [`P00049` — Protokol Intervensi Restoratif & Ishlah al-Bain: Transformasi Konflik Tanpa Stigma & Rekonsiliasi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00049-Protokol-Intervensi-Restoratif-dan-Ishlah-al-Bain.md)
 
 
 
