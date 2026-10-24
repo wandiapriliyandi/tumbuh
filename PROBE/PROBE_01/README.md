@@ -75,6 +75,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00031` — Mengapa Core Principles (Prinsip Inti) Diletakkan Setelah Dinamika Perubahan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00031-Mengapa-Core-Principles-Prinsip-Inti-Diletakkan-Setelah-Dinamika-Perubahan.md)
 - [`P00032` — Mengapa System Architecture (Arsitektur Sistem) Menjadi Penutup Sempurna Lapisan Fondasi?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00032-Mengapa-System-Architecture-Menjadi-Penutup-Sempurna-Lapisan-Fondasi.md)
 - [`P00033` — Mengapa 7 Tahap Perkembangan Santri (Tahap 1 s/d Tahap 7) Menjadi Inti Model TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00033-Mengapa-7-Tahap-Perkembangan-Santri-Menjadi-Inti-Model-TUMBUH.md)
+- [`P00034` — Mengapa Tahap 1 Dinamakan Tahap Pembiasaan Dasar?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00034-Mengapa-Tahap-1-Dinamakan-Tahap-Pembiasaan-Dasar.md)
 
 
 
