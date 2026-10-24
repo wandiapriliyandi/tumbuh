@@ -80,6 +80,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00036` — Mengapa Tahap 3 Dinamakan Tahap Penguatan Karakter?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00036-Mengapa-Tahap-3-Dinamakan-Tahap-Penguatan-Karakter.md)
 - [`P00037` — Mengapa Tahap 4 Dinamakan Tahap Kemandirian Terbimbing?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00037-Mengapa-Tahap-4-Dinamakan-Tahap-Kemandirian-Terbimbing.md)
 - [`P00038` — Mengapa Tahap 5 Dinamakan Tahap Kemandirian Penuh?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00038-Mengapa-Tahap-5-Dinamakan-Tahap-Kemandirian-Penuh.md)
+- [`P00039` — Mengapa Tahap 6 Dinamakan Keteladanan dan Tahap 7 Penggerak?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00039-Mengapa-Tahap-6-Dinamakan-Keteladanan-dan-Tahap-7-Penggerak.md)
 
 
 
