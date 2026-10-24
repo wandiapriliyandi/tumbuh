@@ -37,6 +37,7 @@ Selain 8 direktori modular di atas, folder `REFERENCES/` dilengkapi dengan 3 dok
 
 | Berkas Dokumen | Deskripsi & Isi Utama | Tautan Navigasi |
 | :--- | :--- | :---: |
+| **`KATALOG_INDUK_PUSTAKA_PROBE_V2.md`** | **Registri Induk 266 Pustaka PROBE (P00000–P00032)** lengkap dengan **tautan unduh PDF bebas paywall** (Waqfeya, Shamela, Archive.org, Semantic Scholar, ERIC). | [Buka Katalog & Unduh](./KATALOG_INDUK_PUSTAKA_PROBE_V2.md) |
 | **`Kamus-Istilah-TUMBUH.md`** | Glosarium resmi terminologi Turats, Syar'i, Neurosains, PBIS, dan arsitektur TUMBUH v2.0.0. | [Buka Glosarium](./Kamus-Istilah-TUMBUH.md) |
 | **`Analisis-Kritis-dan-Evaluasi-Arsitektur-TUMBUH.md`** | Audit kualitatif mendalam: evaluasi celah konseptual, risiko lapangan, dan mitigasi sistemik v2.0.0. | [Buka Analisis Kritis](./Analisis-Kritis-dan-Evaluasi-Arsitektur-TUMBUH.md) |
 | **`Laporan-Audit-Kualitas-Akademis-TUMBUH.md`** | Laporan verifikasi kepatuhan arsitektur, epistemologi, validitas asesmen, dan safeguarding sesuai `AGENTS.md`. | [Buka Laporan Audit](./Laporan-Audit-Kualitas-Akademis-TUMBUH.md) |
