@@ -21,8 +21,9 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 | No | Pilar Fondasi | Rentang Berkas | Status Penulisan |
 |---|---|---|:---:|
 | **1** | **Eksistensi, Silsilah, & Hakikat Branch v2.0.0** | `P00000` – `P00009` | **SELESAI KANONIK (10 Berkas)** |
-| **2** | **Stratifikasi Lapisan Repositori & Separation of Concerns** | `P00010` – `P00021` | Sedang Ditulis |
-| **3** | **Logika Penataan Arsitektur Konseptual TUMBUH** | `P00022` – `P00039` | Menunggu Antrean |
+| **2** | **Stratifikasi Lapisan Repositori & Separation of Concerns** | `P00010` – `P00021` | **SELESAI KANONIK (12 Berkas)** |
+| **3** | **Logika Penataan Arsitektur Konseptual TUMBUH** | `P00022` – `P00039` | Sedang Ditulis |
+
 | **4** | **Mesin Penyelidikan PROBE (Inquiry Engine)** | `P00040` – `P00054` | Menunggu Antrean |
 | **5** | **Tata Kelola Identitas, Penomoran, & Traceability** | `P00055` – `P00069` | Menunggu Antrean |
 | **6** | **Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah** | `P00070` – `P00084` | Menunggu Antrean |
@@ -59,6 +60,8 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00018` — Posisi Pustaka REFERENCES/: Tata Kelola Bibliografi Rujukan Terkurasi Lintas Disiplin Ilmu](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md)
 - [`P00019` — Kedudukan Direktori METHODOLOGY/: Mengatur Tata Cara Kerja Penyelidikan Tanpa Mengatur Isi Substansi Sistem](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md)
 - [`P00020` — Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00020-Batas-Folder-source.md)
+- [`P00021` — Protokol Pertahanan Lapisan Repositori: Mekanisme Verifikasi Otomatis untuk Mencegah Kebocoran Antarlayer](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md)
+
 
 
 
