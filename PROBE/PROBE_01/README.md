@@ -20,8 +20,8 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 
 | No | Pilar Fondasi | Rentang Berkas | Status Penulisan |
 |---|---|---|:---:|
-| **1** | **Eksistensi, Silsilah, & Hakikat Branch v2.0.0** | `P00000` – `P00009` | Sedang Ditulis |
-| **2** | **Stratifikasi Lapisan Repositori & Separation of Concerns** | `P00010` – `P00021` | Menunggu Antrean |
+| **1** | **Eksistensi, Silsilah, & Hakikat Branch v2.0.0** | `P00000` – `P00009` | **SELESAI KANONIK (10 Berkas)** |
+| **2** | **Stratifikasi Lapisan Repositori & Separation of Concerns** | `P00010` – `P00021` | Sedang Ditulis |
 | **3** | **Logika Penataan Arsitektur Konseptual TUMBUH** | `P00022` – `P00039` | Menunggu Antrean |
 | **4** | **Mesin Penyelidikan PROBE (Inquiry Engine)** | `P00040` – `P00054` | Menunggu Antrean |
 | **5** | **Tata Kelola Identitas, Penomoran, & Traceability** | `P00055` – `P00069` | Menunggu Antrean |
@@ -35,6 +35,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 
 *(Daftar berkas akan diperbarui secara otomatis seiring selesainya penulisan tiap-tiap monograf kanonik).*
 
+### Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0 (SELESAI LENGKAP)
 - [`P00000` — Mengapa Ekosistem TUMBUH Membutuhkan Branch V2? Dialektika Kontinuitas Historis (Lineage) dan Kebebasan Restrukturisasi Arsitektural](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md)
 - [`P00001` — Dekonstruksi Status V2: Mengapa V2 Bukan Penulisan Ulang dari Nol (Clean-Slate Fallacy) Melainkan Penyempurnaan Berkelanjutan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00001-Dekonstruksi-Status-V2-Mengapa-Bukan-Penulisan-Ulang-dari-Nol.md)
 - [`P00002` — Hakikat Git Branch sebagai Penanda Fase Arsitektural dan Bukan Sekadar Utilitas Teknis Perangkat Lunak](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00002-Hakikat-Git-Branch-sebagai-Penanda-Fase-Arsitektural.md)
@@ -44,3 +45,5 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00006` — Mitigasi Kerentanan Transisi Antarversi: Mencegah Kebingungan Praktisi Lapangan di Masa Migrasi V1 Menuju V2](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00006-Mitigasi-Kerentanan-Transisi-Antarversi.md)
 - [`P00007` — Demarkasi Versioning: Membedakan Versi Konseptual Sistem, Versi Dokumen Repositori, dan Versi Tag Git](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00007-Demarkasi-Versioning-Sistem-Dokumen-dan-Tag-Git.md)
 - [`P00008` — Kriteria Kematangan Promosi Branch: Kapan Status V2 Layak Ditetapkan Menjadi Baseline Kanonik Pengganti Main](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00008-Kriteria-Kematangan-Promosi-Branch-V2-ke-Main.md)
+- [`P00009` — Piagam Komitmen Epistemik V2: Menolak Kompromi Pragmatis yang Merendahkan Martabat Keilmuan Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00009-Piagam-Komitmen-Epistemik-V2.md)
+
