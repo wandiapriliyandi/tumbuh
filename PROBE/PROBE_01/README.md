@@ -62,7 +62,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00020` — Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00020-Batas-Folder-source.md)
 - [`P00021` — Protokol Pertahanan Lapisan Repositori: Mekanisme Verifikasi Otomatis untuk Mencegah Kebocoran Antarlayer](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md)
 
-### Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH
+### Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH (P00022 s/d P00039)
 - [`P00022` — Mengapa Foundation Menjadi Pintu Gerbang Pertama Seluruh Bangunan Arsitektur TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00022-Mengapa-Foundation-Menjadi-Pintu-Gerbang-Pertama.md)
 - [`P00023` — Logika Pembagian Foundation Menjadi 9 Domain Filosofis: Alasan Epistemik dan Urutan Dependensinya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00023-Logika-Pembagian-Foundation-Menjadi-9-Domain-Filosofis.md)
 - [`P00024` — Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md)
@@ -74,26 +74,30 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00030` — Mengapa Change (Dinamika Perubahan Jiwa) Berada Setelah Kepemimpinan dan Menjadi Kunci Transformasi Karakter?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md)
 - [`P00031` — Mengapa Core Principles (Prinsip Inti) Diletakkan Setelah Dinamika Perubahan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00031-Mengapa-Core-Principles-Prinsip-Inti-Diletakkan-Setelah-Dinamika-Perubahan.md)
 - [`P00032` — Mengapa System Architecture (Arsitektur Sistem) Menjadi Penutup Sempurna Lapisan Fondasi?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00032-Mengapa-System-Architecture-Menjadi-Penutup-Sempurna-Lapisan-Fondasi.md)
-- [`P00033` — Mengapa 7 Tahap Perkembangan Santri (Tahap 1 s/d Tahap 7) Menjadi Inti Model TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00033-Mengapa-7-Tahap-Perkembangan-Santri-Menjadi-Inti-Model-TUMBUH.md)
-- [`P00034` — Mengapa Tahap 1 Dinamakan Tahap Pembiasaan Dasar?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00034-Mengapa-Tahap-1-Dinamakan-Tahap-Pembiasaan-Dasar.md)
-- [`P00035` — Mengapa Tahap 2 Dinamakan Tahap Penyadaran Nilai?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00035-Mengapa-Tahap-2-Dinamakan-Tahap-Penyadaran-Nilai.md)
-- [`P00036` — Mengapa Tahap 3 Dinamakan Tahap Penguatan Karakter?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00036-Mengapa-Tahap-3-Dinamakan-Tahap-Penguatan-Karakter.md)
-- [`P00037` — Mengapa Tahap 4 Dinamakan Tahap Kemandirian Terbimbing?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00037-Mengapa-Tahap-4-Dinamakan-Tahap-Kemandirian-Terbimbing.md)
-- [`P00038` — Mengapa Tahap 5 Dinamakan Tahap Kemandirian Penuh?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00038-Mengapa-Tahap-5-Dinamakan-Tahap-Kemandirian-Penuh.md)
-- [`P00039` — Mengapa Tahap 6 Dinamakan Keteladanan dan Tahap 7 Penggerak?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00039-Mengapa-Tahap-6-Dinamakan-Keteladanan-dan-Tahap-7-Penggerak.md)
-- [`P00040` — Logika Taksonomi 4 Jenjang Kemandirian (J1–J4) dan Jembatan Menuju Pilar 4](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00040-Logika-Taksonomi-4-Jenjang-Kemandirian-J1-J4.md)
+- `P00033` — Logika Transisi: Mengapa Setelah Menuntaskan Foundation Sistem Wajib Memasuki Core Model? *(Sedang Diproses)*
+- `P00034` — Apa yang Menjadi Poros Tengah Core Model TUMBUH? *(Antrean)*
+- `P00035` — Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)? *(Antrean)*
+- `P00036` — Rasionalitas Komponen Kedua Core Model: Mengapa Membutuhkan Growth Mechanism (Mekanisme Pertumbuhan)? *(Antrean)*
+- `P00037` — Rasionalitas Komponen Ketiga Core Model: Mengapa Membutuhkan Core Capacity Architecture? *(Antrean)*
+- `P00038` — Rasionalitas Komponen Keempat Core Model: Mengapa Membutuhkan System Logic? *(Antrean)*
+- `P00039` — Muara Seluruh Bangunan Arsitektur: Penetapan Profil Lulusan Santri (*Graduate Profile*) *(Antrean)*
 
-### Pilar 4: Operasionalisasi Profil Jenjang J1–J4, Asesmen PBIS, dan Intervensi Restoratif
-- [`P00041` — Profil Operasional Jenjang 1 (J1 - Pemula Terbimbing): Protokol Pembiasaan Adab 24 Jam & Scaffolding Penuh](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00041-Profil-Operasional-Jenjang-1-J1-Pemula-Terbimbing.md)
-- [`P00042` — Profil Operasional Jenjang 2 (J2 - Berkembang Aktif): Transisi Otonomi Terbimbing & Scaffolding 50%->35%](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00042-Profil-Operasional-Jenjang-2-J2-Berkembang-Aktif.md)
-- [`P00043` — Profil Operasional Jenjang 3 (J3 - Mandiri Berintegritas): Internalisasi Muraqabah & Scaffolding 20%](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00043-Profil-Operasional-Jenjang-3-J3-Mandiri-Berintegritas.md)
-- [`P00044` — Profil Operasional Jenjang 4 (J4 - Pemimpin Penggerak): Keteladanan Qudwah & Khidmah Komunitas (0% Scaffolding)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00044-Profil-Operasional-Jenjang-4-J4-Pemimpin-Penggerak.md)
-- [`P00045` — Mekanisme Transisi & Promosi Antar-Jenjang: Sidang Yudisium Karakter & Upacara Baiat Tarqiyyah](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00045-Mekanisme-Transisi-dan-Promosi-Antar-Jenjang.md)
-- [`P00046` — Arsitektur Multi-Tier PBIS Berbasis Nilai Pesantren: Integrasi Universal, Targeted, dan Intensif](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00046-Arsitektur-Multi-Tier-PBIS-Berbasis-Nilai-Pesantren.md)
-- [`P00047` — Functional Behavior Assessment (FBA) Berbasis Fitrah & Adab: Membedah Motif Perilaku Tanpa Menghakimi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00047-Functional-Behavior-Assessment-FBA-Berbasis-Fitrah-dan-Adab.md)
-- [`P00048` — Rubrik Asesmen Perilaku Faktual Bebas Bias Musyrif: Skala BARS & Kalibrasi Penilai Adab](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00048-Rubrik-Asesmen-Perilaku-Faktual-Bebas-Bias-Musyrif.md)
-- [`P00049` — Protokol Intervensi Restoratif & Ishlah al-Bain: Transformasi Konflik Tanpa Stigma & Rekonsiliasi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00049-Protokol-Intervensi-Restoratif-dan-Ishlah-al-Bain.md)
-- [`P00050` — Protokol De-eskalasi Krisis Perilaku dan Penutupan Etape 50: Trias Keselamatan Santri](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00050-Protokol-De-eskalasi-Krisis-dan-Penutupan-Etape-50.md)
+### Pilar 4: Mesin Penyelidikan PROBE (Inquiry Engine) (P00040 s/d P00054)
+- `P00040` — Hakikat PROBE: Dekonstruksi Folder Dokumentasi Menjadi Mesin Penyelidikan Dialektis (*Inquiry Engine*)
+- `P00041` — Metodologi Emergent Reasoning: Mengapa Pertanyaan Berikutnya Wajib Lahir Organik dari Temuan Sebelumnya
+- `P00042` — Kedudukan Object of Inquiry: Menjaga Agar Pertanyaan Bebas Tidak Pernah Kehilangan Jangkar TUMBUH
+- `P00043` — Perumusan TUMBUH Question yang Tajam: Menolak Pertanyaan Teoritis Hampa Tanpa Dampak Repositori
+- `P00044` — Standarisasi Struktur Baku 13 Bagian Jurnal Riset Desain Sistem TUMBUH
+- `P00045` — Larangan Mutlak Format Naskah Drama: Mengharamkan Skrip Percakapan Sandiwara dalam Seluruh Berkas PROBE
+- `P00046` — Protokol Tinjauan Turats Berharakat: Autentisitas Matan, Takhrij Sanad, dan Hermeneutika Maqashid
+- `P00047` — Protokol Tinjauan Sains Kontemporer: Eksplorasi Neurosains, Teori Sistem, dan Eliminasi Paywall Berbayar
+- `P00048` — Rekonsiliasi Epistemik Dua Sayap: Metodologi Al-Jam'u wat-Taufiq Antara Syariat dan Sains
+- `P00049` — Anatomi Studi Kasus Tata Kelola Kelembagaan: Membedah Antecedents, Setting Events, dan Relasi Kuasa
+- `P00050` — Rekayasa Matriks Komparatif Multidimensi: Mengubah Data Abstrak Menjadi Tabel Analitis Operasional
+- `P00051` — Format Kanonik Architectural Decision Record (ADR): Mengunci Keputusan Arsitektural dalam Berkas Penyelidikan
+- `P00052` — Formulasi 7 Butir Guardrails Repositori: Menetapkan Batas-Batas Negatif yang Haram Dilanggar Pengembang
+- `P00053` — Mitigasi Inquiry Drift: Penerapan 5 Drift Guardrails Sebelum Melangkah ke Berkas P Berikutnya
+- `P00054` — Kriteria Penghentian Penyelidikan (*Stopping Rules*): Mengetahui Kapan Suatu Ruang Kajian Dianggap Tuntas
 
 
 
