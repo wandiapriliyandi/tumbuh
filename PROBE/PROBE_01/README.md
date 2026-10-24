@@ -43,3 +43,4 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00005` — Dialektika Pembaruan Syar'i: Konsep Tajdid dan Istishhab dalam Evolusi Dokumen Lembaga Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00005-Dialektika-Pembaruan-Syar-i-Konsep-Tajdid-dan-Istishhab.md)
 - [`P00006` — Mitigasi Kerentanan Transisi Antarversi: Mencegah Kebingungan Praktisi Lapangan di Masa Migrasi V1 Menuju V2](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00006-Mitigasi-Kerentanan-Transisi-Antarversi.md)
 - [`P00007` — Demarkasi Versioning: Membedakan Versi Konseptual Sistem, Versi Dokumen Repositori, dan Versi Tag Git](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00007-Demarkasi-Versioning-Sistem-Dokumen-dan-Tag-Git.md)
+- [`P00008` — Kriteria Kematangan Promosi Branch: Kapan Status V2 Layak Ditetapkan Menjadi Baseline Kanonik Pengganti Main](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00008-Kriteria-Kematangan-Promosi-Branch-V2-ke-Main.md)
