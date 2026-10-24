@@ -71,6 +71,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00027` — Mengapa Human Development (Perkembangan Insan) Ditempatkan Setelah Human Nature?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00027-Mengapa-Human-Development-Perkembangan-Insan-Ditempatkan-Setelah-Human-Nature.md)
 - [`P00028` — Mengapa Education (Hakikat Pendidikan) Diletakkan Setelah Pemahaman Perkembangan Insan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00028-Mengapa-Education-Hakikat-Pendidikan-Diletakkan-Setelah-Pemahaman-Perkembangan-Insan.md)
 - [`P00029` — Mengapa Leadership (Keteladanan Qudwah) Menjadi Keniscayaan Setelah Domain Pendidikan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00029-Mengapa-Leadership-Keteladanan-Qudwah-Menjadi-Keniscayaan-Setelah-Domain-Pendidikan.md)
+- [`P00030` — Mengapa Change (Dinamika Perubahan Jiwa) Berada Setelah Kepemimpinan dan Menjadi Kunci Transformasi Karakter?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md)
 
 
 
