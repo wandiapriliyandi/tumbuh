@@ -90,6 +90,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00044` — Profil Operasional Jenjang 4 (J4 - Pemimpin Penggerak): Keteladanan Qudwah & Khidmah Komunitas (0% Scaffolding)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00044-Profil-Operasional-Jenjang-4-J4-Pemimpin-Penggerak.md)
 - [`P00045` — Mekanisme Transisi & Promosi Antar-Jenjang: Sidang Yudisium Karakter & Upacara Baiat Tarqiyyah](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00045-Mekanisme-Transisi-dan-Promosi-Antar-Jenjang.md)
 - [`P00046` — Arsitektur Multi-Tier PBIS Berbasis Nilai Pesantren: Integrasi Universal, Targeted, dan Intensif](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00046-Arsitektur-Multi-Tier-PBIS-Berbasis-Nilai-Pesantren.md)
+- [`P00047` — Functional Behavior Assessment (FBA) Berbasis Fitrah & Adab: Membedah Motif Perilaku Tanpa Menghakimi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00047-Functional-Behavior-Assessment-FBA-Berbasis-Fitrah-dan-Adab.md)
 
 
 
