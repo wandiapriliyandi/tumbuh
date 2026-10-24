@@ -67,6 +67,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00023` — Logika Pembagian Foundation Menjadi 9 Domain Filosofis: Alasan Epistemik dan Urutan Dependensinya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00023-Logika-Pembagian-Foundation-Menjadi-9-Domain-Filosofis.md)
 - [`P00024` — Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md)
 - [`P00025` — Mengapa Epistemology Wajib Diletakkan Langsung Setelah Worldview?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00025-Mengapa-Epistemology-Wajib-Diletakkan-Langsung-Setelah-Worldview.md)
+- [`P00026` — Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00026-Mengapa-Human-Nature-Hakikat-Insan-Berada-Tepat-Setelah-Epistemology.md)
 
 
 
