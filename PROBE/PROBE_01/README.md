@@ -86,6 +86,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 ### Pilar 4: Operasionalisasi Profil Jenjang J1–J4, Asesmen PBIS, dan Intervensi Restoratif
 - [`P00041` — Profil Operasional Jenjang 1 (J1 - Pemula Terbimbing): Protokol Pembiasaan Adab 24 Jam & Scaffolding Penuh](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00041-Profil-Operasional-Jenjang-1-J1-Pemula-Terbimbing.md)
 - [`P00042` — Profil Operasional Jenjang 2 (J2 - Berkembang Aktif): Transisi Otonomi Terbimbing & Scaffolding 50%->35%](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00042-Profil-Operasional-Jenjang-2-J2-Berkembang-Aktif.md)
+- [`P00043` — Profil Operasional Jenjang 3 (J3 - Mandiri Berintegritas): Internalisasi Muraqabah & Scaffolding 20%](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00043-Profil-Operasional-Jenjang-3-J3-Mandiri-Berintegritas.md)
 
 
 
