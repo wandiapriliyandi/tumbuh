@@ -73,6 +73,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00029` — Mengapa Leadership (Keteladanan Qudwah) Menjadi Keniscayaan Setelah Domain Pendidikan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00029-Mengapa-Leadership-Keteladanan-Qudwah-Menjadi-Keniscayaan-Setelah-Domain-Pendidikan.md)
 - [`P00030` — Mengapa Change (Dinamika Perubahan Jiwa) Berada Setelah Kepemimpinan dan Menjadi Kunci Transformasi Karakter?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md)
 - [`P00031` — Mengapa Core Principles (Prinsip Inti) Diletakkan Setelah Dinamika Perubahan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00031-Mengapa-Core-Principles-Prinsip-Inti-Diletakkan-Setelah-Dinamika-Perubahan.md)
+- [`P00032` — Mengapa System Architecture (Arsitektur Sistem) Menjadi Penutup Sempurna Lapisan Fondasi?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00032-Mengapa-System-Architecture-Menjadi-Penutup-Sempurna-Lapisan-Fondasi.md)
 
 
 
