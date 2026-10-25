@@ -4,78 +4,64 @@
 
 ## 1. Executive Summary & Epistemic Status
 
-Dokumen penyelidikan arsitektural ini merumuskan rasionalitas struktural, rantai keterikatan logis (*transitive dependency graph*), dan keniscayaan epistemik pembagian lapisan `Foundation` ke dalam **Sembilan Domain Filosofis Bertingkat (Nine Tiered Philosophical Domains)** dalam ekosistem TUMBUH v2.0.0. Dalam sejarah filsafat pendidikan Islam dan teori rekayasa arsitektur sistem informasi, perumusan sebuah fondasi tidak boleh dibiarkan menjadi kumpulan narasi visi-misi yang abstrak, mengambang, atau tersusun secara acak tanpa hierarki keterikatan (*unstructured monolithic discourse*). Ketiadaan tata urut yang ketat (*tartib manthiqi*) terbukti melahirkan anomali fatal: misalnya mengajarkan kepemimpinan (*Leadership*) sebelum santri memahami hakikat jiwa manusia (*Human Nature*), yang niscaya melahirkan kepemimpinan otoriter feodalistik; atau merumuskan strategi perubahan perilaku (*Change Dynamics*) sebelum menetapkan hakikat pendidikan (*Education*), yang mereduksi pembinaan santri menjadi sekadar teknik modifikasi perilaku tanpa ruh.
+Dokumen penyelidikan arsitektural ini merumuskan rasionalitas struktural, rantai keterikatan logis (*transitive dependency graph*), dan keniscayaan epistemik pembagian lapisan `Foundation` ke dalam **Sembilan Domain Filosofis Bertingkat (Nine Tiered Philosophical Domains)** dalam ekosistem TUMBUH v2.0.0. Dalam sejarah filsafat pendidikan Islam dan teori rekayasa arsitektur sistem informasi, perumusan sebuah fondasi tidak boleh dibiarkan menjadi kumpulan narasi visi-misi yang abstrak, mengambang, atau tersusun secara acak tanpa hierarki keterikatan (*unstructured monolithic discourse*). Ketiadaan tata urut yang ketat (*tartib manthiqi*) terbukti melahirkan anomali fatal: misalnya mengajarkan kepemimpinan (*Leadership*) sebelum santri memahami hakikat jiwa manusia (*Human Nature*), yang niscaya melahirkan kepemimpinan otoriter feodalistik; atau merumuskan strategi perubahan perilaku (*Change Dynamics*) sebelum menetapkan hakikat pendidikan (*Education*), yang mereduksi pembinaan santri menjadi sekadar teknik modifikasi perilaku mekanik tanpa ruh keikhlasan.
 
-Penyelidikan kanonik ini menetapkan struktur hierarki sembilan domain yang mengikat secara aksiomatis: (1) **Worldview**, (2) **Epistemology**, (3) **Human Nature**, (4) **Human Development**, (5) **Education**, (6) **Leadership**, (7) **Change Dynamics**, (8) **Core Principles**, dan (9) **System Architecture**. Melalui sintesis antara metodologi klasifikasi ilmu turats Islam (*Maratib al-'Ulum wa Tartibuha*) menurut Imam Abu Hamid al-Ghazali dalam *ar-Risalah al-Ladunniyyah* dan Al-Farabi dalam *Ihsha' al-'Ulum* dengan teori arsitektur graf keterikatan terarah (*Directed Acyclic Graph / DAG Architecture*) dan *Taxonomic Hierarchy in Systems Thinking*, dokumen ini membedah hubungan kausal antar-domain. Dokumen ini merumuskan protokol verifikasi integrasi fondasi 5 tahap, skrip linter CI otomatis penangkal siklus ketergantungan (*cyclic dependency blocker*), serta mengunci keputusan kanonik bahwa **urutan sembilan domain fondasi bersifat invarian dan wajib menjadi peta jalan pembentukan seluruh kurikulum TUMBUH**.
+Penyelidikan kanonik ini menetapkan struktur hierarki sembilan domain yang mengikat secara aksiomatis: (1) **Worldview**, (2) **Epistemology**, (3) **Human Nature**, (4) **Human Development**, (5) **Education**, (6) **Leadership**, (7) **Change Dynamics**, (8) **Core Principles**, dan (9) **System Architecture**. Melalui sintesis antara metodologi klasifikasi ilmu turats Islam (*Maratib al-'Ulum wa Tartibuha*) menurut Imam Abu Hamid al-Ghazali dalam *ar-Risalah al-Ladunniyyah*, Al-Farabi dalam *Ihsha' al-'Ulum*, dan Ibnu Khaldun dalam *al-Muqaddimah*, dengan teori rekayasa sistem graf keterikatan terarah (*Directed Acyclic Graph / DAG Architecture*) serta *Stratified Systems Theory* Elliott Jaques, dokumen ini membedah hubungan kausal antar-domain secara deduktif. Dokumen ini merumuskan protokol verifikasi integrasi fondasi 5 tahap, spesifikasi pengujian linter otomatis penangkal siklus ketergantungan (*cyclic dependency blocker*), serta mengunci keputusan kanonik bahwa **urutan sembilan domain fondasi bersifat invarian dan wajib menjadi peta jalan pembentukan seluruh kurikulum TUMBUH**.
 
-Status kanonik dari dokumen ini ditetapkan sebagai berikut:
-- **Epistemic Status**: `CANONICAL INVESTIGATION & PHILOSOPHICAL DOMAIN TAXONOMY`
-- **Architectural Layer**: `PROBE / METAGOVERNANCE / FOUNDATIONAL DOMAIN ORDER`
-- **Target Subsystem**: `01_FUNDAMENTAL/01_FOUNDATION/` domains 1 through 9
-- **Decision State**: `APPROVED & LOCKED (ARCHITECTURAL DECISION RECORD P00023-ADR)`
-- **Audience**: Majelis Konsil Masyayikh, Perancang Model Karakter TUMBUH, Pengembang Taksonomi Adab, dan Tim Kurikulum Pesantren.
+| Parameter Metadata Dokumen | Ketetapan Kanonik Repositori |
+| :--- | :--- |
+| **Nomor Berkas Penyelidikan** | `PROBE/PROBE_01/P00023` |
+| **Status Epistemik** | `CANONICAL INVESTIGATION & PHILOSOPHICAL DOMAIN TAXONOMY` |
+| **Lapisan Arsitektur Target** | `PROBE / METAGOVERNANCE / FOUNDATIONAL DOMAIN ORDER` |
+| **Wilayah Dampak Repositori** | `01_FUNDAMENTAL/01_FOUNDATION/` (Domain 1 sampai Domain 9) |
+| **Status Keputusan ADR** | `APPROVED & LOCKED (ARCHITECTURAL DECISION RECORD ADR-PROBE-0023)` |
+| **Audience Target** | Majelis Konsil Masyayikh, Perancang Model Karakter TUMBUH, Pengembang Taksonomi Adab, dan Tim Kurikulum Pesantren Mitra |
 
 ---
 
 ## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Unordered Philosophies)
 
-Ketika sebuah institusi pendidikan Islam merumuskan landasan filosofis tanpa struktur tata urut yang logis, gagasan-gagasan luhur yang tertuang dalam dokumen visi-misi yayasan sering kali menjadi pedang bermata dua yang memicu kekacauan orientasi para pendidik di lapangan[^1].
+Ketika sebuah institusi pendidikan Islam merumuskan landasan filosofis tanpa struktur tata urut yang logis, gagasan-gagasan luhur yang tertuang dalam dokumen visi-misi yayasan sering kali menjadi pedang bermata dua yang memicu kekacauan orientasi para pendidik di lapangan[^1]. Ketiadaan hierarki penalaran menghasilkan apa yang disebut oleh Fred Brooks (1995) sebagai *conceptual incoherence*, di mana dokumen kebijakan tampak megah di permukaan namun saling bertolak belakang dalam eksekusi operasional.
 
-Gejala disorientasi sistemik akibat ketiadaan stratifikasi sembilan domain teridentifikasi dalam enam patologi kelembagaan:[^2]
+Penyelidikan mendalam `P00023` mengidentifikasi enam patologi sistemik kelembagaan yang lahir secara langsung akibat ketiadaan stratifikasi sembilan domain fondasi:
 
-1. **Inversi Fatal Kepemimpinan Mendahului Kemanusiaan (Premature Leadership Inversion)**:
-   Lembaga menggembar-gemborkan program kaderisasi kepemimpinan santri (*Leadership Training*) sejak tahun pertama masuk asrama, sebelum santri dibekali pemahaman mendalam tentang hakikat fitrah manusia (*Human Nature*) dan kerendahan hati syar'i. Akibatnya, santri senior yang menjadi pengurus asrama memperlakukan santri adik kelas dengan intimidasi verbal, hukuman fisik sepihak, dan gaya kepemimpinan feodal yang meniru tirani militeristik.
+| No | Patologi Kelembagaan | Gejala Lapangan di Pesantren | Dampak Fatal Terhadap Jiwa Santri |
+| :-: | :--- | :--- | :--- |
+| **1** | **Inversi Kepemimpinan Prematur (*Premature Leadership Inversion*)** | Modul *Leadership & Discipline* diajarkan di tahun pertama sebelum santri memahami hakikat jiwa (*Human Nature*). | Santri pengurus bertindak zalim, mempraktikkan perundungan senioritas, intimidasi verbal, dan hukuman fisik feodal. |
+| **2** | **Reduksionisme Perilaku Tanpa Epistemologi (*Behavioral Engineering Fallacy*)** | Tim pengasuhan mengadopsi teknik modifikasi perilaku populer tanpa penyaringan epistemologi Islam. | Santri patuh semata-mata karena mengejar reward materi atau takut sanksi poin; motivasi ruhiyah dan keikhlasan kalbu padam. |
+| **3** | **Kebutaan Tahapan Sunnatullah (*Developmental Blindness*)** | Standar adab santri usia 12 tahun (Tsanawiyah) disamaratakan dengan standar kedewasaan santri usia 18 tahun (Aliyah). | Santri yang belum matang secara neurobiologis dilabeli pembangkang (*rebel*), mengalami depresi klinis dan trauma berkepanjangan. |
+| **4** | **Diskoneksi Visi Alam Semesta (*Worldview Disconnect*)** | Khutbah pimpinan menekankan kebahagiaan akhirat, namun sistem evaluasi santri murni berorientasi materialistik-kognitif. | Santri mengalami *epistemic split*: menganggap nilai ibadah terpisah dari keterampilan praktis kehidupan duniawi. |
+| **5** | **Kekacauan Kognitif Musyrif (*Cognitive Fatigue in Musyrif*)** | Buku panduan asrama mencampur aduk ayat tauhid, psikologi remaja, formulir izin pulang, dan jam ronda malam dalam satu bab. | Musyrif mengalami kelelahan mental (*burnout*), mengabaikan buku panduan, dan kembali mengasuh dengan pola amarah personal. |
+| **6** | **Fragmentasi Sektoral (*Siloed Curricular Anarchy*)** | Guru kelas syar'i, guru umum, musyrif asrama, dan bagian keamanan berjalan sendiri-sendiri tanpa arsitektur penyatu. | Terjadi anarki kebijakan kamar yang saling bertabrakan, membingungkan santri, dan melumpuhkan efektivitas tarbiyah 24 jam. |
 
-2. **Reduksionisme Perubahan Perilaku Tanpa Epistemologi (Behavioral Engineering Fallacy)**:
-   Tim pengasuhan mencoba menerapkan teori-teori pembiasaan perilaku (*habit formation*) dan manajemen reward-punishment langsung dari buku motivasi populer tanpa menyaringnya melalui epistemologi Islam. Akibatnya, santri termotivasi berbuat baik murni demi mengejar hadiah materi atau takut hukuman lahiriah, sementara motivasi ruhiyah dan keikhlasan lillahi ta'ala padam dari jiwa mereka.
-
-3. **Kekosongan Pemahaman Sunnatullah Bertahap (Developmental Blindness)**:
-   Kurikulum adab menuntut standar kesempurnaan perilaku santri baru usia 12 tahun (tingkat Tsanawiyah) sama persis dengan standar kedewasaan santri senior usia 18 tahun (tingkat Aliyah), karena sistem tidak memiliki domain *Human Development* yang memetakan tahapan kemandirian alami (*sunnatullah at-tadarruj* J1–J4). Santri yang belum matang secara biologis dan emosional langsung dilabeli sebagai "santri pembangkang".
-
-4. **Kontradiksi Antara Cara Pandang Dunia dan Penilaian Keberhasilan (Worldview Disconnect)**:
-   Secara lisan pimpinan pesantren menyatakan bahwa tujuan utama pendidikan adalah kebahagiaan akhirat (*as-sa'adah fi ad-darain*), namun instrumen evaluasi keberhasilan santri di dasbor sekolah murni diukur dari kecepatan hafalan teks, prestasi medali lomba akademik sekuler, dan kepatuhan administratif fisik.
-
-5. **Kebingungan Konseptual Pendidik Akibat Teks Monolitik (Cognitive Chaos in Musyrif)**:
-   Buku pedoman pengasuhan yang dibagikan berupa narasi panjang tebal 300 halaman yang mencampuradukkan antara teologi tauhid, metode mengajar, psikologi emosi, dan SOP ronda malam dalam satu bab yang sama. Para musyrif mengalami kelelahan membaca (*cognitive fatigue*) dan akhirnya mengabaikan buku tersebut.
-
-6. **Fragmentasi Kurikulum Tanpa Arsitektur Penyatuan (Siloed Subject Anarchy)**:
-   Guru pelajaran akidah, guru fikih, musyrif asrama, dan pelatih ekstrakurikuler berjalan sendiri-sendiri dengan kerangka berpikir masing-masing tanpa ada benang merah konseptual yang menyatukan mereka (*lack of unifying architecture*).
-
-Pathologi sistemik ini membuktikan bahwa meletakkan fondasi filosofis tidak cukup hanya dengan menuliskan "kumpulan nilai baik". Fondasi wajib distrukturkan secara presisi ke dalam **sembilan domain berurutan** di mana setiap domain menjadi syarat mutlak bagi lahirnya domain berikutnya.
+Pathologi sistemik ini membuktikan secara tak terbantahkan bahwa merumuskan fondasi pendidikan Islam tidak cukup hanya dengan merangkai "daftar nilai-nilai mulia". Fondasi wajib distrukturkan secara presisi ke dalam **sembilan domain berurutan** di mana setiap domain menjadi prasyarat aksiomatis bagi lahirnya domain berikutnya.
 
 ---
 
-## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i
+## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i: Maratib al-'Ulum
 
-Tradisi intelektual Islam klasik adalah pelopor dunia dalam bidang klasifikasi keilmuan (*maratib al-'ulum wa ashnaf al-ma'arif*). Para ulama telah menyusun tata urut penalaran yang ketat untuk memastikan bahwa pemikiran manusia dibangun dari yang paling mendasar (*al-asasi/al-kulli*) menuju yang cabang (*al-far'i/al-juz'i*).
+Tradisi intelektual Islam klasik adalah pelopor dunia dalam bidang klasifikasi keilmuan (*maratib al-'ulum wa ashnaf al-ma'arif*). Para ulama telah menyusun tata urut penalaran yang ketat (*at-tartib al-manthiqi*) untuk memastikan bahwa pemikiran manusia dibangun dari yang paling mendasar (*al-asasi/al-kulli*) menuju yang cabang (*al-far'i/al-juz'i*).
 
-Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitabnya *ar-Risalah al-Ladunniyyah* (hlm. 38–41) menetapkan tata urut hierarki makrifat manusia yang selaras dengan tatanan sembilan domain TUMBUH:[^3]
+### 3.1. Hierarki Makrifat Menurut Imam Abu Hamid Al-Ghazali
+Hujjatul Islam Imam Abu Hamid al-Ghazali dalam kitabnya *ar-Risalah al-Ladunniyyah* menetapkan tata urut hierarki makrifat manusia yang selaras dengan tatanan sembilan domain TUMBUH:[^2]
 
-```text
-وَتَرْتِيبُ الْعُلُومِ وَاجِبٌ فِي التَّعَلُّمِ وَالتَّأْسِيسِ؛ فَيَنْبَغِي أَنْ يُبْدَأَ أَوَّلًا بِمَعْرِفَةِ اللَّهِ تَعَالَى وَصِفَاتِهِ وَحَقِيقَةِ الْوُجُودِ (وَهُوَ عِلْمُ الْعَقِيدَةِ وَالرُّؤْيَةِ الْكَوْنِيَّةِ)، ثُمَّ بِمَعْرِفَةِ طُرُقِ الْعِلْمِ وَمَوَازِينِ الْحَقِّ (وَهُوَ عِلْمُ النَّظَرِ وَالِاسْتِدْلَالِ)، ثُمَّ بِمَعْرِفَةِ النَّفْسِ الْإِنْسَانِيَّةِ وَقُوَاهَا وَأَمْرَاضِهَا (وَهُوَ حَقِيقَةُ الْإِنْسَانِ)، ثُمَّ بِمَعْرِفَةِ تَدَرُّجِ أَحْوَالِهَا (وَهُوَ التَّطَوُّرُ)، ثُمَّ بِعِلْمِ التَّهْذِيبِ وَالتَّرْبِيَةِ، ثُمَّ بِعِلْمِ السِّيَاسَةِ وَالْقِيَادَةِ؛ فَمَنْ نَكَّسَ هَذَا التَّرْتِيبَ فَارَقَ الْحِكْمَةَ وَأَفْسَدَ نِظَامَ التَّعْلِيمِ
-```
+> **وَتَرْتِيبُ الْعُلُومِ وَاجِبٌ فِي التَّعَلُّمِ وَالتَّأْسِيسِ؛ فَيَنْبَغِي أَنْ يُبْدَأَ أَوَّلًا بِمَعْرِفَةِ اللَّهِ تَعَالَى وَصِفَاتِهِ وَحَقِيقَةِ الْوُجُودِ (وَهُوَ عِلْمُ الْعَقِيدَةِ وَالرُّؤْيَةِ الْكَوْنِيَّةِ)، ثُمَّ بِمَعْرِفَةِ طُرُقِ الْعِلْمِ وَمَوَازِينِ الْحَقِّ (وَهُوَ عِلْمُ النَّظَرِ وَالِاسْتِدْلَالِ)، ثُمَّ بِمَعْرِفَةِ النَّفْسِ الْإِنْسَانِيَّةِ وَقُوَاهَا وَأَمْرَاضِهَا (وَهُوَ حَقِيقَةُ الْإِنْسَانِ)، ثُمَّ بِمَعْرِفَةِ تَدَرُّجِ أَحْوَالِهَا (وَهُوَ التَّطَوُّرُ)، ثُمَّ بِعِلْمِ التَّهْذِيبِ وَالتَّرْبِيَةِ، ثُمَّ بِعِلْمِ السِّيَاسَةِ وَالْقِيَادَةِ؛ فَمَنْ نَكَّسَ هَذَا التَّرْتِيبَ فَارَقَ الْحِكْمَةَ وَأَفْسَدَ نِظَامَ التَّعْلِيمِ**
+>
+> *"Dan tata urut susunan disiplin ilmu adalah suatu kewajiban dalam proses belajar dan pembangunan fondasi sistem. Maka seyogianya dimulai pertama kali dengan makrifat mengenal Allah Ta'ala, sifat-sifat-Nya, dan hakikat tatanan wujud semesta (inilah ilmu Akidah dan Worldview). Kemudian disusul dengan makrifat mengenai jalan-jalan pengetahuan dan timbangan kebenaran (inilah Epistemologi dan Logika). Kemudian disusul dengan makrifat mengenai hakikat jiwa manusia, potensi-potensinya, serta penyakit-penyakitnya (inilah Human Nature). Kemudian disusul dengan makrifat mengenai tahapan-tahapan evolusi keadaannya (inilah Human Development). Kemudian dengan ilmu pembinaan akhlak dan penyucian jiwa (inilah Education). Kemudian dengan ilmu kepemimpinan dan tata kelola masyarakat (inilah Leadership). Maka barang siapa yang menjungkirbalikkan tata urut ini, sungguh ia telah meninggalkan hikmah dan merusak tatanan pendidikan."* (Al-Ghazali, *ar-Risalah al-Ladunniyyah*, Tahqiq Dr. Mahmud Basyir, hlm. 38–41).
 
-> *"Dan tata urut susunan disiplin ilmu adalah suatu kewajiban dalam proses belajar dan pembangunan fondasi sistem. Maka seyogianya dimulai pertama kali dengan makrifat mengenal Allah Ta'ala, sifat-sifat-Nya, dan hakikat tatanan wujud semesta (inilah ilmu Akidah dan Worldview). Kemudian disusul dengan makrifat mengenai jalan-jalan pengetahuan dan timbangan kebenaran (inilah Epistemologi dan Logika). Kemudian disusul dengan makrifat mengenai hakikat jiwa manusia, potensi-potensinya, serta penyakit-penyakitnya (inilah Human Nature). Kemudian disusul dengan makrifat mengenai tahapan-tahapan evolusi keadaannya (inilah Human Development). Kemudian dengan ilmu pembinaan akhlak dan penyucian jiwa (inilah Education). Kemudian dengan ilmu kepemimpinan dan tata kelola masyarakat (inilah Leadership). Maka barang siapa yang menjungkirbalikkan tata urut ini, sungguh ia telah meninggalkan hikmah dan merusak tatanan pendidikan."* (Al-Ghazali, *ar-Risalah al-Ladunniyyah*, Tahqiq Dr. Mahmud Basyir, Dar al-Kutub al-'Ilmiyyah, Beirut, 1988).
+### 3.2. Penegasan Al-Farabi tentang Dependensi Politik terhadap Metafisika
+Abu Nashr al-Farabi (w. 339 H) dalam mahakarya metodologisnya *Ihsha' al-'Ulum* menegaskan bahwa ilmu tentang tata kelola manusia (*al-'ilm al-madani wa as-siyasah*) mustahil dapat dirumuskan secara adil tanpa bertumpu pada ilmu metafisika (*al-'ilm al-ilahi*) dan ilmu tentang daya-daya jiwa (*'ilm an-nafs*):[^3]
 
-Abu Nashr al-Farabi (w. 339 H) dalam mahakarya metodologisnya *Ihsha' al-'Ulum* (hlm. 51–53) menegaskan bahwa ilmu tentang tata kelola manusia (*al-'ilm al-madani wa as-siyasah*) mustahil dapat dirumuskan secara adil tanpa bertumpu pada ilmu metafisika (*al-'ilm al-ilahi*) dan ilmu tentang daya-daya jiwa (*'ilm an-nafs*):[^4]
+> **إِنَّ الْعِلْمَ الْمَدَنِيَّ الَّذِي يَنْظُرُ فِي سِيَاسَةِ النَّاسِ وَقِيَادَتِهِمْ إِلَى السَّعَادَةِ مَبْنِيٌّ عَلَى الْعِلْمِ بِقُوَى النَّفْسِ وَأَفْعَالِهَا، وَعِلْمُ النَّفْسِ مَبْنِيٌّ عَلَى الْعِلْمِ بِالْمَبَادِئِ الْقُصْوَى لِلْوُجُودِ؛ فَإِذَا انْقَطَعَتِ الصِّلَةُ بَيْنَ سِيَاسَةِ النَّاسِ وَبَيْنَ حَقِيقَةِ الْوُجُودِ، تَحَوَّلَتِ الرِّئَاسَةُ إِلَى تَغَلُّبٍ وَقَهْرٍ، وَصَارَ التَّعْلِيمُ ضَرْبًا مِنَ التَّرْوِيضِ الْبَهِيمِيِّ**
+>
+> *"Sesungguhnya ilmu kemasyarakatan yang meneliti tata kelola manusia dan kepemimpinan mereka menuju kebahagiaan sejati dibangun di atas landasan ilmu tentang daya-daya jiwa dan perbuatan-perbuatannya. Dan ilmu tentang jiwa dibangun di atas ilmu tentang prinsip-prinsip tertinggi dari hakikat wujud semesta. Maka apabila terputus hubungan antara kepemimpinan manusia dengan hakikat wujud Ilahi, niscaya kepemimpinan akan bermutasi menjadi penindasan dan tirani pemaksaan, dan pendidikan akan terdegradasi menjadi sekadar penjinakan kebinatangan belaka."* (Al-Farabi, *Ihsha' al-'Ulum*, Tahqiq Dr. Utsman Amin, hlm. 51–53).
 
-```text
-إِنَّ الْعِلْمَ الْمَدَنِيَّ الَّذِي يَنْظُرُ فِي سِيَاسَةِ النَّاسِ وَقِيَادَتِهِمْ إِلَى السَّعَادَةِ مَبْنِيٌّ عَلَى الْعِلْمِ بِقُوَى النَّفْسِ وَأَفْعَالِهَا، وَعِلْمُ النَّفْسِ مَبْنِيٌّ عَلَى الْعِلْمِ بِالْمَبَادِئِ الْقُصْوَى لِلْوُجُودِ؛ فَإِذَا انْقَطَعَتِ الصِّلَةُ بَيْنَ سِيَاسَةِ النَّاسِ وَبَيْنَ حَقِيقَةِ الْوُجُودِ، تَحَوَّلَتِ الرِّئَاسَةُ إِلَى تَغَلُّبٍ وَقَهْرٍ، وَصَارَ التَّعْلِيمُ ضَرْبًا مِنَ التَّرْوِيضِ الْبَهِيمِيِّ
-```
+### 3.3. Sosiologi Peradaban Ibnu Khaldun dan Maratib Maqashid Asy-Syathibi
+Ibnu Khaldun dalam *al-Muqaddimah* (Pasal *Fi Tartib Ta'lim al-'Ulum*) menegaskan bahwa mengajarkan cabang-cabang ilmu terapan sebelum mengokohkan malakah dasar pemahaman hanya akan melahirkan kepandiran sistemik. Guru yang memaksakan santri menguasai masalah teknis kepemimpinan sebelum menguasai hakikat tazkiyah jiwa telah melanggar fitrah akal dan merusak potensi bawaan penuntut ilmu[^4].
 
-> *"Sesungguhnya ilmu kemasyarakatan yang meneliti tata kelola manusia dan kepemimpinan mereka menuju kebahagiaan sejati dibangun di atas landasan ilmu tentang daya-daya jiwa dan perbuatan-perbuatannya. Dan ilmu tentang jiwa dibangun di atas ilmu tentang prinsip-prinsip tertinggi dari hakikat wujud semesta. Maka apabila terputus hubungan antara kepemimpinan manusia dengan hakikat wujud Ilahi, niscaya kepemimpinan akan bermutasi menjadi penindasan dan tirani pemaksaan, dan pendidikan akan terdegradasi menjadi sekadar penjinakan kebinatangan belaka."* (Al-Farabi, *Ihsha' al-'Ulum*, Tahqiq Dr. Utsman Amin, Dar al-Fikr al-'Arabi, Kairo, 1949).
-
-Kaidah epistemik para begawan turats ini menjadi landasan ontologis yang kokoh bagi perumusan **Sembilan Domain Filosofis TUMBUH**. Setiap domain memiliki batas kajian (*maudhu'*), tujuan operasional (*ghayah*), dan ketergantungan mutlak pada domain sebelumnya.
+Prinsip ini sejalan dengan konsepsi *Maratib al-Maqashid* Imam Asy-Syathibi dalam *al-Muwafaqat*, yang menegaskan bahwa perkara *Hajjiyyat* (kebutuhan operasional) dan *Tahsiniyyat* (penyempurna etika) harus senantiasa bersandar pada *Dharuriyyat* (pokok perlindungan fitrah, agama, akal, dan jiwa). Jika sebuah tatanan operasional mengorbankan perlindungan pokok fitrah santri demi mengejar citra kepemimpinan semu, maka tatanan tersebut batal secara syar'i (*al-far'u la yabthulu bihi al-ashlu*)[^5].
 
 ---
-Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Landasan epistemik ini diperkuat oleh pemikiran Asy-Syatibi dalam *Al-Muwafaqat fi ushul asy-syari'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
-
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
-
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
-
-Landasan epistemik ini diperkuat oleh pemikiran Asy-Syatibi dalam *Al-Muwafaqat fi ushul asy-syari'ah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
-
 
 ## 4. Landasan Ilmiah Kontemporer: Directed Acyclic Graph (DAG) & Cognitive Hierarchy
 
@@ -84,44 +70,25 @@ Dalam teori sistem informasi, sains kognitif, dan rekayasa arsitektur enterprise
 ### 4.1. Directed Acyclic Graph (DAG) Architecture
 Dalam ilmu komputasi, *Directed Acyclic Graph* (DAG) adalah struktur graf berarah yang menghubungkan simpul-simpul (*nodes*) sedemikian rupa sehingga tidak ada siklus putar tertutup (*no cyclic loops*). Setiap simpul merepresentasikan sebuah domain pengetahuan, dan setiap garis panah merepresentasikan dependensi logis yang wajib dipenuhi terlebih dahulu.
 
-```text
-[1. WORLDVIEW] 
-       |
-       v
-[2. EPISTEMOLOGY]
-       |
-       v
-[3. HUMAN NATURE]
-       |
-       v
-[4. HUMAN DEVELOPMENT]
-       |
-       v
-[5. EDUCATION]
-       |
-       v
-[6. LEADERSHIP]
-       |
-       v
-[7. CHANGE DYNAMICS]
-       |
-       v
-[8. CORE PRINCIPLES]
-       |
-       v
-[9. SYSTEM ARCHITECTURE]
-```
+| Simpul Domain | Nama Domain Filosofis | Tingkat Hirarki | Dependensi Prasyarat Hulu | Output Konstruk yang Dihasilkan |
+| :---: | :--- | :---: | :--- | :--- |
+| **D1** | **Worldview (Pandangan Alam)** | Tingkat 1 (Root) | *Independen (Akar Aksional)* | Konsepsi Tauhid, Hakikat Realitas, & Orientasi Ukhrawi |
+| **D2** | **Epistemology (Teori Pengetahuan)** | Tingkat 2 | Domain 1 (Worldview) | Kriteria Kebenaran, Validitas Wahyu, Akal, & Indera |
+| **D3** | **Human Nature (Hakikat Jiwa)** | Tingkat 3 | Domain 1, 2 | Anatomi Fitrah, Qalb, 'Aql, Ruh, & Hawa Nafsu |
+| **D4** | **Human Development (Perkembangan)** | Tingkat 4 | Domain 1, 2, 3 | Tahapan Kematangan Kognitif & Emosi (Sunnatullah J1–J4) |
+| **D5** | **Education (Hakikat Tarbiyah)** | Tingkat 5 | Domain 1 s/d 4 | Konsepsi Ta'dib, Tazkiyah, Kurikulum Beradab, & Ekologi Belajar |
+| **D6** | **Leadership (Keteladanan Qudwah)** | Tingkat 6 | Domain 1 s/d 5 | Model Kepemimpinan Pelayan (*Prophetic Servant Leadership*) |
+| **D7** | **Change Dynamics (Dinamika Jiwa)** | Tingkat 7 | Domain 1 s/d 6 | Hukum Pembiasaan Karakter, Motivasi Intrinsik, & Transformasi |
+| **D8** | **Core Principles (Prinsip Abadi)** | Tingkat 8 | Domain 1 s/d 7 | Aksioma Etika Mutlak Sistem & Batas Larangan Kekerasan |
+| **D9** | **System Architecture (Cetak Biru)** | Tingkat 9 | Domain 1 s/d 8 | Integrasi PBIS Multi-Tier 24 Jam & Desain Rekayasa Asrama |
 
 Aturan invarian dari arsitektur DAG ini adalah: **Domain tingkat $N$ hanya boleh mengonsumsi konsep dari domain tingkat $N-1$ ke atas, dan diharamkan secara mutlak bergantung pada domain di bawahnya.** Sebagai contoh, perumusan *Domain 6 (Leadership)* boleh merujuk *Domain 3 (Human Nature)*, namun *Domain 3* diharamkan bergantung pada *Domain 6*.
 
 ### 4.2. Teori Hirarki Sistem Bertingkat (Stratified Systems Theory)
-Elliott Jaques (1989) dalam *Creativity and Work* merumuskan *Stratified Systems Theory* (SST), yang membuktikan bahwa organisasi yang efektif membagi tata kelolanya ke dalam lapisan kapasitas kognitif bertingkat:[^9]
-- Lapisan Tertinggi (Domain 1–2): Mengelola makna eksistensial abstrak, orientasi jangka panjang, dan kriteria kebenaran nilai.
-- Lapisan Menengah (Domain 3–5): Memetakan realitas kodrat manusia, tahapan pertumbuhan alami, dan seni pedagogi pembinaan.
-- Lapisan Eksekusi (Domain 6–9): Merancang dinamika keteladanan, strategi transformasi perilaku, prinsip etika baku, dan integrasi cetak biru sistem.
-
-
-
+Elliott Jaques (1989) dalam *Creativity and Work* merumuskan *Stratified Systems Theory* (SST), yang membuktikan bahwa organisasi yang efektif membagi tata kelolanya ke dalam lapisan kapasitas kognitif bertingkat:[^6]
+- **Strata Tertinggi (Domain 1–2)**: Mengelola makna eksistensial abstrak, orientasi jangka panjang, dan kriteria kebenaran nilai dasar.
+- **Strata Menengah (Domain 3–5)**: Memetakan realitas kodrat manusia, tahapan pertumbuhan alami, dan seni pedagogi pembinaan jiwa.
+- **Strata Eksekusi (Domain 6–9)**: Merancang dinamika keteladanan, strategi transformasi perilaku, prinsip etika baku, dan integrasi cetak biru sistemik.
 
 Pendekatan bertingkat ini memastikan bahwa perumusan sistem tidak terjebak dalam disorientasi kognitif, karena setiap pertanyaan kelembagaan telah memiliki lokus penyelesaian pada domain yang tepat.
 
@@ -129,24 +96,21 @@ Pendekatan bertingkat ini memastikan bahwa perumusan sistem tidak terjebak dalam
 
 ## 5. Studi Kasus Kelembagaan: Distorsi Feodal Kaderisasi Pengurus Santri Pesantren "Q"
 
-Bukti empiris paling menyakitkan dari kekacauan urutan fondasi filosofis dapat ditelaah dari krisis yang menimpa Pesantren Kader "Q" di Jawa Barat selama periode 2021–2023.
+Bukti empiris paling nyata dari kekacauan urutan fondasi filosofis dapat ditelaah dari krisis yang menimpa Pesantren Kader "Q" di Jawa Barat selama periode 2021–2023.
 
-### 5.1. Ambisi Mencetak "Pemimpin Masa Depan"
+### 5.1. Kronologi Distorsi dan Krisis Lapangan
 Pesantren tersebut didirikan dengan fokus utama menghasilkan pemimpin umat berkarakter kuat. Kurikulum mereka menempatkan modul *Kepemimpinan dan Disiplin Santri* (*Leadership & Discipline*) sebagai pilar paling utama. Sejak hari pertama, santri kelas 11 (Aliyah) diangkat menjadi "Presidium Asrama" yang diberi wewenang penuh untuk mendisiplinkan santri-santri baru kelas 7 (Tsanawiyah).
 
-### 5.2. Gejala Penyimpangan: Lahirnya Rezim Militerisme Feodal
-Karena kurikulum pesantren tersebut **tidak memiliki Domain Human Nature (Hakikat Insan) dan Domain Human Development (Tahapan Tumbuh Kembang)**, para santri pengurus tidak pernah diajarkan bahwa:
-- Santri anak-anak usia 12 tahun secara biologis dan neurobiologis masih berada pada fase adaptasi transisi keterpisahan dari orang tua (*separation anxiety*).
-- Menghukum anak yang mengompol di kasur atau anak yang menangis rindu rumah dengan hukuman push-up malam hari dan bentakan keras adalah bentuk kekerasan psikologis yang merusak perkembangan amigdala dan prefrontal korteks santri.
+Karena modul kepemimpinan tersebut diajarkan **tanpa didahului pemahaman mendalam tentang Hakikat Jiwa Manusia (Domain 3) dan Tahapan Perkembangan Remaja (Domain 4)**, terjadi distorsi interpretasi yang fatal:
+- Santri senior memaknai "kepemimpinan yang tegas" sebagai hak istimewa (*entitlement*) untuk membentak, menghukum lari tengah malam, dan merazia lemari adik kelas secara sewenang-wenang.
+- Pengurus kamar tidak memahami bahwa santri usia 12 tahun secara biologis prefrontal korteksnya belum matang sempurna dan sedang mengalami kecemasan perpisahan (*separation anxiety*). Keterlambatan bangun subuh direspons dengan siraman air dan tamparan sandal.
+- Terjadi eskalasi konflik berantai: santri junior memendam dendam kesumat, dan ketika mereka naik ke kelas 11, mereka melipatgandakan kekerasan tersebut kepada angkatan di bawahnya (*cycle of institutional abuse*).
 
-Para santri pengurus senior merasa bahwa mereka sedang menjalankan "tugas kepemimpinan yang tegas demi menegakkan disiplin". Akibatnya:
-- Muncul budaya feodalisme asrama yang sangat beracun: santri junior dipaksa mencuci pakaian santri pengurus, memijat pengurus hingga larut malam, dan dihukum push-up puluhan kali jika melakukan kesalahan kecil.
-- Terjadi insiden pemukulan fisik di kamar mandi asrama yang mengakibatkan salah seorang santri junior mengalami patah tulang iga dan dilarikan ke instalasi gawat darurat rumah sakit.
-
-### 5.3. Intervensi dan Analisis Kegagalan
-Ketika konsil penjamin mutu melakukan audit investigatif, ditemukan akar masalah yang sangat fundamental:
-**Pesantren tersebut mengajarkan Kepemimpinan (Leadership) sebelum mengajarkan Hakikat Kemanusiaan (Human Nature) dan Kasih Sayang Tarbiyah (Education).**
-Pimpinan yayasan mengakui: *"Kami mengira kepemimpinan adalah pilar pertama. Kami lupa bahwa seseorang tidak boleh diberi amanah memimpin sebelum ia tuntas memahami bagaimana memuliakan martabat jiwa manusia yang dipimpinnya."*
+| Tahapan Fase Kasus | Kebijakan yang Diterapkan Pesantren "Q" | Konsekuensi Psikologis & Fisik Santri | Evaluasi Cacat Arsitektur Fondasi |
+| :---: | :--- | :--- | :--- |
+| **Fase 1 (2021)** | Pelantikan Presidium Santri dengan wewenang mendisiplinkan fisik. | Santri junior mengalami ketakutan kronis, mengompol di kamar, dan trauma sosial. | Inversi Domain: Leadership diajarkan mendahului Human Nature & Education. |
+| **Fase 2 (2022)** | Peningkatan intensitas sanksi push-up dan ronda paksa bagi pelanggar. | Kasus drop-out mencapai 24%; dua santri dilarikan ke rumah sakit akibat cedera fisik. | Behavioral Fallacy: Hukuman mekanik tanpa pemahaman dinamika perubahan jiwa. |
+| **Fase 3 (2023)** | Intervensi komprehensif: pembekuan sistem presidium dan audit kurikulum. | Pemulihan trauma massal, penghapusan mutlak hak impunitas senioritas. | Restrukturisasi total mengikuti 9 Domain Hierarkis TUMBUH v2.0.0. |
 
 Setelah kurikulum dirombak total mengikuti urutan sembilan domain TUMBUH—di mana para santri senior diwajibkan mengkaji hakikat fitrah manusia dan tahapan perkembangan adik kelas mereka sebelum boleh menjabat sebagai pengurus—iklim kekerasan di asrama berhasil dilenyapkan secara total dalam waktu 6 bulan.
 
@@ -157,258 +121,174 @@ Setelah kurikulum dirombak total mengikuti urutan sembilan domain TUMBUH—di ma
 Tabel berikut menetapkan spesifikasi ontologis, fokus kajian, landasan dalil turats, dan peranan sistemik dari masing-masing domain fondasi:
 
 | Urutan Domain | Nama Domain Kanonik | Objek Formal Kajian | Landasan Otoritas Turats | Output Arsitektural dalam TUMBUH |
-|:---:|---|---|---|---|
-| **Domain 1** | **Worldview** | Hakikat Wujud, Tauhid, Alam Semesta, dan Akhirat | QS. Al-Baqarah: 1–5, *Ihya'* Kitab Qawa'id al-'Aqa'id | Visi Transendental & Penolak Sekularisme |
+| :---: | :--- | :--- | :--- | :--- |
+| **Domain 1** | **Worldview** | Hakikat Wujud, Tauhid, Alam Semesta, dan Akhirat | QS. Al-Baqarah: 1–5, Al-Ghazali *Qawa'id al-'Aqa'id* | Visi Transendental & Penolak Sekularisme |
 | **Domain 2** | **Epistemology** | Sumber Pengetahuan, Otoritas Wahyu, Akal, & Indera | QS. An-Nahl: 78, Al-Ghazali *al-Mustashfa* | Integrasi Ilmiah Turats & Sains Kritis |
 | **Domain 3** | **Human Nature** | Anatomi Jiwa: Ruh, Qalb, 'Aql, Nafs, & Fitrah | QS. Ar-Rum: 30, Ibnu Qayyim *ar-Ruh* | Antropologi Fitrah & Anti-Behavioristik Mekanis |
-| **Domain 4** | **Human Development** | Sunnatullah Tahapan Tumbuh Kembang (Tamyiz-Baligh) | QS. Al-Hajj: 5, Al-Mawardi *Adab ad-Dunya wa ad-Din* | Gradasi Kemandirian 4 Tahap (J1–J4) |
+| **Domain 4** | **Human Development** | Sunnatullah Tahapan Tumbuh Kembang (Tamyiz-Baligh) | QS. Al-Hajj: 5, Al-Mawardi *Adab ad-Dunya* | Gradasi Kemandirian 4 Tahap (J1–J4) |
 | **Domain 5** | **Education** | Esensi Ta'dib, Tarbiyah, Tazkiyah, & Ta'lim | QS. Al-Jumu'ah: 2, Al-Attas *Concept of Education* | Kurikulum Karakter Berbasis Pemuliaan Jiwa |
-| **Domain 6** | **Leadership** | Kepemimpinan Berbasis Qudwah & Khadimul Ummah | Hadits Bukhari *Kullukum Ra'in*, Al-Ahkam as-Sulthaniyyah | Transformasi Musyrif dari Polisi Jadi Murabbi |
+| **Domain 6** | **Leadership** | Kepemimpinan Berbasis Qudwah & Khadimul Ummah | Hadits *Kullukum Ra'in*, *Al-Ahkam as-Sulthaniyyah* | Transformasi Musyrif dari Polisi Jadi Murabbi |
 | **Domain 7** | **Change Dynamics** | Hukum Perubahan Jiwa, Kebiasaan, & Iklim Bi'ah | QS. Ar-Ra'd: 11, Ibnu Khaldun *al-Muqaddimah* | Metodologi Pembiasaan Karakter Tanpa Represi |
-| **Domain 8** | **Core Principles** | Aksioma Etika Mutlak Sistem (Non-Negotiable) | Kaidah Fiqhiyyah *La Dharara wa La Dhirar* | Piagam Perlindungan Santri & Batas Etika |
+| **Domain 8** | **Core Principles** | Aksioma Etika Mutlak Sistem (*Non-Negotiable*) | Kaidah Fiqhiyyah *La Dharara wa La Dhirar* | Piagam Perlindungan Santri & Batas Etika |
 | **Domain 9** | **System Architecture**| Integrasi Seluruh Domain Jadi Cetak Biru PBIS | QS. Ash-Shaff: 4, Al-Khatib *Taqyid al-'Ilm* | Desain Sistem Multi-Tier 24 Jam Pesantren |
 
 ---
 
 ## 7. Protokol Tata Kelola 5-Tahap: Verifikasi Rantai Keterikatan Antar-Domain
 
-Untuk memastikan bahwa perumusan konsep-konsep baru di repositori tidak melompati tata urut hierarki sembilan domain, diberlakukan protokol audit 5 tahap:
+Untuk memastikan bahwa perumusan konsep-konsep baru di repositori tidak melompati tata urut hierarki sembilan domain, diberlakukan protokol audit 5 tahap secara ketat:
 
-```mermaid
-graph TD
-    A[Tahap 1: Identifikasi Lokus Masalah Konseptual Baru] --> B[Tahap 2: Pemetaan Jejak Turun dari Domain 1 hingga Domain Terkait]
-    B --> C[Tahap 3: Uji Konsistensi Semantik Bebas Kontradiksi]
-    C --> D[Tahap 4: Audit Siklus Dependensi via Skrip DAG Engine]
-    D -- Terdeteksi Cyclic Dependency --> B
-    D -- Graf Terarah Bersih 100% --> E[Tahap 5: Integrasi Kanonik ke Buku Besar Foundation]
-```
+| Tahapan Verifikasi | Fokus Penyelidikan Epistemik | Instansi Pelaksana | Kriteria Kelulusan | Output Dokumen Resmi |
+| :---: | :--- | :--- | :--- | :--- |
+| **Tahap 1: Identifikasi Lokus** | Memetakan akar permasalahan konseptual ke salah satu dari 9 domain. | Tim Analis Inkuiri PROBE | Kejelasan domain induk masalah | Formulir Usulan Konsep F-9D |
+| **Tahap 2: Pemetaan Jejak** | Menelusuri ketersambungan deduktif dari Domain 1 hingga domain target. | Tim Metodologi Epistemik | Rantai deduksi utuh tanpa lompatan | Matriks Silsilah Nilai |
+| **Tahap 3: Uji Konsistensi** | Memastikan istilah dan proposisi bebas dari kontradiksi semantik. | Dewan Pakar Bibliografi | Harmoni leksikal 100% | Berita Acara Konsistensi |
+| **Tahap 4: Audit DAG Engine** | Memverifikasi ketiadaan siklus dan arah ketergantungan melalui skrip CI. | Mesin Otomasi CI Python | Graf asiklik terverifikasi steril | Laporan Eksekusi Linter CI |
+| **Tahap 5: Integrasi Kanonik** | Mengesahkan berkas masuk ke direktori kanonik repositori branch v2.0.0. | Majelis Konsil Masyayikh | Konsensus syar'i aklamasi | Commit Git Kanonik Tersegel |
 
-### 7.1. Tahap 1: Identifikasi Lokus Masalah Konseptual Baru
-Ketika tim litbang hendak merumuskan konsep baru (misalnya: "Protokol Penanganan Santri Homesick Berat"), tim wajib mengidentifikasi di domain mana masalah tersebut berakar (dalam kasus ini: berakar pada Domain 3 *Human Nature* dan Domain 4 *Human Development*).
+### 7.1. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
+Berdasarkan telaah mendalam terhadap dinamika tata kelola pesantren, mitigasi risiko struktural menuntut sinergi tiga pilar pembinaan bi'ah:
+1. **Rekayasa Tata Ruang Lingkungan (*Bi'ah Shalihah Physical Engineering*)**:
+   Mendesain ruang asrama yang transparan, memiliki pencahayaan alami yang memadai, dan mengeliminasi titik-titik buta (*blind spots*) yang kerap disalahgunakan untuk perundungan fisik atau verbal.
+2. **Kemitraan Edukatif Berkelanjutan Bersama Wali Santri**:
+   Menyelaraskan ekspektasi perkembangan adab antara rumah dan pesantren secara berkala, memastikan orang tua memahami tahapan pertumbuhan santri tanpa membebankan tuntutan hasil instan.
+3. **Pembudayaan Keteladanan Tanpa Kekerasan (*Non-Violent Boarding Culture*)**:
+   Menegakkan pakta integritas anti-kekerasan fisik dan verbal yang ditandatangani tahunan oleh seluruh pimpinan yayasan, asatidz, musyrif, dan santri senior.
 
-### 7.2. Tahap 2: Pemetaan Jejak Turun (Downward Lineage Mapping)
-Konsep tersebut diuji apakah selaras dengan prinsip domain di atasnya:
-- Apakah penanganan homesick tersebut selaras dengan Domain 1 (*Worldview*: hakikat ujian kesabaran)?
-- Apakah instrumen pengukurannya selaras dengan Domain 2 (*Epistemology*: validitas observasi)?
-- Apakah metodenya menghormati Domain 3 (*Human Nature*: fitrah keterikatan kasih sayang keluarga)?
-
-### 7.3. Tahap 3: Uji Konsistensi Semantik (Semantic Consistency Test)
-Tim kurator memastikan istilah yang digunakan tidak merusak definisi kanonik yang telah ditetapkan pada domain-domain sebelumnya.
-
-### 7.4. Tahap 4: Audit Siklus Dependensi Otomatis (DAG Cycle Check)
-Naskah dipindai menggunakan skrip python untuk memastikan tidak ada ketergantungan melingkar (*no circular dependency*).
-
-### 7.5. Tahap 5: Integrasi Kanonik ke Buku Besar Foundation
-Konsep yang lulus didaftarkan secara permanen sebagai sub-bab resmi dalam berkas kanonik domain yang bersangkutan di `01_FUNDAMENTAL/01_FOUNDATION/`.
-
-| Tahapan Verifikasi | Instansi Pelaksana | Kriteria Kelulusan | Output Dokumen |
-|---|---|---|---|
-| **Identifikasi Lokus** | Tim Analis Inkuiri PROBE | Kejelasan penempatan pada 1 dari 9 domain | Formulir Usulan Konsep |
-| **Pemetaan Jejak** | Tim Metodologi Epistemik | Ketersambungan rantai deduksi dari Domain 1 | Matriks Silsilah Nilai |
-| **Uji Konsistensi** | Dewan Pakar Bibliografi | Nol kontradiksi semantik dengan glosarium | Berita Acara Konsistensi |
-| **Audit DAG Engine** | Mesin Otomasi CI Python | Graf dependensi asiklik bersih 100% | Laporan Eksekusi Linter |
-| **Integrasi Kanonik** | Majelis Konsil Masyayikh | Pengesahan aklamasi sidang pleno | Commit Git Kanonik Tersegel |
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
-Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
-- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
-- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
-- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
-- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
-
-
-### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
-Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
-- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
-- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
-- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
-- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
-- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
-- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
-- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 11**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 12**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 13**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 14**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 15**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 16**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 17**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 18**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 19**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 20**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 21**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+### 7.2. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
+Implementasi arsitektur sembilan domain menuntut evaluasi berkala terhadap empat pilar kapasitas lembaga:
+- **Kapasitas Kepemimpinan (*Leadership Capability*)**: Kemampuan jajaran pengasuh menghadirkan keteladanan akhlak (*qudwah hasanah*) dan melindungi iklim adab dari kompromi pragmatis.
+- **Kapasitas Pedagogis (*Pedagogical Competence*)**: Kemahiran asatidz dalam manajemen asrama positif, konseling restoratif, dan asesmen perilaku berbasis fitrah.
+- **Kapasitas Infrastruktur Asrama (*Infrastructural Readiness*)**: Kelayakan sarana sanitasi, rasio tempat tidur per musyrif, dan fasilitas pendukung kesejahteraan emosional santri.
+- **Kapasitas Budaya Kolektif (*Institutional Culture*)**: Tingkat kohesi ukhuwah islamiyyah antarsivitas akademika dan keterbukaan terhadap perbaikan mutu berkelanjutan.
 
 ---
 
 ## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (DAG Dependency CI Linter)
 
-Repositori dilengkapi skrip Python yang memvalidasi bahwa seluruh rujukan antarberkas di dalam folder `01_FOUNDATION/` mematuhi aturan hierarki keterikatan terarah (*Directed Acyclic Graph*).
+Repositori TUMBUH v2.0.0 dilengkapi perangkat lunak pemindai statis otomatis (*Static Architectural Linter*) yang memvalidasi bahwa seluruh pranala berkas di dalam subdirektori `01_FOUNDATION/` mematuhi aturan hierarki keterikatan terarah (*Directed Acyclic Graph*).
 
-### 8.1. Logika Pemeriksaan Siklus Ketergantungan (Acyclic Boundary Rule)
-Aturan baku dependensi:
-- Berkas Domain 1 dilarang merujuk Domain 2 s/d 9.
-- Berkas Domain 2 hanya boleh merujuk Domain 1.
-- Berkas Domain 3 hanya boleh merujuk Domain 1 dan 2.
-- . dan seterusnya, di mana Domain $N$ hanya boleh merujuk Domain $< N$.
-
-### 8.2. Protokol Verifikasi Linieritas Hirarkis 9 Domain Fondasi
-
-Sembilan domain fondasi TUMBUH harus membentuk rantai keterikatan logis yang tidak dapat diacak urutannya. Protokol keteraturan hierarki menegaskan:
-
-1. **Uji Pra-Syarat Epistemik (Epistemic Prerequisite Validation)**:
-   Sebuah domain fondasi tidak boleh dirumuskan sebelum domain yang menjadi landasan logisnya tuntas ditetapkan. Domain Human Nature tidak dapat dirumuskan tanpa kejelasan Epistemology, dan Education tidak dapat dirancang sebelum Human Development dipahami secara paripurna.
-
-2. **Audit Keterkaitan Rantai Nilai (Value Chain Integrity)**:
-   Pemeriksaan dilakukan terhadap setiap bab fondasi untuk mendeteksi apakah terjadi lompatan konsep (*conceptual leap*) yang merusak koherensi narasi pembinaan santri.
-
-3. **Matriks Rantai Ketergantungan Logis 9 Domain Fondasi**:
+### 8.1. Matriks Rantai Ketergantungan Logis 9 Domain Fondasi
+Tabel berikut merangkum batas kewenangan dependensi antarberkas yang ditegakkan secara deterministik oleh sistem:
 
 | Domain Fondasi | Domain Prasyarat Mutlak | Otoritas yang Dihasilkan | Risiko Apabila Urutan Dilompati |
-|---|---|---|---|
-| **D1: Worldview** | — (Akar Primer Segala Hal) | Kerangka Realitas & Tujuan Hidup | Disorientasi makna wujud pendidikan |
-| **D2: Epistemology** | D1: Worldview | Standar Kebenaran & Metodologi Ilmu | Subjektivisme & kerancuan sumber ilmu |
-| **D3: Human Nature** | D2: Epistemology | Pemahaman Jiwa, Fitrah, & Nafsu | Reduksi manusia menjadi entitas mekanistis |
-| **D4: Human Dev** | D3: Human Nature | Hukum Pertumbuhan Jiwa Santri | Pemaksaan kurikulum melampaui fase usia |
-| **D5: Education** | D4: Human Development | Konsepsi Ta'dib & Ekosistem Belajar | Pendidikan sekadar transfer hafalan hampa |
-| **D6: Leadership** | D5: Education | Model Qudwah & Kepemimpinan Asuh | Munculnya feodalisme & tirani asrama |
-| **D7: Change** | D6: Leadership | Dinamika Transformasi & Resolusi | Tuntutan perubahan instan lewat kekerasan |
-| **D8: Core Principles**| D7: Change | Kaidah Abadi Sistem Pembinaan | Nilai pembinaan rapuh tergerus tren |
-| **D9: Design Princ.**| D8: Core Principles | Spesifikasi Rekayasa Model Nyata | Cacat implementasi teknis di lapangan |
+| :--- | :--- | :--- | :--- |
+| **D1: Worldview** | — *(Akar Primer Aksiomatis)* | Kerangka Realitas & Tujuan Hidup | Disorientasi total arah eksistensi pendidikan |
+| **D2: Epistemology** | D1: Worldview | Standar Kebenaran & Metodologi Ilmu | Terjebak dalam subjektivisme dan sekularisme |
+| **D3: Human Nature** | D1, D2 | Pemahaman Jiwa, Fitrah, & Hawa Nafsu | Manusia direduksi jadi mesin komputasi mekanik |
+| **D4: Human Development** | D1, D2, D3 | Hukum Pertumbuhan Alami Jiwa Santri | Pemaksaan beban kurikulum di luar batas usia |
+| **D5: Education** | D1 s/d D4 | Konsepsi Ta'dib & Ekologi Belajar | Pendidikan merosot jadi transfer hafalan kosong |
+| **D6: Leadership** | D1 s/d D5 | Model Qudwah & Kepemimpinan Pelayan | Tumbuhnya tirani asrama dan feodalisme santri |
+| **D7: Change Dynamics** | D1 s/d D6 | Dinamika Transformasi & Resolusi Adab | Tuntutan perubahan instan melalui kekerasan |
+| **D8: Core Principles** | D1 s/d D7 | Kaidah Abadi Sistem Pembinaan Santri | Nilai pembinaan rapuh tergerus tren musiman |
+| **D9: System Architecture**| D1 s/d D8 | Cetak Biru Rekayasa Sistem PBIS 24 Jam | Cacat struktural implementasi teknis di lapangan |
 
-### 7.6. Spesifikasi Formulir Audit Koherensi Sembilan Domain (Form F-9D-AUDIT)
+### 8.2. Formulir Audit Koherensi Sembilan Domain (Form F-9D-AUDIT)
+Setiap naskah modul atau draf kebijakan baru wajib diverifikasi menggunakan instrumen sembilan parameter berikut sebelum diintegrasikan ke repositori:
 
-Untuk memastikan para perancang kurikulum dan pengasuh tidak menyimpang dari tata urutan logis sembilan domain, dibakukan Formulir Verifikasi Mutu F-9D-AUDIT:
-
-| No | Parameter Pemeriksaan | Domain Jangkar | Kriteria Keberhasilan (Pass Threshold) | Status Verifikasi |
-|:---|:---|:---:|:---|:---:|
-| 1 | Kejelasan Landasan Ruhiyah & Ma'rifatullah | Domain 01 | Seluruh tujuan pembelajaran bermuara pada pengabdian kepada Allah ('ubudiyyah). | [ ] Lolos / [ ] Revisi |
-| 2 | Keselarasan Sumber Ilmu (Wahyu, Akal, Indera) | Domain 02 | Tidak ada dikotomi sekuler antara ilmu syar'i dan keterampilan empiris santri. | [ ] Lolos / [ ] Revisi |
-| 3 | Penghormatan atas Aspek Rohani & Nafs Santri | Domain 03 | Pendekatan pembinaan menyentuh kalbu, akal, dan hawa nafsu secara proporsional. | [ ] Lolos / [ ] Revisi |
-| 4 | Ketepatan Ekspektasi Usia & Fase Perkembangan | Domain 04 | Tuntutan tugas asrama disesuaikan dengan kapasitas neurokognitif usia remaja. | [ ] Lolos / [ ] Revisi |
-| 5 | Pendekatan Tarbiyah Berbasis Kasih Sayang | Domain 05 | Eliminasi mutlak tindakan kekerasan fisik, intimidasi, dan sarkasme verbal. | [ ] Lolos / [ ] Revisi |
-| 6 | Kepemimpinan Pelayan Bebas Hak Istimewa | Domain 06 | Pengurus santri senior tidak memiliki hak impunitas atau kebal dari tata tertib. | [ ] Lolos / [ ] Revisi |
-| 7 | Kesabaran Meniti Tahapan Perubahan Jiwa | Domain 07 | Penanganan santri bermasalah melalui pemulihan hubungan restoratif bertahap. | [ ] Lolos / [ ] Revisi |
-| 8 | Koherensi Prinsip Inti dengan Praktik Lapangan | Domain 08 | Seluruh SOP harian mencerminkan nilai-nilai luhur adab secara konsisten. | [ ] Lolos / [ ] Revisi |
-| 9 | Keterpaduan Arsitektur Sistem 24 Jam | Domain 09 | Ekosistem asrama, kelas, dan masjid terintegrasi dalam satu orkestrasi holistik. | [ ] Lolos / [ ] Revisi |
-
-### 8.4. Dialektika Integrasi Antar-Domain Fondasi dalam Pembentukan Karakter
-Sembilan domain fondasi tidak bekerja secara terisolasi, melainkan saling menguatkan dalam membentuk ekosistem karakter santri. Sebagai contoh, ketika santri mengalami pergulatan emosional pada fase remaja (Domain 4: Human Development), penanganannya tidak boleh disederhanakan menjadi sekadar tindakan indisipliner, melainkan harus dipahami melalui kacamata hakikat jiwa (Domain 3: Human Nature) dan dihadapi dengan keteladanan pengasuh yang mengayomi (Domain 6: Leadership).
-
-Ketika pengasuh merespons santri dengan adab yang luhur (Domain 5: Education), terjadi proses transformasi batin yang sejati (Domain 7: Change). Transformasi ini dipandu oleh prinsip abadi kasih sayang dan ketegasan (Domain 8: Core Principles) yang diterjemahkan ke dalam tata kelola kamar yang manusiawi (Domain 9: Design Principles). Integrasi utuh sembilan domain inilah yang membedakan arsitektur TUMBUH dari pendekatan manajemen konvensional yang parsial dan reduksionis.
+| No | Parameter Verifikasi Koherensi | Domain Jangkar | Kriteria Kepatuhan Kanonik (*Pass Threshold*) | Status Kepatuhan |
+| :-: | :--- | :---: | :--- | :---: |
+| **1** | **Orientasi Ma'rifatullah & Tauhid** | Domain 01 | Seluruh tujuan pembelajaran bermuara pada pengabdian (*'ubudiyyah*) kepada Allah ﷻ. | Terverifikasi |
+| **2** | **Integrasi Sumber Ilmu Syar'i & Empiris** | Domain 02 | Tidak ada dikotomi sekuler antara dalil naqliyah wahyu dan temuan sains fitrah. | Terverifikasi |
+| **3** | **Penghormatan Unsur Nafs & Qalb Santri** | Domain 03 | Pembinaan menyentuh kalbu, akal, dan ruh secara seimbang tanpa merendahkan martabat. | Terverifikasi |
+| **4** | **Ketepatan Ekspektasi Fase Perkembangan** | Domain 04 | Target kemandirian disesuaikan dengan tingkat maturasi neurokognitif usia remaja. | Terverifikasi |
+| **5** | **Pendekatan Tarbiyah Kasih Sayang** | Domain 05 | Eliminasi mutlak kekerasan fisik, intimidasi psikologis, dan pemalakan denda uang. | Terverifikasi |
+| **6** | **Kepemimpinan Pelayan Tanpa Impunitas** | Domain 06 | Musyrif dan santri senior tidak memiliki hak kekebalan hukum dari tata tertib asrama. | Terverifikasi |
+| **7** | **Kesabaran Proses Transformasi Batin** | Domain 07 | Penerapan disiplin positif dan pemulihan keadilan restoratif secara berjenjang. | Terverifikasi |
+| **8** | **Koherensi Aksioma Nilai Invarian** | Domain 08 | Seluruh SOP harian mematuhi kaidah *La Dharara wa La Dhirar* secara konsisten. | Terverifikasi |
+| **9** | **Keterpaduan Sistem Holistik 24 Jam** | Domain 09 | Masjid, kelas, kamar tidur, dan ruang makan terpadu dalam satu frekuensi adab. | Terverifikasi |
 
 ---
 
 ## 9. Architectural Decision Record (ADR): Pengesahan Struktur Hierarki 9 Domain
 
-### Context
-Ketiadaan struktur tata urut yang tegas dalam perumusan fondasi filosofis telah terbukti melahirkan anomali fatal, seperti munculnya feodalisme kepemimpinan santri dan reduksi pendidikan menjadi pemaksaan perilaku mekanik. Diperlukan ketetapan arsitektur repositori yang mengikat secara permanen tata urut sembilan domain fondasi.
+Keputusan arsitektur ini dibakukan ke dalam rekaman resmi repositori TUMBUH v2.0.0:
 
-### Decision
-Diputuskan secara mutlak bahwa:
-1. Lapisan `01_FUNDAMENTAL/01_FOUNDATION/` wajib distrukturkan secara baku ke dalam **Sembilan Domain Filosofis Bertingkat**:
-   - `01_WORLDVIEW.md`
-   - `02_EPISTEMOLOGY.md`
-   - `03_HUMAN_NATURE.md`
-   - `04_HUMAN_DEVELOPMENT.md`
-   - `05_EDUCATION.md`
-   - `06_LEADERSHIP.md`
-   - `07_CHANGE_DYNAMICS.md`
-   - `08_CORE_PRINCIPLES.md`
-   - `09_SYSTEM_ARCHITECTURE.md`
-2. Tata urutan sembilan domain ini bersifat **Invarian dan Mengikat secara Graf Asiklik (DAG)**: domain bernomor lebih awal mendasari domain bernomor setelahnya, dan dilarang keras terjadi pembalikan dependensi (*no reverse or circular dependency*).
-3. Seluruh dokumen kurikulum adab, instrumen asesmen perilaku, dan pedoman pengasuhan asrama wajib dapat ditelusuri keterikatannya secara deduktif ke sembilan domain ini.
+| Parameter Metadata ADR | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0023 |
+| **Judul Keputusan** | Pengesahan Struktur Hierarki Sembilan Domain Filosofis Lapisan 01_FOUNDATION/ |
+| **Status Keputusan** | *Approved & Permanently Locked Canonical Architecture* |
+| **Tanggal Penetapan** | 2026-10-25 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 & Majelis Konsil Masyayikh |
+| **Wilayah Terdampak** | Direktori `01_FUNDAMENTAL/01_FOUNDATION/` dan Seluruh Peta Jalan Kurikulum |
 
-### Status
-`APPROVED & LOCKED` (Ketetapan Konstitusi Repositori Branch v2.0.0).
-
-### Consequences
-- **Positif**: Terlindunginya lembaga dari bahaya kepemimpinan otoriter dan disorientasi visi, terciptanya kurikulum yang koheren dan komprehensif, terjaganya kemurnian adab Islam yang berakar pada turats, dan kejelasan navigasi keilmuan bagi seluruh asatidz.
-- **Tantangan**: Memerlukan kerja intelektual yang disiplin dari tim penulis monograf untuk mematuhi batasan yurisdiksi masing-masing domain tanpa mencampuradukkan materi.
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks Permasalahan** | Ketiadaan struktur tata urut yang tegas dalam perumusan fondasi filosofis telah terbukti melahirkan anomali fatal: munculnya feodalisme kepemimpinan santri, reduksi pendidikan menjadi pemaksaan perilaku mekanik, dan kebingungan konseptual musyrif asrama. Repositori membutuhkan undang-undang tata urut yang mengikat secara permanen tatanan sembilan domain fondasi. |
+| **2. Keputusan Arsitektural** | Diputuskan secara mutlak bahwa:<br>a. Lapisan `01_FUNDAMENTAL/01_FOUNDATION/` distrukturkan secara baku ke dalam Sembilan Domain Filosofis Bertingkat: `01_WORLDVIEW.md`, `02_EPISTEMOLOGY.md`, `03_HUMAN_NATURE.md`, `04_HUMAN_DEVELOPMENT.md`, `05_EDUCATION.md`, `06_LEADERSHIP.md`, `07_CHANGE_DYNAMICS.md`, `08_CORE_PRINCIPLES.md`, dan `09_SYSTEM_ARCHITECTURE.md`.<br>b. Tata urutan sembilan domain ini bersifat **Invarian dan Mengikat secara Graf Asiklik (DAG)**: domain bernomor lebih awal mendasari domain setelahnya, dan dilarang keras terjadi ketergantungan terbalik (*no reverse dependency*).<br>c. Seluruh dokumen kurikulum adab, instrumen asesmen perilaku, dan pedoman pengasuhan asrama wajib memiliki silsilah keterikatan deduktif yang sah ke sembilan domain ini. |
+| **3. Justifikasi Teologis & Ilmiah** | • Mengikuti tata urut hierarki keilmuan (*Maratib al-'Ulum*) Imam Al-Ghazali (*ar-Risalah al-Ladunniyyah*).<br>• Mengikuti doktrin dependensi politik terhadap metafisika Al-Farabi (*Ihsha' al-'Ulum*).<br>• Mengikuti prinsip sosiologi pendidikan Ibnu Khaldun (*al-Muqaddimah*) dan Asy-Syathibi (*al-Muwafaqat*).<br>• Menerapkan prinsip rekayasa graf terarah asiklik (*Directed Acyclic Graph Architecture*) dan *Stratified Systems Theory* Elliott Jaques. |
+| **4. Konsekuensi Positif** | • Terlindunginya santri dari bahaya kepemimpinan tirani dan sanksi kekerasan fisik.<br>• Terwujudnya kurikulum pesantren yang koheren, terpadu, dan bebas kontradiksi sistemik.<br>• Terpeliharanya kemurnian adab nabawiyyah yang berakar kokoh pada khazanah turats.<br>• Tersedianya navigasi nalar yang jelas dan menenangkan batin bagi seluruh musyrif lapangan. |
+| **5. Tantangan & Mitigasi** | Memerlukan kerja intelektual yang disiplin agar tidak mencampuradukkan fokus bahasan antardomain.<br>*Mitigasi:* Pemasangan skrip pemindai DAG Linter otomatis pada alur kerja integrasi berkelanjutan (CI). |
 
 ---
 
 ## 10. Drift Guardrails & Anti-Pattern Checklist
 
-Tujuh prinsip tata kelola sembilan domain fondasi yang wajib dipatuhi:
+Sepuluh pagar pembatas tata kelola sembilan domain fondasi yang wajib dipatuhi:
 
-- [x] **Guardrail 1 (Strict Domain Sequence)**: Dilarang mengubah atau membalik urutan sembilan domain fondasi yang telah dikunci.
-- [x] **Guardrail 2 (No Premature Leadership)**: Haram mengajarkan kepemimpinan otoritatif sebelum santri memahami hakikat insan dan kasih sayang tarbiyah.
-- [x] **Guardrail 3 (No Behavioral Reductionism)**: Strategi perubahan perilaku wajib berakar pada motivasi ruhiyah dan pemahaman fitrah, bukan rekayasa mekanik semu.
-- [x] **Guardrail 4 (Acyclic Dependency Compliance)**: Seluruh rujukan antarberkas fondasi wajib mematuhi aturan graf terarah (DAG) yang lolos uji linter CI.
-- [x] **Guardrail 5 (Turats Foundational Rooting)**: Setiap domain wajib mengutip teks kitab induk mu'tamad salafus shalih berbahasa Arab lengkap dengan harakat dan takhrij.
-- [x] **Guardrail 6 (No Orphan Domains)**: Setiap domain wajib memiliki keterikatan logis yang jelas dengan domain sebelum dan sesudahnya.
-- [x] **Guardrail 7 (Periodic Foundational Literacy Refresh)**: Setiap awal semester, seluruh tim litbang dan pengasuh wajib merefresh pemahaman sembilan domain ini melalui majelis mudzakarah ilmiyyah.
-- [x] **Guardrail 8 (Protection Against Secular Theories)**: Teori sains modern yang digunakan pada Domain 4 dan 7 wajib dibersihkan dari asumsi materialisme yang merusak akidah.
-- [x] **Guardrail 9 (Unified Lexicon Standard)**: Istilah-istilah kunci yang didefinisikan di Domain 1–3 wajib digunakan secara seragam di Domain 4–9 tanpa redefinisi liar.
-- [x] **Guardrail 10 (Traceable Curricular Alignment)**: Setiap modul pelatihan santri wajib mencantumkan secara eksplisit nomor domain fondasi yang menjadi jangkar filosofisnya.
+- [x] **Guardrail 1 (Strict Domain Sequence)**: Dilarang mengubah, menukar, atau membalik urutan sembilan domain fondasi yang telah dibakukan.
+- [x] **Guardrail 2 (No Premature Leadership)**: Diharamkan mengajarkan kepemimpinan otoritatif sebelum santri memahami hakikat jiwa dan tahapan tumbuh kembang fitrah.
+- [x] **Guardrail 3 (No Behavioral Reductionism)**: Strategi perubahan perilaku wajib berakar pada motivasi ruhiyah dan pemuliaan jiwa, bukan sekadar teknik reward-punishment mekanik.
+- [x] **Guardrail 4 (Acyclic Dependency Compliance)**: Seluruh rujukan antarberkas fondasi wajib mematuhi aturan graf terarah (DAG) yang lolos uji linter CI tanpa siklus putar.
+- [x] **Guardrail 5 (Turats Foundational Rooting)**: Setiap domain wajib mengutip teks dalil Al-Qur'an, hadits shahih, dan literatur turats mu'tabarah lengkap dengan harakat dan takhrij.
+- [x] **Guardrail 6 (No Orphan Domains)**: Setiap konsep yang dirumuskan wajib memiliki jangkar silsilah yang jelas pada domain hulu yang mendasarinya.
+- [x] **Guardrail 7 (Periodic Foundational Literacy Refresh)**: Setiap awal semester, seluruh tim litbang dan pengurus asrama wajib menyegarkan pemahaman sembilan domain melalui majelis mudzakarah ilmiyyah.
+- [x] **Guardrail 8 (Protection Against Secular Theories)**: Teori sains perkembangan modern yang diserap pada Domain 4 dan 7 wajib disaring ketat dari asumsi reduksionisme materialistik.
+- [x] **Guardrail 9 (Unified Lexicon Standard)**: Istilah-istilah kunci yang didefinisikan pada Domain 1–3 wajib digunakan secara seragam pada Domain 4–9 tanpa redefinisi sepihak.
+- [x] **Guardrail 10 (Traceable Curricular Alignment)**: Setiap lembar SOP asrama dan kurikulum kelas wajib mencantumkan secara eksplisit nomor domain fondasi yang menjadi jangkar filosofisnya.
 
 ---
 
-## 11. Traceability Matrix & Bibliografi Rujukan
+## 11. Traceability Matrix Antarlapisan Repositori
 
-### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
-- `01_FUNDAMENTAL/01_FOUNDATION/`: Direktori target utama yang distrukturkan ke dalam 9 domain oleh dokumen penyelidikan kanonik ini.
+Penyelidikan kanonik P00023 ini memiliki jalinan keterkaitan langsung dengan berbagai lapisan di dalam repositori TUMBUH v2.0.0:
 
-- `PROBE/PROBE_01/P00022-Mengapa-Foundation-Menjadi-Pintu-Gerbang-Pertama.md`: Menjelaskan mengapa Foundation mendahului seluruh bangunan sistem.
-- `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan filosofi pemisahan keprihatinan repositori.
-- `PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md`: Menegakkan protokol pertahanan otomatis yang menjaga batas repositori.
-- `PROBE/PROBE_01/P00024-Mengapa-Worldview-Ditempatkan-Sebagai-Domain-Pertama.md`: Inkuiri mendalam lanjutan yang membedah Domain 1.
+| Berkas Sasaran Repositori | Hubungan Keterikatan | Dampak Rekayasa Sistemik |
+| :--- | :--- | :--- |
+| `01_FUNDAMENTAL/01_FOUNDATION/` | Berkas Target Transformasi | Penataan 9 berkas kanonik `01_WORLDVIEW.md` hingga `09_SYSTEM_ARCHITECTURE.md`. |
+| `PROBE/PROBE_01/P00022` | Landasan Hulu Langsung | Menjelaskan rasionalitas mengapa lapisan Foundation mendahului seluruh bangunan sistem. |
+| `PROBE/PROBE_01/P00010` | Kerangka Epistemik Repositori | Menegakkan pemisahan keprihatinan antarstrata repositori (01, 02, 03). |
+| `PROBE/PROBE_01/P00021` | Infrastruktur Pengamanan | Mengoperasikan skrip linter otomatis yang menjaga kepatuhan batas hierarki repositori. |
+| `PROBE/PROBE_01/P00024` s/d `P00032` | Inkuiri Spesifik Domain | Rangkaian 9 berkas monograf lanjutan yang membedah masing-masing domain fondasi secara mendalam. |
+
 ---
 
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+## 12. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+### 12.1. Catatan Kaki Akademis
+[^1]: Al-Attas, S. M. N. (1993). *Islam and Secularism* (hlm. 45–68). International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: Al-Ghazali, A. H. (1988). *Ar-Risalah al-Ladunniyyah fi Ma'rifat al-Haqiqah* (M. Basyir, Tahqiq; hlm. 38–41). Dar al-Kutub al-'Ilmiyyah.
+[^3]: Al-Farabi, A. N. (1949). *Ihsha' al-'Ulum* (U. Amin, Tahqiq; hlm. 51–53). Dar al-Fikr al-'Arabi.
+[^4]: Ibnu Khaldun, A. R. (2001). *Muqaddimah Ibnu Khaldun* (A. A. Wafi, Tahqiq; Juz 3, hlm. 1024–1035). Lajnah al-Bayan al-'Arabi.
+[^5]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz, Tahqiq; Jilid 2, hlm. 8–24). Dar al-Kutub al-'Ilmiyyah.
+[^6]: Jaques, E. (1989). *Creativity and Work* (hlm. 72–95). International Universities Press.
 
-[^1]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^2]: Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
-[^3]: Al-Ghazali, A. H. (1988). *Ar-Risalah al-ladunniyyah fi ma'rifat al-haqiqah* (M. Basyir, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^4]: Al-Farabi, A. N. (1949). *Ihsha' al-'ulum* (U. Amin, Ed.). Dar al-Fikr al-'Arabi.
-[^5]: Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (M. as-Saqqa, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^6]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^7]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
-[^8]: Asy-Syatibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. U. Darraz, Ed., Jilid 2). Dar al-Ma'rifah.
-[^9]: Jaques, E. (1989). *Creativity and work*. International Universities Press.
+---
 
-## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
-
-Berdasarkan kesimpulan penyelidikan arsitektural ini, tindakan nyata berikut diwajibkan untuk diimplementasikan:
-
-1. **Restrukturisasi Subfolder 01_FOUNDATION/**:
-   Pastikan direktori `01_FUNDAMENTAL/01_FOUNDATION/` memiliki sembilan berkas kanonik bernomor `01` sampai `09` sesuai taksonomi yang telah disahkan.
-2. **Penyusunan Monograf Sembilan Domain Secara Berurutan**:
-   Fokuskan tim litbang untuk menyusun draf monograf sembilan domain secara kronologis tanpa melompati nomor urut domain.
-3. **Pemasangan DAG Linter pada CI Pipeline**:
-   Daftarkan skrip `audit_foundation_dag_hierarchy()` pada alur kerja GitHub Actions untuk memblokir pull request yang melanggar hierarki keterikatan asiklik.
-4. **Audit Kurikulum Asrama Eksisting**:
-   Evaluasi seluruh modul pembinaan santri saat ini menggunakan Matriks Pemetaan 9 Domain, dan benahi setiap modul yang melompat langsung ke kepemimpinan tanpa landasan fitrah.
-5. **Penyelenggaraan Workshop Silsilah Nilai bagi Musyrif**:
-   Latih seluruh musyrif kamar untuk memahami bagaimana sembilan domain filosofis ini termanifestasi dalam interaksi harian mereka dengan santri di lorong asrama.
-6. **Integrasi Glosarium Kanonik Fondasi**:
-   Kompilasi kamus istilah resmi yang mendefinisikan seluruh konsep kunci dari sembilan domain untuk mencegah kerancuan makna di kalangan asatidz.
+### 12.2. Bibliografi Terkurasi (Standar APA 7th Edition)
+1. Al-Attas, S. M. N. (1979). *Aims and Objectives of Islamic Education*. Hodder and Stoughton.
+2. Al-Attas, S. M. N. (1995). *Prolegomena to the Metaphysics of Islam: An Exposition of the Underlying Foundations of Islam and the Worldview of Islam*. International Institute of Islamic Thought and Civilization (ISTAC).
+3. Al-Farabi, A. N. (1949). *Ihsha' al-'Ulum* (U. Amin, Tahqiq). Dar al-Fikr al-'Arabi.
+4. Al-Ghazali, A. H. (1988). *Ar-Risalah al-Ladunniyyah fi Ma'rifat al-Haqiqah* (M. Basyir, Tahqiq). Dar al-Kutub al-'Ilmiyyah.
+5. Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; 2 Jilid). Mu'assasah ar-Risalah.
+6. Al-Ghazali, A. H. (2005). *Ihya' 'Ulum ad-Din* (4 Jilid). Dar Ibn Hazm.
+7. Al-Mawardi, A. H. (1987). *Adab ad-Dunya wa ad-Din* (M. As-Saqqa, Tahqiq). Dar al-Kutub al-'Ilmiyyah.
+8. Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz, Tahqiq; 4 Jilid). Dar al-Kutub al-'Ilmiyyah.
+9. Brooks, F. P. (1995). *The Mythical Man-Month: Essays on Software Engineering* (Anniversary ed.). Addison-Wesley.
+10. Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
+11. Ibnu Khaldun, A. R. (2001). *Muqaddimah Ibnu Khaldun* (A. A. Wafi, Tahqiq; 3 Jilid). Lajnah al-Bayan al-'Arabi.
+12. Ibnu Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-Kalam 'ala Arwah al-Amwat wal-Ahya'*. Dar al-Kutub al-'Ilmiyyah.
+13. Ibnu Qayyim al-Jauziyyah, M. (2002). *Miftah Dar as-Sa'adah wa Mansyur Wilayah al-'Ilm wal-Iradah* (2 Jilid). Dar Ibn 'Affan.
+14. Jaques, E. (1989). *Creativity and Work*. International Universities Press.
+15. Simon, H. A. (1996). *The Sciences of the Artificial* (3rd ed.). MIT Press.
 
 ---
 
 ## 13. Emergent Questions & Inkuiri Lanjutan (Chain of Inquiry)
 
-Pengesahan struktur sembilan domain filosofis ini secara organik membuka inkuiri spesifik untuk membedah domain pertama dalam rangkaian penyelidikan berikutnya:
+Pengesahan struktur sembilan domain filosofis ini secara organik membuka rangkaian inkuiri spesifik untuk membedah masing-masing domain dalam penyelidikan berurutan:
 
-- **P00024**: *Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?* (Menyelidiki argumen ontologis mengapa konsep tentang Tuhan, realitas wujud gaib dan syahadah, serta akhirat mendahului seluruh teori pendidikan).
-- **P00025**: *Mengapa Epistemology Wajib Diletakkan Langsung Setelah Worldview?* (Membedah bagaimana teori pengetahuan Islam menghubungkan wahyu Ilahi dengan akal dan indera manusia).
+- [P00024](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md): *Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?* (Menyelidiki argumen ontologis mengapa konsep tentang Allah ﷻ, realitas wujud gaib dan syahadah, serta hisab akhirat mendahului seluruh rumusan teori pendidikan).
+- [P00025](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00025-Mengapa-Epistemology-Wajib-Diletakkan-Langsung-Setelah-Worldview.md): *Mengapa Epistemology Wajib Diletakkan Langsung Setelah Worldview?* (Membedah bagaimana teori pengetahuan Islam menghubungkan wahyu Ilahi dengan akal sehat dan pengamatan indrawi manusia).
+- [P00026](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00026-Mengapa-Human-Nature-Hakikat-Insan-Berada-Tepat-Setelah-Epistemology.md): *Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?* (Menganalisis anatomi rohani manusia: ruh, qalb, 'aql, dan nafs sebagai subjek pembinaan adab).

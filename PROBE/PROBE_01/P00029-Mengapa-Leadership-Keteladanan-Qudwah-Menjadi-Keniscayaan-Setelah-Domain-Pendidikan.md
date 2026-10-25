@@ -1,81 +1,64 @@
-# P00029: Mengapa Leadership (Keteladanan Qudwah) Menjadi Keniscayaan Setelah Domain Pendidikan?
-
-**Peneliti / Penyelidik**: Tim Rekonstruksi Epistemik Repositori TUMBUH v2.0.0  
-**Keahlian Khusus**: Kepemimpinan Kenabian (*Al-Qiyadah an-Nabawiyyah*), Servant Leadership Pesantren, Tata Kelola Anti-Feodalisme
-**Status Naskah**: Terverifikasi Kanonik & Terkunci (*Approved & Locked*)  
-**Tanggal Penerbitan**: 2026-10-25  
-**Klasifikasi Repositori**: `PROBE / PROBE_01 / PILAR_03`  
+# P00029 — Mengapa Leadership (Keteladanan Qudwah) Menjadi Keniscayaan Setelah Domain Pendidikan?
 
 ---
 
 ## 1. Executive Summary & Ringkasan Eksekutif Penyelidikan
 
-Penyelidikan arsitektural ini membedah alasan epistemologis dan sosiologis mengapa **Domain 06: Kepemimpinan Keteladanan (*Leadership / Al-Qiyadah bi al-Qudwah*)** wajib diletakkan tepat setelah Domain 05 (Education) dan mendahului Domain 07 (Change Dynamics) di dalam lapisan `01_FUNDAMENTAL/01_FOUNDATION/`. Dalam realitas pendidikan pesantren, rancangan filosofis, kurikulum adab, dan silabus pengajaran yang paling indah di atas kertas akan mati suri tanpa kehadiran figur-figur pemimpin dan pendidik yang mewujudkannya menjadi teladan hidup (*The Living Curriculum*). Santri pada hakikatnya tidak menyerap adab dari rentetan kata-kata ceramah yang didengarnya, melainkan dari apa yang disaksikannya secara nyata melalui perilaku keseharian para asatidz dan musyrif (*Lisanul hal afshahu min lisanil maqal*).
+Dokumen penyelidikan arsitektural ini merumuskan keniscayaan deduktif, landasan epistemologis syar'i, dan rasionalitas sistemik penempatan **Kepemimpinan Keteladanan (*Leadership / Al-Qiyadah bi al-Qudwah*) sebagai Domain Keenam (Domain 06)** tepat setelah Hakikat Pendidikan (*Education*) dan mendahului Dinamika Perubahan Jiwa (*Change Dynamics*) di dalam subdirektori `01_FUNDAMENTAL/01_FOUNDATION/` repositori TUMBUH v2.0.0. Dalam rantai penalaran hierarkis filsafat pendidikan Islam, setelah Domain 05 mengesahkan bahwa pendidikan adalah proses penanaman adab (*Ta'dib*), maka akal niscaya menuntut penegasan mengenai: *"Siapakah aktor utama penggerak tarbiyah tersebut? Melalui instrumen apa nilai-nilai adab ditransformasikan ke dalam kalbu santri?"*[^1].
 
-Penyakit paling kronis yang menghancurkan wibawa tarbiyah di dunia pesantren adalah **feodalisme kepemimpinan dan budaya impunitas**: kiai, guru, atau santri senior memposisikan diri sebagai "kasta bangsawan" yang berhak dilayani, kebal dari aturan disiplin, dan bebas menggunakan kekerasan dengan dalih "ketaatan mutlak kepada guru". Akibatnya, nilai-nilai adab tereduksi menjadi sekadar topeng kemunafikan sosial, di mana santri patuh semata-mata karena takut sanksi, bukan karena penghormatan yang tulus.
+Penyakit paling kronis yang menghancurkan wibawa tarbiyah di dunia pesantren adalah **feodalisme kepemimpinan dan budaya impunitas**: kiai, guru, atau santri senior memposisikan diri sebagai kasta bangsawan yang berhak dilayani, kebal dari aturan disiplin, dan bebas menggunakan kekerasan dengan dalih "ketaatan mutlak kepada guru". Akibatnya, nilai-nilai adab tereduksi menjadi sekadar topeng kemunafikan sosial, di mana santri patuh semata-mata karena takut sanksi fisik, bukan karena penghormatan yang tulus.
 
-Melalui penelusuran khazanah turats klasik—khususnya *As-Siyasah asy-Syar'iyyah* karya Syaikhul Islam Ibn Taimiyyah, *Al-Ahkam as-Sulthaniyyah* karya Imam Al-Mawardi, serta nasihat kepemimpinan Imam Al-Ghazali dalam *Nashihat al-Muluk*—yang diintegrasikan dengan teori kepemimpinan pelayan (*Servant Leadership*) dari Robert K. Greenleaf dan teori pemodelan sosial (*Social Learning Theory*) dari Albert Bandura, penyelidikan ini menegakkan bahwa kepemimpinan Islam adalah **pelayanan tanpa pamrih (*Sayyidul qaumi khadimuhum*)**.
+Melalui penelusuran khazanah turats klasik—khususnya *As-Siyasah asy-Syar'iyyah* karya Syaikhul Islam Ibn Taimiyyah, *Al-Ahkam as-Sulthaniyyah* karya Imam Al-Mawardi, serta nasihat kepemimpinan Imam Al-Ghazali dalam *Nashihat al-Muluk*—yang diintegrasikan dengan teori kepemimpinan pelayan (*Servant Leadership*) dari Robert K. Greenleaf dan teori pemodelan sosial (*Social Learning Theory*) dari Albert Bandura, penyelidikan ini menegakkan bahwa kepemimpinan Islam adalah **pelayanan tanpa pamrih (*Sayyidul qaumi khadimuhum*)**. Hasil inkuiri dibakukan ke dalam *Architectural Decision Record* (ADR-PROBE-0029) yang mengunci empat pilar kepemimpinan profetik (Al-Khidmah, Al-'Adalah, At-Tawadhu', Asy-Syaja'ah) dan melarang mutlak segala bentuk impunitas feodal di lingkungan asrama.
 
-Hasil penyelidikan dikristalisasi ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 06. Ditetapkan bahwa kepemimpinan di seluruh level ekosistem TUMBUH—mulai dari Pimpinan Lembaga, Asatidz, Musyrif Kamar, hingga Pengurus Santri—wajib tunduk pada protokol keteladanan qudwah yang sama, bebas dari hak impunitas feodal, dan diukur dari seberapa besar pengorbanan mereka dalam melayani dan membimbing santri.
+| Parameter Metadata Dokumen | Ketetapan Kanonik Repositori |
+| :--- | :--- |
+| **Nomor Berkas Penyelidikan** | `PROBE/PROBE_01/P00029` |
+| **Status Epistemik** | `CANONICAL LEADERSHIP ETHICS & ANTI-FEUDALISM FOUNDATION` |
+| **Lapisan Arsitektur Target** | `01_FUNDAMENTAL/01_FOUNDATION/06_LEADERSHIP.md` |
+| **Peringkat Hierarki Domain** | `Domain 06 (Direct Consequence of Domain 05 Education)` |
+| **Status Keputusan ADR** | `APPROVED & PERMANENTLY LOCKED (ADR-PROBE-0029)` |
+| **Audience Target** | Majelis Pimpinan Pesantren, Dewan Asatidz, Musyrif Asrama 24 Jam, dan Pengurus Santri |
 
 ---
 
 ## 2. Definisi Istilah, Latar Belakang Epistemik, & Cakupan Yurisdiksi
 
-### 2.1. Definisi Istilah Teknis Operasional
-1. **Kepemimpinan Keteladanan (*Al-Qiyadah bi al-Qudwah*)**: Model kepemimpinan di mana pemimpin mempengaruhi, mendidik, dan menggerakkan orang lain melalui integritas akhlak pribadi yang tampak nyata, bukan melalui intimidasi jabatan atau paksaan instruktif.
-2. **Khadimul Ummah (Pemimpin Pelayan)**: Paradigma kepemimpinan profetik di mana kekuasaan dipandang sebagai beban amanah pengorbanan untuk melayani kebutuhan ruhani, moral, dan fisik orang-orang yang dipimpin (*In Loco Parentis*).
+### 2.1. Definisi Istilah Kunci (*Ubiquitous Language*)
+
+1. **Kepemimpinan Keteladanan (*Al-Qiyadah bi al-Qudwah*)**: Model kepemimpinan di mana figur pemimpin mempengaruhi, mendidik, dan menggerakkan orang lain melalui integritas akhlak pribadi yang tampak nyata, bukan melalui intimidasi jabatan atau paksaan instruktif.
+2. **Khadimul Ummah (Pemimpin Pelayan)**: Paradigma kepemimpinan profetik di mana kekuasaan dipandang sebagai beban amanah pengorbanan untuk melayani kebutuhan ruhani, moral, dan fisik santri (*In Loco Parentis*).
 3. **Feodalisme Pesantren (*Feudal Authoritarianism*)**: Distorsi budaya kelembagaan di mana pengasuh atau santri senior menuntut penghormatan buta, meminta fasilitas istimewa tanpa kerja, dan menganggap diri mereka berada di atas tata tertib asrama.
-4. **Kurikulum Berjalan (*The Living Curriculum*)**: Perilaku faktual, cara berbicara, cara merespons kemarahan, dan ketepatan waktu ibadah para guru yang menjadi bahan ajar visual utama yang diserap oleh santri selama 24 jam.
+4. **Kurikulum Berjalan (*The Living Curriculum*)**: Perilaku faktual, cara bertutur kata, respons terhadap kemarahan, dan ketepatan waktu ibadah para guru yang menjadi materi ajar visual utama yang diserap oleh santri selama 24 jam.
 5. **Impunitas Kepemimpinan (*Leadership Impunity*)**: Kondisi cacat struktural di mana pengurus atau pengasuh yang melakukan pelanggaran tata tertib tidak pernah disanksi, sehingga meruntuhkan legitimasi moral seluruh sistem kedisiplinan[^1].
 
 ### 2.2. Latar Belakang Masalah Lapangan
-Penyelidikan mendalam terhadap kasus-kasus pembangkangan santri dan runtuhnya wibawa pesantren menemukan bahwa akar masalahnya hampir selalu bermuara pada krisis kepemimpinan:
-- **Kontradiksi Perkataan dan Perbuatan (Hipokrisi Moral)**: Musyrif asrama berteriak-teriak membangunkan santri shalat tahajjud dengan ancaman cambuk selang, namun musyrif tersebut justru kembali tidur di kamarnya dan tidak ikut berjamaah di masjid.
-- **Hierarki Kasta Pengurus Santri**: Santri kelas 3 SMA yang diangkat menjadi pengurus asrama merasa memiliki hak istimewa untuk tidak ikut piket kebersihan, menyerobot antrean kamar mandi, dan menyuruh santri yunior mencuci pakaian kotornya.
-- **Kultus Individu Tanpa Akuntabilitas**: Santri dilarang bertanya kritis atau mengoreksi kesalahan fatal pengurus karena ditakut-takuti dengan doktrin "su'ul adab" dan "hilang berkah ilmu", yang sejatinya menyimpang dari adab Islam salafus shalih.
 
-### 2.3. Cakupan Yurisdiksi Penyelidikan
-Dokumen `P00029` ini secara ketat membatasi yurisdiksinya pada:
-- Menegakkan justifikasi mengapa Kepemimpinan Qudwah diletakkan setelah Domain Pendidikan dan sebelum Dinamika Perubahan.
-- Merumuskan empat pilar kepemimpinan profetik (Khidmah, 'Adalah, Tawadhu', Syaja'ah).
-- Menetapkan protokol eliminasi feodalisme dan penghapusan impunitas di lingkungan pengasuhan santri.
-- Tidak mencampuri teknis perumusan SOP jadwal ronda malam (lapisan `03_OPERATIONAL`) atau struktur yayasan legal kelembagaan (lapisan `02_IMPLEMENTATION`).
+Penyelidikan mendalam terhadap kasus-kasus pembangkangan santri dan runtuhnya wibawa pesantren menemukan bahwa akar masalahnya hampir selalu bermuara pada krisis kepemimpinan:
+- **Kontradiksi Perkataan dan Perbuatan (Hipokrisi Moral)**: Musyrif asrama membentak-bentak santri untuk shalat tahajjud dengan ancaman sanksi fisik, namun musyrif tersebut justru tidur di kamarnya dan tidak ikut berjamaah di masjid.
+- **Hierarki Kasta Pengurus Santri**: Santri senior yang diangkat menjadi pengurus merasa memiliki hak istimewa untuk tidak ikut piket kebersihan, menyerobot antrean kamar mandi, dan memaksa santri junior mencuci pakaian kotornya.
+- **Kultus Individu Tanpa Akuntabilitas**: Santri dilarang bertanya kritis atau mengoreksi kekeliruan pengurus karena ditakut-takuti dengan doktrin ketaatan buta yang disalahgunakan, menyimpang dari adab Islam salafus shalih.
 
 ---
 
 ## 3. Landasan Teologis Turats & Integrasi Kepemimpinan Pelayan
 
-```
-                       RASULULLAH SHALLALLAHU 'ALAIHI WA SALLAM
-                               (Uswatun Hasanah Mutlak)
-                                          |
-                              Mewariskan Kaidah Pokok
-                                          v
-         +-------------------------------------------------------------------+
-         |               EMPAT PILAR KEPEMIMPINAN PROFETIK                   |
-         |                   (TUMBUH Domain 06: Leadership)                  |[^2]
-         +-------------------------------------------------------------------+
-         |  1. AL-KHIDMAH  : Sayyidul Qaumi Khadimuhum (Pelayan Santri)      |
-         |  2. AL-'ADALAH  : Kesetaraan Hukum Tanpa Impunitas Feodal         |
-         |  3. AT-TAWADHU' : Kerendahan Hati & Anti-Kultus Individu          |
-         |  4. ASY-SYAJA'AH: Keberanian Mengakui Kesalahan & Membela Hak     |
-         +-------------------------------------------------------------------+
-                                          |
-                               Menghidupkan Kurikulum
-                                          v
-         +-------------------------------------------------------------------+
-         |             THE LIVING CURRICULUM (Keteladanan 24 Jam)            |
-         |         Santri Mengikuti Apa yang Dilihat, Bukan yang Didengar    |
-         +-------------------------------------------------------------------+
-```
+### 3.1. Struktur Empat Pilar Kepemimpinan Profetik TUMBUH
 
-### 3.1. Teks Turats Otoritatif Berharakat & Takhrij Matan
+Repositori TUMBUH membakukan kepemimpinan berbasis Sunnah Nabawiyyah melalui empat pilar pokok:
+
+| Pilar Kepemimpinan Profetik | Landasan Turats & Makna Filosofis | Manifestasi Perilaku Lapangan | Bahaya Jika Diabaikan |
+| :--- | :--- | :--- | :--- |
+| **1. Al-Khidmah (*Servant Leadership*)** | *Sayyidul qaumi khadimuhum* (Pemimpin adalah pelayan kaumnya). | Musyrif menjadi teladan yang melayani, merawat santri sakit, dan bangun lebih awal. | Munculnya mentalitas feodal majikan-budak di asrama. |
+| **2. Al-'Adalah (*Absolute Equality*)** | Surat Umar bin Khattab: menyetarakan manusia di hadapan hukum. | Tidak ada impunitas; pengurus yang melanggar aturan disanksi terbuka. | Hilangnya kepercayaan santri terhadap keadilan lembaga. |
+| **3. At-Tawadhu' (*Humility & Anti-Cult*)** | *Rif'atun lil mu'allim*; kerendahan hati adalah kemuliaan hakiki. | Bersedia menerima kritik santun dari santri, tidak gila hormat. | Terjadinya kultus individu yang merusak kemurnian tauhid. |
+| **4. Asy-Syaja'ah (*Moral Courage*)** | Keberanian membela kebenaran dan menegakkan keadilan syar'i. | Berani mengakui kesalahan pribadi dan membela santri lemah dari perundungan. | Merajalelanya hukum rimba senioritas di asrama. |
+
+### 3.2. Teks Turats Otoritatif Berharakat & Takhrij Matan
 
 Kaidah profetik fundamental mengenai kepemimpinan diriwayatkan dalam hadits yang masyhur:
 
 > **سَيِّدُ الْقَوْمِ خَادِمُهُمْ، وَمَنْ أَرَادَ أَنْ يَكُونَ سَيِّدًا فَلْيَبْذُلْ نَفْسَهُ فِي قَضَاءِ حَوَائِجِهِمْ، فَإِنَّ الشَّرَفَ لَا يُنَالُ بِالتَّرَفُّعِ وَإِنَّمَا يُنَالُ بِالتَّوَاضُعِ وَالْبَذْلِ.**  
-> *(Diriwayatkan oleh Al-Baihaqi dalam Syu'ab al-Iman, Maktabah ar-Rusyd, No. 7642; dan Al-Khatib al-Baghdadi dalam Tarikh Baghdad, Juz 6, hlm. 248)*
+> *(Diriwayatkan oleh Al-Baihaqi dalam Syu'ab al-Iman, Maktabah ar-Rusyd, No. 7642; dan Al-Khatib al-Baghdadi dalam Tarikh Baghdad, Juz 6, hlm. 248)*  
 > **Artinya**: *"Pemimpin suatu kaum adalah pelayan mereka. Dan barangsiapa yang ingin menjadi pemimpin sejati, maka hendaknya ia mencurahkan dirinya dalam menunaikan hajat-hajat mereka. Karena sesungguhnya kemuliaan itu tidaklah diraih dengan menyombongkan diri, melainkan diraih dengan kerendahan hati dan pengorbanan."*
 
 Syaikhul Islam Ibn Taimiyyah (w. 728 H) dalam kitab *As-Siyasah asy-Syar'iyyah fi Ishlah ar-Ra'i war-Ra'iyyah* menegaskan bahwa amanah kepemimpinan adalah ibadah dan qurbah, bukan sarana meraih kemewahan duniawi:[^3]
@@ -84,7 +67,7 @@ Syaikhul Islam Ibn Taimiyyah (w. 728 H) dalam kitab *As-Siyasah asy-Syar'iyyah f
 > *(As-Siyasah asy-Syar'iyyah, Tahqiq Ali bin Muhammad al-Umran, Dar 'Alim al-Fawa'id, hlm. 168–170)*  
 > **Artinya**: *"Wajib diketahui bahwa memegang kepemimpinan atas urusan manusia termasuk kewajiban agama yang paling agung; bahkan tidak akan tegak agama dan tidak pula dunia melainkan dengannya. Maksud utama kepemimpinan adalah memperbaiki urusan agama makhluk, yang mana bila hal itu luput niscaya mereka merugi dengan kerugian yang nyata, serta memperbaiki urusan dunia mereka yang tanpanya agama tidak dapat tegak. Maka barangsiapa yang berniat dengan kepemimpinannya untuk mencari ketinggian derajat di bumi secara sewenang-wenang dan berbuat kerusakan, ia termasuk golongan Fir'aun."*
 
-Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam risalah *Nashihat al-Muluk* (Nasihat bagi Para Pemimpin) menggarisbawahi bahwa keteladanan pemimpin adalah cermin bagi rakyatnya:[^4]
+Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam risalah *Nashihat al-Muluk* menggarisbawahi bahwa keteladanan pemimpin adalah cermin bagi rakyatnya:[^4]
 
 > **اعْلَمْ أَنَّ مَثَلَ الرَّاعِي مَثَلُ الْعَيْنِ الصَّافِيَةِ، فَإِذَا كَانَتِ الْعَيْنُ صَافِيَةً جَرَتْ مِنْهَا الْمِيَاهُ عَذْبَةً نَقِيَّةً، وَإِذَا كَانَتِ الْعَيْنُ كَدِرَةً كَانَ جَمِيعُ مَا يَجْرِي مِنْهَا كَدِرًا خَبِيثًا. وَكَذَلِكَ الْقَائِدُ، إِنْ كَانَ صَالِحًا مُتَوَاضِعًا كَانَ أَتْبَاعُهُ عَلَى خُلُقِهِ، وَإِنْ كَانَ جَبَّارًا مُسْتَكْبِرًا ضَلَّتِ الرَّعِيَّةُ بِضَلَالِهِ.**  
 > *(Nashihat al-Muluk, Tahqiq Jalaluddin Huma'i, Dar al-Kutub al-Haditsah, hlm. 82)*  
@@ -102,101 +85,54 @@ Imam Al-Qadhi Abu Ya'la al-Farra' (w. 458 H) dalam *Al-Ahkam as-Sulthaniyyah* me
 > *(Al-Ahkam as-Sulthaniyyah, Tahqiq Muhammad Hamid al-Fiqi, Dar al-Kutub al-'Ilmiyyah, hlm. 27)*  
 > **Artinya**: *"Wajib bagi pemegang kepemimpinan untuk memeriksa langsung urusan rakyatnya dengan dirinya sendiri, dan janganlah ia bersandar semata-mata pada pelimpahan wewenang kepada para wakil tanpa pengawasan langsung. Karena sesungguhnya amanah itu menuntut ketulusan nasihat, dan ketulusan nasihat tidak akan pernah sempurna jika disertai kelalaian dan sikap menyombongkan diri dari terjun langsung ke lapangan."*
 
-### 3.2. Integrasi Teori Kepemimpinan Modern: Dari Greenleaf hingga Bandura
-Teori *Servant Leadership* yang dipopulerkan oleh Robert K. Greenleaf (1977) memiliki keselarasan luar biasa dengan ajaran Islam. Greenleaf merumuskan bahwa ujian sejati dari seorang pemimpin pelayan adalah: *Apakah orang-orang yang dipimpinnya bertumbuh sebagai manusia? Apakah mereka menjadi lebih sehat, lebih bijak, lebih merdeka, dan lebih terdorong untuk melayani sesama?*[^6]
+### 3.3. Integrasi Teori Kepemimpinan Modern: Dari Greenleaf hingga Bandura
+
+Teori *Servant Leadership* yang dipopulerkan oleh Robert K. Greenleaf (1977) memiliki keselarasan mendalam dengan ajaran Islam. Greenleaf merumuskan bahwa ujian sejati dari seorang pemimpin pelayan adalah: *Apakah orang-orang yang dipimpinnya bertumbuh sebagai manusia? Apakah mereka menjadi lebih sehat, lebih bijak, lebih merdeka, dan lebih terdorong untuk melayani sesama?*[^6]
 
 Sementara itu, *Social Learning Theory* dari Albert Bandura (1977) membuktikan secara empiris bahwa proses belajar manusia yang paling dominan terjadi melalui **pengamatan (*modeling*)** dan **peniruan (*vicarious reinforcement*)**. Santri di asrama tidak belajar kejujuran dari buku fiqh, melainkan dari apakah mereka melihat musyrifnya jujur mengakui kesalahan saat keliru membagi jatah makan. Jika figur pemimpin menampilkan hipokrisi, maka seluruh materi kurikulum adab otomatis kehilangan kekuatan transformasinya[^7].
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibn 'Abdil Barr dalam *Jami' bayan al-'ilm wa fadlihi*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
 
-Landasan epistemik ini diperkuat oleh pemikiran Al-Baihaqi dalam *Syu'ab al-iman*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
+## 4. Analisis Komparatif: Paradigma Kepemimpinan di Lingkungan Pesantren
 
-Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^10].
-
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Khaldun dalam *Muqaddimah Ibn Khaldun*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^11].
-
-Landasan epistemik ini diperkuat oleh pemikiran Abu Ya'la al-Farra' dalam *Al-Ahkam as-sulthaniyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^12].
-
-
-## 4. Analisis Komparatif: Kepemimpinan Qudwah Islam vs Feodalisme Otoriter Sekuler
-
-| Parameter Kepemimpinan | Kepemimpinan Qudwah Islam (TUMBUH Domain 06) | Feodalisme Otoriter Pesantren Konvensional | Manajemen Manajerial Sekuler Modern | Bahaya jika Salah Model di Pesantren |
-|:---|:---|:---|:---|:---|
-| **Hakikat Kedudukan** | Beban amanah yang berat dan pertanggungjawaban hisab akhirat (*taklif*). | Hak istimewa martabat darah bangsawan atau kasta senior (*tasyreef*). | Kontrak profesional fungsional demi mengejar keuntungan organisasi. | Pemimpin bersikap zalim, menganggap santri sebagai bawahan yang boleh dieksploitasi. |
-| **Gaya Pengaruh** | Tarikan keteladanan akhlak, kasih sayang, dan pengorbanan nyata (*qudwah*). | Ancaman fisik, doktrin ketaatan buta, dan intimidasi hukuman takzir. | Insentif material, promosi jabatan, dan indikator kinerja KPI formal. | Santri menjadi penjilat di depan guru namun memberontak di belakang layar. |
-| **Status Kesetaraan Hukum** | Adil mutlak; pemimpin pertama kali dihukum jika melanggar aturan yang dibuatnya. | Impunitas total; kiai, asatidz, dan pengurus kebal dari seluruh aturan santri. | Tunduk pada regulasi korporasi, namun kerap dimanipulasi celah hukumnya. | Runtuhnya kepercayaan santri terhadap keadilan moral lembaga pesantren. |
-| **Sikap Terhadap Murid** | Lemah lembut, tawadhu', siap mendengar kritik santun, dan melayani hajat santri. | Menjaga jarak feodal, menuntut dicium tangannya berlebihan, anti-kritik. | Profesional netral emosional, menjaga batas transaksional kontrak kerja. | Santri merasa terasing, tidak memiliki figur ayah ruhani tempat mencurahkan batin. |
-| **Pewarisan Kaderisasi** | Memilih kader berdasarkan integritas takwa dan adab (*Al-Qawiyyu Al-Amin*). | Berdasarkan nepotisme garis keturunan darah atau senioritas angkatan fisik. | Berdasarkan nepotisme korporat atau kecakapan teknis instrumental semata. | Kepengurusan dipimpin oleh santri arogan yang melestarikan budaya kekerasan. |
+| Parameter Kepemimpinan | Qudwah Profetik (Kanonik TUMBUH) | Feodalisme Otoriter Tradisional | Manajerial Korporat Sekuler |
+| :--- | :--- | :--- | :--- |
+| **Sumber Otoritas** | Kesucian keteladanan moral dan kedalaman kasih sayang (*Rahmah*). | Garis darah nasab, senioritas angkatan, dan gelar formal. | Surat keputusan (SK) jabatan dan kontrak finansial profesional. |
+| **Respon Terhadap Kritik** | Berterima kasih, muhasabah diri, dan terbuka meralat kebijakan. | Membungkam pengkritik, mencap durhaka, dan mengancam sanksi. | Defensif birokratis dan berlindung di balik celah regulasi hukum. |
+| **Pola Relasi Harian** | Duduk melingkar sejajar, makan bersama, dan menyapa lebih dulu. | Duduk di kursi tinggi terpisah, menuntut dilayani dan disembah. | Rapat formal berjadwal, menjaga jarak dingin di luar urusan dinas. |
+| **Motivasi Pengikut** | Keridhaan batin, cinta ikhlas, dan keinginan meneladani adab. | Ketakutan akan hukuman fisik, rasa tertekan, dan ancaman aib. | Menghindari pemotongan insentif atau mencari pujian performa kerja. |
+| **Dampak Regenerasi** | Lahirnya kader pemimpin pelayan yang tangguh dan rendah hati. | Terwariskannya rantai perundungan dan budaya feodal antargenerasi. | Lahirnya teknokrat birokratis yang hampa rasa empati dan kasih sayang. |
 
 ---
 
-## 5. Studi Kasus Lapangan: Skandal Feodalisme Pengurus Kamar di Pesantren S
+## 5. Studi Kasus Lapangan: Bahaya Sindrom "Raja Kecil" di Asrama
 
-### 5.1. Kasus Pesantren S: "Kerajaan Kecil Pengurus Organisasi Santri"
-Di sebuah pondok pesantren berasrama besar di Jawa Tengah, santri kelas 12 (pengurus organisasi santri) diberikan otonomi penuh oleh pengasuh untuk mendisiplinkan santri yunior (kelas 7–10) tanpa supervisi langsung asatidz dewasa. Pengasuh berdalih: *"Ini adalah laboratorium kepemimpinan dan kemandirian mental santri."*
+### 5.1. Kasus Lapangan: Monopoli Kekuasaan Senior Asrama
 
-Dalam praktiknya, asrama berubah menjadi "kerajaan feodal":
-- Santri pengurus memiliki kamar khusus berpendingin udara (AC), kasur busa empuk, dan bebas membawa telepon genggam pintar, sementara santri yunior tidur di lantai beralaskan tikar tipis.
-- Santri pengurus mewajibkan santri yunior mencuci pakaian kotor pengurus, membelikan makanan ke kantin luar, dan membersihkan kamar mandi khusus pengurus setiap pagi.
-- Setiap santri yunior yang berani menatap mata pengurus dicap "tidak punya adab" dan disidang di kamar gelap tengah malam dengan pukulan ikat pinggang.
+Di sebuah pondok pesantren dengan tradisi asrama mandiri, santri kelas 12 diangkat sebagai pengurus departemen keamanan. Tanpa adanya supervisi aktif dari musyrif dewasa, para pengurus ini membentuk oligarki kekuasaan yang kebal hukum:
+1. Mereka membuat aturan jam tidur ketat bagi santri junior (pukul 22.00 WIB), namun mereka sendiri begadang bermain ponsel dan memasak mi instan di posko pengurus hingga dini hari.
+2. Saat seorang santri junior berani bertanya mengapa pengurus tidak shalat tahajjud berjamaah, santri tersebut dituduh "melawan sunnah pondok" dan dihukum lari keliling lapangan sambil disiram air kotor.
+3. Dampak jangka panjangnya sangat destruktif: lembaga tersebut menghasilkan alumni yang arogan, gemar menindas bawahan di dunia kerja, dan memandang kekuasaan sebagai lisensi untuk menumpuk keistimewaan pribadi.
 
-### 5.2. Dampak Sistemik dan Kehancuran Moralitas
-Akibat skandal feodalisme ini:
-1. **Normalisasi Kezaliman Struktural**: Santri yunior menelan kepahitan selama 3 tahun dengan satu motivasi dendam: *"Tunggu nanti kalau saya sudah kelas 12, giliran saya yang akan memperbudak adik kelas!"* Siklus kekerasan terwariskan turun-temurun selama lebih dari 15 tahun.
-2. **Krisis Akidah dan Sinisme Terhadap Agama**: Santri mulai meragukan ajaran Islam tentang keadilan sosial. Mereka menganggap konsep "adab dan takzim kepada senior" hanyalah alat tipu daya kaum penguasa untuk menindas yang lemah.
-3. **Eksodus Massal Santri**: Sebanyak 40 santri berprestasi mengundurkan diri serentak karena tidak tahan diperlakukan seperti budak belian.
+### 5.2. Resolusi Epistemik TUMBUH
 
-### 5.3. Intervensi Arsitektural Berbasis TUMBUH v2.0.0
-Tim repositori membongkar total sistem Pesantren S dengan mengunci Domain 06:
-- Seluruh fasilitas istimewa santri pengurus dihapus; kamar AC diubah menjadi ruang belajar bersama; pengurus wajib tidur di kamar yang sama dengan santri biasa.
-- Diterbitkan aturan mutlak: **Haram bagi pengurus santri menyuruh santri yunior mencuci pakaian atau melayani urusan pribadi mereka**.
-- Pengurus santri diubah fungsinya menjadi **Khadimul Kamar (Pelayan Kamar)**: tugas mereka adalah menyambut santri baru dengan senyum, mendampingi mereka saat sakit, dan memimpin kebersihan kamar bersama.
-- Dalam 2 semester, rantai dendam selama 15 tahun putus total, suasana ukhuwah islamiyyah yang sejuk pulih kembali, dan pesantren menjadi model percontohan pengasuhan berkeadilan.
-
-### 5.4. Kasus Pesantren L: "Krisis Legitimasi Akibat Guru Mengabaikan Keteladanan Ibadah"
-Di sebuah pesantren modern di Jawa Barat, bagian kedisiplinan asrama menerapkan denda uang dan ta'zir jalan jongkok bagi santri yang terlambat shalat subuh berjamaah di masjid. Namun, santri menyaksikan secara kasat mata:
-1. **Musyrif Terlambat ke Masjid**: Dari 10 musyrif yang bertugas, hanya 2 orang yang hadir di masjid saat iqamah berkumandang. Sisanya baru datang saat imam sudah tasyahhud akhir atau bahkan shalat sendirian di kamar asrama.
-2. **Reaksi Sinis Santri**: Santri mulai berbisik di lorong: *"Ustadz menyuruh kami lari ke masjid dan mendenda kami kalau terlambat, padahal beliau sendiri masih tidur di kamar!"*
-3. **Mogok Disiplin Terselubung**: Ketika santri didenda, mereka sengaja membayar dengan recehan sambil melemparkannya ke meja piket sebagai bentuk perlawanan moral terhadap hilangnya keteladanan pendidik.
-
-Intervensi Domain 06 TUMBUH v2.0.0 menegakkan prinsip **The Living Curriculum**: pimpinan pesantren menetapkan bahwa musyrif yang terlambat ke masjid wajib meminta maaf di hadapan santri dan mendapatkan giliran piket membersihkan teras masjid. Ketika santri melihat para asatidz dan musyrif berebut saf pertama dan berani mengakui kekhilafan, disiplin santri pulih 100% tanpa perlu ancaman denda uang atau ta'zir fisik.
+Repositori TUMBUH menolak keras segala bentuk pembenaran spiritual terhadap kezaliman:
+- **Pemberlakuan Asas Tanpa Impunitas (*Zero Impunity*)**: Setiap pelanggaran yang dilakukan oleh asatidz atau musyrif diproses secara terbuka dengan konsekuensi yang adil.
+- **Dekonstruksi Feodalisme Asrama**: Penghapusan hak-hak istimewa pengurus; kepemimpinan dikembalikan kepada esensinya sebagai *Khidmah* (pelayanan).
+- **Audit Rutin Integritas Qudwah**: Pengurus santri dan musyrif dinilai secara berkala melalui instrumen `F-LEAD-AUDIT`.
 
 ---
 
-## 6. Arsitektur Empat Pilar Kepemimpinan Qudwah TUMBUH
+## 6. Arsitektur Empat Tingkat Keteladanan Qudwah TUMBUH
 
-Dokumen fondasi `06_LEADERSHIP.md` membakukan empat pilar kepemimpinan kenabian yang wajib dijiwai oleh seluruh pimpinan, asatidz, dan musyrif:
+Kepemimpinan di ekosistem TUMBUH dioperasionalkan melalui empat tingkatan yang saling terhubung:
 
-```
-  +-------------------------------------------------------------------------+
-  | 1. AL-KHIDMAH (Pelayanan Tanpa Pamrih / Servant Leadership)              |
-  |    - Menomorsatukan kebutuhan keselamatan, kesehatan, dan adab santri   |
-  |    - Pemimpin adalah orang pertama yang bangun dan terakhir yang tidur  |
-  |    - Larangan keras menuntut pelayanan pribadi dari santri              |
-  +-------------------------------------------------------------------------+
-                                      |
-  +-------------------------------------------------------------------------+
-  | 2. AL-'ADALAH (Keadilan Mutlak Tanpa Impunitas)                          |
-  |    - Hukum tata tertib berlaku setara bagi kiai, asatidz, dan santri     |
-  |    - Pemimpin yang melanggar adab dihukum lebih dahulu dan terbuka      |
-  |    - Penghapusan segala bentuk kasta feodal dan impunitas angkatan senior|
-  +-------------------------------------------------------------------------+
-                                      |
-  +-------------------------------------------------------------------------+
-  | 3. AT-TAWADHU' (Kerendahan Hati & Keterbukaan Hati)                      |
-  |    - Tidak gila hormat, tidak menuntut dicium tangan secara kultus      |
-  |    - Siap menerima nasihat dan koreksi santun dari santri               |
-  |    - Lemah lembut dalam bertutur kata, tidak bersikap congkak di lorong |
-  +-------------------------------------------------------------------------+
-                                      |
-  +-------------------------------------------------------------------------+
-  | 4. ASY-SYAJA'AH (Keberanian Moral Menegakkan Kebenaran)                 |
-  |    - Berani mengakui kesalahan pribadi di hadapan santri tanpa gengsi   |
-  |    - Tegas melindungi santri yang lemah dari perundungan siapa pun       |
-  |    - Menolak kompromi pragmatis yang merendahkan martabat syari'at      |
-  +-------------------------------------------------------------------------+
-```
+| Tingkatan Qudwah | Subjek Pemimpin | Tanggung Jawab Lapangan | Indikator Integritas Profetik |
+| :--- | :--- | :--- | :--- |
+| **Tingkat 4: Konsil Masyayikh** | Kiai & Pimpinan Lembaga | Pengawalan arah kebijakan, penegakan syariat, dan independensi moral. | Sederhana dalam gaya hidup, zuhud, dan adil dalam memperlakukan seluruh staf. |
+| **Tingkat 3: Dewan Asatidz** | Guru Kelas & Pengajar Kitab | Keteladanan adab ilmu, integritas akademis, dan kasih sayang pedagogis. | Tidak korupsi jam mengajar, ikhlas membimbing, dan tidak memaki santri. |
+| **Tingkat 2: Musyrif Asrama 24 Jam** | Pembina Asrama & Wali Kamar | Pendampingan 24 jam, perlindungan fisik dan emosional, serta pengawasan aktif. | Hadir di saf pertama masjid, tidak mengeksploitasi santri, dan ramah menyapa. |
+| **Tingkat 1: Pengurus Santri Senior** | Santri Jenjang J3/J4 | Pelayanan kamar, bimbingan teman sebaya (*peer mentoring*), dan ketertiban. | Membantu adik kelas mencuci piring, tidak menyerobot antrean, dan adil. |
 
 ---
 
@@ -217,70 +153,22 @@ graph TD
     JOB["03_OPERATIONAL/01_JOB_DESCRIPTION/<br/>(Uraian Tugas Musyrif Pelayan)"]:::jobNode
     SOP["03_OPERATIONAL/02_SOP/<br/>(SOP Penegakan Disiplin Anti-Impunitas)"]:::sopNode
 
-    EDU -->|Mewajibkan Aktor Teladan Hidup| LEAD
-    LEAD -->|Menggerakkan Perubahan Jiwa Santri| CHG
-    LEAD -->|Mendefinisikan Kriteria Musyrif| JOB
-    LEAD -->|Menjamin Kesetaraan Hukum| SOP
+    EDU -->|Mewajibkan Aktor Teladan Hidup Pendidik| LEAD
+    LEAD -->|Menggerakkan Transformasi Perilaku Jiwa| CHG
+    LEAD -->|Mendefinisikan Kriteria Musyrif Pelayan| JOB
+    LEAD -->|Menjamin Kesetaraan Hukum Tanpa Impunitas| SOP
 ```
 
-### 7.2. Skrip Otomasi Validasi Budaya Kepemimpinan Anti-Feodalisme (`audit_anti_feudalism_policy.py`)
-
-Repositori menyediakan skrip linter untuk memindai seluruh dokumen SOP asrama dan job description guna mencegah munculnya pasal-pasal feodal yang melegitimasi impunitas atau perbudakan santri:
-
-### 8.2. Protokol Audit Keteladanan Qudwah & Matriks Perilaku Musyrif
+### 7.1. Protokol Audit Keteladanan Qudwah & Matriks Perilaku Musyrif
 
 Keteladanan kepemimpinan asatidz dan musyrif merupakan pilar mutlak keberhasilan tarbiyah yang diaudit melalui protokol kepemimpinan:
 
-1. **Uji Kredibilitas Qudwah (Congruence & Integrity Audit)**:
+1. **Uji Kredibilitas Qudwah (*Congruence & Integrity Audit*)**:
    Memeriksa keselarasan antara apa yang diajarkan di mimbar dengan perilaku nyata asatidz dalam kehidupan 24 jam di pesantren.
-
 2. **Pemberantasan Feodalisme Asrama**:
    Menghapuskan kultur feodal di mana pengurus senior memanfaatkan junior untuk kepentingan pribadi berkedok ketaatan santri.
-
-3. **Matriks Perilaku Kepemimpinan Qudwah vs Tipologi Feodal**:
-
-| Parameter Kepemimpinan | Model Kepemimpinan Qudwah (TUMBUH) | Model Feodal / Otoriter Represif | Dampak Terhadap Mentalitas Santri |
-|---|---|---|---|
-| **Kehadiran di Shaf Shalat**| Asatidz & musyrif hadir paling awal | Pengurus hadir terlambat atau hanya menyuruh| Santri menganggap shalat sebagai beban paksaan |
-| **Gaya Berbicara** | Santun, tegas, memuliakan martabat | Membentak, memaki, merendahkan nasab | Santri belajar menindas yang lebih lemah |
-| **Penyelesaian Sengketa** | Mendengarkan adil & mediasi restoratif | Menghakimi sepihak & memukul di depan umum| Santri menyimpan dendam & kebencian terpendam |
-| **Orientasi Khidmah** | Melayani dan melindungi santri | Menuntut dilayani dan ditakuti | Hilangnya keteladanan cinta sejati |
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
-Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
-- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
-- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
-- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
-- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
-
-
-### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
-Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
-- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
-- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
-- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
-- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
-- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
-- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
-- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 10**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+3. **Penyediaan Kanal Pengaduan Aman (*Safe Grievance Channel*)**:
+   Memberikan jaminan perlindungan bagi santri yang melaporkan tindakan penyalahgunaan wewenang atau kekerasan oleh musyrif/senior.
 
 ---
 
@@ -292,46 +180,25 @@ Formulir evaluasi ini wajib diisi dalam audit internal tahunan pengasuhan santri
 |:---|:---|:---|:---|:---:|
 | 1 | **Konsistensi Ibadah Berjamaah di Masjid** | Musyrif hadir shalat berjamaah 5 waktu di saf depan sebelum santri tiba. | Rekaman absensi visual di masjid. | [ ] Lolos / [ ] Revisi |
 | 2 | **Nol Eksploitasi Pelayanan Pribadi** | Tidak ada santri yang disuruh mencuci pakaian, memijat, atau membelikan rokok. | Wawancara rahasia santri acak. | [ ] Lolos / [ ] Revisi |
-| 3 | **Kepatuhan Terhadap Tata Tertib Asrama** | Musyrif mematuhi jam malam, menjaga kebersihan kamar, dan tidak merokok di pondok. | Laporan audit sidak pimpinan. | [ ] Lolos / [ ] Revisi |
+| 3 | **Kepatuhan Terhadap Tata Tertib Asrama** | Musyrif mematuhi jam malam, menjaga kebersihan kamar, dan tidak merokok. | Laporan audit sidak pimpinan. | [ ] Lolos / [ ] Revisi |
 | 4 | **Keteladanan Integritas Lisan (*Sidqul Lisan*)** | Bahasa tutur musyrif santun, tidak pernah memaki, tidak berkata kotor/jorok. | Rekaman interaksi lorong asrama. | [ ] Lolos / [ ] Revisi |
 | 5 | **Kesiapan Menerima Koreksi & Mengakui Salah** | Musyrif bersedia meminta maaf secara terbuka jika keliru menuduh santri. | Catatan notulensi kasus BK. | [ ] Lolos / [ ] Revisi |
 | 6 | **Pelayanan Proaktif terhadap Santri Sakit** | Musyrif mengantar santri sakit ke klinik, menjenguk, dan memastikan makanannya. | Rekam logbook medis asrama. | [ ] Lolos / [ ] Revisi |
-| 7 | **Kepemimpinan Rendah Hati (*Tawadhu'*)** | Musyrif makan makanan yang sama dengan santri dan ikut kerja bakti membersihkan asrama. | Pengamatan partisipasi kerja bakti. | [ ] Lolos / [ ] Revisi |
-
-### 8.2. Matriks Komparatif Tiga Paradigma Kepemimpinan di Pesantren
-
-| Parameter Kepemimpinan | Qudwah Profetik (Kanonik TUMBUH) | Feodalisme Otoriter Tradisional | Manajerial Korporat Sekuler |
-|:---|:---|:---|:---|
-| **Sumber Otoritas** | Kesucian keteladanan moral dan kedalaman kasih sayang (*Rahmah*). | Garis darah nasab, senioritas angkatan, dan gelar formal. | Surat keputusan (SK) jabatan dan kontrak finansial profesional. |
-| **Respon Terhadap Kritik** | Berterima kasih, muhasabah diri, dan terbuka meralat kebijakan. | Membungkam pengkritik, mencap durhaka, dan mengancam sanksi. | Defensif birokratis dan berlindung di balik celah regulasi hukum. |
-| **Pola Relasi Harian** | Duduk melingkar sejajar, makan bersama, dan menyapa lebih dulu. | Duduk di kursi tinggi terpisah, menuntut dilayani dan disembah. | Rapat formal berjadwal, menjaga jarak dingin di luar urusan dinas. |
-| **Motivasi Pengikut** | Keridhaan batin, cinta ikhlas, dan keinginan meneladani adab. | Ketakutan akan hukuman fisik, rasa tertekan, dan ancaman aib. | Menghindari pemotongan insentif atau mencari pujian performa kerja. |
-| **Dampak Regenerasi** | Lahirnya kader pemimpin pelayan yang tangguh dan rendah hati. | Terwariskannya rantai perundungan dan budaya feodal antargenerasi. | Lahirnya teknokrat birokratis yang hampa rasa empati dan kasih sayang. |
-
-### 8.4. Pembinaan Berkelanjutan dan Supervisi Klinis bagi Musyrif Asrama
-Menyadari beratnya amanah keteladanan yang dipikul oleh para pengasuh dan musyrif asrama, sistem TUMBUH mewajibkan adanya program pembinaan berkelanjutan (*Continuous Professional Development*) dan supervisi klinis secara berkala. Musyrif adalah manusia biasa yang dapat mengalami kelelahan fisik, kejenuhan mental (*burnout*), dan tekanan emosional akibat mengawal santri selama 24 jam penuh.
-
-Melalui supervisi klinis mingguan bersama konselor ahli dan kiai pengasuh, musyrif mendapatkan ruang aman untuk mencurahkan beban perasaan, merefleksikan dinamika pengasuhan di kamar masing-masing, dan menerima masukan konstruktif mengenai penanganan santri dengan kebutuhan khusus. Kesejahteraan psikologis dan spiritual musyrif yang terpelihara dengan baik inilah yang menjamin terpancarnya energi keteladanan positif bagi seluruh santri asrama.
+| 7 | **Kepemimpinan Rendah Hati (*Tawadhu'*)** | Musyrif makan hidangan yang sama dengan santri dan ikut kerja bakti membersihkan asrama. | Pengamatan partisipasi kerja bakti. | [ ] Lolos / [ ] Revisi |
 
 ---
 
 ## 9. Architectural Decision Record (ADR): Penguncian Domain 06 Leadership
 
-### Context
-Bahaya feodalisme, kekerasan senioritas yang dilegitimasi, dan hipokrisi pengasuh di asrama telah menjadi ancaman terbesar bagi eksistensi moral pesantren. Doktrin ketaatan yang disalahgunakan menciptakan santri bermental budak dan munafik. Diperlukan penguncian arsitektural yang menetapkan Kepemimpinan Berbasis Qudwah sebagai Domain 06 repositori TUMBUH.
-
-### Decision
-Diputuskan secara mutlak dan permanen bahwa:
-1. `06_LEADERSHIP.md` adalah **Domain Keenam (Domain 06)** di dalam lapisan `01_FUNDAMENTAL/01_FOUNDATION/` dan menjadi konstitusi kepemimpinan resmi repositori TUMBUH v2.0.0.
-2. Dilarang keras memberlakukan hak impunitas hukum atau fasilitas feodal bagi pimpinan, asatidz, maupun santri senior.
-3. Seluruh dokumen job description dan tata kelola pengurus santri wajib lulus uji audit anti-feodalisme menggunakan skrip `audit_anti_feudalism_policy.py` dan Formulir `F-LEAD-AUDIT`.
-
-### Status
-`APPROVED & LOCKED` (Ketetapan Konstitusi Repositori Branch v2.0.0).
-
-### Consequences
-- **Positif**: Terciptanya iklim pesantren yang sehat, berwibawa, dan penuh kasih sayang; terputusnya rantai kekerasan senioritas antargenerasi; tumbuhnya kesadaran adab yang tulus pada jiwa santri; dan meningkatnya keberkahan lembaga di hadapan Allah Ta'ala.
-- **Tantangan**: Menuntut kerendahan hati yang nyata dari para asatidz dan pimpinan untuk siap dikoreksi serta bersedia turun tangan melayani kebutuhan santri di lapangan.
+| Parameter Ketetapan | Deskripsi Keputusan Arsitektural Kanonik |
+| :--- | :--- |
+| **Nomor ADR** | `ADR-PROBE-0029` |
+| **Judul Keputusan** | Penguncian Domain 06 Leadership (Al-Qiyadah bi al-Qudwah) sebagai Fondasi Kepemimpinan Pelayan Anti-Feodal |
+| **Status Konstitusional** | `APPROVED & PERMANENTLY LOCKED` |
+| **Konteks Masalah** | Budaya feodalisme, kultus individu, impunitas hukum bagi senior, dan kekerasan berkedok ketaatan guru telah merusak fitrah kejujuran dan kesehatan mental santri. |
+| **Keputusan Utama** | 1. `06_LEADERSHIP.md` ditetapkan secara permanen sebagai Domain 06 di lapisan `01_FUNDAMENTAL/01_FOUNDATION/`.<br/>2. Menghapus mutlak segala bentuk impunitas hukum dan privilege feodal bagi seluruh tingkatan pemimpin pesantren.<br/>3. Mewajibkan penerapan formulir audit `F-LEAD-AUDIT` dalam evaluasi tahunan pengasuh dan pengurus santri. |
+| **Konsekuensi Positif** | Terciptanya iklim pesantren yang sehat, berwibawa, egaliter, dan penuh kasih sayang; terputusnya siklus kekerasan senioritas antargenerasi; serta tumbuhnya adab sejati dari kalbu santri. |
+| **Konsekuensi Mitigatif** | Masyayikh, asatidz, dan musyrif wajib mengikis arogansi jabatan dan siap menjadi pelayan yang turun tangan langsung mendampingi dinamika kehidupan santri. |
 
 ---
 
@@ -346,25 +213,25 @@ Sepuluh pedoman perlindungan kepemimpinan qudwah yang wajib dipatuhi:
 - [x] **Guardrail 5 (Rejection of Blind Obedience / Anti-Kultus)**: Menolak doktrin ketaatan mutlak yang membuta; tidak ada ketaatan kepada makhluk dalam bermaksiat kepada Al-Khaliq (*la tha'ata li makhluqin fi ma'shiyatil khaliq*).
 - [x] **Guardrail 6 (Living Curriculum Primacy)**: Pendidik wajib mempraktikkan terlebih dahulu seluruh adab yang diajarkannya sebelum menuntut santri mempraktikkannya.
 - [x] **Guardrail 7 (Turats Political & Ethical Rigor)**: Wajib menyandarkan etika kepemimpinan pada karya ulama mu'tamad salafus shalih seperti *As-Siyasah asy-Syar'iyyah* dan *Nashihat al-Muluk*.
-- [x] **Guardrail 8 (No Hierarchical Bullying)**: Mengutuk dan menghapus segala bentuk tradisi "perploncoan", sidang malam gelap, dan intimidasi senior kepada yunior.
-- [x] **Guardrail 9 (Compulsory F-LEAD-AUDIT Archiving)**: Berkas pengangkatan pengurus santri wajib melampirkan lembar komitmen bebas feodalisme yang ditandatangani.
+- [x] **Guardrail 8 (No Hierarchical Bullying)**: Mengutuk dan menghapus segala bentuk tradisi perpeloncoan, sidang malam gelap, dan intimidasi senior kepada junior.
+- [x] **Guardrail 9 (Compulsory F-LEAD-AUDIT Archiving)**: Berkas pengangkatan pengurus santri wajib melampirkan lembar komitmen bebas feodalisme yang diverifikasi.
 - [x] **Guardrail 10 (Restorative Reconciliation Leadership)**: Pemimpin wajib menjadi juru damai (*mushlih*) yang menyatukan hati santri yang berselisih, bukan menjadi provokator perpecahan.
-- [x] **Guardrail 11 (Elimination of Entitled Privilege)**: Fasilitas asrama bagi pengurus tidak boleh lebih mewah dari fasilitas yang dinikmati santri termuda.
-- [x] **Guardrail 12 (Leadership Rotation & Demystification)**: Jabatan kepengurusan wajib dirotasi secara berkala guna mencegah terbentuknya oligarki santri yang membatu.
-- [x] **Guardrail 13 (Open Channel for Grievance)**: Seluruh santri dijamin haknya menyampaikan pengaduan atas arogansi musyrif tanpa ancaman kriminalisasi atau intimidasi nilai.
 
 ---
 
-## 11. Traceability Matrix & Bibliografi Rujukan Terkurasi
+## 11. Traceability Matrix Antarlapisan Repositori
 
-### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
-- `01_FUNDAMENTAL/01_FOUNDATION/06_LEADERSHIP.md`: Berkas target langsung yang dijustifikasi dan dikunci oleh monograf inkuiri kanonik ini.
-- `PROBE/PROBE_01/P00028-Mengapa-Education-Hakikat-Pendidikan-Diletakkan-Setelah-Pemahaman-Perkembangan-Insan.md`: Menyediakan landasan pedagogis yang membutuhkan keteladanan pemimpin ini.
-- `PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md`: Inkuiri berikutnya yang membedah bagaimana kepemimpinan menggerakkan perubahan jiwa santri.
-- `03_OPERATIONAL/01_JOB_DESCRIPTION/`: Rincian uraian tugas kepengurusan yang wajib mematuhi etika pelayan profetik ini.
+| Simpul Asal | Hubungan Arsitektur | Dokumen Target | Implikasi Penerapan Sistemik |
+| :--- | :---: | :--- | :--- |
+| `P00028` | Fondasi Filosofis | `01_FUNDAMENTAL/01_FOUNDATION/05_EDUCATION.md` | Menyediakan prinsip ta'dib yang menuntut keteladanan pendidik. |
+| **`P00029` (Current)** | **Landasan Kanonik** | **`01_FUNDAMENTAL/01_FOUNDATION/06_LEADERSHIP.md`** | **Mengunci etika kepemimpinan pelayan dan penghapusan impunitas feodal.** |
+| `P00030` | Konsekuensi Logis | `01_FUNDAMENTAL/01_FOUNDATION/07_CHANGE_DYNAMICS.md` | Menjelaskan bagaimana keteladanan memicu perubahan perilaku jiwa santri. |
+| `02_IMPLEMENTATION` | Kerangka Kelembagaan | `02_IMPLEMENTATION/02_GOVERNANCE/` | Mengatur struktur konsil kehormatan etik pengasuh asrama. |
+| `03_OPERATIONAL` | Panduan Lapangan | `03_OPERATIONAL/01_JOB_DESCRIPTION/` | Menyusun tupoksi musyrif asrama sebagai pelayan dan mentor ramah anak. |
+
 ---
 
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+## 12. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
 Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
 
@@ -381,38 +248,11 @@ Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer
 [^11]: Ibn Khaldun, A. R. (2001). *Muqaddimah Ibn Khaldun* (A. A. Wafi, Ed.). Lajnah al-Bayan al-'Arabi.
 [^12]: Abu Ya'la al-Farra', M. H. (2000). *Al-Ahkam as-sulthaniyyah* (M. H. al-Fiqi, Ed.). Dar al-Kutub al-'Ilmiyyah.
 
-## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
-
-Langkah operasional yang wajib diambil pasca pengesahan monograf ini:
-
-1. **Penerbitan Dokumen Kanonik 06_LEADERSHIP.md**:
-   Susun naskah resmi `01_FUNDAMENTAL/01_FOUNDATION/06_LEADERSHIP.md` dengan menyerap empat pilar kepemimpinan profetik dan prinsip anti-feodalisme secara tuntas.
-2. **Pencabutan Seluruh Hak Istimewa Pengurus Santri**:
-   Hapus fasilitas eksklusif pengurus santri di asrama; lebur kamar pengurus menjadi kamar bimbingan bersama santri biasa.
-3. **Pemasangan Linter audit_anti_feudalism_policy.py pada CI**:
-   Integrasikan modul linter ke dalam GitHub Actions guna memblokir kompilasi dokumen yang memuat pasal-pasal feodal atau impunitas hukum.
-4. **Pembentukan Majelis Pengawasan Etika Pengasuh (*Lajnah Inshaf*)**:
-   Bentuk komisi independen di pesantren untuk memproses pengaduan santri jika ada asatidz atau musyrif yang melakukan tindakan sewenang-wenang.
-5. **Pelatihan Kepemimpinan Pelayan bagi Santri Senior**:
-   Gantikan sistem kaderisasi militeristik dengan Daurah Khidmah di mana santri senior dilatih memasak, merawat santri sakit, dan membimbing adab dengan kelembutan.
-6. **Penetapan Transparansi Anggaran Organisasi Santri**:
-   Wajibkan seluruh laporan kas iuran kegiatan santri diaudit secara terbuka dan dipajang di papan pengumuman masjid demi menjaga amanah finansial.
-7. **Pemberian Sanksi Disiplin Terbuka bagi Musyrif Pelanggar**:
-   Terapkan asas kesetaraan hukum: musyrif yang melanggar jam malam wajib meminta maaf kepada forum santri guna meruntuhkan arogansi jabatan.
-8. **Pengembangan Evaluasi 360 Derajat bagi Pimpinan Asrama**:
-   Sediakan instrumen penilaian berkala di mana santri dapat memberikan masukan tertulis yang jujur mengenai kepemimpinan musyrif secara rahasia.
-9. **Standarisasi Majelis Syura Musyrif Mingguan**:
-   Wajibkan musyrif asrama berkumpul setiap pekan untuk saling mengevaluasi kekhilafan diri (*muhasabatun nafs*) dan mendiskusikan kebutuhan santri yang memerlukan bantuan khusus.
-10. **Penyusunan Pedoman Bahasa Kehormatan bagi Pengurus**:
-    Terbitkan buku saku panduan berbahasa santun (*qaulan karima*) bagi seluruh pengurus santri saat bertugas menegur atau mengingatkan kawan-kawannya.
-11. **Pelarangan Total Budaya Titip Beli Tanpa Izin**:
-    Tindak tegas segala bentuk praktik santri senior yang memanfaatkan santri yunior untuk keperluan konsumsi pribadi demi memutus mentalitas majikan-budak di asrama.
-
 ---
 
 ## 13. Emergent Questions & Inkuiri Lanjutan (Chain of Inquiry)
 
 Pengesahan kepemimpinan berbasis keteladanan qudwah secara organik melahirkan pertanyaan berikutnya mengenai proses perubahan perilaku santri:
 
-- **P00030**: *Mengapa Change (Dinamika Perubahan Jiwa) Berada Setelah Kepemimpinan?* (Menyelidiki bagaimana hukum-hukum perubahan jiwa santri beroperasi, mengapa transformasi karakter membutuhkan tarikan keteladanan kepemimpinan, dan bagaimana tahapan perubahan jiwa dari penolakan menuju internalisasi sukarela).
-- **P00031**: *Mengapa Core Principles (Prinsip Inti) Diletakkan Setelah Dinamika Perubahan?* (Membedah bagaimana prinsip-prinsip operasional sistem disarikan setelah seluruh dinamika manusia dan perubahannya dipahami).
+- [P00030](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00030-Mengapa-Change-Dinamika-Perubahan-Jiwa-Berada-Setelah-Kepemimpinan.md): *Mengapa Change (Dinamika Perubahan Jiwa) Berada Setelah Kepemimpinan?* (Menyelidiki bagaimana hukum-hukum perubahan jiwa santri beroperasi, mengapa transformasi karakter membutuhkan tarikan keteladanan kepemimpinan, dan bagaimana tahapan perubahan jiwa dari penolakan menuju internalisasi sukarela).
+- [P00031](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00031-Mengapa-Core-Principles-Prinsip-Inti-Diletakkan-Setelah-Dinamika-Perubahan.md): *Mengapa Core Principles (Prinsip Inti) Diletakkan Setelah Dinamika Perubahan?* (Membedah bagaimana prinsip-prinsip operasional sistem disarikan setelah seluruh dinamika manusia dan perubahannya dipahami).

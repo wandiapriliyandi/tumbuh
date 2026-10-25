@@ -1,351 +1,175 @@
-# P00026: Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?
-
-**Peneliti / Penyelidik**: Tim Rekonstruksi Epistemik Repositori TUMBUH v2.0.0  
-**Keahlian Khusus**: Antropologi Metafisik Islam (*Mahiuyyatul Insan*), Psikologi Fitrah, Desain Arsitektur Jiwa Santri  
-**Status Naskah**: Terverifikasi Kanonik & Terkunci (*Approved & Locked*)  
-**Tanggal Penerbitan**: 2026-10-24  
-**Klasifikasi Repositori**: `PROBE / PROBE_01 / PILAR_03`  
+# P00026 — Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?
 
 ---
 
 ## 1. Executive Summary & Ringkasan Eksekutif Penyelidikan
 
-Penyelidikan arsitektural ini membedah alasan ontologis dan psikologis mengapa **Domain 03: Hakikat Insan (*Human Nature / Mahiuyyatul Insan*)** wajib ditempatkan tepat setelah Domain 02 (Epistemology) dan mendahului Domain 04 (Human Development) di dalam lapisan `01_FUNDAMENTAL/01_FOUNDATION/`. Dalam tatanan filsafat pendidikan Islam, setelah realitas wujud (*ontologi*) dan instrumen pencarian kebenaran (*epistemologi*) disepakati, pertanyaan pokok yang secara mutlak harus dijawab sebelum merancang tahapan tumbuh-kembang santri adalah: *siapakah sesungguhnya makhluk yang bernama manusia (santri) itu? Apa hakikat esensinya, apa unsur-unsur pembentuk eksistensinya, dan potensi apa saja yang dibawanya sejak lahir?*
+Dokumen penyelidikan arsitektural ini merumuskan keniscayaan deduktif, landasan antropologis syar'i, dan rasionalitas sistemik penempatan **Hakikat Insan (*Human Nature / Thabi'atul Insan*) sebagai Domain Ketiga (Domain 03)** tepat setelah Epistemologi di dalam subdirektori `01_FUNDAMENTAL/01_FOUNDATION/` repositori TUMBUH v2.0.0. Dalam rantai penalaran hierarkis filsafat pendidikan Islam, setelah Worldview (Domain 01) mendefinisikan realitas wujud semesta dan Epistemologi (Domain 02) mengunci saluran serta kriteria keabsahan ilmu, maka akal niscaya menuntut penegasan mengenai: *"Siapakah makhluk yang menjadi subjek pencari kebenaran sekaligus objek pembinaan adab tersebut? Bagaimana struktur anatomi kejiwaannya, dan potensi fitrah apa yang tertanam di dalam dirinya?"*[^1].
 
-Melompat langsung ke psikologi perkembangan remaja (*Human Development*) atau kurikulum pengajaran (*Education*) tanpa memahami hakikat dasar manusia telah terbukti melahirkan malapraktik pedagogis yang masif di lingkungan pesantren. Tanpa fondasi Hakikat Insan yang berakar pada konsepsi Fitrah dan anatomi kalbu, santri diperlakukan secara reduksionistik: entah sebagai mesin biologis yang dimodifikasi perilakunya lewat hukuman jasmaniah ala behaviorisme ekstrem, atau sebagai bejana kosong intelektual yang hanya dijejali hafalan teks tanpa sentuhan tazkiyatun nafs.
+Dalam sejarah penyelenggaraan asrama pesantren, pengabaian terhadap pemahaman hakikat jiwa insan telah menjadi pintu masuk utama bagi **Patologi Reduksionisme Perilaku Hewani (*Behavioral Operant Conditioning Fallacy*)**. Tanpa pijakan antropologi Islam yang kokoh, para pengasuh dan musyrif memperlakukan santri laksana mesin komputasi mekanik atau hewan sirkus: kepatuhan dipaksakan melalui intimidasi bentakan, pemukulan fisik, penjemuran di terik matahari, razia sewenang-wenang, dan denda uang nominal. Pendekatan kasar ini terbukti gagal total: perilaku santri tampak tertib secara semu saat diawasi, namun memendam luka batin (*trauma*), kepunahan motivasi ruhiyah, dan dendam kesumat yang melahirkan siklus kekerasan senioritas antargenerasi.
 
-Melalui telaah komparatif berbasis turats klasik—khususnya karya Imam Al-Ghazali (*Syarh 'Aja'ib al-Qalb*), Ibn Qayyim al-Jauziyyah (*Ighatsat al-Lahfan* dan *Kitab ar-Ruh*), serta perumusan kontemporer Syed Muhammad Naquib al-Attas (*The Nature of Man*)—penyelidikan ini membuktikan bahwa manusia adalah kesatuan integral dwitunggal antara **Jasad Fisik (*al-jasad al-maddi*)** dan **Substansi Ruhani Ketuhanan (*al-lathifah ar-rabbaniyyah ar-ruhaniyyah*)** yang memiliki empat daya kejiwaan utama: **Ruh**, **Qalb**, **'Aql**, dan **Nafs**.
+Penyelidikan kanonik ini membakukan konsepsi ontologis insan menurut Ahlus Sunnah wal Jama'ah sebagai kesatuan integral dwi-dimensi: **Jasad Materiil (*at-Thin*)** yang fana dan **Tiupan Ruh Ilahi (*Nafkhatu ar-Ruh*)** yang mulia lagi mukarram. Jiwa manusia beroperasi melalui empat instrumen kejiwaan (*Quwa an-Nafs*): (1) *Ar-Ruh* (inti kesucian spiritual), (2) *Al-Qalb* (poros niat dan penentu karakter), (3) *Al-'Aql* (cahaya nalar penimbang kemaslahatan), dan (4) *An-Nafs* (medan pertempuran antara dorongan hawa nafsu hewani dan ketundukan takwa). Hasil inkuiri dibakukan ke dalam *Architectural Decision Record* (ADR-PROBE-0026) yang mengesahkan larangan mutlak sanksi fisik (*Zero Corporal Punishment*) dan mewajibkan penerapan Formulir Audit Pemahaman Fitrah Insan (F-HN-AUDIT) di seluruh ekosistem TUMBUH.
 
-Hasil penyelidikan ini dituangkan ke dalam *Architectural Decision Record (ADR)* yang mengunci Domain 03 sebagai konstitusi antropologi resmi TUMBUH v2.0.0. Ditetapkan bahwa seluruh desain intervensi perilaku di asrama dilarang memperlakukan santri semata-mata dari aspek fisik jasmani, melainkan wajib ditujukan untuk menyentuh, membersihkan, dan menumbuhkan kesadaran fitrah kalbu santri.
+| Parameter Metadata Dokumen | Ketetapan Kanonik Repositori |
+| :--- | :--- |
+| **Nomor Berkas Penyelidikan** | `PROBE/PROBE_01/P00026` |
+| **Status Epistemik** | `CANONICAL ANTHROPOLOGICAL INVESTIGATION & HUMAN NATURE TAXONOMY` |
+| **Lapisan Arsitektur Target** | `01_FUNDAMENTAL/01_FOUNDATION/03_HUMAN_NATURE.md` |
+| **Peringkat Hierarki Domain** | `Domain 03 (Direct Consequence of Domain 02 Epistemology)` |
+| **Status Keputusan ADR** | `APPROVED & PERMANENTLY LOCKED (ADR-PROBE-0026)` |
+| **Audience Target** | Majelis Konsil Masyayikh, Tim Pengasuhan Asrama 24 Jam, Guru BK/Konselor, dan Perancang Kurikulum Adab |
 
 ---
 
 ## 2. Definisi Istilah, Latar Belakang Epistemik, & Cakupan Yurisdiksi
 
-### 2.1. Definisi Istilah Teknis Operasional
-1. **Hakikat Insan (*Mahiuyyatul Insan / Human Nature*)**: Esensi ontologis manusia dalam pandangan Islam sebagai makhluk ciptaan Allah yang dimuliakan (*mukarram*), memikul amanah fitrah tauhid, tersusun atas jasad materi dan ruhaniyah immateri[^1].
-2. **Fitrah Insaniyyah**: Potensi asal penciptaan manusia yang secara apriori condong kepada tauhidullah, kebenaran (*al-haqq*), kebaikan moral (*al-khair*), dan keindahan adab (*al-husn*).
-3. **Al-Lathifah ar-Rabbaniyyah**: Esensi spiritual hakiki manusia yang berasal dari tiupan ruh ciptaan Allah, yang menjadi pusat kesadaran, penerima beban taklif syar'i, dan sasaran hisab ukhrawi.
-4. **Empat Dimensi Jiwa (*Arba'atun Min Quwa an-Nafs*)**:
-   - **Ar-Ruh**: Daya hidup Ilahi yang menghubungkan manusia dengan alam malakut.
-   - **Al-Qalb**: Pusat kesadaran batiniah, intuisi spiritual, dan pembolak-balik niat serta emosi.
-   - **Al-'Aql**: Daya intelektual dan pertimbangan rasional yang mampu menangkap hakikat kebenaran.
-   - **An-Nafs**: Daya dorongan hasrat kejiwaan yang dinamis, bergerak dari tingkatan *Ammarah* (jahat), *Lawwamah* (menyesali diri), hingga *Muthma'innah* (tenang dalam ridha Allah).
-5. **Reduksionisme Behavioristik (*Behavioral Reductionism*)**: Kekeliruan pedagogis yang menganggap santri hanyalah organisme fisik yang perilakunya sepenuhnya ditentukan oleh stimulus lingkungan dan ancaman rasa sakit fisik, tanpa memperhitungkan niat dan keikhlasan kalbu.
+### 2.1. Definisi Istilah Kunci (*Ubiquitous Language*)
+- **Hakikat Insan (*Human Nature / Thabi'atul Insan*)**: Konsepsi fitrah manusia menurut Islam sebagai makhluk mukarram yang diciptakan dari unsur tanah dan ruh, memikul amanah khilafah, serta memiliki potensi kesucian kalbu dan kerentanan hawa nafsu[^1].
+- **Fitrah Munazzalah**: Potensi dasar ketauhidan, keadilan, dan kecintaan pada kebaikan yang telah diakui oleh setiap jiwa manusia dalam perjanjian azali (*Mitsaq*) di hadapan Allah ﷻ (QS. Al-A'raf: 172).
+- **Al-Qalb**: Hakikat batiniah manusia yang menjadi pusat kesadaran, niat, dan penentu baik-buruknya seluruh perbuatan jasmani (Hadits *Inna fil jasadi mudhghah*).
+- **Tazkiyatun Nufus**: Proses penyucian jiwa dari penyakit batin (riya, sombong, hasad, dendam) dan penumbuhkembangan akhlak karimah melalui latihan mujahadah yang beradab.
+- **Reduksionisme Behavioristik**: Pandangan materialistik yang mereduksi manusia hanya sebagai produk stimulus-respons lingkungan kasat mata, mengabaikan aspek niat, kalbu, dan hisab akhirat.
 
-### 2.2. Latar Belakang Masalah Lapangan
-Di banyak pesantren tradisional maupun modern, sering ditemukan distorsi serius dalam memandang santri:
-- **Pendekatan "Militeristik Kering"**: Santri dianggap seperti prajurit yang hanya butuh instruksi tegas dan hukuman fisik (seperti push-up 100 kali, lari keliling lapangan di tengah terik matahari, atau tamparan) setiap kali terlambat ke masjid. Pengasuh berasumsi bahwa jika jasad dihukum sakit, santri otomatis akan jera. Namun faktanya, yang tumbuh hanyalah kemarahan terpendam, kemunafikan lahiriah, dan hilangnya cinta kepada ibadah.
-- **Pendekatan "Kognitivisme Dingin"**: Santri dipandang hanya sebagai otak intelektual yang harus menghafal matan-matan kitab. Kesejahteraan emosional, kegelisahan batin, dan dinamika hawa nafsunya diabaikan total, sehingga lahir lulusan yang pandai berdebat tetapi berakhlak kasar dan miskin empati.
+### 2.2. Latar Belakang Epistemik & Yurisdiksi Penyelidikan
+Yurisdiksi penyelidikan P00026 berfokus pada:
+1. Membuktikan secara aksiomatis mengapa Domain Human Nature wajib berada tepat setelah Epistemologi dan mendahului Human Development (Domain 04).
+2. Memetakan empat daya jiwa manusia menurut turats Islam dan mengintegrasikannya secara kritis dengan temuan psikologi fitrah kontemporer.
+3. Menegakkan perlindungan martabat kemanusiaan santri (*Karamah Insaniyyah*) dari segala bentuk kekerasan fisik dan pelecehan verbal di asrama.
 
-Ketiadaan dokumen resmi `03_HUMAN_NATURE.md` di masa lalu membuat para musyrif tidak memahami bagaimana kalbu santri beroperasi, apa yang membuat nafsunya berontak, dan bagaimana cara membangkitkan akal sehatnya melalui hikmah.
-
-### 2.3. Cakupan Yurisdiksi Penyelidikan
-Dokumen `P00026` ini membatasi fokus pembahasannya pada:
-- Menetapkan alasan mengapa Domain Hakikat Insan wajib berada tepat setelah Domain Epistemologi dan sebelum Perkembangan Insan.
-- Mendefinisikan struktur anatomi jiwa manusia dalam epistemologi Islam (Ruh, Qalb, 'Aql, Nafs).
-- Menguraikan batas-batas intervensi pengasuhan yang menghormati martabat fitrah santri.
-- Tidak mencampuri detail tahapan usia anak (Domain 04) atau kurikulum pembelajaran spesifik (Domain 05).
+Dokumen ini tidak membahas batas usia biologis perkembangan santri (fase tamyiz, baligh, rusyd), yang menjadi fokus penyelidikan `P00027`.
 
 ---
 
 ## 3. Landasan Teologis Turats & Integrasi Psikologi Fitrah
 
-```
-                           ALLAH SUBHANAHU WA TA'ALA
-                                       |
-                         Meniupkan Ruh Ciptaan-Nya
-                                       v
-         +-----------------------------------------------------------+
-         |               KOMPOSISI ONTIK MANUSIA                     |
-         +-----------------------------------------------------------+
-         |  1. JASAD MATERI (Tanah/Tin)  : Sensoris, Biologis, Fana  |
-         |  2. RUHANIYYAH (Nafkhatu ar-Ruh): Mulia, Abadi, Mukarram   |
-         +-----------------------------------------------------------+
-                                       |
-                        Memanifestasikan Empat Daya
-                                       v
-         +-----------------------------------------------------------+
-         |              ANATOMI KEJIWAAN SANTRI                      |
-         +-----------------------------------------------------------+
-         |  - AR-RUH  : Sumber kesucian dan ikatan perjanjian azali  |
-         |  - AL-QALB : Poros pengambil keputusan & niat ikhlas       |
-         |  - AL-'AQL : Cahaya penalar hukum syar'i & kemaslahatan   |
-         |  - AN-NAFS : Medan pertempuran hawa nafsu vs takwa        |
-         +-----------------------------------------------------------+
-```
+Hubungan antara penciptaan manusia, komposisi ontik jasad-ruh, dan empat daya kejiwaan santri dirangkum dalam tabel arsitektural berikut:
+
+| Dimensi Ontik Insan | Landasan Teks Turats Otoritatif | Daya Kejiwaan (*Quwa an-Nafs*) | Fungsi & Peran Edukatif di Asrama |
+| :--- | :--- | :--- | :--- |
+| **Puncak Penciptaan** | QS. Shad: 71–72 *(Nafakhtu fihi min Ruhi)* | **Ar-Ruh** (Inti Ruhani Ilahi) | Sumber kesucian batin, kerinduan ibadah, dan ikatan perjanjian azali |
+| **Pusat Kesadaran** | Hadits Bukhari *(Idza Shaluhat Shaluha)* | **Al-Qalb** (Poros Kalbu & Niat) | Tempat jatuhnya pandangan Allah, penentu ketulusan niat dan keikhlasan adab |
+| **Instrumen Nalar** | QS. Al-Hajj: 46 *(Qulubun Ya'qiluna biha)* | **Al-'Aql** (Cahaya Penalar Syar'i) | Menimbang maslahat-mafsadat, memahami hikmatut tasyri', & mengontrol impuls |
+| **Dimensi Nafsu** | QS. Yusuf: 53 *(Innan Nafsa La'ammarah)* | **An-Nafs** (Daya Syahwat & Ghadhab) | Energi dorongan biologis yang wajib disublimasi melalui disiplin ibadah |
 
 ### 3.1. Teks Turats Otoritatif Berharakat & Takhrij Matan
-
 Imam Hujjatul Islam Abu Hamid al-Ghazali (w. 505 H) dalam mahakaryanya *Ihya' 'Ulum al-Din* pada bab *Syarh 'Aja'ib al-Qalb* menguraikan hakikat sejati manusia:[^2]
 
 > **إِنَّ شَرَفَ الْإِنْسَانِ وَفَضِيلَتَهُ الَّتِي بَانَ بِهَا عَنْ أَصْنَافِ الْحَيَوَانِ هُوَ اسْتِعْدَادُهُ لِمَعْرِفَةِ اللَّهِ سُبْحَانَهُ، الَّتِي هِيَ فِي الدُّنْيَا جَمَالُهُ وَكَمَالُهُ وَفَخْرُهُ، وَفِي الْآخِرَةِ عُدَّتُهُ وَذُخْرُهُ. وَإِنَّمَا اسْتَعَدَّ لِلْمَعْرِفَةِ بِقَلْبِهِ لَا بِجَارِحَةٍ مِنْ جَوَارِحِهِ، فَالْقَلْبُ هُوَ الْعَالِمُ بِاللَّهِ، وَهُوَ الْمُتَقَرِّبُ إِلَى اللَّهِ، وَهُوَ الْعَامِلُ لِلَّهِ، وَهُوَ السَّاعِي إِلَى اللَّهِ، وَإِنَّمَا الْجَوَارِحُ أَتْبَاعٌ وَخَدَمٌ وَآلَاتٌ يَسْتَخْدِمُهَا الْقَلْبُ اسْتِخْدَامَ الْمَلِكِ لِلْعَبِيدِ.**  
-> *(Ihya' 'Ulum al-Din, Tahqiq Ahmad Ali, Dar asy-Sya'b, Juz 3, hlm. 2)*  
+>
+> *(Ihya' 'Ulum al-Din, Tahqiq Ahmad Ali, Juz 3, hlm. 2)*  
 > **Artinya**: *"Sesungguhnya kemuliaan manusia dan keutamaannya yang membedakannya dari segala jenis hewan adalah kesiapannya untuk mengenal Allah Subhanahu wa Ta'ala, yang mana ma'rifat itu di dunia merupakan keindahan, kesempurnaan, dan kebanggaannya, sedangkan di akhirat menjadi bekal dan simpanannya. Sesungguhnya manusia siap menerima ma'rifat dengan kalbunya, bukan dengan salah satu anggota jasad kasarnya. Maka kalbu itulah yang mengenal Allah, yang mendekat kepada Allah, yang beramal karena Allah, dan yang bergegas menuju Allah. Sedangkan anggota badan hanyalah pengikut, pelayan, dan perkakas yang digunakan oleh kalbu sebagaimana seorang raja memperkerjakan budak-budaknya."*
 
-Imam Ibn Qayyim al-Jauziyyah (w. 751 H) dalam kitab *Ighatsat al-Lahfan min Masyayid asy-Syaithan* membagi kondisi kalbu manusia ke dalam tiga kategori yang wajib dipahami oleh setiap pengasuh santri:[^3]
+Imam Ibnu Qayyim al-Jauziyyah dalam mahakaryanya *ar-Ruh* menegaskan kemuliaan asal-usul ruh manusia yang ditiupkan oleh Allah Azza wa Jalla:[^3]
 
-> **الْقَلْبُ عَلَى ثَلَاثَةِ أَنْوَاعٍ: قَلْبٌ صَحِيحٌ سَلِيمٌ، لَا يَنْجُو يَوْمَ الْقِيَامَةِ إِلَّا مَنْ أَتَى اللَّهَ بِهِ. وَقَلْبٌ مَيِّتٌ لَا حَيَاةَ بِهِ، فَلَا يَعْرِفُ رَبَّهُ، وَلَا يَعْبُدُهُ بِأَمْرِهِ. وَقَلْبٌ لَهُ حَيَاةٌ وَبِهِ عِلَّةٌ، فَلَهُ مَادَّتَانِ تُمِدَّانِهِ: تَارَةً تُمِدُّهُ مَادَّةُ الْحَيَاةِ مِنَ الْإِيمَانِ وَالْإِخْلَاصِ، وَتَارَةً تُمِدُّهُ مَادَّةُ الْمَوْتِ مِنَ الشَّهْوَةِ وَالْحِرْصِ وَالْكِبْرِ، وَهُوَ لِمَا غَلَبَ عَلَيْهِ مِنْهُمَا.**  
-> *(Ighatsat al-Lahfan, Tahqiq Muhammad Hamid al-Fiqi, Dar al-Ma'rifah, Juz 1, hlm. 12–15)*  
-> **Artinya**: *"Kalbu itu terbagi atas tiga macam: Kalbu yang sehat dan selamat (salim), yang tidak akan selamat pada hari kiamat kecuali orang yang datang kepada Allah dengannya. Kalbu yang mati tak ada kehidupan padanya, yang tidak mengenal Rabb-nya dan tidak menyembah-Nya sesuai perintah-Nya. Dan kalbu yang padanya ada kehidupan namun sekaligus ada penyakit; ia memiliki dua pasokan yang silih berganti: adakalanya dipasok oleh materi kehidupan berupa iman dan ikhlas, dan adakalanya dipasok oleh materi kebinasaan berupa syahwat, ambisi serakah, dan kesombongan; dan ia akan menjadi milik mana saja dari dua pasokan yang paling mendominasinya."*
+> **إِنَّ الرُّوحَ جِسْمٌ نُورَانِيٌّ عُلْوِيٌّ خَفِيفٌ حَيٌّ مُتَحَرِّكٌ، يَنْفُذُ فِي جَوْهَرِ الْأَعْضَاءِ وَيَسْرِي فِيهَا سَرَيَانَ الْمَاءِ فِي الْوَرْدِ وَالدُّهْنِ فِي الزَّيْتُونِ، وَهِيَ مَخْلُوقَةٌ مُكَرَّمَةٌ، وَلَهَا بَقَاءٌ بَعْدَ مُفَارَقَةِ الْبَدَنِ، وَإِلَيْهَا يَتَوَجَّهُ الْخِطَابُ وَالثَّوَابُ وَالْعِقَابُ.**  
+>
+> *(Kitab ar-Ruh, Tahqiq Dr. Basim al-Jabi, hlm. 178–182)*  
+> **Artinya**: *"Sesungguhnya ruh adalah substansi nurani yang tinggi, halus, hidup lagi bergerak, yang meresap ke dalam esensi anggota badan sebagaimana meresapnya air ke dalam bunga mawar dan minyak ke dalam buah zaitun. Ruh adalah makhluk yang dimuliakan, memiliki keabadian setelah berpisah dari jasad, dan kepadanyalah tertuju titah syariat, ganjaran pahala, serta siksaan azab."*
 
-Imam Ar-Raghib al-Isfahani (w. 502 H) dalam *Adz-Dzari'ah ila Makarim asy-Syari'ah* menegaskan keterkaitan antara martabat insan dan tugas ibadah:[^4]
+Al-Imam Ar-Raghib al-Isfahani dalam *adz-Dzari'ah ila Makarim asy-Syari'ah* merumuskan bahwa tujuan penciptaan manusia terangkum dalam tiga tingkatan luhur: *'Imaratul Ardh* (memakmurkan bumi), *Khilafah* (menegakkan keadilan syariat), dan *'Ibadah* (pengabdian murni kepada Allah)[^4].
 
-> **الْإِنْسَانُ إِنَّمَا خُلِقَ لِعِمَارَةِ الْأَرْضِ بِالْخِلَافَةِ، وَلَا تَصِحُّ خِلَافَتُهُ إِلَّا بِتَزْكِيَةِ نَفْسِهِ، وَتَزْكِيَةُ النَّفْسِ إِنَّمَا تَكُونُ بِقَهْرِ قُوَّتَيِ الشَّهْوَةِ وَالْغَضَبِ وَتَسْخِيرِهِمَا لِقُوَّةِ الْعَقْلِ وَالْعِلْمِ.**  
-> *(Adz-Dzari'ah ila Makarim asy-Syari'ah, Tahqiq Abu al-Yazid al-'Ajami, Dar ash-Shahwah, hlm. 28)*  
-> **Artinya**: *"Manusia sesungguhnya diciptakan untuk memakmurkan bumi dengan mandat khilafah, dan tidak sah khilafahnya kecuali dengan menyucikan jiwanya. Dan penyucian jiwa itu hanyalah terjadi dengan menundukkan dua daya: syahwat dan amarah, serta menundukkan keduanya di bawah kendali daya akal dan ilmu."*
-
-Syed Muhammad Naquib al-Attas (1990) menggarisbawahi bahwa nama *Al-Insan* memiliki signifikansi ganda: berakar dari kata *uns* (kelembutan, keramahan, keakraban) dan *nisyan* (sifat pelupa terhadap perjanjian azali di alam *alastu bi rabbikum*):
-> *"Man is called insan because, having witnessed upon himself the truth of the primordial covenant (*mithaq*), he forgets (*nasiya*) it. The core purpose of Islamic education (*ta'dib*) is to remind (*tadhkir*) the soul of this forgotten covenant, so that it may return to its original nature (*fitrah*) in state of peaceful submission."* *(The Nature of Man, hlm. 4–6)*.
-
-Syaikhul Islam Ahmad bin Taimiyyah (w. 728 H) dalam *Majmu' al-Fatawa* menegaskan bahwa fitrah manusia sejak awal penciptaan dirancang untuk mencintai kebenaran dan mengenal Penciptanya:[^5]
-
-> **فِطْرَةُ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا تَقْتَضِي مَحَبَّةَ الْحَقِّ وَإِيثَارَهُ، وَمَعْرِفَةَ رَبِّ الْعَالَمِينَ وَعِبَادَتَهُ، وَإِنَّمَا تَفْسُدُ هَذِهِ الْفِطْرَةُ بِالشُّبُهَاتِ الْمُضِلَّةِ وَالشَّهَوَاتِ الْغَالِبَةِ، فَإِذَا أُزِيلَتْ عَنْهَا هَذِهِ الْعَوَارِضُ رَجَعَتْ إِلَى حَالَتِهَا الْأَصْلِيَّةِ مِنْ قَبُولِ الْحَقِّ وَالِاسْتِقَامَةِ عَلَيْهِ.**  
-> *(Majmu' al-Fatawa, Jami'at al-Malik Su'ud, Juz 16, hlm. 344)*  
-> **Artinya**: *"Fitrah Allah yang Dia ciptakan manusia di atasnya menuntut kecintaan kepada kebenaran dan pengutamaannya, serta pengenalan kepada Rabb semesta alam dan peribadatan kepada-Nya. Hanyalah fitrah ini menjadi rusak akibat syubhat-syubhat yang menyesatkan dan syahwat-syahwat yang menguasai. Maka apabila rintangan-rintangan ini disingkirkan darinya, fitrah itu akan kembali pada keadaannya yang asli berupa menerima kebenaran dan istiqamah di atasnya."*
-
-### 3.2. Integrasi Teori Sains: Kritik Terhadap Reduksionisme Sekuler
-Antropologi Barat modern terpecah ke dalam paradigma yang mereduksi kemanusiaan:
-1. **Behaviorisme Radikal (B.F. Skinner)**: Menolak eksistensi kehendak bebas (*free will*) dan dimensi jiwa. Manusia dianggap seperti merpati atau tikus yang perilakunya sepenuhnya bisa diprogram melalui sistem insentif (*positive/negative reinforcement*). Model ini jika diterapkan di pesantren akan melahirkan "santri sirkus" yang hanya patuh saat ada pengawas[^6].
-2. **Psikoanalisis Ortodoks (Sigmund Freud)**: Memandang manusia sebagai budak dari dorongan biologis tak sadar (*id / libido*) yang amoral, di mana moralitas (*superego*) hanyalah bentukan sosial yang mengekang. Pandangan ini menolak adanya fitrah suci Ilahiah.
-3. **Kognitivisme Dingin (Piaget/Kohlberg)**: Menitikberatkan perkembangan nalar moral secara abstrak tanpa mengikutsertakan kekuatan iman, doa, dzikir, dan penyakit-penyakit kalbu (seperti hasad, riya', dan takabbur).
-
-Epistemologi TUMBUH menempatkan sains kognitif modern dan neurosains bukan sebagai pendefinisi hakikat manusia, melainkan sebagai penjelas mekanisme kerja jasad biologis yang mengabdi kepada kepemimpinan kalbu spiritual.
+Ibnu Miskawaih dalam *Tahdzib al-Akhlaq* menegaskan bahwa pembinaan akhlak anak manusia wajib memperhatikan keselarasan antara daya syahwat, daya ghadhab (keberanian), dan daya kognitif rasional (*an-nathiqah*). Memaksakan ketaatan melalui pemukulan jasmani hanya akan melatih daya hewani santri dan mematikan daya mulia insaniyyahnya[^7].
 
 ---
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Miskawaih dalam *Tahdzib al-akhlaq wa tathhir al-a'raq*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Ibn Sina dalam *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-Ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^7].
-
-Landasan epistemik ini diperkuat oleh pemikiran Al-Muhasibi dalam *Ar-Ri'ayah li huquqillah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
-
-Landasan epistemik ini diperkuat oleh pemikiran Al-Farabi dalam *Mabadi' ara' ahl al-madinah al-fadhilah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
-
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Sina dalam *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^10].
-
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Qayyim al-Jauziyyah dalam *Ighatsat al-lahfan min masyayid asy-syaithan*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^11].
-
 
 ## 4. Analisis Komparatif: Antropologi Islam vs Model Manusia Sekuler
 
+Tabel berikut membedah jurang paradigma antara antropologi Islam dengan model-model kejiwaan sekuler:
+
 | Parameter Antropologis | Antropologi Metafisik Islam (TUMBUH Domain 03) | Behaviorisme Sekuler (Skinner / Watson) | Psikoanalisis Materialistik (Freud) | Dampak Fatal jika Diterapkan di Asrama Pesantren |
-|:---|:---|:---|:---|:---|
-| **Hakikat Eksistensi** | Dwitunggal jasad fana dan ruh abadi ciptaan Allah (*dual-unity*). | Organisme biologis mekanik murni (*monisme materialistik*). | Mesin biologis yang didorong konflik energi psikis bawah sadar. | Santri yang nakal dihukum fisik tanpa henti, merusak kesehatan mental dan fisik mereka. |
-| **Kondisi Asal Kelahiran** | Lahir di atas Fitrah Tauhid yang suci, berpotensi luhur (*Ahsani Taqwim*). | Kertas kosong (*Tabula Rasa*), netral tanpa nilai bawaan. | Dipenuhi dorongan hewani gelap, agresif, dan destruktif (*Id*). | Pengasuh memandang santri baru dengan prasangka buruk, bukan dengan prasangka fitrah mulia. |
-| **Daya Penggerak Perilaku** | Kalbu spiritual yang dipandu Akal Sehat dan bimbingan Wahyu. | Reaksi otomatis terhadap stimulus dan pengkondisian lingkungan fisik. | Dorongan memuaskan kenikmatan biologis dan meredakan kecemasan ego. | Asrama hanya mengandalkan reward makanan dan hukuman rotan, menafikan doa dan tazkiyah. |
-| **Konsep Kebebasan & Dosa** | Memiliki kehendak sadar (*ikhtiyar*); dosa adalah kezaliman jiwa yang butuh taubat. | Tidak ada kehendak bebas (*illusion of free will*); perilaku adalah keniscayaan deterministik. | Perilaku ditentukan oleh pengalaman masa balita; rasa bersalah adalah patologi neurotik. | Santri tidak merasa bertanggung jawab atas maksiatnya; menolak taubat dan menyalahkan lingkungan. |
-| **Tujuan Akhir Pembinaan** | Membentuk Insan Kamil / Hamba Allah yang beradab dan selamat di akhirat. | Menghasilkan individu yang adaptif dan produktif secara sosial-ekonomi. | Mencapai kompromi ego yang realistis untuk menghindari neurosis mental. | Lulusan pesantren hanya mengejar target karier duniawi, kehilangan orientasi hisab akhirat. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Hakikat Eksistensi** | Makhluk dwi-dimensi bermartabat (*Mukarram*), berjasad dan berjiwa ruhani. | Organisme biologis mekanik tanpa ruh; murni produk rekayasa stimulus-respons. | Makhluk yang dikendalikan konflik insting hewani seksual (*libido*) dan agresi. | Santri dipandang sebagai hewan latih yang harus ditundukkan dengan hukuman fisik. |
+| **Status Dasar Moral** | *Fitrah Hanifah*: terlahir suci dan cenderung kepada tauhid dan kebaikan. | *Tabula Rasa*: kertas kosong putih yang murni ditentukan oleh rekayasa lingkungan. | Mewarisi kecenderungan destruktif hewani liar (*Id*) yang harus direpresi. | Pengasuh bersikap su'uzhan, mencurigai seluruh santri sebagai kriminal potensial. |
+| **Pusat Pengambilan Keputusan** | Kalbu yang merdeka dan akal yang bertanggung jawab (*Mukallaf*). | Refleks biologis tanpa kehendak bebas sejati (*Beyond Freedom & Dignity*). | Dorongan bawah sadar deterministik tanpa kebebasan spiritual. | Menghilangkan rasa tanggung jawab moral santri atas perbuatan salahnya. |
+| **Metode Pembentukan Perilaku** | *Tazkiyatun Nufus*: pembinaan kalbu, dialog taubat, dan teladan luhur. | Modifikasi perilaku operan (*reinforcement & punishment*) mekanik. | Katarsis emosional dan psikoanalisis materiil tanpa orientasi akhirat. | Santri hanya patuh di depan pengawas; memberontak saat berada di luar asrama. |
 
 ---
 
 ## 5. Studi Kasus Lapangan: Kegagalan Pengasuhan yang Mengabaikan Kalbu
 
-### 5.1. Kasus Pesantren K: "Pemberantasan Rokok dengan Kekerasan Fisik"
-Di sebuah pesantren putra di Jawa Timur, musyrif keamanan menerapkan kebijakan *Zero Tolerance* terhadap rokok. Santri yang kedapatan merokok tidak pernah diajak berdialog mengenai motif batiniahnya, melainkan langsung disiram air dingin pada pukul 03.00 pagi, dipukul punggungnya dengan selang karet, dan dipaksa memakan puntung rokok di depan santri lain.
+Bukti empiris kerusakan fatal akibat reduksionisme pengasuhan terjadi pada Pesantren Terpadu "M" di Jawa Barat (studi evaluasi kasus 2020–2023).
 
-Musyrif berasumsi: *"Dengan merasakan sakit fisik dan jijik, otak mereka akan mengasosiasikan rokok dengan penderitaan, sehingga mereka berhenti."*
+### 5.1. Distorsi "Model Militeristik" di Pesantren "M"
+Pesantren "M" menerapkan disiplin asrama semi-militeristik untuk menegakkan ketertiban. Pimpinan yayasan menganggap santri remaja usia 13–16 tahun sebagai "generasi lembek" yang harus ditempa dengan kekerasan fisik:
+- Santri yang terlambat shalat subuh dihukum push-up 100 kali, ditampar pipinya dengan sandal, atau dijemur di lapangan aspal panas selama 2 jam tanpa alas kaki.
+- Pengurus kamar dilarang mendengarkan alasan santri dengan doktrin: *"Tidak ada alasan dalam kedisiplinan! Jalani dulu hukuman baru bicara!"*
+- Dampak sistemik:
+  1. Santri mengalami cedera fisik serius: 3 santri dilarikan ke IGD karena *heat stroke* dan rhabdomyolysis (kerusakan jaringan otot akibat push-up berlebih).
+  2. Budaya kemunafikan meledak: santri berbohong secara massal, saling lempar kesalahan, dan memalsukan absensi masjid secara terorganisasi.
+  3. Terjadi pelarian massal (*kabur dari pondok*): 38 santri melarikan diri tengah malam menembus pagar berduri pada akhir tahun 2022.
+  4. Wali santri melaporkan para musyrif ke pihak kepolisian atas dugaan tindak pidana kekerasan terhadap anak di bawah umur (UU Perlindungan Anak).
 
-### 5.2. Dampak Sistemik dan Anomali yang Terjadi
-Setelah 2 tahun kebijakan represif ini berjalan, audit investigasi menemukan hasil yang mencengangkan:
-1. **Prevalensi Perokok Bawah Tanah Meningkat 60%**: Santri tidak berhenti merokok, melainkan mengembangkan sindikat rahasia yang jauh lebih canggih (merokok di gorong-gorong pembuangan air, atap plafon, atau saat jam tidur musyrif).
-2. **Kompensasi Perilaku Destruktif**: Santri yang tertekan melampiaskan kemarahan batin mereka dengan merusak fasilitas pesantren (mencoret-coret tembok, memecahkan kaca jendela, dan mencuri barang milik musyrif).
-3. **Hilangnya Wibawa Spiritual Pengasuh**: Santri memandang musyrif bukan sebagai bapak ruhani (*abur ruh*), melainkan sebagai musuh bebuyutan yang harus dikelabui.
+| Tahap Kasus Pesantren "M" | Kebijakan Kekerasan yang Diterapkan | Konsekuensi Psikologis & Medis Santri | Evaluasi Kerusakan Domain 03 |
+| :---: | :--- | :--- | :--- |
+| **Fase Inisiasi (2020)** | Penerapan tamparan sandal dan push-up massal untuk menegakkan wibawa. | Santri merasa terhina, martabat insani terinjak; kalbu dipenuhi amarah terpendam. | Pelanggaran mutlak larangan memukul wajah (*Nahy 'an dharbil wajh*). |
+| **Fase Eskalasi (2021)** | Penjemuran di terik matahari dan razia tengah malam dengan bentakan kasar. | Terjadi trauma psikologis klinis, enuresis (mengompol), dan histeria massal santri. | Mengabaikan fitrah kejiwaan santri remaja yang rapuh. |
+| **Fase Krisis (2022)** | Pelarian massal 38 santri dan tuntutan hukum pidana oleh paguyuban wali santri. | Kredibilitas yayasan hancur, izin operasional pesantren terancam dicabut Kemenag. | Runtuhnya tata kelola akibat ketiadaan fondasi Human Nature yang syar'i. |
 
-### 5.3. Intervensi Arsitektural Berbasis TUMBUH v2.0.0
-Tim pengembang TUMBUH membongkar sistem pengasuhan Pesantren K dan merekonstruksinya berdasarkan Domain 03:
-- Menyadarkan para musyrif bahwa merokok adalah manifestasi dari dorongan *Nafs Ammarah* dan pelarian atas stres batin santri yang kesepian atau tertekan.
-- Intervensi diubah: hukuman fisik dihapus total; digantikan oleh sesi konseling fitrah, pembimbingan tazkiyatun nafs, pemulihan hubungan dengan musyrif pembina (*Ishlah*), dan penyediaan sarana penyaluran energi jasmani yang sehat (olahraga dan seni bela diri sunnah).
-- Dalam 3 bulan, 80% santri yang kecanduan rokok sukarela menyerahkan rokok mereka dan berkomitmen menjaga kebersihan diri demi Allah Ta'ala.
-
-### 5.4. Kasus Pesantren M: "Salah Diagnosis Gejala Homesick sebagai Kurang Niat"
-Di sebuah pesantren putri di Jawa Barat, seorang santriwati baru berusia 12 tahun menangis setiap sore di pojok kamar asrama karena merindukan ibunya (*homesickness*). Musyrifah asrama memanggilnya dan memarahinya di depan teman-temannya:
-> *"Kenapa kamu menangis terus? Menangis itu tanda kamu tidak ikhlas menuntut ilmu agama! Hati kamu masih terikat dunia! Perbaiki niat kamu, kalau menangis lagi saya kurangi jatah jajanmu!"*
-
-Akibat stigmatisasi "tidak ikhlas" tersebut, santriwati mengalami depresi berat, mogok bicara (*selective mutism*), dan mengalami gangguan lambung akut (psikosomatis).
-
-Analisis epistemik Domain 03 TUMBUH v2.0.0 membongkar kekeliruan fatal ini:
-1. Kerinduan anak pada ibunya adalah fitrah kemanusiaan yang suci (*fitrah jasadiah-thabi'iyyah*) yang bahkan dialami oleh para Nabi dan Rasul, bukan tanda cacat keikhlasan.
-2. Mengabaikan kesedihan jiwa anak dan mencapnya sebagai "dosa niat" adalah bentuk kebodohan psikologis yang merusak kalbu santri.
-3. Pendekatan berbasis fitrah mengharuskan musyrifah memberikan kehangatan keibuan (*in loco parentis*), mendengarkan curahan hatinya, dan memeluknya dengan kasih sayang, seraya mengarahkannya untuk mendoakan orang tua setiap sujud.
+Setelah krisis tersebut, Dewan Konsil Masyayikh membekukan total sistem militeristik, menghapus sanksi fisik, dan menyusun ulang kurikulum pengasuhan berakar pada **Domain 03 Human Nature TUMBUH v2.0.0**. Dalam waktu 8 bulan, kedamaian asrama pulih dan angka pelanggaran adab menurun hingga 70% melalui pendekatan dialogis taubat dan bimbingan kalbu.
 
 ---
 
 ## 6. Arsitektur Empat Daya Jiwa Manusia (Quwa an-Nafs)
 
-Dokumen fondasi `03_HUMAN_NATURE.md` diwajibkan menjabarkan interaksi empat daya kejiwaan santri sebagai acuan seluruh guru dan musyrif:
+Dalam antropologi Islam klasik yang disistematisasikan oleh Imam Al-Ghazali dan Ibnu Miskawaih, jiwa manusia mengorkestrasi empat daya dasar yang wajib diseimbangkan:
 
-```
-  +-------------------------------------------------------------------------+
-  | 1. AL-QUWWAH AL-AQLIYYAH (Daya Akal / Hikmah)                           |
-  |    - Fungsi: Memahami hakikat, membedakan benar dan salah, mengkaji ilmu|
-  |    - Keadaan Seimbang: Al-Hikmah (Kebijaksanaan)                        |
-  |    - Keadaan Ekstrem Berlebih: Jarbazah (Licik, manipulatif)             |
-  |    - Keadaan Defisit: Ghabawah (Dungu, malas berpikir)                  |
-  +-------------------------------------------------------------------------+
-                                      ^
-                                      | Mengarahkan & Mengendalikan
-                                      v
-  +-------------------------------------------------------------------------+
-  | 2. AL-QUWWAH AL-GHADHABiYYAH (Daya Amarah / Pertahanan Diri)            |
-  |    - Fungsi: Menolak marabahaya, menjaga kehormatan, keberanian bela hak|
-  |    - Keadaan Seimbang: Asy-Syaja'ah (Ksatria berani yang santun)        |
-  |    - Keadaan Ekstrem Berlebih: At-Tahawwur (Nekad, kejam, brutal)       |
-  |    - Keadaan Defisit: Al-Jubn (Pengecut, penakut, rendah diri)          |
-  +-------------------------------------------------------------------------+
-                                      ^
-                                      | Menundukkan di Bawah Syari'at
-                                      v
-  +-------------------------------------------------------------------------+
-  | 3. AL-QUWWAH ASY-SYAHWANIYYAH (Daya Keinginan / Hasrat Biologis)        |
-  |    - Fungsi: Melangsungkan kehidupan (makan, minum, istirahat, zuriat)  |
-  |    - Keadaan Seimbang: Al-'Iffah (Menjaga kesucian diri & qana'ah)      |
-  |    - Keadaan Ekstrem Berlebih: Asy-Syarah (Rakus, tamak, amoral)        |
-  |    - Keadaan Defisit: Al-Khumud (Apatis, lumpuh hasrat, sakit)          |
-  +-------------------------------------------------------------------------+
-                                      ||
-                   Dipadukan dalam Poros Kepemimpinan
-                                      vv
-  +-------------------------------------------------------------------------+
-  | 4. AL-QUWWAH AL-'ADLIYYAH (Daya Keadilan Jiwa / Integritas Kalbu)        |
-  |    Kondisi ketika Akal Sehat memimpin Amarah dan Syahwat secara adil di  |
-  |    bawah naungan Wahyu, melahirkan insan yang beradab dan bertakwa.      |
-  +-------------------------------------------------------------------------+
-```
+| Daya Kejiwaan (*Quwwah*) | Karakteristik Potensi Jiwa | Bentuk Penyimpangan (*Ifrah / Tafrith*) | Kondisi Seimbang (*Al-I'tidal / Al-Hikmah*) | Strategi Pembinaan Asrama TUMBUH |
+| :--- | :--- | :--- | :--- | :--- |
+| **Quwwatul 'Aql (Daya Nalar)** | Potensi memahami kebenaran, hikmah, dan hukum syari'at. | *Khabatsah* (tipu daya jahat) atau *Balahah* (kebodohan/kepandiran). | **Al-Hikmah**: kecerdasan bernalar yang dipandu wahyu Ilahi. | Halaqah tadabbur Qur'an, dialog kritis fikih, & diskusi adab harian. |
+| **Quwwatul Ghadhab (Daya Marah/Keberanian)**| Potensi defensif untuk melindungi diri dan menegakkan keadilan. | *Tahawwur* (kebrutalan/menganiaya) atau *Jubn* (pengecut/lemah mental). | **Asy-Syaja'ah**: keberanian membela kebenaran dengan adab luhur. | Olahraga bela diri beradab, latihan kepemimpinan khidmah, & pengalihan amarah. |
+| **Quwwatusy Syahwah (Daya Keinginan/Nafsu)**| Potensi biologis mempertahankan kelangsungan hidup fisik. | *Syaraf* (rakus/kriminalitas seksual) atau *Khumud* (apati/hilang gairah). | **Al-'Iffah**: kesucian diri dan kesederhanaan konsumsi materiil. | Puasa sunnah teratur, manajemen waktu tidur, & penjagaan pandangan (*Ghadhdhul Bashar*). |
+| **Quwwatul 'Adl (Daya Keadilan Jiwa)** | Poros pengendali yang menata ketiga daya di bawah bimbingan wahyu. | Kedzaliman struktural, otoritarianisme, atau anarki kebebasan liar. | **Al-'Adalah**: proporsionalitas hakikat jiwa sebagai hamba Allah. | Pembudayaan iklim asrama yang adil, restoratif, dan bebas impunitas. |
 
 ---
 
-Albert Bandura dalam teori pembelajaran sosial membuktikan bahwa internalisasi karakter tidak terjadi melalui indoktrinasi verbal, melainkan melalui pemodelan keteladanan langsung (*qudwah hasanah*) yang konsisten. Dalam literatur rekayasa sistem kontemporer, Frankl dalam *Man's search for meaning* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^12].
-
-Dalam literatur rekayasa sistem kontemporer, Frankl dalam *Man's search for meaning* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^13].
-
 ## 7. Diagram Alur & Logika Dependensi Turunan Sistem
 
-```mermaid
-graph TD
-    classDef wvNode fill:#1e3a8a,stroke:#3b82f6,stroke-width:2px,color:#fff;
-    classDef epiNode fill:#047857,stroke:#10b981,stroke-width:2px,color:#fff;
-    classDef hnNode fill:#b45309,stroke:#f59e0b,stroke-width:2px,color:#fff;
-    classDef hdNode fill:#7c3aed,stroke:#8b5cf6,stroke-width:2px,color:#fff;
-    classDef opNode fill:#b91c1c,stroke:#ef4444,stroke-width:2px,color:#fff;
+Aliran deduktif pemahaman hakikat insan menuju seluruh instrumen sistemik pesantren dipetakan dalam rantai ketergantungan berikut:
 
-    WV["01_WORLDVIEW.md<br/>(Domain 01: Pandangan Alam Islam)"]:::wvNode
-    EPI["02_EPISTEMOLOGY.md<br/>(Domain 02: Teori Pengetahuan)"]:::epiNode
-    HN["03_HUMAN_NATURE.md<br/>(Domain 03: Hakikat Insan)"]:::hnNode
-    HD["04_HUMAN_DEVELOPMENT.md<br/>(Domain 04: Perkembangan Insan)"]:::hdNode
-    SOP["03_OPERATIONAL/02_SOP/<br/>(SOP Disiplin Berbasis Fitrah)"]:::opNode
-
-    WV -->|Mendasari Hakikat Asal Penciptaan| HN
-    EPI -->|Menyediakan Saluran Pemahaman Kalbu| HN
-    HN -->|Mendefinisikan Entitas yang Tumbuh| HD
-    HN -->|Menjadi Syarat Larangan Kekerasan| SOP
-```
-
-### 7.2. Skrip Otomasi Validasi Integritas Hakikat Insan (`audit_human_nature_policy.py`)
-
-Repositori menyediakan skrip linter untuk memindai dokumen tata tertib santri guna mendeteksi pasal-pasal ilegal yang melanggar kemuliaan fisik dan fitrah ruhani santri:
-
-### 8.2. Protokol Penjagaan Martabat Insan & Matriks Komponen Jiwa
-
-Pemahaman tentang hakikat manusia menjaga santri dari perlakuan tidak manusiawi melalui protokol perlindungan adab:
-
-1. **Prinsip Kemuliaan Asali (Inherent Dignity Protocol)**:
-   Setiap santri diposisikan sebagai makhluk mulia pemegang fitrah ketuhanan. Pelanggaran adab santri dipandang sebagai kekeruhan sementara yang perlu dibersihkan melalui ta'dib, bukan aib permanen yang melegalkan hukuman hina.
-
-2. **Uji Kesimbangan Aspek Jiwa**:
-   Desain intervensi pengasuhan wajib menyentuh seluruh potensi jiwa secara seimbang tanpa menindas potensi fitrahnya.
-
-3. **Matriks Komponen Jiwa Santri dan Pendekatan Edukasinya**:
-
-| Potensi Jiwa | Hakikat Sifat | Fungsi Fitrah | Pendekatan Tarbiyah TUMBUH |
-|---|---|---|---|
-| **Ruh** | Suci, rindu kepada Allah | Menjaga ikatan spiritual | Penguatan zikir, tilawah, & tafakkur |
-| **Akal** | Alat penimbang kebenaran | Menangkap hikmah & ilmu | Pembiasaan dialog kritis beradab |
-| **Nafsu (Syahwat/Ghadhab)**| Daya dorong biologis & defensif | Mempertahankan hidup | Pengendalian diri (*riyadhah*) tanpa penindasan |
-| **Qalb** | Poros penentu arah amal | Memilih ketaatan atau maksiat | Pembersihan hati (*tazkiyatun nufus*) |
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
-Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
-- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
-- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
-- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
-- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
-
-
-### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
-Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
-- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
-- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
-- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
-- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
-- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
-- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
-- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 5**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 6**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 7**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 8**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 9**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+| Tingkatan Arsitektur | Dokumen Rujukan Kanonik | Hubungan Ketergantungan Alur (*Dependency Flow*) | Mandat Khusus Perlindungan Jiwa Santri |
+| :--- | :--- | :--- | :--- |
+| **Fondasi Hulu (D3)** | `03_HUMAN_NATURE.md` | Jangkar Antropologi Insan | Menetapkan fitrah kemuliaan manusia, hakikat kalbu, dan empat daya jiwa. |
+| **Fondasi Hilir (D4 & D5)** | `04_HUMAN_DEV` & `05_EDUCATION` | Diturunkan langsung dari Domain 03 | Menyelaraskan tahapan kematangan kognitif dan seni pedagogi ta'dib. |
+| **Lapisan Kebijakan (02)** | `02_IMPLEMENTATION/03_PBIS/` | Menerjemahkan prinsip D3 ke sistem PBIS | Sistem intervensi berjenjang Tier 1, 2, 3 wajib berfokus pada pemulihan kalbu. |
+| **Lapisan Operasional (03)**| `03_OPERATIONAL/01_SOP/` | Eksekusi langsung musyrif kamar | Diharamkan secara mutlak segala bentuk kontak fisik hukuman dan caci maki. |
 
 ---
 
 ## 8. Spesifikasi Formulir Audit Pemahaman Fitrah Insan (Form F-HN-AUDIT)
 
-Formulir ini digunakan oleh Pengasuh Pesantren untuk mengevaluasi apakah program pembinaan santri telah selaras dengan arsitektur Hakikat Insan:
+Setiap rancangan program pengasuhan, tata tertib kamar, dan pelatihan musyrif wajib diaudit menggunakan Formulir **F-HN-AUDIT**:
 
-| No | Parameter Evaluasi Hakikat Insan | Indikator Keberhasilan (Success Indicator) | Bukti Audit Lapangan | Status Verifikasi |
-|:---|:---|:---|:---|:---:|
-| 1 | **Penghormatan Martabat Fisik (*Karamah Jasad*)** | Nol insiden kekerasan fisik, pemukulan, atau penjemuran yang merusak jasmani. | Laporan rekam medis asrama & kotak pengaduan santri bersih. | [ ] Lolos / [ ] Revisi |
-| 2 | **Penyentuhan Dimensi Kalbu (*Tazkiyah Focus*)** | Intervensi kesalahan selalu diawali dengan muhasabah niat dan doa bersama. | Catatan jurnal bimbingan musyrif memuat dialog kalbu. | [ ] Lolos / [ ] Revisi |
-| 3 | **Pemberdayaan Akal Sehat (*Tanwirul 'Aql*)** | Santri diajak memahami hikmah di balik setiap tata tertib, bukan sekadar dipaksa patuh. | Notulensi musyawarah kamar membahas hikmah adab. | [ ] Lolos / [ ] Revisi |
-| 4 | **Penyaluran Energi Nafs yang Proporsional** | Tersedianya wadah olahraga, riyadhah fisik sunnah, dan ekspresi kreativitas halal. | Jadwal mingguan asrama memiliki alokasi waktu riyadhah aktif. | [ ] Lolos / [ ] Revisi |
-| 5 | **Pengakuan Sifat Pelupa & Kerapuhan Manusia** | Kesalahan perdana diperlakukan sebagai momen belajar (*learning moment*), bukan langsung dicap durhaka. | Prosedur peringatan bertahap diterapkan secara konsisten. | [ ] Lolos / [ ] Revisi |
-| 6 | **Pencegahan Labeling Stigmatisasi Negatif** | Dilarang keras menjuluki santri dengan gelar buruk ("Si Pemalas", "Santri Nakal"). | Rekaman interaksi bahasa musyrif bebas dari sarkasme verbal. | [ ] Lolos / [ ] Revisi |
-| 7 | **Keteladanan Kasih Sayang Murabbi** | Musyrif memposisikan diri sebagai pengasuh yang mengasihi santri karena Allah (*abur ruh*). | Angket evaluasi kepuasan batin santri terhadap musyrif $\ge 85\%$. | [ ] Lolos / [ ] Revisi |
-
-### 8.2. Matriks Komparatif Respons Pengasuhan: Model Reduksionistik Fisik vs Model Fitrah Kalbu
-
-| Situasi Perilaku Santri | Respons Reduksionistik Fisik (Anti-Pattern Dilarang) | Respons Berbasis Fitrah Kalbu (Standar Kanonik TUMBUH) | Hasil Jangka Panjang pada Jiwa Santri |
-|:---|:---|:---|:---|
-| **Terlambat Bangun Subuh** | Menyiram air dingin ke wajah, memukul kasur dengan kayu, membentak kasar di lorong. | Membangunkan dengan salam lembut, mengusap punggung, mengingatkan keutamaan shalat berjamaah. | Santri bangun dengan kelapangan dada dan cinta ibadah, bukan dengan kepanikan stres. |
-| **Berkelahi / Berselisih di Kamar** | Menghukum fisik kedua belah pihak (push-up bersama di lapangan), memarahi di depan umum. | Memisahkan ke ruang tenang, de-eskalasi emosi amarah (*ghadhab*), dialog ishlah dan saling memaafkan. | Tumbuhnya kecerdasan regulasi emosi, pemulihan ukhuwah, dan hilangnya dendam terpendam. |
-| **Menangis Karena Homesick** | Melabeli cengeng, mengancam sanksi jajan, menuduh niatnya tidak ikhlas menuntut ilmu. | Memeluk dengan hangat, mendengarkan kesedihannya, membimbing doa untuk orang tua, memberi pendampingan sebaya. | Santri merasa aman secara emosional (*psychological safety*), cepat beradaptasi, dan mencintai asrama. |
-| **Malas Mengulang Hafalan (Muraja'ah)** | Menjemur di bawah sinar matahari sambil memegang mushaf, mencabut jatah istirahat. | Mengidentifikasi kelelahan kognitif (*mental fatigue*), menata ulang jadwal tidur, menyegarkan motivasi ruhiyah. | Hafalan terjaga dengan nikmat, mushaf dicintai, dan terhindar dari trauma Al-Qur'an. |
-| **Melanggar Aturan Jam Tidur Malam** | Mengurung di kamar mandi gelap, menyuruh push-up 50 kali tengah malam. | Mematikan lampu kamar dengan tertib, mengajak muhasabah malam singkat, mendampingi hingga tertidur. | Ritme sirkadian santri pulih, tubuh bugar di waktu fajar, dan terjaganya adab malam. |
-
-### 8.4. Pendekatan Komprehensif Tazkiyatun Nufus dalam Manajemen Asrama
-Memahami manusia sebagai kesatuan ruh, akal, nafsu, dan kalbu menuntut penyelenggaraan kehidupan asrama yang berorientasi pada penyucian jiwa (*tazkiyatun nufus*). Pesantren bukan sekadar tempat tinggal komunal, melainkan bengkel pembentukan jiwa di mana potensi kebaikan fitrah ditumbuhkan dan dorongan nafsu hewani dijinakkan.
-
-Pendekatan TUMBUH memandang gejolak nafsu ammarah atau nafsu syahwat pada santri remaja bukan sebagai musuh yang harus dihancurkan melalui kekerasan fisik, melainkan sebagai energi liar yang membutuhkan pengalihan positif (*sublimasi*). Melalui jadwal harian yang dinamis, olahraga teratur, puasa sunnah, pendampingan halaqah Quran, dan muhasabah malam, daya dorong nafsu santri dialirkan menjadi semangat belajar, karya nyata, dan khidmah kepada sesama santri.
+| No | Parameter Audit Fitrah Insan | Tolok Ukur Kepatuhan Martabat Insan (*Pass Threshold*) | Status Evaluasi |
+| :-: | :--- | :--- | :---: |
+| **1** | **Larangan Hukuman Fisik Mutlak** | Nol toleransi terhadap pemukulan, tamparan, tendangan, push-up berlebih, atau penjemuran. | Lolos Audit |
+| **2** | **Penjagaan Kehormatan Wajah & Tubuh** | Tidak ada tindakan yang mempermalukan santri (mencukur botak paksa atau papan aib). | Lolos Audit |
+| **3** | **Orientasi Bimbingan Kalbu (*Niyyah*)** | Penegakan adab diarahkan untuk memupuk kesadaran taubat, bukan sekadar kepatuhan terpaksa. | Lolos Audit |
+| **4** | **Sublimasi Energi Emosional Remaja** | Tersedia program olahraga sehat dan kegiatan kreatif untuk menyalurkan energi syahwat & ghadhab. | Lolos Audit |
+| **5** | **Protokol Dialog Empatik Empat Mata** | Setiap pelanggaran santri diselesaikan melalui sesi konseling tertutup tanpa disaksikan kawan sebaya. | Lolos Audit |
+| **6** | **Ketiadaan Sanksi Kolektif Seangkatan** | Hukuman tidak boleh dijatuhkan kepada satu kamar atau satu angkatan atas kesalahan individu. | Lolos Audit |
 
 ---
 
 ## 9. Architectural Decision Record (ADR): Penguncian Domain 03 Human Nature
 
-### Context
-Praktek pendisiplinan santri di asrama sering terjebak dalam pendekatan behavioristik mekanik yang mereduksi manusia menjadi hewan latih: menggunakan kekerasan fisik, teriakan kasar, dan sanksi yang mempermalukan kehormatan insani. Diperlukan ketetapan konstitusi repositori yang mengikat pemahaman Hakikat Insan (*Human Nature*) sebagai Domain 03 yang mengunci seluruh metode pengasuhan.
+Keputusan arsitektur ini disahkan secara kanonik ke dalam dokumen ketetapan sistem repositori:
 
-### Decision
-Diputuskan secara mutlak dan permanen bahwa:
-1. `03_HUMAN_NATURE.md` adalah **Domain Ketiga (Domain 03)** di dalam lapisan `01_FUNDAMENTAL/01_FOUNDATION/` dan menjadi jangkar antropologis resmi repositori TUMBUH v2.0.0.
-2. Dilarang keras merancang SOP asrama, program kurikulum, atau sanksi disiplin yang menodai kehormatan jasmani dan fitrah ruhani santri.
-3. Seluruh dokumen di lapisan operasional wajib lolos audit bebas kekerasan menggunakan skrip `audit_human_nature_policy.py` dan Formulir `F-HN-AUDIT`.
+| Parameter Metadata ADR | Ketetapan Kanonik Repositori |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0026 |
+| **Judul Keputusan** | Penguncian Domain 03 Human Nature sebagai Standar Perlindungan Martabat Insan dan Larangan Kekerasan Fisik |
+| **Status Keputusan** | *Approved & Permanently Locked Canonical Baseline* |
+| **Tanggal Penetapan** | 2026-10-25 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 & Majelis Konsil Masyayikh |
+| **Wilayah Terdampak** | Subdirektori `01_FUNDAMENTAL/01_FOUNDATION/` dan Seluruh Regulasi Asrama |
 
-### Status
-`APPROVED & LOCKED` (Ketetapan Konstitusi Repositori Branch v2.0.0).
-
-### Consequences
-- **Positif**: Terlindunginya santri dari trauma fisik dan mental, terciptanya suasana asrama yang penuh rahmah dan wibawa, tumbuh suburnya kesadaran adab yang ikhlas dari dalam kalbu santri, dan terjaganya akuntabilitas hukum lembaga pesantren.
-- **Tantangan**: Menuntut musyrif untuk meningkatkan kesabaran dan kematangan emosional dalam membina santri, serta meninggalkan kebiasaan lama menghukum dengan emosi amarah sesaat.
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks Permasalahan** | Praktik pendisiplinan santri di asrama kerap terjebak dalam pendekatan behavioristik mekanik yang mereduksi manusia menjadi hewan latih: menggunakan kekerasan fisik, intimidasi bentakan, dan sanksi yang menodai kehormatan jasmani. Diperlukan ketetapan konstitusi repositori yang mengikat pemahaman Hakikat Insan (*Human Nature*) sebagai Domain 03 yang mengunci seluruh metode pengasuhan. |
+| **2. Keputusan Arsitektural** | Diputuskan secara mutlak dan permanen bahwa:<br>a. `03_HUMAN_NATURE.md` adalah **Domain Ketiga (Domain 03)** di dalam lapisan `01_FUNDAMENTAL/01_FOUNDATION/` dan menjadi jangkar antropologis resmi repositori TUMBUH v2.0.0.<br>b. Dilarang keras merancang SOP asrama, program kurikulum, atau sanksi disiplin yang menodai kehormatan jasmani dan fitrah ruhani santri.<br>c. Seluruh dokumen di lapisan operasional wajib lolos audit bebas kekerasan menggunakan skrip `audit_human_nature_policy.py` dan Formulir `F-HN-AUDIT`. |
+| **3. Justifikasi Teologis & Epistemik** | • Menegakkan doktrin kemuliaan bani Adam dalam Al-Qur'an (QS. Al-Isra: 70).<br>• Mengikuti penjelasan anatomi kalbu Hujjatul Islam Imam Al-Ghazali (*Ihya' 'Ulum ad-Din*).<br>• Mengikuti konsepsi ruh yang mukarram menurut Imam Ibnu Qayyim Al-Jauziyyah (*Kitab ar-Ruh*).<br>• Menegakkan hadits shahih riwayat Bukhari-Muslim tentang larangan memukul wajah (*Idza dharaba ahadukum fal-yajtanib al-wajha*). |
+| **4. Konsekuensi Positif** | • Terlindunginya santri secara mutlak dari trauma fisik dan depresi mental di asrama.<br>• Terciptanya suasana asrama yang penuh wibawa, rahmah, dan keteladanan nabawiyyah.<br>• Tumbuh suburnya kesadaran adab yang ikhlas dari dalam kalbu santri tanpa rasa takut semu.<br>• Terjaganya reputasi dan akuntabilitas hukum lembaga pesantren di hadapan masyarakat. |
+| **5. Tantangan & Mitigasi** | Menuntut musyrif meningkatkan kesabaran emosional dan meninggalkan kebiasaan menghukum spontan.<br>*Mitigasi:* Pelatihan manajemen asrama positif, konseling restoratif, dan supervisi lapangan berkala. |
 
 ---
 
@@ -353,70 +177,66 @@ Diputuskan secara mutlak dan permanen bahwa:
 
 Sepuluh pedoman perlindungan martabat fitrah insan yang wajib dipatuhi:
 
-- [x] **Guardrail 1 (Absolute Zero Corporal Punishment)**: Dilarang keras segala bentuk pemukulan fisik, tamparan, tendangan, atau hukuman yang menimbulkan rasa sakit jasmani.
-- [x] **Guardrail 2 (No Public Humiliation)**: Dilarang mempermalukan santri di depan umum (mencukur botak sebagian, menggantung papan aib di leher, atau memajang kesalahan di mading).
-- [x] **Guardrail 3 (Sanctity of the Human Face)**: Menjaga kehormatan wajah santri; haram memukul atau menyentuh wajah dengan niat menghina (*nahiyun 'an dharbil wajh*).
-- [x] **Guardrail 4 (Affirmation of Primordial Fitrah)**: Setiap santri wajib dipandang memiliki potensi dasar kebaikan; haram menganggap seorang santri "sudah rusak tak bisa diperbaiki".
-- [x] **Guardrail 5 (Rejection of Animalistic Reduction)**: Dilarang menerapkan teori pengkondisian operan yang menyamakan santri dengan hewan percobaan tanpa kesadaran kalbu.
+- [x] **Guardrail 1 (Absolute Zero Corporal Punishment)**: Dilarang keras segala bentuk pemukulan fisik, tamparan, tendangan, atau sanksi yang menimbulkan rasa sakit jasmani.
+- [x] **Guardrail 2 (No Public Humiliation)**: Dilarang mempermalukan santri di depan umum (mencukur botak paksa, menggantung papan kesalahan, atau mencemooh di depan barisan).
+- [x] **Guardrail 3 (Sanctity of the Human Face)**: Menjaga kehormatan wajah santri; haram memukul, menampar, atau menyentuh wajah dengan niat menghina (*nahy 'an dharbil wajh*).
+- [x] **Guardrail 4 (Affirmation of Primordial Fitrah)**: Setiap santri wajib dipandang memiliki potensi dasar kebaikan fitrah; haram mencap santri sebagai "anak bejat tak terobati".
+- [x] **Guardrail 5 (Rejection of Animalistic Reduction)**: Dilarang menerapkan teori pengkondisian operan yang menyamakan santri dengan hewan sirkus tanpa kesadaran kalbu.
 - [x] **Guardrail 6 (Tazkiyah-Oriented Discipline)**: Setiap sanksi disiplin wajib bermakna edukatif restoratif dan diiringi bimbingan penyucian jiwa serta permohonan ampun kepada Allah.
-- [x] **Guardrail 7 (Turats Anthropological Rooting)**: Wajib menyandarkan konsep jiwa pada karya-karya mu'tamad Imam Al-Ghazali, Ibn Qayyim, dan ulama tasawuf Ahlus Sunnah yang bersih dari bid'ah.
-- [x] **Guardrail 8 (No Collective Retaliation)**: Kesalahan satu orang tidak boleh ditimpakan kepada teman sekamar atau satu angkatan (*la taziru waziratun wizra ukhra*).
+- [x] **Guardrail 7 (Turats Anthropological Rooting)**: Wajib menyandarkan konsep jiwa pada karya-karya mu'tamad Imam Al-Ghazali, Ibnu Qayyim, dan ulama Ahlus Sunnah yang bersih dari bid'ah.
+- [x] **Guardrail 8 (No Collective Retaliation)**: Kesalahan satu orang santri tidak boleh ditimpakan kepada teman sekamar atau satu angkatan (*la taziru waziratun wizra ukhra*).
 - [x] **Guardrail 9 (Compulsory F-HN-AUDIT Clearance)**: Setiap modul pelatihan musyrif wajib diverifikasi memenuhi standar pemahaman fitrah insan.
-- [x] **Guardrail 10 (Restorative Dialogue Protocol)**: Sebelum sanksi disepakati, musyrif wajib mendengarkan jeritan batin santri melalui dialog empati empat mata yang rahasia.
+- [x] **Guardrail 10 (Restorative Dialogue Protocol)**: Sebelum sanksi disepakati, musyrif wajib mendengarkan jeritan batin santri melalui sesi dialog empati empat mata yang rahasia.
 
 ---
 
-## 11. Traceability Matrix & Bibliografi Rujukan Terkurasi
+## 11. Traceability Matrix Antarlapisan Repositori
 
-### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
-- `01_FUNDAMENTAL/01_FOUNDATION/03_HUMAN_NATURE.md`: Berkas target langsung yang dijustifikasi dan dikunci oleh monograf inkuiri kanonik ini.
-- `PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md`: Fondasi ontologis yang mendefinisikan asal-usul penciptaan manusia oleh Allah.
-- `PROBE/PROBE_01/P00025-Mengapa-Epistemology-Wajib-Diletakkan-Langsung-Setelah-Worldview.md`: Saluran ilmu yang menghubungkan akal dan kalbu manusia dengan kebenaran wahyu.
-- `PROBE/PROBE_01/P00027-Mengapa-Human-Development-Ditempatkan-Setelah-Human-Nature.md`: Inkuiri berikutnya yang membedah bagaimana hakikat insan ini tumbuh melalui tahapan usia.
+Penyelidikan kanonik P00026 ini memiliki jalinan keterkaitan langsung dengan berbagai dokumen kunci di repositori TUMBUH v2.0.0:
+
+| Berkas Sasaran Repositori | Hubungan Keterikatan | Implikasi Rekayasa Sistemik |
+| :--- | :--- | :--- |
+| `01_FUNDAMENTAL/01_FOUNDATION/03_HUMAN_NATURE.md` | Berkas Target Langsung | Menjadi naskah konstitusi antropologi insan resmi yang disahkan oleh inkuiri ini. |
+| `PROBE/PROBE_01/P00024` | Landasan Hulu Ontologis | Menyediakan kerangka worldview tauhid yang mendefinisikan asal-usul penciptaan manusia. |
+| `PROBE/PROBE_01/P00025` | Landasan Hulu Epistemologis | Menyediakan saluran akal dan kalbu yang menjadi instrumen penyerapan ilmu oleh insan. |
+| `PROBE/PROBE_01/P00027` | Inkuiri Hilir Langsung | Mengalirkan pemahaman hakikat jiwa insan menuju pemetaan tahapan tumbuh kembang santri. |
+
 ---
 
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+## 12. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
 
-Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+### 12.1. Catatan Kaki Akademis
+[^1]: Al-Attas, S. M. N. (1990). *The Nature of Man and the Psychology of the Human Soul* (hlm. 1–25). International Institute of Islamic Thought and Civilization (ISTAC).
+[^2]: Al-Ghazali, A. H. (2004). *Ihya' 'Ulum al-Din: Kitab Syarh 'Aja'ib al-Qalb* (A. Ali, Tahqiq; Juz 3, hlm. 2–18). Dar asy-Sya'b.
+[^3]: Ibnu Qayyim al-Jauziyyah, M. (1998). *Kitab ar-Ruh fi al-Kalam 'ala Arwah al-Amwat wal-Ahya'* (B. al-Jabi, Tahqiq; hlm. 178–182). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila Makarim asy-Syari'ah* (A. Y. al-'Ajami, Tahqiq; hlm. 35–48). Dar ash-Shahwah.
+[^5]: Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (A. R. an-Najdi, Tahqiq; Juz 16, hlm. 320–345). Mujamma' al-Malik Fahd.
+[^6]: Skinner, B. F. (1971). *Beyond Freedom and Dignity* (hlm. 45–68). Alfred A. Knopf.
+[^7]: Ibnu Miskawaih, A. A. (1966). *Tahdzib al-Akhlaq wa Tathhir al-A'raq* (K. Zurayk, Tahqiq; hlm. 40–55). American University of Beirut.
 
-[^1]: Al-Attas, S. M. N. (1990). *The nature of man and the psychology of the human soul*. International Institute of Islamic Thought and Civilization (ISTAC).
-[^2]: Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab syarh 'aja'ib al-qalb* (Tahqiq A. Ali, Jilid 3). Dar asy-Sya'b.
-[^3]: Ibn Qayyim al-Jauziyyah, M. (1998). *Ar-Ruh fi al-kalam 'ala arwah al-amwat wa al-ahya'* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^4]: Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila makarim asy-syari'ah* (A. Y. al-'Ajami, Ed.). Dar ash-Shahwah.
-[^5]: Ibn Taimiyyah, A. H. (1995). *Majmu' al-fatawa* (A. R. an-Najdi, Ed., Jilid 16). Mujamma' al-Malik Fahd.
-[^6]: Skinner, B. F. (1971). *Beyond freedom and dignity*. Knopf.
-[^7]: Ibn Miskawaih, A. A. (1966). *Tahdzib al-akhlaq wa tathhir al-a'raq* (K. Zurayk, Ed.). American University of Beirut.
-[^8]: Al-Muhasibi, A. H. (1986). *Ar-Ri'ayah li huquqillah* (A. A. Abdul Qadir, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^9]: Al-Farabi, A. N. (1993). *Mabadi' ara' ahl al-madinah al-fadhilah* (A. N. Nadir, Ed.). Dar al-Masyriq.
-[^10]: Ibn Sina, A. A. (1952). *Ahwal an-nafs: Risalah fi an-nafs wa baqa'iha wa ma'adiha* (A. F. al-Ahwani, Ed.). Dar Ihya' al-Kutub al-'Arabiyyah.
-[^11]: Ibn Qayyim al-Jauziyyah, M. (2003). *Ighatsat al-lahfan min masyayid asy-syaithan* (M. H. al-Fiqi, Ed., Jilid 1). Dar al-Ma'rifah.
-[^12]: Bandura, A. (1986). *Social foundations of thought and action: A social cognitive theory*. Prentice-Hall.
-[^13]: Frankl, V. E. (1984). *Man's search for meaning*. Washington Square Press.
+---
 
-## 12. Rekomendasi Aksi Nyata Bagi Pengembang Kurikulum TUMBUH
-
-Langkah konkret yang wajib diambil pasca pengesahan monograf ini:
-
-1. **Penerbitan Dokumen Kanonik 03_HUMAN_NATURE.md**:
-   Susun naskah resmi `01_FUNDAMENTAL/01_FOUNDATION/03_HUMAN_NATURE.md` dengan menyerap empat daya kejiwaan dan konsep fitrah insaniyyah secara komprehensif.
-2. **Pembersihan Total Seluruh Tata Tertib dari Hukuman Fisik**:
-   Cabut seluruh pasal di buku pedoman asrama yang membolehkan hukuman fisik, penjemuran, push-up, dan pemotongan rambut paksa sebagai bentuk hukuman.
-3. **Pemasangan Linter audit_human_nature_policy.py pada CI**:
-   Daftarkan skrip audit perlindungan martabat insan ke dalam GitHub Actions guna mencegah commit dokumen baru yang memuat pasal kekerasan fisik.
-4. **Pelatihan Fiqh al-Qalb bagi Musyrif Kamar**:
-   Adakan kursus wajib bagi seluruh musyrif bertajuk *"Memahami Dinamika Kalbu dan Nafs Remaja"* agar mereka mampu mendiagnosis akar masalah perilaku santri secara bijaksana.
-5. **Penyediaan Layanan Konseling Kalbu Restoratif**:
-   Bentuk unit bimbingan konseling asrama yang berfokus pada pemulihan fitrah santri melalui pendekatan taubat, tazkiyah, dan restitusi tanggung jawab.
-6. **Integrasi Kamar Tenang De-eskalasi (Ghurfah at-Tahdi'ah)**:
-   Sediakan satu ruangan khusus yang nyaman dan sejuk di tiap gedung asrama untuk santri yang mengalami krisis amarah (*ghadhab*) atau kecemasan agar dapat menenangkan diri tanpa ditonton kawan-kawannya.
-7. **Penyusunan Rubrik Profil Fitrah Individual Santri**:
-   Kembangkan instrumen observasi kualitatif yang memetakan kecenderungan daya kejiwaan masing-masing santri (apakah dominan ghadhab, syahwat, atau intelektual) guna memberikan bimbingan personal yang presisi.
+### 12.2. Bibliografi Terkurasi (Standar APA 7th Edition)
+1. Al-Attas, S. M. N. (1990). *The Nature of Man and the Psychology of the Human Soul*. International Institute of Islamic Thought and Civilization (ISTAC).
+2. Al-Farabi, A. N. (1993). *Mabadi' Ara' Ahl al-Madinah al-Fadhilah* (A. N. Nadir, Tahqiq). Dar al-Masyriq.
+3. Al-Ghazali, A. H. (2004). *Ihya' 'Ulum al-Din* (A. Ali, Tahqiq; 4 Jilid). Dar asy-Sya'b.
+4. Al-Ghazali, A. H. (2006). *Mizan al-'Amal* (S. Dunya, Tahqiq). Dar al-Ma'arif.
+5. Al-Isfahani, A. R. (1987). *Adz-Dzari'ah ila Makarim asy-Syari'ah* (A. Y. al-'Ajami, Tahqiq). Dar ash-Shahwah.
+6. Al-Muhasibi, A. H. (1986). *Ar-Ri'ayah li Huquqillah* (A. A. Abdul Qadir, Tahqiq). Dar al-Kutub al-'Ilmiyyah.
+7. Bandura, A. (1986). *Social Foundations of Thought and Action: A Social Cognitive Theory*. Prentice-Hall.
+8. Frankl, V. E. (1984). *Man's Search for Meaning*. Washington Square Press.
+9. Ibnu Miskawaih, A. A. (1966). *Tahdzib al-Akhlaq wa Tathhir al-A'raq* (K. Zurayk, Tahqiq). American University of Beirut.
+10. Ibnu Qayyim al-Jauziyyah, M. (1998). *Kitab ar-Ruh fi al-Kalam 'ala Arwah al-Amwat wal-Ahya'*. Dar al-Kutub al-'Ilmiyyah.
+11. Ibnu Qayyim al-Jauziyyah, M. (2003). *Ighatsat al-Lahfan min Masayid asy-Syaithan* (M. H. al-Fiqi, Tahqiq; 2 Jilid). Dar al-Ma'rifah.
+12. Ibnu Sina, A. A. (1952). *Ahwal an-Nafs: Risalah fi an-Nafs wa Baqa'iha wa Ma'adiha* (A. F. al-Ahwani, Tahqiq). Dar Ihya' al-Kutub al-'Arabiyyah.
+13. Ibnu Taimiyyah, A. H. (1995). *Majmu' al-Fatawa* (37 Jilid). Mujamma' al-Malik Fahd.
+14. Skinner, B. F. (1971). *Beyond Freedom and Dignity*. Alfred A. Knopf.
 
 ---
 
 ## 13. Emergent Questions & Inkuiri Lanjutan (Chain of Inquiry)
 
-Pengesahan hakikat statis dan ontologis jiwa manusia secara organik membuka inkuiri berikutnya mengenai dimensi waktu dan pertumbuhan bertahap:
+Pengesahan hakikat statis dan ontologis jiwa manusia secara organik membuka inkuiri berikutnya mengenai dimensi waktu dan tahapan tumbuh kembang fitrah:
 
-- **P00027**: *Mengapa Human Development (Perkembangan Insan) Ditempatkan Setelah Human Nature?* (Menyelidiki bagaimana fitrah, akal, dan kalbu manusia bertransformasi secara bertahap dari fase thufulah/kanak-kanak, tamyiz, baligh/murohaqoh, hingga rusyd/dewasa).
-- **P00028**: *Mengapa Education (Hakikat Pendidikan) Diletakkan Setelah Pemahaman Perkembangan Insan?* (Menyelidiki mengapa metode pedagogi tidak boleh dirumuskan sebelum karakteristik perkembangan santri dipahami secara utuh).
+- [P00027](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00027-Mengapa-Human-Development-Perkembangan-Insan-Ditempatkan-Setelah-Human-Nature.md): *Mengapa Human Development (Perkembangan Insan) Ditempatkan Setelah Human Nature?* (Menyelidiki bagaimana fitrah, akal, dan kalbu manusia bertransformasi secara bertahap melalui fase-fase biologis dan spiritual: thufulah, tamyiz, murohaqoh/baligh, hingga rusyd).
+- [P00028](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00028-Mengapa-Education-Hakikat-Pendidikan-Diletakkan-Setelah-Pemahaman-Perkembangan-Insan.md): *Mengapa Education (Hakikat Pendidikan) Diletakkan Setelah Pemahaman Perkembangan Insan?* (Menyelidiki mengapa metode pedagogi tidak boleh dirumuskan sebelum karakteristik perkembangan santri dipahami secara utuh).
