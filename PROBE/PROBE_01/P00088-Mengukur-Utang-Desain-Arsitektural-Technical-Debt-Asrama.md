@@ -580,11 +580,11 @@ Setelah sistem berhasil memetakan dan mulai melunasi utang desain fisik dan regu
 - Muslim bin al-Hajjaj an-Naisaburi. (2006). *Shahih Muslim* (Tahqiq: Nazar bin Musthafa al-Baz, 2 Jilid). Riyadh: Dar Thayyibah.
 
 ### Literatur Rekayasa Sistem, Technical Debt, & Manajemen Operasional Kontemporer
-- Avgeriou, P., Kruchten, P., Ozkaya, I., & Seaman, C. (2016). Managing technical debt for software-intensive systems. *IEEE Software*, 33(4), 18-24. https://doi.org/10.1109/MS.2016.90
+- Avgeriou, P., Kruchten, P., Ozkaya, I., & Seaman, C. (2016). Managing technical debt for software-intensive systems. *IEEE Software*, 33(4), 18-24.
 - Baldwin, C. Y., & Clark, K. B. (2000). *Design rules: The power of modularity* (Vol. 1). Cambridge, MA: The MIT Press.
-- Cunningham, W. (1992). The WyCash portfolio management system. *ACM SIGPLAN OOPS Messenger*, 4(2), 29-30. https://doi.org/10.1145/157710.157715
-- Fowler, M. (2009). *Technical debt quadrant*. https://martinfowler.com/bliki/TechnicalDebtQuadrant.html
-- Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). Technical debt: From metaphor to theory and practice. *IEEE Software*, 29(6), 18-21. https://doi.org/10.1109/MS.2012.167
-- Lehman, M. M. (1980). Programs, life cycles, and laws of software evolution. *Proceedings of the IEEE*, 68(9), 1060-1076. https://doi.org/10.1109/PROC.1980.11805
+- Cunningham, W. (1992). The WyCash portfolio management system. *ACM SIGPLAN OOPS Messenger*, 4(2), 29-30.
+- Fowler, M. (2009). *Technical debt quadrant*. Martin Fowler Bliki Architecture.
+- Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). Technical debt: From metaphor to theory and practice. *IEEE Software*, 29(6), 18-21.
+- Lehman, M. M. (1980). Programs, life cycles, and laws of software evolution. *Proceedings of the IEEE*, 68(9), 1060-1076.
 - Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Revised ed.). New York: Doubleday.
-- Tom, E., Aurum, A., & Vidgen, R. (2013). An exploration of technical debt: An exploratory study. *Information and Software Technology*, 55(10), 1798-1816. https://doi.org/10.1016/j.infsof.2013.04.005
+- Tom, E., Aurum, A., & Vidgen, R. (2013). An exploration of technical debt: An exploratory study. *Information and Software Technology*, 55(10), 1798-1816.

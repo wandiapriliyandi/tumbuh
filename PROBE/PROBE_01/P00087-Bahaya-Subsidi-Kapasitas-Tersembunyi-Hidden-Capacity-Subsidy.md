@@ -496,12 +496,12 @@ Keberhasilan membongkar subsidi kapasitas tersembunyi yang menutupi cacat desain
 - Muslim bin al-Hajjaj an-Naisaburi. (2006). *Shahih Muslim* (Tahqiq: Nazar bin Musthafa al-Baz, 2 Jilid). Riyadh: Dar Thayyibah.
 
 ### Literatur Ergonomi, Psikologi Organisasi, & Neurosains Kontemporer
-- Bakker, A. B., & Demerouti, E. (2007). The job demands-resources model: State of the art. *Journal of Managerial Psychology*, 22(3), 309-328. https://doi.org/10.1108/02683940710733115
-- Benington, J. H., & Heller, H. C. (1995). Restoration of brain energy metabolism as the function of sleep. *Progress in Neurobiology*, 45(4), 347-360. https://doi.org/10.1016/0301-0082(94)00057-O
-- Cunningham, W. (1992). The WyCash portfolio management system. *ACM SIGPLAN OOPS Messenger*, 4(2), 29-30. https://doi.org/10.1145/157710.157715
-- Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The job demands-resources model of burnout. *Journal of Applied Psychology*, 86(3), 499-512. https://doi.org/10.1037/0021-9010.86.3.499
-- Hart, S. G., & Staveland, L. E. (1988). Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. *Advances in Psychology*, 52, 139-183. https://doi.org/10.1016/S0166-4115(08)62386-9
-- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry*, 15(2), 103-111. https://doi.org/10.1002/wps.20311
+- Bakker, A. B., & Demerouti, E. (2007). The job demands-resources model: State of the art. *Journal of Managerial Psychology*, 22(3), 309-328.
+- Benington, J. H., & Heller, H. C. (1995). Restoration of brain energy metabolism as the function of sleep. *Progress in Neurobiology*, 45(4), 347-360.
+- Cunningham, W. (1992). The WyCash portfolio management system. *ACM SIGPLAN OOPS Messenger*, 4(2), 29-30.
+- Demerouti, E., Bakker, A. B., Nachreiner, F., & Schaufeli, W. B. (2001). The job demands-resources model of burnout. *Journal of Applied Psychology*, 86(3), 499-512.
+- Hart, S. G., & Staveland, L. E. (1988). Development of NASA-TLX (Task Load Index): Results of empirical and theoretical research. *Advances in Psychology*, 52, 139-183.
+- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry*, 15(2), 103-111.
 - Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Revised ed.). New York: Doubleday.
 - Walker, M. (2017). *Why we sleep: Unlocking the power of sleep and dreams*. New York: Scribner.
-- Yoo, S. S., Gujar, N., Hu, P., Jolesz, F. A., & Walker, M. P. (2007). The human emotional brain without sleep: A prefrontal amygdala disconnect. *Current Biology*, 17(20), R877-R878. https://doi.org/10.1016/j.cub.2007.08.007
+- Yoo, S. S., Gujar, N., Hu, P., Jolesz, F. A., & Walker, M. P. (2007). The human emotional brain without sleep: A prefrontal amygdala disconnect. *Current Biology*, 17(20), R877-R878.

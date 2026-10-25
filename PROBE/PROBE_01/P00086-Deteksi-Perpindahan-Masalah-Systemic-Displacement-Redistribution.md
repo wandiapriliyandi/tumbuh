@@ -551,14 +551,14 @@ Keberhasilan mengidentifikasi bahwa penertiban yang kaku kerap hanya memindahkan
 - Muslim bin al-Hajjaj an-Naisaburi. (2006). *Shahih Muslim* (Tahqiq: Nazar bin Musthafa al-Baz, 2 Jilid). Riyadh: Dar Thayyibah.
 
 ### Literatur Kriminologi Lingkungan, Teori Sistem, & Dinamika Perilaku Kontemporer
-- Bowers, K. J., & Johnson, S. D. (2003). Measuring the geographical displacement and diffusion of benefit effects of crime prevention activity. *Journal of Quantitative Criminology*, 19(3), 275-301. https://doi.org/10.1023/A:1024909120610
+- Bowers, K. J., & Johnson, S. D. (2003). Measuring the geographical displacement and diffusion of benefit effects of crime prevention activity. *Journal of Quantitative Criminology*, 19(3), 275-301.
 - Clarke, R. V. (1997). *Situational crime prevention: Successful case studies* (2nd ed.). Guilderland, NY: Harrow and Heston.
 - Cornish, D. B., & Clarke, R. V. (1986). *The reasoning criminal: Rational choice perspectives on offending*. New York: Springer-Verlag.
 - Cornish, D. B., & Clarke, R. V. (2003). Opportunities, precipitators and criminal decisions: A reply to Wortley's critique of situational crime prevention. *Crime Prevention Studies*, 16, 41-96.
-- Guerette, R. T., & Bowers, K. J. (2009). Assessing the extent of crime displacement and diffusion of benefits: A review of situational crime prevention evaluations. *Criminology*, 47(4), 1331-1368. https://doi.org/10.1111/j.1745-9125.2009.00177.x
+- Guerette, R. T., & Bowers, K. J. (2009). Assessing the extent of crime displacement and diffusion of benefits: A review of situational crime prevention evaluations. *Criminology*, 47(4), 1331-1368.
 - Kelling, G. L., & Wilson, J. Q. (1982). Broken windows: The police and neighborhood safety. *The Atlantic Monthly*, 249(3), 29-38.
 - Meadows, D. H. (2008). *Thinking in systems: A primer* (D. Wright, Ed.). White River Junction, VT: Chelsea Green Publishing.
-- Repetto, T. A. (1976). Crime prevention and the displacement phenomenon. *Crime & Delinquency*, 22(2), 166-177. https://doi.org/10.1177/001112877602200204
+- Repetto, T. A. (1976). Crime prevention and the displacement phenomenon. *Crime & Delinquency*, 22(2), 166-177.
 - Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Revised ed.). New York: Doubleday.
 - Sterman, J. D. (2000). *Business dynamics: Systems thinking and modeling for a complex world*. Boston: McGraw-Hill.
-- Wortley, R. (2001). A classification of techniques for controlling situational precipitators of crime. *Security Journal*, 14(4), 63-82. https://doi.org/10.1057/palgrave.sj.8340098
+- Wortley, R. (2001). A classification of techniques for controlling situational precipitators of crime. *Security Journal*, 14(4), 63-82.
