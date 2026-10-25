@@ -1,19 +1,20 @@
 # P00016 — Peran Lapisan 09_RESEARCH: Membedakan Penelitian Eksploratif Mandiri dari Regulasi Kebijakan Resmi
 
+- **ID Berkas**: `PROBE/PROBE_01/P00016`
+- **Pilar**: Pilar 2 — Stratifikasi Lapisan Repositori & Separation of Concerns
+- **Sub-Klaster**: Demarkasi Lapisan Penelitian (*Research Governance & Sandbox Boundary*)
+- **Pertanyaan Panduan (TUMBUH Question)**:
+  > *Bagaimana memberi kebebasan riset eksploratif bagi peneliti dan pegiat pendidikan tanpa membiarkan draf hipotesis mentah mereka disalahpahami sebagai kebijakan resmi pesantren yang mengikat santri di asrama?*
+- **Status Inkuiri**: Tuntas & Terkunci (Bagian dari 120 Berkas Rekonstruksi Kanonik PROBE 01)
+- **Target Subsistem**: `09_RESEARCH/` (dengan rujukan silang ke `01_FUNDAMENTAL/`, `08_SOURCES_AND_EVIDENCE/`, dan `METHODOLOGY/`)
+
 ---
 
-## 1. Executive Summary & Epistemic Status
+## 1. Abstrak & Pernyataan Masalah Epistemik (*Executive Summary*)
 
 Dokumen penyelidikan arsitektural ini merumuskan demarkasi fungsional, tata kelola isolasi (*sandbox governance*), dan protokol transisi pengetahuan bagi direktori `09_RESEARCH/` dalam repositori TUMBUH v2.0.0. Dalam ekosistem pengembangan sistem berbasis pengetahuan terpadu (*integrated knowledge ecosystem*), terdapat tegangan inheren antara dua kebutuhan institusional: di satu sisi, sistem membutuhkan kebebasan eksperimentasi akademik yang dinamis, eksploratif, dan berani menguji hipotesis baru (*exploratory research*); di sisi lain, tata kelola pesantren membutuhkan kepastian hukum, stabilitas pedoman pengasuhan, dan perlindungan ketat agar santri tidak dijadikan kelinci percobaan oleh gagasan-gagasan mentah yang belum teruji secara matang. Aturan konstitusional dalam `AGENTS.md` v2.0.0 menetapkan prinsip fundamental: *"Research tidak otomatis mengubah sistem"*.
 
-Penyelidikan kanonik ini menetapkan status ontologis `09_RESEARCH/` sebagai **Laboratorium Eksplorasi Terisolasi (Epistemic Sandbox)**. Melalui perpaduan antara prinsip pembagian peran kepemimpinan syar'i menurut Imam al-Qarafi (*al-Furuq bayna Tasyrifat al-Imam wa al-Mufti*) dengan teori manajemen inovasi modern (*Pasteur's Quadrant* oleh Stokes dan *Exploration vs Exploitation Architecture* oleh March), dokumen ini membedakan secara tegas antara "penyelidikan ilmiah yang bersifat bebas dan hipotetis" dengan "ketetapan kebijakan resmi yang bersifat mengikat (*legally and procedurally binding*)". Dokumen ini merancang protokol tata kelola riset 5 tahap, mekanisme penyaringan komisi etik pesantren, serta skrip validasi *Continuous Integration* (CI) guna menjamin tidak adanya klaim regulatif liar yang bocor (*sandbox leakage*) dari laboratorium riset ke lantai operasional asrama.
-
-Status kanonik dari dokumen ini ditetapkan sebagai berikut:
-- **Epistemic Status**: `CANONICAL INVESTIGATION & R&D GOVERNANCE SPECIFICATION`
-- **Architectural Layer**: `PROBE / METAGOVERNANCE / RESEARCH SANDBOX BOUNDARY`
-- **Target Subsystem**: `09_RESEARCH/` cross-reference to `01_FUNDAMENTAL/`, `08_SOURCES_AND_EVIDENCE/`, and `METHODOLOGY/`
-- **Decision State**: `APPROVED & LOCKED (ARCHITECTURAL DECISION RECORD P00016-ADR)`
-- **Audience**: Direktur Litbang Pesantren, Tim Peneliti Internal, Komisi Etik Tarbiyah, Pengembang Kurikulum, dan Pengelola Repositori TUMBUH.
+Penyelidikan ini menetapkan status ontologis `09_RESEARCH/` sebagai **Laboratorium Eksplorasi Terisolasi (Epistemic Sandbox)**. Melalui perpaduan antara prinsip pembagian peran kepemimpinan syar'i menurut Imam al-Qarafi (*al-Furuq bayna Tasyrifat al-Imam wa al-Mufti*) dengan teori manajemen inovasi modern (*Pasteur's Quadrant* oleh Stokes dan *Exploration vs Exploitation Architecture* oleh March), dokumen ini membedakan secara tegas antara "penyelidikan ilmiah yang bersifat bebas dan hipotetis" dengan "ketetapan kebijakan resmi yang bersifat mengikat (*legally and procedurally binding*)". Dokumen ini merancang protokol tata kelola riset 5 tahap, mekanisme penyaringan komisi etik pesantren, serta validasi integritas sistem guna menjamin tidak adanya klaim regulatif liar yang bocor (*sandbox leakage*) dari laboratorium riset ke lantai operasional asrama.
 
 ---
 
