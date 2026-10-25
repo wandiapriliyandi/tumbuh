@@ -716,11 +716,11 @@ Izzuddin bin Abdissalam, A. bin A. (1999). *Qawa'id al-Ahkam fi Mashalih al-Anam
 Muslim bin al-Hajjaj an-Naisaburi. (1998). *Shahih Muslim* (Tahqiq Muhammad Fuad Abdul Baqi, Jilid 1-5). Dar Ihya' at-Turats al-'Arabi.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and Systems Traceability*. Springer. https://doi.org/10.1007/978-1-4471-2239-5
+Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and Systems Traceability*. Springer.
 
-Gotel, O. C., & Finkelstein, A. C. (1994). An Analysis of the Requirements Traceability Problem. *Proceedings of the First International Conference on Requirements Engineering*, 94-101. https://doi.org/10.1109/ICRE.1994.292398
+Gotel, O. C., & Finkelstein, A. C. (1994). An Analysis of the Requirements Traceability Problem. *Proceedings of the First International Conference on Requirements Engineering*, 94-101.
 
-IEEE Computer Society. (1998). *IEEE Recommended Practice for Software Requirements Specifications* (IEEE Std 830-1998). IEEE. https://doi.org/10.1109/IEEESTD.1998.88286
+IEEE Computer Society. (1998). *IEEE Recommended Practice for Software Requirements Specifications* (IEEE Std 830-1998). IEEE.
 
 ISO/IEC/IEEE. (2018). *Systems and software engineering — Life cycle processes — Requirements engineering* (ISO/IEC/IEEE Standard No. 29148:2018). https://www.iso.org/standard/72089.html
 
@@ -729,11 +729,11 @@ Martin, R. C. (2017). *Clean Architecture: A Craftsman's Guide to Software Struc
 Nygard, M. T. (2018). *Release It!: Design and Deploy Production-Ready Software* (2nd ed.). Pragmatic Bookshelf.
 
 - Bass, L., Clements, P., & Kazman, R. (2021). *Software architecture in practice* (4th ed.). Addison-Wesley Professional.
-- Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and systems traceability*. Springer-Verlag. https://doi.org/10.1007/978-1-4471-2239-5
-- Gotel, O. C., & Finkelstein, A. C. (1994). An analysis of the requirements traceability problem. In *Proceedings of the First International Conference on Requirements Engineering* (pp. 94-101). IEEE. https://doi.org/10.1109/ICRE.1994.292398
+- Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and systems traceability*. Springer-Verlag.
+- Gotel, O. C., & Finkelstein, A. C. (1994). An analysis of the requirements traceability problem. In *Proceedings of the First International Conference on Requirements Engineering* (pp. 94-101). IEEE.
 - IEEE. (2017). *ISO/IEC/IEEE 29148:2018 Systems and software engineering - Life cycle processes - Requirements engineering*. IEEE Standards Association.
 - Kotonya, G., & Sommerville, I. (1998). *Requirements engineering: Processes and techniques*. John Wiley & Sons.
-- Ramesh, B., & Jarke, M. (2001). Toward reference models for requirements traceability. *IEEE Transactions on Software Engineering*, 27(1), 58-93. https://doi.org/10.1109/32.895989
+- Ramesh, B., & Jarke, M. (2001). Toward reference models for requirements traceability. *IEEE Transactions on Software Engineering*, 27(1), 58-93.
 - Wiegers, K., & Beatty, J. (2013). *Software requirements* (3rd ed.). Microsoft Press.
 - Al-Ghazali, Abu Hamid. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (Tahqiq Hamzah bin Zuhair Hafizh). Al-Madinah: Syarikah al-Madinah al-Munawwarah.
 - Asy-Syathibi, Abu Ishaq. (2003). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Tahqiq Masyhur Hasan Salman). Kairo: Dar Ibn 'Affan.

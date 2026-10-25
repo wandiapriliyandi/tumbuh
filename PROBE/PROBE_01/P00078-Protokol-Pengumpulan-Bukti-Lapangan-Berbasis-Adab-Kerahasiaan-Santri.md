@@ -528,5 +528,5 @@ Pengumpulan bukti lapangan dalam ekosistem pendidikan karakter TUMBUH bukanlah p
 - An-Nawawi, Yahya bin Syaraf. (2000). *Al-Adzkar al-Muntakhabah min Kalami Sayyid al-Abrar*. Dar Ibn Hazm.
 - Asy-Syathibi, Ibrahim bin Musa. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Masyhur Hasan Salman, Ed.). Dar Ibn 'Affan.
 - Ibnu Asyur, Muhammad ath-Thahir. (2001). *Maqashid asy-Syari'ah al-Islamiyyah*. Dar an-Nafais.
-- Dwork, C., & Roth, A. (2014). The algorithmic foundations of differential privacy. *Foundations and Trends in Theoretical Computer Science*, 9(3-4), 211-407. https://doi.org/10.1561/0400000042
-- Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(05), 557-570. https://doi.org/10.1142/S0218488502001648
+- Dwork, C., & Roth, A. (2014). The algorithmic foundations of differential privacy. *Foundations and Trends in Theoretical Computer Science*, 9(3-4), 211-407.
+- Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(05), 557-570.

@@ -786,21 +786,21 @@ At-Taftazani, S. (1998). *Syarh al-Aqa'id an-Nasafiyyah* (Tahqiq Ahmad Hijazi as
 
 Hopcroft, J. E., Motwani, R., & Ullman, J. D. (2006). *Introduction to Automata Theory, Languages, and Computation* (3rd ed.). Addison-Wesley.
 
-Kahn, A. B. (1962). Topological Sorting of Large Networks. *Communications of the ACM*, 5(11), 558-562. https://doi.org/10.1145/368996.369025
+Kahn, A. B. (1962). Topological Sorting of Large Networks. *Communications of the ACM*, 5(11), 558-562.
 
-Sharir, M. (1981). A Strong-connectivity Algorithm and its Applications in Data Flow Analysis. *Computers & Mathematics with Applications*, 7(1), 67-72. https://doi.org/10.1016/0898-1221(81)90008-0
+Sharir, M. (1981). A Strong-connectivity Algorithm and its Applications in Data Flow Analysis. *Computers & Mathematics with Applications*, 7(1), 67-72.)90008-0
 
-Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. *Computer Networks and ISDN Systems*, 30(1-7), 107-117. https://doi.org/10.1016/S0169-7552(98)00110-X
+Brin, S., & Page, L. (1998). The Anatomy of a Large-Scale Hypertextual Web Search Engine. *Computer Networks and ISDN Systems*, 30(1-7), 107-117.)00110-X
 
 Eppinger, S. D., & Browning, T. R. (2012). *Design Structure Matrix Methods and Applications*. MIT Press.
 
 Robinson, I., Webber, J., & Eifrem, E. (2015). *Graph Databases: New Opportunities for Connected Data* (2nd ed.). O'Reilly Media.
 
-Steward, D. V. (1981). The Design Structure System: A Method for Managing the Design of Complex Systems. *IEEE Transactions on Engineering Management*, EM-28(3), 71-74. https://doi.org/10.1109/TEM.1981.6448589
+Steward, D. V. (1981). The Design Structure System: A Method for Managing the Design of Complex Systems. *IEEE Transactions on Engineering Management*, EM-28(3), 71-74.
 
-Sweller, J. (1988). Cognitive Load During Problem Solving: Effects on Learning. *Cognitive Science*, 12(2), 257-285. https://doi.org/10.1207/s15516709cog1202_4
+Sweller, J. (1988). Cognitive Load During Problem Solving: Effects on Learning. *Cognitive Science*, 12(2), 257-285.
 
-Tarjan, R. (1972). Depth-First Search and Linear Graph Algorithms. *SIAM Journal on Computing*, 1(2), 146-160. https://doi.org/10.1137/0201010
+Tarjan, R. (1972). Depth-First Search and Linear Graph Algorithms. *SIAM Journal on Computing*, 1(2), 146-160.
 
 Al-Amidi, S. (2003). *Al-Ihkam fi Ushul al-Ahkam* (Tahqiq Sayyid al-Jumaili, Jilid 1-4). Dar al-Kitab al-'Arabi.
 

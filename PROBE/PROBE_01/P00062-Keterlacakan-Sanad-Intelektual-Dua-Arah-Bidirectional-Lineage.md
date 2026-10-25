@@ -741,9 +741,9 @@ Ibnu Shalah, U. bin A. (1986). *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (
 Muslim bin al-Hajjaj an-Naisaburi. (1998). *Shahih Muslim* (Tahqiq Muhammad Fuad Abdul Baqi, Jilid 1-5). Dar Ihya' at-Turats al-'Arabi.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Gotel, O. C., & Finkelstein, A. C. (1994). An Analysis of the Requirements Traceability Problem. *Proceedings of the First International Conference on Requirements Engineering*, 94-101. https://doi.org/10.1109/ICRE.1994.292398
+Gotel, O. C., & Finkelstein, A. C. (1994). An Analysis of the Requirements Traceability Problem. *Proceedings of the First International Conference on Requirements Engineering*, 94-101.
 
-IEEE Computer Society. (1998). *IEEE Recommended Practice for Software Requirements Specifications* (IEEE Std 830-1998). IEEE. https://doi.org/10.1109/IEEESTD.1998.88286
+IEEE Computer Society. (1998). *IEEE Recommended Practice for Software Requirements Specifications* (IEEE Std 830-1998). IEEE.
 
 ISO/IEC/IEEE. (2018). *Systems and software engineering — Life cycle processes — Requirements engineering* (ISO/IEC/IEEE Standard No. 29148:2018). https://www.iso.org/standard/72089.html
 
@@ -757,7 +757,7 @@ Al-Khatib al-Baghdadi, A. bin A. (1997). *Al-Faqih wal-Mutafaqqih* (Tahqiq Adil 
 
 Asy-Syatibi, A. I. (1997). *Al-I'tisham* (Tahqiq Salim bin 'Ied al-Hilali, Jilid 1-2). Dar Ibn 'Affan.
 
-Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and Systems Traceability*. Springer. https://doi.org/10.1007/978-1-4471-2239-5
+Cleland-Huang, J., Gotel, O., & Zisman, A. (Eds.). (2012). *Software and Systems Traceability*. Springer.
 
 Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 
@@ -771,7 +771,7 @@ Cobb, A. T. (2011). *Leading Project Teams: The Basics of Project Management and
 
 DeMarco, T., & Lister, T. (2013). *Peopleware: Productive Projects and Teams* (3rd ed.). Addison-Wesley.
 
-Yau, S. S., & Collofello, J. S. (1980). Some Stability Measures for Software Maintenance. *IEEE Transactions on Software Engineering*, SE-6(6), 545-552. https://doi.org/10.1109/TSE.1980.230803
+Yau, S. S., & Collofello, J. S. (1980). Some Stability Measures for Software Maintenance. *IEEE Transactions on Software Engineering*, SE-6(6), 545-552.
 
 Raymond, E. S. (2003). *The Art of Unix Philosophy*. Addison-Wesley Professional.
 

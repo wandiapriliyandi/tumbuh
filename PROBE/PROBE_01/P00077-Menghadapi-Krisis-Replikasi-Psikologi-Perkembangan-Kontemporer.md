@@ -548,28 +548,24 @@ Al-Baihaqi, A. B. H. (1424 H). *As-Sunan al-Kubra*. Dar al-Kutub al-'Ilmiyyah.
 Al-Bukhari, M. I. (1422 H). *Shahih al-Bukhari: Al-Jami' al-Musnad ash-Shahih*. Dar Thawq an-Najah.  
 As-Suyuthi, J. D. (1990). *Al-Asybah wan-Naza'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.  
 Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (Tahqiq: Ahmad Muhammad Syakir). Maktabah al-Halabi.  
-Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego Depletion: Is the Active Self a Limited Resource? *Journal of Personality and Social Psychology*, 74(5), 1252-1265. https://doi.org/10.1037/0022-3514.74.5.1252  
-Carney, D. R., Cuddy, A. J., & Yap, A. J. (2010). Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance. *Psychological Science*, 21(10), 1363-1368. https://doi.org/10.1177/0956797610383437  
+Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego Depletion: Is the Active Self a Limited Resource? *Journal of Personality and Social Psychology*, 74(5), 1252-1265.  
+Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T. H., Huber, J., Johannesson, M., ... & Wu, H. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. *Nature Human Behaviour*, 2(9), 637-644.  
+Carney, D. R., Cuddy, A. J., & Yap, A. J. (2010). Power Posing: Brief Nonverbal Displays Affect Neuroendocrine Levels and Risk Tolerance. *Psychological Science*, 21(10), 1363-1368.  
 Gladwell, M. (2008). *Outliers: The Story of Success*. Little, Brown and Company.  
-Hagger, M. S., Chatzisarantis, N. L., Alberts, H., Anggono, C. O., Batailler, C., Birt, A. R., ... & Zwienenberg, M. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. *Perspectives on Psychological Science*, 11(4), 546-573. https://doi.org/10.1177/1745691616652873  
+Hagger, M. S., Chatzisarantis, N. L., Alberts, H., Anggono, C. O., Batailler, C., Birt, A. R., ... & Zwienenberg, M. (2016). A Multilab Preregistered Replication of the Ego-Depletion Effect. *Perspectives on Psychological Science*, 11(4), 546-573.  
 Ibn ash-Shalah, U. A. (1986). *'Ulum al-Hadits (Muqaddimah Ibn ash-Shalah)*. Dar al-Fikr.  
-Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124  
-Job, V., Dweck, C. S., & Walton, G. M. (2010). Ego Depletion—Is It All in Your Head? Implicit Theories About Willpower Affect Self-Regulation. *Psychological Science*, 21(11), 1686-1693. https://doi.org/10.1177/0956797610384745  
-Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Intelligence*, 45, 111-118. https://doi.org/10.1016/j.intell.2014.03.003  
-Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). Delay of Gratification in Children. *Science*, 244(4907), 933-938. https://doi.org/10.1126/science.2658056  
+Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124.  
+Job, V., Dweck, C. S., & Walton, G. M. (2010). Ego Depletion—Is It All in Your Head? Implicit Theories About Willpower Affect Self-Regulation. *Psychological Science*, 21(11), 1686-1693.  
+Macnamara, B. N., Hambrick, D. Z., & Oswald, F. L. (2014). Deliberate Practice and Performance in Music, Games, Sports, Education, and Professions: A Meta-Analysis. *Intelligence*, 45, 111-118.  
+Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). Delay of Gratification in Children. *Science*, 244(4907), 933-938.  
 Muslim, I. H. (1374 H). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar*. Matba'ah Isa al-Babi al-Halabi.  
-Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The Preregistration Revolution. *Proceedings of the National Academy of Sciences*, 115(11), 2600-2606. https://doi.org/10.1073/pnas.1708274114  
-Open Science Collaboration. (2015). Estimating the Reproducibility of Psychological Science. *Science*, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716  
-Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning Styles: Concepts and Evidence. *Psychological Science in the Public Interest*, 9(3), 105-119. https://doi.org/10.1111/j.1539-6053.2009.01038.x  
+Nosek, B. A., Ebersole, C. R., DeHaven, A. C., & Mellor, D. T. (2018). The Preregistration Revolution. *Proceedings of the National Academy of Sciences*, 115(11), 2600-2606.  
+Open Science Collaboration. (2015). Estimating the Reproducibility of Psychological Science. *Science*, 349(6251), aac4716.  
+Pashler, H., McDaniel, M., Rohrer, D., & Bjork, R. (2008). Learning Styles: Concepts and Evidence. *Psychological Science in the Public Interest*, 9(3), 105-119.  
 Popper, K. (2002). *The Logic of Scientific Discovery*. Routledge.  
-Ranehill, E., Dreber, A., Johannesson, M., Leiberg, S., Sul, S., & Kirchler, M. (2015). Assessing the Robustness of Power Posing: No Effect on Hormones and Risk Tolerance in a Large Sample of Men and Women. *Psychological Science*, 26(5), 653-656. https://doi.org/10.1177/0956797614553974  
-Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. *Psychological Science*, 22(11), 1359-1366. https://doi.org/10.1177/0956797611417632  
-Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses. *Psychological Science*, 29(4), 549-571. https://doi.org/10.1177/0956797617739704  
+Ranehill, E., Dreber, A., Johannesson, M., Leiberg, S., Sul, S., & Kirchler, M. (2015). Assessing the Robustness of Power Posing: No Effect on Hormones and Risk Tolerance in a Large Sample of Men and Women. *Psychological Science*, 26(5), 653-656.  
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. *Psychological Science*, 22(11), 1359-1366.  
+Sisk, V. F., Burgoyne, A. P., Sun, J., Butler, J. L., & Macnamara, B. N. (2018). To What Extent and Under Which Circumstances Are Growth Mind-Sets Important to Academic Achievement? Two Meta-Analyses. *Psychological Science*, 29(4), 549-571.  
 Sugiyono. (2018). *Metode Penelitian Evaluasi: Pendekatan Kuantitatif, Kualitatif, dan Kombinasi*. Alfabeta.  
-Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Delay of Gratification and Later Outcomes. *Psychological Science*, 29(7), 1159-1177. https://doi.org/10.1177/0956797618761661  
+Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the Marshmallow Test: A Conceptual Replication Investigating Links Between Early Delay of Gratification and Later Outcomes. *Psychological Science*, 29(7), 1159-1177.  
 Zarkasyi, H. F. (2020). *Minhaj: Berpikir Islam Menuju Kesejatian Pemikiran*. INSISTS.
-
-- Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T. H., Huber, J., Johannesson, M., ... & Wu, H. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015. *Nature Human Behaviour*, 2(9), 637-644. https://doi.org/10.1038/s41562-018-0399-z
-- Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. *Science*, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716
-- Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant. *Psychological Science*, 22(11), 1359-1366. https://doi.org/10.1177/0956797611417632
-- Watts, T. W., Duncan, G. J., & Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. *Psychological Science*, 29(7), 1159-1177. https://doi.org/10.1177/0956797618761661

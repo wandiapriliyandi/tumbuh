@@ -697,13 +697,13 @@ As-Suyuthi, J. D. (1990). *Al-Asybah wan-Naza'ir fi Qawa'id wa Furu' Fiqh asy-Sy
 Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (Tahqiq: Ahmad Muhammad Syakir). Maktabah al-Halabi.  
 Asy-Syafi'i, M. I. (1985). *Ikhtilaf al-Hadits*. Dar al-Kutub al-'Ilmiyyah.  
 Asy-Syathibi, I. (1997). *Al-Muwafaqat fi Usul asy-Syari'ah* (Tahqiq: Masyhur Hasan Salman). Dar Ibn 'Affan.  
-Blyth, C. R. (1972). On Simpson's Paradox and the Equivalence of Two Statistical Tests. *Journal of the American Statistical Association*, 67(338), 364-366. https://doi.org/10.1080/01621459.1972.10482387  
+Blyth, C. R. (1972). On Simpson's Paradox and the Equivalence of Two Statistical Tests. *Journal of the American Statistical Association*, 67(338), 364-366.  
 Ibn Hazm, A. A. (1984). *Al-Ihkam fi Usul al-Ahkam*. Dar al-Afaq al-Jadidah.  
 Ibn Qudamah, A. M. (2002). *Raudhat an-Nazhir wa Jannat al-Munazhir fi Usul al-Fiqh*. Mu'assasah ar-Risalah.  
 Muslim, I. H. (1374 H). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar*. Matba'ah Isa al-Babi al-Halabi.  
-Pearl, J. (2014). Understanding Simpson's Paradox. *The American Statistician*, 68(1), 8-13. https://doi.org/10.1080/00031305.2014.886073  
+Pearl, J. (2014). Understanding Simpson's Paradox. *The American Statistician*, 68(1), 8-13.  
 Popper, K. (2002). *The Logic of Scientific Discovery*. Routledge.  
 Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). *Experimental and Quasi-Experimental Designs for Generalized Causal Inference*. Houghton Mifflin.  
-Simpson, E. H. (1951). The Interpretation of Interaction in Contingency Tables. *Journal of the Royal Statistical Society: Series B (Methodological)*, 13(2), 238-241. https://doi.org/10.1111/j.2517-6161.1951.tb00088.x  
+Simpson, E. H. (1951). The Interpretation of Interaction in Contingency Tables. *Journal of the Royal Statistical Society: Series B (Methodological)*, 13(2), 238-241.  
 Sugiyono. (2018). *Metode Penelitian Evaluasi: Pendekatan Kuantitatif, Kualitatif, dan Kombinasi*. Alfabeta.  
 Zarkasyi, H. F. (2020). *Minhaj: Berpikir Islam Menuju Kesejatian Pemikiran*. INSISTS.

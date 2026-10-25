@@ -616,9 +616,9 @@ Shatibi, A. I. (1997). *Al-Muwafaqat fi Ushulisy-Syari'ah* (Tahqiq Masyhur Hasan
 Subki, T. A. (1992). *Thabaqat asy-Syafi'iyyah al-Kubra* (Tahqiq Mahmud Muhammad ath-Thanahi & Abdulfattah Muhammad al-Hulw, Jilid 1-10). Hajar li ath-Thiba'ah wan-Nasyr.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC3986
+Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF).
 
-Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress. https://doi.org/10.1007/978-1-4842-0076-6
+Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress.
 
 Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley Professional.
 
@@ -636,7 +636,7 @@ Al-Ghazali, A. H. M. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (Tahqiq Muhammad S
 
 As-Suyuthi, J. (1990). *Al-Asybah wan-Nazhair fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
 
-Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387. https://doi.org/10.1145/362384.362685
+Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387.
 
 Fielding, R. T. (2000). *Architectural Styles and the Design of Network-based Software Architectures* (Doctoral dissertation). University of California, Irvine.
 
@@ -650,10 +650,10 @@ Zittrain, J., Albert, K., & Lessig, L. (2014). Perma: Scoping and Addressing the
 
 Torvalds, L., & Hamano, J. C. (2005). *Git: Fast Version Control System*. Kernel.org.
 
-Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The Adolescent Brain. *Annals of the New York Academy of Sciences*, 1124(1), 111-126. https://doi.org/10.1196/annals.1440.010
+Casey, B. J., Jones, R. M., & Hare, T. A. (2008). The Adolescent Brain. *Annals of the New York Academy of Sciences*, 1124(1), 111-126.
 
 Dweck, C. S. (2006). *Mindset: The New Psychology of Success*. Random House.
 
 Siegel, D. J. (2013). *Brainstorm: The Power and Purpose of the Teenage Brain*. Penguin Group.
 
-Somerville, L. H., Jones, R. M., & Casey, B. J. (2010). A Time of Change: Behavioral and Neural Correlates of Adolescent Sensitivity to Appetitive and Aversive Environmental Cues. *Brain and Cognition*, 72(1), 124-133. https://doi.org/10.1016/j.bandc.2009.07.003
+Somerville, L. H., Jones, R. M., & Casey, B. J. (2010). A Time of Change: Behavioral and Neural Correlates of Adolescent Sensitivity to Appetitive and Aversive Environmental Cues. *Brain and Cognition*, 72(1), 124-133.

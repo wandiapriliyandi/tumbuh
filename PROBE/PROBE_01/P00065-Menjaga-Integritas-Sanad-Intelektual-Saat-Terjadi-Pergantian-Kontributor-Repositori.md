@@ -700,15 +700,15 @@ Setelah mengunci protokol pelestarian sanad intelektual dan orientasi kontributo
 - As-Sarakhsi, Abu Bakr Muhammad bin Ahmad. (1993). *Al-Mabsuth*. Beirut: Dar al-Ma'rifah.
 - Bass, L., Clements, P., & Kazman, R. (2021). *Software architecture in practice* (4th ed.). Addison-Wesley Professional.
 - Chesterton, G. K. (1929). *The thing: Why I am a Catholic*. Sheed & Ward.
-- DeLong, D. W. (2004). *Lost knowledge: Confronting the threat of an aging workforce*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780195170979.001.0001
+- DeLong, D. W. (2004). *Lost knowledge: Confronting the threat of an aging workforce*. Oxford University Press.
 - IEEE. (2017). *ISO/IEC/IEEE 29148:2018 Systems and software engineering - Life cycle processes - Requirements engineering*. IEEE Standards Association.
-- Jansen, A., & Bosch, J. (2005). Software architecture as a set of architectural design decisions. In *Proceedings of the 5th Working IEEE/IFIP Conference on Software Architecture (WICSA)* (pp. 109-120). IEEE. https://doi.org/10.1109/WICSA.2005.61
-- Kruchten, P., Lago, P., & van Vliet, H. (2006). Building up and reasoning about architectural knowledge. In *Quality of Software Architectures* (pp. 43-58). Springer. https://doi.org/10.1007/11921998_8
+- Jansen, A., & Bosch, J. (2005). Software architecture as a set of architectural design decisions. In *Proceedings of the 5th Working IEEE/IFIP Conference on Software Architecture (WICSA)* (pp. 109-120). IEEE.
+- Kruchten, P., Lago, P., & van Vliet, H. (2006). Building up and reasoning about architectural knowledge. In *Quality of Software Architectures* (pp. 43-58). Springer.
 - Muslim bin al-Hajjaj an-Naisaburi. (2006). *Shahih Muslim* (Tahqiq Muhammad Fu'ad Abdul Baqi). Kairo: Dar al-Hadits.
 - Nonaka, I., & Takeuchi, H. (1995). *The knowledge-creating company: How Japanese companies create the dynamics of innovation*. Oxford University Press.
 
 - Al-Ghazali, Abu Hamid Muhammad bin Muhammad. (2011). *Ihya' 'Ulum ad-Din* (Tahqiq Ahmad 'Inayah). Kairo: Dar al-Hadits.
 - Ibnu Jama'ah, Badruddin Muhammad bin Ibrahim. (2012). *Tadzkirah as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim* (Tahqiq Abdul Amir Ali Syamsuddin). Beirut: Dar al-Kutub al-'Ilmiyyah.
 - Ibnu Abdil Barr, Yusuf bin Abdillah an-Namari. (1994). *Jami' Bayan al-'Ilm wa Fadhlih* (Tahqiq Abul Asybal az-Zuhairi). Riyadh: Dar Ibn al-Jauzi.
-- Shamir, A. (1979). How to share a secret. *Communications of the ACM*, 22(11), 612-613. https://doi.org/10.1145/359168.359176
+- Shamir, A. (1979). How to share a secret. *Communications of the ACM*, 22(11), 612-613.
 - RFC 4880. (2007). *OpenPGP Message Format*. Internet Engineering Task Force (IETF).

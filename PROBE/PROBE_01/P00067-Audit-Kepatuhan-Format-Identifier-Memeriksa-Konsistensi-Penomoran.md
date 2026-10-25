@@ -722,16 +722,16 @@ Setelah mengunci audit kepatuhan format identifier kanonik (P00067), penyelidika
 
 - Al-Baghdadi, Abu Bakr Ahmad bin Ali al-Khatib. (2002). *Al-Jami' li-Akhlaq ar-Rawi wa Adab as-Sami'* (Tahqiq Mahmud ath-Thahhan). Riyadh: Maktabah al-Ma'arif.
 - Al-Bukhari, Abu Abdillah Muhammad bin Ismail. (2002). *Shahih al-Bukhari* (Tahqiq Muhammad Zuhair bin Nashir an-Nashir). Beirut: Dar Thawq an-Najah.
-- Ayewah, N., Hovemeyer, D., Morgenthaler, J. D., Penix, J., & Pugh, W. (2008). Using static analysis to find bugs. *IEEE Software*, 25(5), 22-29. https://doi.org/10.1109/MS.2008.130
+- Ayewah, N., Hovemeyer, D., Morgenthaler, J. D., Penix, J., & Pugh, W. (2008). Using static analysis to find bugs. *IEEE Software*, 25(5), 22-29.
 - Bass, L., Clements, P., & Kazman, R. (2021). *Software architecture in practice* (4th ed.). Addison-Wesley Professional.
 - Beller, M., Bholanath, R., McIntosh, S., & Zaidman, A. (2016). Analyzing the state of static analysis: A large-scale evaluation in open source software. In *Proceedings of the 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER)* (pp. 470-481). IEEE.
-- Chess, B., & McGraw, G. (2004). Static analysis for security. *IEEE Security & Privacy*, 2(6), 76-79. https://doi.org/10.1109/MSP.2004.111
+- Chess, B., & McGraw, G. (2004). Static analysis for security. *IEEE Security & Privacy*, 2(6), 76-79.
 - Hopcroft, J. E., Motwani, R., & Ullman, J. D. (2006). *Introduction to automata theory, languages, and computation* (3rd ed.). Addison-Wesley.
 - Ibnu ash-Shalah, Abu Amr Utsman bin Abdirrahman. (1986). *Muqaddimah Ibn ash-Shalah fi 'Ulum al-Hadits* (Tahqiq Nuruddin 'Itr). Damaskus: Dar al-Fikr.
 - Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson Education.
 
 - Al-Asqalani, Ahmad bin Ali bin Hajar. (2000). *Nuzhat an-Nazhar fi Tawdhih Nukhbat al-Fikar fi Musthalah Ahl al-Atsar* (Tahqiq Nuruddin 'Itr). Damaskus: Dar al-Khair.
-- Chomsky, N. (1956). Three models for the description of language. *IRE Transactions on Information Theory*, 2(3), 113-124. https://doi.org/10.1109/TIT.1956.1056813
+- Chomsky, N. (1956). Three models for the description of language. *IRE Transactions on Information Theory*, 2(3), 113-124.
 - CommonMark. (2021). *CommonMark spec version 0.30*. https://spec.commonmark.org/
 - Kernighan, B. W., & Ritchie, D. M. (1988). *The C programming language* (2nd ed.). Prentice Hall.
 - Spinellis, D. (2006). *Code quality: The open source perspective*. Addison-Wesley Professional.

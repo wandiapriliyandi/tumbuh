@@ -631,7 +631,7 @@ At-Tirmidzi, M. I. (1998). *Sunan at-Tirmidzi: Al-Jami' al-Kabir*. Dar al-Gharb 
 Green, D. M., & Swets, J. A. (1966). *Signal Detection Theory and Psychophysics*. John Wiley & Sons.  
 Ibn ash-Shalah, U. A. (1986). *'Ulum al-Hadits (Muqaddimah Ibn ash-Shalah)* (Tahqiq: Nuruddin 'Itr). Dar al-Fikr.  
 Muslim, I. H. (1374 H). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar*. Matba'ah Isa al-Babi al-Halabi.  
-Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing Research and Development at the Intersection of Learning, Implementation, and Design. *Educational Researcher*, 40(7), 331-337. https://doi.org/10.3102/0013189X11421826  
+Penuel, W. R., Fishman, B. J., Cheng, B. H., & Sabelli, N. (2011). Organizing Research and Development at the Intersection of Learning, Implementation, and Design. *Educational Researcher*, 40(7), 331-337.  
 Popper, K. (2002). *The Logic of Scientific Discovery*. Routledge.  
 Rossi, P. H., Lipsey, M. W., & Freeman, H. E. (2004). *Evaluation: A Systematic Approach* (7th ed.). SAGE Publications.  
 Sugiyono. (2018). *Metode Penelitian Kuantitatif, Kualitatif, dan R&D*. Alfabeta.  

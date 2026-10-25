@@ -646,9 +646,9 @@ Al-Qarafi, S. D. (1994). *Al-Furuq: Anwar al-Buruq fi Anwa' al-Furuq*. Dar al-Ku
 As-Suyuthi, J. D. (1990). *Al-Asybah wan-Naza'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.  
 Asy-Syathibi, I. (1997). *Al-Muwafaqat fi Usul asy-Syari'ah* (Tahqiq: Masyhur Hasan Salman). Dar Ibn 'Affan.  
 Bareinboim, E., & Pearl, J. (2014). Transportability from Multiple Environments with Limited Experiments: Completeness Results. In *Advances in Neural Information Processing Systems* (Vol. 27, pp. 280-288).  
-Bareinboim, E., & Pearl, J. (2016). Causal Inference and the Data-Fusion Problem. *Proceedings of the National Academy of Sciences*, 113(27), 7345-7352. https://doi.org/10.1073/pnas.1510507113  
+Bareinboim, E., & Pearl, J. (2016). Causal Inference and the Data-Fusion Problem. *Proceedings of the National Academy of Sciences*, 113(27), 7345-7352.  
 Bronfenbrenner, U. (1979). *The Ecology of Human Development: Experiments by Nature and Design*. Harvard University Press.  
-Glasgow, R. E., Vogt, T. M., & Boles, S. M. (1999). Evaluating the Public Health Impact of Health Promotion Interventions: The RE-AIM Framework. *American Journal of Public Health*, 89(9), 1322-1327. https://doi.org/10.2105/AJPH.89.9.1322  
+Glasgow, R. E., Vogt, T. M., & Boles, S. M. (1999). Evaluating the Public Health Impact of Health Promotion Interventions: The RE-AIM Framework. *American Journal of Public Health*, 89(9), 1322-1327.  
 Muslim, I. H. (1374 H). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar*. Matba'ah Isa al-Babi al-Halabi.  
 Pearl, J. (2009). *Causality: Models, Reasoning, and Inference* (2nd ed.). Cambridge University Press.  
 Pearl, J., & Mackenzie, D. (2018). *The Book of Why: The New Science of Cause and Effect*. Basic Books.  

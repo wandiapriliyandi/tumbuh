@@ -732,7 +732,7 @@ Ibnu Qayyim al-Jauziyyah, M. bin A. B. (1991). *I'lam al-Muwaqqi'in 'an Rabbil '
 Ibnu Shalah, U. bin A. (1986). *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (Tahqiq Nuruddin 'Itr). Dar al-Fikr.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC3986
+Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF).
 
 Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley Professional.
 
@@ -754,7 +754,7 @@ Al-Khatib al-Baghdadi, A. bin A. (1988). *Al-Kifayah fi 'Ilm ar-Riwayah* (Tahqiq
 
 As-Suyuthi, J. (1990). *Al-Asybah wan-Nazhair fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
 
-Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387. https://doi.org/10.1145/362384.362685
+Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387.
 
 Fielding, R. T. (2000). *Architectural Styles and the Design of Network-based Software Architectures* (Doctoral dissertation). University of California, Irvine.
 
@@ -778,12 +778,12 @@ Fowler, M. (2002). *Patterns of Enterprise Application Architecture*. Addison-We
 
 Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. O'Reilly Media.
 
-Lynch, C. (2003). Institutional Repositories: Essential Infrastructure for Scholarship in the Digital Age. *portal: Libraries and the Academy*, 3(2), 327-336. https://doi.org/10.1353/pla.2003.0039
+Lynch, C. (2003). Institutional Repositories: Essential Infrastructure for Scholarship in the Digital Age. *portal: Libraries and the Academy*, 3(2), 327-336.
 
-Smith, M., Bass, M., Tansley, R., Branschofsky, M., Barton, C., Stuve, D., Harford, W., & Walker, J. H. (2003). DSpace: An Open Source Dynamic Digital Repository. *D-Lib Magazine*, 9(1). https://doi.org/10.1045/january2003-smith
+Smith, M., Bass, M., Tansley, R., Branschofsky, M., Barton, C., Stuve, D., Harford, W., & Walker, J. H. (2003). DSpace: An Open Source Dynamic Digital Repository. *D-Lib Magazine*, 9(1).
 
 Torvalds, L., & Hamano, J. C. (2005). *Git: Fast Version Control System*. Kernel.org.
 
-Edmondson, A. (1999). Psychological Safety and Learning Behavior in Work Teams. *Administrative Science Quarterly*, 44(2), 350-383. https://doi.org/10.2307/2666999
+Edmondson, A. (1999). Psychological Safety and Learning Behavior in Work Teams. *Administrative Science Quarterly*, 44(2), 350-383.
 
 Nelsen, J. (2006). *Positive Discipline*. Ballantine Books.

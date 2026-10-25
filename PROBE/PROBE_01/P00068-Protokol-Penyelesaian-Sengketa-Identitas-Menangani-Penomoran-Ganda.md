@@ -720,19 +720,19 @@ Setelah mengunci protokol penyelesaian sengketa identitas numerik (P00068), peny
 - Al-Ghazali, Abu Hamid. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (Tahqiq Hamzah bin Zuhair Hafizh). Al-Madinah: Syarikah al-Madinah al-Munawwarah.
 - Al-Mawardi, Abu al-Hasan Ali bin Muhammad. (2006). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*. Kairo: Dar al-Hadits.
 - Gray, J., & Reuter, A. (1993). *Transaction processing: Concepts and techniques*. Morgan Kaufmann.
-- Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed system. *Communications of the ACM*, 21(7), 558-565. https://doi.org/10.1145/359545.359563
-- Shapiro, M., Preguiça, N., Baquero, C., & Zawirski, M. (2011). Conflict-free replicated data types. In *Stabilization, Safety, and Security of Distributed Systems* (pp. 386-400). Springer. https://doi.org/10.1007/978-3-642-24550-3_29
+- Lamport, L. (1978). Time, clocks, and the ordering of events in a distributed system. *Communications of the ACM*, 21(7), 558-565.
+- Shapiro, M., Preguiça, N., Baquero, C., & Zawirski, M. (2011). Conflict-free replicated data types. In *Stabilization, Safety, and Security of Distributed Systems* (pp. 386-400). Springer.
 - Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson Education.
-- Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Springer Science & Business Media. https://doi.org/10.1007/978-1-4757-3157-6
+- Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Springer Science & Business Media.
 
 - Ibnu Qudamah al-Maqdisi, Muwaffaquddin Abdullah bin Ahmad. (1997). *Al-Mughni* (Tahqiq Abdullah bin Abdul Muhsin at-Turki). Riyadh: Dar 'Alam al-Kutub.
 - Ibnu Daqiq al-'Id, Muhammad bin Ali. (1987). *Al-Iqtirah fi Bayan al-Isthilah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
-- Nash, J. (1950). Equilibrium points in n-person games. *Proceedings of the National Academy of Sciences*, 36(1), 48-49. https://doi.org/10.1073/pnas.36.1.48
+- Nash, J. (1950). Equilibrium points in n-person games. *Proceedings of the National Academy of Sciences*, 36(1), 48-49.
 - Bernstein, P. A., Hadzilacos, V., & Goodman, N. (1987). *Concurrency control and recovery in database systems*. Addison-Wesley.
 - Al-Jauziyyah, Ibnu Qayyim. (1991). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin*. Beirut: Dar al-Jil.
 
 - Al-Qarafi, Syihabuddin Ahmad bin Idris. (1998). *Al-Furuq: Anwar al-Buruq fi Anwa' al-Furuq* (Tahqiq Khalil Manshur). Beirut: Dar al-Kutub al-'Ilmiyyah.
-- Gale, D., & Shapley, L. S. (1962). College admissions and the stability of marriage. *The American Mathematical Monthly*, 69(1), 9-15. https://doi.org/10.1080/00029890.1962.11989827
-- Roth, A. E. (2008). Deferred acceptance algorithms: History, theory, practice, and open questions. *International Journal of Game Theory*, 36(3-4), 537-569. https://doi.org/10.1007/s00182-008-0117-x
+- Gale, D., & Shapley, L. S. (1962). College admissions and the stability of marriage. *The American Mathematical Monthly*, 69(1), 9-15.
+- Roth, A. E. (2008). Deferred acceptance algorithms: History, theory, practice, and open questions. *International Journal of Game Theory*, 36(3-4), 537-569.
 - Coulouris, G., Dollimore, J., Kindberg, T., & Blair, G. (2011). *Distributed systems: Concepts and design* (5th ed.). Addison-Wesley.
 - Al-Mubarakfuri, Muhammad Abdurrahman bin Abdirrahim. (1990). *Tuhfat al-Ahwadzi bi Syarh Jami' at-Tirmidzi*. Beirut: Dar al-Kutub al-'Ilmiyyah.

@@ -754,17 +754,17 @@ Setelah mengunci otomasi pemeliharaan indeks katalog dan bibliografi (P00066), p
 - Al-Asqalani, Ahmad bin Ali bin Hajar. (1984). *Tahdzib at-Tahdzib*. Beirut: Dar al-Fikr.
 - Al-Bukhari, Abu Abdillah Muhammad bin Ismail. (2002). *Shahih al-Bukhari* (Tahqiq Muhammad Zuhair bin Nashir an-Nashir). Beirut: Dar Thawq an-Najah.
 - Bass, L., Clements, P., & Kazman, R. (2021). *Software architecture in practice* (4th ed.). Addison-Wesley Professional.
-- Fowkes, J., Chanthirasegaran, P., Raca, M., & Sutton, C. (2017). Autodocumenting source code with software engineering metrics. *IEEE Transactions on Software Engineering*, 43(12), 1120-1135. https://doi.org/10.1109/TSE.2017.2666870
+- Fowkes, J., Chanthirasegaran, P., Raca, M., & Sutton, C. (2017). Autodocumenting source code with software engineering metrics. *IEEE Transactions on Software Engineering*, 43(12), 1120-1135.
 - Hentschel, M., Khelladi, A. E., & Egyed, A. (2019). Docs-as-code: Integrating software documentation into continuous development workflows. In *Proceedings of the 41st International Conference on Software Engineering* (pp. 312-322). IEEE.
 - Ibnu an-Nadim, Muhammad bin Ishaq. (1997). *Al-Fihrist* (Tahqiq Ridha Tajaddud). Beirut: Dar al-Ma'rifah.
 - Khatib al-Baghdadi, Abu Bakr Ahmad bin Ali. (2001). *Tarikh Baghdad aw Madinat as-Salam* (Tahqiq Basyar Awwad Ma'ruf). Beirut: Dar al-Gharb al-Islami.
 - Moreno, J. L. (1953). *Who shall survive? Foundations of sociometry, group psychotherapy and sociodrama*. Beacon House.
 - Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson Education.
-- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285. https://doi.org/10.1207/s15516709cog1202_4
-- Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer Science & Business Media. https://doi.org/10.1007/978-1-4419-8126-4
+- Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
+- Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer Science & Business Media.
 
 - As-Sakhawi, Syamsuddin Muhammad bin Abdirrahman. (2003). *Fath al-Mughits bi Syarh Alfiyyat al-Hadits* (Tahqiq Ali Husain Ali). Kairo: Maktabah as-Sunnah.
 - Ath-Thabari, Abu Ja'far Muhammad bin Jarir. (2001). *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Tahqiq Abdullah bin Abdul Muhsin at-Turki). Kairo: Dar Hijr.
-- Robertson, S., & Zaragoza, H. (2009). The probabilistic relevance framework: BM25 and beyond. *Foundations and Trends in Information Retrieval*, 3(4), 333-389. https://doi.org/10.1561/1500000019
+- Robertson, S., & Zaragoza, H. (2009). The probabilistic relevance framework: BM25 and beyond. *Foundations and Trends in Information Retrieval*, 3(4), 333-389.
 - Salton, G., & McGill, M. J. (1983). *Introduction to modern information retrieval*. McGraw-Hill.
 - Nielsen, J. (1994). *Usability engineering*. Morgan Kaufmann.

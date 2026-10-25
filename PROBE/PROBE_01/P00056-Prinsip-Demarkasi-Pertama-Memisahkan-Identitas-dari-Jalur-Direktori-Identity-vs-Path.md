@@ -632,7 +632,7 @@ Shatibi, A. I. (1997). *Al-Muwafaqat fi Ushulisy-Syari'ah* (Tahqiq Masyhur Hasan
 Subki, T. A. (1992). *Thabaqat asy-Syafi'iyyah al-Kubra* (Tahqiq Mahmud Muhammad ath-Thanahi & Abdulfattah Muhammad al-Hulw, Jilid 1-10). Hajar li ath-Thiba'ah wan-Nasyr.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC3986
+Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF).
 
 Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley Professional.
 
@@ -652,7 +652,7 @@ Al-Khatib al-Baghdadi, A. bin A. (1988). *Al-Kifayah fi 'Ilm ar-Riwayah* (Tahqiq
 
 Al-Qabisi, A. bin M. (1986). *Ar-Risalah al-Mufashshalah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wal-Muta'allimin* (Tahqiq Ahmad Fuad al-Ahwani). Dar Ihya' al-Kutub al-'Arabiyyah.
 
-Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387. https://doi.org/10.1145/362384.362685
+Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387.
 
 Fielding, R. T. (2000). *Architectural Styles and the Design of Network-based Software Architectures* (Doctoral dissertation). University of California, Irvine.
 
@@ -662,4 +662,4 @@ Ibnu Sahnun, M. (1972). *Adab al-Mu'allimin* (Tahqiq Hasan Husni Abdul Wahhab). 
 
 Knuth, D. E. (1997). *The Art of Computer Programming, Volume 1: Fundamental Algorithms* (3rd ed.). Addison-Wesley Professional.
 
-Zittrain, J., Albert, K., & Lessig, L. (2014). Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations. *Harvard Law Review Forum*, 127(6), 176-199. https://doi.org/10.2139/ssrn.2348398
+Zittrain, J., Albert, K., & Lessig, L. (2014). Perma: Scoping and Addressing the Problem of Link and Reference Rot in Legal Citations. *Harvard Law Review Forum*, 127(6), 176-199.

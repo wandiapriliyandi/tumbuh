@@ -686,16 +686,16 @@ Al-Baghdadi, A. B. K. (1988). *Al-Kifayah fi 'Ilm ar-Riwayah*. Dar al-Kutub al-'
 Al-Bukhari, M. I. (1422 H). *Shahih al-Bukhari: Al-Jami' al-Musnad ash-Shahih*. Dar Thawq an-Najah.  
 Al-Ghazali, A. H. (1988). *Al-Munqidh min adh-Dhalal*. Dar al-Andalus.  
 As-Suyuthi, J. D. (1996). *Tadrib ar-Rawi fi Syarh Taqrib an-Nawawi*. Dar al-Kitab al-'Arabi.  
-Baumeister, R. F., Campbell, J. D., Krueger, J. I., & Vohs, K. D. (2003). Does High Self-Esteem Cause Better Performance, Interpersonal Success, Happiness, or Healthier Lifestyles? *Psychological Science in the Public Interest*, 4(1), 1-44. https://doi.org/10.1111/1529-1006.01431  
+Baumeister, R. F., Campbell, J. D., Krueger, J. I., & Vohs, K. D. (2003). Does High Self-Esteem Cause Better Performance, Interpersonal Success, Happiness, or Healthier Lifestyles? *Psychological Science in the Public Interest*, 4(1), 1-44.  
 Critical Appraisal Skills Programme. (2018). *CASP Checklists: 10 Questions to Help You Make Sense of a Randomized Controlled Trial*. Oxford: CASP UK.  
-Egger, M., Smith, G. D., Schneider, M., & Minder, C. (1997). Bias in Meta-Analysis Detected by a Simple, Graphical Test. *BMJ*, 315(7109), 629-634. https://doi.org/10.1136/bmj.315.7109.629  
-Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The Weirdest People in the World? *Behavioral and Brain Sciences*, 33(2-3), 61-83. https://doi.org/10.1017/S0140525X0999152X  
+Egger, M., Smith, G. D., Schneider, M., & Minder, C. (1997). Bias in Meta-Analysis Detected by a Simple, Graphical Test. *BMJ*, 315(7109), 629-634.  
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The Weirdest People in the World? *Behavioral and Brain Sciences*, 33(2-3), 61-83.  
 Higgins, J. P., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M. J., & Welch, V. A. (Eds.). (2019). *Cochrane Handbook for Systematic Reviews of Interventions* (2nd ed.). John Wiley & Sons.  
-Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124  
-Jadad, A. R., Moore, R. A., Carroll, D., Jenkinson, C., Reynolds, D. J., Gavaghan, D. J., & McQuay, H. J. (1996). Assessing the Quality of Reports of Randomized Clinical Trials: Is Blinding Necessary? *Controlled Clinical Trials*, 17(1), 1-12. https://doi.org/10.1016/0197-2456(95)00134-4  
+Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124.  
+Jadad, A. R., Moore, R. A., Carroll, D., Jenkinson, C., Reynolds, D. J., Gavaghan, D. J., & McQuay, H. J. (1996). Assessing the Quality of Reports of Randomized Clinical Trials: Is Blinding Necessary? *Controlled Clinical Trials*, 17(1), 1-12.  
 Legrenzi, P., & Umiltà, C. (2011). *Neuromania: On the Limits of Brain Science*. Oxford University Press.  
 Muslim, I. H. (1374 H). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar*. Matba'ah Isa al-Babi al-Halabi.  
-Owens, J., Adolescent Sleep Working Group, & Committee on Adolescence. (2014). School Start Times for Adolescents. *Pediatrics*, 134(3), 642-649. https://doi.org/10.1542/peds.2014-1697  
+Owens, J., Adolescent Sleep Working Group, & Committee on Adolescence. (2014). School Start Times for Adolescents. *Pediatrics*, 134(3), 642-649.  
 Popper, K. (2002). *The Logic of Scientific Discovery*. Routledge.  
 Sugiyono. (2018). *Metode Penelitian Evaluasi: Pendekatan Kuantitatif, Kualitatif, dan Kombinasi*. Alfabeta.  
 Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.  

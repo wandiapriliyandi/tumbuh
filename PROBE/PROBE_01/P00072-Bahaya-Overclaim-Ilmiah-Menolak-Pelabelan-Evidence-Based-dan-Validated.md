@@ -611,15 +611,15 @@ Al-Jauziyyah, I. Q. (1996). *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa 
 An-Nawawi, Y. S. (1392 H). *Al-Minhaj Syarh Shahih Muslim bin al-Hajjaj*. Dar Ihya' at-Turats al-'Arabi.  
 Ar-Razi, F. D. (1981). *Mafatih al-Ghaib (At-Tafsir al-Kabir)*. Dar al-Fikr.  
 Asy-Syathibi, I. (1997). *Al-Muwafaqat fi Usul asy-Syari'ah* (Tahqiq: Masyhur Hasan Salman). Dar Ibn 'Affan.  
-Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124. https://doi.org/10.1371/journal.pmed.0020124  
-Kerr, N. L. (1998). HARKing: Hypothesizing After the Results are Known. *Personality and Social Psychology Review*, 2(3), 196-217. https://doi.org/10.1207/s15327957pspr0203_4  
-Messick, S. (1995). Validity of Psychological Assessment: Validation of Inferences from Persons' Responses and Performances as Scientific Inquiry into Score Meaning. *American Psychologist*, 50(9), 741-749. https://doi.org/10.1037/0003-066X.50.9.741  
+Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8), e124.  
+Kerr, N. L. (1998). HARKing: Hypothesizing After the Results are Known. *Personality and Social Psychology Review*, 2(3), 196-217.  
+Messick, S. (1995). Validity of Psychological Assessment: Validation of Inferences from Persons' Responses and Performances as Scientific Inquiry into Score Meaning. *American Psychologist*, 50(9), 741-749.  
 Muslim, I. H. (1374 H). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar*. Matba'ah Isa al-Babi al-Halabi.  
-Open Science Collaboration. (2015). Estimating the Reproducibility of Psychological Science. *Science*, 349(6251), aac4716. https://doi.org/10.1126/science.aac4716  
+Open Science Collaboration. (2015). Estimating the Reproducibility of Psychological Science. *Science*, 349(6251), aac4716.  
 Popper, K. (2002). *The Logic of Scientific Discovery*. Routledge.  
-Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence Based Medicine: What It Is and What It Isn't. *BMJ*, 312(7023), 71-72. https://doi.org/10.1136/bmj.312.7023.71  
-Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. *Psychological Science*, 22(11), 1359-1366. https://doi.org/10.1177/0956797611417632  
-Slavin, R. E. (2002). Evidence-Based Education Policies: Transforming Educational Practice and Research. *Educational Researcher*, 31(7), 15-21. https://doi.org/10.3102/0013189X031007015  
+Sackett, D. L., Rosenberg, W. M., Gray, J. A., Haynes, R. B., & Richardson, W. S. (1996). Evidence Based Medicine: What It Is and What It Isn't. *BMJ*, 312(7023), 71-72.  
+Simmons, J. P., Nelson, L. D., & Simonsohn, U. (2011). False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant. *Psychological Science*, 22(11), 1359-1366.  
+Slavin, R. E. (2002). Evidence-Based Education Policies: Transforming Educational Practice and Research. *Educational Researcher*, 31(7), 15-21.  
 Sugiyono. (2018). *Metode Penelitian Evaluasi: Pendekatan Kuantitatif, Kualitatif, dan Kombinasi*. Alfabeta.  
 What Works Clearinghouse. (2020). *WWC Standards Handbook, Version 4.1*. U.S. Department of Education, Institute of Education Sciences.  
 Zarkasyi, H. F. (2020). *Minhaj: Berpikir Islam Menuju Kesejatian Pemikiran*. INSISTS.

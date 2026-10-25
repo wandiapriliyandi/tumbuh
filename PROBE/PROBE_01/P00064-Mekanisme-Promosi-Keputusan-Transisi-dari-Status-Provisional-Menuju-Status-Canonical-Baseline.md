@@ -705,13 +705,13 @@ Setelah mengunci mekanisme promosi keputusan (P00064), penyelidikan tata kelola 
 - Al-Ghazali, Abu Hamid. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (Tahqiq Hamzah bin Zuhair Hafizh). Al-Madinah: Syarikah al-Madinah al-Munawwarah.
 - Asy-Syathibi, Abu Ishaq. (2003). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Tahqiq Masyhur Hasan Salman). Kairo: Dar Ibn 'Affan.
 - Bass, L., Clements, P., & Kazman, R. (2021). *Software architecture in practice* (4th ed.). Addison-Wesley Professional.
-- Cooper, R. G. (1990). Stage-gate systems: A new tool for managing new products. *Business Horizons*, 33(3), 44-54. https://doi.org/10.1016/0007-6813(90)90040-I
+- Cooper, R. G. (1990). Stage-gate systems: A new tool for managing new products. *Business Horizons*, 33(3), 44-54.)90040-I
 - Cooper, R. G. (2017). *Idea to launch: The stage-gate process for new products*. Stage-Gate International.
 - Humble, J., & Farley, D. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
 - Ibn al-Qayyim al-Jauziyyah, Muhammad bin Abi Bakr. (1991). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Tahqiq Thaha Abdur Rauf Sa'd). Beirut: Dar al-Jil.
 - Ibn Asyur, Muhammad at-Tahir. (2001). *Maqashid asy-Syari'ah al-Islamiyyah*. Kairo: Dar as-Salam.
 - IEEE. (2017). *ISO/IEC/IEEE 29148:2018 Systems and software engineering - Life cycle processes - Requirements engineering*. IEEE Standards Association.
-- Rahman, M. A., Gao, C. Y., & Murphy, G. C. (2016). Feature flags: A survey of software engineering practices. In *Proceedings of the 13th International Conference on Mining Software Repositories* (pp. 512-515). ACM. https://doi.org/10.1145/2901739.2903502
+- Rahman, M. A., Gao, C. Y., & Murphy, G. C. (2016). Feature flags: A survey of software engineering practices. In *Proceedings of the 13th International Conference on Mining Software Repositories* (pp. 512-515). ACM.
 - Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson Education.
 
 - ISO/IEC/IEEE. (2023). *ISO/IEC/IEEE 15288:2023 Systems and software engineering - System life cycle processes*. IEEE Standards Association.

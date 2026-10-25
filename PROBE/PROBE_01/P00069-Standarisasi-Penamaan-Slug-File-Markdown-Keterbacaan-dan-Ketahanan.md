@@ -711,14 +711,14 @@ Dengan tuntasnya seluruh arsitektur identitas dan penomoran pada Pilar 5 (P00069
 - As-Sakhawi, Syamsuddin Muhammad bin Abdirrahman. (1992). *Al-I'lan bit-Tawbikh li-Man Dzamma at-Tarikh* (Tahqiq Franz Rosenthal). Beirut: Dar al-Kutub al-'Ilmiyyah.
 - As-Suyuthi, Jalaluddin. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Beirut: Dar al-Kutub al-'Ilmiyyah.
 - Berners-Lee, T. (1998). *Cool URIs don't change*. W3C Style Guide. https://www.w3.org/Provider/Style/URI
-- Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform resource identifier (URI): Generic syntax* (RFC 3986). Internet Engineering Task Force. https://doi.org/10.17487/RFC3986
-- IEEE. (2018). *IEEE Std 1003.1-2017 (Revision of IEEE Std 1003.1-2008) - Standard for Information Technology - Portable Operating System Interface (POSIX(R)) Base Specifications, Issue 7*. IEEE Standards Association. https://doi.org/10.1109/IEEESTD.2018.8277153
+- Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform resource identifier (URI): Generic syntax* (RFC 3986). Internet Engineering Task Force.
+- IEEE. (2018). *IEEE Std 1003.1-2017 (Revision of IEEE Std 1003.1-2008) - Standard for Information Technology - Portable Operating System Interface (POSIX(R)) Base Specifications, Issue 7*. IEEE Standards Association.
 - Nielsen, J., & Loranger, H. (2006). *Prioritizing web usability*. New Riders.
 - Raymond, E. S. (2003). *The art of Unix programming*. Addison-Wesley Professional.
 - Sommerville, I. (2016). *Software engineering* (10th ed.). Pearson Education.
 
 - Ibnu Jinni, Abu al-Fath Utsman. (1990). *Al-Khasa'is* (Tahqiq Muhammad Ali an-Najjar). Kairo: Dar al-Kutub al-Mishriyyah.
-- Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
+- Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379-423.
 - Berners-Lee, T. (1998). *Cool URIs don't change*. W3C Style Guide. https://www.w3.org/Provider/Style/URI
 - Tanenbaum, A. S., & Bos, H. (2014). *Modern operating systems* (4th ed.). Pearson.
 - Al-Ghazali, Abu Hamid. (1997). *Ihya' 'Ulum ad-Din*. Beirut: Dar al-Kutub al-'Ilmiyyah.

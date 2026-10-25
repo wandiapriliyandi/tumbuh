@@ -734,7 +734,7 @@ Izzuddin bin Abdissalam, A. bin A. (1999). *Qawa'id al-Ahkam fi Mashalih al-Anam
 Shatibi, A. I. (1997). *Al-Muwafaqat fi Ushulisy-Syari'ah* (Tahqiq Masyhur Hasan Salman, Jilid 1-6). Dar Ibn 'Affan.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC3986
+Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF).
 
 Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 
@@ -750,7 +750,7 @@ Raymond, E. S. (2003). *The Art of Unix Philosophy*. Addison-Wesley Professional
 
 Torvalds, L., & Hamano, J. C. (2005). *Git: Fast Version Control System*. Kernel.org.
 
-Wilde, E. (2019). *The Sunset HTTP Header Field* (RFC 8594). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC8594
+Wilde, E. (2019). *The Sunset HTTP Header Field* (RFC 8594). Internet Engineering Task Force (IETF).
 
 Al-Asqalani, A. bin A. I. H. (2000). *Fath al-Bari bi Syarh Shahih al-Bukhari* (Tahqiq Abdul Aziz bin Baz & Muhibbuddin al-Khathib, Jilid 1-13). Dar al-Kutub al-'Ilmiyyah.
 
@@ -760,7 +760,7 @@ An-Nawawi, Y. bin S. (1996). *Al-Majmu' Syarh al-Muhadzdzab* (Tahqiq Mahmud Math
 
 As-Suyuthi, J. (1996). *Tadrib ar-Rawi fi Syarh Taqrib an-Nawawi* (Tahqiq Abdul Wahhab Abdul Lathif, Jilid 1-2). Dar al-Kutub al-'Ilmiyyah.
 
-Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress. https://doi.org/10.1007/978-1-4842-0076-6
+Chacon, S., & Straub, B. (2014). *Pro Git* (2nd ed.). Apress.
 
 Fowler, M. (2018). *Refactoring: Improving the Design of Existing Code* (2nd ed.). Addison-Wesley Professional.
 
@@ -770,7 +770,7 @@ Preston-Werner, T. (2013). *Semantic Versioning 2.0.0*. SemVer.org. https://semv
 
 Al-Qalqasyandi, A. bin A. (1987). *Subh al-A'sya fi Shina'at al-Insya* (Tahqiq Muhammad Husain Syamsuddin, Jilid 1-14). Dar al-Kutub al-'Ilmiyyah.
 
-Edmondson, A. (1999). Psychological Safety and Learning Behavior in Work Teams. *Administrative Science Quarterly*, 44(2), 350-383. https://doi.org/10.2307/2666999
+Edmondson, A. (1999). Psychological Safety and Learning Behavior in Work Teams. *Administrative Science Quarterly*, 44(2), 350-383.
 
 Ibnu Hisyam, A. bin A. (1990). *As-Sirah an-Nabawiyyah* (Tahqiq Musthafa as-Saqqa, Ibrahim al-Abyari, & Abdul Hafizh Syalabi, Jilid 1-4). Dar Ihya' at-Turats al-'Arabi.
 

@@ -654,9 +654,9 @@ Ibnu Shalah, U. bin A. (1986). *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (
 Izzuddin bin Abdissalam, A. bin A. (1999). *Qawa'id al-Ahkam fi Mashalih al-Anam* (Tahqiq Taha Abdul Rauf Sa'ad, Jilid 1-2). Maktabah al-Kulliyyat al-Azhariyyah.
 
 ### 13.2. Riset Empiris, Rekayasa Perangkat Lunak, & Arsitektur Informasi Kontemporer
-Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC3986
+Berners-Lee, T., Fielding, R., & Masinter, L. (2005). *Uniform Resource Identifier (URI): Generic Syntax* (RFC 3986). Internet Engineering Task Force (IETF).
 
-Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387. https://doi.org/10.1145/362384.362685
+Codd, E. F. (1970). A Relational Model of Data for Large Shared Data Banks. *Communications of the ACM*, 13(6), 377-387.
 
 Date, C. J. (2004). *An Introduction to Database Systems* (8th ed.). Addison-Wesley.
 
@@ -666,7 +666,7 @@ Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns: Elem
 
 Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. O'Reilly Media.
 
-Lakshman, A., & Malik, P. (2010). Cassandra: A Decentralized Structured Storage System. *ACM SIGOPS Operating Systems Review*, 44(2), 35-40. https://doi.org/10.1145/1773912.1773922
+Lakshman, A., & Malik, P. (2010). Cassandra: A Decentralized Structured Storage System. *ACM SIGOPS Operating Systems Review*, 44(2), 35-40.
 
 Nygard, M. T. (2018). *Release It!: Design and Deploy Production-Ready Software* (2nd ed.). Pragmatic Bookshelf.
 
@@ -680,9 +680,9 @@ Al-Ghazali, A. H. M. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (Tahqiq Muhammad S
 
 As-Suyuthi, J. (1996). *Tadrib ar-Rawi fi Syarh Taqrib an-Nawawi* (Tahqiq Abdul Wahhab Abdul Lathif, Jilid 1-2). Dar al-Kutub al-'Ilmiyyah.
 
-Chang, F., Dean, J., Ghemawat, S., Hsieh, W. C., Wallach, D. A., Burrows, M., Chandra, T., Fikes, A., & Gruber, R. E. (2008). Bigtable: A Distributed Storage System for Structured Data. *ACM Transactions on Computer Systems*, 26(2), 1-26. https://doi.org/10.1145/1365815.1365816
+Chang, F., Dean, J., Ghemawat, S., Hsieh, W. C., Wallach, D. A., Burrows, M., Chandra, T., Fikes, A., & Gruber, R. E. (2008). Bigtable: A Distributed Storage System for Structured Data. *ACM Transactions on Computer Systems*, 26(2), 1-26.
 
-DeCandia, G., Hastorun, D., Jampani, M., Kakulapati, G., Lakshman, A., Pilchin, A., Sivasubramanian, S., Vosshall, P., & Vogels, W. (2007). Dynamo: Amazon's Highly Available Key-value Store. *ACM SIGOPS Operating Systems Review*, 41(6), 205-220. https://doi.org/10.1145/1323293.1294281
+DeCandia, G., Hastorun, D., Jampani, M., Kakulapati, G., Lakshman, A., Pilchin, A., Sivasubramanian, S., Vosshall, P., & Vogels, W. (2007). Dynamo: Amazon's Highly Available Key-value Store. *ACM SIGOPS Operating Systems Review*, 41(6), 205-220.
 
 Kreps, J., Narkhede, N., & Rao, J. (2011). Kafka: A Distributed Messaging System for Log Processing. *Proceedings of the NetDB*, 1-7.
 
@@ -690,13 +690,13 @@ Bernstein, P. A., Hadzilacos, V., & Goodman, N. (1987). *Concurrency Control and
 
 Gray, J., & Reuter, A. (1992). *Transaction Processing: Concepts and Techniques*. Morgan Kaufmann.
 
-Leach, P., Mealling, M., & Salz, R. (2005). *A Universally Unique IDentifier (UUID) URN Namespace* (RFC 4122). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC4122
+Leach, P., Mealling, M., & Salz, R. (2005). *A Universally Unique IDentifier (UUID) URN Namespace* (RFC 4122). Internet Engineering Task Force (IETF).
 
 Ousterhout, J. (2018). *A Philosophy of Software Design*. Yaknyam Press.
 
 Tanenbaum, A. S., & Van Steen, M. (2007). *Distributed Systems: Principles and Paradigms* (2nd ed.). Prentice Hall.
 
-Saint-Andre, P., & Klensin, J. (2017). *Uniform Resource Names (URNs)* (RFC 8141). Internet Engineering Task Force (IETF). https://doi.org/10.17487/RFC8141
+Saint-Andre, P., & Klensin, J. (2017). *Uniform Resource Names (URNs)* (RFC 8141). Internet Engineering Task Force (IETF).
 
 Al-Amidi, S. (2003). *Al-Ihkam fi Ushul al-Ahkam* (Tahqiq Sayyid al-Jumaili, Jilid 1-4). Dar al-Kitab al-'Arabi.
 
