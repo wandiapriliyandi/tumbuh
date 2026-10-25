@@ -22,9 +22,8 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 |---|---|---|:---:|
 | **1** | **Eksistensi, Silsilah, & Hakikat Branch v2.0.0** | `P00000` – `P00009` | **SELESAI KANONIK (10 Berkas)** |
 | **2** | **Stratifikasi Lapisan Repositori & Separation of Concerns** | `P00010` – `P00021` | **SELESAI KANONIK (12 Berkas)** |
-| **3** | **Logika Penataan Arsitektur Konseptual TUMBUH** | `P00022` – `P00039` | Sedang Ditulis |
-
-| **4** | **Mesin Penyelidikan PROBE (Inquiry Engine)** | `P00040` – `P00054` | Menunggu Antrean |
+| **3** | **Logika Penataan Arsitektur Konseptual TUMBUH** | `P00022` – `P00039` | **SELESAI KANONIK (18 Berkas)** |
+| **4** | **Mesin Penyelidikan PROBE (Inquiry Engine)** | `P00040` – `P00054` | **Sebagian Selesai: P00040–P00050 (11 Berkas)** |
 | **5** | **Tata Kelola Identitas, Penomoran, & Traceability** | `P00055` – `P00069` | Menunggu Antrean |
 | **6** | **Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah** | `P00070` – `P00084` | Menunggu Antrean |
 | **7** | **Rekayasa Sistem & Deteksi Utang Desain (*Design Debt*)** | `P00085` – `P00099` | Menunggu Antrean |
@@ -36,7 +35,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 
 *(Daftar berkas akan diperbarui secara otomatis seiring selesainya penulisan tiap-tiap monograf kanonik).*
 
-### Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0 (SELESAI LENGKAP)
+### Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0 (SELESAI LENGKAP - 10 Berkas)
 - [`P00000` — Mengapa Ekosistem TUMBUH Membutuhkan Branch V2? Dialektika Kontinuitas Historis (Lineage) dan Kebebasan Restrukturisasi Arsitektural](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md)
 - [`P00001` — Dekonstruksi Status V2: Mengapa V2 Bukan Penulisan Ulang dari Nol (Clean-Slate Fallacy) Melainkan Penyempurnaan Berkelanjutan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00001-Dekonstruksi-Status-V2-Mengapa-Bukan-Penulisan-Ulang-dari-Nol.md)
 - [`P00002` — Hakikat Git Branch sebagai Penanda Fase Arsitektural dan Bukan Sekadar Utilitas Teknis Perangkat Lunak](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00002-Hakikat-Git-Branch-sebagai-Penanda-Fase-Arsitektural.md)
@@ -48,7 +47,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00008` — Kriteria Kematangan Promosi Branch: Kapan Status V2 Layak Ditetapkan Menjadi Baseline Kanonik Pengganti Main](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00008-Kriteria-Kematangan-Promosi-Branch-V2-ke-Main.md)
 - [`P00009` — Piagam Komitmen Epistemik V2: Menolak Kompromi Pragmatis yang Merendahkan Martabat Keilmuan Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00009-Piagam-Komitmen-Epistemik-V2.md)
 
-### Pilar 2: Stratifikasi Lapisan Repositori & Separation of Concerns
+### Pilar 2: Stratifikasi Lapisan Repositori & Separation of Concerns (SELESAI LENGKAP - 12 Berkas)
 - [`P00010` — Mengapa Repositori TUMBUH Dipisahkan Berdasarkan Fungsi Lapisan Epistemik (Separation of Epistemic Concerns)?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md)
 - [`P00011` — Anatomi Alur Epistemik Repositori: Dari Bahan Sumber Mentah (Source) Menuju Tindakan Nyata (Praktik)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md)
 - [`P00012` — Demarkasi Lapisan 01_FUNDAMENTAL: Menjaga Konstitusi Filosofi, Prinsip, dan Inti Model dari Polusi Teknis Operasional](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00012-Demarkasi-Lapisan-01-FUNDAMENTAL.md)
@@ -62,7 +61,7 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00020` — Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00020-Batas-Folder-source.md)
 - [`P00021` — Protokol Pertahanan Lapisan Repositori: Mekanisme Verifikasi Otomatis untuk Mencegah Kebocoran Antarlayer](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md)
 
-### Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH (P00022 s/d P00039)
+### Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH (SELESAI LENGKAP - 18 Berkas)
 - [`P00022` — Mengapa Foundation Menjadi Pintu Gerbang Pertama Seluruh Bangunan Arsitektur TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00022-Mengapa-Foundation-Menjadi-Pintu-Gerbang-Pertama.md)
 - [`P00023` — Logika Pembagian Foundation Menjadi 9 Domain Filosofis: Alasan Epistemik dan Urutan Dependensinya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00023-Logika-Pembagian-Foundation-Menjadi-9-Domain-Filosofis.md)
 - [`P00024` — Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00024-Mengapa-Worldview-Pandangan-Alam-Islam-Wajib-Ditempatkan-sebagai-Domain-Paling-Pertama.md)
@@ -76,28 +75,28 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00032` — Mengapa System Architecture (Arsitektur Sistem) Menjadi Penutup Sempurna Lapisan Fondasi?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00032-Mengapa-System-Architecture-Menjadi-Penutup-Sempurna-Lapisan-Fondasi.md)
 - [`P00033` — Logika Transisi: Mengapa Setelah Menuntaskan Foundation Sistem Wajib Memasuki Core Model?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00033-Logika-Transisi-Mengapa-Setelah-Menuntaskan-Foundation-Sistem-Wajib-Memasuki-Core-Model.md)
 - [`P00034` — Apa yang Menjadi Poros Tengah Core Model TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00034-Apa-yang-Menjadi-Poros-Tengah-Core-Model-TUMBUH.md)
-- `P00035` — Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)? *(Antrean Berikutnya)*
-- `P00036` — Rasionalitas Komponen Kedua Core Model: Mengapa Membutuhkan Growth Mechanism (Mekanisme Pertumbuhan)? *(Antrean)*
-- `P00037` — Rasionalitas Komponen Ketiga Core Model: Mengapa Membutuhkan Core Capacity Architecture? *(Antrean)*
-- `P00038` — Rasionalitas Komponen Keempat Core Model: Mengapa Membutuhkan System Logic? *(Antrean)*
-- `P00039` — Muara Seluruh Bangunan Arsitektur: Penetapan Profil Lulusan Santri (*Graduate Profile*) *(Antrean)*
+- [`P00035` — Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00035-Rasionalitas-Komponen-Pertama-Core-Model-Mengapa-Membutuhkan-Growth-Ecology.md)
+- [`P00036` — Rasionalitas Komponen Kedua Core Model: Mengapa Membutuhkan Growth Mechanism (Mekanisme Pertumbuhan)?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00036-Rasionalitas-Komponen-Kedua-Core-Model-Mengapa-Membutuhkan-Growth-Mechanism.md)
+- [`P00037` — Rasionalitas Komponen Ketiga Core Model: Mengapa Membutuhkan Core Capacity Architecture?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00037-Rasionalitas-Komponen-Ketiga-Core-Model-Mengapa-Membutuhkan-Core-Capacity-Architecture.md)
+- [`P00038` — Rasionalitas Komponen Keempat Core Model: Mengapa Membutuhkan System Logic?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00038-Rasionalitas-Komponen-Keempat-Core-Model-Mengapa-Membutuhkan-System-Logic.md)
+- [`P00039` — Muara Seluruh Bangunan Arsitektur: Penetapan Profil Lulusan Santri (Graduate Profile)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00039-Muara-Seluruh-Bangunan-Arsitektur-Penetapan-Profil-Lulusan-Santri.md)
 
 ### Pilar 4: Mesin Penyelidikan PROBE (Inquiry Engine) (P00040 s/d P00054)
-- `P00040` — Hakikat PROBE: Dekonstruksi Folder Dokumentasi Menjadi Mesin Penyelidikan Dialektis (*Inquiry Engine*)
-- `P00041` — Metodologi Emergent Reasoning: Mengapa Pertanyaan Berikutnya Wajib Lahir Organik dari Temuan Sebelumnya
-- `P00042` — Kedudukan Object of Inquiry: Menjaga Agar Pertanyaan Bebas Tidak Pernah Kehilangan Jangkar TUMBUH
-- `P00043` — Perumusan TUMBUH Question yang Tajam: Menolak Pertanyaan Teoritis Hampa Tanpa Dampak Repositori
-- `P00044` — Standarisasi Struktur Baku 13 Bagian Jurnal Riset Desain Sistem TUMBUH
-- `P00045` — Larangan Mutlak Format Naskah Drama: Mengharamkan Skrip Percakapan Sandiwara dalam Seluruh Berkas PROBE
-- `P00046` — Protokol Tinjauan Turats Berharakat: Autentisitas Matan, Takhrij Sanad, dan Hermeneutika Maqashid
-- `P00047` — Protokol Tinjauan Sains Kontemporer: Eksplorasi Neurosains, Teori Sistem, dan Eliminasi Paywall Berbayar
-- `P00048` — Rekonsiliasi Epistemik Dua Sayap: Metodologi Al-Jam'u wat-Taufiq Antara Syariat dan Sains
-- `P00049` — Anatomi Studi Kasus Tata Kelola Kelembagaan: Membedah Antecedents, Setting Events, dan Relasi Kuasa
-- `P00050` — Rekayasa Matriks Komparatif Multidimensi: Mengubah Data Abstrak Menjadi Tabel Analitis Operasional
-- `P00051` — Format Kanonik Architectural Decision Record (ADR): Mengunci Keputusan Arsitektural dalam Berkas Penyelidikan
-- `P00052` — Formulasi 7 Butir Guardrails Repositori: Menetapkan Batas-Batas Negatif yang Haram Dilanggar Pengembang
-- `P00053` — Mitigasi Inquiry Drift: Penerapan 5 Drift Guardrails Sebelum Melangkah ke Berkas P Berikutnya
-- `P00054` — Kriteria Penghentian Penyelidikan (*Stopping Rules*): Mengetahui Kapan Suatu Ruang Kajian Dianggap Tuntas
+- [`P00040` — Hakikat PROBE: Dekonstruksi Folder Dokumentasi Menjadi Mesin Penyelidikan Dialektis (Inquiry Engine)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00040-Hakikat-PROBE-Dekonstruksi-Folder-Dokumentasi-Menjadi-Mesin-Penyelidikan-Dialektis.md)
+- [`P00041` — Metodologi Emergent Reasoning: Mengapa Pertanyaan Berikutnya Wajib Lahir Organik dari Temuan Sebelumnya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00041-Metodologi-Emergent-Reasoning-Mengapa-Pertanyaan-Berikutnya-Wajib-Lahir-Organik.md)
+- [`P00042` — Kedudukan Object of Inquiry: Menjaga Agar Pertanyaan Bebas Tidak Pernah Kehilangan Jangkar TUMBUH](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00042-Kedudukan-Object-of-Inquiry-Menjaga-Agar-Pertanyaan-Bebas-Tidak-Kehilangan-Jangkar.md)
+- [`P00043` — Perumusan TUMBUH Question yang Tajam: Menolak Pertanyaan Teoritis Hampa Tanpa Dampak Repositori](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00043-Perumusan-TUMBUH-Question-yang-Tajam-Menolak-Pertanyaan-Teoritis-Hampa.md)
+- [`P00044` — Standarisasi Struktur Baku 13 Bagian Jurnal Riset Desain Sistem TUMBUH](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00044-Standarisasi-Struktur-Baku-13-Bagian-Jurnal-Riset-Desain-Sistem.md)
+- [`P00045` — Larangan Mutlak Format Naskah Drama: Mengharamkan Skrip Percakapan Sandiwara dalam Seluruh Berkas PROBE](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00045-Larangan-Mutlak-Format-Naskah-Drama-Mengharamkan-Skrip-Percakapan.md)
+- [`P00046` — Protokol Tinjauan Turats Berharakat: Autentisitas Matan, Takhrij Sanad, dan Hermeneutika Maqashid](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00046-Protokol-Tinjauan-Turats-Berharakat-Autentisitas-Matan-Takhrij-Sanad.md)
+- [`P00047` — Protokol Tinjauan Sains Kontemporer: Eksplorasi Neurosains, Teori Sistem, dan Eliminasi Paywall Berbayar](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00047-Protokol-Tinjauan-Sains-Kontemporer-Eksplorasi-Neurosains-Eliminasi-Paywall.md)
+- [`P00048` — Rekonsiliasi Epistemik Dua Sayap: Metodologi Al-Jam'u wat-Taufiq Antara Syariat dan Sains](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00048-Rekonsiliasi-Epistemik-Dua-Sayap-Metodologi-Al-Jam-u-wat-Taufiq.md)
+- [`P00049` — Anatomi Studi Kasus Tata Kelola Kelembagaan: Membedah Antecedents, Setting Events, dan Relasi Kuasa](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00049-Anatomi-Studi-Kasus-Tata-Kelola-Kelembagaan-Membedah-Antecedents.md)
+- [`P00050` — Rekayasa Matriks Komparatif Multidimensi: Mengubah Data Abstrak Menjadi Tabel Analitis Operasional](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00050-Rekayasa-Matriks-Komparatif-Multidimensi-Mengubah-Data-Abstrak.md)
+- `P00051` — Format Kanonik Architectural Decision Record (ADR): Mengunci Keputusan Arsitektural dalam Berkas Penyelidikan *(Antrean Berikutnya)*
+- `P00052` — Formulasi 7 Butir Guardrails Repositori: Menetapkan Batas-Batas Negatif yang Haram Dilanggar Pengembang *(Antrean)*
+- `P00053` — Mitigasi Inquiry Drift: Penerapan 5 Drift Guardrails Sebelum Melangkah ke Berkas P Berikutnya *(Antrean)*
+- `P00054` — Kriteria Penghentian Penyelidikan (*Stopping Rules*): Mengetahui Kapan Suatu Ruang Kajian Dianggap Tuntas *(Antrean)*
 
 
 
