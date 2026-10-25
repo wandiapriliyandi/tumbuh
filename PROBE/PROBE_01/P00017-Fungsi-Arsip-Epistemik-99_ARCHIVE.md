@@ -358,7 +358,7 @@ Sebagai naskah monograf ilmiah desain sistem, tata kelola arsip dikodifikasikan 
 Misalkan $A$ merepresentasikan himpunan seluruh berkas usang di dalam direktori `99_ARCHIVE/`. Setiap berkas arsip $a \in A$ wajib mematuhi predikat penyegelan:
 
 1. **Predikat Keberadaan Tombstone Wajib (Mandatory Tombstone Invariant)**:
-   $$\forall a \in A, \quad \text{HasMetadata}(a, \text{"status: DEPRECATED"}) \land \text{HasMetadata}(a, \text{"replacement_doc"})$$
+   $$\forall a \in A, \quad \text{HasMetadata}(a, \text{"status: DEPRECATED"}) \land \text{HasMetadata}(a, \text{"replacement-doc"})$$
    Setiap berkas yang dipindahkan ke arsip wajib memiliki nisan digital (*tombstone banner*) yang menerangkan alasan keusangan, tanggal pembekuan, dan dokumen kanonik penggantinya.
 
 2. **Predikat Anti-Resureksi Berkas Mati (Zero Zombie Dependency Invariant)**:

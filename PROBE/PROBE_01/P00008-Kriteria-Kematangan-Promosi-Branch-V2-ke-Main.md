@@ -152,7 +152,7 @@ $$\text{PRI} = w_1 \cdot C_{\text{probe}} + w_2 \cdot S_{\text{turats}} + w_3 \c
 Di mana:
 - $C_{\text{probe}}$ adalah rasio kelengkapan 120 berkas inkuiri PROBE yang telah memenuhi standar 13 bagian ($C_{\text{probe}} = N_{\text{complete}} / 120$). Bobot $w_1 = 0.35$.
 - $S_{\text{turats}}$ adalah rasio validitas teks turats Arab berharakat dan takhrij nomor hadits yang diverifikasi dewan pakar. Bobot $w_2 = 0.25$.
-- $L_{\text{integrity}}$ adalah rasio integritas pranala internal ($L_{\text{integrity}} = 1 - [N_{\text{broken}} / N_{\text{total\_links}}]$). Bobot $w_3 = 0.20$.
+- $L_{\text{integrity}}$ adalah rasio integritas pranala internal ($L_{\text{integrity}} = 1 - [N_{\text{broken}} / N_{\text{total-links}}]$). Bobot $w_3 = 0.20$.
 - $U_{\text{field}}$ adalah skor kepuasan dan stabilitas pengasuhan di asrama percontohan selama fase Dual-Run. Bobot $w_4 = 0.20$.
 
 Dewan Arsitektur TUMBUH menetapkan syarat mutlak: **Branch `v2.0.0` hanya diizinkan diajukan ke Sidang Pleno Majelis Masyaikh apabila $\text{PRI} \ge 0.98$ (98%) tanpa ada satu pun nilai komponen yang berada di bawah 0.95**. Angka matematis ini memastikan bahwa tidak ada cacat tersembunyi yang diloloskan karena kompromi subjektif.
@@ -385,7 +385,7 @@ Sebelum eksekusi *fast-forward merge* diizinkan pada tingkat server Git, gerbang
 #### 9.3.1. Predikat Invarian Gerbang Kelayakan Promosi (Promotion Readiness Invariant)
 Promosi branch `v2.0.0` ke `main` hanya sah apabila seluruh predikat logika berikut bernilai `TRUE`:
 
-$$\text{PromotionReady} \iff (\text{Count}(P) = 120) \land (\text{BrokenLinks}(P) = 0) \land (\text{PaywallLinks}(P) = 0) \land (\text{AMI\_Score} \ge 4.5)$$
+$$\text{PromotionReady} \iff (\text{Count}(P) = 120) \land (\text{BrokenLinks}(P) = 0) \land (\text{PaywallLinks}(P) = 0) \land (\text{AMI-Score} \ge 4.5)$$
 
 di mana $P$ adalah himpunan 120 berkas monograf kanonik `P00000` s/d `P00119`.
 

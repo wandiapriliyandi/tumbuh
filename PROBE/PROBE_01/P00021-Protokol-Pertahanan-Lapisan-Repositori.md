@@ -388,7 +388,7 @@ Sebagai sebuah monograf ilmiah desain sistem, penegakan integritas repositori ti
 Sistem repositori dimodelkan sebagai sebuah graf berarah terbobot $G = (V, E)$, di mana:
 - Himpunan simpul $V$ merepresentasikan seluruh berkas markdown di dalam repositori, terpartisi ke dalam sub-himpunan lapisan:
   $$V = L_1 \cup L_2 \cup L_3 \cup S \cup E \cup R \cup A$$
-  dengan $L_1 = \text{01\_FUNDAMENTAL}$, $L_2 = \text{02\_IMPLEMENTATION}$, $L_3 = \text{03\_OPERATIONAL}$, $S = \text{source}$, $E = \text{08\_SOURCES\_AND\_EVIDENCE}$, $R = \text{09\_RESEARCH}$, dan $A = \text{99\_ARCHIVE}$.
+  dengan $L_1$ = `01_FUNDAMENTAL/`, $L_2$ = `02_IMPLEMENTATION/`, $L_3$ = `03_OPERATIONAL/`, $S$ = `source/`, $E$ = `08_SOURCES_AND_EVIDENCE/`, $R$ = `09_RESEARCH/`, dan $A$ = `99_ARCHIVE/`.
 - Himpunan sisi berarah $E$ merepresentasikan tautan rujukan eksplisit antarberkas: $e = (u, v) \in E$ bermakna berkas $u$ memuat tautan markdown menuju berkas $v$.
 
 Aturan larangan dependensi (*boundary constraints*) ditetapkan sebagai empat predikat invarian logis:
