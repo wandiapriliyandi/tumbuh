@@ -100,27 +100,13 @@ Peringatan sosiologis Ibnu Khaldun ini membuktikan bahwa tanpa *Core Model* yang
 ### 5.1. Model-Driven Architecture (MDA) & Transformasi Abstraksi
 Dalam disiplin rekayasa sistem modern (*Systems Engineering*) dan arsitektur perangkat lunak terpadu (*Object Management Group - OMG*), prinsip transisi bertingkat dirumuskan melalui *Model-Driven Architecture (MDA)*:[^4]
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             ANALOGI TRANSFORMASI ABSTRAKSI MODEL (MDA vs TUMBUH)       │
-├────────────────────────────────────────────────────────────────────────┤
-│ TINGKAT MDA                     PADANAN ARSITEKTUR TUMBUH v2.0.0       │
-│                                                                        │
-│ 1. CIM (Computation Independent) ──► 01_FOUNDATION (Worldview,         │
-│    Model konseptual murni tanpa      Epistemologi, Hakikat Jiwa, Nilai)│
-│    ikatan platform teknis.                                             │
-│                │                                    │                  │
-│                ▼ LOGIKA TRANSISI                    ▼ LOGIKA TRANSISI  │
-│ 2. PIM (Platform Independent)   ──► 03_CORE_MODEL (Profil Lulusan,     │
-│    Model operasional terpadu yang    Ekologi, Mekanisme, 8 Kapasitas)  │
-│    mengatur fungsi & interaksi.                                        │
-│                │                                    │                  │
-│                ▼ TRANSLASI SPESIFIK                 ▼ TRANSLASI LEMBAGA│
-│ 3. PSM (Platform Specific)      ──► 02_IMPLEMENTATION & 03_OPERATIONAL │
-│    Penerapan teknis pada konteks     (SOP Asrama, Jadwal 24 Jam, BARS, │
-│    lapangan & aturan lokal.          Formulir Logbook Musyrif)         │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Tingkat Abstraksi MDA (*Model-Driven Architecture*) | Padanan Arsitektur TUMBUH v2.0.0 | Definisi, Fungsi, & Peran Transformasi Sistem |
+|---|---|---|
+| **1. CIM (*Computation Independent Model*)** | `01_FOUNDATION` (Worldview, Epistemologi, Hakikat Jiwa, Nilai) | Model konseptual murni teologis-filosofis tanpa ikatan platform teknis atau aturan lokal. |
+| **Logika Transisi Arsitektural** | **Transisi Pemodelan Inti (*Core Model Instantiation*)** | Menjembatani aksioma filosofis ke dalam representasi fungsional invarian yang hidup. |
+| **2. PIM (*Platform Independent Model*)** | `03_CORE_MODEL` (Profil Lulusan, Ekologi, Mekanisme, 8 Kapasitas) | Model operasional terpadu yang mengatur fungsi, relasi ekologis, dan interaksi jiwa santri. |
+| **Translasi Spesifik Konteks** | **Translasi Institusional Lapangan** | Menurunkan model inti ke dalam aturan pelaksanaan dan instrumen operasional lapangan. |
+| **3. PSM (*Platform Specific Model*)** | `02_IMPLEMENTATION` & `03_OPERATIONAL` (SOP Asrama, Jadwal 24 Jam, BARS, Logbook) | Penerapan teknis pada konteks riil kelembagaan dan kekhasan kultur lokal pesantren mitra. |
 
 Konsep MDA membuktikan secara matematis dan struktural bahwa melompat langsung dari CIM (Fondasi Filosofis) ke PSM (SOP Teknis) tanpa melalui PIM (Model Inti) akan menciptakan kegagalan kompilasi sistem (*system architectural breakdown*). Tanpa PIM, setiap kali ada perubahan situasi lapangan (misal pergantian kurikulum dinas atau profil santri baru), seluruh aturan teknis harus ditulis ulang dari nol karena tidak ada model konseptual stabil yang menjadi jangkar perantara.
 
@@ -152,28 +138,11 @@ Riset neurosains kognitif terkini oleh Sarah-Jayne Blakemore dan Kathryn Mills m
 ### 6.1. Titik Benturan: Ketakutan Desakralisasi vs Bahaya Ambiguitas
 Dalam penyusunan arsitektur repositori, terjadi ketegangan dialektis yang tajam antara dua kubu pemikiran di kalangan dewan pakar:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│                   DIALEKTIKA KONFRONTATIF TRANSISI ARSITEKTUR          │
-├────────────────────────────────────────────────────────────────────────┤
-│ KUBU PURIFIKASI TRADISIONAL             KUBU SISTEM TEKNOKRATIS        │
-│ "Memodelkan adab ke dalam 8 kapasitas   "Filosofi hanya buang waktu;   │
-│ dan matriks indikator adalah bentuk     santri butuh KPI terukur,      │
-│ desakralisasi nilai tasawuf, mereduksi  sanksi tegas, dan SOP kerja    │
-│ keikhlasan menjadi metrik mekanis,      yang presisi agar pesantren    │
-│ dan meniru psikologi sekular barat."    berjalan efisien bagai pabrik."│
-└───────────────────────────────────┬────────────────────────────────────┘
-                                    │
-                                    ▼ REKONSILIASI KANONIK (TUMBUH)
-┌────────────────────────────────────────────────────────────────────────┐
-│                    AL-JAM'U WAT-TAUFIQ (SINTESIS ADABI)                │
-│ Model Inti TUMBUH bukan sekularisasi adab, melainkan wujud Tasyri'ul   │
-│ Wasail (penataan sarana) guna menjaga Tsawabit (prinsip abadi wahyu).  │
-│ 8 Kapasitas Inti bukan tujuan akhir (Ghayah), melainkan tanda fungsional│
-│ (Alamat Zahirah) yang membantu musyrif memantau kematangan fitrah santri│
-│ tanpa pernah mengklaim mampu mengukur derajat keikhlasan kalbu.        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Entitas / Kubu Dialektika | Premis Utama & Argumen Filosofis | Kritik Arsitektural & Resiko Disfungsi Lapangan |
+|---|---|---|
+| **Kubu Purifikasi Tradisional** | Memodelkan adab ke dalam 8 kapasitas dan matriks indikator dianggap bentuk desakralisasi nilai tasawuf, mereduksi keikhlasan menjadi metrik mekanis, dan meniru psikologi sekular barat. | Mengakibatkan stagnasi menara gading; nilai luhur tidak memiliki instrumen operasional sehingga pendidik di lapangan kembali ke pola kekerasan fisik dan intuisi liar. |
+| **Kubu Sistem Teknokratis** | Menganggap filosofi hanya membuang waktu; santri butuh KPI terukur, sanksi tegas, poin penalti, dan SOP kerja yang presisi agar pesantren berjalan efisien bagai pabrik industri. | Memicu pembusukan karakter laten (*rebound behavior*); kepatuhan santri bersifat semu (*compliance without conscience*) dan merusak fitrah kemanusiaan. |
+| **Rekonsiliasi Kanonik TUMBUH (*Al-Jam'u wat-Taufiq*)** | Model Inti TUMBUH bukan sekularisasi adab, melainkan wujud *Tasyri'ul Wasail* (penataan sarana) guna menjaga *Tsawabit* (prinsip abadi wahyu). 8 Kapasitas Inti bukan tujuan akhir (*Ghayah*), melainkan tanda fungsional zahir (*'Alamat Zhahirah*) yang membantu musyrif memantau kematangan fitrah santri tanpa pernah mengklaim mampu mengukur derajat keikhlasan kalbu. | Menjembatani kesucian wahyu dengan ketertiban ikhtiar operasional 24 jam secara terukur, saintifik, dan berkeadilan. |
 
 ### 6.2. Resolusi Epistemik: Distingsi Antara Hakikat Batin dan Indikator Zahir
 Ulama tasawuf dan fuqaha sepakat bahwa keikhlasan dan ketakwaan berakar di dalam qalb (*at-taqwa hahuna*). Manusia tidak memiliki wewenang untuk membedah dada seseorang. Namun, syariat Islam ditegakkan di atas hukum zahir (*nahnu nahkumu biz-zhawahir wallahu yatawalla as-sara'ir*):
@@ -248,35 +217,13 @@ Tabel berikut menunjukkan bagaimana 9 Domain Fondasi mengalirkan substansi ilmia
 
 Untuk memastikan transisi dari Lapisan Fondasi menuju Model Inti berlangsung mulus tanpa distorsi makna, tim pengembang repositori TUMBUH v2.0.0 wajib menegakkan protokol lima langkah berikut:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│               PROTOKOL 5 LANGKAH TRANSISI FONDASI KE MODEL INTI       │
-├────────────────────────────────────────────────────────────────────────┤
-│ 1. EKSTRAKSI MANDAT AKSIOMATIK (DARI DOMAIN 01 s/d DOMAIN 09)          │
-│    └── Membaca seluruh 9 domain fondasi untuk menetapkan parameter     │
-│        invarian yang tidak boleh dilanggar oleh model apa pun.         │
-│                 │                                                      │
-│                 ▼                                                      │
-│ 2. PERUMUSAN BINTANG PENUNTUN (01_GRADUATE_PROFILE)                    │
-│    └── Menurunkan visi insan kamil menjadi 10 Muwashofat Santri        │
-│        sebagai kriteria keberhasilan akhir seluruh subsistem.          │
-│                 │                                                      │
-│                 ▼                                                      │
-│ 3. REKAYASA WADAH EKOLOGIS 24 JAM (02_GROWTH_ECOLOGY)                  │
-│    └── Menata interaksi spasial, sirkadian, sosial, dan triad asrama   │
-│        guna menjamin terpenuhinya rasa aman fisik dan psikologis.      │
-│                 │                                                      │
-│                 ▼                                                      │
-│ 4. PEMODELAN MESIN PSIKOSPIRITUAL (03_GROWTH_MECHANISM)                │
-│    └── Merumuskan 5 stasiun siklus belajar batin: Pengalaman Nyata ──► │
-│        Keterlibatan Sadar ──► Riyadhoh ──► Muhasabah ──► Watak Membatin│
-│                 │                                                      │
-│                 ▼                                                      │
-│ 5. KODIFIKASI ARSITEKTUR 8 KAPASITAS (04_CORE_CAPACITY_ARCHITECTURE)   │
-│    └── Memetakan kompetensi adab fungsional (CC-01 s/d CC-08) lengkap  │
-│        dengan deskriptor perilaku per jenjang kemandirian (J1–J4).     │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Urutan Langkah | Nama Tahapan Protokol | Tindakan Arsitektural Pengembang & Output Sistem |
+|:---:|---|---|
+| **Langkah 1** | **Ekstraksi Mandat Aksiomatik** | Membaca seluruh 9 domain fondasi (`01_FOUNDATION`) untuk menetapkan parameter invarian yang tidak boleh dilanggar oleh model apa pun. |
+| **Langkah 2** | **Perumusan Bintang Penuntun** | Menurunkan visi insan kamil menjadi 10 Muwashofat Santri (`01_GRADUATE_PROFILE`) sebagai kriteria keberhasilan akhir seluruh subsistem. |
+| **Langkah 3** | **Rekayasa Wadah Ekologis 24 Jam** | Menata interaksi spasial, sirkadian, sosial, dan triad asrama (`02_GROWTH_ECOLOGY`) guna menjamin terpenuhinya rasa aman fisik dan psikologis. |
+| **Langkah 4** | **Pemodelan Mesin Psikospiritual** | Merumuskan 5 stasiun siklus belajar batin (`03_GROWTH_MECHANISM`): Pengalaman Nyata ➔ Keterlibatan Sadar ➔ Riyadhah ➔ Muhasabah ➔ Watak Membatin. |
+| **Langkah 5** | **Kodifikasi Arsitektur 8 Kapasitas** | Memetakan kompetensi adab fungsional (`04_CORE_CAPACITY_ARCHITECTURE`, CC-01 s/d CC-08) lengkap dengan deskriptor perilaku per jenjang kemandirian (J1–J4). |
 
 Setiap langkah dalam protokol di atas harus diverifikasi silang dengan tiga folder penjaga mutu:
 - **`05_SYSTEM_LOGIC`**: Memastikan alur antar-pilar tidak mengandung kontradiksi sebab-akibat.
@@ -297,23 +244,22 @@ Sebelum sebuah modul atau spesifikasi diizinkan dipromosikan dari tahap perancan
 
 ## 10. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
 
-### 10.1. ADR-TUMBUH-0033: Deklarasi Keharusan Arsitektural Pemodelan Inti (Core Model)
+### 10.1. ADR-PROBE-0033: Deklarasi Keharusan Arsitektural Pemodelan Inti (Core Model)
 
-- **ID Keputusan**: `ADR-PROBE-0033`
-- **Tanggal Efektif**: 2026-10-25
-- **Status**: `APPROVED & IMMUTABLE BASELINE`
-- **Konteks**:
-  Pasca penuntasan sembilan domain fondasi filosofis (`01_FOUNDATION`), timbul kebutuhan mendesak untuk menetapkan bagaimana nilai-nilai luhur tersebut dioperasionalkan. Terdapat kecenderungan historis di mana perancang kurikulum langsung menulis tata tertib operasional lapangan (SOP), yang berakibat pada lahirnya aturan-aturan represif yang menciderai fitrah santri.
-- **Keputusan Arsitektural**:
-  1. Menetapkan secara kanonik bahwa sub-direktori `01_FUNDAMENTAL/03_CORE_MODEL/` adalah **satu-satunya gerbang resmi penerjemah fondasi filosofis** menuju ranah implementasi dan operasional.
-  2. Mengharamkan pembuatan dokumen SOP lapangan (`03_OPERATIONAL`), instrumen asesmen (`05_ASSESSMENT`), atau modul intervensi (`06_INTERVENTION`) yang melompati atau tidak memiliki keterlacakan (*traceability link*) ke dalam 7 Pilar *Core Model*.
-  3. Membekukan struktur *Core Model* ke dalam empat pilar substantif pembinaan (`01_GRADUATE_PROFILE`, `02_GROWTH_ECOLOGY`, `03_GROWTH_MECHANISM`, `04_CORE_CAPACITY_ARCHITECTURE`) dan tiga pilar tata kelola penjaga mutu (`05_SYSTEM_LOGIC`, `06_CONSTRUCT_REGISTRY`, `07_CLAIM_REGISTRY`).
-- **Dasar Pertimbangan Epistemik**:
-  - Kaidah ushul *ma la yatimm al-wajib illa bihi fa huwa wajib*: perlindungan fitrah santri mustahil terwujud tanpa wadah ekologis dan mekanisme latihan yang terpetakan.
-  - Teori rekayasa *Model-Driven Architecture*: integritas sistem menuntut kehadiran model independen platform (PIM) sebelum dirilis ke lingkungan implementasi lokal (PSM).
-- **Konsekuensi Sistem**:
-  - Seluruh inkuiri berikutnya dalam Pilar 3 (`P00034` s/d `P00039`) didedikasikan secara ketat untuk membedah rasionalitas internal masing-masing komponen *Core Model*.
-  - Setiap pesantren mitra wajib mengadopsi kerangka kerja *Core Model* ini sebagai standar baku sebelum menyusun aturan internal asrama.
+| Parameter Metadata ADR | Ketetapan Formal Sistem |
+|---|---|
+| **ID Keputusan** | `ADR-PROBE-0033` |
+| **Status Konstitusional** | `APPROVED & IMMUTABLE BASELINE` |
+| **Tanggal Efektif** | 2026-10-25 |
+| **Domain Terdampak** | `01_FUNDAMENTAL/01_FOUNDATION/` menuju `01_FUNDAMENTAL/03_CORE_MODEL/` |
+| **Otoritas Pengesahan** | Majelis Perancang Sistem & Konsil Epistemik TUMBUH v2.0.0 |
+
+| Dimensi Arsitektural | Deskripsi Rincian Ketetapan Sistem |
+|---|---|
+| **Konteks Masalah** | Pasca penuntasan sembilan domain fondasi filosofis (`01_FOUNDATION`), timbul kebutuhan mendesak untuk menetapkan bagaimana nilai-nilai luhur tersebut dioperasionalkan. Terdapat kecenderungan historis di mana perancang kurikulum langsung menulis tata tertib operasional lapangan (SOP), yang berakibat pada lahirnya aturan-aturan represif yang menciderai fitrah santri. |
+| **Keputusan Utama** | 1. Menetapkan secara kanonik bahwa sub-direktori `01_FUNDAMENTAL/03_CORE_MODEL/` adalah **satu-satunya gerbang resmi penerjemah fondasi filosofis** menuju ranah implementasi dan operasional.<br>2. Mengharamkan pembuatan dokumen SOP lapangan (`03_OPERATIONAL`), instrumen asesmen (`05_ASSESSMENT`), atau modul intervensi (`06_INTERVENTION`) yang melompati atau tidak memiliki keterlacakan (*traceability link*) ke dalam 7 Pilar *Core Model*.<br>3. Membekukan struktur *Core Model* ke dalam empat pilar substantif pembinaan (`01_GRADUATE_PROFILE`, `02_GROWTH_ECOLOGY`, `03_GROWTH_MECHANISM`, `04_CORE_CAPACITY_ARCHITECTURE`) dan tiga pilar tata kelola penjaga mutu (`05_SYSTEM_LOGIC`, `06_CONSTRUCT_REGISTRY`, `07_CLAIM_REGISTRY`). |
+| **Dasar Pertimbangan Epistemik** | - Kaidah ushul *ma la yatimm al-wajib illa bihi fa huwa wajib*: perlindungan fitrah santri mustahil terwujud tanpa wadah ekologis dan mekanisme latihan yang terpetakan.<br>- Teori rekayasa *Model-Driven Architecture*: integritas sistem menuntut kehadiran model independen platform (PIM) sebelum dirilis ke lingkungan implementasi lokal (PSM). |
+| **Konsekuensi Sistem** | - Seluruh inkuiri berikutnya dalam Pilar 3 (`P00034` s/d `P00039`) didedikasikan secara ketat untuk membedah rasionalitas internal masing-masing komponen *Core Model*.<br>- Setiap pesantren mitra wajib mengadopsi kerangka kerja *Core Model* ini sebagai standar baku sebelum menyusun aturan internal asrama. |
 
 ---
 

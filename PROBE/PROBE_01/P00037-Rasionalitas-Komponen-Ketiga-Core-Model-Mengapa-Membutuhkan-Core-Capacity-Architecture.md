@@ -1,26 +1,32 @@
 # P00037: Rasionalitas Komponen Ketiga Core Model: Mengapa Membutuhkan Core Capacity Architecture?
 
-- **ID Berkas**: `PROBE/PROBE_01/P00037`
-- **Pilar**: Pilar 3 — Logika Penataan Arsitektur Konseptual TUMBUH
-- **Sub-Klaster**: Komponen Substantif Core Model 03 (*Core Capacity Architecture & Behavioral Descriptors*)
-- **Pertanyaan Panduan (TUMBUH Question)**:
-  > *Mengapa kompetensi karakter dan adab santri wajib dipetakan ke dalam arsitektur kapasitas inti (Core Capacity Architecture) yang terukur tingkat kematangannya, dan apa bahaya fatal jika adab santri hanya dinilai berdasarkan label moralitas abstrak tanpa indikator perilaku yang teramati?*
-- **Status Inkuiri**: Tuntas & Terkunci (Bagian dari 120 Berkas Rekonstruksi Kanonik PROBE 01)
-- **Target Subsistem**: `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/`
+## 1. Metadata & Identitas Dokumen Inkuiri
+
+| Parameter Dokumen | Ketetapan Metadata Inkuiri Kanonik |
+|---|---|
+| **ID Berkas** | `PROBE/PROBE_01/P00037` |
+| **Pilar Repositori** | Pilar 3 — Logika Penataan Arsitektur Konseptual TUMBUH |
+| **Sub-Klaster** | Komponen Substantif Core Model 03 (*Core Capacity Architecture & Behavioral Descriptors*) |
+| **TUMBUH Question** | *Mengapa kompetensi karakter dan adab santri wajib dipetakan ke dalam arsitektur kapasitas inti (Core Capacity Architecture) yang terukur tingkat kematangannya, dan apa bahaya fatal jika adab santri hanya dinilai berdasarkan label moralitas abstrak tanpa indikator perilaku yang teramati?* |
+| **Status Inkuiri** | Tuntas & Terkunci (Bagian dari 120 Berkas Rekonstruksi Kanonik PROBE 01) |
+| **Target Subsistem** | `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/` |
+| **Status ADR** | `APPROVED & IMMUTABLE BASELINE (ADR-PROBE-0037)` |
+| **Versi Dokumen** | `2.0.0` |
+| **Klasifikasi Epistemik** | *Competency Taxonomies, Psychometric BARS Calibration, & Behavioral Progression* |
 
 ---
 
-## 1. Abstrak & Epistemic Tension
+## 2. Abstrak & Epistemic Tension
 
-### 1.1. Abstrak
+### 2.1. Abstrak
 Penyelidikan kanonik ini membongkar urgensi epistemologis, pedagogis, dan psikometri di balik peletakan **Core Capacity Architecture (Arsitektur Kapasitas Inti)** sebagai pilar substantif ketiga di dalam Model Inti (`03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE`) repositori TUMBUH v2.0.0. Pendidikan kepesantrenan selama berabad-abad kerap terjebak dalam perangkap subjektivitas evaluasi (*subjectivity trap & halo effect*): menilai keluhuran akhlak santri semata-mata dengan label moralitas abstrak yang kabur, seperti "santri shalih", "anak nakal", atau "kurang tawadhu'", tanpa pernah merumuskan indikator operasional perilaku apa yang sesungguhnya teramati. Melalui sintesis taksonomi keutamaan jiwa dalam khazanah turats Islam (analisis *Ummahat al-Fadhail* Ibnu Miskawaih, Abu Nashr Al-Farabi, Al-Mawardi, dan Imam Al-Ghazali) serta kaidah ushul fiqih *Al-Amarat azh-Zhahirah*, dipadukan dengan metodologi psikometri modern *Behaviorally Anchored Rating Scales* (BARS Smith & Kendall) dan model penguasaan kecakapan Dreyfus, monograf ini membedah rancang bangun **Delapan Kapasitas Inti Santri (CC-01 s/d CC-08)** yang dipetakan secara terukur ke dalam **Empat Jenjang Kemandirian (J1 s/d J4)**. Arsitektur ini mentransformasikan asesmen adab dari vonis penghakiman subjektif musyrif menjadi peta navigasi pertumbuhan yang objektif, adil, transparan, dan dapat ditindaklanjuti. Ketetapan ini dibakukan melalui *Architectural Decision Record* (ADR-PROBE-0037), matriks deskriptor multidimensi, protokol kalibrasi asesmen musyrif, dan tujuh batas negatif mutlak (*guardrails*).
 
-### 1.2. Epistemic Tension
+### 2.2. Epistemic Tension
 Ketegangan mendasar yang diselesaikan berkas ini adalah: *Apakah adab dan akhlak Islamiah dapat diukur indikator perilakunya tanpa mereduksi kesucian ruhani ikhlas dan takwa di hadapan Allah?* Jika menolak segala bentuk pengukuran objektif dengan dalih bahwa akhlak adalah urusan batin dan keikhlasan mutlak, maka pesantren jatuh ke dalam anarki evaluasi: musyrif menilai santri berdasarkan perasaan suka/tidak suka (*like and dislike*), santri yang pandai menjilat atau berpura-pura pasif diberi predikat mulia, sedangkan santri kritis dan berprinsip dicap pembangkang. Sebaliknya, jika diukur secara reduksionis-kuantitatif sekular, adab terdegradasi menjadi sekadar kumpulan skor angka mekanistik tanpa nyawa spiritual. Resolusi kanonik TUMBUH membedah distingsi tegas: yang dinilai oleh institusi pendidikan bukanlah rahasia keikhlasan kalbu di hadapan Allah (*la ya'lamu ma fi al-qulub illallah*), melainkan **kematangan kapasitas fungsional zahir (*Al-Alamat azh-Zhahirah*)** yang memancar dalam interaksi sosial nyata di asrama 24 jam sebagai bukti pertanggungjawaban amanah syariat.
 
 ---
 
-## 2. Pendahuluan Fenomenologis: Tragedi Label Moral Abstrak di Pesantren
+## 3. Pendahuluan Fenomenologis: Tragedi Label Moral Abstrak di Pesantren
 
 ### 2.1. Tirani Subjektivitas "Suka dan Tidak Suka" (*The Halo Effect Tyranny*)
 Dalam tradisi evaluasi kepesantrenan konvensional, penilaian akhlak santri pada lembar buku rapor kerap kali dimampatkan ke dalam satu baris kolom tunggal: mata pelajaran "Akhlak / Kepribadian" dengan nilai huruf "A", "B", atau "C".
@@ -41,11 +47,11 @@ Tanpa adanya *Core Capacity Architecture* yang memetakan "akhlak" ke dalam domai
 
 ---
 
-## 3. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
+## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
 
 Khazanah pemikiran Islam klasik tidak pernah memandang akhlak sebagai gumpalan abstrak yang tidak terdefinisi. Para ulama terkemuka telah menyusun taksonomi keutamaan jiwa yang sangat sistematis dan bertingkat.
 
-### 3.1. Taksonomi Ummahat al-Fadhail Ibnu Miskawaih
+### 4.1. Taksonomi Ummahat al-Fadhail Ibnu Miskawaih
 Filsuf dan pakar etika Islam kenamaan, Ibnu Miskawaih (w. 421 H) dalam kitab monumentalnya *Tahdzib al-Akhlaq wa Tath-hir al-A'raq* membedah bahwa seluruh kemuliaan budi pekerti manusia bersumber dari empat induk kapasitas jiwa (*Ummahat al-Fadhail*):
 
 ```arabic
@@ -56,7 +62,7 @@ Filsuf dan pakar etika Islam kenamaan, Ibnu Miskawaih (w. 421 H) dalam kitab mon
 
 Ibnu Miskawaih membuktikan bahwa adab bukanlah hal yang serba samar, melainkan konfigurasi fungsional dari daya-daya jiwa manusia yang terwujud dalam spektrum tindakan konkret.
 
-### 3.2. Kaidah Ushul Fiqih: Al-Amarat azh-Zhahirah Penuntun Penegakan Hukum
+### 4.2. Kaidah Ushul Fiqih: Al-Amarat azh-Zhahirah Penuntun Penegakan Hukum
 Dalam kaidah syariat dan ushul fiqih yang dirumuskan oleh Syaikhul Islam Ibnu Taimiyyah (w. 728 H) dalam *Al-Qawa'id an-Nuraniyyah*:
 
 ```arabic
@@ -67,14 +73,14 @@ Dalam kaidah syariat dan ushul fiqih yang dirumuskan oleh Syaikhul Islam Ibnu Ta
 
 Kaidah epistemik ini membungkam keraguan pihak-pihak yang menolak rubrik penilaian karakter: institusi pesantren tidak pernah menghakimi isi dada santri di hadapan Allah, melainkan menilai *al-amarat azh-zhahirah* (indikator-indikator perilaku zahir) yang mencerminkan kesiapan santri memikul amanah adab dalam kehidupan bermasyarakat.
 
-### 3.3. Konsep Al-Farabi & Al-Mawardi tentang Tingkatan Kecakapan
+### 4.3. Konsep Al-Farabi & Al-Mawardi tentang Tingkatan Kecakapan
 Abu Nashr Al-Farabi (w. 339 H) dalam *Fushul al-Madani* dan Al-Mawardi (w. 450 H) dalam *Adab ad-Dunya wa ad-Din* merumuskan bahwa kecakapan adab seseorang bertumbuh melalui tahapan: bermula dari kepatuhan terhadap teladan luar (*al-iqtida'*), menuju penalaran hikmah (*al-fahm*), hingga mencapai kedewasaan kepemimpinan yang mampu menuntun orang lain (*al-imamah wa ar-ri'ayah*).[^3] Ini adalah dasar turats bagi perumusan Jenjang Kemandirian J1 hingga J4 di TUMBUH.
 
 ---
 
-## 4. Tinjauan Pustaka II: Metodologi Psikometri BARS & Model Tahapan Dreyfus
+## 5. Tinjauan Pustaka II: Metodologi Psikometri BARS & Model Tahapan Dreyfus
 
-### 4.1. Behaviorally Anchored Rating Scales (BARS)
+### 5.1. Behaviorally Anchored Rating Scales (BARS)
 Dalam ilmu psikometri terapan dan psikologi industri-organisasi, Patricia Cain Smith dan L. M. Kendall (1963) mengembangkan *Behaviorally Anchored Rating Scales* (BARS) guna mengatasi kelemahan fatal skala grafik tradisional (skala Likert 1–5 yang sangat subjektif):[^4]
 - BARS mengaitkan setiap tingkat angka atau jenjang evaluasi dengan **perilaku konkret yang spesifik dan teramati di lapangan (*critical incidents*)**.
 - Dengan sistem BARS, evaluator tidak lagi diminta menebak: *"Apakah santri ini berakhlak baik? (Pilih: 1–5)"*, melainkan mencocokkan tindakan riil santri dengan deskriptor baku:
@@ -83,7 +89,7 @@ Dalam ilmu psikometri terapan dan psikologi industri-organisasi, Patricia Cain S
   - *Jangkar Tinggi*: Santri secara mandiri membersihkan sampah tanpa disuruh dan mengajak teman sekamarnya menjaga kebersihan.
 - Penelitian empiris membuktikan bahwa penggunaan BARS mampu mereduksi bias penilaian antar-penilai (*inter-rater reliability variance*) hingga lebih dari 80%, serta memberikan kepastian hukum pedagogis bagi santri.
 
-### 4.2. Model Perkembangan Akuisisi Kemahiran Dreyfus (*Dreyfus Skill Model*)
+### 5.2. Model Perkembangan Akuisisi Kemahiran Dreyfus (*Dreyfus Skill Model*)
 Stuart E. Dreyfus dan Hubert L. Dreyfus (1980) membuktikan bahwa penguasaan kompetensi manusia tidak bersifat biner (bisa/tidak bisa), melainkan mengalami evolusi melalui lima tahapan kemahiran:[^5]
 1. **Novice (Pemula)**: Bergantung penuh pada aturan baku tertulis; belum memiliki pemahaman konteks.
 2. **Advanced Beginner (Pemula Lanjutan)**: Mulai mengenali pola-pola situasional, namun masih membutuhkan pengawasan berkala.
@@ -99,42 +105,16 @@ Model Dreyfus ini diadopsi secara sempurna oleh TUMBUH ke dalam **Empat Jenjang 
 
 ---
 
-## 5. Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)
 
-### 5.1. Panggung Dialektika: Pertentangan Reduksionisme Angka vs Mistisisme Subjektif
+### 6.1. Panggung Dialektika: Pertentangan Reduksionisme Angka vs Mistisisme Subjektif
 Dalam perumusan taksonomi kapasitas santri, terjadi perdebatan konseptual yang sangat tajam antara dua kubu ekstrem:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             DIALEKTIKA STATUS PENGUKURAN ADAB & AKHLAK SANTRI          │
-├────────────────────────────────────────────────────────────────────────┤
-│ KUBU MISTISISME SUBJEKTIF (Romantic Moralism)                          │
-│ "Akhlak adalah rahasia batin kalbu yang suci. Menilai akhlak dengan    │
-│ indikator rubrik atau tabel kapasitas adalah bentuk desakralisasi dan   │
-│ penodaan terhadap keikhlasan. Penilaian santri cukup diserahkan pada   │
-│ firasat dan kasysyaf kyai/musyrif."                                    │
-│                                                                        │
-│ KUBU REDUKSIONISME KUANTITATIF (Secular Positivism)                    │
-│ "Segala sesuatu yang tidak bisa diubah menjadi angka skor matematis    │
-│ adalah omong kosong. Akhlak harus diuji dengan kuesioner pilihan ganda │
-│ dan tes psikometri tertulis, lalu diberi skor angka 0 hingga 100."     │
-└───────────────────────────────────┬────────────────────────────────────┘
-                                    │
-                                    ▼ REKONSILIASI KANONIK (TUMBUH)
-┌────────────────────────────────────────────────────────────────────────┐
-│      AL-JAM'U WAT-TAUFIQ: TAKSONOMI KAPASITAS BERBASIS DESKRIPTOR      │
-│ TUMBUH menolak tirani subjektivitas firasat yang rentan nepotisme,     │
-│ sekaligus menolak mekanisasi angka kuesioner yang dangkal.             │
-│ Core Capacity Architecture TUMBUH adalah:                              │
-│ PENILAIAN AUTENTIK PERILAKU ZAHIR BERLANDASKAN AMANAH SYARIAT         │
-│ - Menilai kapasitas teramati melalui tindakan riil santri dalam        │
-│   ekosistem 24 jam dengan menggunakan deskriptor BARS (J1–J4).         │
-│ - Menjaga kesucian niat batin santri dengan melarang klaim pengukuran   │
-│   derajat ikhlas atau takwa di hadapan Allah.                          │
-│ - Menjadikan rubrik kapasitas bukan sebagai alat menghukum (*grading*), │
-│   melainkan sebagai instrumen navigasi pembinaan (*growth scaffolding*).│
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Kubu Pemikiran / Paradigma | Postulat & Asumsi Pengukuran | Kritik & Bahaya Disfungsi Sistemik |
+|---|---|---|
+| **Kubu Mistisisme Subjektif (*Romantic Moralism*)** | Menganggap akhlak adalah rahasia batin kalbu yang suci; menilai akhlak dengan indikator rubrik atau tabel kapasitas dianggap desakralisasi dan merusak keikhlasan. Penilaian cukup diserahkan pada firasat atau intuisi subjektif musyrif/kyai. | Menjerumuskan pesantren ke dalam tirani subjektivitas, nepotisme evaluasi (*halo effect*), dan ketiadaan panduan perbaikan yang jelas bagi santri. |
+| **Kubu Reduksionisme Kuantitatif (*Secular Positivism*)** | Menuntut segala hal diubah menjadi angka matematis (skor 0–100) melalui kuesioner pilihan ganda atau tes tertulis psikometri mekanistik. | Menghilangkan kedalaman ruhani; santri belajar merekayasa jawaban kuesioner (*faking good*) tanpa internalisasi adab nyata di kehidupan asrama. |
+| **Rekonsiliasi Kanonik TUMBUH (*Al-Jam'u wat-Taufiq*)** | Penilaian autentik berbasis **Kapasitas Fungsional Zahir (*Al-Amarat azh-Zhahirah*)**: menilai tindakan riil teramati dalam ekosistem asrama 24 jam dengan deskriptor BARS (J1–J4), tanpa pernah mengklaim mampu mengukur rahasia derajat keikhlasan kalbu di hadapan Allah. | Menyediakan navigasi pembinaan yang adil, transparan, objektif, dan memandu perkembangan kemandirian adab santri secara bertahap. |
 
 ### 5.2. Resolusi Epistemik: Dari Penghakiman Status Menuju Peta Perjalanan Jiwa
 Di bawah payung *Al-Jam'u wat-Taufiq*, nilai karakter santri tidak lagi berfungsi sebagai vonis mutlak (seperti label "Santri C = Nakal"), melainkan berfungsi sebagai **titik koordinat diagnostik**. 
@@ -143,9 +123,9 @@ Jika santri berada pada jenjang J1 dalam kapasitas Regulasi Diri (CC-01), musyri
 
 ---
 
-## 6. Pembahasan Analitis & Bedah Kasus Tata Kelola Asrama
+## 7. Pembahasan Analitis & Bedah Kasus Tata Kelola Asrama
 
-### 6.1. Studi Kasus: Evaluasi Kasus Santri Vokal di Asrama Al-Farabi
+### 7.1. Studi Kasus: Evaluasi Kasus Santri Vokal di Asrama Al-Farabi
 Mari kita bedah studi kasus nyata di Pesantren Al-Farabi untuk menguji bagaimana *Core Capacity Architecture* mengubah ketidakadilan evaluasi menjadi bimbingan yang presisi:
 
 #### 1. Profil Santri dan Konflik Penilaian
@@ -156,32 +136,12 @@ Mari kita bedah studi kasus nyata di Pesantren Al-Farabi untuk menguji bagaimana
 #### 2. Bedah Kasus Berbasis Core Capacity Architecture (CC-01 s/d CC-08)
 Tim Penjamin Mutu TUMBUH melakukan audit kasus menggunakan instrumen BARS 8 Kapasitas Inti:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│               AUDIT KAPASITAS MULTIDIMENSI PADA KASUS RAIHAN           │
-├────────────────────────────────────────────────────────────────────────┤
-│ 1. CC-07: INTEGRITAS AMANAH & KEJUJURAN                                │
-│    └── Skor Raihan: JENJANG J3 (Tinggi).                               │
-│        Raihan tidak menyebar fitnah di belakang; ia berbicara jujur    │
-│        membela hak biologis kawan-kawannya yang terzalimi.             │
-│                                                                        │
-│ 2. CC-05: UKHUWAH & EMPATI SOSIAL                                      │
-│    └── Skor Raihan: JENJANG J4 (Keteladanan/Kepemimpinan).             │
-│        Raihan menunjukkan kepedulian tinggi terhadap santri junior yang│
-│        tidak bisa mandi, bukan mementingkan dirinya sendiri.           │
-│                                                                        │
-│ 3. CC-03: KOMUNIKASI BERADAB (ASERTIVITAS & ADAB LISAN)                │
-│    └── Skor Raihan: JENJANG J1 (Perlu Pendampingan).                   │
-│        Raihan berbicara dengan nada suara tinggi di forum terbuka dan  │
-│        belum menguasai adab bertutur kata yang lemah lembut            │
-│        (*Qaulan Layyina*) saat menasihati pemegang otoritas.           │
-│                                                                        │
-│ 4. CC-01: REGULASI DIRI & EMOSI                                        │
-│    └── Skor Raihan: JENJANG J2 (Berkembang).                           │
-│        Raihan masih mudah terbawa emosi amarah ketika melihat          │
-│        ketidakadilan fasilitas.                                        │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Dimensi Kapasitas Inti | Capaian Jenjang Raihan | Deskriptor & Fakta Perilaku Teramati |
+|---|---|---|
+| **CC-07: Integritas Amanah & Kejujuran** | **Jenjang J3 (Tinggi)** | Raihan tidak menyebar fitnah di belakang; ia berbicara jujur membela hak biologis kawan-kawannya yang terzalimi. |
+| **CC-05: Ukhuwah & Empati Sosial** | **Jenjang J4 (Keteladanan/Kepemimpinan)** | Raihan menunjukkan kepedulian tinggi terhadap santri junior yang tidak bisa mandi, bukan mementingkan dirinya sendiri. |
+| **CC-03: Komunikasi Beradab** | **Jenjang J1 (Perlu Pendampingan)** | Raihan berbicara dengan nada suara tinggi di forum terbuka dan belum menguasai adab bertutur kata yang lemah lembut (*Qaulan Layyina*) saat menasihati pemegang otoritas. |
+| **CC-01: Regulasi Diri & Emosi** | **Jenjang J2 (Berkembang)** | Raihan masih mudah terbawa emosi amarah ketika melihat ketidakadilan fasilitas. |
 
 #### 3. Intervensi Terarah Berbasis Diagnosis Kapasitas
 Alih-alih diskors atau dilabeli "anak nakal":
@@ -193,7 +153,7 @@ Inilah kedahsyatan *Core Capacity Architecture*: ia menyelamatkan bibit pemimpin
 
 ---
 
-## 7. Matriks Komparatif: Taksonomi Delapan Kapasitas Inti (CC-01 – CC-08) Melintasi Jenjang Kemandirian (J1 – J4)
+## 8. Matriks Komparatif: Taksonomi Delapan Kapasitas Inti (CC-01 – CC-08) Melintasi Jenjang Kemandirian (J1 – J4)
 
 Tabel multidimensi berikut merinci arsitektur 8 kapasitas inti santri beserta deskriptor perilaku BARS pada setiap jenjang kemandirian:
 
@@ -210,82 +170,48 @@ Tabel multidimensi berikut merinci arsitektur 8 kapasitas inti santri beserta de
 
 ---
 
-## 8. Protokol Tindakan Edukatif: Standardisasi Asesmen BARS oleh Musyrif
+## 9. Protokol Tindakan Edukatif: Standardisasi Asesmen BARS oleh Musyrif
 
 Guna memastikan setiap musyrif asrama menerapkan instrumen evaluasi ini secara adil dan seragam, ditetapkan **Protokol Kalibrasi Asesmen Kapasitas Santri**:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             PROTOKOL OPERASIONAL EVALUASI KAPASITAS ADAB               │
-├────────────────────────────────────────────────────────────────────────┤
-│ TAHAP 1: PENGAMATAN OTENTIK BERKELANJUTAN (LOGBOOK HARIAN)             │
-│ - Musyrif dilarang menilai santri berdasarkan ingatan mendadak di akhir│
-│   semester (*recency bias*).                                           │
-│ - Setiap musyrif memegang Logbook Catatan Peristiwa Kritis (Critical   │
-│   Incidents Log): mencatat tindakan konkret luar biasa santri          │
-│   (kemajuan pesat atau insiden pelanggaran spesifik).                  │
-│                 │                                                      │
-│                 ▼                                                      │
-│ TAHAP 2: KALIBRASI LINTAS EVALUATOR (INTER-RATER MODERATION)           │
-│ - Sekali sebulan, musyrif kamar, guru kelas madrasah, dan pembina      │
-│   tahfizh duduk bersama dalam Rapat Moderasi Karakter.                 │
-│ - Membandingkan data observasi santri di tiga wilayah (kamar, kelas,   │
-│   dan masjid) guna memastikan santri tidak bersikap bunglon.           │
-│ - Menyelaraskan penentuan jenjang J1–J4 berdasarkan deskriptor baku.  │
-│                 │                                                      │
-│                 ▼                                                      │
-│ TAHAP 3: DIALOG UMPAN BALIK FORMATIF DENGAN SANTRI                     │
-│ - Musyrif memanggil santri secara pribadi dalam sesi bimbingan hangat. │
-│ - Menunjukkan peta kapasitas santri: "Alhamdulillah di CC-05 kamu sudah│
-│   di J3, tapi di CC-01 kamu masih di J1. Mari kita buat rencana latihan│
-│   bersama untuk menaikkan kendali emosimu ke J2 bulan depan."          │
-│ - Santri diajak menetapkan target perbaikan diri secara mandiri.       │
-│                 │                                                      │
-│                 ▼                                                      │
-│ TAHAP 4: PELAPORAN RAPOR NARATIF KEPADA WALI SANTRI                    │
-│ - Rapor tidak memuat angka tunggal, melainkan Diagram Radar Kapasitas  │
-│   disertai narasi deskriptif kemajuan nyata anak di asrama.            │
-│ - Wali santri mendapatkan panduan konkret bagaimana melanjutkan       │
-│   pembiasaan kapasitas tersebut saat santri liburan di rumah.          │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Tahap Evaluasi | Nama Tahapan | Rincian Tindakan dan Prosedur Baku |
+|---|---|---|
+| **Tahap 1** | **Pengamatan Otentik Berkelanjutan (Logbook Harian)** | • Musyrif dilarang menilai santri berdasarkan ingatan mendadak di akhir semester (*recency bias*).<br>• Setiap musyrif memegang Logbook Catatan Peristiwa Kritis (*Critical Incidents Log*): mencatat tindakan konkret luar biasa santri (kemajuan pesat atau insiden pelanggaran spesifik). |
+| **Tahap 2** | **Kalibrasi Lintas Evaluator (Inter-Rater Moderation)** | • Sekali sebulan, musyrif kamar, guru kelas madrasah, dan pembina tahfizh duduk bersama dalam Rapat Moderasi Karakter.<br>• Membandingkan data observasi santri di tiga wilayah (kamar, kelas, dan masjid) guna memastikan santri tidak bersikap bunglon.<br>• Menyelaraskan penentuan jenjang J1–J4 berdasarkan deskriptor baku. |
+| **Tahap 3** | **Dialog Umpan Balik Formatif dengan Santri** | • Musyrif memanggil santri secara pribadi dalam sesi bimbingan hangat.<br>• Menunjukkan peta kapasitas santri: *"Alhamdulillah di CC-05 kamu sudah di J3, tapi di CC-01 kamu masih di J1. Mari kita buat rencana latihan bersama untuk menaikkan kendali emosimu ke J2 bulan depan."*<br>• Santri diajak menetapkan target perbaikan diri secara mandiri. |
+| **Tahap 4** | **Pelaporan Rapor Naratif kepada Wali Santri** | • Rapor tidak memuat angka tunggal, melainkan Diagram Radar Kapasitas disertai narasi deskriptif kemajuan nyata anak di asrama.<br>• Wali santri mendapatkan panduan konkret bagaimana melanjutkan pembiasaan kapasitas tersebut saat santri liburan di rumah. |
 
 ---
 
-## 9. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
+## 10. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
 
-### 9.1. ADR-PROBE-0037: Pembakuan Core Capacity Architecture dan Metodologi BARS J1–J4
+### 10.1. ADR-PROBE-0037: Pembakuan Core Capacity Architecture dan Metodologi BARS J1–J4
 
-- **ID Keputusan**: `ADR-PROBE-0037`
-- **Tanggal Efektif**: 2026-10-25
-- **Status**: `APPROVED & IMMUTABLE BASELINE`
-- **Konteks**:
-  Sistem evaluasi kepesantrenan tradisional mengalami disfungsi kronis akibat bias subjektivitas, prasangka pribadi musyrif (*halo effect*), penggunaan label moralitas abstrak yang melumpuhkan santri, dan laporan rapor huruf tunggal tanpa indikator terukur. Repositori TUMBUH membutuhkan taksonomi arsitektural kapasitas adab yang operasional, adil, dan berakar pada syariat Islam.
-- **Keputusan Arsitektural**:
-  1. Menetapkan **Core Capacity Architecture (Arsitektur Kapasitas Inti)** sebagai **Pilar Substantif Ketiga (Pilar 04) di dalam `01_FUNDAMENTAL/03_CORE_MODEL/`**.
-  2. Membekukan **Delapan Kapasitas Inti Santri (CC-01 s/d CC-08)** sebagai taksonomi kompetensi karakter resmi di seluruh subsistem repositori TUMBUH v2.0.0.
-  3. Menetapkan metodologi **Behaviorally Anchored Rating Scales (BARS)** melintasi **Empat Jenjang Kemandirian (J1–J4)** sebagai satu-satunya instrumen asesmen perkembangan adab santri yang sah.
-  4. Mengharamkan penerbitan rapor adab berbasis huruf tunggal (A/B/C/D) atau angka persentase tanpa disertai deskriptor bukti perilaku teramati.
-  5. Mengharamkan segala bentuk pelabelan moral negatif permanen terhadap santri dalam seluruh dokumen kelembagaan.
-- **Dasar Pertimbangan Epistemik**:
-  - Konsep *Ummahat al-Fadhail* Ibnu Miskawaih dan taksonomi keutamaan Al-Farabi serta Al-Ghazali.
-  - Kaidah ushul fiqih *Al-Amarat azh-Zhahirah* Syaikhul Islam Ibnu Taimiyyah: evaluasi amal berlandaskan tanda-tanda lahiriah yang terukur secara adil.
-  - Metodologi psikometri BARS (Smith & Kendall) dan model perkembangan kemahiran Dreyfus.
-- **Konsekuensi Sistem**:
-  - Direktori `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/` dibekukan spesifikasinya sesuai dengan 8 kapasitas dan rubrik BARS ini.
-  - Seluruh instrumen di `01_FUNDAMENTAL/05_ASSESSMENT/` wajib diturunkan secara langsung dari matriks deskriptor CC-01 s/d CC-08.
-  - Inkuiri berikutnya (`P00038`: System Logic) akan menelaah bagaimana kapasitas ini berinteraksi secara sistemik dengan pilar lainnya dalam rantai kausalitas.
+| Parameter | Deskripsi Keputusan |
+|---|---|
+| **ID Keputusan** | `ADR-PROBE-0037` |
+| **Status** | `APPROVED & IMMUTABLE BASELINE` |
+| **Tanggal Efektif** | 2026-10-25 |
+| **Domain Arsitektur** | `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/` |
+| **Dampak Lintas Lapisan** | `01_FUNDAMENTAL`, `02_IMPLEMENTATION`, `03_OPERATIONAL` |
+
+| Elemen Evaluasi | Rincian Ketetapan Arsitektural |
+|---|---|
+| **Konteks Masalah** | Sistem evaluasi kepesantrenan tradisional mengalami disfungsi kronis akibat bias subjektivitas, prasangka pribadi musyrif (*halo effect*), penggunaan label moralitas abstrak yang melumpuhkan santri, dan laporan rapor huruf tunggal tanpa indikator terukur. Repositori TUMBUH membutuhkan taksonomi arsitektural kapasitas adab yang operasional, adil, dan berakar pada syariat Islam. |
+| **Keputusan Arsitektural** | 1. Menetapkan **Core Capacity Architecture (Arsitektur Kapasitas Inti)** sebagai **Pilar Substantif Ketiga (Pilar 04) di dalam `01_FUNDAMENTAL/03_CORE_MODEL/`**.<br>2. Membekukan **Delapan Kapasitas Inti Santri (CC-01 s/d CC-08)** sebagai taksonomi kompetensi karakter resmi di seluruh subsistem repositori TUMBUH v2.0.0.<br>3. Menetapkan metodologi **Behaviorally Anchored Rating Scales (BARS)** melintasi **Empat Jenjang Kemandirian (J1–J4)** sebagai satu-satunya instrumen asesmen perkembangan adab santri yang sah.<br>4. Mengharamkan penerbitan rapor adab berbasis huruf tunggal (A/B/C/D) atau angka persentase tanpa disertai deskriptor bukti perilaku teramati.<br>5. Mengharamkan segala bentuk pelabelan moral negatif permanen terhadap santri dalam seluruh dokumen kelembagaan. |
+| **Dasar Epistemik & Turats** | • Konsep *Ummahat al-Fadhail* Ibnu Miskawaih dan taksonomi keutamaan Al-Farabi serta Al-Ghazali.<br>• Kaidah ushul fiqih *Al-Amarat azh-Zhahirah* Syaikhul Islam Ibnu Taimiyyah: evaluasi amal berlandaskan tanda-tanda lahiriah yang terukur secara adil.<br>• Metodologi psikometri BARS (Smith & Kendall) dan model perkembangan kemahiran Dreyfus. |
+| **Konsekuensi Sistemik** | • Direktori `01_FUNDAMENTAL/03_CORE_MODEL/04_CORE_CAPACITY_ARCHITECTURE/` dibekukan spesifikasinya sesuai dengan 8 kapasitas dan rubrik BARS ini.<br>• Seluruh instrumen di `01_FUNDAMENTAL/05_ASSESSMENT/` wajib diturunkan secara langsung dari matriks deskriptor CC-01 s/d CC-08.<br>• Inkuiri berikutnya (`P00038`: System Logic) menelaah keterkaitan kausal antar-komponen. |
 
 ---
 
-## 10. Implikasi bagi Repositori TUMBUH & Tujuh Guardrails
+## 11. Implikasi bagi Repositori TUMBUH & Tujuh Guardrails
 
-### 10.1. Dampak Lintas Lapisan Repositori
+### 11.1. Dampak Lintas Lapisan Repositori
 1. **Bagi `01_FUNDAMENTAL`**: Menjadi taksonomi kompetensi baku yang mengakhiri perdebatan semantik tentang apa definisi santri beradab.
 2. **Bagi `02_IMPLEMENTATION`**: Menjadi matriks capaian pembelajaran santri (*Santri Learning Outcomes*) yang wajib diselaraskan dengan kurikulum kepengasuhan dan madrasah.
 3. **Bagi `03_OPERATIONAL`**: Menggantikan buku catatan pelanggaran konvensional menjadi lembar observasi portofolio BARS harian musyrif.
 
-### 10.2. Tujuh Guardrails Repositori (Batas-Batas Negatif Mutlak)
+### 11.2. Tujuh Guardrails Repositori (Batas-Batas Negatif Mutlak)
 Guna membentengi hak dan martabat santri dari kesewenang-wenangan penilaian, ditetapkan 7 larangan mutlak (*Seven Absolute Invariant Guardrails*):
 
 1. **Haram Mengklaim Menilai Keikhlasan Batin**: Dilarang bagi musyrif mencantumkan nilai atau tuduhan terkait kemurnian niat dan keikhlasan hati santri; asesmen murni terbatas pada perilaku fungsional lahiriah.
@@ -298,20 +224,20 @@ Guna membentengi hak dan martabat santri dari kesewenang-wenangan penilaian, dit
 
 ---
 
-## 11. Penutup & Emergent Chain of Inquiry
+## 12. Penutup & Emergent Chain of Inquiry
 
-### 11.1. Sintesis Penutup
+### 12.1. Sintesis Penutup
 Core Capacity Architecture membuktikan bahwa adab bukanlah konsep awang-awang yang mustahil dievaluasi. Dengan mendasarkan diri pada hikmah turats Ibnu Miskawaih dan ketegasan psikometri BARS, repositori TUMBUH v2.0.0 berhasil memetakan budi pekerti Islam ke dalam delapan kapasitas fungsional yang hidup, dapat dilatihkan secara bertahap, dan dievaluasi secara adil. Santri tidak lagi menjadi korban prasangka pembina, melainkan menjadi subjek yang memahami peta perjalanannya sendiri menuju kemandirian beradab yang diridhai Allah Ta'ala.
 
-### 11.2. Jembatan Inkuiri Lanjutan (Emergent Chain of Inquiry)
+### 12.2. Jembatan Inkuiri Lanjutan (Emergent Chain of Inquiry)
 Dengan telah lengkapnya komponen profil lulusan, ekologi tumbuh, mekanisme pertumbuhan, dan kapasitas inti santri, muncul pertanyaan krusial mengenai keterkaitan logis antar-elemen tersebut:
 - **`P00038`**: *Rasionalitas Komponen Keempat Core Model: Mengapa Membutuhkan System Logic?* (Membongkar rantai kausalitas arsitektural: bagaimana membuktikan secara logis dan matematis bahwa Growth Ecology niscaya mengaktifkan Growth Mechanism, yang pada gilirannya melahirkan Core Capacities, dan bermuara pada Profil Lulusan yang bebas kontradiksi sistemik).
 
 ---
 
-## 12. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
+## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
-### 12.1. Khazanah Turats Primer & Ushul-Etika
+### 13.1. Khazanah Turats Primer & Ushul-Etika
 - Al-Ajurri, A. B. (1999). *Akhlaq al-'ulama'* (Tahqiq F. Ismail). Bairut: Dar al-Basyair al-Islamiyyah.
 - Al-Farabi, A. N. (1993). *Fushul al-madani: Fushul muntaza'ah* (Tahqiq F. M. Najjar). Bairut: Dar al-Masyriq.[^3]
 - Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din: Kitab riyadhat an-nafs wa tahdzib al-akhlaq* (Tahqiq A. Ali, Jilid 3). Al-Qahirah: Dar asy-Sya'b.
@@ -321,7 +247,7 @@ Dengan telah lengkapnya komponen profil lulusan, ekologi tumbuh, mekanisme pertu
 - Ibnu Taimiyyah, A. H. (1983). *Al-qawa'id an-nuraniyyah al-fiqhiyyah* (Tahqiq M. H. al-Faqi). Bairut: Dar al-Kutub al-'Ilmiyyah.[^2]
 - Ibnu Qayyim al-Jauziyyah, M. A. (2003). *Madarij as-salikin baina manazil iyyaka na'budu wa iyyaka nasta'in* (Tahqiq I. Abbas, Jilid 2). Al-Qahirah: Dar al-Hadits.
 
-### 12.2. Psikometri, Taksonomi Pendidikan, & Perkembangan Kemahiran
+### 13.2. Psikometri, Taksonomi Pendidikan, & Perkembangan Kemahiran
 - Anastasi, A., & Urbina, S. (1997). *Psychological testing* (7th ed.). Prentice-Hall.
 - Bandura, A. (1997). *Self-efficacy: The exercise of control*. W. H. Freeman and Company.
 - Bloom, B. S. (Ed.). (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I: Cognitive domain*. David McKay Company.

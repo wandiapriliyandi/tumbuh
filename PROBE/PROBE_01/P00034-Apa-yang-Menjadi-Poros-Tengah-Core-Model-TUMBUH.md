@@ -1,26 +1,32 @@
 # P00034: Apa yang Menjadi Poros Tengah Core Model TUMBUH?
 
-- **ID Berkas**: `PROBE/PROBE_01/P00034`
-- **Pilar**: Pilar 3 — Logika Penataan Arsitektur Konseptual TUMBUH
-- **Sub-Klaster**: Poros Gravitasi Pemodelan Inti (*Core Model Gravitational Center & Fitrah-Centric Architecture*)
-- **Pertanyaan Panduan (TUMBUH Question)**:
-  > *Bagaimana Core Model TUMBUH menempatkan pertumbuhan fitrah santri menuju kemandirian beradab sebagai pusat gravitasi seluruh komponen pembinaan, dan mengapa ketiadaan poros tengah yang hakiki niscaya mereduksi pesantren menjadi sekadar pabrik hafalan atau kamp kepatuhan semu?*
-- **Status Inkuiri**: Tuntas & Terkunci (Bagian dari 120 Berkas Rekonstruksi Kanonik PROBE 01)
-- **Target Subsistem**: `01_FUNDAMENTAL/03_CORE_MODEL/` (khususnya relasi konseptual antara poros pertumbuhan fitrah dengan 7 pilar Core Model)
+## 1. Metadata & Identitas Dokumen Inkuiri
+
+| Parameter Dokumen | Ketetapan Metadata Inkuiri Kanonik |
+|---|---|
+| **ID Berkas** | `PROBE/PROBE_01/P00034` |
+| **Pilar Repositori** | Pilar 3 — Logika Penataan Arsitektur Konseptual TUMBUH |
+| **Sub-Klaster** | Poros Gravitasi Pemodelan Inti (*Core Model Gravitational Center & Fitrah-Centric Architecture*) |
+| **TUMBUH Question** | *Bagaimana Core Model TUMBUH menempatkan pertumbuhan fitrah santri menuju kemandirian beradab sebagai pusat gravitasi seluruh komponen pembinaan, dan mengapa ketiadaan poros tengah yang hakiki niscaya mereduksi pesantren menjadi sekadar pabrik hafalan atau kamp kepatuhan semu?* |
+| **Status Inkuiri** | Tuntas & Terkunci (Bagian dari 120 Berkas Rekonstruksi Kanonik PROBE 01) |
+| **Target Subsistem** | `01_FUNDAMENTAL/03_CORE_MODEL/` (Relasi konseptual poros pertumbuhan fitrah dengan 7 pilar Core Model) |
+| **Status ADR** | `APPROVED & IMMUTABLE BASELINE (ADR-PROBE-0034)` |
+| **Versi Dokumen** | `2.0.0` |
+| **Klasifikasi Epistemik** | *Foundational Gravitational Axis, Ontological Integration, & Fitrah-Centric Modeling* |
 
 ---
 
-## 1. Abstrak & Epistemic Tension
+## 2. Abstrak & Epistemic Tension
 
-### 1.1. Abstrak
+### 2.1. Abstrak
 Penyelidikan kanonik ini membongkar dan menetapkan pusat gravitasi arsitektural (*gravitational center*) dari seluruh bangunan Model Inti (`03_CORE_MODEL`) di repositori TUMBUH v2.0.0. Banyak sistem pendidikan Islam kehilangan orientasi transformatifnya karena terjebak dalam disorientasi poros: menjadikan capaian materi kurikulum, jumlah juz hafalan Al-Qur'an, atau ketertiban disiplin militeristik sebagai pusat tujuan pembinaan. Melalui sintesis mendalam antara ontologi fitrah dalam teks turats klasik (analisis Ibnu Taimiyyah, Ibnul Qayyim, dan Al-Ghazali) serta teori determinasi diri modern (*Self-Determination Theory* oleh Deci & Ryan serta psikologi perkembangan ekologis Bronfenbrenner), monograf ini membuktikan bahwa poros tengah yang sah secara syar'i dan rasional bagi pendidikan pesantren adalah **Pertumbuhan Fitrah Santri Menuju Kemandirian Beradab (*Namuww al-Fitrah nahwa al-Istiqlaliyyah al-Adabiyyah*)**. Poros ini bertindak sebagai matahari konseptual yang mengikat profil lulusan, ekologi asrama 24 jam, mekanisme pembiasaan batin, dan delapan kapasitas inti ke dalam satu orbit harmonis. Tanpa poros fitrah ini, pesantren rentan mengalami pembusukan desain (*architectural decay*), mereduksi santri menjadi wadah hafalan mekanis, dan memicu alienasi moral saat santri keluar dari asrama. Ketetapan ini dibakukan melalui *Architectural Decision Record* (ADR-PROBE-0034) bersama tujuh batasan mutlak (*guardrails*).
 
-### 1.2. Epistemic Tension
+### 2.2. Epistemic Tension
 Ketegangan mendasar yang diselesaikan berkas ini adalah: *Apakah pesantren didirikan untuk mencetak santri yang tunduk patuh pada institusi, ataukah institusi didirikan untuk menumbuhkan fitrah santri agar mandiri beribadah kepada Allah?* Ketika institusi menempatkan dirinya sendiri atau metrik target fisik sebagai poros, santri diperlakukan sebagai bahan baku (*raw material*) yang dibentuk paksa (*molding*). Sebaliknya, jika pertumbuhan fitrah menjadi poros, peran pesantren bergeser menjadi fasilitator dan perawat ekosistem (*tasyjir wa ri'ayah*): mendampingi potensi kebaikan batin santri mekar secara organik tanpa pemaksaan yang mematahkan dahan kemanusiaannya.
 
 ---
 
-## 2. Pendahuluan Fenomenologis: Krisis Disorientasi Poros di Asrama 24 Jam
+## 3. Pendahuluan Fenomenologis: Krisis Disorientasi Poros di Asrama 24 Jam
 
 ### 2.1. Patologi Pemusatan pada Target Hafalan Kering (*The Rote Memorization Trap*)
 Dalam realitas pengelolaan pesantren kontemporer, sering kali ditemukan distorsi visi yang fatal: **mereduksi seluruh keberhasilan pendidikan menjadi grafik hafalan Al-Qur'an atau mutun kitab**. 
@@ -62,7 +68,7 @@ Poros gravitasi tunggal yang diakui oleh konstitusi TUMBUH adalah: **Pertumbuhan
 
 ---
 
-## 3. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
+## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
 
 ### 3.1. Hakikat Fitrah sebagai Potensi Awal yang Suci dan Dinamis
 Dalam teks wahyu primer, Rasulullah shallallahu 'alaihi wa sallam meletakkan dasar antropologi Islam yang paling agung:
@@ -118,32 +124,17 @@ Keterangan ini mengunci tesis TUMBUH bahwa poros pembinaan tidak boleh berakar p
 
 ---
 
-## 4. Tinjauan Pustaka II: Teori Determinasi Diri, Zona Perkembangan, & Neurosains
+## 5. Tinjauan Pustaka II: Teori Determinasi Diri, Zona Perkembangan, & Neurosains
 
-### 4.1. Teori Determinasi Diri (Self-Determination Theory - SDT)
+### 5.1. Teori Determinasi Diri (Self-Determination Theory - SDT)
 Penelitian empiris psikologi motivasi oleh Edward L. Deci dan Richard M. Ryan selama empat dekade menghasilkan *Self-Determination Theory* (SDT), yang membuktikan bahwa motivasi manusia berkembang dalam kontinum dari *Amotivation*, *Extrinsic Motivation*, hingga *Intrinsic Motivation*:[^5]
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             KONTINUM MOTIVASI SDT DALAM KONTEKS ASRAMA PESANTREN       │
-├────────────────────────────────────────────────────────────────────────┤
-│ 1. Regulasi Eksternal (External Regulation)                            │
-│    └── Santri shalat tahajjud semata demi menghindari takzir push-up.  │
-│                 │                                                      │
-│                 ▼ INTERNALISASI PARSIAL                                │
-│ 2. Regulasi Introyeksi (Introjected Regulation)                        │
-│    └── Santri shalat karena takut dicap munafik oleh senior/teman.     │
-│                 │                                                      │
-│                 ▼ INTERNALISASI SADAR                                  │
-│ 3. Regulasi Identifikasi (Identified Regulation)                       │
-│    └── Santri shalat karena menyadari manfaat doa bagi masa depannya.  │
-│                 │                                                      │
-│                 ▼ KEMATANGAN FITRAH TERTINGGI                          │
-│ 4. Regulasi Terintegrasi & Intrinsik (Integrated & Intrinsic Adab)     │
-│    └── Santri shalat tahajjud karena cinta dan rindu bersimpuh di      │
-│        hadapan Allah Ta'ala (Murni Munajat & Fitrah Muwahhidah).       │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Tingkat Regulasi Motivasi SDT | Tahapan Internalisasi Nilai | Contoh Perilaku Riil Santri di Asrama | Derajat Kematangan Adab Batin |
+|---|---|---|---|
+| **1. Regulasi Eksternal (*External Regulation*)** | Kepatuhan semu (*heteronomous*) | Santri bangun tahajjud semata demi menghindari takzir push-up atau bentakan musyrif. | Rendah (Kepatuhan terpaksa, rentan *rebound*) |
+| **2. Regulasi Introyeksi (*Introjected Regulation*)** | Internalisasi parsial berbasis kecemasan | Santri shalat tahajjud karena takut dicap malas atau munafik oleh senior dan teman sekamar. | Transisional awal (Digerakkan rasa bersalah) |
+| **3. Regulasi Identifikasi (*Identified Regulation*)** | Internalisasi sadar rasional | Santri shalat tahajjud karena menyadari manfaat doa dan ketenangan batin bagi masa depannya. | Menengah (Digerakkan kesadaran nilai pribadi) |
+| **4. Regulasi Terintegrasi & Intrinsik (*Integrated Adab*)** | Kematangan fitrah paripurna | Santri shalat tahajjud karena cinta, rindu, dan kenikmatan bermunajat di hadapan Allah Ta'ala. | Tertinggi (*Ikhlas, Muraqabatullah*, Mandiri) |
 
 Riset SDT membuktikan bahwa motivasi intrinsik dan regulasi terintegrasi hanya dapat mekar jika tiga kebutuhan psikologis dasar (*Basic Psychological Needs*) terpenuhi:
 1. **Autonomy (Kemandirian Berpikir & Memilih)**: Santri diberi ruang untuk memahami *alasan di balik aturan* dan mengambil tanggung jawab sukarela.
@@ -166,43 +157,17 @@ Dalam perspektif neurobiologi perkembangan remaja (Casey, Jones, & Somerville), 
 
 ---
 
-## 5. Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)
 
-### 5.1. Panggung Dialektika: Tiga Kubu Poros Pendidikan
+### 6.1. Panggung Dialektika: Tiga Kubu Poros Pendidikan
 Dalam diskusi perancangan sistem pendidikan Islam, terjadi benturan tajam antara tiga pandangan paradigma:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             BENTURAN TIGA KUBU TENTANG POROS PENDIDIKAN PESANTREN      │
-├────────────────────────────────────────────────────────────────────────┤
-│ KUBU MATERIALIS-KURIKULER (Kurikulum Sentris)                          │
-│ "Pusat pendidikan adalah materi kitab dan jumlah hafalan teks.         │
-│ Santri yang sukses adalah yang menguasai seluruh matan, tanpa peduli   │
-│ bagaimana dinamika psikologis dan kematangan karakternya."             │
-│                                                                        │
-│ KUBU OTORITARIAN-INSTITUSIONAL (Institusi Sentris)                     │
-│ "Pusat pendidikan adalah ketertiban lembaga dan wibawa mutlak kyai.    │
-│ Santri yang baik adalah yang sam'an wa tha'atan membabi buta tanpa     │
-│ pernah bertanya, patuh pada seluruh aturan asrama tanpa bantahan."     │
-│                                                                        │
-│ KUBU PERMISIF-NATURALISTIK SEKULAR (Anak Sentris Ekstrem)              │
-│ "Pusat pendidikan adalah kebebasan mutlak anak tanpa batas dogma.      │
-│ Santri tidak boleh dibatasi syariat atau aturan, biarkan alam yang     │
-│ mendewasakan mereka secara bebas tanpa intervensi norma agama."        │
-└───────────────────────────────────┬────────────────────────────────────┘
-                                    │
-                                    ▼ SINTESIS KANONIK (TUMBUH v2.0.0)
-┌────────────────────────────────────────────────────────────────────────┐
-│         AL-JAM'U WAT-TAUFIQ: FITRAH-CENTRIC BERBASIS ADAB NABAWI       │
-│ Poros Tengah TUMBUH bukan kurikulum dingin, bukan pula hegemoni lembaga│
-│ apalagi permisivisme sekular, melainkan:                               │
-│ PERTUMBUHAN FITRAH MENUJU KEMANDIRIAN BERADAB KEPADA ALLAH             │
-│ - Kurikulum adalah sarana gizi penumbuh fitrah.                        │
-│ - Lembaga & Musyrif adalah pelayan dan perawat ekosistem fitrah.       │
-│ - Syariat dan Adab adalah kompas rel pembatas agar fitrah tidak liar.  │
-│ - Santri adalah subjek bertumbuh yang dimuliakan martabat ruhaninya.   │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Paradigma / Kubu Pemikiran | Pandangan & Asumsi Dasar Poros | Kritik Epistemik & Resiko Kegagalan Santri |
+|---|---|---|
+| **Kubu Materialis-Kurikuler (*Kurikulum-Sentris*)** | Menjadikan penguasaan materi kitab, mutun, dan kuota juz hafalan sebagai pusat tujuan utama pembinaan santri. | Melahirkan *spiritual burnout*; santri mampu menghafal teks namun kehilangan adab dan regulasi emosi di luar asrama. |
+| **Kubu Otoritarian-Institusional (*Institusi-Sentris*)** | Menjadikan ketertiban lembaga, kepatuhan mutlak, dan wibawa pengurus sebagai pusat gravitasi asrama. | Memicu budaya kemunafikan laten (*covert rebellion*); santri berdisiplin semata karena takut radar CCTV atau rotan musyrif. |
+| **Kubu Permisif-Naturalistik (*Anak-Sentris Ekstrem*)** | Menjadikan kebebasan mutlak anak tanpa batas dogma atau aturan sebagai poros pendewasaan. | Menghancurkan disiplin syariat; anak kehilangan kompas adab dan terjebak dalam permisivisme hawa nafsu. |
+| **Rekonsiliasi Kanonik TUMBUH (*Al-Jam'u wat-Taufiq*)** | Menjadikan **Pertumbuhan Fitrah Santri Menuju Kemandirian Beradab** sebagai poros tengah sejati: kurikulum sebagai gizi, institusi sebagai pelayan ekosistem, syariat sebagai rel kompas, dan santri sebagai subjek bertumbuh yang dimuliakan. | Memadukan keagungan wahyu dengan kematangan psikospiritual santri 24 jam secara terukur dan berkelanjutan. |
 
 ### 5.2. Resolusi Epistemik: Mengapa Kemandirian Wajib Terikat pada Adab?
 Kemandirian dalam worldview Islam bukanlah kemandirian eksistensial ala filsafat eksistensialisme Barat (Sartre atau Nietzsche) yang mencampakkan hukum Tuhan demi kebebasan individual tanpa batas (*unfettered individualism*). 
@@ -216,7 +181,7 @@ Inilah sintesis agung yang menjadi poros tengah tak tergoyahkan bagi Core Model 
 
 ---
 
-## 6. Pembahasan Analitis & Bedah Kasus Tata Kelola Asrama
+## 7. Pembahasan Analitis & Bedah Kasus Tata Kelola Asrama
 
 ### 6.1. Studi Kasus Komparatif: Pesantren "Al-Mizan" vs Pesantren "Al-Furqan"
 Untuk membuktikan secara konkret bagaimana pemilihan poros tengah menentukan seluruh dinamika kehidupan santri, mari kita bedah analisis komparatif dua pesantren yang memiliki kapasitas sarana fisik dan latar belakang santri yang setara.
@@ -243,7 +208,7 @@ Bedah kasus ini membuktikan secara empiris: **Ketika porosnya tepat, seluruh bua
 
 ---
 
-## 7. Matriks Komparatif Multidimensi: Analisis Spektrum Poros Pendidikan
+## 8. Matriks Komparatif Multidimensi: Analisis Spektrum Poros Pendidikan
 
 Tabel multidimensi berikut memperlihatkan perbandingan sistemik antara empat orientasi poros pendidikan di lingkungan pesantren:
 
@@ -259,42 +224,29 @@ Tabel multidimensi berikut memperlihatkan perbandingan sistemik antara empat ori
 
 ---
 
-## 8. Protokol Tata Kelola & Tindakan Arsitektural Pengembang
+## 9. Protokol Tata Kelola & Tindakan Arsitektural Pengembang
 
 Untuk memastikan seluruh komponen di dalam `01_FUNDAMENTAL/03_CORE_MODEL/` berputar mengelilingi poros pertumbuhan fitrah santri menuju kemandirian beradab, tim pengembang kurikulum dan arsitek sistem TUMBUH wajib menegakkan protokol integrasi empat pilar berikut:
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│             ORBIT GRAVITASI TUJUH PILAR CORE MODEL TUMBUH              │
-├────────────────────────────────────────────────────────────────────────┤
-│                                                                        │
-│                       [ 01_GRADUATE_PROFILE ]                          │
-│                                  │                                     │
-│                                  ▼                                     │
-│  [ 04_CORE_CAPACITY ] ◄─── ( POROS TENGAH ) ───► [ 02_GROWTH_ECOLOGY ] │
-│                           PERTUMBUHAN FITRAH                           │
-│                           MENUJU KEMANDIRIAN                           │
-│                                BERADAB                                 │
-│                                  ▲                                     │
-│                                  │                                     │
-│                      [ 03_GROWTH_MECHANISM ]                           │
-│                                                                        │
-│            DILINGKUPI OLEH TIGA PILAR PENJAGA MUTU KANONIK:            │
-│     [05_SYSTEM_LOGIC] • [06_CONSTRUCT_REGISTRY] • [07_CLAIM_REGISTRY]   │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Komponen Arsitektur TUMBUH | Hubungan Gravitasi dengan Poros Fitrah Santri | Peran Fungsional & Mandat dalam Core Model |
+|---|---|---|
+| **01. Graduate Profile (`01_GRADUATE_PROFILE`)** | Bintang Penuntun Kematangan Fitrah | Mendefinisikan profil akhir santri mandiri beradab (10 Muwashofat Santri). |
+| **02. Growth Ecology (`02_GROWTH_ECOLOGY`)** | Wadah Pemelihara & Pelindung Fitrah | Menyediakan lingkungan fisik, sirkadian, dan psikososial yang aman dari stresor berlebih. |
+| **03. Growth Mechanism (`03_GROWTH_MECHANISM`)** | Mesin Transformasi Batiniah Fitrah | Menggerakkan 5 stasiun pembiasaan adab dari pengalaman nyata hingga watak membatin. |
+| **04. Core Capacity (`04_CORE_CAPACITY_ARCHITECTURE`)** | Sayap-Sayap Fungsional Fitrah | Mengkodifikasikan 8 kapasitas terukur (CC-01 s/d CC-08) lintas jenjang kemandirian (J1–J4). |
+| **Tiga Pilar Penjaga Mutu Kanonik** (`05_SYSTEM_LOGIC`, `06_CONSTRUCT_REGISTRY`, `07_CLAIM_REGISTRY`) | Pengawal Integritas & Kemurnian Fitrah | Menjaga konsistensi kausalitas, keaslian istilah tarbiyah, dan validitas klaim keberhasilan sistem. |
 
-### 8.1. Protokol Pengikatan Komponen ke Poros Tengah
+### 9.1. Protokol Pengikatan Komponen ke Poros Tengah
 1. **Kalibrasi Profil Lulusan (`01_GRADUATE_PROFILE`)**:
    Sepuluh karakter muwashofat santri tidak boleh dirumuskan sebagai capaian statis, melainkan sebagai deskriptor kematangan fitrah yang mengalir dari kesadaran tauhid menuju aksi sosial.
 2. **Rekayasa Ekologi Pertumbuhan (`02_GROWTH_ECOLOGY`)**:
    Setiap meter persegi ruang asrama, rasio sanitasi, pencahayaan kamar, dan alur waktu 24 jam dirancang murni untuk mendukung pertumbuhan fitrah santri, bukan untuk efisiensi anggaran pengelola.
 3. **Aktivasi Mesin Pertumbuhan (`03_GROWTH_MECHANISM`)**:
-   Siklus lima stasiun perubahan batin (*Pengalaman ──► Keterlibatan Sadar ──► Riyadhoh ──► Muhasabah ──► Watak Membatin*) diposisikan sebagai proses internalisasi kemandirian adab, bukan pembiasaan stimulus-respons refleks.
+   Siklus lima stasiun perubahan batin (*Pengalaman Nyata ➔ Keterlibatan Sadar ➔ Riyadhah ➔ Muhasabah ➔ Watak Membatin*) diposisikan sebagai proses internalisasi kemandirian adab, bukan pembiasaan stimulus-respons refleks.
 4. **Penyelarasan Arsitektur Kapasitas (`04_CORE_CAPACITY_ARCHITECTURE`)**:
    Delapan kapasitas inti santri (CC-01 s/d CC-08) dirumuskan sebagai instrumen fungsional yang memampukan santri beradab secara mandiri di hadapan Allah dan manusia.
 
-### 8.2. Matriks Pemetaan 8 Kapasitas Inti (CC-01 s/d CC-08) ke Poros Kemandirian Fitrah
+### 9.2. Matriks Pemetaan 8 Kapasitas Inti (CC-01 s/d CC-08) ke Poros Kemandirian Fitrah
 Delapan Kapasitas Inti dalam TUMBUH bukanlah keahlian teknis yang terpisah-pisah, melainkan sayap-sayap kematangan fitrah yang mengorbit pada poros kemandirian beradab:
 
 | Kode Kapasitas | Nama Kapasitas Fungsional | Manifestasi Fitrah dalam Kehidupan Asrama 24 Jam | Indikator Kemandirian Beradab Hakiki |
@@ -310,37 +262,35 @@ Delapan Kapasitas Inti dalam TUMBUH bukanlah keahlian teknis yang terpisah-pisah
 
 ---
 
-## 9. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
+## 10. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
 
-### 9.1. ADR-PROBE-0034: Penetapan Pertumbuhan Fitrah Menuju Kemandirian Beradab sebagai Poros Tunggal Core Model
+### 10.1. ADR-PROBE-0034: Penetapan Pertumbuhan Fitrah Menuju Kemandirian Beradab sebagai Poros Tunggal Core Model
 
-- **ID Keputusan**: `ADR-PROBE-0034`
-- **Tanggal Efektif**: 2026-10-25
-- **Status**: `APPROVED & IMMUTABLE BASELINE`
-- **Konteks**:
-  Pengembangan Core Model TUMBUH membutuhkan poros gravitasi filosofis dan operasional yang tunggal. Tanpa poros yang jelas, perancang kurikulum berisiko terjebak dalam dikotomi: mengutamakan capaian materi teks (kurikulum-sentris) atau mengutamakan ketertiban fisik lembaga (otoritarian-sentris), yang keduanya terbukti merusak perkembangan mental dan spiritual santri.
-- **Keputusan Arsitektural**:
-  1. Menetapkan secara kanonik bahwa **Pertumbuhan Fitrah Santri Menuju Kemandirian Beradab (*Namuww al-Fitrah nahwa al-Istiqlaliyyah al-Adabiyyah*)** adalah **satu-satunya poros tengah (*single gravitational center*)** bagi seluruh komponen di dalam `01_FUNDAMENTAL/03_CORE_MODEL/`.
-  2. Menolak mutlak penempatan metrik kuantitatif (seperti jumlah juz hafalan, nilai rapor akademis, atau skor kepatuhan poin asrama) sebagai kriteria akhir penentu keberhasilan pembinaan santri.
-  3. Mewajibkan setiap instrumen operasional, buku panduan musyrif, dan modul evaluasi di repositori TUMBUH untuk menguji apakah klausul yang dibuat melayani poros kemandirian fitrah ini atau justru menciptakan ketergantungan semu.
-- **Dasar Pertimbangan Epistemik**:
-  - Teks hadits fitrah shahih dan syarah Ibnu Taimiyyah: fitrah adalah benih aktif kebaikan yang membutuhkan nutrisi tarbiyah beradab.
-  - Maqashid syari'ah Al-Ghazali dan Al-Mawardi: puncak adab adalah lahirnya benteng pencegah internal (*al-wazi' ad-dakhili*).
-  - Teori Motivasi Determinasi Diri (Deci & Ryan) dan neurosains regulasi diri: pembentukan karakter sejati menuntut pemenuhan kebutuhan otonomi beradab dan rasa aman psikologis.
-- **Konsekuensi Sistem**:
-  - Seluruh sub-direktori `03_CORE_MODEL/` (dari `01_GRADUATE_PROFILE` hingga `07_CLAIM_REGISTRY`) wajib diselaraskan deskriptornya mengitari poros ini.
-  - Komponen berikutnya yang dianalisis dalam inkuiri kanonik (`P00035`: Growth Ecology) wajib mengkaji ekologi asrama sebagai wadah perawat fitrah tersebut.
+| Parameter Metadata ADR | Ketetapan Formal Sistem |
+|---|---|
+| **ID Keputusan** | `ADR-PROBE-0034` |
+| **Status Konstitusional** | `APPROVED & IMMUTABLE BASELINE` |
+| **Tanggal Efektif** | 2026-10-25 |
+| **Domain Terdampak** | `01_FUNDAMENTAL/03_CORE_MODEL/` (Pusat Gravitasi Seluruh Komponen) |
+| **Otoritas Pengesahan** | Majelis Perancang Sistem & Konsil Epistemik TUMBUH v2.0.0 |
+
+| Dimensi Arsitektural | Deskripsi Rincian Ketetapan Sistem |
+|---|---|
+| **Konteks Masalah** | Pengembangan Core Model TUMBUH membutuhkan poros gravitasi filosofis dan operasional yang tunggal. Tanpa poros yang jelas, perancang kurikulum berisiko terjebak dalam dikotomi: mengutamakan capaian materi teks (kurikulum-sentris) atau mengutamakan ketertiban fisik lembaga (otoritarian-sentris), yang keduanya terbukti merusak perkembangan mental dan spiritual santri. |
+| **Keputusan Utama** | 1. Menetapkan secara kanonik bahwa **Pertumbuhan Fitrah Santri Menuju Kemandirian Beradab (*Namuww al-Fitrah nahwa al-Istiqlaliyyah al-Adabiyyah*)** adalah **satu-satunya poros tengah (*single gravitational center*)** bagi seluruh komponen di dalam `01_FUNDAMENTAL/03_CORE_MODEL/`.<br>2. Menolak mutlak penempatan metrik kuantitatif (seperti jumlah juz hafalan, nilai rapor akademis, atau skor kepatuhan poin asrama) sebagai kriteria akhir penentu keberhasilan pembinaan santri.<br>3. Mewajibkan setiap instrumen operasional, buku panduan musyrif, dan modul evaluasi di repositori TUMBUH untuk menguji apakah klausul yang dibuat melayani poros kemandirian fitrah ini atau justru menciptakan ketergantungan semu. |
+| **Dasar Pertimbangan Epistemik** | - Teks hadits fitrah shahih dan syarah Ibnu Taimiyyah: fitrah adalah benih aktif kebaikan yang membutuhkan nutrisi tarbiyah beradab.<br>- Maqashid syari'ah Al-Ghazali dan Al-Mawardi: puncak adab adalah lahirnya benteng pencegah internal (*al-wazi' ad-dakhili*).<br>- Teori Motivasi Determinasi Diri (Deci & Ryan) dan neurosains regulasi diri: pembentukan karakter sejati menuntut pemenuhan kebutuhan otonomi beradab dan rasa aman psikologis. |
+| **Konsekuensi Sistem** | - Seluruh sub-direktori `03_CORE_MODEL/` (dari `01_GRADUATE_PROFILE` hingga `07_CLAIM_REGISTRY`) wajib diselaraskan deskriptornya mengitari poros ini.<br>- Komponen berikutnya yang dianalisis dalam inkuiri kanonik (`P00035`: Growth Ecology) wajib mengkaji ekologi asrama sebagai wadah perawat fitrah tersebut. |
 
 ---
 
-## 10. Implikasi bagi Repositori TUMBUH & Tujuh Guardrails
+## 11. Implikasi bagi Repositori TUMBUH & Tujuh Guardrails
 
-### 10.1. Dampak Lintas Lapisan Repositori
+### 11.1. Dampak Lintas Lapisan Repositori
 1. **Bagi `01_FUNDAMENTAL`**: Menjadi pengunci bahwa pemodelan progresi (`04_PROGRESSION`) dan asesmen (`05_ASSESSMENT`) tidak boleh mengukur hafalan atau kepatuhan semata, melainkan mengukur trajektori kemandirian fitrah (J1–J4).
 2. **Bagi `02_IMPLEMENTATION`**: Menata ulang struktur organisasi yayasan agar fungsi kepengasuhan dan bimbingan konseling memiliki kedudukan setara dengan bagian kurikulum akademik.
 3. **Bagi `03_OPERATIONAL`**: Mengganti instrumen pengawasan represif musyrif menjadi lembar observasi reflektif (*Growth Logbook*) dan protokol lingkaran dialogis.
 
-### 10.2. Tujuh Guardrails Repositori (Batas-Batas Negatif Mutlak)
+### 11.2. Tujuh Guardrails Repositori (Batas-Batas Negatif Mutlak)
 Guna menjaga poros tengah Core Model agar tidak bergeser di masa depan, ditetapkan 7 larangan mutlak:
 
 1. **Haram Menjadikan Angka Hafalan sebagai Berhala Sistem**: Dilarang mengukur kemuliaan akhlak santri semata-mata dari kecepatan menyetorkan juz hafalan tanpa memedulikan adab kesehariannya.
@@ -353,18 +303,18 @@ Guna menjaga poros tengah Core Model agar tidak bergeser di masa depan, ditetapk
 
 ---
 
-## 11. Penutup & Emergent Chain of Inquiry
+## 12. Penutup & Emergent Chain of Inquiry
 
-### 11.1. Sintesis Penutup
+### 12.1. Sintesis Penutup
 Menemukan dan mengunci poros tengah Core Model adalah keputusan arsitektural paling menentukan bagi masa depan repositori TUMBUH v2.0.0. Ketika pertumbuhan fitrah santri menuju kemandirian beradab diikrarkan sebagai pusat gravitasi, pesantren kembali pada khittah luhurnya sebagai taman peradaban (*Bi'ah Shalihah*) yang mencetak manusia seutuhnya: insan kamil yang kokoh tauhidnya, luhur adabnya, mandiri amalnya, dan memancarkan rahmat bagi semesta alam.
 
-### 11.2. Jembatan Inkuiri Lanjutan (Emergent Chain of Inquiry)
+### 12.2. Jembatan Inkuiri Lanjutan (Emergent Chain of Inquiry)
 Dengan terkuncinya poros tengah ini, penyelidikan ilmiah melangkah ke komponen pertama dari empat pilar substantif pembinaan:
 - **`P00035`**: *Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)?* (Membongkar mengapa fitrah santri tidak dapat tumbuh di ruang hampa, melainkan mutlak membutuhkan rekayasa lingkungan asrama 24 jam yang bebas friksi, higienis, dan sarat rasa aman spiritual-psikologis).
 
 ---
 
-## 12. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
+## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 ### 12.1. Khazanah Turats Primer & Tafsir-Hadits
 - Al-'Asqalani, I. H. (2000). *Fath al-bari bi syarh shahih al-bukhari* (Tahqiq M. F. Abdul Baqi, Jilid 3). Al-Qahirah: Dar al-Hadits.

@@ -110,25 +110,12 @@ Dua pilar Ibnul Qayyim di atas—*himyah* (penjagaan preventif ekologis) dan *ta
 ### 5.1. Teori Pembelajaran Eksperiensial David Kolb (*Experiential Learning Cycle*)
 Dalam psikologi kognitif dan teori pembelajaran terapan, David A. Kolb merumuskan bahwa pembentukan kecakapan hidup dan karakter berakar pada siklus empat stasiun yang terus berputar spiral (*Experiential Learning Cycle*):[^5]
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│ 2. OBSERVASI REFLEKTIF (Reflective Observation)                        │
-│    Merenungkan: "Apa yang sesungguhnya terjadi? Mengapa aku bersikap   │
-│    demikian? Bagaimana dampaknya terhadap perasaanku dan temanku?"     │
-│                  ▲                                                    │
-│                  │                                                    ▼
-│ 1. PENGALAMAN KONKRET                                3. KONSEPTUALISASI
-│    (Concrete Experience)                                (Abstract Concept)
-│    Santri menghadapi situasi                            Menghubungkan realitas
-│    nyata di asrama (antrean                             dengan dalil adab,
-│    makan, sengketa barang,                              hak sesama Muslim,
-│    kelelahan belajar).                                  dan prinsip syariat.
-│                  ▲                                                    │
-│                  │                                                    ▼
-│ 4. EKSPERIMENTASI AKTIF (Active Experimentation)                       │
-│    Menguji perilaku baru yang beradab dalam situasi asrama berikutnya. │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Kuadran Siklus Kolb (*Experiential Learning*) | Aktivitas Reflektif & Kognitif | Contoh Kasus Nyata di Asrama Pesantren |
+|---|---|---|
+| **1. Pengalaman Konkret (*Concrete Experience*)** | Santri menghadapi situasi riil langsung dalam kehidupan asrama 24 jam. | Terlibat antrean mandi, perselisihan sandal tertukar, atau rasa jenuh dalam menghafal. |
+| **2. Observasi Reflektif (*Reflective Observation*)** | Merenungkan dan membedah apa yang terjadi serta mengevaluasi perasaan batin. | Dialog terbimbing: *"Apa yang sebenarnya terjadi? Mengapa aku bersikap kasar? Bagaimana perasaan temanku?"* |
+| **3. Konseptualisasi Abstrak (*Abstract Conceptualization*)** | Mengintegrasikan realitas pengalaman dengan nash syariat dan kaidah adab. | Menghubungkan peristiwa dengan dalil sabar, hak ukhuwah sesama Muslim, dan adab menahan amarah. |
+| **4. Eksperimentasi Aktif (*Active Experimentation*)** | Menguji dan menerapkan respons adab yang baru pada situasi konkret berikutnya. | Mempraktikkan teknik pernapasan de-eskalasi emosi dan komunikasi santun saat menghadapi antrean berikutnya. |
 
 Kelemahan fatal sistem asrama konvensional adalah memutus siklus ini: santri hanya dipaksa mengalami Stasiun 1 (Pengalaman Fisik), lalu langsung dituntut melompat ke Stasiun 4 (Kepatuhan Perilaku), seraya mengabaikan Stasiun 2 (Observasi Reflektif) dan Stasiun 3 (Konseptualisasi Makna). Akibatnya, pengalaman santri menjadi fosil hampa yang tidak pernah bermetamorfosis menjadi kesadaran moral (*moral agency*).
 
@@ -174,51 +161,13 @@ Guna membuktikan efektivitas empiris Growth Mechanism, mari kita bedah kasus san
 
 Berikut adalah bagan alur integrasi mesin transformasi batin dalam arsitektur `01_FUNDAMENTAL/03_CORE_MODEL/03_GROWTH_MECHANISM/`:
 
-```text
-┌───────────────────────────────────────────────────────────────────────────────┐
-│             ARSITEKTUR MESIN PERTUMBUHAN (GROWTH MECHANISM ENGINE)            │
-├───────────────────────────────────────────────────────────────────────────────┤
-│                                                                               │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 1. STASIUN WAQI'AH (Concrete Living Experience)                       │   │
-│   │    - Interaksi sosial nyata 24 jam di asrama (friksi, antrean, tugas) │   │
-│   │    - Titik sentuh biologis & sensorik fitrah santri                   │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 2. STASIUN YAQZHOH (Mindful Insight & Moral Awakening)                │   │
-│   │    - Dialog 1-on-1 Musyrif: Validasi Emosi & Refleksi Kalbu           │   │
-│   │    - Pemisahan Motif Batin (Khawathir) dari Tindakan Salah            │   │
-│   │    - Mengaktifkan Prefrontal Cortex Melalui Nalar Syariat             │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 3. STASIUN MUJAHADAH (Directed Riyadhoh & Restitution)                │   │
-│   │    - Latihan Kehendak Menundukkan Hawa Nafsu (Effortful Takalluf)     │   │
-│   │    - Aksi Restitusi Bermartabat (Memperbaiki Kerusakan Tanpa Aib)     │   │
-│   │    - Penguatan Neuroplastisitas Jalur Kebiasaan Baru                  │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 4. STASIUN TAWASHI (Dialogical Muhasabah & Peer Calibration)          │   │
-│   │    - Halaqah Kamar Mingguan Berbasis Saling Menguatkan (Ukhuwah)      │   │
-│   │    - Evaluasi Diri Tanpa Penghakiman Fisik (Psychological Safety)     │   │
-│   │    - Umpan Balik Positif & Penguatan Resolusi Spiritual               │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 5. STASIUN MALAKAH (Internalized Automatic Adab Disposition)          │   │
-│   │    - Mielinisasi Jalur Striatum: Adab Mengalir Spontan & Ringan       │   │
-│   │    - Karakter Mandiri yang Bertahan di Luar Radar Pengawasan Lembaga  │   │
-│   │    - Pencapaian Kedudukan Ikhlas & Muraqabatullah Hakiki              │   │
-│   └───────────────────────────────────────────────────────────────────────┘   │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahapan Stasiun | Nama Stasiun Transformasi Batin | Fokus Mekanisme Psikospiritual & Neurosains | Indikator Keberhasilan Lapangan |
+|:---:|---|---|---|
+| **Stasiun 1** | **Waqi'ah (*Living Experience*)** | Interaksi sosial nyata 24 jam di asrama (friksi antrean, piket, dinamika sekamar) sebagai titik sentuh biologis dan sensorik fitrah santri. | Santri mengalami realitas hidup bersama secara wajar tanpa isolasi buatan yang steril. |
+| **Stasiun 2** | **Yaqzhoh (*Mindful Awakening*)** | Dialog 1-on-1 musyrif kamar: validasi emosi, pemilahan motif batin (*khawathir*), dan aktivasi kendali *Prefrontal Cortex* (PFC) melalui nalar syariat. | Santri menyadari titik kesalahannya secara jujur tanpa rasa terhina atau defensif. |
+| **Stasiun 3** | **Mujahadah (*Directed Effort & Restitution*)** | Latihan kehendak menundukkan nafsu (*effortful takalluf*), aksi restitusi bermartabat, dan penguatan neuroplastisitas sirkuit kebiasaan baru. | Santri aktif memperbaiki kerusakan dan meminta maaf atas inisiatif kesadaran sendiri. |
+| **Stasiun 4** | **Tawashi (*Dialogical Muhasabah*)** | Halaqah kamar mingguan berbasis saling menguatkan (*ukhuwah*), evaluasi diri aman (*psychological safety*), dan umpan balik spiritual positif. | Iklim asrama saling mendukung (*peer scaffolding*) dan mengikis bibit kemunafikan antarteman. |
+| **Stasiun 5** | **Malakah (*Internalized Adab*)** | Mielinisasi jalur kebiasaan striatum otak: adab mengalir spontan, ringan, dan mandiri bahkan saat berada di luar radar institusi pesantren. | Karakter adab menetap permanen (*Malakah Rasikhah*), mencerminkan derajat keikhlasan hakiki. |
 
 Diagram dependensi alur sistem menunjukkan kedudukan sentral *Growth Mechanism* dalam mengalirkan energi ekosistem menuju kapasitas nyata santri:
 
@@ -289,47 +238,21 @@ Untuk menjamin agar *Growth Mechanism* dapat diterapkan secara operasional oleh 
 
 ## 10. Architectural Decision Record (ADR-PROBE-0036)
 
-```text
-================================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0036
-================================================================================
-Judul: Penetapan Growth Mechanism sebagai Pilar Substantif Kedua Core Model TUMBUH
-Status: APPROVED & LOCKED
-Tanggal: 2026-10-25
-Pengambil Keputusan: Dewan Arsitektur Repositori TUMBUH v2.0.0
+| Parameter Metadata ADR | Ketetapan Formal Sistem |
+|---|---|
+| **ID Keputusan** | `ADR-PROBE-0036` |
+| **Judul Keputusan** | Penetapan Growth Mechanism sebagai Pilar Substantif Kedua Core Model TUMBUH |
+| **Status Konstitusional** | `APPROVED & IMMUTABLE BASELINE` |
+| **Tanggal Efektif** | 2026-10-25 |
+| **Domain Terdampak** | `01_FUNDAMENTAL/03_CORE_MODEL/03_GROWTH_MECHANISM/` |
+| **Pengambil Keputusan** | Dewan Arsitektur Repositori & Konsil Epistemik TUMBUH v2.0.0 |
 
-KONTEKS:
-Pendidikan kepesantrenan selama berabad-abad kerap mengandalkan metode "kotak hitam":
-mengasumsikan bahwa pembiasaan fisik mekanis dan hukuman retributif otomatis akan
-menghasilkan insan beradab. Pendekatan ini terbukti melahirkan kemunafikan ganda,
-kepatuhan semu yang runtuh pasca kelulusan, dan trauma psikologis pada santri.
-Repositori TUMBUH memerlukan rumusan arsitektural yang memetakan bagaimana
-transformasi karakter beroperasi secara ilmiah dan syar'i.
-
-KEPUTUSAN ARSITEKTURAL:
-1. Menetapkan GROWTH MECHANISM sebagai Pilar Substantif Kedua dalam subsistem
-   Model Inti (01_FUNDAMENTAL/03_CORE_MODEL/03_GROWTH_MECHANISM/).
-2. Mengkodifikasikan SIKLUS LIMA STASIUN TRANSFORMASI BATIN (Waqi'ah ──► Yaqzhoh ──►
-   Mujahadah ──► Tawashi ──► Malakah) sebagai mesin inti penggerak seluruh program
-   pengasuhan di lingkungan asrama pesantren.
-3. Mengharamkan penjatuhan sanksi punitif-retributif yang tidak memfasilitasi insight
-   moral, restitusi bermartabat, dan muhasabah dialogis.
-4. Mewajibkan seluruh instrumen pembinaan dan asesmen santri di lapisan
-   02_IMPLEMENTATION dan 03_OPERATIONAL mengadopsi prinsip internalisasi motivasi
-   mandiri (Self-Determination Theory) dan Malakah Rasikhah.
-
-KONSEKUENSI POSITIF:
-- Menghapuskan fenomena kemunafikan ganda dan rebound behavior pasca-kelulusan.
-- Membina hubungan kasih sayang dan saling percaya antara musyrif dan santri.
-- Mempercepat terbentuknya regulasi diri mandiri berbasis kesadaran iman.
-- Menyelaraskan doktrin tazkiyatun nufus salaf dengan neurosains kebiasaan modern.
-
-KONSEKUENSI NEGATIF & MITIGASI:
-- Menuntut kesabaran dan keterampilan konseling yang lebih tinggi dari musyrif.
-  Mitigasi: Mengadakan sertifikasi pelatihan rutin teknik dialog Yaqzhoh dan
-  restitusi bermartabat bagi seluruh musyrif baru.
-================================================================================
-```
+| Dimensi Arsitektural | Deskripsi Rincian Ketetapan Sistem |
+|---|---|
+| **Konteks Masalah** | Pendidikan kepesantrenan selama berabad-abad kerap mengandalkan metode "kotak hitam": mengasumsikan bahwa pembiasaan fisik mekanis dan hukuman retributif otomatis akan menghasilkan insan beradab. Pendekatan ini terbukti melahirkan kemunafikan ganda, kepatuhan semu yang runtuh pasca kelulusan, dan trauma psikologis pada santri. Repositori TUMBUH memerlukan rumusan arsitektural yang memetakan bagaimana transformasi karakter beroperasi secara ilmiah dan syar'i. |
+| **Keputusan Utama** | 1. Menetapkan `GROWTH_MECHANISM` sebagai Pilar Substantif Kedua dalam subsistem Model Inti (`01_FUNDAMENTAL/03_CORE_MODEL/03_GROWTH_MECHANISM/`).<br>2. Mengkodifikasikan **Siklus Lima Stasiun Transformasi Batin** (Waqi'ah ➔ Yaqzhoh ➔ Mujahadah ➔ Tawashi ➔ Malakah) sebagai mesin inti penggerak seluruh program pengasuhan di lingkungan asrama pesantren.<br>3. Mengharamkan penjatuhan sanksi punitif-retributif yang tidak memfasilitasi insight moral, restitusi bermartabat, dan muhasabah dialogis.<br>4. Mewajibkan seluruh instrumen pembinaan dan asesmen santri di lapisan `02_IMPLEMENTATION` dan `03_OPERATIONAL` mengadopsi prinsip internalisasi motivasi mandiri (*Self-Determination Theory*) dan *Malakah Rasikhah*. |
+| **Konsekuensi Positif** | - Menghapuskan fenomena kemunafikan ganda dan *rebound behavior* pasca-kelulusan santri.<br>- Membina hubungan kasih sayang dan saling percaya antara musyrif dan santri (*In Loco Parentis*).<br>- Mempercepat terbentuknya regulasi diri mandiri berbasis kesadaran iman dan muraqabatullah.<br>- Menyelaraskan doktrin *tazkiyatun nufus* salaf dengan neurosains kebiasaan modern. |
+| **Konsekuensi Negatif & Mitigasi** | Menuntut kesabaran dan keterampilan konseling yang lebih tinggi dari musyrif kamar.<br>*Mitigasi*: Mengadakan sertifikasi pelatihan rutin teknik dialog Yaqzhoh dan restitusi bermartabat bagi seluruh musyrif baru. |
 
 ---
 

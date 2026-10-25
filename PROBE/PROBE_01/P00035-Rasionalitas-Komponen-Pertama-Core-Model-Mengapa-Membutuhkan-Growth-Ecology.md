@@ -174,44 +174,12 @@ Pesantren dinyatakan memenuhi syarat akreditasi *Growth Ecology* jika meraih sko
 
 Berikut adalah bagan alur integrasi ekosistem asrama dalam arsitektur `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/`:
 
-```text
-┌───────────────────────────────────────────────────────────────────────────────┐
-│                 ARSITEKTUR LINGKUNGAN TUMBUH (GROWTH ECOLOGY)                 │
-├───────────────────────────────────────────────────────────────────────────────┤
-│                                                                               │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 1. EKOLOGI FISIK-SPASIAL (Physical-Spatial Dimension)                 │   │
-│   │    - De-densification (Maks. 8-12 santri per kamar tidur)             │   │
-│   │    - Ventilasi Silang Alami & Pencahayaan Matahari Sehat              │   │
-│   │    - Rasio Toilet Sanitasi Manusiawi (1 Toilet : 6-8 Santri)          │   │
-│   │    - Eliminasi Cacat CPTED (Zero Blindspots pada Lorong Asrama)        │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 2. EKOLOGI BIOLOGIS-SIRKADIAN (Biological-Circadian Rhythm)           │   │
-│   │    - Restorative Sleep Windows (Jam Tidur Wajib 21.30 s/d 04.00)      │   │
-│   │    - Sunnah Qailulah (Istirahat Siang 20-30 Menit)                    │   │
-│   │    - Kecukupan Hidrasi Air Bersih & Asupan Nutrisi Otak Berimbang     │   │
-│   │    - Penurunan Kadar Kortisol Menuju Homeostasis Neurobiologis        │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│   ┌───────────────────────────────────────────────────────────────────────┐   │
-│   │ 3. EKOLOGI PSIKOSOSIAL & ADAB (Psychosocial Adab Climate)             │   │
-│   │    - Iklim Aman Bebas Perundungan (Psychological Safety)              │   │
-│   │    - Keteladanan Qudwah Musyrif Kamar (Firm & Kind Residential Life)   │   │
-│   │    - Penguatan Norma Positif Ukhuwah & Adab Saling Memuliakan         │   │
-│   │    - Perlindungan Teritori & Privasi Barang Milik Santri              │   │
-│   └───────────────────────────────────┬───────────────────────────────────┘   │
-│                                       │                                       │
-│                                       ▼                                       │
-│ ┌───────────────────────────────────────────────────────────────────────────┐ │
-│ │ HASIL EKOSISTEMIK: FITRAH MEKAR SECARA ALAMI (THRIVING SANTRI ECOSYSTEM)  │ │
-│ │ Hafalan Al-Qur'an Kokoh, Emosi Stabil, dan Adab Membatin Tanpa Paksaan    │ │
-│ └───────────────────────────────────────────────────────────────────────────┘ │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
+| Dimensi Lingkungan Tumbuh (*Growth Ecology*) | Parameter Standar Rekayasa Arsitektural | Dampak Psikospiritual & Neurobiologis Santri |
+|---|---|---|
+| **1. Ekologi Fisik-Spasial (*Physical-Spatial*)** | - *De-densification* (Maksimal 8–12 santri per kamar tidur)<br>- Ventilasi silang alami & pencahayaan matahari sehat<br>- Rasio sanitasi manusiawi (1 toilet : 6–8 santri)<br>- Eliminasi cacat CPTED (*zero blindspots* pada seluruh lorong asrama) | Mencegah teritorial agresi, menurunkan klaustrofobia kamar, dan menghilangkan arena rawan perundungan. |
+| **2. Ekologi Biologis-Sirkadian (*Circadian Rhythm*)** | - *Restorative Sleep Windows* (Tidur wajib 21.30 s/d 04.00)<br>- Sunnah *qailulah* (Istirahat siang 20–30 menit)<br>- Kecukupan hidrasi air bersih & asupan nutrisi otak seimbang<br>- Penurunan kadar kortisol menuju homeostasis neurobiologis | Menjaga fungsi optimal *Prefrontal Cortex* (PFC), menstabilkan suasana hati, dan memfasilitasi konsolidasi memori hafalan Al-Qur'an. |
+| **3. Ekologi Psikososial & Adab (*Psychosocial Climate*)** | - Iklim aman bebas perundungan (*psychological safety*)<br>- Keteladanan *qudwah* musyrif kamar (*firm and kind residential life*)<br>- Penguatan norma ukhuwah & adab saling memuliakan<br>- Perlindungan teritori & privasi barang milik santri | Memupuk rasa memiliki (*belongingness*), menumbuhkan benteng batin (*al-wazi' ad-dakhili*), dan menguatkan ukhuwah Islamiyyah. |
+| **Hasil Ekosistemik: Fitrah Mekar Alami** | **Ekosistem Santri Bertumbuh Subur (*Thriving Santri Ecosystem*)** | **Hafalan Al-Qur'an kokoh, emosi santri stabil, kemandirian matang, dan adab membatin tanpa paksaan.** |
 
 Diagram dependensi alur sistem menunjukkan bagaimana pilar *Growth Ecology* menjadi prasyarat mutlak bagi pilar-pilar pemodelan berikutnya di dalam repositori TUMBUH v2.0.0:
 
@@ -285,40 +253,21 @@ Guna mewujudkan ekosistem asrama yang kondusif, manajemen pesantren wajib mengek
 
 ## 10. Architectural Decision Record (ADR-PROBE-0035)
 
-```text
-================================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0035
-================================================================================
-Judul: Peletakan Growth Ecology sebagai Pilar Pertama Core Model TUMBUH v2.0.0
-Status: APPROVED & LOCKED
-Tanggal: 2026-10-25
-Pengambil Keputusan: Dewan Arsitektur Repositori TUMBUH v2.0.0
+| Parameter Metadata ADR | Ketetapan Formal Sistem |
+|---|---|
+| **ID Keputusan** | `ADR-PROBE-0035` |
+| **Judul Keputusan** | Peletakan Growth Ecology sebagai Pilar Pertama Core Model TUMBUH v2.0.0 |
+| **Status Konstitusional** | `APPROVED & IMMUTABLE BASELINE` |
+| **Tanggal Efektif** | 2026-10-25 |
+| **Domain Terdampak** | `01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/` |
+| **Pengambil Keputusan** | Dewan Arsitektur Repositori & Konsil Epistemik TUMBUH v2.0.0 |
 
-KONTEKS:
-Banyak kegagalan pembinaan karakter santri di asrama berakar bukan pada ketiadaan
-doktrin nilai, melainkan pada kebobrokan lingkungan fisik (kamar tidur sesak,
-sanitasi mampet, kekurangan tidur kronis, dan sudut mati yang memicu perundungan).
-Manajemen pesantren cenderung menyalahkan kelemahan moral santri, padahal sistem
-menempatkan mereka di dalam ekosistem fisik yang memicu stres biologis ekstrem.
-
-KEPUTUSAN:
-1. Menetapkan GROWTH ECOLOGY sebagai pilar substantif nomor wahid dalam subsistem
-   Model Inti (01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/).
-2. Mewajibkan seluruh implementasi kelembagaan pesantren TUMBUH memenuhi Standar
-   Kelayakan Ekologis (rasio kamar tidur, kecukupan toilet, dan proteksi tidur).
-3. Melarang perumusan kurikulum adab yang terlepas dari audit fasilitas fisik asrama.
-
-KONSEKUENSI POSITIF:
-- Menghapuskan fenomena victim blaming terhadap santri yang tertekan oleh ruang.
-- Menurunkan angka perkelahian fisik dan perundungan kamar secara drastis (> 70%).
-- Menstabilkan fungsi Prefrontal Cortex santri sehingga hafalan Al-Qur'an optimal.
-- Membina hubungan asatidz-santri yang bermartabat di atas landasan keadilan fisik.
-
-KONSEKUENSI NEGATIF & MITIGASI:
-- Membutuhkan komitmen anggaran yayasan untuk membenahi rasio fasilitas fisik.
-  Mitigasi: Mengurangi kuota penerimaan santri baru hingga rasio kelayakan tercapai.
-================================================================================
-```
+| Dimensi Arsitektural | Deskripsi Rincian Ketetapan Sistem |
+|---|---|
+| **Konteks Masalah** | Banyak kegagalan pembinaan karakter santri di asrama berakar bukan pada ketiadaan doktrin nilai, melainkan pada kebobrokan lingkungan fisik (kamar tidur sesak, sanitasi mampet, kekurangan tidur kronis, dan sudut mati yang memicu perundungan). Manajemen pesantren cenderung menyalahkan kelemahan moral santri (*victim blaming*), padahal sistem menempatkan mereka di dalam ekosistem fisik yang memicu stres biologis ekstrem. |
+| **Keputusan Utama** | 1. Menetapkan `GROWTH_ECOLOGY` sebagai pilar substantif pertama dalam subsistem Model Inti (`01_FUNDAMENTAL/03_CORE_MODEL/02_GROWTH_ECOLOGY/`).<br>2. Mewajibkan seluruh implementasi kelembagaan pesantren TUMBUH memenuhi Standar Kelayakan Ekologis (rasio kamar tidur, kecukupan toilet, dan proteksi tidur).<br>3. Melarang perumusan kurikulum adab yang terlepas dari audit fasilitas fisik asrama. |
+| **Konsekuensi Positif** | - Menghapuskan fenomena *victim blaming* terhadap santri yang tertekan oleh ruang sesak.<br>- Menurunkan angka perkelahian fisik dan perundungan kamar secara drastis (> 70%).<br>- Menstabilkan fungsi Prefrontal Cortex santri sehingga hafalan Al-Qur'an dan regulasi diri optimal.<br>- Membina hubungan asatidz-santri yang bermartabat di atas landasan keadilan fasilitas fisik. |
+| **Konsekuensi Negatif & Mitigasi** | Membutuhkan komitmen anggaran yayasan untuk membenahi rasio fasilitas fisik.<br>*Mitigasi*: Menyesuaikan kuota penerimaan santri baru hingga rasio kelayakan sarana tercapai. |
 
 ---
 
