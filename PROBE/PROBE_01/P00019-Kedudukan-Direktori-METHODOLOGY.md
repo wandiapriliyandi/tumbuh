@@ -7,7 +7,7 @@
 - **ID Penyelidikan**: `P00019`
 - **Klasifikasi Taksonomi**: `METAGOVERNANCE / METHODOLOGICAL BOUNDARY / SEPARATION OF PROCESS AND SUBSTANCE`
 - **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
-- **Penanggung Jawab Dokumen**: Majelis Metodologi & Dewan Tata Kelola Repositori TUMBUH
+- **Penanggung Jawab Dokumen**: Tim Peneliti Metodologi Desain Sistem TUMBUH
 - **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
 - **Keterlacakan Silsilah (Lineage Traceability)**: Menjawab kesinambungan dari [`P00018 - Posisi Pustaka REFERENCES`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md) dan menjadi landasan dialektis bagi [`P00020 - Batas Folder source`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00020-Batas-Folder-source.md).
 - **Relasi Lintas Lapisan**:

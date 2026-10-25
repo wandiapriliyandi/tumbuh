@@ -12,7 +12,7 @@
 
 PROBE 01 adalah ruang penyelidikan mengenai **fondasi metodologis, meta-arsitektur, dan tata kelola repositori Branch v2.0.0**.
 
-Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) dan [Skill `pakar-probe-inquiry-tumbuh`](file:///c:/xampp/htdocs/tumbuh/.agents/skills/pakar-probe-inquiry-tumbuh/SKILL.md), PROBE 01 berfokus murni pada arsitektur sistem dan **mengharamkan polusi studi kasus santri/kamar asrama** yang merupakan hak milik sah klaster substansi tarbiyah (`PROBE_02` s/d `PROBE_07`).
+Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) dan [Skill `metodologi inkuiri TUMBUH`](file:///c:/xampp/htdocs/tumbuh/.agents/skills/metodologi inkuiri TUMBUH/SKILL.md), PROBE 01 berfokus murni pada arsitektur sistem dan **mengharamkan polusi studi kasus santri/kamar asrama** yang merupakan hak milik sah klaster substansi tarbiyah (`PROBE_02` s/d `PROBE_07`).
 
 ---
 

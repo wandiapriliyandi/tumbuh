@@ -512,7 +512,7 @@ Penetapan logika transisi ini memiliki implikasi yuridis dan metodologis yang me
 
 
 ### 11.3 Protokol Pengawalan Integritas Model Inti (The Core Model Integrity Review Protocol)
-Dewan Epistemik TUMBUH menetapkan siklus pengawalan integritas tahunan untuk memastikan Core Model tidak mengalami distorsi di lapangan:
+Majelis Pengasuh dan Dewan Asatidz Pesantren menetapkan siklus pengawalan integritas tahunan untuk memastikan Core Model tidak mengalami distorsi di lapangan:
 1. **Audit Empiris Relevansi Kapasitas (Capacity Relevance Audit)**: Mengevaluasi apakah 8 Kapasitas Inti masih selaras dengan tantangan riil yang dihadapi santri di era transformasi digital kontemporer.
 2. **Uji Validitas Ekologis Asrama (Ecological Fidelity Test)**: Memeriksa secara berkala apakah standar rasio musyrif-santri (1:20), jam tidur 8 jam, dan sanitasi asrama benar-benar diterapkan di lapangan ataukah sekadar laporan manipulatif di atas kertas.
 3. **Penyempurnaan Berkelanjutan (*Continuous Model Refinement*)**: Core Model dirancang sebagai organisme pembelajar yang terbuka terhadap penyempurnaan berdasarkan temuan-temuan riset empiris baru di lapangan tanpa merusak prinsip-prinsip inti fondasi.

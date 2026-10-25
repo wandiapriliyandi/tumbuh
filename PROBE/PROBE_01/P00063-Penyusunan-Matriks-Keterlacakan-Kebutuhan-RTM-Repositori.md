@@ -130,7 +130,7 @@ Matriks RTM Repositori TUMBUH distandarisasikan ke dalam format lima kolom Markd
 | **FN-03: Pencurian Uang di Lemari Santri** | [`P00050`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00050-Rekayasa-Matriks-Komparatif-Multidimensi-Mengubah-Data-Abstrak.md) (ADR-PROBE-0050: Multi-Tier Matrix) | [`01_FUNDAMENTAL/ADAB`](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/) (Hifzh al-Mal & Amanah Ukhuwah) | [`02_IMPLEMENTATION/RESTORATIVE`](file:///c:/xampp/htdocs/tumbuh/02_IMPLEMENTATION/) (Tier 3: Lingkaran Restitusi Syar'i) | [`03_OPERATIONAL/FORM-008`](file:///c:/xampp/htdocs/tumbuh/03_OPERATIONAL/) (Akad Ganti Rugi Kasih Sayang) | **COMPLETE (100%)** |
 
 ### 6.2. Dekonstruksi Masalah Berdasarkan Pendeteksian Baris Bolong
-Ketika tim penjamin mutu repositori menjalankan pemindaian RTM:
+Ketika tim penjamin mutu pesantren menjalankan pemindaian RTM:
 1. Jika kolom *Operational* kosong sementara kolom *PROBE* terisi: ini menandakan **Inkuiri Mandul (*Unimplemented Inquiry*)**. Tindakan: tugaskan tim pengasuhan untuk menyusun SOP dalam 7 hari kerja.
 2. Jika kolom *Operational* terisi sementara kolom *PROBE* dan *Fundamental* kosong: ini menandakan **Aturan Ilegal Yatim Piatu (*Orphaned Stray Rule*)**. Tindakan: bekukan aturan tersebut seketika dan periksa motif pembuatnya.
 

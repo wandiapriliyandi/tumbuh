@@ -7,7 +7,7 @@
 - **ID Penyelidikan**: `P00020`
 - **Klasifikasi Taksonomi**: `METAGOVERNANCE / DATA ARCHITECTURE / INGESTION BOUNDARY & SOURCE OF TRUTH INTEGRITY`
 - **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
-- **Penanggung Jawab Dokumen**: Dewan Tata Kelola Data & Majelis Audit Repositori TUMBUH
+- **Penanggung Jawab Dokumen**: Majelis Pengasuh dan Tim Peneliti Desain Sistem Pesantren
 - **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
 - **Keterlacakan Silsilah (Lineage Traceability)**: Menjawab kesinambungan dari [`P00019 - Kedudukan Direktori METHODOLOGY`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md) dan menjadi landasan dialektis bagi [`P00021 - Tata Kelola Silsilah Keputusan ADR`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Tata-Kelola-Silsilah-Keputusan-ADR.md).
 - **Relasi Lintas Lapisan**:

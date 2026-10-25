@@ -358,7 +358,7 @@ Ketika ditemukan indikasi penembusan guardrail (misal: musyrif sedang bersiap me
 - Korban segera diamankan ke ruang konseling yang aman; segala bentuk sanksi fisik dibatalkan secara otomatis demi hukum.
 
 ### Tahap 3: Investigasi Akar Masalah Berbasis FBA (*Systemic Root-Cause Investigation*)
-Tim Penjamin Mutu Repositori melakukan investigasi FBA objektif dalam waktu 1x24 jam:
+Tim Penjamin Mutu Pesantren melakukan investigasi FBA objektif dalam waktu 1x24 jam:
 - Mengapa musyrif tersebut terdorong menggunakan kekerasan fisik? Apakah musyrif mengalami kelelahan kronis (*burnout*), ketiadaan modul mediasi, atau tekanan target dari pimpinan?
 - Mengapa santri melanggar aturan? Apakah karena kerusakan fasilitas sanitasi atau kelelahan sirkadian?
 - Tim menyusun Berita Acara Pelanggaran Guardrail yang bebas dari vonis moral sepihak.
@@ -376,7 +376,7 @@ print("Wrote scratch_p52_part3.py successfully.")
 """Part 4 for P00052: Bab 10, Bab 11, Bab 12, Bab 13"""
 
 ### 9.5. Lembar Investigasi Penembusan Batas (LIPB) Tim Penjamin Mutu
-Ketika terjadi insiden penembusan guardrail di lapangan asrama, Tim Penjamin Mutu Repositori wajib mengisi **Lembar Investigasi Penembusan Batas (LIPB)** dengan format berikut:
+Ketika terjadi insiden penembusan guardrail di lapangan asrama, Tim Penjamin Mutu Pesantren wajib mengisi **Lembar Investigasi Penembusan Batas (LIPB)** dengan format berikut:
 
 | Parameter Investigasi | Pertanyaan Uji Kepatuhan Sistem | Dokumen Bukti yang Wajib Dilampirkan |
 | :--- | :--- | :--- |
@@ -406,7 +406,7 @@ Standardisasi metodologis formulasi Guardrails Repositori dibakukan secara resmi
 | **Identitas ADR** | `ADR-PROBE-0052: Pembakuan Formulasi Sepuluh Guardrails Tata Kelola Repositori (Bagian 11 PROBE)` |
 | **Status Keputusan** | Disetujui, Dikuatkan, dan Mengikat Penuh Seluruh Penulis Berkas Inkuiri Repositori TUMBUH v2.0.0 |
 | **Tanggal Keputusan** | 25 Oktober 2026 |
-| **Pemilik Otoritas** | Komite Dewan Pengarah Epistemik dan Arsitek Pertahanan Sistem Repositori TUMBUH |
+| **Pemilik Otoritas** | Majelis Pengasuh dan Tim Pengarah Tata Kelola Pesantren |
 | **Konteks & Latar Belakang** | Kebutuhan protokol kanonik untuk menyusun Bagian 11 di seluruh berkas inkuiri PROBE, guna mencegah distorsi niat baik pendidik menjadi kezaliman operasional, mengunci batas-batas negatif mutlak (Via Negativa), dan melindungi martabat fitrah santri dari kekerasan fisik dan psikologis. |
 | **Keputusan Utama (*Decision*)** | Menetapkan secara mutlak bahwa Bagian 11 seluruh berkas PROBE wajib disajikan dalam bentuk Tabel Sepuluh Guardrails Tata Kelola Repositori dengan format Tabel Markdown standar murni (0 karakter box-drawing ASCII/Unicode), memuat klausul larangan mutlak dan klausul mitigasi arsitektural wajib. |
 | **Cakupan Dampak (*Scope*)** | Berlaku wajib pada Bagian 11 seluruh berkas `PROBE/`, dokumen konstitusi `01_FUNDAMENTAL/`, standar kelembagaan `02_IMPLEMENTATION/`, seluruh instrumen kerja `03_OPERATIONAL/`, dan protokol audit `METHODOLOGY/`. |
@@ -428,7 +428,7 @@ Standardisasi metodologis formulasi Guardrails Repositori dibakukan secara resmi
 Penetapan monograf P00052 ini membawa konsekuensi operasional menyeluruh bagi repositori TUMBUH v2.0.0:
 1. **Standarisasi Bagian 11 Seluruh Berkas PROBE**: Seluruh berkas inkuiri kanonik mulai dari `P00001` hingga `P00120` dan seterusnya wajib memuat Tabel Sepuluh Guardrails Tata Kelola Repositori yang relevan dengan topik berkas masing-masing.
 2. **Klausul Pembatalan Otomatis (Null and Void Clause)**: Setiap draf kebijakan, tata tertib santri, atau SOP musyrif di `03_OPERATIONAL/` yang terbukti melanggar satu saja dari sepuluh guardrails secara otomatis berstatus batal demi hukum dan dilarang diterapkan di lapangan.
-3. **Audit Kepatuhan Berkelanjutan**: Tim Penjamin Mutu Repositori melakukan audit kepatuhan tahunan terhadap implementasi guardrails di seluruh unit asrama percontohan.
+3. **Audit Kepatuhan Berkelanjutan**: Tim Penjamin Mutu Pesantren melakukan audit kepatuhan tahunan terhadap implementasi guardrails di seluruh unit asrama percontohan.
 
 ### 11.2. Sepuluh Guardrails Tata Kelola Repositori TUMBUH v2.0.0
 Tabel berikut merangkum konstitusi sepuluh rambu pembatas negatif (*Ten Architectural Guardrails*) yang wajib ditegakkan di seluruh ekosistem:

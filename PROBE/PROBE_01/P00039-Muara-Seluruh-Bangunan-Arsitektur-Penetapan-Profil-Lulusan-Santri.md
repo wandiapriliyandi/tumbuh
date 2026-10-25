@@ -355,7 +355,7 @@ Guna membentengi martabat kelulusan santri dari bahaya komersialisasi dan reduks
 7. **Haram Mewisuda Santri Tanpa Uji Pengabdian Masyarakat Nyata (*Khidmah Jam'iyyah*)**: Dilarang mewisuda santri yang tidak pernah diterjunkan langsung dalam program khidmah masyarakat di desa binaan minimal selama 30 hari.
    - *Klausul Mitigasi*: Program Khidmah Jam'iyyah menjadi mata pelajaran wajib prasyarat wisuda dengan bobot SKS kelulusan resmi.
 8. **Haram Menjual Ijazah atau Syahadah Adab Demi Keuntungan Finansial**: Dilarang keras meluluskan santri karena desakan uang sumbangan donatur atau status sosial orang tua.
-   - *Klausul Mitigasi*: Seluruh berkas portofolio sidang kelulusan diaudit secara independen oleh Tim Penjamin Mutu Repositori TUMBUH.
+   - *Klausul Mitigasi*: Seluruh berkas portofolio sidang kelulusan diaudit secara independen oleh Tim Penjamin Mutu Pendidikan Pesantren.
 9. **Haram Menghilangkan Hak Pendampingan Inkubasi bagi Santri Tertunda**: Dilarang menelantarkan santri yang tertunda wisudanya tanpa pendampingan musyrif senior yang berdedikasi.
    - *Klausul Mitigasi*: Santri program inkubasi berhak mendapatkan pembimbing khusus dan program terstruktur tanpa pungutan biaya SPP tambahan yang memberatkan.
 10. **Haram Memutus Tali Hubungan Silaturahmi dan Pembinaan Alumni**: Dilarang lembaga berlepas tangan terhadap pembinaan alumni setelah wisuda selesai; ikatan ukhuwah dan mentoring tarbiyah wajib berlanjut seumur hidup.

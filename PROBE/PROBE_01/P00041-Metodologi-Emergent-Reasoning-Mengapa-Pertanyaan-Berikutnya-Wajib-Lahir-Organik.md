@@ -285,7 +285,7 @@ Bagaimanakah dewan pengembang repositori TUMBUH memastikan bahwa sebuah pertanya
 Apabila dalam proses penulisan sebuah berkas inkuiri terdeteksi adanya penyimpangan (*inquiry drift*)—misalnya pembahasan meluas ke ranah perdebatan politik praktis atau detail fikih khilafiyyah yang tidak produktif—mekanisme mitigasi otomatis segera diaktifkan:
 1. **The Epistemic Anchor Lockdown**: Penulis diwajibkan kembali membaca tabel *Metadata & Identitas Dokumen* di Bab 1, khususnya kolom *Object of Inquiry* dan *TUMBUH Question*. Setiap paragraf yang tidak berkontribusi langsung dalam menjawab *TUMBUH Question* wajib dihapus tanpa kompromi.
 2. **Re-centering via Maqashid**: Penulis mengkalibrasi ulang argumennya dengan mengaitkannya kembali pada lima tujuan pokok syariat (*al-kulliyyat al-khams*): bagaimana diskursus ini menyelamatkan agama, jiwa, akal, keturunan, atau kehormatan santri?
-3. **Audit Inter-Rater**: Draf naskah diperiksa secara independen oleh dua orang auditor kualitas (menggunakan protokol skill `pakar-kritikus-dan-auditor-kualitas`) untuk memastikan bahwa seluruh argumen tetap berada dalam koridor rekayasa sistem TUMBUH v2.0.0.
+3. **Audit Inter-Rater**: Draf naskah diperiksa secara independen oleh dua orang auditor kualitas (menggunakan protokol skill rubrik audit mutu metodologis) untuk memastikan bahwa seluruh argumen tetap berada dalam koridor rekayasa sistem TUMBUH v2.0.0.
 
 open('scratch_p41_part3.py', 'w', encoding='utf-8').write(part3)
 print("P41 Part 3 written, words:", len(part3.split()))

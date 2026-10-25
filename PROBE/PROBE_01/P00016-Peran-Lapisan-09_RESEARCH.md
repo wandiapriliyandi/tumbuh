@@ -312,7 +312,7 @@ Setiap gagasan eksploratif baru yang lahir di lingkungan TUMBUH wajib menempuh l
    Peneliti menyusun dokumen pengajuan inkuiri ke direktori `PROBE/`. Di dalam naskah PROBE, temuan riset tersebut dikonfrontasi secara tajam dengan khazanah turats klasik, realisme kritis, dan kesiapan ekologis asrama. Pada tahap ini, seluruh asumsi peneliti diuji dan dibedah oleh sesama pakar dan praktisi lapangan.
 
 5. **Tahap 5: Ratifikasi Kebijakan Sistemik (Systemic Ratification via ADR)**:
-   Hanya jika naskah PROBE menghasilkan kesimpulan sintesis (*al-jam'u wat-taufiq*) yang matang dan disepakati oleh Dewan Epistemik, barulah diterbitkan *Architectural Decision Record* (ADR). Berdasarkan mandat ADR inilah, tim pengembang diizinkan memperbarui dokumen kurikulum di `01_FUNDAMENTAL/`, regulasi yayasan di `02_IMPLEMENTATION/`, atau SOP piket asrama di `03_OPERATIONAL/`.
+   Hanya jika naskah PROBE menghasilkan kesimpulan sintesis (*al-jam'u wat-taufiq*) yang matang dan disepakati oleh Majelis Pengasuh Pesantren, barulah diterbitkan *Architectural Decision Record* (ADR). Berdasarkan mandat ADR inilah, tim pengembang diizinkan memperbarui dokumen kurikulum di `01_FUNDAMENTAL/`, regulasi yayasan di `02_IMPLEMENTATION/`, atau SOP piket asrama di `03_OPERATIONAL/`.
 
 ---
 

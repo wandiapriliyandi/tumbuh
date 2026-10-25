@@ -352,7 +352,7 @@ Ketetapan metodologis Al-Jam'u wat-Taufiq dibakukan secara arsitektural melalui 
 | **Identitas ADR** | `ADR-PROBE-0048: Standardisasi Metodologi Al-Jam'u wat-Taufiq Dua Sayap Kebenaran` |
 | **Status Keputusan** | Disetujui, Dikuatkan, dan Mengikat Penuh Seluruh Pengembang Repositori TUMBUH v2.0.0 |
 | **Tanggal Keputusan** | 25 Oktober 2026 |
-| **Pemilik Otoritas** | Komite Dewan Pengarah Epistemik dan Arsitek Inti Repositori TUMBUH |
+| **Pemilik Otoritas** | Majelis Pengasuh dan Dewan Asatidz Pesantren |
 | **Konteks & Latar Belakang** | Kebutuhan protokol kanonik untuk menyusun Bagian 6 di seluruh berkas inkuiri PROBE, guna mencegah benturan antara teks syariat dengan sains empiris modern, serta mengeliminasi praktik cocoklogi apologetik. |
 | **Keputusan Utama (*Decision*)** | Menetapkan secara mutlak bahwa Bagian 6 seluruh berkas PROBE wajib menerapkan Protokol Harmonisasi Tiga Tingkat: (1) Otoritas Onto-Aksiologis Wahyu Shahih, (2) Fungsi Kausalitas Sains Empiris (*Bayan Kaifiyyat al-Asbab*), dan (3) Demarkasi Dialektis Tsawabit vs Mutaghayyirat. |
 | **Cakupan Dampak (*Scope*)** | Berlaku wajib pada Bagian 6 berkas `PROBE/`, dokumen fondasi filosofis `01_FUNDAMENTAL/`, standar kurikulum adab `02_IMPLEMENTATION/`, serta pedoman operasional pengasuhan `03_OPERATIONAL/`. |

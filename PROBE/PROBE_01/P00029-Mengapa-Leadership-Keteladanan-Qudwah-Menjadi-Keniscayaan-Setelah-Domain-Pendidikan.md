@@ -446,7 +446,7 @@ TUMBUH menetapkan instrumen audit kepemimpinan asrama untuk memvalidasi integrit
 
 
 ### 9.4 Protokol Tata Kelola Dewan Pengasuhan: Mitigasi Bias Egosentrisme Musyrif
-Untuk memastikan para musyrif tidak terjebak ke dalam penyalahgunaan wewenang personal, Dewan Tata Kelola TUMBUH menetapkan protokol evaluasi sejawat (*Peer Review for Residential Mentors*):
+Untuk memastikan para musyrif tidak terjebak ke dalam penyalahgunaan wewenang personal, Majelis Pengasuh Pesantren menetapkan protokol evaluasi sejawat (*Peer Review for Residential Mentors*):
 1. **Musyawarah Pekanan Antar-Musyrif**: Setiap akhir pekan, seluruh musyrif berkumpul bukan untuk saling menyalahkan santri, melainkan untuk mengevaluasi regulasi emosi diri mereka masing-masing saat menghadapi dinamika asrama.
 2. **Rotasi Pendampingan Kasus Rumit**: Apabila seorang musyrif merasa mulai mengalami kejengkelan pribadi atau antipati emosional terhadap santri tertentu, penanganan kasus santri tersebut wajib dialihkan sementara kepada musyrif pendamping lain (*co-musyrif*) untuk menghindari bias subjektivitas hukuman.
 3. **Penyediaan Layanan Konseling untuk Musyrif**: Lembaga wajib menyediakan layanan konseling dan dekompresi stres mental bagi musyrif. Lembaga mengakui bahwa seorang musyrif yang mengalami kelelahan mental (*burnout*) tidak akan mampu memberikan keteladanan adab yang sehat kepada para santri.
@@ -462,7 +462,7 @@ Berikut adalah ketetapan arsitektural resmi yang mengunci posisi Domain 06 dalam
 | **Nomor Keputusan** | ADR-PROBE-0029 |
 | **Judul Keputusan** | Penempatan Mutlak Domain 06 (Leadership & Governance) Pasca-Domain 05 (Education & Ta'dib) |
 | **Status Keputusan** | Disetujui dan Dipermanenkan (*Accepted & Canonical*) |
-| **Pengambil Keputusan** | Tim Pengarah Arsitektur Tata Kelola & Dewan Pakar Fondasi TUMBUH |
+| **Pengambil Keputusan** | Majelis Pengasuh dan Dewan Pendidik Pesantren |
 | **Konteks Masalah** | Kecenderungan umum pesantren untuk menata struktur kekuasaan direksi, dewan yayasan, dan otoritas kiai mendahului perumusan hakikat pendidikan adab, yang berakibat pada subversi kurikulum demi kepentingan melanggengkan kekuasaan feodal dan komersialisasi lembaga. |
 | **Keputusan Diambil** | Menetapkan secara permanen bahwa Domain 06 (Leadership & Governance) wajib berada di urutan keenam Fondasi TUMBUH, bersandar secara mutlak pada Domain 05 (Hakikat Pendidikan) dan menjadi prasyarat mutlak sebelum merumuskan Domain 07 (Dinamika Perubahan). Kepemimpinan didefinisikan sebagai fungsi pelayanan profetik (*qudwah-servant model*) yang tunduk pada hukum ta'dib. |
 | **Dampak Positif** | 1. Mengeliminasi mutlak praktik feodalisme, kultus figur pimpinan, dan eksploitasi santri di bawah dalih tabarruk.<br>2. Menjamin transparansi, akuntabilitas musyawarah, dan meritokrasi dalam penunjukan pimpinan dan musyrif.<br>3. Menjadikan figur pemimpin sebagai kurikulum hidup yang memperkuat efikasi penanaman adab santri. |

@@ -2,7 +2,7 @@
 
 - **Lokasi Dokumen:** `PROBE/PROBE_01/RENCANA_REKONSTRUKSI_PROBE_01.md`
 - **Status Dokumen:** Master Blueprint & Roadmap Kanonik Resmi
-- **Otoritas Acuan:** [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) & [Skill `pakar-probe-inquiry-tumbuh`](file:///c:/xampp/htdocs/tumbuh/.agents/skills/pakar-probe-inquiry-tumbuh/SKILL.md)
+- **Otoritas Acuan:** [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.md) & [Skill `metodologi inkuiri TUMBUH`](file:///c:/xampp/htdocs/tumbuh/.agents/skills/metodologi inkuiri TUMBUH/SKILL.md)
 - **Target Volume:** Tepat **120 Berkas Kanonik** (`P00000` s/d `P00119`), masing-masing berbobot 400–500+ baris substantif
 - **Standar Format:** Struktur Baku 13 Bagian Jurnal Riset Desain Sistem (*Applied System Design Journal Paper*)
 

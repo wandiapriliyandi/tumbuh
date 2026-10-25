@@ -7,7 +7,7 @@
 - **ID Penyelidikan**: `P00022`
 - **Klasifikasi Taksonomi**: `METAGOVERNANCE / CONCEPTUAL ARCHITECTURE / FOUNDATION GATEWAY & FIRST PRINCIPLES THINKING`
 - **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
-- **Penanggung Jawab Dokumen**: Dewan Tata Kelola Data & Majelis Audit Repositori TUMBUH
+- **Penanggung Jawab Dokumen**: Majelis Pengasuh dan Tim Peneliti Desain Sistem Pesantren
 - **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
 - **Keterlacakan Silsilah (Lineage Traceability)**:
   - Membuka secara resmi **PILAR 3: Logika Penataan Arsitektur Konseptual TUMBUH (`P00022`–`P00039`)** setelah tuntasnya penyegelan benteng repositori pada [`P00021`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Protokol-Pertahanan-Lapisan-Repositori.md).
@@ -298,7 +298,7 @@ Untuk memastikan bahwa seluruh modul kurikulum, pedoman pengasuhan, dan instrume
 | **Tahap 1** | **Ekstraksi Aksioma Turats** | *Axiomatic Extraction:* Menggali dalil Al-Qur'an, Sunnah Shahihah, dan literatur karya salafus shalih mu'tabarah. |
 | **Tahap 2** | **Sintesis Multidisipliner Sains Perkembangan** | Mengintegrasikan neurosains kognitif, *Self-Determination Theory* (SDT), dan psikologi remaja berbasis fitrah. |
 | **Tahap 3** | **Uji Dialektika Kritis di Klaster PROBE** | Membedah potensi celah logika, ambiguitas semantik, inquiry drift, dan bias penerapan lapangan. |
-| **Tahap 4** | **Deliberasi Pleno Konsil Masyayikh & Dewan Pakar** | Sidang musyawarah ulama syar'i dan arsitek sistem guna mencapai konsensus keilmuan yang kokoh. |
+| **Tahap 4** | **Musyawarah Pleno Masyayikh dan Dewan Asatidz** | Sidang musyawarah ulama syar'i dan arsitek sistem guna mencapai konsensus keilmuan yang kokoh. |
 | **Tahap 5** | **Penguncian Kanonik ADR & Sertifikasi FAAC** | Penerbitan segel kriptografis GPG, penandaan status resmi kanonik *Approved & Permanently Locked*. |
 
 ### 9.1. Tahap 1: Ekstraksi Aksioma Turats (Axiomatic Extraction)
@@ -310,7 +310,7 @@ Aksioma turats disintesiskan secara kritis dengan literatur sains kontemporer: n
 ### 9.3. Tahap 3: Uji Dialektika Kritis di Klaster PROBE
 Naskah fondasi diuji secara tajam di dalam wahana inkuiri `PROBE/` (khususnya rangkaian berkas `P00022` hingga `P00032` pada `PROBE_01`) untuk menyingkap potensi bias asumsi, cacat deduksi logika, dan kerentanan penerapan asrama 24 jam.
 
-### 9.4. Tahap 4: Deliberasi Pleno Konsil Masyayikh & Dewan Pakar
+### 9.4. Tahap 4: Musyawarah Pleno Masyayikh dan Dewan Asatidz
 Draf final dipresentasikan dalam sidang pleno tertutup di hadapan Konsil Masyayikh sepuh, pakar pendidikan Islam, dan perwakilan pengasuh asrama senior. Musyawarah syura membedah aspek maslahat dan mafsadat secara menyeluruh hingga tercapai mufakat aklamasi.
 
 ### 9.5. Tahap 5: Penguncian Kanonik ADR & Penerbitan Sertifikat FAAC

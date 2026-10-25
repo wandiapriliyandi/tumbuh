@@ -448,7 +448,7 @@ Berikut adalah ketetapan arsitektural resmi yang mengunci posisi Domain 08 dalam
 | **Nomor Keputusan** | ADR-PROBE-0031 |
 | **Judul Keputusan** | Penempatan Mutlak Domain 08 (Core Principles) Pasca-Domain 07 (Change Dynamics) sebagai Konstitusi Sistemik Fondasi |
 | **Status Keputusan** | Disetujui dan Dipermanenkan (*Accepted & Canonical*) |
-| **Pengambil Keputusan** | Dewan Epistemik Tertinggi & Tim Arsitektur Sistem TUMBUH v2.0.0 |
+| **Pengambil Keputusan** | Majelis Pengasuh dan Tim Perancang Sistem Pendidikan TUMBUH |
 | **Konteks Masalah** | Kecenderungan perumusan prinsip organisasi yang bersifat slogan apriori tanpa akar empiris, yang mengakibatkan prinsip mudah dikorbankan saat menghadapi benturan dinamika lapangan dan tekanan finansial. |
 | **Keputusan Diambil** | Menetapkan secara permanen bahwa Domain 08 (Core Principles) wajib berada di urutan kedelapan Fondasi TUMBUH, bersandar pada kristalisasi induktif Domain 01 s/d 07, dan bertindak sebagai filter konstitusional tak tergoyahkan sebelum merancang Domain 09 (System Architecture). Sembilan Prinsip Inti berstatus non-negotiable (*tsawabit*). |
 | **Dampak Positif** | 1. Mengunci integritas epistemik seluruh instrumen repositori dari bahaya deviasi komersialisasi dan teknokrasi.<br>2. Memberikan kepastian hukum dan panduan moral yang kokoh bagi musyrif dalam menyelesaikan dilema lapangan.<br>3. Menjamin perlindungan mutlak bagi hak-hak biologis, psikologis, dan spiritual santri sepanjang waktu. |
@@ -489,7 +489,7 @@ Penempatan Domain 08 memiliki konsekuensi konstitusional tertinggi yang memayung
 
 
 ### 11.3 Mekanisme Uji Konstitusional Internal (Internal Judicial Review Mechanism)
-Untuk mengawal agar Core Principles tidak sekadar menjadi dokumen mati di atas kertas, Dewan Epistemik TUMBUH membentuk Mahkamah Konstitusi Adab (*Majlis ash-Shidq wa al-Inshaf*):
+Untuk mengawal agar Core Principles tidak sekadar menjadi dokumen mati di atas kertas, Majelis Pengasuh dan Dewan Asatidz Pesantren membentuk Mahkamah Konstitusi Adab (*Majlis ash-Shidq wa al-Inshaf*):
 1. **Hak Pengajuan Uji Materiil**: Setiap santri, wali santri, musyrif, atau pengajar berhak mengajukan peninjauan ulang (*judicial review*) terhadap setiap pasal tata tertib asrama atau instruksi pimpinan yang dinilai bertentangan dengan Sembilan Prinsip Inti TUMBUH.
 2. **Klausul Batal Demi Konstitusi (*Null and Void Clause*)**: Apabila Mahkamah Konstitusi Adab menemukan bahwa sebuah aturan asrama (misalnya aturan razia malam atau pemotongan jatah makan) terbukti melanggar prinsip *Adh-Dhararu Yuzal* atau *Fitrah Sanctity*, maka aturan tersebut seketika dinyatakan batal demi hukum dan dilarang diterapkan.
 3. **Pemberian Reparasi Restoratif**: Lembaga wajib memberikan permohonan maaf resmi dan pemulihan hak bagi siapa pun yang sempat dirugikan oleh aturan yang dibatalkan tersebut.

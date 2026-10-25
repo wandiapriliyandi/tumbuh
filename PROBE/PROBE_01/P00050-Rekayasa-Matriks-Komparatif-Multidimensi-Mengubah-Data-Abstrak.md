@@ -403,7 +403,7 @@ Standardisasi metodologis perancangan matriks komparatif multidimensi dibakukan 
 | **Identitas ADR** | `ADR-PROBE-0050: Standardisasi Rekayasa Matriks Komparatif Multidimensi (Bagian 8 PROBE)` |
 | **Status Keputusan** | Disetujui, Dikuatkan, dan Mengikat Penuh Seluruh Pengembang Repositori TUMBUH v2.0.0 |
 | **Tanggal Keputusan** | 25 Oktober 2026 |
-| **Pemilik Otoritas** | Komite Dewan Pengarah Epistemik dan Arsitek Informasi Repositori TUMBUH |
+| **Pemilik Otoritas** | Majelis Pengasuh dan Pimpinan Lembaga Pesantren |
 | **Konteks & Latar Belakang** | Kebutuhan protokol kanonik untuk menyusun Bagian 8 di seluruh berkas inkuiri PROBE, guna mentransformasikan wacana filosofis abstrak menjadi tabel analitis berdensitas tinggi yang siap pakai, presisi, dan bebas dari ambiguitas kata. |
 | **Keputusan Utama (*Decision*)** | Menetapkan secara mutlak bahwa Bagian 8 seluruh berkas PROBE wajib disajikan dalam bentuk Matriks Komparatif Multidimensi dengan format Tabel Markdown standar murni (0 karakter box-drawing ASCII/Unicode), memenuhi prinsip ortogonalitas parameter, penjangkaran BARS, dan integrasi dalil syar'i-empiris. |
 | **Cakupan Dampak (*Scope*)** | Berlaku wajib pada Bagian 8 berkas `PROBE/`, katalog tabel di `02_IMPLEMENTATION/`, skema database di `03_OPERATIONAL/`, dan pedoman dokumentasi `METHODOLOGY/`. |

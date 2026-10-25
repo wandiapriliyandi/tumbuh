@@ -7,7 +7,7 @@
 - **ID Penyelidikan**: `P00021`
 - **Klasifikasi Taksonomi**: `METAGOVERNANCE / REPOSITORY DEFENSE ARCHITECTURE / ARCHITECTURAL FITNESS FUNCTIONS & LAYER INTEGRITY`
 - **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
-- **Penanggung Jawab Dokumen**: Dewan Tata Kelola Data & Majelis Audit Repositori TUMBUH
+- **Penanggung Jawab Dokumen**: Majelis Pengasuh dan Tim Peneliti Desain Sistem Pesantren
 - **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
 - **Keterlacakan Silsilah (Lineage Traceability)**: 
   - Menyintesiskan dan mengunci seluruh rangkaian penyelidikan pada **Pilar 2 (Stratifikasi Lapisan Repositori & Separation of Concerns)** dari [`P00010`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md) hingga [`P00020`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00020-Batas-Folder-source.md).
@@ -37,7 +37,7 @@ Monograf riset desain sistem ini membangun arsitektur pertahanan berlapis lima (
 ### 2.2. Pernyataan Masalah Epistemik (Epistemic Tension)
 Ketegangan epistemik sentral yang diselesaikan dalam monograf ini berakar pada paradoks klasik antara **fleksibilitas adaptasi operasional lapangan** di satu kutub, melawan **ketegasan preservasi integritas konstitusional sistem** di kutub lainnya:
 1. **Kutub Keleluasaan Pragmatis (Operational Drift Hazard)**: Di lingkungan pesantren berasrama yang beroperasi 24 jam dengan dinamika santri yang amat cair, pengasuh dan musyrif lapangan membutuhkan kebebasan merespons persoalan harian secara cepat. Apabila tata kelola repositori dirancang terlalu rumit dan kaku, para musyrif lapangan akan merasa terbebani, lalu memilih membuat dokumen aturan sendiri di luar sistem repositori (shadow policies). Namun, jika sistem memberikan kebebasan tanpa pagar pembatas otomatis, dokumen-dokumen operasional yang dibuat secara reaktif di asrama akan secara bertahap merembes ke hulu, mengubah makna adab secara sepihak, dan menyuntikkan sanksi-sanksi retributif yang bertentangan dengan fitrah santri.
-2. **Kutub Penjagaan Doktrinal Tertutup (Dogmatic Rigidity & Manual Paralysis)**: Di sisi lain, dewan pakar dan perumus filosofi menghendaki agar konstitusi `01_FUNDAMENTAL/` steril dari kompromi teknis. Namun, penjagaan yang semata-mata mengandalkan audit manusia (*manual inspection*) terbukti lumpuh ketika volume dokumen mencapai ratusan berkas: komite penjamin mutu mengalami kelelahan kognitif (*cognitive fatigue*), sehingga penyusupan klausul berbahaya lolos dari pemeriksaan dan baru disadari setelah terjadi insiden fatal di asrama.
+2. **Kutub Penjagaan Doktrinal Tertutup (Dogmatic Rigidity & Manual Paralysis)**: Di sisi lain, para pengasuh dan perumus filosofi menghendaki agar konstitusi `01_FUNDAMENTAL/` steril dari kompromi teknis. Namun, penjagaan yang semata-mata mengandalkan audit manusia (*manual inspection*) terbukti lumpuh ketika volume dokumen mencapai ratusan berkas: komite penjamin mutu mengalami kelelahan kognitif (*cognitive fatigue*), sehingga penyusupan klausul berbahaya lolos dari pemeriksaan dan baru disadari setelah terjadi insiden fatal di asrama.
 
 Oleh karena itu, penyelesaian masalah ini menuntut hadirnya mekanisme **verifikasi batas otomatis berbasis kode (*automated code-enforced boundaries*)**: sistem yang secara transparan, adil, dan tanpa lelah memeriksa seluruh lintasan tautan antarlapisan, memblokir dependensi terbalik secara deterministik, namun tetap menyediakan kanal legal yang terstruktur bagi pengusulan revisi melalui mekanisme inkuiri ilmiah PROBE.
 
@@ -249,7 +249,7 @@ Dokumen disimpan dalam repositori cloud bersama yang dapat diakses dan diedit ol
 #### Fase 2: Munculnya Erosi Mikro Tanpa Deteksi (Tahun 2021)
 Karena repositori tidak memiliki fungsi kebugaran otomatis (*no automated boundary defense*), perubahan dokumen dilakukan secara bebas:
 - Kepala Asrama Cabang C merasa kewalahan mendisiplinkan santri yang terlambat shalat subuh. Ia membuat lampiran SOP baru berkas `SOP-CabangC-Disiplin.docx` yang memuat klausul: *"Santri terlambat shalat subuh 3 kali berturut-turut dipotong uang sakunya Rp 50.000 dan diwajibkan lari keliling lapangan 20 putaran sambil memegang ember air"*.
-- Perubahan ini tidak pernah dilaporkan ke dewan pakar yayasan karena hanya dianggap sebagai "teknis lapangan cabang".
+- Perubahan ini tidak pernah dilaporkan ke pimpinan pengasuh yayasan karena hanya dianggap sebagai "teknis lapangan cabang".
 
 #### Fase 3: Kebocoran Dependensi Terbalik & Normalisasi Penyimpangan (Tahun 2022)
 Pada pertengahan 2022, terjadi pergantian Direktur Pengasuhan Pusat. Direktur baru yang ingin menstandardisasi aturan asrama membuka repositori bersama dan menemukan lampiran SOP Cabang C tersebut. Mengira bahwa aturan sanksi denda dan lari ember itu adalah keberhasilan model Cabang C yang telah disetujui, direktur tersebut memasukkan klausul sanksi fisik itu ke dalam **Buku 2 (Manual Tata Kelola Pusat)**.
@@ -308,7 +308,7 @@ Tabel berikut menetapkan aturan konstitusional gerbang interaksi (*interface bou
 |---|---|---|---|---|
 | **Level 1: Kosmetik (*Low*)** | Format Markdown / Metadata | Penulisan heading tidak sesuai standar, slug berkas salah format | Mengganggu kerapian kearsipan digital | Peringatan otomatis (*warning*), perbaikan otomatis format |
 | **Level 2: Struktural (*Medium*)** | *Broken Link* / *Orphan File* | Tautan markdown mengarah ke file yang telah dipindahkan, SOP tidak punya induk | Kerusakan silsilah (*lineage break*), dokumen yatim piatu | PR ditahan sementara hingga tautan keterlacakan diperbaiki |
-| **Level 3: Epistemik (*High*)** | *Inverted Dependency* / Redefinisi | Berkas `01` merujuk langsung ke formulir `03`, SOP mendefinisikan ulang istilah adab | Pergeseran makna filosofis (*semantic drift*), erosi desain | Penolakan mutlak PR (*hard rejection*), pelaporan ke Majelis Pakar |
+| **Level 3: Epistemik (*High*)** | *Inverted Dependency* / Redefinisi | Berkas `01` merujuk langsung ke formulir `03`, SOP mendefinisikan ulang istilah adab | Pergeseran makna filosofis (*semantic drift*), erosi desain | Penolakan mutlak PR (*hard rejection*), pelaporan ke Majelis Asatidz Pengasuh |
 | **Level 4: Kritis (*Critical*)** | Klausul Punitif Fisik / PII | Penyusupan sanksi fisik di tata tertib, pemaparan data aib santri tanpa sensor | Pelanggaran hukum pidana anak, kehancuran fitrah santri | **PEMBLOKIRAN TOTAL REPOSITORI**, investigasi etik kontributor |
 
 ### 8.3. Komparasi Tiga Pendekatan Pengawasan Dokumen Lembaga
@@ -344,7 +344,7 @@ Untuk melindungi kedaulatan repositori secara berkelanjutan, sistem pertahanan T
 | :---: | :--- | :--- |
 | **Lapis 1** | **Pre-Commit Hook Lokal** | *Local Hygiene:* Regex pemindai cepat di komputer kontributor, deteksi kata kunci sanksi punitif dan denda sebelum komit terbentuk. |
 | **Lapis 2** | **Automated CI/CD Pipeline Boundary Linter** | *Deterministic Gatekeeper:* GitHub Actions memverifikasi graf dependensi antarlapisan, kepatuhan schema frontmatter, dan larangan impor terbalik. |
-| **Lapis 3** | **Peer-Review & Audit Mandatori Majelis Pakar** | *Semantic Nuance (Human-in-the-Loop):* Telaah kualitatif atas keselarasan dalil syar'i, takhrij turats, dan ketepatan pedagogis fitrah insan. |
+| **Lapis 3** | **Peer-Review & Audit Mandatori Dewan Asatidz** | *Semantic Nuance (Human-in-the-Loop):* Telaah kualitatif atas keselarasan dalil syar'i, takhrij turats, dan ketepatan pedagogis fitrah insan. |
 | **Lapis 4** | **Audit Mutu Internal (AMI) Triwulanan** | *Systemic Health:* Evaluasi berkala seluruh repositori, deteksi penumpukan utang desain, dan kalibrasi efektivitas instrumen lapangan. |
 | **Lapis 5** | **Pembekuan Rilis Kanonik & Git Cryptographic Tagging** | *Release Sealing:* Penguncian status rilis dengan kunci kriptografis GPG bertanda tangan resmi dewan konsil arsitektur sistem. |
 
@@ -366,7 +366,7 @@ Dokumen yang berhasil lulus verifikasi otomatis pada Lapis 2 diserahkan kepada M
 2. Kurator memeriksa aspek kehalusan makna (*semantic nuance*) dan implikasi psikologis yang berada di luar jangkauan pemindaian algoritma regex.
 
 ### 9.4. Lapis 4: Audit Mutu Internal (AMI) Triwulanan Repositori
-Setiap tiga bulan, Tim Penjamin Mutu Repositori menjalankan audit kesehatan arsitektural menggunakan enam indikator kebugaran sistem (*Architecture Health Scorecard*):
+Setiap tiga bulan, Tim Penjamin Mutu Pesantren menjalankan audit kesehatan arsitektural menggunakan enam indikator kebugaran sistem (*Architecture Health Scorecard*):
 
 | Indikator Metrik | Definisi Operasional | Target Ideal | Tindakan Korektif Jika di Bawah Target |
 |---|---|---|---|
@@ -459,7 +459,7 @@ Penyelidikan mendalam pada Pilar 2 (Stratifikasi Lapisan Repositori & *Separatio
 ### 10.2. Keputusan Arsitektural (Canonical Decision)
 Diputuskan secara mutlak dan mengikat bagi seluruh pengembang, peneliti, dan administrator repositori TUMBUH v2.0.0:
 1. **Pengesahan Protokol Pertahanan Berlapis (*5-Tier Defense-in-Depth*)**:
-   Mengesahkan secara konstitusional protokol pertahanan lima tahap (Pre-commit hook lokal, CI/CD boundary linter di GitHub Actions, Peer-review Majelis Pakar, Audit Mutu Triwulanan AMI, dan Cryptographic Tagging Rilis) sebagai undang-undang verifikasi mutu tertinggi repositori.
+   Mengesahkan secara konstitusional protokol pertahanan lima tahap (Pre-commit hook lokal, CI/CD boundary linter di GitHub Actions, Peer-review Dewan Asatidz, Audit Mutu Triwulanan AMI, dan Cryptographic Tagging Rilis) sebagai undang-undang verifikasi mutu tertinggi repositori.
 2. **Pemberlakuan Zero Tolerance Gate pada Integrasi Berkelanjutan (CI/CD)**:
    Skrip `master_boundary_linter.py` ditetapkan sebagai gerbang pemutus wajib (*mandatory status check*). Setiap pull request yang memuat dependensi terbalik (dari `01` ke `03` atau dari `01`/`02` ke `source`), tautan ke dokumen usang di `99_ARCHIVE`, atau klausul kekerasan fisik/punitif, **wajib ditolak secara otomatis oleh sistem tanpa pengecualian (*hard build rejection*)**.
 3. **Penyegelan Resmi Pilar 2 Repositori**:

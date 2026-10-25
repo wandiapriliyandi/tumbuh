@@ -184,7 +184,7 @@ Setiap penyusunan dokumen baru (baik di folder `PROBE/` maupun di folder `03_OPE
     Langkah 4: Validasi Timbal Balik: Uji Keterlacakan Mundur & Keterlacakan Maju
                                   │
                                   ▼
-    Langkah 5: Audit Kepatuhan Otomatis oleh Tim Penjamin Mutu Repositori
+    Langkah 5: Audit Kepatuhan Otomatis oleh Tim Penjamin Mutu Pesantren
 ```
 
 1. **Langkah 1: Tentukan Induk Sanad**: Sebelum menulis pasal tata tertib santri di `03_OPERATIONAL/`, wajib menentukan berkas `01_FUNDAMENTAL` mana yang menjadi prinsip dasarnya dan berkas `PROBE` mana yang menjadi kajian dialektikanya.

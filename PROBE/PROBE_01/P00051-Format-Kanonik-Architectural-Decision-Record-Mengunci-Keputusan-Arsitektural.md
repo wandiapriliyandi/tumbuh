@@ -286,7 +286,7 @@ Metodologi penutupan keputusan sistem melalui ADR diuji pada empat kasus nyata k
 ### 7.1. Studi Kasus 1: Reaktivasi Takzir Fisik Pasca-Pergantian Direktur Pengasuhan
 - **Kronologi Insiden**: Pada tahun 2023, Direktur Pengasuhan Ustadz Ahmad bersama dewan asatidz telah memutuskan secara aklamasi bahwa pemukulan rotan pada santri dilarang total karena menimbulkan trauma amigdala dan melanggar prinsip *la dharara wa la dhirar*. Namun keputusan tersebut hanya dicatat dalam buku agenda pribadi Ustadz Ahmad. Pada awal tahun 2025, Ustadz Ahmad dipindahtugaskan dan digantikan oleh Ustadz Rasyid. Ustadz Rasyid yang merasa santri asrama "kurang memiliki rasa takut" segera membeli 20 bilah rotan baru dan mewajibkan musyrif membawa rotan saat patroli malam.
 - **Dampak Kehancuran Sistem**: Seluruh kemajuan budaya pengasuhan positif selama dua tahun hancur dalam tempo satu bulan; kekerasan fisik meletus kembali di kamar-kamar santri, memicu kaburnya tiga orang santri dan pelaporan pidana oleh wali santri ke pihak kepolisian.
-- **Analisis Ketiadaan ADR**: Seandainya keputusan tahun 2023 dibakukan ke dalam `ADR-PROBE-0024: Pelarangan Mutlak Hukuman Fisik dan Sanksi Retributif`, Ustadz Rasyid secara konstitusional terikat oleh sistem dan tidak memiliki kewenangan hukum untuk membeli rotan atau menghidupkan kembali takzir fisik tanpa menerbitkan ADR pengganti yang disahkan oleh Dewan Epistemik Repositori.
+- **Analisis Ketiadaan ADR**: Seandainya keputusan tahun 2023 dibakukan ke dalam `ADR-PROBE-0024: Pelarangan Mutlak Hukuman Fisik dan Sanksi Retributif`, Ustadz Rasyid secara konstitusional terikat oleh sistem dan tidak memiliki kewenangan hukum untuk membeli rotan atau menghidupkan kembali takzir fisik tanpa menerbitkan ADR pengganti yang disahkan oleh Majelis Pengasuh Pesantren.
 
 ### 7.2. Studi Kasus 2: Pembajakan Jam Tidur Santri Berkedok Tirakat Baru
 - **Kronologi Insiden**: Kepala Bagian Peribadatan yang baru dilantik merasa bahwa pesantren harus "lebih bernuansa salaf keramat". Tanpa melalui proses kajian medis, ia secara sepihak memajukan bel bangun shalat malam menjadi pukul 02.30 dini hari (santri baru tidur pukul 23.00), memangkas waktu tidur santri menjadi hanya 3,5 jam per malam. Ketika musyrif kesehatan memprotes bahwa santri banyak yang terserang radang paru dan tifus, Kepala Peribadatan menjawab dengan arogan: *"Kalian jangan terlalu memikirkan teori kedokteran Barat, ulama salaf dulu shalat Shubuh dengan wudhu Isya!"*
@@ -359,7 +359,7 @@ Arsitek mengisi Tabel Evaluasi Keputusan Desain:
 - Merumuskan klausul mitigasi arsitektural wajib untuk menanggulangi beban tersebut (misal: "Menambah jumlah musyrif pendamping dan menyediakan modul panduan mediasi siap pakai").
 
 ### Tahap 4: Audit Kepatuhan dan Penegakan Rambu Pelanggaran (*Compliance Audit & Enforcement*)
-Tim Penjamin Mutu Repositori melakukan pengawasan berkala:
+Tim Penjamin Mutu Pesantren melakukan pengawasan berkala:
 - Setiap draf SOP baru di `03_OPERATIONAL/` dicocokkan dengan katalog ADR yang aktif.
 - Jika ditemukan butir aturan di lapangan yang melanggar ADR yang sah, auditor menerbitkan **Surat Ketidakpatuhan Arsitektural (Architectural Non-Compliance Notice)** yang mewajibkan pencabutan aturan tersebut dalam waktu 1x24 jam.
 
@@ -384,7 +384,7 @@ Sebelum sebuah blok ADR di Bagian 10 disahkan ke dalam branch utama repositori, 
 | **7** | Klausul Mitigasi Wajib | Menyertakan solusi mitigasi arsitektural konkret untuk setiap risiko yang diidentifikasi. | LULUS |
 | **8** | Penegasan Batas Cakupan | Menyebutkan subsistem, dokumen, dan divisi mana saja yang terikat secara hukum oleh ADR. | LULUS |
 | **9** | Integrasi Dua Sayap Keilmuan | Amar keputusan didukung secara seimbang oleh dalil turats syariat dan riset empiris sains. | LULUS |
-| **10** | Keterlacakan Komit Git | Terikat dengan pesan komit resmi yang mencatat rekam jejak pengesahan oleh Dewan Epistemik. | LULUS |
+| **10** | Keterlacakan Komit Git | Terikat dengan pesan komit resmi yang mencatat rekam jejak pengesahan oleh Majelis Pengasuh Pesantren. | LULUS |
 
 ### 9.6. Modul Pelatihan Penulisan ADR bagi Tim Peneliti dan Pengasuh Muda
 Repositori TUMBUH menyelenggarakan program sertifikasi **Arsitek Keputusan Sistem Pesantren (System Decision Architect)** yang melatih para pengasuh muda dalam:
@@ -405,7 +405,7 @@ Standardisasi format kanonik Architectural Decision Record dibakukan secara resm
 | **Identitas ADR** | `ADR-PROBE-0051: Pembakuan Format Kanonik Architectural Decision Record (Bagian 10 PROBE)` |
 | **Status Keputusan** | Disetujui, Dikuatkan, dan Mengikat Penuh Seluruh Penulis Berkas Inkuiri Repositori TUMBUH v2.0.0 |
 | **Tanggal Keputusan** | 25 Oktober 2026 |
-| **Pemilik Otoritas** | Komite Dewan Pengarah Epistemik dan Arsitek Utama Repositori TUMBUH |
+| **Pemilik Otoritas** | Majelis Pengasuh dan Dewan Pembina Pesantren |
 | **Konteks & Latar Belakang** | Kebutuhan protokol kanonik untuk menyusun Bagian 10 di seluruh berkas inkuiri PROBE, guna memutus siklus amnesia organisasi, mencegah erosi integritas arsitektural, dan memastikan setiap hasil riset mengikat secara legal pada dokumen operasional. |
 | **Keputusan Utama (*Decision*)** | Menetapkan secara mutlak bahwa Bagian 10 seluruh berkas PROBE wajib disajikan dalam bentuk blok Architectural Decision Record dengan Struktur Dua Tabel Kanonik: (1) Tabel Parameter Metadata ADR dan (2) Tabel Evaluasi Keputusan Desain & Trade-Off Analitik, bebas dari karakter box-drawing ASCII/Unicode. |
 | **Cakupan Dampak (*Scope*)** | Berlaku wajib pada Bagian 10 seluruh berkas `PROBE/`, dokumen filosofis `01_FUNDAMENTAL/`, standar kelembagaan `02_IMPLEMENTATION/`, prosedur teknis `03_OPERATIONAL/`, dan tata kelola `METHODOLOGY/`. |
@@ -441,7 +441,7 @@ Untuk membentengi repositori TUMBUH dari degradasi ketetapan arsitektur, ditetap
 | **G5** | *No Isolated ADRs* | Menerbitkan keputusan ADR yang berdiri sendiri tanpa didukung oleh analisis dialektis Bagian 1 s/d 9. | Setiap ADR wajib berakar pada pembahasan turats (Bagian 4) dan riset empiris (Bagian 5) berkas inkuiri. |
 | **G6** | *No Retroactive Tampering* | Mengedit teks amar keputusan pada berkas ADR masa lalu yang telah disahkan dan di-merge ke branch utama. | Menjaga riwayat komit Git; perbaikan hanya sah dilakukan melalui pembuatan *patch* versi resmi. |
 | **G7** | *No Operational Drift* | Menerbitkan SOP di `03_OPERATIONAL/` yang bertentangan dengan klausul ADR yang aktif di `PROBE/`. | Menolak draf SOP yang melanggar ADR dalam proses audit penjaminan mutu repositori. |
-| **G8** | *No Authority Monopolization* | Mengesahkan ADR penting secara sepihak oleh individu tanpa peninjauan Dewan Epistemik Repositori. | Mewajibkan tanda tangan persetujuan dari dewan pengarah epistemik pada metadata keputusan. |
+| **G8** | *No Authority Monopolization* | Mengesahkan ADR penting secara sepihak oleh individu tanpa peninjauan Majelis Pengasuh Pesantren. | Mewajibkan tanda tangan persetujuan dari dewan pengarah epistemik pada metadata keputusan. |
 | **G9** | *No Vague Enforcement Clause* | Mencantumkan amar putusan tanpa menetapkan cakupan dampak (*scope*) dan batas larangan yang jelas. | Menyebutkan secara eksplisit subsistem dan folder repositori mana saja yang wajib mematuhi ADR tersebut. |
 | **G10** | *No Epistemic Vacuum* | Membiarkan berkas penyelidikan PROBE berakhir tanpa adanya blok penetapan ADR pada Bagian 10. | Menolak penguncian berkas inkuiri yang tidak menyertakan dua tabel kanonik ADR di Bagian 10. |
 
@@ -457,7 +457,7 @@ Untuk mengelola evolusi kebijakan tanpa merusak catatan sejarah repositori, TUMB
 4. *Larangan Penghapusan Berkas*: ADR lama tidak pernah dihapus dari repositori. Riwayat ini dipelihara agar seluruh pengembang dapat membaca silsilah intelektual dan memahami mengapa sistem berevolusi dari waktu ke waktu.
 
 ### 11.4. Matriks Audit Kepatuhan SOP Lapangan Terhadap ADR Repositori
-Untuk menjamin bahwa seluruh dokumen operasional di folder `03_OPERATIONAL/` benar-benar mematuhi ketetapan ADR yang sah, Tim Penjamin Mutu Repositori menggunakan instrumen verifikasi berkala berikut:
+Untuk menjamin bahwa seluruh dokumen operasional di folder `03_OPERATIONAL/` benar-benar mematuhi ketetapan ADR yang sah, Tim Penjamin Mutu Pesantren menggunakan instrumen verifikasi berkala berikut:
 
 | Nomor SOP Operasional | Judul SOP Lapangan | Nomor Referensi ADR Induk | Status Keselarasan Klausul | Tindakan Koreksi Wajib |
 | :--- | :--- | :--- | :---: | :--- |

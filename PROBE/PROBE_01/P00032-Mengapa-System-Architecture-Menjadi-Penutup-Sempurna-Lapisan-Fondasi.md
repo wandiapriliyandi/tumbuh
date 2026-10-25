@@ -467,7 +467,7 @@ Berikut adalah ketetapan arsitektural resmi yang mengunci posisi Domain 09 dalam
 | **Nomor Keputusan** | ADR-PROBE-0032 |
 | **Judul Keputusan** | Penempatan Mutlak Domain 09 (System Architecture) sebagai Penutup Sempurna Fondasi Filosofis dan Jembatan Transisi Repositori |
 | **Status Keputusan** | Disetujui dan Dipermanenkan (*Accepted & Canonical*) |
-| **Pengambil Keputusan** | Tim Arsitektur Sistem Enterprise & Dewan Epistemik Tertinggi TUMBUH |
+| **Pengambil Keputusan** | Majelis Pengasuh dan Tim Tata Kelola Kelembagaan Pesantren |
 | **Konteks Masalah** | Terjadinya sindrom fragmentasi antar-unit pesantren dan kegagalan menerjemahkan konsep filosofis luhur menjadi perangkat kerja praktis lapangan yang terkoordinasi dan terukur. |
 | **Keputusan Diambil** | Menetapkan secara permanen bahwa Domain 09 (System Architecture) berada di urutan kesembilan sebagai penutup kanonik Fondasi Filosofis TUMBUH, merajut Domain 01 s/d 08 ke dalam satu cetak biru enterprise organik, serta menjadi jembatan penerjemah mutlak menuju Lapisan 02_IMPLEMENTATION dan Lapisan 03_OPERATIONAL. |
 | **Dampak Positif** | 1. Menghilangkan mutlak tabrakan jadwal dan fragmentasi antar-subsistem asrama, sekolah, dan tahfidz.<br>2. Menjamin keterlacakan vertikal (*vertical traceability*) dari SOP teknis harian hingga ke Worldview Tauhid.<br>3. Membangun infrastruktur data tunggal SIM-TUMBUH yang memudahkan kolaborasi antar-musyrif dan asatidzah. |

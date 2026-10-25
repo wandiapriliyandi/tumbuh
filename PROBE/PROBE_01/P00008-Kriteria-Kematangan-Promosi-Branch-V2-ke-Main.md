@@ -151,7 +151,7 @@ $$\text{PRI} = w_1 \cdot C_{\text{probe}} + w_2 \cdot S_{\text{turats}} + w_3 \c
 
 Di mana:
 - $C_{\text{probe}}$ adalah rasio kelengkapan 120 berkas inkuiri PROBE yang telah memenuhi standar 13 bagian ($C_{\text{probe}} = N_{\text{complete}} / 120$). Bobot $w_1 = 0.35$.
-- $S_{\text{turats}}$ adalah rasio validitas teks turats Arab berharakat dan takhrij nomor hadits yang diverifikasi dewan pakar. Bobot $w_2 = 0.25$.
+- $S_{\text{turats}}$ adalah rasio validitas teks turats Arab berharakat dan takhrij nomor hadits yang diverifikasi melalui kajian ilmiah muktabar. Bobot $w_2 = 0.25$.
 - $L_{\text{integrity}}$ adalah rasio integritas pranala internal ($L_{\text{integrity}} = 1 - [N_{\text{broken}} / N_{\text{total-links}}]$). Bobot $w_3 = 0.20$.
 - $U_{\text{field}}$ adalah skor kepuasan dan stabilitas pengasuhan di asrama percontohan selama fase Dual-Run. Bobot $w_4 = 0.20$.
 
