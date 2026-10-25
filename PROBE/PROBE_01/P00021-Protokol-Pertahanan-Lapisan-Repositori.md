@@ -397,53 +397,56 @@ Setiap tiga bulan, Tim Penjamin Mutu Repositori menjalankan audit kesehatan arsi
 ### 9.5. Lapis 5: Pembekuan Rilis Kanonik & Git Cryptographic Tagging (Release Sealing)
 Kumpulan dokumen yang telah stabil, lulus audit berlapis, dan disahkan oleh Konsil Keilmuan TUMBUH diberi tanda rilis resmi menggunakan *Git Cryptographically Signed Tag* (berbasis kunci GPG resmi pimpinan pondok). Berkas-berkas rilis ini dikunci statusnya sebagai *Canonical Release Baseline* yang tidak boleh dimodifikasi tanpa sidang pleno konsil.
 
----
+### 9.6. Spesifikasi Rekayasa Sistem: Logika Algoritmik & Matriks Penegakan CI/CD
 
-## 10. Spesifikasi Rekayasa Sistem: Logika Algoritmik & Matriks Penegakan CI/CD
+Sebagai sebuah monograf ilmiah desain sistem, penegakan integritas repositori tidak disajikan dalam bentuk skrip kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Algoritmik (Formal Algorithmic Logic Specification)** yang menjadi cetak biru bagi implementasi pipeline otomasi di infrastruktur teknis `.github/workflows/`:
 
-Sebagai sebuah monograf desain sistem, penegakan integritas repositori tidak disajikan dalam bentuk skrip kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Algoritmik (Formal Algorithmic Logic Specification)** yang menjadi cetak biru bagi implementasi pipeline otomasi di infrastruktur teknis `.github/workflows/`:
-
-### 10.1. Model Matematis & Logika Relasi Graf Dependensi Antarlapisan
+#### 9.6.1. Model Matematis & Logika Relasi Graf Dependensi Antarlapisan
 Sistem repositori dimodelkan sebagai sebuah graf berarah terbobot $G = (V, E)$, di mana:
-- Himpunan simpul $V$ merepresentasikan seluruh berkas markdown di dalam repositori, terpartisi ke dalam sub-himpunan lapisan $V = L_1 \cup L_2 \cup L_3 \cup S \cup E \cup R \cup A$, dengan $L_1 = \text{01\_FUNDAMENTAL}$, $L_2 = \text{02\_IMPLEMENTATION}$, $L_3 = \text{03\_OPERATIONAL}$, $S = \text{source}$, $E = \text{08\_SOURCES\_AND\_EVIDENCE}$, $R = \text{09\_RESEARCH}$, dan $A = \text{99\_ARCHIVE}$.
+- Himpunan simpul $V$ merepresentasikan seluruh berkas markdown di dalam repositori, terpartisi ke dalam sub-himpunan lapisan:
+  $$V = L_1 \cup L_2 \cup L_3 \cup S \cup E \cup R \cup A$$
+  dengan $L_1 = \text{01\_FUNDAMENTAL}$, $L_2 = \text{02\_IMPLEMENTATION}$, $L_3 = \text{03\_OPERATIONAL}$, $S = \text{source}$, $E = \text{08\_SOURCES\_AND\_EVIDENCE}$, $R = \text{09\_RESEARCH}$, dan $A = \text{99\_ARCHIVE}$.
 - Himpunan sisi berarah $E$ merepresentasikan tautan rujukan eksplisit antarberkas: $e = (u, v) \in E$ bermakna berkas $u$ memuat tautan markdown menuju berkas $v$.
 
-Aturan larangan dependensi (*boundary constraints*) ditetapkan sebagai predikat invarian logis:
+Aturan larangan dependensi (*boundary constraints*) ditetapkan sebagai empat predikat invarian logis:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                 PREDIKAT INVARIAN LOGIKA DEPENDENSI REPOSITORI              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Invarian Dependensi Terbalik  : ∀(u, v) ∈ E, (u ∈ L₁) ⇒ (v ∉ L₃)        │
-│ 2. Invarian Isolasi Bahan Mentah : ∀(u, v) ∈ E, (u ∈ L₁ ∪ L₂) ⇒ (v ∉ S)    │
-│ 3. Invarian Karantina Arsip Mati : ∀(u, v) ∈ E, (u ∉ A) ⇒ (v ∉ A)          │
-│ 4. Invarian Leksikon Punitif     : ∀u ∈ V, Content(u) ∩ Lexicon_punitif = ∅ │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+1. **Invarian Dependensi Terbalik (*Acyclic Boundary Invariant*)**:
+   $$\forall (u, v) \in E, \quad (u \in L_1) \implies (v \notin L_3)$$
+   Lapisan fundamental diharamkan merujuk lapisan operasional praktis.
+
+2. **Invarian Isolasi Bahan Mentah (*Raw Ingestion Isolation Invariant*)**:
+   $$\forall (u, v) \in E, \quad (u \in L_1 \cup L_2) \implies (v \notin S)$$
+   Lapisan fundamental dan implementasi diharamkan menyerap langsung bahan mentah tanpa purifikasi.
+
+3. **Invarian Karantina Arsip Mati (*Zombie Quarantine Invariant*)**:
+   $$\forall (u, v) \in E, \quad (u \notin A) \implies (v \notin A)$$
+   Dokumen aktif diharamkan bergantung pada berkas usang yang telah dimakamkan di arsip.
+
+4. **Invarian Leksikon Punitif (*Zero-Punitive Invariant*)**:
+   $$\forall u \in V, \quad \text{Content}(u) \cap \text{Lexicon}_{\text{punitif}} = \emptyset$$
+   Seluruh berkas repositori wajib bersih 100% dari leksikon kekerasan fisik, denda finansial, dan sanksi retributif.
 
 Apabila salah satu predikat di atas menghasilkan nilai `FALSE`, pipeline integrasi berkelanjutan wajib membangkitkan sinyal kegagalan terminasi (*hard exit failure / exit code 1*) dan memblokir penggabungan cabang (*merge lock*).
 
-### 10.2. Mesin Status Validasi Integritas Repositori (Validation State Machine)
+#### 9.6.2. Diagram Alir Validasi Integritas Repositori (Validation Pipeline Flowchart)
 
-Setiap pengajuan perubahan berkas (*Pull Request*) diproses melalui diagram status berurutan:
+Setiap pengajuan perubahan berkas (*Pull Request*) diverifikasi secara otomatis melalui alur penapisan bertahap:
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Ingestion: PR Diajukan ke v2.0.0
-    Ingestion --> LexiconScan: Ekstraksi Diff Konten
-    LexiconScan --> DependencyGraphCheck: Bebas Klausul Punitif
-    LexiconScan --> Blocked: Ditemukan Sanksi Fisik (Level 4)
-    DependencyGraphCheck --> MetadataVerification: Bebas Inverted Dependency
-    DependencyGraphCheck --> Blocked: Pelanggaran Batas Lapisan (Level 3)
-    MetadataVerification --> PeerReview: Frontmatter & Silsilah Lengkap
-    MetadataVerification --> Blocked: Metadata Cacat / Yatim (Level 2)
-    PeerReview --> Approved: Verifikasi Makna Majelis Pakar
-    PeerReview --> Blocked: Ditolak Kurator Epistemik
-    Approved --> [*]: Merge ke Baseline Kanonik v2.0.0
-    Blocked --> [*]: Notifikasi Galat Otomatis ke Penulis
+flowchart TD
+    Start["Pengajuan Pull Request ke branch v2.0.0"] --> Ingest["Tahap 1: Ekstraksi Diff Konten Berkas"]
+    Ingest --> LexiconCheck{"Pemindaian Leksikon Punitif"}
+    LexiconCheck -- "Ditemukan Sanksi Fisik / Denda" --> HardReject["REJECT: Pelanggaran Kritis Level 4"]
+    LexiconCheck -- "Nihil Klausul Punitif" --> GraphCheck{"Analisis Graf Dependensi AST"}
+    GraphCheck -- "Ditemukan Inverted Coupling" --> HardReject
+    GraphCheck -- "Acyclic Boundary Terpenuhi" --> MetaCheck{"Verifikasi YAML Frontmatter"}
+    MetaCheck -- "Metadata Cacat / Dokumen Yatim" --> HardReject
+    MetaCheck -- "Metadata & Silsilah Lengkap" --> PeerAudit{"Telaah Majelis Kurator Epistemik"}
+    PeerAudit -- "Ditolak Kurator" --> HardReject
+    PeerAudit -- "Disetujui Kurator" --> MergeCommit["APPROVE: Fast-Forward Merge ke v2.0.0"]
 ```
 
-### 10.3. Matriks Kriteria Penolakan Deterministik Mesin CI/CD
+#### 9.6.3. Matriks Kriteria Penolakan Deterministik Mesin CI/CD
 
 | ID Uji | Target Verifikasi | Metode Pengujian | Kondisi Pembatalan Build (Hard Failure) | Toleransi Deviasi |
 |---|---|---|---|:---:|
@@ -456,7 +459,7 @@ stateDiagram-v2
 
 ---
 
-## 11. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR-PROBE-0021)
+## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0021)
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -472,10 +475,10 @@ stateDiagram-v2
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 11.1. Konteks Masalah (Context)
+### 10.1. Konteks Masalah (Context)
 Penyelidikan mendalam pada Pilar 2 (Stratifikasi Lapisan Repositori & *Separation of Concerns*) dari `P00010` hingga `P00020` telah berhasil merumuskan demarkasi fungsi untuk setiap folder dalam repositori TUMBUH v2.0.0. Namun, pengalaman empiris pada kegagalan sistem v1 dan kasus kelembagaan pesantren membuktikan bahwa pemisahan lapisan yang hanya tertulis sebagai deklarasi teks di atas kertas niscaya akan mengalami pembusukan arsitektural (*design erosion*) akibat tekanan operasional harian. Diperlukan instrumen penegakan otomatis berbasis kode (*automated code-enforced boundary defense*) yang deterministik, objektif, dan bekerja tanpa lelah, serta diperlukan deklarasi kanonik resmi yang mengunci selesainya konsolidasi Pilar 2.
 
-### 11.2. Keputusan Arsitektural (Canonical Decision)
+### 10.2. Keputusan Arsitektural (Canonical Decision)
 Diputuskan secara mutlak dan mengikat bagi seluruh pengembang, peneliti, dan administrator repositori TUMBUH v2.0.0:
 1. **Pengesahan Protokol Pertahanan Berlapis (*5-Tier Defense-in-Depth*)**:
    Mengesahkan secara konstitusional protokol pertahanan lima tahap (Pre-commit hook lokal, CI/CD boundary linter di GitHub Actions, Peer-review Majelis Pakar, Audit Mutu Triwulanan AMI, dan Cryptographic Tagging Rilis) sebagai undang-undang verifikasi mutu tertinggi repositori.
@@ -484,12 +487,12 @@ Diputuskan secara mutlak dan mengikat bagi seluruh pengembang, peneliti, dan adm
 3. **Penyegelan Resmi Pilar 2 Repositori**:
    **Pilar 2 (Stratifikasi Lapisan Repositori & Separation of Concerns) secara resmi DINYATAKAN SELESAI PARIPURNA, DIKUNCI, DAN DISEGEL (LOCKED)**. Seluruh eksplorasi arsitektural berikutnya secara resmi dialihkan menuju pembukaan **PILAR 3: Logika Penataan Arsitektur Konseptual TUMBUH (`P00022`–`P00039`)**.
 
-### 11.3. Dasar Pertimbangan Epistemik (Epistemic Rationale)
+### 10.3. Dasar Pertimbangan Epistemik (Epistemic Rationale)
 1. **Legitimasi Syar'i *Sadd adz-Dzara'i'***: Menutup pintu masuk menuju kerusakan adab santri melalui automasi linter adalah wujud nyata pelaksanaan kewajiban memelihara agama dan jiwa (*hifzhud din wa hifzhun nafs*) dari segi penolakan bahaya (*min janib al-'adam*).
 2. **Prinsip Rekayasa *Architectural Fitness Functions***: Memastikan bahwa karakteristik arsitektur sistem dievaluasi secara objektif pada setiap komit git, mencegah akumulasi utang teknis (*design debt*) yang dapat melumpuhkan organisasi di masa depan.
 3. **Pencegahan Kriminalisasi Kelembagaan**: Menjamin bahwa tidak ada satu pun klausul sanksi fisik liar yang dapat terselundup ke dalam tata tertib operasional santri, melindungi lembaga dari jerat pidana perlindungan anak.
 
-### 11.4. Konsekuensi Arsitektural (Consequences)
+### 10.4. Konsekuensi Arsitektural (Consequences)
 - **Konsekuensi Positif**:
   - Repositori TUMBUH v2.0.0 memiliki imunitas sistemik otomatis terhadap pembusukan arsitektur.
   - Santri terlindungi secara permanen dari bahaya kekerasan fisik dan verbal berkedok kedisiplinan.
@@ -500,9 +503,9 @@ Diputuskan secara mutlak dan mengikat bagi seluruh pengembang, peneliti, dan adm
 
 ---
 
-## 12. Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails Repositori
+## 11. Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails Repositori
 
-### 12.1. Pemetaan Implikasi Berlapis Repositori
+### 11.1. Pemetaan Implikasi Berlapis Repositori
 Hasil sintesis dan keputusan kanonik P00021 ini memberikan implikasi langsung ke berbagai lapisan repositori TUMBUH v2.0.0:
 
 ```text
@@ -529,7 +532,7 @@ Hasil sintesis dan keputusan kanonik P00021 ini memberikan implikasi langsung ke
 4. **Pengaruh pada Infrastruktur CI/CD Repositori**:
    - Direktori `.github/workflows/boundary_defense.yml` dan skrip pendukungnya resmi menjadi berkas infrastruktur kritis (*mission-critical infrastructure*) yang dilindungi hak aksesnya hanya bagi Administrator Konsil.
 
-### 12.2. Tujuh Butir Guardrails Pertahanan Repositori TUMBUH (Batas Negatif Mutlak)
+### 11.2. Tujuh Butir Guardrails Pertahanan Repositori TUMBUH (Batas Negatif Mutlak)
 
 Tujuh larangan mutlak (*negative boundaries*) yang haram dilanggar dalam pengelolaan repositori TUMBUH v2.0.0:
 
@@ -543,14 +546,14 @@ Tujuh larangan mutlak (*negative boundaries*) yang haram dilanggar dalam pengelo
 
 ---
 
-## 13. Penutup & Emergent Chain of Inquiry
+## 12. Penutup & Emergent Chain of Inquiry
 
-### 13.1. Sintesis Penutup
+### 12.1. Sintesis Penutup
 Penyelidikan kanonik P00021 ini berhasil menuntaskan misi arsitektural terpenting dalam **Pilar 2: Stratifikasi Lapisan Repositori & Separation of Concerns**. Dengan dirumuskannya Protokol Pertahanan Lapisan Repositori ini, ekosistem TUMBUH v2.0.0 tidak lagi sekadar memiliki pembagian folder yang rapi di atas kertas, melainkan telah memiliki benteng imunitas sistemik otomatis (*self-defending knowledge repository*). 
 
 Integrasi antara doktrin syariat *Sadd adz-Dzara'i'* dan pemeliharaan maqashid *min janib al-'adam* dengan teori modern *Architectural Fitness Functions* dan *Defense-in-Depth* membuktikan bahwa peradaban Islam dan rekayasa perangkat lunak modern bertemu pada satu titik temu yang agung (*Al-Jam'u wat-Taufiq*): bahwa kemuliaan adab dan keselamatan jiwa manusia hanya dapat terpelihara apabila pintu-pintu kerusakan ditutup rapat melalui sistem yang kokoh, transparan, dan berkeadilan.
 
-### 13.2. Emergent Research Questions Menuju Pilar 3
+### 12.2. Emergent Research Questions Menuju Pilar 3
 Dengan terkuncinya benteng pertahanan lapisan repositori pada Pilar 2, seluruh prasyarat meta-arsitektural kini telah terpenuhi secara sempurna. Cakrawala penyelidikan kini melangkah memasuki medan substansi konseptual: **PILAR 3: Logika Penataan Arsitektur Konseptual TUMBUH (`P00022`–`P00039`)**. 
 
 Dialektika peralihan ini memantik rangkaian pertanyaan penelitian terbuka (*Emergent Research Questions*) yang menjadi pintu gerbang bagi berkas berikutnya:
@@ -564,7 +567,7 @@ Dialektika peralihan ini memantik rangkaian pertanyaan penelitian terbuka (*Emer
 
 ---
 
-## 14. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
+## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 ### 14.1. Khazanah Turats Klasik Primer & Syarah Mu'tabar
 - Al-Bukhari, M. I. (1993). *Shahih al-Bukhari* (M. D. al-Bugha, Ed.; 5 ed., Jilid 1–6). Dar Ibn Katsir.

@@ -393,11 +393,11 @@ canonical_decision: OFFICIALLY RATIFIED & LINKED TO REPOSITORY BASELINE
 
 ---
 
-## 10. Spesifikasi Rekayasa Sistem: Logika Penjangkaran Deduktif & Matriks Verifikasi Fondasi
+### 9.6. Spesifikasi Rekayasa Sistem: Logika Penjangkaran Deduktif & Matriks Verifikasi Fondasi
 
 Sebagai naskah monograf ilmiah desain sistem, penegakan prinsip *Foundation-First* tidak dituangkan dalam bentuk skrip program mentah di dalam teks, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Penjangkaran Deduktif (Deductive Anchoring Logic Specification)** yang menjadi panduan arsitektural bagi fungsi kebugaran otomatis (*Architectural Fitness Function*) repositori:
 
-### 10.1. Model Matematis Keterlacakan Deduktif (Upward Deductive Linkage Model)
+#### 9.6.1. Model Matematis Keterlacakan Deduktif (Upward Deductive Linkage Model)
 Sistem relasi konseptual dimodelkan sebagai pohon ketergantungan deduktif hierarkis (*Hierarchical Deductive Dependency Tree*):
 - Misalkan $D_{\text{fnd}} = \{d_1, d_2, \dots, d_9\}$ merepresentasikan himpunan sembilan domain kanonik di dalam direktori `01_FUNDAMENTAL/01_FOUNDATION/`.
 - Misalkan $M_{\text{down}}$ merepresentasikan setiap modul turunan pada lapisan hilir (`01_CORE_MODEL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`).
@@ -408,7 +408,7 @@ Prinsip *Foundation-First* menetapkan aksioma kepatuhan mutlak:
 $$\forall m \in M_{\text{down}}, \quad |\text{Anchor}(m)| \ge 1$$
 Artinya, setiap modul hilir wajib memiliki sekurang-kurangnya satu simpul jangkar yang terhubung secara eksplisit dan sah ke salah satu dari sembilan domain fondasi. Modul yang memiliki $|\text{Anchor}(m)| = 0$ dideklarasikan sebagai **Modul Yatim Tanpa Fondasi (*Unanchored Orphan Module*)** dan secara otomatis ditolak oleh sistem verifikasi.
 
-### 10.2. Diagram Alir Verifikasi Keselarasan Fondasi (Foundation Compliance Flow)
+#### 9.6.2. Diagram Alir Verifikasi Keselarasan Fondasi (Foundation Compliance Flow)
 
 ```mermaid
 flowchart TD
@@ -423,7 +423,7 @@ flowchart TD
     H -- Ya --> J[APPROVE: Lolos Audit Keselarasan Fondasi]
 ```
 
-### 10.3. Matriks Kriteria Verifikasi Kebugaran Fondasi Repositori
+#### 9.6.3. Matriks Kriteria Verifikasi Kebugaran Fondasi Repositori
 
 | Kode Uji | Parameter Audit | Metode Evaluasi | Kriteria Keberhasilan (*Pass*) | Konsekuensi Pelanggaran |
 |---|---|---|---|---|
@@ -435,7 +435,7 @@ flowchart TD
 
 ---
 
-## 11. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR-PROBE-0022)
+## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0022)
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
@@ -451,10 +451,10 @@ flowchart TD
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 11.1. Konteks Masalah (Context)
+### 10.1. Konteks Masalah (Context)
 Sejarah kegagalan reformasi pesantren membuktikan bahwa kecenderungan teknokratis untuk melompat langsung ke perumusan aturan tata tertib asrama tanpa membangun fondasi filosofis (*the technocratic rush*) niscaya melahirkan kepatuhan semu mekanistis (*performative compliance*), kepribadian ganda santri, kepunahan ruh ikhlas, dan keruntuhan sistemik lembaga. Diperlukan penetapan arsitektural konstitusional yang mengikat secara permanen bahwa lapisan `Foundation` adalah pintu gerbang mutlak dan akar makna (*root of meaning*) bagi seluruh arsitektur TUMBUH v2.0.0.
 
-### 11.2. Keputusan Arsitektural (Canonical Decision)
+### 10.2. Keputusan Arsitektural (Canonical Decision)
 Diputuskan secara mutlak dan mengikat bagi seluruh jajaran pengembang, peneliti, dan pengasuh ekosistem TUMBUH v2.0.0:
 1. **Penetapan Status Pintu Gerbang Pertama (*First Gateway & Root of Meaning*)**:
    Direktori `01_FUNDAMENTAL/01_FOUNDATION/` ditetapkan secara konstitusional sebagai pintu gerbang paling pertama yang wajib diselesaikan, dikunci, dan divalidasi sebelum perancangan sub-sistem lainnya dimulai.
@@ -463,12 +463,12 @@ Diputuskan secara mutlak dan mengikat bagi seluruh jajaran pengembang, peneliti,
 3. **Pemberlakuan Wajib Sertifikasi FAAC & Automasi CI**:
    Setiap berkas hilir wajib melampirkan metadata sertifikasi FAAC (*Foundation Alignment Audit Certificate*) yang divalidasi secara otomatis melalui skrip `foundation_anchor_linter.py` di dalam pipeline CI/CD repositori.
 
-### 11.3. Dasar Pertimbangan Epistemik (Epistemic Rationale)
+### 10.3. Dasar Pertimbangan Epistemik (Epistemic Rationale)
 1. **Tamsil Qur'ani *Syajarah Thayyibah***: Keberhasilan buah adab santri (*tu'ti ukulaha*) secara sunnatullah merupakan akibat mutlak dari kekokohan akar fondasi yang menghunjam (*ashluha tsabit*).
 2. **Kaidah Ushul Fikih *Al-Bina' 'ala al-Asas***: Merinci cabang peraturan operasional sebelum menetapkan prinsip dasar fondasi adalah kekacauan metodologis (*mudhthariban*) yang memicu kerusakan tatanan (*mafsadatan*).
 3. **Prinsip Rekayasa *Conceptual Integrity***: Menjamin bahwa seluruh komponen ekosistem TUMBUH berbicara dalam satu bahasa persatuan (*Ubiquitous Language*) yang utuh dan harmonis.
 
-### 11.4. Konsekuensi Arsitektural (Consequences)
+### 10.4. Konsekuensi Arsitektural (Consequences)
 - **Konsekuensi Positif**:
   - Santri terlindungi dari jebakan kepatuhan munafik; pembinaan adab berakar pada kesadaran muraqabah dan fitrah.
   - Musyrif memiliki kompas navigasi mental yang kokoh saat menghadapi dilema perilaku santri yang baru.
@@ -479,9 +479,9 @@ Diputuskan secara mutlak dan mengikat bagi seluruh jajaran pengembang, peneliti,
 
 ---
 
-## 12. Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails Fondasi
+## 11. Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails Fondasi
 
-### 12.1. Pemetaan Implikasi Lintas Lapisan Repositori
+### 11.1. Pemetaan Implikasi Lintas Lapisan Repositori
 Ketetapan kanonik P00022 memberikan dampak langsung pada struktur dan tata kerja repositori TUMBUH v2.0.0:
 
 ```text
@@ -499,7 +499,7 @@ Ketetapan kanonik P00022 memberikan dampak langsung pada struktur dan tata kerja
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 12.2. Tujuh Butir Guardrails Penegakan Fondasi (Batas Negatif Mutlak)
+### 11.2. Tujuh Butir Guardrails Penegakan Fondasi (Batas Negatif Mutlak)
 
 Tujuh batas larangan mutlak (*negative boundaries*) yang haram dilanggar dalam pengelolaan repositori TUMBUH v2.0.0:
 
@@ -513,14 +513,14 @@ Tujuh batas larangan mutlak (*negative boundaries*) yang haram dilanggar dalam p
 
 ---
 
-## 13. Penutup & Emergent Chain of Inquiry
+## 12. Penutup & Emergent Chain of Inquiry
 
-### 13.1. Sintesis Penutup
+### 12.1. Sintesis Penutup
 Penyelidikan kanonik P00022 telah membuktikan secara aksiomatis, ilmiah, dan syar'i bahwa **lapisan Foundation adalah pintu gerbang pertama dan akar makna tunggal (*the indispensable root of meaning*) bagi seluruh arsitektur TUMBUH v2.0.0**. Ketergesa-gesaan untuk langsung membuat tata tertib operasional tanpa menyelesaikan fondasi filosofis terbukti secara historis melahirkan generasi santri berkepribadian ganda dan memicu kerapuhan sistemik lembaga. 
 
 Dengan menyatukan tamsil Qur'ani *Syajarah Thayyibah* dan hermeneutika ulama salaf dengan teori rekayasa perangkat lunak *Conceptual Integrity* dan *Self-Determination Theory*, ekosistem TUMBUH v2.0.0 kini memiliki fondasi yang tidak hanya agung secara spiritual, melainkan juga presisi, kokoh, dan teruji secara arsitektural.
 
-### 13.2. Emergent Research Questions Menuju P00023
+### 12.2. Emergent Research Questions Menuju P00023
 Pengukuhan kedudukan Foundation sebagai pintu gerbang pertama secara organik memicu rangkaian pertanyaan penelitian terbuka (*Emergent Research Questions*) yang memantik penyelidikan pada berkas berikutnya:
 
 1. **Pertanyaan Logika Pembagian 9 Domain Menuju `P00023`**:
@@ -532,7 +532,7 @@ Pengukuhan kedudukan Foundation sebagai pintu gerbang pertama secara organik mem
 
 ---
 
-## 14. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
+## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 ### 14.1. Khazanah Turats Klasik Primer & Syarah Mu'tabar
 - Al-Attas, S. M. N. (1980). *The concept of education in Islam: A framework for an Islamic philosophy of education*. Muslim Youth Movement of Malaysia (ABIM).
