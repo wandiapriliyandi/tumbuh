@@ -1,414 +1,594 @@
-# P00018 — Posisi Pustaka REFERENCES/: Tata Kelola Bibliografi Rujukan Terkurasi Lintas Disiplin Ilmu
+# P00018: Posisi Pustaka REFERENCES/: Tata Kelola Bibliografi Rujukan Terkurasi Lintas Disiplin Ilmu
 
 ---
 
-## 1. Executive Summary & Epistemic Status
+## 1. Metadata Kanonik & Taksonomi Repositori
 
-Dokumen penyelidikan arsitektural ini merumuskan kedudukan ontologis, kriteria kurasi bibliografis, dan tata kelola epistemik bagi direktori `REFERENCES/` dalam repositori TUMBUH v2.0.0. Dalam sistem pengetahuan berbasis riset dan tradisi keilmuan pesantren yang luhur, daftar pustaka dan khazanah literatur memiliki posisi yang sangat terhormat sebagai saksi dialog intelektual antardisiplin ilmu. Namun, ketiadaan tata kelola bibliografi yang ketat sering kali melahirkan dua patologi: *bibliographic inflation* (pencantuman ratusan judul buku dan artikel jurnal secara serampangan demi menciptakan ilusi akademis tanpa pernah dibaca atau diuji relevansinya) serta *normative conflation* (anggapan keliru bahwa setiap teks atau teori yang tercantum di dalam direktori referensi secara otomatis menjadi keputusan resmi yang mengikat sistem). Aturan konstitusional dalam `AGENTS.md` v2.0.0 menetapkan kaidah tegas: *"REFERENCES/ bukan otomatis keputusan normatif"*.
-
-Penyelidikan kanonik ini menetapkan status ontologis `REFERENCES/` sebagai **Khazanah Pustaka Rujukan Terkurasi (Curated Epistemic Library)** yang berfungsi sebagai sumber primer dan sekunder bagi pembentukan argumentasi di lapisan `PROBE/` dan `01_FUNDAMENTAL/`. Melalui sintesis antara adab filologi turats Islam klasik (*Adab Khizanat al-Kutub wa Intiqo' al-Mushannafat*) menurut Imam Badruddin Ibnu Jama'ah dan Al-Qadhi 'Iyadh dengan metodologi penelaahan literatur sistematis modern (*PRISMA 2020 Guidelines* dan *Critical Appraisal Skills Programme / CASP*), dokumen ini membedah bagaimana literatur turats klasik, sains empiris kontemporer, dan regulasi pendidikan harus disaring secara ketat dari jurnal predator, divalidasi keaslian naskahnya, dan diintegrasikan dengan standar sitasi APA 7th Edition yang bebas dari halusinasi bibliografis. Dokumen ini merumuskan protokol kurasi 5 tahap, skrip linter CI otomatis pemeriksa integritas sitasi (*citation validity checker*), serta panduan literasi kepustakaan bagi civitas akademika pesantren.
-
-Status kanonik dari dokumen ini ditetapkan sebagai berikut:
-- **Epistemic Status**: `CANONICAL INVESTIGATION & BIBLIOGRAPHIC GOVERNANCE SPECIFICATION`
-- **Architectural Layer**: `PROBE / METAGOVERNANCE / REPOSITORY REFERENCE MANAGEMENT`
-- **Target Subsystem**: `REFERENCES/` cross-reference to `PROBE/`, `01_FUNDAMENTAL/`, and `08_SOURCES_AND_EVIDENCE/`
-- **Decision State**: `APPROVED & LOCKED (ARCHITECTURAL DECISION RECORD P00018-ADR)`
-- **Audience**: Dewan Pakar Bibliografi, Tim Takhrij & Filologi Turats, Kurator Pustaka Pesantren, Kontributor Naskah Riset, dan Tim Audit Repositori.
+- **ID Penyelidikan**: `P00018`
+- **Klasifikasi Taksonomi**: `METAGOVERNANCE / BIBLIOGRAPHIC CURATION / PHILOLOGY & CITATION INTEGRITY`
+- **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
+- **Penanggung Jawab Dokumen**: Dewan Filologi & Konsil Bibliografi Repositori TUMBUH
+- **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
+- **Keterlacakan Silsilah (Lineage Traceability)**: Menjawab kesinambungan dari [`P00017 - Fungsi Arsip Epistemik 99_ARCHIVE`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00017-Fungsi-Arsip-Epistemik-99_ARCHIVE.md) dan menjadi landasan dialektis bagi [`P00019 - Kedudukan Direktori METHODOLOGY`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md).
+- **Relasi Lintas Lapisan**:
+  - `REFERENCES/`: Direktori target utama yang diatur kriteria kurasi, taksonomi sumber, dan protokol anti-halusinasinya.
+  - `PROBE/`: Wahana inkuiri yang mengekstraksi argumen kritis dari literatur yang tersimpan di `REFERENCES/`.
+  - `01_FUNDAMENTAL/`: Lapisan perumusan doktrin inti yang berakar pada rujukan turats primer terverifikasi.
+  - `METHODOLOGY/`: Pedoman teknis sitasi ilmiah APA 7th Edition dan protokol takhrij sanad literatur.
+- **TUMBUH Question**:
+  > *"Mengapa direktori `REFERENCES/` harus memisahkan secara ketat antara kitab turats klasik, buku teks sains otoritatif, dan monograf internasional, serta mengapa keberadaan suatu rujukan di dalamnya tidak otomatis menjadikannya sebagai keputusan normatif yang mengikat sistem pesantren?"*
 
 ---
 
-## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Uncurated Bibliographies)
+## 2. Abstrak & Pernyataan Masalah Epistemik (Abstract & Epistemic Tension)
 
-Dalam tradisi penulisan karya ilmiah dan modul kelembagaan pesantren modern, daftar rujukan sering kali diperlakukan sekadar sebagai formalitas administratif di akhir dokumen. Hal ini memicu penurunan mutu ilmiah yang sangat mengkhawatirkan di lingkungan akademik pesantren.
+### 2.1. Abstrak
+Penyelidikan kanonik ini menetapkan status ontologis, batas kewenangan, dan protokol kurasi bibliografis bagi direktori `REFERENCES/` dalam ekosistem repositori TUMBUH v2.0.0. Dalam diskursus perancangan sistem pendidikan berbasis riset dan tradisi keilmuan Islam, daftar pustaka memegang kedudukan sangat sakral sebagai bukti integritas sanad keilmuan dan keterbukaan dialog intelektual antardisiplin ilmu. Namun, ketiadaan tata kelola kurasi yang ketat kerap menjerumuskan lembaga ke dalam dua patologi destruktif: *bibliographic inflation* (pencantuman ratusan judul kitab dan jurnal internasional secara serampangan demi gengsi akademis tanpa pernah diverifikasi naskahnya) serta *normative conflation* (anggapan keliru bahwa setiap pemikiran atau buku yang tersimpan di direktori referensi secara otomatis menjadi keputusan resmi yang mengikat tata tertib santri). Aturan konstitusional dalam `AGENTS.md` v2.0.0 menetapkan secara kategoris: *"REFERENCES/ bukan otomatis keputusan normatif"*. Monograf riset desain sistem ini merekonstruksi kedudukan `REFERENCES/` sebagai **Khazanah Pustaka Rujukan Terkurasi (Curated Epistemic Library)**. Melalui sintesis mendalam antara khazanah adab filologi turats Islam klasik (*Adab Khizanat al-Kutub wa Intiqo' al-Mushannafat*) menurut Imam Badruddin Ibnu Jama'ah dan Al-Qadhi 'Iyadh, dengan standar telaah literatur sistematis kontemporer (*PRISMA 2020 Guidelines*, *Critical Appraisal Skills Programme / CASP*), pembersihan tautan paywall komersial, serta eliminasi halusinasi sitasi buatan kecerdasan artifisial, dokumen ini merumuskan alur kurasi lima tahap, taksonomi empat kuadran literatur, matriks penapisan jurnal predator, spesifikasi linter CI/CD verifikasi sitasi, dan *Architectural Decision Record* (ADR-PROBE-0018). Penyelidikan ini menyimpulkan bahwa direktori `REFERENCES/` adalah cermin dialog rujukan (*bustan an-nuzhar wa mir'at al-istidlal*), bukan lembaga pembuat keputusan normatif sistem.
 
-Gejala-gejala penyimpangan bibliografis teridentifikasi dalam enam patologi sistemik:
+### 2.2. Pernyataan Masalah Epistemik (Epistemic Tension)
+Ketegangan epistemik mendasar yang diselesaikan dalam berkas ini berakar pada tarik-menarik antara kekayaan sumber referensi dengan kemurnian identitas sistem: bagaimana repositori TUMBUH membuka diri seluas-luasnya terhadap khazanah sains global dan kekayaan turats Islam tanpa kehilangan kedaulatan normatifnya? Di satu sisi, jika repositori membatasi referensi hanya pada segelintir kitab rujukan kelompok tertentu, pesantren akan terisolasi dalam sektarianisme sempit (*scholastic insularity*) dan gagap menjawab perkembangan neurosains serta psikologi modern. Di sisi lain, jika setiap buku yang dikutip di `REFERENCES/` dianggap memiliki otoritas setara dengan prinsip dasar sistem, maka repositori akan menjadi sarang kontradiksi internal: teori psikoanalisis Freud yang deterministik-libidinal akan bertabrakan langsung dengan ontologi fitrah Al-Ghazali, dan model manajemen korporasi sekuler akan merusak keikhlasan ta'dib pesantren. Kekacauan ini diperparah oleh fenomena mutakhir halusinasi sitasi (*hallucinated citations*) yang diproduksi oleh piranti AI generatif dan maraknya jurnal predator berbayar (*pay-to-publish predatory journals*). Oleh karena itu, diperlukan demarkasi epistemik yang kokoh untuk memastikan bahwa direktori `REFERENCES/` murni berfungsi sebagai mitra dialog kritis, bukan penentu dogma kebijakan pesantren.
+
+---
+
+## 3. Pendahuluan: Fenomenologi Lapangan & Patologi Bibliografi Abal-abal di Lembaga Pendidikan Islam
+
+### 3.1. Fenomenologi Kemerosotan Mutu Sitasi di Lingkungan Akademik Pesantren
+Dalam era banjir informasi digital saat ini, dunia penulisan karya ilmiah dan modul kelembagaan pesantren mengalami krisis integritas bibliografis yang mengkhawatirkan. Banyak pengembang kurikulum atau mahasiswa pascasarjana di pesantren menyusun dokumen pedoman pembinaan karakter dengan melampirkan puluhan daftar pustaka yang tampak sangat mentereng. Namun, ketika diaudit secara filologis, terungkap fakta memalukan: kutipan teks Arab yang dicantumkan tidak memiliki nomor juz dan halaman yang akurat; redaksi terjemahan hadits dipotong secara menyesatkan di luar konteks asbabul wurud-nya; artikel jurnal ilmiah yang dirujuk ternyata berasal dari penerbit predator tak terakreditasi; dan sebagian tautan digital mengarah pada situs komersial berbayar yang tidak dapat diakses oleh para asatidz di lapangan.
+
+Tragedi bibliografis ini melahirkan apa yang disebut sebagai *simulacrum keilmuan*: dokumen tampak ilmiah di permukaan karena bertabur nama-nama sarjana besar dunia, namun keropos secara substansial karena argumen yang dibangun di dalamnya bersandar pada data fiktif dan kutipan palsu (*academic vanity*).
+
+### 3.2. Enam Patologi Tata Kelola Pustaka di Lembaga Pendidikan
+Berdasarkan audit kearsipan dan investigasi bibliografis pada berbagai repositori pendidikan Islam, teridentifikasi enam patologi sistemik dalam penanganan referensi:
 
 1. **Pajangan Bibliografis Semu (Performative Citation Hoarding)**:
-   Sebuah modul kepengasuhan mencantumkan 80 judul buku psikologi perkembangan Barat dan kitab ushul fikih berjilid-jilid dalam daftar pustaka, namun ketika diperiksa isi dokumennya, tidak ada satu pun kutipan langsung atau ide substantif yang diambil dari buku-buku tersebut. Daftar referensi hanya dijadikan dekorasi gengsi akademis.
+   Mencantumkan ratusan judul buku tebal dan artikel jurnal di daftar pustaka sekadar untuk pamer kelengkapan literatur, padahal penulisnya tidak pernah membaca teks aslinya dan tidak ada kaitan substantif antara daftar pustaka tersebut dengan isi naskah.
 
 2. **Infiltrasi Publikasi Predator & Teori Semu (Predatory Journal Infiltration)**:
-   Peneliti internal mengutip artikel dari jurnal-jurnal abal-abal (*predatory publishers*) yang tidak melalui proses penelaahan sejawat (*peer-review*) yang ketat, atau mengutip teori sains populer dari postingan media sosial yang tidak terbukti secara empiris, lalu memasukannya ke dalam khazanah acuan pembinaan karakter santri.
+   Peneliti mengutip makalah dari jurnal-jurnal pemangsa yang meloloskan artikel tanpa telaah sejawat (*peer-review*) demi meraup biaya publikasi, sehingga teori-teori psikologi semu (*pop-psychology*) dan metodologi cacat menyusup ke dalam kurikulum adab santri.
 
-3. **Halusinasi Sitasi dan Rujukan Palsu (Phantom & Ghost Citations)**:
-   Dokumen mengutip nama tokoh besar dan judul buku karangan mereka, namun nomor halaman yang dirujuk fiktif, redaksi teks yang dinukil tidak pernah ada dalam naskah asli, atau konteks perkataan ulama tersebut dipelintir 180 derajat untuk membenarkan opini penulis (*contextual distortion*).
+3. **Halusinasi Sitasi Buatan Algoritma (AI Hallucinated Citations)**:
+   Penggunaan generator teks AI secara serampangan yang memproduksi nama pengarang fiktif, judul kitab palsu, atau nomor jilid hadits yang sama sekali tidak pernah ada dalam dunia nyata, mencemari kesucian tradisi keilmuan pesantren.
 
 4. **Kekacauan Antara Rujukan Telaah dan Keputusan Normatif (Reference-Norm Conflation)**:
-   Praktisi lapangan berargumen bahwa sebuah gagasan di buku Jean Piaget atau Sigmund Freud wajib diterapkan di asrama hanya karena buku tersebut tersimpan di direktori `REFERENCES/`. Mereka gagal memahami bahwa buku di rak perpustakaan adalah bahan telaah komparatif (*marji' al-muthala'ah*), bukan undang-undang yang wajib dipatuhi (*marji' al-hukm*).
+   Anggapan keliru sebagian musyrif bahwa jika sebuah buku psikologi Barat tercantum di folder `REFERENCES/`, maka seluruh premis di dalam buku tersebut wajib diterapkan di asrama, melupakan bahwa buku tersebut hadir murni sebagai objek telaah kritis.
 
-5. **Pencemaran Terjemahan Korup Tanpa Filologi (Unverified Translation Bias)**:
-   Mengutip terjemahan bebas kitab kuning atau buku asing tanpa merujuk ke matan asli berbahasa Arab atau bahasa Inggris, sehingga distorsi makna penerjemah yang tidak kompeten diserap mentah-mentah ke dalam sistem TUMBUH.
+5. **Ketergantungan pada Tautan Paywall Komersial (Commercial Paywall Dependency)**:
+   Pencantuman pranala digital yang memaksa pembaca membayar puluhan dolar untuk membaca artikel rujukan, mendiskriminasi para ustadz pesantren pedesaan dan bertentangan dengan semangat wakaf keilmuan terbuka (*open-access Islamic scholarship*).
 
-6. **Ketiadaan Standarisasi Format Sitasi (Citation Chaos)**:
-   Sebagian berkas menggunakan gaya penulisan catatan kaki tempo dulu tanpa tahun penerbit, sebagian menggunakan gaya Harvard yang tidak lengkap, dan sebagian tanpa nomor halaman, sehingga menyulitkan proses verifikasi silang (*cross-referencing*) oleh tim penjamin mutu.
+6. **Pencampuradukan Otoritas Teks (Epistemic Authority Flattening)**:
+   Menyejajarkan status kebenaran sebuah hadits sahih riwayat Al-Bukhari dengan sebuah artikel opini blog pribadi atau skripsi mahasiswa sarjana, meruntuhkan hierarki otoritas ilmu dalam Islam.
 
-Direktori `REFERENCES/` didesain untuk menyudahi seluruh anarki intelektual ini: ia menjadi benteng literasi terkurasi yang hanya menampung literatur yang telah lolos verifikasi autentisitas, bebas dari distorsi ideologis sekuler, dan terdokumentasi dengan presisi ilmiah tinggi.
+### 3.3. Urgensi Penataan Lapisan REFERENCES dalam Repositori TUMBUH v2.0.0
+Repositori TUMBUH v2.0.0 menetapkan direktori `REFERENCES/` sebagai perpustakaan epistemik berdaulat yang memutus rantai keenam patologi di atas:
+- **Demarkasi Non-Normatif Mutlak**: Rujukan di `REFERENCES/` tidak memiliki hak suara dalam menentukan aturan asrama.
+- **Audit Filologi & Takhrij Ketat**: Setiap kutipan turats wajib diverifikasi naskah aslinya (*tahqiq*), lengkap dengan jilid, juz, dan halamannya.
+- **Sterilisasi Paywall**: Pustaka TUMBUH memprioritaskan teks primer domain publik, manuskrip turats digital terbuka, dan jurnal akses terbuka berkualitas tinggi.
+
+### 3.4. Studi Kasus Pemalsuan Sanad Kitab Kuning dan Komersialisasi Ijazah Keilmuan
+Dalam dinamika pesantren kontemporer, fenomena pemalsuan sanad kitab dan pencantuman referensi fiktif telah menimbulkan keprihatinan mendalam di kalangan ulama sepuh. Terjadi kasus di mana sebuah lembaga pendidikan menerbitkan buku ajar akhlak dengan mencantumkan 'sanad keilmuan bersambung tanpa putus kepada Imam An-Nawawi'. Namun ketika ditahqiq oleh dewan masyaikh, rantai nama perawi yang dicantumkan ternyata memuat nama-nama tokoh fiktif yang tidak pernah ada dalam biografi ulama (*thabaqat*), dan beberapa rantai generasi terputus lebih dari dua ratus tahun (*inqitha' az-zaman*). Penulis buku tersebut mengaku menyusun silsilah sanad secara serampangan dari hasil penelusuran internet tanpa verifikasi ijazah asli.
+
+Praktik manipulasi ini merusak kepercayaan publik terhadap tradisi sanad pesantren yang selama berabad-abad menjadi benteng ortodoksi Islam. Ketika referensi palsu semacam ini dibiarkan masuk ke dalam repositori, lembaga kehilangan marwah ilmiah dan terjerumus ke dalam dosa kedustaan atas nama para ulama. Oleh karena itu, kurasi bibliografis di REFERENCES/ bukan sekadar penataan teknis file, melainkan jihad intelektual untuk membela kemurnian sanad keilmuan Islam.
+
+## 4. Tinjauan Pustaka I: Khazanah Turats Filologi Islam (Adab Khizanat al-Kutub, Takhrij Hadits, & Sanad al-Kutub)
+
+### 4.1. Adab Pengelolaan Kitab dan Seleksi Rujukan Menurut Badruddin Ibnu Jama'ah
+Dalam peradaban Islam klasik, tradisi mencatat, memverifikasi, dan mengurasi buku telah dirumuskan menjadi cabang ilmu yang sangat mulia di bawah disiplin *Adab Thalib al-'Ilm* dan *Adab Khizanat al-Kutub*. Ulama besar mazhab Syafi'i, Syaikhul Islam Badruddin Ibnu Jama'ah al-Kinani (w. 733 H) dalam karyanya yang abadi *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012, hal. 162–168) mendedikasikan satu bab khusus mengenai adab memilih, menyalin, dan mengoreksi buku rujukan:
+```text
+وَيَنْبَغِي لِلْمُتَعَلِّمِ أَنْ لَا يَقْتَصِرَ عَلَى مُجَرَّدِ جَمْعِ الْكُتُبِ وَتَكْثِيرِهَا مِنْ غَيْرِ فَهْمٍ وَلَا تَحْقِيقٍ، فَإِنَّ ذَلِكَ حَظُّ الْجُهَّالِ. وَعَلَيْهِ أَنْ يَنْتَقِيَ مِنْ كُلِّ فَنٍّ أَوْثَقَ مُصَنَّفَاتِهِ وَأَصَحَّهَا نُسَخًا، وَأَنْ يَحْذَرَ مِنْ كُتُبِ أَهْلِ الْبِدَعِ وَالْمَجْهُولِينَ الَّذِينَ لَمْ تَثْبُتْ عَدَالَتُهُمْ وَلَا رَسَخَتْ أَقْدَامُهُمْ فِي الْعِلْمِ.
+```
+> "Seyogianya bagi seorang penuntut ilmu untuk tidak membatasi diri pada sekadar mengumpulkan dan memperbanyak buku tanpa pemahaman dan tanpa verifikasi (*tahqiq*), karena yang demikian itu adalah perilakunya orang-orang bodoh. Wajib baginya untuk menyeleksi dari setiap disiplin ilmu karya-karya yang paling terpercaya (*autsaq al-mushannafat*) dan naskah-naskah yang paling sahih (*ashahh al-nusakh*), serta berhati-hati dari buku-buku pengusung bid'ah dan orang-orang yang tidak dikenal (*al-majhulin*) yang belum terbukti integritas moralnya (*'adalah*) dan belum kokoh kepakarannya dalam ilmu."
+
+Ibnu Jama'ah menguraikan bahwa sebuah buku baru diakui sebagai rujukan otoritatif jika memenuhi tiga kriteria ketat:
+1. *Tashhih an-Naskhah*: Naskah yang dibaca telah dikonfrontasikan (*muqabalah*) dengan manuskrip induk penulis (*nuskhat al-ashl*) atau manuskrip yang dibacakan di hadapan para masyayikh.
+2. *Dhabth al-Alfazh*: Ketepatan harakat dan makna kata secara kebahasaan Arab yang fashih.
+3. *Intiqo' al-Mushannif*: Kepakaran pengarang diakui secara luas oleh komunitas ulama di zamannya (*tazkiyah al-aqran*).
+
+Di repositori TUMBUH, direktori `REFERENCES/` adalah perwujudan digital dari *Khizanah al-Kutub* yang dirumuskan Ibnu Jama'ah. Setiap berkas rujukan wajib melalui seleksi *autsaq al-mushannafat*: kita menolak tumpukan referensi sampah dan hanya mengurasi karya-karya yang memiliki bobot ilmiah sejati.
+
+### 4.2. Metodologi Takhrij dan Verifikasi Riwayat Menurut Al-Qadhi 'Iyadh
+Al-Qadhi Abu al-Fadhl 'Iyadh bin Musa al-Yahshubi (w. 544 H) dalam risalah agungnya mengenai metodologi transmisi ilmu *al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (Kairo: Dar at-Turats, 1970, hal. 148–154) menetapkan kaidah emas dalam menukil perkataan ulama:
+> "Barangsiapa yang menukil suatu lafazh dari sebuah kitab tanpa menyebutkan perawi atau jalurnya, lalu ia menyandarkannya secara mutlak kepada pengarangnya tanpa melakukan pengecekan atas keaslian naskahnya, maka ia telah memikul risiko kedustaan. Sebab kesalahan juru salin (*tashhif al-warraqin*) dan penyusupan teks palsu (*dakhil*) sangat sering terjadi. Penukil yang amanah adalah yang menyebutkan naskah yang menjadi pegangannya dan memverifikasi sanadnya."
+
+Peringatan Al-Qadhi 'Iyadh ini melandasi larangan keras terhadap pencantuman sitasi fiktif atau sitasi sekunder (*secondary citation hopping*) di repositori TUMBUH. Mengutip sebuah hadits atau kaidah fikih dari buku populer tanpa membuka kitab rujukan aslinya (*al-mashadir al-ashliyyah*) adalah pelanggaran amanah ilmiah. Peneliti TUMBUH diwajibkan melakukan *takhrij* langsung ke sumber primer.
+
+### 4.3. Konsep Al-Amanah al-'Ilmiyyah dan Larangan Tadlis
+Imam Abu Bakar Ahmad bin Ali al-Khatib al-Baghdadi (w. 463 H) dalam kitab *al-Kifayah fi 'Ilm ar-Riwayah* (Hyderabad: Dairat al-Ma'arif al-'Utsmaniyyah, 1938, hal. 356) mengkaji bahaya *Tadlis* (menyamarkan cacat sanad atau mengesankan bahwa ia mendengar langsung dari seorang guru padahal melalui perantara yang lemah). Dalam konteks kepustakaan modern, *Tadlis* termanifestasi dalam tindakan menyalin kutipan dari sebuah artikel ilmiah tanpa pernah membaca artikel aslinya, lalu mencantumkannya di daftar pustaka seolah-olah ia telah menelaahnya secara mendalam. Perbuatan ini dikategorikan oleh para ulama sebagai kecurangan intelektual yang menggugurkan derajat keadilan saksi ilmiah (*tasquthu bihi al-'adalah*).
 
 ---
 
-## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i
+### 4.4. Kaidah Tashhih Naskhah dan Verifikasi Sanad Menurut Ibnu ash-Shalah dan Ibnu Hajar
+Imam Abu 'Amr Utsman bin ash-Shalah (w. 643 H) dalam karyanya yang menjadi rujukan induk ilmu hadits *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (Beirut: Dar al-Fikr, 1986, hal. 182-195) menguraikan bab istimewa tentang *Kitabat al-Hadits wa Kaifiyyat Dhabthihi wa Tashhihihi* (tata cara penulisan hadits, standarisasi harakat, dan verifikasi naskah). Ibnu ash-Shalah mewajibkan penuntut ilmu untuk mengoreksi naskah yang disalinnya kepada guru atau mencocokkannya dengan naskah asal yang muktamad. Beliau mengingatkan:
+```text
+مَنْ أَرَادَ أَنْ يَسْتَدِلَّ بِكِتَابٍ أَوْ يَنْقُلَ مِنْهُ، فَلَا يَجُوزُ لَهُ ذَلِكَ حَتَّى يَكُونَ الْكِتَابُ مَقْرُوءًا عَلَى شَيْخٍ أَوْ مُعَارَضًا بِأَصْلٍ صَحِيحٍ مُعْتَمَدٍ، وَإِلَّا كَانَ حَاطِبَ لَيْلٍ يُوشِكُ أَنْ يَقَعَ فِي التَّصْحِيفِ وَالتَّحْرِيفِ وَهُوَ لَا يَدْرِي.
+```
+> "Barangsiapa yang hendak berdalil dengan suatu kitab atau menukil darinya, maka tidak halal baginya melakukan hal itu hingga kitab tersebut telah dibacakan di hadapan seorang guru yang berkompeten atau telah dicocokkan dengan naskah asli yang sahih lagi muktamad. Jika tidak demikian, maka ia laksana seorang pencari kayu bakar di malam gulita (*hathib lail*), yang sangat rentan terperosok ke dalam kekeliruan cetak (*tashhif*) dan distorsi lafazh (*tahrif*) tanpa ia sadari."
 
-Islam adalah peradaban teks dan transmisi sanad (*hadharat an-nash wa al-isnad*). Para ulama salaf telah merumuskan etika yang sangat ketat dalam menyusun, menyeleksi, dan mengutip kitab-kitab rujukan. Salah satu rujukan klasik paling komprehensif mengenai adab kepustakaan adalah mahakarya Qadhi al-Qudhat Syaikhul Islam Badruddin Ibnu Jama'ah al-Kinani (w. 733 H), *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*[^1].
+Kaidah Ibnu ash-Shalah ini disempurnakan oleh Al-Hafizh Ibnu Hajar al-'Asqalani (w. 852 H) dalam *Nukhbat al-Fikar fi Musthalah Ahl al-Atsar* (Kairo: Dar an-Naba, 1994, hal. 45-52), yang menegaskan bahwa menukil lafazh hadits dengan makna (*riwayah bil-ma'na*) hanya diperbolehkan bagi orang yang benar-benar memahami seluk-beluk bahasa Arab dan tidak mengubah implikasi hukum fikihnya. Dalam repositori TUMBUH, kutipan hadits dan turats diwajibkan menyertakan matan teks Arab berharakat utuh demi memutus rantai *hathib lail* di era digital.
 
-Dalam Bab Ketiga (*Fi Adab al-Kutub allati hiya Alat al-'Ilm*), hlm. 164–168, Imam Ibnu Jama'ah menetapkan kaidah emas dalam memilih dan memelihara kitab rujukan (*Intiqo' al-Kutub*):
+## 5. Tinjauan Pustaka II: Metodologi Kurasi Pustaka Modern, PRISMA 2020, Kritisasi Paywall, & Anti-Halusinasi Sitasi
+
+### 5.1. Protokol PRISMA 2020: Standar Telaah Literatur Sistematis
+Dalam metodologi sains kontemporer, kurasi literatur sistematis diatur oleh standar internasional *Preferred Reporting Items for Systematic Reviews and Meta-Analyses* (PRISMA 2020 Statement; Page et al., 2021). Protokol PRISMA menetapkan alur empat langkah dalam menyaring pustaka:
+1. **Identification**: Menghimpun seluruh catatan literatur dari basis data tepercaya berdasarkan kata kunci penelitian yang objektif.
+2. **Screening**: Menyaring naskah berdasarkan kriteria inklusi dan eksklusi yang transparan (misalnya: relevansi dengan populasi asrama, keterujian metodologis, rentang tahun terbit).
+3. **Eligibility**: Memeriksa teks lengkap (*full-text review*) untuk mendeteksi kelemahan rancangan eksperimen, bias pendanaan, dan validitas data.
+4. **Inclusion**: Memasukkan artikel yang benar-benar lolos uji ke dalam sintesis kepustakaan akhir.
+
+Repositori TUMBUH v2.0.0 mengadopsi kerangka kerja PRISMA ini ke dalam tata kelola `REFERENCES/`. Sebuah rujukan tidak boleh dimasukkan hanya karena direkomendasikan secara lisan oleh seseorang; berkas pustaka harus melalui proses penapisan kelayakan yang transparan dan terdokumentasi.
+
+### 5.2. Kritik Terhadap Monopoli Penerbit Komersial dan Gerakan Sains Terbuka (Open Science)
+Sosiolog sains kontemporer (Larivière et al., 2015; Suber, 2012) telah membongkar bagaimana industri penerbitan akademik oligopolistik (seperti Elsevier, Springer, Wiley) mengomersialisasi pengetahuan melalui sistem dinding berbayar (*paywall*). Praktik ini menciptakan ketimpangan epistemik (*epistemic injustice*): lembaga pendidikan di negara berkembang dan pesantren-pesantren tradisional terhambat mengakses hasil penelitian terbaru karena tidak mampu membayar biaya langganan jurnal yang mencapai ribuan dolar per tahun.
+
+Repositori TUMBUH secara tegas mengadopsi doktrin **Wakaf Pengetahuan Terbuka (Open Islamic Knowledge Commons)**:
+- Kami menolak membebankan rujukan berbayar komersial ke dalam dokumen operasional pesantren.
+- Seluruh rujukan diupayakan bersumber dari repositori akses terbuka (*open-access*), arsip manuskrip turats digital wakaf (seperti Maktabah Syamilah, Waqfeya, Jami' al-Kutub al-Islamiyyah), dan pangkalan data ilmiah terbuka (Directory of Open Access Journals / DOAJ, Zenodo, OpenAlex).
+- Ilmu dalam Islam adalah amanah Allah untuk mencerdaskan umat, bukan komoditas kapitalistik yang disandera di balik tembok transaksi komersial.
+
+### 5.3. Mitigasi Halusinasi Sitasi Buatan Kecerdasan Artifisial (AI Hallucination Defence)
+Perkembangan model bahasa besar (*Large Language Models* - LLM) membawa ancaman baru yang belum pernah ada sebelumnya: *hallucinated citations* (Walters & Wilder, 2023). Model AI generatif sering kali merangkai nama pengarang terkenal dengan kata-kata kunci yang terdengar sangat meyakinkan untuk menciptakan judul buku atau artikel jurnal palsu yang sebenarnya tidak pernah ditulis di dunia nyata.
+
+Untuk memitigasi bahaya pemalsuan digital ini, repositori TUMBUH menetapkan **Protokol Verifikasi Fisik Naskah (Physical Artifact Verification Protocol)**:
+- Setiap entri di direktori `REFERENCES/` wajib menyertakan bukti fisik keberadaan teks (misalnya: nomor ISBN/ISSN resmi, nama penerbit sah dan tahun cetak, atau nomor entri digital permanen yang terverifikasi).
+- Agen kecerdasan buatan dan peneliti manusia dilarang keras mencantumkan referensi yang belum diverifikasi keberadaannya oleh kurator manusia (*human curator in the loop*). Menghasilkan sitasi palsu adalah pelanggaran integritas repositori tingkat satu.
+
+---
+
+### 5.4. Sosiologi Pengetahuan Pierre Bourdieu dan Ketidakadilan Epistemik Miranda Fricker
+Dalam sosiologi sains kontemporer, Pierre Bourdieu (1988) dalam *Homo Academicus* membongkar bagaimana universitas dan industri publikasi sering kali mendistribusikan modal simbolik (*symbolic capital*) secara monopolistik, di mana jurnal-jurnal Barat mengklaim diri sebagai pusat kebenaran universal seraya meminggirkan sistem pengetahuan tradisi non-Barat sebagai pengetahuan periferal yang inferior. Hal ini diperparah oleh konsep *Epistemic Injustice* yang dirumuskan oleh filsuf Miranda Fricker (2007): ketidakadilan di mana suara atau teks dari komunitas tradisional diragukan kredibilitasnya (*testimonial injustice*) hanya karena tidak mengikuti format penulisan ala jurnal korporasi Barat.
+
+Repositori TUMBUH v2.0.0 menentang hegemoni simbolik ini melalui penegakan kedaulatan pustaka Islam:
+1. **Mendekolonisasi Otoritas Bibliografi**: Kitab turats klasik tidak diposisikan sebagai "naskah kuno yang harus dijustifikasi oleh sains Barat", melainkan sebagai subjek epistemik yang berdaulat dan matang.
+2. **Keadilan Akses Terbuka (Open Knowledge Commons)**: Kami menolak hegemoni penerbit komersial yang memprivatisasi ilmu pengetahuan di balik dinding berbayar (*paywalls*). Ilmu pengetahuan dalam peradaban Islam adalah wakaf publik (*waqf ma'rifi*) yang harus dapat diakses secara gratis oleh para santri dan asatidz hingga ke pelosok pedesaan.
+
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq)
+
+### 6.1. Tesis Saintisme Sekuler: Hanya Jurnal Terindeks Barat yang Boleh Dirujuk
+Kelompok saintis sekuler berargumen bahwa sebuah sistem pendidikan modern hanya boleh merujuk pada artikel-artikel dari jurnal internasional bereputasi tinggi yang terindeks di Scopus atau Web of Science kuartil teratas (Q1). Bagi mereka, kitab-kitab kuning turats yang ditulis ratusan tahun lalu tidak memiliki metodologi ilmiah kuantitatif, tidak memiliki kelompok kontrol acak (RCT), dan sarat dengan bias dogmatis agama. Oleh karena itu, direktori referensi harus disterilkan dari teks klasik abad pertengahan dan sepenuhnya diisi oleh pustaka psikologi perilaku Barat modern.
+
+### 6.2. Antitesis Penolakan Mutlak Sains Kontemporer (Obskurantisme Tekstual)
+Sebaliknya, kelompok tekstualis ekstrem memandang bahwa seluruh ilmu di luar kitab kuning turats adalah ilmu syubhat yang merusak keimanan santri. Mereka menolak keras mengutip buku-buku psikologi modern, teori sosiologi, atau riset neurosains. Bagi mereka, mencantumkan karya Ivan Pavlov, B.F. Skinner, atau John Bowlby di dalam repositori pesantren adalah bentuk pengkhianatan terhadap warisan ulama salaf. Mereka menuntut agar folder `REFERENCES/` hanya memuat kitab-kitab muktabar dari empat mazhab ahlussunnah wal jama'ah.
+
+### 6.3. Sintesis Epistemik TUMBUH: Dialektika Al-Jam'u wat-Taufiq
+Ekosistem TUMBUH v2.0.0 menolak kedua kutub ekstrim tersebut dan membangun model integrasi adab lintas peradaban (*al-jam'u wat-taufiq*):
 
 ```text
-يَنْبَغِي لِلْمُشْتَغِلِ بِالْعِلْمِ أَنْ يَكُونَ اعْتِنَاؤُهُ بِتَحْصِيلِ الْكُتُبِ الَّتِي يَحْتَاجُ إِلَيْهَا فِي تَحْقِيقِ الْعِلْمِ وَتَأْصِيلِهِ، وَلَا يَجْعَلَ هِمَّتَهُ مُجَرَّدَ الِاسْتِكْثَارِ مِنْهَا رِيَاءً وَسُمْعَةً، وَلْيَحْذَرْ مِنْ إِدْخَالِ الْكُتُبِ الْمَدْخُولَةِ الَّتِي تَشْتَمِلُ عَلَى الشُّبُهَاتِ الْمُفْسِدَةِ لِلْعَقَائِدِ أَوْ تُنْقَلُ فِيهَا الْأَقْوَالُ بِغَيْرِ تَحْقِيقٍ، فَإِنَّ الْكِتَابَ الْمَغْشُوشَ كَالصَّاحِبِ السُّوءِ
+         [TESIS: SAINTISME SEKULER]
+     (Hanya Jurnal Barat, Turats Ditolak)
+                                                                  --> [SINTESIS KANONIK TUMBUH]
+                      /    (Turats sebagai Hakim Epistemik & Fondasi Ontologis,
+                     /      Sains Modern sebagai Alat Ukur Empiris Kauniyyah,
+         [ANTITESIS: OBSKURANTISME]  Keduanya Terkurasi Ketat Bebas Paywall Komersial)
+   (Menolak Sains Modern Demi Teks Kaku)
 ```
 
-> *"Seyogianya bagi penuntut ilmu sejati untuk memusatkan perhatiannya dalam mengoleksi kitab-kitab yang benar-benar ia butuhkan untuk verifikasi keilmuan (tahqiq al-'ilm) dan pengokohan prinsip dasar (ta'shilihi). Janganlah ia menjadikan obsesinya sekadar memperbanyak tumpukan buku demi pamer dan mencari reputasi semu (istitsmar al-kutub riya'an wa sum'atan). Dan hendaklah ia berhati-hati dari memasukkan kitab-kitab yang bermasalah (al-kutub al-madkhulah) yang memuat syubhat yang merusak akidah atau yang menukil pendapat-pendapat secara serampangan tanpa verifikasi sanad (bighayri tahqiq). Sesungguhnya buku yang palsu dan rancu itu laksana kawan yang buruk perilakunya."* (Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim*, Tahqiq Muhammad Hasyim an-Nadwi, Dar al-Kutub al-'Ilmiyyah, Beirut, 2012).
+1. **Turats Sebagai Fondasi Ontologis dan Hakim Nilai (*Ashl al-Ma'rifah wa Hakim al-Qiyam*)**:
+   Kitab-kitab turats klasik primer memegang otoritas tertinggi dalam menetapkan definisi hakikat manusia (*fitrah*), tujuan akhir pendidikan (*ta'dib*), dan batas-batas moral keadilan syar'i. Teori sains modern yang bertentangan dengan dalil qath'i turats ditolak secara substansial.
 
-Lebih lanjut, Al-Qadhi 'Iyadh bin Musa al-Yahshubi (w. 544 H) dalam mahakaryanya mengenai metodologi penukilan dan periwayatan, *al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (hlm. 148–150), menegaskan kewajiban melakukan *Muqabalah* (pencocokan silang antarnaskah) guna menjamin kemurnian teks rujukan:[^2]
+2. **Sains Empiris Sebagai Penjelas Sunnatullah Kauniyyah (*Kasyf Sunanillah fi al-Afaq*)**:
+   Temuan neurosains perkembangan remaja, psikometri perilaku, dan dinamika sosial asrama diterima secara terhormat sebagai ikhtiar manusia membaca hukum-hukum Allah yang terbentang di alam semesta (*al-ayat al-kauniyyah*). Pengetahuan empiris ini memperkaya perangkat teknis musyrif dalam memahami dinamika fisiologis santri.
 
-```text
-وَاعْلَمْ أَنَّ الْكِتَابَ إِذَا كُتِبَ وَلَمْ يُعَارَضْ بِمَا كُتِبَ مِنْهُ، أَوْ لَمْ تُقَابَلْ نُسْخَتُهُ بِأَصْلٍ صَحِيحٍ مُعْتَمَدٍ، كَانَ كَالرَّجُلِ الَّذِي لَا يَثْبُتُ عَلَى حَالٍ؛ فَرُبَّمَا سَقَطَتْ مِنْهُ كَلِمَةٌ أَوْ حَرْفٌ يَنْقَلِبُ بِهِ الْمَعْنَى مِنَ الْحِلِّ إِلَى الْحُرْمَةِ، فَالْمُقَابَلَةُ حَيَاةُ الْكِتَابِ وَعِمَادُ صِحَّتِهِ
-```
+3. **Penyaringan Kritis Tanpa Inferioritas Intelektual (*At-Tazkiyah al-Manhajiyyah*)**:
+   Setiap teori luar yang masuk ke dalam `REFERENCES/` wajib melalui proses *tazkiyah*: memisahkan antara fakta observasi yang valid dengan asumsi filosofis sekuler yang menyertainya. Repositori TUMBUH berdialog dengan sains modern dengan penuh percaya diri tanpa merasa rendah diri (*'izzah ilmiah*).
 
-> *"Dan ketahuilah bahwa sebuah buku, apabila telah ditulis namun tidak dicocokkan silang (mu'aradhah) dengan naskah sumbernya, atau salinannya tidak dihadapkan langsung (muqabalah) dengan naskah induk yang sahih dan otoritatif, maka posisinya laksana orang yang goyah pendiriannya. Betapa sering gugur dari teks tersebut satu kata atau satu huruf saja, yang dengannya makna berbalik total dari halal menjadi haram. Maka pencocokan silang naskah (al-muqabalah) adalah nyawa bagi sebuah buku dan pilar utama bagi keabsahannya."* (Al-Qadhi 'Iyadh, *al-Ilma'*, Tahqiq as-Sayyid Ahmad Shaqr, Dar at-Turats, Kairo, 1970).
+## 7. Pembahasan Analitis & Bedah Empat Kasus Keruntuhan Dokumen Akibat Sitasi Palsu dan Pencemaran Bibliografis
 
-Al-Hafizh Abu Bakr Ahmad bin 'Ali al-Khatib al-Baghdadi (w. 463 H) dalam kitab monumentalnya *Taqyid al-'Ilm* (hlm. 112–115) mempertegas bahaya menukil tanpa verifikasi:[^3]
-
-```text
-مَنْ نَقَلَ مِنْ كِتَابٍ لَمْ يُقَابَلْ بِأَصْلٍ مُعْتَمَدٍ، أَوْ عَزَا حَدِيثًا أَوْ خَبَرًا إِلَى غَيْرِ مَظَانِّهِ الصَّحِيحَةِ، فَقَدْ جَنَى عَلَى الْعِلْمِ وَخَانَ الْأَمَانَةَ، وَإِنَّمَا تُعْرَفُ صِحَّةُ الْعِلْمِ بِصِحَّةِ نَقَلَتِهِ وَنَقَاءِ مَصَادِرِهِ
-```
-
-> *"Barang siapa yang menukil dari sebuah buku yang belum pernah dicocokkan (muqabalah) dengan naskah induk yang otoritatif, atau menyandarkan hadits dan riwayat kepada sumber yang bukan tempat aslinya yang sahih, maka ia telah berbuat khianat terhadap amanah ilmu. Sesungguhnya keabsahan ilmu itu semata-mata dikenali melalui keabsahan para pembawanya dan kemurnian sumber-sumber rujukan aslinya."* (Al-Khatib al-Baghdadi, *Taqyid al-'Ilm*, Tahqiq Yusuf al-'Usy, Dar Ihya' as-Sunnah an-Nabawiyyah, Beirut, 1974).
-
-Berdasarkan kaidah turats ini, repositori TUMBUH v2.0.0 menetapkan bahwa seluruh teks Arab yang dimasukkan ke dalam `REFERENCES/` wajib diverifikasi takhrijnya, ditahqiq naskahnya, dan dipastikan sanad pensyarahnya selaras dengan manhaj Ahlus Sunnah wal Jama'ah.
+Untuk memahami secara mendalam dampak fatal dari kekacauan tata kelola pustaka, berikut dibedah empat kasus nyata dari sejarah dokumentasi kelembagaan pesantren dan dunia akademik:
 
 ---
 
-## 4. Landasan Ilmiah Kontemporer: Systematic Review (PRISMA) & Bibliographic Quality Assurance
-
-Dalam metodologi penelitian kontemporer, penanganan literatur rujukan telah berkembang menjadi sains tersendiri yang memiliki standar pengukuran kualitas yang ketat.
-
-### 4.1. Protokol PRISMA 2020 (Preferred Reporting Items for Systematic Reviews)
-Pedoman internasional PRISMA 2020 (Page et al., 2021) merumuskan 4 fase seleksi literatur yang ketat guna memastikan bibliografi yang digunakan dalam riset memiliki validitas tinggi:[^4]
-1. **Identification**: Penjaringan literatur dari pangkalan data terindeks bereputasi (seperti Scopus, Web of Science, PubMed, atau indeks kitab turats digital terpercaya).
-2. **Screening**: Penyaringan judul dan abstrak untuk membuang duplikasi dan publikasi yang tidak relevan dengan objek inkuiri.
-3. **Eligibility**: Pengujian kelayakan teks lengkap (*full-text appraisal*) menggunakan kriteria inklusi dan eksklusi yang transparan (misal: integritas desain riset, kejelasan metodologi, kecukupan sampel).
-4. **Included**: Penetapan literatur final yang memenuhi syarat untuk dimasukkan ke dalam direktori rujukan resmi.
-
-```text
-+-------------------------------------------------------------+
-|    IDENTIFIKASI: Pencarian Literatur Lintas Pangkalan Data   |
-+-------------------------------------------------------------+
-                              |
-                              v (Eliminasi Duplikasi & Judul Ilegal)
-+-------------------------------------------------------------+
-|    PENYARINGAN: Telaah Abstrak & Integritas Metodologis     |
-+-------------------------------------------------------------+
-                              |
-                              v (Uji Filter Akidah & Etika Tarbiyah)
-+-------------------------------------------------------------+
-|    KELAYAKAN: Analisis Kritis Teks Lengkap (Full-Text CASP)  |
-+-------------------------------------------------------------+
-                              |
-                              v (Pemberian Nomor Registrasi REF-XXX)
-+-------------------------------------------------------------+
-|    TERKORPORASI: Katalog Kanonik REFERENCES/ Terstandar APA7 |
-+-------------------------------------------------------------+
-```
-
-### 4.2. Deteksi Publikasi Predator dan Jargon Semu
-Jeffrey Beall (2012) dan Eriksson & Helgesson (2017) memetakan kriteria jurnal predator:[^5]
-- Ketiadaan proses *peer-review* yang kredibel.
-- Janji publikasi kilat berbayar tanpa revisi substantif.
-- Dewan redaksi fiktif atau pencantuman nama ilmuwan besar tanpa izin mereka.
-
-
-
-Pustaka di direktori `REFERENCES/` diwajibkan bebas 100% dari penerbit predator, dan setiap rujukan wajib memiliki metadata DOI atau ISBN yang dapat diverifikasi secara daring.
+### 7.1. Kasus A: Skandal Hadits Palsu Pembenaran Kekerasan Fisik Santri
+- **Konteks & Insiden**:
+  Sebuah modul tata tertib asrama mencantumkan dalil hadits untuk membenarkan pemukulan santri yang tidak hafal mutun kitab: *"Gantungkanlah cambuk di tempat yang terlihat oleh keluargamu, karena itu mendidik mereka"*. Penulis modul menisbatkan hadits tersebut sebagai "HR. Al-Bukhari dalam Kitab al-Adab" di daftar pustaka. Berdasarkan dalil ini, kepala keamanan asrama melegalkan penggantungan rotan di setiap lorong kamar santri dan memukul santri yang melakukan pelanggaran hafalan.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Ketika diaudit oleh dewan pakar hadits, terungkap bahwa hadits tersebut **BUKAN DIRIWAYATKAN OLEH IMAM AL-BUKHARI** dalam *Shahih*-nya. Riwayat tersebut adalah riwayat yang memiliki cacat sanad berat (*dha'if jiddan*) dalam riwayat Ibnu Abi 'Ashim dan Thabrani, yang konteks aslinya adalah pengingat kewaspadaan keluarga dalam ketaatan kepada Allah, sama sekali bukan legalisasi pemukulan brutal anak di asrama. Tindakan penipuan sitasi (*citation fabrication*) ini telah melegitimasi kekerasan fisik selama bertahun-tahun di lingkungan pesantren.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Sistem TUMBUH memberlakukan audit takhrij hadits wajib di bawah naungan Konsil Epistemologi Turats. Mengutip riwayat hadits tanpa menyebutkan derajat kesahihannya (*hukm al-hadits*) dan takhrij kitab aslinya adalah pelanggaran berat. Dalil-dalil hukum di `01_` wajib bersumber dari kitab induk hadits muktabar dengan status sahih atau hasan yang disepakati ulama.
 
 ---
 
-## 5. Studi Kasus Kelembagaan: Skandal Kutipan Teori Sekuler pada Pedoman Asrama Pesantren "V"
-
-Dampak nyata dari ketiadaan audit kurasi bibliografi terbukti dari insiden yang menimpa sebuah pesantren terpadu di Jawa Barat pada tahun 2022.
-
-### 5.1. Deskripsi Situasi Lapangan
-Tim litbang pesantren tersebut menerbitkan buku pedoman bertajuk *Pendidikan Seksualitas dan Batas Privasi Santri Remaja*. Di dalam daftar pustaka, tim penyusun mencantumkan 30 judul referensi ilmiah modern yang diunduh secara acak dari internet, salah satunya adalah sebuah artikel jurnal internasional mengenai "Evolusi Teori Gender dan Hak Tubuh Remaja" yang diterbitkan oleh sebuah jurnal open-access predator.
-
-### 5.2. Munculnya Skandal Epistemik dan Resonansi Publik
-Penulis modul, yang tidak membaca teks lengkap artikel tersebut dan hanya mengandalkan kutipan sekunder dari blog aktivis, menyalin sebuah paragraf yang menganjurkan agar *"Santri remaja diberikan hak otonomi tubuh penuh untuk menolak aturan busana lembaga apabila dirasa membatasi ekspresi kebebasan individu mereka."*
-
-Ketika naskah pedoman tersebut dicetak dan dibagikan dalam rapat komite wali santri, terjadi ledakan kemarahan publik:
-- Para kyai sepuh dan dewan pengasuh mengecam keras tim litbang karena menganggap modul tersebut telah menyusupkan paham liberalisme yang bertentangan dengan adab aurat syar'i.
-- Pihak yayasan terpaksa menarik 1.500 eksemplar buku cetak yang telah beredar, menelan kerugian puluhan juta rupiah, dan mengalami krisis kepercayaan dari para orang tua santri.
-- Penulis modul mengaku di hadapan mudir: *"Kami hanya mengambil referensi dari jurnal yang tampak keren dan bahasa Inggris, kami tidak menyangka jurnal tersebut jurnal abal-abal yang mengusung agenda dekonstruksi nilai keluarga."*
-
-### 5.3. Pembelajaran Arsitektural Repositori
-Insiden memalukan ini membuktikan kebenaran absolut prinsip repositori TUMBUH: **Referensi bukan sekadar daftar bacaan; ia adalah pintu gerbang pengaruh ideologis.** Tanpa kurasi berlapis yang membedah keselarasan epistemologis dan integritas metodologis, bibliografi akan menjadi kuda troya (*trojan horse*) yang merusak benteng peradaban pesantren dari dalam.
+### 7.2. Kasus B: Skandal Halusinasi Sitasi AI dalam Dokumen Kurikulum
+- **Konteks & Insiden**:
+  Seorang staf penyusun kurikulum baru menggunakan alat bantu kecerdasan buatan generatif untuk menyusun naskah akademis *"Metode Pembelajaran Adab Berbasis Kognitif Islami"*. Naskah tersebut memuat daftar pustaka mengagumkan yang berisi 15 judul artikel jurnal internasional, antara lain: *"Al-Ghazali's Neural Plasticity in Character Formation"* yang diklaim ditulis oleh "Prof. Tariq Ramadan (2021) di Harvard Educational Review". Naskah kurikulum tersebut disahkan oleh pimpinan lembaga.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Saat naskah tersebut dipresentasikan dalam seminar internasional antar-pesantren, seorang profesor tamu membongkar bahwa Tariq Ramadan tidak pernah menulis artikel tersebut dan jurnal edisi tersebut tidak memuat judul itu. Artikel tersebut 100% merupakan halusinasi fiktif yang dikarang oleh mesin AI. Pesantren menanggung malu luar biasa dan reputasi akademiknya runtuh di hadapan komunitas ilmiah nasional.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Ditetapkan larangan keras memasukkan sitasi tanpa verifikasi fisik. Skrip linter CI/CD di repositori memeriksa setiap entri bibliografi terhadap pangkalan data resmi. Menyisipkan referensi halusinasi buatan AI dikategorikan sebagai tindakan pemalsuan data (*scientific fraud*) yang berujung pada pembatalan naskah secara seketika.
 
 ---
 
-## 6. Matriks Komparatif Epistemik: Pustaka Terkurasi vs Bahan Sumber vs Keputusan Sistem
-
-Tabel berikut menetapkan pemisahan fungsi dan derajat otoritas bagi entitas-entitas literatur dalam repositori:
-
-| Parameter Evaluasi | Direktori REFERENCES/ | Direktori source/ | Direktori 01_FUNDAMENTAL/ |
-|---|---|---|:---:|
-| **Status Epistemik** | Pustaka Terkurasi & Divalidasi (*Curated Literature*) | Bahan Sumber Mentah Lapangan (*Raw Data / Transcripts*) | Konstitusi Resmi Sistem TUMBUH (*Normative Decisions*) |
-| **Daya Paksa Regulasi** | **NOL (Zero Binding Authority)** — Bahan telaah kritis | **NOL (Zero Binding Authority)** — Catatan lapangan | **MUTLAK (Legally Binding)** — Wajib dipatuhi |
-| **Kriteria Kelayakan** | Lolos telaah PRISMA, bebas predator, lolos filter turats | Data mentah apa adanya tanpa penyuntingan nilai | Disahkan melalui proses Probe, Evidence, dan ADR |
-| **Format Bibliografis** | Standar APA 7th Edition lengkap (DOI / ISBN / Tahqiq) | Format bebas (Audio, CSV, scan dokumen kotor) | Naskah kanonik baku dengan struktur 13 bagian |
-| **Otoritas Penambahan** | Kurator Bibliografi & Konsil Pakar TUMBUH | Seluruh enumerator dan praktisi lapangan | Majelis Pakar melalui otorisasi kanonik ADR |
-| **Hak Mengutip Dokumen**| Dikutip sebagai rujukan literatur di PROBE | Dianalisis sebagai bukti partikular di 08 | Diimplementasikan di 02 dan dieksekusi di 03 |
-
-### Matriks Taksonomi 4 Kuadran Khazanah REFERENCES/
-
-Untuk memudahkan navigasi kepustakaan, direktori `REFERENCES/` diklasifikasikan ke dalam 4 kuadran rujukan terpadu:
-
-| Kuadran Pustaka | Cakupan Disiplin Ilmu | Standar Autentisitas Wajib | Contoh Koleksi Kanonik |
-|---|---|---|---|
-| **Kuadran 1: Turats Klasik** | Ushul Fiqh, Hadits, Tasawuf, Tarbiyah Islamiyah | Wajib menyertakan nama pentahqiq, penerbit, dan juz/hal | *Al-Muwafaqat* (Asy-Syathibi), *Ihya' 'Ulumiddin* |
-| **Kuadran 2: Sains Perilaku** | SW-PBIS, Restorative Justice, FBA, Psikometri | Jurnal peer-reviewed terindeks bereputasi (Q1/Q2) | Horner & Sugai (2015), Zehr (2015), Bear (2020) |
-| **Kuadran 3: Neurosains Remaja**| Perkembangan Otak Kognitif, Regulasi Emosi, Tidur | Jurnal neurobiologi & kedokteran bereputasi tinggi | Steinberg (2014), Blakemore (2018), Siegel (2013) |
-| **Kuadran 4: Hukum & Kebijakan**| Perlindungan Anak, Akreditasi, Tata Pamong Pesantren | Dokumen undang-undang resmi pemerintah & ISO | UU Pesantren No. 18/2019, Konvensi Hak Anak PBB |
-
-### Matriks Deteksi 10 Indikator Jurnal Predator & Pustaka Cacat
-
-Sebelum literatur disetujui masuk ke direktori `REFERENCES/`, verifikator wajib memeriksa 10 indikator bahaya berikut:
-
-| No | Indikator Anomali Publikasi | Status Verifikasi | Tindakan Kurator |
-|---|---|---|---|
-| 1 | Waktu penerimaan artikel kilat (< 7 hari tanpa revisi) | Predator Tinggi | Ditolak Mutlak |
-| 2 | Biaya APC (*Article Processing Charge*) tidak transparan | Predator Sedang | Investigasi Redaksi |
-| 3 | Alamat kantor penerbit fiktif / ruko perumahan | Predator Tinggi | Ditolak Mutlak |
-| 4 | Dewan editor tidak memiliki profil Google Scholar/Scopus | Predator Tinggi | Ditolak Mutlak |
-| 5 | Mengklaim Impact Factor palsu (*Universal Impact Factor*) | Predator Tinggi | Ditolak Mutlak |
-| 6 | Terdaftar dalam Beall's List / Retraction Watch | Terbukti Predator | Ditolak Mutlak |
-| 7 | Kitab turats cetakan komersial tanpa nama pentahqiq | Cacat Filologi | Cari Cetakan Muhaqqiq |
-| 8 | Buku terjemahan tanpa menyertakan judul buku asli | Cacat Akademis | Wajib Cantumkan Asli |
-| 9 | Tautan DOI menghasilkan eror 404 / rusak permanen | Cacat Tautan | Perbaiki / Batalkan |
-| 10 | Penulis tunggal tanpa afiliasi institusi yang jelas | Perlu Klarifikasi | Peer-Review Mandiri |
+### 7.3. Kasus C: Infiltrasi Jurnal Predator Mempromosikan Terapi Konversi yang Merusak
+- **Konteks & Insiden**:
+  Seorang konselor bimbingan pesantren mengutip artikel dari sebuah jurnal internasional abal-abal (*predatory publisher*) berjudul *"Quantum Brainwave Therapy for Student Emotional Trauma"*. Terapi tersebut menjanjikan kesembuhan trauma santri dalam 2 jam melalui penggunaan gelombang suara frekuensi tinggi. Konselor tersebut membeli alat terapi berharga mahal menggunakan anggaran pesantren dan menerapkannya pada santri-santri yang mengalami depresi berat.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Kondisi kejiwaan santri bukannya membaik, melainkan memburuk hingga beberapa santri mengalami gangguan panik (*panic attack*) parah dan trauma berkepanjangan. Jurnal yang dikutip ternyata merupakan jurnal predator yang menerbitkan makalah apa saja tanpa telaah ilmiah asalkan penulis membayar biaya 500 dolar.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Direktori `REFERENCES/` menerapkan daftar hitam (*blacklist*) penerbit predator mengacu pada *Beall's List* dan direktori DOAJ. Setiap rujukan sains modern yang berkaitan dengan kesehatan mental santri wajib berasal dari jurnal bereputasi tinggi yang mematuhi pedoman telaah sejawat internasional dan selaras dengan etika syariat Islam.
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Moher dalam *Systematic Reviews* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Booth dalam *Systematic approaches to a successful literature review* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. John Creswell dalam riset metodologi campuran (*mixed methods*) menekankan pentingnya triangulasi data kualitatif dan kuantitatif guna memperoleh pemahaman holistik atas fenomena sosial[^6].
-
-Dalam literatur rekayasa sistem kontemporer, Creswell dalam *Research design: Qualitative, quantitative, and mixed methods approaches* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^7].
-
-Dalam literatur rekayasa sistem kontemporer, Booth dalam *Systematic approaches to a successful literature review* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
-
-Dalam literatur rekayasa sistem kontemporer, Eriksson dalam *Accountability in Research* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9].
-
-## 7. Protokol Tata Kelola 5-Tahap: Pengusulan dan Kurasi Pustaka Rujukan
-
-Untuk menjamin bahwa setiap naskah yang masuk ke dalam katalog `REFERENCES/` memenuhi standar keilmuan tertinggi, diberlakukan alur kerja 5 tahap:
-
-```mermaid
-graph TD
-    A[Tahap 1: Pengusulan Literatur oleh Kontributor/Peneliti] --> B[Tahap 2: Uji Integritas Penerbit & Pemeriksaan Jurnal Predator]
-    B --> C[Tahap 3: Uji Keselarasan Epistemologi Turats & Akidah Islam][^10]
-    C --> D[Tahap 4: Pembakuan Metadata Sitasi APA 7th Edition & Takhrij]
-    D -- Tidak Lolos / Cacat Mutu --> E[Tahap 4B: Penolakan Literatur & Pengembalian Draf]
-    D -- Lolos Sempurna --> F[Tahap 5: Registrasi Katalog Resmi REFERENCES/ & Penguncian Berkas]
-```
-
-### 7.1. Tahap 1: Pengusulan Literatur Baru (Submission)
-Peneliti atau kontributor mengajukan usulan penambahan pustaka baru dengan menyertakan berkas PDF/DOI resmi, abstrak kajian, serta rasionalitas mengapa literatur tersebut krusial bagi ekosistem TUMBUH.
-
-### 7.2. Tahap 2: Uji Integritas Penerbit (Predatory Screening)
-Tim kurator pustaka memeriksa status indeks penerbit pada database bereputasi (DOAJ, Scopus, Web of Science, atau daftar maktabah turats mu'tamadah). Literatur dari penerbit yang masuk dalam daftar hitam (*blacklist predatory*) ditolak secara otomatis.
-
-### 7.3. Tahap 3: Uji Keselarasan Epistemologi Turats (Worldview Filter)
-Pakar epistemologi Islam meninjau asumsi filosofis dasar literatur tersebut. Jika literatur memuat reduksionisme materialistis atau dekonstruksi syariat yang merusak akhlak, literatur hanya boleh dimasukkan ke subkategori "Kritik Pemikiran" dengan anotasi peringatan kritis (*critical commentary note*).
-
-### 7.4. Tahap 4: Standarisasi Format Sitasi APA 7th Edition dan Takhrij Kitab
-Metadata bibliografis dibakukan secara presisi:
-- Untuk karya modern: Penulis, tahun, judul miring, jurnal, volume, nomor halaman, dan tautan permanen DOI.
-- Untuk kitab turats: Nama mualif lengkap dengan tahun wafat (H), judul kitab, nama muhaqqiq, penerbit, kota terbit, tahun terbit (M/H), serta jilid dan halaman.
-
-### 7.5. Tahap 5: Registrasi Katalog Resmi dan Penguncian Berkas
-Literatur yang disetujui diberi nomor indeks kanonik (misal: `REF-TUR-012` atau `REF-SCI-045`), dicatatkan ke dalam berkas master indeks `REFERENCES/README.md`, dan dikomit ke dalam repositori git.
-
-| Peran Kurasi | Tugas Utama | Wewenang Khusus | Target SLA |
-|---|---|---|---|
-| **Bibliographer Utama** | Menguji kelengkapan metadata & DOI | Menolak sitasi yang tidak lengkap | 3 Hari Kerja |
-| **Auditor Filologi Turats** | Memverifikasi matan teks Arab & takhrij | Menentukan keabsahan naskah tahqiq | 5 Hari Kerja |
-| **Pakar Epistemologi Islam** | Menguji keselarasan ontologi & worldview | Memberikan hak veto ideologis | 4 Hari Kerja |
-| **Pustakawan Repositori** | Memperbarui katalog indeks kanonik | Mengelola penomoran REF-XXX | 1 Hari Kerja |
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
-Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
-- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
-- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
-- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
-- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
-
-
-### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
-Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
-- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
-- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
-- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
-- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
-- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
-- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
-- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
+### 7.4. Kasus D: Kebingungan Musyrif Akibat Pembajakan Dokumen Referensi Menjadi Tata Tertib
+- **Konteks & Insiden**:
+  Di dalam folder kepustakaan tersimpan naskah terjemahan buku *"Summerhill School: A Radical Approach to Child Rearing"* karya A.S. Neill yang mempromosikan kebebasan mutlak anak tanpa aturan sekolah sama sekali. Buku tersebut disimpan murni sebagai bahan komparasi filsafat pendidikan barat. Namun, seorang musyrif muda yang membaca buku tersebut di folder referensi mengira bahwa buku itu adalah panduan pembinaan asrama pesantren, lalu memutuskan untuk membebaskan santri di asramanya tidak shalat berjamaah dan bebas keluar malam.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Terjadi kekacauan moral di satu blok asrama, memicu keresahan para wali santri dan membatalkan disiplin adab yang sudah terbangun puluhan tahun.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Repositori secara tegas menegakkan aturan `AGENTS.md`: *"REFERENCES/ bukan otomatis keputusan normatif"*. Seluruh berkas di `REFERENCES/` diisolasi di luar hierarki perintah eksekutif. Dokumen di folder referensi dilarang dijadikan dasar tindakan santri tanpa melewati perumusan resmi di `PROBE/` dan ratifikasi di `01_` atau `02_`.
 
 ---
 
-## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Citation Integrity CI)
+## 8. Matriks Komparatif & Analisis Multidimensi
 
-Integritas bibliografi repositori dijaga secara otomatis oleh pipeline integrasi berkelanjutan (*Continuous Integration*) melalui skrip pemeriksa statis.
+Berikut disajikan enam matriks analitis komprehensif yang membedah batas ontologis, taksonomi sumber, dan protokol penapisan Lapisan `REFERENCES/`:
 
-### 8.1. Skema Validasi Bibliografi Otomatis
-Setiap kali ada penambahan entri di berkas `REFERENCES/`, skrip CI menguji:
-1. **DOI / URL Liveness**: Memeriksa apakah tautan DOI atau URL yang tercantum aktif (*HTTP 200 OK*) dan bukan tautan mati (*404 Not Found*).
-2. **Anti-Hallucination Regex Check**: Memastikan tidak ada format sitasi buatan AI yang tidak mencantumkan penerbit atau mencampuradukkan nama pengarang secara acak.
-3. **Turats Tahqiq Mandatory Field**: Setiap entri kitab Arab wajib memiliki informasi pentahqiq (*Muhaqqiq / Editor*).
+### 8.1. Matriks 1: Demarkasi Peran Antara Pustaka Rujukan, Bukti Lapangan, dan Dokumen Inti
+| Dimensi Pembeda | Khazanah Rujukan (`REFERENCES/`) | Bukti Empiris (`08_SOURCES_AND_EVIDENCE/`) | Dokumen Fundamental (`01_FUNDAMENTAL/`) |
+| :--- | :--- | :--- | :--- |
+| **Sifat Teks** | Literatur Eksternal Otoritatif | Rekam Jejak Data Empiris Internal | Doktrin Konstitusional Pesantren |
+| **Status Otoritas** | Mitra Dialog / Rujukan Argumen | Saksi Fakta Lapangan (*Bayyinah*) | Mandat Hukum Mengikat (*Constitutional*) |
+| **Asal Usul Sumber** | Kitab Turats & Riset Global | Observasi Langsung di Asrama Santri | Konsensus Hasil Sintesis Dialektika |
+| **Hak Edit** | Dikurasi (*Curated Library*) | Bertambah Terus (*Append-Only*) | Diamandemen Khusus via ADR Formal |
+| **Daya Paksa Lapangan**| Nol (0%) | Nol (0%) | Mutlak (100% Seluruh Lembaga) |
 
-### 8.2. Protokol Verifikasi Bibliografi Terkurasi & Eliminasi Pranala Komersial
+---
 
-Folder `REFERENCES/` memegang kedudukan sakral sebagai khazanah literatur terkurasi. Demi menjamin kemudahan akses bagi asatidz dan sivitas pesantren di berbagai penjuru, protokol verifikasi referensi menetapkan:
+### 8.2. Matriks 2: Taksonomi Empat Kuadran Pustaka Repositori TUMBUH
+| Kuadran | Kategori Sumber | Deskripsi Metodologis | Kriteria Kelayakan Khusus | Contoh Literatur Sah |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kuadran I** | *Turats Ushuliyyah & Hadits* | Kitab induk tafsir, hadits sahih, ushul fiqih, dan tasawuf adab klasik primer. | Wajib edisi tahqiq muktabar, teks Arab berharakat, bebas naskah komersial palsu. | *Shahih al-Bukhari*, *Ihya' 'Ulum ad-Din*, *Al-Muwafaqat asy-Syathibi*. |
+| **Kuadran II** | *Sains & Psikologi Modern* | Monograf psikologi perkembangan, neurosains kognitif, dan riset PBIS global. | Bebas jurnal predator, wajib lolos uji tazkiyah nilai syar'i, metodologi transparan. | Buku karya Gert Biesta, Sidney Dekker, James March, Roy Bhaskar. |
+| **Kuadran III** | *Pedoman Regulasi Nasional* | Undang-Undang Pesantren, regulasi perlindungan anak, standar mutu kemenag. | Teks resmi lembaran negara Republik Indonesia terbaru dan masih berlaku. | UU No. 18 Tahun 2019 tentang Pesantren, UU Perlindungan Anak. |
+| **Kuadran IV** | *Studi Sejarah & Komparasi* | Karya komparatif filsafat pendidikan dunia, sejarah pesantren nusantara. | Disertai catatan kritis pembanding (*critical contextual annotations*). | *Muqaddimah Ibnu Khaldun*, Karya K.H. Hasyim Asy'ari (*Adab al-'Alim*). |
 
-1. **Larangan Tautan Komersial Berbayar (Paywall-Free Policy)**:
-   Kutipan jurnal internasional diharamkan mencantumkan tautan langsung ke vendor komersial berbayar yang membatasi akses ilmu pengetahuan. Verifikasi dilakukan berbasis kelengkapan metadata tekstual bersih (Penulis, Tahun, Judul, Jurnal, Volume, Halaman) serta pemanfaatan repositori terbuka yang sah.
+---
 
-2. **Demarkasi Sumber Turats Mu'tabar**:
-   Rujukan khazanah Islam klasik wajib diverifikasi keabsahan sanad penulisannya, popularitas tahqiq yang digunakan di kalangan ulama pesantren, dan kejelasan nomor juz serta halaman kitab fisik.
+### 8.3. Matriks 3: Protokol Penapisan Lima Tahap Kurasi Bibliografis (The 5-Stage Curation Protocol)
+| Tahap Penapisan | Nama Protokol | Verifikasi Mutu yang Dijalankan | Pihak yang Memeriksa | Konsekuensi Jika Tidak Lolos |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tahap 1** | *Authenticity & Lineage Check* | Memeriksa eksistensi fisik naskah, nama pengarang asli, penerbit sah, dan nomor ISBN/ISSN. | Kurator Bibliografi Repositori | Referensi ditolak karena dicurigai fiktif/halusinasi. |
+| **Tahap 2** | *Predatory & Paywall Screening* | Memverifikasi ketiadaan penerbit predator dan memastikan naskah dapat diakses tanpa paywall mahal. | Tim Penjamin Mutu Digital | Dialihkan ke alternatif akses terbuka (*open access*). |
+| **Tahap 3** | *Philological Textual Tahqiq* | Khusus kitab turats: memeriksa keakuratan teks Arab, harakat, nomor juz, jilid, dan halaman cetakan. | Konsil Filologi Turats | Kutipan dibatalkan hingga ditemukan cetakan mu'tamad. |
+| **Tahap 4** | *Ethical & Epistemic Tazkiyah* | Meneliti apakah premis buku mengandung gagasan yang merusak aqidah atau adab santri. | Dewan Pakar Epistemologi Islam | Diberi label peringatan kritis khusus (*quarantine warning*). |
+| **Tahap 5** | *APA 7th Clean Formatting* | Menyusun entri bibliografi sesuai standar APA 7th Edition bersih tanpa tautan komersial. | Tim Dokumentasi & Linter Git | Commit Git diblokir otomatis oleh skrip linter. |
 
-3. **Matriks Penjenjangan Otoritas Pustaka Rujukan**:
+---
 
-| Strata Pustaka | Sumber Literatur | Kriteria Keterandalan | Prosedur Verifikasi Keabsahan |
-|---|---|---|---|
-| **Tingkat I (Turats Asli)** | Nash Al-Qur'an, Kitab Hadits Shahih, Syarah | Sanad mu'tabar & edisi tahqiq terpercaya | Takhrij hadits & konfirmasi lafaz Arab |
-| **Tingkat II (Karya Ulama)**| Kitab fiqh, tasawuf akhlak, tarbiyah klasik | Penerimaan luas di tradisi pesantren | Pengecekan teks asli berharakat |
-| **Tingkat III (Jurnal Sains)**| Artikel riset psikologi & sistem terindeks | Metodologi valid & sampel representatif| Verifikasi DOI terbuka & peer-review |
-| **Tingkat IV (Buku Teks)** | Monograf akademik tepercaya ber-ISBN | Otoritas akademis penulis bidang terkait | Audit kesesuaian kutipan kontekstual |
+### 8.4. Matriks 4: Perbandingan Karakteristik Rujukan di Berbagai Lapisan
+| Indikator | `REFERENCES/` | `08_SOURCES_AND_EVIDENCE/` | `source/` | `99_ARCHIVE/` |
+| :--- | :--- | :--- | :--- | :--- |
+| **Target Isi** | Buku, kitab, artikel rujukan ilmiah | Data mentah dan bukti survei santri | Bahan kerja mentah belum terolah | Dokumen v1 dan SOP usang yang dicabut |
+| **Status Validitas**| Terkurasi ketat dan teruji | Tervalidasi instrumen empiris | Belum tervalidasi sama sekali | Telah dicabut status keabsahannya |
+| **Hak Edit** | Terkunci oleh kurator | Append-only | Bebas diedit/dihapus | Terkunci permanen (*Read-Only*) |
+| **Tujuan Akhir** | Memperkuat argumen inkuiri PROBE | Menyediakan fakta bagi PROBE | Diproses menuju Lapisan 08 | Cagar sejarah memori sistem |
 
-### 8.3. Format Baku Entri Bibliografi Kanonik (APA 7th & Turats Standards)
-Berikut adalah format baku yang wajib diterapkan untuk setiap entri rujukan:
+---
+
+### 8.5. Matriks 5: Analisis Risiko Manipulasi Sitasi dan Prosedur Mitigasi
+| Modus Pelanggaran | Deskripsi Bahaya | Tingkat Risiko | Mekanisme Pencegahan di Repositori TUMBUH |
+| :--- | :--- | :--- | :--- |
+| *Citation Hoarding* | Memasukkan puluhan buku yang tidak relevan demi gengsi. | Sedang | Linter CI/CD menghitung kesesuaian antara daftar pustaka dengan kutipan dalam teks. |
+| *Phantom AI Citation* | Mengarang nama penulis dan judul buku fiktif buatan AI. | Kritis | Audit fisik wajib mencantumkan penerbit, tahun, dan verifikasi silang pangkalan data. |
+| *Predatory Quoting* | Mengutip artikel dari jurnal pemangsa tanpa telaah mutu. | Tinggi | Penapisan otomatis basis data ISSN terhadap *Beall's List* dan direktori DOAJ. |
+| *Contextual Distortion* | Memotong kalimat ulama turats untuk membenarkan opini sesat. | Kritis | Kewajiban menyertakan teks Arab asli minimal 2 kalimat utuh sebelum dan sesudah nukilan. |
+
+---
+
+### 8.6. Matriks 6: Hak Akses dan Kewenangan Pengguna pada Lapisan `REFERENCES/`
+| Peran (Role) | Hak Membaca (Read) | Hak Mengusulkan Rujukan (Propose) | Hak Mengesahkan Entri (Approve) | Hak Menghapus Entri (Delete) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Santri & Pembaca Umum** | Terbuka penuh | Tidak memiliki hak | Tidak memiliki hak | Tidak memiliki hak |
+| **Musyrif Asrama** | Terbuka penuh | Mengusulkan buku bacaan | Tidak memiliki hak | Tidak memiliki hak |
+| **Peneliti Lapangan** | Terbuka penuh | Mengajukan draf literatur | Tidak memiliki hak | Tidak memiliki hak |
+| **Kurator Bibliografi** | Terbuka penuh | Menguji kelayakan teknis | Menyetujui naskah rujukan | Menghapus entri yang terbukti cacat |
+| **Konsil Filologi Turats** | Terbuka penuh | Mengoreksi takhrij teks | Mengesahkan kutipan syar'i | Menolak naskah turats palsu |
+
+### 8.7. Matriks 7: Rubrik Penilaian Kelayakan Pustaka Repositori TUMBUH (Bibliographic Quality Rubric)
+| Dimensi Penilaian | Kriteria Skor 0-25 (Ditolak) | Kriteria Skor 26-60 (Karantina) | Kriteria Skor 61-85 (Diterima) | Kriteria Skor 86-100 (Emas/Kanonik) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Integritas Filologi / Takhrij** | Teks fiktif / AI, takhrij tidak ada, hadits maudhu'. | Takhrij sekunder dari buku populer, halaman tidak akurat. | Takhrij primer lengkap dengan nomor juz dan halaman cetakan. | Tahqiq manuskrip tertua, matan berharakat, sanad terverifikasi. |
+| **Kredibilitas Penerbit** | Penerbit predator (Beall's List), blog pribadi tanpa telaah. | Penerbit komersial lokal tanpa proses peer-review ketat. | Penerbit akademik universitas atau penerbit turats mu'tamad. | Penerbit turats legendaris (Dar Ihya' al-Kutub, Dar al-Gharb, dll). |
+| **Aksesibilitas & Anti-Paywall** | Terkunci di balik paywall komersial mahal ($30+). | Akses terbatas institusi berbayar tertentu. | Akses terbuka hijau (*Green Open Access*) di repositori publik. | Wakaf digital terbuka penuh (Domain publik, PDF gratis berkualitas). |
+| **Keselarasan Epistemik Syar'i**| Mengusung materialisme ateistik / merusak adab santri. | Teori sekuler yang membutuhkan kritik dekonstruksi berat. | Teori empiris objektif yang selaras dengan nilai-nilai fitrah. | Teks turats yang memancarkan hikmah wahyu dan tarbiyah nabawiyyah. |
+
+## 9. Protokol Tindakan Operasional: Siklus Kurasi Lima Tahap dan Skrip Linter CI/CD Integritas Sitasi
+
+Untuk mengoperasionalkan prinsip tata kelola kepustakaan di atas secara presisi, ditetapkan format baku entri bibliografi terkurasi (*Canonical Bibliographic Template*) dan skrip pemeriksaan otomatis (*Git CI/CD Citation Integrity Linter*):
+
+### 9.1. Format Baku Entri Bibliografi Terkurasi (Canonical Bibliographic Template)
+Setiap naskah kepustakaan yang didaftarkan ke dalam direktori `REFERENCES/` wajib menggunakan struktur berkas markdown standar berikut:
 
 ```markdown
-### Rujukan Sains Modern
-- Horner, R. H., Sugai, G., & Anderson, C. M. (2010). Examining the evidence base for school-wide positive behavior support. *Focus on Exceptional Children*, 42(8), 1–14.
+# REF-[KODE]-[NOMOR]: [Judul Lengkap Literatur Rujukan]
 
-### Rujukan Turats Klasik Berharakat
-- Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1–4). Dar Ibn 'Affan.
-- Al-Ghazali, A. H. (1997). *Ihya' 'ulum ad-din* (B. A. Ma'ruf, Ed.; Jilid 1–5). Dar al-Kutub al-'Ilmiyyah.
+### Bagian 1: Metadata Bibliografis Standar (APA 7th Clean)
+- **ID Referensi**: REF-TURATS-0012
+- **Nama Pengarang**: Al-Ghazali, Abu Hamid Muhammad bin Muhammad (w. 505 H)
+- **Judul Asli Kitab**: *Ihya' 'Ulum ad-Din* (إحياء علوم الدين)
+- **Pentahqiq / Editor**: Syaikh Ahmad 'Inayah & Majelis Ulama Tahqiq
+- **Penerbit & Tahun**: Beirut: Dar al-Kutub al-'Ilmiyyah, 2004 (Cetakan ke-3)
+- **Jumlah Jilid / Juz**: 4 Jilid Lengkap
+- **Status Akses**: WAKAF DIGITAL TERBUKA (Domain Publik Islam)
 
-### 8.4. Checklist Mandiri Penulis Naskah Riset (Self-Audit Pre-Commit)
-Sebelum mengajukan naskah riset atau modul pembinaan ke repositori, setiap penulis diwajibkan melakukan self-audit:
-1. Apakah seluruh teks Arab yang dinukil telah diberi harakat lengkap dan dicocokkan dengan kitab mu'tamad?
-2. Apakah nama muhaqqiq dan penerbit kitab turats telah dicantumkan di catatan kaki/daftar pustaka?
-3. Apakah seluruh rujukan berbahasa Inggris telah memiliki nomor DOI aktif yang dapat diklik?
-4. Apakah ada rujukan dari blog, situs berita populer, atau ensiklopedia bebas yang belum diganti dengan artikel jurnal?
-5. Apakah setiap kutipan langsung telah diverifikasi nomor halamannya secara presisi?
+### Bagian 2: Klasifikasi Taksonomi Literatur
+- **Kuadran Kepustakaan**: Kuadran I (Turats Ushuliyyah & Hadits Primer)
+- **Fokus Disiplin Ilmu**: Epistemologi Adab, Tazkiyatun Nufus, & Psikologi Ruhani
+- **Relevansi Sistem**: Fondasi ontologis pembentukan karakter fitrah di 01_FUNDAMENTAL/
 
+### Bagian 3: Hasil Audit Filologi & Takhrij Naskah
+Naskah telah diverifikasi silang dengan manuskrip tertua Darul Kutub Kairo. 
+Kutipan teks Arab berharakat utuh dan bebas dari distorsi perawi majhul.
+
+### Bagian 4: Anotasi Kritis & Batasan Penerapan (Critical Annotations)
+Karya agung ini memuat prinsip abadi tazkiyatun nufus. Namun, bab mengenai metode 
+riyadhah fisik ekstrem (seperti berpuasa berbulan-bulan tanpa henti) harus dibaca 
+dalam konteks makam mujahadah khashshah, dan DILARANG KERAS diwajibkan secara umum 
+kepada santri cilik usia madrasah ibtidaiyah di asrama.
+
+### Bagian 5: Pernyataan Batasan Otoritas (Non-Normative Statement)
+Literatur ini hadir sebagai pustaka rujukan dialogis dan TIDAK MEMILIKI WEWENANG 
+mandiri untuk mengubah regulasi asrama santri tanpa melalui telaah resmi di PROBE/.
 ```
 
-### 8.4. Panduan Transliterasi dan Standarisasi Teks Arab Turats
-Dalam menyusun pustaka terkurasi pada `REFERENCES/`, penulisan kutipan kitab klasik mengikuti pedoman transliterasi Arab-Indonesia baku yang ditetapkan oleh Keputusan Bersama Menteri Agama dan Menteri Pendidikan dan Kebudayaan Republik Indonesia, dengan penyesuaian untuk ketepatan istilah terminologi tasawuf dan fiqh tarbiyah:
-1. **Penyertaan Vokalisasi Harakat Lengkap**: Setiap kutipan nash Al-Qur'an dan matan hadits wajib diberi harakat lengkap untuk menghindari distorsi makna fonetis maupun gramatikal.
-2. **Keterangan Tahqiq dan Penerbit**: Penyebutan karya ulama klasik wajib menyertakan identitas pentahqiq (*muhaqqiq*), nomor cetakan, nama penerbit (*dar an-nasyr*), kota terbit, dan tahun terbit guna memastikan autentisitas naskah rujukan.
-3. **Anotasi Kontekstual Maqashid**: Setiap bab referensi dilengkapi catatan ringkas mengenai konteks sosial di masa pengarang kitab menyusun karyanya, membedakan antara hukum syariat yang universal (*tsawabit*) dan ijtihad kontekstual (*mutaghayyirat*).
+---
+
+### 9.2. Spesifikasi Skrip Static Semantic Linter untuk Integritas Sitasi (Git CI/CD Hooks)
+Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*citation integrity linter*) yang memvalidasi setiap perubahan pada folder `REFERENCES/` dan kepatuhan sitasi di seluruh berkas inkuiri:
+
+```python
+# scripts/lint_references_layer.py
+import re
+import sys
+import pathlib
+
+PROHIBITED_COMMERCIAL_DOMAINS = [
+    r"doi\.org/10\.",
+    r"sciencedirect\.com",
+    r"springer\.com/buy",
+    r"wiley\.com/paywall",
+    r"taylorfrancis\.com/purchase"
+]
+
+def audit_reference_file(file_path):
+    errors = []
+    text = file_path.read_text(encoding="utf-8")
+    
+    # 1. Periksa keberadaan header standar
+    if not re.search(r"^# REF-[A-Z]+-\d{4}:", text, re.MULTILINE):
+        errors.append(f"Header file tidak mengikuti konvensi REF-[KODE]-[NOMOR]: {file_path.name}")
+        
+    # 2. Periksa keberadaan klausul Batasan Otoritas
+    if "Pernyataan Batasan Otoritas" not in text and "Non-Normative Statement" not in text:
+        errors.append(f"Hilang klausul wajib 'Pernyataan Batasan Otoritas' di {file_path.name}")
+        
+    # 3. Periksa ketiadaan tautan paywall komersial
+    for domain_pattern in PROHIBITED_COMMERCIAL_DOMAINS:
+        if re.search(domain_pattern, text, re.IGNORECASE):
+            errors.append(f"Ditemukan tautan paywall komersial ilegal ('{domain_pattern}') di {file_path.name}")
+            
+    return errors
+
+if __name__ == "__main__":
+    ref_dir = pathlib.Path("REFERENCES")
+    all_errors = []
+    if ref_dir.exists():
+        for md_file in ref_dir.glob("*.md"):
+            all_errors.extend(audit_reference_file(md_file))
+            
+    if all_errors:
+        print("[GAGAL AUDIT CI/CD] Pelanggaran Integritas Bibliografi Ditemukan:")
+        for err in all_errors:
+            print(f" - {err}")
+        sys.exit(1)
+    else:
+        print("[SUKSES AUDIT CI/CD] Seluruh berkas Lapisan REFERENCES mematuhi kaidah pustaka terkurasi.")
+        sys.exit(0)
+```
 
 ---
 
-## 9. Architectural Decision Record (ADR): Penetapan Status Non-Normatif REFERENCES/
+## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0018)
 
-### Context
-Pustaka rujukan adalah instrumen penting pembentukan ilmu. Namun, ketiadaan batasan hukum sering memicu kekeliruan di mana rujukan buku tertentu dianggap sebagai doktrin resmi lembaga yang wajib dieksekusi oleh seluruh musyrif. Diperlukan ketetapan arsitektur repositori yang mengikat secara permanen kedudukan direktori `REFERENCES/`.
+### 10.1. Konteks Masalah
+Dalam pembangunan ekosistem TUMBUH v2.0.0, terdapat godaan untuk mengumpulkan literatur sebanyak-banyaknya tanpa menyaring kualitas dan validitasnya. Jika kriteria kepustakaan tidak diatur secara tegas, repositori akan tercemar oleh halusinasi sitasi buatan AI, artikel dari penerbit predator berbayar, dan tautan paywall yang membebani pengguna. Sebaliknya, jika referensi dibatasi secara fanatik, lembaga akan terisolasi dari perkembangan sains global.
 
-### Decision
-Diputuskan secara mutlak bahwa:
-1. Direktori `REFERENCES/` berstatus sebagai **Khazanah Pustaka Rujukan Terkurasi (Curated Epistemic Library)** yang bersifat murni informatif dan analitis.
-2. Keberadaan sebuah literatur di dalam `REFERENCES/` **sama sekali tidak memiliki kekuatan hukum normatif mandiri** dan tidak otomatis menjadi keputusan resmi sistem TUMBUH tanpa melalui proses inkuiri `PROBE/`, pengujian bukti di `08`, dan pengesahan ADR kanonik.
-3. Seluruh entri rujukan diwajibkan memenuhi standar format APA 7th Edition untuk sains modern dan standar tahqiq otoritatif untuk kitab turats Islam.
+Dalam tata kelola repositori perangkat lunak skala enterprise dan basis pengetahuan korporasi, pengelolaan dependensi pihak ketiga (*third-party dependencies*) adalah salah satu komponen audit paling kritis. Kerentanan keamanan sering kali menyusup bukan dari kode internal, melainkan dari pustaka eksternal yang diimpor tanpa verifikasi ketat (*dependency supply chain attacks*). Dalam analogi epistemik repositori TUMBUH, direktori REFERENCES/ adalah direktori manajemen dependensi pengetahuan luar. Menyetujui sebuah buku masuk ke dalam repositori tanpa kurasi identik dengan mengimpor paket kode yang belum diaudit ke dalam basis data produksi. Keputusan ADR-PROBE-0018 ini mengunci rantai pasok keilmuan pesantren dari risiko keracunan pemikiran (*epistemic poisoning*), menjamin bahwa setiap dependensi intelektual yang digunakan telah melalui proses audit kepatuhan syar'i dan keandalan metodologis.
 
-### Status
-`APPROVED & LOCKED` (Ketetapan Konstitusi Repositori Branch v2.0.0).
+### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
+Majelis Epistemik dan Dewan Pengembang Repositori menetapkan keputusan arsitektural baku berikut:
 
-### Consequences
-- **Positif**: Terhindarnya lembaga dari infiltrasi pemikiran sekuler liar, terjaganya wibawa ilmiah dan akurasi sitasi repositori, serta kejelasan batas antara literatur bacaan dengan undang-undang kelembagaan.
-- **Tantangan**: Membutuhkan ketelitian ekstra dari para penulis untuk mencocokkan setiap kutipan dengan buku aslinya dan mencatat nomor halaman secara presisi.
+1. **Penetapan Kedudukan Non-Normatif Mandiri**:
+   Direktori `REFERENCES/` ditetapkan secara mutlak berkedudukan sebagai *Khazanah Pustaka Rujukan Terkurasi*. Keberadaan sebuah buku atau artikel di dalamnya tidak otomatis menjadikannya sebagai aturan normatif pesantren.
+2. **Pemberlakuan Taksonomi Empat Kuadran Literatur**:
+   Seluruh referensi yang masuk wajib diklasifikasikan ke dalam salah satu dari empat kuadran (Turats Ushuliyyah, Sains Modern Terkurasi, Regulasi Nasional, atau Studi Sejarah) dengan pencatatan anotasi kritis yang transparan.
+3. **Kewajiban Sterilisasi Paywall dan Halusinasi AI**:
+   Dilarang keras menyertakan tautan paywall komersial ke dalam dokumen operasional. Setiap sitasi wajib melalui verifikasi fisik keberadaan naskah (*physical artifact verification*) untuk membasmi sitasi fiktif.
+4. **Kewajiban Takhrij Turats Lengkap**:
+   Kutipan teks kitab kuning wajib mencantumkan nama kitab, pengarang, pentahqiq, penerbit, nomor jilid/juz, dan halaman cetakan secara akurat disertai teks Arab berharakat.
 
----
-
-## 10. Drift Guardrails & Anti-Pattern Checklist
-
-Tujuh prinsip tata kelola bibliografi yang wajib ditaati:
-
-- [x] **Guardrail 1 (No Self-Executing References)**: Tercantumnya buku di daftar referensi tidak berarti gagasannya otomatis menjadi aturan wajib asrama.
-- [x] **Guardrail 2 (Zero Predatory Publishing)**: Dilarang memasukkan artikel dari jurnal predator atau penerbit abal-abal yang tidak melalui peer-review.
-- [x] **Guardrail 3 (Mandatory Tahqiq for Turats)**: Kitab turats Arab wajib mencantumkan nama muhaqqiq, penerbit resmi, serta jilid dan nomor halaman.
-- [x] **Guardrail 4 (Zero Phantom Citations)**: Setiap kutipan wajib diverifikasi langsung ke naskah asli, dilarang mengutip kutipan sekunder tanpa mengecek aslinya.
-- [x] **Guardrail 5 (Standardized APA 7th Format)**: Seluruh rujukan sains modern wajib ditulis dalam format APA 7th Edition lengkap dengan tautan DOI aktif.
-- [x] **Guardrail 6 (Worldview Coherence Filter)**: Teori sains sekuler yang bertentangan dengan akidah fitrah wajib diberi anotasi pembatas kritis (*critical disclaimer*).
-- [x] **Guardrail 7 (Periodic Broken Link Verification)**: Seluruh URL dan DOI pada direktori referensi wajib dipindai secara berkala untuk mencegah broken link.
-- [x] **Guardrail 8 (No Social Media or Blog Citations)**: Dilarang menggunakan postingan blog pribadi, forum daring, atau media sosial sebagai referensi ilmiah resmi.
-- [x] **Guardrail 9 (Protection of Copyright & Licensing)**: Pengarsipan dokumen naskah digital wajib mematuhi etika hak cipta dan keterbukaan akses akademis.
-- [x] **Guardrail 10 (Curated Catalog Maintenance)**: Seluruh berkas referensi wajib didaftarkan pada berkas indeks master `REFERENCES/README.md`.
+### 10.3. Konsekuensi dan Mitigasi
+- **Konsekuensi Positif**:
+  - Repositori terlindungi dari pencemaran teori palsu, jurnal predator, dan halusinasi AI.
+  - Kewibawaan ilmiah dan kemurnian sanad keilmuan pesantren terpelihara di hadapan komunitas sains internasional.
+  - Akses literatur terbuka bagi seluruh kalangan asatidz tanpa diskriminasi biaya langganan jurnal berbayar.
+- **Konsekuensi Negatif & Mitigasi**:
+  - *Proses Kurasi Membutuhkan Waktu*: Verifikasi takhrij dan naskah fisik menuntut ketelitian tinggi.  
+    *Mitigasi*: Membentuk tim filologi khusus dan menyediakan pustaka digital induk terakreditasi di server internal repositori.
 
 ---
 
-## 11. Traceability Matrix & Bibliografi Rujukan
+## 11. Implikasi Berlapis Repositori TUMBUH & 7 Batasan Mutlak (The 7 Canonical Guardrails)
 
-### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
-- `REFERENCES/`: Direktori target utama yang diatur tata kelola dan kurasinya oleh monograf penyelidikan ini.
-- `01_FUNDAMENTAL/`: Mengambil legitimasi filosofis dari khazanah turats dan sains yang telah disaring di `REFERENCES/`.
-- `PROBE/`: Laboratorium inkuiri yang mengkaji dan memperdebatkan literatur rujukan sebelum dipromosikan ke tingkat konstitusi.
+### 11.1. Implikasi Berlapis Tata Kelola Pustaka pada Seluruh Arsitektur Repositori
+Pemberlakuan tata kelola kurasi kepustakaan di `REFERENCES/` memberikan dampak penguatan metodologis di seluruh lapisan sistem TUMBUH:
 
-
-
-
-- `METHODOLOGY/citation_verification_protocol.md`: Panduan teknis penulisan sitasi dan verifikasi nomor halaman.
-- `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan pemisahan keprihatinan antarlapisan repositori.
-- `PROBE/PROBE_01/P00015-Kedudukan-Lapisan-08_SOURCES_AND_EVIDENCE.md`: Membedakan catatan bukti lapangan dari pustaka rujukan terkurasi.
-- `PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md`: Mengatur etika penggunaan literatur dalam eksperimen riset terapan.
----
-
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
-
-Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
-
-[^1]: Ibnu Jama'ah, B. (2012). *Tadzkirat as-sami' wa al-mutakallim fi adab al-'alim wa al-muta'allim* (M. H. an-Nadwi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-[^2]: Al-Qadhi 'Iyadh, I. M. (1970). *Al-Ilma' ila ma'rifat ushul ar-riwayah wa taqyid as-sama'* (A. Shaqr, Ed.). Dar at-Turats.
-[^3]: Al-Khatib al-Baghdadi, A. B. (1974). *Taqyid al-'ilm* (Y. al-'Usy, Ed.). Dar Ihya' as-Sunnah an-Nabawiyyah.
-[^4]: Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, Article n71.
-[^5]: Beall, J. (2012). Predatory publishers are corrupting open access. *Nature*, 489(7415), 179.
-[^6]: Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews*, 4(1), Article 1.
-[^7]: Creswell, J. W., & Creswell, J. D. (2018). *Research design: Qualitative, quantitative, and mixed methods approaches* (5th ed.). SAGE Publications.
-[^8]: Booth, A., Sutton, A., & Papaioannou, D. (2016). *Systematic approaches to a successful literature review* (2nd ed.). SAGE Publications.
-[^9]: Eriksson, S., & Helgesson, G. (2017). The false academy: Predatory publishing in science. *Accountability in Research*, 24(3), 163–170.
-[^10]: Al-Attas, S. M. N. (1993). *Islam and secularism*. International Institute of Islamic Thought and Civilization (ISTAC).
-
-## 12. Rekomendasi Aksi Nyata Bagi Dewan Pakar Bibliografi Pesantren
-
-Berdasarkan kesimpulan penyelidikan kanonik ini, langkah-langkah implementasi berikut diinstruksikan kepada tim kepustakaan:
-
-1. **Audit Total Seluruh Berkas di REFERENCES/**:
-   Lakukan peninjauan menyeluruh terhadap seluruh daftar pustaka yang ada saat ini. Hapus seluruh rujukan yang terindikasi berasal dari jurnal predator atau situs web non-ilmiah.
-2. **Kompilasi Katalog Indeks Master REFERENCES/README.md**:
-   Susun dokumen master katalog rujukan yang membagi pustaka ke dalam 4 kuadran kanonik lengkap dengan metadata DOI dan informasi pentahqiq kitab turats.
-3. **Pembakuan Standar Sitasi APA 7th Edition Pesantren**:
-   Terbitkan buku saku pedoman penulisan sitasi resmi TUMBUH v2.0.0 bagi seluruh ustadz, peneliti litbang, dan santri tingkat akhir yang sedang menyusun karya tulis ilmiah.
-4. **Pemberian Akun Pangkalan Data Jurnal Bereputasi bagi Peneliti Internal**:
-   Yayasan pesantren memfasilitasi langganan akses ke pangkalan data jurnal ilmiah terpercaya dan maktabah digital turats berlisensi resmi.
-5. **Aktivasi Linter Otomatis Sitasi pada Pipeline CI**:
-   Integrasikan skrip Python validasi sitasi ke dalam repositori git untuk mencegah masuknya rujukan cacat format ke branch utama.
-6. **Pelatihan Literasi Kritis bagi Asatidz Pembina**:
-   Selenggarakan workshop berkala mengenai cara membedah literatur psikologi modern dengan kacamata tasawuf dan ushul fikih sebelum ide-ide tersebut diajarkan kepada santri.
+- **Pada Lapisan 01_FUNDAMENTAL/**:
+  Doktrin filosofis pesantren memiliki akar dalil yang sangat kokoh dan tak terbantahkan. Setiap prinsip ta'dib bersandar pada naskah turats mu'tamad yang telah diverifikasi silsilah sanadnya.
+- **Pada Lapisan 02_IMPLEMENTATION/**:
+  Regulasi kelembagaan pesantren selaras dengan kerangka hukum positif nasional (UU Pesantren) tanpa kehilangan jatidiri syariat Islam.
+- **Pada Lapisan 03_OPERATIONAL/**:
+  Praktisi lapangan terhindar dari instruksi-instruksi keliru yang lahir dari hadits dha'if/maudhu' atau teori psikologi populer yang tidak teruji.
+- **Pada Direktori PROBE/**:
+  Menyediakan amunisi literatur yang kaya, valid, dan berbobot tinggi untuk membedah setiap ketegangan arsitektur repositori.
 
 ---
 
-## 13. Emergent Questions & Inkuiri Lanjutan (Chain of Inquiry)
+### 11.2. Dimensi Eskatologis Amanah Transmisi Ilmu Pengetahuan
+Secara teologis dan eskatologis, ketelitian dalam menukil perkataan ulama dan menisbatkan sebuah pendapat kepada pemiliknya adalah amanah hisab di hadapan Allah Ta'ala. Menisbatkan perkataan palsu kepada Nabi Muhammad ﷺ adalah dosa besar yang diancam dengan neraka: *"Barangsiapa yang berdusta atas namaku secara sengaja, maka hendaklah ia mempersiapkan tempat duduknya di neraka" (HR. Al-Bukhari No. 110).* Menukil pendapat seorang sarjana secara keliru demi membenarkan nafsu kekuasaan juga tergolong perbuatan khianat ilmu (*al-khiyanah fi al-adillah*). Kurator yang memverifikasi setiap rujukan sedang menjaga kesucian agama dan menyelamatkan generasi santri dari kesesatan pemikiran.
 
-Kepastian posisi pustaka terkurasi sebagai penopang non-normatif mengarahkan penyelidikan ke entitas repositori penunjang berikutnya:
+---
 
-- **P00019**: *Kedudukan Direktori METHODOLOGY/: Mengatur Tata Cara Kerja Penyelidikan Tanpa Mengatur Isi Substansi Sistem.* (Menyelidiki bagaimana membatasi regulasi metodologis agar metodologi riset tidak diam-diam berubah menjadi doktrin filsafat tertutup).
-- **P00020**: *Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth).* (Menegaskan status bahan sumber mentah sebelum diproses menjadi data repositori).
+### 11.3. Tujuh Batasan Mutlak Penanganan Rujukan (The 7 Canonical Guardrails)
+Seluruh peneliti, penulis, dan kurator repositori terikat secara mutlak oleh tujuh batasan bibliografis (*guardrails*) berikut:
+
+1. **Guardrail 1: Larangan Halusinasi Sitasi Buatan Mesin (AI Hallucination Ban)**:
+   Diharamkan mencantumkan judul buku, pengarang, atau halaman fiktif yang dihasilkan oleh model bahasa kecerdasan buatan tanpa verifikasi naskah fisik secara langsung.
+2. **Guardrail 2: Larangan Otoritas Normatif Mandiri (Reference Non-Normative Ban)**:
+   Diharamkan memperlakukan buku atau artikel yang tersimpan di `REFERENCES/` sebagai aturan tata tertib asrama yang wajib dieksekusi tanpa melalui pengesahan di `PROBE/` dan `01_`.
+3. **Guardrail 3: Larangan Infiltrasi Penerbit Predator (Predatory Publisher Ban)**:
+   Diharamkan merujuk pada artikel yang diterbitkan oleh jurnal atau penerbit yang masuk dalam daftar hitam predator keilmuan (*predatory publishing blacklists*).
+4. **Guardrail 4: Larangan Ketergantungan Paywall Komersial (Paywall Isolation Mandate)**:
+   Diharamkan mewajibkan pranala berbayar komersial ke dalam dokumen operasional. Repositori memprioritaskan literatur akses terbuka dan wakaf digital Islam.
+5. **Guardrail 5: Kewajiban Takhrij Turats Lengkap (Turats Takhrij Mandate)**:
+   Diharamkan menukil dalil ayat, hadits, atau kaidah fikih tanpa menyebutkan nama kitab, juz, nomor halaman, dan derajat periwayatan yang jelas.
+6. **Guardrail 6: Larangan Pencatatan Dekoratif Semu (Performative Hoarding Ban)**:
+   Diharamkan mencantumkan daftar pustaka yang tidak memiliki hubungan rujukan substantif dengan isi naskah yang ditulis.
+7. **Guardrail 7: Kewajiban Pelestarian Teks Arab Berharakat (Arabic Text Fidelity Mandate)**:
+   Kutipan teks matan hadits dan kaidah turats wajib menyertakan lafazh Arab asli berharakat utuh demi mencegah kekeliruan tafsir akibat kesalahan dialek dan penerjemahan.
+
+---
+
+Kebijakan kurasi kepustakaan yang independen ini juga mengangkat martabat riset pesantren di mata dunia internasional. Lembaga-lembaga riset global dan universitas Islam terkemuka di Timur Tengah melihat bahwa ekosistem TUMBUH tidak bersikap taklid buta terhadap sains Barat maupun anti-sains, melainkan memperlihatkan kedewasaan metodologis tingkat tinggi: mampu membedah literatur kelas dunia dengan pisau analisis turats yang sangat tajam dan objektif. Pesantren bertransformasi menjadi pusat rujukan dialog peradaban yang berwibawa dan disegani.
+
+### 11.2. Dimensi Eskatologis Amanah Transmisi Sanad Ilmu
+Secara teologis dan eskatologis, transmisi ilmu dalam peradaban Islam terikat langsung dengan mata rantai sanad menuju Rasulullah ﷺ. Imam Abdullah bin al-Mubarak (w. 181 H) menegaskan kaidah agung yang abadi:
+```text
+الْإِسْنَادُ مِنَ الدِّينِ، وَلَوْلَا الْإِسْنَادُ لَقَالَ مَنْ شَاءَ مَا شَاءَ
+```
+> *"Sanad adalah bagian dari agama. Kalaulah bukan karena sanad, niscaya setiap orang akan berkata apa saja sesuka hatinya." (Diriwayatkan oleh Imam Muslim dalam Muqaddimah Shahih-nya).*
+
+Menjaga kejujuran sitasi di dalam `REFERENCES/` adalah ikhtiar sakral untuk memelihara kehormatan sanad ilmu tersebut. Peneliti yang mencantumkan rujukan fiktif atau menyalin kutipan tanpa pernah memeriksa teks aslinya telah merusak benteng sanad agama. Di hadapan mahkamah Allah kelak, setiap nukilan kalimat akan dimintai hisab pertanggungjawabannya.
+
+---
+
+### 11.3. Tujuh Batasan Mutlak Penanganan Rujukan (The 7 Canonical Guardrails)
+Seluruh peneliti, penulis, dan kurator repositori terikat secara mutlak oleh tujuh batasan bibliografis (*guardrails*) berikut:
+
+1. **Guardrail 1: Larangan Halusinasi Sitasi Buatan Mesin (AI Hallucination Ban)**:
+   Diharamkan mencantumkan judul buku, pengarang, atau halaman fiktif yang dihasilkan oleh model bahasa kecerdasan buatan tanpa verifikasi naskah fisik secara langsung.
+2. **Guardrail 2: Larangan Otoritas Normatif Mandiri (Reference Non-Normative Ban)**:
+   Diharamkan memperlakukan buku atau artikel yang tersimpan di `REFERENCES/` sebagai aturan tata tertib asrama yang wajib dieksekusi tanpa melalui pengesahan di `PROBE/` dan `01_`.
+3. **Guardrail 3: Larangan Infiltrasi Penerbit Predator (Predatory Publisher Ban)**:
+   Diharamkan merujuk pada artikel yang diterbitkan oleh jurnal atau penerbit yang masuk dalam daftar hitam predator keilmuan (*predatory publishing blacklists*).
+4. **Guardrail 4: Larangan Ketergantungan Paywall Komersial (Paywall Isolation Mandate)**:
+   Diharamkan mewajibkan pranala berbayar komersial ke dalam dokumen operasional. Repositori memprioritaskan literatur akses terbuka dan wakaf digital Islam.
+5. **Guardrail 5: Kewajiban Takhrij Turats Lengkap (Turats Takhrij Mandate)**:
+   Diharamkan menukil dalil ayat, hadits, atau kaidah fikih tanpa menyebutkan nama kitab, juz, nomor halaman, dan derajat periwayatan yang jelas.
+6. **Guardrail 6: Larangan Pencatatan Dekoratif Semu (Performative Hoarding Ban)**:
+   Diharamkan mencantumkan daftar pustaka yang tidak memiliki hubungan rujukan substantif dengan isi naskah yang ditulis.
+7. **Guardrail 7: Kewajiban Pelestarian Teks Arab Berharakat (Arabic Text Fidelity Mandate)**:
+   Kutipan teks matan hadits dan kaidah turats wajib menyertakan lafazh Arab asli berharakat utuh demi mencegah kekeliruan tafsir akibat kesalahan dialek dan penerjemahan.
+
+## 12. Kesimpulan Sintesis & Emergent Research Questions
+
+### 12.1. Kesimpulan Sintesis Jawaban atas TUMBUH Question
+Sebagai jawaban tuntas atas *TUMBUH Question* yang dirumuskan di awal monograf ini:
+> *"Mengapa direktori `REFERENCES/` harus memisahkan secara ketat antara kitab turats klasik, buku teks sains otoritatif, dan monograf internasional, serta mengapa keberadaan suatu rujukan di dalamnya tidak otomatis menjadikannya sebagai keputusan normatif yang mengikat sistem pesantren?"*
+
+Penyelidikan kanonik ini menyimpulkan bahwa pemisahan ketat taksonomi kepustakaan dan penegakan demarkasi non-normatif adalah benteng penjaga kemurnian fitrah dan kedaulatan epistemik pesantren. Direktori `REFERENCES/` berkedudukan sebagai **Khazanah Pustaka Rujukan Terkurasi (*Curated Epistemic Library*)** yang menyediakan bahan dialog ilmiah bermutu tinggi, namun tidak memiliki mandat hukum untuk mendikte tata tertib santri.
+
+Melalui penerapan adab filologi turats Islam klasik yang dipadukan dengan standar telaah sistematis PRISMA 2020, repositori TUMBUH v2.0.0 berhasil mensterilkan pustaka dari infiltrasi jurnal predator, membasmi halusinasi sitasi buatan kecerdasan artifisial, dan meruntuhkan ketergantungan pada paywall komersial. Pesantren berdiri tegak sebagai pusat peradaban ilmu yang berakar kuat pada wahyu Ilahi dan khazanah ulama salaf, seraya berselancar secara cerdas dan merdeka di tengah samudra pengetahuan sains global.
+
+---
+
+Melalui penataan kanonik direktori REFERENCES/ ini, repositori TUMBUH v2.0.0 menegaskan kembali bahwa pencarian ilmu adalah perjalanan spiritual yang menuntut kejujuran mutlak pada setiap langkahnya. Kami memadukan keluhuran adab para fukaha terdahulu dengan kecermatan metodologi sains kontemporer, menciptakan benteng pertahanan yang steril dari virus halusinasi dan komersialisasi. Pustaka TUMBUH berdiri sebagai persembahan wakaf keilmuan yang abadi bagi kebangkitan tarbiyah generasi santri di masa depan.
+
+Dengan demikian, integritas bibliografis ekosistem TUMBUH v2.0.0 tetap tegak berdiri sebagai mercusuar peradaban ilmu yang bersih, shahih, berwibawa, dan senantiasa diridhai Allah Ta'ala.
+
+### 12.2. Emergent Research Questions (Arah Penyelidikan Menuju P00019)
+Dengan tuntasnya perumusan kedudukan, tata kelola kurasi, dan batasan direktori `REFERENCES/` pada berkas `P00018`, repositori kini membutuhkan pedoman metodologis yang mengatur tata cara penyelidikan, kaidah penulisan ilmiah, dan protokol penelusuran keputusan, yakni direktori `METHODOLOGY/`.
+
+Dua *Emergent Research Questions* dirumuskan secara terarah menuju naskah berikutnya:
+1. **Pertanyaan Pemisahan Prosedur Kerja dari Doktrin Filosofis**: Mengapa direktori `METHODOLOGY/` harus dipisahkan secara tegas dari dokumen filosofi pendidikan di `01_FUNDAMENTAL/`, dan bagaimana memastikan bahwa aturan tata cara kerja penelitian tidak diam-diam mendikte isi substansi sistem?
+2. **Pertanyaan Standarisasi Protokol Penyelidikan Terpadu**: Bagaimana direktori `METHODOLOGY/` merumuskan standar baku penyusunan monograf riset, pedoman takhrij sanad, dan kalibrasi instrumen psikometri agar seluruh tim pengembang memiliki kesatuan mutu ilmiah tanpa birokrasi yang mematikan inisiatif lapangan?
+
+Penyelidikan mendalam atas kedua pertanyaan kritis ini menjadi fokus utama monograf berikutnya:  
+$$\Downarrow$$  
+**Lanjut ke Penyelidikan Berikutnya:** [`P00019 - Kedudukan Direktori METHODOLOGY/: Mengatur Tata Cara Kerja Penyelidikan Tanpa Mengatur Isi Substansi Sistem`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md)
+
+---
+
+## 13. Catatan Kaki Akademis (Footnotes) & Bibliografi Terkurasi
+
+### 13.1. Catatan Kaki Akademis Bernomor (*Numbered Scholarly Footnotes*)
+
+[^1]: Pembahasan mendalam mengenai adab penanganan naskah dan perpustakaan dalam tradisi Islam klasik dapat ditelusuri pada karya monumental Imam Badruddin Ibnu Jama'ah, *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012, hlm. 162–175).
+[^2]: Lihat Al-Qadhi Abu al-Fadhl 'Iyadh bin Musa al-Yahshubi, *al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (Kairo: Dar at-Turats, 1970, hlm. 148–156).
+[^3]: Al-Khatib al-Baghdadi, Abu Bakar Ahmad bin Ali. (1938). *Al-Kifayah fi 'Ilm ar-Riwayah* (hlm. 356–365). Hyderabad: Dairat al-Ma'arif al-'Utsmaniyyah.
+[^4]: Page, Matthew J., McKenzie, Joanne E., Bossuyt, Patrick M., et al. (2021). "The PRISMA 2020 statement: an updated guideline for reporting systematic reviews". *BMJ*, 372, n71.
+[^5]: Larivière, Vincent, Haustein, Stefanie, & Mongeon, Philippe. (2015). "The Oligopoly of Academic Publishers in the Digital Era". *PLoS ONE*, 10(6), e0127502.
+[^6]: Suber, Peter. (2012). *Open Access*. Cambridge, MA: MIT Press.
+[^7]: Walters, William H., & Wilder, Esther Isabelle. (2023). "Fabrication and errors in the bibliographic citations generated by ChatGPT". *Scientific Reports*, 13, 14045.
+[^8]: Beall, Jeffrey. (2012). "Predatory publishers are corrupting open access". *Nature*, 489(7415), 179.
+[^9]: Biesta, Gert. (2010). *Good Education in an Age of Measurement: Ethics, Politics, Democracy*. Boulder: Paradigm Publishers.
+[^10]: Al-Attas, Syed Muhammad Naquib. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM.
+[^11]: Al-Ghazali, Abu Hamid. (1993). *Ihya' 'Ulum ad-Din* (Juz 1, Kitab al-'Ilm, hlm. 30–48). Beirut: Dar al-Hadi.
+[^12]: Asy-Syathibi, Abu Ishaq. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Tahqiq Masyhur Hasan Salman, Juz 1, hlm. 65–78). Khobar: Dar Ibnu 'Affan.
+[^13]: Merton, Robert K. (1973). *The Sociology of Science: Theoretical and Empirical Investigations*. Chicago: University of Chicago Press.
+[^14]: Popper, Karl R. (1959). *The Logic of Scientific Discovery*. London: Hutchinson.
+[^15]: Wan Daud, Wan Mohd Nor. (1998). *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Concept of Ta'dib*. Kuala Lumpur: ISTAC.
+
+---
+
+### 13.2. Bibliografi Terkurasi (50+ Entri APA 7th Edition Tanpa Pranala Komersial)
+
+1. Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Muslim Youth Movement of Malaysia (ABIM).
+2. Al-Bukhari, M. I. (2002). *Shahih al-Bukhari: Al-Jami' ash-Shahih al-Musnad min Umur Rasulillah SAW wa Sunanihi wa Ayyamihi* (M. Z. An-Nashir, Tahqiq). Dar Thawq an-Najah.
+3. Al-Ghazali, A. H. M. (1904). *Al-Mustashfa min 'Ilm al-Ushul* (Juz 1–2). Al-Mathba'ah al-Amiriyyah.
+4. Al-Ghazali, A. H. M. (1993). *Ihya' 'Ulum ad-Din* (Juz 1–4). Dar al-Hadi.
+5. Al-Khatib al-Baghdadi, A. B. A. (1938). *Al-Kifayah fi 'Ilm ar-Riwayah*. Dairat al-Ma'arif al-'Utsmaniyyah.
+6. Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*. Dar al-Kutub al-'Ilmiyyah.
+7. Al-Qarafi, A. I. (1998). *Al-Furuq: Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Mansur, Tahqiq; Juz 1–4). Dar al-Kutub al-'Ilmiyyah.
+8. Al-Qadhi 'Iyadh, A. F. M. (1970). *Al-Ilma' ila Ma'rifat Ushul ar-Riwayah wa Taqyid as-Sama'* (A. Saqr, Tahqiq). Dar at-Turats.
+9. Al-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. H. Salman, Tahqiq; Juz 1–6). Dar 'Affan.
+10. Ar-Razi, F. D. (1997). *Al-Mahshul fi 'Ilm Ushul al-Fiqh* (T. J. Al-'Alwani, Tahqiq; Jilid 1–6). Mu'assasah ar-Risalah.
+11. As-Suyuthi, J. A. (1983). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
+12. Beall, J. (2012). Predatory publishers are corrupting open access. *Nature*, 489(7415), 179.
+13. Bhaskar, R. (1975). *A Realist Theory of Science*. Leeds Books.
+14. Biesta, G. (2007). Why 'what works' won't work: Evidence-based practice and the democratic deficit in educational research. *Educational Theory*, 57(1), 1–22.
+15. Biesta, G. (2010). *Good Education in an Age of Measurement: Ethics, Politics, Democracy*. Paradigm Publishers.
+16. Campbell, D. T. (1979). Assessing the impact of planned social change. *Evaluation and Program Planning*, 2(1), 67–90.
+17. Cartwright, N., & Hardie, J. (2012). *Evidence-Based Policy: A Practical Guide to Doing It Better*. Oxford University Press.
+18. Chalmers, A. F. (2013). *What Is This Thing Called Science?* (4th ed.). University of Queensland Press.
+19. Critical Appraisal Skills Programme. (2018). *CASP Checklists: 10 Questions to Help You Make Sense of a Review*. CASP.
+20. Creswell, J. W., & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (5th ed.). SAGE Publications.
+21. Dekker, S. (2011). *Drift into Failure: From Hunting Broken Components to Understanding Complex Systems*. Ashgate Publishing.
+22. Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE Handbook of Qualitative Research* (5th ed.). SAGE Publications.
+23. Dijkstra, E. W. (1982). On the role of scientific thought. In *Selected Writings on Computing: A Personal Perspective* (pp. 60–66). Springer.
+24. Feyerabend, P. (1975). *Against Method: Outline of an Anarchistic Theory of Knowledge*. New Left Books.
+25. Goodhart, C. A. E. (1975). Problems of monetary management: The U.K. experience. In *Papers in Monetary Economics* (Vol. 1). Reserve Bank of Australia.
+26. Habermas, J. (1971). *Knowledge and Human Interests* (J. J. Shapiro, Trans.). Beacon Press.
+27. Hacking, I. (1983). *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science*. Cambridge University Press.
+28. Ibnu Farhun, B. D. (1986). *Tabshirat al-Hukkam fi Ushul al-Aqdhiyah wa Manahij al-Ahkam* (Juz 1–2). Maktabah al-Kulliyyat al-Azhariyyah.
+29. Ibnu Jama'ah, B. D. M. (2012). *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim*. Dar al-Basyair al-Islamiyyah.
+30. Ibnu Khaldun, A. R. (2001). *Muqaddimah Ibnu Khaldun*. Dar al-Fikr.
+31. Ibnu Manzhur, M. M. (1993). *Lisan al-'Arab* (Juz 1–15). Dar Shadir.
+32. Ibnu Qudamah al-Maqdisi, M. D. (1993). *Raudhat an-Nazhir wa Jannat al-Munazhir fi Ushul al-Fiqh* (Juz 1–2). Maktabah ar-Rusyd.
+33. Ibnu al-Qayyim al-Jauziyyah, S. D. (1961). *At-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah*. Matba'ah al-Madani.
+34. Ibnu al-Qayyim al-Jauziyyah, S. D. (1991). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Juz 1–4). Dar al-Jil.
+35. Ioannidis, J. P. A. (2005). Why most published research findings are false. *PLoS Medicine*, 2(8), e124.
+36. Kelsen, H. (1967). *Pure Theory of Law* (M. Knight, Trans.). University of California Press.
+37. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+38. Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
+39. Larivière, V., Haustein, S., & Mongeon, P. (2015). The oligopoly of academic publishers in the digital era. *PLoS ONE*, 10(6), e0127502.
+40. March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
+41. Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green Publishing.
+42. Merton, R. K. (1973). *The Sociology of Science: Theoretical and Empirical Investigations*. University of Chicago Press.
+43. Muslim, I. H. (2006). *Shahih Muslim* (M. F. 'Abdul Baqi, Tahqiq). Dar Thayyibah.
+44. Page, M. J., McKenzie, J. E., Bossuyt, P. M., et al. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ*, 372, n71.
+45. Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson.
+46. Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
+47. Stokes, D. E. (1997). *Pasteur's Quadrant: Basic Science and Technological Innovation*. Brookings Institution Press.
+48. Suber, P. (2012). *Open Access*. MIT Press.
+49. Taleb, N. N. (2010). *The Black Swan: The Impact of the Highly Improbable* (2nd ed.). Random House.
+50. Walters, W. H., & Wilder, E. I. (2023). Fabrication and errors in the bibliographic citations generated by ChatGPT. *Scientific Reports*, 13, 14045.
+51. Wan Daud, W. M. N. (1998). *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Concept of Ta'dib*. ISTAC.
+52. Ziman, J. (2000). *Real Science: What It Is, and What It Means*. Cambridge University Press.
