@@ -567,17 +567,12 @@ Bab penutup ini mengikat seluruh argumentasi kembali ke judul monograf dan membu
 ### 12.1. Sintesis Penutup Filosofis
 Pemisahan Branch v2.0.0 adalah proklamasi kematangan intelektual ekosistem TUMBUH. Ia menjadi saksi keberanian sebuah gerakan pendidikan Islam untuk melakukan muhasabah arsitektural: berani mengakui keterbatasan desain masa lalu, berani melepaskan struktur yang rapuh, seraya dengan penuh takzim mencium tangan para perintis awal dengan mengabadikan jejak langkah mereka dalam museum silsilah yang abadi. Melalui Branch v2.0.0, repositori TUMBUH bertransformasi dari sekadar tumpukan berkas digital menjadi sebuah peradaban teks yang hidup (*living textual civilization*): sebuah bangunan arsitektur yang kokoh laksana pohon kurma unggul, yang akarnya menancap kuat pada wahyu ilahi dan tradisi salaf (*lineage preservation*), batangnya tegak di atas sains modern yang terverifikasi (*architectural restructuring*), dan cabang-cabangnya menaungi ribuan santri dengan buah adab, kemandirian, dan kemuliaan akhlak nabawiyyah.
 
-### 12.2. Jembatan Rantai Inkuiri Lanjutan (Emergent Chain of Inquiry)
-Dengan tuntasnya piagam konstitusional mengenai rasionalitas eksistensi Branch V2 pada monograf pembuka ini, rantai inkuiri arsitektural melangkah secara organik menuju berkas-berkas penyelidikan berikutnya di Pilar 1:
-- **`P00001`**: *Dekonstruksi Status V2: Mengapa V2 Bukan Penulisan Ulang dari Nol (Clean-Slate Fallacy) Melainkan Penyempurnaan Berkelanjutan?* (Membedah batasan genealogis dan metodologi transformasi naskah lama menuju naskah baru).
-- **`P00002`**: *Hakikat Git Branch sebagai Penanda Fase Arsitektural dan Bukan Sekadar Utilitas Teknis Perangkat Lunak* (Menganalisis filosofi kontrol versi modern dalam mengawal evolusi pemikiran kelembagaan Islam).
-- **`P00003`**: *Trias Perlindungan V2: Menjaga Jejak Historis, Konsistensi Pengembangan, dan Kebebasan Rekayasa Sistem* (Merumuskan mekanisme tata kelola tiga pilar perlindungan konstitusi repositori).
-- **`P00004`**: *Batas Toleransi Backward Compatibility: Kapan Struktur Lama Wajib Dilepaskan Demi Keselamatan Sistem Baru?* (Menetapkan kriteria teknis kapan kompatibilitas masa lalu harus dihentikan demi mencegah pembusukan sistem).
-- **`P00005`**: *Dialektika Pembaruan Syar'i: Konsep Tajdid dan Istishhab dalam Evolusi Dokumen Lembaga Pesantren* (Membongkar metodologi ushul fiqih dalam menjembatani hukum invariant dan instrumen operasional).
-- **`P00006`**: *Mitigasi Kerentanan Transisi Antarversi: Mencegah Kebingungan Praktisi Lapangan di Masa Migrasi V1 Menuju V2* (Merumuskan strategi manajemen perubahan dan komunikasi kelembagaan bagi musyrif asrama).
-- **`P00007`**: *Demarkasi Versioning: Membedakan Versi Konseptual Sistem, Versi Dokumen Repositori, dan Versi Tag Git* (Menegakkan tata kelola identitas penomoran rilis sistem).
-- **`P00008`**: *Kriteria Kematangan Promosi Branch: Kapan Status V2 Layak Ditetapkan Menjadi Baseline Kanonik Pengganti Main* (Menetapkan metrik kesiapan arsitektural sebelum pengesahan rilis final).
-- **`P00009`**: *Piagam Komitmen Epistemik V2: Menolak Kompromi Pragmatis yang Merendahkan Martabat Keilmuan Pesantren* (Deklarasi komitmen moral penutup resmi Pilar 1).
+### 12.2. Pertanyaan Penelitian Lanjutan (*Emergent Research Questions*) Menuju Penyelidikan P00001
+Tuntasnya pembuktian mengenai rasionalitas eksistensi Branch V2 sebagai penengah dialektika kontinuitas historis (*lineage*) dan kebebasan restrukturisasi arsitektural pada monograf pembuka ini tidak menutup proses inkuiri, melainkan justru secara organik memantik ketegangan epistemik baru yang menuntut penyelidikan lanjutan:
+1. *Setelah Branch V2 disahkan sebagai ruang rekayasa mandiri yang terbebas dari jeratan teknis masa lalu, bagaimana sistem membentengi diri dari kesesatan Clean-Slate Fallacy (sikap arogan yang menganggap sistem baru ditulis dari nol secara tabula rasa tanpa sanad empiris)?*
+2. *Bagaimana kriteria demarkasi metodologis yang presisi untuk memilah ratusan naskah warisan V1: mana artefak yang memuat intisari pengalaman empiris lapangan yang wajib diserap dan ditranslasikan ke V2, serta mana artefak yang murni merupakan utang desain (design debt) yang harus dibekukan secara permanen di museum arsip sejarah?*
+
+Kedua pertanyaan mendasar ini menjadi jembatan dialektis alami yang mengantarkan penyelidikan langsung menuju berkas monograf berikutnya: **`P00001` (Dekonstruksi Status V2: Mengapa V2 Bukan Penulisan Ulang dari Nol Melainkan Penyempurnaan Berkelanjutan)**.
 
 ---
 
