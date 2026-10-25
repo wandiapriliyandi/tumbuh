@@ -347,8 +347,12 @@ Transisi dari Fondasi menuju Model Inti bukanlah sekadar penambahan bab dokumen,
 
 ### 12.2. Jembatan Inkuiri Lanjutan (Emergent Chain of Inquiry)
 Dengan terkuncinya urgensi transisi arsitektural ini, arah penyelidikan melangkah maju untuk membedah anatomi organ-organ internal *Core Model*:
-- **P00034**: *Apa yang Menjadi Poros Tengah Core Model TUMBUH?* (Menyelidiki mengapa pertumbuhan fitrah santri menuju kemandirian beradab ditetapkan sebagai pusat gravitasi yang mengikat seluruh komponen arsitektur).
-- **P00035**: *Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)?* (Membongkar alasan sains dan syar'i mengapa pembinaan karakter mustahil berhasil tanpa penataan ruang fisik, ritme waktu, dan iklim sosial asrama 24 jam).
+- **`P00034`**: *Apa yang Menjadi Poros Tengah Core Model TUMBUH?* (Menyelidiki mengapa pertumbuhan fitrah santri menuju kemandirian beradab ditetapkan sebagai pusat gravitasi yang mengikat seluruh komponen arsitektur).
+- **`P00035`**: *Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)?* (Membongkar alasan sains dan syar'i mengapa pembinaan karakter mustahil berhasil tanpa penataan ruang fisik, ritme waktu, dan iklim sosial asrama 24 jam).
+- **`P00036`**: *Rasionalitas Komponen Kedua Core Model: Mengapa Membutuhkan Growth Mechanism (Mekanisme Pertumbuhan)?* (Menganalisis mesin lima stasiun transformasi psikospiritual: pengalaman, keterlibatan, latihan, refleksi, dan pembiasaan watak).
+- **`P00037`**: *Rasionalitas Komponen Ketiga Core Model: Mengapa Membutuhkan Core Capacity Architecture?* (Mengkodifikasi delapan kapasitas adab inti yang terukur secara perilaku).
+- **`P00038`**: *Rasionalitas Komponen Keempat Core Model: Mengapa Membutuhkan System Logic?* (Merumuskan konsistensi dialektis sistemik dan siklus umpan balik antar-komponen).
+- **`P00039`**: *Muara Seluruh Bangunan Arsitektur: Penetapan Profil Lulusan Santri (Graduate Profile)* (Menetapkan muara akhir seluruh proses pembinaan sebagai pribadi ulul albab yang beradab dan mandiri).
 
 ---
 
