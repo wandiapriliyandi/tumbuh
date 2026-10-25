@@ -135,6 +135,19 @@ Kaidah fiqhiyyah universal yang memayungi protokol pertahanan ini adalah:
 ```
 > *"Menolak kerusakan lebih didahulukan daripada meraih kemaslahatan."*
 
+### 4.4. Prinsip Perwalian Sistemik & Tanggung Jawab Kelembagaan (Kaidah Tasharruf al-Imam)
+Di samping doktrin perlindungan sarana (*Sadd adz-Dzara'i'*), khazanah ushul fiqih Islam meletakkan tanggung jawab pengawasan tatanan kelembagaan pada pundak pemegang amanah kepemimpinan melalui kaidah ushul universal:
+
+```text
+تَصَرُّفُ الْإِمَامِ عَلَى الرَّعِيَّةِ مَنُوطٌ بِالْمَصْلَحَةِ
+```
+
+> *"Kebijakan dan tindakan seorang pemimpin terhadap rakyat (atau pihak yang dipimpinnya) wajib dikaitkan dan diorientasikan sepenuhnya pada kemaslahatan."* (Kaidah ini dinukil dan disyarah secara ekstensif oleh Al-Imam Al-'Izz bin 'Abdissalam dalam *Qawa'id al-Ahkam fi Mashalih al-Anam*, Tahqiq Thaha Abdur Rauf Sa'd, Maktabah al-Kulliyyat al-Azhariyyah, Kairo, 1991, Jilid 1, hlm. 142; serta Al-Imam Jalaluddin as-Suyuthi dalam *Al-Asybah wan-Nazha'ir*, Dar al-Kutub al-'Ilmiyyah, Beirut, 1990, hlm. 121).
+
+Al-Imam Al-'Izz bin 'Abdissalam menjelaskan bahwa para wali, pengasuh, dan pengelola lembaga pendidikan berstatus sebagai *amin* (pemegang amanah perwalian) yang diharamkan secara syar'i bersikap pasif membiarkan terjadinya bahaya yang mengancam keselamatan dan kehormatan anak-anak asuh di bawah perwaliannya (*wilayah al-hadhanah*). Apabila seorang pengasuh atau dewan pimpinan pesantren membiarkan regulasi di lapisan operasional dirumuskan tanpa mekanisme filter dan penapisan yang ketat, hingga melahirkan klausul sanksi kekerasan fisik yang menzalimi fitrah santri, maka pimpinan lembaga tersebut telah melanggar mandat *al-manuth bil-mashlahah* dan memikul dosa kezaliman struktural (*itsm az-zhulm al-mu'assasi*).
+
+Dalam konteks tata kelola repositori digital modern, penerapan kaidah ini bermakna bahwa dewan pimpinan tidak cukup hanya memiliki niat baik di dalam hati atau sekadar memberikan nasihat lisan kepada musyrif lapangan. Kemaslahatan objektif (*al-mashlahah al-haqiqiyyah*) mewajibkan pimpinan untuk membangun **sistem pertahanan kelembagaan yang deterministik, adil, dan transparan**—yaitu menanamkan gerbang otomasi validasi kode yang secara aktif menggugurkan setiap draf peraturan yang melanggar hak-hak kemuliaan fitrah santri sebelum draf tersebut sempat menyentuh bilik-bilik asrama.
+
 ---
 
 ## 5. Tinjauan Pustaka II: Teori Rekayasa Sistem, Clean Architecture, & Keamanan Informasi Kontemporer
@@ -202,6 +215,18 @@ Menerapkan *The Dependency Rule* pada repositori TUMBUH menghasilkan hukum ontol
 Jerome Saltzer dan Michael Schroeder (1975) dalam makalah klasik mereka *The Protection of Information in Computer Systems* meletakkan dua prinsip keamanan fundamental yang menjadi fondasi protokol pertahanan repositori TUMBUH:
 - **Complete Mediation (Pemeriksaan Menyeluruh Tanpa Pengecualian)**: Setiap akses, setiap tautan dependensi, dan setiap modifikasi berkas wajib diperiksa secara menyeluruh oleh mekanisme keamanan setiap saat. Tidak boleh ada berkas yang lolos verifikasi hanya karena dibuat oleh pengurus senior atau pimpinan yayasan.
 - **Defense-in-Depth (Pertahanan Berlapis)**: Sistem keamanan tidak boleh bergantung pada satu pintu tunggal. Keamanan harus dirancang dalam beberapa lapisan konsentris yang saling membackup. Jika pertahanan pada Lapis 1 (komputer lokal penulis) gagal mendeteksi penyimpangan, Lapis 2 (pipeline CI otomatis) akan mencegatnya; dan jika Lapis 2 belum mendeteksi nuansa semantik, Lapis 3 (tinjauan pakar manusia) akan menyaringnya.
+
+### 5.5. Hukum Evolusi Sistem Lehman & Mitigasi Entropi Repositori
+Untuk melengkapi pemahaman mengenai degradasi desain perangkat lunak dan korpus pengetahuan, repositori TUMBUH v2.0.0 mengadopsi teori fundamental **Hukum Evolusi Perangkat Lunak (Lehman's Laws of Software Evolution)** yang dirumuskan oleh Meir M. Lehman (1980, 1996) berdasarkan observasi empiris longitudinal puluhan tahun terhadap sistem-sistem enterprise berskala besar:
+
+1. **Hukum I: Perubahan Berkelanjutan (*Law of Continuing Change*)**:
+   Sistem pengetahuan yang digunakan dalam dunia nyata (seperti ekosistem pesantren berasrama 24 jam) harus terus mengalami pembaruan dan adaptasi terhadap dinamika zaman; jika tidak, sistem tersebut niscaya akan menjadi usang (*progressively less useful*) dan ditinggalkan pengguna.
+2. **Hukum II: Peningkatan Kompleksitas & Entropi (*Law of Increasing Complexity*)**:
+   Seiring dengan berevolusinya sistem melalui penambahan dokumen, SOP, dan modul baru, kompleksitas internal repositori akan meningkat secara eksponensial dan strukturnya akan mengalami pembusukan (*design decay*), **kecuali jika ada kerja rekayasa sadar dan terprogram yang dilakukan secara terus-menerus untuk memelihara dan mereduksi kompleksitas tersebut**.
+3. **Hukum VI: Penurunan Mutu Berkelanjutan (*Law of Continuing Quality Decline*)**:
+   Kualitas fungsional dan integritas etis sistem akan mengalami kemerosotan secara alamiah seiring pergantian personel, kecuali sistem tersebut secara proaktif diadaptasi dan diaudit ke dalam lingkungan operasional yang ketat.
+
+Hukum Lehman ini memberikan pembenaran ilmiah mutlak bagi perancangan Protokol Pertahanan Lapisan Repositori TUMBUH: ketiadaan otomasi linter dan audit arsitektur berkala akan membiarkan Hukum II Lehman menghancurkan repositori secara otomatis melalui akumulasi entropi. Otomasi CI/CD bukanlah sekadar perangkat bantu tambahan (*peripheral tool*), melainkan satu-satunya daya pemulih (*anti-entropy force*) yang melawan pembusukan alamiah korpus pengetahuan kelembagaan.
 
 ---
 
@@ -337,6 +362,19 @@ Tabel berikut menetapkan aturan konstitusional gerbang interaksi (*interface bou
 | **Ketahanan terhadap Beban** | Lumpuh saat jumlah dokumen membesar | Menurun seiring kompleksitas dokumen | **Skalabel tanpa batas (skrip otomatis berulang)** |
 | **Pencegahan Kekerasan** | Sering kecolongan klausul terselubung | Hanya mendeteksi kata kunci terbatas | **Kompilasi leksikon punitif komprehensif & multi-bahasa** |
 | **Keterlacakan Silsilah** | Sulit diaudit ke belakang | Hanya mencatat riwayat versi dasar | **Graf keterlacakan dua arah terverifikasi penuh** |
+
+### 8.4. Matriks Spektrum Tanggap Insiden Pelanggaran Arsitektur Repositori
+
+Untuk memberikan panduan operasional yang presisi bagi tim auditor mutu, dewan kurator, dan pengelola teknis repositori, tabel berikut menetapkan matriks respons berjenjang berdasarkan tingkat keparahan pelanggaran (*incident response matrix*):
+
+| Level Insiden | Klasifikasi Pelanggaran | Pemicu Deteksi (*Trigger*) | Aksi Mesin CI/CD | Protokol Penanganan Tim Pengembang | Eskalasi Dewan Keilmuan |
+|:---:|---|---|:---:|---|---|
+| **Level 1 (Low)** | Galat Sintaks / Format Heading / Metadata Parsial | AST Linter Regex lokal & CI | **WARN (Exit 0)** | Kontributor memperbaiki format sesuai linter sebelum merge | Tidak memerlukan eskalasi konsil |
+| **Level 2 (Medium)** | *Broken Cross-Reference* / Dokumen Yatim Tanpa Induk | Automated Link Checker di GitHub Actions | **HOLD (Exit 1)** | PR ditahan sementara; kontributor wajib menyambungkan tautan silsilah induk | Divalidasi oleh Kurator Epistemik |
+| **Level 3 (High)** | Kebocoran Dependensi Terbalik (`01` $	o$ `03` / `source`) | AST Layer Dependency Graph Checker | **REJECT (Exit 1)** | Penolakan mutlak PR; pemetaan ulang arsitektur konseptual oleh perumus | Sidang pleno Majelis Arsitektur Konsil |
+| **Level 4 (Critical)**| Infiltrasi Klausul Punitif / Kekerasan Fisik / Denda Uang | Multi-Language Punitive Lexicon Scanner | **LOCKDOWN (Hard Block)**| Pembekuan izin komit kontributor; pembersihan naskah seketika | Investigasi pelanggaran etik & audit hukum |
+
+Penerapan matriks respons deterministik ini menjamin bahwa setiap insiden arsitektural—mulai dari salah format spasi hingga upaya penyusupan sanksi fisik liar—ditangani secara proporsional, objektif, dan berkeadilan tanpa kompromi politis.
 
 ---
 
@@ -595,4 +633,36 @@ Dialektika peralihan ini memantik rangkaian pertanyaan penelitian terbuka (*Emer
 - Martin, R. C. (2018). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
 - Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes*, 17(4), 40–52.
 - Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
+- van Gurp, J., & Bosch, J. (2002). Design erosion: Problems & causes. *Journal of Systems and Software*, 61(2), 105–119### 13.1. Khazanah Turats Klasik Primer & Syarah Mu'tabar
+- Al-Bukhari, M. I. (1993). *Shahih al-Bukhari* (M. D. al-Bugha, Ed.; 5 ed., Jilid 1–6). Dar Ibn Katsir.
+- Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'ilm al-ushul* (M. S. al-Asyqar, Ed.; Jilid 1–2). Mu'assasah ar-Risalah.
+- Al-'Izz bin 'Abdissalam, 'A. A. (1991). *Qawa'id al-ahkam fi mashalih al-anam* (T. A. Sa'd, Ed.; Jilid 1–2). Maktabah al-Kulliyyat al-Azhariyyah.
+- Al-Qarafi, S. D. (1998). *Al-Furuq: Anwar al-buruq fi anwa' al-furuq* (K. Manshur, Ed.; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+- Al-Qarafi, S. D. (2001). *Syarh tanqih al-fushul fi ikhtishar al-mahshul fi al-ushul* (T. A. Sa'd, Ed.). Maktabah al-Kulliyyat al-Azhariyyah.
+- As-Suyuthi, J. (1990). *Al-Asybah wan-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
+- Asy-Syathibi, A. I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. H. Salman, Ed.; Jilid 1–6). Dar Ibn 'Affan.
+- Asy-Syaukani, M. A. (1999). *Irsyad al-fuhul ila tahqiq al-haqq min 'ilm al-ushul* (A. M. al-Badri, Ed.; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+- Ibn 'Asyur, M. T. (2001). *Maqashid asy-syari'ah al-islamiyyah* (M. T. el-Mesawi, Ed.). Dar an-Nafa'is.
+- Ibn Qayyim al-Jauziyyah, M. (1996). *Madarij as-salikin bayna manazil iyyaka na'budu wa iyyaka nasta'in* (M. H. al-Fiqi, Ed.; Jilid 1–3). Dar al-Kutub al-'Arabi.
+- Ibn Qayyim al-Jauziyyah, M. (2002). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (M. H. Salman, Ed.; Jilid 1–6). Dar Ibn al-Jauzi.
+- Ibn Rusyd, M. A. (2004). *Bidayat al-mujtahid wa nihayat al-muqtashid* (M. S. Hallaq, Ed.; Jilid 1–4). Maktabah Ibn Taimiyyah.
+- Ibn Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. A. bin Qasim, Ed.; Jilid 1–35). Majma' al-Malik Fahd li Thiba'at al-Mush-haf asy-Syarif.
+- Muslim, H. N. (2006). *Shahih Muslim* (M. F. 'Abdul Baqi, Ed.; Jilid 1–5). Dar Ihya' at-Turats al-'Arabi.
+
+### 13.2. Literatur Sains Kontemporer, Rekayasa Perangkat Lunak, & Arsitektur Sistem
+- Bass, L., Clements, P., & Kazman, R. (2012). *Software architecture in practice* (3rd ed.). Addison-Wesley Professional.
+- Buschmann, F., Henney, K., & Schmidt, D. C. (2007). *Pattern-oriented software architecture: On patterns and pattern languages* (Vol. 5). John Wiley & Sons.
+- DAMA International. (2017). *DAMA-DMBOK: Data management body of knowledge* (2nd ed.). Technics Publications.
+- Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley Professional.
+- Ford, N., Parsons, R., & Kua, P. (2017). *Building evolutionary architectures: Support constant change*. O'Reilly Media.
+- Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+- Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design patterns: Elements of reusable object-oriented software*. Addison-Wesley.
+- Humble, J., & Farley, D. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
+- Lehman, M. M. (1980). Programs, life cycles, and laws of software evolution. *Proceedings of the IEEE*, 68(9), 1060–1076.
+- Lehman, M. M. (1996). Laws of software evolution revisited. *Lecture Notes in Computer Science*, 1114, 108–124.
+- Martin, R. C. (2008). *Clean code: A handbook of agile software craftsmanship*. Prentice Hall.
+- Martin, R. C. (2018). *Clean architecture: A craftsman's guide to software structure and design*. Prentice Hall.
+- Perry, D. E., & Wolf, A. L. (1992). Foundations for the study of software architecture. *ACM SIGSOFT Software Engineering Notes*, 17(4), 40–52.
+- Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
+- Sugai, G., & Horner, R. H. (2006). A promising approach for expanding and sustaining school-wide positive behavior support. *School Psychology Review*, 35(2), 245–259.
 - van Gurp, J., & Bosch, J. (2002). Design erosion: Problems & causes. *Journal of Systems and Software*, 61(2), 105–119.
