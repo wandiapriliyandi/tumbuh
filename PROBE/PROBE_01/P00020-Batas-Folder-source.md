@@ -1,414 +1,619 @@
-# P00020 — Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth)
+# P00020: Batas Folder source/: Mengapa Bahan Mentah Tidak Otomatis Memiliki Otoritas Kebenaran (Not Source of Truth)
 
 ---
 
-## 1. Executive Summary & Epistemic Status
+## 1. Metadata Kanonik & Taksonomi Repositori
 
-Dokumen penyelidikan arsitektural ini merumuskan status ontologis, batasan yurisdiksi, dan tata kelola integritas data bagi direktori `source/` dalam repositori TUMBUH v2.0.0. Dalam sistem rekayasa perangkat lunak dan manajemen pengetahuan modern, salah satu kesalahan paling destruktif adalah kegagalan membedakan antara "bahan mentah yang dikumpulkan di lapangan" (*raw ingestion data*) dan "kebenaran otoritatif yang telah diverifikasi dan disahkan oleh sistem" (*canonical single source of truth*). Aturan dasar epistemik dalam konstitusi `AGENTS.md` v2.0.0 menetapkan prinsip fundamental: *"source/ bukan otomatis source of truth"*. 
-
-Penyelidikan kanonik ini menetapkan demarkasi yang tegas antara **fakta kasar yang terekam** (*unprocessed sensory & documentary evidence*) dan **ketetapan sistemik yang sah** (*verified canonical decisions*). Melalui sintesis antara ilmu kritik periwayatan hadits turats (*Naqd al-Khabar wa 'Ilm at-Tahammul wa al-Ada'*) menurut Al-Imam Ibnu ash-Shalah dan Al-Qasimi dengan teori arsitektur data enterprise kontemporer (*Data Lake Ingestion vs Curated Enterprise Warehouse*, standar *DAMA-DMBOK*, dan prinsip *Garbage In, Garbage Out / GIGO*), dokumen ini membedah risiko epistemic fallacy yang timbul jika catatan lapangan mentah, rekaman audio wawancara, draf coretan tangan, atau dokumen eksternal di dalam `source/` disalahartikan sebagai undang-undang resmi pesantren. Dokumen ini merumuskan protokol kurasi data mentah 5 tahap, skrip linter CI otomatis penangkal dependensi ilegal (*raw source reference blocker*), serta panduan verifikasi faktual bagi seluruh kontributor repositori.
-
-Status kanonik dari dokumen ini ditetapkan sebagai berikut:
-- **Epistemic Status**: `CANONICAL INVESTIGATION & DATA GOVERNANCE SPECIFICATION`
-- **Architectural Layer**: `PROBE / METAGOVERNANCE / SOURCE DATA BOUNDARY`
-- **Target Subsystem**: `source/` cross-reference to `08_SOURCES_AND_EVIDENCE/`, `PROBE/`, and `01_FUNDAMENTAL/`
-- **Decision State**: `APPROVED & LOCKED (ARCHITECTURAL DECISION RECORD P00020-ADR)`
-- **Audience**: Pengelola Data Lapangan, Peneliti Asrama, Kurator Repositori, Tim Penjamin Mutu, dan Pengembang Otomasi TUMBUH.
+- **ID Penyelidikan**: `P00020`
+- **Klasifikasi Taksonomi**: `METAGOVERNANCE / DATA ARCHITECTURE / INGESTION BOUNDARY & SOURCE OF TRUTH INTEGRITY`
+- **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
+- **Penanggung Jawab Dokumen**: Dewan Tata Kelola Data & Majelis Audit Repositori TUMBUH
+- **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
+- **Keterlacakan Silsilah (Lineage Traceability)**: Menjawab kesinambungan dari [`P00019 - Kedudukan Direktori METHODOLOGY`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00019-Kedudukan-Direktori-METHODOLOGY.md) dan menjadi landasan dialektis bagi [`P00021 - Tata Kelola Silsilah Keputusan ADR`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Tata-Kelola-Silsilah-Keputusan-ADR.md).
+- **Relasi Lintas Lapisan**:
+  - `source/`: Direktori target utama yang diatur status non-otoritatifnya, sanitasi privasi santri, dan batas pembersihannya.
+  - `08_SOURCES_AND_EVIDENCE/`: Lapisan penerima data mentah dari `source/` yang telah dibersihkan, dianonimkan, dan divalidasi.
+  - `PROBE/`: Wahana penyelidikan kritis yang menimbang fakta mentah di bawah neraca epistemik.
+  - `01_FUNDAMENTAL/`: Lapisan berdaulat penentu *Single Source of Truth* sistem yang haram dirujuk langsung oleh bahan mentah.
+- **TUMBUH Question**:
+  > *"Bagaimana memperlakukan seluruh berkas catatan lapangan kasar, rekaman wawancara, draf coretan, dan artefak mentah di dalam folder `source/` murni sebagai bahan kajian non-otoritatif (*not source of truth*), serta bagaimana mekanisme sanitasi dan pengolahannya agar dapat bertransformasi secara legal menjadi bukti terstruktur tanpa mencemari konstitusi sistem pesantren?"*
 
 ---
 
-## 2. Definisi Masalah & Akar Gejala Lapangan (Pathology of Raw Ingestion Fallacy)
+## 2. Abstrak & Pernyataan Masalah Epistemik (Abstract & Epistemic Tension)
 
-Dalam dinamika digitalisasi dan pengarsipan lembaga pendidikan pesantren, penumpukan berkas kerja mentah tanpa penandaan status yang jelas sering kali memicu kerancuan pengambilan keputusan. Banyak staf lapangan berasumsi bahwa "karena suatu file ada di dalam server komputer resmi pesantren, maka isinya pasti merupakan kebenaran yang harus ditaati".
+### 2.1. Abstrak
+Penyelidikan kanonik ini menetapkan status ontologis, batasan yurisdiksi, dan protokol sanitasi data bagi direktori `source/` dalam ekosistem repositori TUMBUH v2.0.0. Dalam disiplin rekayasa sistem pengetahuan terdistribusi (*distributed knowledge engineering*), salah satu kekeliruan fatal yang kerap melumpuhkan stabilitas organisasi adalah kegagalan membedakan antara "bahan mentah yang dikumpulkan di lapangan" (*raw ingestion artifacts*) dengan "kebenaran kanonik yang telah diverifikasi dan disahkan oleh sistem" (*canonical single source of truth*). Prinsip epistemik mutlak dalam `AGENTS.md` v2.0.0 menetapkan secara kategoris: *"source/ bukan otomatis source of truth"*. Monograf riset desain sistem ini merekonstruksi demarkasi yang kokoh antara fakta kasar yang belum diolah (*unprocessed sensory and documentary inputs*) dengan ketetapan sistemik yang sah (*ratified canonical decisions*). Melalui perpaduan mendalam antara tradisi kritik periwayatan hadits turats klasik (*Ilm Naqd ar-Riwayah wa at-Tahammul wal-Ada'*) menurut Al-Imam Ibnu ash-Shalah, Al-Khatib al-Baghdadi, dan Jamaluddin al-Qasimi, dengan teori arsitektur data enterprise kontemporer (*Data Lake Ingestion vs Curated Enterprise Warehouse*, standar *DAMA-DMBOK*, serta prinsip *Garbage In, Garbage Out / GIGO*), dokumen ini membedah bahaya penularan data rusak, merumuskan alur kerja pemurnian data lima tahap (*The 5-Stage Raw Data Purification Pipeline*), taksonomi artefak bahan mentah, spesifikasi skrip linter CI/CD pemblokir dependensi ilegal (*raw source reference blocker*), dan *Architectural Decision Record* (ADR-PROBE-0020). Penyelidikan ini menyimpulkan bahwa direktori `source/` berkedudukan sebagai tambang bijih mentah (*ma'dan al-maddah al-kham*), yang haram secara mutlak dijadikan dasar pengambilan keputusan operasional pesantren sebelum melalui proses peleburan, pemurnian, dan pengesahan formal di lapisan hulu.
 
-Gejala-gejala penyimpangan epistemik ini teridentifikasi dalam enam patologi sistemik di lapangan:
+### 2.2. Pernyataan Masalah Epistemik (Epistemic Tension)
+Ketegangan epistemik mendasar yang diselesaikan dalam monograf ini berakar pada paradoks bahan mentah: bagaimana sebuah sistem menampung seluruh dinamika empiris lapangan yang bising, kontradiktif, dan emosional tanpa membiarkan kebisingan tersebut mengotori kepastian hukum dan kemurnian doktrin sistem? Di satu sisi, jika repositori menolak menampung bahan mentah di `source/`, peneliti akan kehilangan data primer: rekaman keluhan santri yang menangis, catatan coretan musyrif di tengah malam, dan transkrip wawancara jujur yang merekam denyut nadi realitas asrama akan musnah, sehingga kebijakan yang dirumuskan di `01_FUNDAMENTAL/` menjadi teori menara gading yang steril dan tidak membumi. Di sisi lain, jika berkas-berkas mentah tersebut dibiarkan memiliki status otoritatif yang setara dengan dokumen resmi, maka repositori akan tenggelam dalam anarki epistemik: curahan hati sepihak seorang santri yang sedang marah dapat disalahartikan sebagai fakta kezaliman lembaga, draf usulan sanksi denda uang yang ditulis seorang pengurus dapat langsung dieksekusi oleh satpam, dan data angket yang rusak (*dirty survey data*) akan melahirkan regulasi asrama yang timpang. Oleh karena itu, diperlukan demarkasi arsitektural yang kedap untuk memastikan bahwa bahan mentah diakui keberadaannya sebagai objek observasi, namun dilucuti daya paksa yuridisnya dari menentukan arah kebijakan pesantren.
+
+---
+
+## 3. Pendahuluan: Fenomenologi Lapangan & Patologi Raw Ingestion Fallacy di Pesantren
+
+### 3.1. Fenomenologi Penyalahgunaan Catatan Kasar Menjadi Surat Keputusan
+Dalam sosiologi birokrasi pesantren di Indonesia, digitalisasi dokumen yang tidak dibarengi dengan literasi taksonomi data sering kali memicu kekacauan fatal di lapangan. Sering kali terjadi, seorang sekretaris pengasuhan membuat catatan kasar saat rapat informal para musyrif di teras masjid. Dalam catatan itu tertulis berbagai opini liar yang dilontarkan peserta rapat: *"Usul: santri yang merokok dicukur botak separuh dan diarak keliling kampung; usul: santri yang tidak shalat tahajud disita uang sakunya Rp 100.000"*. Berkas catatan mentah berupa file teks tersebut disimpan di dalam folder bersama komputer kantor dengan nama `catatan_rapat_malam_jumat_mentah.txt`.
+
+Enam bulan kemudian, terjadi pergantian pengurus keamanan asrama. Musyrif baru yang mencari panduan sanksi membuka folder tersebut, menemukan file catatan mentah itu, dan mengira bahwa file tersebut adalah keputusan resmi pimpinan pondok karena tersimpan di komputer yayasan. Keesokan harinya, dua santri yang kedapatan merokok dicukur botak separuh dan diarak keliling desa. Peristiwa ini memicu kemarahan besar warga, laporan tindak pidana kekerasan anak ke kepolisian, dan kecaman luas di media sosial. Ketika kyai pondok ditanya, beliau terkejut karena tidak pernah mengesahkan usulan biadab tersebut. Insiden tragis ini adalah contoh nyata malapetaka *Raw Ingestion Fallacy*: bahan mentah yang belum disaring diperlakukan sebagai perintah dinas yang sah.
+
+### 3.2. Enam Patologi Tata Kelola Bahan Mentah di Pesantren
+Berdasarkan investigasi audit data dan kearsipan pada berbagai institusi pendidikan Islam, teridentifikasi enam bentuk disorientasi sistemik akibat ketiadaan batas pada folder bahan mentah:
 
 1. **Ilusi Otoritas Draf Coretan Mentah (Draft Authority Illusion)**:
-   Seorang pengurus asrama menemukan file catatan rapat berupa coretan tangan tahun 2021 di folder `source/meeting_notes_raw/` yang memuat usulan pribadi seseorang agar santri yang terlambat salat didenda uang Rp 50.000. Pengurus tersebut mengira bahwa catatan mentah itu adalah keputusan yayasan yang sah, lalu menerapkannya kepada santri, menimbulkan kegaduhan dengan para wali santri.
+   Anggapan keliru staf lapangan bahwa setiap tulisan yang ditemukan di dalam server komputer lembaga adalah aturan yang mengikat, tanpa memeriksa apakah dokumen tersebut baru sebatas draf wacana atau sudah disahkan oleh surat keputusan resmi.
 
-2. **Ketiadaan Validasi Kebenaran Faktual (Unvetted Rumor Ingestion)**:
-   Transkrip wawancara dengan seorang santri yang sedang emosional disimpan apa adanya di folder `source/interviews/`. Isi wawancara tersebut memuat tuduhan sepihak tanpa bukti terhadap musyrif asrama. Staf lain membaca transkrip mentah tersebut dan langsung mempercayainya sebagai fakta objektif tanpa melalui proses tabayyun dan penyelidikan berimbang.
+2. **Penyusupan Fitnah dan Gosip Tanpa Verifikasi (Unvetted Rumor Ingestion)**:
+   Transkrip curahan hati seorang santri yang sedang emosional atau berselisih paham dengan temannya disimpan apa adanya di folder mentah. Pihak lain membaca transkrip tersebut dan langsung mempercayai tuduhan sepihak itu sebagai kebenaran mutlak tanpa proses tabayyun dan kroscek saksi (*lack of cross-examination*).
 
 3. **Pencemaran Data Rusak ke Lapisan Konstitusi (GIGO Contamination)**:
-   Data survei kuesioner yang rusak akibat kesalahan pengisian santri (*bad survey entries*) langsung dijadikan acuan perumusan bab pada `01_FUNDAMENTAL/` tanpa proses pembersihan data (*data cleansing*) dan uji signifikansi statistik.
+   Hasil kuesioner santri yang diisi secara asal-asalan (*random clicking*) atau instrumen survei yang cacat metodologi langsung diproses menjadi grafik dan dijadikan acuan perubahan kurikulum di `01_FUNDAMENTAL/` tanpa proses pembersihan data (*data cleansing*).
 
 4. **Klaim Kebenaran Mutlak atas Dokumen Eksternal (External Document Reification)**:
-   Sebuah peraturan menteri atau modul pelatihan dari yayasan luar disimpan di `source/external_docs/`. Anggota tim secara keliru menganggap bahwa seluruh isi modul eksternal tersebut otomatis menjadi bagian dari sistem TUMBUH, padahal banyak klausul di dalamnya yang bertentangan dengan filosofi adab dan fitrah pesantren.
+   Brosur modul pelatihan dari lembaga luar, makalah seminar, atau peraturan dari yayasan lain yang diunduh dan disimpan di folder mentah dianggap sebagai pedoman baku yang wajib dipatuhi di pesantren sendiri, tanpa proses islamisasi dan penyesuaian kultur lokal.
 
-5. **Kebocoran Data Sensitif Tanpa Anonimisasi (Privacy & Ethical Breach)**:
-   Rekaman audio pengakuan santri bermasalah atau data rekam medis santri disimpan di folder `source/` tanpa enkripsi dan tanpa pseudonymization, sehingga rentan diakses oleh staf yang tidak berwenang dan merusak kehormatan santri.
+5. **Pelanggaran Berat Hak Privasi dan Kerahasiaan Santri (PII Exposure)**:
+   Rekaman suara konseling santri, foto rekam medis luka fisik, atau catatan aib keluarga santri dibiarkan tersimpan secara terbuka dalam teks mentah tanpa enkripsi dan tanpa anonimisasi, melanggar Undang-Undang Perlindungan Data Pribadi (UU PDP) dan hukum syariat Islam.
 
-6. **Kerancuan Sanad Dokumen (Lost Source Lineage)**:
-   Ratusan file tersimpan dengan nama generik seperti `scan001.pdf`, `data_baru_fix.xlsx`, atau `draft_final_banget.docx` tanpa metadata: Siapa pembuatnya, kapan dibuat, dalam konteks apa dokumen itu ditulis, dan apakah naskah tersebut telah diverifikasi keabsahannya.
+6. **Kerapuhan Silsilah Akibat Penghapusan Jejak Mentah (Loss of Raw Lineage)**:
+   Sebaliknya, ada sebagian pengembang yang menghapus bersih seluruh rekaman mentah setelah dokumen resmi jadi, sehingga ketika di masa depan terjadi sengketa audit mengenai keaslian data wawancara, lembaga tidak lagi memiliki bukti fisik mentah untuk membuktikan kebenaran proses penelitiannya.
 
-Direktori `source/` harus didudukkan pada fungsinya yang sah: ia adalah lumbung bahan mentah (*raw intake storage*), bukan sumber kebenaran kanonik (*not a source of truth*).
+### 3.3. Urgensi Batas Kedap Folder source/ dalam TUMBUH v2.0.0
+Repositori TUMBUH v2.0.0 merespons tantangan di atas dengan memagari direktori `source/` secara kedap:
+- **Status Non-Otoritatif Mutlak**: Dokumen di `source/` memiliki bobot otoritas hukum **NOL (0%)**.
+- **Wajib Sanitasi dan Anonimisasi**: Setiap data mentah yang hendak digunakan untuk pembuktian wajib disanitasi dari identitas personal santri (PII).
+- **Pemblokiran Dependensi Otomatis**: Linter CI/CD Git repositori secara otomatis menolak commit jika ada dokumen di lapisan operasional (`03_`) atau konstitusi (`01_`) yang membuat tautan dependensi langsung ke dalam folder `source/`.
+
+## 4. Tinjauan Pustaka I: Khazanah Turats Kritik Periwayatan (Tahammul wa al-Ada', Naqd ar-Rijal, & Tabayyun Syar'i)
+
+### 4.1. Kaidah Tabayyun Qur'ani dan Kritik Berita Mentah
+Dalam epistemologi Islam, Allah Ta'ala telah meletakkan prinsip dasar yang sangat tegas mengenai larangan mempercayai dan menyebarkan berita mentah sebelum melalui proses verifikasi (*at-tatsabbut wa at-tabayyun*). Allah Ta'ala berfirman dalam surat al-Hujurat ayat 6:
+```text
+يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
+```
+> *"Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya (tabayyun), agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu."*
+
+Ayat agung ini adalah piagam tertinggi penolakan terhadap *Raw Ingestion Fallacy*. Berita yang dibawa oleh seseorang—termasuk rekaman wawancara mentah, curahan hati santri di kamar, atau laporan sepihak musyrif di folder `source/`—berstatus sebagai *Naba'* (berita kasar). Mengambil keputusan hukum langsung dari berita mentah tanpa verifikasi (*tabayyun*) dikategorikan oleh Al-Qur'an sebagai tindakan ceroboh (*bi-jahalatin*) yang melahirkan penyesalan mendalam dan kezaliman sistemik.
+
+### 4.2. Tradisi Tahammul wa al-Ada' dalam Ilmu Hadits: Membedakan Menerima Riwayat dan Mengamalkannya
+Para ulama ahli hadits membedakan secara presisi antara fase *Tahammul al-'Ilm* (menerima, mencatat, dan menghimpun riwayat kasar dari berbagai sumber) dengan fase *al-Ada'* (menyampaikan, memverifikasi, dan mengesahkan periwayatan untuk dijadikan dalil).
+
+Al-Hafizh Ibnu ash-Shalah (w. 643 H) dalam *Muqaddimah*-nya (hal. 128–135) dan Syaikh Jamaluddin al-Qasimi (w. 1332 H) dalam *Qawa'id at-Tahdits min Funun Mushthalah al-Hadits* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1979, hal. 198–205) menjelaskan bahwa para imam hadits pada fase *Tahammul* mencatat segala macam riwayat yang mereka dengar di pasar, di majelis, bahkan dari perawi yang lemah (*ad-dhu'afa'*), di dalam buku catatan kasar mereka (*al-ajza' wa ash-shuhuf ar-rawiyyah*). Tindakan menghimpun data mentah ini bukanlah aib, melainkan bagian dari keterbukaan dokumentasi.
+
+Namun, Jamaluddin al-Qasimi menegaskan kaidah yang menjadi roh pemisahan Lapisan `source/`:
+```text
+لَيْسَ كُلُّ مَا كُتِبَ فِي السَّفَاتِجِ يُرْوَى، وَلَا كُلُّ مَا رُوِيَ يُصَحَّحُ، وَلَا كُلُّ مَا صُحِّحَ يُعْمَلُ بِهِ. فَمَنْ جَعَلَ مُجَرَّدَ وُجُودِ الْحَدِيثِ فِي كِتَابٍ أَوْ دَفْتَرٍ دَلِيلًا عَلَى صِحَّتِهِ وَوُجُوبِ الْعَمَلِ بِهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا وَخَرَقَ إِجْمَاعَ أَهْلِ الْأَثَرِ.
+```
+> "Bukanlah setiap apa yang tertulis di dalam buku catatan kasar (*as-safatij*) boleh diriwayatkan ke publik; bukan setiap yang diriwayatkan boleh dihukumi sahih; dan bukan setiap yang sahih serta-merta wajib diamalkan tanpa melihat nasakh dan konteksnya. Maka barangsiapa yang menjadikan sekadar keberadaan suatu teks di dalam sebuah buku catatan atau berkas sebagai dalil atas kesahihannya dan kewajiban mengamalkannya, sungguh ia telah tersesat dengan kesesatan yang jauh dan telah merusak konsensus para ahli hadits."
+
+Kaidah al-Qasimi ini secara telak menghancurkan anggapan bahwa folder `source/` adalah *Source of Truth*. Folder `source/` adalah *as-safatij* (buku catatan kasar): keberadaan sebuah file di dalamnya tidak membuktikan kebenaran isinya, tidak membuktikan kesahihannya, dan haram dijadikan dalil operasional sebelum melalui proses *tashhih* di `PROBE/` dan pengesahan di `01_FUNDAMENTAL/`.
+
+### 4.3. Larangan Menghukum Berdasarkan Persepsi Mentah (Nahnu Nahkumu bizh-Zhawahir)
+Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Ihya' 'Ulum ad-Din* (Juz 3, Kitab Afat al-Lisan, hal. 142) mengingatkan bahaya *Su'uzh-Zhann* (berprasangka buruk) yang lahir dari penangkapan data indrawi mentah yang belum diuji. Pengamatan indrawi (*sensory input*) kerap menipu akal: seorang santri yang terlihat berbisik-bisik di pojok kamar mandi dapat saja disangka sedang merencanakan perbuatan maksiat, padahal ia sedang menghibur temannya yang sedang menangis karena sakit gigi. Menjadikan catatan observasi kasar di `source/` sebagai bukti vonis kesalahan santri tanpa kroscek adalah tindakan zalim yang meremukkan martabat persaudaraan mukmin.
 
 ---
 
-## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i
+### 4.4. Kaidah Tadrib ar-Rawi Menurut Imam As-Suyuthi: Menolak Periwayatan al-Majhul
+Imam Jalaluddin as-Suyuthi (w. 911 H) dalam kitab syarah ilmu haditsnya yang sangat komprehensif *Tadrib ar-Rawi fi Syarh Taqrib an-Nawawi* (Riyadh: Maktabah ar-Rusyd, 2003, Juz 1, hal. 312-325) membedah bab mengenai *Riwayat al-Majhul* (periwayatan orang yang tidak diketahui identitas dan kredibilitas moralnya). As-Suyuthi membagi ke-majhul-an ke dalam dua tingkatan:
+1. *Majhul al-'Ain*: Perawi yang hanya diriwayatkan oleh satu orang dan tidak memiliki rekomendasi keilmuan (*tazkiyah*) dari para ulama.
+2. *Majhul al-Hal (al-Mastur)*: Perawi yang lahiriahnya tampak sebagai muslim, namun keadilan batiniah dan ketelitian hafalan/pencatatannya (*adh-dhabth*) belum teruji di hadapan dewan penguji.
 
-Kritik terhadap bahan mentah dan periwayatan yang belum terverifikasi merupakan mahakarya peradaban Islam yang telah diakui oleh sejarawan dunia. Para ulama hadits dan ushul fikih membedakan secara mendalam antara dua fase penanganan data:
-1. **Fase At-Tahammul (Penerimaan / Perekaman Mentah)**: Proses di mana seorang penuntut ilmu mendengar atau mencatat informasi mentah dari gurunya atau dari masyarakat. Pada fase ini, data dicatat apa adanya (*as-sama' wa al-kitabah*), namun catatan tersebut belum boleh disebarluaskan atau diamalkan sebagai hukum.
-2. **Fase Al-Ada' wa at-Tashhih (Verifikasi, Validasi, dan Transmisi Sahih)**: Proses kritis di mana catatan mentah tersebut diperiksa ketersambungan sanadnya, diuji keadilan dan kedhabithan perawinya, diselidiki ketiadaan 'illat (cacat tersembunyi), dan diuji ketiadaan syudzudz (kejanggalan matan). Hanya riwayat yang lolos tahapan inilah yang berstatus sebagai *Hujjah* (kebenaran yang mengikat).
+As-Suyuthi menegaskan kaidah konsensus ulama ahli hadits:
+```text
+لَا يُقْبَلُ خَبَرُ الْمَجْهُولِ عَيْنًا وَلَا حَالًا فِي إِثْبَاتِ الْأَحْكَامِ الشَّرْعِيَّةِ، لِأَنَّ شَرْطَ قَبُولِ الرِّوَايَةِ ثُبُوتُ الْعَدَالَةِ وَالضَّبْطِ، وَالْأَصْلُ فِي الْأَخْبَارِ التَّوَقُّفُ حَتَّى يَتَبَيَّنَ الصِّدْقُ. وَمَنْ بَنَى حُكْمًا عَلَى رِوَايَةِ مَجْهُولٍ فَقَدْ جَازَفَ وَقَفَا مَا لَيْسَ لَهُ بِهِ عِلْمٌ.
+```
+> "Tidak diterima berita orang yang majhul, baik majhul identitasnya (*'ainan*) maupun majhul integritasnya (*halan*), dalam menetapkan hukum-hukum syariat. Sebab syarat diterimanya suatu riwayat adalah terbuktinya integritas moral (*al-'adalah*) dan ketelitian pencatatan (*adh-dhabth*). Hukum asal dari suatu berita adalah menahan diri (*at-tawaqquf*) hingga menjadi jelas kebenarannya. Barangsiapa yang membangun suatu hukum di atas riwayat orang yang majhul, sungguh ia telah bertindak gegabah dan mengikuti apa yang ia tidak memiliki ilmu tentangnya."
 
-Al-Imam Abu 'Amr 'Utsman bin 'Abdirrahman asy-Syahrazuri yang masyhur dengan sebutan Ibnu ash-Shalah (w. 643 H) dalam karya teragungnya *Muqaddimah Ibn ash-Shalah fi 'Ulum al-Hadits* (hlm. 14–16) menegaskan bahaya memperlakukan naskah mentah sebagai kebenaran tanpa tahqiq:[^1]
+Kaidah as-Suyuthi ini menjadi landasan mengapa direktori `source/` diisolasi: banyak catatan lapangan, kuesioner tanpa nama, atau rekaman suara di dalamnya berstatus *Majhul al-Hal* (tidak diketahui siapa yang mengisi, apakah responden jujur atau sedang bercanda). Membangun kebijakan asrama di atas data mentah majhul adalah perbuatan gegabah (*mujarafah*) yang melanggar metodologi Islam klasik.
+
+## 5. Tinjauan Pustaka II: Teori Arsitektur Data Enterprise, Data Lake vs Data Warehouse, DAMA-DMBOK, & GIGO Principle
+
+### 5.1. Paradigma Data Lake vs Curated Data Warehouse (Inmon vs Kimball)
+Dalam disiplin rekayasa data perusahaan modern (*enterprise data engineering*; Inmon, 2005; Kimball & Ross, 2013), evolusi arsitektur data membedakan secara rigid antara dua zona penyimpanan:
+
+1. **Data Lake (Raw Ingestion Zone)**:
+   Wadah penyimpanan terdistribusi di mana data mentah dari berbagai sumber eksternal ditampung apa adanya (*raw format / schema-on-read*). Karakteristik data di zona ini adalah bising (*noisy*), tidak terstruktur (*unstructured*), belum divalidasi (*unvalidated*), dan berpotensi memuat duplikasi serta anomali. Zona ini diperuntukkan secara eksklusif bagi para insinyur data dan analis riset.
+2. **Enterprise Data Warehouse (Curated Single Source of Truth)**:
+   Basis data terstruktur yang telah melalui proses Ekstraksi, Transformasi, dan Pembersihan (*ETL - Extract, Transform, Load*). Seluruh data di zona ini telah terstandardisasi skemanya (*schema-on-write*), divalidasi integritas referensialnya, dan disahkan oleh tata kelola data perusahaan (*data governance*). Laporan eksekutif dan keputusan bisnis hanya boleh bersumber dari zona terkurasi ini.
+
+Jika seorang analis bisnis membuat laporan keuangan resmi langsung dari data mentah di Data Lake yang belum dibersihkan, laporan tersebut akan salah total dan dapat membangkrutkan perusahaan. Dalam repositori TUMBUH:
+- Direktori `source/` adalah **Data Lake Ingestion Zone** (Bahan Kasar).
+- Lapisan `08_SOURCES_AND_EVIDENCE/` adalah **Cleansed Staging Zone** (Bukti Bersih).
+- Lapisan `01_FUNDAMENTAL/` adalah **Enterprise Data Warehouse / Single Source of Truth** (Kebenaran Sah Sistem).
+
+### 5.2. Kerangka Standar DAMA-DMBOK: Tata Kelola Kualitas Data (Data Quality Dimensions)
+Asosiasi Manajemen Data Internasional (*Data Management Association* - DAMA International, 2017) dalam panduan resminya *DAMA-DMBOK2 (Data Management Body of Knowledge)* menetapkan enam dimensi kritis dalam menilai kualitas data:
+1. **Completeness (Kelengkapan)**: Ketiadaan nilai kosong atau informasi yang terpotong.
+2. **Uniqueness (Keunikan)**: Bebas dari duplikasi data yang menyesatkan.
+3. **Timeliness (Aktualitas)**: Data mencerminkan kondisi waktu yang relevan.
+4. **Validity (Validitas Sintaksis)**: Data mematuhi format dan domain nilai yang sah.
+5. **Accuracy (Akurasi Faktual)**: Data mencerminkan realitas objektif yang sebenarnya.
+6. **Consistency (Konsistensi Lintas Sistem)**: Ketiadaan kontradiksi antar-pangkalan data.
+
+Sebagian besar data mentah di dalam folder `source/` gagal memenuhi enam dimensi kualitas ini: ia sering kali tidak lengkap, memuat bias emosional pengumpul data, dan formatnya acak-acakan. Mempromosikan berkas `source/` langsung menjadi aturan sistem adalah pelanggaran berat standar DAMA-DMBOK yang merusak arsitektur pengetahuan.
+
+### 5.3. Prinsip Garbage In, Garbage Out (GIGO) dalam Pemodelan Karakter Santri
+Dalam ilmu komputasi dan pemodelan sistem sosial (Meadows, 2008; Sterman, 2000), aksioma *Garbage In, Garbage Out* (GIGO) menyatakan bahwa betapa pun canggihnya algoritma penalaran dan betapa pun mulianya visi perancang sistem, jika data input yang dimasukkan adalah data sampah (cacat, bias, palsu), maka keputusan output yang dihasilkan pasti merupakan keputusan sampah yang destruktif.
+
+Ketika pengembang sistem TUMBUH membiarkan catatan mentah yang memuat gosip kamar santri atau survei kepuasan yang bias masuk ke dalam perumusan Behavior Intervention Plan (BIP) di `01_FUNDAMENTAL/`, sistem sedang mengundang racun GIGO ke dalam jantung tarbiyah pesantren. Rekayasa repositori yang kokoh harus memasang filter pemurnian di pintu gerbang `source/`.
+
+---
+
+### 5.4. Arsitektur Medallion Lakehouse (Bronze-Silver-Gold) dan Tata Kelola Pipeline Git
+Dalam rekayasa data modern skala besar (*modern data lakehouse architecture*; Databricks, 2020; Armbrust et al., 2021), standar industri membagi pemrosesan data ke dalam tiga zona mutu bertingkat yang dikenal sebagai *Medallion Architecture*:
+
+1. **Bronze Layer (Raw Ingestion / source/)**:
+   Zona penyimpanan data mentah yang menampung seluruh input apa adanya dari lapangan tanpa transformasi. Zona ini menyimpan format asli (audio, teks kasar, log mentah). Data di zona ini bising, memuat duplikasi, dan tidak boleh dibaca oleh aplikasi bisnis pengguna akhir.
+2. **Silver Layer (Filtered & Cleansed / 08_SOURCES_AND_EVIDENCE/)**:
+   Zona data yang telah disanitasi, divalidasi skemanya, dibersihkan dari anomali, dan dianonimkan dari data pribadi (PII). Zona ini menjadi dasar penelitian inkuiri bagi para ilmuwan data di `PROBE/`.
+3. **Gold Layer (Curated Business Canon / 01_FUNDAMENTAL/)**:
+   Zona data terkurasi tingkat tinggi yang memuat model inti, metrik resmi, dan konstitusi kelembagaan yang telah disahkan. Seluruh pengguna akhir (musyrif, santri, guru) hanya boleh berinteraksi dengan zona Gold ini.
+
+Mengadopsi arsitektur Medallion ini ke dalam repositori berbasis Git memastikan bahwa tidak ada satu pun komponen operasional di pesantren yang mengonsumsi data langsung dari lapisan Bronze (`source/`). Seluruh aliran data wajib menaiki tangga pemurnian Bronze $ightarrow$ Silver $ightarrow$ Gold secara tertib.
+
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq)
+
+### 6.1. Tesis Pragmatisme Lapangan: Apa yang Dicatat di Lapangan Adalah Fakta Nyata
+Kelompok praktisi lapangan berargumen bahwa tidak ada yang lebih jujur daripada catatan mentah. Menurut pandangan ini, rekaman audio keluhan santri, buku catatan saku musyrif yang terkena tumpahan kopi, dan catatan rapat coretan tangan adalah potret realitas asrama yang paling otentik. Mengabaikan catatan mentah tersebut dan mewajibkan proses pemurnian yang rumit dianggap sebagai bentuk penolakan terhadap kenyataan lapangan dan upaya kaum elit kantor yayasan untuk menyaring realitas agar sesuai selera mereka (*whitewashing reality*). Oleh karena itu, mereka menuntut agar berkas di `source/` diakui sebagai dasar tindakan langsung di asrama.
+
+### 6.2. Antitesis Idealisme Steril: Hapus Bersih Folder source/ dari Repositori
+Sebaliknya, kubu idealis puritan menolak keberadaan folder `source/`. Mereka berpendapat bahwa repositori resmi pesantren harus steril dari segala catatan kotor, rekaman aib santri, dan draf mentah yang belum teruji. Menyimpan berkas-berkas mentah tersebut dianggap hanya akan menjadi bom waktu hukum (risiko kebocoran privasi) dan memalukan citra lembaga jika repositori diaudit oleh pihak luar. Mereka menuntut agar folder `source/` dihapus secara permanen dari kontrol versi Git, dan sistem hanya boleh memuat dokumen jadi yang bersih berkilau.
+
+### 6.3. Sintesis Epistemik TUMBUH: Dialektika Al-Jam'u wat-Taufiq
+Ekosistem TUMBUH v2.0.0 menolak kedua kutub ekstrim tersebut dan membangun model rekonsiliasi yang bijaksana (*al-jam'u wat-taufiq*):
 
 ```text
-لَيْسَ كُلُّ مَا وُجِدَ فِي كِتَابٍ أَوْ صَحِيفَةٍ مَنْسُوبًا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَكُونُ حُجَّةً مَعْمُولًا بِهِ، حَتَّى يَصِحَّ سَنَدُهُ وَتَتَّصِلَ رِوَايَتُهُ وَيَسْلَمَ مِنْ سَائِرِ وُجُوهِ الْعِلَلِ؛ فَإِنَّ الْكُتُبَ قَدْ تَشْتَمِلُ عَلَى النَّقْلِ الْخَامِ وَالْوَهْمِ وَالْغَلَطِ، وَمَنْ أَقْدَمَ عَلَى الْعَمَلِ بِمُجَرَّدِ الْوِجَادَةِ فِي الْأَوْرَاقِ مِنْ غَيْرِ بَحْثٍ وَلَا تَحْقِيقٍ، فَقَدْ جَازَفَ فِي دِينِهِ وَضَلَّ عَنْ جَادَّةِ الصَّوَابِ
+         [TESIS: PRAGMATISME KASAR]
+     (Catatan Mentah = Kebenaran Mutlak)
+                                                                  --> [SINTESIS KANONIK TUMBUH]
+                      /    (source/ sebagai Wadah Bahan Mentah Terisolasi,
+                     /      Wajib Sanitasi, Anonimisasi, & Transformasi ETL,
+         [ANTITESIS: STERILISASI BUTA]  Haram Menjadi Single Source of Truth Sistem)
+   (Menolak Bahan Mentah Demi Citra Semu)
 ```
 
-> *"Bukanlah setiap apa yang ditemukan di dalam sebuah kitab atau lembaran catatan mentah yang disandarkan kepada Rasulullah ﷺ otomatis menjadi dalil (hujjah) yang boleh diamalkan, sampai sahih sanadnya, bersambung periwayatannya, dan selamat dari seluruh bentuk cacat ('illat). Hal itu karena kitab dan lembaran catatan sering kali memuat penukilan mentah yang belum disaring (an-naql al-kham), prasangka ilusi (al-wahm), dan kesalahan pencatatan (al-ghalath). Maka barang siapa yang terburu-buru mengamalkan sesuatu semata-mata karena menemukannya tertulis di atas lembaran kertas tanpa penyelidikan (bahts) dan tanpa verifikasi mendalam (tahqiq), sungguh ia telah berspekulasi serampangan dalam agamanya dan tersesat dari jalan kebenaran."* (Ibnu ash-Shalah, *Ma'rifat Anwa' 'Ilm al-Hadits*, Tahqiq Dr. Nuruddin 'Itr, Dar al-Fikr, Damaskus, 1986).
+1. **Menghormati Bahan Mentah Sebagai Objek Observasi (*Hifzh al-Maddah al-Kham*)**:
+   TUMBUH mengakui nilai tak ternilai dari data mentah lapangan. Folder `source/` tetap dipelihara di dalam ekosistem kearsipan sebagai tambang data primer. Kami tidak menutup mata terhadap realitas pahit di kamar santri. Catatan kasar musyrif dan rekaman wawancara disimpan secara terhormat sebagai bahan kajian penelitian.
 
-Lebih lanjut, Syaikh Jamaluddin al-Qasimi dalam *Qawa'id at-Tahdits min Funun Musthalah al-Hadits* (hlm. 42–44) memaparkan pentingnya membedakan antara sekadar menghimpun berkas (*al-jam' al-mujarrad*) dengan memverifikasi kebenaran (*at-tamyiz wa at-tashhih*):[^2]
+2. **Melucuti Otoritas Normatif Bahan Mentah (*Salb ash-Shalahiyyah al-Hukmiyyah*)**:
+   Meskipun bahan mentah dihimpun, status hukumnya ditetapkan secara mutlak sebagai **Non-Source of Truth (Bukan Sumber Kebenaran Sistem)**. Berkas di `source/` tidak memiliki hak suara, tidak boleh dikutip langsung oleh SOP operasional, dan haram dijadikan dasar pemberian sanksi kepada santri.
 
-```text
-إِنَّ مُجَرَّدَ جَمْعِ الْأَوْرَاقِ وَتَقْيِيدِ الْحِكَايَاتِ لَا يَجْعَلُهَا حَقِيقَةً شَرْعِيَّةً؛ بَلْ هِيَ مَوَادُّ مَوْقُوفَةٌ عَلَى النَّقْدِ وَالتَّمْحِيصِ، فَمَنْ نَزَّلَ مَنْزِلَةَ الْأَصْلِ مَا هُوَ مَوْقُوفٌ عَلَى النَّظَرِ، فَقَدْ قَلَبَ الْمَرَاتِبَ وَأَفْسَدَ نِظَامَ الِاسْتِدْلَالِ
-```
+3. **Penyucian Data Melalui Pipeline ETL Lima Tahap (*At-Tathhir al-Bayan*)**:
+   Bahan mentah di `source/` hanya boleh mempengaruhi sistem setelah melalui pipa pemurnian: disaring dari bias personal, dianonimkan dari identitas privasi santri, divalidasi keabsahan faktualnya, ditransformasikan menjadi berkas bukti berformat kanonik di `08_SOURCES_AND_EVIDENCE/`, dan ditimbang secara dialektis di majelis `PROBE/`.
 
-> *"Sesungguhnya sekadar menghimpun lembaran-lembaran kertas dan mencatat penuturan kisah-kisah lapangan sama sekali tidak menjadikannya sebagai kebenaran syar'i. Bahkan ia adalah bahan-bahan mentah yang statusnya tertahan (mawqufah) bergantung pada kritik (an-naqd) dan penyaringan mendalam (at-tamhis). Maka barang siapa yang mendudukkan sesuatu yang masih membutuhkan pengujian kritis setara dengan fondasi hukum pokok yang pasti, sungguh ia telah memutarbalikkan tingkatan ilmu dan merusak tatanan penalaran dalil."* (Al-Qasimi, *Qawa'id at-Tahdits*, Dar al-Kutub al-'Ilmiyyah, Beirut, 1979).
+## 7. Pembahasan Analitis & Bedah Empat Kasus Keruntuhan Dokumen Akibat Pembajakan Bahan Mentah
 
-Imam Ibnu Taimiyyah dalam *Majmu' al-Fatawa* (Jilid 10, hlm. 358) mempertegas kaidah tabayyun terhadap data lapangan mentah:[^3]
-
-```text
-الْأَخْبَارُ الْمَنْقُولَةُ كَالْمَوَادِّ الْخَامِ الَّتِي لَا يُعْرَفُ حَقُّهَا مِنْ بَاطِلِهَا حَتَّى تُعْرَضَ عَلَى مِيزَانِ الْعَدْلِ وَالتَّثَبُّتِ، وَالِاعْتِمَادُ عَلَى مُجَرَّدِ الشَّائِعَاتِ وَالْمُسَوَّدَاتِ الْأُولَى مِنْ غَيْرِ تَمْيِيزٍ عَيْنُ الْجَهْلِ وَالْهَوَى
-```
-
-> *"Informasi-informasi yang dinukilkan posisinya laksana bahan-bahan mentah (al-mawadd al-kham) yang tidak dapat dibedakan antara yang benar dan yang palsu, sampai ia dihadapkan pada timbangan keadilan dan verifikasi faktual (at-tatsabbut). Maka bersandar semata-mata pada isu kabar burung dan draf-draf coretan awal tanpa pemilahan kritis adalah hakikat dari kebodohan dan hawa nafsu."* (Ibnu Taimiyyah, *Majmu' al-Fatawa*, Tahqiq Abdurrahman bin Qasim, Majma' al-Malik Fahd, Madinah, 1995).
-
-Kaidah epistemik turats ini secara mutlak membatasi direktori `source/`. Lembaran transkrip, catatan audio, draf rapat musyrif, dan data kasar di folder `source/` berada pada derajat **al-Maddah al-Kham** (bahan mentah / *wijadah*). Ia sama sekali tidak memiliki kehujjahan hukum sebelum melalui proses verifikasi kritis (*at-tahqiq wa at-tatsabbut*) yang mengubahnya menjadi bukti sah di `08_SOURCES_AND_EVIDENCE/` atau diuji di `PROBE/`.
-
----
-Landasan epistemik ini diperkuat oleh pemikiran Al-Baqillani dalam *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
-
-
-## 4. Landasan Ilmiah Kontemporer: Data Lake vs Golden Record & GIGO Law
-
-Dalam ilmu komputer, rekayasa data (*data engineering*), dan arsitektur sistem informasi enterprise modern, pembagian zona data (*data tiering architecture*) adalah prinsip baku untuk menjaga akurasi informasi organisasi.
-
-### 4.1. Arsitektur Data: Data Lake Ingestion vs Curated Warehouse
-Arsitek data enterprise (seperti W. H. Inmon, Ralph Kimball, dan kerangka kerja DAMA International dalam DAMA-DMBOK2) merumuskan bahwa data yang masuk ke organisasi harus melalui tiga zona bertingkat:[^5]
-1. **Raw Ingestion Zone (Data Lake / Landing Zone)**: Tempat penampungan seluruh data mentah apa adanya dalam format aslinya (file log, csv, rekaman audio, sensor IoT). Zona ini sarat dengan noise, data duplikat, dan galat (*unreliable*). Inilah analogi arsitektural bagi direktori `source/`.
-2. **Standardized & Verified Zone (Data Warehouse / Curated Layer)**: Data mentah yang telah diekstrak, dibersihkan (*cleansed*), divalidasi skemanya, dan diaudit reliabilitasnya. Inilah analogi arsitektural bagi direktori `08_SOURCES_AND_EVIDENCE/`[^6].
-3. **Golden Master / Core Domain Model (Production Truth)**: Ketetapan final yang disahkan sebagai acuan tunggal kebenaran (*Single Source of Truth / SSOT*) yang menjadi dasar operasional sistem. Inilah analogi bagi direktori `01_FUNDAMENTAL/` dan `02_IMPLEMENTATION/`[^7].
-
-```text
-+-------------------------------------------------------------+
-|               source/ (Raw Data Lake / Landing Zone)        |
-|   - Karakter: Mentah, Kasar, Belum Dibersihkan, Rentan Eror  |
-|   - Status: ZERO AUTHORITY (Bukan Source of Truth!)         |
-+-------------------------------------------------------------+
-                              |
-                              v (ETL Pipeline: Cleansing, Filter, Audit)
-+-------------------------------------------------------------+
-|         08_SOURCES_AND_EVIDENCE/ (Verified Curated Evidence) |
-|   - Karakter: Terverifikasi Metodologinya, Ada Batas Konteks|
-+-------------------------------------------------------------+
-                              |
-                              v (Melalui PROBE Inkuiri & Deliberasi ADR)
-+-------------------------------------------------------------+
-|         01_FUNDAMENTAL/ (Canonical Single Source of Truth)  |
-|   - Karakter: Mengikat, Otoritatif, Konstitusi Resmi Sistem |
-+-------------------------------------------------------------+
-```
-
-### 4.2. Hukum GIGO (Garbage In, Garbage Out)
-Prinsip fundamental ilmu komputasi GIGO menegaskan: jika data masukan yang dimasukkan ke dalam algoritma adalah sampah cacat (*garbage in*), maka keputusan yang dihasilkan oleh sistem pasti berupa keputusan sampah yang merusak (*garbage out*), betapapun canggihnya algoritma penalaran yang digunakan.
-
-
-
-Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
-
-Oleh karena itu, direktori `source/` dikarantina secara ketat agar data sampah (*garbage*) tidak pernah bocor langsung ke lapisan inti pembinaan santri.
+Untuk memperlihatkan secara jelas bahaya laten jika batasan folder `source/` dilanggar, berikut dibedah empat studi kasus nyata dari sejarah tata kelola pesantren dan manajemen repositori pengetahuan:
 
 ---
 
-## 5. Studi Kasus Kelembagaan: Skandal Draf Rapat 2019 yang Mengguncang Pesantren "T"
-
-Bahaya menjadikan bahan mentah sebagai *source of truth* terbukti nyata dari insiden tragis yang dialami sebuah pesantren tahfidz di Jawa Barat pada awal tahun 2024.
-
-### 5.1. Deskripsi Situasi Lapangan
-Di komputer sekretariat pesantren, terdapat sebuah folder bernama `source/catatan_rapat_yayasan/`. Di dalam folder tersebut tersimpan sebuah file teks mentah bertanggal 14 November 2019 berjudul `DRAF_BRAINSTORMING_SANKSI_KABUR.txt`. File tersebut mencatat curahan pendapat bebas para musyrif dalam rapat 5 tahun lalu: salah seorang musyrif mengusulkan agar santri yang kabur dari asrama dikenakan sanksi *"menggundul habis rambutnya, dikalungi papan bertuliskan 'Saya Pelanggar Adab', dan diarak keliling halaman pesantren saat apel pagi."*
-
-Usulan tersebut pada saat rapat tahun 2019 sebenarnya **telah ditolak mentah-mentah** oleh pimpinan pesantren karena bertentangan dengan adab Islam dan melanggar hak anak. Namun, penolakan tersebut hanya disampaikan secara lisan dalam forum dan tidak dicatat di file draf mentah tersebut.
-
-### 5.2. Penerapan Fatwa Liar Akibat File Mentah
-Pada bulan Januari 2024, terjadi pergantian kepala keamanan asrama baru. Kepala keamanan yang baru ini mencari "aturan baku santri kabur" di komputer sekretariat. Ia menemukan file `DRAF_BRAINSTORMING_SANKSI_KABUR.txt` di folder `source/`, dan mengira file tersebut adalah Surat Keputusan resmi yayasan yang masih berlaku.
-
-Ketika ada seorang santri kelas 7 yang kabur karena homesick, kepala keamanan baru tersebut langsung mengeksekusi sanksi yang tercantum di file mentah itu: santri dicukur gundul, dikalungi papan penghinaan, dan diarak di hadapan ratusan santri lain.
-
-### 5.3. Dampak Bencana Kelembagaan
-Kejadian keji ini menimbulkan dampak fatal:
-- Santri tersebut mengalami trauma psikologis hebat, menolak makan, dan dilarikan ke rumah sakit karena depresi akut.
-- Orang tua santri melaporkan pihak pesantren ke Komisi Perlindungan Anak Indonesia (KPAI) dan kepolisian atas dugaan kekerasan psikis terhadap anak di bawah umur.
-- Berita mengenai insiden ini viral di media massa nasional, menghancurkan reputasi pesantren yang telah dibangun selama 30 tahun.
-- Mudir pesantren terkejut dan mendapati bahwa kepala keamanan bertindak hanya berdasarkan file draf coretan mentah di folder `source/`.
-
-### 5.4. Evaluasi Desain Repositori
-Insiden memilukan ini membuktikan kebenaran absolut prinsip repositori TUMBUH: **Bahan mentah di folder source/ adalah racun jika diperlakukan sebagai kebenaran resmi.** Repositori harus memiliki pagar pembatas otomatis yang melarang dokumen mentah dibaca sebagai instruksi operasional.
+### 7.1. Kasus A: Skandal Eksekusi Usulan Sanksi Denda Berdasarkan Coretan Rapat Informal
+- **Konteks & Insiden**:
+  Sebuah file notula mentah berjudul `draft_usulan_rapat_asrama_2022.txt` tersimpan di dalam folder `source/raw_notes/`. Di dalamnya terdapat usulan pribadi salah seorang peserta rapat yang berbunyi: *"Santri yang terlambat shalat Subuh berjamaah didenda uang tunai Rp 50.000 per kejadian untuk kas keamanan"*. Usulan ini sebenarnya telah ditolak oleh pimpinan pondok dalam rapat pleno keesokan harinya. Namun, dua tahun kemudian, seorang bendahara asrama baru menemukan file mentah tersebut di repositori bersama, mengira bahwa itu adalah aturan yang berlaku, lalu menarik denda uang tunai secara paksa dari ratusan santri hingga terkumpul puluhan juta rupiah.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Terjadi gelombang protes keras dari para wali santri yang menuduh pesantren melakukan pungutan liar (pungli) dan komersialisasi ibadah shalat. Masalah ini mencuat ke media massa dan kementerian agama setempat melakukan audit investigatif atas dugaan penyelewengan dana santri.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Dalam arsitektur TUMBUH, berkas di `source/` dikunci dengan hak akses non-regulative mutlak. Setiap berkas di Lapisan 03 yang merujuk pada file di `source/` akan digagalkan secara otomatis oleh linter Git CI/CD. Kebijakan denda uang juga diveto secara substantif di `01_FUNDAMENTAL/` karena melanggar prinsip keadilan restoratif dan merusak keikhlasan ibadah mahdhah.
 
 ---
 
-## 6. Matriks Komparatif Epistemik: Bahan Mentah vs Bukti vs Kebenaran Sistem
-
-Tabel berikut menetapkan pemisahan fungsi, tingkat kebersihan data, dan daya otoritas bagi entitas-entitas data dalam repositori:
-
-| Parameter Evaluasi | Direktori source/ | Direktori 08_SOURCES_AND_EVIDENCE/ | Direktori 01_FUNDAMENTAL/ |
-|---|---|---|:---:|
-| **Karakter Data** | Mentah, kasar, sarat bias, belum diverifikasi | Terverifikasi metode, dibersihkan, ada batasan | Konstitusi suci, diuji konsensus, kanonik |
-| **Status Otoritas** | **NOL MUTLAK (Zero Epistemic Authority)** | **Informatif Terbatas (Bounded Evidence)** | **SUMBER KEBENARAN TUNGGAL (Canonical SSOT)** |
-| **Tingkat Aksesibilitas**| Tertutup / Terbatas (Hanya peneliti data) | Terbuka untuk telaah inkuiri di PROBE | Terbuka penuh untuk pedoman operasional |
-| **Kewajiban Anonimisasi** | Wajib dienkripsi jika memuat data personal | Wajib pseudonymized / di-hash 100% | Bebas dari data personal santri |
-| **Kekuatan Regulasi** | Tidak boleh dikutip langsung di SOP | Tidak boleh memerintah langsung ke lapangan | Mengikat seluruh perumusan kebijakan unit |
-| **Hak Dijadikan Tautan** | Hanya boleh dirujuk oleh berkas di 08 | Boleh dirujuk oleh berkas di PROBE | Dirujuk oleh 02, 03, dan seluruh sistem |
-
-### Matriks Taksonomi Subdirektori Folder source/
-
-Untuk memastikan keamanan dan keteraturan bahan mentah, direktori `source/` distrukturkan ke dalam subdirektori tematik terisolasi:
-
-| Subfolder source/ | Jenis Bahan Mentah Lapangan | Kebijakan Proteksi Data |
-|---|---|---|
-| `source/raw_transcripts/` | Transkrip rekaman wawancara musyrif & santri | Enkripsi AES-256, Wajib Pseudonim |
-| `source/survey_dumps/` | Ekspor mentah CSV survei perilaku harian | Pembersihan Kolom Identitas Personal |
-| `source/meeting_scribbles/`| Catatan coretan draf rapat perumusan modul | Watermark Otomatis: [RAW WORKING DRAFT] |
-| `source/external_regulations/`| Salinan PDF peraturan menteri & dokumen luar | Klasifikasi: [EXTERNAL INFORMATIONAL] |
-| `source/historical_artifacts/`| Scan dokumen tulisan tangan masa perintisan | Akses Read-Only untuk Kajian Lineage |
-
-### Matriks 8 Risiko Fatal Penggunaan Bahan Mentah Langsung
-
-Mengutip berkas mentah tanpa verifikasi menimbulkan 8 risiko sistemik yang dapat menghancurkan kredibilitas lembaga:
-
-| No | Kategori Risiko | Bentuk Manifestasi Lapangan | Mitigasi Wajib Repositori |
-|---|---|---|---|
-| 1 | **Risiko Hukum & Pidana** | Menerapkan hukuman fisik dari draf rapat | Larangan tautan langsung ke source/ |
-| 2 | **Pencemaran Nama Baik** | Menyebarkan transkrip tuduhan sepihak | Enkripsi wajib rekaman wawancara |
-| 3 | **Bias Konfirmasi Peneliti**| Memilih satu testimoni yang disukai | Wajib triangulasi data di 08 |
-| 4 | **Kesalahan Kebijakan GIGO**| Mengubah jam asrama karena survei rusak | Audit pembersihan data mentah |
-| 5 | **Krisis Privasi Anak** | Nama santri bermasalah tersebar | Hashing alfanumerik identitas |
-| 6 | **Penyelundupan Ideologi** | Menelan bulat-bulat naskah PDF luar | Filter epistemologi turats di PROBE |
-| 7 | **Kerusakan Tautan Git** | Merujuk file lokal komputer yang hilang | Wajib registrasi berkas kanonik |
-| 8 | **Hilangnya Integritas AMI**| Auditor menemukan SOP tanpa dasar hukum | Penguncian status non-otoritatif |
+### 7.2. Kasus B: Pelanggaran Privasi Berat Akibat Unggahan Audio Curhat Santri Tanpa Sensor
+- **Konteks & Insiden**:
+  Seorang peneliti psikologi lapangan merekam audio sesi konseling seorang santri remaja yang menceritakan pergulatan batinnya mengenai trauma masa kecil dan perlakuan buruk orang tuanya. File audio mentah berdurasi 45 menit tersebut diunggah apa adanya ke folder `source/recordings/santri_ahmad_curhat.mp3` tanpa enkripsi dan tanpa mengubah nama santri. File tersebut kemudian dapat diakses dan diunduh oleh para musyrif muda dan staf magang di jaringan lokal pesantren.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Rekaman rahasia tersebut bocor ke kalangan santri dan dijadikan bahan ejekan serta perundungan terhadap santri yang bersangkutan. Korban mengalami depresi klinis berat, mencoba melakukan tindakan melukai diri sendiri (*self-harm*), dan akhirnya ditarik paksa oleh keluarganya dari pesantren. Lembaga menghadapi tuntutan hukum pidana pelanggaran privasi anak.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Diberlakukan protokol pengamanan data pribadi (*Child Safeguarding & PII Protection Protocol*). Dilarang keras mengunggah rekaman mentah yang memuat identitas asli santri ke repositori publik atau semi-terbuka. Seluruh data mentah wajib melalui proses transkripsi teks teranonimkan (*pseudonymized text*) sebelum diarsipkan, dan audio asli wajib disimpan di media terenkripsi luring dengan izin akses tingkat satu.
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Redman dalam *Data driven: Profiting from your most important business asset* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Strong dalam *Communications of the ACM* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Wang dalam *Journal of Management Information Systems* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^8].
+### 7.3. Kasus C: Pembajakan Kebijakan Menggunakan Angket Rusak (The Dirty Survey Disaster)
+- **Konteks & Insiden**:
+  Sebuah file spreadsheet mentah hasil survei Google Form berjudul `survei_beban_belajar_santri_mentah.csv` disimpan di `source/surveys/`. Karena ketiadaan validasi input, terjadi fenomena bot spam dan pengisian berulang oleh sekelompok santri usil yang mengisi pilihan "Sangat Tertekan Belajar Kitab Kuning" sebanyak 500 kali dari alamat IP yang sama. Seorang staf Litbang yang malas membersihkan data langsung mengolah file mentah tersebut dan menyajikan laporan: *"90% Santri Mengalami Gangguan Jiwa Akibat Menghafal Alfiyyah Ibnu Malik"*. Laporan ini memicu kepanikan di kalangan dewan pengawas yayasan yang mendesak penghapusan kurikulum Alfiyyah.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Kurikulum gramatika Arab klasik yang telah menjadi keunggulan pesantren selama 50 tahun nyaris dihapus hanya karena data sampah yang tidak dibersihkan (*dirty unvetted data*). Reputasi pesantren sebagai pencetak kader ulama terancam musnah.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Data mentah di `source/` haram diproses sebelum melalui uji pembersihan data (*data cleansing*) dan verifikasi anomali duplikasi di `METHODOLOGY/`. Transformasi menuju `08_SOURCES_AND_EVIDENCE/` wajib menyertakan audit log pembersihan data mentah untuk membuktikan bahwa data bebas dari manipulasi dan bot spam.
 
-Dalam literatur rekayasa sistem kontemporer, Wang dalam *Journal of Management Information Systems* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^9].
+---
 
-Dalam literatur rekayasa sistem kontemporer, Strong dalam *Communications of the ACM* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^10].
+### 7.4. Kasus D: Adopsi Buta Modul Pelatihan Luar Tanpa Islamisasi
+- **Konteks & Insiden**:
+  Seorang pengurus mengunduh modul panduan kepemimpinan dari sebuah lembaga pelatihan manajemen korporasi Barat dan menyimpannya di folder `source/external_modules/leadership_training.pdf`. Modul tersebut mempromosikan doktrin individualisme agresif, persaingan tanpa ampun (*cutthroat competition*), dan teknik manipulasi psikologis untuk memenangkan negosiasi. Dokumen mentah eksternal tersebut langsung difotokopi dan diajarkan kepada santri organisasi santri (OSIS) tanpa proses telaah kritis.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Terjadi perpecahan ukhuwah Islamiyyah di kalangan pengurus santri. Budaya ta'awun (tolong-menolong) dan tawadhu' digantikan oleh sikap arogan, saling menjatuhkan antar-angkatan, dan perebutan jabatan yang sarat intrik politik kotor di asrama.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Dokumen eksternal di dalam `source/` diperlakukan murni sebagai bahan kajian komparatif (*comparative raw inputs*). Dilarang keras mengadopsi naskah luar menjadi bahan ajar santri sebelum melalui proses dialektika dan *tazkiyah* nilai syar'i secara tuntas di direktori `PROBE/`.
 
-## 7. Protokol Tata Kelola 5-Tahap: Pengolahan Bahan Mentah Menjadi Pengetahuan Sahih
+---
 
-Untuk menjamin bahwa data kasar di `source/` tidak pernah mencemari keputusan sistem, diberlakukan alur pemrosesan 5 tahap:
+## 8. Matriks Komparatif & Analisis Multidimensi
 
-```mermaid
-graph TD
-    A[Tahap 1: Ingest Bahan Mentah & Enkripsi Data Sensitif] --> B[Tahap 2: Pembersihan Data, Tabayyun, & Uji Validitas]
-    B --> C[Tahap 3: Ekstraksi Temuan Menjadi Bukti Formal di 08]
-    C --> D[Tahap 4: Penyelidikan Filosofis Kritis melalui PROBE]
-    D -- Gagal Uji Nilai / Bias Lapangan --> E[Tahap 4B: Bukti Diberi Catatan Kritis di 08]
-    D -- Lolos Deliberasi Syura Pakar --> F[Tahap 5: Kodifikasi Menjadi Keputusan Resmi di 01/ADR]
-```
+Berikut disajikan enam matriks analitis komprehensif yang membedah batas ontologis, arsitektur data, dan protokol penapisan Lapisan `source/`:
 
-### 7.1. Tahap 1: Penerimaan Bahan Mentah dan Pengamanan Privasi (Ingestion & Anonymization)
-Seluruh rekaman suara, foto observasi, dan transkrip wawancara dimasukkan ke subfolder `source/`. Seluruh nama asli santri, nomor kamar, dan data medis langsung disamarkan menggunakan kode alfanumerik acak (*cryptographic hashing*).
+### 8.1. Matriks 1: Demarkasi Peran Antara Lapisan source/, 08_ Bukti, dan 01_ Konstitusi
+| Dimensi Pembeda | Bahan Mentah (`source/`) | Bukti Terstruktur (`08_SOURCES_AND_EVIDENCE/`) | Konstitusi Sah (`01_FUNDAMENTAL/`) |
+| :--- | :--- | :--- | :--- |
+| **Status Otoritas** | Nol Mutlak (*Not Source of Truth*) | Catatan Fakta Tervalidasi (*Bayyinah*) | Sumber Kebenaran Tunggal (*Single Source of Truth*) |
+| **Kondisi Data** | Kasar, Bising, Belum Dibersihkan | Bersih, Dianonimkan, Terstruktur | Hasil Sintesis Konsensus Filosofis |
+| **Tingkat Kesiapan** | Mentah (*Raw Ingestion Zone*) | Siap Diuji (*Staged Evidence*) | Siap Diterapkan (*Production Canon*) |
+| **Daya Paksa Hukum**| Nol (Dilarang dieksekusi di lapangan)| Nol (Murni keterangan pembuktian) | Mutlak (100% Seluruh Ekosistem Lembaga) |
+| **Analogi Pertambangan**| Bijih tambang mentah bercampur lumpur| Batangan logam murni hasil peleburan | Mahkota emas perhiasan raja yang megah |
 
-### 7.2. Tahap 2: Pembersihan Data dan Verifikasi Faktual (Cleansing & Tabayyun)
-Peneliti data menyaring data: membuang isian kuesioner yang tidak lengkap, memverifikasi silang (*triangulasi*) kesaksian santri dengan saksi lain dan kamera pengawas, serta membuang pernyataan emosional yang tidak berdasar fakta objektif.
+---
 
-### 7.3. Tahap 3: Ekstraksi Menjadi Catatan Bukti Formal (Evidence Promotion)
-Data mentah yang telah bersih dan tervalidasi diekstraksi ke dalam berkas kanonik `08_SOURCES_AND_EVIDENCE/`. Berkas bukti ini memuat ringkasan temuan, ukuran sampel, dan batasan validitas, dengan tautan balik (*hash-link*) ke berkas mentah di `source/`.
+### 8.2. Matriks 2: Taksonomi Empat Sub-Direktori Bahan Mentah di source/
+| Sub-Direktori | Deskripsi Bahan Kasar yang Ditampung | Protokol Sanitasi Wajib | Hak Sirkulasi Dokumen |
+| :--- | :--- | :--- | :--- |
+| `01_FIELD_AUDIO_RAW/` | Rekaman audio mentah wawancara musyrif, curhat santri, notula suara rapat. | Wajib simpan luring terenkripsi; dilarang commit audio ber-PII ke Git publik. | Sangat Terbatas (Hanya Peneliti Utama) |
+| `02_UNVETTED_NOTES/` | Catatan saku musyrif, draf coretan tangan rapat informal, catatan observasi harian. | Diberi tanda watermark *"DRAF MENTAH NON-OTORITATIF"*. | Terbatas Divisi Riset TUMBUH |
+| `03_DIRTY_SURVEYS/` | Berkas mentah CSV/Excel hasil Google Form atau kuesioner sebelum dibersihkan. | Wajib proses deduplikasi, pembuangan entri rusak, dan verifikasi IP. | Terbuka bagi Tim Analisis Data |
+| `04_EXTERNAL_INGESTS/` | Makalah luar, brosur pelatihan korporasi, dokumen regulasi asing yang diunduh. | Wajib analisis batas konteks dan kajian tazkiyah turats sebelum dikutip. | Terbuka untuk Telaah Akademik |
 
-### 7.4. Tahap 4: Penyelidikan Filosofis dan Etis di Jalur PROBE
-Bukti di `08` kemudian dianalisis oleh para pakar di direktori `PROBE/` untuk diuji keselarasan ontologisnya dengan akidah Islam, psikologi perkembangan, dan fiqih tarbiyah.
+---
 
-### 7.5. Tahap 5: Kodifikasi Menjadi Kebenaran Resmi Sistem (Canonical Codification)
-Hanya setelah melalui musyawarah konsil ahli dan penerbitan *Architectural Decision Record* (ADR) resmi, intisari temuan tersebut boleh dituangkan menjadi pasal konstitusi sistem di `01_FUNDAMENTAL/` atau kebijakan di `02_IMPLEMENTATION/`.
+### 8.3. Matriks 3: Protokol Pemurnian Data Mentah Lima Tahap (The 5-Stage Raw Data Purification Pipeline)
+| Tahap Pemurnian | Nama Protokol | Tindakan Sistem yang Dijalankan | Pihak yang Bertanggung Jawab | Konsekuensi Jika Gagal |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tahap 1** | *Ingestion Isolation* | Menyimpan berkas kasar ke sub-folder `source/` dengan metadata tanggal dan nama pengumpul. | Pengumpul Data Lapangan | File ditolak masuk ke repositori. |
+| **Tahap 2** | *PII Sanitization & Redaction*| Mengaburkan nama asli santri, nomor induk, foto wajah, dan aib keluarga (*pseudonymization*). | Petugas Perlindungan Data Pribadi | Berkas mentah dibekukan dan dilarang diproses. |
+| **Tahap 3** | *Data Cleansing & Validation* | Membuang entri kuesioner rusak, memeriksa anomali data, dan memverifikasi rekaman audio. | Analis Data Repositori | Data anomali dipisahkan ke karantina. |
+| **Tahap 4** | *Canonical Structuring (08_)* | Mengonversi temuan bersih ke format berkas bukti standar kanonik `EVD-XXXXX` di Lapisan 08. | Tim Kurator Bukti Empiris | Gagal dipromosikan menjadi bukti teruji. |
+| **Tahap 5** | *Dialectical Inquest (PROBE)* | Menganalisis makna data bukti di bawah naungan hikmah turats dan syariat Islam. | Majelis Peneliti PROBE | Temuan tetap berstatus data pasif. |
 
-| Peran Data Pipeline | Tugas Spesifik | Larangan Keras | Target Waktu (SLA) |
-|---|---|---|---|
-| **Data Ingestion Officer** | Mengunggah data kasar & mengaburkan identitas | Dilarang mengubah redaksi asli rekaman | 1 Hari Kerja |
-| **Verifikator Tabayyun** | Memeriksa silang kebenaran isi kesaksian | Dilarang mempublikasikan rumor mentah | 3 Hari Kerja |
-| **Data Analyst (Lapisan 08)**| Menyusun laporan bukti terukur dari data bersih | Dilarang membuat klaim regulasi sepihak | 5 Hari Kerja |
-| **Analis PROBE** | Membedah makna filosofis & implikasi sistem | Dilarang mengabaikan fakta anomali | 7 Hari Kerja |
-| **Konsil Otoritas TUMBUH** | Mengesahkan dokumen kanonik di 01 via ADR | Hanya bergerak atas dasar bukti valid | Sesuai Sidang ADR |
+---
 
-### 7.6. Spesifikasi Berita Acara Verifikasi Data Lapangan (BAVDL)
-Sebelum berkas mentah dipromosikan menjadi entitas bukti di `08_SOURCES_AND_EVIDENCE/`, formulir BAVDL wajib diisi dan ditandatangani:
+### 8.4. Matriks 4: Perbandingan Dampak Penanganan Bahan Mentah: Serampangan vs TUMBUH v2.0.0
+| Skenario Penanganan | Integritas Dokumen Konstitusi | Perlindungan Hak Privasi Santri | Kredibilitas Ilmiah Sistem |
+| :--- | :--- | :--- | :--- |
+| **Bahan Mentah Dianggap Kebijakan**| Tercemar fitnah dan draf liar | Runtuh total (Aib santri tersebar) | Sangat Rendah (Lembaga jadi bahan tertawaan) |
+| **Bahan Mentah Dihapus Total** | Terisolasi dari realitas lapangan | Aman, namun lembaga buta sejarah | Rendah (Kebijakan jadi teori kosong) |
+| **Tata Kelola source/ TUMBUH v2.0.0**| Terlindungi 100% (*Pure Truth*) | Terjaga mutlak (*Strict Safeguarding*)| Sangat Tinggi (Standar Emas Sains & Syariat) |
+
+---
+
+### 8.5. Matriks 5: Analisis Risiko Keamanan Data Mentah dan Strategi Penanggulangan
+| Potensi Risiko | Deskripsi Skenario Buruk | Tingkat Keparahan | Prosedur Penanggulangan di TUMBUH |
+| :--- | :--- | :--- | :--- |
+| *PII Leakage* | Nama asli santri korban pelecehan terbaca di repositori publik GitHub. | Kritis & Darurat Pidana | Skrip deteksi ekspresi reguler (Regex) memindai nama santri dan memblokir commit Git. |
+| *Direct Link Smuggling* | SOP asrama mengutip langsung file draf mentah di `source/` sebagai dasar sanksi. | Tinggi | Linter CI/CD melarang keras folder `03_` memuat link yang mengarah ke `source/`. |
+| *Data Tampering* | Staf lapangan mengedit isi rekaman mentah untuk menjebak rekan kerjanya. | Kritis | Verifikasi checksum SHA-256 pada setiap artefak mentah yang baru diunggah. |
+| *Git Repo Bloat* | Folder `source/` diisi video rekaman CCTV berukuran puluhan gigabyte. | Sedang-Tinggi | Berkas media biner raksasa dialihkan ke penyimpanan terpisah (*Git LFS / Cold Storage*). |
+
+---
+
+### 8.6. Matriks 6: Hak Akses dan Kewenangan Pengguna pada Direktori `source/`
+| Peran (Role) | Hak Membaca (Read) | Hak Menulis Data Mentah (Ingest) | Hak Membersihkan Data (Cleanse) | Hak Mempromosikan ke Lapisan 08 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Santri & Wali Santri** | Dilarang keras (Akses Tertutup) | Tidak memiliki hak | Tidak memiliki hak | Tidak memiliki hak |
+| **Musyrif Lapangan** | Hanya berkas catatan miliknya | Berwenang mencatat observasi | Membantu verifikasi fakta | Tidak berwenang |
+| **Analis Data Riset** | Terbuka penuh (Data non-PII) | Mengunggah dataset survei | Berwenang mengeksekusi ETL | Mengajukan draf `EVD-XXXXX` |
+| **Petugas Kerahasiaan Data**| Terbuka penuh dengan izin khusus | Memantau kepatuhan privasi | Mengaburkan identitas santri | Memvalidasi sanitasi berkas |
+| **Pimpinan Pesantren** | Terbuka penuh (Audit Trail) | Tidak mengunggah data teknis | Memantau integritas data | Menyetujui kebijakan hasil inkuiri |
+
+### 8.7. Matriks 7: Matriks Klasifikasi Kerahasiaan Data Pribadi Santri (PII Sensitivity Matrix)
+| Kategori Data Santri | Contoh Data di Lapangan | Tingkat Risiko Privasi | Tindakan Redaksi / Sanitasi Wajib Sebelum Diproses |
+| :--- | :--- | :--- | :--- |
+| **Identitas Formal** | Nama lengkap, NIK, NISN, alamat rumah, nomor telepon orang tua. | Kritis | Samarkan menjadi inisial fiktif (misal: "Santri Zaid, Kohort 7A"). |
+| **Rekam Medis & Kejiwaan**| Catatan riwayat penyakit asma, depresi, trauma pelecehan, self-harm. | Sangat Rahasia | Hapus detail klinis personal; ganti dengan kode taksonomi psikologi umum. |
+| **Catatan Konseling Batin**| Curahan hati tentang dosa pribadi, konflik keluarga, kebencian teman. | Sangat Rahasia | Ekstrak murni pola masalahnya (*themes*); musnahkan detail narasi aib pribadi. |
+| **Foto & Rekaman Visual** | Rekaman CCTV kamar tidur, foto wajah menangis saat sidang pelanggaran. | Kritis | Dilarang keras diunggah ke repositori; simpan di server luring tertutup. |
+| **Data Observasi Perilaku**| Frekuensi keterlambatan bangun shalat Subuh, catatan piket kamar. | Sedang | Agregasikan dalam bentuk statistik kelas/asrama tanpa mencantumkan nama anak. |
+
+## 9. Protokol Tindakan Operasional: Siklus Pengolahan Data Mentah Lima Tahap dan Skrip Linter CI/CD
+
+Untuk memastikan bahwa direktori `source/` senantiasa terisolasi dari lapisan kebijakan resmi dan terlindungi dari kebocoran privasi, ditetapkan format penanda berkas mentah (*Canonical Raw Ingestion Banner*) dan skrip pemeriksaan otomatis (*Git CI/CD Raw Source Reference Blocker*):
+
+### 9.1. Format Baku Penanda Berkas Mentah (Canonical Raw Ingestion Banner)
+Setiap naskah atau catatan lapangan yang disimpan di dalam direktori `source/` wajib disemati blok peringatan status mentah di bagian paling atas dokumen:
 
 ```markdown
 ---
-bavdl_id: BAVDL-2026-X04
-source_file_ref: source/raw_transcripts/audio_interview_batch3.wav
-sanitized_evidence_id: 08_SOURCES_AND_EVIDENCE/EVD-2026-004_Kemandirian_Kamar.md
-lead_verifier: Ustadz Dr. H. Rahmatullah, M.A.
-triangulation_status: VERIFIED (3 Independent Witnesses & Logbook Match)
-pii_scrubbed: YES (All personal names replaced with hashes)
-recommendation: APPROVED FOR EPITEMIC PROMOTION TO LAYER 08
----
-```
-
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-
-### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
-Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
-- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
-- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
-- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
-- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
-- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
-- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
-- **Parameter Penjaminan Mutu Berkelanjutan 3**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-- **Parameter Penjaminan Mutu Berkelanjutan 4**: Evaluasi konsistensi dokumen kebijakan dan kepatuhan praktik lapangan terhadap mandat epistemik TUMBUH v2.0.0.
-
+source_metadata:
+  epistemic_status: RAW_UNVETTED_INGESTION
+  source_of_truth: FALSE
+  ingestion_date: 2026-05-18
+  collector: "Tim Observasi Lapangan Asrama"
+  contains_pii: SANITIZED_PSEUDONYMIZED
+  promoted_to_evidence: "08_SOURCES_AND_EVIDENCE/EVD-2026-OBS-0089.md"
 ---
 
-## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Source Boundary CI Guard)
-
-Repositori dilengkapi skrip validasi otomatis pada pipeline integrasi berkelanjutan (*Continuous Integration*) untuk mencegah pelanggaran arsitektur terkait folder `source/`.
-
-### 8.1. Aturan Validasi Batas Direktori source/
-Skrip CI menjalankan tiga pengujian ketat:
-1. **Illegal Direct Dependency Ban**: Memindai seluruh berkas di `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`. Jika ditemukan tautan markdown yang merujuk langsung ke folder `source/` (`file:///.source/.`), build otomatis langsung digagalkan (*FAIL*). Seluruh rujukan wajib melalui perantara berkas bukti di `08_SOURCES_AND_EVIDENCE/`.
-2. **Raw File Naming & Warning Check**: Memastikan setiap subfolder di `source/` memiliki berkas `README.md` dengan peringatan raksasa bahwa isi folder tersebut adalah bahan mentah non-otoritatif.
-3. **Sensitive PII Detection**: Memindai kemunculan nomor induk santri atau nama lengkap santri pada berkas teks terbuka di folder `source/`.
-
-### 8.2. Protokol Triage Bahan Sumber Mentah & Matriks Isolasi Data Lapangan
-
-Bahan mentah di direktori `source/` wajib dikarantina agar tidak disalahartikan sebagai kebenaran resmi (*not source of truth*). Protokol penanganan bahan mentah meliputi:
-
-1. **Prosedur Anonimisasi & Perlindungan Adab**:
-   Seluruh catatan lapangan, rekaman suara wawancara santri, atau dokumentasi buku pelanggaran lama wajib melalui proses penyamaran identitas (*de-identification*) guna melindungi kehormatan pribadi santri dan sivitas pesantren sesuai etika Islam anti-tajassus.
-
-2. **Larangan Rujukan Langsung ke Dokumen Kebijakan**:
-   Naskah kebijakan di `01_FUNDAMENTAL` dan panduan di `03_OPERATIONAL` dilarang membuat rujukan langsung ke berkas mentah di `source/`. Seluruh data mentah harus disaring dan diuji terlebih dahulu melalui kajian dialektis `PROBE/` dan dicatat keterbatasannya di `08_SOURCES_AND_EVIDENCE`.
-
-3. **Matriks Penapisan Bahan Sumber Menuju Repositori**:
-
-| Status Bahan | Karakteristik Dokumen | Hak Akses & Distribusi | Syarat Pengolahan Lanjutan |
-|---|---|---|---|
-| **Raw Intake** | Catatan harian kasar, transkrip musyrif | Terbatas pada tim peneliti inti | Anonimisasi identitas santri & musyrif |
-| **Processed Corpus** | Bahan mentah terindeks & terkategori | Lingkungan kerja inkuiri internal | Pengecekan silang bukti lapangan |
-| **Evidence Synthesis**| Data tervalidasi di lapis 08 | Sivitas perancang sistem repositori | Uji batasan konteks & limitasi data |
-| **Ketetapan Sistem** | Prinsip fundamental hasil sintesis | Terbuka untuk seluruh jaringan pesantren| Melalui dialektika monograf PROBE |
-
-### 8.3. Spesifikasi Banner Peringatan Wajib Direktori source/
-Setiap subdirektori di dalam folder `source/` diwajibkan memiliki berkas `README.md` yang memuat banner peringatan resmi:
-
-```markdown
 > [!CAUTION]
-> ### PERINGATAN EPITEMIK: BAHAN MENTAH TIDAK OTORITATIF (RAW INGESTION ZONE)
-> Folder ini memuat catatan lapangan kasar, transkrip rekaman mentah, dan draf kerja belum terverifikasi.
-> **ATURAN ARSITEKTUR REPOSITORI**:
-> 1. Isi folder ini BUKAN MERUPAKAN SINGLE SOURCE OF TRUTH sistem TUMBUH v2.0.0.
-> 2. Dilarang keras menerapkan isi berkas di folder ini sebagai SOP atau peraturan asrama santri.
-> 3. Dokumen di folder ini tidak boleh dirujuk langsung oleh berkas di `01_FUNDAMENTAL/` atau `03_OPERATIONAL/`.
+> ## BAHAN KERJA MENTAH NON-OTORITATIF (NOT SOURCE OF TRUTH)
+> **PERINGATAN ARSITEKTUR REPOSITORI TUMBUH v2.0.0**:  
+> Berkas ini berstatus sebagai **BAHAN MENTAH LAPANGAN (RAW DATA)** yang tersimpan di dalam direktori `source/`. 
+> Berkas ini **BUKAN MERUPAKAN KEPUTUSAN, BUKAN NORMA, DAN BUKAN SUMBER KEBENARAN SISTEM**.
+> 
+> - **Daya Paksa Yuridis**: MUTLAK NOL (0%). Dilarang keras dijadikan dasar penindakan santri di asrama.
+> - **Kondisi Data**: Belum diverifikasi kebenarannya, memuat persepsi subjektif, dan dapat memuat anomali.
+> - **Jalur Promosi Sah**: Wajib melalui pembersihan data dan promosi resmi ke Lapisan `08_SOURCES_AND_EVIDENCE/` serta telaah kritis di `PROBE/`.
+> 
+> *Pelanggaran terhadap status non-otoritatif berkas ini akan ditindak sebagai pelanggaran integritas data berat!*
+
+---
 ```
 
-### 8.4. Protokol Etika Digital dan Dekontaminasi Data Mentah
-Proses pengolahan bahan mentah di direktori `source/` tunduk pada prinsip kehati-hatian tingkat tinggi terkait perlindungan data pribadi santri (*Personal Data Protection*). Tim pengumpul data lapangan wajib mematuhi protokol dekontaminasi digital berikut:
-1. **Pemisahan Identitas Langsung**: Nama asli, nomor induk santri, identitas wali, dan nama daerah asal dihapus dan digantikan dengan kode pseudonim acak yang hanya dapat didekripsi oleh Komite Etik Pengasuhan.
-2. **Penghapusan Metadata Media Digital**: Rekaman audio atau foto dokumentasi kegiatan kamar dibersihkan dari metadata EXIF (informasi lokasi GPS, waktu presisi, dan model perangkat perekam) guna mencegah kebocoran privasi asrama.
-3. **Batas Masa Simpan Bahan Kasar**: Rekaman wawancara dan catatan mentah yang telah ditranskrip dan disintesis ke dalam laporan bukti diwajibkan untuk diarsipkan secara terenkripsi dan dihapus dari ruang kerja harian setelah periode retensi 12 bulan terpenuhi.
+---
+
+### 9.2. Prosedur Sanitasi Identitas Pribadi Santri (PII Redaction Protocol)
+Sebelum sebuah catatan lapangan mentah diunggah ke repositori, pengumpul data wajib menjalankan protokol penyamaran identitas (*anonymization/pseudonymization*):
+
+```text
+Nama Asli Santri        -> Diganti Inisial / Nama Samaran (misal: "Santri Zaid - Kohort 8B")
+Nomor Induk Santri (NIS)-> Dihapus atau dienkripsi dengan salt kriptografis
+Nama Orang Tua / Alamat -> Dihapus total dari catatan teks
+Foto Wajah Fisik        -> Dilarang diunggah; jika wajib, wajah dan tanda lahir diburamkan (blur)
+Rekaman Suara Pribadi   -> Disimpan di server luring terenkripsi; hanya transkrip teks anonim yang diunggah
+```
 
 ---
 
-## 9. Architectural Decision Record (ADR): Penetapan Status Non-Kanonik Folder source/
+### 9.3. Spesifikasi Skrip Static Semantic Linter Pemblokir Dependensi Bahan Mentah (Git CI/CD Hooks)
+Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*raw source reference blocker*) yang memindai setiap berkas di lapisan operasional (`03_`), implementasi (`02_`), dan fundamental (`01_`) untuk memastikan bahwa tidak ada satu pun dokumen kebijakan yang membuat dependensi ilegal ke dalam folder `source/`:
 
-### Context
-Kecenderungan praktisi lapangan untuk memperlakukan catatan rapat mentah, rekaman wawancara, atau dokumen draf coretan tangan sebagai dasar pembuatan regulasi telah memicu sengketa hukum dan kekacauan tata kelola. Diperlukan penetapan arsitektural permanen yang membatasi status hukum direktori `source/`.
+```python
+# scripts/lint_source_boundary.py
+import re
+import sys
+import pathlib
 
-### Decision
-Diputuskan secara mutlak bahwa:
-1. Direktori `source/` berstatus sebagai **Lumbung Bahan Mentah dan Perekaman Data Kasar (Raw Ingestion Storage)** yang steril dari kekuatan hukum normatif.
-2. Direktori `source/` **sama sekali bukan Single Source of Truth (SSOT)** bagi ekosistem TUMBUH v2.0.0. Status SSOT hanya dipegang secara sah oleh dokumen kanonik di `01_FUNDAMENTAL/` dan ketetapan ADR kanonik.
-3. Dilarang keras merujuk langsung (*direct linking*) dokumen di dalam `source/` dari berkas-berkas regulasi di `01`, `02`, dan `03`. Seluruh bahan mentah wajib melalui proses pembersihan dan verifikasi formal di `08_SOURCES_AND_EVIDENCE/`.
+PROHIBITED_RAW_DEPENDENCY = r"(\.\./)*source/[a-zA-Z0-9_\-/]+\.(md|txt|csv|pdf|png|jpg)"
 
-### Status
-`APPROVED & LOCKED` (Ketetapan Konstitusi Repositori Branch v2.0.0).
+def audit_canonical_layers():
+    canonical_dirs = ["01_FUNDAMENTAL", "02_IMPLEMENTATION", "03_OPERATIONAL"]
+    errors = []
+    
+    for c_dir in canonical_dirs:
+        dir_path = pathlib.Path(c_dir)
+        if not dir_path.exists():
+            continue
+            
+        for md_file in dir_path.rglob("*.md"):
+            text = md_file.read_text(encoding="utf-8")
+            
+            # 1. Cari tautan markdown ilegal yang merujuk ke folder source/
+            matches = re.finditer(PROHIBITED_RAW_DEPENDENCY, text, re.IGNORECASE)
+            for m in matches:
+                errors.append(f"Dokumen resmi {md_file.name} memuat tautan ilegal langsung ke bahan mentah: '{m.group(0)}'")
+                
+            # 2. Periksa apakah ada kutipan langsung yang menjadikan source/ sebagai dalil norma
+            if "berdasarkan berkas source/" in text.lower() or "mengikuti dokumen source/" in text.lower():
+                errors.append(f"Dokumen resmi {md_file.name} menjadikan bahan mentah source/ sebagai dasar legitimasi kebijakan!")
+                
+    return errors
 
-### Consequences
-- **Positif**: Lembaga terlindungi dari risiko tuntutan hukum akibat penerapan fatwa/peraturan liar, terjaganya kerahasiaan data pribadi santri, dan kejelasan alur pengolahan data ilmiah yang profesional.
-- **Tantangan**: Memerlukan kerja ekstra bagi tim peneliti untuk melakukan proses tabayyun, pembersihan data, dan penyusunan berkas bukti formal sebelum data dapat dimanfaatkan oleh sistem.
+def audit_source_banners():
+    source_dir = pathlib.Path("source")
+    errors = []
+    if not source_dir.exists():
+        return errors
+        
+    for md_file in source_dir.rglob("*.md"):
+        text = md_file.read_text(encoding="utf-8")
+        if "BAHAN KERJA MENTAH NON-OTORITATIF" not in text and "source_of_truth: FALSE" not in text:
+            errors.append(f"Berkas mentah {md_file.relative_to(source_dir.parent)} tidak memiliki banner peringatan non-otoritatif wajib!")
+            
+    return errors
 
----
-
-## 10. Drift Guardrails & Anti-Pattern Checklist
-
-Tujuh prinsip tata kelola bahan mentah yang wajib ditaati:
-
-- [x] **Guardrail 1 (source/ is Not Source of Truth)**: Dokumen mentah di `source/` tidak boleh dijadikan landasan pembuatan aturan santri.
-- [x] **Guardrail 2 (No Direct Inverted Linking)**: Dilarang membuat tautan markdown dari folder `01`, `02`, atau `03` langsung ke `source/`.
-- [x] **Guardrail 3 (Mandatory Data Cleansing)**: Seluruh data kuesioner dan survei wajib dibersihkan dari noise sebelum ditarik kesimpulannya.
-- [x] **Guardrail 4 (Strict Anonymization of Minors)**: Identitas asli santri (nama, NIS, riwayat keluarga) pada file mentah wajib disamarkan dengan kode acak.
-- [x] **Guardrail 5 (Tabayyun on Unverified Claims)**: Pernyataan sepihak dalam rekaman wawancara wajib diverifikasi silang sebelum dicatat sebagai temuan.
-- [x] **Guardrail 6 (Mandatory Warning Banners)**: Setiap subfolder di `source/` wajib memiliki berkas README.md berisi kotak peringatan CAUTION.
-- [x] **Guardrail 7 (Periodic Raw Data Purge)**: Berkas mentah yang tidak terpakai dan tidak memiliki nilai historis setelah 3 tahun dapat dimusnahkan secara aman.
-- [x] **Guardrail 8 (No Executable Code in source/)**: Folder `source/` hanya boleh memuat data pasif (teks, audio, gambar), dilarang memuat script eksekusi sistem.
-- [x] **Guardrail 9 (Verification of External Documents)**: Peraturan dari pihak eksternal yang disimpan di `source/` wajib dikaji kesesuaiannya dengan nilai pesantren.
-- [x] **Guardrail 10 (Access Control Safeguards)**: Hak akses tulis (*write access*) ke direktori `source/` hanya diberikan kepada staf pengumpul data resmi berizin.
-
----
-
-## 11. Traceability Matrix & Bibliografi Rujukan
-
-### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
-- `source/`: Direktori target utama yang diatur batas yurisdiksi dan status non-otoritatifnya oleh monograf penyelidikan ini.
-- `08_SOURCES_AND_EVIDENCE/`: Muara tempat penampungan data mentah `source/` yang telah dibersihkan dan diverifikasi metodologinya.
-- `01_FUNDAMENTAL/`: Pemegang sah status *Single Source of Truth* konstitusional yang tidak boleh dikotori oleh file mentah `source/`.
-- `PROBE/`: Mesin inkuiri yang menguji validitas interpretasi bukti sebelum diangkat menjadi ketetapan sistem.
-- `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan stratifikasi repositori.
-- `PROBE/PROBE_01/P00011-Anatomi-Alur-Epistemik-Repositori-Dari-Source-Menuju-Praktik.md`: Memetakan hulu aliran data dari `source/` menuju muara `Praktik`.
-- `PROBE/PROBE_01/P00015-Kedudukan-Lapisan-08_SOURCES_AND_EVIDENCE.md`: Menjelaskan bagaimana bukti formal dipisahkan dari keputusan otomatis.
----
-
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
-
-Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
-
-[^1]: Ibnu ash-Shalah, U. (1986). *Ma'rifat anwa' 'ilm al-hadits: Muqaddimah Ibn ash-Shalah* (N. 'Itr, Ed.). Dar al-Fikr.
-[^2]: Al-Qasimi, J. (1979). *Qawa'id at-tahdits min funun musthalah al-hadits*. Dar al-Kutub al-'Ilmiyyah.
-[^3]: Ibnu Taimiyyah, A. (1995). *Majmu' al-fatawa* (A. Qasim, Ed.; Jilid 10). Majma' al-Malik Fahd.
-[^4]: Al-Baqillani, M. T. (1993). *Al-Inshaf fima yajib i'tiqaduhu wa la yajuz al-jahl bihi* (M. Z. al-Kautsari, Ed.). Mu'assasah al-Khanji.
-[^5]: Inmon, W. H. (2005). *Building the data warehouse* (4th ed.). John Wiley & Sons.
-[^6]: Kimball, R., & Ross, M. (2013). *The data warehouse toolkit: The definitive guide to dimensional modeling* (3rd ed.). John Wiley & Sons.
-[^7]: Loshin, D. (2010). *Master data management*. Morgan Kaufmann.
-[^8]: Redman, T. C. (2008). *Data driven: Profiting from your most important business asset*. Harvard Business Press.
-[^9]: Wang, R. Y., & Strong, D. M. (1996). Beyond accuracy: What data quality means to data consumers. *Journal of Management Information Systems*, 12(4), 5–33.
-[^10]: Strong, D. M., Lee, Y. W., & Wang, R. Y. (1997). Data quality in context. *Communications of the ACM*, 40(5), 103–110.
-
-## 12. Rekomendasi Aksi Nyata Bagi Manajemen Repositori dan Petugas Data Pesantren
-
-Berdasarkan kesimpulan penyelidikan kanonik ini, langkah-langkah konkret berikut diinstruksikan kepada seluruh unit pesantren:
-
-1. **Audit Total Seluruh Berkas di Folder source/**:
-   Lakukan inventarisasi terhadap seluruh file yang tersimpan di direktori `source/`. Pasang banner peringatan resmi pada seluruh subfolder yang ada.
-2. **Penghapusan File Rahasia yang Tidak Terenkripsi**:
-   Pindahkan seluruh rekaman suara dan transkrip wawancara yang memuat aib pribadi santri ke media penyimpanan terenkripsi khusus yang dilindungi kata sandi.
-3. **Penerbitan Surat Edaran Larangan Mengutip Draf Mentah**:
-   Pimpinan yayasan menerbitkan instruksi yang menegaskan bahwa seluruh staf dilarang keras mengutip berkas draf coretan rapat di folder `source/` sebagai dasar penindakan santri.
-4. **Pemasangan Skrip Linter CI di Repositori Git**:
-   Aktifkan skrip python `audit_source_boundary_isolation()` pada pipeline CI untuk memblokir seluruh pull request yang membuat tautan langsung ke folder `source/`.
-5. **Pelatihan Literasi Tabayyun bagi Asatidz Pengasuh**:
-   Selenggarakan workshop bagi musyrif asrama mengenai cara melakukan verifikasi faktual (*tabayyun*) sebelum mempercayai laporan atau desas-desus perilaku santri.
-6. **Standardisasi Alur Konversi Data Mentah ke Bukti Formal**:
-   Tetapkan form baku Berita Acara Verifikasi Data Lapangan untuk mengubah catatan mentah menjadi berkas bukti resmi di `08_SOURCES_AND_EVIDENCE/`.
+if __name__ == "__main__":
+    all_errs = audit_canonical_layers() + audit_source_banners()
+    if all_errs:
+        print("[GAGAL AUDIT CI/CD] Pelanggaran Batas Folder source/ (Bahan Mentah) Ditemukan:")
+        for err in all_errs:
+            print(f" - {err}")
+        sys.exit(1)
+    else:
+        print("[SUKSES AUDIT CI/CD] Seluruh berkas repositori mematuhi aturan demarkasi bahan mentah (Not Source of Truth).")
+        sys.exit(0)
+```
 
 ---
 
-## 13. Emergent Questions & Inkuiri Lanjutan (Chain of Inquiry)
+## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0020)
 
-Dengan tuntasnya penegasan batas folder bahan mentah ini, penyelidikan bergerak menuju gerbang penutup dari Pilar 2 Repositori:
+### 10.1. Konteks Masalah
+Dalam pengelolaan ekosistem TUMBUH v2.0.0, terdapat godaan berkelanjutan bagi staf lapangan untuk menggunakan berkas draf, catatan rapat mentah, dan rekaman wawancara yang tersimpan di dalam folder `source/` sebagai dasar legitimasi tindakan operasional di asrama santri. Kebiasaan ini menciptakan risiko hukum yang sangat fatal, memicu kebocoran privasi santri, dan mengancam kemurnian doktrin sistem dengan data sampah yang belum tervalidasi (*GIGO*).
 
-- **P00021**: *Mekanisme Transisi Antarlapisan Repositori: Protokol Promosi Berkas dari Hipotesis Menuju Konstitusi.* (Menyelidiki secara komprehensif gerbang penjaminan mutu dan kriteria kelulusan berkas antarseluruh lapisan dari `source/` hingga `01_FUNDAMENTAL/`).
-- **P00022**: *Mengapa TUMBUH Menolak Pendekatan Eklektikisme Acak dalam Desain Pendidikan Karakter?* (Memulai investigasi komprehensif pada Pilar 3: Logika Penataan Arsitektur Konseptual TUMBUH).
+### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
+Majelis Epistemik dan Dewan Arsitektur Repositori menetapkan keputusan rekayasa baku berikut:
+
+1. **Penetapan Status Non-Source of Truth Mutlak**:
+   Direktori `source/` ditetapkan secara mutlak berkedudukan murni sebagai *Zona Penampungan Bahan Kasar (Raw Ingestion Zone)*. Seluruh berkas di dalamnya memiliki bobot otoritas hukum nol (*zero legal authority*) dan secara kategoris **BUKAN MERUPAKAN SUMBER KEBENARAN SISTEM (NOT SOURCE OF TRUTH)**.
+2. **Kewajiban Penyematan Banner Non-Otoritatif**:
+   Setiap berkas markdown di dalam direktori `source/` wajib disemati *Canonical Raw Ingestion Banner* di bagian paling atas naskah yang menegaskan status non-otoritatifnya.
+3. **Pemberlakuan Pipa Pemurnian Data Lima Tahap**:
+   Bahan mentah di `source/` hanya boleh mempengaruhi keputusan sistem setelah melalui alur kerja ETL resmi: sanitasi privasi (PII redaction), pembersihan data (cleansing), transformasi menjadi bukti tervalidasi di `08_SOURCES_AND_EVIDENCE/`, dan penimbangan dialektis di `PROBE/`.
+4. **Pencegahan Ketergantungan Ilegal via Linter CI/CD**:
+   Sistem Git repositori dipasangi skrip linter otomatis yang menolak commit jika ada dokumen di lapisan kanonik (`01_` s/d `03_`) yang membuat tautan langsung ke berkas di dalam folder `source/`.
+
+### 10.3. Konsekuensi dan Mitigasi
+- **Konsekuensi Positif**:
+  - Kebijakan resmi dan tata tertib santri steril 100% dari data sampah, gosip asrama, dan draf mentah yang menyesatkan.
+  - Hak privasi santri dan kehormatan keluarga terlindungi secara mutlak sesuai mandat syariat Islam dan undang-undang perlindungan anak.
+  - Silsilah data empiris terpelihara secara jujur tanpa manipulasi.
+- **Konsekuensi Negatif & Mitigasi**:
+  - *Beban Waktu Transformasi Data*: Data mentah membutuhkan waktu lebih lama sebelum dapat digunakan sebagai bukti resmi.  
+    *Mitigasi*: Membentuk tim kurator data khusus dan menyediakan skrip otomasi sanitasi teks untuk mempercepat proses transformasi data ke Lapisan 08.
+
+---
+
+## 11. Implikasi Berlapis Repositori TUMBUH & 7 Batasan Mutlak (The 7 Canonical Guardrails)
+
+### 11.1. Implikasi Berlapis Pembatasan Bahan Mentah pada Seluruh Arsitektur Repositori
+Penegakan demarkasi direktori `source/` memberikan perlindungan integritas yang menjangkau seluruh lapisan ekosistem TUMBUH:
+
+- **Pada Lapisan 01_FUNDAMENTAL/**:
+  Menjamin bahwa doktrin filosofis pesantren berdiri di atas batu karang wahyu yang kokoh dan bukti ilmiah yang telah teruji, terbebas dari pencemaran data mentah yang bising dan belum terbukti kebenarannya.
+- **Pada Lapisan 02_IMPLEMENTATION/**:
+  Melindungi yayasan dari risiko tuntutan hukum sengketa perdata maupun pidana akibat kebocoran data pribadi santri atau penerapan draf mentah ilegal.
+- **Pada Lapisan 03_OPERATIONAL/**:
+  Menjamin kepastian hukum bagi musyrif lapangan. Musyrif dijamin hanya menjalankan SOP yang telah disahkan secara resmi oleh surat keputusan pimpinan, tanpa rasa ragu terhadap status keabsahan dokumen.
+- **Pada Direktori PROBE/**:
+  Menyediakan laboratorium analisis data mentah yang aman dan terisolasi, di mana peneliti dapat membedah realitas lapangan secara jujur tanpa takut mencemari dokumen hidup pesantren.
+
+---
+
+### 11.2. Dimensi Eskatologis Amanah Menjaga Aib dan Tabayyun Berita
+Secara teologis dan eskatologis, penegakan batas folder `source/` adalah perwujudan ketaatan kepada perintah syariat untuk menjaga aib sesama muslim (*satr 'awrat al-muslim*) dan kewajiban tabayyun. Rasulullah ﷺ bersabda dalam hadits sahih:
+```text
+مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ
+```
+> *"Barangsiapa yang menutupi aib seorang muslim, maka Allah akan menutupi aibnya di dunia dan di akhirat." (HR. Muslim No. 2699).*
+
+Menyebarkan rekaman suara curhat santri atau mempublikasikan catatan mentah yang memuat kelemahan seorang anak adalah bentuk pembongkaran aib (*hatk al-hurumat*) yang diancam dengan siksa pedih. Petugas data yang dengan teliti menyamarkan nama santri dan membatasi sirkulasi berkas mentah sedang menjalankan ibadah agung menjaga kehormatan darah dan martabat generasi santri di hadapan Allah Ta'ala.
+
+---
+
+### 11.3. Tujuh Batasan Mutlak Penanganan Bahan Mentah (The 7 Canonical Guardrails)
+Seluruh peneliti, pengumpul data, dan praktisi repositori terikat secara mutlak oleh tujuh batasan kanonik (*guardrails*) berikut:
+
+1. **Guardrail 1: Larangan Penetapan Status Otoritatif (Source of Truth Ban)**:
+   Diharamkan secara mutlak memperlakukan berkas di direktori `source/` sebagai dokumen otoritatif yang memiliki kekuatan hukum untuk mengatur santri di asrama.
+2. **Guardrail 2: Larangan Tautan Dependensi Langsung (Direct Linkage Ban)**:
+   Diharamkan membuat tautan hiperteks langsung dari dokumen di lapisan `01_`, `02_`, atau `03_` menuju berkas di dalam folder `source/`.
+3. **Guardrail 3: Kewajiban Sanitasi Identitas Pribadi (PII Redaction Mandate)**:
+   Diharamkan mengunggah data mentah yang memuat nama lengkap santri, nomor induk, foto wajah terbuka, atau aib keluarga santri tanpa proses anonimisasi.
+4. **Guardrail 4: Larangan Eksekusi Draf Coretan (Draft Execution Ban)**:
+   Diharamkan bagi musyrif atau staf keamanan asrama untuk mengeksekusi sanksi, denda, atau tata tertib yang baru berstatus coretan usulan rapat di dalam folder mentah.
+5. **Guardrail 5: Kewajiban Pipa Pemurnian Lima Tahap (ETL Pipeline Mandate)**:
+   Setiap temuan data lapangan di `source/` wajib melewati proses pembersihan data dan promosi resmi ke `08_SOURCES_AND_EVIDENCE/` sebelum dapat dijadikan bahan telaah di `PROBE/`.
+6. **Guardrail 6: Larangan Penghapusan Jejak Mentah Asli (Raw Provenance Preservation)**:
+   Diharamkan memusnahkan berkas mentah asli yang telah tervalidasi; berkas mentah yang telah disanitasi wajib dipelihara sebagai saksi silsilah pembuktian yang dapat diaudit sewaktu-waktu.
+7. **Guardrail 7: Penyematan Wajib Banner Non-Otoritatif (Mandatory Raw Banner)**:
+   Setiap berkas markdown di dalam direktori `source/` wajib menyertakan blok peringatan nisan mentah (*Canonical Raw Ingestion Banner*) di awal dokumen.
+
+---
+
+### 11.2. Dimensi Eskatologis Amanah Menjaga Lisan dari Menuduh Tanpa Bukti (Tahrim al-Buhtan)
+Secara teologis dan eskatologis, penegakan batas folder `source/` adalah benteng pertahanan dari dosa besar *Buhtan* (menuduh orang lain tanpa bukti) dan *Ghibah* (membicarakan aib orang lain di belakangnya). Rasulullah ﷺ memperingatkan bahaya seorang mukmin yang gemar membicarakan segala sesuatu yang ia dengar:
+```text
+كَفَى بِالْمَرْءِ كَذِبًا أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ
+```
+> *"Cukuplah seseorang dianggap berdusta apabila ia menceritakan (menyebarkan) setiap apa yang ia dengar." (HR. Muslim dalam Muqaddimah Shahih-nya No. 5).*
+
+Ketika seorang staf pengasuhan membaca transkrip kasar di `source/` yang memuat keluhan seorang santri tentang temannya, lalu staf tersebut langsung mempercayainya dan menyebarkannya kepada para guru lain, ia telah terjatuh ke dalam kedustaan yang diperingatkan oleh Rasulullah ﷺ. Membatasi sirkulasi berkas mentah adalah ibadah taqwa untuk membersihkan lisan dan dokumen pesantren dari dosa fitnah dan dusta.
+
+---
+
+### 11.3. Tujuh Batasan Mutlak Penanganan Bahan Mentah (The 7 Canonical Guardrails)
+Seluruh peneliti, pengumpul data, dan praktisi repositori terikat secara mutlak oleh tujuh batasan kanonik (*guardrails*) berikut:
+
+1. **Guardrail 1: Larangan Penetapan Status Otoritatif (Source of Truth Ban)**:
+   Diharamkan secara mutlak memperlakukan berkas di direktori `source/` sebagai dokumen otoritatif yang memiliki kekuatan hukum untuk mengatur santri di asrama.
+2. **Guardrail 2: Larangan Tautan Dependensi Langsung (Direct Linkage Ban)**:
+   Diharamkan membuat tautan hiperteks langsung dari dokumen di lapisan `01_`, `02_`, atau `03_` menuju berkas di dalam folder `source/`.
+3. **Guardrail 3: Kewajiban Sanitasi Identitas Pribadi (PII Redaction Mandate)**:
+   Diharamkan mengunggah data mentah yang memuat nama lengkap santri, nomor induk, foto wajah terbuka, atau aib keluarga santri tanpa proses anonimisasi.
+4. **Guardrail 4: Larangan Eksekusi Draf Coretan (Draft Execution Ban)**:
+   Diharamkan bagi musyrif atau staf keamanan asrama untuk mengeksekusi sanksi, denda, atau tata tertib yang baru berstatus coretan usulan rapat di dalam folder mentah.
+5. **Guardrail 5: Kewajiban Pipa Pemurnian Lima Tahap (ETL Pipeline Mandate)**:
+   Setiap temuan data lapangan di `source/` wajib melewati proses pembersihan data dan promosi resmi ke `08_SOURCES_AND_EVIDENCE/` sebelum dapat dijadikan bahan telaah di `PROBE/`.
+6. **Guardrail 6: Larangan Penghapusan Jejak Mentah Asli (Raw Provenance Preservation)**:
+   Diharamkan memusnahkan berkas mentah asli yang telah tervalidasi; berkas mentah yang telah disanitasi wajib dipelihara sebagai saksi silsilah pembuktian yang dapat diaudit sewaktu-waktu.
+7. **Guardrail 7: Penyematan Wajib Banner Non-Otoritatif (Mandatory Raw Banner)**:
+   Setiap berkas markdown di dalam direktori `source/` wajib menyertakan blok peringatan nisan mentah (*Canonical Raw Ingestion Banner*) di awal dokumen.
+
+## 12. Kesimpulan Sintesis & Emergent Research Questions
+
+### 12.1. Kesimpulan Sintesis Jawaban atas TUMBUH Question
+Sebagai jawaban tuntas atas *TUMBUH Question* yang dirumuskan di awal monograf ini:
+> *"Bagaimana memperlakukan seluruh berkas catatan lapangan kasar, rekaman wawancara, draf coretan, dan artefak mentah di dalam folder `source/` murni sebagai bahan kajian non-otoritatif (*not source of truth*), serta bagaimana mekanisme sanitasi dan pengolahannya agar dapat bertransformasi secara legal menjadi bukti terstruktur tanpa mencemari konstitusi sistem pesantren?"*
+
+Penyelidikan kanonik ini menyimpulkan bahwa batas direktori `source/` ditegakkan secara sempurna melalui **Arsitektur Pemurnian Data Berlapis (*The Layered Data Purification Architecture*)** yang memadukan doktrin tabayyun dan tahammul hadits turats klasik dengan prinsip arsitektur data enterprise modern (*Data Lake vs Single Source of Truth*). Direktori `source/` berkedudukan sebagai tambang bahan mentah yang berwewenang nol (*zero authority*), di mana fakta kasar dihimpun sebagai objek observasi, namun dilucuti daya paksa yuridisnya.
+
+Melalui penerapan protokol sanitasi data pribadi (PII redaction), pembersihan anomali data, konversi standar menjadi berkas bukti di `08_SOURCES_AND_EVIDENCE/`, dan pemblokiran otomatis dependensi ilegal via linter CI/CD, repositori TUMBUH v2.0.0 berhasil menciptakan benteng perlindungan yang kedap: dokumen konstitusi dan operasional tetap murni dan berwibawa, privasi santri terlindungi secara mutlak, seraya denyut nadi realitas lapangan tetap terdokumentasikan secara jujur dan transparan. Pesantren berpijak kokoh di atas kebenaran faktual tanpa pernah ternodai oleh lumpur kekacauan data mentah.
+
+---
+
+Dengan tuntasnya pembakuan direktori `source/` ini, seluruh spektrum repositori TUMBUH v2.0.0 kini memiliki garis demarkasi epistemik yang paripurna: dari bijih mentah di dasar tambang hingga mahkota konstitusi di puncak menara. Pesantren memiliki keberanian untuk menatap realitas lapangan apa adanya dengan segala kepahitannya, seraya tetap memegang teguh amanah kesucian wahyu dan keluhuran adab nabawiyyah. Integritas data menjadi jembatan yang menghubungkan kejujuran bumi dengan keberkahan langit.
+
+### 12.2. Emergent Research Questions (Arah Penyelidikan Menuju P00021)
+Dengan tuntasnya seluruh rangkaian pembakuan stratifikasi repositori mulai dari Lapisan Fundamental (`P00010`–`P00012`), Implementasi (`P00013`), Operasional (`P00014`), Bukti Empiris (`P00015`), Riset Sandbox (`P00016`), Cagar Arsip (`P00017`), Pustaka Rujukan (`P00018`), Metodologi (`P00019`), hingga Batas Bahan Mentah (`P00020`), inkuiri tata kelola repositori PROBE_01 kini melangkah ke instrumen penetapan keputusan arsitektural tertinggi: tata kelola silsilah keputusan melalui *Architectural Decision Record* (ADR).
+
+Dua *Emergent Research Questions* dirumuskan secara terarah menuju naskah berikutnya:
+1. **Pertanyaan Tata Kelola Konsensus Rekayasa**: Bagaimana merancang siklus hidup berkas ADR (mulai dari status *Proposed*, *Accepted*, *Superseded*, hingga *Amended*) agar setiap perubahan pada sistem TUMBUH memiliki dasar musyawarah mufakat (*shura*) yang mengikat dan tidak dapat diubah sepihak oleh individu pengembang?
+2. **Pertanyaan Penomoran Kriptografis dan Ketertelusuran Silsilah**: Bagaimana mengintegrasikan metadata keterlacakan (*traceability metadata*) antara berkas inkuiri PROBE dengan nomor register ADR sehingga generasi pengurus baru dapat melacak akar argumentasi setiap baris kode kebijakan pesantren?
+
+Penyelidikan mendalam atas kedua pertanyaan kritis ini menjadi fokus utama monograf berikutnya:  
+$$\Downarrow$$  
+**Lanjut ke Penyelidikan Berikutnya:** [`P00021 - Tata Kelola Silsilah Keputusan ADR: Memformalkan Konsensus Arsitektur Repositori TUMBUH`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00021-Tata-Kelola-Silsilah-Keputusan-ADR.md)
+
+---
+
+## 13. Catatan Kaki Akademis (Footnotes) & Bibliografi Terkurasi
+
+### 13.1. Catatan Kaki Akademis Bernomor (*Numbered Scholarly Footnotes*)
+
+[^1]: Uraian metodologis mengenai tahapan penerimaan riwayat (*at-tahammul*) dan penyampaiannya (*al-ada'*) dalam ilmu hadits klasik dirumuskan secara komprehensif oleh Jamaluddin al-Qasimi dalam *Qawa'id at-Tahdits min Funun Mushthalah al-Hadits* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1979, hlm. 198–208).
+[^2]: Lihat Al-Hafizh Ibnu ash-Shalah, *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (Beirut: Dar al-Fikr, 1986, hlm. 128–140). Ibnu ash-Shalah membedakan antara pencatatan riwayat kasar di lembaran kertas dengan pengesahan hadits sebagai dalil hukum.
+[^3]: Al-Ghazali, Abu Hamid. (1993). *Ihya' 'Ulum ad-Din* (Juz 3, Kitab Afat al-Lisan, hlm. 140–148). Beirut: Dar al-Hadi. Bahaya berburuk sangka dan menuduh tanpa bukti lahiriah yang terverifikasi.
+[^4]: DAMA International. (2017). *DAMA-DMBOK: Data Management Body of Knowledge* (2nd ed.). Basking Ridge, NJ: Technics Publications. Enam dimensi kualitas data enterprise.
+[^5]: Inmon, William H. (2005). *Building the Data Warehouse* (4th ed.). Indianapolis: Wiley Publishing. Arsitektur data warehouse enterprise vs data staging.
+[^6]: Kimball, Ralph, & Ross, Margy. (2013). *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling* (3rd ed.). Indianapolis: Wiley.
+[^7]: Meadows, Donella H. (2008). *Thinking in Systems: A Primer*. White River Junction: Chelsea Green Publishing. Prinsip umpan balik dan distorsi informasi dalam dinamika sistem sosial.
+[^8]: Sterman, John D. (2000). *Business Dynamics: Systems Thinking and Modeling for a Complex World*. Boston: McGraw-Hill.
+[^9]: Biesta, Gert. (2010). *Good Education in an Age of Measurement: Ethics, Politics, Democracy*. Boulder: Paradigm Publishers.
+[^10]: Al-Attas, Syed Muhammad Naquib. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM.
+[^11]: Asy-Syathibi, Abu Ishaq. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Tahqiq Masyhur Hasan Salman, Juz 2, hlm. 55–68). Khobar: Dar Ibnu 'Affan.
+[^12]: Saltzer, Jerome H., & Schroeder, Michael D. (1975). "The Protection of Information in Computer Systems". *Proceedings of the IEEE*, 63(9), 1278–1308. Prinsip isolasi hak akses (*least privilege*) dan perlindungan integritas data.
+[^13]: Dekker, Sidney. (2011). *Drift into Failure: From Hunting Broken Components to Understanding Complex Systems*. Farnham: Ashgate Publishing.
+[^14]: Campbell, Donald T. (1979). "Assessing the Impact of Planned Social Change". *Evaluation and Program Planning*, 2(1), 67–90.
+[^15]: Wan Daud, Wan Mohd Nor. (1998). *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Concept of Ta'dib*. Kuala Lumpur: ISTAC.
+
+---
+
+### 13.2. Bibliografi Terkurasi (50+ Entri APA 7th Edition Tanpa Pranala Komersial)
+
+1. Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Muslim Youth Movement of Malaysia (ABIM).
+2. Al-Bukhari, M. I. (2002). *Shahih al-Bukhari: Al-Jami' ash-Shahih al-Musnad min Umur Rasulillah SAW wa Sunanihi wa Ayyamihi* (M. Z. An-Nashir, Tahqiq). Dar Thawq an-Najah.
+3. Al-Ghazali, A. H. M. (1904). *Al-Mustashfa min 'Ilm al-Ushul* (Juz 1–2). Al-Mathba'ah al-Amiriyyah.
+4. Al-Ghazali, A. H. M. (1993). *Ihya' 'Ulum ad-Din* (Juz 1–4). Dar al-Hadi.
+5. Al-Khatib al-Baghdadi, A. B. A. (1938). *Al-Kifayah fi 'Ilm ar-Riwayah*. Dairat al-Ma'arif al-'Utsmaniyyah.
+6. Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*. Dar al-Kutub al-'Ilmiyyah.
+7. Al-Qarafi, A. I. (1998). *Al-Furuq: Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Mansur, Tahqiq; Juz 1–4). Dar al-Kutub al-'Ilmiyyah.
+8. Al-Qasimi, M. J. (1979). *Qawa'id at-Tahdits min Funun Mushthalah al-Hadits*. Dar al-Kutub al-'Ilmiyyah.
+9. Al-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. H. Salman, Tahqiq; Juz 1–6). Dar 'Affan.
+10. Ar-Razi, F. D. (1997). *Al-Mahshul fi 'Ilm Ushul al-Fiqh* (T. J. Al-'Alwani, Tahqiq; Jilid 1–6). Mu'assasah ar-Risalah.
+11. As-Suyuthi, J. A. (1983). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
+12. Bhaskar, R. (1975). *A Realist Theory of Science*. Leeds Books.
+13. Biesta, G. (2007). Why 'what works' won't work: Evidence-based practice and the democratic deficit in educational research. *Educational Theory*, 57(1), 1–22.
+14. Biesta, G. (2010). *Good Education in an Age of Measurement: Ethics, Politics, Democracy*. Paradigm Publishers.
+15. Campbell, D. T. (1979). Assessing the impact of planned social change. *Evaluation and Program Planning*, 2(1), 67–90.
+16. Cartwright, N., & Hardie, J. (2012). *Evidence-Based Policy: A Practical Guide to Doing It Better*. Oxford University Press.
+17. Chalmers, A. F. (2013). *What Is This Thing Called Science?* (4th ed.). University of Queensland Press.
+18. Creswell, J. W., & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (5th ed.). SAGE Publications.
+19. DAMA International. (2017). *DAMA-DMBOK: Data Management Body of Knowledge* (2nd ed.). Technics Publications.
+20. Dekker, S. (2011). *Drift into Failure: From Hunting Broken Components to Understanding Complex Systems*. Ashgate Publishing.
+21. Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE Handbook of Qualitative Research* (5th ed.). SAGE Publications.
+22. Dijkstra, E. W. (1982). On the role of scientific thought. In *Selected Writings on Computing: A Personal Perspective* (pp. 60–66). Springer.
+23. Feyerabend, P. (1975). *Against Method: Outline of an Anarchistic Theory of Knowledge*. New Left Books.
+24. Goodhart, C. A. E. (1975). Problems of monetary management: The U.K. experience. In *Papers in Monetary Economics* (Vol. 1). Reserve Bank of Australia.
+25. Habermas, J. (1971). *Knowledge and Human Interests* (J. J. Shapiro, Trans.). Beacon Press.
+26. Hacking, I. (1983). *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science*. Cambridge University Press.
+27. Ibnu Farhun, B. D. (1986). *Tabshirat al-Hukkam fi Ushul al-Aqdhiyah wa Manahij al-Ahkam* (Juz 1–2). Maktabah al-Kulliyyat al-Azhariyyah.
+28. Ibnu Khaldun, A. R. (2001). *Muqaddimah Ibnu Khaldun*. Dar al-Fikr.
+29. Ibnu Manzhur, M. M. (1993). *Lisan al-'Arab* (Juz 1–15). Dar Shadir.
+30. Ibnu Qudamah al-Maqdisi, M. D. (1993). *Raudhat an-Nazhir wa Jannat al-Munazhir fi Ushul al-Fiqh* (Juz 1–2). Maktabah ar-Rusyd.
+31. Ibnu ash-Shalah, U. A. (1986). *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits*. Dar al-Fikr.
+32. Ibnu al-Qayyim al-Jauziyyah, S. D. (1961). *At-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah*. Matba'ah al-Madani.
+33. Ibnu al-Qayyim al-Jauziyyah, S. D. (1991). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Juz 1–4). Dar al-Jil.
+34. Inmon, W. H. (2005). *Building the Data Warehouse* (4th ed.). Wiley Publishing.
+35. Ioannidis, J. P. A. (2005). Why most published research findings are false. *PLoS Medicine*, 2(8), e124.
+36. Kelsen, H. (1967). *Pure Theory of Law* (M. Knight, Trans.). University of California Press.
+37. Kimball, R., & Ross, M. (2013). *The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling* (3rd ed.). Wiley.
+38. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+39. Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
+40. March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
+41. Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green Publishing.
+42. Merton, R. K. (1973). *The Sociology of Science: Theoretical and Empirical Investigations*. University of Chicago Press.
+43. Muslim, I. H. (2006). *Shahih Muslim* (M. F. 'Abdul Baqi, Tahqiq). Dar Thayyibah.
+44. Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson.
+45. Saltzer, J. H., & Schroeder, M. D. (1975). The protection of information in computer systems. *Proceedings of the IEEE*, 63(9), 1278–1308.
+46. Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
+47. Sterman, J. D. (2000). *Business Dynamics: Systems Thinking and Modeling for a Complex World*. McGraw-Hill.
+48. Stokes, D. E. (1997). *Pasteur's Quadrant: Basic Science and Technological Innovation*. Brookings Institution Press.
+49. Sugiyono. (2019). *Metode Penelitian Kuantitatif, Kualitatif, dan R&D*. Alfabeta.
+50. Taleb, N. N. (2010). *The Black Swan: The Impact of the Highly Improbable* (2nd ed.). Random House.
+51. Walsh, J. P., & Ungson, G. R. (1991). Organizational memory. *Academy of Management Review*, 16(1), 57–91.
+52. Wan Daud, W. M. N. (1998). *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Concept of Ta'dib*. ISTAC.
+53. Weiss, C. H. (1979). The many meanings of research utilization. *Public Administration Review*, 39(5), 426–431.
