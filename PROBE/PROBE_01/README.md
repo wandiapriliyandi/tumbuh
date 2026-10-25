@@ -115,6 +115,24 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00068` — Protokol Penyelesaian Sengketa Identitas: Menangani Kasus Penomoran Ganda Akibat Percabangan Paralel](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00068-Protokol-Penyelesaian-Sengketa-Identitas-Penomoran-Ganda.md)
 - [`P00069` — Standarisasi Penamaan Slug File Markdown: Menyeimbangkan Keterbacaan Manusia dan Ketahanan Sistem Operasi File (Penutup Resmi Pilar 5)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00069-Standarisasi-Penamaan-Slug-File-Markdown-Penutup-Pilar-5.md)
 
+### Pilar 6: Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah (P00070 s/d P00084)
+- [`P00070` — Hierarki Derajat Pengetahuan dalam Sistem TUMBUH: Dari Ilm al-Yaqin, Ain al-Yaqin, Menuju Haqq al-Yaqin (Pembuka Resmi Pilar 6)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00070-Hierarki-Derajat-Pengetahuan-dalam-Sistem-TUMBUH.md)
+- [`P00071` — Demarkasi Empiris: Membedakan Sinyal Lapangan, Data Mentah, Bukti Tervalidasi (Evidence), dan Riset Mandiri](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00071-Demarkasi-Empiris-Membedakan-Sinyal-Data-Mentah-Evidence.md)
+- [`P00072` — Bahaya Overclaim Ilmiah: Menolak Pelabelan "Evidence-Based" dan "Validated" Tanpa Batasan Metodologi yang Sah](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00072-Bahaya-Overclaim-Ilmiah-Menolak-Pelabelan-Evidence-Based.md)
+- [`P00073` — Metodologi Resolusi Bukti yang Saling Bertentangan (Ta'arudh al-Adillah) dalam Riset Pengasuhan Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00073-Metodologi-Resolusi-Bukti-Saling-Bertentangan-Ta-arudh-Adillah.md)
+- [`P00074` — Penetapan Batas Keberlakuan Klaim (Claim Boundary Conditions): Menolak Generalisasi Serampangan Lintas Konteks](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00074-Penetapan-Batas-Keberlakuan-Klaim-Claim-Boundary-Conditions.md)
+- [`P00075` — Metodologi Sintesis Bukti Lintas Disiplin Tanpa Mengorbankan Kemurnian Worldview Islam](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00075-Metodologi-Sintesis-Bukti-Lintas-Disiplin-Worldview-Islam.md)
+- [`P00076` — Penilaian Kualitas Metodologi Riset Luar Sebelum Diadopsi Menjadi Rujukan Sistem TUMBUH](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00076-Penilaian-Kualitas-Metodologi-Riset-Luar.md)
+- [`P00077` — Menghadapi Krisis Replikasi (Replication Crisis) dalam Ilmu Psikologi Perkembangan Kontemporer](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00077-Menghadapi-Krisis-Replikasi-dalam-Psikologi-Kontemporer.md)
+- [`P00078` — Protokol Pengumpulan Bukti Lapangan Berbasis Adab: Melindungi Hak Martabat dan Kerahasiaan Santri](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00078-Protokol-Pengumpulan-Bukti-Lapangan-Berbasis-Adab-Anti-Tajassus.md)
+- [`P00079` — Membedakan Hubungan Korelasi Semu dari Hubungan Kausalitas Hakiki dalam Evaluasi Pembinaan Karakter](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00079-Membedakan-Korelasi-Semu-dari-Kausalitas-Hakiki.md)
+- [`P00080` — Pengelolaan Pengetahuan Kumulatif: Mengubah Bukti Lapangan Menjadi Pengetahuan Kelembagaan yang Dapat Diwariskan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00080-Pengelolaan-Pengetahuan-Kumulatif-Institutional-Memory.md)
+- [`P00081` — Protokol Pengujian Hipotesis Desain: Merancang Eksperimen Pembinaan Terkendali dengan Risiko Nol bagi Santri](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00081-Protokol-Pengujian-Hipotesis-Desain-Risiko-Nol.md)
+- [`P00082` — Kriteria Evaluasi Bukti yang Cukup untuk Memicu Revisi Desain Arsitektural](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00082-Kriteria-Evaluasi-Bukti-Pemicu-Revisi-Fundamental.md)
+- [`P00083` — Manajemen Anomali Data: Membedakan Deviasi Individual Santri dari Kegagalan Sistemik Lembaga](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00083-Manajemen-Anomali-Data-Deviasi-Santri-vs-Cacat-Sistem.md)
+- [`P00084` — Menjaga Independensi Epistemik Repositori dari Pengaruh Kepentingan Donatur dan Tekanan Tren Populer (Penutup Resmi Pilar 6)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00084-Menjaga-Independensi-Epistemik-Repositori-Penutup-Pilar-6.md)
+
+
 
 
 
