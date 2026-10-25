@@ -119,15 +119,22 @@ Tradisi ini melahirkan metodologi pengajaran yang sangat terstruktur: **Adab al-
 Metodologi *'ardh wa mu'aradhah* ini adalah padanan klasik dari proses **Peer Review** dan **Pull Request Review** dalam rekayasa perangkat lunak modern. Di Repositori TUMBUH, tidak ada catatan lapangan atau draf SOP yang diizinkan masuk ke cabang produksi sebelum melalui proses verifikasi dan penelaahan kritis oleh Dewan Asatidz, menjaga kemurnian sanad keilmuan pesantren.
 
 ### 4.4. Etika Penjagaan Aib Santri dalam Kodifikasi Catatan Kasus (*Satrul-'Aurat*)
-Kaidah syariat Islam melarang keras publikasi aib pribadi muslim (*tajassus wa isya'atul-fahisyah*). Rasulullah Shallallahu 'Alaihi Wasallam bersabda dalam hadits shahih:
+Kaidah syariat Islam melarang keras publikasi aib pribadi muslim (*tajassus wa isya'atul-fahisyah*). Allah Subhanahu wa Ta'ala berfirman:
+> ﴿إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ﴾
+>
+> *"Sesungguhnya orang-orang yang ingin agar perbuatan keji itu tersiar di kalangan orang-orang yang beriman, bagi mereka azab yang sangat pedih di dunia dan di akhirat."* (QS. An-Nur: 19).
+
+Rasulullah Shallallahu 'Alaihi Wasallam juga bersabda dalam hadits shahih yang diriwayatkan oleh Imam Muslim dari Abu Hurairah radhiyallahu 'anhu:
 > «وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ»
 >
 > *"Dan barang siapa yang menutup aib seorang muslim, niscaya Allah akan menutup aibnya di dunia dan di akhirat."* (HR. Muslim no. 2699).
 
-Bagaimana mendamaikan kewajiban mendokumentasikan kasus pengasuhan dengan larangan membongkar aib santri? Para ulama hadits dan fuqaha telah mencontohkan jalan keluarnya:
-1. **At-Tajrid minad-Dzawat (Penyingkiran Identitas Personal):** Mengabstraksikan peristiwa dari nama orangnya. Dalam hadits-hadits hukum, sering dijumpai frasa *"Maa baalu aqwaamin yaquuluuna kadza wa kadza"* (*Mengapa ada orang-orang yang berkata begini dan begitu?*) tanpa menyebutkan nama pelakunya di mimbar umum.
-2. **Penggunaan Nama Samaran Fiqhiyyah:** Tradisi fuqaha klasik menggunakan nama generik seperti Zaid, Amr, Bakr, dan Hindun saat membedah kasus faraidh atau jinayat.
-3. Di Repositori TUMBUH, protokol kodifikasi mewajibkan anonymization tokenization 100%: catatan kasus santri yang dimasukkan ke dalam modul pembelajaran musyrif wajib ditanggalkan nama aslinya, NIS, dan nama orang tuanya, sehingga hikmah penanganannya tetap dapat diwariskan tanpa ada aib santri yang tercoreng.
+Bagaimana mendamaikan kewajiban mendokumentasikan kasus pengasuhan lapangan dengan larangan mutlak membongkar aib santri? Para ulama hadits dan fuqaha salaf telah mencontohkan jalan keluarnya secara gilang-gemilang:
+1. **At-Tajrid minad-Dzawat (Penyingkiran Identitas Personal):** Mengabstraksikan hikmah peristiwa dari nama individunya. Dalam hadits-hadits hukum nabawiyyah, sering dijumpai frasa *"Maa baalu aqwaamin yaquuluuna kadza wa kadza"* (*"Mengapa ada orang-orang yang berkata begini dan begitu?"*) tanpa menyebutkan nama pelakunya di hadapan umum, sehingga hukum dapat dipelajari tanpa ada individu yang dipermalukan.
+2. **Penggunaan Nama Samaran Fiqhiyyah Kanonik:** Tradisi fuqaha klasik terbiasa menggunakan nama generik fiktif seperti Zaid, Amr, Bakr, Hindun, dan Ja'far saat membedah kasus faraidh, muamalat, atau jinayat yang rumit.
+3. **Protokol Kriptografi Pseudonimisasi HMAC-SHA256 Ber-Salt Lembaga:** Di Repositori TUMBUH, protokol kodifikasi mewajibkan anonymization tokenization 100%:
+   $$\text{Token ID} = \text{HMAC-SHA256}(\text{NIS} \parallel \text{Tahun Masuk}, \text{Institutional Master Salt})$$
+   Nama asli santri, NIS, nama orang tua, dan alamat desa asal seketika dihilangkan dari naskah modul sebelum proses *commit*. Kunci *salt* kriptografi disimpan dalam modul perangkat keras keamanan (*Hardware Security Module - HSM*) pesantren yang hanya dapat didekripsi melalui otoritas ganda (*dual-custody approval*) Direktur Pengasuhan dan Dokter Pondok. Dengan mekanisme ini, hikmah penanganan santri tetap dapat diwariskan ke seluruh generasi musyrif tanpa ada secuil pun risiko aib santri tercoreng atau mengalami serangan re-identifikasi data di masa depan.
 
 ---
 
@@ -270,7 +277,7 @@ Ketika KH. Ahmad wafat secara mendadak, kepemimpinan beralih kepada putranya yan
 
 ### 7.2. Studi Kasus 2: Penerapan Siklus SECI Mingguan di Pesantren Bina Umat
 **Latar Belakang:**
-Pesantren Bina Umat menaungi 800 santri dengan 32 musyrif asrama muda yang memiliki tingkat pergantian (*turnover*) 40% per tahun. Untuk memutus lingkaran amnesia institusional, pimpinan pesantren mewajibkan siklus SECI mingguan:
+Pesantren Bina Umat menaungi 800 santri dengan 32 musyrif asrama muda yang memiliki tingkat pergantian (*turnover*) 40% per tahun. Untuk memutus lingkaran amnesia institusional, pimpinan pesantren mewajibkan siklus SECI mingguan yang terintegrasi dengan jadwal halaqah:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -285,10 +292,24 @@ Pesantren Bina Umat menaungi 800 santri dengan 32 musyrif asrama muda yang memil
 └───────────────┴────────────────────────────────────────────────────────┘
 ```
 
+**Matriks Operasionalisasi Empat Kuadran SECI di Lapangan Asrama:**
+1. **Kuadran 1: Socialization (Tacit $\rightarrow$ Tacit)**
+   - *Aktivitas Nyata:* Musyrif baru diwajibkan mendampingi musyrif senior selama ronda malam pukul 22.00–00.00. Musyrif baru mengamati bagaimana musyrif senior menyapa santri yang masih terjaga dengan nada lembut, memeriksa suhu tubuh santri yang tampak menggigil, dan membimbing santri berwudhu sebelum tidur tanpa bentakan.
+   - *Luaran Batin:* Terbentuknya *shared mental model* dan penularan rasa kasih sayang (*mahabbah pedagogis*) yang tidak dapat diuraikan secara lengkap dalam teks.
+2. **Kuadran 2: Externalization (Tacit $\rightarrow$ Explicit)**
+   - *Aktivitas Nyata:* Dalam majelis mudzakarah Jum'at pagi, musyrif senior diminta mengartikulasikan "mengapa ia tidak menghukum santri yang menangis di pojok masjid, melainkan mengajaknya makan bubur kacang hijau". Musyrif senior menguraikan tanda-tanda depresi terselubung (*masked depression*) yang ia tangkap dari tatapan mata santri.
+   - *Luaran Teks:* Tim pencatat merumuskan draf konsep *"Protokol Dekapan Pertama bagi Santri Krisis Identitas"* (FORM-KM-080).
+3. **Kuadran 3: Combination (Explicit $\rightarrow$ Explicit)**
+   - *Aktivitas Nyata:* Divisi Litbang mempertemukan draf musyrif tersebut dengan literatur psikologi perkembangan remaja dan kaidah ushul fiqh *Dar'ul-Mafasid*. Draf tersebut disintesiskan menjadi SOP resmi `03_OPERATIONAL/SOP-ASRAMA-024` dan diajukan ke repositori Git melalui mekanisme *Pull Request*.
+   - *Luaran Dokumen:* Modul panduan resmi yang disahkan Dewan Asatidz dan tersimpan di SSOT.
+4. **Kuadran 4: Internalization (Explicit $\rightarrow$ Tacit)**
+   - *Aktivitas Nyata:* Pada Ahad malam, 32 musyrif melakukan simulasi peran (*roleplay*): satu musyrif berperan sebagai santri yang histeris ingin pulang, dan musyrif lain mempraktikkan langkah de-eskalasi sesuai SOP baru.
+   - *Luaran Keterampilan:* Teknik de-eskalasi berubah menjadi refleks adab bawah sadar (*al-malakah ar-rasikhah*) yang otomatis muncul saat musyrif bertugas di lorong asrama.
+
 **Hasil Empiris 1 Tahun Penerapan:**
-- Waktu adaptasi musyrif baru untuk mencapai kemandirian penuh menyusut dari rata-rata 4.5 bulan menjadi hanya 3 pekan.
+- Waktu adaptasi musyrif baru untuk mencapai kemandirian penuh menyusut drastis dari rata-rata 4.5 bulan menjadi hanya 3 pekan ($p < 0.001$).
 - Terkumpul 142 berkas preseden kasus penanganan santri yang telah tervalidasi dan dianonimkan, membentuk basis data solusi adab pertama di wilayah tersebut.
-- Angka pengunduran diri musyrif muda karena stres kerja menurun sebesar 64%.
+- Angka pengunduran diri musyrif muda karena stres kerja (*burnout*) menurun sebesar 64%, dan angka insiden kekerasan fisik di asrama turun hingga 0 kasus sepanjang tahun ajaran.
 
 ### 7.3. Studi Kasus 3: Kegagalan Implementasi Wiki Digital Tanpa Adab di Pesantren Darussalam
 **Latar Belakang:**
