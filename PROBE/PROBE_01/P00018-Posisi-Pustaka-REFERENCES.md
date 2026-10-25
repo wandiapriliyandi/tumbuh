@@ -180,7 +180,7 @@ Untuk memahami secara mendalam dampak fatal dari kekacauan tata kelola pustaka, 
 - **Konteks & Insiden**:
   Sebuah modul tata tertib asrama mencantumkan dalil hadits untuk membenarkan pemukulan santri yang tidak hafal mutun kitab: *"Gantungkanlah cambuk di tempat yang terlihat oleh keluargamu, karena itu mendidik mereka"*. Penulis modul menisbatkan hadits tersebut sebagai "HR. Al-Bukhari dalam Kitab al-Adab" di daftar pustaka. Berdasarkan dalil ini, kepala keamanan asrama melegalkan penggantungan rotan di setiap lorong kamar santri dan memukul santri yang melakukan pelanggaran hafalan.
 - **Dampak Kerusakan Epistemik & Pedagogis**:
-  Ketika diaudit oleh dewan pakar hadits, terungkap bahwa hadits tersebut **BUKAN DIRIWAYATKAN OLEH IMAM AL-BUKHARI** dalam *Shahih*-nya. Riwayat tersebut adalah riwayat yang memiliki cacat sanad berat (*dha'if jiddan*) dalam riwayat Ibnu Abi 'Ashim dan Thabrani, yang konteks aslinya adalah pengingat kewaspadaan keluarga dalam ketaatan kepada Allah, sama sekali bukan legalisasi pemukulan brutal anak di asrama. Tindakan penipuan sitasi (*citation fabrication*) ini telah melegitimasi kekerasan fisik selama bertahun-tahun di lingkungan pesantren.
+  Ketika diaudit oleh tim penelaah hadits, terungkap bahwa hadits tersebut **BUKAN DIRIWAYATKAN OLEH IMAM AL-BUKHARI** dalam *Shahih*-nya. Riwayat tersebut adalah riwayat yang memiliki cacat sanad berat (*dha'if jiddan*) dalam riwayat Ibnu Abi 'Ashim dan Thabrani, yang konteks aslinya adalah pengingat kewaspadaan keluarga dalam ketaatan kepada Allah, sama sekali bukan legalisasi pemukulan brutal anak di asrama. Tindakan penipuan sitasi (*citation fabrication*) ini telah melegitimasi kekerasan fisik selama bertahun-tahun di lingkungan pesantren.
 - **Resolusi Arsitektur TUMBUH v2.0.0**:
   Sistem TUMBUH memberlakukan audit takhrij hadits wajib di bawah naungan Konsil Epistemologi Turats. Mengutip riwayat hadits tanpa menyebutkan derajat kesahihannya (*hukm al-hadits*) dan takhrij kitab aslinya adalah pelanggaran berat. Dalil-dalil hukum di `01_` wajib bersumber dari kitab induk hadits muktabar dengan status sahih atau hasan yang disepakati ulama.
 
@@ -247,7 +247,7 @@ Berikut disajikan enam matriks analitis komprehensif yang membedah batas ontolog
 | **Tahap 1** | *Authenticity & Lineage Check* | Memeriksa eksistensi fisik naskah, nama pengarang asli, penerbit sah, dan nomor ISBN/ISSN. | Kurator Bibliografi Repositori | Referensi ditolak karena dicurigai fiktif/halusinasi. |
 | **Tahap 2** | *Predatory & Paywall Screening* | Memverifikasi ketiadaan penerbit predator dan memastikan naskah dapat diakses tanpa paywall mahal. | Tim Penjamin Mutu Digital | Dialihkan ke alternatif akses terbuka (*open access*). |
 | **Tahap 3** | *Philological Textual Tahqiq* | Khusus kitab turats: memeriksa keakuratan teks Arab, harakat, nomor juz, jilid, dan halaman cetakan. | Konsil Filologi Turats | Kutipan dibatalkan hingga ditemukan cetakan mu'tamad. |
-| **Tahap 4** | *Ethical & Epistemic Tazkiyah* | Meneliti apakah premis buku mengandung gagasan yang merusak aqidah atau adab santri. | Dewan Pakar Epistemologi Islam | Diberi label peringatan kritis khusus (*quarantine warning*). |
+| **Tahap 4** | *Ethical & Epistemic Tazkiyah* | Meneliti apakah premis buku mengandung gagasan yang merusak aqidah atau adab santri. | Dewan Asatidz Epistemologi Islam | Diberi label peringatan kritis khusus (*quarantine warning*). |
 | **Tahap 5** | *APA 7th Clean Formatting* | Menyusun entri bibliografi sesuai standar APA 7th Edition bersih tanpa tautan komersial. | Tim Dokumentasi & Linter Git | Commit Git diblokir otomatis oleh skrip linter. |
 
 ---
@@ -364,7 +364,7 @@ Dalam pembangunan ekosistem TUMBUH v2.0.0, terdapat godaan untuk mengumpulkan li
 Dalam tata kelola repositori perangkat lunak skala enterprise dan basis pengetahuan korporasi, pengelolaan dependensi pihak ketiga (*third-party dependencies*) adalah salah satu komponen audit paling kritis. Kerentanan keamanan sering kali menyusup bukan dari kode internal, melainkan dari pustaka eksternal yang diimpor tanpa verifikasi ketat (*dependency supply chain attacks*). Dalam analogi epistemik repositori TUMBUH, direktori REFERENCES/ adalah direktori manajemen dependensi pengetahuan luar. Menyetujui sebuah buku masuk ke dalam repositori tanpa kurasi identik dengan mengimpor paket kode yang belum diaudit ke dalam basis data produksi. Keputusan ADR-PROBE-0018 ini mengunci rantai pasok keilmuan pesantren dari risiko keracunan pemikiran (*epistemic poisoning*), menjamin bahwa setiap dependensi intelektual yang digunakan telah melalui proses audit kepatuhan syar'i dan keandalan metodologis.
 
 ### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
-Majelis Epistemik dan Dewan Pengembang Repositori menetapkan keputusan arsitektural baku berikut:
+Majelis Pengasuh Pesantren dan Tim Desain Sistem TUMBUH menetapkan keputusan arsitektural baku berikut:
 
 1. **Penetapan Kedudukan Non-Normatif Mandiri**:
    Direktori `REFERENCES/` ditetapkan secara mutlak berkedudukan sebagai *Khazanah Pustaka Rujukan Terkurasi*. Keberadaan sebuah buku atau artikel di dalamnya tidak otomatis menjadikannya sebagai aturan normatif pesantren.

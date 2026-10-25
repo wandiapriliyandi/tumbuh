@@ -180,7 +180,7 @@ Setiap pengajuan promosi inkuiri dari status Provisional menuju Canonical Baseli
     Langkah 3: Pelaksanaan Uji Coba Lapangan Terbatas (Sandboxed Implementation)
                                   │
                                   ▼
-    Langkah 4: Sidang Pleno Penetapan Dewan Masyaikh & Principal System Architect
+    Langkah 4: Sidang Pleno Penetapan Dewan Masyaikh & Arsitek Sistem TUMBUH
                                   │
                                   ▼
     Langkah 5: Pengubahan Status ADR Menjadi APPROVED & Pembekuan di 01_FUNDAMENTAL

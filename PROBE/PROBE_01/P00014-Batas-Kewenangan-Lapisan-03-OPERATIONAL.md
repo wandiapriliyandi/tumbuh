@@ -13,7 +13,7 @@
 - **Judul Dokumen:** *Batas Kewenangan Lapisan 03_OPERATIONAL: Menjamin Perangkat SOP Lapangan Tidak Diam-Diam Mengubah Definisi TUMBUH*
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
   > *Bagaimana mencegah instrumen operasional musyrif, jadwal harian, dan formulir monitoring melahirkan definisi sistem baru yang menyimpang dari Fundamental, dan bagaimana mengunci batas kewenangan lapisan 03_OPERATIONAL agar tetap ergonomis dan fleksibel tanpa pernah memiliki otoritas legislasi konseptual?*
-- **Penanggung Jawab Epistemik:** Dewan Penyelidikan Arsitektur Repositori TUMBUH bekerjasama dengan Pakar Epistemologi Turats, Pakar Pengasuhan Asrama 24 Jam, dan Auditor Mutu Kepatuhan Sistem.
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Kanonikal:** Monograf Riset Desain Sistem Standar Emas Repositori TUMBUH v2.0.0 (*Peer-Reviewed Canonical Monograph*).
 - **Klasifikasi Epistemik:** Lapisan Inkuiri Kritis (*Epistemic Inquiry Layer* - `PROBE/`), Berfungsi Mengunci Batas Kewenangan Operasional Sebelum SOP dan Instrumen Kerja Diterbitkan ke Seluruh Asrama Mitra.
 - **Versi Rilis Dokumen:** `2.0.0-GOLDEN-CANONICAL`
@@ -246,7 +246,7 @@ Berikut disajikan enam matriks analitis komprehensif yang membedah batas kewenan
 
 | Aspek Tata Kelola | Berkas di `01_FUNDAMENTAL/` | Berkas di `03_OPERATIONAL/` |
 | :--- | :--- | :--- |
-| **Hak Cipta / Kepengarangan** | Majelis Kiai Sepuh & Dewan Pakar Syariat | Musyrif Lapangan & Staf Pengasuhan Harian |
+| **Hak Cipta / Kepengarangan** | Majelis Kiai Sepuh & Dewan Asatidz Syariat | Musyrif Lapangan & Staf Pengasuhan Harian |
 | **Tingkat Aksesibilitas Edit** | Sangat Terbatas (Strict Branch Protection) | Terbuka bagi Inovasi Musyrif (Sandbox Agility) |
 | **Kewajiban Referensi Sanad** | Merujuk langsung ke Turats Mu'tabarah | Wajib memuat tautan balik ke Lapisan `01` dan `02` |
 | **Dampak Kesalahan Teks** | Bencana Epistemik (Kesesatan Arah Nilai) | Kendala Teknis Sesaat di Kamar Asrama |

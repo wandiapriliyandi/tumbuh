@@ -6,7 +6,7 @@
 
 **Status Penyelidikan:** Kanonik / Definitif  
 
-**Penanggung Jawab:** Dewan Pakar TUMBUH v2.0.0 (Epistemologi Turats, PBIS Restoratif, & Neurosains Perkembangan)  
+**Peneliti Dokumen:** Tim Peneliti Desain Sistem TUMBUH
 
 
 
@@ -188,7 +188,7 @@ Wildan (santri tahap transisi, 13 tahun) sering mengantuk berat di kelas Subuh d
 
 1. **Penegakan Keadilan Empiris (Tajribah Medis):** Tim Pengasuhan segera melarikan Wildan ke rumah sakit untuk transfusi darah dan pengobatan antelmintik terarah.
 
-2. **Koreksi Epistemik Musyrif ('Aql wa Naql):** Dewan Pakar memanggil musyrif bersangkutan dan mengoreksi pemikirannya dengan Kitab *Thibbun Nabawi* dan kaidah fikih *Hukm 'ala syai' far'un 'an tashawwurihi* (Menghukumi sesuatu adalah cabang dari gambaran pemahaman faktualnya). Mengantuk tidak boleh serta-merta divonis dosa spiritual sebelum diuji kondisi fisik biologisnya.
+2. **Koreksi Epistemik Musyrif ('Aql wa Naql):** Pimpinan Pengasuhan Santri memanggil musyrif bersangkutan dan mengoreksi pemikirannya dengan Kitab *Thibbun Nabawi* dan kaidah fikih *Hukm 'ala syai' far'un 'an tashawwurihi* (Menghukumi sesuatu adalah cabang dari gambaran pemahaman faktualnya). Mengantuk tidak boleh serta-merta divonis dosa spiritual sebelum diuji kondisi fisik biologisnya.
 
 3. **Penyusunan SOP Skrining Kesehatan Terpadu:** Diberlakukan protokol skrining kesehatan fisik dan psikologis berkala bagi seluruh santri yang menunjukkan gejala letargi atau penurunan performa belajar.
 

@@ -13,7 +13,7 @@
 - **Judul Dokumen:** *Demarkasi Lapisan 01_FUNDAMENTAL: Menjaga Konstitusi Filosofi, Prinsip, dan Inti Model dari Polusi Teknis Operasional*
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
   > *Mengapa dokumen konstitusi Fundamental harus dilindungi dari perubahan reaktif lapangan dan tidak boleh tercampur dengan klausul teknis harian, dan bagaimana menjaga kemurnian filosofis fitrah dan taksonomi adab dari erosi kompromi administratif?*
-- **Penanggung Jawab Epistemik:** Dewan Penyelidikan Arsitektur Repositori TUMBUH bekerjasama dengan Pakar Epistemologi Turats, Pakar Rekayasa Perangkat Lunak Pesantren, dan Auditor Mutu Tata Kelola Kelembagaan.
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Kanonikal:** Monograf Riset Desain Sistem Standar Emas Repositori TUMBUH v2.0.0 (*Peer-Reviewed Canonical Monograph*).
 - **Klasifikasi Epistemik:** Lapisan Inkuiri Kritis (*Epistemic Inquiry Layer* - `PROBE/`), Berfungsi Menguji dan Membentengi Kernel Konstitusi Sebelum Diberlakukan sebagai Standar Statuta Pendidikan di Seluruh Pesantren Mitra.
 - **Versi Rilis Dokumen:** `2.0.0-GOLDEN-CANONICAL`

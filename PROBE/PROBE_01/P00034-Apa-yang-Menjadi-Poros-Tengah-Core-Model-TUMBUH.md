@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Pusat Gravitasi Core Model) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/02_CORE_MODEL/01_MODEL_OVERVIEW.md` |
 | **Bidang Keilmuan Terpadu** | Teori Motivasi Diri (*Self-Determination Theory*), Antropologi Fitrah Islam, Neurosains Regulasi Diri, Sosiologi Pesantren, Teori Medan Psikososial |
-| **Pakar Utama / Inquiry Lead** | Principal Behavioral Systems Architect & Distinguished Chair Professor of Islamic Developmental Psychology |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00032 (*Domain 09: System Architecture*) dan P00033 (*Logika Transisi Core Model*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00035 (*Pilar 1 Core Model: Growth Ecology / Ekologi Tumbuh Asrama*) |
@@ -460,7 +460,7 @@ Berikut adalah ketetapan arsitektural resmi yang mengunci poros tunggal Core Mod
 
 | Elemen Evaluasi | Standar Kelaikan TUMBUH | Mekanisme Verifikasi Audit |
 | :--- | :--- | :--- |
-| **Kepatuhan Porositas Dokumen** | Dokumen `01_FUNDAMENTAL/02_CORE_MODEL/` wajib menempatkan pertumbuhan fitrah sebagai pusat gravitasi pemodelan. | Verifikasi Keterlacakan Git & Audit Komite Epistemik. |
+| **Kepatuhan Porositas Dokumen** | Dokumen `01_FUNDAMENTAL/02_CORE_MODEL/` wajib menempatkan pertumbuhan fitrah sebagai pusat gravitasi pemodelan. | Verifikasi Keterlacakan Git & Audit Majelis Pengasuh dan Dewan Asatidz. |
 | **Larangan Targetisme Kering** | Kebijakan hafalan Qur'an atau mutun yang mengorbankan tidur dan kesehatan mental santri otomatis dibatalkan. | Audit Triwulanan oleh Dewan Penjamin Mutu Adab. |
 | **Pemantauan Kematangan Etape J1-J4** | Kemajuan santri dipantau berkala melalui asesmen formatif 8 Kapasitas Inti di SIM-TUMBUH. | Analisis Logbook Portofolio Santri Berkelanjutan. |
 

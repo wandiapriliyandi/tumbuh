@@ -383,7 +383,7 @@ Misalkan $S$ merepresentasikan himpunan seluruh berkas di direktori `source/`. S
 Dalam pengelolaan ekosistem TUMBUH v2.0.0, terdapat godaan berkelanjutan bagi staf lapangan untuk menggunakan berkas draf, catatan rapat mentah, dan rekaman wawancara yang tersimpan di dalam folder `source/` sebagai dasar legitimasi tindakan operasional di asrama santri. Kebiasaan ini menciptakan risiko hukum yang sangat fatal, memicu kebocoran privasi santri, dan mengancam kemurnian doktrin sistem dengan data sampah yang belum tervalidasi (*GIGO*).
 
 ### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
-Majelis Epistemik dan Dewan Arsitektur Repositori menetapkan keputusan rekayasa baku berikut:
+Majelis Pengasuh Pesantren dan Tim Desain Sistem TUMBUH menetapkan keputusan rekayasa baku berikut:
 
 1. **Penetapan Status Non-Source of Truth Mutlak**:
    Direktori `source/` ditetapkan secara mutlak berkedudukan murni sebagai *Zona Penampungan Bahan Kasar (Raw Ingestion Zone)*. Seluruh berkas di dalamnya memiliki bobot otoritas hukum nol (*zero legal authority*) dan secara kategoris **BUKAN MERUPAKAN SUMBER KEBENARAN SISTEM (NOT SOURCE OF TRUTH)**.

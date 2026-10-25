@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Domain 01 s/d Domain 09) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/01_PHILOSOPHY/08_CORE_PRINCIPLES.md` |
 | **Bidang Keilmuan Terpadu** | Kaidah-Kaidah Sistemik (*Systemic Axiomatics*), Teori Hukum Islam (*Qawa'id Fiqhiyyah wa Ushuliyyah*), Teori Kepemimpinan Berbasis Nilai (*Values-Based Systemic Leadership*), Filsafat Ilmu, Rekayasa Arsitektur Tata Kelola |
-| **Pakar Utama / Inquiry Lead** | Principal Epistemic Architect & Distinguished Chair Professor of Islamic Jurisprudential Systems |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00029 (*Domain 06: Kepemimpinan Proporsional*) dan P00030 (*Domain 07: Dinamika Perubahan Jiwa*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00032 (*Domain 09: Arsitektur Sistem Fondasi TUMBUH / System Architecture*) |

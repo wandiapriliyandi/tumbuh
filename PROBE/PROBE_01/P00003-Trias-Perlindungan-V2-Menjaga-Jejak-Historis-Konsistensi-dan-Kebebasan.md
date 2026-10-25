@@ -323,7 +323,7 @@ Guna memastikan bahwa Trias Perlindungan dioperasikan secara tertib tanpa tumpan
 | Lapisan Repositori | Objek Dokumen yang Diatur | Pihak yang Berwenang Mengusulkan | Pihak yang Berwenang Mengesahkan | Mekanisme Validasi Wajib |
 |---|---|---|---|---|
 | `99_ARCHIVE/` | Naskah warisan perintis V1, transkrip rapat kuno, draf historis | Tidak ada (Tertutup mutlak) | Dilarang diamandemen | Kunci *read-only* Git hook |
-| `01_FUNDAMENTAL/` | Falsafah fitrah, tauhid ta'dib, prinsip inti, model 4 kuadran | Komite Pakar & Peneliti Senior | Sidang Pleno Dewan Masyaikh | Rapat Syura + ADR Kanonik |
+| `01_FUNDAMENTAL/` | Falsafah fitrah, tauhid ta'dib, prinsip inti, model 4 kuadran | Majelis Pengasuh & Dewan Asatidz | Sidang Pleno Dewan Masyaikh | Rapat Syura + ADR Kanonik |
 | `02_IMPLEMENTATION/` | Standar kurikulum adab 24 jam, arsitektur SIM-TUMBUH, pedoman kemandirian | Tim Pengembang Kurikulum & IT | Direktur Pendidikan & Litbang | Uji Kompatibilitas Sistem |
 | `03_OPERATIONAL/` | Formulir izin santri, rubrik BARS, SOP kamar, jadwal piket musyrif | Kepala Pengasuhan & Musyrif Asrama | Kepala Asrama / Mudir Ma'had | Uji Keterbacaan Lapangan |
 | `PROBE/` | Analisis inkuiri, dekonstruksi teori, komparasi turats & sains modern | Seluruh Kontributor & Peneliti | Peer-review sesama peneliti PROBE | Checklist 13 Bagian Jurnal Riset |
@@ -358,7 +358,7 @@ Untuk memastikan ketiga pilar perlindungan beroperasi secara sinergis dan teruku
      - *Audit Sanad Turats*: Apakah seluruh rujukan hadits telah ditakhrij dan teks Arabnya telah diberi harakat lengkap?
      - *Audit Bibliografi*: Apakah seluruh rujukan sains disajikan dalam format APA 7th edition bersih tanpa tautan berbayar komersial?
 4. **Tahap 4: Promosi Kanonik Terkendali (*Controlled Canonical Promotion*)**:
-   - Naskah yang lulus audit dipresentasikan dalam sidang syura arsitektur sistem bersama Dewan Masyaikh dan komite pakar.
+   - Naskah yang lulus audit dipresentasikan dalam sidang syura arsitektur sistem bersama Dewan Masyaikh dan Dewan Asatidz.
    - Hasil persetujuan disahkan melalui pembuatan Architectural Decision Record (ADR) dan dimerge ke branch rilis utama dengan status kanonik.
 5. **Tahap 5: Penerjemahan Operasional (*Operational Translation*)**:
    - Keputusan fundamental diterjemahkan ke dalam panduan praktis, formulir low-friction, dan SOP asrama di lapisan `03_OPERATIONAL/` untuk dijalankan oleh para musyrif di kamar santri.

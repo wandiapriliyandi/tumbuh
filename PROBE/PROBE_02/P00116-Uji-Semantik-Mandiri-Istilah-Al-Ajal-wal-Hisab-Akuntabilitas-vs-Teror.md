@@ -6,7 +6,7 @@
 
 **Status Penyelidikan:** Kanonik / Definitif  
 
-**Penanggung Jawab:** Dewan Pakar TUMBUH v2.0.0 (Epistemologi Turats, Psikologi Perkembangan, & PBIS Restoratif)  
+**Peneliti Dokumen:** Tim Peneliti Desain Sistem TUMBUH
 
 
 
@@ -332,7 +332,7 @@ Ulama salaf menegaskan bahwa mengingat mati (*dzikr al-mawt*) disyariatkan untuk
 
 2. **Tingkat Kepatuhan Jadwal Harian (Punctuality Rate):** Rata-rata ketepatan waktu santri dalam menghadiri agenda wajib asrama mencapai minimal 95%.
 
-3. **Audit Konten Halaqah Ruhani:** Seluruh silabus kultum dan muhasabah wajib diaudit oleh dewan pakar guna menjamin keseimbangan proporsional antara dimensi targhib (motivasi pahala) dan tarhib (peringatan dosa).
+3. **Audit Konten Halaqah Ruhani:** Seluruh silabus kultum dan muhasabah wajib diaudit oleh tim pengasuhan dan asatidz guna menjamin keseimbangan proporsional antara dimensi targhib (motivasi pahala) dan tarhib (peringatan dosa).
 
 
 

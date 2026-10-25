@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Domain 01 s/d Domain 09) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/01_PHILOSOPHY/05_EDUCATION.md` |
 | **Bidang Keilmuan Terpadu** | Filsafat Pendidikan Islam (*Falsafah at-Tarbiyah wa at-Ta'dib*), Teori Kurikulum Perkembangan (*Developmental Curriculum Theory*), Psikologi Instruksional Kontemporer, Hermeneutika Turats |
-| **Pakar Utama / Inquiry Lead** | Principal Curriculum Architect & Distinguished Professor of Islamic Pedagogy TUMBUH |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00026 (*Domain 03: Hakikat Insan*) dan P00027 (*Domain 04: Perkembangan Insan*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00029 (*Domain 06: Kepemimpinan Proporsional & Tata Kelola Qudwah*) |

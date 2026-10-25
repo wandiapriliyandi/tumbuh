@@ -13,7 +13,7 @@
 - **Judul Dokumen:** *Anatomi Alur Epistemik Repositori: Dari Bahan Sumber Mentah (Source) Menuju Tindakan Nyata (Praktik)*
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
   > *Bagaimana rantai transformasi pengetahuan mengalir tertib dari Source $\rightarrow$ Probe $\rightarrow$ Evidence $\rightarrow$ Decision $\rightarrow$ Fundamental $\rightarrow$ Implementation $\rightarrow$ Operational $\rightarrow$ Praktik, dan mengapa ketiadaan rantai alur ini melahirkan fatwa kepengasuhan liar yang merusak adab dan menzalimi santri?*
-- **Penanggung Jawab Epistemik:** Dewan Penyelidikan Arsitektur Repositori TUMBUH bekerjasama dengan Pakar Epistemologi Turats, Pakar Rekayasa Perangkat Lunak Pesantren, dan Pakar Perlindungan Hak Asasi Santri.
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Kanonikal:** Monograf Riset Desain Sistem Standar Emas Repositori TUMBUH v2.0.0 (*Peer-Reviewed Canonical Monograph*).
 - **Klasifikasi Epistemik:** Lapisan Inkuiri Kritis (*Epistemic Inquiry Layer* - `PROBE/`), Berfungsi Mengurai dan Memvalidasi Alur Transformasi Epistemik Sebelum Diberlakukan sebagai Standar Mutu Tata Kelola Pesantren Mitra.
 - **Versi Rilis Dokumen:** `2.0.0-GOLDEN-CANONICAL`

@@ -13,7 +13,7 @@
 - **Judul Dokumen:** *Translasi Konseptual ke Lapisan 02_IMPLEMENTATION: Menjembatani Prinsip Luhur ke Konteks Kelembagaan Pesantren*
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
   > *Bagaimana menerjemahkan nilai filosofis fitrah menjadi kerangka kerja institusi tanpa kehilangan daya gugah spiritualnya, dan bagaimana lapisan 02_IMPLEMENTATION berfungsi sebagai adaptor kelembagaan (institutional adapter) yang menjembatani abstraksi 01_FUNDAMENTAL menuju kepraktisan 03_OPERATIONAL?*
-- **Penanggung Jawab Epistemik:** Dewan Penyelidikan Arsitektur Repositori TUMBUH bekerjasama dengan Pakar Epistemologi Turats, Pakar Desain Kurikulum Adab, dan Pakar Manajemen Tata Kelola Qudwah Pesantren.
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Kanonikal:** Monograf Riset Desain Sistem Standar Emas Repositori TUMBUH v2.0.0 (*Peer-Reviewed Canonical Monograph*).
 - **Klasifikasi Epistemik:** Lapisan Inkuiri Kritis (*Epistemic Inquiry Layer* - `PROBE/`), Berfungsi Menguji Validitas Metodologi Penurunan Kebijakan Sebelum Diundangkan sebagai Pedoman Resmi Kelembagaan.
 - **Versi Rilis Dokumen:** `2.0.0-GOLDEN-CANONICAL`

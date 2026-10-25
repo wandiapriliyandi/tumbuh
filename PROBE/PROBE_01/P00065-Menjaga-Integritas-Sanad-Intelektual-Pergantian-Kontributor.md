@@ -124,7 +124,7 @@ Setiap peneliti, agen AI, atau kontributor manusia yang baru bergabung di Reposi
 2. **Tahap 2: Penguasaan Standar Monograf 13 Bagian**:
    Mempelajari berkas [`P00044`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00044-Standarisasi-Struktur-Baku-13-Bagian-Jurnal-Riset-Desain-Sistem.md) hingga [`P00054`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00054-Kriteria-Penghentian-Penyelidikan-Stopping-Rules-Penutup-Pilar-4.md) mengenai tata cara penulisan turats berharakat, sains bebas paywall, matriks komparatif, dan penutupan ADR.
 3. **Tahap 3: Uji Coba Terbimbing (*Pair-Authoring*)**:
-   Menulis berkas inkuiri pertama di bawah supervisi Principal System Architect atau menelaah berkas berstatus draf.
+   Menulis berkas inkuiri pertama di bawah supervisi Arsitek Sistem TUMBUH atau menelaah berkas berstatus draf.
 4. **Tahap 4: Penandatanganan Pakta Integritas Sanad**:
    Mendeklarasikan komitmen untuk tidak melanggar 7 butir guardrails repositori dan tidak merobohkan keputusan arsitektural lama tanpa proses inkuiri resmi.
 

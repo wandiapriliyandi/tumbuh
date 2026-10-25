@@ -126,7 +126,7 @@ Ketika sebuah pesantren mitra ingin mengintegrasikan tradisi lokalnya ke dalam s
 
 1. **Tahap 1: Inventarisasi Tradisi Lokal (*Cultural Inventory Mapping*)**  
    Pimpinan pesantren mitra mendata seluruh tradisi khas pondok yang telah berlangsung selama puluhan tahun ke dalam lembar usulan adaptasi.
-2. **Tahap 2: Sidang Uji Adat Bersama Dewan Pakar (*Urf Validity Hearing*)**  
+2. **Tahap 2: Sidang Uji Kelayakan Bersama Majelis Pengasuh (*Urf Validity Hearing*)**  
    Tim auditor TUMBUH bersama asatidz sepuh pesantren mengkaji setiap butir tradisi melalui kacamata Ushul Fiqh: Mana yang *'Urf Shahih* dan mana yang berpotensi menjadi *'Urf Fasid*.
 3. **Tahap 3: Kodifikasi Dokumen Ekstensi Lokal (*Local Extension Drafting*)**  
    Tradisi yang lolos uji disahkan dalam dokumen suplemen khusus: `02_IMPLEMENTATION/pesantren_mitra_[nama]/LOCAL_POLICY.md`.

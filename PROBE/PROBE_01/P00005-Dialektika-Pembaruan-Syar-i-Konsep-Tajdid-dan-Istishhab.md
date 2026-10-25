@@ -8,7 +8,7 @@
 - **Judul Monograf:** Dialektika Pembaruan Syar'i: Konsep Tajdid dan Istishhab dalam Evolusi Dokumen Lembaga Pesantren
 - **Klaster Induk:** Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0
 - **Sub-Klaster:** Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0
-- **Penanggung Jawab Epistemik:** Dewan Arsitektur Repositori TUMBUH bekerjasama dengan Distinguished Chair Professor Epistemologi Turats, Ushul Fiqih, & Rekayasa Sistem Tata Kelola
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Dokumen:** Kanonik / Peer-Reviewed Review Paper (Branch v2.0.0)
 - **Versi Rilis Repositori:** v2.0.0-canonical
 - **Pertanyaan Panduan Inti (TUMBUH Question):**

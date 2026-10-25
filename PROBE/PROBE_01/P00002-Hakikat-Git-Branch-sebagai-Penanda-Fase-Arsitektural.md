@@ -74,7 +74,7 @@ Imam Syihabuddin Abu al-Abbas Ahmad bin Idris Al-Qarafi (wafat 684 H) dalam adik
 *(Dan perbedaan mendasar antara fatwa dan putusan hukum peradilan adalah: sesungguhnya putusan hukum peradilan [al-hukm/al-qadha] itu mengikat secara kelembagaan dan mengangkat silang sengketa pendapat; sedangkan fatwa wacana keilmuan [al-futya] tidak memiliki sifat mengikat dan tidak mengangkat perbedaan ijtihad, melainkan sebatas pemberitahuan tentang hukum Allah menurut pandangan sang mufti bagi orang yang memintanya. Maka barangsiapa mencampuradukkan kedua maqam tindakan tersebut, niscaya ia telah tersesat dan menyesatkan orang lain).*
 
 Hubungan dengan hakikat Git Branch: Al-Qarafi menegaskan bahaya mencampuradukkan wacana dialektika dengan putusan hukum formal. Dalam repositori TUMBUH:
-- **Branch `v2.0.0` adalah Maqam al-Futya wal-Mudzakarah**: ruang tempat peneliti dan dewan pakar menguji hipotesis di folder PROBE, mendebat istilah, dan merekonstruksi teori tanpa membebani santri di lapangan.
+- **Branch `v2.0.0` adalah Maqam al-Futya wal-Mudzakarah**: ruang tempat peneliti dan pengasuh pesantren menguji hipotesis di folder PROBE, mendebat istilah, dan merekonstruksi teori tanpa membebani santri di lapangan.
 - **Branch `main` adalah Maqam al-Qadha wal-Ilzam**: ruang rilis kanonik yang memuat dokumen Fundamental dan SOP yang telah disahkan secara kelembagaan dan mengikat seluruh pesantren mitra.
 
 Imam Al-Qarafi memperkuat kaidah ini dalam *Al-Furuq* (Jilid 2, hlm. 102–108) dengan menguraikan perbedaan antara maqam pensaksian (*syahadah*), maqam fatwa (*futya*), dan maqam ketetapan hukum (*qadha*):[^24]
@@ -278,7 +278,7 @@ Bab ini menyajikan 5 matriks analitis komparatif yang memperjelas fungsi arsitek
 
 | Lingkungan Branch | Otoritas Pelaksana | Dokumen yang Dikelola | Status Akses Santri & Wali | Audit Kriptografis Wajib |
 |---|---|---|---|---|
-| **Branch v2.0.0 (Exploratory)** | Tim Peneliti PROBE & Dewan Pakar | Naskah `PROBE/`, draf kajian kritis | Tertutup Mutlak (Hanya Tim Riset) | GPG Signed Commits |
+| **Branch v2.0.0 (Exploratory)** | Tim Peneliti Desain Sistem & Pengasuh Pesantren | Naskah `PROBE/`, draf kajian kritis | Tertutup Mutlak (Hanya Tim Riset) | GPG Signed Commits |
 | **Branch Main (Canonical Baseline)** | Dewan Masyaikh & Pimpinan Yayasan | `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/` | Terbuka untuk Seluruh Asatidz | Protected Branch + Multi-Signatures |
 | **Branch Operational/Local** | Kepala Pengasuhan & Musyrif Asrama | `03_OPERATIONAL/`, Logbook SIM-TUMBUH | Akses Harian Santri & Musyrif | Role-Based Access Control (RBAC) |
 
@@ -296,7 +296,7 @@ Bab ini menyajikan 5 matriks analitis komparatif yang memperjelas fungsi arsitek
 | Dimensi Evaluasi | Kriteria Ambang Batas Minimal (Threshold) | Perangkat Pengujian di Repositori | Konsekuensi Jika Gagal |
 |---|---|---|---|
 | **Ketuntasan Volume Substantif** | Minimal >8.500 kata substantif per berkas monograf PROBE | Skrip Linter Penghitung Kata Otomatis | Naskah ditolak dan dikembalikan ke penulis di Branch V2 |
-| **Integritas Teks Turats Klasik** | Teks Arab berharakat lengkap + takhrij kitab, juz, dan halaman | Audit Silang Dewan Pakar Filologi Turats | Label keabsahan dalil syar'i tidak diterbitkan |
+| **Integritas Teks Turats Klasik** | Teks Arab berharakat lengkap + takhrij kitab, juz, dan halaman | Audit Silang Dewan Asatidz Filologi Turats | Label keabsahan dalil syar'i tidak diterbitkan |
 | **Pembersihan Tautan Sains** | Format APA 7th edition bersih tanpa paywall komersial `doi.org` | Audit Otomatis Git Pre-Commit Hook | Commit dibatalkan otomatis oleh sistem repositori |
 | **Keterikatan Judul (Title Anchoring)** | Setiap bab terhubung eksplisit menjawab judul & TUMBUH Question | Telaah Sejawat Komite Arsitektur TUMBUH | Revisi wajib restrukturisasi narasi bab terkait |
 | **Resolusi Epistemik (ADR)** | Menyertakan rekaman Architectural Decision Record kanonik | Pengecekan Template Kanonik ADR-PROBE | Dokumen tidak dapat dipromosikan ke Dokumen Fundamental |

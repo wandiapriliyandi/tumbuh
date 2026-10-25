@@ -273,7 +273,7 @@ Untuk memastikan penegakan ADR di asrama tidak menimbulkan resistensi sosial yan
         v
 [Tahap 4: Penanganan Keberatan Melalui Saluran Resmi]
    Jika ada santri, wali santri, atau guru yang merasa aturan ADR tersebut memberatkan,
-   keberatan diajukan melalui Komite Epistemik untuk dievaluasi dalam siklus inkuiri baru;
+   keberatan diajukan melalui Majelis Pengasuh dan Dewan Asatidz untuk dievaluasi dalam siklus inkuiri baru;
    dilarang keras melakukan pembangkangan aturan secara liar di lapangan.
 ```
 

@@ -125,7 +125,7 @@ Untuk menegakkan protokol takhrij dua jalur ini di seluruh dokumen repositori, t
    Memeriksa integritas perawi dalam kitab *Tahdzib al-Kamal* (Al-Mizzi) atau *Taqrib at-Tahdzib* (Ibnu Hajar) jika hadits berada di luar *Shahihain*.
 3. **Tahap 3: Pemilihan Naskah Syarah Terbaik (*Canonical Commentary Selection*)**  
    Membuka minimal dua kitab syarah induk (misal: Al-Hafizh Ibnu Hajar untuk hadits Bukhari dan Imam An-Nawawi untuk hadits Muslim) untuk mencatat hikmah fikihnya.
-4. **Tahap 4: Pembacaan Teks Arab Bersama Dewan Pakar (*Oral Arabic Recitation Test*)**  
+4. **Tahap 4: Pembacaan Teks Arab di Hadapan Dewan Asatidz (*Oral Arabic Recitation Test*)**  
    Membaca nyaring teks Arab berharakat di hadapan pakar bahasa Arab repositori untuk memastikan tidak ada kesalahan i'rab atau harakat makna.
 5. **Tahap 5: Penyusunan Blok Catatan Kaki Kanonik (*Footnote Metadata Sealing*)**  
    Menuliskan catatan kaki di Bab 13 dengan format lengkap: Judul Kitab Asal, Kitab/Bab Pembahasan, Nomor Hadits, Pentahqiq, Penerbit, Jilid, dan Halaman.

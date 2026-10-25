@@ -384,7 +384,7 @@ Dalam proses transisi masif dari repositori v1 menuju v2.0.0, terdapat puluhan d
 Dalam perspektif rekayasa perangkat lunak dan manajemen konfigurasi enterprise, keputusan untuk mengunci direktori 99_ARCHIVE/ secara read-only dan melarang hard deletion merupakan langkah fundamental untuk menjamin integritas referensial jangka panjang. Banyak proyek open source besar dan repositori korporasi mengalami kerusakan silsilah ketika pengembang secara ceroboh menghapus file lama yang masih dijadikan dependensi historis oleh modul lain. Dengan memberlakukan pola tombstone dan soft delete, repositori TUMBUH v2.0.0 menetapkan standar ketertelusuran yang setara dengan sistem kontrol versi perbankan dan laboratorium riset nuklir, di mana setiap audit jejak rekam jejak keputusan dapat diverifikasi secara independen hingga ke komit awal repositori didirikan.
 
 ### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
-Majelis Epistemik dan Dewan Pengembang Repositori menetapkan keputusan arsitektural baku berikut:
+Majelis Pengasuh Pesantren dan Tim Desain Sistem TUMBUH menetapkan keputusan arsitektural baku berikut:
 
 1. **Penetapan Status Cagar Museum Epistemik**:
    Direktori `99_ARCHIVE/` ditetapkan berstatus ontologis sebagai *Museum Epistemik dan Cagar Silsilah Sejarah Sistem*. Berkas di dalamnya dibekukan secara permanen (*immutable read-only*) dan memiliki daya paksa yuridis nol (*zero legal authority*).

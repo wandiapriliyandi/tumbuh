@@ -8,11 +8,11 @@
 - **Judul Monograf:** Piagam Komitmen Epistemik V2: Menolak Kompromi Pragmatis yang Merendahkan Martabat Keilmuan Pesantren
 - **Klaster Induk:** Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0
 - **Sub-Klaster:** Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0
-- **Penanggung Jawab Epistemik:** Dewan Arsitektur Repositori TUMBUH bekerjasama dengan Distinguished Chair Professor Etika Keilmuan Islam, Filsafat Pendidikan Pesantren, & Rekayasa Integritas Sistem Pengetahuan
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Dokumen:** Kanonik / Peer-Reviewed Review Paper (Branch v2.0.0)
 - **Versi Rilis Repositori:** v2.0.0-canonical
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
-  > *Bagaimana mengunci komitmen pengembang dan dewan pakar agar tidak mereduksi standar keilmuan demi mengejar kecepatan penyelesaian yang semu, dan bagaimana Piagam Komitmen Epistemik V2 (The V2 Epistemic Charter) menjadi doktrin moral yang menolak naskah dangkal, plagiasi, dan kompromi pragmatis di repositori TUMBUH?*
+  > *Bagaimana mengunci komitmen pengembang dan peneliti agar tidak mereduksi standar keilmuan demi mengejar kecepatan penyelesaian yang semu, dan bagaimana Piagam Komitmen Epistemik V2 (The V2 Epistemic Charter) menjadi doktrin moral yang menolak naskah dangkal, plagiasi, dan kompromi pragmatis di repositori TUMBUH?*
 - **Klasifikasi Metodologi:** Monograf Sintesis Fiqih Amanah Keilmuan (*Mitsaq al-'Ilm wa Akhlaq al-'Ulama*), Sosiologi Etika Sains (*Mertonian Norms of Science*), dan Rekayasa Tata Kelola Komitmen (*Software Craftsmanship & Epistemic Vigilance Governance*)
 - **Domain Batasan Sistem (Repository Boundary):** Piagam komitmen etik, etika kepenulisan naskah monograf repositori, pencegahan korupsi metrik Goodhart, penolakan boilerplate dan salin-tempel tanpa sanad, sumpah penjagaan martabat nalar pesantren, penutup resmi Pilar 1. Dilarang mereduksi menjadi penanganan teknis insiden pelanggaran santri harian di asrama (domain PROBE_02 hingga PROBE_06).
 - **Target Pembaca:** Pimpinan Pesantren, Dewan Masyaikh, Tim Peneliti Litbang, Seluruh Kontributor Monograf PROBE, Software Craftsmen, Mahasiswa Kader Ulama.

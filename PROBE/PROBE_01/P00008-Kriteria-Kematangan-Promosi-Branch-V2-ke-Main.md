@@ -8,7 +8,7 @@
 - **Judul Monograf:** Kriteria Kematangan Promosi Branch: Kapan Status V2 Layak Ditetapkan Menjadi Baseline Kanonik Pengganti Main
 - **Klaster Induk:** Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0
 - **Sub-Klaster:** Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0
-- **Penanggung Jawab Epistemik:** Dewan Arsitektur Repositori TUMBUH bekerjasama dengan Distinguished Chair Professor Quality Assurance Pendidikan Islam, Epistemologi Ushul Fiqih, & Enterprise Systems Engineering
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Dokumen:** Kanonik / Peer-Reviewed Review Paper (Branch v2.0.0)
 - **Versi Rilis Repositori:** v2.0.0-canonical
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
@@ -248,7 +248,7 @@ Bagian ini menyajikan enam matriks analitis komprehensif yang memetakan kriteria
 | :--- | :--- | :--- | :--- | :--- |
 | **1** | **Completeness Gate** (Kelengkapan Khazanah)| Kelengkapan 120 berkas inkuiri PROBE | 100% tuntas tanpa ada berkas yang draf/loncat | Skrip otomatis penelusuran pohon direktori |
 | **2** | **Structure Gate** (Kanonik 13 Bagian) | Kepatuhan struktur jurnal riset desain | 100% berkas memuat 13 bab baku dan $\ge 400$ baris | CI/CD Automated Regex Structure Linter |
-| **3** | **Turats Sanctity Gate** (Otentisitas Teks) | Keshahihan sanad hadits dan teks Arab | Seluruh matan berharakat, bertakhrij kitab/juz | Audit Manual Dewan Pakar Epistemologi Turats |
+| **3** | **Turats Sanctity Gate** (Otentisitas Teks) | Keshahihan sanad hadits dan teks Arab | Seluruh matan berharakat, bertakhrij kitab/juz | Audit Manual Dewan Asatidz Epistemologi Turats |
 | **4** | **Clean-Science Gate** (Literatur Bebas) | Integritas rujukan sains APA 7th | Bebas 100% dari pranala paywall komersial (`doi.org`)| Automated Bibliographic Paywall Scanner |
 | **5** | **Lineage & Link Gate** (Keterlacakan Silsilah)| Keutuhan pranala silang repositori | Nol broken links internal (`zero dead links`)| Local File Markdown Link Assertion Verifier |
 | **6** | **Field Usability Gate** (Uji Asrama Nyata) | Kelayakan instrumen di kamar santri | Minimal 1 semester Dual-Run sukses di pilot asrama| Laporan Audit Kepuasan Musyrif & Santri |

@@ -182,7 +182,7 @@ Tabel berikut memperlihatkan perbandingan fungsi ontologis, lokasi direktori, st
 | **Fungsi Ontologis** | Bahan baku informasi & pustaka eksternal.| Ruang dialektika, uji stres, & rationale desain.| Hukum mengikat, konstitusi nilai, & SOP teknis.|
 | **Status Yuridis** | **NON-YURIDIS (Bukan aturan sistem).** | **KONSULTATIF & REFLEKTIF (Kajian mendalam).**| **YURIDIS MENGIKAT MUTLAK (Konstitusi resmi).**|
 | **Sifat Dokumen** | Deskriptif, historis, beragam mazhab. | Dialektis, analitis, 13 bagian monograf. | Preskriptif, imperatif, lugas, terstandarisasi.|
-| **Pengguna Utama** | Peneliti pustaka, bibliografer, kurator data.| Peneliti PROBE, dewan pakar, arsitek sistem.| Musyrif lapangan, pengurus, santri, wali santri.|
+| **Pengguna Utama** | Peneliti pustaka, bibliografer, kurator data.| Peneliti PROBE, dewan asatidz, arsitek sistem.| Musyrif lapangan, pengurus, santri, wali santri.|
 | **Kriteria Perubahan**| Penambahan koleksi bahan rujukan baru. | Penyelidikan rantai baru (*P+1*) via inquiry.| Sidang Pleno Mahkamah Epistemologi resmi.|
 
 ### 7.2 Matriks Tipologi Kesalahan Penggunaan Dokumen di Lapangan

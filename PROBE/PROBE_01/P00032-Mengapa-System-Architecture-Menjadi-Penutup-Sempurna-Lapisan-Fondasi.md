@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Domain 01 s/d Domain 09) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/01_PHILOSOPHY/09_SYSTEM_ARCHITECTURE.md` |
 | **Bidang Keilmuan Terpadu** | Teori Sistem Umum (*General System Theory*), Arsitektur Sistem Enterprise (*Enterprise Architecture Frameworks*), Sosiologi Organisasi Islam (*'Ilm al-'Umran al-Islami*), Epistemologi Ushuliyyah, Rekayasa Perangkat Lunak Pesantren |
-| **Pakar Utama / Inquiry Lead** | Principal Enterprise Systems Architect & Distinguished Professor of Islamic Institutional Engineering |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00030 (*Domain 07: Dinamika Perubahan*) dan P00031 (*Domain 08: Prinsip-Prinsip Inti*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00033 (*Klaster Transisi: Mengapa Pendekatan Sistem Dipilih sebagai Meta-Kerangka TUMBUH?*) |

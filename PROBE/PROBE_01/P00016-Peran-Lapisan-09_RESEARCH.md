@@ -384,7 +384,7 @@ Misalkan $R$ merepresentasikan himpunan seluruh berkas penelitian di dalam direk
 Dalam proses evolusi ekosistem repositori TUMBUH v2.0.0, terdapat kebutuhan mendesak untuk menampung ide-ide penelitian baru tanpa membiarkan ide-ide tersebut mengganggu ketertiban pengasuhan santri. Jika divisi riset dibungkam, inovasi lembaga mati. Namun jika draf riset bebas beredar tanpa status isolasi yang jelas, praktisi lapangan akan mengalami kebingungan, dan santri akan terpapar risiko eksperimen yang tidak bertanggung jawab.
 
 ### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
-Majelis Epistemik dan Dewan Pengembang Repositori menetapkan keputusan arsitektural baku berikut:
+Majelis Pengasuh Pesantren dan Tim Desain Sistem TUMBUH menetapkan keputusan arsitektural baku berikut:
 
 1. **Penetapan Status Ontologis Epistemic Sandbox**:
    Direktori `09_RESEARCH/` ditetapkan secara mutlak berkedudukan sebagai *Laboratorium Eksplorasi Terisolasi*. Seluruh dokumen di dalamnya adalah instrumen inkuiri ilmiah yang tidak memiliki mandat hukum terhadap operasional pesantren.

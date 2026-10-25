@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Gerbang Transisi ke Core Model) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/02_CORE_MODEL/01_MODEL_OVERVIEW.md` |
 | **Bidang Keilmuan Terpadu** | Teori Rekayasa Berbasis Model (*Model-Driven Engineering*), Epistemologi Ushul Fiqh (*Tahqiq al-Manath*), Psikologi Kognitif Perkembangan, Sosiologi Pesantren, Teori Tindakan Organisasi |
-| **Pakar Utama / Inquiry Lead** | Principal Epistemic Architect & Distinguished Chair Professor of Systems Transition |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00031 (*Domain 08: Core Principles*) dan P00032 (*Domain 09: System Architecture*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00034 (*Poros Tengah Core Model: Pertumbuhan Fitrah Menuju Kemandirian*) |
@@ -44,7 +44,7 @@ Ketegangan epistemik ini dirangkum dalam matriks tegangan berikut:
 ## 3. Definisi Masalah & Pendahuluan Fenomenologis
 
 ### 3.1 Fenomena Menara Gading Filosofis (The Philosophical Ivory Tower)
-Dalam evaluasi terhadap banyak sistem pendidikan pesantren, sering dijumpai sebuah fenomena tragis yang disebut sebagai **Menara Gading Filosofis (*The Philosophical Ivory Tower Syndrome*)**. Para kiai, dewan pakar, dan perancang kurikulum berhasil menyusun naskah filosofis yang luar biasa mendalam: mengutip kitab-kitab turats klasik bermutu tinggi, menguraikan doktrin tauhid murni, mendefinisikan fitrah insaniah, dan menegaskan kemuliaan adab kenabian. Dokumen-dokumen ini dipuji dalam seminar-seminar akademik dan dibanggakan dalam brosur promosi.
+Dalam evaluasi terhadap banyak sistem pendidikan pesantren, sering dijumpai sebuah fenomena tragis yang disebut sebagai **Menara Gading Filosofis (*The Philosophical Ivory Tower Syndrome*)**. Para kiai, dewan asatidz, dan perancang kurikulum berhasil menyusun naskah filosofis yang luar biasa mendalam: mengutip kitab-kitab turats klasik bermutu tinggi, menguraikan doktrin tauhid murni, mendefinisikan fitrah insaniah, dan menegaskan kemuliaan adab kenabian. Dokumen-dokumen ini dipuji dalam seminar-seminar akademik dan dibanggakan dalam brosur promosi.
 
 Namun, ketika kita melangkah masuk ke lorong-lorong asrama santri pada pukul 23.00 malam atau di antrean kamar mandi pada pukul 04.00 pagi, kita menyaksikan pemandangan yang bertolak belakang secara diametral:
 - Musyrif membentak santri baru dengan kata-kata kasar dan ancaman hukuman fisik.

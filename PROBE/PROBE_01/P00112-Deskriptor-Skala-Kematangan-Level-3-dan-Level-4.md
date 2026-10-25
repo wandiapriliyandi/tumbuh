@@ -139,7 +139,7 @@ Untuk memajukan sebuah modul dari Level 3 ke Level 4 secara sah, tim auditor pen
 4. **Tahap 4: Analisis Grafik Kendali Statistik (*Run-Chart Stability Analysis*)**  
    Memplot data kepatuhan selama 180 hari berturut-turut pada grafik kendali Shewhart: Memastikan tidak ada pergeseran proses yang tidak terkendali (*out-of-control signals*).
 5. **Tahap 5: Deklarasi Sertifikasi AMI Level 4 (*Level 4 Accreditation Hearing*)**  
-   Dewan Pakar TUMBUH menandatangani sertifikat kematangan Level 4 dan mendaftarkannya ke dalam katalog rujukan sistem nasional.
+   Pimpinan Pondok Pesantren menandatangani sertifikat kematangan Level 4 dan mendaftarkannya ke dalam katalog rujukan sistem nasional.
 
 ---
 

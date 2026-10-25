@@ -6,7 +6,7 @@
 
 **Status Penyelidikan:** Kanonik / Definitif / Pamungkas Klaster 1  
 
-**Penanggung Jawab:** Dewan Pakar TUMBUH v2.0.0 (Epistemologi Turats, Filosofi TUMBUH, & Metodologi Riset)  
+**Peneliti Dokumen:** Tim Peneliti Desain Sistem TUMBUH
 
 
 
@@ -272,7 +272,7 @@ Para ulama salaf meletakkan kaidah agung tentang bagaimana seorang penuntut ilmu
 
 - **Tier 3 (Intensive - Santri Terpapar Paham Ekstremis Takfiri atau Nihilisme Moral):**  
 
-  Konseling de-radikalisasi dan pembinaan epistemologi intensif oleh Dewan Pakar Turats untuk meluruskan distorsi penafsiran nash dan menyembuhkan penyakit takfiri sempit yang mengancam keselamatan ukhuwah.
+  Konseling de-radikalisasi dan pembinaan epistemologi intensif oleh Dewan Asatidz Turats untuk meluruskan distorsi penafsiran nash dan menyembuhkan penyakit takfiri sempit yang mengancam keselamatan ukhuwah.
 
 
 

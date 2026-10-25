@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Domain 01 s/d Domain 09) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/01_PHILOSOPHY/06_LEADERSHIP.md` |
 | **Bidang Keilmuan Terpadu** | Manajemen Pendidikan Islam (*Idarah at-Tarbiyah al-Islamiyyah*), Teori Kepemimpinan Pelayan (*Servant Leadership*), Teori Pemodelan Sosial (*Social Cognitive Theory*), Sosiologi Kekuasaan Pesantren, Hermeneutika Siyasah Syar'iyyah |
-| **Pakar Utama / Inquiry Lead** | Distinguished Chair Professor of Islamic Educational Governance & Principal Systems Architect |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00027 (*Domain 04: Perkembangan Insan*) dan P00028 (*Domain 05: Hakikat Pendidikan*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00030 (*Domain 07: Dinamika Perubahan & Budaya Mutu Transformatif*) |

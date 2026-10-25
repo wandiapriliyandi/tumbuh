@@ -13,7 +13,7 @@
 - **Judul Dokumen:** *Mengapa Repositori TUMBUH Dipisahkan Berdasarkan Fungsi Lapisan Epistemik (Separation of Epistemic Concerns)?*
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
   > *Mengapa repositori TUMBUH memisahkan secara ketat antara lapisan 01_FUNDAMENTAL, 02_IMPLEMENTATION, dan 03_OPERATIONAL, dan bagaimana arsitektur berlapis ini mencegah pembusukan semantik (semantic rotting) serta menjaga kemurnian filosofi agar tidak terdistorsi oleh tekanan teknis operasional harian?*
-- **Penanggung Jawab Epistemik:** Dewan Penyelidikan Arsitektur Repositori TUMBUH bekerjasama dengan Pakar Epistemologi Turats, Pakar Rekayasa Perangkat Lunak Pesantren, dan Auditor Mutu Tata Kelola Kelembagaan.
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Kanonikal:** Monograf Riset Desain Sistem Standar Emas Repositori TUMBUH v2.0.0 (*Peer-Reviewed Canonical Monograph*).
 - **Klasifikasi Epistemik:** Lapisan Inkuiri Kritis (*Epistemic Inquiry Layer* - `PROBE/`), Berfungsi Menguji dan Melegitimasi Kebijakan Partisi Direktori Sebelum Diberlakukan di Seluruh Lembaga Pendidikan Islam.
 - **Versi Rilis Dokumen:** `2.0.0-GOLDEN-CANONICAL`
@@ -214,7 +214,7 @@ Untuk memberikan gambaran yang sistematis dan analitis mengenai keunggulan doktr
 | Dimensi Arsitektural | `01_FUNDAMENTAL` | `02_IMPLEMENTATION` | `03_OPERATIONAL` |
 | :--- | :--- | :--- | :--- |
 | **Hakikat Epistemik** | Nilai Teologis & Konstitusi Abadi | Kebijakan & Kerangka Lembaga | Instrumen Kerja Praktis 24 Jam |
-| **Sumber Otoritas** | Al-Qur'an, Sunnah, Maqashid, Turats | Majelis Pimpinan & Dewan Pakar | Musyrif Lapangan & Staf Asrama |
+| **Sumber Otoritas** | Al-Qur'an, Sunnah, Maqashid, Turats | Majelis Pimpinan & Pengasuh Pesantren | Musyrif Lapangan & Staf Asrama |
 | **Tingkat Volatilitas (Perubahan)** | Sangat Rendah (Stabil Abadi, Revisi Dekade) | Rendah–Sedang (Revisi Tahunan/Siklik) | Sangat Tinggi (Dinamis Mingguan/Bulanan) |
 | **Arah Dependensi** | Nol Dependensi (Akar Murni / Leaf-Free) | Hanya Bergantung pada `01_FUNDAMENTAL` | Bergantung pada `01` dan `02` |
 | **Bentuk Dokumen** | Monograf Filosofis, Piagam, Prinsip | Kerangka Kurikulum, Sistem Multi-Tier | Checklist, Formulir, SOP, Logbook |

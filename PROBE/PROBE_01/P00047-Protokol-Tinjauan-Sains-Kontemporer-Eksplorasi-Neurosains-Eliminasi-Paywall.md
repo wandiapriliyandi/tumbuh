@@ -406,7 +406,7 @@ Protokol Sains Terbuka di ekosistem TUMBUH juga mengikat komitmen lembaga terhad
 
 ### 11.3 Audit Kepatuhan Epistemik Berkala: Protokol Pemurnian Repositori
 
-Untuk menjamin keberlanjutan integritas repositori TUMBUH dari kontaminasi reduksionisme materialistik maupun infiltrasi jurnal predator, Komite Epistemik TUMBUH menjalankan audit kepatuhan tahunan dengan instrumen berikut:
+Untuk menjamin keberlanjutan integritas repositori TUMBUH dari kontaminasi reduksionisme materialistik maupun infiltrasi jurnal predator, Majelis Pengasuh dan Dewan Asatidz TUMBUH menjalankan audit kepatuhan tahunan dengan instrumen berikut:
 
 1. **Pemeriksaan Kemurnian Ontologis**: Memastikan bahwa setiap konsep biologi saraf (seperti sistem limbik, neurokimia dopamin, neuroplastisitas) tidak pernah didudukkan sebagai penyebab mutlak takdir amal, melainkan sebagai hukum sunnatullah pada wadah jasmaniah yang beroperasi di bawah kehendak Ilahi dan hakikat ikhtiar ruhaniyah (*kasb*).
 2. **Uji Validitas Replikasi Empiris**: Mengeliminasi rujukan sains kontemporer yang gagal melewati krisis replikasi (*replication crisis*) atau yang ditarik (*retracted*) oleh jurnal penerbitnya, dengan menggantikannya secara berkala menggunakan studi meta-analisis berskala besar.

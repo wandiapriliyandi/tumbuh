@@ -6,7 +6,7 @@
 
 **Status Penyelidikan:** Kanonik / Definitif  
 
-**Penanggung Jawab:** Dewan Pakar TUMBUH v2.0.0 (Epistemologi Turats, Perlindungan Anak, & PBIS Restoratif)  
+**Peneliti Dokumen:** Tim Peneliti Desain Sistem TUMBUH
 
 
 

@@ -7,7 +7,7 @@
 - **ID Penyelidikan**: `P00015`
 - **Klasifikasi Taksonomi**: `METAGOVERNANCE / EPISTEMOLOGY / EVIDENCE VERIFICATION & DECISION TRACEABILITY`
 - **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
-- **Penanggung Jawab Dokumen**: Majelis Epistemik & Auditor Arsitektur Repositori TUMBUH
+- **Penanggung Jawab Dokumen**: Tim Desain Sistem TUMBUH & Pengasuh Pesantren
 - **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
 - **Keterlacakan Silsilah (Lineage Traceability)**: Menjawab kesinambungan dari [`P00014 - Batas Kewenangan Lapisan 03_OPERATIONAL`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00014-Batas-Kewenangan-Lapisan-03-OPERATIONAL.md) dan menjadi landasan dialektis bagi [`P00016 - Peran Lapisan 09_RESEARCH`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md).
 - **Relasi Lintas Lapisan**:
@@ -388,7 +388,7 @@ Misalkan $E$ merepresentasikan himpunan seluruh berkas bukti di dalam direktori 
 Dalam pengembangan ekosistem TUMBUH v2.0.0, terdapat godaan berkelanjutan untuk mengadopsi tren teknokratis yang menjadikan data kuantitatif dan instrumen empiris sebagai pengambil keputusan otomatis. Jika kecenderungan ini dibiarkan, maka fondasi adab dan fitrah pesantren akan mudah digeser setiap kali ada data survei baru yang masuk, membuka celah manipulasi data (*p-hacking* dan *cherry-picking*) demi meloloskan agenda pragmatis. Sebaliknya, jika data lapangan sama sekali diabaikan, pesantren akan terisolasi dari realitas objektif dinamika santri.
 
 ### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
-Majelis Epistemik dan Dewan Pengembang TUMBUH menetapkan keputusan arsitektural baku berikut:
+Majelis Pengasuh Pesantren dan Tim Desain Sistem TUMBUH menetapkan keputusan arsitektural baku berikut:
 
 1. **Pemisahan Keras Otoritas (Hard Separation of Authority)**:
    Direktori `08_SOURCES_AND_EVIDENCE/` ditetapkan secara mutlak berstatus *non-normatif deskriptif*. Berkas di dalamnya adalah saksi pembuktian (*bayyinah*), bukan hakim pemutus sistem. Berkas bukti dilarang keras memuat klausul instruktif atau regulatif.

@@ -324,7 +324,7 @@ Fadhil merasa sangat terhina dan trauma. Santri-santri lain menjadi takut bertan
 
 1. **Mediasi Intelektual oleh Dewan Masyayikh:**  
 
-   Dewan Pakar TUMBUH mengundang Ustadz Ruslan dan Fadhil dalam sesi *Majelis Dialog Ilmiah Qudwah*. Ustadz Ruslan diajak merefleksikan tradisi para ulama salaf (seperti Imam Asy-Syafi'i yang berdialog dengan Imam Ahmad bin Hanbal mengenai hukum orang yang meninggalkan shalat dengan penuh kasih sayang dan saling memuliakan).
+   Majelis Pengasuh Pesantren mengundang Ustadz Ruslan dan Fadhil dalam sesi *Majelis Dialog Ilmiah Qudwah*. Ustadz Ruslan diajak merefleksikan tradisi para ulama salaf (seperti Imam Asy-Syafi'i yang berdialog dengan Imam Ahmad bin Hanbal mengenai hukum orang yang meninggalkan shalat dengan penuh kasih sayang dan saling memuliakan).
 
 2. **Klarifikasi & Validasi Nalar Santri:**  
 
@@ -440,7 +440,7 @@ Operasionalisasi nalar kritis beradab dalam skema PBIS:
 
 - **Tier 3 (Intensive Ideological Rehabilitation - Krisis Pemikiran Ekstrem/Ateisme):**  
 
-  - Santri yang terpapar ideologi ekstremisme radikal atau syubhat keraguan akidah mendapatkan bimbingan klinis-epistemologis intensif dari Dewan Pakar Ushuluddin: membedah syubhat sampai ke akar-akarnya melalui argumentasi burhani tanpa intimidasi psikologis.
+  - Santri yang terpapar ideologi ekstremisme radikal atau syubhat keraguan akidah mendapatkan bimbingan klinis-epistemologis intensif dari Dewan Asatidz Ushuluddin: membedah syubhat sampai ke akar-akarnya melalui argumentasi burhani tanpa intimidasi psikologis.
 
 
 

@@ -6,7 +6,7 @@
 
 **Status Penyelidikan:** Kanonik / Definitif / Pembuka Klaster 2  
 
-**Penanggung Jawab:** Dewan Pakar TUMBUH v2.0.0 (Epistemologi Turats, Pedagogi Master Guru, & Kurikulum Adab)  
+**Peneliti Dokumen:** Tim Peneliti Desain Sistem TUMBUH
 
 
 

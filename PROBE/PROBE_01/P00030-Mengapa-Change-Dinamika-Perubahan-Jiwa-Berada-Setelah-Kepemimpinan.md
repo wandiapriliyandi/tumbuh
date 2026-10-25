@@ -17,7 +17,7 @@
 | **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Domain 01 s/d Domain 09) |
 | **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/01_PHILOSOPHY/07_CHANGE_DYNAMICS.md` |
 | **Bidang Keilmuan Terpadu** | Psikologi Perubahan Perilaku (*Behavioral Change Psychology*), Teori Manajemen Perubahan Organisasi (*Organizational Change Management*), Hermeneutika Sunnatut Taghyir, Neurosains Pembiasaan Kebiasaan (*Habit Loop & Neuroplasticity*), Sosiologi Pesantren |
-| **Pakar Utama / Inquiry Lead** | Principal Systems Change Architect & Chair Professor of Islamic Behavioral Science |
+| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
 | **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
 | **Prasyarat Epistemik (Antecedent)** | P00028 (*Domain 05: Hakikat Pendidikan*) dan P00029 (*Domain 06: Kepemimpinan Proporsional & Tata Kelola Qudwah*) |
 | **Konsekuensi Sistemik (Subsequent)** | P00031 (*Domain 08: Prinsip-Prinsip Inti TUMBUH / Core Principles*) |

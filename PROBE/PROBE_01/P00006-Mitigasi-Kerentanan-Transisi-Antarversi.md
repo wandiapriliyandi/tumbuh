@@ -8,7 +8,7 @@
 - **Judul Monograf:** Mitigasi Kerentanan Transisi Antarversi: Mencegah Kebingungan Praktisi Lapangan di Masa Migrasi V1 Menuju V2
 - **Klaster Induk:** Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0
 - **Sub-Klaster:** Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0
-- **Penanggung Jawab Epistemik:** Dewan Arsitektur Repositori TUMBUH bekerjasama dengan Distinguished Chair Professor Pengasuhan Asrama 24 Jam, Change Management Pesantren, & Rekayasa Arsitektur Sistem
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Dokumen:** Kanonik / Peer-Reviewed Review Paper (Branch v2.0.0)
 - **Versi Rilis Repositori:** v2.0.0-canonical
 - **Pertanyaan Panduan Inti (TUMBUH Question):**

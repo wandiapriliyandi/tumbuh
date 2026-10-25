@@ -9,7 +9,7 @@
 
 ## 1. Rasional Epistemik: Mengapa Menembus 850 Berkas Kanonik?
 
-Sesuai aturan epistemik pada [AGENTS.md](../../AGENTS.md) dan kaidah metodologis [pakar-probe-inquiry-tumbuh](../../.agents/skills/pakar-probe-inquiry-tumbuh/SKILL.md):
+Sesuai aturan epistemik pada [AGENTS.md](../../AGENTS.md) dan kaidah metodologis kaidah metodologis inkuiri sistem TUMBUH:
 
 > *"REFERENCES bukan otomatis keputusan normatif; source bukan otomatis source of truth; evidence tidak otomatis membuktikan klaim di luar konteksnya."*  
 > *"Dokumen harus menjelaskan maksudnya, bukan sekadar memberi label; menggunakan istilah secara konsisten... Dokumen Operational tidak boleh diam-diam membuat definisi baru TUMBUH."*  
@@ -465,7 +465,7 @@ Jumlah berkas pada masing-masing klaster ditentukan murni oleh tingkat kerumitan
 
 ## 4. Standar Mutu Penyelidikan: 13 Bagian Jurnal Riset Desain Sistem (Target 400–500+ Baris)
 
-Seluruh berkas PROBE 11 (mulai dari `P0010` hingga `P0850`) **wajib ditulis mengikuti Format Baku 13 Bagian Monograf Jurnal Riset Desain Sistem** sesuai ketentuan kanonik pada [pakar-probe-inquiry-tumbuh](../../.agents/skills/pakar-probe-inquiry-tumbuh/SKILL.md):
+Seluruh berkas PROBE 11 (mulai dari `P0010` hingga `P0850`) **wajib ditulis mengikuti Format Baku 13 Bagian Monograf Jurnal Riset Desain Sistem** sesuai ketentuan kanonik pada kaidah metodologis inkuiri sistem TUMBUH:
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐

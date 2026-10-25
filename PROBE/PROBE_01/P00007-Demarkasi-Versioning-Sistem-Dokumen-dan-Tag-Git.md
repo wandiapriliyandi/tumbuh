@@ -8,7 +8,7 @@
 - **Judul Monograf:** Demarkasi Versioning: Membedakan Versi Konseptual Sistem, Versi Dokumen Repositori, dan Versi Tag Git
 - **Klaster Induk:** Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0
 - **Sub-Klaster:** Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0
-- **Penanggung Jawab Epistemik:** Dewan Arsitektur Repositori TUMBUH bekerjasama dengan Distinguished Chair Professor Rekayasa Perangkat Lunak Pesantren, Epistemologi Turats, & Filologi Teks Islam
+- **Penanggung Jawab Epistemik:** Majelis Pengasuh Pesantren & Tim Desain Sistem TUMBUH
 - **Status Dokumen:** Kanonik / Peer-Reviewed Review Paper (Branch v2.0.0)
 - **Versi Rilis Repositori:** v2.0.0-canonical
 - **Pertanyaan Panduan Inti (TUMBUH Question):**
@@ -257,7 +257,7 @@ ightarrow$ v2.0.1)**| Perbaikan salah ketik editorial, penyempurnaan takhrij had
 | Label Status Metadata | Makna Kedudukan Dokumen | Hak Akses & Kewenangan Pelaksanaan | Direktori Repositori yang Sah |
 | :--- | :--- | :--- | :--- |
 | **`STATUS: DRAFT-EXPLORATORY`**| Gagasan awal, penalaran inkuiri bebas, hipotesis mentah| Internal Peneliti PROBE; **HARAM** dijadikan aturan kamar| Branch `v2.0.0` (folder `PROBE/`) |
-| **`STATUS: IN-REVIEW-TAHQIQ`** | Sedang diuji sanad turats & ditinjau tim pakar 13 bagian| Tim Auditor Kualitas & Majelis Masyaikh Pondok | Branch `v2.0.0` (Pull Request aktif) |
+| **`STATUS: IN-REVIEW-TAHQIQ`** | Sedang diuji sanad turats & ditinjau tim penelaah 13 bagian| Tim Auditor Kualitas & Majelis Masyaikh Pondok | Branch `v2.0.0` (Pull Request aktif) |
 | **`STATUS: APPROVED-CANONICAL`**| Naskah sah, terverifikasi ilmiah, mengikat lembaga resmi| Seluruh Musyrif, Asatidz, dan Pesantren Mitra TUMBUH | Branch `main` (`01_FUNDAMENTAL/` dst) |
 | **`STATUS: DEPRECATED-ARCHIVED`**| Naskah usang, telah digantikan oleh versi kanonik baru | Arsip sejarah penelitian; **HARAM** diamalkan kembali | Direktori `99_ARCHIVE/` |
 
@@ -452,7 +452,7 @@ Keberhasilan menata arsitektur penomoran versi ini membawa ekosistem TUMBUH pada
 
 Berdasarkan kesimpulan di atas, dua *Emergent Research Questions* dirumuskan secara terarah menuju berkas inkuiri berikutnya:
 1. **Pertanyaan Ambang Kematangan Sistem**: Kriteria arsitektural, metodologis, dan pengujian empiris apa saja yang wajib dipenuhi oleh Branch `v2.0.0` sebelum statusnya dinyatakan layak (*ready for production*) untuk dipromosikan (*merge*) menggantikan branch `main` sebagai baseline kanonik tunggal repositori TUMBUH?
-2. **Pertanyaan Protokol Pengesahan Masyaikh**: Bagaimana merancang mekanisme gerbang kematangan (*Maturity Gates*) dan sidang syura dewan pakar yang objektif untuk mengaudit pemenuhan 120 berkas PROBE tanpa menyisakan ruang bagi overclaim ilmiah maupun utang teknis warisan masa lalu?
+2. **Pertanyaan Protokol Pengesahan Masyaikh**: Bagaimana merancang mekanisme gerbang kematangan (*Maturity Gates*) dan sidang syura pengasuh pesantren yang objektif untuk mengaudit pemenuhan 120 berkas PROBE tanpa menyisakan ruang bagi overclaim ilmiah maupun utang teknis warisan masa lalu?
 
 Penyelidikan mendalam atas kedua pertanyaan kritis mengenai kriteria promosi branch ini menjadi mandat utama berkas berikutnya:  
 $$\Downarrow$$  

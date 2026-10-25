@@ -330,7 +330,7 @@ Ammar dan rekan-rekannya merasa sangat terhina dan putus asa. Diam-diam, mereka 
 
 1. **Mediasi Tim Qudwah & Restorasi Kepercayaan:**  
 
-   Dewan Pakar TUMBUH mengintervensi krisis tersebut. Ustadz Mansyur diajak merefleksikan metodologi dakwah para ulama salaf seperti Al-Ghazali dalam *Tahafut al-Falasifah* dan Ibn Taimiyyah dalam *Dar'u Ta'arudh*, yang justru mempelajari logika lawan secara mendalam untuk membedahnya dengan hujjah kokoh.
+   Majelis Pengasuh Pesantren mengintervensi krisis tersebut. Ustadz Mansyur diajak merefleksikan metodologi dakwah para ulama salaf seperti Al-Ghazali dalam *Tahafut al-Falasifah* dan Ibn Taimiyyah dalam *Dar'u Ta'arudh*, yang justru mempelajari logika lawan secara mendalam untuk membedahnya dengan hujjah kokoh.
 
 2. **Transformasi Forum Diskusi Terbimbing (*The Guided Dialectic Halaqah*):**  
 

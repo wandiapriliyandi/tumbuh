@@ -182,7 +182,7 @@ Antar-Generasi      kebapakan restoratif sebelum ada izin teks   dengan panduan 
                     pasal per pasal dari generasi senior.        fundamental, bukan penjara birokrasi.
 
 Fase D: Fosil       Tata tertib asrama tidak pernah dievaluasi   Lakukan Re-Opening Probe Komprehensif
-Sistemik            selama lebih dari 10 tahun meski profil      melalui dewan pakar lintas disiplin
+Sistemik            selama lebih dari 10 tahun meski profil      melalui musyawarah tim penelaah lintas disiplin
                     santri telah berubah total.                  (Ulama, Psikolog, Musyrif Lapangan).
 ===================================================================================================
 ```

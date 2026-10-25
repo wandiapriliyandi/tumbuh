@@ -254,7 +254,7 @@ Berikut disajikan enam matriks analitis komprehensif yang membedah batas ontolog
 | Pintu Gerbang (Gate) | Nama Protokol | Verifikasi Kelayakan yang Diuji | Pihak yang Berwenang Memeriksa | Konsekuensi Jika Melanggar |
 | :--- | :--- | :--- | :--- | :--- |
 | **Gate 1** | *Substantive Neutrality Audit* | Memastikan naskah pedoman murni mengatur prosedur teknis dan tidak memuat definisi filosofis fitrah. | Tim Konsil Epistemik Repositori | Klausul substantif dicoret secara paksa. |
-| **Gate 2** | *Turats Sovereignty Defense* | Memastikan aturan penulisan tidak mendiskriminasi atau membatasi pengutipan kitab-kitab turats klasik. | Dewan Pakar Filologi Turats | Pedoman ditolak dan dikembalikan ke penyusun. |
+| **Gate 2** | *Turats Sovereignty Defense* | Memastikan aturan penulisan tidak mendiskriminasi atau membatasi pengutipan kitab-kitab turats klasik. | Dewan Asatidz Filologi Turats | Pedoman ditolak dan dikembalikan ke penyusun. |
 | **Gate 3** | *Operational Friction Check* | Menguji apakah instrumen yang dirancang membebani musyrif asrama dengan birokrasi berlebihan. | Komite Pengasuhan Asrama | Format pelaporan disederhanakan (*streamlined*). |
 | **Gate 4** | *Paywall & Open Access Compliance* | Memastikan tidak ada pedoman yang mewajibkan penggunaan piranti lunak komersial berbayar mahal. | Tim Auditor Teknologi Terbuka | Diganti dengan alternatif open-source Islami. |
 | **Gate 5** | *CI/CD Linter Validation* | Memverifikasi kepatuhan skrip penguji otomatis agar tidak memicu false-positive error pada riset. | Administrator Sistem Git CI/CD | Skrip linter disetel ulang (*recalibrated*). |
@@ -378,7 +378,7 @@ Dalam pengembangan repositori TUMBUH v2.0.0, terdapat potensi konflik kepentinga
 Dalam perspektif arsitektur tata kelola pengetahuan (*knowledge architecture*), pemisahan antara direktori `METHODOLOGY/` dan `01_FUNDAMENTAL/` mencerminkan implementasi prinsip fundamental rekayasa perangkat lunak: *Separation of Mechanism and Policy*. Kebijakan (*policy*) menentukan apa yang harus dicapai oleh sistem (tujuan pendidikan adab), sedangkan mekanisme (*mechanism*) menentukan sarana bagaimana tujuan tersebut dicapai dan dievaluasi (protokol riset dan format dokumentasi). Menggabungkan mekanisme dan kebijakan dalam satu wadah akan menciptakan kerapuhan struktural (*architectural fragility*), di mana setiap perbaikan kecil pada format penulisan berisiko merusak landasan filosofis yang melandasinya.
 
 ### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
-Majelis Epistemik dan Dewan Arsitektur Repositori menetapkan keputusan rekayasa baku berikut:
+Majelis Pengasuh Pesantren dan Tim Desain Sistem TUMBUH menetapkan keputusan rekayasa baku berikut:
 
 1. **Penetapan Kedudukan Ilmu Alat Prosedural (Instrumental Metasystem)**:
    Direktori `METHODOLOGY/` ditetapkan secara mutlak berkedudukan murni sebagai *Ilmu Alat Prosedural Sistem*. Direktori ini mengatur tata cara penelitian, format sitasi ilmiah APA 7th Edition tanpa paywall, panduan penyusunan monograf kanonik, dan prosedur pelacakan keputusan (ADR).
