@@ -716,6 +716,7 @@ Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional*
     - Merumuskan 7 butir larangan mutlak (*guardrails asrama*) yang haram dilanggar lembaga.
 12. **Penutup & Emergent Chain of Inquiry**:
     - Paragraf refleksi akhir filosofis dan jembatan pertanyaan eksplisit menuju berkas berikutnya (`P+1`).
+    - **PANTANGAN MUTLAK PADA BAGIAN 12.2 (ANTI-README LEAKAGE)**: Dilarang keras menyajikan daftar katalog berkas, roadmap, atau daftar isi berkas mendatang (misalnya: mendaftar P00001 s/d P00009 lengkap dengan judul dan ringkasannya) di dalam berkas monograf/jurnal ilmiah! Daftar isi dan roadmap repositori adalah domain eksklusif `README.md` atau `RENCANA_REKONSTRUKSI_PROBE_xx.md`. Bagian 12.2 **hanya boleh berisi rumusan pertanyaan penelitian terbuka (*Emergent Research Questions*)** yang secara alami dan dialektis memantik penyelidikan pada berkas berikutnya (`P+1`).
 13. **Daftar Pustaka / Referensi Terkurasi Lengkap**:
     - Sitasi formal standar **APA 7th Edition Bersih (tanpa tautan doi.org berbayar)** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
 
@@ -799,21 +800,39 @@ Untuk menjamin derajat keilmuan yang kokoh dan komprehensif, setiap berkas PROBE
 
 ---
 
-### 27.5. Larangan Keras Terhadap Berkas Dangkal & Format Skeleton
+### 27.5. Prinsip Penjangkaran Judul Mutlak (*Strict Title & Inquiry Anchoring*)
+
+1. **Semua Bab Wajib Terhubung Langsung ke Judul**:
+   - Seluruh 13 bab (dari Bab 1 hingga Bab 13) dan sub-babnya wajib memiliki benang merah yang terikat secara ketat dan eksplisit ke **Judul Berkas** dan **TUMBUH Question**.
+   - Judul berkas adalah jangkar epistemik utama (*primary anchor*). Setiap argumen yang ditulis harus secara sadar ditujukan untuk membuktikan, membedah, atau menjawab tema sentral pada judul tersebut.
+2. **Larangan Bab Mengambang / Generik (*No Detached Chapters*)**:
+   - Tinjauan pustaka (turats maupun sains modern), studi kasus lapangan, matriks komparatif, hingga protokol operasional **dilarang disajikan secara generik atau mengambang**.
+   - Setiap bab wajib diawali atau diakhiri dengan penjelasan eksplisit mengenai *relevansi langsung* bab tersebut terhadap pemecahan masalah pada judul inkuiri.
+3. **Penjagaan Demarkasi Batas (*Boundary Discipline*) Antar-Folder PROBE**:
+   - **`PROBE_01` (Konstitusi & Meta-Arsitektur Repositori)**: Wajib murni membahas meta-arsitektur repositori, tata kelola kontrol versi (Git), pemisahan branch, stratifikasi lapisan epistemik, dan utang desain kelembagaan. Bedah kasus di `PROBE_01` wajib berupa **kasus kegagalan tata kelola repositori dan kelembagaan pesantren**, bukan kasus teknis bilik asrama santri harian.
+   - **`PROBE_02` s/d `PROBE_06`**: Merupakan domain sah untuk membahas filosofi fitrah, taksonomi karakter adab, model pertumbuhan santri, asesmen formatif, serta intervensi kehidupan asrama 24 jam.
+
+---
+
+### 27.6. Larangan Keras Terhadap Berkas Dangkal & Format Skeleton
 
 1. **Dilarang Menghasilkan Berkas Ringkasan Dangkal (<300 Baris)**: Berkas PROBE yang hanya berisi 80–150 baris menandakan proses inquiry yang prematur, malas menelaah literatur riset, dan mereduksi kedalaman sains menjadi slogan normatif.
 2. **Dilarang Kloning Teks & Paragraf Boilerplate**: Setiap berkas harus memiliki argumentasi yang unik dan orisinal sesuai pertanyaan panduannya. Penggunaan paragraf yang sama persis secara massal antarberkas dianggap sebagai kegagalan penulisan (*intellectual defect*).
 3. **Dilarang Menggunakan Tautan DOI / Paywall Berbayar**: Dilarang menyertakan link `https://doi.org/...` berbayar. Gunakan sitasi metadata teks bersih (Penulis, Tahun, Judul, Nama Jurnal, Volume/No, Halaman).
 4. **Dilarang Overclaim Tanpa Rujukan**: Klaim psikologis atau neurosains tidak boleh ditulis tanpa landasan teori atau penelitian yang jelas.
+5. **Dilarang Menjadikan Bab 12.2 sebagai Daftar Isi / Roadmap Berkas (Anti-README Leakage)**: Bab 12.2 murni memuat *Emergent Research Questions* yang memantik penyelidikan menuju `P+1`. Dilarang memindahkan fungsi `README.md` atau roadmap katalog berkas ke dalam monograf riset.
 
 ---
 
-### 27.6. Audit Mandiri Volume & Rigor Sebelum Commit
+### 27.7. Audit Mandiri Volume & Rigor Sebelum Commit
 
 Sebelum berkas PROBE disahkan atau di-commit, lakukan verifikasi:
 ```text
 [ ] Apakah berkas disusun sebagai jurnal ilmiah jenis Review Paper komprehensif?
 [ ] Apakah volume teks telah melampaui 8.500 kata (>8.500 kata) substantif?
+[ ] Apakah seluruh bab (Bab 1–13) terhubung langsung dan konsisten ke Judul Berkas & TUMBUH Question?
+[ ] Apakah Bab 12.2 bebas dari daftar katalog/roadmap berkas dan murni memuat Emergent Research Questions?
+[ ] Apakah studi kasus dan tinjauan mematuhi boundary disiplin folder PROBE terkait?
 [ ] Apakah terdapat tinjauan literatur riset ilmiah ekstensif (nama peneliti, teori, metodologi, temuan empiris)?
 [ ] Apakah terdapat teks turats berbahasa Arab berharakat dengan takhrij kitab dan syarah mu'tabar yang kaya?
 [ ] Apakah terdapat sintesis dialektika konfrontatif Al-Jam'u wat-Taufiq antara syariat dan sains?
