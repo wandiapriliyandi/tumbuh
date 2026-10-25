@@ -399,156 +399,60 @@ Kumpulan dokumen yang telah stabil, lulus audit berlapis, dan disahkan oleh Kons
 
 ---
 
-## 10. Master Architectural Boundary Linter (Spesifikasi Teknis Engine Python)
+## 10. Spesifikasi Rekayasa Sistem: Logika Algoritmik & Matriks Penegakan CI/CD
 
-Berikut adalah cetak biru arsitektur logika dan algoritma penegakan otomatis yang diintegrasikan ke dalam alur kerja CI/CD repositori TUMBUH v2.0.0:
+Sebagai sebuah monograf desain sistem, penegakan integritas repositori tidak disajikan dalam bentuk skrip kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Algoritmik (Formal Algorithmic Logic Specification)** yang menjadi cetak biru bagi implementasi pipeline otomasi di infrastruktur teknis `.github/workflows/`:
 
-```python
-"""
-TUMBUH Master Architectural Boundary Linter (CI/CD Automated Fitness Function)
-File: .github/scripts/master_boundary_linter.py
-Repository: Ekosistem TUMBUH v2.0.0 (c:/xampp/htdocs/tumbuh)
-Fungsi: Memverifikasi pemisahan lapisan epistemik, mendeteksi dependensi terbalik,
-        dan memblokir klausul punitif/kekerasan secara deterministik.
-"""
+### 10.1. Model Matematis & Logika Relasi Graf Dependensi Antarlapisan
+Sistem repositori dimodelkan sebagai sebuah graf berarah terbobot $G = (V, E)$, di mana:
+- Himpunan simpul $V$ merepresentasikan seluruh berkas markdown di dalam repositori, terpartisi ke dalam sub-himpunan lapisan $V = L_1 \cup L_2 \cup L_3 \cup S \cup E \cup R \cup A$, dengan $L_1 = \text{01\_FUNDAMENTAL}$, $L_2 = \text{02\_IMPLEMENTATION}$, $L_3 = \text{03\_OPERATIONAL}$, $S = \text{source}$, $E = \text{08\_SOURCES\_AND\_EVIDENCE}$, $R = \text{09\_RESEARCH}$, dan $A = \text{99\_ARCHIVE}$.
+- Himpunan sisi berarah $E$ merepresentasikan tautan rujukan eksplisit antarberkas: $e = (u, v) \in E$ bermakna berkas $u$ memuat tautan markdown menuju berkas $v$.
 
-import os
-import re
-import sys
-from pathlib import Path
+Aturan larangan dependensi (*boundary constraints*) ditetapkan sebagai predikat invarian logis:
 
-# Definisi Peta Direktori Repositori
-REPO_ROOT = Path(__file__).resolve().parents[2]
-
-LAYER_HIERARCHY = {
-    "01_FUNDAMENTAL": 1,
-    "02_IMPLEMENTATION": 2,
-    "03_OPERATIONAL": 3,
-}
-
-ISOLATED_DIRS = ["source", "08_SOURCES_AND_EVIDENCE", "09_RESEARCH", "99_ARCHIVE"]
-
-# Leksikon Terlarang: Sanksi Punitif, Kekerasan Fisik, dan Pelanggaran Adab Fitrah
-PUNITIVE_PATTERNS = [
-    r"\b(sanksi\s+fisik|hukuman\s+fisik)\b",
-    r"\b(push[\s-]?up|sit[\s-]?up|scot[\s-]?jump)\s*(sebagai\s+hukuman|\d+\s*kali)?\b",
-    r"\b(denda\s+(uang|materi|rupiah)|potong\s+uang\s+saku)\b",
-    r"\b(dijemur|lari\s+keliling|siram\s+air|guyur\s+air)\b",
-    r"\b(botak\s+separuh|cukur\s+paksa|diarak\s+keliling)\b",
-    r"\b(tampar|pukul|rotan|cambuk|cubit)\b",
-    r"\b(mengisolasi\s+di\s+kamar\s+gelap|kurung\s+kamar)\b"
-]
-
-def audit_markdown_file(file_path):
-    """
-    Memeriksa satu berkas markdown terhadap aturan batas lapisan dan leksikon terlarang.
-    """
-    relative_path = file_path.relative_to(REPO_ROOT).as_posix()
-    violations = []
-
-    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-        content = f.read()
-
-    # 1. Pindai Leksikon Punitif Terlarang (Level 4 Critical Violation)
-    for pattern in PUNITIVE_PATTERNS:
-        matches = re.findall(pattern, content, flags=re.IGNORECASE)
-        if matches:
-            violations.append(
-                f"[CRITICAL PUNITIVE VIOLATION] Ditemukan klausul terlarang '{pattern}' di {relative_path}"
-            )
-
-    # 2. Pindai Seluruh Tautan Markdown untuk Memeriksa Arah Dependensi
-    # Pola: [text](target_path)
-    markdown_links = re.findall(r"\[.*?\]\((.*?)\)", content)
-    
-    current_layer = None
-    for layer_name in LAYER_HIERARCHY:
-        if layer_name in relative_path:
-            current_layer = layer_name
-            break
-
-    for link in markdown_links:
-        # Bersihkan fragmen URL (#section) dan abaikan tautan eksternal
-        clean_link = link.split("#")[0].strip()
-        if not clean_link or clean_link.startswith(("http://", "https://", "mailto:")):
-            continue
-
-        # Resolusi path absolut target tautan
-        target_path = (file_path.parent / clean_link).resolve()
-        try:
-            target_relative = target_path.relative_to(REPO_ROOT).as_posix()
-        except ValueError:
-            continue
-
-        target_layer = None
-        for layer_name in LAYER_HIERARCHY:
-            if layer_name in target_relative:
-                target_layer = layer_name
-                break
-
-        # Aturan A: 01_FUNDAMENTAL Dilarang Merujuk ke 03_OPERATIONAL (Inverted Dependency)
-        if current_layer == "01_FUNDAMENTAL" and target_layer == "03_OPERATIONAL":
-            violations.append(
-                f"[INVERTED DEPENDENCY VIOLATION] Lapisan Fundamental ({relative_path}) "
-                f"dilarang merujuk ke Lapisan Operasional ({target_relative})"
-            )
-
-        # Aturan B: 01_FUNDAMENTAL & 02_IMPLEMENTATION Dilarang Merujuk ke source/
-        if current_layer in ["01_FUNDAMENTAL", "02_IMPLEMENTATION"] and "source/" in target_relative:
-            violations.append(
-                f"[RAW INGESTION POLLUTION] Dokumen resmi ({relative_path}) "
-                f"dilarang merujuk langsung ke folder bahan mentah ({target_relative})"
-            )
-
-        # Aturan C: Dokumen Aktif Dilarang Merujuk ke 99_ARCHIVE/ (Zombie Dependency)
-        if "99_ARCHIVE" not in relative_path and "99_ARCHIVE" in target_relative:
-            violations.append(
-                f"[ZOMBIE ARTIFACT VIOLATION] Dokumen aktif ({relative_path}) "
-                f"dilarang merujuk berkas yang telah diarsipkan ({target_relative})"
-            )
-
-    return violations
-
-def main():
-    print("=" * 78)
-    print(" MENJALANKAN MASTER ARCHITECTURAL BOUNDARY LINTER (TUMBUH v2.0.0)")
-    print("=" * 78)
-
-    all_violations = []
-    scanned_count = 0
-
-    for root, _, files in os.walk(REPO_ROOT):
-        # Abaikan direktori git dan artefak sistem
-        if any(skip in root for skip in [".git", "node_modules", ".vscode", "tmp"]):
-            continue
-
-        for file in files:
-            if file.endswith((".md", ".markdown")):
-                file_path = Path(root) / file
-                scanned_count += 1
-                violations = audit_markdown_file(file_path)
-                if violations:
-                    all_violations.extend(violations)
-
-    print(f"Total berkas markdown dipindai: {scanned_count}")
-    print("-" * 78)
-
-    if all_violations:
-        print(f"FAILED! Ditemukan {len(all_violations)} pelanggaran integritas arsitektur:")
-        for idx, v in enumerate(all_violations, start=1):
-            print(f"  {idx}. {v}")
-        print("=" * 78)
-        print("STATUS: PULL REQUEST DITOLAK (BUILD FAILED). Silakan perbaiki pelanggaran di atas.")
-        sys.exit(1)
-    else:
-        print("SUCCESS! Seluruh lapisan repositori mematuhi batas arsitektural kanonik.")
-        print("Status: Kedaulatan epistemik terpelihara 100%. Build Passed.")
-        print("=" * 78)
-        sys.exit(0)
-
-if __name__ == "__main__":
-    main()
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                 PREDIKAT INVARIAN LOGIKA DEPENDENSI REPOSITORI              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ 1. Invarian Dependensi Terbalik  : ∀(u, v) ∈ E, (u ∈ L₁) ⇒ (v ∉ L₃)        │
+│ 2. Invarian Isolasi Bahan Mentah : ∀(u, v) ∈ E, (u ∈ L₁ ∪ L₂) ⇒ (v ∉ S)    │
+│ 3. Invarian Karantina Arsip Mati : ∀(u, v) ∈ E, (u ∉ A) ⇒ (v ∉ A)          │
+│ 4. Invarian Leksikon Punitif     : ∀u ∈ V, Content(u) ∩ Lexicon_punitif = ∅ │
+└─────────────────────────────────────────────────────────────────────────────┘
 ```
+
+Apabila salah satu predikat di atas menghasilkan nilai `FALSE`, pipeline integrasi berkelanjutan wajib membangkitkan sinyal kegagalan terminasi (*hard exit failure / exit code 1*) dan memblokir penggabungan cabang (*merge lock*).
+
+### 10.2. Mesin Status Validasi Integritas Repositori (Validation State Machine)
+
+Setiap pengajuan perubahan berkas (*Pull Request*) diproses melalui diagram status berurutan:
+
+```mermaid
+stateDiagram-v2
+    [*] --> Ingestion: PR Diajukan ke v2.0.0
+    Ingestion --> LexiconScan: Ekstraksi Diff Konten
+    LexiconScan --> DependencyGraphCheck: Bebas Klausul Punitif
+    LexiconScan --> Blocked: Ditemukan Sanksi Fisik (Level 4)
+    DependencyGraphCheck --> MetadataVerification: Bebas Inverted Dependency
+    DependencyGraphCheck --> Blocked: Pelanggaran Batas Lapisan (Level 3)
+    MetadataVerification --> PeerReview: Frontmatter & Silsilah Lengkap
+    MetadataVerification --> Blocked: Metadata Cacat / Yatim (Level 2)
+    PeerReview --> Approved: Verifikasi Makna Majelis Pakar
+    PeerReview --> Blocked: Ditolak Kurator Epistemik
+    Approved --> [*]: Merge ke Baseline Kanonik v2.0.0
+    Blocked --> [*]: Notifikasi Galat Otomatis ke Penulis
+```
+
+### 10.3. Matriks Kriteria Penolakan Deterministik Mesin CI/CD
+
+| ID Uji | Target Verifikasi | Metode Pengujian | Kondisi Pembatalan Build (Hard Failure) | Toleransi Deviasi |
+|---|---|---|---|:---:|
+| **VAL-01** | Kebocoran Dependensi Terbalik | AST Link Parser & Layer Resolver | Berkas di `01_FUNDAMENTAL/` memuat tautan ke `03_OPERATIONAL/` | **0 (Nol)** |
+| **VAL-02** | Pencemaran Bahan Mentah | Regex Path Ingestion Scanner | Berkas resmi di `01` atau `02` merujuk langsung ke folder `source/` | **0 (Nol)** |
+| **VAL-03** | Kebangkitan Dokumen Usang | Tombstone Cross-Checker | Berkas aktif merujuk dokumen di dalam folder `99_ARCHIVE/` | **0 (Nol)** |
+| **VAL-04** | Infiltrasi Klausul Punitif | Multi-Language Punitive Lexicon | Ditemukan kata kunci kekerasan fisik, tamparan, denda materi, dll. | **0 (Nol)** |
+| **VAL-05** | Integritas Keterlacakan SOP | Provenance Header Inspector | Dokumen operasional di `03` tidak memiliki tautan induk ke `01`/`02` | **0 (Nol)** |
+| **VAL-06** | Keabsahan Format Metadata | YAML Schema Strict Validator | Frontmatter tidak memuat ID Penyelidikan, Status, dan Silsilah | **0 (Nol)** |
 
 ---
 

@@ -355,61 +355,30 @@ proses dialektika resmi di direktori PROBE/.
 
 ---
 
-### 9.3. Spesifikasi Skrip Static Semantic Linter untuk Lapisan Bukti (Git CI/CD Hooks)
-Untuk mencegah terjadinya pembajakan kebijakan dan kelalaian format, sistem Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*linter*) yang memvalidasi setiap perubahan pada folder `08_SOURCES_AND_EVIDENCE/`:
+### 9.3. Spesifikasi Rekayasa Sistem: Logika Verifikasi Semantik Bukti & Matriks Anti-Overclaim
 
-```python
-# scripts/lint_sources_and_evidence.py
-import re
-import sys
-import pathlib
+Sebagai naskah monograf ilmiah desain sistem, pengujian lapisan bukti tidak disajikan dalam bentuk kode skrip mentah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Semantik Bukti (Formal Evidence Semantic Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-PROHIBITED_WORDS = [
-    r"wajib diterapkan",
-    r"secara otomatis mengubah",
-    r"mandat sistem",
-    r"proven effective everywhere",
-    r"valid tanpa batas",
-    r"sebagai pengganti prinsip dasar",
-    r"status normatif resmi"
-]
+#### 9.3.1. Model Matematis & Predikat Non-Normatif Lapisan 08
+Misalkan $E$ merepresentasikan himpunan seluruh berkas bukti di dalam direktori `08_SOURCES_AND_EVIDENCE/`. Setiap berkas bukti $e \in E$ wajib mematuhi dua predikat logika mutlak:
 
-def audit_evidence_file(file_path):
-    errors = []
-    text = file_path.read_text(encoding="utf-8")
-    
-    # 1. Periksa keberadaan header standar
-    if not re.search(r"^# EVD-\d{4}-", text, re.MULTILINE):
-        errors.append(f"Header file tidak mengikuti konvensi EVD-[TAHUN]-: {file_path.name}")
-        
-    # 2. Periksa keberadaan klausul Batasan Klaim (Non-Normative Statement)
-    if "Pernyataan Batasan Klaim" not in text and "Non-Normative Statement" not in text:
-        errors.append(f"Hilang klausul wajib 'Pernyataan Batasan Klaim' di {file_path.name}")
-        
-    # 3. Periksa keberadaan kata-kata overclaim terlarang
-    for pattern in PROHIBITED_WORDS:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            errors.append(f"Ditemukan klaim normatif ilegal ('{match.group(0)}') pada file bukti: {file_path.name}")
-            
-    return errors
+1. **Predikat Non-Normatif Mutlak (Zero-Normative Invariant)**:
+   $$\forall e \in E, \quad \text{Content}(e) \cap \mathcal{L}_{\text{normatif}} = \emptyset$$
+   di mana $\mathcal{L}_{\text{normatif}}$ adalah leksikon imperatif ("wajib diterapkan", "secara otomatis mengubah", "mandat sistem", "status normatif resmi", "proven effective everywhere").
 
-if __name__ == "__main__":
-    evidence_dir = pathlib.Path("08_SOURCES_AND_EVIDENCE")
-    all_errors = []
-    if evidence_dir.exists():
-        for md_file in evidence_dir.glob("*.md"):
-            all_errors.extend(audit_evidence_file(md_file))
-            
-    if all_errors:
-        print("[GAGAL AUDIT CI/CD] Pelanggaran Arsitektur Lapisan Bukti Ditemukan:")
-        for err in all_errors:
-            print(f" - {err}")
-        sys.exit(1)
-    else:
-        print("[SUKSES AUDIT CI/CD] Seluruh berkas Lapisan 08 mematuhi aturan epistemik kanonik.")
-        sys.exit(0)
-```
+2. **Predikat Batasan Klaim Kontekstual (Boundary Condition Invariant)**:
+   $$\forall e \in E, \quad \text{HasClause}(e, \text{"Non-Normative Statement"}) = \text{TRUE}$$
+   Setiap berkas bukti wajib menyertakan klausul eksplisit bahwa data teramati tidak memiliki mandat mandiri untuk mengubah regulasi lembaga tanpa melalui proses tarjih dialektis di `PROBE/`.
+
+#### 9.3.2. Matriks Parameter Pengujian Integritas Bukti Lapisan 08
+
+| Parameter Pengujian | Pola Terlarang / Wajib | Alasan Epistemik | Status Mesin CI/CD |
+|---|---|---|:---:|
+| **Klaim Regulasi Otomatis** | "Secara otomatis mengubah", "mandat sistem" | Kerancuan wewenang saksi bayyinah menjadi hakim pemutus | **REJECT (Exit 1)** |
+| **Overclaim Generalisasi** | "Proven effective everywhere", "valid mutlak" | Pelanggaran batas kondisi lokalitas bukti empiris | **REJECT (Exit 1)** |
+| **Ketiadaan Header Bukti** | Format non-standar `EVD-[TAHUN]-` | Kerusakan tata kelola kearsipan bukti terstruktur | **REJECT (Exit 1)** |
+| **Ketiadaan Batasan Klaim** | Hilangnya banner pernyataan non-normatif | Bahaya pencemaran data mentah menjadi vonis hukum | **REJECT (Exit 1)** |
+| **Lompatan Langsung ke SOP**| Bukti langsung dijadikan acuan di Lapis 03 | Pelanggaran alur Source $\to$ Probe $\to$ Decision | **REJECT (Exit 1)** |
 
 ---
 

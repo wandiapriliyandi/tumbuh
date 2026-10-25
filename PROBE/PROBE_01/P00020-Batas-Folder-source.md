@@ -149,7 +149,9 @@ Dalam rekayasa data modern skala besar (*modern data lakehouse architecture*; Da
 3. **Gold Layer (Curated Business Canon / 01_FUNDAMENTAL/)**:
    Zona data terkurasi tingkat tinggi yang memuat model inti, metrik resmi, dan konstitusi kelembagaan yang telah disahkan. Seluruh pengguna akhir (musyrif, santri, guru) hanya boleh berinteraksi dengan zona Gold ini.
 
-Mengadopsi arsitektur Medallion ini ke dalam repositori berbasis Git memastikan bahwa tidak ada satu pun komponen operasional di pesantren yang mengonsumsi data langsung dari lapisan Bronze (`source/`). Seluruh aliran data wajib menaiki tangga pemurnian Bronze $ightarrow$ Silver $ightarrow$ Gold secara tertib.
+Mengadopsi arsitektur Medallion ini ke dalam repositori berbasis Git memastikan bahwa tidak ada satu pun komponen operasional di pesantren yang mengonsumsi data langsung dari lapisan Bronze (`source/`). Seluruh aliran data wajib menaiki tangga pemurnian Bronze $
+ightarrow$ Silver $
+ightarrow$ Gold secara tertib.
 
 ## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq)
 
@@ -348,64 +350,30 @@ Rekaman Suara Pribadi   -> Disimpan di server luring terenkripsi; hanya transkri
 
 ---
 
-### 9.3. Spesifikasi Skrip Static Semantic Linter Pemblokir Dependensi Bahan Mentah (Git CI/CD Hooks)
-Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*raw source reference blocker*) yang memindai setiap berkas di lapisan operasional (`03_`), implementasi (`02_`), dan fundamental (`01_`) untuk memastikan bahwa tidak ada satu pun dokumen kebijakan yang membuat dependensi ilegal ke dalam folder `source/`:
+### 9.3. Spesifikasi Rekayasa Sistem: Logika Karantina Bahan Mentah & Matriks Purifikasi PII
 
-```python
-# scripts/lint_source_boundary.py
-import re
-import sys
-import pathlib
+Sebagai naskah monograf ilmiah desain sistem, penegakan karantina bahan mentah dikodifikasikan melalui **Spesifikasi Formal Logika Karantina Data Mentah (Formal Raw Ingestion Quarantine Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-PROHIBITED_RAW_DEPENDENCY = r"(\.\./)*source/[a-zA-Z0-9_\-/]+\.(md|txt|csv|pdf|png|jpg)"
+#### 9.3.1. Model Matematis & Predikat Karantina Direktori source/
+Misalkan $S$ merepresentasikan himpunan seluruh berkas di direktori `source/`. Setiap berkas mentah $s \in S$ diikat oleh predikat ontologis mutlak:
 
-def audit_canonical_layers():
-    canonical_dirs = ["01_FUNDAMENTAL", "02_IMPLEMENTATION", "03_OPERATIONAL"]
-    errors = []
-    
-    for c_dir in canonical_dirs:
-        dir_path = pathlib.Path(c_dir)
-        if not dir_path.exists():
-            continue
-            
-        for md_file in dir_path.rglob("*.md"):
-            text = md_file.read_text(encoding="utf-8")
-            
-            # 1. Cari tautan markdown ilegal yang merujuk ke folder source/
-            matches = re.finditer(PROHIBITED_RAW_DEPENDENCY, text, re.IGNORECASE)
-            for m in matches:
-                errors.append(f"Dokumen resmi {md_file.name} memuat tautan ilegal langsung ke bahan mentah: '{m.group(0)}'")
-                
-            # 2. Periksa apakah ada kutipan langsung yang menjadikan source/ sebagai dalil norma
-            if "berdasarkan berkas source/" in text.lower() or "mengikuti dokumen source/" in text.lower():
-                errors.append(f"Dokumen resmi {md_file.name} menjadikan bahan mentah source/ sebagai dasar legitimasi kebijakan!")
-                
-    return errors
+1. **Predikat Nol Kebenaran Kanonik (Zero Source-of-Truth Invariant)**:
+   $$\forall s \in S, \quad \text{SourceOfTruth}(s) = \text{FALSE}$$
+   Seluruh rekaman suara, catatan kasar, transkrip wawancara, dan draf coretan di `source/` memiliki bobot otoritas nol dan haram dijadikan dasar legitimasi operasional pesantren.
 
-def audit_source_banners():
-    source_dir = pathlib.Path("source")
-    errors = []
-    if not source_dir.exists():
-        return errors
-        
-    for md_file in source_dir.rglob("*.md"):
-        text = md_file.read_text(encoding="utf-8")
-        if "BAHAN KERJA MENTAH NON-OTORITATIF" not in text and "source_of_truth: FALSE" not in text:
-            errors.append(f"Berkas mentah {md_file.relative_to(source_dir.parent)} tidak memiliki banner peringatan non-otoritatif wajib!")
-            
-    return errors
+2. **Predikat Isolasi Rujukan Kanonik (Zero Inbound Canonical Reference)**:
+   $$\forall u \in (L_1 \cup L_2 \cup L_3), \quad \forall s \in S, \quad (u, s) \notin E$$
+   Dilarang keras bagi dokumen di lapisan `01_FUNDAMENTAL`, `02_IMPLEMENTATION`, atau `03_OPERATIONAL` merujuk langsung ke berkas di folder `source/`. Seluruh data mentah wajib melalui penyaringan di `08_SOURCES_AND_EVIDENCE/` dan penimbangan di `PROBE/`.
 
-if __name__ == "__main__":
-    all_errs = audit_canonical_layers() + audit_source_banners()
-    if all_errs:
-        print("[GAGAL AUDIT CI/CD] Pelanggaran Batas Folder source/ (Bahan Mentah) Ditemukan:")
-        for err in all_errs:
-            print(f" - {err}")
-        sys.exit(1)
-    else:
-        print("[SUKSES AUDIT CI/CD] Seluruh berkas repositori mematuhi aturan demarkasi bahan mentah (Not Source of Truth).")
-        sys.exit(0)
-```
+#### 9.3.2. Matriks Parameter Pipa Purifikasi Data Mentah (source/ $\to$ 08_ $\to$ PROBE)
+
+| Tahap Pemurnian Data | Target Operasional | Risiko Jika Dilompati | Mekanisme Validasi Mesin CI |
+|---|---|---|:---:|
+| **1. Karantina Ingestion** | Penempatan di `source/` dengan banner non-otoritatif | Draf mentah disangka perintah dinas resmi | Pengecekan banner wajib `source_of_truth: FALSE` |
+| **2. Sanitasi Privasi (PII)** | Penghapusan nama santri, aib keluarga, data medis | Pelanggaran UU PDP dan hukum ghibah syar'i | Pemindaian pola nomor induk, NIK, dan nama pribadi |
+| **3. Pembersihan Data** | Verifikasi keaslian rekaman & eliminasi distorsi | Data rusak (*dirty data*) melahirkan aturan timpang | Audit metodologis sampling dan triangulasi saksi |
+| **4. Transformasi Bukti** | Pencatatan terstruktur di `08_SOURCES_EVIDENCE` | Data mentah mengotori naskah konstitusi sistem | Validasi format kodefikasi `EVD-[TAHUN]-` |
+| **5. Tarjih Dialektis** | Penimbangan maslahat-mafsadat di `PROBE/` | Vonis sepihak tanpa pembatasan kondisi lokal | Uji rigoritas 13 bagian jurnal riset desain |
 
 ---
 

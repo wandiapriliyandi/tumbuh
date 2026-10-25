@@ -352,61 +352,29 @@ yang akan diajukan ke meja inkuiri PROBE/.]
 
 ---
 
-### 9.3. Spesifikasi Skrip Static Semantic Linter untuk Lapisan Riset (Git CI/CD Hooks)
-Untuk mengunci pagar pembatas agar tidak terjadi kebocoran draf riset menjadi kebijakan, sistem Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*linter*) yang memvalidasi setiap perubahan pada folder `09_RESEARCH/`:
+### 9.3. Spesifikasi Rekayasa Sistem: Logika Isolasi Sandbox Riset & Matriks Penegakan Non-Otoritatif
 
-```python
-# scripts/lint_research_layer.py
-import re
-import sys
-import pathlib
+Sebagai naskah monograf ilmiah desain sistem, pengawasan batas inkubasi riset dikodifikasikan melalui **Spesifikasi Formal Logika Isolasi Sandbox (Formal Sandbox Isolation Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-PROHIBITED_DIRECTIVES = [
-    r"dengan ini ditetapkan",
-    r"diwajibkan kepada seluruh santri",
-    r"SOP resmi asrama",
-    r"mulai berlaku sejak tanggal",
-    r"sanksi bagi yang melanggar",
-    r"surat keputusan yayasan",
-    r"peraturan baku pesantren"
-]
+#### 9.3.1. Model Matematis & Predikat Isolasi Lapisan 09
+Misalkan $R$ merepresentasikan himpunan seluruh berkas penelitian di dalam direktori `09_RESEARCH/`. Setiap berkas riset $r \in R$ diikat oleh predikat invarian isolasi:
 
-def audit_research_file(file_path):
-    errors = []
-    text = file_path.read_text(encoding="utf-8")
-    
-    # 1. Periksa keberadaan header standar
-    if not re.search(r"^# RES-\d{4}-", text, re.MULTILINE):
-        errors.append(f"Header file tidak mengikuti konvensi RES-[TAHUN]-: {file_path.name}")
-        
-    # 2. Periksa keberadaan kotak peringatan status non-regulative
-    if "DOKUMEN RISET EKSPLORATIF MANDIRI" not in text:
-        errors.append(f"Hilang kotak peringatan wajib 'DOKUMEN RISET EKSPLORATIF MANDIRI' di {file_path.name}")
-        
-    # 3. Periksa keberadaan klausul perintah regulatif terlarang
-    for pattern in PROHIBITED_DIRECTIVES:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            errors.append(f"Ditemukan kalimat perintah regulatif ilegal ('{match.group(0)}') pada file riset: {file_path.name}")
-            
-    return errors
+1. **Predikat Nol Otoritas Kebijakan (Zero Policy Authority Invariant)**:
+   $$\forall r \in R, \quad \text{AuthorityDegree}(r) = 0$$
+   Berkas riset berstatus eksploratif murni dan dilarang mendeklarasikan regulasi operasional pesantren.
 
-if __name__ == "__main__":
-    research_dir = pathlib.Path("09_RESEARCH")
-    all_errors = []
-    if research_dir.exists():
-        for md_file in research_dir.glob("*.md"):
-            all_errors.extend(audit_research_file(md_file))
-            
-    if all_errors:
-        print("[GAGAL AUDIT CI/CD] Kebocoran Regulasi pada Lapisan Riset Ditemukan:")
-        for err in all_errors:
-            print(f" - {err}")
-        sys.exit(1)
-    else:
-        print("[SUKSES AUDIT CI/CD] Seluruh berkas Lapisan 09 mematuhi aturan isolasi riset.")
-        sys.exit(0)
-```
+2. **Predikat Karantina Dependensi Aktif (Active Dependency Quarantine)**:
+   $$\forall u \in (L_1 \cup L_2 \cup L_3), \quad \forall r \in R, \quad (u, r) \notin E$$
+   Tidak boleh ada dokumen kanonik resmi (`01`, `02`, `03`) yang bersandar pada hipotesis riset yang belum lulus uji promosi melalui jalur inkuiri `PROBE/`.
+
+#### 9.3.2. Matriks Parameter Pengujian Isolasi Riset Lapisan 09
+
+| Parameter Verifikasi | Pola Terlarang / Wajib | Alasan Epistemik | Status Mesin CI/CD |
+|---|---|---|:---:|
+| **Deklarasi Kebijakan Resmi** | "Kebijakan resmi lembaga", "surat keputusan pengasuhan" | Kerancuan wewenang riset eksploratif membajak regulasi | **REJECT (Exit 1)** |
+| **Penyusupan ke Regulasi** | Tautan langsung dari `03_OPERATIONAL` ke `09_RESEARCH` | Kebocoran sandbox; santri dijadikan objek eksperimen liar | **REJECT (Exit 1)** |
+| **Ketiadaan Banner Sandbox** | Berkas riset tanpa label `SANDBOX / EXPLORATORY ONLY` | Ambivalensi status berkas membingungkan praktisi | **REJECT (Exit 1)** |
+| **Ketiadaan Batasan Etik** | Protokol penelitian santri tanpa *Ethical Clearance* | Pelanggaran perlindungan anak dan hak privasi santri | **REJECT (Exit 1)** |
 
 ---
 

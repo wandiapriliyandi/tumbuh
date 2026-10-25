@@ -350,72 +350,29 @@ git commit -m "archive(operational): mempensiunkan SOP_LAMA_2019 ke 99_ARCHIVE v
 
 ---
 
-### 9.3. Spesifikasi Skrip Static Semantic Linter Anti-Dependensi Terbalik (Git CI/CD Hooks)
-Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*reverse dependency blocker*) yang memverifikasi bahwa tidak ada satu pun berkas di direktori aktif (`01_` s/d `03_`) yang secara keliru merujuk atau mewajibkan prosedur yang tersimpan di dalam `99_ARCHIVE/`:
+### 9.3. Spesifikasi Rekayasa Sistem: Logika Integritas Tombstone & Matriks Anti-Resureksi Berkas Usang
 
-```python
-# scripts/lint_archive_layer.py
-import re
-import sys
-import pathlib
+Sebagai naskah monograf ilmiah desain sistem, tata kelola arsip dikodifikasikan melalui **Spesifikasi Formal Logika Pembekuan Arsip (Formal Archive Sealing Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-PROHIBITED_IN_ARCHIVE = [
-    r"mulai berlaku efektif sejak",
-    r"wajib dipatuhi oleh seluruh santri hari ini",
-    r"status dokumen: AKTIF"
-]
+#### 9.3.1. Model Matematis & Predikat Karantina Arsip Lapisan 99
+Misalkan $A$ merepresentasikan himpunan seluruh berkas usang di dalam direktori `99_ARCHIVE/`. Setiap berkas arsip $a \in A$ wajib mematuhi predikat penyegelan:
 
-def audit_archive_immutability():
-    archive_dir = pathlib.Path("99_ARCHIVE")
-    errors = []
-    if not archive_dir.exists():
-        return errors
-        
-    for md_file in archive_dir.rglob("*.md"):
-        text = md_file.read_text(encoding="utf-8")
-        
-        # 1. Periksa keberadaan blok Tombstone
-        if "DOKUMEN CAGAR SEJARAH" not in text and "status: DEPRECATED_AND_ARCHIVED" not in text:
-            errors.append(f"Berkas arsip hilang penanda nisan (Tombstone): {md_file.relative_to(archive_dir.parent)}")
-            
-        # 2. Periksa keberadaan klaim aktif ilegal
-        for pattern in PROHIBITED_IN_ARCHIVE:
-            if re.search(pattern, text, re.IGNORECASE):
-                errors.append(f"Ditemukan klaim dokumen aktif ilegal di dalam arsip: {md_file.name}")
-                
-    return errors
+1. **Predikat Keberadaan Tombstone Wajib (Mandatory Tombstone Invariant)**:
+   $$\forall a \in A, \quad \text{HasMetadata}(a, \text{"status: DEPRECATED"}) \land \text{HasMetadata}(a, \text{"replacement_doc"})$$
+   Setiap berkas yang dipindahkan ke arsip wajib memiliki nisan digital (*tombstone banner*) yang menerangkan alasan keusangan, tanggal pembekuan, dan dokumen kanonik penggantinya.
 
-def audit_reverse_dependencies():
-    active_dirs = ["01_FUNDAMENTAL", "02_IMPLEMENTATION", "03_OPERATIONAL"]
-    errors = []
-    
-    for act_dir in active_dirs:
-        dir_path = pathlib.Path(act_dir)
-        if not dir_path.exists():
-            continue
-            
-        for md_file in dir_path.rglob("*.md"):
-            text = md_file.read_text(encoding="utf-8")
-            # Cari apakah ada tautan aktif yang merujuk ke 99_ARCHIVE sebagai prosedur operasional
-            matches = re.findall(r"\[([^\]]+)\]\(([^)]*99_ARCHIVE[^)]*)\)", text)
-            for label, url in matches:
-                # Tautan ke arsip hanya diizinkan jika label teks eksplisit menyebut kata 'arsip' atau 'sejarah'
-                if not any(k in label.lower() for k in ["arsip", "sejarah", "lama", "deprecated", "legacy"]):
-                    errors.append(f"Dokumen aktif {md_file.name} memiliki ketergantungan terbalik ilegal ke arsip: {url}")
-                    
-    return errors
+2. **Predikat Anti-Resureksi Berkas Mati (Zero Zombie Dependency Invariant)**:
+   $$\forall u \notin A, \quad \forall a \in A, \quad (u, a) \notin E$$
+   Dilarang keras bagi dokumen aktif di lapisan `01`, `02`, atau `03` merujuk berkas yang telah mati di dalam arsip sebagai acuan hukum operasional yang berlaku.
 
-if __name__ == "__main__":
-    errs = audit_archive_immutability() + audit_reverse_dependencies()
-    if errs:
-        print("[GAGAL AUDIT CI/CD] Pelanggaran Arsitektur Tata Kelola Arsip Ditemukan:")
-        for e in errs:
-            print(f" - {e}")
-        sys.exit(1)
-    else:
-        print("[SUKSES AUDIT CI/CD] Seluruh berkas Lapisan 99_ARCHIVE mematuhi aturan preservasi cagar sejarah.")
-        sys.exit(0)
-```
+#### 9.3.2. Matriks Parameter Pengujian Integritas Arsip Lapisan 99
+
+| Parameter Audit | Pola Terlarang / Wajib | Dampak Epistemik | Status Mesin CI/CD |
+|---|---|---|:---:|
+| **Kebangkitan Berkas Zombie** | Dokumen aktif merujuk berkas di `99_ARCHIVE/` | Menghidupkan kembali regulasi lama yang telah dibatalkan | **REJECT (Exit 1)** |
+| **Arsip Tanpa Tombstone** | Berkas di `99_` tanpa banner alasan pembekuan | Kehilangan silsilah keputusan historis (*lineage break*) | **REJECT (Exit 1)** |
+| **Modifikasi Berkas Arsip** | Pengubahan konten substansi berkas yang telah beku | Pemalsuan rekam jejak sejarah intelektual lembaga | **REJECT (Exit 1)** |
+| **Penghapusan Hard Delete** | Menghapus tuntas berkas lama tanpa pengarsipan | Hilangnya pertanggungjawaban audit masa lalu | **REJECT (Exit 1)** |
 
 ---
 

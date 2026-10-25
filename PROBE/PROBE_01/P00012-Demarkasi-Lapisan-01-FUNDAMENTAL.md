@@ -363,71 +363,28 @@ ALUR KERJA ZERO-DEPENDENCY LINTER LAPISAN 01_FUNDAMENTAL
                                 Pindahkan ke Lapis 03"  Valid, dan Sah!"
 ```
 
-### 9.2. Skrip Pemeriksaan Otomatis Kernel Murni (Zero-Dependency Invariant Checker)
-Berikut adalah spesifikasi algoritma skrip verifikasi dependensi (`tools/verify_fundamental_kernel.py`) yang menjadi penjaga gawang lapisan fundamental:
+### 9.2. Spesifikasi Rekayasa Sistem: Logika Invarian Zero-Dependency & Matriks Purifikasi
+Sebagai sebuah monograf desain sistem, penegakan kemurnian konstitusi Fundamental tidak disajikan dalam bentuk kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Invarian Kernel (Formal Kernel Invariant Specification)** yang menjadi acuan pengujian otomatis (*Automated Architectural Fitness Function*):
 
-```python
-# -*- coding: utf-8 -*-
-"""
-TUMBUH Kernel Protection Linter (v2.0.0 Canonical)
-Memverifikasi kemurnian mutlak berkas di lapisan 01_FUNDAMENTAL/.
-"""
+#### 9.2.1. Model Matematis Kemurnian Aksiomatis Fundamental (Kernel Purity Axiom)
+Lapisan `01_FUNDAMENTAL` dikonseptualisasikan sebagai simpul akar (*root node*) dalam graf berarah asiklik repositori. Misalkan $K$ adalah himpunan seluruh berkas di dalam `01_FUNDAMENTAL`.
 
-import os
-import re
-import sys
+Aksioma kemurnian kernel menetapkan bahwa derajat keluar (*out-degree*) dependensi internal dari $K$ menuju lapisan non-fundamental adalah nol mutlak:
+$$\forall u \in K, \quad \text{OutDegree}_{\text{internal}}(u \to \{02, 03, \text{source}\}) = 0$$
 
-FUNDAMENTAL_DIR = r"c:\xampp\htdocs\tumbuh\01_FUNDAMENTAL"
+Secara semantik, konten teks berkas fundamental $C(u)$ wajib terbebas dari leksikon teknis operasional temporer:
+$$C(u) \cap \mathcal{L}_{\text{polusi}} = \emptyset$$
+di mana $\mathcal{L}_{\text{polusi}}$ mencakup leksikon mata uang rupiah, durasi menit harian, nomor formulir SOP, jadwal piket kamar, dan sanksi fisik.
 
-# Pola terlarang yang haram muncul di 01_FUNDAMENTAL
-FORBIDDEN_DEPENDENCY_PATTERNS = [
-    r"02_IMPLEMENTATION",
-    r"03_OPERATIONAL",
-    r"PROBE/",
-    r"REFERENCES/",
-    r"SOP-\d+",
-    r"FORM-\d+",
-    r"Rp\s*[\d\.]+",         # Deteksi mata uang rupiah
-    r"\d+\s*menit",           # Deteksi ukuran waktu menit teknis
-    r"push-up",               # Deteksi sanksi fisik
-    r"jadwal\s+piket",        # Deteksi teknis piket
-    r"nomor\s+rekening"       # Deteksi perbankan
-]
+#### 9.2.2. Matriks Pengujian Kemurnian Lapisan 01_FUNDAMENTAL
 
-def scan_fundamental_kernel():
-    violations = []
-    if not os.path.exists(FUNDAMENTAL_DIR):
-        print(f"[ERROR] Direktori {FUNDAMENTAL_DIR} tidak ditemukan!")
-        sys.exit(1)
-
-    for root, _, files in os.walk(FUNDAMENTAL_DIR):
-        for file in files:
-            if not file.endswith(".md"):
-                continue
-            filepath = os.path.join(root, file)
-            with open(filepath, "r", encoding="utf-8") as f:
-                content = f.read()
-                for pattern in FORBIDDEN_DEPENDENCY_PATTERNS:
-                    matches = re.findall(pattern, content, re.IGNORECASE)
-                    if matches:
-                        violations.append({
-                            "file": file,
-                            "pattern": pattern,
-                            "matches": matches
-                        })
-    return violations
-
-if __name__ == "__main__":
-    results = scan_fundamental_kernel()
-    if results:
-        print(f"[FATAL KERNEL POLLUTION] Ditemukan {len(results)} pelanggaran demarkasi di 01_FUNDAMENTAL:")
-        for v in results:
-            print(f"  - Berkas: {v['file']} memuat polusi teknis '{v['pattern']}': {v['matches']}")
-        sys.exit(1)
-    else:
-        print("[SUCCESS] Seluruh berkas 01_FUNDAMENTAL/ terverifikasi 100% murni dan berstatus Zero-Dependency Invariant!")
-        sys.exit(0)
-```
+| Kategori Polusi Teknis | Pola Leksikon Terlarang | Alasan Pengharaman Epistemik | Status Penolakan CI |
+|---|---|---|:---:|
+| **Rujukan Lapis Hilir** | `02_IMPLEMENTATION`, `03_OPERATIONAL` | Pelanggaran The Dependency Rule (dependensi terbalik) | **FATAL (Exit 1)** |
+| **Klausul Finansial** | Nilai nominal rupiah, tarif denda, rekening | Reduksi nilai tarbiyah menjadi transaksi komersial | **FATAL (Exit 1)** |
+| **Spesifikasi Waktu Mikro** | Jam menit teknis, durasi apel, bel harian | Menjadikan jadwal temporer sebagai doktrin abadi | **FATAL (Exit 1)** |
+| **Instrumen Lapangan** | Nomor formulir, buku saku sanksi, kartu izin | Mengikat filosofi pada perangkat administratif fana | **FATAL (Exit 1)** |
+| **Sanksi Punitif Fisik** | Push-up, tamparan, sit-up, lari keliling | Bertentangan mutlak dengan fitrah dan rahmah Islam | **FATAL (Exit 1)** |
 
 ### 9.3. Protokol Penanganan Insiden Pelanggaran Batas Kernel (Kernel Violation Recovery Protocol)
 Apabila dalam proses audit berkala ditemukan adanya pasal teknis atau referensi operasional yang lolos masuk ke dalam lapisan `01_FUNDAMENTAL`, sistem memberlakukan protokol penanganan insiden darurat dengan empat langkah terstandarisasi:

@@ -344,61 +344,29 @@ prosedur teknis tersebut.
 
 ---
 
-### 9.2. Spesifikasi Skrip Static Semantic Linter Penangkal Doktrin Substantif (Git CI/CD Hooks)
-Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*substantive doctrine filter*) yang memindai setiap berkas di dalam direktori `METHODOLOGY/` untuk mendeteksi dan menggagalkan upaya penyelundupan definisi filosofis baru:
+### 9.2. Spesifikasi Rekayasa Sistem: Logika Demarkasi Prosedural & Matriks Anti-Imperialisme Metodologi
 
-```python
-# scripts/lint_methodology_boundary.py
-import re
-import sys
-import pathlib
+Sebagai naskah monograf ilmiah desain sistem, pembatasan wewenang metodologi dikodifikasikan melalui **Spesifikasi Formal Logika Demarkasi Prosedural (Formal Procedural Demarcation Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-PROHIBITED_SUBSTANTIVE_CLAUSES = [
-    r"hakikat fitrah adalah",
-    r"definisi pilar adab ditetapkan sebagai",
-    r"konstitusi filosofis santri",
-    r"tata tertib wajib asrama",
-    r"sanksi pelanggaran santri",
-    r"hukum syariat menetapkan secara mutlak bahwa",
-    r"jenjang kemandirian J1-J4 diubah menjadi"
-]
+#### 9.2.1. Model Matematis & Predikat Pembatasan Wewenang METHODOLOGY/
+Misalkan $M$ merepresentasikan himpunan seluruh berkas di direktori `METHODOLOGY/`. Setiap berkas metodologi $m \in M$ diikat oleh predikat fungsional:
 
-def audit_methodology_file(file_path):
-    errors = []
-    text = file_path.read_text(encoding="utf-8")
-    
-    # 1. Periksa keberadaan header standar
-    if not re.search(r"^# MET-[A-Z]+-\d{4}:", text, re.MULTILINE):
-        errors.append(f"Header file tidak mengikuti konvensi MET-[KODE]-[NOMOR]: {file_path.name}")
-        
-    # 2. Periksa keberadaan kotak catatan yurisdiksi non-substantif
-    if "DOKUMEN ILMU ALAT PROSEDURAL" not in text:
-        errors.append(f"Hilang kotak catatan wajib 'DOKUMEN ILMU ALAT PROSEDURAL' di {file_path.name}")
-        
-    # 3. Periksa ketiadaan klausul penyelundupan doktrin substantif
-    for pattern in PROHIBITED_SUBSTANTIVE_CLAUSES:
-        match = re.search(pattern, text, re.IGNORECASE)
-        if match:
-            errors.append(f"Ditemukan klaim doktrin substantif ilegal ('{match.group(0)}') di lapisan metodologi: {file_path.name}")
-            
-    return errors
+1. **Predikat Pelayan Instrumental Murni (Instrumental Servant Invariant)**:
+   $$\forall m \in M, \quad \text{Domain}(m) \subseteq \text{ProsedurInquiry} \land \text{Domain}(m) \cap \text{DoktrinNilai} = \emptyset$$
+   Direktori `METHODOLOGY/` bertugas mengatur tata cara inkuiri, standarisasi sitasi, dan verifikasi bukti, namun dilarang keras merumuskan doktrin teologis atau nilai filosofis pendidikan.
 
-if __name__ == "__main__":
-    methodology_dir = pathlib.Path("METHODOLOGY")
-    all_errors = []
-    if methodology_dir.exists():
-        for md_file in methodology_dir.rglob("*.md"):
-            all_errors.extend(audit_methodology_file(md_file))
-            
-    if all_errors:
-        print("[GAGAL AUDIT CI/CD] Pelanggaran Batas Kewenangan Metodologi Ditemukan:")
-        for err in all_errors:
-            print(f" - {err}")
-        sys.exit(1)
-    else:
-        print("[SUKSES AUDIT CI/CD] Seluruh berkas Direktori METHODOLOGY mematuhi kaidah ilmu alat murni.")
-        sys.exit(0)
-```
+2. **Predikat Larangan Penetrasi Doktrinal (Zero Doctrinal Imperialism)**:
+   $$\forall m \in M, \quad \text{Content}(m) \cap \mathcal{L}_{\text{doktrin}} = \emptyset$$
+   di mana $\mathcal{L}_{\text{doktrin}}$ mencakup pendefinisian rukun akidah, hakikat ruh, dan hakikat fitrah (yang merupakan hak eksklusif `01_FUNDAMENTAL/`).
+
+#### 9.2.2. Matriks Parameter Pengujian Batas Direktori METHODOLOGY/
+
+| Parameter Uji | Pola Terlarang / Wajib | Alasan Epistemik | Status Mesin CI/CD |
+|---|---|---|:---:|
+| **Perumusan Doktrin Nilai** | Mendefinisikan filosofi fitrah/akidah di METHODOLOGY | Imperialisme metodologi melampaui mandat prosedural | **REJECT (Exit 1)** |
+| **Penetapan Regulasi Santri**| Mengatur tata tertib santri di dalam panduan riset | Kerancuan wewenang instrumen riset menjadi aturan asrama | **REJECT (Exit 1)** |
+| **Kepatuhan Protokol Riset** | Standarisasi format penulisan review paper 13 bagian | Menjamin derajat keilmuan dan keterlacakan sitasi | **PASS (Memenuhi Syarat)**|
+| **Keterlacakan Sanad Ilmiah**| Format rujukan silang wajib mengikuti standar APA 7th | Menjaga integritas sanad intelektual modern dan turats | **PASS (Memenuhi Syarat)**|
 
 ---
 

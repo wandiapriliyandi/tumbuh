@@ -360,73 +360,34 @@ ALUR KERJA BOUNDARY VERIFICATION LINTER TUMBUH v2.0.0
                              [Semantic Leak] [Commit Approved]
 ```
 
-### 9.2. Skrip Pemeriksaan Otomatis Batas Lapisan (Automated Boundary Checker)
-Berikut adalah spesifikasi algoritma skrip verifikasi dependensi (`tools/verify_layer_boundaries.py`) yang menjadi standar operasional penjaga gawang repositori:
+### 9.2. Spesifikasi Rekayasa Sistem: Logika Algoritmik & Matriks Penegakan Batas Lapisan
+Sebagai sebuah monograf desain sistem, penegakan integritas repositori tidak disajikan dalam bentuk kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Algoritmik (Formal Algorithmic Logic Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Architectural Fitness Function*) repositori:
 
-```python
-# -*- coding: utf-8 -*-
-"""
-TUMBUH Repository Boundary Verification Linter (v2.0.0 Canonical)
-Memeriksa kepatuhan mutlak The Dependency Rule di seluruh lapisan repositori.
-"""
+#### 9.2.1. Model Matematis & Predikat Dependensi Epistemik
+Struktur lapisan repositori dimodelkan sebagai hierarki partisi $L = \{L_1, L_2, L_3\}$, di mana:
+- $L_1$ merepresentasikan lapisan inti filosofis (`01_FUNDAMENTAL`).
+- $L_2$ merepresentasikan lapisan penerjemah kelembagaan (`02_IMPLEMENTATION`).
+- $L_3$ merepresentasikan instrumen praktis lapangan (`03_OPERATIONAL`).
 
-import os
-import re
-import sys
+Relasi dependensi yang sah diatur oleh fungsi kepatuhan satu arah:
+$$\text{ValidDependency}(u, v) \iff \text{Tier}(u) \ge \text{Tier}(v)$$
+dengan $\text{Tier}(L_1) = 1, \text{Tier}(L_2) = 2, \text{Tier}(L_3) = 3$.
 
-# Definisi aturan hierarki dependensi lapisan repositori TUMBUH v2.0.0
-FORBIDDEN_PATTERNS = {
-    # 01_FUNDAMENTAL dilarang merujuk berkas di 02, 03, atau PROBE
-    "01_FUNDAMENTAL": [
-        r"02_IMPLEMENTATION",
-        r"03_OPERATIONAL",
-        r"PROBE/",
-        r"SOP-\d+",
-        r"FORM-\d+"
-    ],
-    # 02_IMPLEMENTATION dilarang merujuk berkas di 03_OPERATIONAL
-    "02_IMPLEMENTATION": [
-        r"03_OPERATIONAL",
-        r"FORM-\d+",
-        r"piket_kamar"
-    ]
-}
+Setiap rujukan eksplisit dari simpul $u$ ke simpul $v$ wajib mematuhi predikat:
+$$\forall (u, v) \in E, \quad (u \in L_1) \implies (v \notin L_2 \cup L_3)$$
+$$\forall (u, v) \in E, \quad (u \in L_2) \implies (v \notin L_3)$$
 
-def verify_boundaries(repo_root):
-    violations = []
-    for layer, patterns in FORBIDDEN_PATTERNS.items():
-        layer_path = os.path.join(repo_root, layer)
-        if not os.path.exists(layer_path):
-            continue
-        
-        for root, _, files in os.walk(layer_path):
-            for file in files:
-                if not file.endswith(".md"):
-                    continue
-                file_full_path = os.path.join(root, file)
-                with open(file_full_path, "r", encoding="utf-8") as f:
-                    content = f.read()
-                    for pattern in patterns:
-                        if re.search(pattern, content, re.IGNORECASE):
-                            violations.append({
-                                "file": file_full_path,
-                                "layer": layer,
-                                "violating_pattern": pattern
-                            })
-    return violations
+Pelanggaran terhadap predikat ini secara otomatis memicu status kegagalan integrasi (*Broken Build / Exit 1*).
 
-if __name__ == "__main__":
-    repo_directory = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
-    results = verify_boundaries(repo_directory)
-    if results:
-        print(f"[FATAL ARCHITECTURE ERROR] Ditemukan {len(results)} pelanggaran batas epistemik:")
-        for v in results:
-            print(f"  - File: {v['file']} melanggar aturan layer {v['layer']} dengan referensi terlarang: {v['violating_pattern']}")
-        sys.exit(1)
-    else:
-        print("[SUCCESS] Seluruh batas lapisan epistemik repositori TUMBUH v2.0.0 terverifikasi murni dan sah!")
-        sys.exit(0)
-```
+#### 9.2.2. Matriks Parameter Penegakan Batas Repositori
+
+| Simpul Pemanggil (Caller) | Simpul Target yang Dilarang | Klasifikasi Anomali | Dampak Sistemik | Tindakan Pencegahan Mesin CI |
+|---|---|---|---|:---:|
+| **`01_FUNDAMENTAL/`** | `02_IMPLEMENTATION/` | *Downward Policy Inversion* | Nilai filosofis terikat pada struktur organisasi tertentu | **REJECT (Build Failure)** |
+| **`01_FUNDAMENTAL/`** | `03_OPERATIONAL/` | *Inverted Coupling Fallacy* | Filosofi jiwa santri tercemar oleh teknis formulir | **REJECT (Build Failure)** |
+| **`01_FUNDAMENTAL/`** | `source/` | *Raw Data Ingestion Contamination* | Kebijakan dasar bersandar pada data mentah belum teruji | **REJECT (Build Failure)** |
+| **`02_IMPLEMENTATION/`**| `03_OPERATIONAL/` | *Premature Operational Binding* | Kebijakan institusi terikat pada perkakas asrama temporer | **REJECT (Build Failure)** |
+| **`03_OPERATIONAL/`** | Menciptakan definisi baru | *Epistemic Hijacking* | Petugas asrama mengubah makna adab secara sepihak | **REJECT (Build Failure)** |
 
 ---
 

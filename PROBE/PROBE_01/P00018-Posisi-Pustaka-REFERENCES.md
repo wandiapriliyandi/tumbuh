@@ -330,58 +330,29 @@ mandiri untuk mengubah regulasi asrama santri tanpa melalui telaah resmi di PROB
 
 ---
 
-### 9.2. Spesifikasi Skrip Static Semantic Linter untuk Integritas Sitasi (Git CI/CD Hooks)
-Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*citation integrity linter*) yang memvalidasi setiap perubahan pada folder `REFERENCES/` dan kepatuhan sitasi di seluruh berkas inkuiri:
+### 9.2. Spesifikasi Rekayasa Sistem: Logika Integritas Bibliografi & Matriks Validasi Sitasi APA 7th
 
-```python
-# scripts/lint_references_layer.py
-import re
-import sys
-import pathlib
+Sebagai naskah monograf ilmiah desain sistem, tata kelola perpustakaan rujukan dikodifikasikan melalui **Spesifikasi Formal Logika Validasi Bibliografi (Formal Bibliographic Validation Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-PROHIBITED_COMMERCIAL_DOMAINS = [
-    r"doi\.org/10\.",
-    r"sciencedirect\.com",
-    r"springer\.com/buy",
-    r"wiley\.com/paywall",
-    r"taylorfrancis\.com/purchase"
-]
+#### 9.2.1. Model Matematis & Predikat Kurasi Pustaka REFERENCES/
+Misalkan $B$ merepresentasikan katalog bibliografi di direktori `REFERENCES/`. Setiap entri pustaka $b \in B$ wajib mematuhi predikat kurasi mutu:
 
-def audit_reference_file(file_path):
-    errors = []
-    text = file_path.read_text(encoding="utf-8")
-    
-    # 1. Periksa keberadaan header standar
-    if not re.search(r"^# REF-[A-Z]+-\d{4}:", text, re.MULTILINE):
-        errors.append(f"Header file tidak mengikuti konvensi REF-[KODE]-[NOMOR]: {file_path.name}")
-        
-    # 2. Periksa keberadaan klausul Batasan Otoritas
-    if "Pernyataan Batasan Otoritas" not in text and "Non-Normative Statement" not in text:
-        errors.append(f"Hilang klausul wajib 'Pernyataan Batasan Otoritas' di {file_path.name}")
-        
-    # 3. Periksa ketiadaan tautan paywall komersial
-    for domain_pattern in PROHIBITED_COMMERCIAL_DOMAINS:
-        if re.search(domain_pattern, text, re.IGNORECASE):
-            errors.append(f"Ditemukan tautan paywall komersial ilegal ('{domain_pattern}') di {file_path.name}")
-            
-    return errors
+1. **Predikat Keabsahan Metadata Bebas Paywall (Clean Citation Invariant)**:
+   $$\forall b \in B, \quad \text{HasAuthor}(b) \land \text{HasYear}(b) \land \text{HasPublisher}(b) \land (\text{URL}(b) \cap \text{PaywallDomains} = \emptyset)$$
+   Dilarang menyertakan tautan komersial berbayar (`doi.org` berbayar) yang memberatkan pembaca pesantren; sitasi wajib disajikan dalam metadata teks bersih berstandar APA 7th Edition.
 
-if __name__ == "__main__":
-    ref_dir = pathlib.Path("REFERENCES")
-    all_errors = []
-    if ref_dir.exists():
-        for md_file in ref_dir.glob("*.md"):
-            all_errors.extend(audit_reference_file(md_file))
-            
-    if all_errors:
-        print("[GAGAL AUDIT CI/CD] Pelanggaran Integritas Bibliografi Ditemukan:")
-        for err in all_errors:
-            print(f" - {err}")
-        sys.exit(1)
-    else:
-        print("[SUKSES AUDIT CI/CD] Seluruh berkas Lapisan REFERENCES mematuhi kaidah pustaka terkurasi.")
-        sys.exit(0)
-```
+2. **Predikat Takhrij Turats Primer (Turats Primary Takhrij Invariant)**:
+   $$\forall t \in B_{\text{turats}}, \quad \text{HasMuhaqqiq}(t) \land \text{HasDarNasyr}(t) \land \text{HasJuzHalaman}(t)$$
+   Setiap rujukan kitab klasik wajib mencantumkan nama pentahqiq (*muhaqqiq*), penerbit resmi, dan nomor juz/halaman yang dapat ditelusuri fisik kitabnya.
+
+#### 9.2.2. Matriks Parameter Pengujian Integritas Katalog REFERENCES/
+
+| Parameter Verifikasi | Pola Terlarang / Wajib | Dampak terhadap Kualitas Ilmiah | Status Mesin CI/CD |
+|---|---|---|:---:|
+| **Tautan Paywall Berbayar** | Tautan komersial `https://doi.org/...` berbayar | Membebani pembaca pesantren dengan tautan komersial | **REJECT (Exit 1)** |
+| **Sitasi Halusinasi / Cacat** | Judul fiktif, nama penulis tanpa tahun terbit | Merusak reputasi akademik dan amanah ilmiah repositori | **REJECT (Exit 1)** |
+| **Turats Tanpa Tahqiq** | Mengutip matan kitab klasik tanpa penerbit jelas | Ketidakpastian autentisitas redaksi lafaz hadits/kaidah | **REJECT (Exit 1)** |
+| **Klaim Otoritas Normatif** | Menjadikan buku luar langsung sebagai aturan pondok | Pengabaian kedaulatan ijtihad dan kultur lokal pesantren | **REJECT (Exit 1)** |
 
 ---
 

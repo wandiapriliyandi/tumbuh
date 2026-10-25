@@ -370,87 +370,29 @@ ALUR KERJA STATIC SEMANTIC LINTER PADA LAPISAN 03_OPERATIONAL
                                 Wajib merujuk lapis 02" Ergonomis, & Beradab!"
 ```
 
-### 9.2. Skrip Pemeriksaan Kepatuhan Semantik Operasional (Operational Linter Script)
-Berikut adalah spesifikasi algoritma skrip verifikasi dependensi (`tools/verify_operational_boundaries.py`):
+### 9.2. Spesifikasi Rekayasa Sistem: Logika Subordinasi Operasional & Matriks Filter Anti-Punitif
+Sebagai naskah monograf ilmiah desain sistem, pengawasan instrumen operasional tidak disajikan dalam bentuk kode program mentah di dalam teks, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Subordinasi Operasional (Formal Operational Subordination Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
 
-```python
-# -*- coding: utf-8 -*-
-"""
-TUMBUH Operational Boundary & Anti-Hijacking Linter (v2.0.0 Canonical)
-Memverifikasi kepatuhan mutlak berkas di lapisan 03_OPERATIONAL/.
-"""
+#### 9.2.1. Model Matematis & Predikat Subordinasi Lapisan 03_OPERATIONAL
+Misalkan $O$ merepresentasikan himpunan seluruh berkas di dalam direktori `03_OPERATIONAL`. Setiap berkas operasional $w \in O$ diwajibkan memenuhi dua predikat logika mutlak:
 
-import os
-import re
-import sys
+1. **Predikat Keterlacakan Vertikal Wajib (Upward Provenance Invariant)**:
+   $$\forall w \in O, \quad \text{Ref}(w) \cap (L_1 \cup L_2) \neq \emptyset$$
+   Setiap berkas operasional wajib memuat sekurang-kurangnya satu rujukan sanad ke naskah kebijakan kelembagaan (`02_IMPLEMENTATION`) atau naskah filosofi (`01_FUNDAMENTAL`). Dokumen operasional yang tidak memiliki rujukan induk dideklarasikan sebagai berkas yatim (*orphan document*) dan ditolak demi hukum.
 
-OPERATIONAL_DIR = r"c:\xampp\htdocs\tumbuh\03_OPERATIONAL"
+2. **Predikat Eliminasi Mutlak Sanksi Punitif (Zero-Punitive Invariant)**:
+   $$\forall w \in O, \quad \text{Content}(w) \cap \mathcal{L}_{\text{punitif}} = \emptyset$$
+   di mana $\mathcal{L}_{\text{punitif}}$ mencakup leksikon kekerasan fisik (push-up, rotan, tamparan, jemur), denda materi finansial, pemotongan rambut paksa, dan isolasi kamar gelap.
 
-# Pola terlarang yang haram muncul di berkas operasional
-FORBIDDEN_OPERATIONAL_PATTERNS = [
-    (r"push-up", "Sanksi fisik push-up dilarang mutlak dalam sistem adab TUMBUH"),
-    (r"rotan", "Penggunaan alat pemukul rotan bertentangan dengan prinsip rahmah"),
-    (r"tampar", "Kekerasan fisik tamparan adalah pelanggaran pidana dan dosa besar"),
-    (r"jemur\s+lapangan", "Hukuman jemur di bawah terik matahari dilarang"),
-    (r"Rp\s*[\d\.]+", "Denda finansial dilarang sebagai alat penegakan adab santri"),
-    (r"denda\s+uang", "Penarikan denda uang merusak nilai keikhlasan ta'dib"),
-    (r"gundul\s+paksa", "Pemotongan rambut paksa melanggar hak martabat kemanusiaan santri")
-]
+#### 9.2.2. Matriks Parameter Validasi Instrumen Operasional Lapisan 03
 
-REQUIRED_TRACEABILITY_PATTERNS = [
-    r"02_IMPLEMENTATION",
-    r"01_FUNDAMENTAL"
-]
-
-def scan_operational_directory():
-    violations = []
-    if not os.path.exists(OPERATIONAL_DIR):
-        print(f"[ERROR] Direktori {OPERATIONAL_DIR} tidak ditemukan!")
-        sys.exit(1)
-
-    for root, _, files in os.walk(OPERATIONAL_DIR):
-        for file in files:
-            if not file.endswith(".md"):
-                continue
-            filepath = os.path.join(root, file)
-            with open(filepath, "r", encoding="utf-8") as f:
-                content = f.read()
-
-                # 1. Cek Pola Terlarang
-                for pattern, reason in FORBIDDEN_OPERATIONAL_PATTERNS:
-                    matches = re.findall(pattern, content, re.IGNORECASE)
-                    if matches:
-                        violations.append({
-                            "file": file,
-                            "type": "FORBIDDEN_TOKEN",
-                            "pattern": pattern,
-                            "reason": reason,
-                            "matches": matches
-                        })
-
-                # 2. Cek Keterlacakan (Minimal memiliki referensi ke lapis 01 atau 02)
-                has_traceability = any(re.search(p, content, re.IGNORECASE) for p in REQUIRED_TRACEABILITY_PATTERNS)
-                if not has_traceability:
-                    violations.append({
-                        "file": file,
-                        "type": "MISSING_TRACEABILITY",
-                        "pattern": "N/A",
-                        "reason": "Berkas operasional wajib memuat nomor rujukan sanad ke 02_IMPLEMENTATION atau 01_FUNDAMENTAL",
-                        "matches": []
-                    })
-    return violations
-
-if __name__ == "__main__":
-    results = scan_operational_directory()
-    if results:
-        print(f"[FATAL OPERATIONAL VIOLATION] Ditemukan {len(results)} pelanggaran di 03_OPERATIONAL:")
-        for v in results:
-            print(f"  - Berkas: {v['file']} [{v['type']}]: {v['reason']} (Cocok: {v['matches']})")
-        sys.exit(1)
-    else:
-        print("[SUCCESS] Seluruh berkas di 03_OPERATIONAL/ terverifikasi 100% patuh, beradab, dan tersubordinasi sempurna!")
-        sys.exit(0)
-```
+| Parameter Verifikasi | Pola Terlarang / Wajib | Dampak terhadap Santri & Lembaga | Tindakan Sistem CI/CD |
+|---|---|---|:---:|
+| **Sanksi Fisik Keras** | Push-up, tampar, rotan, cubit, jemur | Pelanggaran pidana anak, trauma psikologis mendalam | **HARD REJECT (Blokir PR)** |
+| **Pungutan Finansial** | Denda uang, nominal rupiah, potong saku | Komersialisasi dosa, hilangnya keikhlasan taubat | **HARD REJECT (Blokir PR)** |
+| **Penghinaan Martabat** | Cukur botak paksa, arak keliling, kalung papan | Perusakan izzah kemanusiaan dan fitrah santri | **HARD REJECT (Blokir PR)** |
+| **Isolasi Gelap** | Kurung kamar isolasi, penahanan fisik | Klaustrofobia, kepanikan mental, kekejaman | **HARD REJECT (Blokir PR)** |
+| **Keterlacakan Sanad** | Wajib tautan ke `01_` atau `02_` | Dokumen liar (*unanchored rogue policy*) | **REJECT (Wajib Perbaikan)** |
 
 ---
 
