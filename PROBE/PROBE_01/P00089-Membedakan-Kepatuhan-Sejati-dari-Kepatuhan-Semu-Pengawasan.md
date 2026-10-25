@@ -464,6 +464,17 @@ Dalam implementasi ADR-P00089-01, Majelis Pengasuh Pondok Pesantren & Dewan Asat
    - Menyediakan ruang *Amnesti Adab* di mana santri yang selama ini terjebak dalam kepatuhan semu atau pemalsuan ibadah dapat mengakui kesalahannya secara tertutup kepada guru bimbingan konseling tanpa ancaman sanksi hukuman poin, untuk kemudian dibimbing melakukan tobat nasuha dan restrukturisasi niat.
 
 
+
+
+### 10.3. Protokol Verifikasi Integritas Adab Lulusan dan Sanksi bagi Pelanggar Privasi
+Dalam penegakan ADR-P00089-01, Majelis Pengasuh Pondok Pesantren & Dewan Asatidz menetapkan instrumen verifikasi kelembagaan yang mengikat:
+1. **Verifikasi Silang Laporan Wali Santri (Parental Feedback Triangulation)**:
+   - Setiap santri yang hendak menyelesaikan jenjang pendidikannya wajib menyerahkan lembar evaluasi adab mandiri yang diisi oleh orang tua/wali santri setelah masa liburan semester minimal 21 hari.
+   - Apabila ditemukan bahwa santri yang berprestasi sempurna di asrama ternyata menunjukkan kemerosotan adab parah di rumah (meninggalkan shalat berjamaah atau berkata kasar), maka predikat kelulusan adabnya ditangguhkan sementara (*conditional probation*) hingga santri menjalani program bimbingan ta'dib kalbu khusus selama 30 hari.
+2. **Sanksi bagi Pelanggaran Pemasangan Kamera Pemantau Liar**:
+   - Setiap pengurus atau musyrif yang terbukti memasang kamera tersembunyi (*hidden camera*) di kamar tidur atau toilet santri dengan alasan "mencari bukti pelanggaran" dikenai sanksi pemecatan tidak hormat dan diproses secara hukum pidana perlindungan privasi anak.
+
+
 ## 11. Implikasi bagi Repositori TUMBUH & Sepuluh Guardrails Tata Kelola
 
 ### 11.1. Implikasi bagi Repositori TUMBUH
@@ -506,6 +517,12 @@ Repositori TUMBUH v2.0.0 menolak segala bentuk kurikulum dan modul pengasuhan ya
    Hukuman jalan jongkok, digundul acak, atau dipajang di tiang bendera diharamkan mutlak karena memicu *Psychological Reactance* yang menghancurkan benih-benih muraqabatullah.
 10. **Guardrail-10: Mandat Audit Akhir Integritas Santri Menjelang Khidmah**
     Sebelum santri diberangkatkan untuk tugas pengabdian dakwah ke pelosok negeri, santri wajib lulus uji integritas mandiri guna memastikan mereka tidak membawa racun kepunafikan ke tengah masyarakat.
+
+
+
+
+### 11.4. Komitmen Kelembagaan Majelis Pengasuh terhadap Ekosistem Muraqabah
+Penerapan sepuluh guardrails di atas bukanlah sekadar penataan teknis aturan asrama, melainkan ikhtiar peradaban yang menuntut komitmen spiritual tertinggi dari pimpinan pesantren. Majelis Pengasuh Pondok Pesantren & Dewan Asatidz memposisikan diri sebagai penjamin utama (*dhamin*) bahwa santri-santri yang menuntut ilmu di pesantren ini tidak diperlakukan sebagai obyek penertiban mekanis, melainkan dididik sebagai hamba-hamba Allah yang merdeka, berakal mulia, dan memiliki kepekaan rasa malu kepada Sang Pencipta dalam segala keadaan.
 
 
 ## 12. Penutup & Emergent Chain of Inquiry
