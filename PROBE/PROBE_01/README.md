@@ -75,8 +75,8 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00031` — Mengapa Core Principles (Prinsip Inti) Diletakkan Setelah Dinamika Perubahan?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00031-Mengapa-Core-Principles-Prinsip-Inti-Diletakkan-Setelah-Dinamika-Perubahan.md)
 - [`P00032` — Mengapa System Architecture (Arsitektur Sistem) Menjadi Penutup Sempurna Lapisan Fondasi?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00032-Mengapa-System-Architecture-Menjadi-Penutup-Sempurna-Lapisan-Fondasi.md)
 - [`P00033` — Logika Transisi: Mengapa Setelah Menuntaskan Foundation Sistem Wajib Memasuki Core Model?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00033-Logika-Transisi-Mengapa-Setelah-Menuntaskan-Foundation-Sistem-Wajib-Memasuki-Core-Model.md)
-- `P00034` — Apa yang Menjadi Poros Tengah Core Model TUMBUH? *(Antrean Berikutnya)*
-- `P00035` — Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)? *(Antrean)*
+- [`P00034` — Apa yang Menjadi Poros Tengah Core Model TUMBUH?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00034-Apa-yang-Menjadi-Poros-Tengah-Core-Model-TUMBUH.md)
+- `P00035` — Rasionalitas Komponen Pertama Core Model: Mengapa Membutuhkan Growth Ecology (Ekologi Tumbuh)? *(Antrean Berikutnya)*
 - `P00036` — Rasionalitas Komponen Kedua Core Model: Mengapa Membutuhkan Growth Mechanism (Mekanisme Pertumbuhan)? *(Antrean)*
 - `P00037` — Rasionalitas Komponen Ketiga Core Model: Mengapa Membutuhkan Core Capacity Architecture? *(Antrean)*
 - `P00038` — Rasionalitas Komponen Keempat Core Model: Mengapa Membutuhkan System Logic? *(Antrean)*
