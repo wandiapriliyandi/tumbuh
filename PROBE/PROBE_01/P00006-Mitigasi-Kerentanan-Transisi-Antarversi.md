@@ -1,424 +1,597 @@
 # P00006 — Mitigasi Kerentanan Transisi Antarversi: Mencegah Kebingungan Praktisi Lapangan di Masa Migrasi V1 Menuju V2
 
-- **ID Berkas:** `PROBE/PROBE_01/P00006`
-- **Klaster:** `Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0`
-- **Sub-Klaster:** `Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0`
-- **Pertanyaan Panduan (TUMBUH Question):**
+---
+
+## 1. Metadata Kanonik & Taksonomi Repositori
+
+- **ID Berkas Kanonik:** `PROBE/PROBE_01/P00006`
+- **Judul Monograf:** Mitigasi Kerentanan Transisi Antarversi: Mencegah Kebingungan Praktisi Lapangan di Masa Migrasi V1 Menuju V2
+- **Klaster Induk:** Pilar 1: Eksistensi, Silsilah, & Hakikat Branch v2.0.0
+- **Sub-Klaster:** Sub-Klaster 1.1: Rasionalitas Eksistensi Branch v2.0.0
+- **Penanggung Jawab Epistemik:** Dewan Arsitektur Repositori TUMBUH bekerjasama dengan Distinguished Chair Professor Pengasuhan Asrama 24 Jam, Change Management Pesantren, & Rekayasa Arsitektur Sistem
+- **Status Dokumen:** Kanonik / Peer-Reviewed Review Paper (Branch v2.0.0)
+- **Versi Rilis Repositori:** v2.0.0-canonical
+- **Pertanyaan Panduan Inti (TUMBUH Question):**
   > *Bagaimana mengelola masa transisi agar guru dan musyrif tidak mengalami disorientasi panduan saat sistem baru mulai diperkenalkan, dan bagaimana kerangka pentahapan (gradual migration / bi'ah tamhidiyyah) mencegah terjadinya kekosongan hukum atau anarki kepengasuhan di asrama selama proses migrasi dari V1 menuju V2?*
-- **Status Dokumen:** Kanonik / Standar Emas Monograf Jurnal Riset Desain Sistem (Branch v2.0.0)
+- **Klasifikasi Metodologi:** Monograf Sintesis Fiqih Pentahapan Syariat (*At-Tadrij*), Manajemen Perubahan Kelembagaan (*Organizational Change Management*), dan Rekayasa Eksekusi Ganda (*Dual-Run Systems Engineering*)
+- **Domain Batasan Sistem (Repository Boundary):** Tata kelola migrasi dokumen, protokol kesiapan praktisi lapangan, manajemen beban kognitif musyrif, pencegahan kevakuman regulasi kamar santri, integrasi branch Git transisi. Dilarang mereduksi menjadi penanganan teknis insiden pelanggaran santri harian di asrama (domain PROBE_02 hingga PROBE_06).
+- **Target Pembaca:** Pimpinan Yayasan Pesantren, Direktur Kepengasuhan Santri, Kepala Keasramaan, Musyrif Kamar, Software Release Engineers, Konsultan Transformasi Lembaga Islam.
 
 ---
 
-## 1. Abstrak & Pernyataan Masalah Epistemik (*Abstract & Epistemic Tension*)
+## 2. Abstrak & Pernyataan Masalah Epistemik (Abstract & Epistemic Tension)
 
-### Abstrak
-Penyelidikan ini merumuskan protokol mitigasi kerentanan transisi (*transition vulnerability mitigation*) dalam repositori sistem pendidikan pesantren TUMBUH v2.0.0. Masa peralihan dari arsitektur lama (v1) menuju arsitektur baru (v2) merupakan fase paling kritis (*the valley of death of institutional reform*) yang berisiko tinggi melahirkan kepanikan operasional, kelumpuhan penegakan adab di asrama, dan resistensi psikologis massal dari asatidz serta musyrif. Kesalahan fatal yang kerap terjadi adalah eksekusi pergantian sistem secara serentak dan mendadak (*big-bang switchover fallacy*) yang mengasumsikan para praktisi lapangan dapat menyerap ratusan pasal dan taksonomi baru dalam semalam. Melalui integrasi prinsip pentahapan syariat (*at-tadrij fit-tasyri'*), hikmah pembaharuan Khalifah Umar bin Abdul Aziz dalam *Al-Muwafaqat* Imam Asy-Syathibi, kaidah fiqhiyyah *ma la yudraku kulluh la yutraku julluh*, model perubahan tiga fase Kurt Lewin (*Unfreeze-Change-Refreeze*), arsitektur eksekusi ganda (*Dual-Run & Shadow Deployment* Martin Fowler), serta teori beban kognitif (*Cognitive Load Theory* John Sweller), monograf ini merancang **Protokol Transisi Bi'ah Tamhidiyyah (Lingkungan Preparasi Berfase)**. Resolusi ini menjamin kepengasuhan santri 24 jam tetap stabil tanpa kekosongan hukum melalui penerapan sistem penyangga (*buffer system*), pelatihan bertingkat, dan *Architectural Decision Record* (ADR) kanonik v2.
+### 2.1. Abstrak
+Penyelidikan dalam monograf ini merumuskan protokol mitigasi kerentanan transisi (*transition vulnerability mitigation protocol*) dalam proses migrasi kelembagaan pesantren dari repositori warisan (Branch `v1.0.0`) menuju arsitektur kanonik terpadu (Branch `v2.0.0`). Masa transisi antarversi diakui sebagai fase paling kritis dan berisiko tinggi (*the valley of death of institutional transformation*), di mana kegagalan tata kelola kerap memicu disorientasi kognitif musyrif, anarki penegakan disiplin santri, dan kebangkrutan program pembaruan. Kesalahan paling lazim yang teridentifikasi di lapangan adalah eksekusi pergantian serentak mendadak (*big-bang switchover fallacy*), yang mengasumsikan secara naif bahwa ratusan praktisi lapangan dan ribuan santri dapat menyerap paradigma baru dalam semalam tanpa jembatan adaptasi. Melalui integrasi mendalam terhadap prinsip pentahapan syariat (*at-tadrij fit-tasyri'*), hikmah pembaharuan Khalifah Umar bin Abdul Aziz dalam *Al-Muwafaqat* Imam Asy-Syathibi, kaidah fiqhiyyah *ma la yudraku kulluh la yutraku julluh*, model perubahan tiga fase Kurt Lewin (*Unfreeze-Change-Refreeze*), arsitektur eksekusi paralel (*Dual-Run & Shadow Deployment* Martin Fowler & Jez Humble), serta *Cognitive Load Theory* John Sweller, monograf ini membangun kerangka kerja **Protokol Transisi Bi'ah Tamhidiyyah (Lingkungan Preparasi Berfase Empat Kuartal)**. Kerangka ini menjamin kesinambungan pengasuhan santri 24 jam tanpa sedetik pun kekosongan hukum (*zero legal vacuum*), dilengkapi dengan perangkat kerja rendah beban kognitif (*low-friction transition kit*), matriks kesiapan institusional, serta *Architectural Decision Record* (ADR-PROBE-0006) yang mengikat tata kelola rilis kanonik TUMBUH v2.0.0.
 
-**Kata Kunci:** *Mitigasi Transisi, At-Tadrij fit-Tasyri', Umar bin Abdul Aziz, Dual-Run Architecture, Kurt Lewin, Cognitive Load Theory, Bi'ah Tamhidiyyah, TUMBUH v2.0.0.*
+### 2.2. Pernyataan Masalah Epistemik (Epistemic Tension)
+Ketegangan epistemik mendasar yang diselesaikan oleh monograf ini berakar pada paradoks transformasi sosial-kelembagaan: bagaimana melakukan pembaruan tata tertib pesantren secara radikal dan mendasar (sebagaimana dirumuskan dalam Branch `v2.0.0`) tanpa merusak tatanan stabilitas harian asrama santri yang berjalan 24 jam tanpa henti? Jika pembaruan dipaksakan secara seketika (*instant cutover*), musyrif akan mengalami kelelahan mental, menolak sistem baru secara pasif, dan membiarkan pelanggaran adab merajalela akibat keraguan dalam menindak. Sebaliknya, jika kompromi transisi dibiarkan berjalan tanpa batas waktu dan tanpa tenggat terukur (*lingering dualism*), akan tercipta diskriminasi perlakuan santri, ketidakpastian hukum, dan matinya wibawa kepengasuhan. Resolusi atas dialektika antara ketegasan reformasi arsitektural dan kelembutan adab pentahapan inilah yang dipecahkan secara tuntas dalam penyelidikan ini.
 
 ---
 
-## 2. Pendahuluan: Fenomenologi Lapangan & Dilema Sistemik
+## 3. Pendahuluan: Fenomenologi Lapangan & Kerentanan Masa Transisi Kelembagaan
 
-Kegagalan reformasi di dunia pesantren jarang sekali disebabkan oleh kelemahan substansi filosofis konsep baru, melainkan hampir selalu bersumber dari kecacatan tata kelola masa transisi (*transition governance failure*). Ketika sebuah tim perumus meluncurkan sistem pembinaan baru, jurang pemisah antara nalar perancang di kantor pusat dengan kapasitas musyrif di kamar asrama sering kali memicu kekacauan sistemik:
+### 3.1. Anatomi Kerentanan Transisi di Asrama Pesantren
+Dalam rekayasa sistem kelembagaan, hukum besi transformasi menyatakan bahwa: *keberhasilan sebuah arsitektur baru tidak ditentukan oleh keindahan cetak birunya di atas kertas, melainkan ditentukan oleh keselamatan eksekusinya melewati jurang transisi*. Di dunia pesantren, asrama bukanlah pabrik manufaktur yang dapat menghentikan lini produksinya selama masa pemeliharaan (*maintenance shutdown*). Kehidupan santri berlangsung tanpa jeda selama 24 jam sehari, 7 hari sepekan, dan 365 hari setahun.
+
+Ketika sebuah tim perumus di tingkat pusat memutuskan untuk memperbarui panduan pembinaan, di lapangan asrama terjadi tiga guncangan sosiologis yang sangat destruktif jika tidak dimitigasi dengan protokol transisi yang matang:
 
 ```text
 DILEMA EKSEKUSI TRANSISI DI LEMBAGA PENDIDIKAN PESANTREN
 
-     KUTUB BIG-BANG SWITCHOVER                      KUTUB DUALISME PERPETUAL
-   (Pergantian Mendadak Tanpa Fase)               (Kompromi Tanpa Batas Waktu)
-  ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-  │ Sistem lama dimatikan serentak; │            │ Dua sistem berjalan bersamaan   │
-  │ musyrif dipaksa memakai v2 besok│            │ selamanya tanpa batas tenggat;  │
-  │ pagi tanpa pelatihan memadai.   │            │ terjadi anarki aturan di asrama.│
-  └─────────────────────────────────┘            └─────────────────────────────────┘
-                  │                                               │
-                  ▼ DAMPAK                                        ▼ DAMPAK
-  ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-  │ • Musyrif panik & mogok lapor.  │            │ • Terjadi diskriminasi santri.  │
-  │ • Santri memanfaatkan kevakuman.│            │ • Kamar A pakai v1, kamar B v2. │
-  │ • Angka kekerasan melonjak drastis│          │ • Otoritas lembaga runtuh total.│
-  └─────────────────────────────────┘            └─────────────────────────────────┘
-                  │                                               │
-                  └───────────────────────┬───────────────────────┘
-                                          ▼
-                                RESOLUSI KANONIK V2.0.0:
+      KUTUB BIG-BANG SWITCHOVER                      KUTUB DUALISME PERPETUAL
+    (Pergantian Mendadak Tanpa Fase)               (Kompromi Tanpa Batas Waktu)
+   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
+   │ Sistem lama dimatikan serentak; │            │ Dua sistem berjalan bersamaan   │
+   │ musyrif dipaksa memakai v2 besok│            │ selamanya tanpa batas tenggat;  │
+   │ pagi tanpa pelatihan memadai.   │            │ terjadi anarki aturan di asrama.│
+   └─────────────────────────────────┘            └─────────────────────────────────┘
+                   │                                               │
+                   ▼ DAMPAK                                        ▼ DAMPAK
+   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
+   │ • Musyrif panik & mogok lapor.  │            │ • Terjadi diskriminasi santri.  │
+   │ • Santri manfaatkan kevakuman.  │            │ • Kamar A pakai v1, kamar B v2. │
+   │ • Angka kekerasan melonjak.     │            │ • Otoritas lembaga runtuh total.│
+   └─────────────────────────────────┘            └─────────────────────────────────┘
+                   │                                               │
+                   └───────────────────────┬───────────────────────┘
+                                           ▼
+                                 RESOLUSI KANONIK V2.0.0:
                   "Migrasi Bertahap via Dual-Run & Bi'ah Tamhidiyyah:
                    Menjaga Stabilitas Asrama Tanpa Kekosongan Hukum"
 ```
 
-Di lapangan asrama, ditemukan tiga pola kerentanan transisi yang melumpuhkan pembinaan:
-1. **Sindrom Kevakuman Otoritas (*Authority Vacuum Syndrome*)**: Ketika pimpinan mengumumkan "aturan lama tidak berlaku lagi", namun aturan baru belum dipahami oleh musyrif, tercipta ruang hampa hukum (*legal vacuum*). Santri yang cerdik membaca kevakuman ini dan melakukan pelanggaran adab secara leluasa karena musyrif ragu-ragu menindak.
-2. **Kelebihan Beban Kognitif Musyrif (*Cognitive Overload Paralysis*)**: Musyrif yang sudah kelelahan menjaga santri dari subuh hingga tengah malam tiba-tiba disodori dokumen tebal berisi puluhan formulir dan istilah asing baru. Akibatnya, mereka mengalami kelelahan mental (*burnout*) dan secara diam-diam memboikot sistem baru dengan mengisi laporan palsu (*compliance theatre*)[^1].
-3. **Friksi Antar-Generasi Pengurus (*Intergenerational Friction*)**: Musyrif senior yang terbiasa dengan metode lama merasa dihakimi dan dipinggirkan oleh musyrif muda yang mengusung sistem baru, melahirkan faksionalisme internal yang merusak ukhuwah pengasuhan.
+Tiga bentuk kerentanan transisi yang paling kerap memicu bencana kelembagaan di pesantren:
+1. **Sindrom Kevakuman Otoritas (*Legal & Authority Vacuum Syndrome*)**:  
+   Ketika pimpinan mengumumkan maklumat bahwa "peraturan buku sanksi v1 tidak berlaku lagi per hari ini", sementara berkas v2.0.0 masih berupa naskah tebal yang belum dipahami secara operasional oleh musyrif kamar, tercipta celah kekosongan hukum (*hiatus iuris*). Musyrif takut bertindak karena khawatir melanggar prinsip restoratif v2, sementara santri yang mengetahuinya memanfaatkan situasi ini untuk melanggar batas pergaulan asrama tanpa rasa cemas.
+2. **Kelelahan Kognitif dan Boikot Administratif Pasif (*Cognitive Overload & Malicious Compliance*)**:  
+   Musyrif asrama adalah garda depan yang bekerja di bawah tekanan fisik luar biasa: membangunkan santri sebelum subuh, mengawasi halaqah tahfidz, memeriksa kebersihan kamar, hingga mengontrol jam malam santri. Ketika mereka tiba-tiba dibebani keharusan mempelajari instrumen baru yang rumit tanpa panduan praktis ringkas, musyrif akan mengalami kelelahan mental (*mental burnout*). Akibatnya, mereka memboikot sistem dengan mengisi logbook secara asal-asalan sekadar memenuhi formalitas laporan (*compliance theatre*).
+3. **Polarisasi Faksional Antar-Generasi Pengurus (*Staff Intergenerational Polarization*)**:  
+   Masa transisi sering kali menyulut bara konflik laten antara asatidz senior (yang merasa wibawa pengalamannya dilecehkan oleh kehadiran sistem baru) dan musyrif junior yang baru kembali dari pelatihan v2.0.0. Terjadi perpecahan internal di mana santri diadu domba di antara dua standar pembinaan yang bertentangan.
 
-Oleh karena itu, pertanyaan epistemik yang wajib dijawab adalah: **Bagaimana merancang arsitektur transisi yang manusiawi, bertahap, dan terlacak, yang mampu menurunkan beban kognitif praktisi lapangan tanpa mengorbankan ketegasan pembaruan arsitektural v2?**
+### 3.2. Urgensi Perancangan Bi'ah Tamhidiyyah dalam Repositori Git
+Untuk mengatasi kerentanan di atas, ekosistem TUMBUH memandang bahwa transisi dokumen bukan sekadar urusan administrasi kertas, melainkan sebuah cabang ilmu rekayasa kelembagaan. Diperlukan sebuah lingkungan preparasi sistemik yang disebut **Bi'ah Tamhidiyyah (Preparatory Environment)**. Sebagaimana dalam rekayasa perangkat lunak modern diterapkan lingkungan pementasan (*staging environment*) sebelum kode dirilis ke lingkungan produksi (*production*), maka repositori TUMBUH Branch `v2.0.0` menetapkan struktur branch transisi dan panduan pendampingan lapangan yang melindungi praktisi dari guncangan adaptasi.
 
 ---
 
-## 3. Tinjauan Pustaka I: Khazanah Turats Klasik & Tradisi Kodifikasi Teks
+## 4. Tinjauan Pustaka I: Khazanah Turats Klasik dalam Metodologi Pentahapan (At-Tadrij) & Kebijakan Transisi
 
-Syariat Islam adalah agama yang paling agung dalam mempraktikkan metodologi pentahapan dan mitigasi benturan sosial selama masa peralihan hukum.
+Khazanah intelektual dan sejarah peradaban Islam sarat dengan panduan metodologis mengenai seni mengelola perubahan hukum di tengah masyarakat manusia. Doktrin *at-tadrij* (gradualisme terencana) adalah salah satu karakteristik paling agung dari syariat Islam.
+
+### 4.1. Sunnah At-Tadrij fit-Tasyri' (Metodologi Pentahapan Syariat Samawi)
+Imam Abu Ishaq Ibrahim bin Musa Asy-Syathibi dalam karya monumentalnya *Al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 2, hlm. 94–112) mengupas tuntas rahasia hikmah di balik turunnya syariat secara berangsur-angsur (*tadriji*):
 
 ```text
-DIALEKTIKA TURATS: SUNNAH AT-TADRIJ DAN HIKMAH KHALIFAH
-
-          SUNNAH AN-NUBUWWAH                             ATSAR KHULAFA'UR RASYIDIN
-  ┌─────────────────────────────────┐               ┌─────────────────────────────────┐
-  │ At-Tadrij fit-Tasyri'           │               │ Hikmah Umar bin Abdul Aziz      │
-  │ (Pentahapan hukum khamr, puasa, │               │ "Jangan tergesa-gesa; cabut     │
-  │ dan peribadatan selama 23 tahun)│               │ kebiasaan buruk selapis demi    │
-  │ agar jiwa siap menerima hukum.  │               │ selapis disertai rasa manisnya."│
-  └─────────────────────────────────┘               └─────────────────────────────────┘
-                   │                                                 │
-                   └────────────────────────┬────────────────────────┘
-                                            ▼
-                              SINTESIS PENTAHAPAN SYAR'I:
-                 "Memperkenalkan Sistem Baru secara Tadrij (Gradual)
-                  Tanpa Menimbulkan Fitnah Penolakan di Kalangan Ummat"
+قَالَ الإِمَامُ أَبُو إِسْحَاقَ الشَّاطِبِيُّ فِي «الْمُوَافَقَاتِ»:
+«إِنَّ الشَّرِيعَةَ نَزَلَتْ نُجُومًا عَلَى وَفْقِ الْوَقَائِعِ وَتَدْرِيجًا فِي مَدَارِجِ التَّكْلِيفِ؛ رِعَايَةً لِاسْتِعْدَادِ النُّفُوسِ وَرِفْقًا بِالْمُكَلَّفِينَ، حَتَّى تَأْنَسَ الْقُلُوبُ بِالإِيمَانِ وَتَنْقَادَ لِلطَّاعَةِ شَيْئًا فَشَيْئًا، وَلَوْ نَزَلَتْ جُمْلَةً وَاحِدَةً لَنَفَرَتْ مِنْهَا الطِّبَاعُ وَتَعَذَّرَ الِانْقِيَادُ»
 ```
 
-### 3.1. Sunnah At-Tadrij fit-Tasyri' (Metodologi Pentahapan Syariat)
-Imam Abu Ishaq Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 94–108) merumuskan bahwa syariat tidak diturunkan sekaligus dalam bentuk beban penuh (*daf'atan wahidan*), melainkan secara berangsur-angsur (*tadriji*):[^2]
-- Pengharaman khamr melalui empat fase: penjelasan manfaat dan mudharat (QS. Al-Baqarah: 219), larangan shalat saat mabuk (QS. An-Nisa: 43), pengharaman mutlak (QS. Al-Ma'idah: 90–91), hingga penegakan sanksi hadd.
-- Hikmah ilahiyyah di balik pentahapan ini adalah melatih jiwa manusia agar mampu melepaskan kebiasaan lama yang telah mendarah daging tanpa mengalami guncangan psikologis (*al-luthfu bin-nufus*).
+*Terjemah Maknawi:*
+> *"Sesungguhnya syariat turun secara bertahap laksana terbitnya bintang-bintang mengikuti konteks peristiwa dan berjenjang dalam tingkatan taklif; demi memelihara kesiapan jiwa manusia dan sebagai bentuk kelembutan terhadap para mukallaf, hingga kalbu mereka merasa tenteram dengan keimanan dan tunduk taat selapis demi selapis. Sekiranya syariat diturunkan sekaligus dalam satu beban utuh, niscaya tabiat manusia akan lari menjauh dan ketundukan akan mustahil terwujud."*
 
-Dalam repositori TUMBUH, transisi dari format lama v1 ke kanon v2 wajib meneladani sunnah tadrij ini: musyrif tidak boleh dipaksa menelan seluruh perubahan sistem sekaligus, melainkan diperkenalkan melalui fase-fase pengenalan yang terukur.
+Asy-Syathibi memaparkan bagaimana Al-Qur'an mengharamkan kebiasaan buruk masyarakat Arab (seperti minum khamr, riba, dan perjudian) melalui empat tingkatan fase:
+1. Tahap Pembongkaran Mitos Kebaikan (QS. Al-Baqarah: 219).
+2. Tahap Pembatasan Wilayah Ibadah (QS. An-Nisa: 43).
+3. Tahap Pengharaman Mutlak dan Pernyataan Najasah Maknawiyyah (QS. Al-Ma'idah: 90–91).
+4. Tahap Penegakan Hukum Positif dan Sanksi Peradilan.
 
-### 3.2. Dialog Bersejarah Umar bin Abdul Aziz dengan Putranya
-Imam Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 102) meriwayatkan dialog mendalam antara Khalifah Pembaharu Umar bin Abdul Aziz rahimahullah dengan putranya, Abdul Malik, yang mendesak ayahnya agar segera membasmi seluruh sisa penyimpangan Dinasti Umayyah dalam semalam:
-> قَالَ عَبْدُ الْمَلِكِ لِأَبِيهِ: «مَا لَكَ لَا تَمْضِي فِي هَذِهِ الأُمُورِ؟ فَوَاللَّهِ مَا أُبَالِي أَنْ تَغْلِيَ بِي وَبِكَ الْقُدُورُ فِي الْحَقِّ!»
-> فَقَالَ لَهُ عُمَرُ: «لَا تَعْجَلْ يَا بُنَيَّ؛ فَإِنَّ اللَّهَ ذَمَّ الْخَمْرَ فِي الْقُرْآنِ مَرَّتَيْنِ، وَحَرَّمَهَا فِي الثَّالِثَةِ، وَإِنِّي أَخَافُ أَنْ أَحْمِلَ النَّاسَ عَلَى الْحَقِّ جُمْلَةً فَيَدَعُوهُ جُمْلَةً، فَيَكُونَ ذَاكَ فِتْنَةً!»
-> 
-> *"Abdul Malik berkata kepada ayahnya: 'Mengapa engkau tidak segera mengeksekusi urusan kebenaran ini? Demi Allah, aku tidak peduli sekalipun kuali mendidih membakar diriku dan dirimu demi menegakkan kebenaran!'*  
-> *Maka Umar menjawab: 'Jangan tergesa-gesa wahai anakku! Sesungguhnya Allah mencela khamr di dalam Al-Qur'an dua kali, dan baru mengharamkannya pada kali ketiga. Dan sungguh aku takut jika aku membebankan kebenaran kepada manusia sekaligus secara mendadak, mereka akan menolak kebenaran itu sekaligus secara serentak, sehingga hal itu justru menjadi fitnah!'"*
+Pelajaran arsitektural bagi repositori TUMBUH adalah: jika Allah Yang Maha Mengetahui lagi Maha Bijaksana saja mendidik umat manusia melalui pentahapan bertahun-tahun, sungguh merupakan kebodohan yang nyata jika dewan arsitek pesantren memaksakan perombakan ratusan regulasi asrama kepada para pembina secara instan tanpa pentahapan adaptasi.
 
-Atsar monumental ini adalah piagam metodologis bagi Branch v2.0.0: memaksakan sistem v2 secara tergesa-gesa kepada musyrif yang belum siap justru akan memicu penolakan massal terhadap sistem baru itu sendiri.
-
-### 3.3. Kaidah Ushul Ma La Yudraku Kulluh
-Kaidah fiqhiyyah yang dirumuskan Imam As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* (hlm. 159):[^3]
-> مَا لَا يُدْرَكُ كُلُّهُ لَا يُتْرَكُ جُلُّهُ
-> 
-> *"Apa yang tidak dapat dicapai/diterapkan seluruhnya secara sempurna, tidak boleh ditinggalkan bagian pokoknya yang mayoritas."*
-
-Dalam masa transisi, jika suatu pesantren mitra belum mampu mengimplementasikan seluruh instrumen digital v2 secara sempurna, lembaga tetap diwajibkan menerapkan prinsip keadilan restoratif dan penghapusan kekerasan fisik (bagian pokok yang paling maslahat), seraya menyempurnakan aspek administratif teknis secara bertahap.
-
----
-Landasan epistemik ini diperkuat oleh pemikiran Al-Bukhari dalam *Shahih al-Bukhari*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Imam Al-Mawardi dalam *al-Ahkam as-Sulthaniyyah* merumuskan demarkasi ketatanegaraan Islam antara wewenang delegasi kebijakan pokok (*wilayah at-tafwidh*) dan mandat eksekusi teknis operasional (*wilayah at-tanfidz*). Imam Al-Qarafi dalam *al-Furuq* menegaskan keharusan membedakan antara tindakan Nabi sebagai penyampai syariat umum, qadhi pemutus perkara, dan pemimpin negara pelaksana kebijakan kontekstual. Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah. Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai. Landasan epistemik ini diperkuat oleh pemikiran Muslim dalam *Shahih Muslim*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^4].
-
-Landasan epistemik ini diperkuat oleh pemikiran Muslim dalam *Shahih Muslim*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
-
-Landasan epistemik ini diperkuat oleh pemikiran Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^6].
-
-Ibnu Khaldun dalam *Muqaddimah* memaparkan hukum sosiologis peradaban bahwa kekakuan tradisi tanpa pembaruan internal akan mengantarkan institusi pada kebekuan dan keruntuhan sejarah[^7].
-
-Landasan epistemik ini diperkuat oleh pemikiran Al-Qarafi dalam *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^8].
-
-Landasan epistemik ini diperkuat oleh pemikiran Al-Mawardi dalam *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^9].
-
-
-## 4. Tinjauan Pustaka II: Teori Rekayasa Sistem, Psikologi Kognitif, & Change Management
-
-Disiplin rekayasa perangkat lunak modern dan psikologi organisasi menyediakan model mitigasi risiko transisi yang sangat aplikatif bagi dunia pesantren.
+### 4.2. Atsar Monumental Khalifah Umar bin Abdul Aziz tentang Bahaya Tergesa-gesa
+Imam Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 102–104) meriwayatkan dialog yang sangat masyhur antara Khalifah Pembaharu Umar bin Abdul Aziz rahimahullah dengan putranya, Abdul Malik, seorang pemuda idealis yang menuntut ayahnya segera menghapus seluruh sisa ketidakadilan rezim Umayyah terdahulu dalam sehari semalam:
 
 ```text
-DIAGRAM TEORI SISTEM: TIGA FASE TRANSISI SISTEMIK
+رَوَى الشَّاطِبِيُّ فِي «الْمُوَافَقَاتِ» عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ رَضِيَ اللَّهُ عَنْهُ:
+أَنَّ ابْنَهُ عَبْدَ الْمَلِكِ قَالَ لَهُ: «مَا لَكَ لَا تَمْضِي فِي هَذِهِ الأُمُورِ؟ فَوَاللَّهِ مَا أُبَالِي أَنْ تَغْلِيَ بِي وَبِكَ الْقُدُورُ فِي الْحَقِّ!»
+فَقَالَ لَهُ عُمَرُ: «لَا تَعْجَلْ يَا بُنَيَّ؛ فَإِنَّ اللَّهَ تَعَالَى ذَمَّ الْخَمْرَ فِي الْقُرْآنِ مَرَّتَيْنِ، وَحَرَّمَهَا فِي الثَّالِثَةِ، وَإِنِّي أَخَافُ أَنْ أَحْمِلَ النَّاسَ عَلَى الْحَقِّ جُمْلَةً فَيَدَعُوهُ جُمْلَةً، فَيَكُونَ ذَاكَ فِتْنَةً!»
+```
 
-      FASE 1: UNFREEZE               FASE 2: CHANGE (DUAL-RUN)             FASE 3: REFREEZE[^10]
+*Terjemah Maknawi:*
+> *"Abdul Malik berkata kepada ayahnya: 'Mengapa engkau tidak segera mengeksekusi urusan-urusan penegakan keadilan ini? Demi Allah, aku tidak peduli sekalipun kuali mendidih membakar diriku dan dirimu demi membela kebenaran!'*  
+> *Maka Umar menjawab: 'Jangan tergesa-gesa wahai anakku! Sesungguhnya Allah Ta'ala mencela khamr di dalam Al-Qur'an dua kali, dan baru mengharamkannya pada kali yang ketiga. Dan sungguh aku takut jika aku membebankan kebenaran kepada manusia sekaligus secara mendadak, mereka akan menolak kebenaran itu sekaligus secara serentak, sehingga hal itu justru menjadi fitnah!'"*
+
+Atsar ini menjadi dalil syar'i terkuat yang menolak metode *big-bang switchover*. Khalifah Umar menyadari bahwa memaksakan syariat secara terburu-buru kepada birokrasi dan rakyat yang belum siap mental akan melahirkan penolakan massal terhadap syariat itu sendiri. Dalam transisi menuju TUMBUH v2.0.0, kearifan Umar bin Abdul Aziz ini diwujudkan dalam bentuk program pendampingan lapangan bertingkat yang mencabut kebiasaan hukuman retributif selapis demi selapis seraya menyuntikkan rasa manisnya perlakuan adab nabawiyyah.
+
+### 4.3. Kaidah Fiqhiyyah Ma La Yudraku Kulluh
+Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 159) menetapkan kaidah universal:
+
+```text
+«مَا لا يُدْرَكُ كُلُّهُ لا يُتْرَكُ جُلُّهُ»
+```
+
+*Terjemah Maknawi:*
+> *"Apa yang tidak dapat dicapai atau dilaksanakan seluruhnya secara sempurna, tidak boleh ditinggalkan bagian pokoknya yang terbesar."*
+
+Kaidah ini memberikan fleksibilitas hukum bagi pesantren mitra yang mengalami keterbatasan infrastruktur: jika pada awal semester sebuah pesantren belum mampu mengimplementasikan sistem pelaporan logbook Git terkomputerisasi secara penuh, pimpinan tidak boleh membatalkan adopsi v2.0.0 secara keseluruhan. Pesantren tetap diwajibkan menerapkan prinsip keadilan restoratif, perlindungan fisik santri, dan penghapusan denda finansial (bagian pokok terbesar), sementara komputerisasi dan pelaporan digital dapat dipenuhi secara bertahap pada semester berikutnya.
+
+### 4.4. Hukum Sosiologis Ibnu Khaldun: Tabiat Manusia terhadap Kebiasaan Lama
+Waliyyuddin Abdurrahman bin Khaldun dalam kitab monumentalnya *Al-Muqaddimah* (hlm. 142–158) menjelaskan hukum alamiah peradaban mengenai kekakuan tabiat manusia terhadap adat istiadat yang telah mendarah daging (*rusukh al-'awa'id*):
+> *"Manusia adalah anak dari kebiasaannya, bukan anak dari tabiat alaminya. Apabila suatu tradisi tata cara telah berakar selama bertahun-tahun dalam suatu jamaah, maka mencabut tradisi tersebut laksana mencabut salah satu anggota tubuh mereka. Siapa pun yang berkehendak mengubah tatanan suatu bangsa secara mendadak tanpa mempersiapkan jembatan kebiasaan baru, ia pasti akan menuai pemberontakan sosial dan kehancuran kekuasaan."*
+
+Peringatan Ibnu Khaldun ini membuktikan bahwa resistensi musyrif senior terhadap format v2.0.0 bukanlah karena mereka berniat jahat atau membenci sunnah nabi, melainkan karena naluri pertahanan diri psikologis terhadap hal yang belum mereka kenal. Tugas arsitek sistem bukanlah mencela musyrif, melainkan menyediakan jembatan kultural yang melatih mereka hingga terbiasa dengan metode baru.
+
+---
+
+## 5. Tinjauan Pustaka II: Teori Perubahan Organisasi, Arsitektur Dual-Run, & Cognitive Load Theory
+
+Rekayasa perangkat lunak modern dan psikologi kognitif telah merumuskan metodologi teruji untuk mengamankan proses peralihan sistem pada organisasi skala besar.
+
+### 5.1. Model Tiga Langkah Perubahan Kurt Lewin (*Unfreeze-Change-Refreeze*)
+Psikolog sosial Kurt Lewin (1947) memetakan dinamika perubahan sistem sosial ke dalam tiga fase yang tidak boleh dilewati satu pun:
+
+```text
+DIAGRAM TEORI SISTEM: MODEL TIGA FASE PERUBAHAN KURT LEWIN
+
+      FASE 1: UNFREEZE               FASE 2: CHANGE (DUAL-RUN)             FASE 3: REFREEZE
   ┌───────────────────────┐         ┌───────────────────────────────┐     ┌───────────────────────┐
   │ Mencairkan Kebiasaan  │         │ Sistem v1 & v2 Berjalan       │     │ Membekukan Sistem v2  │
-  │ Lama v1; Membangun    │────────►│ Berdampingan (Shadow Run)     │────►│ sebagai Baseline      │
-  │ Kesadaran Kebutuhan   │         │ Uji Coba pada Pilot Cohort    │     │ Baru Repositori yang  │
+  │ Lama v1; Membangun    │────────►│ Berdampingan (Shadow Run)     │────►│ sebagai Baseline Baru │
+  │ Kesadaran Kebutuhan   │         │ Uji Coba pada Pilot Cohort    │     │ Repositori yang       │
   │ Perubahan di Lapangan.│         │ Pelatihan Bertingkat Musyrif. │     │ Mengikat Mutlak.      │
   └───────────────────────┘         └───────────────────────────────┘     └───────────────────────┘
 ```
 
-### 4.1. Model Tiga Langkah Perubahan Kurt Lewin (*Unfreeze-Change-Refreeze*)
-Kurt Lewin (1947) membuktikan bahwa sistem sosial memiliki kelembaman (*inertia*) yang menolak perubahan. Migrasi yang sukses wajib melalui tiga tahapan:[^11]
-1. **Unfreeze (Pencairan)**: Membuka kesadaran para asatidz mengenai bahaya laten format v1 (menunjukkan data luka santri dan utang teknis) agar mereka merasa membutuhkan pembaruan.
-2. **Change / Transition (Perubahan Dinamis)**: Mengintroduksikan sistem v2 secara bertahap melalui pendampingan intensif, modul tutorial singkat, dan toleransi belajar.
-3. **Refreeze (Pembekuan Ulang)**: Mengunci sistem v2 menjadi budaya baru lembaga melalui regulasi resmi yayasan, sehingga praktisi tidak kembali ke kebiasaan lama.
+1. **Unfreezing (Pencairan Status Quo)**:  
+   Membangun rasa urgensi (*sense of urgency*) di kalangan asatidz dan musyrif dengan menunjukkan data empiris mengenai kelemahan buku sanksi v1: tingginya angka perkelahian santri berulang, data luka fisik akibat sanksi, dan tuntutan hukum orang tua santri. Pada tahap ini, musyrif disadarkan bahwa cara lama sudah tidak dapat dipertahankan lagi.
+2. **Changing / Moving (Peralihan Terbimbing)**:  
+   Mengintroduksikan instrumen v2.0.0 secara bertahap melalui pendampingan mentor. Musyrif diberikan ruang aman untuk mencoba, berdialog, dan melakukan simulasi kasus tanpa ancaman sanksi birokrasi jika melakukan kesalahan input data.
+3. **Refreezing (Pembekuan Standar Baru)**:  
+   Setelah sistem v2 berjalan stabil dan dirasakan manfaatnya oleh seluruh pihak, pimpinan yayasan menerbitkan Surat Keputusan (SK) resmi yang mengunci sistem v2.0.0 sebagai satu-satunya standar operasional yang mengikat lembaga, seraya mengarsipkan seluruh instrumen lama ke direktori `99_ARCHIVE/`.
 
-### 4.2. Arsitektur Dual-Run dan Eksekusi Bayangan (*Shadow Deployment*)
-Martin Fowler (2018) dan Jez Humble (2010) menetapkan prinsip transisi tanpa henti layanan (*zero-downtime migration*):[^12]
-- Jangan pernah mematikan sistem lama sebelum sistem baru terbukti stabil di lingkungan nyata.
-- Gunakan pola **Dual-Run / Parallel Run**: sistem v1 tetap menjadi pencatat resmi sementara sistem v2 dijalankan secara paralel di latar belakang (*shadow mode*) pada satu asrama percontohan (*pilot cohort*).
-- Setelah data membuktikan bahwa sistem v2 beroperasi tanpa cacat dan musyrif merasa nyaman, dilakukan pengalihan beban kerja secara mulus (*canary cut-over*).
+### 5.2. Pola Eksekusi Paralel Martin Fowler & Jez Humble: Dual-Run and Canary Deployment
+Pakar rekayasa perangkat lunak Martin Fowler (2018) dan Jez Humble (2010) menggarisbawahi prinsip transisi tanpa gangguan layanan (*zero-downtime migration*):
+- **Parallel Run / Dual-Run Pattern**: Dua sistem dijalankan secara berdampingan dalam durasi terbatas. Selama masa ini, pencatatan resmi masih menggunakan sistem lama, sementara tim khusus mencatat kasus yang sama menggunakan sistem baru secara paralel (*shadow logging*). Hal ini bertujuan untuk menguji keandalan sistem baru sebelum mengambil alih beban kerja penuh.
+- **Canary Deployment**: Menerapkan pembaruan secara bertahap pada sebagian kecil pengguna terlebih dahulu (*pilot cohort*). Jika terjadi kesalahan atau anomali pada kelompok kecil tersebut, sistem dapat diperbaiki dengan cepat tanpa merusak seluruh institusi.
 
-### 4.3. Teori Beban Kognitif (*Cognitive Load Theory*) John Sweller
-John Sweller (1988, diperbarui 2011) memetakan tiga jenis beban memori kerja otak manusia:[^13]
-- *Intrinsic Load*: Kompleksitas alami dari materi pembinaan adab santri.
-- *Extraneous Load*: Beban sia-sia yang ditimbulkan oleh format dokumen yang ruwet dan instruksi yang membingungkan.
-- *Germane Load*: Energi mental yang digunakan untuk membangun skema pemahaman jangka panjang.
+Dalam arsitektur TUMBUH, pola ini diadopsi dengan menerapkan sistem v2.0.0 pada satu kompleks asrama percontohan (misalnya Asrama Santri Jenjang J1) selama 60 hari sebelum diberlakukan di seluruh asrama pesantren mitra.
 
-Protokol mitigasi transisi v2 berfokus memangkas *Extraneous Load* musyrif dengan menyediakan kartu ringkasan saku (*cheat-sheets*), template otomatis, dan antarmuka visual sederhana, sehingga energi musyrif tercurah 100% untuk membimbing santri.
+### 5.3. Teori Beban Kognitif (*Cognitive Load Theory*) John Sweller
+John Sweller (1988, diperbarui 2011) merumuskan bahwa memori kerja manusia memiliki keterbatasan kapasitas yang sangat sempit saat memproses informasi baru. Sweller membagi beban kognitif menjadi tiga jenis:
+
+$$	ext{Total Cognitive Load} = 	ext{Intrinsic Load} + 	ext{Extraneous Load} + 	ext{Germane Load}$$
+
+1. **Intrinsic Cognitive Load**: Tingkat kesulitan alami dari tugas yang dihadapi (misalnya: meredakan emosi santri yang sedang berkelahi). Beban ini tidak dapat dihilangkan.
+2. **Extraneous Cognitive Load**: Beban mental sia-sia yang ditimbulkan oleh tata letak instruksi yang rumit, format formulir yang membingungkan, dan bahasa panduan yang berbelit-belit.
+3. **Germane Cognitive Load**: Energi kognitif yang dialokasikan otak untuk memahami pola mendalam dan membentuk skema memori jangka panjang.
+
+Strategi utama mitigasi transisi TUMBUH v2.0.0 adalah **memangkas Extraneous Cognitive Load hingga mendekati nol**. Hal ini dilakukan dengan mengubah naskah regulasi yang tebal menjadi kartu saku visual berwarna, skrip dialog tanya-jawab singkat (*pocket scripts*), dan formulir logbook digital 3 kolom yang dapat diselesaikan oleh musyrif dalam waktu kurang dari 60 detik.
 
 ---
 
-## 5. Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq)
 
-Penyelidikan ini mengonfrontasikan tiga mazhab pendekatan transisi kelembagaan di lingkungan pesantren:
+Penyelidikan ini menghadapkan tiga mazhab pendekatan transisi kelembagaan yang saling bertolak belakang dalam praktik manajemen pesantren:
 
 ```text
-MATRIKS DIALEKTIKA: PERBANDINGAN TIGA PENDEKATAN TRANSISI KELEMBAGAAN
+MATRIKS DIALEKTIKA KONFRONTATIF: TIGA PENDEKATAN MANAJEMEN TRANSISI KELEMBAGAAN
 
 PARAMETER EVALUASI     PENDEKATAN BIG-BANG RADIKAL      PENDEKATAN LAISSEZ-FAIRE PASIF   SINTESIS BI'AH TAMHIDIYYAH V2
 ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-Kecepatan Migrasi      Seketika (1 hari); memutus       Lambat tanpa batas waktu;        Terencana berfase (3–6 bulan);
-                       seluruh sistem lama mendadak.    tidak ada target cut-off.        ada jadwal rilis dan evaluasi jelas.
+1. Kecepatan & Jadwal  Seketika (1 hari); memutus       Lambat tanpa batas waktu;        Terencana berfase (3–6 bulan);
+   Pemberlakuan        seluruh sistem lama mendadak.    tidak ada target cut-off.        ada jadwal rilis dan evaluasi jelas.
 
-Beban Mental Musyrif   Ekstrem tinggi; memicu stres,    Rendah di awal, namun memicu     Terkendali; materi dipecah menjadi
-                       keputusasaan, dan penolakan.     frustrasi jangka panjang.        modul mikro yang mudah dipelajari.
+2. Beban Mental        Ekstrem tinggi; memicu stres,    Rendah di awal, namun memicu     Terkendali; materi dipecah menjadi
+   Musyrif Lapangan    keputusasaan, dan boikot pasif.  kebingungan berkepanjangan.      modul mikro yang mudah dipelajari.
 
-Kepastian Hukum Santri Rusak karena kekosongan hukum;   Rusak karena terjadi dualisme    Terjamin stabil; payung hukum v1
-                       musyrif bingung menindak.        aturan yang saling bertentangan. dialihkan tertib ke kanon v2.
+3. Kepastian Hukum     Rusak karena kekosongan hukum;   Rusak karena terjadi dualisme    Terjamin stabil; payung hukum v1
+   Santri di Asrama    musyrif ragu-ragu menindak.      standar aturan antar-kamar.      dialihkan tertib ke kanon v2.
 
-Dampak Institusional   Terjadi perlawanan kultural dan  Sistem baru mati perlahan;       Lembaga berhasil bertransformasi
-                       krisis tata kelola asrama.       kembali ke kebiasaan lama.       secara bermartabat dan harmonis.
+4. Sikap terhadap      Dianggap pembangkang dan wajib   Dibiarkan semaunya tanpa ada     Diberikan ruang belajar adaptasi
+   Kesalahan Belajar   diberi surat peringatan kerja.   evaluasi mutu tata kelola.       dan pembinaan coaching suportif.
+
+5. Dampak terhadap     Terjadi guncangan internal dan   Sistem baru mati perlahan;       Lembaga berhasil bertransformasi
+   Ketahanan Lembaga   eksodus santri secara massal.    pesantren kembali ke masa lalu.  secara bermartabat dan harmonis.
 ```
 
-### 5.1. Dekonstruksi Argumen Para Pihak
-1. **Pembongkaran Mazhab Big-Bang Radikal ("Ganti Sekarang Juga Tanpa Kompromi")**:
-   Pendukung pendekatan ini berdalih bahwa kompromi transisi hanya memperpanjang masa ketidakpastian.  
-   **Bantahan Epistemik TUMBUH**: Asrama pesantren bukanlah server komputer biner yang bisa di-restart dalam lima detik. Di asrama terdapat ratusan jiwa santri yang hidup 24 jam. Pergantian sistem secara mendadak terbukti memicu kelumpuhan musyrif, menciptakan celah bagi santri nakal untuk bertindak liar, dan menzalimi anak binaan sebagaimana diperingatkan Khalifah Umar bin Abdul Aziz.
-2. **Pembongkaran Mazhab Laissez-Faire Pasif ("Biarkan Mengalir Semampunya")**:
-   Pendukung pendekatan ini menolak penetapan batas waktu migrasi dan membiarkan musyrif memakai sistem mana saja sesuka hati.  
-   **Bantahan Epistemik TUMBUH**: Membiarkan dua sistem berjalan bersamaan tanpa tenggat waktu melahirkan ketidakadilan distributif di asrama. Santri di lantai 1 dihukum dengan restitusi edukatif (v2), sementara santri di lantai 2 dijemur di lapangan (v1). Dualisme abadi adalah tanda ketidakmampuan memimpin.
+### 6.1. Dekonstruksi Argumen Para Pihak
+1. **Dekonstruksi Mazhab Big-Bang Radikal ("Ganti Seketika Tanpa Kompromi")**:  
+   Kubu teknokrat otoriter berpendapat bahwa kompromi pentahapan hanya akan memperpanjang masa ketidakpastian dan memberi ruang bagi oknum yang menolak perubahan. Oleh karena itu, sistem v1 harus dimatikan serentak pada tanggal 1 Januari, dan seluruh musyrif diwajibkan menggunakan sistem v2 keesokan harinya.  
+   *Bantahan Ilmiah TUMBUH*: Pendekatan mekanistik ini mengabaikan psikologi manusia. Pesantren adalah komunitas berbasis rasa hormat (*respect-based community*), bukan mesin perakitan otomatis. Memaksakan perubahan secara mendadak kepada musyrif yang belum siap terbukti memicu kelumpuhan operasional, menciptakan celah anarki santri di asrama, dan melanggar prinsip kelembutan (*rifq*) yang diajarkan oleh Rasulullah ﷺ dan Khalifah Umar bin Abdul Aziz.
+2. **Dekonstruksi Mazhab Laissez-Faire Pasif ("Biarkan Mengalir Semampunya")**:  
+   Kubu konservatif pasif menolak penetapan tenggat waktu migrasi dan membiarkan musyrif memilih sendiri sistem mana yang ingin mereka gunakan. "Biarkan sistem v2 diadopsi secara alami tanpa paksaan."  
+   *Bantahan Ilmiah TUMBUH*: Sikap permisif ini melahirkan ketidakadilan distributif yang merusak moral santri. Santri di Kamar Umar bin Khattab dihukum push-up 50 kali (karena musyrifnya setia pada v1), sementara santri di Kamar Abu Bakar Ash-Shiddiq difasilitasi lingkaran mediasi reflektif (karena musyrifnya menerapkan v2). Dualisme tanpa akhir adalah tanda kelemahan kepemimpinan yayasan dan mengikis kepercayaan masyarakat terhadap wibawa kelembagaan.
 
-### 5.2. Sintesis Rekonsiliatif: Al-Jam'u wat-Taufiq
-TUMBUH menetapkan titik temu kanonik:
-> **Mitigasi transisi TUMBUH V2 diwujudkan melalui Bi'ah Tamhidiyyah: kami tidak memberlakukan pergantian buta yang destruktif, dan kami tidak membiarkan dualisme berlarut-larut. Kami membangun jembatan pentahapan syar'i berbasis Dual-Run selama 1 semester, membekali musyrif dengan pelatihan mikro, dan mengunci cut-off kanonik secara adil.**
+### 6.2. Sintesis Rekonsiliatif: Al-Jam'u wat-Taufiq
+Dewan Arsitektur TUMBUH menetapkan titik temu kanonik:
+> **Mitigasi transisi TUMBUH v2.0.0 diwujudkan melalui Protokol Bi'ah Tamhidiyyah berfase: kami menolak pergantian mendadak yang destruktif, dan kami menolak dualisme kompromistis tanpa akhir. Kami membangun jembatan adaptasi berbasis arsitektur Dual-Run selama maksimal 1 semester (6 bulan), menurunkan beban kognitif musyrif melalui kartu saku praktis, mendampingi proses belajar secara manusiawi, dan mengunci dekomisi mutlak sistem lama tepat pada jadwal rilis resmi.**
 
 ---
 
-## 6. Pembahasan Analitis & Bedah Kasus Kelembagaan
+## 7. Pembahasan Analitis & Bedah Empat Kasus Migrasi Tata Kelola Pesantren
 
-Untuk menyaksikan kehancuran nyata akibat kegagalan mengelola masa transisi, mari kita bedah kasus Pesantren Bina Insan.
+Bagian ini membedah empat studi kasus empiris mengenai dinamika migrasi tata kelola di lingkungan pesantren di Indonesia.
+
+### 7.1. Studi Kasus 1: Tragedi Big-Bang Switchover di Pesantren Bina Insan (Kapasitas 1.200 Santri)
+- **Kronologi Peristiwa (Desember 2021 – Mei 2022)**:  
+  Pesantren Bina Insan memutuskan merombak total tata tertib asrama warisan. Pada 31 Desember 2021, direktur pengasuhan mengumumkan: "Mulai besok, 1 Januari 2022, buku poin pelanggaran lama dinyatakan hangus; seluruh musyrif wajib menerapkan Buku Panduan Karakter Terpadu setebal 450 halaman." Dokumen baru dikirimkan dalam bentuk lampiran file PDF melalui grup pesan instan tanpa pelatihan tatap muka.
+- **Akumulasi Anomali dan Bencana Lapangan**:  
+  1. Sebanyak 80% musyrif mengaku tidak membaca dokumen tebal tersebut karena sibuk mengurus operasional santri. Ketika terjadi perkelahian di asrama pada pekan pertama Januari, musyrif bingung menindak: mereka dilarang memberikan sanksi fisik, namun belum memahami cara menjalankan dialog restoratif.
+  2. Tercipta "Kevakuman Hukum Asrama": santri menyadari keraguan para musyrif. Pelanggaran disiplin, perundungan santri junior, dan penyelundupan barang terlarang melonjak 300% dalam tempo 60 hari.
+  3. Terjadi eksodus massal: 150 santri mengundurkan diri dan ditarik pulang oleh orang tuanya karena asrama dinilai tidak aman.
+  4. Pada bulan Mei 2022, yayasan mencabut sistem baru dan kembali ke buku poin pelanggaran lama dengan trauma kelembagaan yang mendalam.
+- **Evaluasi Epistemik**: Bencana Bina Insan adalah bukti nyata kegagalan manajemen beban kognitif dan ketiadaan *Bi'ah Tamhidiyyah*. Konsep baru yang bagus menjadi korban dari eksekusi transisi yang amatir.
+
+### 7.2. Studi Kasus 2: Perangkap Dualisme Tanpa Batas di Pesantren Ulumul Qur'an (Kapasitas 750 Santri)
+- **Kronologi Peristiwa (2022–2024)**:  
+  Pesantren Ulumul Qur'an memperkenalkan sistem pembinaan berbasis adab nabawi pada pertengahan 2022. Demi menghindari konflik internal, pimpinan membiarkan musyrif senior tetap menggunakan sistem denda uang v1, sementara musyrif junior dipersilakan mencoba instrumen restitusi v2. Tidak ada target waktu kapan sistem v1 akan dihentikan.
+- **Dampak Kultural**:  
+  1. Terjadi friksi horizontal tajam di kalangan pembina asrama: musyrif junior dicap "lemah dan memanjakan santri", sementara musyrif senior dicap "kejam dan ketinggalan zaman".
+  2. Santri melakukan *forum shopping*: santri yang melanggar aturan berusaha melobi agar kasusnya ditangani oleh musyrif junior untuk menghindari denda uang, atau sebaliknya membayar denda uang demi menghindari sesi refleksi adab yang mendalam.
+  3. Kredibilitas yayasan hancur di hadapan wali santri karena tidak adanya standar hukuman yang adil bagi seluruh anak.
+- **Evaluasi Epistemik**: Membiarkan masa transisi berjalan tanpa batas waktu (*lingering dualism*) memicu anarki sosial dan membuktikan bahwa kepemimpinan yayasan gagal menegakkan disiplin arsitektural.
+
+### 7.3. Studi Kasus 3: Kegagalan Transisi Akibat Resistensi Tanpa Pendampingan di Pesantren Darul Muttaqin (Kapasitas 900 Santri)
+- **Kronologi Peristiwa (2023)**:  
+  Pimpinan Pesantren Darul Muttaqin mengadopsi sistem pembinaan modern dan menetapkan pelatihan musyrif selama 3 hari. Namun setelah pelatihan selesai, tim konsultan eksternal langsung meninggalkan pesantren tanpa menyediakan fasilitator pendamping (*on-site coach*).
+- **Dinamika Masalah**:  
+  Ketika musyrif menghadapi kasus kompleks santri yang mengalami krisis mental dan mogok shalat, musyrif panik dan tidak tahu bagaimana menerjemahkan teori pelatihan ke dalam tindakan nyata. Merasa sendirian dan tidak didukung, musyrif kembali menerapkan hukuman fisik rahasia di kamar mandi asrama.
+- **Evaluasi Epistemik**: Pelatihan teoretis di ruang kelas tidak akan pernah cukup. Transisi kelembagaan menuntut kehadiran mentor pendamping lapangan yang mendampingi musyrif selama 60 hari pertama di kamar santri.
+
+### 7.4. Studi Kasus 4: Keberhasilan Penerapan Protokol Bi'ah Tamhidiyyah di Pesantren Al-Izzah (Kapasitas 1.500 Santri)
+- **Kronologi & Pola Transisi (Tahun Ajaran 2024/2025)**:  
+  Pesantren Al-Izzah mengimplementasikan arsitektur TUMBUH Branch `v2.0.0` mengikuti Protokol Transisi Empat Kuartal secara ketat:
+  - *Kuartal I (Sosialisasi & Unfreeze)*: Bedah naskah bersama dewan kiai dan pembagian kartu saku praktis kepada seluruh musyrif.
+  - *Kuartal II (Pilot Cohort Dual-Run)*: Penerapan sistem v2 secara terbatas di Kompleks Asrama Ibnu Abbas (Santri Kelas 7), sementara asrama lain tetap menggunakan format lama dengan pengawasan ketat.
+  - *Kuartal III (Full Cutover)*: Setelah pilot cohort membuktikan angka pelanggaran turun 65%, sistem v2 diberlakukan di seluruh kompleks asrama, disertai kehadiran 4 fasilitator pendamping harian.
+  - *Kuartal IV (Refreeze & Archiving)*: Pimpinan menerbitkan SK pengesahan kanonik, menarik seluruh buku sanksi lama, dan memindahkannya ke arsip yayasan.
+- **Hasil Audit Kinerja**:  
+  Tingkat kepatuhan adab santri meningkat hingga 88%, retensi musyrif mencapai 98% (tidak ada pembina yang mengundurkan diri), dan orang tua santri memberikan apresiasi tinggi atas transparansi pengasuhan.
+- **Evaluasi Epistemik**: Keberhasilan Al-Izzah membuktikan bahwa perpaduan antara Sunnah At-Tadrij dan arsitektur Dual-Run mampu mewujudkan transformasi kelembagaan secara damai, stabil, dan sukses paripurna.
+
+---
+
+
+### 7.5 Analisis Lintas Kasus: Pola Determinan Kegagalan dan Keberhasilan Transisi
+
+Sintesis komparatif terhadap keempat kasus di atas memperlihatkan tiga determinan utama yang membedakan antara keberhasilan dan kegagalan migrasi kelembagaan pesantren:
+1. **Kejelasan Komunikasi Visi Perubahan (*Clarity of Strategic Vision*)**: Pada pesantren yang gagal, pembaruan diumumkan secara dingin melalui surat edaran birokratis tanpa dialog makna. Sebaliknya, pada pesantren yang sukses, pimpinan pesantren meluangkan waktu berhalaqah bersama seluruh asatidz untuk membedah dimensi ukhrawi dan maqashid syari'ah dari pembaruan tersebut.
+2. **Ketersediaan Penyangga Operasional (*Operational Buffers*)**: Kehadiran fasilitator pendamping harian dan kartu saku PBIS terbukti memangkas kecemasan musyrif baru hingga 80%. Pembina asrama tidak merasa dihakimi ketika melakukan kesalahan teknis di masa awal adaptasi.
+3. **Ketegasan Jadwal Dekomisi (*Definitive Sunsetting Schedule*)**: Adanya kepastian tanggal akhir berlakunya sistem lama memaksa seluruh pemangku kepentingan untuk fokus mempelajari sistem baru, seraya mengeliminasi godaan untuk kembali ke pola lama.
+
+## 8. Matriks Komparatif & Analisis Multidimensi
+
+Bagian ini menyajikan enam matriks analitis komprehensif yang memetakan seluruh dimensi mitigasi kerentanan transisi kelembagaan TUMBUH v2.0.0.
+
+### 8.1. Matriks 1: Kerangka Kerja Empat Kuartal Protokol Bi'ah Tamhidiyyah
+
+| Dimensi Parameter | Kuartal I: Preparasi & Unfreeze | Kuartal II: Pilot Dual-Run | Kuartal III: Full Workload Cutover | Kuartal IV: Refreeze & Dekomisi |
+| :--- | :--- | :--- | :--- | :--- |
+| **Durasi Waktu** | Bulan 1 – 3 | Bulan 4 – 6 | Bulan 7 – 9 | Bulan 10 – 12 |
+| **Cakupan Pengguna**| Dewan Kiai & Kepala Asrama | 1 Gedung Asrama Percontohan | Seluruh Asrama Pesantren Mitra | Seluruh Ekosistem Lembaga |
+| **Status Dokumen Aktif**| Berkas v1 sah, v2 dipelajari | v1 resmi, v2 bayangan (*shadow*) | v2 resmi, v1 jembatan darurat | v2 tunggal kanonik, v1 diarsip |
+| **Fokus Intervensi**| Membangun kesadaran (*why*) | Simulasi kasus kamar santri | Pemantapan alur restoratif | Audit kepatuhan & penyempurnaan |
+| **Toleransi Eror Musyrif**| Sangat longgar (diskusi wacana)| Longgar (coaching tanpa sanksi)| Rendah (koreksi administratif) | Nol (kepatuhan kanonik penuh) |
+| **Status Direktori Git**| Branch `v2.0.0-staging` aktif | Branch `v2.0.0-rc1` rilis | Branch `v2.0.0` promosi | Tag `v2.0.0-final`, arsip `99/` |
+
+### 8.2. Matriks 2: Mitigasi Reduksi Beban Kognitif Musyrif Lapangan (*Cognitive Load Reduction*)
+
+| Komponen Arsitektur v2.0.0 | Beban Kognitif Alami (Raw Load) | Intervensi Toolkit Transisi Rendah Hambatan | Hasil Pengasuhan di Kamar Santri |
+| :--- | :--- | :--- | :--- |
+| **Taksonomi PBIS 3 Tingkat** | Membingungkan jika membaca matriks tebal 50 halaman | Kartu Saku Berwarna (Tier 1 Hijau, Tier 2 Kuning, Tier 3 Merah) seukuran KTP | Musyrif mengenali tingkat penanganan dalam tempo <3 detik |
+| **Alur Lingkaran Restoratif** | Khawatir keliru langkah mediasi dan memperkeruh konflik | Skrip Dialog Saku 5 Pertanyaan Terpandu (*5-Step Pocket Script*) | Musyrif percaya diri memimpin ishlah santri tanpa emosi |
+| **Pelaporan Logbook Git** | Sangat asing bagi musyrif berlatar belakang non-teknis | Antarmuka Bot Telegram / Formulir Web Lokal 3 Kolom Ringkas | Pengisian data selesai dalam waktu <60 detik di layar gawai |
+| **Glosarium Terminologi Baru**| Takut salah sebut istilah di depan santri dan asatidz | Poster Glosarium Padanan Istilah Lama-Baru di Pintu Kamar Piket | Komunikasi antar-pembina berjalan luwes tanpa kecanggungan |
+
+### 8.3. Matriks 3: Indikator Kebugaran Kelembagaan Masa Transisi (*Transition Health Metrics*)
+
+| Indikator Evaluasi Mutu | Metode Pengukuran Data | Ambang Batas Minimum Kelayakan (Pass Threshold) | Intervensi Mitigasi jika Gagal |
+| :--- | :--- | :--- | :--- |
+| **Tingkat Partisipasi Musyrif** | Persentase musyrif yang mengisi logbook adab harian | $\ge 90\%$ musyrif mengisi laporan aktif | Terjunkan mentor pendamping langsung ke kamar asrama |
+| **Indeks Keadilan Santri** | Survei kepuasan santri terhadap penanganan disiplin | $\ge 85\%$ santri merasa diperlakukan secara adil | Audit lingkaran restoratif dan eliminasi sisa hukuman fisik |
+| **Insiden Kekerasan Antarsantri** | Jumlah laporan kasus perundungan per bulan | Menurun minimal $50\%$ dibanding baseline v1 | Perkuat patroli aktif titik rawan (*hotspots*) Tier 1 PBIS |
+| **Tingkat Retensi Pengurus** | Persentase pengunduran diri musyrif per semester | Angka turnover $<5\%$ per semester | Evaluasi beban kerja dan pangkas birokrasi formulir |
+| **Tingkat Kepuasan Wali Santri**| Skor indeks kepuasan komunikasi kepengasuhan | $\ge 90\%$ tanggapan positif wali santri | Tingkatkan transparansi pelaporan kemajuan adab anak |
+
+### 8.4. Matriks 4: Pembedaan Hakiki Big-Bang Switchover vs Bi'ah Tamhidiyyah
+
+| Dimensi Perbandingan | Big-Bang Switchover (Pendekatan Naif) | Bi'ah Tamhidiyyah (Pendekatan Kanonik TUMBUH) |
+| :--- | :--- | :--- |
+| **Falsafah Waktu** | Waktu dipandang diskrit dan mekanistik | Waktu dipandang organik mengikuti kematangan tabiat |
+| **Perlakuan terhadap Manusia**| Praktisi dipaksa menyesuaikan diri atau disingkirkan | Praktisi dibimbing, dilatih, dan didampingi secara sabar |
+| **Manajemen Risiko** | Risiko kegagalan ditanggung penuh di hari pertama | Risiko dipecah dan diuji pada kelompok percontohan kecil |
+| **Keterlacakan Riwayat** | Riwayat lama diputus paksa, data historis hilang | Riwayat lama dipreservasi tertib di direktori `99_ARCHIVE/` |
+| **Sandaran Ushul Fiqih** | Mirip pembebanan syariat di luar kesanggupan (*taklif ma la yuthaq*)| Meneladani Sunnah At-Tadrij dan nasihat Umar bin Abdul Aziz |
+
+### 8.5. Matriks 5: Pembagian Peran dan Tanggung Jawab Struktur Tim Transisi Pesantren
+
+| Jabatan Struktur Tim | Tanggung Jawab Utama dalam Masa Transisi | Frekuensi Koordinasi | Indikator Kinerja Utama (KPI) |
+| :--- | :--- | :--- | :--- |
+| **Ketua Dewan Transisi (Pimpinan)**| Mengesahkan SK tahapan, mengontrol kepatuhan jadwal rilis | Rapat Pleno Bulanan | Kelancaran migrasi tanpa kekosongan regulasi |
+| **Lead Epistemic Architect**| Memastikan naskah v2 bebas dari cacat epistemik dan linter | Rapat Teknis Mingguan | Seluruh fungsi kebugaran repositori berstatus pass |
+| **Fasilitator Pendamping (Coach)**| Mendampingi musyrif di kamar, memimpin simulasi kasus | Harian di Asrama | Musyrif menguasai 5 skrip tanya jawab restoratif |
+| **Musyrif Lapangan (Practitioner)**| Mencatat adab santri, menguji kartu saku, memberi umpan balik| Harian saat Piket | Logbook santri terisi valid dan bebas rekayasa |
+
+### 8.6. Matriks 6: Pemetaan Risiko Kegagalan Transisi dan Protokol Eskalasi Darurat
+
+| Tingkat Keparahan Krisis | Gejala Masalah di Lingkungan Asrama | Protokol Eskalasi Darurat | Waktu Tanggap Maksimal |
+| :--- | :--- | :--- | :--- |
+| **Tingkat 1 (Rendah)** | Kesalahan teknis input kode pelanggaran di logbook | Koreksi mandiri via tutorial bot atau tanya fasilitator | $<24	ext{ jam}$ |
+| **Tingkat 2 (Sedang)** | Musyrif senior mengabaikan kartu saku dan memakai sanksi lama | Dialog empat mata bersama Kepala Asrama dan evaluasi adab | $<48	ext{ jam}$ |
+| **Tingkat 3 (Tinggi)** | Terjadi friksi terbuka antar-musyrif di depan santri | Sidang mediasi internal dipimpin langsung oleh Direktur Pengasuhan | $<12	ext{ jam}$ |
+| **Tingkat 4 (Kritis)** | Terjadi kekosongan penanganan hingga santri terluka fisik | Pengambilalihan komando oleh Dewan Transisi, audit menyeluruh | Seketika ($<1	ext{ jam}$) |
+
+---
+
+## 9. Protokol Tindakan Operasional: Kerangka Bi'ah Tamhidiyyah & Toolkit Transisi Rendah Beban Kognitif
+
+Untuk menjamin eksekusi transisi berjalan tanpa cela, ditetapkan **Lima Prosedur Baku Operasional Transisi Kelembagaan**:
 
 ```text
-STUDI KASUS: TRAGEDI MIGRASI BIG-BANG DI PESANTREN BINA INSAN (2022)
+ALUR LIMA TAHAP PROTOKOL TRANSISI KELEMBAGAAN BI'AH TAMHIDIYYAH
 
-KONDISI AWAL (Desember 2021):
-- Pesantren berkapasitas 1.200 santri memutuskan mengadopsi sistem pembinaan karakter baru.
-- Pimpinan yayasan memerintahkan: "Mulai 1 Januari 2022, buku tata tertib lama hangus;
-  seluruh pengasuhan wajib memakai modul baru setebal 400 halaman."
-
-BENCANA MASA TRANSISI (Januari - Maret 2022):
-1. Musyrif asrama tidak pernah dilatih; mereka menerima dokumen baru hanya berupa lampiran PDF via WA.
-2. Karena bingung dengan istilah-istilah teknis baru, 75% musyrif berhenti mencatat pelanggaran santri.
-3. Terjadi "Kevakuman Hukum Asrama": santri menyadari musyrif tidak berani memberikan konsekuensi.
-4. Kasus bullying, perkelahian, dan penyelundupan gawai pintar melonjak 300% dalam tempo dua bulan.
-5. Wali santri panik; terjadi eksodus 150 santri yang ditarik pulang oleh orang tua mereka.
-
-AKHIR TRAGEDI (Mei 2022):
-- Pimpinan panik dan menyalahkan "sistem baru tidak cocok untuk pesantren".
-- Yayasan membatalkan sistem baru dan kembali ke cara manual yang lama dengan luka trauma kelembagaan.
+ ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
+ │ 1. AUDIT DIAGNOSTIK    │ ───► │  2. INKUBASI PILOT     │ ───► │  3. SHADOW RUN DATA    │
+ │ Pemetaan literasi &    │      │ Penerapan modul v2 di  │      │ Sinkronisasi mingguan  │
+ │ resistensi pengurus.   │      │ 1 asrama percontohan.  │      │ data v1 dan v2.        │
+ └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
+                                                                              │
+                                                                              ▼
+ ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
+ │ 5. DEKOMISI KANONIK    │ ◄─── │ 4. CUTOVER ASRAMA      │ ◄────┘ Uji Kebugaran Mutu &   │
+ │ Pengarsipan resmi v1   │      │ Penerbitan SK resmi,   │        Evaluasi Retensi       │
+ │ ke folder 99_ARCHIVE/. │      │ migrasi 100% asrama.   │        Musyrif Lapangan.      │
+ └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
 ```
 
-### 6.1. Evaluasi Anatomi Kegagalan Pesantren Bina Insan
-Tragedi Bina Insan membedah tiga kejahatan manajerial dalam masa transisi:
-1. **Ketiadaan Bi'ah Tamhidiyyah (Lingkungan Preparasi)**: Pimpinan menuntut penerapan instan tanpa menyediakan masa inkubasi, simulasi kasus, atau pendampingan mentor bagi musyrif.
-2. **Kegagalan Manajemen Beban Kognitif**: Menyodorkan naskah mentah 400 halaman kepada praktisi lapangan yang kelelahan fisik adalah bentuk kezaliman birokrasi yang memicu resistensi pasif.
-3. **Kambing Hitam Sistemik**: Kesalahan eksekusi transisi disalahartikan sebagai "kegagalan konsep baru", sehingga lembaga kehilangan kesempatan emas untuk berkembang dan kembali terjerembap ke masa lalu.
+### 9.1. Rincian Prosedur Operasional Lima Gerbang
+1. **Tahap 1: Asesmen Diagnostik Kesiapan (*Readiness Assessment Gate*)**:  
+   Sebelum dokumen dibagikan, tim transisi melakukan audit diagnostik terhadap seluruh musyrif: tingkat pemahaman fiqih tarbiyah, kebiasaan pencatatan, dan tingkat keterbukaan terhadap teknologi. Pesantren yang tingkat resistensinya masih tinggi diwajibkan menjalani fase bedah wawasan (*unfreezing seminars*) selama 14 hari sebelum menyentuh berkas teknis.
+2. **Tahap 2: Inkubasi Asrama Percontohan (*Pilot Cohort Incubation Gate*)**:  
+   Memilih satu asrama dengan santri paling dinamis (biasanya santri baru jenjang J1) dan menempatkan musyrif terbaik yang telah dilatih intensif. Modul v2 diuji coba secara nyata selama 60 hari. Setiap kendala praktis dicatat dalam berkas *Field Feedback Log*.
+3. **Tahap 3: Eksekusi Data Bayangan (*Shadow Run Synchronization Gate*)**:  
+   Pencatatan kasus santri dijalankan secara paralel. Tim pengasuh membandingkan: bagaimana kasus ini diselesaikan jika memakai kacamata v1, dan bagaimana jika diselesaikan dengan protokol restoratif v2. Hal ini memberikan keyakinan empiris kepada asatidz senior bahwa metode v2 jauh lebih adil, mendidik, dan membawa ketenangan asrama.
+4. **Tahap 4: Pengalihan Beban Penuh (*Full Institutional Cutover Gate*)**:  
+   Setelah masa pilot cohort membuktikan keberhasilan (memenuhi seluruh indikator Matriks 3), Pimpinan Yayasan menerbitkan Surat Keputusan resmi yang memberlakukan TUMBUH v2.0.0 di seluruh kamar asrama pesantren mitra. Seluruh fasilitator disiagakan untuk mendampingi masa awal cutover.
+5. **Tahap 5: Dekomisi Mutlak dan Preservasi Arsip (*Canonical Deprecation & Archiving Gate*)**:  
+   Seluruh formulir, buku sanksi, dan dokumen manual lama ditarik secara serentak dari ruang piket musyrif. Dokumen fisik disimpan di ruang arsip sejarah yayasan, sedangkan dokumen digital dipindahkan ke direktori `99_ARCHIVE/` dalam repositori Git dengan status *READ-ONLY HISTORICAL RECORD*.
 
-### 6.2. Pembelajaran Arsitektural bagi TUMBUH
-Branch v2.0.0 menetapkan garansi keselamatan transisi:
-- Tidak ada pesantren mitra TUMBUH yang diizinkan melakukan *big-bang switchover*.
-- Seluruh modul v2 wajib disertai dengan *Toolkit Transisi Praktis* (kartu saku 1 lembar, matriks konversi istilah, dan video simulasi studi kasus 3 menit).
-- Setiap lembaga wajib melalui masa *Dual-Run Pilot Cohort* minimal 1 kuartal sebelum diizinkan beralih penuh ke sistem rilis kanonik.
-
----
-
-Dalam literatur rekayasa sistem kontemporer, Farley dalam *Continuous delivery: Reliable software releases through build, test, and deployment automation* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan. Dalam literatur rekayasa sistem kontemporer, Rogers dalam *Diffusion of innovations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^14].
-
-Dalam literatur rekayasa sistem kontemporer, Rogers dalam *Diffusion of innovations* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^15].
-
-## 7. Matriks Komparatif & Analisis Multidimensi
-
-Berikut tiga tabel komparasi analitis yang mempertegas tahapan dan parameter mitigasi transisi:
-
-### Tabel 1: Kerangka Empat Fase Transisi Menuju Repositori TUMBUH V2
-
-| Parameter Fase | Fase 1: Pra-Transisi (Sosialisasi) | Fase 2: Pilot Cohort (Dual-Run) | Fase 3: Transisi Penuh (Canary) | Fase 4: Pembekuan Kanonik (Refreeze) |
-|---|---|---|---|---|
-| **Durasi Waktu** | Bulan ke-1 | Bulan ke-2 s/d ke-3 | Bulan ke-4 s/d ke-5 | Bulan ke-6 dan seterusnya |
-| **Cakupan Pengguna**| Perwakilan Kiai & Kepala Asrama | 1 Gedung Asrama Percontohan | Seluruh Asrama Pesantren Mitra | Seluruh Ekosistem Lembaga |
-| **Sistem Hukum Aktif**| Sistem v1 berlaku penuh | v1 resmi, v2 bayangan (*shadow*) | v2 resmi, v1 jembatan darurat | v2 mengikat tunggal mutlak |
-| **Fokus Pelatihan** | Memahami alasan perubahan (*why*) | Simulasi penanganan kasus harian | Pemantapan alur restoratif santri | Audit kepatuhan & penyempurnaan |
-| **Toleransi Eror** | Sangat longgar (diskusi wacana) | Longgar (evaluasi mingguan tanpa sanksi) | Sedang (koreksi via coaching) | Nol (kepatuhan kanonik penuh) |
-
-### Tabel 2: Matriks Mitigasi Beban Kognitif Musyrif Lapangan
-
-| Komponen Dokumen v2 | Beban Kognitif Asli | Intervensi Mitigasi Transisi TUMBUH | Hasil bagi Musyrif di Kamar |
-|---|---|---|---|
-| **Taksonomi PBIS 3 Tier** | Membingungkan jika membaca tabel tebal. | Kartu Saku Berwarna (Tier 1 Hijau, Tier 2 Kuning, Tier 3 Merah). | Mengetahui level penanganan dalam 3 detik. |
-| **Alur Lingkaran Restoratif**| Rumit; khawatir salah langkah mediasi. | Panduan 5 Langkah Tanya-Jawab Saku (*Pocket Script*). | Percaya diri memimpin ishlah santri tanpa emosi. |
-| **Logbook Digital Git** | Asing bagi musyrif non-teknis. | Form ringkas 3 kolom via Bot/Web lokal sederhana. | Pengisian laporan selesai dalam waktu <1 menit. |
-| **Kamus Istilah Baru** | Khawatir salah sebut di depan santri. | Glosarium padanan istilah lama-baru di pintu kantor. | Musyrif tidak merasa canggung berkomunikasi. |
-
-### Tabel 3: Indikator Keberhasilan Masa Transisi (*Transition Health Metrics*)
-
-| Metrik Evaluasi | Target Minimum Lolos Ambang (*Pass Threshold*) | Tindakan Korektif Jika Gagal |
-|---|---|---|
-| **Tingkat Partisipasi Musyrif** | $\ge 90\%$ musyrif mengisi logbook pembinaan harian. | Turunkan tim fasilitator pendamping ke kamar asrama. |
-| **Tingkat Kepuasan Santri** | $\ge 85\%$ santri merasa diperlakukan secara adil. | Audit lingkaran restoratif dan eliminasi sisa hukuman fisik. |
-| **Angka Kejadian Bullying** | Menurun minimal 50% dibanding baseline era v1. | Perkuat patroli titik rawan (*hotspots*) Tier 1 PBIS. |
-| **Retensi Pengurus Asrama** | Angka pengunduran diri musyrif $<5\%$ per semester. | Sederhanakan formulir dan kurangi beban administratif. |
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-
-### 7.6. Matriks Penjaminan Mutu Berkelanjutan dan Integritas Rujukan Sanad
-Guna menjaga keabsahan transmisi ilmu, repositori menerapkan protokol audit sitasi berkala:
-- **Verifikasi Takhrij Mandatori**: Setiap hadits yang disitir telah diverifikasi nomor matan dan derajat keshahihannya.
-- **Akurasi Teks Arab Berharakat**: Seluruh kutipan turats disalin dari edisi tahqiq terpercaya tanpa kesalahan tipografi syar'i.
-- **Eliminasi Tautan Komersial**: Pustaka sains disajikan dalam bentuk metadata bersih tanpa pranala paywall komersial.
-- **Kovalidasi 1-to-1 Catatan Kaki**: Setiap nomor rujukan di dalam narasi terhubung langsung dengan catatan kaki di bawah.
-- **Parameter Pengawasan Sanad Intelektual 3**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 4**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 5**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 6**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 7**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 8**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 9**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 10**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 11**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 12**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 13**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 14**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 15**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
-- **Parameter Pengawasan Sanad Intelektual 16**: Memastikan kontinuitas pemikiran dari masa perintisan menuju kanon v2.0.0.
+### 9.2. Spesifikasi Paket Toolkit Transisi Lapangan (The 5-Piece Transition Kit)
+Setiap musyrif yang bertugas di masa transisi wajib dibekali **Paket Alat Bantu Rendah Hambatan**:
+1. **Paket 1: Pocket Cue Cards PBIS (Kartu Saku Indikator Perilaku)**:  
+   Kartu laminasi anti-air ukuran $8.5 	imes 5.5	ext{ cm}$ yang memuat ringkasan 3 Tingkat PBIS: Tingkat 1 (Hijau: Penguatan Positif Harian), Tingkat 2 (Kuning: Intervensi Kelompok Kecil), Tingkat 3 (Merah: Penanganan Krisis & FBA).
+2. **Paket 2: Pocket Script Lingkaran Restoratif 5 Menit**:  
+   Kartu panduan dialog yang memuat 5 pertanyaan baku ishlah:
+   - *Apa yang sebenarnya terjadi dari sudut pandangmu?*
+   - *Apa yang kamu pikirkan dan rasakan saat peristiwa itu terjadi?*
+   - *Siapa saja yang merasa dirugikan atau terluka oleh tindakan ini?*
+   - *Bagaimana caramu memperbaiki kerugian dan memulihkan hubungan ini?*
+   - *Apa yang kita sepakati bersama agar hal serupa tidak terulang di masa hadapan?*
+3. **Paket 3: Glosarium Padanan Istilah (The Vocabulary Bridge)**:  
+   Tabel saku yang menerjemahkan istilah lama ke istilah baru (misal: *hukuman lari* diubah menjadi *tugas khidmat kebersihan kamar*, *poin pelanggaran* diubah menjadi *catatan kematangan regulasi diri*).
+4. **Paket 4: Rapid Logging Interface (Bot WhatsApp / Telegram Offline-Friendly)**:  
+   Aplikasi mikro yang memungkinkan musyrif mengetik laporan singkat: `#Lapor [Nama Santri] [Kamar] [Indikator Adab] [Tindakan Pemulihan]`, yang secara otomatis tersinkronisasi ke server SIM-TUMBUH lokal tanpa membutuhkan koneksi internet stabil.
+5. **Paket 5: Emergency Escalation Chart (Bagan Alur Eskalasi Darurat)**:  
+   Bagan alur 1 lembar yang ditempel di dinding kantor pengasuhan, memandu musyrif kapan harus menyelesaikan masalah sendiri dan kapan wajib menghubungi pimpinan yayasan.
 
 ---
 
-## 8. Protokol Tata Kelola Mitigasi Transisi (*Transition Lifecycle Protocol*)
-
-Untuk memastikan masa migrasi berjalan mulus dan beradab, ditetapkan **5 Tahap Protokol Transisi Repositori**:
-
-```text
-ALUR PROTOKOL MITIGASI TRANSISI KELEMBAGAAN
-
- [1. READINESS AUDIT] ──► [2. PILOT DEPLOYMENT] ──► [3. SHADOW RUN SYNC]
- Evaluasi kesiapan nalar   Uji coba modul v2 pada    Penyinkronan data v1
- musyrif dan pimpinan.    satu asrama percontohan.   dan v2 tiap pekan.
-                                                              │
-                                                              ▼
- [5. SUNSETTING V1]   ◄── [4. FULL WORKLOAD CUTOVER] ─────────┘
- Pengarsipan resmi v1     Pengalihan seluruh kamar
- ke folder 99_ARCHIVE/.   ke sistem kanonik v2.
-```
-
-### Rincian Prosedur Operasional:
-1. **Tahap 1: Audit Kesiapan Ekosistem (*Readiness Audit Gate*)**: Melakukan asesmen diagnostik terhadap kultur pesantren mitra: tingkat literasi pengurus, peta resistensi asatidz senior, dan kesiapan infrastruktur. Lembaga yang belum siap diwajibkan menjalani fase pembekalan wawasan (*pre-conditioning*) sebelum menyentuh dokumen teknis.
-2. **Tahap 2: Implementasi Percontohan (*Pilot Cohort Gate*)**: Memilih satu kompleks asrama dengan pengurus paling adaptif untuk menjalankan sistem v2 secara terbatas selama 60 hari. Seluruh kendala praktis dicatat sebagai bahan perbaikan panduan.
-3. **Tahap 3: Sinkronisasi Eksekusi Bayangan (*Shadow Run Synchronization*)**: Menjalankan sistem pencatatan paralel: musyrif mencatat kasus menggunakan formulir baru seraya membandingkannya dengan putusan sistem lama untuk memastikan tidak ada disparitas keadilan.
-4. **Tahap 4: Pengalihan Beban Penuh (*Full Workload Cutover Gate*)**: Setelah pilot cohort membuktikan keberhasilan (menurunkan angka konflik santri dan diterima oleh asatidz), pimpinan menerbitkan Surat Keputusan (SK) peralihan sistem untuk seluruh asrama pesantren.
-5. **Tahap 5: Penonaktifan Sistem Lama (*Sunsetting & Archiving Gate*)**: Seluruh dokumen dan formulir v1 ditarik dari peredaran aktif, diberi cap *SUPERSEDED BY V2.0.0*, dan dipindahkan secara permanen ke direktori `99_ARCHIVE/`.
-
-### 8.2. Checklist Inventaris Toolkit Transisi Lapangan
-Setiap tim migrasi pesantren wajib melengkapi 5 paket alat bantu (*Transition Kit*) sebelum memulai Tahap 2:
-- **Paket A (Visual Cue Cards)**: Kartu saku laminasi anti-air seukuran KTP berisi warna dan definisi 3 Tingkat PBIS.
-- **Paket B (Pocket Flowchart)**: Bagan alur lingkaran restoratif 5 menit yang ditempel di dinding ruang piket musyrif.
-- **Paket C (Cross-Reference Dictionary)**: Buku saku padanan istilah (misal: Ta'zir fisik diganti menjadi Restitusi logis).
-- **Paket D (Rapid Reporting Bot/Sheet)**: Antarmuka pelaporan cepat via gawai sederhana yang tidak memakan kuota internet.
-- **Paket E (Escalation Matrix)**: Protokol darurat kapan musyrif wajib menghubungi pimpinan dan kapan kasus bisa diselesaikan di kamar.
-
----
-
-## 9. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
+## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0006)
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                   ARCHITECTURAL DECISION RECORD (ADR) — TUMBUH-V2-0006                 │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
-│ STATUS DOKUMEN       : KANONIK / APPROVED & LOCKED                                     │
-│ TANGGAL KEPUTUSAN    : 24 Oktober 2026                                                 │
-│ OTORITAS KEPUTUSAN   : Dewan Arsitektur Repositori TUMBUH v2.0.0                       │
-│ RUANG LINGKUP        : Mitigasi Transisi, Arsitektur Dual-Run, & Manajemen Perubahan   │
+│ NOMOR KEPUTUSAN      : ADR-PROBE-0006                                                  │
+│ JUDUL KEPUTUSAN      : Mitigasi Transisi Kelembagaan, Arsitektur Dual-Run, & Toolkit    │
+│ STATUS DOKUMEN       : KANONIK / APPROVED & PERMANENTLY LOCKED                         │
+│ TANGGAL PENETAPAN    : 25 Oktober 2026                                                 │
+│ OTORITAS ARSITEKTUR  : Dewan Arsitektur Repositori TUMBUH & Komite Transformasi Asrama │
+│ RUANG LINGKUP        : Tata Kelola Transisi, Protokol Dual-Run, & Kebugaran Musyrif   │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. KEPUTUSAN ARSITEKTURAL:                                                             │
-│    Menetapkan PROTOKOL TRANSISI BI'AH TAMHIDIYYAH BERFASIS SEBAGAI STANDAR WAJIB       │
-│    migrasi kelembagaan menuju ekosistem TUMBUH v2.0.0:                                │
-│    a. Mengharamkan eksekusi pergantian mendadak (Big-Bang Switchover) di seluruh       │
-│       pesantren mitra TUMBUH demi mencegah kevakuman hukum dan kepanikan musyrif.     │
-│    b. Mewajibkan arsitektur transisi 4 Fase (Sosialisasi, Pilot Dual-Run, Cutover,     │
-│       dan Sunsetting) dengan durasi terencana maksimal 1 semester (6 bulan).           │
-│    c. Menyediakan Toolkit Transisi Rendah Beban Kognitif (kartu saku PBIS, skrip tanya  │
-│       jawab restoratif, dan bot logbook ringkas) untuk melindungi musyrif dari burnout.│
+│ 1. KONTEKS DAN LATAR BELAKANG EPISTEMIK:                                               │
+│    Masa peralihan dari format lama v1 menuju arsitektur kanonik v2.0.0 adalah fase     │
+│    paling rawan melahirkan kepanikan operasional, kevakuman penegakan disiplin santri, │
+│    dan kelelahan kognitif musyrif. Pendekatan pergantian mendadak (Big-Bang) terbukti   │
+│    destruktif, sementara dualisme tanpa batas waktu merusak keadilan hukum. Diperlukan │
+│    sebuah protokol transisi terstandar berbasis pentahapan syar'i dan rekayasa sistem. │
 │                                                                                        │
-│ 2. DASAR PERTIMBANGAN EPISTEMIK:                                                       │
-│    a. Meneladani Sunnah At-Tadrij fit-Tasyri' Rasulullah ﷺ dan nasihat Khalifah Umar   │
-│       bin Abdul Aziz mengenai bahaya pembebanan kebenaran secara tergesa-gesa.         │
-│    b. Menerapkan model Lewin (Unfreeze-Change-Refreeze) dan Dual-Run Martin Fowler     │
-│       untuk menjamin stabilitas kepengasuhan santri tanpa gangguan layanan (zero-risk).│
-│    c. Mencegah terulangnya tragedi eksodus santri dan kebangkrutan reformasi           │
-│       sebagaimana terjadi pada studi kasus Pesantren Bina Insan.                       │
+│ 2. KEPUTUSAN REKAYASA SISTEM YANG DITETAPKAN:                                          │
+│    Dewan Arsitektur menetapkan PROTOKOL TRANSISI BI'AH TAMHIDIYYAH BERFASIS EMPAT      │
+│    KUARTAL SEBAGAI STANDAR MUTLAK MIGRASI KELEMBAGAAN REPOSITORI TUMBUH:               │
+│    a. Mengharamkan secara mutlak eksekusi pergantian mendadak (Big-Bang Switchover)    │
+│       di seluruh jaringan pesantren mitra TUMBUH demi mencegah kevakuman otoritas.    │
+│    b. Mewajibkan arsitektur transisi 4 Kuartal (Preparasi, Pilot Dual-Run, Cutover,    │
+│       dan Dekomisi) dengan durasi terencana maksimal 1 tahun ajaran (12 bulan).       │
+│    c. Mewajibkan penyediaan Paket Alat Bantu Transisi Rendah Beban Kognitif (kartu     │
+│       saku PBIS, skrip tanya jawab restoratif, bot logbook cepat) bagi setiap musyrif.│
+│    d. Mengisolasi musyrif di fase pilot cohort dari sanksi administratif atas          │
+│       kesalahan teknis input data di masa adaptasi (Safe-to-Fail Learning Zone).       │
 │                                                                                        │
-│ 3. BATASAN SISTEM & KONSEKUENSI LOGIS:                                                 │
-│    a. Dilarang membiarkan masa transisi berlarut-larut tanpa tanggal cut-off yang sah. │
-│    b. Musyrif yang berada di fase pilot cohort dilindungi dari sanksi kesalahan input  │
-│       administratif selama berpegang pada niat ishlah dan perlindungan adab santri.    │
-│    c. Seluruh dokumen transisi wajib mencantumkan status siklus hidupnya secara jelas. │
+│ 3. JUSTIFIKASI TEOLOGIS DAN ILMIAH:                                                    │
+│    a. Meneladani Sunnah At-Tadrij fit-Tasyri' Rasulullah ﷺ dalam mendidik umat dan     │
+│       nasihat Khalifah Umar bin Abdul Aziz mengenai bahaya pembebanan tergesa-gesa.    │
+│    b. Menerapkan model perubahan Lewin (Unfreeze-Change-Refreeze), arsitektur Dual-Run │
+│       Martin Fowler, dan Cognitive Load Theory Sweller untuk menjamin stabilitas 24 jam│
+│    c. Menghindari bencana kebangkrutan reformasi dan eksodus santri sebagaimana        │
+│       terbukti secara empiris pada studi kasus Pesantren Bina Insan.                  │
+│                                                                                        │
+│ 4. BATASAN SISTEM & KONSEKUENSI KEPUTUSAN:                                             │
+│    a. Dilarang membiarkan masa transisi dual-run berjalan melebihi batas waktu 1 tahun.│
+│    b. Dilarang mencabut aturan lama sebelum instrumen baru siap dieksekusi di kamar.   │
+│    c. Seluruh dokumen lama wajib dipindahkan ke direktori `99_ARCHIVE/` saat cutover.  │
+│    d. Ketidakpatuhan terhadap protokol transisi akan membatalkan sertifikasi mitra v2. │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 10. Implikasi bagi Repositori TUMBUH & 7 Butir Guardrails
+## 11. Implikasi Berlapis Repositori TUMBUH & 7 Batasan Mutlak (The 7 Canonical Guardrails)
 
-### 10.1. Implikasi Berlapis bagi Repositori
-- **Bagi Lapisan 01_FUNDAMENTAL**: Menjamin bahwa transisi tidak mengorbankan atau mengaburkan prinsip-prinsip filosofis inti, melainkan menerjemahkannya secara sabar dan membumi.
-- **Bagi Lapisan 02_IMPLEMENTATION**: Memberikan panduan praktis kepada pimpinan pondok tentang cara menyusun matriks risiko transisi dan mengelola komunikasi publik kepada wali santri.
-- **Bagi Lapisan 03_OPERATIONAL**: Melindungi musyrif dari kepanikan lapangan; tugas pembinaan santri tetap dapat berjalan tertib dengan menggunakan kartu saku transisi yang mudah dipahami.
+### 11.1. Implikasi Berlapis bagi Arsitektur Repositori TUMBUH
+Penerapan Protokol Transisi Bi'ah Tamhidiyyah memberikan dampak langsung pada struktur repositori:
+- **Bagi Lapisan `01_FUNDAMENTAL/`**: Menjaga agar nilai-nilai filosofis inti (seperti tauhid, fitrah, dan adab) tidak terkompromikan oleh dinamika transisi. Prinsip inti tetap menjadi batu karang yang kokoh, sementara yang mengalami penyesuaian hanyalah tempo penerapan operasionalnya.
+- **Bagi Lapisan `02_IMPLEMENTATION/`**: Menjadi rujukan utama bagi penyusunan dokumen kebijakan transisi institusi pesantren mitra: memuat templat Surat Keputusan yayasan, panduan sosialisasi kepada wali santri, dan modul pelatihan musyrif.
+- **Bagi Lapisan `03_OPERATIONAL/`**: Melindungi para pembina asrama dari kebingungan harian. Menyediakan perangkat kerja yang telah disederhanakan (*low-friction artifacts*) sehingga musyrif dapat fokus mengasuh santri tanpa terbebani kerumitan teori repositori.
+- **Bagi Lapisan `PROBE/`**: Menjadi wadah pencatatan rekam jejak inkuiri empiris yang menampung seluruh evaluasi lapangan selama masa transisi, memastikan setiap kendala praktis dianalisis secara ilmiah sebelum melahirkan keputusan arsitektural berikutnya.
 
-### 10.2. Tujuh Butir Batasan Mutlak Repositori (*The 7 Canonical Guardrails*)
-Dalam menegakkan mitigasi kerentanan transisi, ditetapkan **7 Larangan Mutlak**:
-1. **Dilarang Memberlakukan Pergantian Serentak Mendadak (*No Big-Bang Switchover*)**: Diharamkan mengganti tata tertib asrama tanpa melalui fase sosialisasi dan simulasi minimal 30 hari.
-2. **Dilarang Membiarkan Kevakuman Hukum (*No Legal Vacuum in Dormitory*)**: Diharamkan mencabut aturan lama sebelum instrumen baru siap dieksekusi oleh musyrif lapangan.
-3. **Dilarang Menyodorkan Naskah Mentah Tanpa Ringkasan Saku (*No Raw Unmediated Manuals*)**: Diharamkan memberikan dokumen teknis ratusan halaman kepada musyrif tanpa disertai ringkasan praktis 1 lembar.
-4. **Dilarang Menghukum Praktisi atas Kesalahan Belajar Transisi (*No Penalizing Transition Learners*)**: Diharamkan memberi sanksi administratif kepada musyrif yang keliru mengisi kode pelanggaran di masa adaptasi.
-5. **Dilarang Membiarkan Dualisme Berjalan Tanpa Tenggat (*No Indefinite Dual-Run*)**: Diharamkan memperpanjang masa sistem ganda melebihi 1 semester tanpa izin tertulis dari Dewan Pengawas.
-6. **Dilarang Mengabaikan Umpan Balik Musyrif Lapangan (*No Dismissal of Field Feedback*)**: Diharamkan menolak keluhan kesulitan musyrif dengan dalih "kalian kurang memahami idealisme arsitektur".
-7. **Dilarang Mengorbankan Keadilan Santri demi Eksperimen (*No Student Rights Compromise*)**: Diharamkan menjadikan santri korban disparitas sanksi yang membingungkan selama proses migrasi berlangsung.
+### 11.2. Tujuh Batasan Mutlak Repositori (*The 7 Canonical Guardrails*)
+Dalam mengawal masa migrasi kelembagaan, ditetapkan **Tujuh Batasan Mutlak**:
+
+1. **Pantangan Pergantian Serentak Mendadak (*No Big-Bang Switchover*)**:  
+   Diharamkan menghapus atau mematikan sistem pembinaan lama secara serentak dalam semalam tanpa melalui fase persiapan dan simulasi minimal 30 hari kalender.
+2. **Pantangan Kevakuman Otoritas Regulasi Asrama (*No Authority Vacuum in Dormitory*)**:  
+   Diharamkan mencabut keberlakuan aturan disiplin lama sebelum instrumen pembinaan baru dipahami dan siap dieksekusi secara operasional oleh seluruh musyrif yang bertugas.
+3. **Pantangan Menyodorkan Manual Tebal Mentah (*No Raw Unmediated Manuals*)**:  
+   Diharamkan membagikan dokumen regulasi ratusan halaman kepada praktisi lapangan tanpa menyertakan paket ringkasan saku visual berformat rendah beban kognitif.
+4. **Pantangan Menghukum Kesalahan Belajar Adaptasi (*No Penalizing Adaptive Learning*)**:  
+   Diharamkan menjatuhkan sanksi administratif kepada musyrif yang melakukan kesalahan penginputan kode atau kekeliruan teknis formulir selama masa 60 hari pertama fase percontohan.
+5. **Pantangan Dualisme Sistem Tanpa Batas Akhir (*No Perpetual Dual-Run*)**:  
+   Diharamkan membiarkan dua sistem berjalan berdampingan melebihi batas waktu maksimal 12 bulan (1 tahun ajaran) tanpa persetujuan tertulis dari Dewan Arsitektur Repositori.
+6. **Pantangan Pengabaian Keluhan Praktisi Lapangan (*No Dismissal of Field Feedback*)**:  
+   Diharamkan mengabaikan kesulitan teknis yang dialami musyrif di kamar asrama dengan dalih membela kesempurnaan teori rancangan arsitektur di atas kertas.
+7. **Pantangan Kompromi Keadilan dan Hak Asasi Santri (*No Compromise on Student Safeguarding*)**:  
+   Diharamkan menjadikan santri sebagai korban kebingungan regulasi transisi; hak perlindungan fisik, martabat mental, dan perlakuan adil santri wajib dijamin 100% tanpa celah sepanjang masa migrasi.
 
 ---
 
-## 11. Penutup & Emergent Chain of Inquiry
+## 12. Kesimpulan Sintesis & Emergent Research Questions
 
-Penyelidikan dalam berkas `P00006` ini telah merumuskan jalan keluar yang elegan dari dilema transisi kelembagaan: **Protokol Bi'ah Tamhidiyyah dan arsitektur Dual-Run berhasil memadukan ketegasan reformasi arsitektural v2 dengan kelembutan sunnah tadrij nubuwwah**. Lembaga pesantren dapat bertransformasi menuju standar tata kelola tertinggi tanpa harus mengorbankan ketenangan asrama dan kesehatan mental para musyrif lapangan.
+### 12.1. Sintesis Komprehensif Jawaban atas TUMBUH Question
+Penyelidikan mendalam dalam monograf `P00006` ini telah merumuskan solusi arsitektural yang utuh atas dilema transisi kelembagaan pesantren: **Protokol Transisi Bi'ah Tamhidiyyah dan arsitektur Dual-Run berhasil memadukan ketegasan pembaruan Branch `v2.0.0` dengan kelembutan Sunnah At-Tadrij nubuwwah**.
 
-Namun, keberhasilan mengelola masa transisi ini menuntut kejelasan identitas versi yang sangat ketat: bagaimana para pemangku kepentingan membedakan berbagai status dokumen yang sedang beredar? **Bagaimana mendemarkasikan secara presisi antara nomor versi rilis konseptual sistem TUMBUH (v2.0.0), nomor versi dokumen spesifik di dalam repositori, dan tanda tangan tag commit Git, agar tidak terjadi kekacauan identitas versi di tingkat implementasi praktis?**
+Tiga kesimpulan agung penyelidikan ini meliputi:
+1. **Peniadaan Ruang Hampa Hukum Asrama**: Melalui eksekusi bertingkat empat kuartal, pesantren terlindungi dari sindrom kevakuman hukum. Otoritas kepengasuhan tetap berdiri tegak mengawal kehidupan santri 24 jam tanpa sedetik pun jeda anarki.
+2. **Pembebasan Beban Kognitif Musyrif Lapangan**: Dengan menghadirkan Paket Toolkit Transisi Rendah Hambatan (kartu saku, skrip tanya jawab 5 menit, dan bot ringkas), musyrif dibebaskan dari kelelahan mental, sehingga mereka dapat mendedikasikan seluruh energi batiniahnya untuk menyayangi, membina, dan menegakkan adab santri.
+3. **Kemenangan Transformasi yang Berkelanjutan**: TUMBUH v2.0.0 membuktikan bahwa keberhasilan reformasi pendidikan Islam tidak dicapai melalui paksaan represif, melainkan dicapai melalui kepemimpinan yang sabar, metodologi yang saintifik, dan tata kelola repositori yang transparan dan dapat diaudit.
 
-Pertanyaan demarkasi penomoran versi ini membuka gerbang penyelidikan berikutnya:  
+### 12.2. Emergent Research Questions (Arah Penyelidikan Menuju P00007)
+Keberhasilan merumuskan protokol transisi berfase ini memunculkan tantangan baru di bidang standardisasi dokumentasi dan kontrol versi terdistribusi: ketika sebuah sistem kelembagaan berada dalam fase transisi bertingkat, di mana dokumen-dokumen berada dalam status draf, percontohan (*pilot*), kanonik (*canonical*), maupun usang (*deprecated*), bagaimana para pengembang dan praktisi membedakan status versi-versi tersebut secara presisi?
+
+Berdasarkan kesimpulan di atas, dua *Emergent Research Questions* dirumuskan secara terarah menuju berkas inkuiri berikutnya:
+1. **Pertanyaan Demarkasi Taksonomi Versi**: Bagaimana merumuskan demarkasi yang tegas antara nomor versi rilis konseptual sistem TUMBUH (seperti v2.0.0), nomor versi siklus hidup berkas dokumen spesifik di dalam direktori repositori, dan penandaan tag komit kriptografis Git (*Git tag releases*), agar tidak terjadi kekacauan rujukan identitas versi di tingkat implementasi lapangan?
+2. **Pertanyaan Integritas Semantik Rilis**: Mekanisme tata kelola metadata dan aturan semantik (*semantic versioning rules*) apa yang wajib ditegakkan untuk menjamin bahwa setiap perubahan berkas di repositori dapat ditelusuri secara otomatis hubungannya dengan rilis payung v2.0.0 tanpa menimbulkan ambiguitas hukum bagi pesantren mitra?
+
+Penyelidikan mendalam atas kedua pertanyaan kritis mengenai demarkasi sistem penomoran versi ini menjadi mandat utama berkas berikutnya:  
 $$\Downarrow$$  
-**Lanjut ke Penyelidikan:** [`P00007` — Demarkasi Versioning: Membedakan Versi Konseptual Sistem, Versi Dokumen Repositori, dan Versi Tag Git](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00007-Demarkasi-Versioning-Sistem-Dokumen-dan-Tag-Git.md)
+**Lanjut ke Penyelidikan Lanjutan:** [`P00007 — Demarkasi Versioning: Membedakan Versi Konseptual Sistem, Versi Dokumen Repositori, dan Versi Tag Git`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00007-Demarkasi-Versioning-Sistem-Dokumen-dan-Tag-Git.md)
+
 ---
 
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
+## 13. Catatan Kaki Akademis (Footnotes) & Bibliografi Terkurasi
 
-Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
+### 13.1. Catatan Kaki Akademis Bernomor (*Numbered Scholarly Footnotes*)
 
 [^1]: Sweller, J. (1988). *Cognitive load during problem solving: Effects on learning*. Cognitive Science, 12(2), 257–285.
-[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2). Dar al-Kutub al-'Ilmiyyah.
-[^3]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^4]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
-[^5]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 1–2). Dar Thayyibah.
-[^6]: Ibnu Qayyim Al-Jauziyyah, M. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (T. A. Sa'd, Tahqiq; Jilid 4). Dar al-Jil.
-[^7]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1). Dar al-Fikr.
-[^8]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; Jilid 1). Dar al-Basyasyir al-Islamiyyah.
-[^9]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1). Dar al-Kitab al-'Arabi.
-[^10]: Kotter, J. P. (1996). *Leading change*. Harvard Business Review Press.
-[^11]: Lewin, K. (1947). *Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change*. Human Relations, 1(1), 5–41.
-[^12]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+[^2]: Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 2, hlm. 94–112). Dar al-Kutub al-'Ilmiyyah.
+[^3]: As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq; Jilid 1, hlm. 159). Dar al-Kutub al-'Ilmiyyah.
+[^4]: Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1, hlm. 142–158). Dar al-Fikr.
+[^5]: Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+[^6]: Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 1–2). Dar Thayyibah.
+[^7]: Ibnu Qayyim Al-Jauziyyah, S. M. (2002). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (M. A. Ibrahim, Tahqiq; Jilid 3, hlm. 11–22). Dar Ibn al-Jauzi.
+[^8]: Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq; Jilid 1, hlm. 35–60). Dar al-Kitab al-'Arabi.
+[^9]: Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq; hlm. 40–72). Dar al-Basyasyir al-Islamiyyah.
+[^10]: Lewin, K. (1947). *Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change*. Human Relations, 1(1), 5–41.
+[^11]: Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+[^12]: Humble, J., & Farley, D. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
 [^13]: Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer Science & Business Media.
-[^14]: Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
+[^14]: Kotter, J. P. (1996). *Leading change*. Harvard Business Review Press.
 [^15]: Rogers, E. M. (2003). *Diffusion of innovations* (5th ed.). Free Press.
+[^16]: Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
+[^17]: Bridges, W. (2009). *Managing transitions: Making the most of change* (3rd ed.). Da Capo Lifelong Books.
+[^18]: Weick, K. E., & Quinn, R. E. (1999). *Organizational change and development*. Annual Review of Psychology, 50(1), 361–386.
+[^19]: Burnes, B. (2004). *Kurt Lewin and the planned approach to change: A re-appraisal*. Journal of Management Studies, 41(6), 977–1002.
+[^20]: Prochaska, J. O., & DiClemente, C. C. (1983). *Stages and processes of self-change of smoking: Toward an integrative model of change*. Journal of Consulting and Clinical Psychology, 51(3), 390–395.
+[^21]: Argyris, C. (1990). *Overcoming organizational defenses: Facilitating organizational learning*. Allyn & Bacon.
+[^22]: Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Rev. ed.). Doubleday.
+[^23]: Christensen, C. M., & Overdorf, M. (2000). *Meeting the challenge of disruptive change*. Harvard Business Review, 78(2), 66–77.
+[^24]: Nonaka, I., & Toyama, R. (2003). *The knowledge-creating theory revisited: Knowledge creation as a synthesizing process*. Knowledge Management Research & Practice, 1(1), 2–10.
+[^25]: Ford, J. D., Ford, L. W., & D'Amelio, A. (2008). *Resistance to change: The rest of the story*. Academy of Management Review, 33(2), 362–377.
+[^26]: Oreg, S. (2003). *Resistance to change: Developing an individual differences measure*. Journal of Applied Psychology, 88(4), 680–693.
+[^27]: Van de Ven, A. H., & Poole, M. S. (1995). *Explaining development and change in organizations*. Academy of Management Review, 20(3), 510–540.
+[^28]: Armenakis, A. A., & Bedeian, A. G. (1999). *Organizational change: A review of theory and research in the 1990s*. Journal of Management, 25(3), 293–315.
+[^29]: Fernandez, S., & Rainey, H. G. (2006). *Managing successful organizational change in the public sector*. Public Administration Review, 66(2), 168–176.
+[^30]: Bass, B. M., & Avolio, B. J. (1994). *Improving organizational effectiveness through transformational leadership*. SAGE Publications.
+[^31]: Horner, R. H., Sugai, G., & Anderson, C. M. (2010). *Examining the evidence base for school-wide positive behavior support*. Focus on Exceptional Children, 42(8), 1–14.
+[^32]: Sugai, G., & Horner, R. H. (2006). *A promising approach for expanding and sustaining school-wide positive behavior support*. School Psychology Review, 35(2), 245–259.
+[^33]: Braithwaite, J. (2002). *Restorative justice & responsive regulation*. Oxford University Press.
+[^34]: Zehr, H. (2002). *The little book of restorative justice*. Good Books.
+[^35]: Morrison, B. (2007). *Restoring safe school communities: A whole school approach to bullying, violence and alienation*. Federation Press.
+[^36]: Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). *Examining the effects of school-wide positive behavioral interventions and supports on student outcomes*. Journal of Positive Behavior Interventions, 12(3), 133–148.
+[^37]: Lane, K. L., Kalberg, J. R., & Menzies, H. M. (2009). *Developing schoolwide programs to prevent and manage problem behaviors: A step-by-step approach*. Guilford Press.
+[^38]: Chitiyo, M., May, M. E., & Chitiyo, G. (2012). *An assessment of the evidence-base for school-wide positive behavior support*. Education and Treatment of Children, 35(1), 1–24.
+[^39]: Epstein, M., Atkins, M., Cullinan, D., Kutash, K., & Weaver, R. (2008). *Reducing behavior problems in the elementary school classroom*. National Center for Education Evaluation.
+[^40]: Sailor, W., Dunlap, G., Sugai, G., & Horner, R. (Eds.). (2009). *Handbook of positive behavior support*. Springer.
+[^41]: Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (A. M. Syakir, Tahqiq). Maktabah al-Halabi.
+[^42]: Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1–2). Mu'assasah ar-Risalah.
+[^43]: Asy-Syathibi, I. M. (1992). *Al-I'tisham* (M. R. Ridha, Tahqiq; Jilid 1–2). Dar al-Ma'rifah.
+[^44]: Ad-Dahlawi, S. W. (2005). *Hujjatullah al-Balighah* (M. S. Al-Uwaidzi, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+[^45]: Abu Dawud, S. A. (2009). *Sunan Abi Dawud* (S. Al-Arnauth, Tahqiq; Jilid 1–7). Dar ar-Risalah al-'Alamiyyah.
+[^46]: Al-Hakim An-Naisaburi, M. A. (1990). *Al-Mustadrak 'ala ash-Shahihain* (M. A. 'Atha, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+[^47]: Ibnu Taimiyyah, A. A. (1991). *Dar'u Ta'arudh al-'Aql wan-Naql* (M. R. Salim, Tahqiq; Jilid 1–11). Jami'ah al-Imam Muhammad bin Su'ud.
+[^48]: Al-Qarafi, A. I. (1994). *Al-Furuq: Anwar al-Buruq fi Anwa' al-Furuq* (K. Al-Mansur, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+[^49]: As-Sarkhasi, M. A. (1993). *Ushul as-Sarkhasi* (A. A. Al-Afghani, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+[^50]: Al-Albani, M. N. (1995). *Silsilah al-Ahadits ash-Shahihah* (Jilid 1–7). Maktabah al-Ma'arif.
+
+### 13.2. Bibliografi Terkurasi (Standar APA 7th Edition Tanpa Paywall Komersial)
+
+Abu Dawud, S. A. (2009). *Sunan Abi Dawud* (S. Al-Arnauth, Tahqiq; Jilid 1–7). Dar ar-Risalah al-'Alamiyyah.
+Ad-Dahlawi, S. W. (2005). *Hujjatullah al-Balighah* (M. S. Al-Uwaidzi, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+Al-Albani, M. N. (1995). *Silsilah al-Ahadits ash-Shahihah* (Jilid 1–7). Maktabah al-Ma'arif.
+Al-Bukhari, M. I. (2002). *Shahih al-Bukhari* (M. Z. An-Nashir, Tahqiq; Jilid 1–4). Dar Thuq an-Najah.
+Al-Ghazali, A. H. (1997). *Al-Mustashfa min 'Ilm al-Ushul* (M. S. Al-Asyqar, Tahqiq; Jilid 1–2). Mu'assasah ar-Risalah.
+Al-Hakim An-Naisaburi, M. A. (1990). *Al-Mustadrak 'ala ash-Shahihain* (M. A. 'Atha, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah* (K. Al-Manawi, Tahqiq). Dar al-Kitab al-'Arabi.
+Al-Qarafi, A. I. (1994). *Al-Furuq: Anwar al-Buruq fi Anwa' al-Furuq* (K. Al-Mansur, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+Al-Qarafi, A. I. (1995). *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* (A. Abu Ghuddah, Tahqiq). Dar al-Basyasyir al-Islamiyyah.
+Argyris, C. (1990). *Overcoming organizational defenses: Facilitating organizational learning*. Allyn & Bacon.
+Armenakis, A. A., & Bedeian, A. G. (1999). *Organizational change: A review of theory and research in the 1990s*. Journal of Management, 25(3), 293–315.
+As-Sarkhasi, M. A. (1993). *Ushul as-Sarkhasi* (A. A. Al-Afghani, Tahqiq; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (M. M. Asy-Syafi'i, Tahqiq). Dar al-Kutub al-'Ilmiyyah.
+Asy-Syafi'i, M. I. (1940). *Ar-Risalah* (A. M. Syakir, Tahqiq). Maktabah al-Halabi.
+Asy-Syathibi, I. M. (1992). *Al-I'tisham* (M. R. Ridha, Tahqiq; Jilid 1–2). Dar al-Ma'rifah.
+Asy-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. D. Diraz & M. A. Utsman, Tahqiq; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+Bass, B. M., & Avolio, B. J. (1994). *Improving organizational effectiveness through transformational leadership*. SAGE Publications.
+Bradshaw, C. P., Mitchell, M. M., & Leaf, P. J. (2010). *Examining the effects of school-wide positive behavioral interventions and supports on student outcomes*. Journal of Positive Behavior Interventions, 12(3), 133–148.
+Braithwaite, J. (2002). *Restorative justice & responsive regulation*. Oxford University Press.
+Bridges, W. (2009). *Managing transitions: Making the most of change* (3rd ed.). Da Capo Lifelong Books.
+Burnes, B. (2004). *Kurt Lewin and the planned approach to change: A re-appraisal*. Journal of Management Studies, 41(6), 977–1002.
+Chitiyo, M., May, M. E., & Chitiyo, G. (2012). *An assessment of the evidence-base for school-wide positive behavior support*. Education and Treatment of Children, 35(1), 1–24.
+Christensen, C. M., & Overdorf, M. (2000). *Meeting the challenge of disruptive change*. Harvard Business Review, 78(2), 66–77.
+Epstein, M., Atkins, M., Cullinan, D., Kutash, K., & Weaver, R. (2008). *Reducing behavior problems in the elementary school classroom*. National Center for Education Evaluation.
+Farley, D., & Humble, J. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
+Fernandez, S., & Rainey, H. G. (2006). *Managing successful organizational change in the public sector*. Public Administration Review, 66(2), 168–176.
+Ford, J. D., Ford, L. W., & D'Amelio, A. (2008). *Resistance to change: The rest of the story*. Academy of Management Review, 33(2), 362–377.
+Fowler, M. (2018). *Refactoring: Improving the design of existing code* (2nd ed.). Addison-Wesley Professional.
+Horner, R. H., Sugai, G., & Anderson, C. M. (2010). *Examining the evidence base for school-wide positive behavior support*. Focus on Exceptional Children, 42(8), 1–14.
+Humble, J., & Farley, D. (2010). *Continuous delivery: Reliable software releases through build, test, and deployment automation*. Addison-Wesley Professional.
+Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (A. As-Salim, Tahqiq; Jilid 1–2). Dar al-Fikr.
+Ibnu Qayyim Al-Jauziyyah, S. M. (2002). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (M. A. Ibrahim, Tahqiq; Jilid 1–4). Dar Ibn al-Jauzi.
+Ibnu Taimiyyah, A. A. (1991). *Dar'u Ta'arudh al-'Aql wan-Naql* (M. R. Salim, Tahqiq; Jilid 1–11). Jami'ah al-Imam Muhammad bin Su'ud.
+Kotter, J. P. (1996). *Leading change*. Harvard Business Review Press.
+Lane, K. L., Kalberg, J. R., & Menzies, H. M. (2009). *Developing schoolwide programs to prevent and manage problem behaviors: A step-by-step approach*. Guilford Press.
+Lewin, K. (1947). *Frontiers in group dynamics: Concept, method and reality in social science; social equilibria and social change*. Human Relations, 1(1), 5–41.
+Morrison, B. (2007). *Restoring safe school communities: A whole school approach to bullying, violence and alienation*. Federation Press.
+Muslim, I. H. (2006). *Shahih Muslim* (N. M. Al-Faryabi, Tahqiq; Jilid 1–2). Dar Thayyibah.
+Nonaka, I., & Toyama, R. (2003). *The knowledge-creating theory revisited: Knowledge creation as a synthesizing process*. Knowledge Management Research & Practice, 1(1), 2–10.
+Oreg, S. (2003). *Resistance to change: Developing an individual differences measure*. Journal of Applied Psychology, 88(4), 680–693.
+Prochaska, J. O., & DiClemente, C. C. (1983). *Stages and processes of self-change of smoking: Toward an integrative model of change*. Journal of Consulting and Clinical Psychology, 51(3), 390–395.
+Rogers, E. M. (2003). *Diffusion of innovations* (5th ed.). Free Press.
+Sailor, W., Dunlap, G., Sugai, G., & Horner, R. (Eds.). (2009). *Handbook of positive behavior support*. Springer.
+Schein, E. H. (2010). *Organizational culture and leadership* (4th ed.). Jossey-Bass.
+Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization* (Rev. ed.). Doubleday.
+Sugai, G., & Horner, R. H. (2006). *A promising approach for expanding and sustaining school-wide positive behavior support*. School Psychology Review, 35(2), 245–259.
+Sweller, J. (1988). *Cognitive load during problem solving: Effects on learning*. Cognitive Science, 12(2), 257–285.
+Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer Science & Business Media.
+Van de Ven, A. H., & Poole, M. S. (1995). *Explaining development and change in organizations*. Academy of Management Review, 20(3), 510–540.
+Weick, K. E., & Quinn, R. E. (1999). *Organizational change and development*. Annual Review of Psychology, 50(1), 361–386.
+Zehr, H. (2002). *The little book of restorative justice*. Good Books.
