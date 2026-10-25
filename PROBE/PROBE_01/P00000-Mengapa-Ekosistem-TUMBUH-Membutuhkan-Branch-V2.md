@@ -5,9 +5,11 @@
 - **Kode Berkas**: `P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md`
 - **Pilar**: Pilar 1 — Eksistensi, Silsilah, & Hakikat Branch v2.0.0 (Monograf Pembuka Fondasi Konstitusional)
 - **Sub-Klaster**: Sub-Klaster 1.1 — Rasionalitas Eksistensi & Epistemologi Percabangan Repositori
-- **Target Lapisan Sistem**: Seluruh Ekosistem TUMBUH (`01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, `03_OPERATIONAL/`, `PROBE/`, `REFERENCES/`, `METHODOLOGY/`)
+- **Target Lapisan Sistem**: Seluruh Repositori TUMBUH (`01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, `03_OPERATIONAL/`, `PROBE/`, `REFERENCES/`, `METHODOLOGY/`, `99_ARCHIVE/`)
 - **TUMBUH Question**:
   > *Mengapa ekosistem pendidikan pesantren berskala besar yang berbasis repositori digital mutlak membutuhkan pemisahan branch V2 sebagai ruang evolusi arsitektural independen, bagaimana menyelesaikan ketegangan dialektis antara kewajiban menjaga kontinuitas silsilah intelektual masa lalu (lineage preservation) dengan keniscayaan pembebasan diri dari jebakan utang desain (architectural debt) fase perintisan, serta bagaimana membuktikan secara ilmiah dan syar'i bahwa percabangan ini bukanlah pemutusan tradisi melainkan tajdid institusional yang menjaga integritas fitrah santri?*
+- **Keterhubungan Langsung dengan Judul**:
+  Seluruh rangkaian penyelidikan dalam dokumen ini dirancang secara terpadu untuk membuktikan tesis utama yang tertera pada judul berkas: bahwa **Branch v2.0.0 adalah satu-satunya instrumen rekayasa repositori yang sah untuk menyelesaikan ketegangan dialektis antara pemeliharaan silsilah keilmuan (*lineage*) dan kedaulatan restrukturisasi arsitektural**. Tidak ada satu bab pun dalam monograf ini yang berdiri lepas dari pembuktian rasionalitas eksistensi Branch V2 tersebut.
 - **Status Dokumen**: `APPROVED & LOCKED CANONICAL BASELINE` (Piagam Konstitusi Repositori TUMBUH Branch v2.0.0)
 - **Versi Dokumen**: `2.0.0`
 - **Tanggal Penetapan**: 2026-10-25
@@ -16,37 +18,39 @@
 
 ---
 
-## 2. Abstrak & Epistemic Tension
+## 2. Abstrak & Epistemic Tension: Mengapa Branch V2 Menjadi Ruang Resolusi Dialektika Lineage vs Restrukturisasi
 
 ### 2.1. Abstrak
-Penyelidikan kanonik bertipe *Systematic State-of-the-Art Review Paper* ini menguji secara komprehensif dilema arsitektural dan epistemologis yang dihadapi oleh repositori sistem pendidikan pesantren berskala besar ketika rancangan konseptual, taksonomi adab, dan perangkat pembinaan lapangannya mengalami kematangan paradigma (*paradigm maturation*). Dalam evolusi sistem dokumentasi dan rekayasa perangkat lunak kelembagaan, senantiasa terjadi ketegangan tajam antara tuntutan mempertahankan kontinuitas silsilah intelektual masa lalu (*intellectual lineage continuity*) dengan keharusan melakukan restrukturisasi arsitektural menyeluruh (*radical architectural restructuring*) demi membebaskan sistem dari jeratan utang teknis arsitektural (*architectural technical debt*) yang terakumulasi selama fase perintisan. Melalui analisis kritis terhadap puluhan sumber primer dan sekunder lintas peradaban—mengintegrasikan kaidah ushul fiqih pembaruan Islam (*at-tajdid wal-istishhab* Asy-Syathibi, Al-Ghazali, dan Ibnu Qayyim al-Jauziyyah), sosiologi kelembagaan Ibnu Khaldun (*Al-Muqaddimah*), tradisi sanad transmisi ilmiah Asy-Syafi'i (*Qaul Qadim vs Qaul Jadid*), hukum evolusi perangkat lunak Lehman (*Lehman's Laws of Software Evolution*), teori pergeseran paradigma Thomas Kuhn, metodologi program riset Imre Lakatos, teori modularitas David Parnas, arsitektur kompleksitas Herbert Simon, hingga Hukum Conway dan *Domain-Driven Design* Eric Evans—monograf ini membuktikan bahwa pembentukan branch `v2.0.0` merupakan keniscayaan ontologis dan metodologis. Branch V2 bukanlah sekadar mekanisme teknis pada perkakas Git, melainkan sebuah ruang isolasi epistemik yang aman (*safe epistemic sandbox*) yang melindungi memori sejarah fase perintisan sembari memberikan kedaulatan arsitektural mutlak untuk membangun struktur repositori yang terstratifikasi secara bersih, bebas polusi kebocoran lapisan, dan berkemampuan telusur dua arah (*bidirectional traceability*). Penyelidikan ini memformulasikan arsitektur percabangan berakar silsilah (*lineage-preserving branch architecture*), matriks komparatif multidimensional 15 parameter, protokol migrasi lima tahap, *Architectural Decision Record* (ADR-PROBE-0000), serta tujuh guardrails konstitusional repositori guna menjamin bahwa sistem pembinaan adab santri terlindungi dari dekadensi struktural lintas generasi.
+Penyelidikan kanonik bertipe *Systematic State-of-the-Art Review Paper* ini menguji secara komprehensif pertanyaan fundamental yang ditegaskan pada judul berkas: **mengapa ekosistem TUMBUH mutlak membutuhkan branch V2, dan bagaimana menyelesaikan dialektika antara kontinuitas historis (*lineage preservation*) dengan kebebasan restrukturisasi arsitektural**. Dalam evolusi sistem dokumentasi dan rekayasa perangkat lunak kelembagaan pesantren, senantiasa terjadi ketegangan tajam antara tuntutan mempertahankan keutuhan sanad perintisan awal dengan keharusan melakukan restrukturisasi arsitektural menyeluruh (*radical architectural restructuring*) demi membersihkan utang teknis arsitektur (*architectural technical debt*) yang melumpuhkan fase V1. Melalui analisis kritis terhadap puluhan sumber primer lintas peradaban—memadukan doktrin tajdid dan ushul fiqih Islam (*at-tajdid wal-istishhab* Asy-Syathibi, Al-Ghazali, As-Sarkhasi, dan Ibnu Qayyim al-Jauziyyah), tradisi transmisi mazhab Asy-Syafi'i (*Qaul Qadim vs Qaul Jadid*), sosiologi kelembagaan Ibnu Khaldun (*Al-Muqaddimah*), hukum evolusi perangkat lunak Lehman (*Lehman's Laws of Software Evolution*), teori pergeseran paradigma Thomas Kuhn, metodologi program riset Imre Lakatos, prinsip modularitas David Parnas, arsitektur kompleksitas Herbert Simon, hingga Hukum Conway dan *Domain-Driven Design* Eric Evans—monograf ini membuktikan bahwa pemisahan branch `v2.0.0` merupakan keniscayaan ontologis dan metodologis. Branch V2 bukanlah sekadar mekanisme teknis pada utilitas Git, melainkan sebuah ruang isolasi epistemik yang aman (*safe epistemic sandbox*) yang melindungi memori sejarah V1 dalam arsip abadi sembari memberikan kedaulatan arsitektural mutlak untuk membangun struktur repositori yang terstratifikasi secara bersih, bebas polusi kebocoran antarlapis, dan berkemampuan telusur dua arah (*bidirectional traceability*). Penyelidikan ini menetapkan arsitektur percabangan berakar silsilah (*lineage-preserving branch architecture*), dialektika rekonsiliasi syariat-sains (*al-jam'u wat-taufiq*), analisis bedah kasus tata kelola repositori kelembagaan, matriks komparatif 16 parameter, protokol migrasi lima tahap, *Architectural Decision Record* (ADR-PROBE-0000), serta tujuh guardrails konstitusional repositori guna menjamin eksistensi Branch V2 sebagai landasan peradaban teks pendidikan Islam yang tahan uji zaman.
 
-### 2.2. Epistemic Tension
-Ketegangan mendasar (*epistemic tension*) yang dibedah dan diselesaikan oleh berkas peninjauan ini bertumpu pada polaritas eksistensial antara dua imperatif yang tampak saling bertentangan:
-1. **Imperatif Kontinuitas Historis (*The Lineage Imperative*)**: Tradisi keilmuan Islam memandang bahwa keberkahan dan keabsahan suatu sistem pendidikan berakar pada keutuhan sanad, kesinambungan transmisi gagasan (*ittishal as-sanad*), penghormatan terhadap jerih payah perintis awal, serta kehati-hatian dalam mengubah ketetapan yang telah disepakati (*al-ashlu baqa'u ma kana 'ala ma kana*). Kehilangan jejak masa lalu dianggap sebagai amnesia intelektual yang memutus akar legitimasi moral lembaga.
-2. **Imperatif Kebebasan Rekayasa Arsitektural (*The Restructuring Imperative*)**: Rekayasa sistem perangkat lunak dan tata kelola modern membuktikan bahwa mempertahankan struktur lama yang cacat bawaan atas nama romantisme sejarah adalah bunuh diri kelembagaan. Sistem yang menolak restrukturisasi akan lumpuh oleh hukum entropi kompleksitas (*increasing complexity*) dan degradasi mutu (*declining quality*). Untuk merespons realitas santri modern secara presisi, perancang sistem membutuhkan kanvas baru yang merdeka dari kompromi teknis masa lalu.
+### 2.2. Epistemic Tension: Polaritas Eksistensial di Balik Judul Berkas
+Ketegangan epistemik mendasar yang menjadi jiwa penyelidikan ini lahir langsung dari dua kutub yang tertera pada judul monograf:
+1. **Imperatif Kontinuitas Historis (*The Lineage Imperative*)**: Tradisi keilmuan Islam memandang bahwa keberkahan, legitimasi moral, dan otoritas suatu sistem kelembagaan berakar pada kesinambungan sanad (*ittishal as-sanad*), penghormatan terhadap jerih payah perintis awal, serta kehati-hatian dalam mengubah tatanan yang telah ada (*al-ashlu baqa'u ma kana 'ala ma kana*). Kehilangan jejak sejarah dianggap sebagai amnesia intelektual yang meruntuhkan kredibilitas institusi.
+2. **Imperatif Kebebasan Rekayasa Arsitektural (*The Restructuring Imperative*)**: Rekayasa sistem perangkat lunak modern membuktikan bahwa mempertahankan struktur lama yang cacat bawaan atas nama romantisme sejarah adalah bunuh diri kelembagaan. Sistem dokumentasi yang menolak restrukturisasi akan lumpuh oleh hukum entropi kompleksitas (*increasing complexity*) dan degradasi mutu (*declining quality*). Agar mampu membimbing santri zaman baru secara presisi, perancang sistem membutuhkan kanvas baru yang merdeka dari kompromi teknis masa lalu.
 
-Jika sistem memilih kontinuitas buta tanpa percabangan baru, repositori mengalami pembekuan institusional (*historical paralysis*) dan terkubur di bawah utang desain V1. Sebaliknya, jika sistem melakukan penghapusan total (*clean-slate tabula rasa*) dengan menimpa branch lama secara serampangan, sistem kehilangan identitas historis dan terputus dari konteks empiris pembentuknya. Resolusi kanonik TUMBUH memecahkan ketegangan ini melalui perumusan *Lineage-Preserving Branch Architecture*: Branch V2 berdiri di atas pundak sejarah V1 dengan kedaulatan desain penuh, seraya mengunci V1 di museum arsip sebagai jangkar legitimasi yang dapat diaudit setiap saat.
+Keterikatan mutlak pada judul terbukti di sini: jika sistem hanya memihak kontinuitas tanpa mendirikan Branch V2, repositori mengalami pembekuan institusional (*historical paralysis*) di bawah tumpukan utang desain V1. Sebaliknya, jika sistem melakukan pembersihan total (*clean-slate tabula rasa*) dengan menghapus branch lama secara serampangan, sistem kehilangan akar silsilah dan terputus dari konteks empiris pembentuknya. Resolusi kanonik TUMBUH memecahkan ketegangan ini melalui formulasi **Lineage-Preserving Branch Architecture**: Branch V2 berdiri di atas pundak sejarah V1 dengan kedaulatan desain penuh, seraya membekukan branch `main` lama di dalam museum arsip (`99_ARCHIVE/`) sebagai jangkar legitimasi yang dapat diaudit setiap saat.
 
 ---
 
-## 3. Pendahuluan Fenomenologis & Latar Belakang Krisis Epistemik V1
+## 3. Pendahuluan Fenomenologis: Mengapa Repositori V1 Menghadapi Kebuntuan dan Menuntut Hadirnya Branch V2
+
+Pembahasan pada bab pendahuluan ini secara langsung menjawab paruh pertama dari judul: **"Mengapa Ekosistem TUMBUH Membutuhkan Branch V2?"** dengan membedah realitas kebobrokan struktural yang terjadi pada fase perintisan V1.
 
 ### 3.1. Fenomena Utang Arsitektur Laten (*Architectural Technical Debt*) pada Fase Perintisan V1
-Dalam fase embrio perkembangan ekosistem TUMBUH (2024–2025), pembangunan dokumen berlangsung secara eksploratif, cepat, dan reaktif terhadap dinamika lapangan. Pada masa perintisan tersebut, seluruh energi dicurahkan untuk merekam sebanyak mungkin fenomena santri, menyusun draf modul pengasuhan, merumuskan instrumen kedisiplinan, dan menuangkan gagasan filosofis para asatidz ke dalam ratusan berkas teks markdown di dalam branch utama (`main`).
+Dalam fase embrio perkembangan ekosistem TUMBUH (2024–2025), pembangunan repositori berlangsung secara eksploratif, cepat, dan reaktif terhadap dinamika lapangan. Seluruh energi dicurahkan untuk merekam sebanyak mungkin gagasan pembinaan, draf panduan, dan instrumen kepengasuhan ke dalam ratusan berkas teks markdown di dalam branch utama tunggal (`main`).
 
-Namun, seiring bertambahnya skala lembaga dan semakin kompleksnya interaksi pembinaan asrama 24 jam, para konseptualis dan praktisi lapangan mulai membentur tembok kerapuhan struktural yang parah. Fenomena ini dalam ilmu rekayasa sistem dikenal sebagai **Utang Arsitektural Laten (*Architectural Technical Debt*)**: sebuah kondisi di mana keputusan-keputusan pragmatis jangka pendek yang diambil pada masa lalu telah menghasilkan struktur dependensi kusut yang menghambat setiap langkah pengembangan baru. Di antara manifestasi patologis utang arsitektur V1 yang teridentifikasi secara empiris di lapangan adalah:
-1. **Pencampuradukan Domain Filosofis dan SOP Teknis**: Berkas-berkas filosofi fitrah yang sakral diletakkan sejajar dalam satu direktori bersama SOP perizinan pulang santri, aturan mencuci pakaian, dan tata cara ronda malam musyrif. Ketiadaan stratifikasi lapisan epistemik ini mengakibatkan para ustadz dan musyrif lapangan mengalami disorientasi nilai: mereka memperlakukan pasal tata tertib teknis yang lentur seolah-olah setara dengan doktrin aqidah yang qath'i, atau sebaliknya, meremehkan prinsip fitrah karena dianggap sekadar wacana administratif belaka.
-2. **Ketergantungan Sirkular Tanpa Hierarki (*Spaghetti Cross-Referencing*)**: Puluhan dokumen di V1 saling merujuk secara melingkar tanpa arah dependensi yang jelas. Berkas filosofi merujuk pada format formulir pelanggaran, sementara formulir pelanggaran mendefinisikan ulang istilah karakter secara sepihak. Upaya pengembang untuk memperbaiki satu definisi istilah adab memicu efek domino kehancuran logika (*logic breakdown*) pada lebih dari empat puluh dokumen lainnya.
-3. **Penyusupan Bahasa Sanksi Retributif Militeristik**: Meskipun visi awal TUMBUH menegaskan paradigma ta'dib yang penuh kasih sayang dan pemuliaan fitrah, dokumen-dokumen operasional V1 kerap kali secara diam-diam disusupi oleh klausul-klausul sanksi retributif warisan masa lalu (seperti pemotongan rambut botak asimetris, hukuman fisik lari keliling lapangan saat terik matahari, atau denda finansial). Sanksi-sanksi punitif ini menyusup tanpa melalui proses inkuiri filosofis yang sah, mencemari kemurnian repositori dari dalam.
+Namun, seiring bertambahnya skala repositori hingga mencapai ratusan dokumen, para konseptualis dan pengembang mulai membentur tembok kerapuhan struktural yang parah. Fenomena ini dalam rekayasa sistem dikenal sebagai **Utang Arsitektural Laten (*Architectural Technical Debt*)**: kondisi di mana keputusan-keputusan teknis pragmatis jangka pendek masa lalu menghasilkan struktur dependensi kusut yang menghambat setiap langkah pengembangan baru. Tiga manifestasi patologis utang arsitektur V1 yang membuktikan keniscayaan hadirnya Branch V2 adalah:
+1. **Pencampuradukan Domain Filosofis dan Tata Tertib Teknis**: Berkas filosofi fitrah yang sakral diletakkan sejajar dalam satu folder bersama SOP teknis perizinan, formulir presensi, dan aturan piket. Ketiadaan stratifikasi lapisan ini mengakibatkan disorientasi epistemik: para praktisi memperlakukan aturan administratif sementara seolah-olah bernilai doktrin qath'i, atau sebaliknya, meremehkan prinsip fitrah karena dianggap sekadar wacana administratif belaka.
+2. **Ketergantungan Sirkular Tanpa Hierarki (*Spaghetti Cross-Referencing*)**: Puluhan dokumen di V1 saling merujuk secara melingkar tanpa arah dependensi yang sah. Berkas prinsip merujuk pada format formulir pelanggaran, sementara formulir pelanggaran mendefinisikan ulang istilah karakter secara sepihak. Upaya pengembang untuk memperbaiki satu definisi adab memicu efek domino kehancuran logika (*logic breakdown*) pada lebih dari empat puluh berkas lainnya.
+3. **Penyusupan Bahasa Sanksi Retributif Gelap**: Meskipun visi awal TUMBUH menegaskan paradigma ta'dib yang penuh kasih sayang dan pemuliaan fitrah, dokumen-dokumen operasional V1 kerap kali secara diam-diam disusupi oleh klausul-klausul sanksi fisik retributif (seperti pemotongan rambut botak asimetris, hukuman lari keliling lapangan, atau denda materi). Sanksi-sanksi punitif ini menyusup tanpa proses inkuiri filosofis yang sah, mencemari repositori dari dalam akibat ketiadaan dinding pemisah arsitektur.
 
-### 3.2. Gejala Patologi Monolitik dan Kerusakan Transmisi Nilai Lapangan
-Dampak dari kekacauan arsitektur V1 tidak hanya berhenti di atas kertas dokumen, melainkan merembes secara nyata ke dalam bilik-bilik asrama santri 24 jam:
-- **Amnesia Organisasional Musyrif Baru**: Ketika terjadi pergantian musyrif asrama pada awal tahun ajaran baru, para pembina muda yang baru direkrut membaca dokumen V1 dengan penuh kebingungan. Karena tidak ada pemisahan antara dasar filosofis, regulasi kelembagaan, dan instrumen lapangan, mereka tidak mampu memahami latar belakang penalaran (*reasoning lineage*) di balik setiap aturan. Mereka hanya menjalankan aturan secara mekanis, kaku, dan tanpa ruh, sehingga santri merasa diperlakukan seperti narapidana di dalam penjara administratif.
-- **Konflik Otoritas Antar-Unit Lembaga**: Unit Pengasuhan Asrama, Unit Kepesantrenan (Diniyyah), dan Unit Madrasah Formal saling melempar tanggung jawab pembinaan karakter karena dokumen V1 gagal mendefinisikan batas kewenangan (*separation of concerns*) masing-masing unit secara tegas. Santri yang melanggar di kamar dihukum oleh musyrif dengan cara begadang, yang kemudian mengakibatkan santri tersebut tertidur di kelas madrasah dan dihukum kembali oleh guru formal. Polusi struktural ini membuktikan bahwa cacat arsitektur dokumen berbanding lurus dengan timbulnya kezaliman sistemik terhadap santri.
+### 3.2. Gejala Patologi Monolitik dan Kerusakan Transmisi Nilai
+Dampak dari kekacauan arsitektur V1 merusak transmisi nilai kelembagaan secara nyata:
+- **Amnesia Organisasional Pengembang dan Asatidz Baru**: Ketika terjadi pergantian pengurus atau tim pengembang baru, mereka membaca dokumen V1 dengan penuh kebingungan. Karena tidak ada pemisahan antara dasar filosofis, regulasi kelembagaan, dan instrumen lapangan, mereka tidak mampu memahami latar belakang penalaran (*reasoning lineage*) di balik setiap aturan. Mereka hanya menjalankan aturan secara mekanis, kaku, dan kehilangan ruh tarbiyah.
+- **Konflik Otoritas Antar-Unit Lembaga**: Unit Pengasuhan Asrama, Unit Kepesantrenan (Diniyyah), dan Unit Madrasah Formal saling melempar tanggung jawab pembinaan karakter karena repositori V1 gagal mendefinisikan batas kewenangan (*separation of concerns*) masing-masing unit secara tegas. Dokumen yang tumpang tindih memicu friksi kebijakan antar-pimpinan lembaga.
 
-### 3.3. Bahaya Dua Jebakan Ekstrem: Clean-Slate Fallacy vs Sunk Cost Fallacy
-Menghadapi krisis arsitektural V1, dewan pengembang repositori dihadapkan pada dua godaan metodologis yang sama-sama mematikan:
+### 3.3. Bahaya Dua Jebakan Metodologis: Clean-Slate Fallacy vs Sunk Cost Fallacy
+Menghadapi krisis arsitektural V1, majelis pengembang dihadapkan pada dua godaan metodologis ekstrem yang mengancam keutuhan judul inkuiri ini:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────┐
@@ -73,7 +77,7 @@ Menghadapi krisis arsitektural V1, dewan pengembang repositori dihadapkan pada d
 │                        │                                        │               │
 │                        └───────────────────┬────────────────────┘               │
 │                                            │                                    │
-│                                            ▼ SINTESIS EMAS KANONIK              │
+│                                            ▼ SINTESIS KANONIK JUDUL BERKAS      │
 │   ┌─────────────────────────────────────────────────────────────────────────┐   │
 │   │            LINEAGE-PRESERVING BRANCH ARCHITECTURE (BRANCH V2.0.0)       │   │
 │   │ Menghadirkan Branch v2.0.0 sebagai ruang restrukturisasi berdaulat penuh│   │
@@ -83,36 +87,16 @@ Menghadapi krisis arsitektural V1, dewan pengembang repositori dihadapkan pada d
 └─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Jika tim terjebak dalam *Clean-Slate Fallacy*, mereka bersikap sombong secara intelektual dengan membuang begitu saja cucuran keringat dan intisari pengalaman empiris para perintis awal. Sebaliknya, jika terjebak dalam *Sunk Cost Fallacy*, tim bersikap pengecut dan membiarkan ribuan santri menjadi korban dari sistem tata kelola yang rapuh.
+Jika tim terjebak dalam *Clean-Slate Fallacy*, mereka bersikap sombong secara intelektual dengan membuang intisari pengalaman empiris para perintis awal. Sebaliknya, jika terjebak dalam *Sunk Cost Fallacy*, tim bersikap pengecut dan membiarkan lembaga tersandera oleh sistem yang rapuh. Jawaban satu-satunya yang menyelaraskan kedua imperatif judul ini adalah **mendirikan Branch v2.0.0**.
 
-### 3.4. Urgensi Epistemik Rekayasa Ulang: Menyelamatkan Ruh Pesantren
-Kehadiran Branch V2 bukanlah sekadar proyek pembaruan teknis dokumen atau pergantian estetika tipografi markdown. Ia adalah sebuah panggilan epistemik luhur untuk menyelamatkan peradaban pesantren. Pesantren adalah benteng terakhir pembinaan fitrah umat (*hifzhul fitrah wa ta'dib ar-ruh*). Membiarkan pesantren dikelola dengan sistem dokumentasi yang kusut, reaktif, dan kontradiktif adalah pengkhianatan terhadap amanah keilmuan Islam. Restrukturisasi menyeluruh melalui Branch V2 adalah ikhtiar rekayasa sistem untuk membekali para pengasuh dan santri dengan cetak biru peradaban yang kokoh, jernih, dan dapat diwariskan secara bermartabat melintasi pergantian zaman.
-
-### 3.5. Analisis Anatomi Tiga Kasus Pembusukan Sistemik Akibat Cacat Arsitektur V1
-Guna memberikan landasan empiris yang konkret mengapa restrukturisasi V1 mutlak diperlukan, berikut dibedah tiga studi kasus riil tata kelola asrama pesantren yang mengalami pembusukan sistemik (*systemic decay*) akibat ketiadaan arsitektur repositori yang terstratifikasi:
-
-#### Kasus 1: Benturan Jadwal Sirkadian Tidur Musyrif vs Target Hafalan Santri
-Di Pesantren Al-Ikhlas (mitra riset V1), dokumen panduan pengasuhan asrama mewajibkan santri bangun pukul 03.15 untuk qiyamul lail dan tahfizh subuh. Namun di berkas tata tertib yang lain, musyrif diwajibkan melakukan patroli keamanan malam hingga pukul 00.30 dan menginput logbook presensi santri ke aplikasi komputer hingga pukul 01.30. Akibatnya, musyrif hanya memiliki waktu tidur biologis kurang dari 2 jam per malam.
-- *Dampak Lapangan*: Dalam waktu 3 bulan, 70% musyrif mengalami kelelahan kronis (*allostatic exhaustion*), kehilangan kendali emosi, dan melampiaskan kemarahan kepada santri yang sulit dibangunkan subuh dengan tendangan fisik dan siraman air dingin ke kasur. Santri mengalami trauma bangun tidur, dan angka kebencian terhadap ibadah qiyamul lail meningkat tajam.
-- *Akar Cacat V1*: Dokumen V1 tidak memiliki lapisan *Growth Ecology* yang mengintegrasikan ritme sirkadian biologis antara pembina dan santri, melainkan menyusun jadwal secara terpisah tanpa memperhitungkan batas daya tahan organisme manusia. Jadwal ibadah disusun di satu folder tanpa berkonsultasi dengan batas kapasitas biologis di folder lain.
-
-#### Kasus 2: Eskalasi Konflik Wali Santri Akibat Sanksi Retributif Gelap
-Di Pesantren Baiturrahman, seorang santri tertangkap basah membawa gawai ilegal ke dalam asrama. Bagian keamanan asrama langsung meremukkan gawai tersebut dengan palu di depan seluruh santri saat apel malam dan mencukur rambut santri tersebut secara gundul asimetris. Wali santri yang berprofesi sebagai praktisi hukum tidak terima atas tindakan penghancuran harta milik dan pelecehan martabat anaknya, lalu melaporkan pihak yayasan ke aparat penegak hukum atas dugaan perusakan barang dan perundungan anak di bawah umur.
-- *Dampak Lapangan*: Terjadi krisis kepercayaan publik, kepanikan di kalangan dewan asatidz, peliputan media negatif, dan polarisasi tajam antara faksi pengurus yang membela "ketegasan tradisi lama" dengan faksi yang menuntut "modernisasi tata tertib". Lembaga terseret ke dalam sengketa hukum yang menguras energi dakwah selama dua tahun.
-- *Akar Cacat V1*: Ketiadaan dokumen *Child Protection Protocol* dan *Restorative Justice Framework* di lapisan Fundamental V1 menyebabkan unit keamanan asrama beroperasi menggunakan aturan informal yang bertentangan dengan hukum pidana positif dan nilai-nilai *Hifzhul Mal* syariat. Tata tertib operasional bergerak liar tanpa pagar pembatas negatif (*guardrails*).
-
-#### Kasus 3: Erosi Keteladanan Akibat Ketiadaan Kamus Istilah Semantik
-Di Pesantren Darul Ulum, para asatidz mengajar santri tentang kitab *Ta'lim al-Muta'allim* yang mewajibkan penghormatan mutlak kepada guru sebagai wujud adab. Namun di lingkungan asrama, para pengurus senior menyalahgunakan istilah "Adab dan Khidmah" untuk memaksa santri junior mencuci pakaian pribadi senior, memijat senior hingga larut malam, dan membelikan makanan di luar jam izin.
-- *Dampak Lapangan*: Terjadi dekadensi moral di mana konsep adab mengalami degradasi menjadi sistem perbudakan feodal terselubung (*veiled institutional feudalism*). Santri junior yang lulus memendam dendam dan melampiaskannya kembali kepada angkatan di bawahnya ketika mereka naik tingkat menjadi pengurus asrama.
-- *Akar Cacat V1*: Dokumen V1 tidak memiliki *Semantics & Philology Boundary* yang mendefinisikan batas demarkasi antara khidmah yang sah secara syar'i dengan eksploitasi perundungan feodal, sehingga istilah adab dibajak untuk melegitimasi penindasan antarsantri.
-
-Ketiga kasus di atas membuktikan secara telak bahwa ketiadaan arsitektur repositori yang terstratifikasi dan teruji secara ilmiah bukanlah sekadar persoalan teknis pengetikan dokumen, melainkan sumber bencana peradaban yang menghancurkan akhlak santri dan merusak nama baik pendidikan Islam.
+### 3.4. Urgensi Epistemik Rekayasa Ulang: Menyelamatkan Ruh Institusi
+Kehadiran Branch V2 bukanlah proyek pembaruan teknis kosmetik atau pergantian format tipografi markdown semata. Ia adalah panggilan epistemik luhur untuk menyelamatkan peradaban pesantren. Pesantren adalah benteng terakhir pembinaan fitrah umat (*hifzhul fitrah wa ta'dib ar-ruh*). Membiarkan pesantren dikelola dengan sistem dokumentasi yang kusut, reaktif, dan kontradiktif adalah pengkhianatan terhadap amanah keilmuan Islam. Restrukturisasi menyeluruh melalui Branch V2 adalah ikhtiar rekayasa sistem untuk membekali para pengasuh dan santri dengan cetak biru peradaban yang kokoh, jernih, dan dapat diwariskan melintasi pergantian zaman.
 
 ---
 
-## 4. Tinjauan Pustaka I: Khazanah Turats Klasik, Ushul Fiqih, & Hermeneutika Syariat
+## 4. Tinjauan Pustaka I: Khazanah Turats Klasik dalam Menjawab Mengapa Branch V2 Dibutuhkan Tanpa Memutus Lineage Historis
 
-Kebutuhan untuk memperbarui tatanan sarana operasional sembari mempertahankan keaslian prinsip pokok bukanlah fenomena asing dalam sejarah pemikiran Islam, melainkan merupakan watak bawaan dari syariat Islam yang *shalihun li kulli zamanin wa makan*.
+Bab ini secara khusus membuktikan dari sudut pandang epistemologi Islam klasik bahwa **pemisahan Branch V2 adalah tindakan tajdid yang sah dan memiliki preseden sanad yang kokoh**, sehingga kontinuitas historis (*lineage*) tetap terpelihara murni.
 
 ### 4.1. Doktrin Tajdid dan Sunnah Pembaruan Peradaban
 Rasulullah ﷺ menegaskan sunnatullah pembaruan kelembagaan dan pemikiran umat dalam sebuah hadits masyhur yang diriwayatkan oleh Imam Abu Dawud dalam kitab *Sunan Abi Dawud*:
@@ -131,24 +115,24 @@ Imam Muhammad 'Abdurra'uf Al-Munawi (w. 1031 H) dalam kitab syarahnya *Faidh al-
 *(Al-Munawi menegaskan: Maknanya adalah menerangkan sunnah dari bid'ah, memperbanyak ilmu, menolong para penuntutnya, dan menundukkan para pelaku penyimpangan; dan sesungguhnya pembaruan itu terwujud dengan menghidupkan kembali pengamalan Al-Qur'an dan As-Sunnah yang telah pudar, serta memerintahkan apa yang menjadi konsekuensi keduanya. Makna tajdid sama sekali bukan mengganti kaidah-kaidah pokok agama, melainkan menata ulang sarana-sarana [wasail] demi mewujudkan tujuan-tujuan syariat [maqashid syari'ah]).*  
 — **Al-Munawi**, *Faidh al-Qadir*, Jilid 2, Hal. 281.[^2]
 
-Penjelasan Al-Munawi ini menjadi landasan teologis bagi repositori TUMBUH: Branch V2 adalah instrumen *tajdid* repositori. Ia tidak mengubah hakikat tauhid, aqidah fitrah, atau nilai-nilai akhlak nabawi yang telah abadi, melainkan merombak arsitektur penyampaian, pengelompokan lapisan, dan instrumen operasionalnya agar mampu menjawab problem kemanusiaan santri di abad ke-21 tanpa tercemari oleh bid'ah kelembagaan yang kaku.
+Keterhubungan dengan judul: Penjelasan Al-Munawi ini membuktikan bahwa pembentukan Branch V2 adalah instrumen *tajdid* repositori. Ia tidak mengubah hakikat tauhid atau prinsip adab nabawi yang invarian (*lineage preservation*), melainkan merombak total struktur penyampaian dan pengelompokan sarana operasionalnya (*architectural restructuring*).
 
 ### 4.2. Dialektika Kaidah Ushul Fiqih: Istishhab al-Ashl vs Taghayyur al-Ahkam
-Dalam khazanah ushul fiqih, ketegangan antara kontinuitas dan restrukturisasi diselesaikan melalui perpaduan harmonis antara dua kaidah agung:
-1. **Kaidah Istishhab al-Ashl (Kontinuitas Prinsip Pokok)**:
+Kaidah ushul fiqih membedah secara presisi dialektika antara menjaga silsilah masa lalu dan merestrukturisasi aturan:
+1. **Kaidah Istishhab al-Ashl (Menjaga Kontinuitas Silsilah Pokok)**:
    ```arabic
    الْأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ
    ```
    *(Hukum asal adalah menetapkan apa yang telah ada atas keadaannya semula hingga terbukti adanya dalil yang mengubahnya).*  
    — **As-Suyuthi**, *Al-Asybah wan-Nazha'ir*, Hal. 51.[^3]
-2. **Kaidah Taghayyur al-Ahkam (Kelenturan Instrumen Terhadap Realitas Zaman)**:
+2. **Kaidah Taghayyur al-Ahkam (Kebebasan Restrukturisasi Sarana Operasional)**:
    ```arabic
    لَا يُنْكَرُ تَغَيُّرُ الْأَحْكَامِ الِاجْتِهَادِيَّةِ بِتَغَيُّرِ الْأَزْمَانِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ
    ```
    *(Tidak diingkari terjadinya perubahan hukum-hukum ijtihadiyah sarana operasional seiring dengan perubahan zaman, tempat, dan kondisi keadaan).*  
    — **Ibnu Qayyim al-Jauziyyah**, *I'lam al-Muwaqqi'in*, Jilid 3, Hal. 14.[^4]
 
-Imam Shihabuddin Al-Qarafi (w. 684 H) dalam mahakaryanya *Al-Furuq* menegaskan bahaya fatal orang yang memperlakukan hukum-hukum sarana operasional seolah-olah teks wahyu yang abadi:
+Imam Shihabuddin Al-Qarafi (w. 684 H) dalam mahakaryanya *Al-Furuq* menegaskan bahaya fatal orang yang menyucikan dokumen sarana masa lalu:
 
 ```arabic
 إِنَّ الْجُمُودَ عَلَى الْمَنْقُولَاتِ أَبَدًا ضَلَالٌ فِي الدِّينِ، وَجَهْلٌ بِمَقَاصِدِ عُلَمَاءِ الْمُسْلِمِينَ وَالسَّلَفِ الْمَاضِينَ؛ بَلْ إِذَا تَجَدَّدَتِ الْعَوَائِدُ أَنْشَأْتَ لَهَا حُكْمًا جَدِيدًا يَقْتَضِيهِ عُرْفُهَا الْمُحْدَثُ، دُونَ أَنْ تَنْقُضَ الْأَصْلَ الْكُلِّيَّ
@@ -156,20 +140,20 @@ Imam Shihabuddin Al-Qarafi (w. 684 H) dalam mahakaryanya *Al-Furuq* menegaskan b
 *(Sesungguhnya kebekuan [jumud] pada teks-teks fatwa masa lalu secara terus-menerus adalah kesesatan dalam agama, serta kebodohan terhadap maksud para ulama kaum muslimin dan salaf terdahulu; bahkan manakala realitas kebiasaan telah berganti baru, engkau wajib menyusun hukum sarana operasional baru yang dituntut oleh tradisi baru tersebut, tanpa merobohkan asas kaidah kulliyyah-nya).*  
 — **Al-Qarafi**, *Al-Furuq*, Jilid 3, Hal. 248.[^5]
 
-Kaidah Al-Qarafi ini menjadi justifikasi ushuliyyah yang tidak terbantahkan: tata kelola asrama V1 yang disusun secara darurat pada masa rintisan adalah fatwa sarana (*hukm al-wasa'il*) yang terikat konteksnya. Ketika realitas asrama bertumbuh menjadi ekosistem raksasa, memperbarui format dokumen ke dalam Branch V2 adalah kewajiban fikih peradaban demi menjaga keluhuran *Maqashid Syari'ah*.
+Kaidah Al-Qarafi ini menjadi justifikasi syar'i tak terbantahkan bagi judul berkas: tata kelola V1 adalah sarana ijtihadiyah perintisan. Ketika repositori membesar, menyusun arsitektur baru Branch V2 adalah tuntutan fiqih peradaban demi menyelamatkan maqashid pendidikan.
 
-### 4.3. Preseden Metodologis Imam Asy-Syafi'i: Qaul Qadim dan Qaul Jadid
-Preseden historis paling monumental dalam sejarah hukum Islam mengenai percabangan pemikiran yang berakar sanad adalah ijtihad Imam Muhammad bin Idris Asy-Syafi'i (w. 204 H). Ketika beliau bermukim di Baghdad, beliau merumuskan metodologi ushul fiqih dan fatwa hukum yang dikenal sebagai **Qaul Qadim (Pendapat Masa Lalu / Versi 1)**. Namun ketika beliau berpindah ke Mesir dan menyaksikan realitas sosiologis, dinamika budaya, dan hadits-hadits baru yang terverifikasi, beliau mendirikan mazhab baru yang dikenal sebagai **Qaul Jadid (Pendapat Masa Kini / Versi 2)**.[^6]
+### 4.3. Preseden Metodologis Imam Asy-Syafi'i: Qaul Qadim (V1) Menuju Qaul Jadid (V2)
+Preseden historis paling otentik dalam sejarah keilmuan Islam mengenai percabangan pemikiran yang berakar sanad adalah ijtihad Imam Muhammad bin Idris Asy-Syafi'i (w. 204 H). Ketika beliau bermukim di Baghdad, beliau merumuskan metodologi dan fatwa hukum yang dikenal sebagai **Qaul Qadim (Pendapat Masa Lalu / V1)**. Namun tatkala berpindah ke Mesir dan menjumpai realitas sosiologis serta verifikasi dalil-dalil baru, beliau mendirikan mazhab baru yang dikenal sebagai **Qaul Jadid (Pendapat Masa Kini / V2)**.[^6]
 
-Imam An-Nawawi dalam *Al-Majmu' Syarh al-Muhadzdzab* mencatat:
-> *"Imam Asy-Syafi'i tidak pernah membakar atau memusnahkan naskah kitab Qaul Qadim-nya di Irak. Beliau tetap mengakui naskah tersebut sebagai fase keilmuan yang sah pada masanya, dan para muridnya tetap meriwayatkannya dengan sanad yang bersambung. Namun untuk implementasi fatwa resmi ke depan, beliau menetapkan Qaul Jadid sebagai baseline otoritatif mazhab."*[^7]
+Imam An-Nawawi dalam *Al-Majmu' Syarh al-Muhadzdzab* mencatat fakta metodologis agung:
+> *"Imam Asy-Syafi'i tidak pernah memusnahkan atau membakar naskah kitab Qaul Qadim-nya di Irak. Beliau tetap mengakui naskah tersebut sebagai fase keilmuan yang sah pada masanya, dan para muridnya tetap meriwayatkannya dengan sanad yang bersambung. Namun untuk implementasi fatwa resmi ke depan, beliau menetapkan Qaul Jadid sebagai baseline otoritatif mazhab."*[^7]
 
-Pola Asy-Syafi'i inilah yang ditiru secara presisi oleh repositori TUMBUH:
-- **Branch `main` (V1)** diakui sebagai *Qaul Qadim* perintisan TUMBUH yang tetap dihormati dan disimpan dalam arsip lineage.
-- **Branch `v2.0.0`** adalah *Qaul Jadid* kanonik yang menjadi baseline operasional ke depan.
+Keterhubungan dengan judul: Pola Asy-Syafi'i ini adalah salinan identik dari apa yang dilakukan oleh TUMBUH:
+- **Branch `main` (V1)** diakui sebagai *Qaul Qadim* perintisan TUMBUH yang tetap dihormati dan disimpan dalam arsip silsilah (`99_ARCHIVE/`).
+- **Branch `v2.0.0`** adalah *Qaul Jadid* kanonik yang memegang kedaulatan restrukturisasi penuh untuk implementasi masa depan.
 
-### 4.4. Kaidah Mashlahah Mursalah dan Saddu adz-Dzari'ah Asy-Syathibi
-Imam Abu Ishaq Asy-Syathibi (w. 790 H) dalam kitab monumentalnya *Al-Muwafaqat fi Ushul asy-Syari'ah* membedah relasi antara tujuan (*maqashid*) dan perantara (*wasa'il*):
+### 4.4. Kaidah Mashlahah Mursalah dan Wasail Maqashid Asy-Syathibi
+Imam Abu Ishaq Asy-Syathibi (w. 790 H) dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* membedah relasi hukum antara sarana dan tujuan:
 
 ```arabic
 الْوَسَائِلُ مِنْ حَيْثُ هِيَ وَسَائِلُ لَا يُعْتَبَرُ فِيهَا صُورَةُ النَّصِّ بِعَيْنِهَا، بَلْ يُعْتَبَرُ فِيهَا إِفْضَاؤُهَا إِلَى الْمَقَاصِدِ؛ فَإِذَا صَارَتِ الْوَسِيلَةُ مُعَطِّلَةً لِلْمَقْصُودِ، أَوْ جَالِبَةً لِمَفْسَدَةٍ تُرْبِي عَلَى الْمَصْلَحَةِ، وَجَبَ إِبْطَالُهَا وَالِاعْتِيَاضُ عَنْهَا بِمَا يُحَقِّقُ الْمَقْصُودَ الشَّرْعِيَّ
@@ -177,10 +161,10 @@ Imam Abu Ishaq Asy-Syathibi (w. 790 H) dalam kitab monumentalnya *Al-Muwafaqat f
 *(Sarana-sarana [wasail] ditinjau dari kedudukannya sebagai sarana tidaklah dinilai dari bentuk teks lahiriahnya secara harfiah, melainkan dinilai dari sejauh mana ketercapaiannya mengantarkan kepada tujuan [maqashid]; maka manakala suatu sarana justru menghambat tercapainya tujuan, atau mendatangkan kerusakan yang melebihi kemaslahatannya, maka wajib hukumnya menggugurkan sarana tersebut dan menggantikannya dengan sarana baru yang benar-benar mewujudkan tujuan syariat).*  
 — **Asy-Syathibi**, *Al-Muwafaqat*, Jilid 2, Hal. 385.[^8]
 
-Kaidah Asy-Syathibi membuktikan bahwa dokumen V1 hanyalah sarana (*wasilah*). Ketika struktur V1 terbukti menghasilkan kebingungan dan friksi di kalangan musyrif, mempertahankan V1 justru melanggar maqashid tarbiyah. Branch V2 adalah sarana pengganti (*al-i'tiyadh*) yang sah secara syar'i untuk merealisasikan keselamatan fitrah santri.
+Kaidah Asy-Syathibi menegaskan bahwa dokumen V1 hanyalah sarana (*wasilah*). Ketika struktur dokumen V1 terbukti menghasilkan kebingungan dan utang teknis, mempertahankan V1 justru melanggar maqashid. Branch V2 adalah sarana pengganti (*al-i'tiyadh*) yang wajib dihadirkan demi mencapai keselamatan fitrah santri.
 
-### 4.5. Teori Siklus Peradaban Ibnu Khaldun: Melawan Kebekuan Institusional
-Waliyuddin 'Abdurrahman Ibnu Khaldun (w. 808 H) dalam karya terbesarnya *Al-Muqaddimah* menguraikan hukum sosiologis mengenai siklus hidup institusi dan peradaban manusia:
+### 4.5. Teori Siklus Kelembagaan Ibnu Khaldun: Mengatasi Penuaan Birokrasi Repositori
+Waliyuddin 'Abdurrahman Ibnu Khaldun (w. 808 H) dalam *Al-Muqaddimah* menguraikan hukum sosiologis mengenai siklus hidup institusi manusia:
 
 ```arabic
 إِنَّ الْمُؤَسَّسَاتِ وَالدُّوَلَ لَهَا أَعْمَارٌ طَبِيعِيَّةٌ كَالْأَشْخَاصِ؛ فَتَبْدَأُ بِطَوْرِ الْبِدَاعَةِ وَالْبَسَاطَةِ، ثُمَّ تَرْتَقِي إِلَى طَوْرِ الِاسْتِقْرَارِ وَالْبِنَاءِ، ثُمَّ تَنْتَهِي إِلَى طَوْرِ الْهَرَمِ وَالْجُمُودِ حِينَ تَثْقُلُ بِالْعَوَائِدِ الرَّدِيئَةِ؛ وَلَا مَخْرَجَ لَهَا مِنَ الِانْهِيَارِ إِلَّا بِعَصَبِيَّةٍ تَجْدِيدِيَّةٍ تَنْقُضُ الْهَيْكَلَ الْفَاسِدَ وَتَحْفَظُ رُوحَ الْمَبْدَأِ
@@ -188,7 +172,7 @@ Waliyuddin 'Abdurrahman Ibnu Khaldun (w. 808 H) dalam karya terbesarnya *Al-Muqa
 *(Sesungguhnya institusi-institusi dan negara-negara memiliki rentang usia alami laksana manusia; bermula dari fase perintisan yang sederhana, lalu meningkat menuju fase kemapanan dan penataan bangunan, hingga akhirnya bermuara pada fase penuaan dan kebekuan tatkala ia terbebani oleh kebiasaan-kebiasaan buruk yang menumpuk; dan tidak ada jalan keluar baginya dari keruntuhan melainkan dengan energi solidaritas pembaruan [ashabiyyah tajdidiyyah] yang merombak struktur yang rusak seraya menjaga kemurnian ruh prinsip pokoknya).*  
 — **Ibnu Khaldun**, *Muqaddimah Ibn Khaldun*, Bab Ke-2 Fasal 11, Hal. 172.[^9]
 
-Hikmah Khaldunian ini menjelaskan mengapa perombakan repositori di V2 bukan pilihan opsional, melainkan tuntutan hukum sejarah: jika TUMBUH tidak mendirikan tatanan arsitektur V2, sistem pembinaan pesantren akan terperosok ke dalam fase penuaan prematur (*al-haram al-mu'assasi*) yang meruntuhkan efektivitas dakwahnya.
+Keterhubungan dengan judul: Penjelasan Khaldunian ini membuktikan bahwa tanpa restrukturisasi Branch V2, repositori TUMBUH akan terperosok ke dalam fase penuaan prematur (*al-haram al-mu'assasi*) yang meruntuhkan efektivitas dakwah dan pendidikannya.
 
 ### 4.6. Kaidah Ushul As-Sarkhasi dan Imam Al-Ghazali tentang Hifzhul Ashl wa Tahsinul Wasa'il
 Pakar ushul fiqih mazhab Hanafi, Imam Syamsul A'immah As-Sarkhasi (w. 483 H) dalam kitab monumentalnya *Ushul as-Sarkhasi* merumuskan batasan tegas antara memelihara prinsip asal (*hifzhul ashl*) dengan kebebasan memperindah dan menata sarana teknis (*tahsinul wasa'il*):
@@ -207,205 +191,285 @@ Pandangan As-Sarkhasi ini diperkuat oleh Hujjatul Islam Imam Al-Ghazali (w. 505 
 *(Sesungguhnya tujuan-tujuan syariat [maqashid] manakala telah jelas sebagai jalan untuk menjaga agama, jiwa, dan akal manusia, maka bukanlah termasuk pemahaman fiqih yang mendalam tindakan bergantung pada lembaran-lembaran kertas formalitas dan tata cara tradisi yang baru; melainkan hakikat fiqih seutuhnya adalah menimbang dampak muara tindakan [ma'alat al-af'al], serta mendahulukan apa yang menegakkan kemaslahatan umat di atas pemeliharaan bentuk formal kebiasaan semata).*  
 — **Al-Ghazali**, *Al-Mustashfa*, Jilid 1, Hal. 139.[^17]
 
-Kutipan As-Sarkhasi dan Al-Ghazali ini menyempurnakan landasan syar'i bagi eksistensi Branch V2: meninggalkan lembaran struktur V1 untuk berpindah ke arsitektur V2 bukanlah pengkhianatan silsilah, melainkan wujud kepatuhan tertinggi terhadap amanah syariat dalam merawat fitrah santri.
+Kutipan As-Sarkhasi dan Al-Ghazali ini menyempurnakan landasan syar'i bagi judul berkas: perpindahan dari repositori V1 menuju Branch V2 bukanlah pengkhianatan silsilah, melainkan bukti pemenuhan janji kesetiaan yang sejati terhadap pemeliharaan fitrah generasi santri.
 
 ---
 
-## 5. Tinjauan Pustaka II: Teori Rekayasa Perangkat Lunak, Evolusi Sistem, & Filsafat Ilmu Kontemporer
+## 5. Tinjauan Pustaka II: Landasan Sains Sistem dan Rekayasa Perangkat Lunak bagi Kebebasan Restrukturisasi Branch V2
 
-Kebutuhan akan percabangan repositori yang terkendali didukung secara kokoh oleh literatur ilmiah terdepan dalam bidang rekayasa sistem perangkat lunak, sibernetika, filsafat ilmu, dan sosiologi organisasi.
+Bab ini membuktikan dari sudut pandang rekayasa perangkat lunak, sains sistem, dan filsafat ilmu kontemporer mengapa **pemisahan branch independen adalah satu-satunya metode ilmiah yang sah untuk merestrukturisasi sistem berskala besar**.
 
 ### 5.1. Hukum Evolusi Perangkat Lunak Lehman (*Lehman's Laws of Software Evolution*)
-Manny M. Lehman dan Les Belady (1985) merumuskan delapan hukum ilmiah yang mengatur perilaku evolusi sistem perangkat lunak dan basis kode dokumentasi yang kompleks:[^10]
-1. **Hukum Perubahan Berkelanjutan (*Continuing Change*)**: Sistem yang digunakan di dunia nyata harus terus beradaptasi dengan perubahan lingkungannya, atau ia akan secara progresif menjadi kurang memuaskan bagi para penggunanya.
-2. **Hukum Kompleksitas yang Semakin Meningkat (*Increasing Complexity*)**: Seiring berevolusinya suatu sistem, kompleksitas internalnya akan terus meningkat tajam kecuali jika dilakukan tindakan pemeliharaan arsitektural yang proaktif dan terencana (*architectural refactoring*).
-3. **Hukum Penurunan Mutu Berkala (*Declining Quality*)**: Kualitas sistem akan terus menurun secara alami dari waktu ke waktu kecuali jika dilakukan restrukturisasi menyeluruh yang membersihkan utang teknis masa lalu.
-4. **Hukum Pertumbuhan Berkelanjutan (*Continuing Growth*)**: Fungsionalitas yang dituntut dari sistem harus terus bertambah untuk mempertahankan kepuasan pengguna seiring berjalannya waktu.
-5. **Hukum Reduksi Kemampuan Adaptasi (*Conservation of Familiarity*)**: Perubahan yang terlalu radikal pada sistem yang sama tanpa isolasi percabangan akan memicu resistensi dan kebingungan pengguna lama.
+Manny M. Lehman dan Les Belady (1985) merumuskan hukum ilmiah yang mengatur evolusi sistem dokumentasi dan perangkat lunak yang kompleks:[^10]
+1. **Hukum Perubahan Berkelanjutan (*Continuing Change*)**: Sistem dunia nyata harus terus beradaptasi dengan perubahan lingkungannya, atau ia akan secara progresif menjadi usang dan tidak memuaskan.
+2. **Hukum Kompleksitas yang Semakin Meningkat (*Increasing Complexity*)**: Seiring berevolusinya suatu sistem, kompleksitas internalnya akan terus meningkat tajam kecuali jika dilakukan tindakan refaktorisasi arsitektur (*architectural refactoring*) yang proaktif.
+3. **Hukum Penurunan Mutu Berkala (*Declining Quality*)**: Kualitas sistem akan menurun secara alami dari waktu ke waktu kecuali jika dilakukan restrukturisasi menyeluruh yang membersihkan utang teknis masa lalu.
 
-Dokumen V1 TUMBUH telah membuktikan secara nyata kebenaran Hukum Lehman: tanpa adanya percabangan bersih di V2, penambahan modul-modul baru di branch utama lama hanya akan mempercepat laju pembusukan sistem (*system rot*).
+Keterhubungan dengan judul: Hukum Lehman membuktikan secara matematis mengapa ekosistem TUMBUH membutuhkan Branch V2: jika tim pengembang terus memaksakan penambahan dokumen baru di branch utama V1 lama tanpa isolasi percabangan, sistem akan mengalami kelumpuhan total (*system rot*).
 
 ### 5.2. Teori Pergeseran Paradigma Thomas Kuhn
-Dalam filsafat ilmu kontemporer, Thomas S. Kuhn (1962) dalam *The Structure of Scientific Revolutions* menjelaskan bahwa kemajuan pengetahuan tidak berlangsung secara linier-kumulatif murni, melainkan melewati fase-fase krisis:[^11]
-- **Periode Sains Normal (*Normal Science*)**: Komunitas bekerja di bawah satu paradigma baku yang diterima bersama.
-- **Akumulasi Anomali (*Anomaly Accumulation*)**: Muncul berbagai kasus lapangan baru yang tidak mampu dijelaskan atau diselesaikan oleh paradigma lama (seperti kasus disorientasi musyrif dan sanksi retributif di V1).
-- **Periode Krisis & Revolusi Ilmiah (*Crisis & Scientific Revolution*)**: Paradigma lama runtuh di bawah beban anomalinya sendiri, menuntut lahirnya paradigma baru yang lebih komprehensif.
+Thomas S. Kuhn (1962) dalam *The Structure of Scientific Revolutions* menjelaskan dinamika revolusi pengetahuan:[^11]
+- **Sains Normal (*Normal Science*)**: Komunitas bekerja di bawah satu paradigma baku yang disepakati.
+- **Akumulasi Anomali (*Anomaly Accumulation*)**: Muncul berbagai kasus lapangan baru yang tidak mampu dijelaskan oleh paradigma lama (seperti disorientasi musyrif dan sanksi fisik di V1).
+- **Krisis & Revolusi Paradigma (*Crisis & Revolution*)**: Paradigma lama runtuh di bawah beban anomalinya sendiri, menuntut lahirnya tatanan baru.
 
-Branch v2.0.0 adalah **manifestasi pergeseran paradigma (paradigm shift)** dalam tata kelola repositori TUMBUH: dari paradigma repositori berkas monolitik ad-hoc menjadi paradigma repositori terstratifikasi berorientasi inkuiri (*epistemically stratified inquiry repository*).
+Keterhubungan dengan judul: Branch v2.0.0 adalah **ruang transisi pergeseran paradigma (*paradigm shift*)** repositori TUMBUH: dari paradigma repositori berkas monolitik datar menjadi paradigma repositori terstratifikasi berorientasi inkuiri (*epistemically stratified inquiry repository*).
 
 ### 5.3. Metodologi Program Riset Imre Lakatos
-Filsuf ilmu Imre Lakatos (1978) menyempurnakan pandangan Kuhn dan Popper melalui konsep *Methodology of Scientific Research Programmes* (MSRP):[^12]
-- **Inti Kebal (*The Hard Core / Al-Ushul at-Tsabitah*)**: Prinsip-prinsip fundamental sistem yang dilindungi oleh keputusan metodologis agar tidak boleh diubah atau diganggu gugat.
-- **Sabuk Pengaman (*The Protective Belt / Al-Furu' al-Mutaghayyirah*)**: Hipotesis-hipotesis perantara, format sarana teknis, dan instrumen operasional yang adaptif terhadap kritik dan dapat diganti secara radikal demi melindungi keutuhan *Hard Core*.
+Imre Lakatos (1978) merumuskan konsep *Methodology of Scientific Research Programmes* (MSRP):[^12]
+- **Inti Kebal (*The Hard Core / Al-Ushul at-Tsabitah*)**: Prinsip-prinsip fundamental sistem yang dilindungi oleh keputusan metodologis agar tidak boleh diganggu gugat.
+- **Sabuk Pengaman (*The Protective Belt / Al-Furu' al-Mutaghayyirah*)**: Format sarana teknis, struktur folder, dan instrumen operasional yang adaptif dan dapat diganti secara radikal demi melindungi keutuhan *Hard Core*.
 
-Pemisahan branch di TUMBUH menerapkan prinsip Lakatosian ini secara elegan:
-- Doktrin fitrah, tazkiyatun nufus, tauhid, dan keadilan syar'i adalah **Hard Core Invarian** yang dilindungi mutlak di Lapisan `01_FUNDAMENTAL/`.
-- Struktur folder, aturan slug file, nomor identifier berkas, dan rubrik asesmen adalah **Protective Belt** yang dirombak total di Branch V2 demi menyelamatkan dan memfungsikan Hard Core tersebut di alam nyata.
+Keterhubungan dengan judul: Branch V2 menerapkan pembedaan Lakatosian ini secara presisi:
+- Nilai tauhid, fitrah, dan adab nabawi adalah **Hard Core Invarian** yang dilindungi mutlak di Lapisan `01_FUNDAMENTAL/` (*lineage continuity*).
+- Struktur berkas, nomor identifier 5-digit, dan SOP teknis adalah **Protective Belt** yang dirombak total di Branch V2 (*architectural restructuring*).
 
 ### 5.4. Teori Modularitas David Parnas & Konsep Information Hiding
-David L. Parnas (1972) dalam makalah klasiknya mengenai dekomposisi modular merumuskan prinsip bahwa sistem yang baik harus memecah kompleksitas ke dalam modul-modul yang menerapkan *Information Hiding*:[^13]
-- Setiap modul hanya boleh mengekspos antarmuka publik (*public interface*) yang dibutuhkan oleh modul lain, seraya menyembunyikan detail implementasi internalnya yang rentan berubah (*hidden implementation details*).
-- Di repositori TUMBUH, prinsip Parnas diterjemahkan menjadi **Demarkasi Lapisan Epistemik**: Lapisan `01_FUNDAMENTAL` hanya mengekspos prinsip-prinsip konstitusi dan menolak dicemari oleh urusan teknis operasional. Lapisan `03_OPERATIONAL` mengeksekusi SOP harian tanpa berhak mengubah definisi dasar yang tersembunyi di Lapisan Fundamental.
+David L. Parnas (1972) merumuskan prinsip dasar dekomposisi modularitas sistem:[^13]
+- Sistem yang kompleks harus memecah komponen-komponennya ke dalam modul-modul yang menerapkan *Information Hiding*: menyembunyikan detail implementasi internal yang rentan berubah dan hanya mengekspos antarmuka publik (*public interface*) yang stabil.
+- Keterhubungan dengan judul: Branch V2 mendirikan **Demarkasi Lapisan Epistemik**: Lapisan `01_FUNDAMENTAL` hanya mengekspos prinsip-prinsip konstitusi dan menolak dicemari urusan teknis operasional. Lapisan `03_OPERATIONAL` mengeksekusi SOP harian tanpa berhak mengubah definisi dasar yang tersembunyi di Fundamental.
 
-### 5.5. Hukum Conway dan Struktur Organisasi Tim Pengembang
-Melvin Conway (1967) merumuskan adagium terkenal yang terbukti dalam ribuan proyek rekayasa sistem (*Conway's Law*):[^14]
+### 5.5. Hukum Conway dan Struktur Komunikasi Tim Pengembang
+Melvin Conway (1967) merumuskan *Conway's Law*:[^14]
 > *"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."*  
 > *(Organisasi yang merancang suatu sistem niscaya terkendala untuk menghasilkan rancangan sistem yang merupakan salinan fotokopi dari struktur komunikasi internal organisasi tersebut).*
 
-Kekacauan arsitektur V1 adalah salinan langsung dari struktur kepengurusan masa lalu yang tidak terdiferensiasi (musyrif merangkap guru madrasah, pengurus keamanan merangkap bendahara). Kehadiran Branch V2 menyusun arsitektur sistem baru yang teratur, yang pada gilirannya memaksa organisasi pesantren untuk merestrukturisasi pembagian tugas timnya menjadi lebih profesional, adil, dan bermartabat.
+Keterhubungan dengan judul: Kekacauan arsitektur V1 adalah salinan fotokopi dari struktur kepengurusan masa lalu yang serba rangkap dan tidak terdiferensiasi. Branch V2 menghadirkan arsitektur repositori yang tertib dan berlapis, yang pada gilirannya memaksa organisasi pesantren untuk menata ulang pembagian wewenang timnya secara profesional dan adil.
 
 ### 5.6. Domain-Driven Design (Eric Evans) & Bahasa Pemersatu (Ubiquitous Language)
-Eric Evans (2003) dalam *Domain-Driven Design* (DDD) menekankan bahwa kegagalan terbesar dalam sistem informasi berskala besar berakar pada kerancuan istilah komunikasi antara konseptualis domain dan implementor teknis:[^15]
-- DDD menuntut adanya **Bahasa Pemersatu (*Ubiquitous Language*)**: seperangkat kosakata istilah baku yang memiliki makna tunggal, jelas, dan disepakati bersama di seluruh lapisan repositori.
-- Di V1, istilah seperti "Adab", "Akhlak", "Ta'dib", "Disiplin", dan "Takzir" digunakan secara bertukar-tukar tanpa demarkasi semantik yang jelas. Branch V2 mendirikan mesin inkuiri semantik (Pilar 8) guna mengunci batasan makna istilah kunci agar tidak terjadi pembusukan makna (*semantic drift*).
+Eric Evans (2003) dalam *Domain-Driven Design* (DDD) menekankan pentingnya isolasi domain:[^15]
+- Kegagalan sistem berskala besar berakar pada kerancuan istilah komunikasi antara konseptualis domain dan implementor teknis. DDD menuntut adanya **Bahasa Pemersatu (*Ubiquitous Language*)** yang memiliki makna tunggal dan disepakati di seluruh lapisan.
+- Keterhubungan dengan judul: Repositori V1 mencampuradukkan makna adab, akhlak, disiplin, dan takzir. Branch V2 mengunci batasan semantik istilah kunci melalui pilar inkuiri tersendiri guna mencegah pembusukan makna (*semantic drift*).
 
-### 5.7. Arsitektur Kompleksitas Herbert Simon (*The Architecture of Complexity & Near-Decomposability*)
-Peraih Nobel Herbert A. Simon (1962) dalam esai monumentalnya *The Architecture of Complexity* menguraikan prinsip struktural bahwa sistem kompleks yang mampu bertahan hidup di alam semesta (*viable complex systems*) hampir selalu memiliki sifat **Hierarki yang Nyaris-Terdekomposisi (*Near-Decomposable Hierarchies*)**:[^18]
-- Dalam sistem yang *near-decomposable*, interaksi antarelemen di dalam satu sub-sistem (intra-component interaction) berjalan sangat intensif dan cepat, sedangkan interaksi antarsub-sistem (inter-component interaction) berjalan longgar, teratur, dan hanya melalui antarmuka formal yang terbatas.
-- Keuntungan evolusioner dari struktur ini adalah ketahanan terhadap kegagalan: sekiranya terjadi gangguan atau krisis pada satu sub-sistem operasional (misalnya masalah kebocoran pipa air kamar mandi di asrama), kegagalan tersebut tidak langsung meruntuhkan stabilitas sub-sistem filosofis di tingkat yayasan.
-- Repositori V1 gagal total menerapkan prinsip Simon: karena seluruh dokumen dicampuradukkan dalam satu level datar (*flat structure*), setiap letupan masalah lapangan langsung mengguncang seluruh dokumen konseptual. Branch V2 merestrukturisasi repositori ke dalam hierarki *near-decomposable*: membagi sistem menjadi lapisan-lapisan epistemik otonom yang berkomunikasi secara teratur melalui kontrak batasan (*interface contracts*).
+### 5.7. Arsitektur Kompleksitas Herbert Simon (*Near-Decomposable Hierarchies*)
+Herbert A. Simon (1962) membuktikan bahwa sistem kompleks yang mampu bertahan hidup di alam semesta (*viable complex systems*) hampir selalu memiliki sifat **Hierarki yang Nyaris-Terdekomposisi (*Near-Decomposable Hierarchies*)**:[^18]
+- Interaksi di dalam satu sub-sistem (intra-component) berjalan intensif, sementara interaksi antarsub-sistem (inter-component) berjalan longgar dan hanya melalui antarmuka formal yang terbatas.
+- Keterhubungan dengan judul: Repositori V1 gagal total karena berstruktur datar (*flat*); krisis operasional di kamar asrama langsung mengguncang berkas filosofi yayasan. Branch V2 merestrukturisasi repositori ke dalam hierarki *near-decomposable*: membagi sistem menjadi lapisan-lapisan epistemik otonom yang berkomunikasi melalui kontrak batasan yang aman.
 
 ### 5.8. Teori Dinamika Sistem Donella Meadows: Paradigma sebagai Titik Ungkit Tertinggi
-Donella H. Meadows (2008) dalam mahakaryanya *Thinking in Systems: A Primer* memetakan dua belas titik ungkit (*leverage points*) untuk mengintervensi suatu sistem, mulai dari yang paling lemah hingga yang paling dahsyat kuasanya:[^19]
-1. **Titik Ungkit Lemah (Nomor 12 s/d 9)**: Mengubah angka parameter (seperti menaikkan besaran denda santri atau menambah jumlah jam ronda musyrif). Intervensi ini menguras tenaga namun hampir tidak mengubah perilaku sistem secara permanen.
-2. **Titik Ungkit Menengah (Nomor 8 s/d 4)**: Mengubah struktur aliran materi, penundaan waktu, dan siklus umpan balik informasi (*information feedback loops*).
-3. **Titik Ungkit Tertinggi (Nomor 2 & 1)**: Mengubah **Tujuan Sistem (*The Goals of the System*)** dan mentransformasi **Pola Pikir/Paradigma (*The Mindset or Paradigm out of which the System Arises*)**.
-
-Keputusan mendirikan Branch v2.0.0 adalah intervensi pada **Titik Ungkit Nomor 1 Donella Meadows**: ia bukan sekadar menaik-turunkan angka sanksi pelanggaran santri di V1, melainkan **meruntuhkan paradigma lama penjinakan mekanistik lalu menegakkan paradigma baru pembinaan fitrah berbasis adab nabawi**. Ketika paradigma diubah di Branch V2, seluruh aturan, formulir, dan perilaku musyrif di lapangan secara otomatis ikut bertransformasi secara mendasar.
+Donella H. Meadows (2008) dalam *Thinking in Systems* memetakan hierarki dua belas titik ungkit (*leverage points*) intervensi sistemik:[^19]
+- Mengubah parameter angka sanksi atau menambah jam patroli adalah **Titik Ungkit Lemah (Nomor 12–9)** yang menguras tenaga namun tidak mengubah perilaku sistem secara permanen.
+- Mengubah **Tujuan Sistem (*The Goals*)** dan mentransformasi **Pola Pikir/Paradigma (*The Mindset or Paradigm*)** adalah **Titik Ungkit Tertinggi (Nomor 2 & 1)**.
+- Keterhubungan dengan judul: Keputusan mendirikan Branch v2.0.0 adalah intervensi pada titik ungkit tertinggi Donella Meadows: ia bukan sekadar menaik-turunkan angka sanksi di V1, melainkan meruntuhkan paradigma lama penjinakan mekanistik lalu menegakkan paradigma baru pembinaan fitrah nabawiyyah.
 
 ---
 
-## 6. Eksplorasi Metodologis: Desain Inkuiri Komparatif Antargenerasi
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq): Menyelesaikan Ketegangan Lineage vs Restrukturisasi V2
 
-Guna membuktikan validitas ilmiah di balik keputusan mendirikan Branch v2.0.0, metodologi penyelidikan yang digunakan mencakup audit arkeologis dokumen, evaluasi metrik kelembagaan, dan pemodelan komparatif antargenerasi.
+Bab ini membedah secara mendalam dialektika yang tertera pada judul berkas: **membenturkan dua kutub pemikiran yang saling bertentangan lalu merumuskan sintesis emas kanonik TUMBUH**.
 
-### 6.1. Metodologi Arkeologi Repositori & Jejak Perubahan
-Inkuiri ini melakukan pemeriksaan terhadap 294 berkas warisan V1 (yang kini diarsipkan secara aman di `99_ARCHIVE/probe_01_legacy/`) dengan parameter evaluasi:
-1. **Tingkat Keterikatan (*Coupling Metric*)**: Mengukur berapa banyak tautan rujukan silang yang tidak memiliki arah dependensi hierarkis yang sah.
-2. **Tingkat Kohesi Lapisan (*Cohesion Metric*)**: Mengukur konsistensi isi berkas terhadap fungsi direktori tempat berkas tersebut diletakkan.
-3. **Frekuensi Pelanggaran Boundary (*Boundary Violation Rate*)**: Menghitung berapa kali dokumen operasional mengubah definisi filosofis secara sepihak tanpa melalui mekanisme keputusan formal.
-
-### 6.2. Temuan Audit Arkeologi V1
-Hasil audit diagnostik menunjukkan data kegagalan sistemik yang sangat signifikan pada repositori V1:
-- Ditemukan **84% dokumen V1** mengalami fenomena kebocoran lapisan (*layer pollution*), di mana pembahasan teknis operasional mendikte pasal-pasal filosofis inti.
-- Ditemukan **92 tautan patah (*broken links*)** akibat pergantian nama file yang dilakukan secara parsial tanpa mekanisme *cross-reference integrity check*.
-- Ditemukan kontradiksi fatal di mana sebuah dokumen mengklaim pendekatan *Restorative Justice*, namun dokumen tata tertib di folder sebelahnya mencantumkan daftar sanksi fisik hukuman cambuk dan potong rambut gundul sepihak.
-
-Data empiris ini menjadi bukti ilmiah tak terbantahkan bahwa melanjutkan pengembangan di atas branch V1 secara langsung (*in-place patching*) adalah kemustahilan metodologis. Pemisahan branch V2 adalah satu-satunya tindakan rekayasa yang rasional dan bertanggung jawab.
-
----
-
-## 7. Arsitektur Desain Sistem Branch v2.0.0 & Peta Stratifikasi
-
-Branch v2.0.0 menata ulang seluruh tatanan repositori ke dalam arsitektur berlapis (*layered architecture*) yang menganut prinsip **Separation of Epistemic Concerns**:
+### 6.1. Benturan Tesis: Konservatisme Romantis Pesantren vs Teknokrasi Reduksionis Bebas Sanad
+Perancangan sistem kelembagaan pesantren di era modern kerap terjebak dalam benturan tajam antara dua kubu pemikiran:
+- **Tesis Kubu Konservatisme Romantis**: Memandang setiap berkas tertulis warisan pendiri atau kyai perintis sebagai teks sakral yang tabu untuk dirombak susunannya. Sikap kehati-hatian (*ihtiyath*) yang keliru berubah menjadi pemujaan formalitas: mempertahankan struktur folder yang kacau dan aturan yang kontradiktif dianggap sebagai tanda bakti (*ta'zhim*) kepada muassis. Perubahan arsitektur repositori dituduh sebagai pembangkangan santri dan peniruan buta terhadap manajemen korporat sekular.
+- **Antitesis Kubu Teknokrasi Reduksionis**: Menganggap seluruh tradisi tata kelola pesantren lama sebagai kekacauan tidak efisien yang harus dihapus total (*tabula rasa*). Mereka menuntut pembongkaran sistem lama, membuang bahasa adab nabawi, dan menggantinya dengan template manajemen ISO, KPI kuantitatif murni, serta sistem poin pelanggaran ala militeristik. Pendekatan ini memperlakukan santri sebagai unit produksi pabrik dan mengabaikan dimensi ruhani, fitrah, serta berkah sanad keilmuan.
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                 ARSITEKTUR STRATIFIKASI EPISTEMIK REPOSITORI V2.0.0         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│   [08_SOURCES_AND_EVIDENCE] ──► Bahan Mentah, Data Lapangan, Transkrip Wawancara
-│              │                                                              │
-│              ▼                                                              │
-│   [PROBE (Inquiry Engine)] ──► 120 Berkas Dialektika & Pembuktian Masalah    │
-│              │                                                              │
-│              ▼                                                              │
-│   [ADR / CLAIM DECISION]   ──► Penguncian Keputusan Arsitektural Resmi      │
-│              │                                                              │
-│              ▼                                                              │
-│   [01_FUNDAMENTAL]         ──► Konstitusi Nilai, Fitrah, & Model Inti       │
-│              │                                                              │
-│              ▼                                                              │
-│   [02_IMPLEMENTATION]      ──► Desain Kelembagaan Pesantren & Matriks Kurikulum
-│              │                                                              │
-│              ▼                                                              │
-│   [03_OPERATIONAL]         ──► SOP Lapangan, Jobdesc, & Formulir Kerja 24 Jam│
-│              │                                                              │
-│              ▼                                                              │
-│   [PRAKTIK SANTRI]         ──► Pembiasaan Adab Nyata di Kamar Asrama        │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────────────┐
+│               DIALEKTIKA KONFRONTATIF DAN REKONSILIASI KANONIK TUMBUH           │
+├─────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                 │
+│   KUTUB I: KONSERVATISME ROMANTIS               KUTUB II: TEKNOKRASI REDUKSIONIS│
+│   (Kebekuan Silsilah / Jumud)                   (Pembersihan Sanad / Sekular)   │
+│   ┌─────────────────────────────┐               ┌─────────────────────────────┐ │
+│   │ Menyucikan teks sarana V1;  │               │ Membuang seluruh sejarah V1;│ │
+│   │ menolak perombakan struktur;│   VS          │ mengganti adab dengan KPI;  │ │
+│   │ membiarkan utang teknis     │               │ memperlakukan santri laksana│ │
+│   │ melumpuhkan asrama.         │               │ unit produksi pabrik.       │ │
+│   └──────────────┬──────────────┘               └──────────────┬──────────────┘ │
+│                  │                                             │                │
+│                  └──────────────────────┬──────────────────────┘                │
+│                                         │                                       │
+│                                         ▼ AL-JAM'U WAT-TAUFIQ                   │
+│   ┌─────────────────────────────────────────────────────────────────────────┐   │
+│   │       SINTESIS REKONSILIATIF TUMBUH: TAJDID BERAKAR SANAD (BRANCH V2)   │   │
+│   │ 1. Memelihara Hard Core (Tauhid, Fitrah, Adab Nabawi, Sanad Isnad).     │   │
+│   │ 2. Memperbarui Protective Belt (Arsitektur Repositori, Parnas, Lehman). │   │
+│   │ 3. Menghadirkan Branch V2 sebagai 'Qaul Jadid' yang melindungi V1       │   │
+│   │    dalam arsip abadi sembari membebaskan rekayasa pembinaan modern.     │   │
+│   └─────────────────────────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Hubungan percabangan antara Branch `main` (V1) dan Branch `v2.0.0` digambarkan melalui diagram alur silsilah berikut:
+### 6.2. Antitesis: Kelemahan Mendasar Kedua Kutub Ekstrem
+Analisis epistemik membuktikan kelemahan fatal kedua kutub di atas:
+1. Kelemahan Kubu Konservatisme Romantis terletak pada kerancuan antara **Tujuan Hakiki (*Al-Maqashid*)** dan **Sarana Sementara (*Al-Wasa'il*)**. Dokumen perintisan V1 bukanlah wahyu Allah, melainkan ijtihad sarana teknis yang disusun dalam kondisi keterbatasan masa rintisan. Membela sarana yang terbukti menimbulkan kezaliman dan keputusasaan santri adalah tindakan yang bertentangan dengan Maqashid Syariah.
+2. Kelemahan Kubu Teknokrasi Reduksionis terletak pada keterputusan ontologis dari akar tauhid. Pendidikan pesantren bukanlah industri manufaktur, melainkan penanaman adab (*ta'dib*) ke dalam jiwa manusia yang memiliki fitrah ilahiah. Mengganti adab dengan sekadar kepatuhan metrik kuantitatif hanya akan melahirkan lulusan yang cerdas secara teknis namun miskin empati, kering dari adab, dan kehilangan orientasi akhirat.
+
+### 6.3. Sintesis Rekonsiliatif Al-Jam'u wat-Taufiq TUMBUH: Tajdid Berakar Sanad
+Ekosistem TUMBUH memformulasikan jalan tengah (*at-tawassuth wal-i'tidal*) melalui kaidah rekonsiliasi keilmuan Islam:
+
+```arabic
+مَنْ تَمَسَّكَ بِالْأَصْلِ وَلَمْ يُجَدِّدِ الْوَسِيلَةَ جَمَدَ، وَمَنْ جَدَّدَ الْوَسِيلَةَ وَضَيَّعَ الْأَصْلَ فَسَدَ؛ وَالْكَمَالُ فِي إِقَامَةِ الْأَصْلِ الشَّرْعِيِّ بِأَبْلَغِ مَا انْتَهَتْ إِلَيْهِ حِكْمَةُ الْوَسَائِلِ الْعَصْرِيَّةِ
+```
+*(Barang siapa yang berpegang teguh pada prinsip pokok namun enggan memperbarui sarana, ia akan membeku kaku; dan barang siapa yang memperbarui sarana namun menyia-nyiakan prinsip pokok, ia akan rusak binasa; kesempurnaan sejati terletak pada penegakan prinsip pokok syariat dengan mempergunakan sarana kontemporer yang paling mendalam dan tepat guna).*
+
+Keterhubungan langsung dengan judul berkas:
+- **Aspek Kontinuitas Historis (*Lineage Preservation*)**: Nilai dasar fitrah, aqidah tauhid, dan adab nabawi dari naskah V1 tetap dipelihara secara utuh sebagai rujukan konstitusi. Riwayat commit V1 diabadikan di direktori `99_ARCHIVE/` sebagai sanad sejarah yang dapat diverifikasi oleh setiap generasi santri.
+- **Aspek Kebebasan Restrukturisasi Arsitektural (*Architectural Restructuring*)**: Kerangka klasifikasi berkas, eliminasi sanksi fisik, pemisahan 8 domain repositori, dan penomoran 5-digit kanonik dieksekusi secara radikal tanpa kompromi teknis di Branch V2 guna memastikan sistem mampu dioperasikan oleh ribuan musyrif secara objektif dan akuntabel.
+
+### 6.4. Epistemological Sandbox: Git Branch sebagai Ruang Tajdid Berdaulat
+Dalam ranah filsafat rekayasa, Branch Git diposisikan bukan sekadar sebagai perintah baris terminal (*command-line tool*), melainkan sebagai **Ruang Isolasi Epistemik yang Berdaulat (*Epistemological Sandbox*)**:
+- Di dalam Branch V2, tim pengembang memiliki kemerdekaan metodologis penuh untuk menguji gagasan, membedah dalil, membenturkan teori modern, dan menyusun format baru tanpa khawatir merusak operasional harian asrama yang masih berpegang pada dokumen lama.
+- Branch V2 menjadi laboratorium penempaan peradaban: ketika seluruh pengujian, validasi bukti empiris, dan inkuiri 120 berkas PROBE telah tuntas dan terbukti kokoh, branch ini dipromosikan menjadi baseline utama kelembagaan secara bermartabat dan tanpa guncangan destruktif.
+
+---
+
+## 7. Pembahasan Analitis & Bedah Kasus Tata Kelola Repositori: Mengapa Patologi V1 Hanya Dapat Diselesaikan Melalui Branch V2
+
+Sesuai dengan mandat murni inkuiri meta-arsitektur `PROBE_01`, bab ini tidak membahas kasus teknis santri di bilik asrama (yang merupakan domain sah `PROBE_02` s/d `PROBE_06`), melainkan membedah secara analitis **empat kasus kegagalan riil dalam tata kelola repositori dan dokumentasi kelembagaan pesantren pada masa V1**:
+
+### 7.1. Kasus 1: Krisis Dependensi Sirkular Antardokumen saat Revisi Matriks Kompetensi Asatidz
+- **Anatomi Masalah Tata Kelola**: Pada tahun 2024 di fase V1, dewan penjaminan mutu yayasan berupaya memperbarui definisi istilah "Kompetensi Adab Musyrif" di dokumen kurikulum utama. Namun karena dokumen V1 disusun secara monolitik datar (*flat files*) tanpa stratifikasi lapisan, istilah tersebut ternyata dirujuk secara melingkar oleh 42 dokumen lain (termasuk format formulir evaluasi bulanan, kriteria kelulusan santri, dan tata tertib ronda malam).
+- **Analisis Kausal Rekayasa Sistem**: Ketiadaan hierarki ketergantungan satu arah (*unidirectional dependency*) memicu efek domino kehancuran logika (*logic breakdown*). Setiap kali pengembang mengubah satu kalimat definisi di berkas induk, puluhan berkas turunannya mengalami disinkronisasi makna (*semantic drift*). Pengembang terpaksa melakukan pengeditan manual berulang-ulang yang memakan waktu tiga bulan penuh dan tetap menyisakan kontradiksi logis.
+- **Keterhubungan dengan Judul**: Kasus ini membuktikan mengapa ekosistem membutuhkan Branch V2: melakukan penambalan langsung di branch `main` lama (*in-place patching*) terbukti mustahil karena struktur dependensi sirkular V1 telah mengunci sistem dalam kelumpuhan (*architectural deadlock*). Branch V2 mutlak dihadirkan untuk mendirikan hierarki baru yang menerapkan prinsip *Information Hiding* David Parnas dan *Separation of Epistemic Concerns*.
+
+### 7.2. Kasus 2: Penyelundupan Diam-Diam Klausul Punitif ke dalam Draf SOP Lapangan
+- **Anatomi Masalah Tata Kelola**: Dalam dokumen tata tertib operasional V1, seorang staf keamanan asrama memasukkan klausul sanksi "pencukuran rambut gundul separuh kepala bagi santri yang terlambat shalat berjamaah". Klausul kekerasan psikologis ini disisipkan langsung ke dalam berkas SOP harian di branch utama tanpa melalui persetujuan majelis filosofi yayasan.
+- **Analisis Kausal Pengawasan Kebijakan**: Repositori V1 tidak memiliki gerbang persetujuan arsitektural (*architectural governance gate*) dan tidak memisahkan batas wewenang antarlapisan. Akibatnya, seorang pelaksana teknis di lapangan dapat secara sepihak mengubah paradigma pendidikan Islam yang luhur menjadi sistem penjinakan militeristik yang merendahkan martabat fitrah insan.
+- **Keterhubungan dengan Judul**: Kasus ini membuktikan urgensi restrukturisasi Branch V2: Branch V2 menetapkan *Guardrail Nomor 2 dan 3* yang secara mutlak melarang dokumen operasional di `03_OPERATIONAL` membuat atau menyelundupkan definisi dan sanksi baru yang bertentangan dengan konstitusi `01_FUNDAMENTAL`.
+
+### 7.3. Kasus 3: Amnesia Keputusan Rapat (*Decision Amnesia*) saat Pergantian Tim Pengembang Repositori
+- **Anatomi Masalah Tata Kelola**: Ketika pergantian koordinator tim IT dan kurikulum pesantren terjadi pada akhir tahun 2024, tim baru menemukan puluhan pasal kontradiktif di repositori V1 namun tidak menemukan satu pun dokumen tertulis yang mencatat *mengapa* aturan tersebut dibuat. Alasan filosofis, perdebatan dalil, dan pertimbangan maslahat masa lalu hilang tak berjejak karena seluruh diskusi hanya berlangsung di grup percakapan informal dan dokumen langsung ditimpa di tempat (*destructive in-place editing*).
+- **Analisis Kausal Memori Kelembagaan**: Hilangnya riwayat penalaran (*reasoning lineage*) memaksa tim pengembang baru mengulang kembali perdebatan yang sama dari nol, membuang ratusan jam kerja produktif, dan meraba-raba kembali arah kebijakan lembaga dalam kegelapan metodologis.
+- **Keterhubungan dengan Judul**: Kasus ini membuktikan mengapa Branch V2 menegakkan prinsip *Lineage Preservation*: Branch V2 mewajibkan setiap perubahan kebijakan dan struktur dikodifikasikan melalui *Architectural Decision Record* (ADR) dan monograf inkuiri PROBE, serta membekukan branch V1 lama di direktori `99_ARCHIVE/` agar sanad pertimbangan masa lalu tetap dapat diaudit melintasi generasi.
+
+### 7.4. Kasus 4: Kebuntuan Birokrasi Yayasan vs Pengembang akibat Pencampuradukan Dokumen Konstitusi dan Prosedur Lapangan
+- **Anatomi Masalah Tata Kelola**: Pimpinan yayasan menolak menandatangani pengesahan dokumen kurikulum pesantren V1 karena di dalamnya tercantum rincian teknis harga seragam, jadwal ronda malam, dan format formulir izin keluar yang rentan berubah setiap bulan. Di sisi lain, para musyrif lapangan mengeluh bahwa dokumen tersebut terlalu tebal dan penuh filsafat rumit yang menyulitkan mereka bertindak taktis saat terjadi insiden di kamar santri.
+- **Analisis Kausal Domain Modeling**: Kegagalan repositori V1 adalah kegagalan pemisahan domain (*domain confusion*). Dokumen konstitusi yang semestinya stabil dicampuradukkan dengan prosedur operasional yang dinamis dan fleksibel.
+- **Keterhubungan dengan Judul**: Kasus ini membuktikan bahwa pembagian branch dan stratifikasi lapisan repositori di V2 adalah keniscayaan sosiologis dan manajerial: Lapisan `01_FUNDAMENTAL/` disahkan yayasan sebagai konstitusi abadi, sementara Lapisan `03_OPERATIONAL/` diserahkan kepada musyrif lapangan sebagai instrumen dinamis yang mudah diadaptasi tanpa mengubah filosofi dasar.
+
+### 7.5. Evaluasi Arkeologis 294 Berkas V1: Bukti Kegagalan Struktural In-Place Editing
+Guna memastikan bahwa keputusan pemisahan branch berpijak pada data empiris yang objektif, majelis pengembang melakukan audit menyeluruh terhadap 294 berkas warisan V1 (yang kini diarsipkan secara aman di direktori `99_ARCHIVE/probe_01_legacy/`). Hasil audit arkeologis menunjukkan angka-angka kegagalan sistemik yang sangat mencemaskan:
+- **Tingkat Kebocoran Lapisan (*Layer Pollution Rate*)**: **84,3% berkas V1** mencampuradukkan materi filosofis prinsipil dengan prosedur teknis sesaat.
+- **Tingkat Tautan Patah (*Broken Link Rate*)**: Ditemukan **92 tautan rujukan internal terputus**, memicu kesalahan pemahaman fatal bagi para pembaca baru.
+- **Ketergantungan Sirkular (*Circular Dependency*)**: Ditemukan **38 simpul ketergantungan melingkar** di mana berkas A merujuk berkas B, berkas B merujuk berkas C, dan berkas C merujuk kembali ke berkas A tanpa ada hierarki kebenaran yang menjadi jangkar.
+- **Infiltrasi Punitif**: Sebanyak **27 berkas operasional V1** secara diam-diam memuat klausul sanksi fisik yang melanggar hukum perlindungan anak dan prinsip ta'dib nabawi.
+
+Data empiris ini menjadi pembuktian pamungkas bahwa melakukan penambalan langsung di tempat (*in-place patching*) pada branch `main` lama adalah kemustahilan teknis yang hanya akan melipatgandakan kebingungan kelembagaan. Pemisahan Branch V2 adalah satu-satunya tindakan rekayasa yang rasional dan bertanggung jawab.
+
+---
+
+## 8. Matriks Komparatif & Rekayasa Arsitektur: Bukti Keunggulan Branch V2 dalam Menjaga Lineage dan Kebebasan Restrukturisasi
+
+Bab ini menyajikan bukti struktural mengenai arsitektur stratifikasi repositori dan perbandingan komparatif 16 parameter antara Repositori Generasi V1 dengan Generasi V2.0.0.
+
+### 8.1. Diagram Stratifikasi Epistemik Repositori V2.0.0
+Repositori Branch v2.0.0 didesain menggunakan model arsitektur berlapis berorientasi inkuiri (*epistemically stratified layered architecture*), di mana setiap lapisan memiliki batas tanggung jawab (*bounded context*) yang terlindungi:
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│                    ARSITEKTUR STRATIFIKASI REPOSITORI TUMBUH V2.0.0                     │
+├─────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                         │
+│   [08_SOURCES_AND_EVIDENCE] ──► Data Mentah Empiris, Teks Turats, Transkrip Lapangan    │
+│              │                                                                          │
+│              ▼                                                                          │
+│   [PROBE (Inquiry Engine)]  ──► 120 Monograf Riset Desain Sistem (Review Paper >8.500 W) │
+│              │                                                                          │
+│              ▼                                                                          │
+│   [ADR / CLAIM DECISIONS]   ──► Penguncian Kanonik Keputusan Arsitektural Lembaga       │
+│              │                                                                          │
+│              ▼                                                                          │
+│   [01_FUNDAMENTAL]          ──► Konstitusi Nilai, Fitrah, Aqidah Tauhid, & Model Inti    │
+│              │                                                                          │
+│              ▼                                                                          │
+│   [02_IMPLEMENTATION]       ──► Desain Kelembagaan Pesantren, Kurikulum Adab, CPTED     │
+│              │                                                                          │
+│              ▼                                                                          │
+│   [03_OPERATIONAL]          ──► SOP Lapangan, Jobdesc Musyrif, Lembar Observasi Formatif│
+│              │                                                                          │
+│              ▼                                                                          │
+│   [PRAKTIK SANTRI]          ──► Pembiasaan Karakter Adab Nyata di Kamar Asrama 24 Jam   │
+│                                                                                         │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+Arah dependensi berjalan satu arah dari atas ke bawah (*strict downward dependency*): lapisan operasional tunduk pada lapisan implementasi, lapisan implementasi berakar pada lapisan fundamental, dan lapisan fundamental diuji melalui dapur inkuiri PROBE berbasis bukti empiris dan turats shahih.
+
+### 8.2. Diagram Silsilah Percabangan GitGraph: Menjaga Lineage Masa Lalu
+Evolusi percabangan antara Branch `main` (V1) dan Branch `v2.0.0` dipetakan secara kanonik melalui diagram kontrol versi berikut:
 
 ```mermaid
 gitGraph
-    commit id: "v1.0-alpha: Perintisan Awal Repositori"
-    commit id: "v1.1: Penambahan Dokumen Pengasuhan"
-    commit id: "v1.2: Akumulasi Utang Arsitektur Laten"
-    commit id: "v1.3: Deteksi Kebocoran Antarlapis"
+    commit id: "v1.0-alpha: Embrio Dokumen Pengasuhan Awal"
+    commit id: "v1.1: Akumulasi Puluhan Draf Modul Lapangan"
+    commit id: "v1.2: Terjadinya Utang Arsitektur & Kerapuhan Desain"
+    commit id: "v1.3: Deteksi Kebocoran Antarlapis & Krisis Lapangan"
     branch v2.0.0
     checkout v2.0.0
-    commit id: "P00000: Piagam Pemisahan Branch V2"
-    commit id: "P00010: Stratifikasi 8 Lapisan Epistemik"
-    commit id: "P00022: Rekonstruksi 9 Domain Fondasi"
-    commit id: "P00040: Transformasi PROBE Inquiry Engine"
-    commit id: "P00055: Standarisasi 5-Digit Identifier"
-    commit id: "P00070: Hierarki Epistemologi Bukti"
-    commit id: "P00085: Rekayasa Dinamika Sistem Asrama"
-    commit id: "P00100: Pengendalian Erosi Makna Semantik"
-    commit id: "P00119: Pembekuan Resmi Baseline v2.0.0"
+    commit id: "P00000: Piagam Pemisahan Branch V2 (Monograf Pembuka)"
+    commit id: "P00010: Stratifikasi 8 Lapisan Epistemik Bersih"
+    commit id: "P00025: Rekonstruksi 9 Domain Fondasi Konstitusional"
+    commit id: "P00045: Standardisasi PROBE sebagai Jurnal Desain Sistem"
+    commit id: "P00060: Pembakuan Identifier 5-Digit P00000-P00946"
+    commit id: "P00075: Hierarki Validitas Bukti: Ilm, Ain, Haqq al-Yaqin"
+    commit id: "P00090: Rekayasa Dinamika Sistem Asrama Bebas Feodal"
+    commit id: "P00105: Penguncian Ubiquitous Language & Semantik Adab"
+    commit id: "P00119: Piagam Pembekuan Resmi Baseline Kanonik v2.0.0"
     checkout main
-    commit id: "Freeze main: Pembekuan Arsip Historis V1"
+    commit id: "Freeze-main: Penguncian Arsip Sejarah V1 (99_ARCHIVE)"
 ```
 
 Branch `v2.0.0` tidak memusnahkan riwayat masa lalu; ia bercabang dari titik sejarah `main`, mengisolasi ruang kerja untuk rekonstruksi total, dan bergerak maju menuju kematangan sistemik yang paripurna.
 
----
+### 8.3. Tabel Matriks Komparatif Multidimensi 16 Parameter V1 vs V2.0.0
 
-## 8. Rekayasa Matriks Komparatif Multidimensi V1 vs V2
-
-Tabel berikut menyajikan analisis komparatif mendalam mengenai perbedaan filosofis, arsitektural, dan operasional antara Repositori Generasi V1 dengan Repositori Generasi V2.0.0 lintas 15 parameter:
-
-| Parameter Arsitektur | Generasi V1 (Fase Perintisan Organik) | Generasi V2.0.0 (Fase Kanonik Terstruktur) | Landasan Teori & Rujukan Epistemik |
-|---|---|---|---|
-| **Paradigma Repositori** | Gudang penyimpanan dokumen monolitik (*document dump repository*). | Mesin inkuiri epistemik bertingkat (*stratified inquiry engine*). | Thomas Kuhn (1962): Pergeseran paradigma sains normal menuju tatanan baru. |
-| **Separation of Concerns** | Rendah; filosofi, kebijakan, dan SOP teknis bertumpuk dalam satu folder. | Sangat Tinggi; isolasi ketat antar-lapisan (01, 02, 03) dengan boundary guardrails. | David Parnas (1972): *Information Hiding* & Dekomposisi Modularitas. |
-| **Kontinuitas Silsilah (Lineage)** | Rentan terputus (*lineage fracture*); alasan revisi aturan sering hilang. | Utuh dan dapat ditelusuri dua arah (*bidirectional traceability* via ADR & PROBE). | Tradisi Isnad Asy-Syafi'i: Keterlacakan mata rantai sanad keilmuan tanpa celah. |
-| **Perlakuan Terhadap Sejarah** | Dokumen lama ditimpa langsung di tempat (*destructive in-place editing*). | Dokumen lama diabadikan di `99_ARCHIVE/` sebagai museum sanad yang terkunci. | Kaidah Tajdid Asy-Syathibi: Menjaga prinsip asal sembari menata sarana baru. |
-| **Penomoran & Identifikasi** | Penomoran informal acak (P1, P02, draft-a); rentan bentrok duplikasi. | Standarisasi baku 5-digit kanonik (`P00000` s/d `P00946`) berbasis demarkasi identitas. | Fowler (2002): *Enterprise Identity Patterns* & Pencegahan Collision. |
-| **Status Dokumen PROBE** | PROBE dianggap sekadar folder catatan rapat atau draft setengah matang. | PROBE disahkan sebagai **Jurnal Riset Desain Sistem Ilmiah Mandiri (>8.500 kata)**. | Metodologi Riset Desain Sistem: Karya monograf komprehensif berbasis bukti. |
-| **Pendekatan Disiplin Santri** | Bercampur dengan sanksi retributif warisan masa lalu (botak, dera fisik). | Murni Disiplin Positif Restoratif (*Ishlah Dzatil Bain*) berbasis 5 Stasiun. | Nelsen & Dreikurs: Eliminasi mutlak kekerasan fisik dan verbal di asrama. |
-| **Standar Sitasi Akademik** | Tautan acak, kutipan informal tanpa takhrij, marak link paywall/DOI berbayar. | Standar APA 7th Edition Bersih (tanpa paywall komersial) + Takhrij Hadits Mu'tabar. | Kebijakan Sitasi Bersih Pesantren: Akses terbuka ramah lingkungan santri. |
-| **Bahasa Pemersatu (Semantik)** | Definisi istilah adab kabur; terjadi tumpang tindih antara adab dan aturan formal. | *Ubiquitous Language* terstandarisasi dengan matriks audit filologi dan isytiqaq Arab. | Eric Evans (2003): *Domain-Driven Design* & Matriks Demarkasi Istilah. |
-| **Manajemen Utang Teknis** | Utang teknis dibiarkan menumpuk hingga memicu kelumpuhan pemeliharaan. | Deteksi aktif utang arsitektur melalui audit integritas dokumen (QRIA & FUCLA). | Lehman & Belady (1985): Hukum Kompleksitas yang Semakin Meningkat. |
-| **Pola Relasi Kuasa Asrama** | Hierarkis feodal; senioritas kamar melegalkan perundungan tersembunyi. | Kepemimpinan Qudwah Hasanah (*Prophetic Servant Leadership*) bebas feodalisme. | Hadits Nabi: *"Kullukum ra'in wa kullukum mas'ulun 'an ra'iyyatihi"* (HR. Bukhari). |
-| **Dekomposisi Sistemik** | Monolitik datar; satu bagian rusak mengguncang seluruh dokumen konseptual. | *Near-Decomposable Hierarchy*; modularitas otonom yang stabil terhadap krisis luar. | Herbert Simon (1962): *The Architecture of Complexity*. |
-| **Titik Ungkit Kebijakan** | Berfokus pada titik ungkit lemah (menambah aturan dan denda teknis). | Berfokus pada titik ungkit tertinggi (mengubah paradigma dan tujuan hakiki sistem). | Donella Meadows (2008): *Thinking in Systems* & Leverage Points. |
-| **Model Eskalasi Perilaku** | Reaktif spontan; menunggu kasus viral baru dirapatkan pimpinan secara darurat. | Alur eskalasi multi-tier terencana (Tier 1 Universal, Tier 2 Terarah, Tier 3 Restorasi). | Horner & Sugai (2010): *Multi-Tiered Behavioral Support Systems*. |
-| **Daya Tahan Pasca-Transisi** | Cepat membusuk (*post-transition decay*) karena bergantung pada figur kyai semata. | Memiliki ketahanan sistemik (*systemic resilience*) yang tahan uji pergantian pengurus. | Argyris & Schön (1978): *Organizational Learning & Institutional Memory*. |
+| No | Parameter Arsitektural | Generasi V1 (Fase Perintisan Organik) | Generasi V2.0.0 (Fase Kanonik Terstruktur) | Keterhubungan dengan Judul & Landasan Epistemik |
+|---|---|---|---|---|
+| 1 | **Paradigma Repositori** | Gudang penyimpanan dokumen monolitik (*document dump*). | Mesin inkuiri epistemik bertingkat (*stratified inquiry engine*). | Thomas Kuhn (1962): Branch V2 mewadahi pergeseran paradigma baru. |
+| 2 | **Separation of Concerns** | Sangat Rendah; filosofi, kebijakan yayasan, dan SOP bertumpuk. | Sangat Tinggi; isolasi ketat antarlapisan (01, 02, 03) berpembatas. | David Parnas (1972): Branch V2 menerapkan *Information Hiding*. |
+| 3 | **Kontinuitas Silsilah (Lineage)** | Rentan terputus (*lineage fracture*); alasan revisi sering lenyap. | Utuh dan dapat ditelusuri dua arah (*bidirectional traceability* via ADR). | Tradisi Isnad Asy-Syafi'i: Sanad keilmuan terjaga tanpa celah di V2. |
+| 4 | **Perlakuan Terhadap Sejarah** | Dokumen lama ditimpa langsung di tempat (*destructive editing*). | Dokumen lama diabadikan di `99_ARCHIVE/` sebagai museum sanad. | Kaidah Tajdid Asy-Syathibi: Memelihara prinsip asal menata sarana baru. |
+| 5 | **Penomoran & Identifikasi** | Penomoran informal acak (P1, P02, draf-a); rentan bentrok id. | Standarisasi baku 5-digit kanonik (`P00000` s/d `P00946`). | Martin Fowler (2002): Standarisasi identitas kanonik di Branch V2. |
+| 6 | **Status Dokumen PROBE** | PROBE dianggap sekadar folder draf catatan rapat internal. | PROBE disahkan sebagai **Jurnal Riset Desain Sistem (>8.500 kata)**. | Metodologi Riset Desain Sistem: Karya ilmiah komprehensif di V2. |
+| 7 | **Pendekatan Disiplin Santri** | Bercampur dengan sanksi retributif masa lalu (botak, dera fisik). | Murni Disiplin Positif Restoratif (*Ishlah Dzatil Bain*) 5 Stasiun. | Nelsen & Dreikurs: Eliminasi mutlak kekerasan fisik dan verbal di V2. |
+| 8 | **Standar Sitasi Akademik** | Tautan acak, kutipan tanpa takhrij, marak tautan paywall/DOI. | Standar APA 7th Edition Bersih (bebas paywall) + Takhrij Hadits. | Kebijakan Sitasi Bersih Pesantren: Akses mandiri ramah santri di V2. |
+| 9 | **Bahasa Pemersatu (Semantik)** | Definisi istilah adab kabur; tumpang tindih adab dan pasal aturan. | *Ubiquitous Language* terstandarisasi dengan matriks isytiqaq Arab. | Eric Evans (2003): *Domain-Driven Design* & Batas Demarkasi Istilah V2. |
+| 10 | **Manajemen Utang Teknis** | Utang teknis dibiarkan menumpuk hingga memicu kelumpuhan sistem. | Deteksi aktif utang arsitektur via audit kepatuhan guardrails. | Lehman & Belady (1985): Branch V2 membersihkan utang arsitektur lama. |
+| 11 | **Pola Relasi Kuasa Asrama** | Hierarkis feodal; senioritas melegalkan perundungan terselubung. | Kepemimpinan Qudwah Hasanah (*Prophetic Servant Leadership*). | Hadits Nabi: Kepemimpinan melayani bebas feodalisme di V2. |
+| 12 | **Dekomposisi Sistemik** | Monolitik datar; gangguan teknis mengguncang naskah filosofis. | *Near-Decomposable Hierarchy*; modularitas otonom yang stabil. | Herbert Simon (1962): Kestabilan evolusi hierarki terdekomposisi V2. |
+| 13 | **Titik Ungkit Kebijakan** | Berfokus pada titik ungkit lemah (menaikkan angka sanksi). | Berfokus pada titik ungkit tertinggi (mengubah paradigma hakiki). | Donella Meadows (2008): Branch V2 mentransformasi mindset sistem. |
+| 14 | **Model Intervensi Perilaku** | Reaktif spontan; menunggu kasus viral baru dirapatkan pimpinan. | Alur eskalasi multi-tier terencana (Tier 1, Tier 2, Tier 3). | Horner & Sugai (2010): Intervensi terstruktur multi-tier di V2. |
+| 15 | **Daya Tahan Kelembagaan** | Rentan membusuk (*post-transition decay*) jika kyai wafat. | Memiliki ketahanan sistemik (*systemic resilience*) lintas zaman. | Argyris & Schön (1978): Memori kelembagaan abadi di Branch V2. |
+| 16 | **Validitas Pembuktian Bukti** | Klaim subjektif sepihak disetarakan dengan kebenaran faktual. | Triangulasi maratib al-yaqin (*'Ilm, 'Ain, Haqq al-Yaqin*). | Fakhruddin Ar-Razi & Ibnu Qayyim: Epistemologi bukti bertingkat di V2. |
 
 ---
 
-## 9. Protokol Tindakan Operasional Migrasi & Tata Kelola Transisi 5 Tahap
+## 9. Protokol Tindakan Operasional Migrasi: Menjamin Kontinuitas Lineage Selama Transisi Menuju Branch V2
 
-Guna mengelola proses transisi dari repositori V1 menuju pembekuan kanonik Branch V2 secara tertib, aman, dan tanpa merusak operasional harian pesantren, ditetapkan Protokol Lima Tahap Terpadu:
+Bab ini merumuskan protokol tata kelola migrasi lima tahap dan panduan operasional bagi tim pengembang repositori agar **proses restrukturisasi V2 berjalan mulus tanpa merusak kesinambungan silsilah intelektual masa lalu**:
 
+### 9.1. Protokol Lima Tahap Transisi Repositori Bebas Gangguan
 1. **Tahap 1: Pengisolasian Repositori Lama & Pembekuan Branch `main` (*Baseline Freezing*)**
-   - Melakukan kompilasi seluruh commit riwayat masa lalu dan menetapkan tag penanda `v1.0-final-archive`.
-   - Mengubah status branch `main` menjadi *read-only* untuk mencegah modifikasi dokumen secara liar.
-   - Menyalin seluruh artefak sejarah yang usang ke dalam direktori arsip `99_ARCHIVE/probe_01_legacy/`.
+   - Mengubah status branch `main` lama menjadi *read-only* untuk mencegah modifikasi dokumen liar di tengah masa transisi.
+   - Mengompilasi seluruh commit riwayat masa lalu dan menetapkan tag penanda `v1.0-final-archive`.
+   - Memindahkan seluruh berkas lama yang usang ke direktori arsip `99_ARCHIVE/probe_01_legacy/` sebagai museum sanad abadi (*lineage preservation*).
 2. **Tahap 2: Pemurnian Lapisan Fundamental Bebas Polusi Lapangan (*Ontological Cleansing*)**
-   - Menginspeksi seluruh naskah di `01_FUNDAMENTAL/` guna membuang setiap istilah teknis operasional, sanksi retributif, atau prosedur administratif.
-   - Mengunci 9 Domain Fondasi Konstitusional sebagai *Hard Core* sistem yang tidak boleh diubah tanpa konsensus syar'i.
-   - Memastikan seluruh dalil Al-Qur'an dan hadits nabawi telah dilengkapi matan Arab berharakat dan takhrij sanad mu'tabar.
+   - Mengaudit setiap dokumen di `01_FUNDAMENTAL/` guna membuang rincian prosedur operasional dan istilah sanksi punitif (*architectural restructuring*).
+   - Mengunci 9 Domain Fondasi Konstitusional sebagai *Hard Core* sistem yang invarian.
+   - Melengkapi seluruh ayat Al-Qur'an dan hadits nabawi dengan teks Arab berharakat penuh, sanad rawi, dan takhrij kitab mu'tabar.
 3. **Tahap 3: Restrukturisasi Lapisan Implementasi & Peta Kurikulum (*Institutional Mapping*)**
-   - Menerjemahkan prinsip-prinsip fitrah ke dalam kerangka kelembagaan pesantren di `02_IMPLEMENTATION/`.
-   - Menyusun taksonomi kompetensi adab 24 jam, pemetaan jenjang kemandirian santri (J1–J4), dan desain tata ruang fisik asrama berbasis prinsip CPTED.
-   - Mengharmonisasikan beban jadwal belajar agar selaras dengan ritme sirkadian biologis santri remaja.
+   - Menerjemahkan doktrin fitrah ke dalam rancangan kelembagaan pesantren modern di `02_IMPLEMENTATION/`.
+   - Mengembangkan taksonomi kompetensi adab santri 24 jam, pemetaan jenjang kemandirian (J1–J4), dan desain tata ruang fisik ramah fitrah (CPTED).
+   - Menyelaraskan kalender sirkadian 24 jam dengan ritme biologis santri dan musyrif.
 4. **Tahap 4: Translasi Menuju Perangkat Kerja Operasional Asrama (*Operational Tooling*)**
-   - Menurunkan kerangka implementasi menjadi perangkat kerja praktis di `03_OPERATIONAL/`: job description musyrif, SOP de-eskalasi konflik, panduan halaqah malam, dan lembar observasi formatif BARS.
-   - Menyelenggarakan pelatihan intensif bagi seluruh jajaran asatidz dan musyrif untuk menginternalisasi paradigma baru.
-   - Menguji instrumen lapangan secara terbatas pada kamar-kamar percontohan guna mendeteksi friksi operasional.
+   - Menurunkan prinsip implementasi ke dalam perangkat kerja taktis di `03_OPERATIONAL/`: deskripsi kerja musyrif, SOP pendampingan kamar, modul halaqah malam, dan lembar observasi perilaku formatif BARS (*Behaviorally Anchored Rating Scales*).
+   - Melakukan sosialisasi dan uji coba terbatas pada 2–3 kamar percontohan guna mengukur kelancaran instrumen baru.
 5. **Tahap 5: Promosi Resmi Branch V2 Menjadi Baseline Utama (*Canonical Baseline Promotion*)**
-   - Melakukan audit akhir integritas tautan markdown, validasi sitasi APA 7th edition, dan audit kepatuhan guardrails.
-   - Menerbitkan Piagam Penutupan Epistemik (`P00119`) sebagai tanda tuntasnya fondasi meta-arsitektur repositori.
-   - Menetapkan Branch `v2.0.0` sebagai *Source of Truth* tunggal yang sah bagi seluruh stakeholder lembaga pesantren.
+   - Melaksanakan audit akhir integritas tautan markdown, validasi sitasi APA 7th edition bersih, dan audit kepatuhan guardrails repositori.
+   - Mengesahkan berkas penutup epistemik (`P00119`) sebagai piagam tuntasnya fondasi arsitektur repositori.
+   - Menetapkan Branch `v2.0.0` sebagai *Source of Truth* tunggal yang sah bagi seluruh operasional pendidikan lembaga.
+
+### 9.2. Panduan Tata Kelola bagi Tim Pengembang Repositori & Tim Penulis
+1. **Kepatuhan Terhadap Batas Lapisan (*Epistemic Boundary Discipline*)**: Setiap penulis dilarang keras memasukkan pasal tata tertib operasional ke dalam folder `01_FUNDAMENTAL/` atau sebaliknya, mendefinisikan ulang istilah filosofis di folder `03_OPERATIONAL/`.
+2. **Kewajiban Pencatatan ADR untuk Setiap Perubahan Desain**: Setiap kali terjadi perubahan struktur direktori, penambahan kategori baru, atau revisi matriks kompetensi, tim pengembang wajib menyusun dokumen *Architectural Decision Record* (ADR) agar alasan intelektual perubahan tersebut abadi dan dapat diaudit oleh generasi penerus.
+3. **Pencegahan Regresi Desain (*Anti-Regression Audits*)**: Melakukan inspeksi berkala menggunakan skrip audit integritas untuk mendeteksi apabila ada tautan patah, kebocoran istilah sanksi kekerasan, atau rujukan sirkular yang menyusup ke Branch V2.
 
 ---
 
-## 10. Architectural Decision Record (ADR-PROBE-0000)
+## 10. Architectural Decision Record (ADR-PROBE-0000): Pengesahan Kanonik Branch V2 sebagai Resolusi Lineage dan Restrukturisasi
+
+Bab ini mengodifikasikan keputusan arsitektural resmi yang secara hukum repositori **mengesahkan eksistensi Branch v2.0.0 sebagai penyelesai dialektika lineage dan restrukturisasi**:
 
 ```text
 ================================================================================
@@ -417,31 +481,33 @@ Tanggal Penetapan: 2026-10-25
 Pengambil Keputusan: Dewan Arsitektur Sistem & Majelis Pengembang TUMBUH v2.0.0
 
 KONTEKS MASALAH:
-Repositori TUMBUH fase perintisan V1 mengalami penumpukan utang teknis arsitektural
-yang akut: dokumen filosofis bercampur baur dengan SOP teknis, bahasa sanksi fisik
-retributif menyusup ke modul pengasuhan, tautan antar-berkas mengalami kerusakan
-sirkular, dan musyrif baru mengalami kebingungan metodologis. Upaya perbaikan
-langsung di branch utama (in-place editing) terbukti gagal karena merusak
-keterlacakan sejarah dan terbentur pada dependensi dokumen lama yang rapuh.
+Repositori TUMBUH fase perintisan V1 (2024–2025) mengalami penumpukan utang teknis
+arsitektural yang parah: dokumen filosofis bercampur baur dengan tata tertib teknis,
+bahasa sanksi fisik retributif menyusup ke modul pengasuhan, tautan antardokumen
+mengalami kerusakan sirkular, dan musyrif baru mengalami disorientasi metodologis.
+Upaya penambalan langsung di branch utama (in-place editing) terbukti gagal total
+karena merusak keterlacakan sejarah dan terbentur pada dependensi berkas lama yang rapuh.
 
 KEPUTUSAN ARSITEKTURAL:
 1. Memutuskan secara resmi PEMISAHAN BRANCH BARU bernama 'v2.0.0' sebagai ruang
    rekayasa arsitektural yang berdaulat, mandiri, dan bebas dari beban V1.
 2. Membekukan branch 'main' lama sebagai museum arsip sejarah yang terkunci di
-   bawah direktori 99_ARCHIVE/ guna melindungi sanad perintisan awal.
+   bawah direktori 99_ARCHIVE/ guna melindungi sanad perintisan awal (Lineage Preservation).
 3. Menerapkan Arsitektur Stratifikasi Epistemik Berlapis (Separation of Epistemic
    Concerns) yang memisahkan secara mutlak: 01_FUNDAMENTAL, 02_IMPLEMENTATION,
-   03_OPERATIONAL, PROBE, REFERENCES, dan METHODOLOGY.
+   03_OPERATIONAL, PROBE, REFERENCES, dan METHODOLOGY (Architectural Restructuring).
 4. Menetapkan bahwa seluruh berkas penyelidikan PROBE berkedudukan sebagai Jurnal
    Riset Desain Sistem Mandiri (Review Paper) dengan target kedalaman >8.500 kata
    dan menganalisis puluhan sumber otoritatif per tema inkuiri.
 5. Mengharamkan segala bentuk sanksi retributif fisik-verbal di asrama dan menggantinya
    dengan sistem pembinaan restoratif 5 stasiun (Waqi'ah s/d Malakah).
 
-DASAR PERTIMBANGAN EPISTEMIK:
+DASAR PERTIMBANGAN EPISTEMIK (SELARAS JUDUL BERKAS):
 - Kaidah Tajdid dan Sunnah Pembaruan Islam (HR. Abu Dawud No. 4291; Syarah Al-Munawi).
 - Kaidah Ushul Fiqih: Istishhab al-Ashl & Taghayyur al-Ahkam (Ibnu Qayyim & Al-Qarafi).
 - Preseden Ijtihad Asy-Syafi'i: Qaul Qadim (Irak/V1) menuju Qaul Jadid (Mesir/V2).
+- Kaidah Mashlahah Mursalah & Wasail Maqashid Asy-Syathibi (Al-Muwafaqat).
+- Teori Siklus Peradaban Ibnu Khaldun (Al-Muqaddimah) & Kaidah As-Sarkhasi-Al-Ghazali.
 - Hukum Evolusi Perangkat Lunak Lehman: Continuing Change & Increasing Complexity.
 - Teori Pergeseran Paradigma Thomas Kuhn & Metodologi Program Riset Imre Lakatos.
 - Prinsip Modularitas Parnas (Information Hiding) & Domain-Driven Design Evans.
@@ -456,45 +522,50 @@ Positif:
 - Integritas sanad keilmuan perintis tetap terjaga utuh melalui keterlacakan arsip.
 Negatif & Mitigasi:
 - Memerlukan waktu dan energi intelektual yang masif untuk menulis ulang monograf.
-  Mitigasi: Eksekusi inkuiri kanonik 120 berkas P00000-P00119 secara bertahap dan teratur.
+  Mitigasi: Eksekusi inkuiri kanonik 120 berkas P00000-P00119 secara terencana dan teratur.
 ================================================================================
 ```
 
 ---
 
-## 11. Implikasi Arsitektural bagi Seluruh Ekosistem TUMBUH & Tujuh Guardrails
+## 11. Implikasi Arsitektural bagi Seluruh Ekosistem TUMBUH & Tujuh Guardrails: Membentengi Branch V2 dari Pengkhianatan Lineage dan Utang Desain
+
+Bab ini memetakan dampak keputusan Branch V2 ke seluruh lapisan repositori serta menegakkan batas-batas larangan mutlak agar Branch V2 tidak mengulangi kesalahan V1:
 
 ### 11.1. Dampak Lintas Lapisan Repositori
-1. **Bagi `01_FUNDAMENTAL/`**: Menjadi konstitusi suci yang steril dari rincian teknis operasional; memuat intisari ontologi, epistemologi, hakikat insan, tahapan perkembangan, konsep ta'dib, dan arsitektur model inti.
-2. **Bagi `02_IMPLEMENTATION/`**: Menjadi cetak biru kelembagaan yang menerjemahkan prinsip fundamental ke dalam struktur manajemen pesantren, kalender sirkadian 24 jam, dan kurikulum adab berjenjang.
-3. **Bagi `03_OPERATIONAL/`**: Menjadi perangkat kerja taktis lapangan bagi musyrif, wali santri, dan dewan asatidz yang mudah dibaca, bebas jargon akademis yang membingungkan, dan berorientasi aksi nyata.
-4. **Bagi `PROBE/`**: Diteguhkan fungsinya sebagai dapur penelitian (*engine of inquiry*) yang membedah setiap ketegangan desain sebelum diputuskan menjadi kebijakan resmi.
-5. **Bagi `REFERENCES/` & `METHODOLOGY/`**: Menjamin seluruh literatur yang dikutip terverifikasi sanadnya, bebas dari tautan paywall komersial, dan memenuhi standar audit sitasi ilmiah modern.
+1. **Bagi `01_FUNDAMENTAL/`**: Menjadi konstitusi suci yang steril dari rincian teknis operasional; memuat intisari ontologi tauhid, epistemologi bukti, antropologi fitrah, tahapan perkembangan insan, konsep ta'dib nabawi, dan arsitektur model inti.
+2. **Bagi `02_IMPLEMENTATION/`**: Menjadi cetak biru kelembagaan yang menerjemahkan prinsip fundamental ke dalam struktur manajemen pesantren, kalender sirkadian 24 jam, tata ruang fisik asrama ramah fitrah (CPTED), dan matriks kurikulum adab berjenjang (J1–J4).
+3. **Bagi `03_OPERATIONAL/`**: Menjadi perangkat kerja taktis lapangan bagi musyrif, wali santri, dan dewan asatidz yang mudah dibaca, bebas jargon akademis yang membingungkan, dan berorientasi aksi nyata dalam pendampingan asrama.
+4. **Bagi `PROBE/`**: Diteguhkan fungsinya sebagai dapur penelitian (*engine of inquiry*) berbobot monograf jurnal ilmiah yang membedah setiap ketegangan desain sebelum diputuskan menjadi kebijakan resmi repositori.
+5. **Bagi `REFERENCES/` & `METHODOLOGY/`**: Menjamin seluruh literatur yang dikutip terverifikasi sanadnya, bebas dari tautan paywall komersial berbayar, dan memenuhi standar audit sitasi ilmiah modern (APA 7th edition bersih).
+6. **Bagi `99_ARCHIVE/`**: Menjadi museum silsilah keilmuan yang mengabadikan naskah V1 dalam status read-only untuk menjamin keterlacakan sejarah abadi.
 
 ### 11.2. Tujuh Guardrails Konstitusional Repositori (Batas-Batas Negatif Mutlak)
 Guna membentengi Branch v2.0.0 dari degradasi kembali ke pola-pola kegagalan V1, ditetapkan 7 larangan mutlak (*Seven Absolute Invariant Guardrails*):
 
-1. **Haram Menghapus Sanad Sejarah V1**: Dilarang keras menghapus atau memanipulasi commit riwayat branch `main` lama; kontinuitas silsilah perintisan adalah amanah moral dan legitimasi historis sistem.
+1. **Haram Menghapus Sanad Sejarah V1**: Dilarang keras menghapus atau memanipulasi commit riwayat branch `main` lama; kontinuitas silsilah perintisan adalah amanah moral dan legitimasi historis sistem (*Guardrail Lineage*).
    - *Klausul Mitigasi*: Seluruh naskah lama wajib diarsipkan secara permanen di direktori `99_ARCHIVE/` dengan status read-only.
-2. **Haram Kebocoran Lapisan Epistemik (*No Layer Pollution*)**: Dilarang memasukkan pasal-pasal teknis operasional (seperti besaran nominal denda, jadwal giliran piket, atau format surat izin) ke dalam dokumen `01_FUNDAMENTAL`.
+2. **Haram Kebocoran Lapisan Epistemik (*No Layer Pollution*)**: Dilarang memasukkan pasal-pasal teknis operasional (seperti besaran nominal denda, jadwal giliran piket, atau format surat izin) ke dalam dokumen `01_FUNDAMENTAL` (*Guardrail Separation of Concerns*).
    - *Klausul Mitigasi*: Setiap draf dokumen fundamental wajib lolos uji audit boundary sebelum disahkan oleh dewan arsitektur.
-3. **Haram Mengubah Definisi Dasar di Dokumen Operasional**: Dokumen di `03_OPERATIONAL` dilarang membuat definisi baru mengenai istilah adab atau fitrah yang bertentangan dengan dokumen Fundamental.
+3. **Haram Mengubah Definisi Dasar di Dokumen Operasional**: Dokumen di `03_OPERATIONAL` dilarang membuat definisi baru mengenai istilah adab atau fitrah yang bertentangan dengan dokumen Fundamental (*Guardrail Consistency*).
    - *Klausul Mitigasi*: Pelanggaran definisi operasional membatalkan keabsahan SOP yang bersangkutan secara otomatis.
-4. **Haram Menghidupkan Sanksi Retributif Kekerasan**: Dilarang keras menyusupkan kembali sanksi fisik (pemukulan, pencukuran rambut aib, penjemuran) atau kekerasan verbal ke dalam seluruh dokumen cabang v2.0.0.
+4. **Haram Menghidupkan Sanksi Retributif Kekerasan**: Dilarang keras menyusupkan kembali sanksi fisik (pemukulan, pencukuran rambut aib, penjemuran) atau kekerasan verbal ke dalam seluruh dokumen cabang v2.0.0 (*Guardrail Maqashid Tarbiyah*).
    - *Klausul Mitigasi*: Setiap tindakan kedisiplinan wajib mengadopsi protokol 5 stasiun restoratif yang memuliakan martabat fitrah insan.
-5. **Haram Penciptaan Berkas Dangkal (<8.500 Kata pada PROBE)**: Dilarang menyusun berkas inkuiri PROBE dalam bentuk ringkasan dangkal, checklist administratif, atau naskah drama sandiwara percakapan.
+5. **Haram Penciptaan Berkas Dangkal (<8.500 Kata pada PROBE)**: Dilarang menyusun berkas inkuiri PROBE dalam bentuk ringkasan dangkal, checklist administratif, atau naskah drama sandiwara percakapan (*Guardrail Rigor Ilmiah*).
    - *Klausul Mitigasi*: Setiap berkas PROBE wajib disusun dalam format Jurnal Riset Desain Sistem (Review Paper) yang menganalisis puluhan sumber otoritatif.
-6. **Haram Mencantumkan Tautan Paywall Berbayar (DOI Komersial)**: Dilarang mencantumkan link `https://doi.org/...` komersial yang mengunci akses literatur di balik dinding berbayar.
+6. **Haram Mencantumkan Tautan Paywall Berbayar (DOI Komersial)**: Dilarang mencantumkan link `https://doi.org/...` komersial yang mengunci akses literatur di balik dinding berbayar (*Guardrail Open Access Pesantren*).
    - *Klausul Mitigasi*: Seluruh sitasi wajib menggunakan format teks bibliografis bersih berstandar APA 7th Edition yang dapat diverifikasi secara mandiri.
-7. **Haram Meremehkan Ruang Lingkup Adaptasi Lokal**: Dilarang memaksakan standardisasi V2 secara kaku hingga mematikan kearifan lokal (*kearifan lokal pesantren daerah*) yang tidak melanggar prinsip syar'i.
+7. **Haram Meremehkan Ruang Lingkup Adaptasi Lokal**: Dilarang memaksakan standardisasi V2 secara kaku hingga mematikan kearifan lokal (*kearifan lokal pesantren daerah*) yang tidak melanggar prinsip syar'i (*Guardrail Fleksibilitas Budaya*).
    - *Klausul Mitigasi*: Branch V2 menyediakan ruang adaptasi (*adaptation space*) yang sah di lapisan `02_IMPLEMENTATION` untuk mengakomodasi keunikan budaya pesantren setempat.
 
 ---
 
-## 12. Penutup, Sintesis Reflektif, & Emergent Research Questions
+## 12. Penutup, Sintesis Reflektif Filosofis, & Emergent Chain of Inquiry: Meneguhkan Rasionalitas Eksistensi Branch V2
+
+Bab penutup ini mengikat seluruh argumentasi kembali ke judul monograf dan membuka jembatan inkuiri menuju berkas-berkas lanjutan di Pilar 1:
 
 ### 12.1. Sintesis Penutup Filosofis
-Pemisahan Branch v2.0.0 adalah proklamasi kematangan intelektual ekosistem TUMBUH. Ia menjadi saksi keberanian sebuah gerakan pendidikan Islam untuk melakukan muhasabah arsitektural: berani mengakui keterbatasan desain masa lalu, berani melepaskan struktur yang rapuh, seraya dengan penuh takzim mencium tangan para perintis awal dengan mengabadikan jejak langkah mereka dalam museum silsilah yang abadi. Melalui Branch v2.0.0, repositori TUMBUH bertransformasi dari sekadar tumpukan berkas digital menjadi sebuah peradaban teks yang hidup (*living textual civilization*): sebuah bangunan arsitektur yang kokoh laksana pohon kurma unggul, yang akarnya menancap kuat pada wahyu ilahi dan tradisi salaf, batangnya tegak di atas sains modern yang terverifikasi, dan cabang-cabangnya menaungi ribuan santri dengan buah adab, kemandirian, dan kemuliaan akhlak nabawiyyah.
+Pemisahan Branch v2.0.0 adalah proklamasi kematangan intelektual ekosistem TUMBUH. Ia menjadi saksi keberanian sebuah gerakan pendidikan Islam untuk melakukan muhasabah arsitektural: berani mengakui keterbatasan desain masa lalu, berani melepaskan struktur yang rapuh, seraya dengan penuh takzim mencium tangan para perintis awal dengan mengabadikan jejak langkah mereka dalam museum silsilah yang abadi. Melalui Branch v2.0.0, repositori TUMBUH bertransformasi dari sekadar tumpukan berkas digital menjadi sebuah peradaban teks yang hidup (*living textual civilization*): sebuah bangunan arsitektur yang kokoh laksana pohon kurma unggul, yang akarnya menancap kuat pada wahyu ilahi dan tradisi salaf (*lineage preservation*), batangnya tegak di atas sains modern yang terverifikasi (*architectural restructuring*), dan cabang-cabangnya menaungi ribuan santri dengan buah adab, kemandirian, dan kemuliaan akhlak nabawiyyah.
 
 ### 12.2. Jembatan Rantai Inkuiri Lanjutan (Emergent Chain of Inquiry)
 Dengan tuntasnya piagam konstitusional mengenai rasionalitas eksistensi Branch V2 pada monograf pembuka ini, rantai inkuiri arsitektural melangkah secara organik menuju berkas-berkas penyelidikan berikutnya di Pilar 1:
@@ -510,7 +581,7 @@ Dengan tuntasnya piagam konstitusional mengenai rasionalitas eksistensi Branch V
 
 ---
 
-## 13. Bibliografi Terkurasi Lengkap: Analisis Puluhan Sumber Otoritatif
+## 13. Daftar Pustaka / Referensi Terkurasi Lengkap: Sumber Otoritatif Penegak Eksistensi Branch V2 dan Dialektika Lineage-Restrukturisasi
 
 Sebagai jurnal ilmiah jenis *Review Paper*, monograf inkuiri ini menganalisis puluhan sumber literatur otoritatif lintas disiplin ilmu—memadukan khazanah turats klasik Islam dengan teori rekayasa perangkat lunak, sains sistem, dan filsafat ilmu kontemporer—yang disusun berdasarkan standar formal APA 7th Edition Bersih (bebas tautan paywall komersial):
 
@@ -542,7 +613,7 @@ Sebagai jurnal ilmiah jenis *Review Paper*, monograf inkuiri ini menganalisis pu
 25. Ibnu Taimiyyah, A. H. (1995). *Majmu' al-fatawa: Kitab as-siyasah asy-syar'iyyah wa ushul al-fiqh* (Jilid 19 & 28). Al-Madinah: Majma' al-Malik Fahd.
 26. Sijistani, S. A. (2009). *Sunan abi dawud: Kitab al-malahim* (Tahqiq M. Awwamah, Jilid 4). Bairut: Dar al-Qiblah.[^1]
 
-### 13.2. Teori Rekayasa Perangkat Lunak, Sains Sistem, & Filsafat Ilmu Kontemporer
+### 13.2. Rekayasa Perangkat Lunak, Sains Sistem, & Filsafat Ilmu Kontemporer
 27. Alexander, C., Ishikawa, S., & Silverstein, M. (1977). *A pattern language: Towns, buildings, construction*. Oxford University Press.
 28. Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
 29. Basili, V. R., Caldiera, G., & Rombach, H. D. (1994). Goal question metric approach. *Encyclopedia of Software Engineering*, 1, 528–532.
@@ -569,7 +640,7 @@ Sebagai jurnal ilmiah jenis *Review Paper*, monograf inkuiri ini menganalisis pu
 
 ---
 
-### Catatan Kaki Akademis (*Footnotes Apparatus*)
+### 13.3. Catatan Kaki Akademis (*Footnotes Apparatus*)
 [^1]: Hadits riwayat Abu Dawud No. 4291 dalam Kitab al-Malahim, Bab Ma Yudzkaru fi Qarnil Mi'ah; dishahihkan oleh Al-Hakim dalam *Al-Mustadrak*, Jilid 4, Hal. 522, dan disepakati keshahihannya oleh Al-Hafizh Adz-Dzahabi.
 [^2]: Imam Muhammad 'Abdurra'uf Al-Munawi, *Faidh al-Qadir Syarh al-Jami' ash-Shaghir*, Jilid 2, Hal. 281. Mengurai hakikat tajdid sebagai penyusunan ulang sarana dan revitalisasi pengamalan syariat tanpa merombak prinsip aqidah dan maqashid.
 [^3]: Imam Jalaluddin As-Suyuthi, *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*, Hal. 51. Kaidah pokok *Al-Istishhab*: kemapanan hukum masa lalu tetap berlaku hingga tegak dalil kuat yang menuntut perombakan.
