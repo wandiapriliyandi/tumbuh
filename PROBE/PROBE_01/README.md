@@ -23,11 +23,11 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 | **1** | **Eksistensi, Silsilah, & Hakikat Branch v2.0.0** | `P00000` – `P00009` | **SELESAI KANONIK (10 Berkas)** |
 | **2** | **Stratifikasi Lapisan Repositori & Separation of Concerns** | `P00010` – `P00021` | **SELESAI KANONIK (12 Berkas)** |
 | **3** | **Logika Penataan Arsitektur Konseptual TUMBUH** | `P00022` – `P00039` | **SELESAI KANONIK (18 Berkas)** |
-| **4** | **Mesin Penyelidikan PROBE (Inquiry Engine)** | `P00040` – `P00054` | **Sebagian Selesai: P00040–P00050 (11 Berkas)** |
-| **5** | **Tata Kelola Identitas, Penomoran, & Traceability** | `P00055` – `P00069` | Menunggu Antrean |
-| **6** | **Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah** | `P00070` – `P00084` | Menunggu Antrean |
-| **7** | **Rekayasa Sistem & Deteksi Utang Desain (*Design Debt*)** | `P00085` – `P00099` | Menunggu Antrean |
-| **8** | **Integritas Semantik, Verifikasi Sitasi, & Kematangan (AMI)** | `P00100` – `P00119` | Menunggu Antrean |
+| **4** | **Mesin Penyelidikan PROBE (Inquiry Engine)** | `P00040` – `P00054` | **SELESAI KANONIK (15 Berkas)** |
+| **5** | **Tata Kelola Identitas, Penomoran, & Traceability** | `P00055` – `P00069` | **SELESAI KANONIK (15 Berkas)** |
+| **6** | **Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah** | `P00070` – `P00084` | **SELESAI KANONIK (15 Berkas)** |
+| **7** | **Rekayasa Sistem & Deteksi Utang Desain (*Design Debt*)** | `P00085` – `P00099` | **SELESAI KANONIK (15 Berkas)** |
+| **8** | **Integritas Semantik, Verifikasi Sitasi, & Kematangan (AMI)** | `P00100` – `P00119` | **SELESAI KANONIK (20 Berkas)** |
 
 ---
 
@@ -131,6 +131,45 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00082` — Kriteria Evaluasi Bukti yang Cukup untuk Memicu Revisi Desain Arsitektural](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00082-Kriteria-Evaluasi-Bukti-Pemicu-Revisi-Fundamental.md)
 - [`P00083` — Manajemen Anomali Data: Membedakan Deviasi Individual Santri dari Kegagalan Sistemik Lembaga](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00083-Manajemen-Anomali-Data-Deviasi-Santri-vs-Cacat-Sistem.md)
 - [`P00084` — Menjaga Independensi Epistemik Repositori dari Pengaruh Kepentingan Donatur dan Tekanan Tren Populer (Penutup Resmi Pilar 6)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00084-Menjaga-Independensi-Epistemik-Repositori-Penutup-Pilar-6.md)
+
+### Pilar 7: Rekayasa Sistem & Deteksi Utang Desain (SELESAI LENGKAP - 15 Berkas)
+- [`P00085` — Teori Sistem Terbuka dalam Lembaga Pesantren: Memahami Interaksi Kompleks Antara Kebijakan, Budaya, dan Manusia](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00085-Teori-Sistem-Terbuka-dalam-Lembaga-Pesantren.md)
+- [`P00086` — Deteksi Perpindahan Masalah (Systemic Displacement vs Redistribution): Mengetahui Masalah yang Sebenarnya Tidak Selesai](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00086-Deteksi-Perpindahan-Masalah-Systemic-Displacement.md)
+- [`P00087` — Bahaya Subsidi Kapasitas Tersembunyi (Hidden Capacity Subsidy): Mengungkap Beban Musyrif yang Menutupi Cacat Desain](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00087-Bahaya-Subsidi-Kapasitas-Tersembunyi-Hidden-Capacity-Subsidy.md)
+- [`P00088` — Mengukur Utang Desain Arsitektural (Architectural Technical Debt) dalam Pengelolaan Asrama 24 Jam](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00088-Mengukur-Utang-Desain-Arsitektural-Architectural-Technical-Debt.md)
+- [`P00089` — Membedakan Kepatuhan Sejati dari Kepatuhan Semu Akibat Pengawasan (True Adab vs Surveillance Compliance)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00089-Membedakan-Kepatuhan-Sejati-dari-Kepatuhan-Semu.md)
+- [`P00090` — Fenomena Rebound Behavior: Ledakan Pelanggaran Santri Saat Pengawasan Musyrif Mengalami Pelonggaran](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00090-Fenomena-Rebound-Behavior-Ledakan-Pelanggaran-Santri.md)
+- [`P00091` — Identifikasi Titik Ungkit Sistemik (Systemic Leverage Points): Menemukan Intervensi Terkecil yang Menghasilkan Dampak Adab Terbesar](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00091-Identifikasi-Titik-Ungkit-Sistemik-Systemic-Leverage-Points.md)
+- [`P00092` — Analisis Konsekuensi Tak Disengaja (*Unintended Consequences*): Mitigasi Efek Samping Berbahaya dari Regulasi Baru](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00092-Analisis-Konsekuensi-Tak-Disengaja-Unintended-Consequences.md)
+- [`P00093` — Deteksi Sindrom Normalisasi Penyimpangan (*Normalization of Deviance*) dalam Rutinitas Musyrif Asrama](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00093-Deteksi-Sindrom-Normalisasi-Penyimpangan-Normalization-of-Deviance.md)
+- [`P00094` — Mencegah Pembusukan Pasca-Transisi (*Post-Transition Decay*): Mempertahankan Vitalitas Baseline Sistem Baru](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00094-Mencegah-Pembusukan-Pasca-Transisi-Post-Transition-Decay.md)
+- [`P00095` — Analisis Interaksi Multilapis: Menangani Masalah yang Melibatkan Santri, Wali Santri, Musyrif, dan Pimpinan Sekaligus](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00095-Analisis-Interaksi-Multilapis-Santri-Wali-Musyrif-Pimpinan.md)
+- [`P00096` — Deteksi Sinyal Peringatan Dini (*Early Warning Signals*): Menangkap Gejala Penurunan Mutu Iklim Bi'ah Shalihah](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00096-Deteksi-Sinyal-Peringatan-Dini-Early-Warning-Signals.md)
+- [`P00097` — Merancang Ruang Jeda Pemulihan Kognitif (*Restoration Buffers*) untuk Mencegah Kelelahan Moral Pengasuh](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00097-Merancang-Ruang-Jeda-Pemulihan-Kognitif-Restoration-Buffers.md)
+- [`P00098` — Protokol Triage Masalah Lembaga: Menentukan Prioritas Perbaikan Saat Banyak Persoalan Muncul Bersamaan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00098-Protokol-Triage-Masalah-Lembaga-Menentukan-Prioritas-Perbaikan.md)
+- [`P00099` — Evaluasi Batas Ketahanan Sistem: Menguji Kekuatan Desain Menghadapi Tekanan Ekstrem dan Krisis Tak Terduga (Penutup Resmi Pilar 7)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00099-Evaluasi-Batas-Ketahanan-Sistem-Menghadapi-Tekanan-Ekstrem.md)
+
+### Pilar 8: Integritas Semantik, Verifikasi Sitasi, & Kematangan (SELESAI LENGKAP - 20 Berkas)
+- [`P00100` — Pengendalian Erosi Makna (*Semantic Drift*): Menjaga Kesucian Makna Istilah Tarbiyah dari Degradasi Zaman (Pembuka Resmi Pilar 8)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00100-Pengendalian-Erosi-Makna-Semantic-Drift.md)
+- [`P00101` — Audit Filologi dan Isytiqaq: Matriks Demarkasi Istilah Kunci Arsitektur Pendidikan Islam](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00101-Audit-Filologi-dan-Isytiqaq-Matriks-Demarkasi.md)
+- [`P00102` — Bahaya Silent Canonicalization: Mendeteksi Kebiasaan Lokal yang Diam-Diam Menjadi Aturan Wajib Tidak Resmi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00102-Bahaya-Silent-Canonicalization.md)
+- [`P00103` — Harmonisasi Konseptual Tsawabit dan Mutaghayyirat dalam Tata Kelola Ekosistem Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00103-Harmonisasi-Konseptual-Tsawabit-dan-Mutaghayyirat.md)
+- [`P00104` — Batas Ruang Adaptasi Lokal (*Adaptation Space*): Menghormati Kearifan Daerah Tanpa Merusak Garis Invariant Sistem](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00104-Batas-Ruang-Adaptasi-Lokal-Adaptation-Space.md)
+- [`P00105` — Pencegahan Dogmatisme Tertutup: Memberi Ruang Dialog Kritis bagi Santri dan Asatidz Tanpa Merusak Wibawa Sanad](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00105-Pencegahan-Dogmatisme-Tertutup-Dialog-Kritis.md)
+- [`P00106` — Pewarisan Memori Penalaran Antargenerasi (*Reasoning Lineage Transmission*): Mencegah Warisan Berubah Menjadi Ritual Kosong](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00106-Pewarisan-Memori-Penalaran-Antargenerasi.md)
+- [`P00107` — Protokol Verifikasi Sitasi Teks Turats Dua Jalur: Takhrij Matan Hadits dan Konfirmasi Syarah Kitab Mu'tabar](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00107-Protokol-Verifikasi-Sitasi-Teks-Turats-Dua-Jalur.md)
+- [`P00108` — Protokol Verifikasi Rujukan Sains Kontemporer: Audit Autentisitas Metadata Jurnal dan Eliminasi Halusinasi AI](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00108-Protokol-Verifikasi-Rujukan-Sains-Kontemporer.md)
+- [`P00109` — Penegakan Standar Sitasi Akademik Bersih: Pedoman APA 7th Edition Tanpa Tautan Komersial Berbayar (*Paywall-Free Citations*)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00109-Penegakan-Standar-Sitasi-Akademik-Bersih-APA-7th.md)
+- [`P00110` — Konseptualisasi Architecture Maturity Index (AMI): Mengapa Dibutuhkan Matriks Ukur Kesiapan Sistem?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00110-Konseptualisasi-Architecture-Maturity-Index-AMI.md)
+- [`P00111` — Deskriptor Skala Kematangan Level 1 (*Initial / Eksperimental*) dan Level 2 (*Managed / Terkendali*)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00111-Deskriptor-Skala-Kematangan-Level-1-dan-Level-2.md)
+- [`P00112` — Deskriptor Skala Kematangan Level 3 (*Defined / Terstandarisasi*) dan Level 4 (*Measured / Terukur*)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00112-Deskriptor-Skala-Kematangan-Level-3-dan-Level-4.md)
+- [`P00113` — Deskriptor Skala Kematangan Level 5 (*Optimized / Kanonik Sempurna*) untuk Repositori TUMBUH](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00113-Deskriptor-Skala-Kematangan-Level-5-Kanonik-Sempurna.md)
+- [`P00114` — Protokol Audit Integritas Dokumen Berkala: Menjaga Repositori dari Kerusakan Tautan dan Kontradiksi Semantik](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00114-Protokol-Audit-Integritas-Dokumen-Berkala.md)
+- [`P00115` — Resolusi Ketegangan Epistemik: Menjembatani Nalar Pengembang Sistem Modern dengan Kearifan Kiai Sepuh Pesantren](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00115-Resolusi-Ketegangan-Epistemik-Pengembang-Kiai-Sepuh.md)
+- [`P00116` — Tata Kelola Pergantian Kepengurusan Lembaga Tanpa Memutus Keberlanjutan Arsitektur v2.0.0](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00116-Tata-Kelola-Pergantian-Kepengurusan-Lembaga.md)
+- [`P00117` — Audit Kelayakan Lapangan (*Field Usability Audit*): Memastikan Dokumen Akademis Tinggi Tetap Mudah Dijalankan Musyrif](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00117-Audit-Kelayakan-Lapangan-Field-Usability-Audit.md)
+- [`P00118` — Deklarasi Tuntasnya Fondasi Meta-Arsitektur dan Kesiapan Memasuki Ranah Substansi Filosofis PROBE 02](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00118-Deklarasi-Tuntasnya-Fondasi-Meta-Arsitektur.md)
+- [`P00119` — Piagam Penutupan Epistemik PROBE 01: Pembekuan Resmi Baseline Arsitektur TUMBUH Branch v2.0.0 (Penutup Resmi Klaster PROBE 01)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00119-Piagam-Penutupan-Epistemik-PROBE-01.md)
 
 
 
