@@ -406,57 +406,29 @@ Repositori TUMBUH mengintegrasikan fungsi kebugaran otomatis yang berjalan pada 
 ---
 
 
-### 9.3 Panduan Teknis Implementasi CLI Git dan Skrip Automasi Pre-Commit Hook
+### 9.3. Spesifikasi Rekayasa Sistem: Logika Algoritmik Verifikasi Pre-Commit & Matriks Penegakan
 
-Bagi administrator sistem dan release engineers di lingkungan pesantren mitra TUMBUH, standarisasi Arsitektur Versioning Tripartit ditegakkan melalui skrip pre-commit hook otomatis yang dipasang di `.git/hooks/pre-commit`. Skrip bash berikut menolak secara otomatis komit yang tidak memenuhi kaidah penomoran kanonik:
+Sebagai sebuah monograf ilmiah desain sistem, penegakan arsitektur versioning tripartit tidak disajikan dalam bentuk skrip program mentah di dalam naskah publikasi, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Verifikasi Pre-Commit (Formal Pre-Commit Verification Specification)** yang menjadi acuan pengujian otomatis (*Automated Architectural Fitness Function*):
 
-```bash
-#!/bin/bash
-# ==============================================================================
-# TUMBUH v2.0.0 — Canonical Pre-Commit Linter Hook
-# Memverifikasi integritas Metadata Level 2 sebelum commit diizinkan
-# ==============================================================================
+#### 9.3.1. Model Matematis & Predikat Kelayakan Komit Level 2
+Misalkan $F_{\text{staged}}$ merepresentasikan himpunan seluruh berkas markdown yang berada dalam status *staged* menuju komit git. Setiap berkas aktif $f \in F_{\text{staged}} \setminus \{99\_\text{ARCHIVE}, \text{README}\}$ wajib mematuhi predikat kelengkapan metadata:
 
-ERRORS=0
+1. **Predikat Eksistensi Tajuk Identitas (Canonical Header Invariant)**:
+   $$\forall f \in F_{\text{staged}}, \quad \text{HasHeader}(f, \text{"ID Berkas Kanonik"}) \land \text{HasHeader}(f, \text{"Status Dokumen"})$$
+   Setiap berkas wajib mendeklarasikan ID berkas 5-digit dan status siklus hidupnya secara eksplisit pada tajuk metadata.
 
-# Loop seluruh berkas markdown yang di-stage
-for file in $(git diff --cached --name-only --diff-filter=ACM | grep -E '\.md$'); do
-    # Abaikan berkas arsip dan README non-substantif
-    if [[ "$file" =~ ^99_ARCHIVE/ ]] || [[ "$file" =~ README\.md$ ]]; then
-        continue
-    fi
+2. **Predikat Eliminasi Pranala Komersial (Zero-Paywall Invariant)**:
+   $$\forall f \in F_{\text{staged}}, \quad \text{Content}(f) \cap \{\text{"doi.org"}\} = \emptyset$$
+   Dilarang keras memuat pranala berbayar komersial; seluruh sitasi wajib memenuhi standar APA 7th Edition bersih.
 
-    # 1. Periksa keberadaan ID Berkas Kanonik
-    if ! grep -q "ID Berkas Kanonik:" "$file"; then
-        echo "[ERROR] Berkas '$file' tidak memuat tajuk 'ID Berkas Kanonik' Level 2!"
-        ERRORS=$((ERRORS + 1))
-    fi
+#### 9.3.2. Matriks Parameter Penegakan Gerbang Komit Versioning
 
-    # 2. Periksa keberadaan Status Dokumen Sah
-    if ! grep -q "Status Dokumen:" "$file"; then
-        echo "[ERROR] Berkas '$file' tidak memuat tajuk 'Status Dokumen' Level 2!"
-        ERRORS=$((ERRORS + 1))
-    fi
-
-    # 3. Periksa ketiadaan tautan paywall komersial
-    if grep -q "doi\.org" "$file"; then
-        echo "[ERROR] Berkas '$file' melanggar aturan: memuat pranala komersial 'doi.org'!"
-        ERRORS=$((ERRORS + 1))
-    fi
-done
-
-if [ $ERRORS -ne 0 ]; then
-    echo "=============================================================================="
-    echo "PENGGAGALAN COMMIT: Ditemukan $ERRORS pelanggaran arsitektur penomoran versi!"
-    echo "Perbaiki tajuk metadata sesuai standar P00007 sebelum melakukan komit ulang."
-    echo "=============================================================================="
-    exit 1
-fi
-
-exit 0
-```
-
-Penerapan otomatisasi gerbang ini menjamin bahwa tidak ada satu pun kontributor repositori—baik asatidz, peneliti, maupun konsultan luar—yang dapat merusak keteraturan arsitektur versioning tripartit tanpa disengaja. Disiplin rekayasa ini melindungi ekosistem TUMBUH dari degradasi mutu dokumentasi seiring pergantian generasi pengurus.
+| Parameter Uji | Syarat Kepatuhan (*Rule*) | Dampak Pelanggaran | Tindakan Gerbang Git Hook |
+|---|---|---|:---:|
+| **ID Berkas Level 2** | Memuat `ID Berkas Kanonik: PROBE/PROBE_01/P00xxx` | Anarki penamaan, dokumen kehilangan identitas silsilah | **BLOCKED (Abort Commit)** |
+| **Status Dokumen** | Memuat salah satu dari 4 status kanonik sah | Ketidakjelasan wewenang operasional dokumen di lapangan | **BLOCKED (Abort Commit)** |
+| **Ketiadaan Paywall** | Bebas 100% dari domain `doi.org` berbayar | Pembebanan biaya komersial terhadap sivitas pesantren | **BLOCKED (Abort Commit)** |
+| **Kesesuaian SemVer** | Format tag rilis wajib mematuhi regex SemVer resmi | Kebingungan penomoran rilis sistem publik (Level 1) | **BLOCKED (Abort Commit)** |
 
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0007)

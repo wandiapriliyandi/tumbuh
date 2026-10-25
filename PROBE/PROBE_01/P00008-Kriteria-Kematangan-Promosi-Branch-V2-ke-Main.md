@@ -387,79 +387,47 @@ ALUR LIMA TAHAP PROTOKOL PROMOSI KANONIK REPOSITORI TUMBUH
    git push origin v2.0.0-canonical-baseline
    ```
 
-### 9.2. Skrip Prosedur Pemulihan Darurat (*Automated Emergency Rollback Script*)
-Sekiranya dalam 72 jam pasca-promosi ditemukan anomali hukum fatal di lapangan asrama, repositori TUMBUH menyediakan skrip pemulihan darurat otomatis `rollback-to-previous-baseline.sh`:
-```bash
-#!/bin/bash
-# ==============================================================================
-# TUMBUH v2.0.0 — Emergency Rollback Protocol
-# Memulihkan sistem ke baseline stabil sebelumnya sekiranya terjadi krisis
-# ==============================================================================
+### 9.2. Prosedur Pemulihan Darurat Kanonik: Model Transisi Status & Protokol Rollback
+Sekiranya dalam 72 jam pasca-promosi rilis kanonik ditemukan anomali hukum fatal di lapangan asrama, repositori TUMBUH menyediakan protokol pemulihan darurat (*Emergency Rollback Protocol*) yang dikodifikasikan melalui model status transisi deterministik:
 
-PREVIOUS_TAG="v1.0.0-legacy-archive"
-CURRENT_RELEASE="v2.0.0-canonical-baseline"
+#### 9.2.1. Model Transisi Status Pemulihan Darurat (Rollback State Model)
+Operasi pemulihan darurat dirumuskan sebagai pembalikan pointer rilis ke baseline stabil terverifikasi sebelumnya ($T_{\text{prev}} = \text{v1.0.0-legacy-archive}$):
 
-echo "[PERINGATAN DARURAT] Menginisiasi protokol pemulihan darurat repositori..."
-git checkout main
-git reset --hard "$PREVIOUS_TAG"
-git push origin main --force-with-lease
-
-echo "[SUKSES] Baseline repositori telah dipulihkan ke '$PREVIOUS_TAG'."
-echo "Laporkan insiden ke Dewan Arsitektur Repositori untuk penyelidikan forensik."
+```mermaid
+stateDiagram-v2
+    [*] --> PromotedRelease: Fast-Forward Merge v2.0.0 ke main
+    PromotedRelease --> Monitoring72h: Pemantauan Kritis Lapangan 72 Jam
+    Monitoring72h --> StableCanonical: Nihil Anomali Hukum (Permanent Lock)
+    Monitoring72h --> RollbackTriggered: Ditemukan Anomali Hukum Fatal
+    RollbackTriggered --> HardReset: Reset Pointer main ke T_prev (v1.0.0)
+    HardReset --> ForcePushLease: Safe Force-Push with Lease
+    ForcePushLease --> ForensicInvestigation: Penyelidikan Forensik Dewan Arsitektur
+    ForensicInvestigation --> [*]: Baseline Dipulihkan & Log Insiden Diterbitkan
 ```
 
-Keberadaan rencana pemulihan darurat yang teruji ini memberikan garansi keselamatan mutlak bagi seluruh institusi mitra.
+Keberadaan rencana pemulihan darurat yang teruji ini memberikan garansi keselamatan mutlak bagi seluruh institusi mitra tanpa merusak integritas riwayat Git.
 
 ---
 
+### 9.3. Spesifikasi Rekayasa Sistem: Logika Algoritmik Verifikasi Pipeline CI/CD Menjelang Promosi
 
-### 9.3 Spesifikasi Algoritma Validasi Pipeline CI/CD Menjelang Promosi
+Sebelum eksekusi *fast-forward merge* diizinkan pada tingkat server Git, gerbang integrasi berkelanjutan (*continuous integration*) menjalankan serangkaian pengujian kepatuhan deterministik:
 
-Sebelum eksekusi *fast-forward merge* diizinkan pada tingkat server Git, skrip integrasi berkelanjutan (*continuous integration*) menjalankan serangkaian pengujian otomatis:
+#### 9.3.1. Predikat Invarian Gerbang Kelayakan Promosi (Promotion Readiness Invariant)
+Promosi branch `v2.0.0` ke `main` hanya sah apabila seluruh predikat logika berikut bernilai `TRUE`:
 
-```bash
-#!/bin/bash
-# ==============================================================================
-# TUMBUH v2.0.0 — Canonical Release Promotion Verifier
-# Memverifikasi kelulusan 100% berkas PROBE sebelum penggabungan ke main
-# ==============================================================================
+$$\text{PromotionReady} \iff (\text{Count}(P) = 120) \land (\text{BrokenLinks}(P) = 0) \land (\text{PaywallLinks}(P) = 0) \land (\text{AMI\_Score} \ge 4.5)$$
 
-set -e
-echo "Memulai verifikasi gerbang kematangan promosi Branch v2.0.0..."
+di mana $P$ adalah himpunan 120 berkas monograf kanonik `P00000` s/d `P00119`.
 
-# 1. Verifikasi Kelengkapan 120 Berkas PROBE
-PROBE_COUNT=$(find PROBE/ -maxdepth 2 -name "P*.md" | wc -l)
-echo "Jumlah berkas PROBE terdeteksi: $PROBE_COUNT / 120"
-if [ "$PROBE_COUNT" -lt 120 ]; then
-    echo "[FAIL] Kelengkapan berkas belum terpenuhi! Promosi dibatalkan."
-    exit 1
-fi
+#### 9.3.2. Matriks Parameter Pengujian Gerbang Kematangan Promosi
 
-# 2. Verifikasi Ketiadaan Broken Cross-References
-echo "Memeriksa keutuhan seluruh tautan file internal..."
-BROKEN_LINKS=$(grep -rohE 'file:///[^)]+' PROBE/ | while read link; do
-    clean_path=$(echo "$link" | sed -e 's|file:///c:/xampp/htdocs/tumbuh/||' -e 's|file:///||')
-    if [ ! -f "$clean_path" ]; then
-        echo "$clean_path"
-    fi
-done | wc -l)
-
-if [ "$BROKEN_LINKS" -ne 0 ]; then
-    echo "[FAIL] Ditemukan $BROKEN_LINKS pranala rusak di repositori! Perbaiki sebelum merge."
-    exit 1
-fi
-
-# 3. Verifikasi Ketiadaan Pranala Paywall Komersial
-PAYWALL_COUNT=$(grep -rn "doi\.org" PROBE/ | wc -l)
-if [ "$PAYWALL_COUNT" -ne 0 ]; then
-    echo "[FAIL] Ditemukan $PAYWALL_COUNT rujukan dengan pranala komersial doi.org!"
-    exit 1
-fi
-
-echo "[PASS] Seluruh verifikasi gerbang otomatis berhasil 100%!"
-echo "Branch v2.0.0 dinyatakan LAYAK untuk diajukan ke Sidang Ratifikasi Masyaikh."
-exit 0
-```
+| Parameter Audit | Kriteria Kepatuhan Mutlak (*Gate Rule*) | Dampak Kegagalan jika Tidak Lolos | Tindakan Mesin Integrasi CI |
+|---|---|---|:---:|
+| **Kelengkapan 120 Berkas** | Tepat 120 monograf berkas `P00000`–`P00119` terbit lengkap | Fondasi repositori bolong (*incomplete architectural canon*) | **PROMOTION ABORTED (Exit 1)** |
+| **Keutuhan Tautan Internal**| Nol pranala rusak (*zero broken cross-references*) | Silsilah keterlacakan terputus (*broken epistemic lineage*) | **PROMOTION ABORTED (Exit 1)** |
+| **Eliminasi Paywall** | Nol domain `doi.org` berbayar di seluruh naskah | Aksesibilitas tertutup, pembebanan biaya komersial | **PROMOTION ABORTED (Exit 1)** |
+| **Kematangan Kualitatif (AMI)**| Nilai Architecture Maturity Index Level 4/5 | Sistem belum stabil untuk diadopsi massal oleh pesantren | **PROMOTION ABORTED (Exit 1)** |
 
 Disiplin komputasional ini memberikan jaminan bahwa promosi kanonik branch `v2.0.0` ke `main` adalah hasil pembuktian rekayasa sistem yang sepenuhnya dapat diaudit (*fully auditable release verification*).
 
