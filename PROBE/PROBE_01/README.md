@@ -93,10 +93,10 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00048` — Rekonsiliasi Epistemik Dua Sayap: Metodologi Al-Jam'u wat-Taufiq Antara Syariat dan Sains](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00048-Rekonsiliasi-Epistemik-Dua-Sayap-Metodologi-Al-Jam-u-wat-Taufiq.md)
 - [`P00049` — Anatomi Studi Kasus Tata Kelola Kelembagaan: Membedah Antecedents, Setting Events, dan Relasi Kuasa](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00049-Anatomi-Studi-Kasus-Tata-Kelola-Kelembagaan-Membedah-Antecedents.md)
 - [`P00050` — Rekayasa Matriks Komparatif Multidimensi: Mengubah Data Abstrak Menjadi Tabel Analitis Operasional](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00050-Rekayasa-Matriks-Komparatif-Multidimensi-Mengubah-Data-Abstrak.md)
-- `P00051` — Format Kanonik Architectural Decision Record (ADR): Mengunci Keputusan Arsitektural dalam Berkas Penyelidikan *(Antrean Berikutnya)*
-- `P00052` — Formulasi 7 Butir Guardrails Repositori: Menetapkan Batas-Batas Negatif yang Haram Dilanggar Pengembang *(Antrean)*
-- `P00053` — Mitigasi Inquiry Drift: Penerapan 5 Drift Guardrails Sebelum Melangkah ke Berkas P Berikutnya *(Antrean)*
-- `P00054` — Kriteria Penghentian Penyelidikan (*Stopping Rules*): Mengetahui Kapan Suatu Ruang Kajian Dianggap Tuntas *(Antrean)*
+- [`P00051` — Format Kanonik Architectural Decision Record (ADR): Mengunci Keputusan Arsitektural dalam Berkas Penyelidikan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00051-Format-Kanonik-Architectural-Decision-Record-Mengunci-Keputusan-Arsitektural.md)
+- [`P00052` — Formulasi 7 Butir Guardrails Repositori: Menetapkan Batas-Batas Negatif yang Haram Dilanggar Pengembang](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00052-Formulasi-7-Butir-Guardrails-Repositori-Menetapkan-Batas-Negatif.md)
+- [`P00053` — Mitigasi Inquiry Drift: Penerapan 5 Drift Guardrails Sebelum Melangkah ke Berkas P Berikutnya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00053-Mitigasi-Inquiry-Drift-Penerapan-5-Drift-Guardrails.md)
+- [`P00054` — Kriteria Penghentian Penyelidikan (*Stopping Rules*): Mengetahui Kapan Suatu Ruang Kajian Dianggap Tuntas (Penutup Resmi Pilar 4)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00054-Kriteria-Penghentian-Penyelidikan-Stopping-Rules-Penutup-Pilar-4.md)
 
 
 
