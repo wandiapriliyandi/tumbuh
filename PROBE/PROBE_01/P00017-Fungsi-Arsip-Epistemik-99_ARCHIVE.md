@@ -340,7 +340,7 @@ archive_metadata:
 ### 9.2. Prosedur Pemindahan Berkas Melalui Git Provenance Move
 Dilarang keras memindahkan berkas usang dengan cara *copy-paste* biasa lalu menghapus berkas asli, karena tindakan tersebut akan memutus silsilah komitmen (*commit history*) di Git. Pemindahan wajib menggunakan perintah pelestarian sejarah:
 
-```bash
+```text
 # Prosedur Kanonik Pemindahan Berkas ke Cagar Arsip
 git mv 03_OPERATIONAL/SOP_LAMA_2019.md 99_ARCHIVE/03_RETIRED_SOP/SOP_LAMA_2019.md
 # Sisipkan Tombstone Banner di bagian paling atas berkas

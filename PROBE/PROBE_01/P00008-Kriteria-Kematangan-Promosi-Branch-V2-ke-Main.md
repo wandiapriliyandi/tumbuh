@@ -363,7 +363,7 @@ ALUR LIMA TAHAP PROTOKOL PROMOSI KANONIK REPOSITORI TUMBUH
    Tim Auditor Mutu Internal (AMI) menjalankan skrip verifikasi otomatis terhadap seluruh berkas. Hasil audit dirangkum dalam Berita Acara Audit Mutu Repositori (BA-AMR-v2.0.0) yang menyatakan status LULUS TANPA CATATAN pada ketujuh gerbang Matriks 1.
 2. **Tahap 2: Simulasi Penggabungan Bebas Konflik (*Dry-Run Merge Simulation*)**:  
    Release Engineer menguji penggabungan branch secara lokal di mesin terisolasi (*sandbox*):
-   ```bash
+   ```text
    git checkout main
    git merge --no-commit --no-ff v2.0.0
    # Verifikasi keutuhan berkas dan uji broken links
@@ -374,7 +374,7 @@ ALUR LIMA TAHAP PROTOKOL PROMOSI KANONIK REPOSITORI TUMBUH
    Laporan audit dibacakan di hadapan Sidang Pleno Majelis Masyaikh dan Dewan Pembina. Seluruh masyaikh membubuhkan tanda tangan fisik dan digital pada Piagam Pengesahan Kanonik TUMBUH v2.0.0.
 4. **Tahap 4: Eksekusi Penggabungan Kanonik Cepat (*Canonical Fast-Forward Merge*)**:  
    Penggabungan resmi dieksekusi menggunakan mode fast-forward murni:
-   ```bash
+   ```text
    git checkout main
    git merge --ff-only v2.0.0
    git push origin main
@@ -382,7 +382,7 @@ ALUR LIMA TAHAP PROTOKOL PROMOSI KANONIK REPOSITORI TUMBUH
    Perintah ini memajukan pointer branch `main` secara langsung ke commit terakhir branch `v2.0.0` tanpa menciptakan merge commit sampah, menjaga silsilah riwayat tetap linier dan bersih.
 5. **Tahap 5: Pembekuan dan Penandaan Tag Kriptografis Permanen (*GPG Release Freeze*)**:  
    Administrator membubuhkan Annotated Tag permanen:
-   ```bash
+   ```text
    git tag -s -a v2.0.0-canonical-baseline -m "Promosi Kanonik Branch v2.0.0 ke Main: Disahkan Majelis Masyaikh"
    git push origin v2.0.0-canonical-baseline
    ```
@@ -394,15 +394,14 @@ Sekiranya dalam 72 jam pasca-promosi rilis kanonik ditemukan anomali hukum fatal
 Operasi pemulihan darurat dirumuskan sebagai pembalikan pointer rilis ke baseline stabil terverifikasi sebelumnya ($T_{\text{prev}} = \text{v1.0.0-legacy-archive}$):
 
 ```mermaid
-stateDiagram-v2
-    [*] --> PromotedRelease: Fast-Forward Merge v2.0.0 ke main
-    PromotedRelease --> Monitoring72h: Pemantauan Kritis Lapangan 72 Jam
-    Monitoring72h --> StableCanonical: Nihil Anomali Hukum (Permanent Lock)
-    Monitoring72h --> RollbackTriggered: Ditemukan Anomali Hukum Fatal
-    RollbackTriggered --> HardReset: Reset Pointer main ke T_prev (v1.0.0)
-    HardReset --> ForcePushLease: Safe Force-Push with Lease
-    ForcePushLease --> ForensicInvestigation: Penyelidikan Forensik Dewan Arsitektur
-    ForensicInvestigation --> [*]: Baseline Dipulihkan & Log Insiden Diterbitkan
+flowchart TD
+    Start([Fast-Forward Merge v2.0.0 ke main]) --> Monitoring["Pemantauan Kritis Lapangan 72 Jam"]
+    Monitoring -- "Nihil Anomali Hukum" --> Stable["Permanent Lock: Rilis Kanonik Stabil"]
+    Monitoring -- "Ditemukan Anomali Hukum Fatal" --> Trigger["Rollback Triggered"]
+    Trigger --> Reset["Hard Reset Pointer main ke Baseline v1.0.0"]
+    Reset --> Push["Safe Force-Push with Lease ke Remote"]
+    Push --> Investigation["Penyelidikan Forensik Dewan Arsitektur"]
+    Investigation --> Log["Penerbitan Berita Acara Insiden & Audit Silsilah"]
 ```
 
 Keberadaan rencana pemulihan darurat yang teruji ini memberikan garansi keselamatan mutlak bagi seluruh institusi mitra tanpa merusak integritas riwayat Git.

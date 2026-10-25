@@ -392,7 +392,7 @@ ightarrow$ Patch).
    Penggabungan berkas ke dalam branch kanonik hanya diizinkan melalui mekanisme *Pull Request* yang telah dinyatakan lolos uji oleh seluruh skrip linter otomatis (*clean build*) dan disetujui minimal oleh dua orang anggota Dewan Arsitektur Repositori.
 5. **Tahap 5: Pembuatan Annotated Tag Kriptografis GPG (*GPG-Signed Release Tagging Gate*)**:  
    Setiap rilis resmi ke publik pesantren mitra wajib ditandai menggunakan perintah Git kanonik:
-   ```bash
+   ```text
    git tag -s -a v2.0.0-canonical-baseline -m "Release Kanonik Baseline TUMBUH v2.0.0: Disahkan Dewan Masyaikh"
    ```
    Tag ini mengunci seluruh pohon direktori Merkle DAG menjadi bukti otentik yang tidak dapat dipalsukan.

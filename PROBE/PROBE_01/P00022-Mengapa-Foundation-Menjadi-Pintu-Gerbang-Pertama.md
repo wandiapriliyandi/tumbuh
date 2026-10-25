@@ -412,15 +412,15 @@ Artinya, setiap modul hilir wajib memiliki sekurang-kurangnya satu simpul jangka
 
 ```mermaid
 flowchart TD
-    A[Modul Kurikulum / SOP Diajukan] --> B{Memiliki Frontmatter YAML?}
-    B -- Tidak --> C[REJECT: Malformed Document Header]
-    B -- Ya --> D{Memuat Atribut foundation_anchors?}
-    D -- Tidak --> E[REJECT: Unanchored Orphan Module]
-    D -- Ya --> F{Jangkar Terdaftar di 01_FOUNDATION?}
-    F -- Tidak --> G[REJECT: Invalid Conceptual Reference]
-    F -- Ya --> H{Bebas Klausul Punitif & Kekerasan Fisik?}
-    H -- Tidak --> I[REJECT: Corporal Punishment Contraband]
-    H -- Ya --> J[APPROVE: Lolos Audit Keselarasan Fondasi]
+    A["Modul Kurikulum / SOP Diajukan"] --> B{"Memiliki Frontmatter YAML?"}
+    B -- "Tidak" --> C["REJECT: Malformed Document Header"]
+    B -- "Ya" --> D{"Memuat Atribut foundation_anchors?"}
+    D -- "Tidak" --> E["REJECT: Unanchored Orphan Module"]
+    D -- "Ya" --> F{"Jangkar Terdaftar di 01_FOUNDATION?"}
+    F -- "Tidak" --> G["REJECT: Invalid Conceptual Reference"]
+    F -- "Ya" --> H{"Bebas Klausul Punitif & Kekerasan Fisik?"}
+    H -- "Tidak" --> I["REJECT: Corporal Punishment Contraband"]
+    H -- "Ya" --> J["APPROVE: Lolos Audit Keselarasan Fondasi"]
 ```
 
 #### 9.6.3. Matriks Kriteria Verifikasi Kebugaran Fondasi Repositori
