@@ -1,412 +1,602 @@
-# P00017 — Fungsi Arsip Epistemik 99_ARCHIVE: Mengelola Museum Dokumen Usang Tanpa Memutus Silsilah Sejarah
+# P00017: Fungsi Arsip Epistemik 99_ARCHIVE: Mengelola Museum Dokumen Usang Tanpa Memutus Silsilah Sejarah
 
 ---
 
-## 1. Executive Summary & Epistemic Status
+## 1. Metadata Kanonik & Taksonomi Repositori
 
-Dokumen penyelidikan arsitektural ini merumuskan fungsi ontologis, protokol tata kelola preservasi, dan mekanisme pembekuan status (*read-only state*) bagi direktori `99_ARCHIVE/` dalam repositori TUMBUH v2.0.0. Dalam evolusi sistem dokumentasi organisasi, terdapat dua kekeliruan ekstrem yang sering merusak integritas pengetahuan: di satu sisi adalah *hoarding chaos* (penumpukan dokumen kadaluwarsa, draf usang, dan catatan sampah yang dibiarkan bercampur aduk di folder kerja aktif sehingga membingungkan pengguna); di sisi lain adalah *amnesic purge* (penghapusan permanen atau *hard delete* terhadap dokumen masa lalu yang mengakibatkan organisasi kehilangan ingatan institusional, jejak silsilah keputusan, dan dasar historis perumusannya). Aturan dasar dalam `AGENTS.md` v2.0.0 secara eksplisit mengamanatkan: *"Jaga keterlacakan"* dan menetapkan `99_ARCHIVE/` sebagai tempat aman bagi artefak lama dan sejarah pengembangan.
-
-Penyelidikan kanonik ini menetapkan status `99_ARCHIVE/` sebagai **Museum Epistemik dan Cagar Sejarah Sistem (Epistemic Museum & Historical Provenance Registry)**. Melalui perpaduan antara metodologi ilmu ushul turats mengenai dokumentasi hukum yang telah dimansukh (*hikmat tadwin al-mansukh fi al-ushul*) dengan standar internasional kearsipan digital modern (*Open Archival Information System / OAIS ISO 14721*) serta pola rekayasa perangkat lunak *Tombstoning and Soft Deletion*, dokumen ini membedah bagaimana dokumen-dokumen v1 dan draf pensiun harus diperlakukan secara terhormat tanpa mengganggu kejelasan dokumen hidup (*living active documents*). Dokumen ini merumuskan protokol deprecation 5 tahap, skrip linter CI otomatis penangkal dependensi terbalik (*reverse dependency blocker*), serta panduan preservasi nilai sejarah bagi generasi penerus pesantren.
-
-Status kanonik dari dokumen ini ditetapkan sebagai berikut:
-- **Epistemic Status**: `CANONICAL INVESTIGATION & ARCHIVAL GOVERNANCE SPECIFICATION`
-- **Architectural Layer**: `PROBE / METAGOVERNANCE / REPOSITORY ARCHIVING`
-- **Target Subsystem**: `99_ARCHIVE/` cross-reference to ALL repository layers (`01` through `09`)
-- **Decision State**: `APPROVED & LOCKED (ARCHITECTURAL DECISION RECORD P00017-ADR)`
-- **Audience**: Kurator Repositori, Tim Penjamin Mutu Kelembagaan, Pengarsip Digital Pesantren, Sejarawan Lembaga, dan Tim Arsitek Sistem.
-
----
-
-## 2. Definisi Masalah & Akar Gejala Lapangan (The Pathology of Institutional Amnesia vs Bloat)
-
-Dalam tata kelola dokumentasi pesantren yang berkembang selama puluhan tahun, pergantian pimpinan madrasah atau tim pengasuhan asrama sering kali memicu kekacauan manajemen arsip. Muncul pertentangan antara kubu konservatif yang menolak memindahkan satu berkas pun dan kubu radikal yang ingin menghapus seluruh berkas lama demi "tampilan baru yang bersih".
-
-Gejala-gejala patologis ini termanifestasi dalam enam problem sistemik:
-
-1. **Amnesia Institusional Akibat Penghapusan Permanen (Hard Delete Amnesia)**:
-   Sebuah tim manajemen baru menghapus seluruh folder tata tertib dan instrumen kurikulum generasi sebelumnya dari sistem komputerisasi. Beberapa tahun kemudian, ketika muncul sengketa hukum dengan pihak luar atau saat akreditasi menanyakan latar belakang perubahan kebijakan adab santri, lembaga tidak lagi memiliki bukti otentik mengenai evolusi keputusannya (*loss of institutional memory*).
-
-2. **Polusi Dokumen Hantu di Folder Operasional (Ghost Document Pollution)**:
-   Berkas SOP tahun 2018 yang telah dicabut statusnya dibiarkan tersimpan sejajar dengan SOP tahun 2024 di folder yang sama. Musyrif baru yang mencari panduan piket asrama secara keliru membuka dan menerapkan SOP lama yang memuat sanksi fisik yang telah diharamkan oleh konstitusi sistem.
-
-3. **Kerusakan Tautan Riwayat Penyelidikan (Broken Provenance Trails)**:
-   Sebuah keputusan arsitektur kanonik di `01_FUNDAMENTAL/` merujuk pada perdebatan kritis di masa lalu. Namun, karena berkas draf perdebatan tersebut dihapus secara gegabah, tautan rujukan menjadi rusak (*broken hyperlinks*), sehingga pengembang baru tidak dapat memahami mengapa suatu keputusan diambil (*loss of architectural rationale*).
-
-4. **Zombie Document Resurrection**:
-   Dokumen lama yang sejatinya telah digantikan oleh standar baru dipromosikan kembali oleh pihak tertentu karena tidak adanya penandaan status yang jelas bahwa dokumen tersebut telah didepresiasi (*lack of deprecation tombstone*).
-
-5. **Pembebanan Kognitif Pengguna Baru (Cognitive Overload)**:
-   Staf baru yang bergabung merasa kewalahan saat menavigasi repositori karena harus memilah secara manual di antara ratusan file mana yang merupakan dokumen resmi yang berlaku dan mana yang merupakan catatan draf usang yang terlupakan[^1].
-
-6. **Ketakutan Membuang File Tanpa Struktur Cadangan (Archive Paralyzing Fear)**:
-   Manajemen enggan merapikan folder kerja aktif karena tidak ada tempat penampungan arsip yang terstruktur, aman, dan dapat dicari sewaktu-waktu.
-
-Direktori `99_ARCHIVE/` hadir sebagai solusi arsitektural elegan: ia menjadi museum yang mengabadikan setiap jengkal jejak langkah perjuangan masa lalu, seraya mengunci berkas-berkas tersebut dalam status mati (*dormant & immutable*) agar tidak mencemari operasional masa kini.
+- **ID Penyelidikan**: `P00017`
+- **Klasifikasi Taksonomi**: `METAGOVERNANCE / KNOWLEDGE PRESERVATION / ARCHIVAL GOVERNANCE & PROVENANCE TRACEABILITY`
+- **Repositori Target**: Ekosistem TUMBUH v2.0.0 (`c:\xampp\htdocs\tumbuh`)
+- **Penanggung Jawab Dokumen**: Kurator Kearsipan & Dewan Arsitektur Repositori TUMBUH
+- **Status Kanonik**: `CANONICAL INVESTIGATION & ARCHITECTURAL FOUNDATION (PROBE-CANONICAL-V2)`
+- **Keterlacakan Silsilah (Lineage Traceability)**: Menjawab kesinambungan dari [`P00016 - Peran Lapisan 09_RESEARCH`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md) dan menjadi landasan dialektis bagi [`P00018 - Posisi Pustaka REFERENCES`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md).
+- **Relasi Lintas Lapisan**:
+  - `99_ARCHIVE/`: Direktori target utama yang diatur status ontologis, tata kelola pembekuan (*read-only state*), dan penandaan nisan digitalnya (*tombstone*).
+  - `01_FUNDAMENTAL/` s/d `03_OPERATIONAL/`: Lapisan-lapisan aktif yang memindahkan berkas usang (*deprecated*) ke dalam arsip.
+  - `PROBE/`: Wahana penyelidikan yang menelusuri silsilah pemikiran masa lalu untuk merefleksikan dinamika evolusi sistem.
+  - `METHODOLOGY/`: Pedoman protokol pengarsipan digital, metadata provenance, dan audit retensi dokumen.
+- **TUMBUH Question**:
+  > *"Bagaimana memindahkan dan mengelola dokumen, SOP, instrumen, atau draf filosofi lama yang sudah tidak lagi berlaku agar tidak mengotori direktori kerja aktif, namun tetap terpelihara silsilah sejarah intelektualnya (*provenance*) dan tidak membingungkan pengguna sistem di lingkungan pesantren?"*
 
 ---
 
-## 3. Fondasi Epistemologi Turats & Hermeneutika Syar'i
+## 2. Abstrak & Pernyataan Masalah Epistemik (Abstract & Epistemic Tension)
 
-Urgensi memelihara teks yang telah dibatalkan atau digantikan telah dicontohkan secara luar biasa dalam tradisi ulama Islam melalui disiplin *'Ilm an-Nasikh wa al-Mansukh* dan kodifikasi sanad hadits. Dalam Al-Qur'an dan Sunnah, ketika suatu hukum dimansukh (dihapuskan atau digantikan oleh hukum yang lebih maslahat), ayat atau riwayat hadits tersebut **sama sekali tidak dihapus dari mushaf atau kitab induk hadits**[^2].
+### 2.1. Abstrak
+Penyelidikan kanonik ini merumuskan status ontologis, tata kelola preservasi kearsipan, dan protokol pembekuan permanen (*immutable read-only governance*) bagi direktori `99_ARCHIVE/` dalam ekosistem repositori TUMBUH v2.0.0. Dalam manajemen repositori pengetahuan jangka panjang, terdapat dua kutub kegagalan ekstrem: di satu sisi adalah *hoarding chaos* (penumpukan dokumen kadaluwarsa, catatan rapat usang, dan instrumen pensiun yang dibiarkan bercampur aduk di direktori operasional aktif sehingga menimbulkan kebingungan bagi musyrif dan praktisi baru); di sisi lain adalah *amnesic purge* (penghapusan permanen atau *hard delete* terhadap berkas sejarah yang mengakibatkan lembaga kehilangan ingatan kelembagaan, dasar penalaran arsitektural masa lalu, dan bukti otentik silsilah keilmuan). Prinsip konstitusional dalam `AGENTS.md` v2.0.0 menegaskan kewajiban: *"Jaga keterlacakan"* dan menetapkan fungsi `99_ARCHIVE/` sebagai cagar artefak lama dan sejarah pengembangan. Monograf riset desain sistem ini merekonstruksi status `99_ARCHIVE/` sebagai **Museum Epistemik dan Cagar Silsilah Sejarah Sistem (Epistemic Museum & Provenance Registry)**. Melalui sintesis komprehensif antara khazanah ushul fiqih klasik mengenai hikmah pencatatan ayat dan hadits yang telah dimansukh (*hikmat tadwin an-nasikh wal-mansukh*) menurut Imam as-Suyuthi dan Fakhruddin ar-Razi, dengan standar kearsipan internasional (*Open Archival Information System / OAIS ISO 14721*) serta pola rekayasa perangkat lunak *Tombstoning and Soft Deletion*, dokumen ini merumuskan alur kerja pensiun dokumen lima tahap, spesifikasi metadata nisan digital, skrip linter CI/CD anti-dependensi terbalik (*reverse dependency blocker*), dan *Architectural Decision Record* (ADR-PROBE-0017). Penyelidikan ini menyimpulkan bahwa direktori `99_ARCHIVE/` berkedudukan sebagai saksi sejarah yang beku (*read-only historical witness*), yang haram dihidupkan kembali secara diam-diam tanpa proses ratifikasi ulang formal.
 
-Imam Abu Ja'far an-Nahhas (w. 338 H) dalam kitab monumentalnya *an-Nasikh wa al-Mansukh fi al-Qur'an al-Karim* (hlm. 12–15) menjelaskan hikmah agung mengapa teks yang hukumnya telah digantikan tetap wajib diabadikan dan dibaca:
+### 2.2. Pernyataan Masalah Epistemik (Epistemic Tension)
+Ketegangan epistemik inti dalam tata kelola arsip berkisar pada paradoks keberadaan teks usang: bagaimana sebuah sistem menjaga kebersihan direktori operasional hari ini tanpa memutus tali silaturahmi intelektual dengan masa lalu? Jika dokumen-dokumen v1 dan draf eksperimen lama dibiarkan berserak di folder `01_` hingga `03_`, maka terjadi fenomena polusi dokumen hantu (*ghost document pollution*): musyrif baru tidak dapat membedakan mana SOP yang masih berlaku sah dan mana SOP yang telah dicabut karena mengandung kekerasan fisik. Sebaliknya, jika tim pengembang melakukan pembersihan agresif dengan menghapus total (*hard delete via git rm*) berkas-berkas lama tersebut, repositori mengalami amnesia institusional (*institutional amnesia*). Generasi pengurus lima tahun mendatang tidak akan pernah tahu mengapa suatu sanksi dilarang, mengapa suatu jam tidur diubah, dan apa kegagalan masa lalu yang pernah menimpa pesantren. Mereka ditakdirkan untuk mengulangi kesalahan yang sama (*reinventing the broken wheel*). Oleh karena itu, diperlukan arsitektur pengarsipan epistemik yang membekukan masa lalu secara bermartabat tanpa mengorbankan kejernihan operasional masa kini.
+
+---
+
+## 3. Pendahuluan: Fenomenologi Lapangan & Patologi Amnesia Kelembagaan vs Penumpukan Dokumen Sampah
+
+### 3.1. Fenomenologi Pergantian Pengurus dan Tragedi Dokumen Hantu di Pesantren
+Dalam sosiologi organisasi pesantren di Indonesia, pergantian kepengurusan asrama atau direktur madrasah sering kali diiringi oleh dua drama kearsipan yang tragis. Pada skenario pertama, pimpinan baru yang bersemangat melakukan pembersihan total: lemari arsip lama dibakar atau file komputer pengurus lama diformat ulang dengan dalih "memulai dari lembaran putih yang bersih". Akibatnya, sejarah pembinaan santri selama dua dekade musnah seketika. Ketika dua tahun kemudian terjadi kasus sengketa tanah wakaf, tuntutan wali santri atas ijazah lama, atau penyelidikan atas kasus perundungan masa lalu, pimpinan baru gelagapan karena tidak memiliki dokumen rekam jejak.
+
+Pada skenario kedua yang berlawanan, pengurus baru tidak berani menyentuh apa pun karena takut kualat pada pengurus lama. Dokumen tata tertib dari tahun 1995, 2005, 2015, dan 2023 dibiarkan menumpuk di atas meja kantor pengasuhan. Musyrif muda yang baru bertugas membuka dokumen secara acak: musyrif A menerapkan tata tertib tahun 2005 yang membolehkan santri disiram air dingin saat terlambat shalat, sementara musyrif B menerapkan SOP tahun 2023 yang melarang kontak fisik. Ketidakpastian hukum ini memicu benturan fisik antarpengurus dan menimbulkan kebingungan massal di kalangan santri.
+
+### 3.2. Enam Patologi Tata Kelola Dokumen Usang di Pesantren
+Berdasarkan investigasi audit kearsipan pada berbagai institusi pendidikan Islam, teridentifikasi enam patologi utama dalam pengelolaan arsip:
+
+1. **Amnesia Kelembagaan Akibat Penghapusan Permanen (Hard Delete Amnesia)**:
+   Pemusnahan berkas historis yang menghilangkan konteks rasionalitas perumusan sistem, sehingga pengurus baru tidak memiliki dasar argumentasi historis ketika menghadapi audit akreditasi atau kritik dari para pemangku kepentingan.
+
+2. **Polusi Dokumen Hantu di Folder Kerja (Ghost Document Pollution)**:
+   Keberadaan file-file kadaluwarsa yang masih berkeliaran di direktori kerja aktif, memicu eksekusi prosedur usang yang bertentangan dengan kebijakan resmi lembaga.
+
+3. **Kerusakan Rantai Keterlacakan (Broken Provenance Trails)**:
+   Sebuah dokumen fundamental merujuk pada hasil penyelidikan masa lalu. Karena berkas yang dirujuk dihapus dari repositori, tautan hiperteks menjadi rusak (*404 file not found*), melumpuhkan validasi silsilah ilmiah.
+
+4. **Kebangkitan Dokumen Zombie (Zombie Document Resurrection)**:
+   Sebuah draf tata tertib yang sebenarnya telah ditolak dalam sidang pleno lima tahun lalu tiba-tiba ditemukan kembali oleh seorang pengurus baru, lalu langsung difotokopi dan diterapkan di asrama karena ketiadaan metadata penanda bahwa berkas tersebut telah berstatus ditolak (*rejected*).
+
+5. **Ketiadaan Kontekstualisasi Sejarah (Decontextualized Historical Relics)**:
+   Arsip masa lalu disimpan tanpa catatan pengantar (*tombstone annotation*), sehingga generasi berikutnya menafsirkan aturan keras para perintis zaman perang secara keliru sebagai aturan abadi yang wajib diterapkan di zaman damai.
+
+6. **Kerapuhan Format Digital Jangka Panjang (Digital Obsolescence & Format Rot)**:
+   Penyimpanan arsip dalam format kepemilikan tertutup (*proprietary binaries* seperti docx atau skema database lama) yang tidak dapat dibaca kembali sepuluh tahun kemudian karena perangkat lunak pembukanya sudah punah.
+
+### 3.3. Urgensi Lapisan 99_ARCHIVE dalam Arsitektur TUMBUH v2.0.0
+Repositori TUMBUH v2.0.0 menetapkan direktori `99_ARCHIVE/` sebagai instrumen preservasi epistemik yang menghentikan kedua patologi di atas secara definitif:
+- **Prinsip Soft Delete**: Dokumen yang pensiun tidak pernah dihapus permanen (*never hard-deleted*); berkas tersebut dipindahkan (*moved via git mv*) ke `99_ARCHIVE/`.
+- **Status Beku (Immutable Read-Only)**: Berkas di dalam arsip terkunci secara kriptografis; dilarang keras diedit atau ditambahi logika baru.
+- **Wajib Nisan Digital (Mandatory Tombstoning)**: Setiap berkas arsip wajib disemati blok metadata nisan di awal naskah yang mencatat tanggal pencabutan, alasan pembatalan, nomor berkas pengganti yang sah, dan riwayat silsilah keputusan.
+
+### 3.4. Studi Kasus Sengketa Yuridis Akibat Penghapusan Catatan Wakaf dan Ijazah Santri
+Dalam realitas hukum pesantren di Indonesia, hilangnya arsip lama sering kali berujung pada malapetaka kelembagaan yang fatal di pengadilan. Sebagai contoh, sebuah pesantren tua digugat oleh ahli waris wakif yang mengklaim bahwa tanah asrama santri seluas 5 hektar bukanlah tanah wakaf, melainkan tanah pinjaman. Pengurus pesantren saat itu tidak mampu menunjukkan surat ikrar wakaf asli atau notula rapat pendirian tahun 1975 karena dokumen-dokumen tersebut dianggap sebagai 'kertas usang yang memenuhi gudang' lalu dibakar pada masa renovasi gedung kantor sepuluh tahun sebelumnya. Akibat pemusnahan arsip tersebut, pesantren kalah dalam persidangan tingkat kasasi dan ratusan santri terancam digusur dari bilik asrama mereka.
+
+Tragedi serupa terjadi dalam ranah akademik: puluhan alumni pesantren yang melanjutkan studi ke universitas internasional di Timur Tengah dan Eropa tertahan legalisasi ijazahnya karena buku induk kelulusan santri tahun 1990-an musnah akibat banjir dan tidak memiliki salinan digital yang terstandarisasi. Ketiadaan cagar arsip yang andal bukan sekadar masalah kearsipan teknis, melainkan bentuk pengabaian terhadap hak-hak perdata santri dan kelangsungan hidup institusi dakwah.
+
+## 4. Tinjauan Pustaka I: Khazanah Turats Klasik dalam Hikmah Pencatatan Nasikh-Mansukh dan Pemeliharaan Sanad Kearsipan
+
+### 4.1. Disiplin 'Ilm an-Nasikh wal-Mansukh: Mengapa Teks yang Dibatalkan Tetap Wajib Dicatat?
+Dalam epistemologi ilmu-ilmu keislaman, salah satu bukti paling agung tentang pentingnya preservasi arsip teks yang sudah tidak berlaku hukumnya adalah tradisi pembukuan ayat-ayat dan hadits-hadits *Mansukh* (yang telah dihapus ketetapan hukumnya). Allah Ta'ala berfirman dalam surat al-Baqarah ayat 106:
+```text
+مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
+```
+> *"Ayat mana saja yang Kami nasakhkan, atau Kami jadikan (manusia) lupa kepadanya, Kami datangkan yang lebih baik daripadanya atau yang sebanding dengannya. Tidakkah kamu mengetahui bahwa sesungguhnya Allah Maha Kuasa atas segala sesuatu?"*
+
+Para ulama tafsir dan ushul fiqih mencatat bahwa meskipun hukum suatu ayat telah dimansukh oleh ayat yang turun kemudian, lafazh ayat tersebut **TETAP WAJIB TERTERA DI DALAM MUSHAF AL-QUR'AN** dan dibaca dalam shalat sebagai ibadah tilawah. Mengapa ayat yang hukumnya sudah tidak berlaku tidak dihapus saja dari lembaran mushaf?
+
+Imam Jalaluddin as-Suyuthi (w. 911 H) dalam kitab monumentalnya *al-Itqan fi 'Ulum al-Qur'an* (Kairo: Dar al-Hadits, 2006, Juz 2, hal. 73–78) menguraikan hikmah agung di balik pelestarian teks yang dimansukh:
+> "Jika ada yang bertanya: Mengapa teks yang hukumnya telah dicabut tetap diabadikan dalam tulisan mushaf? Jawabannya terdiri atas beberapa hikmah agung:
+> 1. Al-Qur'an dibaca bukan semata-mata untuk mengetahui hukum amaliyah, melainkan sebagai kalamullah yang mendatangkan pahala dalam membacanya (*li-kullun harfin 'asyru hasanat*).
+> 2. Untuk menampakkan rahmat dan kelembutan Allah Ta'ala kepada para hamba-Nya melalui tahapan pensyariatan (*tadarruj fi at-tasyri'*), dari hukum yang berat menuju yang lebih ringan, atau sebaliknya.
+> 3. Menjadi saksi sejarah peradaban dan tarbiyah Ilahiyyah atas jiwa para sahabat, sehingga generasi setelahnya dapat memahami konteks perjuangan dan proses kematangan umat (*tarikh at-tasyri'*)."
+
+Hikmah ushuliyyah yang dirumuskan Imam as-Suyuthi ini menjadi fondasi teologis perancangan direktori `99_ARCHIVE/`. Berkas-berkas v1 atau SOP lama yang telah digantikan oleh TUMBUH v2.0.0 tidak boleh dimusnahkan. Dokumen lama tersebut adalah *al-Mansukh*: ia menjadi saksi sejarah atas proses pendewasaan ekosistem pesantren (*tadarruj at-tarbiyah*), menjadi pengingat atas kekeliruan masa lalu, dan menjadi bahan renungan hikmah bagi generasi penerus.
+
+### 4.2. Tradisi Tadwin al-Hadits: Perlakuan Terhadap Sanad yang Tertolak dan Hadits Maudhu'
+Dalam ilmu mushthalah al-hadits, para ulama ahli hadits seperti Imam Yahya bin Ma'in, Ali bin al-Madini, dan Ibnu Abi Hatim ar-Razi tidak hanya menulis kitab-kitab tentang hadits-hadits sahih, melainkan juga menyusun ensiklopedia raksasa mengenai hadits-hadits dha'if, maudhu' (palsu), dan matruk (ditinggalkan), seperti kitab *al-Majruhin* karya Ibnu Hibban dan *al-Kamil fi Dhu'afa' ar-Rijal* karya Ibnu 'Adi.
+
+Imam Fakhruddin ar-Razi (w. 606 H) dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Riyadh: Jami'at al-Imam, 1979, Jilid 4, hal. 412) menjelaskan rahasia mengapa riwayat palsu tetap dicatat dan dipreservasi:
+```text
+تَدْوِينُ الرِّوَايَاتِ السَّاقِطَةِ لَيْسَ لِلْعَمَلِ بِهَا، بَلْ لِصِيَانَةِ الشَّرِيعَةِ مِنْ أَنْ يَلْتَبِسَ فِيهَا السَّقِيمُ بِالصَّحِيحِ، وَلِتَعْرِيفِ مَوَاضِعِ الزَّلَلِ حَتَّى لَا يَقَعَ فِيهَا الْخَلَفُ كَمَا وَقَعَ فِيهَا السَّلَفُ.
+```
+> "Pembukuan riwayat-riwayat yang gugur bukanlah untuk diamalkan hukumnya, melainkan demi menjaga kesucian syariat agar yang cacat tidak bercampur aduk dengan yang sahih, serta untuk mengidentifikasi letak-letak kekeliruan agar generasi belakang tidak terperosok ke dalam lubang yang sama sebagaimana generasi terdahulu."
+
+Kaidah ar-Razi ini secara presisi mendasari kewajiban penandaan nisan digital (*tombstoning*) di Lapisan 99: kita mencatat draf kebijakan yang gagal bukan untuk dipraktikkan kembali, melainkan sebagai tanda bahaya agar musyrif di masa depan tidak mengulangi malapraktik kedisiplinan yang sama.
+
+### 4.3. Konsep Hifzh al-Lisan 'an az-Zallat: Integritas Sanad Kelembagaan
+Ibnu Khaldun (w. 808 H) dalam *Muqaddimah*-nya (Beirut: Dar al-Fikr, 2001, hal. 287–292) menegaskan bahwa kontinuitas sebuah peradaban sangat bergantung pada kejujuran pemeliharaan catatan masa lalunya (*taqwim al-akhbar*). Bangsa atau lembaga yang memanipulasi arsip masa lalunya demi menutupi rasa malu adalah organisasi yang rapuh dan mudah runtuh dari dalam. Repositori TUMBUH memandang arsip sebagai amanah kejujuran ilmiah (*ash-shidq al-'ilmi*). Kesalahan desain v1 tidak boleh disembunyikan; kesalahan tersebut harus dipamerkan di dalam museum kearsipan `99_ARCHIVE/` sebagai pelajaran pedagogis yang berharga.
+
+---
+
+### 4.4. Pembelaan Terhadap Tradisi Kearsipan Sejarah Menurut As-Sakhawi
+Imam Syamsuddin as-Sakhawi (w. 902 H) dalam kitab monumentalnya *al-I'lan bit-Taubikh liman Dzamma at-Tarikh* (Damaskus: Matba'ah at-Taraqqi, 1930, hal. 42-49) menyusun pembelaan epistemologis yang kokoh mengenai urgensi pencatatan dan preservasi dokumen sejarah. As-Sakhawi membantah keras anggapan orang-orang yang meremehkan catatan masa lalu sebagai "tumpukan kertas usang yang tidak berguna bagi orang hidup". Beliau menegaskan:
+```text
+إِنَّ التَّارِيخَ فَنٌّ عَزِيزُ الْمَنْبَعِ، شَرِيفُ الْمَقْصِدِ، بِهِ تُعْرَفُ أَحْوَالُ الْمَاضِينَ مِنْ أَهْلِ الْحَقِّ وَالْبَاطِلِ، وَتُتَمَيَّزُ مَرَاتِبُ الْعُلَمَاءِ وَتَقَلُّبَاتُ الْأَحْكَامِ. وَلَوْلَا حِفْظُ آثَارِ مَنْ غَبَرَ، لَانْطَمَسَتْ مَعَالِمُ السُّنَنِ، وَلَادَّعَى كُلُّ مُبْطِلٍ مَا شَاءَ، وَلَتَاهَتِ الْأُمَّةُ فِي مَهَامِهِ الْجَهَالَةِ.
+```
+> "Sesungguhnya ilmu sejarah dan kearsipan adalah disiplin ilmu yang sangat mulia sumbernya dan agung tujuannya. Dengannya diketahui kondisi orang-orang terdahulu, baik pembela kebenaran maupun pengusung kebatilan; dengannya dibedakan tingkatan para ulama serta pergolakan hukum dari masa ke masa. Kalaulah bukan karena pemeliharaan peninggalan masa lalu, niscaya akan terhapus rambu-rambu sunnah, setiap pembual akan mengklaim apa saja yang ia kehendaki secara dusta, dan umat akan tersesat di padang kebodohan yang kelam."
+
+Kutipan agung as-Sakhawi ini menyinari hakikat direktori `99_ARCHIVE/`: arsip bukan sekadar gudang penampungan kertas mati, melainkan saksi keadilan (*syahid al-'adl*) yang membendung distorsi dan klaim sepihak para pengurus baru. Ketika sebuah tata tertib lama pernah dicabut karena terbukti menimbulkan trauma pada santri, arsip di Lapisan 99 menjadi bukti sejarah yang mencegah para pengurus generasi berikutnya mengklaim bahwa "pesantren ini sejak dahulu selalu keras dan menerapkan hukuman cambuk". Arsip adalah benteng pertahanan kebenaran faktual.
+
+## 5. Tinjauan Pustaka II: Standar OAIS ISO 14721, Pola Tombstoning, Immutability, & Institutional Memory
+
+### 5.1. Standar Kearsipan Digital Terbuka: OAIS ISO 14721
+Dalam ilmu informasi dan kearsipan digital modern, standar emas internasional untuk preservasi jangka panjang ditetapkan oleh ISO 14721:2012 (*Open Archival Information System - OAIS Reference Model*). Standar OAIS menetapkan bahwa sebuah sistem pengarsipan yang andal harus memiliki tiga paket informasi utama:
+
+1. **Submission Information Package (SIP)**:
+   Paket dokumen yang diserahkan oleh pembuat berkas ke dalam repositori saat dokumen tersebut dipensiunkan.
+2. **Archival Information Package (AIP)**:
+   Paket dokumen yang disimpan secara permanen di dalam ruang arsip, yang mencakup data asli (*content information*) ditambah metadata preservasi (*preservation description information* - PDI) yang menjelaskan silsilah (*provenance*), keaslian (*authenticity*), konteks keterkaitan (*context*), dan integritas bit (*fixity*).
+3. **Dissemination Information Package (DIP)**:
+   Paket dokumen yang disajikan kepada pengguna ketika mereka mencari informasi masa lalu untuk keperluan audit historis.
+
+Dalam direktori `99_ARCHIVE/`, setiap berkas yang dipindahkan bertransformasi menjadi AIP: berkas tersebut tidak berdiri telanjang sebagai file markdown usang, melainkan dibungkus dengan metadata PDI yang menjelaskan secara lengkap: siapa yang menulisnya, kapan berkas itu berlaku, mengapa berkas itu dicabut, siapa yang menyetujui pencabutannya, dan apa dokumen hidup yang menggantikannya.
+
+### 5.2. Pola Rekayasa Perangkat Lunak: Tombstoning dan Soft Deletion
+Dalam arsitektur basis data terdistribusi dan sistem kontrol versi (*distributed version control*), penghapusan permanen (*hard delete*) dianggap sebagai anti-pola (*anti-pattern*) yang berbahaya karena dapat merusak integritas referensial (*referential integrity violation*) dan memicu *dangling pointers*. Solusi rekayasa yang terbukti adalah pola **Tombstone** (Nisan Penanda) dan **Soft Deletion** (Fowler, 2013; Kleppmann, 2017):
+
+- **Soft Delete**: Sebuah entitas tidak dihapus dari tabel, melainkan ditandai dengan flag status `is_deprecated = TRUE` dan kolom `deprecated_at = TIMESTAMP`.
+- **Tombstone Record**: Sebuah penanda nisan yang ditinggalkan di lokasi asli atau diindeks di direktori arsip yang secara tegas menyatakan: *"Entitas ini pernah ada di sini, tetapi sekarang telah dipensiunkan; rujukan aktif telah dipindahkan ke Entitas X"*.
+
+Ketika seorang kontributor atau peneliti baru menelusuri pranala lama di repositori TUMBUH, mereka tidak disambut oleh tautan rusak yang mati, melainkan diantar menuju berkas nisan di `99_ARCHIVE/` yang memberikan penjelasan transparan mengenai sejarah evolusi dokumen tersebut.
+
+### 5.3. Teori Memori Kelembagaan (Institutional Memory) dan Ambidexterity
+Para pakar manajemen pengetahuan (Stein & Zwass, 1995; Walsh & Ungson, 1991) mendefinisikan memori kelembagaan (*organizational memory*) sebagai akumulasi informasi historis yang disimpan oleh suatu institusi yang dapat dipanggil kembali untuk memandu pengambilan keputusan saat ini. Walsh dan Ungson membagi memori organisasi ke dalam lima tempat penyimpanan (*retention bins*): individu, budaya, transformasi proses, struktur, dan arsip eksternal.
+
+Ketika arsip eksternal diabaikan, biaya pembelajaran organisasi melonjak drastis. Lembaga harus membayar mahal untuk mempelajari kembali pelajaran yang sebenarnya sudah pernah dipelajari oleh para perintis sepuluh tahun sebelumnya. Keberadaan direktori `99_ARCHIVE/` adalah benteng pertahanan memori kelembagaan pesantren, memastikan bahwa kearifan sejarah terwariskan lintas generasi kepengurusan tanpa terdistorsi.
+
+---
+
+### 5.4. Arsitektur Event Sourcing, Immutable Append-Only Ledger, dan Auditabilitas Sistem Kritis
+Dalam rekayasa sistem terdistribusi modern skala misi kritis (*mission-critical financial and aerospace systems*), pola arsitektur *Event Sourcing* (Young, 2010; Betts et al., 2013) menetapkan bahwa status sistem saat ini (*current state*) tidak pernah disimpan secara terisolasi tanpa riwayat perubahannya. Sebaliknya, sistem memelihara seluruh rentetan peristiwa masa lalu (*event log*) dalam buku besar yang bersifat *append-only* dan *immutable* (tidak dapat diubah maupun dihapus). Setiap kali terjadi perubahan data, peristiwa baru ditambahkan ke akhir log tanpa pernah menimpa (*overwrite*) data masa lalu.
+
+Penerapan pola *Event Sourcing* ke dalam tata kelola repositori TUMBUH melahirkan jaminan auditabilitas mutlak:
+1. **Status Saat Ini (*Living State*)**: Direpresentasikan oleh file-file di direktori `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`. Ini adalah proyeksi hasil akhir dari seluruh keputusan yang sah hari ini.
+2. **Riwayat Transformasi (*Event Log*)**: Direpresentasikan oleh komitmen Git yang tidak terputus dan artefak nisan di `99_ARCHIVE/`. Setiap berkas di dalam arsip mencerminkan satu peristiwa penting dalam sejarah hidup pesantren.
+3. **Kapasitas Pemulihan dan Audit (*Replayability & Forensics*)**: Jika di masa depan sistem mengalami kegagalan arah filosofis atau terjadi krisis identitas kelembagaan, para pimpinan dan sejarawan pesantren dapat "memutar ulang" (*replay*) seluruh rangkaian keputusan sejak tahun pertama pendirian, menelusuri di titik mana deviasi mulai terjadi, dan memulihkan kembali ruh asli perjuangan para muassis (pendiri).
+
+## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (Al-Jam'u wat-Taufiq)
+
+### 6.1. Tesis Ikonoklasme: Hapus Total Masa Lalu demi Kejernihan Repositori
+Kubu reformis radikal berargumen bahwa mempertahankan dokumen-dokumen v1 yang cacat atau SOP lama yang usang hanya akan membuang-buang kapasitas penyimpanan, mengotori hasil pencarian teks (*cluttered search index*), dan menciptakan risiko hukum jika dokumen lama tersebut dibaca oleh pihak luar. Menurut pandangan ini, repositori harus menerapkan pembersihan agresif: setiap berkas yang sudah tidak berlaku harus dihapus secara permanen via perintah `git rm` tanpa meninggalkan jejak. Bagi mereka, repositori yang unggul adalah repositori yang hanya memuat apa yang sedang berlaku hari ini (*the perpetual present*).
+
+### 6.2. Antitesis Hoarding Kaku: Pertahankan Seluruh Berkas di Lokasi Asalnya
+Sebaliknya, kubu arsiparis pasif atau pengurus konservatif menolak memindahkan satu berkas pun dari direktori kerjanya. Mereka berpendapat bahwa setiap dokumen memiliki nilai sentimental dan menghormati jasa penulisnya. Akibatnya, dokumen draf tahun 2018 dibiarkan berdampingan dengan SOP tahun 2025 di folder operasional yang sama. Mereka beralasan bahwa "orang yang bijak pasti tahu mana berkas yang lama dan mana yang baru".
+
+### 6.3. Sintesis Epistemik TUMBUH: Dialektika Al-Jam'u wat-Taufiq
+Ekosistem TUMBUH v2.0.0 menolak kedua pendekatan keliru tersebut dan menerapkan arsitektur rekonsiliasi yang elegan (*al-jam'u wat-taufiq*):
 
 ```text
-وَأَمَّا مَا نُسِخَ حُكْمُهُ وَبَقِيَ رَسْمُهُ وَتِلَاوَتُهُ، فَإِنَّ فِي بَقَائِهِ حِكَمًا بَالِغَةً؛ مِنْهَا: مَعْرِفَةُ تَدَرُّجِ التَّشْرِيعِ، وَكَيْفَ نَقَلَ اللَّهُ عِبَادَهُ مِنَ الشِّدَّةِ إِلَى الرَّحْمَةِ أَوْ مِنَ الْأَخَفِّ إِلَى الْأَكْمَلِ، وَمِنْهَا: الِاعْتِبَارُ بِسُنَنِ التَّرْبِيَةِ، وَلَوْ سَقَطَ الرَّسْمُ لَانْقَطَعَتِ السِّلْسِلَةُ وَجَهِلَ النَّاسُ مَبْدَأَ أَمْرِهِمْ
+         [TESIS: IKONOKLASME]
+     (Hapus Total / Hard Delete)
+                                                                  --> [SINTESIS KANONIK TUMBUH]
+                      /    (99_ARCHIVE sebagai Cagar Sejarah,
+                     /      Dipindahkan via Soft Delete & Git Move,
+         [ANTITESIS: HOARDING]      Disemati Metadata Nisan Digital / Tombstone,
+   (Membiarkan Berkas Lama di Folder Aktif)  Folder Aktif Bersih, Sejarah Terjaga Penuh)
 ```
 
-> *"Adapun teks syariat yang hukum praktisnya telah dimansukh namun lafazh dan bacaannya tetap diabadikan dalam mushaf, sesungguhnya dalam pengekalan teks tersebut terdapat hikmah-hikmah yang sangat agung. Di antaranya: untuk mengetahui tahapan bertahap pensyariatan (tadarruj at-tasyri'), bagaimana Allah memindahkan para hamba-Nya dari situasi yang berat menuju rahmat atau dari perkara yang ringan menuju kesempurnaan. Di antaranya pula: untuk mengambil pelajaran mendalam mengenai hukum-hukum tarbiyah peradaban. Andaikan teks lama tersebut digugurkan atau dihapus lenyap, niscaya terputuslah mata rantai sejarah silsilah keilmuan dan manusia akan menjadi bodoh tentang bagaimana awal mula sistem mereka dibangun."* (An-Nahhas, *an-Nasikh wa al-Mansukh*, Tahqiq Dr. Sulaiman al-Lahiq, Mu'assasah ar-Risalah, Beirut, 1991).
+1. **Kejernihan Folder Aktif (*Nazhafah al-Bi'ah al-'Amaliyyah*)**:
+   Seluruh direktori aktif (`01_` hingga `09_`) dibersihkan dari dokumen kadaluwarsa. Praktisi lapangan yang membuka folder `03_OPERATIONAL/` dijamin 100% hanya akan menemukan instrumen dan SOP yang masih berlaku secara sah hari ini. Tidak ada lagi kebingungan dokumen hantu.
 
-Imam Jalaluddin as-Suyuthi dalam *al-Itqan fi 'Ulum al-Qur'an* (Jilid 2, hlm. 705) mempertegas bahwa memahami dokumen pembatal (*an-nasikh*) adalah mustahil tanpa merawat dan mempelajari dokumen yang dibatalkan (*al-mansukh*):[^3]
+2. **Preservasi Sejarah Abadi (*Khulud at-Turats al-Mu'assasi*)**:
+   Tidak ada satu pun dokumen berharga yang dimusnahkan. Seluruh artefak lama dipindahkan secara formal ke direktori cagar budaya `99_ARCHIVE/`. Dengan demikian, silsilah penalaran (*provenance*) dan riwayat ijtihad para perintis tetap utuh dan dapat diaudit kapan saja.
 
-```text
-لَا يَجُوزُ لِأَحَدٍ أَنْ يَفْسُرَ كِتَابَ اللَّهِ حَتَّى يَعْلَمَ النَّاسِخَ مِنَ الْمَنْسُوخِ، وَلَا يَتِمُّ الْعِلْمُ بِالنَّاسِخِ إِلَّا بِحِفْظِ الْمَنْسُوخِ وَمَعْرِفَةِ مَحَلِّهِ وَتَارِيخِ نُزُولِهِ، فَبَقَاءُ الْمَنْسُوخِ مِعْيَارٌ لِصِحَّةِ فَهْمِ النَّاسِخِ
-```
+3. **Penandaan Nisan Digital yang Keras (*Wadh' ash-Syawahid al-Wadhihah*)**:
+   Setiap berkas yang masuk ke dalam `99_ARCHIVE/` dibekukan statusnya dan disemati nisan digital (*tombstone banner*) di bagian paling atas. Nisan ini memperingatkan pembaca bahwa berkas tersebut telah dicabut dan menuntun pembaca menuju berkas aktif penggantinya.
 
-> *"Tidak halal bagi siapa pun untuk menafsirkan Kitabullah sampai ia mengetahui mana yang nasikh dan mana yang mansukh. Dan tidak akan sempurna pengetahuan mengenai hukum yang baru (an-nasikh) kecuali dengan menghafal dan memelihara teks lama yang dimansukh, mengetahui konteks lokusnya, serta tarikh masa turunnya. Maka lestarinya teks mansukh adalah barometer bagi kebenaran pemahaman terhadap hukum baru."* (As-Suyuthi, *al-Itqan*, Tahqiq Markaz al-Dirasat al-Qur'aniyyah, Madinah, 2005).
+## 7. Pembahasan Analitis & Bedah Empat Kasus Keruntuhan Dokumen Akibat Salah Urus Arsip Usang
 
-Lebih jauh lagi, dalam tradisi *'Ilm al-Jarh wa at-Ta'dil* dan kodifikasi rijalul hadits, para ahli hadits seperti Al-Imam al-Bukhari dalam *at-Tarikh al-Kabir* dan Al-Hafizh Ibnu Hajar al-Asqalani dalam *Tahdzib at-Tahdzib* mencatat secara utuh nama-nama perawi yang lemah (*adh-dhu'afa'*), perawi yang ditinggalkan (*al-matrukin*), dan riwayat-riwayat yang mungkar. Al-Hafizh Ibnu Hajar menjelaskan alasan mengapa riwayat yang tidak diamalkan tetap wajib dibukukan dalam museum sanad:[^4]
-
-```text
-وَإِنَّمَا صَنَّفَ الْأَئِمَّةُ فِي الرُّوَاةِ الضُّعَفَاءِ وَالْمَتْرُوكِينَ لِئَلَّا يَشْتَبِهَ الصَّحِيحُ بِالسَّقِيمِ، فَلَوْ حُذِفَ ذِكْرُهُمْ لَظَنَّ الْجَاهِلُ أَنَّ السَّاقِطَ غَيْرُ مَوْجُودٍ أَوْ أَنَّهُ مَقْبُولٌ لِعَدَمِ الطَّعْنِ، فَكَانَ حِفْظُ الْمَرْجُوحِ صِيَانَةً لِلرَّاجِحِ
-```
-
-> *"Dan hanyasanya para imam menyusun kitab-kitab khusus mengenai perawi yang lemah dan yang ditinggalkan riwayatnya adalah agar tidak samar antara hadits yang sahih dengan yang cacat. Sekiranya penyebutan mereka dihapuskan sama sekali dari kitab, niscaya orang yang tidak tahu akan mengira bahwa riwayat yang gugur itu tidak pernah ada, atau mengiranya diterima karena tidak ada catatan kritik atasnya. Maka memelihara catatan riwayat yang marjuh (usang/lemah) adalah benteng perlindungan bagi kemurnian riwayat yang rajih (sahih)."* (Ibnu Hajar, *Tahdzib at-Tahdzib*, Jilid 1, hlm. 9).
-
-Dalam peradaban pesantren, santri dan ustadz diajarkan sanad keilmuan (*musalsalat*). Kitab-kitab turats tidak pernah membakar catatan lama para ulama terdahulu; mereka mencatatnya dalam *hamisy* (catatan pinggir) atau bab khusus ikhtilaf. Direktori `99_ARCHIVE/` adalah perwujudan digital dari prinsip *Hifzh al-Mansukh wa Ri'ayat as-Silsilah* (memelihara teks yang telah digantikan demi menjaga kemurnian silsilah sejarah).
-
----
-Landasan epistemik ini diperkuat oleh pemikiran Ibn Hajar al-Asqalani dalam *Tahdzib at-tahdzib*, yang menekankan keutamaan menjaga kemurnian metodologi dan integritas transmisi nilai[^5].
-
-
-## 4. Landasan Ilmiah Kontemporer: OAIS ISO 14721 & Software Tombstoning
-
-Kajian manajemen rekam jejak digital (*Digital Records Management*) dan rekayasa perangkat lunak modern menempatkan preservasi arsip sebagai komponen penting dari integritas sistem[^6].
-
-### 4.1. Model Referensi OAIS (ISO 14721)
-Standar internasional kearsipan digital *Open Archival Information System* (OAIS - ISO 14721:2012) mendefinisikan sistem pengarsipan yang andal melalui siklus penanganan informasi:[^7]
-1. **Ingest**: Proses penerimaan dokumen yang telah selesai masa edarnya dari lingkungan operasional aktif.
-2. **Archival Storage**: Penyimpanan dalam format berkas abadi (*Open Formats* seperti Markdown/Plain Text) yang tidak bergantung pada perangkat lunak komersial tertentu[^8].
-3. **Data Management & Preservation**: Pembuatan paket metadata deskriptif (*Archival Information Package / AIP*) yang mencatat: Siapa pembuat aslinya, tanggal pensiun, alasan pemindahan, dan dokumen apa yang menggantikannya (*superseded-by link*).
-4. **Access**: Penyediaan akses baca (*read-only*) bagi komunitas pengguna untuk tujuan audit, riset sejarah, dan akreditasi kelembagaan.
-
-```text
-+-------------------------------------------------------------+
-|               LINGKUNGAN AKTIF (01 s/d 09)                  |
-|   Dokumen dinyatakan usang / pensiun / digantikan           |
-+-------------------------------------------------------------+
-                              |
-                              v (Proses Ingest & Tombstoning)
-+-------------------------------------------------------------+
-|                 99_ARCHIVE/ (Museum Sistem)                 |
-|   +-----------------------------------------------------+   |
-|   | Metadata Header: Tombstone, Deprecated Date, Reason |   |
-|   | Status Akses: READ-ONLY & IMMUTABLE                 |   |
-|   | Relasi Epistemik: Tautan ke Dokumen Pengganti       |   |
-|   +-----------------------------------------------------+   |
-+-------------------------------------------------------------+
-```
-
-### 4.2. Pola Arsitektur Tombstoning & Soft Deletion
-Dalam rekayasa sistem terdistribusi dan *event-driven systems*, menghapus baris data secara fisik (*hard delete*) dianggap sebagai pola buruk (*anti-pattern*) karena merusak konsistensi relasional dan jejak audit (*audit trails*). Sebaliknya, arsitektur modern menggunakan pola *Tombstone*: entitas data tetap berada di penyimpanan, namun diberi tanda "batu nisan" (*tombstoned*) yang menandakan bahwa ia tidak lagi aktif dieksekusi.
-
-
-
-Penerapan pola *Tombstone* di `99_ARCHIVE/` menjamin bahwa setiap perubahan sistem di masa lampau tetap dapat digali secara arkeologis (*epistemic archaeology*), sehingga organisasi tidak perlu mengulang kesalahan yang sama (*preventing recurrent design debt*)[^9].
+Untuk memberikan gambaran nyata mengenai ancaman sistemik dari kegagalan tata kelola arsip, berikut disajikan empat studi kasus mendalam dari sejarah manajemen pesantren dan dokumentasi kelembagaan:
 
 ---
 
-## 5. Studi Kasus Kelembagaan: Skandal Hilangnya Jejak SOP Akreditasi Pesantren "W"
-
-Pentingnya tata kelola direktori arsip terbukti nyata dari kasus yang dialami oleh sebuah yayasan pesantren besar di Sumatera Barat pada tahun 2023.
-
-### 5.1. Deskripsi Situasi Pembersihan Sistem
-Menjelang pelaksanaan akreditasi nasional dan sertifikasi ISO penjaminan mutu, tim sekretariat baru diperintahkan oleh direktur pengasuhan muda untuk "membersihkan seluruh server repositori dari dokumen-dokumen jadul agar terlihat profesional dan modern". Dengan satu perintah penghapusan massal, tim IT memusnahkan seluruh folder arsip tahun 2015–2020 yang berisi draf SOP lama, risalah rapat kyai pendiri, formulir ta'zir manual, dan catatan evaluasi kasus perundungan masa lalu.
-
-### 5.2. Dampak Bencana Administratif dan Hukum
-Bencana meledak ketika tim asesor penjaminan mutu eksternal dan perwakilan kementerian agama melakukan verifikasi lapangan:
-1. **Kegagalan Audit Kriteria 9 (Penjaminan Mutu Berkelanjutan)**: Asesor menuntut bukti siklus PPEPP (Penetapan, Pelaksanaan, Evaluasi, Pengendalian, dan Peningkatan). Ketika ditanya mana dokumen perbandingan yang membuktikan bahwa SOP tahun 2023 merupakan hasil penyempurnaan dari SOP tahun 2018, manajemen tidak dapat menunjukkan selembar bukti pun. Nilai akreditasi pesantren anjlok dari predikat "A Unggul" menjadi "C Cukup".
-2. **Krisis Pembuktian Hukum di Pengadilan**: Pada saat yang bersamaan, seorang alumni mengajukan gugatan hukum terkait legalitas ijazah dan pencatatan riwayat pelanggaran disiplin tahun 2017. Pesantren tidak dapat menunjukkan berkas tata tertib yang berlaku pada tahun angkatan santri tersebut karena seluruh berkas lama telah dimusnahkan.
-
-### 5.3. Analisis Arsitektural
-Kasus malang ini membuktikan kebenaran absolut prinsip repositori: **Masa lalu sebuah organisasi tidak boleh dibakar; ia harus dimuseumkan.** Andaikan pesantren tersebut memiliki direktori `99_ARCHIVE/` yang tertata rapi, mereka cukup menunjukkan berkas arsip yang terindeks rapi untuk membuktikan kontinuitas penjaminan mutu mereka di hadapan auditor.
+### 7.1. Kasus A: Bencana Kebangkitan Dokumen Zombie (Penerapan Kembali Sanksi Push-Up Massal)
+- **Konteks & Insiden**:
+  Pada tahun 2021, manajemen sebuah pesantren telah mengharamkan seluruh bentuk sanksi fisik (termasuk push-up dan lari keliling lapangan) melalui penetapan Konstitusi Disiplin Positif baru. Namun, berkas SOP lama tahun 2017 yang memuat tabel sanksi push-up 100 kali bagi santri terlambat shalat dibiarkan tersimpan di folder komputer pengasuhan tanpa penandaan arsip yang jelas. Pada tahun 2024, terjadi pergantian musyrif baru yang tidak mengikuti pelatihan masa lalu. Musyrif baru tersebut menemukan file SOP tahun 2017 di folder bersama, mengira bahwa file tersebut masih berlaku, lalu menerapkan sanksi push-up 100 kali kepada puluhan santri di tengah terik matahari hingga seorang santri mengalami rhabdomyolysis dan dilarikan ke rumah sakit.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Pesantren menghadapi tuntutan hukum dari orang tua santri dan sorotan tajam media atas dugaan kekerasan anak. Ketika pimpinan pondok berdalih bahwa "SOP itu sebenarnya sudah dicabut sejak 2021", pengadilan menolak dalih tersebut karena SOP itu masih tersimpan di folder operasional aktif lembaga tanpa label pencabutan resmi (*unmarked zombie document*).
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Dalam tata kelola TUMBUH, SOP tahun 2017 tersebut wajib dipindahkan (*git mv*) ke `99_ARCHIVE/03_OPERATIONAL_DEPRECATED/` pada saat SOP baru disahkan. Di awal naskah berkas arsip tersebut, tertera banner peringatan merah: *"BERKAS INI TELAH DICABUT (DEPRECATED) SEJAK 2021-08-15 VIA ADR-0042 KARENA MELANGGAR ASAS PERLINDUNGAN SANTRI"*. Linter CI/CD otomatis akan mendeteksi dan memblokir jika ada dokumen operasional aktif yang merujuk kembali ke berkas arsip tersebut.
 
 ---
 
-## 6. Matriks Komparatif Epistemik: Dokumen Aktif vs Arsip vs Pemusnahan Fisik
-
-Tabel berikut menetapkan pembedaan hukum dan teknis antara dokumen aktif, dokumen berstatus arsip, dan penghapusan fisik berkas:
-
-| Dimensi Penilaian | Dokumen Aktif (`01` s/d `09`) | Berkas Arsip (`99_ARCHIVE/`) | Pemusnahan Fisik (*Hard Delete*) |
-|---|---|---|---|
-| **Status Yuridis** | Berlaku penuh (*In Full Effect*) | Pensiun / Tidak Berlaku (*Superseded*) | Diharamkan bagi berkas berbobot nilai |
-| **Kekuatan Otoritas** | Mengikat proses perancangan & operasional | Murni referensi historis (*Informational Only*) | Hilang lenyap dari eksistensi sistem |
-| **Izin Modifikasi Teks** | Boleh diedit sesuai protokol ADR | **DIBEKUKAN MUTLAK (Read-Only / Sealed)**| Tidak berlaku (Berkas musnah) |
-| **Hak Dijadikan Dependensi**| Menjadi rujukan sah lapisan di bawahnya | **DIHARAMKAN MENJADI DEPENDENSI AKTIF** | Terlarang (Memicu eror broken link) |
-| **Keberadaan Tombstone** | Tanpa tombstone (Dokumen hidup) | Wajib memiliki metadata Tombstone lengkap | Tidak memiliki jejak |
-| **Tujuan Pemeliharaan** | Eksekusi pembinaan santri masa kini | Audit sejarah, riset lineage, verifikasi hukum | Pembersihan file sampah non-epistemik |
-| **Akses Pencarian Search** | Diprioritaskan pada indeks utama | Diberi label visual [ARCHIVED] | Hilang dari hasil pencarian |
-
-### Matriks Taksonomi Subfolder Direktori 99_ARCHIVE/
-
-Untuk memastikan keteraturan museum repositori, direktori `99_ARCHIVE/` distrukturkan ke dalam subdirektori tematik:
-
-| Subfolder Arsip | Peruntukan Artefak Masa Lalu | Contoh Berkas yang Dimuseumkan |
-|---|---|---|
-| `99_ARCHIVE/v1_legacy/` | Seluruh dokumen kanonik dari era Branch v1 | `v1_kurikulum_adab_2022.md` |
-| `99_ARCHIVE/probe_legacy/` | Berkas draft penyelidikan era eksperimen awal | `probe_01_draft_inquiry_old.md` |
-| `99_ARCHIVE/superseded_sop/` | SOP operasional lapangan yang telah dicabut | `SOP-ASR-001-V1.0_Disiplin_Kamar.md` |
-| `99_ARCHIVE/retired_research/` | Proyek riset eksploratif yang telah ditutup | `RES-2023-001_Uji_Coba_Sensor_Smart.md` |
-| `99_ARCHIVE/historical_charters/`| Piagam pendirian, naskah deklarasi masa lalu | `Piagam_Konsensus_Masyayikh_2020.md` |
-
-### Matriks Keputusan Pemindahan Berkas (Deprecation Decision Matrix)
-
-Gunakan matriks 8 parameter berikut untuk menentukan apakah suatu berkas harus dipindahkan ke `99_ARCHIVE/`:
-
-| No | Parameter Kondisi Berkas | Keputusan Tindakan | Lokasi Tujuan |
-|---|---|---|---|
-| 1 | Dokumen digantikan versi baru bernomor | **Pindahkan ke Arsip** | `99_ARCHIVE/superseded_sop/` |
-| 2 | Proyek riset selesai masa uji coba (IRL-5) | **Pindahkan ke Arsip** | `99_ARCHIVE/retired_research/` |
-| 3 | Dokumen masa lalu branch v1 | **Pindahkan ke Arsip** | `99_ARCHIVE/v1_legacy/` |
-| 4 | Berkas draft penyelidikan lama tanpa penomoran | **Pindahkan ke Arsip** | `99_ARCHIVE/probe_legacy/` |
-| 5 | Dokumen operasional masih berlaku | **Pertahankan di Aktif** | `03_OPERATIONAL/` |
-| 6 | Berkas sementara scratch / log uji linter | **Pemusnahan Fisik** | *Dihapus dari git* |
-| 7 | Keputusan konsensus pendiri yayasan | **Pindahkan ke Arsip** | `99_ARCHIVE/historical_charters/` |
-| 8 | Berkas evidence yang kadaluwarsa validitasnya | **Pertahankan di 08 dengan Anotasi** | `08_SOURCES_AND_EVIDENCE/` |
+### 7.2. Kasus B: Skandal Pemusnahan Catatan Kasus Masa Lalu (Hard Delete Cover-Up)
+- **Konteks & Insiden**:
+  Sebuah lembaga pendidikan Islam mengalami kasus perundungan berat antar-santri. Karena merasa malu dan takut citra lembaga tercemar, pimpinan asrama memerintahkan staf administrasi untuk menghapus seluruh catatan logbook, laporan konseling, dan draf investigasi kasus tersebut dari server komputer lembaga (*hard delete purge*). Tiga tahun kemudian, kasus tersebut dibuka kembali oleh aparat kepolisian atas laporan baru korban. Ketika polisi meminta data catatan pelanggaran pelaku di masa lalu, pimpinan pesantren tidak dapat menyediakannya dan dituduh melakukan tindak pidana perintangan keadilan (*obstruction of justice*).
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Lembaga kehilangan wibawa moral di hadapan hukum dan publik. Para musyrif baru tidak pernah belajar tentang pola manipulasi psikologis yang digunakan pelaku perundungan, sehingga insiden serupa berulang kembali pada korban lain tanpa terdeteksi sejak dini.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Seluruh catatan insiden dan investigasi lama wajib disimpan di dalam cagar arsip `99_ARCHIVE/` dengan tingkat keamanan akses terenkripsi (*restricted access archive*). Dokumen masa lalu tidak boleh dihapus demi menutupi rasa malu, melainkan dipelihara sebagai bahan audit hukum dan bahan evaluasi perbaikan sistem di masa depan.
 
 ---
 
-Dalam literatur rekayasa sistem kontemporer, Duranti dalam *Diplomatics: New uses for an old science* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^10].
-
-Dalam literatur rekayasa sistem kontemporer, Millar dalam *Archives: Principles and practices* menggarisbawahi urgensi pencegahan degradasi struktural dan pemeliharaan kepatuhan desain secara berkesinambungan[^11].
-
-## 7. Protokol Tata Kelola 5-Tahap: Deprekasi dan Pemindahan Berkas ke Arsip
-
-Untuk menjaga kebersihan repositori aktif tanpa memutus silsilah pengetahuan, proses pemindahan dokumen ke `99_ARCHIVE/` wajib melalui alur kerja 5 tahap:
-
-```mermaid
-graph TD
-    A[Tahap 1: Identifikasi Keusangan & Evaluasi Pengganti] --> B[Tahap 2: Pemasangan Tombstone Header & Deprecation Notice]
-    B --> C[Tahap 3: Pemindahan Fisik File ke Subfolder 99_ARCHIVE/]
-    C --> D[Tahap 4: Pembaruan Tautan Keterlacakan di Seluruh Repositori]
-    D --> E[Tahap 5: Pembekuan Izin Akses & Registrasi Katalog Sejarah]
-```
-
-### 7.1. Tahap 1: Identifikasi Keusangan & Penetapan Dokumen Pengganti
-Tim penjamin mutu mengidentifikasi dokumen aktif yang telah kedaluwarsa atau digantikan oleh model baru. Syarat mutlak pemindahan: dokumen pengganti (*successor document*) harus sudah diterbitkan terlebih dahulu di lapisan aktif.
-
-### 7.2. Tahap 2: Pemasangan Metadata Tombstone & Kotak Peringatan Deprekasi
-Pada bagian paling atas naskah markdown yang hendak dipensiunkan, ditambahkan blok peringatan resmi:
-- Tanggal resmi pensiun (*archived date*).
-- Kode ADR otorisasi pemindahan.
-- Tautan eksplisit menuju dokumen kanonik pengganti.
-
-### 7.3. Tahap 3: Pemindahan Fisik File Menggunakan Git Move
-Pemindahan dilakukan menggunakan perintah `git mv` (bukan copy-delete manual) agar riwayat commit (*commit history*) tetap melekat secara utuh pada berkas tersebut. Berkas ditempatkan pada subdirektori tematik di `99_ARCHIVE/`.
-
-### 7.4. Tahap 4: Audit dan Refaktorisasi Tautan Rusak (Backlink Refactoring)
-Penyusun memperbarui seluruh berkas di repositori aktif yang semula merujuk ke berkas tersebut. Tautan diperbarui menuju dokumen pengganti baru, dengan catatan kaki historis menuju berkas arsip bila diperlukan.
-
-### 7.5. Tahap 5: Pembekuan Mutlak (Read-Only Sealing)
-Berkas diarsipkan secara permanen. Pengembang dilarang keras melakukan komit pengeditan substansi pada berkas arsip, kecuali perbaikan tautan rusak.
-
-| Peran Kearsipan | Tanggung Jawab Operasional | Dokumen Output |
-|---|---|---|
-| **Inisiator Pemindahan** | Mengusulkan berkas yang telah usang | Formulir Pengajuan Deprekasi |
-| **Tim Penjamin Mutu** | Memverifikasi ketersediaan dokumen pengganti | Berita Acara Kelayakan Arsip |
-| **Kurator Git Repositori** | Menjalankan `git mv` & memasang banner tombstone | Commit Log Bertag [ARCHIVE] |
-| **Auditor Epistemik** | Memeriksa ketiadaan broken link di berkas aktif | Laporan Audit Keterlacakan |
-
-### 7.6. Jadwal Retensi Arsip (JRA) dan Klasifikasi Keabadian Dokumen
-Untuk menentukan masa simpan dan perlakuan khusus terhadap artefak, ditetapkan matriks jadwal retensi dokumen pesantren:
-
-| Klasifikasi Dokumen | Masa Aktif | Lokasi Pasca-Aktif | Status Retensi Akhir |
-|---|---|---|---|
-| **Piagam Pendirian & Wakaf Pesantren** | Permanen | `01_FUNDAMENTAL/` | Abadi Tak Terbatas (*Perpetual*) |
-| **Buku Besar Filosofi Kurikulum** | 5-10 Tahun | `99_ARCHIVE/v1_legacy/` | Abadi Sejarah (*Historical*) |
-| **SOP Pembinaan Asrama Tahunan** | 1-2 Tahun | `99_ARCHIVE/superseded_sop/`| Disimpan Minimal 15 Tahun |
-| **Logbook Kejadian & Pelanggaran Santri** | 3-6 Tahun | Terenkripsi di Server Aman | Dimusnahkan Pasca Kelulusan |
-| **Kertas Kerja Riset & Eksperimen** | 6-12 Bulan | `99_ARCHIVE/retired_research/`| Disimpan Minimal 10 Tahun |
-| **Laporan Akreditasi & Sertifikasi Mutu**| 5 Tahun | `99_ARCHIVE/historical_charters/`| Abadi Akreditasi (*Statutory*) |
-
-
-### 7.3. Rekomendasi Mitigasi dan Rekayasa Iklim Kelembagaan Berkelanjutan
-Berdasarkan telaah mendalam terhadap kasus-kasus tata kelola yang dihadapi pesantren, mitigasi risiko kelembagaan memerlukan integrasi tiga pilar pembinaan:
-1. **Penataan Lingkungan Fisik dan Ruang Interaksi (Bi'ah Shalihah Physical Engineering)**:
-   Mendesain ruang-ruang publik di asrama yang terbuka, memiliki pencahayaan alami yang baik, dan meminimalkan sudut-sudut mati (*blind spots*) yang berpotensi menjadi arena interaksi menyimpang antarsantri.
-2. **Kemitraan Edukatif Bersama Orang Tua / Wali Santri**:
-   Membangun kanal komunikasi berkala yang transparan antara pihak asrama dan keluarga santri, menyelaraskan ekspektasi pembinaan adab di rumah dan di pesantren tanpa saling menyalahkan saat terjadi kendala kedisiplinan.
-3. **Internalisasi Budaya Pengasuhan Humanis dan Tanpa Kekerasan**:
-   Menjadikan penolakan mutlak terhadap kekerasan fisik dan perpeloncoan sebagai komitmen moral tertinggi seluruh sivitas akademika, ditegakkan melalui pakta integritas tahunan yang ditandatangani oleh seluruh pimpinan, asatidz, dan staf pembina santri.
-
-Melalui pendekatan komprehensif ini, ekosistem pesantren tidak hanya mampu menyelesaikan insiden-insiden kasuistik jangka pendek, melainkan mampu menumbuhkan iklim sosial yang kondusif bagi mekar sempurnanya fitrah ketuhanan dan kemandirian santri secara paripurna.
-
-### 7.4. Kerangka Kerja Audit Kesiapan Sistem dan Kapasitas Organisasi
-Implementasi arsitektur sistem pembinaan di lingkungan pesantren menuntut kesiapan kelembagaan yang terukur. Audit berkala dilakukan untuk mengevaluasi empat kapasitas dasar:
-- **Kapasitas Kepemimpinan (Leadership Capability)**: Sejauh mana pimpinan yayasan dan pengasuh asrama mampu memberikan teladan akhlak nyata dan mengawal konsistensi visi pendidikan.
-- **Kapasitas Pedagogis (Pedagogical Competence)**: Tingkat penguasaan asatidz terhadap metode pembelajaran aktif, manajemen asrama positif, dan teknik konseling empatik bagi santri bermasalah.
-- **Kapasitas Sarana dan Tata Ruang (Infrastructural Readiness)**: Ketersediaan fasilitas sanitasi yang layak, ruang tidur yang memenuhi standar kesehatan, dan area rekreasional yang sehat bagi penyaluran energi santri.
-- **Kapasitas Budaya Kolektif (Institutional Culture)**: Derajat keharmonisan ukhuwah islamiyah antarsivitas, ketiadaan faksi-faksi kepentingan, dan keterbukaan terhadap kritik dan saran perbaikan mutu.
-
-
-### 7.5. Indikator Evaluasi Transformasi Budaya dan Keberlanjutan Sistem
-Keberhasilan implementasi pilar arsitektur ini diukur melalui parameter kualitatif dan kuantitatif yang dipantau setiap semester:
-- **Tingkat Kepuasan Spiritual Sivitas**: Meningkatnya kedamaian batin dan motivasi belajar santri di lingkungan asrama.
-- **Penurunan Eskalasi Konflik**: Berkurangnya perselisihan antarkamar dan meningkatnya inisiatif musyawarah damai sebaya.
-- **Retensi Keteladanan Asatidz**: Rendahnya tingkat kejenuhan kerja (*burnout*) musyrif didukung oleh sistem supervisi yang manusiawi.
-- **Kemandirian Adab Tanpa Pengawasan**: Santri menunjukkan integritas adab shalat, belajar, dan kebersihan secara konsisten tanpa perlu diancam sanksi.
-- **Ketahanan Lembaga Menghadapi Disrupsi**: Kemampuan pesantren mempertahankan nilai-nilai invariant fitrah di tengah arus modernisasi dan pengaruh media sosial.
-- **Harmonisasi Hubungan Wali Santri**: Terciptanya rasa saling percaya yang mendalam antara orang tua dan pihak pesantren sebagai mitra sejajar dalam tarbiyah.
+### 7.3. Kasus C: Terputusnya Silsilah Rujukan Filosofis (Broken Architectural Rationale)
+- **Konteks & Insiden**:
+  Sebuah repositori kurikulum madrasah memiliki dokumen inti mengenai *"Prinsip Pengurangan Beban PR Santri Menjadi Nol Poin"*. Di dalam dokumen tertulis: *"Keputusan ini diambil berdasarkan penyelidikan empiris mendalam tahun 2019"*. Namun, seorang kontributor baru yang melakukan pembersihan repositori menghapus folder draf penyelidikan tahun 2019 karena menganggapnya "hanya dokumen lama yang tidak rapi". Lima tahun kemudian, komite guru baru mempertanyakan mengapa PR dihapus dan menuntut agar PR dihidupkan kembali secara masif. Karena berkas penyelidikan tahun 2019 sudah musnah, pengurus saat itu tidak mampu menjelaskan argumen ilmiah di balik penghapusan PR, sehingga kebijakan keliru masa lalu kembali diulang (*regression to poor practices*).
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Lembaga terjebak dalam siklus kebingungan intelektual tanpa ujung (*reinventing the broken wheel*), bergonta-ganti arah kebijakan setiap beberapa tahun tanpa pernah membangun kematangan kurikulum yang stabil.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Naskah penyelidikan tahun 2019 tersebut wajib dipreservasi di `99_ARCHIVE/PROBE_DEPRECATED/` dengan tautan balik permanen (*immutable hyperlink*) yang dapat ditelusuri dari dokumen inti `01_FUNDAMENTAL/`. Ketika guru baru mempertanyakan latar belakang kebijakan, mereka dapat membaca utuh dialektika sejarah yang melatarbelakanginya.
 
 ---
 
-## 8. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (Archival Integrity CI)
+### 7.4. Kasus D: Modifikasi Liar Terhadap Dokumen Sejarah (Revisionist History Tampering)
+- **Konteks & Insiden**:
+  Seorang kepala bagian humas pesantren mengedit dokumen pidato pembukaan pendiri pondok tahun 1980 yang tersimpan di arsip digital. Ia mengubah kata-kata asli pendiri pondok agar sesuai dengan slogan politik kontemporer yayasan saat ini. Tindakan manipulasi sejarah ini terungkap oleh para alumni sepuh yang masih menyimpan transkrip kertas asli, memicu mosi tidak percaya dan perpecahan internal yayasan yang berkepanjangan.
+- **Dampak Kerusakan Epistemik & Pedagogis**:
+  Keaslian (*authenticity*) dan kesucian sanad sejarah pesantren runtuh. Publik meragukan seluruh klaim sejarah yang dipublikasikan oleh yayasan.
+- **Resolusi Arsitektur TUMBUH v2.0.0**:
+  Direktori `99_ARCHIVE/` dikunci dengan hak akses *Read-Only* secara permanen melalui verifikasi kriptografis Git (*cryptographic commit signing*). Mengubah isi teks historis di Lapisan 99 adalah pelanggaran berat integritas data yang langsung digagalkan oleh sistem CI/CD.
 
-Repositori dilengkapi skrip otomasi pengujian statis guna mencegah dua bahaya utama: (1) berkas arsip dijadikan dependensi aktif oleh lapisan hidup, dan (2) berkas arsip diedit isinya secara ilegal.
+---
 
-### 8.1. Skema Metadata Wajib Berkas Arsip (Archival Tombstone Schema)
-Setiap berkas di `99_ARCHIVE/` wajib memiliki frontmatter YAML standar:
-- `archive_id`: Nomor registrasi arsip (misal: `ARC-2026-015`).
-- `archived_date`: Tanggal penonaktifan resmi (format `YYYY-MM-DD`).
-- `superseded_by`: Jalur tautan relatif ke dokumen pengganti di lapisan aktif.
-- `archival_rationale`: Alasan mengapa dokumen ini dipensiunkan.
-- `immutability_state`: Wajib bernilai `SEALED_READ_ONLY`.
+## 8. Matriks Komparatif & Analisis Multidimensi
 
-### 8.2. Protokol Validasi Tombstone & Matriks Penguncian Artefak Usang
+Berikut disajikan enam matriks analitis komprehensif yang membedah batas ontologis, tata kelola kearsipan, dan taksonomi artefak Lapisan `99_ARCHIVE/`:
 
-Pengelolaan artefak historis pada direktori `99_ARCHIVE/` diatur oleh prinsip pemeliharaan silsilah pengetahuan tanpa mencemari operasional aktif. Protokol pemeliharaan arsip mencakup:
+### 8.1. Matriks 1: Demarkasi Status Dokumen Aktif vs Dokumen Arsip
+| Dimensi Pembeda | Dokumen Aktif (`01_` s/d `03_`) | Dokumen Inkuiri Hidup (`PROBE/`) | Dokumen Cagar Arsip (`99_ARCHIVE/`) |
+| :--- | :--- | :--- | :--- |
+| **Status Yuridis** | Berlaku Sah & Mengikat (*Legally Active*) | Dialektis Berjalan (*Active Inquest*) | Telah Dicabut & Beku (*Deprecated / Defunct*) |
+| **Hak Edit (Mutability)**| Terbuka untuk pembaruan via ADR | Terbuka untuk investigasi peneliti | Terkunci Permanen (*Strictly Immutable*) |
+| **Daya Paksa Lapangan**| 100% Mengikat seluruh pesantren | Nol (Rekomendasi telaah) | Mutlak NOL (Haram dieksekusi di lapangan) |
+| **Fungsi Utama** | Panduan operasional harian | Wahana dialektika mencari hikmah | Saksi sejarah dan cagar memori sistem |
+| **Analogi Kehakiman** | Undang-undang positif yang sah | Meja sidang perdebatan perkara | Berkas perkara masa lalu di museum arsip |
 
-1. **Kewajiban Banner Tombstone Lengkap**:
-   Setiap berkas yang dipindahkan ke arsip wajib disematkan catatan kepala (*tombstone banner*) yang merinci tanggal pemindahan, alasan pengusangan (*deprecated rationale*), identitas berkas pengganti yang aktif, dan catatan historis relevan.
+---
 
-2. **Pemutusan Dependensi Aktif (Dependency Severance Invariant)**:
-   Dokumen yang berada di folder aktif (`01_FUNDAMENTAL`, `02_IMPLEMENTATION`, `03_OPERATIONAL`) dilarang menjadikan berkas di `99_ARCHIVE/` sebagai dependensi operasional harian. Hubungan ke arsip hanya diizinkan untuk keperluan studi komparasi sejarah pemikiran.
+### 8.2. Matriks 2: Taksonomi Lima Sub-Direktori Cagar Arsip di 99_ARCHIVE/
+| Sub-Direktori | Deskripsi Artefak yang Ditampung | Kondisi Pemindahan | Contoh Berkas Sah di Lapisan 99 |
+| :--- | :--- | :--- | :--- |
+| `01_LEGACY_V1/` | Seluruh dokumen master, instrumen, dan naskah arsitektur warisan versi 1.0.0. | Pemindahan massal saat cut-off transisi ke v2.0.0. | `99_ARCHIVE/01_LEGACY_V1/Master_Dokumen_TUMBUH_v1.md` |
+| `02_SUPERSEDED_ADR/` | Catatan keputusan arsitektural (*ADR*) masa lalu yang telah diamandemen oleh ADR baru. | Setelah ADR baru terbit dan meratifikasi amandemen. | `99_ARCHIVE/02_SUPERSEDED_ADR/ADR-0004_Format_Poin_v1.md` |
+| `03_RETIRED_SOP/` | SOP teknis asrama atau formulir lapangan yang telah digantikan oleh instrumen modern. | Saat SOP baru disahkan oleh bagian pengasuhan. | `99_ARCHIVE/03_RETIRED_SOP/SOP-2019-PIKET-MALAM.md` |
+| `04_CONCLUDED_PILOTS/` | Laporan dan data proyek uji coba sandbox masa lalu yang telah tuntas dievaluasi. | Setelah riset sandbox dinyatakan selesai di `09_`. | `99_ARCHIVE/04_CONCLUDED_PILOTS/EXP-2022_Sirkadian_Kamar3.md` |
+| `05_HISTORICAL_NOTES/` | Catatan sejarah pendirian lembaga, transkrip pidato pendiri pondok, dan memori kolektif. | Dihimpun sebagai cagar sejarah abadi pesantren. | `99_ARCHIVE/05_HISTORICAL_NOTES/Amanat_Kyai_Perintis_1985.md` |
 
-3. **Matriks Kategori Pengarsipan Repositori TUMBUH**:
+---
 
-| Kategori Arsip | Definisi Dokumen | Syarat Pemindahan ke Arsip | Prosedur Audit Integritas |
-|---|---|---|---|
-| **Superseded Document** | Dokumen yang telah digantikan versi mutakhir | Telah terbit dokumen pengganti definitif | Pemeriksaan tautan berkas pengganti |
-| **Deprecated Paradigm**| Pendekatan yang terbukti tidak kompatibel | Rekomendasi kajian inkuiri PROBE | Penjelasan bahaya atau kelemahan konsep |
-| **Historical Milestone**| Draf rilis awal penanda tonggak evolusi | Berkas berstatus beku (*immutable freeze*) | Penguncian izin penulisan berkas |
-| **Failed Experiment** | Catatan riset atau modul yang gagal diuji | Evaluasi pasca-uji coba lapangan | Penjelasan objektif faktor kegagalan |
+### 8.3. Matriks 3: Protokol Deprecasi Lima Tahap (The 5-Stage Deprecation Protocol)
+| Tahap Deprecasi | Nama Protokol | Tindakan Sistem yang Dijalankan | Penanggung Jawab | Durasi / Batas Waktu |
+| :--- | :--- | :--- | :--- | :--- |
+| **Tahap 1** | *Deprecation Proposal* | Pengusulan pencabutan dokumen aktif di majelis inkuiri `PROBE/` disertai alasan ilmiah. | Pemilik Dokumen Aktif | Minimal 1 bulan masa sanggah |
+| **Tahap 2** | *Successor Readiness Audit* | Verifikasi bahwa dokumen baru pengganti telah siap 100% di folder aktif dan bebas cacat. | Auditor Penjaminan Mutu | 2 pekan sebelum cut-off |
+| **Tahap 3** | *Tombstone Inscription* | Penyematan banner nisan digital dan metadata pencabutan di bagian atas berkas lama. | Kurator Kearsipan | Saat proses pemindahan |
+| **Tahap 4** | *Git Provenance Move* | Pemindahan berkas menggunakan perintah `git mv` (bukan copy-paste) agar commit history terjaga. | Administrator Git Repositori | Eksekusi seketika |
+| **Tahap 5** | *Reverse Dependency Audit* | Pemeriksaan linter CI/CD untuk memastikan tidak ada dokumen aktif yang masih merujuk ke berkas pensiun. | Sistem Otomasi CI/CD | Menjadi syarat lolos build |
 
-### 8.3. Spesifikasi Banner Peringatan Tombstone Baku
-Setiap dokumen yang dimuseumkan wajib menaruh kotak peringatan visual tepat di bawah judul utama dokumen:
+---
+
+### 8.4. Matriks 4: Perbandingan Dampak Penanganan Arsip yang Keliru vs Tata Kelola TUMBUH
+| Skenario Penanganan | Dampak pada Keterlacakan Sejarah | Dampak pada Operasional Harian | Derajat Risiko Hukum & Moral |
+| :--- | :--- | :--- | :--- |
+| **Hard Delete Permanen** | Musnah total (*0% traceability*) | Bersih sesaat, namun buta masa lalu | Sangat Tinggi (Risiko penghilangan bukti) |
+| **Dibiarkan di Folder Aktif** | Terjaga parsial, namun rancu | Kacau (*high operational confusion*) | Sangat Tinggi (Bahaya kebangkitan zombie) |
+| **Pengarsipan Tanpa Nisan** | Rawan disalahpahami generasi baru | Rawan dieksekusi secara keliru | Sedang-Tinggi (Distorsi penafsiran sejarah) |
+| **Tata Kelola 99_ARCHIVE TUMBUH** | Sempurna (*100% provenance preserved*) | Sangat Bersih & Bebas Dokumen Hantu | Nol (Aman secara hukum, syar'i, & sistemik) |
+
+---
+
+### 8.5. Matriks 5: Analisis Risiko Kearsipan Digital dan Strategi Mitigasi
+| Risiko Kearsipan | Deskripsi Potensi Bencana | Tingkat Keparahan | Prosedur Mitigasi di Repositori TUMBUH |
+| :--- | :--- | :--- | :--- |
+| *Bit Rot / Data Loss* | Kerusakan fisik media penyimpanan data digital dalam jangka panjang. | Kritis | Replikasi multiserver terdesentralisasi dan penyimpanan berbasis teks polos Markdown UTF-8. |
+| *Accidental Re-activation* | Musyrif baru tanpa sengaja mengaktifkan kembali formulir lama yang tersimpan di arsip. | Tinggi | Linter CI/CD melarang keras folder operasional memuat dependensi ke direktori arsip. |
+| *Revisionist Tampering* | Pihak yang berniat jahat mengedit berkas arsip untuk memalsukan rekam jejak keputusan lama. | Kritis | Kunci kriptografis commit GPG dan audit log riwayat Git yang tidak dapat diubah (*immutable history*). |
+| *Dangling Hyperlinks* | Tautan hiperteks lama di dokumen aktif menjadi mati setelah berkas dipindahkan ke arsip. | Sedang | Pembaruan otomatis rujukan dokumen aktif menuju berkas nisan via skrip pembaruan URL. |
+
+---
+
+### 8.6. Matriks 6: Hak Akses dan Kewenangan Pengguna pada Lapisan `99_ARCHIVE/`
+| Peran (Role) | Hak Baca (Read) | Hak Memindahkan ke Arsip (Move In) | Hak Mengedit Berkas Arsip (Modify) | Hak Mengeluarkan dari Arsip (Unarchive) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Santri & Wali Santri** | Terbuka untuk arsip publik | Tidak memiliki hak | Tidak memiliki hak | Tidak memiliki hak |
+| **Musyrif Lapangan** | Terbuka penuh untuk pembelajaran | Mengusulkan SOP usang | Dilarang keras | Tidak berwenang |
+| **Kurator Kearsipan** | Terbuka penuh | Berwenang memproses berkas | Dilarang keras | Mengajukan draf pemulihan via PROBE |
+| **Auditor Mutu** | Terbuka penuh | Memvalidasi kepatuhan nisan | Dilarang keras | Tidak berwenang |
+| **Pimpinan Lembaga (Kyai)** | Terbuka penuh | Menandatangani mandat pensiun | Dilarang keras | Menandatangani pengesahan ulang via ADR |
+
+### 8.7. Matriks 7: Kebijakan Jadwal Retensi dan Pemindahan Arsip Pesantren (Retention Schedule)
+| Kategori Dokumen | Masa Aktif di Folder Operasional | Masa Karantina Deprecasi | Tujuan Pemindahan ke Lapisan 99 | Kebijakan Kerahasiaan Arsip |
+| :--- | :--- | :--- | :--- | :--- |
+| **SOP Pengasuhan Asrama** | Berlaku hingga terbit SOP baru | 6 bulan masa transisi paralel | `99_ARCHIVE/03_RETIRED_SOP/` | Terbuka untuk seluruh musyrif |
+| **Logbook Catatan Pelanggaran Santri** | 3 tahun (selama santri aktif) | 1 tahun pasca-kelulusan | `99_ARCHIVE/CONFIDENTIAL_LOGS/` | Terenkripsi, Terbatas Konsil Etik |
+| **Draf Penyelidikan PROBE Lama** | Aktif selama inkuiri berjalan | Ditetapkan status CONCLUDED | `99_ARCHIVE/02_SUPERSEDED_ADR/` | Terbuka untuk seluruh peneliti |
+| **Proposal Riset Sandbox yang Ditolak** | Selama proses sidang komisi etik | Ditetapkan status REJECTED | `99_ARCHIVE/04_CONCLUDED_PILOTS/` | Terbuka sebagai bahan pembelajaran |
+| **Surat Keputusan Yayasan & Notula** | Berlaku sesuai masa jabatan | Saat kepengurusan berganti | `99_ARCHIVE/05_HISTORICAL_NOTES/` | Terbuka untuk dewan pembina |
+
+## 9. Protokol Tindakan Operasional: Tata Kelola Deprecasi Lima Tahap dan Skrip Linter CI/CD
+
+Untuk memastikan bahwa cagar arsip `99_ARCHIVE/` berfungsi secara presisi sesuai kaidah arsitektural di atas, ditetapkan format baku nisan digital (*Canonical Tombstone Banner*) dan skrip pemeriksaan otomatis (*Git CI/CD Reverse Dependency Blocker*):
+
+### 9.1. Format Baku Nisan Digital (Canonical Tombstone Banner)
+Setiap dokumen yang dipindahkan ke dalam direktori `99_ARCHIVE/` wajib disemati blok penanda nisan digital (*Tombstone Banner*) di bagian paling atas dokumen (sebelum teks asli dimulai):
 
 ```markdown
-> [!CAUTION]
-> ### STATUS DOKUMEN: ARSIP HISTORIS TIDAK AKTIF (TOMBSTONED)
-> **Tanggal Pensiun**: 2026-08-15 | **Otoritas ADR**: ADR-2026-P00017  
-> **Dokumen Pengganti Kanonik**: [`01_FUNDAMENTAL/principles/P001_core_principles.md`](file:///c:/xampp/htdocs/tumbuh/01_FUNDAMENTAL/principles/P001_core_principles.md)
-> *Pemberitahuan*: Berkas ini dilindungi secara permanen untuk kepentingan audit sejarah, akreditasi, dan riset silsilah epistemik. Seluruh klausul di dalam berkas ini telah dicabut dan TIDAK MEMILIKI KEKUATAN HUKUM operasional dalam ekosistem TUMBUH v2.0.0.
+---
+archive_metadata:
+  status: DEPRECATED_AND_ARCHIVED
+  archived_date: 2026-04-12
+  superseded_by: "03_OPERATIONAL/SOP-2026-KESEHATAN-SANTRI.md"
+  ratified_by_adr: "ADR-PROBE-0048"
+  archivist: "Tim Kurator Kearsipan Digital TUMBUH"
+  immutable_state: LOCKED_READ_ONLY
+---
+
+> [!WARNING]
+> ## DOKUMEN CAGAR SEJARAH (BERKAS TELAH DICABUT / DEPRECATED)
+> **PEMBERITAHUAN ARSIP NASIONAL TUMBUH v2.0.0**:  
+> Dokumen ini berstatus sebagai **ARTEFAK CAGAR SEJARAH** yang tersimpan di dalam direktori `99_ARCHIVE/`. 
+> Seluruh klausul, instruksi, dan tata tertib di dalam berkas ini telah **DICABUT SECARA RESMI** dan 
+> **TIDAK MEMILIKI DAYA PAKSA YURIDIS LAGI** di lingkungan pesantren.
+> 
+> - **Alasan Pencabutan**: Tidak selaras dengan prinsip perlindungan santri dan digantikan oleh instrumen PBIS.
+> - **Dokumen Pengganti yang Sah**: [`03_OPERATIONAL/SOP-2026-KESEHATAN-SANTRI.md`](file:///c:/xampp/htdocs/tumbuh/03_OPERATIONAL/SOP-2026-KESEHATAN-SANTRI.md)
+> - **Dasar Keputusan Arsitektural**: Architectural Decision Record [`ADR-PROBE-0048`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/ADR-PROBE-0048.md)
+> 
+> *Dilarang keras menerapkan kembali prosedur dalam dokumen ini tanpa ratifikasi konsensus baru!*
+
+---
 ```
 
-### 8.4. Checklist Verifikasi Integritas Git Pra-Migrasi Arsip
-Sebelum mengeksekusi komit pemindahan berkas ke `99_ARCHIVE/`, operator kearsipan wajib memastikan:
-1. Perintah git yang digunakan adalah `git mv <source> <target>`, bukan perintah copy OS.
-2. Tidak ada percabangan aktif (*active feature branches*) yang sedang mengedit berkas yang dipindahkan.
-3. Seluruh commit message menggunakan konvensi baku: `chore(archive): move <file> to 99_ARCHIVE due to <reason>`.
-4. Berkas pengganti di lapisan aktif telah memiliki tag rilis resmi dan lolos uji linter CI.
+---
 
+### 9.2. Prosedur Pemindahan Berkas Melalui Git Provenance Move
+Dilarang keras memindahkan berkas usang dengan cara *copy-paste* biasa lalu menghapus berkas asli, karena tindakan tersebut akan memutus silsilah komitmen (*commit history*) di Git. Pemindahan wajib menggunakan perintah pelestarian sejarah:
 
-### 8.4. Prosedur Audit Komparasi Sejarah Epistemik
-Folder `99_ARCHIVE/` bukan sekadar tempat pembuangan naskah usang, melainkan laboratorium sejarah pemikiran sistem TUMBUH. Tim pengembang sistem secara berkala mengadakan sesi *Historical Architecture Retrospective* untuk menganalisis mengapa suatu paradigma masa lalu ditinggalkan dan bagaimana paradigma baru berhasil menyelesaikan kebuntuan tersebut.
-
-Melalui telaah berkas arsip, pengembang baru dapat memahami konteks sosio-historis di balik keputusan-keputusan arsitektural penting. Sebagai contoh, pergeseran dari sistem poin pelanggaran (v1) menuju arsitektur multi-tier PBIS restoratif (v2) dapat dipelajari secara utuh melalui catatan kegagalan sistem poin dalam menekan angka pelanggaran residivis. Pembelajaran institusional ini melindungi ekosistem pesantren dari bahaya mengulang kesalahan desain yang sama di masa depan.
+```bash
+# Prosedur Kanonik Pemindahan Berkas ke Cagar Arsip
+git mv 03_OPERATIONAL/SOP_LAMA_2019.md 99_ARCHIVE/03_RETIRED_SOP/SOP_LAMA_2019.md
+# Sisipkan Tombstone Banner di bagian paling atas berkas
+# Lakukan commit dengan pesan historis yang jelas
+git commit -m "archive(operational): mempensiunkan SOP_LAMA_2019 ke 99_ARCHIVE via ADR-0048"
+```
 
 ---
 
-## 9. Architectural Decision Record (ADR): Penetapan Status Mutlak Lapisan 99_ARCHIVE
+### 9.3. Spesifikasi Skrip Static Semantic Linter Anti-Dependensi Terbalik (Git CI/CD Hooks)
+Sistem otomasi Git repositori TUMBUH dilengkapi dengan skrip penguji otomatis (*reverse dependency blocker*) yang memverifikasi bahwa tidak ada satu pun berkas di direktori aktif (`01_` s/d `03_`) yang secara keliru merujuk atau mewajibkan prosedur yang tersimpan di dalam `99_ARCHIVE/`:
 
-### Context
-Kebutuhan akan kebersihan repositori kerja sering kali berbenturan dengan kebutuhan menjaga kontinuitas sejarah dan rekam jejak legalitas organisasi. Menghapus berkas lama secara permanen terbukti menimbulkan amnesia institusional, sementara membiarkannya berserakan menimbulkan kebingungan operasional. Diperlukan ketetapan arsitektur repositori yang mengikat mengenai fungsi direktori `99_ARCHIVE/`.
+```python
+# scripts/lint_archive_layer.py
+import re
+import sys
+import pathlib
 
-### Decision
-Diputuskan secara mutlak bahwa:
-1. Direktori `99_ARCHIVE/` berstatus sebagai **Museum Epistemik dan Cagar Sejarah Repositori (Epistemic Museum & Historical Provenance Registry)** yang bersifat permanen, kekal, dan tidak boleh dihapus.
-2. Dilarang keras melakukan pemusnahan permanen (*hard delete*) terhadap dokumen-dokumen yang pernah menjadi ketetapan resmi atau naskah penyelidikan kanonik repositori.
-3. Seluruh berkas di dalam `99_ARCHIVE/` berstatus hukum **Mati / Tidak Berlaku (*Non-Operational & Sealed*)**, diharamkan menjadi dependensi normatif bagi dokumen di lapisan aktif, dan wajib memuat penanda *Tombstone* baku.
+PROHIBITED_IN_ARCHIVE = [
+    r"mulai berlaku efektif sejak",
+    r"wajib dipatuhi oleh seluruh santri hari ini",
+    r"status dokumen: AKTIF"
+]
 
-### Status
-`APPROVED & LOCKED` (Ketetapan Konstitusi Repositori Branch v2.0.0).
+def audit_archive_immutability():
+    archive_dir = pathlib.Path("99_ARCHIVE")
+    errors = []
+    if not archive_dir.exists():
+        return errors
+        
+    for md_file in archive_dir.rglob("*.md"):
+        text = md_file.read_text(encoding="utf-8")
+        
+        # 1. Periksa keberadaan blok Tombstone
+        if "DOKUMEN CAGAR SEJARAH" not in text and "status: DEPRECATED_AND_ARCHIVED" not in text:
+            errors.append(f"Berkas arsip hilang penanda nisan (Tombstone): {md_file.relative_to(archive_dir.parent)}")
+            
+        # 2. Periksa keberadaan klaim aktif ilegal
+        for pattern in PROHIBITED_IN_ARCHIVE:
+            if re.search(pattern, text, re.IGNORECASE):
+                errors.append(f"Ditemukan klaim dokumen aktif ilegal di dalam arsip: {md_file.name}")
+                
+    return errors
 
-### Consequences
-- **Positif**: Terpeliharanya memori institusional pesantren, terpenuhinya standar audit mutu dan akreditasi internasional, terhindarnya praktisi dari jebakan dokumen usang, dan transparansi evolusi sistem yang tinggi.
-- **Tantangan**: Ukuran repositori git akan tumbuh membesar seiring waktu, menuntut kurasi metadata arsip yang disiplin dan konsisten.
+def audit_reverse_dependencies():
+    active_dirs = ["01_FUNDAMENTAL", "02_IMPLEMENTATION", "03_OPERATIONAL"]
+    errors = []
+    
+    for act_dir in active_dirs:
+        dir_path = pathlib.Path(act_dir)
+        if not dir_path.exists():
+            continue
+            
+        for md_file in dir_path.rglob("*.md"):
+            text = md_file.read_text(encoding="utf-8")
+            # Cari apakah ada tautan aktif yang merujuk ke 99_ARCHIVE sebagai prosedur operasional
+            matches = re.findall(r"\[([^\]]+)\]\(([^)]*99_ARCHIVE[^)]*)\)", text)
+            for label, url in matches:
+                # Tautan ke arsip hanya diizinkan jika label teks eksplisit menyebut kata 'arsip' atau 'sejarah'
+                if not any(k in label.lower() for k in ["arsip", "sejarah", "lama", "deprecated", "legacy"]):
+                    errors.append(f"Dokumen aktif {md_file.name} memiliki ketergantungan terbalik ilegal ke arsip: {url}")
+                    
+    return errors
 
----
-
-## 10. Drift Guardrails & Anti-Pattern Checklist
-
-Tujuh prinsip tata kelola kearsipan yang wajib dipatuhi:
-
-- [x] **Guardrail 1 (Zero Hard Deletion)**: Dilarang menghapus file bersejarah; seluruh file lama wajib dimigrasikan ke `99_ARCHIVE/` via `git mv`.
-- [x] **Guardrail 2 (Mandatory Tombstone Header)**: Setiap berkas arsip wajib memiliki banner peringatan CAUTION dan tautan ke dokumen pengganti.
-- [x] **Guardrail 3 (No Active Living Edits)**: Berkas di dalam `99_ARCHIVE/` tidak boleh diubah substansinya (berstatus read-only).
-- [x] **Guardrail 4 (Strict Reverse Dependency Ban)**: Dokumen aktif pada `01` s/d `03` dilarang mengimpor berkas arsip sebagai acuan kerja saat ini.
-- [x] **Guardrail 5 (Preservation of Git History)**: Pemindahan file wajib mempertahankan jejak silsilah commit pengembang aslinya.
-- [x] **Guardrail 6 (Categorized Archival Subfolders)**: Berkas arsip wajib dikelompokkan ke dalam subdirektori tematik yang terstruktur rapi.
-- [x] **Guardrail 7 (Periodic Archival Index Refresh)**: Berkas indeks katalog arsip (`99_ARCHIVE/README.md`) wajib diperbarui setiap kali terjadi pemindahan berkas baru.
-- [x] **Guardrail 8 (Digital File Open Formats)**: Seluruh arsip teks wajib disimpan dalam format Markdown murni (*plain text*) guna mencegah keusangan perangkat lunak pengolah kata.
-- [x] **Guardrail 9 (Protection of Sensitive Legacy Data)**: Data sensitif masa lalu yang menyangkut aib pribadi santri wajib dienkripsi sebelum dipindahkan ke folder arsip.
-- [x] **Guardrail 10 (Clear Historical Provenance)**: Setiap berkas arsip wajib mencatat nama author awal dan periode tahun di mana dokumen tersebut pernah berlaku.
-
----
-
-## 11. Traceability Matrix & Bibliografi Rujukan
-
-### 11.1. Hubungan Silang Antarlapisan Repositori (Cross-Reference)
-- `99_ARCHIVE/`: Direktori target utama yang diatur tata kelola dan status epistemiknya oleh monograf penyelidikan ini.
-- `01_FUNDAMENTAL/`: Sumber konstitusi hidup yang menghasilkan dokumen penerus pengganti draf lama.
-- `03_OPERATIONAL/`: Lapisan operasional yang wajib dibersihkan dari seluruh dokumen usang demi keselamatan santri.
-
-
-
-- `METHODOLOGY/epistemic_traceability.md`: Pedoman penelusuran silsilah dokumen dari masa lalu hingga sistem modern.
-- `PROBE/PROBE_01/P00000-Mengapa-Ekosistem-TUMBUH-Membutuhkan-Branch-V2.md`: Menjelaskan pemisahan branch v2.0.0 sebagai evolusi dari fondasi warisan v1.
-- `PROBE/PROBE_01/P00010-Mengapa-Repositori-Dipisahkan-Berdasarkan-Fungsi-Lapisan-Epistemik.md`: Menjelaskan arsitektur stratifikasi repositori.
-- `PROBE/PROBE_01/P00016-Peran-Lapisan-09_RESEARCH.md`: Menjelaskan tata cara pengarsipan proyek riset yang telah selesai masa aktifnya.
----
-
-## 11. Catatan Kaki Akademis (*Footnotes*) & Bibliografi Terkurasi
-
-Seluruh rujukan dalil syar'i, kitab turats klasik, dan pustaka sains kontemporer dalam naskah inkuiri ini dihubungkan secara presisi melalui sistem catatan kaki bernomor (*Numbered Scholarly Footnotes Apparatus*):
-
-[^1]: Jenkinson, H. (1937). *A manual of archive administration* (2nd ed.). Percy Lund, Humphries & Co.
-[^2]: An-Nahhas, A. J. (1991). *An-Nasikh wa al-mansukh fi al-Qur'an al-karim* (S. al-Lahiq, Ed.). Mu'assasah ar-Risalah.
-[^3]: As-Suyuthi, J. (2005). *Al-Itqan fi 'ulum al-Qur'an* (Jilid 2). Markaz al-Dirasat al-Qur'aniyyah.
-[^4]: Al-Bukhari, M. I. (1986). *At-Tarikh al-kabir* (Jilid 1). Dar al-Kutub al-'Ilmiyyah.
-[^5]: Ibn Hajar al-Asqalani, A. (1984). *Tahdzib at-tahdzib* (Jilid 1). Dar al-Fikr.
-[^6]: Schellenberg, T. R. (2003). *Modern archives: Principles and techniques* (Original work published 1956). Society of American Archivists.
-[^7]: Lavoie, B. (2014). *The Open Archival Information System (OAIS) reference model: Introductory guide* (2nd ed.). Digital Preservation Coalition.
-[^8]: Pearce-Moses, R. (2005). *A glossary of archival and records terminology*. Society of American Archivists.
-[^9]: Foucault, M. (1972). *The archaeology of knowledge and the discourse on language* (A. M. Sheridan Smith, Trans.). Pantheon Books.
-[^10]: Duranti, L. (1998). *Diplomatics: New uses for an old science*. Scarecrow Press.
-[^11]: Millar, L. A. (2017). *Archives: Principles and practices* (2nd ed.). Neal-Schuman Publishers.
-
-## 12. Rekomendasi Aksi Nyata Bagi Manajemen Repositori dan Arsiparis Pesantren
-
-Berdasarkan temuan penyelidikan arsitektural ini, tindakan nyata berikut diinstruksikan kepada pengelola repositori:
-
-1. **Audit Sapu Bersih Folder Operasional**:
-   Lakukan penyisiran terhadap seluruh folder aktif (`01`, `02`, `03`). Identifikasi seluruh file yang sudah tidak relevan atau telah digantikan oleh instrumen baru, lalu pindahkan ke `99_ARCHIVE/` via `git mv`.
-2. **Pemasangan Banner Tombstone Universal**:
-   Pastikan seluruh dokumen yang telah dipindahkan ke dalam `99_ARCHIVE/` memiliki kotak peringatan tombstone yang mencantumkan tautan ke berkas pengganti kanonik.
-3. **Penyusunan Katalog Indeks Arsip Repositori**:
-   Buat dan perbarui berkas `99_ARCHIVE/README.md` yang memuat tabel kronologis seluruh dokumen pensiun lengkap dengan tahun aktif dan alasan pemindahannya.
-4. **Pencegahan Penghapusan Berkas di Kebijakan Git**:
-   Konfigurasikan perlindungan branch pada repositori git utama agar perintah penghapusan berkas (*file deletion*) di folder berbobot nilai diblokir dan wajib diarahkan ke alur pemindahan arsip.
-5. **Pelatihan Literasi Kearsipan bagi Staf Sekretariat**:
-   Berikan workshop bagi tim tata usaha pesantren mengenai pentingnya menjaga rekam jejak digital demi kepentingan akreditasi dan perlindungan hukum lembaga.
-6. **Integrasi Linter Otomatis pada Pipeline CI**:
-   Aktifkan skrip python pemeriksa dependensi terbalik agar tidak ada dokumen operasional aktif yang secara keliru merujuk ke berkas pensiun di `99_ARCHIVE/`.
+if __name__ == "__main__":
+    errs = audit_archive_immutability() + audit_reverse_dependencies()
+    if errs:
+        print("[GAGAL AUDIT CI/CD] Pelanggaran Arsitektur Tata Kelola Arsip Ditemukan:")
+        for e in errs:
+            print(f" - {e}")
+        sys.exit(1)
+    else:
+        print("[SUKSES AUDIT CI/CD] Seluruh berkas Lapisan 99_ARCHIVE mematuhi aturan preservasi cagar sejarah.")
+        sys.exit(0)
+```
 
 ---
 
-## 13. Emergent Questions & Inkuiri Lanjutan (Chain of Inquiry)
+## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0017)
 
-Ketetapan mengenai fungsi arsip epistemik membuka ruang penyelidikan untuk entitas repositori penunjang berikutnya:
+### 10.1. Konteks Masalah
+Dalam proses transisi masif dari repositori v1 menuju v2.0.0, terdapat puluhan dokumen lama yang harus dibersihkan dari jalur kerja aktif agar tidak membingungkan musyrif lapangan. Namun, jika dokumen-dokumen v1 tersebut dihapus secara permanen (*hard delete*), repositori akan kehilangan memori kelembagaan (*institutional memory*) dan silsilah argumentasi historis yang melatarbelakangi lahirnya versi 2.0.0.
 
-- **P00018**: *Posisi Pustaka REFERENCES/: Tata Kelola Bibliografi Rujukan Terkurasi Lintas Disiplin Ilmu.* (Menyelidiki bagaimana memvalidasi, menyeleksi, dan mengelola pustaka rujukan eksternal agar tidak menjadi tumpukan daftar buku pajangan).
-- **P00019**: *Kedudukan Direktori METHODOLOGY/: Mengatur Tata Cara Kerja Penyelidikan Tanpa Mengatur Isi Substansi Sistem.* (Membahas batas metodologi agar pedoman riset tidak berubah menjadi doktrin filsafat).
+Dalam perspektif rekayasa perangkat lunak dan manajemen konfigurasi enterprise, keputusan untuk mengunci direktori 99_ARCHIVE/ secara read-only dan melarang hard deletion merupakan langkah fundamental untuk menjamin integritas referensial jangka panjang. Banyak proyek open source besar dan repositori korporasi mengalami kerusakan silsilah ketika pengembang secara ceroboh menghapus file lama yang masih dijadikan dependensi historis oleh modul lain. Dengan memberlakukan pola tombstone dan soft delete, repositori TUMBUH v2.0.0 menetapkan standar ketertelusuran yang setara dengan sistem kontrol versi perbankan dan laboratorium riset nuklir, di mana setiap audit jejak rekam jejak keputusan dapat diverifikasi secara independen hingga ke komit awal repositori didirikan.
+
+### 10.2. Keputusan yang Ditetapkan (Decision Outcome)
+Majelis Epistemik dan Dewan Pengembang Repositori menetapkan keputusan arsitektural baku berikut:
+
+1. **Penetapan Status Cagar Museum Epistemik**:
+   Direktori `99_ARCHIVE/` ditetapkan berstatus ontologis sebagai *Museum Epistemik dan Cagar Silsilah Sejarah Sistem*. Berkas di dalamnya dibekukan secara permanen (*immutable read-only*) dan memiliki daya paksa yuridis nol (*zero legal authority*).
+2. **Kewajiban Pola Soft Delete dan Git Move**:
+   Dilarang keras melakukan pemusnahan dokumen usang secara permanen (*hard delete via git rm*). Seluruh berkas yang pensiun wajib dipindahkan secara bermartabat menggunakan perintah `git mv` ke dalam salah satu dari lima sub-direktori kanonik `99_ARCHIVE/`.
+3. **Penyematan Wajib Nisan Digital (Mandatory Tombstoning)**:
+   Setiap berkas arsip wajib disemati *Canonical Tombstone Banner* di bagian paling atas dokumen yang menjelaskan tanggal pencabutan, alasan pembatalan, nomor ADR ratifikasi, dan tautan ke dokumen aktif penggantinya.
+4. **Pencegahan Ketergantungan Terbalik (Reverse Dependency Blocker)**:
+   Sistem CI/CD Git repositori dikonfigurasi untuk memblokir setiap berkas aktif di `01_` hingga `03_` yang mencoba menghidupkan kembali berkas di dalam arsip tanpa proses amandemen formal.
+
+### 10.3. Konsekuensi dan Mitigasi
+- **Konsekuensi Positif**:
+  - Folder kerja aktif bersih total dari polusi dokumen hantu (*zero ghost document pollution*).
+  - Silsilah sejarah intelektual dan alasan arsitektural masa lalu terpelihara utuh selamanya (*100% provenance preserved*).
+  - Pesantren terlindungi secara hukum dari risiko tuntutan sengketa masa lalu karena memiliki rekam jejak otentik.
+- **Konsekuensi Negatif & Mitigasi**:
+  - *Ukuran Repositori Membesar Seiring Waktu*: Akumulasi berkas arsip dapat memperbesar ukuran clone git repositori.  
+    *Mitigasi*: Format dokumen dikunci murni berbasis teks polos Markdown (*lightweight plain text*) dan memanfaatkan fitur *git sparse-checkout* untuk lingkungan musyrif lapangan yang membutuhkan akses hemat memori.
+
+---
+
+## 11. Implikasi Berlapis Repositori TUMBUH & 7 Batasan Mutlak (The 7 Canonical Guardrails)
+
+### 11.1. Implikasi Berlapis Tata Kelola Arsip pada Seluruh Arsitektur Repositori
+Pemberlakuan tata kelola cagar kearsipan di `99_ARCHIVE/` memberikan perlindungan stabilitas sistemik yang menjangkau seluruh lapisan ekosistem TUMBUH:
+
+- **Pada Lapisan 01_FUNDAMENTAL/**:
+  Menjamin bahwa setiap evolusi filosofis terdokumentasi secara transparan. Dokumen inti masa kini memiliki legitimasi yang kokoh karena dapat membuktikan mengapa pemikiran versi terdahulu diperbarui.
+- **Pada Lapisan 02_IMPLEMENTATION/**:
+  Memberikan kepastian hukum bagi struktur kelembagaan pesantren, mencegah terjadinya tumpang tindih regulasi lama yang lupa dicabut dengan regulasi baru yang sedang berjalan.
+- **Pada Lapisan 03_OPERATIONAL/**:
+  Memberikan perlindungan mutlak bagi para musyrif lapangan dari risiko malapraktik penegakan disiplin santri. Musyrif dijamin tidak akan pernah salah membuka formulir atau SOP yang memuat hukuman fisik yang sudah diharamkan.
+- **Pada Komunitas Peneliti & Sejarawan Lembaga**:
+  Menyediakan laboratorium historis yang kaya untuk mengkaji evolusi pemikiran pendidikan Islam dari masa ke masa (*tarikh at-tarbiyah al-islamiyyah*).
+
+---
+
+Prinsip keterlacakan sejarah ini menjamin bahwa seluruh pemangku kepentingan pesantren—mulai dari dewan pembina yayasan, pimpinan pondok, majelis masyayikh, wali santri, hingga para alumni—memiliki rasa kepemilikan dan kepercayaan yang mendalam terhadap kontinuitas nilai-nilai kelembagaan. Ketiadaan amnesia institusional menjadikan pesantren sebagai mercusuar peradaban yang berwibawa, kokoh menghadapi perubahan zaman, dan senantiasa dirahmati oleh Allah Ta'ala.
+
+### 11.2. Dimensi Eskatologis Pemeliharaan Rekam Jejak Sejarah Peradaban
+Secara teologis dan eskatologis, memelihara kejujuran arsip adalah bagian dari penegakan keadilan Ilahi. Di hari kiamat kelak, seluruh lembaran amal perbuatan manusia akan dibentangkan tanpa ada satu pun catatan yang dizalimi atau dimanipulasi. Allah Ta'ala berfirman:
+```text
+وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
+```
+> *"Dan diletakkanlah kitab (catatan amal), lalu engkau akan melihat orang-orang yang bersalah merasa takut terhadap apa yang tertulis di dalamnya, dan mereka berkata: 'Aduhai celakalah kami, kitab apakah ini yang tidak meninggalkan yang kecil dan tidak pula yang besar, melainkan mencatat semuanya!' Dan mereka mendapati apa yang telah mereka kerjakan ada (tertulis). Dan Tuhanmu tidak menzalimi seorang jua pun." (QS. Al-Kahfi: 49).*
+
+Pengurus pesantren yang dengan sengaja menghapus catatan arsip untuk menutupi kelalaian manajemennya atau memalsukan tanggal dokumen demi kepentingan duniawi telah melakukan pengkhianatan amanah hisab (*khiyanat al-amanah*). Sebaliknya, kurator yang memelihara cagar arsip secara jujur, objektif, dan transparan sedang menjalankan ibadah mulia untuk memastikan bahwa kebenaran tetap berdiri tegak melintasi zaman.
+
+---
+
+### 11.3. Tujuh Batasan Mutlak Penanganan Cagar Arsip (The 7 Canonical Guardrails)
+Seluruh pengembang, administrator repositori, dan praktisi kelembagaan terikat secara mutlak oleh tujuh batasan kearsipan (*guardrails*) berikut:
+
+1. **Guardrail 1: Larangan Pemusnahan Permanen Dokumen Sejarah (Hard Delete Ban)**:
+   Diharamkan menghapus berkas-berkas historis, instrumen v1, atau SOP lama secara permanen dari repositori Git menggunakan `git rm` tanpa memindahkannya terlebih dahulu ke `99_ARCHIVE/`.
+2. **Guardrail 2: Larangan Modifikasi Naskah Arsip (Archive Immutability Mandate)**:
+   Diharamkan mengedit, merevisi, atau memperbarui isi teks historis di dalam `99_ARCHIVE/`. Berkas arsip dikunci berstatus *Read-Only* mutlak. Koreksi fakta historis hanya boleh dilakukan melalui pembuatan dokumen adendum terpisah.
+3. **Guardrail 3: Larangan Kebangkitan Dokumen Hantu (Zombie Reactivation Ban)**:
+   Diharamkan menerapkan prosedur, sanksi, atau panduan yang tersimpan di dalam `99_ARCHIVE/` ke dalam rutinitas santri di asrama tanpa melalui proses ratifikasi inkuiri baru di `PROBE/` dan pengesahan ADR.
+4. **Guardrail 4: Kewajiban Penyematan Nisan Digital Lengkap (Mandatory Tombstone Banner)**:
+   Diharamkan memindahkan berkas ke dalam direktori arsip tanpa menyertakan metadata nisan (*tombstone*) lengkap yang memuat tanggal pensiun, alasan pencabutan, dan berkas pengganti yang sah.
+5. **Guardrail 5: Larangan Polusi Dokumen Usang di Direktori Aktif (Active Cleanliness Mandate)**:
+   Diharamkan membiarkan draf lama atau SOP yang telah dicabut statusnya tersimpan di dalam direktori kerja aktif `01_`, `02_`, atau `03_`. Folder aktif harus steril dari dokumen kadaluwarsa.
+6. **Guardrail 6: Larangan Pemutusan Rantai Keterlacakan (Provenance Trail Protection)**:
+   Diharamkan memindahkan berkas arsip dengan cara manual *copy-paste* yang menghilangkan jejak commit Git. Pemindahan wajib menggunakan perintah `git mv` demi menjaga silsilah kepengarangan.
+7. **Guardrail 7: Kewajiban Pelindungan Data Pribadi Santri Masa Lalu (Archival Privacy & Safeguarding)**:
+   Berkas arsip lama yang memuat identitas spesifik santri (*PII*), catatan aib keluarga, atau rekam medis batin wajib dianonimkan atau dikurung di dalam sub-direktori berkeamanan tinggi dengan izin akses terbatas.
+
+## 12. Kesimpulan Sintesis & Emergent Research Questions
+
+### 12.1. Kesimpulan Sintesis Jawaban atas TUMBUH Question
+Sebagai jawaban tuntas atas *TUMBUH Question* yang dirumuskan di awal monograf ini:
+> *"Bagaimana memindahkan dan mengelola dokumen, SOP, instrumen, atau draf filosofi lama yang sudah tidak lagi berlaku agar tidak mengotori direktori kerja aktif, namun tetap terpelihara silsilah sejarah intelektualnya (*provenance*) dan tidak membingungkan pengguna sistem di lingkungan pesantren?"*
+
+Penyelidikan kanonik ini menyimpulkan bahwa pengelolaan dokumen usang diselesaikan secara sempurna melalui **Arsitektur Cagar Arsip Epistemik (*Epistemic Museum Architecture*)** yang memadukan hikmah ushuliyyah turats mengenai pencatatan ayat mansukh dengan pola rekayasa *Tombstoning and Soft Deletion*. Direktori `99_ARCHIVE/` berkedudukan sebagai museum beku yang menjaga memori kelembagaan tanpa membiarkan dokumen kadaluwarsa tersebut mencemari lantai operasional asrama.
+
+Dengan menerapkan protokol pemindahan bermartabat (*git mv*), penyematan nisan digital (*tombstone banner*), dan pemblokiran otomatis ketergantungan terbalik melalui linter CI/CD, repositori TUMBUH v2.0.0 berhasil menciptakan lingkungan kerja operasional yang bersih dan jernih, seraya tetap memelihara sanad sejarah intelektual para perintis terdahulu. Pesantren melangkah maju menuju masa depan tanpa pernah melupakan jejak perjuangan masa lalu.
+
+---
+
+Keberadaan direktori 99_ARCHIVE/ dalam ekosistem TUMBUH v2.0.0 menjadi jaminan bahwa masa lalu tidak pernah diperlakukan sebagai beban yang memalukan, melainkan sebagai pusaka hikmah yang dijaga kehormatannya. Dengan memisahkan antara teks yang aktif mengikat santri dengan teks yang pasif menjadi saksi sejarah, pesantren memiliki kelincahan untuk terus berinovasi menyongsong tantangan zaman modern, seraya kakinya tetap berpijak kokoh pada akar tradisi keilmuan yang diwariskan oleh para ulama dan perintis terdahulu. Keseimbangan dinamis inilah yang memelihara keberkahan sanad dan kontinuitas peradaban ta'dib.
+
+### 12.2. Emergent Research Questions (Arah Penyelidikan Menuju P00018)
+Dengan tuntasnya perumusan fungsi dan tata kelola cagar arsip `99_ARCHIVE/` pada berkas `P00017`, repositori kini membutuhkan standardisasi bagi sumber-sumber rujukan eksternal dan pustaka literatur yang menjadi rujukan otoritatif bagi seluruh kajian, yakni direktori `REFERENCES/`.
+
+Dua *Emergent Research Questions* dirumuskan secara terarah menuju naskah berikutnya:
+1. **Pertanyaan Demarkasi Sumber Primer dan Sekunder**: Bagaimana tata kelola direktori `REFERENCES/` memisahkan secara ketat antara kitab turats klasik primer (*al-kutub al-ashliyyah*), monograf saintifik internasional, dan literatur sekunder tanpa mencampuradukkan derajat otoritas keilmuannya?
+2. **Pertanyaan Standardisasi Sitasi Bebas Bias Komersial**: Bagaimana mekanisme kurasi bibliografi repositori TUMBUH mensterilkan pustaka rujukan dari tautan paywall komersial seraya menjaga akurasi takhrij hadits dan verifikasi sanad teks klasik?
+
+Penyelidikan mendalam atas kedua pertanyaan kritis ini menjadi fokus utama monograf berikutnya:  
+$$\Downarrow$$  
+**Lanjut ke Penyelidikan Berikutnya:** [`P00018 - Posisi Pustaka REFERENCES/: Tata Kelola Bibliografi Rujukan Terkurasi Lintas Disiplin Ilmu`](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00018-Posisi-Pustaka-REFERENCES.md)
+
+---
+
+## 13. Catatan Kaki Akademis (Footnotes) & Bibliografi Terkurasi
+
+### 13.1. Catatan Kaki Akademis Bernomor (*Numbered Scholarly Footnotes*)
+
+[^1]: Pembahasan mendalam mengenai model preservasi arsip digital internasional dapat ditelusuri pada ISO 14721:2012 (*Space data and information transfer systems — Open archival information system — Reference model*).
+[^2]: Lihat Imam Jalaluddin as-Suyuthi, *al-Itqan fi 'Ulum al-Qur'an* (Kairo: Dar al-Hadits, 2006, Juz 2, hlm. 73–82). As-Suyuthi menguraikan secara rinci hikmah ilahiyyah di balik pelestarian bacaan ayat-ayat yang telah dimansukh hukum amaliyahnya.
+[^3]: Fakhruddin ar-Razi, *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Riyadh: Jami'at al-Imam Muhammad bin Su'ud, 1979, Jilid 4, hlm. 410–418).
+[^4]: Ibnu Khaldun, Abdurrahman bin Muhammad. (2001). *Muqaddimah Ibnu Khaldun* (hlm. 287–295). Beirut: Dar al-Fikr. Pembedaan antara pemeliharaan rekam jejak sejarah peradaban yang jujur dengan fabrikasi legitimasi kekuasaan.
+[^5]: International Organization for Standardization. (2012). *Space data and information transfer systems — Open archival information system (OAIS) — Reference model* (ISO Standard No. 14721:2012).
+[^6]: Fowler, Martin. (2013). *Patterns of Enterprise Application Architecture*. Boston: Addison-Wesley. Konsep *tombstone record* dan *soft deletion patterns*.
+[^7]: Kleppmann, Martin. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. Sebastopol: O'Reilly Media.
+[^8]: Walsh, James P., & Ungson, Gerardo Rivera. (1991). "Organizational Memory". *Academy of Management Review*, 16(1), 57–91.
+[^9]: Stein, Eric W., & Zwass, Vladimir. (1995). "Actualizing Organizational Memory with Information Systems". *Information Systems Research*, 6(2), 85–117.
+[^10]: Choo, Chun Wei. (2002). *Information Management for the Intelligent Organization: The Art of Scanning the Environment* (3rd ed.). Medford: Information Today.
+[^11]: Al-Attas, Syed Muhammad Naquib. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Kuala Lumpur: ABIM.
+[^12]: Al-Ghazali, Abu Hamid. (1904). *Al-Mustashfa min 'Ilm al-Ushul* (Juz 1, hlm. 107–115). Bulaq: Al-Mathba'ah al-Amiriyyah. Pembahasan mengenai nasakh dan kesinambungan hukum syariat.
+[^13]: Asy-Syathibi, Abu Ishaq. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (Tahqiq Masyhur Hasan Salman, Juz 3, hlm. 142–155). Khobar: Dar Ibnu 'Affan.
+[^14]: Cook, Terry. (2001). "Archival science and postmodernisms: new formulations for old concepts". *Archival Science*, 1(1), 3–24.
+[^15]: Duranti, Luciana. (1998). *Diplomatics: New Uses for an Old Science*. Lanham: Scarecrow Press. Teori keaslian dan integritas dokumen arsip digital.
+
+---
+
+### 13.2. Bibliografi Terkurasi (50+ Entri APA 7th Edition Tanpa Pranala Komersial)
+
+1. Al-Attas, S. M. N. (1980). *The Concept of Education in Islam: A Framework for an Islamic Philosophy of Education*. Muslim Youth Movement of Malaysia (ABIM).
+2. Al-Bukhari, M. I. (2002). *Shahih al-Bukhari: Al-Jami' ash-Shahih al-Musnad min Umur Rasulillah SAW wa Sunanihi wa Ayyamihi* (M. Z. An-Nashir, Tahqiq). Dar Thawq an-Najah.
+3. Al-Ghazali, A. H. M. (1904). *Al-Mustashfa min 'Ilm al-Ushul* (Juz 1–2). Al-Mathba'ah al-Amiriyyah.
+4. Al-Ghazali, A. H. M. (1993). *Ihya' 'Ulum ad-Din* (Juz 1–4). Dar al-Hadi.
+5. Al-Mawardi, A. H. (1989). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*. Dar al-Kutub al-'Ilmiyyah.
+6. Al-Qarafi, A. I. (1998). *Al-Furuq: Anwa' al-Buruq fi Anwa' al-Furuq* (K. Al-Mansur, Tahqiq; Juz 1–4). Dar al-Kutub al-'Ilmiyyah.
+7. Al-Syathibi, I. M. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. H. Salman, Tahqiq; Juz 1–6). Dar 'Affan.
+8. Ar-Razi, F. D. (1979). *Al-Mahshul fi 'Ilm Ushul al-Fiqh* (T. J. Al-'Alwani, Tahqiq; Jilid 1–6). Jami'at al-Imam Muhammad bin Su'ud.
+9. As-Suyuthi, J. A. (1983). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah*. Dar al-Kutub al-'Ilmiyyah.
+10. As-Suyuthi, J. A. (2006). *Al-Itqan fi 'Ulum al-Qur'an* (Juz 1–2). Dar al-Hadits.
+11. Bhaskar, R. (1975). *A Realist Theory of Science*. Leeds Books.
+12. Biesta, G. (2010). *Good Education in an Age of Measurement: Ethics, Politics, Democracy*. Paradigm Publishers.
+13. Campbell, D. T. (1979). Assessing the impact of planned social change. *Evaluation and Program Planning*, 2(1), 67–90.
+14. Choo, C. W. (2002). *Information Management for the Intelligent Organization: The Art of Scanning the Environment* (3rd ed.). Information Today.
+15. Cook, T. (2001). Archival science and postmodernisms: New formulations for old concepts. *Archival Science*, 1(1), 3–24.
+16. Cox, R. J. (2001). *Managing Records as Evidence and Knowledge*. Greenwood Publishing Group.
+17. Creswell, J. W., & Creswell, J. D. (2018). *Research Design: Qualitative, Quantitative, and Mixed Methods Approaches* (5th ed.). SAGE Publications.
+18. Dekker, S. (2011). *Drift into Failure: From Hunting Broken Components to Understanding Complex Systems*. Ashgate Publishing.
+19. Denzin, N. K., & Lincoln, Y. S. (Eds.). (2018). *The SAGE Handbook of Qualitative Research* (5th ed.). SAGE Publications.
+20. Dijkstra, E. W. (1982). On the role of scientific thought. In *Selected Writings on Computing: A Personal Perspective* (pp. 60–66). Springer.
+21. Duranti, L. (1998). *Diplomatics: New Uses for an Old Science*. Scarecrow Press.
+22. Fowler, M. (2013). *Patterns of Enterprise Application Architecture*. Addison-Wesley.
+23. Goodhart, C. A. E. (1975). Problems of monetary management: The U.K. experience. In *Papers in Monetary Economics* (Vol. 1). Reserve Bank of Australia.
+24. Habermas, J. (1971). *Knowledge and Human Interests* (J. J. Shapiro, Trans.). Beacon Press.
+25. Hacking, I. (1983). *Representing and Intervening: Introductory Topics in the Philosophy of Natural Science*. Cambridge University Press.
+26. Hedstrom, M. (2002). Archives, memory, and interfaces with the past. *Archival Science*, 2(1), 21–43.
+27. Ibnu Farhun, B. D. (1986). *Tabshirat al-Hukkam fi Ushul al-Aqdhiyah wa Manahij al-Ahkam* (Juz 1–2). Maktabah al-Kulliyyat al-Azhariyyah.
+28. Ibnu Khaldun, A. R. (2001). *Muqaddimah Ibnu Khaldun*. Dar al-Fikr.
+29. Ibnu Manzhur, M. M. (1993). *Lisan al-'Arab* (Juz 1–15). Dar Shadir.
+30. Ibnu Qudamah al-Maqdisi, M. D. (1993). *Raudhat an-Nazhir wa Jannat al-Munazhir fi Ushul al-Fiqh* (Juz 1–2). Maktabah ar-Rusyd.
+31. Ibnu al-Qayyim al-Jauziyyah, S. D. (1961). *At-Turuq al-Hukmiyyah fi as-Siyasah asy-Syar'iyyah*. Matba'ah al-Madani.
+32. Ibnu al-Qayyim al-Jauziyyah, S. D. (1991). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Juz 1–4). Dar al-Jil.
+33. International Organization for Standardization. (2012). *Space data and information transfer systems — Open archival information system (OAIS) — Reference model* (ISO Standard No. 14721:2012).
+34. Jenkinson, H. (1937). *A Manual of Archive Administration* (2nd ed.). Percy Lund, Humphries & Co.
+35. Kelsen, H. (1967). *Pure Theory of Law* (M. Knight, Trans.). University of California Press.
+36. Kleppmann, M. (2017). *Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems*. O'Reilly Media.
+37. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+38. Lakatos, I. (1978). *The Methodology of Scientific Research Programmes*. Cambridge University Press.
+39. March, J. G. (1991). Exploration and exploitation in organizational learning. *Organization Science*, 2(1), 71–87.
+40. Meadows, D. H. (2008). *Thinking in Systems: A Primer*. Chelsea Green Publishing.
+41. Merton, R. K. (1973). *The Sociology of Science: Theoretical and Empirical Investigations*. University of Chicago Press.
+42. Muslim, I. H. (2006). *Shahih Muslim* (M. F. 'Abdul Baqi, Tahqiq). Dar Thayyibah.
+43. Nonaka, I., & Takeuchi, H. (1995). *The Knowledge-Creating Company: How Japanese Companies Create the Dynamics of Innovation*. Oxford University Press.
+44. Popper, K. R. (1959). *The Logic of Scientific Discovery*. Hutchinson.
+45. Schellenberg, T. R. (1956). *Modern Archives: Principles and Techniques*. University of Chicago Press.
+46. Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
+47. Stein, E. W., & Zwass, V. (1995). Actualizing organizational memory with information systems. *Information Systems Research*, 6(2), 85–117.
+48. Stokes, D. E. (1997). *Pasteur's Quadrant: Basic Science and Technological Innovation*. Brookings Institution Press.
+49. Taleb, N. N. (2010). *The Black Swan: The Impact of the Highly Improbable* (2nd ed.). Random House.
+50. Upward, F. (2000). Modelling the continuum as an engine of creative tension. *Recordkeeping Metadata Journal*, 10(1), 32–49.
+51. Walsh, J. P., & Ungson, G. R. (1991). Organizational memory. *Academy of Management Review*, 16(1), 57–91.
+52. Wan Daud, W. M. N. (1998). *The Educational Philosophy and Practice of Syed Muhammad Naquib al-Attas: An Exposition of the Concept of Ta'dib*. ISTAC.
+53. Yakel, E. (2001). Digital preservation: The visual turnaround. *The American Archivist*, 64(1), 120–139.
