@@ -54,18 +54,14 @@ Tragedi ini menggambarkan patologi **Performative Compliance (Kepatuhan Munafik)
 ### 3.2. Enam Patologi Kelembagaan Akibat Kehilangan Fondasi Filosofis
 Berdasarkan investigasi analitis terhadap puluhan institusi pendidikan Islam di Indonesia, teridentifikasi enam patologi sistemik pembusukan lembaga akibat ketiadaan fondasi konseptual yang kokoh:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│          ENAM PATOLOGI KELEMBAGAAN PENDIDIKAN TANPA FONDASI                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Performative Compliance Syndrome : Kepatuhan semu & kemunafikan adab     │
-│ 2. Novel Dilemma Paralysis          : Musyrif lumpuh menghadapi tren baru   │
-│ 3. Epistemic Schizophrenia          : Teori kelas bertolak belakang dgn SOP │
-│ 4. Musyrif Chronic Burnout          : Pengasuh terdegradasi jadi satpam     │
-│ 5. Charismatic Single-Point-Failure : Keruntuhan sistem pasca-wafat kyai    │
-│ 6. Unfiltered Eclectic Adulteration : Penyerapan teori sekuler perusak adab │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| No | Patologi Kelembagaan | Manifestasi Lapangan & Dampak Kerusakan |
+| :-: | :--- | :--- |
+| **1** | **Performative Compliance Syndrome** | Kepatuhan semu & kemunafikan adab (santri taat hanya bila diawasi) |
+| **2** | **Novel Dilemma Paralysis** | Musyrif lumpuh dan bingung saat menghadapi tren permasalahan baru santri |
+| **3** | **Epistemic Schizophrenia** | Teori dan materi di kelas bertolak belakang secara fatal dengan praktik SOP kamar |
+| **4** | **Musyrif Chronic Burnout** | Pengasuh terdegradasi menjadi sekadar satpam penjaga malam tanpa makna tarbiyah |
+| **5** | **Charismatic Single-Point-Failure** | Keruntuhan tata kelola dan arah pondok pasca-wafatnya kiai pendiri kharismatik |
+| **6** | **Unfiltered Eclectic Adulteration** | Penyerapan teori-teori sekuler yang merusak adab dan mereduksi fitrah santri |
 
 1. **Sindrom Santri Mekanik & Kepatuhan Munafik (Performative Compliance Syndrome)**:
    Santri dididik melalui instrumen pemaksaan lahiriah yang tidak berakar pada pemahaman fitrah dan tazkiyatun nufus. Santri tertib semata-mata karena ada pengawas. Akibatnya, terjadi pelepasan moral (*moral disengagement*) masif begitu santri keluar dari gerbang pesantren.
@@ -96,15 +92,11 @@ Kitab Suci Al-Qur'an al-Karim telah meletakkan hukum kausalitas arsitektural yan
 Imam Ibnu Jarir ath-Thabari dalam *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an* (Jilid 16, hlm. 568–572) menjelaskan bahwa kalimat thayyibah adalah tauhid dan keimanan yang menghunjam di lubuk hati seorang mukmin. Akarnya yang teguh (*ashluha tsabit*) adalah pemahaman makrifat yang kokoh tentang Allah di dalam kalbu, sedangkan cabangnya yang menjulang (*far'uha fis-sama'*) adalah amal shalih, akhlak mulia, dan adab pergaulan yang naik ke haribaan Allah Ta'ala.
 
 Ayat agung ini menetapkan hukum deduktif tarbiyah yang tidak terbantahkan:
-```text
-           BUAH ADAB & KEMANDIRIAN (Tu'ti Ukulaha)
-                             ▲
-                             │ (Buah yang Lahir)
-           CABANG KURIKULUM & SOP (Far'uha fis-Sama')
-                             ▲
-                             │ (Cabang yang Menopang)
-           AKAR FONDASI FILOSOFIS (Ashluha Tsabit)
-```
+| Struktur Pohon (*Syajarah*) | Landasan Qur'ani | Lapisan Repositori TUMBUH | Makna Filosofis & Pedagogis |
+| :--- | :--- | :--- | :--- |
+| **Akar yang Menghunjam** | *Ashluha Tsabit* (QS. Ibrahim: 24) | `01_FUNDAMENTAL/01_FOUNDATION` | 9 Domain Filosofis: Worldview, Epistemologi, Fitrah Insan, dan Qudwah |
+| **Batang & Cabang Menjulang** | *Far'uha fis-Sama'* (QS. Ibrahim: 24) | `02_CORE_MODEL` & `02_IMPLEMENTATION` | Kurikulum, kerangka PBIS Multi-Tier, dan jenjang kemandirian J1–J4 |
+| **Buah yang Ranum** | *Tu'ti Ukulaha Kulla Hin* (QS. Ibrahim: 25) | Praktik Lapangan Santri & Musyrif | Buah adab luhur, kemandirian fitrah, ketakwaan, dan ukhuwah islamiyyah |
 Mengharapkan lahirnya buah adab santri yang konsisten tanpa terlebih dahulu menanam dan memperkuat akar fondasinya adalah kemustahilan metodologis yang bertentangan dengan sunnatullah penciptaan.
 
 ### 4.2. Bahaya Membangun di Atas Tanah Tanpa Fondasi Menurut Hujjatul Islam Al-Ghazali
@@ -156,25 +148,12 @@ Brooks membuktikan bahwa integritas konseptual adalah faktor penentu tunggal apa
 - Lembaga yang mengumpulkan berbagai program bagus secara terpisah (misalnya: program tahfizh karantina dari metode X, tata tertib disiplin militer dari metode Y, dan pelatihan kepemimpinan sekuler dari metode Z) tanpa satu kesatuan filosofis induk akan melahirkan sistem yang terpecah-belah dan membingungkan santri.
 - Integritas konseptual hanya dapat diraih apabila seluruh modul kurikulum, evaluasi perilaku, dan intervensi asrama mencerminkan **satu filosofi desain yang seragam (*one set of design ideas*)**. Lapisan `Foundation` di gerbang pertama TUMBUH v2.0.0 dirancang secara spesifik untuk menjadi sumber tunggal integritas konseptual tersebut.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       ARSITEKTUR INTEGRITAS KONSEPTUAL                      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                    01_FUNDAMENTAL/01_FOUNDATION/                            │
-│                 (Root of Meaning & Ubiquitous Language)                     │
-│                                  │                                          │
-│        ┌─────────────────────────┴─────────────────────────┐                │
-│        ▼                                                   ▼                │
-│ 01_CORE_MODEL/ (J1–J4 Growth)             02_IMPLEMENTATION/ (Governance)   │
-│        │                                                   │                │
-│        └─────────────────────────┬─────────────────────────┘                │
-│                                  ▼                                          │
-│                       03_OPERATIONAL/ (SOP & Tools)                         │
-│                                                                             │
-│ SELURUH LAPISAN BERBICARA DALAM SATU FREKUENSI SEMANTIK DAN FILOSOFI YANG   │
-│ SAMA PERSIS, BEBAS DARI KONTRADIKSI DAN DUPLIKASI SISTEMIK.                 │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Tingkatan Strata | Lokasi Folder Repositori | Fungsi & Peran Epistemik | Frekuensi Semantik & Harmonisasi |
+| :--- | :--- | :--- | :--- |
+| **Pintu Gerbang Utama** | `01_FUNDAMENTAL/01_FOUNDATION/` | *Root of Meaning & Ubiquitous Language* (Akar Makna Sistem) | Menjadi jangkar nilai tauhid dan definisi istilah kanonik abadi. |
+| **Model Inti Pertumbuhan** | `01_CORE_MODEL/` | Standarisasi Jenjang Pertumbuhan Santri (J1–J4) | Diturunkan secara deduktif dari domain fitrah dan perkembangan insan. |
+| **Jembatan Kebijakan** | `02_IMPLEMENTATION/` | Tata Kelola Kelembagaan, Standar Musyrif, PBIS Multi-Tier | Mengorkestrasi aturan operasional sesuai kerangka adab nabawiyyah. |
+| **Instrumen Lapangan** | `03_OPERATIONAL/` | SOP Asrama Harian, Checklist Kamar, Logbook Observasi | Bebas dari kontradiksi internal; seluruh tindakan lapangan selaras dengan nilai luhur hulu. |
 
 ### 5.2. First Principles Thinking (Penalaran Prinsip Pertama)
 Epistemologi penalaran modern yang dipelopori Aristoteles dan disempurnakan René Descartes membedakan dua cara berpikir dalam memecahkan masalah:
@@ -212,20 +191,11 @@ Dalam perumusan repositori TUMBUH, kerap terjadi ketegangan dialektis antara pen
 ### 6.2. Rekonsiliasi Epistemik: Fondasi Teoretis sebagai Alat Navigasi Terpraktis
 Repositori TUMBUH v2.0.0 menolak kedua ekstrem tersebut melalui sintesis dialektis (*Al-Jam'u wat-Taufiq*) yang kokoh:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       SINTESIS DIALEKTIKA EPISTEMIK                         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ • Tesis Pragmatis : Terjebak dalam kedangkalan mekanik (mengobati gejala)  │
-│ • Antitesis Teori : Terjebak dalam anarki tanpa instrumen implementasi      │
-│ • Sintesis TUMBUH : "NOTHING IS AS PRACTICAL AS A SOUND ARCHITECTURAL       │
-│                     FOUNDATION" (Tidak ada yang lebih praktis daripada      │
-│                     fondasi teori yang benar dan terstruktur rapi).         │
-│                                                                             │
-│ FONDASI FILOSOFIS BUKAN PENGHAMBAT AKSI, MELAINKAN KOMPAS NAVIGASI YANG    │
-│ MEMBUAT SETIAP AKSI MUSYRIF MEMILIKI NILAI IBADAH DAN EFEKTIVITAS ADAB.     │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Kutub Dialektika | Karakteristik Pendekatan | Dampak Negatif & Cacat Desain |
+| :--- | :--- | :--- |
+| **Tesis Pragmatis** | Tergesa-gesa menyusun SOP tanpa fondasi teori yang jelas | Terjebak dalam kedangkalan mekanik, hanya mengobati gejala luar, dan melahirkan kepatuhan palsu. |
+| **Antitesis Teori Murni** | Mengawang-awang dalam teori abstrak tanpa instrumen teknis | Terjebak dalam anarki lapangan tanpa panduan implementasi nyata bagi musyrif. |
+| **Sintesis TUMBUH** | *"Nothing is as practical as a sound architectural foundation"* | Fondasi filosofis bukan penghambat aksi, melainkan kompas navigasi yang menjadikan setiap aksi musyrif bernilai ibadah dan berdaya adab tinggi. |
 
 1. **Membedakan Gejala Permukaan (*Symptom*) dan Akar Kausalitas (*Root Cause*)**:
    Tindakan santri yang merokok atau kabur dari asrama hanyalah gejala permukaan (*behavioral symptoms*). Menyelesaikan gejala semata-mata dengan hukuman fisik tanpa memahami dorongan pencarian identitas, tekanan sebaya, dan kekosongan ruhani santri laksana mematikan alarm kebakaran tanpa memadamkan api yang sedang membakar rumah. Lapisan Foundation membedah akar kausalitas tersebut, sehingga tindakan yang dirumuskan pada lapisan operasional tepat sasaran dan berkesinambungan.
@@ -264,20 +234,12 @@ Pada awal tahun 2022, seorang santri berprestasi dikeluarkan secara sepihak oleh
 - Tiga orang santri senior melarikan diri dari asrama (*mass runaway*) dan mengunggah video pengakuan ke media sosial yang membongkar praktik kemunafikan dan jual beli poin di dalam pondok.
 - Yayasan memanggil tim penjamin mutu independen untuk melakukan audit mendalam. Hasil audit forensik menyimpulkan: **Sistem SPDD telah mencetak generasi santri yang licik, munafik, dan kehilangan kepekaan nurani (*moral bankruptcy*) akibat sistem disiplin yang mengabaikan pembinaan fitrah dan ruhani**.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│          KRONOLOGI KEGAGALAN SISTEM DISIPLIN POIN PESANTREN "D"             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 2018: Adopsi Cepat Tanpa Fondasi → Membeli software poin minus digital      │
-│                           │                                                 │
-│ 2019: Kepatuhan Semu      → Grafik pelanggaran turun, ketertiban mekanik    │
-│                           │ (Musyrif terbiasa hanya mengklik barcode)       │
-│ 2020: Erosi Moral         → Lahir "Mafia Poin", komersialisasi hukuman      │
-│                           │ (Adab hilang, dosa direduksi jadi kalkulasi)    │
-│ 2022: Ledakan Krisis      → Mogok santri, pelarian massal, DO santri sakit, │
-│                           │ audit independen membekukan total sistem SPDD   │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahun / Fase | Inisiatif Disiplin Lapangan | Dampak Sistemik & Titik Kritis Kegagalan |
+| :---: | :--- | :--- |
+| **2018** | **Adopsi Cepat Tanpa Fondasi** | Manajemen membeli software poin minus digital secara instan demi mengejar modernisasi. |
+| **2019** | **Kepatuhan Semu Mekanik** | Grafik pelanggaran di layar monitor menurun; musyrif kehilangan sentuhan tarbiyah dan hanya terbiasa mengklik barcode santri. |
+| **2020** | **Erosi Moral & Perdagangan Poin** | Lahir fenomena *"Mafia Poin"*, komersialisasi hukuman; adab hilang karena dosa direduksi menjadi sekadar kalkulasi angka. |
+| **2022** | **Ledakan Krisis & Pembekuan Sistem** | Terjadi mogok santri, pelarian massal (*kabur*), drop-out santri depresi; audit independen membekukan total sistem poin digital tersebut. |
 
 ### 7.2. Analisis Kausalitas Rekayasa Sistem: The Lack of Ontological Anchoring
 Kegagalan tragis Pesantren "D" adalah bukti tak terbantahkan mengenai bahaya melompati fondasi:
@@ -317,20 +279,13 @@ Kegagalan tragis Pesantren "D" adalah bukti tak terbantahkan mengenai bahaya mel
 
 ### 8.3. Spektrum Kontinum Internalisasi Nilai Adab Santri
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                 SPEKTRUM KONTINUM INTERNALISASI ADAB SANTRI                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ LEVEL 1: Amotivation            → Menolak aturan, membangkang, acuh tak acuh│
-│ LEVEL 2: External Regulation    → Patuh hanya karena takut poin / sanksi    │
-│ LEVEL 3: Introjected Regulation → Patuh demi gengsi / takut dicela kawan    │
-│ LEVEL 4: Identified Regulation  → Patuh karena sadar manfaat adab bagi diri │
-│ LEVEL 5: Integrated / Fitrah    → Adab menyatu dengan identitas hamba Allah │
-│                                                                             │
-│ PENDIDIKAN TANPA FONDASI TERJEBAK DI LEVEL 2 (KEPATUHAN MUNAPIK).           │
-│ LAPISAN FOUNDATION TUMBUH MERANCANG JALUR PERTUMBUHAN MENUJU LEVEL 5.       │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Level Motivasi | Nama Tingkatan | Orientasi Sikap Santri | Relevansi Fondasi Arsitektur |
+| :-: | :--- | :--- | :--- |
+| **Level 1** | *Amotivation* | Menolak aturan, membangkang, bersikap acuh tak acuh | Kehilangan orientasi makna |
+| **Level 2** | *External Regulation* | Patuh semata-mata karena takut poin minus atau sanksi fisik | **Jebakan Sistem Tanpa Fondasi** (Kepatuhan munafik) |
+| **Level 3** | *Introjected Regulation* | Patuh demi menjaga gengsi atau takut dicela rekan sebaya | Masih rentan kecemasan sosial |
+| **Level 4** | *Identified Regulation* | Patuh karena sadar secara rasional akan manfaat adab bagi dirinya | Awal kedewasaan bernalar |
+| **Level 5** | *Integrated / Fitrah* | Adab menyatu secara utuh dengan identitas diri sebagai hamba Allah | **Target Arsitektur TUMBUH** (Ikhlas, beradab mandiri) |
 
 ---
 
@@ -338,26 +293,13 @@ Kegagalan tragis Pesantren "D" adalah bukti tak terbantahkan mengenai bahaya mel
 
 Untuk memastikan bahwa seluruh modul kurikulum, pedoman pengasuhan, dan instrumen operasional berakar kokoh pada lapisan Foundation, sistem TUMBUH v2.0.0 menetapkan protokol validasi lima tahap:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│             LIMA TAHAP SIKLUS PENYELARASAN FONDASI (FA-LIFECYCLE)           │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ TAHAP 1: Ekstraksi Aksioma Turats (Axiomatic Extraction)                    │
-│          (Menggali dalil Qur'an, Sunnah, & karya salafus shalih)            │
-│                                  │                                          │
-│ TAHAP 2: Sintesis Multidisipliner Sains Perkembangan                        │
-│          (Mengintegrasikan neurosains, SDT, & psikologi remaja fitrah)      │
-│                                  │                                          │
-│ TAHAP 3: Uji Dialektika Kritis di Klaster PROBE                             │
-│          (Membedah celah logika, ambiguitas semantik, & bias lapangan)      │
-│                                  │                                          │
-│ TAHAP 4: Deliberasi Pleno Konsil Masyayikh & Dewan Pakar                    │
-│          (Sidang musyawarah ulama & arsitek sistem menyepakati konsensus)   │
-│                                  │                                          │
-│ TAHAP 5: Penguncian Kanonik ADR & Penerbitan Sertifikat FAAC                │
-│          (Segel kriptografis GPG, penandaan status APPROVED & LOCKED)       │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Siklus Tahapan | Nama Tahap Penyelarasan | Prosedur Kerja & Mekanisme Validasi |
+| :-: | :--- | :--- |
+| **Tahap 1** | **Ekstraksi Aksioma Turats** | *Axiomatic Extraction:* Menggali dalil Al-Qur'an, Sunnah Shahihah, dan literatur karya salafus shalih mu'tabarah. |
+| **Tahap 2** | **Sintesis Multidisipliner Sains Perkembangan** | Mengintegrasikan neurosains kognitif, *Self-Determination Theory* (SDT), dan psikologi remaja berbasis fitrah. |
+| **Tahap 3** | **Uji Dialektika Kritis di Klaster PROBE** | Membedah potensi celah logika, ambiguitas semantik, inquiry drift, dan bias penerapan lapangan. |
+| **Tahap 4** | **Deliberasi Pleno Konsil Masyayikh & Dewan Pakar** | Sidang musyawarah ulama syar'i dan arsitek sistem guna mencapai konsensus keilmuan yang kokoh. |
+| **Tahap 5** | **Penguncian Kanonik ADR & Sertifikasi FAAC** | Penerbitan segel kriptografis GPG, penandaan status resmi kanonik *Approved & Permanently Locked*. |
 
 ### 9.1. Tahap 1: Ekstraksi Aksioma Turats (Axiomatic Extraction)
 Tim pakar syariat menggali dalil-dalil Al-Qur'an, Hadits-hadits shahih berharakat lengkap, dan kitab-kitab induk ulama mu'tabar (seperti Al-Ghazali, Asy-Syathibi, Ibnu Taimiyyah, Ibnu Qayyim, dan Al-Muhasibi) guna menetapkan aksioma-aksioma ontologis mengenai hakikat wujud, manusia, ilmu, dan adab.
@@ -435,19 +377,14 @@ flowchart TD
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0022)
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       ARCHITECTURAL DECISION RECORD                         │
-│                              ADR-PROBE-0022                                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ Judul      : Penetapan Status Lapisan Foundation sebagai Pintu Gerbang      │
-│              Pertama dan Akar Makna Seluruh Bangunan Arsitektur TUMBUH      │
-│ Status     : APPROVED & PERMANENTLY LOCKED                                  │
-│ Tanggal    : 2026-10-25                                                     │
-│ Lapisan    : PROBE / METAGOVERNANCE / CONCEPTUAL ARCHITECTURE FOUNDATION     │
-│ Target     : 01_FUNDAMENTAL/01_FOUNDATION/ & Seluruh Sub-Sistem Hilir      │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0022 |
+| **Judul** | Penetapan Status Lapisan Foundation sebagai Pintu Gerbang Pertama dan Akar Makna Seluruh Bangunan Arsitektur TUMBUH |
+| **Status** | *Approved & Permanently Locked* |
+| **Tanggal Keputusan** | 2026-10-25 |
+| **Lapisan** | PROBE / Metagovernance / Conceptual Architecture Foundation |
+| **Target** | `01_FUNDAMENTAL/01_FOUNDATION/` dan Seluruh Sub-Sistem Hilir |
 
 ### 10.1. Konteks Masalah (Context)
 Sejarah kegagalan reformasi pesantren membuktikan bahwa kecenderungan teknokratis untuk melompat langsung ke perumusan aturan tata tertib asrama tanpa membangun fondasi filosofis (*the technocratic rush*) niscaya melahirkan kepatuhan semu mekanistis (*performative compliance*), kepribadian ganda santri, kepunahan ruh ikhlas, dan keruntuhan sistemik lembaga. Diperlukan penetapan arsitektural konstitusional yang mengikat secara permanen bahwa lapisan `Foundation` adalah pintu gerbang mutlak dan akar makna (*root of meaning*) bagi seluruh arsitektur TUMBUH v2.0.0.
@@ -482,20 +419,12 @@ Diputuskan secara mutlak dan mengikat bagi seluruh jajaran pengembang, peneliti,
 ### 11.1. Pemetaan Implikasi Lintas Lapisan Repositori
 Ketetapan kanonik P00022 memberikan dampak langsung pada struktur dan tata kerja repositori TUMBUH v2.0.0:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                   DISTRIBUSI IMPLIKASI LAPISAN REPOSITORI                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 01_FOUNDATION/     : Menjadi repositori 9 domain filosofis yang invariabel, │
-│                      tersegel dari perubahan sembarangan (Approved & Locked)│
-│ 02_CORE_MODEL/     : Wajib menurunkan tahapan J1–J4 secara deduktif dari    │
-│                      domain 03 (Human Nature) & 04 (Human Development).     │
-│ 02_IMPLEMENTATION/ : Menjadi jembatan institusional yang mematuhi domain 05 │
-│                      (Education) & 06 (Leadership/Qudwah).                  │
-│ 03_OPERATIONAL/    : Mengharamkan sanksi fisik; seluruh SOP wajib merujuk   │
-│                      prinsip disiplin positif dari domain 07 & 08.          │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Lapisan Repositori | Mandat & Implikasi Arsitektural |
+| :--- | :--- |
+| **`01_FOUNDATION/`** | Menjadi repositori 9 domain filosofis yang invariabel, tersegel dari perubahan sembarangan (*Approved & Locked*). |
+| **`01_CORE_MODEL/`** | Wajib menurunkan tahapan penjenjangan J1–J4 secara deduktif dari domain 03 (*Human Nature*) dan 04 (*Human Development*). |
+| **`02_IMPLEMENTATION/`** | Menjadi jembatan institusional yang mematuhi domain 05 (*Education*) dan 06 (*Leadership/Qudwah*). |
+| **`03_OPERATIONAL/`** | Mengharamkan sanksi fisik; seluruh SOP wajib merujuk prinsip disiplin positif dari domain 07 (*Discipline*) dan 08 (*Community*). |
 
 ### 11.2. Tujuh Butir Guardrails Penegakan Fondasi (Batas Negatif Mutlak)
 

@@ -48,28 +48,11 @@ Kompromi semu ini melahirkan tiga patologi lapangan yang merusak:
 2. **Pembengkakan Lapisan Penerjemah (*Adapter Bloat*)**: Tim perumus sistem menghabiskan 80% energi mereka hanya untuk membuat tabel penyesuaian, formulir ganda, dan dokumen jembatan guna mengakomodasi kebiasaan pengurus lama yang enggan belajar. Repositori menjadi sangat gemuk (*bloated*), lambat, dan kehilangan fokus pada penyempurnaan kurikulum adab inti.
 3. **Arsitektur Bola Lumpur (*Big Ball of Mud Syndrome*)**: Sistem baru kehilangan batas-batas arsitekturalnya (*architectural boundary erosion*). Lapisan Fundamental, Implementation, dan Operational yang telah dirancang rapi menjadi campur aduk kembali karena dipaksa menampung draf-draf lama yang tidak terstruktur.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               ANATOMI JEBAKAN KOMPATIBILITAS (COMPATIBILITY TRAP)               │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   DESAKAN KOMPROMI:                                                             │
-│   "Pertahankan struktur lama V1 bersamaan dengan sistem baru V2!"               │
-│         │                                                                       │
-│         ▼ DAMPAK SISTEMIK                                                       │
-│   ┌─────────────────────────────────────────────────────────────────────────┐   │
-│   │ 1. Istilah Bertentangan (Ta'zir Fisik vs Restitusi Adab)                │   │
-│   │ 2. Musyrif Bingung Memilih Aturan di Jam 03.30 Pagi                     │   │
-│   │ 3. Terjadi Kekerasan Santri Berulang di Bawah Kedok Sistem Baru         │   │
-│   │ 4. Repositori Membengkak oleh Berkas Jembatan yang Rapuh                │   │
-│   └─────────────────────────────────────────────────────────────────────────┘   │
-│         │                                                                       │
-│         ▼ KEPUTUSAN KANONIK TUMBUH V2                                           │
-│   "TETAPKAN AMBANG BATAS: KETIKA STRUKTUR LAMA MERUSAK MAQASHID,                │
-│    STRUKTUR TERSEBUT WAJIB DILEPASKAN SECARA TEGAS (BREAKING CHANGES)!"          │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Komponen | Penjelasan Anatomi Jebakan Kompatibilitas (*Compatibility Trap*) |
+| :--- | :--- |
+| **Desakan Kompromi** | "Pertahankan struktur lama V1 bersamaan dengan sistem baru V2!" |
+| **Dampak Sistemik** | 1. Istilah bertentangan (*Ta'zir* fisik vs Restitusi adab)<br>2. Musyrif bingung memilih aturan di jam 03.30 pagi<br>3. Terjadi kekerasan santri berulang di bawah kedok sistem baru<br>4. Repositori membengkak oleh berkas jembatan yang rapuh |
+| **Keputusan Kanonik V2** | **Tetapkan Ambang Batas**: Ketika struktur lama merusak maqashid, struktur tersebut wajib dilepaskan secara tegas (*Breaking Changes*)! |
 
 ### 3.2. Biaya Kognitif dan Risiko Hukum Akibat Mempertahankan Format Usang
 Mempertahankan format usang bukan sekadar masalah estetika tata letak dokumen, melainkan ancaman langsung terhadap keselamatan santri dan reputasi hukum lembaga:
@@ -146,31 +129,10 @@ Ward Cunningham (1992) merumuskan metafora utang teknis (*technical debt*):[^4]
 - Pinjaman tersebut harus dibayar dengan bunga: setiap kali sistem hendak diperbarui, pengembang harus mengeluarkan energi ekstra untuk merawat jembatan kompatibilitas lama.
 - Jika utang teknis tidak pernah dilunasi melalui *breaking changes* dan *refactoring*, sistem akan mencapai titik kebangkrutan teknis (*technical bankruptcy*), di mana seluruh biaya pemeliharaan habis hanya untuk membayar bunga utang tanpa menghasilkan fitur baru.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               KURVA AKUMULASI UTANG TEKNIS VS STRATEGI BREAKING CHANGES         │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   BIAYA PEMELIHARAAN SISTEM                                                     │
-│   ▲                                                                             │
-│   │                                      / [TITIK KEBANGKRUTAN ARSITEKTURAL]    │
-│   │                                     /  Sistem lumpuh total tersandera       │
-│   │                                    /   oleh format lama V1                  │
-│   │                                   /                                         │
-│   │   KURVA UTANG KOMPATIBILITAS ───►/                                          │
-│   │   (Jika V1 terus dipertahankan) /                                           │
-│   │                                /                                            │
-│   │                               /                                             │
-│   │                              ┌───────────────────────────────────────────   │
-│   │                              │ BREAKING CHANGES DI BRANCH V2.0.0            │
-│   │                              │ (Pelepasan Struktur Lama & Pelunasan Utang)  │
-│   │                              └───────────────────────────────────────────   │
-│   │                                                                             │
-│   └──────────────────────────────────────────────────────────────────────────►  │
-│   WAKTU EVOLUSI SISTEM                                                          │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Dimensi Evolusi | Dinamika Akumulasi Utang Teknis vs Strategi *Breaking Changes* |
+| :--- | :--- |
+| **Kurva Utang Kompatibilitas** | Jika struktur lama V1 terus dipertahankan berdampingan, biaya pemeliharaan sistem meningkat eksponensial menuju titik kebangkrutan arsitektural di mana sistem lumpuh total tersandera format usang. |
+| **Intervensi *Breaking Changes*** | Pemutusan tegas struktur lama pada rilis Branch V2.0.0 melunasi utang teknis, mereduksi biaya pemeliharaan, dan mengembalikan ruang evolusi kurikulum adab yang sehat. |
 
 Keterhubungan dengan judul: Penyelidikan ini membuktikan bahwa melepaskan kompatibilitas struktur lama di Branch V2 adalah tindakan pelunasan utang teknis yang menyelamatkan repositori dari kebangkrutan arsitektural.
 
@@ -378,27 +340,13 @@ Bab ini menyajikan 6 matriks evaluasi analitis yang membedah ambang batas tolera
 
 Guna memastikan setiap pelepasan struktur lama berjalan dengan kepatuhan adab dan akurasi teknis tinggi, ditetapkan **Protokol Lima Tahap Pelepasan Struktur Lama**:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               ALUR 5 TAHAP PROTOKOL PELEPASAN STRUKTUR LAMA (V2.0.0)            │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   [1. AUDIT THRESHOLD]   ──► Uji apakah struktur lama masuk kategori fasid      │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [2. DEPRECATION TAG]   ──► Sematkan stempel DEPRECATED & tetapkan batas waktu │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [3. STRANGLER MIGRATE] ──► Bangun modul pengganti baru di PROBE / FUNDAMENTAL │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [4. BREAKING RELEASE]  ──► Nonaktifkan struktur lama; kunci di 99_ARCHIVE     │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [5. CANONICAL AUDIT]   ──► Verifikasi tidak ada tautan rusak di repositori    │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahap | Protokol Pelepasan Struktur Lama (*V2.0.0 Deprecation Protocol*) | Tindakan Inti |
+| :---: | :--- | :--- |
+| **1** | **Audit Threshold** | Uji apakah struktur lama masuk kategori fasid atau merusak maqashid. |
+| **2** | **Deprecation Tag** | Sematkan stempel `DEPRECATED` dan tetapkan batas waktu transisi. |
+| **3** | **Strangler Migrate** | Bangun modul pengganti baru di `PROBE/` atau `01_FUNDAMENTAL/`. |
+| **4** | **Breaking Release** | Nonaktifkan struktur lama dan kunci ke dalam `99_ARCHIVE/`. |
+| **5** | **Canonical Audit** | Verifikasi integritas tautan, bebas duplikasi, dan kepatuhan arsitektural. |
 
 ### Rincian Prosedur Operasional bagi Pengembang & Peneliti:
 1. **Tahap 1: Evaluasi Ambang Batas Pelepasan (*Threshold Audit*)**:
@@ -433,47 +381,21 @@ Keberadaan fungsi kebugaran otomatis ini mentransformasikan batas toleransi *bac
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0004)
 
-```text
-================================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0004
-================================================================================
-Judul: Penetapan Ambang Batas Pelepasan Backward Compatibility di Branch v2.0.0
-Status: APPROVED & LOCKED CANONICAL BASELINE
-Tanggal: 25 Oktober 2026
-Penyusun: Dewan Arsitektur Repositori TUMBUH v2.0.0
-Domain: Meta-Arsitektur, Rekayasa Kontrol Versi, Manajemen Utang Teknis
-================================================================================
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0004 |
+| **Judul** | Penetapan Ambang Batas Pelepasan Backward Compatibility di Branch v2.0.0 |
+| **Status** | *Approved & Locked Canonical Baseline* |
+| **Tanggal** | 25 Oktober 2026 |
+| **Penyusun** | Dewan Arsitektur Repositori TUMBUH v2.0.0 |
+| **Domain** | Meta-Arsitektur, Rekayasa Kontrol Versi, Manajemen Utang Teknis |
 
-1. KONTEKS & MASALAH:
-Mempertahankan kompatibilitas dengan seluruh format naskah lama V1 telah terbukti
-menjadi perangkap utang teknis yang melanggengkan kekaburan istilah dan memicu
-kebingungan praktisi di asrama. Repositori membutuhkan ketetapan arsitektur resmi
-mengenai kapan struktur lama wajib dilepaskan secara tegas (breaking changes).
-
-2. KEPUTUSAN ARSITEKTURAL:
-Menetapkan secara resmi dan permanen bahwa:
-a. Branch v2.0.0 DIBERI WEWENANG RESMI untuk mengeksekusi BREAKING CHANGES terhadap
-   seluruh struktur lama V1 yang terbukti mengandung mafsadat sistemik.
-b. Seluruh klausul hukuman fisik, penomoran berkas acak, dan struktur folder
-   monolitik masa perintisan DINYATAKAN GUGUR dan DILEPASKAN dari sistem aktif.
-c. Pelepasan dieksekusi secara terukur melalui Strangler Fig Pattern: naskah lama
-   diabadikan di 99_ARCHIVE/ sebagai memori sejarah, sementara sistem aktif murni
-   menggunakan struktur kanonik 8 lapis V2.
-
-3. KONSEKUENSI REKAYASA & OPERASIONAL:
-Positif:
-- Menghilangkan utang teknis dan duplikasi istilah beracun di lingkungan pesantren.
-- Memberikan perlindungan mutlak bagi santri dari praktik hukuman fisik lama.
-- Repositori menjadi bersih, koheren, dan siap untuk automasi skala besar.
-Negatif/Trade-off:
-- Memerlukan upaya sosialisasi dan pelatihan adaptasi bagi musyrif lapangan.
-- Memerlukan masa transisi depresiasi terkelola untuk formulir administratif.
-
-4. STATUS KEPATUHAN:
-Wajib ditaati secara mutlak oleh seluruh pengembang, pengasuh, dan pimpinan di
-seluruh jaringan pesantren mitra ekosistem TUMBUH v2.0.0.
-================================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks & Masalah** | Mempertahankan kompatibilitas dengan seluruh format naskah lama V1 telah terbukti menjadi perangkap utang teknis yang melanggengkan kekaburan istilah dan memicu kebingungan praktisi di asrama. Repositori membutuhkan ketetapan arsitektur resmi mengenai kapan struktur lama wajib dilepaskan secara tegas (*breaking changes*). |
+| **2. Keputusan Arsitektural** | Menetapkan secara resmi dan permanen bahwa:<br>a. Branch `v2.0.0` diberi wewenang resmi untuk mengeksekusi *breaking changes* terhadap seluruh struktur lama V1 yang terbukti mengandung mafsadat sistemik.<br>b. Seluruh klausul hukuman fisik, penomoran berkas acak, dan struktur folder monolitik masa perintisan dinyatakan gugur dan dilepaskan dari sistem aktif.<br>c. Pelepasan dieksekusi secara terukur melalui *Strangler Fig Pattern*: naskah lama diabadikan di `99_ARCHIVE/` sebagai memori sejarah, sementara sistem aktif murni menggunakan struktur kanonik 8 lapis V2. |
+| **3. Konsekuensi Positif** | • Menghilangkan utang teknis dan duplikasi istilah beracun di lingkungan pesantren.<br>• Memberikan perlindungan mutlak bagi santri dari praktik hukuman fisik lama.<br>• Repositori menjadi bersih, koheren, dan siap untuk automasi skala besar. |
+| **4. Trade-off & Mitigasi** | Memerlukan sosialisasi adaptasi bagi musyrif lapangan dan masa transisi depresiasi terkelola untuk formulir administratif. |
 
 ---
 

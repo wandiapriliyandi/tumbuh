@@ -46,27 +46,12 @@ Dalam suksesi kepengurusan dan pembaruan sistem administrasi pesantren di Indone
 2. **Patologi Paralisis Birokrasi & Sakralisasi Sarana (*Format Idolatry & Bureaucratic Paralysis*)**: Kebalikan dari amnesia, sebagian pesantren terjebak pada pengkultusan kertas kerja lama. Format formulir perizinan, taksonomi pelanggaran yang rancu, dan struktur buku pedoman peninggalan masa rintisan dipertahankan mati-matian dan dianggap sakral. Setiap usulan perbaikan struktur ditolak dengan dalih "menjaga kemurnian warisan kyai pendiri". Lembaga kehilangan fleksibilitas untuk merespons tantangan zaman, seperti ancaman kejahatan siber, perundungan digital, dan gangguan kesehatan mental santri modern.
 3. **Patologi Anarki Pengembangan (*Developmental Fragmentation & Chaos*)**: Karena ketiadaan konsistensi arsitektur yang mengikat, setiap divisi pengasuhan membuat peraturan sendiri-sendiri. Musyrif Asrama A menerapkan sistem disiplin militeristik, Musyrif Asrama B menerapkan sistem longgar tanpa pencatatan, dan Bagian Pengajaran menerapkan sistem ketiga yang bertentangan dengan asrama. Dokumen saling tumpang tindih, rujukan hukum saling membatalkan, dan santri menjadi korban kebingungan standar moral.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               TRILEMA DESTRUKTIF TATA KELOLA DOKUMEN TANPA TRIAS                │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   [KUTUB AMNESIA] ──► Menghapus arsip V1 ──► Kehilangan memori sanad ──►        │
-│   Pengulangan kesalahan fatal masa lalu & keterasingan generasi musyrif muda.   │
-│                                                                                 │
-│   [KUTUB PARALISIS] ──► Mengultuskan format lama ──► Menolak restrukturisasi ──►│
-│   Utang teknis menumpuk & sistem lumpuh merespons krisis modern pesantren.      │
-│                                                                                 │
-│   [KUTUB ANARKI] ──► Menulis tanpa konsistensi ──► Kontradiksi antar-divisi ───►│
-│   Fragmentasi aturan asrama & hilangnya rasa keadilan bagi santri.              │
-│                                                                                 │
-│   [SINTESIS TRIAS PERLINDUNGAN V2.0.0]:                                         │
-│   1. Lindungi Jejak Historis (Arsipkan V1 di 99_ARCHIVE sebagai Sanad Mutashil) │
-│   2. Lindungi Konsistensi (Tegakkan Tata Kelola Dokumen & Quality Gates)        │
-│   3. Lindungi Kebebasan Rekayasa (Bebaskan Eksplorasi Ilmiah di PROBE)          │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Model Patologis vs Kanonik | Karakteristik Tata Kelola | Dampak Terhadap Lembaga Pesantren |
+|---|---|---|
+| **Kutub Amnesia** | Menghapus arsip naskah V1 dan memutus memori sanad | Pengulangan kesalahan fatal masa lalu & keterasingan generasi musyrif muda. |
+| **Kutub Paralisis** | Mengultuskan format lama & menolak restrukturisasi | Utang teknis menumpuk & sistem lumpuh merespons krisis modern santri. |
+| **Kutub Anarki** | Menulis tanpa konsistensi dan tanpa aturan batas | Fragmentasi regulasi asrama & hilangnya rasa keadilan bagi santri. |
+| **Sintesis Trias Perlindungan V2** | 1. Lindungi Jejak Historis (`99_ARCHIVE`).<br/>2. Lindungi Konsistensi (Quality Gates).<br/>3. Lindungi Kebebasan Rekayasa (`PROBE`). | **Keseimbangan Sempurna**: Menjaga akar sanad perintis seraya membuka kedaulatan riset pembaruan yang tertib. |
 
 ### 3.2. Dilema Transmisi Otoritas: Kharisma Personal Kyai versus Kodifikasi Sistem
 Fenomena lapangan di pesantren menunjukkan bahwa pergeseran dari kepemimpinan karismatik pendiri (*charismatic authority*) menuju kepemimpinan legal-rasional berbasis sistem (*rational-legal system*), sebagaimana dianalisis Max Weber (1947), selalu memicu guncangan hebat:[^46]
@@ -159,17 +144,11 @@ Manny M. Lehman dan Les Belady (1985) merumuskan hukum-hukum fundamental evolusi
 3. **Hukum Penurunan Kualitas (*Declining Quality*)**: Kualitas sistem akan menurun kecuali sistem tersebut secara aktif dirawat dan disesuaikan dengan perubahan kebutuhan pengguna.
 4. **Hukum Pemeliharaan Keakraban (*Conservation of Familiarity*)**: Laju perubahan evolusi sistem harus dikendalikan agar tidak melampaui kemampuan pengguna untuk menyerap dan memahaminya.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               LEHMAN'S LAWS VS IMPLEMENTASI TRIAS PERLINDUNGAN V2               │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   LEHMAN LAW 1 (Continuing Change)     ──► PILAR 3: Kebebasan Rekayasa di PROBE │
-│   LEHMAN LAW 2 (Increasing Complexity) ──► PILAR 2: Konsistensi Struktur 13 Bab │
-│   LEHMAN LAW 5 (Conservation of Lineage)─► PILAR 1: Jejak Sejarah di 99_ARCHIVE │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Hukum Evolusi Lehman | Muatan Prinsip Ilmiah | Implementasi Nyata pada Trias Perlindungan V2 |
+|---|---|---|
+| **Law 1: Continuing Change** | Sistem wajib terus beradaptasi dengan perubahan lingkungan | **Pilar 3: Kebebasan Rekayasa di PROBE** (ruang eksplorasi dan riset mandiri tanpa batas) |
+| **Law 2: Increasing Complexity** | Kompleksitas meningkat kecuali ada perancangan ulang berkala | **Pilar 2: Perlindungan Konsistensi** (struktur baku 13 bagian jurnal riset & quality gates) |
+| **Law 5: Conservation of Familiarity** | Laju perubahan harus menjaga keakraban pengguna lama | **Pilar 1: Perlindungan Jejak Historis** (pelestarian silsilah nalar V1 di `99_ARCHIVE`) |
 
 Keterhubungan dengan judul: Keempat hukum Lehman ini membuktikan bahwa tanpa Trias Perlindungan, sebuah repositori tata tertib dan kurikulum pesantren pasti akan membusuk (*code rot / policy rot*). Pilar 3 memberi kebebasan perubahan, Pilar 2 menekan ledakan kompleksitas, dan Pilar 1 menjaga keakraban silsilah sistem.
 
@@ -355,27 +334,13 @@ Guna memastikan bahwa Trias Perlindungan dioperasikan secara tertib tanpa tumpan
 
 Untuk memastikan ketiga pilar perlindungan beroperasi secara sinergis dan terukur, ditetapkan **Protokol Lima Tahap Tata Kelola Trias Perlindungan**:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               ALUR 5 TAHAP PROTOKOL TATA KELOLA TRIAS PERLINDUNGAN              │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   [1. HERITAGE ARCHIVING]   ──► Salin & kunci naskah lama di 99_ARCHIVE (Pilar 1)│
-│            │                                                                    │
-│            ▼                                                                    │
-│   [2. RESEARCH EXPLORATION] ──► Eksplorasi bebas & radikal di PROBE (Pilar 3)   │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [3. CONSISTENCY AUDIT]    ──► Uji keselarasan 13 bagian & dalil (Pilar 2)     │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [4. CANONICAL PROMOTION]  ──► Promosi hasil riset ke 01_FUNDAMENTAL (Pilar 2) │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [5. OPERATIONAL RELEASE]  ──► Turunkan menjadi SOP asrama di 03_OPERATIONAL   │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahap Tata Kelola | Nama Tahap | Deskripsi Tindakan Prosedural Pengembang |
+|:---:|---|---|
+| 1 | **Heritage Archiving** | Salin dan kunci naskah perintis lama di direktori `99_ARCHIVE/` (Pilar 1) |
+| 2 | **Research Exploration** | Lakukan inkuiri mendalam dan bebas secara radikal di direktori `PROBE/` (Pilar 3) |
+| 3 | **Consistency Audit** | Uji keselarasan dokumen terhadap format 13 bagian jurnal, teks Arab, dan APA 7th (Pilar 2) |
+| 4 | **Canonical Promotion** | Promosikan sintesis dan rumusan riset ke lapisan `01_FUNDAMENTAL/` (Pilar 2) |
+| 5 | **Operational Release** | Turunkan prinsip fundamental menjadi perangkat kerja praktis di `03_OPERATIONAL/` |
 
 ### Rincian Prosedur Operasional bagi Pengembang & Peneliti:
 1. **Tahap 1: Penguncian Warisan Sejarah (*Heritage Archiving Procedure*)**:
@@ -403,48 +368,21 @@ Untuk memastikan ketiga pilar perlindungan beroperasi secara sinergis dan teruku
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0003)
 
-```text
-================================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0003
-================================================================================
-Judul: Pembentukan Trias Perlindungan V2 dalam Tata Kelola Repositori TUMBUH
-Status: APPROVED & LOCKED CANONICAL BASELINE
-Tanggal: 25 Oktober 2026
-Penyusun: Dewan Arsitektur Repositori TUMBUH v2.0.0
-Domain: Meta-Arsitektur, Tata Kelola Repositori, Perlindungan Sistem
-================================================================================
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0003 |
+| **Judul** | Pembentukan Trias Perlindungan V2 dalam Tata Kelola Repositori TUMBUH |
+| **Status** | *Approved & Locked Canonical Baseline* |
+| **Tanggal** | 25 Oktober 2026 |
+| **Penyusun** | Dewan Arsitektur Repositori TUMBUH v2.0.0 |
+| **Domain** | Meta-Arsitektur, Tata Kelola Repositori, Perlindungan Sistem |
 
-1. KONTEKS & MASALAH:
-Evolusi tata kelola pesantren kerap tersandera di antara dua kutub yang merusak:
-amnesia sejarah intelektual yang memutus silsilah sanad para perintis, atau
-paralisis birokrasi yang menyakralkan format dokumen lama yang sudah tidak relevan.
-Repositori membutuhkan konstitusi pertahanan yang menyeimbangkan antara pelestarian
-warisan masa lalu, ketertiban konsistensi masa kini, dan kebebasan rekayasa masa depan.
-
-2. KEPUTUSAN ARSITEKTURAL:
-Menetapkan secara resmi berdirinya TRIAS PERLINDUNGAN V2 (The V2 Protection Triad):
-a. PILAR 1: Perlindungan Jejak Historis (Historical Lineage Preservation)
-   Menjaga seluruh naskah perintisan V1 di 99_ARCHIVE/ berstatus read-only mutlak.
-b. PILAR 2: Perlindungan Konsistensi Pengembangan (Developmental Consistency)
-   Menegakkan kepatuhan 8 lapis repositori, Ubiquitous Language, dan Quality Gates.
-c. PILAR 3: Perlindungan Kebebasan Rekayasa Sistem (Engineering Freedom)
-   Menjamin otonomi penuh bagi mesin inkuiri PROBE/ untuk membongkar dan merekayasa
-   arsitektur sistem secara ilmiah tanpa hambatan birokrasi.
-
-3. KONSEKUENSI REKAYASA & OPERASIONAL:
-Positif:
-- Silsilah sanad keilmuan muassis terpelihara abadi dan terlacak secara transparan.
-- Tercipta keteraturan hukum yang adil bagi santri dan musyrif di asrama.
-- Arsitektur sistem tetap lincah beradaptasi dengan kemajuan zaman tanpa utang teknis.
-Negatif/Trade-off:
-- Menuntut kepatuhan protokol bertingkat sebelum suatu naskah dapat dipromosikan.
-- Memerlukan ruang penyimpanan repositori untuk memelihara salinan arsip permanen.
-
-4. STATUS KEPATUHAN:
-Mengikat secara konstitusional seluruh perancang, pengembang, peneliti, dan pengasuh
-di seluruh ekosistem repositori TUMBUH v2.0.0.
-================================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks & Masalah** | Evolusi tata kelola pesantren kerap tersandera di antara dua kutub yang merusak: amnesia sejarah intelektual yang memutus silsilah sanad para perintis, atau paralisis birokrasi yang menyakralkan format dokumen lama yang sudah tidak relevan. Repositori membutuhkan konstitusi pertahanan yang menyeimbangkan antara pelestarian warisan masa lalu, ketertiban konsistensi masa kini, dan kebebasan rekayasa masa depan. |
+| **2. Keputusan Arsitektural** | Menetapkan secara resmi berdirinya **Trias Perlindungan V2** (*The V2 Protection Triad*):<br>a. **Pilar 1: Perlindungan Jejak Historis** (*Historical Lineage Preservation*): Menjaga seluruh naskah perintisan V1 di `99_ARCHIVE/` berstatus read-only mutlak.<br>b. **Pilar 2: Perlindungan Konsistensi Pengembangan** (*Developmental Consistency*): Menegakkan kepatuhan 8 lapis repositori, Ubiquitous Language, dan Quality Gates.<br>c. **Pilar 3: Perlindungan Kebebasan Rekayasa Sistem** (*Engineering Freedom*): Menjamin otonomi penuh bagi mesin inkuiri `PROBE/` untuk membongkar dan merekayasa arsitektur sistem secara ilmiah tanpa hambatan birokrasi. |
+| **3. Konsekuensi Positif** | • Silsilah sanad keilmuan muassis terpelihara abadi dan terlacak secara transparan.<br>• Tercipta keteraturan hukum yang adil bagi santri dan musyrif di asrama.<br>• Arsitektur sistem tetap lincah beradaptasi dengan kemajuan zaman tanpa utang teknis. |
+| **4. Trade-off & Mitigasi** | Menuntut kepatuhan protokol bertingkat sebelum suatu naskah dapat dipromosikan dan memerlukan ruang penyimpanan repositori untuk memelihara salinan arsip permanen. |
 
 ---
 

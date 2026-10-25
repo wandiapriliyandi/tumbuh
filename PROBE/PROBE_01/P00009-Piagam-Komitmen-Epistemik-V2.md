@@ -34,30 +34,11 @@ Ketegangan epistemik mendasar yang diselesaikan oleh monograf ini berakar pada p
 ### 3.1. Fenomenologi Kemerosotan Mutu Naskah Panduan Pesantren
 Dalam lanskap pendidikan Islam modern, krisis paling berbahaya yang merayap tanpa disadari adalah devaluasi bobot keilmuan. Ketika sebuah lembaga pesantren memutuskan untuk merestrukturisasi panduan pengasuhan santri, proyek tersebut kerap kali terjebak dalam perangkap rutinitas birokrasi yang mematikan ruh keilmuan:
 
-```text
-DILEMA MORAL DALAM PENYUSUNAN SISTEM PENDIDIKAN PESANTREN
-
-      KUTUB PRAGMATISME INSTAN                       KUTUB INTEGRITAS KANONIK
-    (Penyelesaian Cepat Tanpa Mutu)                (Penelitian Mendalam Tanpa Kompromi)
-   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-   │ Membuat modul ringkas copy-paste;│           │ Setiap berkas wajib 400+ baris, │
-   │ yang penting selesai minggu ini; │           │ ditahqiq sanadnya, diuji dalil- │
-   │ mengabaikan ketelitian turats.   │           │ nya, dan diaudit multi-lapis.   │
-   └─────────────────────────────────┘            └─────────────────────────────────┘
-                   │                                               │
-                   ▼ DAMPAK                                        ▼ DAMPAK
-   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-   │ • Repositori berisi dokumen hampa│           │ • Repositori bernilai peradaban │
-   │ • Musyrif tidak mendapat panduan│            │ • Menjadi rujukan ilmiah ratusan│
-   │ • Terjadi manipulasi data santri.│           │   tahun ke depan, berwibawa.    │
-   └─────────────────────────────────┘            └─────────────────────────────────┘
-                   │                                               │
-                   └───────────────────────┬───────────────────────┘
-                                           ▼
-                                 RESOLUSI KANONIK V2.0.0:
-                   "Piagam Komitmen Epistemik V2: Menolak Kompromi Pragmatis,
-                    Menjaga Kemurnian Sanad, & Memuliakan Martabat Nalar Pesantren"
-```
+| Dimensi Moralitas | Kutub Pragmatisme Instan (Penyelesaian Cepat Tanpa Mutu) | Kutub Integritas Kanonik (Penelitian Mendalam Tanpa Kompromi) |
+| :--- | :--- | :--- |
+| **Karakteristik** | Membuat modul ringkas salin-tempel demi mengejar target pekanan, seraya mengabaikan ketelitian turats dan akurasi sains. | Setiap berkas wajib 400+ baris substantif, ditahqiq sanadnya, diuji dalilnya, dan diaudit multi-lapis. |
+| **Dampak Patologis** | • Repositori berisi dokumen administratif hampa.<br>• Musyrif tidak mendapat panduan operasional nyata.<br>• Terjadi manipulasi data pembinaan santri. | • Repositori bernilai peradaban luhur.<br>• Menjadi rujukan ilmiah ratusan tahun ke depan.<br>• Menjaga wibawa pesantren di hadapan umat. |
+| **Resolusi Kanonik V2.0.0** | <div align="center">**"Piagam Komitmen Epistemik V2"**<br>Menolak kompromi pragmatis, menjaga kemurnian sanad, dan memuliakan martabat nalar pesantren.</div> |
 
 Tiga bentuk patologi degradasi intelektual yang teridentifikasi secara luas di lapangan:
 1. **Sindrom Naskah Kulit Bawang (*The Onion-Skin Documentation Syndrome*)**:  
@@ -121,23 +102,10 @@ Filsafat ilmu modern dan disiplin rekayasa sistem pengetahuan menyediakan perang
 ### 5.1. Teori Kewaspadaan Epistemik (*Epistemic Vigilance Theory*) Dan Sperber et al.
 Kognitif filsuf Dan Sperber, Fabrice Clément, dan timnya (2010) dalam riset terkemuka mereka *Epistemic Vigilance* merumuskan bahwa keberlangsungan transmisi pengetahuan manusia bergantung pada sistem kekebalan kognitif (*cognitive immune system*):
 
-```text
-DIAGRAM TEORI SISTEM: LINGKARAN PENGAWASAN EPISTEMIK (EPISTEMIC VIGILANCE CYCLE)
-
-                     AUDIT EPISTEMIK AKTIF (SPERBER ET AL.)
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │ 1. Uji Koherensi Logika Internal ──► Ketiadaan Kontradiksi Antar-Pasal │
-  │ 2. Uji Kredibilitas Sumber ──► Takhrij Turats & Sains Bebas Paywall    │
-  │ 3. Uji Ketahanan Empiris ──► Tidak Boleh Terjebak Goodhart's Law       │
-  └───────────────────────────────────┬────────────────────────────────────┘
-                                      │
-                                      ▼ HASIL KANONIK
-                 SOFTWARE CRAFTSMANSHIP (ROBERT C. MARTIN)
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │ "Bukan Sekadar Berfungsi, Tetapi Dirancang dengan Indah;                │
-  │  Bukan Sekadar Selesai, Tetapi Menjadi Warisan Keahlian Profesional."  │
-  └────────────────────────────────────────────────────────────────────────┘
-```
+| Dimensi Pengawasan | Pilar Teori Sistem | Tindakan Audit Epistemik Aktif di TUMBUH |
+| :--- | :--- | :--- |
+| **Audit Epistemik Aktif**<br>*(Dan Sperber et al., 2010)* | 1. Uji Koherensi Logika Internal<br>2. Uji Kredibilitas Sumber<br>3. Uji Ketahanan Empiris | Memastikan ketiadaan kontradiksi antar-pasal.<br>Takhrij teks turats berharakat & rujukan sains bebas paywall.<br>Menangkal distorsi target kuantitas semu (*Anti-Goodhart's Law*). |
+| **Software Craftsmanship**<br>*(Robert C. Martin, 2008)* | Hasil Kanonik Teruji | *"Bukan sekadar berfungsi, tetapi dirancang dengan indah; bukan sekadar selesai, tetapi menjadi warisan keahlian profesional."* |
 
 Sperber membagi kewaspadaan epistemik menjadi dua pilar:
 1. **Kewaspadaan terhadap Sumber (*Vigilance towards the Source*)**: Menilai otoritas moral, kompetensi keilmuan, dan ketiadaan konflik kepentingan dari penyusun klaim.
@@ -192,7 +160,6 @@ Penyelidikan ini menghadapkan tiga etos kepenulisan yang sering merusak proyek r
 MATRIKS DIALEKTIKA KONFRONTATIF: TIGA ETOS KERJA PENGEMBANGAN REPOSITORI
 
 PARAMETER EVALUASI     ETOS PRAGMATISME BIROKRATIS      ETOS PERFEKSIONISME HILIR        SINTESIS PIAGAM EPISTEMIK V2
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 1. Motivasi Penulisan  Memenuhi formalitas laporan TU   Pamer intelektualitas pribadi    Ibadah tarbiyah lillahi ta'ala
    dan Penelitian      dan tenggat waktu yayasan.       tanpa memikirkan santri asrama.  demi menjaga keselamatan santri.
 
@@ -347,40 +314,15 @@ Untuk mencegah terjadinya penyusupan metode semu yang merusak kualitas repositor
 
 Bagian ini memuat teks resmi sumpah kehormatan yang wajib ditandatangani oleh setiap kontributor repositori TUMBUH:
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                   TUJUH IKRAR PIAGAM KOMITMEN EPISTEMIK TUMBUH V2.0.0                  │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ I.   KAMI BERSUMPAH MENOLAK NASKAH DANGKAL (*ANTI-BOILERPLATE OATH*):                  │
-│      Kami tidak akan pernah menerbitkan berkas ringkasan malas yang miskin nalar;      │
-│      setiap monograf wajib memenuhi target substantif >= 400 baris berbobot padat.     │
-│                                                                                        │
-│ II.  KAMI BERSUMPAH MENJAGA KESUCIAN SANAD TURATS (*TURATS INTEGRITY OATH*):           │
-│      Kami tidak akan menyitir dalil Al-Qur'an dan Hadits melainkan dengan teks Arab    │
-│      berharakat sempurna, takhrij kitab yang jelas, dan derajat keshahihan yang sahih. │
-│                                                                                        │
-│ III. KAMI BERSUMPAH MENJAGA KEMURNIAN LITERATUR SAINS (*CLEAN-SCIENCE OATH*):          │
-│      Kami hanya merujuk pada sains empiris dan teori sistem teruji bebas paywall       │
-│      dengan standar sitasi APA 7th Edition yang bersih dari tautan komersial berbayar. │
-│                                                                                        │
-│ IV.  KAMI BERSUMPAH MENOLAK HUKUM GOODHART (*ANTI-GOODHART'S LAW OATH*):               │
-│      Kami tidak akan pernah mengorbankan kedalaman analisis demi mengejar target angka │
-│      kuantitas berkas atau kecepatan semu penyelesaian repositori.                     │
-│                                                                                        │
-│ V.   KAMI BERSUMPAH MENJAGA KETERLACAKAN SANAD DIGITAL (*TRACEABILITY OATH*):          │
-│      Kami tidak akan memutus rantai silsilah; setiap gagasan baru wajib terlacak ke    │
-│      keputusan ADR sebelumnya, dan berkas warisan wajib dipreservasi di 99_ARCHIVE/.   │
-│                                                                                        │
-│ VI.  KAMI BERSUMPAH MEMULIAKAN HAK KEMANUSIAAN SANTRI (*STUDENT DIGNITY OATH*):       │
-│      Kami menolak mutlak seluruh kompromi yang melegitimasi kekerasan fisik, pelecehan │
-│      verbal, dan perundungan asrama di bawah dalih penegakan disiplin apa pun.         │
-│                                                                                        │
-│ VII. KAMI BERSUMPAH MENGIKATKAN KERJA PADA HISAB AKHIRAT (*TRANSCENDENTAL OATH*):       │
-│      Kami memandang setiap commit Git bukan sekadar baris kode di komputer, melainkan  │
-│      catatan amal jariyah yang akan dihisab di hadapan Pengadilan Allah Subhanahu wa   │
-│      Ta'ala pada hari kiamat kelak.                                                    │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| No | Butir Ikrar Kehormatan | Mandat Komitmen Epistemik V2.0.0 |
+| :---: | :--- | :--- |
+| **I** | **Anti-Boilerplate Oath** | Menolak naskah dangkal; setiap monograf wajib memenuhi target substantif >= 400 baris berbobot padat. |
+| **II** | **Turats Integrity Oath** | Menjaga kesucian sanad turats; kutipan ayat/hadits wajib berteks Arab berharakat, takhrij kitab, dan derajat shahih. |
+| **III**| **Clean-Science Oath** | Menjaga kemurnian literatur sains; merujuk sains empiris bebas paywall dengan standar APA 7th Edition bersih. |
+| **IV** | **Anti-Goodhart's Law Oath** | Menolak hukum Goodhart; tidak mengorbankan kedalaman analisis demi mengejar target angka atau kecepatan semu. |
+| **V** | **Traceability Oath** | Menjaga keterlacakan sanad digital; setiap gagasan terhubung ke ADR dan berkas lama dipreservasi di `99_ARCHIVE/`. |
+| **VI** | **Student Dignity Oath** | Memuliakan hak kemanusiaan santri; menolak mutlak kekerasan fisik, pelecehan verbal, dan perundungan asrama. |
+| **VII**| **Transcendental Oath** | Mengikatkan kerja pada hisab akhirat; commit Git dipandang sebagai amal jariyah di hadapan Pengadilan Allah Ta'ala. |
 
 ### 9.1. Prosedur Baku Penegakan Etik Lima Gerbang
 1. **Gerbang 1: Pemindaian Integritas Otomatis (*Automated Integrity Scanning*)**: Pipeline CI/CD memindai seluruh teks untuk mendeteksi potensi plagiasi, ketiadaan harakat Arab, dan keberadaan tautan komersial `doi.org`.
@@ -393,45 +335,18 @@ Bagian ini memuat teks resmi sumpah kehormatan yang wajib ditandatangani oleh se
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0009)
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                   ARCHITECTURAL DECISION RECORD (ADR) — TUMBUH-V2-0009                 │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ NOMOR KEPUTUSAN      : ADR-PROBE-0009                                                  │
-│ JUDUL KEPUTUSAN      : Penetapan Piagam Komitmen Epistemik V2 & Penutupan Pilar 1      │
-│ STATUS DOKUMEN       : KANONIK / APPROVED & PERMANENTLY LOCKED                         │
-│ TANGGAL PENETAPAN    : 25 Oktober 2026                                                 │
-│ OTORITAS ARSITEKTUR  : Dewan Arsitektur Repositori TUMBUH & Majelis Masyaikh Pesantren │
-│ RUANG LINGKUP        : Etika Keilmuan, Integritas Sanad, Anti-Plagiasi, & Penutup P1   │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. KONTEKS DAN LATAR BELAKANG EPISTEMIK:                                               │
-│    Godaan pragmatisme untuk memotong kompas penelitian, menghasilkan naskah dangkal,   │
-│    melakukan salin-tempel tanpa sanad, dan mengejar target kuantitas semu (Hukum       │
-│    Goodhart) adalah musuh terbesar mutu pendidikan pesantren. Diperlukan sebuah pakta  │
-│    integritas yang mengunci komitmen moral seluruh pengembang dan menutup Pilar 1.     │
-│                                                                                        │
-│ 2. KEPUTUSAN REKAYASA SISTEM YANG DITETAPKAN:                                          │
-│    Dewan Arsitektur menetapkan PIAGAM KOMITMEN EPISTEMIK V2 SEBAGAI HUKUM ETIK TERTINGGI│
-│    YANG MENGIKAT SELURUH ARTEFAK DI BAWAH NAUNGAN EKOSISTEM REPOSITORI TUMBUH:         │
-│    a. Mengunci TUJUH IKRAR KOMITMEN EPISTEMIK sebagai hukum moral abadi repositori.    │
-│    b. Menolak secara mutlak naskah dangkal (<400 baris), plagiasi, pemalsuan dalil,    │
-│       dan kompromi kekerasan fisik santri di seluruh tingkatan repositori.             │
-│    c. Mewajibkan seluruh 120 berkas PROBE mematuhi standar emas 13 bagian jurnal riset.│
-│    d. Menetapkan tuntasnya PILAR 1 dan membuka gerbang menuju PILAR 2 repositori.      │
-│                                                                                        │
-│ 3. JUSTIFIKASI TEOLOGIS DAN ILMIAH:                                                    │
-│    a. Mengamalkan amanah Mitsaq al-Ulama (QS. Ali 'Imran: 187) agar tidak menjual      │
-│       kebenaran ilmiah demi keuntungan materiil fana yang sedikit.                     │
-│    b. Menjalankan adab Al-Ajurri dan An-Nawawi dalam menjaga kesucian sanad turats.    │
-│    c. Mengadopsi prinsip Epistemic Vigilance Sperber dan etos Software Craftsmanship   │
-│       Martin demi membangun repositori pengetahuan berstandar dunia.                   │
-│                                                                                        │
-│ 4. BATASAN SISTEM & KONSEKUENSI KEPUTUSAN:                                             │
-│    a. Berkas yang melanggar Piagam V2 otomatis dibatalkan dan ditarik dari rilis.      │
-│    b. Pelanggaran integritas akademik dicatat permanen dalam riwayat audit repositori. │
-│    c. Piagam ini tidak dapat diamandemen atau dibatalkan oleh generasi pengurus mana pun│
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0009 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0009` |
+| **Judul Keputusan** | Penetapan Piagam Komitmen Epistemik V2 & Penutupan Pilar 1 |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Penetapan** | 25 Oktober 2026 |
+| **Otoritas Arsitektur**| Dewan Arsitektur Repositori TUMBUH & Majelis Masyaikh Pesantren |
+| **Ruang Lingkup** | Etika Keilmuan, Integritas Sanad, Anti-Plagiasi, & Penutup Pilar 1 |
+| **1. Konteks & Latar Belakang** | Godaan pragmatisme untuk memotong kompas penelitian, menghasilkan naskah dangkal, melakukan salin-tempel tanpa sanad, dan mengejar target kuantitas semu (Hukum Goodhart) adalah musuh terbesar mutu pendidikan pesantren. Diperlukan sebuah pakta integritas yang mengunci komitmen moral seluruh pengembang dan menutup Pilar 1. |
+| **2. Keputusan yang Ditetapkan** | Dewan Arsitektur menetapkan **Piagam Komitmen Epistemik V2 Sebagai Hukum Etik Tertinggi yang Mengikat Seluruh Artefak di Bawah Naungan Ekosistem Repositori TUMBUH**:<br>a. Mengunci TUJUH IKRAR KOMITMEN EPISTEMIK sebagai hukum moral abadi repositori.<br>b. Menolak secara mutlak naskah dangkal (<400 baris), plagiasi, pemalsuan dalil, dan kompromi kekerasan fisik santri di seluruh tingkatan repositori.<br>c. Mewajibkan seluruh 120 berkas PROBE mematuhi standar emas 13 bagian jurnal riset.<br>d. Menetapkan tuntasnya PILAR 1 dan membuka gerbang menuju PILAR 2 repositori. |
+| **3. Justifikasi Teologis & Ilmiah** | a. Mengamalkan amanah Mitsaq al-Ulama (QS. Ali 'Imran: 187) agar tidak menjual kebenaran ilmiah demi keuntungan materiil fana yang sedikit.<br>b. Menjalankan adab Al-Ajurri dan An-Nawawi dalam menjaga kesucian sanad turats.<br>c. Mengadopsi prinsip Epistemic Vigilance Sperber dan etos Software Craftsmanship Martin demi membangun repositori pengetahuan berstandar dunia. |
+| **4. Batasan & Konsekuensi** | a. Berkas yang melanggar Piagam V2 otomatis dibatalkan dan ditarik dari rilis.<br>b. Pelanggaran integritas akademik dicatat permanen dalam riwayat audit repositori.<br>c. Piagam ini tidak dapat diamandemen atau dibatalkan oleh generasi pengurus mana pun. |
 
 ---
 

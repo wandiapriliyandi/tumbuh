@@ -31,6 +31,8 @@ Guru Besar Penjamin Mutu memegang hak veto arsitektural berdasarkan lima pilar p
    Menolak monograf dangkal bertaraf ringkasan administratif. Menuntut pemenuhan standar 13 bagian jurnal riset sistem, verifikasi takhrij hadits, dan penegakan format sitasi APA 7th Edition bersih tanpa tautan `doi.org` berbayar, disertai penomoran catatan kaki numerik `[^1]` 1-to-1.
 5. **Uji Kelayakan Lapangan (*Field Usability & Anti-Burnout*)**:
    Menguji apakah modul atau formulir yang dirancang realistis dijalankan oleh musyrif dan asatidz asrama tanpa menimbulkan kelelahan moral (*moral fatigue*) atau subsidi kapasitas tersembunyi (*hidden capacity subsidy*).
+6. **Penegakan Format Tabel untuk Tulisan dalam Kotak & Eliminasi Kotak Manual `_` / `|`**:
+   Menolak segala bentuk naskah yang menggunakan karakter garis bawah `_`, garis tegak `|`, tanda `+`, `-`, atau karakter ASCII art lainnya untuk menggambar kotak manual di dalam teks. Mengharuskan seluruh ikhtisar, ringkasan, atau struktur yang dikotakkan diformat menggunakan **Tabel Markdown resmi**.
 
 ---
 
@@ -45,7 +47,7 @@ Auditor Kualitas menggunakan taksonomi cacat sistemik berikut untuk mengklasifik
 | **MAJOR (High)** | **Level 3: Cacat Epistemik & Overclaim Ilmiah** | Klaim "terbukti tervalidasi" tanpa batasan metodologi; hadits dha'if jiddan/maudhu'. | Kehancuran kredibilitas akademis; misorientasi pemikiran. | **Revisi Wajib**: Penurunan derajat klaim; pemurnian aparatus takhrij hadits. |
 | **MAJOR (High)** | **Level 4: Pelanggaran Standar Sitasi & Paywall** | Tautan komersial `doi.org` tercantum; ketiadaan nomor catatan kaki `[^1]` di teks. | Hambatan akses sivitas pesantren; hilangnya sanad rujukan. | **Revisi Wajib**: Pembersihan tautan; penyisipan numbered footnotes 1-to-1. |
 | **MODERATE (Medium)** | **Level 5: Utang Kompleksitas (*Design Debt*)** | SOP terlalu rumit; formulir observasi musyrif memakan waktu > 15 menit per kamar. | Pengabaian instrumen di lapangan; pengisian logbook asal-asalan. | **Penyederhanaan Desain**: Rekayasa ulang alur kerja berbasis prinsip humanis. |
-| **MINOR (Low)** | **Level 6: Ketidakrapian Tipografi & Redaksi** | Teks Arab tidak berharakat lengkap; inkonsistensi penomoran heading markdown. | Penurunan estetika monograf; potensi salah baca lafaz. | **Perapian Redaksional**: Standardisasi tipografi teks Arab dan markdown. |
+| **MINOR (Low)** | **Level 6: Cacat Format Kotak Manual & Tipografi** | Membuat kotak teks manual memakai `_`, `|`, atau karakter ASCII; teks Arab tidak berharakat lengkap. | Penurunan estetika repositori; kerusakan rendering lintas platform. | **Konversi ke Tabel Markdown**: Hapus seluruh border kotak ASCII/manual dan ubah menjadi tabel Markdown formal. |
 
 ---
 
@@ -55,7 +57,7 @@ Dalam memeriksa sebuah dokumen, Auditor Kualitas menjalankan prosedur pengujian 
 
 ```mermaid
 flowchart TD
-    Start["Dokumen Diajukan untuk Audit"] --> T1["Tahap 1: Static Structural Gate<br/>• Volume >= 400 baris substantif<br/>• Format baku 13 Bagian Jurnal<br/>• Zero Python script & Zero Paywall DOI"]
+    Start["Dokumen Diajukan untuk Audit"] --> T1["Tahap 1: Static Structural Gate<br/>• Volume >= 400 baris substantif<br/>• Format baku 13 Bagian Jurnal<br/>• Zero Python script & Zero Paywall DOI<br/>• Semua tulisan dalam kotak wajib pakai tabel Markdown (zero ASCII box)"]
     T1 -->|Lolos| T2["Tahap 2: Epistemic & Syar'i Audit<br/>• Autentisitas nash Al-Qur'an & Takhrij Hadits<br/>• Teks Arab berharakat rapi<br/>• Keselarasan 9 Domain Fondasi"]
     T1 -->|Gagal| Reject["Ditolak (Veto Build)"]
     

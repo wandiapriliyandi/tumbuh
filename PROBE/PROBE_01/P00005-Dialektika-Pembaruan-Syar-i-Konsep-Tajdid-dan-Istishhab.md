@@ -39,30 +39,11 @@ Kondisi ini melahirkan anomali kelembagaan yang sangat mencemaskan:
 2. **Ambiguitas Penegakan Regulasi Asrama**: Karena dokumen tata tertib tidak memiliki kontrol versi (*version control*), musyrif antar-generasi memiliki tafsir yang saling bertentangan mengenai batas-batas pelanggaran adab. Ketiadaan rekam jejak keputusan (*traceability*) menyebabkan penanganan santri bergantung mutlak pada *mood* dan subjektivitas pembina asrama, yang kerap berujung pada hukuman retributif fisik berlebihan.
 3. **Keterjebakan dalam Dikotomi Semu**: Ketika pimpinan pesantren menyadari kelemahan format lama, solusi yang sering diambil adalah mendatangkan konsultan korporasi umum yang menerapkan standardisasi ISO atau Enterprise Architecture sekuler secara mentah-mentah. Langkah ini memicu resistensi kultural yang hebat dari para kiai sepuh karena istilah-istilah adab nabawiyyah diganti menjadi parameter materialistis yang hampa dari dimensi ukhrawi.
 
-```text
-DILEMA TEOLOGIS PENGELOLAAN DOKUMEN SISTEM PESANTREN
-
-     KUTUB JUMUD KONSERVATIF                          KUTUB TEKNOKRASI SEKULER
-  ┌────────────────────────────────────────┐       ┌────────────────────────────────────────┐
-  │ "Setiap perubahan struktur dokumen     │       │ "Singkirkan konsep adab dan turats;   │
-  │ adalah bid'ah dhalalah. Warisan kertas │       │ pesantren harus meniru manajemen kor-  │
-  │ lusuh kiai tabu diubah atau diganti."  │       │ porasi bisnis demi efisiensi total."   │
-  └────────────────────────────────────────┘       └────────────────────────────────────────┘
-                      │                                                │
-                      ▼ PATOLOGI                                       ▼ PATOLOGI
-  ┌────────────────────────────────────────┐       ┌────────────────────────────────────────┐
-  │ • Lembaga lumpuh hadapi krisis moral.  │       │ • Hilangnya barakah, adab, dan sanad.  │
-  │ • Penumpukan utang teknis tak terkendali│      │ • Santri direduksi menjadi komoditas,  │
-  │ • Kezaliman fisik laten di kamar santri│       │   musyrif bertindak mekanistik hampa.  │
-  └────────────────────────────────────────┘       └────────────────────────────────────────┘
-                      │                                                │
-                      └───────────────────────┬────────────────────────┘
-                                              ▼
-                                    RESOLUSI DIALEKTIS V2.0.0:
-                       "Tajdid al-Wasa'il fi Khidmati Tsabatil Maqashid:
-                      Memperbarui Sarana Repositori demi Mengabdi pada
-                         Keabadian Adab, Tauhid, dan Kemuliaan Fitrah"
-```
+| Dimensi Dilema | Kutub Jumud Konservatif | Kutub Teknokrasi Sekuler |
+| :--- | :--- | :--- |
+| **Premis Doktrinal** | "Setiap perubahan struktur dokumen adalah bid'ah dhalalah. Warisan kertas lusuh kiai tabu diubah atau diganti." | "Singkirkan konsep adab dan turats; pesantren harus meniru manajemen korporasi bisnis demi efisiensi total." |
+| **Patologi Lapangan** | • Lembaga lumpuh menghadapi krisis moral.<br>• Penumpukan utang teknis tak terkendali.<br>• Kezaliman fisik laten di kamar santri. | • Hilangnya barakah, adab, dan sanad.<br>• Santri direduksi menjadi komoditas, musyrif bertindak mekanistik hampa. |
+| **Resolusi Dialektis V2.0.0** | <div align="center">**"Tajdid al-Wasa'il fi Khidmati Tsabatil Maqashid"**<br>Memperbarui sarana repositori demi mengabdi pada keabadian adab, tauhid, dan kemuliaan fitrah santri.</div> |
 
 ### 3.2. Mengapa Dialektika Pembaruan Syar'i Menjadi Imperatif
 Kebutuhan akan perumusan landasan teologis yang jernih bagi transformasi dokumen pesantren bukanlah kemewahan teoretis, melainkan kebutuhan darurat eksistensial (*dharurah syar'iyyah*). Kegagalan merumuskan dialektika pembaruan syar'i menyebabkan lembaga pendidikan Islam terombang-ambing di antara dua kutub ekstrim:
@@ -151,27 +132,11 @@ Dinamika antara kesinambungan (*continuity*) dan pembaharuan (*renewal*) tidak h
 ### 5.1. Teori Punctuated Equilibrium (Stephen Jay Gould & Niles Eldredge, 1972)
 Dalam bidang biologi evolusioner dan teori sistem sosial, Stephen Jay Gould dan Niles Eldredge mematahkan mitos gradualisme bertahap (*phyletic gradualism*) melalui teori **Punctuated Equilibrium**:
 
-```text
-DIAGRAM: PUNCTUATED EQUILIBRIUM DALAM SIKLUS HIDUP REPOSITORI PESANTREN
-
- TINGKAT KEMATANGAN SISTEM
-       ▲
-       │                                             EQUILIBRIUM V2.0.0 (ISTISHHAB V2)
-       │                                        ┌─────────────────────────────────────►
-       │                                        │ (Kestabilan Kanonik: Repositori Rapi,
-       │                         PUNCTUATION    │  Traceability Tinggi, Bebas Cacat)
-       │                         LOMPATAN TAJDID│
-       │                         ┌──────────────┘
-       │                         │ (Restrukturisasi Masif di Branch v2.0.0:
-       │                         │  P00000 - P00119, Standar 13 Bagian Jurnal Riset)
-       │                         │
-       │ STASIS V1 (ISTISHHAB V1)│
-       ├─────────────────────────┘
-       │ (Stabilitas format warisan:
-       │  Beban utang teknis menumpuk,
-       │  inkonsistensi dokumen tinggi)
-       └──────────────────────────────────────────────────────────────────────────────► WAKTU
-```
+| Fase Siklus Hidup | Karakteristik Status Repositori | Manifestasi dalam TUMBUH |
+| :--- | :--- | :--- |
+| **Stasis V1 (*Istishhab V1*)** | Periode kestabilan format dokumen lama; utang teknis menumpuk, inkonsistensi antar-dokumen tinggi, dan terjadi kompromi semu. | Sistem warisan v1 yang lambat laun memicu anomali dan kelemahan penegakan adab santri. |
+| **Punctuation (*Lompatan Tajdid*)** | Fase intervensi radikal, terarah, dan terfokus untuk merombak total struktur dasar repositori. | Restrukturisasi masif di Branch `v2.0.0` (P00000 s/d P00119, kepatuhan standar 13 bagian jurnal riset). |
+| **Equilibrium V2 (*Istishhab V2*)** | Keseimbangan baru kanonik yang kokoh, stabil, memiliki keterlacakan tinggi, dan bebas cacat arsitektur. | Tata kelola repositori v2.0.0 yang terkunci secara permanen dan terlacak sanad ilmiahnya. |
 
 Gould dan Eldredge membuktikan bahwa sebuah sistem yang kompleks tidak berkembang secara lambat-merata sepanjang waktu. Sebaliknya, sistem berada dalam periode keseimbangan dan stabilitas yang panjang (*stasis/equilibrium*), di mana hukum dan aturan berjalan stabil tanpa modifikasi struktural. Inilah padanan saintifik dari **Kaidah Istishhab**.
 
@@ -192,23 +157,10 @@ Dalam konteks pesantren:
 ### 5.3. Teori Inovasi Arsitektural (*Architectural Innovation Theory*) Rebecca M. Henderson & Kim B. Clark
 Dalam studi rekayasa produk dan manajemen teknologi terkemuka mereka, Rebecca M. Henderson dan Kim B. Clark (1990) menguraikan taksonomi inovasi berdasarkan dua dimensi independen: perubahan konsep komponen inti (*core concepts*) dan perubahan keterkaitan antar-komponen (*linkages between components*).
 
-```text
-MATRIKS TAKSONOMI INOVASI HENDERSON & CLARK (1990)
-
-                     KETERKAITAN ANTAR-KOMPONEN (LINKAGES)
-                     TIDAK BERUBAH                 DIUBAH / DITATA ULANG
-                 ┌─────────────────────────────┬─────────────────────────────┐
-   TIDAK         │      INOVASI INKREMENTAL    │     INOVASI ARSITEKTURAL    │
-   BERUBAH       │ (Perbaikan redaksi pasal,   │ (BRANCH V2.0.0: Inti nilai  │
-KONSEP           │  pembaruan tipografi teks)  │  adab & turats UTUH, cara   │
-KOMPONEN         │                             │  hubung dokumen DIROMBAK)   │
-INTI             ├─────────────────────────────┼─────────────────────────────┤
-(CORE            │       INOVASI MODULAR       │       INOVASI RADIKAL       │
-CONCEPTS)        │ (Mengganti satu modul SOP   │ (Membuang seluruh turats,   │
-   DIUBAH        │  tanpa mengubah arsitektur  │  mengganti pesantren dengan │
-                 │  penghubung direktori)      │  akademi sekuler Barat)     │
-                 └─────────────────────────────┴─────────────────────────────┘
-```
+| Konsep Komponen Inti (*Core Concepts*) | Keterkaitan Antar-Komponen: Tidak Berubah | Keterkaitan Antar-Komponen: Diubah / Ditata Ulang |
+| :--- | :--- | :--- |
+| **Tidak Berubah** | **Inovasi Inkremental**<br>Perbaikan redaksi pasal, pembaruan tipografi teks administratif. | **Inovasi Arsitektural (Branch V2.0.0)**<br>Inti nilai adab & turats utuh terjaga, cara hubung dan hierarki dokumen dirombak total. |
+| **Diubah** | **Inovasi Modular**<br>Mengganti satu modul SOP tanpa mengubah arsitektur penghubung direktori. | **Inovasi Radikal**<br>Membuang seluruh turats, mengganti hakikat pesantren menjadi akademi sekuler barat. |
 
 Pembedaan ini memberikan landasan teori rekayasa yang sangat jernih bagi Branch `v2.0.0`:
 - **Branch v2.0.0 bukanlah Inovasi Radikal**: v2.0.0 sama sekali tidak mengubah konsep komponen inti Islam (*core concepts preserved*); tauhid, fiqih ibadah, adab thalabul 'ilmi, dan sanad keilmuan tetap menjadi fondasi yang mutlak dipertahankan.
@@ -225,26 +177,13 @@ Kaidah Istishhab kerap kali disalahgunakan oleh pihak konservatif sebagai topeng
 
 Penyelidikan ini menghadapkan tiga kutub epistemik utama yang bertarung dalam perdebatan manajemen pendidikan Islam:
 
-```text
-MATRIKS DIALEKTIKA KONFRONTATIF: TIGA KUTUB PEMIKIRAN TATA KELOLA PESANTREN
-
-PARAMETER EVALUASI     KUTUB JUMUDISME TEKSTUAL         KUTUB TEKNOKRASI MODERNIS        SINTESIS TAJDID SYAR'I TUMBUH V2
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-1. Hakikat Format      Disakralkan sebagai warisan      Dianggap sampah sejarah usang    Wasa'il nisbi yang wajib ditata
-   Dokumen & Repositori salaf yang haram diubah.         yang wajib diganti standar ISO.  ulang demi mengabdi pada maqashid.
-
-2. Hubungan dengan     Menolak total instrumen digital; Meniru sistem korporasi tanpa    Mengintegrasikan sains sistem ke
-   Sains Kontemporer   menganggap Git adalah tasyabbuh. filtrasi syariat dan adab.       dalam bingkai tauhid dan turats.
-
-3. Penafsiran Kaidah   Disalahpahami sebagai kewajiban  Dibuang total; memutus mata      Diterapkan proporsional: mengawal
-   Istishhab           mempertahankan kebiasaan lama.   rantai sanad sejarah keilmuan.   kesinambungan nilai-nilai pokok.
-
-4. Penafsiran Doktrin  Dicemaskan sebagai pembongkaran  Diterjemahkan sebagai sekulari-  Dimaknai sebagai revitalisasi sarana
-   Tajdid              agama (bid'ah dhalalah).         sasi dan westernisasi institusi. demi melindungi kesucian generasi.
-
-5. Dampak terhadap     Lembaga rapuh, kezaliman fisik   Pesantren kehilangan ruh berkah, Berkemajuan secara ilmiah, kokoh
-   Santri dan Musyrif  laten, musyrif bertindak liar.   santri teralienasi jadi mesin.   secara syar'i, aman bagi fitrah santri.
-```
+| Parameter Evaluasi | Kutub Jumudisme Tekstual | Kutub Teknokrasi Modernis | Sintesis Tajdid Syar'i TUMBUH V2 |
+| :--- | :--- | :--- | :--- |
+| **1. Hakikat Format Dokumen & Repositori** | Disakralkan sebagai warisan salaf yang haram diubah. | Dianggap sampah sejarah usang yang wajib diganti standar ISO. | Wasa'il nisbi yang wajib ditata ulang demi mengabdi pada maqashid. |
+| **2. Hubungan dengan Sains Kontemporer** | Menolak total instrumen digital; menganggap Git adalah tasyabbuh. | Meniru sistem korporasi tanpa filtrasi syariat dan adab. | Mengintegrasikan sains sistem ke dalam bingkai tauhid dan turats. |
+| **3. Penafsiran Kaidah Istishhab** | Disalahpahami sebagai kewajiban mempertahankan kebiasaan lama. | Dibuang total; memutus mata rantai sanad sejarah keilmuan. | Diterapkan proporsional: mengawal kesinambungan nilai-nilai pokok. |
+| **4. Penafsiran Doktrin Tajdid** | Dicemaskan sebagai pembongkaran agama (bid'ah dhalalah). | Diterjemahkan sebagai sekularisasi dan westernisasi institusi. | Dimaknai sebagai revitalisasi sarana demi melindungi kesucian generasi. |
+| **5. Dampak terhadap Santri dan Musyrif** | Lembaga rapuh, kezaliman fisik laten, musyrif bertindak liar. | Pesantren kehilangan ruh berkah, santri teralienasi jadi mesin. | Berkemajuan secara ilmiah, kokoh secara syar'i, aman bagi fitrah santri. |
 
 ### 6.1. Dekonstruksi Argumen Para Pihak
 1. **Dekonstruksi Tuduhan Kubu Jumudisme Tekstual ("Restrukturisasi Berkas adalah Bid'ah")**:
@@ -373,22 +312,13 @@ Bagian ini menyajikan enam matriks analitis komprehensif yang menguraikan dimens
 
 Untuk menjamin bahwa setiap pembaruan arsitektur pada Branch `v2.0.0` memenuhi standar legitimasi syar'i dan keunggulan rekayasa sistem, Dewan Arsitektur menetapkan **Lima Tahap Prosedur Audit Tajdid Repositori**:
 
-```text
-ALUR LIMA TAHAP AUDIT KEPATUHAN TAJDID SYAR'I REPOSITORI TUMBUH
-
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │   1. GERBANG NAQLI     │ ───► │  2. AUDIT MAQASHIDI    │ ───► │   3. FILTER USHULI     │
- │ Verifikasi ketiadaan   │      │ Uji perlindungan 5     │      │ Penyelarasan dengan    │
- │ benturan nash qath'i.  │      │ kemaslahatan primer.   │      │ kaidah ushul fiqih.    │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-                                                                              │
-                                                                              ▼
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │  5. SILSILAH KRIPTO    │ ◄─── │   4. SYURA MASYAIKH    │ ◄────┘ Uji Dampak Beban       │
- │ Pengikatan commit Git  │      │ Sidang pengesahan      │        Kognitif & Kebugaran   │
- │ ke sanad digital abadi.│      │ Dewan Kiai & Pakar.    │        Repositori.            │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-```
+| Gerbang | Nama Prosedur Audit | Fokus Verifikasi |
+| :---: | :--- | :--- |
+| **1** | **Gerbang Naqli** | Verifikasi kepatuhan mutlak dan ketiadaan benturan dengan nash sharih yang qath'i. |
+| **2** | **Audit Maqashidi** | Uji perlindungan lima kemaslahatan pokok (*al-kulliyyat al-khams*): din, nafs, 'aql, nasl/irdh, dan mal. |
+| **3** | **Filter Ushuli** | Penyelarasan dengan kaidah ushul fiqih (*dar'ul mafasid muqaddamun 'ala jalbil mashalih*). |
+| **4** | **Syura Masyaikh** | Sidang pengesahan Dewan Kiai & Pakar; uji beban kognitif musyrif dan kebugaran lapangan. |
+| **5** | **Silsilah Kriptografis** | Pengikatan commit Git ke sanad digital abadi melalui *GPG signed commit*. |
 
 ### 9.1. Prosedur Kerja Rinci Lima Gerbang Audit
 1. **Gerbang 1: Uji Keselarasan Nash Sharih (*The Naqli Gate*)**:
@@ -424,54 +354,18 @@ Untuk mencegah terjadinya distorsi arsitektur secara tidak sengaja selama proses
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0005)
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                   ARCHITECTURAL DECISION RECORD (ADR) — TUMBUH-V2-0005                 │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ NOMOR KEPUTUSAN      : ADR-PROBE-0005                                                  │
-│ JUDUL KEPUTUSAN      : Legitimasi Tajdid Syar'i, Istishhab, & Rekayasa Arsitektur      │
-│ STATUS DOKUMEN       : KANONIK / APPROVED & PERMANENTLY LOCKED                         │
-│ TANGGAL PENETAPAN    : 25 Oktober 2026                                                 │
-│ OTORITAS ARSITEKTUR  : Dewan Arsitektur Repositori TUMBUH & Majelis Epistemologi Turats│
-│ RUANG LINGKUP        : Pembaharuan Dokumen, Kontrol Versi Git, & Standar Jurnal Riset │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. KONTEKS DAN LATAR BELAKANG EPISTEMIK:                                               │
-│    Evolusi dokumen pesantren kerap terperangkap di antara dua kutub ekstrim: jumudisme  │
-│    tekstual yang menganggap inovasi format sebagai bid'ah dhalalah, dan teknokrasi     │
-│    modernis yang membuang adab dan turats demi standarisasi sekuler. Diperlukan sebuah │
-│    keputusan arsitektural yang memiliki fondasi syar'i kokoh berdasarkan dialektika     │
-│    Tajdid (pembaharuan sarana) dan Istishhab (keabadian prinsip pokok) untuk memimpin   │
-│    ekosistem TUMBUH keluar dari perangkap utang teknis warisan v1.                     │
-│                                                                                        │
-│ 2. KEPUTUSAN REKAYASA SISTEM YANG DITETAPKAN:                                          │
-│    Dewan Arsitektur menetapkan DOKTRIN TAJDID SYAR'I SEBAGAI STATUS RESMI DAN MENGIKAT   │
-│    BAGI SELURUH EVOLUSI DOKUMEN PADA BRANCH V2.0.0:                                    │
-│    a. Menegakkan prinsip Istishhab secara mutlak pada seluruh nilai tauhid, rukun iman,│
-│       akhlak karimah, maqashid syari'ah, dan keluhuran fitrah santri.                  │
-│    b. Memberikan legitimasi ijtihad Tajdid penuh untuk merombak hierarki berkas,       │
-│       menerapkan kontrol versi Git terdistribusi, membagi direktori ke 3 lapisan fungsional│
-│       (01-03), dan mengadopsi standar 13 bagian jurnal riset desain sistem ilmiah.    │
-│    c. Menolak secara mutlak tuduhan bid'ah terhadap rekayasa repositori digital,       │
-│       berdasarkan fatwa Imam Asy-Syathibi mengenai wasa'il al-mustahdatsah dan kaidah  │
-│       irtifaqat Shah Waliullah Ad-Dahlawi.                                             │
-│    d. Mengunci kewajiban kepatuhan terhadap 5 Tahap Prosedur Audit Tajdid Repositori    │
-│       bagi setiap rilis dokumen kanonik baru.                                          │
-│                                                                                        │
-│ 3. JUSTIFIKASI TEOLOGIS DAN ILMIAH:                                                    │
-│    a. Melaksanakan amanat hadits nubuwwah mengenai mujaddid peradaban (HR. Abu Dawud   │
-│       no. 4291) yang disahihkan oleh Al-Hakim, Adz-Dzahabi, dan Ibnu Hajar.            │
-│    b. Menyelaraskan tata kelola dengan teori evolusi Punctuated Equilibrium (Gould &   │
-│       Eldredge), Pergeseran Paradigma (Thomas Kuhn), dan Inovasi Arsitektural (Clark).  │
-│    c. Memutus jebakan path dependence dan mencegah terulangnya bencana kezaliman fisik │
-│       santri sebagaimana terbukti secara empiris pada studi kasus Pesantren Darus Sunnah│
-│                                                                                        │
-│ 4. BATASAN SISTEM & KONSEKUENSI KEPUTUSAN:                                             │
-│    a. Dilarang melakukan tajdid yang melanggar nash sharih yang qath'i.                │
-│    b. Dilarang mengganti terminologi adab, tarbiyah, dan musyrif dengan istilah bisnis. │
-│    c. Seluruh berkas lama v1 resmi didekomisi dan dipreservasi di direktori `99_ARCHIVE/`│
-│    d. Pelanggaran terhadap ADR ini akan memicu pembatalan otomatis proses build commit.│
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0005 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0005` |
+| **Judul Keputusan** | Legitimasi Tajdid Syar'i, Istishhab, & Rekayasa Arsitektur Repositori |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Penetapan** | 25 Oktober 2026 |
+| **Otoritas Arsitektur**| Dewan Arsitektur Repositori TUMBUH & Majelis Epistemologi Turats |
+| **Ruang Lingkup** | Pembaharuan Dokumen, Kontrol Versi Git, & Standar Jurnal Riset |
+| **1. Konteks & Latar Belakang** | Evolusi dokumen pesantren kerap terperangkap di antara dua kutub ekstrim: jumudisme tekstual yang menganggap inovasi format sebagai bid'ah dhalalah, dan teknokrasi modernis yang membuang adab dan turats demi standarisasi sekuler. Diperlukan sebuah keputusan arsitektural yang memiliki fondasi syar'i kokoh berdasarkan dialektika Tajdid (pembaharuan sarana) dan Istishhab (keabadian prinsip pokok) untuk memimpin ekosistem TUMBUH keluar dari perangkap utang teknis warisan v1. |
+| **2. Keputusan yang Ditetapkan** | Dewan Arsitektur menetapkan **Doktrin Tajdid Syar'i Sebagai Status Resmi & Mengikat** bagi seluruh evolusi dokumen pada Branch V2.0.0:<br>a. Menegakkan prinsip Istishhab secara mutlak pada seluruh nilai tauhid, rukun iman, akhlak karimah, maqashid syari'ah, dan keluhuran fitrah santri.<br>b. Memberikan legitimasi ijtihad Tajdid penuh untuk merombak hierarki berkas, menerapkan kontrol versi Git terdistribusi, membagi direktori ke 3 lapisan fungsional (01-03), dan mengadopsi standar 13 bagian jurnal riset desain sistem ilmiah.<br>c. Menolak secara mutlak tuduhan bid'ah terhadap rekayasa repositori digital, berdasarkan fatwa Imam Asy-Syathibi mengenai wasa'il al-mustahdatsah dan kaidah irtifaqat Shah Waliullah Ad-Dahlawi.<br>d. Mengunci kewajiban kepatuhan terhadap 5 Tahap Prosedur Audit Tajdid Repositori bagi setiap rilis dokumen kanonik baru. |
+| **3. Justifikasi Teologis & Ilmiah** | a. Melaksanakan amanat hadits nubuwwah mengenai mujaddid peradaban (HR. Abu Dawud no. 4291) yang disahihkan oleh Al-Hakim, Adz-Dzahabi, dan Ibnu Hajar.<br>b. Menyelaraskan tata kelola dengan teori evolusi Punctuated Equilibrium (Gould & Eldredge), Pergeseran Paradigma (Thomas Kuhn), dan Inovasi Arsitektural (Clark).<br>c. Memutus jebakan path dependence dan mencegah terulangnya bencana kezaliman fisik santri sebagaimana terbukti secara empiris pada studi kasus Pesantren Darus Sunnah. |
+| **4. Batasan & Konsekuensi** | a. Dilarang melakukan tajdid yang melanggar nash sharih yang qath'i.<br>b. Dilarang mengganti terminologi adab, tarbiyah, dan musyrif dengan istilah bisnis.<br>c. Seluruh berkas lama v1 resmi didekomisi dan dipreservasi di direktori `99_ARCHIVE/`.<br>d. Pelanggaran terhadap ADR ini akan memicu pembatalan otomatis proses build commit. |
 
 ---
 

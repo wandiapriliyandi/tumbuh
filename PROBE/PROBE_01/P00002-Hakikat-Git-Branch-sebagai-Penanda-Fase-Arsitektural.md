@@ -46,21 +46,10 @@ Dalam dekade terakhir, digitalisasi administrasi pesantren umumnya hanya berhent
 2. **Ketiadaan Bukti Otentisitas Matematis (*Absence of Cryptographic Attribution*)**: Ketika timbul sengketa redaksional terkait perubahan pasal evaluasi atau pembagian tugas musyrif, dokumen PDF yang beredar tidak menyediakan bukti matematis mengenai siapa individu yang pertama kali menyisipkan kalimat tersebut, pada tanggal dan jam berapa perubahan dilakukan, serta apa argumentasi rasional di baliknya. Format berkas konvensional sangat mudah diubah, diedit kembali, dan dipalsukan tanpa meninggalkan jejak hisab.
 3. **Pencemaran Ruang Kebijakan oleh Eksperimen Mentah (*Premature Ideological Contamination*)**: Gagasan filosofis yang masih berada dalam tahap perdebatan sengit diuji coba langsung di lingkungan pesantren tanpa melalui ruang karantina pemikiran yang aman.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│              PATOLOGI TATA KELOLA DOKUMEN PESANTREN TANPA PERCABANGAN           │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   MODEL LINIER KONVENSIONAL (SATU JALUR TANPA BRANCH):                          │
-│   Ide Baru Diketik ──► Tersimpan di Folder Tunggal ──► Ekspor PDF Lepas ──►    │
-│   Bocor ke Grup WA ──► Disalahpahami sebagai Regulasi Sah ──► Fitnah Kelembagaan│
-│                                                                                 │
-│   MODEL ARSITEKTUR KANONIK PERCABANGAN (BRANCHING V2):                          │
-│   Ide Diuji di PROBE ──► Terisolasi di Branch v2.0.0 ──► Audit Maturity Gates ─►│
-│   Konsensus Dewan Kiai ──► Merge ke Branch Main ──► Tagging Rilis Kanonik Sah.  │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Model Tata Kelola | Alur Pergerakan Dokumen | Dampak Kelembagaan di Pesantren |
+|---|---|---|
+| **Model Linier Konvensional (Tanpa Branch)** | Ide Baru Diketik  →  Tersimpan di Folder Tunggal  →  Ekspor PDF Lepas  →  Bocor ke Grup WA | Disalahpahami sebagai regulasi sah, memicu kebingungan wali santri dan fitnah kelembagaan. |
+| **Model Arsitektur Kanonik Percabangan (Branching V2)** | Ide Diuji di PROBE  →  Terisolasi di Branch v2.0.0  →  Audit Maturity Gates  →  Konsensus Dewan Kiai  →  Merge ke Main  →  Tagging Rilis | Kepastian status hukum dokumen, proteksi ruang eksperimen, dan legitimasi kanonik yang kokoh. |
 
 ### 3.2. Anatomi Biaya Sosial dan Reputasi Akibat Anarki Berkas Tanpa Kontrol Versi
 Kerugian akibat tiadanya sistem kontrol versi bercabang di lembaga pendidikan Islam tidak semata-mata bersifat teknis administratif, melainkan menyentuh ranah moral, sosial, dan hukum:
@@ -143,27 +132,11 @@ Struktur dasar sistem kontrol versi Git yang dirancang oleh Linus Torvalds (2005
 2. **Keterikatan Hash Berlapis (*Cryptographic Hash Chaining*)**: Setiap commit memuat hash dari commit induk (*parent commit*), pohon berkas (*tree*), metadata pengarang (*author*), dan pesan pencatatan (*commit message*).
 3. **Konsekuensi Immutabilitas Matematis**: Jika seseorang mencoba mengubah satu spasi atau satu huruf pada sebuah pasal di masa lalu, nilai SHA pada berkas tersebut akan berubah drastis (*avalanche effect*). Perubahan tersebut merusak konsistensi pohon hash induk hingga ke commit akar (*root*), sehingga manipulasi naskah akan terdeteksi seketika oleh sistem.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               INTEGRITAS POHON MERKLE DALAM KONTROL VERSI KANONIK               │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   COMMIT C2 (Hash: e7f1...) ──► Merujuk ke Induk Commit C1 (Hash: a4b2...)      │
-│         │                                                                       │
-│         ▼                                                                       │
-│     ROOT TREE                                                                   │
-│    ┌────┴──────────────────────────┐                                            │
-│    ▼                               ▼                                            │
-│ SUB-TREE 01_FUNDAMENTAL      SUB-TREE PROBE                                     │
-│    │                               │                                            │
-│    ▼                               ▼                                            │
-│ BLOB Dokumen Filosofi        BLOB P00002.md                                     │
-│ (SHA: 9f8a... Utuh Terkunci) (SHA: 3c2d... Teks Markdown Asli)                 │
-│                                                                                 │
-│ [Manipulasi 1 Huruf] ──► SHA Blob Berubah ──► SHA Tree Rusak ──► Validasi Batal │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Komponen Pohon Merkle | Representasi Struktur Data Git | Peran Penjaminan Integritas Arsitektur |
+|---|---|---|
+| **Commit Object (C2  →  C1)** | Simpul kriptografis tertaut hash induk | Mengunci urutan kronologis silsilah revisi tanpa celah pemalsuan riwayat (*tamper-proof*). |
+| **Root Tree & Sub-Trees** | Pohon direktori (`01_FUNDAMENTAL`, `PROBE`, dll.) | Menjamin keutuhan hirarki folder dan demarkasi batas epistemik. |
+| **Blob Objects** | Berkas naskah teks utuh (SHA unik) | Deteksi instan: manipulasi 1 karakter akan mengubah SHA Blob, merusak hash Tree, dan membatalkan validasi. |
 
 Keterhubungan dengan judul: Penandaan fase arsitektural di Git dijamin oleh pohon Merkle ini. Branch bukanlah salinan direktori fisik yang berdiri terpisah dan boros ruang simpan, melainkan sebuah penunjuk (*pointer*) bergerak yang merujuk pada simpul commit tertentu di dalam graf kriptografis.
 
@@ -334,27 +307,13 @@ Bab ini menyajikan 5 matriks analitis komparatif yang memperjelas fungsi arsitek
 
 Guna memastikan setiap branch di repositori TUMBUH dioperasikan dengan kepatuhan adab keilmuan dan ketepatan teknis, ditetapkan **Branching Lifecycle Protocol** dalam 5 tahap:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               ALUR 5 TAHAP PROTOKOL SIKLUS HIDUP PERCABANGAN (V2.0.0)           │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   [1. ISOLATION CHECK]  ──► Buka branch v2.0.0 terproteksi; kunci hak akses     │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [2. RESEARCH DRILL]   ──► Tulis naskah riset PROBE (standar 13 bagian jurnal) │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [3. QUALITY GATES]    ──► Uji volume (>8.500 kata), teks Arab, dan APA 7th    │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [4. SYURA CONSENSUS]  ──► Sidang tashdiq Dewan Masyaikh & pakar arsitektur    │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [5. CANONICAL MERGE]  ──► Fast-forward merge ke Main & penguncian Release Tag │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahap Siklus Hidup | Nama Tahap | Deskripsi Tindakan Prosedural Pengembang |
+|:---:|---|---|
+| 1 | **Isolation Check** | Buka branch `v2.0.0` terproteksi dan kunci hak akses penulisan langsung |
+| 2 | **Research Drill** | Lakukan inkuiri mendalam dan tulis berkas PROBE sesuai standar 13 bagian jurnal |
+| 3 | **Quality Gates** | Uji pemenuhan volume (>8.500 kata), teks Arab berharakat, dan sitasi APA 7th Edition bersih |
+| 4 | **Syura Consensus** | Sidang *tashdiq* dan deliberasi musyawarah bersama Dewan Kiai serta pakar arsitektur |
+| 5 | **Canonical Merge** | *Fast-forward merge* ke branch `main` disertai penguncian Release Tag kanonik permanen |
 
 ### Prosedur Kerja Rinci bagi Pengembang & Peneliti:
 1. **Tahap 1: Pembukaan Percabangan Terisolasi (*Branch Isolation Gate*)**:
@@ -380,48 +339,21 @@ Guna memastikan setiap branch di repositori TUMBUH dioperasikan dengan kepatuhan
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0002)
 
-```text
-================================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0002
-================================================================================
-Judul: Penetapan Git Branch sebagai Pagar Epistemik dan Penanda Fase Arsitektural
-Status: APPROVED & LOCKED CANONICAL BASELINE
-Tanggal: 25 Oktober 2026
-Penyusun: Dewan Arsitektur Repositori TUMBUH v2.0.0
-Domain: Meta-Arsitektur, Rekayasa Kontrol Versi, Adab Sanad Digital
-================================================================================
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0002 |
+| **Judul** | Penetapan Git Branch sebagai Pagar Epistemik dan Penanda Fase Arsitektural |
+| **Status** | *Approved & Locked Canonical Baseline* |
+| **Tanggal** | 25 Oktober 2026 |
+| **Penyusun** | Dewan Arsitektur Repositori TUMBUH v2.0.0 |
+| **Domain** | Meta-Arsitektur, Rekayasa Kontrol Versi, Adab Sanad Digital |
 
-1. KONTEKS & MASALAH:
-Ketiadaan batas formal antara draf kajian mentah dengan regulasi resmi di pesantren
-telah memicu kebocoran naskah siluman, keresahan wali santri, dan kebingungan musyrif.
-Di sisi lain, terdapat kesalahpahaman bahwa Git adalah utilitas koding semata yang
-tidak relevan dengan tradisi adab dokumen Islam. Repositori membutuhkan landasan
-epistemik dan keputusan teknis resmi yang mendudukkan fungsi branch kontrol versi.
-
-2. KEPUTUSAN ARSITEKTURAL:
-Menetapkan secara resmi dan permanen bahwa:
-a. Teknologi Git Branch DIANGKAT HARKATNYA menjadi PAGAR PEMBATAS EPISTEMIK KANONIK
-   (Epistemic Boundary Gate) yang memisahkan ruang Maqam Muswaddah (Branch v2.0.0)
-   dari ruang Maqam Mubayyadhah (Branch Main).
-b. Branch v2.0.0 ditetapkan sebagai ruang inkubasi mandiri jangka panjang bagi
-   seluruh proses penyelidikan PROBE, refaktorisasi naskah, dan pengujian sistem.
-c. Setiap naskah di repositori wajib dilindungi integritasnya melalui struktur data
-   pohon Merkle kriptografis, di mana setiap commit merupakan amanah hisab moral.
-
-3. KONSEKUENSI REKAYASA & OPERASIONAL:
-Positif:
-- Santri dan musyrif terlindungi 100% dari kegaduhan draf kebijakan yang belum matang.
-- Peneliti memiliki kebebasan ilmiah mutlak untuk meneliti di Branch v2.0.0.
-- Riwayat perubahan dokumen memiliki kekuatan pembuktian hukum yang tak terbantahkan.
-Negatif/Trade-off:
-- Memerlukan kedisiplinan pengembang untuk mematuhi alur Quality Gates sebelum merge.
-- Memerlukan literasi kontrol versi dasar bagi tim pengasuhan dan litbang pesantren.
-
-4. STATUS KEPATUHAN:
-Wajib dipatuhi oleh seluruh kontributor, pengembang, peneliti, dan asatidz di
-seluruh jaringan pesantren mitra ekosistem TUMBUH v2.0.0.
-================================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks & Masalah** | Ketiadaan batas formal antara draf kajian mentah dengan regulasi resmi di pesantren telah memicu kebocoran naskah siluman, keresahan wali santri, dan kebingungan musyrif. Di sisi lain, terdapat kesalahpahaman bahwa Git adalah utilitas koding semata yang tidak relevan dengan tradisi adab dokumen Islam. Repositori membutuhkan landasan epistemik dan keputusan teknis resmi yang mendudukkan fungsi branch kontrol versi. |
+| **2. Keputusan Arsitektural** | Menetapkan secara resmi dan permanen bahwa:<br>a. Teknologi Git Branch diangkat harkatnya menjadi **Pagar Pembatas Epistemik Kanonik** (*Epistemic Boundary Gate*) yang memisahkan ruang *Maqam Muswaddah* (Branch v2.0.0) dari ruang *Maqam Mubayyadhah* (Branch Main).<br>b. Branch v2.0.0 ditetapkan sebagai ruang inkubasi mandiri jangka panjang bagi seluruh proses penyelidikan PROBE, refaktorisasi naskah, dan pengujian sistem.<br>c. Setiap naskah di repositori wajib dilindungi integritasnya melalui struktur data pohon Merkle kriptografis, di mana setiap commit merupakan amanah hisab moral. |
+| **3. Konsekuensi Positif** | • Santri dan musyrif terlindungi 100% dari kegaduhan draf kebijakan yang belum matang.<br>• Peneliti memiliki kebebasan ilmiah mutlak untuk meneliti di Branch v2.0.0.<br>• Riwayat perubahan dokumen memiliki kekuatan pembuktian hukum yang tak terbantahkan. |
+| **4. Trade-off & Mitigasi** | Memerlukan kedisiplinan pengembang untuk mematuhi alur Quality Gates sebelum merge dan literasi kontrol versi dasar bagi tim pengasuhan dan litbang pesantren. |
 
 ---
 

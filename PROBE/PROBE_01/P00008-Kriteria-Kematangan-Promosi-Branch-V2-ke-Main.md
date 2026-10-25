@@ -34,31 +34,11 @@ Ketegangan epistemik mendasar yang diselesaikan oleh monograf ini berpijak pada 
 ### 3.1. Fenomenologi Rilis Prematur di Dunia Pendidikan Pesantren
 Dalam praktik manajemen organisasi pendidikan Islam, momen peralihan dari fase perancangan menuju fase pemberlakuan resmi sering kali dikotori oleh penyakit pragmatisme. Terjadi perlombaan semu di mana keindahan sampul dokumen dan retorika pidato peresmian lebih diutamakan daripada ketelitian pengujian substansi:
 
-```text
-DILEMA PROMOSI RILIS SISTEM DI DUNIA PENDIDIKAN PESANTREN
-
-      KUTUB PROMOSI PREMATUR                         KUTUB STAGNASI PERPETUAL
-    (Klaim Kesiapan Sepihak Tanpa Bukti)           (Eksplorasi Abadi Tanpa Rilis)
-   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-   │ Draf baru diresmikan ke publik  │            │ Branch v2 tidak pernah selesai; │
-   │ padahal masih penuh lubang dan  │            │ perdebatan tanpa ujung di bilik │
-   │ belum diuji; memicu kekacauan   │            │ teori; pesantren tetap menderita│
-   │ hukum di kamar asrama santri.   │            │ memakai sistem lama yang rusak. │
-   └─────────────────────────────────┘            └─────────────────────────────────┘
-                   │                                               │
-                   ▼ DAMPAK                                        ▼ DAMPAK
-   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-   │ • Regulasi ditarik kembali.     │            │ • Hilangnya momentum reformasi. │
-   │ • Kredibilitas yayasan hancur.  │            │ • Keputusasaan asatidz lapangan.│
-   │ • Santri jadi korban aturan labil│          │ • Kelelahan riset tanpa buah.   │
-   └─────────────────────────────────┘            └─────────────────────────────────┘
-                   │                                               │
-                   └───────────────────────┬───────────────────────┘
-                                           ▼
-                                 RESOLUSI KANONIK V2.0.0:
-                   "Tujuh Gerbang Kematangan Promosi Kanonik (7 Promotion Gates):
-                    Objektivitas Bukti, Uji Bebas Cacat, & Pengesahan Syura Masyaikh"
-```
+| Dimensi Keputusan | Kutub Promosi Prematur (Klaim Sepihak Tanpa Bukti) | Kutub Stagnasi Perpetual (Eksplorasi Abadi Tanpa Rilis) |
+| :--- | :--- | :--- |
+| **Karakteristik** | Draf baru diresmikan ke publik padahal masih penuh celah dan belum diuji; memicu kekacauan aturan di kamar asrama santri. | Branch v2 tidak pernah selesai; perdebatan tanpa ujung di bilik teori; pesantren tetap menderita memakai sistem lama yang rusak. |
+| **Dampak Patologis** | • Regulasi ditarik kembali secara memalukan.<br>• Kredibilitas yayasan hancur.<br>• Santri menjadi korban aturan labil. | • Hilangnya momentum reformasi peradaban.<br>• Keputusasaan asatidz lapangan.<br>• Kelelahan riset tanpa buah aplikatif. |
+| **Resolusi Kanonik V2.0.0** | <div align="center">**"Tujuh Gerbang Kematangan Promosi Kanonik (7 Promotion Gates)"**<br>Objektivitas bukti, uji bebas cacat, dan pengesahan resmi Syura Masyaikh sebelum promosi ke branch main.</div> |
 
 Tiga bentuk kejahatan metodologis yang kerap terjadi dalam promosi sistem pesantren:
 1. **Sindrom Rilis Euforia (*Euphoric Release Syndrome*)**:  
@@ -130,11 +110,11 @@ Watts Humphrey dan Software Engineering Institute (SEI) di Carnegie Mellon Unive
 ```text
 DIAGRAM TEORI SISTEM: TINGKATAN KEMATANGAN REPOSITORI (CMMI FOR REPOSITORIES)
 
-  TINGKAT 5: OPTIMIZING CANON  ──► Audit Mandiri Berkelanjutan & Pemurnian Sanad Otomatis.
-  TINGKAT 4: QUANTITATIVELY MANAGED ──► Metrik Kepatuhan 13 Bagian & Zero-Broken-Link Terbukti.
-  TINGKAT 3: DEFINED SYSTEM    ──► 120 Berkas PROBE Lengkap, ADR Dikunci, Turats Berharakat.
-  TINGKAT 2: MANAGED BRANCH    ──► Isolasi di Branch v2.0.0, Riwayat Git Terpelihara.
-  TINGKAT 1: INITIAL / AD-HOC  ──► (Era Warisan v1: Format Sporadis & Utang Teknis Menumpuk).
+  TINGKAT 5: OPTIMIZING CANON   →  Audit Mandiri Berkelanjutan & Pemurnian Sanad Otomatis.
+  TINGKAT 4: QUANTITATIVELY MANAGED  →  Metrik Kepatuhan 13 Bagian & Zero-Broken-Link Terbukti.
+  TINGKAT 3: DEFINED SYSTEM     →  120 Berkas PROBE Lengkap, ADR Dikunci, Turats Berharakat.
+  TINGKAT 2: MANAGED BRANCH     →  Isolasi di Branch v2.0.0, Riwayat Git Terpelihara.
+  TINGKAT 1: INITIAL / AD-HOC   →  (Era Warisan v1: Format Sporadis & Utang Teknis Menumpuk).
 ```
 
 Karakteristik setiap tingkat dalam evolusi repositori TUMBUH:
@@ -186,7 +166,6 @@ Penyelidikan ini menghadapkan tiga paradigma tata kelola promosi sistem yang ser
 MATRIKS DIALEKTIKA KONFRONTATIF: TIGA MODEL TATA KELOLA PROMOSI SISTEM
 
 PARAMETER EVALUASI     MODEL PROMOSI POLITIS OTORITER   MODEL PROKRASTINASI AKADEMIK     SINTESIS GERBANG KEMATANGAN V2
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 1. Dasar Keputusan     Kehendak pimpinan atau tekanan   Ketakutan dinilai publik;        Kepatuhan objektif terhadap
    Promosi Rilis       tenggat waktu seremonial yayasan.mencari kesempurnaan utopis.     Tujuh Gerbang Kematangan Kanonik.
 
@@ -341,22 +320,13 @@ Demarkasi tipologis ini menjamin bahwa Branch `v2.0.0` pasca-promosi tidak menja
 
 Untuk menjamin proses promosi berjalan secara objektif dan akuntabel, ditetapkan **Lima Prosedur Baku Promosi Kanonik**:
 
-```text
-ALUR LIMA TAHAP PROTOKOL PROMOSI KANONIK REPOSITORI TUMBUH
-
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │ 1. AUDIT 7 GERBANG     │ ───► │ 2. SIMULASI DRY-RUN    │ ───► │ 3. RATIFIKASI MASYAIKH │
- │ Verifikasi kelulusan   │      │ Uji merge lokal bebas  │      │ Sidang pleno Dewan     │
- │ seluruh 120 berkas.    │      │ konflik di sandbox.    │      │ Kiai membubuhi tanda.  │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-                                                                              │
-                                                                              ▼
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │ 5. TAG GPG PERMANEN    │ ◄─── │ 4. FAST-FORWARD MERGE  │ ◄────┘ Verifikasi Berita      │
- │ Pembuatan tag baseline │      │ Eksekusi merge linier  │        Acara & Penguncian     │
- │ rilis kanonik publik.  │      │ branch v2.0.0 ke main. │        Kunci Kriptografis GPG.│
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-```
+| Gerbang | Nama Prosedur Promosi | Tindakan Inti & Pengendalian Risiko |
+| :---: | :--- | :--- |
+| **1** | **Audit 7 Gerbang** | Verifikasi kelulusan seluruh 120 berkas monograf kanonik P00000 s/d P00119. |
+| **2** | **Simulasi Dry-Run** | Uji merge lokal bebas konflik di lingkungan sandbox terisolasi tanpa komit langsung. |
+| **3** | **Ratifikasi Masyaikh** | Sidang pleno Dewan Kiai dan Pengasuh membubuhi tanda tangan pengesahan syar'i. |
+| **4** | **Fast-Forward Merge** | Eksekusi merge linier branch v2.0.0 ke main untuk menjaga sejarah komit yang bersih. |
+| **5** | **Tag GPG Permanen** | Pembuatan Annotated Tag baseline rilis kanonik publik bertanda tangan kriptografis terenkripsi. |
 
 ### 9.1. Rincian Prosedur Operasional Lima Gerbang
 1. **Tahap 1: Audit Komprehensif Tujuh Gerbang Mutu (*7 Gates Comprehensive Audit*)**:  
@@ -433,49 +403,18 @@ Disiplin komputasional ini memberikan jaminan bahwa promosi kanonik branch `v2.0
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0008)
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                   ARCHITECTURAL DECISION RECORD (ADR) — TUMBUH-V2-0008                 │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ NOMOR KEPUTUSAN      : ADR-PROBE-0008                                                  │
-│ JUDUL KEPUTUSAN      : Kriteria Kematangan Promosi Kanonik Branch v2.0.0 Menuju Main   │
-│ STATUS DOKUMEN       : KANONIK / APPROVED & PERMANENTLY LOCKED                         │
-│ TANGGAL PENETAPAN    : 25 Oktober 2026                                                 │
-│ OTORITAS ARSITEKTUR  : Dewan Arsitektur Repositori TUMBUH & Majelis Masyaikh Pesantren │
-│ RUANG LINGKUP        : Kriteria Kematangan, Promosi Branch, & Audit Kesiapan Rilis     │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. KONTEKS DAN LATAR BELAKANG EPISTEMIK:                                               │
-│    Deklarasi promosi branch evolutif ke branch utama tanpa bukti kematangan terbukti   │
-│    memicu bencana hukum asrama, pembatalan regulasi yang memalukan, dan kerugian moral │
-│    santri. Diperlukan penetapan kriteria kematangan objektif berbasis konsep ushul     │
-│    rusyd dan rekayasa CMMI Level 4 sebelum status v2.0.0 disahkan menggantikan main.   │
-│                                                                                        │
-│ 2. KEPUTUSAN REKAYASA SISTEM YANG DITETAPKAN:                                          │
-│    Dewan Arsitektur menetapkan TUJUH GERBANG KEMATANGAN KANONIK (THE 7 PROMOTION GATES)│
-│    SEBAGAI SYARAT MUTLAK TIDAK DAPAT DITAWAR BAGI PROMOSI BRANCH V2.0.0 KE MAIN:       │
-│    a. Melarang keras promosi prematur sebelum 100% dari 120 berkas PROBE tuntas        │
-│       memenuhi standar 13 bagian jurnal riset (volume substantif >= 400 baris).        │
-│    b. Mewajibkan pemenuhan validasi sanad turats berharakat, literatur sains bebas     │
-│       paywall, ketiadaan broken links, dan keberhasilan uji pilot asrama 1 semester.   │
-│    c. Mewajibkan ratifikasi sidang pleno Majelis Masyaikh dan eksekusi penggabungan    │
-│       melalui mode Fast-Forward Merge linier yang dikunci Annotated Tag GPG resmi.     │
-│    d. Menyediakan skrip dan rencana pemulihan darurat (Rollback Plan) aktif.           │
-│                                                                                        │
-│ 3. JUSTIFIKASI TEOLOGIS DAN ILMIAH:                                                    │
-│    a. Mengamalkan mandat QS. An-Nisa: 6 mengenai kewajiban menguji kematangan (rusyd)  │
-│       sebelum penyerahan amanah pengelolaan kepada publik.                             │
-│    b. Menjalankan kaidah ushul Tahaqquq asy-Syuruth wa Intifa' al-Mawani' dan         │
-│       kaidah Al-Yaqinu La Yazulu Bisy-Syakk demi menjamin kepastian hukum santri.      │
-│    c. Menghindari skandal pencabutan regulasi sebagaimana terbukti pada studi kasus    │
-│       kegagalan Pesantren At-Taqwa.                                                    │
-│                                                                                        │
-│ 4. BATASAN SISTEM & KONSEKUENSI KEPUTUSAN:                                             │
-│    a. Dilarang melakukan merge sepihak ke branch main tanpa berita acara audit AMI.    │
-│    b. Setiap anggota dewan rilis memiliki hak veto mutlak pembatalan promosi.          │
-│    c. Seluruh berkas warisan v1 wajib diarsipkan ke direktori `99_ARCHIVE/`.           │
-│    d. Pelanggaran terhadap ADR ini membatalkan status keabsahan rilis secara syar'i.   │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0008 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0008` |
+| **Judul Keputusan** | Kriteria Kematangan Promosi Kanonik Branch v2.0.0 Menuju Main |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Penetapan** | 25 Oktober 2026 |
+| **Otoritas Arsitektur**| Dewan Arsitektur Repositori TUMBUH & Majelis Masyaikh Pesantren |
+| **Ruang Lingkup** | Kriteria Kematangan, Promosi Branch, & Audit Kesiapan Rilis |
+| **1. Konteks & Latar Belakang** | Deklarasi promosi branch evolutif ke branch utama tanpa bukti kematangan terbukti memicu bencana hukum asrama, pembatalan regulasi yang memalukan, dan kerugian moral santri. Diperlukan penetapan kriteria kematangan objektif berbasis konsep ushul rusyd dan rekayasa CMMI Level 4 sebelum status v2.0.0 disahkan menggantikan main. |
+| **2. Keputusan yang Ditetapkan** | Dewan Arsitektur menetapkan **Tujuh Gerbang Kematangan Kanonik (The 7 Promotion Gates) Sebagai Syarat Mutlak Tidak Dapat Ditawar bagi Promosi Branch V2.0.0 ke Main**:<br>a. Melarang keras promosi prematur sebelum 100% dari 120 berkas PROBE tuntas memenuhi standar 13 bagian jurnal riset (volume substantif >= 400 baris).<br>b. Mewajibkan pemenuhan validasi sanad turats berharakat, literatur sains bebas paywall, ketiadaan broken links, dan keberhasilan uji pilot asrama 1 semester.<br>c. Mewajibkan ratifikasi sidang pleno Majelis Masyaikh dan eksekusi penggabungan melalui mode Fast-Forward Merge linier yang dikunci Annotated Tag GPG resmi.<br>d. Menyediakan skrip dan rencana pemulihan darurat (Rollback Plan) aktif. |
+| **3. Justifikasi Teologis & Ilmiah** | a. Mengamalkan mandat QS. An-Nisa: 6 mengenai kewajiban menguji kematangan (rusyd) sebelum penyerahan amanah pengelolaan kepada publik.<br>b. Menjalankan kaidah ushul Tahaqquq asy-Syuruth wa Intifa' al-Mawani' dan kaidah Al-Yaqinu La Yazulu Bisy-Syakk demi menjamin kepastian hukum santri.<br>c. Menghindari skandal pencabutan regulasi sebagaimana terbukti pada studi kasus kegagalan Pesantren At-Taqwa. |
+| **4. Batasan & Konsekuensi** | a. Dilarang melakukan merge sepihak ke branch main tanpa berita acara audit AMI.<br>b. Setiap anggota dewan rilis memiliki hak veto mutlak pembatalan promosi.<br>c. Seluruh berkas warisan v1 wajib diarsipkan ke direktori `99_ARCHIVE/`.<br>d. Pelanggaran terhadap ADR ini membatalkan status keabsahan rilis secara syar'i. |
 
 ---
 

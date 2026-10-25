@@ -36,30 +36,11 @@ Dalam rekayasa sistem kelembagaan, hukum besi transformasi menyatakan bahwa: *ke
 
 Ketika sebuah tim perumus di tingkat pusat memutuskan untuk memperbarui panduan pembinaan, di lapangan asrama terjadi tiga guncangan sosiologis yang sangat destruktif jika tidak dimitigasi dengan protokol transisi yang matang:
 
-```text
-DILEMA EKSEKUSI TRANSISI DI LEMBAGA PENDIDIKAN PESANTREN
-
-      KUTUB BIG-BANG SWITCHOVER                      KUTUB DUALISME PERPETUAL
-    (Pergantian Mendadak Tanpa Fase)               (Kompromi Tanpa Batas Waktu)
-   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-   │ Sistem lama dimatikan serentak; │            │ Dua sistem berjalan bersamaan   │
-   │ musyrif dipaksa memakai v2 besok│            │ selamanya tanpa batas tenggat;  │
-   │ pagi tanpa pelatihan memadai.   │            │ terjadi anarki aturan di asrama.│
-   └─────────────────────────────────┘            └─────────────────────────────────┘
-                   │                                               │
-                   ▼ DAMPAK                                        ▼ DAMPAK
-   ┌─────────────────────────────────┐            ┌─────────────────────────────────┐
-   │ • Musyrif panik & mogok lapor.  │            │ • Terjadi diskriminasi santri.  │
-   │ • Santri manfaatkan kevakuman.  │            │ • Kamar A pakai v1, kamar B v2. │
-   │ • Angka kekerasan melonjak.     │            │ • Otoritas lembaga runtuh total.│
-   └─────────────────────────────────┘            └─────────────────────────────────┘
-                   │                                               │
-                   └───────────────────────┬───────────────────────┘
-                                           ▼
-                                 RESOLUSI KANONIK V2.0.0:
-                  "Migrasi Bertahap via Dual-Run & Bi'ah Tamhidiyyah:
-                   Menjaga Stabilitas Asrama Tanpa Kekosongan Hukum"
-```
+| Dimensi Transisi | Kutub Big-Bang Switchover (Pergantian Mendadak) | Kutub Dualisme Perpetual (Kompromi Tanpa Batas) |
+| :--- | :--- | :--- |
+| **Karakteristik** | Sistem lama dimatikan serentak; musyrif dipaksa memakai v2 besok pagi tanpa pelatihan memadai. | Dua sistem berjalan bersamaan selamanya tanpa batas tenggat; memicu anarki aturan di asrama. |
+| **Dampak Patologis** | • Musyrif panik dan mogok lapor.<br>• Santri memanfaatkan kevakuman otoritas.<br>• Angka kekerasan dan pelanggaran melonjak. | • Terjadi diskriminasi antar-santri.<br>• Kamar A pakai v1, Kamar B pakai v2.<br>• Otoritas kelembagaan runtuh total. |
+| **Resolusi Kanonik V2.0.0** | <div align="center">**"Migrasi Bertahap via Dual-Run & Bi'ah Tamhidiyyah"**<br>Menjaga stabilitas kehidupan asrama 24 jam tanpa ada kekosongan hukum sedikit pun.</div> |
 
 Tiga bentuk kerentanan transisi yang paling kerap memicu bencana kelembagaan di pesantren:
 1. **Sindrom Kevakuman Otoritas (*Legal & Authority Vacuum Syndrome*)**:  
@@ -139,17 +120,11 @@ Rekayasa perangkat lunak modern dan psikologi kognitif telah merumuskan metodolo
 ### 5.1. Model Tiga Langkah Perubahan Kurt Lewin (*Unfreeze-Change-Refreeze*)
 Psikolog sosial Kurt Lewin (1947) memetakan dinamika perubahan sistem sosial ke dalam tiga fase yang tidak boleh dilewati satu pun:
 
-```text
-DIAGRAM TEORI SISTEM: MODEL TIGA FASE PERUBAHAN KURT LEWIN
-
-      FASE 1: UNFREEZE               FASE 2: CHANGE (DUAL-RUN)             FASE 3: REFREEZE
-  ┌───────────────────────┐         ┌───────────────────────────────┐     ┌───────────────────────┐
-  │ Mencairkan Kebiasaan  │         │ Sistem v1 & v2 Berjalan       │     │ Membekukan Sistem v2  │
-  │ Lama v1; Membangun    │────────►│ Berdampingan (Shadow Run)     │────►│ sebagai Baseline Baru │
-  │ Kesadaran Kebutuhan   │         │ Uji Coba pada Pilot Cohort    │     │ Repositori yang       │
-  │ Perubahan di Lapangan.│         │ Pelatihan Bertingkat Musyrif. │     │ Mengikat Mutlak.      │
-  └───────────────────────┘         └───────────────────────────────┘     └───────────────────────┘
-```
+| Fase Perubahan | Tujuan & Karakteristik | Operasionalisasi di Pesantren |
+| :--- | :--- | :--- |
+| **Fase 1: Unfreeze** | Mencairkan kebiasaan lama v1; membangun kesadaran kebutuhan perubahan mendesak di lapangan. | Presentasi data empiris kelemahan buku sanksi v1 dan bedah wawasan urgensi transformasi adab. |
+| **Fase 2: Change (*Dual-Run*)** | Sistem v1 & v2 berjalan berdampingan (*Shadow Run*); uji coba pilot cohort dan pelatihan bertingkat musyrif. | Pendampingan intensif musyrif, simulasi kasus santri, dan pengujian modul v2 tanpa sanksi birokrasi. |
+| **Fase 3: Refreeze** | Membekukan sistem v2.0.0 sebagai baseline baru repositori yang mengikat secara mutlak. | Penerbitan SK resmi yayasan, dekomisi total instrumen v1, dan preservasi arsip ke `99_ARCHIVE/`. |
 
 1. **Unfreezing (Pencairan Status Quo)**:  
    Membangun rasa urgensi (*sense of urgency*) di kalangan asatidz dan musyrif dengan menunjukkan data empiris mengenai kelemahan buku sanksi v1: tingginya angka perkelahian santri berulang, data luka fisik akibat sanksi, dan tuntutan hukum orang tua santri. Pada tahap ini, musyrif disadarkan bahwa cara lama sudah tidak dapat dipertahankan lagi.
@@ -186,7 +161,6 @@ Penyelidikan ini menghadapkan tiga mazhab pendekatan transisi kelembagaan yang s
 MATRIKS DIALEKTIKA KONFRONTATIF: TIGA PENDEKATAN MANAJEMEN TRANSISI KELEMBAGAAN
 
 PARAMETER EVALUASI     PENDEKATAN BIG-BANG RADIKAL      PENDEKATAN LAISSEZ-FAIRE PASIF   SINTESIS BI'AH TAMHIDIYYAH V2
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 1. Kecepatan & Jadwal  Seketika (1 hari); memutus       Lambat tanpa batas waktu;        Terencana berfase (3–6 bulan);
    Pemberlakuan        seluruh sistem lama mendadak.    tidak ada target cut-off.        ada jadwal rilis dan evaluasi jelas.
 
@@ -336,22 +310,13 @@ Bagian ini menyajikan enam matriks analitis komprehensif yang memetakan seluruh 
 
 Untuk menjamin eksekusi transisi berjalan tanpa cela, ditetapkan **Lima Prosedur Baku Operasional Transisi Kelembagaan**:
 
-```text
-ALUR LIMA TAHAP PROTOKOL TRANSISI KELEMBAGAAN BI'AH TAMHIDIYYAH
-
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │ 1. AUDIT DIAGNOSTIK    │ ───► │  2. INKUBASI PILOT     │ ───► │  3. SHADOW RUN DATA    │
- │ Pemetaan literasi &    │      │ Penerapan modul v2 di  │      │ Sinkronisasi mingguan  │
- │ resistensi pengurus.   │      │ 1 asrama percontohan.  │      │ data v1 dan v2.        │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-                                                                              │
-                                                                              ▼
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │ 5. DEKOMISI KANONIK    │ ◄─── │ 4. CUTOVER ASRAMA      │ ◄────┘ Uji Kebugaran Mutu &   │
- │ Pengarsipan resmi v1   │      │ Penerbitan SK resmi,   │        Evaluasi Retensi       │
- │ ke folder 99_ARCHIVE/. │      │ migrasi 100% asrama.   │        Musyrif Lapangan.      │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-```
+| Gerbang | Nama Tahap Transisi | Tindakan Inti & Pengendalian Risiko |
+| :---: | :--- | :--- |
+| **1** | **Audit Diagnostik** | Pemetaan tingkat literasi, kultur, dan potensi resistensi pengurus sebelum naskah teknis dibagikan. |
+| **2** | **Inkubasi Pilot** | Penerapan modul v2 di 1 asrama percontohan (*pilot cohort*) selama 60 hari dengan pendampingan mentor. |
+| **3** | **Shadow Run Data** | Sinkronisasi mingguan data v1 dan v2 secara paralel (*shadow logging*) untuk validasi komparatif. |
+| **4** | **Cutover Asrama** | Penerbitan SK resmi pimpinan yayasan dan migrasi 100% kamar asrama santri ke standar v2.0.0. |
+| **5** | **Dekomisi Kanonik** | Penarikan seluruh instrumen lama dan pengarsipan resmi berkas v1 ke direktori `99_ARCHIVE/`. |
 
 ### 9.1. Rincian Prosedur Operasional Lima Gerbang
 1. **Tahap 1: Asesmen Diagnostik Kesiapan (*Readiness Assessment Gate*)**:  
@@ -387,51 +352,18 @@ Setiap musyrif yang bertugas di masa transisi wajib dibekali **Paket Alat Bantu 
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0006)
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                   ARCHITECTURAL DECISION RECORD (ADR) — TUMBUH-V2-0006                 │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ NOMOR KEPUTUSAN      : ADR-PROBE-0006                                                  │
-│ JUDUL KEPUTUSAN      : Mitigasi Transisi Kelembagaan, Arsitektur Dual-Run, & Toolkit    │
-│ STATUS DOKUMEN       : KANONIK / APPROVED & PERMANENTLY LOCKED                         │
-│ TANGGAL PENETAPAN    : 25 Oktober 2026                                                 │
-│ OTORITAS ARSITEKTUR  : Dewan Arsitektur Repositori TUMBUH & Komite Transformasi Asrama │
-│ RUANG LINGKUP        : Tata Kelola Transisi, Protokol Dual-Run, & Kebugaran Musyrif   │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. KONTEKS DAN LATAR BELAKANG EPISTEMIK:                                               │
-│    Masa peralihan dari format lama v1 menuju arsitektur kanonik v2.0.0 adalah fase     │
-│    paling rawan melahirkan kepanikan operasional, kevakuman penegakan disiplin santri, │
-│    dan kelelahan kognitif musyrif. Pendekatan pergantian mendadak (Big-Bang) terbukti   │
-│    destruktif, sementara dualisme tanpa batas waktu merusak keadilan hukum. Diperlukan │
-│    sebuah protokol transisi terstandar berbasis pentahapan syar'i dan rekayasa sistem. │
-│                                                                                        │
-│ 2. KEPUTUSAN REKAYASA SISTEM YANG DITETAPKAN:                                          │
-│    Dewan Arsitektur menetapkan PROTOKOL TRANSISI BI'AH TAMHIDIYYAH BERFASIS EMPAT      │
-│    KUARTAL SEBAGAI STANDAR MUTLAK MIGRASI KELEMBAGAAN REPOSITORI TUMBUH:               │
-│    a. Mengharamkan secara mutlak eksekusi pergantian mendadak (Big-Bang Switchover)    │
-│       di seluruh jaringan pesantren mitra TUMBUH demi mencegah kevakuman otoritas.    │
-│    b. Mewajibkan arsitektur transisi 4 Kuartal (Preparasi, Pilot Dual-Run, Cutover,    │
-│       dan Dekomisi) dengan durasi terencana maksimal 1 tahun ajaran (12 bulan).       │
-│    c. Mewajibkan penyediaan Paket Alat Bantu Transisi Rendah Beban Kognitif (kartu     │
-│       saku PBIS, skrip tanya jawab restoratif, bot logbook cepat) bagi setiap musyrif.│
-│    d. Mengisolasi musyrif di fase pilot cohort dari sanksi administratif atas          │
-│       kesalahan teknis input data di masa adaptasi (Safe-to-Fail Learning Zone).       │
-│                                                                                        │
-│ 3. JUSTIFIKASI TEOLOGIS DAN ILMIAH:                                                    │
-│    a. Meneladani Sunnah At-Tadrij fit-Tasyri' Rasulullah ﷺ dalam mendidik umat dan     │
-│       nasihat Khalifah Umar bin Abdul Aziz mengenai bahaya pembebanan tergesa-gesa.    │
-│    b. Menerapkan model perubahan Lewin (Unfreeze-Change-Refreeze), arsitektur Dual-Run │
-│       Martin Fowler, dan Cognitive Load Theory Sweller untuk menjamin stabilitas 24 jam│
-│    c. Menghindari bencana kebangkrutan reformasi dan eksodus santri sebagaimana        │
-│       terbukti secara empiris pada studi kasus Pesantren Bina Insan.                  │
-│                                                                                        │
-│ 4. BATASAN SISTEM & KONSEKUENSI KEPUTUSAN:                                             │
-│    a. Dilarang membiarkan masa transisi dual-run berjalan melebihi batas waktu 1 tahun.│
-│    b. Dilarang mencabut aturan lama sebelum instrumen baru siap dieksekusi di kamar.   │
-│    c. Seluruh dokumen lama wajib dipindahkan ke direktori `99_ARCHIVE/` saat cutover.  │
-│    d. Ketidakpatuhan terhadap protokol transisi akan membatalkan sertifikasi mitra v2. │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0006 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0006` |
+| **Judul Keputusan** | Mitigasi Transisi Kelembagaan, Arsitektur Dual-Run, & Toolkit Lapangan |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Penetapan** | 25 Oktober 2026 |
+| **Otoritas Arsitektur**| Dewan Arsitektur Repositori TUMBUH & Komite Transformasi Asrama |
+| **Ruang Lingkup** | Tata Kelola Transisi, Protokol Dual-Run, & Kebugaran Musyrif |
+| **1. Konteks & Latar Belakang** | Masa peralihan dari format lama v1 menuju arsitektur kanonik v2.0.0 adalah fase paling rawan melahirkan kepanikan operasional, kevakuman penegakan disiplin santri, dan kelelahan kognitif musyrif. Pendekatan pergantian mendadak (Big-Bang) terbukti destruktif, sementara dualisme tanpa batas waktu merusak keadilan hukum. Diperlukan sebuah protokol transisi terstandar berbasis pentahapan syar'i dan rekayasa sistem. |
+| **2. Keputusan yang Ditetapkan** | Dewan Arsitektur menetapkan **Protokol Transisi Bi'ah Tamhidiyyah Berfasis Empat Kuartal Sebagai Standar Mutlak Migrasi Kelembagaan Repositori TUMBUH**:<br>a. Mengharamkan secara mutlak eksekusi pergantian mendadak (Big-Bang Switchover) di seluruh jaringan pesantren mitra TUMBUH demi mencegah kevakuman otoritas.<br>b. Mewajibkan arsitektur transisi 4 Kuartal (Preparasi, Pilot Dual-Run, Cutover, dan Dekomisi) dengan durasi terencana maksimal 1 tahun ajaran (12 bulan).<br>c. Mewajibkan penyediaan Paket Alat Bantu Transisi Rendah Beban Kognitif (kartu saku PBIS, skrip tanya jawab restoratif, bot logbook cepat) bagi setiap musyrif.<br>d. Mengisolasi musyrif di fase pilot cohort dari sanksi administratif atas kesalahan teknis input data di masa adaptasi (Safe-to-Fail Learning Zone). |
+| **3. Justifikasi Teologis & Ilmiah** | a. Meneladani Sunnah At-Tadrij fit-Tasyri' Rasulullah ﷺ dalam mendidik umat dan nasihat Khalifah Umar bin Abdul Aziz mengenai bahaya pembebanan tergesa-gesa.<br>b. Menerapkan model perubahan Lewin (Unfreeze-Change-Refreeze), arsitektur Dual-Run Martin Fowler, dan Cognitive Load Theory Sweller untuk menjamin stabilitas 24 jam.<br>c. Menghindari bencana kebangkrutan reformasi dan eksodus santri sebagaimana terbukti secara empiris pada studi kasus Pesantren Bina Insan. |
+| **4. Batasan & Konsekuensi** | a. Dilarang membiarkan masa transisi dual-run berjalan melebihi batas waktu 1 tahun.<br>b. Dilarang mencabut aturan lama sebelum instrumen baru siap dieksekusi di kamar.<br>c. Seluruh dokumen lama wajib dipindahkan ke direktori `99_ARCHIVE/` saat cutover.<br>d. Ketidakpatuhan terhadap protokol transisi akan membatalkan sertifikasi mitra v2. |
 
 ---
 

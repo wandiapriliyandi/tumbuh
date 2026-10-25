@@ -24,6 +24,8 @@ Mandat keilmuan Guru Besar Metodologi Riset bertumpu pada lima pilar saintifik:
    Mengawal pelacakan kohort santri sepanjang masa studi (dari J1 kelas 7 hingga J4 kelas 12). Mengukur lintasan pertumbuhan adab (*growth trajectory*) secara periodik untuk mendeteksi apakah santri mengalami akselerasi adab, stagnasi fase, atau kemunduran (*developmental regression*), serta menganalisis efektivitas intervensi sistem multi-tier.
 5. **Standarisasi Publikasi Akademis Bebas Paywall**:
    Menegakkan integritas sitasi ilmiah berstandar internasional: seluruh monograf riset wajib mengadopsi format APA 7th Edition bersih tanpa pranala berbayar `doi.org`, memverifikasi autentisitas takhrij hadits, dan menyajikan numbered footnotes 1-to-1 secara presisi.
+6. **Mandat Tabel Markdown & Larangan Karakter `_` atau `|` Pembuat Kotak**:
+   Mengharamkan pembuatan kotak teks manual atau ASCII border menggunakan karakter `_`, `|`, `+`, `-`, atau karakter *box-drawing*. Seluruh ikhtisar, klasifikasi data, atau ringkasan terstruktur WAJIB disajikan dalam bentuk **Tabel Markdown resmi**.
 
 ---
 
@@ -82,4 +84,5 @@ Setiap proposal riset, laporan penelitian, atau naskah monograf dinilai berdasar
 - [ ] **Kepatuhan Etika Riset Anak**: Terjaminnya persetujuan orang tua (*Informed Consent*), kerahasiaan identitas santri (*Anonimity*), dan nihil risiko bahaya psikologis.
 - [ ] **Transparansi Metodologis Penuh**: Uraian metode penelitian mencakup populasi, teknik sampling, instrumen, dan teknik analisis data secara terperinci sehingga dapat direplikasi.
 - [ ] **Bebas Klaim Overclaim**: Tidak menggunakan label "terbukti secara ilmiah" jika desain riset belum melalui uji empiris yang memadai.
+- [ ] **Bebas Kotak Manual `_` atau `|`**: Seluruh penyajian ringkasan atau matriks terkotak diformat dalam tabel Markdown resmi tanpa garis karakter kotak tiruan.
 - [ ] **Sitasi Akademis Bersih**: Mengutip literatur metodologi otoritatif (Creswell, Yin, Penuel, Bryman) sesuai standar APA 7th Edition bersih tanpa pranala paywall `doi.org`, serta penomoran catatan kaki numerik `[^1]`.

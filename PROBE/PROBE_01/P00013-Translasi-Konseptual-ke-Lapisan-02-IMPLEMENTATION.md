@@ -44,38 +44,12 @@ Dalam realitas kepengasuhan pesantren di Indonesia, sering kali ditemukan ironi 
 
 Fenomenologi jurang pemisah ini diilustrasikan secara mendalam dalam diagram arsitektur berikut:
 
-```text
-DILEMA TRANSLASI KELEMBAGAAN DI DUNIA PESANTREN:
-JURANG KONSEPTUAL VERSUS ADAPTOR KANONIK TUMBUH v2.0.0
-
-   KUTUB JURANG KONSEPTUAL (NO TRANSLATION)           KUTUB ADAPTOR KANONIK (TUMBUH V2)
- ┌────────────────────────────────────────────┐     ┌────────────────────────────────────────────┐
- │ 01_FUNDAMENTAL: Falsafah Fitrah yang Luhur │     │ 01_FUNDAMENTAL: Falsafah Fitrah & Adab     │
- │ - Teks Indah: "Santri Dibina Sesuai Fitrah"│     │ (Prinsip Abadi, Aksiomatik, Luhur)         │
- └─────────────────────┬──────────────────────┘     └─────────────────────┬──────────────────────┘
-                       │                                                  │
-                       │ JURANG KOSONG (VOID)                             ▼ (IMPOR TERKONTROL)
-                       │ TANPA KERANGKA TRANSLASI   ┌────────────────────────────────────────────┐
-                       │                                 │ 02_IMPLEMENTATION: ADAPTOR KELEMBAGAAN     │
-                       ▼                                 │ • Struktur Organisasi & Tupoksi Musyrif    │
- ┌────────────────────────────────────────────┐     │ • Standar Jenjang Kemandirian J1 - J4      │
- │ 03_OPERATIONAL: Musyrif Bertindak Liar     │     │ • Kerangka Intervensi Multi-Tier (PBIS)    │
- │ - Tafsir Bebas: "Banting Lemari = Fitrah"  │     │ • Indikator Perilaku Beradab Terukur       │
- │ - Hukuman Fisik, Pemalakan Denda Uang      │     └─────────────────────┬──────────────────────┘
- └─────────────────────┬──────────────────────┘                           │
-                       │                                                  ▼ (PENURUNAN INSTRUMEN)
-                       ▼ DAMPAK KERUSAKAN           ┌────────────────────────────────────────────┐
- ┌────────────────────────────────────────────┐     │ 03_OPERATIONAL: Perangkat Kerja Terarah    │
- │ • Visi mulia hanya menjadi pajangan naskah.│     │ • SOP Musyrif, Checklist Kamar, Logbook    │
- │ • Musyrif stres & berganti setiap semester.│     └─────────────────────┬──────────────────────┘
- │ • Santri trauma dan membenci agama.        │                           │
- └────────────────────────────────────────────┘                           ▼ MANFAAT KANONIK
-                                                    ┌────────────────────────────────────────────┐
-                                                    │ • Visi membumi menjadi kenyataan asrama.   │
-                                                    │ • Batas peran musyrif adil & proporsional. │
-                                                    │ • Karakter santri tumbuh bertahap (fitrah).│
-                                                    └────────────────────────────────────────────┘
-```
+| Dimensi Perbandingan | Kutub Jurang Konseptual (*No Translation Void*) | Kutub Adaptor Kanonik (TUMBUH v2.0.0) |
+| :--- | :--- | :--- |
+| **Fondasi Filosofis** | **`01_FUNDAMENTAL`: Falsafah Fitrah yang Luhur**<br>• Teks indah: *"Santri Dibina Sesuai Fitrah"* tanpa jembatan operasional | **`01_FUNDAMENTAL`: Falsafah Fitrah & Adab**<br>• Prinsip abadi, aksiomatik, dan luhur |
+| **Lapisan Perantara** | **Jurang Kosong (*The Void*)**<br>• Tanpa kerangka translasi kelembagaan | **`02_IMPLEMENTATION`: Adaptor Kelembagaan**<br>• Struktur organisasi & tupoksi musyrif<br>• Standar jenjang kemandirian J1–J4<br>• Kerangka intervensi Multi-Tier (PBIS)<br>• Indikator perilaku beradab terukur |
+| **Praktik Lapangan** | **`03_OPERATIONAL`: Musyrif Bertindak Liar**<br>• Tafsir bebas dan inkonsisten<br>• Hukuman fisik dan denda uang | **`03_OPERATIONAL`: Perangkat Kerja Terarah**<br>• SOP musyrif, checklist kamar, logbook terstandarisasi |
+| **Dampak Ekologis** | **Dampak Kerusakan**<br>• Visi mulia hanya menjadi pajangan naskah<br>• Musyrif stres & berganti setiap semester (*burnout*)<br>• Santri trauma dan membenci agama | **Manfaat Kanonik**<br>• Visi membumi menjadi kenyataan asrama<br>• Batas peran musyrif adil & proporsional<br>• Karakter santri tumbuh bertahap sesuai fitrah |
 
 Fenomena di atas memperlihatkan bahwa kerusakan pengasuhan bukan disebabkan oleh buruknya niat kiai atau ustadz, melainkan oleh **ketiadaan lapisan translasi kelembagaan**. Antara dalil teologis di langit pemikiran dengan sapu lidi di lantai asrama tidak ada jembatan metodologis yang menghubungkannya.
 
@@ -148,28 +122,11 @@ Dalam disiplin arsitektur perangkat lunak modern, peranan lapisan perantara diar
 
 Pemetaan Hexagonal Architecture ke dalam Repositori TUMBUH v2.0.0 digambarkan sebagai berikut:
 
-```text
-DIAGRAM PORTS AND ADAPTERS REPOSITORI TUMBUH v2.0.0
-
-                         ┌──────────────────────────────────────────────┐
-                         │              03_OPERATIONAL                  │
-                         │       (Checklist, Logbook, Bot Mobile)       │
-                         │                      │                       │
-                         │                      ▼ (Driver Adapters)     │
-                         │       ┌──────────────────────────────┐       │
-                         │       │      02_IMPLEMENTATION       │       │
-                         │       │   (Institutional Adapters &  │       │
-                         │       │    Contract Implementations) │       │
-                         │       │              │               │       │
-                         │       │              ▼ (Inward Ports)│       │
-                         │       │       ┌──────────────┐       │       │
-                         │       │       │01_FUNDAMENTAL│       │       │
-                         │       │       │ (Core Domain │       │       │
-                         │       │       │  & Invariants│       │       │
-                         │       │       └──────────────┘       │       │
-                         │       └──────────────────────────────┘       │
-                         └──────────────────────────────────────────────┘
-```
+| Lapisan / Cincin Hexagonal | Komponen Arsitektural | Peran & Arah Relasi |
+| :--- | :--- | :--- |
+| **Lapisan Terluar**<br>`03_OPERATIONAL` | Checklist Kamar, Logbook Musyrif, Bot Mobile | **Driver Adapters**: Berinteraksi langsung dengan santri dan lingkungan harian, mengonsumsi kontrak dari Lapisan 02. |
+| **Lapisan Perantara**<br>`02_IMPLEMENTATION` | *Institutional Adapters & Contract Implementations* | **Translasi & Proteksi**: Menerjemahkan kebutuhan operasional dan mengaitkannya ke kontrak port *Core Domain*. |
+| **Lapisan Terdalam (Kernel)**<br>`01_FUNDAMENTAL` | *Core Domain & Invariants* (Worldview, Fitrah, Adab) | **Inward Ports**: Prinsip aksiomatik independen yang tidak memiliki dependensi ke lapisan luar. |
 
 Dalam sistem TUMBUH:
 - **Core Domain**: Dokumen `01_FUNDAMENTAL` mendefinisikan *Inward Ports* (kontrak nilai: fitrah, adab, tauhid).
@@ -351,24 +308,12 @@ Berikut disajikan enam matriks analitis komprehensif yang membedah struktur, per
 
 Untuk memandu tim perancang kebijakan pesantren dalam menyusun dokumen di Lapisan `02_IMPLEMENTATION`, ditetapkan protokol translasi empat pilar (*Four-Pillar Institutional Translation Protocol*):
 
-```text
-DIAGRAM PROTOKOL TRANSLASI KELEMBAGAAN EMPAT PILAR TUMBUH v2.0.0
-
-   [01_FUNDAMENTAL: NILAI ABADI FITRAH & ADAB]
-                       │
-       ┌───────────────┼───────────────┐
-       ▼               ▼               ▼
- ┌───────────┐   ┌───────────┐   ┌───────────┐   ┌───────────┐
- │  PILAR 1  │   │  PILAR 2  │   │  PILAR 3  │   │  PILAR 4  │
- │ TATA PAMONG│   │ PENJENJANG│   │ MULTI-TIER│   │ METRIK &  │
- │ & TUPOKSI │   │ AN J1 - J4│   │ SW-PBIS   │   │ ASESMEN   │
- └─────┬─────┘   └─────┬─────┘   └─────┬─────┘   └─────┬─────┘
-       │               │               │               │
-       └───────────────┼───────────────┘               │
-                       │                               │
-                       ▼                               ▼
- [03_OPERATIONAL: SOP HARIAN]            [RAPOR KARAKTER SANTRI]
-```
+| Pilar Kelembagaan | Fokus Pembinaan | Rujukan Hulu (`01_FUNDAMENTAL`) | Hilir Operasional (`03_OPERATIONAL` & Hasil) |
+| :--- | :--- | :--- | :--- |
+| **Pilar 1: Tata Pamong & Tupoksi** | Batas wewenang, rasio musyrif, beban kerja | Keteladanan Nabawiyyah (*Prophetic Leadership*) | SOP Harian Musyrif & Jadwal Pendampingan |
+| **Pilar 2: Penjenjangan Kemandirian** | Tangga perkembangan adaptasi J1–J4 | Tingkat Kematangan Fitrah Santri | Target Capaian Asrama Per Semester |
+| **Pilar 3: Multi-Tier SW-PBIS** | Intervensi preventif, pembiasaan, & restoratif | *Ishlah al-Bain* & Disiplin Positif Syar'i | Protokol Penanganan Pelanggaran Asrama |
+| **Pilar 4: Metrik & Asesmen** | Rubrik perilaku terukur (BARS) | Taksonomi Adab & Afeksi Kalbu | Buku Rapor Karakter Santri Komprehensif |
 
 ### 9.1. Empat Pilar Utama Dokumen di Lapisan 02_IMPLEMENTATION
 Setiap pesantren mitra TUMBUH v2.0.0 wajib melengkapi direktori `02_IMPLEMENTATION/` dengan empat pilar dokumen kanonik berikut:
@@ -397,56 +342,22 @@ Dengan siklus kalibrasi tahunan ini, kebijakan kelembagaan pesantren terus bertu
 
 Untuk menetapkan fungsi lapisan implementasi sebagai adaptor kelembagaan resmi, diterbitkan *Architectural Decision Record* kanonik:
 
-```text
-===============================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0013
-Judul: Pembakuan Peran Lapisan 02_IMPLEMENTATION sebagai Adaptor Kelembagaan Kanonik
-Status: DITERIMA, MENGIKAT, DAN KANONIK (ACCEPTED & CANONICAL)
-Tanggal Keputusan: 2026-10-25
-Penanggung Jawab: Dewan Arsitektur Sistem TUMBUH v2.0.0
-Wilayah Terdampak: Direktori 02_IMPLEMENTATION/ dan Seluruh Kerangka Regulasi Pesantren
-===============================================================================
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0013 |
+| **Judul** | Pembakuan Peran Lapisan `02_IMPLEMENTATION` sebagai Adaptor Kelembagaan Kanonik |
+| **Status** | Diterima, Mengikat, dan Kanonik (*Accepted & Canonical*) |
+| **Tanggal Keputusan** | 2026-10-25 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 |
+| **Wilayah Terdampak** | Direktori `02_IMPLEMENTATION/` dan Seluruh Kerangka Regulasi Pesantren |
 
-1. KONTEKS PERMASALAHAN:
-   Ketiadaan lapisan penerjemah perantara antara filosofi luhur di 01_FUNDAMENTAL dengan
-   tindakan nyata di 03_OPERATIONAL telah menciptakan jurang translasi kelembagaan
-   (institutional translation void). Musyrif lapangan melakukan tafsir bebas liar, santri baru
-   mengalami stres adaptasi akibat disamaratakan dengan santri senior, terjadi kekaburan
-   tanggung jawab saat insiden perundungan, dan musyrif mengalami kelelahan mental (burnout).
-
-2. KEPUTUSAN ARSITEKTURAL (THE ARCHITECTURAL DECISION):
-   Ditetapkan bahwa lapisan 02_IMPLEMENTATION berfungsi secara mutlak sebagai "Institutional
-   Adapter" dalam arsitektur repositori TUMBUH v2.0.0 dengan ketentuan:
-   a. Lapisan 02_IMPLEMENTATION wajib memuat Empat Pilar Kerangka Institusional: Tata Pamong &
-      Tupoksi Musyrif, Standar Penjenjangan Kemandirian J1-J4, Kerangka Multi-Tier PBIS, dan
-      Standar Asesmen Perilaku BARS.
-   b. Seluruh dokumen di 02_IMPLEMENTATION wajib memiliki keterlacakan mundur (backward trace)
-      yang sah ke dalil fitrah dan adab di 01_FUNDAMENTAL.
-   c. Diharamkan bagi berkas di 02_IMPLEMENTATION memuat rincian formulir teknis mikro atau jam
-      piket sempit yang merupakan hak milik eksklusif lapisan 03_OPERATIONAL.
-   d. Setiap kebijakan sanksi wajib menerapkan kerangka keadilan restoratif (Ishlah al-Bain)
-      berjenjang Level 1 hingga Level 4.
-
-3. JUSTIFIKASI TEOLOGIS DAN METODOLOGIS:
-   - Menerapkan doktrin ushuliyah Tahqiq al-Manath al-Khashsh Imam Asy-Syathibi fi Al-Muwafaqat.
-   - Mengikuti dialektika Fahm al-Waqi' wa Fahm al-Wajib fil-Waqi' Ibnu Qayyim Al-Jauziyyah.
-   - Mengikuti teori penataan birokrasi peradaban (Tanzhim Idari) Al-Mawardi & Ibnu Khaldun.
-   - Menerapkan pola Hexagonal Architecture (Ports and Adapters) Alistair Cockburn.
-   - Menerapkan GoF Adapter Pattern dan teori Scaffolding / ZPD Lev Vygotsky.
-
-4. KONSEKUENSI POSITIF:
-   - Terjembataninya visi luhur kiai menjadi panduan kerja yang operabel di asrama santri.
-   - Santri baru terlindungi dari beban adaptasi berlebih melalui tangga penjenjangan J1-J4.
-   - Terciptanya keadilan distributif dalam penanganan pelanggaran melalui matriks eskalasi.
-   - Musyrif asrama terlindungi dari burnout melalui pembatasan rasio dan jam istirahat terukur.
-
-5. KONSEKUENSI NEGATIF DAN MITIGASI:
-   - Lembaga pesantren mitra membutuhkan lokakarya orientasi dalam menyusun dokumen lapis 02.
-     Mitigasi: Disediakan template kanonik siap pakai (canonical starter kit) di direktori 02.
-   - Ada risiko reduksi nilai adab menjadi sekadar ceklist mekanistik administratif.
-     Mitigasi: Diberlakukan audit kepatuhan epistemik berkala oleh Majelis Kiai Sepuh.
-===============================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks Permasalahan** | Ketiadaan lapisan penerjemah perantara antara filosofi luhur di `01_FUNDAMENTAL` dengan tindakan nyata di `03_OPERATIONAL` telah menciptakan jurang translasi kelembagaan (*institutional translation void*). Musyrif lapangan melakukan tafsir bebas liar, santri baru mengalami stres adaptasi akibat disamaratakan dengan santri senior, terjadi kekaburan tanggung jawab saat insiden perundungan, dan musyrif mengalami kelelahan mental (*burnout*). |
+| **2. Keputusan Arsitektural** | Ditetapkan bahwa lapisan `02_IMPLEMENTATION` berfungsi secara mutlak sebagai *Institutional Adapter* dalam arsitektur repositori TUMBUH v2.0.0 dengan ketentuan:<br>a. Lapisan `02_IMPLEMENTATION` wajib memuat Empat Pilar Kerangka Institusional: Tata Pamong & Tupoksi Musyrif, Standar Penjenjangan Kemandirian J1–J4, Kerangka Multi-Tier PBIS, dan Standar Asesmen Perilaku BARS.<br>b. Seluruh dokumen di `02_IMPLEMENTATION` wajib memiliki keterlacakan mundur (*backward trace*) yang sah ke dalil fitrah dan adab di `01_FUNDAMENTAL`.<br>c. Diharamkan bagi berkas di `02_IMPLEMENTATION` memuat rincian formulir teknis mikro atau jam piket sempit yang merupakan hak milik eksklusif lapisan `03_OPERATIONAL`.<br>d. Setiap kebijakan sanksi wajib menerapkan kerangka keadilan restoratif (*Ishlah al-Bain*) berjenjang Level 1 hingga Level 4. |
+| **3. Justifikasi Teologis & Metodologis** | • Menerapkan doktrin ushuliyah *Tahqiq al-Manath al-Khashsh* Imam Asy-Syathibi fi *Al-Muwafaqat*.<br>• Mengikuti dialektika *Fahm al-Waqi' wa Fahm al-Wajib fil-Waqi'* Ibnu Qayyim Al-Jauziyyah.<br>• Mengikuti teori penataan birokrasi peradaban (*Tanzhim Idari*) Al-Mawardi & Ibnu Khaldun.<br>• Menerapkan pola *Hexagonal Architecture (Ports and Adapters)* Alistair Cockburn.<br>• Menerapkan GoF Adapter Pattern dan teori Scaffolding / ZPD Lev Vygotsky. |
+| **4. Konsekuensi Positif** | • Terjembataninya visi luhur kiai menjadi panduan kerja yang operabel di asrama santri.<br>• Santri baru terlindungi dari beban adaptasi berlebih melalui tangga penjenjangan J1–J4.<br>• Terciptanya keadilan distributif dalam penanganan pelanggaran melalui matriks eskalasi.<br>• Musyrif asrama terlindungi dari burnout melalui pembatasan rasio dan jam istirahat terukur. |
+| **5. Konsekuensi Negatif & Mitigasi** | • Lembaga pesantren mitra membutuhkan lokakarya orientasi dalam menyusun dokumen lapis 02.<br>  *Mitigasi:* Disediakan template kanonik siap pakai (*canonical starter kit*) di direktori `02`.<br>• Ada risiko reduksi nilai adab menjadi sekadar checklist mekanistik administratif.<br>  *Mitigasi:* Diberlakukan audit kepatuhan epistemik berkala oleh Majelis Kiai Sepuh. |
 
 ---
 

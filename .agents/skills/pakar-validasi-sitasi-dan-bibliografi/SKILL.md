@@ -99,6 +99,7 @@ Sebelum berkas monograf dinyatakan lolos verifikasi sempurna, Auditor Sitasi waj
 | 8 | **Standarisasi APA 7th Bersih** | Bebas mutlak dari tautan komersial berbayar `doi.org`; metadata lengkap teks bersih. | [ ] |
 | 9 | **Zero Raw Floating Lines** | Tidak ada baris daftar pustaka mentah yang tercecer di dalam paragraf narasi. | [ ] |
 | 10 | **Glosarium Terminologi** | Memuat minimal 10 entri istilah kunci dengan definisi operasional komprehensif. | [ ] |
+| 11 | **Format Tabel untuk Kotak** | Seluruh ikhtisar/daftar terkotak memakai tabel Markdown resmi (nihil kotak buatan `_` atau `|`). | [ ] |
 
 ---
 

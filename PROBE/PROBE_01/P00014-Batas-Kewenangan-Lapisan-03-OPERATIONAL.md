@@ -44,36 +44,12 @@ Di banyak pesantren di Indonesia, tragedi kekerasan fisik dan pelanggaran hak as
 
 Fenomenologi pembajakan semantik ini digambarkan secara kontras dalam bagan perbandingan arsitektur berikut:
 
-```text
-DILEMA YURISDIKSI OPERASIONAL DI PESANTREN LAPANGAN:
-PEMBAJAKAN SEMANTIK LIAR VERSUS SUBORDINASI KANONIK TUMBUH v2.0.0
-
-   KUTUB PEMBAJAKAN SEMANTIK LIAR                     KUTUB SUBORDINASI KANONIK (TUMBUH V2)
- ┌────────────────────────────────────────────┐      ┌────────────────────────────────────────────┐
- │ 01_FUNDAMENTAL: "Ta'zir adalah Pemulihan   │      │ 01_FUNDAMENTAL: Konstitusi Nilai Fitrah    │
- │                  Adab Penuh Rahmah"        │      │ (Definisi Abadi: Restoratif, Anti-Kekerasan│
- └─────────────────────┬──────────────────────┘      └─────────────────────┬──────────────────────┘
-                       │                                                   │
-                       │ DIBAJAK & DIINVERSIKAN SECARA                     ▼ (HANYA ALIRAN SEARAH)
-                       │ DIKLARASI SEPIHAK DI LAPANGAN ┌────────────────────────────────────────────┐
-                       ▼                               │ 02_IMPLEMENTATION: Kebijakan Kelembagaan   │
- ┌────────────────────────────────────────────┐      │ (Pedoman PBIS, Hak Santri, Disiplin Positif│
- │ 03_OPERATIONAL (SOP LIAR MUSYRIF):         │      └─────────────────────┬──────────────────────┘
- │ "Pasal Ta'zir: Santri Telat Shubuh Push-Up │                            │
- │  100 Kali, Disiram Air, Digunduli Kepalanya"│                            ▼ (INSTRUMEN ERGONOMIS)
- └─────────────────────┬──────────────────────┘      ┌────────────────────────────────────────────┐
-                       │                             │ 03_OPERATIONAL: Perangkat Kerja Praktis    │
-                       ▼ DAMPAK BENCANA              │ • SOP Absensi, CICO Form, Logbook Harian   │
- ┌────────────────────────────────────────────┐      │ (SUBORDINASI MUTLAK: DILARANG REDEFINISI!) │
- │ • Hak asasi santri diinjak atas nama pondok│      └─────────────────────┬──────────────────────┘
- │ • Santri rhabdomyolysis, cacat, & trauma.  │                            │
- │ • Lembaga diseret ke pengadilan pidana.    │                            ▼ MANFAAT KANONIK
- └────────────────────────────────────────────┘      ┌────────────────────────────────────────────┐
-                                                     │ • Santri terlindungi total dari kekerasan. │
-                                                     │ • Musyrif bertindak dengan aman & tenang.  │
-                                                     │ • Kredibilitas peradaban pondok terjaga.   │
-                                                     └────────────────────────────────────────────┘
-```
+| Dimensi Yurisdiksi | Kutub Pembajakan Semantik Liar | Kutub Subordinasi Kanonik (TUMBUH v2.0.0) |
+| :--- | :--- | :--- |
+| **Definisi Nilai Hulu** | **`01_FUNDAMENTAL`: Retorika Semu**<br>• *"Ta'zir adalah pemulihan adab penuh rahmah"* | **`01_FUNDAMENTAL`: Konstitusi Nilai Fitrah**<br>• Nilai abadi: pemulihan adab, restoratif, anti-kekerasan |
+| **Mekanisme Lapisan** | **Inversi & Pembajakan Sepihak**<br>• Musyrif lapangan bebas membuat tafsir instrumen sendiri | **Aliran Penurunan Searah yang Terkontrol**<br>• `02_IMPLEMENTATION`: Kerangka kebijakan kelembagaan, pedoman PBIS, hak-hak santri, dan disiplin positif |
+| **Praktik Lapangan** | **`03_OPERATIONAL`: SOP Liar Musyrif**<br>• *"Pasal Ta'zir: Santri telat shubuh push-up 100 kali, disiram air, digunduli paksa"* | **`03_OPERATIONAL`: Perangkat Kerja Praktis**<br>• SOP absensi terarah, formulir CICO, logbook harian<br>• *(Subordinasi Mutlak: Dilarang Redefinisi!)* |
+| **Dampak Ekologis** | **Dampak Bencana**<br>• Hak asasi santri diinjak atas nama pondok<br>• Santri mengalami rhabdomyolysis, cacat fisik, dan trauma mental<br>• Lembaga berisiko diseret ke ranah pidana anak | **Manfaat Kanonik**<br>• Santri terlindungi total dari kekerasan fisik dan verbal<br>• Musyrif bertindak dalam kepastian hukum yang aman dan tenang<br>• Kredibilitas dan martabat peradaban pesantren terjaga |
 
 Praktik pembajakan semantik ini adalah kejahatan metodologis yang sangat berbahaya. Ketika seorang musyrif menuliskan sanksi kekerasan fisik di formulir SOP dan menamakannya sebagai "SOP Ta'zir Syar'i", musyrif tersebut secara nyata telah melakukan kudeta makna terhadap ajaran Rasulullah ﷺ tentang rahmah dan pendidikan adab.
 
@@ -157,32 +133,12 @@ Pakar hukum terkemuka abad ke-20, Hans Kelsen (1967) dalam *Pure Theory of Law*,
 
 Dalam Repositori TUMBUH v2.0.0, hierarki Kelsen dipetakan secara absolut:
 
-```text
-HIERARKI NORMA REPOSITORI TUMBUH v2.0.0 (STUFENBAUTHEORIE)
-
-                       ┌────────────────────────────┐
-                       │       GRUNDNORM / ASHL     │
-                       │       (Al-Qur'an & Sunnah) │
-                       └─────────────┬──────────────┘
-                                     │
-                                     ▼
-                       ┌────────────────────────────┐
-                       │  01_FUNDAMENTAL (LEX SUP)  │
-                       │  (Konstitusi Adab & Fitrah)│
-                       └─────────────┬──────────────┘
-                                     │
-                                     ▼
-                       ┌────────────────────────────┐
-                       │    02_IMPLEMENTATION       │
-                       │    (Regulasi Lembaga)      │
-                       └─────────────┬──────────────┘
-                                     │
-                                     ▼
-                       ┌────────────────────────────┐
-                       │  03_OPERATIONAL (LEX INF)  │
-                       │  (SOP & Instrumen Kerja)   │
-                       └────────────────────────────┘
-```
+| Tingkatan Norma | Lapisan Repositori | Kedudukan Epistemik | Fungsi & Batasan Arsitektural |
+| :--- | :--- | :--- | :--- |
+| **Tingkat 1 (Puncak)** | *Grundnorm / Ashl* | Al-Qur'an & Sunnah Shahihah | Sumber kebenaran mutlak wahyu illahi bagi seluruh sistem pendidikan. |
+| **Tingkat 2** | `01_FUNDAMENTAL` (*Lex Superior*) | Konstitusi Adab & Fitrah Insan | Menjabarkan filosofi tauhid dan hakikat fitrah abadi; kebal dari amandemen teknis. |
+| **Tingkat 3** | `02_IMPLEMENTATION` | Regulasi Kelembagaan | Adaptor kebijakan, standar jenjang kemandirian J1–J4, dan kerangka Multi-Tier PBIS. |
+| **Tingkat 4 (Hilir)** | `03_OPERATIONAL` (*Lex Inferior*) | SOP & Instrumen Kerja Musyrif | Prosedur teknis harian, checklist kamar, dan form observasi; wajib tunduk penuh pada lapisan atasnya. |
 
 Klausul apa pun di dalam berkas `03_OPERATIONAL/` yang bertentangan dengan pasal di `01_FUNDAMENTAL/` secara otomatis batal demi hukum (*null and void*) tanpa memerlukan pembatalan manual oleh pimpinan.
 
@@ -342,33 +298,13 @@ Untuk menjamin agar seluruh dokumen di lapisan `03_OPERATIONAL` senantiasa patuh
 
 ### 9.1. Diagram Alur Kerja Verifikasi Kepatuhan Operasional (Operational Linter Pipeline)
 
-```text
-ALUR KERJA STATIC SEMANTIC LINTER PADA LAPISAN 03_OPERATIONAL
-
-   MUSYRIF / KONTRIBUTOR MENGAJUKAN BERKAS PADA 03_OPERATIONAL/
-                                │
-                                ▼
-               GIT PRE-COMMIT HOOK DIJALANKAN
-                                │
-                                ▼
-         APAKAH MEMUAT KATA KUNCI KEKERASAN FISIK ATAU DENDA?
-         (Pola: push-up, rotan, tampar, jemur, denda, Rp)
-                                │
-             ┌──────────────────┴──────────────────┐
-            YA                                    TIDAK
-             │                                      │
-             ▼                                      ▼
-      [ABORT COMMIT]                  APAKAH MEMUAT TAUTAN KETERLACAKAN
-   "Fatal: Sanksi fisik/denda         KE LAPISAN 02_IMPLEMENTATION?
-    dilarang mutlak di TUMBUH!"                     │
-                                         ┌──────────┴──────────┐
-                                       TIDAK                  YA
-                                         │                      │
-                                         ▼                      ▼
-                                  [ABORT COMMIT]        [APPROVE COMMIT]
-                               "Traceability Error:    "SOP Operasional Sah,
-                                Wajib merujuk lapis 02" Ergonomis, & Beradab!"
-```
+| Tahap Evaluasi | Kondisi Pemeriksaan | Hasil Cabang | Tindakan Linter & Konsekuensi |
+| :--- | :--- | :--- | :--- |
+| **1. Pengajuan Berkas** | Musyrif/kontributor mengajukan berkas ke `03_OPERATIONAL/` | Masuk ke Git Pre-Commit Hook | Memulai pemindaian leksikal dan sintaksis otomatis |
+| **2. Uji Kata Kunci Larangan** | Apakah memuat kata kunci sanksi fisik / denda (push-up, rotan, tampar, jemur, denda, Rp)? | **YA** | **ABORT COMMIT**<br>Fatal: Sanksi fisik dan denda uang dilarang mutlak di TUMBUH! |
+| **2. Uji Kata Kunci Larangan** | Apakah memuat kata kunci sanksi fisik / denda? | **TIDAK** | Lanjut ke evaluasi keterlacakan |
+| **3. Uji Keterlacakan** | Apakah memuat tautan keterlacakan (*backward trace*) ke `02_IMPLEMENTATION`? | **TIDAK** | **ABORT COMMIT**<br>Traceability Error: Wajib merujuk kebijakan induk di Lapisan 02! |
+| **3. Uji Keterlacakan** | Apakah memuat tautan keterlacakan? | **YA** | **APPROVE COMMIT**<br>SOP operasional sah, ergonomis, dan beradab disetujui. |
 
 ### 9.2. Spesifikasi Rekayasa Sistem: Logika Subordinasi Operasional & Matriks Filter Anti-Punitif
 Sebagai naskah monograf ilmiah desain sistem, pengawasan instrumen operasional tidak disajikan dalam bentuk kode program mentah di dalam teks, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Subordinasi Operasional (Formal Operational Subordination Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Automated Architectural Fitness Function*):
@@ -400,55 +336,22 @@ Misalkan $O$ merepresentasikan himpunan seluruh berkas di dalam direktori `03_OP
 
 Untuk mengunci batas kewenangan operasional ini secara permanen, diterbitkan *Architectural Decision Record* kanonik:
 
-```text
-===============================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0014
-Judul: Pembakuan Batas Kewenangan dan Subordinasi Fungsional Lapisan 03_OPERATIONAL
-Status: DITERIMA, MENGIKAT, DAN KANONIK (ACCEPTED & CANONICAL)
-Tanggal Keputusan: 2026-10-25
-Penanggung Jawab: Dewan Arsitektur Sistem TUMBUH v2.0.0
-Wilayah Terdampak: Direktori 03_OPERATIONAL/ dan Seluruh Instrumen Lapangan Asrama
-===============================================================================
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0014 |
+| **Judul** | Pembakuan Batas Kewenangan dan Subordinasi Fungsional Lapisan `03_OPERATIONAL` |
+| **Status** | Diterima, Mengikat, dan Kanonik (*Accepted & Canonical*) |
+| **Tanggal Keputusan** | 2026-10-25 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 |
+| **Wilayah Terdampak** | Direktori `03_OPERATIONAL/` dan Seluruh Instrumen Lapangan Asrama |
 
-1. KONTEKS PERMASALAHAN:
-   Praktik penanganan santri di asrama kerap mengalami pembusukan operasional (operational drift)
-   dan pembajakan semantik (epistemic hijacking), di mana musyrif menyusun SOP kamar mandiri yang
-   menyelundupkan sanksi fisik (push-up, rotan, pemotongan rambut paksa) dan denda uang rupiah
-   dengan membajak istilah mulia syariat (Ta'zir, Ishlah, Qudwah). Ketiadaan kontrol semantik
-   menciptakan anarki hukum feodal di kamar asrama dan menempatkan lembaga pada risiko gugatan pidana.
-
-2. KEPUTUSAN ARSITEKTURAL (THE ARCHITECTURAL DECISION):
-   Ditetapkan bahwa lapisan 03_OPERATIONAL berstatus "Strict Procedural Subordination" dengan aturan:
-   a. Lapisan 03_OPERATIONAL hanya berhak mengatur prosedur teknis tata laksana harian yang
-      ergonomis (how to execute procedurally), namun diharamkan secara mutlak mendefinisikan
-      ulang hakikat nilai sistem TUMBUH (what the system fundamentally means).
-   b. Diharamkan secara mutlak memuat sanksi fisik (push-up, rotan, tamparan, jemur lapangan)
-      dan sanksi denda finansial rupiah dalam lembar SOP, checklist, atau logbook operasional.
-   c. Seluruh instrumen di 03_OPERATIONAL wajib memiliki tautan keterlacakan (backward trace) yang
-      sah ke dokumen kerangka kerja 02_IMPLEMENTATION dan prinsip 01_FUNDAMENTAL.
-   d. Klausul operasional yang bertentangan dengan dokumen fundamental dinyatakan batal demi hukum
-      secara seketika (ipso jure null and void) berdasarkan asas Lex Superior Derogat Legi Inferiori.
-
-3. JUSTIFIKASI TEOLOGIS DAN METODOLOGIS:
-   - Menegakkan kaidah ushuliyah: Al-Far'u la ya'udu 'ala al-ashli bil-ibthal (Ar-Razi).
-   - Menerapkan kaidah: Al-Wasa'il laha ahkam al-maqashid (Asy-Syathibi & Al-Qarafi).
-   - Mengikuti batasan wewenang muhtasib lapangan Imam Al-Mawardi fi Al-Ahkam as-Sulthaniyyah.
-   - Menerapkan Teori Drift into Failure Sidney Dekker dan Stufenbautheorie Hans Kelsen.
-   - Menerapkan Principle of Least Privilege Saltzer & Schroeder dan Static Semantic Linting.
-
-4. KONSEKUENSI POSITIF:
-   - Santri terlindungi secara mutlak dari kesewenang-wenangan sanksi fisik dan pemalakan denda.
-   - Musyrif memiliki kejelasan batasan wewenang hukum yang aman dan menenangkan batin.
-   - Lembaga pesantren kebal terhadap risiko gugatan pidana kekerasan anak.
-   - Istilah-istilah mulia syariat terlindungi dari pembajakan dan degradasi semantik.
-
-5. KONSEKUENSI NEGATIF DAN MITIGASI:
-   - Musyrif merasa kehilangan alat pemaksa cepat saat menghadapi santri yang membangkang.
-     Mitigasi: Diberikan pelatihan de-eskalasi emosi dan Behavior Intervention Plan (BIP) Tier 2/3.
-   - Diperlukan waktu penyesuaian bagi pengurus asrama dalam mencatat logbook secara tertib.
-     Mitigasi: Disediakan template checklist harian mobile yang berantarmuka rendah beban (low-friction).
-===============================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks Permasalahan** | Praktik penanganan santri di asrama kerap mengalami pembusukan operasional (*operational drift*) dan pembajakan semantik (*epistemic hijacking*), di mana musyrif menyusun SOP kamar mandiri yang menyelundupkan sanksi fisik (push-up, rotan, pemotongan rambut paksa) dan denda uang rupiah dengan membajak istilah mulia syariat (Ta'zir, Ishlah, Qudwah). Ketiadaan kontrol semantik menciptakan anarki hukum feodal di kamar asrama dan menempatkan lembaga pada risiko gugatan pidana. |
+| **2. Keputusan Arsitektural** | Ditetapkan bahwa lapisan `03_OPERATIONAL` berstatus *Strict Procedural Subordination* dengan aturan:<br>a. Lapisan `03_OPERATIONAL` hanya berhak mengatur prosedur teknis tata laksana harian yang ergonomis (*how to execute procedurally*), namun diharamkan secara mutlak mendefinisikan ulang hakikat nilai sistem TUMBUH (*what the system fundamentally means*).<br>b. Diharamkan secara mutlak memuat sanksi fisik (push-up, rotan, tamparan, jemur lapangan) dan sanksi denda finansial rupiah dalam lembar SOP, checklist, atau logbook operasional.<br>c. Seluruh instrumen di `03_OPERATIONAL` wajib memiliki tautan keterlacakan (*backward trace*) yang sah ke dokumen kerangka kerja `02_IMPLEMENTATION` dan prinsip `01_FUNDAMENTAL`.<br>d. Klausul operasional yang bertentangan dengan dokumen fundamental dinyatakan batal demi hukum secara seketika (*ipso jure null and void*) berdasarkan asas *Lex Superior Derogat Legi Inferiori*. |
+| **3. Justifikasi Teologis & Metodologis** | • Menegakkan kaidah ushuliyah: *Al-Far'u la ya'udu 'ala al-ashli bil-ibthal* (Ar-Razi).<br>• Menerapkan kaidah: *Al-Wasa'il laha ahkam al-maqashid* (Asy-Syathibi & Al-Qarafi).<br>• Mengikuti batasan wewenang muhtasib lapangan Imam Al-Mawardi fi *Al-Ahkam as-Sulthaniyyah*.<br>• Menerapkan Teori *Drift into Failure* Sidney Dekker dan *Stufenbautheorie* Hans Kelsen.<br>• Menerapkan *Principle of Least Privilege* Saltzer & Schroeder dan *Static Semantic Linting*. |
+| **4. Konsekuensi Positif** | • Santri terlindungi secara mutlak dari kesewenang-wenangan sanksi fisik dan pemalakan denda.<br>• Musyrif memiliki kejelasan batasan wewenang hukum yang aman dan menenangkan batin.<br>• Lembaga pesantren kebal terhadap risiko gugatan pidana kekerasan anak.<br>• Istilah-istilah mulia syariat terlindungi dari pembajakan dan degradasi semantik. |
+| **5. Konsekuensi Negatif & Mitigasi** | • Musyrif merasa kehilangan alat pemaksa cepat saat menghadapi santri yang membangkang.<br>  *Mitigasi:* Diberikan pelatihan de-eskalasi emosi dan *Behavior Intervention Plan* (BIP) Tier 2/3.<br>• Diperlukan waktu penyesuaian bagi pengurus asrama dalam mencatat logbook secara tertib.<br>  *Mitigasi:* Disediakan template checklist harian mobile yang berantarmuka rendah beban (*low-friction*). |
 
 ---
 

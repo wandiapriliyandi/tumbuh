@@ -66,22 +66,10 @@ Judul monograf ini secara tegas melakukan **dekonstruksi status**:
 - Status V2 bukanlah status kelahiran seorang bayi baru yang lahir di atas kertas putih suci tanpa masa lalu.
 - Status V2 adalah status seorang pemuda perkasa yang berdiri tegak di atas pundak para pendahulunya: ia mewarisi kebijaksanaan dan nilai luhur para sesepuh, seraya menggunakan ketajaman metode modern untuk menata kembali tatanan rumah besar yang diwariskan kepadanya.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│            DEKONSTRUKSI METODOLOGIS STATUS EVOLUSI BRANCH V2.0.0                │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   PARADIGMA KELIRU: GROUND-UP REWRITE             PARADIGMA KANONIK: REFACTORING│
-│   (Clean-Slate Fallacy / Putus Sanad)             (Penyempurnaan Berkelanjutan) │
-│   ┌─────────────────────────────────────────┐     ┌───────────────────────────┐ │
-│   │ Menghapus V1 ──► Amnesia Sejarah ──►    │     │ Mengaudit V1 ──►          │ │
-│   │ Second-System Bloat ──► Penolakan       │     │ Ekstraksi Nilai Fitrah ──►│ │
-│   │ Asatidz Sepuh ──► Bencana Lapangan.     │     │ Stratifikasi Lapisan ──►  │ │
-│   │                                         │     │ V2 Kanonik Berkelanjutan. │ │
-│   └─────────────────────────────────────────┘     └───────────────────────────┘ │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Dimensi Evaluasi | Paradigma Keliru: Ground-Up Rewrite (Clean-Slate / Putus Sanad) | Paradigma Kanonik TUMBUH: Architectural Refactoring (Penyempurnaan Berkelanjutan) |
+|---|---|---|
+| **Alur Proses** | Menghapus V1  →  Amnesia Sejarah  →  Second-System Bloat  →  Penolakan Asatidz Sepuh  →  Bencana Lapangan | Mengaudit V1  →  Ekstraksi Nilai Fitrah  →  Stratifikasi Lapisan  →  V2 Kanonik Berkelanjutan |
+| **Dampak Sistemik** | Kehilangan sanad historis dan kegagalan adopsi di pesantren. | Terjaganya kesinambungan sanad keilmuan dan ketepatan tata kelola adab. |
 
 ---
 
@@ -180,21 +168,10 @@ Fowler menetapkan bahwa jalan terbaik bagi sistem yang mengalami penumpukan utan
 ### 5.3. Teori Kapasitas Serap Organisasi (*Absorptive Capacity*) Cohen & Levinthal
 Wesley M. Cohen dan Daniel A. Levinthal (1990) dalam riset klasik mereka di *Administrative Science Quarterly* membuktikan bahwa kemampuan organisasi untuk menyerap, mengasimilasi, dan menerapkan pengetahuan baru bergantung mutlak pada **pengetahuan awal yang telah dimiliki (*prior related knowledge*)**:[^9]
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│              DINAMIKA ABSORPTIVE CAPACITY VS CLEAN-SLATE COLLAPSE               │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   MODEL CLEAN-SLATE (PENGHANCURAN PENGETAHUAN LAMA):                            │
-│   V1 Dibuang ──► Prior Knowledge Hilang ──► Absorptive Capacity Runtuh ──►      │
-│   Disonansi Kognitif Praktisi ──► Penolakan Sistem Baru di Asrama.              │
-│                                                                                 │
-│   MODEL REFACTORING INTEGRATIF V2 (TUMBUH):                                     │
-│   V1 Diaudit ──► Ekstraksi Istilah Akrab ──► Pemurnian Format Arsitektur ──►    │
-│   Prior Knowledge Terjaga ──► Asimilasi Cepat oleh Musyrif Lapangan.            │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Model Pendekatan | Rantai Kausalitas Pengetahuan Organisasi | Dampak Lapangan di Pesantren |
+|---|---|---|
+| **Model Clean-Slate (Penghancuran Pengetahuan Lama)** | V1 Dibuang  →  *Prior Knowledge* Hilang  →  *Absorptive Capacity* Runtuh  →  Disonansi Kognitif Praktisi | Penolakan pasif sistem baru di asrama akibat hilangnya keakraban nilai. |
+| **Model Refactoring Integratif V2 (TUMBUH)** | V1 Diaudit  →  Ekstraksi Istilah Akrab  →  Pemurnian Format Arsitektur  →  *Prior Knowledge* Terjaga | Asimilasi cepat dan pemahaman mendalam oleh musyrif dan asatidz lapangan. |
 
 Jika tim pengembang membuang seluruh bahasa dan naskah V1, para pengasuh dan musyrif asrama akan mengalami disonansi kognitif parah. Mereka kehilangan jangkar pengetahuan lama, sehingga sistem V2 akan ditolak secara pasif di lapangan.
 
@@ -350,27 +327,13 @@ Tabel berikut merangkum evolusi arsitektural repositori TUMBUH dari Fase V1 Rint
 
 Guna memastikan setiap penulis dan pengembang di Branch V2 tidak tergelincir ke dalam kesesatan kanvas kosong, ditetapkan **Protokol Lima Tahap Pengadopsian Warisan Pengetahuan V1**:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────────┐
-│               ALUR 5 TAHAP PROTOKOL INGESTI PENGETAHUAN V1 KE V2                │
-├─────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                 │
-│   [1. INGESTION AUDIT]  ──► Telaah berkas warisan di 99_ARCHIVE/probe_01_legacy │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [2. CORE EXTRACTION]  ──► Ekstraksi nilai fitrah & hikmah empiris lapangan    │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [3. REFACTORING]      ──► Susun naskah baru berstandar 13 bagian jurnal riset │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [4. TRACEABILITY]     ──► Cantumkan nomor berkas sanad lama di metadata V2    │
-│            │                                                                    │
-│            ▼                                                                    │
-│   [5. DEPRECATION TAG]  ──► Beri label status usang terarsip pada naskah lama   │
-│                                                                                 │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahap Ingesti | Nama Tahap | Deskripsi Tindakan Operasional Pengembang |
+|:---:|---|---|
+| 1 | **Ingestion Audit** | Menelaah berkas warisan di direktori `99_ARCHIVE/probe_01_legacy` |
+| 2 | **Core Extraction** | Mengekstraksi nilai fitrah, prinsip adab, dan hikmah empiris lapangan |
+| 3 | **Refactoring** | Menyusun naskah baru yang memenuhi standar 13 bagian jurnal riset sistem |
+| 4 | **Traceability** | Mencantumkan nomor berkas sanad lama secara eksplisit di metadata header V2 |
+| 5 | **Deprecation Tag** | Memberikan label status usang terarsip (*soft-deprecated*) pada naskah lama di arsip |
 
 ### Rincian Prosedur Operasional bagi Pengembang:
 1. **Tahap 1: Audit Naskah Warisan (*Ingestion Audit*)**: Setiap kali hendak menulis topik baru di V2, pengembang wajib menelusuri katalog berkas legacy di `99_ARCHIVE/probe_01_legacy/` untuk memeriksa apakah perintis terdahulu pernah membahas topik tersebut.
@@ -383,58 +346,20 @@ Guna memastikan setiap penulis dan pengembang di Branch V2 tidak tergelincir ke 
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0001)
 
-```text
-================================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0001
-================================================================================
-Judul: Dekonstruksi Status V2 sebagai Penyempurnaan Integratif Berkelanjutan
-Status: APPROVED & LOCKED CANONICAL BASELINE
-Tanggal Penetapan: 2026-10-25
-Pengambil Keputusan: Dewan Arsitektur Repositori TUMBUH v2.0.0
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0001 |
+| **Judul** | Dekonstruksi Status V2 sebagai Penyempurnaan Integratif Berkelanjutan |
+| **Status** | *Approved & Locked Canonical Baseline* |
+| **Tanggal Penetapan** | 2026-10-25 |
+| **Pengambil Keputusan** | Dewan Arsitek Sistem TUMBUH v2.0.0 |
+| **Wilayah Terdampak** | Seluruh Repositori TUMBUH (Branching Strategy & Root Architecture) |
 
-KONTEKS MASALAH:
-Dalam masa transisi menuju Branch v2.0.0, muncul kecenderungan metodologis yang
-keliru untuk membuang seluruh naskah perintisan V1 dan menulis ulang seluruh sistem
-dari nol di atas kanvas kosong (Clean-Slate Fallacy). Pendekatan tabula rasa ini
-mengancam keutuhan sanad keilmuan pesantren, memicu penolakan kultural dari para
-asatidz sepuh, memicu amnesia historis, dan menjerumuskan repositori ke dalam
-jebakan The Second-System Effect yang berbahaya.
-
-KEPUTUSAN ARSITEKTURAL:
-1. MENOLAK SECARA MUTLAK paradigma penulisan ulang dari nol (Clean-Slate Fallacy)
-   di seluruh ekosistem Repositori TUMBUH v2.0.0.
-2. MENETAPKAN paradigma PENYEMPURNAAN INTEGRATIF BERKELANJUTAN (Evolutionary
-   Refactoring) sebagai asas metodologis resmi evolusi Branch v2.0.0.
-3. MEWAJIBKAN setiap penyusunan naskah kanonik V2 berakar pada ekstraksi nilai luhur
-   dan pembelajaran empiris naskah perintisan V1, serta mencatat keterlacakan
-   sanadnya secara eksplisit dalam metadata berkas.
-4. MENGABADIKAN seluruh 294 berkas warisan V1 di dalam direktori 99_ARCHIVE/
-   berstatus read-only sebagai museum sejarah dan jangkar legitimasi kelembagaan.
-
-DASAR PERTIMBANGAN EPISTEMIK (SELARAS JUDUL BERKAS):
-- Hadits Tamsil Batu Bata Penyempurnaan Bangunan Kenabian (HR. Bukhari No. 3535).
-- Hadits Mandat Penyempurnaan Akhlak Luhur (HR. Ahmad No. 8952; Syarah Ibnu Abdil Barr).
-- Kaidah Ushul Fiqih: Istishhab al-Ashl As-Suyuthi (Al-Asybah wan-Nazha'ir).
-- Etika Suksesi Regulasi Kelembagaan Al-Mawardi (Al-Ahkam as-Sulthaniyyah).
-- Doktrin Sunnah Hasanah & Pemeliharaan Pahala Jariyah Perintis (HR. Muslim No. 1017).
-- Peringatan Bahaya The Second-System Effect oleh Frederick Brooks (Mythical Man-Month).
-- Kritik Bencana Netscape Rewrite oleh Joel Spolsky (Things You Should Never Do).
-- Teori Architectural Refactoring vs Rewrite Martin Fowler & Kent Beck.
-- Teori Kapasitas Serap Organisasi (Absorptive Capacity) Cohen & Levinthal (1990).
-- Hukum Pemeliharaan Keakraban Sistem (Conservation of Familiarity) Lehman & Belady.
-- Teori Akumulasi Paradigma Ilmiah Thomas Kuhn & Double-Loop Learning Argyris-Schön.
-
-KONSEKUENSI SISTEM:
-Positif:
-- Sanad keilmuan dan legitimasi moral para perintis awal terlindungi abadi.
-- Asatidz sepuh dan musyrif lapangan menerima pembaruan V2 dengan tenang dan ridha.
-- Repositori terhindar dari pembengkakan teori elitis (Second-System Bloat).
-- Pengetahuan empiris lapangan masa lalu tetap terwariskan melintasi pergantian pengurus.
-Negatif & Mitigasi:
-- Memerlukan waktu telaah tambahan untuk mengaudit naskah warisan sebelum menulis naskah baru.
-  Mitigasi: Penerapan Alur 5 Tahap Knowledge Heritage Ingestion Protocol secara disiplin.
-================================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Landasan Epistemik & Metodologis** | • Kaidah Ushul Fiqh: *Al-Muhafazhatu 'alal-Qadimish-Shalih wal-Akhdzu bil-Jadidil-Ashlah* dan *Al-Ashlu Baqa'u ma Kana 'ala ma Kana*. <br>• Teori Kapasitas Serap Organisasi (*Absorptive Capacity*) Cohen & Levinthal (1990).<br>• Hukum Pemeliharaan Keakraban Sistem (*Conservation of Familiarity*) Lehman & Belady.<br>• Teori Akumulasi Paradigma Ilmiah Thomas Kuhn & Double-Loop Learning Argyris-Schön. |
+| **2. Konsekuensi Positif** | • Sanad keilmuan dan legitimasi moral para perintis awal terlindungi abadi.<br>• Asatidz sepuh dan musyrif lapangan menerima pembaruan V2 dengan tenang dan ridha.<br>• Repositori terhindar dari pembengkakan teori elitis (*Second-System Bloat*).<br>• Pengetahuan empiris lapangan masa lalu tetap terwariskan melintasi pergantian pengurus. |
+| **3. Konsekuensi Negatif & Mitigasi** | Memerlukan waktu telaah tambahan untuk mengaudit naskah warisan sebelum menulis naskah baru.<br>*Mitigasi:* Penerapan Alur 5 Tahap *Knowledge Heritage Ingestion Protocol* secara disiplin. |
 
 ---
 

@@ -34,30 +34,11 @@ Ketegangan epistemik mendasar yang diselesaikan oleh monograf ini bertumpu pada 
 ### 3.1. Fenomenologi Anarki Versi di Lingkungan Pesantren Kontemporer
 Dalam sepuluh tahun terakhir, arus digitalisasi mendorong banyak pesantren untuk memindahkan dokumen aturan dari lembaran kertas manual menuju repositori digital dan aplikasi gawai. Namun, ketiadaan protokol demarkasi penomoran versi melahirkan fenomena yang sangat merusak tata kelola yang disebut **Anarki Semantik Versi (*Version Semantic Anarchy*)**:
 
-```text
-DILEMA SEMANTIK PENOMORAN VERSI DI PESANTREN
-
-    KUTUB REDUKSIONISME TEKNOKRATIS                  KUTUB NOMENKLATUR SPORADIS
-  (Commit SHA Dijadikan Nomor Aturan)            (Penamaan Berkas Liar Tanpa Aturan)
-  ┌─────────────────────────────────┐           ┌─────────────────────────────────┐
-  │ "Santri melanggar Pasal 4 pada  │           │ "Gunakan file Tata_Tertib_Final_│
-  │ Commit 7a2f8c di repositori Git!"│          │ fix_banget_ACC_Kiai_v3.docx!"   │
-  │ Wali santri bingung & menggugat.│           │ Tidak ada yang tahu keabsahannya│
-  └─────────────────────────────────┘           └─────────────────────────────────┘
-                  │                                               │
-                  ▼ DAMPAK                                        ▼ DAMPAK
-  ┌─────────────────────────────────┐           ┌─────────────────────────────────┐
-  │ • Ketiadaan pemahaman manusiawi.│           │ • Sengketa naskah di mahkamah.  │
-  │ • Musyrif merasa terasing.      │           │ • Aturan palsu mudah beredar.   │
-  │ • Lembaga dicap teknokrat buta. │           │ • Wibawa kiai terdelegitimasi.  │
-  └─────────────────────────────────┘           └─────────────────────────────────┘
-                  │                                               │
-                  └───────────────────────┬───────────────────────┘
-                                          ▼
-                                RESOLUSI KANONIK V2.0.0:
-                  "Demarkasi Versioning Tripartit: Memisahkan Versi Konseptual,
-                   Versi Dokumen, dan Tag Kriptografis Secara Taat Asas"
-```
+| Dimensi Nomenklatur | Kutub Reduksionisme Teknokratis | Kutub Nomenklatur Sporadis |
+| :--- | :--- | :--- |
+| **Karakteristik** | Menjadikan Commit SHA Git acak sebagai nomor aturan hukum santri di lapangan. | Penamaan berkas liar tanpa aturan formal (`Tata_Tertib_Final_fix_banget_ACC_Kiai_v3.docx`). |
+| **Dampak Patologis** | • Ketiadaan pemahaman manusiawi bagi wali santri.<br>• Musyrif merasa terasing oleh jargon teknis.<br>• Lembaga dicap teknokrat buta. | • Sengketa naskah di mahkamah atau ranah hukum.<br>• Dokumen aturan palsu mudah beredar.<br>• Wibawa kiai terdelegitimasi akibat ketidakjelasan versi. |
+| **Resolusi Kanonik V2.0.0** | <div align="center">**"Demarkasi Versioning Tripartit"**<br>Memisahkan versi konseptual sistem, status siklus dokumen, dan tag kriptografis secara taat asas.</div> |
 
 Tiga bentuk patologi lapangan yang kerap memicu kekacauan administrasi di pesantren mitra:
 1. **Proliferasi Nomenklatur Liar (*Uncontrolled Filename Sprawl*)**:  
@@ -79,28 +60,12 @@ Tradisi intelektual Islam klasik memiliki ketelitian filologis dan metodologi ko
 ### 4.1. Tradisi Tabaqat an-Nusakh dalam Filologi Hadits Islam
 Imam Al-Hafizh Jamaluddin Abu al-Hajjaj Yusuf Al-Mizzi dalam mukaddimah karyanya yang monumental *Tahdzib al-Kamal fi Asma' ar-Rijal* (Jilid 1, hlm. 142–155) dan disempurnakan oleh Al-Hafizh Ibnu Hajar Al-'Asqalani dalam *Tahdzib at-Tahdzib* (Jilid 1, hlm. 12–25) mengklasifikasikan naskah keilmuan ke dalam hierarki ketat yang disebut **Tabaqat an-Nusakh**:
 
-```text
-DIAGRAM FILOLOGI TURATS: HIERARKI TABAQAT AN-NUSAKH
-
- ┌────────────────────────────────────────────────────────────────────────┐
- │ 1. AL-ASHL AL-MU'TAMAD (Naskah Induk Otoritatif Tulisan Tangan Penulis) │
- └───────────────────────────────────┬────────────────────────────────────┘
-                                     │ Melahirkan Turunan Sah
-                                     ▼
- ┌────────────────────────────────────────────────────────────────────────┐
- │ 2. AN-NUSAKH AL-FAR'IYYAH (Naskah Salinan Murid Ber-Sanad & Ber-Sima')  │
- └───────────────────────────────────┬────────────────────────────────────┘
-                                     │ Dijelaskan Terpisah oleh
-                                     ▼
- ┌────────────────────────────────────────────────────────────────────────┐
- │ 3. ASY-SYURUH WAL-HAWASYI (Komentar & Dialektika Diskusi di Margin Luar)│
- └───────────────────────────────────┬────────────────────────────────────┘
-                                     │ Diringkas Menjadi
-                                     ▼
- ┌────────────────────────────────────────────────────────────────────────┐
- │ 4. AL-MUKHTASHARAT AL-'AMALIYYAH (Buku Saku Panduan Praktis Lapangan)   │
- └────────────────────────────────────────────────────────────────────────┘
-```
+| Tingkat (*Thabaqah*) | Istilah Filologis Turats | Karakteristik Otoritas | Korespondensi Repositori TUMBUH |
+| :---: | :--- | :--- | :--- |
+| **1** | **Al-Ashl al-Mu'tamad** | Naskah induk otoritatif tulisan tangan penulis (*khatt al-mu'allif*) atau naskah sah bertashhih. | Direktori `01_FUNDAMENTAL/` |
+| **2** | **An-Nusakh al-Far'iyyah** | Naskah salinan murid ber-sanad dan ber-sima' (*turunan sah*). | Direktori `02_IMPLEMENTATION/` |
+| **3** | **Asy-Syuruh wal-Hawasyi** | Komentar dialektis, analisis komparatif, dan inkuiri di garis batas (*margin/hamisy*). | Direktori `PROBE/` |
+| **4** | **Al-Mukhtasharat al-'Amaliyyah** | Buku saku ikhtisar aplikatif tanpa perdebatan dalil panjang untuk diamalkan di lapangan. | Direktori `03_OPERATIONAL/` |
 
 1. **Al-Ashl al-Mu'tamad (Naskah Asal yang Terakreditasi)**: Naskah asli yang ditulis langsung oleh tangan sang imam (*khatt al-mu'allif*) atau naskah yang dibacakan secara berulang-ulang di hadapannya (*qira'atan 'alal mu'allif*) dan dibubuhi tanda tangan pengesahan (*tashhih*).
 2. **An-Nusakh al-Far'iyyah (Naskah Cabang Terverifikasi)**: Salinan naskah yang disalin oleh para murid senior yang memiliki catatan pembacaan (*balaghat*) dan mendengarkan langsung (*sama'at*).
@@ -143,20 +108,11 @@ Tom Preston-Werner (2013) merumuskan spesifikasi baku Semantic Versioning (SemVe
 
 $$	ext{Version} = 	ext{MAJOR} \,.\, 	ext{MINOR} \,.\, 	ext{PATCH} \, [\, - \, 	ext{PRERELEASE} \,] \, [\, + \, 	ext{BUILDMETADATA} \,]$$
 
-```text
-DIAGRAM FORMAL SEMANTIC VERSIONING 2.0.0 DALAM REPOSITORI TUMBUH
-
-            MAJOR (X)                 MINOR (Y)                 PATCH (Z)
-     ┌───────────────────────┐ ┌───────────────────────┐ ┌───────────────────────┐
-     │ v2 .                  │ │ 0 .                   │ │ 0                     │
-     └───────────────────────┘ └───────────────────────┘ └───────────────────────┘
-                 │                         │                         │
-                 ▼                         ▼                         ▼
-        BREAKING CHANGES          BACKWARD-COMPATIBLE       BUG FIXES & ERRATA
-     Perombakan Ontologi &     Penambahan Klaster        Koreksi Ejaan Teks,
-     Arsitektur Repositori;    Panduan Baru di 02/;      Perbaikan Tautan Rusak,
-     Pelepasan Format Lama v1. Dokumen v2.0 tetap sah.   Takhrij Tanpa Ubah Matan.
-```
+| Komponen Versi | Format Representasi | Kategori Perubahan | Dampak Arsitektural di TUMBUH |
+| :---: | :---: | :--- | :--- |
+| **MAJOR (X)** | `v2.` | **Breaking Changes** | Perombakan ontologi, rekayasa batas direktori, pelepasan format usang v1. |
+| **MINOR (Y)** | `0.` | **Backward-Compatible** | Penambahan klaster panduan baru di `02/` tanpa mengubah kompatibilitas. |
+| **PATCH (Z)** | `0` | **Bug Fixes & Errata** | Koreksi ejaan editorial, perbaikan tautan URI rusak, pemutakhiran takhrij hadits. |
 
 Aturan formal SemVer yang diadopsi secara ketat oleh ekosistem TUMBUH:
 1. **MAJOR (X)** dinaikkan apabila terjadi perubahan arsitektural mendasar yang **memutus kompatibilitas ke belakang (*breaking changes*)**. Transisi dari v1.0.0 menuju v2.0.0 adalah kenaikan Major mutlak karena seluruh struktur direktori, batas epistemik, dan taksonomi kedisiplinan ditata ulang secara total.
@@ -202,7 +158,6 @@ Penyelidikan ini menghadapkan tiga paradigma penomoran versi yang kerap bersiteg
 MATRIKS DIALEKTIKA KONFRONTATIF: TIGA PARADIGMA PENOMORAN VERSI REPOSITORI
 
 PARAMETER EVALUASI     PARADIGMA REDUKSIONISME GIT      PARADIGMA BIROKRASI MANUAL       SINTESIS TRIPARTIT TUMBUH V2
-─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 1. Hakikat Versi Resmi Semata-mata deretan hash SHA    Nomor surat keputusan manual     Sintesis Tripartit: SemVer Makro
                        commit biner (misal: `7a2f8c`). dari sekretariat yayasan pondok.  didukung Tag Kriptografis GPG.
 
@@ -354,22 +309,13 @@ Tabel ini memperlihatkan bahwa Arsitektur Versioning Tripartit TUMBUH v2.0.0 tid
 
 Untuk menjamin kedisiplinan eksekusi penomoran versi di repositori TUMBUH, ditetapkan **Lima Prosedur Baku Operasional Versioning**:
 
-```text
-ALUR LIMA TAHAP PROTOKOL TATA KELOLA VERSIONING TRIPARTIT
-
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │ 1. AUDIT DAMPAK UBAHAN │ ───► │ 2. KLASIFIKASI LEVEL   │ ───► │ 3. PEMBUBUHAN METADATA │
- │ Evaluasi sifat revisi: │      │ Menentukan apakah      │      │ Stempel tajuk berkas   │
- │ Major, Minor, Patch.   │      │ Level 1, 2, atau 3.    │      │ ID & status siklus.    │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-                                                                              │
-                                                                              ▼
- ┌────────────────────────┐      ┌────────────────────────┐      ┌────────────────────────┐
- │ 5. PENANDATANGANAN GPG │ ◄─── │ 4. INTEGRASI KANONIK   │ ◄────┘ Uji Linter Format      │
- │ Pembuatan Annotated Tag│      │ Penggabungan pull      │        13 Bagian & Validasi   │
- │ rilis resmi terenkripsi│      │ request ke branch sah. │        Takhrij Turats Bebas.  │
- └────────────────────────┘      └────────────────────────┘      └────────────────────────┘
-```
+| Gerbang | Nama Prosedur Versioning | Tindakan Inti & Pengendalian Kualitas |
+| :---: | :--- | :--- |
+| **1** | **Audit Dampak Ubahan** | Evaluasi sifat revisi: apakah tergolong *Major (Breaking)*, *Minor (Feature)*, atau *Patch (Fix)*. |
+| **2** | **Klasifikasi Level** | Menentukan penomoran versi sesuai hierarki: Level 1 (Sistem), Level 2 (Dokumen), atau Level 3 (Git). |
+| **3** | **Pembubuhan Metadata** | Menstempel tajuk metadata kanonik berkas: ID berkas 5-digit, status dokumen, dan versi rilis. |
+| **4** | **Integrasi Kanonik** | Verifikasi kepatuhan format 13 bagian jurnal, validasi takhrij hadits, dan penggabungan via PR. |
+| **5** | **Penandatanganan GPG** | Pembuatan Annotated Tag rilis resmi bertanda tangan digital kriptografis terenkripsi anti-tamper. |
 
 ### 9.1. Rincian Prosedur Operasional Lima Gerbang
 1. **Tahap 1: Audit Dampak Perubahan (*Change Impact Audit Gate*)**:  
@@ -433,50 +379,18 @@ Misalkan $F_{\text{staged}}$ merepresentasikan himpunan seluruh berkas markdown 
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0007)
 
-```text
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                   ARCHITECTURAL DECISION RECORD (ADR) — TUMBUH-V2-0007                 │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ NOMOR KEPUTUSAN      : ADR-PROBE-0007                                                  │
-│ JUDUL KEPUTUSAN      : Standarisasi Arsitektur Versioning Tripartit Repositori TUMBUH  │
-│ STATUS DOKUMEN       : KANONIK / APPROVED & PERMANENTLY LOCKED                         │
-│ TANGGAL PENETAPAN    : 25 Oktober 2026                                                 │
-│ OTORITAS ARSITEKTUR  : Dewan Arsitektur Repositori TUMBUH & Komite Standarisasi Naskah │
-│ RUANG LINGKUP        : Demarkasi Versioning, SemVer, Metadata Berkas, & Git Tagging    │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ 1. KONTEKS DAN LATAR BELAKANG EPISTEMIK:                                               │
-│    Pencampuradukkan antara versi rilis konseptual sistem (v2.0.0), status siklus hidup │
-│    dokumen, dan nomor commit Git acak terbukti memicu anarki semantik, sengketa naskah │
-│    aturan asrama, dan kelemahan pembuktian hukum di lingkungan pesantren mitra.        │
-│    Diperlukan sistem penomoran versi berjenjang yang memiliki landasan ushul fiqih     │
-│    dan sains rekayasa perangkat lunak modern yang kokoh.                               │
-│                                                                                        │
-│ 2. KEPUTUSAN REKAYASA SISTEM YANG DITETAPKAN:                                          │
-│    Dewan Arsitektur menetapkan ARSITEKTUR VERSIONING TRIPARTIT SEBAGAI STANDAR MUTLAK  │
-│    PENOMORAN DOKUMEN DALAM SELURUH EKOSISTEM REPOSITORI TUMBUH:                       │
-│    a. Level 1 (System Conceptual Version): Menerapkan standar formal SemVer 2.0.0      │
-│       (MAJOR.MINOR.PATCH) untuk mengidentifikasi fase kematangan filosofis kurikulum. │
-│    b. Level 2 (Document Structural Version): Mewajibkan metadata status siklus hidup  │
-│       (DRAFT / IN-REVIEW / CANONICAL / ARCHIVED) pada baris pembuka setiap naskah.    │
-│    c. Level 3 (Cryptographic Tag & Commit Hash): Mengunci setiap rilis resmi dengan    │
-│       Annotated Git Tag bertanda tangan digital GPG yang permanen dan anti-tamper.    │
-│    d. Mengharamkan kutipan nomor commit Git acak sebagai dasar hukum pembinaan santri. │
-│                                                                                        │
-│ 3. JUSTIFIKASI TEOLOGIS DAN ILMIAH:                                                    │
-│    a. Menerapkan kaidah ushul Tamyiz al-Maratib wal-Ahkam Imam Al-Qarafi demi         │
-│       mencegah percampuradukan derajat otoritas hukum di lingkungan pesantren.        │
-│    b. Menghidupkan tradisi filologi Islam mengenai Tabaqat an-Nusakh Al-Mizzi untuk   │
-│       memisahkan teks induk matan dari catatan dialektika inkuiri PROBE.               │
-│    c. Menyelaraskan tata kelola dengan SemVer Preston-Werner, Git DAG Chacon, dan     │
-│       Hukum Conway untuk menciptakan struktur komunikasi kelembagaan yang sehat.       │
-│                                                                                        │
-│ 4. BATASAN SISTEM & KONSEKUENSI KEPUTUSAN:                                             │
-│    a. Dilarang menaikkan versi Major tanpa adanya perubahan arsitektur breaking.       │
-│    b. Dilarang menerbitkan salinan buku panduan santri tanpa menyertakan QR tag Git.   │
-│    c. Berkas yang tidak memenuhi standar tajuk metadata Level 2 akan ditolak oleh CI. │
-│    d. Pelanggaran terhadap ADR ini membatalkan keabsahan hukum dokumen di lapangan.    │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0007 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0007` |
+| **Judul Keputusan** | Standarisasi Arsitektur Versioning Tripartit Repositori TUMBUH |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Penetapan** | 25 Oktober 2026 |
+| **Otoritas Arsitektur**| Dewan Arsitektur Repositori TUMBUH & Komite Standarisasi Naskah |
+| **Ruang Lingkup** | Demarkasi Versioning, SemVer, Metadata Berkas, & Git Tagging |
+| **1. Konteks & Latar Belakang** | Pencampuradukkan antara versi rilis konseptual sistem (v2.0.0), status siklus hidup dokumen, dan nomor commit Git acak terbukti memicu anarki semantik, sengketa naskah aturan asrama, dan kelemahan pembuktian hukum di lingkungan pesantren mitra. Diperlukan sistem penomoran versi berjenjang yang memiliki landasan ushul fiqih dan sains rekayasa perangkat lunak modern yang kokoh. |
+| **2. Keputusan yang Ditetapkan** | Dewan Arsitektur menetapkan **Arsitektur Versioning Tripartit Sebagai Standar Mutlak Penomoran Dokumen dalam Seluruh Ekosistem Repositori TUMBUH**:<br>a. Level 1 (System Conceptual Version): Menerapkan standar formal SemVer 2.0.0 (MAJOR.MINOR.PATCH) untuk mengidentifikasi fase kematangan filosofis kurikulum.<br>b. Level 2 (Document Structural Version): Mewajibkan metadata status siklus hidup (DRAFT / IN-REVIEW / CANONICAL / ARCHIVED) pada baris pembuka setiap naskah.<br>c. Level 3 (Cryptographic Tag & Commit Hash): Mengunci setiap rilis resmi dengan Annotated Git Tag bertanda tangan digital GPG yang permanen dan anti-tamper.<br>d. Mengharamkan kutipan nomor commit Git acak sebagai dasar hukum pembinaan santri. |
+| **3. Justifikasi Teologis & Ilmiah** | a. Menerapkan kaidah ushul Tamyiz al-Maratib wal-Ahkam Imam Al-Qarafi demi mencegah percampuradukan derajat otoritas hukum di lingkungan pesantren.<br>b. Menghidupkan tradisi filologi Islam mengenai Tabaqat an-Nusakh Al-Mizzi untuk memisahkan teks induk matan dari catatan dialektika inkuiri PROBE.<br>c. Menyelaraskan tata kelola dengan SemVer Preston-Werner, Git DAG Chacon, dan Hukum Conway untuk menciptakan struktur komunikasi kelembagaan yang sehat. |
+| **4. Batasan & Konsekuensi** | a. Dilarang menaikkan versi Major tanpa adanya perubahan arsitektur breaking.<br>b. Dilarang menerbitkan salinan buku panduan santri tanpa menyertakan QR tag Git.<br>c. Berkas yang tidak memenuhi standar tajuk metadata Level 2 akan ditolak oleh CI.<br>d. Pelanggaran terhadap ADR ini membatalkan keabsahan hukum dokumen di lapangan. |
 
 ---
 

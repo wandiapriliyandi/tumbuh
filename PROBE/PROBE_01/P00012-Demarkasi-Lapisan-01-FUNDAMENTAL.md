@@ -44,27 +44,10 @@ Dalam tata kelola arsip dan statuta lembaga pendidikan Islam di Nusantara, probl
 
 Fenomenologi lapangan ini dipetakan secara analitis dalam diagram berikut:
 
-```text
-DILEMA ARSITEKTUR KONSTITUSI DI PESANTREN:
-KERNEL TERCEMAR VERSUS DEMARKASI KANONIK TUMBUH v2.0.0
-
-   KUTUB KONSTITUSI TERCEMAR (POLLUTED KERNEL)         KUTUB DEMARKASI KANONIK (TUMBUH V2)
- ┌────────────────────────────────────────────┐      ┌────────────────────────────────────────────┐
- │ BUKU INDUK CAMPUR ADUK (MONOLITIK DATAR)   │      │ 01_FUNDAMENTAL: HANYA MEMUAT PRINSIP ABADI │
- │ - Ayat Tauhid & Falsafah Pendidikan        │      │ • Worldview Islam & Ontologi Tauhid        │
- │ - Tarif Denda Santri Rp50.000,-            │      │ • Hakikat Fitrah Insan & Taksonomi Adab    │
- │ - Jadwal Piket Musyrif Jam 02.00 Dini Hari │      │ • Arsitektur Multi-Tier PBIS Universal     │
- │ - Merk Cat Dinding dan Spesifikasi CCTV    │      │ (ZERO DEPENDENCY / BEBAS POLUSI TEKNIS)    │
- └─────────────────────┬──────────────────────┘      └─────────────────────┬──────────────────────┘
-                       │                                                   │
-                       ▼ DAMPAK KERUSAKAN                                  ▼ DAMPAK PERLINDUNGAN
- ┌────────────────────────────────────────────┐      ┌────────────────────────────────────────────┐
- │ • Perubahan harga beras memaksa amandemen  │      │ • Konstitusi stabil, sakral, & berwibawa.  │
- │   akta yayasan di depan notaris.           │      │ • Perubahan teknis berlangsung lincah di   │
- │ • Dosa aqidah setara dengan sandal hilang. │      │   lapisan 03_OPERATIONAL tanpa menyentuh   │
- │ • Nilai adab disandera oleh denda uang.    │      │   satu huruf pun dokumen konstitusi.       │
- └────────────────────────────────────────────┘      └────────────────────────────────────────────┘
-```
+| Dimensi Perbandingan | Kutub Konstitusi Tercemar (*Polluted Kernel*) | Kutub Demarkasi Kanonik (TUMBUH v2.0.0) |
+| :--- | :--- | :--- |
+| **Karakteristik Dokumen** | **Buku Induk Campur Aduk (Monolitik Datar)**<br>• Ayat tauhid & falsafah pendidikan dicampur aduk<br>• Tarif denda santri Rp50.000,-<br>• Jadwal piket musyrif jam 02.00 dini hari<br>• Merk cat dinding & spesifikasi CCTV | **`01_FUNDAMENTAL`: Hanya Memuat Prinsip Abadi**<br>• Worldview Islam & ontologi tauhid<br>• Hakikat fitrah insan & taksonomi adab<br>• Arsitektur Multi-Tier PBIS universal<br>• *(Zero Dependency / Bebas Polusi Teknis)* |
+| **Dampak Sistemik** | **Dampak Kerusakan**<br>• Perubahan harga beras memaksa amandemen akta yayasan di notaris<br>• Dosa aqidah setara dengan sandal hilang<br>• Nilai adab disandera oleh denda uang | **Dampak Perlindungan**<br>• Konstitusi stabil, sakral, dan berwibawa<br>• Perubahan teknis berlangsung lincah di lapisan `03_OPERATIONAL`<br>• Dokumen konstitusi steril dari amandemen teknis |
 
 Fenomena ini melahirkan apa yang disebut dalam sosiologi hukum sebagai *Desacralization of Norms* (Penghilangan Kesakralan Norma). Ketika santri melihat bahwa jadwal makan siang berada di bab yang sama dengan rukun iman, santri kehilangan rasa takzim (*ta'zhim*) terhadap aturan pesantren. Peraturan pondok tidak lagi dipandang sebagai bimbingan adab nabawiyyah menuju ridha Allah ﷻ, melainkan sekadar tumpukan instruksi birokrasi yang melelahkan.
 
@@ -166,23 +149,11 @@ Robert C. Martin (Uncle Bob, 2017) dalam *Clean Architecture* merumuskan dua huk
 1. **The Stable Dependencies Principle (SDP)**: *Depend in the direction of stability.* Lapisan yang kurang stabil harus bergantung pada lapisan yang lebih stabil, bukan sebaliknya. Lapisan `03_OPERATIONAL` (labil) wajib bergantung pada `01_FUNDAMENTAL` (stabil mutlak).
 2. **The Stable Abstractions Principle (SAP)**: *A package should be as abstract as it is stable.* Semakin stabil sebuah modul atau dokumen, ia harus semakin abstrak. Lapisan `01_FUNDAMENTAL` harus memuat prinsip-prinsip abstrak universal tingkat tinggi, bukan detail implementasi konkrit.
 
-```text
-DIAGRAM RELASI STABILITAS DAN ABSTRAKSI ARSITEKTUR REPOSITORI TUMBUH
-
-                     ABSTRAKSI TINGGI (PRINSIP UNIVERSAL)
-                                      ▲
-                                      │
-                             [01_FUNDAMENTAL]  ==> STABILITAS TERTINGGI (I=0, A=1)
-                                      │
-                                      │
-                             [02_IMPLEMENTATION] ==> STABILITAS SEDANG
-                                      │
-                                      │
-                             [03_OPERATIONAL]   ==> STABILITAS RENDAH (VOLATILE)
-                                      │
-                                      ▼
-                      KONKRIT TINGGI (DETAIL FORMULIR & JAM)
-```
+| Lapisan Repositori | Tingkat Abstraksi | Tingkat Stabilitas | Penjelasan Karakteristik |
+| :--- | :--- | :--- | :--- |
+| **`01_FUNDAMENTAL`** | Abstraksi Tertinggi (Prinsip Universal) | Stabilitas Tertinggi ($I = 0, A = 1$) | Memuat prinsip abadi, worldview, dan fitrah insan. Bebas dari detail konkrit. |
+| **`02_IMPLEMENTATION`** | Abstraksi Sedang (Kerangka Kebijakan) | Stabilitas Sedang | Menerjemahkan prinsip ke dalam arsitektur kelembagaan, domain PBIS, dan kurikulum. |
+| **`03_OPERATIONAL`** | Konkrit Tinggi (Detail Formulir & Jam) | Stabilitas Rendah (*Volatile*) | Memuat SOP teknis harian, jadwal piket, instrumen form, dan aturan kamar yang lincah disesuaikan. |
 
 Jika dokumen di `01_FUNDAMENTAL` mulai memuat detail konkrit (seperti jam piket atau denda nominal rupiah), maka nilai abstraksinya turun sementara stabilitasnya dituntut tinggi. Kontradiksi ini memicu keretakan arsitektur (*architectural crack*) yang merusak seluruh repositori.
 
@@ -336,32 +307,13 @@ Untuk menjaga agar lapisan `01_FUNDAMENTAL` tetap steril dari kontaminasi teknis
 
 ### 9.1. Diagram Alur Kerja Verifikasi Kernel Konstitusi (Kernel Integrity Pipeline)
 
-```text
-ALUR KERJA ZERO-DEPENDENCY LINTER LAPISAN 01_FUNDAMENTAL
-
-   KONTRIBUTOR MENGAJUKAN PERUBAHAN PADA BERKAS 01_FUNDAMENTAL/
-                                │
-                                ▼
-               GIT PRE-COMMIT HOOK / CI PIPELINE
-                                │
-                                ▼
-       APAKAH TERDAPAT REFERENSI KE 02_, 03_, ATAU PROBE/?
-                                │
-             ┌──────────────────┴──────────────────┐
-            YA                                    TIDAK
-             │                                      │
-             ▼                                      ▼
-      [REJECT COMMIT]              APAKAH MEMUAT KATA KUNCI POLUSI TEKNIS?
-   "Fatal: 01_FUNDAMENTAL dilarang (Rupiah, Jadwal Menit, Push-up, CCTV, Form)
-    memiliki dependensi ke luar!"                  │
-                                         ┌──────────┴──────────┐
-                                        YA                    TIDAK
-                                         │                      │
-                                         ▼                      ▼
-                                  [REJECT COMMIT]       [APPROVE COMMIT]
-                               "Polusi Teknis Ditolak! "Kernel Konstitusi Murni,
-                                Pindahkan ke Lapis 03"  Valid, dan Sah!"
-```
+| Tahap Pemeriksaan | Kondisi / Cabang Keputusan | Status Evaluasi | Konsekuensi & Tindakan Sistem |
+| :--- | :--- | :--- | :--- |
+| **1. Pengajuan Komit** | Kontributor mengajukan perubahan berkas `01_FUNDAMENTAL/` | Masuk ke Git Pre-Commit Hook / CI Pipeline | Menjalankan linter arsitektural secara otomatis |
+| **2. Uji Referensi Silang** | Apakah terdapat referensi ke `02_`, `03_`, atau `PROBE/`? | **YA** | **REJECT COMMIT**<br>Fatal: `01_FUNDAMENTAL` dilarang memiliki dependensi ke luar! |
+| **2. Uji Referensi Silang** | Apakah terdapat referensi ke `02_`, `03_`, atau `PROBE/`? | **TIDAK** | Lolos ke pengujian berikutnya |
+| **3. Uji Polusi Teknis** | Apakah memuat kata kunci polusi teknis (Rupiah, Jadwal Menit, Push-up, CCTV, Form)? | **YA** | **REJECT COMMIT**<br>Polusi Teknis Ditolak! Pindahkan substansi ke Lapisan 03. |
+| **3. Uji Polusi Teknis** | Apakah memuat kata kunci polusi teknis? | **TIDAK** | **APPROVE COMMIT**<br>Kernel konstitusi murni, valid, dan sah disetujui. |
 
 ### 9.2. Spesifikasi Rekayasa Sistem: Logika Invarian Zero-Dependency & Matriks Purifikasi
 Sebagai sebuah monograf desain sistem, penegakan kemurnian konstitusi Fundamental tidak disajikan dalam bentuk kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Invarian Kernel (Formal Kernel Invariant Specification)** yang menjadi acuan pengujian otomatis (*Automated Architectural Fitness Function*):
@@ -401,55 +353,22 @@ Protokol empat tahap ini memastikan bahwa repositori TUMBUH memiliki daya pulih 
 
 Untuk menetapkan kekebalan lapisan fundamental ini secara permanen, diterbitkanlah *Architectural Decision Record* kanonik:
 
-```text
-===============================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0012
-Judul: Pembakuan Demarkasi Kernel Konstitusional Lapisan 01_FUNDAMENTAL
-Status: DITERIMA, MENGIKAT, DAN KANONIK (ACCEPTED & CANONICAL)
-Tanggal Keputusan: 2026-10-25
-Penanggung Jawab: Dewan Arsitektur Sistem TUMBUH v2.0.0
-Wilayah Terdampak: Direktori 01_FUNDAMENTAL/ dan Seluruh Relasi Dependensi Masuk
-===============================================================================
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0012 |
+| **Judul** | Pembakuan Demarkasi Kernel Konstitusional Lapisan `01_FUNDAMENTAL` |
+| **Status** | Diterima, Mengikat, dan Kanonik (*Accepted & Canonical*) |
+| **Tanggal Keputusan** | 2026-10-25 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 |
+| **Wilayah Terdampak** | Direktori `01_FUNDAMENTAL/` dan seluruh relasi dependensi masuk |
 
-1. KONTEKS PERMASALAHAN:
-   Dokumen falsafah dasar pesantren kerap dicemari oleh klausul teknis harian (besaran
-   denda rupiah, jam piket musyrif, jadwal kamar, nomor rekening yayasan). Hal ini
-   menimbulkan amandemen berulang yang meruntuhkan kesakralan norma, menyamakan bobot dosa
-   akidah dengan jemuran handuk basah, membuka celah komersialisasi ta'dib, dan melumpuhkan
-   kelincahan adaptasi lapangan musyrif asrama.
-
-2. KEPUTUSAN ARSITEKTURAL (THE ARCHITECTURAL DECISION):
-   Ditetapkan bahwa lapisan 01_FUNDAMENTAL berstatus sebagai "Zero-Dependency Invariant
-   Kernel" dengan aturan arsitektural mutlak:
-   a. Lapisan 01_FUNDAMENTAL hanya memuat nilai filosofis teologis abadi, worldview Islam,
-      ontologi tauhid, hakikat fitrah manusia, dan taksonomi karakter adab nabawiyyah.
-   b. Diharamkan secara mutlak bagi berkas di 01_FUNDAMENTAL untuk mengimpor atau merujuk
-      berkas di 02_IMPLEMENTATION, 03_OPERATIONAL, atau PROBE/.
-   c. Diharamkan memuat istilah konkrit teknis: besaran denda uang, ukuran waktu menit jadwal,
-      nama kamar fisik, merk perangkat teknologi, atau sanksi fisik retributif.
-   d. Amandemen terhadap naskah 01_FUNDAMENTAL hanya sah apabila melewati konsensus Majelis
-      Kiai Sepuh melalui berkas keputusan ADR resmi.
-
-3. JUSTIFIKASI TEOLOGIS DAN METODOLOGIS:
-   - Selaras dengan doktrin Al-Kulliyyat asy-Syar'iyyah Imam Asy-Syathibi fi Al-Muwafaqat.
-   - Mengikuti kaidah Ummul Kitab dalam penafsiran ayat muhkamat Ibnul 'Arabi.
-   - Mengikuti distingsi Tsawabit dan Mutaghayyirat Imam Ibnu Qayyim Al-Jauziyyah.
-   - Menerapkan prinsip Core Domain & Invariants Eric Evans (DDD).
-   - Menerapkan Volatility-Based Decomposition Juval Löwy dan Stable Abstractions Principle Uncle Bob.
-
-4. KONSEKUENSI POSITIF:
-   - Dokumen konstitusi pesantren memiliki wibawa sakral abadi melintasi pergantian zaman.
-   - Laju perubahan (volatilitas) lapisan fundamental mendekati nol, menghilangkan kelelahan amandemen.
-   - Nilai adab fitrah terlindungi mutlak dari bahaya komersialisasi dan infiltrasi kekerasan.
-   - Musyrif lapangan memiliki kemerdekaan penuh dalam berinovasi di lapis operasional.
-
-5. KONSEKUENSI NEGATIF DAN MITIGASI:
-   - Perumus statuta baru kerap tergoda menulis detail teknis di lapis fundamental.
-     Mitigasi: Dijalankan pre-commit linter tools/verify_fundamental_kernel.py secara otomatis.
-   - Wali santri memerlukan dokumen ringkas yang memadukan prinsip dan biaya administrasi.
-     Mitigasi: Dibuat automated brochure generator yang mengekstraksi data presentasi terpisah.
-===============================================================================
-```
+| Bagian ADR | Deskripsi & Ketetapan Arsitektural |
+| :--- | :--- |
+| **1. Konteks Permasalahan** | Dokumen falsafah dasar pesantren kerap dicemari oleh klausul teknis harian (besaran denda rupiah, jam piket musyrif, jadwal kamar, nomor rekening yayasan). Hal ini menimbulkan amandemen berulang yang meruntuhkan kesakralan norma, menyamakan bobot dosa akidah dengan jemuran handuk basah, membuka celah komersialisasi ta'dib, dan melumpuhkan kelincahan adaptasi lapangan musyrif asrama. |
+| **2. Keputusan Arsitektural** | Ditetapkan bahwa lapisan `01_FUNDAMENTAL` berstatus sebagai *Zero-Dependency Invariant Kernel* dengan aturan arsitektural mutlak:<br>a. Lapisan `01_FUNDAMENTAL` hanya memuat nilai filosofis teologis abadi, worldview Islam, ontologi tauhid, hakikat fitrah manusia, dan taksonomi karakter adab nabawiyyah.<br>b. Diharamkan secara mutlak bagi berkas di `01_FUNDAMENTAL` untuk mengimpor atau merujuk berkas di `02_IMPLEMENTATION`, `03_OPERATIONAL`, atau `PROBE/`.<br>c. Diharamkan memuat istilah konkrit teknis: besaran denda uang, ukuran waktu menit jadwal, nama kamar fisik, merk perangkat teknologi, atau sanksi fisik retributif.<br>d. Amandemen terhadap naskah `01_FUNDAMENTAL` hanya sah apabila melewati konsensus Majelis Kiai Sepuh melalui berkas keputusan ADR resmi. |
+| **3. Justifikasi Teologis & Metodologis** | • Selaras dengan doktrin *Al-Kulliyyat asy-Syar'iyyah* Imam Asy-Syathibi fi *Al-Muwafaqat*.<br>• Mengikuti kaidah *Ummul Kitab* dalam penafsiran ayat muhkamat Ibnul 'Arabi.<br>• Mengikuti distingsi *Tsawabit* dan *Mutaghayyirat* Imam Ibnu Qayyim Al-Jauziyyah.<br>• Menerapkan prinsip *Core Domain & Invariants* Eric Evans (DDD).<br>• Menerapkan *Volatility-Based Decomposition* Juval Löwy dan *Stable Abstractions Principle* Uncle Bob. |
+| **4. Konsekuensi Positif** | • Dokumen konstitusi pesantren memiliki wibawa sakral abadi melintasi pergantian zaman.<br>• Laju perubahan (volatilitas) lapisan fundamental mendekati nol, menghilangkan kelelahan amandemen.<br>• Nilai adab fitrah terlindungi mutlak dari bahaya komersialisasi dan infiltrasi kekerasan.<br>• Musyrif lapangan memiliki kemerdekaan penuh dalam berinovasi di lapis operasional. |
+| **5. Konsekuensi Negatif & Mitigasi** | • Perumus statuta baru kerap tergoda menulis detail teknis di lapis fundamental.<br>  *Mitigasi:* Dijalankan pre-commit linter `tools/verify_fundamental_kernel.py` secara otomatis.<br>• Wali santri memerlukan dokumen ringkas yang memadukan prinsip dan biaya administrasi.<br>  *Mitigasi:* Dibuat automated brochure generator yang mengekstraksi data presentasi terpisah. |
 
 ---
 

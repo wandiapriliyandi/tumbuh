@@ -59,18 +59,14 @@ Ketika dewan pimpinan memeriksa dokumen pesantren dua tahun kemudian, mereka men
 ### 3.2. Enam Patologi Erosi Arsitektural dalam Repositori Kelembagaan
 Berdasarkan telaah kritis terhadap arsip kegagalan tata kelola dokumen di era v1 dan observasi kelembagaan pesantren, teridentifikasi enam patologi sistemik pembusukan arsitektur:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│             ANATOMI ENAM PATOLOGI EROSI ARSITEKTUR REPOSITORI              │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Inverted Dependency Leakage   : Lapisan hulu bersandar pada hilir        │
-│ 2. Subversive Punitive Infiltration: Klausul kekerasan terselip di SOP      │
-│ 3. Ghost Artifact Accumulation   : Ratusan draf tak bertuan tanpa status    │
-│ 4. Divisional Siloing Anarchy    : Masing-masing bagian membuat aturan liar │
-│ 5. Manual Audit Paralysis        : Kelelahan manusia memeriksa dokumen masif│
-│ 6. Big Ball of Mud Regression    : Keruntuhan stratifikasi menjadi monolit  │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| No | Patologi Erosi Arsitektur | Manifestasi Lapangan & Dampak Kerusakan |
+| :-: | :--- | :--- |
+| **1** | **Inverted Dependency Leakage** | Lapisan hulu bersandar pada hilir, merusak fondasi konseptual |
+| **2** | **Subversive Punitive Infiltration** | Klausul sanksi kekerasan fisik/denda terselip secara liar di SOP operasional |
+| **3** | **Ghost Artifact Accumulation** | Ratusan draf berkas tak bertuan tanpa kejelasan status epistemik kanonik |
+| **4** | **Divisional Siloing Anarchy** | Masing-masing bagian/divisi membuat aturan kamar secara parsial dan bertabrakan |
+| **5** | **Manual Audit Paralysis** | Kelelahan tim kurator manusia saat memeriksa volume ratusan berkas secara manual |
+| **6** | **Big Ball of Mud Regression** | Keruntuhan total stratifikasi repositori kembali menjadi arsitektur monolitik kotor |
 
 1. **Kebocoran Dependensi Terbalik (Inverted Dependency Leakage)**:
    Terjadi ketika sebuah dokumen berstatus filosofis tinggi di `01_FUNDAMENTAL/` memuat tautan dependensi langsung ke instrumen praktis di `03_OPERATIONAL/` atau merujuk ke berkas rekaman suara mentah di `source/`. Akibatnya, ketika formulir teknis di asrama diubah oleh staf tata usaha, fondasi filosofis sistem ikut berguncang.
@@ -165,46 +161,22 @@ Untuk memitigasi erosi desain secara permanen, Neal Ford, Rebecca Parsons, dan P
 - Berbeda dari pengujian unit fungsional (*unit testing*) yang menguji apakah suatu fitur bekerja dengan benar, *Architectural Fitness Function* menguji batas-batas arsitektur: keterikatan modul (*coupling*), arah dependensi (*acyclic dependency*), isolasi lapisan (*layer isolation*), dan kepatuhan terhadap standar keamanan.
 - Setiap kali seorang pengembang mengajukan perubahan berkas (melalui *git commit* atau *pull request*), fungsi kebugaran ini dijalankan secara otomatis di dalam pipeline CI/CD. Apabila ditemukan pelanggaran (misalnya dokumen di `01_FUNDAMENTAL/` merujuk ke berkas teknis di `03_OPERATIONAL/`), proses integrasi build langsung digagalkan (*broken build*) dan perubahan ditolak secara otomatis.
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                 DEVELOPER GIT COMMIT / PULL REQUEST         │
-└─────────────────────────────────────────────────────────────┘
-                               │
-                               ▼
-┌─────────────────────────────────────────────────────────────┐
-│          ARCHITECTURAL FITNESS FUNCTION (CI LINTER)         │
-│   - Uji 1: Arah Dependensi (No Reverse Dependency)         │
-│   - Uji 2: Deteksi Redefinisi Istilah Kanonik               │
-│   - Uji 3: Larangan Mutlak Klausul Kekerasan Fisik/Punitif  │
-│   - Uji 4: Kelengkapan Frontmatter & Metadata Traceability  │
-└─────────────────────────────────────────────────────────────┘
-                │                               │
-        (Lolos Verifikasi)             (Ditemukan Pelanggaran)
-                ▼                               ▼
-┌─────────────────────────────┐ ┌─────────────────────────────┐
-│  MERGE APPROVED TO BRANCH   │ │   MERGE BLOCKED & REJECTED  │
-│  Status Kanonik Terpelihara │ │   Laporan Anomali Diterbitkan│
-└─────────────────────────────┘ └─────────────────────────────┘
-```
+| Tahapan Pipeline | Fokus Pengujian / Gerbang Evaluasi | Status Lolos (*Pass*) | Status Gagal (*Fail*) |
+| :--- | :--- | :--- | :--- |
+| **1. Pengajuan Komit / PR** | Kontributor mengajukan perubahan berkas via Git Commit / PR | Memasuki pipeline otomasi CI | - |
+| **2. Architectural Fitness Function** | • **Uji 1:** Arah dependensi (*No Reverse Dependency*)<br>• **Uji 2:** Deteksi redefinisi istilah kanonik<br>• **Uji 3:** Larangan mutlak klausul kekerasan fisik / denda punitif<br>• **Uji 4:** Kelengkapan frontmatter & metadata traceability | Seluruh 4 parameter valid & terverifikasi | Terdapat pelanggaran aturan arsitektur |
+| **3. Keputusan Penggabungan** | Evaluasi gerbang otomatis (*Automated Gatekeeper*) | **MERGE APPROVED TO BRANCH**<br>Status kanonik terpelihara murni | **MERGE BLOCKED & REJECTED**<br>Laporan anomali diterbitkan seketika |
 
 ### 5.3. Aturan Dependensi Clean Architecture (The Dependency Rule)
 Robert C. Martin (2018) dalam *Clean Architecture: A Craftsman's Guide to Software Structure and Design* menetapkan aturan tertinggi dalam pemisahan lapisan sistem yang dikenal sebagai **The Dependency Rule**:
 
 > *"Aturan terpenting dalam Clean Architecture: Ketergantungan kode sumber (source code dependencies) hanya boleh menunjuk ke satu arah, yaitu ke dalam menuju kebijakan tingkat yang lebih tinggi (higher-level policies)."*
 
-```text
-       ┌────────────────────────────────────────────────┐
-       │             03_OPERATIONAL (Luar)             │
-       │   ┌────────────────────────────────────────┐   │
-       │   │       02_IMPLEMENTATION (Tengah)       │   │
-       │   │   ┌────────────────────────────────┐   │   │
-       │   │   │     01_FUNDAMENTAL (Inti)      │   │   │
-       │   │   │                                │   │   │
-       │   │   │   HANYA BOLEH MENUNJUK KE INTIS   │   │
-       │   │   └────────────────────────────────┘   │   │
-       │   └────────────────────────────────────────┘   │
-       └────────────────────────────────────────────────┘
-```
+| Lingkaran Arsitektur | Lapisan Repositori | Kedudukan Epistemik | Arah Ketergantungan (*Dependency Rule*) |
+| :--- | :--- | :--- | :--- |
+| **Cincin Inti (Core Kernel)** | `01_FUNDAMENTAL` | Konstitusi Fitrah, Worldview Tauhid, Taksonomi Adab | Pusat gravitasi independen: **Haram merujuk ke luar**. |
+| **Cincin Tengah (Intermediate)** | `02_IMPLEMENTATION` | Adaptor Kelembagaan, Standar J1–J4, SW-PBIS Multi-Tier | Menjadi jembatan translasi: **Hanya boleh merujuk ke inti `01`**. |
+| **Cincin Luar (Outer Perimeter)** | `03_OPERATIONAL` | SOP Lapangan, Lembar Observasi, Logbook Musyrif | Instrumen praktis harian: **Wajib merujuk ke dalam (`02` dan `01`)**. |
 
 Menerapkan *The Dependency Rule* pada repositori TUMBUH menghasilkan hukum ontologis mutlak:
 1. Lapisan dalam (`01_FUNDAMENTAL`) tidak boleh mengetahui sama sekali keberadaan lapisan luar (`03_OPERATIONAL`). Konstitusi filosofis tentang adab santri tidak boleh bergantung pada apakah asrama menggunakan formulir kertas atau aplikasi digital, dan tidak boleh menyebut nama software atau nomor formulir tertentu.
@@ -243,18 +215,12 @@ Dalam perancangan tata kelola repositori pesantren, kerap muncul resistensi kult
 ### 6.2. Rekonsiliasi Epistemik: Integrasi Husnuzhan Batiniah dengan Ihtiyath & Hisbah Lahiriah
 Repositori TUMBUH menolak dikotomi palsu di atas melalui sintesis dialektis (*Al-Jam'u wat-Taufiq*) yang berakar pada khazanah keilmuan Islam:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       SINTESIS DIALEKTIKA EPISTEMIK                         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ • Dimensi Personal Batiniah : Husnuzhan (prasangka baik atas niat ikhlas)   │
-│ • Dimensi Prosedural Sistem : Ihtiyath (kehati-hatian menjaga agama)        │
-│ • Lembaga Penegakan Publik  : Al-Hisbah (pengawasan kebenaran timbangan)   │
-│                                                                             │
-│ SKRIP LINTER CI BUKAN BENTUK SU'UZHAN, MELAINKAN MANIFESTASI LEMBAGA HISBAH │
-│ MODERN YANG MELINDUNGI SANTRI DARI KEZALIMAN STRUKTURAL KEKERASAN FISIK.    │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Dimensi Pertahanan | Nilai Luhur Syar'i | Manifestasi dalam Rekayasa Repositori |
+| :--- | :--- | :--- |
+| **Dimensi Personal Batiniah** | *Husnuzhan* | Berprasangka baik atas niat ikhlas setiap kontributor, ustadz, dan santri. |
+| **Dimensi Prosedural Sistem** | *Ihtiyath* | Menerapkan prinsip kehati-hatian ketat dalam menjaga kemurnian ajaran agama. |
+| **Lembaga Penegakan Publik** | *Al-Hisbah* | Pengawasan kebenaran timbangan dan pencegahan kezaliman struktural di asrama. |
+| **Sintesis Terpadu** | **Muhtasib Digital Modern** | Skrip linter CI bukan bentuk su'uzhan, melainkan manifestasi lembaga hisbah modern yang melindungi santri dari bahaya kezaliman struktural kekerasan fisik. |
 
 1. **Membedakan Wilayah Hati dan Wilayah Muamalah**:
    Dalam Islam, *husnuzhan* diwajibkan dalam memandang niat hati saudara seiman, namun dalam urusan hukum, penetapan hak, dan perlindungan anak asuh, syariat mewajibkan prinsip kehati-hatian (*ihtiyath*) dan pencatatan yang ketat. Allah Ta'ala berfirman dalam ayat terpanjang Al-Qur'an (QS. Al-Baqarah: 282):
@@ -297,20 +263,12 @@ Pihak yayasan awalnya membela diri dengan menyatakan bahwa yayasan menjunjung ti
 - Kementerian Agama mencabut izin operasional asrama Cabang B.
 - Konsultan penjamin mutu independen melakukan audit forensik menyeluruh terhadap 142 berkas tata kelola yayasan dan menemukan fakta mencengangkan: **78% berkas SOP asrama bertentangan secara frontal dengan Buku 1 Falsafah Pendidikan Adab**.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│         KRONOLOGI EROSI ARSITEKTURAL PADA YAYASAN PESANTREN "S"             │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 2020: Desain Ideal 3 Lapisan (Buku 1 Falsafah, Buku 2 Manual, Buku 3 SOP)    │
-│                           │                                                 │
-│ 2021: Erosi Mikro Lokal   → Musyrif Cabang C menyisipkan sanksi lari ember  │
-│                           │ (Tidak ada CI Linter yang memblokir kata kunci) │
-│ 2022: Kebocoran Terbalik  → Direktur baru menyalin sanksi ke Buku 2 Pusat   │
-│                           │ (Inverted Dependency meracuni regulasi induk)   │
-│ 2023: Insiden Kritis Fatal→ Santri cedera fisik, proses pidana, audit total │
-│                           │ membuktikan 78% SOP bertentangan dengan Falsafah│
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Tahun / Fase | Peristiwa Erosi Lapangan | Dampak Struktural & Pelajaran Berharga |
+| :---: | :--- | :--- |
+| **2020** | **Desain Ideal 3 Lapisan** | Buku 1 Falsafah, Buku 2 Manual Kelembagaan, Buku 3 SOP Harian disusun secara rapi di atas kertas. |
+| **2021** | **Erosi Mikro Lokal** | Musyrif Cabang C menyisipkan sanksi lari bawa ember karena tidak ada CI Linter yang memblokir kata kunci punitif. |
+| **2022** | **Kebocoran Terbalik** | Direktur baru menyalin sanksi cabang tersebut ke Buku 2 Pusat (*Inverted Dependency* meracuni regulasi induk). |
+| **2023** | **Insiden Kritis Fatal** | Santri mengalami cedera fisik serius hingga memicu proses pidana; audit menyeluruh membuktikan 78% SOP lapangan bertentangan total dengan Falsafah Buku 1. |
 
 ### 7.2. Analisis Kausalitas Rekayasa Sistem
 Tragedi Yayasan "S" di atas bukanlah kegagalan moral individu semata, melainkan **kegagalan arsitektur tata kelola dokumen (*architectural governance failure*)**:
@@ -382,26 +340,13 @@ Penerapan matriks respons deterministik ini menjamin bahwa setiap insiden arsite
 
 Untuk melindungi kedaulatan repositori secara berkelanjutan, sistem pertahanan TUMBUH v2.0.0 dioperasikan melalui **Arsitektur Pertahanan Berlapis Lima (*5-Tier Defense-in-Depth Architecture*)**:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│             LIMA LAPISAN PERTAHANAN TERPADU REPOSITORI TUMBUH v2.0.0         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ LAPIS 1: Pre-Commit Hook Lokal di Komputer Kontributor                      │
-│          (Local Hygiene: Regex pemindai cepat, deteksi kata kunci punitif)  │
-│                                  │                                          │
-│ LAPIS 2: Automated CI/CD Pipeline Boundary Linter (GitHub Actions)          │
-│          (Deterministic Gatekeeper: Graf dependensi antarlapisan, schema)   │
-│                                  │                                          │
-│ LAPIS 3: Peer-Review & Audit Mandatori Majelis Pakar (Human-in-the-Loop)    │
-│          (Semantic Nuance: Telaah keselarasan dalil syar'i & fitrah)        │
-│                                  │                                          │
-│ LAPIS 4: Audit Mutu Internal (AMI) Triwulanan Repositori                    │
-│          (Systemic Health: Deteksi utang desain, evaluasi kematangan AMI)   │
-│                                  │                                          │
-│ LAPIS 5: Pembekuan Rilis Kanonik & Git Cryptographic Tagging                │
-│          (Release Sealing: Kunci kriptografis GPG tanda tangan resmi konsil)│
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Strata Pertahanan | Nama Protokol Pertahanan | Mekanisme & Parameter Validasi |
+| :---: | :--- | :--- |
+| **Lapis 1** | **Pre-Commit Hook Lokal** | *Local Hygiene:* Regex pemindai cepat di komputer kontributor, deteksi kata kunci sanksi punitif dan denda sebelum komit terbentuk. |
+| **Lapis 2** | **Automated CI/CD Pipeline Boundary Linter** | *Deterministic Gatekeeper:* GitHub Actions memverifikasi graf dependensi antarlapisan, kepatuhan schema frontmatter, dan larangan impor terbalik. |
+| **Lapis 3** | **Peer-Review & Audit Mandatori Majelis Pakar** | *Semantic Nuance (Human-in-the-Loop):* Telaah kualitatif atas keselarasan dalil syar'i, takhrij turats, dan ketepatan pedagogis fitrah insan. |
+| **Lapis 4** | **Audit Mutu Internal (AMI) Triwulanan** | *Systemic Health:* Evaluasi berkala seluruh repositori, deteksi penumpukan utang desain, dan kalibrasi efektivitas instrumen lapangan. |
+| **Lapis 5** | **Pembekuan Rilis Kanonik & Git Cryptographic Tagging** | *Release Sealing:* Penguncian status rilis dengan kunci kriptografis GPG bertanda tangan resmi dewan konsil arsitektur sistem. |
 
 ### 9.1. Lapis 1: Pre-Commit Hook Lokal (Local Developer Hygiene)
 Pada stasiun kerja setiap peneliti dan kontributor, dipasang skrip git pre-commit hook otomatis yang berjalan secara lokal sebelum perintah komit diterima:
@@ -499,19 +444,14 @@ flowchart TD
 
 ## 10. Keputusan Rekayasa Sistem: Architectural Decision Record (ADR-PROBE-0021)
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                       ARCHITECTURAL DECISION RECORD                         │
-│                              ADR-PROBE-0021                                 │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ Judul      : Penetapan Protokol Pertahanan Lapisan Repositori Otomatis dan  │
-│              Penguncian Kanonik Pilar 2 Repositori Branch v2.0.0            │
-│ Status     : APPROVED & PERMANENTLY LOCKED                                  │
-│ Tanggal    : 2026-10-25                                                     │
-│ Lapisan    : PROBE / METAGOVERNANCE / REPOSITORY INTEGRITY MASTER DEFENSE   │
-│ Target     : Seluruh Lapisan Repositori (01 s/d 09, REFERENCES, METHODOLOGY) │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Parameter Metadata | Ketetapan Kanonik |
+| :--- | :--- |
+| **Identitas Keputusan** | Architectural Decision Record: ADR-PROBE-0021 |
+| **Judul** | Penetapan Protokol Pertahanan Lapisan Repositori Otomatis dan Penguncian Kanonik Pilar 2 Repositori Branch v2.0.0 |
+| **Status** | *Approved & Permanently Locked* |
+| **Tanggal Keputusan** | 2026-10-25 |
+| **Lapisan** | PROBE / Metagovernance / Repository Integrity Master Defense |
+| **Target** | Seluruh Lapisan Repositori (`01` s/d `09`, `REFERENCES`, `METHODOLOGY`) |
 
 ### 10.1. Konteks Masalah (Context)
 Penyelidikan mendalam pada Pilar 2 (Stratifikasi Lapisan Repositori & *Separation of Concerns*) dari `P00010` hingga `P00020` telah berhasil merumuskan demarkasi fungsi untuk setiap folder dalam repositori TUMBUH v2.0.0. Namun, pengalaman empiris pada kegagalan sistem v1 dan kasus kelembagaan pesantren membuktikan bahwa pemisahan lapisan yang hanya tertulis sebagai deklarasi teks di atas kertas niscaya akan mengalami pembusukan arsitektural (*design erosion*) akibat tekanan operasional harian. Diperlukan instrumen penegakan otomatis berbasis kode (*automated code-enforced boundary defense*) yang deterministik, objektif, dan bekerja tanpa lelah, serta diperlukan deklarasi kanonik resmi yang mengunci selesainya konsolidasi Pilar 2.
@@ -546,20 +486,12 @@ Diputuskan secara mutlak dan mengikat bagi seluruh pengembang, peneliti, dan adm
 ### 11.1. Pemetaan Implikasi Berlapis Repositori
 Hasil sintesis dan keputusan kanonik P00021 ini memberikan implikasi langsung ke berbagai lapisan repositori TUMBUH v2.0.0:
 
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                   DISTRIBUSI IMPLIKASI LAPISAN REPOSITORI                   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ 01_FUNDAMENTAL/    : Terisolasi murni sebagai konstitusi nilai tertinggi,   │
-│                      kebal dari polusi teknis operasional asrama harian.    │
-│ 02_IMPLEMENTATION/ : Menjadi jembatan translasi tunggal yang terikat ke 01, │
-│                      mengorkestrasi instrumen operasional tanpa lompatan.   │
-│ 03_OPERATIONAL/    : Menjadi perangkat praktis beradab, wajib memiliki sanad│
-│                      ke 01/02, bebas mutlak dari klausul kekerasan fisik.   │
-│ CI/CD INFRASTRUCTURE: Skrip linter dan workflow GitHub Actions dipasang     │
-│                      permanen sebagai muhtasib digital repositori.          │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Lapisan Repositori | Kebijakan Integritas & Proteksi Otomatis |
+| :--- | :--- |
+| **`01_FUNDAMENTAL/`** | Terisolasi murni sebagai konstitusi nilai tertinggi, kebal dari polusi teknis operasional asrama harian. |
+| **`02_IMPLEMENTATION/`** | Menjadi jembatan translasi tunggal yang terikat ke `01`, mengorkestrasi instrumen operasional tanpa lompatan. |
+| **`03_OPERATIONAL/`** | Menjadi perangkat praktis beradab, wajib memiliki sanad ke `01`/`02`, bebas mutlak dari klausul kekerasan fisik. |
+| **`CI/CD INFRASTRUCTURE`** | Skrip linter dan workflow GitHub Actions dipasang permanen sebagai muhtasib digital repositori. |
 
 1. **Pengaruh pada `01_FUNDAMENTAL/`**:
    - Seluruh naskah filosofis, prinsip, dan model inti terkunci dalam kemurnian konseptual. Tidak boleh ada satu pun dokumen fundamental yang memuat rujukan ke formulir teknis asrama.

@@ -12,7 +12,7 @@ Skill ini menetapkan otoritas keilmuan tingkat **Master Author / Begawan Literas
 
 ## 1. Piagam Estetika & Rigoritas Literasi Monograf
 
-Master Author mengawal penulisan monograf berdasarkan lima pilar karya agung (*Masterpiece Principles*):
+Master Author mengawal penulisan monograf berdasarkan enam pilar karya agung (*Masterpiece Principles*):
 
 1. **Retorika Dialektis Berjiwa Nubuwah (*Bayan & Balaghah Syar'iyyah*)**:
    Menolak bahasa akademis yang kaku, mekanistis, atau terjemahan harfiah bahasa asing yang canggung. Menuntut prosa bahasa Indonesia tingkat tinggi yang mengalir indah, berwibawa, kaya metafora bermakna, presisi secara peristilahan teknis, dan memancarkan wibawa ruhaniyah Islam (*Fashahah wal-Bayan*).
@@ -37,6 +37,8 @@ Master Author mengawal penulisan monograf berdasarkan lima pilar karya agung (*M
    Mengharamkan mutlak penulisan studi kasus atau contoh lapangan dalam bentuk skrip drama sandiwara (seperti dialog `Ustaz Ahmad: "..."`, `Santri: "..."`). Seluruh kasus nyata wajib disajikan dalam bentuk narasi deskriptif-analitis objektif yang membedah anteseden, dinamika setting, dan konsekuensi sistemik.
 5. **Aparatus Rujukan Bebas Paywall & Numbered Footnotes 1-to-1**:
    Memastikan setiap klaim dan kutipan di dalam tubuh teks memiliki nomor catatan kaki `[^1]`, `[^2]`, dst. yang terhubung langsung dengan catatan kaki di bawah, serta **bebas mutlak dari tautan `doi.org` berbayar**.
+6. **Mandat Tabel Markdown & Larangan Karakter `_` atau `|` Pembuat Kotak**:
+   Mengharamkan mutlak penggambaran kotak semu atau border manual menggunakan garis bawah `_`, garis tegak `|`, atau karakter kotak ASCII (`┌`, `─`, `│`, `└`). Seluruh informasi terkotak, ikhtisar, ringkasan eksekutif, atau daftar patologi WAJIB disajikan dalam bentuk **Tabel Markdown resmi** (`| Kolom 1 | Kolom 2 |` dengan baris pembatas `|---|---|`).
 
 ---
 
@@ -90,4 +92,5 @@ Setiap monograf yang diaudit oleh Master Author wajib memenuhi checklist:
 - [ ] **Panjang Fisik Substantif**: Naskah terverifikasi memiliki panjang $\ge 400$ baris fisik tulisan murni (bukan karena spasi kosong ganda).
 - [ ] **Struktur 13 Bagian Lengkap**: Tidak ada satu pun bab yang terlewat dari Metadata hingga Emergent Chain.
 - [ ] **Bebas Kode Skrip Pemrograman**: Tidak ada blok kode ```python mentah di dalam naskah monograf inkuiri.
+- [ ] **Bebas Kotak Manual `_` atau `|`**: Seluruh tulisan, ringkasan, atau ikhtisar terkotak disajikan memakai tabel Markdown resmi; bebas total dari pembuatan kotak manual menggunakan karakter `_`, `|`, atau karakter gambar kotak ASCII.
 - [ ] **Sitasi Bersih & Footnotes 1-to-1**: Seluruh referensi menggunakan penomoran `[^1]` s/d `[^n]` terhubung presisi, bebas URL `doi.org` berbayar, dan memenuhi standar APA 7th Edition bersih.

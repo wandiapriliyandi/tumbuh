@@ -44,46 +44,10 @@ Selama beberapa dekade terakhir, digitalisasi administrasi di lingkungan pesantr
 
 Fenomenologi lapangan menunjukkan bahwa repositori datar ini memicu bencana tata kelola yang sistemik, terangkum dalam diagram fenomenologi berikut:
 
-```text
-DILEMA ARSITEKTUR REPOSITORI PENGETAHUAN PESANTREN:
-FLAT-FILES CHAOS VERSUS STRATIFIKASI BERLAPIS BERBASIS ADAB
-
-               ┌─────────────────────────────────────────────────────────┐
-               │         REPOSITORI BERKAS DATAR (FLAT-FILES CHAOS)      │
-               │  Seluruh naskah ditumpuk dalam satu folder tanpa batas: │
-               │  [Visi Misi] [Fiqih Adab] [SOP Ronda] [Denda Santri]    │
-               └────────────────────────────┬────────────────────────────┘
-                                            │
-               ┌────────────────────────────┴────────────────────────────┐
-               ▼                                                         ▼
-    SINDROM KONTAMINASI SILANG                               ENTROPI ARSITEKTUR TOTAL
- ┌───────────────────────────────────────┐             ┌───────────────────────────────────────┐
- │ • Musyrif mengubah SOP piket, lalu    │             │ • Dokumen filosofis terkunci kaku;    │
- │   diam-diam menghapus bab ikhlas.     │             │   tidak bisa disesuaikan di lapangan. │
- │ • Sanksi denda uang merangsek masuk   │             │ • Kurikulum adab terbengkalai karena  │
- │   ke dalam berkas pedoman ta'dib.     │             │   tertimbun draf izin keluar pondok.  │
- └───────────────────┬───────────────────┘             └───────────────────┬───────────────────┘
-                     │                                                     │
-                     └─────────────────────────┬───────────────────────────┘
-                                               ▼
-                              KORUPSI MAKNA & KEKERASAN STRUKTURAL:
-                     Pesantren kehilangan arah peradaban; ta'dib berubah
-                     menjadi pembalasan dendam administratif yang zalim.
-                                               │
-                                               ▼
-               ┌─────────────────────────────────────────────────────────┐
-               │           RESOLUSI ARSITEKTUR REPOSITORI TUMBUH v2.0.0  │
-               │       "Doktrin Separation of Epistemic Concerns (SoEC)" │
-               │                                                         │
-               │   [01_FUNDAMENTAL]  ==> Nilai Abadi & Maqashid Tauhid   │
-               │         ▲                                               │
-               │         │ (Aliran Dependensi Satu Arah / Pure Imports)  │
-               │   [02_IMPLEMENTATION] ==> Regulasi Lembaga & Framework │
-               │         ▲                                               │
-               │         │ (Adaptasi Lincah Tanpa Arus Balik Mutasi)     │
-               │   [03_OPERATIONAL]   ==> SOP Lapangan & Form Musyrif    │
-               └─────────────────────────────────────────────────────────┘
-```
+| Dimensi Arsitektur | Repositori Berkas Datar (*Flat-Files Chaos*) | Stratifikasi Berlapis Berbasis Adab (*TUMBUH v2.0.0*) |
+| :--- | :--- | :--- |
+| **Karakteristik Penyimpanan** | Seluruh naskah ditumpuk dalam satu folder tanpa batas: Visi Misi, Fiqih Adab, SOP Ronda, dan Denda Santri bercampur aduk. | **Doktrin Separation of Epistemic Concerns (SoEC)**:<br>• `01_FUNDAMENTAL`: Nilai Abadi & Maqashid Tauhid<br>• `02_IMPLEMENTATION`: Regulasi Lembaga & Framework<br>• `03_OPERATIONAL`: SOP Lapangan & Form Musyrif |
+| **Dampak Patologis / Manfaat** | • **Sindrom Kontaminasi Silang**: Musyrif mengubah SOP piket lalu menghapus bab ikhlas; denda uang merangsek ke pedoman ta'dib.<br>• **Entropi Arsitektur Total**: Dokumen filosofis terkunci kaku; kurikulum adab tertimbun draf izin keluar pondok. | **Aliran Dependensi Satu Arah (*Inward-Only*)**:<br>Lapisan operasional lincah beradaptasi tanpa arus balik mutasi yang merusak kesucian prinsip fundamental. |
 
 Fenomena di atas memperlihatkan bahwa kerusakan dokumentasi di pesantren bukan sekadar kekacauan tata letak folder, melainkan telah menjadi pemicu utama lahirnya kekerasan struktural (*structural violence*). Ketika teks operasional yang disusun oleh musyrif yang sedang kelelahan di kamar asrama memiliki derajat otoritas yang sejajar dengan teks firman Allah ﷻ dan sabda Rasulullah ﷺ tentang kasih sayang (*rahmah*), maka secara psikologis dan legal musyrif tersebut merasa dibenarkan untuk menimpakan hukuman fisik kepada santri dengan dalih "menegakkan aturan resmi pondok".
 
@@ -162,31 +126,11 @@ Arsitektur repositori TUMBUH v2.0.0 mengadopsi secara ketat paradigma *Clean Arc
 
 Jika prinsip lingkaran konsentris Martin dipetakan ke dalam repositori pengetahuan pesantren, maka relasi antara lapisan terbentuk sebagai berikut:
 
-```text
-DIAGRAM KONSENTRIS CLEAN REPOSITORY ARCHITECTURE TUMBUH v2.0.0
-
-                         ┌──────────────────────────────────────────────┐
-                         │              03_OPERATIONAL                  │
-                         │   (SOP, Logbook, Checklist, Forms, Jadwal)   │
-                         │       ┌──────────────────────────────┐       │
-                         │       │      02_IMPLEMENTATION       │       │
-                         │       │   (Regulasi, PBIS Tiers,     │       │
-                         │       │    Taxonomy, SOP Framework)  │       │
-                         │       │       ┌──────────────┐       │       │
-                         │       │       │01_FUNDAMENTAL│       │       │
-                         │       │       │ (Philosophy, │       │       │
-                         │       │       │  Tauhid,     │       │       │
-                         │       │       │  Maqashid)   │       │       │
-                         │       │       └──────────────┘       │       │
-                         │       │              ▲               │       │
-                         │       │              │               │       │
-                         │       └──────────────┴───────────────┘       │
-                         │                      ▲                       │
-                         │                      │                       │
-                         └──────────────────────┴───────────────────────┘
-                                   ARAH DEPENDENSI MUTLAK:
-                                 HANYA MENGARAH KE DALAM!
-```
+| Lapisan Repositori | Cakupan Berkas & Fungsi Epistemik | Aturan Aliran Dependensi (*The Dependency Rule*) |
+| :--- | :--- | :--- |
+| **`03_OPERATIONAL/`**<br>*(Lingkaran Terluar)* | SOP, Logbook musyrif, Checklist kamar, Formulir mediasi, Jadwal harian 24 jam. | Bebas mengimpor dan merujuk regulasi di `02_` dan filosofi di `01_`. |
+| **`02_IMPLEMENTATION/`**<br>*(Lingkaran Tengah)* | Regulasi kelembagaan, PBIS Tiers 1-3, Taksonomi capaian adab J1-J4, SOP Framework. | Mengimpor prinsip dari `01_FUNDAMENTAL`, dilarang bergantung pada berkas spesifik `03_`. |
+| **`01_FUNDAMENTAL/`**<br>*(Lingkaran Terdalam / Inti)* | Filosofi, Ontologi Tauhid, Antropologi Fitrah, Maqashid Syari'ah pembinaan santri. | **Inti Mutlak Mandiri**: Dilarang keras mengetahui atau merujuk detail teknis di `02_` maupun `03_`. |
 
 Hukum Dependensi Repositori TUMBUH menetapkan:
 - Berkas di dalam `01_FUNDAMENTAL` (lingkaran terdalam / inti) **sama sekali tidak boleh mengetahui atau menyebutkan nama berkas, nomor formulir, atau detail teknis** yang ada di `02_IMPLEMENTATION` maupun `03_OPERATIONAL`.
@@ -333,32 +277,11 @@ Untuk memastikan doktrin *Separation of Epistemic Concerns* bukan sekadar konsep
 ### 9.1. Alur Verifikasi Integritas Batas Lapisan Repositori (Architecture Pipeline)
 Setiap kali ada penambahan, pembaruan, atau penghapusan berkas di dalam repositori TUMBUH, sistem verifikasi otomatis (*Boundary Linter Script*) akan memindai seluruh pohon direktori dengan diagram alur kerja berikut:
 
-```text
-ALUR KERJA BOUNDARY VERIFICATION LINTER TUMBUH v2.0.0
-
-   PENGEMBANG / MUSYRIF MELAKUKAN PERUBAHAN DOKUMEN
-                        │
-                        ▼
-            GIT PRE-COMMIT HOOK DIJALANKAN
-                        │
-                        ▼
-   APAKAH ADA REFERENSI DARI LAPISAN DALAM KE LAPISAN LUAR?
-   (Misal: Berkas 01_FUNDAMENTAL mengimpor file di 03_OPERATIONAL)
-                        │
-        ┌───────────────┴───────────────┐
-       YA                               TIDAK
-        │                                 │
-        ▼                                 ▼
-   STATUS: GAGAL (ABORT)          APAKAH DOKUMEN 03_OPERATIONAL MEMBUAT
-  [Boundary Violation Detected]   DEFINISI KONSEPTUAL BARU TANPA SANAD?
-  "Lapisan Fundamental dilarang          │
-   bergantung pada lapisan luar!"  ┌──────┴──────┐
-                                  YA            TIDAK
-                                   │              │
-                                   ▼              ▼
-                              STATUS: TOLAK  STATUS: LOLOS VALIDASI
-                             [Semantic Leak] [Commit Approved]
-```
+| Langkah Verifikasi | Kondisi Evaluasi Linter | Status Tindakan Git Hook |
+| :---: | :--- | :---: |
+| **1** | Pengembang / musyrif melakukan perubahan dokumen dan menjalankan pre-commit hook. | **INSPECTING** |
+| **2** | Apakah ada referensi dari lapisan dalam ke lapisan luar? *(Contoh: berkas `01_` mengimpor `03_`)* | Jika **YA**: **GAGAL / ABORT** (*Boundary Violation*)<br>Jika **TIDAK**: Lanjut ke Langkah 3 |
+| **3** | Apakah dokumen `03_OPERATIONAL` membuat definisi konseptual baru tanpa sanad ke `01_`? | Jika **YA**: **TOLAK / REJECT** (*Semantic Leak*)<br>Jika **TIDAK**: **LOLOS VALIDASI / COMMIT APPROVED** |
 
 ### 9.2. Spesifikasi Rekayasa Sistem: Logika Algoritmik & Matriks Penegakan Batas Lapisan
 Sebagai sebuah monograf desain sistem, penegakan integritas repositori tidak disajikan dalam bentuk kode program mentah di dalam naskah ilmiah, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Algoritmik (Formal Algorithmic Logic Specification)** yang menjadi acuan fungsi kebugaran otomatis (*Architectural Fitness Function*) repositori:
@@ -395,53 +318,19 @@ Pelanggaran terhadap predikat ini secara otomatis memicu status kegagalan integr
 
 Untuk menetapkan keabsahan doktrin arsitektural ini secara permanen, disusunlah *Architectural Decision Record* (ADR) kanonik sebagai berikut:
 
-```text
-===============================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0010
-Judul: Pembakuan Doktrin Separation of Epistemic Concerns dan Stratifikasi Tiga Lapisan Repositori
-Status: DITERIMA, MENGIKAT, DAN KANONIK (ACCEPTED & CANONICAL)
-Tanggal Keputusan: 2026-10-25
-Penanggung Jawab: Dewan Arsitektur Sistem TUMBUH v2.0.0
-Wilayah Terdampak: Seluruh Pohon Direktori Repositori TUMBUH (01, 02, 03, PROBE)
-===============================================================================
-
-1. KONTEKS PERMASALAHAN:
-   Praktik pengelolaan dokumen kelembagaan pesantren berbasis repositori folder datar (flat-files)
-   telah terbukti secara empiris memicu pembusukan semantik (semantic rotting), pencemaran
-   nilai luhur syariat oleh teknis operasional harian, kelumpuhan evolusi dokumen praktis,
-   dan lahirnya kekerasan struktural di asrama santri. Diperlukan partisi direktori yang
-   kedap dan hierarki dependensi yang terdefinisi secara ilmiah dan syar'i.
-
-2. KEPUTUSAN ARSITEKTURAL (THE ARCHITECTURAL DECISION):
-   Ditetapkan bahwa repositori TUMBUH v2.0.0 secara mutlak distratifikasi ke dalam tiga lapisan:
-   a. Lapisan 01_FUNDAMENTAL: Wadah eksklusif bagi nilai tauhid, filosofi fitrah, dan maqashid
-      syariah pembinaan adab. Bersifat stabil, mandiri, dan bebas dependensi luar.
-   b. Lapisan 02_IMPLEMENTATION: Wadah bagi penerjemahan nilai ke dalam regulasi kelembagaan,
-      kerangka kerja intervensi berjenjang (PBIS Tier 1-3), dan taksonomi capaian belajar.
-   c. Lapisan 03_OPERATIONAL: Wadah bagi instrumen kerja dinamis, SOP musyrif, lembar checklist,
-      jadwal kamar, dan logbook harian 24 jam.
-   Diberlakukan The Dependency Rule: aliran dependensi hanya boleh mengarah ke dalam (Inward-Only).
-   Lapisan operasional tidak memiliki hak untuk mendefinisikan prinsip dasar sistem.
-
-3. JUSTIFIKASI TEOLOGIS DAN METODOLOGIS:
-   - Selaras dengan klasifikasi Ushul, Furu', Muqaddimat, dan Mutammimat Imam Al-Ghazali.
-   - Menegakkan doktrin perlindungan Kulliyyat Maqashid dari distorsi Juz'iyyat Imam Asy-Syathibi.
-   - Mengikuti distingsi otoritas Fatwa, Qadha', dan Siyasah Imam Al-Qarafi.
-   - Menerapkan prinsip Separation of Concerns Edsger Dijkstra dan Clean Architecture Robert Martin.
-
-4. KONSEKUENSI POSITIF:
-   - Integritas filosofis sistem terlindungi 100% dari kompromi teknis lapangan.
-   - Musyrif memiliki kelincahan penuh dalam merevisi instrumen kerja harian tanpa birokrasi kaku.
-   - Batas kewenangan kepengarangan dan tata kelola pesantren menjadi sangat jernih dan terukur.
-   - Ekosistem repositori siap diaudit secara otomatis melalui boundary verification linter.
-
-5. KONSEKUENSI NEGATIF DAN MITIGASI:
-   - Diperlukan disiplin tinggi bagi seluruh kontributor dalam menempatkan berkas baru.
-     Mitigasi: Dijalankan boundary linter otomatis pada setiap pre-commit Git.
-   - Musyrif baru memerlukan pelatihan orientasi pemahaman struktur repositori.
-     Mitigasi: Disediakan panduan low-friction UX dan bagan navigasi visual di buku saku musyrif.
-===============================================================================
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0010 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0010` |
+| **Judul Keputusan** | Pembakuan Doktrin Separation of Epistemic Concerns dan Stratifikasi Tiga Lapisan Repositori |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Keputusan** | 25 Oktober 2026 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 |
+| **Wilayah Terdampak** | Seluruh Pohon Direktori Repositori TUMBUH (`01_`, `02_`, `03_`, `PROBE`) |
+| **1. Konteks Permasalahan** | Praktik pengelolaan dokumen kelembagaan pesantren berbasis repositori folder datar (*flat-files*) telah terbukti secara empiris memicu pembusukan semantik (*semantic rotting*), pencemaran nilai luhur syariat oleh teknis operasional harian, kelumpuhan evolusi dokumen praktis, dan lahirnya kekerasan struktural di asrama santri. Diperlukan partisi direktori yang kedap dan hierarki dependensi yang terdefinisi secara ilmiah dan syar'i. |
+| **2. Keputusan Arsitektural** | Repositori TUMBUH v2.0.0 secara mutlak distratifikasi ke dalam tiga lapisan kanonik:<br>a. `01_FUNDAMENTAL`: Wadah eksklusif bagi nilai tauhid, filosofi fitrah, dan maqashid syariah pembinaan adab. Bersifat stabil, mandiri, dan bebas dependensi luar.<br>b. `02_IMPLEMENTATION`: Wadah bagi penerjemahan nilai ke dalam regulasi kelembagaan, kerangka kerja intervensi berjenjang (PBIS Tier 1-3), dan taksonomi capaian belajar santri.<br>c. `03_OPERATIONAL`: Wadah bagi instrumen kerja dinamis, SOP musyrif, lembar checklist, jadwal kamar, dan logbook harian 24 jam.<br>Diberlakukan *The Dependency Rule*: aliran dependensi hanya boleh mengarah ke dalam (*Inward-Only*). Lapisan operasional dilarang mendefinisikan doktrin dasar sistem. |
+| **3. Justifikasi Teologis & Ilmiah** | • Selaras dengan klasifikasi Ushul, Furu', Muqaddimat, dan Mutammimat Imam Al-Ghazali.<br>• Menegakkan doktrin perlindungan Kulliyyat Maqashid dari distorsi Juz'iyyat Imam Asy-Syathibi.<br>• Mengikuti distingsi otoritas Fatwa, Qadha', dan Siyasah Imam Al-Qarafi.<br>• Menerapkan prinsip Separation of Concerns Edsger Dijkstra dan Clean Architecture Robert C. Martin. |
+| **4. Konsekuensi Positif** | • Integritas filosofis sistem terlindungi 100% dari kompromi teknis lapangan.<br>• Musyrif memiliki kelincahan penuh dalam merevisi instrumen kerja harian tanpa birokrasi kaku.<br>• Batas kewenangan kepengarangan dan tata kelola pesantren menjadi sangat jernih dan terukur.<br>• Ekosistem repositori siap diaudit secara otomatis melalui boundary verification linter. |
+| **5. Konsekuensi Negatif & Mitigasi** | • Diperlukan kedisiplinan tinggi dalam menempatkan berkas baru (*Mitigasi: Dijalankan boundary linter otomatis pada setiap pre-commit Git*).<br>• Musyrif baru memerlukan orientasi pemahaman struktur repositori (*Mitigasi: Disediakan buku saku navigasi visual rendah beban kognitif*). |
 
 ---
 

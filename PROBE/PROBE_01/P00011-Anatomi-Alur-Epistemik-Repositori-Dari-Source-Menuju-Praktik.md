@@ -44,36 +44,10 @@ Dalam tata kelola kepengasuhan asrama 24 jam di pesantren, situasi lapangan seri
 
 Fenomenologi lapangan ini diilustrasikan secara kontras dalam bagan perbandingan arsitektural berikut:
 
-```text
-DILEMA ALUR TRANSFORMASI KEBIJAKAN DI PESANTREN LAPANGAN:
-LOMPATAN REAKTIF LIAR VERSUS ALUR KANONIK TUMBUH v2.0.0
-
-   KUTUB LOMPATAN REAKTIF LIAR                         KUTUB ALUR KANONIK BERLANTAI (TUMBUH V2)
- ┌────────────────────────────────────────┐          ┌────────────────────────────────────────┐
- │ 1. BAHAN MENTAH / ISU LIAR (SOURCE)    │          │ 1. SOURCE (Bahan Mentah Terverifikasi) │
- │    - Desas-desus santri merokok        │          │    ↓                                   │
- │    - Postingan medsos provokatif       │          │ 2. PROBE (Penyelidikan Kritis Masalah) │
- └───────────────────┬────────────────────┘          │    ↓                                   │
-                     │                               │ 3. EVIDENCE (Pengujian Bukti Empiris)  │
-                     │ LOMPATAN BUTA LANGSUNG        │    ↓                                   │
-                     │ TANPA UJI & VERIFIKASI        │ 4. CLAIM/DECISION (Ketetapan Musyawarah│
-                     ▼                               │    ↓                                   │
- ┌────────────────────────────────────────┐          │ 5. 01_FUNDAMENTAL (Prinsip Adab Luhur) │
- │ 2. TINDAKAN PENGHUKUMAN DI KAMAR       │          │    ↓                                   │
- │    - Santri digunduli dan dipukul      │          │ 6. 02_IMPLEMENTATION (Kebijakan Lembaga│
- │    - Denda uang puluhan ribu rupiah    │          │    ↓                                   │
- │    - Pengusiran sepihak tanpa sidang   │          │ 7. 03_OPERATIONAL (SOP Terstandarisasi)│
- └───────────────────┬────────────────────┘          │    ↓                                   │
-                     │                               │ 8. PRAKTIK (Tindakan Terpuji Lapangan) │
-                     ▼ DAMPAK SISTEMIK               └────────────────────────────────────────┘
- ┌────────────────────────────────────────┐                               │
- │ • Trauma psikologis & dendam santri.   │                               ▼ DAMPAK KANONIK
- │ • Fitnah kelembagaan & gugatan hukum.  │          ┌────────────────────────────────────────┐
- │ • Hilangnya wibawa tarbiyah Islam.     │          │ • Keadilan substantif terjaga mutlak.  │
- └────────────────────────────────────────┘          │ • Tindakan musyrif terukur & beradab.  │
-                                                     │ • Perlindungan total hak-hak santri.   │
-                                                     └────────────────────────────────────────┘
-```
+| Dimensi Alur | Kutub Lompatan Reaktif Liar | Kutub Alur Kanonik Berlapis (TUMBUH v2.0.0) |
+| :--- | :--- | :--- |
+| **Tahapan Alur** | 1. **Bahan Mentah / Isu Liar (*Source*)**: Desas-desus, kabar burung medsos.<br>*(Lompatan buta langsung tanpa inkuiri & pembuktian)*<br>2. **Tindakan Penghukuman di Kamar (*Praktik Liar*)**: Santri digunduli, dipukul, denda liar, pengusiran sepihak. | **Rantai Nilai Epistemik 8 Tahap**:<br>1. `SOURCE` (Bahan mentah terverifikasi)<br>2. `PROBE` (Penyelidikan kritis masalah)<br>3. `EVIDENCE` (Pengujian bukti empiris)<br>4. `DECISION` (Ketetapan musyawarah / ADR)<br>5. `01_FUNDAMENTAL` (Prinsip adab luhur)<br>6. `02_IMPLEMENTATION` (Kebijakan lembaga)<br>7. `03_OPERATIONAL` (SOP terstandarisasi)<br>8. `PRAKTIK` (Tindakan terpuji lapangan 24 jam) |
+| **Dampak Sistemik** | • Trauma psikologis mendalam & dendam santri.<br>• Fitnah kelembagaan & risiko gugatan pidana.<br>• Runtuhnya wibawa tarbiyah Islam. | • Keadilan substantif terjaga mutlak.<br>• Tindakan musyrif terukur, aman, dan beradab.<br>• Perlindungan total hak-hak kemanusiaan santri. |
 
 Kerusakan yang ditimbulkan oleh lompatan reaktif ini sangat masif. Sebuah desas-desus mentah bahwa seorang santri mencuri barang temannya (yang statusnya baru sebatas *Source* yang belum diverifikasi) sering kali langsung ditindaklanjuti dengan penggeledahan kasar, interogasi intimidatif di tengah malam, dan pemukulan fisik di kamar asrama (*Praktik Liar*). Padahal, setelah diselidiki belakangan, barang yang hilang tersebut ternyata hanya terselip di lemari santri lain. Ketiadaan tahapan *Probe*, *Evidence*, dan *Decision* telah mengubah musyrif dari seorang pendidik beradab (*murabbi*) menjadi algojo liar yang melanggar hukum syariat dan hukum positif negara.
 
@@ -141,22 +115,13 @@ Dalam ranah ilmu informasi dan teori sistem modern, alur transformasi epistemik 
 
 Pemetaan hierarki Ackoff ke dalam Repositori TUMBUH v2.0.0 memperlihatkan keselarasan yang menakjubkan:
 
-```text
-INTEGRASI HIERARKI DIKW RUSSELL ACKOFF DENGAN ALUR REPOSITORI TUMBUH
-
-    HIERARKI DIKW (ACKOFF)                 ALUR KANONIK REPOSITORI TUMBUH
- ┌───────────────────────────┐           ┌────────────────────────────────────────┐
- │ WISDOM (Kebijaksanaan)    │ <=======> │ 01_FUNDAMENTAL (Tauhid, Maqashid, Adab)│
- ├───────────────────────────┤           ├────────────────────────────────────────┤
- │ UNDERSTANDING (Pemahaman) │ <=======> │ DECISION & CLAIM (ADR & Konsensus Kiai)│
- ├───────────────────────────┤           ├────────────────────────────────────────┤
- │ KNOWLEDGE (Pengetahuan)   │ <=======> │ 02_IMPLEMENTATION (PBIS Tiers & Desain)│
- ├───────────────────────────┤           ├────────────────────────────────────────┤
- │ INFORMATION (Informasi)   │ <=======> │ PROBE & EVIDENCE (Inkuiri & Uji Bukti) │
- ├───────────────────────────┤           ├────────────────────────────────────────┤
- │ DATA (Data Mentah)        │ <=======> │ SOURCE (Bahan Catatan Lapangan Kasar)  │
- └───────────────────────────┘           └────────────────────────────────────────┘
-```
+| Hierarki DIKW *(Russell Ackoff)* | Alur Kanonik Repositori TUMBUH | Karakteristik Epistemik di Pesantren |
+| :--- | :--- | :--- |
+| **Wisdom (*Kebijaksanaan*)** | `01_FUNDAMENTAL` | Nilai tauhid, filosofi fitrah, dan maqashid syari'ah pembinaan adab. |
+| **Understanding (*Pemahaman*)** | `DECISION & CLAIM` | Ketetapan musyawarah masyaikh dan konsensus ADR yang mengikat. |
+| **Knowledge (*Pengetahuan*)** | `02_IMPLEMENTATION` | Kerangka kurikulum, regulasi lembaga, dan sistem PBIS Multi-Tier. |
+| **Information (*Informasi*)** | `PROBE & EVIDENCE` | Laboratorium inkuiri kritis, validasi data, dan takhrij dalil empiris. |
+| **Data (*Data Mentah*)** | `SOURCE` | Bahan mentah catatan lapangan kasar, keluhan, dan telaah awal. |
 
 Patahnya alur epistemik di pesantren terjadi manakala praktisi mencoba memproduksi *Wisdom* atau mengambil tindakan langsung dari level *Data* tanpa melewati tangga *Information*, *Knowledge*, dan *Understanding*. Lonjakan ini adalah pelanggaran hukum alam pemrosesan kognitif manusia.
 
@@ -330,7 +295,7 @@ Untuk menerapkan alur epistemik ini ke dalam alur kerja harian pengembang reposi
 ```text
 DIAGRAM PIPA TRANSMISI PENGETAHUAN DELAPAN TAHAP REPOSITORI TUMBUH
 
- [SOURCE] ──▶ [PROBE] ──▶ [EVIDENCE] ──▶ [DECISION] ──▶ [01_FUND] ──▶ [02_IMPL] ──▶ [03_OPER] ──▶ [PRAKTIK]
+ [SOURCE]  →  [PROBE]  →  [EVIDENCE]  →  [DECISION]  →  [01_FUND]  →  [02_IMPL]  →  [03_OPER]  →  [PRAKTIK]
    (Bahan)     (Inkuiri)    (Uji Bukti)   (Musyawarah)    (Konstitusi)  (Kebijakan)   (Instrumen)  (Tindakan)
 ```
 
@@ -359,54 +324,26 @@ DIAGRAM PIPA TRANSMISI PENGETAHUAN DELAPAN TAHAP REPOSITORI TUMBUH
 
 Untuk menetapkan kewajiban alur epistemik delapan tahap ini secara hukum sistem yang mengikat, diterbitkan *Architectural Decision Record* kanonik:
 
-```text
-===============================================================================
-ARCHITECTURAL DECISION RECORD: ADR-PROBE-0011
-Judul: Pembakuan Rantai Alur Epistemik Delapan Tahap (Source to Practice Pipeline)
-Status: DITERIMA, MENGIKAT, DAN KANONIK (ACCEPTED & CANONICAL)
-Tanggal Keputusan: 2026-10-25
-Penanggung Jawab: Dewan Arsitektur Sistem TUMBUH v2.0.0
-Wilayah Terdampak: Seluruh Alur Kerja Pembuatan Dokumen dan Penegakan Adab Lapangan
-===============================================================================
-
-1. KONTEKS PERMASALAHAN:
-   Praktik penegakan disiplin santri di lingkungan pesantren kerap mengalami patah alur
-   epistemik (epistemic pipeline fracture), di mana desas-desus mentah langsung diubah
-   menjadi hukuman fisik di kamar asrama tanpa melalui investigasi bukti dan tanpa dasar SOP.
-   Ketiadaan rantai alur ini melahirkan fatwa kepengasuhan liar, merusak adab santri,
-   memutus silsilah kebijakan, dan menempatkan lembaga pada risiko gugatan pidana kekerasan anak.
-
-2. KEPUTUSAN ARSITEKTURAL (THE ARCHITECTURAL DECISION):
-   Ditetapkan bahwa seluruh transformasi pengetahuan dalam repositori TUMBUH v2.0.0 wajib
-   melewati Delapan Tahap Rantai Nilai Epistemik secara berurutan dan tidak boleh diputus:
-   SOURCE -> PROBE -> EVIDENCE -> DECISION -> 01_FUNDAMENTAL -> 02_IMPLEMENTATION -> 
-   03_OPERATIONAL -> PRAKTIK.
-   Dilarang keras melakukan lompatan langsung dari SOURCE ke PRAKTIK atau dari PROBE ke OPERATIONAL.
-   Setiap dokumen di 03_OPERATIONAL wajib memiliki tautan keterlacakan (traceability link)
-   yang sah ke 02_IMPLEMENTATION dan 01_FUNDAMENTAL.
-
-3. JUSTIFIKASI TEOLOGIS DAN METODOLOGIS:
-   - Menegakkan kaidah ushuliyah: Al-hukmu 'ala syai'in far'un 'an tashawwurihi (As-Suyuthi fi Al-Asybah).
-   - Mengikuti tradisi kritik sanad dan verifikasi riwayat Al-Khatib Al-Baghdadi & Al-Qadhi 'Iyadh.
-   - Mengintegrasikan metode i'tibar, syawahid, dan mutaba'at Al-Hafizh Ibnu Hajar Al-Asqalani.
-   - Mencegah bahaya ancaman hadits hakim zalim yang menghukumi manusia tanpa ilmu (HR. Abu Dawud).
-   - Menerapkan Hierarki Informasi DIKW Russell Ackoff dan Teori Traceability Link Recovery.
-   - Menghilangkan limbah kognitif dan risiko kezaliman melalui Value Stream Mapping Womack & Jones.
-
-4. KONSEKUENSI POSITIF:
-   - Tereliminasinya secara mutlak tindakan kekerasan dan fatwa penghukuman liar di asrama.
-   - Setiap musyrif memiliki kepastian hukum dan ketenangan batin dalam bertindak di kamar.
-   - Silsilah kebijakan pesantren terdokumentasi rapi dan kebal terhadap amnesia pergantian pimpinan.
-   - Pesantren memiliki pertahanan hukum yang kokoh saat diaudit oleh pihak luar.
-
-5. KONSEKUENSI NEGATIF DAN MITIGASI:
-   - Proses pembuatan aturan baru memerlukan waktu lebih lama karena harus melewati inkuiri.
-     Mitigasi: Diterapkan arsitektur dua kecepatan (Dual-Speed); tindakan darurat de-eskalasi
-     menggunakan SOP yang ada, sementara pembentukan aturan baru diproses secara cermat.
-   - Musyrif pemula memerlukan pembiasaan dalam mencatat data pengasuhan.
-     Mitigasi: Disediakan instrumen pencatatan digital mobile berantarmuka rendah beban (low-friction).
-===============================================================================
-```
+| Elemen ADR | Metadata & Ketetapan Arsitektur TUMBUH-V2-0011 |
+| :--- | :--- |
+| **Nomor Keputusan** | `ADR-PROBE-0011` |
+| **Judul Keputusan** | Pembakuan Rantai Alur Epistemik Delapan Tahap (*Source to Practice Pipeline*) |
+| **Status Dokumen** | **KANONIK / APPROVED & PERMANENTLY LOCKED** |
+| **Tanggal Keputusan** | 25 Oktober 2026 |
+| **Penanggung Jawab** | Dewan Arsitektur Sistem TUMBUH v2.0.0 |
+| **Wilayah Terdampak** | Seluruh Alur Kerja Pembuatan Dokumen dan Penegakan Adab Lapangan |
+| **1. Konteks Permasalahan** | Praktik penegakan disiplin santri di lingkungan pesantren kerap mengalami patah alur epistemik (*epistemic pipeline fracture*), di mana desas-desus mentah langsung diubah menjadi hukuman fisik di kamar asrama tanpa melalui investigasi bukti dan tanpa dasar SOP. Ketiadaan rantai alur ini melahirkan fatwa kepengasuhan liar, merusak adab santri, memutus silsilah kebijakan, dan menempatkan lembaga pada risiko gugatan pidana kekerasan anak. |
+| **2. Keputusan Arsitektural** | Ditetapkan bahwa seluruh transformasi pengetahuan dalam repositori TUMBUH v2.0.0 wajib melewati Delapan Tahap Rantai Nilai Epistemik secara berurutan dan tidak boleh diputus:<br>`SOURCE` $
+ightarrow$ `PROBE` $
+ightarrow$ `EVIDENCE` $
+ightarrow$ `DECISION` $
+ightarrow$ `01_FUNDAMENTAL` $
+ightarrow$ `02_IMPLEMENTATION` $
+ightarrow$ `03_OPERATIONAL` $
+ightarrow$ `PRAKTIK`.<br>Dilarang keras melakukan lompatan langsung dari `SOURCE` ke `PRAKTIK` atau dari `PROBE` ke `OPERATIONAL`. Setiap dokumen di `03_OPERATIONAL` wajib memiliki tautan keterlacakan (*traceability link*) yang sah ke `02_IMPLEMENTATION` dan `01_FUNDAMENTAL`. |
+| **3. Justifikasi Teologis & Ilmiah** | • Menegakkan kaidah ushuliyah: *Al-hukmu 'ala syai'in far'un 'an tashawwurihi* (As-Suyuthi fi Al-Asybah).<br>• Mengikuti tradisi kritik sanad dan verifikasi riwayat Al-Khatib Al-Baghdadi & Al-Qadhi 'Iyadh.<br>• Mengintegrasikan metode i'tibar, syawahid, dan mutaba'at Al-Hafizh Ibnu Hajar Al-Asqalani.<br>• Mencegah bahaya ancaman hadits hakim zalim yang menghukumi manusia tanpa ilmu (HR. Abu Dawud).<br>• Menerapkan Hierarki Informasi DIKW Russell Ackoff dan Teori Traceability Link Recovery.<br>• Menghilangkan limbah kognitif dan risiko kezaliman melalui Value Stream Mapping Womack & Jones. |
+| **4. Konsekuensi Positif** | • Tereliminasinya secara mutlak tindakan kekerasan dan fatwa penghukuman liar di asrama.<br>• Setiap musyrif memiliki kepastian hukum dan ketenangan batin dalam bertindak di kamar.<br>• Silsilah kebijakan pesantren terdokumentasi rapi dan kebal terhadap amnesia pergantian pimpinan.<br>• Pesantren memiliki pertahanan hukum yang kokoh saat diaudit oleh pihak luar. |
+| **5. Konsekuensi Negatif & Mitigasi** | • Proses pembuatan aturan baru memerlukan waktu lebih lama karena harus melewati inkuiri (*Mitigasi: Diterapkan arsitektur dua kecepatan / Dual-Speed*).<br>• Musyrif pemula memerlukan pembiasaan dalam mencatat data pengasuhan (*Mitigasi: Disediakan instrumen pencatatan digital mobile berantarmuka rendah hambatan*). |
 
 ---
 
