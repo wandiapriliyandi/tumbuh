@@ -4,7 +4,7 @@ description: >-
   Keahlian, metodologi kerja, dan tata kelola penyelidikan PROBE sebagai mesin inquiry TUMBUH:
   perumusan Object of Inquiry, TUMBUH Questions, penjagaan boundary, mitigasi inquiry drift (Drift Guardrails & Check),
   navigasi penulisan berkas P (P00000 s/d P00946 dengan 5 digit angka), penelusuran sumber (traceability),
-  standarisasi kedalaman riset ilmiah empiris dan turats klasik berbobot tinggi (target 400–500+ baris substantif anti-boilerplate),
+  standarisasi kedalaman riset ilmiah empiris dan turats klasik berbobot tinggi sebagai jurnal jenis review paper (target >8.500 kata substantif per berkas),
   serta sintesis dan penerjemahan hasil kajian ke repository TUMBUH v2.0.0.
 ---
 
@@ -737,27 +737,31 @@ Meskipun memegang struktur 13 bagian jurnal di atas, bobot pembahasan disesuaika
 
 ---
 
-### 27.4. Standar Kedalaman Penelitian Ilmiah & Ketentuan Volume Konten (Target 400–500+ Baris)
+### 27.4. Standar Kedalaman Penelitian Ilmiah: Jurnal Jenis Review Paper (Target >8.500 Kata per Berkas)
 
-Berkas PROBE adalah **makalah penyelidikan ilmiah komprehensif (*comprehensive research monograph paper*)**, bukan lembar ringkasan eksekutif (*executive summary*), bukan checklist administratif, dan bukan draf singkat 80–120 baris. 
+Berkas PROBE adalah **karya ilmiah bertipe *Systematic State-of-the-Art Review Paper & Conceptual System Design Monograph***, bukan lembar ringkasan eksekutif (*executive summary*), bukan checklist administratif, dan bukan sekadar esai opini singkat.
 
-Untuk menjamin derajat keilmuan yang kokoh dan dapat dipertanggungjawabkan di hadapan para pakar pendidikan Islam, psikolog perkembangan, dan pengasuh pesantren, setiap berkas PROBE kanonik **wajib memenuhi ketentuan kedalaman dan volume konten berikut**:
+Sebagai **jurnal jenis review paper**, setiap berkas PROBE memiliki mandat metodologis untuk **menganalisis puluhan sumber literatur otoritatif (minimal 25–40+ referensi primer dan sekunder bereputasi) untuk membedah satu tema inkuiri secara tuntas, komparatif, dan mendalam**. Analisis ini mencakup kompilasi kritis, pemetaan silang (*cross-mapping*), penimbangan dalil yang saling bertolak belakang (*ta'arudh al-adillah*), dan sintesis dialektis (*al-jam'u wat-taufiq*) antara khazanah turats klasik Islam dengan sains empiris mutakhir (neurosains, sistem dinamis, sosiologi, psikometri, dan rekayasa perangkat lunak kelembagaan).
+
+Untuk menjamin derajat keilmuan yang kokoh dan komprehensif, setiap berkas PROBE kanonik **wajib memenuhi ketentuan kedalaman dan volume konten berikut**:
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│              STANDAR VOLUME & RIGOR PENELITIAN KANONIK PROBE                │
+│       STANDAR VOLUME & RIGOR JURNAL REVIEW PAPER KANONIK PROBE              │
 ├─────────────────────────────────────────────────────────────────────────────┤
-│ 1. Volume Target     : 400 s/d 500+ baris markdown substantif per berkas    │
-│ 2. Kedalaman Riset   : Mengintegrasikan literatur sains empiris mutakhir    │
-│                        (jurnal internasional, neurosains, psikologi)        │
-│ 3. Kekayaan Turats   : Teks Arab berharakat, takhrij hadits, syarah klasik  │
-│ 4. Dialektika Asrama : Studi kasus fenomenologi analitis tanpa drama skrip  │
-│ 5. Rekayasa Sistem   : Matriks komparatif multidimensi, ADR, & guardrails   │
-│ 6. Anti-Boilerplate  : Dilarang kloning kalimat seragam antarberkas         │
+│ 1. Format Jurnal     : Systematic Review Paper & Architectural Monograph    │
+│ 2. Volume Target     : Lebih dari 8.500 kata (>8.500 words) substantif      │
+│                        (ekivalen dengan 700–1.000+ baris markdown padat)    │
+│ 3. Analisis Sumber   : Menganalisis puluhan sumber otoritatif per tema      │
+│                        (minimal 25–40+ referensi turats & sains mutakhir)   │
+│ 4. Kekayaan Turats   : Teks Arab berharakat, takhrij hadits, syarah klasik  │
+│ 5. Dialektika Asrama : Kajian fenomenologi analitis tanpa drama percakapan  │
+│ 6. Rekayasa Sistem   : Matriks komparatif multidimensi, ADR, & guardrails   │
+│ 7. Anti-Boilerplate  : Dilarang kloning kalimat seragam antarberkas         │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
-#### Komponen Wajib untuk Mencapai Standar Penelitian Mendalam (400–500+ Baris):
+#### Komponen Wajib untuk Mencapai Standar Review Paper (>8.500 Kata & Puluhan Sumber):
 
 1. **Kajian Literatur Riset Empiris & Neurosains Terapan (Ekstensif)**:
    - Wajib mengutip nama ilmuwan/peneliti otoritatif dan temuan kunci mereka (misalnya dalam psikologi remaja, *self-determination theory*, regulasi emosi, psikometri PBIS, atau adiksi digital).
@@ -808,13 +812,16 @@ Untuk menjamin derajat keilmuan yang kokoh dan dapat dipertanggungjawabkan di ha
 
 Sebelum berkas PROBE disahkan atau di-commit, lakukan verifikasi:
 ```text
-[ ] Apakah jumlah baris berkas ini telah menembus 400–500+ baris?
-[ ] Apakah terdapat kutipan literatur riset ilmiah (nama peneliti, teori, mekanisme)?
-[ ] Apakah terdapat teks turats berbahasa Arab berharakat dengan takhrij yang jelas?
-[ ] Apakah terdapat tabel/matriks komparatif yang substantif dan mendalam?
+[ ] Apakah berkas disusun sebagai jurnal ilmiah jenis Review Paper komprehensif?
+[ ] Apakah volume teks telah melampaui 8.500 kata (>8.500 kata) substantif?
+[ ] Apakah terdapat tinjauan literatur riset ilmiah ekstensif (nama peneliti, teori, metodologi, temuan empiris)?
+[ ] Apakah terdapat teks turats berbahasa Arab berharakat dengan takhrij kitab dan syarah mu'tabar yang kaya?
+[ ] Apakah terdapat sintesis dialektika konfrontatif Al-Jam'u wat-Taufiq antara syariat dan sains?
+[ ] Apakah terdapat tabel/matriks komparatif multidimensi yang substantif dan komprehensif?
 [ ] Apakah studi kasus disajikan secara naratif-analitis murni (tanpa format naskah drama)?
 [ ] Apakah seluruh paragraf bebas dari boilerplate copy-paste generik?
-[ ] Apakah implikasi arsitektur (ADR, Repositori, Guardrails) terumuskan dengan tegas?
+[ ] Apakah implikasi arsitektur (ADR kanonik, dependensi repositori, 7 Guardrails) terumuskan dengan presisi?
+[ ] Apakah daftar pustaka memenuhi standar APA 7th Edition bersih (bebas paywall/DOI komersial)?
 ```
 
 ---
