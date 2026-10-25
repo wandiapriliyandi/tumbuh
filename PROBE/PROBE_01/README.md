@@ -98,6 +98,23 @@ Sesuai prinsip utama dalam [`AGENTS.md`](file:///c:/xampp/htdocs/tumbuh/AGENTS.m
 - [`P00053` — Mitigasi Inquiry Drift: Penerapan 5 Drift Guardrails Sebelum Melangkah ke Berkas P Berikutnya](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00053-Mitigasi-Inquiry-Drift-Penerapan-5-Drift-Guardrails.md)
 - [`P00054` — Kriteria Penghentian Penyelidikan (*Stopping Rules*): Mengetahui Kapan Suatu Ruang Kajian Dianggap Tuntas (Penutup Resmi Pilar 4)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00054-Kriteria-Penghentian-Penyelidikan-Stopping-Rules-Penutup-Pilar-4.md)
 
+### Pilar 5: Tata Kelola Identitas, Penomoran, & Traceability (P00055 s/d P00069)
+- [`P00055` — Standarisasi Identifier 5-Digit Kanonik (P00000 s/d P00946): Mengapa Repositori Membutuhkan Format Angka Baku?](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00055-Standarisasi-Identifier-5-Digit-Kanonik-P00000-sd-P00946.md)
+- [`P00056` — Prinsip Demarkasi Pertama: Memisahkan Hakikat Identitas Berkas dari Jalur Lokasi Direktori (Identity vs Path)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00056-Prinsip-Demarkasi-Pertama-Memisahkan-Identitas-dari-Jalur-Direktori.md)
+- [`P00057` — Prinsip Demarkasi Kedua: Memisahkan Identitas Berkas dari Versi Rilis Perangkat Lunak (Identity vs Version)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00057-Prinsip-Demarkasi-Kedua-Memisahkan-Identitas-dari-Versi-Rilis.md)
+- [`P00058` — Prinsip Demarkasi Ketiga: Memisahkan Identitas Berkas dari Status Siklus Hidup (Identity vs Lifecycle)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00058-Prinsip-Demarkasi-Ketiga-Memisahkan-Identitas-dari-Status-Siklus-Hidup.md)
+- [`P00059` — Manajemen Ruang Kosong Penomoran (Handling Numerical Gaps): Menolak Pengisian Penyelidikan Fiktif](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00059-Manajemen-Ruang-Kosong-Penomoran-Handling-Numerical-Gaps.md)
+- [`P00060` — Protokol Pengarsipan Dokumen Usang (Deprecation & Soft-Delete): Menjaga Lineage Tanpa Mengotori Ruang Kerja](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00060-Protokol-Pengarsipan-Dokumen-Usang-Deprecation-dan-Soft-Delete.md)
+- [`P00061` — Tata Kelola Rujukan Silang (Cross-Reference Integrity): Mencegah Terjadinya Tautan Patah Saat Repositori Berevolusi](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00061-Tata-Kelola-Rujukan-Silang-Cross-Reference-Integrity.md)
+- [`P00062` — Keterlacakan Sanad Intelektual Dua Arah (Bidirectional Lineage Traceability): Menghubungkan Aturan Operasional ke Dalil PROBE](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00062-Keterlacakan-Sanad-Intelektual-Dua-Arah-Bidirectional-Lineage.md)
+- [`P00063` — Penyusunan Matriks Keterlacakan Kebutuhan (Requirements Traceability Matrix - RTM) dalam Repositori Pendidikan](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00063-Penyusunan-Matriks-Keterlacakan-Kebutuhan-RTM-Repositori.md)
+- [`P00064` — Mekanisme Promosi Keputusan: Transisi dari Status Provisional Menuju Status Canonical Baseline](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00064-Mekanisme-Promosi-Keputusan-Provisional-ke-Canonical.md)
+- [`P00065` — Menjaga Integritas Sanad Intelektual Saat Terjadi Pergantian Kontributor Repositori](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00065-Menjaga-Integritas-Sanad-Intelektual-Pergantian-Kontributor.md)
+- [`P00066` — Otomasi Pemeliharaan Indeks dan Katalog Referensi Tanpa Menjadi Hambatan Tata Kelola (Governance Bottleneck)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00066-Otomasi-Pemeliharaan-Indeks-dan-Katalog-Referensi.md)
+- [`P00067` — Audit Kepatuhan Format Identifier: Memeriksa Konsistensi Penomoran di Heading, Isi Teks, dan Tautan Markdown](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00067-Audit-Kepatuhan-Format-Identifier-Heading-Teks-Tautan.md)
+- [`P00068` — Protokol Penyelesaian Sengketa Identitas: Menangani Kasus Penomoran Ganda Akibat Percabangan Paralel](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00068-Protokol-Penyelesaian-Sengketa-Identitas-Penomoran-Ganda.md)
+- [`P00069` — Standarisasi Penamaan Slug File Markdown: Menyeimbangkan Keterbacaan Manusia dan Ketahanan Sistem Operasi File (Penutup Resmi Pilar 5)](file:///c:/xampp/htdocs/tumbuh/PROBE/PROBE_01/P00069-Standarisasi-Penamaan-Slug-File-Markdown-Penutup-Pilar-5.md)
+
 
 
 
