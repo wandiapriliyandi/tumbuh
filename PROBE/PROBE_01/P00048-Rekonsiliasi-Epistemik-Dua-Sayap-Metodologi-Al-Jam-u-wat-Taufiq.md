@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Part 1 for P00048: Bab 1, Bab 2, Bab 3"""
-
 # P00048: Rekonsiliasi Epistemik Dua Sayap: Metodologi Al-Jam'u wat-Taufiq Antara Syariat dan Sains
 
 ## 1. Metadata & Identitas Dokumen Inkuiri
@@ -56,7 +53,6 @@ Repositori TUMBUH v2.0.0 menolak ketiga jebakan epistemik tersebut. Dalam arsite
 Kedua sayap kebenaran ini bersumber dari Dzat yang Maha Esa: Allah Yang Menurunkan Wahyu (*Al-Qur'an al-Karim*) adalah Allah Yang Menciptakan Alam Semesta beserta hukum biologis otak manusia (*Al-Kawn al-Manshur*). Oleh karena itu, secara ontologis mustahil terjadi kontradiksi hakiki antara dalil wahyu yang shahih (*naql shahih*) dengan temuan akal dan sains empiris yang terbukti nyata (*aql sharih*). 
 
 Metodologi **Al-Jam'u wat-Taufiq** (Harmonisasi Dialektis Dua Sayap) dirancang untuk membedah, mempertemukan, dan menyelaraskan kedua sayap ini secara sistematis di Bagian 6 setiap berkas inkuiri PROBE. Dokumen P00048 ini menyajikan landasan filosofis, aturan ushul, matriks komparatif, algoritma keputusan, dan sepuluh guardrails mutlak agar rekonsiliasi keilmuan berjalan dengan kemurnian tauhid dan rigoritas saintifik kelas dunia.
-'''
 
 open('scratch_p48_part1.py', 'w', encoding='utf-8').write(p48_part1)
 print("Wrote scratch_p48_part1.py successfully.")
@@ -219,7 +215,6 @@ Untuk menjalankan rekonsiliasi secara presisi di Bagian 6 berkas PROBE, TUMBUH m
 
 3. **Tingkat 3: Demarkasi Dialektis Tsawabit vs Mutaghayyirat**:
    Arsitek sistem membedakan secara tegas antara prinsip-prinsip abadi syariat yang tidak dapat diubah sepanjang zaman (*al-ushul ats-tsabitah*) dengan sarana-sarana teknis operasional yang senantiasa berubah mengikuti ruang, waktu, dan kemajuan ilmu pengetahuan (*al-wasa'il al-mutaghayyirah*). Menjaga shalat fardhu berjamaah tepat waktu dan menjalin ukhuwah islamiyyah adalah *tsawabit*; namun apakah absensi shalat menggunakan buku manual atau aplikasi presensi nir-sentuh cerdas adalah *mutaghayyirat*. Menuntut musyrif bersikap lembut dan berwibawa adalah *tsawabit*; namun melatih musyrif teknik *active listening* dan *de-eskalasi emosi trauma-informed* adalah *mutaghayyirat* berbasis sains kontemporer.
-'''
 
 open('scratch_p48_part2.py', 'w', encoding='utf-8').write(p48_part2)
 print("Wrote scratch_p48_part2.py successfully.")
@@ -327,7 +322,6 @@ Musyrif mengoperasionalkan sayap kedua kebenaran melalui rekayasa arsitektur keb
 - Memecah target perubahan perilaku menjadi langkah-langkah mikro yang mudah dicapai (*atomic habits*).
 - Memberikan umpan balik positif secara berkala dengan rasio penguatan minimal 4 pujian tulus berbanding 1 koreksi tegas (*4:1 positivity ratio*).
 - Menata lingkungan kamar tidur santri (pencahayaan redup saat malam, sirkulasi udara bersih, bebas distraksi gawai) untuk mendukung ritme neurofisiologis yang sehat.
-'''
 
 open('scratch_p48_part3.py', 'w', encoding='utf-8').write(p48_part3)
 print("Wrote scratch_p48_part3.py successfully.")
@@ -408,6 +402,8 @@ Standardisasi metodologi Al-Jam'u wat-Taufiq menuntut pembekalan sistemik bagi s
 
 Dengan kurikulum sertifikasi ini, musyrif bertransformasi dari sekadar "penjaga malam yang memegang tongkat" menjadi "arsitek peradaban karakter yang memadukan kehangatan qudwah nabawiyyah dengan ketepatan sains modern".
 
+Setiap langkah intervensi dan audit di lapangan pesantren wajib berpegang teguh pada prinsip kehati-hatian syar'i (*al-ihtiyath*) dan perlindungan martabat fitrah santri secara utuh lahir dan batin, menjamin bahwa kemuliaan akhlak nabawiyyah senantiasa menjadi ruh utama dalam setiap denyut nadi pembinaan asrama 24 jam.
+
 ## 12. Penutup & Emergent Chain of Inquiry
 
 ### 12.1. Sintesis Penutup
@@ -450,7 +446,6 @@ Dengan telah tuntasnya peletakan metodologi rekonsiliasi epistemik Al-Jam'u wat-
 - Xie, L., Kang, H., Xu, Q., Chen, M. J., Liao, Y., Thiyagarajan, M., ... & Nedergaard, M. (2013). Sleep drives metabolite clearance from the adult brain. *Science*, 342(6156), 373-377.
 
 ---
-'''
 
 open('scratch_p48_part4.py', 'w', encoding='utf-8').write(p48_part4)
 print("Wrote scratch_p48_part4.py successfully.")

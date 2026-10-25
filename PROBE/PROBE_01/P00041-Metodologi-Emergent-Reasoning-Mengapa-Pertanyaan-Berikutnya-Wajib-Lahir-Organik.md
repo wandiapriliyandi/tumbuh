@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00041: Metodologi Emergent Reasoning: Mengapa Pertanyaan Berikutnya Wajib Lahir Organik dari Temuan Berkas Sebelumnya
+# P00041: Metodologi Emergent Reasoning: Mengapa Pertanyaan Berikutnya Wajib Lahir Organik dari Temuan Berkas Sebelumnya
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -68,13 +66,11 @@ Mengapa pertanyaan penyelidikan wajib lahir secara organik dari berkas sebelumny
 Ketika berkas `P00040` berhasil menuntaskan penyelidikan mengenai hakikat PROBE sebagai mesin inkuiri dialektis, penyelesaian berkas tersebut tidak menutup percakapan ilmiah, melainkan justru membuka tabir pertanyaan baru yang sebelumnya tidak terlihat: "Jika PROBE adalah sebuah mesin, bagaimana mesin ini menentukan arah pergerakannya dari satu stasiun penalaran ke stasiun berikutnya tanpa intervensi komando buta dari luar?" Pertanyaan ini mustahil dirumuskan secara otentik sebelum naskah `P00040` selesai dikerjakan secara tuntas. Pertanyaan tersebut adalah anak kandung (*the legitimate epistemic offspring*) dari pergulatan dialektis di dalam naskah `P00040`.
 
 Inilah esensi terdalam dari *Emergent Reasoning*: menghormati hukum kausalitas intelektual. Sebuah pertanyaan baru memiliki kekuatan transformatif hanya jika ia lahir dari rahim pergulatan nyata berkas sebelumnya. Dengan mengadopsi metodologi ini, urutan berkas dalam repositori TUMBUH (dari `P00001` hingga `P00120` dan seterusnya) membentuk sebuah untaian DNA konseptual yang utuh, hidup, dan saling menguatkan—sebuah mahakarya arsitektur pengetahuan di mana tidak ada satu pun batu bata pemikiran yang diletakkan secara sembarangan atau melompat tanpa keterlacakan nasab ilmiah yang sahih.
-"""
 
 open('scratch_p41_part1.py', 'w', encoding='utf-8').write(part1)
 print("P41 Part 1 written, words:", len(part1.split()))
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
@@ -177,13 +173,11 @@ Repositori TUMBUH v2.0.0 menolak jebakan kedua kutub ekstrem tersebut dan melaku
 | **Instrumen Pengendali** | Dokumen silabus tertutup dan jadwal eksekusi kaku yang tidak fleksibel. | Tidak ada pengendali; mengandalkan intuisi bebas tanpa akuntabilitas. | *Five Drift Guardrails Check* dan penjangkaran mutlak pada *Object of Inquiry*. |
 
 Melalui sintesis ini, ekosistem TUMBUH melahirkan konsep **Emergent Reasoning Terpandu (*Guided Emergent Reasoning*)**: setiap berkas inkuiri baru lahir secara bebas dan organik dari rahim dialektika berkas sebelumnya, namun kelahirannya dikawal oleh dinding-dinding pembatas yang sangat kokoh. Kebebasan berpikir di dalam PROBE bukanlah kebebasan tanpa batas yang merusak, melainkan kebebasan terarah yang tunduk pada hukum-hukum keluhuran tauhid, kemaslahatan syariat, dan integritas ilmiah empiris.
-"""
 
 open('scratch_p41_part2.py', 'w', encoding='utf-8').write(part2)
 print("P41 Part 2 written, words:", len(part2.split()))
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 
@@ -292,13 +286,11 @@ Apabila dalam proses penulisan sebuah berkas inkuiri terdeteksi adanya penyimpan
 1. **The Epistemic Anchor Lockdown**: Penulis diwajibkan kembali membaca tabel *Metadata & Identitas Dokumen* di Bab 1, khususnya kolom *Object of Inquiry* dan *TUMBUH Question*. Setiap paragraf yang tidak berkontribusi langsung dalam menjawab *TUMBUH Question* wajib dihapus tanpa kompromi.
 2. **Re-centering via Maqashid**: Penulis mengkalibrasi ulang argumennya dengan mengaitkannya kembali pada lima tujuan pokok syariat (*al-kulliyyat al-khams*): bagaimana diskursus ini menyelamatkan agama, jiwa, akal, keturunan, atau kehormatan santri?
 3. **Audit Inter-Rater**: Draf naskah diperiksa secara independen oleh dua orang auditor kualitas (menggunakan protokol skill `pakar-kritikus-dan-auditor-kualitas`) untuk memastikan bahwa seluruh argumen tetap berada dalam koridor rekayasa sistem TUMBUH v2.0.0.
-"""
 
 open('scratch_p41_part3.py', 'w', encoding='utf-8').write(part3)
 print("P41 Part 3 written, words:", len(part3.split()))
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 
@@ -430,7 +422,6 @@ Penyelesaian penyelidikan mengenai metodologi *Emergent Reasoning* dalam naskah 
 ### Catatan Kaki (*Footnotes*) Apparatus
 [^1]: Teks doktrin tawallud al-adillah ditakhrij dari naskah tahqiq Ar-Razi, *Al-Mahshul fi 'Ilm Ushul al-Fiqh*, Jilid 1, Kitab an-Nazhar, hlm. 82-84, Mu'assasat ar-Risalah, Bairut.
 \n\n[^4]: Pembahasan mengenai masalik al-'illah dan metode as-sabr wat-taqsim ditelaah secara mendalam dalam Imam Al-Ghazali, *Al-Mustashfa min 'Ilm al-Ushul*, Jilid 2, fasal Qiyas wa 'Ilal al-Ahkam, hlm. 295-298, Bairut: Dar al-Kutub al-'Ilmiyyah.\n[^3]: Teks doktrin al-istiqra' al-ma'nawi dikutip dari Imam Asy-Syathibi, *Al-Muwafaqat*, Jilid 1, fasal Kitab al-Ahkam, hlm. 35-38, Dar al-Hadits, Al-Qahirah.\n[^2]: Teks keterkaitan organik masalah-masalah syariat (*nathariyyat al-irtibat*) dikutip dari Imam Al-Haramain Al-Juwaini, *Al-Burhan fi Ushul al-Fiqh*, Jilid 2, fasal Al-Qiyas wa Mabadi'uhu, hlm. 145-147, Dar al-Kutub al-'Ilmiyyah.
-"""
 
 open('scratch_p41_part4.py', 'w', encoding='utf-8').write(part4)
 print("P41 Part 4 written, words:", len(part4.split()))

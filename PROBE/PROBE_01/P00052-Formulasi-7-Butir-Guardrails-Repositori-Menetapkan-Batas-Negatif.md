@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Part 1 for P00052: Bab 1, Bab 2, Bab 3"""
-
 # P00052: Formulasi Guardrails Repositori: Menetapkan Batas-Batas Negatif yang Haram Dilanggar Pengembang
 
 ## 1. Metadata & Identitas Dokumen Inkuiri
@@ -60,7 +57,6 @@ Kelemahan terbesar dari banyak buku pedoman tata tertib pendidikan adalah mereka
 Repositori TUMBUH v2.0.0 menetapkan bahwa Bagian 11 di seluruh berkas inkuiri PROBE adalah **Benteng Pertahanan Sistem**. Bagian 11 bertindak sebagai rem darurat (*emergency brake*) yang memagari sistem: ia menetapkan daftar larangan mutlak (*Ten Architectural Guardrails*) lengkap dengan sanksi pembatalan otomatis bagi siapa pun yang melanggarnya. 
 
 Monograf P00052 ini membedah rancang bangun epistemologis di balik perumusan guardrails tersebut: bagaimana menyusun batasan negatif yang kokoh bersandarkan pada kaidah ushul fiqih *Dar'ul Mafasid*, bagaimana memadukannya dengan teori *Via Negativa* dan *Safety-Critical Systems*, serta bagaimana memastikan guardrails tersebut menjadi pelindung sejati bagi kemuliaan fitrah santri di seluruh pesantren TUMBUH.
-'''
 
 open('scratch_p52_part1.py', 'w', encoding='utf-8').write(p52_part1)
 print("Wrote scratch_p52_part1.py successfully.")
@@ -240,7 +236,6 @@ Hubungan dialektis antara kebebasan pedagogis musyrif dengan Sepuluh Guardrails 
 | **Titik Penegakan Hukum** | Kendaraan yang menabrak pagar baja akan tertahan sebelum masuk ke jurang. | Musyrif yang hendak melampiaskan amarah fisiknya tertahan oleh sistem; jika batas guardrail diterobos, sistem secara otomatis menerbitkan sanksi administratif dan pemulihan korban. |
 
 Dengan desain ini, para asatidz memiliki kemerdekaan pedagogis seluas-luasnya di dalam koridor jalan raya adab, seraya dijamin secara mutlak bahwa tidak akan ada satu pun santri yang terlempar ke dalam jurang kekerasan fisik dan kehancuran mental di bawah asuhan pesantren TUMBUH.
-'''
 
 open('scratch_p52_part2.py', 'w', encoding='utf-8').write(p52_part2)
 print("Wrote scratch_p52_part2.py successfully.")
@@ -372,7 +367,6 @@ Tim Penjamin Mutu Repositori melakukan investigasi FBA objektif dalam waktu 1x24
 Insiden pelanggaran guardrail tidak diselesaikan dengan sekadar surat peringatan personal yang cepat dilupakan. Tim wajib menerbitkan rekomendasi perbaikan arsitektural:
 - Jika pelanggaran dipicu oleh kelelahan musyrif, jadwal piket musyrif dirombak dengan rasio kerja yang manusiawi.
 - Jika pelanggaran dipicu oleh tradisi turun-temurun, kurikulum sertifikasi musyrif diperbarui dengan modul de-eskalasi emosi berbasis *Firm and Kind*.
-'''
 
 open('scratch_p52_part3.py', 'w', encoding='utf-8').write(p52_part3)
 print("Wrote scratch_p52_part3.py successfully.")
@@ -500,7 +494,6 @@ Dengan telah tuntasnya peletakan formulasi Guardrails pada Bagian 11 berkas PROB
 - Taleb, N. N. (2012). *Antifragile: Things That Gain from Disorder*. Random House.
 
 ---
-'''
 
 open('scratch_p52_part4.py', 'w', encoding='utf-8').write(p52_part4)
 print("Wrote scratch_p52_part4.py successfully.")

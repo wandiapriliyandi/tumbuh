@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00042: Kedudukan Object of Inquiry: Menjaga Agar Pertanyaan Bebas Tidak Kehilangan Jangkar Pembahasan
+# P00042: Kedudukan Object of Inquiry: Menjaga Agar Pertanyaan Bebas Tidak Kehilangan Jangkar Pembahasan
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -69,13 +67,11 @@ Sadar akan ancaman mematikan dari *epistemic scope creep* tersebut, arsitektur r
 Analogi terbaik untuk memahami posisi *Object of Inquiry* adalah fungsi jangkar atau sauh pada sebuah kapal riset samudra. Samudra ilmu pengetahuan Allah Subhanahu wa Ta'ala terbentang luas tanpa batas; ombak pemikiran kontemporer dan angin dialektika bertiup kencang dari segala penjuru. Jika sebuah kapal riset melepaskan layarnya untuk menjelajah secara bebas (*emergent reasoning*) tanpa memiliki sauh yang menghujam ke dasar karang, kapal tersebut akan terseret arus samudra dan terombang-ambing tanpa pernah berhasil menyelesaikan misi pemetaan dasarnya. *Object of Inquiry* adalah sauh baja yang ditancapkan secara kokoh di awal perjalanan: ia mengizinkan kapal untuk berayun lincah mengikuti gerak ombak dialektika, namun ia menahan kapal agar tetap berada tepat di atas koordinat koordinasi wilayah yang sedang diselidiki.
 
 Dengan ditetapkannya *Object of Inquiry* di Bab 1 naskah, peneliti memiliki parameter objektif untuk melakukan sensor mandiri (*epistemic self-censorship*). Setiap kali peneliti tergoda untuk menulis sebuah argumen filosofis atau kutipan sejarah yang panjang, ia wajib bertanya pada dirinya sendiri: "Apakah paragraf ini berkontribusi langsung dalam membongkar, mengklarifikasi, atau memutuskan batas-batas dari *Object of Inquiry* yang tertera di Bab 1?" Jika jawabannya adalah tidak—meskipun kutipan tersebut sangat indah dan mendalam—maka paragraf tersebut wajib dipotong dan dialihkan ke berkas inkuiri lain yang menjadi tempat hakikinya.
-"""
 
 open('scratch_p42_part1.py', 'w', encoding='utf-8').write(part1)
 print("P42 Part 1 written, words:", len(part1.split()))
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Logika Mantiq
@@ -181,13 +177,11 @@ Repositori TUMBUH v2.0.0 melakukan rekonsiliasi dialektis melalui kaidah ushuliy
 | **Keluaran Akhir** | Naskah esai panjang yang mengambang tanpa kemampuan mengubah sistem. | Ceklis birokrasi mekanistik yang rentan memicu dehumanisasi santri. | *Architectural Decision Record* (ADR) formal yang terhubung ke dokumen operasional. |
 
 Melalui sintesis ini, *Object of Inquiry* di ekosistem TUMBUH tidak bermakna memisahkan diri dari nilai-nilai luhur Islam, melainkan **mengkonsentrasikan seluruh cahaya nilai luhur Islam tersebut ke dalam satu titik fokus penyelidikan yang konkret**. Seperti lensa pembesar yang mengumpulkan sinar matahari yang menyebar ke satu titik api yang sanggup membakar jerami kemunduran, *Object of Inquiry* memusatkan seluruh khazanah wahyu dan sains untuk menuntaskan satu persoalan pembinaan santri hingga tuntas ke akar-akarnya.
-"""
 
 open('scratch_p42_part2.py', 'w', encoding='utf-8').write(part2)
 print("P42 Part 2 written, words:", len(part2.split()))
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 
@@ -292,13 +286,11 @@ Prinsip penjangkaran *Object of Inquiry* ini tidak hanya berlaku dalam penulisan
 
 1. **Klausul Agenda Tunggal dalam Pertemuan Pengasuhan**: Setiap rapat asrama wajib menetapkan *Agenda Core Object* yang tertulis di papan musyawarah. Musyrif yang memimpin rapat memiliki otoritas penuh untuk memotong pembicaraan peserta yang mulai melebar ke topik lain dengan kalimat diplomatis: "Ustadz, poin tersebut sangat menarik, namun berada di luar objek rapat kita malam ini. Mari kita catat poin tersebut untuk rapat pekan depan dan kembali fokus menuntaskan objek kita malam ini."
 2. **Fokus pada Variabel Terkendali (*Controllable Variables*)**: Musyrif dilatih untuk membedakan antara hal-hal yang berada di bawah kendali mereka di kamar asrama (seperti kehangatan sapaan, penataan kamar, pendampingan tidur) dengan hal-hal di luar kendali mereka (seperti latar belakang keluarga santri atau kebijakan yayasan). Inkuiri lapangan selalu diarahkan untuk memaksimalkan tindakan pada variabel yang dapat dikendalikan demi keselamatan dan kenyamanan santri.
-"""
 
 open('scratch_p42_part3.py', 'w', encoding='utf-8').write(part3)
 print("P42 Part 3 written, words:", len(part3.split()))
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 
@@ -388,6 +380,8 @@ Pada tingkat yang paling esensial, penetapan *Object of Inquiry* di repositori T
 
 Intelektualisme yang sejati dalam Islam diukur dari seberapa besar buah amal shalih yang dihasilkan untuk memuliakan sesama hamba Allah, bukan dari seberapa banyak kata-kata indah yang diucapkan tanpa realisasi nyata. Dengan menjaga agar setiap berkas inkuiri tetap setia pada objek penyelidikannya, para pengembang sistem TUMBUH menjaga kesucian niat mereka: tidak menggunakan riset sebagai panggung kesombongan intelektual pribadi, melainkan menjadikannya sebagai sarana ibadah dan ikhtiar nyata untuk menjaga keselamatan jiwa, kesehatan mental, dan kemuliaan adab santri-santri penerus risalah kenabian.
 
+Setiap langkah intervensi dan audit di lapangan pesantren wajib berpegang teguh pada prinsip kehati-hatian syar'i (*al-ihtiyath*) dan perlindungan martabat fitrah santri secara utuh lahir dan batin, menjamin bahwa kemuliaan akhlak nabawiyyah senantiasa menjadi ruh utama dalam setiap denyut nadi pembinaan asrama 24 jam.
+
 ## 12. Penutup & Emergent Chain of Inquiry
 
 ### 12.1. Sintesis Penutup
@@ -428,7 +422,6 @@ Dengan telah terkuncinya kedudukan *Object of Inquiry* sebagai sauh pembatas wil
 ### Catatan Kaki (*Footnotes*) Apparatus
 [^1]: Teks batasan objek kajian ilmu (*maudhu' al-'ilm*) ditakhrij dari naskah tahqiq Al-Farabi, *Ihsha' al-'Ulum*, bab Klasifikasi Ilmu Teoretis, hlm. 54-56, Dar al-Fikr al-'Arabi, Al-Qahirah.
 \n\n[^4]: Pembahasan mengenai syarat-syarat mahkum fih dan larangan taklif ma la yuthaq dikutip dari Saifuddin Al-Amidi, *Al-Ihkam fi Ushul al-Ahkam*, Jilid 1, Kitab al-Hakim wa al-Mahkum 'Alaih wa Fih, hlm. 115-118, Bairut: Dar al-Kutub al-'Ilmiyyah.\n[^3]: Teks pembagian tingkatan wacana berdasarkan kapasitas manusia dikutip dari Ibnu Rusyd, *Fashl al-Maqal*, hlm. 28-31, Dar al-Ma'arif, Al-Qahirah.\n[^2]: Teks kaidah definisi hakiki jami' wa mani' dikutip dari Imam Al-Ghazali, *Mi'yar al-'Ilm fi Fann al-Mantiq*, fasal Syuruth al-Hadd al-Haqiqi, hlm. 82-85, Dar al-Ma'arif, Al-Qahirah.
-"""
 
 open('scratch_p42_part4.py', 'w', encoding='utf-8').write(part4)
 print("P42 Part 4 written, words:", len(part4.split()))

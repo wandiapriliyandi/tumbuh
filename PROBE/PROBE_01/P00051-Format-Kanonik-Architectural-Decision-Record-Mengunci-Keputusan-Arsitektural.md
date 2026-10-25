@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Part 1 for P00051: Bab 1, Bab 2, Bab 3"""
-
 # P00051: Format Kanonik Architectural Decision Record (ADR): Mengunci Keputusan Arsitektural dalam Berkas Penyelidikan
 
 ## 1. Metadata & Identitas Dokumen Inkuiri
@@ -62,7 +59,6 @@ Bagian 10 dihadirkan sebagai **Segel Yudisial Sistem**: sebuah blok deklarasi re
 - Dokumen `03_OPERATIONAL/` wajib memastikan tidak ada satu pun butir SOP yang bertentangan dengan ADR ini.
 
 Monograf P00051 ini menetapkan format kanonik, dua tabel wajib, siklus hidup peninjauan, dan sepuluh guardrails mutlak agar setiap ADR di repositori TUMBUH berdiri kokoh sebagai benteng penjaga integritas peradaban pesantren.
-'''
 
 open('scratch_p51_part1.py', 'w', encoding='utf-8').write(p51_part1)
 print("Wrote scratch_p51_part1.py successfully.")
@@ -248,7 +244,6 @@ ADR lama TIDAK DIHAPUS dari repositori, melainkan diarsipkan agar sejarah evolus
 ```
 
 Dengan siklus hidup ini, repositori TUMBUH memiliki stabilitas baja sekaligus fleksibilitas dinamis: sistem tidak mudah diombang-ambingkan oleh pergantian selera personal musyrif baru, namun senantiasa rendah hati untuk memperbarui dirinya sendiri di hadapan bukti-bukti kebenaran ilmiah yang lebih sahih.
-'''
 
 open('scratch_p51_part2.py', 'w', encoding='utf-8').write(p51_part2)
 print("Wrote scratch_p51_part2.py successfully.")
@@ -367,7 +362,6 @@ Arsitek mengisi Tabel Evaluasi Keputusan Desain:
 Tim Penjamin Mutu Repositori melakukan pengawasan berkala:
 - Setiap draf SOP baru di `03_OPERATIONAL/` dicocokkan dengan katalog ADR yang aktif.
 - Jika ditemukan butir aturan di lapangan yang melanggar ADR yang sah, auditor menerbitkan **Surat Ketidakpatuhan Arsitektural (Architectural Non-Compliance Notice)** yang mewajibkan pencabutan aturan tersebut dalam waktu 1x24 jam.
-'''
 
 open('scratch_p51_part3.py', 'w', encoding='utf-8').write(p51_part3)
 print("Wrote scratch_p51_part3.py successfully.")
@@ -504,7 +498,6 @@ Dengan telah tuntasnya peletakan format kanonik ADR pada Bagian 10 berkas PROBE 
 - Walsh, J. P., & Ungson, G. R. (1991). Organizational memory. *Academy of Management Review*, 16(1), 57-91.
 
 ---
-'''
 
 open('scratch_p51_part4.py', 'w', encoding='utf-8').write(p51_part4)
 print("Wrote scratch_p51_part4.py successfully.")

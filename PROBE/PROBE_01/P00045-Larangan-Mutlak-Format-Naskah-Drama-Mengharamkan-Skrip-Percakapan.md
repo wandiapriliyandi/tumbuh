@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00045: Larangan Mutlak Format Naskah Drama: Mengharamkan Skrip Percakapan Sandiwara dalam Seluruh Berkas PROBE
+# P00045: Larangan Mutlak Format Naskah Drama: Mengharamkan Skrip Percakapan Sandiwara dalam Seluruh Berkas PROBE
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -79,7 +77,6 @@ Sebagai gantinya, ekosistem TUMBUH mewajibkan setiap pembahasan kasus disajikan 
 - Bahasa yang digunakan adalah prosa akademik analitis yang presisi, kaya dengan istilah-istilah perilaku ilmiah, menghormati privasi subjek melalui anonimitas, dan mengarahkan seluruh kesimpulan pada perbaikan tata kelola sistem asrama 24 jam.
 
 Dengan beralih dari format sandiwara menuju narasi analitis objektif, repositori TUMBUH memulihkan kehormatan intelektual pesantren: membuktikan kepada dunia bahwa pendidikan Islam memiliki disiplin metodologis yang sangat tinggi dalam mendiagnosis masalah warganya dan merumuskan solusi peradaban yang berkeadilan.
-"""
 
 open('scratch_p45_part1.py', 'w', encoding='utf-8').write(part1)
 print("P45 Part 1 written, words:", len(part1.split()))
@@ -92,7 +89,6 @@ Teori Pembelajaran Sosial Albert Bandura (1977, 1986) mengenai *Vicarious Modeli
 
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Adab Periwayatan
@@ -207,14 +203,12 @@ Repositori TUMBUH v2.0.0 menolak kedua kutub tersebut dan melakukan rekonsiliasi
 | **Kredibilitas Hukum** | Gugur di pengadilan; dianggap naskah fiksi yang tidak memiliki validitas. | Sulit diterapkan di lapangan karena tidak menyentuh akar emosi. | **Sangat Sah dan Berwibawa**: Diakui oleh auditor hukum, ahli psikologi, dan ulama syariat. |
 
 Melalui sintesis ini, naskah TUMBUH membuktikan bahwa kita tidak perlu mengorbankan rigoritas ilmiah demi keterbacaan yang hidup. Narasi di Bab 7 dan Bab 9 ditulis dengan keindahan prosa akademik yang mengalir, menggambarkan ketegangan riil asrama dengan ketelitian sensoris yang tajam, namun seluruh analisisnya terkunci rapat di dalam parameter ilmiah Functional Behavior Assessment (FBA) dan kaidah ushul hadits yang suci.
-"""
 
 open('scratch_p45_part2.py', 'w', encoding='utf-8').write(part2)
 print("P45 Part 2 written, words:", len(part2.split()))
 
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 
@@ -329,7 +323,6 @@ Prinsip anti-drama ini ditranslasikan secara langsung ke dalam prosedur operasio
 
 1. **Larangan Kosakata Emosional**: Musyrif dilarang menulis laporan dengan kata-kata subjektif seperti: "Santri X sangat kurang ajar dan menantang ustadz." Musyrif diwajibkan menulis fakta perilaku objektif: "Ketika diingatkan untuk meletakkan piring makan di rak pada pukul 07.15, santri X terdiam, menundukkan kepala, dan tidak memindahkan piringnya selama 10 menit."
 2. **Kewajiban Pencatatan Konteks Fisiologis**: Musyrif diwajibkan mencatat kondisi fisik santri sebelum insiden terjadi: apakah santri tampak pucat? Apakah santri baru saja menerima kabar duka dari keluarga? Apakah santri belum makan siang? Pencatatan konteks fisiologis ini mencegah musyrif dari kesimpulan menghakimi yang terburu-buru (*fundamental attribution error*).
-"""
 
 open('scratch_p45_part3.py', 'w', encoding='utf-8').write(part3)
 print("P45 Part 3 written, words:", len(part3.split()))
@@ -349,7 +342,6 @@ Untuk memastikan de-eskalasi narasi drama di lapangan asrama, seluruh musyrif di
 
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 
@@ -434,6 +426,8 @@ Penetapan narasi analitis objektif dan pelarangan format drama fiktif juga menye
 
 Dengan mengadopsi format analitis FBA yang dingin dan objektif, ekosistem TUMBUH membuktikan kepada dunia bahwa pesantren memiliki komitmen perlindungan anak (*child safeguarding*) yang paripurna, memadukan tuntunan syariat Islam yang luhur dengan instrumen hukum hak asasi manusia modern yang beradab.
 
+Setiap langkah intervensi dan audit di lapangan pesantren wajib berpegang teguh pada prinsip kehati-hatian syar'i (*al-ihtiyath*) dan perlindungan martabat fitrah santri secara utuh lahir dan batin, menjamin bahwa kemuliaan akhlak nabawiyyah senantiasa menjadi ruh utama dalam setiap denyut nadi pembinaan asrama 24 jam.
+
 ## 12. Penutup & Emergent Chain of Inquiry
 
 ### 12.1. Sintesis Penutup
@@ -472,7 +466,6 @@ Dengan telah terkuncinya format penyajian kasus analitis di Bab 7, perhatian ink
 [^1]: Teks kritik keras terhadap para pendongeng fiktif (*al-qushshash*) ditakhrij dari naskah tahqiq Ibnul Jawzi, *Kitab al-Qushshash wa al-Mudzakkirin*, fasal Fi Dzamm al-Qashshash wa Bayan Asbab Dzammihim, hlm. 162-165, Dar al-Kutub al-'Ilmiyyah, Bairut.
 [^2]: Hadits larangan meriwayatkan hadits yang diduga dusta ditakhrij secara sahih oleh Imam Muslim dalam *Shahih Muslim*, Mukaddimat ash-Shahih, Bab Wujub ar-Riwayah 'an ats-Tsiqat wa Tark al-Kadzdzabin, No. 1.
 \n\n[^5]: Pembahasan mengenai kaidah saddu adz-dzari'ah dan larangan sarana dusta ditelaah secara mendalam dalam Imam Ibnu Qayyim Al-Jawziyyah, *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin*, Jilid 3, fasal Tahrim ash-Shana'i' al-Mufdhiyah ila al-Fasad, hlm. 148-152, Bairut: Dar al-Kutub al-'Ilmiyyah.\n[^4]: Khutbah Haji Wada' mengenai kesucian darah, harta, dan kehormatan seorang Muslim ditakhrij secara sahih oleh Imam Al-Bukhari dalam *Shahih al-Bukhari*, Kitab al-Ilm, No. 67, dan Imam Muslim dalam *Shahih Muslim*, Kitab al-Qasamah, No. 1679.\n[^3]: Kaidah penjagaan keaslian lafazh dan keabsahan periwayatan ditelaah secara mendalam dalam Al-Hafizh Ibnu Hajar Al-Asqalani, *Nukhbat al-Fikar fi Musthalah Ahl al-Atsar*, fasal Syuruth al-Khabar ash-Shahih wa Bayan al-Mawdhu', hlm. 45-48, Dar ash-Shumai'i.
-"""
 
 open('scratch_p45_part4.py', 'w', encoding='utf-8').write(part4)
 print("P45 Part 4 written, words:", len(part4.split()))

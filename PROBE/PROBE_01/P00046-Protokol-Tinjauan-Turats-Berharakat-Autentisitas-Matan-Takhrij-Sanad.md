@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00046: Protokol Tinjauan Turats Berharakat: Autentisitas Matan, Takhrij Sanad, dan Larangan Pengutipan Teks Gundul Tanpa Syarah Otoritatif
+# P00046: Protokol Tinjauan Turats Berharakat: Autentisitas Matan, Takhrij Sanad, dan Larangan Pengutipan Teks Gundul Tanpa Syarah Otoritatif
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -72,7 +70,6 @@ Dalam arsitektur Struktur Baku 13 Bagian repositori TUMBUH v2.0.0, Bab 4 (*Tinja
 Ekosistem TUMBUH menolak keras pandangan sekuler yang memandang dalil-dalil agama sebagai sekadar "aksesoris pemanis" (*ornamental legitimization*) yang ditempelkan di awal naskah untuk menarik simpati umat Islam. Bagi ekosistem TUMBUH, teks Al-Qur'an, Hadits Nabawi, dan fatwa para ulama mu'tabar adalah sumber kebenaran ontologis dan kompas aksiologis tertinggi yang menentukan apakah sebuah intervensi asrama halal atau haram, maslahat atau mafsadat.
 
 Oleh sebab itu, kesucian sayap wahyu ini menuntut protokol penghormatan filologis yang paling ketat. Tidak boleh ada dalil yang masuk ke dalam Bab 4 naskah PROBE dalam keadaan telanjang tanpa harakat, cacat sanadnya, atau dipotong maknanya. Naskah P00046 meletakkan standar mutu filologi Islam klasik ke dalam rekayasa repositori modern: membuktikan bahwa ketelitian saintifik dan ketundukan spiritual kepada syariat Islam adalah dua sisi dari satu koin peradaban yang sama.
-"""
 
 open('scratch_p46_part1.py', 'w', encoding='utf-8').write(part1)
 print("P46 Part 1 written, words:", len(part1.split()))
@@ -85,7 +82,6 @@ Untuk meredakan disonansi kognitif yang menyiksa ini, pengasuh tersebut membuka 
 
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Kaidah Musthalah Hadits & Filologi Turats
@@ -190,14 +186,12 @@ Repositori TUMBUH v2.0.0 menolak kedua kutub sesat tersebut dan melakukan rekons
 | **Dampak bagi Asrama** | Melegitimasi kekerasan dan penindasan fisik atas nama hukum agama. | Menghilangkan ruh keberkahan dan kekeringan spiritual santri. | **Bi'ah Shalihah Paripurna**: Asrama yang berdisiplin tinggi, aman, penuh kasih sayang dan barakah ilahi. |
 
 Melalui sintesis filologi berakar maqashid ini, repositori TUMBUH membuktikan bahwa tradisi turats Islam bukanlah beban sejarah yang membelenggu, melainkan mata air peradaban yang memancarkan pencerahan akal dan keselamatan jiwa bagi seluruh umat manusia.
-"""
 
 open('scratch_p46_part2.py', 'w', encoding='utf-8').write(part2)
 print("P46 Part 2 written, words:", len(part2.split()))
 
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 
@@ -296,7 +290,6 @@ Prinsip filologi turats ini ditranslasikan menjadi protokol ketat bagi seluruh m
 
 1. **Larangan Berdalil Asal-Asalan dalam Tausiyah**: Musyrif dilarang menyampaikan hadits-hadits fadhilah amal atau ancaman siksa di hadapan santri yang bersumber dari pesan berantai media sosial tanpa verifikasi kitab aslinya. Musyrif diwajibkan merujuk pada materi kurikulum adab resmi TUMBUH yang telah tertakhrij dengan sahih.
 2. **Menolak Penggunaan Dalil untuk Menghakimi Fisik**: Jika musyrif menemukan santri melanggar aturan, musyrif dilarang menggunakan ayat Al-Qur'an atau hadits Nabi sebagai senjata verbal untuk mencaci maki martabat santri. Dalil syariat dihadirkan sebagai cahaya pengingat yang lembut (*tadzkiroh*) untuk menyentuh fitrah kesadaran santri, bukan sebagai vonis kutukan yang mematikan harapan bertaubat.
-"""
 
 open('scratch_p46_part3.py', 'w', encoding='utf-8').write(part3)
 print("P46 Part 3 written, words:", len(part3.split()))
@@ -313,7 +306,6 @@ Sebelum sebuah berkas inkuiri disahkan, tim Litbang repositori wajib mengisi for
 
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 
@@ -402,6 +394,8 @@ Sebagai langkah inovasi jangka panjang, Protokol Tinjauan Turats Berharakat ini 
 
 Sistem ini memungkinkan para perancang kurikulum dan musyrif asrama di masa depan untuk menelusuri jaringan keterkaitan tematik: menghubungkan antara hadits adab makan, hadits adab tidur, hadits adab pergaulan sebaya, dan hadits perlindungan anak dengan variabel-variabel intervensi perilaku PBIS dan neurosains modern secara terintegrasi. Dengan demikian, khazanah warisan kenabian tidak hanya tersimpan di dalam lembaran kitab kuning fisik, melainkan aktif berinteraksi dengan teknologi informasi modern untuk menerangi praktik pembinaan santri secara presisi dan berkelanjutan.
 
+Setiap langkah intervensi dan audit di lapangan pesantren wajib berpegang teguh pada prinsip kehati-hatian syar'i (*al-ihtiyath*) dan perlindungan martabat fitrah santri secara utuh lahir dan batin, menjamin bahwa kemuliaan akhlak nabawiyyah senantiasa menjadi ruh utama dalam setiap denyut nadi pembinaan asrama 24 jam.
+
 ## 12. Penutup & Emergent Chain of Inquiry
 
 ### 12.1. Sintesis Penutup
@@ -439,7 +433,6 @@ Dengan telah terkuncinya standarisasi filologi sayap pertama (wahyu dan turats k
 [^1]: Teks kewajiban dhabth kitab dengan harakat lengkap ditakhrij dari naskah tahqiq Nuruddin Itr, *Muqaddimah Ibn ash-Shalah*, Jenis Hadits ke-25: Fasal Fi Kayfiyyat Samā' al-Hadīts wa Dhabthihi, hlm. 188-192, Dar al-Fikr, Bairut.
 [^2]: Teks larangan menyimpulkan hukum tanpa mengetahui keshahihan hadits dan syarah salaf dikutip dari Imam As-Suyuthi, *Tadrib ar-Rawi*, Jilid 1, Kitab al-Muqaddimat, hlm. 72-75, Dar al-Kutub al-'Ilmiyyah, Bairut.
 \n\n[^5]: Kaidah ikhtilaf al-hadits dan larangan membenturkan riwayat hadits sahih ditakhrij dari naskah tahqiq Ahmad Syakir, Imam Asy-Syafi'i, *Ikhtilaf al-Hadits* (terlampir pada *Kitab al-Umm*), Bab Jima' al-Ikhtilaf, hlm. 42-45, Bairut: Dar al-Ma'rifah.\n[^4]: Kaidah kewajiban mengembalikan dalil partikular juz'i kepada maqashid universal kulli ditakhrij dari Imam Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Jilid 3, Kitab al-Adillah, fasal Al-Amr bi al-Kulliyyat wa al-Juz'iyyat, hlm. 18-22, Dar al-Hadits, Al-Qahirah.\n[^3]: Teks syarah Imam Al-Munawi mengenai hadits menggantungkan cemeti sebagai kewibawaan maknawi dan bukan pemukulan fisik dikutip dari *Faidh al-Qadir Syarh al-Jami' ash-Shaghir*, Jilid 4, No. Hadits 5707, hlm. 431-433, Dar al-Kutub al-'Ilmiyyah, Bairut.
-"""
 
 open('scratch_p46_part4.py', 'w', encoding='utf-8').write(part4)
 print("P46 Part 4 written, words:", len(part4.split()))

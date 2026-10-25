@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00047: Protokol Tinjauan Sains Kontemporer: Eksplorasi Neurosains, Teori Sistem, dan Eliminasi Paywall
+# P00047: Protokol Tinjauan Sains Kontemporer: Eksplorasi Neurosains, Teori Sistem, dan Eliminasi Paywall
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -75,7 +73,6 @@ Ekosistem TUMBUH menolak keras komersialisasi ilmu pengetahuan. Mengutip hadits-
 - Seluruh rujukan sains pada Bab 5 dan Bab 13 wajib diprioritaskan bersumber dari literatur **Sains Terbuka (*Open Access*)**, repositori institusi publik (seperti PubMed Central, arXiv, bioRxiv, ERIC, DOAJ), atau penerbit nirlaba.
 - Dilarang keras mencantumkan tautan DOI yang mengarahkan pembaca ke halaman pembelian kartu kredit penerbit komersial. Jika sebuah studi klasik penting berasal dari jurnal berbayar, penulis wajib menyertakan versi *open-access preprint/postprint* yang sah secara hukum hak cipta atau menguraikan data metodologi dan temuannya secara transparan di dalam naskah, sehingga pembaca dapat mengaudit kebenarannya tanpa mengeluarkan uang sepeser pun.
 - Seluruh klaim sains wajib disaring melalui rigoritas neurosains kognitif murni: membabat habis neuromitos dan memfokuskan penyelidikan pada sunnatullah biologi fitrah yang nyata demi memuliakan martabat anak di asrama 24 jam.
-"""
 
 open('scratch_p47_part1.py', 'w', encoding='utf-8').write(part1)
 print("P47 Part 1 written, words:", len(part1.split()))
@@ -88,7 +85,6 @@ Celah kelemahan inilah yang dieksploitasi secara licik. Para promotor membungkus
 
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Falsafah Ilmu Terbuka
@@ -198,14 +194,12 @@ Repositori TUMBUH v2.0.0 menolak kedua kutub tersebut dan melakukan rekonsiliasi
 | **Dampak bagi Pesantren** | Pesantren terbelakang, kumuh, dan mengabaikan kesehatan fisik santri. | Pesantren kehilangan ruh keislaman dan menjadi pabrik sekuler mekanistik. | **Pesantren Berperadaban Unggul**: Memadukan kesucian wahyu nabawi dengan kemajuan sains terbuka terdepan. |
 
 Melalui sintesis ini, ekosistem TUMBUH membuktikan bahwa sains modern bukanlah milik eksklusif peradaban Barat; sains adalah hikmah yang tercecer milik kaum Mukmin di mana pun berada. Dengan membuka aksesnya secara bebas dan membersihkannya dari racun materialisme sekuler, sains empiris kembali pada fungsinya yang paling mulia: menjadi pelayan bagi penegakan adab dan pemuliaan fitrah kemanusiaan santri di hadapan Allah Ta'ala.
-"""
 
 open('scratch_p47_part2.py', 'w', encoding='utf-8').write(part2)
 print("P47 Part 2 written, words:", len(part2.split()))
 
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 ## 7. Pembahasan Analitis & Bedah Kasus Tata Kelola Sitasi / Asrama
@@ -297,7 +291,6 @@ Protokol kurasi sains ini juga menjadi panduan wajib bagi pimpinan pesantren ket
 
 1. **Uji "Show Me the Science"**: Pimpinan pesantren wajib meminta konsultan untuk menunjukkan minimal 3 artikel jurnal peer-review internasional yang mendukung efektivitas program mereka. Jika konsultan hanya menyodorkan testimoni alumni atau sertifikat pelatihan pribadi, tawaran tersebut wajib ditolak secara diplomatis.
 2. **Penolakan Pemindaian Biometrik Abal-Abal**: Pesantren dilarang keras memfasilitasi program pemindaian sidik jari (*fingerprint test*) atau pemindaian iris mata yang mengklaim dapat membaca bakat moral dan kecerdasan santri. Pendekatan semacam ini adalah pseudosains murni yang merusak akidah tawakal dan menyebarkan determinisme biologis palsu di kalangan santri.
-"""
 
 open('scratch_p47_part3.py', 'w', encoding='utf-8').write(part3)
 print("P47 Part 3 written, words:", len(part3.split()))
@@ -315,7 +308,6 @@ Sebagai translasi konkret dari temuan neurosains Bab 5 ke dalam tata kelola hari
 
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 ### 9.3 Algoritma Pengambilan Keputusan Klinis Musyrif Berbasis Bukti Lapangan
@@ -420,6 +412,8 @@ Untuk menjamin keberlanjutan integritas repositori TUMBUH dari kontaminasi reduk
 2. **Uji Validitas Replikasi Empiris**: Mengeliminasi rujukan sains kontemporer yang gagal melewati krisis replikasi (*replication crisis*) atau yang ditarik (*retracted*) oleh jurnal penerbitnya, dengan menggantikannya secara berkala menggunakan studi meta-analisis berskala besar.
 3. **Penyelarasan Bahasa Pedagogis**: Memastikan bahwa diksi teknis neurosains tidak mengasingkan para asatidzah dan santri di lapangan pesantren, melainkan diterjemahkan ke dalam bahasa hikmah yang menguatkan adab, kebersihan jiwa, dan ukhuwah islamiyyah.
 
+Setiap langkah intervensi dan audit di lapangan pesantren wajib berpegang teguh pada prinsip kehati-hatian syar'i (*al-ihtiyath*) dan perlindungan martabat fitrah santri secara utuh lahir dan batin, menjamin bahwa kemuliaan akhlak nabawiyyah senantiasa menjadi ruh utama dalam setiap denyut nadi pembinaan asrama 24 jam.
+
 ## 12. Penutup & Emergent Chain of Inquiry
 
 ### 12.1. Sintesis Penutup
@@ -455,7 +449,6 @@ Dengan telah tegaknya standarisasi Sayap Pertama (Wahyu Turats Klasik pada P0004
 ### Catatan Kaki (*Footnotes*) Apparatus
 [^1]: Hadits mengenai ancaman tali kekang api neraka bagi orang yang menyembunyikan ilmu ditakhrij secara sahih oleh Imam Abu Dawud dalam *Sunan Abi Dawud*, Kitab al-'Ilm, Bab al-Hats 'ala Nasyri al-'Ilm, No. 3658, dan Imam At-Tirmidzi dalam *Jami' at-Tirmidzi*, No. 2649.
 \n[^3]: Tafsir ayat-ayat kauniyyah dan kewajiban meneliti keajaiban tubuh dan saraf manusia ditakhrij dari Imam Fakhruddin Ar-Razi, *Mafatih al-Ghaib (At-Tafsir al-Kabir)*, Jilid 2, Tafsir Surah Al-Baqarah Ayat 164, hlm. 172-175, Bairut: Dar al-Fikr.\n[^2]: Teks syarat wakaf perpustakaan Islam dan keharaman memonopoli kitab dikutip dari Imam Tajuddin As-Subki, *Thabaqat asy-Syafi'iyyah al-Kubra*, Jilid 6, fasal Tarjamah al-Waqifin wa Syuruth al-Madaris, hlm. 142-145, Dar Ihya' al-Kutub al-'Arabiyyah.
-"""
 
 open('scratch_p47_part4.py', 'w', encoding='utf-8').write(part4)
 print("P47 Part 4 written, words:", len(part4.split()))

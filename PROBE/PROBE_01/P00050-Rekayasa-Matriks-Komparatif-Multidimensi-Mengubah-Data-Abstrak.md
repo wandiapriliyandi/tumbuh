@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Part 1 for P00050: Bab 1, Bab 2, Bab 3"""
-
 # P00050: Rekayasa Matriks Komparatif Multidimensi: Mengubah Data Abstrak Menjadi Tabel Analitis Operasional
 
 ## 1. Metadata & Identitas Dokumen Inkuiri
@@ -61,7 +58,6 @@ Musyrif membutuhkan instrumen visual berdensitas data tinggi: sebuah **Matriks K
 Repositori TUMBUH v2.0.0 menetapkan bahwa Bagian 8 di setiap berkas inkuiri PROBE adalah **Jembatan Epistemik Operasional**. Bagian 8 bertugas mengekstraksi seluruh perdebatan filosofis dari Bagian 2 sampai Bagian 6, lalu memadatkannya menjadi matriks komparatif yang tajam, ortogonal, dan bebas dari ambiguitas kata.
 
 Monograf P00050 ini membongkar rancang bangun metodologi rekayasa tabel tersebut: bagaimana memilih parameter sumbu kolom dan baris yang ortogonal, bagaimana menghindari oversimplifikasi reduksionistis, bagaimana menyusun indikator perilaku berjangkar (*Behaviorally Anchored Rating Scales / BARS*), dan bagaimana memastikan tabel Markdown yang dihasilkan sepenuhnya mematuhi prinsip anti-box drawing demi portabilitas digital repositori.
-'''
 
 open('scratch_p50_part1.py', 'w', encoding='utf-8').write(p50_part1)
 print("Wrote scratch_p50_part1.py successfully.")
@@ -222,7 +218,6 @@ Metodologi Al-Jam'u wat-Taufiq merekonsiliasi dialektika ini melalui pemahaman p
 | **Wilayah Gerak Batiniah (*Al-Bathin*)** | Tidak diatur oleh matriks: keikhlasan niat, kehangatan empati guru, doa sepertiga malam, dan sentuhan nasihat qalbiyah. | Musyrif tetap memancarkan cinta kasih nabawiyyah (*tarbiyah bil-hal*) yang melampaui formalitas tabel. |
 
 Matriks komparatif tidak pernah berniat menggantikan kedudukan cinta kasih pendidik; matriks komparatif hadir untuk **memagari cinta kasih tersebut agar tidak dibajak oleh luapan amarah hawa nafsu**. Ketika musyrif marah, matriks komparatif memegang tangannya agar tidak memukul; ketika musyrif bingung, matriks komparatif menunjukkan jalan intervensi yang paling maslahat bagi jiwa santri.
-'''
 
 open('scratch_p50_part2.py', 'w', encoding='utf-8').write(p50_part2)
 print("Wrote scratch_p50_part2.py successfully.")
@@ -365,7 +360,6 @@ Sebelum matriks disahkan ke dalam dokumen operasional `03_OPERATIONAL/`, draf ma
 - Apakah musyrif dapat menemukan protokol kasus tertentu dalam waktu kurang dari 30 detik?
 - Apakah musyrif memiliki penafsiran yang sama (100% konsisten) terhadap langkah yang harus diambil saat membaca matriks tersebut?
 - Jika masih terjadi keraguan atau multi-tafsir, redaksi sel tabel wajib disederhanakan kembali.
-'''
 
 open('scratch_p50_part3.py', 'w', encoding='utf-8').write(p50_part3)
 print("Wrote scratch_p50_part3.py successfully.")
@@ -498,7 +492,6 @@ Dengan telah tuntasnya peletakan metodologi perancangan matriks komparatif multi
 - Zwicky, F. (1969). *Discovery, Invention, Research Through the Morphological Approach*. Macmillan.
 
 ---
-'''
 
 open('scratch_p50_part4.py', 'w', encoding='utf-8').write(p50_part4)
 print("Wrote scratch_p50_part4.py successfully.")

@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-"""Part 1 for P00049: Bab 1, Bab 2, Bab 3"""
-
 # P00049: Anatomi Studi Kasus Tata Kelola Kelembagaan: Membedah Antecedents, Setting Events, dan Relasi Kuasa
 
 ## 1. Metadata & Identitas Dokumen Inkuiri
@@ -57,7 +54,6 @@ Apakah keributan tersebut semata-mata karena "Zaid dan Bakr berhati jahat"? Tent
 Repositori TUMBUH v2.0.0 menetapkan bahwa Bagian 7 di setiap berkas inkuiri PROBE bukanlah sekadar "kumpulan cerita ilustrasi dongeng" atau anekdot tanpa dasar. Bagian 7 adalah **Laboratorium Uji Klinis Arsitektur**: sebuah instrumen empiris yang membedah bagaimana teori fundamental filosofis diuji pada realitas benturan asrama yang berdarah dan penuh dinamika.
 
 Tanpa adanya metodologi bedah kasus yang baku, berkas inkuiri akan terjerumus ke dalam retorika normatif yang indah di atas kertas namun mandul di lapangan. Monograf P00049 ini menyajikan standar kanonik tentang bagaimana sebuah kasus asrama dibedah secara struktural menggunakan instrumen FBA (*Functional Behavior Assessment*), peta ekologi sosial, dan kaidah fiqh peradilan Islam, sehingga menghasilkan rekomendasi rekayasa sistem yang menyembuhkan institusi secara menyeluruh.
-'''
 
 open('scratch_p49_part1.py', 'w', encoding='utf-8').write(p49_part1)
 print("Wrote scratch_p49_part1.py successfully.")
@@ -207,7 +203,6 @@ Metodologi Al-Jam'u wat-Taufiq mendamaikan ketegangan ini melalui doktrin **Kead
 Dalam protokol TUMBUH:
 1. **Terhadap Santri Pelanggar**: Lembaga tidak menghukum santri dengan rasa sakit retributif (pukulan, jemuran, botak), melainkan membimbing santri melalui proses peradilan restoratif (*Ishlah wa Istihqaq*). Santri wajib memulihkan luka korban, mengganti barang yang rusak dari tabungannya sendiri, dan menjalani program pembiasaan adab terbimbing. Santri ditegakkan kedewasaannya sebagai mukalaf yang bertanggung jawab di hadapan Allah Ta'ala.
 2. **Terhadap Manajemen Lembaga**: Dewan Pembina dan Manajemen Asrama menandatangani komitmen perbaikan struktural dalam tempo 7x24 jam. Jika perkelahian dipicu oleh rusaknya sanitasi, pimpinan sarana prasarana dijatuhi sanksi administratif dan fasilitas wajib diperbaiki tuntas. Lembaga tidak boleh tidur nyenyak setelah menghukum santri, sementara mesin pemicu masalah tetap beroperasi di balik dinding asrama.
-'''
 
 open('scratch_p49_part2.py', 'w', encoding='utf-8').write(p49_part2)
 print("Wrote scratch_p49_part2.py successfully.")
@@ -359,7 +354,6 @@ Musyrif membagi tindakan menjadi dua jalur berkeadilan:
 Musyrif melatih dan memperkuat perilaku pengganti yang sehat:
 - Jika santri melanggar karena butuh perhatian, musyrif memberikan peran kepemimpinan positif (misalnya: ditunjuk sebagai penanggung jawab kebersihan musholla kamar).
 - Menghadirkan rasio apresiasi verbal minimal 4 kali penguatan positif untuk setiap 1 kali koreksi adab.
-'''
 
 open('scratch_p49_part3.py', 'w', encoding='utf-8').write(p49_part3)
 print("Wrote scratch_p49_part3.py successfully.")
@@ -493,7 +487,6 @@ Dengan telah tuntasnya peletakan metodologi anatomi studi kasus kelembagaan pada
 - Wilson, J. Q., & Kelling, G. L. (1982). Broken windows: The police and neighborhood safety. *The Atlantic Monthly*, 249(3), 29-38.
 
 ---
-'''
 
 open('scratch_p49_part4.py', 'w', encoding='utf-8').write(p49_part4)
 print("Wrote scratch_p49_part4.py successfully.")

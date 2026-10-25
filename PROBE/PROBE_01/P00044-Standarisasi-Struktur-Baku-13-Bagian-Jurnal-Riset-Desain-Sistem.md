@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00044: Standarisasi Struktur Baku 13 Bagian Jurnal Riset Desain Sistem: Mengapa Seluruh Berkas Penyelidikan Wajib Tunduk pada Format Monograf yang Rigorous dan Menolak Mutlak Draf Dangkal yang Prematur
+# P00044: Standarisasi Struktur Baku 13 Bagian Jurnal Riset Desain Sistem: Mengapa Seluruh Berkas Penyelidikan Wajib Tunduk pada Format Monograf yang Rigorous dan Menolak Mutlak Draf Dangkal yang Prematur
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -79,7 +77,6 @@ Oleh sebab itu, arsitektur TUMBUH v2.0.0 menetapkan secara absolut bahwa setiap 
 - Bab 12 dan Bab 13 menjaga keterbukaan rantai inkuiri masa depan dan kejujuran sitasi.
 
 Tidak boleh ada satu pun bab yang dipotong atau dihilangkan. Jika sebuah naskah kehilangan satu bab saja, maka sirkuit kebenaran tersebut terputus, dan naskah tersebut dinyatakan cacat secara arsitektur!
-"""
 
 open('scratch_p44_part1.py', 'w', encoding='utf-8').write(part1)
 print("P44 Part 1 written, words:", len(part1.split()))
@@ -92,7 +89,6 @@ Akibat dari erosi kapasitas monografis ini sangat mengerikan bagi tata kelola as
 
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Sistematika Kitab Ilmiah dalam Turats Islam
@@ -212,14 +208,12 @@ Repositori TUMBUH v2.0.0 menolak kedua kutub ekstrem tersebut dan melakukan reko
 | **Daya Tahan Sistemik** | Sangat rapuh; mudah runtuh dan cepat usang dalam hitungan bulan. | Membeku di perpustakaan tanpa pernah mengubah sistem asrama. | **Resilien dan Abadi**: Menjadi fondasi peradaban pesantren yang teruji lintas generasi. |
 
 Melalui sintesis ini, Struktur Baku 13 Bagian membuktikan bahwa sebuah naskah yang panjang (>8.500 kata) tidak harus menjadi naskah yang membosankan. Jika naskah tersebut disusun dengan hierarki retoris yang tajam, setiap bab memberikan nilai tambah epistemik yang unik, saling menyangga, dan menghadirkan solusi konkret yang sangat dinantikan oleh para pendidik di lapangan.
-"""
 
 open('scratch_p44_part2.py', 'w', encoding='utf-8').write(part2)
 print("P44 Part 2 written, words:", len(part2.split()))
 
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 
@@ -349,7 +343,6 @@ Jika dalam proses peninjauan naskah ditemukan ketidakpatuhan terhadap checklist 
 1. **Status Pembekuan Naskah**: Draf naskah diberi label `ARCHITECTURAL REVISION REQUIRED` dan dilarang untuk di-merge ke branch `v2.0.0`.
 2. **Identifikasi Bab yang Cacat**: Auditor menandai secara spesifik bab mana yang mengalami defisit substantif atau pelanggaran format.
 3. **Pemberian Waktu Pengayaan Substantif**: Penulis diberikan panduan referensi tambahan (dari khazanah turats atau jurnal empiris) untuk memperdalam analisis hingga melampaui ambang batas 8.500 kata dan memenuhi seluruh kriteria mutu kanonik.
-"""
 
 open('scratch_p44_part3.py', 'w', encoding='utf-8').write(part3)
 print("P44 Part 3 written, words:", len(part3.split()))
@@ -365,7 +358,6 @@ Bagaimanakah alur kerja operasional seorang kontributor repositori dalam menyusu
 
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 ## 10. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
@@ -480,7 +472,6 @@ Dengan telah terkuncinya anatomi 13 bagian baku ini, perhatian inkuiri melangkah
 ### Catatan Kaki (*Footnotes*) Apparatus
 [^1]: Teks larangan menyusun karya prematur (*al-ibtisar fi at-ta'lif*) ditakhrij dari naskah tahqiq Al-Khatib Al-Baghdadi, *Al-Jami' li Akhlaq ar-Rawi wa Adab as-Sami'*, Jilid 2, fasal fi ifrad al-kutub wa tahdzib ar-rasa'il, hlm. 288-291, Maktabat al-Ma'arif, Ar-Riyadh.
 \n[^3]: Teks doktrin tujuh tujuan penulisan ilmiah (*ghayat al-mu'allifin as-sab'ah*) ditakhrij dari naskah tahqiq Haji Khalifah, *Kasyf azh-Zhunun 'an Asami al-Kutub wa al-Funun*, Jilid 1, Muqaddimat al-Kitab, hlm. 35-38, Istanbul: Mathba'at Wizarat al-Ma'arif.\n[^2]: Teks komitmen metodologis sistematika kitab quoted from Imam An-Nawawi, *Al-Majmu' Syarh al-Muhadzdzab*, Jilid 1, Mukaddimat al-Mushannif, hlm. 17-19, Dar Ihya' at-Turats al-'Arabi, Bairut.
-"""
 
 open('scratch_p44_part4.py', 'w', encoding='utf-8').write(part4)
 print("P44 Part 4 written, words:", len(part4.split()))

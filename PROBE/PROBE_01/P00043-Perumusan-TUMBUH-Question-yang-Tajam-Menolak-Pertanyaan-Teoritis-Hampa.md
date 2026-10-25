@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-
-part1 = """# P00043: Perumusan TUMBUH Question yang Tajam: Menolak Pertanyaan Teoretis Hampa Demi Menghasilkan Keputusan Sistem yang Menggigit
+# P00043: Perumusan TUMBUH Question yang Tajam: Menolak Pertanyaan Teoretis Hampa Demi Menghasilkan Keputusan Sistem yang Menggigit
 
 > **Repository Root**: `c:\\xampp\\htdocs\\tumbuh`  
 > **Directory**: `PROBE/PROBE_01/`  
@@ -82,13 +80,11 @@ Sebuah *TUMBUH Question* menolak keras bentuk pertanyaan tunggal yang deskriptif
 Melalui formula trilogi ini, *TUMBUH Question* menjelma menjadi mata panah yang tajam: ia tidak memberi ruang bagi pembelaan klise, ia menguliti kemunafikan birokrasi, dan ia secara niscaya memaksa seluruh komponen data di dalam berkas untuk bermuara pada keputusan rekayasa sistem yang menyelamatkan martabat kemanusiaan santri di asrama 24 jam. 
 Formula trilogi ini menjamin bahwa tidak ada satu pun pertanyaan yang diajukan tanpa memiliki arah pertanggungjawaban yang jelas kepada peningkatan kesejahteraan moral, fisik, dan spiritual seluruh warga pesantren.
 
-"""
 
 open('scratch_p43_part1.py', 'w', encoding='utf-8').write(part1)
 print("P43 Part 1 written, words:", len(part1.split()))
 # -*- coding: utf-8 -*-
 
-part2 = """
 ---
 
 ## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Seni Bertanya Ilmiah
@@ -205,13 +201,11 @@ Repositori TUMBUH v2.0.0 melakukan rekonsiliasi metodologis melalui prinsip *Al-
 | **Dampak bagi Pendidik** | Pendidik terlena dalam ilusi kesalehan palsu. | Pendidik marah, defensif, dan menolak seluruh pembaruan. | Pendidik tercerahkan, sadar diri, dan termotivasi melakukan perbaikan (*ishlah*). |
 
 Melalui sintesis ini, *TUMBUH Question* tidak hadir untuk mencela atau menghakimi para musyrif dan kiai, melainkan hadir sebagai sahabat sejati yang membisikkan kebenaran yang pahit demi menyelamatkan bahtera pesantren dari karamnya kemunduran zaman.
-"""
 
 open('scratch_p43_part2.py', 'w', encoding='utf-8').write(part2)
 print("P43 Part 2 written, words:", len(part2.split()))
 # -*- coding: utf-8 -*-
 
-part3 = """
 ---
 
 
@@ -326,13 +320,11 @@ Prinsip *TUMBUH Question* tidak hanya berlaku di atas kertas repositori, melaink
    - *"Menurutmu, nilai kebaikan apa yang sedang terluka di antara kalian berdua saat ini?"*
    - *"Langkah konkret apa yang dapat kamu lakukan sekarang untuk menyembuhkan luka tersebut dan memulihkan ukhuwah di antara kalian?"*
 3. **Internalisasi Regulasi Diri (*Self-Regulation Autonomy*)**: Melalui seni bertanya reflektif ini, santri tidak merasa diadili oleh kekuasaan otoriter, melainkan dibimbing untuk menjadi hakim atas nuraninya sendiri. Kepatuhan yang lahir bukan kepatuhan karena takut hukuman fisik, melainkan kepatuhan sejati yang berakar pada kesadaran adab dan rasa malu kepada Allah Subhanahu wa Ta'ala.
-"""
 
 open('scratch_p43_part3.py', 'w', encoding='utf-8').write(part3)
 print("P43 Part 3 written, words:", len(part3.split()))
 # -*- coding: utf-8 -*-
 
-part4 = """
 ---
 
 
@@ -460,7 +452,6 @@ Dengan telah terkuncinya formula trilogi *TUMBUH Question* sebagai mata panah in
 ### Catatan Kaki (*Footnotes*) Apparatus
 [^1]: Atsar Abdullah bin Abbas mengenai lisan yang gemar bertanya dan kalbu yang reflektif serta sabda Al-Hasan Al-Bashri ditakhrij dari naskah tahqiq Al-Khatib Al-Baghdadi, *Al-Faqih wa al-Mutafaqqih*, Jilid 2, Bab Husn as-Su'al wa Adab al-Mutafaqqih, hlm. 142-145, Dar Ibn al-Jawzi.
 \n\n[^4]: Hadits Jibril ditakhrij secara sahih oleh Imam Muslim dalam *Shahih Muslim*, Kitab al-Iman, Bab Bayan al-Iman wa al-Islam wa al-Ihsan, No. 8.\n[^3]: Hadits mengenai hakikat orang yang bangkrut (*al-muflis*) ditakhrij secara sahih oleh Imam Muslim dalam *Shahih Muslim*, Kitab al-Birr wa ash-Shilah wa al-Adab, Bab Tahrim azh-Zhulm, No. 2581.\n[^2]: Pembahasan mengenai klasifikasi su'al at-ta'annut versus su'al at-tafaqquh dikutip dari Imam Al-Ghazali, *Ihya' 'Ulum ad-Din*, Jilid 1, Kitab al-'Ilm, Bab Adab al-Mu'allim wa al-Muta'allim, hlm. 78-81, Dar asy-Sya'b, Al-Qahirah.
-"""
 
 open('scratch_p43_part4.py', 'w', encoding='utf-8').write(part4)
 print("P43 Part 4 written, words:", len(part4.split()))
