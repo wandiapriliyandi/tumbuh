@@ -391,8 +391,6 @@ canonical_decision: OFFICIALLY RATIFIED & LINKED TO REPOSITORY BASELINE
 ---
 ```
 
----
-
 ### 9.6. Spesifikasi Rekayasa Sistem: Logika Penjangkaran Deduktif & Matriks Verifikasi Fondasi
 
 Sebagai naskah monograf ilmiah desain sistem, penegakan prinsip *Foundation-First* tidak dituangkan dalam bentuk skrip program mentah di dalam teks, melainkan dikodifikasikan melalui **Spesifikasi Formal Logika Penjangkaran Deduktif (Deductive Anchoring Logic Specification)** yang menjadi panduan arsitektural bagi fungsi kebugaran otomatis (*Architectural Fitness Function*) repositori:
