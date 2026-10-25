@@ -658,49 +658,23 @@ Untuk menjamin agar kesepuluh guardrails standarisasi slug ditaati secara mutlak
     - Seluruh standar penamaan berkas ditetapkan di bawah naungan sah Majelis Pengasuh Pondok Pesantren dan Dewan Asatidz. Dilarang keras personifikasi fiktif AI.
 
 
-
-### 11.4 Deklarasi Penutupan Pilar 5: Kedaulatan Tata Kelola Identitas Repositori
-
-Dengan disahkannya inkuiri P00069 ini, Majelis Pengasuh Pondok Pesantren secara resmi mendeklarasikan bahwa seluruh arsitektur **Pilar 5 (Tata Kelola Identitas, Penomoran, & Traceability)** telah tuntas secara sempurna dan berstatus `CANONICAL BASELINE`:
-
-1. **Keterkaitan Sistemik 15 Naskah Pilar 5**:
-   - `P00055`: Standarisasi Identifier 5-Digit Kanonik (`P00000` s/d `P00946`).
-   - `P00056`: Demarkasi Identitas vs Jalur Direktori (*Identity vs Path*).
-   - `P00057`: Demarkasi Identitas vs Versi Rilis (*Identity vs Version*).
-   - `P00058`: Demarkasi Identitas vs Status Siklus Hidup (*Identity vs Lifecycle*).
-   - `P00059`: Manajemen Ruang Kosong Penomoran (*Handling Numerical Gaps*).
-   - `P00060`: Protokol Pengarsipan Dokumen Usang (*Deprecation Protocol*).
-   - `P00061`: Tata Kelola Rujukan Silang (*Cross-Reference Integrity*).
-   - `P00062`: Keterlacakan Sanad Intelektual Dua Arah (*Bidirectional Lineage*).
-   - `P00063`: Penyusunan Matriks Keterlacakan Kebutuhan (RTM).
-   - `P00064`: Mekanisme Promosi Keputusan (Provisional ke Canonical).
-   - `P00065`: Menjaga Integritas Sanad Pergantian Kontributor.
-   - `P00066`: Otomasi Pemeliharaan Indeks dan Katalog Referensi.
-   - `P00067`: Audit Kepatuhan Format Identifier Kanonik.
-   - `P00068`: Protokol Penyelesaian Sengketa Identitas.
-   - `P00069`: Standarisasi Penamaan Slug Berkas Fisik Markdown.
-
-Seluruh naskah di atas saling mengunci, saling memvalidasi, dan membentuk satu ekosistem tata kelola pengetahuan pesantren yang belum pernah ada tandingannya dalam sejarah pendidikan Islam modern.
+### 11.4. Tata Kelola Siklus Hidup dan Proteksi Nama Berkas
+Implementasi penamaan slug berkas fisik Markdown diikat oleh protokol ketat:
+1. **Imutabilitas Slug Kanonik**: Berkas yang telah mencapai status `CANONICAL` dilarang diubah slug fisiknya guna mencegah fenomena tautan rusak (*broken hyperlinks*) pada referensi eksternal maupun internal repositori.
+2. **Penolakan Otomatis Linter CI/CD**: Skrip otomasi repositori memvalidasi setiap *pull request* untuk memastikan seluruh nama berkas baru mematuhi aturan huruf kecil, tanda hubung tunggal, ketiadaan karakter khusus, dan panjang slug yang proporsional.
+3. **Penyelarasan dengan Dokumen Indeks (README)**: Inventarisasi dan pemetaan status seluruh naskah dipusatkan secara eksklusif pada dokumen indeks induk (`README.md` dan dokumen rencana rekonstruksi), menjaga berkas monograf inkuiri tetap fokus pada substansi analitis tanpa terdistorsi oleh duplikasi katalog naskah.
 
 ## 12. Penutup & Emergent Chain of Inquiry
 
 ### 12.1. Sintesis Penutup
-Standarisasi Penamaan Slug File Markdown adalah batu kunci (*capstone*) yang menyempurnakan seluruh bangunan Pilar 5 (Tata Kelola Identitas, Penomoran, & Traceability) dalam repositori TUMBUH v2.0.0. Dari inkuiri P00055 mengenai alokasi identifier 5-digit, pemisahan identitas dari jalur fisik (P00056), versi rilis (P00057), dan status siklus hidup (P00058), penanganan celah nomor (P00059), pengarsipan dokumen usang (P00060), integritas rujukan silang (P00061), sanad dwiarah (P00062), matriks keterlacakan RTM (P00063), gerbang promosi keputusan (P00064), preservasi sanad kontributor (P00065), otomasi katalog (P00066), audit format identifier (P00067), arbitrase sengketa (P00068), hingga standarisasi slug lintas platform (P00069)—seluruhnya terangkai dalam satu kesatuan arsitektur yang harmonis, tangguh, dan bermartabat.
+Standarisasi Penamaan Slug File Markdown adalah batu kunci (*capstone*) yang menyempurnakan seluruh bangunan tata kelola identitas, penomoran, keterlacakan sanad, dan penamaan berkas fisik pada repositori TUMBUH v2.0.0. Dari inkuiri penomoran 5-digit, pemisahan identitas dari jalur fisik, versi rilis, dan status siklus hidup, penanganan celah nomor, pengarsipan dokumen usang, integritas rujukan silang, sanad dwiarah, matriks keterlacakan RTM, gerbang promosi keputusan, preservasi sanad kontributor, otomasi katalog, audit format identifier, arbitrase sengketa, hingga standarisasi slug lintas platform—seluruhnya terangkai dalam satu kesatuan arsitektur yang harmonis, tangguh, dan bermartabat.
 
-Dengan mengunci keteraturan tata kelola identitas pada Pilar 5 ini, pondok pesantren membuktikan bahwa tradisi ketelitian para ulama salafush shalih dalam merawat kemurnian ilmu dapat dihadirkan kembali secara gilang-gemilang dalam era kecerdasan digital. Pondasi identitas yang kokoh ini menjadi landasan pacu yang kokoh bagi repositori TUMBUH untuk melangkah menuju Pilar 6: penyelidikan mendalam mengenai hakikat bukti empiris, epistemologi klaim ilmiah, dan metodologi riset kepesantrenan.
+Dengan mengunci keteraturan tata kelola identitas ini, pondok pesantren membuktikan bahwa tradisi ketelitian para ulama salafush shalih dalam merawat kemurnian ilmu dapat dihadirkan kembali secara gilang-gemilang dalam era kecerdasan digital. Pondasi identitas yang kokoh ini menjadi landasan pacu bagi repositori TUMBUH untuk melangkah menuju ranah epistemologi bukti empiris, pengujian klaim ilmiah, dan metodologi riset kepesantrenan yang beradab.
 
-
-Standarisasi penamaan slug berkas fisik Markdown ini menjadi penutup yang sempurna bagi seluruh rangkaian penyelidikan arsitektur pada Pilar 5 repositori TUMBUH v2.0.0. Dari nomor P00055 hingga P00069, kita telah meletakkan batu-batu pondasi tata kelola identitas, penomoran, keterlacakan sanad, dan penamaan berkas yang kokoh, rapi, dan berwibawa tinggi.
-
-Dengan rasa syukur yang mendalam ke hadirat Allah Subhanahu wa Ta'ala, seluruh jajaran pengasuh, asatidz, peneliti, dan pengembang sistem melangkah mantap meninggalkan gerbang Pilar 5 untuk memasuki gerbang **Pilar 6: Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah (P00070 s/d P00084)**. Semoga Allah SWT senantiasa meridhai setiap tetes keringat perjuangan kita dalam membangun peradaban pendidikan santri yang jaya, mulia, dan memancarkan cahaya kebenaran ke seluruh penjuru dunia.  Penutupan Pilar 5 ini menjadi bukti nyata keberhasilan konsorsium pesantren dalam menegakkan tata kelola pengetahuan modern yang berakar kokoh pada syariat Islam.
-
-
-Segala puji bagi Allah Subhanahu wa Ta'ala, Tuhan semesta alam, yang dengan nikmat dan taufiq-Nya sempurnalah seluruh amal kebajikan. Penutupan Pilar 5 melalui inkuiri P00069 ini adalah kemenangan peradaban keilmuan pesantren atas kekacauan tata kelola digital.
-
-Kini, dengan struktur penomoran yang rapi, sanad keterlacakan yang bersambung, dan nama berkas yang tangguh melintasi sistem operasi, repositori TUMBUH v2.0.0 siap melangkah mantap memasuki gerbang **Pilar 6: Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah (P00070 s/d P00084)**. Di sana, kita akan membedah bagaimana bukti-bukti syar'i dan temuan ilmiah empiris diramu menjadi panduan hidup santri yang membumi, kokoh, dan berdaya ubah tinggi bagi peradaban dunia.
+Kini, dengan struktur penomoran yang rapi, sanad keterlacakan yang bersambung, dan nama berkas yang tangguh melintasi sistem operasi, repositori TUMBUH v2.0.0 siap melangkah mantap memasuki gerbang inkuiri berikutnya. Di sana, kita membedah bagaimana bukti-bukti syar'i dan temuan ilmiah empiris diramu menjadi panduan hidup santri yang membumi, kokoh, dan berdaya ubah tinggi bagi peradaban dunia.
 
 ### 12.2. Emergent Research Questions (Menuju Pilar 6: P00070)
-Dengan tuntasnya seluruh arsitektur identitas dan penomoran pada Pilar 5 (P00069), penyelidikan metodologis repositori TUMBUH v2.0.0 secara organik melangkah menuju gerbang pembuka **Pilar 6: Epistemologi Bukti (Evidence), Claim, & Riset Ilmiah**, yang melahirkan pertanyaan epistemik berikutnya:
+Dengan tuntasnya seluruh arsitektur identitas dan penomoran (P00069), penyelidikan metodologis repositori TUMBUH v2.0.0 secara organik melangkah menuju gerbang pembuka penyelidikan epistemologi bukti, klaim, dan riset ilmiah, yang melahirkan pertanyaan epistemik berikutnya:
 1. *Bagaimanakah merumuskan Epistemologi Bukti (Evidence Taxonomy) di lingkungan pesantren yang mampu memadukan secara harmonis antara bukti nash syar'i (bayyinah naqliyyah), temuan sains empiris modern (empirical evidence), dan persaksian pengamatan musyrif 24 jam (field observation data)?*
 2. *Kriteria demarkasi apa yang membedakan secara tegas antara 'klaim fatwa normatif', 'hipotesis inkuiri pedagogis', dan 'fakta perilaku santri' agar repositori terbebas dari bahaya overclaiming dan manipulasi data?*
 

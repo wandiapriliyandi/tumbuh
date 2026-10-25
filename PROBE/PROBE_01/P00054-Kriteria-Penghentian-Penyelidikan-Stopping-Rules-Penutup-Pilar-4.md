@@ -289,29 +289,15 @@ INQUIRY CLOSURE PIPELINE
 4. **Tahap 4: Ratifikasi ADR dan Pembekuan Kanonik (ADR Sign-off & Lock)**:
    Majelis Pengasuh Pesantren menandatangani blok ADR pada Bab 10, status berkas diubah menjadi `CANONICAL / DEFINITIVE`, dan berkas dikunci dari pengeditan spekulatif lanjutan.
 
-### 9.2. Deklarasi Tuntasnya Pilar 4 Mesin Penyelidikan PROBE
-Dengan disahkannya `P00054`, seluruh rangkaian 15 berkas pada **Pilar 4 (Mesin Penyelidikan PROBE / Inquiry Engine)** dinyatakan selesai 100%:
-- `P00040`: Hakikat PROBE sebagai Mesin Penyelidikan Dialektis;
-- `P00041`: Metodologi Emergent Reasoning yang Organik;
-- `P00042`: Kedudukan Object of Inquiry sebagai Jangkar Sistem;
-- `P00043`: Perumusan TUMBUH Question yang Tajam;
-- `P00044`: Standarisasi Struktur Baku 13 Bagian Jurnal Riset;
-- `P00045`: Larangan Mutlak Format Naskah Drama / Skrip Sandiwara;
-- `P00046`: Protokol Tinjauan Turats Berharakat Lengkap;
-- `P00047`: Protokol Tinjauan Sains Bebas Paywall Komersial;
-- `P00048`: Rekonsiliasi Epistemik Dua Sayap (Al-Jam'u wat-Taufiq);
-- `P00049`: Anatomi Studi Kasus Tata Kelola Kelembagaan;
-- `P00050`: Rekayasa Matriks Komparatif Multidimensi;
-- `P00051`: Format Kanonik Architectural Decision Record (ADR);
-- `P00052`: Formulasi Tujuh Guardrails Repositori (Batas Negatif);
-- `P00053`: Mitigasi Inquiry Drift (Lima Drift Guardrails);
-- `P00054`: Kriteria Penghentian Penyelidikan (Stopping Rules).
+### 9.2. Konsolidasi Metodologis Mesin Penyelidikan PROBE
+Dengan disahkannya inkuiri `P00054`, repositori TUMBUH v2.0.0 menetapkan bahwa seluruh metodologi inkuiri dialektis telah terkonsolidasi secara utuh. Konsolidasi ini mengikat seluruh peneliti, pengembang, dan musyrif pembina untuk:
+1. Menjadikan *Object of Inquiry* dan *TUMBUH Question* sebagai jangkar mutlak yang mengendalikan ruang lingkup penyelidikan.
+2. Mematuhi struktur baku 13 bagian jurnal riset desain sistem dan menolak format naskah drama atau skrip sandiwara.
+3. Menjaga kemurnian sanad melalui kutipan turats berharakat lengkap dan kajian sains bebas paywall komersial.
+4. Menegakkan sintesis dua sayap (*Al-Jam'u wat-Taufiq*) yang mengintegrasikan dalil naqliyyah dan data empiris demi kemaslahatan santri.
+5. Memagari setiap temuan dengan blok keputusan ADR resmi serta batas-batas guardrail repositori yang kokoh sebelum dinyatakan selesai melalui kriteria penghentian (*stopping rules*).
 
-Fondasi mesin inkuiri repositori kini telah kokoh, terlindung, dan siap digunakan untuk memandu penataan identitas dan penomoran pada Pilar 5.
-
-*Keterlaksanaan di Asrama** | Sangat rendah; prosedur terlalu rumit untuk musyrif yang lelah. | Sangat rendah; aturan sepihak memicu pemberontakan santri. | Sangat tinggi; dirancang dengan pendekatan Low-Friction UX 3-langkah. |
-| **Tingkat Perlindungan Santri** | Lemah karena aturan perlindungan terlambat disahkan. | Sangat buruk; rentan melegalkan kekerasan fisik atas nama disiplin. | Mutlak terjamin; 0 toleransi kekerasan fisik, verbal, dan permaluan. |
-| **Akuntabilitas Keputusan** | Kabur di balik perdebatan komisi akademis yang tak bertuan. | Sepihak dan otoriter di tangan satu figur pimpinan yayasan. | Transparan dan mengikat secara syar'i melalui ADR Majelis Pengasuh. |
+Fondasi mesin inkuiri repositori kini telah kokoh, terlindung, dan siap digunakan untuk memandu penataan tata kelola repositori selanjutnya.
 
 ### 9.3. Lembar Verifikasi Kesiapan Penutupan Klaster Inkuiri (Closure Checklist 20 Butir)
 Sebelum sebuah klaster inkuiri dinyatakan ditutup secara resmi, tim peneliti dan pengembang wajib mengisi dan menandatangani 20 butir Lembar Verifikasi Ketuntasan:
