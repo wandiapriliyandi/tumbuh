@@ -265,13 +265,10 @@ Tabel multidimensi berikut merangkum spesifikasi ontologis, fokus kajian, landas
 
 ---
 
-## 9. Protokol Tata Kelola 5-Tahap: Verifikasi Rantai Keterikatan Antar-Domain
+## 9. Protokol Tata Kelola & Mekanisme Penegakan Otomatis CI Linter
 
-Untuk memastikan bahwa seluruh naskah panduan, silabus, dan instrumen asesmen yang dirumuskan di lingkungan repositori mematuhi hukum tata urut sembilan domain fondasi, ditetapkan **Protokol Verifikasi Rantai Keterikatan Lima Tahap (The Five-Stage Chain-of-Inquiry Verification Protocol)**:
-
-```text
-DIAGRAM ALIR PROTOKOL VERIFIKASI LIMA TAHAP (F-9D VERIFICATION PROTOCOL)
-```
+### 9.1. Protokol Verifikasi Rantai Keterikatan Lima Tahap (The Five-Stage Verification Protocol)
+Untuk memastikan bahwa seluruh naskah panduan, silabus, dan instrumen asesmen yang dirumuskan di lingkungan repositori mematuhi hukum tata urut sembilan domain fondasi, ditetapkan **Protokol Verifikasi Rantai Keterikatan Lima Tahap**:
 
 | Tahap Verifikasi | Nama Tahapan Kerja | Instansi Penanggung Jawab | Deskripsi Prosedur Pengujian | Kriteria Kelulusan Formal |
 |:---:|---|---|---|---|
@@ -281,15 +278,10 @@ DIAGRAM ALIR PROTOKOL VERIFIKASI LIMA TAHAP (F-9D VERIFICATION PROTOCOL)
 | **Tahap 4** | **Pemeriksaan Graf Terarah (DAG Linter Engine Execution)** | Mesin Pemindai CI Otomatis | Menjalankan skrip validasi statis python untuk memeriksa ketiadaan siklus rujukan balik (*zero circular references*). | Status lulus verifikasi linter CI (*Exit Code 0: Clean Graph*). |
 | **Tahap 5** | **Penyegelan Kanonik (Consensus Sealing & Git Locking)** | Majelis Konsil Masyayikh | Sidang majelis syar'i untuk mengesahkan berkas masuk ke branch kanonik repositori v2.0.0 secara permanen. | Penandatanganan berita acara konsensus dan Git Commit tersegel. |
 
----
-
-## 10. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (DAG Dependency CI Linter)
-
+### 9.2. Mekanisme Penegakan Otomatis & Pemeriksaan Statis (DAG Dependency CI Linter)
 Repositori TUMBUH v2.0.0 melengkapi tata kelola intelektualnya dengan instrumen penegak otomatis berbasis perangkat lunak (*Automated Architectural Linter*). Hal ini didasarkan pada prinsip rekayasa bahwa aturan tata kelola di atas kertas akan selalu rentan dilanggar akibat kelalaian manusia apabila tidak dibentengi oleh sistem verifikasi deterministik.
 
-### 10.1. Matriks Rantai Ketergantungan Logis 9 Domain Fondasi
-Matriks berikut menetapkan batas-batas otoritas konsumsi dependensi yang sah antar-domain:
-
+#### Matriks Batas Kewenangan Konsumsi Dependensi Sembilan Domain Fondasi
 | Simpul Domain | Domain Prasyarat yang Boleh Dikonsumsi (Prerequisite Nodes) | Domain yang Diharamkan Dirujuk (Forbidden Forward/Reverse Nodes) |
 |---|---|---|
 | **Domain 1 (Worldview)** | *Independen (Akar Premis Aksiomatis Primer)* | Dilarang merujuk Domain 2, 3, 4, 5, 6, 7, 8, 9. |
@@ -302,7 +294,7 @@ Matriks berikut menetapkan batas-batas otoritas konsumsi dependensi yang sah ant
 | **Domain 8 (Core Principles)** | Domain 1, 2, 3, 4, 5, 6, 7 | Dilarang merujuk Domain 9. |
 | **Domain 9 (System Architecture)**| Domain 1, 2, 3, 4, 5, 6, 7, 8 | Terbuka mengonsumsi seluruh domain fondasi hulu. |
 
-### 10.2. Logika Algoritma Topological Sorting Penolak Siklus
+#### Logika Algoritma Topological Sorting Penolak Siklus
 Algoritma pemeriksa dependensi bekerja dengan membaca seluruh tautan markdown `[Link](file.md)` di dalam direktori `01_FUNDAMENTAL/01_FOUNDATION/`:
 1. **Ekstraksi Simpul dan Busur**: Setiap berkas `.md` direpresentasikan sebagai simpul $u$, dan setiap tautan ke berkas fondasi lain direpresentasikan sebagai busur $u \to v$.
 2. **Pendeteksian Siklus (Tarjan / Kosaraju Algorithm)**: Mesin memeriksa apakah terdapat komponen terhubung kuat (*strongly connected components*) yang memiliki panjang lebih dari satu simpul. Jika ditemukan siklus (misal $D_6$ memuat tautan ke konsep di $D_9$, dan $D_9$ merujuk $D_6$), alur kerja integrasi berkelanjutan (*CI Pipeline*) akan seketika menolak proses commit (*build failure*).
@@ -310,11 +302,10 @@ Algoritma pemeriksa dependensi bekerja dengan membaca seluruh tautan markdown `[
 
 ---
 
-## 11. Architectural Decision Record (ADR): Pengesahan Struktur Hierarki 9 Domain
+## 10. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
 
-Keputusan fundamental mengenai stratifikasi sembilan domain ini dibakukan secara abadi ke dalam rekaman resmi repositori TUMBUH v2.0.0 melalui dua tabel standar:
+### 10.1. ADR-PROBE-0023: Pengesahan Struktur Hierarki Sembilan Domain Filosofis Lapisan 01_FOUNDATION/
 
-### 11.1. Tabel Parameter Metadata Dokumen Keputusan
 | Parameter ADR | Ketetapan Resmi Konsil Arsitektur |
 |---|---|
 | **ID Keputusan** | `ADR-PROBE-0023` |
@@ -325,7 +316,6 @@ Keputusan fundamental mengenai stratifikasi sembilan domain ini dibakukan secara
 | **Domain Arsitektur** | `01_FUNDAMENTAL/01_FOUNDATION/` (Domain 01 sampai Domain 09) |
 | **Dampak Lintas Lapisan** | Lapisan 01 (Fundamental), Lapisan 02 (Implementation), Lapisan 03 (Operational) |
 
-### 11.2. Tabel Rincian Ketetapan Arsitektural
 | Elemen Evaluasi | Rincian Ketetapan Arsitektural |
 |---|---|
 | **1. Konteks Masalah** | Praktik penyusunan landasan filosofis di pesantren kerap disajikan secara datar tanpa hierarki dependensi logis. Cacat arsitektural ini melahirkan patologi kelembagaan fatal: feodalisme kepemimpinan santri, kekerasan fisik atas nama penegakan disiplin, reduksi pendidikan menjadi rekayasa perilaku mekanik, dan kelelahan kognitif musyrif. Dibutuhkan undang-undang penataan nalar yang mengikat secara permanen tatanan domain fondasi. |
@@ -337,7 +327,7 @@ Keputusan fundamental mengenai stratifikasi sembilan domain ini dibakukan secara
 
 ---
 
-## 12. Implikasi bagi Repositori TUMBUH & Sepuluh Guardrails Tata Kelola
+## 11. Implikasi bagi Repositori TUMBUH & Sepuluh Guardrails Tata Kelola
 
 ### 12.1. Dampak Struktural Lintas Lapisan Repositori
 1. **Dampak pada Lapisan `01_FUNDAMENTAL/`**: Direktori `01_FOUNDATION/` dikunci secara definitif menjadi sembilan berkas utama yang menyandang nama kanonik domain. Seluruh konsep lanjutan di direktori `02_PRINCIPLES/`, `03_CORE_MODEL/`, `04_PROGRESSION/`, `05_ASSESSMENT/`, dan `06_INTERVENTION/` wajib memiliki jangkar sitasi ke sembilan domain ini.
@@ -360,26 +350,23 @@ Guna membentengi ekosistem TUMBUH dari bahaya penyimpangan desain di masa depan,
 
 ---
 
-## 13. Penutup, Emergent Questions, & Referensi Terkurasi Lengkap
+## 12. Penutup & Emergent Chain of Inquiry
 
-### 13.1. Sintesis Penutup
+### 12.1. Sintesis Penutup
 Pembagian lapisan Fondasi ke dalam Sembilan Domain Filosofis Bertingkat membuktikan bahwa repositori TUMBUH v2.0.0 dibangun di atas arsitektur peradaban yang matang dan bertanggung jawab. Dengan mengawinkan kearifan klasifikasi ilmu para ulama salafus shalih dengan ketegasan teori rekayasa graf modern, ekosistem TUMBUH berhasil membebaskan dunia pesantren dari jebakan kepemimpinan feodal dan kekerasan asrama. Fondasi sembilan domain ini menjadi mercusuar yang menuntun para pendidik untuk membina santri secara manusiawi, ilmiah, dan penuh barakah Ilahi.
 
-### 13.2. Pertanyaan Lanjutan & Jembatan Inkuiri (Emergent Chain of Inquiry)
-Pengesahan tatanan sembilan domain fondasi ini secara organik membuka rangkaian penyelidikan mendalam untuk membedah masing-masing domain dalam sembilan berkas monograf kanonik berikutnya:
-- **`P00024`**: *Mengapa Worldview (Pandangan Alam Islam) Wajib Ditempatkan sebagai Domain Paling Pertama?* (Membedah argumen ontologis tauhid sebagai akar penolak dualisme sekuler).
-- **`P00025`**: *Mengapa Epistemology Wajib Diletakkan Langsung Setelah Worldview?* (Menyelidiki integrasi wahyu Ilahi, nalar akal, dan observasi empiris dalam penetapan kebenaran).
-- **`P00026`**: *Mengapa Human Nature (Hakikat Insan) Berada Tepat Setelah Epistemology?* (Menganalisis anatomi fitrah rohani: ruh, qalb, 'aql, dan nafs sebagai subjek tarbiyah).
-- **`P00027`**: *Rasionalitas Peletakan Human Development Setelah Human Nature: Mengapa Pertumbuhan Membutuhkan Definisi Hakikat?* (Membedah tahapan kematangan neurobiologis santri J1–J4).
-- **`P00028`**: *Mengapa Domain Education Diletakkan Setelah Pemahaman Tuntas Manusia dan Perkembangannya?* (Membongkar konsep Ta'dib, Tazkiyah, dan kurikulum holistik).
-- **`P00029`**: *Rasionalitas Peletakan Leadership Setelah Education: Mengapa Kepemimpinan Lahir dari Tarbiyah?* (Menegakkan kepemimpinan qudwah pelayan dan memusnahkan feodalisme).
-- **`P00030`**: *Mengapa Change Dynamics Diletakkan Setelah Leadership: Bagaimana Transformasi Sosial Terjadi?* (Membedah hukum pembiasaan karakter dan keadilan restoratif).
-- **`P00031`**: *Mengapa Core Principles Diletakkan Setelah Dinamika Perubahan: Mengunci Aksioma Abadi Sistem?* (Menetapkan batasan etika mutlak non-negosiasi dan perlindungan santri).
-- **`P00032`**: *Mengapa System Architecture Menjadi Penutup Sempurna Lapisan Fondasi?* (Mengintegrasikan seluruh domain menjadi cetak biru operasional PBIS 24 jam).
+### 12.2. Pertanyaan Penelitian Terbuka (Emergent Research Questions) Menuju Inkuiri Hulu P00024
+Dengan terkuncinya arsitektur sembilan domain fondasi secara terstruktur, inkuiri intelektual secara organik bermuara pada gerbang paling awal dari seluruh bangunan sistem. Muncul pertanyaan penelitian terbuka (*Emergent Research Questions*) yang memantik penyelidikan kanonik berikutnya:
+
+1. **Pertanyaan Epistemik Ontologis**: *Atas dasar hujah dalil naqli dan rasionalitas apa Worldview Islam (Pandangan Alam Tauhid) mutlak ditempatkan sebagai Domain 01 yang mendasari seluruh cabang ilmu lainnya, dan bukan sekadar salah satu materi mata pelajaran akidah formal di madrasah?*
+2. **Pertanyaan Bahaya Sekularisasi**: *Bagaimana mekanisme transmisi pemikiran membuktikan bahwa ketiadaan pematrian Pandangan Alam Tauhid di hulu niscaya menyebabkan kurikulum sains, adab, psikologi santri, dan tata kelola asrama pesantren tergelincir ke dalam sekularisasi terselubung (hidden secularization)?*
+3. **Pertanyaan Penyatuan Realitas**: *Bagaimana perumusan Worldview Islam pada repositori TUMBUH mampu mendamaikan ketegangan antara realitas fisik duniawi (kebutuhan biologis, tidur, makan, sanitasi) dengan realitas transendental ukhrawi (ikhlas, taqwa, muraqabah) tanpa terjatuh ke dalam asketisme ekstrem maupun materialisme pragmatis?*
+
+Dialektika atas pertanyaan-pertanyaan mendasar inilah yang secara deduktif membuka penyelidikan kanonik pada inkuiri hulu pertama: `PROBE/PROBE_01/P00024`.
 
 ---
 
-### 13.3. Referensi Terkurasi Lengkap (APA 7th Edition Bersih Tanpa Paywall & Takhrij Turats)
+## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 #### 1. Khazanah Turats Primer & Hermeneutika Syar'i
 - Al-Ajurri, A. B. (1999). *Akhlaq al-'ulama'* (Tahqiq F. Ismail). Dar al-Basyair al-Islamiyyah.
