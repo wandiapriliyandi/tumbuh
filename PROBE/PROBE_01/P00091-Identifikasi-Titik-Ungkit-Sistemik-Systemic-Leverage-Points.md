@@ -621,7 +621,7 @@ Meskipun intervensi pada titik ungkit telah dirancang dengan sangat hati-hati, d
 - Muslim bin al-Hajjaj an-Naisaburi. (2006). *Shahih Muslim* (Tahqiq: Nazar bin Musthafa al-Baz, 2 Jilid). Riyadh: Dar Thayyibah.
 
 ### Literatur Teori Sistem, Dinamika Perilaku, & Manajemen Strategis Kontemporer
-- Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*, 286(5439), 509-512. https://doi.org/10.1126/science.286.5439.509
+- Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*, 286(5439), 509-512.
 - Duhigg, C. (2012). *The power of habit: Why we do what we do in life and business*. New York: Random House.
 - Forrester, J. W. (1969). *Urban dynamics*. Cambridge, MA: The MIT Press.
 - Meadows, D. H. (1999). *Leverage points: Places to intervene in a system*. Hartland, VT: The Sustainability Institute.

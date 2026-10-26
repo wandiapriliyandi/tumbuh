@@ -523,7 +523,7 @@ Setelah kita memahami bahaya efek samping dari suatu regulasi baru, muncul perta
 ## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 - Braess, D. (1968). Über ein Paradoxon aus der Verkehrsplanung. *Unternehmensforschung*, 12(1), 258–268.
-- Campbell, D. T. (1979). Assessing the impact of planned social change. *Evaluation and Program Planning*, 2(1), 67–90. https://doi.org/10.1016/0149-7189(79)90048-X
+- Campbell, D. T. (1979). Assessing the impact of planned social change. *Evaluation and Program Planning*, 2(1), 67–90.
 - Goodhart, C. A. E. (1975). Problems of Monetary Management: The U.K. Experience. *Papers in Monetary Economics*, Reserve Bank of Australia.
 - Siebert, H. (2001). *Der Kobra-Effekt: Wie man Irrwege der Wirtschaftspolitik vermeidet*. Deutsche Verlags-Anstalt.
 - Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'i*. Dar al-Kutub al-'Ilmiyyah.
@@ -541,7 +541,7 @@ Setelah kita memahami bahaya efek samping dari suatu regulasi baru, muncul perta
 ### Literatur Teori Sistem, Sosiologi Kebijakan, & Pengambilan Keputusan Kontemporer
 - Klein, G. (2007). Performing a project premortem. *Harvard Business Review*, 85(9), 18-19.
 - Marks, H. (2011). *The most important thing: Uncommon sense for the thoughtful investor*. New York: Columbia University Press.
-- Merton, R. K. (1936). The unanticipated consequences of purposive social action. *American Sociological Review*, 1(6), 894-904. https://doi.org/10.2307/2084615
+- Merton, R. K. (1936). The unanticipated consequences of purposive social action. *American Sociological Review*, 1(6), 894-904.
 - Sieber, S. D. (1981). *Fatal remedies: The ironies of social intervention*. New York: Plenum Press.
 - Sterman, J. D. (2000). *Business dynamics: Systems thinking and modeling for a complex world*. Boston: McGraw-Hill.
 - Vaughan, D. (1996). *The Challenger launch decision: Risky technology, culture, and deviance at NASA*. Chicago: The University of Chicago Press.

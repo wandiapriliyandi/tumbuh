@@ -461,7 +461,7 @@ Keindahan sebuah peradaban tidak diukur dari seberapa banyak tumpukan buku yang 
 - Asy-Syathibi, Abu Ishaq Ibrahim ibn Musa. (2004). *Al-I'tisham* (M. R. Ridha, Ed.). Dar al-Kutub al-'Ilmiyyah.
 - Harun, Abdussalam Muhammad. (1998). *Tahqiq an-Nushush wa Nasyruha*. Maktabah al-Khanji.
 - Ibnu ash-Shalah, Abu Amr Utsman ibn Abdurrahman. (1986). *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (N. Itr, Ed.). Dar al-Fikr.
-- Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Yan, S., Ishii, E., Bang, Y. J., Dai, W., & Fung, P. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys*, 55(12), 1-38. https://doi.org/10.1145/3571730
+- Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Yan, S., Ishii, E., Bang, Y. J., Dai, W., & Fung, P. (2023). Survey of hallucination in natural language generation. *ACM Computing Surveys*, 55(12), 1-38.
 - Muslim ibn al-Hajjaj an-Naisaburi. (2006). *Shahih Muslim*. Dar Thawq an-Najah.
 - Al-Asqalani, Ahmad ibn Ali ibn Hajar. (2000). *Nukhbat al-Fikar fi Musthalah Ahl al-Atsar*. Dar Ihya' at-Turats al-Arabi.
 - Al-Iraqi, Zainuddin Abdurrahim. (1995). *Alfiyyah al-Iraqi fi 'Ulum al-Hadits*. Dar al-Kutub al-'Ilmiyyah.

@@ -525,14 +525,14 @@ Penyelidikan mendalam dalam P00097 ini melahirkan pertanyaan-pertanyaan terbuka 
 - Al-Ajurri, M. bin al-Husain. (1996). *Akhlaq al-'Ulama'* (Tahqiq Faruq Hamadah). Dar al-Afaq al-Jadidah.
 
 
-- Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day's work: Boundaries and micro role transitions. *Academy of Management Review*, 25(3), 472–491. https://doi.org/10.5465/amr.2000.3363315
+- Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day's work: Boundaries and micro role transitions. *Academy of Management Review*, 25(3), 472–491.
 - Browning, W., Ryan, C., & Clancy, J. (2014). *14 Patterns of Biophilic Design: Improving Health and Well-Being in the Built Environment*. Terrapin Bright Green LLC.
 - Figley, C. R. (1995). *Compassion Fatigue: Coping with Secondary Traumatic Stress Disorder in Those Who Treat the Traumatized*. Brunner/Mazel.
 
 
 - As-Suyuthi, J. (1990). *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'i*. Dar al-Kutub al-'Ilmiyyah.
-- Kleitman, N. (1982). Basic rest-activity cycle—22 years later. *Sleep*, 5(4), 311–317. https://doi.org/10.1093/sleep/5.4.311
-- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry*, 15(2), 103–111. https://doi.org/10.1002/wps.20311
+- Kleitman, N. (1982). Basic rest-activity cycle—22 years later. *Sleep*, 5(4), 311–317.
+- Maslach, C., & Leiter, M. P. (2016). Understanding the burnout experience: Recent research and its implications for psychiatry. *World Psychiatry*, 15(2), 103–111.
 
 
 - Al-Bukhari, M. bin I. (2002). *Shahih al-Bukhari*. Dar Thawq an-Najah.
@@ -540,9 +540,9 @@ Penyelidikan mendalam dalam P00097 ini melahirkan pertanyaan-pertanyaan terbuka 
 - Al-Khatib Al-Baghdadi, A. bin 'A. (1996). *Al-Faqih wal-Mutataffaqih*. Dar Ibn al-Jauzi.
 - Al-Munawi, M. A. R. (1994). *Faidh al-Qadir Syarh al-Jami' ash-Shaghir*. Dar al-Kutub al-'Ilmiyyah.
 - Ath-Thabarani, S. bin A. (1995). *Al-Mu'jam al-Awsath* (Tahqiq Thariq bin Abdul 'Audhullah). Dar al-Haramain.
-- Bakker, A. B., & Demerouti, E. (2007). The job demands-resources model: State of the art. *Journal of Managerial Psychology*, 22(3), 309–328. https://doi.org/10.1108/02683940710733115
-- Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? *Journal of Personality and Social Psychology*, 74(5), 1252–1265. https://doi.org/10.1037/0022-3514.74.5.1252
+- Bakker, A. B., & Demerouti, E. (2007). The job demands-resources model: State of the art. *Journal of Managerial Psychology*, 22(3), 309–328.
+- Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? *Journal of Personality and Social Psychology*, 74(5), 1252–1265.
 - Ibnu Abdil Barr, Y. bin A. (1994). *Jami' Bayan al-'Ilm wa Fadhlih*. Dar Ibn al-Jauzi.
 - Kaplan, R., & Kaplan, S. (1989). *The Experience of Nature: A Psychological Perspective*. Cambridge University Press.
-- Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology*, 15(3), 169–182. https://doi.org/10.1016/0272-4944(95)90001-2
+- Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. *Journal of Environmental Psychology*, 15(3), 169–182.
 - Muslim bin al-Hajjaj. (2006). *Shahih Muslim*. Dar Thawq an-Najah.

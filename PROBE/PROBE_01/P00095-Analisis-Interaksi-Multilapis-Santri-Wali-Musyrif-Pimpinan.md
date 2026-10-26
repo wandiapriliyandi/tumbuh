@@ -547,8 +547,8 @@ Penyelidikan mendalam dalam P00095 ini secara organik memicu pertanyaan-pertanya
 
 
 - Al-Mawardi, A. bin M. (2006). *Al-Ahkam as-Sulthaniyyah wal-Wilayat ad-Diniyyah*. Dar al-Hadits.
-- Coombs, W. T. (2007). Protecting organization reputations during a crisis: The development and application of situational crisis communication theory. *Corporate Reputation Review*, 10(3), 163–176. https://doi.org/10.1057/palgrave.crr.1550049
-- Galtung, J. (1969). Violence, peace, and peace research. *Journal of Peace Research*, 6(3), 167–191. https://doi.org/10.1177/002234336900600301
+- Coombs, W. T. (2007). Protecting organization reputations during a crisis: The development and application of situational crisis communication theory. *Corporate Reputation Review*, 10(3), 163–176.
+- Galtung, J. (1969). Violence, peace, and peace research. *Journal of Peace Research*, 6(3), 167–191.
 
 
 - Ad-Daraquthni, A. bin 'U. (2004). *Sunan ad-Daraquthni* (Tahqiq Syu'aib Al-Arna'uth, 5 Jilid). Mu'assasah ar-Risalah.

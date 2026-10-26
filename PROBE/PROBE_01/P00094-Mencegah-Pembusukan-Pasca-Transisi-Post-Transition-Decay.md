@@ -540,13 +540,13 @@ Penyelidikan mendalam dalam P00094 ini melahirkan pertanyaan-pertanyaan terbuka 
 ## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 - DiMaggio, P. J., & Powell, W. W. (1991). *The New Institutionalism in Organizational Analysis*. University of Chicago Press.
-- Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly*, 44(2), 350–383. https://doi.org/10.2307/2666999
+- Edmondson, A. (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly*, 44(2), 350–383.
 
 
 - An-Nawawi, Y. bin S. (2000). *Al-Minhaj Syarh Shahih Muslim bin al-Hajjaj*. Dar Ihya' at-Turats al-'Arabi.
 - Ibnu Abdil Barr, Y. bin A. (1990). *At-Tamhid lima fi al-Muwaththa' min al-Ma'ani wal-Asanid*. Wizarat al-Awqaf al-Maghribiyyah.
-- Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). Technical debt: From metaphor to theory and practice. *IEEE Software*, 29(6), 18–21. https://doi.org/10.1109/MS.2012.167
-- Rothman, A. J. (2000). Toward a theory-based analysis of behavioral maintenance. *Health Psychology*, 19(1S), 64–69. https://doi.org/10.1037/0278-6133.19.suppl1.64
+- Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). Technical debt: From metaphor to theory and practice. *IEEE Software*, 29(6), 18–21.
+- Rothman, A. J. (2000). Toward a theory-based analysis of behavioral maintenance. *Health Psychology*, 19(1S), 64–69.
 
 
 - Al-Bukhari, M. bin I. (2002). *Shahih al-Bukhari*. Dar Thawq an-Najah.

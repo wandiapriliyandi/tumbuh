@@ -552,20 +552,20 @@ Penyelidikan mendalam dalam P00096 ini melahirkan pertanyaan-pertanyaan terbuka 
 
 
 - Ibnu Baththal, 'A. bin K. (2003). *Syarh Shahih al-Bukhari* (Tahqiq Yasir bin Ibrahim, 10 Jilid). Maktabah ar-Rusyd.
-- Salmivalli, C. (2010). Bullying and the peer group: A review. *Aggression and Violent Behavior*, 15(2), 112–120. https://doi.org/10.1016/j.avb.2009.08.007
+- Salmivalli, C. (2010). Bullying and the peer group: A review. *Aggression and Violent Behavior*, 15(2), 112–120.
 
 
 - Al-Harits Al-Muhasibi, A. bin A. (1986). *Ar-Ri'ayah li Huquqillah* (Tahqiq Abdul Qadir Ahmad 'Atha). Dar al-Kutub al-'Ilmiyyah.
 - Al-'Izz bin Abdis Salam, A. bin A. (1999). *Qawa'id al-Ahkam fi Mashalih al-Anam* (2 Jilid). Dar al-Kutub al-'Ilmiyyah.
-- Carpenter, S. R., & Brock, W. A. (2006). Rising variance: A leading indicator of ecological transition. *Ecology Letters*, 9(3), 311–318. https://doi.org/10.1111/j.1461-0248.2005.00877.x
-- Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V., Ives, A. R., Kéfi, S., Livina, V., Seekell, D. A., van Nes, E. H., & Scheffer, M. (2012). Methods for detecting early warnings of critical transitions in time series data. *PLoS ONE*, 7(7), e41010. https://doi.org/10.1371/journal.pone.0041010
+- Carpenter, S. R., & Brock, W. A. (2006). Rising variance: A leading indicator of ecological transition. *Ecology Letters*, 9(3), 311–318.
+- Dakos, V., Carpenter, S. R., Brock, W. A., Ellison, A. M., Guttal, V., Ives, A. R., Kéfi, S., Livina, V., Seekell, D. A., van Nes, E. H., & Scheffer, M. (2012). Methods for detecting early warnings of critical transitions in time series data. *PLoS ONE*, 7(7), e41010.
 
 
 - Abu Nu'aim Al-Ashbahani, A. bin A. (1996). *Hilyat al-Auliya' wa Thabaqat al-Ashfiya'*. Dar al-Kutub al-'Ilmiyyah.
 - Al-Khatib Al-Baghdadi, A. bin 'A. (2001). *Tarikh Baghdad* (Tahqiq Basyar 'Awwad Ma'ruf, 16 Jilid). Dar al-Gharb al-Islami.
-- Ansoff, H. I. (1975). Managing strategic surprise by response to weak signals. *California Management Review*, 18(2), 21–33. https://doi.org/10.2307/41164635
+- Ansoff, H. I. (1975). Managing strategic surprise by response to weak signals. *California Management Review*, 18(2), 21–33.
 - At-Tirmidzi, M. bin 'Isa. (1998). *Al-Jami' al-Kabir - Sunan at-Tirmidzi* (Tahqiq Basyar 'Awwad Ma'ruf). Dar al-Gharb al-Islami.
 - Gibson, J. J. (1979). *The Ecological Approach to Visual Perception*. Houghton Mifflin.
 - Ibnu Majah, M. bin Y. (2009). *Sunan Ibnu Majah*. Dar ar-Risalah al-'Alamiyyah.
 - Ibnul Qayyim al-Jauziyyah, M. bin A. B. (1996). *Madarij as-Salikin baina Manazil Iyyaka Na'budu wa Iyyaka Nasta'in*. Dar al-Kutub al-'Ilmiyyah.
-- Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos, V., Held, H., van Nes, E. H., Rietkerk, M., & Sugihara, G. (2009). Early-warning signals for critical transitions. *Nature*, 461(7260), 53–59. https://doi.org/10.1038/nature08227
+- Scheffer, M., Bascompte, J., Brock, W. A., Brovkin, V., Carpenter, S. R., Dakos, V., Held, H., van Nes, E. H., Rietkerk, M., & Sugihara, G. (2009). Early-warning signals for critical transitions. *Nature*, 461(7260), 53–59.

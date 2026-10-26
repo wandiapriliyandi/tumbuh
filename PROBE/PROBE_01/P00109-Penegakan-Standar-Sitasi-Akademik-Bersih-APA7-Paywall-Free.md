@@ -158,7 +158,7 @@ Repositori TUMBUH mengambil pelajaran fundamental dari Al-Qarafi: Sitasi turats 
 ### 5.1 Standar American Psychological Association (APA 7th Edition)
 Publikasi *Publication Manual of the American Psychological Association (7th ed., 2020)*:
 - Merupakan standar emas sitasi dalam rumpun ilmu sosial, psikologi, dan pendidikan internasional.
-- Menghilangkan frasa "Retrieved from" yang tidak perlu, menyederhanakan penulisan in-text citation untuk 3 penulis atau lebih (*et al.* sejak sitasi pertama), dan menuntut pencantuman Digital Object Identifier (DOI) dalam format URL aktif (`https://doi.org/10.xxxx/...`).
+- Menghilangkan frasa "Retrieved from" yang tidak perlu, menyederhanakan penulisan in-text citation untuk 3 penulis atau lebih (*et al.* sejak sitasi pertama), serta diadaptasikan dalam repositori TUMBUH menjadi format metadata sitasi teks bersih tanpa mencantumkan tautan paywall komersial.
 
 ### 5.2 Fenomena Link Rot dan Reference Decay dalam Literatur Digital
 Riset Jonathan Zittrain et al. (2014, 2021) di Harvard Law School & Berkman Klein Center:
@@ -174,9 +174,9 @@ Budapest Open Access Initiative (BOAI, 2002) dan Berlin Declaration on Open Acce
 
 ### 5.4 Anatomi Penanda Persisten (Persistent Identifiers: DOI, Handle, ORCID)
 International DOI Foundation (IDF) dan Corporation for National Research Initiatives (CNRI):
-- **Digital Object Identifier (DOI)**: Sistem penomoran alfanumerik unik permanen (contoh: `10.1037/0000165-000`) yang dikelola oleh lembaga registrasi seperti Crossref dan DataCite. DOI tidak terikat pada lokasi server fisik suatu situs web, melainkan diarahkan melalui direktori proksi global (`https://doi.org/...`). Ketika penerbit memindahkan artikel ke domain baru, metadata URL di direktori pusat otomatis diperbarui, sehingga mencegah *Link Rot*.
+- **Digital Object Identifier (DOI)**: Sistem penomoran alfanumerik unik permanen (contoh: `10.1037/0000165-000`) yang dikelola oleh lembaga registrasi seperti Crossref dan DataCite. DOI mengarahkan artikel melalui metadata registrasi internasional. Namun demi menjaga kemerdekaan sivitas pesantren dari pembebanan biaya komersial, repositori TUMBUH mengharamkan pencantuman tautan langsung dan mewajibkan penyajian metadata bibliografi teks bersih yang lengkap.
 - **Open Researcher and Contributor ID (ORCID)**: Penanda unik 16 digit bagi peneliti untuk membedakan identitas akademis dan menghindari kerancuan nama pengarang lintas generasi.
-- Repositori TUMBUH mewajibkan setiap kutipan jurnal ilmiah modern menyertakan tautan DOI aktif demi keterlacakan permanen.
+- Repositori TUMBUH mewajibkan setiap kutipan jurnal ilmiah modern menyajikan metadata bibliografi lengkap berstandar APA 7th Edition tanpa menyertakan tautan paywall komersial.
 
 ### 5.5 Ekosistem Repositori Terbuka Berstandar OAI-PMH
 Protokol *Open Archives Initiative Protocol for Metadata Harvesting* (OAI-PMH):
@@ -368,7 +368,7 @@ Gagasan besar integrasi keilmuan Islam modern (*Al-Jam'u baina al-Ashalah wal-Mu
 | :--- | :--- | :--- | :--- |
 | **Kitab Turats Klasik** | Nama Penulis Wafat. (*Tahun H*). *Judul Kitab* (Nama Pentahqiq/Muhaqqiq, Ed.; Cetakan, Vol/Juz, Hlm). Penerbit/Dar An-Nasyr. | Tahun wafat, pentahqiq resmi, nomor juz dan halaman fisik. | Dilarang mengutip kitab tanpa menyebut muhaqqiq dan penerbit. |
 | **Hadits Nabawiyyah** | Nama Perawi Utama/Mukharrij. (Tahun). *Judul Kitab Hadits* (Nomor Hadits, Bab). Status Hukum Hadits. | Nomor hadits resmi, takhrij riwayat, dan derajat keshahihan. | Dilarang mengutip hadits dha'if jiddan atau maudhu' (palsu). |
-| **Jurnal Sains Modern** | Author, A. A., & Author, B. B. (Year). Title of article. *Title of Periodical*, xx(x), pp-pp. https://doi.org/10.xxxx | Nama penulis, tahun, nama jurnal bereputasi, volume, nomor, DOI. | Dilarang menaruh tautan yang meminta login langganan berbayar. |
+| **Jurnal Sains Modern** | Author, A. A., & Author, B. B. (Year). Title of article. *Title of Periodical*, xx(x), pp-pp. | Nama penulis, tahun, nama jurnal bereputasi, volume, nomor, rentang halaman. | Dilarang menaruh tautan komersial/paywall/doi.org berbayar. |
 | **Buku Teks Ilmiah** | Author, A. A. (Year). *Title of work: Capital letter also for subtitle* (Edition). Publisher. | Nama penulis, tahun publikasi, edisi, dan nama penerbit resmi. | Dilarang mengutip buku bajakan atau ringkasan blog tidak resmi. |
 | **Peraturan Pemerintah** | Republik Indonesia. (Tahun). *Undang-Undang / Peraturan Menteri Nomor XX Tahun XXXX tentang Judul Peraturan*. Lembaran Negara RI. | Nomor regulasi, tahun pengesahan, dan nomenklatur resmi negara. | Dilarang mengutip draf rancangan yang belum disahkan secara hukum. |
 ```
@@ -389,22 +389,22 @@ Gagasan besar integrasi keilmuan Islam modern (*Al-Jam'u baina al-Ashalah wal-Mu
 Untuk memastikan tidak ada tautan rusak atau sitasi komersial berbayar yang lolos ke repositori, tim pengembang TUMBUH merancang sistem parser linter bibliografi otomatis berbasis ekspresi reguler (Regex) dan validator tautan:
 1. **Deteksi Tautan Berbayar (*Paywall Domain Filter*)**:
    - Memindai URL yang memuat domain komersial tertutup seperti: `sciencedirect.com`, `springer.com/chapter`, `wiley.com/doi/abs`, `jstor.org/stable` (tanpa open access flag). Linter akan mengeluarkan peringatan keras (*Lint Warning / Error*) yang meminta kontributor mengganti rujukan tersebut dengan versi Open Access atau naskah pracetak institusional.
-2. **Validasi Format DOI**:
-   - Memastikan seluruh DOI diawali dengan protokol aman HTTPS: `https://doi.org/10.xxxx/...`, bukan format kuno `doi:10.xxxx` atau tautan proksi universitas berbayar seperti `ezproxy.univ.edu`.
+2. **Pembersihan Pranala Paywall**:
+   - Memastikan seluruh rujukan terbebas dari domain komersial tertutup dan tautan langsung berbayar, melainkan menyajikan metadata rujukan secara mandiri dan bersih.
 3. **Pemeriksaan Takhrij Kitab Turats**:
    - Memastikan setiap blok rujukan klasik memiliki elemen: Pengarang Wafat (Tahun H), Judul Kitab berhuruf miring, Pentahqiq dalam kurung, Jilid/Juz, Halaman, dan Penerbit resmi.
 
 ### 9.3 Rubrik Audit Kepatuhan Sitasi (Clean Citation Rubric - CCR-TUMBUH)
 Setiap dokumen inkuiri PROBE dan naskah fundamental dievaluasi menggunakan rubrik CCR-TUMBUH dengan skor 0-100:
 - **Kriteria 1: Ketiadaan Tautan Berbayar (Bobot 25%)**: Repositori bebas 100% dari tautan yang meminta biaya unduh.
-- **Kriteria 2: Ketahanan URL & Validitas DOI (Bobot 25%)**: Seluruh tautan berstatus HTTP 200 OK atau berjangkar pada penanda persisten abadi.
+- **Kriteria 2: Ketahanan Metadata & Validitas Rujukan (Bobot 25%)**: Seluruh rujukan disajikan secara persisten dan dapat diverifikasi secara mandiri.
 - **Kriteria 3: Kesesuaian Format APA 7th (Bobot 25%)**: Ketepatan penulisan in-text citation, nama jurnal miring, nomor volume miring, dan rentang halaman.
 - **Kriteria 4: Autentisitas Takhrij Turats (Bobot 25%)**: Ketersediaan teks Arab berharakat, takhrij kitab induk hadits, serta penyebutan pentahqiq muktamad.
 
 ### 9.4 Prinsip Verifikasi Dua Pasang Mata (Four-Eyes Principle on Citations)
 Sebelum suatu naskah inkuiri PROBE atau dokumen fundamental dinyatakan sah (*Approved*), naskah tersebut wajib melalui mekanisme verifikasi independen:
 1. **Pemeriksa Pertama (Asatidz Bidang Turats)**: Bertugas menguji keabsahan sanad, matan teks Arab, takhrij hadits, dan ketepatan rujukan kitab kuning klasik.
-2. **Pemeriksa Kedua (Pakar Bibliografi & Metodologi Riset)**: Bertugas memeriksa kepatuhan struktur APA 7th Edition, menguji keaktifan tautan DOI, mendeteksi ketiadaan tautan paywall komersial, dan menyaring agar tidak ada sitasi halusinasi kecerdasan buatan.
+2. **Pemeriksa Kedua (Pakar Bibliografi & Metodologi Riset)**: Bertugas memeriksa kepatuhan struktur APA 7th Edition, memastikan ketiadaan tautan paywall komersial, dan menyaring agar tidak ada sitasi halusinasi kecerdasan buatan.
 
 ### 9.5 Panduan Musyrif Lapangan: Akses Pengetahuan Tanpa Biaya dan Bebas Pelanggaran Hak Cipta
 Bagi para musyrif asrama yang ingin membaca artikel ilmiah rujukan tanpa harus membayar langganan jurnal komersial:
@@ -415,7 +415,7 @@ Bagi para musyrif asrama yang ingin membaca artikel ilmiah rujukan tanpa harus m
 ### 9.6 Alur Migrasi Dokumen Warisan (Legacy Document Migration Protocol)
 Untuk memastikan dokumen-dokumen rintisan dari TUMBUH v1 dapat diintegrasikan secara sah ke dalam repositori v2.0.0:
 1. **Fase 1: Pindaian Tautan Mati (*Dead Link Scanning*)**: Seluruh tautan web dalam dokumen lama diuji status HTTP-nya menggunakan skrip otomatis; tautan yang mengarah ke laman 404 Not Found dikarantina.
-2. **Fase 2: Pencarian DOI Pengganti**: Setiap rujukan artikel jurnal tanpa DOI ditelusuri melalui Crossref API untuk memperoleh DOI resmi yang valid.
+2. **Fase 2: Pencarian Metadata Pengganti**: Setiap rujukan artikel jurnal ditelusuri untuk melengkapi metadata bibliografi teks bersih yang valid.
 3. **Fase 3: Verifikasi Matan Turats**: Setiap kutipan terjemahan kitab kuning disandingkan kembali dengan naskah fisik kitab Arab berharakat untuk memastikan ketepatan terjemahan dan kelengkapan takhrij.
 4. **Fase 4: Rekonstruksi Bibliografi APA 7th**: Mengubah format sitasi catatan kaki (*Footnotes*) kuno menjadi format in-text citation dan daftar referensi alfabetis berstandar internasional.
 
@@ -423,7 +423,7 @@ Untuk memastikan dokumen-dokumen rintisan dari TUMBUH v1 dapat diintegrasikan se
 Sebelum mengajukan draf inkuiri atau modul operasional, setiap musyrif atau pengembang wajib mengisi checklist mandiri berikut:
 - [ ] Apakah setiap klaim empiris didukung oleh rujukan ilmiah yang sah dan dapat dilacak?
 - [ ] Apakah seluruh tautan jurnal bebas dari dinding berbayar (*100% Paywall-Free*)?
-- [ ] Apakah semua DOI menggunakan format HTTPS baku (`https://doi.org/...`)?
+- [ ] Apakah seluruh daftar pustaka bebas dari tautan paywall komersial dan disajikan dalam format teks bersih APA 7th Edition?
 - [ ] Apakah ayat Al-Qur'an dan hadits Nabi SAW memiliki teks Arab berharakat lengkap dengan takhrij kitab induk?
 - [ ] Apakah tidak ada hadits palsu (*Maudhu'*) atau sangat lemah (*Dha'if Jiddan*) yang dijadikan landasan hukum?
 - [ ] Apakah rujukan kitab turats menyebutkan nama pengarang, tahun wafat, judul kitab, pentahqiq, jilid, halaman, dan penerbit resmi?
@@ -438,7 +438,7 @@ Sebelum mengajukan draf inkuiri atau modul operasional, setiap musyrif atau peng
 - **Konteks Masalah**: Kebutuhan menjamin keterlacakan ilmiah dan keabsahan sanad syariat dalam repositori TUMBUH tanpa membebani musyrif dengan paywall komersial.
 - **Keputusan**:
   1. Menetapkan format **APA 7th Edition** sebagai standar penulisan bibliografi tunggal untuk sains empiris di repositori TUMBUH v2.0.0.
-  2. Melarang keras penempatan tautan komersial berbayar (*Paywall links*); memprioritaskan DOI resmi atau sumber *Open Access*.
+  2. Melarang keras penempatan tautan komersial berbayar (*Paywall links*); mewajibkan penyajian metadata kepustakaan teks bersih berstandar APA 7th Edition tanpa pranala komersial.
   3. Mewajibkan metode *Takhrij Ilmi Muktamad* untuk seluruh literatur turats klasik Islam.
 - **Konsekuensi**: Seluruh dokumen inkuiri PROBE dan berkas fundamental yang memiliki tautan rusak atau tidak memenuhi standar APA 7th wajib diperbaiki.
 
@@ -483,49 +483,49 @@ Al-Jauziyyah, I. Q. (2002). *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (M. S. Nas
 
 Al-Qarafi, A. I. (1998). *Al-Furuq: Anwa' al-Buruq fi Anwa' al-Furuq* (K. al-Mansur, Ed.; Jilid 1-4). Dar al-Kutub al-'Ilmiyyah.
 
-American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). https://doi.org/10.1037/0000165-000
+American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). Washington, DC: American Psychological Association.
 
 At-Tarmasi, M. M. A. (2011). *Kifayatul Mustafid lima 'Ala min al-Asanid* (M. Y. al-Makkawi, Ed.). Dar al-Basyair al-Islamiyyah.
 
-Budapest Open Access Initiative. (2002). *Ten years on from the Budapest Open Access Initiative: Setting the default to open*. BOAI. https://www.budapestopenaccessinitiative.org/read/
+Budapest Open Access Initiative. (2002). *Ten years on from the Budapest Open Access Initiative: Setting the default to open*. BOAI.
 
-Chan, L., Cuplinskas, D., Eisen, M., Friend, F., Genova, Y., Guédon, J. C., Hagemann, M., Harnad, S., Johnson, R., Kupryte, R., La Manna, M., Rév, I., Segbert, M., de Souza, P., Suber, P., & Velterop, J. (2002). *Budapest Open Access Initiative declaration*. Open Society Foundations. https://www.budapestopenaccessinitiative.org/boai-10-recommendations/
+Chan, L., Cuplinskas, D., Eisen, M., Friend, F., Genova, Y., Guédon, J. C., Hagemann, M., Harnad, S., Johnson, R., Kupryte, R., La Manna, M., Rév, I., Segbert, M., de Souza, P., Suber, P., & Velterop, J. (2002). *Budapest Open Access Initiative declaration*. Open Society Foundations.
 
-Crossref. (2024). *Digital Object Identifier infrastructure and schema documentation for scholarly metadata*. Crossref Documentation. https://www.crossref.org/documentation/
+Crossref. (2024). *Digital Object Identifier infrastructure and schema documentation for scholarly metadata*. Crossref Documentation.
 
-Dublin Core Metadata Initiative. (2020). *DCMI metadata terms (ISO Standard No. 15836:2009)*. DCMI. https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+Dublin Core Metadata Initiative. (2020). *DCMI metadata terms (ISO Standard No. 15836:2009)*. DCMI.
 
-Hitchcock, S. (2016). The effect of open access and downloads ('hits') on citation impact: A bibliography of studies. *The Open Citation Project*. http://opcit.eprints.org/oacitation-biblio.html
+Hitchcock, S. (2016). The effect of open access and downloads ('hits') on citation impact: A bibliography of studies. *The Open Citation Project*.
 
 Ibnu Katsir, I. U. (1999). *Tafsir al-Qur'an al-'Azhim* (S. H. Salamah, Ed.; Jilid 1-8). Dar Thayyibah lin-Nasyr wat-Tawzi'.
 
 Lickona, T. (1991). *Educating for character: How our schools can teach respect and responsibility*. Bantam Books.
 
-Piwowar, H., Priem, J., Larivière, V., Alperin, J. P., Matthias, L., Norlander, B., Farley, A., West, J., & Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ*, 6, e4375. https://doi.org/10.7717/peerj.4375
+Piwowar, H., Priem, J., Larivière, V., Alperin, J. P., Matthias, L., Norlander, B., Farley, A., West, J., & Haustein, S. (2018). The state of OA: A large-scale analysis of the prevalence and impact of Open Access articles. *PeerJ*, 6, e4375.
 
 Republik Indonesia. (2019). *Undang-Undang Republik Indonesia Nomor 18 Tahun 2019 tentang Pesantren*. Lembaran Negara Republik Indonesia Tahun 2019 Nomor 198. Sekretariat Negara.
 
 Republik Indonesia. (2022). *Undang-Undang Republik Indonesia Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi*. Lembaran Negara Republik Indonesia Tahun 2022 Nomor 196. Sekretariat Negara.
 
-San Francisco Declaration on Research Assessment. (2012). *Putting science into the assessment of research (DORA declaration)*. DORA. https://sfdora.org/read/
+San Francisco Declaration on Research Assessment. (2012). *Putting science into the assessment of research (DORA declaration)*. DORA.
 
-Sperber, D., Clément, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). Epistemic vigilance. *Mind & Language*, 25(4), 359-393. https://doi.org/10.1111/j.1468-0017.2010.01394.x
+Sperber, D., Clément, F., Heintz, C., Mascaro, O., Mercier, H., Origgi, G., & Wilson, D. (2010). Epistemic vigilance. *Mind & Language*, 25(4), 359-393.
 
-Suber, P. (2012). *Open access*. MIT Press. https://doi.org/10.7551/mitpress/9286.001.0001
+Suber, P. (2012). *Open access*. Cambridge, MA: MIT Press.
 
-Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, C. H. (2016). The academic, economic and societal impacts of Open Access: An evidence-based review. *F1000Research*, 5, 632. https://doi.org/10.12688/f1000research.8460.3
+Tennant, J. P., Waldner, F., Jacques, D. C., Masuzzo, P., Collister, L. B., & Hartgerink, C. H. (2016). The academic, economic and societal impacts of Open Access: An evidence-based review. *F1000Research*, 5, 632.
 
-Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J. W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., ... Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Nature Scientific Data*, 3, Article 160018. https://doi.org/10.1038/sdata.2016.18
+Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J. W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., ... Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. *Nature Scientific Data*, 3, Article 160018.
 
-Zittrain, J., Albert, K., & Lessig, L. (2014). Perma: Scoping and addressing the problem of link and reference rot in legal citations. *Harvard Law Review Forum*, 127(6), 176-199. https://perma.cc/D897-425W
+Zittrain, J., Albert, K., & Lessig, L. (2014). Perma: Scoping and addressing the problem of link and reference rot in legal citations. *Harvard Law Review Forum*, 127(6), 176-199.
 
 ## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 - Al-Baghdadi, Al-Khatib. (1938). *Al-Kifayah fi 'Ilm ar-Riwayah* (A. Al-Afghani, Ed.). Da'irah al-Ma'arif al-'Utsmaniyyah.
 - Al-Baghdadi, Al-Khatib. (1974). *Taqyid al-'Ilm* (Y. Al-'Usysy, Ed.). Dar Ihya' as-Sunnah an-Nabawiyyah.
-- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). American Psychological Association. https://doi.org/10.1037/0000165-000
+- American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). Washington, DC: American Psychological Association.
 - Budapest Open Access Initiative. (2002). *Ten years on from the Budapest Open Access Initiative: Setting the default to open*. BOAI.
 - Muslim ibn al-Hajjaj an-Naisaburi. (1955). *Shahih Muslim: Al-Musnad ash-Shahih al-Mukhtashar* (M. F. Abdul Baqi, Ed.; 5 Jilid). Dar Ihya' at-Turats al-'Arabi.
-- Suber, P. (2012). *Open access*. MIT Press. https://doi.org/10.7551/mitpress/9286.001.0001
+- Suber, P. (2012). *Open access*. Cambridge, MA: MIT Press.
 - Zittrain, J., Albert, K., & Lessig, L. (2014). Perma: Scoping and addressing the problem of link and reference rot in legal citations. *Harvard Law Review Forum*, 127(6), 176-199.
 - Zittrain, J., Bowers, J., & Stanton, C. (2021). The paper of record meets an ephemeral web: An examination of link rot and content drift within The New York Times. *Harvard Journal of Law & Technology*, 35(1), 1-32.

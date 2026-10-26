@@ -601,12 +601,12 @@ Penyelidikan mendalam dalam P00098 ini secara organik memicu pertanyaan-pertanya
 
 
 - Snowden, D. J., & Boone, M. E. (2007). A leader's framework for decision making. *Harvard Business Review*, 85(11), 68–76.
-- Staw, B. M., Sandelands, L. E., & Dutton, J. E. (1981). Threat rigidity effects in organizational behavior: A multilevel analysis. *Administrative Science Quarterly*, 26(4), 501–524. https://doi.org/10.2307/2392337
+- Staw, B. M., Sandelands, L. E., & Dutton, J. E. (1981). Threat rigidity effects in organizational behavior: A multilevel analysis. *Administrative Science Quarterly*, 26(4), 501–524.
 
 
 - Ibnu Nujaim, Z. (1999). *Al-Asybah wan-Nazha'ir 'ala Madzhab Abi Hanifah*. Dar al-Kutub al-'Ilmiyyah.
-- Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing? *Journal of Personality and Social Psychology*, 79(6), 995–1006. https://doi.org/10.1037/0022-3514.79.6.995
-- Little, J. D. C. (1961). A proof for the queuing formula: $L = \lambda W$. *Operations Research*, 9(3), 383–387. https://doi.org/10.1287/opre.9.3.383
+- Iyengar, S. S., & Lepper, M. R. (2000). When choice is demotivating: Can one desire too much of a good thing? *Journal of Personality and Social Psychology*, 79(6), 995–1006.
+- Little, J. D. C. (1961). A proof for the queuing formula: $L = \lambda W$. *Operations Research*, 9(3), 383–387.
 
 
 - Al-'Izz bin Abdis Salam, A. bin A. (1999). *Qawa'id al-Ahkam fi Mashalih al-Anam* (2 Jilid). Dar al-Kutub al-'Ilmiyyah.

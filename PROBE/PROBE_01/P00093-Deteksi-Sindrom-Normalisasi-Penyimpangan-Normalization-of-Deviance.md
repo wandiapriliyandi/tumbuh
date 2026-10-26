@@ -495,7 +495,7 @@ Penyelidikan mendalam dalam P00093 ini secara organik memicu pertanyaan-pertanya
 ## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
 
 - Kelling, G. L., & Wilson, J. Q. (1982). Broken windows: The police and neighborhood safety. *The Atlantic Monthly*, 249(3), 29–38.
-- Salas, E., Wilson, K. A., Burke, C. S., & Wightman, D. C. (2006). Does crew resource management training work? An update, an extension, and some critical needs. *Human Factors*, 48(2), 392–412. https://doi.org/10.1518/001872006777724444
+- Salas, E., Wilson, K. A., Burke, C. S., & Wightman, D. C. (2006). Does crew resource management training work? An update, an extension, and some critical needs. *Human Factors*, 48(2), 392–412.
 
 
 - Al-Baihaqi, A. bin H. (2003). *Syu'ab al-Iman* (Tahqiq Abdul Ali Abdul Hamid Hamid). Maktabah ar-Rusyd.
@@ -505,7 +505,7 @@ Penyelidikan mendalam dalam P00093 ini secara organik memicu pertanyaan-pertanya
 - Ibnu Nujaim, Z. (1999). *Al-Asybah wan-Nazha'ir 'ala Madzhab Abi Hanifah*. Dar al-Kutub al-'Ilmiyyah.
 - Ibnu Qayyim al-Jauziyyah, M. bin A. B. (1991). *I'lam al-Muwaqqi'in 'an Rabbil 'Alamin* (Tahqiq Thaha Abdur Rauf Sa'ad). Dar al-Jil.
 - Muslim bin al-Hajjaj. (2006). *Shahih Muslim*. Dar Thawq an-Najah.
-- Rasmussen, J. (1997). Risk management in a dynamic society: A modelling framework. *Safety Science*, 27(2–3), 183–213. https://doi.org/10.1016/S0925-7535(97)00052-0
+- Rasmussen, J. (1997). Risk management in a dynamic society: A modelling framework. *Safety Science*, 27(2–3), 183–213.
 
 
 - Ahmad bin Hanbal. (2001). *Al-Musnad* (Tahqiq Syu'aib Al-Arna'uth, Vol. 37). Mu'assasah ar-Risalah.
@@ -516,7 +516,7 @@ Penyelidikan mendalam dalam P00093 ini secara organik memicu pertanyaan-pertanya
 - Ath-Thabari, I. J. (2001). *Jami' al-Bayan 'an Ta'wil Ayi al-Qur'an*. Dar Hijr.
 - Ibnu Katsir, I. (1999). *Tafsir Al-Qur'an al-'Azhim*. Dar Thayyibah.
 - Ibnu Majah, M. bin Y. (2009). *Sunan Ibnu Majah*. Dar ar-Risalah al-'Alamiyyah.
-- Reason, J. (1990). *Human Error*. Cambridge University Press. https://doi.org/10.1017/CBO9781139062367
+- Reason, J. (1990). *Human Error*. Cambridge University Press.
 - Reason, J. (1997). *Managing the Risks of Organizational Accidents*. Ashgate Publishing.
 - Vaughan, D. (1996). *The Challenger Launch Decision: Risky Technology, Culture, and Deviance at NASA*. University of Chicago Press.
 - Weick, K. E., & Sutcliffe, K. M. (2007). *Managing the Unexpected: Resilient Performance in an Age of Uncertainty* (2nd ed.). Jossey-Bass.
