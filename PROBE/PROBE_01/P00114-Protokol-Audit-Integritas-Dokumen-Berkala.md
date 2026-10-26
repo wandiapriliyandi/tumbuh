@@ -11,13 +11,9 @@
 - **Penanggung Jawab Dokumen**: Tim Penjaminan Mutu Repositori & Dewan Pengawas Integritas Epistemik TUMBUH
 - **Target Pembaca**: Auditor Mutu Kelembagaan, Pengembang Sistem Repositori, Asatidz Penelaah Kitab, Dewan Kurator Repositori, Tim Litbang Pendidikan Pesantren
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `AGENTS.md`: Pedoman Agen TUMBUH v2.0.0 (Prinsip Arsitektur, Batas Lapisan, dan Aturan Epistemik)
-  - `P00000`: Mengapa Ekosistem TUMBUH Membutuhkan Branch v2.0.0
-  - `P00018`: Posisi Pustaka REFERENCES dan Larangan Sumber Paywall
-  - `P00019`: Kedudukan Direktori METHODOLOGY dan Tata Kelola Dokumentasi
-  - `P00109`: Penegakan Standar Sitasi Akademik Bersih APA 7th Edition dan Paywall-Free
-  - `P00110` s/d `P00113`: Kerangka Kerja Architecture Maturity Index (AMI) Level 1 hingga Level 5
+- **Fokus Tematik**: Protokol Audit Integritas Dokumen Berkala (PAID-TUMBUH), Pencegahan Pembusukan Arsitektural (*Architectural Decay*), Pengujian Otomatis Integritas Tautan Markdown Tanpa Tautan Patah, Penegakan Format Sitasi Bersih APA 7th Edition Bebas Paywall, Eliminasi Formula Blok LaTeX, Verifikasi Takhrij Hadits Turats Mu'tamad, dan Konsistensi Semantik Lintas Lapisan Ekosistem TUMBUH v2.0.0
+- **TUMBUH Question**: *Bagaimana merancang protokol audit integritas dokumen berkala yang mampu menjaga ratusan naskah repositori dari kerusakan tautan fisik, pembusukan semantik, distorsi sanad turats, dan kontradiksi aturan operasional secara terukur dan berkelanjutan?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 

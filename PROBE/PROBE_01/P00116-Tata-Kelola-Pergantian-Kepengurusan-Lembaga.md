@@ -11,14 +11,9 @@
 - **Penanggung Jawab Dokumen**: Tim Rekayasa Sosio-Teknis Tata Kelola Pesantren & Majelis Dewan Masyaikh TUMBUH
 - **Target Pembaca**: Pembina Yayasan Pesantren, Majelis Pengasuh Dzurriyyah, Lurah Pondok / Kepala Asrama Baru dan Demisioner, Arsitek Sistem Informasi, Tim Audit Manajemen Organisasi Islam
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `AGENTS.md`: Pedoman Agen TUMBUH v2.0.0 (Prinsip Utama, Bahasa Indonesia, dan Aturan Epistemik)
-  - `P00000`: Mengapa Ekosistem TUMBUH Membutuhkan Branch v2.0.0
-  - `P00009`: Piagam Komitmen Epistemik v2.0.0: Integritas Sanad dan Metodologi
-  - `P00110` s/d `P00113`: Kerangka Kerja Architecture Maturity Index (AMI)
-  - `P00114`: Protokol Audit Integritas Dokumen Berkala (PAID-TUMBUH)
-  - `P00115`: Resolusi Ketegangan Epistemik: Nalar Modern vs Kiai Sepuh
-  - `P00117`: Audit Kelayakan Lapangan (Field Usability Audit)
+- **Fokus Tematik**: Tata Kelola Pergantian Kepengurusan Lembaga Tanpa Memutus Keberlanjutan Arsitektur (*Institutional Succession Governance*), Doktrin Amanah Fikih *Al-Istikhlaf*, Protokol Serah Terima Jabatan Kanonik (BAST-TUMBUH), Pencegahan Sindrom Pejabat Baru (*The Clean-Slate Fallacy*), Pelatihan Induksi Pengurus Baru (SKOR-PB 40 Jam), dan Pelestarian Memori Kelembagaan Pesantren
+- **TUMBUH Question**: *Bagaimana merancang protokol suksesi kepengurusan lembaga pesantren yang menjamin pergantian pejabat asrama dan yayasan tidak merusak atau mereset sistem pembinaan adab santri yang telah terbukti andal?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 

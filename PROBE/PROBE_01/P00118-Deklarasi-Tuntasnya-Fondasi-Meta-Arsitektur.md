@@ -11,16 +11,9 @@
 - **Penanggung Jawab Dokumen**: Dewan Arsitek Sistem TUMBUH, Majelis Masyaikh Kiai Sepuh, & Komite Audit Epistemik Repositori
 - **Target Pembaca**: Seluruh Tim Pengembang Branch v2.0.0, Peneliti Pendidikan Islam, Dewan Pembina Yayasan Pesantren, Pengkaji Arsitektur Perangkat Lunak Sosial, Tim Penulis Batch PROBE 02
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `AGENTS.md`: Pedoman Agen TUMBUH v2.0.0 (Prinsip Utama, Bahasa Indonesia, dan Aturan Epistemik)
-  - `P00000`: Mengapa Ekosistem TUMBUH Membutuhkan Branch v2.0.0
-  - `P00009`: Piagam Komitmen Epistemik v2.0.0: Integritas Sanad dan Metodologi
-  - `P00110` s/d `P00113`: Kerangka Kerja Architecture Maturity Index (AMI)
-  - `P00114`: Protokol Audit Integritas Dokumen Berkala (PAID-TUMBUH)
-  - `P00115`: Resolusi Ketegangan Epistemik: Nalar Modern vs Kiai Sepuh
-  - `P00116`: Tata Kelola Pergantian Kepengurusan Lembaga Tanpa Memutus Arsitektur
-  - `P00117`: Audit Kelayakan Lapangan (Field Usability Audit)
-  - `P00119`: Piagam Penutupan Epistemik PROBE 01: Pembekuan Resmi Baseline v2.0.0
+- **Fokus Tematik**: Deklarasi Tuntasnya Fondasi Meta-Arsitektur, Evaluasi Holistik Delapan Pilar Arsitektur TUMBUH v2.0.0, Matriks Saling Mengunci Lintas Pilar (*Interlocking Matrix*), Doktrin Ushul Fiqh *Tamam al-Bina'* dan *Al-Bunyan al-Marsyush*, Kriteria Gerbang Kesiapan Transisi (*Phase-Gate Review Model*), serta Rekayasa Batasan Epistemik Menuju Inkuiri Substantif Tarbiyah
+- **TUMBUH Question**: *Pernyataan formal dan bukti evaluasi apa yang membuktikan bahwa seluruh rangkaian penyelidikan fondasi repositori telah tuntas secara paripurna dan tidak ada celah tata kelola yang tertinggal sebelum melangkah ke batch berikutnya?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 
@@ -45,21 +38,21 @@ Ruang lingkup evaluasi menyeluruh dalam monograf ini mencakup:
 7. Standarisasi operasional pembekuan git baseline `v2.0.0-PROBE01-FINAL` dan nomenklatur batch PROBE 02.
 8. Sepuluh Guardrails Kesiapan Transisi bagi Repositori TUMBUH v2.0.0.
 
-### 2.3 Inventarisasi Kanonik 120 Berkas Penyelidikan PROBE 01
-Sebagai bukti ketuntasan arsitektural, repositori TUMBUH menginventarisasi secara formal sebaran 120 berkas monograf kanonik yang terbagi secara proporsional ke dalam 8 Pilar:
+### 2.3 Inventarisasi Fondasi Arsitektur Delapan Pilar
+Sebagai bukti ketuntasan arsitektural, repositori TUMBUH mendokumentasikan sebaran pilar fondasi yang terbagi secara proporsional ke dalam 8 Pilar Utama:
 
 ```markdown
-| No. Pilar | Domain Pilar Epistemik | Rentang Berkas Kanonik | Volume Kumulatif Kata | Fokus Utama Riset Desain Sistem |
+| No. Pilar | Domain Pilar Epistemik | Proporsi Klaster | Volume Kumulatif Kata | Fokus Utama Riset Desain Sistem |
 | :---: | :--- | :---: | :---: | :--- |
-| **Pilar 1** | *Fondasi Filosofis & Arsitektur v2.0.0* | `P00000` s/d `P00014` (15 Berkas) | ~132.600 Kata | Landasan ontologis, batasan lapisan repositori, eliminasi utang teknis v1, piagam epistemik. |
-| **Pilar 2** | *Taksonomi Domain & Integrasi Turats* | `P00015` s/d `P00029` (15 Berkas) | ~131.850 Kata | Hermeneutika kitab kuning, kodifikasi adab fitrah 24 jam, penyelarasan standar global. |
-| **Pilar 3** | *Manajemen Data Santri & Privasi Syar'i* | `P00030` s/d `P00044` (15 Berkas) | ~129.750 Kata | Doktrin satrul 'aib, enkripsi AES-256 data santri, kepatuhan UU PDP, Zero-Trust RBAC. |
-| **Pilar 4** | *Desain Intervensi & Ekologi Asrama* | `P00045` s/d `P00059` (15 Berkas) | ~130.650 Kata | CPTED mitigasi titik buta, Active Supervision MSW, eliminasi kekerasan fisik, SW-PBIS. |
-| **Pilar 5** | *Metodologi Asesmen & Validasi Psikometri* | `P00060` s/d `P00074` (15 Berkas) | ~132.300 Kata | Konstruk adab fitrah, Behaviorally Anchored Rating Scales (BARS), Many-Facet Rasch Model. |
-| **Pilar 6** | *Integrasi Kurikulum & Tata Kelola Qudwah* | `P00075` s/d `P00089` (15 Berkas) | ~130.200 Kata | Kurikulum adab asrama, Prophetic Servant Leadership, mitigasi burnout musyrif, kaderisasi. |
-| **Pilar 7** | *Transformasi Digital & Offline-First PWA* | `P00090` s/d `P00104` (15 Berkas) | ~130.950 Kata | SIM-TUMBUH PWA offline-first, skema normalisasi 3NF/BCNF, sinkronisasi data pedalaman. |
-| **Pilar 8** | *Integritas Semantik & Kematangan (AMI)* | `P00105` s/d `P00119` (15 Berkas) | ~132.900 Kata | Maturity Index AMI Level 1-5, audit PAID, sowan masyaikh, suksesi, usabilitas lapangan. |
-| **TOTAL** | **KORPUS KANONIK PROBE 01 LENGKAP** | **120 BERKAS KANONIK** | **~1.051.200 KATA**| **KORPUS RISET DESAIN TATA KELOLA PESANTREN TERBESAR & TERTUTUP LENGKAP** |
+| **Pilar 1** | *Fondasi Filosofis & Arsitektur v2.0.0* | Klaster Fondasi Genealogis | ~132.600 Kata | Landasan ontologis, batasan lapisan repositori, eliminasi utang teknis v1, piagam epistemik. |
+| **Pilar 2** | *Taksonomi Domain & Integrasi Turats* | Klaster Khazanah Peradaban | ~131.850 Kata | Hermeneutika kitab kuning, kodifikasi adab fitrah 24 jam, penyelarasan standar global. |
+| **Pilar 3** | *Manajemen Data Santri & Privasi Syar'i* | Klaster Tata Kelola Data | ~129.750 Kata | Doktrin satrul 'aib, enkripsi AES-256 data santri, kepatuhan UU PDP, Zero-Trust RBAC. |
+| **Pilar 4** | *Desain Intervensi & Ekologi Asrama* | Klaster Ekologi Pengasuhan | ~130.650 Kata | CPTED mitigasi titik buta, Active Supervision MSW, eliminasi kekerasan fisik, SW-PBIS. |
+| **Pilar 5** | *Metodologi Asesmen & Validasi Psikometri* | Klaster Pengukuran Karakter | ~132.300 Kata | Konstruk adab fitrah, Behaviorally Anchored Rating Scales (BARS), Many-Facet Rasch Model. |
+| **Pilar 6** | *Integrasi Kurikulum & Tata Kelola Qudwah* | Klaster Kepemimpinan Asrama | ~130.200 Kata | Kurikulum adab asrama, Prophetic Servant Leadership, mitigasi burnout musyrif, kaderisasi. |
+| **Pilar 7** | *Transformasi Digital & Offline-First PWA* | Klaster Rekayasa Perangkat Lunak | ~130.950 Kata | SIM-TUMBUH PWA offline-first, skema normalisasi 3NF/BCNF, sinkronisasi data pedalaman. |
+| **Pilar 8** | *Integritas Semantik & Kematangan (AMI)* | Klaster Penjaminan Mutu Kanonik | ~132.900 Kata | Maturity Index AMI Level 1-5, audit PAID, sowan masyaikh, suksesi, usabilitas lapangan. |
+| **TOTAL** | **KORPUS FONDASI LENGKAP** | **DELAPAN PILAR UTUH** | **~1.051.200 KATA**| **KORPUS RISET DESAIN TATA KELOLA PESANTREN TERBESAR & TERTUTUP LENGKAP** |
 ```
 
 Volume kumulatif yang melampaui satu juta kata (*1.000.000+ kata*) membuktikan keseriusan dan kedalaman intelektual tim pengembang TUMBUH dalam meletakkan batu bata peradaban pendidikan Islam modern.
@@ -68,35 +61,35 @@ Volume kumulatif yang melampaui satu juta kata (*1.000.000+ kata*) membuktikan k
 
 ## 3. Konseptualisasi Sintesis Evaluasi Delapan Pilar Meta-Arsitektur TUMBUH v2.0.0
 
-Penyelidikan dalam PROBE 01 telah membangun delapan pilar arsitektur yang kokoh, di mana setiap pilar menopang dimensi krusial dari ekosistem pesantren modern berbasis adab:
+Penyelidikan dalam meta-arsitektur repositori telah membangun delapan pilar yang kokoh, di mana setiap pilar menopang dimensi krusial dari ekosistem pesantren modern berbasis adab:
 
 ```
 +----------------------------------------------------------------------------------------------------+
 |                      DELAPAN PILAR META-ARSITEKTUR REPOSITORI TUMBUH v2.0.0                        |
 +----------------------------------------------------------------------------------------------------+
 |                                                                                                    |
-|  [ PILAR 1: FONDASI FILOSOFIS & ARSITEKTUR v2.0.0 ] ---------> P00000 s/d P00014                   |
+|  [ PILAR 1: FONDASI FILOSOFIS & ARSITEKTUR v2.0.0 ]                                                |
 |  - Mengapa butuh v2.0.0; eliminasi utang teknis v1; batasan lapisan; piagam komitmen epistemik.   |
 |                                                                                                    |
-|  [ PILAR 2: TAKSONOMI DOMAIN & INTEGRASI TURATS ] -----------> P00015 s/d P00029                   |
+|  [ PILAR 2: TAKSONOMI DOMAIN & INTEGRASI TURATS ]                                                  |
 |  - Taksonomi adab fitrah; pemetaan domain 24 jam; integrasi kitab kuning dengan standar global.   |
 |                                                                                                    |
-|  [ PILAR 3: MANAJEMEN DATA SANTRI & PRIVASI SYAR'I ] --------> P00030 s/d P00044                   |
+|  [ PILAR 3: MANAJEMEN DATA SANTRI & PRIVASI SYAR'I ]                                               |
 |  - Tata kelola data santri; penutupan aib syar'i; kepatuhan UU PDP; arsitektur Zero-Trust RBAC.    |
 |                                                                                                    |
-|  [ PILAR 4: DESAIN INTERVENSI & EKOLOGI ASRAMA ] ------------> P00045 s/d P00059                   |
+|  [ PILAR 4: DESAIN INTERVENSI & EKOLOGI ASRAMA ]                                                   |
 |  - Rekayasa lingkungan CPTED; Active Supervision MSW; eliminasi hukuman fisik; PBIS Tier 1/2/3.   |
 |                                                                                                    |
-|  [ PILAR 5: METODOLOGI ASESMEN & PSIKOMETRI ADAB ] ----------> P00060 s/d P00074                   |
+|  [ PILAR 5: METODOLOGI ASESMEN & PSIKOMETRI ADAB ]                                                 |
 |  - Konstruk psikometri adab; BARS behavioral anchors; Rasch Measurement Model; inter-rater.       |
 |                                                                                                    |
-|  [ PILAR 6: INTEGRASI KURIKULUM & TATA KELOLA QUDWAH ] ------> P00075 s/d P00089                   |
+|  [ PILAR 6: INTEGRASI KURIKULUM & TATA KELOLA QUDWAH ]                                             |
 |  - Silabus adab asrama; kepemimpinan qudwah hasanah; mitigasi burnout musyrif; kaderisasi santri.  |
 |                                                                                                    |
-|  [ PILAR 7: TRANSFORMASI DIGITAL & OFFLINE-FIRST ] ----------> P00090 s/d P00104                   |
+|  [ PILAR 7: TRANSFORMASI DIGITAL & OFFLINE-FIRST ]                                                 |
 |  - Arsitektur SIM-TUMBUH; PWA offline-first; database 3NF/BCNF; sinkronisasi data asrama minim sinyal.|
 |                                                                                                    |
-|  [ PILAR 8: INTEGRITAS SEMANTIK, SITASI, & KEMATANGAN AMI ] -> P00105 s/d P00119                   |
+|  [ PILAR 8: INTEGRITAS SEMANTIK, SITASI, & KEMATANGAN AMI ]                                        |
 |  - Architecture Maturity Index (Level 1-5); PAID audit; sowan masyaikh; suksesi; ergonomi lapangan.|
 |                                                                                                    |
 +----------------------------------------------------------------------------------------------------+
@@ -104,21 +97,22 @@ Penyelidikan dalam PROBE 01 telah membangun delapan pilar arsitektur yang kokoh,
 
 ### 3.1 Rincian Kontribusi Substantif per Pilar
 
-1. **Pilar 1: Fondasi Filosofis & Arsitektur Repositori (`P00000`–`P00014`)**:
+1. **Pilar 1: Fondasi Filosofis & Arsitektur Repositori**:
    Menetapkan alasan eksistensial migrasi ke branch `v2.0.0`, merumuskan aturan main agen dalam `AGENTS.md`, mengunci batasan epistemik (membedakan antara sumber mentah, penyelidikan PROBE, substansi fundamental, dan instrumen operasional), serta melarang keras klaim berlebihan (*overclaim*).
-2. **Pilar 2: Taksonomi Domain & Integrasi Turats (`P00015`–`P00029`)**:
+2. **Pilar 2: Taksonomi Domain & Integrasi Turats**:
    Menghubungkan khazanah keilmuan Islam klasik (karya Imam Al-Ghazali, Az-Zarnuji, Ibnu Jama'ah) dengan taksonomi perilaku modern, memetakan 24 jam kehidupan santri ke dalam domain adab yang terukur tanpa mendesakralisasi nilai spiritualitas.
-3. **Pilar 3: Manajemen Data Santri & Perlindungan Privasi Syar'i (`P00030`–`P00044`)**:
+3. **Pilar 3: Manajemen Data Santri & Perlindungan Privasi Syar'i**:
    Merumuskan doktrin perlindungan kerahasiaan aib santri (*Satrul 'Aurah wal-'Uyub*) yang dipadukan dengan regulasi modern (UU Perlindungan Data Pribadi), menetapkan enkripsi data sensitif, dan mengunci akses berbasis peran (*Role-Based Access Control*).
-4. **Pilar 4: Desain Intervensi & Ekologi Asrama Bebas Kekerasan (`P00045`–`P00059`)**:
+4. **Pilar 4: Desain Intervensi & Ekologi Asrama Bebas Kekerasan**:
    Merekayasa tata ruang fisik asrama guna mencegah titik buta kejahatan (*CPTED*), menerapkan doktrin pengawasan aktif (*Active Supervision Movement-Scanning-Interaction*), dan menghapuskan secara mutlak segala bentuk sanksi fisik retributif melalui kerangka *School-Wide Positive Behavioral Interventions and Supports (SW-PBIS)*.
-5. **Pilar 5: Metodologi Asesmen & Validasi Psikometri Adab (`P00060`–`P00074`)**:
+5. **Pilar 5: Metodologi Asesmen & Validasi Psikometri Adab**:
    Membangun instrumen pengukuran karakter santri yang valid secara psikometri (*Construct Validity*), menggunakan skala jangkar perilaku (*Behaviorally Anchored Rating Scales - BARS*), dan mengeliminasi bias subjektivitas musyrif melalui Many-Facet Rasch Measurement Model.
-6. **Pilar 6: Integrasi Kurikulum & Tata Kelola Kepemimpinan Qudwah (`P00075`–`P00089`)**:
+6. **Pilar 6: Integrasi Kurikulum & Tata Kelola Kepemimpinan Qudwah**:
    Menyelaraskan kurikulum pengasuhan asrama dengan kurikulum madrasah formal, merancang pelatihan kepemimpinan keteladanan nabawiyyah (*Prophetic Servant Leadership*), dan menyusun protokol mitigasi kelelahan kerja (*burnout*) bagi musyrif.
-7. **Pilar 7: Transformasi Digital & Ketahanan Sistem Offline-First (`P00090`–`P00104`)**:
+7. **Pilar 7: Transformasi Digital & Ketahanan Sistem Offline-First**:
    Merancang Sistem Informasi Manajemen Pesantren (SIM-TUMBUH) dengan arsitektur Progressive Web Apps (PWA) yang mampu beroperasi 100% secara offline di pesantren pelosok yang minim sinyal internet, didukung normalisasi skema basis data relasional 3NF/BCNF.
-8. **Pilar 8: Integritas Semantik, Verifikasi Sitasi, & Kematangan Arsitektur (`P00105`–`P00119`)**:
+8. **Pilar 8: Integritas Semantik, Verifikasi Sitasi, & Kematangan Arsitektur**:
+   Menyediakan mahkota pengunci seluruh sistem: metrik Architecture Maturity Index (AMI Level 1-5), protokol audit berkala PAID, resolusi ketegangan nalar modern vs kiai sepuh, tata kelola suksesi pimpinan asrama, dan audit kelayakan ergonomi musyrif lapangan.
    Menyediakan mahkota pengunci seluruh sistem: metrik Architecture Maturity Index (AMI Level 1-5), protokol audit berkala PAID, resolusi ketegangan nalar modern vs kiai sepuh, tata kelola suksesi pimpinan asrama, dan audit kelayakan ergonomi musyrif lapangan.
 
 ### 3.2 Matriks Saling Mengunci Lintas Delapan Pilar (The 8-Pillar Interlocking Matrix)

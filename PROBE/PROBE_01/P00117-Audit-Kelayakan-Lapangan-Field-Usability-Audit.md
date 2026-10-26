@@ -11,15 +11,9 @@
 - **Penanggung Jawab Dokumen**: Tim Rekayasa Ergonomi Sosio-Teknis Pesantren & Komite Audit Keterpakaian Lapangan TUMBUH
 - **Target Pembaca**: Musyrif Kamar, Kepala Asrama, Desainer Instruksional Pesantren, Pengembang Antarmuka Aplikasi Musyrif (UX/UI Designer), Auditor Mutu Penjaminan Lapangan
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `AGENTS.md`: Pedoman Agen TUMBUH v2.0.0 (Prinsip Utama, Bahasa Indonesia yang Manusiawi, dan Batas Lapisan)
-  - `P00000`: Mengapa Ekosistem TUMBUH Membutuhkan Branch v2.0.0
-  - `P00009`: Piagam Komitmen Epistemik v2.0.0: Integritas Sanad dan Metodologi
-  - `P00110` s/d `P00113`: Kerangka Kerja Architecture Maturity Index (AMI)
-  - `P00114`: Protokol Audit Integritas Dokumen Berkala (PAID-TUMBUH)
-  - `P00115`: Resolusi Ketegangan Epistemik: Nalar Modern vs Kiai Sepuh
-  - `P00116`: Tata Kelola Pergantian Kepengurusan Lembaga Tanpa Memutus Arsitektur
-  - `P00118`: Deklarasi Tuntasnya Fondasi Meta-Arsitektur dan Kesiapan Masuk PROBE 02
+- **Fokus Tematik**: Audit Kelayakan Lapangan (*Field Usability Audit*), Penurunan Beban Kognitif Musyrif Asrama 24 Jam (*Cognitive Load Theory*), Kaidah Fiqih *Taysir wa Raf'ul Haraj*, Metrik System Usability Scale Khusus Pesantren (SUS-Pesantren Minimal Skor 80), Aturan Tiga Ketukan Pengisian Logbook, dan Standarisasi Lembar Kerja Ramah Musyrif (LKRM-TUMBUH)
+- **TUMBUH Question**: *Pengujian keterpakaian dan keterbacaan apa yang wajib dilakukan untuk menjamin bahasa monograf teoritis tinggi dapat disederhanakan menjadi instrumen lapangan yang ramah musyrif dalam waktu kurang dari 3 menit tanpa kehilangan ketepatan arsitekturalnya?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 

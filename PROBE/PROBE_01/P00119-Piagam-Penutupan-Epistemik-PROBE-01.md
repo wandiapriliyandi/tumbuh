@@ -11,17 +11,9 @@
 - **Penanggung Jawab Dokumen**: Dewan Pengarah Arsitektur Sistem TUMBUH, Majelis Masyaikh Kiai Sepuh, & Dewan Pembina Badan Wakaf Pesantren
 - **Target Pembaca**: Seluruh Warga Pesantren Nusantara, Komunitas Pengembang Sistem Islam, Ulama Masyaikh, Peneliti Pendidikan Karakter Global, Generasi Pengasuh Santri Masa Depan
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `AGENTS.md`: Pedoman Agen TUMBUH v2.0.0 (Prinsip Utama, Bahasa Indonesia, dan Aturan Epistemik)
-  - `P00000`: Mengapa Ekosistem TUMBUH Membutuhkan Branch v2.0.0 (Titik Tolak Awal)
-  - `P00009`: Piagam Komitmen Epistemik v2.0.0: Integritas Sanad dan Metodologi
-  - `P00110` s/d `P00113`: Kerangka Kerja Architecture Maturity Index (AMI)
-  - `P00114`: Protokol Audit Integritas Dokumen Berkala (PAID-TUMBUH)
-  - `P00115`: Resolusi Ketegangan Epistemik: Nalar Modern vs Kiai Sepuh
-  - `P00116`: Tata Kelola Pergantian Kepengurusan Lembaga Tanpa Memutus Arsitektur
-  - `P00117`: Audit Kelayakan Lapangan (Field Usability Audit)
-  - `P00118`: Deklarasi Tuntasnya Fondasi Meta-Arsitektur dan Kesiapan Masuk PROBE 02
-  - `P00120`: Titik Awal Batch PROBE 02 (Ontologi Fitrah Insaniyah)
+- **Fokus Tematik**: Piagam Penutupan Epistemik (*Misaq al-Khatm al-Mubarak*), Pembekuan Resmi Baseline Meta-Arsitektur TUMBUH v2.0.0, Peresmian Traktat Keilmuan Pesantren Tiga Pilar, Penguncian Korpus Kanonik Utuh, Doktrin *Al-Mitsaq al-Ghalizh*, Maqashid Syari'ah Lima Tingkat, Tata Kelola Bersama Elinor Ostrom, dan Protokol Pengawasan Integritas Pasca-Pembekuan (PFIS-TUMBUH)
+- **TUMBUH Question**: *Bagaimana merumuskan traktat piagam penutupan kanonik yang membekukan batas-batas arsitektur repositori, mengikat seluruh pemangku amanah lintas generasi, melindungi santri dari kekerasan secara mutlak, dan menjaga amanah wakaf intelektual abadi?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph, Supreme Constitutional Charter, & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 

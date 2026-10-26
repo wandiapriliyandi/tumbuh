@@ -11,13 +11,9 @@
 - **Penanggung Jawab Dokumen**: Tim Rekayasa Sosio-Teknis Pesantren & Majelis Dewan Asatidz Sepuh TUMBUH
 - **Target Pembaca**: Arsitek Perangkat Lunak, Pengembang Repositori, Majelis Masyaikh Kiai Sepuh, Kepala Kesantrian, Konsultan Manajemen Lembaga Islam, Peneliti Sosiologi Pesantren
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `AGENTS.md`: Pedoman Agen TUMBUH v2.0.0 (Prinsip Utama, Bahasa Indonesia, dan Aturan Epistemik)
-  - `P00000`: Mengapa Ekosistem TUMBUH Membutuhkan Branch v2.0.0
-  - `P00009`: Piagam Komitmen Epistemik v2.0.0: Integritas Sanad dan Metodologi
-  - `P00110` s/d `P00113`: Kerangka Kerja Architecture Maturity Index (AMI)
-  - `P00114`: Protokol Audit Integritas Dokumen Berkala (PAID-TUMBUH)
-  - `P00116`: Tata Kelola Pergantian Kepengurusan Lembaga Tanpa Memutus Arsitektur
+- **Fokus Tematik**: Resolusi Ketegangan Epistemik Antara Nalar Pengembang Sistem Modern dan Kearifan Intuitif Kiai Sepuh, Adab Sowan Ilmiah Bertingkat (*Adab as-Su'al wa ash-Shuhbah*), Protokol Diskusi Bebas Dominasi (*Communicative Action*), Rekonsiliasi Rasionalitas Algoritmik dan Keberkahan Sanad, serta Tata Cara Presentasi Sistem Ramah Ulama Tradisional
+- **TUMBUH Question**: *Adab dan tata krama komunikasi apa yang wajib ditegakkan oleh tim arsitek sistem modern saat mempresentasikan inovasi tata kelola di hadapan Majelis Masyaikh dan Pengasuh Sepuh agar terhindar dari arogansi teknokrasi tanpa mengorbankan ketegasan prinsip ilmiah?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 

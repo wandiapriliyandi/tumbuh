@@ -11,12 +11,9 @@
 - **Penanggung Jawab Dokumen**: Tim Rekayasa Arsitektur Sistem Pesantren & Majelis Dewan Kurator Nasional TUMBUH
 - **Target Pembaca**: Majelis Masyaikh Kiai Sepuh, Dewan Pembina Pesantren, Kepala Bidang Pengasuhan Santri, Auditor Penjaminan Mutu Pendidikan Islam, Ahli Kebijakan Publik Pendidikan Nasional
 - **Versi Sistem Target**: TUMBUH Branch `v2.0.0`
-- **Keterkaitan Dokumen Induk**:
-  - `P00110`: Konseptualisasi Architecture Maturity Index (AMI) Kesiapan Sistem Pesantren
-  - `P00111`: Deskriptor Skala Kematangan Level 1 (Initial) dan Level 2 (Managed)
-  - `P00112`: Deskriptor Skala Kematangan Level 3 (Defined) dan Level 4 (Measured)
-  - `P00114`: Protokol Audit Integritas Dokumen Berkala
-  - `P00115`: Resolusi Ketegangan Epistemik: Nalar Pengembang Modern vs Kearifan Kiai Sepuh
+- **Fokus Tematik**: Deskriptor Skala Kematangan Level 5 (*Optimized / Kanonik Sempurna*), Otomasi Pagar Pelindung Mutu Berkelanjutan, Budaya Muhasabah Kelembagaan Terpadu, Validasi Keandalan Sistem Pesantren Jangka Panjang, dan Standarisasi Kanonik Rujukan Ekosistem TUMBUH v2.0.0
+- **TUMBUH Question**: *Kapan sebuah modul tata kelola berhak memperoleh predikat Kanonik Emas yang mandiri, tahan uji lintas generasi, dan menjadi rujukan percontohan bagi seluruh jaringan pesantren mitra?*
+- **Status Integrasi**: Canonical Open-Inquiry Monograph & Architectural Decision Record Baseline (v2.0.0)
 
 ---
 
