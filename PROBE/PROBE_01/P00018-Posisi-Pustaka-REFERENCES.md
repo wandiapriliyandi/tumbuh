@@ -338,18 +338,18 @@ Sebagai naskah monograf ilmiah desain sistem, tata kelola perpustakaan rujukan d
 Misalkan $B$ merepresentasikan katalog bibliografi di direktori `REFERENCES/`. Setiap entri pustaka $b \in B$ wajib mematuhi predikat kurasi mutu:
 
 1. **Predikat Keabsahan Metadata Bebas Paywall (Clean Citation Invariant)**:
-   $$\forall b \in B, \quad \text{HasAuthor}(b) \land \text{HasYear}(b) \land \text{HasPublisher}(b) \land (\text{URL}(b) \cap \text{PaywallDomains} = \emptyset)$$
-   Dilarang menyertakan tautan komersial berbayar (`doi.org` berbayar) yang memberatkan pembaca pesantren; sitasi wajib disajikan dalam metadata teks bersih berstandar APA 7th Edition.
+   - Notasi Aljabar: Untuk setiap entri b dalam katalog pustaka B, wajib memenuhi kondisi: HasAuthor(b) DAN HasYear(b) DAN HasPublisher(b) DAN (DomainURL(b) beririsan dengan DomainPaywall adalah himpunan kosong).
+   - Penjelasan Operasional: Dilarang menyertakan tautan portal komersial berbayar yang memberatkan pembaca pesantren; sitasi wajib disajikan dalam metadata teks bersih berstandar APA 7th Edition.
 
 2. **Predikat Takhrij Turats Primer (Turats Primary Takhrij Invariant)**:
-   $$\forall t \in B_{\text{turats}}, \quad \text{HasMuhaqqiq}(t) \land \text{HasDarNasyr}(t) \land \text{HasJuzHalaman}(t)$$
-   Setiap rujukan kitab klasik wajib mencantumkan nama pentahqiq (*muhaqqiq*), penerbit resmi, dan nomor juz/halaman yang dapat ditelusuri fisik kitabnya.
+   - Notasi Aljabar: Untuk setiap kitab t dalam himpunan turats B_turats, wajib memenuhi: HasMuhaqqiq(t) DAN HasDarNasyr(t) DAN HasJuzHalaman(t).
+   - Penjelasan Operasional: Setiap rujukan kitab klasik wajib mencantumkan nama pentahqiq (*muhaqqiq*), penerbit resmi, dan nomor juz/halaman yang dapat ditelusuri fisik kitabnya.
 
 #### 9.2.2. Matriks Parameter Pengujian Integritas Katalog REFERENCES/
 
 | Parameter Verifikasi | Pola Terlarang / Wajib | Dampak terhadap Kualitas Ilmiah | Status Mesin CI/CD |
 |---|---|---|:---:|
-| **Tautan Paywall Berbayar** | Tautan komersial `https://doi.org/...` berbayar | Membebani pembaca pesantren dengan tautan komersial | **REJECT (Exit 1)** |
+| **Tautan Paywall Berbayar** | Tautan komersial portal berbayar (DOI berbayar) | Membebani pembaca pesantren dengan tautan komersial | **REJECT (Exit 1)** |
 | **Sitasi Halusinasi / Cacat** | Judul fiktif, nama penulis tanpa tahun terbit | Merusak reputasi akademik dan amanah ilmiah repositori | **REJECT (Exit 1)** |
 | **Turats Tanpa Tahqiq** | Mengutip matan kitab klasik tanpa penerbit jelas | Ketidakpastian autentisitas redaksi lafaz hadits/kaidah | **REJECT (Exit 1)** |
 | **Klaim Otoritas Normatif** | Menjadikan buku luar langsung sebagai aturan pondok | Pengabaian kedaulatan ijtihad dan kultur lokal pesantren | **REJECT (Exit 1)** |

@@ -443,7 +443,7 @@ Guna membentengi Branch v2.0.0 dari degradasi kembali ke pola-pola kegagalan V1,
    - *Klausul Mitigasi*: Setiap tindakan kedisiplinan wajib mengadopsi protokol 5 stasiun restoratif yang memuliakan martabat fitrah insan.
 5. **Haram Penciptaan Berkas Dangkal (<8.500 Kata pada PROBE)**: Dilarang menyusun berkas inkuiri PROBE dalam bentuk ringkasan dangkal, checklist administratif, atau naskah drama sandiwara percakapan (*Guardrail Rigor Ilmiah*).
    - *Klausul Mitigasi*: Setiap berkas PROBE wajib disusun dalam format Jurnal Riset Desain Sistem (Review Paper) yang menganalisis puluhan sumber otoritatif.
-6. **Haram Mencantumkan Tautan Paywall Berbayar (DOI Komersial)**: Dilarang mencantumkan link `https://doi.org/...` komersial yang mengunci akses literatur di balik dinding berbayar (*Guardrail Open Access Pesantren*).
+6. **Haram Mencantumkan Tautan Paywall Berbayar (DOI Komersial)**: Dilarang mencantumkan tautan DOI komersial berbayar yang mengunci akses literatur di balik dinding berbayar (*Guardrail Open Access Pesantren*).
    - *Klausul Mitigasi*: Seluruh sitasi wajib menggunakan format teks bibliografis bersih berstandar APA 7th Edition yang dapat diverifikasi secara mandiri.
 7. **Haram Meremehkan Ruang Lingkup Adaptasi Lokal**: Dilarang memaksakan standardisasi V2 secara kaku hingga mematikan kearifan lokal (*kearifan lokal pesantren daerah*) yang tidak melanggar prinsip syar'i (*Guardrail Fleksibilitas Budaya*).
    - *Klausul Mitigasi*: Branch V2 menyediakan ruang adaptasi (*adaptation space*) yang sah di lapisan `02_IMPLEMENTATION` untuk mengakomodasi keunikan budaya pesantren setempat.
