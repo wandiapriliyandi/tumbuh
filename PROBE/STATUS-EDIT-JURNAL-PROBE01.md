@@ -11,10 +11,11 @@ Aturan main:
 
 ## Progres
 
-Teredit: **5 dari 120**
+Teredit: **6 dari 120**
 
 - [x] P00000 — 15 Nov 2026 (3.141 kata; daftar pustaka 49 → 20 entri yang disitir)
 - [x] P00001 — 15 Nov 2026 (3.501 kata; daftar pustaka 50 → 19 entri yang disitir)
 - [x] P00002 — 15 Nov 2026 (3.221 kata; daftar pustaka 50 → 18 entri yang disitir)
 - [x] P00003 — 15 Nov 2026 (3.188 kata; daftar pustaka 50 → 18 entri yang disitir)
 - [x] P00004 — 15 Nov 2026 (2.933 kata; daftar pustaka 50 → 9 entri yang disitir)
+- [x] P00005 — 15 Nov 2026 (3.033 kata; daftar pustaka 50 → 15 entri yang disitir)
