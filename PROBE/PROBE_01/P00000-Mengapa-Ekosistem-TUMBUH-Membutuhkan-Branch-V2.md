@@ -33,7 +33,9 @@ Dua kaidah ushul membingkai dialektika persoalan ini. Kaidah istishhab (As-Suyut
 
 Kaidah taghayyur (Ibnu Qayyim, *I'lam al-Muwaqqi'in*) mengakui perubahan hukum ijtihadiyah mengikuti zaman, tempat, dan keadaan:
 
-> لَا يُنْكَرُ تَغَيُّرُ الْأَحْكَامِ الِاجْتِهَادِيَّةِ بِتَغَيُّرِ الْأَزْمَانِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ Al-Qarafi dalam *Al-Furuq* memperingatkan bahwa kebekuan (*jumud*) pada teks fatwa masa lalu adalah kesesatan dan kebodohan terhadap maksud para ulama; bila realitas kebiasaan berganti, wajib disusun hukum sarana baru **tanpa merobohkan asas kulliyyah**. Tata kelola V1 adalah sarana ijtihadiyah perintisan; menyusun arsitektur baru ketika repositori membesar adalah tuntutan kaidah ini.
+> لَا يُنْكَرُ تَغَيُّرُ الْأَحْكَامِ الِاجْتِهَادِيَّةِ بِتَغَيُّرِ الْأَزْمَانِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ
+
+Al-Qarafi dalam *Al-Furuq* memperingatkan bahwa kebekuan (*jumud*) pada teks fatwa masa lalu adalah kesesatan dan kebodohan terhadap maksud para ulama; bila realitas kebiasaan berganti, wajib disusun hukum sarana baru **tanpa merobohkan asas kulliyyah**. Tata kelola V1 adalah sarana ijtihadiyah perintisan; menyusun arsitektur baru ketika repositori membesar adalah tuntutan kaidah ini.
 
 Preseden metodologis paling otentik adalah ijtihad Imam Asy-Syafi'i: *Qaul Qadim* di Baghdad digantikan *Qaul Jadid* di Mesir setelah beliau menjumpai realitas dan verifikasi dalil baru. An-Nawawi dalam *Al-Majmu'* mencatat bahwa Asy-Syafi'i tidak memusnahkan naskah Qaul Qadim; naskah itu tetap diakui sebagai fase keilmuan yang sah dan diriwayatkan murid-muridnya dengan sanad bersambung, sementara implementasi resmi berpindah ke Qaul Jadid. Pola ini sejajar dengan keputusan TUMBUH: branch `main` (V1) dihormati dan diarsipkan; branch `v2.0.0` memegang kedaulatan implementasi ke depan. (Batas analogi ini diakui pada sub-bab Keberatan.)
 
