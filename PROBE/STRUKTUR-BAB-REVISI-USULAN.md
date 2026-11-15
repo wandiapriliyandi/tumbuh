@@ -42,3 +42,20 @@ Target >8.500 kata per berkas **tidak dipertahankan**, dengan alasan:
 3. Kedalaman ditentukan oleh pertanyaannya, bukan kuota. Probe yang pertanyaannya sempit dan buktinya cukup akan tuntas di ±3.000 kata; memaksanya ke 8.500 hanya menambah pengulangan.
 
 **Penggantinya:** kriteria tuntas fungsional. Perkiraan wajar probe substantif dengan struktur baru: **3.500–6.000 kata**. Bila sebuah draf melewati ±7.000 kata, itu sinyal untuk memeriksa pengulangan antarbab, bukan prestasi.
+
+
+---
+
+## Keputusan Final — Struktur Artikel Jurnal 7 Bab (15 November 2026, 19:12–19:16 WIB)
+
+Usulan 12 bab di atas **digantikan** oleh keputusan final Wandi: berkas PROBE adalah **artikel jurnal** — bukan buku ajar, apalagi buku arahan — dan strukturnya dipadatkan menjadi 7 bab mengikuti bentuk baku karya ilmiah jurnal:
+
+1. **Abstrak**
+2. **Pendahuluan** (konteks lapangan, rumusan masalah, pertanyaan inti & kriteria selesai, ketegangan epistemik)
+3. **Tinjauan Pustaka** (Turats dan Sains sebagai dua sub-bab; aturan kutipan verbatim/parafrase berlaku di sini)
+4. **Metode**
+5. **Hasil dan Pembahasan** (bukti lapangan — atau deklarasi eksplisit ketiadaannya; dialektika & rekonsiliasi; sub-bab Keberatan/I'tiradh)
+6. **Kesimpulan** (temuan, implikasi, keterbatasan, status SELESAI / LANJUT / BUTUH DATA)
+7. **Daftar Pustaka**
+
+Konsekuensi genre: **ADR, protokol tindakan, dan guardrails bukan bab artikel** — ketiganya adalah dokumen repositori yang disusun dari kesimpulan artikel. Ketentuan lain dari usulan di atas tetap berlaku: target jumlah kata dicabut (tuntas fungsional), rantai lanjutan kondisional, dan tanpa bukti lapangan status tertinggi adalah BUTUH DATA. Standar final ini telah ditulis ke skill `pakar-probe-inquiry-tumbuh` (Bagian 27.1) dan `pakar-penulis-monograf-tumbuh`, serta dicontohkan pada `CONTOH-EDIT-P00000-STRUKTUR-REVISI.md`.

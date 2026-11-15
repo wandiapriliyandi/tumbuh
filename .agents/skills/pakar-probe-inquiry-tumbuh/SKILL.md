@@ -12,7 +12,7 @@ description: >-
 
 Skill ini membimbing agen dan pengembang dalam memfungsikan **PROBE sebagai mesin inquiry TUMBUH**, menjaga metodologi penyelidikan agar mendalam dan berbasis bukti, mengendalikan agar tidak terjadi *inquiry drift*, serta memastikan seluruh hasil inquiry bermuara pada penguatan repositori dan sistem TUMBUH.
 
-> **Catatan Revisi — 15 November 2026 (arahan Wandi).** Standar struktur bab dan kedalaman pada skill ini telah direvisi: (1) struktur baku berubah dari 13 bab menjadi **12 bab** — ditambah Bab Metode Inkuiri, Bab Bukti Lapangan, dan Bab Keberatan & Sanggahan (I'tiradh); matriks komparatif dilebur ke Bab Dialektika; ADR, protokol, implikasi & guardrails digabung dalam satu bab keputusan; bab penutup diganti menjadi Keterbatasan & Status Lanjutan. (2) **Target volume >8.500 kata dicabut**, diganti kriteria tuntas fungsional (lihat 27.4). (3) Rantai pertanyaan lanjutan bersifat **kondisional** mengikuti status SELESAI / LANJUT / BUTUH DATA, selaras dengan aturan berhenti pada Bagian 20. Dokumen usulan dan contoh penerapannya: `PROBE/STRUKTUR-BAB-REVISI-USULAN.md` dan `PROBE/CONTOH-EDIT-P00000-STRUKTUR-REVISI.md`. Berkas PROBE yang telah terbit **tidak ditulis ulang**; standar revisi berlaku untuk berkas baru.
+> **Catatan Revisi — 15 November 2026 (arahan Wandi).** Standar struktur bab dan kedalaman pada skill ini direvisi dua tahap dalam satu hari: dari 13 bab menjadi usulan 12 bab, lalu **ditetapkan final sebagai artikel jurnal 7 bab** — Abstrak; Pendahuluan; Tinjauan Pustaka; Metode; Hasil dan Pembahasan; Kesimpulan; Daftar Pustaka — karena berkas PROBE adalah karya ilmiah jurnal, **bukan buku ajar, apalagi buku arahan**: ADR, protokol, dan guardrails adalah dokumen repositori yang disusun dari kesimpulan artikel, bukan bab di dalamnya. **Target volume >8.500 kata dicabut**, diganti kriteria tuntas fungsional (lihat 27.4). Rantai pertanyaan lanjutan bersifat **kondisional** mengikuti status SELESAI / LANJUT / BUTUH DATA (lihat Bagian 20). Dokumen usulan dan contoh penerapannya: `PROBE/STRUKTUR-BAB-REVISI-USULAN.md` dan `PROBE/CONTOH-EDIT-P00000-STRUKTUR-REVISI.md`. Berkas PROBE yang telah terbit **tidak ditulis ulang**; standar revisi berlaku untuk berkas baru.
 
 ---
 
@@ -648,7 +648,7 @@ Mulai pengembangan berikutnya:
 7. jika cabang inquiry tidak lagi membantu TUMBUH, cabang tersebut dihentikan atau dikembalikan ke parent question;
 8. hasil yang substantif diarahkan ke repository yang sesuai;
 9. setiap P yang selesai langsung di-push ke v2.0.0;
-10. urutan P mengikuti temuan dan Drift Check, tetapi **tidak boleh kehilangan anchor TUMBUH**; kelanjutan bukan kewajiban — setiap P wajib berakhir dengan status SELESAI, LANJUT, atau BUTUH DATA (lihat Bagian 20 dan Bab 11 struktur baku).
+10. urutan P mengikuti temuan dan Drift Check, tetapi **tidak boleh kehilangan anchor TUMBUH**; kelanjutan bukan kewajiban — setiap P wajib berakhir dengan status SELESAI, LANJUT, atau BUTUH DATA (lihat Bagian 20 dan Bab 6 struktur baku).
 
 ---
 
@@ -666,68 +666,49 @@ Berkas PROBE bukan sekadar catatan lepas atau draf SOP teknis; **setiap berkas P
 
 Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional** (kajian literatur multidisipliner, bukti empiris, dan dialektika kritis) dengan **ketegasan rekayasa sistem pendidikan pesantren** (ADR, guardrails, dan penataan kurikulum/SOP).
 
-| No | Bagian Baku Jurnal Riset PROBE (Revisi 2026) | Target Muatan Substantif |
+| No | Bab Baku Artikel Jurnal PROBE (Keputusan Final, Revisi 15 Nov 2026) | Muatan Substantif |
 |:---:|---|---|
-| 1 | **Identitas & Pertanyaan Inti** | ID Berkas, Klaster, Sub-Klaster, *TUMBUH Question* eksplisit, dan **kriteria selesai** inkuiri |
-| 2 | **Abstrak & Epistemic Tension** | Ringkasan masalah dan ketegangan konseptual yang diuji — tanpa menulis kesimpulan di depan |
-| 3 | **Rumusan Masalah & Konteks Lapangan** | Realitas lapangan yang melatarbelakangi pertanyaan (asrama 24 jam / tata kelola repositori), termasuk data awal bila ada |
-| 4 | **Metode Inkuiri** | Cara sumber dicari dan dipilih (kriteria inklusi turats & literatur), jenis bukti yang dipakai, batas metode |
-| 5 | **Kajian Sumber I (Turats)** | Teks Arab berharakat sempurna, takhrij hadits, & syarah ulama salaf — kutipan verbatim terverifikasi atau ditandai sebagai parafrase |
-| 6 | **Kajian Sumber II (Sains Modern)** | Jurnal internasional mutakhir, neurosains terapan, teori perkembangan dan sistem |
-| 7 | **Bukti Lapangan** | Observasi, data santri/lembaga, hasil audit, atau hasil pilot. **Bila belum ada, wajib dinyatakan secara eksplisit** beserta data yang dibutuhkan; dilarang diisi karangan analitis |
-| 8 | **Dialektika & Rekonsiliasi Epistemik** | *Al-Jam'u wat-Taufiq* (titik temu syariat & sains) **dan** titik yang tidak dapat didamaikan; matriks komparatif menjadi tabel opsional di dalam bab ini |
-| 9 | **Keberatan & Sanggahan (I'tiradh)** | Argumen terkuat yang menolak arah kesimpulan, kondisi di mana kesimpulan ini salah, serta jawaban — atau keberatan yang dibiarkan terbuka |
-| 10 | **Keputusan Sistem (ADR) & Protokol** | *Architectural Decision Record* kanonik, protokol tindakan, implikasi lintas lapisan 01/02/03, & guardrails |
-| 11 | **Keterbatasan & Status Lanjutan** | Keterbatasan inkuiri ini dan status tegas: **SELESAI** / **LANJUT** (dengan pertanyaan spesifik) / **BUTUH DATA**. Pertanyaan lanjutan hanya ditulis bila statusnya LANJUT |
-| 12 | **Referensi Terkurasi (APA 7th Clean)** | Pustaka primer dari `REFERENCES/` (turats & jurnal ilmiah bebas paywall) |
+| 1 | **Abstrak** | Ringkasan utuh artikel (150–250 kata): masalah, metode, temuan pokok, dan kesimpulan |
+| 2 | **Pendahuluan** | Latar dan konteks lapangan, rumusan masalah, pertanyaan inti beserta kriteria selesai, dan ketegangan epistemik yang diuji |
+| 3 | **Tinjauan Pustaka** | Dua sub-bab: (a) khazanah turats — teks Arab berharakat, takhrij, syarah mu'tabar; (b) sains & literatur modern terkurasi. Kutipan verbatim wajib terverifikasi; parafrase wajib ditandai |
+| 4 | **Metode** | Cara sumber dicari dan dipilih (kriteria inklusi), jenis bukti yang dipakai, dan batas metode — sebagaimana dituntut artikel review sistematis |
+| 5 | **Hasil dan Pembahasan** | *Hasil*: bukti lapangan yang benar-benar ada — **atau pernyataan eksplisit ketiadaannya** beserta data yang dibutuhkan. *Pembahasan*: dialektika & rekonsiliasi (matriks komparatif sebagai tabel opsional) dan sub-bab **Keberatan (I'tiradh)** |
+| 6 | **Kesimpulan** | Temuan dan keputusan yang dihasilkan secara ringkas, implikasi bagi repositori, keterbatasan inkuiri, dan status tegas: **SELESAI** / **LANJUT** / **BUTUH DATA** |
+| 7 | **Daftar Pustaka** | APA 7th bersih bebas paywall untuk literatur modern; takhrij bibliografis lengkap untuk turats |
 
-#### Penjabaran 12 Bagian Baku Artikel Jurnal Riset PROBE (Revisi 2026):
+**Aturan genre (keputusan Wandi, 15 November 2026): berkas PROBE adalah artikel jurnal — bukan buku ajar, apalagi buku arahan.** Karena itu ADR formal, protokol tindakan, dan daftar guardrails **bukan bab di dalam artikel**; ketiganya adalah dokumen repositori yang *disusun dari* kesimpulan artikel (lihat Bagian 3: PROBE menggali, Repository merumuskan). Artikel berhenti pada temuan, argumentasi, dan kesimpulan; perumusan preskriptif terjadi di lapisan repositori.
 
-1. **Identitas & Pertanyaan Inti (Metadata Ringkas)**:
-   - Menetapkan ID berkas 5-digit (`PROBE/PROBE_02/P00xxx`), judul monograf spesifik, nama klaster dan sub-klaster, rumusan *TUMBUH Question* sebagai jangkar utama, dan **kriteria selesai**: keadaan yang membuat inkuiri ini dinyatakan tuntas. Data registri lengkap (riwayat versi, keterkaitan berkas) dicatat di indeks seri, bukan diulang di setiap berkas.
-2. **Abstrak & Pernyataan Ketegangan Epistemik (*Abstract & Epistemic Tension*)**:
-   - Paragraf abstrak formal (150–250 kata) yang mengikhtisarkan ketegangan konseptual yang diuji, gap antara tradisi pesantren dan temuan ilmiah, serta metode sintesis. Abstrak **tidak menuliskan kesimpulan/keputusan di depan**; keputusan adalah hasil inkuiri dan tempatnya di Bab 10.
-3. **Rumusan Masalah & Konteks Lapangan**:
-   - Mengurai latar belakang masalah dari realitas nyata: friksi kehidupan kamar, kelelahan musyrif, dinamika santri, kekeliruan pendekatan konvensional (reaksi represif punitif atau simplifikasi mistis). Untuk `PROBE_01`, konteksnya adalah tata kelola repositori dan kelembagaan. Bab ini menambatkan pertanyaan pada fenomena, bukan pada teori semata.
-4. **Metode Inkuiri**:
-   - Menjelaskan cara sumber dicari dan dipilih: kriteria inklusi turats (kitab mu'tabar, takhrij dapat diverifikasi) dan literatur modern (reputasi jurnal/buku, relevansi langsung dengan pertanyaan), jenis bukti yang dipakai, dan batas metode yang digunakan. Bab ini membuat inkuiri dapat dinilai dan diulang.
-5. **Kajian Sumber I: Khazanah Turats Klasik & Hermeneutika Syariat**:
-   - Membedah dalil syar'i primer: menyertakan **teks Arab berharakat lengkap**, rawi, derajat hadits, serta syarah ulama mu'tabar (Al-Ghazali, Ibnu Qayyim, Abu Zayd al-Balkhi, Asy-Syathibi, dll.). Membahas dimensi *Maqashid Syari'ah* dan kaidah ushul fiqih yang relevan.
+#### Penjabaran 7 Bab Baku Artikel Jurnal PROBE:
+
+1. **Abstrak**:
+   - Ringkasan utuh satu-dua paragraf (150–250 kata): persoalan yang diuji, metode yang dipakai, temuan pokok, dan kesimpulan. Ditulis terakhir, setelah seluruh artikel selesai. Identitas berkas (ID 5-digit, klaster, sub-klaster) dicatat pada kepala berkas sebagai metadata ringkas, bukan bab tersendiri.
+2. **Pendahuluan**:
+   - Mengurai latar dari realitas nyata: friksi kehidupan kamar, kelelahan musyrif, dinamika santri, kekeliruan pendekatan konvensional (untuk `PROBE_01`: konteks tata kelola repositori dan kelembagaan). Merumuskan masalah, *TUMBUH Question* sebagai jangkar, ketegangan epistemik yang diuji, dan **kriteria selesai** inkuiri ini.
+3. **Tinjauan Pustaka**:
+   - **Sub-bab Turats**: dalil syar'i primer dengan **teks Arab berharakat lengkap**, rawi, derajat hadits, syarah ulama mu'tabar, serta dimensi maqashid dan kaidah ushul yang relevan.
+   - **Sub-bab Sains & Literatur Modern**: literatur terkurasi dari `REFERENCES/` — nama peneliti otoritatif, metodologi, dan temuan kunci (mekanisme kognitif/neurobiologis, teori sistem, dan sebagainya).
    - **Aturan kutipan**: kutipan yang disajikan sebagai teks asli wajib verbatim dan terverifikasi pada sumbernya. Ringkasan atau parafrase wajib ditandai sebagai parafrase dan tidak boleh diberi penanda halaman seolah kutipan hurufiah.
-6. **Kajian Sumber II: Riset Empiris, Psikologi Perkembangan, & Neurosains Modern**:
-   - Mengambil literatur terkurasi dari direktori [REFERENCES/journals/](file:///c:/xampp/htdocs/tumbuh/REFERENCES/journals) dan [REFERENCES/books/](file:///c:/xampp/htdocs/tumbuh/REFERENCES/books).
-   - Mengutip nama ilmuwan otoritatif (misal: Blakemore, Siegel, Deci & Ryan, Sugai & Horner, Nelsen, Bandura), metodologi penelitian, serta mekanisme kognitif/neurobiologis spesifik (fungsi lobus frontal, hormon stres, regulasi dopamin).
-7. **Bukti Lapangan**:
-   - Memuat bukti empiris yang benar-benar ada: observasi, data santri/lembaga, hasil audit arsip/dokumen, transkrip wawancara, atau hasil uji coba (pilot).
-   - **Bila bukti lapangan belum ada, bab ini wajib menyatakannya secara eksplisit** dan mencatat data apa yang dibutuhkan untuk memperolehnya. Berkas yang pertanyaannya substantif tetapi bukti lapangannya kosong berstatus tertinggi **BUTUH DATA** (Bab 11), bukan SELESAI.
-   - Untuk pertanyaan meta-arsitektur (domain `PROBE_01`), bab ini cukup berupa paragraf deklaratif beralasan mengenai bukti arsip/repositori yang dipakai, atau pernyataan ketiadaannya.
-   - **PANTANGAN MUTLAK**: Dilarang menggunakan format naskah drama sandiwara (*dialogue script*) dalam menyajikan kasus; gunakan narasi analitis-deskriptif.
-8. **Dialektika & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)**:
-   - Membenturkan secara tajam: di mana letak ketegangan antara pandangan fiqhiyyah tradisional dan sains modern, serta bagaimana keduanya diselaraskan secara metodologis tanpa sekularisasi dan tanpa pseudosains.
-   - Rekonsiliasi **tidak wajib tuntas**: titik yang memang tidak dapat didamaikan wajib dinyatakan sebagai titik terbuka, bukan dipaksakan damai.
-   - Matriks komparatif multidimensi (misal: Spektrum Perilaku vs Tingkat Intervensi Multi-Tier, Model Punitif vs Restoratif, Matriks Audit Istilah) disajikan sebagai **tabel di dalam bab ini** bila memang memperkuat analisis — bukan bab tersendiri.
-9. **Keberatan & Sanggahan (I'tiradh)**:
-   - Memuat argumen terkuat yang menolak arah kesimpulan inkuiri ini, dirumuskan dengan jujur sebagaimana akan diajukan oleh pengkritik yang kompeten — termasuk kondisi konkret di mana kesimpulan ini terbukti salah.
-   - Setiap keberatan dijawab dengan argumentasi, atau **dibiarkan terbuka** dan dicatat pengaruhnya terhadap status keputusan. Bab ini adalah penjaga agar inkuiri dapat salah dan dapat dikoreksi.
-10. **Keputusan Sistem (ADR) & Protokol**:
-    - Blok keputusan ADR kanonik: Status, Keputusan Arsitektural, Dasar Pertimbangan Epistemik, Batasan Sistem, dan indikator kegagalan keputusan (bukti apa yang mewajibkan keputusan ini dievaluasi ulang).
-    - Protokol tindakan edukatif bagi musyrif/pengelola: langkah de-eskalasi, validasi perasaan santri, etika percakapan restoratif, penjaminan rasa aman.
-    - Implikasi turunan ke `01_FUNDAMENTAL/`, `02_IMPLEMENTATION/`, dan `03_OPERATIONAL/`, serta guardrails (batasan mutlak) yang dirumuskan dari keputusan ini.
-11. **Keterbatasan & Status Lanjutan**:
-    - Menyatakan keterbatasan inkuiri ini secara eksplisit: batas data, batas metode, dan batas penilai.
-    - Menetapkan status tegas salah satu: **SELESAI** (pertanyaan terjawab dan keputusan terkodifikasi), **LANJUT** (ada pertanyaan spesifik berikutnya yang material — rumuskan pertanyaannya secara ringkas), atau **BUTUH DATA** (menunggu bukti lapangan pada Bab 7).
-    - **PANTANGAN MUTLAK (ANTI-README LEAKAGE)**: Dilarang menyajikan daftar katalog berkas, roadmap, atau daftar isi berkas mendatang di dalam berkas monograf. Katalog dan roadmap adalah domain eksklusif `README.md` atau `RENCANA_REKONSTRUKSI_PROBE_xx.md` dan indeks seri.
-12. **Daftar Pustaka / Referensi Terkurasi Lengkap**:
-    - Sitasi formal standar **APA 7th Edition Bersih (tanpa tautan doi.org berbayar)** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
+4. **Metode**:
+   - Menjelaskan cara sumber dicari dan dipilih: kriteria inklusi turats (kitab mu'tabar, takhrij dapat diverifikasi) dan literatur modern (reputasi, relevansi langsung dengan pertanyaan), jenis bukti yang dipakai, dan batas metode. Bab ini membuat inkuiri dapat dinilai dan diulang — syarat artikel review sistematis.
+5. **Hasil dan Pembahasan**:
+   - **Hasil**: bukti empiris yang benar-benar ada — observasi, data santri/lembaga, hasil audit, transkrip wawancara, atau hasil uji coba (pilot). **Bila bukti belum ada, wajib dinyatakan secara eksplisit** beserta data yang dibutuhkan; berkas substantif tanpa bukti lapangan berstatus tertinggi **BUTUH DATA**. Untuk pertanyaan meta-arsitektur (`PROBE_01`), bukti arsip/repositori dinyatakan secara deklaratif beralasan. **PANTANGAN MUTLAK**: kasus disajikan dalam narasi analitis-deskriptif, dilarang format naskah drama (*dialogue script*).
+   - **Pembahasan**: dialektika konfrontatif dan rekonsiliasi epistemik (*al-jam'u wat-taufiq*) antara temuan turats, sains, dan bukti lapangan. Rekonsiliasi **tidak wajib tuntas** — titik yang tidak dapat didamaikan dinyatakan sebagai titik terbuka. Matriks komparatif multidimensi disajikan sebagai **tabel di dalam bab ini** bila memperkuat analisis.
+   - **Sub-bab Keberatan (I'tiradh)**: argumen terkuat yang menolak arah kesimpulan, dirumuskan sebagaimana diajukan pengkritik yang kompeten, termasuk kondisi konkret di mana kesimpulan ini terbukti salah. Setiap keberatan dijawab, atau dibiarkan terbuka dan dicatat pengaruhnya terhadap kesimpulan.
+6. **Kesimpulan**:
+   - Merumuskan temuan dan keputusan yang dihasilkan secara ringkas, implikasi bagi repositori TUMBUH, keterbatasan inkuiri (batas data, metode, penilai), dan status tegas: **SELESAI**, **LANJUT** (dengan pertanyaan spesifik berikutnya), atau **BUTUH DATA**.
+   - Dari kesimpulan inilah ADR, protokol, dan guardrails **disusun sebagai dokumen repositori** — bukan ditulis sebagai bab artikel.
+   - **PANTANGAN MUTLAK (ANTI-README LEAKAGE)**: dilarang menyajikan daftar katalog berkas atau roadmap di dalam artikel; katalog adalah domain `README.md`, `RENCANA_REKONSTRUKSI_PROBE_xx.md`, dan indeks seri.
+7. **Daftar Pustaka**:
+   - Sitasi formal **APA 7th Edition Bersih (tanpa tautan doi.org berbayar)** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
 
 ---
 
 ### 27.2. Fleksibilitas Penekanan Sesuai Karakter Sub-Klaster
 
-Meskipun memegang struktur 12 bagian jurnal di atas, bobot pembahasan disesuaikan secara organik:
-- **Sub-Klaster Audit Istilah (Semantik)**: Memperdalam Bab 5 (Filologi & Isytiqaq Arab) dan matriks audit semantik di dalam Bab 8.
-- **Sub-Klaster Teori Besar & Sains**: Memperdalam Bab 6 (Kajian Jurnal & Teori Paradigma) dan Bab 8 (Dialektika Kuhn/Popper vs Hermeneutika Islam).
-- **Sub-Klaster Studi Kasus Lapangan**: Memperdalam Bab 3 (Konteks Lapangan), Bab 7 (Bukti Lapangan), dan Bab 10 (Protokol De-eskalasi dalam ADR & Protokol).
+Meskipun memegang struktur 7 bab jurnal di atas, bobot pembahasan disesuaikan secara organik:
+- **Sub-Klaster Audit Istilah (Semantik)**: Memperdalam sub-bab Turats pada Bab 3 (Filologi & Isytiqaq Arab) dan matriks audit semantik di dalam Bab 5.
+- **Sub-Klaster Teori Besar & Sains**: Memperdalam sub-bab Sains pada Bab 3 (Kajian Jurnal & Teori Paradigma) dan Pembahasan pada Bab 5 (Dialektika Kuhn/Popper vs Hermeneutika Islam).
+- **Sub-Klaster Studi Kasus Lapangan**: Memperdalam Bab 2 (Konteks Lapangan pada Pendahuluan) dan Bab 5 (Hasil & Pembahasan).
 
 ---
 
@@ -764,7 +745,7 @@ Sebagai **jurnal jenis review paper**, setiap berkas PROBE memiliki mandat metod
    - Membandingkan berbagai model intervensi empiris kontemporer dan mengevaluasi kelemahan/kelebihannya di lingkungan asrama tertutup (*total institution*).
 
 2. **Kajian Turats Otentik, Filologi Teks, & Hermeneutika Syariat**:
-   - Menyertakan **teks Arab berharakat lengkap** dari ayat Al-Qur'an, matan hadits shahih (dengan nama rawi dan takhrij kitab), serta kutipan karya ulama mu'tabar (seperti Al-Ghazali, Ibnu Qayyim al-Jauziyyah, Al-Muhasibi, Al-Mawardi, Abu Zayd al-Balkhi, Asy-Syathibi, Ibnu Rajab al-Hanbali, dll.) — dengan aturan kutipan pada Bab 5 struktur baku: verbatim terverifikasi, atau ditandai parafrase.
+   - Menyertakan **teks Arab berharakat lengkap** dari ayat Al-Qur'an, matan hadits shahih (dengan nama rawi dan takhrij kitab), serta kutipan karya ulama mu'tabar (seperti Al-Ghazali, Ibnu Qayyim al-Jauziyyah, Al-Muhasibi, Al-Mawardi, Abu Zayd al-Balkhi, Asy-Syathibi, Ibnu Rajab al-Hanbali, dll.) — dengan aturan kutipan pada Bab 3 struktur baku: verbatim terverifikasi, atau ditandai parafrase.
    - Menganalisis makna leksikal (*isytiqaq*) dan kaidah ushul fiqih/maqashid syariah (*hifzhun nafs, hifzhul 'aql, hifzhud din*) untuk menunjukkan bahwa solusi TUMBUH berakar murni pada tradisi keilmuan Islam, bukan adopsi buta teori barat.
 
 3. **Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)**:
@@ -772,11 +753,11 @@ Sebagai **jurnal jenis review paper**, setiap berkas PROBE memiliki mandat metod
    - Merumuskan sintesis epistemik: bagaimana syariat dan sains saling memvalidasi dan melengkapi dalam merawat fitrah santri — dan menyatakan secara terbuka titik yang tidak dapat didamaikan.
 
 4. **Bukti & Fenomenologi Lapangan Asrama 24 Jam**:
-   - Menggali anatomi kasus nyata kehidupan asrama santri (dinamika kamar, relasi sebaya, tekanan hafalan, kejenuhan, krisis identitas, relasi kuasa senior-junior, bias persepsi musyrif) dari bukti yang benar-benar ada (Bab 7 struktur baku), bukan karangan analitis.
+   - Menggali anatomi kasus nyata kehidupan asrama santri (dinamika kamar, relasi sebaya, tekanan hafalan, kejenuhan, krisis identitas, relasi kuasa senior-junior, bias persepsi musyrif) dari bukti yang benar-benar ada (Bab 5 struktur baku), bukan karangan analitis.
    - **PANTANGAN MUTLAK**: Dilarang menggunakan format naskah drama atau dialog sandiwara percakapan (*script dialogue*). Seluruh studi kasus disajikan dalam **narasi deskriptif-analitis objektif** yang membedah akar motif, faktor pemicu lingkungan (*setting events & antecedents*), dan dinamika psikologis para pihak.
 
 5. **Keberatan & Sanggahan (I'tiradh)**:
-   - Merumuskan argumen terkuat penolak kesimpulan dan kondisi kegagalannya, lalu menjawabnya atau membiarkannya terbuka secara tercatat (Bab 9 struktur baku).
+   - Merumuskan argumen terkuat penolak kesimpulan dan kondisi kegagalannya, lalu menjawabnya atau membiarkannya terbuka secara tercatat (sub-bab Keberatan pada Bab 5 struktur baku).
 
 6. **Architectural Decision Record (ADR) Komprehensif**:
    - Mengkodifikasikan keputusan desain dalam format ADR yang lengkap: mencakup konteks masalah, keputusan kanonik, dasar pertimbangan epistemologis, risiko mitigasi, kriteria evaluasi keberhasilan, dan indikator kegagalan keputusan.
@@ -792,7 +773,7 @@ Sebagai **jurnal jenis review paper**, setiap berkas PROBE memiliki mandat metod
 ---### 27.5. Prinsip Penjangkaran Judul Mutlak (*Strict Title & Inquiry Anchoring*)
 
 1. **Semua Bab Wajib Terhubung Langsung ke Judul**:
-   - Seluruh 12 bab (dari Bab 1 hingga Bab 12) dan sub-babnya wajib memiliki benang merah yang terikat secara ketat dan eksplisit ke **Judul Berkas** dan **TUMBUH Question**.
+   - Seluruh 7 bab (dari Bab 1 hingga Bab 7) dan sub-babnya wajib memiliki benang merah yang terikat secara ketat dan eksplisit ke **Judul Berkas** dan **TUMBUH Question**.
    - Judul berkas adalah jangkar epistemik utama (*primary anchor*). Setiap argumen yang ditulis harus secara sadar ditujukan untuk membuktikan, membedah, atau menjawab tema sentral pada judul tersebut.
 2. **Larangan Bab Mengambang / Generik (*No Detached Chapters*)**:
    - Tinjauan pustaka (turats maupun sains modern), studi kasus lapangan, matriks komparatif, hingga protokol operasional **dilarang disajikan secara generik atau mengambang**.
@@ -821,7 +802,7 @@ Sebagai **jurnal jenis review paper**, setiap berkas PROBE memiliki mandat metod
 2. **Dilarang Kloning Teks & Paragraf Boilerplate**: Setiap berkas harus memiliki argumentasi yang unik dan orisinal sesuai pertanyaan panduannya. Penggunaan paragraf yang sama persis secara massal antarberkas dianggap sebagai kegagalan penulisan (*intellectual defect*).
 3. **Dilarang Menggunakan Tautan DOI / Paywall Berbayar**: Dilarang menyertakan link `https://doi.org/...` berbayar. Gunakan sitasi metadata teks bersih (Penulis, Tahun, Judul, Nama Jurnal, Volume/No, Halaman).
 4. **Dilarang Overclaim Tanpa Rujukan**: Klaim psikologis atau neurosains tidak boleh ditulis tanpa landasan teori atau penelitian yang jelas.
-5. **Dilarang Menjadikan Bab 11 sebagai Daftar Isi / Roadmap Berkas (Anti-README Leakage)**: Bab 11 hanya memuat keterbatasan dan status lanjutan; pertanyaan lanjutan dirumuskan ringkas hanya bila statusnya LANJUT. Dilarang memindahkan fungsi `README.md` atau roadmap katalog berkas ke dalam monograf riset.
+5. **Dilarang Menjadikan Bab 6 sebagai Daftar Isi / Roadmap Berkas (Anti-README Leakage)**: Bab 6 (Kesimpulan) hanya memuat temuan, implikasi, keterbatasan, dan status; pertanyaan lanjutan dirumuskan ringkas hanya bila statusnya LANJUT. Dilarang memindahkan fungsi `README.md` atau roadmap katalog berkas ke dalam artikel jurnal.
 6. **Dilarang Menggambar Kotak dengan Karakter `_` atau `|`**: Segala bentuk kotak teks buatan manual dilarang; seluruh penyajian berbingkai wajib berupa Tabel Markdown resmi.
 
 ---
@@ -835,10 +816,10 @@ Sebelum berkas PROBE disahkan atau di-commit, lakukan verifikasi:
 | [ ] | Apakah berkas disusun sebagai jurnal ilmiah jenis Review Paper komprehensif? |
 | [ ] | Apakah setiap bab telah memenuhi fungsinya (tuntas fungsional), tanpa pengulangan antarbab yang menggelembungkan teks? |
 | [ ] | Apakah Bab 4 (Metode Inkuiri) menjelaskan cara sumber dicari, dipilih, dan dibatasi? |
-| [ ] | Apakah Bab 7 (Bukti Lapangan) memuat bukti yang benar-benar ada, atau menyatakan ketiadaannya secara eksplisit beserta data yang dibutuhkan? |
-| [ ] | Apakah Bab 9 (I'tiradh) memuat keberatan terkuat terhadap kesimpulan beserta jawaban atau keberatan terbukanya? |
-| [ ] | Apakah seluruh bab (Bab 1–12) terhubung langsung dan konsisten ke Judul Berkas & TUMBUH Question? |
-| [ ] | Apakah Bab 11 memuat keterbatasan dan status tegas (SELESAI / LANJUT / BUTUH DATA), bebas dari daftar katalog/roadmap berkas? |
+| [ ] | Apakah Bab 5 (Hasil) memuat bukti yang benar-benar ada, atau menyatakan ketiadaannya secara eksplisit beserta data yang dibutuhkan? |
+| [ ] | Apakah sub-bab Keberatan (I'tiradh) pada Bab 5 memuat keberatan terkuat terhadap kesimpulan beserta jawaban atau keberatan terbukanya? |
+| [ ] | Apakah seluruh bab (Bab 1–7) terhubung langsung dan konsisten ke Judul Berkas & TUMBUH Question? |
+| [ ] | Apakah Bab 6 (Kesimpulan) memuat keterbatasan dan status tegas (SELESAI / LANJUT / BUTUH DATA), bebas dari daftar katalog/roadmap berkas? |
 | [ ] | Apakah studi kasus dan tinjauan mematuhi boundary disiplin folder PROBE terkait? |
 | [ ] | Apakah semua tulisan dalam kotak telah menggunakan tabel Markdown resmi (tanpa kotak karakter `_` atau `|` manual)? |
 | [ ] | Apakah terdapat tinjauan literatur riset ilmiah ekstensif (nama peneliti, teori, metodologi, temuan empiris)? |
