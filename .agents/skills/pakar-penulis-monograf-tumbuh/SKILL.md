@@ -16,23 +16,22 @@ Master Author mengawal penulisan monograf berdasarkan enam pilar karya agung (*M
 
 1. **Retorika Dialektis Berjiwa Nubuwah (*Bayan & Balaghah Syar'iyyah*)**:
    Menolak bahasa akademis yang kaku, mekanistis, atau terjemahan harfiah bahasa asing yang canggung. Menuntut prosa bahasa Indonesia tingkat tinggi yang mengalir indah, berwibawa, kaya metafora bermakna, presisi secara peristilahan teknis, dan memancarkan wibawa ruhaniyah Islam (*Fashahah wal-Bayan*).
-2. **Kepatuhan Mutlak Struktur Baku 13 Bagian Jurnal Riset Desain Sistem**:
-   Setiap monograf kanonik PROBE wajib memenuhi 13 bagian standar emas:
-   - 1. Metadata & Pertanyaan Inti Inkuiri
+2. **Kepatuhan Mutlak Struktur Baku 12 Bagian Jurnal Riset Desain Sistem (Revisi 2026)**:
+   Setiap monograf kanonik PROBE wajib memenuhi 12 bagian standar emas — rumusan kanoniknya berada di skill `pakar-probe-inquiry-tumbuh` Bagian 27.1:
+   - 1. Identitas & Pertanyaan Inti (termasuk kriteria selesai)
    - 2. Abstrak & Epistemic Tension
-   - 3. Pendahuluan Fenomenologis (Dilema Pesantren)
-   - 4. Tinjauan Pustaka I: Khazanah Turats Islam Berharakat
-   - 5. Tinjauan Pustaka II: Sains Kontemporer & Teori Sistem
-   - 6. Dialektika Rekonsiliasi: Al-Jam'u wat-Taufiq
-   - 7. Pembahasan & Bedah Kasus Tata Kelola Kelembagaan
-   - 8. Matriks Komparatif Multidimensi & Tabel Analitis
-   - 9. Protokol Tata Kelola Prosedural Mandatori
-   - 10. Architectural Decision Record (ADR) Kanonik
-   - 11. Catatan Kaki Akademis (*Footnotes Numerik 1-to-1*) & Bibliografi Bersih
-   - 12. Rekomendasi Aksi Nyata Bagi Praktisi Pesantren
-   - 13. Penutup & Emergent Chain of Inquiry (Jembatan Berkas P+1)
-3. **Volume Substantif Anti-Dangkal ($\ge 400$ Baris Fisik)**:
-   Menolak segala bentuk naskah ringkas skeleton, draf administratif pendek, atau tulisan yang hanya memuat poin-poin bullet tanpa elaborasi narasi yang matang. Menuntut kedalaman kajian komprehensif minimal 400 hingga 500+ baris fisik substantif per berkas.
+   - 3. Rumusan Masalah & Konteks Lapangan
+   - 4. Metode Inkuiri
+   - 5. Kajian Sumber I: Khazanah Turats Islam Berharakat
+   - 6. Kajian Sumber II: Sains Kontemporer & Teori Sistem
+   - 7. Bukti Lapangan (atau pernyataan eksplisit ketiadaannya)
+   - 8. Dialektika Rekonsiliasi: Al-Jam'u wat-Taufiq (matriks komparatif sebagai tabel di dalamnya)
+   - 9. Keberatan & Sanggahan (I'tiradh)
+   - 10. Keputusan Sistem (ADR) & Protokol — termasuk rekomendasi aksi nyata bagi praktisi
+   - 11. Keterbatasan & Status Lanjutan (SELESAI / LANJUT / BUTUH DATA)
+   - 12. Referensi Terkurasi & Catatan Kaki Akademis (*Footnotes Numerik 1-to-1*)
+3. **Kedalaman Substantif Anti-Dangkal (Tuntas Fungsional)**:
+   Menolak segala bentuk naskah ringkas skeleton, draf administratif pendek, atau tulisan yang hanya memuat poin-poin bullet tanpa elaborasi narasi yang matang. Kedalaman diukur dari terpenuhinya fungsi setiap bab — bukan dari jumlah baris atau kata (patokan volume lama dicabut mengikuti Revisi 15 November 2026 pada skill `pakar-probe-inquiry-tumbuh`).
 4. **Eliminasi Total Format Naskah Drama (*Ban on Script Dialogue*)**:
    Mengharamkan mutlak penulisan studi kasus atau contoh lapangan dalam bentuk skrip drama sandiwara (seperti dialog `Ustaz Ahmad: "..."`, `Santri: "..."`). Seluruh kasus nyata wajib disajikan dalam bentuk narasi deskriptif-analitis objektif yang membedah anteseden, dinamika setting, dan konsekuensi sistemik.
 5. **Aparatus Rujukan Bebas Paywall & Numbered Footnotes 1-to-1**:
@@ -42,7 +41,7 @@ Master Author mengawal penulisan monograf berdasarkan enam pilar karya agung (*M
 
 ---
 
-## 2. Anatomi Alur Retorika Monograf 13 Bagian TUMBUH
+## 2. Anatomi Alur Retorika Monograf 12 Bagian TUMBUH
 
 Master Author merancang dinamika emosi dan nalar pembaca melalui alur retorika simfoni:
 
@@ -53,9 +52,9 @@ graph TD
         
         A2["BAGIAN 4-6: PENYELAMAN DALIL & SINTESIS DIALEKTIS<br/>• Menyejukkan dahaga nalar dengan matan Arab berharakat & syarah ulama salaf.<br/>• Mempertemukannya secara tajam dengan sains sistem modern (Al-Jam'u wat-Taufiq)."]
         
-        A3["BAGIAN 7-9: PEMBEDAHAN KASUS & PROTOKOL NYATA<br/>• Menyajikan studi kasus analitis objektif (tanpa skrip drama).<br/>• Merumuskan tabel matriks komparatif multi-tier & protokol tata kelola terukur."]
+        A3["BAGIAN 7-9: BUKTI, DIALEKTIKA & KEBERATAN<br/>• Menyajikan bukti lapangan dan studi kasus analitis objektif (tanpa skrip drama).<br/>• Membenturkan dialektika syariat–sains, lalu menghadapi keberatan terkuat (i'tiradh)."]
         
-        A4["BAGIAN 10-13: PENGUNCIAN ADR, FOOTNOTES & EMERGENCE<br/>• Mengunci ketetapan arsitektur dalam format ADR kanonik.<br/>• Menyajikan numbered footnotes 1-to-1 bebas paywall.<br/>• Membuka jembatan emergent inquiry menuju cakrawala berkas berikutnya."]
+        A4["BAGIAN 10-12: PENGUNCIAN ADR, STATUS & FOOTNOTES<br/>• Mengunci ketetapan arsitektur dalam format ADR kanonik beserta protokolnya.<br/>• Menyatakan keterbatasan dan status lanjutan secara tegas (SELESAI / LANJUT / BUTUH DATA).<br/>• Menyajikan numbered footnotes 1-to-1 bebas paywall."]
         
         A1 --> A2 --> A3 --> A4
     end
@@ -78,7 +77,7 @@ Master Author mengaudit gaya bahasa naskah untuk memastikan mutu begawan sastra 
 
 ## 4. Teknik Elaborasi Narasi Berbobot Tinggi (Anti-Shallow Elaboration Engine)
 
-Untuk menghasilkan tulisan substantif $\ge 400$ baris tanpa boilerplate atau filler kosong, Master Author menggunakan teknik pengembangan gagasan 4 dimensi:
+Untuk menghasilkan tulisan substantif yang tuntas fungsional tanpa boilerplate atau filler kosong, Master Author menggunakan teknik pengembangan gagasan 4 dimensi:
 1. **Dimensi Historis-Genealogis**: Menelusuri akar sejarah mengapa suatu masalah terjadi di dunia pendidikan Islam sejak era kolonial hingga modern.
 2. **Dimensi Hermeneutika Teks**: Mengkaji lafaz demi lafaz dalil syar'i, menelaah pandangan lintas mazhab ulama, dan menemukan titik temu maqashid.
 3. **Dimensi Analisis Dinamika Sistem**: Menguraikan efek sebab-akibat (*feedback loops*), titik ungkit (*leverage points*), dan konsekuensi tak terduga (*unintended consequences*).
@@ -89,8 +88,8 @@ Untuk menghasilkan tulisan substantif $\ge 400$ baris tanpa boilerplate atau fil
 ## 5. Rubrik Audit Mutu Naskah Monograf (Quality Gate Master Author)
 
 Setiap monograf yang diaudit oleh Master Author wajib memenuhi checklist:
-- [ ] **Panjang Fisik Substantif**: Naskah terverifikasi memiliki panjang $\ge 400$ baris fisik tulisan murni (bukan karena spasi kosong ganda).
-- [ ] **Struktur 13 Bagian Lengkap**: Tidak ada satu pun bab yang terlewat dari Metadata hingga Emergent Chain.
+- [ ] **Tuntas Fungsional**: Setiap bab memenuhi fungsinya — pertanyaan terjawab, bukti dihadirkan atau dinyatakan ketiadaannya, keberatan dihadapi — tanpa pengulangan antarbab (panjang bukan kriteria).
+- [ ] **Struktur 12 Bagian Lengkap**: Tidak ada satu pun bab yang terlewat dari Identitas & Pertanyaan Inti hingga Referensi Terkurasi.
 - [ ] **Bebas Kode Skrip Pemrograman**: Tidak ada blok kode ```python mentah di dalam naskah monograf inkuiri.
 - [ ] **Bebas Kotak Manual `_` atau `|`**: Seluruh tulisan, ringkasan, atau ikhtisar terkotak disajikan memakai tabel Markdown resmi; bebas total dari pembuatan kotak manual menggunakan karakter `_`, `|`, atau karakter gambar kotak ASCII.
 - [ ] **Sitasi Bersih & Footnotes 1-to-1**: Seluruh referensi menggunakan penomoran `[^1]` s/d `[^n]` terhubung presisi, bebas URL `doi.org` berbayar, dan memenuhi standar APA 7th Edition bersih.
