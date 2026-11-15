@@ -55,7 +55,9 @@ Usulan 12 bab di atas **digantikan** oleh keputusan final Wandi: berkas PROBE ad
 3. **Tinjauan Pustaka** (Turats dan Sains sebagai dua sub-bab; aturan kutipan verbatim/parafrase berlaku di sini)
 4. **Metode**
 5. **Hasil dan Pembahasan** (bukti lapangan — atau deklarasi eksplisit ketiadaannya; dialektika & rekonsiliasi; sub-bab Keberatan/I'tiradh)
-6. **Kesimpulan** (temuan, implikasi, keterbatasan, status SELESAI / LANJUT / BUTUH DATA)
+6. **Kesimpulan** (temuan, implikasi, keterbatasan, status CUKUP / BERLANJUT / BUTUH DATA)
 7. **Daftar Pustaka**
 
 Konsekuensi genre: **ADR, protokol tindakan, dan guardrails bukan bab artikel** — ketiganya adalah dokumen repositori yang disusun dari kesimpulan artikel. Ketentuan lain dari usulan di atas tetap berlaku: target jumlah kata dicabut (tuntas fungsional), rantai lanjutan kondisional, dan tanpa bukti lapangan status tertinggi adalah BUTUH DATA. Standar final ini telah ditulis ke skill `pakar-probe-inquiry-tumbuh` (Bagian 27.1) dan `pakar-penulis-monograf-tumbuh`, serta dicontohkan pada `CONTOH-EDIT-P00000-STRUKTUR-REVISI.md`.
+
+**Prinsip keterbukaan (ditambahkan 15 November 2026, 19:24 WIB):** PROBE tidak memiliki P terakhir dan tidak mengenal status selesai permanen. Status setiap berkas — CUKUP / BERLANJUT / BUTUH DATA — menyatakan keadaan saat ini dan selalu dapat dibuka kembali bila di kemudian hari muncul temuan baru. Karena itu label status yang dipakai adalah CUKUP (terjawab memadai untuk kebutuhan saat ini), bukan SELESAI.

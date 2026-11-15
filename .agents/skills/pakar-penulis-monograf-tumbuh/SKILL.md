@@ -23,7 +23,7 @@ Master Author mengawal penulisan monograf berdasarkan enam pilar karya agung (*M
    - 3. Tinjauan Pustaka (Turats & Sains sebagai dua sub-bab)
    - 4. Metode
    - 5. Hasil dan Pembahasan (bukti lapangan; dialektika; sub-bab Keberatan/I'tiradh)
-   - 6. Kesimpulan (temuan, implikasi, keterbatasan, status SELESAI / LANJUT / BUTUH DATA)
+   - 6. Kesimpulan (temuan, implikasi, keterbatasan, status CUKUP / BERLANJUT / BUTUH DATA)
    - 7. Daftar Pustaka & Catatan Kaki Akademis (*Footnotes Numerik 1-to-1*)
    ADR, protokol, dan guardrails adalah dokumen repositori yang disusun dari kesimpulan artikel — bukan bab di dalam artikel.
 3. **Kedalaman Substantif Anti-Dangkal (Tuntas Fungsional)**:
@@ -50,7 +50,7 @@ graph TD
         
         A3["BAB 5: HASIL DAN PEMBAHASAN<br/>• Menyajikan bukti lapangan dan studi kasus analitis objektif (tanpa skrip drama).<br/>• Membenturkan dialektika syariat–sains (Al-Jam'u wat-Taufiq), lalu menghadapi keberatan terkuat (i'tiradh)."]
         
-        A4["BAB 6-7: KESIMPULAN & DAFTAR PUSTAKA<br/>• Merumuskan temuan, implikasi, keterbatasan, dan status secara tegas (SELESAI / LANJUT / BUTUH DATA).<br/>• Menyajikan numbered footnotes 1-to-1 bebas paywall."]
+        A4["BAB 6-7: KESIMPULAN & DAFTAR PUSTAKA<br/>• Merumuskan temuan, implikasi, keterbatasan, dan status secara tegas (CUKUP / BERLANJUT / BUTUH DATA).<br/>• Menyajikan numbered footnotes 1-to-1 bebas paywall."]
         
         A1 --> A2 --> A3 --> A4
     end
