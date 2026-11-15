@@ -702,6 +702,7 @@ Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional*
 7. **Daftar Pustaka**:
    - Sitasi formal **APA 7th Edition Bersih (tanpa tautan doi.org berbayar)** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
    - **Hanya memuat karya yang benar-benar disitir** di dalam naskah. Karya yang tidak disitir dilarang dicantumkan sebagai entri pajangan; tempatnya adalah katalog `REFERENCES/` (bibliografi tematik), bukan daftar pustaka artikel.
+   - **Tanpa catatan kaki** (arahan Wandi, 15 November 2026): artikel jurnal PROBE tidak memakai catatan kaki sama sekali. Semua penanda `[^...]` dan definisi catatan kaki dihapus; keterangan yang memang penting bagi pembaca (misalnya takhrij ringkas) ditulis di teks utama atau pada keterangan sumber tepat di bawah kutipannya, bukan di catatan kaki.
 
 ---
 
