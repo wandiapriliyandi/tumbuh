@@ -28,25 +28,22 @@ Dalam memandang adopsi Git ke dalam repositori tata kelola pendidikan pesantren,
 
 Penyelidikan teks turats membuktikan bahwa para imam mazhab dan muhadditsin telah merumuskan prinsip percabangan dan isolasi draf berabad-abad sebelum ilmu komputer modern lahir. Imam Syihabuddin Al-Qarafi (w. 684 H) dalam adikaryanya *Al-Ihkam fi Tamyiz al-Fatawa 'an al-Ahkam wa Tasharrufat al-Qadhi wal-Imam* meletakkan distingsi kewenangan epistemik:
 
-```arabic
-وَالْفَرْقُ بَيْنَ الْفَتْوَى وَالْحُكْمِ: أَنَّ الْحُكْمَ يَلْزَمُ وَيَرْتَفِعُ بِهِ الْخِلَافُ، وَأَمَّا الْفَتْوَى فَلَا تَلْزَمُ وَلَا يَرْتَفِعُ بِهَا الْخِلَافُ، بَلْ هِيَ إِخْبَارٌ عَنْ حُكْمِ اللَّهِ تَعَالَى عِنْدَ الْمُفْتِي فِي حَقِّ مَنِ اسْتَفْتَاهُ، فَمَنْ خَلَطَ بَيْنَ التَّصَرُّفَيْنِ ضَلَّ وَأَضَلَّ
-```
+> وَالْفَرْقُ بَيْنَ الْفَتْوَى وَالْحُكْمِ: أَنَّ الْحُكْمَ يَلْزَمُ وَيَرْتَفِعُ بِهِ الْخِلَافُ، وَأَمَّا الْفَتْوَى فَلَا تَلْزَمُ وَلَا يَرْتَفِعُ بِهَا الْخِلَافُ، بَلْ هِيَ إِخْبَارٌ عَنْ حُكْمِ اللَّهِ تَعَالَى عِنْدَ الْمُفْتِي فِي حَقِّ مَنِ اسْتَفْتَاهُ، فَمَنْ خَلَطَ بَيْنَ التَّصَرُّفَيْنِ ضَلَّ وَأَضَلَّ
+
 *(Dan perbedaan mendasar antara fatwa dan putusan hukum peradilan adalah: sesungguhnya putusan hukum peradilan [al-hukm/al-qadha] itu mengikat secara kelembagaan dan mengangkat silang sengketa pendapat; sedangkan fatwa wacana keilmuan [al-futya] tidak memiliki sifat mengikat dan tidak mengangkat perbedaan ijtihad, melainkan sebatas pemberitahuan tentang hukum Allah menurut pandangan sang mufti bagi orang yang memintanya. Maka barangsiapa mencampuradukkan kedua maqam tindakan tersebut, niscaya ia telah tersesat dan menyesatkan orang lain).* — **Al-Qarafi**, *Al-Ihkam*, Hal. 30.
 
 Dalam *Al-Furuq*, Al-Qarafi mempertegas bahwa fatwa dapat ditinjau kembali seiring munculnya dalil baru, sedangkan ketetapan hukum operasional yang mengikat publik tidak boleh diguncang oleh munculnya ijtihad baru yang belum diputuskan secara formal. Dalam repositori TUMBUH, Branch `v2.0.0` adalah Maqam al-Futya wal-Mudzakarah (ruang inkuiri PROBE), sedangkan Branch `main` adalah Maqam al-Qadha wal-Ilzam (regulasi kanonik yang mengikat operasional).
 
 Dari ranah filologi muhadditsin, Imam An-Nawawi (w. 676 H) dalam *At-Taqrib wat-Taisir* yang disyarah oleh As-Suyuthi dalam *Tadrib ar-Rawi* menetapkan adab penyusunan naskah:
 
-```arabic
-إِذَا صَنَّفَ فَلْيَبْتَدِئْ بِالْمُسَوَّدَةِ، فَيُثْبِتُ فِيهَا مَا ظَهَرَ لَهُ مِنَ الْفَوَائِدِ وَالْمَبَاحِثِ، ثُمَّ لَا يَزَالُ يُهَذِّبُهَا وَيُنَقِّحُهَا، فَإِذَا اسْتَقَرَّ أَمْرُهُ قَابَلَهَا وَأَنْشَأَ الْمُبَيَّضَةَ، وَلَا يَنْبَغِي لَهُ أَنْ يُخْرِجَ الْمُسَوَّدَةَ إِلَى الْعَامَّةِ قَبْلَ تَهْذِيبِهَا خَشْيَةَ الْوَقِيعَةِ وَالْغَلَطِ
-```
+> إِذَا صَنَّفَ فَلْيَبْتَدِئْ بِالْمُسَوَّدَةِ، فَيُثْبِتُ فِيهَا مَا ظَهَرَ لَهُ مِنَ الْفَوَائِدِ وَالْمَبَاحِثِ، ثُمَّ لَا يَزَالُ يُهَذِّبُهَا وَيُنَقِّحُهَا، فَإِذَا اسْتَقَرَّ أَمْرُهُ قَابَلَهَا وَأَنْشَأَ الْمُبَيَّضَةَ، وَلَا يَنْبَغِي لَهُ أَنْ يُخْرِجَ الْمُسَوَّدَةَ إِلَى الْعَامَّةِ قَبْلَ تَهْذِيبِهَا خَشْيَةَ الْوَقِيعَةِ وَالْغَلَطِ
+
 *(Apabila seorang ulama hendak menyusun karya tulis, hendaklah ia memulai dengan naskah buram kasar [al-muswaddah], lalu ia mencatat di dalamnya berbagai faedah ilmiah dan pembahasan yang tampak baginya. Kemudian ia tidak henti-hentinya memperhalus, menyaring, dan mengujinya kembali. Maka apabila perkaranya telah mantap, ia melakukan perbandingan salinan dan menyusun naskah bersih kanonik [al-mubayyadhah]. Dan tidak sepatutnya baginya mengeluarkan naskah muswaddah kepada khalayak awam sebelum dirapikan dan disempurnakan, karena dikhawatirkan memicu fitnah kesalahpahaman dan kekeliruan fatal).* — **An-Nawawi & As-Suyuthi**, *Tadrib ar-Rawi*, Jilid 1, Hal. 82.
 
 Prinsip ini diperkuat oleh Ibnu Qayyim Al-Jauziyyah dalam *I'lam al-Muwaqqi'in* yang memperingatkan bahaya mempublikasikan draf wacana yang masih dalam proses penimbangan dalil kepada khalayak ramai. Di samping itu, As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* merumuskan kaidah:
 
-```arabic
-لَا يُنْسَبُ إِلَى سَاكِتٍ قَوْلٌ، وَلَكِنَّ السُّكُوتَ فِي مَعْرِضِ الْحَاجَةِ بَيَانٌ
-```
+> لَا يُنْسَبُ إِلَى سَاكِتٍ قَوْلٌ، وَلَكِنَّ السُّكُوتَ فِي مَعْرِضِ الْحَاجَةِ بَيَانٌ
+
 *(Tidak boleh dinisbatkan suatu perkataan hukum resmi kepada orang yang diam; namun sikap diam dalam situasi yang menuntut penjelasan formal adalah sebuah penjelasan).* — **As-Suyuthi**, *Al-Asybah wan-Nazha'ir*, Hal. 142.
 
 Kaidah ini menegaskan bahwa isi berkas di branch eksperimen tidak boleh dinisbatkan sebagai keputusan resmi lembaga sebelum dimerge ke branch utama. Al-Khatib Al-Baghdadi dalam *Al-Kifayah fi 'Ilm ar-Riwayah* dan Al-Qadhi 'Iyadh dalam *Al-Ilma'* menguraikan bahwa tradisi pencatatan sanad dan perbandingan naskah (*al-muqabalah*) oleh Ibnu ash-Shalah dalam *'Ulum al-Hadits* merupakan ikhtiar menjamin autentisitas teks dari perubahan tanpa hak. Hierarki derajat kepastian pengetahuan ini dirangkum oleh Al-Ghazali dalam *Al-Mustashfa*: membedakan pengetahuan pasti (*al-qath'i*) yang mengikat dari dugaan kuat teruji (*az-zhanni ar-rajih*) dan draf keraguan mentah (*al-wahm wasy-syakk*) yang wajib dikarantina.
@@ -94,9 +91,8 @@ Ketegangan epistemik diselesaikan melalui pemetaan fitur kontrol versi modern ke
 
 Dialektika konfrontatif antara tiga kubu pemikiran dirangkum dalam sintesis rekonsiliatif (*al-jam'u wat-taufiq*):
 
-```arabic
-تَوْظِيفُ الْأَدَوَاتِ التِّقْنِيَّةِ فِي حِفْظِ الْأَحْكَامِ التَّرْبَوِيَّةِ عَيْنُ الْحِكْمَةِ؛ فَالْفَرْعُ حِصْنٌ لِلْمُذَاكَرَةِ وَالْأَصْلُ مَقَامٌ لِلْإِلْزَامِ، وَتَتَابُعُ الْأَسْنَادِ الرَّقْمِيَّةِ تَحْقِيقٌ لِأَمَانَةِ الدِّينِ
-```
+> تَوْظِيفُ الْأَدَوَاتِ التِّقْنِيَّةِ فِي حِفْظِ الْأَحْكَامِ التَّرْبَوِيَّةِ عَيْنُ الْحِكْمَةِ؛ فَالْفَرْعُ حِصْنٌ لِلْمُذَاكَرَةِ وَالْأَصْلُ مَقَامٌ لِلْإِلْزَامِ، وَتَتَابُعُ الْأَسْنَادِ الرَّقْمِيَّةِ تَحْقِيقٌ لِأَمَانَةِ الدِّينِ
+
 *(Mendayagunakan perangkat teknologis modern dalam memelihara ketetapan hukum pendidikan adalah intisari kebijaksanaan sejati; maka branch/percabangan adalah benteng pelindung bagi ruang dialektika kajian [al-mudzakarah] dan batang utama [al-ashl/main] adalah maqam bagi pengikatan regulasi [al-ilzam], sementara kesinambungan sanad digital Merkle adalah pengejawantahan dari amanah pemeliharaan agama).*
 
 Dari sintesis ini, model percabangan repositori dievaluasi secara terukur:

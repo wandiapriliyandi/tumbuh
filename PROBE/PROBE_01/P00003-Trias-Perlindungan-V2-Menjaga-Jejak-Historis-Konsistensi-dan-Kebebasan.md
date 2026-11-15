@@ -34,27 +34,24 @@ Di antara ketiga patologi tersebut terbentang ketegangan epistemik:
 
 Para ulama ushul fiqh dan muarrikhin telah meletakkan fondasi metodologis agung yang mengintegrasikan pelestarian tradisi, ketertiban hukum, dan keterbukaan ijtihad. Kaidah ushuliyyah yang dirumuskan para masyayikh pesantren menegaskan:
 
-```arabic
-الْمُحَافَظَةُ عَلَى الْقَدِيمِ الصَّالِحِ وَالْأَخْذُ بِالْجَدِيدِ الْأَصْلَحِ
-```
+> الْمُحَافَظَةُ عَلَى الْقَدِيمِ الصَّالِحِ وَالْأَخْذُ بِالْجَدِيدِ الْأَصْلَحِ
+
 *(Memelihara tradisi lama yang shalih/baik, dan mengambil hal baru yang ashlah/jauh lebih maslahat).*
 
 Kaidah ini membingkai Trias Perlindungan V2: *Al-Muhafazhah 'alal qadim ash-shalih* melandasi **Pilar 1 (Perlindungan Jejak Historis)** untuk menjaga naskah rintisan V1 di `99_ARCHIVE/`; *Al-Akhdzu bil jadid al-ashlah* melandasi **Pilar 3 (Perlindungan Kebebasan Rekayasa)** di `PROBE/`; dan pertalian keduanya diikat oleh **Pilar 2 (Perlindungan Konsistensi)** agar transisi berjalan dengan disiplin metodologis tanpa kontradiksi.
 
 Imam Abu Ishaq Asy-Syathibi (w. 790 H) dalam *Al-Muwafaqat* membedakan secara tegas tujuan esensial (*maqashid*) dari sarana perantara (*wasa'il*):
 
-```arabic
-الْمَقَاصِدُ ثَابِتَةٌ لَا تَتَبَدَّلُ، وَأَمَّا الْوَسَائِلُ فَتَتَبَدَّلُ بِتَبَدُّلِ الْأَحْوَالِ وَالْأَوْقَاتِ؛ فَالْجُمُودُ عَلَى شَكْلِ الْوَسِيلَةِ مَعَ فَوَاتِ الْمَقْصُودِ جَهْلٌ بِالشَّرِيعَةِ
-```
+> الْمَقَاصِدُ ثَابِتَةٌ لَا تَتَبَدَّلُ، وَأَمَّا الْوَسَائِلُ فَتَتَبَدَّلُ بِتَبَدُّلِ الْأَحْوَالِ وَالْأَوْقَاتِ؛ فَالْجُمُودُ عَلَى شَكْلِ الْوَسِيلَةِ مَعَ فَوَاتِ الْمَقْصُودِ جَهْلٌ بِالشَّرِيعَةِ
+
 *(Tujuan-tujuan esensial syariat [al-maqashid] itu bersifat tetap dan abadi, tidak boleh berubah; adapun sarana-sarana perantara [al-wasa'il] itu dapat berubah dan berganti seiring dengan perubahan kondisi lingkungan dan perkembangan zaman. Maka bersikap kaku membeku pada bentuk lahiriah sarana seraya mengabaikan tercapainya tujuan hakiki adalah bentuk kebodohan terhadap hakikat syariat).* — **Asy-Syathibi**, *Al-Muwafaqat*, Jilid 2, Hal. 85.
 
 Nilai ta'dib dan fitrah santri adalah maqashid abadi yang dilindungi Pilar 1 dan 2, sedangkan restrukturisasi repositori ke format jurnal riset modern adalah ijtihad wasa'il yang dijamin oleh Pilar 3.
 
 Ibnu Khaldun (w. 808 H) dalam *Al-Muqaddimah* memperingatkan bahwa hilangnya karya perintis akibat keengganan generasi penerus mengarsipkannya adalah bencana peradaban: generasi baru akan mengalami disorientasi akal dan terpaksa mengulang penemuan dasar yang telah diselesaikan pendahulu. Dari sisi ketertiban sistem hukum, Al-Qarafi dalam *Al-Furuq* dan Al-Amidi dalam *Al-Ihkam* menegaskan bahwa cabang-cabang hukum (*furu'*) wajib bertumpu secara koheren pada kaidah induk (*al-qawa'id al-kulliyyah*) guna mencegah kontradiksi pasal (Pilar 2). Perlindungan terhadap legitimasi masa lalu diperkokoh oleh kaidah:
 
-```arabic
-الِاجْتِهَادُ لَا يُنْقَضُ بِالِاجْتِهَادِ
-```
+> الِاجْتِهَادُ لَا يُنْقَضُ بِالِاجْتِهَادِ
+
 *(Suatu ijtihad hukum yang sah di masa lalu tidak boleh dibatalkan secara surut [retroaktif] oleh ijtihad baru).* — **As-Suyuthi**, *Al-Asybah wan-Nazha'ir*, Hal. 101.
 
 Preseden historis terbesar tampak pada transisi mazhab Asy-Syafi'i: perpindahan dari *Qaul Qadim* di Baghdad menuju *Qaul Jadid* di Mesir tidak memusnahkan naskah lama; murid-murid beliau meriwayatkan keduanya, hingga An-Nawawi dalam *Al-Majmu'* melakukan pentarjihan (*refactoring*) komprehensif seraya tetap mencatat riwayat ashab di margin naskah.
@@ -102,9 +99,8 @@ Ketegangan epistemik diselesaikan melalui konfrontasi kritis tiga paradigma tata
 
 Sintesis rekonsiliatif (*al-jam'u wat-taufiq*) dirumuskan dalam kaidah:
 
-```arabic
-حِفْظُ سَلْسَلَةِ السَّنَدِ مِنَ الْمَاضِي أَمَانَةٌ، وَإِحْكَامُ ضَبْطِ الْحَاضِرِ عَدَالَةٌ، وَإِطْلَاقُ عِنَانِ الِاجْتِهَادِ لِلْمُسْتَقْبَلِ حِكْمَةٌ؛ فَلَا يُهْدَمُ أَصْلٌ، وَلَا يُعَطَّلُ عَصْرٌ
-```
+> حِفْظُ سَلْسَلَةِ السَّنَدِ مِنَ الْمَاضِي أَمَانَةٌ، وَإِحْكَامُ ضَبْطِ الْحَاضِرِ عَدَالَةٌ، وَإِطْلَاقُ عِنَانِ الِاجْتِهَادِ لِلْمُسْتَقْبَلِ حِكْمَةٌ؛ فَلَا يُهْدَمُ أَصْلٌ، وَلَا يُعَطَّلُ عَصْرٌ
+
 *(Memelihara mata rantai sanad masa lalu adalah amanah keilmuan, menegakkan ketertiban tata kelola masa kini adalah keadilan hukum, dan melepaskan kendali ijtihad arsitektural untuk masa depan adalah kebijaksanaan; maka tidak boleh ada akar sejarah yang dihancurkan, dan tidak boleh ada tuntutan zaman yang diabaikan).*
 
 Sintesis ini memetakan Trias Perlindungan ke dalam tata kelola repositori:
