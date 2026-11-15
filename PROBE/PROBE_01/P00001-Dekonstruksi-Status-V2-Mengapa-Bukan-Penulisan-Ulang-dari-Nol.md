@@ -28,44 +28,32 @@ Di antara dorongan pembaruan dan penghormatan tradisi terbentang ketegangan epis
 
 Rasulullah ﷺ secara eksplisit memberikan perumpamaan agung mengenai kesinambungan risalah peradaban melalui penyempurnaan akumulatif, sebagaimana diriwayatkan dalam *Shahih al-Bukhari* dan *Shahih Muslim*:
 
-```arabic
-عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ بَنَى بَيْتًا فَأَحْسَنَهُ وَأَجْمَلَهُ، إِلَّا مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ، فَجَعَلَ النَّاسُ يَطُوفُونَ بِهِ وَيَعْجَبُونَ لَهُ، وَيَقُولُونَ: هَلَّا وُضِعَتْ هَذِهِ اللَّبِنَةُ؟ قَالَ: فَأَنَا اللَّبِنَةُ، وَأَنَا خَاتِمُ النَّبِيِّينَ»
-```
+> عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «مَثَلِي وَمَثَلُ الْأَنْبِيَاءِ مِنْ قَبْلِي كَمَثَلِ رَجُلٍ بَنَى بَيْتًا فَأَحْسَنَهُ وَأَجْمَلَهُ، إِلَّا مَوْضِعَ لَبِنَةٍ مِنْ زَاوِيَةٍ، فَجَعَلَ النَّاسُ يَطُوفُونَ بِهِ وَيَعْجَبُونَ لَهُ، وَيَقُولُونَ: هَلَّا وُضِعَتْ هَذِهِ اللَّبِنَةُ؟ قَالَ: فَأَنَا اللَّبِنَةُ، وَأَنَا خَاتِمُ النَّبِيِّينَ»
 *(Dari Abu Hurairah radhiyallahu 'anhu, sesungguhnya Rasulullah shallallahu 'alaihi wa sallam bersabda: "Perumpamaanku dan perumpamaan para nabi sebelumku laksana seorang laki-laki yang membangun sebuah rumah; ia memperbagus dan memperindah rumah tersebut, kecuali tersisa tempat satu keping batu bata di salah satu sudutnya. Orang-orang mengelilingi rumah itu dan mengaguminya seraya berkata: 'Mengapa batu bata ini belum dipasang?' Beliau bersabda: 'Akulah batu bata tersebut, dan akulah penutup para nabi').* — **HR. Al-Bukhari** (No. 3535) dan **Muslim** (No. 2286).
 
 Hadits ini menegaskan prinsip epistemologis fundamental: penyempurna sejati tidak meruntuhkan bangunan yang didirikan pendahulunya, melainkan menyempurnakan struktur yang belum lengkap. Prinsip ini diperkuat oleh hadits misi kerasulan:
 
-```arabic
-عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ»
-```
+> عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ»
 *(Dari Abu Hurairah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: "Sesungguhnya tidaklah aku diutus melainkan semata-mata untuk menyempurnakan keshalihan kemuliaan akhlak").* — **HR. Ahmad** (No. 8952) dan **Al-Bukhari** dalam *Al-Adab al-Mufrad* (No. 273); dishahihkan Al-Hakim dalam *Al-Mustadrak* dan disepakati Adz-Dzahabi.
 
 Ibnu Abdil Barr dalam *At-Tamhid* mensyarah makna lafazh *li-utammima* (untuk menyempurnakan):
 
-```arabic
-قَالَ ابْنُ عَبْدِ الْبَرِّ: قَوْلُهُ «لِأُتَمِّمَ» يَدُلُّ عَلَى أَنَّ مَكَارِمَ الْأَخْلَاقِ وَمَحَاسِنَ الْأَفْعَالِ كَانَتْ مَوْجُودَةً مَعْرُوفَةً فِي بَقَايَا شَرَائِعِ الْأَنْبِيَاءِ السَّالِفِينَ وَفِطَرِ النَّاسِ، فَجَاءَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِتَثْبِيتِ مَا كَانَ حَقًّا مِنْهَا، وَإِكْمَالِ مَا نَقَصَ، وَإِزَالَةِ مَا شَابَهَا مِنَ الْفَسَادِ، وَلَمْ يَأْتِ بِجَحْدِ مَا تَقَدَّمَهُ مِنَ الْخَيْرِ
-```
+> قَالَ ابْنُ عَبْدِ الْبَرِّ: قَوْلُهُ «لِأُتَمِّمَ» يَدُلُّ عَلَى أَنَّ مَكَارِمَ الْأَخْلَاقِ وَمَحَاسِنَ الْأَفْعَالِ كَانَتْ مَوْجُودَةً مَعْرُوفَةً فِي بَقَايَا شَرَائِعِ الْأَنْبِيَاءِ السَّالِفِينَ وَفِطَرِ النَّاسِ، فَجَاءَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِتَثْبِيتِ مَا كَانَ حَقًّا مِنْهَا، وَإِكْمَالِ مَا نَقَصَ، وَإِزَالَةِ مَا شَابَهَا مِنَ الْفَسَادِ، وَلَمْ يَأْتِ بِجَحْدِ مَا تَقَدَّمَهُ مِنَ الْخَيْرِ
 *(Ibnu Abdil Barr menegaskan: Sabda beliau "untuk menyempurnakan" menunjukkan bahwa kemuliaan akhlak dan kebaikan perilaku sejatinya telah ada dan dikenal dalam sisa-sisa syariat nabi-nabi terdahulu serta fitrah manusia; maka beliau shallallahu 'alaihi wa sallam datang untuk menetapkan apa yang benar darinya, menyempurnakan apa yang kurang, serta menyingkirkan penyimpangan yang mencemarinya, dan beliau sama sekali tidak datang untuk mengingkari kebaikan yang telah mendahuluinya).* — **Ibnu Abdil Barr**, *At-Tamhid*, Jilid 24, Hal. 333.
 
 Dalam ushul fiqih, kaidah *istishhab* yang dirumuskan As-Suyuthi dalam *Al-Asybah wan-Nazha'ir* membentengi sistem dari penghapusan sewenang-wenang:
 
-```arabic
-الْأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ
-```
+> الْأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ
 *(Hukum asal adalah menetapkan apa yang telah ada atas keadaannya semula hingga terbukti adanya dalil sah yang mengubahnya).* — **As-Suyuthi**, *Al-Asybah wan-Nazha'ir*, Hal. 51.
 
 Konsep yang telah dirintis di V1 memiliki praduga keabsahan awal; pengembang V2 tidak berhak membuang gagasan lama hanya karena selera format, melainkan wajib membuktikan cacat logis atau mudharat strukturalnya. Hal ini sejalan dengan etika suksesi regulasi kelembagaan yang digariskan Al-Mawardi dalam *Al-Ahkam as-Sulthaniyyah*:
 
-```arabic
-لَا يَجُوزُ لِلْوَالِي أَوِ الْقَاضِي الْمُسْتَخْلَفِ أَنْ يَنْقُضَ أَحْكَامَ مَنْ كَانَ قَبْلَهُ بِالتَّشَهِّي وَإِظْهَارِ الْمُخَالَفَةِ، بَلْ عَلَيْهِ أَنْ يَتَصَفَّحَهَا بِعَيْنِ الْإِنْصَافِ؛ فَمَا وَجَدَهُ مَبْنِيًّا عَلَى الْحَقِّ وَالْعَدْلِ أَمْضَاهُ وَأَثْبَتَهُ، وَمَا وَجَدَهُ مُخَالِفًا لِلنَّصِّ أَوْ جَارِيًا عَلَى غَيْرِ وَجْهِهِ رَدَّهُ بِالْبُرْهَانِ، دُونَ ثَلْبٍ لِمَنْ مَضَى وَلَا إِسْقَاطٍ لِحُرْمَتِهِ
-```
+> لَا يَجُوزُ لِلْوَالِي أَوِ الْقَاضِي الْمُسْتَخْلَفِ أَنْ يَنْقُضَ أَحْكَامَ مَنْ كَانَ قَبْلَهُ بِالتَّشَهِّي وَإِظْهَارِ الْمُخَالَفَةِ، بَلْ عَلَيْهِ أَنْ يَتَصَفَّحَهَا بِعَيْنِ الْإِنْصَافِ؛ فَمَا وَجَدَهُ مَبْنِيًّا عَلَى الْحَقِّ وَالْعَدْلِ أَمْضَاهُ وَأَثْبَتَهُ، وَمَا وَجَدَهُ مُخَالِفًا لِلنَّصِّ أَوْ جَارِيًا عَلَى غَيْرِ وَجْهِهِ رَدَّهُ بِالْبُرْهَانِ، دُونَ ثَلْبٍ لِمَنْ مَضَى وَلَا إِسْقَاطٍ لِحُرْمَتِهِ
 *(Tidak boleh bagi pejabat atau hakim pengganti membatalkan ketetapan-ketetapan pejabat pendahulunya semata-mata karena dorongan hawa nafsu atau ingin menampakkan perbedaan kepemimpinan baru; melainkan ia wajib meneliti ketetapan lama dengan pandangan keadilan yang objektif: apa yang dijumpainya berpijak di atas kebenaran dan keadilan wajib dipertahankan dan ditegakkan, sedangkan apa yang dijumpainya menyelisihi dalil nash atau berjalan tidak pada tempatnya wajib diperbaiki dengan bukti burhan, tanpa mencela pribadi pejabat terdahulu dan tanpa merendahkan kehormatannya).* — **Al-Mawardi**, *Al-Ahkam as-Sulthaniyyah*, Hal. 98.
 
 Dalam *Adab ad-Dunya wa ad-Din*, Al-Mawardi menegaskan bahwa ilmu dan peradaban adalah himpunan faedah kumulatif antar-generasi; merasa cukup dengan akal sendiri tanpa mengambil faedah pendahulu adalah kesombongan intelektual. Dimensi keberkahan perintis dilindungi oleh sabda Nabi ﷺ mengenai *sunnah hasanah*:
 
-```arabic
-عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً حَسَنَةً، فَلَهُ أَجْرُهَا وَأَجْرُ مَنْ عَمِلَ بِهَا بَعْدَهُ، مِنْ غَيْرِ أَنْ يَنْقُصَ مِنْ أُجُورِهِمْ شَيْءٌ»
-```
+> عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ رَضِيَ اللَّهُ عَنْهُ قَالَ: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «مَنْ سَنَّ فِي الْإِسْلَامِ سُنَّةً حَسَنَةً، فَلَهُ أَجْرُهَا وَأَجْرُ مَنْ عَمِلَ بِهَا بَعْدَهُ، مِنْ غَيْرِ أَنْ يَنْقُصَ مِنْ أُجُورِهِمْ شَيْءٌ»
 *(Dari Jarir bin 'Abdillah radhiyallahu 'anhu, ia berkata: Rasulullah shallallahu 'alaihi wa sallam bersabda: "Barang siapa memulai suatu rintisan kebaikan [sunnah hasanah] dalam Islam, maka baginya pahalanya dan pahala orang-orang yang mengamalkannya setelahnya, tanpa mengurangi pahala mereka sedikit pun").* — **HR. Muslim** (No. 1017).
 
 Asy-Syathibi dalam *Al-Muwafaqat* menetapkan bahwa kesinambungan kemaslahatan bertumpu pada pemeliharaan pokok maslahat (*hifzh al-ashl*) sembari menyempurnakan sarana operasionalnya. Senada dengan itu, Al-Ghazali dalam *Ihya' 'Ulum ad-Din* mengibaratkan transmisi ilmu seperti lentera yang menyalakan lentera berikutnya: lentera kedua bersinar berkat lentera pertama tanpa mengurangi setitik pun cahayanya.
@@ -112,9 +100,7 @@ Ketegangan epistemik memunculkan dialektika antara tiga kubu pemikiran dalam mer
 
 Sintesis rekonsiliatif (*al-jam'u wat-taufiq*) dirumuskan dalam kaidah:
 
-```arabic
-تَمْيِيزُ الْجَوْهَرِ الثَّابِتِ عَنِ الْمَظْهَرِ الْحَادِثِ هُوَ عَيْنُ التَّحْقِيقِ؛ فَنَحْفَظُ رُوحَ التَّرْبِيَةِ وَفِطْرَةَ التَّأْدِيبِ مِنَ النَّسَقِ الْأَوَّلِ، وَنَنْقُضُ هَيْكَلَ الِارْتِبَاكِ لِنَبْنِيَ مَكَانَهُ صَرْحًا مُحْكَمًا يَلِيقُ بِحَقِيقَةِ الْعِلْمِ
-```
+> تَمْيِيزُ الْجَوْهَرِ الثَّابِتِ عَنِ الْمَظْهَرِ الْحَادِثِ هُوَ عَيْنُ التَّحْقِيقِ؛ فَنَحْفَظُ رُوحَ التَّرْبِيَةِ وَفِطْرَةَ التَّأْدِيبِ مِنَ النَّسَقِ الْأَوَّلِ، وَنَنْقُضُ هَيْكَلَ الِارْتِبَاكِ لِنَبْنِيَ مَكَانَهُ صَرْحًا مُحْكَمًا يَلِيقُ بِحَقِيقَةِ الْعِلْمِ
 *(Membedakan antara substansi esensial yang abadi [al-jauhar ats-tsabit] dengan bentuk sarana yang baru [al-mazhhar al-hadits] adalah hakikat ketelitian ilmiah sejati; maka kita memelihara ruh pendidikan dan fitrah ta'dib dari generasi perintisan awal, seraya merombak struktur kekacauan desain guna mendirikan di atasnya bangunan arsitektur yang kokoh yang layak bagi hakikat kemuliaan ilmu).*
 
 Pemisahan antara jauhar dan mazhahir tersebut dieksekusi melalui penataan elemen repositori secara terukur:
