@@ -700,6 +700,7 @@ Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional*
    - **PANTANGAN MUTLAK (ANTI-README LEAKAGE)**: dilarang menyajikan daftar katalog berkas atau roadmap di dalam artikel; katalog adalah domain `README.md`, `RENCANA_REKONSTRUKSI_PROBE_xx.md`, dan indeks seri.
 7. **Daftar Pustaka**:
    - Sitasi formal **APA 7th Edition Bersih (tanpa tautan doi.org berbayar)** untuk artikel jurnal/buku modern, serta takhrij bibliografis lengkap untuk kitab-kitab turats rujukan primer.
+   - **Hanya memuat karya yang benar-benar disitir** di dalam naskah. Karya yang tidak disitir dilarang dicantumkan sebagai entri pajangan; tempatnya adalah katalog `REFERENCES/` (bibliografi tematik), bukan daftar pustaka artikel.
 
 ---
 
@@ -830,6 +831,7 @@ Sebelum berkas PROBE disahkan atau di-commit, lakukan verifikasi:
 | [ ] | Apakah seluruh paragraf bebas dari boilerplate copy-paste generik? |
 | [ ] | Apakah implikasi arsitektur (ADR kanonik, dependensi repositori, 7 Guardrails) terumuskan dengan presisi? |
 | [ ] | Apakah daftar pustaka memenuhi standar APA 7th Edition bersih (bebas paywall/DOI komersial)? |
+| [ ] | Apakah daftar pustaka hanya memuat karya yang benar-benar disitir dalam naskah (tanpa entri pajangan)? |
 
 ---
 

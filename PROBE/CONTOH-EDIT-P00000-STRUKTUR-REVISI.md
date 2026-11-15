@@ -100,57 +100,30 @@ Inkuiri ini menyimpulkan bahwa pemisahan branch `v2.0.0` adalah kebutuhan strukt
 
 ## 7. Daftar Pustaka
 
+*Daftar ini hanya memuat karya yang benar-benar disitir dalam naskah: 20 entri. Berkas asli memuat 49 entri, dan 29 di antaranya tidak pernah disitir di badan naskah maupun catatan kaki — entri pajangan semacam itu dikeluarkan dari artikel; tempatnya adalah katalog `REFERENCES/`, bukan daftar pustaka artikel jurnal.*
+
 ### 7.1. Turats primer, ushul fiqih, & sosiologi Islam klasik
 
-1. Al-'Asqalani, I. H. (2000). *Fath al-bari bi syarh shahih al-bukhari* (Tahqiq M. F. Abdul Baqi, Jilid 1 & 13). Al-Qahirah: Dar al-Hadits.
-2. Al-Bukhari, M. I. (2002). *Shahih al-bukhari* (Tahqiq M. Z. an-Nashir). Bairut: Dar Thauq an-Najah.
-3. Al-Farabi, A. N. (1985). *Mabadi' ara' ahl al-madinah al-fadhilah* (R. Walzer, Ed. & Trans.). Oxford: Clarendon Press.
-4. Al-Ghazali, A. H. (1993). *Al-mustashfa min 'ilm al-ushul* (Tahqiq M. S. Asyqar, Jilid 1–2). Bairut: Mu'assasah ar-Risalah.
-5. Al-Ghazali, A. H. (2004). *Ihya' 'ulum al-din* (Tahqiq A. Ali, Jilid 1 & 3). Al-Qahirah: Dar asy-Sya'b.
-6. Al-Hakim an-Naisaburi, M. A. (1990). *Al-mustadrak 'ala ash-shahihain* (Tahqiq M. A. Atha, Jilid 4). Bairut: Dar al-Kutub al-'Ilmiyyah.
-7. Al-Khatib, M. A. (1989). *Ushul al-hadits: 'Ulumuhu wa musthalahuhu*. Bairut: Dar al-Fikr.
-8. Al-Mawardi, A. H. (1987). *Adab ad-dunya wa ad-din* (Tahqiq M. S. al-Jundi). Bairut: Dar Iqra'.
-9. Al-Mawardi, A. H. (2006). *Al-ahkam as-sulthaniyyah wa al-wilayat ad-diniyyah* (Tahqiq A. M. Mu'awwadh). Bairut: Dar al-Kutub al-'Ilmiyyah.
-10. Al-Muhasibi, A. A. (1986). *Ar-ri'ayah li huquqillah* (Tahqiq A. A. Atha). Bairut: Dar al-Kutub al-'Ilmiyyah.
-11. Al-Munawi, M. A. (1972). *Faidh al-qadir syarh al-jami' ash-shaghir* (Jilid 2). Bairut: Dar al-Ma'rifah.
-12. Al-Qarafi, A. I. (1998). *Al-furuq* (Tahqiq K. al-Mansur, Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
-13. An-Naisaburi, M. H. (2006). *Shahih muslim* (Tahqiq N. al-Hasan). Riyadh: Dar Thaibah.
-14. An-Nawawi, Y. S. (1995). *Al-minhaj syarh shahih muslim bin al-hajjaj* (Jilid 12 & 16). Al-Qahirah: Dar al-Hadits.
-15. An-Nawawi, Y. S. (2002). *Al-majmu' syarh al-muhadzdzab* (Tahqiq M. N. al-Muthi'i, Jilid 1). Bairut: Dar Ihya' at-Turats al-'Arabi.
-16. As-Sarkhasi, M. A. (1993). *Ushul as-sarkhasi* (Tahqiq A. W. al-Afghani, Jilid 1–2). Bairut: Dar al-Kutub al-'Ilmiyyah.
-17. As-Suyuthi, J. A. (1990). *Al-asybah wan-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Bairut: Dar al-Kutub al-'Ilmiyyah.
-18. Asy-Syafi'i, M. I. (1940). *Ar-risalah* (Tahqiq A. M. Syakir). Al-Qahirah: Maktabah al-Halabi.
-19. Asy-Syathibi, I. (2003). *Al-muwafaqat fi ushul asy-syari'ah* (Tahqiq M. Utsman, Jilid 1–4). Al-Qahirah: Dar al-Hadits.
-20. Asy-Syathibi, I. (2005). *Al-i'tisham* (Tahqiq S. al-Hilali, Jilid 1–2). Al-Qahirah: Dar Ibn 'Affan.
-21. Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 1–2). Bairut: Dar al-Arqam.
-22. Ibnu Qayyim al-Jauziyyah, M. A. (1991). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (Tahqiq T. A. Sa'd, Jilid 3). Bairut: Dar al-Jil.
-23. Ibnu Qayyim al-Jauziyyah, M. A. (2003). *Madarij as-salikin* (Tahqiq I. Abbas, Jilid 1–3). Al-Qahirah: Dar al-Hadits.
-24. Ibnu Taimiyyah, A. H. (1983). *Al-qawa'id an-nuraniyyah al-fiqhiyyah* (Tahqiq M. H. al-Faqi). Bairut: Dar al-Kutub al-'Ilmiyyah.
-25. Ibnu Taimiyyah, A. H. (1995). *Majmu' al-fatawa* (Jilid 19 & 28). Al-Madinah: Majma' al-Malik Fahd.
-26. Sijistani, S. A. (2009). *Sunan abi dawud: Kitab al-malahim* (Tahqiq M. Awwamah, Jilid 4). Bairut: Dar al-Qiblah.
+1. Al-Ghazali, A. H. (1993). *Al-mustashfa min 'ilm al-ushul* (Tahqiq M. S. Asyqar, Jilid 1–2). Bairut: Mu'assasah ar-Risalah.
+2. Al-Hakim an-Naisaburi, M. A. (1990). *Al-mustadrak 'ala ash-shahihain* (Tahqiq M. A. Atha, Jilid 4). Bairut: Dar al-Kutub al-'Ilmiyyah.
+3. Al-Munawi, M. A. (1972). *Faidh al-qadir syarh al-jami' ash-shaghir* (Jilid 2). Bairut: Dar al-Ma'rifah.
+4. Al-Qarafi, A. I. (1998). *Al-furuq* (Tahqiq K. al-Mansur, Jilid 3). Bairut: Dar al-Kutub al-'Ilmiyyah.
+5. An-Nawawi, Y. S. (2002). *Al-majmu' syarh al-muhadzdzab* (Tahqiq M. N. al-Muthi'i, Jilid 1). Bairut: Dar Ihya' at-Turats al-'Arabi.
+6. As-Sarkhasi, M. A. (1993). *Ushul as-sarkhasi* (Tahqiq A. W. al-Afghani, Jilid 1–2). Bairut: Dar al-Kutub al-'Ilmiyyah.
+7. As-Suyuthi, J. A. (1990). *Al-asybah wan-nazha'ir fi qawa'id wa furu' fiqh asy-syafi'iyyah*. Bairut: Dar al-Kutub al-'Ilmiyyah.
+8. Asy-Syafi'i, M. I. (1940). *Ar-risalah* (Tahqiq A. M. Syakir). Al-Qahirah: Maktabah al-Halabi.
+9. Asy-Syathibi, I. (2003). *Al-muwafaqat fi ushul asy-syari'ah* (Tahqiq M. Utsman, Jilid 1–4). Al-Qahirah: Dar al-Hadits.
+10. Ibnu Khaldun, A. R. (2004). *Muqaddimah Ibn Khaldun* (Tahqiq A. az-Zubi, Jilid 1–2). Bairut: Dar al-Arqam.
+11. Ibnu Qayyim al-Jauziyyah, M. A. (1991). *I'lam al-muwaqqi'in 'an rabb al-'alamin* (Tahqiq T. A. Sa'd, Jilid 3). Bairut: Dar al-Jil.
+12. Sijistani, S. A. (2009). *Sunan abi dawud: Kitab al-malahim* (Tahqiq M. Awwamah, Jilid 4). Bairut: Dar al-Qiblah.
 
 ### 7.2. Rekayasa perangkat lunak, sains sistem, & filsafat ilmu kontemporer
 
-27. Alexander, C., Ishikawa, S., & Silverstein, M. (1977). *A pattern language: Towns, buildings, construction*. Oxford University Press.
-28. Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
-29. Basili, V. R., Caldiera, G., & Rombach, H. D. (1994). Goal question metric approach. *Encyclopedia of Software Engineering*, 1, 528–532.
-30. Bertalanffy, L. von. (1968). *General system theory: Foundations, development, applications*. George Braziller.
-31. Bhaskar, R. (2008). *A realist theory of science*. Routledge.
-32. Brooks, F. P. (1995). *The mythical man-month: Essays on software engineering* (Anniversary ed.). Addison-Wesley.
-33. Checkland, P. (1999). *Systems thinking, systems practice*. John Wiley & Sons.
-34. Conway, M. E. (1968). How do committees invent? *Datamation*, 14(4), 28–31.
-35. DiMaggio, P. J., & Powell, W. W. (1983). The iron cage revisited: Institutional isomorphism and collective rationality in organizational fields. *American Sociological Review*, 48(2), 147–160.
-36. Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
-37. Forrester, J. W. (1968). *Principles of systems*. Wright-Allen Press.
-38. Fowler, M. (2002). *Patterns of enterprise application architecture*. Addison-Wesley.
-39. Kruchten, P., Nord, R. L., & Ozkaya, I. (2012). Technical debt: From metaphor to theory and practice. *IEEE Software*, 29(6), 18–21.
-40. Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
-41. Lakatos, I. (1978). *The methodology of scientific research programmes* (Philosophical Papers, Vol. 1). Cambridge University Press.
-42. Lehman, M. M., & Belady, L. A. (1985). *Program evolution: Processes of software change*. Academic Press.
-43. Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
-44. Parnas, D. L. (1972). On the criteria to be used in decomposing systems into modules. *Communications of the ACM*, 15(12), 1053–1058.
-45. Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson.
-46. Rogers, E. M. (2003). *Diffusion of innovations* (5th ed.). Free Press.
-47. Senge, P. M. (2006). *The fifth discipline: The art and practice of the learning organization*. Doubleday.
-48. Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106(6), 467–482.
-49. Wiener, N. (1948). *Cybernetics: Or control and communication in the animal and the machine*. MIT Press.
+13. Conway, M. E. (1968). How do committees invent? *Datamation*, 14(4), 28–31.
+14. Evans, E. (2003). *Domain-driven design: Tackling complexity in the heart of software*. Addison-Wesley.
+15. Kuhn, T. S. (1962). *The structure of scientific revolutions*. University of Chicago Press.
+16. Lakatos, I. (1978). *The methodology of scientific research programmes* (Philosophical Papers, Vol. 1). Cambridge University Press.
+17. Lehman, M. M., & Belady, L. A. (1985). *Program evolution: Processes of software change*. Academic Press.
+18. Meadows, D. H. (2008). *Thinking in systems: A primer*. Chelsea Green Publishing.
+19. Parnas, D. L. (1972). On the criteria to be used in decomposing systems into modules. *Communications of the ACM*, 15(12), 1053–1058.
+20. Simon, H. A. (1962). The architecture of complexity. *Proceedings of the American Philosophical Society*, 106(6), 467–482.
