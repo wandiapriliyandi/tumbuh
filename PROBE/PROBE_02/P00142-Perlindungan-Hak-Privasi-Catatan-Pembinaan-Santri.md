@@ -126,103 +126,97 @@ Syariat Islam menempatkan penjagaan kehormatan manusia (*Hifzhul 'Irdh*) dan pen
 
 1. **Keharaman Membuka dan Menyebarkan Aib Orang Beriman:**  
 
-   ```arabic
-
-   إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ
-
-   ```  
-
-   > *"Sesungguhnya orang-orang yang ingin agar (berita) perbuatan yang amat keji itu tersiar di kalangan orang-orang yang beriman, bagi mereka azab yang pedih di dunia dan di akhirat..."* (QS. An-Nur: 19).  
-
-   Menyebarkan catatan aib santri ke forum publik atau grup obrolan yang tidak berkepentingan masuk ke dalam ancaman ayat ini.
-
-
-
-2. **Janji Allah bagi Penjaga Rahasia Saudaranya:**  
-
-   ```arabic
-
-   مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Barangsiapa menutupi aib seorang muslim, niscaya Allah akan menutupi aibnya di dunia dan di akhirat."* (HR. Muslim no. 2699).  
-
-   Musyrif yang menjaga kerahasiaan catatan konseling santri sedang menjalankan ibadah agung yang mendatangkan perlindungan Allah atas aib pribadinya.
-
-
-
-3. **Peringatan Rasulullah ﷺ kepada Penyusup Rahasia Orang Lain:**  
-
-   ```arabic
-
-   يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تُؤْذُوا الْمُسْلِمِينَ، وَلَا تُعَيِّرُوهُمْ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Wahai orang-orang yang berserah diri dengan lisannya namun iman belum meresap ke dalam hatinya! Janganlah kalian menyakiti kaum muslimin, janganlah mencela mereka, dan janganlah mencari-cari aib rahasia mereka!"* (HR. At-Tirmidzi no. 2032, shahih).
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Keamanan Informasi / Etika Psikologi Konseling
-
-
-
-Standar internasional perlindungan data anak dan kode etik konseling memberikan landasan regulasi yang ketat:
-
-
-
-1. **Kode Etik Kerahasiaan Konseling (*APA Code of Ethics & HIPAA Standards*):**  
-
-   Dalam psikologi profesional, kerahasiaan (*confidentiality*) adalah prasyarat mutlak terjadinya hubungan terapeutik. Remaja hanya akan jujur menceritakan pergulatan batinnya jika ia yakin 100% bahwa ceritanya tidak akan bocor kepada teman-temannya atau guru lain. Pelanggaran kerahasiaan menghancurkan *therapeutic alliance* seketika dan membuat anak menutup diri total. Pengecualian kerahasiaan (*breaking confidentiality*) hanya diizinkan dalam kondisi darurat ekstrem: ancaman bunuh diri, ancaman bahaya fisik bagi orang lain, atau kekerasan seksual.
-
-
-
-2. **Prinsip *Privacy by Design* & Enkripsi Data (*GDPR & UU PDP No. 27/2022*):**  
-
-   Sistem informasi pesantren wajib menerapkan prinsip **Akses Berbasis Peran (*Role-Based Access Control - RBAC*)**: musyrif kamar hanya bisa melihat catatan santri kamarnya; guru kelas hanya melihat catatan akademik; dan data konseling mendalam (Tier 3) terkunci di bawah hak akses konselor BK tersertifikasi dengan enkripsi end-to-end.
-
-
-
-3. **Hak untuk Dilupakan (*The Right to Be Forgotten*):**  
-
-   Psikologi perkembangan remaja menegaskan bahwa masa remaja adalah masa eksperimentasi identitas dan kekhilafan. Menjaga catatan kesalahan anak secara permanen sama dengan memenjarakan identitasnya. Sistem digital wajib memiliki kebijakan *Auto-Purging / Clean Slate*: penghapusan riwayat pelanggaran administratif ringan setelah 12 bulan santri menunjukkan perbaikan perilaku.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Tata Kelola Privasi Data Catatan Santri
-
-
-
-| Tingkat Kerahasiaan Data | Jenis Data Santri | Hak Akses (*RBAC*) | Protokol Penyimpanan & Retensi | Konsekuensi Pelanggaran Akses |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Level 1: Publik Lembaga** | Nama, kelas, kamar, riwayat prestasi positif, nomor induk santri. | Seluruh asatidzah, staf administrasi, papan info resmi. | Portal umum lembaga; dapat diakses selama santri aktif. | - |
-
-| **Level 2: Internal Terbatas** | Presensi ibadah, kedisiplinan kamar, rekam logbook harian Tier 1. | Musyrif kamar langsung, wali kelas, dewan pengasuhan terbatas. | Enkripsi standar; data pelanggaran ringan dihapus otomatis setiap akhir tahun ajaran. | Teguran lisan dan evaluasi etika musyrif jika dibocorkan ke grup umum. |
-
-| **Level 3: Sangat Rahasia (Confidential)** | Catatan konseling BK mendalam, riwayat trauma keluarga, kasus medis khusus, sengketa Tier 3. | **Hanya Konselor BK Utama & Pimpinan Pengasuhan Tertinggi.** | Enkripsi tingkat tinggi; arsip tertutup ganda; dilarang dibagikan melalui media sosial apa pun. | **Pemberhentian tidak hormat & proses hukum** bagi pihak yang membocorkan ke pihak luar. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ
+>
+>    ```  
+>
+>    > *"Sesungguhnya orang-orang yang ingin agar (berita) perbuatan yang amat keji itu tersiar di kalangan orang-orang yang beriman, bagi mereka azab yang pedih di dunia dan di akhirat..."* (QS. An-Nur: 19).  
+>
+>    Menyebarkan catatan aib santri ke forum publik atau grup obrolan yang tidak berkepentingan masuk ke dalam ancaman ayat ini.
+>
+>
+>
+> 2. **Janji Allah bagi Penjaga Rahasia Saudaranya:**  
+>
+>
+>    مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Barangsiapa menutupi aib seorang muslim, niscaya Allah akan menutupi aibnya di dunia dan di akhirat."* (HR. Muslim no. 2699).  
+>
+>    Musyrif yang menjaga kerahasiaan catatan konseling santri sedang menjalankan ibadah agung yang mendatangkan perlindungan Allah atas aib pribadinya.
+>
+>
+>
+> 3. **Peringatan Rasulullah ﷺ kepada Penyusup Rahasia Orang Lain:**  
+>
+>
+>    يَا مَعْشَرَ مَنْ أَسْلَمَ بِلِسَانِهِ وَلَمْ يُفْضِ الْإِيمَانُ إِلَى قَلْبِهِ، لَا تُؤْذُوا الْمُسْلِمِينَ، وَلَا تُعَيِّرُوهُمْ، وَلَا تَتَّبِعُوا عَوْرَاتِهِمْ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Wahai orang-orang yang berserah diri dengan lisannya namun iman belum meresap ke dalam hatinya! Janganlah kalian menyakiti kaum muslimin, janganlah mencela mereka, dan janganlah mencari-cari aib rahasia mereka!"* (HR. At-Tirmidzi no. 2032, shahih).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Keamanan Informasi / Etika Psikologi Konseling
+>
+>
+>
+> Standar internasional perlindungan data anak dan kode etik konseling memberikan landasan regulasi yang ketat:
+>
+>
+>
+> 1. **Kode Etik Kerahasiaan Konseling (*APA Code of Ethics & HIPAA Standards*):**  
+>
+>    Dalam psikologi profesional, kerahasiaan (*confidentiality*) adalah prasyarat mutlak terjadinya hubungan terapeutik. Remaja hanya akan jujur menceritakan pergulatan batinnya jika ia yakin 100% bahwa ceritanya tidak akan bocor kepada teman-temannya atau guru lain. Pelanggaran kerahasiaan menghancurkan *therapeutic alliance* seketika dan membuat anak menutup diri total. Pengecualian kerahasiaan (*breaking confidentiality*) hanya diizinkan dalam kondisi darurat ekstrem: ancaman bunuh diri, ancaman bahaya fisik bagi orang lain, atau kekerasan seksual.
+>
+>
+>
+> 2. **Prinsip *Privacy by Design* & Enkripsi Data (*GDPR & UU PDP No. 27/2022*):**  
+>
+>    Sistem informasi pesantren wajib menerapkan prinsip **Akses Berbasis Peran (*Role-Based Access Control - RBAC*)**: musyrif kamar hanya bisa melihat catatan santri kamarnya; guru kelas hanya melihat catatan akademik; dan data konseling mendalam (Tier 3) terkunci di bawah hak akses konselor BK tersertifikasi dengan enkripsi end-to-end.
+>
+>
+>
+> 3. **Hak untuk Dilupakan (*The Right to Be Forgotten*):**  
+>
+>    Psikologi perkembangan remaja menegaskan bahwa masa remaja adalah masa eksperimentasi identitas dan kekhilafan. Menjaga catatan kesalahan anak secara permanen sama dengan memenjarakan identitasnya. Sistem digital wajib memiliki kebijakan *Auto-Purging / Clean Slate*: penghapusan riwayat pelanggaran administratif ringan setelah 12 bulan santri menunjukkan perbaikan perilaku.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Tata Kelola Privasi Data Catatan Santri
+>
+>
+>
+> | Tingkat Kerahasiaan Data | Jenis Data Santri | Hak Akses (*RBAC*) | Protokol Penyimpanan & Retensi | Konsekuensi Pelanggaran Akses |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Level 1: Publik Lembaga** | Nama, kelas, kamar, riwayat prestasi positif, nomor induk santri. | Seluruh asatidzah, staf administrasi, papan info resmi. | Portal umum lembaga; dapat diakses selama santri aktif. | - |
+>
+> | **Level 2: Internal Terbatas** | Presensi ibadah, kedisiplinan kamar, rekam logbook harian Tier 1. | Musyrif kamar langsung, wali kelas, dewan pengasuhan terbatas. | Enkripsi standar; data pelanggaran ringan dihapus otomatis setiap akhir tahun ajaran. | Teguran lisan dan evaluasi etika musyrif jika dibocorkan ke grup umum. |
+>
+> | **Level 3: Sangat Rahasia (Confidential)** | Catatan konseling BK mendalam, riwayat trauma keluarga, kasus medis khusus, sengketa Tier 3. | **Hanya Konselor BK Utama & Pimpinan Pengasuhan Tertinggi.** | Enkripsi tingkat tinggi; arsip tertutup ganda; dilarang dibagikan melalui media sosial apa pun. | **Pemberhentian tidak hormat & proses hukum** bagi pihak yang membocorkan ke pihak luar. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: TRANSPARANSI RADIKAL ASRAMA ]
 
@@ -342,11 +336,7 @@ Para ulama turats meletakkan etika ketat mengenai amanah memegang rahasia orang 
 
    Menegaskan bahwa membocorkan rahasia saudara adalah bentuk pengkhianatan:
 
-   ```arabic
-
-   إِنَّ مِنْ خِيَانَةِ أَخِيكَ أَنْ تُفْشِيَ سِرَّهُ، وَإِنَّ إِفْشَاءَ السِّرِّ لَيُسْقِطُ الْمُرُوءَةَ وَيُوجِبُ الْمَقْتَ عِنْدَ اللَّهِ وَعِنْدَ النَّاسِ
-
-   ```  
+   > إِنَّ مِنْ خِيَانَةِ أَخِيكَ أَنْ تُفْشِيَ سِرَّهُ، وَإِنَّ إِفْشَاءَ السِّرِّ لَيُسْقِطُ الْمُرُوءَةَ وَيُوجِبُ الْمَقْتَ عِنْدَ اللَّهِ وَعِنْدَ النَّاسِ
 
    > *"Sesungguhnya termasuk bentuk pengkhianatan terhadap saudaramu adalah engkau membocorkan rahasianya. Dan sesungguhnya membocorkan rahasia itu benar-benar menjatuhkan muru'ah (kehormatan diri) serta mengundang murka di sisi Allah dan di sisi manusia!"*
 
@@ -356,11 +346,7 @@ Para ulama turats meletakkan etika ketat mengenai amanah memegang rahasia orang 
 
    Menegaskan kaidah syar'i mengenai orang yang telah bertaubat:
 
-   ```arabic
-
-   مَنْ تَابَ مِنْ ذَنْبٍ حَرُمَ تَعْيِيرُهُ بِهِ، وَحَرُمَ التَّحَدُّثُ عَنْهُ بِمَا كَانَ مِنْهُ، وَمَنْ عَيَّرَ أَخَاهُ بِذَنْبٍ قَدْ تَابَ مِنْهُ لَمْ يَمُتْ حَتَّى يَعْمَلَهُ
-
-   ```  
+   > مَنْ تَابَ مِنْ ذَنْبٍ حَرُمَ تَعْيِيرُهُ بِهِ، وَحَرُمَ التَّحَدُّثُ عَنْهُ بِمَا كَانَ مِنْهُ، وَمَنْ عَيَّرَ أَخَاهُ بِذَنْبٍ قَدْ تَابَ مِنْهُ لَمْ يَمُتْ حَتَّى يَعْمَلَهُ
 
    > *"Barangsiapa telah bertaubat dari suatu dosa, maka diharamkan mencelanya dengan dosa tersebut, dan diharamkan memperbincangkan apa yang pernah terjadi padanya. Dan barangsiapa mencela saudaranya atas dosa yang telah ia taubati, niscaya ia tidak akan mati hingga ia sendiri terjerumus melakukannya!"* (*Al-Adab Asy-Syar'iyyah*, Jilid I, Bab as-Sitr).
 

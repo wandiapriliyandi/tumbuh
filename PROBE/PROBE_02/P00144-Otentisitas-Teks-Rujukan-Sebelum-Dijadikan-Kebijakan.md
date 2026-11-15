@@ -128,99 +128,95 @@ Tradisi intelektual Islam menempatkan ketelitian nukilan (*dhabth an-naql*) seba
 
 1. **Peringatan terhadap Pengubahan Makna dan Teks Firman Ilahi:**  
 
-   ```arabic
-
-   مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
-
-   ```  
-
-   > *"Di antara orang-orang Yahudi, ada yang mengubah perkataan dari tempat-tempatnya (maknanya)..."* (QS. An-Nisa': 46).  
-
-   Mencabut teks ulama salaf dari konteksnya demi membenarkan kebijakan zalim di asrama adalah perbuatan tercela yang menyerupai tabiat *tahrif* ini.
-
-
-
-2. **Perintah Menjaga Amanah Penukilan Ilmiah:**  
-
-   ```arabic
-
-   نَضَّرَ اللَّهُ امْرَأً سَمِعَ مِنَّا حَدِيثًا فَحَفِظَهُ حَتَّى يُبَلِّغَهُ، فَرُبَّ حَامِلِ فِقْهٍ إِلَىٰ مَنْ هُوَ أَفْقَهُ مِنْهُ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Semoga Allah memancarkan cahaya pada wajah seseorang yang mendengar suatu hadits dari kami lalu ia menghafalnya (dengan teliti dan tepat) hingga ia menyampaikannya kepada orang lain; betapa banyak orang yang membawa pemahaman fikih kepada orang yang lebih paham darinya!"* (HR. Abu Dawud no. 3660 & At-Tirmidzi no. 2656, shahih).  
-
-   Keberkahan ilmu hanya dianugerahkan kepada penuntut ilmu yang teliti dan amanah dalam meriwayatkan teks persis sebagaimana mestinya.
-
-
-
-3. **Kaidah Kanonik Ulama Hadits tentang Ketelitian Naskah (*Dhabthul Kitab*):**  
-
-   Para ulama ushul hadits menetapkan bahwa seorang perawi tidak boleh meriwayatkan dari suatu kitab melainkan setelah naskah kitab tersebut di-*muqabalah* (dikoreksi silang) dengan naskah asli sang pengarang atau naskah guru yang terpercaya.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Filologi Kritis / Hermeneutika Teks
-
-
-
-Filologi modern dan linguistik forensik menyediakan metodologi ilmiah dalam menguji naskah kuno:
-
-
-
-1. **Metodologi Filologi Lachmannian (*Stemmatics & Critical Edition*):**  
-
-   Dalam filologi kritis, suatu teks kuno hanya diakui otoritasnya apabila telah melewati rekonstruksi pohon silsilah naskah (*stemma codicum*): membandingkan seluruh varian bacaan (*apparatus criticus*), memisahkan kesalahan penyalin (*scribal errors*), dan mengembalikan teks ke bentuk paling mendekati naskah asli pengarang (*archetype*). Menjadikan naskah bajakan tanpa tahqiq sebagai dasar regulasi asrama adalah kenaifan ilmiah tingkat tinggi.
-
-
-
-2. **Bahaya Efek *Semantic Drift* (Pergeseran Makna Kata):**  
-
-   Linguistik historis membuktikan bahwa makna kata bahasa Arab mengalami pergeseran makna melintasi abad (*semantic drift*). Contoh: kata *"Adab"* pada abad ke-2 Hijriah mencakup keanggunan etika komprehensif; pada abad ke-8 bergeser ke ranah sastra; dan pada abad modern sering disederhanakan menjadi "kepatuhan sopan santun semata". Mengutip teks abad pertengahan dengan kacamata definisi abad ke-21 tanpa kajian filologis menghasilkan distorsi kebijakan yang berbahaya.
-
-
-
-3. **Integritas Konteks Pragmatik (*Pragmatic Context of Text Production*):**  
-
-   Setiap fatwa dan pernyataan ulama salaf lahir dalam konteks sosio-historis tertentu (*asbab al-wurud al-fatawa*). Mengambil fatwa seorang fukaha yang hidup di bawah ancaman perang salib lalu menerapkannya secara harfiah kepada santri remaja di asrama masa damai melanggar hukum hermeneutika syar'i.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Standar Verifikasi Naskah Rujukan Asrama (TUMBUH v2.0.0)
-
-
-
-| Dimensi Penukilan Teks | Praktik Serampangan Lapangan (Reduksi) | Standar Tahqiq Kanonik (TUMBUH v2.0.0) | Indikator Kredibilitas Regulasi |
-
-| :--- | :--- | :--- | :--- |
-
-| **Pemilihan Edisi Cetakan** | Menggunakan sembarang kitab cetakan lokal tanpa identitas muhaqqiq dan manuskrip. | **Wajib menggunakan Edisi Tahqiq Ilmiah Mu'tabar** (Darul Kutub Al-Ilmiyyah versi teruji, Darul Minhaaj, Muassasah Risalah, dll). | Teks bebas dari salah cetak; memiliki catatan kaki perbandingan naskah (*ta'liq*). |
-
-| **Metode Pembacaan Teks** | Mengutip satu baris potong untuk dijadikan dasar sanksi atau tata tertib kamar. | **Pembacaan Holistik Satu Bab Lengkap**: meneliti konteks asal usul masalah (*siyāqul kalam*) dan syarat penerapannya. | Regulasi adil dan proporsional; tidak ada distorsi kehendak pengarang kitab. |
-
-| **Penerjemahan & Syarah** | Mengandalkan terjemahan bebas internet atau Google Translate. | Teks Arab berharakat wajib disertai **Kajian Syarah Mu'tabar** dari ulama mazhab terkait dan verifikasi tata bahasa Arab. | Presisi hukum terjamin; santri memahami maksud hikmah syar'i secara jernih. |
-
-| **Dokumentasi Sitasi Kebijakan** | Hanya menuliskan: *"Menurut Kitab Fathul Mu'in"* tanpa nomor jilid dan halaman. | **Standar Sitasi Akademis Lengkap**: Nama kitab, nama muhaqqiq, penerbit, cetakan ke berapa, tahun, jilid, dan nomor halaman presisi. | Kemudahan penelusuran (*traceability*); memenuhi standar audit mutu ilmiah. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ
+>
+>    ```  
+>
+>    > *"Di antara orang-orang Yahudi, ada yang mengubah perkataan dari tempat-tempatnya (maknanya)..."* (QS. An-Nisa': 46).  
+>
+>    Mencabut teks ulama salaf dari konteksnya demi membenarkan kebijakan zalim di asrama adalah perbuatan tercela yang menyerupai tabiat *tahrif* ini.
+>
+>
+>
+> 2. **Perintah Menjaga Amanah Penukilan Ilmiah:**  
+>
+>
+>    نَضَّرَ اللَّهُ امْرَأً سَمِعَ مِنَّا حَدِيثًا فَحَفِظَهُ حَتَّى يُبَلِّغَهُ، فَرُبَّ حَامِلِ فِقْهٍ إِلَىٰ مَنْ هُوَ أَفْقَهُ مِنْهُ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Semoga Allah memancarkan cahaya pada wajah seseorang yang mendengar suatu hadits dari kami lalu ia menghafalnya (dengan teliti dan tepat) hingga ia menyampaikannya kepada orang lain; betapa banyak orang yang membawa pemahaman fikih kepada orang yang lebih paham darinya!"* (HR. Abu Dawud no. 3660 & At-Tirmidzi no. 2656, shahih).  
+>
+>    Keberkahan ilmu hanya dianugerahkan kepada penuntut ilmu yang teliti dan amanah dalam meriwayatkan teks persis sebagaimana mestinya.
+>
+>
+>
+> 3. **Kaidah Kanonik Ulama Hadits tentang Ketelitian Naskah (*Dhabthul Kitab*):**  
+>
+>    Para ulama ushul hadits menetapkan bahwa seorang perawi tidak boleh meriwayatkan dari suatu kitab melainkan setelah naskah kitab tersebut di-*muqabalah* (dikoreksi silang) dengan naskah asli sang pengarang atau naskah guru yang terpercaya.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Filologi Kritis / Hermeneutika Teks
+>
+>
+>
+> Filologi modern dan linguistik forensik menyediakan metodologi ilmiah dalam menguji naskah kuno:
+>
+>
+>
+> 1. **Metodologi Filologi Lachmannian (*Stemmatics & Critical Edition*):**  
+>
+>    Dalam filologi kritis, suatu teks kuno hanya diakui otoritasnya apabila telah melewati rekonstruksi pohon silsilah naskah (*stemma codicum*): membandingkan seluruh varian bacaan (*apparatus criticus*), memisahkan kesalahan penyalin (*scribal errors*), dan mengembalikan teks ke bentuk paling mendekati naskah asli pengarang (*archetype*). Menjadikan naskah bajakan tanpa tahqiq sebagai dasar regulasi asrama adalah kenaifan ilmiah tingkat tinggi.
+>
+>
+>
+> 2. **Bahaya Efek *Semantic Drift* (Pergeseran Makna Kata):**  
+>
+>    Linguistik historis membuktikan bahwa makna kata bahasa Arab mengalami pergeseran makna melintasi abad (*semantic drift*). Contoh: kata *"Adab"* pada abad ke-2 Hijriah mencakup keanggunan etika komprehensif; pada abad ke-8 bergeser ke ranah sastra; dan pada abad modern sering disederhanakan menjadi "kepatuhan sopan santun semata". Mengutip teks abad pertengahan dengan kacamata definisi abad ke-21 tanpa kajian filologis menghasilkan distorsi kebijakan yang berbahaya.
+>
+>
+>
+> 3. **Integritas Konteks Pragmatik (*Pragmatic Context of Text Production*):**  
+>
+>    Setiap fatwa dan pernyataan ulama salaf lahir dalam konteks sosio-historis tertentu (*asbab al-wurud al-fatawa*). Mengambil fatwa seorang fukaha yang hidup di bawah ancaman perang salib lalu menerapkannya secara harfiah kepada santri remaja di asrama masa damai melanggar hukum hermeneutika syar'i.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Standar Verifikasi Naskah Rujukan Asrama (TUMBUH v2.0.0)
+>
+>
+>
+> | Dimensi Penukilan Teks | Praktik Serampangan Lapangan (Reduksi) | Standar Tahqiq Kanonik (TUMBUH v2.0.0) | Indikator Kredibilitas Regulasi |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Pemilihan Edisi Cetakan** | Menggunakan sembarang kitab cetakan lokal tanpa identitas muhaqqiq dan manuskrip. | **Wajib menggunakan Edisi Tahqiq Ilmiah Mu'tabar** (Darul Kutub Al-Ilmiyyah versi teruji, Darul Minhaaj, Muassasah Risalah, dll). | Teks bebas dari salah cetak; memiliki catatan kaki perbandingan naskah (*ta'liq*). |
+>
+> | **Metode Pembacaan Teks** | Mengutip satu baris potong untuk dijadikan dasar sanksi atau tata tertib kamar. | **Pembacaan Holistik Satu Bab Lengkap**: meneliti konteks asal usul masalah (*siyāqul kalam*) dan syarat penerapannya. | Regulasi adil dan proporsional; tidak ada distorsi kehendak pengarang kitab. |
+>
+> | **Penerjemahan & Syarah** | Mengandalkan terjemahan bebas internet atau Google Translate. | Teks Arab berharakat wajib disertai **Kajian Syarah Mu'tabar** dari ulama mazhab terkait dan verifikasi tata bahasa Arab. | Presisi hukum terjamin; santri memahami maksud hikmah syar'i secara jernih. |
+>
+> | **Dokumentasi Sitasi Kebijakan** | Hanya menuliskan: *"Menurut Kitab Fathul Mu'in"* tanpa nomor jilid dan halaman. | **Standar Sitasi Akademis Lengkap**: Nama kitab, nama muhaqqiq, penerbit, cetakan ke berapa, tahun, jilid, dan nomor halaman presisi. | Kemudahan penelusuran (*traceability*); memenuhi standar audit mutu ilmiah. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: LITERALISME CETAKAN RUSAK ]
 
@@ -312,11 +308,7 @@ Di sebuah asrama pesantren, Ketua Keamanan menetapkan Pasal 22 Tata Tertib: *"Sa
 
    Ditemukan bahwa teks asli yang ditulis oleh Hujjatul Islam Al-Ghazali berbunyi:
 
-   ```arabic
-
-   فَلْيُؤَدِّبْهُ عَلَى الرِّفْقِ وَلَا يُعَنِّفْهُ
-
-   ```  
+   > فَلْيُؤَدِّبْهُ عَلَى الرِّفْقِ وَلَا يُعَنِّفْهُ
 
    > *"Maka hendaklah ia mendidiknya di atas kelemahlembutan (ar-rifq) dan janganlah ia bersikap kasar kepadanya!"*  
 
@@ -344,11 +336,7 @@ Para ulama salaf telah merumuskan kaidah tahqiq dan kritik teks sejak berabad-ab
 
    Menegaskan syarat dhabth kitab:
 
-   ```arabic
-
-   أَنْ يَكُونَ حَافِظًا لِكِتَابِهِ إِنْ حَدَّثَ مِنْ كِتَابِهِ، قَدْ قَابَلَ كِتَابَهُ بِأَصْلٍ صَحِيحٍ لَا يُدَاخِلُهُ فِيهِ شَكٌّ
-
-   ```  
+   > أَنْ يَكُونَ حَافِظًا لِكِتَابِهِ إِنْ حَدَّثَ مِنْ كِتَابِهِ، قَدْ قَابَلَ كِتَابَهُ بِأَصْلٍ صَحِيحٍ لَا يُدَاخِلُهُ فِيهِ شَكٌّ
 
    > *"Hendaklah ia menjaga kitabnya jika ia meriwayatkan dari kitabnya, dan sungguh ia telah mengoreksi silang (muqabalah) naskah kitabnya itu dengan naskah asli yang sahih yang tidak dimasuki keraguan sedikit pun di dalamnya!"* (*Ar-Risalah*, hlm. 370).
 
@@ -358,11 +346,7 @@ Para ulama salaf telah merumuskan kaidah tahqiq dan kritik teks sejak berabad-ab
 
    Menulis bab khusus tentang bahaya *Tashif* (salah baca huruf):
 
-   ```arabic
-
-   كَمْ مِنْ حُكْمٍ انْقَلَبَ، وَحَلَالٍ حُرِّمَ، وَحَرَامٍ حُلِّلَ بِسَبَبِ تَصْحِيفِ كَلِمَةٍ أَوْ سُقُوطِ حَرْفٍ مِنْ كِتَابٍ لَمْ يُقَابَلْ بِأَصْلِهِ! وَلِذَلِكَ قَالُوا: لَا تَأْخُذُوا الْعِلْمَ عَنْ صُحُفِيٍّ
-
-   ```  
+   > كَمْ مِنْ حُكْمٍ انْقَلَبَ، وَحَلَالٍ حُرِّمَ، وَحَرَامٍ حُلِّلَ بِسَبَبِ تَصْحِيفِ كَلِمَةٍ أَوْ سُقُوطِ حَرْفٍ مِنْ كِتَابٍ لَمْ يُقَابَلْ بِأَصْلِهِ! وَلِذَلِكَ قَالُوا: لَا تَأْخُذُوا الْعِلْمَ عَنْ صُحُفِيٍّ
 
    > *"Betapa banyak hukum terbalik, yang halal diharamkan, dan yang haram dihalalkan semata-mata karena salah baca (tashif) satu kata atau gugurnya satu huruf dari sebuah kitab yang tidak dikoreksi silang dengan naskah aslinya! Oleh karena itulah para salaf berkata: 'Janganlah kalian mengambil ilmu dari orang yang hanya belajar dari lembaran kertas cetakan (tanpa talaqqi dan tahqiq)!' "*
 

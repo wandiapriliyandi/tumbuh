@@ -60,24 +60,18 @@ Keberhasilan kurikulum adab sering kali digagalkan bukan oleh silabus yang buruk
 Risalah Islam memberikan peringatan sangat tegas bahwa setiap ucapan manusia—termasuk di ruang santai dan bercanda—berada dalam pengawasan malaikat pencatat amal:
 
 1. **Pengawasan Ilahi atas Setiap Bisikan Kata:**  
-   ```arabic
-   مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
-   ```  
+   >    مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ
    > *"Tiada suatu ucapan pun yang diucapkannya melainkan ada di dekatnya malaikat pengawas yang selalu hadir (mencatat)."* (QS. Qaf: 18).  
    Ayat ini menjadi dasar bahwa tidak ada istilah "zona bebas hisab" dalam kehidupan seorang murabbi, baik di dalam kelas maupun saat bersantai di kamar asrama.
 
 2. **Batasan Candaan Rasulullah ﷺ yang Suci dari Dusta dan Celaan:**  
    Para sahabat bertanya keheranan:
-   ```arabic
-   قَالُوا: يَا رَسُولَ اللَّهِ، إِنَّكَ تُدَاعِبُنَا! قَالَ: «إِنِّي لَا أَقُولُ إِلَّا حَقًّا»
-   ```  
+   >    قَالُوا: يَا رَسُولَ اللَّهِ، إِنَّكَ تُدَاعِبُنَا! قَالَ: «إِنِّي لَا أَقُولُ إِلَّا حَقًّا»
    > *Para sahabat berkata: "Wahai Rasulullah, sesungguhnya engkau mencandai kami!" Beliau bersabda: "Sesungguhnya aku tidak pernah berkata (dalam bercanda) melainkan semata-mata kebenaran!"* (HR. At-Tirmidzi no. 1990, shahih).  
    Rasulullah ﷺ bercanda untuk menghangatkan hati dan melembutkan jiwa, tanpa pernah berbohong, tanpa mencela fisik, dan tanpa menjatuhkan kehormatan manusia.
 
 3. **Ancaman bagi Lelucon yang Mengandung Kebohongan dan Hinaan:**  
-   ```arabic
-   وَيْلٌ لِلَّذِي يُحَدِّثُ فَيَكْذِبُ لِيُضْحِكَ بِهِ الْقَوْمَ، وَيْلٌ لَهُ، وَيْلٌ لَهُ
-   ```  
+   >    وَيْلٌ لِلَّذِي يُحَدِّثُ فَيَكْذِبُ لِيُضْحِكَ بِهِ الْقَوْمَ، وَيْلٌ لَهُ، وَيْلٌ لَهُ
    > *Sabda Rasulullah ﷺ: "Celakalah orang yang berbicara lalu berdusta demi membuat orang-orang tertawa! Celakalah dia, celakalah dia!"* (HR. Abu Dawud no. 4990 & At-Tirmidzi no. 2315, hasan).
 
 ---
@@ -172,16 +166,12 @@ Para ulama turats meletakkan etika ketat mengenai keteladanan tingkah laku penga
 
 1. **Al-Imam Ibnu Sahnun dalam *Adab al-Mu'allimin*:**  
    Menegaskan kewajiban guru menjaga adab di depan anak-anak:
-   ```arabic
-   يَجِبُ عَلَى الْمُعَلِّمِ أَنْ يَكُونَ حَسَنَ السِّيرَةِ، جَمِيلَ الطَّرِيقَةِ، كَثِيرَ التَّحَفُّظِ مِنْ كُلِّ مَا يُعَابُ بِهِ؛ فَإِنَّ أَعْيُنَ الصِّبْيَانِ مَعْقُودَةٌ بِعَيْنِهِ، فَالْحَسَنُ عِنْدَهُمْ مَا اسْتَحْسَنَهُ، وَالْقَبِيحُ عِنْدَهُمْ مَا اسْتَقْبَحَهُ
-   ```  
+   >    يَجِبُ عَلَى الْمُعَلِّمِ أَنْ يَكُونَ حَسَنَ السِّيرَةِ، جَمِيلَ الطَّرِيقَةِ، كَثِيرَ التَّحَفُّظِ مِنْ كُلِّ مَا يُعَابُ بِهِ؛ فَإِنَّ أَعْيُنَ الصِّبْيَانِ مَعْقُودَةٌ بِعَيْنِهِ، فَالْحَسَنُ عِنْدَهُمْ مَا اسْتَحْسَنَهُ، وَالْقَبِيحُ عِنْدَهُمْ مَا اسْتَقْبَحَهُ
    > *"Wajib atas seorang guru memiliki rekam jejak yang baik, jalan hidup yang indah, dan sangat berhati-hati menjaga diri dari segala hal yang tercela; karena sesungguhnya mata anak-anak itu terikat erat dengan mata gurunya: maka kebaikan menurut mereka adalah apa yang dianggap baik oleh sang guru, dan keburukan menurut mereka adalah apa yang dianggap remeh oleh sang guru!"* (*Adab al-Mu'allimin*, hlm. 33).
 
 2. **Al-Imam Al-Mawardi dalam *Adab ad-Dunya wad-Diin* (Adab al-Muzah / Bercanda):**  
    Menjelaskan batasan candaan yang terpuji:
-   ```arabic
-   الْمُزَاحُ إِذَا سَلِمَ مِنْ مَفَاسِدِ الْكَذِبِ وَالْغِيبَةِ وَالسُّخْرِيَّةِ كَانَ مُبَاحًا بَلْ مَنْدُوبًا لِتَطْيِيبِ النُّفُوسِ؛ فَإِنْ خَالَطَهُ شَيْءٌ مِنْ ذَلِكَ أَوْرَثَ الضَّغَائِنَ وَأَسْقَطَ الْمَهَابَةَ
-   ```  
+   >    الْمُزَاحُ إِذَا سَلِمَ مِنْ مَفَاسِدِ الْكَذِبِ وَالْغِيبَةِ وَالسُّخْرِيَّةِ كَانَ مُبَاحًا بَلْ مَنْدُوبًا لِتَطْيِيبِ النُّفُوسِ؛ فَإِنْ خَالَطَهُ شَيْءٌ مِنْ ذَلِكَ أَوْرَثَ الضَّغَائِنَ وَأَسْقَطَ الْمَهَابَةَ
    > *"Candaan itu apabila selamat dari kerusakan dusta, ghibah, dan olok-olok celaan, maka ia mubah bahkan dianjurkan demi menghangatkan jiwa; namun apabila bercampur dengan hal-hal tercela tersebut niscaya ia akan mewariskan kedengkian dan menjatuhkan wibawa guru!"*
 
 3. **Al-Imam Ibnul Jauzi dalam *Shaidul Khatir*:**  

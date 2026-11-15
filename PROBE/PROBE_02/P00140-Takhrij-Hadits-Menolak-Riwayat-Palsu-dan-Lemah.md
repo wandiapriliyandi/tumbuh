@@ -126,107 +126,101 @@ Kemurnian transmisi risalah nubuwah dijaga dengan standar kejujuran mutlak di ma
 
 1. **Keharaman Mendustakan Risalah dan Menuduh Tanpa Ilmu:**  
 
-   ```arabic
-
-   وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
-
-   ```  
-
-   > *"Dan janganlah kamu mengikuti apa yang kamu tidak mempunyai pengetahuan tentangnya. Sesungguhnya pendengaran, penglihatan, dan hati, semuanya itu akan diminta pertanggungjawabannya."* (QS. Al-Isra': 36).  
-
-   Mengutip hadits tanpa mengetahui keshahihannya adalah bentuk nyata dari *"mengikuti apa yang tidak diketahui ilmunya"*.
-
-
-
-2. **Ancaman Hadits Mutawatir bagi Pemalsu Hadits:**  
-
-   Rasulullah ﷺ bersabda dalam derajat mutawatir mutlak (diriwayatkan lebih dari 70 sahabat):
-
-   ```arabic
-
-   مَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ
-
-   ```  
-
-   > *"Barangsiapa berdusta atas namaku secara sengaja, maka hendaklah ia mempersiapkan tempat duduknya di neraka!"* (HR. Al-Bukhari no. 107 & Muslim no. 3).
-
-
-
-3. **Peringatan Keras Menyebarkan Riwayat yang Diduga Dusta:**  
-
-   ```arabic
-
-   مَنْ حَدَّثَ عَنِّي بِحَدِيثٍ يُرَى أَنَّهُ كَذِبٌ فَهُوَ أَحَدُ الْكَاذِبِينَ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Barangsiapa meriwayatkan suatu hadits dariku, padahal ia menduga (mengetahui) bahwa hadits itu adalah dusta, maka ia termasuk salah seorang dari para pendusta!"* (Muqaddimah *Shahih Muslim* no. 1).  
-
-   Hadits ini menegaskan bahwa penceramah yang sembrono menyebarkan riwayat palsu tanpa tabayyun disamakan dosanya dengan pembuat hadits palsu itu sendiri.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Kognitif / Literasi Informasi
-
-
-
-Sains kognitif modern dan kajian sosiologi informasi menjelaskan bahaya penyebaran informasi palsu (*misinformation*):
-
-
-
-1. **Efek Kebenaran Ilusif (*Illusory Truth Effect - Hasher et al., 1977*):**  
-
-   Otak manusia memiliki bias kognitif: informasi yang diulang-ulang secara konsisten akan diproses dengan kelancaran kognitif (*cognitive fluency*) tinggi dan akhirnya dipercaya sebagai kebenaran, kendati awalnya palsu. Di asrama, jika sebuah hadits palsu diulang-ulang setiap pekan oleh musyrif, santri akan menganggapnya sebagai akidah qath'i. Membongkar keyakinan palsu ini di masa dewasa memerlukan energi mental (*cognitive de-biasing*) yang sangat berat dan menyakitkan.
-
-
-
-2. **Erosi Kredibilitas Sumber (*Source Credibility Degradation*):**  
-
-   Penelitian psikologi komunikasi (Pornpitakpan, 2004) membuktikan bahwa ketika audiens menemukan satu kebohongan faktual dari figur otoritas, kepercayaan terhadap seluruh pesan moral lainnya yang disampaikan oleh figur tersebut turun hingga lebih dari 60%. Menyampaikan satu hadits palsu dalam ceramah motivasi menghancurkan otoritas ilmiah sang ustadz di mata santri yang berwawasan luas.
-
-
-
-3. **Kekayaan Literasi Hadits Sahih (*Sufficiency of Authentic Corpus*):**  
-
-   Khazanah hadits sahih dan hasan dalam *Kutubus Sittah* dan musnad-musnad mu'tabar memuat lebih dari puluhan ribu riwayat otentik yang mencakup seluruh spektrum motivasi jiwa, adab, estetika, dan spiritualitas. Tidak ada kebutuhan darurat sedikit pun untuk meminjam riwayat palsu demi memotivasi santri.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Standar Takhrij dalam Narasi Pengasuhan TUMBUH
-
-
-
-| Kategori Riwayat | Status Epistemik Syar'i | Kebijakan Penggunaan di Asrama | Contoh Riwayat Populer & Koreksinya |
-
-| :--- | :--- | :--- | :--- |
-
-| **Hadits Shahih & Hasan** | Sumber hukum & adab kanonik yang mengikat (*Hujjah Lazimah*). | **Wajib diutamakan 100%** dalam seluruh kurikulum, tausiyah kamar, dan materi disiplin. | Hadits niat (*Innamal a'malu bin-niyyat*), adab menahan amarah (*La taghdhab*), persaudaraan muslim. |
-
-| **Hadits Dha'if Ringan (Syarat Ibnu Hajar)** | Bukan hukum halal-haram; hanya penguat motivasi jika memenuhi 3 syarat ketat. | Boleh digunakan terbatas untuk motivasi dengan syarat: (1) Tidak sangat lemah, (2) Masuk di bawah dalil sahih umum, (3) Tidak diyakini pasti sabda Nabi. | Riwayat keutamaan membaca surat tertentu di malam hari (disampaikan dengan sighah tamridh: *"diriwayatkan"*). |
-
-| **Hadits Maudhu' (Palsu) & Batil** | Dusta atas nama Rasulullah ﷺ (*Kadzib Sharih*). | **HARAM MUTLAK DISEBUTKAN** kecuali dalam rangka memperingatkan kepalsuannya (*tahdzir*). | Palsu: *"Tuntutlah ilmu walau ke negeri Cina"* (riwayat batil/la ashla lahu).<br>Palsu: *"Cinta tanah air sebagian dari iman"* (ungkapan hikmah, bukan hadits Nabi). |
-
-| **Atsar Sahabat & Hikmah Ulama** | Perkataan manusia mulia non-maksum (*Kalam al-Hikmah*). | Boleh digunakan secara luas asalkan **secara jujur dinisbatkan kepada tokohnya**, bukan dipalsukan menjadi sabda Nabi. | Wasiat Luqman Al-Hakim, atsar Umar bin Khattab ra, hikmah Imam Asy-Syafi'i dan Al-Ghazali. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
+>
+>    ```  
+>
+>    > *"Dan janganlah kamu mengikuti apa yang kamu tidak mempunyai pengetahuan tentangnya. Sesungguhnya pendengaran, penglihatan, dan hati, semuanya itu akan diminta pertanggungjawabannya."* (QS. Al-Isra': 36).  
+>
+>    Mengutip hadits tanpa mengetahui keshahihannya adalah bentuk nyata dari *"mengikuti apa yang tidak diketahui ilmunya"*.
+>
+>
+>
+> 2. **Ancaman Hadits Mutawatir bagi Pemalsu Hadits:**  
+>
+>    Rasulullah ﷺ bersabda dalam derajat mutawatir mutlak (diriwayatkan lebih dari 70 sahabat):
+>
+>
+>    مَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ
+>
+>
+>    > *"Barangsiapa berdusta atas namaku secara sengaja, maka hendaklah ia mempersiapkan tempat duduknya di neraka!"* (HR. Al-Bukhari no. 107 & Muslim no. 3).
+>
+>
+>
+> 3. **Peringatan Keras Menyebarkan Riwayat yang Diduga Dusta:**  
+>
+>
+>    مَنْ حَدَّثَ عَنِّي بِحَدِيثٍ يُرَى أَنَّهُ كَذِبٌ فَهُوَ أَحَدُ الْكَاذِبِينَ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Barangsiapa meriwayatkan suatu hadits dariku, padahal ia menduga (mengetahui) bahwa hadits itu adalah dusta, maka ia termasuk salah seorang dari para pendusta!"* (Muqaddimah *Shahih Muslim* no. 1).  
+>
+>    Hadits ini menegaskan bahwa penceramah yang sembrono menyebarkan riwayat palsu tanpa tabayyun disamakan dosanya dengan pembuat hadits palsu itu sendiri.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Kognitif / Literasi Informasi
+>
+>
+>
+> Sains kognitif modern dan kajian sosiologi informasi menjelaskan bahaya penyebaran informasi palsu (*misinformation*):
+>
+>
+>
+> 1. **Efek Kebenaran Ilusif (*Illusory Truth Effect - Hasher et al., 1977*):**  
+>
+>    Otak manusia memiliki bias kognitif: informasi yang diulang-ulang secara konsisten akan diproses dengan kelancaran kognitif (*cognitive fluency*) tinggi dan akhirnya dipercaya sebagai kebenaran, kendati awalnya palsu. Di asrama, jika sebuah hadits palsu diulang-ulang setiap pekan oleh musyrif, santri akan menganggapnya sebagai akidah qath'i. Membongkar keyakinan palsu ini di masa dewasa memerlukan energi mental (*cognitive de-biasing*) yang sangat berat dan menyakitkan.
+>
+>
+>
+> 2. **Erosi Kredibilitas Sumber (*Source Credibility Degradation*):**  
+>
+>    Penelitian psikologi komunikasi (Pornpitakpan, 2004) membuktikan bahwa ketika audiens menemukan satu kebohongan faktual dari figur otoritas, kepercayaan terhadap seluruh pesan moral lainnya yang disampaikan oleh figur tersebut turun hingga lebih dari 60%. Menyampaikan satu hadits palsu dalam ceramah motivasi menghancurkan otoritas ilmiah sang ustadz di mata santri yang berwawasan luas.
+>
+>
+>
+> 3. **Kekayaan Literasi Hadits Sahih (*Sufficiency of Authentic Corpus*):**  
+>
+>    Khazanah hadits sahih dan hasan dalam *Kutubus Sittah* dan musnad-musnad mu'tabar memuat lebih dari puluhan ribu riwayat otentik yang mencakup seluruh spektrum motivasi jiwa, adab, estetika, dan spiritualitas. Tidak ada kebutuhan darurat sedikit pun untuk meminjam riwayat palsu demi memotivasi santri.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Standar Takhrij dalam Narasi Pengasuhan TUMBUH
+>
+>
+>
+> | Kategori Riwayat | Status Epistemik Syar'i | Kebijakan Penggunaan di Asrama | Contoh Riwayat Populer & Koreksinya |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Hadits Shahih & Hasan** | Sumber hukum & adab kanonik yang mengikat (*Hujjah Lazimah*). | **Wajib diutamakan 100%** dalam seluruh kurikulum, tausiyah kamar, dan materi disiplin. | Hadits niat (*Innamal a'malu bin-niyyat*), adab menahan amarah (*La taghdhab*), persaudaraan muslim. |
+>
+> | **Hadits Dha'if Ringan (Syarat Ibnu Hajar)** | Bukan hukum halal-haram; hanya penguat motivasi jika memenuhi 3 syarat ketat. | Boleh digunakan terbatas untuk motivasi dengan syarat: (1) Tidak sangat lemah, (2) Masuk di bawah dalil sahih umum, (3) Tidak diyakini pasti sabda Nabi. | Riwayat keutamaan membaca surat tertentu di malam hari (disampaikan dengan sighah tamridh: *"diriwayatkan"*). |
+>
+> | **Hadits Maudhu' (Palsu) & Batil** | Dusta atas nama Rasulullah ﷺ (*Kadzib Sharih*). | **HARAM MUTLAK DISEBUTKAN** kecuali dalam rangka memperingatkan kepalsuannya (*tahdzir*). | Palsu: *"Tuntutlah ilmu walau ke negeri Cina"* (riwayat batil/la ashla lahu).<br>Palsu: *"Cinta tanah air sebagian dari iman"* (ungkapan hikmah, bukan hadits Nabi). |
+>
+> | **Atsar Sahabat & Hikmah Ulama** | Perkataan manusia mulia non-maksum (*Kalam al-Hikmah*). | Boleh digunakan secara luas asalkan **secara jujur dinisbatkan kepada tokohnya**, bukan dipalsukan menjadi sabda Nabi. | Wasiat Luqman Al-Hakim, atsar Umar bin Khattab ra, hikmah Imam Asy-Syafi'i dan Al-Ghazali. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: PERMISIVISME POPULIS ]
 
@@ -346,11 +340,7 @@ Para ulama hadits terkemuka telah meletakkan kaidah tegas mengenai periwayatan h
 
    Merumuskan tiga syarat mutlak kebolehan mengamalkan hadits dha'if dalam fadhailul a'mal:
 
-   ```arabic
-
-   شُرُوطُ الْعَمَلِ بِالْحَدِيثِ الضَّعِيفِ ثَلَاثَةٌ: أَوَّلُهَا: أَنْ يَكُونَ الضَّعْفُ غَيْرَ شَدِيدٍ، فَيَخْرُجُ مَنِ انْفَرَدَ مِنَ الْكَذَّابِينَ وَالْمُتَّهَمِينَ بِالْكَذِبِ. الثَّانِي: أَنْ يَنْدَرِجَ تَحْتَ أَصْلٍ عَامٍّ. الثَّالِثُ: أَلَّا يُعْتَقَدَ عِنْدَ الْعَمَلِ بِهِ ثُبُوتُهُ، لِئَلَّا يُنْسَبَ إِلَى النَّبِيِّ ﷺ مَا لَمْ يَقُلْهُ
-
-   ```  
+   > شُرُوطُ الْعَمَلِ بِالْحَدِيثِ الضَّعِيفِ ثَلَاثَةٌ: أَوَّلُهَا: أَنْ يَكُونَ الضَّعْفُ غَيْرَ شَدِيدٍ، فَيَخْرُجُ مَنِ انْفَرَدَ مِنَ الْكَذَّابِينَ وَالْمُتَّهَمِينَ بِالْكَذِبِ. الثَّانِي: أَنْ يَنْدَرِجَ تَحْتَ أَصْلٍ عَامٍّ. الثَّالِثُ: أَلَّا يُعْتَقَدَ عِنْدَ الْعَمَلِ بِهِ ثُبُوتُهُ، لِئَلَّا يُنْسَبَ إِلَى النَّبِيِّ ﷺ مَا لَمْ يَقُلْهُ
 
    > *"Syarat pengamalan hadits dha'if ada tiga: Pertama, kelemahannya tidak parah (bukan riwayat pemalsu atau tertuduh dusta). Kedua, hadits tersebut bernaung di bawah pokok dalil syar'i yang umum. Ketiga, ketika mengamalkannya tidak meyakini bahwa itu pasti sabda Nabi ﷺ, agar tidak menisbatkan kepada Nabi apa yang tidak beliau sabdakan!"*
 
@@ -360,11 +350,7 @@ Para ulama hadits terkemuka telah meletakkan kaidah tegas mengenai periwayatan h
 
    Menegaskan keharaman mutlak meriwayatkan hadits maudhu':
 
-   ```arabic
-
-   يَحْرُمُ رِوَايَةُ الْحَدِيثِ الْمَوْضُوعِ عَلَى مَنْ عَرَفَ كَوْنَهُ مَوْضُوعًا أَوْ غَلَبَ عَلَى ظَنِّهِ وَضْعُهُ فِي أَيِّ مَعْنًى كَانَ، إِلَّا مَقْرُونًا بِبَيَانِ وَضْعِهِ
-
-   ```  
+   > يَحْرُمُ رِوَايَةُ الْحَدِيثِ الْمَوْضُوعِ عَلَى مَنْ عَرَفَ كَوْنَهُ مَوْضُوعًا أَوْ غَلَبَ عَلَى ظَنِّهِ وَضْعُهُ فِي أَيِّ مَعْنًى كَانَ، إِلَّا مَقْرُونًا بِبَيَانِ وَضْعِهِ
 
    > *"Diharamkan meriwayatkan hadits maudhu' (palsu) bagi siapa saja yang mengetahui kepalsuannya atau menduga kuat kepalsuannya dalam tema apa pun, kecuali disertai penjelasan tentang kepalsuannya!"*
 
@@ -374,11 +360,7 @@ Para ulama hadits terkemuka telah meletakkan kaidah tegas mengenai periwayatan h
 
    Mengkritik keras para penceramah yang memalsukan riwayat demi melunakkan hati manusia:
 
-   ```arabic
-
-   قَدْ وَضَعَتِ الزَّنَادِقَةُ أَحَادِيثَ لِيُفْسِدُوا الشَّرِيعَةَ، وَوَضَعَ قَوْمٌ مِنَ الصَّالِحِينَ أَحَادِيثَ فِي التَّرْغِيبِ وَالتَّرْهِيبِ حِسْبَةً بِزَعْمِهِمْ، فَكَانُوا شَرًّا مِنَ الزَّنَادِقَةِ؛ لِأَنَّ النَّاسَ قَبِلُوا مِنهُمْ لِصَلَاحِهِمْ!
-
-   ```  
+   > قَدْ وَضَعَتِ الزَّنَادِقَةُ أَحَادِيثَ لِيُفْسِدُوا الشَّرِيعَةَ، وَوَضَعَ قَوْمٌ مِنَ الصَّالِحِينَ أَحَادِيثَ فِي التَّرْغِيبِ وَالتَّرْهِيبِ حِسْبَةً بِزَعْمِهِمْ، فَكَانُوا شَرًّا مِنَ الزَّنَادِقَةِ؛ لِأَنَّ النَّاسَ قَبِلُوا مِنهُمْ لِصَلَاحِهِمْ!
 
    > *"Kaum zindiq memalsukan hadits untuk merusak syariat, dan sekelompok orang shaleh memalsukan hadits dalam bab motivasi dan ancaman demi mencari pahala menurut sangkaan mereka; dan orang-orang shaleh yang memalsukan hadits ini justru LEBIH BERBAHAYA daripada kaum zindiq, karena manusia menerima kebohongan itu semata-mata karena melihat kesalehan lahiriah mereka!"*
 

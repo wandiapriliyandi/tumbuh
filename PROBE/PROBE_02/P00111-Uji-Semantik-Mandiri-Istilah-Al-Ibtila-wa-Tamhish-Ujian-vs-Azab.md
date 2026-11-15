@@ -54,11 +54,7 @@ Konsep *Al-Ibtila'* dan *At-Tamhish* dalam Al-Qur'an dan Sunnah berpijak pada pe
 
 1. **Pembersihan Hati dan Pengujian Keteguhan (*At-Tamhish*):**
 
-   ```arabic
-
-   وَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ ۗ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-
-   ```
+   > وَلِيَبْتَلِيَ اللَّهُ مَا فِي صُدُورِكُمْ وَلِيُمَحِّصَ مَا فِي قُلُوبِكُمْ ۗ وَاللَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
 
    > *"Dan agar Allah menguji apa yang ada dalam dadamu dan membersihkan (memurnikan) apa yang ada dalam hatimu. Dan Allah Maha Mengetahui segala isi hati."* (QS. Ali 'Imran: 154).  
 
@@ -68,11 +64,7 @@ Konsep *Al-Ibtila'* dan *At-Tamhish* dalam Al-Qur'an dan Sunnah berpijak pada pe
 
 2. **Keniscayaan Ujian bagi Manusia yang Mengaku Beriman:**
 
-   ```arabic
-
-   أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ * وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ
-
-   ```
+   > أَحَسِبَ النَّاسُ أَن يُتْرَكُوا أَن يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ * وَلَقَدْ فَتَنَّا الَّذِينَ مِن قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ
 
    > *"Apakah manusia mengira bahwa mereka akan dibiarkan hanya dengan mengatakan: 'Kami telah beriman', sedang mereka tidak diuji? Dan sungguh Kami telah menguji orang-orang sebelum mereka, maka Allah pasti mengetahui orang-orang yang benar dan pasti mengetahui orang-orang yang dusta."* (QS. Al-'Ankabut: 2-3).
 
@@ -80,11 +72,7 @@ Konsep *Al-Ibtila'* dan *At-Tamhish* dalam Al-Qur'an dan Sunnah berpijak pada pe
 
 3. **Tingkatan Ujian Berbanding Lurus dengan Kedudukan Derajat (*Rif'ah*):**
 
-   ```arabic
-
-   سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَيُّ النَّاسِ أَشَدُّ بَلَاءً؟ قَالَ: «الْأَنْبِيَاءُ، ثُمَّ الْأَمْثَلُ فَالْأَمْثَلُ، يُبْتَلَى الرَّجُلُ عَلَى حَسَبِ دِينِهِ...»
-
-   ```
+   > سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَيُّ النَّاسِ أَشَدُّ بَلَاءً؟ قَالَ: «الْأَنْبِيَاءُ، ثُمَّ الْأَمْثَلُ فَالْأَمْثَلُ، يُبْتَلَى الرَّجُلُ عَلَى حَسَبِ دِينِهِ...»
 
    > *Rasulullah ﷺ ditanya: "Siapakah manusia yang paling berat ujiannya?" Beliau menjawab: "Para nabi, kemudian orang-orang yang semisal mereka, lalu orang-orang yang semisal mereka. Seseorang diuji sesuai dengan kadar ketaatan agamanya..."* (HR. At-Tirmidzi no. 2398, hasan shahih).  
 
@@ -210,11 +198,7 @@ Para ulama mu'tabar menegaskan distingsi hakiki antara ujian tarbiyah (*ibtila' 
 
    Menjelaskan bahwa Allah menimpakan musibah kepada hamba mukmin bukan untuk membinasakannya, melainkan untuk menguji kesabarannya dan membersihkan residu kesombongannya:  
 
-   ```arabic
-
-   إِنَّ ابْتِلَاءَ الْمُؤْمِنِ كَالدَّوَاءِ لَهُ؛ يَسْتَخْرِجُ مِنْهُ الْأَدْوَاءَ الرَّدِيئَةَ الَّتِي لَوْ بَقِيَتْ فِيهِ أَهْلَكَتْهُ أَوْ نَقَصَتْ ثَوَابَهُ وَأَنْزَلَتْ دَرَجَتَهُ
-
-   ```
+   > إِنَّ ابْتِلَاءَ الْمُؤْمِنِ كَالدَّوَاءِ لَهُ؛ يَسْتَخْرِجُ مِنْهُ الْأَدْوَاءَ الرَّدِيئَةَ الَّتِي لَوْ بَقِيَتْ فِيهِ أَهْلَكَتْهُ أَوْ نَقَصَتْ ثَوَابَهُ وَأَنْزَلَتْ دَرَجَتَهُ
 
    > *"Sesungguhnya ujian bagi seorang mukmin laksana obat baginya; mengeluarkan penyakit-penyakit kotor dari jiwanya yang sekiranya dibiarkan, niscaya akan membinasakannya atau mengurangi pahalanya dan merendahkan derajatnya."*
 

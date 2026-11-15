@@ -128,109 +128,103 @@ Risalah kenabian Islam berdiri tegak di atas tradisi syura dan keterbukaan dialo
 
 1. **Perintah Syura Langsung kepada Rasulullah ﷺ:**  
 
-   ```arabic
-
-   فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
-
-   ```  
-
-   > *"Maka berkat rahmat dari Allah-lah engkau (wahai Muhammad) bersikap lemah lembut terhadap mereka. Sekiranya engkau bersikap keras lagi berhati kasar, tentulah mereka menjauhkan diri dari sekelilingmu. Karena itu maafkanlah mereka, mohonkanlah ampunan untuk mereka, dan BERMUSYAWARAH-LAH DENGAN MEREKA DALAM URUSAN ITU..."* (QS. Ali 'Imran: 159).  
-
-   Jika Rasulullah ﷺ yang ma'shum saja diperintahkan Allah untuk bermusyawarah dan mendengar pandangan para sahabatnya, bagaimana mungkin seorang pengasuh pesantren yang tidak maksum merasa tabu untuk diajak berdialog oleh santrinya?
-
-
-
-2. **Peristiwa Perang Badar: Dialog Al-Hubab bin Al-Mundzir ra:**  
-
-   Dalam Perang Badar, sahabat Al-Hubab bin Al-Mundzir bertanya sopan kepada Nabi ﷺ mengenai posisi pasukan:
-
-   ```arabic
-
-   يَا رَسُولَ اللَّهِ، أَرَأَيْتَ هَذَا الْمَنْزِلَ، أَهْوَ مَنْزِلٌ أَنْزَلَكَهُ اللَّهُ لَيْسَ لَنَا أَنْ نَتَقَدَّمَهُ وَلَا نَتَأَخَّرَ عَنْهُ، أَمْ هُوَ الرَّأْيُ وَالْحَرْبُ وَالْمَكِيدَةُ؟ قَالَ: «بَلْ هُوَ الرَّأْيُ وَالْحَرْبُ وَالْمَكِيدَةُ»، قَالَ: يَا رَسُولَ اللَّهِ، فَإِنَّ هَذَا لَيْسَ بِمَنْزِلٍ...
-
-   ```  
-
-   > *"Wahai Rasulullah, apakah penentuan tempat ini merupakan wahyu yang Allah turunkan kepadamu yang tidak boleh kita majukan atau mundurkan, ataukah ini pertimbangan akal, strategi perang, dan siasat?" Nabi ﷺ menjawab: "Ini semata-mata pertimbangan akal, perang, dan siasat." Al-Hubab berkata: "Wahai Rasulullah, jika demikian, ini bukanlah tempat yang tepat..."* (Sirah Ibnu Hisyam, Jilid I, hlm. 620).  
-
-   Nabi ﷺ tidak marah dan tidak menuduh Al-Hubab kualat; beliau mendengarkan argumentasi logis Al-Hubab lalu **menerima usulan sahabatnya dan memindahkan posisi pasukan**. Ini adalah prototipe kanonik dialog kritis beradab dalam Islam.
-
-
-
-3. **Koreksi Seorang Wanita terhadap Amirul Mukminin Umar bin Khattab ra:**  
-
-   Ketika Amirul Mukminin Umar berkhutbah membatasi jumlah mahar wanita di masjid, seorang wanita berdiri dan menyanggah Umar dengan mengutip QS. An-Nisa: 20. Umar tidak menghukum wanita itu, melainkan berkata di depan mimbar umum:
-
-   ```arabic
-
-   أَصَابَتِ امْرَأَةٌ وَأَخْطَأَ عُمَرُ!
-
-   ```  
-
-   > *"Wanita ini benar, dan Umar yang keliru!"* (Tafsir Al-Qurthubi, Jilid V, hlm. 99).
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Organisasi / Kepemimpinan Servant
-
-
-
-Sains kepemimpinan modern dan psikologi organisasi memberikan bukti ilmiah mengenai keunggulan ekosistem dialogis:
-
-
-
-1. **Keamanan Psikologis (*Psychological Safety - Amy Edmondson, Harvard*):**  
-
-   Edmondson membuktikan bahwa institusi yang paling unggul dan memiliki tingkat kesalahan terendah bukanlah institusi militeristik yang otoriter, melainkan institusi yang memiliki tingkat **Psychological Safety** tinggi: lingkungan di mana anggota termuda sekalipun merasa aman untuk menyuarakan kekhawatiran, mengakui kesalahan, dan mengusulkan ide baru tanpa takut dipermalukan atau dihukum. Budaya feodal membunuh rasa aman ini, menyuburkan penyembunyian kesalahan (*hidden errors*), dan memicu keruntuhan mutu lembaga.
-
-
-
-2. **Dilema Bias Otoritas (*The Authority Bias - Milgram, 1963*):**  
-
-   Eksperimen klasik Stanley Milgram membuktikan bahwa manusia biasa dapat melakukan tindakan kekerasan yang mengerikan semata-mata karena disuruh oleh figur otoritas yang berseragam. Pesantren yang memupuk ketaatan buta tanpa filter nalar syariat melatih santri menjadi pion yang rentan disalahgunakan oleh figur pimpinan yang korup atau manipulatif (*authoritarian vulnerability*).
-
-
-
-3. **Kepemimpinan Pelayan (*Servant Leadership - Robert Greenleaf*):**  
-
-   Pemimpin pendidikan sejati memimpin bukan dengan memperbudak pengikutnya, melainkan dengan melayani pertumbuhan pengikutnya. Pengasuh asrama yang menerapkan *Servant Leadership* membuka pintu dialog seluas-luasnya karena keberhasilan tertingginya adalah ketika santrinya tumbuh menjadi mandiri, kritis, dan berintegritas moral tinggi melampaui dirinya.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Feodalisme vs Halaqah Tadawul al-Ara' TUMBUH
-
-
-
-| Titik Relasi Santri-Guru | Model Feodal Otoriter (Reduksi) | Model Anarki Bebas (Penyimpangan) | Model Halaqah Tadawul al-Ara' (TUMBUH v2.0.0) | Buah Karakter Santri |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Respon terhadap Kritik Santri** | Membentak, mengancam kualat, atau menjatuhkan sanksi skorsing. | Mengabaikan adab; membiarkan santri mencaci guru di media sosial. | Membuka forum *Syura Kamar*: mendengarkan masukan santri secara lapang dada berbasis dalil dan data. | Santri merasa didengar dan dihargai; wibawa guru mengakar kokoh di atas cinta (*mahabbah*). |
-
-| **Pengambilan Kebijakan Asrama** | Diputuskan sepihak oleh pimpinan tanpa pernah berkonsultasi dengan santri. | Santri dibiarkan membuat aturan sendiri tanpa bimbingan syariat. | Musyawarah Perwakilan Santri (Dewan Syura Kamar) bersama musyrif sebelum kebijakan teknis disahkan. | Kebijakan memiliki legitimasi moral tinggi; santri mematuhinya dengan rasa tanggung jawab sukarela. |
-
-| **Gaya Komunikasi Ilmiah** | Monolog satu arah: guru berbicara 100% waktu, santri hanya mencatat sunyi. | Debat liar kusir tanpa adab, saling memotong pembicaraan secara kasar. | **Dialog Sokrates Beradab**: guru melempar pemantik, santri membedah argumen seraya menjaga tata krama lisan. | Nalar santri terasah tajam, keberanian berbicara terdidik, dan adab sopan santun terpelihara. |
-
-| **Sikap saat Guru Khilaf** | Guru menolak mengakui salah dan memutarbalikkan fakta demi gengsi jabatan. | Santri menyoraki guru dan menyebarkan kekhilafan guru ke publik. | Santri mengingatkan guru secara empat mata dengan bahasa yang sangat takzim; guru berterima kasih secara ksatria. | Terpeliharanya kesucian ilmu; terputusnya rantai arogansi kepemimpinan. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    فَبِمَا رَحْمَةٍ مِّنَ اللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ الْقَلْبِ لَانفَضُّوا مِنْ حَوْلِكَ ۖ فَاعْفُ عَنْهُمْ وَاسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِي الْأَمْرِ
+>
+>    ```  
+>
+>    > *"Maka berkat rahmat dari Allah-lah engkau (wahai Muhammad) bersikap lemah lembut terhadap mereka. Sekiranya engkau bersikap keras lagi berhati kasar, tentulah mereka menjauhkan diri dari sekelilingmu. Karena itu maafkanlah mereka, mohonkanlah ampunan untuk mereka, dan BERMUSYAWARAH-LAH DENGAN MEREKA DALAM URUSAN ITU..."* (QS. Ali 'Imran: 159).  
+>
+>    Jika Rasulullah ﷺ yang ma'shum saja diperintahkan Allah untuk bermusyawarah dan mendengar pandangan para sahabatnya, bagaimana mungkin seorang pengasuh pesantren yang tidak maksum merasa tabu untuk diajak berdialog oleh santrinya?
+>
+>
+>
+> 2. **Peristiwa Perang Badar: Dialog Al-Hubab bin Al-Mundzir ra:**  
+>
+>    Dalam Perang Badar, sahabat Al-Hubab bin Al-Mundzir bertanya sopan kepada Nabi ﷺ mengenai posisi pasukan:
+>
+>
+>    يَا رَسُولَ اللَّهِ، أَرَأَيْتَ هَذَا الْمَنْزِلَ، أَهْوَ مَنْزِلٌ أَنْزَلَكَهُ اللَّهُ لَيْسَ لَنَا أَنْ نَتَقَدَّمَهُ وَلَا نَتَأَخَّرَ عَنْهُ، أَمْ هُوَ الرَّأْيُ وَالْحَرْبُ وَالْمَكِيدَةُ؟ قَالَ: «بَلْ هُوَ الرَّأْيُ وَالْحَرْبُ وَالْمَكِيدَةُ»، قَالَ: يَا رَسُولَ اللَّهِ، فَإِنَّ هَذَا لَيْسَ بِمَنْزِلٍ...
+>
+>
+>    > *"Wahai Rasulullah, apakah penentuan tempat ini merupakan wahyu yang Allah turunkan kepadamu yang tidak boleh kita majukan atau mundurkan, ataukah ini pertimbangan akal, strategi perang, dan siasat?" Nabi ﷺ menjawab: "Ini semata-mata pertimbangan akal, perang, dan siasat." Al-Hubab berkata: "Wahai Rasulullah, jika demikian, ini bukanlah tempat yang tepat..."* (Sirah Ibnu Hisyam, Jilid I, hlm. 620).  
+>
+>    Nabi ﷺ tidak marah dan tidak menuduh Al-Hubab kualat; beliau mendengarkan argumentasi logis Al-Hubab lalu **menerima usulan sahabatnya dan memindahkan posisi pasukan**. Ini adalah prototipe kanonik dialog kritis beradab dalam Islam.
+>
+>
+>
+> 3. **Koreksi Seorang Wanita terhadap Amirul Mukminin Umar bin Khattab ra:**  
+>
+>    Ketika Amirul Mukminin Umar berkhutbah membatasi jumlah mahar wanita di masjid, seorang wanita berdiri dan menyanggah Umar dengan mengutip QS. An-Nisa: 20. Umar tidak menghukum wanita itu, melainkan berkata di depan mimbar umum:
+>
+>
+>    أَصَابَتِ امْرَأَةٌ وَأَخْطَأَ عُمَرُ!
+>
+>
+>    > *"Wanita ini benar, dan Umar yang keliru!"* (Tafsir Al-Qurthubi, Jilid V, hlm. 99).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Organisasi / Kepemimpinan Servant
+>
+>
+>
+> Sains kepemimpinan modern dan psikologi organisasi memberikan bukti ilmiah mengenai keunggulan ekosistem dialogis:
+>
+>
+>
+> 1. **Keamanan Psikologis (*Psychological Safety - Amy Edmondson, Harvard*):**  
+>
+>    Edmondson membuktikan bahwa institusi yang paling unggul dan memiliki tingkat kesalahan terendah bukanlah institusi militeristik yang otoriter, melainkan institusi yang memiliki tingkat **Psychological Safety** tinggi: lingkungan di mana anggota termuda sekalipun merasa aman untuk menyuarakan kekhawatiran, mengakui kesalahan, dan mengusulkan ide baru tanpa takut dipermalukan atau dihukum. Budaya feodal membunuh rasa aman ini, menyuburkan penyembunyian kesalahan (*hidden errors*), dan memicu keruntuhan mutu lembaga.
+>
+>
+>
+> 2. **Dilema Bias Otoritas (*The Authority Bias - Milgram, 1963*):**  
+>
+>    Eksperimen klasik Stanley Milgram membuktikan bahwa manusia biasa dapat melakukan tindakan kekerasan yang mengerikan semata-mata karena disuruh oleh figur otoritas yang berseragam. Pesantren yang memupuk ketaatan buta tanpa filter nalar syariat melatih santri menjadi pion yang rentan disalahgunakan oleh figur pimpinan yang korup atau manipulatif (*authoritarian vulnerability*).
+>
+>
+>
+> 3. **Kepemimpinan Pelayan (*Servant Leadership - Robert Greenleaf*):**  
+>
+>    Pemimpin pendidikan sejati memimpin bukan dengan memperbudak pengikutnya, melainkan dengan melayani pertumbuhan pengikutnya. Pengasuh asrama yang menerapkan *Servant Leadership* membuka pintu dialog seluas-luasnya karena keberhasilan tertingginya adalah ketika santrinya tumbuh menjadi mandiri, kritis, dan berintegritas moral tinggi melampaui dirinya.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Feodalisme vs Halaqah Tadawul al-Ara' TUMBUH
+>
+>
+>
+> | Titik Relasi Santri-Guru | Model Feodal Otoriter (Reduksi) | Model Anarki Bebas (Penyimpangan) | Model Halaqah Tadawul al-Ara' (TUMBUH v2.0.0) | Buah Karakter Santri |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Respon terhadap Kritik Santri** | Membentak, mengancam kualat, atau menjatuhkan sanksi skorsing. | Mengabaikan adab; membiarkan santri mencaci guru di media sosial. | Membuka forum *Syura Kamar*: mendengarkan masukan santri secara lapang dada berbasis dalil dan data. | Santri merasa didengar dan dihargai; wibawa guru mengakar kokoh di atas cinta (*mahabbah*). |
+>
+> | **Pengambilan Kebijakan Asrama** | Diputuskan sepihak oleh pimpinan tanpa pernah berkonsultasi dengan santri. | Santri dibiarkan membuat aturan sendiri tanpa bimbingan syariat. | Musyawarah Perwakilan Santri (Dewan Syura Kamar) bersama musyrif sebelum kebijakan teknis disahkan. | Kebijakan memiliki legitimasi moral tinggi; santri mematuhinya dengan rasa tanggung jawab sukarela. |
+>
+> | **Gaya Komunikasi Ilmiah** | Monolog satu arah: guru berbicara 100% waktu, santri hanya mencatat sunyi. | Debat liar kusir tanpa adab, saling memotong pembicaraan secara kasar. | **Dialog Sokrates Beradab**: guru melempar pemantik, santri membedah argumen seraya menjaga tata krama lisan. | Nalar santri terasah tajam, keberanian berbicara terdidik, dan adab sopan santun terpelihara. |
+>
+> | **Sikap saat Guru Khilaf** | Guru menolak mengakui salah dan memutarbalikkan fakta demi gengsi jabatan. | Santri menyoraki guru dan menyebarkan kekhilafan guru ke publik. | Santri mengingatkan guru secara empat mata dengan bahasa yang sangat takzim; guru berterima kasih secara ksatria. | Terpeliharanya kesucian ilmu; terputusnya rantai arogansi kepemimpinan. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: ABSOLUTISME FEODAL ]
 
@@ -354,11 +348,7 @@ Para ulama salaf telah merumuskan kaidah keterbukaan dialog ilmiah antara guru d
 
    Menegaskan keharusan guru membuka ruang kritik murid:
 
-   ```arabic
-
-   يَنْبَغِي لِلْفَقِيهِ أَنْ يَفْسَحَ لِأَصْحَابِهِ فِي الْكَلَامِ، وَلَا يَزْجُرَهُمْ إِذَا اعْتَرَضُوا عَلَيْهِ أَوْ رَدُّوا قَوْلَهُ، بَلْ يُبَيِّنَ لَهُمْ وَجْهَ الْحَقِّ بِالْحِلْمِ؛ فَإِنَّ الْعِلْمَ لَا يَنْمُو إِلَّا بِالْمُطَارَحَةِ وَالتَّنْقِيرِ
-
-   ```  
+   > يَنْبَغِي لِلْفَقِيهِ أَنْ يَفْسَحَ لِأَصْحَابِهِ فِي الْكَلَامِ، وَلَا يَزْجُرَهُمْ إِذَا اعْتَرَضُوا عَلَيْهِ أَوْ رَدُّوا قَوْلَهُ، بَلْ يُبَيِّنَ لَهُمْ وَجْهَ الْحَقِّ بِالْحِلْمِ؛ فَإِنَّ الْعِلْمَ لَا يَنْمُو إِلَّا بِالْمُطَارَحَةِ وَالتَّنْقِيرِ
 
    > *"Seyogianya seorang faqih (guru) memberi kelapangan bagi murid-muridnya dalam berbicara, dan tidak menghardik mereka ketika mereka menyanggah pendapatnya atau membantah ucapannya; melainkan ia menjelaskan kepada mereka sisi kebenaran dengan penuh kelembutan (hilm); karena sesungguhnya ilmu tidak akan pernah berkembang melainkan melalui perdebatan ilmiah dan penelusuran kritis!"* (*Al-Faqih wal-Mutafaqqih*, Jilid II, hlm. 126).
 
@@ -368,11 +358,7 @@ Para ulama salaf telah merumuskan kaidah keterbukaan dialog ilmiah antara guru d
 
    Menyatakan bahwa di antara adab guru yang agung adalah tidak merasa gengsi untuk belajar atau menerima koreksi dari muridnya sendiri:
 
-   ```arabic
-
-   أَلَّا يَمْتَنِعَ الشَّيْخُ مِنَ الِاسْتِفَادَةِ مِمَّنْ هُوَ دُونَهُ مَرْتَبَةً أَوْ سِنًّا، فَإِنَّ الْحِكْمَةَ ضَالَّةُ الْمُؤْمِنِ يَأْخُذُهَا حَيْثُ وَجَدَهَا
-
-   ```  
+   > أَلَّا يَمْتَنِعَ الشَّيْخُ مِنَ الِاسْتِفَادَةِ مِمَّنْ هُوَ دُونَهُ مَرْتَبَةً أَوْ سِنًّا، فَإِنَّ الْحِكْمَةَ ضَالَّةُ الْمُؤْمِنِ يَأْخُذُهَا حَيْثُ وَجَدَهَا
 
    > *"Hendaklah seorang guru tidak menolak untuk mengambil faedah kebenaran dari murid yang derajat atau usianya berada di bawahnya; karena sesungguhnya hikmah itu adalah barang hilang orang beriman, ia mengambilnya di mana pun ia menemukannya!"*
 

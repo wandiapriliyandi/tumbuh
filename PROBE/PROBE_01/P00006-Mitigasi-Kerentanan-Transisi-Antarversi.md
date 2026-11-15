@@ -62,10 +62,7 @@ Khazanah intelektual dan sejarah peradaban Islam sarat dengan panduan metodologi
 ### 4.1. Sunnah At-Tadrij fit-Tasyri' (Metodologi Pentahapan Syariat Samawi)
 Imam Abu Ishaq Ibrahim bin Musa Asy-Syathibi dalam karya monumentalnya *Al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 2, hlm. 94–112) mengupas tuntas rahasia hikmah di balik turunnya syariat secara berangsur-angsur (*tadriji*):
 
-```text
-قَالَ الإِمَامُ أَبُو إِسْحَاقَ الشَّاطِبِيُّ فِي «الْمُوَافَقَاتِ»:
-«إِنَّ الشَّرِيعَةَ نَزَلَتْ نُجُومًا عَلَى وَفْقِ الْوَقَائِعِ وَتَدْرِيجًا فِي مَدَارِجِ التَّكْلِيفِ؛ رِعَايَةً لِاسْتِعْدَادِ النُّفُوسِ وَرِفْقًا بِالْمُكَلَّفِينَ، حَتَّى تَأْنَسَ الْقُلُوبُ بِالإِيمَانِ وَتَنْقَادَ لِلطَّاعَةِ شَيْئًا فَشَيْئًا، وَلَوْ نَزَلَتْ جُمْلَةً وَاحِدَةً لَنَفَرَتْ مِنْهَا الطِّبَاعُ وَتَعَذَّرَ الِانْقِيَادُ»
-```
+> قَالَ الإِمَامُ أَبُو إِسْحَاقَ الشَّاطِبِيُّ فِي «الْمُوَافَقَاتِ»: «إِنَّ الشَّرِيعَةَ نَزَلَتْ نُجُومًا عَلَى وَفْقِ الْوَقَائِعِ وَتَدْرِيجًا فِي مَدَارِجِ التَّكْلِيفِ؛ رِعَايَةً لِاسْتِعْدَادِ النُّفُوسِ وَرِفْقًا بِالْمُكَلَّفِينَ، حَتَّى تَأْنَسَ الْقُلُوبُ بِالإِيمَانِ وَتَنْقَادَ لِلطَّاعَةِ شَيْئًا فَشَيْئًا، وَلَوْ نَزَلَتْ جُمْلَةً وَاحِدَةً لَنَفَرَتْ مِنْهَا الطِّبَاعُ وَتَعَذَّرَ الِانْقِيَادُ»
 
 *Terjemah Maknawi:*
 > *"Sesungguhnya syariat turun secara bertahap laksana terbitnya bintang-bintang mengikuti konteks peristiwa dan berjenjang dalam tingkatan taklif; demi memelihara kesiapan jiwa manusia dan sebagai bentuk kelembutan terhadap para mukallaf, hingga kalbu mereka merasa tenteram dengan keimanan dan tunduk taat selapis demi selapis. Sekiranya syariat diturunkan sekaligus dalam satu beban utuh, niscaya tabiat manusia akan lari menjauh dan ketundukan akan mustahil terwujud."*
@@ -81,11 +78,7 @@ Pelajaran arsitektural bagi repositori TUMBUH adalah: jika Allah Yang Maha Menge
 ### 4.2. Atsar Monumental Khalifah Umar bin Abdul Aziz tentang Bahaya Tergesa-gesa
 Imam Asy-Syathibi dalam *Al-Muwafaqat* (Jilid 2, hlm. 102–104) meriwayatkan dialog yang sangat masyhur antara Khalifah Pembaharu Umar bin Abdul Aziz rahimahullah dengan putranya, Abdul Malik, seorang pemuda idealis yang menuntut ayahnya segera menghapus seluruh sisa ketidakadilan rezim Umayyah terdahulu dalam sehari semalam:
 
-```text
-رَوَى الشَّاطِبِيُّ فِي «الْمُوَافَقَاتِ» عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ رَضِيَ اللَّهُ عَنْهُ:
-أَنَّ ابْنَهُ عَبْدَ الْمَلِكِ قَالَ لَهُ: «مَا لَكَ لَا تَمْضِي فِي هَذِهِ الأُمُورِ؟ فَوَاللَّهِ مَا أُبَالِي أَنْ تَغْلِيَ بِي وَبِكَ الْقُدُورُ فِي الْحَقِّ!»
-فَقَالَ لَهُ عُمَرُ: «لَا تَعْجَلْ يَا بُنَيَّ؛ فَإِنَّ اللَّهَ تَعَالَى ذَمَّ الْخَمْرَ فِي الْقُرْآنِ مَرَّتَيْنِ، وَحَرَّمَهَا فِي الثَّالِثَةِ، وَإِنِّي أَخَافُ أَنْ أَحْمِلَ النَّاسَ عَلَى الْحَقِّ جُمْلَةً فَيَدَعُوهُ جُمْلَةً، فَيَكُونَ ذَاكَ فِتْنَةً!»
-```
+> رَوَى الشَّاطِبِيُّ فِي «الْمُوَافَقَاتِ» عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ رَضِيَ اللَّهُ عَنْهُ: أَنَّ ابْنَهُ عَبْدَ الْمَلِكِ قَالَ لَهُ: «مَا لَكَ لَا تَمْضِي فِي هَذِهِ الأُمُورِ؟ فَوَاللَّهِ مَا أُبَالِي أَنْ تَغْلِيَ بِي وَبِكَ الْقُدُورُ فِي الْحَقِّ!» فَقَالَ لَهُ عُمَرُ: «لَا تَعْجَلْ يَا بُنَيَّ؛ فَإِنَّ اللَّهَ تَعَالَى ذَمَّ الْخَمْرَ فِي الْقُرْآنِ مَرَّتَيْنِ، وَحَرَّمَهَا فِي الثَّالِثَةِ، وَإِنِّي أَخَافُ أَنْ أَحْمِلَ النَّاسَ عَلَى الْحَقِّ جُمْلَةً فَيَدَعُوهُ جُمْلَةً، فَيَكُونَ ذَاكَ فِتْنَةً!»
 
 *Terjemah Maknawi:*
 > *"Abdul Malik berkata kepada ayahnya: 'Mengapa engkau tidak segera mengeksekusi urusan-urusan penegakan keadilan ini? Demi Allah, aku tidak peduli sekalipun kuali mendidih membakar diriku dan dirimu demi membela kebenaran!'*  
@@ -96,9 +89,7 @@ Atsar ini menjadi dalil syar'i terkuat yang menolak metode *big-bang switchover*
 ### 4.3. Kaidah Fiqhiyyah Ma La Yudraku Kulluh
 Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 159) menetapkan kaidah universal:
 
-```text
-«مَا لا يُدْرَكُ كُلُّهُ لا يُتْرَكُ جُلُّهُ»
-```
+> «مَا لا يُدْرَكُ كُلُّهُ لا يُتْرَكُ جُلُّهُ»
 
 *Terjemah Maknawi:*
 > *"Apa yang tidak dapat dicapai atau dilaksanakan seluruhnya secara sempurna, tidak boleh ditinggalkan bagian pokoknya yang terbesar."*

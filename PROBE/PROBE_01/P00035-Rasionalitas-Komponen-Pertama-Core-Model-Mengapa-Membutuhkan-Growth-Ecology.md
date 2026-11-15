@@ -79,17 +79,15 @@ Tanpa pembenahan arsitektur lingkungan (*Growth Ecology*), segala jerih payah pe
 ### 4.1. Hadits Hijrah Ekologis: Penegasan Nabi tentang Pengaruh Lingkungan
 Dalil naqli paling otoritatif yang membuktikan bahwa perubahan karakter mustahil terjadi tanpa perubahan ekosistem lingkungan adalah sabda Nabi shallallahu 'alaihi wa sallam dalam kisah seorang pembunuh 100 nyawa dari kalangan Bani Israil yang hendak bertaubat:
 
-```arabic
-عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «...انْطَلِقْ إِلَى أَرْضِ كَذَا وَكَذَا؛ فَإِنَّ بِهَا أُنَاسًا يَعْبُدُونَ اللَّهَ فَاعْبُدِ اللَّهَ مَعَهُمْ، وَلَا تَرْجِعْ إِلَى أَرْضِكَ؛ فَإِنَّهَا أَرْضُ سَوْءٍ»
-```
+> عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ رَضِيَ اللَّهُ عَنْهُ، أَنَّ نَبِيَّ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «...انْطَلِقْ إِلَى أَرْضِ كَذَا وَكَذَا؛ فَإِنَّ بِهَا أُنَاسًا يَعْبُدُونَ اللَّهَ فَاعْبُدِ اللَّهَ مَعَهُمْ، وَلَا تَرْجِعْ إِلَى أَرْضِكَ؛ فَإِنَّهَا أَرْضُ سَوْءٍ»
+
 *(Dari Abu Sa'id al-Khudri radhiyallahu 'anhu, bahwasanya Nabi shallallahu 'alaihi wa sallam bersabda: "...Pergilah engkau ke negeri anu dan anu, karena sesungguhnya di sana terdapat kaum yang senantiasa beribadah kepada Allah, maka beribadahlah kepada Allah bersama mereka; dan janganlah sekali-kali engkau kembali ke negerimu, karena sesungguhnya negerimu adalah lingkungan yang buruk").*
 — **HR. Al-Bukhari** (No. 3470) dan **Muslim** (No. 2766).[^2]
 
 Takhrij hadits ini memiliki derajat keshahihan mutlak (*muttafaq 'alaih*). Imam An-Nawawi (w. 676 H) dalam mahakarya syarahnya *Al-Minhaj Syarh Shahih Muslim* mengulas secara mendalam rahasia metodologis fatwa ulama Bani Israil tersebut:
 
-```arabic
-قَالَ الْعُلَمَاءُ: فِي هَذَا اسْتِحْبَابُ مُفَارَقَةِ التَّائِبِ الْمَوَاضِعَ الَّتِي أَصَابَ فِيهَا الذُّنُوبَ، وَالْإِخْوَانَ الْمُسَاعِدِينَ لَهُ عَلَى ذَلِكَ... وَأَنْ يَتَبَدَّلَ بِهَا مَشَاهِدَ الْخَيْرِ وَأَهْلَهُ؛ لِأَنَّ الْمُجَاوَرَةَ تُعْدِي، وَالصُّحْبَةَ تُؤَثِّرُ فِي الْأَخْلَاقِ طَبْعًا
-```
+> قَالَ الْعُلَمَاءُ: فِي هَذَا اسْتِحْبَابُ مُفَارَقَةِ التَّائِبِ الْمَوَاضِعَ الَّتِي أَصَابَ فِيهَا الذُّنُوبَ، وَالْإِخْوَانَ الْمُسَاعِدِينَ لَهُ عَلَى ذَلِكَ... وَأَنْ يَتَبَدَّلَ بِهَا مَشَاهِدَ الْخَيْرِ وَأَهْلَهُ؛ لِأَنَّ الْمُجَاوَرَةَ تُعْدِي، وَالصُّحْبَةَ تُؤَثِّرُ فِي الْأَخْلَاقِ طَبْعًا
+
 *(Para ulama menegaskan: Dalam hadits ini terdapat anjuran kuat bagi orang yang bertaubat untuk meninggalkan tempat-tempat di mana ia pernah berbuat maksiat, serta menjauhi kawan-kawan yang membantunya berbuat dosa... dan menggantikannya dengan mendatangi majelis-majelis kebaikan serta orang-orang shalih; karena kedekatan fisik bertetangga itu menular, dan pergaulan secara tabiat niscaya memberi pengaruh kuat pada pembentukan akhlak).*
 — **An-Nawawi**, *Al-Minhaj Syarh Shahih Muslim*, Jilid 17, Hal. 83.[^3]
 
@@ -98,9 +96,8 @@ Hadits agung ini membongkar kaidah kausalitas ekologis: betapapun besarnya tekad
 ### 4.2. Psikosomatis Abu Zayd al-Balkhi: Pengaruh Kepadatan dan Udara terhadap Jiwa
 Pakar kedokteran jiwa dan perintis psikiatri Islam abad ke-3 Hijriyah, Abu Zayd al-Balkhi (w. 322 H) dalam kitab monumentalnya *Mashalih al-Abdan wa al-Anfus* merumuskan teori psikosomatis terpadu mengenai interaksi timbal balik antara ruang fisik dengan kestabilan emosi dan kejernihan pikiran manusia:
 
-```arabic
-إِنَّ النَّفْسَ إِذَا تَأَلَّمَتْ وَضَعُفَتْ قُوَاهَا لَمْ تَقْوَ عَلَى تَحَمُّلِ الْأَخْلَاقِ الْجَمِيلَةِ، وَكَانَتْ سَرِيعَةَ الْغَضَبِ وَالْجَزَعِ؛ وَإِنَّمَا تَقْوَى النَّفْسُ بِسَلَامَةِ الْبَدَنِ مِنْ أَلَمِ الْحَرِّ وَالْقُرِّ وَضِيقِ الْمَسْكَنِ وَفَسَادِ الْهَوَاءِ؛ فَإِنَّ الْهَوَاءَ الْفَاسِدَ يُظْلِمُ الرُّوحَ الْحَيَوَانِيَّ فَيُفْسِدُ الْفِكْرَ
-```
+> إِنَّ النَّفْسَ إِذَا تَأَلَّمَتْ وَضَعُفَتْ قُوَاهَا لَمْ تَقْوَ عَلَى تَحَمُّلِ الْأَخْلَاقِ الْجَمِيلَةِ، وَكَانَتْ سَرِيعَةَ الْغَضَبِ وَالْجَزَعِ؛ وَإِنَّمَا تَقْوَى النَّفْسُ بِسَلَامَةِ الْبَدَنِ مِنْ أَلَمِ الْحَرِّ وَالْقُرِّ وَضِيقِ الْمَسْكَنِ وَفَسَادِ الْهَوَاءِ؛ فَإِنَّ الْهَوَاءَ الْفَاسِدَ يُظْلِمُ الرُّوحَ الْحَيَوَانِيَّ فَيُفْسِدُ الْفِكْرَ
+
 *(Sesungguhnya jiwa manusia manakala tersiksa dan melemah kekuatan raganya, ia tidak akan sanggup memikul akhlak-akhlak yang mulia; ia akan menjadi sangat lekas marah dan cemas gelisah. Dan sesungguhnya jiwa itu hanya menjadi perkasa dengan selamatnya fisik raga dari siksaan hawa panas yang menyengat, dingin yang menusuk, sempitnya tempat tinggal, dan rusaknya sirkulasi udara; karena sesungguhnya udara yang kotor dan pengap akan menggelapkan ruh hewani sehingga merusak kejernihan akal pikiran).*
 — **Abu Zayd al-Balkhi**, *Mashalih al-Abdan wa al-Anfus*, Hal. 284.[^4]
 
@@ -109,9 +106,8 @@ Kajian Al-Balkhi ini mendahului sains modern lebih dari sebelas abad dalam mengh
 ### 4.3. Sosiologi Spasial Ibnu Khaldun: Arsitektur Pemukiman dan Watak Santun
 Filsuf sejarah dan peletak dasar sosiologi Islam, Ibnu Khaldun (w. 808 H) dalam Bab IV kitab monumentalnya *Al-Muqaddimah* secara eksplisit menguraikan kaidah perencanaan tata ruang pemukiman komunal dan pengaruhnya terhadap moralitas masyarakat:
 
-```arabic
-يَجِبُ فِي بِنَاءِ الْمَسَاكِنِ مُرَاعَاةُ جَوْدَةِ الْهَوَاءِ وَسَعَةِ الْفِنَاءِ وَطِيبِ الْمِيَاهِ؛ فَإِنَّ الْأَمَاكِنَ الْمَخْنُوقَةَ بِالزِّحَامِ تُوَلِّدُ فِي أَهْلِهَا ضِيقَ الصَّدْرِ، وَتُفْسِدُ طِبَاعَهُمْ، وَتَنْزِعُ مِنْهُمْ صِفَةَ الْحِلْمِ وَالْأَنَاةِ
-```
+> يَجِبُ فِي بِنَاءِ الْمَسَاكِنِ مُرَاعَاةُ جَوْدَةِ الْهَوَاءِ وَسَعَةِ الْفِنَاءِ وَطِيبِ الْمِيَاهِ؛ فَإِنَّ الْأَمَاكِنَ الْمَخْنُوقَةَ بِالزِّحَامِ تُوَلِّدُ فِي أَهْلِهَا ضِيقَ الصَّدْرِ، وَتُفْسِدُ طِبَاعَهُمْ، وَتَنْزِعُ مِنْهُمْ صِفَةَ الْحِلْمِ وَالْأَنَاةِ
+
 *(Wajib dalam membangun pemukiman memperhatikan mutu kesegaran udara, luasnya pelataran ruang terbuka, dan kebaikan sumber air bersih; sebab tempat-tempat yang tercekik oleh kesesakan populasi niscaya melahirkan kesempitan dada pada para penghuninya, merusak watak perangai mereka, serta mencabut sifat santun [hilm] dan ketenangan [anah] dari dalam jiwa mereka).*
 — **Ibnu Khaldun**, *Muqaddimah Ibn Khaldun*, Bab Ke-4 Fasal 5, Hal. 362.[^5]
 
@@ -125,9 +121,8 @@ Apabila ketiga parameter lingkungan fisik ini diabaikan oleh para pengelola kota
 ### 4.4. Pandangan Imam Al-Mawardi: Ketenangan Jiwa sebagai Prasyarat Adab Penuntut Ilmu
 Imam Al-Mawardi (w. 450 H) dalam mahakaryanya *Adab ad-Dunya wa ad-Din* membedah hubungan dialektis antara ketenangan lingkungan fisik tempat tinggal dengan kesiapan batin penuntut ilmu dalam menyerap hikmah dan adab syariat:
 
-```arabic
-وَإِنَّمَا يَسْكُنُ قَلْبُ الْمُتَعَلِّمِ وَيَجْتَمِعُ شَمْلُ خَاطِرِهِ إِذَا سَلِمَ مِنْ مُشَوِّشَاتِ الْمَسْكَنِ، وَأَمِنَ عَلَى مَتَاعِهِ وَنَوْمِهِ؛ فَإِنَّ اشْتِغَالَ الْخَاطِرِ بِالْمَكَارِهِ يُشَتِّتُ الْفَهْمَ، وَيَقْطَعُ مَوَادَّ الِاسْتِنْبَاطِ، وَيَجْعَلُ النَّفْسَ فِي نِفَارٍ دَائِمٍ
-```
+> وَإِنَّمَا يَسْكُنُ قَلْبُ الْمُتَعَلِّمِ وَيَجْتَمِعُ شَمْلُ خَاطِرِهِ إِذَا سَلِمَ مِنْ مُشَوِّشَاتِ الْمَسْكَنِ، وَأَمِنَ عَلَى مَتَاعِهِ وَنَوْمِهِ؛ فَإِنَّ اشْتِغَالَ الْخَاطِرِ بِالْمَكَارِهِ يُشَتِّتُ الْفَهْمَ، وَيَقْطَعُ مَوَادَّ الِاسْتِنْبَاطِ، وَيَجْعَلُ النَّفْسَ فِي نِفَارٍ دَائِمٍ
+
 *(Dan sesungguhnya kalbu seorang penuntut ilmu hanya akan menjadi tenang dan terhimpun fokus pikirannya manakala ia selamat dari faktor-faktor pengganggu di tempat tinggalnya, serta merasa aman atas barang bawaannya dan ketenangan tidurnya; karena tersibukkannya pikiran oleh hal-hal yang tidak disukai niscaya mencerai-beraikan pemahaman, memutus aliran kecerdasan istinbath, dan menjadikan jiwa selalu berada dalam kegelisahan yang liar).*
 — **Al-Mawardi**, *Adab ad-Dunya wa ad-Din*, Hal. 88.[^9]
 

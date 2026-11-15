@@ -77,10 +77,7 @@ Dalam arsitektur TUMBUH, korespondensi filologis ini diterapkan secara disiplin:
 ### 4.2. Kaidah Ushul Tamyiz al-Maratib wal-Ahkam Imam Al-Qarafi
 Imam Al-Allamah Syihabuddin Ahmad bin Idris Al-Qarafi dalam magnum opusnya *Al-Furuq* (Jilid 1, hlm. 204, *Al-Farq ats-Tsalits*) mengukir kaidah ushuliyyah yang abadi:
 
-```text
-قَالَ الإِمَامُ شِهَابُ الدِّينِ الْقَرَافِيُّ فِي «الْفُرُوقِ»:
-«تَمْيِيزُ الْمَرَاتِبِ مِن أَعْظَمِ قَوَاعِدِ الشَّرِيعَةِ، وَالْخَلْطُ بَيْنَهَا مُوجِبٌ لِلْفَسَادِ وَالضَّلَالِ؛ فَإِنَّ مَنْ سَوَّى بَيْنَ مَا فَرَّقَتْهُ الشَّرِيعَةُ فَقَدْ جَارَ، وَمَنْ فَرَّقَ بَيْنَ مَا جَمَعَتْهُ فَقَدْ ضَلَّ»
-```
+> قَالَ الإِمَامُ شِهَابُ الدِّينِ الْقَرَافِيُّ فِي «الْفُرُوقِ»: «تَمْيِيزُ الْمَرَاتِبِ مِن أَعْظَمِ قَوَاعِدِ الشَّرِيعَةِ، وَالْخَلْطُ بَيْنَهَا مُوجِبٌ لِلْفَسَادِ وَالضَّلَالِ؛ فَإِنَّ مَنْ سَوَّى بَيْنَ مَا فَرَّقَتْهُ الشَّرِيعَةُ فَقَدْ جَارَ، وَمَنْ فَرَّقَ بَيْنَ مَا جَمَعَتْهُ فَقَدْ ضَلَّ»
 
 *Terjemah Maknawi:*
 > *"Membeda-bedakan tingkatan derajat kedudukan adalah di antara kaidah terbesar dalam syariat, sedangkan mencampuradukkan antar-tingkatan tersebut merupakan penyebab pasti bagi lahirnya kerusakan dan kesesatan. Barangsiapa menyamakan apa yang telah dibedakan oleh syariat, maka sungguh ia telah berbuat zalim; dan barangsiapa membeda-bedakan apa yang telah disatukan oleh syariat, maka sungguh ia telah tersesat."*

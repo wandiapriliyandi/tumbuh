@@ -54,11 +54,7 @@ Dalam syariat Islam, mimpi dan firasat tidak memiliki otoritas hukum (*hujjiyyah
 
 1. **Prinsip Pembuktian Faktual Menjadi Tolok Ukur Hukum Peradilan:**
 
-   ```arabic
-
-   الْبَيِّنَةُ عَلَى الْمُدَّعِي، وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ
-
-   ```
+   > الْبَيِّنَةُ عَلَى الْمُدَّعِي، وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ
 
    > *Sabda Rasulullah ﷺ: "Bukti fisik (al-bayyinah) wajib atas orang yang menuduh/mengklaim, dan sumpah wajib atas orang yang mengingkari (tertuduh)."* (HR. Al-Baihaqi no. 21201 & At-Tirmidzi no. 1341, hasan shahih).  
 
@@ -68,11 +64,7 @@ Dalam syariat Islam, mimpi dan firasat tidak memiliki otoritas hukum (*hujjiyyah
 
 2. **Mimpi Selain Para Nabi Bukanlah Sumber Syariat dan Bukan Landasan Hukum:**
 
-   ```arabic
-
-   إِنَّ الرُّؤْيَا ثَلَاثٌ: مِنْهَا تَهْوِيلٌ مِنَ الشَّيْطَانِ لِيَحْزُنَ ابْنَ آدَمَ، وَمِنْهَا مَا يَهُمُّ بِهِ الرَّجُلُ فِي يَقَظَتِهِ فَيَرَاهُ فِي مَنَامِهِ، وَمِنْهَا جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ
-
-   ```
+   > إِنَّ الرُّؤْيَا ثَلَاثٌ: مِنْهَا تَهْوِيلٌ مِنَ الشَّيْطَانِ لِيَحْزُنَ ابْنَ آدَمَ، وَمِنْهَا مَا يَهُمُّ بِهِ الرَّجُلُ فِي يَقَظَتِهِ فَيَرَاهُ فِي مَنَامِهِ، وَمِنْهَا جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ
 
    > *Rasulullah ﷺ bersabda: "Mimpi itu ada tiga: mimpi bisikan ketakutan dari setan untuk menyedihkan hati anak Adam, mimpi dari apa yang dipikirkan seseorang saat terjaga lalu terbawa tidur, dan mimpi yang merupakan satu bagian dari 46 bagian kenabian (ru'ya shalihah)."* (HR. Muslim no. 2263).  
 
@@ -82,11 +74,7 @@ Dalam syariat Islam, mimpi dan firasat tidak memiliki otoritas hukum (*hujjiyyah
 
 3. **Larangan Berpijak Pada Perkara yang Tidak Diketahui Hakikat Ilmiahnya:**
 
-   ```arabic
-
-   وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
-
-   ```
+   > وَلَا تَقْفُ مَا لَيْسَ لَكَ بِهِ عِلْمٌ ۚ إِنَّ السَّمْعَ وَالْبَصَرَ وَالْفُؤَادَ كُلُّ أُولَٰئِكَ كَانَ عَنْهُ مَسْئُولًا
 
    > *"Dan janganlah kamu mengikuti apa yang kamu tidak mempunyai pengetahuan tentangnya. Sesungguhnya pendengaran, penglihatan dan hati, semuanya itu akan diminta pertanggungjawabannya."* (QS. Al-Isra': 36).
 
@@ -210,11 +198,7 @@ Para ulama ushul fiqih dan muhaqqiqin salaf telah menegaskan status hukum mimpi 
 
    Menyusun bab khusus membongkar kesesatan kelompok yang menetapkan hukum syariat dan vonis atas dasar mimpi (*ar-ru'ya*):  
 
-   ```arabic
-
-   أَنَّ الرُّؤْيَا لَا يُحْكَمُ بِهَا عَلَى حَالٍ إِلَّا أَنْ تُرَى لِلْأَنْبِيَاءِ عَلَيْهِمُ السَّلَامُ؛ لِأَنَّ رُؤْيَا غَيْرِهِمْ لَيْسَتْ بِوَحْيٍ، فَلَا يَجُوزُ إِثْبَاتُ حُكْمٍ شَرْعِيٍّ بِهَا، وَلَا إِسْقَاطُ حَقٍّ، وَلَا تَبْرِئَةُ بَرِيءٍ، وَلَا إِدَانَةُ مُتَّهَمٍ
-
-   ```
+   > أَنَّ الرُّؤْيَا لَا يُحْكَمُ بِهَا عَلَى حَالٍ إِلَّا أَنْ تُرَى لِلْأَنْبِيَاءِ عَلَيْهِمُ السَّلَامُ؛ لِأَنَّ رُؤْيَا غَيْرِهِمْ لَيْسَتْ بِوَحْيٍ، فَلَا يَجُوزُ إِثْبَاتُ حُكْمٍ شَرْعِيٍّ بِهَا، وَلَا إِسْقَاطُ حَقٍّ، وَلَا تَبْرِئَةُ بَرِيءٍ، وَلَا إِدَانَةُ مُتَّهَمٍ
 
    > *"Sesungguhnya mimpi tidak boleh dijadikan landasan hukum dalam kondisi apa pun, kecuali mimpi para nabi 'alaihimus salam; karena mimpi selain mereka bukanlah wahyu. Maka tidak boleh menetapkan hukum syar'i dengannya, tidak boleh menggugurkan hak, tidak boleh membebaskan orang yang bersalah, dan tidak boleh memvonis orang yang dituduh!"*
 

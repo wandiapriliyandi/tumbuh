@@ -54,11 +54,7 @@ Dalam syariat Islam, standar pembuktian (*al-bayyinah*) diatur dengan syarat ket
 
 1. **Perintah Menolak Hukuman Ketika Muncul Keraguan (*Idra'ul Hudud bisy-Syubuhat*):**
 
-   ```arabic
-
-   ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ
-
-   ```
+   > ادْرَءُوا الْحُدُودَ عَنِ الْمُسْلِمِينَ مَا اسْتَطَعْتُمْ، فَإِنْ كَانَ لَهُ مَخْرَجٌ فَخَلُّوا سَبِيلَهُ، فَإِنَّ الْإِمَامَ أَنْ يُخْطِئَ فِي الْعَفْوِ خَيْرٌ مِنْ أَنْ يُخْطِئَ فِي الْعُقُوبَةِ
 
    > *Sabda Rasulullah ﷺ: "Tolaklah hukuman hadd dari kaum muslimin semampu kalian. Jika ada celah keluar baginya, maka lepaskanlah jalannya; karena sesungguhnya seorang pemimpin yang keliru dalam memaafkan itu jauh lebih baik daripada keliru dalam menjatuhkan hukuman!"* (HR. At-Tirmidzi no. 1424 & Al-Hakim no. 7385, shahih lighairihi).  
 
@@ -68,11 +64,7 @@ Dalam syariat Islam, standar pembuktian (*al-bayyinah*) diatur dengan syarat ket
 
 2. **Kewajiban Tabayyun Menghadapi Informasi dari Pihak yang Belum Jelas Kredibilitasnya:**
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
-
-   ```
+   > يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
 
    > *"Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka bertabayyun-lah (telitilah kebenarannya), agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang menyebabkan kamu menyesali perbuatanmu itu."* (QS. Al-Hujurat: 6).
 
@@ -80,11 +72,7 @@ Dalam syariat Islam, standar pembuktian (*al-bayyinah*) diatur dengan syarat ket
 
 3. **Standar Kesaksian Dua Saksi Adil yang Melihat Langsung:**
 
-   ```arabic
-
-   وَاسْتَشْهِدُوا شَهِيدَيْنِ مِن رِّجَالِكُمْ
-
-   ```
+   > وَاسْتَشْهِدُوا شَهِيدَيْنِ مِن رِّجَالِكُمْ
 
    > *"Dan persaksikanlah dengan dua orang saksi laki-laki di antara kamu..."* (QS. Al-Baqarah: 282).  
 
@@ -216,11 +204,7 @@ Para fukaha salaf merumuskan bab *Al-Aqdhiyah wal-Bayyinat* dengan prinsip keadi
 
    Menegaskan keharaman memaksa terdakwa untuk mengakui perbuatannya melalui siksaan atau intimidasi:  
 
-   ```arabic
-
-   إِنَّ الْإِقْرَارَ لَا يَصِحُّ مَعَ الْإِكْرَاهِ؛ فَإِذَا أُكْرِهَ الْمُتَّهَمُ بِضَرْبٍ أَوْ حَبْسٍ أَوْ تَهْدِيدٍ فَأَقَرَّ، لَمْ يَثْبُتْ عَلَيْهِ شَيْءٌ بِإِجْمَاعِ أَهْلِ الْعِلْمِ، لِأَنَّهُ إِقْرَارٌ بَاطِلٌ
-
-   ```
+   > إِنَّ الْإِقْرَارَ لَا يَصِحُّ مَعَ الْإِكْرَاهِ؛ فَإِذَا أُكْرِهَ الْمُتَّهَمُ بِضَرْبٍ أَوْ حَبْسٍ أَوْ تَهْدِيدٍ فَأَقَرَّ، لَمْ يَثْبُتْ عَلَيْهِ شَيْءٌ بِإِجْمَاعِ أَهْلِ الْعِلْمِ، لِأَنَّهُ إِقْرَارٌ بَاطِلٌ
 
    > *"Sesungguhnya pengakuan (*al-iqrar*) tidak sah apabila disertai pemaksaan (*al-ikrah*). Maka jika tertuduh dipaksa dengan pemukulan, kurungan, atau ancaman lalu ia mengaku, tidak ada satu pun hukum yang tetap atasnya berdasarkan ijma' para ulama; karena itu adalah pengakuan yang batil!"*
 

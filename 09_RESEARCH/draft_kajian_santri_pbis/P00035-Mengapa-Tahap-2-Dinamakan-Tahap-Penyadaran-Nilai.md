@@ -38,24 +38,21 @@ Sistem TUMBUH v2.0.0 secara terencana menamakan fase kedua ini sebagai **Tahap 2
 ### 3.1. Rujukan Teks Turats Otoritatif: Perintah Menggapai Pemahaman Mendalam (Tafaqquh)
 Al-Qur'an dan As-Sunnah secara tegas mencela kepatuhan buta yang hampa dari pemahaman nilai. Allah Ta'ala berfirman:
 
-```arabic
-أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا
-```
+> أَفَلَا يَتَدَبَّرُونَ الْقُرْآنَ أَمْ عَلَى قُلُوبٍ أَقْفَالُهَا
+
 *(Maka apakah mereka tidak mentadabburi [merenungkan makna] Al-Qur'an ataukah kalbu mereka telah terkunci rapat?).*
 — **QS. Muhammad [47]: 24**.
 
 Rasulullah shallallahu 'alaihi wa sallam juga menegaskan bahwa kebaikan sejati yang dikehendaki Allah bagi seorang hamba diukur dari pemahaman mendalamnya (*tafaqquh*), bukan sekadar banyaknya hafalan mekanis:
 
-```arabic
-عَنْ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ»
-```
+> عَنْ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ رَضِيَ اللَّهُ عَنْهُمَا قَالَ: سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ: «مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ»
+
 *(Dari Mu'awiyah bin Abi Sufyan radhiyallahu 'anhuma, ia berkata: Aku mendengar Rasulullah shallallahu 'alaihi wa sallam bersabda: "Barangsiapa yang Allah kehendaki kebaikan baginya, niscaya Allah fahamkan ia secara mendalam dalam urusan agamanya").*
 — **HR. Al-Bukhari** (No. 71) dan **Muslim** (No. 1037).
 
 Imam Az-Zarnuji (w. 620 H) dalam kitab monumentalnya *Ta'lim al-Muta'allim Thariq at-Ta'allum* menjelaskan bahaya belajar dan beramal tanpa pemahaman nilai:
-```arabic
-وَكَمْ مِنْ مُتَعَبِّدٍ جَاهِلٍ بِمَعَانِي عِبَادَتِهِ يَتْعَبُ بَدَنُهُ وَلَا يَصِحُّ لَهُ عَمَلُهُ، وَإِنَّمَا قِوَامُ التَّأَدُّبِ مَعْرِفَةُ الْحِكْمَةِ الَّتِي أُسِّسَ عَلَيْهَا الْأَدَبُ؛ فَإِذَا عَرَفَ التِّلْمِيذُ مَعْنَى مَا يَفْعَلُ، أَقْبَلَ عَلَيْهِ بِقَلْبِهِ وَصَارَ الْأَدَبُ لَهُ طَبْعًا لَا تَكَلُّفًا
-```
+> وَكَمْ مِنْ مُتَعَبِّدٍ جَاهِلٍ بِمَعَانِي عِبَادَتِهِ يَتْعَبُ بَدَنُهُ وَلَا يَصِحُّ لَهُ عَمَلُهُ، وَإِنَّمَا قِوَامُ التَّأَدُّبِ مَعْرِفَةُ الْحِكْمَةِ الَّتِي أُسِّسَ عَلَيْهَا الْأَدَبُ؛ فَإِذَا عَرَفَ التِّلْمِيذُ مَعْنَى مَا يَفْعَلُ، أَقْبَلَ عَلَيْهِ بِقَلْبِهِ وَصَارَ الْأَدَبُ لَهُ طَبْعًا لَا تَكَلُّفًا
+
 *(Betapa banyak orang yang beribadah namun bodoh terhadap makna-makna ibadahnya; badannya lelah namun amalnya tidak bernilai sempurna. Sesungguhnya tegaknya adab itu bergantung pada pengetahuan tentang hikmah yang mendasarinya. Apabila murid telah mengetahui makna di balik apa yang ia perbuat, niscaya ia akan melaksanakannya dengan segenap kalbunya, sehingga adab itu menjadi watak alaminya, bukan lagi kepura-puraan yang dipaksakan).*
 — **Az-Zarnuji**, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Hal. 14.
 

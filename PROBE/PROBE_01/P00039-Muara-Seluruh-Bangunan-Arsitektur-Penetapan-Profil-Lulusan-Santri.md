@@ -68,18 +68,16 @@ Konsepsi mengenai potret manusia paripurna telah dibahas secara mendalam dan eks
 ### 4.1. Konsepsi Al-Insan al-Kamil Syeikh Abdul Karim al-Jili & Imam Al-Ghazali
 Pakar filsafat jiwa Islam abad ke-8 Hijriyah, Syeikh Abdul Karim bin Ibrahim al-Jili (w. 832 H) dalam mahakaryanya *Al-Insan al-Kamil fi Ma'rifat al-Awakhir wa al-Awa'il* menegaskan bahwa manusia diciptakan Allah sebagai mikrokosmos agung (*'alam shaghir*) yang merangkum seluruh hakikat penciptaan alam semesta:
 
-```arabic
-إِنَّ الْإِنْسَانَ الْكَامِلَ هُوَ الْقُطْبُ الَّذِي تَدُورُ عَلَيْهِ أَفْلَاكُ الْوُجُودِ مِنَ الْأَوَّلِ إِلَى الْآخِرِ؛ وَهُوَ نُسْخَةٌ جَامِعَةٌ لِمَرَاتِبِ الْعُبُودِيَّةِ وَالْخِلَافَةِ؛ لَا يَتِمُّ لَهُ كَمَالُهُ حَتَّى يَسْتَقِيمَ فِيهِ صَلَاحُ السَّرِيرَةِ مَعَ صَلَاحِ الْعَلَانِيَةِ، وَتَتَحَقَّقَ فِيهِ شَرَائِفُ الْأَخْلَاقِ بِمُجَاهَدَةِ النَّفْسِ، وَيَكُونَ نَفْعُهُ سَارِيًا فِي الْخَلْقِ؛ فَمَنْ كَمُلَ عِلْمُهُ وَقَصُرَ عَمَلُهُ أَوْ سَاءَ خُلُقُهُ فَلَيْسَ بِكَامِلٍ، بَلْ هُوَ شَبِيهٌ بِالْمَفْلُوجِ
-```
+> إِنَّ الْإِنْسَانَ الْكَامِلَ هُوَ الْقُطْبُ الَّذِي تَدُورُ عَلَيْهِ أَفْلَاكُ الْوُجُودِ مِنَ الْأَوَّلِ إِلَى الْآخِرِ؛ وَهُوَ نُسْخَةٌ جَامِعَةٌ لِمَرَاتِبِ الْعُبُودِيَّةِ وَالْخِلَافَةِ؛ لَا يَتِمُّ لَهُ كَمَالُهُ حَتَّى يَسْتَقِيمَ فِيهِ صَلَاحُ السَّرِيرَةِ مَعَ صَلَاحِ الْعَلَانِيَةِ، وَتَتَحَقَّقَ فِيهِ شَرَائِفُ الْأَخْلَاقِ بِمُجَاهَدَةِ النَّفْسِ، وَيَكُونَ نَفْعُهُ سَارِيًا فِي الْخَلْقِ؛ فَمَنْ كَمُلَ عِلْمُهُ وَقَصُرَ عَمَلُهُ أَوْ سَاءَ خُلُقُهُ فَلَيْسَ بِكَامِلٍ، بَلْ هُوَ شَبِيهٌ بِالْمَفْلُوجِ
+
 *(Sesungguhnya insan kamil itu adalah poros yang mengitari seluruh orbit wujud dari awal hingga akhir; ia adalah miniatur agung yang menghimpun tingkatan-tingkatan ubudiyyah [penghambaan murni] dan khilafah [kepemimpinan memakmurkan bumi]. Tidak akan sempurna derajat kesempurnaannya hingga lurus kebersihan batinnya seiring dengan kelurusan amal lahiriahnya, terwujud padanya kemuliaan budi pekerti melalui kesungguhan menundukkan hawa nafsu [mujahadatun nafs], dan pancaran manfaatnya mengalir nyata bagi sesama makhluk. Maka barangsiapa yang luas ilmunya namun kerdil amalnya atau buruk akhlaknya, ia bukanlah insan kamil, melainkan laksana orang yang lumpuh sebelah badannya).*  
 — **Abdul Karim al-Jili**, *Al-Insan al-Kamil*, Jilid 1, Hal. 18.[^2]
 
 Kaidah Al-Jili ini menetapkan parameter teleologis yang sangat tegas: seorang santri yang berilmu tinggi namun tidak berakhlak mulia atau tidak memberi manfaat nyata bagi masyarakat diibaratkan laksana orang lumpuh yang cacat fungsi kemanusiaannya. Profil kelulusan TUMBUH menuntut keselarasan mutlak antara kebersihan batin (*shalah as-sarirah*), kebaikan amal zahir (*shalah al-'alaniyah*), keluhuran akhlak (*syara'if al-akhlaq*), dan kemanfaatan sosial (*sarayan an-naf' fil khalq*).
 
 Hal ini diperkuat oleh Hujjatul Islam Imam Abu Hamid Al-Ghazali (w. 505 H) dalam *Mizan al-'Amal*:
-```arabic
-إِنَّ الْغَايَةَ الْقُصْوَى مِنْ تَهْذِيبِ النَّفْسِ هِيَ أَنْ يَصِيرَ الْإِنْسَانُ مُتَشَبِّهًا بِأَخْلَاقِ الْمَلَائِكَةِ فِي حُبِّ الْحَقِّ وَإِيثَارِ الْخَيْرِ، مَعَ الْقِيَامِ بِعِمَارَةِ الْأَرْضِ وَسِيَاسَةِ الْخَلْقِ بِالْعَدْلِ وَالْإِحْسَانِ؛ فَلَيْسَ الْفَضْلُ فِي التَّرَهُّبِ وَالِانْقِطَاعِ، وَإِنَّمَا الْفَضْلُ فِي مُخَالَطَةِ النَّاسِ مَعَ الصَّبْرِ عَلَى أَذَاهُمْ وَبَذْلِ النَّدَى لَهُمْ
-```
+> إِنَّ الْغَايَةَ الْقُصْوَى مِنْ تَهْذِيبِ النَّفْسِ هِيَ أَنْ يَصِيرَ الْإِنْسَانُ مُتَشَبِّهًا بِأَخْلَاقِ الْمَلَائِكَةِ فِي حُبِّ الْحَقِّ وَإِيثَارِ الْخَيْرِ، مَعَ الْقِيَامِ بِعِمَارَةِ الْأَرْضِ وَسِيَاسَةِ الْخَلْقِ بِالْعَدْلِ وَالْإِحْسَانِ؛ فَلَيْسَ الْفَضْلُ فِي التَّرَهُّبِ وَالِانْقِطَاعِ، وَإِنَّمَا الْفَضْلُ فِي مُخَالَطَةِ النَّاسِ مَعَ الصَّبْرِ عَلَى أَذَاهُمْ وَبَذْلِ النَّدَى لَهُمْ
+
 *(Sesungguhnya puncak tujuan tertinggi dari pensucian jiwa adalah manakala seorang manusia menjadi serupa dengan akhlak para malaikat dalam mencintai kebenaran dan mendahulukan kebajikan, seraya tetap tegak memakmurkan bumi dan mengelola masyarakat dengan keadilan dan ihsan; maka bukanlah keutamaan itu terletak pada kependetaan yang memutus diri dari kehidupan, melainkan keutamaan hakiki terletak pada berbaur di tengah masyarakat seraya bersabar atas kesulitan mereka dan mencurahkan kebaikan bagi mereka).*  
 — **Imam Abu Hamid Al-Ghazali**, *Mizan al-'Amal*, Hal. 72.[^7]
 
@@ -96,9 +94,8 @@ Diktum Prof. Al-Attas ini menjadi bintang pemandu filosofis bagi *Graduate Profi
 ### 4.3. Hadits Syumuliyyatul Insan: Manusia yang Paling Dicintai Allah
 Dalil naqli paling otoritatif yang menjadi mahkota penutup bagi sepuluh karakter muwashofat santri adalah sabda baginda Rasulullah shallallahu 'alaihi wa sallam:
 
-```arabic
-عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَجُلًا جَاءَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللَّهِ، أَيُّ النَّاسِ أَحَبُّ إِلَى اللَّهِ؟ فَقَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَحَبُّ النَّاسِ إِلَى اللَّهِ أَنْفَعُهُمْ لِلنَّاسِ، وَأَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ سُرُورٌ تُدْخِلُهُ عَلَى مُسْلِمٍ، أَوْ تَكْشِفُ عَنْهُ كُرْبَةً، أَوْ تَقْضِي عَنْهُ دَيْنًا، أَوْ تَطْرُدُ عَنْهُ جُوعًا... وَلَأَنْ أَمْشِيَ مَعَ أَخٍ لِي فِي حَاجَةٍ أَحَبُّ إِلَيَّ مِنْ أَنْ أَعْتَكِفَ فِي هَذَا الْمَسْجِدِ — يَعْنِي مَسْجِدَ الْمَدِينَةِ — شَهْرًا»
-```
+> عَنِ ابْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا، أَنَّ رَجُلًا جَاءَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ: يَا رَسُولَ اللَّهِ، أَيُّ النَّاسِ أَحَبُّ إِلَى اللَّهِ؟ فَقَالَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «أَحَبُّ النَّاسِ إِلَى اللَّهِ أَنْفَعُهُمْ لِلنَّاسِ، وَأَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ سُرُورٌ تُدْخِلُهُ عَلَى مُسْلِمٍ، أَوْ تَكْشِفُ عَنْهُ كُرْبَةً، أَوْ تَقْضِي عَنْهُ دَيْنًا، أَوْ تَطْرُدُ عَنْهُ جُوعًا... وَلَأَنْ أَمْشِيَ مَعَ أَخٍ لِي فِي حَاجَةٍ أَحَبُّ إِلَيَّ مِنْ أَنْ أَعْتَكِفَ فِي هَذَا الْمَسْجِدِ — يَعْنِي مَسْجِدَ الْمَدِينَةِ — شَهْرًا»
+
 *(Dari Ibnu Umar radhiyallahu 'anhuma, bahwasanya ada seorang laki-laki datang kepada Nabi shallallahu 'alaihi wa sallam seraya bertanya: "Wahai Rasulullah, siapakah manusia yang paling dicintai oleh Allah?" Maka Nabi shallallahu 'alaihi wa sallam bersabda: "Manusia yang paling dicintai oleh Allah adalah yang paling bermanfaat bagi sesama manusia; dan amalan yang paling dicintai oleh Allah adalah kegembiraan yang engkau masukkan ke dalam hati seorang Muslim, atau engkau hilangkan kesulitannya, atau engkau lunaskan hutangnya, atau engkau hilangkan rasa laparnya... Dan sungguh, jika aku berjalan bersama seorang saudaraku demi menunaikan suatu kebutuhannya, itu lebih aku cintai daripada aku beri'tikaf di masjidku ini — yaitu Masjid Nabawi di Madinah — selama sebulan penuh").*  
 — **HR. Ath-Thabarani** dalam *Al-Mu'jam al-Ausath* (No. 6026) dan dishahihkan oleh Syaikh Al-Albani dalam *Silsilah al-Ahadits ash-Shahihah* (No. 906).[^4]
 

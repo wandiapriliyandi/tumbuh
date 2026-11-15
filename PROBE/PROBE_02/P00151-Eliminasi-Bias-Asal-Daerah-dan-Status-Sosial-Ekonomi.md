@@ -63,24 +63,18 @@ Dalam kehidupan asrama pesantren 24 jam yang menampung santri dari berbagai penj
 Risalah Islam diturunkan untuk menghancurkan total tradisi jahiliyyah yang membeda-bedakan manusia berdasarkan kasta darah, suku, dan kekayaan:
 
 1. **Tolok Ukur Tunggal Kemuliaan Manusia Hanyalah Takwa:**  
-   ```arabic
-   يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
-   ```  
+   >    يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ
    > *"Wahai manusia! Sungguh, Kami telah menciptakan kamu dari seorang laki-laki dan seorang perempuan, kemudian Kami jadikan kamu berbangsa-bangsa dan bersuku-suku agar kamu saling mengenal (li-ta'arafu). Sesungguhnya yang paling mulia di antara kamu di sisi Allah ialah orang yang paling bertakwa di antara kamu..."* (QS. Al-Hujurat: 13).  
    Perbedaan suku dan asal daerah diciptakan untuk harmoni saling mengenal (*ta'aruf*), bukan untuk membangun kasta kebanggaan semu di asrama.
 
 2. **Khutbah Wada' Rasulullah ﷺ Menghapus Rasisme:**  
    Dalam khutbah perpisahan yang monumental:
-   ```arabic
-   يَا أَيُّهَا النَّاسُ، أَلَا إِنَّ رَبَّكُمْ وَاحِدٌ، وَإِنَّ أَبَاكُمْ وَاحِدٌ، أَلَا لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ، وَلَا لِعَجَمِيٍّ عَلَى عَرَبِيٍّ، وَلَا لِأَحْمَرَ عَلَى أَسْوَدَ، وَلَا لِأَسْوَدَ عَلَى أَحْمَرَ إِلَّا بِالتَّقْوَى
-   ```  
+   >    يَا أَيُّهَا النَّاسُ، أَلَا إِنَّ رَبَّكُمْ وَاحِدٌ، وَإِنَّ أَبَاكُمْ وَاحِدٌ، أَلَا لَا فَضْلَ لِعَرَبِيٍّ عَلَى أَعْجَمِيٍّ، وَلَا لِعَجَمِيٍّ عَلَى عَرَبِيٍّ، وَلَا لِأَحْمَرَ عَلَى أَسْوَدَ، وَلَا لِأَسْوَدَ عَلَى أَحْمَرَ إِلَّا بِالتَّقْوَى
    > *Sabda Rasulullah ﷺ: "Wahai manusia! Ketahuilah, sesungguhnya Tuhan kalian adalah satu, dan bapak kalian adalah satu. Ketahuilah, tidak ada keutamaan bagi orang Arab atas orang non-Arab, tidak pula bagi orang non-Arab atas orang Arab; tidak ada keutamaan bagi orang berkulit merah (putih) atas orang berkulit hitam, dan tidak pula bagi orang berkulit hitam atas orang berkulit merah, melainkan semata-mata karena TAKWA!"* (HR. Ahmad no. 23489, sanad shahih).
 
 3. **Teguran Keras Rasulullah ﷺ kepada Abu Dzar ra atas Hinaan Suku:**  
    Ketika sahabat mulia Abu Dzar Al-Ghifari ra mencela Bilal bin Rabah dengan memanggilnya: *"Wahai anak wanita berkulit hitam!"*, Rasulullah ﷺ murka seraya menegur keras:
-   ```arabic
-   يَا أَبَا ذَرٍّ، أَعَيَّرْتَهُ بِأُمِّهِ؟ إِنَّكَ امْرُؤٌ فِيكَ جَاهِلِيَّةٌ!
-   ```  
+   >    يَا أَبَا ذَرٍّ، أَعَيَّرْتَهُ بِأُمِّهِ؟ إِنَّكَ امْرُؤٌ فِيكَ جَاهِلِيَّةٌ!
    > *Sabda Rasulullah ﷺ: "Wahai Abu Dzar, apakah engkau mencelanya dengan menghina ibunya? Sesungguhnya engkau adalah orang yang masih ada sifat JAHILIYYAH di dalam dirimu!"* (HR. Al-Bukhari no. 30 & Muslim no. 1661).
 
 ---
@@ -173,9 +167,7 @@ Para ulama salaf telah merumuskan bahaya tribalisme kedaerahan dan pentingnya eg
 
 1. **Al-Imam Ibnu Taimiyyah dalam *Iqtida' ash-Shirath al-Mustaqim Mukhalafata Ash-hab al-Jahim*:**  
    Menegaskan keharaman fanatisme golongan dan kesukuan:
-   ```arabic
-   كُلُّ مَعْقِدٍ لِلْوَلَاءِ وَالْبَرَاءِ غَيْرَ الْإِسْلَامِ وَالْقُرْآنِ، مِنْ نَسَبٍ أَوْ بَلَدٍ أَوْ جِنْسٍ أَوْ مَذْهَبٍ، فَهُوَ مِنْ شِعَارِ الْجَاهِلِيَّةِ الْمَفْرُوقَةِ الَّتِي جَاءَ الْإِسْلَامُ بِإِبْطَالِهَا
-   ```  
+   >    كُلُّ مَعْقِدٍ لِلْوَلَاءِ وَالْبَرَاءِ غَيْرَ الْإِسْلَامِ وَالْقُرْآنِ، مِنْ نَسَبٍ أَوْ بَلَدٍ أَوْ جِنْسٍ أَوْ مَذْهَبٍ، فَهُوَ مِنْ شِعَارِ الْجَاهِلِيَّةِ الْمَفْرُوقَةِ الَّتِي جَاءَ الْإِسْلَامُ بِإِبْطَالِهَا
    > *"Setiap ikatan loyalitas dan permusuhan (al-wala' wal-bara') yang dibangun di atas selain Islam dan Al-Qur'an—baik atas dasar nasab keturunan, asal daerah, suku bangsa, atau mazhab fanatik—maka itu adalah bagian dari syi'ar-syi'ar jahiliyyah yang memecah-belah yang telah datang Islam untuk membatalkannya!"* (*Iqtida' ash-Shirath al-Mustaqim*, Jilid I, hlm. 142).
 
 2. **Al-Imam Ibnul Qayyim dalam *Zaad al-Ma'ad fi Hadyi Khairil 'Ibad*:**  

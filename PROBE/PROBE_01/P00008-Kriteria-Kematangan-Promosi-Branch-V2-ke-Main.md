@@ -60,9 +60,7 @@ Khazanah hukum Islam memandang deklarasi kelayakan operasional suatu amanah seba
 ### 4.1. Doktrin Rusyd dan Uji Kelayakan dalam QS. An-Nisa: 6
 Landasan teologis paling mendasar mengenai kewajiban menguji kematangan sebelum penyerahan amanah bertumpu pada firman Allah Ta'ala:
 
-```text
-وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا
-```
+> وَابْتَلُوا الْيَتَامَىٰ حَتَّىٰ إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُم مِّنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ ۖ وَلَا تَأْكُلُوهَا إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا
 
 *Tafsir Hermeneutika Syar'i:*
 - **Imam Fakhruddin Ar-Razi** dalam *Mafatih al-Ghaib (At-Tafsir al-Kabir)* (Jilid 9, hlm. 182–186) membedah kata kerja *wabtalū* (وَابْتَلُوا). Beliau menegaskan bahwa kata ini adalah perintah wajib (*amr lil-wujub*) untuk melakukan serangkaian pengujian eksperimental berulang-ulang (*al-ikhtibar marratan ba'da ukhra*) guna memastikan kapasitas kelayakan seseorang sebelum diberikan wewenang penuh.
@@ -75,9 +73,7 @@ Para fuqaha sepakat bahwa analogi penyerahan harta anak yatim berlaku mutlak pad
 ### 4.2. Kaidah Ushul Tahaqquq asy-Syuruth wa Intifa' al-Mawani'
 Imam Syihabuddin Al-Qarafi dalam *Al-Furuq* (Jilid 1, hlm. 110–125) dan Imam Saifuddin Al-Amidi dalam *Al-Ihkam fi Ushul al-Ahkam* (Jilid 1, hlm. 88–105) menetapkan kaidah universal:
 
-```text
-«لا يَتِمُّ الْحُكْمُ إِلا بِتَحَقُّقِ شُرُوطِهِ وَانْتِفَاءِ مَوَانِعِهِ»
-```
+> «لا يَتِمُّ الْحُكْمُ إِلا بِتَحَقُّقِ شُرُوطِهِ وَانْتِفَاءِ مَوَانِعِهِ»
 
 *Terjemah Maknawi:*
 > *"Suatu ketetapan hukum tidak akan pernah sempurna (sah) melainkan dengan terbuktinya seluruh syarat-syaratnya secara meyakinkan dan ternafikannya (hilangnya) seluruh penghalang-penghalangnya secara mutlak."*
@@ -89,9 +85,7 @@ Penerapan kaidah ini pada promosi Branch `v2.0.0` ke `main`:
 ### 4.3. Kaidah Al-Yaqinu La Yazulu Bisy-Syakk dalam Penetapan Status Rilis
 Imam Jalaluddin As-Suyuthi dalam *Al-Asybah wan-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* (hlm. 50–55) menempatkan kaidah keyakinan sebagai salah satu dari lima kaidah induk syariat (*al-qawa'id al-khams al-kubra*):
 
-```text
-«الْيَقِينُ لا يَزُولُ بِالشَّكِّ»
-```
+> «الْيَقِينُ لا يَزُولُ بِالشَّكِّ»
 
 *Terjemah Maknawi:*
 > *"Sesuatu yang telah berstatus meyakinkan tidak dapat dihilangkan atau digugurkan oleh sesuatu yang masih berada dalam taraf keraguan."*

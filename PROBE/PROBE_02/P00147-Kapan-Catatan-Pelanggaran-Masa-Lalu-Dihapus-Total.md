@@ -128,103 +128,97 @@ Prinsip penghapusan dosa (*al-mahw*) dan penggantian keburukan menjadi kebaikan 
 
 1. **Kebaikan Menghapuskan Keburukan Masa Lalu:**  
 
-   ```arabic
-
-   إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ
-
-   ```  
-
-   > *"Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat."* (QS. Hud: 114).  
-
-   Ayat ini menjadi dasar bahwa sistem pencatatan peradaban Islam wajib memiliki mekanisme penghapusan (*erasure mechanism*): setiap amal kebajikan dan perbaikan diri berhak menghapus catatan kesalahan administratif sebelumnya.
-
-
-
-2. **Penggantian Catatan Dosa Menjadi Pahala bagi yang Bertaubat:**  
-
-   ```arabic
-
-   إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا
-
-   ```  
-
-   > *"Kecuali orang-orang yang bertaubat, beriman dan mengerjakan kebajikan; maka kejahatan mereka itu diganti Allah dengan kebaikan. Dan adalah Allah Maha Pengampun lagi Maha Penyayang."* (QS. Al-Furqan: 70).
-
-
-
-3. **Pernyataan Kanonik Nabi ﷺ tentang Kesucian Orang yang Bertaubat:**  
-
-   ```arabic
-
-   التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Orang yang bertaubat dari dosanya adalah laksana orang yang tidak memiliki dosa sama sekali!"* (HR. Ibnu Majah no. 4250 & Al-Baihaqi, hasan).  
-
-   Jika Allah dan Rasul-Nya memandang orang yang bertaubat laksana orang yang bersih tanpa dosa, bagaimana mungkin sebuah sistem asrama bersikeras mempertahankan catatan dosa santri di hadapan pandangan pengasuh?
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Perkembangan / Kriminologi Remaja
-
-
-
-Kriminologi perkembangan dan neurosains kognitif memberikan bukti kuat urgensi protokol pemutihan rekam jejak:
-
-
-
-1. **Teori Desistensi Remaja (*Adolescence-Limited Delinquency - Terrie Moffitt, 1993*):**  
-
-   Moffitt membuktikan bahwa lebih dari 85% kenakalan remaja bersifat temporer (*adolescence-limited*), dipicu oleh ketimpangan kematangan antara sistem limbik emosional dengan korteks prefrontal (*maturity gap*). Seiring pematangan otak di usia 18–25 tahun, perilaku tersebut berhenti secara alami (*desistance*). Menyimpan catatan permanen kenakalan masa pubertas santri adalah kekeliruan fatal yang mengubah penyimpangan temporer menjadi karier kriminal permanen (*life-course persistent deviance*).
-
-
-
-2. **Teori Pelabelan Sosial (*Labeling Theory - Howard Becker, 1963*):**  
-
-   Becker membuktikan bahwa ketika institusi menyematkan label "anak bermasalah" dan mempertahankan rekam jejaknya, individu tersebut akan menginternalisasi label tersebut ke dalam konsep dirinya (*self-concept*). Santri yang dicap buruk akan mencari teman sesama "anak buangan", membentuk subkultur pembangkang, dan mempercepat pelanggaran berat. Protokol *Clean Slate* secara ilmiah memutus rantai labeling ini dan memberikan "kelahiran kembali sosial (*social rebirth*)".
-
-
-
-3. **Restorative Justice Expungement Standards (UNCRC & Standard Minimum Beijing Rules):**  
-
-   Pedoman PBB mengenai Peradilan Anak menegaskan bahwa seluruh catatan pelanggaran anak di bawah umur wajib bersifat konfidensial dan **wajib dihapus total (*expunged*)** setelah anak mencapai usia dewasa atau menunjukkan masa rehabilitasi yang memadai, guna mencegah diskriminasi masa depan pendidikan dan kariernya.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Protokol Tahapan Penghapusan Catatan (Clean Slate Protocol)
-
-
-
-| Kategori Pelanggaran | Masa Retensi Observasi (*Probation Period*) | Syarat Sah Pembersihan Total | Tindakan Sistem Digital TUMBUH | Status Pasca-Pembersihan |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Tier 1 (Pelanggaran Ringan)**<br>Terlambat shalat, kamar berantakan, piket lalai. | **1 Semester (6 Bulan)** konsisten tanpa pengulangan pelanggaran yang sama. | Menuntaskan tugas restitusi kamar dan menyelesaikan 1 resume buku adab. | **Auto-Purge**: Catatan dihapus otomatis dari dashboard musyrif; skor kedisiplinan kembali 100%. | Bersih total; musyrif baru tidak dapat melihat riwayat pelanggaran tersebut. |
-
-| **Tier 2 (Pelanggaran Sedang)**<br>Merokok, membolos keluar gerbang, konflik kamar. | **1 Tahun Ajaran (12 Bulan)** konsisten taat aturan dan aktif berkhidmah. | Menuntaskan Kontrak Restoratif, meminta maaf tertulis, dan mendapatkan rekomendasi dari musyrif kamar. | **Archival Sealing**: Data dipindahkan ke brankas rahasia tertutup; dashboard harian dibersihkan penuh. | Santri berhak menerima Surat Keterangan Berkelakuan Baik tanpa catatan cela. |
-
-| **Tier 3 (Pelanggaran Berat)**<br>Perundungan fisik, pencurian, pelanggaran moral serius. | **Minimal 18 Bulan** pemantauan ketat bimbingan konseling intensif. | Taubat nasuha, ganti rugi restitusi korban tuntas, sidang rekonsiliasi ishlah, dan persetujuan Majelis Kiai. | **Deep Encryption & Expungement**: Akses dikunci ganda (*Super-Admin Only*); hak akses staf dihapus permanen. | Status santri dipulihkan penuh; larangan mengungkit kasus masa lalu oleh siapa pun di pesantren. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ۚ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ
+>
+>    ```  
+>
+>    > *"Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk. Itulah peringatan bagi orang-orang yang ingat."* (QS. Hud: 114).  
+>
+>    Ayat ini menjadi dasar bahwa sistem pencatatan peradaban Islam wajib memiliki mekanisme penghapusan (*erasure mechanism*): setiap amal kebajikan dan perbaikan diri berhak menghapus catatan kesalahan administratif sebelumnya.
+>
+>
+>
+> 2. **Penggantian Catatan Dosa Menjadi Pahala bagi yang Bertaubat:**  
+>
+>
+>    إِلَّا مَن تَابَ وَآمَنَ وَعَمِلَ عَمَلًا صَالِحًا فَأُولَٰئِكَ يُبَدِّلُ اللَّهُ سَيِّئَاتِهِمْ حَسَنَاتٍ ۗ وَكَانَ اللَّهُ غَفُورًا رَّحِيمًا
+>
+>
+>    > *"Kecuali orang-orang yang bertaubat, beriman dan mengerjakan kebajikan; maka kejahatan mereka itu diganti Allah dengan kebaikan. Dan adalah Allah Maha Pengampun lagi Maha Penyayang."* (QS. Al-Furqan: 70).
+>
+>
+>
+> 3. **Pernyataan Kanonik Nabi ﷺ tentang Kesucian Orang yang Bertaubat:**  
+>
+>
+>    التَّائِبُ مِنَ الذَّنْبِ كَمَنْ لَا ذَنْبَ لَهُ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Orang yang bertaubat dari dosanya adalah laksana orang yang tidak memiliki dosa sama sekali!"* (HR. Ibnu Majah no. 4250 & Al-Baihaqi, hasan).  
+>
+>    Jika Allah dan Rasul-Nya memandang orang yang bertaubat laksana orang yang bersih tanpa dosa, bagaimana mungkin sebuah sistem asrama bersikeras mempertahankan catatan dosa santri di hadapan pandangan pengasuh?
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Perkembangan / Kriminologi Remaja
+>
+>
+>
+> Kriminologi perkembangan dan neurosains kognitif memberikan bukti kuat urgensi protokol pemutihan rekam jejak:
+>
+>
+>
+> 1. **Teori Desistensi Remaja (*Adolescence-Limited Delinquency - Terrie Moffitt, 1993*):**  
+>
+>    Moffitt membuktikan bahwa lebih dari 85% kenakalan remaja bersifat temporer (*adolescence-limited*), dipicu oleh ketimpangan kematangan antara sistem limbik emosional dengan korteks prefrontal (*maturity gap*). Seiring pematangan otak di usia 18–25 tahun, perilaku tersebut berhenti secara alami (*desistance*). Menyimpan catatan permanen kenakalan masa pubertas santri adalah kekeliruan fatal yang mengubah penyimpangan temporer menjadi karier kriminal permanen (*life-course persistent deviance*).
+>
+>
+>
+> 2. **Teori Pelabelan Sosial (*Labeling Theory - Howard Becker, 1963*):**  
+>
+>    Becker membuktikan bahwa ketika institusi menyematkan label "anak bermasalah" dan mempertahankan rekam jejaknya, individu tersebut akan menginternalisasi label tersebut ke dalam konsep dirinya (*self-concept*). Santri yang dicap buruk akan mencari teman sesama "anak buangan", membentuk subkultur pembangkang, dan mempercepat pelanggaran berat. Protokol *Clean Slate* secara ilmiah memutus rantai labeling ini dan memberikan "kelahiran kembali sosial (*social rebirth*)".
+>
+>
+>
+> 3. **Restorative Justice Expungement Standards (UNCRC & Standard Minimum Beijing Rules):**  
+>
+>    Pedoman PBB mengenai Peradilan Anak menegaskan bahwa seluruh catatan pelanggaran anak di bawah umur wajib bersifat konfidensial dan **wajib dihapus total (*expunged*)** setelah anak mencapai usia dewasa atau menunjukkan masa rehabilitasi yang memadai, guna mencegah diskriminasi masa depan pendidikan dan kariernya.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Protokol Tahapan Penghapusan Catatan (Clean Slate Protocol)
+>
+>
+>
+> | Kategori Pelanggaran | Masa Retensi Observasi (*Probation Period*) | Syarat Sah Pembersihan Total | Tindakan Sistem Digital TUMBUH | Status Pasca-Pembersihan |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Tier 1 (Pelanggaran Ringan)**<br>Terlambat shalat, kamar berantakan, piket lalai. | **1 Semester (6 Bulan)** konsisten tanpa pengulangan pelanggaran yang sama. | Menuntaskan tugas restitusi kamar dan menyelesaikan 1 resume buku adab. | **Auto-Purge**: Catatan dihapus otomatis dari dashboard musyrif; skor kedisiplinan kembali 100%. | Bersih total; musyrif baru tidak dapat melihat riwayat pelanggaran tersebut. |
+>
+> | **Tier 2 (Pelanggaran Sedang)**<br>Merokok, membolos keluar gerbang, konflik kamar. | **1 Tahun Ajaran (12 Bulan)** konsisten taat aturan dan aktif berkhidmah. | Menuntaskan Kontrak Restoratif, meminta maaf tertulis, dan mendapatkan rekomendasi dari musyrif kamar. | **Archival Sealing**: Data dipindahkan ke brankas rahasia tertutup; dashboard harian dibersihkan penuh. | Santri berhak menerima Surat Keterangan Berkelakuan Baik tanpa catatan cela. |
+>
+> | **Tier 3 (Pelanggaran Berat)**<br>Perundungan fisik, pencurian, pelanggaran moral serius. | **Minimal 18 Bulan** pemantauan ketat bimbingan konseling intensif. | Taubat nasuha, ganti rugi restitusi korban tuntas, sidang rekonsiliasi ishlah, dan persetujuan Majelis Kiai. | **Deep Encryption & Expungement**: Akses dikunci ganda (*Super-Admin Only*); hak akses staf dihapus permanen. | Status santri dipulihkan penuh; larangan mengungkit kasus masa lalu oleh siapa pun di pesantren. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: ARSIP HISTORIS ABADI ]
 
@@ -350,11 +344,7 @@ Para ulama salaf menetapkan bahwa orang yang telah bertaubat haram diungkit-ungk
 
    Menegaskan pemulihan martabat orang yang bertaubat:
 
-   ```arabic
-
-   إِذَا تَابَ الْعَبْدُ تَوْبَةً نَصُوحًا، غَفَرَ اللَّهُ لَهُ ذُنُوبَهُ، وَأَنْسَى حَفَظَتَهُ ذُنُوبَهُ، وَأَنْسَى جَوَارِحَهُ وَبِقَاعَ الْأَرْضِ الَّتِي عَمِلَ فِيهَا السَّيِّئَاتِ حَتَّى يَلْقَى اللَّهَ وَلَيْسَ عَلَيْهِ شَاهِدٌ بِذَنْبٍ
-
-   ```  
+   > إِذَا تَابَ الْعَبْدُ تَوْبَةً نَصُوحًا، غَفَرَ اللَّهُ لَهُ ذُنُوبَهُ، وَأَنْسَى حَفَظَتَهُ ذُنُوبَهُ، وَأَنْسَى جَوَارِحَهُ وَبِقَاعَ الْأَرْضِ الَّتِي عَمِلَ فِيهَا السَّيِّئَاتِ حَتَّى يَلْقَى اللَّهَ وَلَيْسَ عَلَيْهِ شَاهِدٌ بِذَنْبٍ
 
    > *"Apabila seorang hamba bertaubat dengan taubat nasuha, maka Allah mengampuni dosa-dosanya, dan Allah membuat para malaikat pencatat amal lupa akan dosa-dosanya, serta membuat anggota tubuhnya dan tempat-tempat di bumi di mana ia berbuat dosa lupa akan dosanya, hingga ia menjumpai Allah kelak tanpa ada satu pun saksi yang memberatkannya dengan dosa itu!"* (*Riyadhus Shalihin*, Syarah Bab at-Taubah).  
 

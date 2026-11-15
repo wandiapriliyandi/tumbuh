@@ -54,11 +54,7 @@ Dalam teologi Islam, alam semesta adalah komunitas penyembah Allah yang hidup da
 
 1. **Tasbih Seluruh Entitas Langit dan Bumi Kepada Allah:**
 
-   ```arabic
-
-   تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
-
-   ```
+   > تُسَبِّحُ لَهُ السَّمَاوَاتُ السَّبْعُ وَالْأَرْضُ وَمَن فِيهِنَّ ۚ وَإِن مِّن شَيْءٍ إِلَّا يُسَبِّحُ بِحَمْدِهِ وَلَٰكِن لَّا تَفْقَهُونَ تَسْبِيحَهُمْ ۗ إِنَّهُ كَانَ حَلِيمًا غَفُورًا
 
    > *"Langit yang tujuh, bumi dan semua yang ada di dalamnya senantiasa bertasbih kepada Allah. Dan tak ada suatu pun melainkan bertasbih dengan memuji-Nya, tetapi kamu sekalian tidak mengerti tasbih mereka. Sesungguhnya Dia adalah Maha Penyantun lagi Maha Pengampun."* (QS. Al-Isra': 44).  
 
@@ -68,11 +64,7 @@ Dalam teologi Islam, alam semesta adalah komunitas penyembah Allah yang hidup da
 
 2. **Keharaman Berbuat Kerusakan di Muka Bumi Pasca Penataan Keseimbangan:**
 
-   ```arabic
-
-   وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ
-
-   ```
+   > وَلَا تُفْسِدُوا فِي الْأَرْضِ بَعْدَ إِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًا ۚ إِنَّ رَحْمَتَ اللَّهِ قَرِيبٌ مِّنَ الْمُحْسِنِينَ
 
    > *"Dan janganlah kamu membuat kerusakan di muka bumi, sesudah (Allah) memperbaikinya dan berdoalah kepada-Nya dengan rasa takut (tidak akan diterima) dan harapan (akan dikabulkan). Sesungguhnya rahmat Allah amat dekat kepada orang-orang yang berbuat baik."* (QS. Al-A'raf: 56).
 
@@ -80,11 +72,7 @@ Dalam teologi Islam, alam semesta adalah komunitas penyembah Allah yang hidup da
 
 3. **Larangan Boros Menggunakan Air Kendati Berada di Sungai yang Mengalir:**
 
-   ```arabic
-
-   أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ بِسَعْدٍ وَهُوَ يَتَوَضَّأُ، فَقَالَ: «مَا هَذَا السَّرَفُ يَا سَعْدُ؟» قَالَ: أَفِي الْوُضُوءِ سَرَفٌ؟ قَالَ: «نَعَمْ، وَإِنْ كُنْتَ عَلَى نَهْرٍ جَارٍ»
-
-   ```
+   > أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ بِسَعْدٍ وَهُوَ يَتَوَضَّأُ، فَقَالَ: «مَا هَذَا السَّرَفُ يَا سَعْدُ؟» قَالَ: أَفِي الْوُضُوءِ سَرَفٌ؟ قَالَ: «نَعَمْ، وَإِنْ كُنْتَ عَلَى نَهْرٍ جَارٍ»
 
    > *Nabi ﷺ pernah melewati Sa'ad yang sedang berwudhu, lalu beliau menegur: "Pemborosan apa ini wahai Sa'ad?" Sa'ad bertanya: "Apakah dalam wudhu ada pemborosan?" Beliau menjawab: "Ya, sekalipun engkau berada di sungai yang mengalir deras."* (HR. Ahmad no. 7065 & Ibnu Majah no. 425, hasan).
 
@@ -208,11 +196,7 @@ Ulama turats meletakkan prinsip konservasi alam dan perlindungan makhluk non-man
 
    Menyusun bab khusus tentang hak-hak hewan dan lingkungan hidup terhadap manusia (*Huquq al-Hayawan wal-Bi'ah*):  
 
-   ```arabic
-
-   إِحْسَانُ الْإِنْسَانِ إِلَى الْحَيَوَانِ وَالشَّجَرِ وَسَائِرِ الْجَمَادَاتِ أَنْ يَرْفُقَ بِهَا، وَلَا يُحَمِّلَهَا مَا لَا تُطِيقُ، وَلَا يُفْسِدَهَا عَبَثًا؛ فَإِنَّ الْكُلَّ خَلْقُ اللَّهِ وَمُسَبِّحٌ لَهُ
-
-   ```
+   > إِحْسَانُ الْإِنْسَانِ إِلَى الْحَيَوَانِ وَالشَّجَرِ وَسَائِرِ الْجَمَادَاتِ أَنْ يَرْفُقَ بِهَا، وَلَا يُحَمِّلَهَا مَا لَا تُطِيقُ، وَلَا يُفْسِدَهَا عَبَثًا؛ فَإِنَّ الْكُلَّ خَلْقُ اللَّهِ وَمُسَبِّحٌ لَهُ
 
    > *"Ihsan manusia terhadap hewan, pepohonan, dan seluruh benda mati adalah bersikap lemah lembut kepadanya, tidak membebaninya di luar batas kekuatannya, dan tidak merusaknya secara sia-sia; karena semuanya adalah ciptaan Allah dan senantiasa bertasbih kepada-Nya."*
 

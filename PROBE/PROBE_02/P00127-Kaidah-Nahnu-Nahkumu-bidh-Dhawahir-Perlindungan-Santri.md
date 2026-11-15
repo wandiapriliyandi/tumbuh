@@ -54,11 +54,7 @@ Dalam syariat Islam, Nabi Muhammad ﷺ menegaskan batasan mutlak bahwa wewenang 
 
 1. **Kaidah Kanonik Nabi ﷺ Tentang Batas Penghakiman Lahiriah:**
 
-   ```arabic
-
-   إِنِّي لَمْ أُومَرْ أَنْ أَنْقُبَ عَنْ قُلُوبِ النَّاسِ، وَلَا أَشُقَّ بُطُونَهُمْ
-
-   ```
+   > إِنِّي لَمْ أُومَرْ أَنْ أَنْقُبَ عَنْ قُلُوبِ النَّاسِ، وَلَا أَشُقَّ بُطُونَهُمْ
 
    > *Rasulullah ﷺ menegaskan: "Sesungguhnya aku tidaklah diperintahkan (oleh Allah) untuk melubangi hati-hati manusia, dan tidak pula untuk membelah perut-perut mereka!"* (HR. Al-Bukhari no. 4351 & Muslim no. 1064).  
 
@@ -68,11 +64,7 @@ Dalam syariat Islam, Nabi Muhammad ﷺ menegaskan batasan mutlak bahwa wewenang 
 
 2. **Penegasan Umar bin Al-Khaththab Tentang Penghentian Wahyu dan Hukum Dhahir:**
 
-   ```arabic
-
-   إِنَّ أُنَاسًا كَانُوا يُؤْخَذُونَ بِالْوَحْيِ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَإِنَّ الْوَحْيَ قَدِ انْقَطَعَ، وَإِنَّمَا نَأْخُذُكُمُ الْآنَ بِمَا ظَهَرَ لَنَا مِنْ أَعْمَالِكُمْ؛ فَمَنْ أَظْهَرَ لَنَا خَيْرًا أَمِنَّاهُ وَقَرَّبْنَاهُ، وَلَيْسَ إِلَيْنَا مِنْ سَرِيرَتِهِ شَيْءٌ، اللَّهُ يُحَاسِبُهُ فِي سَرِيرَتِهِ، وَمَنْ أَظْهَرَ لَنَا سُوءًا لَمْ نَأْمَنْهُ وَلَمْ نُصَدِّقْهُ، وَإِنْ قَالَ إِنَّ سَرِيرَتَهُ حَسَنَةٌ
-
-   ```
+   > إِنَّ أُنَاسًا كَانُوا يُؤْخَذُونَ بِالْوَحْيِ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، وَإِنَّ الْوَحْيَ قَدِ انْقَطَعَ، وَإِنَّمَا نَأْخُذُكُمُ الْآنَ بِمَا ظَهَرَ لَنَا مِنْ أَعْمَالِكُمْ؛ فَمَنْ أَظْهَرَ لَنَا خَيْرًا أَمِنَّاهُ وَقَرَّبْنَاهُ، وَلَيْسَ إِلَيْنَا مِنْ سَرِيرَتِهِ شَيْءٌ، اللَّهُ يُحَاسِبُهُ فِي سَرِيرَتِهِ، وَمَنْ أَظْهَرَ لَنَا سُوءًا لَمْ نَأْمَنْهُ وَلَمْ نُصَدِّقْهُ، وَإِنْ قَالَ إِنَّ سَرِيرَتَهُ حَسَنَةٌ
 
    > *Sayyidina Umar bin Al-Khaththab radhiyallahu 'anhu berkhutbah: "Sesungguhnya manusia dahulu dihukum berdasarkan wahyu pada zaman Rasulullah ﷺ. Dan sesungguhnya wahyu kini telah terputus. Sekarang kami hanya menghukumi kalian berdasarkan apa yang tampak nyata bagi kami dari amal-amal kalian: barangsiapa yang menampakkan kebaikan kepada kami, maka kami beri ia rasa aman dan kami dekatkan ia, dan kami tidak berhak mencampuri urusan batinnya sedikit pun—Allah-lah yang menghisab batinnya; dan barangsiapa yang menampakkan keburukan kepada kami, maka kami tidak memberinya rasa aman dan kami tidak mempercayainya, kendati ia mengatakan bahwa niat batinnya baik!"* (HR. Al-Bukhari no. 2641).
 
@@ -80,11 +72,7 @@ Dalam syariat Islam, Nabi Muhammad ﷺ menegaskan batasan mutlak bahwa wewenang 
 
 3. **Perlindungan Terhadap Pengakuan Tobat Lahiriah:**
 
-   ```arabic
-
-   وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا
-
-   ```
+   > وَلَا تَقُولُوا لِمَنْ أَلْقَىٰ إِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًا
 
    > *"Dan janganlah kamu mengatakan kepada orang yang mengucapkan salam (tanda damai dan tunduk) kepadamu: 'Kamu bukan seorang mukmin'."* (QS. An-Nisa': 94).
 
@@ -208,11 +196,7 @@ Para ulama ushul fiqih dan muhaqqiqin salaf telah meletakkan kaidah ini sebagai 
 
    Menegaskan dengan sangat tajam bahwa seorang hakim atau penguasa diharamkan memutuskan perkara atas dasar apa yang disangkanya ada di dalam batin seseorang:  
 
-   ```arabic
-
-   إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى حَكَمَ فِي عِبَادِهِ بِأَنْ جَعَلَ عَلَيْهِمُ الْأَحْكَامَ عَلَى الظَّاهِرِ، وَتَوَلَّى السَّرَائِرَ دُونَهُمْ... فَلَيْسَ لِأَحَدٍ أَنْ يَحْكُمَ بِخِلَافِ مَا ظَهَرَ، وَلَا أَنْ يَدَّعِيَ عِلْمَ مَا غَابَ عَنْهُ مِمَّا فِي الْقُلُوبِ
-
-   ```
+   > إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى حَكَمَ فِي عِبَادِهِ بِأَنْ جَعَلَ عَلَيْهِمُ الْأَحْكَامَ عَلَى الظَّاهِرِ، وَتَوَلَّى السَّرَائِرَ دُونَهُمْ... فَلَيْسَ لِأَحَدٍ أَنْ يَحْكُمَ بِخِلَافِ مَا ظَهَرَ، وَلَا أَنْ يَدَّعِيَ عِلْمَ مَا غَابَ عَنْهُ مِمَّا فِي الْقُلُوبِ
 
    > *"Sesungguhnya Allah Tabaraka wa Ta'ala telah menetapkan hukum atas hamba-hamba-Nya dengan menjadikan hukum-hukum atas mereka berpijak pada apa yang lahiriah, dan Dia menguasai perkara-perkara batin tanpa melibatkan mereka... Maka tidak boleh bagi siapa pun menghukumi menyelisihi apa yang tampak nyata, dan tidak boleh mengklaim mengetahui apa yang tersembunyi dari apa yang ada di dalam hati!"*
 

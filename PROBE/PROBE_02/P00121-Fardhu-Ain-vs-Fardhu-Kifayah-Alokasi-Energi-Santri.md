@@ -54,11 +54,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, kewajiban belajar ditegakkan berdasarkan prins
 
 1. **Prinsip Pembagian Peran dan Spesialisasi dalam Umat:**
 
-   ```arabic
-
-   وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَائِفَةٌ لِّيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
-
-   ```
+   > وَمَا كَانَ الْمُؤْمِنُونَ لِيَنفِرُوا كَافَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَائِفَةٌ لِّيَتَفَقَّهُوا فِي الدِّينِ وَلِيُنذِرُوا قَوْمَهُمْ إِذَا رَجَعُوا إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ
 
    > *"Tidak sepatutnya bagi orang-orang mukmin itu pergi semuanya (ke medan perang). Mengapa tidak pergi dari tiap-tiap golongan di antara mereka beberapa orang untuk memperdalam pengetahuan mereka tentang agama dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali kepadanya, supaya mereka itu dapat menjaga dirinya."* (QS. At-Taubah: 122).  
 
@@ -68,11 +64,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, kewajiban belajar ditegakkan berdasarkan prins
 
 2. **Kewajiban Menuntut Ilmu Pokok yang Mengikat Setiap Individu:**
 
-   ```arabic
-
-   طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ
-
-   ```
+   > طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِّ مُسْلِمٍ
 
    > *Rasulullah ﷺ bersabda: "Menuntut ilmu adalah kewajiban atas setiap muslim."* (HR. Ibnu Majah no. 224, shahih).  
 
@@ -82,11 +74,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, kewajiban belajar ditegakkan berdasarkan prins
 
 3. **Prinsip Kemudahan dan Keteraturan Ritme Tanpa Beban Berlebih:**
 
-   ```arabic
-
-   إِنَّ الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّينَ أَحَدٌ إِلَّا غَلَبَهُ، فَسَدِّدُوا وَقَارِبُوا وَأَبْشِرُوا، وَاسْتَعِينُوا بِالْغَدْوَةِ وَالرَّوْحَةِ وَشَيْءٍ مِنَ الدُّلْجَةِ
-
-   ```
+   > إِنَّ الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّينَ أَحَدٌ إِلَّا غَلَبَهُ، فَسَدِّدُوا وَقَارِبُوا وَأَبْشِرُوا، وَاسْتَعِينُوا بِالْغَدْوَةِ وَالرَّوْحَةِ وَشَيْءٍ مِنَ الدُّلْجَةِ
 
    > *Rasulullah ﷺ bersabda: "Sesungguhnya agama ini mudah, dan tidaklah seseorang memberat-beratkan agama melainkan ia akan dikalahkannya. Maka luruskanlah, dekatilah (kesempurnaan), bergembiralah, dan manfaatkanlah waktu pagi, waktu petang, dan sebagian waktu malam."* (HR. Al-Bukhari no. 39).
 
@@ -210,11 +198,7 @@ Ulama mu'tabar meletakkan kaidah hierarki ilmu dengan sangat tegas untuk menyela
 
    Menegur keras orang yang menyibukkan diri dengan ilmu-ilmu furu' fardhu kifayah dan perdebatan khilafiyah sebelum menuntaskan ilmu perbaikan hati dan amal fardhu 'ain:  
 
-   ```arabic
-
-   فَالْوَاجِبُ عَلَيْكَ أَنْ تَبْدَأَ بِعِلْمِ فَرْضِ الْعَيْنِ، وَهُوَ مَا يَحْتَاجُ إِلَيْهِ عَمَلُكَ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ... فَإِنَّ الْعُمْرَ قَصِيرٌ، وَالْعُلُومَ كَثِيرَةٌ، فَلَا تَشْتَغِلْ بِالْفَضْلِ عَنِ الْأَصْلِ
-
-   ```
+   > فَالْوَاجِبُ عَلَيْكَ أَنْ تَبْدَأَ بِعِلْمِ فَرْضِ الْعَيْنِ، وَهُوَ مَا يَحْتَاجُ إِلَيْهِ عَمَلُكَ فِي كُلِّ يَوْمٍ وَلَيْلَةٍ... فَإِنَّ الْعُمْرَ قَصِيرٌ، وَالْعُلُومَ كَثِيرَةٌ، فَلَا تَشْتَغِلْ بِالْفَضْلِ عَنِ الْأَصْلِ
 
    > *"Maka yang wajib atasmu adalah memulai dengan ilmu fardhu 'ain, yaitu apa yang dibutuhkan oleh amal perbuatanmu pada setiap hari dan malam... Karena sesungguhnya umur itu pendek sedangkan cabang ilmu amat banyak, maka janganlah kamu disibukkan oleh cabang keutamaan hingga melalaikan pokok yang wajib!"*
 

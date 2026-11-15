@@ -83,9 +83,7 @@ Berdasarkan investigasi analitis terhadap puluhan institusi pendidikan Islam di 
 ### 4.1. Tamsil Qur'ani Syajarah Thayyibah: Keniscayaan Fondasi atas Cabang
 Kitab Suci Al-Qur'an al-Karim telah meletakkan hukum kausalitas arsitektural yang abadi mengenai keniscayaan fondasi yang kokoh dalam pembinaan karakter manusia. Allah Subhanahu wa Ta'ala berfirman dalam Surah Ibrahim ayat 24–25:
 
-```text
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
-```
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ ۝ تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا ۗ وَيَضْرِبُ اللَّهُ الْأَمْثَالَ لِلنَّاسِ لَعَلَّهُمْ يَتَذَكَّرُونَ
 
 > *"Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghunjam ke dalam bumi (ashluhā tsābit) dan cabangnya menjulang tinggi ke langit (wa far'uhā fi as-samā'). Pohon itu menghasilkan buahnya pada setiap waktu dengan izin Tuhannya. Dan Allah membuat perumpamaan-perumpamaan itu untuk manusia agar mereka mengambil pelajaran."* (QS. Ibrahim [14]: 24–25).
 
@@ -102,9 +100,7 @@ Mengharapkan lahirnya buah adab santri yang konsisten tanpa terlebih dahulu mena
 ### 4.2. Bahaya Membangun di Atas Tanah Tanpa Fondasi Menurut Hujjatul Islam Al-Ghazali
 Hujjatul Islam Imam Abu Hamid al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab al-'Ilm, Jilid 1, hlm. 28–30) menegaskan bahwa menuntut kesalehan amal lahiriah sebelum mematangkan pengenalan hakikat wujud dan kesadaran jiwa adalah kebodohan arsitektural:
 
-```text
-وَاعْلَمْ أَنَّ مَنْ بَدَأَ بِالْفُرُوعِ وَالْأَعْمَالِ الْجَارِحِيَّةِ قَبْلَ أَنْ يُحْكِمَ الْأُصُولَ وَالْمَعَارِفَ الْقَلْبِيَّةَ، كَانَ كَمَنْ بَنَى حِيطَانًا عَلَى غَيْرِ أَسَاسٍ، فَلَا يَلْبَثُ بُنْيَانُهُ أَنْ يَنْهَارَ. وَإِنَّمَا قِيمَةُ الْعَمَلِ الظَّاهِرِ بِقَدْرِ مَا يَسْتَنِدُ إِلَيْهِ مِنَ الْمَعْرِفَةِ الرَّاسِخَةِ بِاللَّهِ وَبِحَقِيقَةِ الْإِنْسَانِ وَمَصِيرِهِ
-```
+> وَاعْلَمْ أَنَّ مَنْ بَدَأَ بِالْفُرُوعِ وَالْأَعْمَالِ الْجَارِحِيَّةِ قَبْلَ أَنْ يُحْكِمَ الْأُصُولَ وَالْمَعَارِفَ الْقَلْبِيَّةَ، كَانَ كَمَنْ بَنَى حِيطَانًا عَلَى غَيْرِ أَسَاسٍ، فَلَا يَلْبَثُ بُنْيَانُهُ أَنْ يَنْهَارَ. وَإِنَّمَا قِيمَةُ الْعَمَلِ الظَّاهِرِ بِقَدْرِ مَا يَسْتَنِدُ إِلَيْهِ مِنَ الْمَعْرِفَةِ الرَّاسِخَةِ بِاللَّهِ وَبِحَقِيقَةِ الْإِنْسَانِ وَمَصِيرِهِ
 
 > *"Dan ketahuilah bahwa barang siapa yang memulai dari cabang-cabang teknis dan amalan-amalan lahiriah anggota badan sebelum mengokohkan fondasi-fondasi pokok (al-ushul) dan makrifat kesadaran kalbu, posisinya laksana orang yang membangun tembok-tembok dinding di atas tanah tanpa fondasi; maka tidak berselang lama bangunannya pasti akan runtuh lebur. Sesungguhnya nilai suatu amal lahiriah hanyalah sebatas sejauh mana ia bersandar pada makrifat yang menghunjam kokoh tentang Allah, tentang hakikat manusia, dan tentang tempat kembalinya di akhirat."* (Al-Ghazali, *Ihya' 'Ulumiddin*, Tahqiq Badawi Ahmad Thaba'anah, Dar Ihya' al-Kutub al-'Arabiyyah, Kairo, 1957).
 
@@ -113,9 +109,7 @@ Al-Ghazali membedah bahwa kegagalan perbaikan akhlak manusia selalu bermuara pad
 ### 4.3. Hierarki Al-Bina' 'ala al-Asas Menurut Syaikhul Islam Ibn Taimiyyah
 Syaikhul Islam Ibn Taimiyyah dalam *Dar'u Ta'arudhil 'Aql wa an-Naql* (Jilid 1, hlm. 142–145) menggarisbawahi bahwa seluruh tatanan syariat dan penalaran akal sehat tunduk pada aturan hierarki fondasi:
 
-```text
-إِنَّ الْبِنَاءَ لَا يَكُونُ إِلَّا بَعْدَ الْأَسَاسِ، وَتَفْرِيعَ الْمَسَائِلِ إِنَّمَا يَصِحُّ بَعْدَ تَقْرِيرِ أُصُولِهَا؛ فَمَنْ تَكَلَّمَ فِي دَقِيقِ الْعِلْمِ وَتَفَاصِيلِ الْأَحْكَامِ قَبْلَ أَنْ يُحْكِمَ الْجُمَلَ وَالْأُصُولَ الَّتِي تَنْبَنِي عَلَيْهَا، كَانَ قَوْلُهُ مُضْطَرِبًا وَتَدْبِيرُهُ مَفْسَدَةً
-```
+> إِنَّ الْبِنَاءَ لَا يَكُونُ إِلَّا بَعْدَ الْأَسَاسِ، وَتَفْرِيعَ الْمَسَائِلِ إِنَّمَا يَصِحُّ بَعْدَ تَقْرِيرِ أُصُولِهَا؛ فَمَنْ تَكَلَّمَ فِي دَقِيقِ الْعِلْمِ وَتَفَاصِيلِ الْأَحْكَامِ قَبْلَ أَنْ يُحْكِمَ الْجُمَلَ وَالْأُصُولَ الَّتِي تَنْبَنِي عَلَيْهَا، كَانَ قَوْلُهُ مُضْطَرِبًا وَتَدْبِيرُهُ مَفْسَدَةً
 
 > *"Sesungguhnya sebuah bangunan tidak akan pernah bisa tegak kecuali setelah adanya fondasi, dan merinci cabang-cabang masalah hanyalah sah setelah ditetapkannya prinsip-prinsip pokoknya. Maka barang siapa yang berbicara mengenai rincian teknis ilmu dan detail-detail peraturan sebelum ia mengokohkan kaidah-kaidah universal dan fondasi-fondasi yang mendasarinya, niscaya perkataannya akan senantiasa kacau-balau dan tata kelolanya akan mendatangkan kerusakan."* (Ibn Taimiyyah, *Dar'u Ta'arudh*, Tahqiq Dr. Muhammad Rasyad Salim, Jami'ah al-Imam Muhammad bin Sa'ud, Riyadh, 1991).
 
@@ -128,9 +122,7 @@ Dalam filsafat pendidikan Islam kontemporer, Prof. Syed Muhammad Naquib al-Attas
 - Oleh karena itu, kurikulum pendidikan Islam tidak boleh dimulai dari pelatihan keterampilan teknis atau tata tertib fisik, melainkan wajib berakar pada penanaman **Pandangan Alam Islam (The Islamic Worldview)** yang memuat hakikat wujud, tauhid, kenabian, jiwa manusia, keadilan, dan hari akhirat. Tanpa Worldview Islam, pendidikan terdegradasi menjadi sekadar indoktrinasi perilaku hewani (*mere behavioural conditioning*).
 
 Kaidah ushul fikih yang memayungi prinsip *Foundation-First* ini adalah:
-```text
-مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ
-```
+> مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ
 > *"Sesuatu yang suatu kewajiban tidak dapat terlaksana sempurna tanpanya, maka hukum sesuatu tersebut menjadi wajib pula."*
 
 Karena pembinaan adab santri yang ikhlas adalah kewajiban syar'i, dan adab yang ikhlas mustahil terwujud tanpa fondasi pemahaman tauhid dan fitrah, maka membangun direktori Foundation sebagai gerbang pertama adalah keniscayaan hukum yang wajib.

@@ -73,9 +73,7 @@ Praktik manipulasi ini merusak kepercayaan publik terhadap tradisi sanad pesantr
 
 ### 4.1. Adab Pengelolaan Kitab dan Seleksi Rujukan Menurut Badruddin Ibnu Jama'ah
 Dalam peradaban Islam klasik, tradisi mencatat, memverifikasi, dan mengurasi buku telah dirumuskan menjadi cabang ilmu yang sangat mulia di bawah disiplin *Adab Thalib al-'Ilm* dan *Adab Khizanat al-Kutub*. Ulama besar mazhab Syafi'i, Syaikhul Islam Badruddin Ibnu Jama'ah al-Kinani (w. 733 H) dalam karyanya yang abadi *Tadzkirat as-Sami' wal-Mutakallim fi Adab al-'Alim wal-Muta'allim* (Beirut: Dar al-Basyair al-Islamiyyah, 2012, hal. 162–168) mendedikasikan satu bab khusus mengenai adab memilih, menyalin, dan mengoreksi buku rujukan:
-```text
-وَيَنْبَغِي لِلْمُتَعَلِّمِ أَنْ لَا يَقْتَصِرَ عَلَى مُجَرَّدِ جَمْعِ الْكُتُبِ وَتَكْثِيرِهَا مِنْ غَيْرِ فَهْمٍ وَلَا تَحْقِيقٍ، فَإِنَّ ذَلِكَ حَظُّ الْجُهَّالِ. وَعَلَيْهِ أَنْ يَنْتَقِيَ مِنْ كُلِّ فَنٍّ أَوْثَقَ مُصَنَّفَاتِهِ وَأَصَحَّهَا نُسَخًا، وَأَنْ يَحْذَرَ مِنْ كُتُبِ أَهْلِ الْبِدَعِ وَالْمَجْهُولِينَ الَّذِينَ لَمْ تَثْبُتْ عَدَالَتُهُمْ وَلَا رَسَخَتْ أَقْدَامُهُمْ فِي الْعِلْمِ.
-```
+> وَيَنْبَغِي لِلْمُتَعَلِّمِ أَنْ لَا يَقْتَصِرَ عَلَى مُجَرَّدِ جَمْعِ الْكُتُبِ وَتَكْثِيرِهَا مِنْ غَيْرِ فَهْمٍ وَلَا تَحْقِيقٍ، فَإِنَّ ذَلِكَ حَظُّ الْجُهَّالِ. وَعَلَيْهِ أَنْ يَنْتَقِيَ مِنْ كُلِّ فَنٍّ أَوْثَقَ مُصَنَّفَاتِهِ وَأَصَحَّهَا نُسَخًا، وَأَنْ يَحْذَرَ مِنْ كُتُبِ أَهْلِ الْبِدَعِ وَالْمَجْهُولِينَ الَّذِينَ لَمْ تَثْبُتْ عَدَالَتُهُمْ وَلَا رَسَخَتْ أَقْدَامُهُمْ فِي الْعِلْمِ.
 > "Seyogianya bagi seorang penuntut ilmu untuk tidak membatasi diri pada sekadar mengumpulkan dan memperbanyak buku tanpa pemahaman dan tanpa verifikasi (*tahqiq*), karena yang demikian itu adalah perilakunya orang-orang bodoh. Wajib baginya untuk menyeleksi dari setiap disiplin ilmu karya-karya yang paling terpercaya (*autsaq al-mushannafat*) dan naskah-naskah yang paling sahih (*ashahh al-nusakh*), serta berhati-hati dari buku-buku pengusung bid'ah dan orang-orang yang tidak dikenal (*al-majhulin*) yang belum terbukti integritas moralnya (*'adalah*) dan belum kokoh kepakarannya dalam ilmu."
 
 Ibnu Jama'ah menguraikan bahwa sebuah buku baru diakui sebagai rujukan otoritatif jika memenuhi tiga kriteria ketat:
@@ -98,9 +96,7 @@ Imam Abu Bakar Ahmad bin Ali al-Khatib al-Baghdadi (w. 463 H) dalam kitab *al-Ki
 
 ### 4.4. Kaidah Tashhih Naskhah dan Verifikasi Sanad Menurut Ibnu ash-Shalah dan Ibnu Hajar
 Imam Abu 'Amr Utsman bin ash-Shalah (w. 643 H) dalam karyanya yang menjadi rujukan induk ilmu hadits *Muqaddimah Ibnu ash-Shalah fi 'Ulum al-Hadits* (Beirut: Dar al-Fikr, 1986, hal. 182-195) menguraikan bab istimewa tentang *Kitabat al-Hadits wa Kaifiyyat Dhabthihi wa Tashhihihi* (tata cara penulisan hadits, standarisasi harakat, dan verifikasi naskah). Ibnu ash-Shalah mewajibkan penuntut ilmu untuk mengoreksi naskah yang disalinnya kepada guru atau mencocokkannya dengan naskah asal yang muktamad. Beliau mengingatkan:
-```text
-مَنْ أَرَادَ أَنْ يَسْتَدِلَّ بِكِتَابٍ أَوْ يَنْقُلَ مِنْهُ، فَلَا يَجُوزُ لَهُ ذَلِكَ حَتَّى يَكُونَ الْكِتَابُ مَقْرُوءًا عَلَى شَيْخٍ أَوْ مُعَارَضًا بِأَصْلٍ صَحِيحٍ مُعْتَمَدٍ، وَإِلَّا كَانَ حَاطِبَ لَيْلٍ يُوشِكُ أَنْ يَقَعَ فِي التَّصْحِيفِ وَالتَّحْرِيفِ وَهُوَ لَا يَدْرِي.
-```
+> مَنْ أَرَادَ أَنْ يَسْتَدِلَّ بِكِتَابٍ أَوْ يَنْقُلَ مِنْهُ، فَلَا يَجُوزُ لَهُ ذَلِكَ حَتَّى يَكُونَ الْكِتَابُ مَقْرُوءًا عَلَى شَيْخٍ أَوْ مُعَارَضًا بِأَصْلٍ صَحِيحٍ مُعْتَمَدٍ، وَإِلَّا كَانَ حَاطِبَ لَيْلٍ يُوشِكُ أَنْ يَقَعَ فِي التَّصْحِيفِ وَالتَّحْرِيفِ وَهُوَ لَا يَدْرِي.
 > "Barangsiapa yang hendak berdalil dengan suatu kitab atau menukil darinya, maka tidak halal baginya melakukan hal itu hingga kitab tersebut telah dibacakan di hadapan seorang guru yang berkompeten atau telah dicocokkan dengan naskah asli yang sahih lagi muktamad. Jika tidak demikian, maka ia laksana seorang pencari kayu bakar di malam gulita (*hathib lail*), yang sangat rentan terperosok ke dalam kekeliruan cetak (*tashhif*) dan distorsi lafazh (*tahrif*) tanpa ia sadari."
 
 Kaidah Ibnu ash-Shalah ini disempurnakan oleh Al-Hafizh Ibnu Hajar al-'Asqalani (w. 852 H) dalam *Nukhbat al-Fikar fi Musthalah Ahl al-Atsar* (Kairo: Dar an-Naba, 1994, hal. 45-52), yang menegaskan bahwa menukil lafazh hadits dengan makna (*riwayah bil-ma'na*) hanya diperbolehkan bagi orang yang benar-benar memahami seluk-beluk bahasa Arab dan tidak mengubah implikasi hukum fikihnya. Dalam repositori TUMBUH, kutipan hadits dan turats diwajibkan menyertakan matan teks Arab berharakat utuh demi memutus rantai *hathib lail* di era digital.
@@ -431,9 +427,7 @@ Kebijakan kurasi kepustakaan yang independen ini juga mengangkat martabat riset 
 
 ### 11.2. Dimensi Eskatologis Amanah Transmisi Sanad Ilmu
 Secara teologis dan eskatologis, transmisi ilmu dalam peradaban Islam terikat langsung dengan mata rantai sanad menuju Rasulullah ﷺ. Imam Abdullah bin al-Mubarak (w. 181 H) menegaskan kaidah agung yang abadi:
-```text
-الْإِسْنَادُ مِنَ الدِّينِ، وَلَوْلَا الْإِسْنَادُ لَقَالَ مَنْ شَاءَ مَا شَاءَ
-```
+> الْإِسْنَادُ مِنَ الدِّينِ، وَلَوْلَا الْإِسْنَادُ لَقَالَ مَنْ شَاءَ مَا شَاءَ
 > *"Sanad adalah bagian dari agama. Kalaulah bukan karena sanad, niscaya setiap orang akan berkata apa saja sesuka hatinya." (Diriwayatkan oleh Imam Muslim dalam Muqaddimah Shahih-nya).*
 
 Menjaga kejujuran sitasi di dalam `REFERENCES/` adalah ikhtiar sakral untuk memelihara kehormatan sanad ilmu tersebut. Peneliti yang mencantumkan rujukan fiktif atau menyalin kutipan tanpa pernah memeriksa teks aslinya telah merusak benteng sanad agama. Di hadapan mahkamah Allah kelak, setiap nukilan kalimat akan dimintai hisab pertanggungjawabannya.

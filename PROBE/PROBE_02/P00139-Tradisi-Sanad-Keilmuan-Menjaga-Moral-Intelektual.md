@@ -126,111 +126,105 @@ Konsep sanad dalam Islam berakar langsung pada tradisi periwayatan wahyu yang su
 
 1. **Prinsip Transmisi Generasi yang Terpelihara:**  
 
-   ```arabic
-
-   وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنصَارِ وَالَّذِينَ اتَّبَعُوهُم بِإِحْسَانٍ رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ
-
-   ```  
-
-   > *"Dan orang-orang yang terdahulu lagi yang pertama-tama (masuk Islam) dari golongan Muhajirin dan Anshar dan orang-orang yang mengikuti mereka dengan kebajikan (ihsan), Allah ridha kepada mereka dan mereka pun ridha kepada Allah..."* (QS. At-Taubah: 100).  
-
-   Frasa *"mengikuti mereka dengan ihsan"* adalah asas sanad: transmisi nilai keimanan dan adab dari generasi ke generasi melalui keteladanan yang nyata.
-
-
-
-2. **Kaidah Kanonik Sanad sebagai Penjaga Agama:**  
-
-   Al-Imam Abdullah bin Al-Mubarak (w. 181 H) menegaskan dalam muqaddimah *Shahih Muslim*:
-
-   ```arabic
-
-   الْإِسْنَاْدُ مِنَ الدِّيْنِ، وَلَوْلَا الْإِسْنَادُ لَقَالَ مَنْ شَاءَ مَا شَاءَ
-
-   ```  
-
-   > *"Sanad itu adalah bagian dari agama. Sekiranya tidak ada sanad, niscaya siapa saja akan berkata apa saja yang ia kehendaki!"*  
-
-   Sanad bukan sekadar rantai teks, melainkan mekanisme penyaringan moral dan keabsahan argumentasi ilmiah.
-
-
-
-3. **Kewajiban Memeriksa Asal-Usul Guru Pembawa Ilmu:**  
-
-   Al-Imam Muhammad bin Sirin (w. 110 H) menyatakan:
-
-   ```arabic
-
-   إِنَّ هَذَا الْعِلْمَ دِينٌ، فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ
-
-   ```  
-
-   > *"Sesungguhnya ilmu ini adalah agama, maka perhatikanlah dari siapa kalian mengambil agama kalian!"* (Muqaddimah *Shahih Muslim* no. 27).  
-
-   Santri tidak boleh mengambil ilmu melainkan dari guru yang terverifikasi keadilan adabnya, kesucian akidahnya, dan keteladanan hidupnya.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Teori Pembelajaran Sosial / Sosiologi Epistemik
-
-
-
-Sains kognitif modern dan sosiologi transmisi pengetahuan memperkuat urgensi sanad keteladanan:
-
-
-
-1. **Teori Pembelajaran Sosial & Pemodelan Perilaku (*Albert Bandura - Social Learning Theory*):**  
-
-   Bandura membuktikan bahwa manusia tidak mempelajari perilaku moral yang kompleks melalui instruksi verbal abstrak, melainkan melalui **Pengamatan Model Hidup (*Live Modeling & Observational Learning*)**. Cermin neuron (*mirror neurons*) di otak manusia menyerap mikro-ekspresi, cara merespon kemarahan, dan ketenangan batin sang figur teladan. Sanad moral (*isnad akhlaqi*) dalam asrama menyediakan "model hidup 24 jam" yang mentransmisikan adab secara non-verbal ke dalam sistem saraf santri.
-
-
-
-2. **Konsep Pengetahuan Tacit (*Michael Polanyi - Personal Knowledge & Tacit Knowledge*):**  
-
-   Polanyi membedakan antara *Explicit Knowledge* (pengetahuan yang dapat ditulis dalam buku) dan **Tacit Knowledge** (kebijaksanaan, rasa adab, kepekaan etis, dan hikmah yang hanya dapat ditularkan melalui magang langsung / *apprenticeship* bersama seorang master). Sanad keilmuan adalah jembatan transmisi *tacit knowledge* Islam yang tidak pernah bisa digantikan oleh mesin pencari internet maupun buku digital.
-
-
-
-3. **Komunitas Praktik & Magang Sahih (*Lave & Wenger - Situated Learning & Legitimate Peripheral Participation*):**  
-
-   Pembentukan karakter profesional dan moral terjadi ketika seorang pemula (*novice*) masuk ke dalam komunitas pembelajar, mendampingi para ahli (*master*), dan secara perlahan menyerap norma budaya komunitas tersebut melalui keterlibatan nyata sehari-hari.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Sanad Formalistik vs Isnad Akhlaqi TUMBUH
-
-
-
-| Dimensi Sanad Keilmuan | Reduksi Formalistik Kering (Penyimpangan) | Makna Isnad Akhlaqi Kanonik (TUMBUH v2.0.0) | Indikator Integritas Pengasuh & Santri |
-
-| :--- | :--- | :--- | :--- |
-
-| **Bentuk Transmisi Keilmuan** | Pengijazahan kilat dalam seminar satu hari tanpa interaksi kepribadian. | *Mulazamah 24 Jam*: santri melihat langsung ibadah, akhlak, dan manajemen emosi guru. | Terbentuknya adab hidup yang utuh; santri meneladani kerendahan hati guru. |
-
-| **Kriteria Kelayakan Pengajar** | Guru dipilih semata-mata dari gelar akademis formal atau jumlah pengikut medsos. | Guru wajib memiliki sanad keilmuan mu'tabar dan lulus verifikasi integritas moral (*'adalah khuluqiyyah*). | Lembaga terlindung dari fitnah moral asatidz; integritas sanad terjaga kokoh. |
-
-| **Relasi Guru dan Murid** | Kepatuhan buta tanpa ruang bertanya (*feodalisme kultus*). | Hubungan kebapakan yang memuliakan (*ihtiram*), disertai ruang dialog ilmiah yang santun (*syura*). | Santri taat secara beradab tanpa kehilangan ketajaman nalar kritis syar'i. |
-
-| **Tanggung Jawab Pasca-Kelulusan** | Hubungan putus begitu ijazah dibagikan di wisuda. | *Rabithah Ruhaniyah*: komitmen menjaga kehormatan sanad dan silaturahmi berkala seumur hidup. | Alumni menjadi duta moral yang konsisten; rantai sanad terus bersambung ke generasi berikutnya. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    وَالسَّابِقُونَ الْأَوَّلُونَ مِنَ الْمُهَاجِرِينَ وَالْأَنصَارِ وَالَّذِينَ اتَّبَعُوهُم بِإِحْسَانٍ رَّضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ
+>
+>    ```  
+>
+>    > *"Dan orang-orang yang terdahulu lagi yang pertama-tama (masuk Islam) dari golongan Muhajirin dan Anshar dan orang-orang yang mengikuti mereka dengan kebajikan (ihsan), Allah ridha kepada mereka dan mereka pun ridha kepada Allah..."* (QS. At-Taubah: 100).  
+>
+>    Frasa *"mengikuti mereka dengan ihsan"* adalah asas sanad: transmisi nilai keimanan dan adab dari generasi ke generasi melalui keteladanan yang nyata.
+>
+>
+>
+> 2. **Kaidah Kanonik Sanad sebagai Penjaga Agama:**  
+>
+>    Al-Imam Abdullah bin Al-Mubarak (w. 181 H) menegaskan dalam muqaddimah *Shahih Muslim*:
+>
+>
+>    الْإِسْنَاْدُ مِنَ الدِّيْنِ، وَلَوْلَا الْإِسْنَادُ لَقَالَ مَنْ شَاءَ مَا شَاءَ
+>
+>
+>    > *"Sanad itu adalah bagian dari agama. Sekiranya tidak ada sanad, niscaya siapa saja akan berkata apa saja yang ia kehendaki!"*  
+>
+>    Sanad bukan sekadar rantai teks, melainkan mekanisme penyaringan moral dan keabsahan argumentasi ilmiah.
+>
+>
+>
+> 3. **Kewajiban Memeriksa Asal-Usul Guru Pembawa Ilmu:**  
+>
+>    Al-Imam Muhammad bin Sirin (w. 110 H) menyatakan:
+>
+>
+>    إِنَّ هَذَا الْعِلْمَ دِينٌ، فَانْظُرُوا عَمَّنْ تَأْخُذُونَ دِينَكُمْ
+>
+>
+>    > *"Sesungguhnya ilmu ini adalah agama, maka perhatikanlah dari siapa kalian mengambil agama kalian!"* (Muqaddimah *Shahih Muslim* no. 27).  
+>
+>    Santri tidak boleh mengambil ilmu melainkan dari guru yang terverifikasi keadilan adabnya, kesucian akidahnya, dan keteladanan hidupnya.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Teori Pembelajaran Sosial / Sosiologi Epistemik
+>
+>
+>
+> Sains kognitif modern dan sosiologi transmisi pengetahuan memperkuat urgensi sanad keteladanan:
+>
+>
+>
+> 1. **Teori Pembelajaran Sosial & Pemodelan Perilaku (*Albert Bandura - Social Learning Theory*):**  
+>
+>    Bandura membuktikan bahwa manusia tidak mempelajari perilaku moral yang kompleks melalui instruksi verbal abstrak, melainkan melalui **Pengamatan Model Hidup (*Live Modeling & Observational Learning*)**. Cermin neuron (*mirror neurons*) di otak manusia menyerap mikro-ekspresi, cara merespon kemarahan, dan ketenangan batin sang figur teladan. Sanad moral (*isnad akhlaqi*) dalam asrama menyediakan "model hidup 24 jam" yang mentransmisikan adab secara non-verbal ke dalam sistem saraf santri.
+>
+>
+>
+> 2. **Konsep Pengetahuan Tacit (*Michael Polanyi - Personal Knowledge & Tacit Knowledge*):**  
+>
+>    Polanyi membedakan antara *Explicit Knowledge* (pengetahuan yang dapat ditulis dalam buku) dan **Tacit Knowledge** (kebijaksanaan, rasa adab, kepekaan etis, dan hikmah yang hanya dapat ditularkan melalui magang langsung / *apprenticeship* bersama seorang master). Sanad keilmuan adalah jembatan transmisi *tacit knowledge* Islam yang tidak pernah bisa digantikan oleh mesin pencari internet maupun buku digital.
+>
+>
+>
+> 3. **Komunitas Praktik & Magang Sahih (*Lave & Wenger - Situated Learning & Legitimate Peripheral Participation*):**  
+>
+>    Pembentukan karakter profesional dan moral terjadi ketika seorang pemula (*novice*) masuk ke dalam komunitas pembelajar, mendampingi para ahli (*master*), dan secara perlahan menyerap norma budaya komunitas tersebut melalui keterlibatan nyata sehari-hari.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Sanad Formalistik vs Isnad Akhlaqi TUMBUH
+>
+>
+>
+> | Dimensi Sanad Keilmuan | Reduksi Formalistik Kering (Penyimpangan) | Makna Isnad Akhlaqi Kanonik (TUMBUH v2.0.0) | Indikator Integritas Pengasuh & Santri |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Bentuk Transmisi Keilmuan** | Pengijazahan kilat dalam seminar satu hari tanpa interaksi kepribadian. | *Mulazamah 24 Jam*: santri melihat langsung ibadah, akhlak, dan manajemen emosi guru. | Terbentuknya adab hidup yang utuh; santri meneladani kerendahan hati guru. |
+>
+> | **Kriteria Kelayakan Pengajar** | Guru dipilih semata-mata dari gelar akademis formal atau jumlah pengikut medsos. | Guru wajib memiliki sanad keilmuan mu'tabar dan lulus verifikasi integritas moral (*'adalah khuluqiyyah*). | Lembaga terlindung dari fitnah moral asatidz; integritas sanad terjaga kokoh. |
+>
+> | **Relasi Guru dan Murid** | Kepatuhan buta tanpa ruang bertanya (*feodalisme kultus*). | Hubungan kebapakan yang memuliakan (*ihtiram*), disertai ruang dialog ilmiah yang santun (*syura*). | Santri taat secara beradab tanpa kehilangan ketajaman nalar kritis syar'i. |
+>
+> | **Tanggung Jawab Pasca-Kelulusan** | Hubungan putus begitu ijazah dibagikan di wisuda. | *Rabithah Ruhaniyah*: komitmen menjaga kehormatan sanad dan silaturahmi berkala seumur hidup. | Alumni menjadi duta moral yang konsisten; rantai sanad terus bersambung ke generasi berikutnya. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: FORMALISME IJAZAH KERTAS ]
 
@@ -354,11 +348,7 @@ Para ulama salaf telah menjelaskan hakikat transmisi adab mendahului transmisi i
 
    Menegaskan tujuan utama berguru:
 
-   ```arabic
-
-   كَانَ السَّلَفُ لَا يَقْتَصِرُونَ فِي أَخْذِ الْعِلْمِ عَلَى مُجَرَّدِ سَمَاعِ الْأَلْفَاظِ وَحِفْظِ الْمُتُونِ، بَلْ كَانُوا يَتَعَلَّمُونَ مِنْ شَيْخِهِمْ هَدْيَهُ وَسَمْتَهُ وَأَخْلَاقَهُ وَآدَابَهُ قَبْلَ أَنْ يَتَعَلَّمُوا عِلْمَهُ
-
-   ```  
+   > كَانَ السَّلَفُ لَا يَقْتَصِرُونَ فِي أَخْذِ الْعِلْمِ عَلَى مُجَرَّدِ سَمَاعِ الْأَلْفَاظِ وَحِفْظِ الْمُتُونِ، بَلْ كَانُوا يَتَعَلَّمُونَ مِنْ شَيْخِهِمْ هَدْيَهُ وَسَمْتَهُ وَأَخْلَاقَهُ وَآدَابَهُ قَبْلَ أَنْ يَتَعَلَّمُوا عِلْمَهُ
 
    > *"Dahulu para salaf tidak mencukupkan diri dalam mengambil ilmu semata-mata pada mendengarkan lafazh-lafazh dan menghafal matan-matan; melainkan mereka belajar dari guru mereka tentang petunjuk hidupnya, perilakunya, akhlaknya, dan adabnya sebelum mereka mempelajari ilmunya!"* (*Tadzkirat as-Sami'*, Bab Adab Thalib).
 
@@ -368,11 +358,7 @@ Para ulama salaf telah menjelaskan hakikat transmisi adab mendahului transmisi i
 
    Diriwayatkan bahwa majelis pengajian Imam Ahmad dihadiri oleh sekitar 5.000 orang:
 
-   ```arabic
-
-   كَانَ يَجْلِسُ فِي مَجْلِسِ أَحْمَدَ نَحْوٌ مِنْ خَمْسَةِ آلَافٍ، يَكْتُبُونَ نَحْوٌ مِنْ خَمْسِمِائَةٍ، وَالْبَاقُونَ يَتَعَلَّمُونَ مِنْهُ حُسْنَ الْأَدَبِ وَالسَّمْتِ
-
-   ```  
+   > كَانَ يَجْلِسُ فِي مَجْلِسِ أَحْمَدَ نَحْوٌ مِنْ خَمْسَةِ آلَافٍ، يَكْتُبُونَ نَحْوٌ مِنْ خَمْسِمِائَةٍ، وَالْبَاقُونَ يَتَعَلَّمُونَ مِنْهُ حُسْنَ الْأَدَبِ وَالسَّمْتِ
 
    > *"Dahulu yang duduk di majelis Imam Ahmad sekitar 5.000 orang; yang menulis hadits hanya sekitar 500 orang, sedangkan sisanya (4.500 orang) hadir semata-mata untuk belajar keluhuran adab dan kepribadian beliau!"*
 
@@ -382,11 +368,7 @@ Para ulama salaf telah menjelaskan hakikat transmisi adab mendahului transmisi i
 
    Ibunda Imam Malik memakaikan sorban kepada beliau seraya berpesan:
 
-   ```arabic
-
-   اذْهَبْ إِلَى رَبِيعَةَ فَتَعَلَّمْ مِنْ أَدَبِهِ قَبْلَ عِلْمِهِ
-
-   ```  
+   > اذْهَبْ إِلَى رَبِيعَةَ فَتَعَلَّمْ مِنْ أَدَبِهِ قَبْلَ عِلْمِهِ
 
    > *"Pergilah engkau kepada Rabi'ah (seorang guru besar di Madinah), dan pelajari olehmu adabnya sebelum engkau mempelajari ilmunya!"*
 

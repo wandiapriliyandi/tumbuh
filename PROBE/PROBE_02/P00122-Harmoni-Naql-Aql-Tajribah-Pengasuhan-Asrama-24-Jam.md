@@ -54,11 +54,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, ketiga instrumen ini saling membenarkan
 
 1. **Perintah Memadukan Tunduknya Hati pada Wahyu dan Nalar Pembuktian Akal:**
 
-   ```arabic
-
-   أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
-
-   ```
+   > أَفَلَمْ يَسِيرُوا فِي الْأَرْضِ فَتَكُونَ لَهُمْ قُلُوبٌ يَعْقِلُونَ بِهَا أَوْ آذَانٌ يَسْمَعُونَ بِهَا ۖ فَإِنَّهَا لَا تَعْمَى الْأَبْصَارُ وَلَٰكِن تَعْمَى الْقُلُوبُ الَّتِي فِي الصُّدُورِ
 
    > *"Maka apakah mereka tidak berjalan di muka bumi, lalu mereka mempunyai hati yang dengan itu mereka dapat berfikir ('aql) atau telinga yang dengan itu mereka dapat mendengar? Karena sesungguhnya bukanlah mata itu yang buta, tetapi yang buta ialah hati yang di dalam dada."* (QS. Al-Hajj: 46).  
 
@@ -68,11 +64,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, ketiga instrumen ini saling membenarkan
 
 2. **Legitimasi Eksperimen Empiris Duniawi oleh Rasulullah ﷺ:**
 
-   ```arabic
-
-   أَنْتُمْ أَعْلَمُ بِأَمْرِ دُنْيَاكُمْ
-
-   ```
+   > أَنْتُمْ أَعْلَمُ بِأَمْرِ دُنْيَاكُمْ
 
    > *Sabda Rasulullah ﷺ dalam peristiwa penyerbukan kurma: "Kalian lebih mengetahui urusan dunia kalian (terkait teknik empiris dan keahlian praktis)."* (HR. Muslim no. 2363).  
 
@@ -82,11 +74,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, ketiga instrumen ini saling membenarkan
 
 3. **Keterikatan Nalar Akal Sehat dengan Nash Wahyu yang Sahih:**
 
-   ```arabic
-
-   إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ
-
-   ```
+   > إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ
 
    > *"Sesungguhnya seburuk-buruk makhluk bergerak yang bernyawa di sisi Allah ialah orang-orang yang pekak dan tuli (dari kebenaran) yang tidak menggunakan akalnya."* (QS. Al-Anfal: 22).
 
@@ -210,11 +198,7 @@ Ulama mu'tabar Islam telah lama merumuskan harmoni absolut antara wahyu, akal, d
 
    Menegakkan kaidah kanonik bahwa tidak akan pernah terjadi pertentangan antara dalil naqli yang sahih (*ash-sharih*) dengan akal sehat yang murni (*ash-sharih*):  
 
-   ```arabic
-
-   إِنَّ النَّقْلَ الصَّحِيحَ لَا يُعَارِضُ الْعَقْلَ الصَّرِيحَ أَبَدًا، وَكُلُّ مَا ظُنَّ فِيهِ مُعَارَضَةٌ: فَإِمَّا أَنْ يَكُونَ النَّقْلُ غَيْرَ صَحِيحٍ، وَإِمَّا أَنْ يَكُونَ الْعَقْلُ غَيْرَ صَرِيحٍ
-
-   ```
+   > إِنَّ النَّقْلَ الصَّحِيحَ لَا يُعَارِضُ الْعَقْلَ الصَّرِيحَ أَبَدًا، وَكُلُّ مَا ظُنَّ فِيهِ مُعَارَضَةٌ: فَإِمَّا أَنْ يَكُونَ النَّقْلُ غَيْرَ صَحِيحٍ، وَإِمَّا أَنْ يَكُونَ الْعَقْلُ غَيْرَ صَرِيحٍ
 
    > *"Sesungguhnya naql yang sahih tidak akan pernah bertentangan dengan akal murni selamanya. Dan setiap hal yang disangka padanya ada pertentangan: maka kemungkinan naql-nya tidak sahih, atau akalnya yang tidak murni (salah bernalar)."*
 

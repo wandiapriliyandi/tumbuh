@@ -33,23 +33,20 @@ Sistem TUMBUH v2.0.0 membakukan **Tahap 5: Kemandirian Penuh** sebagai puncak ke
 ### 3.1. Rujukan Teks Turats Otoritatif: Hakikat Maqam Muraqabah dan Ihsan
 Al-Qur'anul Karim secara eksplisit memuji hamba-hamba yang memiliki kemandirian batin tinggi: mereka yang takut kepada Allah di tempat tersembunyi yang jauh dari pandangan manusia:
 
-```arabic
-إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ . وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
-```
+> إِنَّ الَّذِينَ يَخْشَوْنَ رَبَّهُمْ بِالْغَيْبِ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ كَبِيرٌ . وَأَسِرُّوا قَوْلَكُمْ أَوِ اجْهَرُوا بِهِ إِنَّهُ عَلِيمٌ بِذَاتِ الصُّدُورِ
+
 *(Sesungguhnya orang-orang yang takut kepada Tuhannya di kala mereka tidak terlihat [oleh manusia], bagi mereka ampunan dan pahala yang besar. Dan rahasiakanlah perkataanmu atau lahirkanlah; sesungguhnya Dia Maha Mengetahui segala isi hati).*
 — **QS. Al-Mulk [67]: 12–13**.
 
 Dalam hadits Jibril yang sangat masyhur, Rasulullah shallallahu 'alaihi wa sallam mendefinisikan derajat tertinggi dari pembinaan iman dan akhlak manusia:
-```arabic
-قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ، قَالَ: «أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»
-```
+> قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ، قَالَ: «أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»
+
 *(Jibril berkata: "Maka kabarkanlah kepadaku tentang Ihsan!" Rasulullah menjawab: "Engkau beribadah kepada Allah seakan-akan engkau melihat-Nya; dan jika engkau tidak mampu melihat-Nya, maka sesungguhnya Dia melihatmu").*
 — **HR. Muslim** (No. 8).
 
 Imam Ibnu Rajab al-Hanbali (w. 795 H) dalam syarah *Jami' al-'Ulum wa al-Hikam* menguraikan bahwa derajat Ihsan ini adalah muara akhir dari seluruh proses pendidikan karakter:
-```arabic
-وَهَذَا الْقَدْرُ مِنْ مُرَاقَبَةِ اللَّهِ فِي الْخَلَوَاتِ هُوَ عِمَادُ الدِّينِ، وَمِلَاكُ الْإِيمَانِ؛ بِحَيْثُ يَسْتَوِي عِنْدَ الْعَبْدِ ظَاهِرُهُ وَبَاطِنُهُ، وَخَلْوَتُهُ وَجَلْوَتُهُ؛ فَلَا يَكُونُ تَرْكُهُ لِلْمَعْصِيَةِ لِمَخَافَةِ النَّاسِ، وَلَا فِعْلُهُ لِلطَّاعَةِ رِئَاءَهُمْ، بَلْ يَكُونُ حَرَكَتُهُ وَسُكُونُهُ خَالِصًا لِلَّهِ
-```
+> وَهَذَا الْقَدْرُ مِنْ مُرَاقَبَةِ اللَّهِ فِي الْخَلَوَاتِ هُوَ عِمَادُ الدِّينِ، وَمِلَاكُ الْإِيمَانِ؛ بِحَيْثُ يَسْتَوِي عِنْدَ الْعَبْدِ ظَاهِرُهُ وَبَاطِنُهُ، وَخَلْوَتُهُ وَجَلْوَتُهُ؛ فَلَا يَكُونُ تَرْكُهُ لِلْمَعْصِيَةِ لِمَخَافَةِ النَّاسِ، وَلَا فِعْلُهُ لِلطَّاعَةِ رِئَاءَهُمْ، بَلْ يَكُونُ حَرَكَتُهُ وَسُكُونُهُ خَالِصًا لِلَّهِ
+
 *(Dan kadar Muraqabah kepada Allah di saat kesunyian ini adalah pilar utama agama dan inti keimanan; di mana pada diri seorang hamba telah menjadi sama antara lahiriah dan batiniahnya, antara kesendirian dan keramaiannya. Maka penolakannya terhadap maksiat bukan karena takut kepada manusia, dan pengamalan ketaatannya bukan karena riya' kepada mereka, melainkan gerak dan diamnya murni karena Allah semata).*
 — **Ibnu Rajab al-Hanbali**, *Jami' al-'Ulum wa al-Hikam*, Jilid 1, Hal. 126.
 

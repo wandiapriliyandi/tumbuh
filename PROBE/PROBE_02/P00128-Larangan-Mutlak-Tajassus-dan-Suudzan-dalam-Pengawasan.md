@@ -54,11 +54,7 @@ Dalam syariat Islam, *tajassus* dan *su'uzh-zhann* diharamkan secara mutlak mela
 
 1. **Larangan Mutlak Al-Qur'an Terhadap Tajassus dan Prasangka Buruk:**
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَّحِيمٌ
-
-   ```
+   > يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَّحِيمٌ
 
    > *"Wahai orang-orang yang beriman! Jauhilah kebanyakan dari prasangka, sesungguhnya sebagian prasangka itu adalah dosa. Dan janganlah kamu mencari-cari kesalahan orang lain (tajassus), dan janganlah sebagian kamu menggunjing sebagian yang lain..."* (QS. Al-Hujurat: 12).  
 
@@ -68,11 +64,7 @@ Dalam syariat Islam, *tajassus* dan *su'uzh-zhann* diharamkan secara mutlak mela
 
 2. **Sabda Nabi ﷺ Bahwa Menyelidiki Aib Manusia Akan Merusak Mereka:**
 
-   ```arabic
-
-   إِنَّكَ إِنِ اتَّبَعْتَ عَوْرَاتِ النَّاسِ أَفْسَدْتَهُمْ، أَوْ كِدْتَ أَنْ تُفْسِدَهُمْ
-
-   ```
+   > إِنَّكَ إِنِ اتَّبَعْتَ عَوْرَاتِ النَّاسِ أَفْسَدْتَهُمْ، أَوْ كِدْتَ أَنْ تُفْسِدَهُمْ
 
    > *Rasulullah ﷺ memperingatkan para pemimpin: "Sesungguhnya jika engkau terus-menerus mencari-cari dan menyelidiki aib-aib manusia, niscaya engkau akan merusak mereka, atau hampir-hampir merusak mereka!"* (HR. Abu Dawud no. 4888, shahih).  
 
@@ -82,11 +74,7 @@ Dalam syariat Islam, *tajassus* dan *su'uzh-zhann* diharamkan secara mutlak mela
 
 3. **Keharaman Menyerang Rumah Tanpa Izin dan Mengintip Privasi:**
 
-   ```arabic
-
-   لَوْ أَنَّ امْرَأً اطَّلَعَ عَلَيْكَ بِغَيْرِ إِذْنٍ فَخَذَفْتَهُ بِحَصَاةٍ فَفَقَأْتَ عَيْنَهُ مَا كَانَ عَلَيْكَ مِنْ جُنَاحٍ
-
-   ```
+   > لَوْ أَنَّ امْرَأً اطَّلَعَ عَلَيْكَ بِغَيْرِ إِذْنٍ فَخَذَفْتَهُ بِحَصَاةٍ فَفَقَأْتَ عَيْنَهُ مَا كَانَ عَلَيْكَ مِنْ جُنَاحٍ
 
    > *Rasulullah ﷺ bersabda: "Sekiranya ada seseorang mengintip ke dalam rumahmu tanpa izin, lalu engkau melemparnya dengan batu kerikil hingga mencungkil matanya, maka tidak ada dosa atasmu."* (HR. Al-Bukhari no. 6888 & Muslim no. 2158).  
 
@@ -212,11 +200,7 @@ Para ulama mu'tabar telah mengabadikan kisah keteladanan para sahabat dalam meno
 
    Suatu malam Umar memergoki sebuah rumah yang terdengar suara gaduh di dalamnya. Umar hendak memanjat dinding untuk melihatnya, lalu Abdurrahman bin 'Auf memegang tangannya dan menegur:  
 
-   ```arabic
-
-   قَدْ نَهَانَا اللَّهُ فَقَالَ: «وَلَا تَجَسَّسُوا»، فَقَدْ تَجَسَّسْنَا! فَانْصَرَفَ عُمَرُ وَتَرَكَهُمْ
-
-   ```
+   > قَدْ نَهَانَا اللَّهُ فَقَالَ: «وَلَا تَجَسَّسُوا»، فَقَدْ تَجَسَّسْنَا! فَانْصَرَفَ عُمَرُ وَتَرَكَهُمْ
 
    > *"Abdurrahman bin 'Auf berkata: 'Allah telah melarang kita dengan berfirman: Janganlah kalian memata-matai! Dan kita sekarang sedang memata-matai!' Maka Umar seketika berbalik mundur dan meninggalkan mereka."*  
 

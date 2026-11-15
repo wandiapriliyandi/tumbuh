@@ -36,24 +36,21 @@ Sistem TUMBUH v2.0.0 secara filosofis menamakan fase ketiga ini sebagai **Tahap 
 ### 3.1. Rujukan Teks Turats Otoritatif: Sunatullah Ketetapan Hati (Tsabat) dan Penempaan
 Al-Qur'an mengibaratkan jiwa yang telah terbangun karakternya laksana pohon rindang yang akarnya menghujam kokoh ke perut bumi dan cabangnya menjulang ke langit, tidak tumbang oleh tiupan angin kencang:
 
-```arabic
-أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ . تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
-```
+> أَلَمْ تَرَ كَيْفَ ضَرَبَ اللَّهُ مَثَلًا كَلِمَةً طَيِّبَةً كَشَجَرَةٍ طَيِّبَةٍ أَصْلُهَا ثَابِتٌ وَفَرْعُهَا فِي السَّمَاءِ . تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا
+
 *(Tidakkah kamu memperhatikan bagaimana Allah telah membuat perumpamaan kalimat yang baik seperti pohon yang baik, akarnya teguh menghujam dan cabangnya [menjulang] ke langit. [Pohon itu] menghasilkan buahnya pada setiap waktu dengan seizin Tuhannya).*
 — **QS. Ibrahim [14]: 24–25**.
 
 Dalam hadits shahih, Rasulullah shallallahu 'alaihi wa sallam mengajarkan bahwa fenomena futur adalah sunatullah manusiawi yang wajib diantisipasi dengan ketetapan hati di atas manhaj sunnah:
 
-```arabic
-عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِّ شِرَّةٍ فَتْرَةً، فَمَنْ كَانَتْ فَتْرَتُهُ إِلَى سُنَّتِي فَقَدْ أَفْلَحَ، وَمَنْ كَانَتْ إِلَى غَيْرِ ذَلِكَ فَقَدْ هَلَكَ»
-```
+> عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو رَضِيَ اللَّهُ عَنْهُمَا، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِنَّ لِكُلِّ عَمَلٍ شِرَّةً، وَلِكُلِّ شِرَّةٍ فَتْرَةً، فَمَنْ كَانَتْ فَتْرَتُهُ إِلَى سُنَّتِي فَقَدْ أَفْلَحَ، وَمَنْ كَانَتْ إِلَى غَيْرِ ذَلِكَ فَقَدْ هَلَكَ»
+
 *(Dari Abdullah bin 'Amr radhiyallahu 'anhuma, dari Nabi shallallahu 'alaihi wa sallam, beliau bersabda: "Sesungguhnya pada setiap amal itu ada masa semangat yang membara [syirrah], dan pada setiap masa semangat itu ada masa jenuh/futur [fatrah]. Maka barangsiapa yang masa futurnya tetap condong kepada sunnahku, sungguh ia telah beruntung; dan barangsiapa yang masa futurnya condong kepada selain itu, maka sungguh ia telah binasa").*
 — **HR. Ahmad** (No. 6764) dan **Ibnu Hibban** (No. 361), shahih.
 
 Imam Ibnu Qayyim al-Jauziyyah (w. 751 H) dalam *Madarij as-Salikin* menguraikan hakikat stasiun penguatan jiwa (*Tatsbit/Tamkin*):
-```arabic
-وَالْعَبْدُ فِي سَيْرِهِ إِلَى اللَّهِ لَا بُدَّ لَهُ مِنْ مَرْحَلَةِ الْمُعَالَجَةِ وَالتَّثْبِيتِ؛ حَيْثُ تَنْقَطِعُ عَنْهُ لَذَّةُ الْبِدَايَاتِ، وَتَهْجُمُ عَلَيْهِ عَوَارِضُ الْفُتُورِ وَالْوَحْشَةِ؛ فَإِنْ ثَبَتَ بِالصَّبْرِ وَالْمُصَابَرَةِ رَسَخَتْ فِي قَلْبِهِ مَلَكَةُ الصِّدْقِ، وَإِلَّا انْقَلَبَ عَلَى عَقِبَيْهِ مَخْذُولًا
-```
+> وَالْعَبْدُ فِي سَيْرِهِ إِلَى اللَّهِ لَا بُدَّ لَهُ مِنْ مَرْحَلَةِ الْمُعَالَجَةِ وَالتَّثْبِيتِ؛ حَيْثُ تَنْقَطِعُ عَنْهُ لَذَّةُ الْبِدَايَاتِ، وَتَهْجُمُ عَلَيْهِ عَوَارِضُ الْفُتُورِ وَالْوَحْشَةِ؛ فَإِنْ ثَبَتَ بِالصَّبْرِ وَالْمُصَابَرَةِ رَسَخَتْ فِي قَلْبِهِ مَلَكَةُ الصِّدْقِ، وَإِلَّا انْقَلَبَ عَلَى عَقِبَيْهِ مَخْذُولًا
+
 *(Seorang hamba dalam perjalanannya menuju Allah niscaya melewati fase penempaan dan pemantapan [al-mu'alajah wa at-tatsbit]; di mana manisnya masa-masa awal telah terputus dan badai kejenuhan serta keterasingan menyerang jiwanya. Sekiranya ia bertahan dengan kesabaran dan keteguhan hati [musyabarah], niscaya akan menancap kokoh watak kejujuran [malakatush shidq] di kalbunya; jika tidak, ia akan berbalik ke belakang dalam keadaan binasa terhina).*
 — **Ibnu Qayyim al-Jauziyyah**, *Madarij as-Salikin*, Jilid 2, Hal. 156.
 

@@ -54,11 +54,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, nilai sejati seorang hamba terletak pad
 
 1. **Pandangan Allah Tertuju pada Hati dan Hakikat Amal, Bukan Ukuran Lahiriah:**
 
-   ```arabic
-
-   إِنَّ اللَّهَ لَا يَنظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَٰكِن يَنظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ
-
-   ```
+   > إِنَّ اللَّهَ لَا يَنظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ، وَلَٰكِن يَنظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ
 
    > *Rasulullah ﷺ bersabda: "Sesungguhnya Allah tidak memandang kepada rupa kalian dan harta kekayaan kalian, akan tetapi Dia memandang kepada hati-hati kalian dan amal-amal kalian."* (HR. Muslim no. 2564).  
 
@@ -68,11 +64,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, nilai sejati seorang hamba terletak pad
 
 2. **Kehancuran Amal Lahiriah Raksasa yang Hampa dari Keikhlasan Ruhani:**
 
-   ```arabic
-
-   وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا
-
-   ```
+   > وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا
 
    > *"Dan Kami hadapi segala amal yang mereka kerjakan, lalu Kami jadikan amal itu (bagaikan) debu yang beterbangan."* (QS. Al-Furqan: 23).  
 
@@ -82,11 +74,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, nilai sejati seorang hamba terletak pad
 
 3. **Keterbatasan Mutlak Manusia dalam Mengukur Kedalaman Niat Orang Lain:**
 
-   ```arabic
-
-   أَفَلَا شَقَقْتَ عَنْ قَلْبِهِ حَتَّى تَعْلَمَ أَقَالَهَا أَمْ لَا؟!
-
-   ```
+   > أَفَلَا شَقَقْتَ عَنْ قَلْبِهِ حَتَّى تَعْلَمَ أَقَالَهَا أَمْ لَا؟!
 
    > *Teguran keras Rasulullah ﷺ kepada Usamah bin Zaid radhiyallahu 'anhu saat membunuh musuh yang telah mengucap syahadat karena menyangka itu hanya tipuan: "Apakah engkau telah membelah dadanya sehingga engkau mengetahui apakah ia mengucapkannya dengan tulus atau tidak?!"* (HR. Muslim no. 96).  
 
@@ -212,11 +200,7 @@ Ulama mu'tabar telah memperingatkan bahaya mengukur agama semata-mata dari bentu
 
    Menegaskan kaidah kanonik tentang bobot amal di sisi Allah:  
 
-   ```arabic
-
-   رُبَّ عَمَلٍ صَغِيرٍ تُعَظِّمُهُ النِّيَّةُ، وَرُبَّ عَمَلٍ كَبِيرٍ تُصَغِّرُهُ النِّيَّةُ
-
-   ```
+   > رُبَّ عَمَلٍ صَغِيرٍ تُعَظِّمُهُ النِّيَّةُ، وَرُبَّ عَمَلٍ كَبِيرٍ تُصَغِّرُهُ النِّيَّةُ
 
    > *"Betapa banyak amal yang kecil (secara kuantitas fisik) menjadi besar (pahalanya) karena niatnya, dan betapa banyak amal yang besar (secara tampilan luar) menjadi kecil karena niatnya."*  
 

@@ -126,113 +126,107 @@ Syariat Islam secara epistemologis membagi hukum menjadi dua dimensi agung: kete
 
 1. **Imutabilitas Ketetapan Pokok Syariat (*Tsawabit*):**
 
-   ```arabic
-
-   الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
-
-   ```
-
-   > *"Pada hari ini telah Aku sempurnakan untukmu agamamu, dan telah Aku cukupkan kepadamu nikmat-Ku, dan telah Aku ridhai Islam itu jadi agama bagimu."* (QS. Al-Ma'idah: 3).  
-
-   Ayat ini menegaskan bahwa fondasi akidah, pokok-pokok ibadah mahdhah, kaidah akhlak mulia, dan batas halal-haram adalah perkara yang sempurna dan tetap (*tsabit*); tidak boleh ditambah, dikurangi, atau diubah oleh selera pengasuh di asrama mana pun.
-
-
-
-2. **Fleksibilitas Penerapan dan Ruang Ijtihad Kontekstual (*Mutaghayyirat*):**
-
-   Dalam peristiwa Perang Bani Quraizhah, Rasulullah ﷺ bersabda kepada para sahabat:
-
-   ```arabic
-
-   لَا يُصَلِّيَنَّ أَحَدٌ الْعَصْرَ إِلَّا فِي بَنِي قُرَيْظَةَ
-
-   ```
-
-   > *"Janganlah ada seorang pun yang shalat Ashar kecuali di perkampungan Bani Quraizhah!"* (HR. Al-Bukhari no. 4119 & Muslim no. 1770).  
-
-   Ketika waktu Ashar hampir habis di tengah jalan, sebagian sahabat shalat di perjalanan karena memahami maksud sabda tersebut adalah perintah bergegas (*maqashid*), sementara sebagian lain menunda shalat hingga tiba di lokasi karena memegang teks lahiriah. Ketika hal itu dilaporkan kepada Rasulullah ﷺ, beliau **tidak mencela satu pun dari kedua kelompok tersebut**. Ini adalah dalil kanonik bahwa sarana, metode, dan pembacaan teknis atas situasi operasional mengandung ruang fleksibilitas (*tanawwu' fil-wasa'il*) selama bermuara pada tujuan yang sama.
-
-
-
-3. **Kewenangan Mengelola Urusan Teknis Keseharian:**
-
-   ```arabic
-
-   أَنْتُمْ أَعْلَمُ بِأَمْرِ دُنْيَاكُمْ
-
-   ```
-
-   > *Sabda Rasulullah ﷺ: "Kalian lebih mengetahui tentang urusan dunia kalian."* (HR. Muslim no. 2363).  
-
-   Urusan manajemen asrama, tata letak fasilitas, sistem penjadwalan digital, dan metode evaluasi kamar adalah urusan duniawi-organisasional yang terbuka lebar bagi adaptasi sains kontemporer dan inovasi musyrif, tanpa boleh dibebani prasangka bid'ah.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Teori Sistem Kompleks / Psikologi Organisasi
-
-
-
-Perspektif sains manajemen modern dan teori kognitif memperkuat urgensi pemisahan antara nilai inti dan strategi operasional:
-
-
-
-1. **Teori Sistem Adaptif Kompleks (*Complex Adaptive Systems - CAS*):**  
-
-   Dalam teori sistem kompleks (Holland, 1995; Levin, 1998), organisme atau lembaga yang berdaya tahan tinggi (*resilient*) selalu memiliki **Invarian Inti (*Core Invariants*)** yang tidak berubah, dipadukan dengan **Aturan Sederhana yang Sangat Adaptif (*Dynamic Peripheral Heuristics*)**. Jika sebuah sistem membekukan semua lapisannya (menjadikan periferal sama kakunya dengan inti), sistem tersebut akan mengalami kerapuhan (*systemic brittleness*) dan runtuh seketika saat menghadapi guncangan lingkungan baru (seperti disrupsi teknologi atau pergantian generasi santri).
-
-
-
-2. **Teori Birokrasi Garis Depan (*Street-Level Bureaucracy* - Michael Lipsky):**  
-
-   Lipsky (1980) membuktikan bahwa petugas garis depan (dalam konteks ini: musyrif asrama) yang dibebani oleh peraturan teknis kaku tanpa ruang diskresi kontekstual akan mengalami kelelahan mental (*burnout*). Mereka cenderung melakukan simplifikasi defensif: menegakkan aturan secara serampangan (*coping mechanisms*), bersikap sinis pada santri, atau pura-pura tidak melihat pelanggaran besar asalkan laporan administratif di atas kertas tampak sempurna (*ritualistic compliance*).
-
-
-
-3. **Fleksibilitas Kognitif & Regulasi Diri (*Cognitive Flexibility & Executive Function*):**  
-
-   Riset neurosains kognitif (Diamond, 2013) menunjukkan bahwa lingkungan pengasuhan yang menerapkan aturan secara kaku tanpa penjelasan rasional menghambat pematangan korteks prefrontal anak. Santri hanya belajar pola respon ketakutan (*threat avoidance* yang dikendalikan amigdala). Sebaliknya, ketika santri diajak memahami prinsip dasar (tsawabit) lalu diberi ruang otonomi untuk merancang kesepakatan teknis kamar (mutaghayyirat), sirkuit penalaran moral (*moral reasoning*) dan fungsi eksekutif mereka berkembang secara optimal.
-
-
-
----
-
-
-
-## 4. Matriks Operasional (Tabel 5 Kolom: Dimensi Tata Kelola Asrama)
-
-
-
-| Dimensi Tata Kelola | Kategori Syar'i / Epistemik | Reduksi Lapangan (Penyimpangan) | Makna Kanonik (TUMBUH) | Indikator Tahapan Kematangan Santri |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Penegakan Shalat Berjamaah** | **Tsawabit** (Prinsip Syar'i Mutlak) | Mengabaikan santri masbuk demi "menjaga perasaan anak", atau menghukum masbuk dengan push-up fisik memalukan. | Shalat fardhu berjamaah di masjid adalah pilar mutlak; ditegakkan dengan keteladanan penuh qudwah dan pendampingan kasih sayang. | Santri bersegera ke masjid atas dorongan rasa butuh kepada Allah, bukan karena takut dicatat musyrif. |
-
-| **Jadwal & Metode Belajar Mandiri** | **Mutaghayyirat** (Instrumen Operasional Lentur) | Mewajibkan seluruh santri belajar duduk hening di aula dari jam 20.00–21.30 tanpa peduli gaya belajar santri. | Target belajar tercapai (tsabit), namun metode belajar kelompok, diskusi koridor, atau belajar di ranjang disesuaikan (mutaghayyir). | Santri mengenali gaya belajar efektif masing-masing dan mampu mengatur waktu mandiri tanpa diawasi ketat. |
-
-| **Larangan Bullying & Senioritas** | **Tsawabit** (Karamah Insaniyyah Abadi) | Membiarkan tradisi "pembinaan mental" oleh santri senior karena dianggap tradisi turun-temurun pesantren. | Nol toleransi terhadap segala bentuk penindasan fisik, verbal, maupun relasional; perlindungan martabat santri adalah mutlak. | Santri senior bertindak sebagai pelindung dan pengayom adik kelas; lenyapnya budaya feodalisme kamar. |
-
-| **Standar Kerapian Lemari & Kamar** | **Mutaghayyirat** (Konvensi Teknis Kamar) | Mengukur keimanan santri dari keseragaman lipatan sarung warna-warni; menjatuhkan sanksi jika baju miring 1 cm. | Kebersihan dan keteraturan adalah prinsip; teknis tata letak lemari disepakati secara musyawarah di masing-masing kamar. | Santri memiliki rasa tanggung jawab memiliki kamar; merawat kebersihan atas kesadaran adab thaharah. |
-
-| **Pemanfaatan Perangkat Digital** | **Mutaghayyirat** (Wasilah Zaman Kontemporer) | Mengharamkan total laptop/tablet secara mutlak, atau sebaliknya melepas akses internet bebas tanpa filter adab. | Literasi digital terpandu; perangkat teknologi dibuka untuk riset keilmuan dengan benteng adab pengawasan internal (*muraqabah*). | Santri mampu menahan diri dari konten sia-sia; menggunakan teknologi sebagai sarana dakwah dan tafaqquh fiddin. |
-
-| **Penyelesaian Sengketa Kamar** | **Sintesis** (Keadilan = Tsabit; Mediasi = Mutaghayyir) | Menggunakan persidangan keamanan represif untuk mendenda pelanggar tanpa mendengarkan akar luka batin. | Menegakkan keadilan dan restitusi korban secara mutlak (tsabit), melalui lingkaran restoratif yang fleksibel dan empatik (mutaghayyir). | Santri mampu meminta maaf secara tulus, mengganti kerugian, dan memulihkan ukhuwah tanpa menyimpan dendam. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا
+>
+>    ```
+>
+>    > *"Pada hari ini telah Aku sempurnakan untukmu agamamu, dan telah Aku cukupkan kepadamu nikmat-Ku, dan telah Aku ridhai Islam itu jadi agama bagimu."* (QS. Al-Ma'idah: 3).  
+>
+>    Ayat ini menegaskan bahwa fondasi akidah, pokok-pokok ibadah mahdhah, kaidah akhlak mulia, dan batas halal-haram adalah perkara yang sempurna dan tetap (*tsabit*); tidak boleh ditambah, dikurangi, atau diubah oleh selera pengasuh di asrama mana pun.
+>
+>
+>
+> 2. **Fleksibilitas Penerapan dan Ruang Ijtihad Kontekstual (*Mutaghayyirat*):**
+>
+>    Dalam peristiwa Perang Bani Quraizhah, Rasulullah ﷺ bersabda kepada para sahabat:
+>
+>
+>    لَا يُصَلِّيَنَّ أَحَدٌ الْعَصْرَ إِلَّا فِي بَنِي قُرَيْظَةَ
+>
+>
+>    > *"Janganlah ada seorang pun yang shalat Ashar kecuali di perkampungan Bani Quraizhah!"* (HR. Al-Bukhari no. 4119 & Muslim no. 1770).  
+>
+>    Ketika waktu Ashar hampir habis di tengah jalan, sebagian sahabat shalat di perjalanan karena memahami maksud sabda tersebut adalah perintah bergegas (*maqashid*), sementara sebagian lain menunda shalat hingga tiba di lokasi karena memegang teks lahiriah. Ketika hal itu dilaporkan kepada Rasulullah ﷺ, beliau **tidak mencela satu pun dari kedua kelompok tersebut**. Ini adalah dalil kanonik bahwa sarana, metode, dan pembacaan teknis atas situasi operasional mengandung ruang fleksibilitas (*tanawwu' fil-wasa'il*) selama bermuara pada tujuan yang sama.
+>
+>
+>
+> 3. **Kewenangan Mengelola Urusan Teknis Keseharian:**
+>
+>
+>    أَنْتُمْ أَعْلَمُ بِأَمْرِ دُنْيَاكُمْ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Kalian lebih mengetahui tentang urusan dunia kalian."* (HR. Muslim no. 2363).  
+>
+>    Urusan manajemen asrama, tata letak fasilitas, sistem penjadwalan digital, dan metode evaluasi kamar adalah urusan duniawi-organisasional yang terbuka lebar bagi adaptasi sains kontemporer dan inovasi musyrif, tanpa boleh dibebani prasangka bid'ah.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Teori Sistem Kompleks / Psikologi Organisasi
+>
+>
+>
+> Perspektif sains manajemen modern dan teori kognitif memperkuat urgensi pemisahan antara nilai inti dan strategi operasional:
+>
+>
+>
+> 1. **Teori Sistem Adaptif Kompleks (*Complex Adaptive Systems - CAS*):**  
+>
+>    Dalam teori sistem kompleks (Holland, 1995; Levin, 1998), organisme atau lembaga yang berdaya tahan tinggi (*resilient*) selalu memiliki **Invarian Inti (*Core Invariants*)** yang tidak berubah, dipadukan dengan **Aturan Sederhana yang Sangat Adaptif (*Dynamic Peripheral Heuristics*)**. Jika sebuah sistem membekukan semua lapisannya (menjadikan periferal sama kakunya dengan inti), sistem tersebut akan mengalami kerapuhan (*systemic brittleness*) dan runtuh seketika saat menghadapi guncangan lingkungan baru (seperti disrupsi teknologi atau pergantian generasi santri).
+>
+>
+>
+> 2. **Teori Birokrasi Garis Depan (*Street-Level Bureaucracy* - Michael Lipsky):**  
+>
+>    Lipsky (1980) membuktikan bahwa petugas garis depan (dalam konteks ini: musyrif asrama) yang dibebani oleh peraturan teknis kaku tanpa ruang diskresi kontekstual akan mengalami kelelahan mental (*burnout*). Mereka cenderung melakukan simplifikasi defensif: menegakkan aturan secara serampangan (*coping mechanisms*), bersikap sinis pada santri, atau pura-pura tidak melihat pelanggaran besar asalkan laporan administratif di atas kertas tampak sempurna (*ritualistic compliance*).
+>
+>
+>
+> 3. **Fleksibilitas Kognitif & Regulasi Diri (*Cognitive Flexibility & Executive Function*):**  
+>
+>    Riset neurosains kognitif (Diamond, 2013) menunjukkan bahwa lingkungan pengasuhan yang menerapkan aturan secara kaku tanpa penjelasan rasional menghambat pematangan korteks prefrontal anak. Santri hanya belajar pola respon ketakutan (*threat avoidance* yang dikendalikan amigdala). Sebaliknya, ketika santri diajak memahami prinsip dasar (tsawabit) lalu diberi ruang otonomi untuk merancang kesepakatan teknis kamar (mutaghayyirat), sirkuit penalaran moral (*moral reasoning*) dan fungsi eksekutif mereka berkembang secara optimal.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional (Tabel 5 Kolom: Dimensi Tata Kelola Asrama)
+>
+>
+>
+> | Dimensi Tata Kelola | Kategori Syar'i / Epistemik | Reduksi Lapangan (Penyimpangan) | Makna Kanonik (TUMBUH) | Indikator Tahapan Kematangan Santri |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Penegakan Shalat Berjamaah** | **Tsawabit** (Prinsip Syar'i Mutlak) | Mengabaikan santri masbuk demi "menjaga perasaan anak", atau menghukum masbuk dengan push-up fisik memalukan. | Shalat fardhu berjamaah di masjid adalah pilar mutlak; ditegakkan dengan keteladanan penuh qudwah dan pendampingan kasih sayang. | Santri bersegera ke masjid atas dorongan rasa butuh kepada Allah, bukan karena takut dicatat musyrif. |
+>
+> | **Jadwal & Metode Belajar Mandiri** | **Mutaghayyirat** (Instrumen Operasional Lentur) | Mewajibkan seluruh santri belajar duduk hening di aula dari jam 20.00–21.30 tanpa peduli gaya belajar santri. | Target belajar tercapai (tsabit), namun metode belajar kelompok, diskusi koridor, atau belajar di ranjang disesuaikan (mutaghayyir). | Santri mengenali gaya belajar efektif masing-masing dan mampu mengatur waktu mandiri tanpa diawasi ketat. |
+>
+> | **Larangan Bullying & Senioritas** | **Tsawabit** (Karamah Insaniyyah Abadi) | Membiarkan tradisi "pembinaan mental" oleh santri senior karena dianggap tradisi turun-temurun pesantren. | Nol toleransi terhadap segala bentuk penindasan fisik, verbal, maupun relasional; perlindungan martabat santri adalah mutlak. | Santri senior bertindak sebagai pelindung dan pengayom adik kelas; lenyapnya budaya feodalisme kamar. |
+>
+> | **Standar Kerapian Lemari & Kamar** | **Mutaghayyirat** (Konvensi Teknis Kamar) | Mengukur keimanan santri dari keseragaman lipatan sarung warna-warni; menjatuhkan sanksi jika baju miring 1 cm. | Kebersihan dan keteraturan adalah prinsip; teknis tata letak lemari disepakati secara musyawarah di masing-masing kamar. | Santri memiliki rasa tanggung jawab memiliki kamar; merawat kebersihan atas kesadaran adab thaharah. |
+>
+> | **Pemanfaatan Perangkat Digital** | **Mutaghayyirat** (Wasilah Zaman Kontemporer) | Mengharamkan total laptop/tablet secara mutlak, atau sebaliknya melepas akses internet bebas tanpa filter adab. | Literasi digital terpandu; perangkat teknologi dibuka untuk riset keilmuan dengan benteng adab pengawasan internal (*muraqabah*). | Santri mampu menahan diri dari konten sia-sia; menggunakan teknologi sebagai sarana dakwah dan tafaqquh fiddin. |
+>
+> | **Penyelesaian Sengketa Kamar** | **Sintesis** (Keadilan = Tsabit; Mediasi = Mutaghayyir) | Menggunakan persidangan keamanan represif untuk mendenda pelanggar tanpa mendengarkan akar luka batin. | Menegakkan keadilan dan restitusi korban secara mutlak (tsabit), melalui lingkaran restoratif yang fleksibel dan empatik (mutaghayyir). | Santri mampu meminta maaf secara tulus, mengganti kerugian, dan memulihkan ukhuwah tanpa menyimpan dendam. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: FUNDAMENTALISME TEKNIS ]
 
@@ -354,11 +348,7 @@ Para pakar ushul fiqih dan maqashid syari'ah telah meletakkan kaidah fundamental
 
    Menegaskan kaidah pemisahan antara prinsip universal (*Al-Kulliyyat*) yang kokoh sepanjang zaman dengan peristiwa partikular (*Al-Juz'iyyat*) yang mengikuti konteks kemaslahatan:
 
-   ```arabic
-
-   إِنَّ كُلِّيَّاتِ الشَّرِيعَةِ وَأُصُولَهَا الْعَامَّةَ ثَابِتَةٌ لَا تَتَبَدَّلُ وَلَا تَتَغَيَّرُ بِحَالٍ، وَإِنَّمَا يَقَعُ التَّغَيُّرُ وَالتَّبَدُّلُ فِي الْفُرُوعِ وَالْوَسَائِلِ الْجُزْئِيَّةِ تَبَعًا لِتَغَيُّرِ الْمَصَالِحِ وَالْعَوَائِدِ
-
-   ```
+   > إِنَّ كُلِّيَّاتِ الشَّرِيعَةِ وَأُصُولَهَا الْعَامَّةَ ثَابِتَةٌ لَا تَتَبَدَّلُ وَلَا تَتَغَيَّرُ بِحَالٍ، وَإِنَّمَا يَقَعُ التَّغَيُّرُ وَالتَّبَدُّلُ فِي الْفُرُوعِ وَالْوَسَائِلِ الْجُزْئِيَّةِ تَبَعًا لِتَغَيُّرِ الْمَصَالِحِ وَالْعَوَائِدِ
 
    > *"Sesungguhnya kaidah-kaidah universal syariat dan prinsip-prinsip umumnya bersifat tetap (tsabitah), tidak dapat berganti dan tidak dapat berubah dalam keadaan apa pun. Sesungguhnya perubahan dan pergantian itu hanya terjadi pada cabang-cabang partikular dan sarana-sarana teknis, mengikuti perubahan kemaslahatan dan tradisi setempat."* (Asy-Syathibi, *Al-Muwafaqat*, Jilid II, Bab Al-Ahkam).
 
@@ -368,11 +358,7 @@ Para pakar ushul fiqih dan maqashid syari'ah telah meletakkan kaidah fundamental
 
    Menulis bab agung yang menjadi rujukan yurisprudensi adaptif:
 
-   ```arabic
-
-   فَصْلٌ فِي تَغَيُّرِ الْفَتْوَى وَاخْتِلَافِهَا بِحَسَبِ تَغَيُّرِ الْأَزْمِنَةِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ وَالنِّيَّاتِ وَالْعَوَائِدِ، وَهَذَا فَصْلٌ عَظِيمُ النَّفْعِ جِدًّا وَقَعَ بِسَبَبِ الْجَهْلِ بِهِ غَلَطٌ عَظِيمٌ عَلَى الشَّرِيعَةِ أَوْجَبَ مِنَ الْحَرَجِ وَالْمَشَقَّةِ مَا لَا تَأْتِي بِهِ الشَّرِيعَةُ
-
-   ```
+   > فَصْلٌ فِي تَغَيُّرِ الْفَتْوَى وَاخْتِلَافِهَا بِحَسَبِ تَغَيُّرِ الْأَزْمِنَةِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ وَالنِّيَّاتِ وَالْعَوَائِدِ، وَهَذَا فَصْلٌ عَظِيمُ النَّفْعِ جِدًّا وَقَعَ بِسَبَبِ الْجَهْلِ بِهِ غَلَطٌ عَظِيمٌ عَلَى الشَّرِيعَةِ أَوْجَبَ مِنَ الْحَرَجِ وَالْمَشَقَّةِ مَا لَا تَأْتِي بِهِ الشَّرِيعَةُ
 
    > *"Fasal tentang perubahan fatwa dan perbedaannya sesuai dengan perubahan zaman, tempat, keadaan, niat, dan tradisi. Ini adalah fasal yang sangat agung manfaatnya; akibat ketidaktahuan atasnya telah terjadi kesalahan besar terhadap syariat, yang melahirkan beban kepicikan dan kesulitan yang sama sekali tidak pernah dibawa oleh syariat!"* (Ibnul Qayyim, *I'lam al-Muwaqqi'in*, Jilid III, hlm. 11).
 

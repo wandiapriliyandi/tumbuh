@@ -96,9 +96,7 @@ Para ulama salaf, mufassirin, dan pakar ushul fiqh telah merumuskan kaidah menda
 ### 4.1 Doktrin Sunnatut Taghyir dalam Nash Al-Qur'an
 Kaidah universal mengenai perubahan ditegaskan oleh Allah SWT dalam Surah Ar-Ra'd [13]: 11:
 
-```arabic
-إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِمْ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ
-```
+> إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّى يُغَيِّرُوا مَا بِأَنْفُسِهِمْ وَإِذَا أَرَادَ اللَّهُ بِقَوْمٍ سُوءًا فَلَا مَرَدَّ لَهُ وَمَا لَهُمْ مِنْ دُونِهِ مِنْ وَالٍ
 
 > **Takhrij**: QS. Ar-Ra'd [13]: 11. Dielaborasi oleh Al-Hafizh Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* (Jilid 4, hlm. 439) dan Imam Fakhruddin ar-Razi dalam *Mafatih al-Ghaib* (Jilid 19, hlm. 18).
 
@@ -122,9 +120,7 @@ Kisah penahapan pengharaman *khamr* (minuman keras) adalah bukti paling kanonik 
 
 Ummul Mukminin Aisyah RA menegaskan logika epistemik pentahapan ini sebagaimana diriwayatkan oleh Imam al-Bukhari dalam Shahih-nya:
 
-```arabic
-إِنَّمَا نَزَلَ أَوَّلَ مَا نَزَلَ مِنْهُ سُورَةٌ مِنَ الْمُفَصَّلِ، فِيهَا ذِكْرُ الْجَنَّةِ وَالنَّارِ، حَتَّى إِذَا ثَابَ النَّاسُ إِلَى الْإِسْلَامِ نَزَلَ الْحَلَالُ وَالْحَرَامُ، وَلَوْ نَزَلَ أَوَّلَ شَيْءٍ: لَا تَشْرَبُوا الْخَمْرَ، لَقَالُوا: لَا نَدَعُ الْخَمْرَ أَبَدًا، وَلَوْ نَزَلَ: لَا تَزْنُوا، لَقَالُوا: لَا نَدَعُ الزِّنَا أَبَدًا
-```
+> إِنَّمَا نَزَلَ أَوَّلَ مَا نَزَلَ مِنْهُ سُورَةٌ مِنَ الْمُفَصَّلِ، فِيهَا ذِكْرُ الْجَنَّةِ وَالنَّارِ، حَتَّى إِذَا ثَابَ النَّاسُ إِلَى الْإِسْلَامِ نَزَلَ الْحَلَالُ وَالْحَرَامُ، وَلَوْ نَزَلَ أَوَّلَ شَيْءٍ: لَا تَشْرَبُوا الْخَمْرَ، لَقَالُوا: لَا نَدَعُ الْخَمْرَ أَبَدًا، وَلَوْ نَزَلَ: لَا تَزْنُوا، لَقَالُوا: لَا نَدَعُ الزِّنَا أَبَدًا
 
 > **Takhrij**: Diriwayatkan oleh Imam al-Bukhari dalam *Shahih al-Bukhari*, Kitab Fadha'il al-Qur'an, Bab Ta'lif al-Qur'an, hadits no. 4993.
 
@@ -152,9 +148,7 @@ Ibnu al-Qayyim memperingatkan bahaya *al-inqitha'* (keterputusan di tengah jalan
 ### 4.5 Imam Asy-Syathibi dalam Al-Muwafaqat: Mengukur Kemampuan Mukallaf
 Abu Ishaq asy-Syathibi (w. 790 H) dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* menetapkan kaidah maqashid syari'ah yang sangat krusial:
 
-```arabic
-أَنَّ الْمَقْصُودَ الشَّرْعِيَّ مِنَ التَّكْلِيفِ هُوَ دَوَامُ الِامْتِثَالِ، لَا إِيقَاعُ الْمَشَقَّةِ بِالْمُكَلَّفِ. وَكُلُّ تَكْلِيفٍ أَدَّى إِلَى الِانْقِطَاعِ عَنِ الْعَمَلِ أَوْ نُفُورِ النَّفْسِ فَهُوَ مُعَارِضٌ لِمَقْصُودِ الشَّارِعِ
-```
+> أَنَّ الْمَقْصُودَ الشَّرْعِيَّ مِنَ التَّكْلِيفِ هُوَ دَوَامُ الِامْتِثَالِ، لَا إِيقَاعُ الْمَشَقَّةِ بِالْمُكَلَّفِ. وَكُلُّ تَكْلِيفٍ أَدَّى إِلَى الِانْقِطَاعِ عَنِ الْعَمَلِ أَوْ نُفُورِ النَّفْسِ فَهُوَ مُعَارِضٌ لِمَقْصُودِ الشَّارِعِ
 
 > **Takhrij**: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Kitab al-Ahkam, Bab Masyaqqat at-Taklif (Dar Ibnu 'Affan, Jilid 2, hlm. 214).
 
@@ -166,9 +160,7 @@ Kaidah Syathibi ini menegaskan bahwa tujuan syariat membebankan aturan adalah **
 ### 4.6 Al-Hasan Al-Bashri: Dinamika Nifaq 'Amali dan Perubahan Jiwa yang Sejati
 Imam Al-Hasan al-Bashri (w. 110 H), pemuka tabi'in dan begawan tazkiyatun nufus, memberikan peringatan keras mengenai bahaya kepatuhan semu yang lahir dari paksaan eksternal tanpa kesadaran kalbu, sebagaimana dicatat oleh Ibnu Abi ad-Dunya dalam kitab *Al-Ikhlas wa an-Niyyah*:
 
-```arabic
-مَا خَافَ النِّفَاقَ إِلَّا مُؤْمِنٌ، وَلَا أَمِنَهُ إِلَّا مُنَافِقٌ. وَإِنَّ مِنْ عَلَامَاتِ النِّفَاقِ الْعَمَلِيِّ أَنْ يَكُونَ لِسَانُ الْعَبْدِ عَالِمًا وَقَلْبُهُ جَاهِلًا، وَأَنْ يَسْتَوِيَ عِنْدَهُ الْمَدْحُ وَالذَّمُّ فِي حُضُورِ النَّاسِ، وَأَنْ يَتَكَلَّفَ مِنَ الْخُشُوعِ مَا لَيْسَ فِي قَلْبِهِ خَوْفًا مِنَ السُّلْطَانِ
-```
+> مَا خَافَ النِّفَاقَ إِلَّا مُؤْمِنٌ، وَلَا أَمِنَهُ إِلَّا مُنَافِقٌ. وَإِنَّ مِنْ عَلَامَاتِ النِّفَاقِ الْعَمَلِيِّ أَنْ يَكُونَ لِسَانُ الْعَبْدِ عَالِمًا وَقَلْبُهُ جَاهِلًا، وَأَنْ يَسْتَوِيَ عِنْدَهُ الْمَدْحُ وَالذَّمُّ فِي حُضُورِ النَّاسِ، وَأَنْ يَتَكَلَّفَ مِنَ الْخُشُوعِ مَا لَيْسَ فِي قَلْبِهِ خَوْفًا مِنَ السُّلْطَانِ
 
 > **Takhrij**: Diriwayatkan oleh Ibnu Abi ad-Dunya dalam *Al-Ikhlas wa an-Niyyah*, hadits no. 28; dikutip pula oleh Imam al-Bukhari dalam *Shahih al-Bukhari*, Kitab al-Iman, Bab Khawf al-Mu'min min an Yahbatha 'Amaluhu wa Huwa La Yasy'ur.
 
@@ -180,9 +172,7 @@ Al-Hasan al-Bashri menyoroti bahaya laten dalam sistem pendidikan yang represif:
 ### 4.7 Ibnu Miskawaih dalam Tahdzib al-Akhlaq: Konsep As-Shina'ah al-Khuluqiyyah
 Filsuf etika Islam terkemuka Abu Ali Ahmad bin Muhammad bin Miskawaih (w. 421 H) dalam risalah kanoniknya *Tahdzib al-Akhlaq wa Tathhir al-A'raq* membedah proses pembentukan watak moral manusia:
 
-```arabic
-إِنَّ الْأَخْلَاقَ لَيْسَتْ كُلَّهَا طَبِيعِيَّةً لَا تَقْبَلُ التَّغْيِيرَ، بَلْ مِنْهَا مَا هُوَ مُسْتَفَادٌ بِالْعَادَةِ وَالتَّعَلُّمِ. وَإِنَّمَا سُمِّيَتِ الرِّيَاضَةُ رِيَاضَةً لِأَنَّهَا تُنَقِّلُ النَّفْسَ مِنْ حَالٍ إِلَى حَالٍ بِالتَّدْرِيجِ وَالرِّفْقِ، كَمَا تُرَاضُ الدَّوَابُّ الصِّعَابُ حَتَّى تَصِيرَ ذَلُولًا مُطِيعَةً بِغَيْرِ عُنْفٍ
-```
+> إِنَّ الْأَخْلَاقَ لَيْسَتْ كُلَّهَا طَبِيعِيَّةً لَا تَقْبَلُ التَّغْيِيرَ، بَلْ مِنْهَا مَا هُوَ مُسْتَفَادٌ بِالْعَادَةِ وَالتَّعَلُّمِ. وَإِنَّمَا سُمِّيَتِ الرِّيَاضَةُ رِيَاضَةً لِأَنَّهَا تُنَقِّلُ النَّفْسَ مِنْ حَالٍ إِلَى حَالٍ بِالتَّدْرِيجِ وَالرِّفْقِ، كَمَا تُرَاضُ الدَّوَابُّ الصِّعَابُ حَتَّى تَصِيرَ ذَلُولًا مُطِيعَةً بِغَيْرِ عُنْفٍ
 
 > **Takhrij**: Ibnu Miskawaih, *Tahdzib al-Akhlaq wa Tathhir al-A'raq*, Maqalah al-Ula: fi Mabadi' al-Akhlaq (Dar al-Kutub al-'Ilmiyyah, Beirut, hlm. 31).
 

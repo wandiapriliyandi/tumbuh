@@ -34,18 +34,16 @@ Di antara desakan kompromi dan tuntutan pembaruan terbentang ketegangan epistemi
 
 Tradisi ushul fiqih Islam klasik memiliki ketegasan metodologis mengenai batas keberlakuan suatu kebiasaan lama. Kaidah fiqhiyyah universal menetapkan:
 
-```arabic
-دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ
-```
+> دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ
+
 *(Menolak berbagai mafsadat/bahaya harus didahulukan daripada mengejar berbagai maslahat/manfaat).*
 
 Mempertahankan format lama demi kenyamanan musyrif sepuh adalah maslahat parsial (*tahsinat*), sedangkan membiarkan format tersebut melanggengkan kekerasan fisik dan mengaburkan kepastian hukum adalah mafsadat primer (*dharuriyyat*). Berdasarkan kaidah ini, maslahat kenyamanan musyrif wajib dikorbankan demi menolak bahaya kekerasan terhadap santri.
 
 Imam Abu Ishaq Asy-Syathibi (w. 790 H) dalam *Al-I'tisham* menegaskan doktrin pembatalan tradisi yang rusak (*ibthal al-'adah al-fasidah*):
 
-```arabic
-الْعَادَةُ إِذَا كَانَتْ مُعَارِضَةً لِقَوَاعِدِ الشَّرِيعَةِ أَوْ مُؤَدِّيَةً إِلَى مَفْسَدَةٍ، فَهِيَ عَادَةٌ فَاسِدَةٌ يَجِبُ إِبْطَالُهَا شَرْعًا، وَلَا يَجُوزُ إِبْقَاؤُهَا تَحْتَ دَعْوَى الْمُوَافَقَةِ وَالِاسْتِصْحَابِ
-```
+> الْعَادَةُ إِذَا كَانَتْ مُعَارِضَةً لِقَوَاعِدِ الشَّرِيعَةِ أَوْ مُؤَدِّيَةً إِلَى مَفْسَدَةٍ، فَهِيَ عَادَةٌ فَاسِدَةٌ يَجِبُ إِبْطَالُهَا شَرْعًا، وَلَا يَجُوزُ إِبْقَاؤُهَا تَحْتَ دَعْوَى الْمُوَافَقَةِ وَالِاسْتِصْحَابِ
+
 *(Tradisi kebiasaan apabila bertentangan dengan kaidah-kaidah syariat atau membawa kepada mafsadat, maka ia adalah tradisi yang rusak ['adah fasidah] yang wajib dibatalkan status hukumnya secara syar'i; dan tidak boleh dipertahankan status keberlakuannya di bawah dalih kompromi kesinambungan ataupun istishhab).* — **Asy-Syathibi**, *Al-I'tisham*, Jilid 2, Hal. 115.
 
 Asy-Syathibi membongkar dalih bahwa tradisi lama harus selalu dipertahankan. Rasulullah ﷺ membatalkan tradisi adopsi anak jahiliyah (*tabanni*) dan riba secara tegas tanpa kompromi kompatibilitas. Berkas tata tertib V1 yang memuat sanksi fisik adalah *'adah fasidah* yang wajib dilepaskan di Branch V2.
@@ -95,9 +93,8 @@ Ketegangan epistemik diselesaikan melalui konfrontasi kritis tiga kubu pemikiran
 
 Sintesis rekonsiliatif (*al-jam'u wat-taufiq*) dirumuskan dalam kaidah:
 
-```arabic
-التَّدَرُّجُ فِي إِسْقَاطِ الْوَسَائِلِ الْقَدِيمَةِ سُنَّةٌ مَنْدُوبَةٌ، وَلَكِنَّ الْحَسْمَ فِي مَنْعِ الْمَفَاسِدِ الشَّرْعِيَّةِ فَرِيضَةٌ لَازِمَةٌ؛ فَمَا كَانَ خَلَلًا مَنْهَجِيًّا قُطِعَ بِلَا مَهَلٍ، وَمَا كَانَ عُرْفًا إِدَارِيًّا عُولِجَ بِالتَّحْوِيلِ وَالْبَدَلِ
-```
+> التَّدَرُّجُ فِي إِسْقَاطِ الْوَسَائِلِ الْقَدِيمَةِ سُنَّةٌ مَنْدُوبَةٌ، وَلَكِنَّ الْحَسْمَ فِي مَنْعِ الْمَفَاسِدِ الشَّرْعِيَّةِ فَرِيضَةٌ لَازِمَةٌ؛ فَمَا كَانَ خَلَلًا مَنْهَجِيًّا قُطِعَ بِلَا مَهَلٍ، وَمَا كَانَ عُرْفًا إِدَارِيًّا عُولِجَ بِالتَّحْوِيلِ وَالْبَدَلِ
+
 *(Bertahap dalam melepaskan sarana lama adalah sunnah yang dianjurkan, namun ketegasan dalam memutus mafsadat syar'i adalah kewajiban yang mengikat; maka apa yang berupa cacat metodologis dan kekerasan wajib diputus seketika tanpa penundaan, sedangkan apa yang berupa kebiasaan administratif diselesaikan melalui mekanisme transisi dan penggantian yang bermartabat).*
 
 Dari sintesis ini, ambang batas pelepasan komponen repositori dikodifikasikan:

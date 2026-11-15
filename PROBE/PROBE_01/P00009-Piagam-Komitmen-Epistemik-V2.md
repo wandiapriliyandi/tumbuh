@@ -60,9 +60,7 @@ Khazanah keilmuan Islam memandang pena seorang ulama bukan sekadar alat pencatat
 ### 4.1. Doktrin Mitsaq al-'Ilm dalam Al-Qur'an al-Karim
 Landasan teologis tertinggi mengenai larangan bersikap kompromistis terhadap amanah ilmu termaktub dalam firman Allah Ta'ala:
 
-```text
-وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
-```
+> وَإِذْ أَخَذَ اللَّهُ مِيثَاقَ الَّذِينَ أُوتُوا الْكِتَابَ لَتُبَيِّنُنَّهُ لِلنَّاسِ وَلَا تَكْتُمُونَهُ فَنَبَذُوهُ وَرَاءَ ظُهُورِهِمْ وَاشْتَرَوْا بِهِ ثَمَنًا قَلِيلًا ۖ فَبِئْسَ مَا يَشْتَرُونَ
 
 *Tafsir Hermeneutika Syar'i:*
 - **Al-Hafizh Ibnu Katsir** dalam *Tafsir al-Qur'an al-'Azhim* (Jilid 2, hlm. 177–180) menjelaskan bahwa ayat ini adalah ancaman keras bagi para ilmuwan dan perumus ajaran yang meremehkan amanah pengetahuan. Makna *fa nabadzūhu warā'a zhuhūrihim* adalah mencampakkan integritas metodologis ke belakang punggung demi mengejar *tsamanan qalīlā* (harga yang sedikit), yaitu pujian atasan, percepatan target duniawi, atau kenyamanan pribadi.
@@ -71,10 +69,7 @@ Landasan teologis tertinggi mengenai larangan bersikap kompromistis terhadap ama
 ### 4.2. Adab Penulis Kitab menurut Imam Abu Bakar Al-Ajurri
 Imam Abu Bakar Muhammad bin al-Husain Al-Ajurri dalam risalah monumentalnya *Akhlaq al-'Ulama* (hlm. 43–52) merumuskan sifat-sifat wajib bagi seorang penuntut ilmu yang berani menyusun risalah pedoman:
 
-```text
-قَالَ الإِمَامُ الآجُرِّيُّ فِي «أَخْلاقِ الْعُلَمَاءِ»:
-«وَاجِبٌ عَلَى كُلِّ مَنْ صَنَّفَ كِتَابًا فِي الْعِلْمِ أَنْ يَكُونَ قَصْدُهُ النَّصِيحَةَ لِلَّهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ، وَأَنْ يَتَوَقَّى التَّسَرُّعَ قَبْلَ الإِحْكَامِ، وَأَنْ يَحْذَرَ كُلَّ الْحَذَرِ مِنِ انْتِحَالِ أَقْوَالِ غَيْرِهِ؛ فَإِنَّ الْمُنْتَحِلَ شَاهِدُ زُورٍ، وَمَنْ أَلَّفَ غَثًّا أَوْ ضَلَّلَ النَّاسَ بِتَقْصِيرِهِ حَمَلَ أَوْزَارَهُمْ إِلَى يَوْمِ الْقِيَامَةِ»
-```
+> قَالَ الإِمَامُ الآجُرِّيُّ فِي «أَخْلاقِ الْعُلَمَاءِ»: «وَاجِبٌ عَلَى كُلِّ مَنْ صَنَّفَ كِتَابًا فِي الْعِلْمِ أَنْ يَكُونَ قَصْدُهُ النَّصِيحَةَ لِلَّهِ وَلِكِتَابِهِ وَلِرَسُولِهِ وَلِأَئِمَّةِ الْمُسْلِمِينَ وَعَامَّتِهِمْ، وَأَنْ يَتَوَقَّى التَّسَرُّعَ قَبْلَ الإِحْكَامِ، وَأَنْ يَحْذَرَ كُلَّ الْحَذَرِ مِنِ انْتِحَالِ أَقْوَالِ غَيْرِهِ؛ فَإِنَّ الْمُنْتَحِلَ شَاهِدُ زُورٍ، وَمَنْ أَلَّفَ غَثًّا أَوْ ضَلَّلَ النَّاسَ بِتَقْصِيرِهِ حَمَلَ أَوْزَارَهُمْ إِلَى يَوْمِ الْقِيَامَةِ»
 
 *Terjemah Maknawi:*
 > *"Wajib bagi setiap orang yang mengarang kitab keilmuan untuk meluruskan niatnya semata-mata memberi nasihat tulus karena Allah, kitab-Nya, rasul-Nya, serta para pemimpin kaum muslimin dan orang awam mereka. Wajib baginya menjauhi sikap tergesa-gesa memamerkan karya sebelum kokoh penelitinya, dan sangat berhati-hati dari mencuri perkataan orang lain tanpa sanad. Sesungguhnya penjiplak adalah saksi palsu; dan barangsiapa menyusun risalah yang dangkal (ghats-tsan) atau menyesatkan manusia akibat kemalasannya, ia akan memikul dosa mereka hingga hari kiamat."*

@@ -67,9 +67,8 @@ Khazanah pemikiran Islam klasik tidak pernah memandang akhlak sebagai gumpalan a
 ### 4.1. Taksonomi Ummahat al-Fadhail Ibnu Miskawaih
 Filsuf dan pakar etika Islam kenamaan, Abu Ali Ahmad bin Muhammad bin Miskawaih (w. 421 H) dalam mahakaryanya *Tahdzib al-Akhlaq wa Tath-hir al-A'raq* membedah bahwa seluruh kemuliaan budi pekerti manusia berakar pada empat induk kapasitas keutamaan jiwa (*Ummahat al-Fadhail*):
 
-```arabic
-أُمَّهَاتُ الْفَضَائِلِ أَرْبَعٌ، لِأَنَّهَا تَابِعَةٌ لِقُوَى النَّفْسِ الثَّلَاثِ وَانْتِظَامِهَا: الْحِكْمَةُ، وَالشَّجَاعَةُ، وَالْعِفَّةُ، وَالْعَدْلُ؛ فَالْحِكْمَةُ فَضِيلَةُ النَّفْسِ النَّاطِقَةِ التَّمْيِيزِيَّةِ، وَالشَّجَاعَةُ فَضِيلَةُ النَّفْسِ الْغَضَبِيَّةِ إِذَا انْقَادَتْ لِلْعَقْلِ، وَالْعِفَّةُ فَضِيلَةُ النَّفْسِ الشَّهْوِيَّةِ إِذَا تَأَدَّبَتْ بِالشَّرْعِ، وَالْعَدْلُ تَمَامُ انْتِظَامِ هَذِهِ الْقُوَى كُلِّهَا... وَتَحْتَ كُلِّ وَاحِدَةٍ مِنْ هَذِهِ الْأُمَّهَاتِ أَجْنَاسٌ مِنَ الْأَفْعَالِ وَالْمَلَكَاتِ تَتَمَظْهَرُ فِي السُّلُوكِ الظَّاهِرِ
-```
+> أُمَّهَاتُ الْفَضَائِلِ أَرْبَعٌ، لِأَنَّهَا تَابِعَةٌ لِقُوَى النَّفْسِ الثَّلَاثِ وَانْتِظَامِهَا: الْحِكْمَةُ، وَالشَّجَاعَةُ، وَالْعِفَّةُ، وَالْعَدْلُ؛ فَالْحِكْمَةُ فَضِيلَةُ النَّفْسِ النَّاطِقَةِ التَّمْيِيزِيَّةِ، وَالشَّجَاعَةُ فَضِيلَةُ النَّفْسِ الْغَضَبِيَّةِ إِذَا انْقَادَتْ لِلْعَقْلِ، وَالْعِفَّةُ فَضِيلَةُ النَّفْسِ الشَّهْوِيَّةِ إِذَا تَأَدَّبَتْ بِالشَّرْعِ، وَالْعَدْلُ تَمَامُ انْتِظَامِ هَذِهِ الْقُوَى كُلِّهَا... وَتَحْتَ كُلِّ وَاحِدَةٍ مِنْ هَذِهِ الْأُمَّهَاتِ أَجْنَاسٌ مِنَ الْأَفْعَالِ وَالْمَلَكَاتِ تَتَمَظْهَرُ فِي السُّلُوكِ الظَّاهِرِ
+
 *(Induk keutamaan akhlak itu ada empat, karena ia mengikuti tiga potensi daya jiwa dan keteraturannya: Al-Hikmah [Kebijaksanaan Nalar], Asy-Syaja'ah [Keberanian Mental yang Terukur], Al-'Iffah [Kesucian dan Kendali Syahwat], dan Al-'Adl [Keadilan yang Harmonis]. Hikmah adalah keutamaan jiwa nalar pembeda; Syaja'ah adalah keutamaan daya amarah apabila tunduk di bawah kendali akal; 'Iffah adalah keutamaan daya syahwat apabila terdidik oleh syariat; dan 'Adl adalah kesempurnaan keteraturan dari seluruh daya jiwa tersebut... Dan di bawah setiap induk keutamaan ini terdapat cabang-cabang perbuatan dan kapasitas membatin yang mewujud dalam perilaku lahiriah yang teramati).*  
 — **Ibnu Miskawaih**, *Tahdzib al-Akhlaq*, Hal. 38.[^1]
 
@@ -78,9 +77,8 @@ Ibnu Miskawaih membuktikan secara filosofis bahwa adab bukanlah hal yang serba k
 ### 4.2. Kaidah Ushul Fiqih: Al-Amarat azh-Zhahirah Penuntun Penegakan Hukum
 Dalam kaidah ushul fiqih dan siyasah syar'iyyah yang dirumuskan secara gemilang oleh Syaikhul Islam Ibnu Taimiyyah (w. 728 H) dalam *Al-Qawa'id an-Nuraniyyah*:
 
-```arabic
-إِنَّ الْأُمُورَ الْبَاطِنَةَ مِنَ النِّيَّاتِ وَالْمَقَاصِدِ وَالْإِخْلَاصِ لَا يُمْكِنُ تَعْلِيقُ أَحْكَامِ الدُّنْيَا عَلَيْهَا؛ لِأَنَّهَا مِمَّا لَا يَعْلَمُهُ إِلَّا اللَّهُ تَعَالَى؛ فَلِذَلِكَ أَقَامَ الشَّرْعُ الْأَمَارَاتِ الظَّاهِرَةَ وَالْأَفْعَالَ الْمَنْضَبِطَةَ مَقَامَهَا فِي الْحُكْمِ وَالتَّرْتِيبِ؛ وَهَذَا أَصْلٌ فِي تَرْتِيبِ الْمَسْؤُولِيَّاتِ
-```
+> إِنَّ الْأُمُورَ الْبَاطِنَةَ مِنَ النِّيَّاتِ وَالْمَقَاصِدِ وَالْإِخْلَاصِ لَا يُمْكِنُ تَعْلِيقُ أَحْكَامِ الدُّنْيَا عَلَيْهَا؛ لِأَنَّهَا مِمَّا لَا يَعْلَمُهُ إِلَّا اللَّهُ تَعَالَى؛ فَلِذَلِكَ أَقَامَ الشَّرْعُ الْأَمَارَاتِ الظَّاهِرَةَ وَالْأَفْعَالَ الْمَنْضَبِطَةَ مَقَامَهَا فِي الْحُكْمِ وَالتَّرْتِيبِ؛ وَهَذَا أَصْلٌ فِي تَرْتِيبِ الْمَسْؤُولِيَّاتِ
+
 *(Sesungguhnya perkara-perkara batin berupa niat, motif hati, dan kemurnian ikhlas tidak mungkin dijadikan sandaran bagi hukum-hukum muamalah duniawi secara langsung; karena hal itu termasuk perkara gaib yang tidak diketahui melainkan oleh Allah Ta'ala semata. Oleh karena itu, syariat mendirikan tanda-tanda lahiriah yang terukur [al-amarat azh-zhahirah] dan perbuatan-perbuatan yang terdefinisi batasan-batasannya sebagai pengganti kedudukan perkara batin tersebut dalam penetapan hukum dan penataan aturan sosial; dan inilah kaidah pokok dalam penataan tanggung jawab masyarakat).*  
 — **Ibnu Taimiyyah**, *Al-Qawa'id an-Nuraniyyah al-Fiqhiyyah*, Hal. 112.[^2]
 

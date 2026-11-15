@@ -126,103 +126,99 @@ Wahyu Islam menetapkan bahwa nilai hakiki dari suatu ilmu diukur semata-mata dar
 
 1. **Kecaman Keras atas Ucapan Tanpa Pengamalan:**  
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۝ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ
-
-   ```  
-
-   > *"Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan? Sangat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan."* (QS. Ash-Shaff: 2–3).  
-
-   Ayat ini menjadi dasar epistemologis penolakan terhadap pemisahan antara kurikulum teori di kelas dengan praktik adab di asrama.
-
-
-
-2. **Tiga Derajat Keyakinan dalam Al-Qur'an:**  
-
-   Al-Qur'an memetakan hierarki kedalaman pengetahuan:
-
-   - **'Ilmul Yaqin** (Tingkat Nalar Informasi): *"Sekali-kali tidak! Sekiranya kamu mengetahui dengan pengetahuan yang yakin ('ilmal yaqin)."* (QS. At-Takatsur: 5).
-
-   - **'Ainul Yaqin** (Tingkat Penyaksian & Pengalaman Langsung): *"Dan sesungguhnya kamu benar-benar akan melihatnya dengan 'ainul yaqin (penglihatan yang yakin)."* (QS. At-Takatsur: 7).
-
-   - **Haqqul Yaqin** (Tingkat Penghayatan Menyatu Total): *"Sesungguhnya (yang disebutkan ini) adalah suatu kebenaran yang yakin (haqqul yaqin)."* (QS. Al-Waqi'ah: 95).
-
-
-
-3. **Doa Rasulullah ﷺ Berlindung dari Ilmu yang Tidak Bermanfaat:**  
-
-   ```arabic
-
-   اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا
-
-   ```  
-
-   > *Doa Rasulullah ﷺ: "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, dari hati yang tidak khusyuk, dari jiwa yang tidak pernah puas, dan dari doa yang tidak dikabulkan!"* (HR. Muslim no. 2722).  
-
-   Ilmu yang tidak bermanfaat (*'ilm la yanfa'*) adalah ilmu yang berhenti di lidah dan otak tanpa mentransformasi karakter pelakunya.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Neurosains Kognitif / Teori Pembiasaan Kebiasaan
-
-
-
-Sains kognitif modern dan neurobiologi membedah bagaimana informasi kognitif bermutasi menjadi kebiasaan otomatis:
-
-
-
-1. **Transisi Memori Eksplisit ke Memori Implisit-Prosedural (*Squire, 2004*):**  
-
-   Larry Squire membuktikan bahwa otak memiliki dua sistem memori: **Memori Deklaratif/Eksplisit** (diatur oleh hipokampus: mengingat dalil, menghafal fakta kaidah) dan **Memori Prosedural/Implisit** (diatur oleh basal ganglia dan cerebellum: keterampilan otomatis seperti bersepeda atau adab spontan). Pembelajaran adab yang hanya mengandalkan ceramah di kelas hanya mengisi hipokampus. Karakter sejati baru terbentuk ketika sirkuit *basal ganglia* dilatih melalui pembiasaan harian 24 jam berulang (*deliberate habituation*) hingga menjadi sifat kedua (*second nature*).
-
-
-
-2. **Pembentukan *Hebbian Plasticity* & Otomatisasi Perilaku (*Donald Hebb; Wood & Neal, 2009*):**  
-
-   Kaidah *"neurons that fire together, wire together"*: ketika sebuah tindakan adab (misal: menyapa dengan senyum dan merapikan kasur) dilakukan secara konsisten dalam konteks lingkungan yang stabil (*cue-routine-reward loop*), beban kognitif korteks prefrontal menurun drastis. Perilaku tersebut tidak lagi memerlukan pengambilan keputusan yang melelahkan, melainkan menjadi tindakan spontan tanpa mikir (*habitual automaticity*).
-
-
-
-3. **Internalisasi Nilai & *Self-Determination Theory* (Deci & Ryan):**  
-
-   Perjalanan dari *'Ilm* ke *Yaqin* ke *'Amal* sejalan dengan spektrum motivasi: dari *External Regulation* (amal karena takut musyrif), menuju *Identified Regulation* (paham manfaatnya secara nalar), hingga mencapai *Integrated Regulation* (nilai adab menyatu seutuhnya dengan identitas diri santri).
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Tri-Tingkat Pengetahuan Menuju Karakter Spontan
-
-
-
-| Tingkat Pengetahuan | Dimensi Mental & Ruhani | Wujud dalam Perilaku Santri | Metode Pedagogi Pengasuhan | Indikator Evaluasi Capaian |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **1. Al-'Ilm (Tingkat Kognitif)** | Otak Kiri / Memori Deklaratif (Hipokampus). | Menghafal dalil, mampu menjelaskan rukun dan syarat adab dalam ujian lisan/tulis. | Pengajaran interaktif di kelas, telaah kitab turats, diskusi maqashid. | Skor pemahaman konsep; kelancaran melafalkan dalil syar'i. |
-
-| **2. Al-Yaqin (Tingkat Keyakinan Kalbu)** | Afektif / Kesadaran Batin (*Qalb & Insula*). | Merasakan kebutuhan batin pada adab; merasakan pengawasan Allah (*muraqabah*); malu berbuat maksiat. | Qudwah keteladanan musyrif, tazkiyatun nafs, munajat sahar, dialog refleksi kebapakan. | Kejujuran saat sendiri; konsistensi ibadah tanpa kehadiran musyrif. |
-
-| **3. Al-'Amal (Tingkat Karakter Spontan)** | Memori Prosedural (*Basal Ganglia* / Malakah). | Mempraktikkan adab secara spontan, luwes, dan ikhlas (refleks senyum, thaharah, menolong teman). | Pembiasaan ekosistem 24 jam (*Bi'ah Shalihah*), penugasan khidmah sosial, rotasi piket kamar. | Kemunculan adab spontan di bawah tekanan lelah atau emosi (*spontaneous character*). |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    يَا أَيُّهَا الَّذِينَ آمَنُوا لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ ۝ كَبُرَ مَقْتًا عِندَ اللَّهِ أَن تَقُولُوا مَا لَا تَفْعَلُونَ
+>
+>    ```  
+>
+>    > *"Wahai orang-orang yang beriman! Mengapa kamu mengatakan sesuatu yang tidak kamu kerjakan? Sangat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan."* (QS. Ash-Shaff: 2–3).  
+>
+>    Ayat ini menjadi dasar epistemologis penolakan terhadap pemisahan antara kurikulum teori di kelas dengan praktik adab di asrama.
+>
+>
+>
+> 2. **Tiga Derajat Keyakinan dalam Al-Qur'an:**  
+>
+>    Al-Qur'an memetakan hierarki kedalaman pengetahuan:
+>
+>    - **'Ilmul Yaqin** (Tingkat Nalar Informasi): *"Sekali-kali tidak! Sekiranya kamu mengetahui dengan pengetahuan yang yakin ('ilmal yaqin)."* (QS. At-Takatsur: 5).
+>
+>    - **'Ainul Yaqin** (Tingkat Penyaksian & Pengalaman Langsung): *"Dan sesungguhnya kamu benar-benar akan melihatnya dengan 'ainul yaqin (penglihatan yang yakin)."* (QS. At-Takatsur: 7).
+>
+>    - **Haqqul Yaqin** (Tingkat Penghayatan Menyatu Total): *"Sesungguhnya (yang disebutkan ini) adalah suatu kebenaran yang yakin (haqqul yaqin)."* (QS. Al-Waqi'ah: 95).
+>
+>
+>
+> 3. **Doa Rasulullah ﷺ Berlindung dari Ilmu yang Tidak Bermanfaat:**  
+>
+>
+>    اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا
+>
+>
+>    > *Doa Rasulullah ﷺ: "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, dari hati yang tidak khusyuk, dari jiwa yang tidak pernah puas, dan dari doa yang tidak dikabulkan!"* (HR. Muslim no. 2722).  
+>
+>    Ilmu yang tidak bermanfaat (*'ilm la yanfa'*) adalah ilmu yang berhenti di lidah dan otak tanpa mentransformasi karakter pelakunya.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Neurosains Kognitif / Teori Pembiasaan Kebiasaan
+>
+>
+>
+> Sains kognitif modern dan neurobiologi membedah bagaimana informasi kognitif bermutasi menjadi kebiasaan otomatis:
+>
+>
+>
+> 1. **Transisi Memori Eksplisit ke Memori Implisit-Prosedural (*Squire, 2004*):**  
+>
+>    Larry Squire membuktikan bahwa otak memiliki dua sistem memori: **Memori Deklaratif/Eksplisit** (diatur oleh hipokampus: mengingat dalil, menghafal fakta kaidah) dan **Memori Prosedural/Implisit** (diatur oleh basal ganglia dan cerebellum: keterampilan otomatis seperti bersepeda atau adab spontan). Pembelajaran adab yang hanya mengandalkan ceramah di kelas hanya mengisi hipokampus. Karakter sejati baru terbentuk ketika sirkuit *basal ganglia* dilatih melalui pembiasaan harian 24 jam berulang (*deliberate habituation*) hingga menjadi sifat kedua (*second nature*).
+>
+>
+>
+> 2. **Pembentukan *Hebbian Plasticity* & Otomatisasi Perilaku (*Donald Hebb; Wood & Neal, 2009*):**  
+>
+>    Kaidah *"neurons that fire together, wire together"*: ketika sebuah tindakan adab (misal: menyapa dengan senyum dan merapikan kasur) dilakukan secara konsisten dalam konteks lingkungan yang stabil (*cue-routine-reward loop*), beban kognitif korteks prefrontal menurun drastis. Perilaku tersebut tidak lagi memerlukan pengambilan keputusan yang melelahkan, melainkan menjadi tindakan spontan tanpa mikir (*habitual automaticity*).
+>
+>
+>
+> 3. **Internalisasi Nilai & *Self-Determination Theory* (Deci & Ryan):**  
+>
+>    Perjalanan dari *'Ilm* ke *Yaqin* ke *'Amal* sejalan dengan spektrum motivasi: dari *External Regulation* (amal karena takut musyrif), menuju *Identified Regulation* (paham manfaatnya secara nalar), hingga mencapai *Integrated Regulation* (nilai adab menyatu seutuhnya dengan identitas diri santri).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Tri-Tingkat Pengetahuan Menuju Karakter Spontan
+>
+>
+>
+> | Tingkat Pengetahuan | Dimensi Mental & Ruhani | Wujud dalam Perilaku Santri | Metode Pedagogi Pengasuhan | Indikator Evaluasi Capaian |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **1. Al-'Ilm (Tingkat Kognitif)** | Otak Kiri / Memori Deklaratif (Hipokampus). | Menghafal dalil, mampu menjelaskan rukun dan syarat adab dalam ujian lisan/tulis. | Pengajaran interaktif di kelas, telaah kitab turats, diskusi maqashid. | Skor pemahaman konsep; kelancaran melafalkan dalil syar'i. |
+>
+> | **2. Al-Yaqin (Tingkat Keyakinan Kalbu)** | Afektif / Kesadaran Batin (*Qalb & Insula*). | Merasakan kebutuhan batin pada adab; merasakan pengawasan Allah (*muraqabah*); malu berbuat maksiat. | Qudwah keteladanan musyrif, tazkiyatun nafs, munajat sahar, dialog refleksi kebapakan. | Kejujuran saat sendiri; konsistensi ibadah tanpa kehadiran musyrif. |
+>
+> | **3. Al-'Amal (Tingkat Karakter Spontan)** | Memori Prosedural (*Basal Ganglia* / Malakah). | Mempraktikkan adab secara spontan, luwes, dan ikhlas (refleks senyum, thaharah, menolong teman). | Pembiasaan ekosistem 24 jam (*Bi'ah Shalihah*), penugasan khidmah sosial, rotasi piket kamar. | Kemunculan adab spontan di bawah tekanan lelah atau emosi (*spontaneous character*). |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: INTELEKTUALISME KOGNITIF ]
 
@@ -346,11 +342,7 @@ Para ulama salaf telah merumuskan bahaya pemisahan ilmu dari amal secara sangat 
 
    Mencatat sabda dan atsar kanonik mengenai tuntutan amal:
 
-   ```arabic
-
-   هَتَفَ الْعِلْمُ بِالْعَمَلِ، فَإِنْ أَجَابَهُ وَإِلَّا ارْتَحَلَ
-
-   ```  
+   > هَتَفَ الْعِلْمُ بِالْعَمَلِ، فَإِنْ أَجَابَهُ وَإِلَّا ارْتَحَلَ
 
    > *Atsar masyhur dari Sufyan Ats-Tsauri dan Ali bin Abi Thalib ra: "Ilmu itu memanggil amal; jika amal itu menyahutnya (maka ilmu akan menetap), namun jika tidak menyahutnya, maka ilmu itu akan pergi mengangkat kaki!"* (*Iqtida' al-'Ilm al-'Amal*, no. 39).  
 
@@ -362,11 +354,7 @@ Para ulama salaf telah merumuskan bahaya pemisahan ilmu dari amal secara sangat 
 
    Menjelaskan bagaimana generasi sahabat mengukur ilmu:
 
-   ```arabic
-
-   كَانَ الرَّجُلُ إِذَا طَلَبَ الْعِلْمَ لَمْ يَلْبَثْ أَنْ يُرَى ذَلِكَ فِي بَصَرِهِ وَتَخَشُّعِهِ وَلِسَانِهِ وَيَدِهِ وَصَلَاتِهِ وَزُهْدِهِ
-
-   ```  
+   > كَانَ الرَّجُلُ إِذَا طَلَبَ الْعِلْمَ لَمْ يَلْبَثْ أَنْ يُرَى ذَلِكَ فِي بَصَرِهِ وَتَخَشُّعِهِ وَلِسَانِهِ وَيَدِهِ وَصَلَاتِهِ وَزُهْدِهِ
 
    > *"Dahulu seseorang apabila menuntut ilmu, maka tidak berselang lama hal itu langsung terlihat jejaknya pada pandangan matanya, kekhusyukan jiwanya, lisannya, tangannya, shalatnya, dan kezuhudannya terhadap dunia."*
 
@@ -376,11 +364,7 @@ Para ulama salaf telah merumuskan bahaya pemisahan ilmu dari amal secara sangat 
 
    Menasihati muridnya yang cerdas namun belum mengamalkan ilmunya:
 
-   ```arabic
-
-   أَيُّهَا الْوَلَدُ، لَوْ قَرَأْتَ الْعِلْمَ مِائَةَ سَنَةٍ، وَجَمَعْتَ أَلْفَ كِتَابٍ، لَا تَكُونُ مُسْتَعِدًّا لِرَحْمَةِ اللَّهِ تَعَالَى إِلَّا بِالْعَمَلِ، كَمَا قَالَ تَعَالَى: {وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ}
-
-   ```  
+   > أَيُّهَا الْوَلَدُ، لَوْ قَرَأْتَ الْعِلْمَ مِائَةَ سَنَةٍ، وَجَمَعْتَ أَلْفَ كِتَابٍ، لَا تَكُونُ مُسْتَعِدًّا لِرَحْمَةِ اللَّهِ تَعَالَى إِلَّا بِالْعَمَلِ، كَمَا قَالَ تَعَالَى: {وَأَن لَّيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ}
 
    > *"Wahai anakku! Seandainya engkau membaca ilmu selama seratus tahun dan mengumpulkan seribu kitab, engkau tidak akan siap menyambut rahmat Allah Ta'ala melainkan dengan AMAL perbuatanmu! Sebagaimana firman-Nya: 'Dan bahwa manusia hanya memperoleh apa yang telah diusahakannya'."*
 

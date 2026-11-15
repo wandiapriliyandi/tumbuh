@@ -128,107 +128,101 @@ Syariat Islam membedakan secara tegas antara kedudukan firasat sebagai sinyal pe
 
 1. **Kedudukan Firasat Mukmin dalam Sunnah:**  
 
-   ```arabic
-
-   اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Takutlah kalian terhadap firasat seorang mukmin, karena sesungguhnya ia memandang dengan cahaya Allah."* (HR. At-Tirmidzi no. 3127).  
-
-   Hadits ini mengakui adanya sensitivitas ruhaniyah (*firasah imananiyyah*). Namun, para fukaha sepakat bahwa cahaya firasat ini adalah sarana petunjuk personal (*irsyad fardi*) untuk berbuat kebajikan dan berhati-hati, bukan alat bukti legalitas peradilan (*bukan hujjah qadha'iyyah*).
-
-
-
-2. **Kaidah Kanonik Pembuktian dalam Peradilan Islam:**  
-
-   ```arabic
-
-   الْبَيِّنَةُ عَلَى الْمُدَّعِي، وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Beban pembuktian (bukti faktual/saksi) wajib atas penuduh, dan sumpah wajib atas pihak yang mengingkari (tertuduh)!"* (HR. Al-Bukhari no. 2668 & Muslim no. 1711).  
-
-   Rasulullah ﷺ tidak pernah memvonis seorang sahabat pun atas dasar firasat kenabian beliau, melainkan selalu meminta bukti faktual lahiriah (*bayyinah*).
-
-
-
-3. **Pengakuan Rasulullah ﷺ Menghukumi Berdasarkan Fakta Lahiriah:**  
-
-   ```arabic
-
-   إِنَّمَا أَنَا بَشَرٌ، وَإِنَّكُمْ تَخْتَصِمُونَ إِلَيَّ، وَلَعَلَّ بَعْضَكُمْ أَنْ يَكُونَ أَلْحَنَ بِحُجَّتِهِ مِنْ بَعْضٍ، فَأَقْضِيَ لَهُ عَلَى نَحْوِ مَا أَسْمَعُ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Sesungguhnya aku hanyalah manusia biasa, dan kalian bersengketa di hadapanku. Boleh jadi sebagian kalian lebih pandai bersilat lidah dalam menyampaikan hujjahnya daripada yang lain, lalu aku memutuskan perkara untuknya berdasarkan apa yang aku dengar..."* (HR. Al-Bukhari no. 2458 & Muslim no. 1713).  
-
-   Jika Rasulullah ﷺ yang menerima wahyu saja memutuskan perkara berdasarkan data lahiriah yang didengar dan dilihat, bagaimana mungkin seorang pengasuh asrama berani memvonis santri hanya berdasarkan firasat batinnya?
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Neurosains Kognitif / Teori Intuisi
-
-
-
-Sains kognitif modern memberikan pemahaman ilmiah mengenai mekanisme kerja intuisi manusia:
-
-
-
-1. **Intuisi sebagai Pengenalan Pola Cepat (*Dual-Process Theory - Daniel Kahneman*):**  
-
-   Dalam teori Kahneman (2011), intuisi adalah produk dari **Sistem 1 (Fast Thinking)**: otak bawah sadar memproses ribuan pola mikro dari pengalaman masa lalu (*thin-slicing / heuristics*) dalam hitungan milidetik. Firasat musyrif senior yang berpengalaman sebenarnya adalah pengenalan pola cepat terhadap perubahan mikro-ekspresi, nada suara, atau gestur santri. Firasat ini bernilai tinggi untuk membunyikan "alarm pencegahan", namun sangat rentan terhadap bias konfirmasi jika tidak diverifikasi oleh **Sistem 2 (Slow, Analytical Thinking)**.
-
-
-
-2. **Neurobiologi *Somatic Markers* (*Antonio Damasio - Descartes' Error*):**  
-
-   Damasio membuktikan bahwa sinyal tubuh (*gut feelings / somatic markers*) yang dikirimkan oleh sistem saraf enterik dan insula ke otak membantu manusia mendeteksi bahaya sebelum disadari secara sadar. Firasat pengasuh bahwa "ada sesuatu yang tidak beres di kamar 4" sering kali merupakan respon biologis terhadap ketegangan interpersonal yang tertangkap indra tepi (*peripheral senses*).
-
-
-
-3. **Bahaya Efek *Dunning-Kruger* dalam Klaim Intuisi:**  
-
-   Musyrif muda yang kurang pengalaman sering kali mengacaukan antara prasangka emosionalnya sendiri dengan "firasat spiritual". Kegagalan membedakan ini melahirkan vonis salah yang merusak kepercayaan santri secara masif.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Demarkasi Firasat vs Bukti Faktual di Asrama
-
-
-
-| Dimensi Penanganan Masalah | Penyimpangan Lapangan (Tirani Firasat) | Pendekatan Kanonik TUMBUH v2.0.0 | Tingkat Kepastian Epistemik |
-
-| :--- | :--- | :--- | :--- |
-
-| **Pendeteksian Awal Krisis** | Mengabaikan firasat musyrif karena belum ada laporan formal santri. | Firasat dijadikan alarm awal: musyrif segera meningkatkan kehadiran hangat dan observasi suportif. | *Zhann Irsyadi* (Dugaan penuntun pencegahan primer). |
-
-| **Pemanggilan Santri untuk Klarifikasi** | Memanggil santri dan langsung menuduh: *"Ustadz punya firasat kamu yang merusak pintu!"* | Wawancara dialogis terbuka tanpa tuduhan: menanyakan kabar santri dan mengumpulkan data faktual. | *Istiksyāf* (Eksplorasi faktual objektif). |
-
-| **Penetapan Status Kesalahan** | Memvonis bersalah hanya karena "hati ustadz merasa dia pelakunya". | Status kesalahan **hanya sah** jika memenuhi ambang bukti fisik, pengakuan bebas, atau 2 saksi adil. | *Yaqīn / Qath'i* (Kepastian hukum tanpa keraguan). |
-
-| **Penjatuhan Konsekuensi Restoratif** | Menjatuhkan sanksi disiplin atas dasar kecurigaan firasat. | Dilarang keras menjatuhkan sanksi apa pun jika bukti faktual tidak mencukupi (*Idra'ul 'uqubat*). | Keadilan Syar'i Mutlak (*Al-'Adl asy-Syar'i*). |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    اتَّقُوا فِرَاسَةَ الْمُؤْمِنِ فَإِنَّهُ يَنْظُرُ بِنُورِ اللَّهِ
+>
+>    ```  
+>
+>    > *Sabda Rasulullah ﷺ: "Takutlah kalian terhadap firasat seorang mukmin, karena sesungguhnya ia memandang dengan cahaya Allah."* (HR. At-Tirmidzi no. 3127).  
+>
+>    Hadits ini mengakui adanya sensitivitas ruhaniyah (*firasah imananiyyah*). Namun, para fukaha sepakat bahwa cahaya firasat ini adalah sarana petunjuk personal (*irsyad fardi*) untuk berbuat kebajikan dan berhati-hati, bukan alat bukti legalitas peradilan (*bukan hujjah qadha'iyyah*).
+>
+>
+>
+> 2. **Kaidah Kanonik Pembuktian dalam Peradilan Islam:**  
+>
+>
+>    الْبَيِّنَةُ عَلَى الْمُدَّعِي، وَالْيَمِينُ عَلَى مَنْ أَنْكَرَ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Beban pembuktian (bukti faktual/saksi) wajib atas penuduh, dan sumpah wajib atas pihak yang mengingkari (tertuduh)!"* (HR. Al-Bukhari no. 2668 & Muslim no. 1711).  
+>
+>    Rasulullah ﷺ tidak pernah memvonis seorang sahabat pun atas dasar firasat kenabian beliau, melainkan selalu meminta bukti faktual lahiriah (*bayyinah*).
+>
+>
+>
+> 3. **Pengakuan Rasulullah ﷺ Menghukumi Berdasarkan Fakta Lahiriah:**  
+>
+>
+>    إِنَّمَا أَنَا بَشَرٌ، وَإِنَّكُمْ تَخْتَصِمُونَ إِلَيَّ، وَلَعَلَّ بَعْضَكُمْ أَنْ يَكُونَ أَلْحَنَ بِحُجَّتِهِ مِنْ بَعْضٍ، فَأَقْضِيَ لَهُ عَلَى نَحْوِ مَا أَسْمَعُ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Sesungguhnya aku hanyalah manusia biasa, dan kalian bersengketa di hadapanku. Boleh jadi sebagian kalian lebih pandai bersilat lidah dalam menyampaikan hujjahnya daripada yang lain, lalu aku memutuskan perkara untuknya berdasarkan apa yang aku dengar..."* (HR. Al-Bukhari no. 2458 & Muslim no. 1713).  
+>
+>    Jika Rasulullah ﷺ yang menerima wahyu saja memutuskan perkara berdasarkan data lahiriah yang didengar dan dilihat, bagaimana mungkin seorang pengasuh asrama berani memvonis santri hanya berdasarkan firasat batinnya?
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Neurosains Kognitif / Teori Intuisi
+>
+>
+>
+> Sains kognitif modern memberikan pemahaman ilmiah mengenai mekanisme kerja intuisi manusia:
+>
+>
+>
+> 1. **Intuisi sebagai Pengenalan Pola Cepat (*Dual-Process Theory - Daniel Kahneman*):**  
+>
+>    Dalam teori Kahneman (2011), intuisi adalah produk dari **Sistem 1 (Fast Thinking)**: otak bawah sadar memproses ribuan pola mikro dari pengalaman masa lalu (*thin-slicing / heuristics*) dalam hitungan milidetik. Firasat musyrif senior yang berpengalaman sebenarnya adalah pengenalan pola cepat terhadap perubahan mikro-ekspresi, nada suara, atau gestur santri. Firasat ini bernilai tinggi untuk membunyikan "alarm pencegahan", namun sangat rentan terhadap bias konfirmasi jika tidak diverifikasi oleh **Sistem 2 (Slow, Analytical Thinking)**.
+>
+>
+>
+> 2. **Neurobiologi *Somatic Markers* (*Antonio Damasio - Descartes' Error*):**  
+>
+>    Damasio membuktikan bahwa sinyal tubuh (*gut feelings / somatic markers*) yang dikirimkan oleh sistem saraf enterik dan insula ke otak membantu manusia mendeteksi bahaya sebelum disadari secara sadar. Firasat pengasuh bahwa "ada sesuatu yang tidak beres di kamar 4" sering kali merupakan respon biologis terhadap ketegangan interpersonal yang tertangkap indra tepi (*peripheral senses*).
+>
+>
+>
+> 3. **Bahaya Efek *Dunning-Kruger* dalam Klaim Intuisi:**  
+>
+>    Musyrif muda yang kurang pengalaman sering kali mengacaukan antara prasangka emosionalnya sendiri dengan "firasat spiritual". Kegagalan membedakan ini melahirkan vonis salah yang merusak kepercayaan santri secara masif.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Demarkasi Firasat vs Bukti Faktual di Asrama
+>
+>
+>
+> | Dimensi Penanganan Masalah | Penyimpangan Lapangan (Tirani Firasat) | Pendekatan Kanonik TUMBUH v2.0.0 | Tingkat Kepastian Epistemik |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Pendeteksian Awal Krisis** | Mengabaikan firasat musyrif karena belum ada laporan formal santri. | Firasat dijadikan alarm awal: musyrif segera meningkatkan kehadiran hangat dan observasi suportif. | *Zhann Irsyadi* (Dugaan penuntun pencegahan primer). |
+>
+> | **Pemanggilan Santri untuk Klarifikasi** | Memanggil santri dan langsung menuduh: *"Ustadz punya firasat kamu yang merusak pintu!"* | Wawancara dialogis terbuka tanpa tuduhan: menanyakan kabar santri dan mengumpulkan data faktual. | *Istiksyāf* (Eksplorasi faktual objektif). |
+>
+> | **Penetapan Status Kesalahan** | Memvonis bersalah hanya karena "hati ustadz merasa dia pelakunya". | Status kesalahan **hanya sah** jika memenuhi ambang bukti fisik, pengakuan bebas, atau 2 saksi adil. | *Yaqīn / Qath'i* (Kepastian hukum tanpa keraguan). |
+>
+> | **Penjatuhan Konsekuensi Restoratif** | Menjatuhkan sanksi disiplin atas dasar kecurigaan firasat. | Dilarang keras menjatuhkan sanksi apa pun jika bukti faktual tidak mencukupi (*Idra'ul 'uqubat*). | Keadilan Syar'i Mutlak (*Al-'Adl asy-Syar'i*). |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: MISTIFIKASI INTUISI MUTLAK ]
 
@@ -348,11 +342,7 @@ Para ulama ushul dan fukaha telah mengkaji batas penerimaan firasat dalam hukum:
 
    Menegaskan batas tegas antara firasat qadhi dan vonis hukum:
 
-   ```arabic
-
-   الْفِرَاسَةُ لَا يُحْكَمُ بِهَا وَحْدَهَا فِي إِثْبَاتِ حَدٍّ وَلَا حَقٍّ، وَإِنَّمَا يَسْتَدِلُّ بِهَا الْحَاكِمُ عَلَى مَعْرِفَةِ مَوَاضِعِ التُّهْمَةِ وَكَشْفِ الْحَقِيقَةِ، ثُمَّ لَا يَقْضِي إِلَّا بِالْبَيِّنَةِ الْعَادِلَةِ أَوِ الْإِقْرَارِ الصَّحِيحِ
-
-   ```  
+   > الْفِرَاسَةُ لَا يُحْكَمُ بِهَا وَحْدَهَا فِي إِثْبَاتِ حَدٍّ وَلَا حَقٍّ، وَإِنَّمَا يَسْتَدِلُّ بِهَا الْحَاكِمُ عَلَى مَعْرِفَةِ مَوَاضِعِ التُّهْمَةِ وَكَشْفِ الْحَقِيقَةِ، ثُمَّ لَا يَقْضِي إِلَّا بِالْبَيِّنَةِ الْعَادِلَةِ أَوِ الْإِقْرَارِ الصَّحِيحِ
 
    > *"Firasat semata-mata tidak boleh dijadikan dasar hukum untuk menetapkan hukuman hadd dan tidak pula untuk menetapkan hak orang lain. Firasat hanyalah digunakan oleh seorang hakim untuk mengenali letak-letak kecurigaan dan menyingkap tabir hakikat, kemudian ia TIDAK BOLEH memutuskan perkara melainkan dengan bukti faktual yang adil (al-bayyinah) atau pengakuan yang sah!"* (*At-Turuq al-Hukmiyyah*, hlm. 14).
 
@@ -362,11 +352,7 @@ Para ulama ushul dan fukaha telah mengkaji batas penerimaan firasat dalam hukum:
 
    Menegaskan bahwa keyakinan kesucian seorang muslim tidak boleh digugurkan oleh keraguan firasat:
 
-   ```arabic
-
-   الْأَصْلُ بَرَاءَةُ الذِّمَّةِ، وَالْيَقِينُ لَا يَزُولُ بِالشَّكِّ، وَالظَّنُّ الْمُجَرَّدُ عَنِ الدَّلِيلِ لَا عِبْرَةَ بِهِ فِي الْأَحْكَامِ
-
-   ```  
+   > الْأَصْلُ بَرَاءَةُ الذِّمَّةِ، وَالْيَقِينُ لَا يَزُولُ بِالشَّكِّ، وَالظَّنُّ الْمُجَرَّدُ عَنِ الدَّلِيلِ لَا عِبْرَةَ بِهِ فِي الْأَحْكَامِ
 
    > *"Hukum asal seseorang adalah terbebas dari tanggungan (tidak bersalah). Kepastian tidak dapat digugurkan oleh keraguan. Dan persangkaan yang hampa dari dalil faktual sama sekali tidak dianggap dalam penetapan hukum!"*
 

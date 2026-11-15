@@ -61,10 +61,7 @@ Tradisi intelektual Islam klasik memiliki kedalaman epistemologis yang luar bias
 ### 4.1. Takhrij Hadits Nubuwwah tentang Mujaddid Peradaban
 Landasan tekstual utama bagi doktrin pembaruan berkala dalam Islam bertumpu pada hadits shahih yang diriwayatkan dari sahabat mulia Abu Hurairah radhiyallahu 'anhu, bahwasanya Rasulullah ﷺ bersabda:
 
-```text
-عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ:
-«إِنَّ اللَّهَ يَبْعَثُ لِهَذِهِ الأُمَّةِ عَلَى رَأْسِ كُلِّ مِائَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دِينَهَا»
-```
+> عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: «إِنَّ اللَّهَ يَبْعَثُ لِهَذِهِ الأُمَّةِ عَلَى رَأْسِ كُلِّ مِائَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دِينَهَا»
 
 *Takhrij Hadits Ilmiah:*
 - **Perawi Utama:** Imam Abu Dawud Sulaiman bin Al-Asy'ats As-Sijistani dalam kitab monumentalnya *Sunan Abi Dawud*, Kitab *Al-Malahim*, Bab *Ma Yudzkaru fi Qarni al-Mi'ah*, Hadits nomor 4291 (Jilid 6, hlm. 378, edisi tahqiq Syaikh Syu'aib Al-Arnauth).
@@ -81,10 +78,7 @@ Hadits ini membuktikan bahwa pembaruan berkala terhadap sarana tata kelola kelem
 ### 4.2. Ontologi Tajdid Shah Waliullah Ad-Dahlawi: Al-Jauhar al-Ashli vs Ash-Shurah at-Tanzhimiyyah
 Dalam magnum opusnya *Hujjatullah al-Balighah* (Jilid 1, hlm. 8–32), Al-Imam Al-Kabir Shah Waliullah Ahmad bin Abdurrahim Ad-Dahlawi meletakkan fondasi filosofi hukum Islam yang membedakan secara tegas antara dua dimensi dalam peradaban syariat:
 
-```text
-قَالَ الإِمَامُ شَاه وَلِيُّ اللَّهِ الدَّهْلَوِيُّ فِي «حُجَّةِ اللَّهِ الْبَالِغَةِ»:
-«وَاعْلَمْ أَنَّ أَصْلَ الدِّينِ وَاحِدٌ فِي جَمِيعِ الشَّرَائِعِ، وَهُوَ الْجَوْهَرُ الأَصْلِيُّ الْمُتَعَلِّقُ بِتَزْكِيَةِ النَّفْسِ وَإِقَامَةِ الْعَدْلِ وَالْعُبُودِيَّةِ، وَإِنَّمَا وَقَعَ الاخْتِلافُ فِي الصُّوَرِ التَّنْظِيمِيَّةِ وَالْمَنَاهِجِ الإِرْتِفَاقِيَّةِ بِحَسَبِ اسْتِعْدَادِ الأَقْوَامِ وَأَحْوَالِ الأَزْمَانِ»
-```
+> قَالَ الإِمَامُ شَاه وَلِيُّ اللَّهِ الدَّهْلَوِيُّ فِي «حُجَّةِ اللَّهِ الْبَالِغَةِ»: «وَاعْلَمْ أَنَّ أَصْلَ الدِّينِ وَاحِدٌ فِي جَمِيعِ الشَّرَائِعِ، وَهُوَ الْجَوْهَرُ الأَصْلِيُّ الْمُتَعَلِّقُ بِتَزْكِيَةِ النَّفْسِ وَإِقَامَةِ الْعَدْلِ وَالْعُبُودِيَّةِ، وَإِنَّمَا وَقَعَ الاخْتِلافُ فِي الصُّوَرِ التَّنْظِيمِيَّةِ وَالْمَنَاهِجِ الإِرْتِفَاقِيَّةِ بِحَسَبِ اسْتِعْدَادِ الأَقْوَامِ وَأَحْوَالِ الأَزْمَانِ»
 
 *Terjemah Maknawi:*
 > *"Ketahuilah bahwasanya pokok agama adalah satu pada seluruh syariat, yaitu intisari substantif (al-jauhar al-ashli) yang bertumpu pada penyucian jiwa (tazkiyatun nafs), penegakan keadilan (iqamatul 'adl), dan penghambaan diri kepada Allah (al-'ubudiyyah). Perbedaan hanyalah terjadi pada bentuk-bentuk organisasional (ash-shuwar at-tanzhimiyyah) dan rekayasa sarana kehidupan (al-manahij al-irtifaqiyyah) sesuai dengan kapasitas kesiapan peradaban manusia dan dinamika perkembangan zaman."*
@@ -94,10 +88,7 @@ Konsep *irtifaqat* (tahapan evolusi sosiokultural) Ad-Dahlawi mengukuhkan bahwa 
 ### 4.3. Kaidah Istishhab dan Batas-Batas Berlakunya menurut Imam Al-Ghazali
 Imam Hujjatul Islam Abu Hamid Muhammad bin Muhammad Al-Ghazali dalam karya ushul fiqih terbesarnya *Al-Mustashfa min 'Ilm al-Ushul* (Jilid 1, hlm. 217–234) menjelaskan hakikat dalil *istishhab*:
 
-```text
-قَالَ الإِمَامُ أَبُو حَامِدٍ الْغَزَالِيُّ فِي «الْمُسْتَصْفَى»:
-«الاسْتِصْحَابُ هُوَ عِبَارَةٌ عَنِ الْحُكْمِ بِبَقَاءِ أَمْرٍ عَلَى مَا كَانَ عَلَيْهِ لِعَدَمِ الْعِلْمِ بِمُغَيِّرِهِ، وَهُوَ آخِرُ مَدَارِ الْفَتْوَى؛ فَإِنَّ الْمُجْتَهِدَ إِذَا سُئِلَ عَنْ حَادِثَةٍ طَلَبَ حُكْمَهَا فِي الْكِتَابِ ثُمَّ فِي السُّنَّةِ ثُمَّ فِي الإِجْمَاعِ ثُمَّ فِي الْقِيَاسِ، فَإِنْ لَمْ يَجِدْ تَمَسَّكَ بِاسْتِصْحَابِ الْحَالِ»
-```
+> قَالَ الإِمَامُ أَبُو حَامِدٍ الْغَزَالِيُّ فِي «الْمُسْتَصْفَى»: «الاسْتِصْحَابُ هُوَ عِبَارَةٌ عَنِ الْحُكْمِ بِبَقَاءِ أَمْرٍ عَلَى مَا كَانَ عَلَيْهِ لِعَدَمِ الْعِلْمِ بِمُغَيِّرِهِ، وَهُوَ آخِرُ مَدَارِ الْفَتْوَى؛ فَإِنَّ الْمُجْتَهِدَ إِذَا سُئِلَ عَنْ حَادِثَةٍ طَلَبَ حُكْمَهَا فِي الْكِتَابِ ثُمَّ فِي السُّنَّةِ ثُمَّ فِي الإِجْمَاعِ ثُمَّ فِي الْقِيَاسِ، فَإِنْ لَمْ يَجِدْ تَمَسَّكَ بِاسْتِصْحَابِ الْحَالِ»
 
 *Terjemah Maknawi:*
 > *"Istishhab adalah ungkapan untuk menetapkan keberlangsungan suatu perkara atas keadaannya yang semula karena tidak adanya pengetahuan mengenai dalil yang mengubahnya. Ia merupakan muara akhir pengambilan fatwa; seorang mujtahid apabila ditanya tentang suatu peristiwa baru, ia mencari hukumnya dalam Al-Qur'an, kemudian As-Sunnah, kemudian Ijma', kemudian Qiyas. Jika ia tidak menemukannya, barulah ia berpegang teguh pada istishhab al-hal (keberlanjutan kondisi asal)."*

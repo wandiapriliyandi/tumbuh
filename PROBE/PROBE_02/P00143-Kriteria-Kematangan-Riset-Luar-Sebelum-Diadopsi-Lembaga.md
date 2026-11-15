@@ -128,107 +128,101 @@ Tradisi intelektual Islam memiliki protokol yang sangat kokoh dalam menyaring pe
 
 1. **Hikmah Adalah Barang Hilang Orang Beriman:**  
 
-   ```arabic
-
-   الْكَلِمَةُ الْحِكْمَةُ ضَالَّةُ الْمُؤْمِنِ، فَحَيْثُ وَجَدَهَا فَهُوَ أَحَقُّ بِهَا
-
-   ```  
-
-   > *Diriwayatkan dalam atsar hikmah masyhur (HR. At-Tirmidzi no. 2687 & Ibnu Majah): "Kalimat hikmah adalah barang hilang milik orang yang beriman; di mana pun ia menemukannya, maka dialah yang paling berhak atasnya."*  
-
-   Prinsip ini menegaskan keterbukaan Islam menerima penemuan sains empiris yang terbukti benar, dari peradaban mana pun asalnya.
-
-
-
-2. **Perintah Menimbang dengan Neraca yang Lurus (*Al-Qisthas al-Mustaqim*):**  
-
-   ```arabic
-
-   وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
-
-   ```  
-
-   > *"Dan sempurnakanlah takaran apabila kamu menakar, dan timbanglah dengan neraca yang benar (lurus). Itulah yang lebih utama (bagimu) dan lebih baik akibatnya."* (QS. Al-Isra': 35).  
-
-   Neraca lurus dalam tarbiyah adalah Al-Qur'an dan Sunnah: setiap teori dari timur maupun barat wajib ditimbang di atas timbangan syariat sebelum diterapkan kepada santri.
-
-
-
-3. **Kaidah Tabayyun Menghadapi Klaim Ilmiah Baru:**  
-
-   ```arabic
-
-   قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ
-
-   ```  
-
-   > *"Katakanlah (wahai Muhammad): Tunjukkanlah bukti kebenaranmu jika kamu orang-orang yang benar!"* (QS. Al-Baqarah: 111).  
-
-   Klaim bahwa suatu metode luar "efektif dan terbukti" wajib dibuktikan dengan data empiris yang sahih, bukan sekadar brosur promosi konsultan.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Metodologi Riset / Filsafat Ilmu
-
-
-
-Filsafat sains kontemporer menyediakan kriteria demarkasi antara sains matang vs tren semu:
-
-
-
-1. **Standar Tingkat Kematangan Teori (*Theory Maturity Levels / TRL in Social Sciences*):**  
-
-   Suatu riset pendidikan tidak boleh langsung diterapkan skala penuh jika baru berada pada tahap studi laboratorium awal (*early pilot*). Suatu teori baru dikatakan "matang (*mature*)" apabila memenuhi: (a) Meta-analisis independen berskala besar (bukan riset pesanan), (b) Replikasi konsisten di berbagai negara dan budaya yang berbeda, dan (c) Tingkat pengaruh terukur (*effect size Cohen's d > 0.40*).
-
-
-
-2. **Validitas Ekologis & Bias WEIRD (*Ecological Validity & WEIRD Bias*):**  
-
-   Mayoritas riset psikologi perkembangan modern dilakukan pada subjek WEIRD (*Western, Educated, Industrialized, Rich, Democratic* - Henrich et al., 2010) yang hanya mewakili 12% populasi dunia. Mengadopsi teori pengasuhan anak yang diteliti pada keluarga individualistis di Amerika Utara langsung ke dalam asrama komunal pesantren 24 jam di Indonesia tanpa adaptasi kultural adalah cacat metodologis berat (*ecological invalidity*).
-
-
-
-3. **Prinsip Falsifiabilitas Karl Popper (*Falsifiability & Demarcation*):**  
-
-   Teori yang layak diadopsi adalah teori yang memiliki parameter pengujian yang jelas: kapan teori tersebut dinyatakan berhasil dan kapan dinyatakan gagal. Teori-teori pseudo-sains (seperti tes sidik jari atau ramalan kepribadian warna aura) selalu berlindung di balik klaim kabur yang tidak bisa difalsifikasi secara ilmiah.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Protokol 4 Gerbang Uji Adopsi Riset Luar (TUMBUH v2.0.0)
-
-
-
-| Gerbang Pengujian | Fokus Parameter Uji | Standar Kelayakan Kelulusan (*Pass Threshold*) | Contoh Kasus Uji Teori Luar |
-
-| :--- | :--- | :--- | :--- |
-
-| **Gerbang 1: Uji Keselarasan Worldview & Akidah** | Memeriksa premis ontologis dan antropologis teori terhadap Al-Qur'an & Sunnah. | **100% Selaras:** Teori tidak boleh menafikan adanya ruh, fitrah, hisab akhirat, atau merelatifkan halal-haram. | LULUS: *Self-Determination Theory* (Otonomi fitrah).<br>GAGAL: *Behaviorisme Radikal Skinner* (Menolak jiwa, menganggap manusia binatang refleks). |
-
-| **Gerbang 2: Uji Maturitas Metodologis & Replikasi** | Memeriksa bukti meta-analisis jurnal terindeks Scopus Q1/Q2 dan ketiadaan krisis replikasi. | Didukung minimal 3 meta-analisis independen dengan ukuran sampel representatif; bukan pseudo-sains. | LULUS: *Sleep Science & Sirkadian Remaja*.<br>GAGAL: *Brain-Gym / Neuro-Linguistic Programming (NLP)* (Pseudo-sains tanpa bukti empiris). |
-
-| **Gerbang 3: Uji Keselarasan Ekologis Pesantren 24 Jam** | Memeriksa kelayakan penerapan teori dalam kehidupan komunal asrama Islam. | Teori mampu beradaptasi dengan ritme ibadah, budaya ukhuwah, dan tata kelola asrama tanpa distorsi. | LULUS: *SW-PBIS Multi-Tier & Restorative Justice*.<br>GAGAL: *Extreme Unschooling* (Menghilangkan struktur disiplin asrama). |
-
-| **Gerbang 4: Uji Coba Terbatas (*Controlled Pilot-Testing*)** | Eksperimen skala kecil pada 1–2 kamar asrama selama minimal 1 semester sebelum adopsi penuh. | Menunjukkan peningkatan adab nyata secara statistik signifikan tanpa efek samping negatif (*no iatrogenic harm*). | Wajib melewati audit Master Auditor Kualitas sebelum disahkan menjadi regulasi umum. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    الْكَلِمَةُ الْحِكْمَةُ ضَالَّةُ الْمُؤْمِنِ، فَحَيْثُ وَجَدَهَا فَهُوَ أَحَقُّ بِهَا
+>
+>    ```  
+>
+>    > *Diriwayatkan dalam atsar hikmah masyhur (HR. At-Tirmidzi no. 2687 & Ibnu Majah): "Kalimat hikmah adalah barang hilang milik orang yang beriman; di mana pun ia menemukannya, maka dialah yang paling berhak atasnya."*  
+>
+>    Prinsip ini menegaskan keterbukaan Islam menerima penemuan sains empiris yang terbukti benar, dari peradaban mana pun asalnya.
+>
+>
+>
+> 2. **Perintah Menimbang dengan Neraca yang Lurus (*Al-Qisthas al-Mustaqim*):**  
+>
+>
+>    وَأَوْفُوا الْكَيْلَ إِذَا كِلْتُمْ وَزِنُوا بِالْقِسْطَاسِ الْمُسْتَقِيمِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا
+>
+>
+>    > *"Dan sempurnakanlah takaran apabila kamu menakar, dan timbanglah dengan neraca yang benar (lurus). Itulah yang lebih utama (bagimu) dan lebih baik akibatnya."* (QS. Al-Isra': 35).  
+>
+>    Neraca lurus dalam tarbiyah adalah Al-Qur'an dan Sunnah: setiap teori dari timur maupun barat wajib ditimbang di atas timbangan syariat sebelum diterapkan kepada santri.
+>
+>
+>
+> 3. **Kaidah Tabayyun Menghadapi Klaim Ilmiah Baru:**  
+>
+>
+>    قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ
+>
+>
+>    > *"Katakanlah (wahai Muhammad): Tunjukkanlah bukti kebenaranmu jika kamu orang-orang yang benar!"* (QS. Al-Baqarah: 111).  
+>
+>    Klaim bahwa suatu metode luar "efektif dan terbukti" wajib dibuktikan dengan data empiris yang sahih, bukan sekadar brosur promosi konsultan.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Metodologi Riset / Filsafat Ilmu
+>
+>
+>
+> Filsafat sains kontemporer menyediakan kriteria demarkasi antara sains matang vs tren semu:
+>
+>
+>
+> 1. **Standar Tingkat Kematangan Teori (*Theory Maturity Levels / TRL in Social Sciences*):**  
+>
+>    Suatu riset pendidikan tidak boleh langsung diterapkan skala penuh jika baru berada pada tahap studi laboratorium awal (*early pilot*). Suatu teori baru dikatakan "matang (*mature*)" apabila memenuhi: (a) Meta-analisis independen berskala besar (bukan riset pesanan), (b) Replikasi konsisten di berbagai negara dan budaya yang berbeda, dan (c) Tingkat pengaruh terukur (*effect size Cohen's d > 0.40*).
+>
+>
+>
+> 2. **Validitas Ekologis & Bias WEIRD (*Ecological Validity & WEIRD Bias*):**  
+>
+>    Mayoritas riset psikologi perkembangan modern dilakukan pada subjek WEIRD (*Western, Educated, Industrialized, Rich, Democratic* - Henrich et al., 2010) yang hanya mewakili 12% populasi dunia. Mengadopsi teori pengasuhan anak yang diteliti pada keluarga individualistis di Amerika Utara langsung ke dalam asrama komunal pesantren 24 jam di Indonesia tanpa adaptasi kultural adalah cacat metodologis berat (*ecological invalidity*).
+>
+>
+>
+> 3. **Prinsip Falsifiabilitas Karl Popper (*Falsifiability & Demarcation*):**  
+>
+>    Teori yang layak diadopsi adalah teori yang memiliki parameter pengujian yang jelas: kapan teori tersebut dinyatakan berhasil dan kapan dinyatakan gagal. Teori-teori pseudo-sains (seperti tes sidik jari atau ramalan kepribadian warna aura) selalu berlindung di balik klaim kabur yang tidak bisa difalsifikasi secara ilmiah.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Protokol 4 Gerbang Uji Adopsi Riset Luar (TUMBUH v2.0.0)
+>
+>
+>
+> | Gerbang Pengujian | Fokus Parameter Uji | Standar Kelayakan Kelulusan (*Pass Threshold*) | Contoh Kasus Uji Teori Luar |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Gerbang 1: Uji Keselarasan Worldview & Akidah** | Memeriksa premis ontologis dan antropologis teori terhadap Al-Qur'an & Sunnah. | **100% Selaras:** Teori tidak boleh menafikan adanya ruh, fitrah, hisab akhirat, atau merelatifkan halal-haram. | LULUS: *Self-Determination Theory* (Otonomi fitrah).<br>GAGAL: *Behaviorisme Radikal Skinner* (Menolak jiwa, menganggap manusia binatang refleks). |
+>
+> | **Gerbang 2: Uji Maturitas Metodologis & Replikasi** | Memeriksa bukti meta-analisis jurnal terindeks Scopus Q1/Q2 dan ketiadaan krisis replikasi. | Didukung minimal 3 meta-analisis independen dengan ukuran sampel representatif; bukan pseudo-sains. | LULUS: *Sleep Science & Sirkadian Remaja*.<br>GAGAL: *Brain-Gym / Neuro-Linguistic Programming (NLP)* (Pseudo-sains tanpa bukti empiris). |
+>
+> | **Gerbang 3: Uji Keselarasan Ekologis Pesantren 24 Jam** | Memeriksa kelayakan penerapan teori dalam kehidupan komunal asrama Islam. | Teori mampu beradaptasi dengan ritme ibadah, budaya ukhuwah, dan tata kelola asrama tanpa distorsi. | LULUS: *SW-PBIS Multi-Tier & Restorative Justice*.<br>GAGAL: *Extreme Unschooling* (Menghilangkan struktur disiplin asrama). |
+>
+> | **Gerbang 4: Uji Coba Terbatas (*Controlled Pilot-Testing*)** | Eksperimen skala kecil pada 1–2 kamar asrama selama minimal 1 semester sebelum adopsi penuh. | Menunjukkan peningkatan adab nyata secara statistik signifikan tanpa efek samping negatif (*no iatrogenic harm*). | Wajib melewati audit Master Auditor Kualitas sebelum disahkan menjadi regulasi umum. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: XENOFILIA TEKNOKRATIS ]
 
@@ -342,11 +336,7 @@ Metodologi filtrasi sains luar telah dipraktikkan secara brilian oleh para ulama
 
    Al-Ghazali meletakkan kaidah emas dalam menyikapi filsafat dan sains Yunani pada zamannya:
 
-   ```arabic
-
-   لَا يَنْبَغِي أَنْ يُرَدَّ الْحَقُّ لِكَوْنِ قَائِلِهِ مُبْطِلًا فِي غَيْرِهِ، كَمَا لَا يَنْبَغِي أَنْ يُقْبَلَ الْبَاطِلُ لِكَوْنِ قَائِلِهِ مُحِقًّا فِي غَيْرِهِ، بَلْ تُعْرَفُ الرِّجَالُ بِالْحَقِّ، وَلَا يُعْرَفُ الْحَقُّ بِالرِّجَالِ
-
-   ```  
+   > لَا يَنْبَغِي أَنْ يُرَدَّ الْحَقُّ لِكَوْنِ قَائِلِهِ مُبْطِلًا فِي غَيْرِهِ، كَمَا لَا يَنْبَغِي أَنْ يُقْبَلَ الْبَاطِلُ لِكَوْنِ قَائِلِهِ مُحِقًّا فِي غَيْرِهِ، بَلْ تُعْرَفُ الرِّجَالُ بِالْحَقِّ، وَلَا يُعْرَفُ الْحَقُّ بِالرِّجَالِ
 
    > *"Tidak seyogianya kebenaran ditolak semata-mata karena orang yang mengucapkannya adalah pembawa kebatilan dalam perkara lain; sebagaimana tidak seyogianya kebatilan diterima semata-mata karena orang yang mengucapkannya adalah pembawa kebenaran dalam perkara lain. Melainkan ketahuilah manusia itu melalui tolok ukur kebenaran, dan jangan mengukur kebenaran semata-mata dari figur manusianya!"* (*Al-Munqidz min adh-Dhalal*, Fasal Thabaqat at-Ta'lim).
 

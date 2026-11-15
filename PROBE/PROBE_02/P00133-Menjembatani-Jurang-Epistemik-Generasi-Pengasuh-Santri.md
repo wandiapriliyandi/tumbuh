@@ -130,109 +130,103 @@ Risalah Islam memberikan panduan agung bahwa dakwah dan pendidikan wajib disampa
 
 1. **Perintah Berbicara Sesuai Kadar Akal dan Bahasa Kaumnya:**  
 
-   ```arabic
-
-   وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ
-
-   ```  
-
-   > *"Dan Kami tidak mengutus seorang rasul pun melainkan dengan bahasa kaumnya, agar dia dapat memberi penjelasan kepada mereka..."* (QS. Ibrahim: 4).  
-
-   "Bahasa kaum" (*lisanul qaum*) dalam konteks tarbiyah bukan sekadar tata bahasa verbal daerah, melainkan struktur berpikir, metafora, kecemasan eksistensial, dan dunia mental generasi santri yang sedang diasuh.
-
-
-
-2. **Metodologi Rasulullah ﷺ Menghadapi Nalar Kritis Pemuda:**  
-
-   Dalam riwayat kanonik Musnad Ahmad (no. 22211, sanad shahih), seorang pemuda datang kepada Nabi ﷺ seraya berkata blak-blakan di hadapan para sahabat:
-
-   ```arabic
-
-   يَا رَسُولَ اللَّهِ، ائْذَنْ لِي فِي الزِّنَا!
-
-   ```  
-
-   > *"Wahai Rasulullah, izinkanlah aku untuk berzina!"*  
-
-   Para sahabat tersentak dan hendak menghardiknya: *"Diam kamu! Jangan kurang ajar di depan Nabi!"* Namun Rasulullah ﷺ bersabda dengan kelembutan luar biasa: *"Mendekatlah ke mari."* Beliau tidak memarahi, tidak mencap pemuda itu fasik, melainkan duduk berhadapan dan berdialog menggunakan analogi logika afektif yang menyentuh nurani: *"Apakah engkau rela jika perbuatan itu terjadi pada ibumu? Pada putrimu? Pada saudara perempuanmu?"* Dialog rasional-empik inilah yang menuntaskan syahwat pemuda tersebut hingga ia pulang dengan hati yang mantap membenci zina. Ini adalah prototipe kanonik bagaimana merespon pertanyaan generasi muda yang tabu tanpa menghakimi.
-
-
-
-3. **Atsar Ulama Salaf tentang Kontekstualisasi Zaman:**  
-
-   Imam Sufyan Ats-Tsauri dan Ali bin Abi Thalib ra menegaskan:
-
-   ```arabic
-
-   خَاطِبُوا النَّاسَ بِمَا يَعْرِفُونَ، أَتُحِبُّونَ أَنْ يُكَذَّبَ اللَّهُ وَرَسُولُهُ؟
-
-   ```  
-
-   > *"Ajaklah manusia berbicara dengan apa yang mereka pahami! Apakah kalian suka jika Allah dan Rasul-Nya didustakan (karena kalian menyampaikan dengan cara yang melampaui akal mereka)?"* (HR. Al-Bukhari no. 127).
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Sosiologi Generasi / Teori Kognitif
-
-
-
-Sosiologi kebudayaan dan psikologi perkembangan kontemporer membedah akar perbedaan generasi:
-
-
-
-1. **Teori Generasi & Kohort Sosiologis (*Karl Mannheim, 1952; Twenge, 2017*):**  
-
-   Mannheim membuktikan bahwa individu yang lahir pada rentang waktu yang sama mengalami peristiwa sejarah dan teknologi bersama (*location in generational space*), membentuk kebiasaan mental (*habitus*) yang unik. Santri hari ini tumbuh dalam ekosistem digital hiper-konektivitas; mereka tidak menerima otoritas yang bersifat "diberikan" (*given authority*), melainkan menuntut otoritas yang "dapat dijelaskan rasionalitasnya" (*earned authority*). Menuntut mereka tunduk buta tanpa penjelasan sama dengan memaksakan bahasa asing yang tidak mereka pahami.
-
-
-
-2. **Hermeneutika Fusi Cakrawala (*Hans-Georg Gadamer - Truth and Method*):**  
-
-   Dalam hermeneutika filosofis Gadamer, pemahaman sejati antara dua subjek yang berbeda zaman tidak terjadi melalui penaklukan sepihak (pengasuh memaksa santri menjadi replika masa lalu), melainkan melalui **Peleburan Cakrawala (*Horizontverschmelzung / Fusion of Horizons*)**. Pengasuh membawa kekayaan hikmah turats masa lalu, mendengarkan realitas santri masa kini, lalu bersama-sama merumuskan pemahaman baru yang hidup di titik temu keduanya.
-
-
-
-3. **Kebutuhan Validasi Emosional & Perkembangan Otak Remaja (*Siegel, 2013; Dahl et al., 2018*):**  
-
-   Neurosains perkembangan membuktikan bahwa remaja mengalami pemangkasan sinaptik (*synaptic pruning*) intensif dan lonjakan kepekaan sosial di korteks insular dan *anterior cingulate cortex*. Penolakan atau penghakiman instan dari figur otoritas memicu rasa sakit fisik (*social pain*) yang sama dengan cedera badaniah. Ketika pengasuh memvalidasi emosi santri terlebih dahulu (*attunement*), otak remaja beralih dari mode defensif (*fight/flight*) ke mode receptif untuk menerima nasehat adab.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Friksi Generasi vs Jembatan Pedagogi TUMBUH
-
-
-
-| Titik Friksi Generasi | Pola Reduksi Pengasuh Senior (Gaya Usang) | Respon Santri Generasi Baru (Penyimpangan) | Solusi Jembatan Pedagogi TUMBUH v2.0.0 | Indikator Keberhasilan Tarbiyah |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Penyampaian Pertanyaan Kritis** | Menghardik: *"Jangan banyak tanya! Santri itu sami'na wa atha'na, jangan lancang!"* | Bungkam di depan ustadz, lalu mencari jawaban di forum liberal atau forum anonim online. | Membuka forum *Kafah Dialektika*: musyrif menyambut pertanyaan sulit dengan lapang dada dan riset dalil bersama. | Santri memiliki keteguhan akidah berbasis keyakinan rasional (*iman burhani*), bukan dogma buta. |
-
-| **Kelelahan & Beban Mental** | Mencap santri: *"Kamu kurang ibadah, generasi strawberry, mental tempe!"* | Menarik diri (*withdrawn*), depresi terselubung, atau menyakiti diri (*non-suicidal self-injury*). | Validasi emosi empatik, asesmen beban kognitif terukur, dan pendampingan konseling BK suportif. | Santri merasa asrama adalah rumah perlindungan yang aman; tidak ada rasa terasing. |
-
-| **Pemanfaatan Media & Teknologi** | Melarang mutlak semua media modern dan menganggap teknologi sebagai biang maksiat semata. | Menyelundupkan gawai diam-diam, kecanduan konten gelap tanpa filter etika sama sekali. | Kurikulum Literasi Digital Beradab: mengajarkan etika muraqabah, tabayyun, dan produktivitas dakwah. | Santri memiliki imunitas moral internal (*self-censorship*) dan bijak berteknologi. |
-
-| **Kebutuhan Ruang Ekspresi Diri** | Menuntut keseragaman minat; mematikan bakat santri yang tidak linier dengan gaya lama pondok. | Kehilangan gairah belajar (*apathy*), merasa bakatnya dikubur hidup-hidup oleh pesantren. | Menyediakan wadah ekspresi multitalenta (seni kaligrafi digital, riset sains, literasi naratif, robotika). | Santri bangga dengan identitas santrinya dan percaya diri berkontribusi bagi peradaban. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    وَمَا أَرْسَلْنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوْمِهِ لِيُبَيِّنَ لَهُمْ
+>
+>    ```  
+>
+>    > *"Dan Kami tidak mengutus seorang rasul pun melainkan dengan bahasa kaumnya, agar dia dapat memberi penjelasan kepada mereka..."* (QS. Ibrahim: 4).  
+>
+>    "Bahasa kaum" (*lisanul qaum*) dalam konteks tarbiyah bukan sekadar tata bahasa verbal daerah, melainkan struktur berpikir, metafora, kecemasan eksistensial, dan dunia mental generasi santri yang sedang diasuh.
+>
+>
+>
+> 2. **Metodologi Rasulullah ﷺ Menghadapi Nalar Kritis Pemuda:**  
+>
+>    Dalam riwayat kanonik Musnad Ahmad (no. 22211, sanad shahih), seorang pemuda datang kepada Nabi ﷺ seraya berkata blak-blakan di hadapan para sahabat:
+>
+>
+>    يَا رَسُولَ اللَّهِ، ائْذَنْ لِي فِي الزِّنَا!
+>
+>
+>    > *"Wahai Rasulullah, izinkanlah aku untuk berzina!"*  
+>
+>    Para sahabat tersentak dan hendak menghardiknya: *"Diam kamu! Jangan kurang ajar di depan Nabi!"* Namun Rasulullah ﷺ bersabda dengan kelembutan luar biasa: *"Mendekatlah ke mari."* Beliau tidak memarahi, tidak mencap pemuda itu fasik, melainkan duduk berhadapan dan berdialog menggunakan analogi logika afektif yang menyentuh nurani: *"Apakah engkau rela jika perbuatan itu terjadi pada ibumu? Pada putrimu? Pada saudara perempuanmu?"* Dialog rasional-empik inilah yang menuntaskan syahwat pemuda tersebut hingga ia pulang dengan hati yang mantap membenci zina. Ini adalah prototipe kanonik bagaimana merespon pertanyaan generasi muda yang tabu tanpa menghakimi.
+>
+>
+>
+> 3. **Atsar Ulama Salaf tentang Kontekstualisasi Zaman:**  
+>
+>    Imam Sufyan Ats-Tsauri dan Ali bin Abi Thalib ra menegaskan:
+>
+>
+>    خَاطِبُوا النَّاسَ بِمَا يَعْرِفُونَ، أَتُحِبُّونَ أَنْ يُكَذَّبَ اللَّهُ وَرَسُولُهُ؟
+>
+>
+>    > *"Ajaklah manusia berbicara dengan apa yang mereka pahami! Apakah kalian suka jika Allah dan Rasul-Nya didustakan (karena kalian menyampaikan dengan cara yang melampaui akal mereka)?"* (HR. Al-Bukhari no. 127).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Sosiologi Generasi / Teori Kognitif
+>
+>
+>
+> Sosiologi kebudayaan dan psikologi perkembangan kontemporer membedah akar perbedaan generasi:
+>
+>
+>
+> 1. **Teori Generasi & Kohort Sosiologis (*Karl Mannheim, 1952; Twenge, 2017*):**  
+>
+>    Mannheim membuktikan bahwa individu yang lahir pada rentang waktu yang sama mengalami peristiwa sejarah dan teknologi bersama (*location in generational space*), membentuk kebiasaan mental (*habitus*) yang unik. Santri hari ini tumbuh dalam ekosistem digital hiper-konektivitas; mereka tidak menerima otoritas yang bersifat "diberikan" (*given authority*), melainkan menuntut otoritas yang "dapat dijelaskan rasionalitasnya" (*earned authority*). Menuntut mereka tunduk buta tanpa penjelasan sama dengan memaksakan bahasa asing yang tidak mereka pahami.
+>
+>
+>
+> 2. **Hermeneutika Fusi Cakrawala (*Hans-Georg Gadamer - Truth and Method*):**  
+>
+>    Dalam hermeneutika filosofis Gadamer, pemahaman sejati antara dua subjek yang berbeda zaman tidak terjadi melalui penaklukan sepihak (pengasuh memaksa santri menjadi replika masa lalu), melainkan melalui **Peleburan Cakrawala (*Horizontverschmelzung / Fusion of Horizons*)**. Pengasuh membawa kekayaan hikmah turats masa lalu, mendengarkan realitas santri masa kini, lalu bersama-sama merumuskan pemahaman baru yang hidup di titik temu keduanya.
+>
+>
+>
+> 3. **Kebutuhan Validasi Emosional & Perkembangan Otak Remaja (*Siegel, 2013; Dahl et al., 2018*):**  
+>
+>    Neurosains perkembangan membuktikan bahwa remaja mengalami pemangkasan sinaptik (*synaptic pruning*) intensif dan lonjakan kepekaan sosial di korteks insular dan *anterior cingulate cortex*. Penolakan atau penghakiman instan dari figur otoritas memicu rasa sakit fisik (*social pain*) yang sama dengan cedera badaniah. Ketika pengasuh memvalidasi emosi santri terlebih dahulu (*attunement*), otak remaja beralih dari mode defensif (*fight/flight*) ke mode receptif untuk menerima nasehat adab.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Friksi Generasi vs Jembatan Pedagogi TUMBUH
+>
+>
+>
+> | Titik Friksi Generasi | Pola Reduksi Pengasuh Senior (Gaya Usang) | Respon Santri Generasi Baru (Penyimpangan) | Solusi Jembatan Pedagogi TUMBUH v2.0.0 | Indikator Keberhasilan Tarbiyah |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Penyampaian Pertanyaan Kritis** | Menghardik: *"Jangan banyak tanya! Santri itu sami'na wa atha'na, jangan lancang!"* | Bungkam di depan ustadz, lalu mencari jawaban di forum liberal atau forum anonim online. | Membuka forum *Kafah Dialektika*: musyrif menyambut pertanyaan sulit dengan lapang dada dan riset dalil bersama. | Santri memiliki keteguhan akidah berbasis keyakinan rasional (*iman burhani*), bukan dogma buta. |
+>
+> | **Kelelahan & Beban Mental** | Mencap santri: *"Kamu kurang ibadah, generasi strawberry, mental tempe!"* | Menarik diri (*withdrawn*), depresi terselubung, atau menyakiti diri (*non-suicidal self-injury*). | Validasi emosi empatik, asesmen beban kognitif terukur, dan pendampingan konseling BK suportif. | Santri merasa asrama adalah rumah perlindungan yang aman; tidak ada rasa terasing. |
+>
+> | **Pemanfaatan Media & Teknologi** | Melarang mutlak semua media modern dan menganggap teknologi sebagai biang maksiat semata. | Menyelundupkan gawai diam-diam, kecanduan konten gelap tanpa filter etika sama sekali. | Kurikulum Literasi Digital Beradab: mengajarkan etika muraqabah, tabayyun, dan produktivitas dakwah. | Santri memiliki imunitas moral internal (*self-censorship*) dan bijak berteknologi. |
+>
+> | **Kebutuhan Ruang Ekspresi Diri** | Menuntut keseragaman minat; mematikan bakat santri yang tidak linier dengan gaya lama pondok. | Kehilangan gairah belajar (*apathy*), merasa bakatnya dikubur hidup-hidup oleh pesantren. | Menyediakan wadah ekspresi multitalenta (seni kaligrafi digital, riset sains, literasi naratif, robotika). | Santri bangga dengan identitas santrinya dan percaya diri berkontribusi bagi peradaban. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: ARKEOLOGISME TRADISIONAL ]
 
@@ -358,11 +352,7 @@ Para ulama besar dalam sejarah tarbiyah Islam selalu menekankan kelemahlembutan 
 
    Menegaskan hakikat relasi guru dan santri yang bertumpu pada kasih sayang hakiki (*syafaqah*):
 
-   ```arabic
-
-   يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَكُونَ شَفِيقًا نَاصِحًا، وَأَنْ يُعَامِلَ الْمُتَعَلِّمَ كَمَا يُعَامِلُ أَعَزَّ أَوْلَادِهِ، وَلَا يُعَنِّفَهُ إِذَا سَأَلَ عَمَّا أَشْكَلَ عَلَيْهِ، فَإِنَّ الْعُنْفَ يُنَفِّرُ الْقُلُوبَ وَيُورِثُ الْبَغْضَاءَ
-
-   ```  
+   > يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَكُونَ شَفِيقًا نَاصِحًا، وَأَنْ يُعَامِلَ الْمُتَعَلِّمَ كَمَا يُعَامِلُ أَعَزَّ أَوْلَادِهِ، وَلَا يُعَنِّفَهُ إِذَا سَأَلَ عَمَّا أَشْكَلَ عَلَيْهِ، فَإِنَّ الْعُنْفَ يُنَفِّرُ الْقُلُوبَ وَيُورِثُ الْبَغْضَاءَ
 
    > *"Seyogianya seorang guru bersikap penuh kasih sayang dan tulus memberi nasihat, serta memperlakukan murid sebagaimana ia memperlakukan anak kandungnya yang paling ia cintai. Janganlah ia bersikap kasar membentak murid ketika murid tersebut menanyakan hal-hal yang musykil (sulit) baginya; karena sesungguhnya kekasaran itu akan membuat hati lari menjauh dan mewariskan kebencian."*
 
@@ -372,11 +362,7 @@ Para ulama besar dalam sejarah tarbiyah Islam selalu menekankan kelemahlembutan 
 
    Ibnul Jauzi mengkritik keras para pendidik yang memaksakan cara hidup lama tanpa melihat realitas anak:
 
-   ```arabic
-
-   رَأَيْتُ كَثِيرًا مِنَ الْآبَاءِ وَالْمُؤَدِّبِينَ يُرِيدُونَ حَمْلَ الصِّبْيَانِ عَلَى طَرِيقَتِهِمْ فِي الزُّهْدِ وَالتَّقَشُّفِ، وَهَذَا جَهْلٌ بِطَبَائِعِ الْأَعْمَارِ؛ فَإِنَّ لِكُلِّ زَمَانٍ حُكْمًا، وَلِكُلِّ سِنٍّ حَظًّا مِنَ اللَّطَافَةِ لَا يَجُوزُ كَسْرُهُ
-
-   ```  
+   > رَأَيْتُ كَثِيرًا مِنَ الْآبَاءِ وَالْمُؤَدِّبِينَ يُرِيدُونَ حَمْلَ الصِّبْيَانِ عَلَى طَرِيقَتِهِمْ فِي الزُّهْدِ وَالتَّقَشُّفِ، وَهَذَا جَهْلٌ بِطَبَائِعِ الْأَعْمَارِ؛ فَإِنَّ لِكُلِّ زَمَانٍ حُكْمًا، وَلِكُلِّ سِنٍّ حَظًّا مِنَ اللَّطَافَةِ لَا يَجُوزُ كَسْرُهُ
 
    > *"Aku melihat banyak dari para orang tua dan pendidik berkehendak memaksakan anak-anak untuk berjalan di atas cara hidup mereka dalam kezuhudan dan kekerasan hidup. Ini adalah bentuk kebodohan terhadap watak tahapan usia; sesungguhnya bagi setiap zaman ada hukumnya sendiri, dan bagi setiap tingkatan umur ada porsi kelembutan yang tidak boleh dipatahkan!"* (*Shaidul Khatir*, Fasal Tarbiyatul Aulad).
 
@@ -386,11 +372,7 @@ Para ulama besar dalam sejarah tarbiyah Islam selalu menekankan kelemahlembutan 
 
    Menyatakan bahwa pembuat kebijakan pendidikan wajib memperhatikan kesiapan mental pihak yang diajak bicara:
 
-   ```arabic
-
-   الْمُفْتِي وَالْمُرَبِّي لَا يَكُونُ حَكِيمًا حَتَّى يُرَاعِيَ أَحْوَالَ الْمُخَاطَبِينَ وَأَعْرَافَهُمْ وَعَوَائِدَهُمْ، فَإِنَّ حَمْلَ النَّاسِ عَلَى مَا لَا يُطِيقُونَ مِنَ الشِّدَّةِ سَبَبٌ فِي انْقِطَاعِهِمْ عَنِ الدِّينِ
-
-   ```  
+   > الْمُفْتِي وَالْمُرَبِّي لَا يَكُونُ حَكِيمًا حَتَّى يُرَاعِيَ أَحْوَالَ الْمُخَاطَبِينَ وَأَعْرَافَهُمْ وَعَوَائِدَهُمْ، فَإِنَّ حَمْلَ النَّاسِ عَلَى مَا لَا يُطِيقُونَ مِنَ الشِّدَّةِ سَبَبٌ فِي انْقِطَاعِهِمْ عَنِ الدِّينِ
 
    > *"Seorang pemberi fatwa dan seorang murabbi tidak dikatakan bijak (*hakim*) hingga ia memperhatikan keadaan kaum yang ia ajak bicara, tradisi mereka, dan kebiasaan mereka; karena membebani manusia dengan kekerasan yang melampaui kesanggupan mereka adalah sebab putusnya mereka dari agama."*
 

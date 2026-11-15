@@ -116,9 +116,7 @@ Khazanah kepemimpinan Islam klasik meletakkan prinsip bahwa kepemimpinan adalah 
 ### 4.1 Doktrin Ri'ayah dalam Sabda Nabawi
 Fondasi tertinggi kepemimpinan profetik ditegakkan oleh Rasulullah SAW dalam hadits agung riwayat Imam al-Bukhari dan Muslim dari Abdullah bin Umar RA:
 
-```arabic
-كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ، الإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا، وَالخَادِمُ رَاعٍ فِي مَالِ سَيِّدِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، أَلَا فَكُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ
-```
+> كُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ، الإِمَامُ رَاعٍ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالرَّجُلُ رَاعٍ فِي أَهْلِهِ وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا وَمَسْئُولَةٌ عَنْ رَعِيَّتِهَا، وَالخَادِمُ رَاعٍ فِي مَالِ سَيِّدِهِ وَمَسْئُولٌ عَنْ رَعِيَّتِهِ، أَلَا فَكُلُّكُمْ رَاعٍ وَكُلُّكُمْ مَسْئُولٌ عَنْ رَعِيَّتِهِ
 
 > **Takhrij**: Diriwayatkan oleh Imam al-Bukhari dalam *Shahih al-Bukhari*, Kitab al-Jumu'ah, Bab al-Jumu'ah fi al-Qura wa al-Mudun, hadits no. 893; dan Imam Muslim dalam *Shahih Muslim*, Kitab al-Imarah, Bab Fadhilat al-Imam al-'Adil, hadits no. 1829.
 
@@ -129,9 +127,7 @@ Hadits ini meruntuhkan seluruh konsep kepemimpinan otokratis:
 ### 4.2 Al-Mawardi dalam Al-Ahkam as-Sulthaniyyah: Menjaga Agama dan Mengelola Kesejahteraan
 Imam Abu al-Hasan al-Mawardi (w. 450 H) dalam kitab monumentalnya *Al-Ahkam as-Sulthaniyyah wa al-Wilayat ad-Diniyyah* merumuskan fungsi esensial kepemimpinan:
 
-```arabic
-الْإِمَامَةُ مَوْضُوعَةٌ لِخِلَافَةِ النُّبُوَّةِ فِي حِرَاسَةِ الدِّينِ وَسِيَاسَةِ الدُّنْيَا بِهِ
-```
+> الْإِمَامَةُ مَوْضُوعَةٌ لِخِلَافَةِ النُّبُوَّةِ فِي حِرَاسَةِ الدِّينِ وَسِيَاسَةِ الدُّنْيَا بِهِ
 
 > **Takhrij**: Al-Mawardi, *Al-Ahkam as-Sulthaniyyah wa al-Wilayat ad-Diniyyah*, Bab al-Awwal: fi 'Aqd al-Imamah (Dar al-Hadits, Kairo, hlm. 15).
 
@@ -144,9 +140,7 @@ Bagi pimpinan pesantren, *hirasat ad-din* bermakna menjaga agar kurikulum *ta'di
 ### 4.3 Imam Al-Ghazali dalam Nasihat al-Muluk: Keadilan Pemimpin sebagai Cermin Kalbu
 Imam Abu Hamid al-Ghazali dalam risalah etika kepemimpinannya *At-Tibr al-Masbuk fi Nasihat al-Muluk* menuliskan peringatan keras mengenai bahaya tirani kekuasaan:
 
-```arabic
-أَنَّ عَدْلَ السُّلْطَانِ أَنْفَعُ لِلرَّعِيَّةِ مِنْ خِصْبِ الزَّمَانِ، وَجَوْرَهُ أَضَرُّ مِنْ قَحْطِ السِّنِينَ. وَاعْلَمْ أَنَّ الرَّعِيَّةَ إِذَا كَانَتْ مُعْوَجَّةً صَلَحَتْ بِعَدْلِ السُّلْطَانِ، وَإِذَا كَانَ السُّلْطَانُ مُعْوَجًّا لَمْ تَصْلُحِ الرَّعِيَّةُ بِشَيْءٍ أَبَدًا، فَإِنَّ النَّاسَ عَلَى دِينِ مُلُوكِهِمْ
-```
+> أَنَّ عَدْلَ السُّلْطَانِ أَنْفَعُ لِلرَّعِيَّةِ مِنْ خِصْبِ الزَّمَانِ، وَجَوْرَهُ أَضَرُّ مِنْ قَحْطِ السِّنِينَ. وَاعْلَمْ أَنَّ الرَّعِيَّةَ إِذَا كَانَتْ مُعْوَجَّةً صَلَحَتْ بِعَدْلِ السُّلْطَانِ، وَإِذَا كَانَ السُّلْطَانُ مُعْوَجًّا لَمْ تَصْلُحِ الرَّعِيَّةُ بِشَيْءٍ أَبَدًا، فَإِنَّ النَّاسَ عَلَى دِينِ مُلُوكِهِمْ
 
 > **Takhrij**: Imam al-Ghazali, *At-Tibr al-Masbuk fi Nasihat al-Muluk*, Tahqiq Ahmad Syams ad-Din (Dar al-Kutub al-'Ilmiyyah, Beirut, 1988, hlm. 42).
 
@@ -155,9 +149,7 @@ Al-Ghazali menggarisbawahi adagium terkenal: *an-nasu 'ala dini mulukihim* (manu
 ### 4.4 Ibnu Taimiyyah dalam As-Siyasah asy-Syar'iyyah: Menunaikan Amanah dan Menegakkan Keadilan
 Syaikhul Islam Ibnu Taimiyyah dalam *As-Siyasah asy-Syar'iyyah fi Ishlah ar-Ra'i wa ar-Ra'iyyah* menegaskan bahwa seluruh tata kelola kepemimpinan Islam bersandar pada dua ayat pokok dalam Surah An-Nisa':
 
-```arabic
-إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ
-```
+> إِنَّ اللَّهَ يَأْمُرُكُمْ أَنْ تُؤَدُّوا الْأَمَانَاتِ إِلَى أَهْلِهَا وَإِذَا حَكَمْتُمْ بَيْنَ النَّاسِ أَنْ تَحْكُمُوا بِالْعَدْلِ
 
 > **Takhrij**: QS. An-Nisa' [4]: 58; dibahas secara mendalam oleh Ibnu Taimiyyah dalam *As-Siyasah asy-Syar'iyyah* (Dar al-Kutub al-'Ilmiyyah, hlm. 12).
 
@@ -166,9 +158,7 @@ Ibnu Taimiyyah menguraikan bahwa penunaian amanah menuntut pemilihan pejabat ata
 ### 4.5 Ibnu Jama'ah dalam Tadzkirat as-Sami': Kewajiban Pemimpin Menjadi Contoh Adab
 Badruddin Ibnu Jama'ah al-Kinani (w. 733 H) dalam karyanya *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim* mengkhususkan bab mengenai adab guru dan pimpinan majelis ilmu:
 
-```arabic
-أَنْ يَكُونَ الشَّيْخُ عَامِلًا بِعِلْمِهِ، مُتَحَلِّيًا بِالْمَحَاسِنِ، مُتَجَنِّبًا لِلْمَسَاوِئِ، فَلَا يَأْمُرَ بِبِرٍّ إِلَّا وَهُوَ أَسْبَقُ النَّاسِ إِلَيْهِ، وَلَا يَنْهَى عَنْ مَنْكَرٍ إِلَّا وَهُوَ أَبْعَدُهُمْ عَنْهُ، فَإِنَّ الْعِلْمَ إِذَا كَانَ بِلَا عَمَلٍ كَانَ كَالشَّجَرِ بِلَا ثَمَرٍ، وَأَضَرَّ بِالنَّاسِ مِنْ حَيْثُ لَا يَدْرِي
-```
+> أَنْ يَكُونَ الشَّيْخُ عَامِلًا بِعِلْمِهِ، مُتَحَلِّيًا بِالْمَحَاسِنِ، مُتَجَنِّبًا لِلْمَسَاوِئِ، فَلَا يَأْمُرَ بِبِرٍّ إِلَّا وَهُوَ أَسْبَقُ النَّاسِ إِلَيْهِ، وَلَا يَنْهَى عَنْ مَنْكَرٍ إِلَّا وَهُوَ أَبْعَدُهُمْ عَنْهُ، فَإِنَّ الْعِلْمَ إِذَا كَانَ بِلَا عَمَلٍ كَانَ كَالشَّجَرِ بِلَا ثَمَرٍ، وَأَضَرَّ بِالنَّاسِ مِنْ حَيْثُ لَا يَدْرِي
 
 > **Takhrij**: Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim*, Bab ats-Tsani: fi Adab al-'Alim fi Nafsihi (Dar al-Basyair al-Islamiyyah, hlm. 45).
 
@@ -180,9 +170,7 @@ Ibnu Jama'ah menegaskan bahwa pemimpin pendidikan wajib menjadi orang pertama ya
 ### 4.6 Ibnu Rajab al-Hanbali dalam Dzamm al-Mal wa al-Jah: Peringatan terhadap Ambisi Kekuasaan
 Salah satu risalah paling tajam dalam menguliti penyakit hati para pemimpin pendidikan agama adalah karya Al-Hafizh Ibnu Rajab al-Hanbali (w. 795 H), *Syarh Hadits Ma Dzi'bani Jai'ani (Dzamm al-Mal wa al-Jah)*. Mengomentari sabda Rasulullah SAW mengenai dua serigala lapar yang dilepas di tengah kawanan domba, Ibnu Rajab menguraikan:
 
-```arabic
-فَإِنَّ حِرْصَ الْمَرْءِ عَلَى الْمَالِ وَالشَّرَفِ لِدِينِهِ أَشَدُّ فَسَادًا مِنْ ذِئْبَيْنِ ضَارِيَيْنِ جَائِعَيْنِ أُرْسِلَا فِي زَرِيبَةِ غَنَمٍ ضَلَّ رَاعِيهَا عَنْهَا. أَمَّا الْحِرْصُ عَلَى الشَّرَفِ وَالرِّيَاسَةِ فَهُوَ أَشَدُّ إِهْلَاكًا لِلنَّفْسِ مِنَ الْحِرْصِ عَلَى الْمَالِ، فَإِنَّ طَلَبَ الشَّرَفِ وَالْعُلُوِّ فِي الْأَرْضِ وَالرِّيَاسَةِ عَلَى النَّاسِ يَدْعُو إِلَى الْكِبْرِ وَالظُّلْمِ وَالْبَغْيِ، وَهُوَ الَّذِي أَهْلَكَ فِرْعَوْنَ وَهَامَانَ
-```
+> فَإِنَّ حِرْصَ الْمَرْءِ عَلَى الْمَالِ وَالشَّرَفِ لِدِينِهِ أَشَدُّ فَسَادًا مِنْ ذِئْبَيْنِ ضَارِيَيْنِ جَائِعَيْنِ أُرْسِلَا فِي زَرِيبَةِ غَنَمٍ ضَلَّ رَاعِيهَا عَنْهَا. أَمَّا الْحِرْصُ عَلَى الشَّرَفِ وَالرِّيَاسَةِ فَهُوَ أَشَدُّ إِهْلَاكًا لِلنَّفْسِ مِنَ الْحِرْصِ عَلَى الْمَالِ، فَإِنَّ طَلَبَ الشَّرَفِ وَالْعُلُوِّ فِي الْأَرْضِ وَالرِّيَاسَةِ عَلَى النَّاسِ يَدْعُو إِلَى الْكِبْرِ وَالظُّلْمِ وَالْبَغْيِ، وَهُوَ الَّذِي أَهْلَكَ فِرْعَوْنَ وَهَامَانَ
 
 > **Takhrij**: Ibnu Rajab al-Hanbali, *Syarh Hadits Ma Dzi'bani Jai'ani*, Tahqiq Muhammad Nashiruddin al-Albani (Al-Maktab al-Islami, Beirut, hlm. 29).
 
@@ -194,9 +182,7 @@ Ibnu Rajab mengingatkan bahwa ambisi kepemimpinan (*al-hirsh 'ala ar-riyasah*) j
 ### 4.7 Abu Bakar Ath-Thurthusi dalam Siraj al-Muluk: Keadilan Lembaga dan Perlindungan Kaum Lemah
 Faqih dan sufi Andalusia Abu Bakar Muhammad bin al-Walid ath-Thurthusi (w. 520 H) dalam mahakaryanya *Siraj al-Muluk* meletakkan kaidah tata kelola institusional:
 
-```arabic
-لَا عَدْلَ إِلَّا بِعَقْلٍ، وَلَا عَقْلَ إِلَّا بِأَدَبٍ، وَلَا أَدَبَ إِلَّا بِعِلْمٍ. وَمِنْ شَرْطِ الرَّاعِي الْعَادِلِ أَنْ يَكُونَ مَعَ الرَّعِيَّةِ كَالْوَالِدِ الشَّفِيقِ مَعَ وَلَدِهِ، يَسُرُّهُ مَا يَسُرُّهُمْ، وَيَسُوءُهُ مَا يَسُوءُهُمْ، وَلَا يَسْتَأْثِرُ عَلَيْهِمْ بِشَيْءٍ مِنْ حُطَامِ الدُّنْيَا
-```
+> لَا عَدْلَ إِلَّا بِعَقْلٍ، وَلَا عَقْلَ إِلَّا بِأَدَبٍ، وَلَا أَدَبَ إِلَّا بِعِلْمٍ. وَمِنْ شَرْطِ الرَّاعِي الْعَادِلِ أَنْ يَكُونَ مَعَ الرَّعِيَّةِ كَالْوَالِدِ الشَّفِيقِ مَعَ وَلَدِهِ، يَسُرُّهُ مَا يَسُرُّهُمْ، وَيَسُوءُهُ مَا يَسُوءُهُمْ، وَلَا يَسْتَأْثِرُ عَلَيْهِمْ بِشَيْءٍ مِنْ حُطَامِ الدُّنْيَا
 
 > **Takhrij**: Ath-Thurthusi, *Siraj al-Muluk*, Bab ats-Tsalits: fi Shifat al-Wulat wa ar-Ru'at wa Syuruth al-'Adl (Dar ash-Shadir, Beirut, hlm. 68).
 

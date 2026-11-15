@@ -54,11 +54,7 @@ Dalam khazanah wahyu, *Al-Fitnah* memiliki makna spektrum yang sangat agung—ya
 
 1. **Harta, Anak, dan Teman Sebaya Sebagai Instrumen Pengujian Keimanan:**
 
-   ```arabic
-
-   إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِندَهُ أَجْرٌ عَظِيمٌ
-
-   ```
+   > إِنَّمَا أَمْوَالُكُمْ وَأَوْلَادُكُمْ فِتْنَةٌ ۚ وَاللَّهُ عِندَهُ أَجْرٌ عَظِيمٌ
 
    > *"Sesungguhnya hartamu dan anak-anakmu hanyalah fitnah (ujian bagimu), dan di sisi Allah-lah pahala yang besar."* (QS. At-Taghabun: 15).  
 
@@ -68,11 +64,7 @@ Dalam khazanah wahyu, *Al-Fitnah* memiliki makna spektrum yang sangat agung—ya
 
 2. **Dampak Sistemik Fitnah Sosial yang Melanda Tanpa Pandang Bulu:**
 
-   ```arabic
-
-   وَاتَّقُوا فِتْنَةً لَّا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنكُمْ خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
-
-   ```
+   > وَاتَّقُوا فِتْنَةً لَّا تُصِيبَنَّ الَّذِينَ ظَلَمُوا مِنكُمْ خَاصَّةً ۖ وَاعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ
 
    > *"Dan peliharalah dirimu dari siksaan (fitnah) yang tidak hanya menimpa orang-orang yang zalim saja di antara kamu secara khusus. Dan ketahuilah bahwa Allah sangat keras siksaan-Nya."* (QS. Al-Anfal: 25).  
 
@@ -82,11 +74,7 @@ Dalam khazanah wahyu, *Al-Fitnah* memiliki makna spektrum yang sangat agung—ya
 
 3. **Keharaman Mutlak Mencari-cari Aib dan Memata-matai Saudara Sendiri:**
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا
-
-   ```
+   > يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا
 
    > *"Wahai orang-orang yang beriman, jauhilah kebanyakan purbasangka (prasangka), sesungguhnya sebagian prasangka itu dosa, dan janganlah kamu mencari-cari kesalahan orang lain (tajassus), dan janganlah ada di antara kamu yang menggunjing sebagian yang lain..."* (QS. Al-Hujurat: 12).
 
@@ -216,11 +204,7 @@ Ulama salaf dan khalaf meletakkan kaidah fundamental dalam menghadapi fitnah dan
 
    Menegaskan keharaman *tajassus* dan kewajiban menutupi aib (*satr al-'uyub*):  
 
-   ```arabic
-
-   مَنْ تَتَبَّعَ عَوْرَاتِ إِخْوَانِهِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ... وَالْوَاجِبُ عَلَى الْمُسْلِمِ أَنْ يَسْتُرَ عَلَى أَخِيهِ، وَلَا يَبْحَثَ عَمَّا خَفِيَ مِنْ أَمْرِهِ
-
-   ```
+   > مَنْ تَتَبَّعَ عَوْرَاتِ إِخْوَانِهِ تَتَبَّعَ اللَّهُ عَوْرَتَهُ... وَالْوَاجِبُ عَلَى الْمُسْلِمِ أَنْ يَسْتُرَ عَلَى أَخِيهِ، وَلَا يَبْحَثَ عَمَّا خَفِيَ مِنْ أَمْرِهِ
 
    > *"Barangsiapa mencari-cari aib saudaranya, niscaya Allah akan mencari-cari aibnya... Dan kewajiban seorang muslim adalah menutupi aib saudaranya serta tidak menyelidiki perkara yang tersembunyi dari urusannya."*
 

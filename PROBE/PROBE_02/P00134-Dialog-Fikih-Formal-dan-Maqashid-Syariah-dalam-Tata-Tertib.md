@@ -124,109 +124,103 @@ Syariat Islam secara kanonik memadukan kepatuhan pada perintah lahiriah dengan p
 
 1. **Tujuan Hakiki Syariat Menghadirkan Maslahat dan Mencegah Kehancuran:**  
 
-   ```arabic
-
-   وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ
-
-   ```  
-
-   > *"Dan tiadalah Kami mengutus kamu (wahai Muhammad), melainkan untuk (menjadi) rahmat bagi semesta alam."* (QS. Al-Anbiya: 107).  
-
-   Seluruh regulasi yang dibuat di lingkungan tarbiyah Islam wajib memancarkan rahmat; aturan apa pun yang melahirkan kepicikan, dendam, dan putus asa pada diri santri secara sistemik telah menyimpang dari ruh kerasulan.
-
-
-
-2. **Hikmah Ibadah Melampaui Sekadar Gerakan Jasmani:**  
-
-   ```arabic
-
-   إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ
-
-   ```  
-
-   > *"Sesungguhnya shalat itu mencegah dari (perbuatan-perbuatan) keji dan mungkar..."* (QS. Al-'Ankabut: 45).  
-
-   Ayat ini mengintegrasikan fikih formal shalat (rukun dan syarat) dengan maqashid perilakunya (menjadi perisai moral dari kekejian). Tata tertib asrama yang mewajibkan shalat berjamaah wajib dirancang sedemikian rupa agar melahirkan pencegahan maksiat, bukan sekadar absensi fisik.
-
-
-
-3. **Prinsip Fleksibilitas Penegakan Hukum dalam Kondisi Khusus:**  
-
-   Rasulullah ﷺ menegakkan kaidah agung:
-
-   ```arabic
-
-   لَا ضَرَرَ وَلَا ضِرَارَ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Tidak boleh ada bahaya dan tidak boleh menimbulkan bahaya (kemudaratan)!"* (HR. Ibnu Majah no. 2341 & Malik no. 1435, shahih).  
-
-   Penerapan sanksi tata tertib yang justru merusak fisik santri atau menimbulkan trauma psikologis permanen secara mutlak melanggar kaidah hadits ini.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Yurisprudensi Kritis / Psikologi Hukum
-
-
-
-Teori hukum modern dan psikologi kepatuhan memberikan bukti kuat mengenai batas-batas legalisme formal:
-
-
-
-1. **Kepatuhan Moral vs Kepatuhan Instrumental (*Tom Tyler - Why People Obey the Law*):**  
-
-   Tyler (2006) membuktikan bahwa manusia mematuhi aturan jangka panjang bukan karena besarnya hukuman (*deterrence theory*), melainkan karena mereka merasakan adanya **Keadilan Prosedural (*Procedural Justice*)** dan memahami legitimasi moral dari aturan tersebut. Tata tertib asrama yang dirumuskan tanpa dialog maqashid hanya menghasilkan kepatuhan instrumental sementara yang langsung runtuh saat pengawasan mengendur.
-
-
-
-2. **Teori *Jurisprudence of Principles* (*Ronald Dworkin - Taking Rights Seriously*):**  
-
-   Dworkin membedakan antara *Rules* (aturan konkret teknis) dan *Principles* (prinsip moral dasar). Dalam kasus-kasus sulit (*hard cases*), pembuat keputusan hukum tidak boleh terpaku pada bunyi harfiah aturan semata, melainkan wajib kembali kepada prinsip keadilan dasar yang melandasinya. Di asrama, maqashid syari'ah berfungsi sebagai *higher principles* yang menuntun penerapan pasal operasional.
-
-
-
-3. **Beban Kognitif Moral (*Moral Cognitive Overload*):**  
-
-   Penelitian psikologi kognitif menunjukkan bahwa tata tertib yang memuat ratusan pasal larangan mikro tanpa penjelasan hikmah membebani memori kerja santri dan memicu stres kronis. Santri beralih dari kesadaran adab proaktif menjadi kecemasan reaktif menghindari hukuman (*anxiety-driven compliance*).
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dialektika Fikih Formal vs Maqashid Syari'ah dalam Pasal Asrama
-
-
-
-| Dimensi Peraturan Asrama | Pendekatan Fikih Tekstual Kaku (Reduksi) | Pendekatan Maqashid Syari'ah (TUMBUH v2.0.0) | Indikator Perilaku Santri |
-
-| :--- | :--- | :--- | :--- |
-
-| **Keterlambatan Shalat Berjamaah** | Pasal: "Terlambat takbiratul ihram = push-up 50 kali atau botak." | Fikih: Menegakkan kewajiban shalat berjamaah.<br>Maqashid: Menumbuhkan cinta masjid; mengurai hambatan fisik tidur; pendampingan bangun fajar. | Santri bersegera ke masjid dengan wudhu sempurna atas kerinduan bermunajat, bukan karena takut hukuman fisik. |
-
-| **Penyitaan Barang Pelanggaran** | Menyita barang (misal: novel/gawai) lalu merusaknya di depan umum atau membakarnya. | Fikih: Menjaga konsentrasi belajar (*Hifzhul 'Aql*).<br>Maqashid: Melindungi hak milik (*Hifzhul Mal*); barang disimpan aman dan dikembalikan melalui wali dengan edukasi etika waktu. | Santri memahami batas waktu hiburan; hak milik mereka dihormati lembaga; hilangnya dendam terhadap musyrif. |
-
-| **Perizinan Pulang Mendesak** | Menolak izin pulang santri yang orang tuanya sakit keras karena "belum masa libur resmi". | Fikih: Ketaatan pada akad tata tertib pesantren.<br>Maqashid: Berbakti kepada orang tua (*Birrul Walidain* & *Hifzhun Nasl*); izin diberikan dengan penugasan resume belajar mandiri. | Santri merasakan kehadiran empati lembaga; ikatan ukhuwah wali santri dan pondok menguat. |
-
-| **Pelanggaran Kebersihan Kamar** | Menghukum seluruh penghuni kamar tanpa peduli siapa yang membuang sampah. | Fikih: Menjaga thaharah dan ketertiban umum.<br>Maqashid: Menegakkan tanggung jawab individu (*la taziru waziratan wizra ukhra*); pembagian piket kamar berbasis kesepakatan adil. | Santri belajar akuntabilitas personal dan kerja sama komunal tanpa rasa dizalimi secara kolektif. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ
+>
+>    ```  
+>
+>    > *"Dan tiadalah Kami mengutus kamu (wahai Muhammad), melainkan untuk (menjadi) rahmat bagi semesta alam."* (QS. Al-Anbiya: 107).  
+>
+>    Seluruh regulasi yang dibuat di lingkungan tarbiyah Islam wajib memancarkan rahmat; aturan apa pun yang melahirkan kepicikan, dendam, dan putus asa pada diri santri secara sistemik telah menyimpang dari ruh kerasulan.
+>
+>
+>
+> 2. **Hikmah Ibadah Melampaui Sekadar Gerakan Jasmani:**  
+>
+>
+>    إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ
+>
+>
+>    > *"Sesungguhnya shalat itu mencegah dari (perbuatan-perbuatan) keji dan mungkar..."* (QS. Al-'Ankabut: 45).  
+>
+>    Ayat ini mengintegrasikan fikih formal shalat (rukun dan syarat) dengan maqashid perilakunya (menjadi perisai moral dari kekejian). Tata tertib asrama yang mewajibkan shalat berjamaah wajib dirancang sedemikian rupa agar melahirkan pencegahan maksiat, bukan sekadar absensi fisik.
+>
+>
+>
+> 3. **Prinsip Fleksibilitas Penegakan Hukum dalam Kondisi Khusus:**  
+>
+>    Rasulullah ﷺ menegakkan kaidah agung:
+>
+>
+>    لَا ضَرَرَ وَلَا ضِرَارَ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Tidak boleh ada bahaya dan tidak boleh menimbulkan bahaya (kemudaratan)!"* (HR. Ibnu Majah no. 2341 & Malik no. 1435, shahih).  
+>
+>    Penerapan sanksi tata tertib yang justru merusak fisik santri atau menimbulkan trauma psikologis permanen secara mutlak melanggar kaidah hadits ini.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Yurisprudensi Kritis / Psikologi Hukum
+>
+>
+>
+> Teori hukum modern dan psikologi kepatuhan memberikan bukti kuat mengenai batas-batas legalisme formal:
+>
+>
+>
+> 1. **Kepatuhan Moral vs Kepatuhan Instrumental (*Tom Tyler - Why People Obey the Law*):**  
+>
+>    Tyler (2006) membuktikan bahwa manusia mematuhi aturan jangka panjang bukan karena besarnya hukuman (*deterrence theory*), melainkan karena mereka merasakan adanya **Keadilan Prosedural (*Procedural Justice*)** dan memahami legitimasi moral dari aturan tersebut. Tata tertib asrama yang dirumuskan tanpa dialog maqashid hanya menghasilkan kepatuhan instrumental sementara yang langsung runtuh saat pengawasan mengendur.
+>
+>
+>
+> 2. **Teori *Jurisprudence of Principles* (*Ronald Dworkin - Taking Rights Seriously*):**  
+>
+>    Dworkin membedakan antara *Rules* (aturan konkret teknis) dan *Principles* (prinsip moral dasar). Dalam kasus-kasus sulit (*hard cases*), pembuat keputusan hukum tidak boleh terpaku pada bunyi harfiah aturan semata, melainkan wajib kembali kepada prinsip keadilan dasar yang melandasinya. Di asrama, maqashid syari'ah berfungsi sebagai *higher principles* yang menuntun penerapan pasal operasional.
+>
+>
+>
+> 3. **Beban Kognitif Moral (*Moral Cognitive Overload*):**  
+>
+>    Penelitian psikologi kognitif menunjukkan bahwa tata tertib yang memuat ratusan pasal larangan mikro tanpa penjelasan hikmah membebani memori kerja santri dan memicu stres kronis. Santri beralih dari kesadaran adab proaktif menjadi kecemasan reaktif menghindari hukuman (*anxiety-driven compliance*).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dialektika Fikih Formal vs Maqashid Syari'ah dalam Pasal Asrama
+>
+>
+>
+> | Dimensi Peraturan Asrama | Pendekatan Fikih Tekstual Kaku (Reduksi) | Pendekatan Maqashid Syari'ah (TUMBUH v2.0.0) | Indikator Perilaku Santri |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Keterlambatan Shalat Berjamaah** | Pasal: "Terlambat takbiratul ihram = push-up 50 kali atau botak." | Fikih: Menegakkan kewajiban shalat berjamaah.<br>Maqashid: Menumbuhkan cinta masjid; mengurai hambatan fisik tidur; pendampingan bangun fajar. | Santri bersegera ke masjid dengan wudhu sempurna atas kerinduan bermunajat, bukan karena takut hukuman fisik. |
+>
+> | **Penyitaan Barang Pelanggaran** | Menyita barang (misal: novel/gawai) lalu merusaknya di depan umum atau membakarnya. | Fikih: Menjaga konsentrasi belajar (*Hifzhul 'Aql*).<br>Maqashid: Melindungi hak milik (*Hifzhul Mal*); barang disimpan aman dan dikembalikan melalui wali dengan edukasi etika waktu. | Santri memahami batas waktu hiburan; hak milik mereka dihormati lembaga; hilangnya dendam terhadap musyrif. |
+>
+> | **Perizinan Pulang Mendesak** | Menolak izin pulang santri yang orang tuanya sakit keras karena "belum masa libur resmi". | Fikih: Ketaatan pada akad tata tertib pesantren.<br>Maqashid: Berbakti kepada orang tua (*Birrul Walidain* & *Hifzhun Nasl*); izin diberikan dengan penugasan resume belajar mandiri. | Santri merasakan kehadiran empati lembaga; ikatan ukhuwah wali santri dan pondok menguat. |
+>
+> | **Pelanggaran Kebersihan Kamar** | Menghukum seluruh penghuni kamar tanpa peduli siapa yang membuang sampah. | Fikih: Menjaga thaharah dan ketertiban umum.<br>Maqashid: Menegakkan tanggung jawab individu (*la taziru waziratan wizra ukhra*); pembagian piket kamar berbasis kesepakatan adil. | Santri belajar akuntabilitas personal dan kerja sama komunal tanpa rasa dizalimi secara kolektif. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: LEGALISME FORMAL KERING ]
 
@@ -346,11 +340,7 @@ Para fukaha ushul dan pakar maqashid telah merumuskan kaidah harmonisasi antara 
 
    Menegaskan poros utama seluruh hukum syariat:
 
-   ```arabic
-
-   الشَّرِيعَةُ كُلُّهَا مَصَالِحُ: إِمَّا دَرْءُ مَفَاسِدَ أَوْ جَلْبُ مَصَالِحَ، فَإِذَا سَمِعْتَ اللَّهَ يَقُولُ: {يَا أَيُّهَا الَّذِينَ آمَنُوا}، فَتَأَمَّلْ وَصِيَّتَهُ بَعْدَ نِدَائِهِ، فَلَا تَجِدُ إِلَّا خَيْرًا يَحُثُّكَ عَلَيْهِ، أَوْ شَرًّا يَزْجُرُكَ عَنْهُ، أَوْ جَمْعًا بَيْنَهُمَا
-
-   ```  
+   > الشَّرِيعَةُ كُلُّهَا مَصَالِحُ: إِمَّا دَرْءُ مَفَاسِدَ أَوْ جَلْبُ مَصَالِحَ، فَإِذَا سَمِعْتَ اللَّهَ يَقُولُ: {يَا أَيُّهَا الَّذِينَ آمَنُوا}، فَتَأَمَّلْ وَصِيَّتَهُ بَعْدَ نِدَائِهِ، فَلَا تَجِدُ إِلَّا خَيْرًا يَحُثُّكَ عَلَيْهِ، أَوْ شَرًّا يَزْجُرُكَ عَنْهُ، أَوْ جَمْعًا بَيْنَهُمَا
 
    > *"Syariat seluruhnya adalah kemaslahatan: adakalanya menolak kerusakan atau mendatangkan kemaslahatan. Maka apabila engkau mendengar Allah berfirman: 'Wahai orang-orang yang beriman', renungkanlah wasiat-Nya setelah seruan itu, engkau tidak akan mendapati melainkan kebaikan yang dianjurkan-Nya kepadamu, atau keburukan yang dicegah-Nya darimu, atau gabungan antara keduanya."* (*Qawa'id Al-Ahkam*, Jilid I, Bab Maqashid asy-Syari'ah).
 
@@ -360,11 +350,7 @@ Para fukaha ushul dan pakar maqashid telah merumuskan kaidah harmonisasi antara 
 
    Menegaskan bahwa penerapan hukum wajib melihat hasil akhirnya:
 
-   ```arabic
-
-   النَّظَرُ فِي مَآلَاتِ الْأَفْعَالِ مُعْتَبَرٌ مَقْصُودٌ شَرْعًا، كَانَتِ الْأَفْعَالُ مُوَافِقَةً أَوْ مُخَالِفَةً؛ وَذَلِكَ أَنَّ الْمُجْتَهِدَ لَا يَحْكُمُ عَلَى فِعْلٍ مِنَ الْأَفْعَالِ الصَّادِرَةِ عَنِ الْمُكَلَّفِينَ إِلَّا بَعْدَ نَظَرِهِ إِلَى مَا يَئُولُ إِلَيْهِ ذَلِكَ الْفِعْلُ
-
-   ```  
+   > النَّظَرُ فِي مَآلَاتِ الْأَفْعَالِ مُعْتَبَرٌ مَقْصُودٌ شَرْعًا، كَانَتِ الْأَفْعَالُ مُوَافِقَةً أَوْ مُخَالِفَةً؛ وَذَلِكَ أَنَّ الْمُجْتَهِدَ لَا يَحْكُمُ عَلَى فِعْلٍ مِنَ الْأَفْعَالِ الصَّادِرَةِ عَنِ الْمُكَلَّفِينَ إِلَّا بَعْدَ نَظَرِهِ إِلَى مَا يَئُولُ إِلَيْهِ ذَلِكَ الْفِعْلُ
 
    > *"Mempertimbangkan implikasi dan akibat akhir dari perbuatan (*i'tibar al-ma'alat*) adalah perkara yang diperhitungkan dan dituju oleh syariat, baik perbuatan itu selaras maupun menyelisihinya. Hal itu karena seorang mujtahid (pengambil kebijakan) tidak boleh menghukumi suatu perbuatan melainkan setelah melihat apa akibat akhir yang dilahirkan oleh perbuatan dan hukum tersebut!"* (*Al-Muwafaqat*, Jilid IV, Kitab al-Ijtihad).  
 
@@ -376,11 +362,7 @@ Para fukaha ushul dan pakar maqashid telah merumuskan kaidah harmonisasi antara 
 
    Menegaskan kecakapan fukaha sejati:
 
-   ```arabic
-
-   لَيْسَ الْعَاقِلُ الَّذِي يَعْلَمُ الْخَيْرَ مِنَ الشَّرِّ، وَإِنَّمَا الْعَاقِلُ الَّذِي يَعْلَمُ خَيْرَ الْخَيْرَيْنِ وَشَرَّ الشَّرَّيْنِ
-
-   ```  
+   > لَيْسَ الْعَاقِلُ الَّذِي يَعْلَمُ الْخَيْرَ مِنَ الشَّرِّ، وَإِنَّمَا الْعَاقِلُ الَّذِي يَعْلَمُ خَيْرَ الْخَيْرَيْنِ وَشَرَّ الشَّرَّيْنِ
 
    > *"Bukanlah orang yang berakal itu orang yang sekadar tahu mana yang baik dari yang buruk; melainkan orang yang berakal sejati adalah orang yang tahu mana yang terbaik dari dua kebaikan (untuk dipilih) dan mana yang lebih ringan bahayanya dari dua keburukan (untuk dihindari)!"*
 

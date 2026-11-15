@@ -128,107 +128,101 @@ Wahyu Islam dan khazanah turats telah membedah secara mendalam misteri mengapa m
 
    Al-Qur'an merekam perkataan Nabi Yusuf 'alaihissalam:
 
-   ```arabic
-
-   وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
-
-   ```  
-
-   > *"Dan aku tidak membebaskan diriku (dari kesalahan), karena sesungguhnya nafsu itu selalu menyuruh kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Tuhanku. Sesungguhnya Tuhanku Maha Pengampun lagi Maha Penyayang."* (QS. Yusuf: 53).  
-
-   Ayat ini membongkar bahwa musuh tindakan bukan ketidaktahuan akal, melainkan dorongan biologis-spiritual hawa nafsu (*an-nafs al-ammarah bis-su'*) yang hanya bisa ditundukkan oleh rahmat Allah dan latihan jiwa (*riyadhoh*).
-
-
-
-2. **Perbedaan antara 'Ilm (Tahu) dan Iradah (Kemauan):**  
-
-   Al-Qur'an mencela orang-orang yang mengetahui kebenaran laksana mengenal anak kandungnya sendiri, namun enggan mengamalkannya karena penyakit dengki dan syahwat:
-
-   ```arabic
-
-   الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ ۖ وَإِنَّ فَرِيقًا مِّنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ
-
-   ```  
-
-   > *"Orang-orang yang telah Kami beri Kitab mengenal (kebenaran Nabi Muhammad) seperti mereka mengenal anak-anaknya sendiri. Dan sesungguhnya sebahagian di antara mereka menyembunyikan kebenaran, padahal mereka mengetahui."* (QS. Al-Baqarah: 146).
-
-
-
-3. **Doa Rasulullah ﷺ Memohon Penyatuan Hati dan Amal:**  
-
-   ```arabic
-
-   اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ، وَأَرِنَا الْبَاطِلَ بَاطِلًا وَارْزُقْنَا اجْتِنَابَهُ
-
-   ```  
-
-   > *Doa kanonik Rasulullah ﷺ: "Ya Allah, perlihatkanlah kepada kami yang benar itu sebagai kebenaran dan anugerahilah kami rezeki KEKUATAN UNTUK MENGIKUTINYA; dan perlihatkanlah kepada kami yang batil itu sebagai kebatilan dan anugerahilah kami rezeki KEKUATAN UNTUK MENJAUHINYA!"*  
-
-   Doa ini mengajarkan bahwa mengetahui kebenaran adalah satu anugerah, namun "rezeki mampu mengikutinya (*ittiba'*)" adalah anugerah kedua yang menuntut pertolongan ilahi khusus.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Perilaku / Neurosains Aksi
-
-
-
-Sains perilaku modern dan neurobiologi tindakan membedah anatomi jurang pemisah ini:
-
-
-
-1. **The Knowing-Doing Gap (*Pfeffer & Sutton, 2000; Sheeran & Webb, 2016*):**  
-
-   Dalam psikologi perilaku, kesenjangan intensi-tindakan (*intention-behavior gap*) mencapai rata-rata 47%: hampir separuh dari niat dan pengetahuan baik manusia gagal termanifestasi menjadi tindakan fisik. Faktor penentunya bukan pengulangan edukasi, melainkan **Niat Implementasi (*Implementation Intentions - Peter Gollwitzer*)**: merumuskan rencana aksi spesifik dalam format *"JIKA situasi X terjadi, MAKA saya akan melakukan tindakan Y"* (*If-Then Planning*). Santri yang hanya tahu "harus shalat tepat waktu" akan gagal; santri yang dilatih *"JIKA adzan terdengar, MAKA saya langsung menutup buku dan mengambil handuk"* berhasil mengamalkannya hingga 80%.
-
-
-
-2. **Arsitektur Pilihan & Rekayasa Dorongan (*Nudge Theory - Thaler & Sunstein, 2008*):**  
-
-   Manusia adalah makhluk yang digerakkan oleh prinsip usaha minimal (*Principle of Least Effort*). Jika ingin santri membuang sampah, jangan beri khutbah 2 jam tentang kebersihan, melainkan tempatkan tong sampah berjarak 3 langkah dari pintu kamar tidur (*make it easy & obvious*). Menghilangkan friksi fisik adalah jembatan tercepat mengubah pengetahuan menjadi kebiasaan otomatis.
-
-
-
-3. **Neurobiologi Dopaminergik & *Immediate Gratification Bias*:**  
-
-   Otak manusia berevolusi untuk memprioritaskan kenikmatan instan saat ini (*present bias*) daripada pahala masa depan. Pengetahuan adab menjanjikan pahala surga di akhirat, sedangkan godaan malas tidur menawarkan kenikmatan dopamin instan detik ini. Menjembatani jurang ini memerlukan pengkondisian asosiasi afektif positif (*reward framing*) dalam pembiasaan harian asrama.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Hambatan Tahu-Amal dan Intervensi TUMBUH
-
-
-
-| Jenis Hambatan Tindakan | Diagnosis Akar Masalah | Respon Keliru Konvensional | Intervensi Arsitektural TUMBUH v2.0.0 | Hasil Transformasi Karakter |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Hambatan Friksi Lingkungan (*Physical Friction*)** | Fasilitas fisik menyulitkan pelaksanaan adab (misal: antrean wudhu rusak, lemari sempit). | Menyalahkan santri: *"Kalian malas antre dan tidak sabar!"* | **Rekayasa Nudge**: Memperbaiki fasilitas, menambah kran, menata layout kamar agar adab mudah dilakukan (*Friction Reduction*). | Santri beradab secara spontan tanpa kelelahan mental (*effortless adab*). |
-
-| **Hambatan Ketiadaan Rencana Aksi (*Vague Intentions*)** | Santri tahu konsep umum tapi tidak tahu langkah mikro teknisnya. | Menuntut santri: *"Pokoknya besok kamar harus bersih dan rapi!"* | **If-Then Planning (BARS Checklist)**: Menyediakan instruksi mikro (misal: *"Jika jam 05.45, lipat selimut jadi 4 bagian"*). | Santri memiliki kejelasan eksekusi motorik; lenyapnya kebingungan tindakan. |
-
-| **Hambatan Kelelahan Kehendak (*Ego Depletion*)** | Jadwal belajar malam terlalu padat; otak santri kehabisan energi di jam rawan. | Menambah jam belajar paksa sampai larut malam. | **Regulasi Beban Kognitif**: Membatasi belajar malam maksimal 60 menit; mewajibkan tidur tepat waktu pukul 22.00. | Korteks prefrontal santri bugar; kapasitas pengendalian diri (*self-control*) pulih optimal. |
-
-| **Hambatan Kerentanan Batin (*Spiritual Lethargy / Qaswatul Qalb*)** | Hati santri mengeras akibat dosa tersembunyi; hilangnya rasa manisnya iman (*halawatul iman*). | Menghukum fisik atau mempermalukan santri di apel. | **Tazkiyatun Nafs & Munajat Terpandu**: Sesi curhat batin kebapakan, taubat nasuha, dan dzikir bersama musyrif. | Kalbu melunak; munculnya rasa rindu berbuat taat karena dorongan mahabbah kepada Allah. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    وَمَا أُبَرِّئُ نَفْسِي ۚ إِنَّ النَّفْسَ لَأَمَّارَةٌ بِالسُّوءِ إِلَّا مَا رَحِمَ رَبِّي ۚ إِنَّ رَبِّي غَفُورٌ رَّحِيمٌ
+>
+>    ```  
+>
+>    > *"Dan aku tidak membebaskan diriku (dari kesalahan), karena sesungguhnya nafsu itu selalu menyuruh kepada kejahatan, kecuali nafsu yang diberi rahmat oleh Tuhanku. Sesungguhnya Tuhanku Maha Pengampun lagi Maha Penyayang."* (QS. Yusuf: 53).  
+>
+>    Ayat ini membongkar bahwa musuh tindakan bukan ketidaktahuan akal, melainkan dorongan biologis-spiritual hawa nafsu (*an-nafs al-ammarah bis-su'*) yang hanya bisa ditundukkan oleh rahmat Allah dan latihan jiwa (*riyadhoh*).
+>
+>
+>
+> 2. **Perbedaan antara 'Ilm (Tahu) dan Iradah (Kemauan):**  
+>
+>    Al-Qur'an mencela orang-orang yang mengetahui kebenaran laksana mengenal anak kandungnya sendiri, namun enggan mengamalkannya karena penyakit dengki dan syahwat:
+>
+>
+>    الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْرِفُونَهُ كَمَا يَعْرِفُونَ أَبْنَاءَهُمْ ۖ وَإِنَّ فَرِيقًا مِّنْهُمْ لَيَكْتُمُونَ الْحَقَّ وَهُمْ يَعْلَمُونَ
+>
+>
+>    > *"Orang-orang yang telah Kami beri Kitab mengenal (kebenaran Nabi Muhammad) seperti mereka mengenal anak-anaknya sendiri. Dan sesungguhnya sebahagian di antara mereka menyembunyikan kebenaran, padahal mereka mengetahui."* (QS. Al-Baqarah: 146).
+>
+>
+>
+> 3. **Doa Rasulullah ﷺ Memohon Penyatuan Hati dan Amal:**  
+>
+>
+>    اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ، وَأَرِنَا الْبَاطِلَ بَاطِلًا وَارْزُقْنَا اجْتِنَابَهُ
+>
+>
+>    > *Doa kanonik Rasulullah ﷺ: "Ya Allah, perlihatkanlah kepada kami yang benar itu sebagai kebenaran dan anugerahilah kami rezeki KEKUATAN UNTUK MENGIKUTINYA; dan perlihatkanlah kepada kami yang batil itu sebagai kebatilan dan anugerahilah kami rezeki KEKUATAN UNTUK MENJAUHINYA!"*  
+>
+>    Doa ini mengajarkan bahwa mengetahui kebenaran adalah satu anugerah, namun "rezeki mampu mengikutinya (*ittiba'*)" adalah anugerah kedua yang menuntut pertolongan ilahi khusus.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Perilaku / Neurosains Aksi
+>
+>
+>
+> Sains perilaku modern dan neurobiologi tindakan membedah anatomi jurang pemisah ini:
+>
+>
+>
+> 1. **The Knowing-Doing Gap (*Pfeffer & Sutton, 2000; Sheeran & Webb, 2016*):**  
+>
+>    Dalam psikologi perilaku, kesenjangan intensi-tindakan (*intention-behavior gap*) mencapai rata-rata 47%: hampir separuh dari niat dan pengetahuan baik manusia gagal termanifestasi menjadi tindakan fisik. Faktor penentunya bukan pengulangan edukasi, melainkan **Niat Implementasi (*Implementation Intentions - Peter Gollwitzer*)**: merumuskan rencana aksi spesifik dalam format *"JIKA situasi X terjadi, MAKA saya akan melakukan tindakan Y"* (*If-Then Planning*). Santri yang hanya tahu "harus shalat tepat waktu" akan gagal; santri yang dilatih *"JIKA adzan terdengar, MAKA saya langsung menutup buku dan mengambil handuk"* berhasil mengamalkannya hingga 80%.
+>
+>
+>
+> 2. **Arsitektur Pilihan & Rekayasa Dorongan (*Nudge Theory - Thaler & Sunstein, 2008*):**  
+>
+>    Manusia adalah makhluk yang digerakkan oleh prinsip usaha minimal (*Principle of Least Effort*). Jika ingin santri membuang sampah, jangan beri khutbah 2 jam tentang kebersihan, melainkan tempatkan tong sampah berjarak 3 langkah dari pintu kamar tidur (*make it easy & obvious*). Menghilangkan friksi fisik adalah jembatan tercepat mengubah pengetahuan menjadi kebiasaan otomatis.
+>
+>
+>
+> 3. **Neurobiologi Dopaminergik & *Immediate Gratification Bias*:**  
+>
+>    Otak manusia berevolusi untuk memprioritaskan kenikmatan instan saat ini (*present bias*) daripada pahala masa depan. Pengetahuan adab menjanjikan pahala surga di akhirat, sedangkan godaan malas tidur menawarkan kenikmatan dopamin instan detik ini. Menjembatani jurang ini memerlukan pengkondisian asosiasi afektif positif (*reward framing*) dalam pembiasaan harian asrama.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Hambatan Tahu-Amal dan Intervensi TUMBUH
+>
+>
+>
+> | Jenis Hambatan Tindakan | Diagnosis Akar Masalah | Respon Keliru Konvensional | Intervensi Arsitektural TUMBUH v2.0.0 | Hasil Transformasi Karakter |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Hambatan Friksi Lingkungan (*Physical Friction*)** | Fasilitas fisik menyulitkan pelaksanaan adab (misal: antrean wudhu rusak, lemari sempit). | Menyalahkan santri: *"Kalian malas antre dan tidak sabar!"* | **Rekayasa Nudge**: Memperbaiki fasilitas, menambah kran, menata layout kamar agar adab mudah dilakukan (*Friction Reduction*). | Santri beradab secara spontan tanpa kelelahan mental (*effortless adab*). |
+>
+> | **Hambatan Ketiadaan Rencana Aksi (*Vague Intentions*)** | Santri tahu konsep umum tapi tidak tahu langkah mikro teknisnya. | Menuntut santri: *"Pokoknya besok kamar harus bersih dan rapi!"* | **If-Then Planning (BARS Checklist)**: Menyediakan instruksi mikro (misal: *"Jika jam 05.45, lipat selimut jadi 4 bagian"*). | Santri memiliki kejelasan eksekusi motorik; lenyapnya kebingungan tindakan. |
+>
+> | **Hambatan Kelelahan Kehendak (*Ego Depletion*)** | Jadwal belajar malam terlalu padat; otak santri kehabisan energi di jam rawan. | Menambah jam belajar paksa sampai larut malam. | **Regulasi Beban Kognitif**: Membatasi belajar malam maksimal 60 menit; mewajibkan tidur tepat waktu pukul 22.00. | Korteks prefrontal santri bugar; kapasitas pengendalian diri (*self-control*) pulih optimal. |
+>
+> | **Hambatan Kerentanan Batin (*Spiritual Lethargy / Qaswatul Qalb*)** | Hati santri mengeras akibat dosa tersembunyi; hilangnya rasa manisnya iman (*halawatul iman*). | Menghukum fisik atau mempermalukan santri di apel. | **Tazkiyatun Nafs & Munajat Terpandu**: Sesi curhat batin kebapakan, taubat nasuha, dan dzikir bersama musyrif. | Kalbu melunak; munculnya rasa rindu berbuat taat karena dorongan mahabbah kepada Allah. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: INTELEKTUALISME MORAL SOKRATES ]
 
@@ -358,11 +352,7 @@ Para ulama tasawuf dan fukaha telah mengkaji akar penyakit "tahu tapi tak mampu 
 
    Ibnul Qayyim membedah anatomi lahirnya suatu amal dari pikiran manusia:
 
-   ```arabic
-
-   مَبْدَأُ كُلِّ عِلْمٍ نَظَرِيٍّ وَعَمَلٍ اخْتِيَارِيٍّ هُوَ الْخَوَاطِرُ وَالْأَفْكَارُ، فَإِنَّهَا تُوجِبُ التَّصَوُّرَاتِ، وَالتَّصَوُّرَاتِ تَدْعُو إِلَى الْإِرَادَاتِ، وَالْإِرَادَاتِ تَقْتَضِي وُقُوعَ الْأَفْعَالِ، وَتَكْرَارُ الْأَفْعَالِ يُعْطِي الْعَادَةَ. فَصَلَاحُ هَذِهِ الْمَرَاتِبِ بِصَلَاحِ الْخَوَاطِرِ، وَفَسَادُهَا بِفَسَادِهَا
-
-   ```  
+   > مَبْدَأُ كُلِّ عِلْمٍ نَظَرِيٍّ وَعَمَلٍ اخْتِيَارِيٍّ هُوَ الْخَوَاطِرُ وَالْأَفْكَارُ، فَإِنَّهَا تُوجِبُ التَّصَوُّرَاتِ، وَالتَّصَوُّرَاتِ تَدْعُو إِلَى الْإِرَادَاتِ، وَالْإِرَادَاتِ تَقْتَضِي وُقُوعَ الْأَفْعَالِ، وَتَكْرَارُ الْأَفْعَالِ يُعْطِي الْعَادَةَ. فَصَلَاحُ هَذِهِ الْمَرَاتِبِ بِصَلَاحِ الْخَوَاطِرِ، وَفَسَادُهَا بِفَسَادِهَا
 
    > *"Pangkal dari setiap ilmu teoritis dan perbuatan pilihan adalah lintasan pikiran (al-khawathir). Lintasan pikiran melahirkan pemahaman konsepsi; konsepsi mengundang kemauan tekad (al-iradah); tekad menuntut terjadinya perbuatan nyata (al-af'al); dan pengulangan perbuatan melahirkan kebiasaan watak (al-'adah). Maka kebaikan tingkatan-tingkatan ini ditentukan oleh kebaikan penjagaan lintasan pikiran, dan kerusakannya ditentukan oleh kerusakannya!"* (*Al-Fawa'id*, hlm. 164).
 

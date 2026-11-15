@@ -123,9 +123,7 @@ Para ilmuwan dan filsuf muslim klasik telah meletakkan prinsip bahwa keteraturan
 ### 4.1 Doktrin Keteraturan Kosmik dan Sistemik dalam Al-Qur'an
 Al-Qur'an menegaskan bahwa seluruh ciptaan Allah ditegakkan di atas arsitektur sistem yang presisi, proporsional, dan saling mengunci secara harmonis, sebagaimana firman-Nya dalam Surah Al-Mulk [67]: 3:
 
-```arabic
-الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
-```
+> الَّذِي خَلَقَ سَبْعَ سَمَاوَاتٍ طِبَاقًا مَّا تَرَىٰ فِي خَلْقِ الرَّحْمَٰنِ مِن تَفَاوُتٍ فَارْجِعِ الْبَصَرَ هَلْ تَرَىٰ مِن فُطُورٍ
 
 > **Takhrij**: QS. Al-Mulk [67]: 3. Dielaborasi oleh Imam Al-Qurthubi dalam *Al-Jami' li Ahkam al-Qur'an* (Jilid 18, hlm. 207) dan Imam Ibnu Katsir dalam *Tafsir al-Qur'an al-'Azhim* (Jilid 8, hlm. 176).
 
@@ -136,9 +134,7 @@ Prinsip arsitektural ini wajib direplikasi dalam merancang institusi pendidikan 
 ### 4.2 Al-Farabi dalam Ara' Ahl al-Madinah al-Fadhilah: Arsitektur Kota Utama Organik
 Abu Nashr Muhammad al-Farabi (w. 339 H) dalam mahakaryanya *Kitab Ara' Ahl al-Madinah al-Fadhilah* merumuskan teori arsitektur sistem sosial-politik dengan menggunakan analogi tubuh biologis manusia:
 
-```arabic
-وَالْمَدِينَةُ الْفَاضِلَةُ تُشْبِهُ الْجِسْمَ التَّامَّ الصَّحِيحَ الَّذِي تَتَعَاوَنُ أَعْضَاؤُهُ كُلُّهَا عَلَى تَتْمِيمِ حَيَاةِ الْحَيَوَانِ وَعَلَى حِفْظِهَا عَلَيْهِ. وَكَمَا أَنَّ الْجِسْمَ أَعْضَاؤُهُ مُخْتَلِفَةٌ وَمُتَفَاوِتَةُ الْفِطْرَةِ وَالْقُوَى، وَفِيهَا عُضْوٌ رَئِيسٌ وَهُوَ الْقَلْبُ، وَأَعْضَاءٌ تُقَارِبُ الرَّئِيسَ فِي الْمَرْتَبَةِ، كَذَلِكَ الْمَدِينَةُ أَجْزَاؤُهَا مُخْتَلِفَةُ الْفِطْرَةِ، وَفِيهَا رَئِيسٌ وَمَرَاتِبُ تَتَلُو الرَّئِيسَ
-```
+> وَالْمَدِينَةُ الْفَاضِلَةُ تُشْبِهُ الْجِسْمَ التَّامَّ الصَّحِيحَ الَّذِي تَتَعَاوَنُ أَعْضَاؤُهُ كُلُّهَا عَلَى تَتْمِيمِ حَيَاةِ الْحَيَوَانِ وَعَلَى حِفْظِهَا عَلَيْهِ. وَكَمَا أَنَّ الْجِسْمَ أَعْضَاؤُهُ مُخْتَلِفَةٌ وَمُتَفَاوِتَةُ الْفِطْرَةِ وَالْقُوَى، وَفِيهَا عُضْوٌ رَئِيسٌ وَهُوَ الْقَلْبُ، وَأَعْضَاءٌ تُقَارِبُ الرَّئِيسَ فِي الْمَرْتَبَةِ، كَذَلِكَ الْمَدِينَةُ أَجْزَاؤُهَا مُخْتَلِفَةُ الْفِطْرَةِ، وَفِيهَا رَئِيسٌ وَمَرَاتِبُ تَتَلُو الرَّئِيسَ
 
 > **Takhrij**: Al-Farabi, *Mabadi' Ara' Ahl al-Madinah al-Fadhilah*, Fasl 26: fi anna al-Madinah al-Fadhilah Tusybihu al-Jism ash-Shahih (Dar al-Masyriq, Beirut, hlm. 118).
 
@@ -149,9 +145,7 @@ Al-Farabi menggarisbawahi prinsip arsitektur sistem:
 ### 4.3 Ibnu Khaldun dalam Muqaddimah: Ketergantungan Timbal Balik Struktur Sosial ('Umran)
 Waliyyuddin Abdurrahman bin Khaldun (w. 808 H) dalam *Al-Muqaddimah* membedah bagaimana institusi peradaban manusia (*al-'umran al-basyari*) bekerja melalui keterkaitan sistemik yang saling mengunci:
 
-```arabic
-إِنَّ الْمَلِكَ لَا يَتِمُّ عِزُّهُ إِلَّا بِالشَّرِيعَةِ، وَالشَّرِيعَةَ لَا تَقُومُ إِلَّا بِالْمُلْكِ، وَالْمُلْكَ لَا قِوَامَ لَهُ إِلَّا بِالرِّجَالِ، وَالرِّجَالَ لَا ثَبَاتَ لَهُمْ إِلَّا بِالْمَالِ، وَالْمَالَ لَا يُجْلَبُ إِلَّا بِالْعِمَارَةِ، وَالْعِمَارَةَ لَا تَدُومُ إِلَّا بِالْعَدْلِ
-```
+> إِنَّ الْمَلِكَ لَا يَتِمُّ عِزُّهُ إِلَّا بِالشَّرِيعَةِ، وَالشَّرِيعَةَ لَا تَقُومُ إِلَّا بِالْمُلْكِ، وَالْمُلْكَ لَا قِوَامَ لَهُ إِلَّا بِالرِّجَالِ، وَالرِّجَالَ لَا ثَبَاتَ لَهُمْ إِلَّا بِالْمَالِ، وَالْمَالَ لَا يُجْلَبُ إِلَّا بِالْعِمَارَةِ، وَالْعِمَارَةَ لَا تَدُومُ إِلَّا بِالْعَدْلِ
 
 > **Takhrij**: Ibnu Khaldun, *Al-Muqaddimah*, Kitab al-Awwal, Fasl 42: fi anna azh-Zhulma Mu'dzinun bi Kharab al-'Umran (Dar al-Kitab al-Lubnani, Beirut, hlm. 556).
 
@@ -162,9 +156,7 @@ Lingkaran kausalitas Ibnu Khaldun ini membuktikan bahwa:
 ### 4.4 Imam Asy-Syathibi dalam Al-Muwafaqat: Syariat sebagai Struktur Bangunan Tunggal
 Imam Asy-Syathibi dalam *Al-Muwafaqat* menegaskan bahwa hukum-hukum syariat tidak boleh dipandang secara terpotong-potong, melainkan sebagai sebuah kesatuan sistem utuh (*kulliyyah wahidah*):
 
-```arabic
-وَالشَّرِيعَةُ كُلُّهَا كَالْجَسَدِ الْوَاحِدِ، إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى. فَلَا يَجُوزُ أَخْذُ حُكْمٍ جُزْئِيٍّ بِمَعْزِلٍ عَنْ سَائِرِ الْأَحْكَامِ، لِأَنَّ مَفَاسِدَ التَّجْزِئَةِ تُفْضِي إِلَى هَدْمِ أُصُولِ الشَّرِيعَةِ وَانْخِرَامِ مَقَاصِدِهَا
-```
+> وَالشَّرِيعَةُ كُلُّهَا كَالْجَسَدِ الْوَاحِدِ، إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ بِالسَّهَرِ وَالْحُمَّى. فَلَا يَجُوزُ أَخْذُ حُكْمٍ جُزْئِيٍّ بِمَعْزِلٍ عَنْ سَائِرِ الْأَحْكَامِ، لِأَنَّ مَفَاسِدَ التَّجْزِئَةِ تُفْضِي إِلَى هَدْمِ أُصُولِ الشَّرِيعَةِ وَانْخِرَامِ مَقَاصِدِهَا
 
 > **Takhrij**: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Kitab al-Ahkam (Dar Ibnu 'Affan, Jilid 2, hlm. 78).
 
@@ -176,9 +168,7 @@ Asy-Syathibi memperingatkan bahaya fragmentasi (*mafasid at-tajzi'ah*): memperla
 ### 4.5 Fakhruddin Ar-Razi dalam Mafatih al-Ghaib: Keterpaduan Kosmik dan Desain Hikmah Ilahiyyah
 Imam Fakhruddin ar-Razi (w. 606 H) dalam tafsir ensiklopedisnya *Mafatih al-Ghaib (At-Tafsir al-Kabir)* membedah hubungan mendalam antara keteraturan ciptaan Allah dengan kebijaksanaan arsitektur sistem sosial:
 
-```arabic
-إِنَّ اللَّهَ تَعَالَى بَنَى هَذَا الْعَالَمَ الْمَحْسُوسَ عَلَى غَايَةِ الْإِتْقَانِ وَنِهَايَةِ الْإِحْكَامِ، بِحَيْثُ إِذَا تَأَمَّلْتَ أَدْنَى ذَرَّةٍ فِيهِ وَجَدْتَهَا مَرْبُوطَةً بِالنِّظَامِ الْكُلِّيِّ لِلْوُجُودِ رَبْطًا لَا انْفِصَامَ لَهُ. وَكَمَا أَنَّ اخْتِلَالَ رَابِطَةٍ وَاحِدَةٍ فِي الْأَفْلَاكِ يُؤَدِّي إِلَى انْخِرَامِ النِّظَامِ الْكَوْنِيِّ، فَكَذَلِكَ تَدْبِيرُ مَصَالِحِ الْعِبَادِ لَا يَنْتَظِمُ إِلَّا بِتَرْتِيبٍ حِكْمِيٍّ تَتَنَاسَقُ فِيهِ الْغَايَاتُ مَعَ الْوَسَائِلِ
-```
+> إِنَّ اللَّهَ تَعَالَى بَنَى هَذَا الْعَالَمَ الْمَحْسُوسَ عَلَى غَايَةِ الْإِتْقَانِ وَنِهَايَةِ الْإِحْكَامِ، بِحَيْثُ إِذَا تَأَمَّلْتَ أَدْنَى ذَرَّةٍ فِيهِ وَجَدْتَهَا مَرْبُوطَةً بِالنِّظَامِ الْكُلِّيِّ لِلْوُجُودِ رَبْطًا لَا انْفِصَامَ لَهُ. وَكَمَا أَنَّ اخْتِلَالَ رَابِطَةٍ وَاحِدَةٍ فِي الْأَفْلَاكِ يُؤَدِّي إِلَى انْخِرَامِ النِّظَامِ الْكَوْنِيِّ، فَكَذَلِكَ تَدْبِيرُ مَصَالِحِ الْعِبَادِ لَا يَنْتَظِمُ إِلَّا بِتَرْتِيبٍ حِكْمِيٍّ تَتَنَاسَقُ فِيهِ الْغَايَاتُ مَعَ الْوَسَائِلِ
 
 > **Takhrij**: Fakhruddin ar-Razi, *Mafatih al-Ghaib*, Tafsir Surah Al-An'am [6]: 38 (Dar Ihya' at-Turats al-'Arabi, Jilid 12, hlm. 219).
 
@@ -187,9 +177,7 @@ Ar-Razi menegaskan bahwa dalam penciptaan Ilahi, bagian terkecil (*adna dzarrah*
 ### 4.6 Syamsuddin Ath-Thurthusi dalam Siraj al-Muluk: Harmonisasi Struktur Kelembagaan
 Abu Bakar ath-Thurthusi dalam *Siraj al-Muluk* (Bab fi Tartib al-Mamlakah wa Handasat al-Wilayah) memberikan analogi tata kelola kelembagaan:
 
-```arabic
-مَثَلُ الْمَمْلَكَةِ كَمَثَلِ الطَّاحُونَةِ: الْقُطْبُ فِيهَا هُوَ الْعَدْلُ، وَحَجَرُهَا هُوَ الرَّعِيَّةُ، وَمَاؤُهَا هُوَ الشَّرِيعَةُ، وَقَيِّمُهَا هُوَ الْإِمَامُ. فَإِنْ جَفَّ الْمَاءُ تَعَطَّلَتِ الطَّاحُونَةُ، وَإِنِ انْكَسَرَ الْقُطْبُ تَشَظَّى الْحَجَرُ، وَإِنْ غَفَلَ الْقَيِّمُ احْتَرَقَتِ الطَّاحُونَةُ
-```
+> مَثَلُ الْمَمْلَكَةِ كَمَثَلِ الطَّاحُونَةِ: الْقُطْبُ فِيهَا هُوَ الْعَدْلُ، وَحَجَرُهَا هُوَ الرَّعِيَّةُ، وَمَاؤُهَا هُوَ الشَّرِيعَةُ، وَقَيِّمُهَا هُوَ الْإِمَامُ. فَإِنْ جَفَّ الْمَاءُ تَعَطَّلَتِ الطَّاحُونَةُ، وَإِنِ انْكَسَرَ الْقُطْبُ تَشَظَّى الْحَجَرُ، وَإِنْ غَفَلَ الْقَيِّمُ احْتَرَقَتِ الطَّاحُونَةُ
 
 > **Takhrij**: Ath-Thurthusi, *Siraj al-Muluk*, Bab 14: fi Tartib al-Waza'if wa Inzhibath al-Ahwal (Dar ash-Shadir, Beirut, hlm. 112).
 
@@ -311,9 +299,7 @@ TUMBUH membongkar bahaya ilutif dari glorifikasi masa lalu ini:
 Perdebatan palsu yang sering terjadi adalah mempertentangkan antara 'kecanggihan sistem' dengan 'keikhlasan hati'. Sebagian kalangan menganggap bahwa semakin canggih sistem IT dan SOP sebuah pesantren, semakin hilang nilai keikhlasannya.
 
 TUMBUH menegaskan bahwa dalam peradaban Islam, **Itqan al-'Amal (Ketelitian Profesional)** adalah bagian tak terpisahkan dari keikhlasan:
-```arabic
-إِنَّ اللَّهَ تَعَالَى يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
-```
+> إِنَّ اللَّهَ تَعَالَى يُحِبُّ إِذَا عَمِلَ أَحَدُكُمْ عَمَلًا أَنْ يُتْقِنَهُ
 > **Takhrij**: HR. Al-Baihaqi dalam *Syu'ab al-Iman*, hadits no. 4929; dinilai hasan oleh Al-Albani dalam *Shahih al-Jami'* no. 1880.
 
 Ikhlas sejati bukan berarti bekerja serampangan tanpa rencana; ikhlas sejati adalah mengerahkan seluruh daya nalar dan ilmu arsitektur terbaik untuk melayani santri, lalu bertawakal sepenuhnya kepada Allah SWT. Rigoritas arsitektur sistem di Domain 09 adalah wujud nyata *itqan*, sedangkan kasih sayang musyrif di kamar adalah wujud nyata *ihsan*. Keduanya bersatu dalam harmoni adab.

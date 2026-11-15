@@ -92,9 +92,7 @@ Ibnu al-Qayyim memperingatkan bahaya seorang hakim yang bertindak seperti robot 
 
 ### 4.2. Hermeneutika Fakta dan Batas Kekuasaan Bukti Menurut Ibnu Farhun
 Selaras dengan Ibnu al-Qayyim, ulama besar mazhab Maliki Burhanuddin Ibnu Farhun (w. 799 H) dalam karyanya *Tabshirat al-Hukkam fi Ushul al-Aqdhiyah wa Manahij al-Ahkam* (Kairo: Maktabah al-Kulliyyat al-Azhariyyah, 1986, Juz 1, hal. 182–185) membedakan secara rigid antara *Khabar* (laporan fakta indrawi) dengan *Insha' al-Hukm* (pembentukan ketetapan hukum):
-```text
-الْخَبَرُ يَحْتَمِلُ الصِّدْقَ وَالْكِذْبَ لِذَاتِهِ، وَإِنَّمَا يَتَرَجَّحُ أَحَدُهُمَا بِالْقَرَائِنِ وَالتَّعْدِيلِ. أَمَّا الْحُكْمُ فَهُوَ إِنْشَاءٌ لِلْإِلْزَامِ لَا يَنْبَغِي أَنْ يَبْتَنِيَ عَلَى ظَنٍّ مَرْجُوحٍ أَوْ مُعَايَنَةٍ مَبْتُورَةٍ عَنْ سِيَاقِهَا.
-```
+> الْخَبَرُ يَحْتَمِلُ الصِّدْقَ وَالْكِذْبَ لِذَاتِهِ، وَإِنَّمَا يَتَرَجَّحُ أَحَدُهُمَا بِالْقَرَائِنِ وَالتَّعْدِيلِ. أَمَّا الْحُكْمُ فَهُوَ إِنْشَاءٌ لِلْإِلْزَامِ لَا يَنْبَغِي أَنْ يَبْتَنِيَ عَلَى ظَنٍّ مَرْجُوحٍ أَوْ مُعَايَنَةٍ مَبْتُورَةٍ عَنْ سِيَاقِهَا.
 > "Laporan fakta (khabar) secara esensial memiliki probabilitas benar atau dusta. Kecondongan pada salah satunya hanya dapat ditetapkan melalui indikator penguat (*qara'in*) dan uji kredibilitas (*ta'dil*). Sedangkan hukum adalah penciptaan keterikatan normatif (*insya' lil-ilzam*), yang sama sekali tidak boleh dibangun di atas dugaan yang lemah (*zhann marjuh*) atau pengamatan empiris yang terpotong dari konteks utuhnya."
 
 Kutipan turats di atas menjadi pondasi teologis yang meruntuhkan hegemoni positivisme data modern. Sebuah file hasil survei kepuasan di `08_SOURCES_AND_EVIDENCE/` berstatus *khabar*: ia membawa kemungkinan bias metodologis, ketidakjujuran responden, kesalahan instrumen, atau reduksi sampel. Menjadikannya langsung sebagai dasar ketetapan (*insya' al-hukm*) di `01_` tanpa verifikasi dan dekontekstualisasi kritis adalah tindakan ceroboh (*tahawwur*) yang dicela dalam syariat.

@@ -54,11 +54,7 @@ Dalam khazanah wahyu Al-Qur'an dan Sunnah, kebahagiaan sejati (*as-sa'adah*) ada
 
 1. **Ketenangan Hati yang Hakiki Hanya Diperoleh Melalui Zikir Kepada Allah:**
 
-   ```arabic
-
-   الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
-
-   ```
+   > الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
 
    > *"(Yaitu) orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingati Allah-lah hati menjadi tenteram."* (QS. Ar-Ra'd: 28).  
 
@@ -68,11 +64,7 @@ Dalam khazanah wahyu Al-Qur'an dan Sunnah, kebahagiaan sejati (*as-sa'adah*) ada
 
 2. **Jaminan Kehidupan yang Baik (*Hayah Thayyibah*) Bagi Pelaku Kebaikan:**
 
-   ```arabic
-
-   مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
-
-   ```
+   > مَنْ عَمِلَ صَالِحًا مِّن ذَكَرٍ أَوْ أُنثَىٰ وَهُوَ مُؤْمِنٌ فَلَنُحْيِيَنَّهُ حَيَاةً طَيِّبَةً ۖ وَلَنَجْزِيَنَّهُمْ أَجْرَهُم بِأَحْسَنِ مَا كَانُوا يَعْمَلُونَ
 
    > *"Barangsiapa yang mengerjakan amal saleh, baik laki-laki maupun perempuan dalam keadaan beriman, maka sesungguhnya akan Kami berikan kepadanya kehidupan yang baik (hayah thayyibah), dan sesungguhnya akan Kami beri balasan kepada mereka dengan pahala yang lebih baik dari apa yang telah mereka kerjakan."* (QS. An-Nahl: 97).
 
@@ -80,11 +72,7 @@ Dalam khazanah wahyu Al-Qur'an dan Sunnah, kebahagiaan sejati (*as-sa'adah*) ada
 
 3. **Kekayaan Sejati Adalah Ketenangan dan Kepuasan Jiwa (*Ghina an-Nafs*):**
 
-   ```arabic
-
-   لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ
-
-   ```
+   > لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ
 
    > *Rasulullah ﷺ bersabda: "Bukanlah kekayaan itu dengan banyaknya harta benda kemewahan, melainkan kekayaan yang hakiki adalah kekayaan (kepuasan) jiwa."* (HR. Al-Bukhari no. 6446 & Muslim no. 1051).
 
@@ -208,11 +196,7 @@ Para ulama mu'tabar menguraikan hakikat kebahagiaan dengan sangat jernih dan men
 
    Menggambarkan kebahagiaan surga duniawi yang dirasakan oleh seorang mukmin di dalam hatinya:  
 
-   ```arabic
-
-   إِنَّ فِي الدُّنْيَا جَنَّةً، مَنْ لَمْ يَدْخُلْهَا لَمْ يَدْخُلْ جَنَّةَ الْآخِرَةِ؛ وَهِيَ جَنَّةُ مَعْرِفَةِ اللَّهِ وَمَحَبَّتِهِ وَالْأُنْسِ بِهِ
-
-   ```
+   > إِنَّ فِي الدُّنْيَا جَنَّةً، مَنْ لَمْ يَدْخُلْهَا لَمْ يَدْخُلْ جَنَّةَ الْآخِرَةِ؛ وَهِيَ جَنَّةُ مَعْرِفَةِ اللَّهِ وَمَحَبَّتِهِ وَالْأُنْسِ بِهِ
 
    > *"Sesungguhnya di dunia ini ada surga; barangsiapa yang belum memasukinya, niscaya ia tidak akan memasuki surga akhirat. Surga itu adalah surga ma'rifatullah, mencintai-Nya, dan merasa intim dengan-Nya."*  
 

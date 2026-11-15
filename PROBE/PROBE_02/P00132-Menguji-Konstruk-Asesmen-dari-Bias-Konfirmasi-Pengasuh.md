@@ -126,107 +126,101 @@ Syariat Islam memberikan peringatan epistemologis yang sangat keras terhadap bah
 
 1. **Larangan Mengikuti Prasangka Tanpa Bukti Objektif:**  
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا
-
-   ```  
-
-   > *"Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu adalah dosa, dan janganlah kamu mencari-cari kesalahan orang lain..."* (QS. Al-Hujurat: 12).  
-
-   Ayat ini secara eksplisit mengaitkan antara prasangka (*zhann*) dengan tindakan mencari-cari aib (*tajassus*). Bias konfirmasi adalah wujud modern dari *tajassus kognitif*: pikiran musyrif secara aktif menyaring dan mencari-cari kekeliruan santri hanya untuk membuktikan prasangka negatifnya sendiri.
-
-
-
-2. **Kerapuhan Nalar yang Mengekor Hawa Nafsu:**  
-
-   ```arabic
-
-   إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ
-
-   ```  
-
-   > *"Mereka tidak lain hanyalah mengikuti persangkaan dan apa yang disukai oleh hawa nafsu mereka, padahal sungguh telah datang petunjuk dari Tuhan mereka."* (QS. An-Najm: 23).  
-
-   Nash ini membongkar psikodinamika bias konfirmasi: prasangka intelektual hampir selalu didorong oleh kecenderungan emosional bawah sadar (*hawa al-anfus*), seperti rasa kesal masa lalu pengasuh, kelelahan fisik, atau ketidaksukaan personal terhadap tabiat santri tertentu.
-
-
-
-3. **Perintah Bersikap Adil Bahkan Terhadap Pihak yang Dibenci:**  
-
-   ```arabic
-
-   وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ
-
-   ```  
-
-   > *"Dan janganlah sekali-kali kebencianmu terhadap suatu kaum mendorong kamu untuk berlaku tidak adil. Berlaku adillah, karena adil itu lebih dekat kepada takwa."* (QS. Al-Ma'idah: 8).  
-
-   Kaidah keadilan asesmen dalam Islam menuntut pengasuh bersikap objektif mutlak: rasa tidak suka terhadap pelanggaran santri tidak boleh membuat musyrif buta terhadap amal kebajikan atau perbaikan perilaku yang telah ditunjukkan santri tersebut.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Kognitif / Psikometri
-
-
-
-Psikologi kognitif modern dan teori pengukuran psikometri menyediakan pembuktian empiris mengenai anatomi bias penilai (*rater bias*):
-
-
-
-1. **Arsitektur Kognitif Bias Konfirmasi (*Nickerson, 1998; Wason, 1960*):**  
-
-   Penelitian Peter Wason membuktikan bahwa otak manusia secara alami mencari bukti pembenaran bagi hipotesis awal dan secara aktif menolak bukti penyangkal (*falsifying evidence*). Raymond Nickerson mengidentifikasi tiga bentuk bias konfirmasi: (a) *selective gathering* (hanya mengumpulkan data yang mendukung label), (b) *selective interpretation* (menafsirkan data ambigu sebagai bukti keburukan), dan (c) *selective recall* (hanya mengingat kesalahan santri dan melupakan prestasinya).
-
-
-
-2. **Efek Rosenthal & Pygmalion vs Efek Golem (*Rosenthal & Jacobson, 1968; Babad et al., 1982*):**  
-
-   Eksperimen klasik Robert Rosenthal membuktikan bahwa ekspektasi guru secara langsung membentuk kinerja murid (*Pygmalion Effect*). Sebaliknya, ekspektasi negatif melahirkan *Golem Effect*: ketika musyrif meyakini seorang santri adalah "anak malas", santri tersebut menginternalisasi citra diri tersebut, mengalami penurunan motivasi intrinsik, dan memperlihatkan peningkatan pelanggaran secara riil.
-
-
-
-3. **Validitas Konstruk & Teori Respons Butir (*Construct Validity & Item Response Theory - IRT*):**  
-
-   Dalam psikometri (Messick, 1995), suatu asesmen adab dikatakan cacat konstruksinya (*construct-irrelevant variance*) apabila skor yang dihasilkan tidak mencerminkan adab asli santri, melainkan mencerminkan disposisi psikologis penilainya (misal: tingkat toleransi stres musyrif, kepribadian musyrif yang ekstrovert vs introvert, atau bias rasial/etnis). Tanpa *Behaviorally Anchored Rating Scales* (BARS), asesmen perilaku di asrama hanyalah cermin subjektivitas pengasuh.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Bias Pengamatan vs Asesmen Objektif TUMBUH
-
-
-
-| Dimensi Pengamatan | Pola Bias Konfirmasi Pengasuh (Reduksi Lapangan) | Konstruk Asesmen Sahih (TUMBUH v2.0.0) | Protokol Mitigasi Kognitif | Dampak Pertumbuhan Santri |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Pencatatan Insiden Harian** | Hanya mencatat kesalahan santri bermasalah; mengabaikan momen ketaatannya. | Pencatatan berimbang berbasis rasio 4:1 (minimal 4 apresiasi perilaku positif sebelum 1 koreksi). | Audit logbook mingguan: sistem menolak penginputan jika rasio pencatatan positif di bawah ambang batas. | Santri merasa usahanya dihargai; siklus putus asa dan dendam terputus. |
-
-| **Penafsiran Sikap Santri** | Menafsirkan tatapan mata santri yang lelah sebagai "tatapan menantang dan sombong". | Penilaian berbasis indikator perilaku eksplisit (BARS) tanpa melabeli motif batin (*tanzihun niyat*). | Refleksi de-biasing berkala: musyrif wajib menuliskan dua interpretasi alternatif yang berbaik sangka. | Santri merasa dipahami; terhindar dari trauma peradilan motif batin (*trial of intentions*). |
-
-| **Penyusunan Rapor Karakter** | Nilai rapor adab ditentukan oleh ingatan emosional musyrif semalam sebelum pembagian rapor. | Agregasi data triangulasi multi-rater (musyrif kamar, guru kelas, pembina halaqah, dan evaluasi diri santri). | Blind-assessment berkala dan audit psikometri antar-penilai (*Inter-Rater Reliability Test*). | Hasil evaluasi akuntabel, objektif, dan menjadi peta jalan pertumbuhan riil santri. |
-
-| **Respon terhadap Perbaikan Diri** | Curiga: *"Santri itu shalat di shaf pertama pasti karena mau minta izin pulang!"* | Pengakuan jujur dan validasi atas setiap perbaikan perilaku sekecil apa pun (*tashdiqul taubah*). | Kebijakan *Clean Slate Protocol*: riwayat pelanggaran historis dibersihkan berkala dari portal penilai harian. | Santri termotivasi untuk bertobat secara tuntas dan mantap dalam istiqamah. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا
+>
+>    ```  
+>
+>    > *"Wahai orang-orang yang beriman! Jauhilah banyak dari prasangka, sesungguhnya sebagian prasangka itu adalah dosa, dan janganlah kamu mencari-cari kesalahan orang lain..."* (QS. Al-Hujurat: 12).  
+>
+>    Ayat ini secara eksplisit mengaitkan antara prasangka (*zhann*) dengan tindakan mencari-cari aib (*tajassus*). Bias konfirmasi adalah wujud modern dari *tajassus kognitif*: pikiran musyrif secara aktif menyaring dan mencari-cari kekeliruan santri hanya untuk membuktikan prasangka negatifnya sendiri.
+>
+>
+>
+> 2. **Kerapuhan Nalar yang Mengekor Hawa Nafsu:**  
+>
+>
+>    إِن يَتَّبِعُونَ إِلَّا الظَّنَّ وَمَا تَهْوَى الْأَنفُسُ ۖ وَلَقَدْ جَاءَهُم مِّن رَّبِّهِمُ الْهُدَىٰ
+>
+>
+>    > *"Mereka tidak lain hanyalah mengikuti persangkaan dan apa yang disukai oleh hawa nafsu mereka, padahal sungguh telah datang petunjuk dari Tuhan mereka."* (QS. An-Najm: 23).  
+>
+>    Nash ini membongkar psikodinamika bias konfirmasi: prasangka intelektual hampir selalu didorong oleh kecenderungan emosional bawah sadar (*hawa al-anfus*), seperti rasa kesal masa lalu pengasuh, kelelahan fisik, atau ketidaksukaan personal terhadap tabiat santri tertentu.
+>
+>
+>
+> 3. **Perintah Bersikap Adil Bahkan Terhadap Pihak yang Dibenci:**  
+>
+>
+>    وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ
+>
+>
+>    > *"Dan janganlah sekali-kali kebencianmu terhadap suatu kaum mendorong kamu untuk berlaku tidak adil. Berlaku adillah, karena adil itu lebih dekat kepada takwa."* (QS. Al-Ma'idah: 8).  
+>
+>    Kaidah keadilan asesmen dalam Islam menuntut pengasuh bersikap objektif mutlak: rasa tidak suka terhadap pelanggaran santri tidak boleh membuat musyrif buta terhadap amal kebajikan atau perbaikan perilaku yang telah ditunjukkan santri tersebut.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Kognitif / Psikometri
+>
+>
+>
+> Psikologi kognitif modern dan teori pengukuran psikometri menyediakan pembuktian empiris mengenai anatomi bias penilai (*rater bias*):
+>
+>
+>
+> 1. **Arsitektur Kognitif Bias Konfirmasi (*Nickerson, 1998; Wason, 1960*):**  
+>
+>    Penelitian Peter Wason membuktikan bahwa otak manusia secara alami mencari bukti pembenaran bagi hipotesis awal dan secara aktif menolak bukti penyangkal (*falsifying evidence*). Raymond Nickerson mengidentifikasi tiga bentuk bias konfirmasi: (a) *selective gathering* (hanya mengumpulkan data yang mendukung label), (b) *selective interpretation* (menafsirkan data ambigu sebagai bukti keburukan), dan (c) *selective recall* (hanya mengingat kesalahan santri dan melupakan prestasinya).
+>
+>
+>
+> 2. **Efek Rosenthal & Pygmalion vs Efek Golem (*Rosenthal & Jacobson, 1968; Babad et al., 1982*):**  
+>
+>    Eksperimen klasik Robert Rosenthal membuktikan bahwa ekspektasi guru secara langsung membentuk kinerja murid (*Pygmalion Effect*). Sebaliknya, ekspektasi negatif melahirkan *Golem Effect*: ketika musyrif meyakini seorang santri adalah "anak malas", santri tersebut menginternalisasi citra diri tersebut, mengalami penurunan motivasi intrinsik, dan memperlihatkan peningkatan pelanggaran secara riil.
+>
+>
+>
+> 3. **Validitas Konstruk & Teori Respons Butir (*Construct Validity & Item Response Theory - IRT*):**  
+>
+>    Dalam psikometri (Messick, 1995), suatu asesmen adab dikatakan cacat konstruksinya (*construct-irrelevant variance*) apabila skor yang dihasilkan tidak mencerminkan adab asli santri, melainkan mencerminkan disposisi psikologis penilainya (misal: tingkat toleransi stres musyrif, kepribadian musyrif yang ekstrovert vs introvert, atau bias rasial/etnis). Tanpa *Behaviorally Anchored Rating Scales* (BARS), asesmen perilaku di asrama hanyalah cermin subjektivitas pengasuh.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Bias Pengamatan vs Asesmen Objektif TUMBUH
+>
+>
+>
+> | Dimensi Pengamatan | Pola Bias Konfirmasi Pengasuh (Reduksi Lapangan) | Konstruk Asesmen Sahih (TUMBUH v2.0.0) | Protokol Mitigasi Kognitif | Dampak Pertumbuhan Santri |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Pencatatan Insiden Harian** | Hanya mencatat kesalahan santri bermasalah; mengabaikan momen ketaatannya. | Pencatatan berimbang berbasis rasio 4:1 (minimal 4 apresiasi perilaku positif sebelum 1 koreksi). | Audit logbook mingguan: sistem menolak penginputan jika rasio pencatatan positif di bawah ambang batas. | Santri merasa usahanya dihargai; siklus putus asa dan dendam terputus. |
+>
+> | **Penafsiran Sikap Santri** | Menafsirkan tatapan mata santri yang lelah sebagai "tatapan menantang dan sombong". | Penilaian berbasis indikator perilaku eksplisit (BARS) tanpa melabeli motif batin (*tanzihun niyat*). | Refleksi de-biasing berkala: musyrif wajib menuliskan dua interpretasi alternatif yang berbaik sangka. | Santri merasa dipahami; terhindar dari trauma peradilan motif batin (*trial of intentions*). |
+>
+> | **Penyusunan Rapor Karakter** | Nilai rapor adab ditentukan oleh ingatan emosional musyrif semalam sebelum pembagian rapor. | Agregasi data triangulasi multi-rater (musyrif kamar, guru kelas, pembina halaqah, dan evaluasi diri santri). | Blind-assessment berkala dan audit psikometri antar-penilai (*Inter-Rater Reliability Test*). | Hasil evaluasi akuntabel, objektif, dan menjadi peta jalan pertumbuhan riil santri. |
+>
+> | **Respon terhadap Perbaikan Diri** | Curiga: *"Santri itu shalat di shaf pertama pasti karena mau minta izin pulang!"* | Pengakuan jujur dan validasi atas setiap perbaikan perilaku sekecil apa pun (*tashdiqul taubah*). | Kebijakan *Clean Slate Protocol*: riwayat pelanggaran historis dibersihkan berkala dari portal penilai harian. | Santri termotivasi untuk bertobat secara tuntas dan mantap dalam istiqamah. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: MISTISISME INTUITIF PENGASUH ]
 
@@ -346,11 +340,7 @@ Ulama turats terkemuka telah meletakkan prinsip-prinsip yang sangat detail menge
 
    Dalam ilmu kritik rawi (*rijalul hadits*), para ulama menetapkan kaidah emas:
 
-   ```arabic
-
-   لَا يُقْبَلُ الْجَرْحُ إِلَّا مُفَسَّرًا، وَكَلَامُ الْأَقْرَانِ بَعْضِهِمْ فِي بَعْضٍ يُطْوَى وَلَا يُرْوَى إِذَا كَانَ عَنْ عَدَاوَةٍ أَوْ مُنَافَسَةٍ
-
-   ```  
+   > لَا يُقْبَلُ الْجَرْحُ إِلَّا مُفَسَّرًا، وَكَلَامُ الْأَقْرَانِ بَعْضِهِمْ فِي بَعْضٍ يُطْوَى وَلَا يُرْوَى إِذَا كَانَ عَنْ عَدَاوَةٍ أَوْ مُنَافَسَةٍ
 
    > *"Kritik celaan (al-jarh) tidak diterima kecuali dijelaskan sebab-sebab konkretnya secara terperinci. Dan ucapan sesama kolega/rekan yang saling mencela dilipat dan tidak diriwayatkan apabila timbul dari permusuhan atau persaingan!"*  
 
@@ -362,11 +352,7 @@ Ulama turats terkemuka telah meletakkan prinsip-prinsip yang sangat detail menge
 
    Al-Ghazali mendefinisikan *su'udzan bathin* (prasangka buruk di dalam dada) yang merusak pengamatan:
 
-   ```arabic
-
-   كَمَا يَحْرُمُ عَلَيْكَ أَنْ تَتَكَلَّمَ فِي غَيْرِكَ بِمَا يَسُوءُهُ، فَكَذَلِكَ يَحْرُمُ عَلَيْكَ أَنْ تُحَدِّثَ نَفْسَكَ بِسُوءِ الظَّنِّ فِيهِ، وَعَلَامَةُ اسْتِقْرَارِ الظَّنِّ أَنْ يَتَغَيَّرَ قَلْبُكَ مَعَهُ عَمَّا كَانَ عَلَيْهِ، فَتَسْتَثْقِلَهُ أَوْ تَنْقُصَ مِنْ مُرَاعَاتِهِ وَإِكْرَامِهِ
-
-   ```  
+   > كَمَا يَحْرُمُ عَلَيْكَ أَنْ تَتَكَلَّمَ فِي غَيْرِكَ بِمَا يَسُوءُهُ، فَكَذَلِكَ يَحْرُمُ عَلَيْكَ أَنْ تُحَدِّثَ نَفْسَكَ بِسُوءِ الظَّنِّ فِيهِ، وَعَلَامَةُ اسْتِقْرَارِ الظَّنِّ أَنْ يَتَغَيَّرَ قَلْبُكَ مَعَهُ عَمَّا كَانَ عَلَيْهِ، فَتَسْتَثْقِلَهُ أَوْ تَنْقُصَ مِنْ مُرَاعَاتِهِ وَإِكْرَامِهِ
 
    > *"Sebagaimana diharamkan atasmu memperbincangkan keburukan saudaramu dengan lisanmu, demikian pula diharamkan atasmu membisikkan prasangka buruk dalam jiwamu tentangnya. Dan tanda menetapnya prasangka buruk adalah berubahnya sikap kalbumu terhadapnya dari keadaan semula, sehingga engkau merasa berat bersamanya atau berkurang penghormatan dan pemuliaanmu kepadanya."* (*Ihya' 'Ulumiddin*, Jilid III, Bab Afat al-Lisan).  
 
@@ -378,11 +364,7 @@ Ulama turats terkemuka telah meletakkan prinsip-prinsip yang sangat detail menge
 
    Ibnul Qayyim membedakan secara tegas antara firasat ilahiyyah yang murni dengan waham prasangka:
 
-   ```arabic
-
-   الْفَرْقُ بَيْنَ الْفِرَاسَةِ الْإِيمَانِيَّةِ وَبَيْنَ الظَّنِّ وَالْوَهْمِ: أَنَّ الْفِرَاسَةَ نُورٌ يَقْذِفُهُ اللَّهُ فِي قَلْبِ عَبْدِهِ يُمَيِّزُ بِهِ بَيْنَ الْحَقِّ وَالْبَاطِلِ وَالصَّادِقِ وَالْكَاذِبِ، وَشَرْطُهَا مُطَابَقَةُ الْحَقِّ وَعَدَمُ مُخَالَفَةِ الشَّرْعِ، أَمَّا الظَّنُّ فَهُوَ خَوَاطِرُ النَّفْسِ الْمَشُوبَةُ بِالْهَوَى وَالشَّيْطَانِ
-
-   ```  
+   > الْفَرْقُ بَيْنَ الْفِرَاسَةِ الْإِيمَانِيَّةِ وَبَيْنَ الظَّنِّ وَالْوَهْمِ: أَنَّ الْفِرَاسَةَ نُورٌ يَقْذِفُهُ اللَّهُ فِي قَلْبِ عَبْدِهِ يُمَيِّزُ بِهِ بَيْنَ الْحَقِّ وَالْبَاطِلِ وَالصَّادِقِ وَالْكَاذِبِ، وَشَرْطُهَا مُطَابَقَةُ الْحَقِّ وَعَدَمُ مُخَالَفَةِ الشَّرْعِ، أَمَّا الظَّنُّ فَهُوَ خَوَاطِرُ النَّفْسِ الْمَشُوبَةُ بِالْهَوَى وَالشَّيْطَانِ
 
    > *"Perbedaan antara firasat keimanan dan prasangka/ilusi adalah: bahwa firasat merupakan cahaya yang Allah hunjamkan ke dalam kalbu hamba-Nya untuk membedakan antara yang haq dan batil, yang jujur dan pendusta, dengan syarat ia selaras dengan kebenaran faktual dan tidak menyelisihi syariat. Adapun persangkaan (zhann) adalah bisikan jiwa yang telah tercampur oleh hawa nafsu dan setan."* (*Ar-Ruh*, Fasal al-Firasah).
 

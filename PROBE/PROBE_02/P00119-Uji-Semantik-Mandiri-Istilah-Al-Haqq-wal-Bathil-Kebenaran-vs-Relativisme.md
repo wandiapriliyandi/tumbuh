@@ -54,11 +54,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, *Al-Haqq* adalah sifat dan nama Allah y
 
 1. **Keniscayaan Hancurnya Kebatilan di Hadapan Cahaya Kebenaran:**
 
-   ```arabic
-
-   وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
-
-   ```
+   > وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ ۚ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا
 
    > *"Dan katakanlah: 'Yang benar telah datang dan yang batil telah lenyap.' Sesungguhnya yang batil itu adalah sesuatu yang pasti lenyap."* (QS. Al-Isra': 81).  
 
@@ -68,11 +64,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, *Al-Haqq* adalah sifat dan nama Allah y
 
 2. **Peringatan Keras Terhadap Tindakan Mencampuradukkan Hak dan Batil:**
 
-   ```arabic
-
-   وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنتُمْ تَعْلَمُونَ
-
-   ```
+   > وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنتُمْ تَعْلَمُونَ
 
    > *"Dan janganlah kamu campur-adukkan yang hak dengan yang batil dan janganlah kamu sembunyikan yang hak itu, sedang kamu mengetahui."* (QS. Al-Baqarah: 42).  
 
@@ -82,11 +74,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, *Al-Haqq* adalah sifat dan nama Allah y
 
 3. **Prinsip Mengakui Kebenaran dari Siapa Pun Datangnya:**
 
-   ```arabic
-
-   صَدَقَكَ وَهُوَ كَذُوبٌ
-
-   ```
+   > صَدَقَكَ وَهُوَ كَذُوبٌ
 
    > *Sabda Rasulullah ﷺ kepada Abu Hurairah radhiyallahu 'anhu mengenai perkataan setan tentang Ayat Kursi: "Dia telah berkata benar kepadamu, padahal dia adalah pendusta besar."* (HR. Al-Bukhari no. 2311).  
 
@@ -212,11 +200,7 @@ Para ulama salaf meletakkan kaidah agung tentang bagaimana seorang penuntut ilmu
 
    Menegaskan komitmen mutlaknya kepada kebenaran di atas pendapat pribadinya sendiri:  
 
-   ```arabic
-
-   إِذَا صَحَّ الْحَدِيثُ فَهُوَ مَذْهَبِي... وَإِذَا رَأَيْتُمْ كَلَامِي يُخَالِفُ كَلَامَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَاضْرِبُوا بِكَلَامِي عُرْضَ الْحَائِطِ
-
-   ```
+   > إِذَا صَحَّ الْحَدِيثُ فَهُوَ مَذْهَبِي... وَإِذَا رَأَيْتُمْ كَلَامِي يُخَالِفُ كَلَامَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَاضْرِبُوا بِكَلَامِي عُرْضَ الْحَائِطِ
 
    > *"Jika hadits itu shahih, maka itulah mazhabku... Dan jika kalian melihat perkataanku menyelisihi sabda Rasulullah ﷺ, maka lemparkanlah perkataanku ke dinding!"*  
 

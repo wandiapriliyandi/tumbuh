@@ -54,11 +54,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, organ biologis otak (khususnya ubun-ubu
 
 1. **Ubun-Ubun (*An-Nashiyah*) Sebagai Pusat Pengambilan Keputusan dan Moralitas:**
 
-   ```arabic
-
-   كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ * نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
-
-   ```
+   > كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ * نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ
 
    > *"Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya (dengan keras), (yaitu) ubun-ubun orang yang mendustakan lagi durhaka."* (QS. Al-'Alaq: 15-16).  
 
@@ -68,11 +64,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, organ biologis otak (khususnya ubun-ubu
 
 2. **Hati (*Al-Qalb*) Sebagai Pemimpin Tertinggi Seluruh Sistem Biologis:**
 
-   ```arabic
-
-   أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
-
-   ```
+   > أَلَا وَإِنَّ فِي الْجَسَدِ مُضْغَةً، إِذَا صَلَحَتْ صَلَحَ الْجَسَدُ كُلُّهُ، وَإِذَا فَسَدَتْ فَسَدَ الْجَسَدُ كُلُّهُ، أَلَا وَهِيَ الْقَلْبُ
 
    > *Rasulullah ﷺ bersabda: "Ingatlah bahwa di dalam jasad ada segumpal daging. Jika ia baik, maka baiklah seluruh jasad; dan jika ia rusak, maka rusaklah seluruh jasad. Ingatlah, ia adalah al-qalb (hati)!"* (HR. Al-Bukhari no. 52 & Muslim no. 1599).  
 
@@ -82,11 +74,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, organ biologis otak (khususnya ubun-ubu
 
 3. **Perintah Memperlakukan Manusia Sesuai Kadar Kapasitas Perkembangannya:**
 
-   ```arabic
-
-   خَاطِبُوا النَّاسَ عَلَى قَدْرِ عُقُولِهِمْ
-
-   ```
+   > خَاطِبُوا النَّاسَ عَلَى قَدْرِ عُقُولِهِمْ
 
    > *Sebagaimana dinukil dari atsar para sahabat: "Ajaklah manusia berbicara sesuai dengan kadar kapasitas akal mereka."*  
 
@@ -212,11 +200,7 @@ Para ulama turats terdahulu telah menguraikan keterikatan antara daya nalar otak
 
    Menjelaskan bahwa otak adalah instrumen organ fisik bagi daya nalar (*al-'aql al-gharizi*), sedangkan hakikat yang mengarahkan nalar tersebut adalah substansi ruhani lathifah (*al-qalb ar-ruhani*) yang terhubung dengan alam malakut:  
 
-   ```arabic
-
-   إِنَّ الدِّمَاغَ مَحَلُّ الْقُوَى الْمُدْرِكَةِ مِنَ الْحِسِّ الْمُشْتَرَكِ وَالْخَيَالِ وَالْفِكْرِ وَالذِّكْرِ، وَلَكِنَّ الْآمِرَ الْمُطَاعَ وَالْمُدَبِّرَ لِهَذِهِ الْقُوَى هُوَ الْقَلْبُ الرُّوحَانِيُّ
-
-   ```
+   > إِنَّ الدِّمَاغَ مَحَلُّ الْقُوَى الْمُدْرِكَةِ مِنَ الْحِسِّ الْمُشْتَرَكِ وَالْخَيَالِ وَالْفِكْرِ وَالذِّكْرِ، وَلَكِنَّ الْآمِرَ الْمُطَاعَ وَالْمُدَبِّرَ لِهَذِهِ الْقُوَى هُوَ الْقَلْبُ الرُّوحَانِيُّ
 
    > *"Sesungguhnya otak adalah tempat bagi daya-daya persepsi: indera bersama, imajinasi, pemikiran, dan memori; akan tetapi yang memerintah, ditaati, dan mengatur daya-daya ini adalah al-qalb ar-ruhani (hati ruhaniah)."*
 

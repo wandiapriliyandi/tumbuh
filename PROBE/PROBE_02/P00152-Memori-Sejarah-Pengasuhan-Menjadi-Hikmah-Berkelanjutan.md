@@ -128,107 +128,101 @@ Al-Qur'an Al-Karim menempatkan perenungan sejarah masa lalu (*al-i'tibar bit-tar
 
 1. **Kewajiban Mengambil Hikmah Pelajaran dari Peristiwa Sejarah:**  
 
-   ```arabic
-
-   لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ
-
-   ```  
-
-   > *"Sungguh, pada kisah-kisah mereka itu terdapat pelajaran (ibrah) bagi orang-orang yang mempunyai akal sehat. Al-Qur'an itu bukanlah cerita yang dibuat-buat..."* (QS. Yusuf: 111).  
-
-   Menelaah sejarah dinamika asrama masa lalu adalah ibadah tadabbur untuk mengambil *ibrah* hukum kausalitas tarbiyah.
-
-
-
-2. **Perintah Berjalan di Muka Bumi Meneliti Akibat Sejarah:**  
-
-   ```arabic
-
-   قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
-
-   ```  
-
-   > *"Sesungguhnya telah berlalu sebelum kamu sunnah-sunnah (ketetapan-ketetapan Allah); karena itu berjalanlah kamu di muka bumi dan perhatikanlah bagaimana akibat orang-orang yang mendustakan!"* (QS. Ali 'Imran: 137).
-
-
-
-3. **Larangan Jatuh ke Lubang yang Sama Dua Kali:**  
-
-   Rasulullah ﷺ bersabda dalam kaidah kehati-hatian epistemik yang mutlak:
-
-   ```arabic
-
-   لَا يُلْدَغُ الْمُؤْمِنُ مِنْ جُحْرٍ وَاحِدٍ مَرَّتَيْنِ
-
-   ```  
-
-   > *"Seorang mukmin tidak boleh tersengat (terperosok) dari satu lubang yang sama dua kali!"* (HR. Al-Bukhari no. 6133 & Muslim no. 2998).  
-
-   Pesantren yang membiarkan kasus perundungan atau kekeliruan SOP terulang kembali melanggar hadits kanonik ini karena gagal belajar dari memori masa lalunya.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Manajemen Pengetahuan / Pembelajaran Organisasi
-
-
-
-Sains manajemen pengetahuan modern dan teori pembelajaran kelembagaan menjelaskan bagaimana sebuah institusi bertransformasi menjadi organisasi pembelajar:
-
-
-
-1. **Model Konversi Pengetahuan SECI (*Nonaka & Takeuchi, 1995*):**  
-
-   Ikujiro Nonaka membuktikan bahwa peradaban organisasi maju melalui spiral konversi pengetahuan: (1) *Socialization* (musyrif muda magang mendampingi musyrif sepuh), (2) *Externalization* (mengartikulasikan pengalaman batin kiai menjadi panduan narasi tertulis), (3) *Combination* (mengintegrasikan catatan kasus ke dalam repositori kurikulum resmi), dan (4) *Internalization* (musyrif baru membaca dan mempraktikkan panduan tersebut hingga menjadi insting kedua). Tanpa siklus SECI, organisasi menderita kelumpuhan pengetahuan (*knowledge stagnation*).
-
-
-
-2. **Organisasi Pembelajar (*The Learning Organization - Peter Senge, The Fifth Discipline*):**  
-
-   Senge membuktikan bahwa organisasi yang berdaya tahan ratusan tahun memiliki kapasitas **Memori Kelembagaan (*Institutional Memory*)**: kemampuan merekam peta mental (*mental models*), menganalisis pola umpan balik sistemik (*systemic feedback loops*), dan melakukan pembelajaran putaran ganda (*double-loop learning*): tidak hanya bertanya *"bagaimana memperbaiki masalah ini?"*, tetapi bertanya *"asumsi apa dalam sistem kita yang membuat masalah ini bisa muncul?"*.
-
-
-
-3. **Penyusunan *Architecture Decision Records* (ADR) & *Post-Mortem Analysis*:**  
-
-   Dalam rekayasa sistem modern, setiap keputusan kritis dicatat latar belakangnya, pro-kontra opsinya, dan konsekuensinya dalam berkas ADR. Ketika kepengurusan berganti 10 tahun kemudian, pengurus baru memahami mengapa sebuah aturan dibuat, sehingga tidak mencabut aturan tersebut secara ceroboh tanpa memahami risiko sejarahnya (*Chesterton's Fence Principle*).
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Pengelolaan Memori Sejarah Tarbiyah TUMBUH
-
-
-
-| Instrumen Manajemen Memori | Format Dokumentasi Kanonik | Frekuensi Pembaruan & Audit | Pihak Pengakses & Penerima Warisan | Dampak Keberlanjutan Lembaga |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Buku Rekam Jejak Keputusan (ADR Repository)** | Format ADR standar TUMBUH: Konteks, Alternatif Opsi, Keputusan, dan Konsekuensi. | Setiap kali ada revisi aturan tata tertib atau SOP baru asrama. | Seluruh jajaran dewan pengasuhan, musyrif baru, dan auditor mutu. | Mencegah pembongkaran aturan secara ceroboh; memahami hikmah sejarah di balik setiap pasal. |
-
-| **Bank Studi Kasus Pengasuhan (*TUMBUH Case Bank*)** | Narasi studi kasus nyata yang dianonimkan: Anatomi Krisis, Intervensi yang Gagal, dan Intervensi yang Berhasil. | Setiap akhir semester (minimal 10 studi kasus baru per semester). | Bahan ajar wajib dalam Pelatihan Dasar Musyrif Baru (*Onboarding Training*). | Musyrif muda memiliki kesiapan mental setara musyrif senior; tidak kaget menghadapi krisis santri. |
-
-| **Arsip Wasiat Hikmah Musyrif Sepuh (*Oral History Archive*)** | Rekaman audio-visual wawancara mendalam dan transkrip wasiat adab masyayikh sepuh. | Diperbarui secara berkala sepanjang hayat para tokoh pengasuh senior. | Tersimpan di perpustakaan digital khusus; diputar dalam retret tahunan guru. | Terpeliharanya ruh keikhlasan dan berkah sanad pengasuhan melintasi pergantian zaman. |
-
-| **Audit Kegagalan Program (*Post-Mortem Review Log*)** | Analisis akar sebab tanpa menyalahkan individu (*blameless post-mortem*) atas program yang gagal. | Maksimal 14 hari pasca-terjadinya insiden krisis asrama. | Tim Khusus Manajemen Risiko & Dewan Asatidz TUMBUH. | Sistem langsung memperbaiki celah SOP; lubang kegagalan tertutup permanen selamanya. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    لَقَدْ كَانَ فِي قَصَصِهِمْ عِبْرَةٌ لِّأُولِي الْأَلْبَابِ ۗ مَا كَانَ حَدِيثًا يُفْتَرَىٰ
+>
+>    ```  
+>
+>    > *"Sungguh, pada kisah-kisah mereka itu terdapat pelajaran (ibrah) bagi orang-orang yang mempunyai akal sehat. Al-Qur'an itu bukanlah cerita yang dibuat-buat..."* (QS. Yusuf: 111).  
+>
+>    Menelaah sejarah dinamika asrama masa lalu adalah ibadah tadabbur untuk mengambil *ibrah* hukum kausalitas tarbiyah.
+>
+>
+>
+> 2. **Perintah Berjalan di Muka Bumi Meneliti Akibat Sejarah:**  
+>
+>
+>    قَدْ خَلَتْ مِن قَبْلِكُمْ سُنَنٌ فَسِيرُوا فِي الْأَرْضِ فَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُكَذِّبِينَ
+>
+>
+>    > *"Sesungguhnya telah berlalu sebelum kamu sunnah-sunnah (ketetapan-ketetapan Allah); karena itu berjalanlah kamu di muka bumi dan perhatikanlah bagaimana akibat orang-orang yang mendustakan!"* (QS. Ali 'Imran: 137).
+>
+>
+>
+> 3. **Larangan Jatuh ke Lubang yang Sama Dua Kali:**  
+>
+>    Rasulullah ﷺ bersabda dalam kaidah kehati-hatian epistemik yang mutlak:
+>
+>
+>    لَا يُلْدَغُ الْمُؤْمِنُ مِنْ جُحْرٍ وَاحِدٍ مَرَّتَيْنِ
+>
+>
+>    > *"Seorang mukmin tidak boleh tersengat (terperosok) dari satu lubang yang sama dua kali!"* (HR. Al-Bukhari no. 6133 & Muslim no. 2998).  
+>
+>    Pesantren yang membiarkan kasus perundungan atau kekeliruan SOP terulang kembali melanggar hadits kanonik ini karena gagal belajar dari memori masa lalunya.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Manajemen Pengetahuan / Pembelajaran Organisasi
+>
+>
+>
+> Sains manajemen pengetahuan modern dan teori pembelajaran kelembagaan menjelaskan bagaimana sebuah institusi bertransformasi menjadi organisasi pembelajar:
+>
+>
+>
+> 1. **Model Konversi Pengetahuan SECI (*Nonaka & Takeuchi, 1995*):**  
+>
+>    Ikujiro Nonaka membuktikan bahwa peradaban organisasi maju melalui spiral konversi pengetahuan: (1) *Socialization* (musyrif muda magang mendampingi musyrif sepuh), (2) *Externalization* (mengartikulasikan pengalaman batin kiai menjadi panduan narasi tertulis), (3) *Combination* (mengintegrasikan catatan kasus ke dalam repositori kurikulum resmi), dan (4) *Internalization* (musyrif baru membaca dan mempraktikkan panduan tersebut hingga menjadi insting kedua). Tanpa siklus SECI, organisasi menderita kelumpuhan pengetahuan (*knowledge stagnation*).
+>
+>
+>
+> 2. **Organisasi Pembelajar (*The Learning Organization - Peter Senge, The Fifth Discipline*):**  
+>
+>    Senge membuktikan bahwa organisasi yang berdaya tahan ratusan tahun memiliki kapasitas **Memori Kelembagaan (*Institutional Memory*)**: kemampuan merekam peta mental (*mental models*), menganalisis pola umpan balik sistemik (*systemic feedback loops*), dan melakukan pembelajaran putaran ganda (*double-loop learning*): tidak hanya bertanya *"bagaimana memperbaiki masalah ini?"*, tetapi bertanya *"asumsi apa dalam sistem kita yang membuat masalah ini bisa muncul?"*.
+>
+>
+>
+> 3. **Penyusunan *Architecture Decision Records* (ADR) & *Post-Mortem Analysis*:**  
+>
+>    Dalam rekayasa sistem modern, setiap keputusan kritis dicatat latar belakangnya, pro-kontra opsinya, dan konsekuensinya dalam berkas ADR. Ketika kepengurusan berganti 10 tahun kemudian, pengurus baru memahami mengapa sebuah aturan dibuat, sehingga tidak mencabut aturan tersebut secara ceroboh tanpa memahami risiko sejarahnya (*Chesterton's Fence Principle*).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Pengelolaan Memori Sejarah Tarbiyah TUMBUH
+>
+>
+>
+> | Instrumen Manajemen Memori | Format Dokumentasi Kanonik | Frekuensi Pembaruan & Audit | Pihak Pengakses & Penerima Warisan | Dampak Keberlanjutan Lembaga |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Buku Rekam Jejak Keputusan (ADR Repository)** | Format ADR standar TUMBUH: Konteks, Alternatif Opsi, Keputusan, dan Konsekuensi. | Setiap kali ada revisi aturan tata tertib atau SOP baru asrama. | Seluruh jajaran dewan pengasuhan, musyrif baru, dan auditor mutu. | Mencegah pembongkaran aturan secara ceroboh; memahami hikmah sejarah di balik setiap pasal. |
+>
+> | **Bank Studi Kasus Pengasuhan (*TUMBUH Case Bank*)** | Narasi studi kasus nyata yang dianonimkan: Anatomi Krisis, Intervensi yang Gagal, dan Intervensi yang Berhasil. | Setiap akhir semester (minimal 10 studi kasus baru per semester). | Bahan ajar wajib dalam Pelatihan Dasar Musyrif Baru (*Onboarding Training*). | Musyrif muda memiliki kesiapan mental setara musyrif senior; tidak kaget menghadapi krisis santri. |
+>
+> | **Arsip Wasiat Hikmah Musyrif Sepuh (*Oral History Archive*)** | Rekaman audio-visual wawancara mendalam dan transkrip wasiat adab masyayikh sepuh. | Diperbarui secara berkala sepanjang hayat para tokoh pengasuh senior. | Tersimpan di perpustakaan digital khusus; diputar dalam retret tahunan guru. | Terpeliharanya ruh keikhlasan dan berkah sanad pengasuhan melintasi pergantian zaman. |
+>
+> | **Audit Kegagalan Program (*Post-Mortem Review Log*)** | Analisis akar sebab tanpa menyalahkan individu (*blameless post-mortem*) atas program yang gagal. | Maksimal 14 hari pasca-terjadinya insiden krisis asrama. | Tim Khusus Manajemen Risiko & Dewan Asatidz TUMBUH. | Sistem langsung memperbaiki celah SOP; lubang kegagalan tertutup permanen selamanya. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: ROMANTISME NOSTALGIA BEKU ]
 
@@ -348,11 +342,7 @@ Tradisi pencatatan sejarah dan pengambilan ibrah telah menjadi pilar keilmuan Is
 
    Menegaskan tujuan sejati penulisan sejarah:
 
-   ```arabic
-
-   إِنَّمَا تُكْتَبُ التَّوَارِيخُ لِيَعْتَبِرَ أُولُو الْأَلْبَابِ بِمَا مَضَى مِنْ أَحْوَالِ السَّالِفِينَ، فَيَعْلَمُوا أَنَّ سُنَنَ اللَّهِ فِي خَلْقِهِ لَا تَتَبَدَّلُ، فَيَأْخُذُوا بِأَسْبَابِ النَّجَاةِ وَيَجْتَنِبُوا أَسْبَابَ الْهَلَاكِ
-
-   ```  
+   > إِنَّمَا تُكْتَبُ التَّوَارِيخُ لِيَعْتَبِرَ أُولُو الْأَلْبَابِ بِمَا مَضَى مِنْ أَحْوَالِ السَّالِفِينَ، فَيَعْلَمُوا أَنَّ سُنَنَ اللَّهِ فِي خَلْقِهِ لَا تَتَبَدَّلُ، فَيَأْخُذُوا بِأَسْبَابِ النَّجَاةِ وَيَجْتَنِبُوا أَسْبَابَ الْهَلَاكِ
 
    > *"Sesungguhnya sejarah itu ditulis semata-mata agar orang-orang yang berakal mengambil ibrah (pelajaran) dari apa yang telah berlalu dari keadaan generasi terdahulu; sehingga mereka mengetahui bahwa ketetapan-ketetapan Allah (sunnatullah) pada ciptaan-Nya tidak pernah berubah; lalu mereka mengambil sebab-sebab keselamatan dan menjauhi sebab-sebab kebinasaan!"* (*Al-Bidayah wan-Nihayah*, Jilid I, Muqaddimah).
 

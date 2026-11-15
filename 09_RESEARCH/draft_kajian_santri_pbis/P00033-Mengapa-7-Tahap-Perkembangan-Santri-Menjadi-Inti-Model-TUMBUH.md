@@ -44,23 +44,20 @@ Ketujuh tahap ini bukan sekadar klasifikasi administratif, melainkan **Inti Mode
 ### 3.1. Rujukan Teks Turats Otoritatif: Sunatullah Bertahap dalam Pembinaan Jiwa
 Islam memandang pertumbuhan jiwa manusia tunduk pada ketetapan sunatullah yang berproses secara bertahap (*at-Tadarruj*). Allah Ta'ala berfirman dalam Al-Qur'an:
 
-```arabic
-لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
-```
+> لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ
+
 *(Sesungguhnya kamu benar-benar akan menjalani tingkat demi tingkat [dalam kehidupan]).*
 — **QS. Al-Insyiqaq [84]: 19**.
 
 Imam Al-Qurthubi (w. 671 H) dalam tafsir *Al-Jami' li Ahkam al-Qur'an* menjelaskan makna ayat ini:
-```arabic
-أَيْ حَالًا بَعْدَ حَالٍ، وَمَنْزِلَةً بَعْدَ مَنْزِلَةٍ، مِنْ طُفُولِيَّةٍ إِلَى شَبَابٍ، وَمِنْ تَعَلُّمٍ إِلَى فَهْمٍ، وَمِنْ جَهْدٍ إِلَى تَمْكِينٍ؛ فَلَا يَصِلُ الْعَبْدُ إِلَى كَمَالِ الرُّشْدِ إِلَّا بِقَطْعِ هَذِهِ الْمَنَازِلِ مَنْزِلَةً مَنْزِلَةً دُونَ طَفْرَةٍ
-```
+> أَيْ حَالًا بَعْدَ حَالٍ، وَمَنْزِلَةً بَعْدَ مَنْزِلَةٍ، مِنْ طُفُولِيَّةٍ إِلَى شَبَابٍ، وَمِنْ تَعَلُّمٍ إِلَى فَهْمٍ، وَمِنْ جَهْدٍ إِلَى تَمْكِينٍ؛ فَلَا يَصِلُ الْعَبْدُ إِلَى كَمَالِ الرُّشْدِ إِلَّا بِقَطْعِ هَذِهِ الْمَنَازِلِ مَنْزِلَةً مَنْزِلَةً دُونَ طَفْرَةٍ
+
 *(Yaitu keadaan demi keadaan, tingkatan demi tingkatan; dari masa kanak-kanak menuju masa muda, dari proses belajar hafalan menuju pemahaman nalar, dan dari perjuangan berat menuju kematangan kepemimpinan. Maka seorang hamba tidak akan sampai kepada kesempurnaan kedewasaan akal budi [ar-rusyd] melainkan dengan menempuh tingkatan-tingkatan ini setahap demi setahap tanpa melompat secara gegabah).*
 — **Al-Qurthubi**, *Al-Jami' li Ahkam al-Qur'an*, Jilid 19, Hal. 274.
 
 Imam Ibnu Muflih al-Maqdisi (w. 763 H) dalam mahakaryanya *Al-Adab asy-Syar'iyyah* menegaskan kaidah didaktik ulama salaf dalam mendidik anak santri:
-```arabic
-وَيَنْبَغِي لِلْمُؤَدِّبِ أَنْ يَتَدَرَّجَ بِالصَّبِيِّ فِي مَرَاتِبِ التَّأْدِيبِ، فَيَبْدَأَ بِالتَّأْنِيسِ وَالتَّرْغِيبِ، ثُمَّ بِالتَّعْوِيدِ عَلَى الْمَحَاسِنِ، ثُمَّ بِإِبَانَةِ الْعِلَلِ وَالْمَعَانِي، ثُمَّ بِتَفْوِيضِ الْأَمْرِ إِلَيْهِ رُوَيْدًا رُوَيْدًا؛ فَإِنَّ حَمْلَ النَّفْسِ عَلَى غَيْرِ طَبْعِهَا دَفْعَةً وَاحِدَةً يُورِثُ النِّفَارَ وَالْفَسَادَ
-```
+> وَيَنْبَغِي لِلْمُؤَدِّبِ أَنْ يَتَدَرَّجَ بِالصَّبِيِّ فِي مَرَاتِبِ التَّأْدِيبِ، فَيَبْدَأَ بِالتَّأْنِيسِ وَالتَّرْغِيبِ، ثُمَّ بِالتَّعْوِيدِ عَلَى الْمَحَاسِنِ، ثُمَّ بِإِبَانَةِ الْعِلَلِ وَالْمَعَانِي، ثُمَّ بِتَفْوِيضِ الْأَمْرِ إِلَيْهِ رُوَيْدًا رُوَيْدًا؛ فَإِنَّ حَمْلَ النَّفْسِ عَلَى غَيْرِ طَبْعِهَا دَفْعَةً وَاحِدَةً يُورِثُ النِّفَارَ وَالْفَسَادَ
+
 *(Dan sepatutnya bagi seorang pendidik [mu'addib] untuk mendidik anak santri setingkat demi setingkat dalam tingkatan adab: memulainya dengan pendekatan ramah kasih sayang dan penumbuhan rasa suka, lalu membiasakan perbuatan mulia, lalu menjelaskan alasan dan hikmah maknanya, kemudian mendelegasikan tanggung jawab kepadanya secara perlahan-lahan. Karena sesungguhnya memaksakan jiwa melompati kodrat alaminya secara serentak hanya akan melahirkan penolakan batin dan kerusakan watak).*
 — **Ibnu Muflih**, *Al-Adab asy-Syar'iyyah wa al-Minah al-Mar'iyyah*, Jilid 3, Hal. 562.
 

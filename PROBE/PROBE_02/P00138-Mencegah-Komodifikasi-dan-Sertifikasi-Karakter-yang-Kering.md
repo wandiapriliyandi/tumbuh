@@ -62,9 +62,7 @@ Arus neoliberalisme pendidikan dan tren industri "pendidikan karakter" kontempor
 Syariat Islam memberikan ancaman keras terhadap penggunaan amal agama dan akhlak untuk meraih keuntungan duniawi yang fana:
 
 1. **Peringatan Keras Menjual Ayat dan Agama demi Harga Murah:**  
-   ```arabic
-   وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ
-   ```  
+   >    وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ
    > *"Dan janganlah kamu menukarkan ayat-ayat-Ku dengan harga yang sedikit, dan hanya kepada-Akulah kamu harus bertakwa."* (QS. Al-Baqarah: 41).  
    Menjadikan pembinaan adab santri sebagai komoditas bisnis untuk menaikkan tarif sekolah tanpa mempedulikan hakikat pembersihan jiwa adalah wujud modern dari menjual ayat Allah dengan harga murah.
 
@@ -72,9 +70,7 @@ Syariat Islam memberikan ancaman keras terhadap penggunaan amal agama dan akhlak
    Dalam hadits sahih riwayat Imam Muslim (no. 1905), tiga golongan manusia yang pertama kali dilemparkan ke dalam api neraka pada hari kiamat adalah orang yang berilmu, orang yang dermawan, dan pejuang yang gugur, yang seluruh amal agungnya dilakukan agar mendapat pengakuan dan pujian manusia (*liyuqala: innahu 'alim, jawad, syaji'*). Sistem sertifikasi karakter yang menumbuhkan riya' di hati santri secara langsung menjerumuskan mereka ke dalam jurang kebinasaan akhirat ini.
 
 3. **Hakikat Ikhlas sebagai Syarat Mutlak Diterimanya Amal:**  
-   ```arabic
-   وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ
-   ```  
+   >    وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ
    > *"Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama yang lurus..."* (QS. Al-Bayyinah: 5).
 
 ---
@@ -168,23 +164,17 @@ Para ulama turats telah memberikan peringatan keras mengenai bahaya mencari duni
 
 1. **Al-Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab Riya' wa Syawa'ib al-Ikhlas):**  
    Al-Ghazali mendefinisikan bahaya memperjualbelikan simbol kesalehan:
-   ```arabic
-   شَرُّ النَّاسِ مَنْ طَلَبَ الدُّنْيَا بِعَمَلِ الْآخِرَةِ، وَأَشَرُّ مِنْهُ مَنْ أَظْهَرَ الصَّلَاحَ وَالتَّقْوَى لِيُعَظَّمَ بَيْنَ النَّاسِ وَتُقْضَى لَهُ الْحَوَائِجُ؛ فَإِنَّ ذَلِكَ اسْتِهْزَاءٌ بِآيَاتِ اللَّهِ وَمُخَادَعَةٌ لِلْمُؤْمِنِينَ
-   ```  
+   >    شَرُّ النَّاسِ مَنْ طَلَبَ الدُّنْيَا بِعَمَلِ الْآخِرَةِ، وَأَشَرُّ مِنْهُ مَنْ أَظْهَرَ الصَّلَاحَ وَالتَّقْوَى لِيُعَظَّمَ بَيْنَ النَّاسِ وَتُقْضَى لَهُ الْحَوَائِجُ؛ فَإِنَّ ذَلِكَ اسْتِهْزَاءٌ بِآيَاتِ اللَّهِ وَمُخَادَعَةٌ لِلْمُؤْمِنِينَ
    > *"Seburuk-buruk manusia adalah orang yang mencari dunia dengan amal akhirat, dan yang lebih buruk lagi darinya adalah orang yang menampakkan kesalehan dan ketakwaan agar ia diagungkan di tengah-tengah manusia dan dipenuhi hajat-hajat dunianya; karena sesungguhnya perbuatan itu adalah pelecehan terhadap ayat-ayat Allah dan penipuan terhadap kaum mukminin!"* (*Ihya' 'Ulumiddin*, Jilid III, Bab Afat ar-Riya').
 
 2. **Al-Imam Ibnul Qayyim dalam *Al-Fawa'id* (Ikhlas vs Syahwat Tersembunyi):**  
    Menjelaskan hakikat syahwat halus (*asy-syahwah al-khafiyyah*):
-   ```arabic
-   مَنْ عَرَفَ اللَّهَ اشْتَغَلَ بِهِ عَنْ هَوَى نَفْسِهِ، وَمَنْ عَرَفَ نَفْسَهُ مَقَتَهَا فِي ذَاتِ اللَّهِ. وَأَخْوَفُ مَا يَخَافُ عَلَى السَّالِكِ: أَنْ يَسْتَبْدِلَ بِرِضَا اللَّهِ جَاهًا عِنْدَ الْخَلْقِ أَوْ ثَنَاءً عَلَى أَلْسِنَتِهِمْ
-   ```  
+   >    مَنْ عَرَفَ اللَّهَ اشْتَغَلَ بِهِ عَنْ هَوَى نَفْسِهِ، وَمَنْ عَرَفَ نَفْسَهُ مَقَتَهَا فِي ذَاتِ اللَّهِ. وَأَخْوَفُ مَا يَخَافُ عَلَى السَّالِكِ: أَنْ يَسْتَبْدِلَ بِرِضَا اللَّهِ جَاهًا عِنْدَ الْخَلْقِ أَوْ ثَنَاءً عَلَى أَلْسِنَتِهِمْ
    > *"Barangsiapa mengenal Allah niscaya ia sibuk bersama-Nya meninggalkan hawa nafsunya. Dan perkara yang paling dikhawatirkan atas seorang penuntut ilmu adalah: ia menukar keridhaan Allah demi mendapatkan kedudukan (gengsi) di mata makhluk atau pujian di lidah-lidah mereka!"*
 
 3. **Al-Imam Ibnu 'Athaillah As-Sakandari dalam *Al-Hikam*:**  
    Menegaskan tanda amal yang ikhlas:
-   ```arabic
-   مِنْ عَلَامَاتِ النُّجْحِ فِي النِّهَايَاتِ الرُّجُوعُ إِلَى اللَّهِ فِي الْبِدَايَاتِ. إِدْفِنْ وُجُودَكَ فِي أَرْضِ الْخُمُولِ، فَمَا نَبَتَ مِمَّا لَمْ يُدْفَنْ لَا يَتِمُّ نَتَاجُهُ
-   ```  
+   >    مِنْ عَلَامَاتِ النُّجْحِ فِي النِّهَايَاتِ الرُّجُوعُ إِلَى اللَّهِ فِي الْبِدَايَاتِ. إِدْفِنْ وُجُودَكَ فِي أَرْضِ الْخُمُولِ، فَمَا نَبَتَ مِمَّا لَمْ يُدْفَنْ لَا يَتِمُّ نَتَاجُهُ
    > *"Tanamlah keberadaanmu di dalam bumi ketidakterkenalan (ketidaksombongan); karena sesuatu yang tumbuh dari benih yang tidak ditanam ke dalam tanah, buahnya tidak akan pernah sempurna!"*
 
 ---

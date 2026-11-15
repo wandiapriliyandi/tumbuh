@@ -54,11 +54,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, keberkahan selalu berakar pada ketakwaan aktif
 
 1. **Prasyarat Keimanan dan Ketakwaan Aktif untuk Membuka Pintu Berkah:**
 
-   ```arabic
-
-   وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالْأَرْضِ وَلَٰكِن كَذَّبُوا فَأَخَذْنَاهُم بِمَا كَانُوا يَكْسِبُونَ
-
-   ```
+   > وَلَوْ أَنَّ أَهْلَ الْقُرَىٰ آمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِم بَرَكَاتٍ مِّنَ السَّمَاءِ وَالْأَرْضِ وَلَٰكِن كَذَّبُوا فَأَخَذْنَاهُم بِمَا كَانُوا يَكْسِبُونَ
 
    > *"Jikalau sekiranya penduduk negeri-negeri beriman dan bertakwa, pastilah Kami akan melimpahkan kepada mereka berkah dari langit dan bumi, tetapi mereka mendustakan (ayat-ayat Kami) itu, maka Kami siksa mereka disebabkan perbuatannya."* (QS. Al-A'raf: 96).  
 
@@ -68,11 +64,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, keberkahan selalu berakar pada ketakwaan aktif
 
 2. **Kejujuran dan Transparansi Muamalah Sebagai Syarat Turunnya Barakah:**
 
-   ```arabic
-
-   الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا
-
-   ```
+   > الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَتَفَرَّقَا، فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا، وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتْ بَرَكَةُ بَيْعِهِمَا
 
    > *Rasulullah ﷺ bersabda: "Dua orang yang berjual beli memiliki hak khiyar selama belum berpisah. Jika keduanya jujur dan transparan, maka keduanya diberkahi dalam jual beli mereka. Namun jika keduanya menyembunyikan cacat dan berdusta, niscaya dicabut keberkahan jual beli mereka."* (HR. Al-Bukhari no. 2079 & Muslim no. 1532).  
 
@@ -82,11 +74,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, keberkahan selalu berakar pada ketakwaan aktif
 
 3. **Keberkahan Pagi Hari Terikat dengan Semangat Beramal dan Berikhtiar:**
 
-   ```arabic
-
-   اللَّهُمَّ بَارِكْ لِأُمَّتِي فِي بُكُورِهَا
-
-   ```
+   > اللَّهُمَّ بَارِكْ لِأُمَّتِي فِي بُكُورِهَا
 
    > *"Ya Allah, berkahilah umatku pada waktu pagi butanya."* (HR. Abu Dawud no. 2606 & At-Tirmidzi no. 1212, hasan shahih).  
 
@@ -212,11 +200,7 @@ Ulama salaf mendefinisikan barakah dengan sangat jernih sebagai kualitas kebaika
 
    Menegaskan akar kata barakah:  
 
-   ```arabic
-
-   الْبَرَكَةُ هِيَ ثُبُوتُ الْخَيْرِ الْإِلَهِيِّ فِي الشَّيْءِ... وَسُمِّيَ بِذَلِكَ لِثُبُوتِ الْخَيْرِ فِيهِ ثُبُوتَ الْمَاءِ فِي الْبِرْكَةِ
-
-   ```
+   > الْبَرَكَةُ هِيَ ثُبُوتُ الْخَيْرِ الْإِلَهِيِّ فِي الشَّيْءِ... وَسُمِّيَ بِذَلِكَ لِثُبُوتِ الْخَيْرِ فِيهِ ثُبُوتَ الْمَاءِ فِي الْبِرْكَةِ
 
    > *"Al-Barakah adalah menetapnya kebaikan Ilahi pada sesuatu... Dinamakan demikian karena menetapnya kebaikan di dalamnya laksana menetapnya air di dalam telaga (al-birkah)."*  
 

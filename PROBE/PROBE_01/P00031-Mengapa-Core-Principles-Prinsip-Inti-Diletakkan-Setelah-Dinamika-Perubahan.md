@@ -113,9 +113,7 @@ Tradisi keilmuan Islam memiliki metodologi yang sangat ketat dalam menyusun kaid
 ### 4.1 Metodologi Istiqra' Ma'nawi Imam Asy-Syathibi dalam Al-Muwafaqat
 Imam Abu Ishaq asy-Syathibi (w. 790 H) dalam kitab monumentalnya *Al-Muwafaqat fi Ushul asy-Syari'ah* membedah epistemologi penarikan prinsip-prinsip universal syariat (*al-kulliyyat asy-syar'iyyah*):
 
-```arabic
-وَإِنَّمَا تَقَرَّرَتْ كُلِّيَّاتُ الشَّرِيعَةِ وَأُصُولُهَا بِاسْتِقْرَاءٍ مَعْنَوِيٍّ مِنْ تَظَافُرِ أَدِلَّةٍ كَثِيرَةٍ، لَا تَقُومُ عَلَى دَلِيلٍ وَاحِدٍ بِعَيْنِهِ، حَتَّى يَحْصُلَ مِنْ مَجْمُوعِهَا الْعِلْمُ الْقَطْعِيُّ الَّذِي لَا يَحْتَمِلُ الرَّيْبَ، فَتَصِيرُ تِلْكَ الْكُلِّيَّةُ أَصْلًا يَرْجِعُ إِلَيْهِ كُلُّ جُزْئِيٍّ
-```
+> وَإِنَّمَا تَقَرَّرَتْ كُلِّيَّاتُ الشَّرِيعَةِ وَأُصُولُهَا بِاسْتِقْرَاءٍ مَعْنَوِيٍّ مِنْ تَظَافُرِ أَدِلَّةٍ كَثِيرَةٍ، لَا تَقُومُ عَلَى دَلِيلٍ وَاحِدٍ بِعَيْنِهِ، حَتَّى يَحْصُلَ مِنْ مَجْمُوعِهَا الْعِلْمُ الْقَطْعِيُّ الَّذِي لَا يَحْتَمِلُ الرَّيْبَ، فَتَصِيرُ تِلْكَ الْكُلِّيَّةُ أَصْلًا يَرْجِعُ إِلَيْهِ كُلُّ جُزْئِيٍّ
 
 > **Takhrij**: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Kitab al-Ijtihad, Mas'alah fi Bayan Thuruq Istinbath al-Kulliyyat (Dar Ibnu 'Affan, Jilid 1, hlm. 35).
 
@@ -135,9 +133,7 @@ Para pakar kaidah fikih lintas mazhab (seperti Al-Qarafi, As-Subki, As-Suyuthi, 
 ### 4.3 Imam As-Suyuthi dalam Al-Asybah wa an-Nazha'ir: Hirarki Kaidah dan Pencegahan Kontradiksi
 Jalaluddin as-Suyuthi (w. 911 H) dalam mahakaryanya *Al-Asybah wa an-Nazha'ir fi Qawa'id wa Furu' Fiqh asy-Syafi'iyyah* menetapkan bahwa kaidah-kaidah universal berfungsi sebagai instrumen penjaga konsistensi nalar hukum:
 
-```arabic
-وَاعْلَمْ أَنَّ الْفِقْهَ يَرْجِعُ إِلَى ضَبْطِ الْأُمُورِ الْمُتَبَدِّدَةِ فِي سِلْكٍ وَاحِدٍ، وَتَنْظِيمِهَا فِي قَوَانِينَ كُلِّيَّةٍ، لِئَلَّا تَتَنَاقَضَ الْأَحْكَامُ أَوْ تَضْطَرِبَ الْفَتَاوَى عِنْدَ تَبَدُّلِ الْحَوَادِثِ
-```
+> وَاعْلَمْ أَنَّ الْفِقْهَ يَرْجِعُ إِلَى ضَبْطِ الْأُمُورِ الْمُتَبَدِّدَةِ فِي سِلْكٍ وَاحِدٍ، وَتَنْظِيمِهَا فِي قَوَانِينَ كُلِّيَّةٍ، لِئَلَّا تَتَنَاقَضَ الْأَحْكَامُ أَوْ تَضْطَرِبَ الْفَتَاوَى عِنْدَ تَبَدُّلِ الْحَوَادِثِ
 
 > **Takhrij**: As-Suyuthi, *Al-Asybah wa an-Nazha'ir*, Muqaddimah al-Kitab (Dar al-Kutub al-'Ilmiyyah, Beirut, hlm. 7).
 
@@ -146,9 +142,7 @@ As-Suyuthi menegaskan bahwa fungsi tertinggi dari perumusan kaidah (*qawanin kul
 ### 4.4 Ibnu Nujaim dalam Al-Asybah wa an-Nazha'ir: Kaidah Pencegahan Kemudaratan Lebih Didahulukan
 Zainuddin bin Ibrahim bin Nujaim al-Mishri (w. 970 H), faqih terkemuka mazhab Hanafi, dalam kitab *Al-Asybah wa an-Nazha'ir* menguraikan kaidah turunan yang sangat fundamental bagi perlindungan santri:
 
-```arabic
-دَرْءُ الْمَفَاسِدِ أَوْلَى مِنْ جَلْبِ الْمَصَالِحِ، فَإِذَا تَعَارَضَتْ مَفْسَدَةٌ وَمَصْلَحَةٌ قُدِّمَ دَفْعُ الْمَفْسَدَةِ غَالِبًا، لِأَنَّ اعْتِنَاءَ الشَّارِعِ بِالْمَنْهِيَّاتِ أَشَدُّ مِنِ اعْتِنَائِهِ بِالْمَأْمُورَاتِ
-```
+> دَرْءُ الْمَفَاسِدِ أَوْلَى مِنْ جَلْبِ الْمَصَالِحِ، فَإِذَا تَعَارَضَتْ مَفْسَدَةٌ وَمَصْلَحَةٌ قُدِّمَ دَفْعُ الْمَفْسَدَةِ غَالِبًا، لِأَنَّ اعْتِنَاءَ الشَّارِعِ بِالْمَنْهِيَّاتِ أَشَدُّ مِنِ اعْتِنَائِهِ بِالْمَأْمُورَاتِ
 
 > **Takhrij**: Ibnu Nujaim, *Al-Asybah wa an-Nazha'ir*, Al-Qaidah ar-Rabi'ah (Dar al-Kutub al-'Ilmiyyah, Beirut, hlm. 78).
 
@@ -163,9 +157,7 @@ Kaidah *Dar'u al-Mafasid Aula min Jalbi al-Mashalih* (Menolak mafsadat lebih did
 ### 4.5 Al-Izz bin Abdissalam dalam Qawa'id al-Ahkam: Orientasi Maslahat Manusia
 Sulthanul Ulama Al-Izz bin Abdissalam as-Sulami (w. 660 H) dalam mahakaryanya *Qawa'id al-Ahkam fi Mashalih al-Anam* merumuskan bahwa seluruh kaidah syariat bermuara pada satu prinsip tunggal: mewujudkan kemaslahatan hamba dan menolak kerusakan dari mereka:
 
-```arabic
-الشَّرِيعَةُ كُلُّهَا مَصَالِحُ: إِمَّا تَدْرَأُ مَفَاسِدَ أَوْ تَجْلِبُ مَصَالِحَ، فَإِذَا سَمِعْتَ اللَّهَ يَقُولُ: {يَا أَيُّهَا الَّذِينَ آمَنُوا}، فَتَأَمَّلْ وَصِيَّتَهُ بَعْدَ نِدَائِهِ، فَلَا تَجِدُ إِلَّا خَيْرًا يَحُثُّكَ عَلَيْهِ، أَوْ شَرًّا يَزْجُرُكَ عَنْهُ، أَوْ جَمْعًا بَيْنَهُمَا. وَأَعْظَمُ الْمَقَاصِدِ الشَّرْعِيَّةِ حِفْظُ نُفُوسِ الْآدَمِيِّينَ وَعُقُولِهِمْ وَكَرَامَتِهِمْ
-```
+> الشَّرِيعَةُ كُلُّهَا مَصَالِحُ: إِمَّا تَدْرَأُ مَفَاسِدَ أَوْ تَجْلِبُ مَصَالِحَ، فَإِذَا سَمِعْتَ اللَّهَ يَقُولُ: {يَا أَيُّهَا الَّذِينَ آمَنُوا}، فَتَأَمَّلْ وَصِيَّتَهُ بَعْدَ نِدَائِهِ، فَلَا تَجِدُ إِلَّا خَيْرًا يَحُثُّكَ عَلَيْهِ، أَوْ شَرًّا يَزْجُرُكَ عَنْهُ، أَوْ جَمْعًا بَيْنَهُمَا. وَأَعْظَمُ الْمَقَاصِدِ الشَّرْعِيَّةِ حِفْظُ نُفُوسِ الْآدَمِيِّينَ وَعُقُولِهِمْ وَكَرَامَتِهِمْ
 
 > **Takhrij**: Al-Izz bin Abdissalam, *Qawa'id al-Ahkam fi Mashalih al-Anam*, Bab al-Awwal: fi Bayan anna asy-Syari'ah Mabniyyah 'ala al-Mashalih (Dar al-Kutub al-'Ilmiyyah, Jilid 1, hlm. 9).
 
@@ -177,9 +169,7 @@ Al-Izz bin Abdissalam menegaskan:
 ### 4.6 Shihabuddin Al-Qarafi dalam Al-Furuq: Menjaga Batas Distingsi Kaidah
 Imam Shihabuddin Abu al-Abbas Ahmad bin Idris al-Qarafi (w. 684 H) dalam risalah ensiklopedisnya *Al-Furuq (Anwar al-Buruq fi Anwa' al-Furuq)* meletakkan kaidah metodologis pembedaan antara prinsip universal dengan aturan partikular:
 
-```arabic
-إِنَّ الشَّرِيعَةَ الْمُعَظَّمَةَ اشْتَمَلَتْ عَلَى أُصُولٍ وَفُرُوعٍ، وَأُصُولُهَا قِسْمَانِ: قَوَاعِدُ أُصُولِيَّةٌ، وَقَوَاعِدُ فِقْهِيَّةٌ كُلِّيَّةٌ تَحْتَهَا جُمَلٌ مِنَ الْفُرُوعِ لَا تُحْصَى. وَمَنْ خَرَّجَ الْفُرُوعَ عَلَى غَيْرِ قَوَاعِدِهَا اخْتَلَّتْ عَلَيْهِ، وَتَنَاقَضَتْ فِي يَدِهِ، وَتَعَذَّرَ عَلَيْهِ ضَبْطُهَا، وَمَنْ ضَبَطَ الْفِقْهَ بِقَوَاعِدِهِ اسْتَغْنَى عَنْ حِفْظِ أَكْثَرِ الْجُزْئِيَّاتِ
-```
+> إِنَّ الشَّرِيعَةَ الْمُعَظَّمَةَ اشْتَمَلَتْ عَلَى أُصُولٍ وَفُرُوعٍ، وَأُصُولُهَا قِسْمَانِ: قَوَاعِدُ أُصُولِيَّةٌ، وَقَوَاعِدُ فِقْهِيَّةٌ كُلِّيَّةٌ تَحْتَهَا جُمَلٌ مِنَ الْفُرُوعِ لَا تُحْصَى. وَمَنْ خَرَّجَ الْفُرُوعَ عَلَى غَيْرِ قَوَاعِدِهَا اخْتَلَّتْ عَلَيْهِ، وَتَنَاقَضَتْ فِي يَدِهِ، وَتَعَذَّرَ عَلَيْهِ ضَبْطُهَا، وَمَنْ ضَبَطَ الْفِقْهَ بِقَوَاعِدِهِ اسْتَغْنَى عَنْ حِفْظِ أَكْثَرِ الْجُزْئِيَّاتِ
 
 > **Takhrij**: Al-Qarafi, *Al-Furuq*, Al-Muqaddimah (Dar al-Kutub al-'Ilmiyyah, Jilid 1, hlm. 3).
 
@@ -293,9 +283,7 @@ Sembilan prinsip ini mengunci arsitektur TUMBUH: tidak ada dokumen operasional, 
 Dalam manajemen pendidikan berbasis target modern, kerap menyusup bahaya laten machiavellianisme: keyakinan bawah sadar bahwa pencapaian target kuantitatif (seperti jumlah juz hafalan atau piala kejuaraan) menghalalkan cara-cara intimidatif dan manipulatif.
 
 TUMBUH menegaskan kaidah aksiomatis: **Dalam epistemologi Islam, cara (*al-wasilah*) memiliki hukum yang sama dengan tujuan (*al-ghayah*)**. Kaidah ushuliyyah menetapkan:
-```arabic
-لِلْوَسَائِلِ أَحْكَامُ الْمَقَاصِدِ
-```
+> لِلْوَسَائِلِ أَحْكَامُ الْمَقَاصِدِ
 > **Takhrij**: Al-Izz bin Abdissalam dalam *Qawa'id al-Ahkam* (Jilid 1, hlm. 53); As-Suyuthi dalam *Al-Asybah wa an-Nazha'ir* (hlm. 138).
 
 Menghafal Al-Qur'an adalah tujuan mulia (*maqshad syarif*). Namun jika wasilah yang ditempuh untuk mencapainya adalah dengan mencaci maki santri, merampas hak tidur mereka, atau menjemur mereka di bawah terik matahari, maka wasilah tersebut adalah perbuatan haram dan zalim. Keberhasilan yang diraih melalui kezaliman adalah keberhasilan semu yang terkutuk di hadapan Allah SWT, melahirkan kemunafikan karakter dan kebencian santri terhadap Al-Qur'an itu sendiri.

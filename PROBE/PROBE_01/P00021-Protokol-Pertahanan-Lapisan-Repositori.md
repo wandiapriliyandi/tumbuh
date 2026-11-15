@@ -90,9 +90,7 @@ Dalam khazanah ushul fikih Islam, mekanisme preventif yang menutup celah penyimp
 
 Al-Imam Syihabuddin al-Qarafi dalam magnum opusnya *Al-Furuq* (Jilid 2, hlm. 32–34) menetapkan bahwa sarana (*adz-dzara'i'*) memiliki kedudukan hukum yang terikat erat dengan tujuan (*al-maqashid*):
 
-```text
-سَدُّ الذَّرَائِعِ عُمْدَةٌ كُبْرَى مِنْ عِمَادِ الشَّرِيعَةِ، وَحَقِيقَتُهُ حِمَايَةُ الْأَصْلِ الشَّرْعِيِّ مِنْ أَنْ يُتَطَرَّقَ إِلَيْهِ الْفَسَادُ مِنْ بَابِ الْوَسَائِلِ؛ فَإِنَّ كُلَّ شَيْءٍ فُتِحَ بَابُهُ وَأَدَّى بِطَبِيعَتِهِ إِلَى انْثِلَامِ الرَّأْسِ وَاخْتِلَالِ النِّظَامِ، كَانَ وَاجِبًا عَلَى الْحَاكِمِ وَالْمُجْتَهِدِ أَنْ يُقْفِلَهُ سَدًّا لِلْبَابِ وَحِفْظًا لِلْكُلِّيَّاتِ
-```
+> سَدُّ الذَّرَائِعِ عُمْدَةٌ كُبْرَى مِنْ عِمَادِ الشَّرِيعَةِ، وَحَقِيقَتُهُ حِمَايَةُ الْأَصْلِ الشَّرْعِيِّ مِنْ أَنْ يُتَطَرَّقَ إِلَيْهِ الْفَسَادُ مِنْ بَابِ الْوَسَائِلِ؛ فَإِنَّ كُلَّ شَيْءٍ فُتِحَ بَابُهُ وَأَدَّى بِطَبِيعَتِهِ إِلَى انْثِلَامِ الرَّأْسِ وَاخْتِلَالِ النِّظَامِ، كَانَ وَاجِبًا عَلَى الْحَاكِمِ وَالْمُجْتَهِدِ أَنْ يُقْفِلَهُ سَدًّا لِلْبَابِ وَحِفْظًا لِلْكُلِّيَّاتِ
 
 > *"Sadd adz-Dzara'i' (menutup celah sarana) adalah pilar agung dari pilar-pilar syariat. Hakikatnya adalah memelihara ketentuan pokok syar'i (al-ashl) dari penyusupan kerusakan yang masuk melalui pintu perantara (al-wasa'il). Sesungguhnya segala sesuatu yang apabila pintunya dibiarkan terbuka akan secara alami berujung pada retaknya kepemimpinan pokok dan kacaunya tatanan sistem, maka wajib atas pemimpin dan mujtahid untuk menguncinya rapat-rapat demi membendung pintu mafsadat dan menjaga keutuhan prinsip-prinsip universal."* (Al-Qarafi, *Al-Furuq*, Tahqiq Khalil Manshur, Dar al-Kutub al-'Ilmiyyah, Beirut, 1998).
 
@@ -104,9 +102,7 @@ Al-Qarafi membagi sarana (*al-wasa'il*) ke dalam tiga tingkatan hukum yang sanga
 ### 4.2. Hermeneutika Perlindungan Sarana Menurut Syaikhul Islam Ibn Qayyim al-Jauziyyah
 Syaikhul Islam Ibn Qayyim al-Jauziyyah dalam kitab monumentalnya *I'lam al-Muwaqqi'in 'an Rabb al-'Alamin* (Jilid 3, hlm. 135–138) mengalokasikan pembahasan sangat panjang mengenai *Sadd adz-Dzara'i'*, menyajikan 99 dalil Al-Qur'an dan Sunnah yang membuktikan bahwa syariat selalu membangun benteng pengaman di sekeliling hukum pokok:
 
-```text
-فَإِنَّ الشَّارِعَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ طُرُقَهُ وَمَوَاصِلَهُ الْمُفْضِيَةَ إِلَيْهِ، وَإِذَا أَوْجَبَ أَمْرًا حَصَّنَهُ بِمَا يَمْنَعُ انْتِقَاضَهُ؛ فَمَنْ فَرَّقَ بَيْنَ الْغَايَاتِ وَالْوَسَائِلِ فِي الْحِمَايَةِ، فَقَدْ جَهِلَ حِكْمَةَ التَّشْرِيعِ، وَكَانَ كَمَنْ بَنَى قَصْرًا وَفَتَحَ فِيهِ ثُغْرَةً لِلُّصُوصِ
-```
+> فَإِنَّ الشَّارِعَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا حَرَّمَ شَيْئًا حَرَّمَ طُرُقَهُ وَمَوَاصِلَهُ الْمُفْضِيَةَ إِلَيْهِ، وَإِذَا أَوْجَبَ أَمْرًا حَصَّنَهُ بِمَا يَمْنَعُ انْتِقَاضَهُ؛ فَمَنْ فَرَّقَ بَيْنَ الْغَايَاتِ وَالْوَسَائِلِ فِي الْحِمَايَةِ، فَقَدْ جَهِلَ حِكْمَةَ التَّشْرِيعِ، وَكَانَ كَمَنْ بَنَى قَصْرًا وَفَتَحَ فِيهِ ثُغْرَةً لِلُّصُوصِ
 
 > *"Sesungguhnya Pembuat Syariat ﷺ apabila mengharamkan sesuatu, maka Beliau juga mengharamkan jalan-jalan dan pintu-pintu masuk yang menghantarkan kepadanya. Dan apabila Beliau mewajibkan suatu urusan, Beliau membentenginya dengan pagar pengaman yang mencegah keruntuhannya. Maka barang siapa yang memisahkan antara perlindungan tujuan (al-ghayat) dan perlindungan sarana (al-wasa'il), sungguh ia tidak memahami hikmah pensyariatan, dan keadaannya laksana orang yang membangun istana megah namun membiarkan lubang pintu terbuka bagi para pencuri."* (Ibn Qayyim al-Jauziyyah, *I'lam al-Muwaqqi'in*, Tahqiq Masyhur Hasan Salman, Dar Ibn al-Jauzi, Dammam, 2002).
 
@@ -115,9 +111,7 @@ Analogi istana megah dari Ibnu Qayyim ini merupakan representasi sempurna bagi r
 ### 4.3. Pemeliharaan Maqashid Syari'ah min Janib al-'Adam Menurut Al-Imam Asy-Syathibi
 Al-Imam Abu Ishaq Asy-Syathibi dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* (Jilid 2, hlm. 17–20) merumuskan teori agung bahwa pemeliharaan lima tujuan pokok syariat (*Al-Kulliyyat Al-Khamsah*: Agama, Jiwa, Akal, Keturunan, dan Harta) wajib ditegakkan melalui dua dimensi yang tak terpisahkan:
 
-```text
-أَنَّ أُصُولَ الدِّينِ تَرْجِعُ إِلَى حِفْظِ الْمَقَاصِدِ، وَحِفْظُهَا يَكُونُ بِأَمْرَيْنِ: أَحَدُهُمَا مَا يُقِيمُ أَرْكَانَهَا وَيُثَبِّتُ قَوَاعِدَهَا، وَذَلِكَ عِبَارَةٌ عَنْ مُرَاعَاتِهَا مِنْ جَانِبِ الْوُجُودِ، وَالثَّانِي مَا يَدْرَأُ عَنْهَا الِاخْتِلَالَ الْوَاقِعَ أَوْ الْمُتَوَقَّعَ فِيهَا، وَذَلِكَ عِبَارَةٌ عَنْ مُرَاعَاتِهَا مِنْ جَانِبِ الْعَدَمِ
-```
+> أَنَّ أُصُولَ الدِّينِ تَرْجِعُ إِلَى حِفْظِ الْمَقَاصِدِ، وَحِفْظُهَا يَكُونُ بِأَمْرَيْنِ: أَحَدُهُمَا مَا يُقِيمُ أَرْكَانَهَا وَيُثَبِّتُ قَوَاعِدَهَا، وَذَلِكَ عِبَارَةٌ عَنْ مُرَاعَاتِهَا مِنْ جَانِبِ الْوُجُودِ، وَالثَّانِي مَا يَدْرَأُ عَنْهَا الِاخْتِلَالَ الْوَاقِعَ أَوْ الْمُتَوَقَّعَ فِيهَا، وَذَلِكَ عِبَارَةٌ عَنْ مُرَاعَاتِهَا مِنْ جَانِبِ الْعَدَمِ
 
 > *"Sesungguhnya pokok-pokok agama kembali kepada pemeliharaan maqashid. Dan pemeliharaannya terwujud melalui dua perkara: Pertama, perkara yang menegakkan rukun-rukunnya dan mengokohkan kaidah-kaidahnya, yaitu pemeliharaan dari segi keberadaan (min janib al-wujud). Kedua, perkara yang menolak gangguan yang terjadi atau diperkirakan akan terjadi padanya, yaitu pemeliharaan dari segi penolakan bahaya (min janib al-'adam)."* (Asy-Syathibi, *Al-Muwafaqat*, Tahqiq Masyhur Hasan Salman, Dar Ibn 'Affan, Khobar, 1997).
 
@@ -126,17 +120,13 @@ Penerapan doktrin Asy-Syathibi ke dalam arsitektur repositori TUMBUH melahirkan 
 - **Pemeliharaan *Min Janib al-'Adam***: Dijalankan melalui pembentukan **Protokol Pertahanan Lapisan Repositori (P00021)**: memasang dinding penangkis, skrip linter CI/CD, aturan pemblokiran commit, dan larangan klausul kekerasan fisik guna menolak segala bentuk perusakan dan penyimpangan sistem sebelum ia menyentuh kehidupan santri.
 
 Kaidah fiqhiyyah universal yang memayungi protokol pertahanan ini adalah:
-```text
-دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ
-```
+> دَرْءُ الْمَفَاسِدِ مُقَدَّمٌ عَلَى جَلْبِ الْمَصَالِحِ
 > *"Menolak kerusakan lebih didahulukan daripada meraih kemaslahatan."*
 
 ### 4.4. Prinsip Perwalian Sistemik & Tanggung Jawab Kelembagaan (Kaidah Tasharruf al-Imam)
 Di samping doktrin perlindungan sarana (*Sadd adz-Dzara'i'*), khazanah ushul fiqih Islam meletakkan tanggung jawab pengawasan tatanan kelembagaan pada pundak pemegang amanah kepemimpinan melalui kaidah ushul universal:
 
-```text
-تَصَرُّفُ الْإِمَامِ عَلَى الرَّعِيَّةِ مَنُوطٌ بِالْمَصْلَحَةِ
-```
+> تَصَرُّفُ الْإِمَامِ عَلَى الرَّعِيَّةِ مَنُوطٌ بِالْمَصْلَحَةِ
 
 > *"Kebijakan dan tindakan seorang pemimpin terhadap rakyat (atau pihak yang dipimpinnya) wajib dikaitkan dan diorientasikan sepenuhnya pada kemaslahatan."* (Kaidah ini dinukil dan disyarah secara ekstensif oleh Al-Imam Al-'Izz bin 'Abdissalam dalam *Qawa'id al-Ahkam fi Mashalih al-Anam*, Tahqiq Thaha Abdur Rauf Sa'd, Maktabah al-Kulliyyat al-Azhariyyah, Kairo, 1991, Jilid 1, hlm. 142; serta Al-Imam Jalaluddin as-Suyuthi dalam *Al-Asybah wan-Nazha'ir*, Dar al-Kutub al-'Ilmiyyah, Beirut, 1990, hlm. 121).
 
@@ -224,9 +214,7 @@ Repositori TUMBUH menolak dikotomi palsu di atas melalui sintesis dialektis (*Al
 
 1. **Membedakan Wilayah Hati dan Wilayah Muamalah**:
    Dalam Islam, *husnuzhan* diwajibkan dalam memandang niat hati saudara seiman, namun dalam urusan hukum, penetapan hak, dan perlindungan anak asuh, syariat mewajibkan prinsip kehati-hatian (*ihtiyath*) dan pencatatan yang ketat. Allah Ta'ala berfirman dalam ayat terpanjang Al-Qur'an (QS. Al-Baqarah: 282):
-   ```text
-   يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُّسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْلِ
-   ```
+   > يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُّسَمًّى فَاكْتُبُوهُ ۚ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْلِ
    > *"Wahai orang-orang yang beriman! Apabila kamu bermuamalah tidak secara tunai untuk waktu yang ditentukan, hendaklah kamu menuliskannya. Dan hendaklah seorang penulis di antara kamu menuliskannya dengan benar..."*
    Perintah menuliskan utang dan menghadirkan saksi bukanlah bentuk *su'uzhan* kepada peminjam, melainkan penjagaan agar keadilan tetap tegak dan setan tidak menyusupkan perselisihan.
 2. **Skrip Linter CI/CD sebagai Perwujudan Lembaga Al-Hisbah Kontemporer**:

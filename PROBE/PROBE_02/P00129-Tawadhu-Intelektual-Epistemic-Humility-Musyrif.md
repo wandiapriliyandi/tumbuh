@@ -54,11 +54,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, puncak ilmu adalah kerendahan hati mengakui ke
 
 1. **Pengakuan Ketidaktahuan Para Malaikat di Hadapan Allah:**
 
-   ```arabic
-
-   قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
-
-   ```
+   > قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا ۖ إِنَّكَ أَنتَ الْعَلِيمُ الْحَكِيمُ
 
    > *"Mereka (para malaikat) menjawab: 'Maha Suci Engkau, tidak ada yang kami ketahui selain dari apa yang telah Engkau ajarkan kepada kami; sesungguhnya Engkaulah Yang Maha Mengetahui lagi Maha Bijaksana'."* (QS. Al-Baqarah: 32).  
 
@@ -68,11 +64,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, puncak ilmu adalah kerendahan hati mengakui ke
 
 2. **Penegasan Bahwa di Atas Setiap Orang Berilmu Ada yang Lebih Mengetahui:**
 
-   ```arabic
-
-   نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ۗ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ
-
-   ```
+   > نَرْفَعُ دَرَجَاتٍ مَّن نَّشَاءُ ۗ وَفَوْقَ كُلِّ ذِي عِلْمٍ عَلِيمٌ
 
    > *"Kami tinggikan derajat orang yang Kami kehendaki; dan di atas tiap-tiap orang yang berpengetahuan itu ada lagi Yang Maha Mengetahui."* (QS. Yusuf: 76).
 
@@ -80,11 +72,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, puncak ilmu adalah kerendahan hati mengakui ke
 
 3. **Sunnah Teladan Mengatakan "La Adri" (Aku Tidak Tahu) dari Rasulullah ﷺ:**
 
-   ```arabic
-
-   سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَيُّ الْبِلَادِ خَيْرٌ، وَأَيُّ الْبِلَادِ شَرٌّ؟ فَقَالَ: «لَا أَدْرِي حَتَّى أَسْأَلَ جِبْرِيلَ»
-
-   ```
+   > سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: أَيُّ الْبِلَادِ خَيْرٌ، وَأَيُّ الْبِلَادِ شَرٌّ؟ فَقَالَ: «لَا أَدْرِي حَتَّى أَسْأَلَ جِبْرِيلَ»
 
    > *Rasulullah ﷺ pernah ditanya: "Negeri manakah yang paling baik dan negeri manakah yang paling buruk?" Beliau menjawab: "Aku tidak tahu, hingga aku bertanya kepada Jibril 'alaihissalam."* (HR. Ahmad no. 8530 & Al-Hakim no. 1424, shahih).  
 
@@ -210,11 +198,7 @@ Para imam mazhab dan ulama salaf menjadikan ucapan "La Adri" sebagai mahkota kem
 
    Diriwayatkan oleh Ibnu 'Abdil Barr dalam *Jami' Bayan al-'Ilm wa Fadhlih*, seseorang datang dari tempat yang sangat jauh menempuh perjalanan berbulan-bulan membawa 48 pertanyaan dari kaumnya. Imam Malik hanya menjawab 6 pertanyaan dan pada 42 pertanyaan sisanya beliau menjawab: *"La uhsinuha (Aku tidak tahu jawabannya secara baik)"*. Orang itu kaget dan bertanya: *"Lalu apa yang harus kukatakan kepada kaumku di kampung?"* Imam Malik menjawab dengan tenang:  
 
-   ```arabic
-
-   قُلْ لَهُمْ: إِنَّ مَالِكًا لَا يُحْسِنُ
-
-   ```
+   > قُلْ لَهُمْ: إِنَّ مَالِكًا لَا يُحْسِنُ
 
    > *"Katakan kepada mereka: Sesungguhnya Malik tidak tahu jawabannya!"*  
 
@@ -226,11 +210,7 @@ Para imam mazhab dan ulama salaf menjadikan ucapan "La Adri" sebagai mahkota kem
 
    Ketika Umar berkhutbah membatasi mahar wanita, seorang wanita Quraisy berdiri dan mengoreksi beliau dengan membaca QS. An-Nisa' ayat 20. Seketika itu juga Umar mengakui kekeliruannya di atas mimbar di depan ribuan jamaah:  
 
-   ```arabic
-
-   أَصَابَتِ امْرَأَةٌ وَأَخْطَأَ عُمَرُ! كُلُّ أَحَدٍ أَفْقَهُ مِنْ عُمَرَ
-
-   ```
+   > أَصَابَتِ امْرَأَةٌ وَأَخْطَأَ عُمَرُ! كُلُّ أَحَدٍ أَفْقَهُ مِنْ عُمَرَ
 
    > *"Wanita ini benar dan Umar salah! Semua orang lebih paham fiqih daripada Umar!"*  
 

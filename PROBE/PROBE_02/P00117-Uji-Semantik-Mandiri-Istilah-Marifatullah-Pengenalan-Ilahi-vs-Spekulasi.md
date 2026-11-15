@@ -54,11 +54,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, *Ma'rifatullah* adalah buah pengenalan melalui
 
 1. **Rasa Takut yang Hakiki Lahir dari Kedalaman Ilmu Mengenal Allah:**
 
-   ```arabic
-
-   إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ
-
-   ```
+   > إِنَّمَا يَخْشَى اللَّهَ مِنْ عِبَادِهِ الْعُلَمَاءُ ۗ إِنَّ اللَّهَ عَزِيزٌ غَفُورٌ
 
    > *"Sesungguhnya yang takut kepada Allah di antara hamba-hamba-Nya, hanyalah ulama (orang-orang yang mengenal-Nya). Sesungguhnya Allah Maha Perkasa lagi Maha Pengampun."* (QS. Fathir: 28).  
 
@@ -68,11 +64,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, *Ma'rifatullah* adalah buah pengenalan melalui
 
 2. **Pengenalan Asma'ul Husna Sebagai Jalan Ibadah dan Berdoa:**
 
-   ```arabic
-
-   وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ
-
-   ```
+   > وَلِلَّهِ الْأَسْمَاءُ الْحُسْنَىٰ فَادْعُوهُ بِهَا ۖ وَذَرُوا الَّذِينَ يُلْحِدُونَ فِي أَسْمَائِهِ ۚ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ
 
    > *"Hanya milik Allah asma'ul husna (nama-nama yang maha indah), maka bermohonlah kepada-Nya dengan menyebut asma'ul husna itu dan tinggalkanlah orang-orang yang menyimpang dari kebenaran dalam (menyebut) nama-nama-Nya..."* (QS. Al-A'raf: 180).
 
@@ -80,11 +72,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, *Ma'rifatullah* adalah buah pengenalan melalui
 
 3. **Definisi Puncak Ma'rifat Adalah Maqam Ihsan:**
 
-   ```arabic
-
-   قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ، قَالَ: «أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»
-
-   ```
+   > قَالَ: فَأَخْبِرْنِي عَنِ الْإِحْسَانِ، قَالَ: «أَنْ تَعْبُدَ اللَّهَ كَأَنَّكَ تَرَاهُ، فَإِنْ لَمْ تَكُنْ تَرَاهُ فَإِنَّهُ يَرَاكَ»
 
    > *Malaikat Jibril bertanya: "Beritahukan kepadaku tentang Ihsan!" Rasulullah ﷺ menjawab: "Engkau menyembah Allah seakan-akan engkau melihat-Nya. Dan jika engkau tidak mampu melihat-Nya, maka sesungguhnya Dia melihatmu."* (HR. Muslim no. 8).  
 
@@ -210,11 +198,7 @@ Ulama mu'tabar menegaskan hubungan integral antara pengenalan Allah dengan ketun
 
    Menegaskan hakikat ilmu mengenal Allah yang sejati:  
 
-   ```arabic
-
-   لَيْسَ الْعِلْمُ بِكَثْرَةِ الرِّوَايَةِ وَلَا بِكَثْرَةِ الْمَقَالِ، وَلَكِنَّهُ نُورٌ يُقْذَفُ فِي الْقَلْبِ، يَفْهَمُ بِهِ الْعَبْدُ الْحَقَّ، وَيَخْشَى بِهِ رَبَّهُ
-
-   ```
+   > لَيْسَ الْعِلْمُ بِكَثْرَةِ الرِّوَايَةِ وَلَا بِكَثْرَةِ الْمَقَالِ، وَلَكِنَّهُ نُورٌ يُقْذَفُ فِي الْقَلْبِ، يَفْهَمُ بِهِ الْعَبْدُ الْحَقَّ، وَيَخْشَى بِهِ رَبَّهُ
 
    > *"Ilmu itu bukanlah dengan banyaknya periwayatan dan bukan pula dengan banyaknya silat lidah, melainkan ia adalah cahaya yang dihunjamkan ke dalam hati, yang dengannya seorang hamba memahami kebenaran dan merasa takut kepada Rabbnya."*
 

@@ -54,11 +54,7 @@ Dalam Al-Qur'an dan Sunnah, kepastian ajal dan hisab adalah fondasi kesadaran ni
 
 1. **Kepastian Batas Waktu Tanpa Penundaan Sedetik Pun:**
 
-   ```arabic
-
-   وَلِكُلِّ أُمَّةٍ أَجَلٌ ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ
-
-   ```
+   > وَلِكُلِّ أُمَّةٍ أَجَلٌ ۖ فَإِذَا جَاءَ أَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً ۖ وَلَا يَسْتَقْدِمُونَ
 
    > *"Tiap-tiap umat mempunyai ajal (batas waktu); maka apabila telah datang ajalnya, mereka tidak dapat mengundurkannya barang sesaat pun dan tidak dapat (pula) memajukannya."* (QS. Al-A'raf: 34).  
 
@@ -68,11 +64,7 @@ Dalam Al-Qur'an dan Sunnah, kepastian ajal dan hisab adalah fondasi kesadaran ni
 
 2. **Pertanggungjawaban Empat Modal Utama Usia di Padang Mahsyar:**
 
-   ```arabic
-
-   لَا تَزُولُ قَدَمَا عَبْدٍ يَوْمَ الْقِيَامَةِ حَتَّى يُسْأَلَ عَنْ عُمُرِهِ فِيمَا أَفْنَاهُ، وَعَنْ عِلْمِهِ فِيمَا فَعَلَ، وَعَنْ مَالِهِ مِنْ أَيْنَ اكْتَسَبَهُ وَفِيمَا أَنْفَقَهُ، وَعَنْ جِسْمِهِ فِيمَا أَبْلَاهُ
-
-   ```
+   > لَا تَزُولُ قَدَمَا عَبْدٍ يَوْمَ الْقِيَامَةِ حَتَّى يُسْأَلَ عَنْ عُمُرِهِ فِيمَا أَفْنَاهُ، وَعَنْ عِلْمِهِ فِيمَا فَعَلَ، وَعَنْ مَالِهِ مِنْ أَيْنَ اكْتَسَبَهُ وَفِيمَا أَنْفَقَهُ، وَعَنْ جِسْمِهِ فِيمَا أَبْلَاهُ
 
    > *Rasulullah ﷺ bersabda: "Tidak akan bergeser kedua kaki seorang hamba pada hari kiamat hingga ia ditanya tentang: umurnya untuk apa ia habiskan, ilmunya apa yang ia amalkan, hartanya dari mana ia peroleh dan ke mana ia belanjakan, serta tubuhnya untuk apa ia gunakan."* (HR. At-Tirmidzi no. 2417, shahih).  
 
@@ -82,11 +74,7 @@ Dalam Al-Qur'an dan Sunnah, kepastian ajal dan hisab adalah fondasi kesadaran ni
 
 3. **Prinsip Tetap Menanam Kendati Kiamat Tiba di Depan Mata:**
 
-   ```arabic
-
-   إِنْ قَامَتِ السَّاعَةُ وَبِيَدِ أَحَدِكُمْ فَسِيلَةٌ، فَإِنِ اسْتَطَاعَ أَنْ لَا يَقُومَ حَتَّى يَغْرِسَهَا فَلْيَفْعَلْ
-
-   ```
+   > إِنْ قَامَتِ السَّاعَةُ وَبِيَدِ أَحَدِكُمْ فَسِيلَةٌ، فَإِنِ اسْتَطَاعَ أَنْ لَا يَقُومَ حَتَّى يَغْرِسَهَا فَلْيَفْعَلْ
 
    > *Rasulullah ﷺ bersabda: "Jika hari kiamat telah tegak sedang di tangan salah seorang di antara kalian ada tunas pohon kurma, maka jika ia mampu untuk tidak bangkit sebelum menanamnya, hendaklah ia menanamnya!"* (HR. Ahmad no. 12902 & Al-Bukhari dalam Al-Adab al-Mufrad no. 479, shahih).  
 
@@ -212,11 +200,7 @@ Ulama salaf menegaskan bahwa mengingat mati (*dzikr al-mawt*) disyariatkan untuk
 
    Menjelaskan bahwa orang bijak memandang usia mudanya laksana modal perdagangan yang paling berharga:  
 
-   ```arabic
-
-   إِنَّمَا أَنْتَ أَيَّامٌ مَعْدُودَةٌ، كُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكَ... فَالْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوْتِ
-
-   ```
+   > إِنَّمَا أَنْتَ أَيَّامٌ مَعْدُودَةٌ، كُلَّمَا ذَهَبَ يَوْمٌ ذَهَبَ بَعْضُكَ... فَالْكَيِّسُ مَنْ دَانَ نَفْسَهُ وَعَمِلَ لِمَا بَعْدَ الْمَوْتِ
 
    > *"Sesungguhnya engkau hanyalah kumpulan hari-hari yang terhitung; setiap kali berlalu satu hari, maka berkuranglah sebagian dari dirimu... Maka orang yang cerdas adalah yang mampu mengendalikan dirinya dan beramal untuk kehidupan setelah kematian."*
 

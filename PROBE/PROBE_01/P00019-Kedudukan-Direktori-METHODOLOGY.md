@@ -79,18 +79,14 @@ Ibnu Khaldun membagi disiplin ilmu ke dalam dua kategori hierarkis:
 2. **Ilmu-Ilmu Alat (Wasail / Alah)**: Ilmu-ilmu yang dipelajari semata-mata sebagai sarana pembantu untuk memahami ilmu tujuan (*tuthlabu li-ghairiha*), seperti Nahwu, Sharaf, Balaghah, Ushul Fiqih, Mantiq, dan metodologi kearsipan.
 
 Ibnu Khaldun merumuskan kaidah kritis yang menjadi landasan arsitektur direktori `METHODOLOGY/`:
-```text
-إِنَّ الْعُلُومَ الْآلِيَّةَ لَا يَنْبَغِي أَنْ يُتَوَسَّعَ فِي مَبَاحِثِهَا وَلَا أَنْ تُفْرَعَ مَسَائِلُهَا، لِأَنَّهَا وَسَائِلُ إِلَى غَيْرِهَا وَلَيْسَتْ مَقْصُودَةً لِذَاتِهَا. وَمَتَى خَرَجَتِ الْوَسِيلَةُ عَنْ حَدِّ كَوْنِهَا وَسِيلَةً صَارَتْ شَاغِلَةً عَنِ الْمَقْصِدِ، وَانْقَلَبَتْ حِجَابًا يَمْنَعُ مِنَ الْوُصُولِ إِلَى الْغَايَةِ، وَذَلِكَ إِضَاعَةٌ لِلْعُمْرِ فِيمَا لَا يُجْدِي.
-```
+> إِنَّ الْعُلُومَ الْآلِيَّةَ لَا يَنْبَغِي أَنْ يُتَوَسَّعَ فِي مَبَاحِثِهَا وَلَا أَنْ تُفْرَعَ مَسَائِلُهَا، لِأَنَّهَا وَسَائِلُ إِلَى غَيْرِهَا وَلَيْسَتْ مَقْصُودَةً لِذَاتِهَا. وَمَتَى خَرَجَتِ الْوَسِيلَةُ عَنْ حَدِّ كَوْنِهَا وَسِيلَةً صَارَتْ شَاغِلَةً عَنِ الْمَقْصِدِ، وَانْقَلَبَتْ حِجَابًا يَمْنَعُ مِنَ الْوُصُولِ إِلَى الْغَايَةِ، وَذَلِكَ إِضَاعَةٌ لِلْعُمْرِ فِيمَا لَا يُجْدِي.
 > "Sesungguhnya ilmu-ilmu alat tidak seyogianya diperluas pembahasannya secara berlebihan dan tidak boleh dicabang-cabangkan perinciannya, karena ilmu alat hanyalah sarana menuju yang lain dan bukan tujuan pada dirinya sendiri. Kapan saja suatu sarana (*wasilah*) keluar dari batas fungsinya sebagai sarana, ia akan menyibukkan manusia dari tujuan intinya (*al-maqshid*), dan berubah menjadi tabir (*hijab*) yang menghalangi pencapaian tujuan. Hal itu merupakan bentuk penyia-nyiaan umur dalam perkara yang tidak mendatangkan faedah."
 
 Analisis Ibnu Khaldun ini membongkar bahaya laten imperialisme metodologis di pesantren modern. Direktori `METHODOLOGY/` adalah *Ilmu Alat* repositori: ia memuat pedoman penulisan, aturan sitasi, dan tata kelola git. Jika tim metodologi menyusun ratusan aturan birokrasi yang rumit, mereka telah "menyia-nyiakan umur" para pendidik dan merusak fokus lembaga dari *Maqashid* pendidikan, yakni membina fitrah dan adab santri.
 
 ### 4.2. Kaidah Wasail Mengikuti Maqashid Menurut Imam Asy-Syathibi
 Imam Abu Ishaq asy-Syathibi (w. 790 H) dalam kitab *al-Muwafaqat fi Ushul asy-Syari'ah* (Khobar: Dar 'Affan, 1997, Juz 2, hal. 395–402) merumuskan kaidah hukum yang sangat mendasar mengenai subordinasi sarana terhadap tujuan:
-```text
-الْوَسِيلَةُ سَاقِطَةُ الِاعْتِبَارِ إِذَا عَادَتْ عَلَى الْمَقْصُودِ بِالْإِبْطَالِ، لِأَنَّ مَشْرُوعِيَّةَ الْوَسَائِلِ إِنَّمَا كَانَتْ لِأَجْلِ الْمَقَاصِدِ، فَمَتَى أَدَّتْ إِلَى خِلَافِ مَا شُرِعَتْ لَهُ فَقَدْ بَطَلَتْ شَرْعًا وَعَقْلًا.
-```
+> الْوَسِيلَةُ سَاقِطَةُ الِاعْتِبَارِ إِذَا عَادَتْ عَلَى الْمَقْصُودِ بِالْإِبْطَالِ، لِأَنَّ مَشْرُوعِيَّةَ الْوَسَائِلِ إِنَّمَا كَانَتْ لِأَجْلِ الْمَقَاصِدِ، فَمَتَى أَدَّتْ إِلَى خِلَافِ مَا شُرِعَتْ لَهُ فَقَدْ بَطَلَتْ شَرْعًا وَعَقْلًا.
 > "Sarana (*al-wasilah*) gugur keberadaannya jika keberadaannya justru membatalkan atau merusak tujuan yang hendak dicapai (*'adat 'ala al-maqshudi bil-ibthal*). Sebab legitimasi pensyariatan sarana hanyalah semata-mata demi mencapai tujuan. Maka kapan saja suatu sarana membawa hasil yang bertentangan dengan tujuan pensyariatannya, sarana tersebut batal secara syariat maupun akal."
 
 Kaidah asy-Syathibi ini menjadi banteng perlindungan di repositori TUMBUH: pedoman metodologi riset di `METHODOLOGY/` dirancang untuk membantu perumusan argumen yang jernih dan dapat ditelusuri. Apabila sebuah aturan metodologi (misalnya format kuesioner yang kaku) justru menghalangi penanganan kasus trauma santri atau melarang penggunaan dalil turats yang sahih, maka aturan metodologi tersebut **BATAL SECARA OTOMATIS** demi memelihara tujuan keselamatan fitrah anak.
@@ -106,9 +102,7 @@ Direktori `METHODOLOGY/` adalah timbangan (*al-mizan*): ia memastikan bahwa argu
 Hujjatul Islam Abu Hamid Muhammad al-Ghazali (w. 505 H) dalam karya monumentalnya *Mi'yar al-'Ilm fi Fann al-Mantiq* (Kairo: Dar al-Ma'arif, 1961, hal. 58-65) dan *Tahafut al-Falasifah* (Kairo: Dar al-Ma'arif, 1972, hal. 79-84) meletakkan demarkasi yang sangat revolusioner mengenai posisi ilmu logika dan metodologi berpikir (*al-manhaj al-mantiqi*). Al-Ghazali menegaskan bahwa ilmu mantiq dan kaidah silogisme (*al-qiyas al-aqli*) pada hakikatnya bersifat netral secara teologis; ia laksana timbangan emas dan takaran timbangan yang tidak memiliki agama. Siapa pun yang menimbang dengan adil, timbangannya akan lurus, baik ia seorang mukmin maupun orang kafir.
 
 Namun, Al-Ghazali memberikan peringatan keras yang menjadi fondasi subordinasi direktori `METHODOLOGY/`:
-```text
-إِنَّ الْخَطَأَ لَيْسَ فِي مِيزَانِ الْمَنْطِقِ، وَإِنَّمَا الْخَطَأُ فِي تَوَهُّمِ الْمَنَاطِقَةِ أَنَّ مِيزَانَهُمْ يُغْنِيهِمْ عَنْ نُورِ النُّبُوَّةِ، أَوْ أَنَّ قَوَاعِدَهُمْ تَحْكُمُ عَلَى الْغَيْبِيَّاتِ وَالْمَقَاصِدِ الشَّرْعِيَّةِ. فَالْمَنْطِقُ آلَةٌ لِعِصْمَةِ الذِّهْنِ عَنِ الْخَطَأِ فِي التَّرْكِيبِ، لَا فِي إِدْرَاكِ حَقَائِقِ الْأَسْرَارِ الْإِلَهِيَّةِ.
-```
+> إِنَّ الْخَطَأَ لَيْسَ فِي مِيزَانِ الْمَنْطِقِ، وَإِنَّمَا الْخَطَأُ فِي تَوَهُّمِ الْمَنَاطِقَةِ أَنَّ مِيزَانَهُمْ يُغْنِيهِمْ عَنْ نُورِ النُّبُوَّةِ، أَوْ أَنَّ قَوَاعِدَهُمْ تَحْكُمُ عَلَى الْغَيْبِيَّاتِ وَالْمَقَاصِدِ الشَّرْعِيَّةِ. فَالْمَنْطِقُ آلَةٌ لِعِصْمَةِ الذِّهْنِ عَنِ الْخَطَأِ فِي التَّرْكِيبِ، لَا فِي إِدْرَاكِ حَقَائِقِ الْأَسْرَارِ الْإِلَهِيَّةِ.
 > "Sesungguhnya kesalahan itu bukan terletak pada timbangan logika, melainkan pada ilusi para ahli logika yang menyangka bahwa timbangan mereka dapat mencukupi mereka dari cahaya kenabian (*nur an-nubuwwah*), atau bahwa kaidah-kaidah teknis mereka berhak menghukumi perkara-perkara ghaib dan tujuan-tujuan syariat (*al-maqashid asy-syar'iyyah*). Logika hanyalah alat untuk menjaga pikiran dari kekeliruan dalam penyusunan premis, bukan untuk menangkap hakikat rahasia-rahasia ketuhanan."
 
 Kritik Al-Ghazali ini menegaskan batas yurisdiksi Lapisan Metodologi repositori TUMBUH: direktori `METHODOLOGY/` bertugas menjaga agar cara penulisan kita lurus dan tidak kontradiktif (*'ishmatudz-dzihn 'anil-khatha'*). Namun, metodologi tidak pernah boleh merasa cukup dari bimbingan wahyu kenabian atau mencoba menghukumi hakikat fitrah jiwa santri.
@@ -443,9 +437,7 @@ Seluruh perumus metodologi, auditor penjaminan mutu, dan kontributor repositori 
 
 ### 11.2. Dimensi Eskatologis Bahaya Menghalangi Kebaikan dengan Dalih Prosedur
 Secara teologis dan eskatologis, para perumus metodologi dan auditor penjaminan mutu di pesantren mengemban tanggung jawab hisab yang sangat berat di hadapan Allah Ta'ala. Dalam Al-Qur'an, Allah memperingatkan bahaya orang-orang yang gemar membuat aturan-aturan buatan manusia yang mempersulit hamba-hamba Allah untuk beramal saleh. Allah Ta'ala berfirman:
-```text
-مَنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ
-```
+> مَنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ
 > *"(Dan janganlah engkau patuhi orang yang) banyak menghalangi perbuatan baik, melampaui batas, lagi banyak berbuat dosa." (QS. Al-Qalam: 12).*
 
 Ketika seorang petugas penjaminan mutu menolak laporan penanganan santri yang teraniaya atau menghambat program pengasuhan yatim hanya karena alasan formalitas stempel atau tata letak tabel yang kurang rapi, ia telah terancam masuk ke dalam golongan *manna'in lil-khair* (orang yang menghalangi perbuatan baik). Menjaga kesederhanaan metodologi dan kelapangan prosedur adalah bentuk ketakwaan untuk memastikan bahwa kebaikan (*al-khair*) mengalir tanpa hambatan birokrasi yang zalim.

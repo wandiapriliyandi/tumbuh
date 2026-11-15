@@ -54,11 +54,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, keadilan Ilahi adalah fondasi penciptaan kosmo
 
 1. **Perintah Menegakkan Keadilan dan Berbuat Ihsan Secara Terpadu:**
 
-   ```arabic
-
-   إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
-
-   ```
+   > إِنَّ اللَّهَ يَأْمُرُ بِالْعَدْلِ وَالْإِحْسَانِ وَإِيتَاءِ ذِي الْقُرْبَىٰ وَيَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنكَرِ وَالْبَغْيِ ۚ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ
 
    > *"Sesungguhnya Allah menyuruh (kamu) berlaku adil dan berbuat ihsan, memberi bantuan kepada kerabat, dan Dia melarang dari perbuatan keji, kemungkaran, dan permusuhan (kezaliman). Dia memberi pengajaran kepadamu agar kamu dapat mengambil pelajaran."* (QS. An-Nahl: 90).  
 
@@ -68,11 +64,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, keadilan Ilahi adalah fondasi penciptaan kosmo
 
 2. **Pengharaman Mutlak Kezaliman Atas Diri Allah dan Seluruh Hamba-Nya:**
 
-   ```arabic
-
-   يَا عِبَادِي إِنِّي حَرَّمْتُ الظُّلْمَ عَلَى نَفْسِي، وَجَعَلْتُهُ بَيْنَكُمْ مُحَرَّمًا، فَلَا تَظَالَمُوا
-
-   ```
+   > يَا عِبَادِي إِنِّي حَرَّمْتُ الظُّلْمَ عَلَى نَفْسِي، وَجَعَلْتُهُ بَيْنَكُمْ مُحَرَّمًا، فَلَا تَظَالَمُوا
 
    > *Allah Ta'ala berfirman dalam Hadits Qudsi: "Wahai hamba-hamba-Ku, sesungguhnya Aku telah mengharamkan kezaliman atas diri-Ku, dan Aku jadikan kezaliman itu haram di antara kalian, maka janganlah kalian saling menzalimi!"* (HR. Muslim no. 2577).  
 
@@ -82,11 +74,7 @@ Dalam wahyu Al-Qur'an dan Sunnah, keadilan Ilahi adalah fondasi penciptaan kosmo
 
 3. **Keadilan Berlandaskan Proporsionalitas dan Penolakan Sikap Melampaui Batas:**
 
-   ```arabic
-
-   وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُم بِهِ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرِينَ
-
-   ```
+   > وَإِنْ عَاقَبْتُمْ فَعَاقِبُوا بِمِثْلِ مَا عُوقِبْتُم بِهِ ۖ وَلَئِن صَبَرْتُمْ لَهُوَ خَيْرٌ لِّلصَّابِرِينَ
 
    > *"Dan jika kamu membalas, maka balaslah dengan (balasan) yang sepadan dengan siksaan yang ditimpakan kepadamu. Tetapi jika kamu bersabar, sesungguhnya itulah yang lebih baik bagi orang-orang yang sabar."* (QS. An-Nahl: 126).
 

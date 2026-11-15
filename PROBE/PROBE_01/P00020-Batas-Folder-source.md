@@ -68,9 +68,7 @@ Repositori TUMBUH v2.0.0 merespons tantangan di atas dengan memagari direktori `
 
 ### 4.1. Kaidah Tabayyun Qur'ani dan Kritik Berita Mentah
 Dalam epistemologi Islam, Allah Ta'ala telah meletakkan prinsip dasar yang sangat tegas mengenai larangan mempercayai dan menyebarkan berita mentah sebelum melalui proses verifikasi (*at-tatsabbut wa at-tabayyun*). Allah Ta'ala berfirman dalam surat al-Hujurat ayat 6:
-```text
-يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
-```
+> يَا أَيُّهَا الَّذِينَ آمَنُوا إِن جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَن تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ
 > *"Wahai orang-orang yang beriman! Jika seseorang yang fasik datang kepadamu membawa suatu berita, maka telitilah kebenarannya (tabayyun), agar kamu tidak mencelakakan suatu kaum karena kebodohan (kecerobohan), yang akhirnya kamu menyesali perbuatanmu itu."*
 
 Ayat agung ini adalah piagam tertinggi penolakan terhadap *Raw Ingestion Fallacy*. Berita yang dibawa oleh seseorang—termasuk rekaman wawancara mentah, curahan hati santri di kamar, atau laporan sepihak musyrif di folder `source/`—berstatus sebagai *Naba'* (berita kasar). Mengambil keputusan hukum langsung dari berita mentah tanpa verifikasi (*tabayyun*) dikategorikan oleh Al-Qur'an sebagai tindakan ceroboh (*bi-jahalatin*) yang melahirkan penyesalan mendalam dan kezaliman sistemik.
@@ -81,9 +79,7 @@ Para ulama ahli hadits membedakan secara presisi antara fase *Tahammul al-'Ilm* 
 Al-Hafizh Ibnu ash-Shalah (w. 643 H) dalam *Muqaddimah*-nya (hal. 128–135) dan Syaikh Jamaluddin al-Qasimi (w. 1332 H) dalam *Qawa'id at-Tahdits min Funun Mushthalah al-Hadits* (Beirut: Dar al-Kutub al-'Ilmiyyah, 1979, hal. 198–205) menjelaskan bahwa para imam hadits pada fase *Tahammul* mencatat segala macam riwayat yang mereka dengar di pasar, di majelis, bahkan dari perawi yang lemah (*ad-dhu'afa'*), di dalam buku catatan kasar mereka (*al-ajza' wa ash-shuhuf ar-rawiyyah*). Tindakan menghimpun data mentah ini bukanlah aib, melainkan bagian dari keterbukaan dokumentasi.
 
 Namun, Jamaluddin al-Qasimi menegaskan kaidah yang menjadi roh pemisahan Lapisan `source/`:
-```text
-لَيْسَ كُلُّ مَا كُتِبَ فِي السَّفَاتِجِ يُرْوَى، وَلَا كُلُّ مَا رُوِيَ يُصَحَّحُ، وَلَا كُلُّ مَا صُحِّحَ يُعْمَلُ بِهِ. فَمَنْ جَعَلَ مُجَرَّدَ وُجُودِ الْحَدِيثِ فِي كِتَابٍ أَوْ دَفْتَرٍ دَلِيلًا عَلَى صِحَّتِهِ وَوُجُوبِ الْعَمَلِ بِهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا وَخَرَقَ إِجْمَاعَ أَهْلِ الْأَثَرِ.
-```
+> لَيْسَ كُلُّ مَا كُتِبَ فِي السَّفَاتِجِ يُرْوَى، وَلَا كُلُّ مَا رُوِيَ يُصَحَّحُ، وَلَا كُلُّ مَا صُحِّحَ يُعْمَلُ بِهِ. فَمَنْ جَعَلَ مُجَرَّدَ وُجُودِ الْحَدِيثِ فِي كِتَابٍ أَوْ دَفْتَرٍ دَلِيلًا عَلَى صِحَّتِهِ وَوُجُوبِ الْعَمَلِ بِهِ فَقَدْ ضَلَّ ضَلَالًا بَعِيدًا وَخَرَقَ إِجْمَاعَ أَهْلِ الْأَثَرِ.
 > "Bukanlah setiap apa yang tertulis di dalam buku catatan kasar (*as-safatij*) boleh diriwayatkan ke publik; bukan setiap yang diriwayatkan boleh dihukumi sahih; dan bukan setiap yang sahih serta-merta wajib diamalkan tanpa melihat nasakh dan konteksnya. Maka barangsiapa yang menjadikan sekadar keberadaan suatu teks di dalam sebuah buku catatan atau berkas sebagai dalil atas kesahihannya dan kewajiban mengamalkannya, sungguh ia telah tersesat dengan kesesatan yang jauh dan telah merusak konsensus para ahli hadits."
 
 Kaidah al-Qasimi ini secara telak menghancurkan anggapan bahwa folder `source/` adalah *Source of Truth*. Folder `source/` adalah *as-safatij* (buku catatan kasar): keberadaan sebuah file di dalamnya tidak membuktikan kebenaran isinya, tidak membuktikan kesahihannya, dan haram dijadikan dalil operasional sebelum melalui proses *tashhih* di `PROBE/` dan pengesahan di `01_FUNDAMENTAL/`.
@@ -99,9 +95,7 @@ Imam Jalaluddin as-Suyuthi (w. 911 H) dalam kitab syarah ilmu haditsnya yang san
 2. *Majhul al-Hal (al-Mastur)*: Perawi yang lahiriahnya tampak sebagai muslim, namun keadilan batiniah dan ketelitian hafalan/pencatatannya (*adh-dhabth*) belum teruji di hadapan dewan penguji.
 
 As-Suyuthi menegaskan kaidah konsensus ulama ahli hadits:
-```text
-لَا يُقْبَلُ خَبَرُ الْمَجْهُولِ عَيْنًا وَلَا حَالًا فِي إِثْبَاتِ الْأَحْكَامِ الشَّرْعِيَّةِ، لِأَنَّ شَرْطَ قَبُولِ الرِّوَايَةِ ثُبُوتُ الْعَدَالَةِ وَالضَّبْطِ، وَالْأَصْلُ فِي الْأَخْبَارِ التَّوَقُّفُ حَتَّى يَتَبَيَّنَ الصِّدْقُ. وَمَنْ بَنَى حُكْمًا عَلَى رِوَايَةِ مَجْهُولٍ فَقَدْ جَازَفَ وَقَفَا مَا لَيْسَ لَهُ بِهِ عِلْمٌ.
-```
+> لَا يُقْبَلُ خَبَرُ الْمَجْهُولِ عَيْنًا وَلَا حَالًا فِي إِثْبَاتِ الْأَحْكَامِ الشَّرْعِيَّةِ، لِأَنَّ شَرْطَ قَبُولِ الرِّوَايَةِ ثُبُوتُ الْعَدَالَةِ وَالضَّبْطِ، وَالْأَصْلُ فِي الْأَخْبَارِ التَّوَقُّفُ حَتَّى يَتَبَيَّنَ الصِّدْقُ. وَمَنْ بَنَى حُكْمًا عَلَى رِوَايَةِ مَجْهُولٍ فَقَدْ جَازَفَ وَقَفَا مَا لَيْسَ لَهُ بِهِ عِلْمٌ.
 > "Tidak diterima berita orang yang majhul, baik majhul identitasnya (*'ainan*) maupun majhul integritasnya (*halan*), dalam menetapkan hukum-hukum syariat. Sebab syarat diterimanya suatu riwayat adalah terbuktinya integritas moral (*al-'adalah*) dan ketelitian pencatatan (*adh-dhabth*). Hukum asal dari suatu berita adalah menahan diri (*at-tawaqquf*) hingga menjadi jelas kebenarannya. Barangsiapa yang membangun suatu hukum di atas riwayat orang yang majhul, sungguh ia telah bertindak gegabah dan mengikuti apa yang ia tidak memiliki ilmu tentangnya."
 
 Kaidah as-Suyuthi ini menjadi landasan mengapa direktori `source/` diisolasi: banyak catatan lapangan, kuesioner tanpa nama, atau rekaman suara di dalamnya berstatus *Majhul al-Hal* (tidak diketahui siapa yang mengisi, apakah responden jujur atau sedang bercanda). Membangun kebijakan asrama di atas data mentah majhul adalah perbuatan gegabah (*mujarafah*) yang melanggar metodologi Islam klasik.
@@ -423,9 +417,7 @@ Penegakan demarkasi direktori `source/` memberikan perlindungan integritas yang 
 
 ### 11.2. Dimensi Eskatologis Amanah Menjaga Aib dan Tabayyun Berita
 Secara teologis dan eskatologis, penegakan batas folder `source/` adalah perwujudan ketaatan kepada perintah syariat untuk menjaga aib sesama muslim (*satr 'awrat al-muslim*) dan kewajiban tabayyun. Rasulullah ﷺ bersabda dalam hadits sahih:
-```text
-مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ
-```
+> مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ
 > *"Barangsiapa yang menutupi aib seorang muslim, maka Allah akan menutupi aibnya di dunia dan di akhirat." (HR. Muslim No. 2699).*
 
 Menyebarkan rekaman suara curhat santri atau mempublikasikan catatan mentah yang memuat kelemahan seorang anak adalah bentuk pembongkaran aib (*hatk al-hurumat*) yang diancam dengan siksa pedih. Petugas data yang dengan teliti menyamarkan nama santri dan membatasi sirkulasi berkas mentah sedang menjalankan ibadah agung menjaga kehormatan darah dan martabat generasi santri di hadapan Allah Ta'ala.
@@ -454,9 +446,7 @@ Seluruh peneliti, pengumpul data, dan praktisi repositori terikat secara mutlak 
 
 ### 11.2. Dimensi Eskatologis Amanah Menjaga Lisan dari Menuduh Tanpa Bukti (Tahrim al-Buhtan)
 Secara teologis dan eskatologis, penegakan batas folder `source/` adalah benteng pertahanan dari dosa besar *Buhtan* (menuduh orang lain tanpa bukti) dan *Ghibah* (membicarakan aib orang lain di belakangnya). Rasulullah ﷺ memperingatkan bahaya seorang mukmin yang gemar membicarakan segala sesuatu yang ia dengar:
-```text
-كَفَى بِالْمَرْءِ كَذِبًا أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ
-```
+> كَفَى بِالْمَرْءِ كَذِبًا أَنْ يُحَدِّثَ بِكُلِّ مَا سَمِعَ
 > *"Cukuplah seseorang dianggap berdusta apabila ia menceritakan (menyebarkan) setiap apa yang ia dengar." (HR. Muslim dalam Muqaddimah Shahih-nya No. 5).*
 
 Ketika seorang staf pengasuhan membaca transkrip kasar di `source/` yang memuat keluhan seorang santri tentang temannya, lalu staf tersebut langsung mempercayainya dan menyebarkannya kepada para guru lain, ia telah terjatuh ke dalam kedustaan yang diperingatkan oleh Rasulullah ﷺ. Membatasi sirkulasi berkas mentah adalah ibadah taqwa untuk membersihkan lisan dan dokumen pesantren dari dosa fitnah dan dusta.

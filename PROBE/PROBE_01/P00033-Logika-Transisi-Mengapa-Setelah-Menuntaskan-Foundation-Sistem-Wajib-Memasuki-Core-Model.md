@@ -123,9 +123,7 @@ Para ulama ushul fiqh, mufassirin, dan pakar tarbiyah Islam klasik telah meletak
 ### 4.1 Doktrin Tahqiq al-Manath: Menurunkan Dalil Universal ke Fakta Empiris
 Salah satu puncak kecemerlangan metodologi hukum Islam adalah konsep **Tahqiq al-Manath (Verifikasi Titik Taut Hukum pada Realitas Partikular)**. Imam Abu Hamid al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* dan Imam Asy-Syathibi dalam *Al-Muwafaqat* menjelaskan bahwa ijtihad tidak berhenti pada perumusan teks dalil (*istinbath al-ahkam*), melainkan harus dilanjutkan dengan *tahqiq al-manath*:
 
-```arabic
-تَحْقِيقُ الْمَنَاطِ هُوَ أَنْ يَكُونَ الْحُكْمُ الشَّرْعِيُّ مُتَّفَقًا عَلَيْهِ فِي مَأْخَذِهِ أَوْ مَنْصُوصًا عَلَيْهِ، فَيَجْتَهِدُ الْمُجْتَهِدُ فِي إِثْبَاتِ عِلَّتِهِ وَتَعْيِينِ مَحَلِّهَا فِي آحَادِ الصُّوَرِ وَالْوَقَائِعِ الْجُزْئِيَّةِ حَتَّى يُنَزِّلَ الْحُكْمَ عَلَيْهَا بِالْعَدْلِ
-```
+> تَحْقِيقُ الْمَنَاطِ هُوَ أَنْ يَكُونَ الْحُكْمُ الشَّرْعِيُّ مُتَّفَقًا عَلَيْهِ فِي مَأْخَذِهِ أَوْ مَنْصُوصًا عَلَيْهِ، فَيَجْتَهِدُ الْمُجْتَهِدُ فِي إِثْبَاتِ عِلَّتِهِ وَتَعْيِينِ مَحَلِّهَا فِي آحَادِ الصُّوَرِ وَالْوَقَائِعِ الْجُزْئِيَّةِ حَتَّى يُنَزِّلَ الْحُكْمَ عَلَيْهَا بِالْعَدْلِ
 
 > **Takhrij**: Dielaborasi secara komprehensif oleh Imam Asy-Syathibi dalam *Al-Muwafaqat fi Ushul asy-Syari'ah*, Kitab al-Ijtihad, Bab Aqsam al-Ijtihad (Dar Ibnu 'Affan, Jilid 4, hlm. 90); dan Imam al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* (Dar al-Kutub al-'Ilmiyyah, hlm. 287).
 
@@ -134,9 +132,7 @@ Asy-Syathibi membuktikan bahwa syariat menetapkan prinsip umum (misalnya keharus
 ### 4.2 Kaidah Sarana Penjelas: Ma La Yatimm al-Wajib Illa Bihi Fa Huwa Wajib
 Kaidah emas ushul fiqh menetapkan prinsip aksiomatis mengenai keharusan instrumen penengah:
 
-```arabic
-مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ
-```
+> مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ
 
 > **Takhrij**: Kaidah disepakati lintas mazhab fukaha; dibahas mendalam oleh Imam Tajuddin as-Subki dalam *Al-Asybah wa an-Nazha'ir* (Jilid 1, hlm. 89) dan Ibnu an-Najjar dalam *Syarh al-Kawkab al-Munir* (Jilid 1, hlm. 347).
 
@@ -145,9 +141,7 @@ Jika menanamkan adab kepada santri adalah sebuah kewajiban syar'i (*wajib*), dan
 ### 4.3 Al-Qadhi Abu Bakar Ibnul Arabi: Penurunan Maqashid Menjadi Rukun dan Syarat
 Al-Qadhi Muhammad bin Abdillah Ibnul Arabi al-Ma'afiri (w. 543 H) dalam karyanya *Ahkam al-Qur'an* menguraikan bagaimana syariat Islam tidak pernah membiarkan nilai-nilai maqashid luhur mengambang tanpa perincian rukun dan syarat operasional:
 
-```arabic
-إِنَّ اللَّهَ سُبْحَانَهُ لَمَّا شَرَعَ الْعِبَادَاتِ وَفَرَضَ الطَّاعَاتِ، لَمْ يَقْتَصِرْ عَلَى ذِكْرِ مَقَاصِدِهَا الْمُجْمَلَةِ، بَلْ فَصَّلَ لَهَا أَرْكَانًا وَشَرَائِطَ وَحُدُودًا وَأَسْبَابًا، لِأَنَّ النُّفُوسَ إِذَا تُرِكَتْ إِلَى الْمَقَاصِدِ الْمُجْمَلَةِ مِنْ غَيْرِ مَسَالِكَ تَعْيِينِيَّةٍ ضَلَّتْ فِي طُرُقِ التَّأْوِيلِ، وَفَسَدَ عَلَيْهَا أَمْرُ دِينِهَا
-```
+> إِنَّ اللَّهَ سُبْحَانَهُ لَمَّا شَرَعَ الْعِبَادَاتِ وَفَرَضَ الطَّاعَاتِ، لَمْ يَقْتَصِرْ عَلَى ذِكْرِ مَقَاصِدِهَا الْمُجْمَلَةِ، بَلْ فَصَّلَ لَهَا أَرْكَانًا وَشَرَائِطَ وَحُدُودًا وَأَسْبَابًا، لِأَنَّ النُّفُوسَ إِذَا تُرِكَتْ إِلَى الْمَقَاصِدِ الْمُجْمَلَةِ مِنْ غَيْرِ مَسَالِكَ تَعْيِينِيَّةٍ ضَلَّتْ فِي طُرُقِ التَّأْوِيلِ، وَفَسَدَ عَلَيْهَا أَمْرُ دِينِهَا
 
 > **Takhrij**: Ibnul Arabi, *Ahkam al-Qur'an*, Tafsir Surah Al-Baqarah [2]: 183 (Dar al-Kutub al-'Ilmiyyah, Jilid 1, hlm. 95).
 
@@ -156,9 +150,7 @@ Ibnul Arabi menjelaskan hikmah mendalam: jika manusia dibiarkan hanya dengan tuj
 ### 4.4 Badruddin Ibnu Jama'ah dalam Tadzkirat as-Sami': Kebutuhan Tangga Pertumbuhan (Madarij)
 Syaikhul Islam Badruddin Ibnu Jama'ah (w. 733 H) dalam *Tadzkirat as-Sami' wa al-Mutakallim* menetapkan bahwa pembinaan penuntut ilmu menuntut adanya tangga-tangga tahapan yang sistematis:
 
-```arabic
-يَنْبَغِي لِلشَّيْخِ أَنْ يَرْسُمَ لِلطَّالِبِ مَنْهَجًا وَاضِحًا يَرْتَقِي فِيهِ دَرَجَةً دَرَجَةً، فَلَا يَنْقُلُهُ مِنْ مَرْتَبَةٍ إِلَى مَرْتَبَةٍ أَعْلَى حَتَّى يُحْكِمَ الْمَرْتَبَةَ الَّتِي قَبْلَهَا، فَإِنَّ الْبِنَاءَ إِذَا أُسِّسَ عَلَى غَيْرِ تَرْتِيبٍ وَتَدْرِيجٍ انْهَارَ عِنْدَ أَدْنَى هِزَّةٍ
-```
+> يَنْبَغِي لِلشَّيْخِ أَنْ يَرْسُمَ لِلطَّالِبِ مَنْهَجًا وَاضِحًا يَرْتَقِي فِيهِ دَرَجَةً دَرَجَةً، فَلَا يَنْقُلُهُ مِنْ مَرْتَبَةٍ إِلَى مَرْتَبَةٍ أَعْلَى حَتَّى يُحْكِمَ الْمَرْتَبَةَ الَّتِي قَبْلَهَا، فَإِنَّ الْبِنَاءَ إِذَا أُسِّسَ عَلَى غَيْرِ تَرْتِيبٍ وَتَدْرِيجٍ انْهَارَ عِنْدَ أَدْنَى هِزَّةٍ
 
 > **Takhrij**: Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim*, Bab ats-Tsalits: fi Adab al-Mu'allim ma'a Thalabatihi (Dar al-Basyair al-Islamiyyah, hlm. 68).
 
@@ -170,9 +162,7 @@ Ibnu Jama'ah menegaskan bahwa bangunan adab santri akan runtuh pada guncangan pe
 ### 4.5 Al-Mawardi dalam Tashil an-Nazhar: Konsep Al-Ulfah wa ash-Shalah dalam Komunitas Asrama
 Imam Abu al-Hasan Ali bin Muhammad al-Mawardi (w. 450 H) dalam kitab etika sosial-politiknya *Tashil an-Nazhar wa Ta'jil azh-Zhafar fi Akhlaq al-Malik wa Siyasat al-Mamlakah* membedah arsitektur ketertiban sosial suatu komunitas:
 
-```arabic
-إِنَّ صَلَاحَ الْجَمَاعَةِ وَانْتِظَامَ أَمْرِهَا لَا يَتِمُّ إِلَّا بِأَمْرَيْنِ: أُلْفَةٍ جَامِعَةٍ، وَعَدْلٍ شَامِلٍ. فَأَمَّا الْأُلْفَةُ فَهِيَ الَّتِي تَعْطِفُ الْقُلُوبَ حَتَّى تَتَآخَى، وَتَحْمِلُ النُّفُوسَ عَلَى التَّعَاوُنِ حَتَّى تَتَنَاصَرَ، وَأَمَّا الْعَدْلُ فَهُوَ الَّذِي يَقْطَعُ أَطْمَاعَ الْمُتَسَلِّطِينَ، وَيُؤَمِّنُ خَوْفَ الْمُسْتَضْعَفِينَ. فَإِذَا اجْتَمَعَتِ الْأُلْفَةُ وَالْعَدْلُ تَمَّ النِّظَامُ، وَإِذَا ارْتَفَعَا ارْتَفَعَ النِّظَامُ وَحَلَّتِ الْفَوْضَى
-```
+> إِنَّ صَلَاحَ الْجَمَاعَةِ وَانْتِظَامَ أَمْرِهَا لَا يَتِمُّ إِلَّا بِأَمْرَيْنِ: أُلْفَةٍ جَامِعَةٍ، وَعَدْلٍ شَامِلٍ. فَأَمَّا الْأُلْفَةُ فَهِيَ الَّتِي تَعْطِفُ الْقُلُوبَ حَتَّى تَتَآخَى، وَتَحْمِلُ النُّفُوسَ عَلَى التَّعَاوُنِ حَتَّى تَتَنَاصَرَ، وَأَمَّا الْعَدْلُ فَهُوَ الَّذِي يَقْطَعُ أَطْمَاعَ الْمُتَسَلِّطِينَ، وَيُؤَمِّنُ خَوْفَ الْمُسْتَضْعَفِينَ. فَإِذَا اجْتَمَعَتِ الْأُلْفَةُ وَالْعَدْلُ تَمَّ النِّظَامُ، وَإِذَا ارْتَفَعَا ارْتَفَعَ النِّظَامُ وَحَلَّتِ الْفَوْضَى
 
 > **Takhrij**: Al-Mawardi, *Tashil an-Nazhar wa Ta'jil azh-Zhafar*, Bab ats-Tsani: fi Qawa'id Siyasat ar-Ra'iyyah (Dar an-Nahdhah al-'Arabiyyah, Beirut, hlm. 64).
 
@@ -184,9 +174,7 @@ Jika kedua elemen ini hilang dari arsitektur tata kelola, sistem akan runtuh dan
 ### 4.6 Ibnu Qayyim al-Jauziyyah dalam Miftah Dar as-Sa'adah: Konsep Al-Mizan fi at-Tazkiyah
 Imam Syamsuddin Ibnu al-Qayyim al-Jauziyyah (w. 751 H) dalam mahakaryanya *Miftah Dar as-Sa'adah wa Mansyur Wilayat al-'Ilm wa al-Iradah* menguraikan bahwa penanaman karakter adab menuntut adanya timbangan ukuran (*al-mizan*) yang presisi:
 
-```arabic
-إِنَّ اللَّهَ سُبْحَانَهُ وَتَعَالَى أَنْزَلَ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ. وَالْمِيزَانُ هُوَ الْعَدْلُ وَمَعْرِفَةُ مَقَادِيرِ الْأَشْيَاءِ وَمَرَاتِبِهَا. فَمَنْ أَرَادَ أَنْ يُرَبِّيَ نَفْسَهُ أَوْ غَيْرَهُ بِغَيْرِ مِيزَانٍ مَعْلُومٍ، أَفْسَدَ مِنْ حَيْثُ يُرِيدُ الصَّلَاحَ، فَإِنَّ الزِّيَادَةَ عَلَى الْحَدِّ غُلُوٌّ، وَالنُّقْصَانَ عَنْهُ تَفْرِيطٌ، وَكِلَاهُمَا مَذْمُومٌ
-```
+> إِنَّ اللَّهَ سُبْحَانَهُ وَتَعَالَى أَنْزَلَ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ. وَالْمِيزَانُ هُوَ الْعَدْلُ وَمَعْرِفَةُ مَقَادِيرِ الْأَشْيَاءِ وَمَرَاتِبِهَا. فَمَنْ أَرَادَ أَنْ يُرَبِّيَ نَفْسَهُ أَوْ غَيْرَهُ بِغَيْرِ مِيزَانٍ مَعْلُومٍ، أَفْسَدَ مِنْ حَيْثُ يُرِيدُ الصَّلَاحَ، فَإِنَّ الزِّيَادَةَ عَلَى الْحَدِّ غُلُوٌّ، وَالنُّقْصَانَ عَنْهُ تَفْرِيطٌ، وَكِلَاهُمَا مَذْمُومٌ
 
 > **Takhrij**: Ibnu al-Qayyim, *Miftah Dar as-Sa'adah*, Al-Fasl al-Awwal: fi Syaraf al-'Ilm wa 'Azhamatihi (Dar al-Kutub al-'Ilmiyyah, Jilid 1, hlm. 142).
 

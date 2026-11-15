@@ -35,25 +35,22 @@ Sistem TUMBUH v2.0.0 secara presisi menamakan fase transisi krusial ini sebagai 
 ### 3.1. Rujukan Teks Turats Otoritatif: Perintah Menguji Kematangan Akal Budi (Rusyd)
 Konsep kemandirian terbimbing berakar kuat pada perintah Al-Qur'an dalam menguji kesiapan kemandirian anak sebelum melepaskan tanggung jawab penuh kepadanya:
 
-```arabic
-وَابْتَلُوا الْيَتَامَى حَتَّى إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ
-```
+> وَابْتَلُوا الْيَتَامَى حَتَّى إِذَا بَلَغُوا النِّكَاحَ فَإِنْ آنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُوا إِلَيْهِمْ أَمْوَالَهُمْ
+
 *(Dan ujilah anak-anak yatim itu sampai mereka cukup umur untuk menikah. Kemudian jika menurut pendapatmu mereka telah cerdas [pandai memelihara harta dan berakal budi matang], maka serahkanlah kepada mereka harta-hartanya).*
 — **QS. An-Nisa' [4]: 6**.
 
 Ayat di atas menggunakan kata kerja *wabtaluu* (ujilah, berikan latihan bertahap), bukan langsung menyerahkan tanggung jawab secara serentak. Imam Al-Baidhawi (w. 685 H) dalam tafsir *Anwar at-Tanzil wa Asrar at-Ta'wil* menjelaskan kaidah pedagogis ini:
-```arabic
-وَالِابْتِلَاءُ يَكُونُ بِتَفْوِيضِ شَيْءٍ مِنْ أُمُورِ التَّصَرُّفِ إِلَيْهِمْ مَرَّةً بَعْدَ أُخْرَى؛ لِيُخْتَبَرَ حُسْنُ تَدْبِيرِهِمْ وَرُشْدُ عُقُولِهِمْ قَبْلَ رَفْعِ الْوِلَايَةِ عَنْهُمْ، فَلَا يُسَلَّمُ إِلَيْهِمُ الْأَمْرُ دَفْعَةً وَاحِدَةً مَخَافَةَ التَّبْذِيرِ، وَلَا يُحْجَرُ عَلَيْهِمْ أَبَدًا فَيَبْقَوْا عَلَى الْعَجْزِ
-```
+> وَالِابْتِلَاءُ يَكُونُ بِتَفْوِيضِ شَيْءٍ مِنْ أُمُورِ التَّصَرُّفِ إِلَيْهِمْ مَرَّةً بَعْدَ أُخْرَى؛ لِيُخْتَبَرَ حُسْنُ تَدْبِيرِهِمْ وَرُشْدُ عُقُولِهِمْ قَبْلَ رَفْعِ الْوِلَايَةِ عَنْهُمْ، فَلَا يُسَلَّمُ إِلَيْهِمُ الْأَمْرُ دَفْعَةً وَاحِدَةً مَخَافَةَ التَّبْذِيرِ، وَلَا يُحْجَرُ عَلَيْهِمْ أَبَدًا فَيَبْقَوْا عَلَى الْعَجْزِ
+
 *(Dan pengujian itu dilakukan dengan cara mendelegasikan sebagian urusan pengelolaan kepada mereka secara bertahap kali demi kali; guna menguji kebaikan tata kelola mandiri mereka dan kematangan akal budi mereka sebelum perwalian dicabut sepenuhnya. Maka urusan tidak boleh diserahkan sekaligus karena khawatir terjadi pemborosan/kerusakan, dan tidak boleh pula terus-menerus dikekang sehingga mereka tetap berada dalam ketidakberdayaan selamanya).*
 — **Al-Baidhawi**, *Anwar at-Tanzil wa Asrar at-Ta'wil*, Jilid 2, Hal. 63.
 
 Teks tafsir klasik ini merumuskan esensi Tahap 4: delegasi bertahap di bawah pengawasan reflektif agar anak tidak manja selamanya dan tidak celaka karena kebebasan liar.
 
 Dalam tradisi sirah Nabawiyyah, Rasulullah shallallahu 'alaihi wa sallam mempraktikkan *Istiqlal bi al-Irsyad* ketika mengutus Mu'adz bin Jabal radhiyallahu 'anhu ke Yaman. Beliau tidak mendikte setiap detail keputusan Mu'adz, melainkan menguji prinsip metodologi ijtihadnya:
-```arabic
-«كَيْفَ تَقْضِي إِذَا عَرَضَ لَكَ قَضَاءٌ؟» قَالَ: أَقْضِي بِكِتَابِ اللَّهِ، قَالَ: «فَإِنْ لَمْ تَجِدْ؟» قَالَ: فَبِسُنَّةِ رَسُولِ اللَّهِ، قَالَ: «فَإِنْ لَمْ تَجِدْ؟» قَالَ: أَجْتَهِدُ رَأْيِي وَلَا آلُو، فَضَرَبَ رَسُولُ اللَّهِ صَدْرَهُ وَقَالَ: «الْحَمْدُ لِلَّهِ الَّذِي وَفَّقَ رَسُولَ رَسُولِ اللَّهِ لِمَا يُرْضِي رَسُولَ اللَّهِ»
-```
+> «كَيْفَ تَقْضِي إِذَا عَرَضَ لَكَ قَضَاءٌ؟» قَالَ: أَقْضِي بِكِتَابِ اللَّهِ، قَالَ: «فَإِنْ لَمْ تَجِدْ؟» قَالَ: فَبِسُنَّةِ رَسُولِ اللَّهِ، قَالَ: «فَإِنْ لَمْ تَجِدْ؟» قَالَ: أَجْتَهِدُ رَأْيِي وَلَا آلُو، فَضَرَبَ رَسُولُ اللَّهِ صَدْرَهُ وَقَالَ: «الْحَمْدُ لِلَّهِ الَّذِي وَفَّقَ رَسُولَ رَسُولِ اللَّهِ لِمَا يُرْضِي رَسُولَ اللَّهِ»
+
 *(Beliau bersabda: "Bagaimana engkau memutuskan jika diajukan kepadamu suatu perkara?" Mu'adz menjawab: "Aku memutuskan dengan Kitabullah." Beliau bertanya: "Jika engkau tidak menemukannya?" Ia menjawab: "Dengan Sunnah Rasulullah." Beliau bertanya: "Jika engkau tidak menemukannya?" Ia menjawab: "Aku berijtihad dengan nalarku dan tidak akan lalai." Maka Rasulullah menepuk dada Mu'adz seraya bersabda: "Segala puji bagi Allah yang telah memberi taufiq kepada utusan Rasulullah menuju apa yang diridhai Rasulullah").*
 — **HR. Abu Dawud** (No. 3592) dan **At-Tirmidzi** (No. 1327), hasan.
 

@@ -105,9 +105,7 @@ Khazanah pemikiran Islam klasik memberikan landasan ontologis yang sangat kokoh 
 ### 4.1 Doktrin Kemuliaan Fitrah dalam Hadits Nabawi
 Rasulullah SAW meletakkan aksioma dasar mengenai fitrah manusia dalam hadits shahih yang diriwayatkan oleh Imam al-Bukhari dan Muslim dari Abu Hurairah RA:
 
-```arabic
-مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ، كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ؟
-```
+> مَا مِنْ مَوْلُودٍ إِلَّا يُولَدُ عَلَى الْفِطْرَةِ، فَأَبَوَاهُ يُهَوِّدَانِهِ أَوْ يُنَصِّرَانِهِ أَوْ يُمَجِّسَانِهِ، كَمَا تُنْتَجُ الْبَهِيمَةُ بَهِيمَةً جَمْعَاءَ، هَلْ تُحِسُّونَ فِيهَا مِنْ جَدْعَاءَ؟
 
 > **Takhrij**: Diriwayatkan oleh Imam al-Bukhari dalam *Shahih al-Bukhari*, Kitab al-Jana'iz, Bab Idza Aslama ash-Shabiyyu fa Mata, hadits no. 1385; dan Imam Muslim dalam *Shahih Muslim*, Kitab al-Qadar, Bab Ma'na Kulli Mauludin Yuladu 'ala al-Fithrah, hadits no. 2658.
 
@@ -119,9 +117,7 @@ Hadits agung ini membuktikan tiga kebenaran filosofis mendasar:
 ### 4.2 Konsep Ta'dib Imam Al-Ghazali: Merawat Benih Fitrah Tanpa Mematahkan Kodrat
 Imam Abu Hamid al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq) memberikan metafora agung mengenai posisi pendidik di hadapan fitrah anak:
 
-```arabic
-مَثَلُ الْمُعَلِّمِ وَالْمُرَبِّي مَثَلُ الْفَلَّاحِ الَّذِي يُنَقِّي الْأَرْضَ مِنَ الشَّوْكِ، وَيُخْرِجُ الْحَصَى، وَيَسْقِي الزَّرْعَ، وَيَتَعَهَّدُهُ بِالرِّعَايَةِ حَتَّى يَقْوَى نَبَاتُهُ وَيَثْمُرَ. فَلَا يَسْتَطِيعُ الْفَلَّاحُ أَنْ يَجْعَلَ شَجَرَةَ الشَّوْكِ تُثْمِرُ عِنَبًا، وَلَكِنَّهُ يُنَمِّي مَا فِي الْبَذْرَةِ مِنْ قُوَّةٍ كَامِنَةٍ أَوْدَعَهَا اللَّهُ فِيهَا
-```
+> مَثَلُ الْمُعَلِّمِ وَالْمُرَبِّي مَثَلُ الْفَلَّاحِ الَّذِي يُنَقِّي الْأَرْضَ مِنَ الشَّوْكِ، وَيُخْرِجُ الْحَصَى، وَيَسْقِي الزَّرْعَ، وَيَتَعَهَّدُهُ بِالرِّعَايَةِ حَتَّى يَقْوَى نَبَاتُهُ وَيَثْمُرَ. فَلَا يَسْتَطِيعُ الْفَلَّاحُ أَنْ يَجْعَلَ شَجَرَةَ الشَّوْكِ تُثْمِرُ عِنَبًا، وَلَكِنَّهُ يُنَمِّي مَا فِي الْبَذْرَةِ مِنْ قُوَّةٍ كَامِنَةٍ أَوْدَعَهَا اللَّهُ فِيهَا
 
 > **Takhrij**: Imam al-Ghazali, *Ihya' 'Ulumiddin*, Kitab Riyadhat an-Nafs wa Tahdzib al-Akhlaq (Dar al-Ma'rifah, Beirut, Jilid 3, hlm. 63).
 
@@ -151,9 +147,7 @@ Poros tengah Core Model TUMBUH dirancang untuk memfasilitasi pendakian spiritual
 ### 4.5 Imam Asy-Syathibi dalam Al-Muwafaqat: Kemerdekaan Beramal dalam Koridor Ubudiyyah
 Abu Ishaq asy-Syathibi (w. 790 H) dalam kitab monumentalnya *Al-Muwafaqat* merumuskan bahwa tujuan puncak syariat adalah membebaskan manusia dari perbudakan hawa nafsunya agar ia menjadi hamba Allah yang merdeka atas pilihan sadarnya sendiri:
 
-```arabic
-إِنَّ الْمَقْصِدَ الشَّرْعِيَّ مِنْ وَضْعِ الشَّرِيعَةِ هُوَ إِخْرَاجُ الْمُكَلَّفِ عَنْ دَاعِيَةِ هَوَاهُ، حَتَّى يَكُونَ عَبْدًا لِلَّهِ اخْتِيَارًا، كَمَا هُوَ عَبْدٌ لَهُ اضْطِرَارًا. وَلَا يَصِيرُ الْعَبْدُ عَبْدًا لِلَّهِ اخْتِيَارًا حَتَّى يَكُونَ فِعْلُهُ صَادِرًا عَنْ بَصِيرَةٍ وَرَغْبَةٍ فِي الْخَيْرِ، لَا عَنْ قَهْرٍ وَإِكْرَاهٍ يَقْتَصِرُ عَلَى ظَاهِرِ الْجَوَارِحِ
-```
+> إِنَّ الْمَقْصِدَ الشَّرْعِيَّ مِنْ وَضْعِ الشَّرِيعَةِ هُوَ إِخْرَاجُ الْمُكَلَّفِ عَنْ دَاعِيَةِ هَوَاهُ، حَتَّى يَكُونَ عَبْدًا لِلَّهِ اخْتِيَارًا، كَمَا هُوَ عَبْدٌ لَهُ اضْطِرَارًا. وَلَا يَصِيرُ الْعَبْدُ عَبْدًا لِلَّهِ اخْتِيَارًا حَتَّى يَكُونَ فِعْلُهُ صَادِرًا عَنْ بَصِيرَةٍ وَرَغْبَةٍ فِي الْخَيْرِ، لَا عَنْ قَهْرٍ وَإِكْرَاهٍ يَقْتَصِرُ عَلَى ظَاهِرِ الْجَوَارِحِ
 
 > **Takhrij**: Asy-Syathibi, *Al-Muwafaqat fi Ushul asy-Syari'ah*, Kitab al-Maqashid, Al-Qism ats-Tsalits: fi Maqashid asy-Syari'ah fi Dukhul al-Mukallaf Tahta Ahkamisy Syari'ah (Dar Ibnu 'Affan, Jilid 2, hlm. 168).
 
@@ -165,9 +159,7 @@ Asy-Syathibi meletakkan definisi paling agung mengenai kemandirian beradab:
 ### 4.6 Al-Harits al-Muhasibi dalam Ar-Ri'ayah li Huquqillah: Muraqabah sebagai Puncak Kemandirian Iman
 Imam Abu Abdillah al-Harits bin Asad al-Muhasibi (w. 243 H), pionir psikologi batiniah Islam, dalam risalah agungnya *Ar-Ri'ayah li Huquqillah* membedah hakikat pengawasan diri (*al-muraqabah*):
 
-```arabic
-أَصْلُ الْمُرَاقَبَةِ عِلْمُ الْقَلْبِ بِقُرْبِ الرَّبِّ سُبْحَانَهُ وَتَعَالَى، وَأَنَّهُ لَا يَخْفَى عَلَيْهِ مِنْ عَمَلِ الْعَبْدِ خَافِيَةٌ. فَمَنْ صَحَّتْ لَهُ الْمُرَاقَبَةُ اسْتَحْيَا مِنَ اللَّهِ فِي خَلَوَاتِهِ كَمَا يَسْتَحْيِي مِنْ أَعْيُنِ النَّاسِ فِي جَلَوَاتِهِ، وَاسْتَغْنَى عَنْ رَقِيبٍ مِنَ الْمَخْلُوقِينَ يُقِيمُ لَهُ عِوَجَهُ
-```
+> أَصْلُ الْمُرَاقَبَةِ عِلْمُ الْقَلْبِ بِقُرْبِ الرَّبِّ سُبْحَانَهُ وَتَعَالَى، وَأَنَّهُ لَا يَخْفَى عَلَيْهِ مِنْ عَمَلِ الْعَبْدِ خَافِيَةٌ. فَمَنْ صَحَّتْ لَهُ الْمُرَاقَبَةُ اسْتَحْيَا مِنَ اللَّهِ فِي خَلَوَاتِهِ كَمَا يَسْتَحْيِي مِنْ أَعْيُنِ النَّاسِ فِي جَلَوَاتِهِ، وَاسْتَغْنَى عَنْ رَقِيبٍ مِنَ الْمَخْلُوقِينَ يُقِيمُ لَهُ عِوَجَهُ
 
 > **Takhrij**: Al-Harits al-Muhasibi, *Ar-Ri'ayah li Huquqillah*, Bab fi Haqiqat al-Muraqabah (Dar al-Kutub al-'Ilmiyyah, Beirut, hlm. 48).
 

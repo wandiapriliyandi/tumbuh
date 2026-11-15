@@ -63,24 +63,18 @@ Akidah Ahlussunnah wal Jama'ah secara tegas mewajibkan manusia mengambil sebab-s
 
 1. **Perintah Mengikat Unta Sebelum Bertawakkal:**  
    Dalam riwayat Sunan At-Tirmidzi (no. 2517, hasan):
-   ```arabic
-   قَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَعْقِلُهَا وَأَتَوَكَّلُ، أَوْ أُطْلِقُهَا وَأَتَوَكَّلُ؟ قَالَ: «اعْقِلْهَا وَتَوَكَّلْ»
-   ```  
+   >    قَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَعْقِلُهَا وَأَتَوَكَّلُ، أَوْ أُطْلِقُهَا وَأَتَوَكَّلُ؟ قَالَ: «اعْقِلْهَا وَتَوَكَّلْ»
    > *Seorang lelaki bertanya: "Wahai Rasulullah, apakah aku ikat untaku lalu aku bertawakkal, atau aku lepas begitu saja lalu aku bertawakkal?" Rasulullah ﷺ bersabda: "Ikatlah untamu terlebih dahulu, kemudian bertawakkallah!"*  
    Hadits ini adalah piagam kanonik rekayasa sistem asrama: mengunci pintu, memperbaiki ventilasi, dan menyusun SOP adalah "mengikat unta", sedangkan doa di sepertiga malam adalah "tawakkal".
 
 2. **Prinsip Mengubah Nasib Melalui Perubahan Sebab Internal:**  
-   ```arabic
-   إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ
-   ```  
+   >    إِنَّ اللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا مَا بِأَنفُسِهِمْ
    > *"Sesungguhnya Allah tidak mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri..."* (QS. Ar-Ra'd: 11).  
    Ayat ini menegaskan hukum kausalitas sosial: perbaikan iklim adab santri di asrama menuntut perbaikan tata kelola, evaluasi keteladanan musyrif, dan perbaikan lingkungan secara nyata.
 
 3. **Tindakan Umar bin Khattab ra Berpindah dari Satu Takdir ke Takdir Lain:**  
    Ketika Amirul Mukminin Umar bin Al-Khattab menolak masuk ke wilayah Syam yang sedang dilanda wabah tha'un, Abu Ubaidah bin Al-Jarrah bertanya heran: *"Apakah engkau lari dari takdir Allah?"* Umar menjawab dengan pemahaman tauhid yang agung:
-   ```arabic
-   نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ
-   ```  
+   >    نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ
    > *"Kita lari dari satu takdir Allah menuju takdir Allah yang lain!"* (HR. Al-Bukhari no. 5729 & Muslim no. 2219).  
    Menghindari pemicu perundungan di asrama dengan rekayasa tata ruang (*environmental engineering*) adalah berpindah dari takdir bencana menuju takdir keselamatan.
 
@@ -178,23 +172,17 @@ Para ulama ushuluddin dan tasawuf salaf telah membedah hakikat kausalitas secara
 
 1. **Al-Imam Al-Ghazali dalam *Ihya' 'Ulumiddin* (Kitab at-Tawakkul wa Asbab):**  
    Al-Ghazali membongkar kesalahpahaman orang yang mengira tawakkal berarti meniadakan ikhtiar sebab:
-   ```arabic
-   ظَنَّ قَوْمٌ أَنَّ شَرْطَ التَّوَكُّلِ تَرْكُ الْأَسْبَابِ بِالْكُلِّيَّةِ، وَهَذَا جَهْلٌ بِالشَّرِيعَةِ؛ فَإِنَّ الشَّرْعَ أَمَرَ بِالتَّسَبُّبِ، وَقَدْ كَانَ سَيِّدُ الْمُتَوَكِّلِينَ ﷺ يَلْبَسُ الدِّرْعَ فِي الْحَرْبِ، وَيَسْتَأْجِرُ الدَّلِيلَ فِي الْهِجْرَةِ، وَيَدَّخِرُ لِأَهْلِهِ قُوتَ سَنَةٍ، وَكُلُّ ذَلِكَ لَا يُقْدِحُ فِي تَوَكُّلِهِ
-   ```  
+   >    ظَنَّ قَوْمٌ أَنَّ شَرْطَ التَّوَكُّلِ تَرْكُ الْأَسْبَابِ بِالْكُلِّيَّةِ، وَهَذَا جَهْلٌ بِالشَّرِيعَةِ؛ فَإِنَّ الشَّرْعَ أَمَرَ بِالتَّسَبُّبِ، وَقَدْ كَانَ سَيِّدُ الْمُتَوَكِّلِينَ ﷺ يَلْبَسُ الدِّرْعَ فِي الْحَرْبِ، وَيَسْتَأْجِرُ الدَّلِيلَ فِي الْهِجْرَةِ، وَيَدَّخِرُ لِأَهْلِهِ قُوتَ سَنَةٍ، وَكُلُّ ذَلِكَ لَا يُقْدِحُ فِي تَوَكُّلِهِ
    > *"Sebagian kaum menduga bahwa syarat tawakkal adalah meninggalkan ikhtiar sebab secara total, dan ini adalah bentuk kebodohan terhadap syariat! Sesungguhnya syariat memerintahkan untuk mengambil sebab. Sungguh pemimpin orang-orang yang bertawakkal (Rasulullah ﷺ) memakai baju besi ganda dalam peperangan, menyewa penunjuk jalan dalam hijrah, dan menyimpan bahan makanan untuk keluarganya; dan semua ikhtiar sebab itu sama sekali tidak mencederai tawakkal beliau!"* (*Ihya' 'Ulumiddin*, Jilid IV, Bab At-Tawakkul).
 
 2. **Al-Hafizh Ibnu Rajab Al-Hanbali dalam *Jami' al-'Ulum wal-Hikam*:**  
    Menjelaskan hadits burung yang bertawakkal (*lau annakum tatawakkaluna 'alallahi haqqa tawakkulih*):
-   ```arabic
-   اعْلَمْ أَنَّ حَقِيقَةَ التَّوَكُّلِ هُوَ صِدْقُ اعْتِمَادِ الْقَلْبِ عَلَى اللَّهِ عَزَّ وَجَلَّ فِي اسْتِجْلَابِ الْمَصَالِحِ وَدَفْعِ الْمَضَارِّ، مَعَ مُبَاشَرَةِ الْأَسْبَابِ الَّتِي أَمَرَ اللَّهُ بِهَا؛ فَإِنَّ الطَّيْرَ تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا، فَقَدْ غَدَتْ فِي طَلَبِ الرِّزْقِ وَلَمْ تَبْقَ فِي أَوْكَارِهَا!
-   ```  
+   >    اعْلَمْ أَنَّ حَقِيقَةَ التَّوَكُّلِ هُوَ صِدْقُ اعْتِمَادِ الْقَلْبِ عَلَى اللَّهِ عَزَّ وَجَلَّ فِي اسْتِجْلَابِ الْمَصَالِحِ وَدَفْعِ الْمَضَارِّ، مَعَ مُبَاشَرَةِ الْأَسْبَابِ الَّتِي أَمَرَ اللَّهُ بِهَا؛ فَإِنَّ الطَّيْرَ تَغْدُو خِمَاصًا وَتَرُوحُ بِطَانًا، فَقَدْ غَدَتْ فِي طَلَبِ الرِّزْقِ وَلَمْ تَبْقَ فِي أَوْكَارِهَا!
    > *"Ketahuilah bahwa hakikat tawakkal adalah kejujuran penyandaran kalbu kepada Allah dalam mendatangkan maslahat dan menolak bahaya, BERSERTA menjalankan sebab-sebab yang diperintahkan Allah! Karena burung itu pergi pagi-pagi dalam keadaan lapar dan pulang sore dalam keadaan kenyang; ia terbang bergerak mencari rizki dan tidak tinggal diam di dalam sarangnya!"*
 
 3. **Al-Imam Ibnu Taimiyyah dalam *Majmu' al-Fatawa* (Kaidah Al-Qadar wal-Asbab):**  
    Menegaskan bahwa Allah menciptakan akibat melalui perantara sebab:
-   ```arabic
-   اللَّهُ تَعَالَى خَلَقَ الْحَوَادِثَ بِأَسْبَابٍ، فَمَنْ أَنْكَرَ الْأَسْبَابَ فَقَدْ أَنْكَرَ حِكْمَةَ اللَّهِ، وَمَنِ اعْتَمَدَ عَلَى الْأَسْبَابِ فَقَدْ أَشْرَكَ بِاللَّهِ
-   ```  
+   >    اللَّهُ تَعَالَى خَلَقَ الْحَوَادِثَ بِأَسْبَابٍ، فَمَنْ أَنْكَرَ الْأَسْبَابَ فَقَدْ أَنْكَرَ حِكْمَةَ اللَّهِ، وَمَنِ اعْتَمَدَ عَلَى الْأَسْبَابِ فَقَدْ أَشْرَكَ بِاللَّهِ
    > *"Allah Ta'ala menciptakan segala peristiwa melalui sebab-sebab. Barangsiapa mengingkari sebab maka sungguh ia telah mengingkari hikmah Allah; dan barangsiapa menyandarkan hati kepada sebab maka sungguh ia telah mempersekutukan Allah!"*
 
 ---

@@ -128,105 +128,99 @@ Syariat Islam menetapkan bahwa tanggung jawab pendidikan anak pada hakikatnya be
 
 1. **Amanah Primer Perlindungan Keluarga:**  
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ
-
-   ```  
-
-   > *"Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu..."* (QS. At-Tahrim: 6).  
-
-   Ayat ini menegaskan bahwa orang tua memegang hisab langsung di hadapan Allah atas keselamatan fitrah anaknya; pesantren wajib menjadi mitra yang membantu orang tua menunaikan amanah ini, bukan memutus komunikasi dari mereka.
-
-
-
-2. **Prinsip Mengabarkan Kabar Gembira Sebelum Peringatan:**  
-
-   ```arabic
-
-   يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Permudahlah dan jangan mempersulit, berikanlah kabar gembira dan jangan membuat manusia lari menjauh!"* (HR. Al-Bukhari no. 69 & Muslim no. 1734).  
-
-   Protokol komunikasi dengan wali santri wajib mendahulukan kabar gembira (*basyirah*) berupa apresiasi potensi kebaikan anak, sebelum menyampaikan peringatan perbaikan (*tandzir*), agar hati orang tua tidak lari menjauh dalam keputusasaan.
-
-
-
-3. **Kaidah Saling Berwasiat dalam Kebenaran dan Kesabaran:**  
-
-   ```arabic
-
-   وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
-
-   ```  
-
-   > *"Dan mereka saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."* (QS. Al-'Ashr: 3).  
-
-   Hubungan musyrif dan wali santri adalah hubungan *tawashaw bil-haqq wa tawashaw bish-shabr*: kemitraan dua arah yang saling menguatkan dalam menuntun jiwa anak.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Keluarga / Komunikasi Krisis
-
-
-
-Sains hubungan keluarga dan teori komunikasi krisis membuktikan dampak fatal dari salah kelola komunikasi sekolah-orang tua:
-
-
-
-1. **Teori Sistem Ekologi Bronfenbrenner (*Mesosystem Synergy*):**  
-
-   Urie Bronfenbrenner membuktikan bahwa perkembangan karakter anak paling optimal terjadi ketika terdapat keselarasan dan komunikasi yang kuat pada lapis **Mesosistem** (hubungan antara Mikrosistem Sekolah/Asrama dengan Mikrosistem Keluarga). Jika terjadi disonansi atau ketegangan antara musyrif dan orang tua, anak berada dalam medan konflik loyalitas ganda (*divided loyalty*), yang memicu kecemasan akut dan regresi perilaku.
-
-
-
-2. **Protokol Penyampaian Berita Sulit (*The SPIKES Protocol in Clinical Communication*):**  
-
-   Dalam psikologi klinis dan kedokteran, penyampaian kondisi sensitif (seperti diagnosis perilaku berat) wajib menggunakan protokol SPIKES: (1) *Setting* (ruang privat yang tenang), (2) *Perception* (menggali pemahaman orang tua dulu), (3) *Invitation* (kesiapan menerima informasi), (4) *Knowledge* (menyampaikan fakta secara empatik tanpa jargon menuduh), (5) *Empathy* (memvalidasi kesedihan orang tua), dan (6) *Strategy* (merumuskan rencana aksi pemulihan bersama).
-
-
-
-3. **Efek Panik Reaktif Orang Tua (*Parental Reactance & Coercive Cycles*):**  
-
-   Ketika orang tua menerima kabar buruk anak secara mendadak tanpa pendampingan emosional, otak orang tua merespon dengan rasa malu dan rasa gagal sebagai orang tua (*parental shame*). Reaksi defensifnya adalah menyerang sekolah atau melampiaskan hukuman fisik berlebihan kepada anak di rumah, yang justru memperburuk patologi perilaku anak.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Standar Protokol Komunikasi Wali Santri TUMBUH
-
-
-
-| Tingkat Status Perilaku | Jenis Kejadian Santri | Kanal & Waktu Komunikasi | Format Pesan Komunikasi (TUMBUH v2.0.0) | Tujuan Kemitraan Tindakan |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Tier 1 (Fluktuasi Harian / Ringan)** | Terlambat bangun fajar, kamar kurang rapi, adaptasi awal. | Rapor Narasi Bulanan Digital (*Private Portal*). | **Format Sandwiched-Affirmation**: (1) Catatan kebaikan & prestasi, (2) Area tantangan adab, (3) Doa perkembangan. | Orang tua memberikan apresiasi dan motivasi hangat saat kunjungan bulanan. |
-
-| **Tier 2 (Pola Berulang / Sedang)** | Menunjukkan penurunan motivasi belajar, melanggar batas izin keluar. | Panggilan Telepon Konseling Terjadwal (Maksimal 3x24 jam). | **Format Konsultasi Kolaboratif**: Musyrif berbagi observasi objektif dan menggali latar belakang pola anak dari orang tua. | Merumuskan kontrak komitmen bersama antara musyrif, santri, dan orang tua. |
-
-| **Tier 3 (Krisis Akut / Pelanggaran Berat)** | Perundungan fisik, pencurian, krisis kesehatan mental/depresi. | **Undangan Tatap Muka Tertutup** di Ruang Restoratif (Maksimal 24 jam). | **Penerapan Protokol SPIKES**: Diskusi empatik tatap muka, pemaparan fakta objektif, dan desain Lingkar Restoratif. | Orang tua hadir sebagai pendukung proses pemulihan taubat dan restitusi hak korban. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    يَا أَيُّهَا الَّذِينَ آمَنُوا قُوا أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا النَّاسُ وَالْحِجَارَةُ
+>
+>    ```  
+>
+>    > *"Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu..."* (QS. At-Tahrim: 6).  
+>
+>    Ayat ini menegaskan bahwa orang tua memegang hisab langsung di hadapan Allah atas keselamatan fitrah anaknya; pesantren wajib menjadi mitra yang membantu orang tua menunaikan amanah ini, bukan memutus komunikasi dari mereka.
+>
+>
+>
+> 2. **Prinsip Mengabarkan Kabar Gembira Sebelum Peringatan:**  
+>
+>
+>    يَسِّرُوا وَلَا تُعَسِّرُوا، وَبَشِّرُوا وَلَا تُنَفِّرُوا
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Permudahlah dan jangan mempersulit, berikanlah kabar gembira dan jangan membuat manusia lari menjauh!"* (HR. Al-Bukhari no. 69 & Muslim no. 1734).  
+>
+>    Protokol komunikasi dengan wali santri wajib mendahulukan kabar gembira (*basyirah*) berupa apresiasi potensi kebaikan anak, sebelum menyampaikan peringatan perbaikan (*tandzir*), agar hati orang tua tidak lari menjauh dalam keputusasaan.
+>
+>
+>
+> 3. **Kaidah Saling Berwasiat dalam Kebenaran dan Kesabaran:**  
+>
+>
+>    وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ
+>
+>
+>    > *"Dan mereka saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."* (QS. Al-'Ashr: 3).  
+>
+>    Hubungan musyrif dan wali santri adalah hubungan *tawashaw bil-haqq wa tawashaw bish-shabr*: kemitraan dua arah yang saling menguatkan dalam menuntun jiwa anak.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Keluarga / Komunikasi Krisis
+>
+>
+>
+> Sains hubungan keluarga dan teori komunikasi krisis membuktikan dampak fatal dari salah kelola komunikasi sekolah-orang tua:
+>
+>
+>
+> 1. **Teori Sistem Ekologi Bronfenbrenner (*Mesosystem Synergy*):**  
+>
+>    Urie Bronfenbrenner membuktikan bahwa perkembangan karakter anak paling optimal terjadi ketika terdapat keselarasan dan komunikasi yang kuat pada lapis **Mesosistem** (hubungan antara Mikrosistem Sekolah/Asrama dengan Mikrosistem Keluarga). Jika terjadi disonansi atau ketegangan antara musyrif dan orang tua, anak berada dalam medan konflik loyalitas ganda (*divided loyalty*), yang memicu kecemasan akut dan regresi perilaku.
+>
+>
+>
+> 2. **Protokol Penyampaian Berita Sulit (*The SPIKES Protocol in Clinical Communication*):**  
+>
+>    Dalam psikologi klinis dan kedokteran, penyampaian kondisi sensitif (seperti diagnosis perilaku berat) wajib menggunakan protokol SPIKES: (1) *Setting* (ruang privat yang tenang), (2) *Perception* (menggali pemahaman orang tua dulu), (3) *Invitation* (kesiapan menerima informasi), (4) *Knowledge* (menyampaikan fakta secara empatik tanpa jargon menuduh), (5) *Empathy* (memvalidasi kesedihan orang tua), dan (6) *Strategy* (merumuskan rencana aksi pemulihan bersama).
+>
+>
+>
+> 3. **Efek Panik Reaktif Orang Tua (*Parental Reactance & Coercive Cycles*):**  
+>
+>    Ketika orang tua menerima kabar buruk anak secara mendadak tanpa pendampingan emosional, otak orang tua merespon dengan rasa malu dan rasa gagal sebagai orang tua (*parental shame*). Reaksi defensifnya adalah menyerang sekolah atau melampiaskan hukuman fisik berlebihan kepada anak di rumah, yang justru memperburuk patologi perilaku anak.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Standar Protokol Komunikasi Wali Santri TUMBUH
+>
+>
+>
+> | Tingkat Status Perilaku | Jenis Kejadian Santri | Kanal & Waktu Komunikasi | Format Pesan Komunikasi (TUMBUH v2.0.0) | Tujuan Kemitraan Tindakan |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Tier 1 (Fluktuasi Harian / Ringan)** | Terlambat bangun fajar, kamar kurang rapi, adaptasi awal. | Rapor Narasi Bulanan Digital (*Private Portal*). | **Format Sandwiched-Affirmation**: (1) Catatan kebaikan & prestasi, (2) Area tantangan adab, (3) Doa perkembangan. | Orang tua memberikan apresiasi dan motivasi hangat saat kunjungan bulanan. |
+>
+> | **Tier 2 (Pola Berulang / Sedang)** | Menunjukkan penurunan motivasi belajar, melanggar batas izin keluar. | Panggilan Telepon Konseling Terjadwal (Maksimal 3x24 jam). | **Format Konsultasi Kolaboratif**: Musyrif berbagi observasi objektif dan menggali latar belakang pola anak dari orang tua. | Merumuskan kontrak komitmen bersama antara musyrif, santri, dan orang tua. |
+>
+> | **Tier 3 (Krisis Akut / Pelanggaran Berat)** | Perundungan fisik, pencurian, krisis kesehatan mental/depresi. | **Undangan Tatap Muka Tertutup** di Ruang Restoratif (Maksimal 24 jam). | **Penerapan Protokol SPIKES**: Diskusi empatik tatap muka, pemaparan fakta objektif, dan desain Lingkar Restoratif. | Orang tua hadir sebagai pendukung proses pemulihan taubat dan restitusi hak korban. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: PERADILAN EKSPEDISI SEPIHAK ]
 
@@ -350,11 +344,7 @@ Para ulama turats telah menegaskan hak-hak wali dan adab penyampaian nasihat kep
 
    Menegaskan bahwa hati anak adalah mutiara murni yang diamanahkan kepada orang tua dan gurunya secara bersamaan:
 
-   ```arabic
-
-   الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ عَلَيْهِ. فَإِنْ عُوِّدَ الْخَيْرَ نَشَأَ عَلَيْهِ وَشَرِكَهُ فِي ثَوَابِهِ أَبَوَاهُ وَكُلُّ مُعَلِّمٍ لَهُ وَمُؤَدِّبٍ
-
-   ```  
+   > الصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ عَلَيْهِ. فَإِنْ عُوِّدَ الْخَيْرَ نَشَأَ عَلَيْهِ وَشَرِكَهُ فِي ثَوَابِهِ أَبَوَاهُ وَكُلُّ مُعَلِّمٍ لَهُ وَمُؤَدِّبٍ
 
    > *"Anak kecil adalah amanah di sisi kedua orang tuanya, dan kalbunya yang suci adalah mutiara berharga yang murni hampa dari segala ukiran; ia menerima segala apa yang diukirkan padanya. Jika ia dibiasakan pada kebaikan niscaya ia tumbuh di atasnya, dan kedua orang tuanya beserta setiap guru dan pendidiknya berserikat dalam pahala kebaikannya!"* (*Ihya' 'Ulumiddin*, Jilid III, Kitab Riyadhatin Nafs).
 
@@ -364,11 +354,7 @@ Para ulama turats telah menegaskan hak-hak wali dan adab penyampaian nasihat kep
 
    Mengharamkan mengagetkan atau menakut-nakuti seorang muslim dengan berita buruk tanpa kelembutan (*al-irza'*):
 
-   ```arabic
-
-   يُسْتَحَبُّ الرِّفْقُ فِي إِبْلَاغِ الْمَكْرُوهِ، وَالتَّدَرُّجُ فِي إِخْبَارِ ذَوِي الْفَضْلِ بِمَا يَسُوءُهُمْ، لِئَلَّا يَفْجَأَهُمُ الْحُزْنُ فَيُهْلِكَهُمْ
-
-   ```  
+   > يُسْتَحَبُّ الرِّفْقُ فِي إِبْلَاغِ الْمَكْرُوهِ، وَالتَّدَرُّجُ فِي إِخْبَارِ ذَوِي الْفَضْلِ بِمَا يَسُوءُهُمْ، لِئَلَّا يَفْجَأَهُمُ الْحُزْنُ فَيُهْلِكَهُمْ
 
    > *"Dianjurkan bersikap lemah lembut dalam menyampaikan kabar yang tidak menyenangkan, dan bertahap dalam memberitahukan kepada pihak keluarga tentang apa yang menyedihkan mereka, agar kesedihan itu tidak menyergap mereka secara mendadak yang dapat membinasakan mereka!"*
 

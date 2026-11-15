@@ -54,11 +54,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, syariat diturunkan dengan memperhatikan
 
 1. **Kemuliaan Martabat Manusia Sebagai Batas Mutlak Seluruh Relasi Pembinaan:**
 
-   ```arabic
-
-   وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
-
-   ```
+   > وَلَقَدْ كَرَّمْنَا بَنِي آدَمَ وَحَمَلْنَاهُمْ فِي الْبَرِّ وَالْبَحْرِ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَىٰ كَثِيرٍ مِّمَّنْ خَلَقْنَا تَفْضِيلًا
 
    > *"Dan sesungguhnya telah Kami muliakan anak-anak Adam, Kami angkut mereka di daratan dan di lautan, Kami beri mereka rezeki dari yang baik-baik dan Kami lebihkan mereka dengan kelebihan yang sempurna atas kebanyakan makhluk yang telah Kami ciptakan."* (QS. Al-Isra': 70).  
 
@@ -68,11 +64,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, syariat diturunkan dengan memperhatikan
 
 2. **Teladan Kelembutan Rasulullah ﷺ dalam Mendidik Tanpa Kekerasan:**
 
-   ```arabic
-
-   مَا ضَرَبَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْئًا قَطُّ بِيَدِهِ، وَلَا امْرَأَةً، وَلَا خَادِمًا، إِلَّا أَنْ يُجَاهِدَ فِي سَبِيلِ اللَّهِ
-
-   ```
+   > مَا ضَرَبَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ شَيْئًا قَطُّ بِيَدِهِ، وَلَا امْرَأَةً، وَلَا خَادِمًا، إِلَّا أَنْ يُجَاهِدَ فِي سَبِيلِ اللَّهِ
 
    > *Ummul Mukminin 'Aisyah radhiyallahu 'anha bersaksi: "Rasulullah ﷺ sama sekali tidak pernah memukul apa pun dengan tangannya; tidak pernah memukul wanita, dan tidak pernah memukul pelayan, kecuali saat beliau berjihad di jalan Allah."* (HR. Muslim no. 2328).  
 
@@ -82,11 +74,7 @@ Dalam epistemologi Al-Qur'an dan Sunnah, syariat diturunkan dengan memperhatikan
 
 3. **Prinsip Dialog Terbuka dan Pertanyaan Kritis Murid Kepada Guru:**
 
-   ```arabic
-
-   قَالَ يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنكَ شَيْئًا
-
-   ```
+   > قَالَ يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ وَلَا يُبْصِرُ وَلَا يُغْنِي عَنكَ شَيْئًا
 
    > *"Ingatlah ketika Ibrahim berkata kepada bapaknya: 'Wahai bapakku, mengapa kamu menyembah sesuatu yang tidak mendengar, tidak melihat dan tidak dapat menolong kamu sedikit pun?'"* (QS. Maryam: 42).  
 
@@ -212,11 +200,7 @@ Ulama ushul dan muhaqqiqin salaf meletakkan kaidah tegas bahwa fatwa dan adab mu
 
    Menegakkan kaidah kanonik tentang perubahan hukum instrumen (*taghayyur al-fatawa*):  
 
-   ```arabic
-
-   فَصْلٌ فِي تَغَيُّرِ الْفَتْوَى وَاخْتِلَافِهَا بِحَسَبِ تَغَيُّرِ الْأَزْمِنَةِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ وَالنِّيَّاتِ وَالْعَوَائِدِ... فَإِنَّ الشَّرِيعَةَ مَبْنَاهَا وَأَسَاسُهَا عَلَى الْحِكَمِ وَمَصَالِحِ الْعِبَادِ فِي الْمَعَاشِ وَالْمَعَادِ، وَهِيَ عَدْلٌ كُلُّهَا، وَرَحْمَةٌ كُلُّهَا، وَمَصَالِحُ كُلُّهَا، وَحِكْمَةٌ كُلُّهَا
-
-   ```
+   > فَصْلٌ فِي تَغَيُّرِ الْفَتْوَى وَاخْتِلَافِهَا بِحَسَبِ تَغَيُّرِ الْأَزْمِنَةِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ وَالنِّيَّاتِ وَالْعَوَائِدِ... فَإِنَّ الشَّرِيعَةَ مَبْنَاهَا وَأَسَاسُهَا عَلَى الْحِكَمِ وَمَصَالِحِ الْعِبَادِ فِي الْمَعَاشِ وَالْمَعَادِ، وَهِيَ عَدْلٌ كُلُّهَا، وَرَحْمَةٌ كُلُّهَا، وَمَصَالِحُ كُلُّهَا، وَحِكْمَةٌ كُلُّهَا
 
    > *"Fasal tentang perubahan fatwa dan perbedaannya menurut perubahan zaman, tempat, kondisi, niat, dan tradisi... Karena sesungguhnya syariat itu bangunan dan fondasinya bertumpu pada hikmah-hikmah dan kemaslahatan hamba dalam kehidupan dunia dan akhirat. Seluruh syariat adalah keadilan, seluruhnya adalah rahmat, seluruhnya adalah maslahat, dan seluruhnya adalah hikmah."*  
 

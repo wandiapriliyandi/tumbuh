@@ -84,9 +84,7 @@ Para ulama salaf dan pemikir pendidikan Islam klasik telah meletakkan prinsip fu
 ### 4.1 Doktrin Proporsionalitas Akal dalam Hadits Nabawi
 Rasulullah SAW sebagai *Mu'allim al-Insaniyyah* menetapkan kaidah emas dalam berkomunikasi dan mendidik, sebagaimana diriwayatkan oleh Imam Muslim dalam Muqaddimah Shahih-nya dari Abdullah bin Mas'ud RA:
 
-```arabic
-مَا أَنْتَ بِمُحَدِّثٍ قَوْمًا حَدِيثًا لَا تَبْلُغُهُ عُقُولُهُمْ إِلَّا كَانَ لِبَعْضِهِمْ فِتْنَةً
-```
+> مَا أَنْتَ بِمُحَدِّثٍ قَوْمًا حَدِيثًا لَا تَبْلُغُهُ عُقُولُهُمْ إِلَّا كَانَ لِبَعْضِهِمْ فِتْنَةً
 
 > **Takhrij**: Diriwayatkan oleh Imam Muslim dalam *Muqaddimah Shahih Muslim*, Bab Bayan Annan-Nahya 'an al-Hadits bi Kulli Ma Sami'a, hadits no. 14. Dikutip pula oleh Imam al-Ghazali dalam *Ihya' 'Ulumiddin* (Jilid 1, Kitab al-'Ilm).
 
@@ -94,9 +92,7 @@ Hadits ini menegaskan bahwa menyampaikan materi atau ilmu yang melampaui jangkau
 
 Imam Ali bin Abi Thalib karramallahu wajhah juga menegaskan prinsip pedagogis ini sebagaimana dicatat oleh Imam al-Bukhari dalam Shahih-nya:
 
-```arabic
-حَدِّثُوا النَّاسَ بِمَا يَعْرِفُونَ، أَتُحِبُّونَ أَنْ يُكَذَّبَ اللَّهُ وَرَسُولُهُ؟
-```
+> حَدِّثُوا النَّاسَ بِمَا يَعْرِفُونَ، أَتُحِبُّونَ أَنْ يُكَذَّبَ اللَّهُ وَرَسُولُهُ؟
 
 > **Takhrij**: Diriwayatkan oleh Imam al-Bukhari dalam *Shahih al-Bukhari*, Kitab al-'Ilm, Bab Man Khashsha bi al-'Ilm Qauman Duna Qaumin Karahiyatan An La Yafhamu, hadits no. 127.
 
@@ -105,9 +101,7 @@ Ibnu Hajar al-'Asqalani dalam *Fath al-Bari* mengomentari hadits ini: *"Di dalam
 ### 4.2 Pemikiran Imam Al-Ghazali: Wadzifah al-Mu'allim dalam Ihya' 'Ulumiddin
 Dalam masterpiece-nya *Ihya' 'Ulumiddin*, pada Kitab al-'Ilm (Bayan Wadzayif al-Mu'allim wa al-Muta'allim), Imam al-Ghazali merumuskan delapan adab bagi guru. Tugas ketujuh (*al-wadzifah as-sabi'ah*) menyatakan secara eksplisit:
 
-```arabic
-أَنْ يَقْتَصِرَ بِالْمُتَعَلِّمِ عَلَى قَدْرِ فَهْمِهِ، فَلَا يُلْقِيَ إِلَيْهِ مَا لَا يَبْلُغُهُ عَقْلُهُ فَيَنْفِرَ عَنْهُ أَوْ يَخْبِطَ عَقْلُهُ، اقْتِدَاءً بِسَيِّدِ الْبَشَرِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَيْثُ قَالَ: «نَحْنُ مَعَاشِرَ الْأَنْبِيَاءِ أُمِرْنَا أَنْ نُنْزِلَ النَّاسَ مَنَازِلَهُمْ وَنُكَلِّمَهُمْ عَلَى قَدْرِ عُقُولِهِمْ»
-```
+> أَنْ يَقْتَصِرَ بِالْمُتَعَلِّمِ عَلَى قَدْرِ فَهْمِهِ، فَلَا يُلْقِيَ إِلَيْهِ مَا لَا يَبْلُغُهُ عَقْلُهُ فَيَنْفِرَ عَنْهُ أَوْ يَخْبِطَ عَقْلُهُ، اقْتِدَاءً بِسَيِّدِ الْبَشَرِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَيْثُ قَالَ: «نَحْنُ مَعَاشِرَ الْأَنْبِيَاءِ أُمِرْنَا أَنْ نُنْزِلَ النَّاسَ مَنَازِلَهُمْ وَنُكَلِّمَهُمْ عَلَى قَدْرِ عُقُولِهِمْ»
 
 > **Takhrij**: Imam al-Ghazali, *Ihya' 'Ulumiddin*, Jilid 1, hlm. 57 (Dar al-Ma'rifah, Beirut). Hadits mursal marfu' diriwayatkan dengan redaksi serupa oleh Abu Dawud dalam Sunan-nya (Kitab al-Adab) dan ditakhrij oleh Al-'Iraqi dalam *Al-Mughni 'an Haml al-Asfar fi al-Asfar*.
 
@@ -115,9 +109,7 @@ Al-Ghazali menjelaskan bahwa mendidik anak harus mengikuti perkembangan alamiah 
 
 Lebih lanjut, dalam risalah *Ayyuhal Walad*, Al-Ghazali mengingatkan bahwa menuntut ilmu tanpa transformasi adab dan penyucian batin adalah kesia-siaan belaka:
 
-```arabic
-أَيُّهَا الْوَلَدُ، الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ. وَاعْلَمْ أَنَّ عِلْمًا لَا يُبْعِدُكَ الْيَوْمَ عَنِ الْمَعَاصِي وَلَا يَحْمِلُكَ عَلَى الطَّاعَةِ لَنْ يُبْعِدَكَ غَدًا عَنْ نَارِ جَهَنَّمَ
-```
+> أَيُّهَا الْوَلَدُ، الْعِلْمُ بِلَا عَمَلٍ جُنُونٌ، وَالْعَمَلُ بِغَيْرِ عِلْمٍ لَا يَكُونُ. وَاعْلَمْ أَنَّ عِلْمًا لَا يُبْعِدُكَ الْيَوْمَ عَنِ الْمَعَاصِي وَلَا يَحْمِلُكَ عَلَى الطَّاعَةِ لَنْ يُبْعِدَكَ غَدًا عَنْ نَارِ جَهَنَّمَ
 
 > **Takhrij**: Imam al-Ghazali, *Ayyuha al-Walad*, Tahqiq Ali Muhyi ad-Din al-Qarahdaghi (Dar al-Basyair al-Islamiyyah, 1983, hlm. 24).
 
@@ -136,9 +128,7 @@ Pendidikan Islam tidak bertujuan mencetak warga negara yang sekadar patuh pada b
 ### 4.4 Imam Az-Zarnuji dalam Ta'lim al-Muta'allim: Pentahapan dan Beban Belajar
 Imam Burhanuddin az-Zarnuji dalam kitab klasiknya *Ta'lim al-Muta'allim Thariq at-Ta'allum* memberikan pedoman praktis mengenai beban harian penuntut ilmu:
 
-```arabic
-وَيَنْبَغِي أَنْ يَكُونَ قَدْرُ السَّبَقِ لِلْمُبْتَدِئِ قَدْرَ مَا يُمْكِنُ ضَبْطُهُ بِالْإِعَادَةِ مَرَّتَيْنِ بِالرِّفْقِ، ثُمَّ يَزِيدُ كُلَّ يَوْمٍ كَلِمَةً كَلِمَةً، حَتَّى إِنَّهُ وَإِنْ طَالَ وَكَثُرَ يُمْكِنُ ضَبْطُهُ بِالْإِعَادَةِ مَرَّتَيْنِ، وَيَزِيدُ بِالرِّفْقِ وَالتَّدْرِيجِ
-```
+> وَيَنْبَغِي أَنْ يَكُونَ قَدْرُ السَّبَقِ لِلْمُبْتَدِئِ قَدْرَ مَا يُمْكِنُ ضَبْطُهُ بِالْإِعَادَةِ مَرَّتَيْنِ بِالرِّفْقِ، ثُمَّ يَزِيدُ كُلَّ يَوْمٍ كَلِمَةً كَلِمَةً، حَتَّى إِنَّهُ وَإِنْ طَالَ وَكَثُرَ يُمْكِنُ ضَبْطُهُ بِالْإِعَادَةِ مَرَّتَيْنِ، وَيَزِيدُ بِالرِّفْقِ وَالتَّدْرِيجِ
 
 > **Takhrij**: Imam az-Zarnuji, *Ta'lim al-Muta'allim Thariq at-Ta'allum*, Bab ash-Shabr wa ats-Tsabat (Dar Ibnu Katsir, Damaskus, hlm. 48).
 
@@ -150,9 +140,7 @@ Az-Zarnuji menambahkan nasihat pedagogis yang sangat tajam:
 ### 4.5 Ibnu Sahnun dalam Adab al-Mu'allimin: Tanggung Jawab Moral Pendidik
 Abu Abdillah Muhammad bin Sahnun at-Tanukhi (w. 256 H) dalam risalah pedagogis Islam tertua yang terkodifikasi, *Adab al-Mu'allimin*, menetapkan batasan ketat bagi guru anak-anak:
 
-```arabic
-وَلَا يَجُوزُ لِلْمُعَلِّمِ أَنْ يَضْرِبَ صَبِيًّا عَلَى الْحِفْظِ مَا دَامَ يَجْتَهِدُ وَيَحْضُرُ، فَإِنَّ الْحِفْظَ مَوْهِبَةٌ مِنَ اللَّهِ تَعَالَى لَا حِيلَةَ لِلْعَبْدِ فِيهَا، وَإِنَّمَا يُؤَدَّبُ الصَّبِيُّ عَلَى التَّفْرِيطِ فِي الْأَدَبِ وَالتَّعَدِّي
-```
+> وَلَا يَجُوزُ لِلْمُعَلِّمِ أَنْ يَضْرِبَ صَبِيًّا عَلَى الْحِفْظِ مَا دَامَ يَجْتَهِدُ وَيَحْضُرُ، فَإِنَّ الْحِفْظَ مَوْهِبَةٌ مِنَ اللَّهِ تَعَالَى لَا حِيلَةَ لِلْعَبْدِ فِيهَا، وَإِنَّمَا يُؤَدَّبُ الصَّبِيُّ عَلَى التَّفْرِيطِ فِي الْأَدَبِ وَالتَّعَدِّي
 
 > **Takhrij**: Ibnu Sahnun, *Adab al-Mu'allimin*, Tahqiq Mahmud Hasan Abu Naji (Dar ar-Rasyid, Tunisia, hlm. 43).
 
@@ -164,9 +152,7 @@ Kaidah Ibnu Sahnun ini memisahkan secara radikal antara kapasitas memori kogniti
 ### 4.6 Ibnu Khaldun dalam Muqaddimah: Bahaya Kekerasan Instruksional dan Pemaksaan Kurikulum
 Puncak analisis sosiologis dan pedagogis klasik Islam mengenai hubungan antara kurikulum dan tabiat manusia ditemukan dalam karya agung Ibnu Khaldun, *Al-Muqaddimah*. Pada Pasal ke-40 dari Kitab al-'Ilm wa at-Ta'lim, Ibnu Khaldun menulis bab khusus berjudul: *Fi anna asy-syiddah 'ala al-muta'allimin mudhirrah bihim* (Ketahuilah bahwa bersikap keras dan kaku dalam mengajar murid adalah sangat berbahaya bagi mereka):
 
-```arabic
-أَنَّ إِرْهَافَ الْحَدِّ فِي التَّعْلِيمِ مُضِرٌّ بِالْمُتَعَلِّمِ، سِيَّمَا فِي أَصَاغِرِ الْوِلْدَانِ، لِأَنَّهُ مِنْ سُوءِ الْمَلَكَةِ. وَمَنْ كَانَ مَرْبَاهُ بِالْعَسْفِ وَالْقَهْرِ مِنْ الْمُتَعَلِّمِينَ أَوْ الْمَمَالِيكِ أَوْ الْخَدَمِ، سَطَا بِهِ الْقَهْرُ، وَضَيَّقَ عَلَى النَّفْسِ فِي انْبِسَاطِهَا، وَذَهَبَ بِنَشَاطِهَا، وَدَعَاهُ إِلَى الْكَسَلِ، وَحَمَلَهُ عَلَى الْكَذِبِ وَالْخُبْثِ، وَهُوَ التَّظَاهُرُ بِغَيْرِ مَا فِي ضَمِيرِهِ، خَوْفًا مِنْ انْبِسَاطِ الْأَيْدِي بِالْقَهْرِ عَلَيْهِ، وَعَلَّمَهُ الْمَكْرَ وَالْخَدِيعَةَ لِذَلِكَ، وَصَارَتْ لَهُ هَذِهِ عَادَةً وَخُلُقًا، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ الَّتِي لَهُ
-```
+> أَنَّ إِرْهَافَ الْحَدِّ فِي التَّعْلِيمِ مُضِرٌّ بِالْمُتَعَلِّمِ، سِيَّمَا فِي أَصَاغِرِ الْوِلْدَانِ، لِأَنَّهُ مِنْ سُوءِ الْمَلَكَةِ. وَمَنْ كَانَ مَرْبَاهُ بِالْعَسْفِ وَالْقَهْرِ مِنْ الْمُتَعَلِّمِينَ أَوْ الْمَمَالِيكِ أَوْ الْخَدَمِ، سَطَا بِهِ الْقَهْرُ، وَضَيَّقَ عَلَى النَّفْسِ فِي انْبِسَاطِهَا، وَذَهَبَ بِنَشَاطِهَا، وَدَعَاهُ إِلَى الْكَسَلِ، وَحَمَلَهُ عَلَى الْكَذِبِ وَالْخُبْثِ، وَهُوَ التَّظَاهُرُ بِغَيْرِ مَا فِي ضَمِيرِهِ، خَوْفًا مِنْ انْبِسَاطِ الْأَيْدِي بِالْقَهْرِ عَلَيْهِ، وَعَلَّمَهُ الْمَكْرَ وَالْخَدِيعَةَ لِذَلِكَ، وَصَارَتْ لَهُ هَذِهِ عَادَةً وَخُلُقًا، وَفَسَدَتْ مَعَانِي الْإِنْسَانِيَّةِ الَّتِي لَهُ
 
 > **Takhrij**: Ibnu Khaldun, *Al-Muqaddimah*, Al-Juz' ats-Tsalits, Bab as-Sadis: fi al-'Ulum wa Ashnafiha wa at-Ta'lim wa Thuruqihi, Fasl 40: fi anna asy-syiddah 'ala al-muta'allimin mudhirrah bihim (Dar al-Kitab al-Lubnani, Beirut, hlm. 1052).
 
@@ -181,9 +167,7 @@ Ibnu Khaldun juga mengkritik metode pengajaran yang melompat-lompat tanpa pentah
 ### 4.7 Abu al-Hasan Al-Qabisi dalam Ar-Risalah al-Mufashshalah: Etika Pendidikan Al-Qur'an
 Abu al-Hasan Ali bin Muhammad al-Qabisi (w. 403 H), faqih Maliki dan pionir pedagogi Islam dari Kairouan, dalam risalahnya *Ar-Risalah al-Mufashshalah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wa al-Muta'allimin*, menegaskan bahwa pengajaran Al-Qur'an dan dasar-dasar agama harus memperhatikan kesehatan fisik dan kesiapan mental santri:
 
-```arabic
-يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَرْفُقَ بِالصِّبْيَانِ، وَلَا يُكَلِّفَهُمْ مِنَ الْحِفْظِ مَا يَثْقُلُ عَلَيْهِمْ فَيَمَلُّوا كِتَابَ اللَّهِ، فَإِنَّ الْمَلَالَةَ إِذَا دَخَلَتْ عَلَى قَلْبِ الصَّبِيِّ فِي ابْتِدَاءِ أَمْرِهِ أَوْرَثَتْهُ كَرَاهِيَةَ الْعِلْمِ، وَلَا يُعَاقِبُهُمْ عَلَى عَجْزِ الطَّبِيعَةِ
-```
+> يَنْبَغِي لِلْمُعَلِّمِ أَنْ يَرْفُقَ بِالصِّبْيَانِ، وَلَا يُكَلِّفَهُمْ مِنَ الْحِفْظِ مَا يَثْقُلُ عَلَيْهِمْ فَيَمَلُّوا كِتَابَ اللَّهِ، فَإِنَّ الْمَلَالَةَ إِذَا دَخَلَتْ عَلَى قَلْبِ الصَّبِيِّ فِي ابْتِدَاءِ أَمْرِهِ أَوْرَثَتْهُ كَرَاهِيَةَ الْعِلْمِ، وَلَا يُعَاقِبُهُمْ عَلَى عَجْزِ الطَّبِيعَةِ
 
 > **Takhrij**: Al-Qabisi, *Ar-Risalah al-Mufashshalah li Ahwal al-Mu'allimin wa Ahkam al-Mu'allimin wa al-Muta'allimin*, Tahqiq Ahmad Khalid Kram (Asy-Syirkah at-Tunisiyyah li at-Tawzi', Tunis, 1986, hlm. 72).
 

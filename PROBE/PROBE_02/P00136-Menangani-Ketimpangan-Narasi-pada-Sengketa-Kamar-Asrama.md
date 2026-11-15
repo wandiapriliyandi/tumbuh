@@ -124,107 +124,101 @@ Syariat Islam secara eksplisit mewajibkan penegak keadilan untuk membongkar hege
 
 1. **Perintah Menegakkan Keadilan Tanpa Terpengaruh Status Sosial:**  
 
-   ```arabic
-
-   يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِن يَكُن غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا
-
-   ```  
-
-   > *"Wahai orang-orang yang beriman! Jadilah kamu penegak keadilan, menjadi saksi karena Allah, walaupun terhadap dirimu sendiri atau terhadap ibu bapak dan kaum kerabatmu. Jika dia (yang bersengketa) kaya ataupun miskin, maka Allah lebih tahu kemaslahatan keduanya..."* (QS. An-Nisa': 135).  
-
-   Ayat ini menjadi dasar mutlak bahwa status sosial ekonomi santri (anak kaya vs santri miskin) wajib dilepaskan total dari meja peradilan disiplin.
-
-
-
-2. **Kewajiban Menyamakan Posisi Duduk dan Pandangan di Majelis Peradilan:**  
-
-   Dalam risalah peradilannya yang terkenal (*Risalah al-Qadha'*), Amirul Mukminin Umar bin Al-Khattab ra menginstruksikan kepada Qadhi Abu Musa Al-Asy'ari:
-
-   ```arabic
-
-   آسِ بَيْنَ النَّاسِ فِي وَجْهِكَ وَمَجْلِسِكَ وَعَدْلِكَ، حَتَّى لَا يَيْأَسَ الضَّعِيفُ مِنْ عَدْلِكَ، وَلَا يَطْمَعَ الشَّرِيفُ فِي حَيْفِكَ
-
-   ```  
-
-   > *"Samakanlah perlakuanmu di antara manusia dalam pandangan wajahmu, tempat dudukmu, dan keadilanmu; agar orang yang lemah tidak berputus asa dari keadilanmu, dan orang yang terpandang tidak berharap kelicikan/keberpihakan darimu!"*  
-
-   Prinsip ini melarang musyrif bersikap ramah dan tersenyum kepada santri senior sementara bermuka masam dan membentak santri junior dalam forum sengketa.
-
-
-
-3. **Menolong Orang Zalim dengan Menghentikan Kezalimannya:**  
-
-   ```arabic
-
-   انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا، فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَنْصُرُهُ إِذَا كَانَ مَظْلُومًا، أَفَرَأَيْتَ إِذَا كَانَ ظَالِمًا كَيْفَ أَنْصُرُهُ؟ قَالَ: تَحْجُزُهُ أَوْ تَمْنَعُهُ مِنَ الظُّلْمِ فَإِنَّ ذَلِكَ نَصْرُهُ
-
-   ```  
-
-   > *Sabda Rasulullah ﷺ: "Tolonglah saudaramu yang zalim dan yang dizalimi!" Seorang sahabat bertanya: "Wahai Rasulullah, aku menolongnya jika ia dizalimi, lalu bagaimana cara menolongnya jika ia yang berbuat zalim?" Beliau bersabda: "Engkau cegah atau halangi dia dari berbuat zalim, karena sesungguhnya itulah cara menolongnya!"* (HR. Al-Bukhari no. 6952).
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Sosiologi Kekuasaan / Psikologi Sosial
-
-
-
-Teori sosiologi kritis dan dinamika kekuasaan kelompok menjelaskan mengapa narasi asrama selalu terdistorsi:
-
-
-
-1. **Teori Modal Simbolik & Kekerasan Simbolik (*Pierre Bourdieu*):**  
-
-   Santri senior dan anak figur terpandang memiliki akumulasi **modal simbolik (*symbolic capital*)**: kemahiran linguistik, pemahaman budaya pondok yang mapan, dan relasi dekat dengan pengurus. Ketika terjadi konflik, mereka melakukan *kekerasan simbolik*: memanipulasi persepsi musyrif sehingga tindakan penindasan yang mereka lakukan tampak wajar sebagai "proses edukasi adik kelas", sementara reaksi defensif santri junior dibingkai sebagai "pembangkangan".
-
-
-
-2. **Dinamika Kelompok & *Pluralistic Ignorance* (*Latane & Darley, 1970*):**  
-
-   Di dalam kamar asrama, santri-santri lain yang menyaksikan perundungan sering kali memilih diam (*bystander effect*). Mereka mengira bahwa karena santri lain diam, maka perbuatan tersebut disetujui bersama (*pluralistic ignorance*). Ketika musyrif bertanya secara terbuka di kamar: *"Apakah benar Fathir memukul Zaid?"*, semua santri menunduk dan diam karena takut dikucilkan oleh kelompok dominan kamar.
-
-
-
-3. **Trauma Respon & Melumpuhnya Bahasa (*Broca's Area Deactivation - Bessel van der Kolk*):**  
-
-   Neurosains trauma (*The Body Keeps the Score*) membuktikan bahwa saat seseorang mengalami intimidasi akut, area Broca (pusat produksi bahasa verbal di otak kiri) mengalami penurunan aktivitas drastis. Korban perundungan literally kehilangan kemampuan merangkai kata secara logis saat berada di hadapan pelakunya. Mengandalkan kefasihan narasi verbal semata dalam mediasi adalah bentuk kecacatan metodologis yang sistemik.
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Investigasi Sengketa Kamar
-
-
-
-| Tahap Investigasi Sengketa | Prosedur Tradisional Cacat (Reduksi) | Protokol Equalizer Narasi (TUMBUH v2.0.0) | Dampak Keadilan dan Psikis Santri |
-
-| :--- | :--- | :--- | :--- |
-
-| **Penerimaan Laporan Awal** | Menunggu korban berani melapor sendiri ke kantor; mengabaikan laporan anonim. | Kotak Suara Aman Digital / Pendampingan Konselor Sebaya (*Peer Advocate Channel*). | Korban yang terancam memiliki saluran aman untuk meminta pertolongan tanpa terdeteksi pelaku. |
-
-| **Sesi Penggalian Keterangan** | Mengkonfrontasi korban dan pelaku dalam satu meja sejak menit pertama. | **Protokol Shuttle Mediation**: wawancara terpisah di ruang aman netral; perlindungan kerahasiaan identitas saksi. | Korban berani mengungkapkan fakta sebenarnya tanpa intimidasi tatapan mata pelaku. |
-
-| **Uji Silang Keterangan (Cross-Exam)** | Menguji kebenaran dari siapa yang bicaranya paling tenang dan tidak menangis. | Triangulasi bukti fisik (rekam jejak barang, pemeriksaan medis UKS, kesaksian tertulis rahasia). | Kredibilitas diukur dari bukti material dan koherensi fakta, bukan dari kepiawaian bersilat lidah. |
-
-| **Penyelesaian Sengketa** | Memaksa korban memaafkan di tempat: *"Ayo salaman, jangan dendam!"* | Pemulihan hak korban penuh (*restitusi*), pengakuan bersalah tertulis, dan kontrak pemisahan ruang aman. | Korban merasa dipulihkan martabatnya; pelaku belajar bertanggung jawab secara nyata (*real accountability*). |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ ۚ إِن يَكُن غَنِيًّا أَوْ فَقِيرًا فَاللَّهُ أَوْلَىٰ بِهِمَا
+>
+>    ```  
+>
+>    > *"Wahai orang-orang yang beriman! Jadilah kamu penegak keadilan, menjadi saksi karena Allah, walaupun terhadap dirimu sendiri atau terhadap ibu bapak dan kaum kerabatmu. Jika dia (yang bersengketa) kaya ataupun miskin, maka Allah lebih tahu kemaslahatan keduanya..."* (QS. An-Nisa': 135).  
+>
+>    Ayat ini menjadi dasar mutlak bahwa status sosial ekonomi santri (anak kaya vs santri miskin) wajib dilepaskan total dari meja peradilan disiplin.
+>
+>
+>
+> 2. **Kewajiban Menyamakan Posisi Duduk dan Pandangan di Majelis Peradilan:**  
+>
+>    Dalam risalah peradilannya yang terkenal (*Risalah al-Qadha'*), Amirul Mukminin Umar bin Al-Khattab ra menginstruksikan kepada Qadhi Abu Musa Al-Asy'ari:
+>
+>
+>    آسِ بَيْنَ النَّاسِ فِي وَجْهِكَ وَمَجْلِسِكَ وَعَدْلِكَ، حَتَّى لَا يَيْأَسَ الضَّعِيفُ مِنْ عَدْلِكَ، وَلَا يَطْمَعَ الشَّرِيفُ فِي حَيْفِكَ
+>
+>
+>    > *"Samakanlah perlakuanmu di antara manusia dalam pandangan wajahmu, tempat dudukmu, dan keadilanmu; agar orang yang lemah tidak berputus asa dari keadilanmu, dan orang yang terpandang tidak berharap kelicikan/keberpihakan darimu!"*  
+>
+>    Prinsip ini melarang musyrif bersikap ramah dan tersenyum kepada santri senior sementara bermuka masam dan membentak santri junior dalam forum sengketa.
+>
+>
+>
+> 3. **Menolong Orang Zalim dengan Menghentikan Kezalimannya:**  
+>
+>
+>    انْصُرْ أَخَاكَ ظَالِمًا أَوْ مَظْلُومًا، فَقَالَ رَجُلٌ: يَا رَسُولَ اللَّهِ، أَنْصُرُهُ إِذَا كَانَ مَظْلُومًا، أَفَرَأَيْتَ إِذَا كَانَ ظَالِمًا كَيْفَ أَنْصُرُهُ؟ قَالَ: تَحْجُزُهُ أَوْ تَمْنَعُهُ مِنَ الظُّلْمِ فَإِنَّ ذَلِكَ نَصْرُهُ
+>
+>
+>    > *Sabda Rasulullah ﷺ: "Tolonglah saudaramu yang zalim dan yang dizalimi!" Seorang sahabat bertanya: "Wahai Rasulullah, aku menolongnya jika ia dizalimi, lalu bagaimana cara menolongnya jika ia yang berbuat zalim?" Beliau bersabda: "Engkau cegah atau halangi dia dari berbuat zalim, karena sesungguhnya itulah cara menolongnya!"* (HR. Al-Bukhari no. 6952).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Sosiologi Kekuasaan / Psikologi Sosial
+>
+>
+>
+> Teori sosiologi kritis dan dinamika kekuasaan kelompok menjelaskan mengapa narasi asrama selalu terdistorsi:
+>
+>
+>
+> 1. **Teori Modal Simbolik & Kekerasan Simbolik (*Pierre Bourdieu*):**  
+>
+>    Santri senior dan anak figur terpandang memiliki akumulasi **modal simbolik (*symbolic capital*)**: kemahiran linguistik, pemahaman budaya pondok yang mapan, dan relasi dekat dengan pengurus. Ketika terjadi konflik, mereka melakukan *kekerasan simbolik*: memanipulasi persepsi musyrif sehingga tindakan penindasan yang mereka lakukan tampak wajar sebagai "proses edukasi adik kelas", sementara reaksi defensif santri junior dibingkai sebagai "pembangkangan".
+>
+>
+>
+> 2. **Dinamika Kelompok & *Pluralistic Ignorance* (*Latane & Darley, 1970*):**  
+>
+>    Di dalam kamar asrama, santri-santri lain yang menyaksikan perundungan sering kali memilih diam (*bystander effect*). Mereka mengira bahwa karena santri lain diam, maka perbuatan tersebut disetujui bersama (*pluralistic ignorance*). Ketika musyrif bertanya secara terbuka di kamar: *"Apakah benar Fathir memukul Zaid?"*, semua santri menunduk dan diam karena takut dikucilkan oleh kelompok dominan kamar.
+>
+>
+>
+> 3. **Trauma Respon & Melumpuhnya Bahasa (*Broca's Area Deactivation - Bessel van der Kolk*):**  
+>
+>    Neurosains trauma (*The Body Keeps the Score*) membuktikan bahwa saat seseorang mengalami intimidasi akut, area Broca (pusat produksi bahasa verbal di otak kiri) mengalami penurunan aktivitas drastis. Korban perundungan literally kehilangan kemampuan merangkai kata secara logis saat berada di hadapan pelakunya. Mengandalkan kefasihan narasi verbal semata dalam mediasi adalah bentuk kecacatan metodologis yang sistemik.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Investigasi Sengketa Kamar
+>
+>
+>
+> | Tahap Investigasi Sengketa | Prosedur Tradisional Cacat (Reduksi) | Protokol Equalizer Narasi (TUMBUH v2.0.0) | Dampak Keadilan dan Psikis Santri |
+>
+> | :--- | :--- | :--- | :--- |
+>
+> | **Penerimaan Laporan Awal** | Menunggu korban berani melapor sendiri ke kantor; mengabaikan laporan anonim. | Kotak Suara Aman Digital / Pendampingan Konselor Sebaya (*Peer Advocate Channel*). | Korban yang terancam memiliki saluran aman untuk meminta pertolongan tanpa terdeteksi pelaku. |
+>
+> | **Sesi Penggalian Keterangan** | Mengkonfrontasi korban dan pelaku dalam satu meja sejak menit pertama. | **Protokol Shuttle Mediation**: wawancara terpisah di ruang aman netral; perlindungan kerahasiaan identitas saksi. | Korban berani mengungkapkan fakta sebenarnya tanpa intimidasi tatapan mata pelaku. |
+>
+> | **Uji Silang Keterangan (Cross-Exam)** | Menguji kebenaran dari siapa yang bicaranya paling tenang dan tidak menangis. | Triangulasi bukti fisik (rekam jejak barang, pemeriksaan medis UKS, kesaksian tertulis rahasia). | Kredibilitas diukur dari bukti material dan koherensi fakta, bukan dari kepiawaian bersilat lidah. |
+>
+> | **Penyelesaian Sengketa** | Memaksa korban memaafkan di tempat: *"Ayo salaman, jangan dendam!"* | Pemulihan hak korban penuh (*restitusi*), pengakuan bersalah tertulis, dan kontrak pemisahan ruang aman. | Korban merasa dipulihkan martabatnya; pelaku belajar bertanggung jawab secara nyata (*real accountability*). |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: FORMALISME KONFRONTASI LANGSUNG ]
 
@@ -344,11 +338,7 @@ Para fukaha peradilan Islam meletakkan kaidah perlindungan saksi dan pihak lemah
 
    Menegaskan kewajiban hakim mencurigai pihak yang terlalu percaya diri memanfaatkan pengaruhnya:
 
-   ```arabic
-
-   وَلَا يَنْبَغِي لِلْقَاضِي أَنْ يَنْخَدِعَ بِذَلَاقَةِ لِسَانِ الْخَصْمِ وَحُسْنِ بَيَانِهِ، بَلْ عَلَيْهِ أَنْ يَتَأَنَّى وَيَبْحَثَ عَنْ ضَعِيفِ الْحُجَّةِ لِعَجْزِهِ عَنِ الْبَيَانِ، فَيَسْتَأْنِيَ بِهِ حَتَّى يُفْصِحَ عَنْ حَقِّهِ
-
-   ```  
+   > وَلَا يَنْبَغِي لِلْقَاضِي أَنْ يَنْخَدِعَ بِذَلَاقَةِ لِسَانِ الْخَصْمِ وَحُسْنِ بَيَانِهِ، بَلْ عَلَيْهِ أَنْ يَتَأَنَّى وَيَبْحَثَ عَنْ ضَعِيفِ الْحُجَّةِ لِعَجْزِهِ عَنِ الْبَيَانِ، فَيَسْتَأْنِيَ بِهِ حَتَّى يُفْصِحَ عَنْ حَقِّهِ
 
    > *"Tidak seyogianya bagi seorang hakim teperdaya oleh kelicikan lisan salah satu pihak dan keindahan retorikanya; melainkan wajib atasnya untuk bersabar, berhati-hati, dan meneliti pihak yang tampak lemah hujjahnya karena ketidakmampuannya mengungkapkan kata-kata, lalu memberi waktu dan ketenangan kepadanya hingga ia mampu mengutarakan haknya dengan jelas!"* (*Al-Ahkam As-Sulthaniyyah*, Bab Wilayatul Qadha').
 
@@ -358,11 +348,7 @@ Para fukaha peradilan Islam meletakkan kaidah perlindungan saksi dan pihak lemah
 
    Mencatat preseden yurisprudensi para sahabat dalam memisahkan pihak-pihak yang bersengketa agar tidak saling mempengaruhi:
 
-   ```arabic
-
-   فَرَّقَ دَانِيَالُ وَشُرَيْحٌ وَعَلِيُّ بْنُ أَبِي طَالِبٍ بَيْنَ الشُّهُودِ عِنْدَ الِارْتِيَابِ، وَهَذَا مِنْ أَحْسَنِ السِّيَاسَةِ الشَّرْعِيَّةِ الَّتِي يُتَوَصَّلُ بِهَا إِلَى مَعْرِفَةِ الصِّدْقِ مِنَ الْكَذِبِ
-
-   ```  
+   > فَرَّقَ دَانِيَالُ وَشُرَيْحٌ وَعَلِيُّ بْنُ أَبِي طَالِبٍ بَيْنَ الشُّهُودِ عِنْدَ الِارْتِيَابِ، وَهَذَا مِنْ أَحْسَنِ السِّيَاسَةِ الشَّرْعِيَّةِ الَّتِي يُتَوَصَّلُ بِهَا إِلَى مَعْرِفَةِ الصِّدْقِ مِنَ الْكَذِبِ
 
    > *"Nabi Danial, Qadhi Syuraih, dan Ali bin Abi Thalib memisahkan saksi-saksi dan pihak yang bersengketa ketika muncul keraguan. Ini adalah bagian dari sebaik-baik siyasah syar'iyyah yang menjadi jalan untuk menyingkap mana yang jujur dari yang dusta!"* (*I'lam al-Muwaqqi'in*, Jilid IV, hlm. 165).
 

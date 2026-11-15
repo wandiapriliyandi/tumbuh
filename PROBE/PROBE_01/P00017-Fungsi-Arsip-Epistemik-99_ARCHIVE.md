@@ -73,9 +73,7 @@ Tragedi serupa terjadi dalam ranah akademik: puluhan alumni pesantren yang melan
 
 ### 4.1. Disiplin 'Ilm an-Nasikh wal-Mansukh: Mengapa Teks yang Dibatalkan Tetap Wajib Dicatat?
 Dalam epistemologi ilmu-ilmu keislaman, salah satu bukti paling agung tentang pentingnya preservasi arsip teks yang sudah tidak berlaku hukumnya adalah tradisi pembukuan ayat-ayat dan hadits-hadits *Mansukh* (yang telah dihapus ketetapan hukumnya). Allah Ta'ala berfirman dalam surat al-Baqarah ayat 106:
-```text
-مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
-```
+> مَا نَنسَخْ مِنْ آيَةٍ أَوْ نُنسِهَا نَأْتِ بِخَيْرٍ مِّنْهَا أَوْ مِثْلِهَا ۗ أَلَمْ تَعْلَمْ أَنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ
 > *"Ayat mana saja yang Kami nasakhkan, atau Kami jadikan (manusia) lupa kepadanya, Kami datangkan yang lebih baik daripadanya atau yang sebanding dengannya. Tidakkah kamu mengetahui bahwa sesungguhnya Allah Maha Kuasa atas segala sesuatu?"*
 
 Para ulama tafsir dan ushul fiqih mencatat bahwa meskipun hukum suatu ayat telah dimansukh oleh ayat yang turun kemudian, lafazh ayat tersebut **TETAP WAJIB TERTERA DI DALAM MUSHAF AL-QUR'AN** dan dibaca dalam shalat sebagai ibadah tilawah. Mengapa ayat yang hukumnya sudah tidak berlaku tidak dihapus saja dari lembaran mushaf?
@@ -92,9 +90,7 @@ Hikmah ushuliyyah yang dirumuskan Imam as-Suyuthi ini menjadi fondasi teologis p
 Dalam ilmu mushthalah al-hadits, para ulama ahli hadits seperti Imam Yahya bin Ma'in, Ali bin al-Madini, dan Ibnu Abi Hatim ar-Razi tidak hanya menulis kitab-kitab tentang hadits-hadits sahih, melainkan juga menyusun ensiklopedia raksasa mengenai hadits-hadits dha'if, maudhu' (palsu), dan matruk (ditinggalkan), seperti kitab *al-Majruhin* karya Ibnu Hibban dan *al-Kamil fi Dhu'afa' ar-Rijal* karya Ibnu 'Adi.
 
 Imam Fakhruddin ar-Razi (w. 606 H) dalam *al-Mahshul fi 'Ilm Ushul al-Fiqh* (Riyadh: Jami'at al-Imam, 1979, Jilid 4, hal. 412) menjelaskan rahasia mengapa riwayat palsu tetap dicatat dan dipreservasi:
-```text
-تَدْوِينُ الرِّوَايَاتِ السَّاقِطَةِ لَيْسَ لِلْعَمَلِ بِهَا، بَلْ لِصِيَانَةِ الشَّرِيعَةِ مِنْ أَنْ يَلْتَبِسَ فِيهَا السَّقِيمُ بِالصَّحِيحِ، وَلِتَعْرِيفِ مَوَاضِعِ الزَّلَلِ حَتَّى لَا يَقَعَ فِيهَا الْخَلَفُ كَمَا وَقَعَ فِيهَا السَّلَفُ.
-```
+> تَدْوِينُ الرِّوَايَاتِ السَّاقِطَةِ لَيْسَ لِلْعَمَلِ بِهَا، بَلْ لِصِيَانَةِ الشَّرِيعَةِ مِنْ أَنْ يَلْتَبِسَ فِيهَا السَّقِيمُ بِالصَّحِيحِ، وَلِتَعْرِيفِ مَوَاضِعِ الزَّلَلِ حَتَّى لَا يَقَعَ فِيهَا الْخَلَفُ كَمَا وَقَعَ فِيهَا السَّلَفُ.
 > "Pembukuan riwayat-riwayat yang gugur bukanlah untuk diamalkan hukumnya, melainkan demi menjaga kesucian syariat agar yang cacat tidak bercampur aduk dengan yang sahih, serta untuk mengidentifikasi letak-letak kekeliruan agar generasi belakang tidak terperosok ke dalam lubang yang sama sebagaimana generasi terdahulu."
 
 Kaidah ar-Razi ini secara presisi mendasari kewajiban penandaan nisan digital (*tombstoning*) di Lapisan 99: kita mencatat draf kebijakan yang gagal bukan untuk dipraktikkan kembali, melainkan sebagai tanda bahaya agar musyrif di masa depan tidak mengulangi malapraktik kedisiplinan yang sama.
@@ -106,9 +102,7 @@ Ibnu Khaldun (w. 808 H) dalam *Muqaddimah*-nya (Beirut: Dar al-Fikr, 2001, hal. 
 
 ### 4.4. Pembelaan Terhadap Tradisi Kearsipan Sejarah Menurut As-Sakhawi
 Imam Syamsuddin as-Sakhawi (w. 902 H) dalam kitab monumentalnya *al-I'lan bit-Taubikh liman Dzamma at-Tarikh* (Damaskus: Matba'ah at-Taraqqi, 1930, hal. 42-49) menyusun pembelaan epistemologis yang kokoh mengenai urgensi pencatatan dan preservasi dokumen sejarah. As-Sakhawi membantah keras anggapan orang-orang yang meremehkan catatan masa lalu sebagai "tumpukan kertas usang yang tidak berguna bagi orang hidup". Beliau menegaskan:
-```text
-إِنَّ التَّارِيخَ فَنٌّ عَزِيزُ الْمَنْبَعِ، شَرِيفُ الْمَقْصِدِ، بِهِ تُعْرَفُ أَحْوَالُ الْمَاضِينَ مِنْ أَهْلِ الْحَقِّ وَالْبَاطِلِ، وَتُتَمَيَّزُ مَرَاتِبُ الْعُلَمَاءِ وَتَقَلُّبَاتُ الْأَحْكَامِ. وَلَوْلَا حِفْظُ آثَارِ مَنْ غَبَرَ، لَانْطَمَسَتْ مَعَالِمُ السُّنَنِ، وَلَادَّعَى كُلُّ مُبْطِلٍ مَا شَاءَ، وَلَتَاهَتِ الْأُمَّةُ فِي مَهَامِهِ الْجَهَالَةِ.
-```
+> إِنَّ التَّارِيخَ فَنٌّ عَزِيزُ الْمَنْبَعِ، شَرِيفُ الْمَقْصِدِ، بِهِ تُعْرَفُ أَحْوَالُ الْمَاضِينَ مِنْ أَهْلِ الْحَقِّ وَالْبَاطِلِ، وَتُتَمَيَّزُ مَرَاتِبُ الْعُلَمَاءِ وَتَقَلُّبَاتُ الْأَحْكَامِ. وَلَوْلَا حِفْظُ آثَارِ مَنْ غَبَرَ، لَانْطَمَسَتْ مَعَالِمُ السُّنَنِ، وَلَادَّعَى كُلُّ مُبْطِلٍ مَا شَاءَ، وَلَتَاهَتِ الْأُمَّةُ فِي مَهَامِهِ الْجَهَالَةِ.
 > "Sesungguhnya ilmu sejarah dan kearsipan adalah disiplin ilmu yang sangat mulia sumbernya dan agung tujuannya. Dengannya diketahui kondisi orang-orang terdahulu, baik pembela kebenaran maupun pengusung kebatilan; dengannya dibedakan tingkatan para ulama serta pergolakan hukum dari masa ke masa. Kalaulah bukan karena pemeliharaan peninggalan masa lalu, niscaya akan terhapus rambu-rambu sunnah, setiap pembual akan mengklaim apa saja yang ia kehendaki secara dusta, dan umat akan tersesat di padang kebodohan yang kelam."
 
 Kutipan agung as-Sakhawi ini menyinari hakikat direktori `99_ARCHIVE/`: arsip bukan sekadar gudang penampungan kertas mati, melainkan saksi keadilan (*syahid al-'adl*) yang membendung distorsi dan klaim sepihak para pengurus baru. Ketika sebuah tata tertib lama pernah dicabut karena terbukti menimbulkan trauma pada santri, arsip di Lapisan 99 menjadi bukti sejarah yang mencegah para pengurus generasi berikutnya mengklaim bahwa "pesantren ini sejak dahulu selalu keras dan menerapkan hukuman cambuk". Arsip adalah benteng pertahanan kebenaran faktual.
@@ -426,9 +420,7 @@ Prinsip keterlacakan sejarah ini menjamin bahwa seluruh pemangku kepentingan pes
 
 ### 11.2. Dimensi Eskatologis Pemeliharaan Rekam Jejak Sejarah Peradaban
 Secara teologis dan eskatologis, memelihara kejujuran arsip adalah bagian dari penegakan keadilan Ilahi. Di hari kiamat kelak, seluruh lembaran amal perbuatan manusia akan dibentangkan tanpa ada satu pun catatan yang dizalimi atau dimanipulasi. Allah Ta'ala berfirman:
-```text
-وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
-```
+> وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا ۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًا ۗ وَلَا يَظْلِمُ رَبُّكَ أَحَدًا
 > *"Dan diletakkanlah kitab (catatan amal), lalu engkau akan melihat orang-orang yang bersalah merasa takut terhadap apa yang tertulis di dalamnya, dan mereka berkata: 'Aduhai celakalah kami, kitab apakah ini yang tidak meninggalkan yang kecil dan tidak pula yang besar, melainkan mencatat semuanya!' Dan mereka mendapati apa yang telah mereka kerjakan ada (tertulis). Dan Tuhanmu tidak menzalimi seorang jua pun." (QS. Al-Kahfi: 49).*
 
 Pengurus pesantren yang dengan sengaja menghapus catatan arsip untuk menutupi kelalaian manajemennya atau memalsukan tanggal dokumen demi kepentingan duniawi telah melakukan pengkhianatan amanah hisab (*khiyanat al-amanah*). Sebaliknya, kurator yang memelihara cagar arsip secara jujur, objektif, dan transparan sedang menjalankan ibadah mulia untuk memastikan bahwa kebenaran tetap berdiri tegak melintasi zaman.

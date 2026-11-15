@@ -38,16 +38,14 @@ Sistem TUMBUH v2.0.0 secara tegas menamakan fase awal ini sebagai **Tahap 1: Pem
 Rasulullah shallallahu 'alaihi wa sallam senantiasa memulai pembinaan generasi muda dengan pendekatan *Ta'lif al-Qulub* (melembutkan hati) dan pembiasaan praktis yang menggembirakan.
 
 Sahabat Anas bin Malik radhiyallahu 'anhu, yang melayani Rasulullah sejak usia kanak-kanak (10 tahun), memberikan kesaksian agung mengenai metodologi Tahap 1 ini:
-```arabic
-عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: «خَدَمْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، فَوَاللَّهِ مَا قَالَ لِي أُفٍّ قَطُّ، وَلَا قَالَ لِشَيْءٍ صَنَعْتُهُ: لِمَ صَنَعْتَ كَذَا؟ وَلَا لِشَيْءٍ تَرَكْتُهُ: أَلَّا صَنَعْتَ كَذَا؟»
-```
+> عَنْ أَنَسِ بْنِ مَالِكٍ رَضِيَ اللَّهُ عَنْهُ قَالَ: «خَدَمْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، فَوَاللَّهِ مَا قَالَ لِي أُفٍّ قَطُّ، وَلَا قَالَ لِشَيْءٍ صَنَعْتُهُ: لِمَ صَنَعْتَ كَذَا؟ وَلَا لِشَيْءٍ تَرَكْتُهُ: أَلَّا صَنَعْتَ كَذَا؟»
+
 *(Dari Anas bin Malik radhiyallahu 'anhu, ia berkata: "Aku melayani Rasulullah shallallahu 'alaihi wa sallam selama sepuluh tahun. Demi Allah, beliau tidak pernah sekalipun berkata kepadaku 'Ah!', dan beliau tidak pernah mencela apa yang telah aku perbuat dengan mengatakan: 'Mengapa engkau berbuat demikian?', dan tidak pula terhadap apa yang belum aku perbuat dengan mengatakan: 'Mengapa engkau tidak berbuat demikian?').*
 — **HR. Al-Bukhari** (No. 6038) dan **Muslim** (No. 2309).
 
 Imam Al-Ghazali (w. 505 H) dalam mahakaryanya *Ihya' 'Ulum al-Din* menegaskan hakikat pedagogis dari pembiasaan dasar sejak dini:
-```arabic
-وَالصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ، وَمَائِلٌ إِلَى كُلِّ مَا يُمَالُ بِهِ إِلَيْهِ؛ فَإِنْ عُوِّدَ الْخَيْرَ وَعُلِّمَهُ نَشَأَ عَلَيْهِ وَسَعِدَ فِي الدُّنْيَا وَالْآخِرَةِ، وَإِنْ عُوِّدَ الشَّرَّ وَأُهْمِلَ إِهْمَالَ الْبَهِيمَةِ شَقِيَ وَهَلَكَ
-```
+> وَالصَّبِيُّ أَمَانَةٌ عِنْدَ وَالِدَيْهِ، وَقَلْبُهُ الطَّاهِرُ جَوْهَرَةٌ نَفِيسَةٌ سَاذَجَةٌ خَالِيَةٌ عَنْ كُلِّ نَقْشٍ وَصُورَةٍ، وَهُوَ قَابِلٌ لِكُلِّ مَا نُقِشَ، وَمَائِلٌ إِلَى كُلِّ مَا يُمَالُ بِهِ إِلَيْهِ؛ فَإِنْ عُوِّدَ الْخَيْرَ وَعُلِّمَهُ نَشَأَ عَلَيْهِ وَسَعِدَ فِي الدُّنْيَا وَالْآخِرَةِ، وَإِنْ عُوِّدَ الشَّرَّ وَأُهْمِلَ إِهْمَالَ الْبَهِيمَةِ شَقِيَ وَهَلَكَ
+
 *(Dan anak kecil itu adalah amanah di tangan kedua orang tuanya/pendidiknya. Kalbunya yang masih suci laksana permata berharga yang polos, bersih dari segala ukiran dan bentuk gambar. Ia siap menerima setiap ukiran yang dipahatkan padanya dan condong kepada ke arah mana ia dibimbing. Maka jika ia dibiasakan berbuat baik dan diajarkan kebaikan, ia akan tumbuh di atas kebaikan itu dan bahagia di dunia dan akhirat; sebaliknya jika ia dibiasakan berbuat buruk dan ditelantarkan seperti hewan ternak, ia akan celaka dan binasa).*
 — **Al-Ghazali**, *Ihya' 'Ulum al-Din*, Jilid 3, Hal. 72.
 

@@ -126,107 +126,101 @@ Al-Qur'an Al-Karim adalah kitab suci yang paling dahsyat menantang dan memuliaka
 
 1. **Celaan Keras Al-Qur'an bagi Manusia yang Mematikan Akal:**  
 
-   ```arabic
-
-   إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ
-
-   ```  
-
-   > *"Sesungguhnya binatang (makhluk) yang seburuk-buruknya pada sisi Allah ialah; orang-orang yang pekak dan tuli yang tidak menggunakan akalnya!"* (QS. Al-Anfal: 22).  
-
-   Al-Qur'an menyamakan manusia yang menolak berpikir kritis dan menolak menggunakan akalnya dengan derajat binatang yang paling hina.
-
-
-
-2. **Perintah Al-Qur'an Meminta Dalil dan Bukti Rasional (*Burhan*):**  
-
-   ```arabic
-
-   قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ
-
-   ```  
-
-   > *"Katakanlah: Tunjukkanlah bukti kebenaranmu jika kamu orang-orang yang benar!"* (QS. Al-Baqarah: 111).  
-
-   Ayat ini mengajarkan nalar kritis tingkat tinggi: klaim apa pun di alam semesta ini wajib diuji dengan bukti demonstratif yang nyata (*burhan*).
-
-
-
-3. **Teladan Nabi Ibrahim 'Alaihissalam dalam Menuntut Kepuasan Akal:**  
-
-   ```arabic
-
-   وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِي
-
-   ```  
-
-   > *"Dan (ingatlah) ketika Ibrahim berkata: 'Ya Tuhanku, perlihatkanlah kepadaku bagaimana Engkau menghidupkan orang-orang mati.' Allah berfirman: 'Belum yakinkah kamu?' Ibrahim menjawab: 'Aku telah meyakininya, akan tetapi agar hatiku tenang (mantap keyakinan akal dan jiwaku)'..."* (QS. Al-Baqarah: 260).  
-
-   Nabi Ibrahim tidak dimurkai Allah saat meminta pembuktian indrawi, melainkan diberi bukti nyata; ini adalah dalil syar'i bahwa bertanya demi kemantapan iman (*litho'ma'innata qalbiy*) adalah sifat para kekasih Allah.
-
-
-
----
-
-
-
-## 3. Analisis Sains Kontemporer / Psikologi Kognitif / Teori Berpikir Kritis
-
-
-
-Sains kognitif modern dan psikologi pendidikan membuktikan bagaimana nalar kritis dapat berpadu harmonis dengan kebajikan moral:
-
-
-
-1. **Taksonomi Kognitif Bloom Revisi (*Higher-Order Thinking Skills - HOTS*):**  
-
-   Pembelajaran pesantren konvensional sering kali mandek pada tingkat kognitif rendah: *Remembering* (menghafal matan) dan *Understanding* (memahami terjemahan). Nalar kritis sejati menuntut santri bergerak menuju HOTS: *Analyzing* (membedah premis argumen), *Evaluating* (menimbang dalil yang bertentangan secara adil), dan *Creating* (merumuskan solusi fikih kontemporer berbasis maqashid). Santri yang dilatih HOTS terbukti memiliki ketahanan iman yang jauh lebih tangguh menghadapi disrupsi zaman.
-
-
-
-2. **Kerendahan Hati Intelektual (*Epistemic / Intellectual Humility - Leary et al., 2017*):**  
-
-   Riset psikologi kognitif membuktikan bahwa nalar kritis yang matang (*mature critical thinking*) tidak melahirkan arogansi, melainkan justru melahirkan **Intellectual Humility**: kesadaran mendalam bahwa akal manusia memiliki batas, bahwa pengetahuannya sangat sedikit, dan bahwa dirinya selalu berpotensi salah (*fallibilism*). Santri yang berpikir kritis secara beradab akan semakin tawadhu' dan semakin menghormati gurunya, karena ia menyadari betapa luasnya samudra ilmu yang belum ia ketahui.
-
-
-
-3. **Metakognisi & Regulasi Diri (*Metacognition - Flavell, 1979*):**  
-
-   Santri diajarkan "berpikir tentang cara berpikirnya sendiri" (*thinking about thinking*). Santri dilatih mendeteksi bias kognitif pribadinya (seperti *confirmation bias*, *ingroup bias*, dan emosi marah yang mencemari argumen).
-
-
-
----
-
-
-
-## 4. Matriks Operasional: Dekonstruksi Safsathah vs Tafakkur Qur'ani TUMBUH
-
-
-
-| Parameter Nalar | Pola Dogmatis Tertutup (Reduksi) | Pola Safsathah / Liberal (Penyimpangan) | Model Tafakkur Qur'ani (TUMBUH v2.0.0) | Buah Karakter Santri |
-
-| :--- | :--- | :--- | :--- | :--- |
-
-| **Sikap terhadap Pertanyaan Santri** | Menghardik dan mencap sesat santri yang bertanya dalil. | Mendewakan keraguan demi keraguan tanpa pernah mencari kepastian iman. | Menyambut pertanyaan kritis dengan lapang dada dan membedah dalil burhani bersama. | Keyakinan akidah yang kokoh di atas dalil (*Iman Burhani*). |
-
-| **Tujuan Berdiskusi / Debat** | Menuntut kepatuhan buta pada instruksi tanpa alasan. | Mengalahkan lawan bicara, pamer retorika, dan mempermalukan kawan. | Mencari kebenaran hakiki (*ishabatul haq*) di mana pun berada dengan kasih sayang. | Kerendahan hati (*tawadhu'*); siap menerima kebenaran meski dari adik kelas. |
-
-| **Pengenalan Falasi Logika** | Menggunakan falasi otoritas (*Appeal to Authority*) untuk membungkam santri. | Menggunakan sofisme relativisme (*"semua kebenaran itu relatif tergantung sudut pandang"*). | Mengajarkan taksonomi falasi logika agar santri kebal dari manipulasi hoaks. | Nalar yang jernih, kebal dari tipu daya pemikiran ekstrem dan propaganda. |
-
-| **Adab kepada Guru & Ulama Salaf** | Mengkultuskan guru sebagai sosok maksum tanpa cela. | Mencaci maki ulama salaf dan menganggap mereka orang bodoh masa lalu. | Memuliakan guru dan ulama salaf dengan takzim seraya menelaah hujjah mereka secara adil. | Menjaga keberkahan sanad seraya merawat kemerdekaan ijtihad yang terpandu. |
-
-
-
----
-
-
-
-## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
-
-
-
-```text
+   >
+>    إِنَّ شَرَّ الدَّوَابِّ عِندَ اللَّهِ الصُّمُّ الْبُكْمُ الَّذِينَ لَا يَعْقِلُونَ
+>
+>    ```  
+>
+>    > *"Sesungguhnya binatang (makhluk) yang seburuk-buruknya pada sisi Allah ialah; orang-orang yang pekak dan tuli yang tidak menggunakan akalnya!"* (QS. Al-Anfal: 22).  
+>
+>    Al-Qur'an menyamakan manusia yang menolak berpikir kritis dan menolak menggunakan akalnya dengan derajat binatang yang paling hina.
+>
+>
+>
+> 2. **Perintah Al-Qur'an Meminta Dalil dan Bukti Rasional (*Burhan*):**  
+>
+>
+>    قُلْ هَاتُوا بُرْهَانَكُمْ إِن كُنتُمْ صَادِقِينَ
+>
+>
+>    > *"Katakanlah: Tunjukkanlah bukti kebenaranmu jika kamu orang-orang yang benar!"* (QS. Al-Baqarah: 111).  
+>
+>    Ayat ini mengajarkan nalar kritis tingkat tinggi: klaim apa pun di alam semesta ini wajib diuji dengan bukti demonstratif yang nyata (*burhan*).
+>
+>
+>
+> 3. **Teladan Nabi Ibrahim 'Alaihissalam dalam Menuntut Kepuasan Akal:**  
+>
+>
+>    وَإِذْ قَالَ إِبْرَاهِيمُ رَبِّ أَرِنِي كَيْفَ تُحْيِي الْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِي
+>
+>
+>    > *"Dan (ingatlah) ketika Ibrahim berkata: 'Ya Tuhanku, perlihatkanlah kepadaku bagaimana Engkau menghidupkan orang-orang mati.' Allah berfirman: 'Belum yakinkah kamu?' Ibrahim menjawab: 'Aku telah meyakininya, akan tetapi agar hatiku tenang (mantap keyakinan akal dan jiwaku)'..."* (QS. Al-Baqarah: 260).  
+>
+>    Nabi Ibrahim tidak dimurkai Allah saat meminta pembuktian indrawi, melainkan diberi bukti nyata; ini adalah dalil syar'i bahwa bertanya demi kemantapan iman (*litho'ma'innata qalbiy*) adalah sifat para kekasih Allah.
+>
+>
+>
+> ---
+>
+>
+>
+> ## 3. Analisis Sains Kontemporer / Psikologi Kognitif / Teori Berpikir Kritis
+>
+>
+>
+> Sains kognitif modern dan psikologi pendidikan membuktikan bagaimana nalar kritis dapat berpadu harmonis dengan kebajikan moral:
+>
+>
+>
+> 1. **Taksonomi Kognitif Bloom Revisi (*Higher-Order Thinking Skills - HOTS*):**  
+>
+>    Pembelajaran pesantren konvensional sering kali mandek pada tingkat kognitif rendah: *Remembering* (menghafal matan) dan *Understanding* (memahami terjemahan). Nalar kritis sejati menuntut santri bergerak menuju HOTS: *Analyzing* (membedah premis argumen), *Evaluating* (menimbang dalil yang bertentangan secara adil), dan *Creating* (merumuskan solusi fikih kontemporer berbasis maqashid). Santri yang dilatih HOTS terbukti memiliki ketahanan iman yang jauh lebih tangguh menghadapi disrupsi zaman.
+>
+>
+>
+> 2. **Kerendahan Hati Intelektual (*Epistemic / Intellectual Humility - Leary et al., 2017*):**  
+>
+>    Riset psikologi kognitif membuktikan bahwa nalar kritis yang matang (*mature critical thinking*) tidak melahirkan arogansi, melainkan justru melahirkan **Intellectual Humility**: kesadaran mendalam bahwa akal manusia memiliki batas, bahwa pengetahuannya sangat sedikit, dan bahwa dirinya selalu berpotensi salah (*fallibilism*). Santri yang berpikir kritis secara beradab akan semakin tawadhu' dan semakin menghormati gurunya, karena ia menyadari betapa luasnya samudra ilmu yang belum ia ketahui.
+>
+>
+>
+> 3. **Metakognisi & Regulasi Diri (*Metacognition - Flavell, 1979*):**  
+>
+>    Santri diajarkan "berpikir tentang cara berpikirnya sendiri" (*thinking about thinking*). Santri dilatih mendeteksi bias kognitif pribadinya (seperti *confirmation bias*, *ingroup bias*, dan emosi marah yang mencemari argumen).
+>
+>
+>
+> ---
+>
+>
+>
+> ## 4. Matriks Operasional: Dekonstruksi Safsathah vs Tafakkur Qur'ani TUMBUH
+>
+>
+>
+> | Parameter Nalar | Pola Dogmatis Tertutup (Reduksi) | Pola Safsathah / Liberal (Penyimpangan) | Model Tafakkur Qur'ani (TUMBUH v2.0.0) | Buah Karakter Santri |
+>
+> | :--- | :--- | :--- | :--- | :--- |
+>
+> | **Sikap terhadap Pertanyaan Santri** | Menghardik dan mencap sesat santri yang bertanya dalil. | Mendewakan keraguan demi keraguan tanpa pernah mencari kepastian iman. | Menyambut pertanyaan kritis dengan lapang dada dan membedah dalil burhani bersama. | Keyakinan akidah yang kokoh di atas dalil (*Iman Burhani*). |
+>
+> | **Tujuan Berdiskusi / Debat** | Menuntut kepatuhan buta pada instruksi tanpa alasan. | Mengalahkan lawan bicara, pamer retorika, dan mempermalukan kawan. | Mencari kebenaran hakiki (*ishabatul haq*) di mana pun berada dengan kasih sayang. | Kerendahan hati (*tawadhu'*); siap menerima kebenaran meski dari adik kelas. |
+>
+> | **Pengenalan Falasi Logika** | Menggunakan falasi otoritas (*Appeal to Authority*) untuk membungkam santri. | Menggunakan sofisme relativisme (*"semua kebenaran itu relatif tergantung sudut pandang"*). | Mengajarkan taksonomi falasi logika agar santri kebal dari manipulasi hoaks. | Nalar yang jernih, kebal dari tipu daya pemikiran ekstrem dan propaganda. |
+>
+> | **Adab kepada Guru & Ulama Salaf** | Mengkultuskan guru sebagai sosok maksum tanpa cela. | Mencaci maki ulama salaf dan menganggap mereka orang bodoh masa lalu. | Memuliakan guru dan ulama salaf dengan takzim seraya menelaah hujjah mereka secara adil. | Menjaga keberkahan sanad seraya merawat kemerdekaan ijtihad yang terpandu. |
+>
+>
+>
+> ---
+>
+>
+>
+> ## 5. Dialektika Penyelidikan: Tesis, Antitesis, & Sintesis
+>
+>
+>text
 
        [ TESIS: OBSKURANTISME FIKIR ]
 
@@ -352,11 +346,7 @@ Tradisi dialog kritis beradab telah mengakar kuat dalam karya-karya adab penuntu
 
    Mencatat atsar agung mengenai etika bertanya:
 
-   ```arabic
-
-   قَالَ ابْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: قِيلَ لِي: بِمَ أَدْرَكْتَ الْعِلْمَ؟ قَالَ: «بِلِسَانٍ سَئُولٍ، وَقَلْبٍ عَقُولٍ»
-
-   ```  
+   > قَالَ ابْنُ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا: قِيلَ لِي: بِمَ أَدْرَكْتَ الْعِلْمَ؟ قَالَ: «بِلِسَانٍ سَئُولٍ، وَقَلْبٍ عَقُولٍ»
 
    > *Ibnu Abbas radhiyallahu 'anhuma ditanya: "Dengan apa engkau meraih ilmu yang agung ini?" Beliau menjawab: "Dengan lisan yang gemar bertanya (kritis), dan dengan kalbu yang cerdas memahami (berakal)!"* (*Jami' Bayan Al-'Ilm*, Jilid I, Bab Thalab al-'Ilm).  
 
@@ -368,11 +358,7 @@ Tradisi dialog kritis beradab telah mengakar kuat dalam karya-karya adab penuntu
 
    Menegaskan kaidah berdiskusi ilmiah:
 
-   ```arabic
-
-   الْمُذَاكَرَةُ وَالْمُنَاظَرَةُ تَشَاوُرٌ، وَالتَّشَاوُرُ إِنَّمَا يَكُونُ لِاسْتِخْرَاجِ الصَّوَابِ، وَذَلِكَ إِنَّمَا يَحْصُلُ بِالتَّأَمُّلِ وَالتَّأَنِّي وَالْإِنْصَافِ، لَا بِالْغَضَبِ وَالْعُنْفِ
-
-   ```  
+   > الْمُذَاكَرَةُ وَالْمُنَاظَرَةُ تَشَاوُرٌ، وَالتَّشَاوُرُ إِنَّمَا يَكُونُ لِاسْتِخْرَاجِ الصَّوَابِ، وَذَلِكَ إِنَّمَا يَحْصُلُ بِالتَّأَمُّلِ وَالتَّأَنِّي وَالْإِنْصَافِ، لَا بِالْغَضَبِ وَالْعُنْفِ
 
    > *"Mudzakarah (diskusi) dan munazharah (debat ilmiah) adalah bentuk musyawarah; dan musyawarah itu semata-mata bertujuan untuk mengeluarkan kebenaran. Dan hal itu hanya bisa diraih melalui perenungan mendalam, ketenangan, dan sikap obyektif adil (inshaf), bukan dengan kemarahan dan kekerasan!"*
 
@@ -382,11 +368,7 @@ Tradisi dialog kritis beradab telah mengakar kuat dalam karya-karya adab penuntu
 
    Ucapan beliau yang abadi:
 
-   ```arabic
-
-   رَأْيِي صَوَابٌ يَحْتَمِلُ الْخَطَأَ، وَرَأْيُ غَيْرِي خَطَأٌ يَحْتَمِلُ الصَّوَابَ. وَمَا نَاظَرْتُ أَحَدًا إِلَّا وَدِدْتُ أَنْ يُظْهِرَ اللَّهُ الْحَقَّ عَلَى لِسَانِهِ
-
-   ```  
+   > رَأْيِي صَوَابٌ يَحْتَمِلُ الْخَطَأَ، وَرَأْيُ غَيْرِي خَطَأٌ يَحْتَمِلُ الصَّوَابَ. وَمَا نَاظَرْتُ أَحَدًا إِلَّا وَدِدْتُ أَنْ يُظْهِرَ اللَّهُ الْحَقَّ عَلَى لِسَانِهِ
 
    > *"Pendapatku benar namun memiliki kemungkinan salah; dan pendapat selainku salah namun memiliki kemungkinan benar. Dan tidaklah aku berdebat dengan seseorang melainkan aku sangat berharap agar Allah menampakkan kebenaran itu melalui lisannya!"*
 
