@@ -688,6 +688,7 @@ Format ini memadukan **rigoritas metodologi artikel jurnal ilmiah internasional*
    - **Sub-bab Turats**: dalil syar'i primer dengan **teks Arab berharakat lengkap**, rawi, derajat hadits, syarah ulama mu'tabar, serta dimensi maqashid dan kaidah ushul yang relevan.
    - **Sub-bab Sains & Literatur Modern**: literatur terkurasi dari `REFERENCES/` — nama peneliti otoritatif, metodologi, dan temuan kunci (mekanisme kognitif/neurobiologis, teori sistem, dan sebagainya).
    - **Aturan kutipan**: kutipan yang disajikan sebagai teks asli wajib verbatim dan terverifikasi pada sumbernya. Ringkasan atau parafrase wajib ditandai sebagai parafrase dan tidak boleh diberi penanda halaman seolah kutipan hurufiah.
+   - **Penulisan Arab tidak dicampur** (arahan Wandi, 15 November 2026; gaya baku mengikuti P00001): setiap kutipan berbahasa Arab ditulis dalam blok tersendiri (fenced code block ```arabic) pada barisnya sendiri, tidak disisipkan di dalam kalimat berbahasa Indonesia; terjemahannya mengikuti tepat di bawah blok dalam huruf miring beserta keterangan sumbernya.
 4. **Metode**:
    - Menjelaskan cara sumber dicari dan dipilih: kriteria inklusi turats (kitab mu'tabar, takhrij dapat diverifikasi) dan literatur modern (reputasi, relevansi langsung dengan pertanyaan), jenis bukti yang dipakai, dan batas metode. Bab ini membuat inkuiri dapat dinilai dan diulang — syarat artikel review sistematis.
 5. **Hasil dan Pembahasan**:

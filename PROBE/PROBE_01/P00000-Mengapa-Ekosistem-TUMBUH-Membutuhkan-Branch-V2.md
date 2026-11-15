@@ -22,9 +22,24 @@ Menghadapi krisis ini ada dua jebakan metodologis: *clean-slate fallacy* (mengha
 
 ### 3.1. Khazanah turats
 
-Rasulullah ﷺ bersabda: «إِنَّ اللَّهَ يَبْعَثُ لِهَذِهِ الْأُمَّةِ عَلَى رَأْسِ كُلِّ مِائَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دِينَهَا» — "Sesungguhnya Allah membangkitkan untuk umat ini pada setiap penghujung seratus tahun orang yang memperbarui urusan agamanya" (HR. Abu Dawud No. 4291; dishahihkan Al-Hakim dan disepakati Adz-Dzahabi). Al-Munawi dalam *Faidh al-Qadir* menegaskan hakikat tajdid: menghidupkan kembali pengamalan Kitab dan Sunnah yang pudar — **bukan mengganti kaidah pokok agama, melainkan menata ulang sarana (wasail) demi mewujudkan maqashid**. Branch V2 berada persis pada pengertian ini: hakikat dan prinsip tidak diubah; struktur sarana operasionalnya yang dirombak.
+Rasulullah ﷺ bersabda:
 
-Dua kaidah ushul membingkai dialektika persoalan ini. Kaidah istishhab — «الْأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ» (As-Suyuthi, *Al-Asybah wan-Nazha'ir*) — menetapkan kontinuitas sebagai hukum asal. Kaidah taghayyur — «لَا يُنْكَرُ تَغَيُّرُ الْأَحْكَامِ الِاجْتِهَادِيَّةِ بِتَغَيُّرِ الْأَزْمَانِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ» (Ibnu Qayyim, *I'lam al-Muwaqqi'in*) — mengakui perubahan hukum ijtihadiyah mengikuti zaman, tempat, dan keadaan. Al-Qarafi dalam *Al-Furuq* memperingatkan bahwa kebekuan (*jumud*) pada teks fatwa masa lalu adalah kesesatan dan kebodohan terhadap maksud para ulama; bila realitas kebiasaan berganti, wajib disusun hukum sarana baru **tanpa merobohkan asas kulliyyah**. Tata kelola V1 adalah sarana ijtihadiyah perintisan; menyusun arsitektur baru ketika repositori membesar adalah tuntutan kaidah ini.
+```arabic
+إِنَّ اللَّهَ يَبْعَثُ لِهَذِهِ الْأُمَّةِ عَلَى رَأْسِ كُلِّ مِائَةِ سَنَةٍ مَنْ يُجَدِّدُ لَهَا دِينَهَا
+```
+*("Sesungguhnya Allah membangkitkan untuk umat ini pada setiap penghujung seratus tahun orang yang memperbarui urusan agamanya")* — HR. Abu Dawud No. 4291; dishahihkan Al-Hakim dan disepakati Adz-Dzahabi. Al-Munawi dalam *Faidh al-Qadir* menegaskan hakikat tajdid: menghidupkan kembali pengamalan Kitab dan Sunnah yang pudar — **bukan mengganti kaidah pokok agama, melainkan menata ulang sarana (wasail) demi mewujudkan maqashid**. Branch V2 berada persis pada pengertian ini: hakikat dan prinsip tidak diubah; struktur sarana operasionalnya yang dirombak.
+
+Dua kaidah ushul membingkai dialektika persoalan ini. Kaidah istishhab (As-Suyuthi, *Al-Asybah wan-Nazha'ir*) menetapkan kontinuitas sebagai hukum asal:
+
+```arabic
+الْأَصْلُ بَقَاءُ مَا كَانَ عَلَى مَا كَانَ حَتَّى يَثْبُتَ مَا يُغَيِّرُهُ
+```
+
+Kaidah taghayyur (Ibnu Qayyim, *I'lam al-Muwaqqi'in*) mengakui perubahan hukum ijtihadiyah mengikuti zaman, tempat, dan keadaan:
+
+```arabic
+لَا يُنْكَرُ تَغَيُّرُ الْأَحْكَامِ الِاجْتِهَادِيَّةِ بِتَغَيُّرِ الْأَزْمَانِ وَالْأَمْكِنَةِ وَالْأَحْوَالِ
+``` Al-Qarafi dalam *Al-Furuq* memperingatkan bahwa kebekuan (*jumud*) pada teks fatwa masa lalu adalah kesesatan dan kebodohan terhadap maksud para ulama; bila realitas kebiasaan berganti, wajib disusun hukum sarana baru **tanpa merobohkan asas kulliyyah**. Tata kelola V1 adalah sarana ijtihadiyah perintisan; menyusun arsitektur baru ketika repositori membesar adalah tuntutan kaidah ini.
 
 Preseden metodologis paling otentik adalah ijtihad Imam Asy-Syafi'i: *Qaul Qadim* di Baghdad digantikan *Qaul Jadid* di Mesir setelah beliau menjumpai realitas dan verifikasi dalil baru. An-Nawawi dalam *Al-Majmu'* mencatat bahwa Asy-Syafi'i tidak memusnahkan naskah Qaul Qadim; naskah itu tetap diakui sebagai fase keilmuan yang sah dan diriwayatkan murid-muridnya dengan sanad bersambung, sementara implementasi resmi berpindah ke Qaul Jadid. Pola ini sejajar dengan keputusan TUMBUH: branch `main` (V1) dihormati dan diarsipkan; branch `v2.0.0` memegang kedaulatan implementasi ke depan. (Batas analogi ini diakui pada sub-bab Keberatan.)
 
@@ -59,7 +74,12 @@ Keempat kasus dan angka audit di atas menunjukkan persoalan V1 bersifat **strukt
 
 Dua kutub ekstrem membingkai persoalan ini. **Konservatisme romantis** menyucikan teks sarana warisan perintis; kehati-hatian berubah menjadi pemujaan formalitas, dan perombakan arsitektur dituduh pembangkangan. Kelemahan fatalnya adalah kerancuan maqashid dan wasa'il: dokumen perintisan adalah ijtihad sarana, bukan wahyu; membela sarana yang terbukti menimbulkan kezaliman bertentangan dengan maqashid syariah itu sendiri. **Teknokrasi reduksionis** menuntut penghapusan total tradisi dan menggantinya dengan template manajemen kuantitatif; kelemahan fatalnya adalah keterputusan ontologis dari akar tauhid — pendidikan pesantren adalah ta'dib atas jiwa berfitrah, bukan manufaktur.
 
-Sintesisnya dirumuskan dalam kaidah: «مَنْ تَمَسَّكَ بِالْأَصْلِ وَلَمْ يُجَدِّدِ الْوَسِيلَةَ جَمَدَ، وَمَنْ جَدَّدَ الْوَسِيلَةَ وَضَيَّعَ الْأَصْلَ فَسَدَ» — siapa berpegang pada prinsip pokok tanpa memperbarui sarana akan membeku; siapa memperbarui sarana sambil menyia-nyiakan prinsip pokok akan rusak. Konkretnya: nilai fitrah, tauhid, dan adab nabawi dari V1 dipelihara utuh sebagai *hard core* dan riwayatnya diabadikan di `99_ARCHIVE/`; kerangka klasifikasi, eliminasi sanksi fisik, stratifikasi lapisan, dan penomoran kanonik dieksekusi radikal di branch V2. Mekanisme yang memungkinkan keduanya berjalan sekaligus adalah sifat branch itu sendiri: sebuah **ruang isolasi epistemik** tempat restrukturisasi diuji tanpa mengganggu operasional yang masih berjalan di baseline lama.
+Sintesisnya dirumuskan dalam kaidah:
+
+```arabic
+مَنْ تَمَسَّكَ بِالْأَصْلِ وَلَمْ يُجَدِّدِ الْوَسِيلَةَ جَمَدَ، وَمَنْ جَدَّدَ الْوَسِيلَةَ وَضَيَّعَ الْأَصْلَ فَسَدَ
+```
+*(Siapa berpegang pada prinsip pokok tanpa memperbarui sarana akan membeku; siapa memperbarui sarana sambil menyia-nyiakan prinsip pokok akan rusak.)* Konkretnya: nilai fitrah, tauhid, dan adab nabawi dari V1 dipelihara utuh sebagai *hard core* dan riwayatnya diabadikan di `99_ARCHIVE/`; kerangka klasifikasi, eliminasi sanksi fisik, stratifikasi lapisan, dan penomoran kanonik dieksekusi radikal di branch V2. Mekanisme yang memungkinkan keduanya berjalan sekaligus adalah sifat branch itu sendiri: sebuah **ruang isolasi epistemik** tempat restrukturisasi diuji tanpa mengganggu operasional yang masih berjalan di baseline lama.
 
 | Parameter | V1 | V2.0.0 |
 |---|---|---|
