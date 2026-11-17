@@ -1,7 +1,5 @@
 # P00004 — Batas Toleransi Backward Compatibility: Kapan Struktur Lama Wajib Dilepaskan Demi Keselamatan Sistem Baru
 
-**Versi revisi struktur artikel jurnal 7 bab** (keputusan Wandi, 15 November 2026; lihat `../STRUKTUR-BAB-REVISI-USULAN.md` dan skill `pakar-probe-inquiry-tumbuh` Bagian 27.1). Sesuai aturan genre jurnal — bukan buku arahan — ADR formal, protokol pelepasan struktur lama, dan daftar guardrails **tidak lagi menjadi bab artikel**; ketiganya adalah dokumen repositori yang disusun dari kesimpulan artikel ini dan diringkas pada Bab 6. Daftar pustaka hanya memuat karya yang benar-benar disitir. Versi 13 bab sebelumnya tersimpan pada riwayat Git berkas ini.
-
 - **ID Inkuiri**: `PROBE_01_P00004`
 - **Klaster**: PROBE_01 — Landasan Filosofis Fondasi TUMBUH; Pilar 1 (Eksistensi, Silsilah, & Hakikat Branch v2.0.0)
 - **Keputusan terkait**: ADR-PROBE-0004 (ditetapkan 2026-10-25) — keputusan tata kelola yang berlaku sampai digantikan ADR baru bila temuan berikutnya menuntutnya

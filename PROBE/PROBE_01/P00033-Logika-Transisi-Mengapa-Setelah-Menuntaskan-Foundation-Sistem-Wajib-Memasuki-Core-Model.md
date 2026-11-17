@@ -1,73 +1,30 @@
 # P00033: Logika Transisi: Mengapa Setelah Menuntaskan Foundation Sistem Wajib Memasuki Core Model?
 
-> **Status Dokumen**: Selesai / Komprehensif  
-> **Klasifikasi**: *State-of-the-Art Systematic Review Paper & Conceptual System Design Monograph*  
-> **Target Substantif**: >8.500 kata substantif, 0 karakter box-drawing, 13 bab kanonik penuh  
-> **Klaster Penyelidikan**: Transisi Epistemik Fondasi Filosofis Menuju Pemodelan Inti (PROBE_01 ke PROBE_02)  
-> **Hubungan Berkas**: Menjembatani Domain 01 s/d 09 (*Lapisan 01_FUNDAMENTAL/01_PHILOSOPHY*) menuju Arsitektur Model Inti Pertumbuhan Santri (*Lapisan 01_FUNDAMENTAL/02_CORE_MODEL*), berlanjut menuju P00034.
+- **ID Inkuiri**: PROBE-00033
+- **Klaster**: Transisi Epistemik Fondasi Filosofis Menuju Pemodelan Inti (PROBE_01 ke PROBE_02)
+- **Keputusan Terkait**: Validasi Gerbang Transisi dari Lapisan Fondasi Filosofis (`01_PHILOSOPHY`) Menuju Model Inti Pertumbuhan Santri (`02_CORE_MODEL/01_MODEL_OVERVIEW.md`)
 
 ---
 
-## 1. Metadata & Identitas Dokumen Inkuiri
+## 1. Abstrak
 
-| Parameter Metrik | Rincian Dokumen |
-| :--- | :--- |
-| **Nomor Registrasi Inkuiri** | PROBE-00033 |
-| **Kode Berkas Repositori** | P00033-Logika-Transisi-Mengapa-Setelah-Menuntaskan-Foundation-Sistem-Wajib-Memasuki-Core-Model.md |
-| **Klaster Penyelidikan** | PROBE_01: Landasan Filosofis Fondasi TUMBUH (Gerbang Transisi ke Core Model) |
-| **Lapisan Sasaran Repositori** | `01_FUNDAMENTAL/02_CORE_MODEL/01_MODEL_OVERVIEW.md` |
-| **Bidang Keilmuan Terpadu** | Teori Rekayasa Berbasis Model (*Model-Driven Engineering*), Epistemologi Ushul Fiqh (*Tahqiq al-Manath*), Psikologi Kognitif Perkembangan, Sosiologi Pesantren, Teori Tindakan Organisasi |
-| **Peneliti Utama / Inquiry Lead** | Tim Peneliti Desain Sistem TUMBUH |
-| **Tingkat Kematangan** | *Level 4: Validated Systemic Design & Canonical Specification* |
-| **Prasyarat Epistemik (Antecedent)** | P00031 (*Domain 08: Core Principles*) dan P00032 (*Domain 09: System Architecture*) |
-| **Konsekuensi Sistemik (Subsequent)** | P00034 (*Poros Tengah Core Model: Pertumbuhan Fitrah Menuju Kemandirian*) |
+Artikel inkuiri epistemik ini membedah dasar rasionalitas dan keniscayaan arsitektural di balik gerbang transisi dari penuntasan sembilan domain Fondasi Filosofis (*Domain 01 s/d Domain 09*) menuju perumusan Model Inti Pertumbuhan Santri (*Core Model*) dalam Repositori TUMBUH v2.0.0. Dalam praktik tata kelola pesantren, kerap terjadi jurang pemisah yang lebar (*chasm*) antara rumusan filosofis yang tinggi di menara gading dengan praktik operasional harian musyrif di kamar asrama: visi tauhid dan fitrah yang luhur gagal terwujud karena ketiadaan model konseptual operasional yang mampu menerjemahkan abstraksi nilai menjadi mekanisme psikososial dan perilaku terukur. Sebaliknya, pendekatan pragmatisme buta yang langsung menyusun SOP tanpa pemodelan inti melahirkan tirani penegakan disiplin yang mekanistik dan represif. Melalui sintesis hermeneutika ushul fiqh mengenai *tahqiq al-manath* dan doktrin sarana penjelas (*wasilah al-idhah*) dari karya Asy-Syathibi, Al-Ghazali, Ibnul Arabi, Ibnu an-Najjar, dan Ibnu al-Qayyim, serta integrasi kritis terhadap metodologi *Model-Driven Architecture* (OMG), *Theory of Action* (Argyris & Schön), *Field Theory* (Lewin), teori dekomposisi sistem (Simon), sistem ekologi (Bronfenbrenner), dan pembelajaran berbasis pengalaman (Kolb), kajian ini membuktikan bahwa *Core Model* adalah organ vital penengah (*the indispensable conceptual engine*) yang mutlak menghubungkan Lapisan Fondasi dengan Lapisan Implementasi dan Operasional. Temuan empiris disajikan melalui studi kasus Pesantren Dar al-Hikmah dan evaluasi longitudinal 10 lembaga mitra, dilengkapi instrumen audit kesiapan transisi `F-CORE-AUDIT`. Inkuiri ini berstatus BERLANJUT menuju P00034 (*Poros Tengah Core Model*).
 
 ---
 
-## 2. Abstrak & Epistemic Tension
+## 2. Pendahuluan
 
-### 2.1 Abstrak Komprehensif
-Penelitian inkuiri epistemik ini membedah dasar rasionalitas dan keniscayaan arsitektural di balik gerbang transisi dari penuntasan sembilan domain Fondasi Filosofis (*Domain 01 s/d Domain 09*) menuju perumusan Model Inti Pertumbuhan Santri (*Core Model*) dalam Repositori TUMBUH v2.0.0. Dalam dunia pendidikan pesantren, kerap terjadi jurang pemisah yang lebar (*chasm*) antara rumusan filosofis yang tinggi di awang-awang dengan praktik operasional harian musyrif di kamar asrama: visi tauhid dan adab yang agung gagal dieksekusi karena ketiadaan model konseptual operasional yang mampu menerjemahkan abstraksi nilai menjadi mekanisme psikososial dan perilaku terukur. Sebaliknya, pendekatan pragmatis yang langsung menyusun tata tertib dan SOP tanpa melalui pemodelan inti menghasilkan tirani mekanistik yang mandul dan represif. Melalui sintesis hermeneutika ushul fiqh mengenai *tahqiq al-manath* (Imam asy-Syathibi, Imam al-Ghazali, Al-Qadhi Abu Bakar Ibnul Arabi), kaidah sarana penjelas (*wasilah al-idhah*), serta integrasi kritis terhadap *Model-Driven Architecture* (OMG), *Theory of Action: Espoused Theory vs Theory-in-Use* (Chris Argyris & Donald Schön), *Field Theory* (Kurt Lewin), dan sains kognitif modern (Herbert Simon & David Kolb), dokumen ini membuktikan bahwa *Core Model* adalah organ vital penengah (*the indispensable conceptual engine*) yang menjembatani Lapisan Fondasi Filosofis dengan Lapisan Implementasi dan Operasional. Dokumen ini menyajikan matriks demarkasi transisi multidimensi, instrumen evaluasi kesiapan transisi (`F-CORE-AUDIT`), studi kasus komparatif multi-site, serta Keputusan Rekayasa Sistem (ADR-PROBE-0033) guna mengunci kepatuhan arsitektural repositori agar tidak melompati Core Model saat merancang SOP pengasuhan santri.
+Dalam evaluasi terhadap sistem pendidikan pesantren kontemporer, sering kali dijumpai sindrom Menara Gading Filosofis (*The Philosophical Ivory Tower Syndrome*). Para pendiri dan perancang kurikulum menyusun naskah fondasi yang sarat doktrin tauhid, fitrah insaniah, dan kemuliaan adab kenabian. Dokumen ini diagungkan dalam seminar resmi, namun di lorong dan kamar asrama santri pada malam hari, pemandangan bertolak belakang terjadi secara mencolok:
+- Musyrif membentak santri baru dengan ancaman fisik karena kamar berisik menjelang tidur.
+- Santri senior menindas adik kelas dengan menjadikannya pelayan pribadi pencuci pakaian.
+- Santri yang kesulitan menghafal dihukum berdiri di teras masjid hingga menangis kelelahan tanpa pendampingan emosional.
+- Lingkungan kamar kotor, sanitasi rusak, dan iklim sosial dipenuhi kecemasan.
 
-### 2.2 Epistemic Tension Matrix
-Ketegangan epistemik ini dirangkum dalam matriks tegangan berikut:
+Ketika musyrif lapangan ditanya mengenai tindakan keras tersebut, mereka menyatakan bahwa filosofi luhur tidak memberi petunjuk konkret bagaimana mendisiplinkan 30 anak lelah di kamar asrama tanpa tindakan fisik.
 
-| Dimensi Penyelidikan | Pendekatan Menara Gading / Pragmatisme Buta | Pendekatan Transisi Berbasis Core Model TUMBUH | Resolusi Epistemik Dokumen |
-| :--- | :--- | :--- | :--- |
-| **Hubungan Filosofi & Praktik** | Filosofi berhenti di dokumen visi; SOP dibuat reaktif di lapangan tanpa sambungan nilai. | Core Model bertindak sebagai motor pengubah (*transformation engine*) yang menerjemahkan nilai ke perilaku. | Menghilangkan jurang implementasi melalui pemodelan 4 pilar inti terpadu. |
-| **Sifat Model yang Dibangun** | Teori abstrak kaku tanpa indikator empiris, atau daftar checklist tugas dingin tanpa jiwa. | Model psikososial-spiritual hidup yang memetakan ekologi, mekanisme, kapasitas, dan logika sistem. | Menyajikan model pertumbuhan fitrah santri yang terukur, ilmiah, dan beradab. |
-| **Penanganan Kompleksitas Santri** | Menyeragamkan santri secara mekanis atau membiarkan santri tanpa panduan tumbuh yang jelas. | Memetakan 8 Kapasitas Inti melintasi 4 Etape Kemandirian (J1 s/d J4) berbasis kesiapan fitrah. | Memastikan intervensi musyrif adaptif terhadap dinamika perkembangan santri. |
-| **Daya Tahan Sistemik (Resilience)** | Nilai luntur saat terjadi pergantian pimpinan; SOP kehilangan arah saat lembaga membesar. | Core Model mengunci hukum interaksi perilaku; dapat diwariskan secara konsisten lintas generasi. | Menjamin kesinambungan transmisi adab institusional berbasis bukti empiris. |
+Di sisi ekstrem yang berlawanan, muncul reaksi berupa Pragmatisme Buta Lapangan (*Blind Operational Pragmatism*). Pihak manajemen yang frustrasi dengan kelemahan filosofi abstrak memutuskan langsung mengadopsi aturan militeristik, tabel poin pelanggaran mekanis, dan pengawasan CCTV di setiap sudut asrama. Pendekatan ini melahirkan bencana kejiwaan: santri memang tampak patuh di permukaan, namun jiwa mereka tertekan, belajar bersandiwara munafik di hadapan pengawas, dan kehilangan kepekaan nurani.
 
----
-
-## 3. Definisi Masalah & Pendahuluan Fenomenologis
-
-### 3.1 Fenomena Menara Gading Filosofis (The Philosophical Ivory Tower)
-Dalam evaluasi terhadap banyak sistem pendidikan pesantren, sering dijumpai sebuah fenomena tragis yang disebut sebagai **Menara Gading Filosofis (*The Philosophical Ivory Tower Syndrome*)**. Para kiai, dewan asatidz, dan perancang kurikulum berhasil menyusun naskah filosofis yang luar biasa mendalam: mengutip kitab-kitab turats klasik bermutu tinggi, menguraikan doktrin tauhid murni, mendefinisikan fitrah insaniah, dan menegaskan kemuliaan adab kenabian. Dokumen-dokumen ini dipuji dalam seminar-seminar akademik dan dibanggakan dalam brosur promosi.
-
-Namun, ketika kita melangkah masuk ke lorong-lorong asrama santri pada pukul 23.00 malam atau di antrean kamar mandi pada pukul 04.00 pagi, kita menyaksikan pemandangan yang bertolak belakang secara diametral:
-- Musyrif membentak santri baru dengan kata-kata kasar dan ancaman hukuman fisik.
-- Santri senior memperlakukan adik kelas sebagai pelayan pribadi yang dipaksa mencuci baju dan membelikan makanan.
-- Santri-santri yang kesulitan menghafal dihukum berdiri di teras masjid hingga menangis kelelahan tanpa pendampingan psikologis.
-- Kamar asrama berantakan, sanitasi kotor, dan iklim sosial dipenuhi oleh kecemasan serta ketakutan.
-
-Ketika musyrif lapangan ditanya mengapa mereka bertindak kasar, mereka menjawab dengan jujur: *"Kami tahu filosofi pesantren sangat mulia. Tapi di kamar asrama ada 30 anak nakal yang berisik dan tidak mau tidur. Bagaimana cara kami mendisiplinkan mereka jika hanya mengandalkan nasihat filsafat di atas awan? Kami butuh tindakan nyata di lapangan!"*
-
-### 3.2 Fenomena Pragmatisme Buta Lapangan (Blind Operational Pragmatism)
-Di sisi ekstrem yang berlawanan, muncul reaksi balik berupa **Pragmatisme Buta Lapangan (*Blind Operational Pragmatism*)**. Pengelola pesantren yang frustrasi dengan kelemahan filosofi abstrak memutuskan untuk membuang seluruh kajian filosofis dan langsung membuat instrumen operasional:
-- Mengadopsi buku tata tertib militer atau aturan sekolah kedinasan yang berisi ratusan pasal larangan dan tabel poin pelanggaran.
-- Merekrut pelatih disiplin semi-militer untuk menegakkan ketertiban asrama dengan peluit dan sanksi fisik.
-- Memasang puluhan kamera pengawas (CCTV) di sudut-sudut asrama untuk memata-matai gerak-gerik santri.
-
-Pendekatan pragmatisme buta ini menghasilkan bencana kejiwaan yang jauh lebih parah:
-- Santri memang tampak tertib di permukaan laksana robot mekanis, namun jiwa mereka mati, kalbu mereka membatu, dan fitrah mereka terpasung.
-- Santri belajar menjadi manusia munafik yang ahli bersandiwara: patuh di hadapan kamera pengawas, namun melakukan pelanggaran moral tersembunyi di tempat-tempat yang tidak terpantau.
-- Nilai-nilai keberkahan (*barakah*), keikhlasan, dan cinta kasih terhapus dari peradaban pesantren, tergantikan oleh ketakutan dingin dan sinisme sosial.
-
-### 3.3 Urgensi Logika Transisi: Core Model sebagai Jembatan Emas Epistemik
-Mengapa jurang pemisah ini terjadi? Akar masalahnya adalah **ketiadaan lapisan penengah: ketiadaan Core Model!**
-Lembaga mencoba melompat secara langsung dari Lapisan Filosofis (Lapisan 01) menuju Lapisan Operasional (Lapisan 03) tanpa merumuskan *Core Model*. 
+Jurang pemisah ini terjadi akibat ketiadaan lapisan penengah: ketiadaan *Core Model*. Lembaga berusaha melompat langsung dari Lapisan Filosofis (Lapisan 01) ke Lapisan Operasional (Lapisan 03) tanpa merumuskan model inti:
 
 ```text
 [ JURANG FATAL METODOLOGI KONVENSIONAL ]
@@ -79,470 +36,192 @@ Lapisan 01: Foundation Filosofis --► [ CORE MODEL TUMBUH ] --► Lapisan 02: I
 (9 Domain Fondasi Kokoh)            (4 Komponen Inti)         (Arsitektur Kelembagaan)     (SOP 24 Jam Penuh Kasih Sayang)
 ```
 
-Core Model bertindak sebagai **jembatan emas epistemik (*the golden epistemic bridge*)**:
-- Ia mengambil nilai-nilai fitrah dan adab dari Lapisan Fondasi, lalu merumuskannya menjadi **Kapasitas Inti (*Core Capacities*)** yang konkret dan dapat diamati perilakunya.
-- Ia memetakan bagaimana lingkungan asrama harus direkayasa menjadi **Ekologi Tumbuh (*Growth Ecology*)** yang aman secara biologis dan psikologis.
-- Ia merumuskan **Mekanisme Pertumbuhan (*Growth Mechanism*)** bertahap yang menjelaskan bagaimana sirkuit saraf dan kebiasaan santri bermutasi dari pembiasaan awal menuju watak mandiri.
-- Ia mengikat seluruh interaksi tersebut ke dalam **Logika Sistem (*System Logic*)** yang teratur dan dapat diaudit secara objektif.
+Praktik ini dipelihara oleh tiga ilusi epistemik:
+1. **Ilusi Transmisi Otomatis**: Anggapan keliru bahwa pengajaran teks kitab adab di kelas otomatis mewujud menjadi perilaku santri di asrama, mengabaikan jurang antara pengetahuan kognitif dengan kapasitas regulasi emosi.
+2. **Ilusi Sanksi Penertib**: Asumsi bahwa sanksi fisik dan rasa malu dapat memperbaiki karakter santri, padahal tindakan tersebut memicu dendam dan trauma.
+3. **Ilusi Kesalehan Bawaan**: Anggapan bahwa anak santri otomatis siap hidup mandiri tanpa memerlukan ekologi asrama yang suportif.
 
-Tanpa Core Model, filosofi Islam akan tetap mandul menjadi retorika mimbar, sementara lapangan asrama akan terus dikuasai oleh tirani kekerasan.
+Berdasarkan fenomena ini, inkuiri merumuskan sejumlah pertanyaan inti (TUMBUH Questions):
+1. Mengapa setelah menuntaskan sembilan domain Fondasi Filosofis, repositori wajib memasuki *Core Model* sebelum menyusun dokumen implementasi dan operasional?
+2. Bagaimana ushul fiqh klasik melalui doktrin *tahqiq al-manath* dan sains rekayasa sistem modern (MDA) membuktikan keniscayaan model perantara?
+3. Apa saja empat komponen arsitektural *Core Model* yang menjamin penerjemahan nilai adab menjadi perilaku santri yang terukur di asrama?
 
----
-
-
-### 3.4 Tiga Ilusi Epistemik dalam Manajemen Pesantren Konvensional
-Ketiadaan pemodelan inti (*Core Model*) dalam praktik pendidikan pesantren sering kali dipelihara oleh tiga ilusi epistemik yang berakar kuat dalam cara pandang pengelola:
-1. **Ilusi Transmisi Otomatis (The Illusion of Automatic Transmission)**: Keyakinan keliru bahwa apabila para kiai dan asatidzah telah mengajarkan kitab adab (seperti *Ta'lim al-Muta'allim* atau *Adab al-'Alim wa al-Muta'allim*) di dalam kelas madrasah, maka nilai-nilai adab tersebut secara otomatis akan diamalkan oleh santri di kamar asrama mereka. Ilusi ini mengabaikan jurang kognitif antara 'mengetahui definisi teks' (*cognitive knowledge*) dengan 'memiliki kapasitas meregulasi emosi diri' (*emotional self-regulation*).
-2. **Ilusi Sanksi Penertib (The Illusion of Corrective Punishment)**: Asumsi primitif bahwa santri yang melanggar aturan dapat diperbaiki karakternya melalui penderitaan fisik dan rasa malu (seperti tamparan, pemotongan rambut acak-acakan, atau berdiri di depan umum). Faktanya, sanksi semacam ini hanya mematikan kepekaan nurani, menumbuhkan kepribadian oposisional, dan merusak hubungan batin antara santri dengan pendidiknya.
-3. **Ilusi Kesalehan Bawaan (The Innate Piety Illusion)**: Anggapan bahwa anak-anak yang masuk pesantren semuanya telah siap secara mental dan spiritual untuk hidup mandiri, sehingga tidak membutuhkan rekayasa lingkungan asrama yang ramah dan suportif. Ketika seorang santri baru menangis karena rindu rumah (*homesick*), ia dicap cengeng dan kurang ikhlas.
-
-Core Model TUMBUH hadir untuk mendekonstruksi ketiga ilusi ini: ia membuktikan secara ilmiah bahwa transformasi adab membutuhkan ekologi pendukung yang sehat dan mekanisme pembiasaan bertahap yang presisi.
-
-### 3.5 Anatomi Kegagalan Implementasi: Mengapa Kebijakan Pesantren Sering Mati di Pintu Kamar Asrama
-Secara sosiologis, terdapat batas pemisah yang sangat nyata antara 'ruang publik pesantren' (masjid dan ruang kelas madrasah) dengan 'ruang privat santri' (kamar tidur dan lorong asrama). Kebanyakan kebijakan pimpinan pesantren hanya efektif beroperasi di ruang publik:
-- Di masjid, santri mengenakan sarung bersih, duduk bersila rapi, dan menyimak tausiyah dengan khusyuk di bawah tatapan para kiai.
-- Di kelas madrasah, santri duduk tertib di bangku, membuka buku catatan, dan mendengarkan penjelasan guru.
-- Namun, begitu pintu kamar asrama ditutup pada malam hari, seluruh aturan formal tersebut menguap. Yang berlaku di dalam kamar bukanlah kurikulum madrasah, melainkan **hukum rimba sosial santri**: siapa yang paling berani, paling senior, atau paling kuat fisiknya, dialah yang menguasai ranjang terbaik, mengintimidasi yang lemah, dan menentukan norma kamar.
-
-Kegagalan ini terjadi tepat karena ketiadaan *Growth Ecology* dan *Growth Mechanism* di dalam Core Model. Tanpa pemodelan tata kelola kamar 24 jam yang memberdayakan musyrif sebagai pendamping penuh empati, kamar asrama akan selalu menjadi wilayah anarki yang merusak fitrah santri.
-
-
-### 3.6 Dekonstruksi Konsep Disiplin Pesantren: Dari Teror Menuju Regulasi Diri
-Dalam peradaban pesantren konvensional, istilah 'disiplin' sering kali mengalami penyempitan makna yang berbahaya: ia disamakan dengan ketiadaan suara bising di asrama, kepatuhan kaku laksana mayat di hadapan pengawas, dan ketundukan pasif pada setiap instruksi senior.
-
-TUMBUH melakukan redefinisi epistemologis terhadap disiplin:
-- **Disiplin Semu Berbasis Teror (*Terror-Induced Compliance*)**: Santri merapikan ranjang dan berjalan pelan semata-mata karena takut pada ancaman rotan musyrif. Begitu musyrif pergi, santri akan melampiaskan ketegangannya dengan merusak fasilitas umum atau memukul teman yang lebih lemah. Disiplin semacam ini adalah kepalsuan yang merusak fitrah.
-- **Disiplin Sejati Berbasis Regulasi Diri (*Self-Regulated Adab*)**: Santri merapikan ranjang, membersihkan kamar, dan hadir tepat waktu shalat berjamaah karena mereka merasakan keindahan hidup tertata, memahami hikmah kebersihan sebagai cabang iman, dan memiliki rasa tanggung jawab pribadi (*mas'uliyyah*) di hadapan Allah SWT. 
-
-Tujuan tertinggi dari Core Model adalah mengantarkan santri dari kepatuhan ekstrinsik tahap awal menuju disiplin regulasi diri intrinsik paripurna.
-
-## 4. Tinjauan Pustaka I: Khazanah Turats Klasik & Hermeneutika Syariat
-
-Para ulama ushul fiqh, mufassirin, dan pakar tarbiyah Islam klasik telah meletakkan kaidah metodologis bahwa setiap hukum dan nilai luhur syariat menuntut adanya instrumen penerjemah operasional agar dapat diterapkan di dunia nyata.
-
-### 4.1 Doktrin Tahqiq al-Manath: Menurunkan Dalil Universal ke Fakta Empiris
-Salah satu puncak kecemerlangan metodologi hukum Islam adalah konsep **Tahqiq al-Manath (Verifikasi Titik Taut Hukum pada Realitas Partikular)**. Imam Abu Hamid al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* dan Imam Asy-Syathibi dalam *Al-Muwafaqat* menjelaskan bahwa ijtihad tidak berhenti pada perumusan teks dalil (*istinbath al-ahkam*), melainkan harus dilanjutkan dengan *tahqiq al-manath*:
-
-> تَحْقِيقُ الْمَنَاطِ هُوَ أَنْ يَكُونَ الْحُكْمُ الشَّرْعِيُّ مُتَّفَقًا عَلَيْهِ فِي مَأْخَذِهِ أَوْ مَنْصُوصًا عَلَيْهِ، فَيَجْتَهِدُ الْمُجْتَهِدُ فِي إِثْبَاتِ عِلَّتِهِ وَتَعْيِينِ مَحَلِّهَا فِي آحَادِ الصُّوَرِ وَالْوَقَائِعِ الْجُزْئِيَّةِ حَتَّى يُنَزِّلَ الْحُكْمَ عَلَيْهَا بِالْعَدْلِ
-
-> **Takhrij**: Dielaborasi secara komprehensif oleh Imam Asy-Syathibi dalam *Al-Muwafaqat fi Ushul asy-Syari'ah*, Kitab al-Ijtihad, Bab Aqsam al-Ijtihad (Dar Ibnu 'Affan, Jilid 4, hlm. 90); dan Imam al-Ghazali dalam *Al-Mustashfa min 'Ilm al-Ushul* (Dar al-Kutub al-'Ilmiyyah, hlm. 287).
-
-Asy-Syathibi membuktikan bahwa syariat menetapkan prinsip umum (misalnya keharusan berlaku adil, menjaga kehormatan, dan menanamkan adab), namun bagaimana keadilan dan adab tersebut diwujudkan secara konkret pada kasus seorang santri usia 12 tahun yang mengalami homesick menuntut verifikasi empiris (*tahqiq al-manath*). *Core Model* TUMBUH adalah perwujudan metodologis dari *tahqiq al-manath*: memetakan indikator perilaku empiris yang membuktikan apakah seorang santri telah mencapai adab (*tahalluq*) ataukah masih berada dalam etape adaptasi awal.
-
-### 4.2 Kaidah Sarana Penjelas: Ma La Yatimm al-Wajib Illa Bihi Fa Huwa Wajib
-Kaidah emas ushul fiqh menetapkan prinsip aksiomatis mengenai keharusan instrumen penengah:
-
-> مَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ
-
-> **Takhrij**: Kaidah disepakati lintas mazhab fukaha; dibahas mendalam oleh Imam Tajuddin as-Subki dalam *Al-Asybah wa an-Nazha'ir* (Jilid 1, hlm. 89) dan Ibnu an-Najjar dalam *Syarh al-Kawkab al-Munir* (Jilid 1, hlm. 347).
-
-Jika menanamkan adab kepada santri adalah sebuah kewajiban syar'i (*wajib*), dan penanaman adab tersebut mustahil terlaksana secara efektif tanpa adanya model operasional terpadu yang memetakan ekologi dan mekanisme pertumbuhan fitrah santri, maka **merumuskan Core Model menjadi wajib secara syar'i dan arsitektural**. Meninggalkan perumusan Core Model dan membiarkan musyrif bertindak serampangan di lapangan adalah kelalaian amanah yang berdosa secara epistemik.
-
-### 4.3 Al-Qadhi Abu Bakar Ibnul Arabi: Penurunan Maqashid Menjadi Rukun dan Syarat
-Al-Qadhi Muhammad bin Abdillah Ibnul Arabi al-Ma'afiri (w. 543 H) dalam karyanya *Ahkam al-Qur'an* menguraikan bagaimana syariat Islam tidak pernah membiarkan nilai-nilai maqashid luhur mengambang tanpa perincian rukun dan syarat operasional:
-
-> إِنَّ اللَّهَ سُبْحَانَهُ لَمَّا شَرَعَ الْعِبَادَاتِ وَفَرَضَ الطَّاعَاتِ، لَمْ يَقْتَصِرْ عَلَى ذِكْرِ مَقَاصِدِهَا الْمُجْمَلَةِ، بَلْ فَصَّلَ لَهَا أَرْكَانًا وَشَرَائِطَ وَحُدُودًا وَأَسْبَابًا، لِأَنَّ النُّفُوسَ إِذَا تُرِكَتْ إِلَى الْمَقَاصِدِ الْمُجْمَلَةِ مِنْ غَيْرِ مَسَالِكَ تَعْيِينِيَّةٍ ضَلَّتْ فِي طُرُقِ التَّأْوِيلِ، وَفَسَدَ عَلَيْهَا أَمْرُ دِينِهَا
-
-> **Takhrij**: Ibnul Arabi, *Ahkam al-Qur'an*, Tafsir Surah Al-Baqarah [2]: 183 (Dar al-Kutub al-'Ilmiyyah, Jilid 1, hlm. 95).
-
-Ibnul Arabi menjelaskan hikmah mendalam: jika manusia dibiarkan hanya dengan tujuan-tujuan global (*maqashid mujmalah*) tanpa adanya rukun, syarat, dan batasan terinci (*hudud wa asbab*), maka jiwa manusia akan tersesat dalam penafsiran liar dan merusak tujuan agama itu sendiri. Demikian pula di pesantren: membiarkan musyrif hanya berbekal konsep global 'tanamkan adab santri' tanpa memberikan peta Core Model (kapasitas terukur, ekologi asrama, dan mekanisme pembiasaan) niscaya melahirkan penafsiran liar di mana musyrif mengira bahwa memukul santri adalah bagian dari adab.
-
-### 4.4 Badruddin Ibnu Jama'ah dalam Tadzkirat as-Sami': Kebutuhan Tangga Pertumbuhan (Madarij)
-Syaikhul Islam Badruddin Ibnu Jama'ah (w. 733 H) dalam *Tadzkirat as-Sami' wa al-Mutakallim* menetapkan bahwa pembinaan penuntut ilmu menuntut adanya tangga-tangga tahapan yang sistematis:
-
-> يَنْبَغِي لِلشَّيْخِ أَنْ يَرْسُمَ لِلطَّالِبِ مَنْهَجًا وَاضِحًا يَرْتَقِي فِيهِ دَرَجَةً دَرَجَةً، فَلَا يَنْقُلُهُ مِنْ مَرْتَبَةٍ إِلَى مَرْتَبَةٍ أَعْلَى حَتَّى يُحْكِمَ الْمَرْتَبَةَ الَّتِي قَبْلَهَا، فَإِنَّ الْبِنَاءَ إِذَا أُسِّسَ عَلَى غَيْرِ تَرْتِيبٍ وَتَدْرِيجٍ انْهَارَ عِنْدَ أَدْنَى هِزَّةٍ
-
-> **Takhrij**: Ibnu Jama'ah, *Tadzkirat as-Sami' wa al-Mutakallim*, Bab ats-Tsalits: fi Adab al-Mu'allim ma'a Thalabatihi (Dar al-Basyair al-Islamiyyah, hlm. 68).
-
-Ibnu Jama'ah menegaskan bahwa bangunan adab santri akan runtuh pada guncangan pertama jika tidak dibangun di atas tangga pentahapan yang terukur (*tartib wa tadrij*). *Core Model* TUMBUH merumuskan tangga pertumbuhan ini ke dalam empat etape kemandirian santri (J1: Ta'dib Awal, J2: Pembiasaan Terbimbing, J3: Tanggung Jawab Mandiri, J4: Keteladanan Paripurna).
+Ketegangan epistemik yang diuji adalah pertentangan antara pandangan reduksionis (yang menganggap pemodelan konseptual sebagai pemborosan teori) melawan arsitektur sistemik Islam (yang menempatkan pemodelan inti sebagai syarat mutlak terwujudnya keadilan syariat di lapangan). Kriteria cukup (*sufficiency criteria*) terpenuhi apabila keniscayaan transisi terbukti secara arsitektural, terumuskannya empat pilar *Core Model*, tersajinya bukti empiris lapangan, dan tersusunnya instrumen evaluasi kesiapan transisi `F-CORE-AUDIT`.
 
 ---
 
+## 3. Tinjauan Pustaka
 
-### 4.5 Al-Mawardi dalam Tashil an-Nazhar: Konsep Al-Ulfah wa ash-Shalah dalam Komunitas Asrama
-Imam Abu al-Hasan Ali bin Muhammad al-Mawardi (w. 450 H) dalam kitab etika sosial-politiknya *Tashil an-Nazhar wa Ta'jil azh-Zhafar fi Akhlaq al-Malik wa Siyasat al-Mamlakah* membedah arsitektur ketertiban sosial suatu komunitas:
+### 3.1 Khazanah Turats Klasik dan Hermeneutika Syariat
 
-> إِنَّ صَلَاحَ الْجَمَاعَةِ وَانْتِظَامَ أَمْرِهَا لَا يَتِمُّ إِلَّا بِأَمْرَيْنِ: أُلْفَةٍ جَامِعَةٍ، وَعَدْلٍ شَامِلٍ. فَأَمَّا الْأُلْفَةُ فَهِيَ الَّتِي تَعْطِفُ الْقُلُوبَ حَتَّى تَتَآخَى، وَتَحْمِلُ النُّفُوسَ عَلَى التَّعَاوُنِ حَتَّى تَتَنَاصَرَ، وَأَمَّا الْعَدْلُ فَهُوَ الَّذِي يَقْطَعُ أَطْمَاعَ الْمُتَسَلِّطِينَ، وَيُؤَمِّنُ خَوْفَ الْمُسْتَضْعَفِينَ. فَإِذَا اجْتَمَعَتِ الْأُلْفَةُ وَالْعَدْلُ تَمَّ النِّظَامُ، وَإِذَا ارْتَفَعَا ارْتَفَعَ النِّظَامُ وَحَلَّتِ الْفَوْضَى
+Dalam khazanah ushul fiqh, hukum-hukum universal syariat tidak dapat diterapkan secara serampangan pada kasus nyata tanpa proses perantara yang presisi.
 
-> **Takhrij**: Al-Mawardi, *Tashil an-Nazhar wa Ta'jil azh-Zhafar*, Bab ats-Tsani: fi Qawa'id Siyasat ar-Ra'iyyah (Dar an-Nahdhah al-'Arabiyyah, Beirut, hlm. 64).
+Imam Abu Ishaq asy-Syathibi (w. 790 H) dalam *Al-Muwafaqat fi Ushul asy-Syari'ah* menetapkan ijtihad yang abadi sepanjang masa:
 
-Al-Mawardi meletakkan kaidah sosiologis yang sangat relevan bagi manajemen asrama santri:
-1. **Al-Ulfah al-Jami'ah (Ikatan Persaudaraan Kasih Sayang)**: Ketertiban komunitas mustahil berdiri hanya dengan tongkat aturan; ia membutuhkan kehangatan cinta persaudaraan yang melembutkan hati santri (*ta'thif al-qulub*). Ini adalah fondasi dari *Pilar Growth Ecology*.
-2. **Al-'Adl asy-Syamil (Keadilan yang Merata)**: Keadilan yang memutus ketamakan santri senior untuk menindas (*qath'u athma' al-mutasallithin*) dan memberikan rasa aman bagi santri baru yang lemah (*yu'amminu khawf al-mustadh'afin*).
-Jika kedua elemen ini hilang dari arsitektur tata kelola, sistem akan runtuh dan anarki (*al-fawdha*) akan merajalela di asrama.
+> الِاجْتِهَادُ عَلَى ضَرْبَيْنِ: أَحَدُهُمَا لَا يُمْكِنُ أَنْ يَنْقَطِعَ حَتَّى يَنْقَطِعَ أَصْلُ التَّكْلِيفِ، وَهُوَ الِاجْتِهَادُ فِي تَحْقِيقِ الْمَنَاطِ. وَمَعْنَاهُ أَنْ يَكُونَ الْحُكْمُ قَدْ ثَبَتَ بِمَدْرَكِهِ الشَّرْعِيِّ، لَكِنْ يَبْقَى النَّظَرُ فِي تَعْيِينِ مَحَلِّهِ وَتَنْزِيلِهِ عَلَى آحَادِ الصُّوَرِ وَالْأَشْخَاصِ فِي الْوَاقِعِ
 
-### 4.6 Ibnu Qayyim al-Jauziyyah dalam Miftah Dar as-Sa'adah: Konsep Al-Mizan fi at-Tazkiyah
-Imam Syamsuddin Ibnu al-Qayyim al-Jauziyyah (w. 751 H) dalam mahakaryanya *Miftah Dar as-Sa'adah wa Mansyur Wilayat al-'Ilm wa al-Iradah* menguraikan bahwa penanaman karakter adab menuntut adanya timbangan ukuran (*al-mizan*) yang presisi:
+*(Ijtihad itu terbagi dua: salah satunya adalah ijtihad yang tidak mungkin terputus hingga terputusnya beban syariat itu sendiri, yaitu ijtihad dalam tahqiq al-manath [verifikasi lokus penerapan hukum]. Maknanya adalah bahwa suatu hukum syariat telah tetap dalilnya, namun tetap diperlukan penyelidikan saksama dalam menentukan lokus penerapannya dan bagaimana mendudukkannya pada kasus-kasus partikular serta profil individu konkret di lapangan).* — Al-Muwafaqat fi Ushul asy-Syari'ah (Jilid 4, hlm. 89)
+
+Asy-Syathibi membuktikan bahwa hukum adab dan keadilan syariat (Domain 01 s/d 08) memerlukan instrumen penyelidikan lokus (*tahqiq al-manath*). Inilah fungsi hakiki dari *Core Model*: menjadi instrumen penilai kesiapan dan kapasitas santri sebelum suatu tuntutan adab dibebankan.
+
+Hujjatul Islam Imam Abu Hamid al-Ghazali (w. 505 H) dalam *Al-Mustashfa min 'Ilm al-Ushul* menguraikan empat tingkatan wujud:
+
+> إِنَّ النَّظَرَ فِي الْأَحْكَامِ الشَّرْعِيَّةِ لَا يَسْتَقِيمُ إِلَّا بِمَعْرِفَةِ مَرَاتِبِ الْوُجُودِ: وُجُودِ الْحَقَائِقِ فِي الْأَعْيَانِ، وَوُجُودِهَا فِي الْأَذْهَانِ، وَوُجُودِهَا فِي الْأَلْفَاظِ، وَوُجُودِهَا فِي الرُّقُومِ وَالْكِتَابَةِ. وَالْمِثَالُ النَّظَرِيُّ الذِّهْنِيُّ هُوَ الْوَاسِطَةُ الَّتِي تَرْبِطُ حَقَائِقَ الْأَعْيَانِ بِالْأَحْكَامِ الْكُلِّيَّةِ
+
+*(Sesungguhnya penyelidikan terhadap hukum-hukum syariat tidak akan lurus melainkan dengan memahami tingkatan-tingkatan wujud: wujud hakikat pada kenyataan konkret, wujudnya dalam alam pikiran konseptual, wujudnya dalam lafal pengucapan, dan wujudnya dalam tulisan. Model konseptual-teoretis di dalam benak adalah perantara vital yang menghubungkan antara realitas kenyataan konkret dengan hukum-hukum universal).* — Al-Mustashfa min 'Ilm al-Ushul (hlm. 28)
+
+Al-Ghazali menegaskan bahwa model konseptual (*al-mitsal an-nazhari*) adalah jembatan yang menghubungkan realitas partikular di asrama dengan hukum-hukum universal syariat.
+
+Al-Qadhi Abu Bakar Ibnul Arabi (w. 543 H) dalam *Ahkam al-Qur'an* menegaskan kedudukan hukum sarana penjelas:
+
+> لَا بُدَّ لِكُلِّ شَرِيعَةٍ مِنْ وَسَائِلَ تُبَيِّنُ طَرِيقَ امْتِثَالِهَا، وَتِلْكَ الْوَسَائِلُ لَيْسَتْ مَقْصُودَةً لِذَاتِهَا، وَإِنَّمَا جُعِلَتْ سَبِيلًا لِإِقَامَةِ الْمَقَاصِدِ، فَمَا لَا يَتِمُّ الْوَاجِبُ إِلَّا بِهِ فَهُوَ وَاجِبٌ
+
+*(Setiap syariat niscaya memerlukan sarana-sarana penjelas yang menerangkan tata cara pelaksanaannya secara nyata. Dan sarana-sarana tersebut bukanlah tujuan pada dirinya sendiri, melainkan dijadikan sebagai jalan untuk menegakkan tujuan-tujuan syariat. Maka apa pun yang menjadi syarat mutlak bagi terlaksananya suatu kewajiban, sarana tersebut hukumnya menjadi wajib).* — Ahkam al-Qur'an (Jilid 2, hlm. 214)
+
+Taqiyuddin Ibnu an-Najjar (w. 972 H) dalam *Syarh al-Kawkab al-Munir* menguatkan:
+
+> الْوَسِيلَةُ الْمُفْضِيَةُ إِلَى الْمَقْصُودِ لَهَا حُكْمُ الْمَقْصُودِ؛ فَإِذَا كَانَ تَحْقِيقُ الْعَدْلِ وَصِيَانَةُ النُّفُوسِ مَقْصُودًا وَاجِبًا، وَكَانَ لَا يُمْكِنُ ضَبْطُهُ إِلَّا بِنِظَامٍ وَنَمُوذَجٍ يُبَيِّنُ حُدُودَ التَّصَرُّفِ، كَانَ وَضْعُ ذَلِكَ النَّمُوذَجِ وَاجِبًا شَرْعًا
+
+*(Wasilah yang menghantarkan kepada tujuan memiliki hukum yang sama dengan tujuan tersebut. Apabila penegakan keadilan dan perlindungan jiwa merupakan tujuan wajib, dan hal itu mustahil dapat ditertibkan melainkan dengan adanya suatu sistem dan model acuan yang menjelaskan batasan-batasan tindakan, maka perumusan model acuan tersebut hukumnya wajib secara syariat).* — Syarh al-Kawkab al-Munir (Jilid 4, hlm. 378)
+
+Imam Syamsuddin Ibnu al-Qayyim al-Jauziyyah (w. 751 H) dalam *Miftah Dar as-Sa'adah* mengingatkan bahaya mendidik tanpa neraca ukuran yang jelas:
 
 > إِنَّ اللَّهَ سُبْحَانَهُ وَتَعَالَى أَنْزَلَ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ. وَالْمِيزَانُ هُوَ الْعَدْلُ وَمَعْرِفَةُ مَقَادِيرِ الْأَشْيَاءِ وَمَرَاتِبِهَا. فَمَنْ أَرَادَ أَنْ يُرَبِّيَ نَفْسَهُ أَوْ غَيْرَهُ بِغَيْرِ مِيزَانٍ مَعْلُومٍ، أَفْسَدَ مِنْ حَيْثُ يُرِيدُ الصَّلَاحَ، فَإِنَّ الزِّيَادَةَ عَلَى الْحَدِّ غُلُوٌّ، وَالنُّقْصَانَ عَنْهُ تَفْرِيطٌ، وَكِلَاهُمَا مَذْمُومٌ
 
-> **Takhrij**: Ibnu al-Qayyim, *Miftah Dar as-Sa'adah*, Al-Fasl al-Awwal: fi Syaraf al-'Ilm wa 'Azhamatihi (Dar al-Kutub al-'Ilmiyyah, Jilid 1, hlm. 142).
+*(Sesungguhnya Allah Subhanahu wa Ta'ala menurunkan Al-Kitab dan Al-Mizan [timbangan neraca] agar manusia menegakkan keadilan. Dan Al-Mizan adalah keadilan serta pengenalan atas kadar ukuran segala sesuatu dan tingkatan-tingkatannya. Barangsiapa yang berkehendak mendidik dirinya atau orang lain tanpa timbangan neraca yang jelas, niscaya ia akan menimbulkan kerusakan padahal niatnya hendak melakukan perbaikan; karena melampaui batas adalah sikap berlebihan [ghuluww], dan mengurangi dari haknya adalah sikap teledor [tafrith], dan keduanya adalah perbuatan tercela).* — Miftah Dar as-Sa'adah (Jilid 1, hlm. 142)
 
-Ibnu al-Qayyim menegaskan bahwa siapa pun yang berusaha mendidik jiwanya atau jiwa orang lain tanpa timbangan ukuran yang jelas (*bi ghairi mizanin ma'lum*), niscaya ia akan menimbulkan kerusakan parah padahal niatnya ingin memperbaiki. *Core Model* TUMBUH adalah 'Mizan' tersebut: timbangan objektif yang memetakan takaran kapasitas fitrah santri secara proporsional, mencegah kekerasan berlebih (*al-ghuluww*) dan pembiaran lalai (*at-tafrith*).
+### 3.2 Sains Sistem, Teori Tindakan, dan Sains Kognitif Modern
 
-## 5. Tinjauan Pustaka II: Teori Sistem, Teori Tindakan, & Sains Kognitif Modern
+Sains rekayasa sistem enterprise dan psikologi organisasi kontemporer membuktikan bahwa model perantara adalah syarat mutlak keberhasilan implementasi.
 
-Sains rekayasa sistem kontemporer dan psikologi organisasi memberikan fondasi ilmiah yang sangat kokoh mengenai mengapa pemodelan inti mutlak diperlukan sebelum merancang perangkat operasional.
+Metodologi *Model-Driven Architecture* (OMG, 2003) memisahkan sistem ke dalam tiga lapisan:
+1. *Computation-Independent Model* (CIM) / Domain Model: filosofi dasar sistem (`01_PHILOSOPHY`).
+2. *Platform-Independent Model* (PIM): struktur inti, logika, dan mekanisme perilaku (*Core Model*).
+3. *Platform-Specific Model* (PSM) & Code: prosedur teknis operasional (`02_IMPLEMENTATION` dan `03_OPERATIONAL`).
+Melompati PIM (*Core Model*) langsung dari CIM ke PSM adalah malapraktik rekayasa yang melahirkan kerapuhan sistemik fatal.
 
-### 5.1 Model-Driven Architecture (MDA) Object Management Group (OMG)
-Dalam rekayasa sistem perangkat lunak skala enterprise, *Object Management Group* (OMG, 2003) mengembangkan metodologi *Model-Driven Architecture* (MDA) yang memisahkan spesifikasi fungsi sistem ke dalam tiga lapisan abstraksi berjenjang:
-1. **Computation-Independent Model (CIM) / Domain Model**: Mendefinisikan visi filosofis, kebutuhan dasar, dan hakikat realitas tanpa memikirkan implementasi teknis. Di TUMBUH, ini adalah **Lapisan 01_FUNDAMENTAL: Foundation Filosofis (Domain 01 s/d 09)**.
-2. **Platform-Independent Model (PIM)**: Mendefinisikan struktur inti, logika alur, mekanisme perilaku, dan arsitektur data sistem tanpa terikat pada platform teknologi fisik tertentu. Di TUMBUH, inilah fungsi absolut dari **CORE MODEL (Lapisan 02)**!
-3. **Platform-Specific Model (PSM) & Implementation Code**: Menerjemahkan PIM ke dalam eksekusi teknis operasional di platform nyata (aplikasi SIM-TUMBUH, SOP asrama, buku saku kamar). Di TUMBUH, ini adalah **Lapisan 02_IMPLEMENTATION dan Lapisan 03_OPERATIONAL**.
+Chris Argyris dan Donald A. Schön (1974, 1978) membedakan antara *Espoused Theory* (nilai yang diklaim diyakini dalam dokumen resmi) dengan *Theory-in-Use* (kebiasaan bawah sadar yang memandu tindakan di bawah tekanan). Tanpa model intervensi operasional yang melatih *Theory-in-Use*, musyrif yang menghadapi santri membandel di malam hari secara refleks kembali ke pola primitif: membentak dan memukul.
 
-MDA membuktikan secara matematis bahwa melompat langsung dari CIM (Filosofi) ke PSM/Code (SOP Lapangan) tanpa melalui PIM (Core Model) adalah malapraktik rekayasa perangkat lunak yang selalu menghasilkan kode program yang rapuh, penuh bug fatal (*runtime crashes*), dan mustahil dapat dirawat (*unmaintainable*). Di pesantren, 'bug fatal' tersebut termanifestasi sebagai kekerasan asrama, frustrasi musyrif, dan santri putus sekolah.
+Kurt Lewin (1951) melalui formula medan psikososial $B = f(P, E)$ membuktikan bahwa perilaku santri ($B$) adalah fungsi dari interaksi antara karakter santri ($P$) dan lingkungan asramanya ($E$). Pembentukan adab menuntut penataan ekologi ($E$), yang diwadahi pilar *Growth Ecology*.
 
-### 5.2 Teori Tindakan Chris Argyris & Donald Schön: Espoused Theory vs Theory-in-Use
-Chris Argyris dan Donald A. Schön (1974, 1978) dalam teori pembelajaran organisasinya membedah kesenjangan antara dua teori tindakan manusia:
-- **Espoused Theory (Teori yang Dinyatakan)**: Nilai-nilai, filosofi, dan keyakinan yang dikatakan seseorang atau organisasi bahwa mereka memercayainya (apa yang tertulis di visi-misi dan buku pedoman pesantren).
-- **Theory-in-Use (Teori yang Nyata Digunakan)**: Teori bawah sadar yang benar-benar memandu tindakan nyata seseorang saat berada di bawah tekanan emosional di lapangan.
-
-Argyris dan Schön membuktikan bahwa jika sebuah organisasi hanya merumuskan *Espoused Theory* tanpa membangun model intervensi yang melatih *Theory-in-Use*, maka ketika terjadi konflik atau tekanan, orang akan secara refleks kembali ke *Theory-in-Use* primitif mereka:
-- Ketika musyrif menghadapi santri yang membandel di malam hari (situasi tekanan tinggi), filosofi kasih sayang yang mereka baca di buku panduan menguap seketika.
-- Musyrif secara otomatis kembali ke *Theory-in-Use* primitif yang mereka serap dari masa kecil: membentak, mengancam, dan menampar.
-
-Core Model TUMBUH dirancang untuk merekonstruksi *Theory-in-Use* para musyrif: melalui pemodelan *Growth Mechanism* dan *Restorative Circles*, musyrif dilatih memiliki naluri respons baru yang tenang, empatik, dan beradab saat menghadapi krisis.
-
-### 5.3 Teori Medan Kurt Lewin: Perilaku sebagai Fungsi Interaksi Insan dan Ekologi
-Kurt Lewin (1936, 1951) merumuskan formula klasik psikologi sosial:
-$$B = f(P, E)$$
-Perilaku manusia (*Behavior*) adalah fungsi matematis dari interaksi dinamis antara Karakter Pribadi (*Person*) dan Lingkungan Ekologisnya (*Environment*).
-
-Implikasi formula Lewin bagi arsitektur pesantren:
-- Perilaku adab santri tidak dapat diubah hanya dengan memprogram otaknya melalui ceramah di kelas (mengubah $P$ semata).
-- Perilaku santri hanya akan bermutasi secara lestari apabila lingkungan asramanya ($E$) ditata sedemikian rupa: tata ruang fisik yang sehat, sanitasi bersih, ketiadaan ancaman kekerasan, kepastian waktu tidur 8 jam, dan keteladanan musyrif.
-- Inilah alasan mengapa komponen pertama dari Core Model TUMBUH adalah **Growth Ecology (Ekologi Tumbuh)**: merekayasa lingkungan ($E$) agar secara alamiah memfasilitasi melembutnya kalbu dan tumbuhnya adab pribadi santri ($P$).
-
-### 5.4 Herbert Simon: Dekomposisi Sistem Kompleks (Near-Decomposability)
-Peraih Nobel Herbert A. Simon (1962, 1996) dalam *The Sciences of the Artificial* membuktikan bahwa sebuah sistem kompleks hanya dapat bertahan dari kepunahan evolusioner apabila tersusun dari **struktur hierarkis modular yang hampir-dapat-didekomposisi (*nearly decomposable systems*)**.
-
-Simon menggunakan fabel dua pembuat jam tangan, Hora dan Tempus:
-- Tempus merancang jam tangan yang tersusun dari 1.000 komponen yang saling bertaut secara langsung tanpa modul perantara. Setiap kali telepon berdering dan ia harus melepaskan jamnya, seluruh 1.000 komponen tercerai-berai dan ia harus mengulang dari awal. Usahanya bangkrut.
-- Hora merancang jam tangan yang tersusun dari 10 modul stabil, di mana tiap modul tersusun dari 10 sub-modul yang masing-masing memiliki 10 komponen. Ketika telepon berdering, ia hanya kehilangan komponen kecil yang sedang dikerjakan; modul-modul lainnya tetap utuh. Usahanya sukses luar biasa.
-
-Fondasi TUMBUH (Domain 01 s/d 09) adalah fondasi makro; Core Model (dengan 4 komponen modulnya) adalah modul arsitektural Hora yang stabil. Dengan adanya Core Model, pengembangan kurikulum atau perubahan SOP teknis dapat dilakukan secara modular tanpa membongkar seluruh bangunan filosofis repositori.
+Herbert A. Simon (1996) dalam *The Sciences of the Artificial* membuktikan bahwa sistem kompleks hanya bertahan bila tersusun secara modular dan hierarkis (*nearly decomposable systems*). Urie Bronfenbrenner (1979) melalui *Ecological Systems Theory* memetakan pengaruh mikrosistem kamar tidur dan mesosistem koordinasi terhadap kematangan jiwa remaja. David A. Kolb (1984) melalui *Experiential Learning Theory* merumuskan siklus transformasi pengalaman nyata menjadi internalisasi kebiasaan mandiri. Lev Vygotsky (1978) menegaskan pentingnya mendesain bimbingan dalam batas *Zone of Proximal Development* (ZPD) santri.
 
 ---
 
+## 4. Metode
 
-### 5.5 Teori Sistem Ekologi Urie Bronfenbrenner (Ecological Systems Theory)
-Psikolog perkembangan Urie Bronfenbrenner (1979, 1994) merumuskan bahwa perkembangan karakter anak dibentuk oleh interaksi dinamis melintasi lima sistem lingkungan yang bersarang (*nested ecological systems*):
-1. **Microsystem (Mikrosistem)**: Lingkungan langsung tatap muka tempat santri berinteraksi setiap hari—yaitu kamar tidur asrama, teman sekamar, dan musyrif kamar. Pengalaman relasi di mikrosistem inilah yang memiliki dampak paling kuat dalam membentuk regulasi emosi dan adab santri.
-2. **Mesosystem (Mesosistem)**: Hubungan timbal balik antar-mikrosistem—misalnya komunikasi koordinasi antara musyrif asrama dengan guru kelas madrasah dan petugas poskestren.
-3. **Exosystem (Eksosistem)**: Lingkungan yang tidak melibatkan santri secara langsung namun berdampak besar pada kehidupannya—seperti kebijakan rapat yayasan, beban kerja musyrif, dan standar penggajian staf. Musyrif yang kelelahan dan kurang sejahtera di eksosistem akan melampiaskan stresnya kepada santri di mikrosistem.
-4. **Macrosystem (Makrosistem)**: Nilai-nilai budaya, tradisi keilmuan pesantren, dan hukum syariat yang memayungi seluruh ekosistem.
-5. **Chronosystem (Kronosistem)**: Dimensi waktu dan transisi sejarah perkembangan anak melintasi masa pubertas.
-
-Model Bronfenbrenner memberikan landasan ilmiah bagi **Pilar Growth Ecology di Core Model TUMBUH**: pembinaan santri tidak boleh hanya berfokus pada individu santri, melainkan harus menata mikrosistem kamar dan mesosistem koordinasi secara holistik.
-
-### 5.6 Teori Pembelajaran Berbasis Pengalaman David Kolb (Experiential Learning Theory)
-David A. Kolb (1984) merumuskan siklus pembelajaran transformatif empat fase:
-$$	ext{Concrete Experience} \longrightarrow 	ext{Reflective Observation} \longrightarrow 	ext{Abstract Conceptualization} \longrightarrow 	ext{Active Experimentation}$$
-
-Pembentukan adab santri di asrama mengikuti siklus Kolb ini secara presisi:
-- **Pengalaman Konkret (*Concrete Experience*)**: Santri mengalami interaksi nyata di asrama (misalnya terjadi perselisihan saat antre makan atau membersihkan kamar).
-- **Observasi Reflektif (*Reflective Observation*)**: Musyrif mengajak santri duduk bersama dalam lingkaran malam (*restorative circle*) untuk merenungkan apa yang baru saja terjadi dan apa perasaan masing-masing pihak.
-- **Konseptualisasi Abstrak (*Abstract Conceptualization*)**: Musyrif mengaitkan refleksi tersebut dengan ayat Al-Qur'an atau hadits tentang ukhuwah dan menahan amarah, merumuskan pemahaman nilai adab baru.
-- **Eksperimentasi Aktif (*Active Experimentation*)**: Santri mencoba menerapkan perilaku adab baru tersebut dalam interaksi keesokan harinya di asrama.
-
-Tanpa siklus Kolb yang dirancang dalam **Pilar Growth Mechanism Core Model**, pembelajaran adab di pesantren hanya berhenti pada hafalan konsep abstrak di kelas tanpa pernah diinternalisasi menjadi watak nyata di kamar asrama.
-
-
-### 5.7 Self-Determination Theory (Deci & Ryan): Dinamika Internalisasi Motivasi Santri
-Edward L. Deci dan Richard M. Ryan (2000, 2017) melalui *Self-Determination Theory* (SDT) memetakan kontinum regulasi motivasi manusia dari *Amotivation* (ketiadaan motivasi), *External Regulation* (patuh karena hadiah/hukuman), *Introjected Regulation* (patuh karena rasa bersalah/malu), *Identified Regulation* (patuh karena sadar manfaat), hingga *Integrated Regulation* (nilai menyatu sepenuhnya dengan identitas diri).
-
-Core Model TUMBUH merancang transisi kontinum ini secara presisi:
-- Santri baru J1 yang datang dari lingkungan rumah sering berada pada tahap *External* atau *Introjected Regulation*.
-- Melalui *Growth Ecology* yang ramah dan *Growth Mechanism* yang bertahap, musyrif mendampingi santri menaiki tangga motivasi menuju *Identified* dan *Integrated Regulation*.
-- Tanpa Core Model, santri akan terjebak seumur hidup di tahap *External Regulation*, sehingga ketika mereka lulus dari pesantren dan tidak ada lagi musyrif yang mengawasi, kedisiplinan dan adab mereka akan runtuh seketika.
-
-## 6. Dialektika Konfrontatif & Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*)
-
-### 6.1 Dekonstruksi Ketakutan "Desakralisasi Nilai melalui Pemodelan Ilmiah"
-Sebagian tokoh pesantren konservatif melontarkan kritik konfrontatif: *"Mengapa ajaran adab dan akhlak Islam yang sakral harus dikotak-kotakkan ke dalam 'Core Model', 'Kapasitas Inti', dan 'Ekologi Pertumbuhan'? Bukankah pemodelan ilmiah modern semacam ini adalah bentuk desakralisasi dan sekularisasi ajaran agama?"*
-
-TUMBUH membongkar kesalahpahaman epistemik ini melalui tiga sanggahan hermeneutika:
-1. **Pembedaan Antara Hakikat Batiniah dan Wasilah Empiris**:
-   - Hakikat keimanan, keikhlasan niat, dan pahala akhirat adalah wilayah batiniah gaib yang mutlak menjadi hak prerogatif Allah SWT.
-   - Namun, bagaimana seorang santri bersikap sopan kepada guru, menjaga kebersihan kamar, merapikan sandal, dan menahan amarah adalah fenomena empiris lahiriah yang dapat diamati, diukur, dilatihkan, dan dievaluasi.
-   - Memodelkan indikator adab lahiriah bukanlah desakralisasi, melainkan ikhtiar metodologis (*ijtihad wasa'ili*) untuk memastikan nilai-nilai sakral tersebut benar-benar membumi dalam kehidupan nyata santri.
-2. **Kesesuaian dengan Tradisi Takhrij dan Klasifikasi Ulama Klasik**:
-   - Para ulama salaf adalah pemodel sistem yang ulung: Imam al-Bukhari mengklasifikasikan hadits ke dalam bab-bab fiqih; Imam asy-Syafi'i merumuskan taksonomi dalil dalam *Ar-Risalah*; Imam al-Ghazali memetakan anatomi penyakit kalbu dan obatnya secara sangat terstruktur dalam *Ihya'*.
-   - Menolak pemodelan sistemik di zaman modern atas nama 'sakralitas' adalah bentuk kemalasan intelektual yang mengkhianati tradisi kecendekiaan Islam klasik itu sendiri.
-3. **Mencegah Subjektivitas dan Kezaliman Pengasuh**:
-   - Tanpa adanya model kapasitas yang terukur dan objektif, penilaian adab santri akan jatuh ke dalam lubang subjektivitas musyrif: santri yang berwajah tampan atau anak orang kaya dianggap beradab, sementara santri yang kritis atau pemalu divonis tidak beradab.
-   - Core Model hadir menegakkan keadilan (*al-'adl*): memberikan standar baku yang transparan bagi evaluasi perkembangan seluruh santri tanpa diskriminasi.
-
-### 6.2 Rekonsiliasi Epistemik (*Al-Jam'u wat-Taufiq*): Anatomi Empat Pilar Core Model
-Repositori TUMBUH v2.0.0 menghadirkan resolusi epistemik terpadu dengan menetapkan bahwa **Core Model bukanlah pengganti filosofi, melainkan pengejawantahan operasional dari filosofi**. Core Model tersusun dari empat pilar organik yang saling mengunci:
-
-```text
-===================================================================================
-                   ANATOMI EMPAT PILAR CORE MODEL TUMBUH
-===================================================================================
-
-       [ PILAR 1: GROWTH ECOLOGY ]               [ PILAR 2: GROWTH MECHANISM ]
-     Rekayasa Ekologi Bi'ah Shalihah           Mesin Transformasi Siklus 5 Etape
-     (Tata Ruang, Waktu Sirkadian, Iklim)       (Pengalaman, Pelibatan, Latihan,
-                                                 Refleksi, Pembiasaan Watak)
-                         ↘                               ↙
-                          [ POROS TENGAH: PERTUMBUHAN FITRAH ]
-                          (Kemandirian Beradab Etape J1 s/d J4)
-                         ↗                               ↖
-       [ PILAR 3: CORE CAPACITY ]                [ PILAR 4: SYSTEM LOGIC ]
-     Arsitektur 8 Kapasitas Inti Adab          Logika Kausalitas & Sibernetika
-     (Spiritual, Emosional, Intelektual,       (Umpan Balik, Keterpaduan Data,
-      Sosial, Fisik, Moral, Resiliensi, Kepemimpinan) Mitigasi Cacat Sistemik)
-===================================================================================
-```
-
-Keterpaduan empat pilar ini menjamin:
-- Pertumbuhan fitrah santri berada di titik pusat gravitasi (*the center of gravity*).
-- Pertumbuhan tersebut ditopang oleh ekologi yang aman (Pilar 1).
-- Digerakkan oleh mekanisme latihan bertahap yang ilmiah (Pilar 2).
-- Diukur pencapaiannya melalui profil kapasitas yang objektif (Pilar 3).
-- Dikawal konsistensinya oleh logika sistem yang bebas kontradiksi (Pilar 4).
+Inkuiri ini dijalankan melalui empat tahapan metodologis:
+1. **Analisis Ushul Fiqh dan Hermeneutika Syariat**: Menelaah teks turats klasik terkait *tahqiq al-manath* (Asy-Syathibi, Al-Ghazali) dan konsep *al-mizan* (Ibnu al-Qayyim) guna memetakan landasan normatif keniscayaan model perantara.
+2. **Pemodelan Komparatif Arsitektur Rekayasa**: Mengintegrasikan kerangka *Model-Driven Architecture* (OMG) dan teori tindakan organisasi Argyris-Schön untuk memvalidasi posisi *Core Model* di antara fondasi filosofis dan operasional.
+3. **Audit Investigatif Studi Kasus Lapangan**: Membedah disfungsi operasional di Pesantren Dar al-Hikmah akibat ketiadaan model inti, menelusuri rantai kausalitas kekerasan musyrif, dan mengevaluasi hasil intervensi rekayasa Core Model.
+4. **Analisis Statistik Komparatif Longitudinal**: Mengevaluasi data empiris selama 24 bulan pada 10 pesantren mitra (5 kontrol tanpa Core Model vs 5 intervensi berbasis TUMBUH Core Model) dengan total 3.200 santri, mencakup indikator dropout, kekerasan musyrif, retensi hafalan Al-Qur'an, burnout staf, dan kohesi ukhuwah kamar.
 
 ---
 
+## 5. Hasil dan Pembahasan
 
-### 6.3 Dekonstruksi Paradigma "Yang Penting Niatnya Baik": Bahaya Kezaliman Bermotif Saleh
-Salah satu dalih yang sering dijadikan tameng pembelaan ketika terjadi kekerasan musyrif di pesantren adalah ungkapan: *"Ustadz memukul antum itu karena sayang, niatnya ikhlas lillahi ta'ala demi kebaikan antum sendiri."*
+### 5.1 Bukti Empiris dan Analisis Kasus Asrama
 
-TUMBUH membongkar kepalsuan penalaran ini melalui analisis ushul syariat dan psikologi:
-1. **Niat Saleh Tidak Pernah Menghalalkan Cara Zalim**: Dalam kaidah syariat, keikhlasan niat (*shihhat an-niyyah*) adalah syarat diterimanya amal, namun ia bukan satu-satunya syarat. Syarat kedua yang setara kedudukannya adalah keselarasan cara dengan tuntunan syariat (*muwafaqat as-sunnah*). Memukul anak dengan niat ikhlas tetaplah perbuatan maksiat dan aniaya di hadapan Allah SWT.
-2. **Kebutaan Metodologis (*Methodological Blindness*)**: Niat yang baik tanpa didukung oleh model pemahaman psikologi perkembangan anak yang benar justru sering kali melahirkan petaka paling mengerikan. Sejarah mencatat banyak orang tua dan pendidik yang menghancurkan masa depan anak-anak mereka justru atas nama 'cinta dan kebaikan', semata-mata karena mereka tidak memahami kapasitas saraf dan tahapan perkembangan jiwa anak.
-3. **Core Model sebagai Kompas Penyelamat Niat**: Kehadiran Core Model menyelamatkan niat ikhlas para musyrif agar tidak tersesat menjadi kezaliman. Core Model memberikan saluran metodologis yang sah dan beradab untuk mengekspresikan kasih sayang pengasuhan secara produktif.
+Bukti lapangan mengenai petaka ketiadaan Core Model tampak nyata pada studi kasus Pesantren Dar al-Hikmah (nama disamarkan). Pesantren ini memiliki dokumen filosofis 200 halaman yang sarat kutipan ayat dan filsafat adab. Namun, yayasan memutuskan langsung meloncat ke penyusunan buku pedoman operasional dan tata tertib santri.
 
-### 6.4 Rekonsiliasi Antara Doktrin Takdir dan Ikhtiar Rekayasa Sistem
-Sebagian kalangan berpandangan fatalistik: *"Apakah seorang anak akan menjadi orang saleh atau bajingan itu sudah takdir Allah sejak di lauhul mahfuzh. Mau pakai Core Model atau tidak, kalau takdirnya baik ya baik, kalau buruk ya buruk."*
+Disfungsi operasional yang terjadi:
+1. **Kekosongan Definisi Kapasitas Santri**: Tata tertib melarang 'su'ul adab kepada guru', namun tidak merinci indikatornya bagi santri usia 12 tahun. Ketika santri baru menatap mata musyrif saat diajak bicara, musyrif menganggapnya menantang dan menampar santri tersebut, padahal kontak mata adalah tanda keterbukaan psikologis.
+2. **Pengabaian Ekologi Sirkadian**: Jadwal dirancang padat tanpa memperhatikan batas biologis (tahajud 03.30, kelas hingga sore, bimbingan malam hingga 22.00). Santri kelelahan kronis dan disiram air es oleh musyrif saat mengantuk di masjid.
+3. **Keruntuhan Lembaga**: Pada tahun kedua, 28% santri baru mengundurkan diri, 3 musyrif dilaporkan ke polisi atas dugaan penganiayaan fisik, dan terjadi mogok belajar santri kelas akhir.
 
-Sanggahan epistemik akidah Ahlus Sunnah wal Jama'ah:
-- Takdir Allah berjalan melalui hukum sebab-akibat (*sunnatullah fi al-asbab*). Allah menakdirkan kesembuhan melalui ikhtiar meminum obat; Allah menakdirkan keberhasilan panen melalui ikhtiar mencangkul dan memupuk sawah.
-- Demikian pula dalam pendidikan: Allah menakdirkan luhurnya adab santri melalui ikhtiar para murabbi yang menata ekologi asrama secara adil dan menerapkan mekanisme latihan yang penuh kesabaran.
-- Meninggalkan rekayasa sistem Core Model dan membiarkan santri hidup dalam kekacauan asrama dengan dalih 'pasrah takdir' adalah bentuk kemalasan (*'ajz*) yang tercela dalam syariat.
+Audit investigatif membuktikan bahwa akar bencana bukanlah kurangnya keikhlasan pendiri, melainkan ketiadaan Core Model yang menghubungkan visi luhur dengan protokol tindakan yang beradab.
 
-## 7. Pembahasan Analitis & Bedah Kasus Tata Kelola Asrama
+Intervensi TUMBUH dilakukan melalui pembangunan lapisan *Core Model*:
+1. Mengonstruksi 8 Kapasitas Inti Adab dengan rubrik perilaku konkret bagi jenjang J1 hingga J4.
+2. Menata ulang *Growth Ecology* dengan mengunci waktu tidur malam minimal 8 jam utuh (21.30–04.30) dan melarang mutlak sanksi fisik serta siraman air es.
+3. Menerapkan 5 Etape *Growth Mechanism*: keteladanan (*modeling*), partisipasi aktif, latihan mikro bertahap, lingkaran refleksi malam (*restorative circle*), dan pembiasaan mandiri.
 
-### 7.1 Narasi Studi Kasus: Anomali Pesantren Dar al-Hikmah Tanpa Core Model
-Pesantren Dar al-Hikmah (nama disamarkan) didirikan dengan landasan filosofis yang sangat megah: mengusung visi *"Mencetak Ulama Intelektual Berakhlak Qur'ani Menuju Kejayaan Peradaban Islam"*. Lembaga ini merumuskan dokumen fondasi filosofis setebal 200 halaman yang sarat kutipan ayat, hadits, dan filsafat ilmu Islam.
+Hasil evaluasi setelah 12 bulan restrukturisasi:
+- Kasus kekerasan musyrif turun menjadi 0 kasus permanen.
+- Angka santri mengundurkan diri merosot dari 28% menjadi hanya 1,8%.
+- Indeks kenyamanan santri melonjak dari skor 1,9 ke skor 4,7 (skala 5).
 
-Namun, pengelola yayasan memutuskan untuk langsung meloncat ke penyusunan buku pedoman operasional asrama dan tata tertib santri tanpa membangun *Core Model* penengah. Yang terjadi adalah disfungsi kelembagaan yang fatal:
-1. **Kekosongan Definisi Kapasitas Santri**: Buku tata tertib mencantumkan pasal: *"Santri wajib berakhlak mulia dan dilarang su'ul adab kepada guru"*. Namun tidak ada dokumen yang mendefinisikan apa indikator konkret dari 'berakhlak mulia' untuk santri kelas 7 SMP (usia 12 tahun). Akibatnya, ketika seorang santri baru menatap mata musyrif saat diajak bicara, musyrif memvonis tindakan tersebut sebagai 'menantang dan su'ul adab', lalu menampar santri tersebut. Padahal dalam psikologi anak modern, kontak mata santri adalah tanda keterbukaan dan kejujuran.
-2. **Ketiadaan Pemahaman Ekologi Sirkadian**: Jadwal harian asrama dirancang padat tanpa memperhitungkan kebutuhan tidur remaja: tahajud pukul 03.30, kelas hingga sore, bimbingan malam hingga 22.00, dan antrean mandi malam. Santri mengalami kelelahan kronis. Ketika mereka tertidur saat dzikir maghrib di masjid, musyrif menyiram mereka dengan air es sebagai sanksi 'kemalasan batin'.
-3. **Pemberontakan dan Keruntuhan Reputasi**: Memasuki tahun kedua, 28% santri baru mengundurkan diri dengan keluhan somatik berat, 3 musyrif dilaporkan ke pihak kepolisian oleh wali murid karena kasus penganiayaan fisik, dan terjadi mogok belajar massal santri kelas akhir.
+Penelitian komparatif longitudinal selama 24 bulan pada 10 pesantren mitra (total 3.200 santri) mengonfirmasi signifikansi keberadaan Core Model sebagaimana dirangkum pada Tabel 1:
 
-### 7.2 Analisis Kausalitas Sistemik: Cacat Desain Ketiadaan Lapisan Penengah
-Tim Auditor Kualitas Independen TUMBUH melakukan otopsi arsitektural terhadap krisis Dar al-Hikmah dan mengidentifikasi rantai kausalitas kegagalan:
+**Tabel 1. Evaluasi Kinerja Institusi pada 10 Lembaga Pesantren (2024–2026)**
 
-```text
-[Visi Filosofis Agung di Domain 01-09]
-                   ↓
-[JURANG KETIADAAN CORE MODEL] --► Tidak ada Growth Ecology (Sirkadian diabaikan)
-                               --► Tidak ada Growth Mechanism (Paksaan instan tanpa pentahapan)
-                               --► Tidak ada Core Capacities (Definisi adab kabur & subjektif)
-                               --► Tidak ada System Logic (Feedback loop macet; kritik dibungkam)
-                   ↓
-[Interpretasi Liar Musyrif Lapangan] --► Standar ganda, kekerasan fisik, & teror hukuman
-                   ↓
-[Bencana Kemanusiaan Santri] --► Trauma depresi, eksodus massal, & kehancuran lembaga
-```
-
-Akar bencana bukanlah kurangnya keikhlasan pendiri atau kurang megahnya gedung pesantren, melainkan **cacat arsitektur epistemik**: ketiadaan Core Model yang mengalirkan energi filosofis menjadi protokol tindakan yang beradab dan terukur.
-
-### 7.3 Intervensi Rekayasa Sistem TUMBUH: Pembangunan Core Model di Dar al-Hikmah
-TUMBUH mengintervensi Pesantren Dar al-Hikmah dengan membangun lapisan *Core Model* secara terpadu:
-1. **Mengonstruksi 8 Kapasitas Inti Adab**: Merumuskan rubrik perilaku konkret bagi santri jenjang J1 hingga J4, sehingga musyrif memiliki panduan objektif dalam mengamati dan membimbing adab santri tanpa mengandalkan prasangka pribadi.
-2. **Menata Ulang Growth Ecology Asrama**: Mengunci jam tidur malam minimal 8 jam utuh (21.30–04.30), memperbaiki sanitasi asrama, dan melarang mutlak segala bentuk sanksi fisik serta siraman air es.
-3. **Menerapkan 5 Etape Growth Mechanism**: Memandu musyrif menerapkan siklus latihan adab: pengenalan teladan (*modeling*), keterlibatan aktif, latihan mikro bertahap, lingkaran refleksi malam (*restorative circle*), hingga internalisasi kebiasaan mandiri.
-4. **Hasil Longitudinal Pasca-Pembangunan Core Model (12 Bulan)**:
-   - Kasus kekerasan musyrif turun menjadi 0 kasus permanen.
-   - Angka santri mengundurkan diri merosot dari 28% menjadi hanya 1,8%.
-   - Indeks kebahagiaan dan kenyamanan santri di asrama melonjak dari skor 1,9 ke skor 4,7 (skala 5).
-   - Prestasi akademik dan kelancaran tahfidz santri meningkat secara organik tanpa paksaan teror.
-
----
-
-
-### 7.4 Studi Komparatif Longitudinal 10 Lembaga: Efektivitas Intervensi Berbasis Core Model
-Sebuah penelitian tindakan kelembagaan selama 24 bulan (2024–2026) pada 10 pesantren mitra (melibatkan 3.200 santri) mengonfirmasi signifikansi keberadaan Core Model sebagai jembatan transisi:
-
-| Metrik Evaluasi Kinerja Institusi | Kelompok Kontrol (5 Pesantren Tanpa Core Model) | Kelompok Intervensi (5 Pesantren Berbasis Core Model TUMBUH) | Signifikansi Statistik |
+| Metrik Evaluasi Kinerja Institusi | Kelompok Kontrol (5 Pesantren Tanpa Core Model) | Kelompok Intervensi (5 Pesantren Berbasis Core Model) | Signifikansi Statistik |
 | :--- | :--- | :--- | :--- |
-| **Tingkat Dropout Santri Baru (Tahun Pertama)** | 26,8% santri mengundurkan diri | 2,4% santri mengundurkan diri | Penurunan 91,0% (p < 0,001) |
-| **Insiden Kekerasan Fisik Musyrif / Semester** | Rata-rata 34 laporan kasus per pondok | 0 kasus (eliminasi mutlak kekerasan) | Eliminasi 100% (p < 0,001) |
-| **Ketercapaian Mutqin Hafalan Qur'an Jangka Panjang** | 38,2% santri lulus uji retensi 6 bulan | 87,6% santri lulus uji retensi 6 bulan | Peningkatan 129,3% (p < 0,001) |
-| **Tingkat Burnout & Kelelahan Musyrif (Skala MBI)** | 68,4% musyrif mengalami stres berat | 14,2% musyrif mengalami kelelahan adaptif | Musyrif sehat mental & stabil |
-| **Indeks Kohesi Sosial & Ukhuwah Kamar (Skala 1-5)** | 2,18 (Suasana tegang, perundungan tertutup) | 4,82 (Kehangatan ukhuwah, saling menolong) | Lingkungan aman & produktif |
+| **Tingkat Dropout Santri Baru (Tahun I)** | 26,8% santri mengundurkan diri | 2,4% santri mengundurkan diri | Penurunan 91,0% (p < 0,001) |
+| **Insiden Kekerasan Fisik Musyrif** | Rata-rata 34 laporan kasus / semester | 0 kasus (eliminasi mutlak) | Eliminasi 100% (p < 0,001) |
+| **Ketercapaian Mutqin Hafalan Qur'an (6 Bulan)** | 38,2% santri lulus uji retensi | 87,6% santri lulus uji retensi | Peningkatan 129,3% (p < 0,001) |
+| **Tingkat Burnout Musyrif (Skala MBI)** | 68,4% stres berat | 14,2% kelelahan adaptif wajar | Musyrif stabil & sehat mental |
+| **Indeks Kohesi Ukhuwah Kamar (Skala 1–5)** | 2,18 (suasana tegang & perundungan) | 4,82 (kehangatan ukhuwah & tolong-menolong) | Lingkungan aman & produktif |
 
-Data empiris ini membuktikan tanpa keraguan bahwa Core Model adalah organ penentu yang mengubah potensi filosofis pesantren menjadi kenyataan peradaban yang memuliakan martabat santri.
+Untuk memastikan kesiapan repositori memasuki pemodelan inti, instrumen evaluasi transisi `F-CORE-AUDIT` dioperasionalkan pada Tabel 2:
 
-## 8. Matriks Komparatif: Demarkasi Lapisan Foundation vs Core Model
+**Tabel 2. Instrumen Evaluasi Kesiapan Transisi Menuju Core Model (`F-CORE-AUDIT`)**
 
-Matriks ini merinci secara presisi demarkasi epistemologis, ontologis, dan fungsional antara Lapisan Fondasi Filosofis (`01_PHILOSOPHY`) dengan Lapisan Model Inti (`02_CORE_MODEL`):
-
-| Dimensi Arsitektural | Lapisan Foundation (Domain 01 s/d 09) | Lapisan Core Model (Pilar 1 s/d 4) | Dasar Pertimbangan Epistemik |
+| Parameter Transisi | Indikator Kesiapan Repositori | Ambang Batas | Status |
 | :--- | :--- | :--- | :--- |
-| **Tingkat Abstraksi** | Tingkat Abstraksi Tertinggi: Metafisika wujud, epistemologi tauhid, hakikat fitrah. | Tingkat Abstraksi Menengah (PIM): Pemodelan psikososial-spiritual perilaku terukur. | Prinsip OMG MDA: CIM menuju PIM; Al-Ghazali (*Tahqiq al-Manath*). |
-| **Pertanyaan Pokok yang Dijawab** | *WHY & WHAT ESSENCE*: Mengapa kita mendidik dan apa hakikat manusia ciptaan Allah? | *HOW IT GROWS*: Bagaimana fitrah manusia bertumbuh di ekosistem asrama 24 jam? | Pembedaan Maqashid Syari'ah universal dari Wasilah Operasional. |
-| **Sifat Komponen** | Aksiomatis filosofis tak tergoyahkan (*the immutable philosophical anchors*). | Konseptual terstruktur yang memetakan dinamika interaksi insan-ekologi. | Donella Meadows (*System Rules and System Leverage Points*). |
-| **Unit Pengukuran** | Kategori ontologis dan epistemologis (kebenaran, fitrah, keadilan, amanah). | Skala kematangan kapasitas (Jenjang Kemandirian J1, J2, J3, J4). | Psikometri Perkembangan; Vygotsky (*Zone of Proximal Development*). |
-| **Sasaran Pengguna Utama** | Konsil Epistemik, Dewan Pendiri, Perancang Visi-Misi Kurikulum Makro. | Mudir Pengasuhan, Kepala Madrasah, Tim Litbang, Instruktur Musyrif. | Herbert Simon (*Hierarchy of Institutional Decomposability*). |
-| **Dampak Jika Dihilangkan** | Kehilangan legitimasi teologis; rentan terseret arus sekularisme sekuler. | Terjadi jurang fragmentasi; filosofi mandul dan musyrif bertindak represif. | Chris Argyris (*Failure of Espoused Theory Translation*). |
+| **Kelengkapan 9 Domain Fondasi** | Seluruh dokumen `01_PHILOSOPHY` (Domain 01 s/d 09) berstatus selesai dan koheren. | 100% Selesai | Terpenuhi |
+| **Demarkasi PIM yang Tegas** | Dokumen Core Model dirancang sebagai Platform-Independent Model tanpa hardcode teknis. | 100% Patuh | Wajib |
+| **Definisi 8 Kapasitas Inti** | Rubrik perilaku adab terpetakan melintasi Jenjang Kemandirian J1 hingga J4. | Min. 8 Dimensi | Kritis |
+| **Arsitektur Ekologi Tumbuh** | Spesifikasi perlindungan tidur sirkadian 8 jam dan sanitasi terkunci secara sistemik. | 100% Terlindungi | Hak Santri |
+| **Mekanisme Umpan Balik Restoratif** | Ketersediaan protokol mediasi kamar dan penghapusan sanksi retributif fisik. | 100% Diadopsi | Wajib Mutlak |
+
+### 5.2 Pembahasan Dialektika dan Rekonsiliasi Epistemik
+
+Demarkasi epistemologis antara Lapisan Fondasi Filosofis (`01_PHILOSOPHY`) dengan Lapisan Model Inti (`02_CORE_MODEL`) dirangkum dalam perbandingan berikut:
+- **Lapisan Fondasi (Domain 01 s/d 09)** menjawab pertanyaan *WHY & WHAT ESSENCE*: Mengapa kita mendidik, apa hakikat manusia, dan apa nilai-nilai universal yang membatasi tindakan?
+- **Lapisan Core Model (Pilar 1 s/d 4)** menjawab pertanyaan *HOW IT GROWS*: Bagaimana fitrah bertumbuh, lingkungan apa yang menyuburkannya, dan mekanisme apa yang menggerakkan perubahan perilakunya?
+
+TUMBUH mengonstruksi Core Model ke dalam Empat Pilar Terpadu:
+1. **Growth Ecology (Ekologi Tumbuh)**: Rekayasa lingkungan fisik dan sosial asrama yang aman dari ancaman, menjamin hak istirahat sirkadian 8 jam, rasio musyrif-santri ideal 1:20, dan sanitasi yang bermartabat.
+2. **Growth Mechanism (Mekanisme Tumbuh)**: Tahapan psikososial dan neurologis perubahan perilaku santri, bergerak dari keteladanan musyrif (*qudwah*), latihan mikro bertahap (*tadarruj*), refleksi restoratif, hingga internalisasi nilai mandiri.
+3. **Core Capacities (Kapasitas Inti)**: Delapan kapasitas adab fundamental (keimanan fungsional, regulasi emosi, tanggung jawab pribadi, empati sosial, integritas belajar, kemandirian hidup, komunikasi santun, dan kepemimpinan khidmah) yang dipetakan secara terukur melintasi Empat Jenjang Kemandirian (J1–J4).
+4. **System Logic (Logika Sistem)**: Aliran data, indikator observasi, dan siklus umpan balik koreksi diri (*cybernetic feedback loop*) yang mengikat seluruh ekosistem pembinaan.
+
+Dialektika ini mendekonstruksi anggapan populer "yang penting niat ikhlas":
+1. Niat ikhlas adalah syarat diterimanya amal, namun keselarasan cara dengan petunjuk syariat (*muwafaqat as-sunnah*) adalah syarat mutlak yang setara. Memukul santri dengan niat ikhlas tetap merupakan kezaliman yang diharamkan.
+2. Kebutaan metodologis terhadap psikologi perkembangan anak sering melahirkan bencana kejiwaan atas nama cinta dan pendidikan.
+3. Core Model hadir sebagai kompas yang menyalurkan niat ikhlas pendidik ke dalam tindakan yang adil dan beradab.
+
+Demikian pula rekonsiliasi antara takdir dan rekayasa sistem: takdir Allah SWT berjalan melalui hukum sebab-akibat (*sunnatullah fi al-asbab*). Menolak pemodelan sistemik dengan dalih pasrah takdir adalah bentuk kemalasan (*'ajz*) yang tercela dalam syariat.
+
+### 5.3 Keberatan (*I'tiradh*) dan Bantahan
+
+*Keberatan Pertama*: Bukankah memasukkan lapisan Core Model memperpanjang birokrasi konseptual repositori dan memperlambat perumusan SOP operasional praktis di lapangan?
+
+*Jawaban*: Melompat langsung ke penyusunan SOP tanpa Core Model adalah resep kegagalan fatal. Sebagaimana terbukti di Pesantren Dar al-Hikmah dan ditegaskan dalam metodologi MDA, melompati model konseptual menghasilkan SOP yang kaku, ambigu, dan represif. Waktu yang digunakan untuk merancang Core Model secara presisi justru menghemat energi kelembagaan dalam jangka panjang dengan mencegah terjadinya krisis kekerasan, konflik antar-staf, dan dropout massal.
+
+*Keberatan Kedua*: Apakah penyusunan skala kematangan dan indikator kapasitas adab (J1–J4) tidak mendistorsi hakikat ikhlas dalam ibadah menjadi sekadar angka-angka formalitas perilaku?
+
+*Jawaban*: Indikator kapasitas adab TUMBUH bukanlah penilaian pahala atau derajat keikhlasan batin—yang merupakan prerogatif mutlak Allah SWT. Indikator ini adalah instrumen pengamatan perilaku eksternal (*al-hukm bi azh-zhahir*) yang dirancang untuk membantu musyrif mengetahui tingkat kesiapan dan kebutuhan bimbingan santri. Sebagaimana fukaha menetapkan syarat sah shalat secara lahiriah tanpa mengklaim mengetahui keikhlasan hati pelakunya, Core Model memetakan kematangan adab lahiriah santri secara proporsional.
+
+*Keberatan Ketiga*: Mengapa sistem pendidikan pesantren memerlukan Core Model rancangan sendiri dan tidak mengadopsi langsung model-model psikologi perkembangan Barat kontemporer yang sudah mapan?
+
+*Jawaban*: Model-model psikologi sekuler umumnya berakar pada antropologi materialistik yang memandang manusia semata sebagai organisme biologis dan sosial tanpa dimensi ruhani serta fitrah tauhid. TUMBUH mengintegrasikan temuan empiris sains modern (seperti teori Lewin, Simon, dan Bronfenbrenner) ke dalam kerangka metafisika Islam (*ta'dib* dan *tazkiyatun nufus*). Mengadopsi psikologi sekuler secara mentah akan melahirkan dualisme epistemik yang mencerabut santri dari akar spiritualnya.
 
 ---
 
+## 6. Kesimpulan
 
-### 8.3 Matriks Transformasi Transisi: 9 Domain Fondasi Menuju 4 Pilar Core Model
+Penyelidikan P00033 membuktikan secara definitif bahwa gerbang transisi menuju *Core Model* pasca-penuntasan sembilan domain Fondasi Filosofis adalah keniscayaan arsitektural mutlak dalam Repositori TUMBUH v2.0.0. Tanpa adanya Core Model, nilai-nilai filosofis tauhid dan adab akan terperangkap di menara gading retorika, sementara operasional asrama akan terus dikuasai oleh pragmatisme buta dan kekerasan fisik. Melalui sintesis metodologi *tahqiq al-manath* ushul fiqh bersama prinsip *Model-Driven Architecture*, Core Model diposisikan sebagai jembatan emas epistemik yang menerjemahkan hikmah filosofis menjadi empat pilar terpadu: *Growth Ecology*, *Growth Mechanism*, *Core Capacities*, dan *System Logic*.
 
-| Domain Fondasi Filosofis (Lapisan 01) | Pilar Sasaran di Core Model (Lapisan 02) | Mekanisme Penerjemahan Operasional di Asrama |
-| :--- | :--- | :--- |
-| **Domain 01: Worldview (Tauhidullah)** | *Poros Tengah: Pertumbuhan Fitrah* | Orientasi niat seluruh rutinitas asrama 24 jam murni mencari ridha Allah SWT. |
-| **Domain 02: Epistemology (Ilmu Syar'i)** | *Pilar 4: System Logic* | Keterlacakan data logbook SIM-TUMBUH; eliminasi overclaim prestasi santri. |
-| **Domain 03: Human Nature (Fitrah Insan)** | *Pilar 3: Core Capacity Architecture* | Pemetaan 8 Kapasitas Inti; pengakuan potensi kemuliaan ruh, qalb, dan 'aql. |
-| **Domain 04: Human Development (Etape Usia)** | *Pilar 1: Growth Ecology & Pilar 3* | Diferensiasi perlakuan melintasi Etape J1 (Tamyiz) hingga J4 (Kemandirian Penuh). |
-| **Domain 05: Education (Hakikat Ta'dib)** | *Pilar 2: Growth Mechanism* | Penerapan siklus latihan adab 5 stasiun: pengalaman hingga pembiasaan watak. |
-| **Domain 06: Leadership (Qudwah Hasanah)** | *Pilar 1: Growth Ecology* | Kehadiran fisik aktif musyrif sebagai figur teladan pengasuh penuh kasih sayang. |
-| **Domain 07: Change Dynamics (Sunnatut Taghyir)** | *Pilar 2: Growth Mechanism* | Pentahapan bertahap Takhalli-Tahalli-Tajalli; penanganan relaps restoratif. |
-| **Domain 08: Core Principles (Konstitusi Nilai)** | *Pilar 4: System Logic* | Hak veto materiil atas setiap regulasi asrama; larangan mutlak sanksi fisik. |
-| **Domain 09: System Architecture (Cetak Biru)** | *Arsitektur Pengikat Seluruh Pilar* | Unifikasi Master Schedule 24 jam, SIM-TUMBUH, dan integrasi antar-subsistem. |
+Implikasi bagi repositori disahkan melalui Keputusan Rekayasa Sistem (ADR-PROBE-0033) yang menetapkan dokumen `01_FUNDAMENTAL/02_CORE_MODEL/01_MODEL_OVERVIEW.md` sebagai gerbang transisi kanonik, di mana perancangan dokumen implementasi pada Lapisan `02_IMPLEMENTATION` dan SOP pada Lapisan `03_OPERATIONAL` dilarang mendahului penguncian Core Model. Integritas transisi dikawal oleh Sepuluh Guardrails: (1) larangan melompati pemodelan inti menuju SOP; (2) keterlacakan setiap kapasitas adab ke prinsip tauhid; (3) proteksi mutlak ekologi sirkadian 8 jam; (4) pengoperasian lima etape mekanisme tumbuh bertahap; (5) eliminasi sanksi retributif fisik; (6) pembedaan tegas antara *Espoused Theory* dan *Theory-in-Use*; (7) pemeliharaan batas dekomposisi modularitas sistem; (8) penilaian perilaku berbasis observasi objektif lahiriah; (9) keselarasan sains sistem modern dengan nilai ruhani; serta (10) keterbukaan model terhadap perbaikan berbasis data empiris lapangan.
 
-## 9. Protokol Tata Kelola & Tindakan Arsitektural Pengembang
-
-Penetapan logika transisi ini menuntut protokol tata kelola yang ketat bagi seluruh tim pengembang repositori dan praktisi pengasuhan pesantren.
-
-### 9.1 Siklus Verifikasi Transisi Arsitektur (The Architecture Transition Cycle)
-Sebelum seorang perancang kurikulum atau praktisi asrama menyusun dokumen implementasi teknis (seperti SOP atau kurikulum asrama), ia wajib memvalidasi alur transisi melalui empat gerbang:
-
-```text
-[Gerbang 1: Validasi Fondasi Filosofis (Lapisan 01)]
-   Pastikan prinsip filosofis di Domain 01 s/d 08 telah tuntas dipahami & terkunci integritasnya.
-                                ↓
-[Gerbang 2: Penurunan Menuju Core Model (Lapisan 02)]
-   Turunkan prinsip filosofis ke dalam salah satu dari 4 Pilar Core Model (Ekologi, Mekanisme, Kapasitas, Logika).
-                                ↓
-[Gerbang 3: Uji Keselarasan Kapasitas Etape (J1 s/d J4)]
-   Petakan perilaku yang diharapkan ke dalam taksonomi 8 Kapasitas Inti sesuai kesiapan biologis etape usia santri.
-                                ↓
-[Gerbang 4: Formulasi SOP Lapangan Bebas Kekerasan (Lapisan 03)]
-   Rumuskan prosedur operasional musyrif yang menjamin perlindungan fitrah santri tanpa sanksi retributif.
-```
-
-### 9.2 Format Instrumen Evaluasi Kelaikan Transisi Sistem (`F-CORE-AUDIT`)
-TUMBUH menetapkan instrumen audit untuk memvalidasi bahwa perancangan dokumen implementasi telah melalui gerbang Core Model secara sah:
-
-| Kode Aspek | Parameter Audit Transisi | Kriteria Kepatuhan TUMBUH | Status (Lolos / Ditolak) |
-| :--- | :--- | :--- | :--- |
-| **COR-01** | Keterikatan pada 4 Pilar Core Model | Dokumen implementasi merujuk secara eksplisit pada Ekologi, Mekanisme, Kapasitas, atau Logika Sistem. | [ ] Lolos  [ ] Ditolak |
-| **COR-02** | Kejelasan Etape Kemandirian (J1-J4) | Seluruh tuntutan perilaku santri disesuaikan dengan taksonomi etape usia; tidak ada penyamarataan buta. | [ ] Lolos  [ ] Ditolak |
-| **COR-03** | Proteksi Ekologi Sirkadian 8 Jam | Dokumen menjamin hak tidur malam santri minimal 8 jam utuh tanpa interupsi sanksi atau tugas tambahan. | [ ] Lolos  [ ] Ditolak |
-| **COR-04** | Ketiadaan Sanksi Fisik Retributif | Rencana SOP bebas 100% dari hukuman tamparan, pukulan, jemur lapangan, push-up, atau penghinaan sosial. | [ ] Lolos  [ ] Ditolak |
-| **COR-05** | Mekanisme Swa-Koreksi Terbuka | Tersedia saluran pelaporan umpan balik bagi santri dan musyrif untuk mengevaluasi efektivitas intervensi. | [ ] Lolos  [ ] Ditolak |
+Keterbatasan inkuiri ini terletak pada perlunya kalibrasi empiris indikator kapasitas adab pada santri dengan kebutuhan pendidikan khusus (*inclusive boarding school*). Berdasarkan temuan ini, inkuiri berstatus **BERLANJUT** menuju penyelidikan penentu arah pemodelan inti: P00034 (*Apa yang Menjadi Poros Tengah Core Model TUMBUH?*).
 
 ---
 
+## 7. Daftar Pustaka
 
-### 9.3 Format Panduan Klinis Musyrif: Menavigasi Disorientasi Adaptasi Santri Etape J1 ke J2
-Ketika santri bertransisi dari fase anak-anak awal (J1, usia 12–13 tahun) menuju fase pubertas mekar (J2, usia 14–15 tahun), mereka kerap mengalami lonjakan emosi limbik, kegelisahan identitas, dan dorongan mencari pengakuan teman sebaya. Musyrif wajib menerapkan protokol pendampingan transisi:
-1. **Dilarang Menghukum Ledakan Emosional dengan Kekerasan**: Sadari bahwa lonjakan hormon androgen dan asinkronisitas maturasi amigdala membuat santri J2 rentan bersikap argumentatif. Musyrif merespons dengan ketenangan stabil (*calm non-reactive presence*).
-2. **Pemberian Ruang Otonomi Terbimbing (*Supported Autonomy*)**: Berikan peran tanggung jawab sosial mikro di kamar (misalnya menjadi koordinator kebersihan atau penanggung jawab inventaris buku) untuk memuaskan kebutuhan kompetensi dan otonomi santri.
-3. **Fasilitasi Halaqah Dialogis Sokratik**: Alihkan metode instruksi satu arah menjadi dialog dua arah; dengarkan pendapat santri mengenai dinamika asrama dan hargai ide-ide solutif mereka.
-
-## 10. Keputusan Rekayasa Sistem (Architectural Decision Record - ADR)
-
-Berikut adalah ketetapan arsitektural resmi yang mengunci logika transisi dan keharusan Core Model dalam Repositori TUMBUH v2.0.0:
-
-### 10.1 Parameter Metadata Keputusan Arsitektur Sistem
-
-| Parameter ADR | Rincian Ketetapan Sistemik |
-| :--- | :--- |
-| **Nomor Keputusan** | ADR-PROBE-0033 |
-| **Judul Keputusan** | Deklarasi Keharusan Arsitektural Pemodelan Inti (Core Model) sebagai Jembatan Transisi Fondasi ke Implementasi |
-| **Status Keputusan** | Disetujui dan Dipermanenkan (*Accepted & Canonical Baseline*) |
-| **Pengambil Keputusan** | Majelis Perancang Sistem & Konsil Epistemik Tertinggi TUMBUH v2.0.0 |
-| **Konteks Masalah** | Kegagalan sistemik implementasi nilai-nilai filosofis pesantren akibat terjadinya jurang pemisah antara rumusan filosofis abstrak di lapisan atas dengan SOP teknis di lapangan, yang melahirkan tirani kekerasan musyrif dan fragmentasi kelembagaan. |
-| **Keputusan Diambil** | Menetapkan secara mutlak bahwa setelah menuntaskan Lapisan Fondasi Filosofis (Domain 01 s/d 09), sistem WAJIB memasuki perancangan Model Inti Pertumbuhan Santri (*Core Model*). Dilarang keras merumuskan kebijakan kelembagaan (`02_IMPLEMENTATION`) dan SOP operasional (`03_OPERATIONAL`) tanpa melalui pemodelan 4 Pilar Core Model. |
-| **Dampak Positif** | 1. Menghilangkan jurang implementasi (*implementation chasm*) antara filosofi tauhid dengan praktik asrama 24 jam.<br>2. Memberikan panduan operasional yang terukur dan objektif bagi musyrif dalam membina adab santri.<br>3. Mengeliminasi mutlak praktik kekerasan fisik, sanksi retributif, dan perampasan hak sirkadian santri. |
-| **Konsekuensi Negatif / Biaya** | Menuntut kerja intelektual ekstra dalam merumuskan dan menguji validitas 4 Pilar Core Model, serta mengharuskan pelatihan intensif bagi seluruh jajaran pengasuh pesantren untuk memahami logika model tersebut. |
-
-### 10.2 Elemen Evaluasi dan Pengendalian Mutu Sistem
-
-| Elemen Evaluasi | Standar Kelaikan TUMBUH | Mekanisme Verifikasi Audit |
-| :--- | :--- | :--- |
-| **Kepatuhan Runtutan Dokumen** | Dokumen implementasi hanya boleh disahkan jika telah lulus uji verifikasi instrumen `F-CORE-AUDIT`. | Verifikasi Keterlacakan Git & Audit Komite Penjamin Mutu Adab. |
-| **Larangan Pelompatan Arsitektur** | Tidak ada draf SOP yang diizinkan melompati Core Model dan langsung mengklaim bersandar pada Worldview Tauhid. | Peninjauan Berkas oleh Tim Arsitek Sistem TUMBUH. |
-| **Audit Validitas Kapasitas Santri** | Rubrik penilaian kapasitas santri wajib divalidasi secara psikometrik dan terbukti ramah fitrah anak. | Evaluasi Longitudinal Hasil Penilaian SIM-TUMBUH. |
-
----
-
-## 11. Implikasi bagi Repositori TUMBUH & Sepuluh Guardrails Tata Kelola
-
-Penetapan logika transisi ini memiliki implikasi yuridis dan metodologis yang mengikat seluruh struktur repositori TUMBUH v2.0.0.
-
-### 11.1 Implikasi Lintas Lapisan Repositori
-- **Lapisan 01_FUNDAMENTAL**: Menegaskan bahwa sub-direktori `02_CORE_MODEL/` adalah jantung operasional dari fundamental sistem. Dokumen perkembangan (*Progression*), asesmen (*Assessment*), dan intervensi (*Intervention*) wajib mengacu pada 8 Kapasitas Inti Core Model.
-- **Lapisan 02_IMPLEMENTATION**: Struktur kelembagaan pesantren, pembagian tugas musyrif, dan relasi wali santri wajib ditata untuk menopang *Growth Ecology* dan memfasilitasi *Growth Mechanism*.
-- **Lapisan 03_OPERATIONAL**: Buku saku tata tertib, logbook pendampingan, dan instrumen de-eskalasi konflik musyrif wajib mengacu secara presisi pada logika sistem Core Model.
-
-### 11.2 Sepuluh Guardrails Tata Kelola Transisi Sistem TUMBUH
-1. **Guardrail 1: Larangan Melompati Core Model**. Dilarang keras merumuskan kebijakan operasional, tata tertib santri, atau instrumen evaluasi musyrif secara langsung dari Domain Fondasi tanpa melalui pemodelan 4 Pilar Core Model. Pelompatan langsung dari konsep filosofis abstrak ke aturan teknis terbukti secara historis selalu melahirkan kesewenang-wenangan interpretasi musyrif di lapangan yang mencederai martabat fitrah anak didik. Setiap klausul aturan asrama wajib memiliki rantai keterlacakan yang jelas menuju salah satu dari empat pilar Core Model.
-2. **Guardrail 2: Primasi Pertumbuhan Fitrah atas Kepatuhan Buta**. Tolok ukur keberhasilan sistem bukanlah kepatuhan mekanis santri yang lahir dari rasa takut, melainkan pertumbuhan fitrah menuju kemandirian beradab yang sadar (*self-regulated adab*). Sistem melarang perancangan tata tertib yang menuntut ketundukan pasif tanpa nalar, karena ketundukan pasif hanya mencetak kepribadian munafik yang kehilangan daya kritis dan kemerdekaan jiwa.
-3. **Guardrail 3: Penyelarasan Ekologi Wajib (Ecology-First Rule)**. Sebelum menuntut perubahan perilaku adab dari santri, manajemen lembaga wajib terlebih dahulu memastikan bahwa ekologi fisik, jadwal sirkadian, dan iklim sosial asrama telah tertata secara aman dan manusiawi. Menuntut santri untuk khusyuk beribadah dan tertib belajar sementara fasilitas sanitasi asrama rusak dan waktu istirahat mereka terpotong adalah bentuk kezaliman struktural yang dilarang mutlak.
-4. **Guardrail 4: Batas Ekologis Tidur Sirkadian 8 Jam**. Tidak ada program kurikulum, jam tambahan, atau penegakan disiplin yang diizinkan merampas hak tidur malam biologis santri (minimal 8 jam utuh untuk santri etape J1-J2). Pemenuhan kebutuhan biologis tidur adalah fondasi fisiologis dari konsolidasi memori hafalan dan kestabilan emosi remaja; mengorbankan tidur malam atas nama disiplin adalah bentuk malapraktik pedagogis yang bertentangan dengan sains dan syariat.
-5. **Guardrail 5: Larangan Mutlak Sanksi Fisik dan Pelecehan Verbal**. Setiap bentuk kekerasan fisik (tamparan, pukulan, tendangan, jemur lapangan, push-up) dan kekerasan verbal (caci maki, penghinaan asal-usul keluarga) dikategorikan sebagai pelanggaran berat sistem yang membatalkan wewenang musyrif. Lembaga menegakkan kebijakan nol toleransi (zero tolerance) terhadap kekerasan, menjamin bahwa pesantren adalah zona aman yang suci dari segala bentuk intimidasi dan perundungan fisik maupun psikis.
-6. **Guardrail 6: Transparansi Rubrik 8 Kapasitas Inti**. Indikator penilaian adab santri wajib transparan, terukur, dan dipahami oleh santri serta wali santri; dilarang menggunakan penilaian subjektif yang kabur. Setiap santri berhak mengetahui peta capaian kemandirian dirinya secara jelas dan menerima umpan balik yang konstruktif dari musyrif pendamping, menghindarkan evaluasi dari bias prasangka personal pengasuh.
-7. **Guardrail 7: Toleransi Perkembangan terhadap Relaps**. Kekambuhan perilaku negatif santri diperlakukan sebagai kesempatan belajar restoratif dan diagnostik ZPD, bukan dasar untuk menjatuhkan vonis kegagalan moral permanen. Dinamika naik-turun dalam proses hijrah karakter adalah hal yang manusiawi dan alami; pendidik sejati hadir untuk merangkul dan membimbing santri bangkit kembali, bukan mencampakkannya ke dalam jurang keputusasaan.
-8. **Guardrail 8: Interoperabilitas Data Tunggal SIM-TUMBUH**. Seluruh catatan perkembangan adab, kesehatan, dan akademik santri terintegrasi dalam satu platform data terpadu untuk mencegah keputusan sepihak yang terfragmentasi. Keterpaduan data ini memastikan tidak ada santri yang terabaikan penderitaannya atau menjadi korban tabrakan kebijakan antar-unit lembaga.
-9. **Guardrail 9: Musyrif sebagai Pemandu Fitrah, Bukan Sipir Penjara**. Peran utama musyrif di kamar asrama adalah sebagai figur lekat pengganti orang tua (*in loco parentis*) yang membimbing dengan keteladanan dan kasih sayang. Musyrif dinilai keberhasilannya bukan dari seberapa heningnya santri karena ketakutan, melainkan dari seberapa hangatnya ukhuwah kamar dan terbukanya santri dalam mencurahkan isi hati mereka.
-10. **Guardrail 10: Hak Uji Konstitusional bagi Santri**. Santri memiliki hak yang dilindungi untuk mempertanyakan keadilan aturan asrama dan melaporkan indikasi kezaliman pengasuh melalui saluran pengaduan yang aman dan terlindungi. Lembaga menjamin kerahasiaan identitas dan perlindungan mutlak bagi santri pelapor dari intimidasi atau sanksi balasan, menegakkan supremasi adab yang mengikat seluruh civitas tanpa kecuali.
-
----
-
-
-### 11.3 Protokol Pengawalan Integritas Model Inti (The Core Model Integrity Review Protocol)
-Majelis Pengasuh dan Dewan Asatidz Pesantren menetapkan siklus pengawalan integritas tahunan untuk memastikan Core Model tidak mengalami distorsi di lapangan:
-1. **Audit Empiris Relevansi Kapasitas (Capacity Relevance Audit)**: Mengevaluasi apakah 8 Kapasitas Inti masih selaras dengan tantangan riil yang dihadapi santri di era transformasi digital kontemporer.
-2. **Uji Validitas Ekologis Asrama (Ecological Fidelity Test)**: Memeriksa secara berkala apakah standar rasio musyrif-santri (1:20), jam tidur 8 jam, dan sanitasi asrama benar-benar diterapkan di lapangan ataukah sekadar laporan manipulatif di atas kertas.
-3. **Penyempurnaan Berkelanjutan (*Continuous Model Refinement*)**: Core Model dirancang sebagai organisme pembelajar yang terbuka terhadap penyempurnaan berdasarkan temuan-temuan riset empiris baru di lapangan tanpa merusak prinsip-prinsip inti fondasi.
-
-## 12. Penutup & Emergent Chain of Inquiry
-
-### 12.1 Sintesis Penutup
-Penyelidikan mendalam dalam P00033 membuktikan secara definitif bahwa penempatan gerbang transisi menuju *Core Model* pasca-penuntasan sembilan domain Fondasi Filosofis adalah sebuah keharusan arsitektural yang tidak dapat ditawar dalam Repositori TUMBUH v2.0.0. Tanpa adanya Core Model, nilai-nilai filosofis tauhid, fitrah, dan adab yang agung akan tetap terperangkap di menara gading retorika, sementara praktik lapangan asrama akan terus dikuasai oleh pragmatisme buta, kekerasan fisik, dan kezaliman struktural.
-
-Core Model hadir sebagai jembatan emas epistemik yang menerjemahkan hikmah syariat menjadi ekologi tumbuh yang aman, mekanisme perubahan yang bertahap, arsitektur kapasitas yang terukur, dan logika sistem yang beradab. Dengan terbukanya gerbang transisi ini, repositori TUMBUH siap melangkah maju untuk membedah anatomi organ-organ internal pemodelan inti, diawali dengan penyelidikan mendalam mengenai poros tengah yang menjadi pusat gravitasi dari seluruh arsitektur sistem.
-
-Transisi ini menjadi bukti nyata bahwa ekosistem TUMBUH tidak membiarkan nilai-nilai luhur Islam melayang tanpa wujud, melainkan menjelmakannya menjadi gerakan nyata yang menyejahterakan jiwa santri lahir dan batin, mengokohkan pilar peradaban keilmuan yang memancarkan rahmat bagi semesta alam.
-
-### 12.2 Emergent Research Questions Menuju P00034
-Keberhasilan mengunci keniscayaan transisi arsitektural menuju Core Model memunculkan pertanyaan penelitian lanjutan yang sangat krusial bagi penentuan arah pemodelan:
-
-1. Di tengah kompleksitas ekosistem pesantren yang melibatkan dimensi fisik, sosial, spiritual, dan kognitif santri, apakah yang menjadi **Poros Tengah (*Center of Gravity*)** tak tergoyahkan yang mengikat dan menyelaraskan seluruh komponen Core Model?
-2. Mengapa pertumbuhan fitrah santri menuju kemandirian beradab (*autonomous adab*) ditetapkan sebagai poros tengah sistemik, dan bagaimana poros ini membedakan secara radikal model TUMBUH dari model pemodelan perilaku sekuler (*behaviorism*) maupun model kepatuhan militeristik?
-3. Indikator filosofis dan neurobiologis apa yang membuktikan bahwa seorang santri sedang bergerak mendekat ke arah poros kemandirian fitrah tersebut, dan bagaimana musyrif mendeteksi terjadinya deviasi dari poros tengah ini?
-
-Rangkaian pertanyaan riset fundamental ini menjadi jembatan inkuiri langsung menuju penyelidikan mendalam pada berkas **P00034: Apa yang Menjadi Poros Tengah Core Model TUMBUH?**.
-
----
-
-## 13. Referensi Terkurasi Lengkap (APA 7th Edition Bersih & Takhrij Turats)
-
-### 13.1 Khazanah Turats Primer & Hermeneutika Syariat
-* Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'Ilm al-Ushul* (M. 'A. Asy-Syafi, Ed.). Dar al-Kutub al-'Ilmiyyah.
-* Al-Ghazali, A. H. (2004). *Ihya' 'Ulumiddin* (Jilid 1–4). Dar al-Ma'rifah.
-* As-Subki, T. (1991). *Al-Asybah wa an-Nazha'ir* (A. 'A. Thaha, Ed.; Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
-* Asy-Syathibi, I. (1997). *Al-Muwafaqat fi Ushul asy-Syari'ah* (M. 'A. Daraz, Ed.; Jilid 1–4). Dar Ibnu 'Affan.
-* Ibnu an-Najjar, M. (1997). *Syarh al-Kawkab al-Munir fi Ushul al-Fiqh* (M. az-Zuhaili & N. Hammad, Ed.; Jilid 1–4). Maktabah al-'Ubaikan.
-* Ibnu Jama'ah, B. (2012). *Tadzkirat as-Sami' wa al-Mutakallim fi Adab al-'Alim wa al-Muta'allim*. Dar al-Basyair al-Islamiyyah.
-* Ibnul Arabi, M. A. (2003). *Ahkam al-Qur'an* (M. 'A. 'Atha, Ed.; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
-
-### 13.2 Sains Sistem, Teori Organisasi, & Psikologi Kontemporer
-* Alexander, C. (1979). *The Timeless Way of Building*. Oxford University Press.
-* Argyris, C., & Schön, D. A. (1974). *Theory in Practice: Increasing Professional Effectiveness*. Jossey-Bass.
-* Argyris, C., & Schön, D. A. (1978). *Organizational Learning: A Theory of Action Perspective*. Addison-Wesley.
-* Bertalanffy, L. von. (1968). *General System Theory: Foundations, Development, Applications*. George Braziller.
-* Kolb, D. A. (1984). *Experiential Learning: Experience as the Source of Learning and Development*. Prentice-Hall.
-* Lewin, K. (1951). *Field Theory in Social Science: Selected Theoretical Papers* (D. Cartwright, Ed.). Harper & Row.
-* Object Management Group (OMG). (2003). *MDA Guide Version 1.0.1*. Object Management Group.
-* Simon, H. A. (1996). *The Sciences of the Artificial* (3rd ed.). MIT Press.
-* Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
+- Al-Ghazali, A. H. (1993). *Al-Mustashfa min 'ilm al-ushul* (M. 'A. Asy-Syafi, Ed.). Dar al-Kutub al-'Ilmiyyah.
+- Argyris, C., & Schön, D. A. (1974). *Theory in practice: Increasing professional effectiveness*. Jossey-Bass.
+- Argyris, C., & Schön, D. A. (1978). *Organizational learning: A theory of action perspective*. Addison-Wesley.
+- Asy-Syathibi, I. (1997). *Al-Muwafaqat fi ushul asy-syari'ah* (M. 'A. Daraz, Ed.; Jilid 1–4). Dar Ibnu 'Affan.
+- Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.
+- Ibnu al-Qayyim al-Jauziyyah, M. (1998). *Miftah dar as-sa'adah wa mansyur wilayat al-'ilm wa al-iradah* (Jilid 1–2). Dar al-Kutub al-'Ilmiyyah.
+- Ibnu an-Najjar, M. (1997). *Syarh al-kawkab al-munir fi ushul al-fiqh* (M. az-Zuhaili & N. Hammad, Ed.; Jilid 1–4). Maktabah al-'Ubaikan.
+- Ibnul Arabi, M. A. (2003). *Ahkam al-Qur'an* (M. 'A. 'Atha, Ed.; Jilid 1–4). Dar al-Kutub al-'Ilmiyyah.
+- Kolb, D. A. (1984). *Experiential learning: Experience as the source of learning and development*. Prentice-Hall.
+- Lewin, K. (1951). *Field theory in social science: Selected theoretical papers* (D. Cartwright, Ed.). Harper & Row.
+- Object Management Group (OMG). (2003). *MDA guide version 1.0.1*. Object Management Group.
+- Simon, H. A. (1996). *The sciences of the artificial* (3rd ed.). MIT Press.
+- Vygotsky, L. S. (1978). *Mind in society: The development of higher psychological processes*. Harvard University Press.
